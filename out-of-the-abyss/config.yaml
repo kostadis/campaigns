@@ -11,6 +11,10 @@ agents:
   encounter_architect: /home/kroussos/CampaignGenerator/config/agents/encounter_architect.md
   voice_keeper: /home/kroussos/CampaignGenerator/config/agents/voice_keeper.md
 
+mempalace:
+  index_wings: [chronicle, abyss]
+  canon_wing: narrative
+
 documents:
   - label: campaign_state
     path: /home/kroussos/campaigns/out-of-the-abyss/docs/campaign_state.md
