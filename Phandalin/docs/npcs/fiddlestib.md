@@ -1,30 +1,25 @@
 # Fiddlestib
 
 ## Identity
-- Gnome inventor; resident of the gnome settlement
-- First appeared when she (alongside Dabblebob) commissioned the party to kill a mimic threatening the settlement
+- Gnome inventor; one half of a duo alongside Dabblebob
+- First appeared when she and Dabblebob hired the party to deal with a mimic
 
 ## Personality & Motivations
-- Driven by scientific curiosity — her immediate reaction to the mimic's death was excitement about harvesting its entrails for a construct project
-- Holds firm political opinions and is not shy about voicing them; engaged in an active ideological debate without hesitation when she overheard destabilizing political talk
-- Tends to get absorbed in arguments and intellectual disputes, possibly to the exclusion of other concerns
+- Driven by invention and experimentation — immediately pivoted from relief at the mimic's death to excitement about what constructs could be made from its entrails
+- Holds strong opinions on political theory, unprompted; advocates for a bicameral legislature with a unitary executive
+- Her enthusiasm for repurposing monster remains unsettled Soma
 
 ## History with the Party
-1. Commissioned the party to eliminate a mimic in or near the gnome settlement
-2. Received proof of the mimic's death from the party; pivoted immediately to discussing construct-building from the creature's remains
-3. Overheard Vukradin destabilizing the dual monarchy; declared her support for a bicameral legislature with a unitary executive
-4. Fell into an extended debate with Dabblebob over the feasibility of a tamper-proof voting box
+- Hired the party to eliminate a mimic; upon receiving proof of its death, she began enthusiastically theorizing about construct-crafting from the creature's organs
+- Overheard the party debating the dual monarchy question and immediately inserted herself into the political discussion
 
 ## Current Status
-- **Last known location:** The gnome settlement
-- **Current activity:** Arguing with Dabblebob about voting box design
-- **Party knowledge:** The party knows her political views and her interest in mimic-based construct research
-- **Hidden:** Whether the construct project has advanced; how far the voting box debate may lead politically
+- Last seen engaged in an argument with Dabblebob over the design of a tamper-proof voting box
+- No known active operations beyond ongoing invention work and political debate with her partner
 
 ## Relationships
-- **Dabblebob:** Fellow gnome inventor and co-commissioner of the mimic job; current sparring partner in a debate over tamper-proof voting box design — relationship appears collaborative but contentious
-- **Vukradin (party member):** His destabilization of the dual monarchy prompted her unsolicited political declaration; she may view him as a catalyst or a threat to political stability
-- **The Party:** Professional relationship established through the mimic contract; generally positive
+- **Dabblebob:** Co-inventor and frequent debate partner; currently arguing with him over voting box design
+- **Soma:** Soma was visibly disturbed by Fiddlestib's casual attitude toward harvesting mimic entrails
 
 ## Arc Score Events
-- No arc score changes recorded in source notes
+None recorded.

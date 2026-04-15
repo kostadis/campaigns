@@ -1,28 +1,28 @@
 # Qelline Alderleaf
 
 ## Identity
-- Role: Local farmer outside Phandalin
-- Faction: None known
-- First appearance: Party approached her to negotiate grazing fees for Big Al's cow, Petunia
+- **Role:** Local farmer, Phandalin
+- **Faction:** None noted
+- **First Appearance:** Party approached her farm while negotiating on Big Al's behalf over grazing rights for his cow, Petunia
 
 ## Personality & Motivations
-- **Core goal:** To receive a direct, personal apology from Big Al for wrongs both professional and deeply personal
-- Harbors significant resentment toward Big Al — initially framed as a business grievance but rooted in genuine heartbreak. She is calculating in how she applies pressure, using the inflated grazing fee as deliberate leverage rather than simple greed.
+- **Core Goals:** Financial restitution and, more importantly, a personal apology from Big Al for the harm his past business practices caused her farm
+- Pragmatic and sharp — she immediately clocked that Big Al sent intermediaries rather than facing her himself, and used it against him. Her "hurt price" of one gold per week was deliberate and calculated, not arbitrary. Beneath the financial grievance is a clear demand for respect and acknowledgment of wrongdoing.
 
 ## History with the Party
-- The party came to Qelline to negotiate reduced grazing fees for Petunia (Big Al's cow), which Qelline had set at 1 gp/week — acknowledged by her to be a punitive "hurt price."
-- Under questioning, she revealed the full history: Big Al's competitive pricing at Butterskull Ranch had damaged her farm's income, and more significantly, he had abandoned her the night before their wedding.
-- She offered to halve the fee to 5 sp/week, contingent on Big Al appearing in person to apologize.
+1. **Grazing Negotiation:** The party approached Qelline on Big Al's behalf to negotiate a reduced rate for Petunia's grazing on her land. She had set the price at 1gp/week as a punitive measure rooted in her history with Big Al.
+2. **Terms Agreed:** She agreed to lower the fee to 5sp/week on one condition — Big Al must come in person to apologize.
+3. **Reconciliation:** Big Al arrived at her farm carrying Petunia. The party stepped back and allowed the reconciliation to proceed privately.
 
 ## Current Status
-- **Last known location:** Her farm outside Phandalin
-- **Active condition:** Waiting for Big Al's personal apology before reducing the fee
-- **What the party knows:** The full backstory — the abandoned engagement, the business rivalry, and her terms
-- **What remains hidden:** Whether she would reconcile beyond the fee reduction, or what her reaction to Big Al would actually be
+- **Last Known Location:** Her farm outside Phandalin
+- **Active Plans:** Awaiting (or having received) Big Al's in-person apology; grazing terms contingent on that meeting being satisfied
+- **Party Knows:** Her financial grievance, the history with Big Al's competitive pricing at Butterskull Ranch, and the terms she set
+- **Hidden:** Whether she fully forgave Big Al — the party did not witness the private exchange
 
 ## Relationships
-- **Big Al:** Former fiancé; abandoned her the night before their wedding. Their relationship also soured economically when his ranch undercut her farm's income. Her feelings appear to be a mix of bitterness and unresolved emotion.
-- **The Party:** Cooperative and candid once questioned; no hostility toward them.
+- **Big Al:** Long-standing antagonist relationship rooted in financial injury. His prosperous pricing at Butterskull Ranch severely undercut her farm's income. She demanded direct accountability from him before softening terms.
+- **The Party:** Transactional. She dealt with them as unwanted go-betweens and made clear her grievance was with Big Al personally, not them.
 
 ## Arc Score Events
-- No arc score changes recorded.
+- No arc score changes recorded for this NPC.

@@ -1,44 +1,66 @@
 # Vukradin
 
 ## Identity
-- **Role:** Performer, poet, and spell-caster (likely bard or cleric); associate member of the Order of the Gauntlet
-- **Faction:** Order of the Gauntlet (recently recruited)
-- **First Appearance:** Encountered during the mimic battle; traveled with the party to collect a bounty from the gnome kings Korboz and Gnercli
+- **Role:** Bard; entrepreneur and aspiring studio founder
+- **Faction:** Loosely affiliated with the Emerald Enclave (invoked instrumentally); acquainted with the Church of Lathander
+- **First Appearance:** Gnomengarde — arrived with the party seeking a device to aid against the dragon on behalf of Townmaster Harbin Wester
 
 ## Personality & Motivations
-- **Core Goals:** Advancing his artistic legacy (securing lost scripts, funding a studio, reviving notable theatrical works); spreading his music and stories to the widest possible audience; maintaining a personal ethical code around wealth and conflict.
-- Vukradin is principled to the point of self-righteousness—he contrasts his own moral stances loudly with those around him, whether over looted gold or treasure from the dead. He is thin-skinned about his identity as a poet and insists on the legitimacy of poetic license when challenged. Despite initial resistance, he is capable of genuine collaboration and recognizes quality when he hears it.
+- **Core Goals:** Build and fund a personal music studio; stage a revival of a legendary Triboar play featuring a demon character named Bob; accumulate wealth through what he considers ethical means ("organic, conflict-free, fair-trade gold")
+- Vukradin is intellectually assertive — he argues from logic, dismantles others' reasoning, and takes genuine offense when his ideas are dismissed as mere poetry
+- He is calculating in his charm: inviting surrendered bandits to dinner, leveraging faction identities, and using music as a social tool
+- He is deeply financially motivated but maintains a personal ethical code around looting and fair dealing, which occasionally conflicts with the party's pragmatism
 
 ## History with the Party
-1. **Mimic Battle:** His deterrent spell failed twice, suggesting the mimic adapted to his magic. Mid-combat, he initiated a theological debate with Soma about naturalist druidism, Aasimar, and Tieflings, becoming indignant when Soma dismissed his language as mere poetic license.
-2. **Gnome Kings' Throne Room:** After collecting proof of the mimic kill with the group, Vukradin systematically dismantled the dual monarchy of Korboz and Gnercli through pointed questions about seniority and authority. Valphine noted the rift he created would keep the kings at odds for months. He collected a magical hat as his reward.
-3. **Phandalin — Stonehill Inn:** Performed at the inn. Learned from a patron about a legendary performer named Bob who played a demon character in a theatrical production in Triboar. Confirmed he had heard of the play and had been seeking the script for years; proposed a possible revival.
-4. **Adabra / Umbrage Hill:** Pushed for more than the 25 gp reward offered for saving Adabra, citing his studio, but was overruled. During the manticore fight, two command spells failed; he was openly annoyed at Soma for encouraging the second attempt. Afterward, he severed the manticore's head as proof of kill and used music to persuade Adabra to come to Phandalin—his performance moved Brewbarry and delighted Adabra, though it did not immediately change her decision.
-5. **Negotiating with Harbin:** Read Adabra's note aloud to Townmaster Harbin and leveraged Adabra's arrival (facilitated by Soma's naturalist identity) to negotiate increased payment. Accepted free room and board at the Stonehill Inn in lieu of additional coin.
-6. **Musical Collaboration with Valphine:** Performed again at the Stonehill Inn. Initially resistant to collaboration with Valphine, but ultimately acknowledged their musical partnership showed promise.
-7. **Daran Edermath (Silverleaf):** Rejected Edermath's pitch about salvaging shipwrecks near the Tower of Storms on ethical grounds—taking treasure from the dead is theft, in his view.
-8. **Order of the Gauntlet:** Recruited by Ser Kaelen Thorn. Was drawn by the promise of reaching tens of thousands with his music and story, and by assurances that Order funding came from conflict-free donation gold. Accepted a pin as a symbol of associate membership. Obligations include coming to the Order's aid as a brother when called. Confirmed his membership after helping Elara and Jarek.
-9. **Elara and Jarek:** Insisted the party escort the rescued pair back to Phandalin, framing the reward as ideal conflict-free gold. Commissioned a piece of music for the Order of the Gauntlet; upon hearing the existing chant, declared it embarrassing and in need of his improvement.
-10. **Tower of Storms Inquiry:** Asked Ser Kaelen about lifting the curse on the Tower of Storms after Harbin confirmed Lord Neverember would want the curse removed rather than the tower destroyed. Ser Kaelen suggested a monster haunting the lighthouse is the likely cause.
-11. **Trail to the Tower of Storms:** Observed that the unnatural gullies in the terrain could not have been formed by natural river flow given how dry the region is.
+
+**Gnomengarde**
+- Led negotiations with guards Pog and Ulla, using logical argument and music to earn entry; reported the blade trap room to Ulla, learning an alternate route
+- Chose to disable rather than destroy Facktore's rotating crossbow device
+- Proposed using music to treat King Korboz's madness; prompted Fibblestib to offer to build a modified piano
+- Negotiated the shapeshifter-elimination deal at Korboz's door, initially objecting to the hat of wizardry as poor dragon-fighting utility before accepting
+- Systematically destabilized the dual monarchy through pointed philosophical questioning, driving a wedge between Korboz and Gnercli before claiming the promised hat amid an enraged dismissal
+- Identified mushrooms at Gnomengarde's entrance: red oily (unclear use), green (flour-suitable), purple (fermentable into wine)
+
+**Mimic Fight (Gnomengarde cellar)**
+- Taunted the mimic with declarations of confidence while his spells repeatedly failed to connect
+- Used verbal invective with an underlying enchantment that visibly caused the mimic to flinch
+- Mid-battle, engaged Soma in a philosophical debate about naturalism, Aasimar, and Tieflings
+- Afterward, objected to Soma taking gold from chests, declaring himself already wealthy due to owning sending stones
+
+**Journey to Umbrage Hill**
+- Pushed to negotiate higher pay than 25 gold for rescuing Adabra, explicitly citing studio funding needs; was overruled
+- During a bandit ambush, was briefly paralyzed by shock, then pursued and killed a fleeing bandit at Valphine's prompting
+- Invited a surrendered bandit to dinner to extract information about their boss, the Carver
+- Reminded Soma that a druidic scroll taken from the bandits should be returned to its rightful owner
+
+**Umbrage Hill**
+- Confronted Corbin upon meeting him, recognizing stolen armor from a dead man; commanded him to remove it, then relented and promised to find him fair-trade armor
+- Attempted to negotiate with the manticore (offering payment); two spell attempts failed; briefly blamed Soma for encouraging the second attempt
+- After Brewbarry killed the manticore, cut off its head and presented it to Adabra as proof
+- Repeatedly interrogated Adabra about Corbin and her ownership of the dwarven house
+- Used music to attempt to convince Adabra to return — she praised it highly but it did not sway her
+- Ultimately secured Adabra's cooperation by framing the mission in Emerald Enclave terms
+
+**Woodland Manse**
+- Reunited with Falcon, who was visibly relieved to see him safe
+- Recounted Teega's rescue story with moderate success
+- Offered Teega a position with the Church of Lathander
+- Persuaded Falcon to provide free accommodation for the whole party by invoking their future business partnership
 
 ## Current Status
-- **Last Known Location:** Traveling toward the Tower of Storms, having departed Phandalin with the party.
-- **Active Plans:** Investigating the Tower of Storms (framed around the Order's interests and ethical treasure-hunting distinctions); ongoing search for the lost script of the theatrical production featuring Bob; plans to improve the Order of the Gauntlet's chant; seeking funding for his studio via conflict-free sources.
-- **What the Party Knows:** He is an Order of the Gauntlet associate member, has strong ethical views on wealth, is a committed poet and performer, and his spells have a track record of failing against resistant targets.
-- **What Remains Hidden:** The full extent of his magical abilities and why his spells appear to fail against certain enemies; what "owning sending stones" actually means for his wealth or connections.
+- **Last Known Location:** Woodland Manse clearing, mid-combat
+- **Active Plans:** Funding and constructing his music studio; intends to travel to Triboar to locate the script for the legendary demon-Bob play
+- **What the Party Knows:** He is financially motivated, ethically particular about wealth sources, and an effective negotiator and social manipulator
+- **What Remains Hidden:** The full nature of his sending stones and who he uses them to contact; the precise scope of his partnership with Falcon
 
 ## Relationships
-- **Soma:** Ongoing tension—theological and philosophical friction, mutual annoyance during combat (the command spell incident). Vukradin is judgmental of Soma's looting habits.
-- **Valphine:** Nascent musical partnership. Vukradin was resistant at first but acknowledged the collaboration showed promise. Valphine perceptively noted the political consequences of his work in the gnome throne room.
-- **Ser Kaelen Thorn:** Recruiter and Order contact. Vukradin respects the relationship enough to confirm his membership and seek Kaelen's counsel on the Tower of Storms curse.
-- **Adabra:** Positive impression made through music; she was delighted by his performance.
-- **Korboz & Gnercli:** Left deliberately destabilized by Vukradin's questioning; unlikely allies.
-- **Daran Edermath (Silverleaf):** Rejected his pitch; relationship is likely cool.
-- **Townmaster Harbin:** Transactional; Vukradin successfully leveraged Adabra's arrival to extract better compensation.
+- **Soma:** Recurring philosophical tension — debates on naturalism, celestial beings, and druidic ethics; Soma's pragmatism (taking loot, dismissing his "poetic license") irritates him
+- **Falcon:** Warm, established prior relationship; Falcon was notably relieved at his safety; Vukradin is leveraging this into a business partnership
+- **Corbin:** Morally suspicious of him (stolen armor); made a promise to find him proper armor
+- **Adabra:** Tense — questioned her entitlement and ownership; ultimately cooperated through shared Emerald Enclave framing
+- **Valphine:** Prompted him to pursue the fleeing bandit; functional field cooperation
+- **Brewbarry:** Benefited from Brewbarry killing the manticore; no noted conflict
+- **The Carver (bandit boss):** Has secondhand intelligence; actively seeking more information
 
 ## Arc Score Events
-- **Increase:** Insisted on escorting Elara and Jarek to safety; accepted only conflict-free gold as reward — consistent with stated ethical principles.
-- **Increase:** Acknowledged Valphine's musical partnership showed promise despite initial resistance — growth in collaborative openness.
-- **Decrease:** Drove a deliberate wedge between the gnome kings Korboz and Gnercli in a throne room negotiation, leaving them at each other's throats — manipulative political maneuvering.
-- **Decrease:** Pushed for higher payment than the group agreed to when negotiating Adabra's rescue reward — self-interested over group consensus.
+*(No arc score changes recorded in source notes)*

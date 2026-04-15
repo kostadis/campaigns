@@ -1,47 +1,41 @@
 # Ser Kaelen
 
 ## Identity
-- **Role/Title:** Knight of the Order of the Gauntlet
+- **Role:** Representative and operative of the Order of the Gauntlet; member of the Phandalin privy council
 - **Faction:** Order of the Gauntlet
-- **First Appearance:** Phandalin, during the political crisis surrounding Harbin's accusations against Vukradin
+- **First Appearance:** Approached Vukradin at the Stonehill Tavern in Phandalin, inquiring about his work and plans
 
 ## Personality & Motivations
-- **Core Goals:** Advance the Order of the Gauntlet's influence and resources; cultivate Vukradin as a useful ally; maintain regional political stability under Lord Neverember's authority
-- Ser Kaelen is a pragmatist who wraps realpolitik in the language of idealism — he genuinely appears to believe in good outcomes, but consistently prioritizes what is achievable over what is righteous. He is institutionally cautious, sensitive to how actions will be read by powerful lords, and adept at steering volatile allies toward palatable compromises. He is also quietly investing in relationships he expects to pay off later.
+- **Core Goals:** Advancing the Order of the Gauntlet's political influence, financial resources, and reputation; building goodwill with useful individuals like Vukradin
+- **Traits:** Pragmatic and politically calculating — his support is consistently framed around institutional benefit rather than personal loyalty. He is perceptive enough to absorb and reflect Vukradin's own language back at him, leaving it unclear whether this reflects genuine rapport or deliberate management. He counsels caution over confrontation and prefers structured, deniable solutions.
 
 ## History with the Party
 
-**Phandalin Political Crisis**
-Intervened publicly on Vukradin's behalf when Harbin leveled accusations against him, calling the situation "scandalous" and pushing for a swift trial. Behind the scenes, he pulled Vukradin aside and talked him down from outright revolution, warning that removing Harbin would be read as an attack on Lord Neverember and could invite military retaliation. He proposed the privy council solution as a compromise. When a white dragon appeared during the town meeting, he went visibly pale at Vukradin's use of the word "revolution." After the dragon was repelled and the council announced, he counseled Vukradin again against seizing the Townmaster seat, framing restraint as principled pragmatism.
+1. **First Meeting (Stonehill Tavern):** Approached Vukradin, inquired about his work, and discussed the ownership of recovered treasure. His vague, sighing response to questions about rightful ownership did not reassure Vukradin. He praised Vukradin's goals — effective given the bard's need for approval — and discussed music in the context of the Order.
 
-**Connection to House Margaster Revealed**
-A letter Ser Kaelen sent to Vukradin was identified by Jenna Roscoe as connected to House Margaster, which she characterized as dealing exclusively in blood money. The nature of this connection remains unexplained.
+2. **Morning Follow-Up:** Told Vukradin he was awaiting word from Neverwinter on the treasure's rightful owners (expected within days) and suggested the party occupy themselves with Mountain's Toe or the Logger's Camp in the meantime.
 
-**Kraken Society Intelligence**
-At the morning council meeting following the party's Kraken Society encounter, Ser Kaelen — unlike Jenna — took the threat seriously and voiced suspicions that powerful psionic creatures were involved with the organization.
+3. **Harbin Affair:** After Harbin accused Vukradin, Kaelen claimed credit for pushing for a swift trial, framing it as protecting the Order's integrity. When Vukradin moved toward open revolution, Kaelen pulled him aside and warned that removing Harbin would prompt Lord Nevermember to send troops — recommending a privy council solution instead. He told Jenna that Vukradin was a full-fledged Order member, a claim Vukradin disputed. Jenna raised his connection to House Margaster funding as a point against him.
 
-**Candlekeep Research**
-At considerable expense to the Order, Ser Kaelen arranged research at Candlekeep to identify the rightful owners of a magical item the party recovered from ships. He framed this explicitly as an investment in his relationship with Vukradin. He promised rewards once the process concludes, acknowledging it would not be straightforward.
+4. **Council Meeting:** At the Phandalin privy council, Kaelen was the only member to take the Kraken Society threat seriously, noting suspicions of powerful psionic involvement. He also delivered Candlekeep research identifying the original owners of a magical item recovered from ships — framing it as a costly effort by the Order and using it as a relationship-building gesture with Vukradin, with promises of reward for returning the items.
 
-**The Statue and the Neverwinter Gala**
-Brought the party intelligence that the lighthouse statue belongs to Elara Seasong Meliame, a wealthy art collector. Her eccentric cousin Lord Cassian Meliame is hosting a gala in Neverwinter. Ser Kaelen warned that House Margaster — known for demonic alliances — intends to intercept the statue to embarrass the Meliame family. He asked the party to escort the statue to Neverwinter and present it personally to Elara, with instructions to mention the Order of the Gauntlet's role in hopes of securing future donations.
+5. **Statue Mission:** Approached the party with intelligence identifying a lighthouse statue as belonging to Elara Seasong Meliame, a wealthy art collector. He warned that House Margaster agents intended to intercept the statue to embarrass the Meliame family. He tasked the party with personally escorting it to Neverwinter and presenting it to Elara — with the explicit request that they credit the Order of the Gauntlet, in order to secure future donations.
 
-**Mistaken Identity Incident**
-His characterization of Vukradin as a full Order member caused Jenna Roscoe to approach Vukradin under false assumptions about his allegiances.
+6. **Sending Exchange:** Received Vukradin's Sending announcing the dragon's death and the party's intention to head to Neverwinter. His reply praised Torm, used Vukradin's own phrase "conflict-free triumph," and redirected the party to Phandalin — where he said the Gauntlet awaited them and noted "issues with the Emerald Enclave."
 
 ## Current Status
-- **Last Known Location:** Phandalin
-- **Active Operations:** Monitoring the Kraken Society threat; awaiting outcome of the Candlekeep magical item research; has dispatched the party to Neverwinter with the statue as his proxy
-- **What the Party Knows:** He is a connected, politically savvy Order knight investing in the party as assets; he is cautious about Neverember's authority and hostile to House Margaster
-- **What Remains Hidden:** The nature of his connection to House Margaster — the same family he publicly warns against — is unresolved and potentially damning
+- **Last Known Location:** Phandalin, awaiting the party's return and preparing a reception
+- **Active Plans:** Managing the party's integration into Order operations; resolving an unspecified situation involving the Emerald Enclave
+- **What the Party Knows:** He is politically connected, institutionally motivated, and skilled at mirroring others' language. His finances may be tied to House Margaster. He claimed Vukradin is a full Order member — Vukradin disputes this.
+- **What Remains Hidden:** The true nature of the Emerald Enclave issue; the full extent of any House Margaster connection; whether his rapport with Vukradin is genuine or entirely managed
 
 ## Relationships
-- **Vukradin:** Primary party contact; Ser Kaelen has consistently protected, advised, and invested in Vukradin, treating him as both an ally and a long-term asset
-- **Jenna Roscoe:** Tension — Jenna identified his letter as tied to blood money and dismisses the Kraken Society threat he takes seriously; they appear to be rivals or at least misaligned within the local power structure
-- **House Margaster:** Publicly opposed — warns the party against them; privately, a letter connecting him to Margaster has not been explained
-- **Lord Neverember:** Deferential — treats Neverember's authority as a hard constraint around which all local politics must be navigated
-- **Elara Seasong Meliame / Lord Cassian Meliame:** Seeking to cultivate a donor relationship through the party's actions at the gala
+- **Vukradin:** Primary point of contact. Kaelen flatters him strategically and mirrors his language. Vukradin assessed him as "as close as anybody" he could trust, then immediately walked that back — he does not trust him.
+- **Jenna:** She raised his House Margaster financial ties as a credibility problem; relationship is cooler and more skeptical.
+- **House Margaster:** Alleged financial connection flagged by Jenna; House Margaster is described as notorious for demonic alliances and is an active antagonist in the statue mission.
+- **Order of the Gauntlet:** His actions are consistently oriented around the Order's reputation, funding, and influence above all else.
+- **Phandalin Privy Council:** Sits on the council alongside Vukradin following the Harbin affair.
 
 ## Arc Score Events
-- **Increase (Vukradin):** Publicly defended Vukradin during Harbin's accusations; arranged costly Candlekeep research as a relationship investment; provided actionable intelligence on the statue and the Neverwinter gala
-- **Potential Decrease (Vukradin / Party):** Undisclosed connection to House Margaster — if the party investigates and connects the dots, trust damage is likely
+- **Increase:** Praised Vukradin's goals (effective); claimed credit for clearing Vukradin's name; delivered Candlekeep research as a goodwill gesture; mirrored Vukradin's language in Sending reply
+- **Decrease:** Vague non-answer on treasure ownership (failed to reassure Vukradin); self-serving framing of trial support; disputed claim that Vukradin is a full Order member; Margaster funding association raised by Jenna

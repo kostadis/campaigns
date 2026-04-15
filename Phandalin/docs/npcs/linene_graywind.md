@@ -1,38 +1,36 @@
 # Linene Graywind
 
 ## Identity
-- **Role:** Manager/proprietor of the Lionshield Coster outpost in Phandalin
-- **Age:** 35
-- **Faction:** Lionshield Coster
-- **First Appearance:** Early in the campaign; the party sold her orc-looted equipment (broken axes, hide armor) at her shop
+- **Role:** Proprietor and master of the Lionshield Coster outpost in Phandalin
+- **Faction:** Lionshield Coster (a merchant organization with apparent interplanar commercial interests and ties to upper organizational leadership referred to as "bosses")
+- **First Appearance:** The party sold recovered orc axes and hide armor to her on 10/1 of Taraksh
 
 ## Personality & Motivations
-- Linene is commercially sharp and well-connected to the Coster's wider network, actively gathering intelligence on unusual phenomena that might interest her superiors.
-- She pays generously for goods of interest and asks pointed, probing questions — she is an information-collector as much as a merchant.
-- She shows personal warmth and social awareness, particularly toward Valphine, which has introduced mild friction with Vukradin.
+- **Core Goals:** Maintaining and expanding Lionshield Coster business; sourcing goods connected to planar phenomena on behalf of her organization's leadership
+- Enthusiastic and inquisitive when goods of unusual origin are involved, asking repeated questions about provenance
+- Savvy and deflective when it suits her — redirected Vukradin's offer of caravan protection into a rumor about Neverwinter Wood rather than engaging directly
+- Socially warm and attentive; attended the Stonehill Tavern performance and singled out Valphine for specific praise, which briefly annoyed Vukradin
 
 ## History with the Party
-1. **First contact:** Purchased looted orc gear from the party. Discussed the Coster's disrupted internal supply network, attributing it partly to tariffs and hinting that strange magic in Neverwinter Wood may also be a factor. Mentioned the Coster could still supply adventuring needs.
-2. **War disruption:** Told Vukradin that the War of the Giants had severely degraded her ability to source goods quickly — scrolls and similar items now require uncertain outreach rather than reliable internal channels.
-3. **Corrupted grove pelts:** Paid more than double Barthen's price for pelts from the corrupted grove. Interrogated Vukradin about the circumstances of acquisition; he answered openly, to Valphine's frustration. Stated her superiors would be very interested in the planar effects described.
-4. **Town meeting:** Attended the meeting on the green and was appointed to Harbin's new privy council.
-5. **Performance request:** Asked whether the party would perform that evening and specifically requested Valphine's involvement, commenting that Valphine made the ensemble shine — which annoyed Vukradin.
+
+1. **First meeting (10/1 Taraksh):** Purchased orc axes and hide armor from the party. Confirmed that her preferred transportation network had been disrupted by what she characterized as "tariffs." Deflected Vukradin's offer to escort a shipment and instead passed along a rumor about strange magic in Neverwinter Wood confounding navigators and obscuring ancient ruins.
+
+2. **Subsequent visit — pelt sale:** The party sold pelts to Linene, who offered more than twice Barthen's price. She asked extensive questions about where and how the pelts were obtained. Vukradin answered honestly; Valphine privately viewed this as wasted leverage. Linene justified the premium price by referencing her bosses' interest in the planar effects associated with the goods.
+
+3. **War of the Giants update:** Informed Vukradin that the War of the Giants had severely disrupted her supply chains. She can no longer reliably obtain goods such as scrolls; fulfilling special requests now requires sending out messages with no guarantee of results.
+
+4. **Stonehill Tavern:** Attended the party's evening performance; publicly praised Valphine as the one who made the ensemble shine.
 
 ## Current Status
-- **Location:** Lionshield Coster outpost, Phandalin
-- **Active roles:** Member of Harbin's privy council; continuing to run the Coster outpost under significant supply disruption
-- **Operations:** Relaying intelligence about planar effects and corrupted grove findings to Lionshield Coster superiors
-
-**What the party knows:** She pays well, asks a lot of questions, and has influential connections within the Coster hierarchy. She is now on the town's privy council.
-
-**What remains hidden:** The full nature and purpose of the Coster's "preferred mode of goods transportation" and its internal supply network; the identity and agenda of the superiors she reports to; what she or the Coster intend to do with the information about the corrupted grove and its planar effects.
+- **Last Known Location:** The Stonehill Tavern / Lionshield Coster, Phandalin
+- **Active Situation:** Operating under significant supply chain disruption due to both "tariffs" and the War of the Giants; unable to reliably source or ship goods
+- **What the Party Knows:** Her organization has leadership ("bosses") with a commercial interest in interplanar phenomena; she pays premium prices for goods with planar associations
+- **What Remains Hidden:** The exact nature of the Lionshield Coster's interplanar interests; the identity or agenda of her bosses; her awareness of or connection to the interplanar shipping device Valphine recalls reading about in Neverwinter
 
 ## Relationships
-- **Lionshield Coster superiors:** Reports intelligence upward; clearly acts as more than a simple shopkeeper
-- **Harbin (Town Master):** Fellow privy council member
-- **Valphine:** Shows particular warmth and flattery; specifically requested her performance participation
-- **Vukradin:** Transactional relationship; his candid answers have served Linene's interests; her attention to Valphine irritates him
-- **The party generally:** A reliable buyer and local contact, but one with her own agenda
+- **Vukradin:** Recurring point of contact; he has twice attempted to offer services (escort, procurement) that she has not engaged with. She did not single him out for praise at the tavern performance.
+- **Valphine:** Publicly praised her performance at the Stonehill Tavern; Valphine has privately noted Linene as a figure of commercial interest and suspects a connection between Linene's enthusiasm and the defunct interplanar shipping device
+- **Lionshield Coster leadership ("bosses"):** Takes direction from them regarding what goods to prioritize acquiring; they have specific interest in planar phenomena
 
 ## Arc Score Events
-*(None recorded in source notes)*
+*None recorded in source notes.*

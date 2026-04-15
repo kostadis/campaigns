@@ -1,32 +1,31 @@
 # Skippy
 
 ## Identity
-- **Role:** Bandit in Carver's employ
-- **Faction:** Carver's gang
-- **First Appearance:** Captured after the skirmish at Conyberry; Vukradin put him to sleep, and he was taken prisoner
+- **Role:** Low-level brigand; member of Carver's disposable road crew
+- **Faction:** Carver's organization (expendable tier)
+- **First Appearance:** Encountered on the road near Butterskull Ranch as one of four brigands. Combat broke out after Corbin's failed negotiation attempt; Skippy was knocked unconscious by Vukradin's sleep spell rather than killed.
 
 ## Personality & Motivations
-- No clear personal agenda beyond serving Carver out of apparent self-interest or fear
-- Demonstrated extreme cowardice under interrogation — intimidated by Brewbarry's size, Vukradin's presence, and the blood on Soma's claws. Gave up significant intelligence quickly and without much resistance.
+- No demonstrated loyalty to Carver — cracked immediately under interrogation when surrounded by Soma (bear form), Brewbarry, and Vukradin.
+- Motivated primarily by self-preservation. No evidence of deeper ideological commitment to the organization.
 
 ## History with the Party
-- **Conyberry Skirmish:** Knocked unconscious by Vukradin during the fight and captured
-- **Interrogation:** Under pressure, revealed that the Butterskull Ranch attack was a deliberate trap — engineered to generate a quest that would lure adventurers into Borg the Hammer's ambush. Confirmed that Carver anticipated the party would respond to Harbin's quest board
-- **Key Intelligence Provided:** Named Sister Kayla as Carver's spymaster running an intelligence network inside Phandalin
-- **Handed Off:** Left in Corbin's custody while the party moved on to the ranch
+1. **Road Ambush:** Encountered alongside three other brigands near Butterskull Ranch. Rendered unconscious by Vukradin's magic while his companions were killed.
+2. **Interrogation:** Upon waking surrounded by the party, immediately surrendered all information he knew, including details of Carver's trap at Butterskull Ranch, the identity of ambush leader Borg the Hammer, and Sister Kayla's role as Carver's Spymaster in Phandalin.
+3. **Custody Dispute:** Vukradin insisted Skippy be returned to Phandalin alive rather than abandoned. Corbin volunteered to guard him at the remote camp; Vukradin explicitly warned Corbin that Skippy must still be alive when the party returns.
 
 ## Current Status
-- **Last Known Location:** In Corbin's custody — whereabouts now unknown
-- **Active Plans:** None known
-- **What the Party Knows:** He gave up his intelligence and was left behind
-- **What Remains Hidden:** His current fate is unknown; both Soma and Vukradin noted Corbin's desire for revenge, raising the possibility that Skippy did not survive
+- **Last Known Location:** Remote camp, in Corbin's custody
+- **Active Situation:** The party is at Butterskull Ranch; Skippy is waiting with Corbin, whose intentions toward him are uncertain
+- **What the Party Knows:** Everything Skippy revealed (see above)
+- **What Remains Hidden:** Whether Skippy has any further useful knowledge; his fate if Corbin acts on apparent revenge impulses
 
 ## Relationships
-- **Carver:** Employer; Skippy served in his ranks
-- **Sister Kayla:** Named by Skippy as Carver's spymaster in Phandalin (likely unaware Skippy burned her)
-- **Borg the Hammer:** Named in connection to the ambush at Butterskull Ranch
-- **Corbin:** Left in his custody; Corbin's vengeful disposition makes Skippy's fate uncertain
-- **The Party:** Source of actionable intelligence; viewed him as a disposable asset
+- **Carver:** Employer; Skippy was considered disposable and betrayed him without hesitation
+- **Borg the Hammer:** Identified as Carver's half-orc enforcer and ambush leader at Butterskull Ranch
+- **Sister Kayla:** Named as Carver's Spymaster operating in Phandalin
+- **Vukradin:** The party member who spared and advocated for him; Skippy owes his life to Vukradin's intervention
+- **Corbin:** Current guard — tension present; Vukradin openly expressed concern Corbin may harm Skippy
 
 ## Arc Score Events
-- No arc score events recorded
+- No arc score events recorded for this NPC.

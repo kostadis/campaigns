@@ -1,37 +1,35 @@
 # Teega the Smith
 
 ## Identity
-- **Role:** Blacksmith and worker at the Wayside Inn (a tavern with attached forge at the corner of the High Road and Tribor Trail)
-- **Faction:** Unwilling/compromised associate of the Kraken cult
-- **First Appearance:** Discovered in a trance-like state at a riverbank near an unnatural fog on the eastern shore; first contact made by the party during investigation of a missing Emerald Enclave patrol
+- **Role:** Blacksmith; former Kraken Society member (coerced via psionic manipulation)
+- **Faction:** Kraken Society (unwilling/manipulated); potential Church of Lathander affiliate
+- **First Appearance:** Encountered in a trancelike state on a fog-covered eastern riverbank; initially unresponsive and speaking in unsettling monotone about metal, cleansing, and uniformity
 
 ## Personality & Motivations
-- **Core Goals:** Return to her normal life at the Wayside Inn; drawn to the Kraken cult's promise of peace amid the Sword Coast's endless wars and chaos — suggesting she is weary and perhaps disillusioned
-- Teega presents as a woman caught between manipulation and genuine longing; her attraction to the cult's message was not purely coerced but speaks to real exhaustion with the world
-- She is guarded and resistant to pressure (rebuffed Valphine's intimidation) but responsive to genuine kindness (softened under Vukradin's approach)
-- She did not immediately accept help, preferring to return to something familiar — suggesting pragmatism and a degree of independence even in a compromised state
+- **Core Goals:** Returning to her former life at the Wayside Inn; seeking peace and stability after the wars and chaos of the Sword Coast — the same desire that made her vulnerable to Kraken Society recruitment
+- Teega is resilient but carries significant psychological damage from psionic manipulation, including memory gaps and lingering disorientation. She is cautious about new commitments, declining Vukradin's job offer despite genuine interest. Her brief moments of lucidity during mind control suggest a strong underlying will.
 
 ## History with the Party
-1. **First Encounter (Eastern Riverbank):** Found standing rigidly near unnatural fog with glassy, unfocused eyes. Spoke in eerie monotone referencing metal bending, cleansed minds, and uniformity. Gave cryptic answers about the missing Enclave patrol. Drew a spiral symbol in the mud. Briefly snapped to lucidity when Vukradin persuaded her, then wandered into a nearby glade.
-2. **Combat Aftermath:** Soma tracked her through the wilderness in bear form and subdued her, returning her to the group. Her mind control did not break when the Cult Fanatic was killed.
-3. **Examination at Falcon Hunting Lodge:** Conscious but confused, with significant memory gaps. Identified herself and her workplace. Disclosed she had been experiencing blackouts and had been called by something known as the Kraken. The party determined her mind had been altered through **psionic** (not magical) means — her brain rewired with gaps left susceptible to cult influence. Brewbarry ruled out Mind Flayer involvement. Valphine attempted intimidation; Vukradin offered a blacksmith position with the Church of Lathander. She declined immediately but expressed interest in returning to the Wayside Inn first.
-4. **Phandalin:** Observed watching Valphine's church proceedings. Appeared disturbed and strangely conflicted by the offer of pain and redemption.
+1. **Eastern Riverbank:** Found rigid and trance-like, speaking cryptically about the missing Emerald Enclave patrol ("fixing a leak with a wooden plug"). Drew a spiral symbol in the mud. Briefly lucid when persuaded by Vukradin before glazing over and wandering into the glade.
+2. **The Glade:** Wandered deeper into the wilderness after combat. Tracked in bear form by Soma and subdued; returned to the group. Remained under psionic compulsion until the Cult Fanatic was executed by Valphine, at which point she was freed.
+3. **Falcon Hunting Lodge:** Arrived disoriented with significant memory gaps. Disclosed her last coherent memory was working at the Wayside Inn (a tavern with attached forge, corner of High Road and Tribor Trail). Admitted she had been drawn to the Kraken cult by promises of peace. Examination confirmed psionic brain manipulation — determined not to be Mind Flayer in origin. Valphine attempted to intimidate her regarding her choices; Vukradin offered her a blacksmith position with the Church of Lathander. She declined immediately but expressed interest in visiting the church after returning to the Wayside Inn.
+4. **Valphine's Sermon:** Observed the sermon and its aftermath at the church. Appeared disturbed and strangely conflicted by Valphine's unintended new sacrament of pain and redemption.
 
 ## Current Status
-- **Last Known Location:** Phandalin
-- **Active Situation:** Still recovering from psionic tampering; memory gaps remain and susceptibility to cult influence has not been resolved
-- **What the Party Knows:** Her mind was psionically rewired (not by Mind Flayers); she was drawn to the Kraken's promise of peace; she declined help but has not left entirely
-- **What Remains Hidden:** The full extent of what was done to her mind; whether the psionic conditioning can be reversed; whether she is still actively receiving influence from the Kraken; the nature of her prior contact with the cult
+- **Last Known Location:** Church of Lathander (observed during Valphine's sermon)
+- **Active Plans:** Intends to return to the Wayside Inn before considering any further ties to the church
+- **What the Party Knows:** She was a Kraken Society member through manipulation, not true devotion; her mind was psionically rewired; she is recovering but memory-compromised
+- **What Remains Hidden:** The full extent of her memory loss; who or what specifically conducted the psionic manipulation; her ultimate loyalties going forward
 
 ## Relationships
-- **The Kraken Cult:** Compromised recruit; drawn in by promises of peace, not clearly a true believer
-- **Vukradin:** Closest thing to a rapport in the party; she responded to his gentler approach and briefly regained lucidity at his persuasion
-- **Valphine:** Tension; her intimidation tactics were poorly received
-- **Soma:** Subdued and captured her during the wilderness encounter — relationship undefined
-- **Brewbarry:** Examined her condition and ruled out Mind Flayer involvement
-- **Church of Lathander:** Offered a position she has not yet accepted or fully rejected
+- **Vukradin:** Most positive relationship with the party; he persuaded her back to lucidity during her trance and offered her employment. She is open to him.
+- **Valphine:** Tense. Valphine intimidated her at the lodge, yet Teega was drawn to observe Valphine's sermon — seemingly conflicted by what she witnessed.
+- **Soma:** Subdued her nonlethally during her fugue state; functional but not warm.
+- **Kraken Society:** Former coerced member; nature of ongoing entanglement unknown.
+- **Church of Lathander:** Cautiously curious; has not committed.
+- **Wayside Inn:** Her anchor — last place of coherent memory and apparent emotional safety.
 
 ## Arc Score Events
-- **Increase:** Vukradin's persuasion briefly restored lucidity at the riverbank — moment of genuine connection
-- **Increase:** Declined to flee after reaching Phandalin; observed the church proceedings — suggests unresolved pull toward the party's world
-- **Decrease:** Valphine's intimidation approach pushed her toward guardedness and refusal of immediate help
+- **Positive:** Vukradin's persuasion during trance briefly restored her lucidity *(+)*
+- **Negative:** Valphine's intimidation at the lodge *(−)*
+- **Neutral/Complex:** Attending Valphine's sermon — disturbed but conflicted, suggesting the church is having an unresolved pull on her

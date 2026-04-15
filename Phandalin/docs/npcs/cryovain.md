@@ -1,34 +1,29 @@
 # Cryovain
 
 ## Identity
-- **Role:** Adult white dragon; de facto lord of Icespire Hold and the surrounding region
-- **Faction:** None — apex predator operating independently; currently under domination by the Carver (a black obsidian sword)
-- **First Appearance:** Scouted remotely by Soma (giant wolf spider form) on the roof of Icespire Hold; engaged in combat by the full party immediately after
+- **Role:** White dragon; apex predator of the Icespire region
+- **Faction:** None — solitary creature, ultimately a victim of the Carver's domination
+- **First Appearance:** Discovered by Soma during spider-form scouting of Icespire Hold's rooftop battlements, bound at the center of a summoning circle
 
 ## Personality & Motivations
-- Core drive appears to be survival and territorial dominance, though these have been rendered irrelevant by his current state
-- Whatever intelligence or intention he once possessed has been compressed past recognition by prolonged captivity and ritual drain — what remains is pure, undirected rage
-- Not a thinking enemy at present; the sword is directing him, and what's left of Cryovain underneath is not capable of strategy or communication
+- Whatever drives Cryovain once possessed are no longer relevant — by the time the party encountered him, coherent intent had collapsed into compressed, mindless rage held barely in check by the Carver's chains.
+- Soma assessed his eyes as evidence he was not a sane or reasoning creature, and that freeing him would have resulted in indiscriminate destruction. Whether any of his original self remained was never determined.
 
 ## History with the Party
-1. **Scouted at Icespire Hold:** Soma reported Cryovain chained at the center of a summoning circle, physically and mentally degraded — scales discolored, eyes hollow, face subtly wrong ("where's his nose?"). He was being consumed slowly by the Carver's ritual
-2. **Ritual interrupted:** Vukradin dropped Silence over the summoning circle, choking the working. The Carver responded by abandoning the slow ritual in favor of direct domination; the chains dissolved rather than broke
-3. **Combat initiated:** The sword warned the party they had three rounds before Cryovain's mind was gone entirely. Valphine opened with radiant light. Brewbarry landed two solid hits with the Dragon Slayer Sword before taking a direct cone of frost to the face — he remained standing
-4. **Dragon goes airborne:** Cryovain beat his wings and lifted thirty feet off the battlements. Vukradin landed a critical thorn whip hit, drawing a reaction suggesting the dragon felt genuine surprise at his own vulnerability
+1. **Scouting Encounter:** Soma discovered Cryovain chained at the center of an alien summoning circle on Icespire Hold's roof. His scales had gone the color of old, shadowed ice; his eyes were hollow and wrong. His nose appeared physically altered or missing. He was not unconscious — he was *held*.
+2. **The Carver's Seizure:** When Vukradin paralyzed the Carver's human vessel and the silence spell dropped, the Carver's obsidian sword spoke directly into the party's minds, dissolved Cryovain's chains entirely (not breaking them — *dismissing* them), and assumed direct domination over him. The party was warned they had approximately three rounds before his mind was consumed entirely.
+3. **Combat:** Cryovain attacked with a full cone of frost breath, hitting Brewbarry severely enough to push past his armor and rage. Brewbarry landed two clean strikes with the Dragon Slayer Sword. Valphine's radiant light and Vukradin's critical thorn whip also connected. Cryovain then beat his wings and rose thirty feet above the battlements, pulling out of melee range.
+4. **Death:** From the air, he breathed ice over Brewbarry twice — both hits severe. Soma's moonbeam struck him repeatedly, Vukradin's bardic inspiration cracked something vital, and Valphine's sacred flame dealt the final 3 points of damage, killing him. With his death, the Carver's essence dissipated entirely. Soma had argued he was a victim and urged the party not to kill him; the plea went unheeded.
 
 ## Current Status
-- **Location:** Airborne, thirty feet above Icespire Hold's battlements
-- **Condition:** Actively dominated by the Carver-sword; window for any remnant of his own will is closing or has closed
-- **Active threat:** In combat with the party; currently out of melee range
-- **What the party knows:** He is being controlled, not acting freely; something was done to him over time before they arrived; there may have been a narrow window to reach whatever remained of him
-- **What remains hidden:** What exactly the ritual was taking from him; whether any part of his mind survives the domination; what the Carver intended to do with a dominated adult white dragon
+- **Dead.** His body remains on the rooftop of Icespire Hold.
+- His hoard — approximately 3,000 gold fused with residium and ice into an inseparable block through planar magic — remains on the rooftop, unspendable and unresolved.
 
 ## Relationships
-- **The Carver (black obsidian sword):** Captor and now controller — Cryovain was the target of a prolonged ritual extraction before being seized through direct domination
-- **Brewbarry:** Has breathed frost directly into his face; has taken two Dragon Slayer hits from him — the most physical exchange so far
-- **Vukradin:** Landed the thorn whip critical that cracked Cryovain's composure; also the one whose Silence interrupted the ritual that had been holding him
-- **Valphine:** Opened combat with radiant light; scattered his attention briefly
-- **Soma:** Observed him in scout form; has the most detailed read on his degraded physical and mental state
+- **The Carver's Sword:** The instrument of his domination and, ultimately, his destruction. The sword's seizure of control over Cryovain triggered the final battle.
+- **Soma:** The party member most insistent that Cryovain was a victim. She recognized the wrongness in his eyes but argued for mercy; the argument was overruled.
+- **Brewbarry:** Received the brunt of Cryovain's attacks; landed the most significant strikes against him with the Dragon Slayer Sword.
+- **Valphine:** Delivered the killing blow.
 
 ## Arc Score Events
-- No arc score mechanic recorded in source notes
+- No arc score mechanic noted in source material.

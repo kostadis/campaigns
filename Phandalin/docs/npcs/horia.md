@@ -1,34 +1,36 @@
 # Horia
 
 ## Identity
-- **Role:** Leader of a dwarven mining crew (five dwarves total); no specific faction named beyond her tribe
-- **First Appearance:** Deep in the Mountain's Toe Gold Mine; introduced when the party asserted legal ownership of the mine and she produced a competing contract
+- **Role:** Leader of a five-dwarf mining crew
+- **Faction:** Unnamed dwarven tribe with a prior claim to the mine
+- **First Appearance:** Encountered deeper in the mine after the party followed dwarf tracks from Don-jon's death site
 
 ## Personality & Motivations
-- **Core Goals:** Secure fair recognition of her tribe's prior claim and labor rights in the mine; ensure professional, safe mining operations continue
-- Pragmatic and contract-minded — she leads with documentation and negotiated positions rather than immediate hostility
-- Carries strong professional pride in dwarven craftsmanship and is openly contemptuous of the wererats' mining incompetence
-- Holds firm personal ethics around honesty and binding agreements; she was visibly offended by Valphine's dismissal of contracts and questioned her devotion to Lathander
+- **Core Goals:** Secure fair compensation and recognition for the dwarves' labor and historical claim to the mine; protect his crew from dangerous working conditions caused by wererat incompetence
+- Horia is principled and contract-minded — he came prepared with documentation and was quick to produce it when challenged. He has a sharp sense of honor and was visibly offended by cynicism toward agreements and legal obligations. He is pragmatic enough to consider compromise but will not do so without acknowledgment of past wrongs.
 
 ## History with the Party
-1. **First Contact:** Encountered the party in the mine. When ownership was asserted, she produced a contract proving Don-jon had engaged her tribe prior to any wererat arrangement.
-2. **Revealed Don-jon's Death:** Disclosed that Don-jon had told the dwarves he planned to exploit the wererats as cheap labor ("a sucker in some bard fellow") and then dismiss the dwarves. The confrontation over this betrayal turned fatal.
-3. **Proposed Compromise:** Offered a workable arrangement — dwarves handle skilled mining, wererats handle menial labor and security — contingent on the wererats formally apologizing for killing dwarves in earlier conflicts.
-4. **Conflict with Valphine:** Took sharp offense at Valphine's claim that contracts exist only to cheat people; challenged her sincerity as a cleric of Lathander.
-5. **Ongoing Negotiation:** Session ended mid-renegotiation over the dwarves' original 20% contract share.
+1. Party followed dwarf tracks to Horia's group and asserted ownership of the mine
+2. Horia produced the dwarves' contract with Don-jon, establishing prior legal claim
+3. Horia revealed Don-jon's betrayal — Don-jon had planned to replace the dwarves with wererats working for cheese, which triggered a deadly argument and Don-jon's death
+4. Horia warned the party that wererat mining practices would cause a full operational collapse within months
+5. Horia agreed to consider a compromise arrangement (dwarves mine, wererats do labor and security), contingent on a formal wererat apology for killing dwarves in prior conflicts
+6. Horia was deeply offended by Valphine's dismissal of contracts and questioned her fitness as a cleric of Lathander
+7. Party began negotiating to reduce the dwarves' contracted 20% share
 
 ## Current Status
-- **Last Known Location:** The Mountain's Toe Gold Mine
-- **Active:** In active negotiation with the party over revised contract terms
-- **What the party knows:** Her contract, Don-jon's betrayal, her proposed labor arrangement, and her demand for a wererat apology
-- **What remains hidden:** The full terms of the original dwarven contract; her bottom line in the current negotiation; how far she will push if talks break down
+- **Last Known Location:** Deeper in the mine with his crew
+- **Active:** Weighing the party's proposed compromise; awaiting a formal wererat apology before committing
+- **Ongoing Tension:** The party is attempting to renegotiate his contracted share downward — he has not agreed to this
+
+**What the party knows:** Don-jon's betrayal caused his death; dwarves have a valid contract; wererats are a safety hazard  
+**What remains hidden:** Whether Horia will accept a reduced share; the full extent of the tribe's investment in this mine; his bottom line
 
 ## Relationships
-- **Her Tribe:** Speaks and negotiates on behalf of five dwarves; clearly commands their loyalty
-- **Don-jon (deceased):** Was in a contracted working relationship that ended in his death after he revealed his intent to exploit and dismiss them; no apparent regret
-- **The Wererats:** Holds them in professional contempt as dangerous incompetents; willing to coexist under strict conditions, including a formal apology
-- **Valphine (party):** Relationship is strained following the contract dispute; she openly questioned Valphine's faith
-- **The Party (general):** Cautiously cooperative — she has shown good faith but is watching closely
+- **Don-jon (deceased):** Former employer who betrayed the dwarves; Horia or his crew killed him in the resulting confrontation
+- **The Wererats:** Hostile — dwarves were attacked by them in earlier conflicts; Horia requires a formal apology before cooperating
+- **The Party:** Cautiously transactional; willing to negotiate but unimpressed by Valphine's attitude toward contracts
+- **Valphine (party):** Specifically offended — questioned her sincerity as a cleric of Lathander after her anti-contract remarks
 
 ## Arc Score Events
-- No arc score events recorded in source notes.
+- No arc score changes recorded in source notes

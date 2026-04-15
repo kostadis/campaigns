@@ -1,36 +1,33 @@
 # Ser Kaelen Thorne
 
 ## Identity
-- **Role:** Knight, apparent authority figure in Phandalin
-- **Description:** Scar on eyebrow, brown eyes
-- **Faction:** Unspecified; operates within or alongside Phandalin's civic structure
-- **First Appearance:** Stonehill Tavern, Phandalin — met the party upon their return from the Tower of Storms
+- **Role/Title:** Knight of the Order of the Gauntlet; Thorne appears to hold a recruiting and field-coordination role for the Order in the Phandalin region.
+- **First Appearance:** Phandalin. He recruited Vukradin into the Order of the Gauntlet prior to the campaign's current events, and the party encountered him there on their return.
 
 ## Personality & Motivations
-- **Core Goals:** Maintaining order in Phandalin; managing multiple overlapping threats (dragon, the Carver, orcs, and now whatever is behind the Tower of Storms)
-- Pragmatic and prioritizing — he had dismissed the Whispering Wood concern because no one had been hurt yet and larger threats demanded attention
-- Warm and socially confident; defused Vukradin's accusation with a clever demonstration rather than defensiveness
-- Gives the impression of good faith, but has shown a pattern of underestimating or deprioritizing threats until forced to take them seriously
+- **Core Goals:** Advance the Order of the Gauntlet's mission against evil; locate and neutralize the bandit known as the Carver; identify and respond to organized threats in the region.
+- **Personality:** Thorne projects warmth and authority in equal measure — he praises results while maintaining a clear sense of hierarchy. He is quick to downplay threats he has underestimated (the lighthouse, the Whispering Wood, Adabra's warnings) and slower to admit he was wrong. He has an embarrassed, self-deprecating side, as shown by his reluctant recitation of the Order's battle chant.
 
 ## History with the Party
-1. **Return from Tower of Storms:** Greeted the party warmly at the Stonehill Tavern, congratulating them on their victory. Initially admitted he had considered the tower's evil largely rumor.
-2. **Moesko Revelation:** Visibly shaken when told about Moesko's removed heart powering a corrupted beacon. Assessed that a typical Talos shaman could not accomplish this and concluded a hidden force must be involved.
-3. **Ambush Accusation:** Vukradin accused him of leaking the party's plans. He refuted this by polling the tavern — the entire room had known, including an innkeeper running a betting pool on party survival. He had bet 10 gold that Vukradin's music would protect the group, and handed the winnings to Vukradin.
-4. **The Carver:** Described the Carver as unusual — deliberately hiding from divination magic and even concealing himself from his own henchmen.
-5. **Whispering Wood:** Acknowledged Adabra had been raising concerns but admitted he hadn't prioritized it due to more pressing town threats. Encouraged the party to investigate, noting the townsfolk would be grateful.
-6. **Salvaged Lighthouse Items:** Agreed to look into the rightful owners of items Vukradin recovered from lighthouse wrecks.
+
+1. **Phandalin (Session 1 area):** Thorne was present when the party returned escorting Elara and Jarek. Vukradin reported the incident; Thorne responded with genuine warmth, affirming his decision to recruit Vukradin. When pressed for an Order chant, he stammered and produced an embarrassing verse: *"Steal and shield, Heart and band. We stand as one. A steadfast band."* He acknowledged it was poor and said Vukradin's talents could improve on it.
+
+2. **Stonehill Tavern, Phandalin (Later session):** Thorne congratulated the party on securing the lighthouse, though he admitted he had not believed there was genuine evil there and had dismissed the threat as rumor. When told the antagonist was a servant of Talos with a green-glowing heart, his expression turned to deep concern; he concluded no ordinary Talos shaman could accomplish such a thing and that a hidden force must be behind events. He deflected Vukradin's accusation that he had exposed the party's plans by demonstrating that everyone in the tavern had known of their destination. He revealed his current mission: locating a bandit called **the Carver**, who evades both magical detection and his own henchmen. He admitted he had deprioritized the Whispering Wood reports and Adabra's warnings, privately assuming Adabra had gone mad. He agreed to look into the rightful owners of treasure recovered from wrecked ships at the lighthouse. He clarified that the Order does not pay agents — it finds true believers — and noted the Harpers would pay for missions.
 
 ## Current Status
-- **Last Known Location:** Stonehill Tavern, Phandalin
-- **Active:** Managing Phandalin's ongoing threat landscape (dragon, Carver, orcs); newly aware that a hidden force may be operating behind Talos-affiliated activity
-- **What the Party Knows:** He is plugged into town politics and information, is broadly cooperative, and bet on the party's success
-- **What Remains Hidden:** His full allegiances, the extent of his actual authority, and what he knows about the broader forces at play
+- **Last Known Location:** Stonehill Tavern, Phandalin.
+- **Active Operations:** Hunting the Carver (a bandit who hides from magical detection and from his own lieutenants). Agreed to research ownership of the lighthouse shipwreck treasure.
+- **What the Party Knows:** He is an Order of the Gauntlet knight recruiting and coordinating in the region; he had underestimated multiple regional threats; he is now alarmed by the Talos-servant's nature and believes a larger hidden force is at work.
+- **What Remains Hidden:** His full read on the locked chest and its secret code (Soma and Valphine exchanged a knowing look suggesting they do not fully trust him on this point). The extent of what he knows — or does not know — about the broader conspiracy remains unclear.
 
 ## Relationships
-- **The Party (general):** Cordial and cooperative; positions himself as a helpful civic contact
-- **Vukradin:** Tension from the ambush accusation, partially resolved; gave him the betting winnings as a gesture of goodwill
-- **Soma:** Soma privately assessed he cannot be fully trusted
-- **Adabra:** Aware of her Whispering Wood concerns; had been dismissing them until the party's arrival renewed focus on the issue
+- **Vukradin:** Mentor/recruit dynamic. Thorne personally brought Vukradin into the Order and openly values him. Genuine warmth, though he retains authority.
+- **Soma & Valphine:** Respectful but guarded on their end. Both exchanged a knowing look suggesting private distrust of Thorne, particularly regarding the locked chest.
+- **Order of the Gauntlet:** Representative and apparent field agent; holds recruiting authority.
+- **Harpers:** Mentioned in passing as an organization that, unlike the Order, pays agents for missions.
+- **Adabra:** Dismissed her warnings as the ramblings of someone who had "gone mad" — a judgment he has not publicly revisited.
+- **The Carver:** Active target of his current operation.
 
 ## Arc Score Events
-- No arc score changes recorded in current notes
+- **Increase — Vukradin:** Thorne's affirmation ("Bringing you into the fold was the right thing to do") and his visible pride in Vukradin's conduct reinforced a positive bond.
+- **Decrease — Soma & Valphine (implied):** Their shared look of distrust following the tavern conversation suggests eroding confidence in Thorne, particularly around what he knows about the chest.

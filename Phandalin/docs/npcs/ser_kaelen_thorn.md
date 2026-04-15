@@ -1,30 +1,31 @@
 # Ser Kaelen Thorn
 
 ## Identity
-- **Role/Title:** Knight of the Order of the Gauntlet
-- **Faction:** Order of the Gauntlet (symbol: a gauntlet grasping a sword by the blade)
-- **First Appearance:** Approached Vukradin at the Stonehill Inn in Phandalin; recruited him as an associate member of the Order
+- **Role/Title:** Knight and recruiter for the Order of the Gauntlet
+- **Faction:** Order of the Gauntlet (insignia: a gauntlet grasping a sword by the blade)
+- **First Appearance:** Approached Vukradin at the Stonehill Inn after hearing of his reputation and unconventional views on treasure and plunder
 
 ## Personality & Motivations
-- **Core Goals:** Expand the Order's influence through carefully selected associates; uphold the Order's ethical standards around conflict-free funding and principled action
-- Confident and authoritative, but capable of warmth—he was genuinely pleased to see Vukradin acting on his principles with Elara and Jarek. He is selective to a fault, declining both Valphine and Soma without hostility, but with clear conviction. He has a self-deprecating streak, openly admitting the Order's battle chant is embarrassing.
+- **Core Goals:** Expanding the Order's influence and membership; combating senseless violence and plunder across the North; using art and storytelling as tools for cultural change
+- Composed, confident, and deliberate — he carries himself with practiced authority despite his modest frame. He is ideologically driven but pragmatic, capable of acknowledging past brutality without defensiveness. He reads people well and recruits strategically, approaching Vukradin specifically for his celestial origins, personal story, and musical voice.
 
 ## History with the Party
-1. **Stonehill Inn (first meeting):** Recruited Vukradin as an associate member after hearing of his ethical stance on treasure and plunder. Promised the Order's backing would massively expand Vukradin's reach. Declined to recruit Valphine without explanation; visibly darkened when Soma's potential membership was raised, citing incompatibility between naturalist and Order perspectives.
-2. **Phandalin (second meeting):** Still present when the party returned with Elara and Jarek. Affirmed that recruiting Vukradin had been the right call. Provided analysis of the Tower of Storms curse: three possible causes (cleric-removable curse, haunting monster, or false rumors), with his best assessment being a monster haunting the lighthouse. Asked Vukradin to improve the Order's battle chant, calling it embarrassing.
+1. **Stonehill Inn:** Approached Vukradin with an offer of associate membership in the Order of the Gauntlet, framing the Order's mission around anti-plunder values, artistic outreach, and the legacy of the War of the Dragon. Vukradin accepted and received a membership pin. Extended an invitation to Valphine as well. Explicitly excluded Soma, citing incompatibility with the Order's worldview.
+2. **Stonehill Inn (same evening):** Heard Brewbarry's accusation that the Order had bullied his tribe. Acknowledged the brutality of that war without deflecting blame or showing pride in it. Offered Brewbarry a drink as a gesture of goodwill.
+3. **Barthen's Provisions (following morning):** Found preparing to depart Phandalin. When Vukradin raised the lighthouse situation, Ser Kaelen responded positively and shared intelligence: the curse likely has one of three causes — a matter requiring a cleric, a haunting monster, or simple rumor. Based on available information, he assessed the monster explanation as most probable.
 
 ## Current Status
-- **Last Known Location:** Phandalin, at the time the party departed for the Tower of Storms
-- **Active Plans:** Monitoring Vukradin's development as an associate member; no other operations confirmed
-- **What the Party Knows:** He is a ranking Order knight with recruiting authority; the Order was involved in the War of the Dragon (member Milo Goodbarrel led the strike force that stopped the ritual); the Order's funding comes from conflict-free donations
-- **Hidden from the Party:** Nothing confirmed hidden—his reasoning for declining Soma and Valphine was stated but not fully elaborated
+- **Last Known Location:** Barthen's Provisions, Phandalin — preparing to depart town
+- **Active Plans:** Departing Phandalin; no stated destination
+- **What the Party Knows:** His name, rank, Order affiliation, recruitment pitch, and lighthouse intelligence
+- **What Remains Hidden:** His destination, his superiors within the Order, the full scope of the Order's operations in the region, and the source of the Order's "conflict-free" funding
 
 ## Relationships
-- **Vukradin (party):** Recruited associate; views him as a rare ethical asset; invested in his success
-- **Valphine (party):** Declined recruitment; no hostility recorded
-- **Soma (party):** Declined recruitment; notably adverse reaction—sees naturalist and Order philosophies as fundamentally incompatible
-- **Milo Goodbarrel:** Fellow Order member; led the strike force into the inner sanctum during the War of the Dragon
-- **Order of the Gauntlet:** Knight in good standing with recruiting authority
+- **Vukradin:** Recruited him as an associate member; views him as a high-value asset due to his celestial heritage and voice; their relationship is cordial and professionally warm
+- **Valphine:** Extended an invitation to join; relationship undeveloped
+- **Soma:** Explicitly excluded from consideration; views her naturalist worldview as incompatible with the Order's mission
+- **Brewbarry:** Acknowledged historical harm done to his tribe by the Order; offered reconciliation; relationship fragile but not hostile
+- **Milo Goodbarrel:** Named as the Order member who led the strike force that stopped the inner sanctum ritual during the War of the Dragon
 
 ## Arc Score Events
-- **(+) Positive:** Vukradin rescuing Elara and Jarek — Kaelen affirmed this as proof the recruitment was correct
+- *(No arc score changes recorded in source notes)*

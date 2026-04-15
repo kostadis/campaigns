@@ -1,37 +1,44 @@
 # Sister Kayla
 
 ## Identity
-- **Role:** Spymaster and intelligence network operator for the Carver in Phandalin
-- **First Appearance:** Revealed by Skippy under interrogation; first met directly when Valphine and Locutus attended a clandestine nighttime meeting at an abandoned building on the edge of town, arranged through Locutus
+- **Role:** Spymaster and henchwoman of the Carver; runs his spy network in Phandalin
+- **Faction:** Formerly the Carver's organization; now operating independently after a falling out
+- **First Appearance:** Named by Skippy as the Carver's intelligence asset before any direct encounter; later met in person by Valphine in an abandoned building at the far edge of Phandalin
 
 ## Personality & Motivations
-- **Core Goals:** Survive the fallout from the collapsed framing scheme; neutralize the Carver's remaining lieutenants to force him into the open; kill the Carver herself before he can hold her accountable
-- Coldly pragmatic and capable of lethal demonstrations without hesitation — she killed Locutus in the opening moments of the meeting to control the conversation
-- Operates on calculated self-interest; her offer to Valphine is driven entirely by self-preservation, not alliance
-- Holds racial and professional stereotypes about drow, which shaped her decision to approach Valphine and her assumptions about the party's internal dynamics
+- **Core Goals:** Survive the Carver's retribution for her failure, then kill the Carver herself; she wants the organization dismantled on her own terms
+- Ruthless and methodical — she killed Locutus without hesitation the moment he was no longer useful
+- Perceptive and calculating; she identified Valphine through a disguise, had pre-profiled every party member, and engineered the meeting entirely on her own terms
+- Operates through manipulation and controlled information, selecting partners she believes she can predict or use
 
 ## History with the Party
-1. **Revealed via interrogation:** Skippy identified Kayla as Carver's Phandalin spymaster before the party had any direct contact with her
-2. **The clandestine meeting:** Kayla arranged a meeting with Locutus, then immediately killed him upon arrival — rapier strikes missed, offhand dagger finished him — as both a power demonstration and to ensure privacy
-3. **Proposal to Valphine:** Addressed Valphine by name despite her disguise, revealing she had already identified the party. Explained the scheme's collapse (Borg failed to kill Big Al, leaving witnesses). Offered intelligence on Carver's remaining lieutenants in exchange for Valphine doing the killing, framing this as a mutual arrangement to force the Carver into the open
-4. **Payment delivered:** Left the gold originally meant for Locutus as a down payment, then vanished into the night before Valphine could respond
+
+**Pre-Contact (Early Sessions)**
+Named by Skippy as the Carver's Spymaster. Identified as the intelligence source behind the Carver's detailed knowledge of Harbin's quest board operations. Not present at Butterskull Ranch.
+
+**Direct Meeting with Valphine**
+Met Valphine in an abandoned building after dark, having arranged the meeting expecting Locutus. Immediately saw through Valphine's drow disguise and named her, demonstrating prior surveillance of the party. Killed Locutus on the spot after confirming he had killed Borg — a loose end she apparently needed to close.
+
+Disclosed that the scheme to frame Valphine for stealing merchant goods had been her own plan, and that it failed because Borg failed to eliminate all witnesses when killing Big Al. This failure has put her in danger with the Carver.
+
+Proposed a partnership: she feeds Valphine intelligence to systematically eliminate the Carver's remaining lieutenants, weakening him enough to force him out of hiding, at which point she intends to kill him personally. She paid Valphine with Locutus's owed payment as a down payment, then vanished before any formal agreement was reached.
 
 ## Current Status
-- **Last Known Location:** Disappeared into Phandalin at night following the meeting; whereabouts unknown
-- **Active:** Awaiting Valphine's answer to her proposal; has not yet received a response
-- **Exposed risk:** Believes the Carver will blame her for the scheme's failure — she is operating under a degree of urgency
-
-**What the party knows:** Her identity, her role in the Carver's network, that she killed Locutus, the broad terms of her proposal, and that she knew Valphine's identity despite the disguise
-**What remains hidden:** Her current location, the full extent of Carver's network she has access to, how she identified Valphine, and whether her account of the Carver's telepathic communication method is accurate or complete
+- **Last Known Location:** Phandalin — vanished from the meeting site; whereabouts now unknown
+- **Active Plans:** Intends to feed Valphine targets among the Carver's lieutenants; working toward her own assassination of the Carver
+- **What the Party Knows:** Her name, her role as Spymaster, that she's broken from the Carver, and her proposal to Valphine
+- **What Remains Hidden:** Her current location, the full extent of her spy network, how much she actually knows about the Carver's whereabouts or capabilities, and her true long-term intentions after the Carver is dead
 
 ## Relationships
-- **The Carver:** Her employer, now a threat — she believes he will hold her accountable for the plan's failure and intends to kill him before he can act against her
-- **Locutus:** Killed him at the meeting's outset; their prior relationship (handler/asset or otherwise) is unspecified
-- **Skippy:** Named her as Carver's spymaster under interrogation
-- **Valphine:** Her chosen contact in the party; assumes Valphine is a Lolth cleric using the party as cover — a significant misread she is acting on
-- **Vukradin:** Assessed as too naive to be useful
-- **Brewbarry:** Assessed as in Vukradin's pocket
-- **Soma:** Assessed as too nature-focused to be useful
+- **The Carver:** Former employer, now a target. She fears his retribution and intends to kill him
+- **Locutus:** Killed him at the meeting; viewed as a liability
+- **Borg:** Was working with him; his failure to eliminate witnesses caused her current crisis
+- **Valphine:** Has selected her as a potential asset, believing her to be an evil drow cleric using Lathander as a cover. Considers her the only party member who "shares her worldview." No formal agreement exists
+- **Vukradin:** Dismissed as too naive to be useful
+- **Brewbarry:** Dismissed as too loyal to the bard
+- **Soma:** Dismissed as too nature-focused
 
 ## Arc Score Events
-- No arc score events recorded in source notes
+- **Killed Locutus** — unprovoked, in front of Valphine (party antagonist action)
+- **Revealed the framing plot** — disclosed her own role in scheming against Valphine (ambiguous; self-interested disclosure)
+- **Proposed alliance and paid down payment** — extended cooperation to Valphine under false assumptions about her nature

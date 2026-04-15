@@ -1,27 +1,31 @@
 # Miral
 
 ## Identity
-- **Role:** Sea elf; spirit bound to the Tower of Storms
-- **Faction:** None (deceased)
-- **First Appearance:** The party encountered her as a ghost tied to the Tower of Storms; her death was at the hands of Moesko
+- Sea elf; apparent original owner of the opalescent conch
+- Faction affiliation unknown; connected to coastal/undersea territory near Leilon
+- First appeared as a ghost when the party presented her recovered conch to her
 
 ## Personality & Motivations
-- **Core Goal:** To have her spirit released from its binding to the Tower of Storms
-- Miral presented as grateful and solemn in her brief manifestation. Despite her ordeal, she took care to warn the party before passing on, suggesting a protective or duty-bound nature even in death.
+- Sought rest and resolution — her spirit was bound until her conch was returned
+- Cryptic but deliberate in her warnings; concerned with threats she perceived gathering below Leilon
+- Generous disposition toward the party, having intended to retrieve a treasure (the halberd from the Star Crossed Lover) on their behalf
 
 ## History with the Party
-- The party recovered Miral's opalescent conch, which had kept her spirit tethered
-- Upon receiving the conch, her spirit manifested, thanked the party, and delivered a cryptic warning before disappearing to rest
+- Party recovered Miral's opalescent conch as the objective of their quest
+- Upon presenting the conch, her ghost manifested and confirmed that Moesko was responsible for her death
+- Revealed Moesko had not acted alone — external shadows had corrupted his devotion to Talos, transforming it into something "foreign and calculating"
+- Issued a warning: *"Beware, surface dweller... the true storm gathers not in the sky, but in the depths below Leilon"*
+- Indicated the halberd recovered from the Star Crossed Lover was a treasure she had meant to retrieve for the party
+- Her spirit departed after receiving the conch, implying she found rest
 
 ## Current Status
-- **Last Known Status:** At rest; spirit has passed on
-- **Active Plans:** None — Miral is no longer an active presence
-- **What the Party Knows:** She was killed by Moesko; her spirit is now free
-- **What Remains Hidden:** The full context or source of her warning about "the depths below Leilon"
+- **Last known:** Spirit departed; presumably at rest
+- **Active plans:** None — her arc appears concluded
+- **Hidden information:** The nature of the "external shadows" that manipulated Moesko remains unexplained; the full threat gathering beneath Leilon is unresolved
 
 ## Relationships
-- **Moesko:** Her killer; she observed that his devotion had been twisted into something "foreign and calculating," distinct from the rage of Talos
-- **The Party:** Grateful to them for freeing her spirit; addressed them as "surface dweller"
+- **Moesko:** Her killer; she confirmed his culpability but emphasized he was manipulated by outside forces
+- **The Party:** Benevolent toward them — intended to gift them the halberd from the Star Crossed Lover
 
 ## Arc Score Events
-- N/A — Miral is deceased and did not have an ongoing arc; her role concluded upon spirit release
+- *(No arc score events recorded in source notes)*

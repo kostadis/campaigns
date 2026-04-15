@@ -1,36 +1,44 @@
 # Falcon the Hunter
 
 ## Identity
-- **Role:** Proprietor of Falcon Hunting Lodge, Neverwinter Wood; self-described interventionist aligned loosely with the Emerald Enclave
-- **First Appearance:** Party arrived at his lodge seeking shelter; he accepted them in exchange for musical entertainment from Vukradin
+- **Role:** Proprietor of the Falcon Hunting Lodge; retired adventurer; self-described interventionist (opposes planar incursions)
+- **Faction:** Loosely aligned with Emerald Enclave philosophy, though he distinguishes himself from naturalists
+- **First Appearance:** Party arrived at his fortified lodge in Neverwinter Wood, referred to him by Barthen
 
 ## Personality & Motivations
-- **Core Goals:** Maintain his comfortable lifestyle and business reputation; protect and profit from his investments (lodge, Mountain's Toe Goldmine); stop planar incursions in the Wood
-- Falcon is a pragmatic, affable host who leans on a fabricated legend to drive business — he knows exactly what he is and has made peace with it
-- He handles social friction gracefully: accepted an insincere apology without complaint, and initially deflected suspicion about the searched drawer onto the Cult of Talos
-- When genuinely cornered, he drops the act and is disarmingly honest; his confession to Vukradin was candid rather than defensive
+- **Core Goals:** Maintain his profitable lodge and his reputation as a dragonslayer; avoid trouble with dangerous guests; keep his past buried
+- Warm and gregarious host who takes genuine pleasure in entertaining guests — especially friends of Barthen
+- Proud of his adventuring lifestyle and dismissive of movements he sees as threats to traditional adventuring culture
+- A pragmatic fabricator: he perpetuates the dragonslayer myth deliberately because "the fantasy of dining with a dragon slayer" is good for business, and guests "want to believe the story"
+- Becomes flustered and defensive when cornered, but is capable of grace when offered an out (accepted Vukradin's insincere apology without pressing it)
 
 ## History with the Party
-1. **First Visit:** Welcomed the party in exchange for Vukradin's performance. Over dinner, casually mentioned his share of a dragon hoard, triggering a furious confrontation with Vukradin. Demanded and received an apology upon Vukradin's return.
-2. **Morning After:** Confronted the party about a disturbed locked drawer, blaming the Cult of Talos. When pressed, privately confessed to Vukradin the full truth: he was no dragonslayer. He fled Iymrith's lair after his companions were killed, found only gold scraps and a brass ring inscribed with the Elvish word for "lightning," and used those as seed capital to build the lodge. He has maintained the dragonslayer story purely for business.
-3. **Second Visit:** Greeted the party warmly upon their return with prisoners and rescued companions. Disclosed financial trouble — his investment in Mountain's Toe Goldmine has been poisoned, straining his resources. Offered the party a share in the mine to investigate and resolve the problem. Re-presented the Woodland Manse quest, this time offering boots of elvenkind (purchased legitimately, pointedly noting this to avoid conflict with Vukradin). Provided directions to the Manse and supplied wine for Brewbarry as part of a talisman arrangement.
+
+**First Visit — Lodging and Dinner**
+Falcon welcomed the party as guests of Barthen, offering lodging, meals, and wine in exchange for musical entertainment. Over dinner, he discussed the regional orc threat — organized bands descending from the mountains since a dragon appeared in the area, apparently coordinating with evil half-orcs at a ruined stone manse called the **Woodland Mants**, roughly ten miles southwest. He offered a quest to deal with the half-orcs, dangling a pair of *boots of elvenkind* as reward while noting the party might need more seasoning first.
+
+Dinner turned contentious when Vukradin accused him of stealing wealth from dragon victims after Falcon described funding his lodge with a share of a dragon's hoard. Falcon was genuinely confused by the accusation and demanded an apology, which Vukradin provided insincerely. Falcon accepted it graciously. He also arranged for Brewbarry to receive three bottles of wine as part of a talisman transaction with Sridar.
+
+**Morning Confrontation — The Locked Drawer**
+During the night, Vukradin broke into Falcon's private bedroom and pried open a locked drawer, uncovering three items: a **brass ring inscribed with the Elvish word for "lightning"** (housed in a miniature iron dragon's head box), a **wooden square carved with a labyrinth maze**, and a **pair of wooden elven ears on a chain** inscribed with "my dearly beloved."
+
+The following morning, Falcon confronted the party about the disturbed drawer, wrongly blaming the **Cult of Talos**. Vukradin successfully misdirected him. Feeling cornered by the implication the cult had nearly succeeded in stealing the ring, Falcon confessed the truth: he is the sole survivor of his adventuring party after an encounter with the blue dragon **Iymrith**. He arrived at Iymrith's hoard only after others had already plundered it, collected residual gold scraps and the brass ring, and used these as seed capital to buy land and build the lodge. He granted Vukradin permission to document the ring before the party departed.
 
 ## Current Status
 - **Last Known Location:** Falcon Hunting Lodge, Neverwinter Wood
-- **Active Operations:**
-  - Mountain's Toe Goldmine is poisoned and hemorrhaging money — he needs the party to resolve it
-  - Woodland Manse quest remains open; he has offered boots of elvenkind as reward
-- **What the Party Knows:** His dragonslayer identity is fabricated; the real origin of his wealth is gold scraps and a brass ring from Iymrith's hoard; he is financially stressed
-- **What Remains Hidden:** Nothing substantial disclosed in notes beyond what the party already knows
+- **Active Operations:** Running his lodge; perpetuating his dragonslayer fiction with paying guests; monitoring for Cult of Talos activity (he believes they tried to steal his ring)
+- **What the Party Knows:** The full truth — he is not a dragonslayer; he is a survivor of Iymrith's hoard and the brass ring connects him to her; Vukradin has documentation of the ring
+- **What Remains Hidden (from Falcon):** That Vukradin was the one who broke into his drawer, not the Cult of Talos; the party's true interest in the ring's connection to Iymrith
 
 ## Relationships
-- **Vukradin (party):** Fraught. Vukradin views him as a fraud, artist, and thief. Falcon confessed the truth directly to Vukradin; the relationship is functional but carries open contempt from Vukradin's side. Falcon made a point of buying the boots of elvenkind legitimately to preempt further conflict.
-- **Iymrith:** Indirect — Falcon's origin story hinges on surviving her; his companions did not
-- **Cult of Talos:** Named them as suspected intruders at the lodge; nature of any direct conflict unclear
-- **Emerald Enclave:** Affiliated but self-identifies as an interventionist, contrasting himself with naturalist factions within the Enclave
-- **Mountain's Toe Goldmine:** Financial stakeholder, currently in crisis
+- **Barthen:** Old contact; Barthen's vouching for the party secured them hospitality
+- **Iymrith (blue dragon):** Sole survivor of an encounter with her; possesses an artifact from her hoard (the brass ring); tangentially linked to the broader regional threat
+- **Cult of Talos:** Believes they are actively trying to steal the brass ring as an offering to their god; unaware this threat was fabricated by Vukradin's misdirection
+- **Vukradin:** Tense relationship — Vukradin accused him of theft, broke into his room, extracted his secret, and was given permission to document the ring; Falcon does not know Vukradin was the intruder
+- **Brewbarry:** Cordial; arranged wine delivery as part of the party's dealings
+- **The Woodland Mants Half-Orcs:** Has identified them as a regional threat and is willing to pay for someone to deal with them
 
 ## Arc Score Events
-- **Decrease (Vukradin):** Dragon hoard comment at dinner triggered immediate fury
-- **Partial Recovery (Vukradin):** Honest confession about the Iymrith story — acknowledged as truthful, though Vukradin's contempt remains
-- **Minor Positive Gesture:** Purchasing the boots of elvenkind legitimately — a deliberate signal to Vukradin, noted at the table
+- **Decrease** — Vukradin publicly accused him of stealing from dragon victims; Falcon demanded and received an apology *(arc tension with Vukradin)*
+- **Decrease** — Falcon's dragonslayer reputation was exposed as a lie by Vukradin's unauthorized search of his private quarters
+- **Partial Recovery** — Falcon chose to confess voluntarily (framing it as cornered candor) and granted Vukradin permission to document the ring, preserving some dignity

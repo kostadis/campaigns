@@ -1,5 +1,31 @@
-# Machine-local config
+# Mempalace exclusions — raw content, operational files, tooling
+summaries/
+logs/
+docs/gdriveMD/
+--output/
+entities.json
+config.yaml
+ui_config.yaml
+narrate_scene.sh
+ui.sh
+script_run
+tracking.txt
 .claude/
-.mcp.json
 MEMPALACE.md
-mempalace.yaml
+
+# Pipeline rendering inputs (not DM reference)
+voice/
+examples/
+
+# Pipeline intermediates (mined separately or excluded)
+docs/distill_extractions/
+docs/state_extractions/
+docs/party_extractions/
+docs/synthesize_npc/
+planning_extractions/
+
+# Monolithic narrative (replaced by chapter splits in narrative wing)
+docs/NeverwinterExpansionismAndTheNorth.md
+
+# Chapter splits mined separately as narrative wing
+docs/chapters/

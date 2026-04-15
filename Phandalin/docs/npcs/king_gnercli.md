@@ -1,29 +1,30 @@
 # King Gnercli
 
 ## Identity
-- **Role:** Co-King of the gnome settlement; joint ruler alongside King Korboz
-- **Faction:** Gnome settlement monarchy
-- **First Appearance:** Throne room of the gnome settlement; greeted the party as their spokesperson when they arrived seeking information about a shapechanger threat
+- Co-ruler of the kobold kingdom, alongside King Korboz; functional decision-maker during Korboz's illness
+- First encountered in the throne room, where the party sought an audience under Vukradin's cover story of a diplomatic mission
 
 ## Personality & Motivations
-- **Core Goals:** Maintaining his standing as a legitimate co-equal ruler; resolving the shapechanger threat endangering the settlement
-- Gnercli is the more composed and lucid of the two kings, serving as the practical face of their shared rule. He is proud and sensitive about his authority, bristling at any implication that Korboz outranks him. He tolerates outside questioning up to a point but becomes visibly annoyed when pressed on governance matters, particularly by Vukardin.
+- Core goal: maintain stability and the dual monarchy structure; resolve the shapeshifter threat without revealing the kingdom's vulnerability
+- Perceptive and pragmatic — saw through Vukradin's diplomatic pretense immediately
+- Genuinely invested in the dual monarchy as a political philosophy, framing it as a safeguard against unfit leadership; grew furious when Vukradin systematically picked his arguments apart
+- Short-tempered under pressure; ultimately shoved the hat of wizardry at the party and ordered them out rather than continue the argument
 
 ## History with the Party
-- **First meeting:** Gnercli received the party in the throne room, confirmed the shapechanger threat, and offered a Hat of Wizardry as a reward for locating and eliminating the creature. He suggested it might be hiding in the cellar among barrels due to its non-bipedal form, and candidly admitted he had little else of value to offer.
-- **Subsequent interaction:** Gnercli pushed back firmly against Vukardin's implications that one king held seniority over the other, explaining that the dual monarchy functions through collaborative argument. The debate eventually inflamed Korboz's demands for recognition of seniority. Exasperated, Gnercli handed over the promised magical hat and told the party to leave.
-- Gnercli consistently characterized the party as adventurers despite Vukardin's insistence on framing the mission as diplomatic.
+1. **First meeting:** Gnercli received the party in the throne room, recognized them as adventurers despite Vukradin's claims, and hired them to eliminate a shapeshifter lurking in the kingdom. Offered a hat of wizardry as payment.
+2. **Negotiation breakdown:** When Vukradin questioned the hat's usefulness against a dragon, Gnercli admitted he had little else to offer. He suggested the cellar — packed with large barrels the creature could mimic — as the most probable hiding spot.
+3. **Philosophical argument:** Gnercli defended the dual monarchy's structure at length, insisting neither king holds seniority and that decisions go to whoever makes the best argument. Vukradin dismantled his reasoning point by point. Gnercli ended the audience in visible fury, shoved the hat at the party, and told them to leave. He was last heard in renewed conflict with Korboz through the closed throne room door.
 
 ## Current Status
-- **Last Known Location:** Gnome settlement, throne room
-- **Active Situation:** In ongoing conflict with Korboz over questions of seniority, likely stirred up by Vukardin's persistent questioning
-- **What the Party Knows:** He is the more stable of the two kings, is sensitive about co-equal authority, and was annoyed enough to end the audience abruptly
-- **Hidden:** No additional hidden information noted in session records
+- **Last known location:** Throne room (heard through the door, not seen directly)
+- **Active situation:** In the middle of a heated argument with Korboz following the party's dismissal
+- **What the party knows:** Gnercli is the one actually running things; he wants the shapeshifter dead; he's resource-poor and temperamental
+- **What remains hidden:** The full nature and severity of Korboz's illness; what the renewed conflict with Korboz is actually about; whether Gnercli has any further resources or leverage to offer
 
 ## Relationships
-- **King Korboz:** Co-ruler and counterpart; their relationship is cooperative but contentious — they govern by arguing until the best argument wins. The party's visit left their dynamic visibly strained.
-- **Vukardin (party):** Source of notable irritation; Gnercli found Vukardin's governance questions presumptuous and his "diplomatic mission" framing dismissive. Asked pointedly where the bard had learned so much about governance.
-- **Party (general):** Transactional but not hostile; fulfilled his end of the reward deal and dismissed them when the meeting became unproductive.
+- **King Korboz:** Co-ruler and philosophical counterpart; currently in open conflict with him following the party's audience
+- **The party (general):** Transactional relationship — hired them out of necessity; ended the meeting on poor terms
+- **Vukradin specifically:** Active antagonism; Vukradin embarrassed him by dismantling his core political arguments in front of witnesses
 
 ## Arc Score Events
-- No arc score events recorded.
+- No arc score events recorded in source notes.

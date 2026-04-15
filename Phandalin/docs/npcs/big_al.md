@@ -1,28 +1,31 @@
 # Big Al
 
 ## Identity
-- Role: Phandalin resident and cow owner
-- First appearance: Encountered in Phandalin; approached the party (or was questioned by them) regarding his need to graze his cow on Qelline Alderleaf's land
+- Owner of Butterskull Ranch
+- First appeared when the party came to secure Petunia, his prized cow, as part of arranging the wererat cheese supply
 
 ## Personality & Motivations
-- Core goal: Care for his prized cow Petunia; more recently, making amends with Qelline
-- Emotionally guarded but ultimately honest when pressed — he broke down under the party's questioning and confessed a long-held secret. Carries obvious guilt over his past actions toward Qelline.
+- Prideful but emotionally fragile beneath the surface — broke down in tears when pressed about Qelline
+- Motivated by love for Petunia and, it seems, unresolved feelings for Qelline Alderleaf
+- Has a history of running from emotional commitment, though the party's intervention may be changing that
 
 ## History with the Party
-- Told the party he needed grazing rights on Qelline Alderleaf's land (1 gp/week) but couldn't afford it.
-- Under questioning about his relationship with Qelline, he broke down and revealed they had once been engaged. He abandoned her the night before their wedding, claiming he wasn't ready to settle down despite loving her.
-- The party pushed him to come clean to Qelline. He complied, picking up Petunia and heading to her farm to make amends.
+- The party came to Butterskull Ranch needing to secure Petunia for the wererat cheese supply
+- Big Al mentioned Qelline had offered grazing land but that he couldn't afford her fee of one gold piece per week
+- When the party returned with Qelline's condition that he apologize in person, they pressed him on the nature of their relationship
+- He broke down and confessed they had once been engaged, and that he had abandoned her the night before their wedding — loving her but not ready to settle down
+- The party convinced him to go tell Qelline the full truth; he departed for her farm with Petunia in tow
 
 ## Current Status
-- **Last known location:** Qelline Alderleaf's farm
-- **Active situation:** Attempting to reconcile with Qelline after the party compelled him to tell her the truth
-- **What the party knows:** The full backstory — the broken engagement, his reasons, and his visit to Qelline
-- **What remains hidden:** The outcome of his conversation with Qelline; whether she forgave him or turned him away
+- **Last known location:** En route to or at Qelline Alderleaf's farm
+- **Active:** Attempting to make amends with Qelline and secure grazing rights for Petunia
+- **What the party knows:** His full confession and romantic history with Qelline
+- **What remains hidden:** Whether Qelline will forgive him; outcome of the visit unknown
 
 ## Relationships
-- **Qelline Alderleaf:** Former fiancée. He abandoned her the night before their wedding. Their current relationship status is unresolved — he has gone to speak with her.
-- **The Party:** Pressured him into honesty; he complied without apparent resentment.
-- **Petunia (cow):** His prized possession; central to his initial reason for interaction.
+- **Qelline Alderleaf:** Former fiancée; he abandoned her the night before their wedding. Still carries feelings for her. Currently attempting reconciliation.
+- **Petunia:** His prized cow; the inciting reason for his interaction with the party
+- **The Party:** Strangers who inadvertently became emotional mediators; he was vulnerable with them and accepted their push to make things right
 
 ## Arc Score Events
-- *(Not applicable — no arc score changes recorded in notes)*
+- *(No arc score changes recorded in source notes)*

@@ -1,29 +1,29 @@
 # Pog
 
 ## Identity
-- Male gnome guard; stationed at a cave entrance to Gnomengarde
-- First appeared when the party arrived at Gnomengarde's entrance; he challenged them in Gnomish and was the first NPC they interacted with there
+- Male gnome guard, stationed at the cliff-top entrance to Gnomengarde
+- Faction: Gnomengarde
+- First appeared when the party arrived at Gnomengarde's entrance; he and his partner Ulla challenged the party to screen for shapechangers
 
 ## Personality & Motivations
-- Deeply concerned with shapechanger threats and enforcing Gnomengarde's standing security protocols
-- Bureaucratically minded — he navigated Brewbarry's status through administrative reasoning rather than judgment calls, landing on a technicality about past vs. present identity
-- Prone to suspicion; when prompted, he turned that suspicion inward toward his colleague Ulla without much resistance
+- Follows standing orders but shows signs of independent thinking — was genuinely rattled when Vukradin questioned the logic of their screening protocol
+- Appears susceptible to persuasion and responds warmly to music and social engagement
 
 ## History with the Party
-- Challenged the party in Gnomish upon arrival, demanding they confirm they were not shapechangers
-- Conferred with fellow guard Ulla before permitting entry
-- Allowed Brewbarry passage on the basis that his Uthgardt identity was past-tense, placing him in an administrative grey area outside the standing attack order
-- After Valphine accused him of being a shapeshifter, he deflected and turned suspicion onto Ulla, noting she had "looked different lately"
+- Challenged the party at the entrance alongside Ulla, following orders to screen for shapechangers
+- Was visibly swayed by Vukradin's philosophical pushback on their orders, suggesting he doesn't follow commands blindly
+- Enjoyed Vukradin's music during the encounter
+- After the party passed through, Valphine deliberately manipulated Pog and Ulla into accusing each other of being the shapeshifter, leaving the two guards in conflict with one another
 
 ## Current Status
-- Last known location: cave entrance to Gnomengarde
-- Actively guarding the entrance and enforcing shapechanger protocols
-- The party knows he is suspicious of Ulla; it is unknown whether he has acted on or reported that suspicion
+- **Last known location:** Guard post at Gnomengarde's cliff-top entrance
+- Embroiled in mutual suspicion with his partner Ulla following Valphine's provocation
+- The party's manipulation is unknown to Gnomengarde leadership — Pog and Ulla likely believe the accusations arose organically
 
 ## Relationships
-- **Ulla** — fellow guard; Pog deferred to her during the party's entry, but has since voiced suspicion about her appearance
-- **Brewbarry** — passed through on a technicality; relationship is bureaucratically neutral
-- **Valphine** — she prompted his suspicion of Ulla, whether intentionally or not
+- **Ulla:** Partner guard; their working relationship has been deliberately destabilized by Valphine
+- **Vukradin:** Mild positive rapport — was moved by his music and engaged with his arguments
+- **Valphine:** Unknowing target of manipulation; has no reason to suspect her involvement
 
 ## Arc Score Events
 - No arc score changes recorded

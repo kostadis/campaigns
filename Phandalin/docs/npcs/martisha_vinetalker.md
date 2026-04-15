@@ -1,27 +1,25 @@
 # Martisha Vinetalker
 
 ## Identity
-- **Role:** Owner and proprietor of the Wayside Inn on the High Road
+- **Role:** Owner and proprietor of the Wayside Inn
 - **Faction:** None noted
-- **First Appearance:** The party encountered her at the Wayside Inn when seeking directions or lodging; she directed them toward a coastal trail leading to the Tower of Storms
+- **First Appearance:** Party stopped overnight at the Wayside Inn during travel toward the Tower of Storms; Martisha provided directions to the coastal trail leading there
 
 ## Personality & Motivations
-- **Core goals/drives:** Unknown beyond running her establishment
-- Martisha presents as stern, cold, and calculating, but with an underlying charisma that makes her memorable. Her motivations beyond innkeeping have not yet been revealed at the table.
+- **Goals/Drives:** Unknown beyond running the inn; no deeper motivations revealed
+- Cold, stern, and calculating by demeanor, but notably charismatic. Helpful to the party in a transactional, businesslike way — directed them onward without warmth.
 
 ## History with the Party
-- Met the party at the Wayside Inn on the High Road
-- Directed them to a coastal trail leading to the Tower of Storms
+- **First Meeting:** Party lodged at the Wayside Inn en route to the Tower of Storms. Martisha pointed them toward the coastal trail. No conflict or deeper engagement noted.
 
 ## Current Status
-- **Last known location:** The Wayside Inn on the High Road
-- **Active plans:** None known
-- **What the party knows:** She is the inn's owner and was willing to point them toward the Tower of Storms
-- **What remains hidden:** Any deeper motivations, allegiances, or knowledge she may possess
+- **Last Known Location:** The Wayside Inn
+- **Active Plans:** None known
+- **Party Knowledge:** The party knows her as the inn's owner who gave them directions. No hidden information recorded in notes.
 
 ## Relationships
-- No relationships with other NPCs or factions currently documented
-- Party relationship: Neutral/transactional — a brief but notable point of contact
+- **Party:** Brief, transactional interaction; no individual bonds established
+- **Other NPCs/Factions:** None noted
 
 ## Arc Score Events
-- No arc score events recorded
+- No arc score events recorded.

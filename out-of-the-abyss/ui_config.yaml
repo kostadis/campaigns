@@ -44,10 +44,260 @@ party_synth_only: false
 plan_arc_scores: ''
 plan_build_summaries: ''
 plan_chunk_size: 60000
-plan_context: ''
+plan_context: '/home/kroussos/campaigns/out-of-the-abyss/docs/campaign_state.md
+
+  /home/kroussos/campaigns/out-of-the-abyss/docs/world_state.md
+
+  /home/kroussos/campaigns/out-of-the-abyss/docs/party.md'
 plan_extract_dir: ''
 plan_mode: Synthesize planning.md
-plan_npc: ''
+plan_npc: '/home/kroussos/campaigns/out-of-the-abyss/docs/npcs/aliinka.md
+
+  /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/aliza_argot.md
+
+  /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/araumycos.md
+
+  /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/asha_vandree.md
+
+  /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/baedora.md
+
+  /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/balok.md
+
+  /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/basidia.md
+
+  /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/beremil.md
+
+  /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/bimble.md
+
+  /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/bloppblippodd_blopp.md
+
+  /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/brannum_redmarch.md
+
+  /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/brysis_of_khaem.md
+
+  /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/buppido.md
+
+  /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/chipgrin.md
+
+  /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/dasco_pickshine.md
+
+  /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/dawnbringer.md
+
+  /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/daz.md
+
+  /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/demogorgon.md
+
+  /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/diinarnnmyr.md
+
+  /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/diirdeklin.md
+
+  /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/dorbo_diggermattock.md
+
+  /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/dorhun.md
+
+  /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/droki.md
+
+  /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/dulgir.md
+
+  /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/eldeth.md
+
+  /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/eldev.md
+
+  /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/eldgrim.md
+
+  /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/entemoch.md
+
+  /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/errde.md
+
+  /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/fargas_rumblefoot.md
+
+  /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/flumph.md
+
+  /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/fuurm_coppernose_copper.md
+
+  /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/gartokkar_xundorn.md
+
+  /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/gasbide.md
+
+  /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/gerdig_katfinger.md
+
+  /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/glabbagool.md
+
+  /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/glooglugogg.md
+
+  /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/glyphic_shroomlight.md
+
+  /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/gorg_bahamut_grog_bahamut.md
+
+  /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/grimgrim.md
+
+  /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/grimholl_forgebrand.md
+
+  /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/grinta_ironhead.md
+
+  /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/grogluk.md
+
+  /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/gru_manga.md
+
+  /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/grygum.md
+
+  /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/guldor.md
+
+  /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/gurnik_tapfinger.md
+
+  /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/hemeth.md
+
+  /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/hepbobe_also_referred_to_as_hepbode.md
+
+  /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/hgraam.md
+
+  /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/ilvara.md
+
+  /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/imbros.md
+
+  /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/jadgar.md
+
+  /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/jaezred.md
+
+  /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/jimjar.md
+
+  /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/jorlan.md
+
+  /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/juiblex.md
+
+  /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/kaelira.md
+
+  /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/kalannar.md
+
+  /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/kazook_pickshine.md
+
+  /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/khaem.md
+
+  /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/king_hekaton.md
+
+  /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/korrh_erann.md
+
+  /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/lingrick_xardelvar.md
+
+  /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/loobamub.md
+
+  /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/milo_goodbarrel.md
+
+  /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/naomi_pathshutter.md
+
+  /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/narrak.md
+
+  /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/nym.md
+
+  /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/nym_duskryn.md
+
+  /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/ogremoch.md
+
+  /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/pelek.md
+
+  /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/perigrog_scrapedust.md
+
+  /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/phylo.md
+
+  /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/plinki.md
+
+  /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/ploopploopeen.md
+
+  /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/prince_derendil.md
+
+  /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/prince_livid.md
+
+  /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/princess_ebonmire.md
+
+  /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/protanther.md
+
+  /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/pudding_king.md
+
+  /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/rihaud.md
+
+  /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/ront.md
+
+  /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/rump_a_dump.md
+
+  /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/runc.md
+
+  /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/rusharoo.md
+
+  /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/rust.md
+
+  /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/sarith.md
+
+  /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/senni_diggermattock.md
+
+  /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/shal.md
+
+  /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/shoor.md
+
+  /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/shuushar.md
+
+  /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/skiit.md
+
+  /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/spiderbait.md
+
+  /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/starlace.md
+
+  /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/stool.md
+
+  /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/stroud.md
+
+  /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/tappy_foamstrap.md
+
+  /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/tarngardt.md
+
+  /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/terrestor.md
+
+  /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/thangus_ironhead.md
+
+  /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/the_garden_shadow.md
+
+  /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/the_matron_mother_of_house_t_sarran.md
+
+  /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/themberchaud.md
+
+  /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/thorin.md
+
+  /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/topsy.md
+
+  /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/turvy.md
+
+  /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/udhask.md
+
+  /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/ulnara.md
+
+  /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/uskvil.md
+
+  /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/uth_jadgar.md
+
+  /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/valen.md
+
+  /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/valimor_brightgem.md
+
+  /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/vazuk.md
+
+  /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/voosbur.md
+
+  /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/welnaste_mizzrym.md
+
+  /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/werz.md
+
+  /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/whisperwind.md
+
+  /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/xinaya.md
+
+  /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/yestabrod.md
+
+  /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/yrberop.md
+
+  /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/yukyuk.md
+
+  /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/zalthir.md
+
+  /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/zuggtmoy.md'
 plan_output: /home/kroussos/campaigns/out-of-the-abyss/docs/planning.md
 plan_summaries: docs/world_state.md
 plan_synth_only: false
@@ -68,11 +318,12 @@ sd_output_dir: /home/kroussos/campaigns/out-of-the-abyss/summaries/20260404
 sd_party: /home/kroussos/campaigns/out-of-the-abyss/docs/party.md
 sd_port: '5000'
 sd_roleplay_dir: vtt_roleplay_extractions
+sd_roleplay_summary: session-roleplay.md
 sd_server_pid: 1664793
 sd_session: gm-assist.md
 sd_session_dir: summaries/20260324
 sd_session_name: the fight
-sd_session_summary: session-clean.md
+sd_session_summary: session-summary.md
 sd_summary_dir: vtt_extractions
 sd_voice_dir: /home/kroussos/campaigns/out-of-the-abyss/voice
 session_dir: /home/kroussos/campaigns/out-of-the-abyss/summaries/20260404

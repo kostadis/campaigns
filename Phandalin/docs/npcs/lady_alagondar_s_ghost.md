@@ -1,27 +1,27 @@
 # Lady Alagondar's Ghost
 
 ## Identity
-- **Role/Title:** Spectral apparition; implied connection to the Dragon Slayer Sword and the dragon threatening the region
-- **Faction:** Unknown; possibly tied to House Alagondar or a legacy associated with the sword
-- **First Appearance:** Appeared to the party in the northern chamber immediately after they secured the Dragon Slayer Sword and completed a short rest
+- Role / Title: Unknown; presumed tied to the Dragon Slayer Sword or the northern chamber in some way
+- Faction: None confirmed
+- First Appearance: Materialized in the northern chamber after the party defeated the invisible stalker and secured the Dragon Slayer Sword
 
 ## Personality & Motivations
-- **Core Goals:** Unknown — her single appearance suggests an urgent, wordless directive toward the Ice Spire Mountains, implying concern over the dragon's presence
-- Communicates only through expression and gesture; she appeared sorrowful and purposeful, offering no verbal explanation for her presence or nature
+- Core goals: Unknown; no communication has occurred
+- Demonstrated traits: Silent and mournful. She made no attempt to speak or interact — only stared with hollow, grief-laden eyes before fading. Her gaze carried clear directionality, suggesting either a warning or an unresolved connection to the Ice Spire Mountains.
 
 ## History with the Party
-- **First and only interaction:** Manifested after the party claimed the Dragon Slayer Sword. Regarded the party with visible sadness, then turned her gaze toward the Ice Spire Mountains — silently indicating the dragon's location. Faded without speaking.
+- **Session (first appearance):** Appeared wordlessly in the northern chamber following the defeat of the invisible stalker. Stared fixedly toward the Ice Spire Mountains, then faded without a sound. Her gaze prompted Vukradin to recall that the White Dragon lairs in that region.
 
 ## Current Status
-- **Last Known State:** Faded and no longer present
-- **Active Plans:** Unknown
-- **What the party knows:** She is connected to the sword and pointed them toward the Ice Spire Mountains
-- **What remains hidden:** Her identity, history, motivations, and the nature of her bond to the sword or the dragon
+- Last known location: Northern chamber (faded; whereabouts unknown)
+- Active plans: Unknown
+- **Party knows:** She appeared, stared toward the Ice Spire Mountains, and vanished silently
+- **Hidden:** Her identity beyond her name, her history, her connection to the sword, and whether she will appear again
 
 ## Relationships
-- **Dragon Slayer Sword:** Apparent spiritual connection; her appearance was triggered by the sword being claimed
-- **The Dragon:** Her gaze toward the Ice Spire Mountains suggests awareness of — and possible history with — the creature
-- **The Party:** Fleeting; she observed them with sadness but made no direct contact
+- **The Dragon Slayer Sword:** Her appearance coincided directly with the party securing it — connection unknown but likely significant
+- **The White Dragon (Ice Spire Mountains):** Her gaze pointed toward this region; nature of connection unknown
+- **Vukradin:** Her silent gesture triggered his recollection of the White Dragon's location
 
 ## Arc Score Events
-- No arc score events recorded
+- No arc score changes recorded

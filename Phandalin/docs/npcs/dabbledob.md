@@ -1,29 +1,28 @@
 # Dabbledob
 
 ## Identity
-- Role: Foremost inventor of Gnomengarde; coworker and rival to Fibblestib
-- First appearance: Met by the party during their visit to Gnomengarde, likely alongside or in contrast to Fibblestib
+- Role: Inventor and laboratory researcher, Gnomengarde
+- Faction: Gnomengarde
+- First appearance: Encountered in the inventors' laboratory alongside her coworker Fibblestib
 
 ## Personality & Motivations
-- Core goal: Resolve King Korboz's madness through practical, physical means — specifically a straitjacket to restrain him
-- Pragmatic and evidence-driven; she dismissed Fibblestib's sanity ray as having no evidentiary basis
-- Visibly unimpressed by Fibblestib's ego and self-congratulation; the rivalry between them is clearly personal as much as professional
-- Dry and grounded — her preferred solution is blunt and functional, which Fibblestib mocked, though she gave as good as she got
+- Values evidence-based approaches over untested theories; skeptical of Fibblestib's more outlandish proposals
+- Pragmatic and grounded — advocates for practical solutions (the straitjacket design) over speculative ones (the sanity ray)
+- Reluctantly open-minded; will concede a point when evidence supports it, as when she acknowledged music has helped in some cases
 
 ## History with the Party
-- During the party's visit to Gnomengarde, Dabbledob engaged with them regarding King Korboz's condition
-- She confirmed that music has sometimes helped in treating Korboz, offering a practical piece of information the party can act on
-- She made clear her preference for the straitjacket approach over Fibblestib's sanity ray, framing her position around lack of evidence for his method
+- The party encountered Dabbledob in the laboratory during a discussion about treating the king. She opposed Fibblestib's sanity ray proposal on grounds of lacking evidence, and pushed her own straitjacket design as an alternative. When Vukradin proposed music as a treatment, she acknowledged — reluctantly — that music has helped in some circumstances.
 
 ## Current Status
-- Last known location: Gnomengarde
-- Focused on her approach to resolving the Korboz situation
-- The party knows she is skeptical of the sanity ray and that music may help Korboz; no hidden information noted in source material
+- **Last known location:** The inventors' laboratory, Gnomengarde
+- No known active independent plans; engaged in ongoing debate with Fibblestib over treatment approaches for the king
+- **What the party knows:** She is the more skeptical, evidence-minded counterpart to Fibblestib
+- **What remains hidden:** Her deeper motivations, if any, regarding the king's condition or laboratory politics
 
 ## Relationships
-- **Fibblestib**: Coworker and rival; openly dismissive of his methods and ego; the tension between them is mutual
-- **King Korboz**: Subject of her current work; she favors physical restraint as treatment
-- **The Party**: Cooperative; shared useful information about music and Korboz's condition
+- **Fibblestib:** Coworker and frequent intellectual opponent; dismissive of each other's proposals
+- **Vukradin (party):** Mild positive rapport — she conceded his music suggestion had merit
+- **The King:** Connected indirectly through the debate over his treatment
 
 ## Arc Score Events
 - No arc score events recorded

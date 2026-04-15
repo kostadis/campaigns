@@ -1,27 +1,27 @@
 # Daran Edermath (Silverleaf)
 
 ## Identity
-- Local orchard owner in Phandalin; former adventurer
-- Faction affiliation unknown
-- First appeared at the Stonehill Inn, where he approached Vukradin with a business proposition
+- **Role/Title:** Retired adventurer, orchardist
+- **Faction:** Unknown/unaffiliated (implied former adventuring background)
+- **First Appearance:** Stonehill Inn, Phandalin — approached the party with a business proposition
 
 ## Personality & Motivations
-- Core goals: unclear; approached the party with what appeared to be a treasure-hunting opportunity
-- Pragmatic and opportunistic, comfortable pitching morally grey jobs to strangers; however, showed genuine social grace when rebuffed — backing down and apologizing rather than pushing back.
+- **Core Goals:** Appears to seek profit through salvage operations, framed as legitimate opportunity
+- Carries himself with quiet, weathered wisdom — the demeanor of someone who has seen much and now prefers a simpler life
+- Was genuinely caught off guard by Vukradin's moral objection, responding with shock and apology rather than defensiveness, suggesting he hadn't considered the ethical dimension himself
 
 ## History with the Party
-- **Stonehill Inn (Phandalin):** Silverleaf pitched Vukradin on investigating the Tower of Storms, a lighthouse west of Phandalin rumored to lure ships onto rocks. He framed the shipwrecks as treasure opportunities. Vukradin refused on moral grounds (looting the dead). Silverleaf was visibly taken aback but apologized for the offense and did not press further.
+- **First Meeting (Stonehill Inn):** Approached Vukradin with a salvage pitch — an old stone lighthouse west of Phandalin on the coast, allegedly luring ships to wreck on the rocks, leaving treasure-laden hulks behind. Vukradin flatly rejected the premise as grave-robbing. Daran was visibly taken aback and apologetic.
 
 ## Current Status
-- **Last known location:** Phandalin, likely at or near his orchard
-- **Active plans:** Unknown; the Tower of Storms lead remains unresolved
-- **What the party knows:** He is a local orchard owner, a former adventurer, and goes by the alias "Silverleaf"
-- **Hidden:** His true motivations for recruiting the party, his history as an adventurer, and any faction ties are unknown
+- **Last Known Location:** Phandalin (Stonehill Inn at time of meeting; likely his orchard otherwise)
+- **Active Plans:** Seeking someone willing to undertake the lighthouse salvage operation — currently without a crew
+- **Known to Party:** Pitched the lighthouse job; was rebuffed by Vukradin
+- **Hidden from Party:** His full background, motivations for wanting the salvage done, and whether he has a personal stake in the lighthouse
 
 ## Relationships
-- **Vukradin:** Brief, slightly awkward first contact. Vukradin declined his pitch on ethical grounds; Silverleaf responded respectfully. Relationship is neutral but unresolved.
-- Other party members: No recorded interaction.
-- Other NPCs/factions: None documented.
+- **Vukradin:** Strained first impression — Vukradin morally rejected his proposal; Daran responded with apology rather than conflict
+- **Other Party Members:** No established relationships yet
 
 ## Arc Score Events
 - No arc score events recorded.

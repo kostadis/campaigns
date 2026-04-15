@@ -1,24 +1,23 @@
 # Backes Dunfield
 
 ## Identity
-- **Role:** Bartender at the Wayside Inn
-- **First Appearance:** The Wayside Inn; circumstances of first meeting not recorded
+- Role: Bartender at the Wayside Inn
+- First appearance: The party's overnight stay at the Wayside Inn. No direct interaction recorded beyond his presence.
 
 ## Personality & Motivations
-- Goals and drives not yet established in session notes
-- Notable physical traits: scarred face, crooked smile
+- Insufficient information to determine goals or drives.
+- No personality traits demonstrated through play beyond his notable appearance.
 
 ## History with the Party
-No significant interactions recorded.
+- Was present during the party's stay at the Wayside Inn. No significant interaction occurred.
 
 ## Current Status
-- **Last Known Location:** The Wayside Inn
-- No active plans or operations on record
-- **What the party knows:** His name, occupation, and appearance
-- **What remains hidden:** Background, motivations, and allegiances unknown
+- Last known location: The Wayside Inn.
+- No known active plans or operations.
+- The party knows: his face and role as bartender. Nothing further is recorded as hidden or revealed.
 
 ## Relationships
-No relationships recorded.
+- No relationships with other NPCs, factions, or individual party members recorded.
 
 ## Arc Score Events
-No arc score events recorded.
+- None recorded.

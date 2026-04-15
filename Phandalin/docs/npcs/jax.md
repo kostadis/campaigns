@@ -1,29 +1,25 @@
 # Jax
 
 ## Identity
-- **Role:** Agent of the Carver; described as the last of the Carver's agents
-- **Faction:** The Carver's organization
-- **First Appearance:** Chapter 32, outside Dragonbarrow — emerged from the tree line immediately after the party incapacitated Sister Kaella
+- Role: Field lieutenant and intermediary for the Carver; served as direct superior to at least one bandit crew and acted as the Carver's last known active agent
+- First appearance: Named second-hand by a surrendered bandit; later appeared in person at the ambush following Sister Kaella's capture
 
 ## Personality & Motivations
-- **Goals:** Carried out the Carver's operational directives; arrived to capitalize on Sister Kaella's silencing and eliminate the party
-- Cold, calculating demeanor — greeted Vukradin with a knowing smile and thanked him for handling "that little bit of business," suggesting comfort with manipulation and betrayal as tools
+- Core goal: Executing the Carver's operations in the field
+- Cold and calculating — he observed the party neutralize Sister Kaella from concealment and immediately moved to exploit the moment, framing their work as a convenience to him. His sardonic thanks to Vukradin before springing the ambush suggests a cruel, opportunistic streak.
 
 ## History with the Party
-- **Chapter 32:** Led an ambush outside Dragonbarrow with several thugs and a Rot-Tusk Ogre. Thanked Vukradin sardonically for incapacitating Sister Kaella, implying this served the Carver's interests. Initiated the attack — a net was thrown over Vukradin and dark magic briefly blinded Valphine. Vukradin countered with Hold Person, paralyzing both Jax and the Rot-Tusk Ogre. While immobilized, Jax was mauled by Soma in bear form, burned by Valphine's Spirit Guardians, and dealt critical blows by Brewbarry. Killed in the ambush.
+1. **Named by a surrendered bandit** as the crew's direct superior and go-between for the Carver. Whereabouts unknown at that time.
+2. **Ambush at the tree line**: Emerged with thugs and a Rot-Tusk Ogre the moment Sister Kaella was subdued, timing the attack for maximum vulnerability. Opened with coordinated crowd control — a net over Vukradin and a blinding dark-magic effect on Valphine. Was locked down by Vukradin's Hold Person, leaving him unable to act, and was destroyed by the combined assault of Soma (bear form), Valphine (Spirit Guardians), and Brewbarry (critical strikes).
 
 ## Current Status
-- **Last Known Location:** Outside Dragonbarrow
-- **Status:** **Deceased** — killed by the party during the ambush
-- **Active Plans:** None; eliminated
-- **What the Party Knows:** Jax was a Carver agent, the last of them; his arrival suggests the Carver had foreknowledge of Sister Kaella's location or was monitoring her
-- **What Remains Hidden:** The full nature of Jax's role within the Carver's organization; whether the Carver is aware of his death
+- **Dead.** Killed by the party during the ambush.
+- With Jax eliminated, he was identified as the last of the Carver's known agents.
 
 ## Relationships
-- **The Carver:** Direct operative; acted on the Carver's orders
-- **Sister Kaella:** Her silencing served Jax's (and the Carver's) interests — the timing of his arrival was not coincidental
-- **Vukradin:** Greeted him with implied false camaraderie; Vukradin ultimately paralyzed and contributed to his death
-- **Soma, Valphine, Brewbarry:** All dealt decisive damage during the ambush
+- **The Carver**: Direct superior; Jax served as the operational link between the Carver and field crews
+- **Sister Kaella**: A fellow agent — Jax showed no loyalty to her, treating her defeat as a useful distraction
+- **The surrendered bandit**: Reported directly to Jax
 
 ## Arc Score Events
-- No arc score events recorded for this NPC.
+- N/A

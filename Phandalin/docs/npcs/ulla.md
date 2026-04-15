@@ -1,31 +1,32 @@
 # Ulla
 
 ## Identity
-- **Role:** Guard, Gnomengarde
+- **Role:** Guard, cliff-top entrance to Gnomengarde
 - **Faction:** Gnomengarde
-- **First Appearance:** Party's arrival at Gnomengarde; she challenged them at the entrance and served as primary spokesperson for the guards.
+- **First Appearance:** Party's arrival at Gnomengarde's entrance, where she and Pog jointly challenged them for entry
 
 ## Personality & Motivations
-- Pragmatic and rule-conscious, but willing to interpret standing orders loosely when the situation warrants (allowed Brewbarry through on a technicality regarding Uthgardt barbarians).
-- Quick to deflect suspicion onto others — when accused of being a shapeshifter, she immediately redirected suspicion toward Pog without hesitation.
+- Suspicious and procedurally rigid — her default deflection to any argument is *"that's what a shapechanger would say,"* suggesting deep-seated paranoia about shapechangers (likely tied to broader Gnomengarde tensions).
+- More hardline than her partner Pog, but still operates within bureaucratic logic — she accepted the party's entry once a ruling about Brewbarry's Uthgardt status gave her a procedural out.
+- Capable of turning social pressure back on its source; when Valphine manipulated her into accusing Pog, she deflected the accusation back onto him rather than being left exposed.
 
 ## History with the Party
-- Challenged the party at the entrance to Gnomengarde, debating with Pog over whether to grant them access.
-- Permitted Brewbarry entry, citing lapsed or unclear standing orders regarding Uthgardt barbarians.
-- Directed Vukardin to the inventors' workshop via the northern hallway after he reported the spinning blade trap.
-- When Valphine accused her of being a shapeshifter, she pivoted immediately, pointing out that Pog had "looked a little different in recent days."
+1. Challenged the party at the cliff-top entrance alongside Pog, taking the harder line on admittance.
+2. Repeatedly dismissed the party's arguments with shapechanger paranoia until a bureaucratic ruling on Brewbarry's Uthgardt status provided grounds for entry.
+3. Directed Vukradin to the inventors' workshop; when he complained about the spinning blade trap, she disclosed an alternate northern route.
+4. Was manipulated by Valphine into accusing Pog of being the shapeshifter. Responded by turning the accusation back on Pog rather than conceding the point.
 
 ## Current Status
-- **Last Known Location:** Gnomengarde entrance/guard post.
-- **Active Plans:** None confirmed beyond guard duties.
-- **Known to Party:** Entrance guard and gatekeeper. Deflected shapeshifter accusation onto Pog.
-- **Hidden:** Whether her deflection of suspicion onto Pog was genuine concern, self-preservation, or something more sinister is unknown.
+- **Last Known Location:** Guard post at Gnomengarde's cliff-top entrance
+- **Active Situation:** Relationship with partner Pog is now strained — she has publicly accused him of being the shapeshifter (even if as a deflection). The tension between them may be ongoing.
+- **Party Knows:** She is susceptible to social manipulation but recovers quickly. She knows about the northern alternate route.
+- **Hidden from Party:** Her true beliefs about who the shapeshifter is (if any); the depth of her relationship/rivalry with Pog.
 
 ## Relationships
-- **Pog:** Contentious — debated him over entry, then pointed to him as a possible shapeshifter suspect.
-- **Brewbarry:** Allowed entry; relationship neutral to slightly accommodating.
-- **Vukardin:** Assisted by directing him to the inventors' workshop.
-- **Valphine:** Targeted by Valphine's shapeshifter accusation; responded defensively.
+- **Pog:** Partner guard at the entrance. Relationship now publicly strained after mutual shapeshifter accusations, partly engineered by the party.
+- **Brewbarry:** Ulla accepted Brewbarry's Uthgardt status as the bureaucratic basis for granting the party entry — she has at minimum acknowledged his standing.
+- **Valphine:** Successfully manipulated by Valphine, though Ulla rebounded. May or may not be aware she was played.
+- **Vukradin:** Gave him directions to the workshop and disclosed the northern route after he raised the trap complaint.
 
 ## Arc Score Events
-- None recorded.
+*(None recorded in source notes)*

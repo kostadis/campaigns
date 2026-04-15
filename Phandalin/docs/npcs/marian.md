@@ -1,28 +1,30 @@
 # Marian
 
 ## Identity
-- Role: Field agent, Emerald Enclave
-- First appearance: Stonehill Tavern, alongside fellow agent Thomas. The party encountered both while gathering information about Lyra.
+- Role / title: Emerald Enclave agent
+- First appearance: Stonehill Tavern; introduced alongside Thomas as the second named Enclave contact to meet with the party
 
 ## Personality & Motivations
-- Loyal to Lyra despite the outcome of the ritual, and inclined toward charitable interpretation of her leader's decisions.
-- More sympathetic and measured than Thomas in her account — she frames Lyra's actions as decisive leadership in the face of Enclave paralysis, not recklessness. "She's been right in the past. She wasn't this time."
+- Demonstrated a measured, sympathetic worldview — framed Lyra's controversial actions charitably, emphasizing earned trust and decisive leadership rather than recklessness
+- Perceptive and observant; noticed details about Valphine's behavior that the party apparently overlooked
+- Goals beyond her Enclave affiliation are unknown
 
 ## History with the Party
-- **Stonehill Tavern:** Marian provided the party with context on Lyra's mindset and the internal Emerald Enclave dispute — factions arguing over whether anything could or should be done, with Lyra breaking the deadlock by acting unilaterally. She explained that the agents trusted Lyra based on her track record, and that Lyra genuinely believed the gods and the forest would protect the ritual party.
-- Declined Vukradin's invitation to join the group and departed with Thomas.
+- Met the party at the Stonehill Tavern alongside fellow Enclave agent Thomas
+- Offered a sympathetic account of Lyra, describing her as a capable leader who acted on past success and self-trust when others in the Enclave were deadlocked — and simply "wasn't right this time"
+- Questioned Valphine about what she interpreted as a personal ritual of self-harm followed by healing magic; expressed visible surprise when Valphine seemed confused by the question
+- Declined to join the party and departed with Thomas
 
 ## Current Status
-- Last seen leaving Stonehill Tavern with Thomas.
-- No known active plans or operations.
-- **What the party knows:** She is a loyal Enclave agent who holds no apparent grudge over the ritual's failure and was willing to speak candidly about Lyra.
-- **What remains hidden:** Her intentions going forward, and whether she or Thomas will report the party's interest in Lyra to anyone.
+- Last known location: departing Stonehill Tavern with Thomas
+- Active plans: unknown
+- **Known to party:** Enclave affiliation, sympathetic stance toward Lyra, perceptive observer
+- **Hidden:** Her personal motivations, what she intends to do with her observation about Valphine, and whether she'll report it to anyone
 
 ## Relationships
-- **Lyra:** Direct subordinate; clearly loyal and still sympathetic despite the failed ritual.
-- **Thomas:** Fellow Enclave agent; departed together, suggesting an ongoing working relationship.
-- **Vukradin:** Declined his invitation to join the party, relationship otherwise neutral.
-- **Emerald Enclave:** Active member; aware of internal faction tensions over the ritual question.
+- **Thomas:** Fellow Enclave agent; departed together; exact dynamic between them not established
+- **Lyra:** Speaks of her with evident respect and loyalty despite acknowledging her mistake
+- **Valphine (party):** Noticed and questioned behavior that Valphine herself didn't recognize as unusual — nature of that interest is unresolved
 
 ## Arc Score Events
-- None recorded.
+- None recorded

@@ -1,27 +1,26 @@
 # Jarek
 
 ## Identity
-- Role: Groom to Elara
-- Faction: None noted
-- First appearance: Encountered alongside Elara in connection with an orc attack; met when the party heard their account of the incident
+- **Role:** Groom to Elara; traveling companion
+- **Faction:** None known
+- **First Appearance:** Encountered alongside Elara following an orc ambush on the road; introduced as her groom
 
 ## Personality & Motivations
-- A man of few words, practical and cautious by nature
-- His pre-attack warning to Elara about traveling with protection suggests he is observant and takes threats seriously
+- **Core Goals:** Unclear beyond his immediate role; appears protective of Elara and pragmatic about safety
+- Quiet and reserved during the encounter, but observant. Made a point of noting he had warned Elara to travel with protection — suggests a cautious, perhaps slightly self-vindicated temperament.
 
 ## History with the Party
-- Corroborated Elara's account of the orc attack, emphasizing the orcs' unusual coordination
-- Added a detail Elara did not mention: before the attack, he perceived a hum — not an audible sound, but a sensation in his head — which then abruptly disappeared
+- Met after the orc ambush. Contributed one key detail: before the attack, he experienced an internal **hum** — not heard, but felt inside his head — which then abruptly vanished. This stands out as potentially significant intelligence about a controlling or coordinating force behind the orcs.
+- Corroborated Elara's account of the orcs' unusual discipline and strange markings without elaborating further.
 
 ## Current Status
-- Last known location: safely returned to Phandalin with Elara
-- No known active plans or ongoing operations
-- **Party knows:** His warning before the attack and his account of the psychic/mental hum
-- **Hidden from party:** Nothing specifically noted, though the significance of the hum remains unexplained
+- **Last Known Location:** Returned safely to Phandalin with Elara.
+- **Active Plans:** None known.
+- **Known vs. Hidden:** The party knows only what he shared at the scene. His inner experience of the "hum" is the most notable detail — its origin and meaning remain unexplained.
 
 ## Relationships
-- **Elara:** His employer; he had warned her to travel with protection before the attack
-- **The Party:** Cooperative witness; no deeper relationship established
+- **Elara** — Her groom; travels with her; clearly familiar enough to have advised her on safety before the journey.
+- **The Party** — Brief, functional interaction; no individual bonds established.
 
 ## Arc Score Events
-- None recorded
+- None recorded.

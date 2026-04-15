@@ -1,34 +1,32 @@
 # Thomas
 
 ## Identity
-- **Role:** Emerald Enclave field agent
-- **Faction:** Emerald Enclave
-- **First Appearance:** Stonehill Tavern, Phandalin; joined the party at Vukradin's invitation after Lyra's departure
+- **Role:** Named agent of the Emerald Enclave; one of two agents accompanying Lyra
+- **First Appearance:** Stonehill Tavern, where he and Marian joined the party after Vukradin extended an invitation
 
 ## Personality & Motivations
-- Loyal to the Emerald Enclave above personal relationships—his oath is a hard limit on his actions.
-- Candid and measured; willing to speak plainly about Lyra's failures without apparent bitterness.
-- Motivated by institutional duty rather than personal ambition.
+- **Core goals:** Fulfilling his oath to the Emerald Enclave; handling Lyra's situation through proper organizational channels
+- Thomas is measured and dutiful, serving as the primary spokesperson for the group. He shows genuine emotional investment in the events — displaying distress when recounting the near-death experience and the ritual's failure. He is observant and direct, questioning Valphine openly about her background and visibly unsettled by her devotional practices.
 
 ## History with the Party
-- Met the party at the Stonehill Tavern after Lyra left Phandalin in anger.
-- Explained that Lyra's attachment to the Whispering Grove was personal, and that Enclave gridlock drove her to act unilaterally rather than escalate through proper channels.
-- Confirmed Lyra's motivations included a desire for promotion and recognition alongside genuine concern for the Grove.
-- Delivered a blunt assessment of Lyra's choices: *"She didn't do what was best for the Emerald Enclave; she did what was best for her."*
-- Warned Vukradin against speaking to Lyra's superiors on her behalf, calling it a bad idea.
-- Declined to join the party when asked, citing his oath. Departed with his partner Marian.
+- Met the party at the Stonehill Tavern after Vukradin invited Lyra's agents to sit with them.
+- Drank the beer provided by Spiderman and explained Lyra's situation: she had discovered the ritual independently, acted without bringing it to Enclave leadership, and was motivated by personal ambition and frustration with organizational inaction alongside genuine concern for the Whispering Grove. He confirmed a promotion was tied to the ritual's success.
+- Questioned Valphine about whether she was from the Underdark and expressed shock at her description of self-harm as devotion to Lathander.
+- Firmly advised Vukradin against speaking on Lyra's behalf to her superiors.
+- Declined Vukradin's invitation to join the party, citing his oath to the Emerald Enclave as binding.
+- Departed the Stonehill Tavern alongside Marian.
 
 ## Current Status
-- **Last Known Location:** Departed Phandalin with Marian following the Stonehill Tavern conversation.
-- **Active Plans:** Unknown; presumably continuing Emerald Enclave duties in the region.
-- **What the Party Knows:** He and Marian remained in Phandalin after Lyra left; they are oath-bound and will not act against Enclave interests.
-- **What Remains Hidden:** His specific ongoing mission, and what (if anything) he intends to report to superiors about Lyra or the party.
+- **Last known location:** Departing the Stonehill Tavern with Marian
+- **Active plans:** Returning to Emerald Enclave business; likely reporting on or managing the fallout from Lyra's failed ritual
+- **What the party knows:** That Thomas is a loyal, oath-bound agent who will not advocate for Vukradin interceding with Lyra's superiors
+- **What remains hidden:** His personal opinion of Lyra's choices; what specific actions the Enclave plans to take regarding her
 
 ## Relationships
-- **Lyra:** Fellow agent; views her actions critically but without apparent malice.
-- **Marian:** Partner; the two departed together and appear to be operating as a unit.
-- **Vukradin:** Engaged respectfully; rebuffed his offer to advocate for Lyra and his invitation to join the party.
-- **Emerald Enclave:** Primary loyalty; his oath is the stated reason for refusing the party's request.
+- **Marian:** Fellow Emerald Enclave agent; departed together; close enough to act as a unit
+- **Lyra:** Superior or colleague whose situation he was dispatched to manage; recounted her failures with evident emotional weight
+- **Vukradin:** Received his invitation cordially but rebuffed his offers of advocacy and recruitment
+- **Valphine:** Openly questioned her origins and reacted with visible shock to her religious practices
 
 ## Arc Score Events
-- No arc score events recorded.
+- None recorded.

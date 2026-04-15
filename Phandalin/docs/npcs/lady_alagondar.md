@@ -1,29 +1,28 @@
 # Lady Alagondar
 
 ## Identity
-- **Role/Title:** Historical figure; presumed dragon slayer
-- **Faction:** Unknown; likely predates current factions
-- **First Appearance:** Her presence was established when her horse Boney (raised as an undead mount) was encountered by the party; her ghost manifested directly after the party claimed the Dragon Slayer Sword in the northern chamber of Dragonbarrow
+- Role: Deceased noble; original owner of the Dragon Slayer Sword
+- Faction: Unknown
+- Does not appear in person; known entirely through Boney's recollections and the physical arrangement of the Dragonbarrow
 
 ## Personality & Motivations
-- Core motivation appears tied to the White Dragon of the Ice Spire Mountains — her final act as a ghost was to stare toward those peaks with hollow, mournful eyes
-- In death she is sorrowful and silent, communicating only through presence and gaze. Whether she is warning the party, pleading for action, or lamenting a past failure remains unclear.
+- Her core goals and drives are unknown beyond having undertaken some important quest for which she required a revived companion.
+- Her character is inferred only through Boney's loyalty and the care with which her burial arrangement was constructed.
 
 ## History with the Party
-- The party encountered Boney, Lady Alagondar's horse, which had been left to guard her sword. Boney believed she was buried "across the way" — which led the party to the northern chamber of Dragonbarrow.
-- Her remains were found near dragon bones alongside the Dragon Slayer Sword.
-- After the party defeated the invisible stalker and claimed the sword, her ghost materialized — silent and sorrowful — stared toward the Ice Spire Mountains, and faded away.
+- Lady Alagondar never interacted with the party directly.
+- Boney revealed that she was his original master, and that he was brought back from the dead specifically to aid her on an important quest.
+- Boney believed he had been left in the Dragonbarrow to guard something on her behalf after her death.
+- The party discovered the Dragon Slayer Sword resting atop a dragon's skull in the northern chamber of the Dragonbarrow, consistent with Boney's account of its placement "across the way" from her resting chamber.
 
 ## Current Status
-- **Last Known Location:** Northern chamber of Dragonbarrow (as a fading apparition)
-- **Active Plans:** Unknown; her ghost has not reappeared
-- **What the Party Knows:** She was a historical figure connected to dragon slaying; her ghost pointed toward the White Dragon's home before vanishing
-- **What Remains Hidden:** The full story of her death, her past conflict with the White Dragon, and whether her spirit can or will appear again
+- Last known location: Entombed in a chamber within the Dragonbarrow
+- No active plans; deceased
+- **Party knows:** She was a noble, owned the Dragon Slayer Sword, was buried in the Dragonbarrow, and inspired deep loyalty in Boney
+- **Hidden:** The nature of her quest, why the sword was buried separately, and what (if anything) Boney was guarding
 
 ## Relationships
-- **Boney (her horse):** Loyal beyond death; was left specifically to guard her sword
-- **The White Dragon (Ice Spire Mountains):** Implied significant history — her dying gaze was directed there, suggesting unfinished business or a prior defeat
-- **The Party:** She has not communicated directly, but her apparition appears to be a warning or plea connected to the dragon
+- **Boney:** Her revived companion and loyal servant; his entire identity is oriented around service to her
 
 ## Arc Score Events
-- No arc score events recorded.
+- N/A

@@ -1,26 +1,27 @@
 # Malfire
 
 ## Identity
-- Role / Title: Hero of the War of the Dragons (historical figure)
-- Faction Affiliation: Unknown; acted as a liaison to the Emerald Enclave
-- First Appearance: Referenced in session by Lyra; not present
+- Role / title / faction affiliation: Unknown — historical figure associated with the War of the Dragons; no current role, title, or faction affiliation established
+- First appearance: Referenced by Lyra (not met in person); no direct party interaction
 
 ## Personality & Motivations
-- No direct interactions recorded. Known only through Lyra's account as someone capable of persuading a significant faction leader to enter a major conflict.
+- No personality details established in play. Known only through reputation as a persuasive figure capable of shifting the politics of a major faction.
 
 ## History with the Party
-- **Pre-Campaign History:** Malfire convinced Delaan Winterhound to bring the Emerald Enclave into the War of the Dragons against Severin and Tiamat. This is the sole recorded action attributed to them.
-- The party has not met Malfire.
+- **Referenced by Lyra:** Malfire was named as the figure who persuaded Delaan Winterhound — and through him, the Emerald Enclave — to abandon neutrality and join the coalition opposing Tiamat's summoning during the War of the Dragons.
+- Credited by **interventionists** as instrumental in saving the world.
+- Blamed by **naturalists** as the catalyst whose influence drew the Enclave into a war that triggered the War of the Giants and the shattering of the Ordning.
 
 ## Current Status
-- Last known status: Unknown. Referenced as a historical figure only.
-- No active plans or operations recorded.
-- **What the party knows:** Name and role in the War of the Dragons, as told by Lyra.
-- **What remains hidden:** Everything else — current whereabouts, faction loyalty, whether still living.
+- Last known location / status: Unknown. No information established.
+- Active plans: Unknown.
+- **What the party knows:** Name and historical reputation only, as conveyed by Lyra.
+- **What remains hidden:** Identity, race, class, current whereabouts, whether Malfire is still alive, and their true relationship to the Enclave.
 
 ## Relationships
-- **Delaan Winterhound:** Persuaded him to ally the Emerald Enclave against Tiamat and Severin.
-- **Lyra:** Source of the reference; nature of their relationship unknown.
+- **Delaan Winterhound:** Persuaded him during the War of the Dragons; nature of the relationship (personal, political, magical) unspecified.
+- **The Emerald Enclave:** Indirectly responsible for pulling the faction into the coalition — a legacy that remains politically divisive within the Enclave.
+- **The Party:** No direct relationship established.
 
 ## Arc Score Events
-- None recorded.
+- No arc score events recorded.

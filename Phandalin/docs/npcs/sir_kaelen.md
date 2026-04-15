@@ -1,25 +1,26 @@
 # Sir Kaelen
 
 ## Identity
-- **Role/Title:** Sir Kaelen (knighted, exact faction affiliation unspecified)
-- **First Appearance:** Met the party upon their return to Phandalin; spoke to them briefly about an outstanding obligation involving a statue
+- Role / title: Sir (knightly title implied)
+- Faction affiliation: Unknown
+- First appearance: Phandalin; approached the party before their departure
 
 ## Personality & Motivations
-- Appears focused on duty and follow-through, as evidenced by his reminder about the statue upon the party's return.
-- Willing to be persuaded or deprioritized, though whether he accepts the delay gracefully or harbors frustration is not yet established.
+- Motivated by ensuring the party fulfills outstanding obligations, specifically the return of a statue.
+- Appears reasonable and open to persuasion — accepted Brewbarry's explanation and stood down rather than pressing the issue.
 
 ## History with the Party
-- **[Return to Phandalin]:** Approached the party upon their return and pressed them about returning a statue. Brewbarry persuaded him that the gold mine was a higher priority, using his desire to fund a music studio as justification. Sir Kaelen accepted (or at least did not block) this reasoning, and the matter was tabled.
+- Spoke briefly with the party in Phandalin prior to their departure. Reminded them of an unfulfilled obligation: the return of a statue. Brewbarry persuaded him that the gold mine delivery was a higher priority, citing a personal need for money to fund a music studio. Sir Kaelen accepted this reasoning and did not press further.
 
 ## Current Status
-- **Last Known Location:** Phandalin
-- **Active Concerns:** Still waiting on the return of the statue; matter remains unresolved
-- **What the party knows:** He wants the statue back and knows the party has not yet retrieved/returned it
-- **What remains hidden:** His reasons for wanting the statue, who it belongs to, and consequences of continued delay
+- **Last known location:** Phandalin
+- **Active plans:** Awaiting the party's return and fulfillment of the statue obligation
+- **Known to party:** He expects the statue to be returned. He accepted their delay but the obligation remains open.
+- **Hidden from party:** His motivations for wanting the statue returned, who it belongs to, and what consequences may follow if the obligation is not met.
 
 ## Relationships
-- **The Party (general):** Creditor-style dynamic; he holds an open obligation over them
-- **Brewbarry:** Persuaded Sir Kaelen to deprioritize the statue in favor of the gold mine
+- **The Party:** Creditor of an outstanding obligation; tolerant but expectant
+- **Brewbarry:** Responded positively to his persuasion; may view him as the party's spokesperson
 
 ## Arc Score Events
-- No arc score changes recorded.
+- No arc score events recorded.

@@ -1,29 +1,25 @@
 # Norbus Ironrune
 
 ## Identity
-- **Role:** Shield dwarf prospector and business partner to Dazlyn Grayshard
-- **Faction:** Independent; operates alongside Dazlyn as a prospecting duo
-- **First Appearance:** Introduced at the excavation site alongside Dazlyn; corroborated the offer of sending stones as payment for the party clearing deeper danger within the temple
+- **Role:** Shield dwarf merchant/explorer; business partner to Dazlyn Grayshard
+- **First Appearance:** 9/1 Taraksh — canyon ruins southwest of Phandalin; introduced alongside Dazlyn when the pair hired the party to clear the temple interior
 
 ## Personality & Motivations
-- **Goals:** Profitable prospecting and excavation; securing the temple site from threats
-- Straightforward and businesslike, but warm enough to celebrate victories with a shared meal. He values loyalty to his partner and holds a clear animosity toward orcs. Appreciates music and entertainment, though his tastes run toward crowd-pleasing popular material over original compositions.
+- Motivated by profit from the ruins, but willing to affirm ethical commitments to secure cooperation.
+- Demonstrated pragmatism and social awareness — he directly addressed Vukardin's moral objection about recovered items, giving the assurance needed to close the deal. Showed visible disappointment when the party seemed ready to leave after delivering the dragon warning, suggesting he is invested in keeping the party engaged.
 
 ## History with the Party
-- Met the party at the excavation site alongside Dazlyn; together they offered sending stones as payment for clearing the temple's deeper threat
-- When Vukardin challenged him on whether recovered finds would be returned to rightful owners, Norbus gave assurances they would
-- After the party killed the orcs, Norbus and Dazlyn were visibly pleased and cooked a celebratory meal for the group
-- Listened to Vukardin's original musical compositions and enjoyed them, though expressed a preference for more popular material
+- **9/1 Taraksh:** Met the party at the canyon ruins alongside Dazlyn. Offered sending stones as payment for clearing the temple interior. When Vukardin challenged whether found items would be returned to rightful owners, Norbus confirmed they would, resolving the bard's objection and securing his agreement to the contract. Reacted with visible disappointment when Vukardin initially attempted to depart after delivering a dragon warning rather than proceeding with the job.
 
 ## Current Status
-- **Last Known Location:** The excavation site / temple
-- **Active Plans:** Continuing prospecting and excavation now that the orc threat has been cleared
-- **Known to Party:** Friendly, contractually obligated via sending stones payment, pro-party
-- **Hidden from Party:** No information in notes suggests concealed agendas, though his assurances about returning finds to rightful owners have not been tested
+- **Last Known Location:** The dwarven ruins in the canyon southwest of Phandalin.
+- **Active:** Presumably awaiting the party's completion of the temple interior clearing.
+- **What the party knows:** He is Dazlyn's partner, co-authorized the sending stone payment offer, and pledged that recovered items would be returned to their rightful owners.
+- **What remains hidden:** His personal stake in the ruins beyond business; whether he intends to honor the pledge about recovered items.
 
 ## Relationships
-- **Dazlyn Grayshard:** Close business partner and fellow prospector; the two operate as a unit and share reactions (both visibly pleased at the orcs' deaths, both cooked the celebratory meal)
-- **Vukardin (party):** Mild point of friction over the question of rightful ownership of finds; also the recipient of his music critique — polite but honest
+- **Dazlyn Grayshard** — Shield dwarf business partner; the two appear to operate as equals on this venture.
+- **Vukardin (party)** — Norbus singled him out to address his ethical concern, earning the bard's cooperation; Norbus clearly values keeping the party on the job.
 
 ## Arc Score Events
-- No arc score events recorded in source notes
+- No arc score events recorded.

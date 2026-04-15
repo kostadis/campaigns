@@ -2,23 +2,22 @@
 
 ## Identity
 - **Role:** Cook at the Wayside Inn
-- **First Appearance:** The party visited the Wayside Inn; Cooragh was present as the establishment's cook.
+- **First Appearance:** The party visited the Wayside Inn; Cooragh was encountered through her cooking rather than direct conversation.
 
 ## Personality & Motivations
-- Known for producing notably tasty and heavily spiced food — her stews and meat pies have a strong reputation.
-- No deeper motivations or personality traits recorded beyond her craft.
+- No direct interaction recorded. Known only through the quality of her work — notably tasty, well-spiced stews and meat pies.
 
 ## History with the Party
-- The party visited the Wayside Inn and sampled Cooragh's cooking. Valphine noted that the food did not disappoint.
+- The party dined at the Wayside Inn. Cooragh's food made a strong positive impression, particularly on **Valphine**. No direct conversation or interaction has taken place.
 
 ## Current Status
-- **Last Known Location:** The Wayside Inn, working as cook.
-- **Active Plans:** None recorded.
-- **Party Knowledge:** The party knows her as the inn's cook and has eaten her food. Nothing further is known.
+- **Last Known Location:** The Wayside Inn kitchen.
+- No known plans or active involvement with party affairs.
+- **Party knows:** She is the cook; her food is excellent and notably well-spiced.
+- **Hidden:** Everything else — background, motivations, deeper role (if any).
 
 ## Relationships
-- Employed at (or associated with) the Wayside Inn.
-- No other NPC or faction relationships recorded.
+- No recorded relationships with other NPCs or individual party members beyond Valphine's appreciation of her cooking.
 
 ## Arc Score Events
 - None recorded.

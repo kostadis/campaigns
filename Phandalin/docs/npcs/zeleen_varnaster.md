@@ -1,60 +1,38 @@
 # Zeleen Varnaster
 
 ## Identity
-- **Role:** Leader of the Whiskered Gang, a wererat organization
-- **Faction:** The Whiskered Gang (currently occupying Mountain's Toe Gold Mine)
-- **First Appearance:** The party encountered Zeleen at Mountain's Toe Gold Mine, where the wererats had taken up residence after being displaced from the Shrine of Savras by orcs and ogres
-
-> **Note for GM:** Source notes use both she/her and he/him pronouns inconsistently. Clarify before next session.
-
----
+- **Role:** Leader of the Whiskered Gang, a wererat crew operating in Mountain's Toe Gold Mine
+- **Faction:** The Whiskered Gang (formerly based at the Shrine of Savras)
+- **First Appearance:** Encountered deep within the Mountain's Toe Gold Mine when the party moved to clear it
 
 ## Personality & Motivations
-- **Core Goals:** Securing a permanent, safe home for the Whiskered Gang; avoiding personal risk; acquiring cheese from Butterskull Ranch's special cow (Petunia)
-- **Personality:** Zeleen has a distinct gangster affect and clearly prefers operating as muscle over performing hard labor. Shrewd and self-interested, willing to accept a good deal when cornered but likely to push for more when given room. Has a sharp sense of humor — when Vukradin attempted to deceive Zeleen about polymorphing dragons, Zeleen saw through it entirely and laughed it off, which actually improved relations.
-- Valphine's initial read was that Zeleen was lying about intentions and might attempt to keep the mine regardless of any agreement. Whether that instinct remains relevant depends on how the current arrangement holds.
-
----
+- **Core Goals:** Security and comfort for his people — shelter, food, and a role as muscle rather than laborers; never truly wanted to mine
+- **Traits:** Operates with a gangster demeanor: transactional, proud, and easily offended by perceived slights. Responds well to shows of strength and straight dealing. Capable of genuine warmth when treated with respect — saw through Vukradin's dragon deception and treated it as a good joke rather than an insult, which actually warmed the relationship.
 
 ## History with the Party
 
-**First Contact — Initial Negotiation**
-Zeleen explained the Whiskered Gang's displacement from the Shrine of Savras and proposed a trade: the party clears the shrine of orcs and ogres, and the wererats vacate the mine. When pressed for help, Zeleen refused on grounds of personal value and offered only two warriors. Reacted with hostility toward Valphine (drow), and was offended by Valphine's cheese-for-labor suggestion — though admitted genuine interest in cheese from Butterskull Ranch's special cow. Ultimately accepted a modified deal: wererats work the mine and live in part of it in exchange for regular cheese shipments.
-
-**After the Orc/Ogre Standoff**
-When the party cleared the attackers threatening the mine, Zeleen expressed relief at their arrival. However, Zeleen's account of Don-Jon Raskin's death by carrion crawler immediately raised suspicions. When directly accused, Zeleen admitted Don-Jon had been "conveniently lured to his death," stating "kill is such a strong word." The party negotiated Don-Jon's share of the mine as compensation for dealing with the carrion crawler. Subsequent investigation by Valphine revealed Don-Jon had actually died in combat — the carrion crawler only fed on the corpse afterward — with dwarf footprints suggesting the dwarves, not Zeleen, were the true killers.
-
-**Mine Arrangement Finalized**
-The party proposed a division of labor: wererats provide protection and security while dwarves handle the actual mining. Zeleen initially demanded 1,000 gold upfront for six months of protection. Brewbarry countered by highlighting how much the wererats were already receiving — shelter, cheese, protection — while brandishing a still-bloodied axe. Impressed by the argument and the implied threat, Zeleen agreed to protect the mine for free, framing it as defending home and family. Shared a piece of Petunia's cheese with Vukradin as a goodwill gesture. Finalized the agreement with a handshake with Horia Stonetallow.
-
----
+1. **Initial Contact:** Zeleen explained the Whiskered Gang had been displaced from the Shrine of Savras by roughly sixteen orcs and several ogres (including members of a tribe the party had previously angered). She proposed a deal: party clears the shrine, wererats vacate the mine. She offered only two warriors to assist, claiming she was too valuable to risk.
+2. **The Cheese Negotiation:** Valphine attempted a cheese-for-labor deal, which Zeleen found stereotypical and offensive — but ultimately admitted genuine interest in cheese from the special cow at Butterskull Ranch. **Valphine sensed Zeleen was lying and likely intended to keep the mine regardless of any deal.**
+3. **Don-Jon Raskin's Death:** When questioned about the death of Don-Jon Raskin, Zeleen gave a semi-confession — "kill is such a strong word" — and admitted Don-Jon had been "conveniently lured to his death." He did not fully confess. He agreed to give the party Don-Jon's share of the mine in exchange for handling the carrion crawler problem. *Note: Valphine's investigation of the death scene found dwarf footprints leading away from the body, complicating actual culpability.*
+4. **Final Agreement:** Brewbarry countered Zeleen's demand for 1,000 gp upfront by pointing out the wererats were already receiving shelter, cheese, and protection — with a blood-stained axe making the subtext clear. Zeleen agreed to protect the mine for free, reframing it as protecting his home and family. He shook hands with Horia to seal the deal.
+5. **Parting Intelligence:** Warned the party that orcs, ogres, and a dragon are still active in the area. Suggested the Shrine of Savras as a source of information on the dragon. Noted the dragon's agricultural raids are so severe there will be no beer brewed this year.
 
 ## Current Status
-- **Last Known Location:** Mountain's Toe Gold Mine
-- **Active Role:** Providing security and protection for the mine under the negotiated arrangement; dwarves handle mining, wererats handle muscle
-- **Outstanding Condition:** The compromise was noted as contingent on the wererats apologizing for killing dwarves in earlier conflicts — unclear if this was formally resolved
-
-**What the Party Knows:**
-- Zeleen orchestrated Don-Jon Raskin's death by luring him to a carrion crawler, though evidence suggests dwarves may have actually struck the killing blow
-- Zeleen warned the party that orcs, ogres, and a dragon are still causing regional chaos; farming has been so disrupted there will be no beer brewed this year
-- Zeleen suggested the Shrine of Savras as a source of information on the dragon
-
-**What Remains Hidden:**
-- Valphine's early read was that Zeleen intended to keep the mine regardless of any deal — whether that ambition has been genuinely set aside or merely tabled is unknown
-- Full truth of Don-Jon's death and the extent of Zeleen's involvement remains murky
-
----
+- **Location:** Mountain's Toe Gold Mine — now its de facto protector
+- **Active Arrangement:** Wererats provide security and menial labor; dwarves handle mining; Whiskered Gang receives regular cheese shipments from Butterskull Ranch and shelter in their section of the mine. Arrangement is contingent on the wererats apologizing for killing dwarves in earlier conflicts.
+- **What the Party Knows:** Zeleen is bound by a handshake agreement with Horia and appears genuinely invested in the arrangement
+- **What Remains Hidden:** Valphine's read suggests Zeleen's original intentions were to keep the mine regardless of any deal — whether that ambition is truly set aside is unconfirmed
 
 ## Relationships
-- **The Whiskered Gang:** Leader; protective of the gang's survival and stability, frames decisions in terms of defending "home and family"
-- **Horia Stonetallow:** Shook hands to finalize the mine agreement — functional working relationship
-- **Brewbarry:** Responded with genuine respect after Brewbarry's blunt, axe-backed negotiation; Zeleen values displays of credible strength
-- **Vukradin:** Positive rapport; shared cheese as a goodwill gesture; laughed off Vukradin's dragon deception attempt rather than taking offense
-- **Valphine:** Initial hostility due to Valphine being a drow; considered the cheese negotiation offer stereotypical and offensive. Relationship is functional but strained
-- **Don-Jon Raskin (deceased):** Zeleen arranged his luring to death, though may not have been the direct killer
-- **The Dwarves (mine workers):** Uneasy coexistence; wererats previously killed dwarves, and an apology may have been required as part of the current arrangement
-
----
+- **The Whiskered Gang:** Their leader and protector; deeply motivated by keeping his people safe and comfortable
+- **Horia:** Sealed the mine agreement with a handshake; primary point of formal agreement
+- **Brewbarry:** Earned Zeleen's respect through blunt intimidation and sound argument
+- **Vukradin:** Offered a piece of Petunia's cheese as a goodwill gesture; their rapport was strengthened when Zeleen saw through Vukradin's dragon bluff and laughed it off
+- **Valphine:** Tense history — the cheese negotiation caused offense; Valphine privately believes Zeleen cannot be fully trusted
+- **Orcs/Ogres/Dragon:** Active threats Zeleen is aware of and concerned about; his former home (Shrine of Savras) is currently occupied by these forces
 
 ## Arc Score Events
-- *(No arc score mechanics referenced in source notes)*
+- **Positive:** Brewbarry's combination of reasoned argument and implied threat impressed Zeleen enough to drop his 1,000 gp demand entirely ↑
+- **Positive:** Vukradin's failed deception rolling handled gracefully — Zeleen's natural 20 saw through it, but he treated it as a joke, strengthening the relationship ↑
+- **Negative:** Valphine's cheese-for-labor offer caused genuine offense ↓
+- **Latent Risk:** Valphine's Insight suggests Zeleen's stated intentions may not reflect his actual plans — trust is conditional

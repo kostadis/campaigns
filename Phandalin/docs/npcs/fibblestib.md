@@ -1,31 +1,33 @@
 # Fibblestib
 
 ## Identity
-- **Role:** Inventor, Gnomengarde
-- **Faction:** Gnomengarde
-- **First Appearance:** Met at Gnomengarde when the party arrived to investigate the missing gnomes and King Korboz's madness.
+- **Role:** Chief inventor, Gnomengarde laboratory
+- **Faction:** Gnomengarde (royal court/inventors' guild)
+- **First Appearance:** Party arrived at Gnomengarde seeking a device to combat the dragon; Fibblestib and Dabbledob were found working together in the laboratory.
 
 ## Personality & Motivations
-- **Core Goal:** Develop a "sanity ray" to cure King Korboz's madness and resolve the crisis through gnomish invention.
-- Fiercely competitive with his colleague Dabbledob, dismissive of non-gnomish solutions, and proud of his own designs to the point of boastfulness. He is practical in an eccentric way — willing to acknowledge partial value in unexpected approaches (music) while remaining ideologically committed to invention as the only true solution.
+- **Core Goals:** Cure King Korboz's madness via his "sanity ray" invention; prove his designs superior to Dabbledob's at every opportunity.
+- Dismissive of outside priorities — he redirected the party's dragon-related request toward what he considers the more pressing crisis: the king's breakdown.
+- Competitive and prideful, taking personal credit for the rotating blade trap and citing the party's survival as evidence of its quality.
+- Maintains a loud, contentious dynamic with Dabbledob, though the two continue working side by side.
 
 ## History with the Party
-- Briefed the party on the disappearances of gnomes Warren and Orrin, and relayed King Korboz's claim that a shapechanger was responsible.
-- Argued with Dabbledob over his sanity ray versus her straitjacket approach; dismissed the party's offer of clerical healing as irrelevant to gnomes.
-- Conceded that music had shown some effect on the king when Vukardin proposed using it.
-- Laughed with pride when Vukardin described surviving the rotating blade trap, claiming it as his own invention and using it to score points against Dabbledob.
+1. **First meeting:** Dismissed the party's request for an anti-dragon device, refocusing the conversation on King Korboz's madness.
+2. **Debriefed the party** on the situation: two gnomes (Warren and Orrin) are missing; King Korboz claims a shapechanger is responsible. Invited the party to offer fresh perspective.
+3. **Acknowledged Vukradin's suggestion** that music may help treat the king — one of the few moments he engaged constructively with the party.
+4. **Claimed credit for the rotating blade trap** and laughed at Vukradin's complaint about it, framing the party's survival as validation of his work over Dabbledob's designs.
 
 ## Current Status
-- **Last Known Location:** Gnomengarde.
-- **Active Plans:** Continuing development of the sanity ray to cure King Korboz.
-- **Party Knows:** His rivalry with Dabbledob, his invention-first philosophy, and his role as a key information source on the shapechanger and missing gnomes.
-- **Hidden:** Current progress or viability of the sanity ray; his actual relationship with Dabbledob beyond professional rivalry.
+- **Last Known Location:** Inventors' laboratory, Gnomengarde.
+- **Active Projects:** Developing the "sanity ray" to cure King Korboz; ongoing design rivalry with Dabbledob (currently competing against a proposed straitjacket solution).
+- **What the Party Knows:** He is working on the sanity ray, is aware of the missing gnomes and shapechanger rumor, and is openly competitive with Dabbledob.
+- **Hidden from the Party:** Nothing explicitly concealed in current notes.
 
 ## Relationships
-- **Dabbledob:** Rival inventor; ongoing dispute over the correct approach to curing the king. Competitive but presumably collaborative in a broader sense.
-- **King Korboz:** Subject of his current research; motivated to cure him.
-- **Vukardin (party):** Warmed to him after the blade trap anecdote; showed mild openness to the music suggestion.
-- **Party (general):** Initially dismissive; tolerates them as useful agents but does not see them as integral to the solution.
+- **Dabbledob:** Co-inventor and constant rival. Their working relationship is defined by loud arguments and competing design philosophies (sanity ray vs. straitjacket).
+- **King Korboz:** The subject of his current research; Fibblestib sees curing the king as his most important task.
+- **Vukradin (party):** Engaged more openly with Vukradin than expected on the music-as-treatment idea; mocked him over the blade trap but without apparent hostility.
+- **Warren & Orrin (missing gnomes):** Aware of their disappearance; briefed the party as potential outside observers.
 
 ## Arc Score Events
-- No arc score events recorded.
+- No arc score changes recorded in current notes.

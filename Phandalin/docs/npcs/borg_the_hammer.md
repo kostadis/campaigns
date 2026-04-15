@@ -1,32 +1,32 @@
 # Borg the Hammer
 
 ## Identity
-- **Role:** Half-orc enforcer working for the Carver
-- **Affiliation:** The Carver's organization; coordinated with Rot-Tusk Ogres
-- **First Appearance:** Led the ambush at Butterskull Ranch, accompanied by three Rot-Tusk Ogres bearing a tribal insignia the party had previously encountered
+- **Role:** Half-orc enforcer for the Carver
+- **Faction:** The Carver's organization (name unknown); commands Rot-Tusk Ogres
+- **First Appearance:** Butterskull Ranch ambush. Identified by Skippy as the leader of a pre-planned trap set for adventurers.
 
 ## Personality & Motivations
-- **Core Drive:** Enforcer loyalty to the Carver; motivated by violence and the satisfaction of a successful kill
-- Demonstrated impulsive, rage-driven behavior when his plans failed—executing a subordinate on the spot and burning the farm out of spite rather than strategy. His destruction at Butterskull Ranch was described as wanton and gratuitous, not tactical.
+- **Core Goal:** Execute the Carver's operations — in this case, lure and kill adventurers at Butterskull Ranch.
+- Demonstrated capacity for cold-blooded pragmatism: executed a bandit the moment he became useless as an informant.
+- Prone to violent rage when denied his objectives — ordered the burning of the entire ranch out of frustration.
+- Shows tactical awareness despite his brutality; split his forces deliberately to complicate pursuit.
 
 ## History with the Party
-1. **Butterskull Ranch Ambush:** Borg captured Big Al Kalazorn and held him as bait to lure the party into a trap.
-2. **Trap Bypassed:** The party freed Big Al without direct confrontation, causing Borg's ambush to fail entirely.
-3. **Aftermath:** Enraged, Borg executed the fleeing fourth bandit from Conyberry for incompetence, then set fire to the farmhouse, cornfields, and gardens.
-4. **Force Split:** Borg sent the three Rot-Tusk Ogres in one direction and departed separately. The party chose to follow Borg.
-5. **Death:** Borg was killed by the party (or Valphine). His severed head was later presented by Valphine to Sister Kayla as proof of kill. Locutus falsely claimed credit before being cut down by Kayla.
+1. **Butterskull Ranch Ambush (Session ~?):** Borg seized the ranch after killing orc raiders, kept Big Al Kalazorn alive as bait. The party bypassed the trap entirely and rescued Big Al without triggering the confrontation.
+2. **Post-Rescue:** Emerged from the farmhouse to interrogate an escaped bandit. Extracted nothing useful and executed him. Ordered and participated in burning the farmhouse, cornfields, and gardens.
+3. **Departure:** Split his forces — three Rot-Tusk Ogres sent one direction, Borg departed separately. The party chose to shadow Borg, believing he leads to the Carver's operation.
 
 ## Current Status
-- **Status: Deceased.**
-- His severed head was used as a trophy/proof of kill in dealings with Sister Kayla.
+- **Last Known:** Moving away from the burning ruins of Butterskull Ranch, actively being tracked by the party.
+- **Active Plans:** Unknown. Likely reporting back to the Carver or proceeding to another objective.
+- **What the Party Knows:** He is the Carver's enforcer; he commands Rot-Tusk Ogres; he is tactically aware and dangerous.
+- **What Remains Hidden:** His destination; the nature of the Carver's broader operation; what he will report about the ranch's failure.
 
 ## Relationships
-- **The Carver:** Direct employer; Borg served as a field enforcer
-- **Rot-Tusk Ogres:** Commanded three during the Butterskull Ranch operation; split from them after the ambush failed
-- **Big Al Kalazorn:** Held captive as bait; freed by the party before Borg could use him
-- **Sister Kayla:** Received Borg's severed head as proof of kill—implies some relationship or contract between Kayla and efforts to eliminate Borg, or at minimum that Kayla had interest in his death
-- **Valphine:** Delivered Borg's head to Kayla
-- **Locutus:** Falsely claimed credit for the kill to Kayla; was cut down for it
+- **The Carver:** Direct superior. Borg operates as field commander on the Carver's behalf.
+- **Rot-Tusk Ogres:** Commands them as muscle; split them off from himself after the ranch burned.
+- **Big Al Kalazorn:** Used him as bait; relationship ends there — Big Al was a tool, not a target.
+- **The Party:** Has not directly confronted them. Does not know who foiled his ambush.
 
 ## Arc Score Events
-- No arc score events recorded for this NPC.
+- No arc score events recorded.
