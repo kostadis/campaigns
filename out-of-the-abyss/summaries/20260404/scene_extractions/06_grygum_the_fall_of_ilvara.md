@@ -1,0 +1,8 @@
+Grygum: "Does anybody need any serious healing?"
+Daz: "I've got 18 hit points left of 44. I think I can take one more round of hits."
+GM: "She is particularly vulnerable to radiant damage, so that actually causes her to die. She explodes in a puff of poisonous spores."
+Grygum: "Not ideal. How big is the cloud?"
+Grygum: "I'm glad I was standing back."
+Warrior: "We will meet again. Enjoy your victory for the moment."
+Asha: "The evil! The undead!"
+Thorin: "Nobody knows what the hell's going on."

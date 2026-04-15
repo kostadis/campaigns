@@ -1,0 +1,95 @@
+campaign_dir: /home/kroussos/campaigns/out-of-the-abyss
+campaign_state_run: true
+cg_docs_dir: /home/kroussos/campaigns/out-of-the-abyss/docs
+cs_chunk_size: 60000
+cs_extract_dir: docs/campaign_state_extracts
+cs_input: ''
+cs_output: /home/kroussos/campaigns/out-of-the-abyss/docs/campaign_state.md
+cs_synth_only: false
+cs_track_file: /home/kroussos/campaigns/out-of-the-abyss/docs/tracking.txt
+cs_track_inline: ''
+distill_chunk_size: 60000
+distill_extract_dir: ''
+distill_input: docs/The Underdark.md
+distill_output: /home/kroussos/campaigns/out-of-the-abyss/docs/world_state.md
+distill_run: true
+distill_synth_only: false
+dnd_output: ''
+dnd_output_dir: docs
+dnd_pdfs: '/home/kroussos/campaigns/out-of-the-abyss/kostadis1_135431004 (1).pdf
+
+  /home/kroussos/campaigns/out-of-the-abyss/kostadis1_135430973 (2).pdf
+
+  /home/kroussos/campaigns/out-of-the-abyss/kostadis1_135431043 (1).pdf
+
+  /home/kroussos/campaigns/out-of-the-abyss/kostadis1_135430963 (2).pdf'
+dnd_sheet_run: true
+global_model: claude-opus-4-6
+make_tracking_run: true
+mt_input: docs/Out of the Abyss.md
+mt_output: /home/kroussos/campaigns/out-of-the-abyss/docs/tracking.txt
+narr_party: /home/kroussos/campaigns/out-of-the-abyss/docs/party.md
+npc_config: /home/kroussos/campaigns/out-of-the-abyss/config/config.yaml
+party_arc_scores: ''
+party_backstory: "docs/grygum_backstory.md\ndocs/zalthir_backstory.md \ndocs/daz_backstory.md\n\
+  docs/thorin_backstory.md"
+party_chars: "docs/grygum.md \ndocs/zalthir.md \ndocs/thorin.md\ndocs/daz.md"
+party_chunk_size: 60000
+party_context: ''
+party_extract_dir: docs/party_extract
+party_output: /home/kroussos/campaigns/out-of-the-abyss/docs/party.md
+party_run: true
+party_summaries: docs/The Underdark.md
+party_synth_only: false
+plan_arc_scores: ''
+plan_build_summaries: ''
+plan_chunk_size: 60000
+plan_context: ''
+plan_extract_dir: ''
+plan_mode: Synthesize planning.md
+plan_npc: ''
+plan_output: /home/kroussos/campaigns/out-of-the-abyss/docs/planning.md
+plan_summaries: docs/world_state.md
+plan_synth_only: false
+planning_run: true
+prep_config: config/config.yaml
+query_input: ''
+sd_characters: Daz, Zalthir, Grygum, Thorin
+sd_context: '/home/kroussos/campaigns/out-of-the-abyss/docs/party.md
+
+  /home/kroussos/campaigns/out-of-the-abyss/docs/campaign_state.md
+
+  /home/kroussos/campaigns/out-of-the-abyss/docs/world_state.md'
+sd_examples_dir: /home/kroussos/campaigns/out-of-the-abyss/examples
+sd_extract_dir: scene_extractions
+sd_extract_run: true
+sd_narrate_tokens: '4000'
+sd_output_dir: /home/kroussos/campaigns/out-of-the-abyss/summaries/20260404
+sd_party: /home/kroussos/campaigns/out-of-the-abyss/docs/party.md
+sd_port: '5000'
+sd_roleplay_dir: vtt_roleplay_extractions
+sd_server_pid: 1664793
+sd_session: gm-assist.md
+sd_session_dir: summaries/20260324
+sd_session_name: the fight
+sd_session_summary: session-clean.md
+sd_summary_dir: vtt_extractions
+sd_voice_dir: /home/kroussos/campaigns/out-of-the-abyss/voice
+session_dir: /home/kroussos/campaigns/out-of-the-abyss/summaries/20260404
+session_doc_examples_dir: /home/kroussos/campaigns/out-of-the-abyss/examples
+summaries: docs/The Underdark.md
+vtt_chunk_size: 50000
+vtt_context: '/home/kroussos/campaigns/out-of-the-abyss/docs/campaign_state.md
+
+  /home/kroussos/campaigns/out-of-the-abyss/docs/world_state.md
+
+  /home/kroussos/campaigns/out-of-the-abyss/docs/party.md'
+vtt_date: ''
+vtt_extract_dir: /home/kroussos/campaigns/out-of-the-abyss/summaries/20260324/vtt_extracts
+vtt_input: GMT20260331-005943_Recording.transcript (1).vtt
+vtt_no_log: false
+vtt_output: session-summary.md
+vtt_roleplay_output: session-roleplay.md
+vtt_session_name: ''
+vtt_summary_run: true
+vtt_synth_only: false

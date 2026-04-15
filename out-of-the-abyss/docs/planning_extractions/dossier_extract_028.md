@@ -1,0 +1,35 @@
+## Zalthir
+
+Zalthir has become increasingly insistent that the party save his friend Rump-a-dump. He claims his friend would never threaten him and mentions zombie creatures harvested from the dead. When the group debates what to do with the egg, Zalthir is part of the discussion but ultimately agrees with the plan to hand the egg over to Gartokkar and escape via the ports.
+
+When Sarith begins acting compelled and walking towards the Myconids, Zalthir notices and physically stops him, pulling him back. He observes that Sarith's urge to go to the Myconids increased with proximity, and remarks disapprovingly to Daz, "We are seeing effects that are stronger than 30'," referencing Daz's earlier assurance that dangerous spores were only hazardous in melee range. He mutters "The knowledge of the Drow…" sarcastically.
+
+Zalthir positions himself far from the Myconids, which Grygum notes makes him look "particularly clever." If he were present during the later discussion, he would have questioned whether visiting Neverlight Grove would be wise given the possibility that Zuggtmoy herself is there.
+
+## Jimjar
+
+Jimjar suggests the party hold onto the egg rather than hand it over, betting that they will find it very useful in the future. Grygum finds this notion absurd, as he does not intend to return to the Underdark once they escape.
+
+## Stool
+
+Stool is the small myconid who has been demanding the party save his friend Rump-a-dump. He insists that his people (the Myconids) are harmless. When Grygum patiently explains the dangers of Myconid mind-control abilities, Stool turns to Thorin for support instead — a strategic move that Grygum recognizes as surprisingly wise. Stool successfully convinces Thorin to help, and Grygum is convinced that if Stool could, he would be sticking his tongue out at him. Upon arriving at the Myconid cave, Stool excitedly jumps up and down shouting to his friend Rump-a-dump. Rump-a-dump later notes that Stool also does not understand the strange talk of "the Lady's dream," confirming it is not the way of normal Myconids.
+
+## Sarith
+
+Sarith becomes compelled when the party approaches the Myconid cave and starts walking towards them involuntarily. He shouts that "the Dark Lady" is calling him, saying she "sings in the spores, a song of becoming" and that he must go to them because "they know the way to the bloom." When Zalthir physically restrains him, Sarith protests, raving about whispers, glory, pain, madness, and "the becoming," insisting they must join the Lady's dream. He appears conflicted, trying to resist but unable to fully do so. His compulsion grows stronger with proximity to the Myconids. Later, he continues raving: "We will rise! We will transform! This is the only way to escape... to truly live! The Dark Lady... she offers liberation... revenge for all that has been done!" Sarith was described as "never sane to begin with." His behavior strongly suggests he is already infected by Zuggtmoy's influence.
+
+## Rump-a-dump
+
+Rump-a-dump is a Myconid sprout and Stool's friend, found among the dancing Myconids in the cave. He is described as terse, precise, and restrained in contrast to Stool's enthusiastic chattiness. He is visibly uncomfortable and worried. He explains that something is wrong — Voosbur released strange spores and everyone changed, beginning to dance unnaturally. He says the Myconids were originally happy in Neverlight Grove before Voosbur's spores transported them to this location, after which the others ate strange mushrooms (the shrinking/growing kind). Rump-a-dump did not eat them, which is why he is not affected like the others. When Thorin suggests eating mushrooms might be cannibalism, Rump-a-dump pointedly asks whether humanoids who eat other creatures are themselves cannibals. He states these dances are not their old dances and the talk of "the Lady's dream" is not the way of Myconids — it is forced. He expresses deep worry about Neverlight Grove, fearing Voosbur's strange spores may have infected the rest of his people back home, and hopes his Sovereign there might know a way out.
+
+## Voosbur
+
+Voosbur is a taller Myconid figure among the dancing group, identified by Rump-a-dump as the one who released the strange spores that caused all the other Myconids to change and begin their unnatural dancing. When the party approaches, Voosbur stops his frantic dance momentarily before continuing, speaking telepathically in an ecstatic, countercultural tone. He describes the Dark Lady's domain as "the ultimate underground rave" in the mind, urging the party to join a "mind-expanding journey" through her "cosmic garden." He denies Zuggtmoy is an infection, calling her "the mama of the mushrooms, the queen of the dreamscape." He extends his hand, offering the party a chance to enter the Lady's dream. When Thorin and Grygum take his hand, both are transported into a psychedelic vision of Zuggtmoy's domain. After they wake and decline to join, Voosbur sighs and says "I guess you guys didn't want to join us. You still can if you want. But hurry." He then releases glowing spores, and the dancing Myconids walk towards the moss at the cave's edge and disappear. His current status is unknown — he vanished with the other infected Myconids.
+
+## Zuggtmoy
+
+Zuggtmoy, the Demon Queen of Fungi and Lady of Rot and Decay, appears as a spectral figure within the psychedelic vision that Thorin and Grygum experience after taking Voosbur's hand. She is seated on a throne of fungal growths twisted with bleached bones and decaying wood. Her appearance is described as unsettling — delicate features framed by tendrils of glowing mycelium pulsing with sickening inner light, hollow radiant eyes that pull at the mind, and a crown-like halo of glowing spores. Her movements bend the air around her, and she trails the stench of damp earth and decay. She speaks in a soft, haunting melodic tone, calling Thorin a "wanderer of flesh and bone" and describing herself as "the pulse beneath the stone" and "the breath within the spore." She asks Thorin whether he fears the rot or understands its song, offering him a chance to "bloom beyond the bounds of flesh and time." When Thorin declines, she expresses disappointment, saying he could have "lingered with me and found your heart entwined with me, forever, as part of the endless mycelium." She is identified through Grygum's knowledge of *The Platinum Chronicle: Discourses on the Abyssal Blight* as a demon lord who corrupts the living with her spores, transforming them into mindless servants and decomposing hosts for fungi. Her influence is the cause of the Myconids' unnatural behavior and Sarith's compulsion. She may also be present at or connected to Neverlight Grove.
+
+## Gartokkar
+
+Gartokkar is mentioned only in the party's plan: they agree to hand over the egg to Gartokkar and then escape via the ports. He does not appear directly in this session.
