@@ -13,7 +13,7 @@
 1. **Silken Paths Entrance:** Introduced himself alongside Spiderbait and offered to guide the party for 2 gold/day. When Jimjar tricked them into a demonstration bet and then couldn't pay, Yukyuk was furious and began leaving. Spiderbait negotiated a compromise — they'd guide the party until the debt was repaid.
 2. **During the Crossing:** Once the deal was settled, became friendly and animated. Told Topsy excitedly about his web-surfing moves. Shared lore about a "crazy Drow wizard" who tried to burn the Silken Paths but failed because the spiders rebuilt faster. Reassured Zalthir that web vibrations wouldn't attract spiders. When spiders were detected near a cocoon, advised the group to flee.
 3. **Post-Spider Encounter:** Critiqued the group's tactics, suggesting they should have slid under the spiders and cut the web from the other side. Was deeply impressed by Zalthir's acrobatic move of going underneath a web strand to attack a Spectator, calling it "next-level spider walking." This admiration convinced him and Spiderbait to stay with the group despite Jimjar's unpaid debt.
-4. **Murdered:** Found dead at the start of a subsequent session. Killed by Buppido, who claimed it was part of a "divine plan."
+4. **Murdered (1st day, 3rd Tenday of Taraskh, 1493):** Found dead at the start of a subsequent session. Spiderbait discovered the body and was screaming. Killed by Buppido, who claimed it was part of a "divine plan."
 
 ## Current Status
 - **Dead.** Murdered by Buppido.

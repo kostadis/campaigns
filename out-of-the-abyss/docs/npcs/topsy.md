@@ -36,5 +36,8 @@
 - **Daz:** Daz has observed the twins' private behavior and noted their lycanthropy
 - **Eldeth & Ront:** Fought alongside them during the escape
 
+## Unresolved Plot Thread
+- **Ghohlbrorn's Lair Disappearances:** The twins remained at Ghohlbrorn's Lair while other escapees disappeared one by one. Daz theorized that Topsy and Turvy are wererats responsible for the disappearances — they are "the only other escapees who have not gone missing," cited as circumstantial evidence.
+
 ## Arc Score Events
 - No explicit arc score changes noted in the source material.

@@ -9,7 +9,8 @@
 - Pragmatic and self-interested, with a merchant's pride in his profession. Easily offended when bypassed for business ("I am a weapons trader, and you would go to him?"). Has a dry, blunt sense of humor, especially when recounting near-death experiences. Cautious in dangerous situations—happy to turn invisible and let others handle the fighting.
 
 ## History with the Party
-- **Collected as a castaway** by the party at some point during Underdark travel.
+- **Kuo-toa Altar (Pre-Castaway):** Found as a sacrificial captive at the kuo-toa altar, pleading with Grygum for help. Grygum told him "there's more than meets the eye," which surprised and comforted him. Bloppblippodd (Archpriest of the Deep Father) was his betrayer — she was his buyer but declared his sacrifice "would be weapon enough." Hemeth offered to help the party if they survived: "find him in Gracklstugh."
+- **Collected as a castaway** by the party during Underdark travel.
 - **Kuo-Toan boat encounter:** Suggested the party take a Kuo-Toan boat they spotted, sharing an anecdote about nearly being sacrificed by Kuo-Toans while trying to sell them weapons.
 - **Duergar Keelboat discovery:** Identified an abandoned boat as a Duergar Keelboat by recognizing the crates aboard.
 - **Ambush situation:** Turned invisible using his innate duergar ability, opting to hide rather than fight.

@@ -16,11 +16,11 @@
 3. **Underdark Pursuit:** Pursued the escaped party relentlessly from Velkynvelve. Sarith warned she was "honor bound to pursue" them. She correctly predicted the party would seek refuge at Neverlight Grove and sent Xinaya's squad to capture them alive so she could kill them herself.
 4. **Final Confrontation (Corrupted):** Encountered in a fungal cavern, visibly corrupted by Zuggtmoy's influence, standing on an elevated platform with a mushroom artifact. She still carried her scourge but was physically altered by fungal growth. She controlled spore servants (former Velkynvelve guards) and could dissolve into the fungal matter to teleport around the cavern. Zalthir struck her for 31 damage; Daz hit her with a shaped Fireball for 24 damage (half-saved) that also set her mushroom icon smoldering. The Heart Fungus sustaining her power was being ground down by the Dust of Suleiman.
 
+## Resolution
+5. **Death:** Killed by Grygum's Guiding Bolt. Zalthir opened aggressively — grappling her with his Eldritch Claw Tattoo, dragging her forty feet up, landing two critical hits for sixteen damage. She retaliated with a legendary reaction fear effect (DC-14 Wisdom save), successfully frightening Zalthir. She cast Insect Plague at the cavern entrance, killing her own fungal minions and dealing twenty-six damage to Glabbagool. Jorlan Duskryn charged her through the insect swarm in a personal vendetta — they traded blows on the cavern floor. Her body erupted in a massive cloud of poisonous spores, catching Zalthir and Thorin in the toxic bloom. Grygum noted afterward he was glad to have been standing back from the spore eruption.
+
 ## Current Status
-- **Last Known:** Wounded and bleeding in the fungal cavern, still fighting. Her Heart Fungus is being destroyed by the Dust of Suleiman and her mushroom icon is burning.
-- **Active Threat:** Controls spore servants and can merge with the fungal environment to reposition. Her corruption is the vector for the spore illness enslaving others in the area.
-- **What the Party Knows:** They know she was corrupted by Zuggtmoy, understand her "bride heresy" motivation (via Asha Vandry), know she can dissolve into fungus to escape grapples, and know her mushroom artifact and Heart Fungus are key vulnerabilities.
-- **Hidden:** The full extent of her fungal powers and whether destroying the Heart Fungus will end her or free her.
+- **Dead.** Killed by Grygum's Guiding Bolt in the fungal cavern.
 
 ## Relationships
 - **Jorlan:** Former consort, discarded after acid scarring and lost finger. His resentment drove him to betray her by helping the prisoners escape.
@@ -31,7 +31,8 @@
 - **Xinaya:** Subordinate sent to capture the party on Ilvara's orders.
 - **Asha Vandry:** Recognizes Ilvara's corruption and describes her as "seduced by this abomination."
 - **Zuggtmoy:** Source of her fungal corruption and the bride heresy.
-- **The Party:** She wants them dead personally. Daz, Thorin, and Zalthir have all engaged with her directly or studied her closely.
+- **Nym Duskryn:** Target of her divine fire during the final battle (relationship to Jorlan implied by shared surname).
+- **The Party:** She wanted them dead personally. Daz, Thorin, and Zalthir all engaged with her directly or studied her closely.
 
 ## Arc Score Events
 - No explicit arc score mechanics mentioned in the notes.

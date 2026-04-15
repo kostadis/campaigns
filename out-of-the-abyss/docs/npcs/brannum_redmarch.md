@@ -9,6 +9,7 @@
 - A merchant by trade with connections in the underground economy — lights up at the mention of procuring magical items. Nervous and quick to negotiate when cornered, but eager to prove his usefulness. Will make deals to save his own skin.
 
 ## History with the Party
+- **10th of Myrtul (Delivery):** Arrived at the party's location on the evening of the 10th of Myrtul, delivering magical weapons and items that had been requested by Thorin and Zalthir.
 - **Approach to Gracklstugh:** Thorin raised the question of what to do with Brannum. Brannum panicked and pleaded not to be handed over to the guard, fearing loss of his freedom.
 - **Trade Deal:** When Zalthir asked about purchasing uncommon magical items, Brannum seized the opportunity. He claimed he could procure an **Eldritch Claw Tattoo**, stating "I know a guy. But it will take a few days." He negotiated a deal — he would deliver the items in exchange for a clean slate with the party. Thorin threatened consequences if Brannum betrayed them or failed to deliver. Brannum agreed nervously.
 

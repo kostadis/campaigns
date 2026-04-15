@@ -29,6 +29,11 @@
 - **Zalthir (party member):** Positive rapport; Jadgar was impressed enough by Zalthir's monk technique to share additional intelligence and sees potential training value for his recruits
 - **The Party (general):** Transactional but cooperative relationship; mutual benefit through the ghost-for-information exchange
 
+## Additional History
+6. **Catacomb Mission:** Jadger tasked a group including Glabbagool, Eldeth, Jimjar, and Spiderbait with resolving a ghost problem in Blingdenstone's catacombs. He specifically requested the rescue of certain ghosts, including Udhask. After the party put two tormented spirits to rest, Jadger materialized as a friendly ghost to personally thank them. He offered two boons — any two questions he would answer truthfully — and told them to find him at the Ruby and the Rough temple when ready to claim the reward. Casually noted that even if the party died on the mission, they could still be useful as ghosts through resurrection magic. **Outstanding: The party has two truthful answers they can claim from Jadger at any time.**
+7. **Mining Dispute:** Jadger's ghost faction objected to the Miners Guild's proposal to strip-mine the sanctum, which the Burrow Wardens considered sacred burial grounds. A sustainable mining compromise was ultimately brokered.
+8. **Farewell:** Jadger and the Burrow Warden ghosts were present to see the Ember Vanguard off, dipping their spectral banners in salute as the party left the city.
+
 ## Arc Score Events
 - **Putting Pelek's ghost to rest** → triggered Jadgar's appearance and initiated the ongoing deal (positive progression toward Blingdenstone restoration arc)
 - **Zalthir's martial demonstration** → earned bonus information beyond the standard exchange (positive relationship development)
