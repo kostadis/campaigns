@@ -8,6 +8,12 @@
 ## Personality & Motivations
 - Fanatically devoted to the Deep Father, whom she serves with zealous conviction. Commanding and authoritative despite her youth, she directs subordinates without hesitation. Her final act — crying out "Leemooggoogoon!" as she dies — reveals that her ultimate goal was always the summoning of Demogorgon, even at the cost of her own life.
 
+## Pre-Encounter Intelligence
+- Her brother (Glooglugogg) considers her mad and disrespectful of kuo-toan traditions.
+- Conducting escalating blood sacrifices — killing humanoid offerings and casting bloody chum into the Darklake, where something unknown consumes it.
+- Deep Father followers: Her hardcore supporters are few in number, but the broader village population's loyalty is uncertain and in flux.
+- Refused diplomatic overtures from her father, refusing even a white flag meeting.
+
 ## History with the Party
 - **Sacrificial Ritual:** The party was brought before Blopp as sacrificial offerings by her father Ploopploopeen. She accepted them eagerly, declaring "May their blood nourish and strengthen him!" and called for the sacrificial knife, ordering the escapees herded toward the blood-stained altar depression.
 - **Battle at the Altar:** When Ploopploopeen betrayed her and attacked, Blopp screamed at her kuo-toa subordinates to block the escapees' escape. She and her father exchanged curses and spells in combat.

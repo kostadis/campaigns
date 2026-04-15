@@ -8,11 +8,13 @@
 ## Personality & Motivations
 - Core goal: preserve the true worship of Lolth and eradicate Zuggtmoy's corruption, which she sees as an existential threat to drow society
 - Sharp, perceptive, and impossible to con — she immediately saw through Daz's Dancing Lights ruse, having encountered charlatans before in drow society. Rather than rejecting Daz outright, she reframed his behavior through her own theological lens, accepting him as a "confused vessel" whose power might serve Lolth's purposes. She is a true believer who bends reality to fit her faith, not the other way around.
+- Intensely paranoid, particularly about fungal contamination — refuses all physical contact ("Don't touch me").
+- Possesses an unexpected streak of dry, exasperated humor, particularly regarding Jorlan and Ilvara's unresolved romantic drama.
 
 ## History with the Party
 1. **Daz's deception attempt:** Daz tried to pose as Lolth-touched using Dancing Lights and his spider familiar. Asha saw through it instantly and called it out. She then constructed her own rationale — that Daz and companions were infected by Zuggtmoy's spores and deluded, possibly a trick of Ilvara's — and chose to keep him as a useful tool. Accepted Glabbagool as a bound familiar, fitting her view of Daz as a deluded but powerful mage.
 2. **Intelligence briefing:** Provided critical tactical information — Ilvara had been corrupted by Zuggtmoy, her allies had become mindless fungal creatures, a mushroom artifact from Neverlight Grove was the mechanism, and the Big Heart Fungus was the primary weapon. Only she and Jorlan remained uninfected (she through devotion, Jorlan through hatred), maintaining twenty feet of distance and separate food from the infected.
-3. **Deal struck:** Offered the party "the gratitude of Lolth" and Ilvara's magical items (possibly contaminated) in exchange for killing Ilvara. Her tactical role was holding the perimeter — she explicitly needed others to do the close-range lethal work.
+3. **Deal struck:** Offered the party "the gratitude of Lolth" and Ilvara's magical items (possibly contaminated) in exchange for killing Ilvara. Her tactical role was holding the perimeter — she explicitly needed others to do the close-range lethal work. Warned that Thorin and Grygum must not approach the artifact due to a marker they picked up in the Whorlstone Caverns of Gracklstugh. Advised the party to target the Heart Fungus with their most powerful spell rather than Ilvara directly. Openly mocked Grygum's suggestion to use Phantasmal Killer on Ilvara. Was briefly alarmed by Glabbagool's visible eyes but was impressed when Thorin introduced it as Daz's familiar. Revealed that the Spore Servants are former drow party members who willingly embraced Ilvara's spores.
 4. **Confrontation with Duskryn sisters:** During the final battle, Asha spotted the Duskryn sisters and immediately challenged them as traitors to Lolth. Daz defused this by introducing them as Lolth-aligned allies, which Asha accepted.
 5. **After Ilvara's death:** Dropped to her knees in prayer to Lolth, already reshaping events into something her goddess could use. Grygum and Thorin both noted this with wariness — Thorin acknowledged she might actually be answered.
 
@@ -29,6 +31,7 @@
 - **Duskryn sisters:** Initially hostile, quickly accepted as Lolth-aligned after Daz's intervention. Asha has a ready-made worldview slot for drow who serve Lolth.
 - **Grygum:** Mutual wariness. Grygum is watching her closely.
 - **Thorin:** Wary; acknowledged the real possibility that Lolth might answer her prayers.
+- **Zalthir:** Largely ignored.
 
 ## Arc Score Events
 - No explicit arc score changes noted, but Asha's post-battle prayer moment was flagged by multiple party members as a "watch this space" development — potential future arc trigger.

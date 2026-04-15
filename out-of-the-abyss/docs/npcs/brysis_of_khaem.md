@@ -16,11 +16,12 @@
 5. **The Voice Returns:** When Zalthir moved the sarcophagus lid aside during the encounter, the same feminine voice spoke again: *"In the sarcophagus! I can help you!"*
 6. The session ended with Zalthir looking inside the sarcophagus.
 
+## Resolution
+7. **Battle and Death:** Brysis was destroyed by the party in combat. The killing blow was delivered by Grygum's acid breath — Zalthir memorably noted she was "killed by barf." She screamed "Not Dawnbringer!" in alarm when Thorin activated it during the fight.
+8. **Aftermath:** Brysis's death caused the magical trap in the false tomb to dissipate. The party looted her real tomb, recovering a necklace of fireballs, a potion of greater healing, and gold.
+
 ## Current Status
-- **Last known situation:** Zalthir is mid-action looking inside the gilded sarcophagus while a Wraith is active in the chamber
-- **Unresolved mystery:** It is unclear whether the Wraith *is* Brysis or a separate entity. The telepathic feminine voice appears distinct from the Wraith, suggesting Brysis may be trapped and the Wraith may be her jailer — but this is not confirmed.
-- **What the party knows:** The tomb layout (from Fargas), the telepathic pleas for help, and that something inside the sarcophagus may be an ally
-- **What remains hidden:** Brysis's true nature and current form; whether the voice and the Wraith are the same being or separate; what is actually inside the sarcophagus; the real treasure chamber (if the party hasn't found it yet)
+- **Dead.** Destroyed by the party in her tomb.
 
 ## Relationships
 - **Zalthir:** Directly interacting with the sarcophagus; the voice specifically urged him to look inside
