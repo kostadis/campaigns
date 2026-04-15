@@ -12,7 +12,7 @@
 
 ## History with the Party
 - **Arrival at Neverlight Grove:** Greeted the party warmly, spread rapport spores, and declared they had arrived at "a wondrous time." Encouraged them to explore freely but explicitly warned them away from the eastern plateau, claiming the Circle of Masters was preparing a "wondrous and glorious surprise" in the Garden of Welcome. Offered to give them a peek the next day.
-- **Directed party to "the Great Seeder,"** describing the entity as someone who would "help all of us get closer to her beauty" and who lives beyond the Garden.
+- **Directed party to "the Great Seeder,"** describing the entity as someone who would "help all of us get closer to her beauty" and who lives beyond the Garden. When the party fled Neverlight Grove, Phylo cried out: "The Neverlight Grove will be better than ever! And the Great Seeder will make us all happy!" and pleaded "Basidia don't go."
 - **Invited Xinaya to visit the Circle of Welcome,** which turned out to be a trap that transformed visitors into fungal spore servants. A previous group of "softers" who accepted the same offer were never seen again — Phylo made no mention of them.
 
 ## Current Status

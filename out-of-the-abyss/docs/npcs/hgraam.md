@@ -5,6 +5,10 @@
 - **Faction:** Stone Giants of Cairngorm Cavern
 - **First appearance:** The party visited him in his cavern, where he sat on a rock at the entrance to a long, well-polished tunnel in the eastern wall south of Laduguer's Furrow. Thorin was the primary interlocutor.
 
+## Additional Context
+- Dorhun and Rihaud are both apprenticed to Hgraam; they introduced themselves to Thorin at the Blade Bazaar encounter, identifying Stonespeaker Hgraam as their master.
+- The Derro ritual that drove stone giants mad involved a text called *The Rituals of the Two-Headed Beast*.
+
 ## Personality & Motivations
 Hgraam is patient, deliberate, and deeply attuned to the earth — a sage figure who listens to what "the stones tell him." He values composure and respect, showing visible disapproval of Daz's impetuousness while favoring Thorin's measured approach. He grieves the madness afflicting the Underdark and laments the deterioration of old friendships, particularly with the Deep King. His core drive is the protection and wellbeing of his people, which has ultimately led him toward isolation.
 

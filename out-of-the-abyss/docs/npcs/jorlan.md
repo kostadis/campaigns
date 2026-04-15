@@ -12,9 +12,10 @@
 2. **Escape Plot:** Approached Thorin during a food delivery and offered to help the prisoners escape — leave the prison door open, create a distraction, and leave the path to the armory unguarded so they could flee via the waterfall or spider webs. Motivated purely by spite toward Shoor and Ilvara.
 3. **Battle at the Bridge:** The party chose to ally with Asha Vandree over Jorlan and set a Glyph of Warding on the bridge against his approach. Grygum (or Thorin — notes vary on who taunted) baited him with "Come get it, idiot!" Jorlan charged without hesitation onto the glyph, taking 21 damage (destroying a spore servant and damaging the Heart Fungus). Thorin followed up with a critical hit from Dawnbringer for 14 damage with the Sap technique, imposing disadvantage. Thorin's second swing missed against Jorlan's AC 18. Jorlan was left staggered but still standing, wounded and furious.
 
+4. **Fungal Cavern Battle:** Jorlan broke position and charged Ilvara across swarm-infested terrain screaming her name — described as "a wound reopening, something uglier and more honest than rage." Thorin rolled an 8 on opportunity attack but deliberately let him pass. Jorlan and Ilvara traded blows on the cavern floor after the bridge collapse. He was hit by Nym Duskryn's lightning bolt and left staggering. Zalthir observed approvingly: "the tides have turned." Note: Nym and Jorlan share the Duskryn surname. His final fate is ambiguous — alive or dead unconfirmed.
+
 ## Current Status
-- **Last Known Location:** On the bridge at the battle site, badly wounded but still on his feet
-- **Condition:** Reeling from 35+ total damage, under disadvantage from Sap maneuver
+- **Last Known:** Staggering after Nym Duskryn's lightning bolt during the fungal cavern battle. Fate ambiguous.
 - **Notable:** One of only two (or three) drow uninfected by Zuggtmoy's spores due to his hatred rather than faith
 - **Hidden Info:** His former possession of a wand of globs — unclear if he still has it or if it was confiscated during his demotion
 

@@ -30,5 +30,10 @@
 - **Gray Ghosts:** Hostile — they stole the egg and humiliated the Keepers.
 - **The Party:** Treats them as coerced assets. Pragmatic but threatening. Laughed at Grygum's joke. Has a particularly adversarial dynamic with Thorin, against whom he holds prepared legal leverage.
 
+## Additional History
+6. **Egg Cover Story:** When reporting back about the egg, Grygum's cover story was that it had been stolen by "some other crazed group," not the Derro.
+7. **Escape Route:** The party used their completed deal with Gartokkar as a stepping stone to flee Gracklstugh via the ports before Errde Blackskull could imprison them.
+8. **Ember Vanguard Warning:** Gartokkar warned the party about the Deepking's agents searching for the Ember Vanguard — shadowy assassins from Menzoberranzan with powerful magic and soul-rending blades.
+
 ## Arc Score Events
 - No explicit arc score changes noted in the source material.

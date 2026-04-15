@@ -8,7 +8,7 @@
 - Served as a combatant loyal to the Pudding King. Displayed aggressive, predatory behavior in battle, singling out Thorin as a primary target.
 
 ## History with the Party
-- **Throne Room Battle:** Fought against the party as one of the Pudding King's ooze allies. Opened by hurling blobs of acidic ooze at Thorin but missed. Later charged Thorin during the mopping-up phase of the fight. Took heavy damage from multiple party members: 29 damage from Daz's Fireball, 18 damage from Grygum's Inflict Wounds, grapple attacks from Zalthir, and was ultimately killed by Thorin's finishing blow.
+- **Throne Room Battle:** Fought against the party as one of the Pudding King's ooze allies, accompanied by a second (unnamed) ooze companion. Opened by hurling blobs of acidic ooze at Thorin but missed. Later charged Thorin during the mopping-up phase of the fight. Took heavy damage from multiple party members: 29 damage from Daz's Fireball, 18 damage from Grygum's Inflict Wounds, grapple attacks from Zalthir, and was ultimately killed by Thorin's finishing blow.
 - **Loot:** After her death, the party discovered a spellbook containing numerous magical formulas inside her stomach.
 
 ## Current Status

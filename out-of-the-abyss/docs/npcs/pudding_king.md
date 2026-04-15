@@ -8,6 +8,15 @@
 ## Personality & Motivations
 - Fanatically devoted to Juiblex, having willingly shed his humanoid form to become a sentient, telepathic ooze. Sought to reduce all deep-dwelling civilizations into ooze. Grandiose and theatrical in his telepathic declarations, though the party found his mental volume obnoxious.
 
+## Pre-Confrontation
+- Identity: A former deep gnome tunnel worker before his transformation into a sentient ooze.
+- Chief Chipgrin knew him personally before his transformation.
+- Named henchmen: Princess Ebonheir and Prince Livid.
+- Hostile relationship with Zuggtmoy — he resents her encroachment on his territory; she wants to co-opt his oozes. Juiblex's influence was passively destabilizing Blingdenstone's leadership and populace.
+- The party scouted his lair via Daz's bat familiar: throne described as slime-covered, cave lit by phosphorescent lichen, surrounded by hundreds of oozes.
+- Addressed the party with a disembodied voice welcome in the ooze-filled cavern south of Blingdenstone.
+- Observed through an ochre jelly barricade monologuing to his henchmen about Blingdenstone's army being consumed.
+
 ## History with the Party
 1. **First mention:** The party overheard Zuggtmoy's psychic message directed at the Pudding King, revealing his role in using oozes to "soften the shell" so her fungal garden could "take root in the flesh beneath."
 2. **Confrontation:** The party breached his throne room walls with an Earth Elemental. When Zalthir attempted to grapple him, the Pudding King transformed into his true ooze form, telepathically declaring his intent to reduce all deep-known kind to ooze.

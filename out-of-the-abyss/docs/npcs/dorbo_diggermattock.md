@@ -7,15 +7,18 @@
 
 ## Personality & Motivations
 - Profit-driven and focused on protecting the mines and economic recovery, in contrast to his wife Senni's people-first approach. Pushes for aggressive mithral extraction and economic expansion. Has been accused by citizens of caring only for wealth and neglecting the common people. Stubborn and opinionated—willing to call plans "the dumbest he's ever heard"—but can be cowed into cooperation when confronted with sufficient force of personality or silenced by Senni.
+- Shows an obsession with money that the party found "unhinged" given the existential threats facing the settlement. Chipgrin suggested this greed may be the result of demonic corruption bleeding through the Pudding King and affecting the community's leadership.
 
 ## History with the Party
 1. **First Meeting (Diggermattock Hall):** Greeted the party and asked their identity. Had a heated, visible argument with Senni over whether to help the party reach the Overbright versus leveraging them for the community's needs.
 2. **Hired the Party:** Credited by a sergeant for hiring the adventurers to deal with the ooze problem.
 3. **Ooze Report:** Reacted with alarm upon learning about the Pudding King and his army of hundreds of oozes. Called Grygum's gnome army distraction plan "the dumbest he had ever heard" but was silenced by Senni. Refused to include the Gold Whisker wererat clan, calling them squatters. After Daz seized control of the discussion and demanded cooperation, Dorbo agreed in stunned silence.
-4. **Battle Preparations:** Addressed assembled forces, declared Daz would lead them to victory. Unveiled a two-pronged battle plan and offered three allied groups (an elemental imbued with Entemoch's power, wererats led by Chipgrin, Pickshine Miners). Accepted the party's proposal for a minimal distraction over a full-scale assault.
-5. **Trader's Grotto Argument:** Argued with Chipgrin over dividing newly opened territory even as oozes threatened defenses. Thorin tried and failed to redirect them.
-6. **Council Meeting:** Pushed for aggressive economic recovery and mithral extraction. The party brokered compromises on his behalf—wage agreements, wererat defense force (removing his military funding burden), and sustainable mining respecting ghosts' sacred grounds. Agreed to the peace arrangement and announced plans to reopen Blingdenstone for surface trade.
-7. **Honorary Gesture:** Moved by Thorin's effort winching a support beam into place, Dorbo personally sewed a Diggermattock Miners patch onto Thorin's gear, declaring him an honorary member of the mining crew.
+4. **Temple Staging & Reward:** Proposed using the Temple of the Steadfast Stone as a staging area to keep oozes away from population centers. Offered a Stone of Controlling Earth Elementals as reward for dealing with Ogremoch's Bane and cleansing the temple.
+5. **Elemental Slavery Debate:** Present when the party argued against enslaving Earth Elementals for labor, comparing it to Drow slavery. Witnessed religious leaders side with the party's position.
+6. **Battle Preparations:** Addressed assembled forces, declared Daz would lead them to victory. Unveiled a two-pronged battle plan and offered three allied groups (an elemental imbued with Entemoch's power, wererats led by Chipgrin, Pickshine Miners). Accepted the party's proposal for a minimal distraction over a full-scale assault.
+7. **Trader's Grotto Argument:** Argued with Chipgrin over dividing newly opened territory even as oozes threatened defenses. Thorin tried and failed to redirect them.
+8. **Council Meeting:** Pushed for aggressive economic recovery and mithral extraction. The party brokered compromises on his behalf—wage agreements, wererat defense force (removing his military funding burden), and sustainable mining respecting ghosts' sacred grounds. Agreed to the peace arrangement and announced plans to reopen Blingdenstone for surface trade.
+9. **Honorary Gesture:** Moved by Thorin's effort winching a support beam into place, Dorbo personally sewed a Diggermattock Miners patch onto Thorin's gear, declaring him an honorary member of the mining crew.
 
 ## Current Status
 - **Last Known Location:** Blingdenstone, post-council meeting

@@ -17,11 +17,13 @@
 6. **Explained backstory**: Previously attempted a "white flag" approach with Bloppblippodd, but she refused reconciliation.
 7. **On the morning of the 2nd day**, admitted a kuo-toa monitor and announced he, his whip, and the prisoners would accompany the monitor's group to see the archpriest of the Deep Father—putting the plan into motion.
 
+8. **Altar Ruse Execution:** The ruse was executed at Bloppblippodd's altar. Ploopploopeen personally delivered the fatal blow against his own daughter, completing her summoning ritual and triggering Demogorgon's emergence.
+9. **Thorin's Realization:** Thorin realized that Ploopploopeen could have paralyzed the whole party with Hold Person if he'd truly been working against them — cited as evidence Ploop was playing a deeper game all along.
+10. **Post-Battle:** Grygum looted Ploopploopeen's thatched hut, justifying it because Ploop hadn't paid them.
+
 ## Current Status
-- **Last known**: Accompanying the party and a kuo-toa monitor group en route to the Deep Father's archpriest, executing his ambush plan.
-- **Active plan**: Present the party as false sacrifices to Bloppblippodd, then have his Sea Mother followers attack once the party creates a distraction.
-- **Party knows**: The full plan, the reward terms, and that Ploopploopeen's previous diplomatic attempt failed. They know the Deep Father faction has been making blood sacrifices into the Darklake consumed by something unknown.
-- **Possibly hidden**: The true strength (or weakness) of his forces; he dismissed questions about the opposing faction's numbers. The nature of whatever is consuming the bloody chum in the Darklake.
+- **Status unknown** after Demogorgon's emergence from the Darklake.
+- The party never received payment from him.
 
 ## Relationships
 - **Bloppblippodd** (daughter): Deeply strained. She leads the rival Deep Father faction after experiencing a powerful vision of "Leemooggoogoon." Ploopploopeen views her as a dangerous heretic to be stopped.

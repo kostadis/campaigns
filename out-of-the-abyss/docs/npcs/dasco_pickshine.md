@@ -14,8 +14,10 @@
 1. **Galeb Duhr Blockage:** Dasco had exhausted all his own methods (including hitting the ancient sentinels with a pickaxe) to clear four massive Galeb Duhr from a mine path. Daz solved the problem by arranging resonant geodes and humming to complete the Galeb Duhr's ancient handshake protocol, opening the way. Dasco grudgingly rewarded the party with two ruby gems worth 500 gp.
 2. **Branding & the Bridge:** Dasco seized the party's visit as a marketing opportunity — offering branded tea, explaining his holistic marketing approach, and personally sewing a Dasco Pickshine patch onto Daz's clothes. When the party faced a twenty-foot black pudding pit, Dasco offered a practical solution: his miners would bridge it using mithril braces and salt neutralizers. The Pickshine Miners built the bridge in about twenty minutes (while singing cheerful songs), though they had to remain behind to maintain it against acid and could not accompany the party to the Pudding King's doors.
 
+3. **Council Meeting:** Served as the Miners Guild representative at a council meeting where the party brokered a sustainable mining compromise. Initially advocated strongly for immediate strip mining to generate revenue for city repairs, but ultimately agreed to a compromise that balanced economic demands with the need to respect ghosts' sacred grounds.
+
 ## Current Status
-- **Last known location:** Pickshine Mine, with his miners maintaining the mithril bridge over the black pudding pit.
+- **Last known location:** Pickshine Mine / Blingdenstone, operating under the terms of the sustainable mining compromise.
 - **Active operations:** Miners are actively holding the bridge open for the party's return route; mine operations presumably ongoing.
 - **Party knowledge vs. hidden:** The party knows him as a helpful if self-interested mine owner. No hidden agendas noted in the source material.
 
