@@ -1,0 +1,20 @@
+wing: abyss
+rooms:
+- name: npcs
+  description: NPC dossiers, character profiles, relationships, motivations
+  keywords: [npcs, npc, dossier, character, profile, relationship]
+- name: world
+  description: World state, lore, background, regional geography, politics, custom worldbuilding
+  keywords: [world_state, world, background, lore, region, history, faction, orthodoxy, menzoberranzan, underdark]
+- name: arcs
+  description: Quest tracking, arc scores, threat trackers, campaign master plan, heat system
+  keywords: [tracking, arc, quest, score, threat, campaign_arc, heat, tripod, endgame, master_plan, custom_tracking]
+- name: mechanics
+  description: Game mechanics, rules, encounter frameworks
+  keywords: [mechanics, rules, encounter, combat, spell]
+- name: dead
+  description: Archived content, resolved threads
+  keywords: [dead, archived, finished, resolved]
+- name: general
+  description: Top-level docs that don't fit a specific room
+  keywords: []

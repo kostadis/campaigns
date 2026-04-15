@@ -1,0 +1,32 @@
+# Chapter 18.4 The Flumph Trauma Dump
+
+*The Flumph was traumatized by the entire battle scene. Fortunately, it found a willing receptacle for a trauma dump that we share here.* 
+
+Oh\! Oh, thank goodness, a fresh mind\! You have to listen, you just *have* to, I feel like I'm going to burst\! It was... it was just the most awful, chaotic, LOUD thing I have ever had to feel\!
+
+So there they were, my heroes\! Standing before the mean lady-derro, Plinki. And the orc-cleric, Grygum, was trying to talk to her, something about choice and dragon gods. His thoughts were so... earnest and golden-yellow\! But Plinki, her mind was just a screeching, red mess of "Sacrifice\! Power\! For the Big Baboon Demon\!"
+
+Then everything went wrong all at once\! *Flumph\!* Sharp little pings of malice from the dark\! The nice lady-dwarf, Eldeth, her thoughts just went *AAAAH-PAIN\!* and it was like gEttin g stabbed with a rusty-tasting needle\!
+
+And then Zalthir—oh, Zalthir, the quiet, scaly one, his mind is usually like a still, cool pond, you know? But he just decided—no more light\! *FWOOMP.* And the whole world went psychically gray and muffled\! It was like trying to taste soup through a wool blanket\! I couldn't get a clean read on *anything\!* Just jumbled bits of "Where are they?\!" and "Kill them\!" It was so confusing\!
+
+The Dwarf, Thorin, he just charged right into that black cloud. His mind was a simple, bright axe-blade of "HIT THE BAD THING." Very pure, but so loud\!
+
+But then the *other* floaty-eye-thing came\! Ugh\! It's mind tasted like curdled milk and mindflayer static\! But Daz, the clever Drow, his thoughts are like a spiderweb, all intricate and patient. He said, "Maximilian's Earthen Grasp," and the ground just reached up with a big muddy thought and *SQUEEZED* the eye-thing\! Oh, the rage\! The indignation\! The *squeezed* feeling\! It was horrible\!
+
+And Zalthir\! He was in the middle of it all\! His thoughts weren't shouting like the others. They were sharp and cold, like little shards of ice. I heard him think, *"The leader is the lynchpin. Neutralize Plinki."* And then he opened his mouth and the thought turned into ROARING-HOT-AGONY-FIRE\! Plinki's mind just... went out. Like a candle flame. A bright, nasty, red shriek and then... nothing. A void. It was so sudden it made me flinch\!
+
+All her little followers felt it, and their minds just shattered into a million panicked pieces\! And that's when Zalthir... oh, it was fascinating and awful\! He moved so fast\! I heard him think, *"This one is the most dangerous. Their skill is a threat."* and he just... grabbed the thief-derro\! The thief's surprise was a sharp, lemon-zest tang of "What-?\!" and then Zalthir, so silent, so focused, *threw him off the ledge\!* The feeling of falling, the brief moment of weightlessness, was followed by a CRUNCH of pain that tasted like biting on stone\! Then Zalthir was on him, and it was just... *thud, thud, thud.* No anger, no rage, just... methodical dismantling. The psychic texture of it was terrifying\! It was like watching a glacier move, unstoppable and silent.
+
+And the poor ghost, Pelek, he tried to get in the thief's head\! It was like trying to pour hot tea and cold water into the same cup, all sizzle and steam and wrongness\! The thief's mind was like a fortress and just pushed him out\!
+
+The battle was just a soup of ugly feelings after that\! The wizard, Daz, his mind went all silvery and he just... wasn't there anymore\! A little psychic *poof* and then he was by the egg, and the anxiety coming off him was a physical wave\! *"Get it, get it, get it, get out\!"* his thoughts screamed. He grabbed the egg and *poofed* away\!
+
+And all the other derro felt it at once\! Their minds exploded in a chorus of "WHERE IS THE EGG?\! THE EGG\! WHO HAS THE EGG?\!" It was a psychic tsunami of panic\! I felt it wash all over me\!
+
+They just... fell apart after that. Zalthir and Thorin were a wall of quiet violence and loud violence. Zalthir was like, *"This one is off-balance. Strike here."* And then, *whump*, another one gone. He never wasted a thought, never wasted a move. So efficient\!
+
+*(The Flumph shudders, its glow flickering before settling into a soft, exhausted teal.)*
+
+...Phew. Oh, my. That... that really helps. Just gEttin g it all out. It was just so much. But now... now I feel much lighter. Thank you. Thank you for being such a good, quiet place for all that... noise.
+
