@@ -1,0 +1,97 @@
+Grundar Quartzvein, driven by a deep-seated desire for **revenge against House Sotorra** and to finally bring his brother **Brundar Quartzvein back from the Demonweb pits** [1], will increasingly leverage and exploit existing planar leakage and instability within the campaign world. His secretive nature as the true leader of the Svirfneblin rebellion [1] means his actions will be subtle at first, escalating into direct planar manipulation.
+
+To track Grundar's progress and the party's proximity to his machinations, a **"Brundar's Echo" Score** (0-10) can be used, similar to the "Echoes Score" for the Kraken Society [2] or the "Planar Distortion Score" for KP [3]. This score remains hidden from the players but influences the narrative.
+
+\* **Initial State:** The "Brundar's Echo" Score begins at **0**.
+
+\* **Score Increase Triggers:**
+
+\* **+1:** Discovering **subtle evidence of research into planar travel to infernal or abyssal planes**, particularly texts or rituals focused on "retrieving the lost" or "reunion" across planar boundaries.
+
+\* **+1:** Encountering a **minor ritual site** or peculiar anomaly that hints at a focused attempt to breach a specific planar barrier, often leaving traces of brimstone or strange webbing-like energies (reminiscent of the Demonweb Pits).
+
+\* **+2:** Intercepting messages or directly engaging with agents (Svirfneblin or otherwise) **actively seeking specific components or obscure knowledge for a planar retrieval ritual**, especially if they mention "Demonweb Pits" or "Lolth's domain" [1, 4].
+
+\* **+2:** Uncovering a **clandestine operation to exploit existing planar leakage points**, such as those inadvertently caused by KP's experiments [3, 5] or the Drow's inter-planar portal [4], for the express purpose of summoning or retrieving an individual.
+
+\* **+3:** Witnessing a **"failed" retrieval attempt**, where something other than the intended target (or a horribly corrupted version) comes through the planar breach, causing localized chaos.
+
+\* **+4:** Directly confronting **Grundar himself or a high-ranking agent** actively performing a major ritual designed to pull Brundar from the Demonweb Pits.
+
+**Interaction with Valphine Sotorra**
+
+Valphine, a former priestess of Lolth turned devotee of Lathander, possesses an **"uncanny eye for detecting intrigue, especially when it means ill for her"** [6]. Her history with House Sotorra, the very house that "painstakingly tortured" and sent Brundar to the Demonweb pits [1], places her in direct opposition to Grundar's vengeful quest.
+
+\* **Initial Perception:** Valphine would likely perceive Grundar's earliest activities as a new form of "intrigue" or a subtle threat, possibly **mistaking them for remnants of Lolth's influence or drow spies** given her past [6-8]. The concept of pulling someone from the Demonweb Pits would deeply resonate with her understanding of dark planar powers.
+
+\* **Growing Suspicion and Personal Stake:** As the "Brundar's Echo" Score increases and more specific clues about "House Sotorra" or "Svirfneblin revenge" emerge, Valphine's suspicion would sharpen. Her **"life is pain" philosophy** [6] might allow her to grimly understand the deep suffering driving Grundar, yet her new devotion to Lathander [9] would push her to oppose the dark means of his quest. The idea of retrieving someone from the Demonweb Pits, a place of immense suffering often associated with Lolth, could be both horrifying and fascinating to her.
+
+\* **Direct Confrontation:** When Valphine realizes Grundar's true target and the extent of his plans, a direct confrontation becomes inevitable. This could lead to a profound moral dilemma for her: Does she side with her former (and likely still morally corrupt) House Sotorra against Grundar, or does she allow him to exact his vengeance against the drow who perpetrated such evil, even if his methods are dangerous and uncontrolled? Grundar, in turn, would see Valphine as a **symbol of the Sotorra family's oppression**, a direct target for his long-held revenge, regardless of her personal change.
+
+**Quests Interspersed Through the Campaign**
+
+These quests aim to weave Grundar's story throughout the existing campaign narratives, allowing for the "Brundar's Echo" Score to increase organically.
+
+**Phase 1: Subtle Whispers of the Lost (Brundar's Echo Score 0-2)**
+
+\* **The Whispering Scholar (Early Phandalin/Leilon):**
+
+\* **Hook:** While the party is engaged with introductory quests in Phandalin (like the "Umbrage Hill Quest" [10] or "Dwarven Excavation Quest" [11]), they encounter a new NPC, perhaps a reclusive **Svirfneblin "researcher"** (Grundar in a disguised form or one of his trusted agents) [1] seeking **ancient texts on "planar resonance" or "memory extraction"** from the outer planes. This scholar is particularly interested in any information on creatures that have *returned* from demonic realms. They might mention a vague "family tragedy" or "lost loved one" as their motivation.
+
+\* **Integration:** This can occur in the Townmaster's Hall [12], Stonehill Inn [13], or Barthen's Provisions [14] in Phandalin. It could subtly intertwine with initial Kraken Society rumors of "memory tampering" [15] or KP's "ambient anomalies" [16], making the true source unclear.
+
+\* **Valphine's Link:** Valphine's **"uncanny eye for detecting intrigue"** [6] would notice the scholar's unusual focus, especially if the research hints at forbidden planar knowledge, reminding her of drow practices. She might instinctively feel a connection to her past.
+
+\* **Erratic Planar Echoes (Umbrage Hill/House of Thalivar):**
+
+\* **Hook:** As the party deals with local threats like the manticore at Umbrage Hill [17], or later investigates the **House of Thalivar's planar beacon** in Leilon [18], they experience unusual, brief phenomena. These might be fleeting **hallucinations of a subterranean prison, phantom screams echoing in Deep Speech**, or momentary distortions where the air smells of sulfur and strange web-like patterns appear on surfaces. These are residual effects of Grundar's early, uncontrolled planar scrying attempts.
+
+\* **Integration:** This can be a random encounter or occur during quests like the "Thalivar's Beacon Quest" [19, 20]. It ties directly to the larger "planar instability" [3] of the campaign.
+
+\* **Valphine's Link:** These echoes would be particularly potent for Valphine due to her drow background and the Demonweb Pits' connection to Lolth [1, 4]. She might experience vivid, painful flashbacks [9], making her believe these are not just random anomalies but deliberate, dark magic.
+
+**Phase 2: The Gathering of Means (Brundar's Echo Score 3-5)**
+
+\* **The Desperate Search for the Ruinstone (Leilon Besieged):**
+
+\* **Hook:** Grundar (or his elite agents) learns about the **ruinstone's ability to "undo deeds"** [21] and believes it can literally reverse Brundar's fate. He will attempt to acquire it during the "Leilon Besieged" quest [19, 22], placing him in direct competition with Iymrith (in Claugiyliamatar's body) [22] and the Cult of Myrkul. The party might encounter Grundar's agents specifically targeting the *ruinstone*, displaying tactics distinct from the other cults.
+
+\* **Integration:** This provides a compelling third faction in the *Leilon Besieged* quest, where the party must contend with multiple groups seeking the same powerful artifact. Grundar's agents might use **illithid-tech weaponry** [23] (salvaged perhaps from Kraken Society discards, unwittingly or through trade) to cause psionic effects, adding to the general confusion and reinforcing the multi-layered conspiracy.
+
+\* **Valphine's Link:** The *ruinstone*'s potential to "undo" past events would stir her, as she might consider if it could "undo" her own past or the fate of her lost family members [6]. The drow-like ruthlessness of Grundar's agents, combined with their focus on the *ruinstone*, would intensify her focus.
+
+\* **The Manipulated Nexus (Connecting to KP's Research):**
+
+\* **Hook:** Grundar's research leads him to identify areas where KP's "multi-planar optimum" experiments [3, 24, 25] have thinned the veil between planes. He seeks to exploit these **unstable nexus points** (such as areas beneath Leilon near the House of Thalivar [5] or the Drowned Gate [26]) to facilitate Brundar's return. The party might find evidence of Grundar's agents attempting to "tune" or "amplify" these distortions.
+
+\* **Integration:** This connects directly to the "Planar Distortion Score" [3] and the long-term consequences of KP's actions. It could manifest as corrupted or unpredictable outcomes during quests related to these unstable areas.
+
+\* **Valphine's Link:** Her growing awareness of the multiverse's fragility would be challenged. The idea of deliberately manipulating planar fabric for personal gain (or vengeance) would be deeply disturbing, forcing her to consider the ethical implications of such power.
+
+**Phase 3: The Gateway Cracks (Brundar's Echo Score 6-8)**
+
+\* **The Ritual of Unearthing (Ancient Ruins/Secluded Caves):**
+
+\* **Hook:** The party is drawn to a secluded, ancient site (perhaps deep within Neverwinter Wood near the Woodland Manse [27] or Circle of Thunder [28], or an untouched crypt in the Mere of Dead Men) by reports of **unnatural energy surges, localized gravity shifts, or strange disappearances**. Upon investigation, they find Grundar or his most devoted agents engaged in a large-scale, intricate ritual to open a temporary gateway to the Demonweb Pits. The ritual is partially successful, and **minor abyssal creatures or distorted reflections of drow/svirfneblin begin to manifest**, creating a chaotic, high-risk combat encounter.
+
+\* **Integration:** This encounter can be a climactic event within any major quest line, revealing the true scale of Grundar's efforts. Adabra Gwynn, in her "Unseen Hand" encounter [29], might inadvertently lead the party to this site, believing it to be "Interventionist corruption," only for the party to uncover the deeper, more dangerous reality of Grundar's plot.
+
+\* **Valphine's Link:** The sight of the abyssal energies and manifestations from the Demonweb Pits would trigger her repressed trauma as a Lolth priestess [1]. She would feel a powerful, almost physical repulsion, but also a dark fascination, forcing her to confront the very essence of the evil she turned away from.
+
+\* **The Demonweb's Gaze (Clues to Corruption):**
+
+\* **Hook:** As Grundar's efforts intensify, the party begins to find definitive **physical evidence of his connection to the Demonweb Pits and Brundar's fate**. This could be a retrieved item from a defeated agent, like a "soulshard" pulsating with both svirfneblin essence and abyssal corruption, or a warped message that explicitly mentions Brundar and his torture at the hands of House Sotorra [1]. They might also encounter **creatures that are clearly corrupted by abyssal energies**, yet bear faint resemblances to svirfneblin or drow.
+
+\* **Integration:** This can be a "found evidence" prop [30] or revealed through interrogation of a captured agent. This can occur in conjunction with encounters with the Drow Empire's planar portal [4] or areas where Mindflayers are active, hinting at a web of interconnected planar exploits.
+
+\* **Valphine's Link:** This is where the personal stakes become undeniable for Valphine. The direct evidence of Brundar's suffering and the grotesque corruption he's undergone would force her to confront the legacy of her former house. She might feel a profound, painful empathy for Grundar's quest for vengeance, even as she recognizes the horror of its outcome. This could challenge her Lathander faith profoundly.
+
+**Phase 4: Brundar's Twisted Return (Brundar's Echo Score 9-10)**
+
+\* **The Unholy Reunion (The Climactic Confrontation):**
+
+\* **Hook:** Grundar successfully pulls Brundar from the Demonweb Pits. However, Brundar is not the brother Grundar remembered. He is **profoundly corrupted by abyssal energies**, perhaps a demonic-svirfneblin hybrid, a mad thrall of Lolth or a lesser demon prince, or even a twisted echo of his former self, driven by pure, unadulterated pain and vengeance. Grundar might be ecstatic, in denial, or immediately realize the terrible price of his success. This leads to a climactic, high-stakes confrontation against Grundar, a corrupted Brundar, and any planar entities that came through with him.
+
+\* **Integration:** This grand finale could occur at a critical planar nexus, such as the Drow Empire's portal in the Abyss [31], a major Mindflayer stronghold (now explained as being isolated by KP's past "optimizations" [32]), or even deep beneath Leilon at "The Drowned Gate" [33], creating a nexus of multiple campaign threats.
+
+\* **Valphine's Link:** This is Valphine's ultimate trial. Seeing Brundar's corrupted form, a victim of her former house's cruelty and now a perversion of Grundar's love, would force her to make a desperate choice. Does she fight him as a monster, or does she attempt to sever the demonic influence and grant him peace, potentially at great personal cost or by risking her own soul? Grundar, consumed by his long-sought vengeance and the chaotic manifestation of his brother, would undoubtedly focus his wrath on Valphine, seeing her as the last vestige of House Sotorra's tyranny. This confrontation would be a brutal and emotionally charged test of her Lathander faith against her Drow heritage.

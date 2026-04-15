@@ -1,0 +1,77 @@
+_refs_initialized: true
+campaign_dir: /home/kroussos/campaigns/Phandalin
+cg_docs_dir: /home/kroussos/campaigns/Phandalin/docs
+cs_chunk_size: 60000
+cs_extract_dir: docs/state_extractions
+cs_input: ''
+cs_output: /home/kroussos/campaigns/Phandalin/docs/campaign_state.md
+cs_synth_only: false
+cs_track_file: /home/kroussos/campaigns/Phandalin/docs/tracking.txt
+cs_track_inline: ''
+distill_chunk_size: 60000
+distill_extract_dir: docs/distill_extractions
+distill_input: ''
+distill_output: /home/kroussos/campaigns/Phandalin/docs/world_state.md
+distill_run: true
+distill_split_chapters: '# Chapter'
+distill_synth_only: false
+global_model: claude-sonnet-4-6
+mt_output: /home/kroussos/campaigns/Phandalin/docs/tracking.txt
+narr_party: /home/kroussos/campaigns/Phandalin/docs/party.md
+nav_session: ③ Scene Extraction
+npc_config: /home/kroussos/campaigns/Phandalin/config/config.yaml
+party_output: /home/kroussos/campaigns/Phandalin/docs/party.md
+party_summaries: ''
+plan_build_summaries: ''
+plan_output: /home/kroussos/campaigns/Phandalin/docs/planning.md
+plan_summaries: ''
+prep_config: config/config.yaml
+query_input: ''
+sd_campaign_state: docs/campaign_state.md
+sd_characters: Vukradin, Soma, Valphine, Brewbarry
+sd_context: 'docs/campaign_state.md
+
+  docs/world_state.md
+
+  docs/party.md'
+sd_examples_dir: /home/kroussos/campaigns/Phandalin/examples
+sd_extract_dir: scene_extractions
+sd_extract_run: true
+sd_narrate_tokens: ''
+sd_output_dir: /home/kroussos/campaigns/Phandalin/summaries/20260325
+sd_party: /home/kroussos/campaigns/Phandalin/docs/party.md
+sd_port: ''
+sd_roleplay_dir: vtt_roleplay_extractions
+sd_roleplay_summary: session-roleplay.md
+sd_session: gm-assist.md
+sd_session_dir: summaries/20260325
+sd_session_name: ''
+sd_session_summary: session-summary.md
+sd_summary_dir: vtt_extractions
+sd_voice_dir: /home/kroussos/campaigns/Phandalin/voice
+sd_world_state: docs/world_state.md
+session_dir: /home/kroussos/campaigns/Phandalin/summaries/20260407
+summaries: ''
+sw_gm_recap: summaries/20260325/gm-assist.md
+sw_ref_count: 0
+sw_ref_path_0: ''
+sw_ref_type_0: GMassistant
+sw_session_dir: summaries/20260325
+sw_vtt_file: summaries/20260325/GMT20260325-035359_Recording.transcript.vtt
+vtt_chunk_size: 50000
+vtt_context: '/home/kroussos/campaigns/Phandalin/docs/campaign_state.md
+
+  /home/kroussos/campaigns/Phandalin/docs/world_state.md
+
+  /home/kroussos/campaigns/Phandalin/docs/party.md'
+vtt_date: ''
+vtt_extract_dir: ''
+vtt_input: GMT20260325-035359_Recording.transcript.vtt
+vtt_no_log: false
+vtt_output: session-summary.md
+vtt_reference_summaries: summaries/20260325/session-Mar 25th, 2026.md
+vtt_roleplay_output: session-roleplay.md
+vtt_session_dir: summaries/20260325
+vtt_session_name: ''
+vtt_summary_run: true
+vtt_synth_only: false

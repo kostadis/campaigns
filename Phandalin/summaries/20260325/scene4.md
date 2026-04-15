@@ -1,0 +1,120 @@
+# gm-assist
+
+
+---
+
+## Vukradin — Confrontation at the Summoning Circle
+
+The orc quarters hit you before you see them — a wet, charred smell like a fire that gave up halfway through the job, and underneath it something organic and deeply unpleasant. Whatever furniture those orcs had brought in, they'd mostly burned for warmth or out of boredom, and what remained was black-rimmed and collapsed inward. I found myself remembering, almost involuntarily, what I knew of how they'd come to be here in the first place.
+
+"Oh, right," I said, to no one in particular, more to myself than to the party, "and then the dragon came and scared them all out, and then they had to go attack all the people."
+
+Which gave me an idea, the way an unexpected chord change gives you an idea.
+
+"Right," I said. "We need to secure Icespire so the orcs can return safely."
+
+Soma looked at me the way she sometimes does — patient, deeply patient, the way someone looks at a student who is almost there.
+
+"Eastern Homeland Reclaiming," she said.
+
+Exactly. The humanitarian framing was better, actually. More accurate. I filed it away.
+
+Then Valphine found the secret door, because Valphine always finds the thing, and immediately I had the same reaction I always have to a detour when there is a destination already identified.
+
+"Why would you want to go over there?"
+
+The dragon was *right there.* We had just opened the door. The dragon was right there.
+
+"We're going to the dragon," I said, as plainly as I could manage. "It's — it's right there, you just opened the door, it's right there."
+
+Valphine peered through and apparently saw nothing of consequence, because she emerged and said, simply, "Let's go to the dragon."
+
+"We're not fucking around," Soma said, which is not how I would have phrased it, but I appreciated the alignment.
+
+We went to the dragon.
+
+---
+
+I heard the ritual before I understood what I was hearing. The sound of it was wrong in the way that a note struck flat in the middle of a quiet room is wrong — not loud, but *incorrect,* in a way that makes your spine know before your mind does. We came up through the stairs and there was the Carver, in the middle of something dark and deliberate, and there was Cryovain, chained, the great white body of the dragon bound by something I could feel more than see — a magical restraint that vibrated at a frequency that set my teeth together.
+
+Brewbarry didn't need a cue. He went in bellowing, red-eyed and enormous, the rage in him already burning by the time his feet hit the floor.
+
+My hand was already at my voice, the spell already forming, the geometry of it already calculated — *how far, where is the center, does the circle fall cleanly over the ritual's focal point* — and then I cast it.
+
+Silence. Not quiet. *Silence.* The kind that removes all sound from a space entirely, that drops like a dome over the summoning circle and swallows the Carver's working whole.
+
+The ritual sputtered. Choked. The wrong-frequency sound cut off like a string snapped.
+
+"Interrupting the ritual!" I heard myself announce — to the room, to my companions, to the version of this that would become a song later, I suppose. "I am saving the world! *Huzzah!*"
+
+"They were intervening," Soma said, very calmly. "You interventionist."
+
+I accepted this.
+
+Then the Carver moved.
+
+Not stumbled, not panicked — *moved.* With complete precision, a single fluid action, out of the silence zone and into open air without drawing a single attack. Legendary, that footwork. The kind of footwork that tells you everything about what you're actually fighting, if you're paying attention.
+
+I was paying attention.
+
+The arcana knowledge arrived with the clarity of a well-notated score: the black obsidian sword at the Carver's hip was not a weapon. Or rather — it was not *only* a weapon. The man was a vessel. The *sword* was the Carver. The sword had always been the Carver. Everything else was clothing.
+
+I processed this in approximately the time it takes to resolve a fermata.
+
+Before I had finished processing it, I cast Hold Person.
+
+The veteran's body locked. Completely. Mid-motion, mid-breath, the limbs seized and he dropped into stillness the way a marionette drops when you let go of the strings — not collapsed, just *stopped.* There.
+
+"He is paralyzed! *Excellent!* Well done, team!"
+
+And then — "He's paralyzed." 
+
+Said again, quieter, because something had changed. Because I had just looked at what was actually in the room and understood what the paralyzed man meant and what it didn't.
+
+The silence spell dropped.
+
+And the sword spoke.
+
+Not through the man. Not through a mouth. Through the space inside my skull, in a voice that had no interest in being pleasant about any of it.
+
+*Coward's magic. You mute the ritual because you lack the strength to shatter the vessel. And now, now I shall have everything I always wanted.*
+
+The chains binding Cryovain dissolved. Not broke — *dissolved,* like they had never had any confidence in their own existence.
+
+"The Carver —" I started. Stopped. Started again. "The sword — the — oh. The Carver is the sword."
+
+"Yeah," Soma said. "The human is just a vessel."
+
+Of course. Of course he was. And the sword — the Carver — had just skipped the ritual entirely, the slow careful consumption it had been building toward, and done the expedient thing instead. Domination. Now. Not controlled, not refined, just — *seized.*
+
+"It's not happy," Soma said, looking at the dragon.
+
+It was not happy. Understatement as a form of art.
+
+"Don't unlock the dragon," Soma said to all of us, unnecessarily, because none of us were reaching for any metaphorical locks, "go, guys —"
+
+"We're gonna talk to it," I said.
+
+Soma looked at me.
+
+"To the dragon," I said.
+
+She continued looking at me.
+
+We were not going to talk to it.
+
+Someone — I think it was a voice from somewhere outside the moment, the information simply arriving fully-formed — made clear that we had three rounds. The sword had seized the dragon but not completely. Three rounds before whatever was left of Cryovain's mind was gone entirely and we were left with a fully-dominated white dragon in an enclosed space.
+
+"Alright," I said. I straightened. There was a silence in me that had nothing to do with the spell — the specific silence of being genuinely, cleanly frightened, the kind I can't talk my way around. I have learned, over time, not to perform composure in those moments. It wastes energy. "That's fine. Let's kill a dragon. It'll be fine."
+
+I looked at Valphine. She was already calculating, I could see it — the way she always is, measuring distance and divine fire and what Lathander's light can do against a thing this large.
+
+"Didn't you always want to kill a dragon?" I said to her. There was something almost genuine in it beneath the bravado. "Isn't this — like, a rite of passage? For the *director?*"
+
+And somewhere in the back of my mind, in the part that never quite stops thinking about composition, a quiet and slightly horrified note: the black obsidian sword that had been glowing purple and vast with accumulated power was now just — a sword. Black. Still. Like something that had emptied itself out completely to get what it wanted.
+
+It had gotten what it wanted.
+
+---
+
+
