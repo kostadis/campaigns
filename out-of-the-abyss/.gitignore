@@ -1,65 +1,14 @@
-# === Git ignores (truly don't belong in version control) ===
+# Mempalace generated files (not for version control)
 entities.json
+mempalace.yaml
+MEMPALACE.md
+
+# Operational / local
+logs/
 .claude/
+
+# OS / system files
 desktop.ini
 *.Zone.Identifier
 gMarkdown
 gdrive
-logs/
-
-# === Mempalace mining exclusions ===
-# These dirs ARE tracked by git (force-added) but excluded from root
-# mempalace mining to prevent double-indexing. They are mined as
-# separate wings via their own mempalace.yaml configs.
-#
-# To add new files: git add -f <path>
-
-# Separate wings (mined independently)
-docs/chapters/
-docs/distill_extractions/
-
-# Pipeline intermediates (not indexed — use file reads)
-docs/planning_extractions/
-docs/campaign_state_extracts/
-docs/party_extract/
-
-# Full module (too large — use 5etools MCP)
-docs/background/
-
-# Unsplit bible (chapters mined separately in narrative wing)
-docs/The Underdark.md
-
-# Working/staging area (not canon yet)
-notes/
-
-# Party PC files (PCs, not NPCs)
-docs/npcs/daz.md
-docs/npcs/grygum.md
-docs/npcs/thorin.md
-docs/npcs/zalthir.md
-
-# PC backstory/sheet files
-docs/daz.md
-docs/daz_backstory.md
-docs/grygum.md
-docs/grygum_backstory.md
-docs/thorin.md
-docs/thorin_backstory.md
-docs/zalthir.md
-docs/zalthir_backstory.md
-
-# Pipeline rendering inputs
-voice/
-examples/
-
-# Raw session data
-summaries/
-
-# Tooling & config
-config.yaml
-ui_config.yaml
-*.sh
-lib/
-
-# Generated docs
-MEMPALACE.md

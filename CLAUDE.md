@@ -74,7 +74,7 @@ $MP search "query" --wing narrative    # search a specific wing
 $MP status                             # shows all wings across all campaigns
 ```
 
-**Order matters:** mine subdirectory wings before root to avoid double-mining. Root `.gitignore` excludes subdirs from root mining.
+**Order matters:** mine subdirectory wings before root to avoid double-mining. Root `.mempalaceignore` (or `.gitignore` fallback) excludes subdirs from root mining. Prefer `.mempalaceignore` to decouple mining exclusions from version-control concerns.
 
 ## MCP Servers
 
