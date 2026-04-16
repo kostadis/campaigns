@@ -163,8 +163,9 @@ timeline snapshots and current dossiers.
 
 ## Step 3: Set Up Exclusions
 
-Create `.gitignore` in the campaign root. Mempalace respects gitignore during
-mining.
+Create `.mempalaceignore` in the campaign root. Mempalace reads `.mempalaceignore`
+first; if absent, it falls back to `.gitignore`. Using `.mempalaceignore` decouples
+mining exclusions from version-control concerns (see `~/src/mempalace/docs/MEMPALACEIGNORE.md`).
 
 ### Always exclude:
 - `summaries/` — raw session data (synthesized elsewhere)
@@ -288,8 +289,8 @@ $MP mine <campaign_dir>/docs/chapters               # narrative
 $MP mine <campaign_dir>                              # campaign reference
 ```
 
-**Order matters:** Root's `.gitignore` excludes subdirs to prevent
-double-mining. Mine subdirs first.
+**Order matters:** Root's `.mempalaceignore` (or `.gitignore` fallback) excludes
+subdirs to prevent double-mining. Mine subdirs first.
 
 ---
 
