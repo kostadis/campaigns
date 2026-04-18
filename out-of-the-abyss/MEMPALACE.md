@@ -223,3 +223,74 @@ provides these tools:
   in the narrative wing may be weighted toward this chapter.
 - The Phandalin campaign's mempalace shares the same palace DB. Status shows
   both campaigns' wings. This is expected — each wing is namespaced.
+
+---
+
+## Operational Rules (Adopted from Prior Underdark Campaign)
+
+Carried over from the Insight_Transfer workflow. These extend the repo-level
+`campaigns/CLAUDE.md` conventions with OOTA-specific hygiene.
+
+### Mining Priority Order
+
+When re-mining after changes, mine in this order:
+
+1. **High-signal canon set** (mine first whenever canon changes):
+   - `docs/canon_guardrails.md`
+   - `docs/decision_ladders.md`
+   - `docs/campaign_design_frame.md`
+   - `docs/risk_levers.md`
+   - `voice/vizeran_voice.md` and any new voice files
+   - `docs/npcs/vizeran_devir.md`, `docs/npcs/vizeran_blink_clues.md`
+2. **Active play set** (mine next, when touched):
+   - `docs/gauntlgrym/*` (faction assets and scene packets)
+   - `docs/campaign_master_plan.md`
+   - `docs/background/post_oota_vhaerun_arc.md`
+   - Modified NPC dossiers
+3. **Noise-risk set** (mine last or never — large dumps and backlogs):
+   - `docs/Out of the Abyss.md` (published module — prefer 5etools MCP)
+   - `docs/The Underdark.md` (source bible — chapter splits already mined)
+   - Bulk chapter backlog when not actively referenced
+   - Files in `notes/imported_underdark/` (staging — do not mine until promoted)
+
+### Re-Mine Triggers
+
+Re-mine immediately when any of these happen:
+
+- A `canon_guardrails.md` constraint is added, removed, or revised.
+- A voice file changes (player correction or new villain voice added).
+- A decision ladder jumps a stage on-screen (new Stage 4 content is durable canon).
+- A new Gauntlgrym asset or faction-pitch doc is added.
+- A branch doc is promoted from `notes/` to `docs/`.
+- A major new chapter file lands in `docs/chapters/`.
+
+Do not re-mine for minor typos, whitespace, or unchanged-content reformats.
+
+### Validation Checklist After Each Mine
+
+Run all four after every mine, before relying on the palace for session prep:
+
+- [ ] `mp status` shows increased drawer count proportional to what changed.
+- [ ] Sanity query returns the newest canon change. Example targets:
+  - `"canon guardrails"` → `docs/canon_guardrails.md` first
+  - `"Vizeran voice"` → `voice/vizeran_voice.md` first
+  - `"Daz identity reveal"` → `docs/decision_ladders.md` first
+  - `"faction asset"` → `docs/gauntlgrym/...` in top results
+  - `"risk lever"` → `docs/risk_levers.md` first
+- [ ] No duplicate concept answers with conflicting names (e.g., both old and new master-plan files ranking at the top).
+- [ ] Search for a previously-stable query still returns the same top file. Drift here means the new content is crowding out correct canon.
+
+### Canon Safety Pipeline
+
+`notes/imported_underdark/` → human review → promotion to `docs/` (or merge
+into existing docs/ file) → mine. **Nothing in `notes/` should be mined** —
+by convention, the `.mempalaceignore` (or `.gitignore` fallback) excludes
+`notes/` from root mining.
+
+### Import Quality Rule
+
+Before adding any new file to `docs/`, ask:
+
+> **"Will this improve next-session decisions, preserve canon consistency, or support a live branch resolution?"**
+
+If none of the three, park the file in `notes/` and re-evaluate later.

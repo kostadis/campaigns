@@ -1,0 +1,7 @@
+## Harbin Wester
+
+Harbin Wester was referenced by the party as having warned them that the people of Phandalin might need to evacuate to Axelholm if dragon attacks became imminent. This context established the stakes for the party's mission to open and clear the fortress. He did not appear in person during this session.
+
+## Out-of-Phase Dwarves (Axelholm Inhabitants)
+
+The former dwarven inhabitants of Axelholm emerged as the primary antagonists of the session. They had been transformed by a planar anomaly within the fortress into grotesque out-of-phase beings with parchment-like skin covered in shifting ink, gold coins embedded in their flesh, and mouths sewn shut with golden wire or red tape. Their limbs appeared to multiply and move out of phase with reality, giving the impression of six hands and six legs. They muttered constantly about efficiency, their minds broken by the transformation. In combat they demonstrated the ability to paralyze victims by inflicting the sensation of being packaged in a box, sealed, and delivered like an object. One such attack nearly killed Soma after she was swarmed in her paralyzed state. A voice associated with their paralysis effect told Brewbarry he was "incorrect packaging" when he briefly experienced cold storage before breaking free. More of these creatures materialized from the unnatural light as battle progressed. At the session's cliffhanger end, one dwarf successfully paralyzed Soma again in her bear form, leaving her vulnerable. Their current status is active and hostile within Axelholm.

@@ -1,0 +1,19 @@
+## Cryovain
+
+Cryovain, the white dragon of Icespire Hold, was discovered by Soma during her spider-form scouting of the fortress roof. He was chained at the center of a summoning circle, his scales gone the color of old ice left too long in shadow, his eyes hollow and wrong — not unconscious but held, dominated. Soma noted his nose appeared physically altered or missing. Despite his bound state, she recognized something seething underneath the stillness: a compressed, mindless rage that had gone past coherent intent. He was not waiting or biding time — if freed, he would destroy everything within reach without thought or choice.
+
+The Carver's black obsidian sword was revealed to be the true intelligence behind the ritual performed over Cryovain. When Vukradin paralyzed the human vessel and the silence spell dropped, the sword spoke directly into the party's minds, declaring it would take everything it had always wanted. It dissolved Cryovain's chains entirely — not breaking them but dismissing them — and seized direct domination over the dragon. The party was warned they had approximately three rounds before Cryovain's mind was consumed entirely.
+
+In the ensuing battle, Cryovain attacked with a full cone of frost breath that hit Brewbarry directly, pushing through his armor and rage to find softer places underneath. Brewbarry landed two clean strikes with the Dragon Slayer Sword in return, and the dragon was also struck by Valphine's radiant light and Vukradin's critical thorn whip hit. After taking damage, Cryovain beat his wings and lifted thirty feet into the air above the battlements, pulling out of melee reach.
+
+The party debated whether killing the Carver's vessel would dissolve the chains and release an uncontrolled dragon, and whether the dragon might show gratitude if freed. Soma was categorical that his eyes showed he was not a sane creature and would not reason. Last known status: airborne above Icespire Hold's battlements, actively hostile, partially dominated by the Carver sword, with the domination still consolidating.
+
+## The Carver
+
+The Carver is not a person. The black obsidian sword — glowing purple with accumulated power — is the Carver. The human veteran accompanying it was revealed to be merely a vessel, a body wearing the intelligence and will of the sword. This information arrived to Vukradin through arcana knowledge during the confrontation at the summoning circle.
+
+The human vessel was performing a ritual over the chained Cryovain when the party arrived. The ritual was interrupted by Vukradin's Silence spell, which dropped like a dome over the summoning circle and choked the working entirely. The vessel then moved with precise, legendary footwork — stepping cleanly out of the silence zone without drawing attacks — demonstrating the kind of tactical competence that told Vukradin he was fighting something exceptional.
+
+Vukradin then cast Hold Person, paralyzing the human vessel completely mid-motion. With the vessel stopped and the silence dropped, the sword spoke directly into the party's minds: *Coward's magic. You mute the ritual because you lack the strength to shatter the vessel. And now, now I shall have everything I always wanted.* Rather than continue the slow ritual of consumption it had been building toward, it dissolved Cryovain's chains immediately and seized direct domination over the dragon — the expedient solution, bypassing its own careful preparation.
+
+After completing this domination, the sword went visually inert: no longer glowing purple, simply black and still, as though it had emptied itself entirely to achieve what it wanted. The human vessel remained paralyzed on the floor of the summoning circle. Last known status: sword inert and apparently spent, vessel paralyzed, dragon domination in progress with approximately three rounds to full consolidation at time of battle.

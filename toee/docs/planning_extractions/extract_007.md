@@ -1,0 +1,1 @@
+No session content is available to extract from. The notes indicate "Events were not recorded" for Chapter 05 — no NPC, faction, or threat arc data can be derived from this entry.

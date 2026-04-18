@@ -1,0 +1,23 @@
+## Soma
+
+Soma left her clutch behind and transformed into a bear to scout the concealed orc ahead of the party. She noticed the orc making hand signals to the north, east, and west, and identified the clearing beyond as an ambush site. When Brewbarry stumbled and gave away their position, she climbed a tree and attacked the scout, biting his foot despite missing with her claws. She took an arrow from the scout in retaliation. During the fight she leaped from a branch to shove the scout toward the other orcs, cast Moonbeam (to Valphine's contempt), struck one of the orcs, and clamped her jaws down on the orc with the necklace of bones, mortally wounding him. Brewbarry questioned her about attacking a fleeing creature, implying she had shown prior reluctance to do so.
+
+## Valphine
+
+Valphine led the march and was first to spot the poorly concealed orc scout in the bushes. She remarked that orcs make fine slaves. During the battle she fired her crossbow repeatedly, missing several times before landing a hit. She expressed open contempt for Soma's Moonbeam, comparing it unfavorably to sunlight and Lathander's searing pain. She noted that the fleeing orc scout appeared to recognize her as a Drow worshipping Lathander and panicked. After the battle she pursued the fleeing scout into the forest but lost him, as the surface terrain gave him equal visibility. Upon returning she interrogated the captured orc with the necklace alongside Brewbarry, and upon hearing his account of orc cultists of Talos, she asserted dominance by declaring he now worked for the party. She reflects on her Underdark instincts — sacrifice, hunting prey, the thrill of killing — and her ongoing adjustment to Lathander's expectations.
+
+## Brewbarry
+
+Brewbarry pulled the supply cart intended for Tribar Wester and, after the Falcon Hunter filled it with alcohol, refused to let anyone else touch it. During the ambush, he stumbled through the woods and gave away the party's position. He picked up a javelin thrown at him and snapped it in two. He became enraged when the orc with the necklace attacked Valphine and swung his halberd in a wide arc to defend her, though he missed. He insulted the orc by calling him a shrimp, leaving the creature genuinely confused. After the battle he took charge of the prisoner, naming him "Shrimpy," binding his hands to the cart, and forcing him to pull it. He reassured Vukradin that Tribar Wester would be found. Brewbarry's reaction to the orc's lament about being exiled from his clan triggered a personal memory of his own exile, and he was briefly moved that the orc's clanmates showed loyalty the orc scout lacked.
+
+## The Orc with the Necklace of Bones (Shrimpy)
+
+An orc raiding party member wearing a necklace of bones. He threw a javelin at Brewbarry, attacked with a scimitar, and screamed at the charmed orc for attacking his "brother's nephew." He attacked Valphine after identifying her as a Drow. He was mortally wounded by Soma and captured by Brewbarry and Vukradin. Under interrogation he revealed that his tribe had been driven from their home near the Ice Spires in the Sword Mountains by a white dragon during the wars of dragons and giants, and had fled to a valley. He stated their chief had allied with half-orc cultists of Talos, which he opposed on principle, believing orcs should work only for orcs. He expressed this as independence, not cowardice. He agreed to serve the party after Brewbarry threatened his life. He is currently bound to the supply cart, pulling it, and has been named "Shrimpy" by Brewbarry.
+
+## The Orc Scout
+
+A scout for the raiding party, positioned in bushes ahead of the party on the road into Neverwinter Wood. He climbed a tree when he spotted Soma in bear form and signaled the ambush positions with hand motions. He was berated by the orc with the necklace of bones for being distracted by a bear. Despite a bleeding foot from Soma's bite, he disengaged and fired an arrow into Soma from range. He recognized Valphine as a Drow worshipping Lathander and fled in apparent terror. He briefly stopped to fire at Valphine before fleeing again. Valphine pursued him but he escaped into the forest. Current status: fled, whereabouts unknown.
+
+## Tribar Wester
+
+Not physically present at the logger's camp when the party arrived. The camp along the south shore of the river appeared abandoned — tents on the beach, a standing cabin with stacked logs, older cabins torn down to foundations and stone chimneys. A grim silence hung over the site. Vukradin was counting on finding Tribar Wester here to collect payment. Current status: missing, whereabouts unknown.

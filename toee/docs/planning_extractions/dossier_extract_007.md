@@ -1,0 +1,1 @@
+No named NPCs appear in this session summary, as no events were recorded.

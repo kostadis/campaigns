@@ -1,0 +1,17 @@
+## Romag
+
+Romag is the high priest of the Earth Temple, operating within the Temple of Elemental Evil. He had previously tasked the party with a mission to find gnolls, and upon their return he was pleased to find them alive—Dick Rentsch had apparently wagered they would not survive. When the party reported encountering werewolves rather than gnolls, Romag turned sharply to Dick Rentsch, who admitted that Alremm had arranged the werewolf ambush as a test of new recruits. Romag expressed explicit approval that the party had not fallen for the angelic trap, recognizing their wisdom and caution. He awarded them badges of the Earth Temple and declared they had proven their worth as followers.
+
+The following morning, Romag issued a new mission through Lieutenant Krell: raid the Fire Temple's seized portion of the level, killing as many as possible without unnecessary losses. When the party returned having killed an Earth Temple ogre rather than a Fire Temple one, Romag was furious at the apparent betrayal. He revealed he had already suspected Krell was a spy and had kept him under surveillance. With palpable rage, he commanded the party to capture Krell alive so he could be sacrificed in the Temple of Earth as a warning against treachery. Romag's last known location is his chamber within the Earth Temple's section of the dungeon.
+
+## Dick Rentsch
+
+Dick Rentsch was found sitting beside Romag in the high priest's chamber when the party returned from the werewolf encounter. He had provided the party with a map before their mission but had apparently withheld critical information about what awaited them in the depths, prompting Calmer's frustration at the mission's outset. When the party reported back alive, it emerged that Dick Rentsch had wagered they would not survive, suggesting either genuine doubt in their capabilities or foreknowledge of the dangers. Under Romag's sharp questioning after the party's report, Dick Rentsch admitted that Alremm had hired the werewolves placed in the secret chamber as a test of new recruits. His last known location is Romag's chamber within the Earth Temple.
+
+## Alremm
+
+Alremm is referenced by Dick Rentsch as the person responsible for hiring the werewolves that were placed in the secret chamber as a test of new recruits. Alremm did not appear in person during this session but is identified as having orchestrated the ambush the party survived. No further details about Alremm's role, allegiance, or location are provided in this account.
+
+## Lieutenant Krell
+
+Lieutenant Krell appeared the morning after the party's rest to deliver a mission from Romag: raid a designated location to kill Fire Temple gnolls and tip the balance of an ongoing territorial conflict in the Earth Temple's favor. He described the layout of Earth and Fire Temple gnoll positions and tasked the party with using their superior subtlety compared to gnolls. However, the party discovered upon completing the mission that the creature they killed was an Earth Temple ogre, not a Fire Temple enemy—pointing to deliberate misdirection by Krell. When the party returned to report the betrayal, Krell was conspicuously absent. Romag confirmed he had long suspected Krell of being a spy and had kept him under watch. Romag then ordered the party to hunt Krell down and bring him back alive for sacrifice in the Temple of Earth. Krell's current whereabouts are unknown; he has fled following the exposure of his treachery.

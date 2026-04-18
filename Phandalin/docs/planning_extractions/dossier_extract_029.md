@@ -1,0 +1,19 @@
+## Aletra
+
+Aletra had fled the area before the party arrived to search her quarters, escaping after the interdimensional device collapsed into the void. Her makeshift living space in an old barracks contained a high-quality silk bedroll and a folding Zurkhwood desk covered in modern parchment, identified as belonging to House Xorlarrin's poison operations by the lingering scent of lavender and perfume. A ledger on her desk revealed she had been forging records, crossing out legitimate entries such as "iron for 500 pounds" and replacing them with notations like "Midnight Tears - crate 4 - do not drop." A hidden bag in her quarters contained a small platinum coin, a malachite gem, a bottle of fine wine, and four vials of Midnight Tears poison worth two thousand gold pieces total. Her personal notes in the Operator's Guide to the Model 1489 Spatial Rectification Calliope included the annotation "use only if KP isn't watching," suggesting she was operating with some awareness of oversight, possibly from a figure known as KP. The party took both the forged ledger and the manual as evidence against her. Her current whereabouts are unknown.
+
+## Chief Accountant
+
+The Chief Accountant was encountered by the party after the spatial distortions in the fortress disappeared. She had become calm and relaxed once the disturbances ceased. Upon being told that Aletra had fled and the machine had imploded, she appeared relieved. When the party presented her with an interplanetary bill for forty-two thousand gold pieces, she screamed for approximately ten minutes over its outrageous and incorrect nature. After her outburst subsided, she sighed, declared "The book is closed," and disappeared entirely, apparently at peace now that all accounts were considered settled. Her former room contained a dusty bedroom with moldy mattresses and a soot-stained fireplace. A secret door concealed within the fireplace led to a small room housing an iron chest containing a dread helm and gauntlets of ogre power that had belonged to her. She is deceased and her spirit has departed.
+
+## Harbin Wester
+
+Townmaster Harbin Wester was ecstatic upon the party's return to Phandalin and paid them two hundred fifty gold pieces for securing Axeholm. He clarified, however, that Axeholm was intended only as a last-resort backup plan rather than a new permanent home for the town, disappointing some party members. When Brewbarry approached him wearing the dread helm with glowing red eyes, Harbin Wester nervously asked whether Brewbarry had been possessed by a demon. Vukradin used intimidation to remind him of his position as head of the Privy Council. Harbin Wester then asked the party to deliver cheese to the Mountain's Toe Gold Mine on behalf of Qelline Alderleaf, explaining that no one else was willing to make the trip given ongoing threats from dragons and orcs. He emphasized that the orc pressure on farming communities would continue until the dragon threat was resolved. He was last seen in Phandalin.
+
+## Sir Kaelen
+
+Sir Kaelen spoke briefly with the party before they departed Phandalin. He reminded them about returning a statue, indicating an outstanding obligation the party had not yet fulfilled. Brewbarry persuaded him that the gold mine delivery was a higher priority, explaining his personal need for money to fund a music studio. Sir Kaelen accepted this reasoning for the time being. His current whereabouts are in Phandalin.
+
+## Jenna Roscoe
+
+Jenna Roscoe was present in Phandalin when the party prepared to depart for the Mountain's Toe Gold Mine. She suggested to Brewbarry that he could easily fund his music studio if he were willing to abandon his principles and sell out. Brewbarry declined, insisting on doing things his own way. Her current whereabouts are in Phandalin.

@@ -1,0 +1,43 @@
+{
+  "backup_tarball": "/home/kroussos/campaigns/toee/docs/npcs.backup-20260416-095418.tar.gz",
+  "started_at": "2026-04-16T09:54:18Z",
+  "updated_at": "2026-04-16T09:54:18Z",
+  "clusters_confirmed": [
+    {"files": ["hartsch.md", "harch.md", "harch_hartsch.md"], "canonical": "hartsch.md", "aliases_recorded": ["Harch"]},
+    {"files": ["ostler_gundigoot.md", "ostler.md", "ostler_goodingoat.md", "ostler_goodingoot.md", "osler_goodingoat.md", "osler_goodingut.md", "ostler_goodingoot_osler_goodingut.md"], "canonical": "ostler_gundigoot.md", "aliases_recorded": ["Ostler Goodingoat", "Ostler Goodingoot", "Osler Goodingoat", "Osler Goodingut", "Ostler"]},
+    {"files": ["alremm.md", "alrrem.md"], "canonical": "alremm.md", "aliases_recorded": ["Alrrem"]},
+    {"files": ["thorne.md", "thorne_duke.md", "thorne_the_duke.md", "the_duke.md"], "canonical": "thorne.md", "aliases_recorded": ["The Duke", "Duke"]},
+    {"files": ["lareth_the_beautiful.md", "lareth.md", "larith_the_beautiful.md"], "canonical": "lareth_the_beautiful.md", "aliases_recorded": ["Lareth", "Larith", "Larith the Beautiful"]},
+    {"files": ["albreth.md", "albrith.md", "albrith_albreth.md"], "canonical": "albreth.md", "aliases_recorded": ["Albrith"]},
+    {"files": ["belsornig.md", "canon_belsoring.md", "canon_belsornig.md"], "canonical": "belsornig.md", "aliases_recorded": ["Belsoring"]},
+    {"files": ["tharok.md", "tharok_stevan_tharok_stonevein.md"], "canonical": "tharok.md", "aliases_recorded": ["Tharok Stevan", "Tharok Stonevein", "High Templar Tharok", "High Templar Tharok Stevan"]},
+    {"files": ["brother_eldin.md", "brother_eldin_brother_eldrin.md", "brother_eldren.md"], "canonical": "brother_eldin.md", "aliases_recorded": ["Brother Eldrin", "Brother Eldren", "Eldin", "Eldrin", "Eldren"]},
+    {"files": ["captain_tolub.md", "captain_tolubb.md"], "canonical": "captain_tolub.md", "aliases_recorded": ["Tolub", "Tolubb", "Captain Tolubb"]},
+    {"files": ["hestort_flintshine.md", "hestort_flintshine_tort.md"], "canonical": "hestort_flintshine.md", "aliases_recorded": ["Tort", "Hestort"]},
+    {"files": ["thalsor_of_the_stone.md", "thalsor.md"], "canonical": "thalsor_of_the_stone.md", "aliases_recorded": ["Thalsor"]},
+    {"files": ["glennon_clee.md", "glannon.md"], "canonical": "glennon_clee.md", "aliases_recorded": ["Glannon", "Glannon Clee", "Glennon"]},
+    {"files": ["pasmarie_clee.md", "palsmarie_clee.md"], "canonical": "pasmarie_clee.md", "aliases_recorded": ["Palsmarie", "Palsmarie Clee", "Pasmarie"]},
+    {"files": ["aunt_emma.md", "aunt_emma_green_hag.md"], "canonical": "aunt_emma.md", "aliases_recorded": ["Aunt Emma the Green Hag", "The Green Hag"]},
+    {"files": ["commander_joradin.md", "joradin.md"], "canonical": "commander_joradin.md", "aliases_recorded": ["Joradin"]},
+    {"files": ["lenora_glimmerfield.md", "mistress_lenora_glimmerfield.md"], "canonical": "lenora_glimmerfield.md", "aliases_recorded": ["Mistress Lenora Glimmerfield", "Mistress Lenora", "Lenora"]},
+    {"files": ["aldous_glimmerfield.md", "master_aldous_glimmerfield.md"], "canonical": "aldous_glimmerfield.md", "aliases_recorded": ["Master Aldous Glimmerfield", "Master Aldous", "Aldous"]},
+    {"files": ["quinna_poul.md", "quinna_pool.md"], "canonical": "quinna_poul.md", "aliases_recorded": ["Quinna Pool", "Quinna"]},
+    {"files": ["spugnoir_balkof.md", "spugnoir.md"], "canonical": "spugnoir_balkof.md", "aliases_recorded": ["Spugnoir"]},
+    {"files": ["terjon.md", "prefect_terjon.md"], "canonical": "terjon.md", "aliases_recorded": ["Prefect Terjon"]},
+    {"files": ["captain_vesrek.md", "vesrek.md"], "canonical": "captain_vesrek.md", "aliases_recorded": ["Vesrek"]},
+    {"files": ["serena_velkori.md", "serena.md"], "canonical": "serena_velkori.md", "aliases_recorded": ["Serena"]},
+    {"files": ["madame_selentis_nisera.md", "madame_selentis.md"], "canonical": "madame_selentis_nisera.md", "aliases_recorded": ["Nisera", "Selentis", "Madame Nisera"]},
+    {"files": ["glennddarc.md", "headgnome_glennddarc.md"], "canonical": "glennddarc.md", "aliases_recorded": ["Headgnome Glennddarc", "Headgnome"]}
+  ],
+  "clusters_rejected": [
+    {"files": ["dren.md", "dren_halveth.md"], "reason": "Different NPCs — dren is leader of Crimson Guard (Earth Temple); dren_halveth is captain of Broken Blades (recruited Ch 20)"},
+    {"files": ["dala.md", "dalia.md"], "reason": "Different NPCs — distinct people, similar names only"},
+    {"files": ["krell.md", "lieutenant_krell.md"], "reason": "Different NPCs — krell is dead Earth Temple lieutenant; lieutenant_krell is Fire Temple spy executed by Romag"},
+    {"files": ["rannos.md", "ranos_davl.md", "ranus_duval.md"], "reason": "Three different NPCs — keep all three"},
+    {"files": ["mari_clee.md", "pasmarie_clee.md"], "reason": "Different NPCs — mari_clee is inn co-owner; pasmarie_clee is beekeeper-druid southeast of Sheernobb"},
+    {"files": ["glennddarc.md", "glennon_clee.md"], "reason": "Different NPCs — glennddarc is Headgnome of Sheernobb; glennon_clee is Honey Haven Inn owner"},
+    {"files": ["brother_eldin.md", "constable_eldrin_malavar.md"], "reason": "Different NPCs — brother_eldin is Beory monastery monk; constable_eldrin_malavar is Nulb constable"},
+    {"files": ["brother_eldren.md", "constable_eldrin_malavar.md"], "reason": "Different NPCs — brother_eldren (alias of brother_eldin) is Beory monk; constable is in Nulb"}
+  ],
+  "clusters_deferred": []
+}

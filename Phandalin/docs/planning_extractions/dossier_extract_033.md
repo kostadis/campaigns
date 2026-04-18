@@ -1,0 +1,20 @@
+## Boney
+A sentient bone horse who bonded with Valphine. Present in the northern chamber when Valphine claimed the Dragon Slayer Sword from atop the dragon skull — the exact location Boney had predicted. Watched the sword discovery with quiet amusement. Made a humorous remark that irregularity was no longer a problem for him in his partially-alive state.
+
+## Lady Alagondar's Ghost
+Materialized in the northern chamber after the party secured the Dragon Slayer Sword and defeated the invisible stalker. Did not speak. Stared with hollow, mournful eyes in the direction of the Ice Spire Mountains before fading away. Her gaze prompted Vukradin to recall that the White Dragon dwells in that region. Last seen fading silently from the chamber.
+
+## Xanth
+A centaur, previously identified as someone who offered to lead the party to a group of orcs worshiping Thalos with the promise of conflict-free treasure. Found outside the chamber standing bloodied in the fading light as the sun dipped toward the horizon. Did not speak during this session. Current status: wounded, present at the clearing.
+
+## Sister Kaella
+Stumbled into the clearing outside the chamber with her cloak gone, armor slashed, and gasping for breath. Fell to her knees before the Dragon Slayer Sword and delivered an urgent warning: the Carver was no longer a man but a hollow shell speaking to his blade in a tongue that makes ears bleed, and he was marching on Icespire Hold that very night to bind the white dragon. She warned that if not stopped before completing his dark chant, he would wear the dragon like a suit of armor and burn Phandalin to the ground to test his power. Vukradin, who had long regarded her as an agent of the Carver and a threat, used her weakened state to approach stealthily and paralyzed her mid-warning with Hold Person. Soma and Valphine persuaded him not to kill her outright; she was instead struck with non-lethal blows and knocked unconscious. The party subsequently realized she was the only one among them who knew the location of Icespire Hold — knowledge now locked behind her closed eyes. Last known status: unconscious in the clearing.
+
+## The Carver
+Not present but described in detail by Sister Kaella. Reported to be no longer fully human — described as a hollow shell that speaks to his blade in a tongue that causes ears to bleed. Is actively marching on Icespire Hold on the night of this session with the intent to perform a dark chant to bind the white dragon. His stated plan following that binding is to use the dragon like a suit of armor and burn Phandalin to the ground as a test of his new power. Last known whereabouts: en route to Icespire Hold.
+
+## Jax
+Identified as the last of the Carver's agents. Emerged from the tree line with thugs and a Rot-Tusk Ogre immediately after Sister Kaella was subdued, timing his ambush to exploit that moment. Smiled coldly and thanked Vukradin for dealing with "that little bit of business," indicating he had observed the party neutralizing Sister Kaella and viewed it as advantageous to his own interests. Coordinated the ambush: a net was thrown over Vukradin and Valphine was blinded by dark magic. Was paralyzed by Vukradin's Hold Person spell, rendering him vulnerable to automatic critical hits. Was attacked by Soma in bear form and subjected to Valphine's Spirit Guardians and Brewbarry's critical strikes. Defeated by the combined assault of the party. Last known status: dead.
+
+## Rot-Tusk Ogre
+A hulking member of the Rot-Tusk Ogre clan, a group the party had made enemies of during earlier forest hunts. Fought alongside Jax during the ambush. Was paralyzed alongside Jax by Vukradin's Hold Person spell. Subjected to Valphine's Spirit Guardians and sustained heavy damage while immobilized. Delivered the killing blow absorbed by Brewbarry during the fight. Ultimately slain by Brewbarry. Last known status: dead.

@@ -1,0 +1,6 @@
+# Windows NTFS "downloaded from browser" metadata streams
+*:Zone.Identifier
+
+# Accidental symlinks to filesystem mount points
+/mnt
+/wsl
