@@ -1,8 +1,16 @@
+---
+name: thomas
+aliases: []
+source_extracts: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38]
+---
+
 # Thomas
 
 ## Identity
-- **Role:** Named agent of the Emerald Enclave; one of two agents accompanying Lyra
+- **Role:** Named agent of the Emerald Enclave; one of two agents accompanying Lyra; the oldest of the group
 - **First Appearance:** Stonehill Tavern, where he and Marian joined the party after Vukradin extended an invitation
+
+*Also known as: (none).*
 
 ## Personality & Motivations
 - **Core goals:** Fulfilling his oath to the Emerald Enclave; handling Lyra's situation through proper organizational channels
@@ -13,7 +21,7 @@
 - Drank the beer provided by Spiderman and explained Lyra's situation: she had discovered the ritual independently, acted without bringing it to Enclave leadership, and was motivated by personal ambition and frustration with organizational inaction alongside genuine concern for the Whispering Grove. He confirmed a promotion was tied to the ritual's success.
 - Questioned Valphine about whether she was from the Underdark and expressed shock at her description of self-harm as devotion to Lathander.
 - Firmly advised Vukradin against speaking on Lyra's behalf to her superiors.
-- Declined Vukradin's invitation to join the party, citing his oath to the Emerald Enclave as binding.
+- Declined Vukradin's invitation to join the party, citing his oath to the Emerald Enclave as binding. He and Marian both stated that their oath to the Emerald Enclave bound them.
 - Departed the Stonehill Tavern alongside Marian.
 
 ## Current Status

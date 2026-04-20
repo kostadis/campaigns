@@ -1,165 +1,137 @@
 ## NPCs
 
-**Teega the Smith**
-- Current location: Falcon's Hunting Lodge (as of session end); intends to return to the Wayside Inn
-- Current state: Disoriented, suffering from memory gaps caused by psionic manipulation
-- Recent actions: Explained her background; declined Vukradin's offer of employment; expressed interest in potentially visiting the Church of Lathander later
-- Faction: None currently; formerly under influence of the Kraken cult
-- Revealed motivations/secrets: Was drawn to the Kraken cult by its promise of peace following the endless wars and chaos of the Sword Coast; her mind was psionically rewired, leaving memory gaps and making her susceptible to cult influence; the manipulation was determined not to be the work of Mind Flayers
-
-**Falcon**
-- Current location: Falcon's Hunting Lodge
-- Current state: Active, financially strained
-- Recent actions: Greeted the returning party; proposed giving the party a share in Mountain Toe's Goldmine as a reward in lieu of cash; provided directions to the Woodland Manse; agreed to provide free accommodation for all party members and rescued companions
-- Faction: Neverwinter mining consortium (partial investor)
-- Revealed motivations/secrets: Owns a discounted share in Mountain Toe's Goldmine received in exchange for consulting/scouting work; the investment has strained his finances; expressed preference that the party address the gold mine before the Woodland Manse
-
-**Vukradin**
-- Current location: Falcon's Hunting Lodge, then Woodland Manse (traveling)
-- Current state: Active, uninjured at session end
-- Recent actions: Recounted the tale of Teega's rescue to Falcon; offered Teega a position as blacksmith for the Church of Lathander; convinced Falcon to provide free accommodation; attempted to Silence the Anchorite of Talos during combat (resisted)
-- Faction: Church of Lathander
-
 **Brewbarry**
-- Current location: Woodland Manse clearing
-- Current state: Badly wounded after taking the full force of the Anchorite's lightning bolt
-- Recent actions: Determined the psionic manipulation of Teega was not the work of Mind Flayers; entered a rage and charged the revealed Anchorite (attacks missed); used stone-like endurance to absorb part of the lightning strike; summoned a moonbeam that forced the disguised Anchorite to reveal itself
-- Faction: Party
-
-**Soma**
-- Current location: Woodland Manse clearing
-- Current state: Wounded (struck by lightning bolt)
-- Recent actions: Snorted back at the boars upon arrival; used animal communication to speak with one of the wild boars; successfully wounded the Anchorite of Talos during combat; was struck by the Anchorite's lightning bolt
+- Current location: Logger's Camp, river south shore
+- Current state: Active, uninjured
+- Recent actions: Caught a javelin mid-air and snapped it in two; intimidated orc prisoner; mockingly named prisoner "Shrimpy"; informed prisoner his life was payment enough
 - Faction: Party
 
 **Valphine**
-- Current location: Woodland Manse clearing
-- Current state: Wounded (partially dodged lightning bolt)
-- Recent actions: Attempted to intimidate Teega about her poor life choices; briefly objected to attacking without attempting to parley; struck the Anchorite first with a radiant bolt that tore through its defenses and marked it; partially dodged the Anchorite's lightning bolt
+- Current location: Logger's Camp, river south shore
+- Current state: Active
+- Recent actions: Spotted orc scout; transformed into a bear and climbed tree to attack scout; bit the scout savagely; fired crossbow bolts (mostly missed)
 - Faction: Party
 
-**Shrimpy**
-- Current location: Falcon's Hunting Lodge
-- Current state: Present as a prisoner
-- Recent actions: Delivered to Falcon along with other prisoners
-- Faction: Criminal (no faction specified)
+**Soma**
+- Current location: Logger's Camp, river south shore
+- Current state: Active
+- Recent actions: Deduced the scout was a lookout for an ambush; leaped from cart onto a brigand and shoved him; called down a beam of radiant moonlight engulfing three orcs
+- Faction: Party
 
-**Two Emerald Enclave Guards**
-- Current location: Falcon's Hunting Lodge (agreed to remain two nights)
-- Current state: Resting and recovering
-- Recent actions: Freed from captivity; expressed urgency about reporting back to the Emerald Enclave regarding planar disruptions, mind-manipulating societies, and the cult of Talos; agreed to remain at Falcon's Lodge for two nights
-- Faction: Emerald Enclave
+**Vukradin**
+- Current location: Logger's Camp, river south shore
+- Current state: Active
+- Recent actions: Cast enchantments turning orcs against each other; conjured an illusion causing one raider to fight phantoms until he died; was accused of "drow trickery" by surviving orc raider
+- Faction: Party
 
-**The Drow Woman**
-- Current location: Unknown; departed Falcon's Lodge during the night
-- Current state: Gone
-- Recent actions: Departed the lodge overnight without explanation
-- Revealed motivations/secrets: Previously noted to have an interest in artifacts
+**"Shrimpy" (orc prisoner, true name unknown)**
+- Current location: Logger's Camp, river south shore (bound to party's cart, pulling it)
+- Current state: Captured, bound, alive
+- Recent actions: Was put to magical sleep and captured after attempting to flee; revealed information about his raiding party under intimidation; asked if he would be paid
+- Faction: Independent orc raiding faction
+- Revealed information: His group is an independent raiding party displaced from the Ice Spire of the Sword Mountains by a white dragon; their chief went mad after exile; various factions formed among the displaced orcs
 
-**Anchorite of Talos (at the Woodland Manse)**
-- Current location: Woodland Manse clearing
-- Current state: Wounded; revealed from boar disguise; combat ongoing
-- Recent actions: Disguised as a boar, feeding among pumpkin patches; failed to resist Brewbarry's moonbeam and was forced to drop disguise; shouted to alert others in the manor; unleashed a lightning bolt striking Valphine, Soma, and Brewbarry; successfully resisted Vukradin's Silence spell
-- Faction: Cult of Talos
+**Orc Scout (unnamed)**
+- Current location: Unknown (fled into woods)
+- Current state: Wounded, at large
+- Recent actions: Attempted to conceal himself and signal companions; was attacked and bitten savagely by Valphine in bear form; escaped into the woods
 
-**Talking Wild Boar**
-- Current location: Woodland Manse clearing; fleeing as of session end
-- Current state: Frightened, fleeing
-- Recent actions: Spoke with Soma; complained about new boars that did not respect boar etiquette or pumpkin patch territories; identified the southern boar as suspicious and new; fled upon witnessing the violent revelation of the Anchorite, protesting improper protocol
-- Faction: None
+**Orc Raider (unnamed, compelled by Vukradin)**
+- Current location: Dead
+- Current state: Deceased
+- Recent actions: Was compelled to attack his own scout while screaming insults; accused of treachery by companions; fought illusory duplicates until killed
+
+**Orc Brigand (unnamed, fled)**
+- Current location: Unknown (fled into forest)
+- Current state: Fled, at large
+- Recent actions: Was shoved by Soma; overwhelmed by moonlight beam and surrounding chaos; declared "this was the worst idea he'd ever had" and fled
+
+**Orc Raider (unnamed, scimitar attacker)**
+- Current location: Unknown
+- Current state: Last seen retreating
+- Recent actions: Charged Brewbarry with a scimitar, landed blows, then retreated
+
+**Tibor Wester**
+- Current location: Unknown (absent from Logger's Camp)
+- Current state: Unknown, missing
+- Faction: Unknown (associated with Logger's Camp)
+- Notes: Party needs his signature on a delivery notice to claim payment
 
 ---
 
 ## Factions
 
-**The Kraken Cult**
-- Current goals: Recruiting followers by promising peace amid the chaos of the Sword Coast
-- Recent actions: Psionically manipulated Teega the Smith, rewiring her brain and inducing susceptibility and memory blackouts
-- Relationships: Distinct from Mind Flayers despite use of psionic methods
-- Key members: "The Kraken" (named entity or figurehead, not further described)
+**Independent Orc Raiding Party (Shrimpy's group)**
+- Current goals: Remaining independent; survival
+- Recent actions: Attempted to ambush the party on the forest path; failed; one member captured, one fled, at least one killed, one escaped
+- Relationships: Distinct from the Cult of Talos faction and brigand factions among displaced orcs; displaced from Ice Spire of the Sword Mountains
+- Key members: Shrimpy (captured)
 
-**Cult of Talos**
-- Current goals: Unknown; maintaining a presence at the Woodland Manse
-- Recent actions: Stationed at least one Anchorite in boar-form as a lookout/guard at the Woodland Manse; Anchorite alerted others inside the manor upon being revealed
-- Relationships: Previously encountered by Emerald Enclave guards; Anchorites possess shapeshifting abilities
-- Key members: At least one Anchorite of Talos at the Woodland Manse; further occupants implied inside the manor
+**Cult of Talos (orc faction)**
+- Current goals: Unknown
+- Recent actions: Recruited displaced orcs following the death of the orcs' shaman
+- Relationships: Formed from a portion of the displaced orc population; separate from Shrimpy's independent group and the brigand faction
+- Key members: None named
 
-**Emerald Enclave**
-- Current goals: Reporting back to their order on planar disruptions, mind-manipulating societies, and the cult of Talos
-- Recent actions: Two guards freed from captivity; resting at Falcon's Lodge for two nights before reporting in
-- Relationships: Allies of the party (circumstantially)
-- Key members: Two unnamed guards
-
-**Neverwinter Mining Consortium**
-- Current goals: Resolving the poisoning at Mountain Toe's Goldmine and maintaining operations
-- Recent actions: Falcon's investment has strained consortium finances; proposed giving the party a share of the mine in exchange for resolving the poisoning
-- Key members: Falcon (partial investor with a discounted share)
-
-**Church of Lathander**
-- Current goals: Recruiting skilled workers (e.g., blacksmiths)
-- Recent actions: Vukradin offered Teega a position as blacksmith on behalf of the church
-- Key members: Vukradin
+**Orc Brigands (unnamed faction)**
+- Current goals: Raiding and brigandry
+- Recent actions: Participated in the ambush attempt
+- Relationships: Another faction among the displaced orcs; separate from Cult of Talos faction and Shrimpy's independent group
+- Key members: None named
 
 ---
 
 ## World Events
 
-- The party arrived at Falcon's Hunting Lodge with prisoners, rescued companions (Teega the Smith, two Emerald Enclave guards), and the criminal Shrimpy.
-- Teega the Smith was questioned; she revealed her last memory was working at the Wayside Inn and that she had been drawn to the Kraken cult by promises of peace.
-- The party determined Teega's mind had been psionically manipulated; Brewbarry confirmed the manipulation was not the work of Mind Flayers.
-- Vukradin offered Teega employment with the Church of Lathander; she declined but expressed possible future interest.
-- Falcon reported that Mountain Toe's Goldmine (fifteen miles northeast of Phandalin) had suffered from poisoned waters threatening to shut down operations.
-- Falcon proposed giving the party a share of Mountain Toe's Goldmine as a reward in lieu of cash, contingent on them investigating and resolving the poisoning.
-- The Emerald Enclave guards expressed urgency about reporting to their order but agreed to rest at Falcon's Lodge for two nights.
-- Vukradin convinced Falcon to provide free accommodation for the entire group.
-- The party decided to pursue the Woodland Manse quest (magical boots reward) before the gold mine quest, contrary to Falcon's preference.
-- The Drow woman who had been interested in artifacts departed Falcon's Lodge overnight without explanation.
-- The party departed Falcon's Lodge at 5:00 a.m. and traveled ten miles through the forest to the Woodland Manse without incident.
-- The party arrived at the Woodland Manse, a crumbling two-story manor in a foggy clearing overgrown with thorny ivy, surrounded by wild pumpkins and boars.
-- Soma used animal communication to speak with a wild boar, who revealed that some boars were "new," did not speak proper boar language, and had appeared only a few days prior.
-- The party suspected the new boars were Anchorites of Talos in disguise.
-- Brewbarry summoned a moonbeam on the suspicious southern boar; it failed its resistance and was revealed as an Anchorite of Talos.
-- The talking wild boar fled the scene, protesting the lack of proper protocol.
-- Combat began: Valphine struck the Anchorite with a devastating radiant bolt; Brewbarry's attacks missed; Soma wounded the Anchorite further; Vukradin's Silence spell was resisted.
-- The Anchorite stepped out of the moonbeam and shouted to alert the manor's occupants.
-- The Anchorite unleashed a lightning bolt striking Valphine, Soma, and Brewbarry; Brewbarry took the full force and was left badly wounded; Valphine partially dodged; Brewbarry used stone-like endurance to absorb some damage.
-- The session ended mid-combat with reinforcements likely incoming from within the manor.
+- Brewbarry and Valphine spotted an orc scout concealing himself on the forest path.
+- Soma identified the scout as a lookout for an ambush further north.
+- Valphine transformed into a bear and climbed a tree to attack the scout; the scout panicked, scrambled up the tree, signaled companions to the north, and was bitten savagely.
+- Multiple orcs (raiders and brigands) emerged from hiding and immediately began arguing about the scout's incompetence.
+- An orc raider threw a javelin at Brewbarry; Brewbarry caught it, snapped it in two, and growled at the attacker.
+- Vukradin cast enchantments causing orcs to turn against each other; one compelled raider attacked the scout while screaming insults about his mother.
+- Soma leaped from the cart onto a brigand, shoved him, then called down a beam of radiant moonlight engulfing three orcs.
+- The brigand, overwhelmed, declared it was the worst idea he'd ever had and fled into the forest.
+- An orc raider charged Brewbarry with a scimitar, landed blows, and retreated.
+- Valphine fired crossbow bolts, mostly missing.
+- Vukradin conjured an illusion causing a raider to fight phantom duplicates; the raider was killed by the illusory assault.
+- The surviving raider, calling it "drow trickery," attempted to flee but was put into a magical slumber and captured.
+- The original orc scout escaped into the woods.
+- The party interrogated the prisoner; Brewbarry mockingly named him Shrimpy.
+- Under intimidation, Shrimpy revealed his group's history: displacement from the Ice Spire of the Sword Mountains by a white dragon, the chief's madness, and the fracturing of the orc population into independent factions, Cult of Talos recruits, and brigands.
+- Shrimpy asked if he would be paid; Brewbarry told him his life was payment enough.
+- Shrimpy was bound to the party's cart and forced to pull it.
+- The party arrived at the Logger's Camp on the river's south shore.
+- The Logger's Camp was found completely deserted and eerily silent despite the early morning hour.
+- The party determined they must investigate the disappearance of Tibor Wester and the camp's inhabitants before they can claim their delivery payment.
 
 ---
 
 ## Locations
 
-**Falcon's Hunting Lodge**
-- What it is: A lodge owned by Falcon, used as a base of operations and meeting point
-- What happened there: The party returned with prisoners and rescued companions; Falcon proposed the gold mine reward; the party rested and departed for the Woodland Manse; the Drow woman departed overnight
-- Current state: Occupied by Falcon, Shrimpy (prisoner), two resting Emerald Enclave guards, and Teega the Smith (temporarily)
+**Forest Path (unnamed)**
+- What it is: A dense forest road traveled by the party
+- What happened: Site of the orc ambush; combat took place here
+- Current state: Ambush defeated; one orc escaped into the woods
 
-**Wayside Inn**
-- What it is: A tavern with an attached forge, located on the corner of the High Road and Tribor Trail
-- What happened there: Teega the Smith was last consciously working there before her abduction/blackouts
-- Current state: Unknown; Teega intends to return there
+**Ice Spire, Sword Mountains**
+- What it is: Former home of the orc raiding group
+- What happened: A white dragon displaced the orcs from this location prior to the session
+- Current state: Occupied by or associated with a white dragon; orcs no longer reside there
 
-**Mountain Toe's Goldmine**
-- What it is: A gold mine located fifteen miles northeast of Phandalin, owned by a Neverwinter mining consortium including Falcon
-- What happened there: The mine's waters have been poisoned, threatening to shut down operations
-- Current state: Operations threatened; unresolved poisoning
-
-**Woodland Manse**
-- What it is: A crumbling two-story manor sitting atop a six-foot-high stone foundation, nearly hidden beneath thorny ivy, with a balcony overlooking the main entrance; located ten miles from Falcon's Lodge via forest trail
-- What happened there: The party arrived and discovered boar-disguised Anchorites of Talos; combat erupted after one Anchorite was revealed; the Anchorite alerted inhabitants inside
-- Current state: Combat ongoing; reinforcements from within the manor likely incoming; at minimum one Anchorite wounded outside; further occupants (orcs and half-orcs previously mentioned by Falcon) inside
+**Logger's Camp**
+- What it is: A logging camp on the south shore of a river, featuring tents on a sandy beach, a cabin with stacked logs, and old stone foundations
+- What happened: The party arrived to make a delivery and found it completely deserted
+- Current state: Abandoned and silent; no inhabitants present; Tibor Wester absent
 
 ---
 
 ## Threads & Mysteries
 
-- **Identity and nature of "the Kraken":** The entity or figurehead that promised peace to recruits such as Teega; its goals, location, and full scope of influence are unknown.
-- **Psionic manipulation without Mind Flayers:** Who or what is responsible for the psionic rewiring of Teega's mind, if not Mind Flayers?
-- **Teega's future:** Whether Teega will return to the Wayside Inn safely and whether she will eventually accept Vukradin's offer to join the Church of Lathander.
-- **The Drow woman's departure:** Why the Drow woman interested in artifacts left Falcon's Lodge overnight and where she went.
-- **Mountain Toe's Goldmine poisoning:** Source and cause of the poisoned waters; unresolved and pending investigation.
-- **Woodland Manse combat:** The outcome of the ongoing battle; the number and nature of reinforcements inside the manor; whether there are additional Anchorites disguised as the other boars on the property.
-- **Orc and half-orc occupants of the Woodland Manse:** Their relationship to the Cult of Talos; their numbers and capabilities.
-- **The Emerald Enclave's report:** What consequences follow when the two guards report the planar disruptions, mind-manipulating societies, and the cult of Talos to their order.
-- **Planar disruptions:** Referenced by the Emerald Enclave guards as something requiring urgent reporting; nature and cause unspecified.
-- **Falcon's future business partnership with Vukradin:** Referenced but not detailed.
+- **Disappearance of Logger's Camp inhabitants**: The camp is deserted with no explanation. What happened to the loggers and Tibor Wester?
+- **Tibor Wester's whereabouts**: The party cannot claim payment without his signature on the delivery notice. Where is he and what befell him?
+- **The white dragon of the Ice Spire**: A white dragon displaced the orcs from the Sword Mountains. Its current activities, location, and significance to the broader campaign are unknown.
+- **The orc chief's madness**: The displaced orc chief went mad following exile. The cause, nature, and consequences of this madness are unexplored.
+- **Cult of Talos orc faction**: Orcs joined the Cult of Talos after their shaman was killed. The cult's goals, activities, and power in the region are unknown.
+- **The escaped orc scout**: The wounded scout fled into the woods and remains at large. He may alert other orc groups or return as a threat.
+- **Shrimpy's fate**: The captured orc is currently bound to the party's cart. His long-term disposition is unresolved.
+- **Vukradin identified as "drow"**: An orc raider called Vukradin's magic "drow trickery," suggesting Vukradin's identity or appearance is associated with drow.

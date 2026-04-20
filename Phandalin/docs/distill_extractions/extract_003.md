@@ -1,208 +1,229 @@
 ## NPCs
 
-**Vukradin**
-- Current location: En route to Umbrage Hill (as of 03-01 of Tarkash 1495)
-- Current state: Active, travelling with the party
-- Recent actions: Taunted the mimic during combat; attempted (and failed) magical incantations against it; negotiated reward with the two Kings; performed at Stonehill Tavern; manipulated the two Kings into political conflict over seniority; acquired a magical hat as payment; attempted to negotiate higher pay for the Adabra rescue mission; killed a fleeing bandit; recruited a surrendered bandit into the party; questioned Soma about keeping the druidic scroll
-- Faction: None stated
-- Motivations/Secrets: Wants to build a studio and requires gold to do so; has been seeking the script of a play featuring a demon character named "Bob" that ran in Triboar several years ago; identifies as an Aasimar and considers "poetic license" central to his identity; described as acting "like a good Drow"
+**Vukardin**
+- Current location: Phandalin, Stonehill Inn
+- Current state: Alive, recovering from multiple near-death experiences
+- Recent actions: Travelled from Neverwinter to Phandalin; completed Dwarven Excavation quest; delivered warning to Dazlyn and Norbus; fought orcs in temple ruins; fought ogre on road; attempted to parley with orcs and ogres; played music at Stonehill Inn; collected 50 gp reward from Townmaster Harbin Wester; sold orc equipment at Lionshield Coster
+- Faction: None formal
+- Motivations: Earning money to fund his music; deeply opposed to theft and unlawful plunder; wishes to make "honest coin"; interested in using sending stones for musical compositions
+- Notes: Aasimar bard; twice knocked to 0 HP by orcs; uses Starry Wisp cantrip; carries a clarinet
+
+**Valphine Sortorra**
+- Current location: Phandalin, Stonehill Inn
+- Current state: Alive; was knocked unconscious by friendly fire (Soma's ice knife) during orc fight, healed
+- Recent actions: Followed Vukardin from First Flophouse; joined party; detected multiple secret doors in Abbathor temple; healed Vukardin twice during orc fight; fought orcs and ogre
+- Faction: Church of Lathander
+- Motivations: Drawn to Vukardin as a symbol of celestial good; interested in plunder but constrained by Lathanderite doctrine; views successful scheming favourably; came from the Underdark after Menzoberranzan's fall
+- Notes: Drow cleric of Lathander; formerly of Lolth-worshipping society; escaped the Underdark; had a religious experience upon first seeing the sun; struggles with Lathanderite prohibition on assassination and violence
 
 **Soma**
-- Current location: En route to Umbrage Hill (as of 03-01 of Tarkash 1495)
-- Current state: Active, serving as Vukradin's paid guide; tab owed to her by Vukradin continues to grow
-- Recent actions: Delivered the killing blow to the mimic; looted gold from the room with chests; handed proof of the mimic's death to Fiddlestib and Dabblebob; performed as guide leading the party to Phandalin and then toward Umbrage Hill; transformed into spider form during the bandit ambush; killed a bandit with poison; shouted (in spider-speech) for Brewbarry to let the fleeing bandit go; found a druidic scroll on the bandits; was challenged by Vukradin over keeping it
-- Faction: Naturalist druid tradition (no named faction)
-- Motivations/Secrets: Holds that constructs and extra-planar creatures are abominations and disruptions to the natural order; does not recognise Aasimar or Tieflings as categories; values all life but applies this selectively; desires a new teapot; has not yet been paid by Vukradin
-
-**Valphine**
-- Current location: En route to Umbrage Hill (as of 03-01 of Tarkash 1495)
-- Current state: Active, travelling with the party; was hit by a bandit's ranged attack during the ambush
-- Recent actions: Observed and was amused by Vukradin's political manipulation of the two Kings; advised the Kings that they need "a clear approver structure"; shot a fleeing bandit in the back with a hand-held crossbow during the ambush
-- Faction: Implied Drow or Drow-adjacent background; references to Dark Realms and Drow Noble Houses
-- Motivations/Secrets: Dislikes working for low pay (25 gold to rescue Adabra seemed absurd to her); references a Cleric of Lathander cautioning her; has experience with and contempt for commune-style governance, comparing it to Drow Noble Houses; was momentarily unsettled by a shadow during travel but dismissed it
+- Current location: En route to Gnomengarde, in a narrow mountain valley
+- Current state: Combat with ogre ongoing; targeted as food by ogre
+- Recent actions: Guided party from Neverwinter to Phandalin; led party to Dwarven Excavation site; cast Thorn Whip and poison spray in orc fight; accidentally knocked out Valphine with ice knife; cast poison spray against road ogre; searched ogre corpse; leading expedition to Gnomengarde
+- Faction: Followers of Mielikki (druid)
+- Motivations: Practical; money-motivated; knows the roads well; withheld rumour of white dragon from party initially
+- Notes: Tortle druid; can retreat into her shell; familiar with terrain around Phandalin; has made the journey to Phandalin multiple times
 
 **Brewbarry**
-- Current location: En route to Umbrage Hill (as of 03-01 of Tarkash 1495)
-- Current state: Active; covered in blood after killing a bandit
-- Recent actions: Struggled to free his halberd during the mimic fight; produced handaxes as ranged weapons when prompted; decapitated a bandit during the ambush; pursued a fleeing bandit; dropped his halberd and apologised to the bandit instead of killing him; recruited him into a conversation
-- Faction: Uthgardt (former or outcast); expresses estrangement from them
-- Motivations/Secrets: Was mistreated by the Uthgardt; felt sadness recognising the fleeing bandit as someone who had "lost his tribe"; felt empathy for the bandit's suffering at Uthgardt hands
+- Current location: En route to Gnomengarde, in narrow mountain valley
+- Current state: In combat with ogre; previously sustained club hit from road ogre
+- Recent actions: Followed Vukardin from First Flophouse; fought orcs in temple ruins (killed at least two); entered barbarian rage upon seeing Vukardin downed; fought road ogre; carrying axes taken from dead orcs; used magical bullet found on road ogre against current ogre
+- Faction: Unnamed Uthgardian barbarian tribe (disbanded/destroyed)
+- Motivations: Devoted to Vukardin and his music; prefers Vukardin's music to his tribe's drumming
+- Notes: Uthgardian barbarian; wears tribal tattoos; uses a halberd; tribe was destroyed ("goes boom")
 
-**King Korboz**
-- Current location: The Kings' room (gnome settlement, unnamed)
-- Current state: Active; was fearful during the mimic crisis, recovered after
-- Recent actions: Complained that King Gnercli does not listen to him or believe him; was manipulated by Vukradin into asserting that as senior king he should have preferential treatment; gave the party the magical hat and dismissed them
-- Faction: Dual monarchy (gnome)
-- Motivations/Secrets: Believes he should have seniority as the longer-reigning king; conflict with Gnercli over this is ongoing
+**Toblen Stonehill**
+- Current location: Stonehill Inn, Phandalin
+- Current state: Active proprietor
+- Recent actions: Accepted Vukardin's music as payment for meals; gave Vukardin complimentary beer; warned party about white dragon; asked party about monsters; encouraged Vukardin to check the quest board
+- Faction: None
+- Motivations: Running a successful inn; native of Triboar; came to Phandalin to prospect, stayed to innkeep
 
-**King Gnercli**
-- Current location: The Kings' room (gnome settlement, unnamed)
-- Current state: Active; angered by Vukradin's questioning
-- Recent actions: Defended the dual monarchy system to Vukradin; explained that decisions are made by the best argument, determined together; gave the party the magical hat angrily and dismissed them
-- Faction: Dual monarchy (gnome)
-- Motivations/Secrets: Rejects the concept of seniority between kings; established the dual monarchy explicitly to avoid despotic single-ruler decision-making, particularly in light of a shapeshifter incident; was not originally a believer in the shapeshifter/mimic threat
+**Townmaster Harbin Wester**
+- Current location: Townmaster's Hall, Phandalin
+- Current state: Barricaded inside hall, frightened of dragon
+- Recent actions: Posted quests on job board; paid party 50 gp for completing Dwarven Excavation quest; argued with Vukardin about legality of adventurer plunder; cited Lord Neverember's tax-free plunder guarantee
+- Faction: Town of Phandalin; implicitly aligned with Lord Neverember / Neverwinter
+- Motivations: Personal safety (terrified of the white dragon); maintaining order in Phandalin
+- Notes: Tremulous and cowardly; will not open door if he believes a dragon is present
 
-**Fiddlestib**
-- Current location: Gnome settlement (inventors' area)
-- Current state: Active
-- Recent actions: Received proof of the mimic's death; discussed using the creature's entrails to create a construct; overheard the political debate; declared support for a bicameral legislature with a unitary executive; debated building a tamper-proof voting box with Dabblebob
-- Faction: Gnome inventors (dual monarchy settlement)
-- Motivations/Secrets: Enthusiastic about construct creation; politically opinionated
+**Dazlyn Grayshard**
+- Current location: Dwarven Excavation site, canyon southwest of Phandalin
+- Current state: Present at excavation site after orc threat resolved
+- Recent actions: Received dragon warning from party; offered secondary contract to party; revealed history of the Abbathor temple; provided sending stones as payment; cooked a meal for the party after orcs were killed
+- Faction: Independent dwarf prospectors (partnership with Norbus Ironrune)
+- Motivations: Finding treasure and relics in ancient dwarven ruins; avoiding dangerous creatures inside the temple
+- Notes: Shield dwarf; claimed intention to return found items to rightful owners (veracity unclear)
 
-**Dabblebob**
-- Current location: Gnome settlement (inventors' area)
-- Current state: Active
-- Recent actions: Discussed using the mimic's entrails to create a construct; overheard the political debate; argued in favour of more kings to enable a vote; debated building a tamper-proof voting box with Fiddlestib
-- Faction: Gnome inventors (dual monarchy settlement)
-- Motivations/Secrets: Politically opinionated; competitive with Fiddlestib
+**Norbus Ironrune**
+- Current location: Dwarven Excavation site, canyon southwest of Phandalin
+- Current state: Present at excavation site after orc threat resolved
+- Recent actions: Co-offered contract to party alongside Dazlyn; helped cook meal for party
+- Faction: Independent dwarf prospectors (partnership with Dazlyn Grayshard)
+- Motivations: Same as Dazlyn — treasure and relics from ancient ruins
+- Notes: Shield dwarf
 
-**Adabra**
-- Current location: Umbrage Hill
-- Current state: Presumed alive but in need of rescue; party is en route
-- Recent actions: None directly observed
-- Faction: Unknown
-- Motivations/Secrets: Unknown; rescue is worth 25 gold to whoever commissioned it
+**Linene Graywind**
+- Current location: Lionshield Coster outpost, Phandalin
+- Current state: Active; managing disrupted supply situation
+- Recent actions: Purchased orc equipment (broken axes, hide armour) from party; confirmed trade disruption; shared rumour about strange magic in Neverwinter Wood
+- Faction: Lionshield Coster
+- Motivations: Keeping the Phandalin outpost operational despite supply chain disruption
+- Notes: Master of the Phandalin Lionshield Coster outpost
 
-**The Surrendered Bandit (unnamed)**
-- Current location: Ambush site on the trail to Umbrage Hill
-- Current state: Alive; taken into the party's company
-- Recent actions: Attacked the party with a scimitar (missed); fled in fear; was caught by Brewbarry; revealed information about the Carver and Jax; asked to join the party; was accepted by Vukradin
-- Faction: The Carver's bandit organisation (lower rank); never met the Carver directly; worked under Jax
-- Motivations/Secrets: Claims he is not a bad person; says his village was pillaged and destroyed by the Uthgardt, leaving him with nothing; blames the Carver for his situation
+**Adabra Gwynn**
+- Current location: Stone windmill on Umbrage Hill, a few miles south of Phandalin
+- Current state: Alone; has not been visited by party
+- Faction: Church of Chauntea (acolyte)
+- Motivations: Unknown
+- Notes: Local midwife; subject of the Umbrage Hill Quest (25 gp reward to persuade her to return to Phandalin)
 
-**The Carver**
-- Current location: Unknown
-- Current state: Unknown; described as physically large
-- Recent actions: None directly observed; runs a bandit organisation
-- Faction: The Carver's organisation (leader)
-- Motivations/Secrets: Unknown; the surrendered bandit has never met him directly
-
-**Jax**
-- Current location: Unknown
+**Unnamed Wintershield Guard (Neverwinter)**
+- Current location: Wintershield headquarters, Neverwinter (flashback)
 - Current state: Unknown
-- Recent actions: Served as the surrendered bandit's direct superior within the Carver's organisation
-- Faction: The Carver's organisation (mid-rank)
-- Motivations/Secrets: Unknown
-
-**The Townmaster (Phandalin)**
-- Current location: Phandalin
-- Current state: Active
-- Recent actions: Paid the party 50 gold (for the mimic job); again described himself as a "tasteless morsel for a dragon"
-- Faction: Phandalin civic authority
-- Motivations/Secrets: Recurring self-deprecating remarks about being dragon fodder
-
-**Bob (actor, referenced only)**
-- Current location: Unknown; referenced as having performed in Triboar
-- Current state: Unknown
-- Recent actions: Was the lead actor in a legendary play in Triboar, always dressed as a Demon character; the play ended several years ago
-- Faction: Unknown
-- Motivations/Secrets: None revealed; Vukradin has been seeking the play's script for years
+- Recent actions: Posted adventurer recruitment notice; explained Lord Neverember's hinterland pacification policy to Vukardin; described the 60-day found-property holding process
+- Faction: Wintershield (Neverwinter city watch)
+- Motivations: Recruiting adventurers to pacify the Phandalin hinterland on behalf of Lord Neverember
 
 ---
 
 ## Factions
 
-**The Dual Monarchy (Gnome Settlement)**
-- Current goals: Governing the settlement through consensus between two equal kings
-- Recent actions: Commissioned the party to deal with the mimic threat; paid the party with a magical hat; debated internal governance after Vukradin's provocation
-- Relationships: Employed the party as contractors; employs Fiddlestib and Dabblebob as inventors
-- Key members: King Korboz, King Gnercli, Fiddlestib, Dabblebob
-- Notes: The dual monarchy was established explicitly to prevent despotic single-ruler decision-making; a shapeshifter incident (apparently the mimic or a prior event) is part of the institutional memory; Korboz and Gnercli are now in active conflict over seniority following Vukradin's manipulation
+**Wintershield (Neverwinter City Watch)**
+- Current goals: Recruiting adventurers to pacify the hinterland around Phandalin ahead of formal Neverwinter law establishment
+- Recent actions: Posted adventurer recruitment notices; directed recruits to Phandalin; outlined found-property policy (60-day hold, then split between Wintershield retirement fund and finder)
+- Key members: Unnamed guard (recruiter)
+- Relationships: Acts under Lord Neverember's authority; uses adventurers as proxies for military force
 
-**The Carver's Organisation**
-- Current goals: Unknown; operates as a bandit group
-- Recent actions: A group of bandits under this organisation ambushed the party on the trail to Umbrage Hill
-- Relationships: Hostile to the party; Uthgardt pillaging may have indirectly supplied recruits
-- Key members: The Carver (leader, never met directly by rank-and-file), Jax (mid-rank), unnamed surrendered bandit (low rank, now with party)
-- Notes: The surrendered bandit describes the Carver as physically large; the organisation has a layered structure where lower members do not have direct access to the Carver
+**Lord Neverember / Neverwinter**
+- Current goals: Establishing Neverwinter law and authority in the hinterlands, including the Phandalin region
+- Recent actions: Authorised tax-free plunder for adventurers as incentive for pacification; promised to follow adventurer activity with formal garrison and law
+- Relationships: Employs Wintershield; indirectly directs Townmaster Harbin Wester
 
-**The Uthgardt**
-- Current goals: Unknown
-- Recent actions: Pillaged and destroyed the surrendered bandit's village; mistreated Brewbarry
-- Relationships: Hostile history with both Brewbarry and the surrendered bandit; indirectly responsible for driving people into the Carver's organisation
-- Key members: None named
+**Lionshield Coster**
+- Current goals: Maintaining commercial operations in Phandalin despite supply chain disruption
+- Recent actions: Purchasing salvaged equipment from adventurers; informing customers of disrupted preferred transport network
+- Relationships: Independent merchant faction; previously relied on a fabled internal logistics network now disrupted
+- Key members: Linene Graywind (Phandalin outpost master)
+- Notes: Their "interdimensional supply chain" and preferred transport network have been disrupted by an unspecified cause; now relying on conventional suppliers
 
-**Lathander's Clergy (referenced)**
-- Current goals: Unknown
-- Recent actions: A Cleric of Lathander cautioned Valphine (context unstated)
-- Relationships: Advisory relationship with Valphine
-- Key members: Unnamed Cleric
+**Church of Lathander**
+- Current goals: Spreading the Morninglord's influence; civilising and converting
+- Recent actions: Converted Valphine Sortorra from Lolth worship; instructed her against violence and assassination
+- Relationships: Valphine is an active field agent; internal tension with Valphine over methods
+- Key members: Unnamed cleric who converted Valphine; Valphine Sortorra
+
+**Dwarven Prospectors (Dazlyn & Norbus)**
+- Current goals: Excavating treasure and relics from ancient dwarven ruins in canyon southwest of Phandalin; exploring Abbathor temple interior
+- Recent actions: Discovered ruins; cleared rubble over several months; found nothing of value until recent discovery; hired party to clear interior threats; paid with sending stones
+- Relationships: Hired party on ad hoc basis; no stated affiliation with larger faction
+
+**Uthgardian Barbarian Tribes**
+- Current goals: Unknown; tribes appear to have suffered catastrophic losses ("barbarian incursion" ended)
+- Recent actions: Incursion into lowlands (now ended); Brewbarry's tribe destroyed
+- Relationships: Formerly threatening to Phandalin and the High Road; now pacified
+- Key members: Brewbarry (exile/survivor)
 
 ---
 
 ## World Events
 
-- The party fought and killed a mimic in the gnome settlement on 02-01 of Tarkash 1495.
-- Soma and Vukradin debated naturalist druid philosophy and the nature of Aasimar and Tieflings during the fight.
-- Soma looted gold from a room with chests after the mimic was killed.
-- The party delivered proof of the mimic's death to inventors Fiddlestib and Dabblebob.
-- Fiddlestib and Dabblebob discussed creating a construct from the mimic's entrails.
-- The party was received by King Korboz and King Gnercli and paid with a magical hat.
-- Vukradin deliberately manipulated the two Kings into conflict over the question of seniority between monarchs.
-- Fiddlestib and Dabblebob overheard the political debate and began arguing over preferred governance structures and a tamper-proof voting box.
-- Soma led the party to Phandalin, where the Townmaster paid them 50 gold total (split four ways: 12.5 gold each).
-- Vukradin performed at the Stonehill Tavern in Phandalin.
-- A tavern patron told Vukradin that his performance reminded them of a legendary actor named Bob who performed in a play in Triboar, always dressed as a Demon character; the play ended several years ago.
-- Vukradin expressed desire to do a revival of the play and to obtain the script; the tavern keeper suggested Triboar as the place to find it.
-- On 03-01 of Tarkash 1495, the party set out toward Umbrage Hill to rescue a woman named Adabra for 25 gold.
-- The party was ambushed by bandits on the trail to Umbrage Hill.
-- Soma transformed into spider form during the bandit ambush.
-- Brewbarry decapitated one bandit during the ambush.
-- Valphine was struck by a ranged attack from a bandit during the ambush.
-- Valphine shot a fleeing bandit in the back with her crossbow; Vukradin killed him.
-- Brewbarry pursued a fleeing bandit but chose to drop his halberd and apologise to him rather than kill him, citing shared suffering at the hands of the Uthgardt.
-- The surrendered bandit revealed the existence of the Carver and Jax as his chain of command.
-- Vukradin invited the surrendered bandit to join the party; the bandit accepted.
-- Soma found a druidic scroll on the bandits; Vukradin challenged her about keeping it.
+- **8/3 of Ches 1495**: Vukardin met a Wintershield guard in Neverwinter who explained Lord Neverember's adventurer-based hinterland pacification policy and the Wintershield found-property protocol.
+- **Prior to 1/1 of Taraksh 1495**: Menzoberranzan fell, destroyed by rampaging demons; mass exodus from the Underdark and Dark Realms occurred.
+- **Prior to 1/1 of Taraksh 1495**: Uthgardian barbarian incursion into the lowlands ended; the High Road became safe.
+- **1/1 of Taraksh 1495**: Vukardin quit performing at the First Flophouse in Heapside, Neverwinter; recruited Brewbarry; proposed forming an adventuring party.
+- **1/1 of Taraksh 1495**: Valphine Sortorra followed Vukardin out of the First Flophouse and joined the party.
+- **1/1 of Taraksh 1495**: The party encountered Soma just outside Neverwinter's city limits; she offered to guide them to Phandalin.
+- **8/1 of Taraksh 1495**: Party arrived in Phandalin after an uneventful journey along the High Road and Triboar Trail.
+- **8/1 of Taraksh 1495**: Vukardin performed at the Stonehill Inn in exchange for meals; Toblen Stonehill warned him about the white dragon and directed him to the quest board.
+- **8/1 of Taraksh 1495**: Party visited Townmaster's Hall and reviewed three posted quests; selected the Dwarven Excavation Quest (50 gp).
+- **8/1 of Taraksh 1495**: Party hiked 15 miles to the canyon ruins southwest of Phandalin; camped overnight rather than approaching the temple in darkness.
+- **9/1 of Taraksh 1495**: Party entered the canyon ruins and the Abbathor temple; delivered white dragon warning to Dazlyn Grayshard and Norbus Ironrune.
+- **9/1 of Taraksh 1495**: Dazlyn and Norbus offered a secondary contract — clear threats from inside the temple in exchange for sending stones.
+- **9/1 of Taraksh 1495**: Party entered the Abbathor temple; explored a secret passage and a partially collapsed room with defensive stone blocks.
+- **9/1 of Taraksh 1495**: Party fought a group of orcs inside or near the temple ruins; Vukardin was knocked unconscious twice; Valphine was knocked unconscious by Soma's ice knife; orcs were killed; Brewbarry took the orcs' axes.
+- **9/1 of Taraksh 1495**: Dazlyn and Norbus cooked a celebratory meal for the party; paid them with sending stones.
+- **10/1 of Taraksh 1495**: Party fought an ogre on the road back to Phandalin; ogre was killed; Soma searched the corpse and recovered an item (nature unspecified); Brewbarry recovered a magical bullet from the ogre.
+- **10/1 of Taraksh 1495**: Party returned to Phandalin; collected 50 gp reward from Townmaster Harbin Wester; argued about ethics of adventurer plunder.
+- **10/1 of Taraksh 1495**: Party sold orc equipment (broken axes, hide armour) at Lionshield Coster; Linene Graywind shared rumour of strange magic in Neverwinter Wood.
+- **10/1 of Taraksh 1495**: Vukardin performed again at Stonehill Inn.
+- **1/2 of Taraksh 1495**: Party departed Phandalin heading for Gnomengarde to pursue the Gnomengarde Quest.
+- **1/2 of Taraksh 1495**: Party encountered a second ogre in a narrow valley in the Sword Mountains; combat began; ogre claimed to be the brother of the previously killed ogre; Valphine used a magical bullet (found on road ogre) to knock it prone.
 
 ---
 
 ## Locations
 
-**Gnome Settlement (unnamed)**
-- What it is: A settlement governed by a dual monarchy of gnomes, with an inventor workshop
-- What happened there: The party killed a mimic, collected payment from the Kings, and triggered a political dispute between the two monarchs
-- Current state: The two Kings are now in active conflict over seniority; Fiddlestib and Dabblebob are debating governance structures and a tamper-proof voting box
+**First Flophouse, Heapside, Neverwinter**
+- What it is: A cheap inn and tavern catering to the destitute and those making "darker deals"
+- What happened: Vukardin performed here without success; quit; recruited Brewbarry; Valphine observed and followed
+
+**Wintershield Headquarters, Neverwinter**
+- What it is: Base of operations for the Wintershield city watch
+- What happened: Vukardin met a guard who explained adventurer recruitment policy and found-property procedures (flashback, 8/3 Ches 1495)
 
 **Phandalin**
-- What it is: A town with a Townmaster and a Stonehill Tavern
-- What happened there: Party returned from the gnome settlement; received 50 gold total from the Townmaster; Vukradin performed at the Stonehill Tavern; party heard the tale of the actor Bob and the Triboar play; party took the job to rescue Adabra
-- Current state: Normal; party has departed toward Umbrage Hill
+- What it is: A small mining town of 40–50 log buildings in the foothills of the Sword Mountains; surrounded by older crumbling stone ruins; no walls or garrison; residents are farmers, stonecutters, blacksmiths, traders, prospectors
+- Current state: Functional; threatened by white dragon sightings; previously threatened by orc raids and barbarian incursions (both now past)
 
-**Stonehill Tavern**
-- What it is: A tavern in Phandalin
-- What happened there: Vukradin performed; party heard about the Bob play from Triboar
-- Current state: Normal
+**Stonehill Inn, Phandalin**
+- What it is: A modest two-story roadhouse at the centre of Phandalin; offers lodging and meals
+- What happened: Vukardin performed twice here; party took meals; received white dragon warning from Toblen; directed to quest board
+
+**Townmaster's Hall, Phandalin**
+- What it is: Sturdy stone-walled building with pitched wooden roof and bell tower; houses the townmaster and the adventurer quest board
+- What happened: Party collected quest details; returned to claim 50 gp reward; Vukardin argued with Harbin about ethics of plunder; Harbin is barricaded inside due to dragon fear
+
+**Lionshield Coster Outpost, Phandalin**
+- What it is: Merchant outpost of the Lionshield Coster trading company
+- Current state: Operational but supply-constrained; preferred transport/supply network disrupted
+- What happened: Party sold orc equipment; received rumour of strange magic in Neverwinter Wood
+
+**Canyon Ruins (Abbathor Temple Site), southwest of Phandalin**
+- What it is: An ancient dwarven settlement buried by an avalanche, now partially excavated; at the rear of the canyon is a temple of Abbathor (evil dwarven god of greed) carved into the canyon wall; canyon walls 80 feet high; black stone wall with broken gate at canyon entrance; stone well filled with rubble
+- What happened: Party delivered dragon warning; received secondary contract; explored temple interior via secret door; fought orcs; discovered defensive stone-block room; partially collapsed areas noted
+- Current state: Orcs cleared; temple interior not fully explored; Dazlyn and Norbus remain on site
+- Notes: Temple features granite statues of cloaked dwarves with evil grins; Abbathor worshippers historically appeased god with blood and gemstone sacrifices during solar eclipses; earthquake and avalanche believed to be divine punishment for insufficient sacrifice; oozes rumoured to be present deeper inside
+
+**High Road (Neverwinter to Triboar Trail)**
+- What it is: Main road south from Neverwinter
+- Current state: Safe since end of the barbarian incursion
+
+**Triboar Trail**
+- What it is: Road leading to Phandalin
+- Current state: Less secure than the High Road but passable
+
+**Gnomengarde**
+- What it is: A small network of caves in the Sword Mountains southeast of Phandalin; home to a clan of reclusive rock gnomes known for magical inventions
+- Current state: Not yet reached by party
+- Notes: Subject of the Gnomengarde Quest (50 gp for a useful gnomish invention against the dragon)
 
 **Umbrage Hill**
-- What it is: A named location where Adabra is located
-- What happened there: Nothing yet; party is en route
-- Current state: Party has not yet arrived
+- What it is: A hill a few miles south of Phandalin; site of a stone windmill where Adabra Gwynn lives alone
+- Current state: Not yet visited by party
 
-**The trail to Umbrage Hill**
-- What it is: A narrow rocky trail through hills
-- What happened there: The party was ambushed by bandits affiliated with the Carver; several bandits were killed; one surrendered and joined the party; Soma found a druidic scroll
-- Current state: Post-ambush; party continuing toward Umbrage Hill
+**Neverwinter Wood**
+- What it is: A forest region near Neverwinter
+- Current state: Strange magic reported pervading the wood; navigation confounded; ancient ruins of lost kingdoms obscured within its depths
+- Notes: Mentioned by Linene Graywind as a rumour
 
-**Triboar**
-- What it is: A settlement where a legendary play featuring a demon character named Bob was staged
-- What happened there: The play ran for some time several years ago and then ended; the script is believed to potentially still be findable there
-- Current state: Referenced only; not visited
+**Narrow Mountain Valley (en route to Gnomengarde)**
+- What it is: A 5-foot-wide mountain path between steep walls
+- What happened: Party ambushed by a second ogre claiming to be hungry and demanding to eat Soma; combat ongoing at end of session
 
 ---
 
 ## Threads & Mysteries
 
-- **The Carver**: A large, unnamed criminal boss running a bandit organisation. The party has not met him and knows almost nothing about him. His goals and location are unknown. The surrendered bandit blames the Carver for his situation.
-- **Jax**: A mid-rank member of the Carver's organisation who directly commanded the surrendered bandit. Location and current status unknown.
-- **Adabra's rescue**: The party is en route to Umbrage Hill to rescue Adabra. It is unknown what danger she faces or who commissioned the rescue.
-- **The druidic scroll**: Soma found a druidic scroll on the bandits. It is unresolved whether she will keep it or attempt to return it to its rightful owner.
-- **The Bob play and its script**: Vukradin has been seeking the script of a legendary play from Triboar featuring a demon character named Bob. The script's location is unknown; Triboar is suggested as a starting point. Vukradin expressed desire for a revival.
-- **The shadow on the trail**: Valphine noticed a shadow slipping behind a boulder on the trail to Umbrage Hill and dismissed it. It is unresolved whether this was simply the bandits or something else.
-- **Vukradin's studio**: Vukradin wants to build a studio and is concerned about the pace of gold accumulation. His studio plans have not been elaborated upon.
-- **Soma's unpaid tab**: Vukradin owes Soma payment for guiding services. The amount and terms have not been formalised; Soma is content for now.
-- **Political fallout in the gnome settlement**: Vukradin's manipulation has set King Korboz and King Gnercli against each other over seniority. Long-term consequences for the settlement's governance are unresolved.
-- **Construct creation from mimic remains**: Fiddlestib and Dabblebob expressed intent to create a construct from the mimic's entrails. Soma regards this as the kind of activity that produced the abominations of the north. No further action observed.
-- **The Uthgardt's broader activities**: The Uthgardt are referenced as having pillaged villages and mistreated Brewbarry. Their current activities and location are unknown, but they are a destabilising force in the region.
-- **The Lathander Cleric's caution to Valphine**: A Cleric of Lathander cautioned Valphine about something (implied to be about taking dangerous jobs for low pay, or related to her attitudes). The content and context of this warning are not fully explained.
-- **The surrendered bandit's integration**: The bandit has been informally accepted into the party by Vukradin. His loyalty, reliability, and future role are unresolved.
+- **The White Dragon**: A white dragon has moved into the area around Phandalin and the Sword Mountains. Its lair is unlocated. Townmaster Harbin Wester is terrified of it. Soma withheld knowledge of the rumour from the party during travel. The Gnomengarde Quest exists specifically to find a gnomish invention capable of defeating it.
+- **Abbathor Temple Interior**: The temple was only partially explored. Dazlyn warned of possible oozes deeper inside. The party did not complete a full exploration before leaving. The temple's rooms include a partially collapsed space that may connect to areas not yet accessed. The fate of the contract with Dazlyn and Norbus (sending stones) is unresolved — it is unclear whether it was formally completed.
+- **The Sending Stones**: Dazlyn and Norbus paid the party with sending stones described as worth a lot to the right person. The identity of that person, and the full utility of the stones, is unestablished.
+- **Lionshield Coster Supply Chain Disruption**: The Lionshield Coster's fabled "interdimensional supply chain" and preferred transport network have been disrupted. The cause is unspecified. Linene Graywind confirmed it without elaboration.
+- **Strange Magic in Neverwinter Wood**: Linene shared a rumour that strange magic pervades Neverwinter Wood, confounding navigators and concealing ruins of lost kingdoms. No further detail given. Cause unknown.
+- **Menzoberranzan's Fall**: The great drow city was destroyed by rampaging demons prior to the campaign's present. Valphine and other Underdark inhabitants fled as a result. The full consequences and current state of the Underdark are unestablished.
+- **Lord Neverember's Pacification Plan**: Neverember is using adventurers to pacify the hinterland before sending formal garrisons. The ethical and legal implications are contested (Vukardin's objections). The timeline and scope of formal annexation are unknown.
+- **Item Recovered from Road Ogre Corpse**: Soma searched the body of the first ogre and recovered an unspecified item. Its nature and value are not described.
+- **Brewbarry's Tribe**: Brewbarry's Uthgardian tribe was destroyed ("goes boom"). The circumstances of its destruction and Brewbarry's separation from it are unexplained.
+- **Gnomengarde Quest**: Not yet attempted. Party is en route. Whether the gnomes possess anything useful against the dragon, and the nature of gnomish magical inventions available, is unknown.
+- **Umbrage Hill / Adabra Gwynn Quest**: Not yet attempted. Adabra Gwynn remains alone at her windmill. The 25 gp quest remains open.
+- **The Two Ogres as Brothers**: The second ogre claimed the first was its brother. Whether there are more related ogres in the area is unknown.

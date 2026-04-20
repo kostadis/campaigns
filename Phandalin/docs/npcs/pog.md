@@ -1,3 +1,9 @@
+---
+name: pog
+aliases: []
+source_extracts: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38]
+---
+
 # Pog
 
 ## Identity
@@ -5,8 +11,11 @@
 - Faction: Gnomengarde
 - First appeared when the party arrived at Gnomengarde's entrance; he and his partner Ulla challenged the party to screen for shapechangers
 
+*Also known as: (none).*
+
 ## Personality & Motivations
 - Follows standing orders but shows signs of independent thinking — was genuinely rattled when Vukradin questioned the logic of their screening protocol
+- Appeared genuinely uncertain when challenged on the logic of their standing orders and seemed partially swayed by the argument
 - Appears susceptible to persuasion and responds warmly to music and social engagement
 
 ## History with the Party

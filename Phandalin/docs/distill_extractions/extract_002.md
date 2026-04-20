@@ -1,217 +1,245 @@
 ## NPCs
 
-**Valphine**
-- Current location: Gnomengarde, barrel/cellar room
-- Current state: Combat with mimic
-- Recent actions: Attempted to finish off downed ogre (missed), shot fleeing ogre with crossbow bolt, looted ogre body, climbed into Gnomengarde, accused Pog and Ulla of being shapeshifters, discovered mimic in barrel room
-- Faction: Diplomatic party from Townmaster Harbin Wester
-- Notes: Drow cleric; familiar with shapeshifters and Dark Realms; considered suggesting torture to cure King Korboz; finds gnome inventor debates familiar
+**Konstantinious the 12th**
+- Role: Great Sage; author of the historical excerpt
+- Faction: Unknown
+- Location: Unknown
+- State: Active (author of the document)
 
-**Soma**
-- Current location: Gnomengarde, barrel/cellar room
-- Current state: Combat with mimic; prepared to cast Ice Knife
-- Recent actions: Mocked Valphine's missed attack on ogre, found river leading to Gnomengarde, waded to mushroom islands, climbed cliff wall (required rope assistance from Valphine first), argued with gnome guards, retrieved rope for Valphine to climb, observed inventor debate, accompanied party to cellar
-- Faction: Diplomatic party from Townmaster Harbin Wester
-- Notes: Druid; described as clumsy by Valphine; wanted to taste purple mushroom wine; pragmatist in approach to combat
+**Tiamat**
+- Role: Deity; co-resident of Avernus
+- Recent Actions: Attempted to enter the mortal world using Severin and the Cult of the Dragon as pawns; plan was thwarted
+- Motivation: Believed the plan to enter the world was her own
+- Secret: The plan actually originated with Zariel, not Tiamat
 
-**Vukradin**
-- Current location: Gnomengarde, barrel/cellar room
-- Current state: Combat with mimic; used verbal invectives (bardic enchantment) against the creature
-- Recent actions: Delivered killing blow to fleeing ogre, examined mushrooms on islands, searched behind waterfall for secret room, climbed cliff wall, negotiated entry with Pog and Ulla, navigated to inventors' workshop, triggered and survived rotating crossbow trap, gathered more mushrooms, spoke with Fibblestib and Dabbledob, proposed music as cure for King Korboz, met with Kings Korboz and Gnercli, accepted deal to kill shapeshifter in exchange for Hat of Wizardry, disabled spinning blade trap, returned to entry area
-- Faction: Diplomatic party from Townmaster Harbin Wester
-- Notes: Bard; stated justification for killing fleeing ogre was that "he hated music"; considered killing Facktore but chose to disable device instead; dislikes the mercenary nature of the mission but accepted it for the 50 gold reward
+**Zariel**
+- Role: Archdevil; ruler of Avernus
+- Recent Actions: Found a loophole in the rules of Aos; manipulated Tiamat's attempted entry into the world using the Cult of the Dragon
+- Motivation: Tired of Tiamat's presence in Avernus; had her own separate plans
 
-**Brewbarry**
-- Current location: Gnomengarde, barrel/cellar room
-- Current state: Combat with mimic; halberd stuck in mimic's body
-- Recent actions: Missed halberd swing at ogre, survived ogre axe blow due to barbarian rage, could not run down fleeing ogre, announced himself to gnome guards, secured entry by claiming to be former Uthgardt Barbarian, declared intention to cure King Korboz through talk, charged mimic and wounded it
-- Faction: Diplomatic party from Townmaster Harbin Wester
-- Notes: Uthgardt barbarian (self-described as "used to be one"); possesses mystical resistance that absorbed ogre's blow; wields a halberd
+**Severin**
+- Role: Leader of the Cult of the Dragon
+- Recent Actions: Duped by Tiamat (and ultimately Zariel) into attempting to bring Tiamat into the mortal world; plan was thwarted
+- Faction: Cult of the Dragon
 
-**Pog**
-- Current location: Gnomengarde, guard post at cave entrance
-- Current state: Active, on guard duty
-- Recent actions: Challenged party in Gnomish, debated with Ulla over whether party were shapeshifters or Uthgardtians, permitted party to pass, argued with Ulla after Valphine accused them of being shapeshifters
-- Faction: Gnomengarde
-- Notes: Male gnome; Ulla noted he looked "a little bit different" in recent days (possibly suspect)
+**The All-Father (God of Giants)**
+- Role: Deity; god of giants
+- Recent Actions: Pursued a plan to make the North a giant-ruled territory; plan was thwarted; his chaos nearly allowed a Great Ancient Blue Dragon to destroy the giant kingdoms
+- Motivation: Desired giant dominance over the North
 
-**Ulla**
-- Current location: Gnomengarde, guard post at cave entrance
-- Current state: Active, on guard duty; accused Pog of looking different
-- Recent actions: Challenged party, debated entry with Pog, granted party passage based on bureaucratic uncertainty about Uthgardt standing orders, told party to go to inventor workshop via the hanging bridge, warned about rotating blade trap requiring Mage Hand, gave alternate directions through northern hallway when party lacked Mage Hand, turned on Pog after Valphine's accusation
-- Faction: Gnomengarde
-- Notes: Female gnome guard; cited two standing orders—attack shapeshifters, and (disputed/lapsed) attack Uthgardtians
+**Ilymrith**
+- Role: Great Ancient Blue Dragon
+- Recent Actions: Nearly destroyed the kingdoms of the giants; escaped after plans were thwarted
+- State: At large; location unknown
 
-**Facktore**
-- Current location: Unknown within Gnomengarde (fled)
-- Current state: At large; fled after party disabled his device
-- Recent actions: Tested his rotating crossbow device on Vukradin and companions; fled the scene
-- Faction: Gnomengarde
-- Notes: Described as a "deranged gnome" inventor; created a rotating platform with four auto-reloading heavy crossbows
+**KP (Sage)**
+- Role: Sage; agent active during the giant conflict
+- Recent Actions: Acquired a piece of an unnamed artifact
+- Faction: Unknown
+- State: Active
 
-**Fibblestib**
-- Current location: Gnomengarde, inventors' laboratory/workshop
-- Current state: Active; working on cure for King Korboz
-- Recent actions: Dismissed the dragon threat as secondary concern, proposed a "sanity ray" as cure for King Korboz, argued with Dabbledob, offered to build a non-standard piano for Vukradin, explained the disappearance of Warren and Orrin to the party, laughed about the rotating blade trap
-- Faction: Gnomengarde inventors
-- Notes: Claims to be one of Gnomengarde's foremost inventors; created the rotating blade trap; in dispute with Dabbledob over treatment approach; invented the spinning blade room
+**Hekaton**
+- Role: Storm Giant King
+- Recent Actions: Created an alliance between giants and the peoples of the Realms
+- Faction: Giants / Storm Giants
+- State: Active
 
-**Dabbledob**
-- Current location: Gnomengarde, inventors' laboratory/workshop
-- Current state: Active; working on cure for King Korboz
-- Recent actions: Argued with Fibblestib, proposed a straitjacket as cure, acknowledged music has helped in some circumstances, rolled eyes at Fibblestib's comments
-- Faction: Gnomengarde inventors
-- Notes: Female gnome; one of Gnomengarde's foremost inventors; opposed to Fibblestib's sanity ray proposal
+**Lolth**
+- Role: Deity; goddess of the Drow
+- Recent Actions: Manipulated Gromph Baenre into casting a spell that weakened planar bonds, allowing demon lords into the Underdark; executed a multi-century contingency plan while trapped in a demi-plane
+- State: Trapped in a demi-plane; plan partially executed
+- Motivation: Regain power and freedom; required magic to temporarily loosen planar bonds
 
-**King Korboz**
-- Current location: Gnomengarde, throne room
-- Current state: In hysterics, screaming; suffering from madness
-- Recent actions: Accused Vukradin of being a shapeshifter upon hearing his name
-- Faction: Gnomengarde royalty
-- Notes: Co-ruler of Gnomengarde; believes a shape-changing creature is terrorizing the caves; his madness began following the disappearances of Warren and Orrin; madness is the primary concern of Gnomengarde's inventors
+**Gromph Baenre**
+- Role: Mage of the First House of Menzoberranzan
+- Recent Actions: Cast a spell intended to give Drow control of the Faerzess; instead weakened bonds between the Abyss and Toril, allowing demon lords to enter the Underdark
+- Faction: House Baenre / Menzoberranzan
+- Motivation: Believed the spell would grant Drow dominance over the Faerzess and enable unrestricted attacks on other powers
+- Secret: Was a pawn of Lolth; the spell did not achieve its intended effect
 
-**King Gnercli**
-- Current location: Gnomengarde, throne room
-- Current state: Active; co-ruling while Korboz is mad
-- Recent actions: Identified party as adventurers, offered Hat of Wizardry in exchange for killing the shapeshifter, directed party to the cellar as likely hiding place for the creature
-- Faction: Gnomengarde royalty
-- Notes: Co-ruler of Gnomengarde; suggested the creature would hide among large objects it could shapeshift into; appears to be the functional ruler while Korboz is incapacitated
+**Grazz't**
+- Role: Demon lord
+- Recent Actions: Entered the Underdark; instigated widespread insanity and madness
+- Faction: Demon lords of the Abyss
+- State: Active in the Underdark
 
-**Warren**
-- Current location: Unknown; missing
-- Current state: Missing, presumed taken or killed by shapeshifter
-- Faction: Gnomengarde
-- Notes: One of two gnomes who went missing; their disappearance preceded King Korboz's madness
+**Zuggtmoy**
+- Role: Demoness; demon lord
+- Recent Actions: Entered the Underdark; disseminated perilous fungi
+- Faction: Demon lords of the Abyss
+- State: Active in the Underdark
 
-**Orrin**
-- Current location: Unknown; missing
-- Current state: Missing, presumed taken or killed by shapeshifter
-- Faction: Gnomengarde
-- Notes: One of two gnomes who went missing; their disappearance preceded King Korboz's madness
+**Orcus**
+- Role: Demon lord
+- Recent Actions: Entered the Underdark; marshaled armies of undead
+- Faction: Demon lords of the Abyss
+- State: Active in the Underdark
+
+**Demogorgon**
+- Role: Demon lord
+- Recent Actions: Entered the Underdark; wreaked havoc on cities including Menzoberranzan
+- Faction: Demon lords of the Abyss
+- State: Active in the Underdark
+
+**Lord Neverember**
+- Role: Lord of Neverwinter
+- Recent Actions: Following the end of the barbarian invasion, turned attention to the hinterland; targeted Phandalin for clearing of monsters, cults, and evildoers; hired adventurers with offers of tax-free, no-questions-asked plunder
+- Motivation: Encourage settlement and growth in Neverwinter's hinterland; offset war costs through use of adventurers rather than armies
+- Faction: Neverwinter
+
+**Vukardin**
+- Role: Adventurer; musician
+- Recent Actions: Hired by Lord Neverember to clear the hinterland around Phandalin
+- State: Active; recently recruited
+- Notes: Described as an avant-garde musician whose work is underappreciated
 
 ---
 
 ## Factions
 
-**Diplomatic Party from Townmaster Harbin Wester**
-- Current goals: Acquire a magical device to help fight the dragon threat; currently contracted to kill the shapeshifter within Gnomengarde in exchange for a Hat of Wizardry and 50 gold
-- Recent actions: Killed an ogre on the mountain road; navigated entry into Gnomengarde; survived multiple traps; located and engaged the mimic in the cellar
-- Relationships: Acting on behalf of Townmaster Harbin Wester; in provisional alliance with Gnomengarde royalty
-- Key members: Vukradin (bard, de facto spokesperson), Valphine (Drow cleric), Soma (druid), Brewbarry (barbarian)
+**Cult of the Dragon**
+- Recent Actions: Attempted to bring Tiamat into the mortal world; attempt thwarted
+- Key Members: Severin (leader)
+- Relationships: Manipulated by Zariel and Tiamat; opposed by Lord's Alliance
 
-**Gnomengarde**
-- Current goals: Cure King Korboz's madness; eliminate the shapeshifter terrorizing the caves; protect the community
-- Recent actions: Maintained armed guard post at cave entrance; enforced standing orders regarding shapeshifters and (lapsed) Uthgardtians; directed adventurers to inventors and then to the cellar; offered Hat of Wizardry as reward
-- Relationships: Sought assistance from outside adventurers; wary of shapeshifters; historically hostile to Uthgardtians (standing order disputed/lapsed)
-- Key members: King Korboz (co-ruler, incapacitated), King Gnercli (co-ruler, functional), Fibblestib (inventor), Dabbledob (inventor), Pog (guard), Ulla (guard), Facktore (deranged inventor, at large), Warren (missing), Orrin (missing)
+**Lord's Alliance**
+- Recent Actions: Fought and concluded the War of the Dragons against the Cult of the Dragon; forces were recovering and intact when the barbarian invasion occurred; grew in strength during the giant conflict
+- State: Armies intact; recovering from recent wars
+- Relationships: Allied with Giants under Hekaton; opposed Cult of the Dragon and barbarian invaders
+
+**Kraken Society**
+- Recent Actions: Revealed during the giant conflict; survived
+- State: Active; intact
+- Relationships: Unknown
+
+**Giants (under Hekaton)**
+- Recent Actions: Ordning reinstated; alliance formed with peoples of the Realms; combined with major city forces to end the Uthgardt barbarian invasion
+- Key Members: King Hekaton (Storm Giant)
+- Relationships: Allied with Lord's Alliance and major cities
+
+**Demon Lords of the Abyss**
+- Recent Actions: Entered the Underdark following the weakening of planar bonds; caused widespread chaos including madness, fungi dissemination, undead armies, and city destruction
+- Key Members: Grazz't, Zuggtmoy, Orcus, Demogorgon
+- Relationships: Inadvertently enabled by Lolth through Gromph Baenre
+
+**House Baenre / Menzoberranzan**
+- Recent Actions: Gromph Baenre cast a catastrophic spell on the Faerzess; Menzoberranzan suffered from Demogorgon's rampage
+- Key Members: Gromph Baenre
+- Relationships: Pawns of Lolth; devastated by demon lord incursion
+
+**Uthgardt Barbarians**
+- Recent Actions: Launched a devastating assault on the North, razing Triboar, obliterating Calling Horn, and pillaging villages near Silverymoon and Mirabar; ultimately eliminated by combined Giant and city forces
+- State: Eliminated from the hinterland
+- Relationships: Opposed by Lord's Alliance, Giants, and major cities
+
+**Agents of Everlund**
+- Recent Actions: Revived the alliance of the Silvery Marches
+- Relationships: Part of the broader coalition that ended the barbarian invasion
+
+**Neverwinter (City-State)**
+- Recent Actions: Recovering from war costs; Lord Neverember directing expansion into the hinterland; hiring adventurers to clear Phandalin region
+- Key Members: Lord Neverember
+- Relationships: Part of the Lord's Alliance
 
 ---
 
 ## World Events
 
-- The party engaged an ogre in the early morning hours on the mountain road near Gnomengarde; the ogre was downed but stood up again.
-- Valphine missed a mace attack on the prone ogre; Brewbarry missed a halberd attack on the same target.
-- A green gas (cast by an unspecified companion) struck and hurt the ogre.
-- The ogre rose and chose to attack Brewbarry; the blow was absorbed by Brewbarry's rage-based resistance.
-- The ogre fled; Valphine wounded it with a crossbow bolt but could not bring it down.
-- Vukradin delivered the killing blow to the fleeing ogre, justifying it by claiming the ogre "hated music."
-- Valphine looted the ogre's body, finding a whistle, coins, and a key.
-- The party followed the river to Gnomengarde and arrived at the waterfall entrance.
-- Vukradin and Soma waded to the mushroom islands and identified three types of mushrooms: oily red, green (flour-yielding), and purple (fermentable into wine); Vukradin foraged green and purple mushrooms.
-- Vukradin searched behind the waterfall for a secret room; found only rock.
-- Vukradin spotted a cave entrance 20 feet up the cliff wall and climbed up; Soma followed after retrieving and carrying a rope up for Valphine.
-- Valphine and Brewbarry did not climb until the rope was provided; Brewbarry and Valphine remained below while Vukradin and Soma climbed first.
-- The party was challenged at the guard post by Pog and Ulla in Gnomish.
-- Vukradin negotiated entry; Brewbarry's status as former Uthgardt Barbarian resolved entry due to bureaucratic uncertainty over the standing Uthgardt attack order.
-- Vukradin played music for Pog and Ulla; they were pleased.
-- Ulla directed the party to cross the hanging bridge to reach the inventors' workshop; the party discovered the rotating blade trap.
-- Vukradin returned to Ulla, who provided an alternate route via the northern hallway.
-- The party was attacked by Facktore's rotating crossbow device in a large room along the northern route.
-- The party disabled the crossbow device; Facktore fled.
-- The party climbed down and up cliff walls, crossing the river, and entered the gnome sleeping chambers.
-- The party reached the inventors' laboratory and met Fibblestib and Dabbledob.
-- Fibblestib and Dabbledob were revealed to be working on a cure for King Korboz's madness; they explained that Warren and Orrin went missing and that Korboz claims a shapeshifter is responsible.
-- Vukradin proposed music as a treatment for Korboz; Dabbledob acknowledged music has helped in some circumstances; Fibblestib offered to build a non-standard piano.
-- Vukradin asked for the safest route to the throne room; Fibblestib laughed at the rotating blade incident.
-- The party met King Korboz (in hysterics) and King Gnercli in the throne room.
-- King Gnercli offered the Hat of Wizardry in exchange for dealing with the shapeshifter; directed the party to the cellar.
-- The party accepted the deal; Soma reminded Vukradin they only needed to bring something back, not something specifically useful.
-- The party disabled the spinning blade trap and returned to the area near Pog and Ulla.
-- Valphine accused Pog and Ulla of being shapeshifters, causing them to turn on each other with mutual suspicion.
-- The party entered the barrel room/cellar.
-- Valphine pointed her crossbow at a barrel; it transformed into a mimic and attacked.
-- Brewbarry charged the mimic and wounded it but got his halberd stuck in the creature's body.
-- The mimic attacked Brewbarry with a pseudopod and missed.
-- Vukradin used bardic invective (enchantment) causing the mimic to flinch visibly.
-- Soma prepared to cast Ice Knife against the mimic.
+- Tiamat, manipulated by Zariel, attempted to enter the mortal world using Severin and the Cult of the Dragon; the plan was thwarted.
+- Zariel exploited a loophole in the rules of Aos to engineer Tiamat's attempted entry, motivated by a desire to remove Tiamat from Avernus.
+- The All-Father, god of giants, executed a plan to make the North giant-ruled; his plan was thwarted.
+- During the chaos of the All-Father's plan, the Great Ancient Blue Dragon Ilymrith nearly destroyed the kingdoms of the giants.
+- Sage KP acquired a piece of an unnamed artifact during the giant conflict.
+- The Kraken Society was revealed and survived.
+- The Lord's Alliance grew in strength.
+- Storm Giant King Hekaton created an alliance between giants and the peoples of the Realms.
+- Ilymrith escaped; her whereabouts are unknown.
+- The gods interfered in mortal affairs at least twice before Lolth's scheme.
+- Lolth, trapped in a demi-plane as part of a multi-century plan, enacted a contingency using Gromph Baenre as her pawn.
+- Gromph Baenre cast a spell twisting the magic of the Faerzess, intending to grant Drow control over it.
+- The spell instead temporarily weakened the bonds between the Abyss and Toril.
+- The demon lords entered the Underdark: Grazz't spread insanity and madness; Zuggtmoy disseminated perilous fungi; Orcus marshaled undead armies; Demogorgon wreaked havoc on cities including Menzoberranzan.
+- The Uthgardt Barbarians launched a devastating assault on the North, razing Triboar, obliterating Calling Horn, and pillaging villages near Silverymoon and Mirabar.
+- Agents from Everlund revived the alliance of the Silvery Marches.
+- The combined forces of Giants and major cities ended the Uthgardt barbarian invasion and eliminated the barbarians from the hinterland.
+- The War of the Dragons concluded with a decisive battle between Northern Territories/Lord's Alliance forces and the Cult of the Dragon.
+- Lord Neverember turned his attention to the hinterland, specifically Phandalin, following the end of the barbarian threat.
+- Lord Neverember began hiring adventurers to clear Phandalin of monsters, cults, and evildoers, offering tax-free, no-questions-asked plunder.
+- Vukardin, an avant-garde musician, was recruited as one of these adventurers.
 
 ---
 
 ## Locations
 
-**Mountain Road/Pass near Gnomengarde**
-- What it is: A mountain road with rocky terrain and tight valleys leading toward Gnomengarde
-- What happened: Site of the ogre battle; the party fought and killed an ogre here in the early morning
-- Current state: Ogre corpse present; party has moved on
+**Avernus**
+- What it is: A layer of the Nine Hells; co-ruled by Zariel and (formerly) Tiamat
+- Current State: Tiamat's presence was the source of Zariel's scheming to remove her
 
-**Gnomengarde Waterfall Entrance**
-- What it is: A natural concavity eroded by a waterfall plunging into a shallow pool; the mountain blocks sunlight; two small mushroom islands rise in the 3-foot-deep pool; cave openings overlook the pool from ledges 20–30 feet above
-- What happened: Party arrived here; Vukradin and Soma foraging mushrooms; searched behind waterfall; discovered cave entrance 20 feet up cliff wall
-- Current state: Party has entered the caves above
+**The Underdark**
+- What it is: The subterranean world beneath Toril
+- Recent Events: Invaded by demon lords after planar bonds were weakened; site of widespread chaos including madness, fungi, undead, and destruction
+- Current State: In turmoil
 
-**Mushroom Islands**
-- What it is: Two small islands in the waterfall pool covered with red, green, and purple mushrooms (two feet tall)
-- What happened: Vukradin identified mushroom types and foraged green and purple specimens; collected more on the return trip through the river
-- Current state: Partially foraged
+**Menzoberranzan**
+- What it is: A notable Drow city in the Underdark; seat of House Baenre
+- Recent Events: Devastated by Demogorgon's rampage; Gromph Baenre's spell originated here
+- Current State: Damaged; suffered significant havoc
 
-**Gnomengarde Cave Entry Chamber**
-- What it is: A rough cave chamber at the top of the 20-foot cliff, accessed via stairs from the cliff entrance; has hallways to the north, east, and a slick rock wall with a guard post to the south
-- What happened: Party entered here; challenged by Pog and Ulla; negotiated entry
-- Current state: Guarded by Pog and Ulla; party has passed through
+**The North (Northern Territories)**
+- What it is: The northern region of the Realms
+- Recent Events: Target of the All-Father's giant-rule ambitions; devastated by Uthgardt Barbarian assault; barbarians subsequently eliminated
+- Current State: Recovering; hinterland being targeted for resettlement by Neverwinter
 
-**Hanging Bridge / Waterfall Mist Room**
-- What it is: A bridge crossing near the waterfall; the adjacent room is lightly obscured by waterfall mist and contains two spinning blade turnstiles (northern spins counterclockwise, southern clockwise) with stacked sharp blades spaced one foot apart
-- What happened: Vukradin approached and identified the death trap; party initially turned back; later disabled the blades on return
-- Current state: Blades disabled
+**Triboar**
+- What it is: A town in the North
+- Recent Events: Razed by the Uthgardt Barbarians
+- Current State: Destroyed
 
-**Rotating Crossbow Room**
-- What it is: A large room along the northern hallway containing Facktore's invention: a rotating platform with four heavy auto-reloading crossbows
-- What happened: Facktore tested the device on the party; party disabled it; Facktore fled
-- Current state: Device disabled; Facktore at large
+**Calling Horn**
+- What it is: A settlement in the North
+- Recent Events: Obliterated by the Uthgardt Barbarians
+- Current State: Destroyed
 
-**Gnome Sleeping Chambers**
-- What it is: A large cave with remnants of old campfires; four side caves each serving as sleeping areas with five small wooden cots each
-- What happened: Party passed through en route to the laboratory
-- Current state: Unoccupied during party's passage
+**Silverymoon**
+- What it is: A major city in the North
+- Recent Events: Villages on its outskirts were pillaged by the Uthgardt Barbarians
+- Current State: Outskirts damaged; city itself not stated to be destroyed
 
-**Inventors' Laboratory / Workshop**
-- What it is: The laboratory of Gnomengarde's foremost inventors, south of the sleeping chambers
-- What happened: Party met Fibblestib and Dabbledob; learned about King Korboz's madness, the missing gnomes Warren and Orrin, and the shapeshifter threat; discussed potential cures; Vukradin proposed music; Fibblestib offered to build a piano
-- Current state: Fibblestib and Dabbledob remain working here
+**Mirabar**
+- What it is: A major city in the North
+- Recent Events: Villages on its outskirts were pillaged by the Uthgardt Barbarians
+- Current State: Outskirts damaged; city itself not stated to be destroyed
 
-**King's Throne Room**
-- What it is: The room of Kings Korboz and Gnercli within Gnomengarde
-- What happened: Party spoke with King Gnercli; Korboz remained in hysterics; deal struck for Hat of Wizardry in exchange for killing the shapeshifter
-- Current state: Kings remain; deal pending completion
+**Everlund**
+- What it is: A city; source of agents who revived the Silvery Marches alliance
+- Recent Events: Its agents reformed the alliance of the Silvery Marches
+- Current State: Active
 
-**Cellar / Barrel Room**
-- What it is: A room containing twelve forty-gallon barrels set in wide alcoves secured with wooden braces; southern alcove barrels tapped with wooden spigots (two half-full, two nearly empty)
-- What happened: Party entered; Valphine triggered a mimic hiding as a barrel; combat initiated
-- Current state: Active combat; mimic engaged, Brewbarry's halberd stuck in the creature
+**The Silvery Marches**
+- What it is: A political alliance in the North
+- Recent Events: Alliance was revived by agents from Everlund
+- Current State: Restored and active
+
+**Neverwinter**
+- What it is: A city-state ruled by Lord Neverember
+- Recent Events: Recovering from war costs; expanding influence into the hinterland
+- Current State: Active; pursuing expansionist policy
+
+**Phandalin**
+- What it is: A town in Neverwinter's hinterland
+- Recent Events: Targeted by Lord Neverember for clearing of monsters, cults, and evildoers to encourage settlement
+- Current State: Infested with monsters, cults, and evildoers; adventurers being hired to clear it
 
 ---
 
 ## Threads & Mysteries
 
-- **The Mimic**: A mimic is hiding in the Gnomengarde cellar disguised as a barrel; combat is ongoing and unresolved. It is unclear if this is the only shapeshifter or if there are more.
-- **Missing Gnomes Warren and Orrin**: Two gnomes disappeared; it is unconfirmed whether they were killed, replaced, or are being held by the shapeshifter/mimic. Their fate is unknown.
-- **King Korboz's Madness**: The cause and exact nature of Korboz's madness is unconfirmed; it followed the disappearances. No cure has been applied yet.
-- **Pog's Changed Appearance**: Ulla noted Pog has looked "a little bit different" in recent days. It is unresolved whether Pog is a shapeshifter, a mimic replacement, or simply under stress.
-- **Ulla's Changed Appearance**: Pog noted Ulla has also looked different. Same suspicion applies.
-- **The Ogre's Key**: Valphine found a key on the ogre's body. Its purpose and what it unlocks are unknown.
-- **The Ogre's Whistle**: Valphine found a whistle on the ogre's body. Its purpose is unknown.
-- **Hat of Wizardry (Promised Reward)**: King Gnercli promised this as payment; the deal requires killing the shapeshifter. The party has not yet collected it.
-- **Townmaster Harbin Wester's Request**: The party's original mission was to acquire a device to fight the dragon; the Hat of Wizardry is acknowledged as not useful against a dragon. The dragon threat remains unaddressed.
-- **Facktore**: The deranged gnome inventor is at large somewhere in Gnomengarde after fleeing the scene of the crossbow attack. His current location and intentions are unknown.
-- **The Dragon Threat**: Referenced as the reason for the party's mission; no details about the dragon itself have been established in this session.
-- **Uthgardtian Standing Order**: The standing order to attack Uthgardtians on sight was described as having been passed due to "events of the last few months." These events are unspecified and unresolved.
+- **Ilymrith's whereabouts**: The Great Ancient Blue Dragon escaped after the giant conflict and has not been accounted for; her future plans and location are unknown.
+- **Lolth's demi-plane imprisonment**: Lolth remains trapped in a demi-plane; the nature, location, and full scope of her multi-century plan are not fully explained; it is unclear whether her contingency fully succeeded or what her next steps are.
+- **The demon lords in the Underdark**: The demon lords (Grazz't, Zuggtmoy, Orcus, Demogorgon) entered the Underdark but their current status, ongoing activities, and ultimate fate are unresolved.
+- **KP's artifact**: Sage KP acquired a piece of an unnamed artifact; the artifact's identity, purpose, and KP's intentions with it are unknown.
+- **The Kraken Society**: Revealed and survived the giant conflict; their goals, membership, and future actions remain unknown.
+- **Zariel's "other plans"**: Zariel is noted to have had plans beyond removing Tiamat; the nature of these plans is not revealed.
+- **The rules of Aos and loopholes**: The existence of loopholes in divine rules has been exploited multiple times; whether further exploitation is possible or planned is unresolved.
+- **Phandalin clearing**: Adventurers including Vukardin have been hired to clear Phandalin; the specific threats present (monsters, cults, evildoers) and the outcome of this mission are unresolved.
+- **Vukardin's role**: Vukardin has been introduced as a player in the Phandalin operation; his specific abilities, background, and story arc are not yet established.

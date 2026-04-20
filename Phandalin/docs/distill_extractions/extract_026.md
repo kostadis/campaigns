@@ -1,100 +1,107 @@
 ## NPCs
 
-**Valphine**
-- Current location: Room where planar machine was located (post-battle)
-- Current state: Active, present with party
-- Recent actions: Slowed three Rift Weavers with magic; cast protective magic on Brewbarry; struck a Rift Weaver with radiant energy; struck Aletra with a blinding curse; entered the shutdown code into the machine's keypad
-- Faction: Party
-- Revealed motivations/secrets: Has a prior history with Aletra involving setting a trap together using a stuffed creature as bait; their mother apparently said Valphine was "not the sharpest tool in the shed"; had a previous traumatic encounter with Aletra (nature unclear—Aletra referenced Valphine "moaning in pain or pleasure")
+**Harbin Wester**
+- Current location: Phandalin
+- Current state: Active, alive
+- Recent actions: Warned the party that Phandalin's population may need to evacuate to Axelholm if dragon attacks become imminent; tasked the party with opening and clearing the fortress
+- Faction: Phandalin town government
+- Motivations: Protecting the people of Phandalin from dragon attacks
 
-**Aletra**
-- Current location: Unknown (escaped through portal)
-- Current state: Blinded (by Valphine's curse) at time of escape; status beyond portal unknown
-- Recent actions: Attempted to extract a package from a broken planar machine; pointed her wand at Brewbarry causing him to glow red and be flagged as a spatial anomaly by the machine; manipulated the party into fighting the Rift Weavers as a distraction; cursed the dwarven creators of the machine; successfully extracted a box of vials of interdimensional poison; opened a shimmering portal using a small device; dropped several vials when blinded; escaped through the portal; destroyed remaining evidence
-- Faction: House Sartorra (works for an unnamed boss)
-- Revealed motivations/secrets: Works for a boss whose identity is unknown; was retrieving interdimensional poison as part of House Sartorra's illegal drug trade; deliberately used the party as pawns; concerned about leaving evidence behind; her boss will be displeased with the dropped vials; shares a complex, antagonistic relationship with Valphine and their mother; is Valphine's sister (drow)
+**Soma**
+- Current location: Axelholm main hall
+- Current state: Paralyzed in bear form, critically endangered (session cliffhanger)
+- Recent actions: Summoned a rat familiar to scout Axelholm's entrance; used her staff to sense planar corruption; cast radiant moonlight and thunderous force waves in combat; transformed into a bear; caused the ground to shake and knock enemies prone; previously paralyzed once and healed by Valphine
+- Faction: Party
+
+**Valphine**
+- Current location: Axelholm main hall
+- Current state: Active, in combat
+- Recent actions: Called upon Lathander's divine power to cause out-of-phase dwarves to flee in terror; cast words of divine healing to restore Soma and break her paralysis
+- Faction: Party; follower of Lathander
 
 **Brewbarry**
-- Current location: Room where planar machine was located (post-battle)
-- Current state: Active; was targeted by Aletra and used as bait for the Rift Weavers; was restrained by webs during battle (later freed)
-- Recent actions: Moved into position during combat; was marked red by Aletra's wand, drawing all Rift Weaver attention; was ensnared in webs; fought Rift Weavers with devastating efficiency once freed
+- Current location: Axelholm main hall
+- Current state: Active, in enraged ("Big Brewbarry") form during combat
+- Recent actions: Smashed through the inner portcullis door; helped attach rope to winch to raise the outer portcullis; transformed into enraged state; cleaved through out-of-phase dwarves with his halberd; resisted a paralysis attempt; heard a voice saying "incorrect packaging" and was momentarily displaced into a cold storage space before breaking free
 - Faction: Party
 
 **Vukradin**
-- Current location: Room where planar machine was located (post-battle)
-- Current state: Active
-- Recent actions: Moved into position during combat; fought Rift Weavers with devastating efficiency
+- Current location: Axelholm main hall
+- Current state: Active, in combat
+- Recent actions: Provided magical encouragement to allies; struck with his rapier; caused one out-of-phase dwarf to blink out of existence as space folded in on itself
 - Faction: Party
 
-**Soma**
-- Current location: Room where planar machine was located (post-battle)
-- Current state: Active
-- Recent actions: Summoned a sphere of roiling flames that scorched Rift Weavers and burned away webs; contributed to revealing Rift Weaver vulnerability to magical fire
-- Faction: Party
+**Out-of-Phase Dwarves (unnamed, multiple)**
+- Current location: Axelholm main hall
+- Current state: Most cut down; at least one remains active and has successfully paralyzed Soma in bear form
+- Recent actions: Emerged from opened doors; muttered constantly about efficiency; attacked the party; paralyzed Soma; swarmed Soma's paralyzed form inflicting near-fatal damage; materialized continuously from the unnatural light; one was destroyed when space folded in on itself
+- Faction: Former inhabitants of Axelholm, now warped by planar anomaly
+- Revealed nature: Once dwarven inhabitants of Axelholm; transformed by a planar anomaly; not truly undead; minds broken by the corruption
 
 ---
 
 ## Factions
 
-**House Sartorra**
-- Current goals: Operating an illegal interdimensional poison/drug trade
-- Recent actions: Had a planar machine delivered to an unnamed boss as a gift; tasked Aletra with retrieving vials of interdimensional poison from the malfunctioning machine; engaged Interplanar Trade Consultants Incorporated for services
-- Relationships to other factions: Unknown broader relationships; Aletra is an operative; Valphine has family ties to the faction through Aletra
-- Key members: Aletra (operative/agent); unnamed boss (recipient of machine)
+**Phandalin Town Government**
+- Current goals: Prepare a potential evacuation site at Axelholm in anticipation of imminent dragon attacks
+- Recent actions: Dispatched the party to open and clear Axelholm
+- Key members: Harbin Wester (Townmaster)
 
-**Interplanar Trade Consultants Incorporated**
-- Current goals: Unknown; providing paid services related to interplanar trade/equipment
-- Recent actions: Issued a bill for services rendered, found at the machine's location
-- Relationships to other factions: Connected to House Sartorra or the unnamed boss via the planar machine operation
-- Key members: None named
+**The Party**
+- Current goals: Clear Axelholm and make it safe for habitation
+- Recent actions: Breached Axelholm's outer and inner portcullises; engaged and largely destroyed the out-of-phase dwarven inhabitants; currently in a desperate combat situation with Soma paralyzed
+- Relationships: Operating on behalf of Phandalin town government
 
 ---
 
 ## World Events
 
-- The party confronted Aletra in a room covered in interplanar spider webs, where she was attempting to extract a package from a broken planar machine guarded by six Rift Weavers.
-- Aletra warned the party that the malfunctioning machine was causing dangerous spatial anomalies throughout the area and that failing to retrieve her package would leave her no reason to destroy it.
-- Valphine successfully slowed three Rift Weavers with magic at the start of combat.
-- Soma summoned a sphere of roiling flames, scorching multiple Rift Weavers and beginning to burn away the webs.
-- Aletra pointed her wand at Brewbarry, causing him to glow red and be identified as a spatial anomaly by the machine, redirecting all Rift Weavers to fixate on him.
-- One Rift Weaver ensnared Brewbarry in sticky webs, restraining him.
-- Valphine cast protective magic on Brewbarry, granting him resilience.
-- The Rift Weavers used cosmic abilities to free themselves from the slowing effects.
-- Soma's flaming sphere burned through the webs restraining Brewbarry and revealed that Rift Weavers are vulnerable to magical fire.
-- Valphine struck a Rift Weaver with radiant energy, revealing a second vulnerability and causing it to recoil violently.
-- Brewbarry and Vukradin fought with devastating efficiency after the webs were cleared; Rift Weavers fell one by one, dissolving into crackling sparkles.
-- The malfunctioning machine began emitting warnings of catastrophic failure as the battle continued.
-- The last Rift Weaver fell; Aletra successfully extracted a box containing vials of interdimensional poison.
-- Aletra pressed a small device, opening a shimmering portal directly in front of herself.
-- Valphine struck Aletra with a blinding curse as she attempted to escape.
-- Aletra, despite being blinded, stepped through the portal but fumbled and dropped several vials of interdimensional poison onto the ground.
-- Aletra escaped through the portal and muttered that "the boss" would not be happy with the development.
-- Valphine entered the shutdown code into the machine's keypad; the machine ceased its countdown and collapsed in on itself, disappearing entirely.
-- The remaining Rift Weaver, with nothing left to repair, winked out of existence.
-- The party found a bill from Interplanar Trade Consultants Incorporated left behind by the vanished machine.
-- The spatial anomalies plaguing the area were resolved.
+- The party arrived at Axelholm, an ancient dwarven fortress carved into a mountain south of Phandalin, tasked with making it safe for evacuation.
+- Soma summoned a rat familiar, which discovered an interior winch mechanism capable of lifting the outer portcullis.
+- The party used a rope attached to the winch to raise the outer portcullis gate.
+- The rat familiar detected strange spatial distortions inside the fortress, where distances appeared out of phase with normal reality.
+- The party heard a constant low-frequency ticking and the sound of quills scratching on parchment coming from within the walls.
+- Brewbarry smashed through an inner portcullis door, granting the party access to the main hall.
+- Soma used her staff to identify a planar anomaly within the fortress that had warped reality and driven its dwarven inhabitants mad.
+- Several doors opened and out-of-phase dwarves emerged, triggering combat.
+- Valphine invoked Lathander's power, causing several out-of-phase dwarves to flee in terror.
+- Soma cast radiant moonlight and thunderous force waves, damaging multiple enemies and sending them into walls.
+- Vukradin struck a dwarf with his rapier, causing it to blink out of existence as space folded in on itself.
+- Brewbarry transformed into his enraged "Big Brewbarry" state and cleaved through multiple out-of-phase dwarves with his halberd.
+- Additional out-of-phase dwarves materialized from the unnatural light and joined the fight.
+- An out-of-phase dwarf struck Soma, paralyzing her and inducing a sensation of being packaged in a box and delivered like an object.
+- While paralyzed, Soma was swarmed by out-of-phase dwarves who landed critical blows, nearly killing her.
+- Valphine cast divine healing on Soma, restoring her and breaking the paralysis.
+- Soma transformed into a bear form and tore through her attackers.
+- Brewbarry resisted a paralysis attempt, hearing the voice say "incorrect packaging" and experiencing brief displacement into a cold storage space before breaking free.
+- Soma caused the ground to shake and tremble, knocking several dwarves prone and making terrain difficult.
+- An out-of-phase dwarf successfully paralyzed Soma in her bear form, leaving her critically vulnerable as the session ended.
 
 ---
 
 ## Locations
 
-**Room of the Planar Machine**
-- What it is: An enclosed room containing a broken interplanar machine and covered in interplanar spider webs
-- What happened there: Site of the standoff and battle between the party, Aletra, and six Rift Weavers; the planar machine malfunctioned and caused spatial anomalies; the machine was shut down and vanished; Aletra escaped via portal; several vials of interdimensional poison were left behind
-- Current state: Quiet; webs remain (partially burned); dropped poison vials present; machine gone; Rift Weavers destroyed or vanished
+**Axelholm**
+- What it is: An ancient dwarven fortress carved into the base of a mountain, located miles south of Phandalin; long-sealed prior to the party's arrival
+- Current state: Breached; main hall partially cleared but combat ongoing; afflicted by a planar anomaly that warps spatial reality, produces unnatural mathematically cold light that does not flicker, and generates sounds (ticking, quill-scratching) from within the walls
+- What happened here: The party forced entry, encountered warped former dwarven inhabitants, and engaged them in combat; Soma identified a planar anomaly as the source of the corruption
+- Strategic importance: Designated potential evacuation site for the population of Phandalin in the event of dragon attacks
+
+**Phandalin**
+- What it is: A town north of Axelholm
+- Current state: Under potential threat from dragon attacks; population may need to evacuate
+- Relevance: Home base; Harbin Wester operates here
 
 ---
 
 ## Threads & Mysteries
 
-- The identity of Aletra's unnamed boss, who received the planar machine as a gift, remains unknown.
-- The full scope of House Sartorra's illegal interdimensional poison/drug trade is unresolved.
-- The nature and purpose of the interdimensional poison vials (now partially recovered by the party, partially taken by Aletra) is unclear.
-- The origin and original purpose of the planar machine—described as a gift to Aletra's boss—is unexplained.
-- The role and true nature of Interplanar Trade Consultants Incorporated and their connection to the operation is unknown.
-- Aletra's boss's reaction to the lost vials and Aletra's compromised escape is unresolved.
-- Aletra's whereabouts and next actions following her escape through the portal are unknown.
-- The history of the traumatic prior encounter between Valphine and Aletra (referenced obliquely by Aletra) is unresolved.
-- The extent to which Aletra and Valphine previously collaborated (referenced trap with stuffed creature as bait) is not fully explained.
-- What other schemes Aletra and/or House Sartorra are involved in beyond this operation remains open.
-- The machine's dwarven creators are mentioned but unidentified; their role in the broader situation is unresolved.
+- **Nature of the planar anomaly**: Soma identified a planar anomaly warping reality within Axelholm, but its origin, source location within the fortress, and the mechanism by which it transformed the dwarves remain unknown.
+- **The ticking and quill-scratching sounds**: Constant low-frequency ticking and the sound of quills on parchment emanating from within the walls have not been explained or sourced.
+- **The "efficiency" obsession**: The out-of-phase dwarves muttered constantly about efficiency; the meaning and origin of this fixation is unexplained.
+- **The paralysis ability — "incorrect packaging"**: The out-of-phase dwarves can paralyze targets and induce sensations of being boxed and delivered as objects; the nature, logic, and origin of this ability is unresolved.
+- **Cold storage displacement**: When Brewbarry resisted paralysis, he was momentarily displaced into something described as "cold storage"; what this space is and whether it connects to the planar anomaly is unknown.
+- **Full extent of the fortress**: Only the entrance and main hall have been encountered; the rest of Axelholm is unexplored and its contents unknown.
+- **Soma paralyzed in bear form**: The session ended with Soma paralyzed and vulnerable; her survival is immediately unresolved.
+- **Dragon threat to Phandalin**: Harbin Wester's warning about imminent dragon attacks remains an active external threat driving the mission, but the dragon itself has not appeared in this session.
+- **Whether Axelholm can be made safe**: It is unresolved whether the planar anomaly can be neutralised and the fortress rendered habitable.

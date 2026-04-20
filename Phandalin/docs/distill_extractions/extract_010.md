@@ -1,129 +1,156 @@
 ## NPCs
 
-**The Shimmering Stag**
-- Current location: Whispering Wood, within its marked territory
-- Current state: Alive; experiencing involuntary planar instability — teleports involuntarily, antlers change shape constantly
-- Recent actions: Spoke with Soma via Speak with Animals; accepted mushrooms from Gnomengarde; provided information about the source of the forest's disturbance
-- Faction: None
-- Motivations: Territorial; wishes to eat and live normally; frustrated by its condition
-- Revealed information: The disturbances began at the center of the forest; other unnamed people previously visited, spoke to the stag, and promised to fix the problem but have not done so
+**Moesko**
+- Current location: Tower of Storms (deceased)
+- Current state: Dead; body present with a strange hole in his chest
+- Recent actions: Defeated in combat prior to this session's events
+- Faction: Worshipper of Talos (corrupted); influenced by an unknown external force
+- Revealed motivations/secrets: His heart was removed and placed in the lighthouse beacon as the source of its corrupted green light; still beating after death. Miral's ghost revealed his devotion to Talos was twisted by "something foreign" — not the Stormlord's rage but a colder, more calculating shadow. His octopus armor and talisman suggest additional allegiance or corruption tied to a deep, alien entity.
+
+**Miral**
+- Current location: Tower of Storms (manifested as ghost); departed/at rest after session
+- Current state: Spirit at rest following recovery of her conch
+- Recent actions: Manifested to receive the opalescent conch; delivered a warning before vanishing
+- Faction: Sea Elf (deceased)
+- Revealed motivations/secrets: Moesko was her undoing. She warned that "the true storm gathers not in the sky, but in the depths below Leilon." She sensed that Moesko's corruption came from "shadows" moving within him, something foreign to Talos's nature.
 
 **Soma**
-- Current location: Whispering Wood, moving toward center
-- Current state: Alive; took piercing and necrotic damage from the bramble thicket; transformed into bear form twice during the session
-- Recent actions: Cast Speak with Animals to communicate with the stag; approached the bramble thicket within ten feet; transformed into bear form to attack the bramble and to subdue Brewbarry
+- Current location: Tower of Storms / shoreline
+- Current state: Active; healed after underwater combat
+- Recent actions: Transformed into giant toad form; dove into the water; recovered a +1 halberd from the shipwreck Star Crossed Lover; fought three Hunter Sharks (killed one, engaged others); retrieved three locked chests from wrecks; ferried all items to shore; dropped Wild Shape and healed after returning to land; cooked and ate shark meat; acquired a shark tooth necklace.
 - Faction: Party
-- Notes: Identified the bramble distortion as "planar leakage, bleeding"; cautioned party against looking into the pool for their own sanity; observed by Vukradin to be curiously untroubled by the unnatural state of the forest
-
-**Valphine**
-- Current location: Whispering Wood, moving toward center
-- Current state: Alive; did not enter or fully engage with the pool
-- Recent actions: Retreated from the stag's territory when asked; attempted Sacred Flame on the bramble thicket (ineffective); expressed desire to ask the pool more intelligent questions; ultimately did not look into the pool
-- Faction: Party; worships Lathander
-- Notes: Observed by Vukradin to appear afraid of being happy; asked rhetorically whether she would see herself happy and content in the pool's reflection
+- Revealed motivations/secrets: Considers all money blood money until proven otherwise; willing to take practical action regardless of ethical complications.
 
 **Vukradin**
-- Current location: Whispering Wood, moving toward center
-- Current state: Alive but recently recovered from unconsciousness; mentally strained from pool experience
-- Recent actions: Retreated from stag's territory when asked; was rooted in place by the wolves' unnatural howl; skinned the wolves for pelts; looked into the pool; entered the pool; fell unconscious; was revived by a slap
+- Current location: Tower of Storms / shoreline
+- Current state: Active
+- Recent actions: Identified the talisman's symbol as the jagged lightning bolt of Talos; smashed the lightning rod; struck and destroyed Moesko's beating heart with two attacks (first missed, offhand and second connected); cast Light on the beacon temporarily; used Vicious Mockery on a shark (1 point of damage); cast Sleep on two remaining sharks; refused the color-changing magical cloak on ethical grounds; questioned ownership of retrieved chests and halberd.
 - Faction: Party
-- Motivations: Pursuing "conflict-free gold"; wrestling with whether his artistry is motivated by love of music or love of audience approval; concerned about the morality of blood gold and stolen merchandise
-- Revealed information: Had a prior encounter with Adabra, who told him she thought he only played for the music; witnessed a vision of himself clutching coins and heard a distorted voice say "He saw beyond, but only what he was meant to see. The numbers. Always the numbers."
+- Revealed motivations/secrets: Believes fundamentally in the sanctity of earned possessions and returning items to rightful owners. Aspires to build a music studio through honest means. Considers himself a musician, not a thief. Feels increasingly isolated within the party over ethical disagreements.
+
+**Valphine**
+- Current location: Tower of Storms / shoreline
+- Current state: Active; temporarily blinded during session, recovered
+- Recent actions: Searched Moesko's living space; discovered concealed compartment with talisman; stared directly into the beacon light and was temporarily blinded; glimpsed the beating heart before blindness; cast Sacred Flame on a shark (5 radiant damage); cast Faerie Fire on two sleeping sharks; coordinated attack with Brewbarry dealing 22 points of damage to one shark; picked locks on all three retrieved chests.
+- Faction: Former priestess of Lolth; current devotee of Lathander
+- Revealed motivations/secrets: Former moderately successful priestess of Lolth who lacked her sisters' glee in mayhem. Now follows Lathander. Has a fascination with bright light tied to her new devotion. Pragmatic and untroubled by the moral provenance of found items. Intrigued by alien/psionic energies rather than repelled.
 
 **Brewbarry**
-- Current location: Whispering Wood, moving toward center
-- Current state: Alive; mentally disturbed following pool vision; muttering "Both sides!"
-- Recent actions: Did not retreat from stag's territory initially; attacked the bramble thicket with a halberd while enraged, successfully rendering it inert; skinned the wolves; looked into the pool; was terrified by his vision and fled screaming; was subdued by Soma in bear form
+- Current location: Tower of Storms / shoreline
+- Current state: Active; carrying a +1 halberd
+- Recent actions: Identified symbols on the talisman; identified an inverted eye with coiling tentacle-like lines on the talisman's reverse; acquired the +1 halberd found by Soma; coordinated attack with Valphine on a sleeping shark.
 - Faction: Party
-- Revealed information: Aware of Uthgardt legends describing such pools as "Shadows to other places" that appear unnaturally and offer knowledge; asked the pool "What side of the bread should I butter?" and received the vision of himself saying "butter both sides simultaneously"
-- Notes: Observed by Vukradin to possess deeper intellectual and cultural awareness than his surface demeanor suggests
+- Revealed motivations/secrets: None newly revealed. Noted for unexpected perceptiveness. Unmoved by Vukradin's ethical arguments regarding the halberd.
 
-**Adabra**
-- Current location: Unknown
-- Current state: Unknown
-- Recent actions: Previously told Vukradin she thought he only played for the music
-- Faction: Unknown
+**Giant Crab**
+- Current location: Shoreline near Tower of Storms
+- Current state: Active; grateful
+- Recent actions: Appeared after the sharks were dealt with; expressed gratitude; identified the +1 halberd as "the treasure I was going to get for you."
+- Faction: Unknown; allied with or known to the party
+- Revealed motivations/secrets: Had apparently intended to retrieve the +1 halberd as a reward for the party.
 
 ---
 
 ## Factions
 
-**The Party (Soma, Valphine, Vukradin, Brewbarry, and the shell sprout)**
-- Current goals: Traveling toward the center of the Whispering Wood to investigate the source of planar disturbances
-- Recent actions: Spoke with the stag; fought and destroyed a bramble thicket; fought and killed wolves; harvested wolf pelts; investigated the pool; revived Vukradin and subdued Brewbarry
-- Relationships: No external faction relationships established this session
+**Worshippers of Talos**
+- Current goals: Unknown; Moesko was their apparent local agent
+- Recent actions: Moesko maintained the corrupted lighthouse beacon using his own heart
+- Relationships: Moesko's corruption was revealed to be influenced by something external to Talos — suggesting another faction is involved
+- Key members: Moesko (deceased)
 
-**The "Other Nice People" (unnamed)**
-- Current goals: Claimed they would fix the disturbances in the Whispering Wood
-- Recent actions: Previously visited the stag, spoke with it, and promised to resolve the situation; have not followed through
-- Key members: Unnamed; identity unknown
-- Relationships: Unknown relationship to the party or any known faction
+**Unknown Deep Entity (tentative)**
+- Current goals: Unknown; described as "colder, more calculating" than Talos
+- Recent actions: Twisted Moesko's devotion to Talos; psionic/alien energy present in the talisman
+- Relationships: Distinct from and operating within/alongside Talos worship; connected to deep ocean imagery (tentacles, inverted eye symbol)
+- Key members: None named
+
+**The Party**
+- Current goals: Lifted the curse on the Tower of Storms; returned the conch to Miral; now in possession of multiple recovered items
+- Recent actions: Defeated Moesko; destroyed his heart and the lightning rod; lit a temporary beacon; neutralised three Hunter Sharks; recovered three locked chests and their contents; received the +1 halberd; cooked and ate shark meat
+- Relationships: Completed their obligation to Miral; received gratitude from the Giant Crab; internal ethical tensions between Vukradin and other members
+- Key members: Soma, Vukradin, Valphine, Brewbarry
 
 ---
 
 ## World Events
 
-- The party entered the Whispering Wood and found no visible signs of rotting trees or obvious blight.
-- A shimmering, teleporting stag materialized before the party within its marked territory.
-- Soma cast Speak with Animals and conversed with the stag, learning that the disturbances began at the center of the forest and that unnamed others had previously promised to fix the problem.
-- The party offered mushrooms from Gnomengarde to the stag.
-- The party encountered a dense bramble thicket with leaves pulsing with unnatural colors, identified by Soma as planar leakage.
-- Soma approached within ten feet of the thicket and was struck by thorny tendrils, taking piercing and necrotic damage.
-- Valphine's Sacred Flame had no effect on the thicket.
-- Brewbarry entered rage and attacked the thicket with his halberd; Soma in bear form also struck it.
-- The thicket was rendered inert by Brewbarry and Soma; the party passed through before it could reanimate.
-- The party encountered wolves with glowing eyes and an unnatural howl that magically rooted Vukradin in place.
-- The wolves were defeated and their pelts were taken by Vukradin.
-- The party discovered a pool in a clearing whose surface reflected distorted versions of themselves.
-- Vukradin looked into the pool, saw a vision of himself clutching coins, and then entered the pool.
-- Inside the pool, Vukradin experienced an overwhelming barrage of fragmented visions and heard a distorted creature say "He saw beyond, but only what he was meant to see. The numbers. Always the numbers."
-- Vukradin emerged from the pool and fell unconscious; he was revived with a slap.
-- Brewbarry looked into the pool despite Soma's warning; he invoked Uthgardt legends of such pools as context.
-- Brewbarry saw a vision of himself saying "butter both sides simultaneously," became terrified, and fled screaming "Both sides!"
-- Soma transformed into bear form and subdued Brewbarry.
-- The party continued moving toward the center of the Whispering Wood.
+- Moesko found dead with a strange hole in his chest, his heart having been placed in the lighthouse beacon.
+- Valphine discovered a concealed compartment in Moesko's living space containing an iridescent talisman etched with Talos's jagged lightning bolt symbol; reverse side bore an inverted eye with tentacle-like coiling lines.
+- The talisman was identified as carrying faint divine resonance and a dominant, alien psionic energy.
+- Brewbarry identified Moesko's octopus armor as connected to worship of a giant octopus entity.
+- The party ascended to the lighthouse beacon and observed its green pulsating light.
+- Valphine stared into the beacon light and was temporarily blinded.
+- Before losing sight, Valphine confirmed the light source was Moesko's heart — several sizes too large — still beating inside the beacon.
+- Vukradin descended and smashed the lightning rod.
+- Vukradin struck Moesko's heart at the top of the tower; first attack missed, offhand and second attack connected and destroyed the heart; the beacon light went out.
+- Vukradin cast Light on the beacon as a temporary replacement and proposed setting a proper fire.
+- Soma transformed into giant toad form (39 hit points) and entered the water to retrieve dry wood from shipwrecks.
+- Soma discovered a +1 halberd in the skeletal grip of what appeared to be the captain of the shipwreck Star Crossed Lover.
+- A Hunter Shark attacked Soma; Soma's bite dealt 18 points of damage but grapple attempt failed.
+- A second and third shark joined the combat; Soma took 16 points of damage, dropping to 22 hit points.
+- Soma dealt 12 points of damage to the second shark, killing it; briefly grappled its corpse.
+- Vukradin cast Vicious Mockery on a shark, dealing 1 point of damage.
+- Vukradin cast Sleep, putting both remaining sharks to sleep.
+- Valphine cast Sacred Flame on one shark, dealing 5 radiant damage.
+- Valphine cast Faerie Fire on both sleeping sharks, granting advantage to attackers against them.
+- Valphine and Brewbarry coordinated an attack dealing 22 points of damage to one sleeping shark.
+- Soma determined that all timber from the wrecks was waterlogged and unsuitable for immediate use as firewood.
+- Soma retrieved three locked chests from the wrecks (one from the Sea Urchin; locations of the other two not specified) and ferried them to shore.
+- Soma dropped Wild Shape upon returning to shore and healed herself.
+- Valphine picked the locks on all three chests.
+- Chest one contained a nine-inch blue quartz statue of a mermaid.
+- Chest two contained a spellbook.
+- Chest three contained a Wand of Secrets (described as having an uncanny ability for secret door detection).
+- The party presented the opalescent conch to Miral's ghost.
+- Miral manifested, thanked the party, and revealed that Moesko's corruption came from something foreign — not Talos — and warned that "the true storm gathers not in the sky, but in the depths below Leilon."
+- Miral's spirit departed and is now at rest.
+- The Giant Crab appeared, expressed gratitude for the sharks, and identified the +1 halberd as the treasure it had intended to retrieve for the party.
+- The party cooked and ate shark meat, identified by Vukradin as lawfully earned.
+- Soma acquired or planned to acquire a shark tooth necklace.
+- Vukradin declined the color-changing magical cloak offered by Soma.
 
 ---
 
 ## Locations
 
-**The Whispering Wood**
-- What it is: A forest exhibiting planar disturbances throughout
-- Current state: Affected by what Soma identifies as planar leakage; wildlife is mutated or behaving unnaturally; disturbances are confirmed to originate from the center of the forest
-- What happened here: Party traversed it, encountering the stag, the bramble thicket, the wolves, and the pool
+**Tower of Storms**
+- What it is: A lighthouse tower, previously under a curse tied to Moesko and his corrupted beacon
+- What happened here: Moesko defeated; lightning rod smashed; Moesko's beating heart destroyed; beacon extinguished and temporarily replaced with a Light spell; Miral's ghost manifested and departed
+- Current state: Curse lifted; beacon currently unlit beyond temporary Light spell; no longer occupied by hostile forces
 
-**The Stag's Territory (within the Whispering Wood)**
-- What it is: A marked area within the Whispering Wood claimed by the shimmering stag; boundaries indicated by broken branches, droppings, and nibbled vegetation
-- Current state: Occupied by the stag; party passed through after retreating at the stag's insistence
+**Moesko's Living Space (within Tower of Storms)**
+- What it is: A crude living quarters inside the Tower of Storms
+- What happened here: Searched by Valphine; concealed compartment discovered containing the talisman
+- Current state: Searched; compartment opened
 
-**The Bramble Thicket (within the Whispering Wood)**
-- What it is: A dense growth of brambles exhibiting planar contamination; leaves pulse with unnatural colors, sometimes glowing, sometimes withering to black; capable of lashing out with thorny tendrils; observed to regenerate
-- Current state: Rendered temporarily inert by Brewbarry and Soma; party passed through
+**Shipwreck: Star Crossed Lover**
+- What it is: A sunken shipwreck in the water near the Tower of Storms
+- What happened here: Soma (in giant toad form) discovered a +1 halberd in the grip of the ship's skeletal captain
+- Current state: Partially salvaged; waterlogged timber not removed
 
-**The Pool (within the Whispering Wood)**
-- What it is: A body of water in a clearing whose surface reflects distorted versions of those who look into it; identified by Vukradin as a planar scar, a window into fractured realities; connected to Uthgardt legends per Brewbarry, who identifies such pools as "Shadows to other places" that appear unnaturally and offer knowledge
-- Current state: Active and dangerous; causes mental strain, madness, and terror in those who look into or enter it
-- What happened here: Vukradin entered it and fell unconscious; Brewbarry looked into it and was driven to panicked flight
+**Shipwreck: Sea Urchin**
+- What it is: A sunken shipwreck in the water near the Tower of Storms
+- What happened here: Soma retrieved one locked chest clinging with starfish from this wreck
+- Current state: Partially salvaged
 
-**Gnomengarde**
-- What it is: A location visited prior to this session; source of mushrooms carried by the party
-- Current state: Not visited this session; referenced only
-
-**Stonehill Tavern**
-- What it is: A tavern; referenced by Vukradin as a place where he performed for fans
-- Current state: Not visited this session; referenced only
+**Leilon**
+- What it is: A settlement referenced in Miral's warning
+- What happened here: Referenced only; no direct events
+- Current state: Unknown; described as having a threat gathering "in the depths below" it
 
 ---
 
 ## Threads & Mysteries
 
-- The source of the planar disturbances in the Whispering Wood is located at the center of the forest; the party is moving toward it but has not yet arrived.
-- Unnamed individuals previously visited the stag, promised to fix the disturbances, and have not done so; their identity, current location, and fate are unknown.
-- The voice in the pool said "He saw beyond, but only what he was meant to see. The numbers. Always the numbers." — the identity of "he," the nature of what was seen, and the significance of "the numbers" are unresolved.
-- Vukradin's vision of himself clutching coins is unresolved; its meaning in relation to his personal conflict between art and commerce is unclear.
-- Brewbarry's vision of "butter both sides simultaneously" and his continued muttering of "Both sides!" may carry significance beyond the absurd surface reading.
-- Valphine expressed a desire to ask the pool more intelligent questions but did not do so; her intention remains open.
-- Valphine's apparent fear of happiness, observed by Vukradin, is unaddressed.
-- Vukradin notes that Soma appears curiously untroubled by the forest's unnatural state despite being a druid; his suspicion is unresolved.
-- The full extent and cause of the planar leakage affecting the Whispering Wood remains unknown.
-- The nature of the shell sprout traveling with the party is not elaborated upon this session.
+- **The alien talisman**: The talisman found in Moesko's compartment bears an inverted eye with tentacle-like lines and emits alien psionic energy distinct from conventional divine magic. Its origin, owner, and purpose are unknown. Soma indicated it should be "returned to its rightful owner."
+- **The foreign corruption of Moesko**: Miral explicitly stated that something foreign — not Talos — twisted Moesko's devotion. The nature, identity, and agenda of this external influence are unknown.
+- **The threat below Leilon**: Miral warned that "the true storm gathers not in the sky, but in the depths below Leilon." The nature of this threat is unspecified and unresolved.
+- **The inverted eye symbol**: An inverted eye with coiling tentacle lines was found on the talisman's reverse. This symbol's faction or entity affiliation has not been identified.
+- **The octopus entity**: Brewbarry identified Moesko's armor and talisman as connected to worship of a giant octopus. Whether this is the same entity behind the alien psionic talisman, or connected to the foreign corruption, is unresolved.
+- **Moesko's missing heart**: Moesko's body had a hole in his chest consistent with heart removal. How and when his heart was extracted and placed in the beacon is unexplained.
+- **The three recovered chests**: The mermaid statue, spellbook, and Wand of Secrets were recovered from sunken wrecks. Vukradin insists they must be returned to rightful owners; ownership is unestablished.
+- **The opalescent conch**: Recovered and delivered to Miral. Whether it has further significance beyond Miral's spirit is unconfirmed.
+- **The color-changing magical cloak**: Recovered during the session; ownership and properties not fully identified. Soma attempted to give it to Vukradin, who refused it.
+- **The lighthouse beacon**: The corrupted heart has been destroyed and the lightning rod smashed. The party has not yet established a proper permanent fire or replacement light source. The lighthouse's operational future is unresolved.
+- **The Giant Crab's role**: The Giant Crab appeared as an ally and identified the halberd as an intended reward. Its broader nature, allegiances, and ongoing relevance are unexplored.

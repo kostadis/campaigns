@@ -1,172 +1,152 @@
 ## NPCs
 
-**Elara**
-- Current location: Phandalin (returned by the party)
-- Current state: Safe, shaken but unharmed
-- Recent actions: Was attacked by orcs; cart overturned; pack horses fled; accepted Soma's help repairing cart; offered reward to Valphine on behalf of Lathander
-- Faction: None identified
-- Motivations: Was travelling to Phandalin with her groom; interpreted Valphine's devotion to Lathander as conventional faith
-
-**Jarek**
-- Current location: Phandalin (returned by the party)
-- Current state: Safe
-- Recent actions: Described orc attack; noted eerie coordination of attackers; reported hearing a hum or sound "in his head" before the attack
-- Faction: None identified; employed as Elara's groom
-- Revealed information: Heard a psychic hum immediately before the orc ambush
-
-**Ser Kaelen Thorne**
-- Current location: Phandalin
-- Current state: Active, present in town
-- Recent actions: Received Vukradin's report on the Elara/Jarek rescue; expressed approval; requested Vukradin compose music for the Order of the Gauntlet; recited the Order's chant when pressed
-- Faction: Order of the Gauntlet
-- Motivations: Believes recruiting Vukradin was the right decision; values deeds aligned with the Order's broader principles
-
-**Adabra**
-- Current location: Phandalin area (encountered near Barthen's Provisions on the Triboar Trail)
-- Current state: Active; appeared put off by Vukradin's approach
-- Recent actions: Pulled Soma aside; reported an old grove past Whisper Woods is withering unnaturally; described twisted trees, wrong colours, and creatures with too many eyes and jerky movements; made reference to interventionists and the Emerald Enclave
-- Faction: Associated with or referencing the Emerald Enclave
-- Motivations: Concerned about unnatural blight affecting a grove sacred to Chauntea; sought Soma's help
-
-**Martisha Vinetalker**
-- Current location: Wayside Inn (current owner)
-- Current state: Active, running the inn
-- Recent actions: Directed the party to a coastal trail
-- Faction: None identified
-- Description: Striking half-elf; stern, cold, calculating, and charismatic
-
-**Backes Dunfield**
-- Current location: Wayside Inn (bartender)
-- Current state: Active
-- Description: Human; scarred face; crooked smile
-
-**Cooragh Struckt**
-- Current location: Wayside Inn (cook)
-- Current state: Active
-- Description: Famous for tasty, alarmingly well-spiced stews and meat pies
+**Corbin**
+- Current location: Umbrage Hill (Adabra's windmill), traveling back to Phandalin
+- Current state: Former bandit, newly hired by the party as camp caretaker; alive, shaken, malodorous after the manticore encounter
+- Recent actions: Revealed his past as a farmer-turned-bandit; nearly targeted by the manticore as a food source; helped Adabra prepare food
+- Faction: None (formerly a bandit crew of unknown name)
+- Motivations/secrets: Originally a farmer from Greenmeadow; wife Elara and daughter Lily killed in a Black Lion Uthgardt barbarian raid during the chaos following the breaking of the Ordning; survival instinct drove him to petty crime and eventually banditry; wears armor scavenged from a dead man
 
 **Vukradin**
-- Current location: En route to Tower of Storms (coastal trail past Wayside Inn)
-- Current state: Active
-- Recent actions: Led approach to Elara and Jarek; cast Sleep spell incapacitating one orc and the orc shaman; insisted on escorting Elara and Jarek back to Phandalin; commissioned to write music for the Order of the Gauntlet; noted the unnatural gullies in the terrain could not be explained by natural river action
-- Faction: Order of the Gauntlet (newly inducted)
-- Motivations: Earning conflict-free coin; building a studio; maintaining artistic principles; avoiding "barbaric slaughtering"
-
-**Valphine**
-- Current location: En route to Tower of Storms (coastal trail past Wayside Inn)
-- Current state: Active
-- Recent actions: Shouted "Lathander!" to calm Elara; received the reward coin from Elara; used hand crossbow in orc ambush; cast Fairy Fire on enemies; observed unusual orc discipline and noted presence of a shaman
-- Faction: None formally identified; self-directed devotion to Lathander
-- Motivations/Secrets: Privately interprets Lathander as a god of pain and suffering rather than conventional good; contemplating founding a cult of Lathander centred on this aspect; views "being good" as a form of pleasurable self-inflicted pain; suspects magical forces shaped the coastal gullies
+- Current location: Umbrage Hill / en route to Phandalin
+- Current state: Alive; carrying the severed manticore head; in possession of Adabra's note to Harbin
+- Recent actions: Interrogated Corbin about stolen armor; attempted (twice, unsuccessfully) to charm the manticore with a spell; attempted to charm Adabra with music; cut off the manticore's head; read Adabra's note aloud; persistently accused Corbin and Adabra of theft
+- Faction: Party (fair trade philosophy)
+- Motivations/secrets: Refuses to take money from monster hoards on ethical grounds (considers it stolen property); only accepts "organic, conflict-free, fair-trade gold"; desires a studio; previously operated a pay-what-you-think-it's-worth music model—Brewbarry was his only 10/10 paying customer; is an aasimar
 
 **Soma**
-- Current location: En route to Tower of Storms
-- Current state: Active
-- Recent actions: Offered to mend Elara's broken cart; retrieved the horse alongside Brewbarry (or coordinated same); transformed into a brown bear during orc ambush, killing two orcs; agreed to investigate the blighted grove near Whisper Woods after Adabra's request
-- Faction: None identified; connection to Chauntea/nature implied by Adabra seeking her specifically
+- Current location: Umbrage Hill / en route to Phandalin
+- Current state: Alive; tortle druid; recently returned from a spider wild-shape
+- Recent actions: Wild-shaped into a spider; attempted to conjure a familiar and send it into the manticore's mouth; reassured the woman in the windmill; declared herself a naturalist to Adabra; explained Vukradin's financial situation to Adabra; listened to Corbin's backstory
+- Faction: Emerald Enclave (naturalist faction, by self-identification)
+- Motivations/secrets: Trained for approximately one year by a druidic master named Meril near her home; Meril prompted her to follow Vukradin; feels she had insufficient training time; has an undisclosed reason for having "so little time left"; her full training history is described as still a mystery; left her family behind
+
+**Valphine**
+- Current location: Umbrage Hill / en route to Phandalin
+- Current state: Alive; wounded by manticore tail spikes
+- Recent actions: Fired her hand crossbow at the manticore (first bolt wounded it; subsequent shots missed); offered to teach Adabra about Lathander; advanced on the manticore; failed to land the killing blow
+- Faction: Follower of Lathander
+- Motivations/secrets: Reflects on a "different life" in which trading Corbin to the manticore would have seemed a fair deal; credits Lathander's glory for the quality of food grown in the overbright
 
 **Brewbarry**
-- Current location: En route to Tower of Storms
-- Current state: Active
-- Recent actions: Retrieved Elara's runaway horse; detected hidden orc ambushers (spotted tracks and glint of concealed armour); raged and engaged orcs head-on in combat; absorbed significant damage
-- Faction: None identified
-- Description: Uthgardt Barbarian
+- Current location: Umbrage Hill / en route to Phandalin
+- Current state: Alive; wounded by manticore claws; rage protected him from worst damage
+- Recent actions: Pushed Corbin during Vukradin's interrogation; threw hand axes at the manticore (one struck its wings); struck the manticore with his halberd; climbed to the second floor of the windmill and struck the manticore twice; delivered the killing blow; waved the severed manticore tail to confirm the kill to Adabra; wore no armor throughout; self-identifies as a barbarian
+- Faction: Party
+- Motivations/secrets: Was Vukradin's only 10/10 paying music customer; appears to take pride in the term "barbarian" despite Adabra's objection to it
+
+**Adabra**
+- Current location: Umbrage Hill windmill (staying; did not leave permanently—agreed to travel to Phandalin to support party as fellow naturalists)
+- Current state: Alive; uninjured; had been besieged by the manticore for a short time before rescue
+- Recent actions: Called for help from inside the windmill; refused to leave her windmill initially; gave the party a healing potion (described as having extra scent and taste); provided a written note for Townmaster Harbin asking him to reward the party and including instructions for medicine; hosted the party overnight; cooked a meal of bread, vegetable and herb stew with fungi, foraged vegetables, berries, and wild greens; gave Soma a lesson on manticore dietary preferences; ultimately agreed to travel to Phandalin upon learning the party are naturalists
+- Faction: Emerald Enclave (naturalist faction)
+- Motivations/secrets: Holds strong naturalist convictions within the Emerald Enclave; opposes the "interventionist" faction; believes she must stay at the windmill to craft potions as part of her role in the natural order; aware that Townmaster Harbin sent a note to "his Lordship" requesting help and that the party is the promised help; holds a deed to the land on which the windmill and ruined dwarven building sit; tends the dwarf cairns; changed her mind about staying only when she learned the party were fellow naturalists; hostile to the interventionist approach of slaughtering monsters for treasure; corrected the party's understanding of manticore dietary preferences (confirmed they do prefer human flesh over other humanoids)
+
+**Meril**
+- Current location: Unknown
+- Current state: Unknown
+- Recent actions: Trained Soma in druidic arts for approximately one year near Soma's home; prompted Soma to follow Vukradin
+- Faction: Unknown (druidic)
+- Motivations/secrets: None revealed beyond his role as Soma's trainer
+
+**Elara** (deceased)
+- Status: Dead; killed in the Black Lion Uthgardt raid on Greenmeadow
+- Relation: Wife of Corbin
+
+**Lily** (deceased)
+- Status: Dead; killed in the Black Lion Uthgardt raid on Greenmeadow
+- Relation: Daughter of Corbin; loved wildflowers at the edge of the family fields
 
 ---
 
 ## Factions
 
-**Order of the Gauntlet**
-- Current goals: Upholding principled conduct; recruiting capable individuals; commissioning morale/cultural works (music from Vukradin)
-- Recent actions: Ser Kaelen Thorne endorsed Vukradin's rescue of Elara and Jarek as aligned with Order values; requested musical composition
-- Key members: Ser Kaelen Thorne
-- Relationships: Vukradin is a newly inducted member
-- Notes: Their official chant is "Steal and shield, Heart and band. We stand as one. A steadfast band." — considered embarrassing internally
-
 **Emerald Enclave**
-- Current goals: Implied concern over the unnatural blight affecting the grove past Whisper Woods
-- Recent actions: Referenced by Adabra in connection with the grove situation; no direct Enclave agents appeared
-- Relationships: Adabra has some connection or familiarity with the Enclave; Soma has been asked to investigate on their behalf or in alignment with their interests
+- Current goals: Preserving the natural order; accepting divine interventions as part of that order (naturalist position)
+- Internal division: Split between a **naturalist faction** (accept the meta-verse and divine interventions as natural; opposed to slaughtering monsters for treasure) and an **interventionist faction** (draw distinctions between civilised and uncivilised; associated with monster-slaying and treasure-taking)
+- Key members: Adabra (naturalist); Soma (naturalist, by self-identification)
+- Relationships: No external faction relationships revealed
 
-**Organised Orc Warband (unnamed)**
-- Current goals: Unknown; were lying in ambush for the party on the coastal trail
-- Recent actions: Previously attacked and overturned Elara's cart, scattering her horses; set a planned ambush in a coastal gully with a rock drop and elevated fire position; engaged the party and were defeated
-- Key members: An orc shaman/cleric (shapeshifted into a boar during combat; incapacitated by Vukradin's Sleep spell)
-- Relationships: Unknown patron or intelligence source — someone told them the party would be an "easy kill"
-- Secrets: Unusual discipline for surface orcs; bore odd markings described by Elara as "a swirl, or an eye"; Jarek heard a psychic hum before their first attack; shaman possesses shapeshifting ability (boar form)
+**Black Lion Tribe (Uthgardt)**
+- Current goals: Unknown at present
+- Recent actions: Raided and destroyed the village of Greenmeadow east of the High Forest; killed Corbin's family and neighbours; left Corbin for dead
+- Context: Their actions were described as occurring during the chaos following the breaking of the Ordning
+- Key members: None named
+
+**Party (unnamed adventuring group)**
+- Current goals: Rescue Adabra (completed); return to Phandalin to collect reward from Townmaster Harbin
+- Recent actions: Hired Corbin as camp caretaker; killed the manticore threatening Umbrage Hill; stayed overnight at Adabra's windmill; secured Adabra's agreement to travel to Phandalin
+- Philosophy: Vukradin enforces a strict fair-trade ethic; will not take money from monster hoards
+- Key members: Vukradin, Soma, Valphine, Brewbarry, Corbin (new hire)
 
 ---
 
 ## World Events
 
-- The party encountered Elara and Jarek sheltering behind an overturned trade cart on the road, having been attacked by orcs.
-- Soma repaired Elara's cart; Brewbarry retrieved a runaway pack horse.
-- Elara described the attacking orcs as unusually disciplined and bearing strange markings resembling a swirl or eye; she could not fully recall the details.
-- Jarek reported hearing a psychic hum in his head immediately before the orc attack began.
-- Vukradin insisted on escorting Elara and Jarek back to Phandalin despite group objections.
-- The party returned to Phandalin and reported the incident to Ser Kaelen Thorne of the Order of the Gauntlet.
-- Elara gave the reward coin to Valphine, directing it to Lathander's faithful.
-- Ser Kaelen Thorne asked Vukradin to compose music for the Order of the Gauntlet; recited the Order's chant when pressed.
-- Near Barthen's Provisions, Adabra approached the group and pulled Soma aside to report that a grove past Whisper Woods, formerly sacred to Chauntea, is withering unnaturally, with twisted trees, wrong colours, and aberrant creatures.
-- The party resumed travel on the Triboar Trail toward the Tower of Storms, encountering no travellers or corpses for several days.
-- The party spent a night at the Wayside Inn; Martisha Vinetalker directed them to a coastal trail in the morning.
-- On the coastal trail, Valphine sensed an ambush; Brewbarry confirmed it by spotting tracks and concealed armour.
-- The party climbed out of the gully and attacked the orc ambushers from behind.
-- Vukradin's Sleep spell incapacitated one orc and the orc shaman.
-- Soma transformed into a brown bear and killed two orcs.
-- Brewbarry raged and engaged in direct melee combat.
-- Valphine fired her hand crossbow and cast Fairy Fire, illuminating enemies and granting the party advantage.
-- The orc shaman shapeshifted into a boar during the combat.
-- Vukradin overheard orcs speaking in the Orc tongue; they referred to the party as an "easy kill," implying foreknowledge of the party's presence and an assessment of their threat level.
+- Corbin interrogated by Vukradin; admitted to being a former bandit and wearing armor stripped from a corpse; allowed to keep the armor provisionally until fair-trade armor can be obtained
+- Soma wild-shaped into a spider; returned to tortle form during the encounter with Corbin
+- Party approached Umbrage Hill and observed a manticore atop the windmill and heard a woman calling for help
+- Manticore spotted the party before they reached it; combat began
+- Valphine fired on the manticore; wounded it with the first bolt
+- Manticore struck Valphine with a volley of tail spikes
+- Vukradin cast a spell on the manticore; it had no effect
+- Manticore offered to spare the party in exchange for Corbin (citing preference for human flesh)
+- Soma conjured a familiar and directed it into the manticore's mouth; the manticore destroyed it and was further enraged
+- Brewbarry threw hand axes at the manticore, striking one wing; the manticore flew in and clawed Brewbarry; Brewbarry struck it with his halberd
+- Manticore retreated wounded to the second floor of the windmill
+- Vukradin cast a second spell on the manticore; it had no effect again
+- Brewbarry climbed to the second floor and struck the manticore twice; the manticore clawed Brewbarry again but his rage reduced the damage
+- The manticore flew toward Corbin intending to eat him; Vukradin and Soma struck it with spells
+- Valphine attempted the killing crossbow shot and missed
+- Brewbarry killed the manticore
+- Vukradin severed the manticore's head
+- Adabra emerged from the windmill; party confirmed the kill
+- Adabra gave the party a special healing potion and a written note to Townmaster Harbin requesting reward and providing medicine instructions
+- Brewbarry requested the party stay the night; Adabra agreed and cooked a meal
+- Corbin arrived at the windmill and gave his full backstory to the party and Soma
+- Adabra initially refused to leave her windmill the following morning
+- Vukradin played music for Adabra; she was impressed but still refused to leave
+- Upon learning the party are naturalists (prompted by Soma identifying herself as such the previous evening), Adabra agreed to travel to Phandalin with the party
 
 ---
 
 ## Locations
 
-**Triboar Trail**
-- What it is: A road connecting Phandalin to the broader region; the party's primary route of travel
-- Current state: Curiously empty of travellers or corpses during this stretch of travel
+**Umbrage Hill**
+- What it is: A hill in the region; site of Adabra's windmill, a set of cairns, and a ruined dwarven building
+- What happened: The party fought and killed a manticore that had besieged the windmill and trapped Adabra inside; the party spent the night at the windmill
+- Current state: Manticore dead; Adabra preparing to depart for Phandalin with the party; cairns are tended by Adabra
+
+**Adabra's Windmill**
+- What it is: Adabra's home and workshop for crafting potions, atop Umbrage Hill; built on land for which Adabra holds a deed
+- What happened: Manticore perched on it; combat occurred inside and on the second floor; party sheltered here overnight
+- Current state: Intact; Adabra departing temporarily
+
+**Ruined Dwarven Building (Umbrage Hill)**
+- What it is: A ruined structure adjacent to the windmill; destroyed before Adabra arrived; associated with the dwarven cairns she tends
+- Current state: Ruined; Adabra maintains the cairns nearby
+
+**Greenmeadow**
+- What it is: A small farming village east of the High Forest in the plains; Corbin's place of origin
+- What happened: Destroyed by Black Lion Uthgardt barbarians during the chaos following the breaking of the Ordning; Corbin's family killed there
+- Current state: Destroyed; abandoned
 
 **Phandalin**
-- What it is: A town; base of operations for the party and location of Ser Kaelen Thorne
-- Current state: Active; Ser Kaelen Thorne remains stationed there; Elara and Jarek were returned here safely
-
-**Barthen's Provisions**
-- What it is: A provisions shop on the road to the Triboar Trail in or near Phandalin
-- Current state: Active; Adabra was encountered nearby
-
-**Whisper Woods**
-- What it is: A wooded area near an old grove sacred to Chauntea
-- Current state: Referenced only; not visited
-
-**Old Grove (past Whisper Woods)**
-- What it is: A grove formerly vibrant and blessed by Chauntea
-- Current state: Withering unnaturally; trees twisted in impossible shapes; colours described as "bleeding wrong"; creatures present with too many eyes and jerky, broken movements
-
-**Wayside Inn**
-- What it is: An inn on the high road
-- Current state: Operational; owned by Martisha Vinetalker; staffed by Backes Dunfield (bartender) and Cooragh Struckt (cook)
-- What happened there: Party rested overnight; departed in the morning via a coastal trail indicated by Martisha
-
-**Coastal Trail (past Wayside Inn)**
-- What it is: A trail through broken, hilly coastal terrain of the Sword Coast, featuring unnatural gullies that split the ground
-- Current state: Active travel route toward Tower of Storms; site of the orc ambush
-- Notes: Vukradin identified the gullies as inconsistent with natural river formation; Valphine suspects magical origin
-
-**Tower of Storms**
-- What it is: The party's stated destination
-- Current state: Not yet reached
+- What it is: A town; base of operations for the party; location of Townmaster Harbin
+- Current state: Party is traveling back toward it
 
 ---
 
 ## Threads & Mysteries
 
-- **Identity and origin of the organised orc warband**: The attacking orcs display unusual discipline, bear strange markings (described as a swirl or an eye), and someone informed them the party would be an "easy kill" — implying an intelligence source. Their patron or commanding force is unknown.
-- **Psychic hum reported by Jarek**: Jarek heard a sound "in his head" immediately before the first orc attack. Valphine raised the possibility of mind flayer involvement; Vukradin dismissed this. The source of the hum is unresolved.
-- **Strange markings on the orcs**: Elara recalled markings resembling a swirl or an eye but could not retain the memory clearly. Their significance and affiliation are unknown.
-- **Unnatural blight of the grove past Whisper Woods**: Reported by Adabra to Soma. Creatures in the grove have too many eyes and exhibit jerky, aberrant movement. The cause of the blight is unknown. Soma agreed to investigate. Adabra referenced the Emerald Enclave in this context.
-- **Magical origin of the coastal gullies**: Valphine suspects the unnatural splits in the terrain were created by magic rather than natural forces. No further investigation has occurred.
-- **Valphine's planned cult of Lathander**: Valphine is privately contemplating founding a cult centred on Lathander as a god of pain rather than conventional dawn and goodness. This has not been shared with the party.
-- **Tower of Storms**: The party's destination; its nature, contents, and the reason for travelling there have not been described in this session's notes.
-- **Adabra's relationship to the Emerald Enclave**: She referenced interventionists and the Enclave but her precise role or affiliation is unstated.
-- **Who informed the orcs about the party**: The overheard orc conversation implies foreknowledge of the party's route and an underestimation of their strength. The source of this intelligence is unknown.
+- Soma has "so little time left" — the nature and cause of this time constraint is unexplained
+- Soma's full training history and why she left her family are described as still a mystery to Valphine
+- The identity of "his Lordship" to whom Townmaster Harbin sent a note requesting help is unspecified
+- Adabra's note to Harbin includes instructions for administering medicine to him — Harbin appears to be ill or injured; the nature of his condition and Adabra's treatment are unresolved
+- The schism within the Emerald Enclave between naturalists and interventionists is mentioned but not fully elaborated; its broader implications for the campaign are unclear
+- The "meta-verse" referenced by Adabra in her naturalist philosophy is undefined
+- The breaking of the Ordning and its ongoing consequences (lawless giants, Uthgardt aggression) are established as background events affecting the region; the current state of the Ordning is not addressed
+- Corbin's former bandit crew is unidentified and their current whereabouts and activities are unknown
+- What "fair-trade armor" for Corbin will look like and when it will be obtained is unresolved
+- Vukradin's desire for a "studio" — its nature and how he intends to fund it — is unresolved
+- A white dragon is described as flying about the region, making travel dangerous — its identity, location, and intentions are unresolved

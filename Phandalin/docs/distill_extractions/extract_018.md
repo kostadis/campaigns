@@ -1,155 +1,272 @@
 ## NPCs
 
-**Vukradin**
-- Current location: Logger's Camp, south shore of a river in Neverwinter Wood
-- Current state: Distressed at finding the camp apparently abandoned
-- Recent actions: Charmed an orc scout using music, cast Phantasmal Force on the same orc causing it to attack an illusion of an ally, helped capture the orc with the necklace of bones
-- Faction: Travelling party
-- Motivations: Seeking payment from Tribar Wester; determined to find the owner of a stolen magical ring in the Falcon Hunter's possession
+**Sister Kella**
+- Current location: Unknown (not present in session)
+- Current state: Enemy-turned-potential-ally
+- Recent actions: Provided information on how to find the Carver; offered the party a reward originally intended for Lokudus as a down payment for cooperation
+- Faction: Unknown
+- Motivations/Secrets: Opposed to the Carver; willing to work with the party against a common enemy
 
-**Soma**
-- Current location: Logger's Camp
-- Current state: Wounded (struck by an arrow during combat), returned to normal form
-- Recent actions: Transformed into a bear to scout the orc position, climbed a tree and bit the orc scout's foot, jumped from a branch to shove the scout toward the other orcs, bit down on the orc with the necklace of bones
-- Faction: Travelling party
-- Notes: Cast Moonbeam during combat; Valphine privately holds the spell in contempt
+**Lokudus**
+- Current location: Unknown
+- Current state: Unknown
+- Recent actions: Was originally to receive a reward from Sister Kella (circumstances unclear)
+- Faction: Unknown
+- Motivations/Secrets: None revealed
+
+**Vukradin**
+- Current location: Falcon Hunting Lodge (as of evening of 9-02-Taraksh 1495)
+- Current state: Active party member; morally conflicted about the group's finances and treasure
+- Recent actions: Stormed out of the tavern over the Sister Kella arrangement; spoke with Ser Kaelen about tracing treasure to rightful owners; confronted Falcon over dragon hoard treasure; gave an insincere apology to Falcon; privately resolved to research the dragon hoard and find its rightful owners
+- Faction: Party
+- Motivations/Secrets: Believes possessions belong to their original owners; refuses to accept stolen goods or work with evil people; considers dragon hoard treasure stolen from victims of the dragon
 
 **Valphine**
-- Current location: Logger's Camp
-- Current state: Struck once by the orc with the necklace of bones; the fleeing scout escaped her pursuit
-- Recent actions: Spotted the concealed orc scout, fired crossbow (mostly missing), cast or directed Moonbeam, pursued the fleeing scout unsuccessfully, ordered the captured orc to work for the party
-- Faction: Travelling party; worshipper of Lathander
-- Revealed background/motivations: Former resident of Menzoberranzan (spelled "Menzoberanzaan" in text); holds strong views on slavery and domination; contemptuous of Moonbeam as inferior to true sunlight; experiences violent impulses consistent with her Underdark upbringing; harbours interest in a possible connection between the captured orc's tribe and Cultists of Talos
+- Current location: Falcon Hunting Lodge
+- Current state: Active party member
+- Recent actions: Explained Sister Kella's offer to the party; agreed to found a Temple of Lathander; spoke with Sridar about planar events; shared detailed information with Sridar about a creature collecting strange items; participated in selling the Talisman of Moesko
+- Faction: Party; affiliated with Lathander worship
+- Motivations/Secrets: None beyond revealed
+
+**Jena Roscoe**
+- Current location: Tavern (last seen)
+- Current state: Present, observing
+- Recent actions: Explained Vukradin's principles to the party; explained to the party how reinvesting adventuring money into the community legitimises it; suggested Vukradin might learn to understand this concept over time
+- Faction: Unknown
+- Motivations/Secrets: Appears pragmatic about the origins of adventuring wealth
+
+**Brin Bundlewine**
+- Current location: Town (last seen at tavern)
+- Current state: Eager convert; new temple organiser
+- Recent actions: Approached Valphine with excitement about founding a chapel; agreed to renovate Tresendar Manor into the Temple of Lathander's Searing Pain of Justice for twenty-five gold pieces covering materials, providing labour for free
+- Faction: Temple of Lathander's Searing Pain of Justice (founding member)
+- Motivations/Secrets: Heard rumours of a drow who worships Lathander and believes in the purifying pain of the sun; wishes to establish a chapel to this interpretation
+
+**Giles Slipper-Shine**
+- Current location: Town (last seen at tavern)
+- Current state: Eager convert; new temple organiser
+- Recent actions: Approached Valphine alongside Brin Bundlewine; agreed to the same renovation arrangement
+- Faction: Temple of Lathander's Searing Pain of Justice (founding member)
+- Motivations/Secrets: Same as Brin Bundlewine
+
+**Harbin Wester**
+- Current location: Town (last seen at tavern)
+- Current state: Active; townmaster
+- Recent actions: Appeared and offered to arrange temple paperwork for fifty gold pieces as a private arrangement; framed it as how things are done in the Overbright; told Vukradin the temple funds were a community donation; offered to buy a round of beer; gave the party a supply delivery quest for his brother at the Logger's Camp
+- Faction: Privy Council (leader/townmaster)
+- Motivations/Secrets: Conducts private financial arrangements outside full council oversight; describes this as standard practice in the Overbright
+
+**Ser Kaelen**
+- Current location: Town (last seen)
+- Current state: Awaiting information
+- Recent actions: Spoke with Vukradin about tracing rightful owners of found treasure; stated he was waiting for information from Neverwinter; expected answers within a few days; suggested the party check out Mountain's Toe or deliver supplies to the Logger's Camp while waiting
+- Faction: Unknown
+- Motivations/Secrets: None revealed beyond helping trace treasure ownership
+
+**Barthen**
+- Current location: Barthen's Provisions, town
+- Current state: Active merchant
+- Recent actions: Provided two heavy crates of supplies (dried meats, cheese, bread, ale, and oil) on a cart pulled by an ox named Vincent for delivery to the Logger's Camp; suggested the party stop at the Falcon Hunting Lodge for wine; provided a letter of introduction to the lodge
+- Faction: Unknown
+- Motivations/Secrets: Has a brother at the Logger's Camp
+
+**Vincent**
+- Current location: Falcon Hunting Lodge (as of session end)
+- Current state: Present; ox pulling supply cart
+- Recent actions: Pulled the supply cart through Neverwinter Wood to the Falcon Hunting Lodge
+- Faction: N/A
+
+**Corwin**
+- Current location: Falcon Hunting Lodge
+- Current state: Active staff member
+- Recent actions: Greeted the party at the gate; identified himself as chef and retainer; reviewed Barthen's letter of introduction; welcomed the party and fetched Falcon
+- Faction: Falcon Hunting Lodge
+- Motivations/Secrets: None revealed
+
+**Falcon the Hunter**
+- Current location: Falcon Hunting Lodge
+- Current state: Retired adventurer; lodge proprietor
+- Recent actions: Welcomed the party; offered lodging, meals, and wine in exchange for musical entertainment; explained the orc situation in the area; shared his philosophy on adventuring and retirement; revealed he built the lodge with his share of a dragon hoard; was confronted by Vukradin and demanded an apology; accepted Vukradin's apology; mentioned a quest involving half-orcs at the Woodland Mants with boots of elvenkind as reward; offered three bottles of wine as part of the talisman deal with Sridar
+- Faction: Interventionists (self-identified)
+- Motivations/Secrets: Built lodge with a quarter share of a dragon hoard split four ways among his adventuring group; dismisses the movement against adventurers using plunder as an attempt to disrupt the ruling elite; identifies as an interventionist regarding planar incursions; has legitimately purchased boots of elvenkind with lodge proceeds
+
+**Soma**
+- Current location: Falcon Hunting Lodge
+- Current state: Active party member
+- Recent actions: Asked Falcon about the unusually large fence surrounding the compound
+- Faction: Party
 
 **Brewbarry**
-- Current location: Logger's Camp
-- Current state: Active; has taken custody of the captured orc
-- Recent actions: Pulled the supply cart (after the Falcon Hunter filled it with alcohol); stumbled through the woods and broke the party's element of surprise; split a thrown javelin in two; attacked orcs with his halberd (missed); protected Valphine when enraged; bound the captured orc to the cart; named the orc "Shrimpy"
-- Faction: Travelling party
-- Revealed background: Was exiled from his village following accusations; the orc's similar situation of unjust banishment resonated with him
+- Current location: Falcon Hunting Lodge
+- Current state: Active party member; bard
+- Recent actions: Noticed there was no wine in the supply crates; agreed to provide musical entertainment at the lodge; suggested planar events might be intentional rather than coincidental; received three bottles of wine as part of the talisman deal
+- Faction: Party
 
-**"Shrimpy" (captured orc, real name unknown)**
-- Current location: Logger's Camp; bound to the supply cart
-- Current state: Captured, hands bound, forced to pull the cart
-- Recent actions: Led or participated in the ambush of the party; surrendered after being captured by Brewbarry and Vukradin
-- Faction: Formerly an independent orc raiding party; now a captive of the travelling party
-- Revealed motivations/secrets: Believes orcs should work only for orcs; opposed his chief's alliance with half-orc Cultists of Talos; tribe was displaced from a mountain home near the Ice Spires in the Sword Mountains by a white dragon; tribe subsequently relocated to a valley; wears a necklace of bones
-
-**The Orc Scout (unnamed)**
-- Current location: Unknown; fled into Neverwinter Wood
-- Current state: Wounded (bitten foot), at large
-- Recent actions: Was concealed in bushes as an advance scout, made hand signals to the north, east, and west upon being spotted, climbed a tree, disengaged from Soma, fired an arrow hitting Soma, fired at Valphine (missed), eventually fled and escaped Valphine's pursuit
-- Faction: Independent orc raiding party (same as Shrimpy)
-
-**The Orc with the Scar (unnamed)**
-- Current location: Dead
-- Current state: Deceased
-- Recent actions: Berated the scout, attacked Brewbarry, was charmed by Vukradin's music, was struck by Vukradin's daggers and killed
-- Faction: Independent orc raiding party
-
-**Tribar Wester (also referred to as "Triber Wester" once)**
-- Current location: Logger's Camp (expected); whereabouts unknown
-- Current state: Missing; camp is silent and apparently abandoned
-- Faction: Unknown
-- Notes: The party is delivering supplies to him; Vukradin expects payment upon delivery
-
-**The Falcon Hunter**
-- Current location: Not present in this session
-- Current state: Described as a fraud, artist, and thief
-- Revealed information: Possesses a magical ring that belonged to someone else (stolen); filled Brewbarry's supply cart with alcohol prior to this session
+**Sridar**
+- Current location: Falcon Hunting Lodge (staying as guest)
+- Current state: Guest; artifact collector
+- Recent actions: Joined the party at dinner; was confused when Valphine asked if she was a cleric of Lathander; explained her background and interests; offered thirty gold pieces for information about planar events the party shared; identified the Talisman of Moesko as having a planar connection; offered and paid one hundred gold pieces to purchase the talisman; arranged for Falcon to provide three bottles of wine for Brewbarry as part of the deal; offered to help the party piece together clues about planar events in the future
+- Faction: Interventionists (self-identified)
+- Motivations/Secrets: Became fascinated with planar events after a blink in the Underdark when demons appeared; collects curious artifacts that are "not quite right," particularly those related to planar events; interested in understanding planar transformations and disruptions; originally believed planar incursions were a natural phenomenon like the Faerzress; now considers intentional interference a possibility worth investigating
 
 ---
 
 ## Factions
 
-**The Travelling Party (Vukradin, Soma, Valphine, Brewbarry)**
-- Current goals: Deliver supplies to Tribar Wester at the Logger's Camp; collect payment
-- Recent actions: Traversed Neverwinter Wood, defeated an orc ambush, captured one orc and pressed him into service, arrived at the Logger's Camp to find it deserted
-- Relationships: Transporting supplies originally intended for Tribar Wester; adversarial encounter with the independent orc raiding party
+**The Party**
+- Current goals: Deliver supplies to the Logger's Camp; await Ser Kaelen's information from Neverwinter about treasure ownership; consider the Carver situation
+- Recent actions: Debated working with Sister Kella; founded the Temple of Lathander's Searing Pain of Justice; accepted the supply delivery quest; travelled to the Falcon Hunting Lodge; sold the Talisman of Moesko to Sridar
+- Relationships: Tentative and contested relationship with Sister Kella; friendly with Barthen, Ser Kaelen, and Harbin Wester; new acquaintance with Falcon and Sridar
+- Key members: Vukradin, Valphine, Soma, Brewbarry
 
-**Independent Orc Raiding Party**
-- Current goals: Raiding for survival; self-described as working for no one
-- Recent actions: Set an ambush in Neverwinter Wood for the travelling party; ambush failed; one member killed, one captured, one fled
-- Relationships: Formerly part of a larger tribe; a faction of that tribe allied with half-orc Cultists of Talos under their chief; this splinter group rejected that alliance
-- Key members: Shrimpy (captured), the orc with the scar (dead), the orc scout (fled)
-- Background: Displaced from the Ice Spires/Sword Mountains by a white dragon; relocated to a valley
+**The Privy Council**
+- Current goals: Governing the town; processing paperwork and civic arrangements
+- Recent actions: Harbin Wester arranged temple paperwork privately for fifty gold pieces outside full council process
+- Relationships: Governs the town; works with adventurers transactionally
+- Key members: Harbin Wester (townmaster and leader)
 
-**Cultists of Talos (half-orc faction)**
+**Temple of Lathander's Searing Pain of Justice**
+- Current goals: Establishing and renovating a chapel at Tresendar Manor dedicated to Lathander interpreted through the purifying pain of the sun
+- Recent actions: Founded; paperwork arranged by Harbin Wester for fifty gold; renovation contracted to Brin Bundlewine and Giles Slipper-Shine for twenty-five gold in materials
+- Relationships: Connected to Valphine and the party; new institution in town
+- Key members: Brin Bundlewine, Giles Slipper-Shine (founding renovators); Valphine (patron/inspiration)
+
+**The Carver**
 - Current goals: Unknown
-- Recent actions: The chief of Shrimpy's tribe allied with this group, drawing much of the tribe to follow
-- Relationships: Allied with at least one orc tribe chief; Valphine suspects a possible connection to other Cultists of Talos encountered previously
-- Key members: Unnamed half-orc cultists; unnamed orc chief (allied with them)
+- Recent actions: Not directly active this session; Sister Kella has provided information on how to find the Carver
+- Relationships: Opposed by Sister Kella; hunted by the party
+- Key members: Unknown
 
-**Church of Lathander**
-- Current goals: Not stated
-- Relationships: Valphine is a worshipper; Valphine contrasts Lathander's light with the Moonbeam spell and with her Underdark past; Lathander is noted to disapprove of sacrifice
+**The Orcs (valley)**
+- Current goals: Unknown
+- Recent actions: Left their mountain homes after a dragon appeared in the area and descended into the valley; operating in the valley near the Falcon Hunting Lodge
+- Relationships: Appear to be working with evil half-orcs at a ruined stone manse approximately ten miles southwest of the Falcon Hunting Lodge; prompted Falcon to build a fortified palisade
+- Key members: None named
+
+**The Half-Orcs (Woodland Mants)**
+- Current goals: Unknown
+- Recent actions: Inhabiting a ruined stone manse called the Woodland Mants approximately ten miles southwest of the Falcon Hunting Lodge
+- Relationships: Appear to be working with the valley orcs; considered a threat by Falcon
+- Key members: None named
+
+**The Interventionists**
+- Current goals: Actively stopping planar incursions
+- Recent actions: Falcon and Sridar both self-identified as interventionists this session
+- Relationships: Opposed philosophically to the naturalist faction within the Emerald Enclave
+- Key members: Falcon the Hunter, Sridar
+
+**The Emerald Enclave (Naturalist Faction)**
+- Current goals: Non-interference in natural and planar events
+- Recent actions: None directly this session; described by Sridar and Falcon
+- Relationships: Opposed philosophically to the interventionists; described as willing to let the world burn rather than interfere
+- Key members: None named
+
+**The Anti-Adventurer Movement**
+- Current goals: Unknown; described as opposing adventurers keeping plunder
+- Recent actions: None directly this session; mentioned by Falcon as a rumour
+- Relationships: Falcon dismisses it as an attempt to disrupt the ruling elite
+- Key members: None named
 
 ---
 
 ## World Events
 
-- The party departed for the Logger's Camp in Neverwinter Wood, with Brewbarry pulling a supply cart filled with alcohol by the Falcon Hunter.
-- Valphine moved up alongside Brewbarry during the march for an unstated reason.
-- Valphine spotted a poorly concealed orc scout in the bushes ahead of the party.
-- Soma transformed into a bear and approached the scout; the scout climbed a tree and signalled north, east, and west, revealing the site as a prepared ambush clearing.
-- Brewbarry stumbled noisily through the woods, alerting the orcs and collapsing the party's element of surprise.
-- Soma climbed the tree and bit the scout's foot; the scout disengaged and shot Soma with an arrow.
-- The orc with the necklace of bones advanced on Brewbarry and threw a javelin at him (landing short); Brewbarry split it in two.
-- The orc with the scar advanced on Brewbarry and attacked.
-- Vukradin charmed the orc with the scar using magic; the charmed orc attacked the scout.
-- The orc with the necklace of bones objected to the attack on "his brother's nephew."
-- Soma leapt from a tree branch and shoved the scout toward the other orcs.
-- Valphine cast Moonbeam; it did minimal damage to the orcs.
-- The orc scout fled after seeing a Drow worshipping Lathander and a bear casting Moonbeam.
-- Valphine wounded an orc with her crossbow.
-- Vukradin's charm on the orc with the scar ended; Vukradin cast Phantasmal Force, causing the orc with the scar to see an illusion of the orc with the necklace and attack it.
-- The real orc with the necklace attacked Valphine.
-- Brewbarry became enraged and enlarged, swinging his halberd in a 20-foot arc (missed).
-- The scout stopped fleeing, turned, and fired at Valphine (missed), then fled again.
-- The orc with the scar was struck by Vukradin's daggers and killed.
-- Soma's jaws clamped down on the orc with the necklace, critically wounding him.
-- The orc with the necklace was captured by Brewbarry and Vukradin.
-- Valphine pursued the fleeing scout but he escaped into the forest.
-- The captured orc revealed his tribe's history: displaced from the Ice Spires in the Sword Mountains by a white dragon, relocated to a valley, chief allied with half-orc Cultists of Talos, the orc's faction rejected this alliance.
-- Valphine ordered the orc to work for the party; Brewbarry bound him to the cart and named him "Shrimpy."
-- The party arrived at the Logger's Camp to find it deserted and silent.
+- Sister Kella provided information on how to find the Carver and offered a reward originally meant for Lokudus as a down payment for the party's cooperation.
+- Vukradin refused to work with Sister Kella or accept what he considered stolen goods and stormed out of the tavern.
+- Brin Bundlewine and Giles Slipper-Shine approached Valphine at the tavern seeking to establish a chapel to Lathander based on the purifying pain of the sun.
+- The party agreed to convert Tresendar Manor into the Temple of Lathander's Searing Pain of Justice.
+- Harbin Wester arranged temple paperwork privately for fifty gold pieces outside full council process.
+- Brin Bundlewine and Giles Slipper-Shine contracted to renovate the temple for twenty-five gold pieces in materials, providing labour for free.
+- Harbin Wester told Vukradin the temple funds were a community donation.
+- Harbin Wester bought a round of beer for the party.
+- Vukradin spoke with Ser Kaelen about tracing the rightful owners of found treasure; Ser Kaelen is awaiting information from Neverwinter.
+- The party accepted a supply delivery quest from Harbin Wester for his brother at the Logger's Camp.
+- The party collected two heavy crates of supplies (dried meats, cheese, bread, ale, and oil) from Barthen's Provisions, loaded onto a cart pulled by an ox named Vincent.
+- Barthen suggested the party stop at the Falcon Hunting Lodge for wine and provided a letter of introduction.
+- The party completed a two-day journey through Neverwinter Wood without incident and arrived at the Falcon Hunting Lodge on 9-02-Taraksh 1495.
+- Corwin greeted the party at the lodge gate, reviewed the letter of introduction, and welcomed them inside.
+- Falcon the Hunter welcomed the party, offered hospitality including lodging, meals, and wine in exchange for Brewbarry's musical entertainment.
+- Falcon revealed that orcs had left their mountain homes after a dragon appeared in the area and descended into the valley, and that these orcs appeared more organised than usual and seemed to be working with evil half-orcs at a ruined stone manse approximately ten miles southwest of the lodge.
+- During dinner, Falcon revealed he had built his lodge using his quarter share of a dragon hoard his adventuring group had killed and split four ways.
+- Vukradin confronted Falcon over keeping dragon hoard treasure and accused him of stealing from the dragon's victims.
+- Vukradin stormed out; Falcon demanded an apology upon his return; Vukradin gave an insincere apology which Falcon accepted.
+- The party met Sridar, a drow guest at the lodge and collector of planar artifacts.
+- Valphine shared information about a creature collecting strange items with Sridar; Sridar paid thirty gold pieces for this information.
+- The party showed Sridar the Talisman of Moesko; Sridar identified it as having a definite planar connection and purchased it for one hundred gold pieces.
+- Sridar arranged for Falcon to provide three bottles of wine for Brewbarry as part of the talisman transaction.
+- Falcon mentioned a quest involving the half-orcs at the Woodland Mants, offering boots of elvenkind as a reward, but suggested the party might need more experience first.
+- Vukradin privately resolved to research the dragon hoard and find its rightful owners.
 
 ---
 
 ## Locations
 
+**The Tavern (town)**
+- What it is: Local tavern in the party's base town
+- What happened there: Party debated the Sister Kella arrangement; Brin and Giles approached Valphine; temple deal arranged; Harbin Wester conducted the paperwork transaction; Harbin bought a round of beer
+- Current state: Unchanged
+
+**Tresendar Manor**
+- What it is: A dilapidated manor in town
+- What happened there: Selected as the site for the new Temple of Lathander's Searing Pain of Justice; paperwork arranged; renovation contracted
+- Current state: Under planned renovation by Brin Bundlewine and Giles Slipper-Shine
+
+**Barthen's Provisions**
+- What it is: A provisioner's shop in town run by Barthen
+- What happened there: Party collected two heavy supply crates for the Logger's Camp delivery quest; Barthen suggested stopping at the Falcon Hunting Lodge for wine
+- Current state: Operational
+
 **Neverwinter Wood**
-- A forest; the party travelled deep into it en route to the Logger's Camp.
-- Site of the orc ambush; a small clearing was prepared by the orcs as an ambush point.
-- Current state: Orc scout still at large somewhere within it.
+- What it is: A wood through which the party travelled en route to the Logger's Camp
+- What happened there: The party made a peaceful two-day journey through it
+- Current state: Traversable; no incidents recorded
 
-**Logger's Camp**
-- Located on the south shore of a river within or at the edge of Neverwinter Wood.
-- Consists of approximately a dozen tents arranged on a sandy beach, a deck, a cabin with logs stacked under its awning, and the stone chimneys and foundations of older demolished cabins.
-- Expected location of Tribar Wester.
-- Current state: Deserted; a grim silence hangs over the camp; Tribar Wester is not present.
+**Falcon Hunting Lodge**
+- What it is: A fortified compound in or near Neverwinter Wood, proprietied by Falcon the Hunter; features a ten-foot-high log palisade, a two-story main building, a stone tower, a stable house, and guest quarters
+- What happened there: Party arrived and were welcomed; dinner with Falcon and Sridar; confrontation between Vukradin and Falcon; sale of the Talisman of Moesko to Sridar; Falcon mentioned the orc situation and the Woodland Mants quest
+- Current state: Occupied and operational; fortified due to organised orc activity in the area
 
-**The Ice Spires / Sword Mountains**
-- Mountain region referenced as the original homeland of Shrimpy's orc tribe.
-- Current state: Occupied by a white dragon that drove the tribe out.
+**The Logger's Camp**
+- What it is: A camp, location of Harbin Wester's brother, destination of the supply delivery quest
+- What happened there: Nothing yet; party has not arrived
+- Current state: Destination; supplies en route
 
-**The Valley (unnamed)**
-- Location where Shrimpy's tribe relocated after being driven from the Sword Mountains.
-- Current state: Tribe operating from here; chief allied with Cultists of Talos.
+**Mountain's Toe**
+- What it is: A named location suggested by Ser Kaelen as a possible activity while waiting for information from Neverwinter
+- What happened there: Nothing; not visited this session
+- Current state: Unknown
 
-**Menzoberranzan (referred to as "Menzoberanzaan")**
-- Valphine's place of origin in the Underdark.
-- Referenced only in comparison to present circumstances; not visited this session.
+**Neverwinter**
+- What it is: A city; Ser Kaelen is awaiting information from there regarding treasure ownership
+- What happened there: Nothing directly this session
+- Current state: Source of pending information
+
+**The Woodland Mants**
+- What it is: A ruined stone manse approximately ten miles southwest of the Falcon Hunting Lodge
+- What happened there: Nothing directly this session; described by Falcon
+- Current state: Occupied by evil half-orcs who appear to be working with organised orcs from the mountains; site of a potential quest Falcon mentioned
+
+**The Underdark**
+- What it is: Underground realm; referenced in backstory
+- What happened there: A "blink" event occurred in which demons appeared, which triggered Sridar's fascination with planar events
+- Current state: Referenced; not visited this session
 
 ---
 
 ## Threads & Mysteries
 
-- **The Logger's Camp is abandoned.** Tribar Wester is missing and the camp is silent. The cause is unknown. Vukradin's payment is contingent on finding him.
-- **The magical ring stolen by the Falcon Hunter.** The ring belonged to someone; Vukradin has resolved to find its rightful owner. The identity of the owner and the nature of the ring are unknown.
-- **The Falcon Hunter's character and whereabouts.** Described as a fraud, artist, and thief; not present in this session. His connection to the party and broader plot is unresolved.
-- **The Cultists of Talos alliance with the orc tribe.** Shrimpy's chief allied with half-orc Cultists of Talos. Valphine suspects a connection to other Cultists of Talos previously encountered. The extent and purpose of this alliance are unknown.
-- **The white dragon of the Ice Spires.** A white dragon drove Shrimpy's tribe from their home in the Sword Mountains. Its current activities and relevance to the broader campaign are unknown.
-- **Valphine's reason for moving alongside Brewbarry** during the march was noted by Vukradin but never explained.
-- **The orc scout remains at large** in Neverwinter Wood, aware of the party's composition and destination.
-- **The war of the dragons and the war of the giants** were referenced by Shrimpy as events that destabilised the region. Their nature, outcome, and ongoing relevance are not elaborated upon.
+- **Sister Kella alliance**: The party has not resolved whether to work with Sister Kella against the Carver. Vukradin is opposed; Valphine sees strategic value. The down payment offer and the information on finding the Carver remain outstanding.
+- **The Carver**: The party has information on how to find the Carver (provided by Sister Kella) but has not yet acted on it.
+- **Treasure ownership investigation**: Ser Kaelen is awaiting information from Neverwinter about the rightful owners of treasure the party found. Resolution expected within a few days.
+- **Dragon hoard ownership**: Vukradin has privately resolved to research the dragon hoard Falcon used to build his lodge and find its rightful owners, intending to confront Falcon about returning it.
+- **Supply delivery**: The party has not yet completed the delivery of supplies to the Logger's Camp (Harbin Wester's brother).
+- **The Woodland Mants quest**: Falcon offered a quest involving evil half-orcs at the Woodland Mants, rewarding boots of elvenkind, but suggested the party may not yet be ready.
+- **The valley dragon**: A dragon appeared in the area and descended into the valley, causing orcs to flee their mountain homes. The dragon's identity, current location, and intentions are unknown.
+- **Organised orcs and half-orcs**: Orcs in the valley appear more organised than usual and seem to be working with evil half-orcs at the Woodland Mants. The nature and goals of this alliance are unknown.
+- **Planar incursions**: Sridar and others are investigating why planar incursions are occurring. Theories include magic users, planar entities, natural phenomena (like Faerzress), or intentional interference. No definitive answer has been established.
+- **The Talisman of Moesko**: Sold to Sridar; identified as having a planar connection. Its full significance, origin, and connection to wider planar events remain unexplained.
+- **The creature collecting strange items**: Valphine shared information with Sridar about a creature collecting strange items. This entity and its goals have not been fully explained or resolved.
+- **The blink in the Underdark**: The event that triggered Sridar's interest—a blink in the Underdark during which demons appeared—has not been explained or connected to other known events.
+- **Mountain's Toe**: Suggested by Ser Kaelen as a possible destination; no further information given. Its relevance is unclear.
+- **Anti-adventurer movement**: Falcon mentioned rumours of a movement against adventurers keeping plunder, which he dismissed. Its existence, goals, and membership remain uninvestigated.
+- **The Overbright**: Harbin Wester referred to the region as "the Overbright" and described private financial arrangements as simply how things are done there. The nature and customs of the Overbright have not been fully explained.

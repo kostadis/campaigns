@@ -1,9 +1,18 @@
+---
+name: out_of_phase_dwarves_axelholm_inhabitants
+aliases: []
+source_extracts: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38]
+---
+
 # Out-of-Phase Dwarves (Axelholm Inhabitants)
 
 ## Identity
 - **Role:** Former dwarven inhabitants of Axelholm; primary antagonists
 - **Faction:** None — transformed remnants of Axelholm's original population
 - **First Appearance:** Encountered inside Axelholm during the party's incursion; emerged from unnatural light within the fortress
+- **Physical Description:** Grotesque out-of-phase beings with parchment-like skin covered in shifting ink, gold coins embedded in their flesh, and mouths sewn shut with golden wire or red tape. Their limbs appear to multiply and move out of phase with reality, giving the impression of six hands and six legs.
+
+*Also known as: (none).*
 
 ## Personality & Motivations
 - Minds broken by their transformation; motivation appears reduced to obsessive muttering about **efficiency**
@@ -19,7 +28,7 @@
 ## Current Status
 - **Last Known Location:** Active and hostile within Axelholm
 - **Ongoing Threat:** Continuing to emerge from unnatural light; numbers escalating during combat
-- **Party Knowledge:** The party has witnessed their appearance, paralysis ability, and growing numbers, but does not know the origin or nature of the planar anomaly that created them
+- **Party Knowledge:** The party has witnessed their appearance, paralysis ability, and growing numbers. They know the dwarves were transformed by a planar anomaly within the fortress but do not know the origin or full nature of that anomaly.
 
 ## Relationships
 - **The Party:** Purely hostile

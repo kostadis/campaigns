@@ -1,143 +1,185 @@
 ## NPCs
 
-**Moesko**
-- Current location: Tower of Storms, deceased
-- Current state: Dead; body examined by the party
-- Recent actions: Had been operating the corrupted lighthouse beacon using his own still-beating heart; worshipped Talos
-- Faction: Talos worship (possibly corrupted by an external force)
-- Revealed secrets: Had a strange hole in his chest; wore octopus-themed armor; possessed a hidden talisman bearing an inverted eye with tentacle markings; according to Miral, was not acting entirely of his own will—something external twisted his devotion to Talos into something "colder, more calculating"
+**Elara**
+- Current location: Phandalin (returned safely)
+- Current state: Shaken but safe; cart damaged, pack horses scattered
+- Recent actions: Was attacked by orcs on the road; received aid from the party; rewarded Valphine with gold on behalf of Lathander
+- Faction: None identified
+- Motivations/Secrets: Was travelling to Phandalin; describes orc attackers as unusually disciplined with odd markings (swirl or eye symbol); could not fully retain the memory of the markings
 
-**Miral (Sea Elf)**
-- Current location: Tower of Storms (manifested as a ghost); departed after receiving the conch
-- Current state: Spirit at rest after conch was returned
-- Recent actions: Manifested to receive the opalescent conch; delivered a warning to the party before vanishing
-- Faction: Unknown
-- Revealed motivations/secrets: Was killed by Moesko; warned that something foreign had corrupted Moesko beyond his own Talos devotion; warned that "the true storm gathers not in the sky, but in the depths below Leilon"
+**Jarek**
+- Current location: Phandalin (returned safely)
+- Current state: Shaken but safe; serves as Elara's groom
+- Recent actions: Survived orc attack; described hearing a non-auditory hum in his head immediately before the attack, which then ceased
+- Faction: None identified
+- Motivations/Secrets: Had advocated for travelling with protection prior to the attack
 
-**Brewbarry**
-- Current location: Tower of Storms / shoreline
-- Current state: Active party member; in possession of a +1 halberd
-- Recent actions: Identified the talisman's octopus-related symbols; recovered or received the +1 halberd from the wreck of the Star Crossed Lover; participated in combat against sharks alongside Valphine
-- Faction: Party
-- Revealed secrets: None
+**Ser Kaelen Thorne**
+- Current location: Phandalin
+- Current state: Active; present in town during the party's return
+- Recent actions: Received Vukradin's report on the aid given to Elara and Jarek; expressed approval; commissioned Vukradin to compose music for the Order of the Gauntlet
+- Faction: Order of the Gauntlet
+- Motivations/Secrets: Considers bringing Vukradin into the Order to have been the correct decision; considers the Order's current chant embarrassing
 
-**Soma**
-- Current location: Tower of Storms / shoreline
-- Current state: Active; healed after combat; returned to humanoid form
-- Recent actions: Transformed into giant toad form; dove into underwater wreckage; recovered a +1 halberd from the Star Crossed Lover; fought three Hunter Sharks; retrieved three locked chests from wrecks; returned to shore and healed; offered Miraal the conch; attempted to give Vukradin a magical color-changing cloak
-- Faction: Party
-- Revealed secrets: Can Wild Shape into octopus and giant toad forms; giant toad form has 39 hit points
+**Adabra**
+- Current location: Road near Barthen's Provisions / Triboar Trail
+- Current state: Active; approached the party on the road
+- Recent actions: Pulled Soma aside to report on an afflicted grove; mentioned the Emerald Enclave in connection with the matter; appeared put off by Vukradin's approach
+- Faction: Implied connection to or awareness of the Emerald Enclave
+- Motivations/Secrets: Concerned about an unnaturally withering grove past Whisper Woods; described as having views on "interventionists"
+
+**Martisha Vinetalker**
+- Current location: Wayside Inn
+- Current state: Active; current owner of the Wayside Inn
+- Recent actions: Directed the party to a coastal trail toward the Tower of Storms
+- Faction: None identified
+- Description: Striking half-elf; stern, cold, calculating, and charismatic
+
+**Backes Dunfield**
+- Current location: Wayside Inn
+- Current state: Active; working as bartender
+- Recent actions: None specified beyond presence
+- Faction: None identified
+- Description: Human; scarred face; crooked smile
+
+**Cooragh Struckt**
+- Current location: Wayside Inn
+- Current state: Active; working as cook
+- Recent actions: Served the party food
+- Faction: None identified
+- Description: Famous for well-spiced stews and meat pies
 
 **Vukradin**
-- Current location: Tower of Storms / shoreline
-- Current state: Active; declined magical cloak
-- Recent actions: Identified the talisman as bearing the symbol of Talos; destroyed the lightning rod; destroyed Moesko's still-beating heart; cast light spell to temporarily illuminate the beacon; cast Vicious Mockery on a shark (1 point of damage); cast Sleep on two sharks; insisted on returning looted items to rightful owners; refused to swim; questioned Brewbarry about the halberd
-- Faction: Party
-- Revealed motivations: Deeply committed to not stealing; wants to earn money legitimately to build a music studio; considers himself primarily a musician; feels increasingly isolated from the party's willingness to loot
+- Current location: En route to Tower of Storms (departed Phandalin)
+- Current state: Active
+- Recent actions: Assisted Elara and Jarek; escorted them to Phandalin; reported to Ser Kaelen Thorne; participated in ambush counter-attack
+- Faction: Order of the Gauntlet (newly inducted)
+- Motivations: Seeks conflict-free income to fund a studio; values principled conduct; commissioned to compose music for the Order
 
 **Valphine**
-- Current location: Tower of Storms / shoreline
-- Current state: Active; temporarily blinded by the beacon (recovered)
-- Recent actions: Searched Moesko's chamber; discovered the hidden compartment containing the talisman; stared into the lighthouse beacon and was temporarily blinded; witnessed the beating heart as the light source; cast Sacred Flame on a shark (5 radiant damage); cast Faerie Fire on two sleeping sharks; coordinated an attack with Brewbarry dealing 22 total damage to one shark; picked the locks on all three chests; identified the contents of the chests
-- Faction: Former priestess of Lolth; current devotee of Lathander
-- Revealed secrets: Was a priestess of Lolth in her former life; considered "soft" by her sisters for lacking enthusiasm for mayhem; has a strong fascination with bright light tied to her devotion to Lathander; has drow-enhanced senses; examined the talisman and detected faint divine resonance and dominant psionic energy of alien origin
+- Current location: En route to Tower of Storms
+- Current state: Active
+- Recent actions: Identified as a priestess of Lathander by Elara; received reward gold; participated in ambush counter-attack using hand crossbow and Faerie Fire; observed unusual orc organisation and noted orc shaman
+- Faction: Worshipper of Lathander (idiosyncratic interpretation)
+- Motivations/Secrets: Interprets Lathander's domain as one of pain rather than conventional goodness; privately considering founding a cult of Lathander centred on this aspect; views pain, light, and suffering as intertwined divine principles
 
-**Giant Crab (Miraal?)**
-- Current location: Shoreline near Tower of Storms
-- Current state: Active; grateful
-- Recent actions: Appeared to express gratitude for the sharks killed; identified the +1 halberd as a treasure he had intended to retrieve for the party
-- Faction: Unknown; associated with Miral or the local waters
-- Revealed secrets: Had prior knowledge of the halberd in the wreck; had intended to retrieve it as a gift for the party
+**Soma**
+- Current location: En route to Tower of Storms
+- Current state: Active
+- Recent actions: Offered to mend Elara's cart; retrieved horse alongside Brewbarry; received private information from Adabra about afflicted grove; agreed to investigate the grove; transformed into a brown bear during the ambush; engaged and wounded orcs
+- Faction: None specified; possible connection to Emerald Enclave implied by Adabra's approach
+- Motivations: Agreed to investigate the withering grove
+
+**Brewbarry**
+- Current location: En route to Tower of Storms
+- Current state: Active
+- Recent actions: Retrieved Elara's runaway horse; detected hidden ambushers by spotting tracks and concealed armour; engaged orcs in melee during ambush; entered barbarian rage
+- Faction: None identified
+- Description: Described as a brute; Uthgardt Barbarian
 
 ---
 
 ## Factions
 
-**Talos (God of Storms) Worshippers**
-- Current goals: Unknown; Moesko was a servant whose devotion was corrupted
-- Recent actions: Moesko maintained the corrupted lighthouse beacon; the lightning rod in the tower was connected to Talos worship
-- Relationships: Moesko was a cleric of Talos; however, an external force twisted his devotion
-- Key members: Moesko (deceased)
+**Order of the Gauntlet**
+- Current goals: Upholding broad values of good deeds and protection; seeking to improve their public-facing identity (music/chant)
+- Recent actions: Ser Kaelen Thorne affirmed Vukradin's induction; commissioned Vukradin to compose music
+- Key members: Ser Kaelen Thorne
+- Relationships: Vukradin is a newly inducted member
+- Notes: Current battle chant considered embarrassing by Thorne: *"Steal and shield, Heart and band. We stand as one. A steadfast band."*
 
-**The Party**
-- Current goals: Ended the curse on the Tower of Storms; returning items to rightful owners (Vukradin's goal); investigating the deeper threat below Leilon
-- Recent actions: Defeated Moesko; destroyed the corrupted heart and lightning rod; restored the lighthouse; recovered the opalescent conch and returned it to Miral; fought sharks; recovered three chests and their contents; cooked and ate shark meat
-- Internal relationships: Tension between Vukradin (ethics of looting) and others (Soma, Valphine, Brewbarry) who are more willing to keep found items
-- Key members: Soma, Vukradin, Valphine, Brewbarry
+**Emerald Enclave**
+- Current goals: Implied interest in the afflicted grove past Whisper Woods
+- Recent actions: Referenced by Adabra in connection with the grove situation
+- Key members: None named
+- Relationships: Adabra has awareness of or connection to the faction; Soma is being drawn into their sphere of concern
 
-**Lolth (Drow)**
-- Current goals: Not actively relevant in this session
-- Recent actions: None this session
-- Relationships: Valphine is a former priestess; departed from this faction
-- Key members: Valphine (former)
+**Organised Orc Warband (unnamed)**
+- Current goals: Unknown; were tasked with killing the party ("easy kill")
+- Recent actions: Attacked Elara and Jarek on the road; laid planned ambush for the party in a coastal gully; ambush included a deliberate rock-drop tactic to block retreat and attack from high ground
+- Key members: One orc shaman/cleric (demonstrated shapeshifting into a boar)
+- Relationships: Unknown who gave them intelligence that the party would be an easy kill
+- Notes: Unusual discipline for surface orcs; bear odd markings described as a swirl or eye shape; possibly connected to a hum experienced mentally by Jarek before the first attack on Elara; shaman capable of wild shape or equivalent transformation into a boar
 
 ---
 
 ## World Events
 
-- The party examined Moesko's corpse and discovered a strange hole in his chest.
-- Valphine searched Moesko's chamber and found a hidden compartment beneath a loose floorboard containing a dark iridescent talisman.
-- Brewbarry identified symbols on the talisman connected to Moesko's octopus-themed armor and worship of a giant octopus.
-- Valphine examined the talisman and detected both faint divine resonance and dominant alien psionic energy; heard a faint rhythmic thrumming from it.
-- The talisman was also found to bear an inverted eye symbol with tentacle-like coiling lines on its reverse.
-- The party ascended to the top of the Tower of Storms and discovered the beacon's green light was emanating from a human heart—several sizes too large—identified as Moesko's heart, still beating.
-- Valphine stared directly into the beacon light and was temporarily blinded.
-- Vukradin identified the lightning rod as connected to the curse and to the evil god Talos.
-- Vukradin descended and physically destroyed the lightning rod.
-- Vukradin struck and destroyed Moesko's still-beating heart, extinguishing the corrupted beacon light.
-- Vukradin cast a light spell to temporarily restore illumination to the beacon.
-- Soma transformed into giant toad form (39 HP) and dove into the water to retrieve dry wood from shipwrecks.
-- Soma located the wreck of the Star Crossed Lover and recovered a +1 halberd from the skeletal grip of what appeared to be the ship's captain.
-- Soma was attacked by a Hunter Shark; dealt 18 damage to it; the shark evaded grapple.
-- Two additional sharks joined the battle; Soma took 16 damage, dropping to 22 HP.
-- Soma killed the second shark with a 12-damage strike and briefly grappled its corpse.
-- Vukradin cast Vicious Mockery on a shark, dealing 1 point of damage.
-- Vukradin cast Sleep, putting two remaining sharks to sleep.
-- Valphine cast Sacred Flame on one shark, dealing 5 radiant damage (shark failed its save).
-- Valphine cast Faerie Fire on both sleeping sharks, granting attackers advantage against them.
-- Valphine and Brewbarry coordinated an attack dealing 22 total damage to one shark.
-- Soma discovered the waterlogged timber from the wrecks was unsuitable for use as immediate firewood.
-- Soma recovered a locked chest from the Sea Urchin wreck and two additional locked chests from other wrecks, ferrying all three to shore.
-- Soma dropped Wild Shape form on shore and healed herself.
-- Valphine picked the locks on all three chests; contents were: (1) a nine-inch blue quartz mermaid statue, (2) a spellbook, (3) a Wand of Secrets.
-- The party presented the opalescent conch to Miral, whose ghost manifested to receive it.
-- Miral revealed that something external and foreign had twisted Moesko's devotion to Talos into something colder and more calculating.
-- Miral warned the party: "The true storm gathers not in the sky, but in the depths below Leilon," then her spirit departed.
-- The giant crab appeared, thanked the party for killing the sharks, and identified the +1 halberd as the treasure he had intended to retrieve for them.
-- The party cooked and ate shark meat.
-- Soma acquired a shark tooth, intending to make a necklace.
-- Vukradin refused the magical color-changing cloak offered by Soma.
+- The party encountered Elara and Jarek sheltering behind an overturned trade cart after an orc attack on the road
+- Soma repaired Elara's damaged cart
+- Brewbarry retrieved one of Elara's runaway horses from a nearby field
+- Elara described her orc attackers as unusually disciplined with markings resembling a swirl or eye; she could not retain the memory clearly
+- Jarek reported hearing a non-auditory hum in his mind immediately before the orc attack, which then ceased
+- Valphine attributed the attack to mindflayers; Vukradin dismissed the suggestion
+- The party escorted Elara and Jarek safely back to Phandalin
+- Vukradin reported the rescue to Ser Kaelen Thorne in Phandalin; Thorne expressed approval and commissioned music from Vukradin
+- Thorne recited the Order of the Gauntlet's battle chant at Vukradin's insistence
+- Adabra approached the party near Barthen's Provisions and privately informed Soma about a withering grove past Whisper Woods; Soma agreed to investigate
+- The party departed Phandalin toward the Tower of Storms via the Triboar Trail and high road
+- The party spent a night at the Wayside Inn; Martisha Vinetalker directed them to a coastal trail
+- The party observed unnatural gullies in the coastal terrain, which Vukradin noted could not be natural; Valphine theorised magical origin
+- Valphine sensed an ambush; Brewbarry confirmed it by detecting tracks and concealed armour
+- The party climbed out of the gully to flank the ambushers from the rear
+- Vukradin cast Sleep, incapacitating one orc and the orc shaman
+- Soma transformed into a brown bear and attacked two orcs
+- Brewbarry entered a rage and engaged in melee
+- Valphine fired her hand crossbow and cast Faerie Fire on the orc forces
+- The orc shaman shapeshifted into a boar during the engagement
+- The battle continued past the point covered in these notes
 
 ---
 
 ## Locations
 
+**Road to Tower of Storms (bend near undergrowth)**
+- What it is: Rural road where Elara and Jarek were attacked and sheltering
+- What happened: Party found overturned cart; rendered aid; first evidence of organised orc activity encountered here
+
+**Phandalin**
+- What it is: Town; previously established base of operations
+- What happened: Party returned Elara and Jarek here; Vukradin met with Ser Kaelen Thorne; Adabra approached the party near Barthen's Provisions on departure
+- Current state: Active; Ser Kaelen Thorne still present
+
+**Barthen's Provisions**
+- What it is: Establishment in or near Phandalin
+- What happened: Adabra approached the party on the road nearby
+- Current state: Referenced as a landmark
+
+**Triboar Trail**
+- What it is: Road travelled by the party toward the Tower of Storms
+- What happened: Party traversed it over several days; noted absence of travellers or corpses
+- Current state: Unusually quiet
+
+**Wayside Inn**
+- What it is: Inn on or near the high road toward the coast
+- What happened: Party spent one night here; received directions to coastal trail from Martisha Vinetalker; ate Cooragh Struckt's cooking
+- Current state: Operating; staffed by Martisha Vinetalker, Backes Dunfield, and Cooragh Struckt
+
+**Coastal gully / ambush site**
+- What it is: Unnatural gully in broken coastal terrain on the trail toward the Tower of Storms
+- What happened: Organised orc warband laid ambush here; party detected it and counter-flanked; battle ongoing
+- Current state: Active combat site
+
+**Whisper Woods / afflicted grove**
+- What it is: A grove past Whisper Woods, described as once vibrant and blessed by Chauntea
+- What happened: Reported by Adabra to Soma as unnaturally withering; trees twisted in impossible shapes, wrong colours, creatures with too many eyes and jerky movements described as lost and broken
+- Current state: Actively deteriorating; uninvestigated by the party as yet
+
 **Tower of Storms**
-- What it is: A lighthouse tower, formerly corrupted by Moesko's dark cleric activities and Talos worship
-- What happened here: Moesko was defeated (prior to this session); the party searched his living quarters; the corrupted beacon (powered by Moesko's still-beating, oversized heart) was discovered and destroyed by Vukradin; the lightning rod connected to Talos was also destroyed; Miral's ghost manifested and departed; the curse on the tower was ended
-- Current state: Curse lifted; beacon temporarily lit by Vukradin's light spell; needs a proper fire source to function as a normal lighthouse; waterlogged wood from wrecks needs to dry before use
-
-**Underwater Wrecks (near Tower of Storms)**
-- What they are: Multiple shipwrecks in the waters around the tower, including the named vessels Star Crossed Lover and Sea Urchin
-- What happened here: Soma dove and explored them in giant toad form; recovered a +1 halberd, three locked chests; fought three Hunter Sharks; found all timber to be waterlogged
-- Current state: Explored; one dead shark drifting in the water; wrecks still present
-
-**Leilon**
-- What it is: A settlement or region referenced in Miral's warning
-- What happened here: Nothing directly; referenced as the location of a deeper, unspecified threat
-- Current state: Not visited this session; identified as the site of a gathering threat "in the depths below"
+- What it is: The party's stated destination
+- What happened: Nothing yet; party still travelling toward it
+- Current state: Destination; not yet reached
 
 ---
 
 ## Threads & Mysteries
 
-- The talisman found in Moesko's hidden compartment bears an inverted eye with tentacle markings and emanates alien psionic energy of unknown origin—its owner and purpose are unidentified.
-- The opalescent conch has been returned to Miral; its broader significance (if any) is unresolved.
-- Miral warned that something external and "foreign" corrupted Moesko's devotion to Talos into something "colder, more calculating"—the identity and nature of this external force is unknown.
-- Miral's warning that "the true storm gathers not in the sky, but in the depths below Leilon" suggests an unidentified underwater or subterranean threat centered on Leilon.
-- The three recovered chests and their contents (blue quartz mermaid statue, spellbook, Wand of Secrets) have unknown original owners; Vukradin insists they must be returned.
-- The giant crab's knowledge of the halberd's location and his intentions to retrieve it as a gift raise questions about his nature, motivations, and broader role.
-- The Tower of Storms needs a sustainable light source to function as a proper lighthouse; the waterlogged wood is not yet usable.
-- The connection between Moesko's octopus-themed armor, the tentacle-marked talisman, and potential worship of a giant octopus entity remains unexplored.
-- Valphine's transition from Lolth to Lathander worship and its implications for her former faction have not been resolved.
-- Vukradin's goal of building a music studio and his insistence on only keeping lawfully earned wealth creates ongoing tension within the party.
+- **Organised orc warband origin and leadership**: The attacking orcs display unusual discipline, coordinated tactics, and bear markings resembling a swirl or eye. Their affiliation and who commands them is unknown.
+- **The swirl/eye markings**: Elara partially recalled markings on her attackers but could not retain the memory. The nature and significance of these markings is unresolved.
+- **Jarek's mental hum**: Jarek heard a non-auditory hum in his mind immediately before the orc attack. The source of this phenomenon is unknown; Valphine suggested mindflayers, which Vukradin dismissed.
+- **Who told the orcs the party would be an easy kill**: The orc shaman or another party indicated the ambush was pre-planned with intelligence about the party. The source of this intelligence is unknown.
+- **The unnatural coastal gullies**: Vukradin noted the gullies cannot be natural (too dry for a river); Valphine theorised magical origin. The cause is unidentified.
+- **The afflicted grove past Whisper Woods**: Trees are twisting unnaturally, colours are wrong, and creatures are malformed. Chauntea's blessing appears to be failing or corrupted. Adabra referenced the Emerald Enclave in connection with this. Soma has agreed to investigate but the party has not yet done so.
+- **Valphine's cult of Lathander**: Valphine is privately considering founding a cult centred on Lathander as a god of pain. This intention has not been shared with other party members or any NPC.
+- **Tower of Storms**: The party's destination; its contents, purpose, and what awaits there remain unestablished in these notes.
+- **Vukradin's music commission**: Vukradin has been asked to compose music/a chant for the Order of the Gauntlet. Outcome unresolved.

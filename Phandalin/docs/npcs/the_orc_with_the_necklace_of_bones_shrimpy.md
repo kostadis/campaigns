@@ -1,37 +1,40 @@
-# Shrimpy (The Orc with the Necklace of Bones)
+---
+name: The Orc with the Necklace of Bones (Shrimpy)
+aliases: []
+source_extracts: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38]
+---
+
+# The Orc with the Necklace of Bones ("Shrimpy")
 
 ## Identity
-- **Role:** Former raiding party member; current captive/conscript laborer
-- **Faction:** Unnamed orc tribe displaced from the Sword Mountains (Ice Spires region); now technically party-bound
-- **First Appearance:** Encountered as part of an orc raiding party; captured after being mortally wounded by Soma and secured by Brewbarry and Vukradin
+- Orc raider from a displaced tribe originally based near the Ice Spires in the Sword Mountains
+- Wears a distinctive necklace of bones
+- First encountered as part of an orc raiding party that attacked the party; captured after being mortally wounded by Soma
 
 ## Personality & Motivations
-- **Core Goal:** Orc independence and self-determination — he believes orcs should serve orc interests only, not outside factions or cults
-- Proud and principled; opposed his own chief's alliance with the Talos cultists not out of fear but on ideological grounds
-- Fierce enough to fight through serious wounds and call out a charmed tribesman; pragmatic enough to accept captivity over death
-- Has a temper around Drow specifically — immediately targeted Valphine upon identifying her race
+- Fiercely loyal to kin — screamed at a charmed orc for attacking his "brother's nephew." Hostile toward Drow on sight (targeted Valphine specifically).
+- Holds a strong orc-supremacist independence streak: believes orcs should work only for orcs. Opposes his chief's alliance with half-orc cultists of Talos on this principle, framing it as conviction rather than cowardice.
+- Pragmatic survivor — agreed to serve the party when his life was threatened, though the sincerity of his compliance is uncertain.
 
 ## History with the Party
-1. Attacked the party during a raid — threw a javelin at Brewbarry, engaged with a scimitar, and singled out Valphine as a Drow
-2. Screamed at a charmed orc for attacking "his brother's nephew," revealing tribal loyalty
-3. Mortally wounded by Soma; captured by Brewbarry and Vukradin
-4. Under interrogation, disclosed tribe's backstory and his opposition to the Talos cult alliance
-5. Agreed to serve the party under threat of death from Brewbarry; named "Shrimpy" by Brewbarry
-6. Currently bound to the supply cart and pulling it
+1. **Raiding party ambush:** Threw a javelin at Brewbarry, then fought with a scimitar. Attacked Valphine after identifying her as a Drow. Screamed at a charmed ally for turning on family.
+2. **Defeat and capture:** Mortally wounded by Soma; captured jointly by Brewbarry and Vukradin.
+3. **Interrogation:** Revealed his tribe's backstory — driven from their Ice Spires home by a white dragon during the wars of dragons and giants, fleeing to a valley. Disclosed the chief's alliance with half-orc Talos cultists and his personal opposition to it.
+4. **Pressed into service:** Brewbarry threatened his life to compel obedience. Named him "Shrimpy." Currently bound to the supply cart and forced to pull it.
 
 ## Current Status
-- **Last Known Location:** Bound to the party's supply cart, serving as a draft laborer
-- **Active Situation:** Compelled service to the party; no active independent plans
-- **What the Party Knows:** His tribal history, his ideological opposition to the Talos cult, his general hostility toward Drow
-- **What Remains Hidden:** The depth of his resentment toward captivity; whether his cooperation is purely coerced or carries any genuine pragmatic buy-in
+- **Location:** With the party, bound to the supply cart as a laborer.
+- **Condition:** Recovering from mortal wounds; coerced into service under threat of death.
+- **Hidden information:** The depth of his resentment toward the party (especially Brewbarry) and whether he plans to escape or betray them remains unknown. His knowledge of the valley where his tribe currently resides and the Talos cultist operations could be further exploited.
 
 ## Relationships
-- **Brewbarry:** Captor and namer; Shrimpy serves under direct threat from him — relationship is coercive
-- **Valphine:** Active hostility; attacked her on sight due to her Drow identity
-- **Soma:** The one who nearly killed him; likely source of wariness
-- **Vukradin:** Participated in capture; no further detail noted
-- **His Tribe/Chief:** Ideologically opposed to the chief's alliance with Talos half-orc cultists; tribal loyalty still present (reacted strongly to the charmed tribesman)
-- **Talos Cultists (Half-Orc):** Despises the alliance; views it as a betrayal of orc independence
+- **Brewbarry:** Captor and namer. Relationship built on direct threat — compliance is not loyalty.
+- **Soma:** Dealt the mortal blow. Likely feared or resented.
+- **Vukradin:** Assisted in capture.
+- **Valphine:** Attacked her on sight due to her Drow heritage. Racial animosity.
+- **His tribe's chief:** Disagrees with the chief's alliance with Talos cultists but has not indicated willingness to act against the tribe itself.
+- **Half-orc Talos cultists:** Opposes their influence over his tribe on ideological grounds.
+- **The white dragon (Ice Spires):** The force that displaced his tribe; a source of grievance.
 
 ## Arc Score Events
-- No arc score events recorded in source notes
+- No formal arc score events noted.

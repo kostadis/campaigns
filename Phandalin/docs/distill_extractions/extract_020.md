@@ -1,208 +1,140 @@
 ## NPCs
 
 **Vukradin**
-- Current location: Travelling toward Phandalin/Falcon's Lodge
-- Current state: Active, uninjured (post-combat)
-- Recent actions: Discussed reputation, briefly persuaded Teega to clarity during her trance, raged and attacked Cult Fanatic in combat
-- Faction: Party
-- Motivations/secrets: Wants to open his own studio; does not seek the noble adventurer reputation that has formed around him
-
-**Brewbarry**
-- Current location: Travelling toward Falcon's Lodge
-- Current state: Depleted ale supply; previously in altered state from fermentable mushrooms
-- Recent actions: Consumed fermentable mushrooms, was mentally compelled to flee by Cult Fanatic, broke free and delivered knockout blow to Cult Fanatic, maintained sedation of prisoner, requested detour to Falcon's Lodge for alcohol
-- Faction: Party
+- Current location: Logger's Camp, south shore of a river in Neverwinter Wood
+- Current state: Alive, distressed at finding the camp apparently empty
+- Recent actions: Charmed an orc with music, cast Phantasmal Force on a second orc to make him attack a phantom ally, participated in capturing the orc with the necklace
+- Faction: Travelling party
+- Motivations: Collecting payment from Tribar Wester; also pursuing the origin of a magical ring currently in the Falcon Hunter's possession
 
 **Soma**
-- Current location: Travelling toward Falcon's Lodge
-- Current state: Active
-- Recent actions: Transformed into bear form, charged Cult Fanatic in combat, tracked and subdued Teega the Smith, returned her to the group
-- Faction: Party
+- Current location: Logger's Camp
+- Current state: Alive, wounded by an orc arrow during the ambush
+- Recent actions: Transformed into a bear to scout; climbed a tree; bit the orc scout's foot; jumped from a branch to shove the scout; cast Moonbeam; clamped jaws on the orc with the necklace
+- Faction: Travelling party
+- Revealed: Has a clutch (suggesting she is a reptilian or tortoise-like creature)
 
 **Valphine**
-- Current location: Travelling toward Falcon's Lodge
-- Current state: Active
-- Recent actions: Channeled healing energy during combat, executed the Cult Fanatic after party agreed to hand him over to the Talosian orcs
-- Faction: Party
+- Current location: Logger's Camp
+- Current state: Alive; struck by one orc during combat; failed to pursue and catch the fleeing orc scout
+- Recent actions: Spotted the concealed orc scout; fired crossbow (missed repeatedly); pursued the fleeing orc scout unsuccessfully; interrogated the captured orc; conscripted the orc into service
+- Faction: Travelling party; worships Lathander
+- Revealed: Is a Drow; formerly from Menzoberranzan; has prior knowledge of Cultists of Talos; holds contempt for Moonbeam as inferior to sunlight; instinct is to enslave or sacrifice captives; in the Underdark she had superior night vision over quarry
 
-**Lyra**
-- Current location: Unknown (not present)
-- Current state: Low-ranking member of the Emerald Enclave
-- Recent actions: Credited by the party as architect of the patrol rescue plan to boost her standing; previously sent the party to rescue her old crew
-- Faction: Emerald Enclave
-- Motivations: Advancement within the Emerald Enclave
+**Brewbarry**
+- Current location: Logger's Camp
+- Current state: Alive; became Enraged and Enlarged during combat
+- Recent actions: Dragging the supply cart; split a thrown javelin in two; attacked with halberd (missed); protected Valphine; captured and bound the orc with the necklace to the cart; named the orc captive "Shrimpy"
+- Faction: Travelling party
+- Revealed: Was exiled from his village due to accusations similar to those levelled at the orc scout; has emotional sensitivity around themes of banishment and clan rejection
 
-**Shrimpy**
-- Current location: En route to Phandalin (prisoner transport)
-- Current state: Prisoner; desperately wanted to be released
-- Recent actions: Was debated over by the party; decision made to transport him to Phandalin for imprisonment
+**The Falcon Hunter**
+- Current location: Unknown (not present this session)
+- Current state: Unknown
+- Recent actions: Previously filled the supply cart with alcohol
 - Faction: Unknown
+- Revealed: Described by Vukradin as a fraud, artist, and thief; possesses a magical ring believed to belong to someone else
 
-**Tibor**
-- Current location: Loggers Camp
-- Current state: Active; chief of the loggers
-- Recent actions: Refused to transport Shrimpy to Neverwinter
-- Faction: Loggers Camp
+**Tribar Wester** (also referred to as "Triber")
+- Current location: Logger's Camp — whereabouts unknown; camp found empty
+- Current state: Missing
+- Faction: Unknown
+- Motivations/role: Vukradin is meant to deliver supplies to him and receive payment
 
-**Joe**
-- Current location: Unknown
-- Current state: Unknown; notebook referenced
-- Recent actions: Party consulted his notebook for directions to the Emerald Enclave meeting point
+**Orc with Necklace of Bones**
+- Current location: Logger's Camp — bound to the supply cart
+- Current state: Alive but captured and conscripted; severely wounded (Soma's jaws)
+- Recent actions: Threw a javelin at Brewbarry; attacked with scimitar; struck Valphine; screamed at the charmed orc; revealed backstory of the orc band; agreed (under duress) to serve the party
+- Faction: Independent orc raiding party (formerly of the Ice Spire tribe)
+- Revealed: Believes orcs should work for orcs only; his tribe's chief has allied with half-orc Cultists of Talos, which he opposes; his tribe was displaced from the Sword Mountains near the Ice Spire by a white dragon; given the name "Shrimpy" by Brewbarry
 
-**Teega the Smith**
-- Current location: Returned to party custody; travelling toward Falcon's Lodge
-- Current state: Recovered from mind control, mind still reeling
-- Recent actions: Stood rigidly by riverbank in a trance, spoke in monotone about metal, cleansed minds, and uniformity, drew a spiral symbol in the mud, wandered into the glade, was tracked and subdued by Soma in bear form
-- Faction: Emerald Enclave patrol (implied); formerly under Kraken Society mind control
-- Revealed information: Mentioned "fixing a leak with a wooden plug," referenced a "current" reforming brittle thoughts
+**Orc Scout**
+- Current location: Fled into Neverwinter Wood; escaped
+- Current state: Alive; wounded (bleeding foot from Soma's bite; arrow wound from Soma)
+- Recent actions: Concealed himself in bushes ahead of the party; signalled to the north, east, and west; climbed a tree; disengaged from Soma; shot Soma with an arrow; fired at Valphine (missed); fled the battle; escaped pursuit
+- Faction: Independent orc raiding party
+- Revealed: Was mocked by the orc with the necklace for being distracted by the bear; was also mocked as "the dumbest scout"
 
-**Cult Fanatic**
-- Current location: Deceased; head taken by Talosian orcs
-- Current state: Dead — executed by Valphine
-- Recent actions: Commanded three mind-controlled Emerald Enclave warriors, attempted mental compulsion on Brewbarry, offered party chance to submit, spoke cryptically about a rising current toward Neverwinter, was knocked unconscious by Brewbarry, exerted mind control over minions even while unconscious, muttered vague warnings about tides and waves when briefly conscious, refused to betray his cause, spoke dismissively of "petty squabbles" before execution
-- Faction: Kraken Society
-- Weapons: Black coral dagger
-- Motivations: Advancing the Kraken Society's agenda; spoke of a "rising current" and something larger coming
-
-**Anchorite half-orc (unnamed)**
-- Current location: Wilderness (departed after confrontation)
-- Current state: Active
-- Recent actions: Identified himself during the orc ambush, declared the Cult Fanatic another obstacle crushed by Talos, warned the party to leave the forest
-- Faction: Talosian orcs; cleric of Talos
-
-**Emerald Enclave patrol members (unnamed, multiple)**
-- Current location: Travelling toward Falcon's Lodge with party
-- Current state: Freed from mind control; minds still reeling
-- Recent actions: Were under Kraken Society mind control, attacked party with robotic precision, collapsed screaming when Cult Fanatic was knocked out, described sensation of mind invasion, revealed they were forced to steal an inscription about a drowned gate beneath Yllyn
-- Faction: Emerald Enclave; one confirmed to be from Lyra's old crew
+**Orc with Scar on Forehead**
+- Current location: Dead
+- Current state: Killed by Vukradin's daggers
+- Recent actions: Mocked the scout; struck at Valphine (missed, due to charm); attacked under charm
+- Faction: Independent orc raiding party
 
 ---
 
 ## Factions
 
-**The Kraken Society**
-- Current goals: Advancing an undefined agenda described as a "rising current" flowing toward Neverwinter; acquiring inscriptions related to a drowned gate beneath Yllyn in the Underdark
-- Recent actions: Mind-controlled an Emerald Enclave patrol; forced patrol members to steal an inscription about a drowned gate; established operatives in the wilderness region; cult leader executed by Valphine
-- Relationships: Enemies of the Talosian orcs; threat to Neverwinter; connected to the Emerald Enclave patrol disappearance
-- Key members: Cult Fanatic (deceased); mind-controlled patrol members (freed)
-- Symbols: Spiral emblem on green cloaks with gold badges
+**The Travelling Party (Vukradin, Soma, Valphine, Brewbarry)**
+- Current goals: Deliver supplies to Tribar Wester at the Logger's Camp; collect payment
+- Recent actions: Navigated deep into Neverwinter Wood; defeated an orc ambush; captured and conscripted one orc; arrived at the Logger's Camp to find it empty
+- Relationships: Travelling with a supply cart originally pulled by Brewbarry, now also by the orc captive; loosely associated with the Falcon Hunter
 
-**Emerald Enclave**
-- Current goals: Patrol recovery; regional wilderness operations
-- Recent actions: Had a patrol go missing and fall under Kraken Society mind control; patrol rescued by the party; patrol was forced to steal an inscription about a drowned gate beneath Yllyn
-- Relationships: Party is cultivating an alliance via Lyra; hostile to Kraken Society (victims of mind control)
-- Key members: Lyra (low-ranking); Teega the Smith (patrol member, recovered); unnamed patrol members
+**Independent Orc Raiding Party**
+- Current goals: Self-described independent raiding; "orc-eat-orc" survival
+- Recent actions: Set an ambush in a clearing in Neverwinter Wood; ambush failed; one member killed, one captured, one scout fled
+- Key members: Orc with Necklace of Bones (captured); Orc with Scar on Forehead (dead); Orc Scout (fled)
+- Relationships: Splinter group opposed to their chief, who allied with half-orc Cultists of Talos; displaced from Sword Mountains by a white dragon
+- Revealed: Formerly inhabited the Ice Spire area in the Sword Mountains; driven out during conflicts involving dragons and giants
 
-**Talosian Orcs**
-- Current location: Wilderness region (forest)
-- Current goals: Elimination of Kraken Society operatives; protection of their forest territory
-- Recent actions: Ambushed the party demanding the Cult Fanatic; identified him as their enemy; accepted his head as proof of death; warned the party to leave the forest
-- Relationships: Hostile to the Kraken Society; wary of but non-hostile to the party after negotiation; include a drow among their number
-- Key members: Anchorite half-orc cleric of Talos (unnamed)
-
-**Loggers Camp**
-- Current location: Loggers Camp
-- Current goals: Standard logging operations
-- Recent actions: Party gathered here to plan; Tibor refused to transport Shrimpy to Neverwinter
-- Key members: Tibor (chief)
+**Cultists of Talos**
+- Current goals: Unknown
+- Recent actions: The orc tribe's chief allied with half-orc Cultists of Talos, drawing much of the tribe to follow him
+- Key members: Unnamed half-orc cultists; unnamed orc chief (allied member)
+- Relationships: Allied with a faction of the displaced Ice Spire orc tribe; noted by Valphine as potentially connected to other Cultists of Talos she is aware of
 
 ---
 
 ## World Events
 
-- The party gathered at the Loggers Camp and debated next steps, including what to do with prisoner Shrimpy; decision made to transport him to Phandalin.
-- Tibor refused to transport Shrimpy to Neverwinter.
-- The party consulted Joe's notebook for directions to the Emerald Enclave meeting point and departed through the wilderness.
-- Brewbarry consumed fermentable mushrooms and entered an altered state of consciousness during travel.
-- The party arrived at a riverbank shrouded in unnatural, dense fog covering the eastern shore.
-- The party encountered Teega the Smith standing rigidly by the water in a trance, speaking in monotone about metal bending, cleansed minds, and uniformity.
-- Teega drew a spiral symbol in the mud; her eyes briefly cleared when Vukradin persuaded her before glazing over again as she wandered into a glade.
-- The party crossed the river and felt a strange tingling in their minds, with sounds echoing oddly and light flickering — reminiscent of a previously encountered planar anomaly.
-- In the glade, the party encountered the Cult Fanatic wielding a black coral dagger, accompanied by the three mind-controlled Emerald Enclave patrol members.
-- The Cult Fanatic identified the party as interfering with "necessary adjustments," stated his zealots served a greater purpose, spoke of a rising current toward Neverwinter, and offered them a chance to submit.
-- Combat began; the Cult Fanatic compelled Brewbarry to flee via mind control.
-- Soma transformed into bear form and charged the Cult Fanatic.
-- Valphine channeled healing energy to sustain the party.
-- Vukradin raged and attempted to strike the Cult Fanatic but struggled to land hits.
-- Brewbarry broke free from mental compulsion and delivered a non-lethal knockout blow to the Cult Fanatic.
-- The mind-controlled warriors collapsed screaming and clutching their heads the moment the Cult Fanatic fell unconscious.
-- The party secured all prisoners; discovered the green cloaks with gold spiral badges, identifying the affiliation as the Kraken Society.
-- It was discovered the Cult Fanatic could still exert mind control over his minions even while unconscious, causing them to move robotically toward him.
-- Soma tracked Teega the Smith through the wilderness in bear form, subdued her, and returned her to the group.
-- Restorative magic and separation of prisoners failed to break the mind control while the Cult Fanatic lived.
-- The party decided to keep the Cult Fanatic sedated for transport; Brewbarry was assigned to maintain sedation.
-- A brief interrogation of the Cult Fanatic while conscious yielded only vague warnings about rising tides and waves; he refused to provide information.
-- On the second day of travel, a large raiding party of Talosian orcs ambushed the party, demanding the Cult Fanatic and identifying him as their enemy.
-- The party negotiated with the orcs, noting the orcs' wariness of their strength and the presence of a drow among the orc group.
-- The party agreed to hand the Cult Fanatic over to the orcs in exchange for safe passage.
-- The Cult Fanatic, given a final chance to speak, dismissed the conflict as petty squabbles irrelevant to what was coming.
-- Valphine executed the Cult Fanatic; the orcs took his head as proof of their victory.
-- The anchorite half-orc cleric of Talos declared the cultist another obstacle crushed by Talos and warned the party to leave the forest.
-- With the Cult Fanatic dead, the mind-controlled Emerald Enclave members awoke, though still mentally reeling.
-- One rescued patrol member confirmed Lyra had sent the party to rescue them.
-- The patrol members described the experience of mind invasion — feeling orders dripping like poisoned water into their skulls.
-- The patrol members revealed they had been forced to steal an inscription speaking of a drowned gate beneath Yllyn, deep in the Underdark.
-- The party identified this as connected to the Kraken Society and a significant regional threat.
-- Brewbarry, having consumed all his ale, insisted the party detour to the Falcon's Lodge, approximately five miles away, for resupply and rest.
-- The party decided to make the detour to Falcon's Lodge.
+- The party entered deep into Neverwinter Wood on 09-02-Taraskh 1495, transporting a supply cart for Tribar Wester.
+- Valphine spotted a poorly concealed orc scout in the bushes ahead of the party.
+- Soma transformed into a bear and approached the scout, who climbed a tree and signalled to allies to the north, east, and west, revealing a prepared ambush in a clearing ahead.
+- Brewbarry stumbled noisily through the woods, alerting the orcs and compromising any remaining element of surprise.
+- Soma climbed the tree and bit the orc scout's foot; the scout disengaged and shot Soma with an arrow.
+- Combat broke out between the party and three orcs (scout, orc with necklace of bones, orc with scar on forehead).
+- Vukradin charmed the orc with the scar, causing him to attack the scout.
+- Vukradin cast Phantasmal Force on the now-uncharmed orc with the scar, making him attack an illusory copy of the orc with the necklace.
+- Soma cast Moonbeam; the orcs were barely hurt by it.
+- The orc scout fled the battle after being startled by Valphine's identity as a Drow worshipping Lathander and Soma's use of Moonbeam.
+- Soma jumped from a tree branch and shoved the orc scout toward the other orcs.
+- Vukradin killed the orc with the scar on his forehead using daggers.
+- Soma's jaws clamped onto the orc with the necklace, gravely wounding him.
+- Valphine pursued the fleeing scout but failed to catch him; the scout escaped into the forest.
+- The orc with the necklace was captured and interrogated; he revealed his tribe's history and his opposition to his chief's alliance with Cultists of Talos.
+- The captured orc was conscripted by Valphine and bound to the supply cart by Brewbarry, who named him "Shrimpy."
+- The party arrived at the Logger's Camp to find it deserted and silent, with no sign of Tribar Wester.
 
 ---
 
 ## Locations
 
-**Loggers Camp**
-- What it is: A logging settlement with a chief, Tibor
-- What happened: Party gathered here, debated over Shrimpy, planned rescue of Emerald Enclave patrol; Tibor refused to transport Shrimpy to Neverwinter
-- Current state: Active and operational
+**Neverwinter Wood**
+- A forest; the party is travelling deep within it.
+- Site of the orc ambush; a small clearing was prepared as the ambush point.
+- Current state: Orc scout at large somewhere within it.
 
-**Riverbank (unnamed)**
-- What it is: A river crossing in the wilderness, eastern shore covered in unnatural dense fog
-- What happened: Party found Teega the Smith in a trance here; she drew a spiral symbol in the mud; party crossed and felt mental tingling on the far side
-- Current state: Site of anomalous fog; associated with Kraken Society activity
+**Logger's Camp**
+- Located on the south shore of a river within or at the edge of Neverwinter Wood.
+- Layout: Approximately a dozen tents on a sandy beach; a deck; a cabin with logs stacked under an awning; older cabins torn down, leaving only stone chimneys and foundations.
+- Current state: Deserted; grim silence; no sign of Tribar Wester or any inhabitants.
+- Significance: Destination of the supply delivery; Vukradin expected to receive payment here from Tribar Wester.
 
-**The Glade (unnamed)**
-- What it is: A wooded glade on the eastern side of the river
-- What happened: Site of combat with the Cult Fanatic and three mind-controlled Emerald Enclave warriors; Cult Fanatic was knocked unconscious here; prisoners secured here
-- Current state: Post-combat; no longer actively occupied
+**Ice Spire / Sword Mountains**
+- Referenced location; former home of the orc raiding party's tribe.
+- The tribe was driven out by a white dragon during a period of conflict involving dragons and giants.
 
-**Phandalin**
-- What it is: A town used as a destination for prisoner transport and imprisonment
-- What happened: Designated as the destination for Shrimpy and ultimately the rescued patrol
-- Current state: Referenced destination; not visited this session
-
-**Neverwinter**
-- What it is: A city; referenced as target of the Kraken Society's rising current
-- What happened: Mentioned by the Cult Fanatic as the direction of his faction's influence
-- Current state: Referenced only; not visited
-
-**Falcon's Lodge**
-- What it is: A lodge, approximately five miles from the party's location at session end; has an atmosphere some party members have reservations about
-- What happened: Brewbarry insisted on a detour here to resupply ale; party agreed to stop for rest
-- Current state: Destination at session end; not yet reached
-
-**Yllyn**
-- What it is: A location name associated with a drowned gate said to be deep in the Underdark beneath it
-- What happened: Referenced by the freed patrol members as the location of the inscription they were forced to steal
-- Current state: Unknown; not visited
-
-**The Underdark**
-- What it is: Underground realm; contains the drowned gate beneath Yllyn
-- What happened: Referenced as location of the drowned gate
-- Current state: Referenced only
+**Menzoberranzan**
+- Referenced by Valphine as her place of origin; not visited this session.
 
 ---
 
 ## Threads & Mysteries
 
-- **The Drowned Gate beneath Yllyn**: The Emerald Enclave patrol was forced by the Kraken Society to steal an inscription describing a drowned gate somewhere deep in the Underdark beneath Yllyn. The nature, purpose, and current location of this inscription are unknown.
-- **The Kraken Society's rising current**: The Cult Fanatic repeatedly referenced a "rising current" flowing toward Neverwinter and spoke of something larger coming that dwarfed petty conflicts. The full scope of the Kraken Society's plans in the region is unknown.
-- **The spiral symbol**: Teega drew a spiral in the mud while entranced; the same spiral appears on Kraken Society emblems. The symbol's deeper significance is unestablished.
-- **The planar anomaly**: The party noted the tingling, odd sound echoes, and flickering light upon crossing the river reminded them of a previously encountered planar anomaly. The connection between that prior anomaly and the Kraken Society's activities has not been established.
-- **The stolen inscription**: The patrol stole an inscription about the drowned gate under Kraken Society compulsion. The current location of this inscription is unknown — whether it was recovered from the patrol or passed to other Society agents is unconfirmed.
-- **Lyra's advancement**: The party's plan to credit Lyra with orchestrating the patrol rescue has not yet been executed. The outcome of presenting this story to the Emerald Enclave and its effect on Lyra's standing remains pending.
-- **Shrimpy's fate**: Shrimpy is being transported to Phandalin. His identity, affiliations, and the consequences of his imprisonment are unresolved.
-- **Joe's identity**: Joe's notebook was consulted for directions, but Joe's identity, faction, and current whereabouts are not established.
-- **The drow among the Talosian orcs**: A drow was noted among the Talosian orc raiding party. Their identity and role within the faction have not been explained.
-- **Vukradin's public reputation**: Vukradin has inadvertently acquired a reputation as a noble adventurer. The consequences of this reputation and who holds it have not been fully explored.
-- **Falcon's Lodge**: The party has reservations about the lodge's atmosphere. The nature of these reservations and any dangers or complications at the lodge are unresolved.
-- **Teega the Smith's recovery**: Teega and the patrol members are still mentally reeling from mind control. Their full recovery and any lasting effects are unresolved.
+- **Tribar Wester is missing.** The Logger's Camp is deserted and silent. The reason for his absence and the fate of the camp's occupants is unknown.
+- **The Falcon Hunter's stolen magical ring.** Vukradin notes the Falcon Hunter possesses a magical ring belonging to someone. The original owner is unknown and has not been identified or located.
+- **The white dragon of the Ice Spire.** A white dragon drove the orc tribe from their home in the Sword Mountains. Its current location and intentions are unknown.
+- **The orc chief's alliance with half-orc Cultists of Talos.** The tribe's chief allied with Cultists of Talos, taking much of the tribe with him. Their location, goals, and activities are unknown. Valphine suspects a connection to other Cultists of Talos she is already aware of.
+- **The escaped orc scout.** One orc scout fled into Neverwinter Wood. He is aware of the party's composition (a Drow worshipping Lathander, a bear casting Moonbeam) and may report to or rejoin other orcs.
+- **Valphine's positioning near Brewbarry.** Vukradin noted that Valphine moved to march next to Brewbarry during the hike for reasons he does not understand. Her motivation is unresolved.
+- **The war of the dragons and the war of the giants.** Referenced by the captured orc as events that destabilised the Sword Mountains region. Details and outcomes not elaborated upon.

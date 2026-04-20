@@ -1,114 +1,83 @@
 ## Character Progression
 
-**Brewbarry**
-- Acquired: Dread Helm (eyes glow red when worn)
-- Acquired: (implicitly using) Halberd throughout
-- Gained new item from chest in Axeholm: Dread Helm
-- Noted interest in starting a music studio
-
-**Valphine**
-- Acquired: Potion of Superior Healing (from shrine coffer)
-- Acquired: Platinum amulet bearing Moradin's symbol (from shrine)
-- Acquired: Signet ring bearing the Axeholm crest (from Dwarven King's body)
-- Acquired: Forged ledger and Operator's Guide to Model 1489 Spatial Rectification Calliope (as evidence)
-- Acquired: One captured audit drone (for investigation)
-- Acquired: Four vials of Midnight Tears poison (2,000 gp total)
-- Skills used: Thieves' tools to pick lock
+**Soma**
+- Demonstrated wild shape ability (transformed into a spider, then returned to tortle form)
+- Showed druidic spellcasting (conjured a familiar as a distraction against the manticore)
+- Revealed backstory detail: trained for only one year by a druidic master named Meril before leaving home; conscious of gaps in her training
+- Gained new knowledge: manticores have a specific preference for human flesh over other humanoids (taught by Adabra)
 
 **Vukradin**
-- Acquired: Gauntlets of Ogre Power (from Axeholm chest)
+- Attempted Command spell on the manticore twice; both failed
+- Performed music for Adabra; received her praise
+- Collected the manticore's severed head as a trophy
+- Revealed backstory detail: previously performed as a bard and would only accept payment from customers who rated his music 10/10; Brewbarry was his only paying customer
 
-**Soma**
-- No new items noted
-- Demonstrated ability to communicate with animals magically (carrion crawler)
+**Valphine**
+- Fired hand crossbow at the manticore; missed or failed to wound meaningfully on multiple attempts
+- Was struck by manticore tail spikes
+
+**Brewbarry**
+- Landed killing blow on the manticore
+- Took claw damage from the manticore during melee
+- Rage protected him from the worst of the damage
 
 ---
 
 ## Arc Score Events
 
-**Brewbarry**
-- Positive: Successfully smashed through the inner portcullis door, enabling party entry
-- Positive: Resisted the out-of-phase paralysis effect ("incorrect packaging"), breaking free under his own power
-- Positive: Delivered killing blow to the three-headed Dwarven King
-- Positive: Persuaded Sir Kaelen that the gold mine was higher priority than returning the statue
-- Negative: Was manipulated by Aletra's wand into becoming a target for all Rift Weavers, turning him into a pawn
+**Soma** — Positive: Identified herself as a "naturalist" to Adabra, which transformed Adabra's disposition and ultimately secured her cooperation with the party.
 
-**Valphine**
-- Positive: Revived Soma from near-death with divine healing during the out-of-phase dwarf battle
-- Positive: Revived Soma again after she collapsed in the throne room fight
-- Positive: Successfully picked the locked door in Axeholm
-- Positive: Entered the shutdown code in time to prevent the machine's catastrophic failure
-- Positive: Blinded Aletra during her escape, causing her to drop several vials of contraband
-- Negative: Collapsed unconscious from the Chief Accountant's wail
-- Negative: Deeply offended Horia by stating contracts only exist to cheat people, undermining party negotiations
+**Soma** — Negative: Failed to approach the manticore quietly enough to attempt communication before combat began; noted this herself as a missed opportunity.
 
-**Vukradin**
-- Positive: Successfully implanted an illusion of a giant bear in the Dwarven King's mind, dealing psychic damage and turning the King's attack away from party members
-- Negative: Collapsed unconscious from the Chief Accountant's wail
-- Negative: First attempt to assault the Dwarven King's mind with an illusion of Moradin failed
+**Soma** — Negative: Was criticized by Adabra for gaps in her druidic training regarding manticore behavior; visibly deflated by the remark.
 
-**Soma**
-- Positive: Scouted Axeholm using a rat familiar, discovering the winch mechanism and enabling the party's entry
-- Positive: Sensed the planar anomaly using her staff, identifying the nature of the corruption
-- Positive: Persuaded the carrion crawler to vacate the mine peacefully, resolving the situation without combat
-- Negative: Paralyzed twice by out-of-phase dwarves, nearly killed the first time
-- Negative: Paralyzed and rendered unconscious by the three-headed Dwarven King
+**Vukradin** — Negative: Blamed Soma publicly when his Command spell failed a second time ("I trusted you, Soma!"), causing her visible hurt.
+
+**Vukradin** — Positive: Chose to relent and allow Corbin to keep his scavenged armor rather than strip him of it, showing unexpected mercy.
+
+**Valphine** — Negative: Missed multiple crossbow shots at a critical moment, including the would-be killing blow.
+
+**Brewbarry** — Positive: Delivered the killing blow on the manticore, ending the threat to Adabra.
 
 ---
 
 ## Relationships & Decisions
 
-**Valphine**
-- *Aletra (sister)*: Confirmed hostile relationship. Aletra is revealed as a drow poison smuggler working for an unnamed boss ("KP"), operating through House Xorlarrin and using the planar machine as a smuggling conduit. Valphine made a genuine effort to stop her escape via a blinding curse. Aletra's parting words reference a past traumatic event involving Valphine ("moaning in pain or pleasure"), suggesting a history of abuse or conflict. The relationship is antagonistic but complicated by family ties.
-- *Chief Accountant (undead)*: Party accepted her deal—override code in exchange for freedom and silence regarding Aletra. The Accountant later found peace and departed after learning all accounts were settled.
-- *Horia (dwarf leader)*: Relationship damaged by Valphine's blunt statement that contracts only exist to cheat people. Horia questioned her faith. Party must now repair this to finalize the mine compromise.
-- *Townmaster Harbin Wester*: Successfully delivered on the Axeholm commission; paid 250 gp. Accepted a follow-on delivery mission (cheese to the gold mine).
-- *Sir Kaelen*: Deferred obligation to return a statue; Brewbarry persuaded him the mine was higher priority. Debt remains outstanding.
-
-**Brewbarry**
-- *Jenna Roscoe*: Declined her suggestion to sell out his principles to fund his music studio, affirming his values.
+**Vukradin**
+- Pressed Corbin aggressively about the stolen armor; ultimately relented and promised to find him "fair trade" armor.
+- Accused Adabra of potentially stealing the dwarven property at Umbrage Hill; damaged initial rapport with her.
+- Considered extorting Phandalin for more gold by delaying Adabra's return; did not follow through.
+- Established that his moral code explicitly forbids taking treasure from slain monsters, framing it as a "fair trade" principle.
 
 **Soma**
-- *Carrion Crawler*: Formed a temporary communicative relationship; successfully persuaded it to leave the mine.
+- Took on an informal protective/maternal role toward both Vukradin and Corbin.
+- Aligned herself with Adabra's naturalist faction of the Emerald Enclave, whether fully intentional or not; this alignment now appears to define her standing with Adabra.
+- Listened to and privately reflected on Corbin's full backstory (loss of family in Uthgardt raid, descent into banditry); showed empathy.
 
-**Vukradin**
-- *Townmaster Harbin Wester*: Intimidated him by invoking his position as head of the Privy Council, reinforcing a dynamic of pressure rather than cooperation.
+**Valphine**
+- Noted Corbin as "another lost soul" and considered whether Lathander could help him; no direct action taken yet.
+- Observed Vukradin's inquisitorial behavior toward Corbin with detached appreciation.
 
-**Party Collective Decisions**
-- Agreed to accept the Chief Accountant's deal (override code for freedom/silence).
-- Chose to follow Aletra's directions to the machine rather than refuse her terms.
-- Negotiated with Zeleen Varnaster to receive Don-jon Raskin's mine share in exchange for clearing the carrion crawler.
-- Proposed a compromise between dwarves and wererats: dwarves mine, wererats provide labor and security.
-- Debated whether the Axeholm treasures (amulet, potion) should go to Harbin Wester or the Privy Council—outcome not finalized in notes.
+**Brewbarry**
+- Requested the party spend the night at Umbrage Hill, showing unexpected social initiative.
+- Was uncomfortable with Adabra's insistence he is not a barbarian; attempted to assert his own identity.
+
+**Corbin** (new NPC-turned-retainer)
+- Admitted to being a former bandit; backstory shared with Soma: farmer from Greenmeadow, family killed in Uthgardt Black Lion raid, survived by chance, turned to petty crime and banditry.
+- Assigned to camp duties by Vukradin; currently wearing scavenged dead man's armor on a temporary basis.
 
 ---
 
 ## Party State Updates
 
-**Location**: Returned to Phandalin after clearing Axeholm; currently at the Mountain's Toe Gold Mine (fifteen miles from Phandalin).
+**Location:** Umbrage Hill windmill (overnight); returning to Phandalin the following morning.
 
-**Finances**:
-- Received 250 gp from Harbin Wester for clearing Axeholm
-- Collected coins, gems, and alchemist's fire from slain ogres/orcs outside the mine
-- Holds four vials of Midnight Tears poison (2,000 gp total value, contraband)
-- Small platinum coin (7 gp), square-cut malachite gem (8 gp), bottle of fine wine
+**Obligation:** Party holds a note from Adabra to Townmaster Harbin requesting the heroes be rewarded; Adabra has agreed to travel with them to Phandalin.
 
-**Active Obligations**:
-- Cheese delivered to Mountain's Toe Gold Mine ✓
-- Carrion crawler cleared from mine ✓
-- Mine compromise negotiation with Horia (dwarves) and Zeleen (wererats) in progress—requires wererats to apologize to dwarves; contract terms being renegotiated from 20% dwarf share downward
-- Statue return for Sir Kaelen deferred but unresolved
-- Dragon threat to Phandalin region remains active and unaddressed
-- Aletra's escape and her unnamed boss ("KP") represent an unresolved threat with personal stakes for Valphine
+**Resources:** Received one enhanced healing potion from Adabra (described as having added scent and flavor).
 
-**Evidence Held**:
-- Forged ledger showing Aletra's tampering
-- Operator's Guide to Model 1489 Spatial Rectification Calliope with Aletra's personal notes
-- Interplanar bill for 42,000 gp from "Interplanar Trade Consultants Incorporated"
-- One captured audit drone
-- One mechanical mosquito-like blood-sampling construct (from smithy)
+**Reputation:** Adabra is now favorably disposed toward the party, particularly Soma, due to perceived shared naturalist values. She regards Vukradin's fair-trade philosophy approvingly once she understands it.
 
-**Reputation**:
-- Axeholm: Cleared and secured; spatial anomalies resolved; fortress assessed as a viable evacuation site
-- Phandalin: Standing with Harbin Wester maintained; Vukradin has established an intimidating dynamic with the townmaster
-- Mountain's Toe Gold Mine: Recognized as legal partial owners (Don-jon's share); relationship with wererats positive; relationship with dwarves strained after Valphine's remark
+**New Member:** Corbin has joined the party as a camp hand; loyalty and reliability unproven.
+
+**Active Threat:** A white dragon is mentioned as active in the region, making open travel hazardous.

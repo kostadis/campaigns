@@ -1,154 +1,93 @@
 ## NPCs
 
-**Brewbarry**
-- Current location: Logger's Camp, river south shore
-- Current state: Active, uninjured
-- Recent actions: Spotted orc scout; caught a thrown javelin mid-air and snapped it in two; intimidated orc prisoner; named prisoner "Shrimpy"; informed prisoner his life was payment enough
-- Faction: Party
+**Vukradin**
+- Current location: Falcon's Lodge (guest house, then main lodge)
+- Current state: Active, rested, and ready to proceed
+- Recent actions: Conducted solo covert infiltration of Falcon's private bedroom at night; cast Silence ritually to prevent detection; pried open a locked drawer; examined contents; concealed his involvement during Falcon's morning confrontation; secured permission to document the brass ring
+- Faction: The party
+- Motivations/Secrets: Motivated by a desire to uncover the truth about Falcon's claimed past; holds principled stance against taking stolen goods; views Falcon as "a fraud and an artist. And a thief."
 
-**Valphine**
-- Current location: Logger's Camp, river south shore
-- Current state: Active
-- Recent actions: Spotted orc scout; transformed into bear and climbed tree to attack scout; bit scout savagely; fired crossbow bolts (mostly missed)
-- Faction: Party
+**Falcon the Hunter**
+- Current location: Falcon's Lodge (main lodge)
+- Current state: Active; believes the Cult of Talos attempted the theft; unaware Vukradin was the intruder
+- Recent actions: Confronted the party at breakfast about the disturbed drawer; accused the Cult of Talos of attempting to steal his artifact; confessed the true story of his past to Vukradin under pressure
+- Faction: None stated
+- Motivations/Secrets: Is not a dragonslayer; was the sole survivor of his adventuring party's encounter with Iymrith; arrived at Iymrith's hoard after it had already been plundered by others; found residual gold scraps and a brass ring inscribed with the Elvish word for "lightning"; used these as seed capital to purchase land and build his lodge; maintains the false identity of a dragonslayer because the fantasy attracts paying clientele; "good for business"
+
+**Brewbarry**
+- Current location: Guest house, Falcon's Lodge
+- Current state: Asleep during the night's events
+- Recent actions: Generating loud snoring described as rattling the guest house timbers
 
 **Soma**
-- Current location: Logger's Camp, river south shore
-- Current state: Active
-- Recent actions: Deduced scout was a lookout for an ambush; leaped from cart onto a brigand and shoved him backward; called down a beam of radiant moonlight that engulfed three orcs
-- Faction: Party
+- Current location: Guest house, Falcon's Lodge
+- Current state: Silent within her shell during the night's events; rested and ready to proceed
+- Recent actions: Agreed that the fantasy Falcon provides makes guests feel safe; agreed non-intervention was appropriate
 
-**Vukradin**
-- Current location: Logger's Camp, river south shore
-- Current state: Active
-- Recent actions: Wove enchantments turning orcs against each other; conjured an illusion causing one raider to fight phantoms until he died; put a fleeing raider into magical slumber
-- Faction: Party
-
-**"Shrimpy" (unnamed orc prisoner)**
-- Current location: Logger's Camp, river south shore (bound to party's cart)
-- Current state: Captured; pulling the cart
-- Recent actions: Captured after being put to sleep; interrogated under intimidation; revealed information about his raiding party and the orc faction situation
-- Faction: Independent orc raiding band
-- Revealed information: Belongs to an independent raiding party displaced from the Ice Spire of the Sword Mountains by a white dragon; his group is attempting to remain independent of other factions; asked if he would be paid for his service
-
-**Orc Scout (unnamed)**
-- Current location: Unknown — fled into the woods
-- Current state: Wounded (savagely bitten by Valphine in bear form); escaped
-- Recent actions: Attempted to conceal himself on the path; panicked and climbed a tree; signaled companions to the north; escaped into the forest
-- Faction: Independent orc raiding band (same group as Shrimpy)
-
-**Orc Raider (enchanted, deceased)**
-- Current location: Forest ambush site
-- Current state: Dead — killed by Vukradin's illusion
-- Recent actions: Compelled by enchantment to attack the scout while screaming insults; later fought illusory duplicates until killed
-- Faction: Independent orc raiding band
-
-**Orc Brigand (fled)**
-- Current location: Unknown — fled into the forest
-- Current state: Alive; fled
-- Recent actions: Was shoved backward by Soma; subjected to radiant moonlight; declared "this was the worst idea he'd ever had" and fled
-- Faction: Independent orc raiding band
-
-**Orc Raider with scimitar (fled)**
-- Current location: Unknown — retreated
-- Current state: Alive; retreated
-- Recent actions: Charged Brewbarry with scimitar and landed blows before retreating
-- Faction: Independent orc raiding band
-
-**Tibor Wester**
-- Current location: Unknown — absent from Logger's Camp
-- Current state: Unknown; missing
-- Recent actions: None observed
-- Faction: Unknown (associated with Logger's Camp)
-- Note: Party needs to locate him to obtain a signed delivery notice and claim payment
+**Valphine**
+- Current location: Guest house, Falcon's Lodge
+- Current state: Bemused or possibly feigning sleep during the night's events; rested and ready to proceed
+- Recent actions: Expressed that Falcon's lie was "perfectly normal" and a display of genius; was impressed by Vukradin's handling of the confrontation
 
 ---
 
 ## Factions
 
-**Independent Orc Raiding Band (Shrimpy's group)**
-- Current goals: Remain independent of other orc factions; survive by raiding
-- Recent actions: Set an ambush along the forest path; ambush failed — one member dead, one captured, one fled wounded, one fled
-- Relationships: Displaced from home by a white dragon; distinct from Cult of Talos-aligned orcs and brigand factions; formerly part of a larger orc group now fragmented
-- Key members: Shrimpy (captured), unnamed scout (fled wounded)
-
 **Cult of Talos**
-- Current goals: Not detailed
-- Recent actions: Recruited orc fighters following the death of the orc shaman
-- Relationships: Recruiting from among displaced orcs in the valley; distinct from Shrimpy's independent band
+- Current goals: Acquiring artifacts with connections to lightning and the god Talos, including the brass ring from Iymrith's hoard
+- Recent actions: Accused by Falcon of attempting to steal the brass ring as an offering to their god (Falcon's belief; actual perpetrator was Vukradin)
+- Relationships: Adversarial toward Falcon the Hunter; connected thematically to Iymrith via lightning
 - Key members: None named
-
-**Orc Brigand Faction**
-- Current goals: Raiding (implied)
-- Recent actions: Formed from displaced orcs following the orc chief's descent into madness
-- Relationships: Separate from Cult of Talos-aligned orcs and Shrimpy's independent band
-- Key members: None named
-
-**Orc Chieftain's Faction (implied)**
-- Current goals: Unknown
-- Recent actions: Chief described as having gone mad following displacement
-- Relationships: Formerly led the unified orc group; now fragmented
-- Key members: Unnamed orc chief (mad)
 
 ---
 
 ## World Events
 
-- On 10-02 Taraskh 1495, Brewbarry and Valphine spotted an orc scout attempting to hide on the party's forest path.
-- Soma identified the scout as a lookout for an ambush further up the path.
-- Valphine transformed into a bear, approached the scout, chased him up a tree, and bit him savagely.
-- The scout signaled his companions to the north before escaping into the forest.
-- Multiple orcs — raiders and brigands — emerged from hiding and began arguing among themselves about the scout's incompetence.
-- An orc raider threw a javelin at Brewbarry; Brewbarry caught it mid-air, snapped it in two, and growled at the attacker.
-- Vukradin cast enchantments causing one raider to attack the scout while screaming insults about the scout's mother; the raider's companions accused him of treachery.
-- Soma leaped from the cart onto a brigand and shoved him backward.
-- Soma called down a beam of radiant moonlight that engulfed three orcs.
-- The brigand, overwhelmed, declared it was the worst idea he'd ever had and fled into the forest.
-- An orc raider charged Brewbarry with a scimitar, landed blows, then retreated.
-- Valphine fired crossbow bolts, most of which missed.
-- Vukradin conjured an illusion surrounding one raider with duplicates of a companion; the raider fought the phantoms and was killed by the illusory assault.
-- The surviving raider attempted to flee but was put into magical slumber by Vukradin and captured.
-- The party bound the captured orc (dubbed "Shrimpy" by Brewbarry) to their cart.
-- The party interrogated Shrimpy; he revealed information about the orc displacement, the white dragon, the chief's madness, and the formation of the Cult of Talos and brigand factions.
-- Brewbarry told Shrimpy his life was payment enough when the orc asked to be paid.
-- The party continued their journey with Shrimpy pulling the cart.
-- The party arrived at the Logger's Camp on the south shore of a river.
-- The Logger's Camp was found completely deserted despite the early morning hour.
-- With no one present to sign the delivery notice, the party determined they must investigate the disappearance of the camp's inhabitants.
+- Vukradin conducted a solo late-night infiltration of Falcon's private bedroom in the main lodge while his companions slept
+- Vukradin cast the Silence spell ritually to cover Falcon's bedroom and the adjacent hallway before proceeding
+- Vukradin pried open a locked drawer in Falcon's bedroom
+- Vukradin discovered and examined a pair of wooden elven ears on a chain inscribed with "my dearly beloved," a wooden square carved with a labyrinth maze, and a small iron box shaped as a realistic dragon's head
+- Vukradin wound a key, opened the iron box, and found a brass ring inscribed with the Elvish word for "lightning"
+- Vukradin identified the maze carving as resembling the architecture described in the libretto of "The Undercity Chorale," a forgotten Waterdeep opera
+- Vukradin speculated the brass ring originated from the hoard of the blue dragon Iymrith
+- At breakfast the following morning, Falcon confronted the party about the disturbed drawer and accused the Cult of Talos of attempting to steal the ring
+- Vukradin convincingly denied knowledge of the events and the ring's location, maintaining his cover
+- Falcon, pressured by the situation, confessed to Vukradin the true account of his past: he is not a dragonslayer; he was the sole survivor of his party's encounter with Iymrith; he found the ring and residual gold in Iymrith's already-plundered hoard and used them as seed capital to build his lodge
+- Vukradin secured permission to document the brass ring rather than taking it
+- The party completed their rest and prepared to proceed with delivering goods
 
 ---
 
 ## Locations
 
-**Forest Path (ambush site)**
-- What it is: A dense forest path along the party's route
-- What happened there: Site of an orc ambush; combat occurred; one orc killed, one captured, others fled
-- Current state: Ambush resolved; party has moved on
+**Falcon's Lodge (Main Lodge)**
+- What it is: A hunting lodge owned and operated by Falcon the Hunter, built using gold and a ring recovered from Iymrith's plundered hoard
+- What happened there: Site of Vukradin's covert nighttime infiltration; location of Falcon's private bedroom and the locked drawer containing the artifacts; site of the morning confrontation and Falcon's confession
+- Current state: Active; Falcon continues to operate it, attracting clientele with the false narrative of being a dragonslayer
 
-**Ice Spire, Sword Mountains**
-- What it is: A location in the Sword Mountains; former home of Shrimpy's orc raiding band
-- What happened there: A white dragon displaced the orcs from this location
-- Current state: Occupied or controlled by a white dragon (implied)
+**Falcon's Lodge (Guest House)**
+- What it is: Separate lodging structure within the lodge grounds where the party stayed
+- What happened there: Party slept here the night of the infiltration; Brewbarry's snoring was the primary nocturnal sound
+- Current state: Party rested and departed for their next objective
 
-**Valley below the Ice Spire (unnamed)**
-- What it is: The valley where the displaced orcs have settled
-- What happened there: Displaced orcs descended into chaos; chief went mad; factions formed (Cult of Talos recruits, brigands, independents)
-- Current state: Occupied by fragmented, chaotic orc factions
+**Iymrith's Hoard (referenced location)**
+- What it is: The former treasure hoard of the blue dragon Iymrith
+- What happened there: Was plundered by unknown parties prior to Falcon's arrival; Falcon found residual gold scraps and the brass ring inscribed with the Elvish word for "lightning" in the aftermath
+- Current state: Not visited; referenced only
 
-**Logger's Camp**
-- What it is: A logging camp on the south shore of a river; features tents on a sandy beach, a cabin with stacked logs, and old stone foundations
-- What happened there: Party arrived expecting to deliver goods and obtain a signed notice from Tibor Wester; camp found completely deserted
-- Current state: Eerily silent and empty despite the early morning hour; inhabitants' fate unknown
+**Waterdeep (referenced location)**
+- What it is: A city; referenced as the setting of "The Undercity Chorale"
+- What happened there: Not visited; referenced in connection to the opera and its depiction of the city's deepest subterranean architecture
 
 ---
 
 ## Threads & Mysteries
 
-- **What happened to the Logger's Camp inhabitants?** The camp is completely deserted at an early morning hour with no explanation; tents, cabin, and stacked logs remain but no people are present.
-- **Where is Tibor Wester?** The party needs his signature on a delivery notice to claim payment; his current location and fate are unknown.
-- **The white dragon of the Ice Spire.** A white dragon drove the orc band from the Ice Spire of the Sword Mountains; its current activity and potential threat to the wider region are unestablished.
-- **The orc chief's madness.** The orc chief went mad following displacement; the cause and consequences of this madness are unexplored.
-- **The Cult of Talos recruiting orcs.** The cult recruited orc fighters following the death of the orc shaman; the cult's broader goals and activities are unrevealed.
-- **The orc shaman's death.** The shaman's death precipitated orc recruitment into the Cult of Talos; circumstances of the death are unknown.
-- **Shrimpy's fate.** The captured orc is currently bound to the party's cart; what the party intends to do with him is unresolved.
-- **The escaped orc scout.** The wounded scout fled into the forest; he may report on the party or resurface later.
+- The identity and fate of the adventuring party that plundered Iymrith's hoard before Falcon arrived is unknown
+- The identity of those who killed or drove off Iymrith (if she is dead) is unknown
+- The current whereabouts and status of the blue dragon Iymrith are unconfirmed
+- The significance of the wooden elven ears on a chain inscribed with "my dearly beloved" is unexplained — their owner, the intended recipient, and their connection to Falcon are unknown
+- The significance of the wooden square carved with a labyrinth maze is unexplained beyond Vukradin's identification of it as resembling the architecture in "The Undercity Chorale" libretto
+- The connection between Iymrith's hoard, lightning, and the Cult of Talos remains an open and recurring thread in the region
+- The nature and contents of "The Undercity Chorale" and its depiction of Waterdeep's deepest subterranean levels may be relevant to future events
+- The party's next objective — delivering goods — is not described; its destination, recipients, and contents are unstated

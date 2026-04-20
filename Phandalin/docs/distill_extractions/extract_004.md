@@ -1,144 +1,167 @@
 ## NPCs
 
-**Corbin**
-- Current location: Umbrage Hill windmill (as of end of session)
-- Current state: Alive, in poor physical condition, smells bad after the manticore encounter; employed by the party as camp caretaker
-- Recent actions: Admitted to being a former bandit; revealed his backstory to Soma; helped Adabra prepare the evening meal as tasked by Vukradin
-- Faction: None current; formerly a bandit crew operating near Phandalin
-- Revealed motivations/secrets: Was a farmer from Greenmeadow, east of the High Forest; wife Elara and daughter Lily were killed in a Black Lion Uthgardt barbarian raid that destroyed his village; he was knocked unconscious and left for dead; survived by petty theft and eventually fell in with bandits; wears scavenged armor taken from a dead man
-- His leather armor was stolen from a corpse, confirmed by his own admission
-
-**Adabra**
-- Current location: Umbrage Hill windmill; agreed to travel to Phandalin with the party
-- Current state: Alive and unharmed; windmill is intact
-- Recent actions: Sheltered in the windmill while besieged by the manticore; greeted the party after the manticore was killed; provided a healing potion; gave the party a note addressed to Townmaster Harbin; prepared a meal of bread, vegetable and herb stew with local fungi, foraged vegetables, berries, and wild greens; offered Soma informal druidic instruction; agreed to travel to Phandalin after learning the party are naturalist-aligned
-- Faction: Emerald Enclave (naturalist faction)
-- Revealed motivations/secrets: Holds strong naturalist convictions within the Emerald Enclave; opposes the interventionist faction; refuses to leave her windmill on ordinary grounds but agreed to travel when she discovered the party shared her naturalist alignment; has a deed to the land at Umbrage Hill; tends to the dwarven cairns near the windmill; is aware of the note Townmaster Harbin sent to "his Lordship" requesting help; manticores prefer human flesh over that of other humanoids, which is why the creature targeted her specifically; holds a medical/herbalist role and is providing some form of treatment to Townmaster Harbin (described in a long note to him)
-
-**Vukradin**
-- Current location: Umbrage Hill windmill (end of session); en route back to Phandalin
-- Current state: Alive; frustrated by financial circumstances
-- Recent actions: Interrogated Corbin about the stolen armor; attempted a Command spell on the manticore twice, both failed; severed the manticore's head after the battle; attempted to convince Adabra to return to Phandalin; played music for Adabra; interrogated Adabra about ownership of the dwarven house; read Adabra's note aloud
-- Faction: None specified; operates under a "fair trade" philosophy
-- Revealed motivations/secrets: Refuses to take money from monster hoards as he considers it stolen property; only accepts payment from organic, conflict-free sources; desires a "studio"; formerly performed as a bard and would only accept payment from audience members who rated his performance 10/10; Brewbarry was the only customer who ever paid him; is an aasimar
-
-**Brewbarry**
-- Current location: Umbrage Hill windmill (end of session)
-- Current state: Alive; injured by manticore claws during combat but survived due to rage; killed the manticore
-- Recent actions: Threw hand axes at the manticore, hitting its wings; was attacked by the manticore's claws in flight; climbed to the second floor of the windmill and struck the manticore twice; delivered the killing blow; waved the manticore's severed tail as proof of death to Adabra; requested the party spend the night at the windmill; expressed discomfort at Adabra's insistence that "barbarian" is a pejorative term
-- Faction: None specified; described as a nomad by Adabra
-- Revealed motivations/secrets: Is the only person who ever paid Vukradin for a performance (gave it 10/10); self-identifies as a barbarian
+**Valphine**
+- Current location: Gnomengarde, barrel room (cellar)
+- Current state: Active, engaged in combat with the mimic
+- Recent actions: Missed a mace strike on the downed ogre; shot a crossbow bolt wounding the fleeing ogre; looted the ogre's body (found a whistle, coins, and a key); entered Gnomengarde; deliberately provoked Pog and Ulla into mutual suspicion; located the mimic in the cellar; directed the party's approach to combat
+- Faction: Party
+- Motivations/secrets: Has knowledge of dangerous shapeshifters from the Dark Realms; inclined toward torture as a method of interrogation/cure; is a Drow cleric
 
 **Soma**
-- Current location: Umbrage Hill windmill (end of session)
-- Current state: Alive; emotionally stung by Adabra's criticism of her druidic training
-- Recent actions: Wildshaped into a spider earlier in the journey, then reverted to tortle form; attempted to approach the manticore quietly; conjured a familiar and sent it into the manticore's mouth to distract it; shouted at Vukradin in encouragement before his second spell attempt; charged at the manticore; struck the manticore with a spell; reassured Adabra during the battle; identified herself as a naturalist to Adabra; listened to Corbin's backstory that evening; conveyed Vukradin's financial desperation to Adabra
-- Faction: Druidic; naturalist-aligned with Emerald Enclave sympathies
-- Revealed motivations/secrets: Was trained by a druid named Meril near her home for approximately one year; Meril's prompting led her to travel with Vukradin; she has "so little time left" for an unstated reason, which is why her training was abbreviated; her full backstory and reasons for leaving home remain unknown to the party; feels a maternal protectiveness toward the party
+- Current location: Gnomengarde, barrel room (cellar)
+- Current state: Active, preparing to cast Ice Knife against the mimic
+- Recent actions: Sniggered at Valphine's missed mace strike; navigated the party to Gnomengarde by following the river; waded through the pool to examine mushrooms; climbed the cliff face after Vukradin; argued with the gnome guards; retrieved and carried the rope for Valphine; attempted to explain the value of cleric spells to the inventor gnomes; reminded Vukradin that the mission pays for delivering something, not something useful
+- Faction: Party
+- Motivations: Pragmatic; skeptical of unnecessary violence; interested in mushroom wine
 
-**Valphine**
-- Current location: Umbrage Hill windmill (end of session)
-- Current state: Alive; wounded by manticore tail spikes during combat
-- Recent actions: Armed her hand crossbow and fired first at the manticore; hit the manticore but dealt minimal effect; was targeted by manticore tail spikes in retaliation; fired twice more and missed both times; briefly considered the manticore's offer to trade Corbin for the party's safety; attempted to introduce Adabra to Lathander
-- Faction: Follower/evangelist of Lathander
-- Revealed motivations/secrets: Previously held different moral values ("a different life" implied); has some vestigial pragmatic outlook that made her briefly consider the manticore's trade offer
+**Vukradin**
+- Current location: Gnomengarde, barrel room (cellar)
+- Current state: Active, engaged in combat with the mimic; using Bardic invective against the creature
+- Recent actions: Delivered the killing blow on the ogre; justified it by saying the ogre hated music and probably had stolen treasure; foraged mushrooms from the pool islands (red, green, and purple varieties); searched unsuccessfully for a secret room behind the waterfall; climbed the cliff face; negotiated entry with Pog and Ulla; directed the party to the inventor's workshop; nearly walked into the spinning blade trap; survived the rotating crossbow assault by Facktore; foraged additional mushrooms on the return crossing; negotiated with King Gnercli to deal with the shapeshifter in exchange for a Hat of Wizardry; disabled the spinning blades a second time on the way back
+- Faction: Party
+- Motivations: Identifies as a musician and bard; seeks music-based solutions; interested in treasure; found the deal for the Hat of Wizardry distasteful but accepted it for the 50 gold reward
 
-**Meril**
-- Current location: Unknown
-- Current state: Unknown
-- Recent actions: Trained Soma in druidic arts for approximately one year near Soma's home; encouraged Soma to follow Vukradin
-- Faction: Druidic
-- Revealed motivations/secrets: None beyond the above
+**Brewbarry**
+- Current location: Gnomengarde, barrel room (cellar)
+- Current state: Active, engaged in combat with the mimic; his halberd is stuck in the mimic's body
+- Recent actions: Missed a halberd strike on the downed ogre; survived a direct axe blow from the ogre due to Uthgardt rage and mystical resilience; failed to bring down the fleeing ogre; announced himself as "Brewbarry, killer of Ogres" to the gnome guards; stated he used to be an Uthgardt Barbarian; argued for talking and curing King Korboz rather than torture; charged the mimic and struck it with his halberd
+- Faction: Party; formerly associated with the Uthgardt
+- Revealed information: He used to be an Uthgardt Barbarian but no longer identifies as one
+
+**Pog**
+- Current location: Gnomengarde, guard post at the cave entrance
+- Current state: Active, on guard duty; currently arguing with Ulla about which of them is a shapeshifter (provoked by Valphine)
+- Recent actions: Shouted in Gnomish at the arriving party; deliberated with Ulla over whether to let the party pass; allowed the party through after debate; later accused Ulla of looking different after Valphine's provocation
+- Faction: Gnomengarde
+- Revealed information: Referred to as both "Pog" and "Pug" in the notes (name uncertain)
+
+**Ulla**
+- Current location: Gnomengarde, guard post at the cave entrance
+- Current state: Active, on guard duty; currently arguing with Pog about which of them is a shapeshifter (provoked by Valphine)
+- Recent actions: Questioned the party about being shapechangers; deliberated with Pog; allowed the party through; directed the party to the inventor's workshop via the hanging bridge; warned the party about the spinning blade trap and provided the alternate northern route after learning they had no Mage Hand; accused Pog of looking different after Valphine's provocation
+- Faction: Gnomengarde
+- Motivations: Follows standing orders; cautious about shapechangers and Uthgardt
+
+**Facktore**
+- Current location: Unknown within Gnomengarde; fled the scene
+- Current state: Fled after his device was disabled
+- Recent actions: Tested his rotating crossbow assault platform on Vukradin and the party; fled when the device was disabled
+- Faction: Gnomengarde
+- Revealed information: Described as a deranged gnome; inventor of the rotating automatic crossbow platform
+
+**Fibblestib**
+- Current location: Gnomengarde, inventor's workshop/laboratory
+- Current state: Active; engaged in debate with Dabbledob
+- Recent actions: Informed the party that the gnomes' priority is curing King Korboz's madness; proposed building a "sanity ray" as a cure; argued with Dabbledob; offered to build a non-standard piano for Vukradin; laughed upon hearing about the rotating blade trap; claimed credit for the rotating blade invention and declared it proven superior
+- Faction: Gnomengarde, inventors
+- Motivations: Focused entirely on curing King Korboz; competitive with Dabbledob; proud of his inventions
+
+**Dabbledob**
+- Current location: Gnomengarde, inventor's workshop/laboratory
+- Current state: Active; engaged in debate with Fibblestib
+- Recent actions: Argued against the sanity ray; proposed a straitjacket with no hand holes; argued with Fibblestib; noted that music has helped in some circumstances; rolled her eyes at Fibblestib's claim about his rotating blade invention
+- Faction: Gnomengarde, inventors
+- Motivations: Focused on curing King Korboz; skeptical of Fibblestib's proposals
+
+**King Korboz**
+- Current location: Gnomengarde, throne room
+- Current state: In a state of hysterics; screaming; claims to see shapechangers
+- Recent actions: Screamed upon hearing Vukradin announce himself; accused Vukradin of being a shapeshifter
+- Faction: Gnomengarde; co-ruler
+- Motivations/secrets: Claims a shape-changing creature is terrorizing the cave system; his mental state is described as madness
+
+**King Gnercli**
+- Current location: Gnomengarde, throne room
+- Current state: Active; co-ruling in Korboz's incapacitation
+- Recent actions: Identified the party as adventurers; offered a Hat of Wizardry in exchange for killing the shapeshifter; speculated the creature hides in the cellar among the barrels; negotiated with Vukradin
+- Faction: Gnomengarde; co-ruler
+- Motivations: Wants the shapeshifter dealt with; believes it is not bipedal
+
+**Warren**
+- Current location: Unknown; missing within Gnomengarde
+- Current state: Missing, presumed victim of the shapeshifter
+- Faction: Gnomengarde
+
+**Orrin**
+- Current location: Unknown; missing within Gnomengarde
+- Current state: Missing, presumed victim of the shapeshifter
+- Faction: Gnomengarde
 
 ---
 
 ## Factions
 
-**Emerald Enclave (Naturalist Faction)**
-- Current goals: Preserve the natural order; accept divine interventions and the "meta-verse" as part of natural order; oppose the interventionist faction's practice of drawing lines between civilised and uncivilised beings
-- Recent actions: Adabra identified herself and Soma as naturalists; Adabra criticised the interventionist faction's approach as "barbaric slaughtering"
-- Relationships to other factions: Internally divided between naturalist and interventionist sub-factions; the interventionist faction supports slaying monsters and seizing their treasure; the naturalist faction opposes this
-- Key members: Adabra (naturalist); Soma (naturalist-aligned)
+**The Party**
+- Current goals: Acquire a magical device from Gnomengarde for Townmaster Harbin Wester to aid against a dragon threat; deal with the shapeshifter in exchange for a Hat of Wizardry and 50 gold
+- Recent actions: Fought and killed an ogre en route to Gnomengarde; navigated traps within Gnomengarde; negotiated entry; located the shapeshifter (a mimic) in the cellar
+- Relationships: Operating on behalf of Townmaster Harbin Wester; currently cooperating with Gnomengarde's rulers
 
-**Emerald Enclave (Interventionist Faction)**
-- Current goals: Unknown in detail; draws lines between civilised and uncivilised beings; apparently supports more aggressive engagement with monsters
-- Recent actions: None directly observed; described critically by Adabra
-- Relationships to other factions: Opposed by the naturalist faction within the Enclave
-- Key members: None named
-
-**Black Lion Uthgardt**
-- Current goals: Unknown current state
-- Recent actions: Raided and destroyed Greenmeadow east of the High Forest; killed Corbin's wife Elara and daughter Lily; left Corbin for dead
-- Relationships to other factions: No current relationships established
-- Key members: None named
-
-**Corbin's Former Bandit Crew**
-- Current goals: Unknown
-- Recent actions: Recruited Corbin after he was destitute; Corbin has since left or been separated from them
-- Relationships to other factions: None established
-- Key members: Corbin (former); others unnamed
+**Gnomengarde**
+- Current goals: Cure King Korboz's madness; eliminate the shapeshifter terrorizing the caves; maintain security against shapechangers and Uthgardt
+- Recent actions: Maintained armed guard posts; deployed defensive traps (rotating blades, rotating crossbow platform); negotiated with the party; offered the Hat of Wizardry as reward
+- Relationships: Had or has a standing order to attack Uthgardt barbarians on sight (origin: events of the last few months, status unclear); hired/tasked the party with killing the shapeshifter
+- Key members: King Korboz (co-ruler, incapacitated), King Gnercli (co-ruler, functional), Fibblestib (lead inventor), Dabbledob (lead inventor), Pog (guard), Ulla (guard), Facktore (deranged inventor)
 
 ---
 
 ## World Events
 
-- Corbin was recruited by the party in Phandalin and assigned to camp caretaking duties; Vukradin demanded he remove his stolen armor but ultimately relented pending replacement with fairly traded armor
-- Soma wildshaped into a spider during travel and reverted to tortle form on the approach to Umbrage Hill
-- The party approached Umbrage Hill and observed a manticore atop the windmill and heard a woman calling for help from inside the structure
-- Valphine fired the opening shot at the manticore with a hand crossbow; the bolt hit but barely affected the creature
-- The manticore spoke, declared it wanted a meal, and fired tail spikes at Valphine in retaliation
-- Vukradin attempted a Command spell on the manticore; it failed
-- The manticore offered to spare the party if they surrendered Corbin, citing a preference for human flesh
-- Soma conjured a familiar and directed it into the manticore's mouth as a distraction; the manticore was enraged rather than satisfied
-- Brewbarry threw hand axes, hitting the manticore's wings; the manticore flew in and clawed Brewbarry; Brewbarry struck it simultaneously with his halberd
-- The manticore retreated to the second floor of the windmill, injured
-- Vukradin attempted a second Command spell on the manticore; it failed again
-- Valphine fired at the manticore and missed
-- The manticore flew toward Corbin with intent to consume him
-- Vukradin and Soma struck the manticore with spells
-- Valphine attempted a killing crossbow bolt and missed
-- Brewbarry climbed to the second floor and struck the manticore twice, killing it
-- Vukradin decapitated the manticore's corpse
-- Adabra emerged from the windmill after Brewbarry displayed the severed tail as proof; the party confirmed she had only been besieged for a short time
-- Adabra refused to leave Umbrage Hill and return to Phandalin, insisting her role in the natural order required her to stay and craft potions
-- Adabra tested Soma's Emerald Enclave allegiance by asking her position on the naturalist/interventionist schism; Soma answered "naturalist"
-- Adabra provided the party with a vial of her enhanced healing potion and a note for Townmaster Harbin declining to leave but requesting the heroes be rewarded; the note also contained instructions for administering medicine to Harbin
-- Brewbarry requested the party spend the night at the windmill; Adabra agreed and cooked a meal
-- Corbin arrived at the windmill in poor condition; Vukradin interrogated him about Adabra's belongings; Corbin broke down and recounted his backstory to the group
-- Adabra gave Soma unsolicited instruction on manticore feeding preferences, criticising gaps in Soma's druidic training
-- Soma recounted Vukradin's financial predicament to Adabra the following morning
-- Adabra agreed to travel to Phandalin upon learning the party are naturalist-aligned and that the interventionist faction's practices are connected to the mission
+- The party fought an ogre in a mountain valley in the early hours of 02-01 of Taraskh 1495; multiple strikes missed the prone creature before it stood and fled.
+- The ogre attacked Brewbarry with its axe; the blow was absorbed by Brewbarry's Uthgardt rage and mystical resilience.
+- The ogre fled the battle; Valphine wounded it with a crossbow bolt; Vukradin delivered the killing blow.
+- Vukradin looted the ogre's body; Valphine found a whistle, coins, and a key.
+- The party arrived at Gnomengarde, located at the end of a river beneath a waterfall in a mountain with no sunlight access.
+- Vukradin foraged red, green, and purple mushrooms from the pool islands; identified their properties.
+- Vukradin searched behind the waterfall for a secret treasure room and found only rock.
+- The party climbed a 20-foot cliff face to reach a cave entrance above the waterfall pool.
+- The party was challenged by gnome guards Pog and Ulla; entry was granted after bureaucratic deliberation, partly because Brewbarry stated he used to be an Uthgardt Barbarian.
+- Vukradin and Soma nearly entered a spinning-blade trap; Vukradin turned back and obtained an alternate route from Ulla.
+- The party encountered Facktore, a deranged gnome inventor, who tested his rotating automatic crossbow platform on them; the device was disabled and Facktore fled.
+- Vukradin foraged additional mushrooms while crossing the pool on the return route.
+- The party reached the gnome sleeping chambers and then the inventor's laboratory.
+- Fibblestib and Dabbledob informed the party that curing King Korboz is the gnomes' primary concern; they reported that gnomes Warren and Orrin went missing and King Korboz claims a shapeshifter is responsible.
+- Vukradin proposed using music to treat King Korboz; Dabbledob confirmed music has helped in some circumstances; Fibblestib offered to build a non-standard piano.
+- The party met King Gnercli and King Korboz in the throne room; Korboz accused Vukradin of being a shapeshifter.
+- King Gnercli offered a Hat of Wizardry in exchange for killing the shapeshifter; Vukradin accepted.
+- The party disabled the spinning blades a second time on the way to the cellar.
+- Valphine provoked Pog and Ulla into mutual accusations of being shapechangers.
+- The party located the cellar containing twelve forty-gallon barrels; Valphine aimed a crossbow at a barrel, causing it to reveal itself as a mimic.
+- Brewbarry struck the mimic with his halberd; the weapon became stuck in the creature's body.
+- The mimic attacked Brewbarry with a pseudopod and missed.
+- Vukradin used Bardic invective against the mimic, causing it to flinch visibly; combat is ongoing.
 
 ---
 
 ## Locations
 
-**Umbrage Hill**
-- What it is: A hill in the wilderness featuring a windmill, a set of cairns, and a ruined building; the cairns mark the graves of dwarves; the ruined structure nearby is a former dwarven house
-- What happened there: The party fought and killed a manticore that had besieged Adabra inside the windmill; the party spent the night as guests of Adabra; Adabra holds a deed to the land and tends the dwarven cairns
-- Current state: Manticore dead; Adabra safe inside windmill; party departed (or departing) in the morning toward Phandalin
+**Mountain valley (unnamed)**
+- A rocky valley with mountain peaks; site of the ogre battle on the morning of 02-01 of Taraskh 1495.
+- Current state: Ogre corpse present; battle concluded.
 
-**Phandalin**
-- What it is: A village; the party's base of operations; home of Townmaster Harbin
-- What happened there: Townmaster Harbin previously sent a note to an unnamed lord requesting help; the party was dispatched in response; Adabra has an unspecified ongoing medical relationship with Harbin
-- Current state: Not visited this session; party en route back
+**Gnomengarde**
+- A gnomish hold built into a mountain, accessible via a river leading to a waterfall.
+- The waterfall creates a mist-filled pool with two small islands bearing red, green, and purple mushrooms; no sunlight reaches this area.
+- Several cave openings overlook the pool from ledges 20–30 feet above.
+- A 20-foot cliff face provides access to the cave entrance above the pool.
+- Internal layout includes: an entry chamber with hallways north and east and a guard post to the south; a hanging bridge crossing the waterfall area; a spinning-blade trap room (two turnstiles with stacked blades, one spinning counterclockwise, one clockwise, lightly obscured by waterfall mist); a large room housing Facktore's rotating automatic crossbow platform; gnome sleeping chambers (large cave with old campfire remnants, four side caves each with five small wooden cots); inventor's laboratory to the south of the sleeping chambers; throne room; cellar with twelve forty-gallon barrels.
+- Current state: King Korboz is incapacitated with madness; two gnomes (Warren and Orrin) are missing; a mimic is present in the cellar and is currently in combat with the party; the spinning-blade trap has been disabled (twice); Facktore's crossbow platform has been disabled.
 
-**Greenmeadow**
-- What it is: A small farming village east of the High Forest on the plains
-- What happened there: Destroyed by the Black Lion Uthgardt barbarians during the chaos following the breaking of the Ordning; Corbin's wife Elara and daughter Lily were killed; Corbin was left for dead
-- Current state: Destroyed; no known surviving residents besides Corbin
+**Cellar (Gnomengarde)**
+- A room containing twelve forty-gallon barrels set in wide alcoves with wooden braces; barrels in the south alcove are tapped with wooden spigots (two half-full, two nearly empty).
+- Current state: Active combat; the mimic has revealed itself; Brewbarry's halberd is lodged in the mimic's body.
 
 ---
 
 ## Threads & Mysteries
 
-- The identity of "his Lordship" to whom Townmaster Harbin sent a note requesting help has not been revealed
-- Soma has "so little time left" for an unstated reason; the nature of this limitation is unresolved
-- Soma's full backstory, including why she left home and the full circumstances of her training under Meril, remains unknown
-- The nature and extent of the naturalist/interventionist schism within the Emerald Enclave, and its wider consequences for the campaign, are unresolved
-- Adabra's note contains detailed instructions for medicine for Townmaster Harbin; the nature of his illness or injury has not been specified
-- The white dragon mentioned by Vukradin as a threat to travellers between Phandalin and Umbrage Hill has not been encountered or further detailed
-- Corbin's former bandit crew is still at large; their location, size, and intentions are unknown
-- The breaking of the Ordning and its ongoing effects on the North form a background threat; no direct engagement with this event has occurred
-- Adabra's long-term relationship to the Emerald Enclave and what her "role in the natural order" entails beyond potion crafting has not been fully explained
-- Valphine's changed moral outlook ("a different life") is alluded to but not explained
+- The mimic in the cellar has not yet been killed; combat is ongoing. Its origin and how it entered Gnomengarde are unknown.
+- The fate of missing gnomes Warren and Orrin is unresolved; it is implied but not confirmed that the mimic is responsible.
+- King Korboz's madness has not been cured; the gnomes' proposed solutions (sanity ray, straitjacket) and Vukradin's musical approach remain untested.
+- The intended magical device to fight the dragon has not yet been secured; King Gnercli offered only a Hat of Wizardry, which Vukradin deemed inadequate for fighting a dragon.
+- The identity and nature of the dragon threatening the region is not detailed in this session.
+- Townmaster Harbin Wester's mission remains open; the party has not yet returned with a device.
+- The standing order to attack Uthgardt barbarians on sight (issued by Gnomengarde, origin: events of the last few months) is unresolved; its current status is unclear even to the gnomes.
+- The key, whistle, and coins looted from the ogre have not been identified or used; the key's purpose is unknown.
+- Whether Pog or Ulla (or either) is actually a shapeshifter is unresolved; Valphine deliberately planted mutual suspicion between them.
+- Facktore fled after his crossbow device was disabled; his current location and intentions are unknown.
+- The red oily mushrooms foraged by Vukradin have an unknown use.

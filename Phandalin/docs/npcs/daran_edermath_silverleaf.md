@@ -1,9 +1,18 @@
+---
+name: daran_edermath_silverleaf
+aliases: []
+source_extracts: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38]
+---
+
 # Daran Edermath (Silverleaf)
 
 ## Identity
 - **Role/Title:** Retired adventurer, orchardist
 - **Faction:** Unknown/unaffiliated (implied former adventuring background)
 - **First Appearance:** Stonehill Inn, Phandalin — approached the party with a business proposition
+- **Physical Description:** Tall and lean half-elf in his later years with silver-streaked hair, emerald-green eyes, and a salt-and-pepper beard; dressed in practical earth-toned clothing suited to tending his orchard
+
+*Also known as: (none).*
 
 ## Personality & Motivations
 - **Core Goals:** Appears to seek profit through salvage operations, framed as legitimate opportunity

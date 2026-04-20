@@ -1,78 +1,81 @@
 ## Character Progression
 
+**Vukardin**
+- Gained access to sending stones (payment from Dazlyn Grayshard and Norbus Ironrune for clearing orcs from the dwarven ruins)
+- Demonstrated use of Starry Wisp and hiding tactics in combat against the ogre
+
+**Valphine Sortorra**
+- No level changes noted; established as cleric of Lathander with combat healing and divine fire abilities
+- Knocked unconscious by friendly fire (Soma's ice knife) during orc fight; revived
+
 **Soma**
-- Gained a magical staff from Merrill that "unlocked" some magic as the party headed to the Whispering Wood
-- Retrieved a +1 halberd from the Star Crossed Lover shipwreck (subsequently claimed by Brewbarry)
-- Retrieved multiple locked chests from shipwrecks (Sea Urchin, Golden Gull, Orca)
+- Established as party navigator and wilderness guide; led group to dwarven ruins and toward Gnomengarde
+- Gained orc axes and hide armor (sold at Lionshield Coster)
+- Picked up item from ogre corpse (nature unspecified)
+- Accidentally knocked out Valphine with ice knife
 
 **Brewbarry**
-- Acquired the +1 halberd recovered from the Star Crossed Lover wreck
-
-**Vukradin**
-- Received 10 gold from Stonehill's betting pool winnings
-- Received a mysterious letter from Neverwinter warning about Order of the Gauntlet funding connections to House Margaster
+- Carried away orc axes as trophies after the dwarven ruins fight
 
 ---
 
 ## Arc Score Events
 
-**Vukradin**
-- Positive: Destroyed the corrupted heart in the lighthouse beacon, ending the Talos curse
-- Positive: Destroyed the lightning rod, breaking the curse's power source
-- Positive: Insisting on identifying rightful owners of all shipwreck salvage (consistent with "conflict-free gold" principles)
-- Negative: Publicly announced plans to visit the Tower of Storms in the town square, compromising the mission's secrecy
-- Negative: Jumped into the planar pool against party warnings, fell unconscious, gained a vision of himself obsessively counting money (possible madness effect)
+**Vukardin**
+- Positive: Convinced Toblen Stonehill to let him play original music; earned genuine appreciation and a complimentary drink
+- Positive: Successfully delivered the warning to Dazlyn and Norbus, completing the Dwarven Excavation Quest
+- Negative: Attempted to parley with orcs and was knocked unconscious twice in the same fight
+- Negative: Attempted to parley with ogre on road back to Phandalin; contributed to unnecessary combat
+- Negative: Lectured Townmaster Harbin Wester about adventurers being "glorified thugs," visibly upsetting him
+
+**Valphine Sortorra**
+- Negative: Knocked unconscious by Soma's ice knife (friendly fire); disrupted combat effectiveness
+- Positive: Healed Vukardin when he fell in the orc fight, acting against her instincts in line with Lathander's teachings
 
 **Soma**
-- Positive: Successfully negotiated with the shimmering stag using Speak with Animals, gaining information about the forest's center
-- Negative: Took piercing and necrotic damage approaching the blighted bramble thicket within ten feet
-
-**Brewbarry**
-- Negative: Looked into the planar pool despite warnings, became terrified and fled screaming; had to be subdued by Soma in bear form
-
-**Valphine**
-- Positive: Successfully opened all three locked chests from the shipwrecks, recovering a blue quartz mermaid statue, a spellbook, and a Wand of Secrets
+- Negative: Friendly fire — ice knife knocked out Valphine and failed to damage the orcs
 
 ---
 
 ## Relationships & Decisions
 
-**Vukradin**
-- Relationship damaged: Adabra has withdrawn from him since he joined the Order of the Gauntlet; she now speaks only to Soma; told him directly she had thought he cared about music for its own sake but now sees him as someone trying to change the world
-- Relationship status: Ser Kaelen Thorne remains cordial; agreed to investigate the rightful owners of the shipwreck salvage items Vukradin listed
-- Active suspicion: Received anonymous letter alleging Order of the Gauntlet has financial connections to House Margaster (associated with evil cults in Neverwinter); Vukradin is disturbed but not yet certain of the letter's reliability
-- Decision: Chose to go to the Whispering Wood rather than pursue the Carver or travel to Neverwinter
-- Personal development: Confronted his fear about playing for fans versus playing for art; the planar pool showed him a vision of himself obsessively counting money; unresolved internal conflict
+**Vukardin**
+- Formed working relationship with Dazlyn Grayshard and Norbus Ironrune; accepted sending stones as payment after extracting a promise that found items would be returned to rightful owners
+- Established rapport with Toblen Stonehill (innkeeper); earned goodwill through music
+- Strained relationship with Townmaster Harbin Wester by openly challenging the legitimacy of adventurer plunder during payment collection
+- Ongoing ethical conflict with the adventuring economy: refuses to accept plunder as legitimate, insists on honest wages
+- Decided to take the Dwarven Excavation Quest (highest payout) over the Gnomengarde Quest despite Valphine's preference for the latter
+
+**Valphine Sortorra**
+- Chose to follow Vukardin out of the First Flophouse based on sensing something significant about him; treating him as a potential sign from Lathander
+- Active internal tension: Drow instincts toward violence and opportunism in conflict with Lathanderian ethics; observing Vukardin's moral rigidity as possibly meaningful
+- Expressed interest in Gnomengarde Quest for plunder opportunities but deferred to Vukardin's choice
 
 **Soma**
-- Relationship maintained: Adabra continues to confide in Soma, expressed disappointment that the party had not yet visited the Whispering Wood
-- Obligation active: Adabra's request to investigate the Whispering Wood blight is now being fulfilled
-- Information gained from stag: The blight began "in the center of the forest"; other people had already visited and promised to fix it but had not
+- Joined the party as guide on the road to Phandalin; relationship with other party members is new and still forming
+- Withheld information about the white dragon rumor from the party during the journey to Phandalin
 
-**Valphine**
-- Decision: Argued against destroying the lighthouse heart, viewing it as a useful light source regardless of its evil origin; was overruled by Vukradin
-- Maintains suspicion of Ser Kaelen Thorne (noted to Soma that the chest's secret code should not be openly shared with him)
-
-**Party**
-- Received warning from Miral's ghost: "the true storm gathers not in the sky, but in the depths below Leilon"—a new unresolved threat
+**Brewbarry**
+- Loyalty established to Vukardin specifically ("I like Vukardin music"); defended him aggressively when he fell in combat
+- Past tribal affiliations noted as potentially sensitive (recognizable tattoos); Toblen Stonehill accepted him without hostility
 
 ---
 
 ## Party State Updates
 
-**Location:** The Whispering Wood clearing, standing before a corrupted Treant; members of the Emerald Enclave (led by Lyra) are trapped by blighted brambles nearby
-
-**Active Obligations:**
-- Investigate and resolve the blight in the Whispering Wood (Adabra's request, now in progress)
-- Find the Carver (bandit leader; tasked by Ser Kaelen Thorne)
-- Find a new lighthouse keeper for the Tower of Storms
-- Return rightful salvage from five shipwrecks (Vukradin's personal obligation; items listed to Ser Kaelen)
-- Miral's warning about a threat beneath Leilon (unresolved)
+**Location:** Traveling toward Gnomengarde in the Sword Mountains; currently engaged with a second ogre in a narrow mountain valley
 
 **Resources:**
-- Party holds: blue quartz mermaid statue, spellbook, Wand of Secrets, six pearls in black silk pouch, Cloak of Many Fashions (unclaimed by Vukradin)
-- Talisman recovered from Moesko (alien psionic energy, symbol of inverted eye with tentacles)—current holder unclear
+- 50 gp collected from Townmaster Harbin Wester for the Dwarven Excavation Quest
+- Sending stones received from Dazlyn and Norbus Ironrune
+- Orc weapons and hide armor sold at Lionshield Coster (amount unspecified)
+- Unknown item recovered from first ogre corpse by Soma
+- One magical bullet (found on first ogre) used by Valphine in the second ogre encounter
 
 **Reputation:**
-- Known publicly as the party that cleansed the Tower of Storms; Townmaster Harbin has sent word to Lord Neverember
-- Party's lack of operational secrecy confirmed: the entire Stonehill Tavern population knew of their mission in advance
+- Positive standing with Toblen Stonehill at the Stonehill Inn
+- Mildly strained relationship with Townmaster Harbin Wester following Vukardin's lecture
+
+**Active Obligations:**
+- Gnomengarde Quest in progress: retrieve something useful against the white dragon; 50 gp reward from Townmaster Harbin if delivered
+- White dragon threat remains active in the region; Umbrage Hill Quest (25 gp) and Gnomengarde Quest (50 gp) still open

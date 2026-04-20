@@ -1,204 +1,141 @@
 ## NPCs
 
-**Horia Stonetallow**
-- Current location: The Mine
-- Current state: Active, finalizing the mine agreement
-- Recent actions: Explained the etymology of "Stonetallow" to the party; identified value in wererats acting as guards so dwarves can focus on mining; shook hands with Zeleen Varnaster and exchanged contracts; discussed potential weekly mine earnings of approximately 100 gold pieces
-- Faction: Stonetallow clan (shield dwarves)
-- Motivations: Perfecting the art of mining; collecting gold at the appropriate rate; views the wererats' modifications to the mine with skepticism
+**Valphine**
+- Current location: Machine room, lower level of the ancient dwarven fortress
+- Current state: Recovered after being rendered unconscious by the Chief Accountant's wail
+- Recent actions: Led the party westward into the chamber of out-of-phase dwarves; called radiant guardians that destroyed two dwarves and wounded others; was knocked unconscious by the Chief Accountant; recognized Aletra by scent
+- Faction: Party; Satora family (by birth)
+- Revealed motivations/secrets: Carries the Satora family scent (lavender perfume and chemical bleach from poison labs); has a complicated history with her sister Aletra
 
-**Don-Jon**
-- Current state: Deceased
-- Cause of death: Killed by dwarves, then eaten by a carrion crawler
-- Notes: Death was a prior discovery by the party
+**Vukradin**
+- Current location: Machine room, lower level of the ancient dwarven fortress
+- Current state: Recovered after being rendered unconscious by the Chief Accountant's wail
+- Recent actions: Attempted to convince the out-of-phase dwarves the party had come to improve efficiency; wove slowing magic against the dwarves; summoned a giant adding machine to attack the Chief Accountant; knocked unconscious by the Chief Accountant's wail
 
-**Zeleen Varnaster**
-- Current location: The Mine
-- Current state: Active; agreed to protect the mine at no upfront cost
-- Recent actions: Negotiated with the party; initially demanded 1,000 gold pieces for six months of protection; was persuaded by Brewbarry's argument and implied threat to protect the mine for free; offered Vukradin a piece of Petunia's cheese; warned the party about the dragon's impact on farming and beer production; suggested the Shrine of Savras for dragon intelligence; saw through Vukradin's deception about dragons polymorphing; exchanged contracts with Horia
-- Faction: Wererat gang (unnamed)
-- Motivations: Prefers acting as muscle over hard labor; views the mine as home and family territory; gangster-style leadership; views the dwarves as suckers
+**Brewbarry**
+- Current location: Machine room, lower level of the ancient dwarven fortress
+- Current state: Wounded but standing after the Chief Accountant encounter
+- Recent actions: Charged into the out-of-phase dwarves in a rage; cut down spectral dwarves with his halberd
 
-**The Falcon**
-- Current location: Traveling to Phandalin (encountered on the Triboar Trail)
-- Current state: Distraught; refusing to return to his lodge
-- Recent actions: Informed the party that orcs and ogres (Anchorites of Talos) have overrun his Falcon's Hunting Lodge; complained the party never cleared the Woodland Manse; offered Vukradin a particular wood for his music studio in exchange for clearing the lodge; proposed turning the lodge into a music venue with ale
-- Faction: None specified
-- Revealed secrets: Previously showed stolen valor by appearing after someone else had already fought a dragon
-- Motivations: Settling debts in Phandalin; reclaiming his lodge indirectly through the party
+**Soma**
+- Current location: Machine room, lower level of the ancient dwarven fortress
+- Current state: Wounded but standing after the Chief Accountant encounter
+- Recent actions: Fought in bear form, tearing through weakened dwarves; moved to stabilize fallen companions after the Chief Accountant's wail
 
-**Xanth**
-- Current location: Near Dragonbarrow
-- Current state: Active; avoiding Dragonbarrow at night
-- Recent actions: Approached the party peacefully; warned them about will-o'-wisps at Dragonbarrow at night; informed the party about Anchorites of Talos in Neverwinter Wood performing dark rites at a circle of standing stones atop a cave-ridden hill; offered to guide the party to the half-orc spellcasters after their visit to Dragonbarrow; recognized Valphine as a famous cleric of Lathander
-- Faction: None specified (centaur woodland creature)
-- Motivations: Avoids Dragonbarrow at night due to restless spirits; concerned about orc and Anchorite activity in Neverwinter Wood
+**The Chief Accountant**
+- Current location: Somewhere within the ancient dwarven fortress (fled through a closed door into an adjacent room; later emerged to speak with the party)
+- Current state: Undead/spectral; incorporeal; agitated but cooperative
+- Recent actions: Appeared after the six out-of-phase dwarves were defeated; unleashed a wail that rendered Valphine and Vukradin unconscious; panicked and attempted to stabilize Valphine with blue-white static energy; fled through a closed door; later re-emerged and explained the fortress's history; directed the party to the machine room; offered the override code in exchange for freedom and secrecy
+- Faction: Formerly employed in the dwarven fortress; no current faction
+- Revealed motivations/secrets: Terrified of "the auditor" who she believes will liquidate her if Valphine's account is closed; complained to Aletra about unbalanced books and believes Aletra likely killed her; believes she is bound by the consequences of the machine's chaos; refers to Valphine as "sister of the sun" and accuses her of carrying the scent of bleach and betrayal; will provide the override code in exchange for being let go and not being reported to Aletra
 
-**Elara 'Seasong' Meliamne**
-- Current location: Neverwinter
-- Current state: Unknown; not yet encountered this session
-- Role: Can unlock some of the party's loot
-
-**Ser Kaelen**
-- Current location: Neverwinter (implied)
-- Current state: Unknown; not yet encountered this session
-- Motivations: Has information about one of the party's magical objects; wants a statue returned from the lighthouse to an art collector before House Markaster attacks; wants credit given to the Order of the Gauntlet
-
-**Sister Kella**
-- Current location: Unknown
-- Current state: Has not contacted the party as expected
-- Outstanding obligation: Was supposed to contact the party regarding the Carver's situation
-
-**Meryl**
-- Faction: Implied druid (known to Soma)
-- Revealed information: Previously told Soma about will-o'-wisps — evil lights that emerge in natural surroundings
+**Aletra**
+- Current location: Machine room, lower level of the ancient dwarven fortress
+- Current state: Active; standing calmly beside the malfunctioning machine, typing on a glowing keypad and holding a rapier
+- Recent actions: Made a deal with the king to improve the mine's efficiency and profit margins; installed a machine that broke and unleashed chaos throughout the keep; laughed at the Chief Accountant's complaints about unbalanced books and likely killed her; has been smuggling drow poison through the multiverse using the machine; warned the party not to approach; proposed that the party kill the four spectral spider guardians so she can extract her cargo and allow them to use the override code; threatened that a forced extraction could cause the entire fortress to explode
+- Faction: Satora family (fourth daughter)
+- Revealed motivations/secrets: Made her deal with the king out of profit, not honor; exposed traitors for profit rather than honor; is smuggling drow poison through the multiverse via the machine; needs to extract her cargo before the machine can be shut down; spoke to Valphine in Undercommon with condescension; sharp cheekbones and cold violet eyes; wears a high-collared uniform
 
 ---
 
 ## Factions
 
-**Stonetallow Clan (Shield Dwarves)**
-- Current goals: Perfect the art of mining; extract gold at the appropriate rate
-- Recent actions: Entered a formal agreement with the wererats to handle all mining labor in exchange for wererat protection; exchanged contracts; viewed wererat modifications to the mine with skepticism
-- Relationships: Distrustful of wererats (consider the mine a disaster under wererat management); working alongside the party
-- Key members: Horia Stonetallow
-- Background: Trace their ancestry to a disgruntled engineer from Gauntlgrym who was the only one who knew how to build a proper archway; the clan name derives from "stone to allow," referring to allowing arches to pass
+**The Satora Family**
+- Current goals: Unknown at large; Aletra's personal goal is to extract smuggled drow poison from the machine and meet a deadline
+- Recent actions: Aletra made a deal with the king of the dwarven fortress to improve efficiency and profit margins; installed a machine that caused catastrophic chaos; Aletra has been using the machine to smuggle drow poison through the multiverse; the family operates poison labs
+- Relationships to other factions: Connected to the Lionshield Coster (the king was jealous of the Lionshield Coster's multi-dimensional merchant operations and revenue); Aletra has a deal with the dwarven king
+- Key members: Aletra (fourth daughter); Valphine (member by birth, currently with the party)
+- Additional details: Family scent is a mixture of lavender perfume and chemical bleach from poison labs
 
-**Wererats (Zeleen's Gang)**
-- Current goals: Protect the mine as their home territory; receive shelter, cheese, and protection
-- Recent actions: Agreed to protect the mine for free after Brewbarry's negotiation; exchanged contracts with the dwarves; view the dwarves as suckers
-- Relationships: Formal agreement with the Stonetallow dwarves; allied with the party through negotiation; chased from their previous homes before settling in the mine
-- Key members: Zeleen Varnaster, Petunia (implied cheese producer)
+**The Lionshield Coster**
+- Current goals: Not specified
+- Recent actions: Not specified in this session
+- Relationships to other factions: The dwarven king was jealous of their multi-dimensional merchant operations and incredible revenue; this jealousy motivated the king to make a deal with Aletra
+- Key members: Not named in this session
 
-**Anchorites of Talos (Half-Orc Spellcasters)**
-- Current goals: Perform dark rites at a circle of standing stones atop a cave-ridden hill in Neverwinter Wood; muscle everyone out of Neverwinter Wood
-- Recent actions: Overrun the Falcon's Hunting Lodge with orcs and ogres; causing farmers to flee, resulting in no beer brewing this year; conducting dark rites in the forest
-- Relationships: Allied with orcs and ogres in Neverwinter Wood; enemies of the party (previously tried to kill them); operating in proximity to the dragon's raiding territory
-- Key members: None named
-
-**The Carver**
-- Current goals: Unknown; allied with orcs and ogres (mentioned in recap)
-- Recent actions: Had orcs and ogres allied with them encountered by the party previously
-- Relationships: Unknown connection to Sister Kella (who was to contact the party about the Carver)
-- Key members: None named this session
-
-**Order of the Gauntlet**
-- Current goals: Receive credit for retrieving the statue from the lighthouse
-- Relationships: Connected to Ser Kaelen and the art collector quest in Neverwinter
-
-**House Markaster**
-- Current goals: Unknown; may attack before the statue is returned
-- Relationships: Opposed to the Order of the Gauntlet in some capacity
-
-**Emerald Enclave**
-- Current goals: Unknown; the party has an outstanding quest to help Lyra with the Enclave
-- Key members: Lyra (mentioned, not present)
+**The Dwarven Fortress (former occupants)**
+- Current goals: N/A (departed or deceased)
+- Recent actions: The dwarven king made a deal with Aletra Satora to improve mine efficiency and profit margins; dwarves took all their weapons when they departed
+- Relationships to other factions: Made a deal with the Satora family; envied the Lionshield Coster
+- Key members: The dwarven king (unnamed); the Chief Accountant (now undead)
 
 ---
 
 ## World Events
 
-- The party previously encountered orcs and ogres allied with the Carver at the mine.
-- Don-Jon was killed by dwarves and subsequently eaten by a carrion crawler; his death was discovered by the party prior to this session.
-- The party previously met the Stonetallow clan of shield dwarves at the mine.
-- The party previously attempted to clear the Woodland Manse but were driven away by fireballs and lightning.
-- The party negotiated with Zeleen Varnaster; Brewbarry persuaded him using argument and the implicit threat of his blood-covered axe, securing free protection for the mine.
-- Zeleen offered Vukradin a piece of Petunia's cheese as a gesture of goodwill following the negotiation.
-- Vukradin attempted to deceive Zeleen about dragons being able to polymorph into smaller forms; Zeleen rolled a natural 20 and saw through the deception, treating it as a joke.
-- Brewbarry revealed his full name: Brewbarry Root Smasher Ogalakadu (family name, nickname, and clan name).
-- Horia and Zeleen formally shook hands and exchanged contracts, finalizing the mine agreement.
-- The party took a long rest in the mine, now under wererat protection and dwarf labor.
-- The party encountered The Falcon on the Triboar Trail traveling toward Phandalin.
-- The Falcon informed the party that orcs and ogres (Anchorites of Talos) had overrun his Falcon's Hunting Lodge.
-- The Falcon offered Vukradin special wood for a music studio and proposed converting the lodge into a music venue if the party reclaims it, then departed for Phandalin.
-- The party arrived at Dragonbarrow and were approached by the centaur Xanth.
-- Xanth warned the party about will-o'-wisps at Dragonbarrow and informed them of Anchorite of Talos activity in Neverwinter Wood.
-- Xanth identified the half-orc spellcasters as the Anchorites of Talos — the same group that previously tried to kill the party.
-- Xanth offered to guide the party to the Anchorites' standing-stone site after their visit to Dragonbarrow.
-- Valphine discovered the secret entrance to the Dragonbarrow tomb — a rock acting as a stone plug at the base of the hill.
-- Brewbarry opened the entrance using strength alone (rolled 22); Soma offered Mold Earth assistance covertly but it was not needed.
-- The party entered the tomb and observed yellow lights moving in multiple directions.
-- Soma summoned a rat familiar using Find Familiar and scouted the western passage through its senses.
-- The rat discovered four sarcophagi in alcoves: the northwest contained a musical instrument; the southeast was sealed too tightly; two others contained moldy adventurer bones.
-- A will-o'-wisp attacked Soma's rat familiar with lightning, dealing 9 points of damage and instantly killing it.
-- The party decided to avoid the western passage and moved east instead.
-- The party found two sealed sarcophagi and a narrow two-foot-wide passageway in the eastern section.
-- Valphine checked the first sarcophagus for traps (rolled 20 perception) and found no mechanical traps.
-- Brewbarry opened the first sarcophagus; a cloud of corrosive dust was released in a 10-foot area.
-- Brewbarry failed his Dexterity saving throw and took 14 acid damage; he used Stone Endurance to reduce damage by 11, taking only 3 damage.
-- The first sarcophagus was found completely empty — no corpse or bones.
-- Brewbarry used his halberd to open the second sarcophagus from 10 feet away; another dust cloud emerged harmlessly.
-- The second sarcophagus was also found completely empty.
-- The GM noted that will-o'-wisps are intelligent creatures before the session ended.
+- The party completed their survey of the first floor of the ancient dwarven fortress, discovering a storage room with serviceable armor and weaponsmith tools, privies, barracks with dozens of meager cots and two cold fireplaces, and an empty armory stripped of all weapons.
+- The party ascended to the upper floor, where time and spatial distortions were more pronounced.
+- The party heard a scratching sound like a hand on paper echoing from the north hallway of the upper floor.
+- The party entered a western chamber on the upper floor and encountered six out-of-phase dwarven figures screaming about efficiency and processes.
+- Vukradin attempted to convince the out-of-phase dwarves the party had come to help improve efficiency; this made the dwarves more agitated.
+- Brewbarry, Vukradin, Valphine, and Soma fought and defeated all six out-of-phase dwarves.
+- The Chief Accountant appeared after the six dwarves fell, flickering and glitching, and addressed Valphine as "sister of the sun," accusing her of carrying the scent of bleach and betrayal.
+- Vukradin summoned a giant adding machine to attack the Chief Accountant; Valphine's radiant guardians continued attacking.
+- The Chief Accountant unleashed a wail that knocked both Valphine and Vukradin unconscious.
+- Soma moved to stabilize the unconscious party members while Brewbarry weathered the attack.
+- The Chief Accountant panicked upon seeing Valphine unconscious, frantically attempting to stabilize her with blue-white static energy out of fear that "the auditor" would liquidate her for closing Valphine's account.
+- The Chief Accountant became incorporeal and fled through a closed door into another room.
+- The party healed their wounds and rested.
+- The Chief Accountant cautiously re-emerged and revealed the history of the fortress: Aletra Satora made a deal with the king, installed a machine that broke and unleashed chaos, laughed at the Chief Accountant's complaints about unbalanced books, and likely killed the Chief Accountant.
+- The Chief Accountant offered the override code to shut down the machine in exchange for being let go and not being reported to Aletra.
+- The party followed the Chief Accountant's directions back to the lower level and through a tunnel to the machine room.
+- The party discovered the machine: a massive brass, orange organ pipe, spinning copper centrifuge, and mechanical arm contraption bolted to the floor, venting purple steam and booming about non-Euclidean geometry and purging protocols.
+- The party discovered Aletra standing beside the machine, typing on a glowing keypad and holding a rapier, with four spectral static spiders clinging to the ceiling above her.
+- Valphine recognized Aletra by the Satora family scent of lavender perfume and chemical bleach.
+- Aletra warned the party not to approach, citing a delicate equilibrium with the machine and its guardian constructs.
+- Valphine deduced that Aletra was attempting to extract smuggled drow poison from the machine.
+- Aletra spoke to Valphine in Undercommon, telling her to go play with the surface dwellers while the adults handled their deadline.
+- Aletra proposed that the party kill the four spectral spiders guarding the machine so she can extract her cargo and allow them to use the override code; she threatened that a forced extraction could cause the entire fortress to explode.
+- The party stood at a crossroads, debating whether to accept Aletra's terms.
 
 ---
 
 ## Locations
 
-**The Mine**
-- What it is: A mining operation with tunnels and working infrastructure
-- Ownership: Belongs to a committee in Neverwinter
-- Current state: Operational; Stonetallow dwarves performing all mining labor; wererats acting as armed protectors; formal contracts in place between both groups
-- Expected revenue: Approximately 100 gold pieces per week, possibly more with investment
+**Ancient Dwarven Fortress (unnamed)**
+- What it is: An ancient dwarven fortress built into a mountain, now afflicted by time and spatial distortions
+- What happened there: The dwarven king made a deal with Aletra Satora to install a machine to improve efficiency; the machine broke and unleashed chaos; the dwarves departed, taking all their weapons; the Chief Accountant was likely killed by Aletra and now exists as an undead/spectral entity; out-of-phase dwarven spectres haunt the upper floor
+- Current state: Partially explored by the party; machine still active and dangerous on the lower level; upper floor has more pronounced time and spatial distortions; machine room contains Aletra, a malfunctioning machine, and four spectral spider constructs
 
-**Neverwinter**
-- What it is: A city with multiple outstanding quests for the party
-- Current state: Not yet visited this session
-- Pending matters: Return a statue from the lighthouse to an art collector before House Markaster attacks (credit to Order of the Gauntlet); see Elara 'Seasong' Meliamne to unlock loot; consult Ser Kaelen about a magical object
+**First Floor – Storage Room**
+- What it is: A storage room within the fortress
+- What happened there: Discovered by the party during survey
+- Current state: Contains serviceable armor and weaponsmith tools useful to the people of Phandalin
 
-**Shrine of Savras**
-- What it is: A shrine; suggested as a source of intelligence on the dragon's whereabouts
-- Current state: Not yet visited
-- Source of information: Zeleen Varnaster
+**First Floor – Barracks**
+- What it is: Sleeping quarters within the fortress
+- What happened there: Discovered by the party during survey
+- Current state: Contains dozens of meager cots; two cold fireplaces with rubble-choked chimneys rising 120 feet through the mountain
 
-**Phandalin**
-- What it is: A town
-- Current state: Destination of The Falcon; associated with Harbin Wester
-- Recent relevance: The Falcon is traveling there to settle debts and plan his next moves
+**First Floor – Armory**
+- What it is: A weapons storage room within the fortress
+- What happened there: Dwarves removed all weapons upon their departure
+- Current state: Empty; contains only stone weapon racks, headless mannequins, and iron hooks on the walls
 
-**Triboar Trail**
-- What it is: A road
-- Recent events: The party encountered The Falcon here while traveling to Dragonbarrow
+**Upper Floor – Western Chamber**
+- What it is: A chamber on the upper floor of the fortress
+- What happened there: The party battled six out-of-phase dwarves and then the Chief Accountant
+- Current state: Cleared of enemies; the Chief Accountant fled through a closed door to an adjacent room
 
-**Falcon's Hunting Lodge**
-- What it is: A hunting lodge owned by The Falcon
-- Current state: Overrun by orcs and ogres allied with the Anchorites of Talos
-- Future potential: The Falcon proposes converting it into a music venue (performances by Vukradin and Fina, with ale) if the party reclaims it
-- Outstanding quest: Party can clear it in exchange for special wood for Vukradin's music studio
-
-**Woodland Manse**
-- What it is: A location the party previously attempted to clear
-- Current state: Not yet cleared; party was driven out by fireballs and lightning
-
-**Neverwinter Wood**
-- What it is: A forest region
-- Current state: Overrun by orcs allied with Anchorites of Talos; farmers are fleeing; no beer will be brewed this year as a result; dark rites being performed at a circle of standing stones atop a cave-ridden hill
-
-**Dragonbarrow**
-- What it is: A 30-foot-high hill with a flat top and bone-white rocks jutting from it like outstretched talons; functions as a burial mound; rumored to contain the Dragonblade
-- Current state: Actively being explored by the party; haunted by will-o'-wisps at night
-- Interior: Contains multiple passages with alcoves and sarcophagi; yellow lights (will-o'-wisps) present in multiple directions; narrow two-foot-wide passageway in the eastern section; secret entrance at the base (rock acting as a stone plug)
-- Known contents: Northwest sarcophagus (western passage) — musical instrument; southeast sarcophagus (western passage) — sealed; two western sarcophagi — moldy adventurer bones; two eastern sarcophagi — empty, trapped with corrosive dust clouds
+**Machine Room (Lower Level)**
+- What it is: A room on the lower level of the fortress, accessed via a tunnel
+- What happened there: Aletra installed a machine that broke and caused chaos; Aletra is currently attempting to extract smuggled drow poison from the device
+- Current state: The machine is active and malfunctioning, venting purple steam and vibrating violently; Aletra is present with a rapier and glowing keypad; four spectral static spiders cling to the ceiling; static electricity fills the air
 
 ---
 
 ## Threads & Mysteries
 
-- **The Dragon**: A dragon is actively raiding the region, causing farmers to flee and halting beer production. Its location and identity are unknown. The Shrine of Savras may hold information about it. The party seeks the Dragonblade before confronting it.
-- **The Dragonblade**: A dragon slayer sword believed to be located within Dragonbarrow. Not yet found. The tomb's contents and the Dragonblade's exact location remain unknown.
-- **Will-o'-wisps in Dragonbarrow**: Multiple intelligent will-o'-wisps are present in the tomb. The GM noted their intelligence explicitly. Their purpose, origin as restless spirits, and what they are guarding remain unexplored.
-- **Empty Sarcophagi**: Two sarcophagi in the eastern passage were found completely empty with no corpses or bones, both trapped with corrosive dust. The reason they are empty is unexplained.
-- **Two-Foot-Wide Passageway**: A narrow passageway in the eastern section of Dragonbarrow has not yet been explored.
-- **Northwest Sarcophagus (Western Passage)**: Contains a musical instrument that has not yet been retrieved due to will-o'-wisp danger.
-- **Southeast Sarcophagus (Western Passage)**: Sealed too tightly for the rat familiar to enter; contents unknown.
-- **The Carver**: An enemy previously allied with orcs and ogres. Sister Kella was supposed to contact the party about the Carver's situation but never has. The Carver's current plans and location are unknown.
-- **Anchorites of Talos**: Half-orc spellcasters performing dark rites at a circle of standing stones atop a cave-ridden hill in Neverwinter Wood. Xanth has offered to guide the party there. Their ritual's purpose is unknown.
-- **Falcon's Hunting Lodge**: Overrun by orcs and ogres (Anchorites of Talos). An outstanding quest to reclaim it in exchange for special wood for Vukradin's studio and conversion into a music venue.
-- **Woodland Manse**: Previously attempted and failed due to fireballs and lightning. Not yet cleared; remains an open quest.
-- **Lyra and the Emerald Enclave**: An outstanding quest to help Lyra with the Emerald Enclave; no details resolved this session.
-- **Statue from the Lighthouse**: Must be returned to an art collector in Neverwinter before House Markaster attacks; credit to go to the Order of the Gauntlet. Time pressure implied.
-- **Ser Kaelen's Magical Object**: Ser Kaelen has information about one of the magical objects the party found. Not yet investigated.
-- **Sister Kella**: Has not contacted the party as promised regarding the Carver. Her whereabouts and status are unknown.
-- **Mine Revenue and Investment**: Horia mentioned weekly earnings of approximately 100 gold pieces with potential for more through investment; overhead and details not yet finalized.
-- **Petunia's Cheese**: Described as unique and the best cheese in the area. Petunia is implied to be a wererat cow or affiliated producer; her exact nature and relationship to the wererats are unexplained.
-- **House Markaster**: Mentioned as a threat that may attack before the statue is returned; motivations and timeline unknown.
+- The scratching sound heard in the north hallway of the upper floor (like a hand on paper) was not investigated or explained.
+- The identity and nature of "the auditor" that the Chief Accountant fears, who she believes would liquidate her for closing Valphine's account, is unknown.
+- The exact nature of the time and spatial distortions on the upper floor has not been explained.
+- The Chief Accountant's deal (override code in exchange for freedom and secrecy from Aletra) has not yet been consummated; it is unresolved whether the party will honor it.
+- The dwarven king's current fate and location are unknown.
+- The full extent and purpose of Aletra's drow poison smuggling operation through the multiverse is unknown.
+- What Aletra's "deadline" refers to and who she is working for or delivering to is unknown.
+- Whether the party will accept Aletra's proposal to kill the spectral spiders in exchange for being allowed to use the override code is unresolved.
+- The risk that a forced extraction by Aletra could cause the entire fortress to explode remains a live threat.
+- The nature of the machine—its origin, how it was installed, and the full scope of the chaos it has caused—has not been fully explained.
+- The king's envy of the Lionshield Coster's multi-dimensional merchant operations and whether this connects to broader plotlines is unresolved.
+- The history of Valphine's relationship with Aletra and the Satora family, and what Aletra meant by the "scent of bleach and betrayal," has not been fully explored.
+- The four spectral spider constructs guarding the machine and their exact capabilities are unknown.

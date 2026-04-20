@@ -1,162 +1,206 @@
 ## NPCs
 
-**Adabra**
-- Current location: Phandalin (returned to town)
-- Current state: Active, opinionated
-- Recent actions: Advocated vocally to Harbin for higher payment for the party; argued for conflict-free gold and principled champions over mercenaries; praised Vukradin, Soma, and Brewbarry by name while conspicuously omitting Valphine
-- Faction: None stated
-- Motivations: Believes in balance of nature; opposes meddling with natural order including fighting outer-planar entities; objects to labelling beings as monsters or barbarians; appears to hold some unspoken prejudice toward Valphine (possibly related to her being a Drow)
-
-**Harbin (Townmaster of Phandalin)**
-- Current location: Phandalin, Townmaster's residence and later his place of work
-- Current state: Active, financially strained
-- Recent actions: Initially refused additional payment, citing the lawful agreement with Lord Neverember; persuaded by Adabra to offer free room and board at Stonehill Inn instead of coin; told party about bandit siege draining town funds; stated Lord Neverember would want the lighthouse curse removed, not the lighthouse destroyed
-- Faction: Aligned with Lord Neverember
-- Motivations: Wants area cleared of monsters; defined as anything disrupting his idea of peace; cost-conscious; defers to Lord Neverember's authority
-
 **Vukradin**
-- Current location: Phandalin, Stonehill Inn
-- Current state: Active; newly inducted as associate member of the Order of the Gauntlet
-- Recent actions: Played music on the road and at Stonehill Inn; collaborated musically with Valphine; rebuked Silverleaf over lighthouse treasure salvage; recruited by Ser Kaelen Thorn; accepted associate membership in the Order of the Gauntlet; confronted Harbin about destroying the lighthouse; redirected to investigating the curse instead
-- Faction: Order of the Gauntlet (associate member)
-- Motivations: Opposes plunder and conflict-tainted gold; wants to build a music studio; believes in principled, non-exploitative adventuring; values honest wages; has strong convictions about not robbing the dead
-
-**Valphine**
-- Current location: Phandalin, Stonehill Inn
-- Current state: Active
-- Recent actions: Played musical accompaniment to Vukradin on the road and at the inn; performed her composition *Choralum Lux Maleficarum* blending Lathanderial choral music with Lolth prayer elements; sang contralto during the performance; was ignored by Adabra during the payment negotiation; invited by Ser Kaelen to join the Order of the Gauntlet; declined or deflected the offer
-- Faction: Cleric of Lathander; formerly of a Drow noble house
-- Motivations: Has moved past her Drow noble house and Lolth worship; devoted to Lathander; finds Lolth and underdark deities "dull" and "single-minded"; describes the sun as "deliciously painful"; composed *Choralum Lux Maleficarum* fusing Lathanderial and Lolth musical traditions
+- Current location: En route to / arrived at Umbrage Hill (as of 03-01 of Tarkash 1495)
+- Current state: Active, travelling with the party
+- Recent actions: Taunted the mimic during combat; debated theology and governance with party members and the two Kings; destabilised the dual monarchy by raising questions of seniority; secured a magical hat as payment; performed at Stonehill Tavern; negotiated to take the surviving bandit into the group; killed a fleeing bandit
+- Faction: None stated
+- Revealed motivations/secrets: Wants to build a studio (requires significant gold); has been seeking the script of a legendary play featuring a character named "Bob" for years; claims expertise in government (described by Valphine as fictional); identifies as an Aasimar
+- Notes: Uses his Aasimar appearance deliberately as a social tool
 
 **Soma**
-- Current location: Phandalin, Stonehill Inn
-- Current state: Active; observant
-- Recent actions: Conversed with Adabra about nature and balance on the road; listened to Silverleaf's story; witnessed Vukradin's recruitment by Ser Kaelen; observed Vukradin's march to confront Harbin about the lighthouse
-- Faction: Naturalist; no order affiliation
-- Motivations: Values natural balance; thinks of her children traveling the world; interested in the Neverwinter Wood; patient and philosophical; values letting nature take its course
-- Notes: Ser Kaelen explicitly stated Soma's naturalist views would not align with the Order of the Gauntlet
+- Current location: En route to Umbrage Hill
+- Current state: Active, travelling with the party; recently acquired a druidic scroll from the bandits
+- Recent actions: Delivered the killing blow on the mimic; looted chests after the mimic fight; handed proof of the mimic's death to Fiddlestib and Dabblebob; received payment; led the party to Phandalin; killed a bandit while in Wild Shape (giant spider form); found and retained a druidic scroll, then reconsidered keeping it
+- Faction: Naturalist druid tradition (unnamed)
+- Revealed motivations/secrets: Considers constructs and extra-planar creatures abominations and disruptions to the natural order; does not recognise the terms "Aasimar" or "Tiefling"; values all life but pragmatically kills threats; primarily motivated by payment; desires only modest comforts (a new teapot); has a tab owed by Vukradin
+
+**Valphine**
+- Current location: En route to Umbrage Hill
+- Current state: Active, travelling with the party; wounded by a bandit's ranged attack during the ambush
+- Recent actions: Observed and commented on the Kings' argument; advised the Kings on "approver structure"; shot a fleeing bandit with a hand-held crossbow
+- Faction: Implied Drow Noble House background
+- Revealed motivations/secrets: Views dual-monarchy and commune-style governance with contempt, comparing it to Drow Noble Houses; has experience in the Dark Realms; finds Vukradin's chaos-sowing amusing; was counselled by a Cleric of Lathander (unnamed) about accepting low payment for good deeds
 
 **Brewbarry**
-- Current location: Phandalin, Stonehill Inn
+- Current location: En route to Umbrage Hill
+- Current state: Active, travelling with the party; covered in blood after decapitating a bandit
+- Recent actions: Struggled to free his halberd during the mimic fight; produced handaxes when reminded he had no ranged weapons; decapitated a bandit on a hill; dropped his halberd and showed mercy to a fleeing bandit; apologised to the surviving bandit on behalf of the Uthgardt
+- Faction: Former Uthgardt (implied estrangement)
+- Revealed motivations/secrets: Was mistreated by the Uthgardt; feels sadness for those who have lost their tribe; showed capacity for mercy in battle
+
+**King Gnercli**
+- Current location: The Kings' room (gnome settlement, location unspecified beyond context)
+- Current state: Active; angered by Vukradin's questioning
+- Recent actions: Argued with King Korboz; explained the dual monarchy system to Vukradin; gave the party a magical hat and dismissed them
+- Faction: Dual monarchy (gnome settlement)
+- Revealed motivations/secrets: Opposes autocratic single rule; insists there is no seniority between the two kings; believes the best argument wins disputes
+
+**King Korboz**
+- Current location: The Kings' room (gnome settlement)
+- Current state: Active; recovered from fear (implied he had been afraid of the mimic or associated events); arguing with Gnercli
+- Recent actions: Argued with Gnercli; asserted he should have preferential treatment as senior king after Vukradin's provocation
+- Faction: Dual monarchy (gnome settlement)
+- Revealed motivations/secrets: Believes he should have seniority as the longer-serving king; had previously warned Gnercli about the shapeshifter (mimic) and was not believed
+
+**Fiddlestib**
+- Current location: Gnome settlement (inventors' area)
 - Current state: Active
-- Recent actions: Took mild offence at being called a barbarian during Adabra's speech; accepted Adabra's correction that he was a nomad; confronted Ser Kaelen about the Order of the Gauntlet's past actions against his tribe; accepted a drink from Ser Kaelen as a gesture of reconciliation
-- Faction: None current; formerly of a nomadic tribe that warred with the Order of the Gauntlet
-- Motivations: Protective of his tribe's memory and identity; holds grievance against the Order of the Gauntlet for killing members of his tribe and what he calls theft
+- Recent actions: Received proof of the mimic's death from Soma; discussed using the mimic's entrails to create a construct; overheard the governance debate; stated a preference for a bicameral legislature with a unitary executive; debated building a tamper-proof voting box with Dabblebob
+- Faction: Gnome inventors (gnome settlement)
+- Revealed motivations/secrets: Interested in construct creation from monster remains
 
-**Daran Edermath ("Silverleaf")**
-- Current location: Stonehill Inn, Phandalin
-- Current state: Retired adventurer; orchard keeper
-- Recent actions: Pitched Vukradin on salvaging treasure from a cursed lighthouse west of Phandalin on the coast; was rebuked by Vukradin for suggesting plunder of shipwrecks
-- Faction: None stated
-- Motivations: Appears to want adventurers to investigate the lighthouse; reason for interest not stated beyond treasure pitch
+**Dabblebob**
+- Current location: Gnome settlement (inventors' area)
+- Current state: Active
+- Recent actions: Discussed using the mimic's entrails to create a construct; stated a preference for more kings to enable voting; debated a tamper-proof voting box with Fiddlestib
+- Faction: Gnome inventors (gnome settlement)
 
-**Ser Kaelen Thorn**
-- Current location: Barthen's Provisions, Phandalin (preparing to leave town)
-- Current state: Active; departing Phandalin
-- Recent actions: Approached Vukradin at Stonehill Inn; pitched Order of the Gauntlet membership; offered to amplify Vukradin's message to tens of thousands; inducted Vukradin as an associate member; gave Vukradin a pin; extended offer to Valphine; reconciled with Brewbarry over a drink; advised the party that the lighthouse curse likely has three explanations and that the most probable is a haunting monster
-- Faction: Order of the Gauntlet (member, rank unstated)
-- Motivations: Wants to recruit principled individuals to spread the Order's message; believes art and storytelling serve the Order's mission; sees Vukradin's celestial origins and personal story as powerful recruitment tools
-- Physical description: Early thirties, dark hair, clean-shaven, scar above right eyebrow, wears chain mail, bears the Order of the Gauntlet emblem (gauntlet grasping a sword by the blade)
+**Adabra**
+- Current location: Umbrage Hill
+- Current state: Unknown; the party is travelling to save her
+- Recent actions: None yet depicted
+- Faction: Unknown
+- Revealed motivations/secrets: None yet revealed; her rescue is worth 25 gold to the quest-giver
 
-**Toblen Stonehill ("Spiderman")**
-- Current location: Stonehill Inn, Phandalin
-- Current state: Active; tavern keeper
-- Recent actions: Served drinks to the party and Ser Kaelen; revealed his nickname's origin
-- Faction: None stated
-- Motivations: None stated
-- Notes: Nickname "Spiderman" earned in childhood after falling into a hatching spider's nest and walking out calmly covered in baby spiders; was not afraid
+**The Townmaster (Phandalin)**
+- Current location: Phandalin
+- Current state: Active
+- Recent actions: Paid the party 50 gold (split four ways); reiterated his self-described status as a "tasteless morsel for a dragon"
+- Faction: Phandalin town administration
+- Revealed motivations/secrets: Describes himself as a tasteless morsel for a dragon (recurring characterisation)
 
-**Milo Goodbarrel**
+**The Surviving Bandit**
+- Current location: Road to Umbrage Hill; joining the party
+- Current state: Alive; has joined the party
+- Recent actions: Participated in the ambush; fled in fear; received mercy from Brewbarry; told the party about "the Carver" and "Jax"; asked to join the group
+- Faction: Former bandit gang under the Carver (via Jax)
+- Revealed motivations/secrets: Claims he is not a bad person and did not want to steal; his village was pillaged and destroyed by the Uthgardt, leaving him destitute; blames "the Carver" for his situation; has never met the Carver directly; worked under a lieutenant named Jax
+
+**Jax**
 - Current location: Unknown
 - Current state: Unknown
-- Recent actions: Not current; historical — led the strike force that reached the inner sanctum and stopped the ritual during the War of the Dragon
-- Faction: Order of the Gauntlet
+- Recent actions: None directly depicted; named as the surviving bandit's direct superior
+- Faction: The Carver's organisation
+- Revealed motivations/secrets: None beyond being a mid-level figure between the Carver and the bandits
 
-**Lord Neverember**
-- Current location: Not stated
-- Current state: Referenced as authority figure
-- Recent actions: Not current; cited as having a standing lawful agreement permitting heroes to pay themselves from recovered treasure; referenced as someone who would want the lighthouse curse removed rather than the lighthouse destroyed
-- Faction: Governing authority over Phandalin region
+**"Bob"**
+- Current location: Unknown
+- Current state: Unknown
+- Recent actions: None in session; historical figure
+- Faction: Unknown theatrical company (Triboar)
+- Revealed motivations/secrets: Was the lead actor of a legendary play in Triboar, always costumed as a Demon; the play had a spectacular run several years ago and has since ended; Vukradin has been seeking the script for years
 
 ---
 
 ## Factions
 
-**Order of the Gauntlet**
-- Current goals: Making the north better; opposing plunder and senseless killing; spreading their message through art and storytelling; recruiting principled individuals
-- Recent actions: Ser Kaelen recruited Vukradin as associate member; extended offer to Valphine; reconciled diplomatically with Brewbarry; provided intelligence on the lighthouse curse
-- Relationships: Past violent conflict with Brewbarry's nomadic tribe; opposed to Lolth worshippers and underdark horror deities; view Soma's naturalist philosophy as incompatible with their order; aligned broadly with Lord Neverember's governance
-- Key members: Ser Kaelen Thorn (recruiter/field agent), Milo Goodbarrel (war hero, stopped the Dragon War ritual), Vukradin (new associate member)
-- Emblem: A gauntlet grasping a sword by the blade
-- Funding: Claimed to be conflict-free gold through donations
+**The Dual Monarchy (Gnome Settlement)**
+- Current goals: Governance by consensus between two equal kings
+- Recent actions: Hired the party to deal with a mimic threat; rewarded them with a magical hat and gold (implied); debated governance reform among themselves following Vukradin's provocations
+- Relationships: Employed the party; the two inventors (Fiddlestib and Dabblebob) are associated with and aware of the monarchy's debates
+- Key members: King Gnercli, King Korboz
+- Notes: The monarchy is now destabilised; Korboz and Gnercli are expected to argue over seniority for months or years following Vukradin's intervention
 
-**Brewbarry's Nomadic Tribe (unnamed)**
-- Current goals: Unknown; tribe's current status unknown
-- Recent actions: Historical — fought a war against the Order of the Gauntlet; suffered casualties and losses
-- Relationships: Historical enemies of the Order of the Gauntlet; war described as "over nonsense" by Ser Kaelen
+**Gnome Inventors**
+- Current goals: Construction of new devices, including a tamper-proof voting box; interested in creating constructs from monster remains
+- Recent actions: Received proof of mimic's death; discussed construct creation from mimic entrails; overheard governance debate and proposed competing governance models
+- Relationships: Associated with the dual monarchy; employed the party alongside the Kings
+- Key members: Fiddlestib, Dabblebob
+
+**The Carver's Organisation**
+- Current goals: Unknown; operates as a criminal or bandit outfit
+- Recent actions: Directed bandits (via Jax) who ambushed the party on the road to Umbrage Hill
+- Relationships: The Carver is the top authority; Jax is a known lieutenant; surviving bandit was a low-level member
+- Key members: The Carver (unknown identity, described as physically large), Jax (lieutenant, current whereabouts unknown)
+
+**The Uthgardt**
+- Current location: Not present in session; referenced
+- Current goals: Unknown
+- Recent actions: Historically pillaged the surviving bandit's village; mistreated Brewbarry
+- Relationships: Brewbarry is a former member (estranged); the surviving bandit is a victim of their raids
+- Key members: None named
 
 ---
 
 ## World Events
 
-- The party escorted Adabra back to Phandalin from a prior mission involving a manticore.
-- Adabra argued to Harbin for higher payment for the party, praising Vukradin, Soma, and Brewbarry; Harbin refused additional coin but offered free room and board at the Stonehill Inn, citing bandit activity as draining town finances.
-- The party took up residence again at the Stonehill Inn.
-- Vukradin performed music at the Stonehill Inn; Valphine joined without explicit prior permission, performing her composition *Choralum Lux Maleficarum*, blending Lathanderial choral music with Lolth prayer elements; the combined performance was well received by the crowd.
-- Daran Edermath (Silverleaf) pitched Vukradin on investigating and salvaging treasure from a cursed lighthouse west of Phandalin; Vukradin rejected the salvage framing as plunder.
-- Ser Kaelen Thorn approached Vukradin at the Stonehill Inn and pitched Order of the Gauntlet membership, citing Vukradin's principles and celestial origins.
-- Brewbarry confronted Ser Kaelen about the Order of the Gauntlet's past war against his tribe; Ser Kaelen acknowledged the brutality but framed it as mutual; the confrontation ended with shared drinks.
-- Ser Kaelen inducted Vukradin as an associate member of the Order of the Gauntlet and gave him a pin; Valphine declined or deflected the offer; Soma was deemed incompatible by Ser Kaelen.
-- On the following day (05-01 Taraksh 1495), Vukradin marched to confront Harbin about destroying the cursed lighthouse; Harbin corrected him that Lord Neverember would want the curse removed, not the lighthouse destroyed.
-- The party located Ser Kaelen at Barthen's Provisions before his departure; he assessed the lighthouse situation and identified three possible explanations for the curse, concluding the most likely cause is a haunting monster.
+- The party fought and killed a mimic in a gnome settlement on 02-01 of Tarkash 1495.
+- Soma delivered the killing blow on the mimic.
+- Brewbarry was unable to free his halberd during the mimic fight; his halberd was stuck.
+- Soma's puff of poison had no effect on the mimic.
+- Vukradin's deterrent spell had no effect on the mimic.
+- Soma and Vukradin debated naturalist druid philosophy and the nature of Aasimar and Tieflings during the fight.
+- After the fight, Soma looted gold from chests in the room.
+- The party delivered proof of the mimic's death to Fiddlestib and Dabblebob.
+- Fiddlestib and Dabblebob discussed using the mimic's entrails to create a construct.
+- The party visited the Kings' room to receive their reward.
+- Vukradin engaged the two Kings in a debate about the dual monarchy, provoking Korboz to assert seniority claims against Gnercli.
+- King Gnercli gave the party a magical hat and dismissed them.
+- Fiddlestib and Dabblebob overheard the governance debate and proposed competing governmental models; they began arguing over a tamper-proof voting box.
+- The party arrived in Phandalin.
+- The Townmaster paid the party 50 gold, split four ways.
+- Vukradin performed at the Stonehill Tavern on the evening of 02-01 of Tarkash 1495.
+- A tavern patron told Vukradin about a legendary play in Triboar featuring an actor named "Bob" dressed as a Demon.
+- Vukradin expressed a desire to revive the play and seek its script; the tavern keeper suggested Triboar as the place to find it.
+- On 03-01 of Tarkash 1495, the party set out toward Umbrage Hill to rescue Adabra for a reward of 25 gold.
+- The party was ambushed by bandits on the road to Umbrage Hill.
+- Valphine was struck by a bandit's ranged attack during the ambush.
+- Soma Wild Shaped into a giant spider and killed a bandit with a poisonous bite.
+- Brewbarry decapitated a bandit on a hill with his halberd.
+- One bandit fled after seeing Soma's spider form, screaming about spiders.
+- Valphine shot a fleeing bandit in the back with her hand-held crossbow.
+- Vukradin killed the fleeing bandit that Valphine wounded.
+- Brewbarry showed mercy to the last fleeing bandit and apologised to him on behalf of the Uthgardt.
+- The surviving bandit told the party about "the Carver" (his ultimate boss, described as large, never met directly) and "Jax" (his direct superior).
+- Vukradin invited the surviving bandit to join the party; the bandit accepted.
+- Soma found a druidic scroll on the bandits and took it, then reconsidered whether keeping it made her no better than a bandit.
 
 ---
 
 ## Locations
 
+**Gnome Settlement (unnamed)**
+- What it is: A gnome community governed by a dual monarchy, with resident inventors
+- What happened there: The party killed a mimic; received their reward (magical hat and implied gold); Vukradin destabilised the monarchy's power dynamics
+- Current state: Kings Gnercli and Korboz are in conflict over seniority; inventors are debating governance reform and construct creation
+
 **Phandalin**
-- What it is: A town, seat of Townmaster Harbin, under the authority of Lord Neverember
-- What happened here: Party returned with Adabra; payment negotiation with Harbin; performances at Stonehill Inn; Vukradin recruited into Order of the Gauntlet; party received intelligence on cursed lighthouse
-- Current state: Under threat from bandits as well as monsters; Townmaster is financially strained
+- What it is: A town with a Townmaster, a Stonehill Tavern, and a local economy
+- What happened there: Party received 50 gold from the Townmaster; Vukradin performed at the Stonehill Tavern; party learned of the legendary Triboar play
+- Current state: Normal; party has departed toward Umbrage Hill
 
-**Stonehill Inn**
-- What it is: Tavern and inn in Phandalin, run by Toblen "Spiderman" Stonehill
-- What happened here: Party lodged here; Vukradin and Valphine performed; Silverleaf pitched the lighthouse; Ser Kaelen recruited Vukradin; Brewbarry confronted Ser Kaelen
-- Current state: Active and functioning; party staying here on room and board from Harbin
+**Stonehill Tavern (Phandalin)**
+- What it is: A tavern in Phandalin
+- What happened there: Vukradin performed; a patron told the party about the Triboar play featuring "Bob"
+- Current state: Normal
 
-**Townmaster's Residence / Office**
-- What it is: Home and place of work of Harbin, Townmaster of Phandalin
-- What happened here: Adabra and Vukradin negotiated payment; Harbin redirected Vukradin from destroying the lighthouse to removing its curse
-- Current state: Active
+**Umbrage Hill**
+- What it is: A named location where Adabra is located
+- What happened there: Nothing yet; the party is en route
+- Current state: Adabra is there and in need of rescue
 
-**Barthen's Provisions**
-- What it is: A provisions store in Phandalin
-- What happened here: Ser Kaelen Thorn was found here preparing to leave town; advised the party on the lighthouse curse
-- Current state: Active
+**Road to Umbrage Hill**
+- What it is: A trail through rocky hills
+- What happened there: The party was ambushed by bandits; four bandits killed; one bandit spared and recruited
+- Current state: Ambush concluded; party continuing toward Umbrage Hill
 
-**Cursed Lighthouse (unnamed)**
-- What it is: An old stone lighthouse on the coast, west of Phandalin
-- What happened here: Ships are reportedly drawn to it and wrecked on the rocks; described by Silverleaf as gleaming
-- Current state: Reportedly cursed and actively wrecking ships; uninvestigated
-- Notes: Ser Kaelen identified three possible explanations — requires a cleric, haunting monster (his most likely assessment), or false rumors
-
-**Neverwinter Wood**
-- What it is: A forest; reminds Soma of home
-- What happened here: Strange rumors heard at the Stonehill Inn; Soma considered investigating
-- Current state: Subject of unspecified strange rumors; uninvestigated by the party
+**Triboar**
+- What it is: A location (town or city) where a legendary play was performed
+- What happened there: A play featuring an actor named "Bob" as a Demon had a spectacular run several years ago; the play has since ended
+- Current state: Referenced only; suggested as the place to find the play's script
 
 ---
 
 ## Threads & Mysteries
 
-- **The Cursed Lighthouse**: An old stone lighthouse west of Phandalin on the coast is wrecking ships. Cause unknown. Ser Kaelen believes it is most likely a haunting monster. A cleric solution is also possible. The party is moving toward investigating it.
-- **Strange Goings-on in the Neverwinter Wood**: Soma heard a rumor at the Stonehill Inn about unexplained events in the Neverwinter Wood. No details provided. Uninvestigated.
-- **Adabra's Attitude Toward Valphine**: Adabra conspicuously ignored Valphine during the payment negotiation and when listing party members deserving reward. Reason not confirmed — possibly related to Valphine being a Drow, but not stated explicitly.
-- **Valphine's Reaction to Ser Kaelen**: Valphine appeared startled when Ser Kaelen described Lolth worshippers as only seeing "death and destruction," suggesting her own view of Lolth or the underdark is more nuanced than his framing; she chose not to correct him. Her true current relationship with Lolth's philosophy is ambiguous.
-- **Order of the Gauntlet's True Expectations of Vukradin**: Ser Kaelen stated that when the Order calls on Vukradin for help, he must come as a brother. The nature and extent of obligations placed on Vukradin as associate member are not yet fully disclosed.
-- **Order of the Gauntlet's Funding Sources**: Ser Kaelen claimed all funding is conflict-free gold through donations. Vukradin accepted this but the claim is unverified.
-- **Soma's Children**: Soma's children are traveling the world. Their whereabouts and wellbeing are unknown. Soma is concerned for them.
-- **Bandits Besieging Phandalin**: Harbin mentioned the town is under siege by bandits and is short of coin as a result. This threat has not been addressed by the party.
-- **Brewbarry's Tribe**: The fate and current state of Brewbarry's nomadic tribe following their war with the Order of the Gauntlet is unknown.
-- **Milo Goodbarrel**: A halfling member of the Order of the Gauntlet credited with stopping the War of the Dragon ritual. Current whereabouts and role unknown.
-- **The War of the Dragon**: Referenced as a past event in which the Order of the Gauntlet played a key role. Details, causes, and full consequences not yet disclosed.
+- **The Carver**: Identity unknown; described as physically large; has never been met directly by the surviving bandit; operates a bandit organisation through lieutenants such as Jax. Motivations and base of operations unknown.
+- **Jax**: The Carver's lieutenant; whereabouts and fate unknown; was the surviving bandit's direct contact.
+- **Adabra's situation**: The party is travelling to Umbrage Hill to save her. The nature of the threat to her life is unspecified.
+- **The Triboar play / "Bob"**: A legendary play featuring an actor named "Bob" as a Demon ran in Triboar and ended some years ago. Vukradin has been seeking the script for years and wants to stage a revival. The script's current location is unknown; Triboar is suggested as the starting point.
+- **The druidic scroll**: Soma found a druidic scroll on the bandits. Its contents and rightful owner are unspecified. Soma is reconsidering whether she should keep it.
+- **Fiddlestib and Dabblebob's construct plans**: The inventors discussed creating a construct from the mimic's entrails. Whether they proceed is unresolved; Soma views such constructs as abominations.
+- **The dual monarchy's stability**: Vukradin's provocations have set Korboz and Gnercli against each other over the question of seniority. Long-term political consequences are unresolved.
+- **Vukradin's studio**: Vukradin wants to build a studio and is frustrated by the slow accumulation of gold. How and when this will be funded is unresolved.
+- **The surviving bandit's integration**: The bandit has joined the party but his reliability, backstory, and knowledge of the Carver's organisation remain to be explored.
+- **Valphine's shadow**: Valphine noticed a shadow slipping behind a boulder and dismissed it, noting she was not in the Dark Realms. Whether this was a real threat or paranoia is unresolved.

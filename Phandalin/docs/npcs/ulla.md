@@ -1,9 +1,18 @@
+---
+name: ulla
+aliases: []
+source_extracts: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38]
+---
+
 # Ulla
 
 ## Identity
 - **Role:** Guard, cliff-top entrance to Gnomengarde
+- **Species:** Female gnome
 - **Faction:** Gnomengarde
 - **First Appearance:** Party's arrival at Gnomengarde's entrance, where she and Pog jointly challenged them for entry
+
+*Also known as: (none).*
 
 ## Personality & Motivations
 - Suspicious and procedurally rigid — her default deflection to any argument is *"that's what a shapechanger would say,"* suggesting deep-seated paranoia about shapechangers (likely tied to broader Gnomengarde tensions).
@@ -29,4 +38,4 @@
 - **Vukradin:** Gave him directions to the workshop and disclosed the northern route after he raised the trap complaint.
 
 ## Arc Score Events
-*(None recorded in source notes)*
+*(None recorded)*

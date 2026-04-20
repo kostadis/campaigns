@@ -1,197 +1,223 @@
 ## NPCs
 
-**Valphine**
-- Location: Axeholm, machine room (lower level)
-- State: Active; was knocked unconscious during fight with Chief Accountant, subsequently healed
-- Recent actions: Fired crossbow at out-of-phase dwarves; tended party wounds post-combat; picked locked door with thieves' tools; stealthily scouted pillared hall; channeled divine energy to turn a dwarf; revived Soma with healing magic; recognized Axeholm signet ring as an artifact and key; identified trash chute; subdued mechanical mosquito construct; led party through upper floor; deployed radiant guardians; knocked unconscious by Chief Accountant's wail; recognized Aletra by scent in machine room
-- Faction: Party; Satora family (drow, estranged)
-- Motivations/Secrets: Member of the Satora family; has a sister named Aletra; Aletra previously exposed traitors for profit, not honor
-
-**Soma**
-- Location: Axeholm, machine room (lower level)
-- State: Active; was paralyzed then knocked unconscious during King fight, subsequently revived; fought in bear form throughout
-- Recent actions: Paralyzed by dwarf touch (shook it off); mauled a dwarf to death instantly in pillared hall; paralyzed and knocked unconscious by the Dwarven King; revived by Valphine; rejoined combat against the King; fought out-of-phase dwarves on upper floor in bear form; moved to stabilize fallen companions after Chief Accountant's wail
-- Faction: Party
-
-**Brewbarry**
-- Location: Axeholm, machine room (lower level)
-- State: Active; sustained wounds from Dwarven King but shrugged off damage via rage
-- Recent actions: Delivered crushing blows in mustering hall combat; flew into a rage and engaged the Dwarven King; inflicted grievous wounds on the King via defensive strikes; charged and cut down spectral dwarves on upper floor; weathered Chief Accountant's wail
-- Faction: Party
+**Harbin Wester**
+- Current location: Phandalin
+- Current state: Active, governing
+- Recent actions: Greeted the party warmly following the gold mine peace agreement; warned about ale supply threats; presented the party with three new quests (Dragon Barrow, Axeholm, Woodland Manse); explained Neverwinter's troubled history and Lord Neverember's reforms
+- Faction: Lord Mayor of Phandalin; quests funded through Neverwinter's tax system
+- Motivations: Maintaining Phandalin's stability and supply chains
 
 **Vukradin**
-- Location: Axeholm, machine room (lower level)
-- State: Active; knocked unconscious by Chief Accountant's wail, subsequently healed
-- Recent actions: Supported allies with inspiring words in mustering hall; attempted illusion of Moradin on Dwarven King (failed); successfully conjured illusion of a giant bear in King's mind dealing psychic damage; examined mechanical mosquito construct; identified it as a sampling device; attempted to convince out-of-phase dwarves party came to improve efficiency (backfired); wove slowing magic on upper-floor dwarves; summoned a giant adding machine to attack Chief Accountant; knocked unconscious by Chief Accountant's wail
-- Faction: Party
+- Current location: Phandalin
+- Current state: Active, party member
+- Recent actions: Inquired about quest rewards in relation to establishing a music studio; was embarrassed to learn he had missed major events in Neverwinter due to focus on musical studies; encouraged Lyra; performed at the tavern; considering how to claim credit from multiple organisations
+- Motivations: Establishing a music studio; accumulating favors from factions
 
-**The Dwarven King**
-- Location: Axeholm, pillared hall — deceased
-- State: Dead; defeated by the party
-- Recent actions: Emerged from behind limestone throne; paralyzed and knocked Soma unconscious with claw attacks and bites; attacked Brewbarry; attacked Valphine (all attacks missed); collapsed after sustained party assault
-- Faction: Axeholm (corrupted)
-- Revealed: Transformed into a three-headed monstrosity by interdimensional corruption; bore signet ring with Axeholm crest (hand clutched in dwarven gauntlet), identified as both artifact and key
+**Brewbarry**
+- Current location: Phandalin / Axeholm entrance
+- Current state: Active, party member
+- Recent actions: Inquired about ale supply; performed at the tavern with physical displays and dance moves that the crowd imitated; attempted and failed to force open the rusted iron portcullis at Axeholm
+- Motivations: Ale supply concern noted
 
-**The Chief Accountant**
-- Location: Axeholm, upper floor chamber; fled through closed door; later re-emerged
-- State: Undead/spectral; incorporeal; fled after outburst; subsequently re-emerged and negotiated with party
-- Recent actions: Emerged after six out-of-phase dwarves were defeated; unleashed wail knocking Valphine and Vukradin unconscious; panicked at Valphine's unconscious state and attempted to stabilize her with blue-white static energy; fled through closed door; re-emerged and explained the history of Axeholm's corruption; offered override code in exchange for freedom and silence
-- Faction: Axeholm (corrupted/undead)
-- Revealed: Killed by Aletra after complaining about unbalanced books; claims Aletra laughed at her before killing her; fears "the auditor" liquidating her for closing Valphine's account; called Valphine "sister of the sun" and accused her of carrying "the scent of bleach and betrayal"; appearance is luminous and glitching with ink-like shadows leaking from eyes and shifting geometric shapes for a face; voice blends grandmother's warmth with screeching static; speaks of ledgers that won't close and regulators dividing by zero
+**Valphine**
+- Current location: Phandalin / Axeholm entrance
+- Current state: Active, party member
+- Recent actions: Struggled with her performance at the tavern
 
-**Aletra (Satora)**
-- Location: Axeholm, machine room (lower level)
-- State: Active; standing calmly beside the malfunctioning machine
-- Recent actions: Made a deal with the Dwarven King to improve the mine's efficiency and profit margins; installed a machine that subsequently broke and unleashed chaos; killed the Chief Accountant after the accountant complained about unbalanced books; is currently attempting to extract drow poison smuggled through the multiverse via the machine; warned party not to approach; spoke condescendingly to Valphine in Undercommon; proposed that the party kill four spectral spider constructs guarding the machine in exchange for extracting her cargo and allowing them to use the override code
-- Faction: Satora family
-- Revealed: Fourth daughter of the Satora family; Valphine's sister; exposes traitors for profit, not honor; was jealous of the Lionshield Coster's multi-dimensional merchant operations on the king's behalf; has been smuggling drow poison through the multiverse using the machine; wears a high-collared uniform; has sharp cheekbones and cold violet eyes; carries Satora family scent of lavender perfume and chemical bleach from poison labs; armed with a rapier; operating a glowing keypad; claims to be in delicate equilibrium with the machine; threatens that a failed extraction could cause the entire fortress to explode
+**Soma**
+- Current location: Axeholm entrance
+- Current state: Active, party member
+- Recent actions: Summoned a rat familiar to scout through the arrow slits at Axeholm; established a telepathic link with the familiar to explore beyond the portcullis
 
-**Townmaster Wester**
-- Location: Not present (referenced)
-- State: Unknown
-- Recent actions: None in this session
-- Faction: Phandalin government
-- Motivations: Party debated whether treasures found in Axeholm should be surrendered to him
+**Petunia**
+- Current location: Negotiated to graze on Qelline Alderleaf's land
+- Current state: Active; a prized cow belonging to Big Al
+- Recent actions: Communicated via magical means that she misses the alfalfa fields of Butterskull Ranch
+- Motivations: To return to familiar grazing land (alfalfa fields)
+
+**Big Al**
+- Current location: Qelline Alderleaf's farm (en route to make amends)
+- Current state: Emotionally distressed; heading to reconcile with Qelline
+- Recent actions: Mentioned Qelline's offer to let Petunia graze for one gold piece per week; revealed under party questioning that he and Qelline had been engaged; confessed he abandoned her the night before their wedding; picked up Petunia and headed to Qelline's farm
+- Faction: Owner of Butterskull Ranch (former); connected to gold mine wererats via cheese supply
+- Secrets: Was formerly engaged to Qelline Alderleaf; abandoned her the night before their wedding; claims he always loved her but was not ready to settle down
+
+**Qelline Alderleaf**
+- Current location: Her farm, Phandalin area
+- Current state: Active; harboring resentment toward Big Al
+- Recent actions: Previously offered to let Petunia graze for one gold piece per week; revealed to the party that the price was deliberately punitive ("hurt price"); agreed to reduce fee to five silver pieces per week on condition that Big Al apologizes to her personally
+- Motivations: Financial compensation for past harm; personal apology from Big Al
+- Secrets: Was formerly engaged to Big Al; his competitive pricing during his prosperous Butterskull Ranch days severely damaged her farm's income
+
+**Lyra**
+- Current location: Phandalin
+- Current state: Discouraged about her leadership but heartened by party support
+- Recent actions: Appeared in town reunited with two rescued Emerald Enclave members; expressed self-doubt citing the treant incident and her men's capture; received encouragement from Vukradin; learned the party had credited her with planning the rescue; agreed to let Vukradin help convince the Emerald Enclave of her competence
+- Faction: Emerald Enclave (leader, disputed competence)
+- Motivations: Proving her leadership ability to the Emerald Enclave
+
+**Ser Kaelen**
+- Current location: Phandalin
+- Current state: Active; acting as an informant/liaison for the Order of the Gauntlet
+- Recent actions: Provided the party with information identifying the lighthouse statue as belonging to Elara Seasong Meliame; warned of House Maragaster agents intending to intercept the statue; requested the party escort the statue to Neverwinter and mention the Order of the Gauntlet's assistance to Elara
+- Faction: Order of the Gauntlet
+- Motivations: Securing future donations for the Order of the Gauntlet from the Meliame family
+
+**Elara Seasong Meliame**
+- Current location: Neverwinter, attending a gala hosted by Lord Cassian Meliame
+- Current state: Unaware of the statue's recovery or the threat from House Maragaster
+- Faction: Meliame family; wealthy art collector
+
+**Lord Cassian Meliame**
+- Current location: Neverwinter
+- Current state: Hosting an extravagant gala
+- Faction: Meliame family
+- Characterisation: Described as eccentric
+
+**Lord Neverember**
+- Current location: Neverwinter (referenced, not present)
+- Recent actions: Attempting to remedy Neverwinter's history of catastrophes, corruption, and crime through progressive reforms
+- Faction: Ruler/Lord of Neverwinter
+
+**Spider-Man**
+- Current location: Local tavern, Phandalin
+- Current state: Active; tavern owner
+- Recent actions: Rewarded the party with free drinks following their performance
 
 ---
 
 ## Factions
 
-**The Party**
-- Current goals: Clear Axeholm of corruption; investigate and shut down the malfunctioning machine; deal with Aletra
-- Recent actions: Defeated remaining out-of-phase dwarves; killed the Dwarven King; explored Axeholm thoroughly; captured mechanical mosquito construct; defeated Chief Accountant's minions; negotiated with Chief Accountant; confronted Aletra in the machine room
-- Relationships: Loosely accountable to Phandalin/Privy Council; Valphine has hostile/complicated relationship with the Satora family
+**Order of the Gauntlet**
+- Current goals: Securing financial donations from wealthy patrons such as the Meliame family
+- Recent actions: Ser Kaelen identified the lighthouse statue and arranged for the party to escort it to Elara Seasong Meliame; requested credit be given to the Order upon delivery
+- Key members: Ser Kaelen
+- Relationships: Using the party as intermediaries with the Meliame family; opposed by House Maragaster's interference
 
-**Satora Family**
-- Current goals: Profit; multi-dimensional smuggling operations (specifically drow poison); exploitation of the Axeholm machine
-- Recent actions: Aletra made a deal with the Dwarven King; installed the machine; killed the Chief Accountant; is actively attempting to extract smuggled drow poison from the machine
-- Relationships: Connected to Lionshield Coster (king was jealous of their multi-dimensional merchant operations); Valphine is an estranged member
-- Key members: Aletra (fourth daughter, active in Axeholm); Valphine (party member, estranged)
+**Emerald Enclave**
+- Current goals: Unclear; meeting scheduled for the following day (from the party's perspective)
+- Recent actions: Two members were rescued by the party and reunited with Lyra; Lyra is attempting to reassert her leadership credibility
+- Key members: Lyra (leader, credibility in question); two unnamed rescued members
+- Relationships: Lyra seeking Vukradin's assistance to vouch for her competence at the upcoming meeting
 
-**Lionshield Coster**
-- Current goals: Unknown
-- Recent actions: None directly in this session
-- Relationships: Operated multi-dimensional merchant operations generating substantial revenue; the Dwarven King was jealous of them, motivating the deal with Aletra
-- Key members: None named
+**House Maragaster**
+- Current goals: Intercepting the lighthouse statue to embarrass the Meliame family
+- Recent actions: Agents are actively moving to intercept the statue in transit to Neverwinter
+- Relationships: Hostile to the Meliame family; notorious for demonic alliances
+- Known traits: Demonic alliances
 
-**Phandalin / Privy Council**
-- Current goals: Benefit of Phandalin's people
-- Recent actions: None directly in this session; referenced as potential recipient of Axeholm treasures
-- Relationships: Party debates loyalty between Townmaster Wester and the Privy Council
-- Key members: Townmaster Wester
+**Meliame Family**
+- Current goals: Not explicitly stated
+- Recent actions: Elara Seasong Meliame is attending a gala in Neverwinter; Lord Cassian Meliame is hosting the gala
+- Relationships: Targeted by House Maragaster; potentially to become donors to the Order of the Gauntlet
+- Key members: Elara Seasong Meliame (art collector); Lord Cassian Meliame (eccentric host)
+
+**Neverwinter (City Government)**
+- Current goals: Lord Neverember pursuing progressive reforms to address corruption and crime
+- Background: Decades of catastrophes, corruption, and crime; quests issued from Phandalin are funded through Neverwinter's tax system
+- Key members: Lord Neverember
+
+**Wererats (Gold Mine)**
+- Current goals: Maintaining a steady cheese supply
+- Recent actions: Peace agreement negotiated by the party; cheese supply logistics being arranged via Petunia and Qelline Alderleaf's land
 
 ---
 
 ## World Events
 
-- The party defeated the remaining out-of-phase dwarves in the mustering hall of Axeholm; Soma was temporarily paralyzed but resisted the effect
-- The party explored the upper level via a narrow tunnel, finding a ransacked room with a blackened fireplace whose chimney leads to the mountain face where they originally entered Axeholm
-- The party discovered a collapsed dwarven shrine containing skeletal remains, a platinum amulet bearing Moradin's symbol, and a potion of superior healing in a steel coffer
-- The party debated whether shrine treasures should be surrendered to Townmaster Wester or held by the Privy Council
-- The party found a locked, completely empty room, raising the question of why it was locked
-- The party discovered two more out-of-phase dwarves in a grand pillared hall and killed them; Soma slew one instantly
-- The Dwarven King emerged from behind a limestone throne in the pillared hall in the form of a three-headed monstrosity alongside another corrupted dwarf
-- The King paralyzed and knocked Soma unconscious; she reverted from bear form
-- Valphine turned one lesser dwarf, who fled up the fireplace
-- Vukradin failed an illusion assault on the King's mind, then succeeded with a giant bear illusion dealing psychic damage
-- Valphine revived Soma with healing magic
-- The party defeated the Dwarven King; recovered his signet ring bearing the Axeholm crest, identified as both artifact and key
-- The party leveled up (grew stronger from their harrowing experiences)
-- The party completed exploration of the lower level: found serviceable armor and weaponsmith tools in storage, barracks with meager cots, and an empty armory stripped of weapons
-- The party ascended to the upper floor, where time and spatial distortions were more pronounced
-- A scratching sound like frantic writing was heard from the north hallway on the upper floor
-- The party engaged and defeated six out-of-phase dwarves in an upper-floor chamber who screamed about efficiency; Vukradin's attempt to exploit their obsession backfired and agitated them further
-- The Chief Accountant emerged after the six dwarves were defeated and unleashed a wail that knocked Valphine and Vukradin unconscious
-- The Chief Accountant panicked at Valphine's unconscious state and attempted to stabilize her with blue-white static energy, fearing "the auditor"
-- The Chief Accountant fled incorporeally through a closed door
-- After the party healed and rested, the Chief Accountant re-emerged and revealed the history of Axeholm's corruption: Aletra Satora made a deal with the king, installed a machine to improve mine efficiency, the machine broke and caused chaos, and Aletra killed the Chief Accountant after she complained about unbalanced books
-- The Chief Accountant offered the party the machine's override code in exchange for freedom and silence regarding what transpired
-- The party followed the Chief Accountant's directions to the machine room on the lower level
-- The party discovered a massive malfunctioning machine in the lower level and found Aletra standing beside it with four spectral spider constructs on the ceiling
-- Valphine identified Aletra by the Satora family scent of lavender and chemical bleach
-- Aletra revealed she is attempting to extract smuggled drow poison from the machine
-- Aletra spoke condescendingly to Valphine in Undercommon
-- Aletra proposed a deal: the party kills the spectral spiders, she extracts her cargo and allows them to shut down the machine; refusal risks an explosion that could destroy the fortress
+- The party successfully negotiated a peace agreement at the gold mine prior to this session.
+- Harbin Wester warned that a dragon occupying the mountains and resulting orc incursions are preventing farmers from tending crops, threatening Phandalin's ale production for the season.
+- Harbin Wester presented the party with three new quests: investigating Dragon Barrow, securing Axeholm fortress, and exploring the Woodland Manse.
+- The party used magical communication to learn that Petunia the cow misses the alfalfa fields of Butterskull Ranch.
+- Big Al revealed that Qelline Alderleaf had offered to let Petunia graze on her land for one gold piece per week, but he lacked the funds.
+- The party discovered Qelline's resentment toward Big Al; she confirmed the high price was intentional ("hurt price") due to his past competitive pricing damaging her farm.
+- Qelline agreed to reduce the grazing fee to five silver pieces per week on the condition that Big Al personally apologizes to her.
+- Under party questioning, Big Al broke down and confessed he had been engaged to Qelline and abandoned her the night before their wedding.
+- Big Al, still emotional, picked up Petunia and went to Qelline's farm to make amends; the party chose not to interfere.
+- Lyra arrived in Phandalin reunited with the two Emerald Enclave members the party had previously rescued.
+- Lyra expressed serious self-doubt about her leadership, citing the treant incident and her men's capture.
+- One of the rescued Emerald Enclave members revealed that the party had claimed the rescue was Lyra's plan.
+- Lyra agreed to let Vukradin help vouch for her competence at the Emerald Enclave's meeting the following day.
+- Ser Kaelen informed the party that the statue recovered from the lighthouse belongs to Elara Seasong Meliame, a wealthy art collector currently at a gala in Neverwinter.
+- Ser Kaelen warned that House Maragaster agents intend to intercept the statue to embarrass the Meliame family.
+- Ser Kaelen tasked the party with escorting the statue to Neverwinter and presenting it to Elara, mentioning the Order of the Gauntlet's role.
+- The party performed at the local tavern: Valphine struggled, Vukradin energized the crowd, and Brewbarry's physical displays and dance moves were imitated by the audience.
+- Spider-Man rewarded the party with free drinks; the crowd gave applause and coin.
+- The party traveled from Phandalin across grassy lowlands skirting the rocky foothills of the Sword Mountains toward Axeholm in cool, rainy weather from the Sword Coast.
+- The party arrived at Axeholm and found the entrance: a dark passageway carved into a gray mountain flanked by seamless stone bulwarks, blocked by a rusted iron portcullis.
+- Brewbarry attempted and failed to force the portcullis open; a large stone block was found to be jamming the mechanism.
+- Soma summoned a rat familiar and established a telepathic link to scout through the arrow slits into Axeholm; the familiar was preparing to venture inside.
 
 ---
 
 ## Locations
 
-**Axeholm (Fortress, general)**
-- What it is: Ancient dwarven fortress inside a mountain
-- Current state: Abandoned and corrupted; spatial and temporal distortions throughout, more pronounced on upper floor; pervasive stench of death; dust forms unnatural geometric patterns; low tooth-rattling hum emanating from deep within the stone; flickering lights on upper level
-- What happened: Corrupted by a machine installed by Aletra Satora that broke and unleashed interdimensional chaos
+**Phandalin**
+- What it is: A town governed by Lord Mayor Harbin Wester
+- Recent events: Party returned here after the gold mine peace deal; multiple quests issued; tavern performance held; various NPC interactions took place
+- Current state: Stable but facing threats to ale production from dragon and orc incursions in the surrounding mountains
 
-**Mustering Hall (Axeholm, lower level)**
-- What it is: Combat staging area of the fortress
-- Current state: Cleared; out-of-phase dwarves defeated here
+**Gold Mine**
+- What it is: Site of a recent peace negotiation; home to wererats requiring a cheese supply
+- Current state: Peace agreement in place; cheese supply logistics being arranged
 
-**Narrow Tunnel (Axeholm)**
-- What it is: Cramped passage just large enough for a humanoid to squeeze through, leading upward
-- Current state: Intact and passable
+**Butterskull Ranch**
+- What it is: Former home and farm of Big Al; where Petunia the cow originally grazed on alfalfa fields
+- Current state: Not described as currently operational; Big Al is no longer there
 
-**Ransacked Upper Room (Axeholm, upper level)**
-- What it is: Room with broken furniture and debris
-- Current state: Ransacked; contains a blackened fireplace with a chimney leading to the mountain face where the party originally entered
+**Qelline Alderleaf's Farm**
+- What it is: A farm near Phandalin owned by Qelline Alderleaf
+- Recent events: Party negotiated Petunia's grazing rights here; Big Al headed here to apologize to Qelline
+- Current state: Active farm; reconciliation between Big Al and Qelline underway
 
-**Dwarven Shrine (Axeholm, lower level)**
-- What it is: Sacred dwarven shrine with carved wall reliefs depicting dwarves performing sacred rites
-- Current state: Eastern section collapsed; rubble and skeletal remains of several dwarves on the floor; platinum Moradin amulet and potion of superior healing recovered here
+**Neverwinter**
+- What it is: A city with a history of catastrophes, corruption, and crime; currently under Lord Neverember's reforming governance; funds Phandalin's quests through its tax system
+- Current state: Lord Cassian Meliame is hosting an extravagant gala; House Maragaster agents are active in or around the city targeting the Meliame statue
+- Upcoming: Party intends to escort the statue here and present it to Elara Seasong Meliame
 
-**Locked Empty Room (Axeholm)**
-- What it is: A room, formerly locked, now found completely empty
-- Current state: Cleared out and locked; purpose unknown
+**Local Tavern, Phandalin**
+- What it is: A tavern owned by Spider-Man
+- Recent events: Party performed here; Brewbarry's dancing was imitated by the crowd; party rewarded with free drinks and coin
+- Current state: Active
 
-**Pillared Hall (Axeholm, lower level)**
-- What it is: Grand hall supported by pillars; contains a limestone throne flanked by granite statues of dwarf warriors
-- Current state: Cleared; site of the Dwarven King's defeat; air previously filled with tooth-rattling hum and geometric dust patterns
+**Dragon Barrow**
+- What it is: A location presented as a quest destination by Harbin Wester
+- Current state: Uninvestigated; nature unknown beyond the name
 
-**Grand Dining Room (Axeholm)**
-- What it is: Large room with a massive stone table and iron chandeliers
-- Current state: Long abandoned; candles melted away; contains an alcove with a sixty-foot-deep trash chute
+**Woodland Manse**
+- What it is: A location presented as a quest destination by Harbin Wester
+- Current state: Uninvestigated; nature unknown beyond the name
 
-**Kitchen (Axeholm)**
-- What it is: Dwarven kitchen with metal dishware, utensils, and drinking mugs
-- Current state: Functional stone sink still produces hot spring water; otherwise abandoned
+**Axeholm**
+- What it is: An ancient dwarven fortress carved into a gray mountain in the Sword Mountains foothills
+- Description: Dark passageway entrance flanked by towering bulwarks of seamless stone; rusted iron portcullis at the entrance; arrow slits carved into the walls; no signs of current occupation observed from outside
+- Recent events: Party arrived and found the portcullis blocked by a stone block jamming the mechanism; Soma dispatched a rat familiar through the arrow slits to scout
+- Current state: Apparently abandoned; interior unknown; scouting underway
 
-**Smithy (Axeholm)**
-- What it is: Dwarven smithy with rusty anvils before blackened hearths
-- Current state: Rusted and abandoned; site where the mechanical mosquito construct was discovered and captured
+**Sword Mountains**
+- What it is: A mountain range whose foothills border the path to Axeholm
+- Current state: A dragon is occupying the mountains; orc incursions originating from this area are threatening Phandalin's farming
 
-**Storage Room (Axeholm, lower level)**
-- What it is: Storage area
-- Current state: Contains serviceable armor and weaponsmith tools useful to Phandalin
-
-**Barracks (Axeholm, lower level)**
-- What it is: Sleeping quarters with dozens of meager cots and two cold fireplaces
-- Current state: Abandoned; chimney shafts rise 120 feet through the mountain and are rubble-choked
-
-**Armory (Axeholm, lower level)**
-- What it is: Weapons storage with stone racks, headless mannequins, and iron hooks
-- Current state: Empty; all weapons removed when dwarves departed
-
-**Upper Floor Chamber (Axeholm, upper level)**
-- What it is: Chamber where six out-of-phase dwarves and the Chief Accountant were encountered
-- Current state: Cleared; Chief Accountant fled through a closed door within this area
-
-**Machine Room (Axeholm, lower level)**
-- What it is: Room housing the massive malfunctioning machine installed by Aletra Satora
-- Current state: Active and chaotic; machine vibrating violently, venting purple steam, emitting static electricity; four spectral spider constructs on ceiling; Aletra present and operating a glowing keypad
+**Sword Coast**
+- What it is: Coastal region; source of cool winds and rain affecting the party's travel
 
 ---
 
 ## Threads & Mysteries
 
-- **The Machine**: The massive contraption in the lower level is still active and destabilizing Axeholm; it speaks of non-Euclidean geometry and purging protocols; must be shut down using an override code provided by the Chief Accountant, but Aletra must first extract her cargo or it may explode
-- **Aletra's Proposal**: The party must decide whether to help Aletra kill the four spectral spider constructs so she can extract her smuggled drow poison, or refuse and risk the fortress exploding
-- **Aletra's Drow Poison Smuggling**: Aletra has been using the machine to smuggle drow poison through the multiverse; the scale, destination, and purpose of this operation are unknown
-- **The Mechanical Mosquito Construct**: A steampunk sampling device containing blood was found in the smithy; its creator, purpose, and who sent it to Axeholm are unknown
-- **The Locked Empty Room**: Someone cleared out a storage room and locked it; who did this and why remains unexplained
-- **The Scratching Sound**: A sound like frantic writing on paper was heard from the north hallway on the upper floor; it was not investigated
-- **"The Auditor"**: The Chief Accountant expressed terror of an entity called "the auditor" who could "liquidate" her for closing Valphine's account; the identity and nature of the auditor are unknown
-- **The Axeholm Signet Ring**: Identified as both a valuable artifact and a key; what it unlocks has not yet been determined
-- **Treasures from the Shrine**: The platinum Moradin amulet and potion of superior healing; the party has not resolved whether to give them to Townmaster Wester or the Privy Council
-- **The Chief Accountant's Deal**: She offered the override code in exchange for freedom and silence toward Aletra; whether the party will honor this agreement is unresolved
-- **Valphine and Aletra's Relationship**: Aletra exposed traitors for profit rather than honor; the full history of their family estrangement and Valphine's departure from the Satora family remains unexplored
-- **The Satora Family's Multi-Dimensional Operations**: The Satora family operates across dimensions for profit (poison labs, smuggling); the full scope of their activities is unknown
-- **Lionshield Coster's Multi-Dimensional Operations**: The Dwarven King envied their inter-dimensional merchant network; the nature and extent of these operations are unexplored
+- **Dragon in the Sword Mountains**: An unnamed dragon is occupying the mountains and causing orc incursions that threaten Phandalin's farming and ale production. The dragon's identity, motivations, and precise location are unknown.
+- **Orc Incursions**: Orcs are raiding or disrupting the farming region around Phandalin as a result of the dragon's presence. No resolution has occurred.
+- **Dragon Barrow Quest**: Harbin Wester assigned this quest; its nature and contents remain entirely unexplored.
+- **Woodland Manse Quest**: Harbin Wester assigned this quest; its nature and contents remain entirely unexplored.
+- **Axeholm**: The party has just arrived and begun scouting. What lies inside the ancient dwarven fortress is unknown. The portcullis mechanism is jammed; the reason is unexplained. Soma's rat familiar is about to enter.
+- **The Lighthouse Statue**: The statue recovered from the lighthouse belongs to Elara Seasong Meliame. How it ended up at the lighthouse has not been explained.
+- **House Maragaster Interception Plot**: Agents of House Maragaster are actively moving to intercept the statue before it reaches Elara. Their specific methods, numbers, and current location are unknown.
+- **House Maragaster's Demonic Alliances**: The faction is noted as notorious for demonic alliances; no further detail has been provided.
+- **Vukradin's Music Studio**: Vukradin intends to use quest rewards to establish a music studio. This goal is ongoing and unfulfilled.
+- **Emerald Enclave Meeting**: The Emerald Enclave is meeting the day after the session's events. Vukradin intends to vouch for Lyra's leadership; the outcome is unresolved.
+- **Lyra's Leadership Credibility**: Lyra's standing within the Emerald Enclave is in question following the treant incident and her men's capture. The upcoming meeting will be a test.
+- **The Treant Incident**: Referenced as a leadership failure for Lyra; no details provided about what occurred.
+- **Big Al and Qelline's Reconciliation**: Big Al has gone to Qelline's farm to apologize. Whether the reconciliation succeeds and what the final arrangement for Petunia's grazing will be remains unresolved.
+- **Wererats' Cheese Supply**: The logistics of supplying cheese to the wererats at the gold mine depend on the outcome of Big Al and Qelline's reconciliation; not yet confirmed as secured.
+- **Vukradin's Plan to Credit Multiple Organisations**: Vukradin is considering thanking multiple organisations for the statue's return to maximise favors. The consequences of this approach, if pursued, are unresolved.
+- **Lord Neverember's Reforms**: Neverwinter's reforms are ongoing; their success or failure and any impact on the party is not yet established.

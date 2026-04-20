@@ -1,58 +1,78 @@
+---
+name: Adabra
+aliases:
+  - Adabra (Adabra Gwynn)
+  - Adabra Adabra Gwynn
+  - Adabra Gwynn
+source_extracts: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38]
+---
+
 # Adabra Gwynn
 
 ## Identity
-- **Role:** Apothecary, herbalist, philosopher; member of the Emerald Enclave (anti-interventionist faction)
-- **Location:** Shop in Phandalin main square, adjacent to Garaele's house and across from the Shrine of Luck; also holds a deed to land around Umbrage Hill windmill
-- **First Appearance:** Barricaded inside her windmill on Umbrage Hill, besieged by a manticore; rescued by the party
+Apothecary, herbalist, philosopher, and druid; member of the Emerald Enclave (anti-interventionist faction). Operates a shop in Phandalin main square, adjacent to Garaele's house and across from the Shrine of Luck; also holds a deed to land around Umbrage Hill windmill. Connected to broader druidic circles in the region.
+
+*Also known as: Adabra (Adabra Gwynn), Adabra Adabra Gwynn, Adabra Gwynn.*
 
 ## Personality & Motivations
-- **Core Goal:** Preserve the natural order by opposing all interventionism — religious, planar, or military — which she believes causes cascading imbalance across the multiverse.
+- **Core Goal:** Preserve the natural order by opposing all interventionism — religious, planar, or military — which she believes causes cascading imbalance across the multiverse. Hold the party accountable for what she sees as reckless interventionism that has harmed the forests.
 - **Driving Tension:** Marginalized within her own faction, she has been "cast out" and resource-starved, driving her to recruit outside allies like Soma to fight the interventionist wing from without.
 - Warm and generous to those she perceives as sharing her worldview; cold, patronizing, and ideologically rigid toward those she views as having betrayed it.
 - Frames everything — including warfare, monsters, and outer-planar phenomena — through the lens of naturalism, rejecting categories like "monster," "barbarian," or "evil" entirely.
+- She experienced the consequences of the party's wartime actions but not the planar incursions that provoked them, leading her to identify the defenders as the problem rather than the actual threats. Ser Kaelen described her as "confused" in this regard.
+- Views planar phenomena and outer-planar entities as natural expressions of universal beauty and diversity rather than threats to be purged; characterizes interventionist cleansing rituals as acts of violence against nature.
+- Objected to the word "barbarian" as a concept, preferring to frame wandering peoples as "nomads" and part of the natural world.
 
 ## History with the Party
 
 **Umbrage Hill (Session 1):**
-Rescued from a manticore siege. Refused to leave her windmill initially, citing her role in the natural order. Changed her mind after Soma identified as a naturalist and Vukradin framed his invitation in fair-trade, non-extractive terms. Fed and housed the party overnight. Gave them an enhanced healing potion and a letter to Harbin requesting their reward.
+Found barricaded inside her windmill, besieged by a manticore for a short time before the party's arrival. Rescued from the manticore siege. Refused to leave her windmill initially, insisting her role in the natural order required her to stay and craft potions. Changed her mind after Soma identified as a naturalist and Vukradin framed his invitation in fair-trade, non-extractive terms, declaring them "fellow naturalists." Fed and housed the party overnight with a hearty meal of bread, herb stew, fungi, foraged vegetables, and berries. Presented them with an enhanced healing potion (with special scent and flavor) and a written letter to Harbin requesting their reward and confirming she would not leave. Showed knowledge of Soma's druidic training gaps, informing her that manticores have a documented preference for human flesh — a fact Soma had not been taught. Holds a deed to the land around the windmill and has tended the nearby dwarven cairns. Presented her views on naturalism versus interventionism passionately, contrasting her faction with the interventionist faction's "barbaric slaughtering of monsters."
 
 **Road to Phandalin:**
-Walked with the party, using the journey to elaborate her naturalist philosophy to Soma. Reassured Brewbarry he was a nomad, not a barbarian.
+Walked with the party, using the journey to elaborate her naturalist philosophy to Soma. Argued that disrupting the natural order — whether by driving out orcs or fighting outer-planar entities — is the true source of imbalance, and that labeling creatures as monsters leads to calling people barbarians. Reassured Brewbarry he was a nomad, not a barbarian.
 
 **Harbin's Home:**
-Took over payment negotiations on the party's behalf. Extracted free room and board at Stonehill Inn. Notably omitted Valphine from her advocacy — reason unexplained.
+Took over payment negotiations on the party's behalf, speaking forcefully for Vukradin. Framed him as an idealist and champion rather than a common sellsword, arguing that Phandalin's defense requires principled heroes rather than mercenaries motivated by plunder. Praised Soma and Brewbarry by name but conspicuously omitted Valphine from her advocacy — notably without explanation, leaving open whether the slight was due to Valphine being a Drow or some other reason. Extracted free room and board at Stonehill Inn from Harbin. Revealed she had previously spoken to Harbin to secure more money for Vukradin's goals.
 
-**Barthen's Provisions:**
-Pulled Soma aside privately before the party left Phandalin. Described a withering grove past Whisper Woods — trees twisted into impossible shapes, wrong colors, creatures with too many eyes moving in jerky patterns. Asked Soma to investigate. Appeared put off by Vukradin's proximity during this encounter.
+**Barthen's Provisions (Departure from Phandalin):**
+Encountered near Barthen's Provisions on the road to the Triboar Trail as the party departed Phandalin. Approached the group, smiled at Vukradin, but appeared put off when he drew near and instead pulled Soma aside privately. Described a withering grove past Whisper Woods — once a vibrant blessing of Chauntea — with trees twisted into impossible shapes, wrong colors, creatures with too many eyes moving in jerky patterns. Asked Soma to investigate, attributing the blight to interventionist meddling near Phandalin and Leilon rather than the Order of the Gauntlet. Made a passing remark about interventionists and the Emerald Enclave. Had a conversation with Soma during which she looked at Soma with an expression meaning "you understand" — Soma let her believe that without correcting her. Soma now feels uneasy about this tacit deception.
 
 **Phandalin Town Square (Later Return):**
-Expressed disappointment that Soma had not yet gone to the Whispering Woods. Confronted Vukradin about removing his Order of the Gauntlet pin; delivered a lengthy philosophical rebuke of the Order. Revealed she had originally supported Vukradin financially because she believed he shared her worldview alongside Soma, and that she stopped dealing with him directly once he publicly aligned with the Order. Ser Kaelen privately suggested she may have gone mad — noting some Enclave members began declaring demons part of the natural order following the intervention against Tiamat.
+Approached Soma asking whether they had ventured to the Whispering Woods. When told no, she was disappointed and said, "This is important Soma," then walked away. Confronted Vukradin about removing his Order of the Gauntlet pin; delivered a lengthy philosophical rebuke of the Order. Greeted him with bemused condescension, asking if he needed a health token or midwifery assistance. Explained her philosophy at length: that the Order strives to change the fundamental nature of the world, and that such interventionism forces evil to respond in kind, hurting everyone. Revealed she had originally supported Vukradin financially because she believed he shared her worldview alongside Soma and cared about music, and that she stopped dealing with him directly once he publicly aligned with the Order. Characterized the Order's champions as caring only for the kill and a higher ideal, not understanding that the multiverse holds no good or evil, only balance. Suggested to Vukradin that he "only did it for the music," a comment that later prompted him to reconsider whether his motivation was truly the music alone or whether it also included the audience. Ser Kaelen privately suggested she may have gone mad — noting some Enclave members began declaring demons part of the natural order following the intervention against Tiamat.
 
 **Whispering Grove Confrontation (Shop in Phandalin):**
-Dropped her warmth immediately when she sensed Soma's anger. Admitted she had been marginalized within the Enclave and was recruiting allies against the interventionist faction. Expressed disappointment that Soma appeared to have sided with Lyra. Was successfully deceived by Vukradin, who described the Treant as "stable." Became ecstatic upon hearing about the "planar magpie" — identified it as a symptom drawn to the energy, not a cause, and was pleased the party had not killed it. Paid Vukradin five gold and declared herself wrong about Soma. Left after accepting an invitation to hear music; whether she attended is unconfirmed.
+Dropped her warmth immediately when she sensed Soma's anger, becoming cold and patronizing. Admitted she had been marginalized within the Enclave and was recruiting allies against the interventionist faction — members like Lyra who perform cleansing rituals. Revealed her ideological position explicitly: she considers interventionists to be aggressors waging "a war on nature" by rejecting the multiverse's diversity, and views their rituals as acts of violence. Expressed disappointment that Soma appeared to have sided with Lyra. Was successfully deceived by Vukradin, who described the Treant as being "in stable condition." Became ecstatic upon hearing about the "planar magpie" — identified it as a symptom drawn to the energy, not a cause, and was pleased the party had not killed it. Paid Vukradin five gold and declared herself wrong about Soma. Made a brief attempt to use a music analogy to persuade Vukradin that the interventionists were wrong to reject certain "music" — certain planes. Left after accepting an invitation to hear music; whether she attended is unconfirmed. Soma privately characterized her extended philosophical monologue as meaningless nonsense.
 
 **Phandalin Council Meeting:**
 Erupted in furious rage upon learning of the party's intervention against the Kraken cult. Identified the event as a temporal violation and planar distortion, arguing it would trigger cascading catastrophic consequences across the multiverse. Pointed to Enclave members' involvement in the cult as proof of interventionist failure. Stormed out, leaving the council divided.
 
+**Discovery of the Whispering Grove Truth:**
+Learned what really happened at the Whispering Grove, including the treant incident and the concealment. This catalyzed her decision to act against the party.
+
+**Rallying Druids:**
+Began gathering druidic allies and is organizing a conclave to argue that the party's actions have brought harm to the forests.
+
 ## Current Status
-- **Last Known Location:** Left the Phandalin council meeting after storming out in anger.
-- **Active Plans:** Continuing to oppose the interventionist faction of the Emerald Enclave; recruiting outside allies. The Whispering Grove situation remains unresolved from her perspective.
-- **What the Party Knows:** She is anti-interventionist to an extreme; she has been marginalized within the Enclave; she recruited Soma under false philosophical pretenses; she was deceived about the Treant's fate.
-- **What Remains Hidden:** The full extent of her activities against the interventionist faction; whether her position on planar phenomena (demons, outer-planar entities as "natural") reflects coordinated Enclave policy or personal radicalization; what resources or allies she has access to.
+- **Last Known Location:** Somewhere in the wilds, rallying support among druids after storming out of the Phandalin council meeting.
+- **Active Plans:** Convening a druid gathering/conclave to make the case against the party's "reckless interventionism." Some attendees have suggested that Soma's right to retain Meril's staff should be evaluated at this conclave. Continuing to oppose the interventionist faction of the Emerald Enclave; recruiting outside allies. The Whispering Grove situation remains unresolved from her perspective.
+- **What the Party Knows:** She is anti-interventionist to an extreme; she has been marginalized within the Enclave; she recruited Soma under false philosophical pretenses; she was deceived about the Treant's fate; she is gathering druidic allies to convene a conclave against them. Vukradin has noted she had been "cooling on me for weeks."
+- **What Remains Hidden:** The full extent of her activities against the interventionist faction; whether her position on planar phenomena (demons, outer-planar entities as "natural") reflects coordinated Enclave policy or personal radicalization; what resources or allies she has access to; her specific location; the full list of her supporters; the exact arguments she plans to present at the conclave.
 
 ## Relationships
-- **Soma:** Considered her a philosophical protégé; now views her as a disappointment or possible betrayer. Soma's primary philosophical framework was built on Adabra's teachings, creating significant tension as Soma begins questioning them.
-- **Vukradin:** Originally funded him believing he was a fellow naturalist. Severed direct dealings when he publicly joined the Order of the Gauntlet. Cautiously re-engaged after he deceived her successfully; paid him five gold. Continues to use music as a persuasive metaphor with him specifically.
+- **Soma:** Considered her a philosophical protégé and primary mentee; now views her as a disappointment or possible betrayer. Soma's primary philosophical framework was built on Adabra's teachings, creating significant tension as Soma begins questioning them. Soma allowed Adabra to believe they shared a mutual understanding, which was not fully genuine. Soma now views Adabra's campaign as adversarial — "bringing her own war." Soma has resolved to seek Adabra out directly to demand an explanation of the paradox: how can the naturalist position justify accepting a calculated, purposeful desecration of the natural world? Adabra had warned Soma against interventionists but never spoke of a "motivated blight" — a deliberate, puppet-controlled corruption.
+- **Vukradin:** Originally funded him believing he was a fellow naturalist who cared about music and shared her worldview alongside Soma. Severed direct dealings when he publicly joined the Order of the Gauntlet. Cautiously re-engaged after he deceived her successfully; paid him five gold. Continues to use music as a persuasive metaphor with him specifically. He later reflected that she had been "cooling on me for weeks" and that he had not asked himself hard enough why.
 - **Valphine:** Conspicuously omitted from Adabra's advocacy to Harbin. Reason unknown — possibly related to Valphine being a Drow.
 - **Brewbarry:** Warm and affirming; reframed his identity as "nomad" rather than "barbarian."
-- **Lyra (Emerald Enclave, interventionist):** Ideological opponent. Views Lyra's cleansing rituals as acts of violence against the natural order.
-- **Harbin Wester:** Has spoken to him on the party's behalf on at least two occasions; has leverage with him.
-- **Ser Kaelen:** Views her as potentially mad; not part of her ideological circle.
+- **Lyra (Emerald Enclave, interventionist):** Ideological opponent. Views Lyra's cleansing rituals as acts of violence against the natural order and part of "a war on nature."
+- **Harbin Wester:** Has spoken to him on the party's behalf on at least two occasions; has leverage with him and successfully extracted concessions including free room and board.
+- **Ser Kaelen:** Views her as potentially mad; not part of her ideological circle. He is the party's source of information about Adabra's movements and views her as "confused" — sympathetic to her pain but dismissive of her conclusions. He has sent messages about "issues with the Emerald Enclave," which Vukradin identifies as "Adabra's world."
+- **Druidic circles:** Actively recruiting allies among druids; has enough credibility to convene a gathering and put the party's actions (and Soma's possession of Meril's staff) on the agenda.
 
 ## Arc Score Events
 - **Increase** — Party rescued her from the manticore; she fed and housed them and advocated for their reward.
-- **Increase** — Soma and Vukradin persuaded her to accompany them to Phandalin using naturalist framing.
+- **Increase** — Soma and Vukradin persuaded her to accompany them to Phandalin using naturalist framing, declaring them "fellow naturalists."
 - **Decrease (Vukradin)** — Vukradin publicly aligned with the Order of the Gauntlet; she stopped dealing with him directly.
 - **Decrease (Soma)** — Soma appeared to side with Lyra; Adabra declared herself "wrong about Soma."
-- **Partial Recovery (Vukradin)** — Successfully deceived; paid him five gold and expressed cautious hope.
+- **Partial Recovery (Vukradin)** — Successfully deceived about the Treant; paid him five gold and expressed cautious hope.
 - **Decrease (Party)** — Party's intervention against the Kraken cult enraged her; she stormed out of the council meeting.
+- **Decrease (Party)** — Adabra's discovery of the Whispering Grove truth and her decision to rally druids against the party represent a clear escalation toward conflict with druidic factions.

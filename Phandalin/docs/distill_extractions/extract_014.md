@@ -1,179 +1,212 @@
 ## NPCs
 
+**Adabra**
+- Current location: Main square of (unnamed settlement), next to Garaele's house, across from the Shrine of Luck
+- Current state: Active, suspicious of the party but partially mollified by Vukradin; ideologically opposed to Lyra and the Interventionists
+- Recent actions: Previously tasked the party with stopping the Interventionists' ritual; confronted the party upon their return; gave Vukradin five gold pieces after being told the party "didn't intervene" with the creature at the planar tear
+- Faction: Emerald Enclave (anti-Interventionist faction)
+- Motivations/Secrets: Believes the multiverse's diversity must be preserved and that Interventionist rituals are acts of violence against nature; claims her faction has been stripped of resources and marginalized within the Enclave; reached out to the party because she believed they understood "universal beauty of the multiverse"; does not know the Treant is dead; believes it is in "stable condition"
+
+**Lyra**
+- Current location: (unnamed settlement); departed the main square after confrontation
+- Current state: Alive, furious, and demoralized following the ritual's failure
+- Recent actions: Arrived at the main square simultaneously with the party; confronted Adabra; shouted at the party, calling them fools; departed
+- Faction: Emerald Enclave (Interventionist faction)
+- Motivations/Secrets: Had personal affection for the Whispering Grove; initiated the ritual without authorization from Enclave superiors in hopes of stopping the planar effects and earning a promotion or title; acted on her own judgment rather than the Enclave's collective decision
+
+**Thomas**
+- Current location: Stonehill Tavern
+- Current state: Alive; conflicted about Lyra's failure but loyal to the Emerald Enclave
+- Recent actions: Drank with the party at the Stonehill Tavern; explained Lyra's motivations and the internal Enclave dispute; departed with Marian; declined Vukradin's offer to join the group, citing his oath
+- Faction: Emerald Enclave (agent under Lyra)
+- Motivations/Secrets: Believes Lyra is a good leader who made a self-serving mistake; confirmed the Enclave was paralyzed by internal argument over whether to act on the planar effects
+
+**Marian**
+- Current location: Stonehill Tavern
+- Current state: Alive; loyal to the Emerald Enclave
+- Recent actions: Drank with the party; defended Lyra's character while acknowledging her error; asked Valphine about her self-harm practices; departed with Thomas; declined to join the party
+- Faction: Emerald Enclave (agent under Lyra)
+- Motivations/Secrets: Trusted Lyra based on her past track record
+
 **Vukradin**
-- Current location: Hillside vantage point ~250 feet from Butterskull Ranch
-- Current state: Active, leading the party in pursuit of Borg the Hammer
-- Recent actions: Ordered parley with brigands; dispatched Corbin as emissary; tied up and questioned Skippy; chose stealthy northern approach to ranch; freed Big Al from cellar; negotiated for mithril chainmail in exchange for recovering Petunia; decided party should follow Borg
-- Faction: Party
-- Motivations: Committed to earning "honest coin" through legitimate contracts; strong moral code against scavenging corpses or taking prisoners' belongings; refuses to kill unnecessarily; seeks to fund a music studio
+- Current location: Stonehill Tavern / main square (settlement unnamed)
+- Current state: Active; performed a music set at the Stonehill Tavern
+- Recent actions: Defused the confrontation between Adabra and Lyra; told Adabra the Treant was in "stable condition"; told Adabra the party "didn't intervene" with the creature; negotiated sale of pelts at Lionshield Coster; performed music at Stonehill Tavern; spoke with Ser Kaelen; attempted to recruit Lyra's agents and Thomas and Marian into the group
+- Faction: Independent; explicitly does not want to work with the Zhentarim
+- Motivations/Secrets: Wants to be liked by everyone; wants money earned without conflict or bloodshed ("conflict-free treasure"); playing popular music rather than impressive music is his current philosophy; has an arrangement where "Spiderman" pays for drinks
 
 **Soma**
-- Current location: Hillside vantage point near Butterskull Ranch
-- Current state: Active, in default form (has bear form available)
-- Recent actions: Transformed into Brown Bear during bandit skirmish, killed one bandit with claws; used Speak with Animals to locate Petunia via the pigs; questioned Vukradin's decision to send Corbin to parley
-- Faction: Party
-- Notes: Describes herself as having a shell; non-human narrator (tortoise or similar)
-
-**Brewbarry**
-- Current location: Hillside vantage point near Butterskull Ranch
-- Current state: Active
-- Recent actions: Enlarged himself using a newly acquired power; killed one bandit instantly in the skirmish; expressed concern about chasing Borg and about saving the farm
-- Faction: Party
-
-**Corbin**
-- Current location: Remote camp near Butterskull Ranch, guarding Skippy
-- Current state: Stationary, tasked with guarding prisoner
-- Recent actions: Failed to smooth-talk the brigands; was dispatched as emissary; asked about taking Skippy's armor; suggested staying behind to guard Skippy; displayed apparent desire for revenge against Skippy
-- Faction: Party
-- Notes: Described as fearful and "the lost boy"; Vukradin warned him Skippy must be alive on return
+- Current location: Stonehill Tavern / main square
+- Current state: Active; angry about having been used by Adabra; partially reconciled to events
+- Recent actions: Confronted Adabra in the main square; attempted to lie to Adabra and failed; told the Enclave agents "You failed without our help"; asked Thomas why Lyra chose such a difficult ritual
+- Faction: Independent
+- Motivations/Secrets: Feels manipulated by Adabra for being used to stop people who were trying to "save our plane"; knows the Treant is dead (and maintained silence about it); was instructed about the Emerald Enclave by someone named Meril
 
 **Valphine**
-- Current location: Hillside vantage point near Butterskull Ranch
-- Current state: Active, observing
-- Recent actions: Observed Borg execute the fleeing bandit and burn the ranch; advocated following Borg rather than saving the farm
-- Faction: Party
-- Motivations: Drawn to destruction and transformation; philosophically accepts fire as "purification"; interested in pursuing the source of the intrigue rather than its tools; references something called "the Overbright"
+- Current location: Stonehill Tavern / main square
+- Current state: Active
+- Recent actions: Commented on the creature at the planar tear, distracting Adabra from inquiring further about the Treant; performed music at Stonehill Tavern; revealed her origins to Thomas and Marian; confirmed she practices self-harm as a form of worship
+- Faction: Cleric of Lathander; from Menzoberanzan (Underdark)
+- Motivations/Secrets: Left Menzoberanzan due to a minor demon incursion threatening to level the city; converted to worship of Lathander after coming to the surface ("Overbright"); practices pain as religious devotion, viewing sunlight and self-inflicted harm as glorious; regards Adabra as a zealot comparable to Lolth-worshippers; plans to remain in the Overbright for an extended period; views all money as "dripping in blood"
 
-**Skippy**
-- Current location: Remote camp near Butterskull Ranch, in Corbin's custody
-- Current state: Alive (as of party's departure), bound; potentially in danger from Corbin
-- Recent actions: Drew steel against Corbin's parley attempt; was put to sleep by Vukradin; questioned by party; revealed the Butterskull Ranch ambush, Borg the Hammer's role, Harbin's use of the quest board, and Sister Kayla's identity
-- Faction: The Carver's crew (disposable brigands)
-- Revealed information: The Carver anticipated adventurers would take the ranch quest; the trap was set deliberately; Sister Kayla is the Carver's spymaster in Phandalin
+**Corbin**
+- Current location: Main square (settlement unnamed)
+- Current state: Active; present with the party
+- Recent actions: Offered to find a fence for the pelts; described as an "ex-bandit"
+- Faction: Independent (formerly associated with banditry)
+- Motivations/Secrets: Swore the pelt money would not be "blood money"; Vukradin was not convinced
 
-**Alphonse "Big Al" Kalazorn**
-- Current location: Remote camp (sent to safety with Petunia)
-- Current state: Freed, alive, reunited with cow
-- Recent actions: Was held captive in the Butterskull Ranch cellar with a burlap sack over his head; informed party of the sequence of events at the ranch; offered mithril chainmail as reward for recovering Petunia
-- Faction: None (civilian)
-- Background: Retired veteran; former Sheriff of Triboar, predecessor to Darathra; purchased mithril chainmail legally during his career
-- Motivations: Deeply attached to his cow Petunia; considers her his prized possession
+**Ser Kaelen**
+- Current location: Stonehill Tavern
+- Current state: Active; approached Vukradin
+- Recent actions: Asked Vukradin about his work and plans; praised Vukradin's goal; discussed music for the Order of the Gauntlet; responded with frustration when asked about the rightful owner of treasures from a ship
+- Faction: Order of the Gauntlet (implied)
+- Motivations/Secrets: Wants Vukradin to compose music for the Order of the Gauntlet; Vukradin does not trust him; matter of ship treasure ownership appears unresolved or complicated
 
-**Borg the Hammer**
-- Current location: Departed Butterskull Ranch in an undisclosed direction (opposite to the ogres)
-- Current state: Active, mobile, enraged
-- Recent actions: Led the rot-tusk ogre seizure of Butterskull Ranch; kept Big Al alive as bait; executed the fleeing bandit (Bandit Number 4) for failing to spring the trap; burned the farmhouse, cornfields, and gardens; split forces by sending three ogres in the opposite direction before departing himself
-- Faction: The Carver's organization (enforcer/lieutenant)
-- Description: Large half-orc, wears chainmail, carries a shield
-- Motivations: Frustrated that the party avoided his trap; directed by the Carver to ambush adventurers at the ranch
+**Linene Graywind**
+- Current location: Lionshield Coster
+- Current state: Active; manager of the Lionshield Coster
+- Recent actions: Purchased pelts from the party for more than twice Barthen's offer; asked extensive questions about where and how the pelts were found; said her bosses would be very interested in the planar effect; asked whether Vukradin and Valphine would perform that evening
+- Faction: Lionshield Coster
+- Motivations/Secrets: Has knowledge of an interplanar shipping device in Neverwinter that stopped working; her bosses have an interest in planar phenomena related to the pelts; age given as approximately 35
 
-**Sister Kayla**
-- Current location: Phandalin (presumed)
-- Current state: Unknown, at large
-- Recent actions: Not directly observed; revealed by Skippy to be active as a spy
-- Faction: The Carver's organization
-- Role: Spymaster; runs the Carver's spy network in Phandalin
+**Barthen**
+- Current location: Barthen's Provisions
+- Current state: Active
+- Recent actions: Offered a low price for the party's pelts; did not recognise their full value
+- Faction: Independent merchant
 
-**Petunia**
-- Current location: Sent to safety with Big Al
-- Current state: Recovered, alive
-- Recent actions: Located by Soma using Speak with Animals after the pigs were questioned; identified by the stamp "Big Al's Cow"
-- Notes: Big Al's prized cow; her recovery was the condition for the mithril chainmail reward
+**Garaele**
+- Current location: House in main square (referenced only)
+- Current state: Not directly present in this session; location used as landmark
 
-**Darathra**
-- Current location: Triboar (implied)
-- Current state: Current Sheriff of Triboar
-- Notes: Succeeded Big Al Kalazorn as Sheriff of Triboar; mentioned only in passing
+**Spiderman** *(name used in-world)*
+- Current location: Stonehill Tavern
+- Current state: Active (implied)
+- Recent actions: Paying for drinks for the party
+- Faction: Unknown
+- Motivations/Secrets: Vukradin expects "Spiderman" to cover costs; identity and nature not elaborated upon
 
-**Harbin**
-- Current location: Phandalin (implied)
-- Current state: Unknown
-- Notes: Uses a quest board to hire adventurers; the Carver exploited this predictable system to set his trap
+**Meril** *(referenced only)*
+- Current location: Unknown
+- Recent actions: Previously told Soma that the Emerald Enclave protects forests and swamps
+- Faction: Unknown
 
 ---
 
 ## Factions
 
-**The Carver's Organization**
-- Current goals: Eliminating the party (specifically via the Butterskull Ranch ambush); maintaining intelligence operations in Phandalin
-- Recent actions: Positioned four disposable brigands near Conyberry; set a prepared ambush at Butterskull Ranch using Borg the Hammer and rot-tusk ogres; exploited Harbin's quest board to predict adventurer movements; one of their ogres executed for failing the trap
-- Key members: The Carver (leader, whereabouts unknown), Borg the Hammer (half-orc enforcer), Sister Kayla (spymaster in Phandalin), Skippy (captured disposable crew)
-- Relationships: Employs rot-tusk ogres as muscle; uses Phandalin locals (Sister Kayla) for intelligence; views Harbin's quest board system as a predictable exploit
-- Intelligence capability: Described as "boringly predictable" by Skippy — the Carver's knowledge of adventurer behavior comes from systematic exploitation of known patterns, not necessarily active informants alone (though Sister Kayla confirms a spy network exists)
+**Emerald Enclave**
+- Current goals: Preservation of nature; internally divided over whether and how to address growing planar effects
+- Recent actions: Lyra's faction attempted a difficult ritual at the Whispering Grove without authorisation from Enclave superiors; the ritual failed; Adabra's faction had previously enlisted the party to stop Lyra
+- Internal factions: (1) Anti-Interventionist faction (Adabra's group) — believes planar diversity must be respected and that cleansing rituals are acts of violence; claims to have been marginalized and stripped of resources within the Enclave. (2) Interventionist faction (Lyra's group) — believes some planar effects must be actively stopped; performed the ritual at the Whispering Grove
+- Relationships: Both factions are at internal war; calling someone an "interventionist" is considered a serious insult within the Enclave
+- Key members: Adabra, Lyra, Thomas, Marian
 
-**The Party**
-- Current goals: Tracking Borg the Hammer to his source/base; already fulfilled the ranch quest objectives (freed Big Al, recovered Petunia)
-- Recent actions: Defeated four brigands near Conyberry; captured and interrogated Skippy; stealthily approached Butterskull Ranch from the north; rescued Big Al from the cellar; located and secured Petunia; observed Borg burn the ranch and split his forces; decided to follow Borg
-- Key members: Vukradin, Soma, Brewbarry, Corbin, Valphine
-- Internal tensions: Ongoing debate about loot ethics (Corbin wanting to take Skippy's armor); disagreement about handling prisoners; varying attitudes toward violence and destruction
+**Lionshield Coster**
+- Current goals: Acquiring goods; tracking planar phenomena of commercial interest
+- Recent actions: Purchased pelts from the party; expressed strong interest in the planar effects associated with the pelts; noted that an interplanar shipping device in Neverwinter has stopped working
+- Relationships: Unknown relationship to other factions
+- Key members: Linene Graywind (local manager); unnamed bosses with interest in planar matters
 
-**Rot-Tusk Ogres**
-- Current location: Departed Butterskull Ranch in a direction opposite to Borg
-- Current state: Active, three individuals sent away from the ranch by Borg
-- Recent actions: Seized Butterskull Ranch (killing the orcs who had raided it first); held Big Al captive; burned the farm alongside Borg; split off from Borg on his orders
-- Relationships: Working under Borg the Hammer; identified as the same tribe whose members the party previously killed (seeking revenge)
-- Notes: Wear tribal insignia; their presence at the ranch was secondary — orcs raided first, then the rot-tusk ogres arrived and killed the orcs
+**Order of the Gauntlet**
+- Current goals: Unclear; seeking music commission from Vukradin
+- Recent actions: Ser Kaelen approached Vukradin to discuss music for the Order
+- Key members: Ser Kaelen
+
+**Zhentarim**
+- Current goals: Unknown
+- Recent actions: Not directly present this session
+- Relationships: Vukradin explicitly refuses to work with them
+- Key members: None named
 
 ---
 
 ## World Events
 
-- Four of the Carver's disposable brigands were encountered near Conyberry on the road toward Butterskull Ranch
-- Corbin attempted to parley with the brigands and failed; they drew weapons
-- Soma transformed into a Brown Bear and killed one bandit; Brewbarry enlarged himself and killed a second; Vukradin put a third to sleep; a fourth bandit fled and was not pursued
-- The sleeping bandit (Skippy) was captured, tied up, and interrogated by Vukradin
-- Skippy revealed the Butterskull Ranch trap, Borg the Hammer's role as ambush leader, the Carver's exploitation of Harbin's quest board, and Sister Kayla's identity as spymaster
-- Corbin was left behind at a remote camp to guard Skippy; Vukradin warned him Skippy must be alive on return
-- The party bypassed the main trail and approached Butterskull Ranch from the north
-- Dead bodies of both orcs and humans were found scattered near the ranch outbuildings, already fly-swarmed; the orc bodies showed large ripping wounds
-- Vukradin descended into the ranch cellar alone and found Big Al Kalazorn tied to a chair with a burlap sack over his head
-- Vukradin freed Big Al; Big Al explained that orcs raided first, then rot-tusk ogres led by Borg arrived, killed the orcs, and seized the property
-- Big Al revealed he had been kept alive deliberately as bait for adventurers
-- Big Al refused to leave without his cow Petunia; he offered mithril chainmail as reward for her recovery
-- Vukradin confirmed Big Al's chainmail was legitimately purchased; accepted the deal
-- Big Al was escorted to the remote camp where Corbin was stationed
-- Soma used Speak with Animals to question the pigs; Petunia was located and identified by the stamp "Big Al's Cow"; Petunia was secured and sent to safety with Big Al
-- The party took up a vantage point on a hill approximately 250 feet from the farmhouse to observe
-- The fleeing fourth bandit (Bandit Number 4) returned to Borg and reported the trap's failure
-- Borg executed Bandit Number 4 for the failure
-- Borg and the rot-tusk ogres deliberately burned the Butterskull Ranch farmhouse, cornfields, and gardens
-- Borg sent the three rot-tusk ogres in one direction and departed himself in the opposite direction, splitting his forces
-- The party decided to follow Borg rather than pursue the ogres or attempt to save the farm
+- The party returned to the main square of the settlement after the events at the Whispering Grove ritual site.
+- Lyra and her surviving agents arrived at the main square at the same time as the party.
+- Soma confronted Adabra publicly in the main square over being manipulated.
+- Adabra accused Lyra's group of being "Interventionists" and condemned their ritual as an act of violence against nature.
+- Soma revealed to Adabra that the party had saved the Interventionists rather than stopping them.
+- Vukradin told Adabra the Treant was in "stable condition," concealing its death.
+- Lyra accused Adabra of fanaticism and departed the confrontation.
+- One of Lyra's unnamed agents agreed to return for a drink later if Vukradin was buying.
+- Vukradin told Adabra the party "didn't intervene" with the creature at the planar tear; Adabra identified the creature as a "planar magpie" drawn to the energy — a symptom, not a cause.
+- Adabra paid Vukradin five gold pieces.
+- Adabra delivered a lengthy speech about planar universalism that Soma later described as meaningless.
+- The party attempted to sell pelts at Barthen's Provisions; Barthen offered a low price.
+- The party sold the pelts at the Lionshield Coster to Linene Graywind for more than twice Barthen's offer.
+- Vukradin truthfully answered Linene's questions about where and how the pelts were found.
+- Linene stated her bosses would be very interested in the planar effect associated with the pelts.
+- Linene asked Vukradin and Valphine to perform that evening.
+- The party performed a music set at the Stonehill Tavern; the performance was received well but less successfully than their previous set.
+- Thomas, Marian, and other Emerald Enclave agents joined the party at the Stonehill Tavern at Vukradin's invitation.
+- Thomas and Marian explained Lyra's motivations: she acted without authorisation, hoped to stop the growing planar effects, had personal affection for the Whispering Grove, and sought advancement within the Enclave.
+- Thomas confirmed the Enclave was paralyzed by internal argument over whether to act on planar effects at all.
+- Valphine revealed her origins in Menzoberanzan and her conversion to Lathander worship to Thomas and Marian.
+- Valphine confirmed she practices self-harm as religious worship; Thomas and Marian were disturbed by this.
+- Thomas and Marian departed and declined Vukradin's offer to join the group, citing their oath to the Emerald Enclave.
+- Ser Kaelen approached Vukradin at the Stonehill Tavern and discussed music for the Order of the Gauntlet and the matter of ship treasure ownership.
 
 ---
 
 ## Locations
 
-**Conyberry (road near)**
-- What it is: Road location near the town of Conyberry
-- What happened: Site of the encounter with four of the Carver's brigands; one killed by Soma, one killed by Brewbarry, one captured (Skippy), one fled
-- Current state: No ongoing activity noted
+**Main Square (unnamed settlement)**
+- What it is: Central gathering area of the settlement
+- Features: Contains Garaele's house, the Shrine of Luck, and Adabra's temporary shop
+- What happened here: Confrontation between Adabra, the party, and Lyra; Adabra paid Vukradin five gold pieces
 
-**Butterskull Ranch**
-- What it is: A working ranch owned and operated by Big Al Kalazorn; known for its butter skulls (peculiar skulls made of butter, stored in the cellar)
-- What happened: Raided first by orcs, then seized by rot-tusk ogres under Borg the Hammer; Big Al held captive in the cellar as bait; farmhouse, cornfields, and gardens burned by Borg after the ambush failed
-- Current state: Destroyed — farmhouse and fields burned; Big Al and Petunia removed to safety; Borg and ogres have departed
+**Shrine of Luck**
+- What it is: Religious shrine in the main square
+- Current state: Present; used as a landmark; no events occurred here this session
 
-**Butterskull Ranch Cellar**
-- What it is: Underground storage space beneath the farmhouse
-- What happened: Big Al was held here, tied to a chair with a burlap sack over his head; shelves of butter skulls observed
-- Current state: Presumably destroyed along with the farmhouse
+**Garaele's House**
+- What it is: Residence of Garaele in the main square
+- Current state: Present; used as a landmark; Garaele not present in this session
 
-**Remote Camp (north of ranch)**
-- What it is: A concealed camp used by the party as a staging point
-- What happened: Skippy held here under Corbin's guard; Big Al and Petunia brought here after rescue
-- Current state: Corbin stationed here with Skippy and presumably Big Al and Petunia
+**Barthen's Provisions**
+- What it is: Merchant shop in the settlement
+- What happened here: Party attempted to sell pelts; Barthen offered a low price; party declined and went elsewhere
 
-**Phandalin**
-- What it is: Town; base of operations for the party and location of Harbin's quest board
-- What happened: Not visited this session; identified as the location of Sister Kayla's spy network and Harbin's quest board operation
-- Current state: Sister Kayla is active here as the Carver's spymaster
+**Lionshield Coster**
+- What it is: Merchant operation in the settlement; managed by Linene Graywind; connected to unnamed bosses with broader commercial interests
+- What happened here: Party sold pelts for more than twice Barthen's offer; Linene asked extensive questions about the planar effects; mentioned an interplanar shipping device in Neverwinter that stopped working
+- Current state: Active
 
-**Triboar**
-- What it is: Town; Big Al's former place of service
-- Notes: Big Al was formerly Sheriff here; succeeded by Darathra; he purchased his mithril chainmail during this period
+**Stonehill Tavern**
+- What it is: Tavern in the settlement; regular venue for the party's performances
+- What happened here: Party performed a music set; Emerald Enclave agents (Thomas, Marian, and others) joined them; Ser Kaelen approached Vukradin; Spiderman paid for drinks
+- Current state: Active
+
+**Whispering Grove** *(referenced, not visited this session)*
+- What it is: A grove with significance to Lyra and the Emerald Enclave; site of the failed ritual
+- Current state: The Treant there is dead; a planar tear or rift is present but was not sealed; the creature ("planar magpie") was at or near the site
+
+**Neverwinter** *(referenced only)*
+- What it is: City; location of an interplanar shipping device
+- Current state: The interplanar device has stopped working, according to Valphine's recollection of something she read there
+
+**Menzoberanzan** *(referenced only)*
+- What it is: Drow city in the Underdark; Valphine's place of origin
+- Current state: Was threatened by a minor demon incursion of sufficient scale to potentially level the city; Valphine departed because of this
 
 ---
 
 ## Threads & Mysteries
 
-- **Borg the Hammer's destination**: Borg split from the rot-tusk ogres and departed in an unknown direction; the party is now following him; his destination may lead to the Carver or another base of operations
-- **The Carver's location**: Skippy did not know where the Carver is; his whereabouts remain entirely unknown
-- **Sister Kayla**: Identified as the Carver's spymaster running a spy network in Phandalin; she has not been confronted or exposed; the party's knowledge of her identity is currently unshared with anyone in Phandalin
-- **The rot-tusk ogres**: Three ogres were sent in a direction opposite Borg; their destination and purpose are unknown; they belong to the same tribe the party previously killed members of and are described as seeking revenge
-- **Corbin and Skippy**: Corbin displayed apparent desire for revenge against Skippy; Vukradin warned Skippy must be alive on return; Skippy's fate is uncertain
-- **The Carver's broader plan**: The ranch ambush was one operation; the scope and ultimate goal of the Carver's activities remain unknown
-- **Harbin's quest board as a vulnerability**: The Carver has demonstrated he can exploit Harbin's predictable use of the quest board to funnel adventurers into traps; this structural vulnerability has not been addressed
-- **Vukradin's music studio**: Referenced as a personal goal Vukradin is working toward financially; no progress made this session
-- **"The Overbright"**: Valphine references "the strange, glorious discomfort of the Overbright"; this term is unexplained and its nature or significance is unestablished
-- **Previous ogre killings**: The rot-tusk ogres are identified as being from the same tribe the party killed members of previously; the nature and circumstances of those earlier killings are not detailed in this session but represent a standing grudge
+- **The Treant's death is concealed from Adabra.** Adabra believes the Treant is in "stable condition." The consequences of her learning the truth are unresolved.
+- **The planar rift at the Whispering Grove was not sealed.** The planar effects that motivated both Adabra and Lyra remain active. No plan to address them has been established.
+- **The growing planar effects have no identified cause or solution.** Lyra believed this ritual was the source; it was not, or at least the ritual failed to stop them. The actual origin of the planar effects is unknown.
+- **The "planar magpie" creature.** Adabra identified it as a symptom drawn to planar energy, not a cause. Its current status and any further significance are unresolved.
+- **Lionshield Coster's bosses have interest in the planar effects.** Their identity, goals, and the nature of that interest are unknown. The interplanar shipping device in Neverwinter that stopped working may be connected to the planar events.
+- **The interplanar shipping device in Neverwinter has stopped working.** Its failure may be connected to the planar effects. No investigation has begun.
+- **The Emerald Enclave's internal schism is unresolved.** The Interventionist vs. anti-Interventionist conflict continues. Lyra's unauthorized action and its failure may have further consequences within the Enclave hierarchy.
+- **Lyra's fate within the Emerald Enclave is uncertain.** She acted without authorisation; her superiors have not yet responded to the ritual's failure.
+- **Ship treasure ownership is unresolved.** Ser Kaelen was asked about the rightful owner of treasures recovered from a ship and gave a frustrated non-answer. The matter remains open.
+- **Ser Kaelen's trustworthiness is in question.** Vukradin does not trust him; his full agenda regarding the party and the Order of the Gauntlet is unclear.
+- **Lyra's unnamed agent agreed to return for drinks later.** Whether this follow-up meeting occurs and what it might yield is unresolved.
+- **Menzoberanzan's demon incursion.** Valphine left the city due to a minor demon incursion threatening to level it. Its current status is unknown.
+- **"Spiderman" is paying for the party's expenses.** The identity, nature, and motivations of this patron are not elaborated upon.
+- **Meril** told Soma about the Emerald Enclave previously. Meril's identity, location, and relationship to the party are not established in this session.

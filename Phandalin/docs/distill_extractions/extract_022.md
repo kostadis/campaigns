@@ -1,275 +1,200 @@
 ## NPCs
 
-**Valphine**
-- Current location: Phandalin (last noted)
-- Current state: Active, magically capable
-- Recent actions: Healed party during battle at Woodland Manse; carried by Soma during retreat; delivered sermon at reconstructed church leading congregation into religious ecstasy; placed severed Kraken Society cultist head on a pike outside church; negotiated with Zeleen Varnaster
-- Faction: Lathander clergy (implied)
-- Notes: Her sermon was misinterpreted, accidentally creating a new sacrament of voluntary blinding and divine healing. Is a drow, which provoked hostility from the wererats.
-
-**Soma**
-- Current location: Phandalin (last noted)
-- Current state: Active; struck by lightning during combat
-- Recent actions: Struck by Anchorite lightning at Woodland Manse; carried Valphine during retreat; expressed finality regarding Adabra
-- Faction: Party
-
 **Vukradin**
-- Current location: Mountain's Toe Gold Mine area (last noted)
-- Current state: Active; struck by lightning during combat
-- Recent actions: Advocated for tactical retreat at Woodland Manse; called council meeting in Phandalin; noticed Kraken Society association in Don-Jon's consortium; persuaded Don-Jon to accept wererat co-habitation arrangement at mine
+- Current location: Travelling toward Phandalin/Falcon's Lodge
+- Current state: Active, uninjured (post-combat)
+- Recent actions: Debated Shrimpy's fate; persuaded Teega briefly during encounter; raged and attempted to strike Cult Fanatic in combat
 - Faction: Party
-- Notes: Has a financial interest in the gold mine.
+- Motivations/Secrets: Wants to open his own studio; has inadvertently developed a public reputation as a noble adventurer after saving a town from a dragon and advocating for fair wages
 
 **Brewbarry**
-- Current location: Mountain's Toe Gold Mine area (last noted)
-- Current state: Active; capable of giant form
-- Recent actions: Carried Vukradin to safety during retreat in giant form; expressed displeasure at Shrimpy's behavior
+- Current location: Travelling toward Falcon's Lodge
+- Current state: Out of ale; was mentally compelled to flee during combat but broke free
+- Recent actions: Consumed fermentable mushrooms during wilderness travel; was subjected to the Cult Fanatic's mind control; delivered the non-lethal finishing blow on the Cult Fanatic; maintained the Cult Fanatic's sedation during transport; ran out of ale
+- Faction: Party
+- Motivations: Wants more alcohol; insisted on detour to Falcon's Lodge
+
+**Soma**
+- Current location: Travelling toward Falcon's Lodge
+- Current state: Active
+- Recent actions: Transformed into a bear and charged the Cult Fanatic; tracked and subdued Teega the Smith in the wilderness; brought Teega back to the group
 - Faction: Party
 
+**Valphine**
+- Current location: Travelling toward Falcon's Lodge
+- Current state: Active
+- Recent actions: Channeled healing energy during combat; executed the Cult Fanatic after he was handed over to the Talosian orcs
+- Faction: Party
+
+**Lyra**
+- Current location: Unknown (not present)
+- Current state: Low-ranking Emerald Enclave member
+- Recent actions: Sent the party to rescue the missing patrol; the party planned to credit the rescue's success to her to boost her standing
+- Faction: Emerald Enclave
+- Motivations/Secrets: Previously saved by the party; being cultivated as a valuable ally
+
 **Shrimpy**
-- Current location: Phandalin (delivered to Town Master)
-- Current state: Detained/handed over to authorities
-- Recent actions: Attempted to argue the party was dead and pressured Corbin to release him while waiting at the clearing; delivered to Town Master Harbin Wester by the party
-- Faction: Unknown/antagonist
+- Current location: Being transported to Phandalin
+- Current state: Prisoner; desperately wants to be released
+- Recent actions: Argued for his release; the party decided to transport him to Phandalin for imprisonment
+- Faction: Unknown
 
-**Corbin**
-- Current location: Was waiting at clearing near Woodland Manse path; later Phandalin (implied)
-- Current state: Active
-- Recent actions: Was minding Shrimpy at the clearing; subject of Shrimpy's attempted manipulation
-- Faction: Party-adjacent
-
-**Harbin Wester**
-- Current location: Phandalin
-- Current state: Active; Town Master
-- Recent actions: Received Shrimpy from the party at the council meeting
-- Faction: Phandalin town council
-
-**Ser Kaelen**
-- Current location: Phandalin
-- Current state: Active
-- Recent actions: Expressed concern about the Kraken Society at the council meeting; revealed that Candlekeep research identified original owners of a magical item found on ships; emphasized cost of the research to the Order; promised rewards for returning the items
-- Faction: Order of the Gauntlet
-- Motivations: Strengthening the Order's relationship with Vukradin; genuine concern about the Kraken Society and suspected psionic creatures involved
-
-**Jenna Roscoe**
-- Current location: Phandalin
-- Current state: Active; council member
-- Recent actions: Dismissed the Kraken Society as a harmless social club for wealthy elites at the council meeting
-- Faction: Lords' Alliance
-- Secrets: Valphine sensed she knew more about the Kraken Society than she revealed
-
-**Adabra**
-- Current location: Unknown (stormed out of council meeting)
-- Current state: Furious; estranged from party
-- Recent actions: Became enraged upon learning of the party's intervention against the Kraken cult; declared their actions a temporal violation and planar distortion; cited Emerald Enclave members' cult involvement as proof interventionists are wrong; stormed out of the meeting
-- Faction: Unknown/philosophical non-interventionist
-- Motivations: Believes intervention in certain events causes cascading catastrophic multiverse consequences; holds extreme non-interventionist views
-- Notes: Party concluded her positions are wrong and that this will not be the last encounter with her.
-
-**Brin**
-- Current location: Phandalin, reconstructed church
-- Current state: Active; church reconstruction worker
-- Recent actions: Expressed ecstasy at developments during Valphine's sermon and the new sacrament
-- Faction: Church of Lathander (implied)
-
-**Giles**
-- Current location: Phandalin, reconstructed church
-- Current state: Active; church reconstruction worker
-- Recent actions: Expressed ecstasy at developments during Valphine's sermon and the new sacrament
-- Faction: Church of Lathander (implied)
+**Tibor**
+- Current location: Loggers Camp
+- Current state: Active; in charge of the camp
+- Recent actions: Refused to take Shrimpy to Neverwinter
+- Faction: Logger's Camp (chief)
 
 **Teega the Smith**
-- Current location: Phandalin, observed church proceedings
-- Current state: Active; outwardly disturbed but inwardly conflicted
-- Recent actions: Observed Valphine's sermon and the pain/redemption offer; appeared disturbed and strangely conflicted
-- Faction: Kraken Society (member)
-- Notes: Potential vulnerability to religious conversion or manipulation given conflicted reaction.
+- Current location: With the party, travelling toward Falcon's Lodge
+- Current state: Freed from mind control after Cult Fanatic's death; mind still reeling
+- Recent actions: Stood rigidly by the riverbank in a mind-controlled state; spoke in monotone about metal bending, minds being cleansed, and waves seeking uniformity; drew a spiral symbol in the mud; briefly regained clarity when persuaded by Vukradin; wandered into the glade; was tracked by Soma, subdued, and returned to the group; recovered when the Cult Fanatic died
+- Faction: Unknown (possibly connected to the Emerald Enclave patrol area)
+- Motivations/Secrets: Was under Kraken Society/Cult Fanatic mind control
 
-**Don-Jon Raskin**
-- Current location: Mountain's Toe Gold Mine
-- Current state: Active; newly appointed mine overseer
-- Recent actions: Regaled the tavern with tall tales of past exploits; revealed he is the new overseer for Mountain's Toe Gold Mine hired by a Neverwinter consortium; admitted ignorance of the mine itself; required by employers to hire an escort; accompanied party to mine; helped defuse initial tensions with wererats; was persuaded by Vukradin to accept wererat co-habitation arrangement
-- Faction: Neverwinter consortium (employed by); consortium has at least one Kraken Society-affiliated member
-- Motivations: Boastful self-promotion; fulfilling his employment obligations
-- Notes: Previously attended a barbarian tribe's party believing he was accepted as a member; the party recognizes he was regarded as an idiot by the tribe.
+**The Cult Fanatic**
+- Current location: Deceased; head taken by Talosian orcs
+- Current state: Dead (executed by Valphine)
+- Recent actions: Commanded three mind-controlled Emerald Enclave warriors in the glade; attempted to mind-control Brewbarry; offered the party a chance to submit; muttered vague warnings about rising tides when briefly conscious; could control minions even while unconscious; was handed over to the Talosian orcs and executed
+- Faction: Kraken Society
+- Motivations/Secrets: Spoke of a "rising current flowing toward Neverwinter"; considered party interference as meddling with "necessary adjustments"; forced the Emerald Enclave patrol to steal an inscription about a drowned gate beneath Yllyn in the Underdark; carried a black coral dagger; wore spiral emblem
 
-**Zeleen Varnaster**
-- Current location: Mountain's Toe Gold Mine
-- Current state: Active; leader of the Whiskered Gang
-- Recent actions: Met with the party inside the mine; explained her gang was displaced from the Shrine of Savras by orcs and ogres; proposed a deal for the party to clear the shrine in exchange for the wererats vacating the mine; refused to commit meaningful warriors to reclaiming her own home; reacted with offense to cheese negotiation before admitting interest in Butterskull Ranch cheese; agreed to the cheese-for-labor arrangement
-- Faction: Whiskered Gang (leader)
-- Secrets: Valphine sensed the wererats are lying about their intentions and likely intend to keep the mine regardless of the deal.
+**The Emerald Enclave Patrol Members (three unnamed + one named as member of Lyra's old crew)**
+- Current location: With the party, travelling toward Falcon's Lodge
+- Current state: Freed from mind control after Cult Fanatic's death; minds still reeling
+- Recent actions: Were mind-controlled by the Cult Fanatic; attacked the party with "devastating precision" while controlled; collapsed and screamed when the Cult Fanatic fell unconscious; recovered after his death; described the sensation of mind control; revealed they had been forced to steal an inscription about a drowned gate beneath Yllyn
+- Faction: Emerald Enclave
+
+**The Anchorite Half-Orc (Cleric of Talos)**
+- Current location: Forest (location of ambush)
+- Current state: Active
+- Recent actions: Identified himself during the ambush; declared the Cult Fanatic "one more obstacle crushed by Talos"; warned the party to leave the forest
+- Faction: Talos worshippers / Talosian orcs
+
+**Joe**
+- Current location: Not present (referenced)
+- Current state: Unknown
+- Recent actions: His notebook provided directions to the Emerald Enclave meeting point
+- Faction: Unknown
 
 ---
 
 ## Factions
 
-**Cult of Talos**
-- Current goals: Unknown broader goals; occupying the Woodland Manse
-- Recent actions: Attacked the party at the Woodland Manse with lightning; deployed Anchorites in shapeshifted forms (wild bull, shapeshifting cultist); emerged in force from the house and surrounding area
-- Key members: At least two Anchorites (shapeshifters); unnamed cultists
-- Notes: Anchorites demonstrated ability to shapeshift and wield devastating lightning magic. Some Emerald Enclave members were revealed to be involved with this cult.
+**The Kraken Society**
+- Current goals: Mind-controlling individuals; acquiring an inscription about a drowned gate beneath Yllyn in the Underdark; spreading influence toward Neverwinter ("a rising current flowing toward Neverwinter")
+- Recent actions: Deployed a Cult Fanatic and mind-controlled Emerald Enclave patrol members; forced the patrol to steal an inscription speaking of a drowned gate beneath Yllyn
+- Relationships: Enemies of the Talosian orcs; antagonists to the party and the Emerald Enclave
+- Key members: The Cult Fanatic (now deceased); members identified by green cloaks, gold badges, and spiral emblems
 
-**Emerald Enclave**
-- Current goals: Unknown
-- Recent actions: Party retrieved Emerald Enclave fighters from the Falcon Hunter after retreating from the Woodland Manse; some members revealed to have been involved with the Kraken cult (cited by Adabra)
-- Relationships: Adabra used their cult involvement as ideological ammunition against interventionism
-- Notes: Internal corruption suspected given cult infiltration.
+**The Emerald Enclave**
+- Current goals: Patrol and protect the wilderness; recovering from the mind-control incident
+- Recent actions: A patrol went missing and was found mind-controlled by the Kraken Society; the patrol was forced to steal an inscription about a drowned gate; patrol was rescued after the Cult Fanatic's death
+- Relationships: Allied with the party (through Lyra); opposed by the Kraken Society
+- Key members: Lyra (low-ranking; being cultivated as ally); three named patrol warriors; one patrol member from Lyra's old crew
 
-**Order of the Gauntlet**
-- Current goals: Monitoring and countering the Kraken Society; building relationship with the party
-- Recent actions: Commissioned Candlekeep research to identify original owners of magical items found on ships; Ser Kaelen reported findings to party at council meeting
-- Relationships: Suspicious of the Kraken Society; working relationship with party
-- Key members: Ser Kaelen
-
-**Lords' Alliance**
-- Current goals: Unknown
-- Recent actions: Jenna Roscoe dismissed Kraken Society concerns at council meeting
-- Relationships: Publicly dismissive of Kraken Society threat
-- Key members: Jenna Roscoe
-- Notes: Roscoe's dismissal appears to conceal deeper knowledge.
-
-**Kraken Society (Cult of the Kraken)**
-- Current goals: Unknown
-- Recent actions: Members present in Phandalin (Teega the Smith); associated individual(s) found in Don-Jon's hiring consortium from Neverwinter; cultist head displayed on pike outside church by Valphine
-- Relationships: Has infiltrated Neverwinter business consortiums; has members in Phandalin; Lords' Alliance member Jenna Roscoe appears to have knowledge of them
-- Key members: Teega the Smith; at least one unnamed Neverwinter consortium member
-- Notes: Ser Kaelen suspects involvement of powerful psionic creatures. Jenna Roscoe publicly calls them a harmless social club for wealthy elites.
-
-**Whiskered Gang**
-- Current goals: Claimed goal is to reclaim Shrine of Savras; actual intentions suspected to include retaining the mine regardless of deal
-- Recent actions: Occupied Mountain's Toe Gold Mine after being displaced from Shrine of Savras; confronted the party at the mine entrance in hybrid wererat form; invited party to negotiate with Zeleen; agreed to the cheese-for-labor arrangement
-- Relationships: Displaced by orcs and ogres (including tribe previously angered by the party) at Shrine of Savras; now in agreement with party and Don-Jon regarding mine operation
-- Key members: Zeleen Varnaster (leader); at least two wererat warriors (hybrid form guards)
-
-**Neverwinter Consortium (unnamed)**
-- Current goals: Operating the Mountain's Toe Gold Mine
-- Recent actions: Hired Don-Jon Raskin as mine overseer; required him to hire an escort
-- Relationships: Has at least one Kraken Society-affiliated member
-- Key members: Don-Jon Raskin (hired overseer); at least one unnamed Kraken Society associate
-
-**Phandalin Town Council**
-- Current goals: Governing Phandalin; receiving intelligence from adventurers
-- Recent actions: Received party's report on Cult of Talos at Woodland Manse; took custody of Shrimpy; heard conflicting views on Kraken Society
-- Key members: Harbin Wester (Town Master), Ser Kaelen, Jenna Roscoe, Adabra
+**Talosian Orcs**
+- Current goals: Killing enemies of Talos; controlling their forest territory
+- Recent actions: Ambushed the party on the second day of travel; demanded the Cult Fanatic; identified him as their enemy; accepted his head as proof of death; warned the party to leave their forest
+- Relationships: Hostile to the Kraken Society; wary of the party's strength; include a drow among their ranks
+- Key members: An anchorite half-orc cleric of Talos
 
 ---
 
 ## World Events
 
-- The party was attacked at the Woodland Manse by a shapeshifting Talos cultist who used devastating lightning magic.
-- A second Anchorite disguised as a wild bull struck Soma and Vukradin with electrical bolts.
-- Additional cultists emerged from the house and surrounding area, outnumbering the party.
-- The party made a tactical decision to retreat from the Woodland Manse.
-- Brewbarry carried Vukradin to safety in giant form; Soma carried Valphine during the retreat.
-- The talking boars expressed disappointment that the party had not dealt with the impostors violating boar culture.
-- At the clearing, the party overheard Shrimpy arguing to Corbin that the party must be dead and that he should be released.
-- Brewbarry and Valphine expressed displeasure at Shrimpy's behavior.
-- The party retrieved Emerald Enclave fighters from the Falcon Hunter.
-- The party traveled south to the forest edge near Conyberry, then west along the Triboar Trail toward Phandalin, covering nearly thirty miles before resting.
-- After resting to restore strength and magic, the party continued to Phandalin.
-- Vukradin called a council meeting and the party reported on the Cult of Talos at the Woodland Manse and described the shapeshifting orc lightning-wielders.
-- Shrimpy was delivered to Town Master Harbin Wester.
-- Most council members were unfamiliar with the Cult of the Kraken; Ser Kaelen expressed concern and mentioned suspected psionic creatures; Jenna Roscoe dismissed them as a harmless social club.
-- Valphine sensed Jenna Roscoe knew more than she revealed about the Kraken Society.
-- Adabra became furiously enraged upon learning of the party's interference with the Kraken cult, declaring it a temporal violation and planar distortion.
-- Adabra cited Emerald Enclave members' cult involvement as proof that interventionists are wrong, then stormed out of the council meeting.
-- The party concluded Adabra's extreme positions are wrong and that further confrontations with her are likely.
-- Ser Kaelen revealed that Candlekeep research identified the original owners of a magical item previously found on ships, emphasizing the cost to the Order of the Gauntlet.
-- Valphine delivered a sermon at the partially reconstructed church, leading the congregation into religious ecstasy.
-- Congregants misinterpreted the sermon as instruction to stare at the sun until blinded to prove worthiness.
-- Valphine cured the blindness with divine magic, inadvertently creating a new church sacrament of voluntary blinding and divine healing.
-- Valphine placed the severed head of a Kraken Society cultist on a pike outside the church as a warning.
-- Brin and Giles reacted with ecstasy to the new sacramental developments.
-- Teega the Smith observed the church proceedings and appeared disturbed but strangely conflicted by the offer of pain and redemption.
-- The party encountered Don-Jon Raskin at the tavern, who told tall tales of his past and revealed himself as the new overseer of Mountain's Toe Gold Mine.
-- Vukradin noted that Don-Jon's hiring consortium from Neverwinter included at least one person associated with the Kraken Society.
-- The party agreed to escort Don-Jon to the Mountain's Toe Gold Mine.
-- Within five miles of the mine, the party discovered six dead orcs killed by extreme cold, indicating the white dragon's presence in the area.
-- The dead orcs were confirmed to not be Talosians.
-- The party arrived at the Mountain's Toe Gold Mine entrance and were confronted by two wererats in hybrid form claiming ownership.
-- The wererats reacted with hostility toward Valphine for being a drow.
-- Don-Jon's friendly demeanor helped defuse initial tensions.
-- The wererats invited the party to meet their leadership deeper in the mine, guaranteeing safety.
-- The party met Zeleen Varnaster, who explained the Whiskered Gang was displaced from the Shrine of Savras by approximately sixteen orcs and several ogres, some from a tribe previously angered by the party.
-- Zeleen proposed the party clear the Shrine of Savras of orcs in exchange for the wererats vacating the mine; she refused meaningful personal participation and offered only two warriors if pressed.
-- Valphine attempted to negotiate a cheese-for-labor arrangement; Zeleen found it offensive but eventually admitted interest in cheese from Butterskull Ranch.
-- Valphine sensed the wererats were lying and likely intended to keep the mine regardless of any deal.
-- Don-Jon initially rejected co-habitation of the mine but was persuaded by Vukradin to accept the arrangement.
-- A deal was struck: the wererats would work the mine and live in part of it in exchange for regular cheese shipments from Butterskull Ranch.
-- The sixteen orcs and ogres at the Shrine of Savras were left undisturbed.
+- The party gathered at the Loggers Camp and debated their next moves, including what to do with the prisoner Shrimpy.
+- The party decided to transport Shrimpy to Phandalin for imprisonment after Tibor refused to take him to Neverwinter.
+- The party planned to credit the Emerald Enclave rescue to Lyra in order to boost her standing within the faction.
+- After a long rest, the party used Joe's notebook for directions and set off through the wilderness toward the Emerald Enclave meeting point.
+- Brewbarry consumed fermentable mushrooms during the journey and entered an altered state of consciousness.
+- The party arrived at a riverbank where an unnatural dense fog covered the eastern shore.
+- Teega the Smith was found standing rigidly at the riverbank in a mind-controlled state, speaking in monotone about metal bending, minds being cleansed, and waves seeking uniformity.
+- Teega drew a spiral symbol in the mud and briefly regained clarity when persuaded by Vukradin before glazing over again and wandering into a nearby glade.
+- The party crossed the river and experienced a strange tingling in their minds, with sounds echoing oddly and light flickering — reminiscent of a planar anomaly previously encountered.
+- The party discovered the missing Emerald Enclave patrol in the glade, mind-controlled by a Cult Fanatic wielding a black coral dagger.
+- The Cult Fanatic informed the party they were interfering with "necessary adjustments," spoke of a rising current toward Neverwinter, and offered them a chance to submit; they refused.
+- Combat began; the Cult Fanatic compelled Brewbarry to flee via mind control.
+- Soma transformed into a bear and charged the Cult Fanatic.
+- Valphine channeled healing energy during the battle.
+- Brewbarry broke free from mental compulsion and knocked the Cult Fanatic unconscious with a non-lethal strike.
+- The three mind-controlled warriors collapsed and screamed in agony when the Cult Fanatic fell unconscious.
+- The party secured all prisoners; green cloaks and gold badges bearing the spiral symbol were found on the captured warriors.
+- The party discovered the Cult Fanatic could control his minions even while unconscious, causing them to move robotically toward him.
+- Soma tracked Teega the Smith in bear form, subdued her, and returned her to the group.
+- The party experimented with separating prisoners and using restorative magic but could not break the mind control while the Cult Fanatic lived.
+- The party decided to keep the Cult Fanatic sedated for the journey back, with Brewbarry responsible for maintaining sedation.
+- Brief interrogation of the Cult Fanatic yielded only vague warnings about rising tides; he refused to betray his cause.
+- The party identified the prisoners' faction as the Kraken Society based on their spiral emblems.
+- On the second day of travel, a large Talosian orc raiding party ambushed the group, demanding the Cult Fanatic and identifying him as their enemy.
+- The party negotiated with the orcs, noting the orcs' wariness of their strength and the presence of a drow among the raiding party.
+- The party agreed to hand over the Cult Fanatic in exchange for safe passage.
+- The Cult Fanatic was given a final chance to speak; he dismissed the conflict as a petty squabble.
+- Valphine executed the Cult Fanatic; the orcs took his head as proof of victory.
+- The anchorite half-orc cleric of Talos declared the Cult Fanatic "one more obstacle crushed by Talos" and warned the party to leave the forest.
+- With the Cult Fanatic dead, all mind-controlled individuals (Emerald Enclave patrol and Teega) awoke, though their minds were still reeling.
+- One patrol member confirmed Lyra had sent the party to rescue them.
+- The patrol members revealed they had been forced to steal an inscription speaking of a drowned gate beneath Yllyn, deep in the Underdark.
+- Brewbarry ran out of ale and insisted on a detour to the Falcon's Lodge, approximately five miles away; the party agreed.
 
 ---
 
 ## Locations
 
-**Woodland Manse**
-- What it is: A manse in a woodland area, occupied by the Cult of Talos
-- What happened there: The party was attacked by shapeshifting Anchorites and cultists wielding lightning; the party retreated
-- Current state: Occupied by Cult of Talos cultists; impostors present who are violating boar culture according to local talking boars
+**Loggers Camp**
+- What it is: A logging settlement; base of operations at the start of this chapter
+- What happened: Party gathered here, debated Shrimpy's fate, and planned the Emerald Enclave rescue
+- Current state: Active; Tibor remains as chief
 
-**The Falcon Hunter**
-- What it is: A location (implied vessel or outpost) where Emerald Enclave fighters were stationed
-- What happened there: Party retrieved Emerald Enclave fighters after retreating from the Woodland Manse
-- Current state: Unknown
+**The Riverbank (unnamed)**
+- What it is: A wilderness riverbank on the route to the Emerald Enclave meeting point
+- What happened: Party found Teega the Smith here in a mind-controlled state; dense unnatural fog covered the eastern shore; Teega drew a spiral symbol in the mud
+- Current state: Fog noted; crossing causes strange mental sensations
 
-**Triboar Trail**
-- What it is: A road/trail running through the region
-- What happened there: Party traveled west along it from near Conyberry toward Phandalin, covering nearly thirty miles
-- Current state: Active travel route
-
-**Conyberry**
-- What it is: A settlement or landmark; forest edge nearby used as a waypoint
-- What happened there: Party emerged from the forest just a few miles east of here after the retreat
-- Current state: Referenced as a geographic landmark
+**The Glade (unnamed)**
+- What it is: A wooded clearing on the eastern side of the river
+- What happened: Site of the confrontation with the Cult Fanatic and the mind-controlled Emerald Enclave patrol; site of the combat encounter; mental anomaly sensations noted upon entry
+- Current state: Combat resolved; prisoners secured here
 
 **Phandalin**
-- What it is: A small trading post/town with a town council
-- What happened there: Party reported to council; Shrimpy was delivered to Harbin Wester; Adabra stormed out of council meeting; Valphine delivered sermon at the church; Don-Jon Raskin encountered at the tavern
-- Current state: Active; church partially reconstructed; new sacrament established; severed cultist head on pike outside church
+- What it is: A town; destination for prisoner transport
+- What happened: Designated as the destination for Shrimpy's imprisonment and potentially the rescued patrol
+- Current state: Referenced only; not visited this chapter
 
-**Reconstructed Church (Phandalin)**
-- What it is: A partially rebuilt church in Phandalin associated with Lathander
-- What happened there: Valphine delivered a sermon causing religious ecstasy; congregants blinded themselves; Valphine healed them, creating a new sacrament; severed Kraken Society cultist head placed on pike outside; Teega the Smith observed and was conflicted
-- Current state: Partially reconstructed; new sacrament active; Brin and Giles working on reconstruction
+**Neverwinter**
+- What it is: A city
+- What happened: Referenced by the Cult Fanatic as the direction of the Kraken Society's "rising current"; Tibor refused to escort Shrimpy there
+- Current state: Referenced only; not visited this chapter
 
-**Mountain's Toe Gold Mine**
-- What it is: A gold mine; entrance marked by a wooden plank carved with its name
-- What happened there: Party arrived with Don-Jon Raskin; confronted by two hybrid wererats; met Zeleen Varnaster; negotiated and struck a cheese-for-labor deal allowing wererats to live and work in part of the mine
-- Current state: Occupied by the Whiskered Gang; deal in place for them to operate the mine in exchange for cheese shipments
+**Yllyn**
+- What it is: A location containing a "drowned gate" deep in the Underdark
+- What happened: The Emerald Enclave patrol was forced by the Kraken Society to steal an inscription about a drowned gate beneath this location
+- Current state: Unknown; not visited; referenced as a significant Kraken Society interest
 
-**Shrine of Savras**
-- What it is: A shrine; former home of the Whiskered Gang
-- What happened there: Approximately sixteen orcs and several ogres (some from a tribe previously angered by the party) displaced the Whiskered Gang
-- Current state: Occupied by orcs and ogres; undisturbed as of the end of this session
+**The Underdark**
+- What it is: Underground realm
+- What happened: Referenced as the location of the drowned gate beneath Yllyn
+- Current state: Referenced only
 
-**Butterskull Ranch**
-- What it is: A ranch known for a special cow and distinctive cheese
-- What happened there: Referenced as the source of cheese in the mine deal negotiation
-- Current state: Referenced; not visited this session
-
-**Candlekeep**
-- What it is: A renowned library/research institution
-- What happened there: Order of the Gauntlet commissioned research there to identify original owners of a magical item found on ships
-- Current state: Referenced; not visited this session
+**Falcon's Lodge**
+- What it is: A lodge; described as having a somewhat unwelcoming atmosphere
+- What happened: Party decided to make a detour here for rest and alcohol, approximately five miles from their current position
+- Current state: Party en route
 
 ---
 
 ## Threads & Mysteries
 
-- The Cult of Talos remains entrenched at the Woodland Manse; the party has not resolved this threat and was driven off.
-- The talking boars' complaint about impostors violating boar culture at the Woodland Manse is unresolved.
-- The identity and fate of Shrimpy beyond his delivery to Harbin Wester is unclear; his true allegiances and what he knows remain open.
-- Jenna Roscoe of the Lords' Alliance appears to have concealed knowledge about the Kraken Society; her true relationship with or information about the organization is unknown.
-- Ser Kaelen mentioned suspicions of powerful psionic creatures being involved with the Kraken Society; the nature and identity of these creatures is unresolved.
-- The original owners of the magical item(s) found on ships have been identified by Candlekeep; returning the items is promised to be complicated and not straightforward.
-- Adabra's non-interventionist ideology, her specific knowledge of temporal violations and planar distortions, and her future opposition to the party remain open threats.
-- What constitutes the "temporal violation and planar distortion" Adabra referenced regarding the Kraken cult intervention is unexplained.
-- Emerald Enclave members were found to be involved with the Kraken cult; the extent and implications of this infiltration are unresolved.
-- Teega the Smith's conflicted reaction to Valphine's church sacrament suggests a possible vulnerability; whether she will turn away from the Kraken Society is unresolved.
-- The white dragon responsible for killing six orcs with extreme cold is active in the area near Mountain's Toe Gold Mine; its location, identity, and intentions are unknown.
-- The Neverwinter consortium's Kraken Society-affiliated member(s) and their interest in the Mountain's Toe Gold Mine are unexplained.
-- Zeleen Varnaster and the Whiskered Gang are suspected of intending to keep the mine regardless of the deal; the long-term reliability of the cheese-for-labor arrangement is in doubt.
-- The sixteen orcs and several ogres occupying the Shrine of Savras (including members of a tribe previously angered by the party) remain undisturbed and represent a deferred threat.
-- Vukradin's financial stake in the gold mine creates an ongoing personal interest thread.
-- Don-Jon Raskin's boastful past and his obliviousness (e.g., the barbarian tribe incident) may have ongoing consequences or introduce further complications.
+- **The Drowned Gate beneath Yllyn**: The Emerald Enclave patrol was forced to steal an inscription about a drowned gate deep in the Underdark beneath Yllyn. The significance of this gate, its contents, and what the Kraken Society intends to do with the inscription remain unknown.
+- **The Kraken Society's Rising Influence**: The Cult Fanatic spoke of a "rising current flowing toward Neverwinter." The scope, timeline, and leadership structure of the Kraken Society's operations in the region are unknown.
+- **Teega the Smith's Background**: Her connection to the Kraken Society encounter and her role beyond being a mind-controlled bystander are unexplained.
+- **The Spiral Symbol**: Drawn by Teega in the mud and worn as emblems by Kraken Society members. Its full significance and any deeper meaning have not been explained.
+- **The Planar Anomaly Resemblance**: The party noted the tingling sensations and sensory distortions upon crossing the river reminded them of a planar anomaly previously encountered. The connection between this phenomenon and the Kraken Society or the drowned gate is unresolved.
+- **The Inscription**: Its exact contents, current location, and whether the Kraken Society successfully acquired it before the patrol was rescued remain unknown.
+- **Lyra's Advancement**: The party plans to credit the rescue to Lyra; it is unresolved whether this plan succeeds, how Lyra will respond, and what the nature of the alliance with her will become.
+- **Shrimpy's Fate**: He is being transported to Phandalin for imprisonment; his identity, affiliations, and what will happen to him there are unresolved.
+- **Joe's Notebook**: Referenced as a source of directions; Joe's identity, current whereabouts, and the full contents of the notebook are unestablished.
+- **The Drow Among the Talosian Orcs**: A drow was noted among the raiding party; their identity and significance are unexplained.
+- **The Falcon's Lodge Detour**: The party is heading to the lodge; the atmosphere has been flagged as uncomfortable, suggesting potential complications.
+- **Vukradin's Public Reputation**: His reputation as a noble adventurer has spread following the dragon incident and wage advocacy; the consequences of this reputation have not yet fully materialised.
+- **The Cult Fanatic's Warnings**: He repeatedly referenced "tides rising" and "waves coming" — the full nature of what is coming remains unexplained.
