@@ -1,32 +1,40 @@
+---
+name: Droki
+aliases: []
+source_extracts: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54]
+---
+
 # Droki
 
 ## Identity
 - Derro courier operating in the West Cleft District of Gracklstugh
 - Agent of the Gray Ghosts (thieves' guild)
-- Works for the Council of Savants; also used by multiple factions as a messenger
+- Works for the Council of Savants; used by multiple factions as a messenger
 - First referenced during Errde Blackskull's briefing to the party; later physically spotted (but not engaged) in the Derro district
 
 ## Personality & Motivations
-- Possibly mad, described as "very peculiar" by the ghost Pelek. Mutters repetitively about being late and about delays and obstructions. Walks at an unnaturally fast pace, seemingly aided by magic, yet doesn't care if anyone follows him. A creature of habit who leaves a well-worn, junk-strewn trail through the Whorlstone Caverns.
+- Possibly mad; mutters constantly to himself ("Droki is late! They will be so angry! Stupid, stupid, stupid!"). Described as "very peculiar" by the ghost Pelek. He moves at an unnaturally fast pace, likely magically enhanced, and seems indifferent to being followed. A creature of habit who leaves a trail of junk behind him, he serves as a trusted courier precisely because he can navigate the dangerous Derro slums safely and keeps secrets.
 
 ## History with the Party
-1. **Errde Blackskull's briefing:** Errde tasked the party with finding Droki, explaining he is linked to corruption involving the Council of Savants and possibly the Clan Lairds. The Stone Guards cannot pursue him directly due to the risk of provoking violence in the Derro district.
-2. **Gartokkar Xundorn's intelligence:** Gartokkar identified Droki as a Gray Ghost agent involved in the theft of the red dragon egg from the Keepers of the Flame — confirming he is the same individual Errde wants found.
-3. **Sighting in West Cleft:** The party observed Droki — pale-faced, wearing a floppy hat with two bobbing tentacle-like appendages — darting through the Derro slums. Buppido confirmed Droki delivers messages to groups in the Whorlstone Caverns. Pelek (a ghost) provided additional context about his ties to the Council of Savants.
-4. **Into the Whorlstone Caverns:** Droki disappeared through a narrow fissure behind cloth and canvas in West Cleft. The party followed his trail into the caverns but lost his direct path at a crack too small to pass through — flanked by Pygmywort (shrinking) and Bigwig mushrooms, implying he uses the shrinking mushrooms to squeeze through.
-5. **Continued pursuit:** The party continued tracking his habitual route through the Whorlestone Caves but did not catch him.
+1. **Errde Blackskull's Briefing:** Party learned Droki is wanted by the Stone Guards but cannot be pursued directly in the Derro district without provoking violence. Errde linked him to corruption involving the Council of Savants and possibly the Clan Lairds.
+2. **Gartokkar Xundorn's Intel:** Identified Droki as a Gray Ghosts agent connected to the theft of the red dragon egg from the Keepers of the Flame.
+3. **Sighting in West Cleft:** Party observed Droki — dirty, pale-faced, wearing a floppy hat with two bobbing tentacle-like appendages — hurrying through the Derro district. Buppido confirmed Droki delivers messages to groups in the Whorlstone Caverns. Pelek (a ghost) confirmed he works for the Council of Savants.
+4. **Entry to Whorlstone Caverns:** Party watched Droki reveal a hidden fissure behind cloth and canvas scraps against a wall, then jump into a crack leading to the Whorlstone Caverns. Eerie fog floated out as he disappeared.
+5. **Pursuit Through the Caverns:** Party followed his well-worn trail but lost him at a crack too small to fit through. Pygmywort (shrinking) and Bigwig mushrooms flanking the crack suggest he uses them to pass. His trail continued to guide exploration in subsequent sessions.
 
 ## Current Status
-- **Last known location:** Somewhere deeper in the Whorlstone Caverns, ahead of the party.
-- **Active operations:** Courier runs between surface factions and groups in the Whorlstone Caverns; connected to the Gray Ghosts' theft of the red dragon egg.
-- **Known to the party:** His appearance, his courier role for multiple factions, his Gray Ghost affiliation, his connection to the dragon egg theft, and his use of shrinking mushrooms to navigate tight passages.
-- **Hidden from the party:** His exact destination in the caverns, who specifically he is delivering to, and the full scope of the Council of Savants' corruption he facilitates.
+- **Last known location:** Somewhere deeper in the Whorlstone Caverns, beyond a tiny passage only accessible via shrinking magic.
+- **Active operations:** Actively couriering for the Gray Ghosts and/or Council of Savants; connected to the stolen red dragon egg.
+- **Known vs. hidden:** The party knows he is a Gray Ghosts agent, works for the Council of Savants, and accesses the Whorlstone Caverns via shrinking mushrooms. The full extent of his deliveries, contacts within the caverns, and his role in the dragon egg theft remain unknown.
 
 ## Relationships
-- **Errde Blackskull / Stone Guards:** Target of their investigation; they cannot apprehend him without risking conflict in the Derro district.
-- **Keepers of the Flame:** Want to find him in connection with the stolen red dragon egg.
-- **Gray Ghosts:** Agent of the thieves' guild; involved in the dragon egg theft.
-- **Council of Savants:** Works for them, per Pelek; linked to their corruption.
-- **Buppido:** Knows Droki and vouches for his reliability as a courier.
-- **Pelek (ghost):** Aware of Droki's work for the Council of Savants; considers him peculiar and possibly mad.
-- **The Party:** No direct interaction yet; the party is actively hunting him on behalf of multiple factions.
+- **Gray Ghosts:** Agent; involved in the theft of the red dragon egg.
+- **Council of Savants:** Works for them (per Pelek).
+- **Errde Blackskull / Stone Guards:** Wanted by them; linked to political corruption.
+- **Keepers of the Flame (Gartokkar Xundorn):** Want him found in connection with the stolen egg.
+- **Buppido:** Knows Droki and vouches for his reliability as a courier to Whorlstone Caverns contacts.
+- **Pelek (ghost):** Familiar with Droki; considers him mad but confirms his role.
+- **The Party:** No direct interaction yet; they are actively pursuing him.
+
+## Arc Score Events
+None recorded.

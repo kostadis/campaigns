@@ -1,18 +1,28 @@
+---
+name: The Garden Shadow
+aliases: []
+source_extracts: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54]
+---
+
 # The Garden Shadow
 
 ## Identity
-- Ancient monk; martial and spiritual teacher of Zalthir
-- Has not appeared directly in sessions; known only through Zalthir's recollections
+- Ancient monk; martial and spiritual mentor to Zalthir
+- Has not appeared directly in play; referenced through Zalthir's memories during the lichen harvest attempt
 
 ## Personality & Motivations
-- Patient and practical educator who insisted on teaching skills Zalthir considered irrelevant, such as lichen cutting and tree tending. Valued contemplation of the natural world and preparation for unforeseen circumstances.
+- Patient teacher with deep knowledge of nature, herbalism, and practical wilderness skills. Emphasized the value of contemplative training even to a reluctant student, suggesting a long-view philosophy about preparedness and wisdom.
 
 ## History with the Party
-- **Lichen harvest crisis:** When Zalthir was poisoned during a lichen harvest attempt, he recalled The Garden Shadow's teachings on how to properly cut lichen and tend trees. Zalthir had originally dismissed the training, preferring action over contemplation, but in the moment of crisis recognized its wisdom.
+- **Lichen Harvest Attempt:** When Zalthir was poisoned during a lichen harvest, he recalled The Garden Shadow's specific teachings on how to cut lichen and tend trees. Zalthir had originally dismissed this training, preferring a life of action over contemplation, but recognized its value in the moment of crisis.
 
 ## Current Status
-- Last known status: unknown. Referenced only in Zalthir's memory; no indication of whether The Garden Shadow is alive, dead, or where they might be.
-- The party has no direct knowledge of The Garden Shadow beyond what Zalthir has shared.
+- Last known status: unknown; referenced only in past tense as part of Zalthir's backstory
+- No indication of whether The Garden Shadow is alive, dead, or otherwise
+- The party has no direct knowledge of this figure beyond whatever Zalthir has shared
 
 ## Relationships
-- **Zalthir:** Former student. The relationship carried a mentor–student dynamic in which Zalthir chafed against lessons he saw as too passive. He has since come to appreciate the training, if ruefully.
+- **Zalthir:** Former student. The Garden Shadow trained Zalthir as a monk, imparting wilderness and herbalism knowledge. Zalthir was a somewhat reluctant pupil who preferred action over contemplation, though he has come to appreciate the training.
+
+## Arc Score Events
+None recorded.

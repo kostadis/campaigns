@@ -1,0 +1,11 @@
+# New notes for adabra (from dossier_extract_013.md)
+
+Adabra appeared at her shop in the main square of Phandalin, next to Garaele's house and across from the Shrine of Luck, when Soma and the party came to confront her. She dropped her kind demeanor immediately upon sensing Soma's fury, becoming cold and patronizing. She revealed her ideological position explicitly: she belongs to a faction within the Emerald Enclave that considers the interventionists — members like Lyra who perform cleansing rituals — to be aggressors waging "a war on nature" by rejecting the multiverse's diversity. She views their rituals as acts of violence and frames planar phenomena as natural expressions of universal beauty rather than threats to be purged.
+
+Adabra admitted that she had been "cast out" and "reduced to begging for crumbs of resources" within the Emerald Enclave due to her anti-interventionist views, which drove her to recruit outside allies — including Soma — to oppose the ritual. She expressed disappointment that Soma had apparently sided with Lyra, though Vukradin's deflections confused her enough to prevent an accusation of outright betrayal.
+
+She was successfully deceived regarding the Treant's fate. When Vukradin described the Treant as being "in stable condition," she believed him. When she pressed further, Vukradin's vague answer about the planar tear and Valphine's interjection about the strange creature distracted her from the line of inquiry entirely. The mention of the creature sent her into a state of apparent ecstasy; she identified it as "a planar magpie," a symptom drawn to the energy rather than a cause of the disturbance, and she was pleased to hear the party had not killed it.
+
+She paid Vukradin five gold pieces and expressed cautious hope for him, while declaring herself wrong about Soma. She made a brief attempt to use a music analogy to persuade Vukradin that the interventionists were wrong to reject certain "music" — certain planes — before departing. Soma privately characterized her extended philosophical monologue as meaningless nonsense. Last seen leaving the main square after accepting Vukradin's invitation to hear music, though her subsequent attendance at the tavern is not confirmed.
+
+---

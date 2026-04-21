@@ -1,0 +1,386 @@
+{
+  "proposals": [
+    {
+      "dirty_stem": "big_al",
+      "canonical_stem": "alphonse_big_al_kalazorn",
+      "heuristic": "substring",
+      "overlap": 0.7,
+      "alias_text": "Big Al"
+    },
+    {
+      "dirty_stem": "brin",
+      "canonical_stem": "brin_bundlewine",
+      "heuristic": "substring",
+      "overlap": 0.36,
+      "alias_text": "Brin"
+    },
+    {
+      "dirty_stem": "chief_accountant",
+      "canonical_stem": "the_chief_accountant",
+      "heuristic": "substring",
+      "overlap": 0.61,
+      "alias_text": "Chief Accountant"
+    },
+    {
+      "dirty_stem": "dabblebob",
+      "canonical_stem": "dabbledob",
+      "heuristic": "lev=1",
+      "overlap": 0.36,
+      "alias_text": "Dabblebob"
+    },
+    {
+      "dirty_stem": "elara_seasong_meliamne",
+      "canonical_stem": "elara_seasong_meliame",
+      "heuristic": "lev=1",
+      "overlap": 0.31,
+      "alias_text": "Elara Seasong Meliamne"
+    },
+    {
+      "dirty_stem": "falcon",
+      "canonical_stem": "falcon_the_hunter",
+      "heuristic": "substring",
+      "overlap": 0.47,
+      "alias_text": "Falcon"
+    },
+    {
+      "dirty_stem": "fiddlestib",
+      "canonical_stem": "fibblestib",
+      "heuristic": "lev=2",
+      "overlap": 0.52,
+      "alias_text": "Fiddlestib"
+    },
+    {
+      "dirty_stem": "giles",
+      "canonical_stem": "giles_slipper_shine",
+      "heuristic": "substring",
+      "overlap": 0.28,
+      "alias_text": "Giles"
+    },
+    {
+      "dirty_stem": "harbin",
+      "canonical_stem": "harbin_wester",
+      "heuristic": "substring",
+      "overlap": 0.6,
+      "alias_text": "Harbin"
+    },
+    {
+      "dirty_stem": "horia",
+      "canonical_stem": "horia_stonetallow",
+      "heuristic": "substring",
+      "overlap": 0.52,
+      "alias_text": "Horia"
+    },
+    {
+      "dirty_stem": "jenna_roscoe",
+      "canonical_stem": "jenna",
+      "heuristic": "substring",
+      "overlap": 0.61,
+      "alias_text": "Jenna Roscoe"
+    },
+    {
+      "dirty_stem": "lady_alagondar_s_ghost",
+      "canonical_stem": "lady_alagondar",
+      "heuristic": "substring",
+      "overlap": 0.43,
+      "alias_text": "Lady Alagondar S Ghost"
+    },
+    {
+      "dirty_stem": "ser_kaelen_thorn",
+      "canonical_stem": "ser_kaelen",
+      "heuristic": "substring",
+      "overlap": 0.66,
+      "alias_text": "Ser Kaelen Thorn"
+    },
+    {
+      "dirty_stem": "ser_kaelen_thorne",
+      "canonical_stem": "ser_kaelen",
+      "heuristic": "substring",
+      "overlap": 0.58,
+      "alias_text": "Ser Kaelen Thorne"
+    },
+    {
+      "dirty_stem": "sir_kaelen",
+      "canonical_stem": "ser_kaelen",
+      "heuristic": "title-strip",
+      "overlap": 0.24,
+      "alias_text": "Sir Kaelen"
+    },
+    {
+      "dirty_stem": "sister_kayla",
+      "canonical_stem": "sister_kaella",
+      "heuristic": "lev=2",
+      "overlap": 0.66,
+      "alias_text": "Sister Kayla"
+    },
+    {
+      "dirty_stem": "the_falcon",
+      "canonical_stem": "falcon_the_hunter",
+      "heuristic": "title-strip-substring",
+      "overlap": 0.48,
+      "alias_text": "The Falcon"
+    },
+    {
+      "dirty_stem": "the_orc_with_the_necklace_of_bones_shrimpy",
+      "canonical_stem": "shrimpy",
+      "heuristic": "substring",
+      "overlap": 0.76,
+      "alias_text": "The Orc With The Necklace Of Bones Shrimpy"
+    },
+    {
+      "dirty_stem": "tibor",
+      "canonical_stem": "tibor_wester",
+      "heuristic": "substring",
+      "overlap": 0.3,
+      "alias_text": "Tibor"
+    },
+    {
+      "dirty_stem": "toblen_stonehill_spiderman",
+      "canonical_stem": "toblen_stonehill",
+      "heuristic": "substring",
+      "overlap": 0.27,
+      "alias_text": "Toblen Stonehill Spiderman"
+    },
+    {
+      "dirty_stem": "town_master_harbin_wester",
+      "canonical_stem": "harbin_wester",
+      "heuristic": "substring",
+      "overlap": 0.37,
+      "alias_text": "Town Master Harbin Wester"
+    },
+    {
+      "dirty_stem": "tribar_wester",
+      "canonical_stem": "tibor_wester",
+      "heuristic": "lev=2",
+      "overlap": 0.47,
+      "alias_text": "Tribar Wester"
+    }
+  ],
+  "no_match": [
+    {
+      "dirty_stem": "alfonse_kalazorn",
+      "best_canonical": null,
+      "heuristic": "none",
+      "overlap": 0.0
+    },
+    {
+      "dirty_stem": "harbin_townmaster",
+      "best_canonical": null,
+      "heuristic": "none",
+      "overlap": 0.0
+    },
+    {
+      "dirty_stem": "jena_roscoe",
+      "best_canonical": null,
+      "heuristic": "none",
+      "overlap": 0.0
+    },
+    {
+      "dirty_stem": "miral_the_self",
+      "best_canonical": "miral",
+      "heuristic": "substring",
+      "overlap": 0.13
+    },
+    {
+      "dirty_stem": "sister_kella",
+      "best_canonical": "sister_kaella",
+      "heuristic": "lev=1",
+      "overlap": 0.16
+    },
+    {
+      "dirty_stem": "spider_man",
+      "best_canonical": null,
+      "heuristic": "none",
+      "overlap": 0.0
+    }
+  ],
+  "by_canonical": {
+    "alphonse_big_al_kalazorn": [
+      {
+        "dirty_stem": "big_al",
+        "canonical_stem": "alphonse_big_al_kalazorn",
+        "heuristic": "substring",
+        "overlap": 0.7,
+        "alias_text": "Big Al"
+      }
+    ],
+    "brin_bundlewine": [
+      {
+        "dirty_stem": "brin",
+        "canonical_stem": "brin_bundlewine",
+        "heuristic": "substring",
+        "overlap": 0.36,
+        "alias_text": "Brin"
+      }
+    ],
+    "the_chief_accountant": [
+      {
+        "dirty_stem": "chief_accountant",
+        "canonical_stem": "the_chief_accountant",
+        "heuristic": "substring",
+        "overlap": 0.61,
+        "alias_text": "Chief Accountant"
+      }
+    ],
+    "dabbledob": [
+      {
+        "dirty_stem": "dabblebob",
+        "canonical_stem": "dabbledob",
+        "heuristic": "lev=1",
+        "overlap": 0.36,
+        "alias_text": "Dabblebob"
+      }
+    ],
+    "elara_seasong_meliame": [
+      {
+        "dirty_stem": "elara_seasong_meliamne",
+        "canonical_stem": "elara_seasong_meliame",
+        "heuristic": "lev=1",
+        "overlap": 0.31,
+        "alias_text": "Elara Seasong Meliamne"
+      }
+    ],
+    "falcon_the_hunter": [
+      {
+        "dirty_stem": "falcon",
+        "canonical_stem": "falcon_the_hunter",
+        "heuristic": "substring",
+        "overlap": 0.47,
+        "alias_text": "Falcon"
+      },
+      {
+        "dirty_stem": "the_falcon",
+        "canonical_stem": "falcon_the_hunter",
+        "heuristic": "title-strip-substring",
+        "overlap": 0.48,
+        "alias_text": "The Falcon"
+      }
+    ],
+    "fibblestib": [
+      {
+        "dirty_stem": "fiddlestib",
+        "canonical_stem": "fibblestib",
+        "heuristic": "lev=2",
+        "overlap": 0.52,
+        "alias_text": "Fiddlestib"
+      }
+    ],
+    "giles_slipper_shine": [
+      {
+        "dirty_stem": "giles",
+        "canonical_stem": "giles_slipper_shine",
+        "heuristic": "substring",
+        "overlap": 0.28,
+        "alias_text": "Giles"
+      }
+    ],
+    "harbin_wester": [
+      {
+        "dirty_stem": "harbin",
+        "canonical_stem": "harbin_wester",
+        "heuristic": "substring",
+        "overlap": 0.6,
+        "alias_text": "Harbin"
+      },
+      {
+        "dirty_stem": "town_master_harbin_wester",
+        "canonical_stem": "harbin_wester",
+        "heuristic": "substring",
+        "overlap": 0.37,
+        "alias_text": "Town Master Harbin Wester"
+      }
+    ],
+    "horia_stonetallow": [
+      {
+        "dirty_stem": "horia",
+        "canonical_stem": "horia_stonetallow",
+        "heuristic": "substring",
+        "overlap": 0.52,
+        "alias_text": "Horia"
+      }
+    ],
+    "jenna": [
+      {
+        "dirty_stem": "jenna_roscoe",
+        "canonical_stem": "jenna",
+        "heuristic": "substring",
+        "overlap": 0.61,
+        "alias_text": "Jenna Roscoe"
+      }
+    ],
+    "lady_alagondar": [
+      {
+        "dirty_stem": "lady_alagondar_s_ghost",
+        "canonical_stem": "lady_alagondar",
+        "heuristic": "substring",
+        "overlap": 0.43,
+        "alias_text": "Lady Alagondar S Ghost"
+      }
+    ],
+    "ser_kaelen": [
+      {
+        "dirty_stem": "ser_kaelen_thorn",
+        "canonical_stem": "ser_kaelen",
+        "heuristic": "substring",
+        "overlap": 0.66,
+        "alias_text": "Ser Kaelen Thorn"
+      },
+      {
+        "dirty_stem": "ser_kaelen_thorne",
+        "canonical_stem": "ser_kaelen",
+        "heuristic": "substring",
+        "overlap": 0.58,
+        "alias_text": "Ser Kaelen Thorne"
+      },
+      {
+        "dirty_stem": "sir_kaelen",
+        "canonical_stem": "ser_kaelen",
+        "heuristic": "title-strip",
+        "overlap": 0.24,
+        "alias_text": "Sir Kaelen"
+      }
+    ],
+    "sister_kaella": [
+      {
+        "dirty_stem": "sister_kayla",
+        "canonical_stem": "sister_kaella",
+        "heuristic": "lev=2",
+        "overlap": 0.66,
+        "alias_text": "Sister Kayla"
+      }
+    ],
+    "shrimpy": [
+      {
+        "dirty_stem": "the_orc_with_the_necklace_of_bones_shrimpy",
+        "canonical_stem": "shrimpy",
+        "heuristic": "substring",
+        "overlap": 0.76,
+        "alias_text": "The Orc With The Necklace Of Bones Shrimpy"
+      }
+    ],
+    "tibor_wester": [
+      {
+        "dirty_stem": "tibor",
+        "canonical_stem": "tibor_wester",
+        "heuristic": "substring",
+        "overlap": 0.3,
+        "alias_text": "Tibor"
+      },
+      {
+        "dirty_stem": "tribar_wester",
+        "canonical_stem": "tibor_wester",
+        "heuristic": "lev=2",
+        "overlap": 0.47,
+        "alias_text": "Tribar Wester"
+      }
+    ],
+    "toblen_stonehill": [
+      {
+        "dirty_stem": "toblen_stonehill_spiderman",
+        "canonical_stem": "toblen_stonehill",
+        "heuristic": "substring",
+        "overlap": 0.27,
+        "alias_text": "Toblen Stonehill Spiderman"
+      }
+    ]
+  }
+}

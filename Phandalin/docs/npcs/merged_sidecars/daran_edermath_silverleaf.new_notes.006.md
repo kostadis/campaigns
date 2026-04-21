@@ -1,0 +1,3 @@
+# New notes for Daran Edermath (Silverleaf) (from dossier_extract_006.md)
+
+Daran Edermath, a tall and lean half-elf in his later years with silver-streaked hair, emerald-green eyes, and a salt-and-pepper beard, appeared at the Stonehill Inn. He carries himself with the quiet wisdom of a former adventurer now living a simpler life, dressed in practical earth-toned clothing suited to tending his orchard. He pitched Vukradin on a salvage opportunity: an old stone lighthouse west of Phandalin on the coast, which reportedly lures ships to wreck on its rocks, leaving treasure-filled hulks. Vukradin rejected the premise outright as grave-robbing, leaving Silverleaf shocked and apologetic.

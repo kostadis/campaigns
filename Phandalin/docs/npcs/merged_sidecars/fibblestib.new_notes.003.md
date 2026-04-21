@@ -1,0 +1,5 @@
+# New notes for Fibblestib (from dossier_extract_003.md)
+
+Fibblestib is one of Gnomengarde's foremost inventors, working alongside Dabbledob in the laboratory. When Vukradin's party arrived seeking a device to fight the dragon, Fibblestib dismissed the request as unimportant compared to the crisis of King Korboz's madness. He is developing a "sanity ray" to cure the king, a project he argues is superior to Dabbledob's proposed straitjacket design. He and Dabbledob maintain a contentious working relationship, arguing loudly and constantly.
+
+Fibblestib briefed the party on the situation: two gnomes named Warren and Orrin went missing, and King Korboz claims a shape-changing creature is responsible. He invited the party to ask questions in case they spotted something the inventors missed. He acknowledged that music has helped in some circumstances when Vukradin proposed it as treatment for the king. He also laughed when Vukradin complained about the rotating blade trap, claiming it as his own invention and declaring the party's survival proof of its superiority over Dabbledob's designs. Last known location: the inventors' laboratory.

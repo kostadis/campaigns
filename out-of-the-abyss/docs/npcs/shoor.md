@@ -1,23 +1,31 @@
+---
+name: Shoor
+aliases: []
+source_extracts: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54]
+---
+
 # Shoor
 
 ## Identity
 - Male Drow fighter, stationed at Velkynvelve (Drow outpost)
-- One of Ilvara's two male Drow subordinates
-- Currently Ilvara's favored consort, having replaced Jorlan after Jorlan's disfigurement
-- First appeared flanking Ilvara when the prisoners initially arrived at Velkynvelve
+- One of two male Drow subordinates serving under Priestess Ilvara
+- First appeared flanking Ilvara when she greeted the arriving prisoners
 
 ## Personality & Motivations
-- No direct personality traits observed yet beyond his role as Ilvara's "primary squeeze." His position appears to be one of favor and status rather than demonstrated leadership.
+- No direct personality traits observed yet; known primarily through his role and relationships.
+- His position as Ilvara's favored consort suggests ambition or at least willingness to leverage social standing among the Drow.
 
 ## History with the Party
-- Was present alongside Ilvara and Jorlan when the party first arrived as prisoners at Velkynvelve. No direct interactions with the party have been noted beyond this initial sighting.
+- Was present alongside Ilvara and Jorlan when the party first arrived as prisoners at Velkynvelve.
+- No direct interactions with the party have been noted beyond this initial appearance.
 
 ## Current Status
 - **Location:** Velkynvelve, the Drow outpost
-- **Active situation:** Holds the position of Ilvara's favored consort, a role that makes him a target of Jorlan's resentment. Jorlan's escape plot is partly motivated by a desire to make Shoor "look ridiculous."
-- **What the party knows:** Jimjar has informed the party that Shoor is Ilvara's current favorite, having replaced the injured Jorlan. The party likely does not know the full extent of the rivalry between Shoor and Jorlan.
+- **Role:** Serving as Ilvara's "primary squeeze" / favored consort, having replaced the disfigured Jorlan
+- **Hidden info:** Jorlan's escape plot is partly motivated by a desire to make Shoor "look ridiculous" — the party may or may not be aware of this detail (sourced from Jimjar's gossip and Jorlan's motivations)
 
 ## Relationships
-- **Ilvara:** Her current favored consort; enjoys her favor and proximity to power.
-- **Jorlan:** Replaced Jorlan after Jorlan's disfigurement. Jorlan resents him deeply and is actively scheming (including aiding a prisoner escape) in part to humiliate Shoor.
-- **Jimjar:** Jimjar served as the party's source of intelligence about Shoor's role and status.
+- **Ilvara:** Her current favored consort; replaced Jorlan in this role
+- **Jorlan:** Rival. Shoor took Jorlan's place after Jorlan was injured/disfigured. Jorlan harbors resentment and is actively scheming to humiliate Shoor
+- **Jimjar:** Jimjar is the source of gossip about Shoor's relationship with Ilvara; no direct relationship implied
+- **The Party:** No meaningful individual relationships established yet

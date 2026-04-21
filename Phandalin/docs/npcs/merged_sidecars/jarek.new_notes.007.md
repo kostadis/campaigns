@@ -1,0 +1,3 @@
+# New notes for jarek (from dossier_extract_007.md)
+
+Jarek is Elara's groom, encountered alongside her after the orc ambush. He was largely quiet during the encounter but contributed a notable detail: before the orcs struck, he heard what he described as a hum — not an external sound, but a sensation inside his head — which then vanished. This detail, combined with Elara's description of the orcs' unusual discipline and strange markings, suggests a possible controlling or coordinating intelligence behind the attack. He also remarked pointedly that he had warned Elara they should travel with protection. Last known status: safely returned to Phandalin with Elara.

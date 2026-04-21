@@ -1,0 +1,3 @@
+# New notes for Dabbledob (from dossier_extract_003.md)
+
+Dabbledob is Fibblestib's coworker and fellow inventor in Gnomengarde's laboratory. She opposes Fibblestib's sanity ray proposal, arguing there is no evidence it would work, and advocates instead for a straitjacket design, though Fibblestib dismisses her version as merely "a shirt with no holes for the hands." She rolled her eyes at Fibblestib's claim about the rotating blade invention. She acknowledged, reluctantly, that music has helped in some circumstances when Vukradin proposed it as a treatment for the king. Last known location: the inventors' laboratory.

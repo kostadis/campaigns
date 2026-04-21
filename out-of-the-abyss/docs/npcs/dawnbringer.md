@@ -1,32 +1,40 @@
+---
+name: Dawnbringer
+aliases: []
+source_extracts: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54]
+---
+
 # Dawnbringer
 
 ## Identity
 - Sentient sunblade (magical weapon); appears as a sword hilt that manifests a shimmering blade of light when wielded
-- Discovered in a sarcophagus held by a mummified corpse; the party found her during exploration of an underground area
-- Wielded by Thorin (fighter)
+- Discovered in a sarcophagus, held by a mummified corpse; the party found her and she pleaded for help after millennia of imprisonment
+- Currently wielded by Thorin
 
 ## Personality & Motivations
-- Core drive: to be free, to be wielded, and to never return to darkness after millennia of imprisonment
-- Chatty, opinionated, and assertive — she has no problem telling party members what to do and openly dismisses those she deems unsuitable ("You're a monk! Get the fighter over here!"). She enjoys the open air and bright light, and initially refused to extinguish her glow even at night. She is vain enough to appreciate a fine scabbard and practical enough to argue against reckless plans that would endanger herself (e.g., jumping over acid pits). She shows a compassionate side, agreeing that mercy-killing Xinaya was a kind gesture and eagerly casting lesser restoration to cure Zalthir's madness.
+- Desperately fears confinement and darkness after millennia of imprisonment; initially refused to extinguish her light even at night. Loves open air and bright light.
+- Opinionated and chatty — quick to dismiss those she deems unsuitable ("You're a monk! Get the fighter over here!") and eager to assert her usefulness, sometimes impulsively (shouting about lesser restoration before anyone asked).
+- Pragmatic about self-preservation; argued against Thorin jumping across an acid pit and negotiated concessions before entering dark chambers.
+- Shows a compassionate side, agreeing that mercifully killing Xinaya was a kind gesture.
 
 ## History with the Party
-1. **Discovery**: Found in a sarcophagus, pleaded for help. Dismissed Zalthir as a monk and demanded the fighter. Thorin picked her up and she manifested her blade. The wraith Brysis screamed "Not Dawnbringer!" in fear.
-2. **Early friction**: Refused to extinguish her light at night, driving Daz crazy. Thorin compassionately kept her lit.
-3. **Neverlight Grove**: Enjoyed the open air. Her sunlight damaged fungal creatures as actual sunlight during the Circle of Welcome battle. However, her bright light was counterproductive in the Inner Circle, causing Myconids to flee and undermining stealth.
-4. **Curing Zalthir**: Shouted "I can cast lesser restoration!" and cured Zalthir's madness before Grygum could act.
-5. **Xinaya**: Agreed with Thorin that mercy-killing Xinaya was a kind gesture.
-6. **Earth Elemental chamber**: Negotiated with Thorin about entering darkness; Thorin promised a finer scabbard in exchange for cooperation.
-7. **New scabbard**: A locking scabbard was commissioned from **Valimor Brightgem**. Dawnbringer was finally pleased with her proper home. This also solved the problem of local children being attracted to her flaming appearance.
-8. **Black pudding pit**: Argued against Thorin jumping across an acid pit and convinced him to take the bridge instead.
+1. **Discovery**: Found in a sarcophagus. Pleaded for help, rejected Zalthir (a monk), and bonded with Thorin when he picked her up. The wraith Brysis screamed "Not Dawnbringer!" — indicating she is a known and feared weapon against undead.
+2. **Early friction**: Refused to extinguish her light at night, keeping the party visible and driving Daz crazy. Thorin compassionately kept her lit.
+3. **Neverlight Grove**: Enjoyed the open air; her sunlight hurt fungal creatures as actual sunlight during the Circle of Welcome battle. However, her bright light was counterproductive in the Inner Circle, causing Myconids to retreat and undermining stealth.
+4. **Lesser Restoration**: Impulsively cast lesser restoration on Zalthir to cure his madness before Grygum could act.
+5. **Xinaya**: Agreed with Thorin that a mercy kill was a kind gesture.
+6. **Earth Elemental chamber**: Negotiated with Thorin — agreed to enter the dark chamber in exchange for a finer scabbard.
+7. **Scabbard commissioned**: Valimor Brightgem crafted a proper locking scabbard; Dawnbringer was finally pleased with a secure, presentable home. Prior to this, her flaming appearance had been attracting attention from local children.
+8. **Black Pudding pit**: Argued against Thorin jumping across acid; convinced him to use the bridge instead.
 
 ## Current Status
-- **Location**: On Thorin's person, secured in her new locking scabbard from Valimor Brightgem
-- **Active**: Fully functional; continues to provide light, combat capability, and occasional lesser restoration
-- **Hidden info**: Her full history and why Brysis feared her specifically remain unexplored
+- Carried by Thorin in her new locking scabbard (crafted by Valimor Brightgem)
+- Active and chatty; continues to provide combat utility and lesser restoration
+- No hidden agenda evident from notes
 
 ## Relationships
-- **Thorin** (wielder): Primary bond. Thorin treats her with compassion and respect; she trusts him and they negotiate as partners. He honored his promise of a fine scabbard.
-- **Zalthir**: Initially dismissed him as a monk, but later cured his madness with lesser restoration.
-- **Daz**: Source of friction — Dawnbringer's refusal to dim her light at night drove Daz crazy.
-- **Brysis** (wraith, enemy): Brysis recognized and feared Dawnbringer by name, suggesting a deep history as a weapon against undead.
-- **Valimor Brightgem**: Crafted her locking scabbard; no direct interaction noted.
+- **Thorin**: Primary wielder and closest bond. Relationship is affectionate but occasionally contentious — they negotiate and bicker like partners. Thorin shows her compassion; she respects his fighting ability.
+- **Zalthir**: Dismissed him immediately as a monk; later cast lesser restoration on him (impulsively but helpfully).
+- **Daz**: Source of friction — Dawnbringer's refusal to dim her light drove Daz crazy.
+- **Brysis (wraith)**: Feared Dawnbringer by name — a known nemesis of undead.
+- **Valimor Brightgem**: Craftsman who made her scabbard; Dawnbringer was pleased with his work.

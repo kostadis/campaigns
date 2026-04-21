@@ -1,26 +1,35 @@
+---
+name: Rusharoo
+aliases: []
+source_extracts: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54]
+---
+
 # Rusharoo
 
 ## Identity
 - Leader of the Circle of Explorers within the Myconid grove
 - Friend and loyal follower of Sovereign Basidia
-- First encountered by the party during their time in the Myconid grove, where Rusharoo spoke about scouting the world beyond
+- First encountered by the party when they were navigating Myconid grove politics
 
 ## Personality & Motivations
-- Speaks with frantic, nervous energy; deeply anxious about the grove's decline. Believes Myconids should be nomadic travelers, viewing the Underdark's caves and tunnels as a connective organism much like a Myconid itself. Pragmatic and forward-thinking — prepares escape routes and nutrient caches before disaster strikes. Disgusted by the idea of visiting the Overbright (surface world).
+- Core belief that Myconids should be nomadic travelers rather than rooted in one place; views the Underdark's caves and tunnels as a connective network akin to Myconid biology
+- Speaks with frantic, nervous energy; deeply anxious about the grove's deterioration
+- Pragmatic survivalist — had already prepared escape routes and nutrient caches before any crisis forced evacuation
+- Disgusted by the idea of visiting the Overbright (surface world)
 
 ## History with the Party
-- **Initial meeting:** Reported to the party that the grove was deteriorating, worsening with each return from scouting expeditions. Revealed pre-prepared escape routes and nutrient caches. Pleaded silently with Basidia to leave the grove immediately. Offered to send the party into the Circle of Welcome through a secret passageway.
+- **Initial Meeting:** Briefed the party on the grove's worsening condition during their visit, reporting that every scouting return revealed further decline. Pleaded silently with Basidia to leave immediately. Offered to guide the party into the Circle of Welcome through a secret passageway.
 - **Confrontation with Phyllo:** Urged caution when Basidia wanted to confront Phyllo, but followed their Sovereign into danger regardless.
-- **Escape from the grove:** When the situation in the Inner Circle deteriorated, Rusharoo shouted telepathically *"If you want to live, come with me,"* leading the party through a pre-prepared escape route using previously identified exit holes.
-- **Parting ways:** After escaping, Rusharoo provided a guide for half the distance to Blingdenstone. Bid the party farewell on the 4th day of the third tenday of Myrkhul 1495, departing with Basidia, Loobamub, and the circles of hunters and explorers.
+- **Escape from the Grove:** When the situation in the Inner Circle deteriorated, Rusharoo shouted telepathically *"If you want to live, come with me"* and led the party through a pre-prepared escape route using exit holes they had previously identified.
+- **Parting Ways:** After escaping, Rusharoo provided a guide for half the distance to Blingdenstone. Bid the party farewell on the 4th day of the third tenday of Myrkhul 1495, departing with Basidia, Loobamub, and the circles of hunters and explorers.
 
 ## Current Status
-- **Last known location:** Somewhere in the Underdark, traveling with Basidia, Loobamub, and the circles of hunters and explorers after fleeing the grove.
-- **Active plans:** Likely pursuing a nomadic existence in the Underdark, as Rusharoo always advocated.
-- **Hidden information:** None noted — the party witnessed Rusharoo's philosophy and actions firsthand.
+- **Last Known Location:** Somewhere in the Underdark, traveling with Basidia's group (Basidia, Loobamub, circle of hunters, circle of explorers)
+- **Active Plans:** Likely leading the displaced Myconid group through the Underdark as nomadic survivors, fulfilling their long-held philosophy
+- **Hidden Information:** The full extent of Rusharoo's scouting knowledge — escape routes, nutrient caches, and mapped tunnels — may be more extensive than the party realizes
 
 ## Relationships
-- **Basidia:** Close friend and trusted Sovereign; Rusharoo is deeply loyal, following Basidia even into danger they advised against.
-- **Loobamub:** Fellow traveler after the escape; part of the same splinter group.
-- **Phyllo:** Adversarial — the confrontation with Phyllo drove the crisis that forced the escape.
-- **The Party:** Positive; Rusharoo saved them during the escape and provided guidance toward Blingdenstone.
+- **Basidia:** Close friend and trusted Sovereign; Rusharoo is deeply loyal but not blindly obedient — willing to counsel caution
+- **Loobamub:** Fellow traveler in the exodus from the grove
+- **Phyllo:** Adversarial; the confrontation with Phyllo precipitated the crisis
+- **The Party:** Ally of convenience and gratitude; provided critical aid during the escape and guided them partway to Blingdenstone

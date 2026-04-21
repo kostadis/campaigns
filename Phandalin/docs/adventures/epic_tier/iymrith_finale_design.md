@@ -57,18 +57,24 @@ The 3HPP (Thistle, Orsik, Vardis, Unla Kee) confronted Iymrith at her lair in th
 
 ### The Schism
 
+**Origin.** The schism is an unintended side-effect of KP's Planar Energy Conduit. The same conduit work that trapped the Mind Flayers on Toril also fractured their hierarchy: the main faction adapted by raising a kraken-as-Elder-Brain (heretical); the splinter loyalists refused the substitution and are desperate to return to the proper network. **KP is negligent on this axis, not malicious.** The splinter loyalists are conduit-victims, and are cleanly recruitable by the party once Iymrith's deception is exposed (see below).
+
+**Iymrith's angle.** She plays both factions and is allied with neither. She rides the Kraken Society's psionic network when convenient, and she feeds the splinter loyalists a false promise of a return path via her temporal rewrite (undo KP's quarantine, restore the pre-conduit Mind Flayer state). Her real target is the Ubbalux artifact, and she will acquire it independently. The schism is her cover, not her alliance. When the loyalists realize they were played, they become potential allies to the party against her.
+
 **Main Faction (The Kraken Society proper):**
 - Controls the kraken
 - Has settled in on Faerun
 - The kraken is becoming a **replacement for the Elder Brains** — this is heretical
 - They represent an existential threat to traditional Mind Flayer hierarchy
+- Iymrith rides their network as cover; they treat her as a useful client, not a patron
 
 **Splinter Faction (Phandalin operations):**
-- Loyalists to the Elder Brain hierarchy
+- Loyalists to the Elder Brain hierarchy, stranded by KP's conduit
 - Want to **escape Faerun** and return to the proper network
 - See the main faction's kraken-as-Elder-Brain as a threat to all Mind Flayers
 - Their activity in Phandalin (Teega, the drowned gate, psionic manipulation) = escape attempts
 - They want the **Ubbalux artifact**
+- Iymrith has fed them a false promise of return via her temporal rewrite; when the party exposes the lie, they become potential allies
 
 ---
 
@@ -77,9 +83,9 @@ The 3HPP (Thistle, Orsik, Vardis, Unla Kee) confronted Iymrith at her lair in th
 Kazneporium Ketternopappux (KP) is the cosmic engineer whose actions created the current mess:
 
 - His "1489 Export Regulation on Interplanar Storage Devices" was meant to solve the Valentine and Bonk / Githyanki / Mind Flayer crisis
-- His manipulation of interplanar routes trapped the Mind Flayers on Toril (intentionally or as side effect)
-- He sent **Aletra Sartorra** to clean up cascading planar disturbances on Faerun
-- He wants his **Planar Energy Conduit** back from Iymrith's lair
+- His manipulation of interplanar routes trapped the Mind Flayers on Toril **as an unintended side effect, not by design**. The Mind Flayer schism (main vs. splinter loyalist) is a downstream consequence of the same conduit work.
+- He sent **Aletra Sotorra** (Valphine's sister) to Faerun originally to clean up cascading planar disturbances. Her role escalates over tiers: she begins as a planar-cleanup operator on the Planar Distortion Score ladder, and by the epic tier she is **KP's Mind Flayer broker** — the diplomatic contact between KP and the splinter loyalists. This makes Valphine's family reckoning with her sister directly load-bearing on the schism resolution.
+- He wants his **Planar Energy Conduit** back from Iymrith's lair. What the party does with the Conduit at the finale is a late-arc player choice — see *The Conduit at the Finale* below.
 
 ---
 
@@ -90,6 +96,17 @@ Kazneporium Ketternopappux (KP) is the cosmic engineer whose actions created the
 | The Ruinstone | House of Thalivar, Leilon (Border Ethereal) | Iymrith | Netherese artifact that undoes decisions; normally limited to 24 hours |
 | The Ubbalux Artifact | Connected to the Kraken Society / drowned gate | Splinter Mind Flayers; Iymrith | Tied to Ubbalux's philosophy of psionic elevation; massive psionic power source |
 | KP's Planar Energy Conduit | Iymrith's abandoned lair (Ascore) | KP (via Aletra); Iymrith | Stabilizes/reroutes cosmic forces; channels interplanar energy |
+
+### The Conduit at the Finale — Player Agency
+
+The party's disposition of the Planar Energy Conduit is a **late-arc player choice**, not a pre-decided outcome. The arc supports four viable paths; the finale plays out according to which the party picks:
+
+1. **Shut it down.** Sever the Conduit outright. Prevents Iymrith's supercharged Ruinstone. Cost: strands the splinter loyalists on Toril permanently. The party can attempt to engineer a one-way door home for the loyalists as part of the shutdown, but that is its own skill challenge.
+2. **Repatriate the loyalists, then sever.** Use the Conduit first to return the splinter loyalists to their home network, then shut it down. Fixes KP's mistake; denies Iymrith the supercharge. Requires the loyalists to have been recruited (Iymrith's false promise exposed) before the finale.
+3. **Weaponize it against Iymrith.** Turn the Conduit on Iymrith directly — her own supercharger deployed against her. Party becomes agents of planar distortion (Planar Distortion Score spikes); loyalists stay stranded.
+4. **Return it to KP.** Party extracts and returns the Conduit to KP, who rewards them (legendary-tier). Party becomes complicit in KP's ongoing project; loyalists' fate depends on KP's next decision.
+
+Each path has different downstream consequences for Aletra's arc, the Planar Distortion Score, and the post-finale state of Faerun's interplanar topology.
 
 ---
 
@@ -126,7 +143,7 @@ The Ruinstone as written undoes one action within 24 hours. But **supercharged w
 2. **What is Laela actually?** Still an open thread.
 3. **How does Iymrith acquire the three artifacts?** What's her path from Avernus → Ruinstone + Ubbalux artifact + Conduit?
 4. **What's the party's entry point?** They're level 5, fighting the Carver at Icespire Hold. How do threads connect them to Iymrith's endgame over the next 10-15 levels?
-5. **Does the splinter faction become an uneasy ally?** They want the Ubbalux artifact too — could the party and the splinter Mind Flayers end up on the same side against Iymrith?
+5. ~~**Does the splinter faction become an uneasy ally?**~~ **Resolved:** yes, once the party exposes Iymrith's false promise of return. See "The Schism — Iymrith's angle" above.
 6. **What does Zariel get out of this?** She doesn't help for free.
 7. **Does KP know Iymrith is planning this?** He's cosmically aware — would he act to prevent it?
 8. **The Seelie Court fled Ascore — are they still a factor?** Do they owe debts, hold grudges, or have fey/dragon hybrid samples?

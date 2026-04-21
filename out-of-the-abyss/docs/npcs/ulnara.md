@@ -1,30 +1,35 @@
+---
+name: Ulnara
+aliases: []
+source_extracts: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54]
+---
+
 # Ulnara
 
 ## Identity
 - Derro necromancer, member of the Council of Savants
 - Cultist of Demogorgon
-- Oversees a zombie-producing operation in a pit filled with zombies, fungi, and decomposed flesh
-- First appeared emerging from a narrow tunnel in the southeast wall of the pit, accompanied by an Ogre Zombie, confronting the party
+- Operates a zombie-production pit filled with zombies, fungi, and decomposed flesh
+- First encountered when she emerged from a narrow tunnel in the southeast wall of her pit alongside an Ogre Zombie, confronting the party
 
 ## Personality & Motivations
-- Core goal: Advance her standing with the Council of Savants, particularly with Pliinki, through her necromantic work
-- Initially arrogant and demanding when she confronted the party, but instantly became sniveling and subservient when faced with a show of real power. Genuinely fearful of Drow. Opportunistic and self-serving — immediately tried to leverage the encounter to curry favor with Pliinki, claiming she had helped the "Ember Vanguard."
+- Initially arrogant and demanding — challenged the party on who they were and who they served. Her bravado collapsed instantly when Daz demonstrated lethal power, revealing a core of cowardice and self-preservation. Became sniveling and subservient, eagerly seeking to ingratiate herself with anyone she perceives as more powerful. Genuinely fearful of the Drow.
 
 ## History with the Party
-- Emerged from her tunnel with an Ogre Zombie and demanded to know who the party was and who they worked for.
-- After Daz killed Skiit with Toll the Dead, Ulnara's demeanor shifted completely — she became fearful and subservient, particularly upon realizing Daz was Drow.
-- Thanked the party for the "new supply" (Skiit's body, intended for zombification).
-- Eagerly asked the party to tell Pliinki that she had done much to help the "Ember Vanguard."
+- **First encounter (zombie pit):** Ulnara emerged aggressively, demanding to know who the party was and who they worked for. When Daz killed Skiit with Toll the Dead, she immediately switched to fawning deference. She thanked the party for the "new supply" (Skiit's body for zombification) and begged them to tell Pliinki that she had done much to help the "Ember Vanguard."
 
 ## Current Status
-- **Location:** Alive and operating in the zombie pit
-- **Activity:** Continuing her necromantic operation; now believes the party to be powerful allies
-- **Party knowledge:** The party knows she is a Derro necromancer, a Council of Savants member, a Demogorgon cultist, and that she is eager to impress Pliinki. They know she can be intimidated.
-- **Hidden:** The full scope of her operation and her exact relationship with Pliinki and the broader Council remain unclear.
+- **Location:** Alive, operating in the zombie pit
+- **Activity:** Continuing her necromantic operations; producing zombies
+- **Belief:** Convinced the party are powerful allies (likely Ember Vanguard–affiliated or Drow authority figures)
+- **Hidden from the party:** The full scope of her necromantic operation and her deeper ties to Demogorgon's cult remain unexplored
 
 ## Relationships
-- **Pliinki:** Ulnara is desperate to impress Pliinki and gain recognition; appears to be subordinate or seeking approval
-- **Council of Savants:** Member, though her standing and influence within the council are uncertain
-- **Daz (party member):** Deeply fearful of him after witnessing his power and recognizing him as Drow
-- **The Party:** Believes them to be powerful allies aligned with the "Ember Vanguard"
-- **Skiit:** Viewed his corpse purely as raw material — "new supply" for zombification
+- **Pliinki:** Someone Ulnara wants to impress; she desperately asked the party to relay her helpfulness to Pliinki
+- **Council of Savants:** Member of this body (broader role/standing unknown)
+- **Ember Vanguard:** Wants credit for aiding them; exact relationship unclear
+- **Daz (party member):** Deeply fears him after witnessing him kill Skiit; treats him with terrified deference
+- **Skiit:** Killed by Daz in front of Ulnara; she claimed the body as raw material without hesitation
+
+## Arc Score Events
+- No explicit arc score changes noted.

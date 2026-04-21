@@ -1,0 +1,3 @@
+# New notes for King Gnercli (from dossier_extract_003.md)
+
+King Gnercli is King Korboz's co-ruler and the functional decision-maker during Korboz's illness. He recognized the party as adventurers despite Vukradin's claim of a diplomatic mission. He offered a hat of wizardry as payment if the party eliminated the shapeshifter, and when Vukradin complained about its utility against a dragon, confirmed he had little else to offer. He suggested the cellar — full of large barrels the creature could mimic — as the most likely hiding spot. Current status: in the throne room area, last heard through the door.

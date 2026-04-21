@@ -1,0 +1,166 @@
+# Out-of-the-Abyss pre-cleanup mining inventory
+
+Snapshot of `wing=abyss` drawers in `~/.mempalace/palaces/chat/` ChromaDB taken before splitting into a dedicated `abyss` palace.
+
+- **Total drawers:** 1101
+- **Unique source files:** 154
+- **Source files still on disk:** 136
+- **Source files now missing:** 18
+- **Filed between:** 2026-04-16T19:50:18.953802 → 2026-04-17T14:47:26.682172
+
+| Room | Drawers | Chunks | On disk | Source file |
+|---|---:|---:|:---:|---|
+| arcs | 54 | 54 | YES | `/home/kroussos/campaigns/out-of-the-abyss/docs/endgame_design_process.md` |
+| arcs | 24 | 24 | YES | `/home/kroussos/campaigns/out-of-the-abyss/docs/risk_levers.md` |
+| arcs | 6 | 6 | YES | `/home/kroussos/campaigns/out-of-the-abyss/docs/gauntlgrym/gauntlgrym_asset_table.md` |
+| arcs | 3 | 3 | YES | `/home/kroussos/campaigns/out-of-the-abyss/docs/session_review_template.md` |
+| arcs | 2 | 2 | YES | `/home/kroussos/campaigns/out-of-the-abyss/docs/custom_tracking.txt` |
+| arcs | 2 | 2 | YES | `/home/kroussos/campaigns/out-of-the-abyss/docs/plan.md` |
+| arcs | 1 | 1 | YES | `/home/kroussos/campaigns/out-of-the-abyss/docs/heat.md` |
+| dead | 14 | 14 | YES | `/home/kroussos/campaigns/out-of-the-abyss/docs/dead/Deals made in Gracklstugh.md` |
+| dead | 10 | 10 | YES | `/home/kroussos/campaigns/out-of-the-abyss/docs/dead/Deals deep dive.md` |
+| dead | 7 | 7 | YES | `/home/kroussos/campaigns/out-of-the-abyss/docs/dead/Escape from the Neverlight Grove.md` |
+| general | 1 | 1 | YES | `/home/kroussos/campaigns/out-of-the-abyss/.mcp.json` |
+| mechanics | 44 | 44 | YES | `/home/kroussos/campaigns/out-of-the-abyss/docs/campaign_state.md` |
+| mechanics | 10 | 10 | YES | `/home/kroussos/campaigns/out-of-the-abyss/docs/daz_heir.md` |
+| mechanics | 6 | 6 | YES | `/home/kroussos/campaigns/out-of-the-abyss/docs/zalthir_power_prompts.md` |
+| mechanics | 1 | 1 | YES | `/home/kroussos/campaigns/out-of-the-abyss/docs/mechanics.md` |
+| npcs | 18 | 18 | YES | `/home/kroussos/campaigns/out-of-the-abyss/docs/decision_ladders.md` |
+| npcs | 14 | 14 | YES | `/home/kroussos/campaigns/out-of-the-abyss/docs/npcs/glabbagool.md` |
+| npcs | 12 | 12 | GONE | `/home/kroussos/campaigns/out-of-the-abyss/docs/npcs/errde.md` |
+| npcs | 12 | 12 | GONE | `/home/kroussos/campaigns/out-of-the-abyss/docs/npcs/vaelissa_t_sarran.md` |
+| npcs | 11 | 11 | GONE | `/home/kroussos/campaigns/out-of-the-abyss/docs/npcs/vizeran_devir.md` |
+| npcs | 10 | 10 | YES | `/home/kroussos/campaigns/out-of-the-abyss/docs/npcs/eldeth.md` |
+| npcs | 10 | 10 | YES | `/home/kroussos/campaigns/out-of-the-abyss/docs/npcs/dorbo_diggermattock.md` |
+| npcs | 10 | 10 | YES | `/home/kroussos/campaigns/out-of-the-abyss/docs/npcs/shuushar.md` |
+| npcs | 10 | 10 | YES | `/home/kroussos/campaigns/out-of-the-abyss/docs/npcs/buppido.md` |
+| npcs | 9 | 9 | YES | `/home/kroussos/campaigns/out-of-the-abyss/docs/npcs/jadgar.md` |
+| npcs | 9 | 9 | YES | `/home/kroussos/campaigns/out-of-the-abyss/docs/npcs/sarith.md` |
+| npcs | 9 | 9 | YES | `/home/kroussos/campaigns/out-of-the-abyss/docs/npcs/gartokkar_xundorn.md` |
+| npcs | 8 | 8 | YES | `/home/kroussos/campaigns/out-of-the-abyss/docs/npcs/themberchaud.md` |
+| npcs | 8 | 8 | YES | `/home/kroussos/campaigns/out-of-the-abyss/docs/npcs/zuggtmoy.md` |
+| npcs | 8 | 8 | YES | `/home/kroussos/campaigns/out-of-the-abyss/docs/npcs/narrak.md` |
+| npcs | 8 | 8 | YES | `/home/kroussos/campaigns/out-of-the-abyss/docs/npcs/rump_a_dump.md` |
+| npcs | 8 | 8 | YES | `/home/kroussos/campaigns/out-of-the-abyss/docs/npcs/asha_vandree.md` |
+| npcs | 8 | 8 | YES | `/home/kroussos/campaigns/out-of-the-abyss/docs/npcs/stool.md` |
+| npcs | 8 | 8 | GONE | `/home/kroussos/campaigns/out-of-the-abyss/docs/npcs/ilvara.md` |
+| npcs | 7 | 7 | YES | `/home/kroussos/campaigns/out-of-the-abyss/docs/npcs/hgraam.md` |
+| npcs | 7 | 7 | GONE | `/home/kroussos/campaigns/out-of-the-abyss/docs/npcs/werz.md` |
+| npcs | 7 | 7 | YES | `/home/kroussos/campaigns/out-of-the-abyss/docs/npcs/naomi_pathshutter.md` |
+| npcs | 7 | 7 | YES | `/home/kroussos/campaigns/out-of-the-abyss/docs/npcs/topsy.md` |
+| npcs | 7 | 7 | GONE | `/home/kroussos/campaigns/out-of-the-abyss/docs/npcs/jorlan.md` |
+| npcs | 7 | 7 | YES | `/home/kroussos/campaigns/out-of-the-abyss/docs/npcs/senni_diggermattock.md` |
+| npcs | 7 | 7 | YES | `/home/kroussos/campaigns/out-of-the-abyss/docs/npcs/chipgrin.md` |
+| npcs | 7 | 7 | YES | `/home/kroussos/campaigns/out-of-the-abyss/docs/npcs/basidia.md` |
+| npcs | 7 | 7 | YES | `/home/kroussos/campaigns/out-of-the-abyss/docs/npcs/phylo.md` |
+| npcs | 6 | 6 | YES | `/home/kroussos/campaigns/out-of-the-abyss/docs/npcs/ploopploopeen.md` |
+| npcs | 6 | 6 | YES | `/home/kroussos/campaigns/out-of-the-abyss/docs/npcs/pudding_king.md` |
+| npcs | 6 | 6 | YES | `/home/kroussos/campaigns/out-of-the-abyss/docs/npcs/plinki.md` |
+| npcs | 6 | 6 | YES | `/home/kroussos/campaigns/out-of-the-abyss/docs/npcs/spiderbait.md` |
+| npcs | 6 | 6 | YES | `/home/kroussos/campaigns/out-of-the-abyss/docs/npcs/pelek.md` |
+| npcs | 6 | 6 | YES | `/home/kroussos/campaigns/out-of-the-abyss/docs/npcs/dawnbringer.md` |
+| npcs | 6 | 6 | YES | `/home/kroussos/campaigns/out-of-the-abyss/docs/npcs/dasco_pickshine.md` |
+| npcs | 6 | 6 | YES | `/home/kroussos/campaigns/out-of-the-abyss/docs/npcs/demogorgon.md` |
+| npcs | 6 | 6 | YES | `/home/kroussos/campaigns/out-of-the-abyss/docs/npcs/gasbide.md` |
+| npcs | 6 | 6 | YES | `/home/kroussos/campaigns/out-of-the-abyss/docs/npcs/entemoch.md` |
+| npcs | 6 | 6 | YES | `/home/kroussos/campaigns/out-of-the-abyss/docs/npcs/turvy.md` |
+| npcs | 6 | 6 | GONE | `/home/kroussos/campaigns/out-of-the-abyss/docs/npcs/yukyuk.md` |
+| npcs | 6 | 6 | YES | `/home/kroussos/campaigns/out-of-the-abyss/docs/npcs/droki.md` |
+| npcs | 6 | 6 | YES | `/home/kroussos/campaigns/out-of-the-abyss/docs/gauntlgrym/grygum_stroud_echo_scene_packet.md` |
+| npcs | 5 | 5 | YES | `/home/kroussos/campaigns/out-of-the-abyss/docs/npcs/hemeth.md` |
+| npcs | 5 | 5 | YES | `/home/kroussos/campaigns/out-of-the-abyss/docs/npcs/ulnara.md` |
+| npcs | 5 | 5 | YES | `/home/kroussos/campaigns/out-of-the-abyss/docs/npcs/rusharoo.md` |
+| npcs | 5 | 5 | YES | `/home/kroussos/campaigns/out-of-the-abyss/docs/npcs/grogluk.md` |
+| npcs | 5 | 5 | YES | `/home/kroussos/campaigns/out-of-the-abyss/docs/npcs/voosbur.md` |
+| npcs | 5 | 5 | YES | `/home/kroussos/campaigns/out-of-the-abyss/docs/npcs/aliinka.md` |
+| npcs | 5 | 5 | YES | `/home/kroussos/campaigns/out-of-the-abyss/docs/npcs/kazook_pickshine.md` |
+| npcs | 5 | 5 | GONE | `/home/kroussos/campaigns/out-of-the-abyss/docs/npcs/vizeran_blink_clues.md` |
+| npcs | 5 | 5 | YES | `/home/kroussos/campaigns/out-of-the-abyss/docs/npcs/fargas_rumblefoot.md` |
+| npcs | 5 | 5 | YES | `/home/kroussos/campaigns/out-of-the-abyss/docs/npcs/brysis_of_khaem.md` |
+| npcs | 5 | 5 | YES | `/home/kroussos/campaigns/out-of-the-abyss/docs/npcs/nym_duskryn.md` |
+| npcs | 5 | 5 | YES | `/home/kroussos/campaigns/out-of-the-abyss/docs/npcs/brannum_redmarch.md` |
+| npcs | 5 | 5 | YES | `/home/kroussos/campaigns/out-of-the-abyss/docs/npcs/jimjar.md` |
+| npcs | 5 | 5 | GONE | `/home/kroussos/campaigns/out-of-the-abyss/docs/npcs/bloppblippodd_blopp.md` |
+| npcs | 5 | 5 | YES | `/home/kroussos/campaigns/out-of-the-abyss/docs/npcs/ogremoch.md` |
+| npcs | 5 | 5 | GONE | `/home/kroussos/campaigns/out-of-the-abyss/docs/npcs/prince_derendil.md` |
+| npcs | 4 | 4 | YES | `/home/kroussos/campaigns/out-of-the-abyss/docs/npcs/juiblex.md` |
+| npcs | 4 | 4 | GONE | `/home/kroussos/campaigns/out-of-the-abyss/docs/npcs/nym.md` |
+| npcs | 4 | 4 | YES | `/home/kroussos/campaigns/out-of-the-abyss/docs/npcs/ront.md` |
+| npcs | 4 | 4 | YES | `/home/kroussos/campaigns/out-of-the-abyss/docs/npcs/rust.md` |
+| npcs | 4 | 4 | YES | `/home/kroussos/campaigns/out-of-the-abyss/docs/npcs/dorhun.md` |
+| npcs | 4 | 4 | YES | `/home/kroussos/campaigns/out-of-the-abyss/docs/npcs/eldgrim.md` |
+| npcs | 4 | 4 | GONE | `/home/kroussos/campaigns/out-of-the-abyss/docs/npcs/hepbobe_also_referred_to_as_hepbode.md` |
+| npcs | 4 | 4 | GONE | `/home/kroussos/campaigns/out-of-the-abyss/docs/npcs/uth_jadgar.md` |
+| npcs | 4 | 4 | YES | `/home/kroussos/campaigns/out-of-the-abyss/docs/npcs/xinaya.md` |
+| npcs | 4 | 4 | YES | `/home/kroussos/campaigns/out-of-the-abyss/docs/npcs/diirdeklin.md` |
+| npcs | 4 | 4 | YES | `/home/kroussos/campaigns/out-of-the-abyss/docs/npcs/welnaste_mizzrym.md` |
+| npcs | 4 | 4 | YES | `/home/kroussos/campaigns/out-of-the-abyss/docs/npcs/glooglugogg.md` |
+| npcs | 4 | 4 | YES | `/home/kroussos/campaigns/out-of-the-abyss/docs/npcs/shal.md` |
+| npcs | 4 | 4 | YES | `/home/kroussos/campaigns/out-of-the-abyss/docs/npcs/yrberop.md` |
+| npcs | 4 | 4 | YES | `/home/kroussos/campaigns/out-of-the-abyss/docs/npcs/thangus_ironhead.md` |
+| npcs | 4 | 4 | YES | `/home/kroussos/campaigns/out-of-the-abyss/docs/npcs/guldor.md` |
+| npcs | 4 | 4 | YES | `/home/kroussos/campaigns/out-of-the-abyss/docs/npcs/gurnik_tapfinger.md` |
+| npcs | 4 | 4 | YES | `/home/kroussos/campaigns/out-of-the-abyss/docs/npcs/milo_goodbarrel.md` |
+| npcs | 4 | 4 | GONE | `/home/kroussos/campaigns/out-of-the-abyss/docs/npcs/fuurm_coppernose_copper.md` |
+| npcs | 4 | 4 | YES | `/home/kroussos/campaigns/out-of-the-abyss/docs/npcs/bimble.md` |
+| npcs | 4 | 4 | YES | `/home/kroussos/campaigns/out-of-the-abyss/docs/npcs/imbros.md` |
+| npcs | 4 | 4 | YES | `/home/kroussos/campaigns/out-of-the-abyss/docs/npcs/grinta_ironhead.md` |
+| npcs | 4 | 4 | YES | `/home/kroussos/campaigns/out-of-the-abyss/docs/npcs/baedora.md` |
+| npcs | 4 | 4 | YES | `/home/kroussos/campaigns/out-of-the-abyss/docs/npcs/uskvil.md` |
+| npcs | 3 | 3 | YES | `/home/kroussos/campaigns/out-of-the-abyss/docs/npcs/prince_livid.md` |
+| npcs | 3 | 3 | YES | `/home/kroussos/campaigns/out-of-the-abyss/docs/npcs/korrh_erann.md` |
+| npcs | 3 | 3 | YES | `/home/kroussos/campaigns/out-of-the-abyss/docs/npcs/glyphic_shroomlight.md` |
+| npcs | 3 | 3 | YES | `/home/kroussos/campaigns/out-of-the-abyss/docs/npcs/perigrog_scrapedust.md` |
+| npcs | 3 | 3 | YES | `/home/kroussos/campaigns/out-of-the-abyss/docs/npcs/tarngardt.md` |
+| npcs | 3 | 3 | YES | `/home/kroussos/campaigns/out-of-the-abyss/docs/npcs/flumph.md` |
+| npcs | 3 | 3 | YES | `/home/kroussos/campaigns/out-of-the-abyss/docs/npcs/stroud.md` |
+| npcs | 3 | 3 | YES | `/home/kroussos/campaigns/out-of-the-abyss/docs/npcs/loobamub.md` |
+| npcs | 3 | 3 | YES | `/home/kroussos/campaigns/out-of-the-abyss/docs/npcs/runc.md` |
+| npcs | 3 | 3 | GONE | `/home/kroussos/campaigns/out-of-the-abyss/docs/npcs/kaelira.md` |
+| npcs | 3 | 3 | YES | `/home/kroussos/campaigns/out-of-the-abyss/docs/npcs/valimor_brightgem.md` |
+| npcs | 3 | 3 | YES | `/home/kroussos/campaigns/out-of-the-abyss/docs/npcs/skiit.md` |
+| npcs | 3 | 3 | YES | `/home/kroussos/campaigns/out-of-the-abyss/docs/npcs/grimholl_forgebrand.md` |
+| npcs | 3 | 3 | YES | `/home/kroussos/campaigns/out-of-the-abyss/docs/npcs/protanther.md` |
+| npcs | 3 | 3 | YES | `/home/kroussos/campaigns/out-of-the-abyss/docs/npcs/shoor.md` |
+| npcs | 3 | 3 | YES | `/home/kroussos/campaigns/out-of-the-abyss/docs/npcs/rihaud.md` |
+| npcs | 3 | 3 | YES | `/home/kroussos/campaigns/out-of-the-abyss/docs/npcs/tappy_foamstrap.md` |
+| npcs | 3 | 3 | YES | `/home/kroussos/campaigns/out-of-the-abyss/docs/npcs/valen.md` |
+| npcs | 3 | 3 | YES | `/home/kroussos/campaigns/out-of-the-abyss/docs/npcs/gru_manga.md` |
+| npcs | 3 | 3 | YES | `/home/kroussos/campaigns/out-of-the-abyss/docs/npcs/diinarnnmyr.md` |
+| npcs | 3 | 3 | GONE | `/home/kroussos/campaigns/out-of-the-abyss/docs/npcs/gorg_bahamut_grog_bahamut.md` |
+| npcs | 3 | 3 | YES | `/home/kroussos/campaigns/out-of-the-abyss/docs/npcs/dulgir.md` |
+| npcs | 2 | 2 | YES | `/home/kroussos/campaigns/out-of-the-abyss/docs/npcs/grimgrim.md` |
+| npcs | 2 | 2 | YES | `/home/kroussos/campaigns/out-of-the-abyss/docs/npcs/lingrick_xardelvar.md` |
+| npcs | 2 | 2 | YES | `/home/kroussos/campaigns/out-of-the-abyss/docs/npcs/araumycos.md` |
+| npcs | 2 | 2 | YES | `/home/kroussos/campaigns/out-of-the-abyss/docs/npcs/udhask.md` |
+| npcs | 2 | 2 | YES | `/home/kroussos/campaigns/out-of-the-abyss/docs/npcs/balok.md` |
+| npcs | 2 | 2 | YES | `/home/kroussos/campaigns/out-of-the-abyss/docs/npcs/starlace.md` |
+| npcs | 2 | 2 | GONE | `/home/kroussos/campaigns/out-of-the-abyss/docs/npcs/eldev.md` |
+| npcs | 2 | 2 | YES | `/home/kroussos/campaigns/out-of-the-abyss/docs/npcs/jaezred.md` |
+| npcs | 2 | 2 | YES | `/home/kroussos/campaigns/out-of-the-abyss/docs/npcs/aliza_argot.md` |
+| npcs | 2 | 2 | YES | `/home/kroussos/campaigns/out-of-the-abyss/docs/npcs/gerdig_katfinger.md` |
+| npcs | 2 | 2 | YES | `/home/kroussos/campaigns/out-of-the-abyss/docs/npcs/vazuk.md` |
+| npcs | 2 | 2 | YES | `/home/kroussos/campaigns/out-of-the-abyss/docs/npcs/beremil.md` |
+| npcs | 2 | 2 | YES | `/home/kroussos/campaigns/out-of-the-abyss/docs/npcs/the_garden_shadow.md` |
+| npcs | 2 | 2 | YES | `/home/kroussos/campaigns/out-of-the-abyss/docs/npcs/king_hekaton.md` |
+| npcs | 2 | 2 | YES | `/home/kroussos/campaigns/out-of-the-abyss/docs/npcs/yestabrod.md` |
+| npcs | 2 | 2 | YES | `/home/kroussos/campaigns/out-of-the-abyss/docs/npcs/terrestor.md` |
+| npcs | 2 | 2 | YES | `/home/kroussos/campaigns/out-of-the-abyss/docs/npcs/whisperwind.md` |
+| npcs | 2 | 2 | GONE | `/home/kroussos/campaigns/out-of-the-abyss/docs/npcs/khaem.md` |
+| npcs | 2 | 2 | YES | `/home/kroussos/campaigns/out-of-the-abyss/docs/npcs/princess_ebonmire.md` |
+| npcs | 2 | 2 | YES | `/home/kroussos/campaigns/out-of-the-abyss/docs/npcs/the_matron_mother_of_house_t_sarran.md` |
+| npcs | 1 | 1 | YES | `/home/kroussos/campaigns/out-of-the-abyss/docs/npcs/kalannar.md` |
+| world | 47 | 47 | YES | `/home/kroussos/campaigns/out-of-the-abyss/docs/planning.md` |
+| world | 46 | 46 | YES | `/home/kroussos/campaigns/out-of-the-abyss/docs/world_state.md` |
+| world | 37 | 37 | YES | `/home/kroussos/campaigns/out-of-the-abyss/docs/party.md` |
+| world | 32 | 32 | YES | `/home/kroussos/campaigns/out-of-the-abyss/docs/endgame_extension_rationale.md` |
+| world | 23 | 23 | YES | `/home/kroussos/campaigns/out-of-the-abyss/docs/gauntlgrym/gauntlgrym_faction_pitches.md` |
+| world | 20 | 20 | YES | `/home/kroussos/campaigns/out-of-the-abyss/docs/campaign_master_plan.md` |
+| world | 18 | 18 | YES | `/home/kroussos/campaigns/out-of-the-abyss/docs/tracking.txt` |
+| world | 13 | 13 | YES | `/home/kroussos/campaigns/out-of-the-abyss/docs/world_state_custom.md` |
+| world | 13 | 13 | YES | `/home/kroussos/campaigns/out-of-the-abyss/docs/gauntlgrym/gauntlgrym_bruenor_scene_script.md` |
+| world | 12 | 12 | YES | `/home/kroussos/campaigns/out-of-the-abyss/docs/daz_devir_narrative_arc.md` |
+| world | 11 | 11 | YES | `/home/kroussos/campaigns/out-of-the-abyss/docs/canon_guardrails.md` |
+| world | 9 | 9 | YES | `/home/kroussos/campaigns/out-of-the-abyss/docs/gauntlgrym/faction_asset_network.md` |
+| world | 8 | 8 | YES | `/home/kroussos/campaigns/out-of-the-abyss/docs/campaign_design_frame.md` |
+| world | 7 | 7 | YES | `/home/kroussos/campaigns/out-of-the-abyss/docs/gauntlgrym/dm_guide_faction_assets.md` |

@@ -1,39 +1,45 @@
+---
+name: Spiderbait
+aliases: []
+source_extracts: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54]
+---
+
 # Spiderbait
 
 ## Identity
 - Goblin guide of the Silken Paths, paired with his partner Yukyuk
-- Color motif: pink; tattoo-covered, casual attire
-- Distinctive accent — rolled R's and oddly clipped vowels
-- First met the party at the Silken Paths, where he and Yukyuk were hired as web guides after Jimjar couldn't pay a 20-gold bet
+- Color motif: pink; tattoo-covered, casual attire; speaks with rolled R's and oddly clipped vowels
+- First met the party at the Silken Paths, where he and Yukyuk agreed to serve as guides in exchange for 20 gold (a debt owed by Jimjar)
 
 ## Personality & Motivations
-- Confident and boastful about his skills as a guide ("I went around the spider and through its legs"). Enthusiastic and positive when things go well — a high-fiver and hype man. Opinionated and not shy about giving unsolicited critiques, such as calling the party's use of magic in a spider fight "kind of a cheat." Deeply loyal to those he bonds with, as shown by his intense grief over Yukyuk and his seething rage toward Buppido. Quick to anger but can be talked down by people he trusts (notably Jimjar).
+- Core goal: getting paid the 20 gold Jimjar owes; secondary drive is survival and loyalty to his companions
+- Confident and boastful about his skills — bragged about taking a harder route through the webs ("I went around the spider and through its legs"). Enthusiastic and positive when things go well, volatile and emotional when they don't. Quick to assign blame (accused Shuushar of Yukyuk's murder). Has strong opinions about fighting fair, criticizing the use of magic as "kind of a cheat." Deeply loyal to Yukyuk and devastated by his death.
 
 ## History with the Party
-1. **Silken Paths (Hire):** Proposed the arrangement where he and Yukyuk would serve as guides until Jimjar could pay the 20-gold debt. Demonstrated web expertise, warned the group about fire dangers (30-foot death zone), and was impressed by Eldeth's rope-tying safety innovation.
-2. **Spider Fight:** Critiqued the party's reliance on magic. Noted that whether the Drow pursuers would be slowed depended on guide quality, boasting he and Yukyuk know the best routes. Was tempted to leave over unpaid wages but stayed because he was impressed by Zalthir.
-3. **Yukyuk's Murder (1st day, 3rd Tenday of Taraskh 1493):** Discovered Yukyuk's body and screamed, waking the group. Demanded money from Jimjar and threatened to leave. After being calmed, was questioned by Daz — described Yukyuk as "the kindest, gentlest goblin you could imagine." Accused Shuushar of the murder, claiming Kuo-toans go mad and kill.
-4. **Kuo-toa Civil War:** Fled with the other escapees toward Grygum.
-5. **Keelboat Ambush:** Captured by duergar; a duergar dragged him away, but Zalthir killed the creature holding him. Afterward, was "seething with rage" and wanted to kill Buppido on the spot near Gracklstugh.
-6. **Gracklstugh / Underlake Hold:** Armed by Errde alongside Jimjar, Sarith, and Eldeth. Ordered to wait outside the assassin's chambers by Rust. Traveled past the Derro caves with the group. Skiit (a derro?) pointed at him and asked "Can I kill that one over there?" Told to wait outside the final cavern.
-7. **Blingdenstone:** Volunteered alongside Glabbagool, Eldeth, and Jimjar to tackle the ghost problem.
+1. **Silken Paths** — Hired as a guide after devising the solution to Jimjar's unpaid bet: he and Yukyuk would stay with the group until the debt was settled. Enthusiastically high-fived Yukyuk. Took mental notes on Eldeth's rope-tying safety innovation. Warned the group about the lethal danger of burning webs.
+2. **Spider Fight** — Critiqued the party's use of magic, advocating for skill-based solutions. Explained the Drow pursuit would depend on guide quality and that he and Yukyuk knew the best routes.
+3. **Yukyuk's Murder (1st day, 3rd Tenday of Taraskh 1493)** — Discovered Yukyuk's body and screamed, waking the group. Raged at Jimjar demanding money and threatening to leave. Calmed down by Jimjar. When questioned by Daz, described Yukyuk as "the kindest, gentlest goblin you could imagine." Accused Shuushar of being the killer, claiming Kuo-toans go mad and kill people. Was tempted to leave but stayed, reportedly impressed by Zalthir.
+4. **Kuo-toa Civil War** — Fled with the other escapees toward Grygum.
+5. **Keelboat Ambush** — Captured by duergar; a duergar dragged him away, but Zalthir killed the creature holding him. Afterward, was "seething with rage" and wanted to kill Buppido on the spot.
+6. **Gracklstugh / Underlake Hold** — Armed by Errde alongside Jimjar, Sarith, and Eldeth. Ordered to wait outside the assassin's chambers by Rust. Traveled with the group past the Derro caves. Skiit (a derro?) specifically pointed at Spiderbait and asked "Can I kill that one over there?"
+7. **Blingdenstone** — Volunteered alongside Glabbagool, Eldeth, and Jimjar to tackle the ghost problem.
 
 ## Current Status
-- **Last known location:** Blingdenstone, volunteering for the ghost problem
-- **Alive and active** as an NPC companion
-- Still grieving Yukyuk; harbors intense hostility toward Buppido
-- No indication the 20-gold debt has been resolved
+- **Location:** Blingdenstone, volunteering for the ghost problem
+- **Emotional state:** Still grieving Yukyuk; carries deep anger (wanted to kill Buppido). Functionally loyal to the group but volatile.
+- **Open thread:** Jimjar's 20-gold debt remains a simmering issue.
 
 ## Relationships
-- **Yukyuk:** Best friend and partner. Devastated by his murder; described him as the kindest goblin imaginable.
-- **Jimjar:** Financial relationship (the debt). Jimjar can calm him down — some degree of trust exists despite frustration over payment.
-- **Zalthir:** Impressed by Zalthir; this admiration kept him from leaving the group. Zalthir also saved his life during the keelboat ambush.
-- **Buppido:** Intense hatred. Wanted to kill him on sight near Gracklstugh.
-- **Shuushar:** Accused him of murdering Yukyuk. Distrusts Kuo-toans generally.
-- **Daz:** Cooperated with Daz's questioning about Yukyuk's murder.
-- **Eldeth:** Observed and admired her rope-tying innovation at the Silken Paths.
-- **Errde:** Armed by Errde at Underlake Hold.
-- **Skiit:** Skiit targeted him specifically, asking permission to kill him.
+- **Yukyuk** — Best friend and partner. Devastated by his murder; described him in glowing terms.
+- **Jimjar** — Creditor-debtor relationship. Source of ongoing tension over the unpaid 20 gold, but Jimjar has managed to calm him down in moments of crisis.
+- **Zalthir** — Impressed by Zalthir; this admiration kept him from leaving the group. Zalthir also directly saved his life during the keelboat ambush.
+- **Shuushar** — Accused him of murdering Yukyuk. Deeply distrustful.
+- **Buppido** — Wanted to kill him. Seething hostility.
+- **Eldeth** — Cooperative; Spiderbait was intrigued by her rope-tying innovation. Both volunteered for the Blingdenstone ghost mission.
+- **Daz** — Questioned by Daz about the murder; cooperated with the investigation.
+- **Skiit** — Skiit singled him out as a target ("Can I kill that one over there?").
 
 ## Arc Score Events
-No explicit arc score changes noted in the source material.
+- **Yukyuk's murder** — Major emotional blow; triggered rage and near-departure (relationship with group strained, decrease).
+- **Zalthir saving him from the duergar** — Reinforced loyalty to the group, particularly Zalthir (increase).
+- **Being impressed by Zalthir earlier** — Kept him from leaving after payment disputes (increase).

@@ -1,34 +1,43 @@
+---
+name: Pudding King
+aliases:
+  - The Pudding King
+source_extracts: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54]
+---
+
 # Pudding King
 
 ## Identity
-- Servant of Juiblex, the demon lord of oozes; also collaborated with Zuggtmoy
-- Commander of oozes in the Underdark
-- Confronted by the party in his throne room after they breached the walls using an Earth Elemental
+Small deep gnome, now transformed into a sentient telepathic ooze; self-styled ruler of an ooze kingdom and central source of the ooze plague threatening Blingdenstone. Servant of Juiblex (the Faceless Lord, demon lord of oozes) and collaborator with Zuggtmoy (Queen of Rot). *Also known as: The Pudding King.*
 
 ## Personality & Motivations
-- Fanatically devoted to Juiblex, having willingly shed his humanoid form to become a sentient, telepathic ooze. Sought to reduce all deep-dwelling civilizations into ooze. Grandiose and theatrical in his telepathic declarations, though the party found his mental volume obnoxious.
-
-## Pre-Confrontation
-- Identity: A former deep gnome tunnel worker before his transformation into a sentient ooze.
-- Chief Chipgrin knew him personally before his transformation.
-- Named henchmen: Princess Ebonheir and Prince Livid.
-- Hostile relationship with Zuggtmoy — he resents her encroachment on his territory; she wants to co-opt his oozes. Juiblex's influence was passively destabilizing Blingdenstone's leadership and populace.
-- The party scouted his lair via Daz's bat familiar: throne described as slime-covered, cave lit by phosphorescent lichen, surrounded by hundreds of oozes.
-- Addressed the party with a disembodied voice welcome in the ooze-filled cavern south of Blingdenstone.
-- Observed through an ochre jelly barricade monologuing to his henchmen about Blingdenstone's army being consumed.
+- Fanatically devoted to Juiblex, willingly surrendering his humanoid form to become a sentient, telepathic ooze
+- Driven by vengeance, pride, madness, and a zealous desire to reduce all deep-dwelling races to ooze, all amplified by Juiblex's demonic influence
+- Seeks to "cleanse" Blingdenstone by converting its population into ooze biomass
+- Grandiose and theatrical—holds court like a deranged king, delivering dramatic telepathic monologues mid-combat (though the party asked him to lower his mental volume)
+- Paranoid about Zuggtmoy trying to usurp his promised kingdom, believing Juiblex's claim supersedes hers
+- Also served Zuggtmoy's fungal corruption plans by using oozes to "soften the shell" so her garden could "take root in the flesh beneath"
 
 ## History with the Party
-1. **First mention:** The party overheard Zuggtmoy's psychic message directed at the Pudding King, revealing his role in using oozes to "soften the shell" so her fungal garden could "take root in the flesh beneath."
-2. **Confrontation:** The party breached his throne room walls with an Earth Elemental. When Zalthir attempted to grapple him, the Pudding King transformed into his true ooze form, telepathically declaring his intent to reduce all deep-known kind to ooze.
-3. **Battle:** He leveraged green slime ceiling hazards and lair actions, including devastating slime wave attacks that knocked multiple party members prone. Zalthir grappled him and made the key tactical decision to drag him out of his throne room, stripping him of lair actions. During this, the Pudding King was dragged through Glabbagool's body, resulting in a body/position swap that caused the party to accidentally attack Glabbagool.
-4. **Death:** Under coordinated assault from Daz (Magic Missile, 20 damage), Grygum (Inflict Wounds, 23 damage), Thorin (Dawnbringer radiant strikes, 12 damage), and Zalthir (Eldritch Claw tentacle-enhanced flurry, 37 damage), the Pudding King dissolved with a final telepathic scream: *"Behold the true feast, the soul's final blend!"* His consciousness dissipated and his form melted into inert puddles.
+1. **First Discovery:** Daz's bat familiar located him seated on a slime-covered throne in a phosphorescent cave deep south of Blingdenstone, where he was heard broadcasting a disembodied voice welcoming visitors and proclaiming Juiblex's coming.
+2. **Intelligence Gathering:** Chief Chipgrin revealed the Pudding King was once an ordinary gnome tunnel worker before his transformation. The party learned his demonic corruption is bleeding outward, amplifying greed and aggression across Blingdenstone's population.
+3. **Psychic Interception:** The party overheard Zuggtmoy's psychic message directed at the Pudding King, revealing his role as her collaborator—commanding oozes in service of her fungal corruption schemes.
+4. **Pre-Battle Observation:** The party observed him through the ochre jelly barricade, monologuing to Princess Ebonheir and Prince Livid about Blingdenstone's imminent fall, ranting that Zuggtmoy would not take what Juiblex promised him.
+5. **Confrontation:** The party breached his throne room walls with an Earth Elemental. When Zalthir attempted to grapple him, the Pudding King shed his humanoid form, revealing himself as a sentient telepathic ooze.
+6. **Battle:** He leveraged green slime ceiling hazards and lair actions, including devastating slime wave attacks that knocked multiple party members prone and coated them in corrosive slime. Zalthir grappled him and made the crucial decision to drag him out of the throne room, stripping him of his lair actions. During this, Zalthir dragged him through Glabbagool's body, causing a body/position swap that led the party to accidentally attack Glabbagool before realizing the deception.
+7. **Death:** Under a coordinated assault from the full party—Daz (Magic Missile, 20 damage), Grygum (Inflict Wounds, 23 damage), Thorin (Dawnbringer strikes, 12 radiant damage), and Zalthir (Eldritch Claw tentacle-enhanced flurry, 37 damage)—the Pudding King dissolved with a final telepathic scream: *"Behold the true feast, the soul's final blend!"* His consciousness dissipated and his form melted into inert puddles.
 
 ## Current Status
-- **Dead.** Dissolved into inert puddles. Consciousness dissipated.
-- His destruction removes a key agent of both Juiblex and Zuggtmoy from the Underdark.
+**Dead.** Dissolved completely; consciousness dissipated, physical form reduced to inert puddles. His death removes a key operative from both Juiblex's and Zuggtmoy's plans in the Underdark, though Zuggtmoy's broader schemes remain active.
 
 ## Relationships
-- **Juiblex:** Primary patron; the Pudding King fully embraced Juiblex's power, transforming into a sentient ooze.
-- **Zuggtmoy:** Collaborative relationship; he commanded oozes in service of her fungal corruption plans.
-- **Glabbagool:** Used Glabbagool's presence in the battle to cause confusion via a body/position swap.
-- **The Party:** Enemies. Killed by coordinated effort of Zalthir, Daz, Grygum, and Thorin.
+- **Juiblex:** Primary patron who promised the Pudding King dominion over Blingdenstone in exchange for converting biomass to ooze; the Pudding King fully embraced Juiblex's power, sacrificing his humanoid form
+- **Zuggtmoy:** Active collaborator in psychic communication; wanted to use his ooze work as preparation for her own fungal colonization—he resented and distrusted her attempts to usurp his promised kingdom
+- **Princess Ebonheir & Prince Livid:** His two ooze henchmen, present in the throne room during the assault
+- **Chief Chipgrin:** Knew him before his transformation; former acquaintance from the tunnels
+- **Blingdenstone:** His demonic influence was passively corrupting the entire gnome community
+- **Glabbagool:** Used Glabbagool's presence in battle to create a body/position swap, causing confusion and friendly fire among the party
+- **The Party:** Viewed them as insignificant compared to his divine mission; they viewed him as a key threat to be eliminated
+
+## Arc Score Events
+- None explicitly noted.

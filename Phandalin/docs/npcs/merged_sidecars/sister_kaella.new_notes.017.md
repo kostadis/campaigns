@@ -1,0 +1,3 @@
+# New notes for Sister Kaella (from dossier_extract_017.md)
+
+Sister Kella is an enemy of the party who made contact with them prior to this session, offering to work with them against the Carver. She provided information on how to find the Carver and offered the party the reward she had previously promised to Lokudus as a down payment for their cooperation. Her motivations appear to be opposition to the Carver rather than any alignment with the party's values. Her offer caused significant internal conflict within the party, particularly with Vukradin, who refused to accept what he considered stolen goods or work with an evil person. Kella herself did not appear directly in this session; her actions were relayed by Valphine during the tavern discussion.

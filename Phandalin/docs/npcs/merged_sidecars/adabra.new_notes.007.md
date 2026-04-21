@@ -1,0 +1,3 @@
+# New notes for adabra (from dossier_extract_007.md)
+
+Adabra was encountered near Barthen's Provisions on the road to the Triboar Trail as the party departed Phandalin. She approached the group, smiled at Vukradin, but appeared put off when he drew near and instead pulled Soma aside privately. She relayed a concern about an old grove past Whisper Woods — once a vibrant blessing of Chauntea — that was now withering unnaturally. She described trees twisted into impossible shapes, colors bleeding wrong, and creatures with too many eyes moving in jerky, broken ways. She made a passing remark about interventionists and the Emerald Enclave. Soma agreed to look into the matter. Last known status: near Barthen's Provisions outside Phandalin.

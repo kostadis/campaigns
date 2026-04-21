@@ -1,30 +1,39 @@
+---
+name: Dasco Pickshine
+aliases:
+  - Dazco Pickshine
+source_extracts: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54]
+---
+
 # Dasco Pickshine
 
 ## Identity
-- Owner and operator of Pickshine Mine (self-branded as "Dasco Pickshine Mines")
-- Mine operator and relentless self-promoter
-- First encountered when the party arrived at his mine to deal with Galeb Duhr blocking a path
+Owner and operator of Pickshine Mine (self-branded as "Dasco Pickshine Mines") and representative of the Miners Guild. *Also known as: Dazco Pickshine.*
 
 ## Personality & Motivations
-- Core drive: promoting and expanding the Dasco Pickshine brand at every opportunity. Every piece of his clothing and equipment bears his company logo.
-- Grudging about parting with wealth — he paid the party for their help but clearly didn't enjoy it. Resourceful and practical when it comes to mining problems, offering real solutions like bridging a black pudding pit with mithril braces and salt neutralizers.
-- Personable in a salesman sort of way — offers "branded tea," eagerly sews company patches onto willing visitors' clothes, and takes visible pride standing beside party members wearing his brand.
+- Core goal: promote and expand his mining brand at every possible opportunity
+- Secure funding for city repairs through mining revenue; prioritizes the economic interests of the Miners Guild
+- Dasco is a relentless self-promoter — every piece of his clothing and equipment bears his company logo, he offers "branded tea," and he personally sewed a Dasco Pickshine patch onto Daz's clothes. He takes a "holistic approach to marketing" his mining operation
+- Despite his bluster, he is pragmatic and resourceful, though grudging when it comes to parting with payment
+- Initially pushed hard for immediate strip mining as the fastest path to revenue, showing little concern for other considerations. However, he proved willing to negotiate and ultimately accepted a compromise, suggesting he values practical outcomes over ideological stubbornness
 
 ## History with the Party
-1. **Galeb Duhr Blockage:** Dasco had exhausted all his own methods (including hitting the ancient sentinels with a pickaxe) to clear four massive Galeb Duhr from a mine path. Daz solved the problem by arranging resonant geodes and humming to complete the Galeb Duhr's ancient handshake protocol, opening the way. Dasco grudgingly rewarded the party with two ruby gems worth 500 gp.
-2. **Branding & the Bridge:** Dasco seized the party's visit as a marketing opportunity — offering branded tea, explaining his holistic marketing approach, and personally sewing a Dasco Pickshine patch onto Daz's clothes. When the party faced a twenty-foot black pudding pit, Dasco offered a practical solution: his miners would bridge it using mithril braces and salt neutralizers. The Pickshine Miners built the bridge in about twenty minutes (while singing cheerful songs), though they had to remain behind to maintain it against acid and could not accompany the party to the Pudding King's doors.
-
-3. **Council Meeting:** Served as the Miners Guild representative at a council meeting where the party brokered a sustainable mining compromise. Initially advocated strongly for immediate strip mining to generate revenue for city repairs, but ultimately agreed to a compromise that balanced economic demands with the need to respect ghosts' sacred grounds.
+1. **Council Meeting:** Dazco advocated aggressively for immediate strip mining to fund city repairs. The party brokered a sustainable mining compromise that balanced the city's economic needs with respect for ghosts' sacred grounds. Dazco agreed to the terms.
+2. **Galeb Duhr Blockage:** The party arrived at Pickshine Mine to find four ancient Galeb Duhr blocking the path. Dasco had tried everything to move them, including striking them with his pickaxe. Daz solved the problem by arranging resonant geodes and humming to complete the Galeb Duhr's ancient handshake protocol. Dasco grudgingly rewarded the party with two ruby gems worth 500 gp.
+3. **Branding Encounter:** Dasco offered branded tea and promoted his mine's brand to the party. When they showed interest, he personally sewed a Dasco Pickshine patch onto Daz's clothes.
+4. **Black Pudding Pit Bridge:** Dasco offered a practical solution to a twenty-foot black pudding pit — his miners could bridge it using mithril braces and salt neutralizers. The Pickshine Miners built the bridge in about twenty minutes while singing cheerful songs, though they had to remain behind to maintain it against acid and could not accompany the party to the Pudding King's doors.
 
 ## Current Status
-- **Last known location:** Pickshine Mine / Blingdenstone, operating under the terms of the sustainable mining compromise.
-- **Active operations:** Miners are actively holding the bridge open for the party's return route; mine operations presumably ongoing.
-- **Party knowledge vs. hidden:** The party knows him as a helpful if self-interested mine owner. No hidden agendas noted in the source material.
+His miners were maintaining the mithril-and-salt bridge over the black pudding pit, holding the path open for the party. The party proceeded ahead toward the Pudding King's doors without Dasco's miners as backup. Has agreed to the party's sustainable mining compromise; presumably overseeing its implementation through the Miners Guild.
 
 ## Relationships
-- **Daz (party member):** Most direct relationship — Daz solved the Galeb Duhr puzzle and received a personally sewn brand patch. Dasco stood proudly beside the much taller dragonborn.
-- **Pickshine Miners:** Loyal workforce; cheerful, competent, and willing to take on dangerous tasks like maintaining a bridge over a black pudding pit.
-- **The Pudding King:** Implied antagonist — the party headed toward the Pudding King's doors after Dasco's miners bridged the pit, suggesting the Pudding King's presence is a threat connected to (or near) Dasco's mine.
+- **Daz (party member):** Particular rapport — Daz solved the Galeb Duhr puzzle and received a personally sewn brand patch from Dasco
+- **Pickshine Miners:** Loyal crew; cheerful workers who follow Dasco's direction and sing while they work
+- **The Party (general):** Initially an obstacle/opponent during negotiations; shifted to a reluctant ally after accepting the compromise. Transactional but positive relationship — he paid them (grudgingly) and later provided critical logistical support with the bridge
+- **Miners Guild:** Representative and advocate for their interests
+- **The Ghosts / Sacred Grounds Stakeholders:** Was willing to disregard their interests in favor of economic gain; the compromise forces him into an uneasy coexistence with these concerns
 
 ## Arc Score Events
-- None explicitly noted.
+- **Council Meeting compromise:** The party successfully brokered a sustainable mining deal, shifting Dazco from opponent to reluctant ally
+- **Galeb Duhr resolution:** Likely positive shift — the party solved his mine's blockage problem
+- **Bridge construction cooperation:** Further positive collaboration, though the miners' inability to accompany the party forward may carry future consequences

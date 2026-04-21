@@ -1,0 +1,11 @@
+# New notes for aletra (from dossier_extract_028.md)
+
+Aletra is Valphine's drow sister, who appeared in the room containing the malfunctioning planar machine, working to extract a package from the device while six Rift Weavers guarded it. She framed the situation as a "spatial equilibrium," warning the party that if she couldn't retrieve her package she had no reason to destroy the machine, leaving everyone to suffer the consequences of its catastrophic failure.
+
+Aletra revealed her calculating nature when she pointed her wand at Brewbarry, marking him with a red glow that caused the malfunctioning machine to identify him as a spatial anomaly. This redirected all six Rift Weavers onto Brewbarry, effectively using him as a decoy while she worked on the machine in relative safety. She openly acknowledged the manipulation, shouting to Valphine to simply keep Brewbarry alive long enough for her to finish, referencing a previous trap the sisters had set together using a stuffed creature as bait.
+
+Throughout the battle, Aletra traded cutting remarks with Valphine, including a comment that their mother had said Valphine wasn't the sharpest tool in the shed, and a darkly humorous threat that she would hate to collect Valphine's body parts to return to their mother—before clarifying she unfortunately couldn't leave any evidence behind. Her final barb referenced a previous encounter in which Valphine had been moaning, ambiguously suggesting pain or pleasure, while acknowledging that Valphine at least tried to stop her this time rather than simpering and crying.
+
+She successfully extracted a box of vials containing interdimensional poison, identified as part of House Sartorra's illegal drug trade. When Valphine struck her with a blinding curse as she stepped through a self-opened portal, she fumbled and dropped several vials, leaving them behind. As she disappeared, she muttered that "the boss" would not be happy with this development.
+
+Aletra's motivations appear tied to an unnamed boss whose identity is unknown. Her access to the machine, her familiarity with its dwarven construction, and her ability to open an interdimensional portal suggest significant resources and organizational backing. Her last known whereabouts are through the portal she escaped into, destination unknown.

@@ -1,27 +1,32 @@
+---
+name: Shal
+aliases: []
+source_extracts: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54]
+---
+
 # Shal
 
 ## Identity
 - Advisor to the Deep King of Gracklstugh
-- No known race, title beyond "advisor," or faction affiliation specified
-- Not directly encountered by the party; mentioned by Hgraam the stone giant
+- Information comes secondhand from Hgraam, the stone giant; Shal has not been encountered directly by the party
 
 ## Personality & Motivations
 - Core goals and drives are unknown.
-- Refuses to meet with Hgraam, suggesting either hostility, suspicion, or a desire to maintain exclusive influence over the Deep King. Their role as advisor and the Deep King's subsequent paranoia imply Shal may be deliberately isolating the monarch.
+- Shal appears to be a manipulative figure, having cultivated a close friendship with the Deep King that coincides with the monarch's growing paranoia and isolation. Refuses all attempts at communication from Hgraam, suggesting deliberate avoidance of outside scrutiny.
 
 ## History with the Party
-- **Mentioned by Hgraam:** The stone giant identified Shal as the Deep King's advisor and expressed concern that since Shal befriended the Deep King, the monarch has grown paranoid toward both old and new allies and refuses sage counsel. Hgraam has repeatedly requested a meeting with Shal, but Shal refuses every time.
+- **No direct interaction.** The party learned of Shal through Hgraam, who described Shal's influence over the Deep King and expressed concern about the advisor's role in the monarch's deteriorating judgment. Hgraam has repeatedly attempted to meet with Shal and been refused each time.
 
 ## Current Status
-- **Last known location:** Gracklstugh, presumably near the Deep King's court.
-- **Active operations:** Serving as the Deep King's advisor; appears to be the primary influence on the monarch.
-- **What the party knows:** Shal is an advisor who befriended the Deep King, correlating with the king's growing paranoia and isolation. Shal refuses contact with Hgraam.
-- **What remains hidden:** Shal's race, true identity, ultimate motivations, and whether they are deliberately manipulating the Deep King.
+- **Last known location:** Gracklstugh, presumably close to the Deep King.
+- **Active operations:** Maintaining influence over the Deep King; actively blocking outside counsel (specifically Hgraam) from reaching the monarch.
+- **What the party knows:** Shal is an advisor whose friendship with the Deep King correlates with the king's paranoia and refusal to heed sage advice. Shal won't meet with Hgraam.
+- **What remains hidden:** Shal's race, physical appearance, true identity, specific motivations, and the nature of their hold over the Deep King are all unknown.
 
 ## Relationships
-- **The Deep King of Gracklstugh:** Close advisor and "friend"; the relationship coincides with the Deep King's descent into paranoia.
-- **Hgraam (stone giant):** Antagonistic or avoidant — Shal refuses all of Hgraam's meeting requests.
-- **The Party:** No direct contact. Known only through Hgraam's account.
+- **The Deep King of Gracklstugh:** Close advisor and "friend"; the relationship appears to be the source of the Deep King's paranoid behavior.
+- **Hgraam (stone giant):** Antagonistic by omission — Shal refuses all of Hgraam's meeting requests, effectively cutting the giant off from the Deep King.
+- **The Party:** No direct relationship; known only by reputation via Hgraam.
 
 ## Arc Score Events
-No arc score events recorded.
+None recorded.

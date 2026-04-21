@@ -1,0 +1,3 @@
+# New notes for lyra (from dossier_extract_024.md)
+
+Lyra appeared in Phandalin reunited with the two Emerald Enclave members the party had previously rescued. Despite this success, she was deeply discouraged about her leadership abilities, citing the treant incident and her men's capture as proof of her failures. Vukradin offered her encouragement, and one of the rescued men bolstered her further by revealing that the party had told him it was Lyra's plan that led to his rescue. Heartened by this support, she agreed to let Vukradin help convince the Emerald Enclave of her competence. They arranged to do so the following day, when the organization was scheduled to meet. Last seen in Phandalin, preparing for the Emerald Enclave meeting.

@@ -1,0 +1,5 @@
+# New notes for moesko (from dossier_extract_009.md)
+
+Moesko was a dark cleric whose defeated form was examined at the start of the session. His body displayed a strange hole in his chest, and he wore distinctive octopus armor. A concealed compartment in his crude living space contained a dark, iridescent talisman etched with the stylized lightning bolt of Talos on one side, and an inverted eye with coiling tentacle-like lines on the reverse. The talisman emanated both faint divine resonance and a dominant, unsettling psionic energy of alien origin.
+
+Most significantly, Moesko's heart had been removed from his body and installed as the power source for the lighthouse beacon, where it continued beating and emitting a pulsating green light. Vukradin destroyed it by striking it from the beacon mechanism. Miral's ghost revealed that Moesko had not acted entirely of his own will — shadows moved within his devotion to Talos, twisting it into something colder and more calculating, described as foreign rather than the wrath of the Stormlord. His death ended the curse on the tower. Last known status: dead, heart destroyed, tower curse broken.

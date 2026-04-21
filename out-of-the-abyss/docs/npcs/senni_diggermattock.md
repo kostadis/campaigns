@@ -1,31 +1,43 @@
+---
+name: Senni Diggermattock
+aliases:
+  - Sennai
+  - Senni
+source_extracts: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54]
+---
+
 # Senni Diggermattock
 
 ## Identity
-- Quartermaster of Clan Diggermattock and assistant to Chief Dorbo Diggermattock
-- Dorbo's wife and member of the Gold Whisker clan
-- Leader aligned with Blingdenstone's labor groups (distinct from the business leaders)
-- First appeared seated alongside Chief Dorbo on the raised dais in Diggermattock Hall when the party arrived seeking passage to the Overbright
+Quartermaster of Clan Diggermattock; assistant to Chief Dorbo Diggermattock. Member of the Gold Whisker clan and Dorbo's wife. Leader aligned with Blingdenstone's labor groups (not the business faction) and represents the non-mining civilian population of the city. *Also known as: Sennai, Senni.*
 
 ## Personality & Motivations
-- Deeply people-focused; her primary concern is the safety and well-being of Blingdenstone's civilian population and the community they've built. She stands in deliberate contrast to Dorbo's profit-driven motivations. She is pragmatic and willing to work across faction lines—advocating for alliance with the Gold Whisker wererats for the common good. She is assertive enough to silence Dorbo publicly when she believes he's being shortsighted, and politically savvy enough to seize momentum in a debate to shift policy.
+- Deeply people-focused; her primary concern is the safety of Blingdenstone's civilians and the community they've built, in deliberate contrast to Dorbo's profit-driven motivations
+- Pragmatic and politically savvy, willing to build alliances across faction lines—including with the wererats—if it serves the common good
+- Assertive enough to silence Dorbo publicly when she thinks he's being shortsighted
+- Advocates for the broader civilian populace of Blingdenstone, not just the mining interests
+- More diplomatically open than Dorbo, particularly regarding reconciliation with the Gold Whisker clan
 
 ## History with the Party
-1. **Diggermattock Hall (Initial Meeting):** City guards directed the party to speak with Senni and Chief Dorbo specifically about Glabbagool's presence in the city. After a muttered argument with Dorbo, Senni confirmed the ooze infestation and informed the party they had "graciously volunteered" to deal with it before receiving help reaching the Overbright.
-2. **Clan Meeting Proposal:** Silenced Dorbo when he dismissed the party's plan, then advocated for a full clan meeting including the Stoneheart Enclave and Miners Guild. She pushed for cooperation with the Gold Whisker clan and tasked the party with bringing the wererats on board.
-3. **Earth Elemental Labor Debate:** After the party argued against using Earth Elementals for mining labor, Senni seized control of the meeting, shouting "Gnome Labor, not Summoned Labor!" She sided firmly with the party, leading to a policy decision restricting elementals to defense/warfare only—a major disruption to the city's economic plans.
-4. **Pre-Assault Planning:** Expressed deep concern about civilian safety if the party's operation against the oozes failed. Was pleased when the party proposed a minimal distraction plan rather than a full assault, reflecting her people-first priorities.
-5. **Council Peace Arrangement:** Advocated for a functional gnome-wererat alliance during the council meeting, helping Dorbo reach the peace arrangement.
+1. **Guards' recommendation:** City guards told the party to seek out Senni and Chief Dorbo about full city permissions, especially concerning Glabagool's presence
+2. **First Meeting at Diggermattock Hall:** Addressed the party from the raised dais after arguing with Dorbo, confirming the ooze problem and framing the party's assistance as a condition for receiving help reaching the Overbright—presenting their conscription as a "gracious volunteering"
+3. **Strategic Advocacy:** When Dorbo dismissed the party's plan to deal with the oozes, Senni overruled him and proposed a full clan meeting including the Stoneheart Enclave and Miners Guild. She advocated for working with the Gold Whisker clan and tasked the party with bringing the wererats on board
+4. **Council Meeting on Gold Whiskers:** Supported a functional alliance between gnomes and the Gold Whisker wererats, helping Dorbo reach the peace arrangement
+5. **Earth Elemental Debate:** Sided firmly with the party's arguments against using Earth Elementals for mining labor. Seized control of the meeting by shouting "Gnome Labor, not Summoned Labor!" The outcome restricted elementals to defense/warfare only, disrupting Blingdenstone's economic plans
+6. **Grand Moot:** Asked Daz to lead and call the meeting to order, positioning him in a leadership role among Blingdenstone's major leaders
+7. **Ooze Assault Planning:** Expressed concern about civilian safety if the party's assault on the oozes failed. Was pleased when the party proposed a minimal distraction plan rather than a full-scale assault
 
 ## Current Status
 - **Location:** Blingdenstone, serving in her leadership role
-- **Active Plans:** Supporting the alliance with the Gold Whisker clan and the broader effort against the ooze infestation; enforcing the new policy restricting Earth Elemental use to defense only
-- **Known vs. Hidden:** The party has a clear read on Senni as a reliable, community-minded ally. No hidden agendas indicated in the notes.
+- **Active concerns:** Civilian safety during the ooze offensive; managing the fallout of the elemental labor ban on city rebuilding; the ooze infestation and its resolution
+- **Known vs. hidden:** The party has a clear read on Senni—she has been consistently transparent about her priorities and motivations
 
 ## Relationships
-- **Chief Dorbo Diggermattock:** Her husband. They argue openly but she wields real influence over his decisions. She counterbalances his profit-driven instincts with pragmatic, people-first priorities.
-- **Gold Whisker Clan:** Member of the clan herself; advocates for their inclusion and cross-faction cooperation.
-- **Stoneheart Enclave / Miners Guild:** Works alongside them in Blingdenstone's leadership structure.
-- **The Party:** Views them as useful allies. Initially leveraged their need for passage to conscript them into ooze-fighting, but has consistently supported their plans and sided with their positions in political debates. The relationship is functional and increasingly cooperative.
+- **Chief Dorbo Diggermattock:** Her husband. She serves as his assistant but frequently overrules or redirects him. He is profit-driven; she is people-driven. Their dynamic involves open, heated disagreement in public
+- **Gold Whisker Clan:** She is a member and advocated for their inclusion in Blingdenstone's alliance, bridging the gap between the gnome factions and the wererats. More open to reconciliation than Dorbo
+- **Stoneheart Enclave / Miners Guild:** Called for their inclusion in strategic planning; aligned with labor groups over business interests
+- **Daz (party member):** Supportive; she backed his plan and deferred to him to lead the grand moot
+- **The Party:** Pragmatic ally. Initially leveraged their need for passage to conscript them, but has since consistently supported their proposals and used their arguments to advance her own political goals
 
 ## Arc Score Events
-- **Earth Elemental Labor Debate:** Senni sided with the party's position, leading to a major policy shift in Blingdenstone—likely a positive arc score increase for the party's influence in the city and relationship with Senni/labor factions, but a potential negative with business-aligned leaders whose economic plans were disrupted.
+- **Earth Elemental Debate (Increase):** Senni sided with the party, and their combined effort shifted Blingdenstone policy—elementals banned from labor, restricted to defense. This fundamentally disrupted the city's economic plans, a significant political shift driven by the party's influence

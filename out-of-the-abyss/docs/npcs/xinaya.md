@@ -1,26 +1,31 @@
+---
+name: Xinaya
+aliases: []
+source_extracts: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54]
+---
+
 # Xinaya
 
 ## Identity
 - Drow priestess of Lolth
-- Agent of Ilvara, sent to capture the party
-- First encountered in the Garden of Welcome within the Circle of Welcome at Neverlight Grove, partially fused with fungi
+- Sent by Ilvara to capture the party (not kill — Ilvara wanted that honor herself)
+- First encountered partially fused with fungi in the Garden of Welcome, Circle of Welcome, Neverlight Grove
 
 ## Personality & Motivations
-- Loyal servant of Ilvara, dispatched specifically to capture (not kill) the party so Ilvara could execute them personally. She tracked the party to Neverlight Grove, anticipating they would seek refuge among the Myconids. Even in her dying state, she maintained enough loyalty to her people to demand that Daz warn the Drow about Zuggtmoy's presence in the Underdark.
+Xinaya was a capable tracker who correctly predicted the party would seek refuge among the Myconids. Even in her agonized, fungi-ridden state, she retained enough composure to deliver intelligence and make demands — insisting Daz warn other Drow about Zuggtmoy's presence in the Underdark. Ultimately, her only remaining desire was death, which she begged for openly.
 
 ## History with the Party
-1. **Neverlight Grove — Garden of Welcome:** The party found Xinaya half-fused with fungal growth — half her face rotted and covered in sprouting mushrooms, her spider medallion merged into her body. She begged in Common to be killed. She explained she had been sent by Ilvara to capture them but made the fatal mistake of accepting Phylo's invitation to see the Circle of Welcome, where she and her squad fell victim to the madness. She recognized Daz as being from Menzoberranzan and urged him to warn the Drow about the "Demon Queen of the Fungi" (Zuggtmoy).
-2. **Mercy Killing:** After the battle in the area, Xinaya remained alive but trapped and weeping. Thorin consulted with Dawnbringer, then mercifully killed her at her own request.
-3. **Looting:** On the party's return from witnessing the mock wedding, Zalthir rushed to Xinaya's corpse and stuffed everything into his bag before anyone else could act — including scrolls that Grygum had wanted.
+1. **Neverlight Grove — Garden of Welcome:** The party discovered Xinaya half-fused with fungal growth, mushrooms sprouting from her rotting face, her spider medallion of Lolth merged into her body. She called out in Common begging to be killed. She explained she had been sent by Ilvara to capture them, had tracked them to Neverlight Grove, but made the fatal mistake of accepting Phylo's invitation to visit the Circle of Welcome. Her entire squad fell victim to the madness there. She recognized Daz as being from Menzoberranzan and demanded he warn the Drow about the "Demon Queen of the Fungi" (Zuggtmoy). After a battle in the area, Thorin consulted with Dawnbringer and then mercifully killed her at her own request.
+2. **Return from the mock wedding:** The party passed her corpse again on their way back. Zalthir rushed ahead and looted everything from the body before anyone else could act, including scrolls that Grygum had wanted.
 
 ## Current Status
-- **Dead.** Killed by Thorin as an act of mercy in Neverlight Grove.
-- Her possessions were looted by Zalthir, causing minor tension with Grygum over scrolls.
+- **Dead.** Mercy-killed by Thorin in the Garden of Welcome.
+- Corpse looted by Zalthir (scrolls, spider medallion, and other possessions taken).
 
 ## Relationships
-- **Ilvara:** Xinaya's commander; sent Xinaya to capture the party alive so Ilvara could kill them herself.
-- **Daz:** Recognized him as a Drow from Menzoberranzan; demanded he carry warning about Zuggtmoy back to the Drow.
-- **Thorin:** Delivered the mercy killing at her request, after consulting Dawnbringer.
-- **Zalthir:** Looted her corpse aggressively, claiming all items.
-- **Grygum:** Wanted scrolls from Xinaya's body but was beaten to them by Zalthir.
-- **Phylo (Myconid):** His invitation to the Circle of Welcome led to Xinaya and her squad's downfall.
+- **Ilvara:** Xinaya's commander; sent Xinaya specifically to capture (not kill) the party.
+- **Daz:** Recognized him as a Drow from Menzoberranzan; demanded he carry a warning about Zuggtmoy to his people.
+- **Thorin:** Delivered the mercy kill at her request, after consulting Dawnbringer.
+- **Zalthir:** Looted her corpse, causing friction with Grygum over the scrolls.
+- **Grygum:** Wanted the scrolls from Xinaya's body but was beaten to them by Zalthir.
+- **Phylo:** The Myconid leader whose invitation to the Circle of Welcome led to Xinaya's and her squad's downfall.

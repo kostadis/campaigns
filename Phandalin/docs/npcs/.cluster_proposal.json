@@ -1,0 +1,181 @@
+{
+  "clusters": [
+    {
+      "heuristic": "alias-hint",
+      "files": [
+        "harbin_wester.md",
+        "harbin_townmaster.md"
+      ],
+      "classification": "overlapping",
+      "details": {
+        "harbin_wester.md": {
+          "name": "Harbin Wester",
+          "aliases": [
+            "Harbin",
+            "Harbin Townmaster",
+            "Town Master Harbin Wester"
+          ],
+          "body_chars": 9166
+        },
+        "harbin_townmaster.md": {
+          "name": "Harbin (Townmaster)",
+          "aliases": [],
+          "body_chars": 2342
+        }
+      }
+    },
+    {
+      "heuristic": "alias-hint",
+      "files": [
+        "toblen_stonehill.md",
+        "toblen_stonehill_spiderman.md"
+      ],
+      "classification": "overlapping",
+      "details": {
+        "toblen_stonehill.md": {
+          "name": "Toblen Stonehill",
+          "aliases": [
+            "Spider-Man",
+            "Spiderman",
+            "Toblen Stonehill Spiderman",
+            "Spider Man"
+          ],
+          "body_chars": 3349
+        },
+        "toblen_stonehill_spiderman.md": {
+          "name": "Toblen Stonehill (Spiderman)",
+          "aliases": [],
+          "body_chars": 1291
+        }
+      }
+    },
+    {
+      "heuristic": "substring",
+      "files": [
+        "adabra_adabra_gwynn.md",
+        "adabra.md"
+      ],
+      "classification": "overlapping",
+      "details": {
+        "adabra_adabra_gwynn.md": {
+          "name": "Adabra (Adabra Gwynn)",
+          "aliases": [],
+          "body_chars": 2759
+        },
+        "adabra.md": {
+          "name": "adabra",
+          "aliases": [],
+          "body_chars": 6634
+        }
+      }
+    },
+    {
+      "heuristic": "levenshtein",
+      "files": [
+        "meril.md",
+        "meryl.md",
+        "miral.md"
+      ],
+      "classification": "overlapping",
+      "details": {
+        "meril.md": {
+          "name": "Meril",
+          "aliases": [],
+          "body_chars": 1850
+        },
+        "meryl.md": {
+          "name": "meryl",
+          "aliases": [],
+          "body_chars": 1330
+        },
+        "miral.md": {
+          "name": "Miral",
+          "aliases": [
+            "Miral the Self"
+          ],
+          "body_chars": 1953
+        }
+      }
+    },
+    {
+      "heuristic": "levenshtein",
+      "files": [
+        "ser_kaelen.md",
+        "sister_kaella.md"
+      ],
+      "classification": "overlapping",
+      "details": {
+        "ser_kaelen.md": {
+          "name": "Ser Kaelen",
+          "aliases": [
+            "Ser Kaelen Thorn",
+            "Ser Kaelen Thorne",
+            "Sir Kaelen"
+          ],
+          "body_chars": 10746
+        },
+        "sister_kaella.md": {
+          "name": "Sister Kaella",
+          "aliases": [
+            "Sister Kayla",
+            "Sister Kella"
+          ],
+          "body_chars": 7857
+        }
+      }
+    }
+  ],
+  "unclustered_count": 59,
+  "unclustered_sample": [
+    "aletra.md",
+    "alphonse_big_al_kalazorn.md",
+    "backes_dunfield.md",
+    "barthen.md",
+    "boney.md",
+    "borg_the_hammer.md",
+    "brin_bundlewine.md",
+    "cooragh_struckt.md",
+    "cryovain.md",
+    "dabbledob.md",
+    "daran_edermath_silverleaf.md",
+    "dazlyn_grayshard.md",
+    "delaan_winterhound.md",
+    "don_jon_raskin.md",
+    "dwolin_the_grout.md",
+    "elara.md",
+    "facktore.md",
+    "falcon_the_hunter.md",
+    "fibblestib.md",
+    "giles_slipper_shine.md",
+    "horia_stonetallow.md",
+    "jarek.md",
+    "jax.md",
+    "jenna.md",
+    "king_gnercli.md",
+    "king_korboz.md",
+    "lady_alagondar.md",
+    "linene_graywind.md",
+    "locutus.md",
+    "lord_cassian_meliame.md",
+    "lord_neverember.md",
+    "lyra.md",
+    "malfire.md",
+    "marian.md",
+    "martisha_vinetalker.md",
+    "milo_goodbarrel.md",
+    "moesko.md",
+    "norbus_ironrune.md",
+    "out_of_phase_dwarves_axelholm_inhabitants.md",
+    "pog.md",
+    "qelline_alderleaf.md",
+    "rot_tusk_ogre.md",
+    "runa.md",
+    "skippy.md",
+    "sridar.md",
+    "sylvine_wintermoon.md",
+    "teega_the_smith.md",
+    "the_anchorite_half_orc.md",
+    "the_carver.md",
+    "the_chief_accountant.md"
+  ]
+}

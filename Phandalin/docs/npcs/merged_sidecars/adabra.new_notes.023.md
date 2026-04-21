@@ -1,0 +1,3 @@
+# New notes for adabra (from dossier_extract_023.md)
+
+Adabra attended the Phandalin council meeting and reacted with furious rage when she learned of the party's intervention against the Kraken cult. She identified what the party had witnessed as a temporal violation and planar distortion, arguing that such interventions triggered cascading catastrophic events across the multiverse. She pointed to the Emerald Enclave members' involvement in the cult as proof that interventionists were fundamentally wrong. She stormed out of the meeting in righteous fury, leaving the council divided. The party concluded her extreme positions were wrong and acknowledged this would not be their last encounter with her.

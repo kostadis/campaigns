@@ -1,38 +1,40 @@
+---
+name: Turvy
+aliases: []
+source_extracts: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54]
+---
+
 # Turvy
 
 ## Identity
 - Male deep gnome (svirfneblin), twin brother of Topsy
 - Lycanthrope (wererat) — known to at least some party members (Daz)
-- Former prisoner at Velkynvelve
-- First appeared as a fellow captive in the slave pen at Velkynvelve
+- Fellow prisoner at Velkynvelve; met by the party in the slave pen
 
 ## Personality & Motivations
-- Extremely quiet; mumbles rather than speaking clearly, relying on Topsy to translate for him. Operates almost exclusively as part of a unit with his twin sister.
-- Opportunistic — quick to identify chances to steal (kitchen knives, loot during the kuo-toan battle). Practically minded in survival situations.
-- Despite his quiet nature, holds opinions and voices them through Topsy (e.g., the corpse disposal debate, destination suggestions). Ironically found the name "Blingdenstone" off-putting despite suggesting it earlier.
+- Extremely quiet; mumbles rather than speaking clearly, relying on Topsy to translate for him. Operates almost exclusively as a unit with his twin sister. Shows a pragmatic, opportunistic streak — eager to steal when the chance arises. Despite this, he is not fearless; he broke down screaming at the sight of Demogorgon and had to be physically carried to safety.
 
 ## History with the Party
-1. **Velkynvelve (Slave Pen):** Met the party as a fellow prisoner. Topsy translated his greetings to Grygum and his suggestion about Blingdenstone as a destination.
-2. **Kitchen Duty:** Worked with Topsy to steal food, then knives on the second day while Grygum distracted the Drow guards with a cooking performance.
-3. **The Escape:** Scrambled into the armory and fired hand crossbows from the roof during the breakout battle. No specific hit attributed to him.
-4. **Post-Escape:** Offered (with Topsy) to retrieve gear for a price; when declined, the twins transformed into rats, then later shifted back to gnome form on the cavern floor and headed toward the Darklake passage.
-5. **Giant Centipede Fight:** Participated in the crossbow volley alongside Sarith, Buppido, and Topsy. Thorin shouted to the twins to save Eldeth and Jimjar.
-6. **Corpse Disposal Debate:** Sided with Jimjar, arguing that leaving bodies would attract monsters that would slow the Drow pursuit.
-7. **Private Conversations:** Daz observed Turvy and Topsy speaking privately before sleep, too far away to overhear.
-8. **Kuo-Toa Settlement:** Recognized the factional battle as an excellent opportunity to steal. Fled with the group toward the docks during the chaos.
-9. **Demogorgon's Appearance:** Screamed and wailed, incapacitated by terror. Had to be physically carried to the boat by Grygum.
+1. **Velkynvelve** — Greeted Grygum (via Topsy translating) and suggested Blingdenstone as a destination. Worked kitchen duty alongside Topsy, stealing food and later knives while Grygum distracted the Drow guards.
+2. **Escape from Velkynvelve** — Scrambled into the armory and fired hand crossbows from the roof during the breakout battle. Offered to retrieve gear for a price; when declined, the twins transformed into rats, then shifted back to gnome form on the cavern floor and headed toward the Darklake passage.
+3. **Underdark Travel** — Participated in a crossbow volley against a giant centipede alongside Sarith, Buppido, and Topsy. Thorin called on the twins to save Eldeth and Jimjar during the fight. Sided with Jimjar in the corpse disposal debate, arguing dead bodies would slow pursuing Drow. Ironically found the name "Blingdenstone" off-putting despite having suggested it earlier. Observed by Daz speaking privately with Topsy before sleep.
+4. **Kuo-toa Settlement** — Recognized the kuo-toan factional battle as a prime opportunity to steal. Fled with the group toward the docks during the chaos.
+5. **Demogorgon's Appearance** — Screamed and wailed at the sight of the demon lord; Grygum carried him to the boat.
+6. **Ghohlbrorn's Lair** — Escaped captivity alongside the party and other NPCs. He and Topsy are the only other escapees besides the party who have not gone missing from Ghohlbrorn's Lair.
 
 ## Current Status
-- **Last known location:** On a boat fleeing the kuo-toan settlement after Demogorgon's appearance.
-- **What the party knows:** Daz is aware the twins are lycanthropes. The full group likely knows they can shapeshift into rats (witnessed during the escape). Their private conversations remain a mystery.
-- **Hidden:** The content of the twins' private discussions; the full extent of their lycanthropy and whether it poses a threat to the group.
+- **Last known location:** Ghohlbrorn's Lair
+- **Active concerns:** His lycanthropy remains a potential threat to the group. Daz suspects the reason Topsy and Turvy haven't disappeared like the other escapees is that they are **wererats**. This suspicion has not been confirmed by the broader party.
+- **Party knowledge:** Daz knows (or suspects) the twins are lycanthropes. The broader party may not be fully aware.
 
 ## Relationships
-- **Topsy:** Inseparable twin sister and his voice to the outside world. They operate as a bonded pair in all things.
-- **Grygum:** Positive relationship — Turvy greeted him warmly through Topsy; Grygum carried Turvy to the boat when he was paralyzed with fear at Demogorgon's appearance.
-- **Thorin:** Thorin showed concern for the twins' safety during the centipede fight.
-- **Jimjar:** Allied with him on the corpse disposal question.
-- **Daz:** Daz has been observant of the twins and knows their lycanthrope secret.
+- **Topsy** — Twin sister, inseparable companion, and his voice/translator. They operate as a pair in virtually all situations and hold private conversations away from the group.
+- **Grygum** — Positive relationship; Grygum physically carried Turvy to safety during the Demogorgon encounter.
+- **Jimjar** — Aligned with him on the corpse disposal question.
+- **Thorin** — Thorin directed the twins in combat, suggesting some degree of tactical trust.
+- **The Party (general)** — A useful if somewhat self-interested ally; willing to help but always looking for an angle or a profit.
+- **Daz** — Daz suspects him and Topsy of being wererats.
+- **Other escapees** — The rest of the escapee group has gone missing from Ghohlbrorn's Lair; Topsy and Turvy are the sole exceptions.
 
 ## Arc Score Events
-- No explicit arc score changes noted in the source material.
+- None explicitly noted in the source material.

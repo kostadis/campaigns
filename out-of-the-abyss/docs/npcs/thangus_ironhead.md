@@ -1,3 +1,9 @@
+---
+name: Thangus Ironhead
+aliases: []
+source_extracts: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54]
+---
+
 # Thangus Ironhead
 
 ## Identity
@@ -5,19 +11,18 @@
 - Encountered when the party secured an audience using their badges
 
 ## Personality & Motivations
-- Publicly professes loyalty to the Deepking and agreement that Clan Steelshadow should be pre-eminent. However, the party suspects this is pure self-preservation — Daz flatly declared "He's lying and trying to survive," and Zalthir was unconvinced of his sincerity. His true stance toward the Deepking's rule appears to be one of resentment or resistance, masked by performative compliance.
+- Publicly presents as a loyal supporter of the Deepking, endorsing Clan Steelshadow's pre-eminence. However, the party strongly suspects this is a survival tactic rather than genuine loyalty. Daz assessed him bluntly: "He's lying and trying to survive." Zalthir was similarly unconvinced of his honesty.
 
 ## History with the Party
-- The party used their badges to secure an audience with Thangus. During the meeting, he publicly endorsed the Deepking's policies and Clan Steelshadow's supremacy. Both Zalthir and Daz read through the facade, concluding he was lying out of fear.
-- Separately, the party discovered a stolen contract from Eldgrim's desk, bearing the Deepking's seal. The contract names Thangus Ironhead and orders him **boiled in oil and fed to roaches** for trying to "encroach on my family's business."
+- The party used their badges to gain an audience with Thangus. During the meeting, he declared Clan Ironhead's approval of the Deepking's policies and Clan Steelshadow's supremacy. The party saw through this as performative loyalty.
+- A stolen contract found on Eldgrim's desk, written under the Deepking's seal, names Thangus Ironhead. The contract orders him **boiled in oil and fed to roaches** for attempting to "encroach on my family's business" — indicating the Deepking has already marked him for execution.
 
 ## Current Status
-- **Last known:** Leading Clan Ironhead, maintaining a public posture of loyalty to the Deepking.
-- **Hidden from Thangus (likely):** The party possesses the Deepking's contract ordering his execution.
-- **Hidden from the party:** The specifics of what "encroaching on my family's business" means — what Thangus actually did to provoke the death order.
-- **Key tension:** Thangus is a dead man walking. Whether the execution order is still active, and whether the party chooses to warn him or leverage this information, remains unresolved.
+- **Last known:** Leading Clan Ironhead, publicly maintaining a façade of loyalty to the Deepking.
+- **Hidden from Thangus (unknown):** Whether he is aware of the death contract bearing his name is unclear from the notes.
+- **What the party knows:** The party knows both that Thangus is lying about his loyalty *and* that the Deepking has signed a contract for his gruesome execution. This gives them significant leverage or reason to warn him.
 
 ## Relationships
-- **The Deepking / Clan Steelshadow:** Publicly loyal, but the Deepking has signed an order for his gruesome execution. The relationship is adversarial beneath the surface.
-- **Eldgrim:** The execution contract was found on Eldgrim's desk, suggesting Eldgrim may be involved in carrying out or brokering the order.
-- **The Party:** Guarded interaction. The party sees through his act but has not yet revealed what they know.
+- **The Deepking / Clan Steelshadow:** Publicly deferential, but the Deepking views him as an encroacher on Steelshadow business and has ordered his death.
+- **Eldgrim:** The death contract was found on Eldgrim's desk, suggesting Eldgrim may be involved in carrying out or facilitating the execution order.
+- **The Party:** Guarded interaction. The party sees through his act and possesses information that could save — or doom — him.

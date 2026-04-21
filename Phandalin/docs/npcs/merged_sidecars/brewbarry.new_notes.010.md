@@ -1,0 +1,3 @@
+# New notes for brewbarry (from dossier_extract_010.md)
+
+Brewbarry was present at the Stonehill Tavern and reminded Vukradin that the tavern patrons loved his music, helping defuse the tension over the ambush accusation. He participated in a betting pool on whether the party would all survive the lighthouse mission, with a side bet on whether Vukradin would be ditched or killed. He later joined Vukradin and Valphine in a musical session at the tavern, using his halberd as a percussive instrument in a style recalling Uthgardt tribal music, contributing to a notably successful performance that earned the group additional coin. Last seen at the Stonehill Tavern in Phandalin.

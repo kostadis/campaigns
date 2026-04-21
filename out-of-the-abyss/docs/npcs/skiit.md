@@ -1,30 +1,29 @@
+---
+name: Skiit
+aliases: []
+source_extracts: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54]
+---
+
 # Skiit
 
 ## Identity
-- Derro laborer working under Ulnara, tasked with disposing of body parts into the zombie pit
-- Follower of Demogorgon, recruited through Pliinki's influence
-- First encountered by the party at the zombie pit
+- Derro laborer working under Ulnara, assigned to toss body parts into the zombie pit
+- Follower of Demogorgon, recruited by Pliinki
+- First encountered by the party at the zombie pit during their exploration of the Derro area
 
 ## Personality & Motivations
-- Disgruntled with his assigned duties; felt entitled to a better position, as "Pliinki promised Skiit a better job." Eager for violence — asked if he could kill Spiderbait. Fiercely loyal to Demogorgon's cult, parroting Pliinki's propaganda that followers of Demogorgon are making the Derro "proud and powerful" and "going to be great again." Paranoid and accusatory, immediately suspecting the party of working for the Duergar or the Mindflayers.
+- Discontented with his menial role; complained that Pliinki had promised him a better job. Eager for violence — asked if he could kill Spiderbait. Puffed up with zealous pride when challenged, loudly declaring his allegiance to Demogorgon and parroting Pliinki's propaganda that followers of Demogorgon are making the Derro "proud and powerful" and "going to be great again." Suspicious and paranoid, accusing the party of working for the Duergar or the Mindflayers.
 
 ## History with the Party
-1. Encountered at the zombie pit where he was disposing of body parts.
-2. Complained about his job and asked to kill Spiderbait.
-3. When Grygum attempted to intimidate him, Skiit puffed himself up and proclaimed his allegiance to Demogorgon, repeating Pliinki's rhetoric.
-4. Accused the party of being agents of the Duergar or Mindflayers.
-5. Grygum pushed him off the cliff into the zombie pit.
-6. Skiit survived the fall and began to wake up.
-7. Daz attempted to crush him with Maximilian's Earthen Grasp — Skiit escaped the spell.
-8. Daz killed him with Toll the Dead.
+- **Zombie Pit Encounter:** The party found Skiit at his post tossing body parts into the pit. He complained about his job, asked to kill Spiderbait, and confronted the party with accusations of being Duergar or Mindflayer agents. When Grygum attempted to intimidate him, Skiit responded with bravado. Grygum pushed him off the cliff into the pit. Skiit survived the fall and began to wake, but Daz attempted to crush him with Maximilian's Earthen Grasp (Skiit escaped the spell) before finishing him with Toll the Dead.
 
 ## Current Status
-- **Dead.** Killed by Daz at the bottom of the zombie pit.
-- Ulnara planned to raise him as a zombie.
+- **Dead.** Killed by Daz via Toll the Dead after being pushed into the zombie pit by Grygum.
+- Ulnara planned to raise him as a zombie — his undead form may still be encountered.
 
 ## Relationships
-- **Ulnara:** His direct supervisor; she assigned him pit duty and intended to raise him as a zombie after his death.
-- **Pliinki:** Derro leader or recruiter who promised Skiit a better job and indoctrinated him into Demogorgon worship.
-- **Spiderbait:** Skiit wanted to kill them (reason unspecified).
-- **Grygum (party):** Attempted to intimidate Skiit; ultimately pushed him into the pit.
-- **Daz (party):** Killed Skiit with Toll the Dead after a failed Maximilian's Earthen Grasp.
+- **Ulnara:** His direct supervisor at the zombie pit. Planned to raise him as a zombie after his death.
+- **Pliinki:** Derro leader/propagandist who recruited Skiit into the cult of Demogorgon and promised him a better position. Skiit parroted Pliinki's rhetoric faithfully.
+- **Grygum:** Attempted to intimidate Skiit; ultimately pushed him into the pit.
+- **Daz:** Killed Skiit with Toll the Dead after a failed Maximilian's Earthen Grasp.
+- **Spiderbait:** Skiit wanted to kill Spiderbait for unknown reasons.

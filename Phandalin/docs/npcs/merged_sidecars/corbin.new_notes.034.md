@@ -1,0 +1,3 @@
+# New notes for corbin (from dossier_extract_034.md)
+
+Corbin was assigned to guard Sister Kaella while the party traveled to Icespire Hold. When told the assignment, he responded that it would be his pleasure, and immediately asked whether he was permitted to beat her. Vukradin authorized this to the limit of one hit point. Valphine noted she had been teaching him sacraments of her practice. Both Vukradin and Valphine observed something unresolved between Corbin and Kaella — a history characterized by a specific hunger belonging to people who have been made small and are now presented with the chance to be otherwise. Kaella began screaming the moment the party cleared the tent. Last known location: guarding Sister Kaella at camp.

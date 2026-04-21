@@ -1,26 +1,29 @@
+---
+name: Guldor
+aliases: []
+source_extracts: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54]
+---
+
 # Guldor
 
 ## Identity
 - Drow guard at the Drow outpost
-- Assigned to chamber pot cleaning detail — a demeaning post suggesting he failed or fell out of favor
-- First encountered by the party as the supervisor of the chamber pot work crew
+- Assigned to chamber pot cleaning detail — a punishment duty suggesting he failed at something previously
+- First encountered by the party during their captivity at the outpost
 
 ## Personality & Motivations
-- Takes his lowly assignment seriously despite its indignity, maintaining strict control over prisoners. Quick to threaten and enforce discipline — caught Gyrgum attempting to steal a knife and promised severe consequences. Keeps a watchful eye on his charges and is confident in his ability to prevent escape, warning Daz that he can reach the lake before any prisoner could run.
+- Takes his diminished role seriously despite its lowly nature. Vigilant and threatening toward prisoners, clearly keen to avoid further failures. Maintains authority through intimidation, warning captives he can cut them off at the lake if they attempt to flee.
 
 ## History with the Party
-- **Chamber pot detail:** Supervised a work crew consisting of Daz, Sarith, and Stool. Suushar remarked that Guldor had "the dirty job," implying some prior failure led to the assignment.
-- **Kitchen incident:** Caught Gyrgum trying to steal a knife and threatened him with severe consequences.
-- **Escape warning:** During the chamber pot run, directly warned Daz not to try anything, boasting he could get down to the lake before any prisoner could flee.
+- **Chamber pot detail:** Supervised prisoners Daz, Sarith, and Stool during the cleaning run. Warned Daz explicitly that he could reach the lake before any of them could escape.
+- **Kitchen incident:** Caught Gyrgum attempting to steal a knife and threatened him with severe consequences.
 
 ## Current Status
 - **Location:** Stationed at the Drow outpost
-- **Activity:** Continuing guard duties on the chamber pot cleaning detail
-- **Party knowledge:** The party knows he is alert, threatening, and confident in his ability to stop escape attempts. They also know his assignment is considered lowly among the Drow, which may indicate low status or resentment.
+- **Activity:** Continuing guard duties on the chamber pot detail
+- **Hidden info:** The nature of his original failure that landed him on punishment duty remains unknown to the party
 
 ## Relationships
-- **Daz:** Prisoner under his watch; directly threatened him against escape
-- **Sarith:** Prisoner on his work crew
-- **Stool:** Prisoner on his work crew
-- **Gyrgum:** Caught him stealing; adversarial
-- **Suushar:** Suushar commented on Guldor's assignment, suggesting familiarity with the outpost's social dynamics
+- **Suushar:** Described Guldor's assignment as "the dirty job," implying awareness of his diminished standing among the Drow
+- **Daz, Sarith, Stool:** Prisoners under his direct supervision during the chamber pot run
+- **Gyrgum:** Caught him stealing; antagonistic dynamic

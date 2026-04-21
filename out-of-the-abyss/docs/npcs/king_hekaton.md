@@ -1,19 +1,28 @@
+---
+name: King Hekaton
+aliases: []
+source_extracts: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54]
+---
+
 # King Hekaton
 
 ## Identity
 - King of the Giants
-- Mentioned indirectly — referenced in Thorin's reverie about the festival of Greengrass, not yet encountered by the party in person.
+- Mentioned in historical/cultural context during Thorin's reverie about the festival of Greengrass
+- Has not appeared directly to the party
 
 ## Personality & Motivations
-- Demonstrated a desire for peace between giants and the smaller races following the War of the Giants. His decree of peace defined the post-war order and shaped relations between giants and their neighbors.
+- A ruler who values peace between giants and the smaller races. His decree ending hostilities after the War of the Giants established a lasting accord that shaped relations for an extended period.
 
 ## History with the Party
-- **Greengrass Festival (Thorin's Reverie):** King Hekaton was referenced as the giant king who decreed peace with the "little people" after the end of the War of the Giants. This peace has held and defined the current era of coexistence.
+- **Thorin's Reverie (Greengrass festival):** King Hekaton was referenced in the context of the post-war peace. After the War of the Giants concluded, he decreed peace with the "little people" (smaller races), and this peace has been maintained among giants and their neighbors since.
 
 ## Current Status
-- **Last known status:** Unknown. He has only been mentioned in historical/cultural context, not encountered directly.
-- **What the party knows:** Hekaton is the king of the giants who brokered peace with the smaller races after the War of the Giants. No further details are known.
+- Last known status: Unknown. He has only been referenced historically.
+- The party knows him as the giant king who decreed peace after the War of the Giants.
+- No direct interactions or current operations known.
 
 ## Relationships
-- **Thorin:** Knows of Hekaton through cultural memory and the Greengrass festival traditions.
-- **The Smaller Races:** His peace decree established a lasting truce between giants and their smaller neighbors.
+- **The Giants:** Their king and authority figure.
+- **The "Little People" (smaller races):** Established a peace accord with them following the War of the Giants.
+- **Thorin:** Knows of Hekaton through cultural memory/history connected to the Greengrass festival.

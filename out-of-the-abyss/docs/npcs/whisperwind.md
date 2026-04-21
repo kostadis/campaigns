@@ -1,24 +1,26 @@
+---
+name: Whisperwind
+aliases: []
+source_extracts: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54]
+---
+
 # Whisperwind
 
 ## Identity
-- Giant; friend and ally of Thorin
+- Giant; friend and ally of the party member Thorin
 - Has not appeared directly in any session to date; known only through Thorin's references
 
 ## Personality & Motivations
-- Appears to serve as an informant or ally who shares intelligence about threats. Specific personality traits have not yet been demonstrated in play.
+- Appears to serve as an intelligence source or scout, particularly regarding underground threats. Specific personality traits have not yet been demonstrated in play.
 
 ## History with the Party
-- **Pre-campaign or off-screen:** Warned Thorin about the duergar (deep dwarves) at some point prior to current events.
-- **Referenced in session:** When Thorin spotted the duergar Hemath, he recalled Whisperwind's earlier warnings about the duergar, suggesting the information proved accurate and relevant.
+- **Pre-session history:** At some point before the observed sessions, Whisperwind warned Thorin about the duergar (deep dwarves). This warning proved relevant when Thorin later spotted a duergar named Hemath and recalled Whisperwind's caution.
 
 ## Current Status
 - **Last known location:** Unknown
-- **Active plans:** None known
-- **Party knowledge:** The party (or at least Thorin) knows Whisperwind as a trustworthy source of information regarding the duergar. Everything else about Whisperwind — location, broader goals, nature of the relationship — remains unestablished in play.
+- **Active plans:** Unknown
+- **Party knowledge:** The party (at minimum Thorin) knows Whisperwind as a trustworthy source of information about the duergar. No further details have been revealed.
 
 ## Relationships
-- **Thorin:** Friend and trusted source of intelligence. The nature and origin of their friendship has not been detailed.
-- **Duergar:** Possesses knowledge of duergar activity and considers them a threat worth warning allies about.
-
-## Arc Score Events
-None recorded.
+- **Thorin:** Friend and trusted contact. Thorin takes Whisperwind's warnings seriously.
+- **Duergar:** Oppositional; Whisperwind has knowledge of and concern about duergar activity.

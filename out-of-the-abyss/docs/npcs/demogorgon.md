@@ -1,29 +1,39 @@
+---
+name: Demogorgon
+aliases: []
+source_extracts: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54]
+---
+
 # Demogorgon
 
 ## Identity
 - **Title:** Prince of Demons
-- **Role:** Demon lord whose invasion of the Underdark is a central threat; patron of cults operating in the region
-- **First appearance:** Manifested physically at the village of Sloobludop, where the party witnessed his arrival firsthand
+- **Role:** Demon lord; central figure behind a demonic invasion of the Underdark
+- **Faction:** Demon lords of the Abyss; worshipped by Plinki's cult
+- **First appearance:** Manifested physically at the kuo-toan village of Sloobludop, destroying it entirely
 
 ## Personality & Motivations
-- A being of apocalyptic destruction — his very appearance caused madness and terror among onlookers. His goals in the material plane remain unclear to the party, but cults operating in his name seek conquest and mass sacrifice in his honor. Referred to reverently as "the Prince" by his followers, who anticipate a greater "Coming."
+- A force of apocalyptic destruction — his arrival at Sloobludop was immediate, total, and indiscriminate. His cultists revere him as an incoming conqueror, preparing grand sacrificial offerings to earn his favor. He is spoken of with messianic reverence ("The Prince Awaits," "For the Coming"), suggesting his followers expect a full-scale ascendancy in the material plane.
 
 ## History with the Party
-1. **Sloobludop:** Demogorgon appeared at the kuo-toa village after followers of Leemoogoogoon seemingly summoned or welcomed him. His arrival caused mass panic; followers of the Deep Sea Mother were driven mad or killed. He destroyed the entire town. The party fled by boat across the Darklake as the screams of dying kuo-toa echoed behind them.
-2. **Plinki's Cult & the Black Obelisk:** The party discovered that the cultist Plinki was using a black obelisk to infuse a stolen red dragon egg with a demon's spirit, dedicating the ritual to Demogorgon. Plinki's journal and cult correspondence revealed the mutated two-headed dragon egg was being created as a **gift and mount** for Demogorgon, and the cult's ultimate plan was to **conquer Gracklstugh and offer the entire city as a sacrificial gift** to him.
-3. **Statue:** Zalthir found and took a statue of Demogorgon from an alcove in the cult's chamber.
+1. **Sloobludop:** Demogorgon physically appeared at the village while the party was present. Followers of Leemoogoogoon cheered his arrival; followers of the Deep Sea Mother were driven to terror and madness. He destroyed the entire town. The party fled by boat across the Darklake as kuo-toan screams echoed behind them. Eldeth noted his presence in the prime material plane should be impossible.
+2. **Plinki's Ritual Site:** The party discovered that Plinki was using a black obelisk to infuse a stolen red dragon egg with a demon's spirit, dedicating the act to Demogorgon. The mutated two-headed dragon egg was being created as a gift and mount for Demogorgon.
+3. **Cult Correspondence & Journal:** Plinki's journal and cult letters revealed the broader plan — to conquer Gracklstugh and offer the entire city as a sacrificial gift to Demogorgon. Cult members refer to him as "the Prince" and sign correspondence with "The Prince Awaits" and "For the Coming."
+4. **Statue:** Zalthir found and picked up a statue of Demogorgon in an alcove in the northeast corner of the ritual chamber.
 
 ## Current Status
-- **Last known location:** Somewhere in the Underdark / material plane; his exact whereabouts since destroying Sloobludop are unknown to the party.
-- **Active plans:** His cultists were working to create a demonic dragon mount for him and to conquer Gracklstugh in his name. The status of these plans after the party's intervention with Plinki is unclear.
-- **What the party knows:** He is physically present in the material plane (which should be impossible). Someone summoned him and other demon lords using extraordinarily powerful magic. He has active cults working toward his conquest. Cult members use phrases like "The Prince Awaits" and "For the Coming."
-- **What remains hidden:** Who summoned Demogorgon and the other demon lords. His broader plans and current movements. The full extent of his cult network.
+- **Last known location:** Unknown; last physically seen destroying Sloobludop
+- **Active plans:** His cult is working to create a two-headed dragon mount for him and conquer Gracklstugh as a sacrificial offering. The party disrupted Plinki's ritual, but the broader cult network and Demogorgon's presence in the Underdark remain unresolved.
+- **Known vs. hidden:** The party knows Demogorgon is physically present in the Underdark, that someone summoned him (and other demon lords) with extraordinarily powerful magic, and that a cult is actively working on his behalf. The identity of whoever performed the original summoning remains unknown.
 
 ## Relationships
-- **Plinki:** Cultist conducting rituals in his honor; created the two-headed dragon egg as a gift/mount for him
-- **Cult network:** Operates through cells that communicate via correspondence, using coded sign-offs ("The Prince Awaits," "For the Coming")
-- **Leemoogoogoon followers:** The kuo-toa faction at Sloobludop that cheered his arrival
-- **The Party:** Witnessed his destructive power firsthand; actively disrupting his cult's operations
-- **Eldeth:** Noted his presence in the material plane as seemingly impossible
-- **Zalthir:** Possesses a statue of Demogorgon taken from the cult's chamber
-- **Other demon lords:** Part of a larger demonic invasion of the Underdark; multiple lords have been summoned
+- **Plinki:** Devoted cultist conducting rituals in his name; creating a dragon mount as a gift for him
+- **Plinki's Cult:** Organized network working to conquer Gracklstugh for Demogorgon; communicate using coded reverence ("the Prince")
+- **Leemoogoogoon followers (kuo-toa):** Cheered his arrival at Sloobludop — likely worshipped him or a version of him
+- **Eldeth:** Recognized his presence as something that should be impossible
+- **Zalthir:** Recovered a statue of Demogorgon from the cult's chamber
+- **The Party:** The party witnessed his destructive power firsthand and has been uncovering his cult's operations; he represents a looming existential threat driving their Underdark journey
+
+## Arc Score Events
+- **Sloobludop destruction:** Major catalyst — drove the party's urgent flight across the Darklake and their realization that a large-scale demonic invasion is underway (increase in urgency/stakes).
+- **Discovery of cult plans at ritual site:** Deepened understanding of the threat; revealed Demogorgon as the specific demon lord being served (increase in knowledge of the overarching threat).

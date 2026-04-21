@@ -1,38 +1,71 @@
+---
+name: Shuushar
+aliases:
+  - Suushar
+  - Shuushar the Awakened
+  - Suushar the Awakened
+  - Shuushar (also "Suushar")
+  - Shuushar Also Suushar
+  - Shuushar (Shuushar the Awakened)
+  - Shuushar Shuushar The Awakened
+source_extracts: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54]
+---
+
 # Shuushar
 
 ## Identity
-- Kuo-toan pacifist philosopher and self-proclaimed finder of the "cure to Kuo-toan insanity"
-- Fellow prisoner and escapee; met by the party during captivity
+Kuo-toan escapee and fellow prisoner; self-styled philosopher and advocate for curing kuo-toan madness through enlightenment. *Also known as: Suushar, Shuushar the Awakened, Suushar the Awakened.*
 
 ## Personality & Motivations
-Shuushar is a thoughtful, talkative philosopher driven by a deep desire to reform kuo-toan society and free his people from the madness that defines them. He is patient and non-violent by inclination, preferring restraint and mental techniques over killing — though he proved willing to arm himself and fight when necessary (firing a crossbow during the armory raid). He coined a mindfulness practice he calls "Kuo-toan-fulness," centered on creating space between impulse and action, and he genuinely believes enlightenment can save his species.
+- Core goal: achieving "enlightenment" for the kuo-toan people by ending the cycle of madness and involuntary god-creation through mental discipline
+- Committed pacifist who finds violence deeply distressing and unnecessary, though willing to arm himself when survival demands it
+- Developed his own mindfulness technique — "Kuo-toan-fulness" — which involves creating space between impulse and action
+- Talkative, earnest, and philosophical by nature; tends to be long-winded and preachy, droning on about open-mindedness
+- Serves as a calming, knowledgeable presence offering practical guidance on Underdark survival alongside philosophical musings
+- Genuinely believes in hearing all perspectives before making judgments; advocates for dialogue and understanding
+- Excited and proud of his homeland and people despite being considered a troublemaker among them
+- Speaks in a soothing manner; projects an air of peaceful detachment and self-awareness unusual for a kuo-toa
+- Genuinely confused when others find kuo-toan names difficult to pronounce
+- Appears sensitive to magical or environmental phenomena, particularly Faerzess
+- Quick to flatter and enthusiastic in social interactions
+- Professes to omit offensive words when translating but then translates every insult anyway
 
 ## History with the Party
-- **Velkynvelve (Captivity):** Reassured Grygum about the Drow chore rotation and identified each taskmaster by name: Beremil — water, Balok — winch, Guldor — chamber pots, Imbros — cooking. Relayed Topsy and Turvy's request for Grygum to create a distraction so they could steal food. Served as translator, humorously claiming to filter out offensive language while doing no such thing.
-- **Armory Raid:** Armed himself with a hand crossbow and participated in the crossbow volley against Imbros, successfully hitting him.
-- **Mushroom Knowledge:** Identified the Tongue of Madness mushroom, explaining it was said to connect the eater with the gods, then clarified its true effect — compelling the eater to speak only truth. Provided this context after Thorin's involuntary truth-telling.
-- **Cave-In:** Was among those trapped under rocks during a cave-in. Grygum showed concern for Shuushar's well-being, ordering Stool to assist him.
-- **Faerzress Passage:** While the group moved through a cave suffused with Faerzress, Shuushar was visibly uncomfortable. Afterward, he remarked: "That was odd. It was the first time I had felt so strange. The Faerzress was just a light, but now it seems to be a poison."
-- **Thorin's Madness:** Witnessed Thorin suffer a bout of madness and recommended the party visit Sloopbludop, where the archpriest Ploopploopeen could potentially help.
-- **Corpse Disposal:** Argued that leaving corpses for scavengers would effectively mask evidence from trackers.
-- **Water Reassurance:** Calmed the group's water concerns by promising the Darklake would provide abundant water.
-- **Yukyuk's Murder:** Whispered to Zalthir about Yukyuk's death and Spiderbait's distress. Was accused by Spiderbait of being the killer (citing kuo-toan madness). Proposed traveling to Sloopbludop so the arch-cleric of the Seamother could cast Zone of Truth. Insisted on tying up Buppido rather than cutting him loose, and walked alongside the gagged derro lecturing him on "Kuo-toan-fulness."
-- **Kuo-toan Intelligence:** Provided tactical intelligence about kuo-toan monitors — special leaders who handle insanity breaks; defeating them demoralizes other kuo-toans. Became very excited upon encountering a kuo-toan party about an hour from the settlement and introduced the group to Ploopploopeen, archpriest of the Sea Mother. Ploopploopeen cast a pointed glance at him when mentioning "visionaries" who caused trouble, suggesting Shuushar has a reputation as a troublemaker among his people. Urged the party to speak with Ploopploopeen's daughter Bloppblippodd before acting. Was sincerely confused when Grygum called "Ploopploopeen" a tongue twister, demonstrating by repeating the name multiple times without issue. Stated he had no interest in traveling past Sloopbludop but offered he might be willing to help with travel on the Darklake.
-- **Buppido's Influence:** Buppido claimed he "learned from Suushar that I was mad" — Shuushar's stabilizing influence on Buppido.
-- **Sloopbludop & Demogorgon:** Previously told the party that kuo-toa could create gods with the power of their faith. After an entity (Demogorgon / "Leemoogoogoon") emerged from the Darklake, he screamed and wailed but recovered philosophically, declaring: "Enlightenment is necessary! We must change as a people. Our imagination brought into existence, Leemoogoogoon."
-- **Departure (8th day, 3rd Tenday of Taraskh):** During the Darklake crossing, served as the group's guide and navigator. Encountered a boat of kuo-toans who had fled Sloopbludop, found them receptive to his reformist message, and chose to leave the party to pursue his calling with them.
+- **Velkynvelve imprisonment:** Met the party as a fellow prisoner in the slave pen; served as translator and cultural guide for those who don't speak Undercommon
+- **Cultural knowledge sharing:** Identified Drow taskmasters by name and routine; reassured party members about daily operations and prisoner safety
+- **Kitchen duty:** Acted as translator during cooking chores; relayed Topsy and Turvy's food theft schemes; lavishly praised Gyrgum's cooking
+- **Escape planning:** Advocated strongly for traveling to Darklake first, arguing the direct route to Blingdenstone passes through Menzoberranzan
+- **Armory Raid & Escape:** Armed himself with a hand crossbow and participated in the crossbow volley against Imbros, successfully hitting him; fled during the ensuing chaos
+- **Mushroom Knowledge:** After Thorin involuntarily spoke truths from eating a Tongue of Madness mushroom, explained its properties — it compels truth-speaking and "connects the eater with the gods"
+- **Cave-In & Faerzess:** Was trapped under rocks during a cave-in; later experienced visible discomfort in Faerzess-suffused caves, remarking: "That was odd. It was the first time I had felt so strange. The Faerzess was just a light, but now it seems to be a poison."
+- **Water Concerns:** Reassured the group about water scarcity, promising the Darklake would provide more than enough
+- **Yukyuk's Murder:** Whispered to Zalthir that Yukyuk had been murdered; when Spiderbait accused him of being the killer, proposed traveling to Sloopbludop for Zone of Truth from the arch-cleric
+- **Buppido's Madness:** When the group identified Buppido as mad, insisted on tying him up rather than releasing him; walked alongside the gagged derro, lecturing him on "Kuo-toan-fulness"
+- **Ambush battle near Sloopbludop:** Provided tactical intel on the kuo-toan monitor's role; lamented the violence afterward
+- **Approach to Sloopbludop:** Grew visibly excited when encountering a kuo-toan party; personally introduced the party to Ploopploopeen, archpriest of the Sea Mother
+- **Debate over killing Ploopploopeen's party:** Argued that the Sea Mother is legitimate while the Deep Father demands humanoid sacrifices; urged speaking with Bloppblippodd before deciding on violence
+- **Sloopbludop & Demogorgon:** When an entity emerged from the Darklake, screamed and wailed but recovered philosophically, declaring: "Enlightenment is necessary! We must change as a people. Our imagination brought into existence, Leemoogoogoon."
+- **Darklake Navigation & Departure:** Served as primary guide and navigator across the Darklake; on the 8th day of the 3rd Tenday of Taraskh, encountered kuo-toan refugees and found them receptive to his vision; announced he had found his calling and left the party to join them
 
 ## Current Status
-- **Last Known Location:** On a boat with refugee kuo-toans somewhere on the Darklake.
-- **Active Plans:** Building a kuo-toan reformist movement — a society free from the madness of creating new gods.
-- **Party Impact:** His departure left the group without their primary navigator. Sarith has Shuushar's instructions but is uncertain he can follow them.
+On a boat with kuo-toan refugees on the Darklake, building a movement among displaced kuo-toans to end the madness of god-creation. The party lost their primary navigator upon his departure; Sarith retained Shuushar's instructions but expressed uncertainty about following them.
 
 ## Relationships
-- **The Party (general):** Trusted companion and guide; the group relied on his knowledge of the Underdark, kuo-toan society, and Darklake navigation.
-- **Thorin:** Subject of Thorin's truth-mushroom observation ("really big eyes"); Thorin engaged seriously with Shuushar's theology about kuo-toan faith creating gods.
-- **Zalthir:** Confided in Zalthir about Yukyuk's murder.
-- **Spiderbait:** Accused Shuushar of murdering Yukyuk; tension around kuo-toan madness stereotype.
-- **Buppido:** Shuushar advocated restraining rather than releasing him, and personally attempted to rehabilitate him through "Kuo-toan-fulness."
-- **Sarith:** Sarith referenced Shuushar's knowledge of Sloopbludop and inherited his navigation instructions upon departure.
-- **Daz:** Daz noted Shuushar's claim to have cured kuo-toan insanity.
-- **Kuo-toan Refugees:** Found a receptive audience for his philosophy among fleeing kuo-toans; departed with them.
+- **The Party (general):** Trusted companion and guide whose departure was a significant practical loss
+- **Thorin:** Friendly dynamic; Thorin listened to and internalized Shuushar's teachings about kuo-toan faith and god-creation
+- **Gyrgum:** Primary relationship during imprisonment; served as his translator and cultural interpreter; enthusiastically flattered his cooking
+- **Sarith:** Relied on Shuushar's knowledge of Sloopbludop and navigation; inherited navigational instructions
+- **Zalthir:** Confided in about Yukyuk's murder
+- **Spiderbait:** Tense; accused Shuushar of murdering Yukyuk
+- **Buppido:** Attempted to rehabilitate using mindfulness techniques; had calming influence that helped Buppido recognize his own instability
+- **Grygum:** Showed concern for Shuushar's well-being after rockfall; light comedic rapport over name pronunciation
+- **Stool:** Received aid from Stool when directed by Grygum
+- **Ploopploopeen:** Known to her; she views him with suspicion as a disruptive visionary
+- **Bloppblippodd:** Knows of her and trusts her enough to recommend the party speak with her
+- **Sethir:** Responds to prompts and seems to accept him as a decision-maker
+- **Kuo-toan refugees:** Found kinship and receptive audience for his philosophy among them
+- **Topsy & Turvy:** Cooperative; willing to relay their schemes
+- **Daz:** Noted Shuushar "claims to have figured out the cure to Kuo-toan insanity"
+
+## Arc Score Events
+No arc score events recorded.

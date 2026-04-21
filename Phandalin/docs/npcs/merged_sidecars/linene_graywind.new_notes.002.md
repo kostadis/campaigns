@@ -1,0 +1,3 @@
+# New notes for Linene Graywind (from dossier_extract_002.md)
+
+Linene Graywind is the master of the Lionshield Coster outpost in Phandalin. She purchased the orc axes and hide armor the party recovered from the ruins on 10/1 of Taraksh. She confirmed to the party that the Lionshield Coster's preferred transportation network had been disrupted, attributing it to what she agreed could be called tariffs. She deflected Vukardin's offer to protect a shipment and instead passed along a rumor about strange magic pervading Neverwinter Wood that was confounding navigators and obscuring ancient ruins. Last known location: the Lionshield Coster, Phandalin.

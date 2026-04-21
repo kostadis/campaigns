@@ -1,29 +1,39 @@
+---
+name: Brysis of Khaem
+aliases:
+  - Brysis
+source_extracts: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54]
+---
+
 # Brysis of Khaem
 
 ## Identity
-- Half-elf sorcerer from the height of Faerûn's great empires of magic (Netheril)
-- Netherese noble, interred in a floating tomb that fell into the Underdark after the fall of Netheril
-- First encountered indirectly through information from Fargas Rumblefoot; the party later entered her Lost Tomb on the eastern edge of the Darklake
+Wraith, ancient undead entity; originally a half-elf sorcerer of Netherese nobility from the height of Faerûn's great empires of magic. Her Lost Tomb is located on the eastern edge of the Darklake in the Underdark. *Also known as: Brysis.*
 
 ## Personality & Motivations
-- In life, she flaunted wealth and power as a Netherese noble, depicted in stone dioramas surrounded by her retinue. Her tomb was elaborately designed with false burial chambers and secret passageways to protect her real treasures. Her current motivations are unclear — a telepathic feminine voice pleaded for help when the party entered the tomb, suggesting she may be trapped or imprisoned in some form.
+- In life, she was a figure of wealth, power, and status, depicted flaunting these qualities in stone dioramas and murals alongside the floating cities of Netheril
+- Driven by a desperate desire for freedom after millennia of imprisonment
+- Reacted with immediate hostility and fear upon seeing Dawnbringer, suggesting prior knowledge of—and vulnerability to—the weapon
+- Defiant and unwilling to accept defeat even when outmatched
 
 ## History with the Party
-1. **Fargas Rumblefoot's Intel:** Before visiting the tomb, the party learned from Fargas that the tomb contains a false burial chamber with a fake sarcophagus designed to deceive treasure hunters. The real treasure is hidden in a separate chamber accessible through a secret passageway from the servants' tomb.
-2. **Entering the Tomb:** The party entered the Lost Tomb. Near the entrance, they found a stone diorama depicting Brysis as a Netherese noble with her retinue, and murals showing the fantastic floating cities of the Netheril Empire.
-3. **Telepathic Contact:** Upon entering, a soft feminine voice telepathically called out to the party, pleading for help.
-4. **The Wraith Encounter:** In the deepest chamber, the party found her gilded sarcophagus. A Wraith rose from it and declared: *"Your deaths will free me from this prison, and how my victims will serve me even in death!"*
-5. **The Voice Returns:** When Zalthir moved the sarcophagus lid aside during the encounter, the same feminine voice spoke again: *"In the sarcophagus! I can help you!"*
-6. The session ended with Zalthir looking inside the sarcophagus.
-
-## Resolution
-7. **Battle and Death:** Brysis was destroyed by the party in combat. The killing blow was delivered by Grygum's acid breath — Zalthir memorably noted she was "killed by barf." She screamed "Not Dawnbringer!" in alarm when Thorin activated it during the fight.
-8. **Aftermath:** Brysis's death caused the magical trap in the false tomb to dissipate. The party looted her real tomb, recovering a necklace of fireballs, a potion of greater healing, and gold.
+- **Tomb Discovery:** The party learned about the tomb from **Fargas Rumblefoot**, who provided intelligence about its layout — specifically that it contains a false burial chamber with a fake sarcophagus designed to deceive treasure hunters, and that the real treasure is in a separate chamber accessible through a secret passageway from the servants' tomb
+- **Pre-encounter:** Fargas Rumblefoot warned the party about a false tomb with a magical trap—a decoy set up by Brysis
+- **Tomb Entry:** Upon entering, the party encountered a stone diorama depicting Brysis as a Netherese noble with her retinue, and murals of Netheril's floating cities. A soft feminine voice telepathically contacted the party, pleading for help
+- **Sarcophagus Chamber:** In the deepest chamber, the party found her gilded sarcophagus. A **Wraith** rose from it, declaring: *"Your deaths will free me from this prison, and how my victims will serve me even in death!"* The telepathic feminine voice spoke again — *"In the sarcophagus! I can help you!"* — as Zalthir moved the sarcophagus lid aside
+- **Encounter:** When Thorin activated Dawnbringer, Brysis screamed "Not Dawnbringer!" revealing her fear of the weapon. She declared she had waited millennia to be free and would not be denied. Daz struck her with spells, and the party fought her as a group. Grygum delivered the killing blow with an acid breath attack (described memorably by Zalthir as "killed by barf")
+- **Aftermath:** With Brysis's destruction, the magical trap in her false/decoy tomb dissipated. The party looted her real tomb, recovering a **necklace of fireballs**, a **potion of greater healing**, and **gold**
 
 ## Current Status
-- **Dead.** Destroyed by the party in her tomb.
+**Dead.** Destroyed by the party in combat. The false tomb trap has dissipated; the real tomb has been looted.
 
 ## Relationships
-- **Zalthir:** Directly interacting with the sarcophagus; the voice specifically urged him to look inside
-- **Fargas Rumblefoot:** Provided the party with detailed knowledge of the tomb's layout and defenses
-- **The Wraith:** Relationship unclear — possibly Brysis herself in undead form, or a separate entity imprisoning her
+- **Fargas Rumblefoot:** Provided the party with detailed knowledge of the tomb's layout and hidden chambers; knew enough about Brysis's lair to warn the party about the false tomb trap
+- **Dawnbringer:** Brysis recognized and feared the weapon on sight, implying a historical connection or known vulnerability
+- **Zalthir:** The party member who moved the sarcophagus lid and provided colorful commentary about her demise
+- **Thorin:** Activated Dawnbringer during the encounter
+- **Daz:** Struck her with spells during combat
+- **Grygum:** Delivered the killing blow with an acid breath attack
+
+## Arc Score Events
+No arc score events noted in the source material.

@@ -1,0 +1,3 @@
+# New notes for lyra (from dossier_extract_021.md)
+
+Lyra is a low-ranking Emerald Enclave member whom the party had previously saved. The party devised a plan to credit the rescue of the missing Emerald Enclave patrol to her in order to boost her standing within the faction and cultivate her as a valuable ally. One of the rescued Enclave patrol members confirmed that it was Lyra who had sent the party to rescue them, indicating she acted on the arrangement. Lyra herself did not appear directly in this session but her influence was felt through the rescued patrol's testimony. Her standing within the Emerald Enclave is being deliberately elevated by the party's actions.

@@ -1,3 +1,9 @@
+---
+name: Beremil
+aliases: []
+source_extracts: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54]
+---
+
 # Beremil
 
 ## Identity
@@ -6,16 +12,16 @@
 - First encountered when he escorted a work detail (Ront, Prince Derendil, and Thorin) to the waterfall
 
 ## Personality & Motivations
-- Functions as a dutiful, no-nonsense taskmaster. Barks short, direct orders at prisoners and expects immediate compliance. Shows no particular cruelty beyond the inherent coercion of his role—he's there to get a job done efficiently.
+- A rank-and-file enforcer carrying out routine duties at the outpost. Barks short, direct orders at prisoners with no patience for delay. Shows no particular cruelty beyond the baseline authority expected of a Drow guard — he has a job and he does it.
 
 ## History with the Party
-- Took Ront, Prince Derendil, and Thorin on a water-carrying detail: filling buckets at the waterfall, then delivering water to Ilvara's quarters.
+- Took Ront, Prince Derendil, and Thorin on a water-carrying chore: first to fill buckets at the waterfall, then to deliver the water to Ilvara's quarters.
 
 ## Current Status
 - **Location:** Drow outpost
-- **Activity:** Performing routine guard duties, including supervising prisoner work details
-- **Hidden info:** None noted; appears to be a rank-and-file guard with no deeper agenda revealed so far
+- **Activity:** Performing guard duties, including supervising prisoner work details
+- **Party knowledge:** The party knows his name, his role in the chore rotation, and that the water route passes by the waterfall and leads to Ilvara's quarters — potentially useful intelligence for an escape or infiltration attempt
 
 ## Relationships
-- **Ilvara:** Serves her directly, at least in the capacity of delivering water to her quarters
-- **Ront, Prince Derendil, Thorin:** Prisoners under his temporary supervision during chore assignments
+- **Ilvara:** Serves under her authority; delivers water directly to her quarters
+- **Ront, Prince Derendil, Thorin:** Prisoners he has supervised on work detail

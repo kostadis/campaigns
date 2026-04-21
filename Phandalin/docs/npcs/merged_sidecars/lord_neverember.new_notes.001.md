@@ -1,0 +1,3 @@
+# New notes for Lord Neverember (from dossier_extract_001.md)
+
+Lord Neverember, ruler of Neverwinter, turned his attention to the hinterlands of his city-state following the end of the Uthgardt Barbarian invasion and the broader conflicts of the era. Motivated by the need to encourage settlement and growth — and constrained by the costs of recent wars — he chose to employ adventurers rather than conventional forces, offering them tax-free, no-questions-asked plunder as compensation for clearing the region around Phandalin of monsters, cults, and evildoers. Vukardin is identified as one such adventurer recruited under this arrangement.

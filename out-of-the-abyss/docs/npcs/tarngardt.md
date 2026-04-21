@@ -1,21 +1,29 @@
+---
+name: Tarngardt
+aliases: []
+source_extracts: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54]
+---
+
 # Tarngardt
 
 ## Identity
 - Former Deep King of Gracklstugh (grandfather of the current Deep King)
-- Historical figure; not encountered directly by the party
+- Historical political figure; not encountered directly by the party
 
 ## Personality & Motivations
-- Enacted a major political reform by liberating the derro, suggesting a ruler willing to break with tradition. Specific personal motivations for this decree are unknown.
+- Enacted a major reform by liberating the derro population of Gracklstugh, suggesting a progressive or pragmatic political stance relative to traditional duergar norms. No further personality details available from session notes.
 
 ## History with the Party
-- No direct interaction. Tarngardt is a historical figure whose legacy the party has learned about through context in Gracklstugh.
+- No direct interactions. Tarngardt is a historical figure referenced in the context of Gracklstugh's political and social landscape.
 
 ## Current Status
-- Deceased (at least two generations prior to current events).
-- His political legacy remains highly relevant: the liberation of the derro reshaped Gracklstugh's social geography, with derro populations expanding from the West Cleft District into the East Cleft District.
-- The Duergar guardhouses once used to watch derro slaves were abandoned following his decree and may still stand as remnants of the old order.
+- Presumably deceased (grandfather of the current Deep King)
+- His legacy is visible in the city's layout: the derro now occupy both the West Cleft District and East Cleft District, and former duergar guardhouses built to watch derro slaves stand abandoned following his decree
 
 ## Relationships
-- **Current Deep King of Gracklstugh:** Tarngardt's grandson; inherited the political landscape Tarngardt created.
-- **The Derro:** Liberated by Tarngardt's decree; their current status and freedoms trace back to his rule.
-- **Duergar society:** His decision to free the derro was significant enough to be remembered generations later, implying it was controversial or transformative.
+- **Current Deep King of Gracklstugh**: Grandson
+- **The Derro**: Liberated them from slavery, enabling their expansion across the Cleft Districts
+- **Duergar establishment**: His decree ended the slave-watch infrastructure, likely a politically significant and potentially controversial act
+
+## Arc Score Events
+None recorded.

@@ -1,39 +1,68 @@
+---
+name: Sarith
+aliases:
+  - Sathir
+  - Serith
+  - Sethir
+  - Sarith (also referred to as "Sathir" in the text)
+  - Sarith Also Referred To As Sathir In The Text
+  - Sethir (Serith)
+  - Sethir Serith
+source_extracts: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54]
+---
+
 # Sarith
 
 ## Identity
-- Drow warrior, former member of the warrior caste / Lolth's guard
-- Prisoner at Velkynvelve, convicted of murdering a fellow Drow
-- First encountered by the party as a fellow prisoner in the slave pen at Velkynvelve
+Drow warrior, former member of Lolth's guard (warrior caste), convicted of murdering a fellow Drow and imprisoned at Velkynvelve. Guide and navigator knowledgeable about the Underdark, particularly the Darklake region. *Also known as: Sathir, Serith, Sethir.*
 
 ## Personality & Motivations
-Sarith was driven by a desperate desire to escape Velkynvelve and avoid being sent to Menzoberranzan for sacrifice or transformation into a drider. He oscillated between lucid tactical thinking and bouts of madness—cackling about revenge being "tasty," praising torture techniques, and muttering mid-conversation. He possessed genuine expertise as a Drow warrior and useful knowledge of the Underdark, but Daz assessed him as not sane even before his fungal compulsion became overt. He maintained his innocence regarding the murder charge while simultaneously questioning whether he actually committed it.
+- Deeply unstable from the start — oscillated between lucid tactical advice and bouts of cackling, muttering, and raving
+- Insisted his murder conviction was a setup yet simultaneously questioned whether he actually committed the crime
+- Core drives: escaping Velkynvelve (terrified of being sent to Menzoberranzan to be sacrificed or turned into a drider), and increasingly, answering the compulsive call of Zuggtmoy's spores toward Neverlight Grove
+- Took pride in his drow warrior training and eagerly offered his torture expertise, revealing casual cruelty beneath his cooperative exterior
+- Pragmatic and competent — focused on food, water, and tactical movement; quick to assess resource situations
+- Treasure-motivated and impulsive, often steering group decisions toward loot opportunities
+- Prideful about his skills; visibly annoyed when others found routes before him
+- Emotionally volatile; deeply affected by Prince Derendil's death, nearly breaking down screaming in combat
+- Susceptible to strange magical influences of the Underdark, particularly the Faerzress
 
 ## History with the Party
-- **Velkynvelve**: Met as a fellow prisoner; assessed by Grygum as a genuine prisoner (not a spy). Assigned to chamber pot duty with Daz and Stool. Provided intelligence about the gray ooze in the pools and Jorlan's backstory (his disfigurement, fall from Ilvara's favor, Shoor's rise). Participated in escape planning.
-- **Escape from Velkynvelve**: Armed himself with studded leather armor, shield, and hand crossbow. Identified Drow poison among loot. Advised speed over looting, warning Ilvara would pursue them. Outlined the route to the Darklake and suggested heading to Sloobludop (eight days away). Gave a status report — they had gained distance from the drow but had no water. Revealed that Ilvara had found and caught up with them. Ordered Eldeth to cover their trail the next day and insisted they slow their pace.
-- **Giant Centipede Fight**: Fought alongside the group using hand-held crossbow bolts, contributing to the kill alongside Buppido, Topsy, and Turvy. Buppido shouted that Sarith was supposed to rescue him per "the divine plan."
-- **Map-Making**: Drew a map using Ormu (collected by Zalthir), charting the party's route from Velkynvelve through the Silken Paths toward Sloobludop, also marking the Darklake, Gracklstugh, and the Lost Tomb of Khaem's approximate location. Confirmed he could lead the group to the tomb after consulting with Fargas about its general location on the eastern edge of the Darklake. Explained the Darklake's unusual nature — not a conventional body of water but a "large water balloon" of intersecting caverns, caves, and tunnels. Glared at Thorin when the dwarf criticized his map's accuracy.
-- **Silken Paths**: Confirmed the route and described the chasm (500 ft deep, 2,000 ft wide, ~5 miles long). Directed goblin guides toward Sloobludop.
-- **Buppido's interrogation**: Complimented Daz's Mind Sliver as "excellent torturing" and offered to use Lolth's guard techniques (eye/nail removal). Later recommended Daz take first crack at interrogating a captured duergar.
-- **Prince Derendil's Death**: After Prince Derendil's death at Imbros's hands, Sarith nearly lost control — Grygum telepathically calmed him by redirecting his rage toward spirituality. Sarith was confused but steadied, then killed Imbros with his sword.
-- **Darklake Navigation**: On the fourth day of travel, announced they must disembark and proceed on foot, noting the path passes the Lost Tomb of Khaem. Confirmed with a nod that the direction indicated by a mysterious feminine voice aligned with the route he was already leading them on. After Shuushar departed, admitted he had navigational instructions but was unsure he could follow them. Continued traveling with the party by boat.
-- **Gracklstugh**: Armed by Errde at Underlake Hold. Followed the party through the city, waited outside the assassin's lair and the brimstone cavern as ordered.
-- **Approaching Myconid cave**: Became involuntarily compelled, shouting about "the Dark Lady" calling him, singing "in the spores, a song of becoming." Raved about whispers, glory, the bloom, liberation, and revenge. Zalthir physically restrained him. His compulsion grew stronger with proximity to the Myconids.
-- **Neverlight Grove**: Appeared "unhappy and serene." Sovereign Basidia could not recognize his spores—unprecedented. Daz concluded he was infected by Zuggtmoy's demonic spores.
-- **Circle of Welcome (death)**: His head exploded and he transformed into a Drow spore servant, attacking the party. Killed by Jimjar.
+- **Velkynvelve:** Met as fellow prisoner; Grygum determined he was genuine, not a spy. Assigned to chamber pot duty with Daz and Stool. Provided intelligence about gray ooze in pools and Jorlan's backstory. Participated in escape planning.
+- **Escape from Velkynvelve:** Armed himself with studded leather armor, shield, and hand crossbow. Identified vial of Drow poison. Advised quick movement, warning Ilvara would pursue. Suggested route to Darklake via Sloobludop.
+- **Drow Outpost Battle:** Identified Imbros as elite Drow fighter. Attacked Drow guard, cursing in Drow fashion. After Prince Derendil's death, nearly lost control until Grygum's telepathic intervention redirected his rage, allowing him to deliver killing blow to Imbros.
+- **Rockfall Encounter:** Survived unscathed; fought giant centipede with hand crossbow, immediately suggested harvesting corpse for rations.
+- **Drow Pursuit:** Provided critical intelligence about pursuing scouts, explained how Underdark tunnels twist, warned non-flying surface-dwellers are easiest prey. Revealed Ilvara had caught up, ordered tactical changes.
+- **Faerzess Tunnels:** Noticeably affected by eerie Faerzress magic while traveling.
+- **Silken Paths:** Confirmed route and described massive chasm crossing. Directed goblin guides toward Sloobludop.
+- **Darklake Journey:** Explained Darklake as intersecting caverns rather than conventional water body. Shouted warnings about sandbar. Drew map using Ormu showing route through Sloobludop → Gracklstugh → Tomb of Brysis of Khaem.
+- **Kuo-toa Civil War:** Fled during chaos, running toward Grygum.
+- **Gracklstugh:** Armed by Errde at Underlake Hold. Openly discussed plans to get equipment and head to Lost Tomb. Waited outside assassin's lair and brimstone cavern as ordered.
+- **Travel to Neverlight Grove:** Insisted party must go there, claiming compulsion connected to dancing Myconids. Announced they must disembark and proceed on foot via Lost Tomb of Khaem. Confirmed mysterious feminine voice led toward tomb.
+- **Approach to Myconid Cave:** Became compelled, walking involuntarily toward myconids. Shouted about "the Dark Lady" calling him, raving about "the bloom," "the becoming," liberation, revenge, and transformation. Zalthir physically restrained him.
+- **Neverlight Grove:** Entered looking "unhappy and serene." Sovereign Basidia could not recognize his spores — highly unusual. Daz concluded he was infected by Zuggtmoy's demonic spores.
+- **Circle of Welcome (Death):** Head exploded during battle and transformed into Drow spore servant, turning against party. Killed by Jimjar.
 
 ## Current Status
-- **Dead.** Transformed into a Drow spore servant during the battle at the Circle of Welcome in Neverlight Grove; killed by Jimjar.
+**Dead.** Killed by Jimjar after transforming into Drow spore servant in Circle of Welcome at Neverlight Grove. His fungal infection, present since Velkynvelve, was Zuggtmoy's influence — it drove his madness throughout the journey and ultimately consumed him.
 
 ## Relationships
-- **Daz**: Worked together on chamber pot duty; Sarith respected Daz's interrogation abilities and recommended him for prisoner questioning.
-- **Zalthir**: Physically restrained Sarith during his compulsion episode near the Myconid cave.
-- **Jimjar**: Killed Sarith after his transformation into a spore servant.
-- **Stool**: Fellow chamber pot duty assignment at Velkynvelve.
-- **Shuushar**: Sarith inherited his navigational instructions after Shuushar departed.
-- **Ilvara**: Former captor; Sarith warned she would be honor-bound to pursue the escapees.
-- **Zuggtmoy ("the Dark Lady")**: Unknowingly infected by her fungal influence, likely from before or during imprisonment. The fungal rot visible at Velkynvelve was an early sign. His compulsion and eventual transformation into a spore servant were the culmination of this infection.
-- **Basidia**: The myconid sovereign found Sarith's spores unrecognizable, flagging his infection as anomalous.
+- **Daz:** Worked alongside on chamber pot duty; Daz assessed him as insane and later diagnosed Zuggtmoy infection. Daz was suspicious, noting he "seems a bit off"
+- **Grygum:** Grygum's telepathic intervention during escape was pivotal stabilizing moment; ran toward Grygum during kuo-toa escape. Minor friction when Grygum spotted route before him
+- **Zalthir:** Physically restrained during compulsion episode; cooperated during escape, deferred to Sarith's navigation knowledge
+- **Jimjar:** Fellow armed companion; ultimately Sarith's killer after transformation
+- **Eldeth:** Gave her direct tactical orders; she accepted his authority
+- **Prince Derendil (deceased):** Deeply affected by his death, suggesting meaningful bond
+- **Imbros (deceased):** Former Drow comrade turned enemy; Imbros feared suffering Sarith's fate, implying severe punishment
+- **Ilvara:** Feared her pursuit; administered or ordered his punishment/fall from grace
+- **Buppido:** Fought alongside during centipede battle; collaborative relationship on travel plans
+- **Stool:** Shared chamber pot duty at Velkynvelve
+- **Shuushar:** Received navigational instructions before Shuushar's departure
+- **Zuggtmoy ("The Dark Lady"):** Unknowingly and later consciously under her influence via fungal spore infection
+- **Sovereign Basidia:** Could not recognize Sarith's spores, flagging infection as anomalous
+- **Fargas:** Consulted about tomb of Brysis of Khaem location
+- **Thorin:** Minor friction when Thorin criticized his map accuracy
 
 ## Arc Score Events
-None explicitly noted.
+- **Increase:** Grygum's telepathic calming during escape deepened trust/connection to party
+- **Decrease (potential):** Prince Derendil's death was major emotional blow — stability became fragile

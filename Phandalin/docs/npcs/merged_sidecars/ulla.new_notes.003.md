@@ -1,0 +1,3 @@
+# New notes for ulla (from dossier_extract_003.md)
+
+Ulla is a female gnome guard working alongside Pog at the cliff-top entrance. She took a harder line than Pog in challenging the party, repeatedly deflecting their arguments with "that's what a shapechanger would say." She ultimately allowed the party entry after a bureaucratic ruling about Brewbarry's Uthgardt status. She directed Vukradin to the inventors' workshop and, when he complained about the spinning blade trap, revealed an alternate northern route. She was later manipulated by Valphine into accusing Pog of being the shapeshifter, responding by turning the accusation back on him. Last known location: guard post at Gnomengarde's entrance.

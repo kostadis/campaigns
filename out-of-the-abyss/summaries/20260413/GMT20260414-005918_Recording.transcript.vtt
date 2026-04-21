@@ -1,0 +1,4034 @@
+WEBVTT
+
+1
+00:02:18.830 --> 00:02:19.630
+Kostadis Roussos: Hey, Joe.
+
+2
+00:02:20.860 --> 00:02:22.159
+Joe Beda: How's it going, sir?
+
+3
+00:02:22.390 --> 00:02:28.359
+Kostadis Roussos: Not bad, not bad. Did you… did you appreciate my snarky video? Did you listen to it?
+
+4
+00:02:28.610 --> 00:02:30.659
+Joe Beda: No, which one was it? I'm sorry, I'm catching up.
+
+5
+00:02:30.660 --> 00:02:41.120
+Kostadis Roussos: That's fine, man. I, like, provided… I even got… I got LLM… I went LLM crazy, so… Oh, Google actually created a song for you. I don't recommend listening to it. But then I had Google…
+
+6
+00:02:41.120 --> 00:02:42.630
+Joe Beda: Which video are we talking about here?
+
+7
+00:02:42.630 --> 00:02:44.569
+Kostadis Roussos: I'll show it to you. I'll show it to you.
+
+8
+00:02:44.570 --> 00:02:45.680
+Joe Beda: Where is it?
+
+9
+00:02:45.810 --> 00:02:48.400
+Joe Beda: I just want to make sure I didn't miss the channel that it was…
+
+10
+00:02:48.710 --> 00:02:50.269
+Kostadis Roussos: No, no, it was in the main channel.
+
+11
+00:02:58.550 --> 00:03:00.370
+Joe Beda: in the AI programmer chatter?
+
+12
+00:03:03.980 --> 00:03:09.220
+Joe Beda: Alright, so I had a bad experience. Now, you were… what are you mostly using? Which LLM?
+
+13
+00:03:12.740 --> 00:03:16.630
+Joe Beda: Cuz… Claude is so much better than Gemini.
+
+14
+00:03:17.020 --> 00:03:17.720
+Mike Hall: Oh, God.
+
+15
+00:03:17.720 --> 00:03:19.310
+Kostadis Roussos: That is a piece of steaming shit.
+
+16
+00:03:19.930 --> 00:03:24.459
+Joe Beda: Well, for, like, 30 seconds, it was the new hotness, then everything moved past it.
+
+17
+00:03:24.760 --> 00:03:32.389
+Kostadis Roussos: Dude… Okay, so… Okay. Word to the wise.
+
+18
+00:03:33.680 --> 00:03:37.190
+Kostadis Roussos: Google's great at infrastructure, bad at user experience.
+
+19
+00:03:38.980 --> 00:03:46.160
+Kostadis Roussos: So, if you need a million tokens, and you need to do something ridiculously robust that involves staggering amounts of data.
+
+20
+00:03:46.690 --> 00:03:47.849
+Kostadis Roussos: It works great.
+
+21
+00:03:48.270 --> 00:03:48.950
+Joe Beda: Yeah.
+
+22
+00:03:48.950 --> 00:03:51.239
+Kostadis Roussos: But targeted use cases, like coding.
+
+23
+00:03:52.950 --> 00:03:53.870
+Joe Beda: Well, I was trying.
+
+24
+00:03:53.870 --> 00:03:57.500
+Kostadis Roussos: And I know I'm talking to, you know, ex-Googly here, but I just want to say.
+
+25
+00:03:57.500 --> 00:04:01.409
+Joe Beda: No, no, no, no, no, I'm just being honest about it, because, like, I had this…
+
+26
+00:04:01.580 --> 00:04:04.610
+Joe Beda: the old Heptio reception sign I hung up in my shop.
+
+27
+00:04:05.100 --> 00:04:08.229
+Joe Beda: And it has, like, a 10-year-old LED controller that…
+
+28
+00:04:08.530 --> 00:04:21.559
+Joe Beda: despite all odds, actually connects to Wi-Fi. And I'm like, okay, I'm sure there's a frickin' API for this, and I can hook this thing up to, like, like, you know, HomeBridge, and then connect to it through, like, Apple HomeKit, right?
+
+29
+00:04:22.370 --> 00:04:29.910
+Joe Beda: And, you know, so this is the type of thing where I'm like, just tell me the commands to run, I don't want to think too hard, I don't want to become an expert in this, just tell me how to do it, right?
+
+30
+00:04:30.850 --> 00:04:39.589
+Joe Beda: And I argued with it for about 45 minutes, and it kept suggesting, oh, no, you need to, like, install this package, and it'll work. And I'm like, I could find…
+
+31
+00:04:39.880 --> 00:04:41.110
+Joe Beda: no…
+
+32
+00:04:41.580 --> 00:04:58.579
+Joe Beda: hint of that package anywhere on the internet. I have no… I just, like, purely hallucinated this, even after I was, like, telling it, like, no, this does not exist, you are hallucinating this. It still insisted on that, and it just got super confused, and then, you know, I didn't try the same thing with Claude, but man, my experience with Claude is so much better.
+
+33
+00:04:58.960 --> 00:04:59.509
+Kostadis Roussos: Oh, just to see.
+
+34
+00:04:59.510 --> 00:05:04.940
+Mike Hall: Quad and, and I would even say Codex, especially,
+
+35
+00:05:05.290 --> 00:05:11.260
+Mike Hall: the 5… the new 5.4 GPT-54 codecs is…
+
+36
+00:05:11.500 --> 00:05:16.589
+Mike Hall: better than Claude in some things, worse than Claude in some things, but the two of them combined?
+
+37
+00:05:16.960 --> 00:05:17.700
+Mike Hall: Pretty bad.
+
+38
+00:05:18.040 --> 00:05:20.179
+Joe Beda: I just don't want to give a…
+
+39
+00:05:20.180 --> 00:05:22.680
+Kostadis Roussos: I just shared with you a link, by the way.
+
+40
+00:05:22.890 --> 00:05:24.209
+Joe Beda: Where, okay, where…
+
+41
+00:05:24.210 --> 00:05:25.830
+Kostadis Roussos: In, in the chat?
+
+42
+00:05:26.410 --> 00:05:31.430
+Kostadis Roussos: And so this is a useful link to read and follow when you want to compare models.
+
+43
+00:05:33.290 --> 00:05:38.430
+Kostadis Roussos: And it basically measures the quality of a model. I mean, it explains it in detail, what it does, but…
+
+44
+00:05:39.780 --> 00:05:40.690
+Joe Beda: I mean, sure.
+
+45
+00:05:41.190 --> 00:05:43.050
+Kostadis Roussos: Basically, it shows you, like.
+
+46
+00:05:48.640 --> 00:05:55.319
+Kostadis Roussos: Yeah, anyway, you should just look at it. It's kind of an interesting thing, but basically, it kind of shows you why Gemini is not even on the same…
+
+47
+00:05:56.290 --> 00:05:58.049
+Mike Hall: Gemini's not on that chart, is it?
+
+48
+00:05:58.240 --> 00:05:59.979
+Kostadis Roussos: I don't know, I don't see it on that chart.
+
+49
+00:05:59.980 --> 00:06:00.650
+Joe Beda: Yeah.
+
+50
+00:06:04.540 --> 00:06:06.200
+Kostadis Roussos: It isn't.
+
+51
+00:06:06.940 --> 00:06:21.429
+Kostadis Roussos: Anyway, so yes, Claude and GPT-4 are definitely at the top end of the results, although Claude this week, somebody… although the Claude guys pushed a bug that apparently caused it to start performing poorly.
+
+52
+00:06:23.880 --> 00:06:24.350
+Joe Beda: Ugh.
+
+53
+00:06:24.350 --> 00:06:45.479
+Kostadis Roussos: I could all… I could imagine the PM debates. Well, we've introduced this million-line token, great, but it's causing pressure on the infrastructure, and, like, how do we optimize the revenue for it? Oh, we'll do all of these tricks to optimize the revenue for it, and reduce the cost of the infrastructure. And of course, you know, what they didn't account for was all the programmers in the world measuring everything with, like.
+
+54
+00:06:45.530 --> 00:06:53.280
+Kostadis Roussos: Surgical precision, and… I don't know whether you followed the AMD the Senior Director?
+
+55
+00:06:54.420 --> 00:06:55.290
+Joe Beda: No.
+
+56
+00:06:55.290 --> 00:07:15.539
+Kostadis Roussos: So, some AMD senior director, like, went and traced the performance of Claude in, like, detail, and was like, it sucks shit, and here's why, and here's when it started sucking like shit, and blah blah blah. Anyway, I don't know if it's true or not, but it was just funny to me. By the way, I do have to share with you one thing. If NVIDIA buys Dell Technologies, I will be laughing for the next decade.
+
+57
+00:07:18.790 --> 00:07:19.780
+Joe Beda: I mean.
+
+58
+00:07:19.780 --> 00:07:21.959
+Kostadis Roussos: I just want… no, no, I mean, like…
+
+59
+00:07:21.960 --> 00:07:26.229
+Joe Beda: whatever happens, Michael Dell will get an enormous check.
+
+60
+00:07:26.230 --> 00:07:32.169
+Kostadis Roussos: No, no, no. So, no, no, no, I'm just… I just… I just want to say that that will cause me to crack up. I just… I didn't say…
+
+61
+00:07:32.170 --> 00:07:36.159
+Joe Beda: Well, do you think, like, does he really care anymore? I mean, like…
+
+62
+00:07:36.160 --> 00:07:37.179
+Kostadis Roussos: Yes, he does.
+
+63
+00:07:37.680 --> 00:07:41.839
+Joe Beda: Does he… I mean, is it just sort of like he views himself as a technologist and just his own self.
+
+64
+00:07:41.840 --> 00:07:44.680
+Kostadis Roussos: No, no, no, he views himself as an extraordinary businessman, not as.
+
+65
+00:07:44.680 --> 00:07:45.050
+Joe Beda: Oh, okay.
+
+66
+00:07:45.790 --> 00:07:47.900
+Joe Beda: Well, again, if he gets a big check out of it, then he'll probably.
+
+67
+00:07:47.900 --> 00:07:54.550
+Kostadis Roussos: Yeah, but he's used Dell… I mean, I don't know, Mike's trying really hard not to say something, so I'm gonna let him say it.
+
+68
+00:07:54.550 --> 00:07:55.110
+Joe Beda: Yeah.
+
+69
+00:07:56.030 --> 00:08:07.770
+Mike Hall: I mean, the Dell Children's Hospital, the Dell Diamond for the minor league team, the Dell Seton Collaboration UT Medical Center, Dell the company.
+
+70
+00:08:07.770 --> 00:08:08.819
+Joe Beda: This is just marketing.
+
+71
+00:08:08.820 --> 00:08:09.390
+Mike Hall: For the company.
+
+72
+00:08:09.390 --> 00:08:10.350
+Joe Beda: Not for him personally.
+
+73
+00:08:10.350 --> 00:08:11.080
+Kostadis Roussos: No, no.
+
+74
+00:08:11.290 --> 00:08:12.440
+Mike Hall: Where are you, Mike?
+
+75
+00:08:12.440 --> 00:08:15.529
+Kostadis Roussos: Hold up, I'm gonna be back in a second.
+
+76
+00:08:16.150 --> 00:08:23.469
+Mike Hall: So, yes, while $40 billion could buy him a lot of naming things, like, even the Google building downtown in Austin.
+
+77
+00:08:23.820 --> 00:08:25.020
+Mike Hall: he funded.
+
+78
+00:08:25.570 --> 00:08:32.140
+Mike Hall: It's, like, it's his foundation, or corporation, or whatever that did… his commercial… his commercial.
+
+79
+00:08:32.140 --> 00:08:38.899
+Joe Beda: Well, I mean, that was, like, Paul Allen and Vulcan in Seattle that, like, essentially built all of Amazon's campus in South Lake Union.
+
+80
+00:08:39.059 --> 00:08:39.789
+Mike Hall: Right.
+
+81
+00:08:40.309 --> 00:08:40.809
+Joe Beda: Yeah.
+
+82
+00:08:40.809 --> 00:08:45.459
+Mike Hall: So, I, I think the guy has, you know, I don't know.
+
+83
+00:08:46.130 --> 00:08:52.550
+Joe Beda: If he's building buildings, and somebody explained to him, like, the outrageous tax benefits of being a real estate developer.
+
+84
+00:08:52.550 --> 00:09:01.669
+Mike Hall: That's what it is. Or he's got, you know, like, an army of people doing that sort of thing. I can just tell you this, everybody who I know who has worked for Dell.
+
+85
+00:09:04.930 --> 00:09:09.849
+Mike Hall: Even the ones that still work for Dell. Don't… haven't enjoyed it, didn't like it.
+
+86
+00:09:11.380 --> 00:09:18.509
+Joe Beda: I mean, I didn't work for Dell, but I worked for VMware, and I did not enjoy the Dell experience two steps removed.
+
+87
+00:09:18.860 --> 00:09:21.759
+Kostadis Roussos: So, I met Dell… Michael Dell once in my life.
+
+88
+00:09:22.380 --> 00:09:23.060
+Kostadis Roussos: It was covered.
+
+89
+00:09:23.060 --> 00:09:24.150
+Mike Hall: Radio thing?
+
+90
+00:09:24.150 --> 00:09:29.480
+Kostadis Roussos: No, no, it was… it was… it was at in a VP off-site. But it was a very narrow window into him, so…
+
+91
+00:09:29.900 --> 00:09:35.069
+Kostadis Roussos: Steve Warend, was… and I were chatting, and Steve goes, yeah, I need to buy a laptop.
+
+92
+00:09:35.720 --> 00:09:36.770
+Kostadis Roussos: For my son.
+
+93
+00:09:37.330 --> 00:09:39.180
+Kostadis Roussos: And Michael Dell overhears him.
+
+94
+00:09:40.950 --> 00:09:42.979
+Kostadis Roussos: And he goes, a laptop?
+
+95
+00:09:43.550 --> 00:09:49.050
+Kostadis Roussos: And Steve's like, yes. And he goes, well, you know, Dell Technologies builds good laptops.
+
+96
+00:09:50.700 --> 00:10:03.619
+Kostadis Roussos: And he goes, talks about the XPS 13, he says the XPS 14, he says the 15, he then talks him up to the 16 and says, you know what? I have an XPS 17 in my car. Let me get my driver to go, and we'll go show… and let me show it to you.
+
+97
+00:10:04.500 --> 00:10:06.040
+Mike Hall: Really, he was just sort of…
+
+98
+00:10:06.450 --> 00:10:12.120
+Kostadis Roussos: The guy was good… the guy had upsell… was trying to upsell Steve Warend on a $4,000 laptop.
+
+99
+00:10:12.790 --> 00:10:20.719
+Joe Beda: I would have just trolled the motherfucker and been like, I have no idea how your product naming lines work. Every time I go to your website, it's a confusing maze.
+
+100
+00:10:20.720 --> 00:10:21.800
+Kostadis Roussos: The twisty passages.
+
+101
+00:10:21.800 --> 00:10:22.980
+Joe Beda: all alike.
+
+102
+00:10:22.980 --> 00:10:26.210
+Kostadis Roussos: Yes, that would have told me everything I needed to know about you, but I was just…
+
+103
+00:10:26.210 --> 00:10:30.539
+Joe Beda: I'm just saying, like, the… have you tried to buy a Dell machine?
+
+104
+00:10:30.540 --> 00:10:31.350
+Kostadis Roussos: Yes.
+
+105
+00:10:31.350 --> 00:10:33.800
+Joe Beda: I have no idea what the fuck's going on!
+
+106
+00:10:34.050 --> 00:10:34.420
+Kostadis Roussos: Dude…
+
+107
+00:10:34.420 --> 00:10:39.429
+Joe Beda: You just, like, pick something and press a button and hope for the best. I mean, it is so confusing.
+
+108
+00:10:39.800 --> 00:10:50.560
+Kostadis Roussos: No, all of these things you say are true, I'm just simply articulating my experience… Yeah, I mean, I know, I know you're right, like, I'm just trying to… I'm just trying to say a different point, and my different point is that Michael Dell…
+
+109
+00:10:50.880 --> 00:10:57.630
+Kostadis Roussos: is always on, and he's always selling the company, and like, you know, when I was at that VP offsite, what struck me was…
+
+110
+00:10:57.770 --> 00:11:00.100
+Kostadis Roussos: How much he cared about that stuff.
+
+111
+00:11:00.660 --> 00:11:01.330
+Mike Hall: Mmm.
+
+112
+00:11:01.660 --> 00:11:02.220
+Kostadis Roussos: Right?
+
+113
+00:11:02.220 --> 00:11:03.430
+Joe Beda: Well, when…
+
+114
+00:11:04.410 --> 00:11:10.080
+Joe Beda: When Heptio was purchased, we had a bunch of LG monitors, because those are the ones who make the panels.
+
+115
+00:11:10.220 --> 00:11:14.400
+Joe Beda: And it was our corporate standard for… or company standard for Heptio.
+
+116
+00:11:14.670 --> 00:11:20.710
+Joe Beda: And we had to move to the VMware offices in Bellevue, and they wouldn't let us take our monitors.
+
+117
+00:11:20.860 --> 00:11:25.089
+Joe Beda: Because they were afraid that Dell would walk through and see non-Dell monitors.
+
+118
+00:11:25.750 --> 00:11:28.800
+Kostadis Roussos: Yeah, it was a big concession that they let us keep our Macs, apparently.
+
+119
+00:11:30.500 --> 00:11:30.920
+Joe Beda: Yeah.
+
+120
+00:11:30.920 --> 00:11:34.740
+Mike Hall: Not only did we keep our Macs, Pat.
+
+121
+00:11:34.890 --> 00:11:38.600
+Mike Hall: was at some press briefing with his Mac.
+
+122
+00:11:38.880 --> 00:11:48.269
+Mike Hall: behind the dais, like, with Michael Dell sitting next to him, and I'm like, I, because I was doing all the VMC on Dell EMC stuff.
+
+123
+00:11:48.730 --> 00:11:55.689
+Mike Hall: I was offered that I could have two laptops. Why don't you get yourself a nice XPS 15,
+
+124
+00:11:56.470 --> 00:12:01.760
+Mike Hall: for a work laptop and your Mac, and anytime you go onto the Dell campus, take the XPS.
+
+125
+00:12:03.040 --> 00:12:03.990
+Kostadis Roussos: Yes.
+
+126
+00:12:03.990 --> 00:12:06.580
+Mike Hall: So, for a while, I carried 2 work laptops.
+
+127
+00:12:06.580 --> 00:12:07.320
+Kostadis Roussos: fat.
+
+128
+00:12:07.690 --> 00:12:08.740
+Kostadis Roussos: I get that.
+
+129
+00:12:09.280 --> 00:12:09.890
+Kostadis Roussos: I get that.
+
+130
+00:12:09.890 --> 00:12:12.289
+Joe Beda: I've heard that American car companies
+
+131
+00:12:12.720 --> 00:12:15.779
+Joe Beda: let's say that you're going to, like, do business with Ford.
+
+132
+00:12:15.910 --> 00:12:27.169
+Joe Beda: that when you fly into Detroit, you can pick which manufacturer of rental car you want, because it's such a faux pas to show up at Ford driving a GM Carter, a Honda or whatever, and that…
+
+133
+00:12:27.320 --> 00:12:31.380
+Joe Beda: they have parking lots for Ford cars up front.
+
+134
+00:12:31.870 --> 00:12:35.209
+Joe Beda: And if you're not driving a Ford, you don't get the close parking.
+
+135
+00:12:36.790 --> 00:12:45.529
+Kostadis Roussos: I can't believe that. Dude, these things make sense to me, right? They're the kind of petty, small-minded things that make sense to me.
+
+136
+00:12:45.760 --> 00:12:53.759
+Kostadis Roussos: So yeah, so I believe that Michael Dell cares about Michael Dell, and he cares about his name, his family, his… his, like, he's… he's invested a lot in that.
+
+137
+00:12:54.140 --> 00:12:56.670
+Kostadis Roussos: So that's why I said I would die of laughter.
+
+138
+00:12:59.810 --> 00:13:05.070
+Kostadis Roussos: Like, I just… I would just… I just want to say that that would actually visibly crack me up.
+
+139
+00:13:06.290 --> 00:13:08.740
+Joe Beda: So, at one point, Ford bought Jaguar.
+
+140
+00:13:09.810 --> 00:13:10.790
+Mike Hall: Yeah, I remember that.
+
+141
+00:13:10.790 --> 00:13:14.350
+Joe Beda: I'm convinced this is because the executives just wanted a nice car to drive.
+
+142
+00:13:16.320 --> 00:13:16.680
+Kostadis Roussos: Believe it.
+
+143
+00:13:16.680 --> 00:13:20.119
+Joe Beda: And they could buy and drive a Jaguar because it's a Ford, officially.
+
+144
+00:13:20.120 --> 00:13:21.069
+Mike Hall: Yeah, there you go.
+
+145
+00:13:21.430 --> 00:13:26.430
+Kostadis Roussos: Well, I mean, dude, like, I don't even know why this is a theory, I think this is a fact.
+
+146
+00:13:28.840 --> 00:13:30.250
+Kostadis Roussos: I mean, the number of reasons.
+
+147
+00:13:30.250 --> 00:13:34.950
+Joe Beda: The story I heard, this was fascinating, is somebody was doing business with, cigarette companies.
+
+148
+00:13:35.560 --> 00:13:37.280
+Joe Beda: And,
+
+149
+00:13:37.470 --> 00:13:43.079
+Joe Beda: they would do shit where it's like they'd fly to California for a meeting with, like, whatever company this was.
+
+150
+00:13:43.960 --> 00:13:59.549
+Joe Beda: on their private jet or whatever, post up in the, conference room, and then immediately take out cigarettes and start smoking. And if you ask them, hey, you can't smoke in here, this is a no-smoking building, they would immediately pack up, hop on their private jet, and go home.
+
+151
+00:14:01.800 --> 00:14:04.489
+Joe Beda: Not quite the same, but also sort of this…
+
+152
+00:14:04.900 --> 00:14:05.290
+Kostadis Roussos: Yeah, true.
+
+153
+00:14:05.290 --> 00:14:06.530
+Joe Beda: violent behavior.
+
+154
+00:14:07.140 --> 00:14:15.159
+Kostadis Roussos: Yeah, I mean, like, these things don't surprise me. I mean, they kind of, like, reassure me in some profound, deeply disturbed kind of way.
+
+155
+00:14:17.460 --> 00:14:18.550
+Joe Beda: Ugh.
+
+156
+00:14:20.110 --> 00:14:20.730
+Kostadis Roussos: Yeah.
+
+157
+00:14:21.090 --> 00:14:26.910
+Kostadis Roussos: Anyway, but anyway, I just, I just found it… Blindingly amusing.
+
+158
+00:14:27.250 --> 00:14:38.449
+Kostadis Roussos: That the idea that, like, so I sat in a meeting today, and somebody, you know, said that, and I said, what… I don't know what you guys noticed, that NVIDIA, the stock of Dell and HP went up by a lot today?
+
+159
+00:14:38.750 --> 00:14:42.629
+Kostadis Roussos: On rumors that Dell was gonna buy… NVIDIA was gonna buy them. Oh, I'm sorry.
+
+160
+00:14:42.630 --> 00:14:43.450
+Joe Beda: Okay.
+
+161
+00:14:43.450 --> 00:14:56.689
+Kostadis Roussos: Oh, oh, I see, yeah. Mike, if you need to turn off your video and go on mute while we're having this conversation, so no… but no facial expressions, just reveal anything, feel free.
+
+162
+00:14:58.220 --> 00:15:00.140
+Joe Beda: So, wait, wait, so what happened, so…
+
+163
+00:15:00.140 --> 00:15:01.830
+Mike Hall: Cisco's not buying them.
+
+164
+00:15:02.070 --> 00:15:06.379
+Kostadis Roussos: I know, I'm just like… I'm just, you know, you know what I'm saying, like…
+
+165
+00:15:06.380 --> 00:15:07.189
+Mike Hall: Yeah, yeah, yeah.
+
+166
+00:15:07.190 --> 00:15:11.279
+Kostadis Roussos: I'm just trying to crack a joke here, because you have this look of, like, I'm biting my tongue.
+
+167
+00:15:12.120 --> 00:15:16.179
+Mike Hall: I mean, HPE is a dumpster fire. They keep, like…
+
+168
+00:15:16.610 --> 00:15:20.299
+Mike Hall: They keep buying more and more, assets.
+
+169
+00:15:20.980 --> 00:15:25.610
+Mike Hall: that are also struggling, so I don't really know what's gonna happen with HPE.
+
+170
+00:15:26.040 --> 00:15:27.350
+Kostadis Roussos: Yeah, so if you look in…
+
+171
+00:15:27.740 --> 00:15:29.869
+Mike Hall: That would be the logical thing for them to buy.
+
+172
+00:15:30.220 --> 00:15:34.800
+Kostadis Roussos: Apparently, report in talk… NVIDIA in talks to acquire a major PC company.
+
+173
+00:15:35.850 --> 00:15:41.690
+Mike Hall: I would… if I had to bet, honestly, if I had to bet on which PC company they would buy.
+
+174
+00:15:41.690 --> 00:15:42.480
+Kostadis Roussos: Lenovo.
+
+175
+00:15:43.420 --> 00:15:45.689
+Mike Hall: No. Supermicro.
+
+176
+00:15:45.690 --> 00:15:46.380
+Joe Beda: Yeah.
+
+177
+00:15:46.750 --> 00:15:49.799
+Joe Beda: It's a server play, it's gotta be a server play, nobody wants to sell frickin' letters.
+
+178
+00:15:49.800 --> 00:15:54.370
+Mike Hall: They would buy… they would buy Supermicro, because Supermicro has horrible accounting.
+
+179
+00:15:54.700 --> 00:16:01.309
+Mike Hall: They've been, they're very friendly to the Chinese government, and they've upset the U.S. multiple times.
+
+180
+00:16:01.590 --> 00:16:08.740
+Mike Hall: NVIDIA wants to sell more into the Chinese market and find a way to make that work. Like, it actually makes more sense for them to buy SuperMic.
+
+181
+00:16:08.740 --> 00:16:11.420
+Kostadis Roussos: No, no, I mean, all the… what you just said makes a lot of sense.
+
+182
+00:16:12.590 --> 00:16:19.020
+Mike Hall: And then they don't have to deal with any pesky people that are buying $3,000 laptops. They want to sell $10 million racks.
+
+183
+00:16:19.020 --> 00:16:22.690
+Kostadis Roussos: No, no, no, I mean, I don't disagree, I'm just, like…
+
+184
+00:16:23.520 --> 00:16:27.150
+Kostadis Roussos: It's just… that's actually the… I'm just… I… I… look…
+
+185
+00:16:27.410 --> 00:16:34.470
+Kostadis Roussos: I said this was funny, because the idea of Michael Dell losing Dell Technologies.
+
+186
+00:16:34.720 --> 00:16:37.719
+Kostadis Roussos: And it would be perfect if Silver Lake orchestrated it.
+
+187
+00:16:39.290 --> 00:16:40.960
+Joe Beda: Led by the sword, die by the sword.
+
+188
+00:16:40.960 --> 00:16:42.970
+Mike Hall: That's right, no honor among thieves.
+
+189
+00:16:42.970 --> 00:16:47.629
+Kostadis Roussos: Yeah, to me, you know, the way this would work perfectly is if Silver Lake orchestrated this.
+
+190
+00:16:49.990 --> 00:16:51.030
+Joe Beda: I don't know.
+
+191
+00:16:51.320 --> 00:16:53.440
+Joe Beda: I think sell it all to Broadcom, fuck them.
+
+192
+00:16:56.230 --> 00:16:57.570
+Mike Hall: Dude, that's funny.
+
+193
+00:16:57.730 --> 00:17:04.119
+Kostadis Roussos: I mean, I think if what's his name, was willing to rebrand it Dell, I think he might even go for it.
+
+194
+00:17:05.010 --> 00:17:09.360
+Mike Hall: $4.6 trillion to pick up $133 billion. It is…
+
+195
+00:17:10.230 --> 00:17:12.530
+Mike Hall: Very reasonable that they could do it.
+
+196
+00:17:14.260 --> 00:17:15.600
+Mike Hall: Yeah, but… But what…
+
+197
+00:17:15.700 --> 00:17:36.720
+Mike Hall: what it's gonna squeeze if something like that happens, with Intel falling by the wayside, Nvidia focusing on AI build-out, if they actually picked up Dell, especially if they kind of killed the consumer group or sold it to some PE firm that then insidified it completely, then home PCs are gonna get… like, Apple is by far gonna be the best home PC.
+
+198
+00:17:37.700 --> 00:17:42.769
+Joe Beda: Dude, I mean, Apple, with their, their, their low-end, like, the MacBook.
+
+199
+00:17:42.770 --> 00:17:43.980
+Mike Hall: Leo? Yeah.
+
+200
+00:17:43.980 --> 00:17:49.549
+Joe Beda: I mean, it's not for me, but, like, holy shit. Yeah. They're, like, you know, kneecapping.
+
+201
+00:17:49.550 --> 00:17:57.410
+Mike Hall: My brother bought one for his son, and then he played with it for a little bit, and he's like, this is actually better than most PC laptops.
+
+202
+00:17:57.410 --> 00:18:02.299
+Kostadis Roussos: Quick question. Apple MacBook Pro Max or Pro?
+
+203
+00:18:03.620 --> 00:18:04.240
+Mike Hall: But…
+
+204
+00:18:04.750 --> 00:18:09.059
+Kostadis Roussos: the latest… I might have to… I'm looking at a new MacBook, and so…
+
+205
+00:18:09.600 --> 00:18:10.490
+Mike Hall: You want a new macro?
+
+206
+00:18:10.490 --> 00:18:11.670
+Joe Beda: Three lines.
+
+207
+00:18:11.670 --> 00:18:14.739
+Kostadis Roussos: Yeah, I know, there's the Pro Max, there's the Pro, and then there's the Not Pro.
+
+208
+00:18:14.740 --> 00:18:17.810
+Joe Beda: Wait, no, no, there's… wait, wait. You're talking laptops?
+
+209
+00:18:17.810 --> 00:18:18.980
+Kostadis Roussos: Yeah, laptop, laptop.
+
+210
+00:18:18.980 --> 00:18:19.420
+Joe Beda: There's the.
+
+211
+00:18:19.420 --> 00:18:20.650
+Mike Hall: There's the Neo.
+
+212
+00:18:20.840 --> 00:18:23.500
+Joe Beda: Well, there's NEO at the low end, Pro, Mac.
+
+213
+00:18:24.890 --> 00:18:26.460
+Joe Beda: And then Pro at the top.
+
+214
+00:18:26.460 --> 00:18:28.069
+Kostadis Roussos: No, there's also Pro Max.
+
+215
+00:18:28.530 --> 00:18:29.470
+Mike Hall: Oh, that's the chip.
+
+216
+00:18:29.470 --> 00:18:31.749
+Joe Beda: Just a processor variation on the laptop.
+
+217
+00:18:31.750 --> 00:18:37.619
+Kostadis Roussos: Yeah, so I'm just curious, does anybody know any… I mean, I'm trying to figure out, like, what the value of the processor differentiation is.
+
+218
+00:18:38.160 --> 00:18:38.800
+Mike Hall: So, what do you want to do.
+
+219
+00:18:38.800 --> 00:18:46.950
+Joe Beda: The Pro Max comes with more GPU cores, and with their unified architecture, it's actually really interesting for running, local models.
+
+220
+00:18:47.560 --> 00:18:52.270
+Mike Hall: If you don't want to run AI, and you just want a laptop for, like, kicking around doing code and stuff.
+
+221
+00:18:52.400 --> 00:19:00.919
+Mike Hall: I… and you don't really give a shit about running, like, a local thing, I would actually recommend the Air. It's a lot lighter weight, and it's just…
+
+222
+00:19:01.130 --> 00:19:02.830
+Mike Hall: Fucking perfect.
+
+223
+00:19:02.930 --> 00:19:05.880
+Mike Hall: If you need more horsepower.
+
+224
+00:19:06.110 --> 00:19:18.420
+Mike Hall: or you want to do a lot of gaming, or something like that, you can play PC games with Crossfire on a MacBook Pro. I would, you know, I would either get the Pro or the Max, and bump the memory up some.
+
+225
+00:19:18.560 --> 00:19:23.740
+Kostadis Roussos: No, so the reason I'm thinking is that the person who this is for is for my son.
+
+226
+00:19:24.350 --> 00:19:31.789
+Kostadis Roussos: And so the thing that happened is that, because I have bought his old Mac, I can return for $1,000, and that puts it, like, at $2,000, right?
+
+227
+00:19:32.040 --> 00:19:33.279
+Kostadis Roussos: for a Pro Max.
+
+228
+00:19:34.170 --> 00:19:35.830
+Kostadis Roussos: And so I'm trying to decide…
+
+229
+00:19:36.220 --> 00:19:38.729
+Mike Hall: I mean, what is he using it for? School and stuff like that?
+
+230
+00:19:38.890 --> 00:19:40.000
+Kostadis Roussos: Or all of the above.
+
+231
+00:19:40.490 --> 00:19:44.270
+Mike Hall: Yeah, I mean, if he's… if he's carrying it around a lot, like, he's gonna have it in a backpack.
+
+232
+00:19:44.390 --> 00:19:48.619
+Mike Hall: I… honestly, for me, I would buy… I wouldn't buy a Pro, I'd buy an Air.
+
+233
+00:19:48.620 --> 00:19:54.069
+Joe Beda: Yeah, I mean, unless he's gonna be… like, if he's just… yeah, I'm with… I'm with Mike.
+
+234
+00:19:54.070 --> 00:19:55.000
+Kostadis Roussos: Huh?
+
+235
+00:19:55.000 --> 00:19:57.160
+Mike Hall: I personally don't own a pro.
+
+236
+00:19:57.160 --> 00:19:57.630
+Kostadis Roussos: No, I get it.
+
+237
+00:19:57.630 --> 00:19:59.949
+Mike Hall: You work? I own, I own an air.
+
+238
+00:20:00.220 --> 00:20:01.010
+Kostadis Roussos: I got it.
+
+239
+00:20:01.710 --> 00:20:11.370
+Joe Beda: I mean, I'm getting a new laptop with the new job, it's on order, and I ended up going with a 14 M5 Pro Max, or M5 Max.
+
+240
+00:20:11.370 --> 00:20:16.319
+Mike Hall: If I wanted a top-spec thing, I wanted to play around with AI, I would get exactly that, the 14…
+
+241
+00:20:16.660 --> 00:20:17.050
+Kostadis Roussos: S…
+
+242
+00:20:17.050 --> 00:20:18.460
+Mike Hall: Pro Max.
+
+243
+00:20:18.470 --> 00:20:29.599
+Joe Beda: And then there's other stuff, like the Pro, you can get the nanotexture screen, which is kind of delicate, harder to clean, but, like, holy shit, is it good for keeping reflections down, right? So there's, like, features like that, but I don't know how much you care.
+
+244
+00:20:29.890 --> 00:20:33.369
+Kostadis Roussos: Alright, okay, I think… I think I've gotten the answer to my question.
+
+245
+00:20:35.510 --> 00:20:38.449
+Kostadis Roussos: The funny thing is, my son is, like, so not me.
+
+246
+00:20:39.310 --> 00:20:41.320
+Joe Beda: Holy shit, these things are cheap.
+
+247
+00:20:41.810 --> 00:20:42.400
+Kostadis Roussos: Which ones?
+
+248
+00:20:42.400 --> 00:20:42.920
+Mike Hall: They're not here.
+
+249
+00:20:42.920 --> 00:20:45.440
+Joe Beda: But they're, like, they're not crazy.
+
+250
+00:20:45.820 --> 00:20:49.289
+Joe Beda: Like, the… I'm just looking at a 14-inch Air.
+
+251
+00:20:51.280 --> 00:20:53.860
+Joe Beda: Or 13-inch air, or whatever it is, our small one.
+
+252
+00:20:54.150 --> 00:20:55.540
+Mike Hall: Yeah, that's what I have.
+
+253
+00:20:55.770 --> 00:21:02.850
+Joe Beda: Yeah, and it's like… and I'm like, oh, let's upgrade the memory, or no, like, 16GB of memory, which is probably fine, right?
+
+254
+00:21:03.160 --> 00:21:03.760
+Mike Hall: Yeah.
+
+255
+00:21:04.220 --> 00:21:05.680
+Joe Beda: And then storage…
+
+256
+00:21:07.160 --> 00:21:11.739
+Joe Beda: Oh, I see. Okay, if you want to upgrade storage, you have to get their higher CPU and stuff, but still.
+
+257
+00:21:12.010 --> 00:21:24.249
+Kostadis Roussos: They… so since I have you on the line, so you use Codex and… I guess we're not gonna play today, but so we can chat for 10 more minutes. Codex versus Gemini… Codex and Claude, how do you use them together?
+
+258
+00:21:25.570 --> 00:21:26.590
+Mike Hall: How do I use them together?
+
+259
+00:21:26.590 --> 00:21:28.810
+Kostadis Roussos: You said, you say use Claude and Codex, right?
+
+260
+00:21:28.810 --> 00:21:40.909
+Mike Hall: I don't actually, like, I'm not, like, doing Beads or Gastown or anything, and, like, running multiple instances of them at the same time. I tend to… I have, I've played with both.
+
+261
+00:21:41.300 --> 00:21:49.100
+Mike Hall: We had the whole issue because, like, you know, I don't know, 6 of the top 10 customers at Cisco are federal government.
+
+262
+00:21:49.760 --> 00:21:59.370
+Mike Hall: And when Bush, or not Bush, Trump signed his whole, like, fuck you, Anthropic, I'm gonna sign this thing and list you as a supply chain risk.
+
+263
+00:21:59.370 --> 00:22:00.130
+Kostadis Roussos: Yeah, yeah, yeah, remember.
+
+264
+00:22:00.130 --> 00:22:17.830
+Mike Hall: we actually had general counsel reach out to us and say, like, hey, if we had to stop using Anthropic stuff, what… how would that… like… and so I immediately shifted over, starting using GPT to, like, play with it, and I actually found that it was pretty good. So, GPT is actually,
+
+265
+00:22:17.830 --> 00:22:22.859
+Mike Hall: better, in my opinion, at context things. Like, if you want to grok.
+
+266
+00:22:22.860 --> 00:22:26.659
+Mike Hall: A new codebase that you haven't looked at before.
+
+267
+00:22:26.800 --> 00:22:38.900
+Mike Hall: and you want it to just, like, hey, what's in this Git repository? Give me a summary of what the code does. I think GPT does that better than Codex. If you want to, like, refactor something.
+
+268
+00:22:39.600 --> 00:22:48.920
+Mike Hall: or you want to, like, reduce cyclic complexity and have it, like, suggest changes, Codex, or sorry, Claude is way better.
+
+269
+00:22:49.430 --> 00:22:56.070
+Kostadis Roussos: Alright, so what you're saying is, since… so, okay, so I use it for, like… so, I've gone crazy a little bit, as you probably have gathered.
+
+270
+00:22:56.460 --> 00:22:59.770
+Kostadis Roussos: 30 years worth of not coding, and all of a sudden, I have interns.
+
+271
+00:23:00.120 --> 00:23:00.870
+Mike Hall: Yes.
+
+272
+00:23:00.870 --> 00:23:02.270
+Kostadis Roussos: Don't talk.
+
+273
+00:23:02.270 --> 00:23:03.589
+Mike Hall: An army of them.
+
+274
+00:23:03.590 --> 00:23:10.449
+Kostadis Roussos: I have an army of them, right? Like, just to give you an idea, I bought myself a…
+
+275
+00:23:11.120 --> 00:23:15.810
+Kostadis Roussos: Claude Max, and I managed to hit the token limit.
+
+276
+00:23:16.600 --> 00:23:26.780
+Kostadis Roussos: on my personal projects, and to do that, you basically have to, like, be sitting at your desk for, like, 17 hours straight, and I did that on, like… I was like, oh, I remember when I used to do this.
+
+277
+00:23:27.060 --> 00:23:27.750
+Mike Hall: Yeah.
+
+278
+00:23:27.770 --> 00:23:28.920
+Kostadis Roussos: That was 30 years ago.
+
+279
+00:23:28.920 --> 00:23:32.079
+Mike Hall: Have you, have you read all the stuff that Steve Yagy's been doing?
+
+280
+00:23:32.660 --> 00:23:33.250
+Kostadis Roussos: Who?
+
+281
+00:23:33.590 --> 00:23:35.330
+Joe Beda: Oh, you haven't seen the Gastown stuff?
+
+282
+00:23:35.330 --> 00:23:36.799
+Mike Hall: Oh, you need to read… I'll send you.
+
+283
+00:23:36.800 --> 00:23:37.300
+Joe Beda: Yeah.
+
+284
+00:23:37.300 --> 00:23:37.870
+Mike Hall: post.
+
+285
+00:23:37.870 --> 00:23:44.849
+Joe Beda: I had lunch with Steve the other day, we're buddies, I hired him into Google. He's an interesting character.
+
+286
+00:23:44.850 --> 00:23:46.020
+Kostadis Roussos: What is that?
+
+287
+00:23:46.020 --> 00:23:47.989
+Mike Hall: I'll send you the link. Start here.
+
+288
+00:23:47.990 --> 00:23:50.570
+Kostadis Roussos: I know you'll send me the link, but could, like, Joe…
+
+289
+00:23:50.570 --> 00:23:51.280
+Joe Beda: Joe, who…
+
+290
+00:23:51.280 --> 00:23:52.850
+Kostadis Roussos: explains technologies.
+
+291
+00:23:53.010 --> 00:23:54.680
+Joe Beda: Well, if you read his.
+
+292
+00:23:54.680 --> 00:23:55.150
+Kostadis Roussos: Oh, there he is.
+
+293
+00:23:55.150 --> 00:24:02.570
+Joe Beda: blog post, It's essentially Kubernetes-type concepts for agents communicating with each other.
+
+294
+00:24:02.860 --> 00:24:03.500
+Kostadis Roussos: Yeah.
+
+295
+00:24:03.500 --> 00:24:16.780
+Joe Beda: So, the whole idea is that, you know, you turn the dial on, sort of like, YOLO letting these things run all the way up to 11, and spend a ton of cash, and you get Gastown.
+
+296
+00:24:17.530 --> 00:24:27.260
+Joe Beda: But it's really interesting, because it's, like, all these patterns of, like, different roles that they take on, how they actually assign work, what happens with merge conflicts, there's a lot, lot there if you start digging into it.
+
+297
+00:24:27.620 --> 00:24:34.200
+Mike Hall: My favorite concept that he talks about in there is something that he calls,
+
+298
+00:24:36.490 --> 00:24:40.450
+Mike Hall: Oh, now I'm trying… now I don't remember exactly the words, and I don't want to get it wrong.
+
+299
+00:24:40.890 --> 00:24:42.789
+Kostadis Roussos: Right, I… this is gonna involve reading.
+
+300
+00:24:43.120 --> 00:24:45.779
+Mike Hall: No, it's like, it's a heavy, heavy lift.
+
+301
+00:24:46.420 --> 00:24:48.860
+Joe Beda: Yeah, it's a long blog post.
+
+302
+00:24:49.470 --> 00:24:53.030
+Mike Hall: There is a… what is the term he used?
+
+303
+00:24:55.420 --> 00:24:57.899
+Mike Hall: Non-deterministic item potency.
+
+304
+00:24:59.470 --> 00:25:03.050
+Mike Hall: I love the term. Basically, the concept is…
+
+305
+00:25:03.310 --> 00:25:06.120
+Mike Hall: If you're… if you have a contract.
+
+306
+00:25:06.330 --> 00:25:12.920
+Mike Hall: And you can generate a blocked box that does the contract. Do you care what's in the box?
+
+307
+00:25:14.390 --> 00:25:19.909
+Joe Beda: So this is my theory that I posted in the chat, right? It's like, with better tests.
+
+308
+00:25:20.210 --> 00:25:32.289
+Joe Beda: Like, like, and the ability… we may end up with better software, because to some degree, large systems are not necessarily designed, they're grown to fit the shape of the container that you put around them, right?
+
+309
+00:25:32.290 --> 00:25:32.840
+Mike Hall: Right.
+
+310
+00:25:33.060 --> 00:25:45.610
+Mike Hall: And I was arguing with, like, one of the gray hair, you know, fellow guys at Cisco about this, like, as a thought experiment, like, we both kind of see things pretty much the same way, but I was taking the side of, like, let's go as fast as we can.
+
+311
+00:25:45.970 --> 00:26:03.179
+Mike Hall: And part of what I said was, like, who cares? Like, if it meets the contract, and it does everything… well, who cares what language it's written in? Who cares how clean the code is? Who cares about anything? And he's like, well, what if you have to maintain it? And I was like, you don't. You just change the prompt to add the feature you want, you rerun the prompt, and you get a different box.
+
+312
+00:26:03.530 --> 00:26:08.609
+Joe Beda: I mean, to some degree, it's like, do you really know what's going on inside your processor, or does it just fulfill the contract?
+
+313
+00:26:09.430 --> 00:26:10.090
+Mike Hall: Right.
+
+314
+00:26:10.210 --> 00:26:25.139
+Mike Hall: And so it… and… and, like, it is extre… I don't… by the way, I want to fully caveat this. I'm not a believer that this is the future, but, like, I get that… I have empathy and understanding for the concept. Like, it is…
+
+315
+00:26:25.250 --> 00:26:25.840
+Mike Hall: It is.
+
+316
+00:26:25.840 --> 00:26:30.489
+Kostadis Roussos: All I'm just seeing is more of my money going to Anthropic and Claude.
+
+317
+00:26:30.950 --> 00:26:34.429
+Joe Beda: So, speaking, I had a chance to invest in Anthropic,
+
+318
+00:26:34.820 --> 00:26:41.800
+Joe Beda: through Goldman, and they're like, hey, like, the… my guy calls me, he's like, we need to decide in the next two days if you want to put money in here.
+
+319
+00:26:42.550 --> 00:26:48.359
+Joe Beda: And, because they're, they're helping raise their round, and probably gonna help take them public.
+
+320
+00:26:48.490 --> 00:26:54.709
+Joe Beda: And and so I'm like, yeah, I'll commit, and so I committed to putting a million dollars in.
+
+321
+00:26:55.020 --> 00:26:57.060
+Joe Beda: And he,
+
+322
+00:26:57.170 --> 00:27:05.580
+Joe Beda: He just texted me earlier today and said, well, we got your allocation, it was $110,000. So the thing was, like, 10x oversubscribed.
+
+323
+00:27:05.810 --> 00:27:12.379
+Joe Beda: Which, you know, amongst Goldman clients, 10 times, you know, the amount of money they had, they had 10 times as much people wanted to put that in there.
+
+324
+00:27:13.110 --> 00:27:15.139
+Joe Beda: The thing is a frickin' rocket ship.
+
+325
+00:27:17.350 --> 00:27:19.009
+Kostadis Roussos: God bless. Alright.
+
+326
+00:27:21.180 --> 00:27:28.660
+Kostadis Roussos: I'm just… all I'm seeing is more… more of my top… more of my money going to Anthropic, and in some curious way, the Joe Beta.
+
+327
+00:27:29.350 --> 00:27:30.880
+Joe Beda: I mean, it all goes as planned.
+
+328
+00:27:32.960 --> 00:27:39.760
+Mike Hall: And by the way, Gastown has follow-ups, so, like, this is the one from New Year's that I pointed you to, but he has multiple, so look for more.
+
+329
+00:27:39.760 --> 00:27:41.499
+Kostadis Roussos: No, there's a Git repo.
+
+330
+00:27:42.430 --> 00:27:42.800
+Mike Hall: Yeah, there's.
+
+331
+00:27:42.800 --> 00:27:45.379
+Joe Beda: Oh, it goes deep. But this is fascinating.
+
+332
+00:27:45.760 --> 00:27:49.330
+Joe Beda: They wrote beads using Gastown-type shit.
+
+333
+00:27:50.590 --> 00:27:54.059
+Joe Beda: And, like, people are like, don't look at the code.
+
+334
+00:27:54.060 --> 00:28:04.350
+Mike Hall: He is a very… he's a very good, explainer of, like, what he's trying to accomplish, and it's entertaining. I highly recommend the Medium blog post that I post.
+
+335
+00:28:04.350 --> 00:28:09.130
+Kostadis Roussos: No, I'm gonna do all that. It's on my list, it was saved, like, there's a plan, I mean, like, you know…
+
+336
+00:28:09.130 --> 00:28:09.660
+Mike Hall: Sure.
+
+337
+00:28:10.550 --> 00:28:13.429
+Kostadis Roussos: Okay, so let's go play some Dungeons & Dragons.
+
+338
+00:28:13.870 --> 00:28:14.810
+Mike Hall: Okay, cool.
+
+339
+00:28:14.810 --> 00:28:18.250
+Kostadis Roussos: Because, like, Gabe was saved from the gods of.
+
+340
+00:28:18.400 --> 00:28:19.380
+Mike Hall: Jury duty?
+
+341
+00:28:20.220 --> 00:28:27.549
+Gabe: Well, not saved, just… you know, business hours, right? So, I exist again.
+
+342
+00:28:29.550 --> 00:28:33.150
+Kostadis Roussos: Alright Buried Shopper.
+
+343
+00:28:34.650 --> 00:28:35.500
+Kostadis Roussos: play.
+
+344
+00:28:35.910 --> 00:28:36.480
+Joe Beda: Okay.
+
+345
+00:28:36.600 --> 00:28:41.120
+Joe Beda: One last thing. Mike, do you know what Steve actually uses Gastown to program?
+
+346
+00:28:42.500 --> 00:28:46.809
+Mike Hall: I know he's been working on… No, I don't.
+
+347
+00:28:47.120 --> 00:29:00.589
+Joe Beda: He's been working on this game for the past, like, 20 years, and so he's using it. It's his own personal, like, you know, rock garden that he moves the rocks around on, and now he's moving them around faster.
+
+348
+00:29:01.380 --> 00:29:08.440
+Mike Hall: That's crazy. I mean, the fact that he's burned through, like, 3 or 4 max… Subscriptions?
+
+349
+00:29:09.300 --> 00:29:10.040
+Joe Beda: Yeah.
+
+350
+00:29:10.560 --> 00:29:17.120
+Mike Hall: like, you know, he's… I think he was up to 3, and then he put in the blog post that he knows somebody that's using…
+
+351
+00:29:17.840 --> 00:29:19.640
+Mike Hall: 21 Max?
+
+352
+00:29:19.640 --> 00:29:21.790
+Kostadis Roussos: It's like $2,100?
+
+353
+00:29:22.360 --> 00:29:23.140
+Mike Hall: No.
+
+354
+00:29:24.330 --> 00:29:27.180
+Joe Beda: A max subscription, it's like $400 a month for the…
+
+355
+00:29:27.180 --> 00:29:28.090
+Mike Hall: There's like two of us.
+
+356
+00:29:28.090 --> 00:29:29.110
+Joe Beda: levels, yeah.
+
+357
+00:29:29.290 --> 00:29:35.049
+Mike Hall: It's like $400 a month, and then one of the guys he knows is using 21 of those and maxing them out.
+
+358
+00:29:36.540 --> 00:29:38.359
+Kostadis Roussos: That's a… A lot of money.
+
+359
+00:29:39.130 --> 00:29:42.829
+Mike Hall: Yeah, I mean, it's… it's another… it's… it's what an engineer would cost.
+
+360
+00:29:43.700 --> 00:29:48.590
+Kostadis Roussos: Yes. I mean, my projects are important, but not that important. Right.
+
+361
+00:29:48.810 --> 00:29:53.139
+Kostadis Roussos: Just to be clear, the stuff I work on is fun, but not that fun.
+
+362
+00:29:53.140 --> 00:29:53.720
+Mike Hall: Yeah.
+
+363
+00:29:55.330 --> 00:29:56.480
+Mike Hall: Anyway…
+
+364
+00:29:59.880 --> 00:30:03.590
+Mike Hall: Hopefully your, jury duty is not, too taxing.
+
+365
+00:30:03.870 --> 00:30:04.689
+Mike Hall: I've been on.
+
+366
+00:30:04.690 --> 00:30:08.690
+Kostadis Roussos: Did you propose AI LLMs to replace jurors?
+
+367
+00:30:08.690 --> 00:30:11.779
+Gabe: Clearly, yes, that would have gone over very well.
+
+368
+00:30:11.970 --> 00:30:15.440
+Kostadis Roussos: Yes, it would have probably got you kicked out of there in a few seconds.
+
+369
+00:30:15.440 --> 00:30:19.670
+Gabe: Right? Exactly. And, yes, maybe detained as well, but yeah.
+
+370
+00:30:21.000 --> 00:30:22.880
+Joe Beda: Did you, did you get put on a trial, or…
+
+371
+00:30:23.240 --> 00:30:26.590
+Gabe: We're in, what's the phase? Where they're interviewing
+
+372
+00:30:27.800 --> 00:30:30.869
+Gabe: Yeah, yeah, so we're in the middle of that, so TBD.
+
+373
+00:30:30.870 --> 00:30:31.480
+Kostadis Roussos: Oh, so…
+
+374
+00:30:31.730 --> 00:30:32.970
+Joe Beda: The only time I got called…
+
+375
+00:30:32.970 --> 00:30:35.200
+Kostadis Roussos: You have not been given the get-out-of-jail card yet.
+
+376
+00:30:35.200 --> 00:30:36.440
+Gabe: No.
+
+377
+00:30:36.930 --> 00:30:42.400
+Joe Beda: I got called, they interviewed me, and I'm like, I'm like, it was a drug case, and I'm like, I'd just seen this movie, and I'm like, I'm like, you know…
+
+378
+00:30:42.560 --> 00:30:54.160
+Joe Beda: I'm open to the idea that, like, some people are a victim of the war on drugs and not… like, you could see the defendant get really excited and start talking to his lawyer, and the lawyer's just like, no. And then I got booted.
+
+379
+00:30:54.160 --> 00:30:56.830
+Kostadis Roussos: The lawyer could see through your ruse.
+
+380
+00:30:56.830 --> 00:31:00.789
+Joe Beda: No, I was honest, I was being honest, right? I'm not… it was no ruse.
+
+381
+00:31:01.190 --> 00:31:06.879
+Gabe: Yeah, no, similar issue for me on this one. I doubt I'll actually be on this case, but we'll see.
+
+382
+00:31:08.170 --> 00:31:25.219
+Mike Hall: I generally find that if you are a logical thinker, or work in a field that requires logical thinking, they don't want you on a case. Yeah. They want to manipulate you. So the moment you're like, yeah, I'm an engineer, or I'm a software programmer, or I'm a lawyer, or I'm whatever, it's like, yeah, we don't need you.
+
+383
+00:31:27.410 --> 00:31:30.639
+Gabe: Yeah, definitely. Feels like it's going that way.
+
+384
+00:31:31.910 --> 00:31:33.010
+Mike Hall: Theoretical physicist.
+
+385
+00:31:33.010 --> 00:31:38.629
+Joe Beda: I kind of love to sit, actually have the time to, like, get chosen and sit on a jury and see how the process works, sort of super.
+
+386
+00:31:38.630 --> 00:31:40.029
+Gabe: Yeah, it's super interesting.
+
+387
+00:31:40.030 --> 00:31:42.020
+Mike Hall: I've done it 3 times. I've done it before.
+
+388
+00:31:42.020 --> 00:31:44.220
+Joe Beda: I'm sure I want to do it three times. I'd like to do it once.
+
+389
+00:31:45.820 --> 00:31:50.150
+Kostadis Roussos: Mike, you are proving counterintuitive… you are providing the counter evidence that the…
+
+390
+00:31:50.150 --> 00:32:04.069
+Mike Hall: So, I think the first one that I ever did, it was an ex-husband, ex-wife that were doing a custody battle, and had been basically using the corpse against each other for, like, 15 years, and everyone
+
+391
+00:32:04.070 --> 00:32:17.300
+Mike Hall: Their lawyers, the judges, everybody was just tired of it. There was a cop on the jury, there was a lawyer on the jury, there was me. There was, like, they were like, yeah, we're just, like, we're not gonna kick anybody off, and we're gonna let people that actually can think.
+
+392
+00:32:17.300 --> 00:32:20.040
+Mike Hall: Try to solve this, because we've obviously not been able to.
+
+393
+00:32:20.450 --> 00:32:22.370
+Mike Hall: And so, I was on that jury.
+
+394
+00:32:22.690 --> 00:32:24.650
+Joe Beda: Okay, that sounds really depressing.
+
+395
+00:32:24.650 --> 00:32:25.060
+Gabe: Yeah.
+
+396
+00:32:25.060 --> 00:32:31.789
+Mike Hall: It was depressing. I was on another jury for terminating a woman's parental rights, because she was neglecting her child.
+
+397
+00:32:32.110 --> 00:32:37.540
+Kostadis Roussos: like, I don't… yes, like I said, I don't know whether I want to be in a court case, because you're dealing with bad things.
+
+398
+00:32:37.540 --> 00:32:44.340
+Mike Hall: Well, and then… and then the third one, which was actually the fastest, we returned our verdict in seven and a half minutes.
+
+399
+00:32:45.770 --> 00:32:48.750
+Mike Hall: It was a petit jury, which is only 6 people.
+
+400
+00:32:48.980 --> 00:32:51.230
+Mike Hall: And it was Citicorp.
+
+401
+00:32:51.840 --> 00:32:57.929
+Mike Hall: Because a cabbie backed over somebody at the airport, and was trying to say it wasn't him.
+
+402
+00:32:58.150 --> 00:33:02.519
+Mike Hall: when there's clear 4K video of him doing it…
+
+403
+00:33:02.950 --> 00:33:03.450
+Gabe: Huh.
+
+404
+00:33:03.450 --> 00:33:22.909
+Mike Hall: And we're… so we sat down, and I said, I think it's going to take us longer to elect a foreman… a foreperson than it is to come to a verdict. And one of the ladies across the way goes, it sounds like you're the foreperson. And I said, okay. And then they said, is everybody here thinking guilty? We were like, yep. And so we wrote the… handed it to the guy, and we returned in 7 minutes.
+
+405
+00:33:23.090 --> 00:33:23.870
+Gabe: That's awesome.
+
+406
+00:33:23.870 --> 00:33:24.730
+Kostadis Roussos: Alright.
+
+407
+00:33:24.730 --> 00:33:26.450
+Joe Beda: Did he represent himself?
+
+408
+00:33:27.150 --> 00:33:31.199
+Mike Hall: No, he was trying not to lose his chauffeur's license.
+
+409
+00:33:32.500 --> 00:33:41.460
+Mike Hall: So he was just basically hoping, and he… they, like, he didn't… he didn't deny that he ran them over, he said that the cab…
+
+410
+00:33:41.620 --> 00:33:56.229
+Mike Hall: direction person told him to back up, and he did, and he should have looked back, but… and he ran over an older person in a crosswalk with lights that were blinking, and he backed over them. They were okay. They… I mean, they got a broken leg, but they were okay.
+
+411
+00:33:56.310 --> 00:34:04.709
+Mike Hall: And then, but he basically said, like, if this goes on my record, I'm gonna lose my way of making a living. And we were like, maybe you shouldn't be driving.
+
+412
+00:34:06.210 --> 00:34:07.240
+Gabe: Alright.
+
+413
+00:34:07.980 --> 00:34:12.399
+Kostadis Roussos: So… Let's see. Let's go today. What has gone on?
+
+414
+00:34:13.400 --> 00:34:15.010
+Kostadis Roussos: Let me go to my library.
+
+415
+00:34:16.850 --> 00:34:17.510
+Kostadis Roussos: Oh.
+
+416
+00:34:17.510 --> 00:34:18.770
+Mike Hall: But yeah, it's never fun.
+
+417
+00:34:19.460 --> 00:34:23.030
+Kostadis Roussos: Apparently, they now, after, 7 years.
+
+418
+00:34:23.780 --> 00:34:28.320
+Kostadis Roussos: For a very long time, the D&D Beyond UI did not have a way to favorite documents.
+
+419
+00:34:29.610 --> 00:34:33.969
+Kostadis Roussos: So, the agonizing custatus looking for a document is no longer an issue.
+
+420
+00:34:34.539 --> 00:34:35.299
+Mike Hall: Cool.
+
+421
+00:34:35.610 --> 00:34:52.750
+Kostadis Roussos: I'm very excited about this. Fortunately, I've also figured out how to use a tool that allows me to have all of the D&D content as JSON-encoded files that I can quickly search on my local hard drive, so I never have to deal with this problem. So I just want to say that it's nice that they added this feature, but, you know…
+
+422
+00:34:56.340 --> 00:34:57.290
+Kostadis Roussos: Alright.
+
+423
+00:34:58.400 --> 00:34:59.880
+Joe Beda: So are we gonna play, or are we gonna just…
+
+424
+00:34:59.880 --> 00:35:02.739
+Kostadis Roussos: Yeah, yeah, yeah, we're gonna play, we're gonna play. I just need to…
+
+425
+00:35:02.740 --> 00:35:05.469
+Joe Beda: There was a question?
+
+426
+00:35:05.510 --> 00:35:09.949
+Kostadis Roussos: No, no, no, no, we are. I just… the reason I was kind of delaying… I was trying to remember…
+
+427
+00:35:11.130 --> 00:35:16.430
+Mike Hall: Well, while Cassidus is pulling it up, Joe, have you played Steve's game, or is it not in a playable state yet?
+
+428
+00:35:16.550 --> 00:35:27.819
+Joe Beda: No, I… it's… I haven't played… it's this RPG called Wyvern. I don't know, like, I was… I was just looking this up, because I'm like, okay, like, if this is what he's playing, I want to understand more about it, and like…
+
+429
+00:35:28.160 --> 00:35:30.150
+Joe Beda: The truth of the matter is, is that…
+
+430
+00:35:30.440 --> 00:35:33.640
+Joe Beda: I… I… I… it looks…
+
+431
+00:35:34.120 --> 00:35:38.890
+Kostadis Roussos: Alright, so… First things first, let's get through that. You all…
+
+432
+00:35:39.260 --> 00:35:41.700
+Kostadis Roussos: Alright, so the first thing is that you're all level 8 now.
+
+433
+00:35:42.750 --> 00:35:43.400
+Mike Hall: Oh!
+
+434
+00:35:44.060 --> 00:35:44.970
+Joe Beda: Whoa, whoa, what?
+
+435
+00:35:44.970 --> 00:35:45.390
+Gabe: Oh.
+
+436
+00:35:45.390 --> 00:35:46.230
+Kostadis Roussos: Level 8.
+
+437
+00:35:47.030 --> 00:35:48.239
+Mike Hall: We're gonna level up.
+
+438
+00:35:48.710 --> 00:35:49.290
+Kostadis Roussos: Yes.
+
+439
+00:35:49.580 --> 00:35:51.370
+Joe Beda: Alright, well, that's gonna take the rest of the hour.
+
+440
+00:35:55.660 --> 00:35:58.609
+Mike Hall: We should… You buried the lead, Castadis.
+
+441
+00:35:58.710 --> 00:35:59.450
+Gabe: Hmm…
+
+442
+00:35:59.450 --> 00:36:01.109
+Kostadis Roussos: Well, I'm sorry, I…
+
+443
+00:36:01.110 --> 00:36:05.090
+Mike Hall: No, no, you're fine. No one's complaining.
+
+444
+00:36:05.750 --> 00:36:08.699
+Kostadis Roussos: No, I just need to tell, Greg him that he needs to.
+
+445
+00:36:11.380 --> 00:36:14.720
+Mike Hall: I got a new ability score improvement.
+
+446
+00:36:14.980 --> 00:36:16.689
+Kostadis Roussos: Yes, you get to pick feats.
+
+447
+00:36:16.970 --> 00:36:18.120
+Gabe: Feeds, huh.
+
+448
+00:36:18.120 --> 00:36:18.830
+Joe Beda: Yeah, this is…
+
+449
+00:36:18.830 --> 00:36:20.390
+Mike Hall: This is gonna be a hard one.
+
+450
+00:36:20.390 --> 00:36:21.849
+Gabe: Yeah, this'll take some time.
+
+451
+00:36:22.040 --> 00:36:22.810
+Kostadis Roussos: I know.
+
+452
+00:36:24.380 --> 00:36:27.520
+Mike Hall: Oh, and where's that? RPG, whatever?
+
+453
+00:36:27.520 --> 00:36:28.750
+Joe Beda: So, Gabe…
+
+454
+00:36:28.750 --> 00:36:29.350
+Gabe: Hmm.
+
+455
+00:36:29.550 --> 00:36:33.899
+Joe Beda: Is your strategy that you just build a super lopsided character and just play with that?
+
+456
+00:36:34.740 --> 00:36:44.860
+Joe Beda: Actually, do you try and create some… because, like, right now, my character has, like, zero range ability, and I'm wondering, do I try and fix that, or do I just double down with the shit that I can't, you know?
+
+457
+00:36:44.930 --> 00:36:51.209
+Gabe: I find it more fun to double down with some sort of obscure specialization and then try to break the universe with it.
+
+458
+00:36:51.420 --> 00:36:53.120
+Joe Beda: I mean, you're really good at it.
+
+459
+00:36:53.580 --> 00:36:54.510
+Kostadis Roussos: It's just to be.
+
+460
+00:36:54.510 --> 00:37:00.670
+Joe Beda: clear, I don't… I think it might be too late for me to, like, you know, go as far down that rabbit hole, but, like…
+
+461
+00:37:01.460 --> 00:37:04.949
+Kostadis Roussos: So, so, in general, the game rewards…
+
+462
+00:37:08.300 --> 00:37:12.140
+Kostadis Roussos: Deep specialization over general purpose.
+
+463
+00:37:12.640 --> 00:37:18.529
+Kostadis Roussos: Because as you gain levels, The monsters start to need more and more damage per hit point.
+
+464
+00:37:20.290 --> 00:37:25.340
+Kostadis Roussos: Right? And so you're, you're, like, at the first level, 10 points of damage is a lot of damage, right?
+
+465
+00:37:25.510 --> 00:37:28.850
+Kostadis Roussos: At the 8th level, 20 points is a lot of damage.
+
+466
+00:37:29.070 --> 00:37:33.410
+Kostadis Roussos: At the 15th level, 40 points is a lot of damage, right?
+
+467
+00:37:33.580 --> 00:37:37.000
+Kostadis Roussos: And at the 20th level, you better be doing 70 points of damage per round.
+
+468
+00:37:38.190 --> 00:37:41.430
+Kostadis Roussos: Right? And so what happens is when you spread your abilities.
+
+469
+00:37:41.650 --> 00:37:55.619
+Kostadis Roussos: your damage output declines in any one particular round. The downside is, if you're facing a dragon and the entire party has one guy who can shoot things from a remote distance, the dragon stands at about 60 feet and breathes on you, and that's the end of the party.
+
+470
+00:37:56.600 --> 00:38:00.980
+Kostadis Roussos: So it encourages the group to have thoughtful balance.
+
+471
+00:38:02.410 --> 00:38:03.110
+Mike Hall: Okay.
+
+472
+00:38:03.470 --> 00:38:20.129
+Kostadis Roussos: Right? So I just want to say, like, in terms of game design, that's how they've optimized. Now, a couple of important points, you are in Under the Dark, so, you know, it's not like there are going to be people flying all over the place, all of the time. But because this is Dungeons & Dragons, and none of you have ranged weapons, of course there will be people.
+
+473
+00:38:24.720 --> 00:38:26.400
+Kostadis Roussos: That's so… just, just…
+
+474
+00:38:30.150 --> 00:38:33.469
+Joe Beda: So, is heroic inspiration, is that the inspiration point idea?
+
+475
+00:38:33.590 --> 00:38:34.160
+Kostadis Roussos: Yeah.
+
+476
+00:38:35.110 --> 00:38:37.200
+Joe Beda: Okay, and so you can grant that to us?
+
+477
+00:38:37.520 --> 00:38:38.060
+Joe Beda: Yes.
+
+478
+00:38:38.060 --> 00:38:42.360
+Kostadis Roussos: The group can say he deserves inspiration. We can all say, yes, he deserves inspiration.
+
+479
+00:38:42.360 --> 00:38:43.130
+Joe Beda: Okay.
+
+480
+00:38:50.290 --> 00:38:53.570
+Joe Beda: Yeah, but we don't do a lot of inspiration stuff, so…
+
+481
+00:38:53.570 --> 00:38:56.899
+Kostadis Roussos: No, it's… the inspiration thing is when you… you get an extra D20.
+
+482
+00:38:59.560 --> 00:39:03.010
+Kostadis Roussos: You can roll… it's like, basically, you can roll an additional D20 on a roll.
+
+483
+00:39:04.780 --> 00:39:05.410
+Joe Beda: Oh.
+
+484
+00:39:37.280 --> 00:39:38.520
+Joe Beda: I don't know.
+
+485
+00:40:07.510 --> 00:40:08.120
+Kostadis Roussos: Oh.
+
+486
+00:40:08.240 --> 00:40:16.519
+Kostadis Roussos: Just as a funny note, I figured out how to turn my agentic custatis into a agent that reviewed my architecture.
+
+487
+00:40:17.010 --> 00:40:20.149
+Kostadis Roussos: It was very surreal to have myself reviewing…
+
+488
+00:40:22.800 --> 00:40:23.660
+Gabe: Notice.
+
+489
+00:40:24.040 --> 00:40:26.270
+Kostadis Roussos: And I was like, can't you be a bit more specific?
+
+490
+00:40:29.920 --> 00:40:36.870
+Kostadis Roussos: I thought it was funny to read Claude's reaction to the agent. Well, he's right, bud, he's missing some key details.
+
+491
+00:40:38.940 --> 00:40:39.620
+Mike Hall: Hmm.
+
+492
+00:40:41.360 --> 00:40:43.800
+Kostadis Roussos: I was just thinking to myself, I should send these to Gabe.
+
+493
+00:40:45.520 --> 00:40:47.050
+Gabe: Sounds about right.
+
+494
+00:40:47.600 --> 00:40:50.870
+Kostadis Roussos: I will find the interactions, and I will send them to you.
+
+495
+00:40:57.890 --> 00:41:03.539
+Mike Hall: So basically, I can make my ability scores better, or I can do something like become fey-touched.
+
+496
+00:41:05.180 --> 00:41:08.190
+Kostadis Roussos: So, where wizards gain a lot of benefits.
+
+497
+00:41:08.440 --> 00:41:14.229
+Kostadis Roussos: So, the rule about feats is the following. The duh obvious thing is to always add more ability scores, right?
+
+498
+00:41:14.230 --> 00:41:15.570
+Mike Hall: Right, right.
+
+499
+00:41:16.060 --> 00:41:23.859
+Kostadis Roussos: But the thing you could do with feats is you could have some quirky special ability, right? So, quirky special abilities that are notoriously overpowered.
+
+500
+00:41:24.510 --> 00:41:25.380
+Kostadis Roussos: Lucky.
+
+501
+00:41:27.490 --> 00:41:32.299
+Kostadis Roussos: Right? If you think about any battle, it involves 3 and count… 3 rolls of the dice.
+
+502
+00:41:33.710 --> 00:41:35.860
+Kostadis Roussos: Right, because you have 3 rounds, typically.
+
+503
+00:41:37.150 --> 00:41:45.519
+Kostadis Roussos: Right, so you can basically re… that's one. The other one is… the other one that helps Wizard a lot is, Warcaster, which gives them improved concentration checks.
+
+504
+00:41:47.110 --> 00:41:51.420
+Kostadis Roussos: So if you're gonna cast spells that require concentration, that is not a bad thing to have.
+
+505
+00:41:52.520 --> 00:41:56.109
+Joe Beda: Wait, wait, so Lucky… Lucky only gives you 3 per long rest, right?
+
+506
+00:41:56.110 --> 00:42:01.970
+Kostadis Roussos: Yes, I'm… yes, but in practice, any… encounter is… 3 rounds.
+
+507
+00:42:02.970 --> 00:42:04.350
+Joe Beda: Oh, okay.
+
+508
+00:42:04.350 --> 00:42:07.600
+Mike Hall: But… but Fae Touch gives me 2 additional spells.
+
+509
+00:42:07.910 --> 00:42:08.460
+Mike Hall: Prepare.
+
+510
+00:42:08.460 --> 00:42:09.429
+Kostadis Roussos: I'm just…
+
+511
+00:42:09.430 --> 00:42:11.029
+Mike Hall: Plus free castings.
+
+512
+00:42:11.030 --> 00:42:12.450
+Kostadis Roussos: I'm… that's fine, I'm just…
+
+513
+00:42:12.850 --> 00:42:17.969
+Mike Hall: No, no, I mean, yeah, and I get… I get what you're saying about, like, Warcaster definitely makes sense.
+
+514
+00:42:18.140 --> 00:42:21.390
+Mike Hall: What about telekinetic? Have you seen anybody use that?
+
+515
+00:42:21.390 --> 00:42:22.050
+Kostadis Roussos: No.
+
+516
+00:42:32.160 --> 00:42:38.820
+Joe Beda: Okay, so question, so Dawnbringer is not slashing, right? It's actually… Radiant damage.
+
+517
+00:42:39.090 --> 00:42:39.680
+Kostadis Roussos: Yep.
+
+518
+00:42:40.290 --> 00:42:41.020
+Joe Beda: Okay.
+
+519
+00:42:46.070 --> 00:42:47.399
+Joe Beda: Alright, so that…
+
+520
+00:42:52.170 --> 00:42:54.160
+Mike Hall: So I can…
+
+521
+00:42:54.280 --> 00:43:07.800
+Mike Hall: Interesting. Telekinetic, I… people can choose to intentionally fail a saving throw, so I can aim this at allies and do things like get them out of a grapple or move them 5 feet.
+
+522
+00:43:13.460 --> 00:43:15.090
+Mike Hall: Hmm, interesting.
+
+523
+00:43:15.440 --> 00:43:16.820
+Mike Hall: Interesting.
+
+524
+00:43:19.630 --> 00:43:20.630
+Mike Hall: Keep working.
+
+525
+00:43:34.810 --> 00:43:38.509
+Kostadis Roussos: Meanwhile, I don't know whether everybody knows, everybody's favorite,
+
+526
+00:43:38.740 --> 00:43:43.049
+Kostadis Roussos: Actress has the most… has one of the most cited GitHub repos?
+
+527
+00:43:45.040 --> 00:43:46.439
+Kostadis Roussos: Mila Jojovic.
+
+528
+00:43:49.800 --> 00:43:51.060
+Mike Hall: But it's not really her, right?
+
+529
+00:43:51.060 --> 00:43:54.459
+Kostadis Roussos: No, it is really her. It is the realtz.
+
+530
+00:43:54.460 --> 00:43:55.270
+Mike Hall: Really?
+
+531
+00:43:55.630 --> 00:44:00.579
+Kostadis Roussos: Yes, so if you go read it, basically, it has, like, the stench of her being involved in it.
+
+532
+00:44:01.170 --> 00:44:19.690
+Kostadis Roussos: And she's definitely… talks a good game, but she is an actress, so, right? I mean, like, you know, delivering lines is what she does for a living, right? But I, you know, I'm gonna give her credit, I'm gonna give her that… it has, like, the stench of somebody who's an artist talking to an engineer who figured out how to turn her ideas into something useful, which I have used, by the way.
+
+533
+00:44:20.000 --> 00:44:25.979
+Kostadis Roussos: But yes, Mila Jojovic is now, in this timeline, is now one of the most heavily cited GitHub repos.
+
+534
+00:44:28.930 --> 00:44:30.030
+Mike Hall: Very interesting.
+
+535
+00:44:30.610 --> 00:44:31.130
+Kostadis Roussos: That's…
+
+536
+00:44:31.130 --> 00:44:32.499
+Gabe: What's in it?
+
+537
+00:44:32.750 --> 00:44:40.279
+Kostadis Roussos: Mempalus. It's a technique for remembering things in long-running clawed sessions. Actually works really well.
+
+538
+00:44:40.710 --> 00:44:43.230
+Kostadis Roussos: Especially if you're doing lots of D&D shit.
+
+539
+00:45:20.090 --> 00:45:23.569
+Joe Beda: Okay, interesting. So there's something referred to in…
+
+540
+00:45:25.000 --> 00:45:27.710
+Joe Beda: RPG bot that actually is not in…
+
+541
+00:45:29.320 --> 00:45:29.830
+Kostadis Roussos: What is it?
+
+542
+00:45:29.980 --> 00:45:33.200
+Joe Beda: Zentarim Tactics.
+
+543
+00:45:35.820 --> 00:45:38.860
+Joe Beda: There's Zintarum Ruffian, which is a…
+
+544
+00:45:39.390 --> 00:45:42.970
+Kostadis Roussos: Centurum are evil, just, they're kind of, like, on the dark side of things.
+
+545
+00:45:42.970 --> 00:45:45.240
+Joe Beda: Yeah, you're thinking I shouldn't want to do that?
+
+546
+00:45:45.240 --> 00:45:46.879
+Kostadis Roussos: I'm just thinking, you know…
+
+547
+00:45:48.690 --> 00:45:51.820
+Gabe: That would be a whole change of character for you.
+
+548
+00:45:51.820 --> 00:45:53.819
+Joe Beda: Well, I mean, I can work it into my story.
+
+549
+00:45:54.260 --> 00:46:04.410
+Kostadis Roussos: I'm okay with that. That is, you know, you've had a dark transition, you know? You've fought, like, you know, maybe the whole happy-go-lucky hill giant guy.
+
+550
+00:46:08.190 --> 00:46:12.550
+Kostadis Roussos: It, it, I, it definitely, it definitely can be made to work, I'm just gonna make that…
+
+551
+00:46:12.760 --> 00:46:14.790
+Joe Beda: I know, I've gotta figure out what I wanna do.
+
+552
+00:46:26.650 --> 00:46:29.839
+Kostadis Roussos: Also, don't forget, you found that spellbook with all those spells, right? So…
+
+553
+00:46:29.840 --> 00:46:30.580
+Mike Hall: Yeah.
+
+554
+00:46:31.650 --> 00:46:38.660
+Mike Hall: part of why I think the Fae Touched might be good, because then I have… I can… I can prepare additional spells.
+
+555
+00:46:52.590 --> 00:46:56.620
+Kostadis Roussos: Having Misty Step is a very useful thing for a wizard.
+
+556
+00:46:57.070 --> 00:46:59.369
+Mike Hall: I had already had Misty Step.
+
+557
+00:46:59.370 --> 00:47:03.920
+Kostadis Roussos: No, but being able to cast the spell without… Expending a spell slot.
+
+558
+00:47:04.300 --> 00:47:04.990
+Mike Hall: Yes.
+
+559
+00:47:05.510 --> 00:47:07.539
+Kostadis Roussos: Is extremely useful for a wizard.
+
+560
+00:47:08.810 --> 00:47:16.460
+Kostadis Roussos: Because if you're in your combat, it allows you to get out of the combat with a… without incurring attack of opportunities.
+
+561
+00:47:18.940 --> 00:47:19.630
+Mike Hall: Nice.
+
+562
+00:47:19.820 --> 00:47:22.489
+Kostadis Roussos: It allows you to get out of a grappled situation.
+
+563
+00:47:29.480 --> 00:47:33.069
+Joe Beda: Alright, so now they're calling it D&D 5.5, they didn't call that before.
+
+564
+00:47:33.500 --> 00:47:35.669
+Kostadis Roussos: Yeah, they did. They, they, you know…
+
+565
+00:47:35.780 --> 00:47:49.289
+Kostadis Roussos: there was this whole idea that they were gonna call it 1D&D, and they were gonna give it a version number, and it was all gonna be, like, 1D&D, and I'm sure the release management team kept coming to them and saying, you know, well, how do we patch this in here? And, like, you know, there's these two different code streams, and…
+
+566
+00:47:53.120 --> 00:48:03.040
+Kostadis Roussos: I'm just, you know… every time any one of these things happen, I'm imagining the meeting of where it happened, and unfortunately, it probably did happen exactly the way I think it did, and…
+
+567
+00:48:03.250 --> 00:48:04.660
+Kostadis Roussos: And I hate my life.
+
+568
+00:48:22.820 --> 00:48:24.669
+Mike Hall: What is my current intelligence?
+
+569
+00:48:27.460 --> 00:48:28.989
+Mike Hall: I can't remember…
+
+570
+00:48:35.110 --> 00:48:39.470
+Mike Hall: Can I get out of upgrading this so I can see where I'm at?
+
+571
+00:48:48.660 --> 00:48:50.390
+Joe Beda: There's a general feat, okay.
+
+572
+00:48:52.420 --> 00:48:58.649
+Joe Beda: Okay, so, yeah, RPGBot lists this whole table of general feats, and none of them are showing up in D&D Beyond.
+
+573
+00:49:00.620 --> 00:49:02.559
+Mike Hall: Alright, Intelligence is one more.
+
+574
+00:49:03.720 --> 00:49:04.560
+Mike Hall: Okay.
+
+575
+00:49:04.560 --> 00:49:06.719
+Gabe: Joe, are they from different sources?
+
+576
+00:49:08.520 --> 00:49:12.370
+Gabe: Like, RPGBot will list the source next to the…
+
+577
+00:49:12.370 --> 00:49:17.500
+Joe Beda: Yeah, I'm just like… so, like, if I look at, like… I don't know if I want this one, but, like, if I look at this…
+
+578
+00:49:20.200 --> 00:49:23.159
+Joe Beda: Bloodlust… bloodlust feat, right?
+
+579
+00:49:24.800 --> 00:49:26.610
+Joe Beda: Okay, no, that one does show up.
+
+580
+00:49:27.520 --> 00:49:29.100
+Joe Beda: Okay, some of the other ones didn't.
+
+581
+00:49:30.140 --> 00:49:32.549
+Joe Beda: Maybe they only apply to certain types of characters.
+
+582
+00:49:44.120 --> 00:49:47.859
+Joe Beda: Well, some of them are stacked on top of other things. Okay, maybe I'm confused.
+
+583
+00:49:48.700 --> 00:49:49.790
+Joe Beda: Man, the…
+
+584
+00:49:49.790 --> 00:49:52.559
+Kostadis Roussos: Man, RPGBot has gone full advertising.
+
+585
+00:49:52.560 --> 00:49:56.750
+Joe Beda: Dude, it is jumping around like nobody's business. I'm like, what the hell's going on here?
+
+586
+00:49:56.950 --> 00:49:59.129
+Kostadis Roussos: Well, you know, the guy's gotta make money somehow.
+
+587
+00:49:59.680 --> 00:50:05.050
+Joe Beda: Oh, no, I think some of them actually have a prerequisite feat that I don't have, so that makes sense, okay.
+
+588
+00:50:10.490 --> 00:50:12.669
+Kostadis Roussos: Oh, did you see that thing I sent you, Gabe?
+
+589
+00:50:14.090 --> 00:50:17.959
+Kostadis Roussos: The guy who figured… the guy who pulled together, like, the ultimate rule lawyer?
+
+590
+00:50:18.130 --> 00:50:24.839
+Gabe: I saw that. I haven't studied it, but I appreciated the concept. I like it. I'll have to read through it.
+
+591
+00:50:24.840 --> 00:50:30.379
+Kostadis Roussos: Like, dude, you can actually go to his website, and he will, like, he will actually simulate combats.
+
+592
+00:50:32.410 --> 00:50:34.649
+Kostadis Roussos: Perfectly, using the rules.
+
+593
+00:50:35.780 --> 00:50:37.760
+Gabe: I mean, that sounds awesome.
+
+594
+00:50:37.760 --> 00:50:42.780
+Kostadis Roussos: Yeah, I know, I just, like, I was thinking to myself, I was saying, Gabe will spend hours thinking through…
+
+595
+00:50:44.650 --> 00:50:49.739
+Kostadis Roussos: And it's your… So it's worth reading to see how he came up with them, because it wasn't, like.
+
+596
+00:50:51.220 --> 00:50:54.289
+Kostadis Roussos: In other words, like, he had to both debug the rules.
+
+597
+00:50:54.730 --> 00:50:58.040
+Kostadis Roussos: He actually literally found plenty of bugs in the rules.
+
+598
+00:50:58.360 --> 00:51:00.530
+Gabe: Huh. Nice.
+
+599
+00:52:02.410 --> 00:52:06.790
+Mike Hall: I wish they hotlinked the actual spell, or feet, or whatever.
+
+600
+00:52:06.790 --> 00:52:07.999
+Joe Beda: Yeah, it's annoying.
+
+601
+00:53:34.060 --> 00:53:37.339
+Joe Beda: So what defines your proficiency bonus?
+
+602
+00:53:37.880 --> 00:53:45.830
+Kostadis Roussos: It ranks… goes up with levels, so level 1, it's 2, level 5, it's 3, level… 10, it's…
+
+603
+00:53:46.860 --> 00:53:51.370
+Kostadis Roussos: 4… I mean, it goes up, like… For level 15, it's 5.
+
+604
+00:53:51.770 --> 00:53:52.120
+Joe Beda: Okay.
+
+605
+00:53:52.120 --> 00:53:53.169
+Kostadis Roussos: I don't know…
+
+606
+00:53:53.170 --> 00:53:55.320
+Joe Beda: There's nothing else that influences, it's just level.
+
+607
+00:53:55.450 --> 00:53:56.240
+Kostadis Roussos: Yeah.
+
+608
+00:55:41.130 --> 00:55:41.960
+Joe Beda: Don't friggin' know.
+
+609
+00:55:53.210 --> 00:55:57.919
+Mike Hall: Okay… Now I have to go mess with my spells.
+
+610
+00:56:29.670 --> 00:56:33.569
+Joe Beda: So part of my build is that my strength is currently 18.
+
+611
+00:56:35.320 --> 00:56:40.569
+Kostadis Roussos: In general, increasing your strength, Increasing your max…
+
+612
+00:56:40.700 --> 00:56:42.109
+Joe Beda: It's 19.
+
+613
+00:56:42.450 --> 00:56:43.200
+Kostadis Roussos: No, it's increasing.
+
+614
+00:56:43.200 --> 00:56:44.529
+Joe Beda: this one thing, yeah.
+
+615
+00:56:44.890 --> 00:56:48.179
+Kostadis Roussos: So, so increasing it… to 20…
+
+616
+00:56:48.330 --> 00:56:51.330
+Kostadis Roussos: Is, like, the most obvious mechanical thing to do.
+
+617
+00:56:53.750 --> 00:56:58.759
+Kostadis Roussos: Okay. Right. But 18 is pretty close to the maximum, so…
+
+618
+00:56:58.760 --> 00:57:06.210
+Joe Beda: That's kind of where I'm at right now, and some of these things are like, increase your strength by 1 to a maximum of 20, and I'm like, well, if I can't go over 20, what even is the point?
+
+619
+00:57:06.390 --> 00:57:07.950
+Kostadis Roussos: Because you can do it later.
+
+620
+00:57:08.290 --> 00:57:09.070
+Joe Beda: Oh, okay.
+
+621
+00:57:10.300 --> 00:57:10.870
+Kostadis Roussos: Right.
+
+622
+00:57:11.610 --> 00:57:18.760
+Kostadis Roussos: And then if you pursue the Gabe theory of micro-optimization, what you will do is you will look for… you will not do the…
+
+623
+00:57:20.390 --> 00:57:27.110
+Kostadis Roussos: Buffing… by the way, the game theory of micro-optimization has been used in my current run of Baldur's Gate.
+
+624
+00:57:28.290 --> 00:57:34.400
+Kostadis Roussos: Where I discovered that I didn't need to increase my strength to 20, because I just get potions of giant strength.
+
+625
+00:57:35.630 --> 00:57:41.369
+Joe Beda: Okay, so I'm the type, when I play these games, I'm always like, oh, I don't know, I'm gonna save this potion for later, I might need it.
+
+626
+00:57:41.370 --> 00:57:42.890
+Kostadis Roussos: Which is like, I know it's the worst.
+
+627
+00:57:42.890 --> 00:57:45.290
+Joe Beda: Wrong strategy, but that's just how I roll.
+
+628
+00:57:45.290 --> 00:57:47.200
+Kostadis Roussos: Yeah, just burn the potions.
+
+629
+00:57:47.200 --> 00:57:50.639
+Joe Beda: Burn the things and, like, just use them, don't save them for later.
+
+630
+00:57:50.640 --> 00:57:56.740
+Kostadis Roussos: I learned the other thing about this game, is you want… resource management is tricky.
+
+631
+00:58:38.310 --> 00:58:45.690
+Joe Beda: And some of these have mechanics that we don't use that much, like climbing or jumping, I mean, like, we just don't encounter that that much.
+
+632
+00:58:46.540 --> 00:58:48.520
+Joe Beda: I'm looking at athlete as a feat.
+
+633
+00:58:52.740 --> 00:58:53.460
+Kostadis Roussos: Yes.
+
+634
+00:59:23.240 --> 00:59:24.990
+Mike Hall: Gusara's question.
+
+635
+00:59:25.600 --> 00:59:32.759
+Mike Hall: Because I have my ability to shape, spells. If I'm calling Cloud of Daggers on an enemy.
+
+636
+00:59:33.180 --> 00:59:38.929
+Mike Hall: that one of my allies has grappled, I can keep the daggers from hitting my ally, right?
+
+637
+00:59:39.210 --> 00:59:43.690
+Kostadis Roussos: Let me just make sure, but I think the answer is yes. Shape.
+
+638
+00:59:43.690 --> 00:59:46.060
+Mike Hall: and move… it's called Cloud of Daggers.
+
+639
+00:59:46.940 --> 00:59:54.680
+Kostadis Roussos: Cloud of daggers and… 85th edition, and Shaping of… Shaping spell.
+
+640
+01:00:03.320 --> 01:00:05.550
+Mike Hall: Although, I don't… Sweet.
+
+641
+01:00:06.000 --> 01:00:07.959
+Mike Hall: So I need to add it to my spill box.
+
+642
+01:00:35.070 --> 01:00:37.830
+Joe Beda: Alright, I'm gonna do Shield Master, so now I can Shield Bash.
+
+643
+01:00:48.180 --> 01:00:50.570
+Joe Beda: And that does take my strength up to 19.
+
+644
+01:00:56.130 --> 01:01:03.459
+Kostadis Roussos: Though, typically, no, because Sculpt is supposed to be around a character, and so when a character's on a character, those don't really apply.
+
+645
+01:01:03.960 --> 01:01:04.670
+Mike Hall: Okay.
+
+646
+01:01:05.590 --> 01:01:13.029
+Kostadis Roussos: So area of effect, that is one of the advantages that swarms have, is that area of effect spells affect both the target and the…
+
+647
+01:01:15.160 --> 01:01:18.040
+Kostadis Roussos: And so it would be… it would, it would.
+
+648
+01:01:34.330 --> 01:01:35.480
+Joe Beda: Okay, that's a good one.
+
+649
+01:01:36.640 --> 01:01:38.110
+Joe Beda: Speedy looks good, too.
+
+650
+01:01:38.110 --> 01:01:43.750
+Kostadis Roussos: So it does have some interesting use cases with Grapple and, gabe.
+
+651
+01:01:46.120 --> 01:01:46.560
+Gabe: Which phone?
+
+652
+01:01:46.560 --> 01:01:47.480
+Mike Hall: How would it?
+
+653
+01:01:47.840 --> 01:01:55.109
+Kostadis Roussos: Well, if you cast Cloud of Daggers on somebody that Zoltair has grappled, the person can't move out of that location.
+
+654
+01:01:55.110 --> 01:01:59.270
+Mike Hall: Right, right, so they continue to receive the damage. That's what I was thinking. Yeah.
+
+655
+01:01:59.270 --> 01:01:59.700
+Kostadis Roussos: So, so…
+
+656
+01:01:59.700 --> 01:02:01.260
+Mike Hall: But he also received the damage?
+
+657
+01:02:01.260 --> 01:02:05.120
+Kostadis Roussos: No, because he's holding onto them, he's not in the same physical space.
+
+658
+01:02:07.120 --> 01:02:08.240
+Mike Hall: Okay, so yeah.
+
+659
+01:02:08.240 --> 01:02:10.050
+Kostadis Roussos: Right, right, so, so Grapple… okay.
+
+660
+01:02:10.320 --> 01:02:14.690
+Kostadis Roussos: Grapple does not mean I pull them into my physical 5-foot box.
+
+661
+01:02:14.920 --> 01:02:15.750
+Mike Hall: Okay.
+
+662
+01:02:19.100 --> 01:02:25.339
+Mike Hall: Yeah, then I definitely want to do that, because that's what I read, and I was like, oh, this'll be good, because then as long as I'm not hitting.
+
+663
+01:02:25.340 --> 01:02:34.220
+Kostadis Roussos: Yeah, no, it is definitely the case that if you… grapple does not imply… it implies I'm holding you like that, if you can see in D&D Beyond. Sorry, in Rule 20.
+
+664
+01:02:34.530 --> 01:02:37.790
+Kostadis Roussos: does not imply… I'm on top of you.
+
+665
+01:02:38.280 --> 01:02:38.990
+Mike Hall: Okay.
+
+666
+01:02:42.200 --> 01:02:49.989
+Kostadis Roussos: That's why, for example, people can target him with area of… a grappled target with area of effect dispel. I mean, the whole point of grapple is you hold a person there.
+
+667
+01:02:51.010 --> 01:02:54.269
+Kostadis Roussos: Right? And if you have two hands, you can grapple two people.
+
+668
+01:02:54.950 --> 01:02:55.640
+Mike Hall: Okay.
+
+669
+01:02:56.420 --> 01:02:57.899
+Kostadis Roussos: Which Gabe has never done.
+
+670
+01:03:01.750 --> 01:03:02.700
+Gabe: Never.
+
+671
+01:03:02.950 --> 01:03:06.759
+Kostadis Roussos: I mean, yes, because otherwise, how would you punch them? How would you slap them?
+
+672
+01:03:06.780 --> 01:03:08.590
+Gabe: Right?
+
+673
+01:03:17.220 --> 01:03:18.290
+Mike Hall: Actually…
+
+674
+01:03:19.230 --> 01:03:20.220
+Kostadis Roussos: So what did you go with?
+
+675
+01:03:22.800 --> 01:03:23.390
+Mike Hall: Boom.
+
+676
+01:03:23.390 --> 01:03:28.189
+Joe Beda: Oh, me, I think I'm gonna do Speedy.
+
+677
+01:03:29.140 --> 01:03:34.950
+Joe Beda: and take a… start… like, my DEX is at 8, that's too low, I kind of want to get that up to 10.
+
+678
+01:03:35.820 --> 01:03:37.759
+Joe Beda: And that lets me…
+
+679
+01:03:38.330 --> 01:03:47.210
+Joe Beda: move an extra 10 feet, because we've… we found ourselves in a lot of situations where we're, like, far apart, and, like, since I suck at range, if I can close faster, I'm in good shape.
+
+680
+01:03:47.210 --> 01:03:55.559
+Kostadis Roussos: No, no, no, no, I think that's actually a really good idea. Like, I think going… for you, going faster is a really, really useful… useful ability, especially since you can't…
+
+681
+01:03:56.090 --> 01:03:58.740
+Kostadis Roussos: Your limited… your range weapons are limited.
+
+682
+01:03:59.180 --> 01:04:04.720
+Joe Beda: Yeah, and then lets me dash over difficult terrain without actually costing extra movement.
+
+683
+01:04:04.720 --> 01:04:12.460
+Kostadis Roussos: Well, I think that's a great ability, especially for a fighter. You know, you and the monk can almost keep up with each other.
+
+684
+01:04:12.600 --> 01:04:24.540
+Joe Beda: And so, the question is, though, is that do I want to take the plus one to my decks or my constitution? And I think the decks is probably where I want to be. I… either way, my decks is currently 8, and my constitution is 16.
+
+685
+01:04:24.720 --> 01:04:25.850
+Joe Beda: And I don't think that.
+
+686
+01:04:25.850 --> 01:04:30.050
+Kostadis Roussos: No, so the one downside of taking it is…
+
+687
+01:04:32.520 --> 01:04:35.269
+Kostadis Roussos: You don't get any benefit until it goes to an even number.
+
+688
+01:04:35.270 --> 01:04:37.240
+Joe Beda: Right, but all my stats are even, so, like.
+
+689
+01:04:37.240 --> 01:04:38.040
+Kostadis Roussos: Alright.
+
+690
+01:04:38.040 --> 01:04:38.620
+Joe Beda: Yeah.
+
+691
+01:04:39.210 --> 01:04:44.810
+Joe Beda: No, that's kind of where I'm at. I know you're, like, it's a… it's a multi… multi-level priority.
+
+692
+01:04:44.810 --> 01:04:49.269
+Kostadis Roussos: Right, so the only question… the only thing to think about is that it depends on what your goal…
+
+693
+01:04:50.090 --> 01:04:52.689
+Joe Beda: I mean, right now, my armor class is 20,
+
+694
+01:04:54.790 --> 01:04:57.170
+Joe Beda: So I'm not sure, like… I mean, more.
+
+695
+01:04:57.170 --> 01:05:01.159
+Kostadis Roussos: Dexterity helps in other… Dexterity helps in other places.
+
+696
+01:05:01.160 --> 01:05:08.579
+Joe Beda: Yeah, I think, I think, like, boosting the decks, when I built the thing, going that low on decks, I'm not sure that was a good idea. I think I kind of wish.
+
+697
+01:05:08.580 --> 01:05:10.649
+Kostadis Roussos: It was a choice. It was a choice.
+
+698
+01:05:11.730 --> 01:05:13.370
+Joe Beda: But, you know, learn, live and learn.
+
+699
+01:05:17.030 --> 01:05:31.540
+Mike Hall: Okay, I have all my spells repopulated. That was pretty cool. I did the Fey Touch thing, and I had already chosen the two spells that the Fae Touch gives me for free, so I was able to delete those from my Learn spellbook and learn additional ones.
+
+700
+01:05:31.910 --> 01:05:34.380
+Mike Hall: And it opened up the number of spells that I have.
+
+701
+01:05:34.980 --> 01:05:37.570
+Joe Beda: Now, do we rest also? Do I… do we get a long rest?
+
+702
+01:05:37.570 --> 01:05:44.509
+Kostadis Roussos: Well, we're currently leveling everybody up, but there's not gonna be any combats here, so unless you're low on spells, I don't think this will matter.
+
+703
+01:05:44.840 --> 01:05:48.080
+Joe Beda: I mean, I could do it healing, but…
+
+704
+01:05:49.600 --> 01:05:50.350
+Kostadis Roussos: It won't be an incumbent.
+
+705
+01:05:50.350 --> 01:05:50.920
+Mike Hall: another half.
+
+706
+01:05:50.920 --> 01:05:52.550
+Joe Beda: Oh, they're not gonna be a comment? Okay, then I won't…
+
+707
+01:05:52.550 --> 01:05:54.629
+Kostadis Roussos: I mean, unless you guys provoke it…
+
+708
+01:05:54.980 --> 01:05:55.760
+Joe Beda: I mean…
+
+709
+01:05:56.530 --> 01:05:57.230
+Kostadis Roussos: I mean, I forgot.
+
+710
+01:05:57.230 --> 01:05:59.210
+Joe Beda: Nevertheless, right?
+
+711
+01:05:59.550 --> 01:06:07.650
+Kostadis Roussos: Well, no, strictly speaking, there was no… there was, like, the battle started, I wanted to get… since… since Greg was in here, I figured I would do the level everybody up.
+
+712
+01:06:09.160 --> 01:06:15.649
+Kostadis Roussos: and deal with the Joe Beta and Mike, Mark, and Mike Hall and Gabe micro-optimization.
+
+713
+01:06:16.030 --> 01:06:18.180
+Joe Beda: Dude, I suck at this, I'm not Gabe, I mean…
+
+714
+01:06:18.180 --> 01:06:19.580
+Kostadis Roussos: No, no, no, hey, no, I should plan.
+
+715
+01:06:19.580 --> 01:06:23.890
+Joe Beda: more, I'd be like, okay, I'm gonna ask fucking, like, Gemini, because that's the…
+
+716
+01:06:23.890 --> 01:06:24.930
+Gabe: There you go.
+
+717
+01:06:24.930 --> 01:06:27.040
+Joe Beda: I'm like, oh, jeez.
+
+718
+01:06:28.170 --> 01:06:28.800
+Joe Beda: Okay.
+
+719
+01:06:30.330 --> 01:06:33.229
+Joe Beda: Can I, like, export this as a PDF and feed it to Gemini?
+
+720
+01:06:33.230 --> 01:06:33.920
+Kostadis Roussos: Oh.
+
+721
+01:06:34.120 --> 01:06:35.020
+Kostadis Roussos: Ugh.
+
+722
+01:06:35.790 --> 01:06:38.769
+Kostadis Roussos: I wrote a tool to convert it to Markdown, rather…
+
+723
+01:06:39.550 --> 01:06:40.099
+Joe Beda: Oh, yeah.
+
+724
+01:06:40.100 --> 01:06:44.920
+Kostadis Roussos: converting it to Markdown turns out to be a trivial, tricky thing to do.
+
+725
+01:06:45.340 --> 01:06:47.400
+Joe Beda: Convert what to Markdown? The PDF, or the…
+
+726
+01:06:47.400 --> 01:06:48.470
+Kostadis Roussos: Yeah, the PDF.
+
+727
+01:06:52.450 --> 01:06:53.660
+Kostadis Roussos: But you can do it.
+
+728
+01:06:54.700 --> 01:06:56.269
+Joe Beda: I'm just trying to see if I can…
+
+729
+01:06:58.550 --> 01:07:00.570
+Kostadis Roussos: So you go to… you just download it and…
+
+730
+01:07:01.400 --> 01:07:02.940
+Joe Beda: Yeah, where do you download it? I don't know.
+
+731
+01:07:03.130 --> 01:07:08.380
+Kostadis Roussos: You go Manage Level, you go to Manage, the last option at the bottom of the list is Export to PDF.
+
+732
+01:07:08.380 --> 01:07:09.470
+Joe Beda: Oh, gotcha.
+
+733
+01:07:18.280 --> 01:07:20.599
+Joe Beda: I'll just give it the PDF and see what it does.
+
+734
+01:07:22.230 --> 01:07:24.740
+Joe Beda: No, not my… tax payment.
+
+735
+01:07:51.710 --> 01:07:53.840
+Joe Beda: I'm not holding out hope for a great answer from…
+
+736
+01:07:55.110 --> 01:07:56.230
+Kostadis Roussos: What's your question?
+
+737
+01:07:58.320 --> 01:08:01.079
+Joe Beda: I said, which feat should I pick? I'm gonna see.
+
+738
+01:08:03.040 --> 01:08:05.180
+Kostadis Roussos: Oh, that's a terrible way to ask the question.
+
+739
+01:08:05.660 --> 01:08:10.669
+Kostadis Roussos: Dude, it's clear that you need to go back to.
+
+740
+01:08:10.670 --> 01:08:13.250
+Joe Beda: I ask it. I mean, I know… Oh, okay.
+
+741
+01:08:13.250 --> 01:08:19.950
+Kostadis Roussos: I'm playing this character in the, you know, out of the abyss.
+
+742
+01:08:20.100 --> 01:08:31.459
+Kostadis Roussos: You know, you are… I'm looking to optimize them to achieve whatever outcome you're optimizing for, or even better, I don't know which outcome I want to optimize for, so ask me some questions.
+
+743
+01:08:38.210 --> 01:08:43.169
+Kostadis Roussos: And we say, I like my character build, but what I don't like about it is that he doesn't have ranged options.
+
+744
+01:08:44.390 --> 01:08:45.029
+Joe Beda: Yeah.
+
+745
+01:08:46.180 --> 01:08:49.389
+Kostadis Roussos: Ask me some questions so that we can figure out what to do.
+
+746
+01:08:53.240 --> 01:08:56.119
+Kostadis Roussos: As you can tell, I have become one with the AI.
+
+747
+01:09:01.000 --> 01:09:03.600
+Kostadis Roussos: But my new job is to work on AI, so…
+
+748
+01:09:03.899 --> 01:09:05.219
+Joe Beda: I'm figuring this shit out.
+
+749
+01:09:05.460 --> 01:09:12.199
+Kostadis Roussos: Literally, I am… my job these days is to figure out AI stuff for Nutanix.
+
+750
+01:09:13.020 --> 01:09:14.290
+Gabe: Is it actually?
+
+751
+01:09:14.290 --> 01:09:19.560
+Kostadis Roussos: Yeah, no, no, they, they, they,
+
+752
+01:09:20.000 --> 01:09:36.080
+Kostadis Roussos: the CTO… I mean, we made a whole bunch of announcement at .next, and so the CTO said to me, Castadis, you solved this whole, what we're doing with our cloud strategy, so could you go figure out what AI is? You know, this cloud thing's under control. But we barely got it started, man.
+
+753
+01:09:36.080 --> 01:09:36.700
+Gabe: Mmm.
+
+754
+01:09:36.920 --> 01:09:49.659
+Kostadis Roussos: Like, we barely got it started. He's like, yeah, yeah, yeah. I'm like, yes, this is… this is the difference between being a multi… $10 billion company and a $3 billion company.
+
+755
+01:09:49.899 --> 01:09:59.030
+Kostadis Roussos: We don't have anybody else to work on this status, so I… yes, I had to go from not knowing anything about AI to I've gotten, actually.
+
+756
+01:09:59.630 --> 01:10:02.249
+Kostadis Roussos: Quite a crash course over the last 8 weeks.
+
+757
+01:10:03.080 --> 01:10:07.239
+Kostadis Roussos: My whole team had to go from what is AI to…
+
+758
+01:10:08.130 --> 01:10:11.099
+Kostadis Roussos: We're now arguing over very nuanced details.
+
+759
+01:10:12.400 --> 01:10:12.730
+Gabe: Nice.
+
+760
+01:10:12.970 --> 01:10:15.400
+Kostadis Roussos: In 6 weeks, it was kind of crazy.
+
+761
+01:10:16.980 --> 01:10:24.819
+Kostadis Roussos: But one of the side effects was I figured I better, like, actually use the technology, so, like, I have some visceral feel for how it works and what its limits are.
+
+762
+01:10:25.680 --> 01:10:34.510
+Kostadis Roussos: That's why… that's why you saw all those updates. It's more… it wasn't, you know, it was like, my day job required me to become an expert in this, and I was like, okay, I better really get a feel for it.
+
+763
+01:10:34.800 --> 01:10:36.100
+Gabe: Huh? Makes sense.
+
+764
+01:10:41.810 --> 01:10:48.039
+Kostadis Roussos: It's very depressing when I said, yeah, you've made exactly the same mistake that everybody who's ever used AI makes.
+
+765
+01:10:53.310 --> 01:10:56.890
+Kostadis Roussos: So, what I learned, again, Is that…
+
+766
+01:10:57.180 --> 01:11:05.019
+Kostadis Roussos: AI… the reason AI gets people excited and disappointed is that the first analysis it makes is it's most accurate, unprompted.
+
+767
+01:11:08.080 --> 01:11:13.560
+Kostadis Roussos: And then after that, every subsequent attempt at precision is worse.
+
+768
+01:11:17.250 --> 01:11:28.619
+Kostadis Roussos: And so you have to guide it a lot more after the first one. So if you just tell it, give me an idea, it gives you a great starting point. You're like, great, it could probably do better, but it turns out that's the best it will ever do.
+
+769
+01:11:31.020 --> 01:11:47.990
+Kostadis Roussos: So, like, when I was creating my D&D summaries, like, the first time I gave it everything, it created something that was pretty good, but then every time I tried to get at something more accurate, it sucked. Finally, I learned that the first thing it built was the most accurate it was ever gonna do, and so if I wanted something that was better, I had to give it specific instructions.
+
+770
+01:11:48.910 --> 01:11:58.539
+Kostadis Roussos: And so what happens is you go from, like, this approximation where you use it to give you an approximate bucket, and then you have to flip it around and use it as a renderer.
+
+771
+01:12:00.750 --> 01:12:11.880
+Kostadis Roussos: Right? So, like, the first thing is, here's this general idea, but once you want to get something done, you're actually transitioning from, give me an idea, to I want you to do this, this, this, this, and it's essentially rendering your instructions.
+
+772
+01:12:15.190 --> 01:12:23.669
+Kostadis Roussos: it was a very kind of like, oh, I had said this before, but now I realize that it's actually true, and it's not just me spewing.
+
+773
+01:12:43.290 --> 01:12:54.379
+Joe Beda: Alright, so it's suggesting that I might want to consider a sharpshooter, because I can use that with Javelins, and the long range with the Javelin is no longer at disadvantage with that.
+
+774
+01:13:04.160 --> 01:13:05.840
+Kostadis Roussos: That's an interesting question.
+
+775
+01:13:07.550 --> 01:13:10.640
+Kostadis Roussos: Javelins, strength or dexterity based?
+
+776
+01:13:10.640 --> 01:13:11.770
+Joe Beda: They're strength-based.
+
+777
+01:13:11.770 --> 01:13:14.659
+Kostadis Roussos: Oh, dude, yeah, dude, that… that is actually a good idea.
+
+778
+01:13:15.180 --> 01:13:19.650
+Kostadis Roussos: Plus, I think Sharpshooter also gives you other advantages, if I'm not… it gives you the…
+
+779
+01:13:19.650 --> 01:13:21.409
+Joe Beda: So, let me, let me see…
+
+780
+01:13:21.530 --> 01:13:25.430
+Joe Beda: I'll have to buy some javelins the next chance we get, because I don't have any, but…
+
+781
+01:13:25.430 --> 01:13:27.330
+Kostadis Roussos: Yeah, there'll be plenty of time for that.
+
+782
+01:13:29.790 --> 01:13:32.890
+Joe Beda: Yeah, I hadn't considered Sharpshooter, but, like, that's an interesting…
+
+783
+01:13:39.330 --> 01:13:41.800
+Joe Beda: Attacking at long range doesn't pose a disadvantage.
+
+784
+01:13:43.730 --> 01:13:46.029
+Joe Beda: On your ranged weapon attack rolls.
+
+785
+01:13:46.280 --> 01:13:49.389
+Joe Beda: Your ranged weapon attacks, you know, half cover and 3 quarters.
+
+786
+01:13:49.530 --> 01:13:56.929
+Joe Beda: Before you make an attack with a ranged weapon that you are proficient with, you can choose to take a minus 5 penalty over the attack roll. If the attack hits you at plus 10 to the damage.
+
+787
+01:13:57.530 --> 01:13:59.890
+Kostadis Roussos: Oh, that's the alternative to Great Weapon Master.
+
+788
+01:14:00.630 --> 01:14:01.380
+Joe Beda: Yeah.
+
+789
+01:14:01.500 --> 01:14:03.099
+Joe Beda: So if I do that…
+
+790
+01:14:03.540 --> 01:14:06.590
+Kostadis Roussos: If you do that, then you're gonna, like, start using your javelin more.
+
+791
+01:14:07.400 --> 01:14:08.050
+Joe Beda: Yeah.
+
+792
+01:14:08.660 --> 01:14:09.829
+Kostadis Roussos: Which is not a bad outcome.
+
+793
+01:14:09.830 --> 01:14:14.250
+Joe Beda: Well, and then the other thing is that I'm right now… I can su…
+
+794
+01:14:17.420 --> 01:14:19.819
+Joe Beda: Can I switch up Weapon Mastery?
+
+795
+01:14:24.310 --> 01:14:29.769
+Kostadis Roussos: I don't think so, but I'm happy to let you know. I'm not married to the rules.
+
+796
+01:14:29.770 --> 01:14:30.739
+Joe Beda: Let me see…
+
+797
+01:14:35.590 --> 01:14:37.580
+Kostadis Roussos: Don't want players to like their characters.
+
+798
+01:14:40.800 --> 01:14:44.889
+Joe Beda: But yeah, after a long rest, you can replace one of your current weapon masteries with a different one.
+
+799
+01:14:45.400 --> 01:14:46.819
+Kostadis Roussos: Oh, after a long rest?
+
+800
+01:14:46.820 --> 01:14:47.640
+Joe Beda: Yeah.
+
+801
+01:14:47.860 --> 01:14:52.559
+Kostadis Roussos: Apparently, the guys who wrote the D&D, the D&D rules understood.
+
+802
+01:14:53.810 --> 01:14:54.680
+Kostadis Roussos: At this point.
+
+803
+01:14:55.100 --> 01:14:55.830
+Joe Beda: I think.
+
+804
+01:15:02.050 --> 01:15:07.330
+Joe Beda: Oh, and then whenever you gain a new fighter level, you can step, swap your fighting style feat.
+
+805
+01:15:11.310 --> 01:15:14.709
+Joe Beda: So, I'm gonna stick with blind fighting, because that's definitely a good combo.
+
+806
+01:15:55.770 --> 01:15:57.240
+Joe Beda: Alright, so now I have…
+
+807
+01:15:57.440 --> 01:16:06.420
+Joe Beda: slow with the javelin, and so that means if I hit something with a javelin, it reduces its speed by 10 feet, so… if something's trying to kite us, I can…
+
+808
+01:16:06.540 --> 01:16:07.970
+Joe Beda: Try and keep up with it.
+
+809
+01:16:10.090 --> 01:16:10.780
+Mike Hall: Nice.
+
+810
+01:16:15.080 --> 01:16:18.859
+Joe Beda: Alright, let's see… See, that's what we do.
+
+811
+01:17:07.880 --> 01:17:13.159
+Joe Beda: Alright, this isn't bad, so now my javelins are a plus 7 to hit, 1d6 plus 4,
+
+812
+01:17:15.210 --> 01:17:17.500
+Joe Beda: And then 120 range.
+
+813
+01:17:19.540 --> 01:17:20.640
+Joe Beda: Not bad.
+
+814
+01:17:21.070 --> 01:17:22.790
+Joe Beda: Not great, but not bad.
+
+815
+01:17:35.830 --> 01:17:38.410
+Joe Beda: Oh, interesting, okay.
+
+816
+01:17:39.670 --> 01:17:41.909
+Joe Beda: It says a javelin is a melee weapon.
+
+817
+01:19:02.290 --> 01:19:05.559
+Kostadis Roussos: Joe, were you involved in the whole projects and how those set up on Google?
+
+818
+01:19:06.170 --> 01:19:08.240
+Joe Beda: Okay, so yeah, I have thoughts and stories.
+
+819
+01:19:08.420 --> 01:19:15.199
+Kostadis Roussos: Okay, I just wanted to know. I just find them extremely irritating to use, and they drive me nuts, and I'm like.
+
+820
+01:19:15.200 --> 01:19:17.519
+Joe Beda: So what do you find irritating about it?
+
+821
+01:19:17.520 --> 01:19:24.540
+Kostadis Roussos: No, I… this was not… this was… I was just like… this was not meant to be a drag on you. I find all software systems to be irritating.
+
+822
+01:19:24.540 --> 01:19:29.230
+Joe Beda: No, no, no, I'm interested, because it's like, this was one of those things where, when we were…
+
+823
+01:19:32.090 --> 01:19:38.769
+Joe Beda: When we were originally designing APIs, this was one of the first tests of deciding stuff that cut across GCP.
+
+824
+01:19:38.780 --> 01:19:52.470
+Joe Beda: Right? Whereas everything else is like a product is a product is a product, right? But, like, this was like, okay, like, what do we call, like, you know, hey, we can have an account, but clearly we need a group, so we ended up with projects and billing accounts as the two main things.
+
+825
+01:19:53.080 --> 01:19:54.100
+Joe Beda: And…
+
+826
+01:19:54.950 --> 01:20:02.220
+Joe Beda: I… and then the App Engine folks, like, there was this question around, sort of, how do App Engine apps relate to projects?
+
+827
+01:20:02.520 --> 01:20:17.330
+Joe Beda: and and I'm like, there should be multiple App Engine apps in a project, and they're like, no, the App Engine app should be the project, since now there's one-to-one, which is super stupid. And the name for projects actually came out of the same namespace as App Engine apps, which is actually a shared namespace with Gmail names, so you can't…
+
+828
+01:20:17.330 --> 01:20:23.859
+Kostadis Roussos: Okay, you summarized… okay, so I just want you to know that at Nutanix, I've had to deal with a whole bunch of people.
+
+829
+01:20:23.960 --> 01:20:31.660
+Kostadis Roussos: who… came from the GCP universe, and we're infatuated with every detail of GCP.
+
+830
+01:20:33.520 --> 01:20:35.049
+Joe Beda: Oh, no, there's warts everywhere.
+
+831
+01:20:35.050 --> 01:20:39.449
+Kostadis Roussos: Yes, yes, yes, but they worshipped on the altar of projects.
+
+832
+01:20:40.570 --> 01:20:58.119
+Joe Beda: I mean, so you either have accounts in AWS, which suck. I mean, they're clearly the worst, and the organization API is weird. I don't even understand Microsoft shit. It's like these things called subscriptions. I don't even know, right? Like, the Azure stuff never made sense to me. So, projects are at least something.
+
+833
+01:20:58.120 --> 01:21:03.700
+Kostadis Roussos: No, no, it's like… I'm not saying it's a bad thing, I'm just, like… I just, like, endured
+
+834
+01:21:05.260 --> 01:21:07.929
+Kostadis Roussos: A year of project worship.
+
+835
+01:21:09.270 --> 01:21:12.570
+Joe Beda: What do you think, like, what do you think would make it better?
+
+836
+01:21:12.820 --> 01:21:20.629
+Kostadis Roussos: Well, no, the problem was not that what would make it better, the problem was that in our case, the sum of the use cases for it are not the right ones.
+
+837
+01:21:22.820 --> 01:21:26.199
+Kostadis Roussos: Like… So, like, for example.
+
+838
+01:21:26.820 --> 01:21:34.960
+Kostadis Roussos: there was just, like, there was an impedance mismatch between how the cloud works and how on-prem works. So, for example, the cloud kind of assumes infrastructure always exists.
+
+839
+01:21:35.530 --> 01:21:40.149
+Kostadis Roussos: And you just need to assign allocations to it, whereas on on-prem, somebody's bought something first.
+
+840
+01:21:41.620 --> 01:21:42.859
+Kostadis Roussos: And so there's a hudd…
+
+841
+01:21:43.290 --> 01:21:43.700
+Joe Beda: You know.
+
+842
+01:21:44.000 --> 01:21:48.099
+Kostadis Roussos: And so, the folks who did it didn't understand this, so I had to explain it to them a lot.
+
+843
+01:21:49.300 --> 01:22:00.880
+Joe Beda: No, I mean, there's similar stuff in cloud. When you buy, like, reserved instances on Amazon, you're supposed to get guaranteed availability when you spin something up, because there are edge cases, especially when you talk about GPUs, where…
+
+844
+01:22:00.880 --> 01:22:01.340
+Kostadis Roussos: Yeah, yeah.
+
+845
+01:22:01.450 --> 01:22:02.879
+Joe Beda: enough capacity,
+
+846
+01:22:02.880 --> 01:22:08.030
+Kostadis Roussos: But… but that, like, there's… it was just… it was just very fascinating to me. I'm sorry.
+
+847
+01:22:08.030 --> 01:22:18.959
+Joe Beda: I mean, I would model that as, like, reservations, right? Like, and then provide a self-service API to be able to slash reservations between projects, and so that way, it's like, hey, if you want to give somebody a machine, you give them a machine, right?
+
+848
+01:22:18.960 --> 01:22:20.900
+Kostadis Roussos: Yeah, and that's where we ended up.
+
+849
+01:22:21.950 --> 01:22:36.739
+Kostadis Roussos: But it was just very fascinating, like… and so the reason I find projects, like, the other reason why projects always drive me nuts is because now, whenever I try to do anything with GCP where I just want to have a script that I can use across all my spreadsheets, I interact with a project framework.
+
+850
+01:22:37.900 --> 01:22:42.960
+Kostadis Roussos: And it's clearly a much bigger thing, but if I just want to share a script across four days…
+
+851
+01:22:43.280 --> 01:22:47.739
+Joe Beda: Okay, now the relationship between GCP and Google Apps?
+
+852
+01:22:48.480 --> 01:22:50.320
+Joe Beda: That's some dysfunctional bullshit.
+
+853
+01:22:50.320 --> 01:22:52.239
+Kostadis Roussos: Okay, I just want you to know that.
+
+854
+01:22:52.240 --> 01:22:52.920
+Joe Beda: What?
+
+855
+01:22:52.920 --> 01:22:54.190
+Kostadis Roussos: My problem was…
+
+856
+01:22:54.190 --> 01:23:04.630
+Joe Beda: opportunity squandered because they could have actually taken… they could have taken Google Apps and fucking supercharged it with cloud stuff, right? And it's just… the teams couldn't talk to each other.
+
+857
+01:23:04.630 --> 01:23:16.029
+Kostadis Roussos: Yeah, I just want you to know that that is literally the thing that, like, currently causes me pain, because, like, all I want to do is have this script usable in 4 different things, and, like, they have G-Drive.
+
+858
+01:23:16.760 --> 01:23:20.639
+Kostadis Roussos: They ha- like, why won't they just let me do this? But I know why.
+
+859
+01:23:20.640 --> 01:23:27.870
+Joe Beda: And then the APIs for the Google Apps stuff are just atrociously bad. I mean, just absolutely useless.
+
+860
+01:23:28.930 --> 01:23:41.550
+Joe Beda: Now, doing, like, an API for office-type apps is actually really hard, right? You know, if you dig into, like, what the automation APIs look like for Word, it's hard, but at least they tried, and they didn't…
+
+861
+01:23:41.630 --> 01:23:51.210
+Joe Beda: And it's gonna bite him in the ass now, because now you ask Gemini, hey, can you go write something for me? It doesn't know how to do fine-grain edits to an app, because it actually doesn't have API access, because.
+
+862
+01:23:51.210 --> 01:23:54.250
+Kostadis Roussos: Oh, yeah, oh yeah, yeah, dude, just, like… I know.
+
+863
+01:23:54.710 --> 01:23:55.030
+Joe Beda: It's so bad.
+
+864
+01:23:55.030 --> 01:23:55.470
+Kostadis Roussos: I know.
+
+865
+01:23:55.470 --> 01:23:59.589
+Joe Beda: I mean, and Google's kind of screwed because they didn't focus on developer frameworks there.
+
+866
+01:24:00.360 --> 01:24:07.319
+Kostadis Roussos: I know. Like, I wanted a script to do something really stupid, which was to combine four Google Docs.
+
+867
+01:24:07.720 --> 01:24:09.400
+Kostadis Roussos: into one Google Doc.
+
+868
+01:24:11.100 --> 01:24:12.790
+Joe Beda: Yeah, no, I wanted to have,
+
+869
+01:24:13.480 --> 01:24:19.320
+Joe Beda: generate a document, and it's like… and I don't think that the MCP server for Google Drive actually supports
+
+870
+01:24:19.440 --> 01:24:24.719
+Joe Beda: document creation, and so I had to generate Markdown, and I just did paste as Markdown.
+
+871
+01:24:24.720 --> 01:24:29.910
+Kostadis Roussos: Yeah, so I found that the solution to my problem was to convert everything into Markdown.
+
+872
+01:24:32.260 --> 01:24:37.579
+Joe Beda: Well, or you can, like, crack the docx format and start writing some XML, that's a good time, too.
+
+873
+01:24:37.910 --> 01:24:41.639
+Kostadis Roussos: Well, I don't have to do that anymore, I can just tell Gemini to do it, I can also…
+
+874
+01:24:43.980 --> 01:24:44.790
+Kostadis Roussos: Alright.
+
+875
+01:24:45.170 --> 01:24:48.679
+Kostadis Roussos: Has everybody sorted out… Gabe, have you sorted out your choices?
+
+876
+01:24:49.150 --> 01:24:49.970
+Gabe: Nope!
+
+877
+01:24:50.860 --> 01:24:52.429
+Kostadis Roussos: What, what, what, what, what is the comment?
+
+878
+01:24:52.430 --> 01:24:55.659
+Joe Beda: I'm getting… Con… oh, sorry, go ahead.
+
+879
+01:24:56.840 --> 01:25:04.489
+Gabe: I'm down a whole rabbit hole, because I only just learned that it is possible to restrain using
+
+880
+01:25:04.820 --> 01:25:07.930
+Gabe: Rope, and there's an associated feed for that.
+
+881
+01:25:07.930 --> 01:25:10.729
+Joe Beda: I saw that feat, and I'm like, oh, Gabe's gonna love this one.
+
+882
+01:25:12.270 --> 01:25:13.100
+Mike Hall: Nice.
+
+883
+01:25:13.530 --> 01:25:15.720
+Joe Beda: Is it the… is it Street Brawler or something like that?
+
+884
+01:25:15.720 --> 01:25:17.090
+Gabe: Street Justice, yeah.
+
+885
+01:25:17.090 --> 01:25:18.580
+Joe Beda: Street justice, yeah.
+
+886
+01:25:18.580 --> 01:25:19.070
+Gabe: Yeah.
+
+887
+01:25:19.070 --> 01:25:20.820
+Joe Beda: And you're like, this is a thing?
+
+888
+01:25:20.820 --> 01:25:23.699
+Gabe: Yeah, I hadn't noticed it before, it's intriguing.
+
+889
+01:25:28.610 --> 01:25:33.319
+Kostadis Roussos: Okay, apparently it is a fantastic option for grapple enthusiasts.
+
+890
+01:25:33.320 --> 01:25:39.100
+Gabe: Well, right, because it also gives my allies bonus against anything I've grappled.
+
+891
+01:25:39.490 --> 01:25:41.199
+Kostadis Roussos: I don't know why you wouldn't pick this.
+
+892
+01:25:41.520 --> 01:25:50.550
+Gabe: Yeah, the only rea… so, I was planning the… just the normal plus 2 to decks. Now my whole plan is thrown into chaos.
+
+893
+01:25:50.550 --> 01:25:51.520
+Kostadis Roussos: Oh my god.
+
+894
+01:25:53.080 --> 01:25:54.609
+Kostadis Roussos: Okay, I realize I…
+
+895
+01:26:02.700 --> 01:26:10.530
+Gabe: The only annoying thing is that monks can't use the tie a rope as a bonus action, so…
+
+896
+01:26:10.940 --> 01:26:13.469
+Gabe: It's not ideal, but it's still pretty good.
+
+897
+01:26:14.580 --> 01:26:18.859
+Kostadis Roussos: Oh, no, a monk can easily do this in one turn, since their martial attacks can be used to grapple.
+
+898
+01:26:19.200 --> 01:26:26.280
+Gabe: Yes, but I can't use shackles or a rope or anything. That would be an action, not a bonus action.
+
+899
+01:26:27.070 --> 01:26:32.349
+Gabe: So I can grapple, but then tying someone up would be a separate action, I think.
+
+900
+01:26:34.400 --> 01:26:35.290
+Gabe: Unless you talk…
+
+901
+01:26:35.290 --> 01:26:48.500
+Kostadis Roussos: So, I'm reading ARPGBOT. Using chains, manacles, and rope in combat is laughably easy. Your target must be grappled, incapacitated, or restrained, then you utilize an action to bind them. A monk can easily do this in one turn, since their martial attack can be used to grapple.
+
+902
+01:26:49.170 --> 01:27:03.729
+Gabe: Right, right. So, I can use… I can use my bonus action to attack and grapple, that's easy. Then I have to use my action to tie them with the rope. So, it's one turn, but it uses my complete turn.
+
+903
+01:27:03.730 --> 01:27:05.840
+Kostadis Roussos: I see, so you can't attack as well.
+
+904
+01:27:05.840 --> 01:27:08.870
+Gabe: Right, right, yeah, like, if I were…
+
+905
+01:27:08.870 --> 01:27:10.240
+Kostadis Roussos: God, there's a limit to it.
+
+906
+01:27:11.690 --> 01:27:12.740
+Gabe: Yeah.
+
+907
+01:27:14.020 --> 01:27:16.459
+Kostadis Roussos: The horrors.
+
+908
+01:27:17.440 --> 01:27:22.510
+Gabe: But you're right, I can still attack twice from the bonus action, and then tie the rope.
+
+909
+01:27:22.510 --> 01:27:24.280
+Kostadis Roussos: Plus, you can use the Kai attack.
+
+910
+01:27:24.780 --> 01:27:28.000
+Gabe: Yes, yes, my, whatever it's called, not Coyote.
+
+911
+01:27:28.000 --> 01:27:29.340
+Kostadis Roussos: He's your bonus attire.
+
+912
+01:27:29.340 --> 01:27:31.549
+Gabe: Focus. Yes, that's exactly.
+
+913
+01:27:32.400 --> 01:27:34.509
+Kostadis Roussos: I'm like, riding me a river.
+
+914
+01:27:34.510 --> 01:27:41.750
+Gabe: Come on! It could be better, but yeah, no, I'm probably going with that one.
+
+915
+01:27:41.750 --> 01:27:45.319
+Kostadis Roussos: No, to me, that's, like, the obvious Zalter move.
+
+916
+01:27:46.000 --> 01:27:46.930
+Gabe: Right?
+
+917
+01:27:47.430 --> 01:27:48.170
+Kostadis Roussos: Dad.
+
+918
+01:27:48.280 --> 01:27:54.960
+Kostadis Roussos: Yeah, it's like the obvious ulter move. I'm gonna be, like, trying to figure out ways to circumvent it for the rest of this campaign.
+
+919
+01:27:55.710 --> 01:28:05.970
+Kostadis Roussos: Like, you know what he does? He, like, uses… he ties up the big bad with the grapple, and then gives Mike the opportunity to cast Fireball.
+
+920
+01:28:06.670 --> 01:28:07.300
+Gabe: Pretty much.
+
+921
+01:28:07.300 --> 01:28:09.859
+Mike Hall: Fireballs, or the… the… the…
+
+922
+01:28:09.860 --> 01:28:11.110
+Kostadis Roussos: A lot of daggers.
+
+923
+01:28:11.350 --> 01:28:12.030
+Mike Hall: Yeah.
+
+924
+01:28:15.590 --> 01:28:16.520
+Gabe: Yeah.
+
+925
+01:28:16.740 --> 01:28:22.660
+Kostadis Roussos: maybe the Ember Enclave, the Ember Vanguard will be known as the Ember Grapple.
+
+926
+01:28:26.420 --> 01:28:28.059
+Gabe: Seems appropriate.
+
+927
+01:28:31.620 --> 01:28:39.549
+Gabe: Mike, your new… Storm… what is it? Dagger… storm… what is the thing called?
+
+928
+01:28:39.550 --> 01:28:40.700
+Mike Hall: Cloud of daggers?
+
+929
+01:28:40.700 --> 01:28:41.990
+Gabe: part of directors.
+
+930
+01:28:51.970 --> 01:28:53.189
+Mike Hall: Wait, where did it go?
+
+931
+01:28:55.240 --> 01:28:57.690
+Mike Hall: There's a… Level 2?
+
+932
+01:28:58.650 --> 01:29:00.580
+Mike Hall: Why is it not showing up on my list?
+
+933
+01:29:06.320 --> 01:29:07.480
+Mike Hall: Oh, there it is.
+
+934
+01:29:07.830 --> 01:29:10.440
+Mike Hall: Here, I can send it to the VTT.
+
+935
+01:29:16.730 --> 01:29:17.530
+Gabe: English.
+
+936
+01:29:25.910 --> 01:29:34.980
+Mike Hall: So, I can cast it… if you've grappled them, they get hit because I cast it. They also get hit at the end of the turn.
+
+937
+01:29:36.100 --> 01:29:41.719
+Mike Hall: If you move them out of it and move them back into it, they take the damage twice, is how I read it.
+
+938
+01:29:44.310 --> 01:29:47.339
+Mike Hall: But they can only take the damage once per turn.
+
+939
+01:29:48.020 --> 01:29:50.160
+Gabe: Oh, okay, okay.
+
+940
+01:29:53.580 --> 01:29:59.600
+Gabe: I mean, I will happily just drag them in and out repeatedly, depending on how many times Costatus will let them take the damage.
+
+941
+01:30:00.340 --> 01:30:00.830
+Mike Hall: But, like…
+
+942
+01:30:02.820 --> 01:30:07.349
+Kostadis Roussos: Just to be clear, it is one per turn.
+
+943
+01:30:08.740 --> 01:30:15.109
+Kostadis Roussos: As one of my… my son goes, wait, spiritual… Spiritual Guardians is an infinite damage hack.
+
+944
+01:30:16.000 --> 01:30:16.830
+Gabe: Right.
+
+945
+01:30:17.000 --> 01:30:17.880
+Gabe: Yes.
+
+946
+01:30:19.520 --> 01:30:23.999
+Kostadis Roussos: And I said, I don't care what the rules say, there's not an infinite diamond jack.
+
+947
+01:30:24.330 --> 01:30:25.030
+Gabe: That's fair.
+
+948
+01:30:35.280 --> 01:30:36.580
+Gabe: Okay, fine.
+
+949
+01:30:36.580 --> 01:30:38.620
+Joe Beda: So, gentlemen, I… oh, sorry, go ahead.
+
+950
+01:30:38.620 --> 01:30:40.229
+Gabe: No, no, I'm good, go for it.
+
+951
+01:30:40.480 --> 01:30:58.170
+Joe Beda: So, Gemini is… it convinced me to do Sharpshooter, and now it's telling me not to, and I should focus on strength, but it says, if your DM allows you to take the sharpshooter benefits, but put the plus one into strength, a common quality of life's house rule, then absolutely take it. So, can I do sharpshooter and actually put the plus one into Strength instead of Dex?
+
+952
+01:30:58.530 --> 01:30:59.680
+Kostadis Roussos: Sure.
+
+953
+01:31:01.350 --> 01:31:02.060
+Mike Hall: Nice.
+
+954
+01:31:02.510 --> 01:31:06.790
+Kostadis Roussos: I mean, you know, I've allowed Gabe to do so many other things, like, at this point in time.
+
+955
+01:31:10.350 --> 01:31:13.250
+Kostadis Roussos: This point in time, it would be, like, surely and me.
+
+956
+01:31:18.950 --> 01:31:20.099
+Mike Hall: Well, I'm excited.
+
+957
+01:31:48.820 --> 01:31:54.640
+Mike Hall: So, Joe, I found the link to the game, and I linked it in our chat, and tagged you on it.
+
+958
+01:31:54.850 --> 01:32:01.309
+Mike Hall: It looks like… it looks like he got all excited about working on it in COVID, and then it looks like it's gone dead again.
+
+959
+01:32:01.310 --> 01:32:07.679
+Joe Beda: Yeah, yeah, no, I don't… I don't know what he's doing. I think this is his own sort of, like, you know, zen rock garden.
+
+960
+01:32:08.070 --> 01:32:09.910
+Mike Hall: Yeah, yeah. Makes sense.
+
+961
+01:32:10.080 --> 01:32:11.140
+Mike Hall: But I was curious.
+
+962
+01:32:11.140 --> 01:32:11.800
+Joe Beda: Got it.
+
+963
+01:32:11.850 --> 01:32:15.269
+Joe Beda: He's fascinating, because he is, like, all in, he's like, you know.
+
+964
+01:32:15.270 --> 01:32:32.129
+Joe Beda: the superintelligence is coming. He's like, everybody wants to give me money to, like, develop a company around this stuff, but, like, I can't think of anything that won't be disrupted. I'm like, you know, you can do stuff in the meantime. So he's, like, totally an AI maximalist. It's, it's interesting to see it.
+
+965
+01:32:32.830 --> 01:32:34.760
+Mike Hall: Yeah, that is interesting.
+
+966
+01:32:35.450 --> 01:32:42.920
+Mike Hall: I got excited because, let me see if I can find it… Oh.
+
+967
+01:32:43.280 --> 01:32:49.129
+Mike Hall: I was… I don't even remember what I was doing. I was dorking around on Reddit, I think.
+
+968
+01:32:49.290 --> 01:32:52.049
+Mike Hall: And I found this. I don't know, can I share?
+
+969
+01:32:56.920 --> 01:32:59.079
+Mike Hall: I think Kestatus has to allow me to share.
+
+970
+01:32:59.080 --> 01:33:00.420
+Kostadis Roussos: Oh, do what, dwang?
+
+971
+01:33:01.140 --> 01:33:01.710
+Mike Hall: Yeah.
+
+972
+01:33:01.930 --> 01:33:03.130
+Kostadis Roussos: Allow, here.
+
+973
+01:33:03.800 --> 01:33:04.370
+Mike Hall: Okay.
+
+974
+01:33:04.880 --> 01:33:11.639
+Mike Hall: So, let me do a share… I wanna share this screen.
+
+975
+01:33:14.950 --> 01:33:18.249
+Mike Hall: This was the computer that I learned to program on.
+
+976
+01:33:19.660 --> 01:33:26.820
+Mike Hall: very young. Somebody has written a fully compatible JavaScript emulator that runs it.
+
+977
+01:33:26.820 --> 01:33:29.749
+Joe Beda: Oh, it's probably WASM, I mean, like, at the end of the day.
+
+978
+01:33:29.750 --> 01:33:30.260
+Kostadis Roussos: Oh, dude.
+
+979
+01:33:30.260 --> 01:33:33.929
+Mike Hall: Yeah, it probably is WASM, and it actually works really well.
+
+980
+01:33:33.930 --> 01:33:39.750
+Kostadis Roussos: By the way, So… John Brzezak decided to build a whole bunch of
+
+981
+01:33:39.940 --> 01:33:44.400
+Kostadis Roussos: stuff and simulators involving PDP11s and whatnots.
+
+982
+01:33:44.600 --> 01:33:45.440
+Mike Hall: Yes.
+
+983
+01:33:45.440 --> 01:33:53.619
+Kostadis Roussos: And just in case you're wondering, there is single… he decided it must have single sign-on with the correct OAuth protocols.
+
+984
+01:33:53.620 --> 01:33:55.539
+Mike Hall: Of course he did.
+
+985
+01:34:00.610 --> 01:34:06.470
+Kostadis Roussos: It was inconceivable that he would log into any of these systems without proper systems.
+
+986
+01:34:07.060 --> 01:34:08.750
+Kostadis Roussos: Of course.
+
+987
+01:34:08.750 --> 01:34:09.800
+Mike Hall: That's too funny.
+
+988
+01:34:09.800 --> 01:34:14.349
+Kostadis Roussos: He goes, I go, did you implement single sign-on? Of course.
+
+989
+01:34:15.950 --> 01:34:21.130
+Mike Hall: It's funny, because I found this emulator, and there's also, like, binary emulators.
+
+990
+01:34:21.290 --> 01:34:35.440
+Mike Hall: And I was like, I wonder if anybody has, like, a ROM set? And then I found some dude that has, like, all the old school, like, Atari and Commodore and everything cartridges and everything. Just some anonymous FTP site you can log into and download everything.
+
+991
+01:34:35.480 --> 01:34:42.240
+Mike Hall: And I basically downloaded every cartridge that was ever made for the TI-994A, which was the computer that I learned how to program on.
+
+992
+01:34:44.420 --> 01:34:47.590
+Kostadis Roussos: Alright, folks, it's 7.30. Gabe, have you sorted yourself out?
+
+993
+01:34:47.590 --> 01:34:50.310
+Gabe: Yeah, yeah, I went with the Street Justice.
+
+994
+01:34:50.850 --> 01:34:51.560
+Kostadis Roussos: You did? Okay.
+
+995
+01:34:51.560 --> 01:34:57.460
+Joe Beda: Yeah, I'm still trying to decide whether I want to take strength to 20, or… I'm gonna do sharpshooter with your rule. I'm gonna do that.
+
+996
+01:34:57.610 --> 01:35:01.319
+Kostadis Roussos: Okay, cool, so we're good to… we're good to play next week, is what I'm hearing. Awesome.
+
+997
+01:35:01.640 --> 01:35:02.170
+Joe Beda: Alright.
+
+998
+01:35:02.630 --> 01:35:03.850
+Joe Beda: See you guys later.
+
+999
+01:35:03.850 --> 01:35:09.870
+Kostadis Roussos: I mean, this is a big level, you know, this is where it feeds, you know, the whole bunch of abilities.
+
+1000
+01:35:10.680 --> 01:35:11.300
+Gabe: Yeah.
+
+1001
+01:35:11.300 --> 01:35:18.719
+Kostadis Roussos: Yes. Alright, man. Bye. I'm curious to know whether that was a hallucination on the house rule, but I'm okay with it.
+
+1002
+01:35:18.720 --> 01:35:19.300
+Gabe: It works.
+
+1003
+01:35:19.300 --> 01:35:20.990
+Joe Beda: try and find a reference, I'm like…
+
+1004
+01:35:20.990 --> 01:35:25.850
+Kostadis Roussos: No, I think it's a good idea. I find the idea that it updates dexterity to be…
+
+1005
+01:35:27.320 --> 01:35:33.430
+Kostadis Roussos: to make it useless to solve this particular problem. So it's like, I'm cool with it.
+
+1006
+01:35:35.790 --> 01:35:36.430
+Joe Beda: See ya.
+
+1007
+01:35:36.430 --> 01:35:37.710
+Gabe: Alright.
+
+1008
+01:35:37.710 --> 01:35:39.159
+Mike Hall: See you guys, have a good one.
+

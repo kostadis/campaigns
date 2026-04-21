@@ -1,34 +1,45 @@
+---
+name: Hgraam
+aliases:
+  - Hargaam
+  - Stonespeaker Hgraam
+source_extracts: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54]
+---
+
 # Hgraam
 
 ## Identity
-- **Role:** Stonespeaker — leader of the stone giants of Cairngorm Cavern, Gracklstugh
-- **Faction:** Stone Giants of Cairngorm Cavern
-- **First appearance:** The party visited him in his cavern, where he sat on a rock at the entrance to a long, well-polished tunnel in the eastern wall south of Laduguer's Furrow. Thorin was the primary interlocutor.
-
-## Additional Context
-- Dorhun and Rihaud are both apprenticed to Hgraam; they introduced themselves to Thorin at the Blade Bazaar encounter, identifying Stonespeaker Hgraam as their master.
-- The Derro ritual that drove stone giants mad involved a text called *The Rituals of the Two-Headed Beast*.
+**Role/Title:** Stonespeaker; leader of the stone giants of Cairngorm Cavern; mentor to stone giant apprentices including Dorhun and Rihaud
+**Faction:** Stone Giants of Gracklstugh
+*Also known as: Hargaam, Stonespeaker Hgraam.*
 
 ## Personality & Motivations
-Hgraam is patient, deliberate, and deeply attuned to the earth — a sage figure who listens to what "the stones tell him." He values composure and respect, showing visible disapproval of Daz's impetuousness while favoring Thorin's measured approach. He grieves the madness afflicting the Underdark and laments the deterioration of old friendships, particularly with the Deep King. His core drive is the protection and wellbeing of his people, which has ultimately led him toward isolation.
+- Patient, deliberate, and deeply attuned to the earth itself — he reads portents from the stones
+- Values calm discourse and shows visible disapproval of impetuousness (as with Daz)
+- Carries a quiet sadness over the madness spreading through the Underdark, the deterioration of his friendship with the Deep King, and the corruption of his own giants
+- Core drive is the protection and stewardship of his people, though recent events have pushed him toward withdrawal and isolation
 
 ## History with the Party
-1. **First visit — Gracklstugh:** Thorin offered condolences about a stone giant driven mad. Hgraam acknowledged the tragedy and confirmed the party tried to stop (not kill) the giant. He then delivered a cryptic prophecy about demonic evil stirring in the Underdark, listing portents ("a cave with two faces," "the pebble believes itself flesh," etc.). He directed the party toward Blingdenstone as the best route to the Dreamlands, corroborating Jimjar's claims. He shared insights about the Deep King's growing paranoia and identified **Shal** as a new advisor who has corrupted the Deep King's judgment. Before departing, he gifted the party the **Stonespeaker Crystal** (a 19-inch quartz shard granting *Speak with Animals*, *Speak with the Dead*, *Speak with Plants*, and divination aid). He chided Daz as "too hasty."
-
-2. **Second visit — Derro ritual report:** The party returned to inform Hgraam that a secret Derro ritual had been transforming his stone giants into two-headed monsters. Thorin reassured him this was the work of madmen, not representative of the Derro as a whole. Hgraam sighed, offered the party a small pile of coins, and declared the entrance to Cairngorm Cavern would be closed "for a while" — potentially a very long time by stone giant reckoning. He knew of no route to the surface world and expressed no interest in a world without stone overhead.
+1. **First Meeting:** Hgraam received the party (primarily speaking with Thorin) in Cairngorm Cavern after they encountered a stone giant driven mad. He acknowledged the party tried to stop, not kill, the giant. He delivered a cryptic prophecy about demonic evil stirring in the Underdark, listing portents ("a cave with two faces," "rock devoured," "the pebble believes itself flesh," etc.).
+2. **Information Shared:** Directed the party toward Blingdenstone as the best route to the Dreamlands. Explained the Deep King's failing grip on Gracklstugh and his growing paranoia. Identified **Shal** as a new advisor who has corrupted the Deep King's judgment and who refuses to meet Hgraam. Lamented the loss of his friendship with the Deep King.
+3. **Gift:** Presented the party with the **Stonespeaker Crystal** (a 19-inch quartz shard granting *Speak with Animals*, *Speak with the Dead*, *Speak with Plants*, and aid with divinations).
+4. **Second Visit — Derro Ritual Report:** The party returned to inform Hgraam that a secret Derro ritual (Narrak's ritual involving *The Rituals of the Two-Headed Beast*) had been transforming his stone giants into two-headed monsters. Thorin reassured him it was the work of madmen, not the Derro as a whole. Hgraam sighed, gave the party a small pile of coins, then asked them to leave, declaring Cairngorm Cavern would be closed "for a while." He knew of no route to the surface and expressed no interest in a world without stone overhead.
 
 ## Current Status
-- **Last known location:** Cairngorm Cavern, Gracklstugh — withdrawing inside and sealing the entrance.
-- **Active plans:** Isolating his people from outside threats. Grygum indicated Hgraam has the ability to reverse the two-headed transformation ritual on afflicted stone giants and would "take care of" them.
-- **Known vs. hidden:** The party knows about his prophecy, his rift with the Deep King, his suspicion of Shal, and his plan to seal the cavern. Whether he successfully reverses the transformations or what his long-term plans are remain unknown.
+- **Location:** Cairngorm Cavern, Gracklstugh — sealed or sealing the entrance
+- **Activity:** Withdrawing and isolating his people from the outside world in response to the two-headed giant threat and the broader madness
+- **Plans:** Hgraam is expected (per Grygum's assurance) to reverse the two-headed transformation on afflicted stone giants. The party is relying on this.
+- **Hidden Information:** The party does not know whether Hgraam can actually reverse the transformations or how long his isolation will last ("a while" in stone giant terms could be extremely long)
 
 ## Relationships
-- **Thorin:** Mutual respect. Hgraam treated Thorin as a worthy conversational partner and directed most of his wisdom toward him.
-- **Daz:** Disapproval. Called Daz "too hasty" and turned away from them during conversation.
-- **The Deep King:** Former friend. They once "watched the stones grow" together. Hgraam now laments the Deep King's paranoia and deterioration.
-- **Shal:** Deep suspicion. Hgraam identifies Shal as the corrupting influence on the Deep King. Shal has refused to meet with Hgraam.
-- **Grygum:** Grygum trusts Hgraam to heal the afflicted giants, suggesting a relationship of confidence among the stone giant community.
+- **Thorin:** Primary point of contact with the party. Hgraam showed him respect and preference in conversation, answering his questions directly and entrusting him with the Stonespeaker Crystal.
+- **Daz:** Visibly disapproved of Daz's impatience; called him "too hasty."
+- **The Deep King:** Former friend — they used to "watch the stones grow" together. Hgraam is saddened by the Deep King's descent into paranoia and loss of reason.
+- **Shal:** The Deep King's new advisor whom Hgraam suspects of corrupting the king. Shal refuses to meet Hgraam. A clear point of suspicion and tension.
+- **Grygum:** Fellow stone giant who told the party that Hgraam could handle the afflicted giants, reinforcing Hgraam's authority among his people.
+- **Dorhun:** Apprentice to Hgraam
+- **Rihaud:** Apprentice to Hgraam
+- **Narrak:** Antagonistic relationship — Narrak's ritual drove Hgraam's stone giants mad
 
 ## Arc Score Events
-- **Prophecy delivery:** Hgraam's portents confirmed the demonic incursions are Underdark-wide, not localized — a major narrative revelation.
-- **Cavern closure:** After learning of the Derro ritual against his people, Hgraam chose isolation, removing himself as an accessible resource for the party going forward.
+- **Decrease (trust/openness):** Learning that Derro rituals had been transforming his giants into two-headed monsters caused Hgraam to close Cairngorm Cavern and withdraw from outside contact.

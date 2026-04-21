@@ -1,0 +1,3 @@
+# New notes for Ser Kaelen (from dossier_extract_023.md)
+
+Ser Kaelen, representing the Order of the Gauntlet on the Phandalin council, expressed concern about the Kraken Society when it was raised at the council meeting, and was the only member to take it seriously, noting suspicions that powerful psionic creatures were involved. He later provided welcome news that Candlekeep research had identified the original owners of a magical item previously recovered from ships, noting this had cost the Order considerable time and money. He used this revelation as a relationship-building gesture toward Vukradin, promising rewards for returning the items while cautioning the process would not be straightforward.

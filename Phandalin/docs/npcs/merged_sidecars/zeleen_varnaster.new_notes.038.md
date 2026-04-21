@@ -1,0 +1,7 @@
+# New notes for Zeleen Varnaster (from dossier_extract_038.md)
+
+Zeleen Varnaster is the leader of the Whiskered Gang, the were-rat guards stationed at Mountain's Toe Gold Mine. When the party arrived at the mine, he greeted them with forced optimism ("Hey, boss! What's up?") and immediately tried to cover for the fact that no mining was happening. He claimed the dwarves had been "working really, really hard" despite the total absence of any mining sounds or activity.
+
+When pressed by Valphine and Brewbarry about why no gold was being produced, Zeleen explained that the dwarves needed an "Earthstone Gem" before they could mine, but argued that his crew was hired to protect the mine, not "go on fetch quests." He attempted multiple times to wriggle out of the responsibility, noting that retrieving the gem would require going into orc-infested forest, and repeatedly tried to confirm that his crew could just stay at the mine.
+
+After Valphine delivered a blistering rebuke — calling the were-rats "a waste of cheese" — Zeleen's will broke. He capitulated loudly, promising "we could make that happen, Mr. Boss. Mr. Right," and was heard screaming at his were-rats that the task was completely taken care of. He then led his delegation into the forest to retrieve the gem, motivated further by Brewbarry tapping his halberd against his palm. Valphine and Brewbarry had low confidence in his ability to succeed, prompting them to arrange a backup plan (a fake gem) with Horia Stonetallow.

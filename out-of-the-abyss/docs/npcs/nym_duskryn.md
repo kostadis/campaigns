@@ -1,30 +1,41 @@
+---
+name: Nym Duskryn
+aliases:
+  - Nym
+source_extracts: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54]
+---
+
 # Nym Duskryn
 
 ## Identity
-- Drow mercenary / contract operative, working alongside her sister Kaelira Duskryn
-- Affiliated with House Duskryn by name; relationship to Jorlan Duskryn confirmed (she refers to him as family, albeit contemptuously)
-- First appeared in a cavern battle where the party was engaged in combat; she was present on a contract to extract Daz alive
+Drow mercenary/contractor, one of the Duskryn sisters (alongside Kaelira). Hired under contract to extract Daz alive from the Underdark. Previously served as a drow soldier from Velkynvelve. *Also known as: Nym.*
 
 ## Personality & Motivations
-- **Core goal:** Complete her contract — deliver Daz alive and get paid. Everything else is secondary.
-- Nym is coldly professional, calculating, and transactional. She assesses situations through the lens of whether her job is still viable. Her frustration with obstacles is real but controlled, channeled into dry, cutting remarks rather than reckless action. She has no qualms about killing when it serves the mission — her request to kill Jorlan was delivered as a sincere operational question, not a joke.
+- **Core goal:** Complete the contract — deliver Daz alive and get paid. Everything else is secondary.
+- Coolly professional, transactional, and pragmatic. Calculates cost-benefit in real time, visibly assessing whether the contract remains viable even amid battlefield chaos.
+- Frustration manifests not as emotion but as redirected efficiency — when Daz won't cooperate, she simply finds someone she *can* kill.
+- Dutiful but pragmatic — follows orders but is not reckless about personal safety. Shows hints of smugness when proven right.
+- Holds open contempt for Jorlan Duskryn, whom she considers the family idiot.
 
 ## History with the Party
-- **Cavern Battle:** Nym and Kaelira were present on a contract to extract Daz alive. During the fight, she urged Daz to stay out of combat to preserve her payday. Daz refused, prioritizing his companions over her contract.
-- She expressed open contempt for Jorlan Duskryn, calling him "always the dumber of the ones," noted he was covered in fungus, asked permission to kill him, and subsequently hit him with a **lightning bolt**.
-- When Asha Vandree confronted the Duskryn sisters as potential traitors to Lolth, Daz defused the situation by introducing them as "friends of Lolth" assisting his cover identity. Nym was folded into Daz's deception without apparent objection.
+- **Pursuit encounter:** As a Velkynvelve soldier, Nym was among the drow scouts tracking the escaped party through tunnels. Zalthir recognized him by his distinctive gait. When Zalthir accidentally fell from hiding and made noise, Nym drew his weapon and searched the area. Grygum used Thaumaturgy to create a tremor, which convinced Nym the cave was unstable. Believing the prisoners had gone a different direction, he turned back, unaware the tremor was magical.
+- **Cavern Battle:** Later appeared alongside Kaelira to extract Daz under their mercenary contract. Urged Daz to stay out of combat to preserve her payday. Daz refused, insisting he wouldn't abandon his companions and telling her the best way to get paid was to keep fighting.
+- Frustrated by Daz's stubbornness, she asked with genuine professional inquiry whether she could kill Jorlan Duskryn — her own kin — calling him "always the dumber of the ones" and noting he was covered in fungus. She struck Jorlan with a lightning bolt during the fight, sending him staggering.
+- When Asha Vandree confronted the Duskryn sisters as potential traitors to Lolth, Daz defused the situation by introducing Nym and Kaelira as "friends of Lolth" who were there to help, folding them into his ongoing cover identity.
 
 ## Current Status
-- **Last known location:** The cavern where the battle took place
-- **Active plans:** Still presumably operating under her extraction contract for Daz, though Daz's refusal to cooperate and the battlefield chaos may have complicated this
-- **Known vs. hidden:** The party knows she's a mercenary contracted to keep Daz alive. **Who hired her and why** remains unknown. Her true loyalties beyond the paycheck are unclear.
+**Last known location:** The cavern battlefield.
+**Active operations:** Still under contract to extract Daz alive. Contract viability is uncertain given Daz's refusal to prioritize his own survival.
+**Party knowledge:** The party knows she and Kaelira are mercenaries hired to extract Daz, and that their motivation is purely financial. It is unknown who hired them or what happens if the contract fails.
 
 ## Relationships
-- **Kaelira Duskryn** — Her sister and operational partner on the extraction contract
-- **Jorlan Duskryn** — Family member she openly despises; considers him stupid, noted his fungal corruption, attacked him with lightning
-- **Daz** — Her contract target (to be kept alive). Frustrated by his refusal to cooperate but currently aligned by circumstance
-- **Asha Vandree** — Asha flagged the Duskryn sisters as potential traitors to Lolth; Daz's cover story smoothed this over, but tension may linger
-- **The Party** — No direct established relationships beyond proximity and Daz's introduction of her as an ally
+- **Kaelira Duskryn** — Her sister and partner on this contract. They operate as a unit.
+- **Daz** — Her extraction target and source of professional frustration. He refuses to cooperate with her plan to keep him safe, insisting on fighting alongside his companions. She respects (or at least tolerates) his resolve enough to keep working.
+- **Jorlan Duskryn** — A relative she holds in open contempt. She asked permission to kill him and then hit him with a lightning bolt. Described him as "always the dumber of the ones."
+- **Asha Vandree** — Asha suspected Nym of being a traitor to Lolth. The confrontation was defused by Daz's cover story, not by Nym herself.
+- **Zalthir (party member)** — Zalthir knows Nym well enough to recognize him by gait alone, suggesting prior familiarity from captivity at Velkynvelve.
+- **The Party** — Nominally allied through Daz. Her loyalty extends exactly as far as her contract. Previously was their unknowing adversary during the pursuit.
+- **Velkynvelve drow** — Former fellow soldiers in the pursuit force.
 
 ## Arc Score Events
-- None explicitly noted.
+- None noted.

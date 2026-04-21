@@ -1,38 +1,50 @@
+---
+name: Dorbo Diggermattock
+aliases:
+  - Chief Dorbo
+source_extracts: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54]
+---
+
 # Dorbo Diggermattock
 
 ## Identity
-- Chief of Clan Diggermattock; Chief of Blingdenstone
-- Faction: Clan Diggermattock (took territory in Blingdenstone from the Drow)
-- First encountered sitting behind a stone desk on a raised dais in Diggermattock Hall, where the party was brought after guards chased them down due to a sergeant failing to read Dorbo's memo about Drow escapees
+Chief of Clan Diggermattock and de facto leader of Blingdenstone's mining coalition, based in Diggermattock Hall where he is found seated behind a stone desk on a raised dais.
+
+*Also known as: Chief Dorbo.*
 
 ## Personality & Motivations
-- Profit-driven and focused on protecting the mines and economic recovery, in contrast to his wife Senni's people-first approach. Pushes for aggressive mithral extraction and economic expansion. Has been accused by citizens of caring only for wealth and neglecting the common people. Stubborn and opinionated—willing to call plans "the dumbest he's ever heard"—but can be cowed into cooperation when confronted with sufficient force of personality or silenced by Senni.
-- Shows an obsession with money that the party found "unhinged" given the existential threats facing the settlement. Chipgrin suggested this greed may be the result of demonic corruption bleeding through the Pudding King and affecting the community's leadership.
+- Profit-driven and focused on protecting the mines and extracting mithral; his economic priorities often clash with his wife Senni's people-first concerns
+- His obsession with money has been noted as seemingly unhinged given the existential threats facing the settlement; Chipgrin suggested this greed is amplified by demonic corruption bleeding through the Pudding King's influence
+- Blunt and opinionated — he openly called Grygum's gnome army distraction plan "the dumbest he had ever heard"
+- Argumentative and territorial (seen bickering with Chipgrin over newly opened territory even as oozes threatened; annoyed when Thorin intruded into his private kitchen)
+- Stubborn in his stances, particularly regarding the Gold Whisker clan
+- Capable of being moved to genuine sentiment, as when he sewed a Diggermattock Miners patch onto Thorin's gear
+- Yields to forceful leadership when outmatched in a debate, as demonstrated when Daz seized control of a discussion and stunned him into agreement
 
 ## History with the Party
-1. **First Meeting (Diggermattock Hall):** Greeted the party and asked their identity. Had a heated, visible argument with Senni over whether to help the party reach the Overbright versus leveraging them for the community's needs.
-2. **Hired the Party:** Credited by a sergeant for hiring the adventurers to deal with the ooze problem.
-3. **Ooze Report:** Reacted with alarm upon learning about the Pudding King and his army of hundreds of oozes. Called Grygum's gnome army distraction plan "the dumbest he had ever heard" but was silenced by Senni. Refused to include the Gold Whisker wererat clan, calling them squatters. After Daz seized control of the discussion and demanded cooperation, Dorbo agreed in stunned silence.
-4. **Temple Staging & Reward:** Proposed using the Temple of the Steadfast Stone as a staging area to keep oozes away from population centers. Offered a Stone of Controlling Earth Elementals as reward for dealing with Ogremoch's Bane and cleansing the temple.
-5. **Elemental Slavery Debate:** Present when the party argued against enslaving Earth Elementals for labor, comparing it to Drow slavery. Witnessed religious leaders side with the party's position.
-6. **Battle Preparations:** Addressed assembled forces, declared Daz would lead them to victory. Unveiled a two-pronged battle plan and offered three allied groups (an elemental imbued with Entemoch's power, wererats led by Chipgrin, Pickshine Miners). Accepted the party's proposal for a minimal distraction over a full-scale assault.
-7. **Trader's Grotto Argument:** Argued with Chipgrin over dividing newly opened territory even as oozes threatened defenses. Thorin tried and failed to redirect them.
-8. **Council Meeting:** Pushed for aggressive economic recovery and mithral extraction. The party brokered compromises on his behalf—wage agreements, wererat defense force (removing his military funding burden), and sustainable mining respecting ghosts' sacred grounds. Agreed to the peace arrangement and announced plans to reopen Blingdenstone for surface trade.
-9. **Honorary Gesture:** Moved by Thorin's effort winching a support beam into place, Dorbo personally sewed a Diggermattock Miners patch onto Thorin's gear, declaring him an honorary member of the mining crew.
+1. **First Meeting (Diggermattock Hall):** The party was chased down by guards after a sergeant failed to read Dorbo's memo about Drow escapees being brought to him immediately. Dorbo greeted them in Diggermattock Hall and argued with Senni over whether to help the party reach the Overbright versus leveraging them for the community's needs. He explained the ooze infestations hindering mining and housing construction, and after being confronted by Senni about his failure to address the ooze problem, agreed the party would need to deal with the ooze threat before he could help them. He shared suspicions that the Gold Whisker clan are wererats and refused to cooperate with them.
+2. **Ooze Problem Commission:** Hired the adventurers to investigate the ooze threat. When the party reported back about the Pudding King and his army of hundreds of oozes, Dorbo reacted with alarm, calling it catastrophic. He objected to plans involving the Gold Whisker wererats (whom he considered squatters) and doubted gnome soldiers could fight oozes. Daz forcefully demanded his cooperation, and after a stunned silence, Dorbo agreed to the party's terms and their plan.
+3. **Planning Session:** Was annoyed when Thorin intruded into his private kitchen, directing the party to the Foaming Bug inn instead.
+4. **Grand Moot:** Proposed attacking from the Temple of the Steadfast Stone as a staging area to keep oozes away from population centers. Offered a **Stone of Controlling Earth Elementals** as reward for dealing with Ogremoch's Bane and cleansing the temple.
+5. **Elemental Labor Debate:** Present when the party argued against enslaving Earth Elementals, comparing it to Drow slavery. Witnessed religious leaders agreeing that enslaving summoned creatures violated their beliefs.
+6. **Battle Plan Address:** Stood before assembled forces and declared the day of victory against the Pudding King. He publicly pointed to Daz as the one who would lead them to triumph. Unveiled a two-pronged battle plan — the party infiltrating via a southern wall breach while his forces diversified as a diversion. Offered three allied groups: an elemental imbued with Entemoch's power, wererats led by Chipgrin, and the Pickshine Miners. Accepted the party's proposal for a minimal distraction over a full-scale assault.
+7. **Trader's Grotto Argument:** Caught arguing with Chipgrin over dividing newly opened territory while oozes threatened defenses. Thorin tried to redirect them but was initially ignored.
+8. **Post-Battle Council:** Pushed for aggressive economic recovery and mithral extraction. The party brokered several compromises on his behalf: a wage agreement between the miners guild and working class, a wererat defense force arrangement (removing his need to fund military protection), and sustainable mining practices respecting the ghosts' sacred grounds. Dorbo agreed to the peace arrangement and announced plans to reopen Blingdenstone for trade with the surface world.
+9. **Honorary Gesture to Thorin:** Moved by Thorin's physical effort winching a support beam into place, Dorbo personally sewed a Diggermattock Miners patch onto Thorin's gear, declaring him an honorary member of the mining crew.
 
 ## Current Status
-- **Last Known Location:** Blingdenstone, post-council meeting
-- **Active Plans:** Reopening Blingdenstone for trade with the surface world; overseeing economic recovery and mithral extraction under the compromise terms brokered by the party
-- **Known vs. Hidden:** The party is fully aware of his profit-driven motivations. No hidden information indicated in the notes.
+- **Location:** Blingdenstone, likely at Diggermattock Hall
+- **Active Plans:** Reopening Blingdenstone for trade with the surface world; overseeing economic recovery and mithral extraction under the compromises brokered by the party
+- **Known vs. Hidden:** The party understands his profit-driven motivations clearly. Hidden from the party: the extent to which demonic corruption may be influencing his judgment and amplifying his greed and aggression (per Chipgrin's theory)
 
 ## Relationships
-- **Senni (Quartermaster, wife):** His assistant and counterbalance. They argue openly—she silences him when he's being unreasonable. She represents the people-first perspective he lacks.
-- **Chipgrin / Gold Whisker Wererats:** Initially dismissed them as squatters and refused to include them. Later accepted wererat defense force arrangement as part of the party's brokered compromise.
-- **Daz (Party Member):** Seized control of a discussion and forced Dorbo's cooperation; Dorbo later publicly credited Daz as the leader who would bring victory.
-- **Thorin (Party Member):** Personally honored Thorin with a Diggermattock Miners patch—a genuine moment of respect earned through labor.
-- **Grygum:** Dismissed his battle plan outright.
-- **The Party (General):** Initially saw them as intelligence assets (Drow escapees); evolved into hiring them to solve the ooze crisis; ultimately accepted their leadership and compromises during the council.
+- **Senni (Quartermaster, wife):** Frequent collaborator and foil. They argue openly — she checks his worst impulses and prioritizes the common people where he prioritizes wealth. She confronts him about his failures and his refusal to work with the Gold Whisker clan. She silenced him during the planning session when he dismissed Grygum's plan.
+- **Chipgrin / Gold Whisker Wererats:** Hostile — considers them squatters and refuses cooperation; suspects them of being wererats. Argued with Chipgrin over territorial claims. Eventually accepted a wererat defense arrangement brokered by the party. Chipgrin views Dorbo's behavior as evidence of demonic corruption.
+- **Daz (Party Member):** Respects or at least defers to Daz's forcefulness. Publicly credited Daz as the leader who would bring victory against the Pudding King.
+- **Thorin (Party Member):** Minor friction after the kitchen intrusion, but genuinely moved by Thorin's efforts; awarded him an honorary Diggermattock Miners patch — a personal and rare gesture of respect.
+- **Blingdenstone Citizens:** Some accuse him of caring only for wealth and neglecting common people.
 
 ## Arc Score Events
-- **Decrease:** Refused to cooperate with wererats; accused of neglecting common people; argued over territory during active ooze threat.
-- **Increase:** Agreed to party's terms after Daz's confrontation; accepted battle plan compromises; honored Thorin with mining patch; agreed to council peace arrangement and reopened Blingdenstone for trade.
+- **Daz demanding cooperation** — shifted Dorbo from obstruction to compliance (likely positive arc progression for the party's standing in Blingdenstone)
+- **Party brokering council compromises** — Dorbo agreed to peace arrangement and trade reopening (positive arc resolution for Blingdenstone's future)
+- **Thorin's support beam effort** — earned the honorary mining crew patch (positive personal relationship milestone with Thorin)

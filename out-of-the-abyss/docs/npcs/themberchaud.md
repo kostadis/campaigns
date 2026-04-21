@@ -1,35 +1,41 @@
+---
+name: Themberchaud
+aliases:
+  - Themberchaude
+  - Thermbechaud
+source_extracts: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54]
+---
+
 # Themberchaud
 
 ## Identity
-- **Title:** Wyrmsmith of Gracklstugh; also called "Father of Flame," "the Everburning," and "the Foundry's Heart"
-- **Role:** Young red dragon kept by the Keepers of the Flame to heat stones for Gracklstugh's forges
-- **First appearance (discussed):** Mentioned by Gartokkar Xundorn and later by a halfling outside the Darklake Brewery
-- **First appearance (in person):** Dive-bombed the party in the streets of Gracklstugh after they dealt with the grey ghosts
+Young red dragon, Wyrmsmith of Gracklstugh. Serves as the Foundry's Heart, breathing fire to power the city's forges. Nominally serves the Keepers of the Flame, though he believes the Keepers serve *him*. *Also known as: Themberchaude, Thermbechaud, Father of Flame, the Everburning, the Foundry's Heart.*
 
 ## Personality & Motivations
-Themberchaud believes he rules Gracklstugh and that everyone—including the Keepers of the Flame—works for *him*. His ego is so fragile he cannot wait for consent; he declares others his agents rather than asking. He is vain, theatrical, and desperate to project authority he doesn't actually possess. Despite his bluster, he is a pampered predator who has never had to hunt—overweight, with polished scales, painted claws, and a visible second chin. When challenged or caught without a plan, he fumbles and relies on others to give him a face-saving out.
+- Possesses a fragile, oversized ego — cannot even wait for someone to agree before declaring them his agents
+- Genuinely believes he rules Gracklstugh, proclaiming it "my town," despite functioning as a glorified lighter for the Duergar forges
+- Pampered and vain (scales polished, claws painted), visibly overweight — described as landing like "a bag of potatoes" with a second chin and belly that rolls on sharp turns
+- Paranoid about his position and security within Gracklstugh's power structure; suspects the Keepers of the Flame have their own plans that may not serve his interests
+- Wants intelligence on what is truly happening in the city and whether he is genuinely in control or merely a figurehead
+- Maturity has been stunted by his captive, coddled existence; Zalthir doubts he could survive in the wild, having likely forgotten how to hunt
 
 ## History with the Party
-1. **Initial discussion:** The halfling outside the Darklake Brewery explained Themberchaud's arrangement with the Keepers—how they pamper him with a hoard but plan to kill and replace him with a new hatchling when he grows too powerful. Daz found the arrangement intriguing.
-2. **Audience in his cavern:** Themberchaud dismissed Gartokkar and spoke to the party alone. He breathed fire in a circle to check for spies, questioned each party member individually (asking Zalthir about being a gold dragonborn, asking Daz about Menzoberranzan), and declared them his agents. He ordered them to do whatever the Keepers asked but report to him first. He gave orders for gold badges through Gartokkar.
-3. **Party schemes:** The party briefly hatched a plan to free Themberchaud and ride him out of Gracklstugh. Grygum (cleric of Bahamut) expressed outrage at how the dragon was treated. Thorin was enthusiastic about riding him. The plan was ultimately abandoned.
-4. **The egg situation:** The party learned that a red dragon egg—intended as Themberchaud's replacement—had been stolen and repurposed by a cult for Demogorgon. Grygum argued for returning the egg to Gartokkar, reasoning the hatched abomination would provoke Themberchaud's revenge on his captors.
-5. **Dragon taxi ride:** Themberchaud dive-bombed the party in the streets, declared them his agents, and offered to fly them past Keeper checkpoints. He flew them through the cavern, proudly calling it "my town." He detoured to a forge to breathe fire and announce himself; the Duergar workers rolled their eyes. During a sharp turn, Grygum, Thorin, and Daz fell off (rescued by Misty Step, Zalthir's wings, and Jimjar's rope). He deposited them at the docks.
-6. **Departure from Gracklstugh:** The party left without fulfilling any agreement with Themberchaud. Thorin noted as they departed Gartokkar's house that the dragon believed he had a deal with the party—but no deal was ever actually made.
+1. **Initial discussion:** The party learned about Themberchaud from Gartokkar and a halfling, who explained the Keepers' cycle of pampering, controlling, and eventually replacing the dragon. Daz questioned why a red dragon would accept the role and mentioned Themberchaud's suspicions about the Keepers.
+2. **Cavern audience:** Themberchaud met the party in his hoard cavern. He dismissed Gartokkar, breathed fire in a circle to check for spies, questioned each party member individually (asking Zalthir about gold dragonborn heritage, Daz about Menzoberranzan ties), and unilaterally declared them his agents. He ordered them to do what Gartokkar says but report to him first.
+3. **Party schemes:** Grygum (cleric of Bahamut) expressed outrage at how the dragon is treated. Thorin floated a plan to escape Gracklstugh by riding on Themberchaud's back. The party hatched a plan to free Themberchaud and ride him out of Gracklstugh, but ultimately abandoned it.
+4. **Egg subplot:** The party learned the Keepers' red dragon egg — intended as Themberchaud's replacement — was stolen and repurposed by a cult for Demogorgon. Grygum advocated returning the egg to Gartokkar, reasoning the hatched abomination would let Themberchaud take revenge on his controllers.
+5. **Dive-bomb encounter:** After the party dealt with the grey ghosts, Themberchaud dive-bombed them in the streets, declared them his agents under his protection, and flew them through the cavern. He detoured to a forge to breathe fire (the Duergar rolled their eyes). During a sharp turn, Grygum, Thorin, and Daz fell off and had to be rescued. He deposited them at the docks.
+6. **Cave waypoint:** The party used Themberchaud's cave as a departure point for their journey to the Cairngorm Cavern.
+7. **Departure from Gracklstugh:** As the party left, Thorin noted that Themberchaud believed he had an agreement with them — but the party never actually made a deal with the dragon.
 
 ## Current Status
-- **Last known location:** Gracklstugh, presumably his hoard cavern
-- **Situation:** Unaware the party has left without honoring their supposed arrangement. Unaware that his replacement egg was stolen and repurposed for Demogorgon. Still believes the Keepers of the Flame work for him, not the reverse.
-- **What the party knows that he doesn't:** The Keepers' plan to eventually kill and replace him; the theft of the red dragon egg; the egg's corruption by the cult.
-- **Unresolved:** His reaction to the party's departure and broken "agreement" remains unknown.
+**Last known location:** Gracklstugh, presumably in his cavern or roaming the city. **Active concerns:** Themberchaud is unaware that (1) the Keepers view him as their tool, not their master; (2) the red dragon egg meant to replace him was stolen; (3) the party left Gracklstugh without fulfilling any obligation to him. **Unresolved:** His reaction to the party's departure and broken implicit "agreement" remains unknown. **Hidden from him:** The entire replacement cycle — the Keepers' plan to eventually kill him and hatch a successor.
 
 ## Relationships
-- **Keepers of the Flame / Gartokkar Xundorn:** Believes they serve him; in reality, they control and plan to replace him. Gartokkar is visibly displeased at being dismissed by him.
-- **Grygum:** Outraged at Themberchaud's treatment as a cleric of Bahamut; advocated for the dragon's interests regarding the egg.
-- **Zalthir:** Thinks poorly of Themberchaud as a representative of dragonkind, noting he reinforces prejudices about red dragons. Provided face-saving excuses for the dragon during the flight.
-- **Thorin:** Enthusiastic about riding Themberchaud; recalled the unresolved "agreement" upon departure.
-- **Daz:** Found the Keepers' arrangement with the dragon intriguing from the start.
-- **Duergar of Gracklstugh:** Do not take him seriously; roll their eyes at his displays. The party's association with him contributed to fears they were the "Ember Vanguard."
+- **Keepers of the Flame / Gartokkar Xundorn:** Themberchaud believes they serve him; they believe he serves them. Distrustful; believes they have hidden agendas that may threaten his position. Gartokkar was visibly displeased when dismissed from the cavern audience.
+- **The Party:** Declared them his agents without consent. The party never formally agreed. Grygum sympathizes with his captivity on principle (as a cleric of Bahamut). Zalthir views him as an embarrassment to dragonkind. Thorin was interested in riding him out of the city and using him as an escape route.
+- **Duergar of Gracklstugh:** They do not take him seriously — forge workers roll their eyes at his dramatic fire-breathing. The party's association with him made locals fear they were the Ember Vanguard.
+- **The Cult / Demogorgon plot:** Unknowingly connected — the stolen egg was his replacement, now repurposed for darker ends.
 
 ## Arc Score Events
 - No explicit arc score changes noted in the source material.

@@ -1,0 +1,3 @@
+# New notes for The Orc Scout (from dossier_extract_019.md)
+
+A scout for the raiding party, positioned in bushes ahead of the party on the road into Neverwinter Wood. He climbed a tree when he spotted Soma in bear form and signaled the ambush positions with hand motions. He was berated by the orc with the necklace of bones for being distracted by a bear. Despite a bleeding foot from Soma's bite, he disengaged and fired an arrow into Soma from range. He recognized Valphine as a Drow worshipping Lathander and fled in apparent terror. He briefly stopped to fire at Valphine before fleeing again. Valphine pursued him but he escaped into the forest. Current status: fled, whereabouts unknown.

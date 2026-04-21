@@ -24,7 +24,7 @@ dnd_pdfs: '/home/kroussos/campaigns/out-of-the-abyss/kostadis1_135431004 (1).pdf
 
   /home/kroussos/campaigns/out-of-the-abyss/kostadis1_135430963 (2).pdf'
 dnd_sheet_run: true
-global_model: claude-opus-4-6
+global_model: claude-sonnet-4-6
 make_tracking_run: true
 mt_input: docs/Out of the Abyss.md
 mt_output: /home/kroussos/campaigns/out-of-the-abyss/docs/tracking.txt
@@ -69,7 +69,9 @@ plan_npc: '/home/kroussos/campaigns/out-of-the-abyss/docs/npcs/aliinka.md
 
   /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/bimble.md
 
-  /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/bloppblippodd_blopp.md
+  /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/bloppblippodd.md
+
+  /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/brannam.md
 
   /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/brannum_redmarch.md
 
@@ -83,9 +85,9 @@ plan_npc: '/home/kroussos/campaigns/out-of-the-abyss/docs/npcs/aliinka.md
 
   /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/dawnbringer.md
 
-  /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/daz.md
-
   /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/demogorgon.md
+
+  /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/derendil.md
 
   /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/diinarnnmyr.md
 
@@ -99,21 +101,21 @@ plan_npc: '/home/kroussos/campaigns/out-of-the-abyss/docs/npcs/aliinka.md
 
   /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/dulgir.md
 
-  /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/eldeth.md
+  /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/elbeth.md
 
-  /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/eldev.md
+  /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/eldeth.md
 
   /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/eldgrim.md
 
   /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/entemoch.md
 
-  /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/errde.md
+  /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/errde_blackskull.md
 
   /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/fargas_rumblefoot.md
 
   /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/flumph.md
 
-  /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/fuurm_coppernose_copper.md
+  /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/fuurm_coppernose.md
 
   /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/gartokkar_xundorn.md
 
@@ -127,7 +129,7 @@ plan_npc: '/home/kroussos/campaigns/out-of-the-abyss/docs/npcs/aliinka.md
 
   /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/glyphic_shroomlight.md
 
-  /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/gorg_bahamut_grog_bahamut.md
+  /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/gorg_bahamut.md
 
   /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/grimgrim.md
 
@@ -139,19 +141,17 @@ plan_npc: '/home/kroussos/campaigns/out-of-the-abyss/docs/npcs/aliinka.md
 
   /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/gru_manga.md
 
-  /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/grygum.md
-
   /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/guldor.md
 
   /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/gurnik_tapfinger.md
 
   /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/hemeth.md
 
-  /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/hepbobe_also_referred_to_as_hepbode.md
+  /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/hepbobe.md
 
   /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/hgraam.md
 
-  /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/ilvara.md
+  /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/ilvara_mizzrym.md
 
   /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/imbros.md
 
@@ -161,17 +161,15 @@ plan_npc: '/home/kroussos/campaigns/out-of-the-abyss/docs/npcs/aliinka.md
 
   /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/jimjar.md
 
-  /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/jorlan.md
+  /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/jorlan_duskryn.md
 
   /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/juiblex.md
 
-  /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/kaelira.md
+  /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/kaelira_duskryn.md
 
   /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/kalannar.md
 
   /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/kazook_pickshine.md
-
-  /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/khaem.md
 
   /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/king_hekaton.md
 
@@ -187,8 +185,6 @@ plan_npc: '/home/kroussos/campaigns/out-of-the-abyss/docs/npcs/aliinka.md
 
   /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/narrak.md
 
-  /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/nym.md
-
   /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/nym_duskryn.md
 
   /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/ogremoch.md
@@ -203,9 +199,9 @@ plan_npc: '/home/kroussos/campaigns/out-of-the-abyss/docs/npcs/aliinka.md
 
   /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/ploopploopeen.md
 
-  /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/prince_derendil.md
-
   /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/prince_livid.md
+
+  /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/princess_ebonheir.md
 
   /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/princess_ebonmire.md
 
@@ -259,8 +255,6 @@ plan_npc: '/home/kroussos/campaigns/out-of-the-abyss/docs/npcs/aliinka.md
 
   /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/themberchaud.md
 
-  /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/thorin.md
-
   /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/topsy.md
 
   /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/turvy.md
@@ -270,8 +264,6 @@ plan_npc: '/home/kroussos/campaigns/out-of-the-abyss/docs/npcs/aliinka.md
   /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/ulnara.md
 
   /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/uskvil.md
-
-  /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/uth_jadgar.md
 
   /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/valen.md
 
@@ -283,7 +275,7 @@ plan_npc: '/home/kroussos/campaigns/out-of-the-abyss/docs/npcs/aliinka.md
 
   /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/welnaste_mizzrym.md
 
-  /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/werz.md
+  /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/werz_saltbaron.md
 
   /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/whisperwind.md
 
@@ -293,9 +285,7 @@ plan_npc: '/home/kroussos/campaigns/out-of-the-abyss/docs/npcs/aliinka.md
 
   /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/yrberop.md
 
-  /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/yukyuk.md
-
-  /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/zalthir.md
+  /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/yuk_yuk.md
 
   /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/zuggtmoy.md'
 plan_output: /home/kroussos/campaigns/out-of-the-abyss/docs/planning.md
@@ -314,7 +304,7 @@ sd_examples_dir: /home/kroussos/campaigns/out-of-the-abyss/examples
 sd_extract_dir: scene_extractions
 sd_extract_run: true
 sd_narrate_tokens: '4000'
-sd_output_dir: /home/kroussos/campaigns/out-of-the-abyss/summaries/20260404
+sd_output_dir: /home/kroussos/campaigns/out-of-the-abyss/summaries/20260413
 sd_party: /home/kroussos/campaigns/out-of-the-abyss/docs/party.md
 sd_port: '5000'
 sd_roleplay_dir: vtt_roleplay_extractions
@@ -326,7 +316,7 @@ sd_session_name: the fight
 sd_session_summary: session-summary.md
 sd_summary_dir: vtt_extractions
 sd_voice_dir: /home/kroussos/campaigns/out-of-the-abyss/voice
-session_dir: /home/kroussos/campaigns/out-of-the-abyss/summaries/20260404
+session_dir: /home/kroussos/campaigns/out-of-the-abyss/summaries/20260413
 session_doc_examples_dir: /home/kroussos/campaigns/out-of-the-abyss/examples
 summaries: docs/The Underdark.md
 vtt_chunk_size: 50000
@@ -337,7 +327,7 @@ vtt_context: '/home/kroussos/campaigns/out-of-the-abyss/docs/campaign_state.md
   /home/kroussos/campaigns/out-of-the-abyss/docs/party.md'
 vtt_date: ''
 vtt_extract_dir: /home/kroussos/campaigns/out-of-the-abyss/summaries/20260324/vtt_extracts
-vtt_input: GMT20260331-005943_Recording.transcript (1).vtt
+vtt_input: GMT20260414-005918_Recording.transcript.vtt
 vtt_no_log: false
 vtt_output: session-summary.md
 vtt_roleplay_output: session-roleplay.md

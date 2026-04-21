@@ -1,0 +1,9 @@
+# New notes for The Carver (from dossier_extract_035.md)
+
+The Carver is not a person. The black obsidian sword — glowing purple with accumulated power — is the Carver. The human veteran accompanying it was revealed to be merely a vessel, a body wearing the intelligence and will of the sword. This information arrived to Vukradin through arcana knowledge during the confrontation at the summoning circle.
+
+The human vessel was performing a ritual over the chained Cryovain when the party arrived. The ritual was interrupted by Vukradin's Silence spell, which dropped like a dome over the summoning circle and choked the working entirely. The vessel then moved with precise, legendary footwork — stepping cleanly out of the silence zone without drawing attacks — demonstrating the kind of tactical competence that told Vukradin he was fighting something exceptional.
+
+Vukradin then cast Hold Person, paralyzing the human vessel completely mid-motion. With the vessel stopped and the silence dropped, the sword spoke directly into the party's minds: *Coward's magic. You mute the ritual because you lack the strength to shatter the vessel. And now, now I shall have everything I always wanted.* Rather than continue the slow ritual of consumption it had been building toward, it dissolved Cryovain's chains immediately and seized direct domination over the dragon — the expedient solution, bypassing its own careful preparation.
+
+After completing this domination, the sword went visually inert: no longer glowing purple, simply black and still, as though it had emptied itself entirely to achieve what it wanted. The human vessel remained paralyzed on the floor of the summoning circle. Last known status: sword inert and apparently spent, vessel paralyzed, dragon domination in progress with approximately three rounds to full consolidation at time of battle.

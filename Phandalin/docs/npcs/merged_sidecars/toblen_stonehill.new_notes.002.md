@@ -1,0 +1,5 @@
+# New notes for Toblen Stonehill (from dossier_extract_002.md)
+
+Toblen Stonehill is the proprietor of the Stonehill Inn in Phandalin, described as a short, friendly male human and a native of Triboar who came to Phandalin to prospect before realizing innkeeping suited him better. On 8/1 of Taraksh he agreed to feed the party in exchange for Vukardin playing popular songs from Waterdeep and Neverwinter. After several such songs he invited Vukardin to play something of his own choosing and rewarded him with a complimentary beer. He also quietly warned Vukardin about white dragon sightings in the area. He expressed concern about orc raids from the mountains and hope that Neverwinter would send help, though he acknowledged the most recent major threat had been the barbarian hordes rather than orcs. He accepted Brewbarry's presence without hostility, remarking that the wars of the past are the past. On 1/1 of Taraskh, after the party returned from the dwarven ruins, he again persuaded Vukardin to play popular music for his clientele. Last known location: the Stonehill Inn, Phandalin.
+
+---

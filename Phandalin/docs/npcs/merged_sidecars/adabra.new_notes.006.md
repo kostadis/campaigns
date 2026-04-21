@@ -1,0 +1,5 @@
+# New notes for adabra (from dossier_extract_006.md)
+
+Adabra accompanied the party on the long walk back to Phandalin, using the journey to share her philosophy of naturalism with Soma. She argued that disrupting the natural order—whether by driving out orcs or fighting outer-planar entities—is the true source of imbalance, and that labeling creatures as monsters leads to calling people barbarians. She reassured Brewbarry that he was never a barbarian but a nomad.
+
+Upon arriving at Harbin's home, Adabra took charge of the negotiation for payment, speaking forcefully on Vukradin's behalf. She framed him as an idealist and champion rather than a common sellsword, arguing that Phandalin's defense requires principled heroes rather than mercenaries motivated by plunder. She praised Soma and Brewbarry by name but conspicuously omitted Valphine from her advocacy—notably without explanation, leaving open whether the slight was due to Valphine being a Drow or some other reason. Her pressure succeeded in extracting free room and board at the Stonehill Inn from Harbin.

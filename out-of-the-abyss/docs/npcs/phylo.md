@@ -1,34 +1,46 @@
+---
+name: Phylo
+aliases:
+  - Phyllo
+source_extracts: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54]
+---
+
 # Phylo
 
 ## Identity
 - Co-sovereign of Neverlight Grove, sharing power with Basidia
-- Secretly devoted servant of Zuggtmoy ("the Great Seeder")
-- Architect of a hierarchical restructuring of myconid society in the grove
-- First encountered when the party arrived at Neverlight Grove; greeted them warmly using rapport spores
+- Devoted agent of the "Great Seeder" (Zuggtmoy), working to prepare the grove for Zuggtmoy's wedding to Araumycos
+- *Also known as: Phyllo*
 
 ## Personality & Motivations
-- Core goal: Serve Zuggtmoy's plan — facilitating the "great celebration" / "great awakening," which is the wedding between Zuggtmoy and Araumycos.
-- Outwardly effusive, enthusiastic, and welcoming — masks sinister intent with language of joy and wonder. Uses female pronouns when referring to the Great Seeder, an anomaly for myconids that Daz connected directly to Zuggtmoy. Manipulative and politically savvy; restructured the grove's entire social order to consolidate control and isolate dissent.
+- Core goal: Serve Zuggtmoy by restructuring myconid society and preparing the "great celebration" / "great awakening" — the wedding between Zuggtmoy and Araumycos
+- Outwardly warm, enthusiastic, and welcoming, but manipulative and deceptive. Uses language of joy, wonder, and community improvement to disguise sinister intent
+- Devoted to Zuggtmoy and genuinely believes her influence will improve Neverlight Grove and bring happiness to all myconids. Does not appear malicious so much as fanatically converted — pleading rather than threatening when challenged
+- Shows emotional attachment to Basidia despite their ideological split
 
 ## History with the Party
-- **Arrival at Neverlight Grove:** Greeted the party warmly, spread rapport spores, and declared they had arrived at "a wondrous time." Encouraged them to explore freely but explicitly warned them away from the eastern plateau, claiming the Circle of Masters was preparing a "wondrous and glorious surprise" in the Garden of Welcome. Offered to give them a peek the next day.
-- **Directed party to "the Great Seeder,"** describing the entity as someone who would "help all of us get closer to her beauty" and who lives beyond the Garden. When the party fled Neverlight Grove, Phylo cried out: "The Neverlight Grove will be better than ever! And the Great Seeder will make us all happy!" and pleaded "Basidia don't go."
-- **Invited Xinaya to visit the Circle of Welcome,** which turned out to be a trap that transformed visitors into fungal spore servants. A previous group of "softers" who accepted the same offer were never seen again — Phylo made no mention of them.
+- **Arrival at Neverlight Grove:** Greeted the party with rapport spores. Proclaimed a "day of joy" was approaching and encouraged them to explore — but warned them away from the eastern plateau, promising a "peek" at the surprise the next day
+- **Directed party toward the Great Seeder:** Described the entity as "wonderful" and one who would "help all of us get closer to her beauty." Daz identified the female pronouns as unusual for myconids and connected them to Zuggtmoy
+- **Garden of Welcome revealed as a trap:** The Circle of Welcome, which Phylo invited Xinaya to visit, turned out to transform visitors into fungal spore servants. A previous group of "softers" who accepted Phylo's offer to visit the Garden have not been seen since
+- **Secret plan for assassination:** Had secretly planned for the party to be killed the following day during their visit to the Inner Circle
+- **When the party returned to the Inner Circle:** Acting nonchalant, Phylo greeted Basidia and asked if the visitors had enjoyed seeing the circle and what they thought of "the changes"
+- **During confrontation with Basidia:** When Basidia accused Phylo of betrayal, Phylo did not attack the fleeing party. Instead, Phyllo pleaded with Basidia not to leave, calling out: *"The Neverlight Grove will be better than ever! And the Great Seeder will make us all happy!"* and plaintively: *"Basidia don't go."*
 
 ## Current Status
-- **Last known location:** Neverlight Grove
-- **Active plans:** Facilitating the wedding between Zuggtmoy and Araumycos; continuing to funnel creatures and visitors to the Circle of Masters for transformation/reanimation
-- **What the party knows:** The Garden of Welcome is a trap; the "Great Seeder" is Zuggtmoy; Phylo's restructuring serves Zuggtmoy's agenda; Phylo is likely infected with a diseased spore (per Basidia); the previous "softers" disappeared after accepting Phylo's invitation
-- **What may remain hidden:** Full details of the Zuggtmoy–Araumycos wedding plan; the extent of Phylo's corruption and whether it is reversible
+- **Last known location:** Neverlight Grove, acting as co-sovereign
+- **Active plans:** Orchestrating the grove's transformation in service of Zuggtmoy's wedding to Araumycos. Mandates all dead creatures be brought to the Circle of Masters for reanimation. Continues to funnel visitors toward the Garden of Welcome
+- **What the party knows:** The party is aware that Phylo serves Zuggtmoy, that the Garden of Welcome is a trap, that Phylo's restructuring serves sinister ends, and that previous visitors were disappeared. They know Phylo is a traitor allied with Zuggtmoy who planned to have them killed but chose not to pursue them when they fled
+- **What may remain hidden:** The full scope of Phylo's control over the grove's circles; the exact timeline and mechanics of the Zuggtmoy–Araumycos wedding; whether Phylo can be separated from Zuggtmoy's influence; the full extent of Zuggtmoy's plans and Phyllo's role in them
 
 ## Relationships
-- **Basidia** (co-sovereign): Deep ideological rift. Basidia believes Phylo contracted a diseased spore and views the hierarchical restructuring as contrary to myconid unity.
-- **Zuggtmoy ("the Great Seeder"):** Phylo's true master; Phylo serves her agenda and uses her language.
-- **Circle of Masters:** Phylo's inner cadre of loyalists; handle reanimation of dead creatures and operate in the Garden of Welcome.
-- **Inner Circle:** Circle leaders loyal to Phylo, serving as intermediaries in the new hierarchy.
-- **Hepbobe:** Downplayed Basidia's concerns about Phylo, framing the conflict as merely organizational preferences.
-- **Daz (party member):** Identified the significance of Phylo's gendered pronouns and connected them to Zuggtmoy.
-- **Xinaya (party member):** Was specifically invited by Phylo to visit the Circle of Welcome (the trap).
+- **Basidia** (co-sovereign): Deep ideological rift. Basidia believes Phylo has contracted a "diseased spore" and views Phylo's restructuring — eliminating communal melds in favor of hierarchical, siloed circles — as contrary to myconid unity. Phyllo clearly cares about Basidia and desperately wants them to stay and embrace Zuggtmoy's gifts. Their relationship is fractured — Basidia views Phyllo as a betrayer
+- **Zuggtmoy ("The Great Seeder"):** Phylo's true master and patron. Phylo speaks of her with reverence and devotion
+- **Circle of Masters:** Phylo's inner circle of closest followers; oversee the Garden of Welcome and handle reanimation of the dead
+- **Inner Circle:** Circle leaders loyal to Phylo who enforce the new social hierarchy
+- **Hepbobe:** Downplayed Basidia's concerns about Phylo, framing the conflict as mere organizational preference
+- **Daz** (party): Identified the Zuggtmoy connection through Phylo's unusual use of gendered pronouns
+- **Xinaya** (party): Phylo specifically invited Xinaya to visit the Circle of Welcome (the trap)
+- **The Party:** Hostile by intent (planned their murder) but did not act on it when the moment came. Let them flee
 
 ## Arc Score Events
-- No explicit arc score changes noted in source material.
+- No explicit arc score changes noted in the source material

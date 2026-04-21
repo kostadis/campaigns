@@ -1,0 +1,3 @@
+# New notes for malfire (from dossier_extract_012.md)
+
+Malfire was referenced by Lyra as a hero of the War of the Dragons who persuaded Delaan Winterhound and, through him, the Emerald Enclave to abandon neutrality and join the coalition against Tiamat's summoning. Malfire is credited by interventionists as having helped save the world, and blamed by naturalists as the figure whose influence pulled the Enclave into a war that ultimately triggered the War of the Giants and the shattering of the Ordning. No further details about Malfire's identity, current status, or faction affiliation were provided.

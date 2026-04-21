@@ -1,20 +1,27 @@
+---
+name: Vazuk
+aliases: []
+source_extracts: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54]
+---
+
 # Vazuk
 
 ## Identity
 - Deep gnome ghost, driven mad by grief
-- Threat to the residents of Blingdenstone
-- Encountered (indirectly) during the party's time in Blingdenstone
+- Located in Blingdenstone
+- Encountered as a threat to Blingdenstone's residents
 
 ## Personality & Motivations
-- Consumed by grief to the point of madness. His motivations beyond that grief are unknown. He posed an active threat to the deep gnome community of Blingdenstone.
+- Consumed by grief to the point of madness. His anguish manifested as aggression toward the living residents of Blingdenstone.
 
 ## History with the Party
-- While the main party was occupied with a temple quest in Blingdenstone, Vazuk was destroyed by **Jimjar** and **Eldeth** in a side engagement.
+- While the main party was away on their temple quest, Vazuk was terrorizing the residents of Blingdenstone. Jimjar and Eldeth confronted and destroyed him during this time.
 
 ## Current Status
-- **Destroyed.** No longer a threat to Blingdenstone.
+- **Destroyed** by Jimjar and Eldeth.
+- No longer a threat to Blingdenstone.
 
 ## Relationships
-- **Blingdenstone residents:** Terrorized them during his existence as a ghost.
-- **Jimjar:** One of the two who destroyed him.
-- **Eldeth:** One of the two who destroyed him.
+- **Jimjar** — Destroyed Vazuk alongside Eldeth.
+- **Eldeth** — Destroyed Vazuk alongside Jimjar.
+- **Blingdenstone residents** — Haunted and threatened by Vazuk prior to his destruction.
