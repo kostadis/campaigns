@@ -4,3 +4,6 @@
 # Accidental symlinks to filesystem mount points
 /mnt
 /wsl
+
+# Per-campaign MCP config — contains literal ANTHROPIC_API_KEY
+.mcp.json
