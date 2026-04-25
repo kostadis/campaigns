@@ -10,8 +10,8 @@
 | Juiblex Resurgence | Juiblex | **Active** | Escalation | Juiblex locates Zuggtmoy's operations and makes a move toward consuming Araumycos's "banquet" |
 | House T'sarran Retaliation | House T'sarran | **Active** | Strike Authorized | Surviving warrior reaches Menzoberranzan; Matron Mother issues a formal kill/capture order |
 | Demon Lord Incursion | Multiple (Zuggtmoy, Juiblex, Demogorgon) | **Elevated** | Convergence | Any two demon lords come into direct conflict or proximity in a location the party must traverse |
-| Daz Identity Exposure | Asha Vandree / Drow Network | **Fragile** | Collapse | Asha learns Daz is an apostate; or Daz's connection to Jorlan Duskryn becomes known to the wrong party |
-| Drow Extraction Contract | Nym & Kaelira Duskryn | **Active** | Forced Extraction | Contract party escalates terms, applies pressure on party members as leverage, or Jorlan-Daz connection is weaponized |
+| Daz Identity Exposure | Asha Vandree / Drow Network | **Fragile** | Collapse | Asha learns Daz is an apostate; or T'sarran scrutiny lands on his cover story |
+| Drow Extraction Contract | Nym & Kaelira Duskryn | **Active** | Forced Extraction | Contract party escalates terms (force-extract rather than shadow-protect), or the mercs pivot to a richer offer |
 
 ---
 
@@ -78,12 +78,13 @@
 **Current Location & Status:** Traveling with or near the party; near Blingdenstone.
 
 **Active Plans & Immediate Goals:**
-- Operating under a transactional extraction contract to bring Daz back alive. Contracting party unnamed.
-- Asked Daz "Can I kill your brother?" regarding Jorlan — confirming she holds intelligence about a possible blood connection between Daz and Jorlan.
+- Operating under a transactional extraction contract to bring Daz back alive. Contract was placed through cutouts; Nym and Kaelira do not know the principal and do not care.
+- Asked Kaelira "Can I kill your brother?" regarding Jorlan — a Duskryn family matter (Jorlan is their estranged brother and Ilvara's lover). Unrelated to Daz; the party may have misheard the referent.
 
 **What the Party Knows vs. Hidden:**
 - Party knows she fired a lightning bolt at Jorlan and asked about killing him.
-- Hidden: Who is paying for the extraction contract. Whether she intends to fulfill it by force if the party doesn't cooperate.
+- Party may believe Daz and Jorlan are siblings based on misreading Nym's line; the misunderstanding is theirs to discover.
+- Hidden: Who placed the extraction contract (Vizeran DeVir, via cutouts; not known to Nym or the party). Whether she will pivot to forced extraction if shadow-protection fails.
 
 **Key Relationships & Leverage:**
 - **Daz:** Her primary target; must be brought back alive.
@@ -112,18 +113,19 @@
 
 ### Jorlan Duskryn
 
-**Current Location & Status:** Alive but staggered; last seen at or near Velkynvelve. Allegiance uncertain.
+**Current Location & Status:** Alive but staggered; last seen at or near the Fungal Cavern (several days from Blingdenstone) after the final Ilvara fight. Allegiance uncertain.
 
-**Active Plans & Immediate Goals:** Unknown. He survived Nym's lightning bolt and the Velkynvelve engagement.
+**Active Plans & Immediate Goals:** Unknown. He survived Nym's lightning bolt and the Fungal Cavern engagement (the final Ilvara confrontation).
 
 **What the Party Knows vs. Hidden:**
 - Party knows he helped them escape Velkynvelve (pragmatic deal with Thorin) and that he is mutually distrusted but not an active enemy.
-- Nym's comment implies a blood connection to Daz — this is unconfirmed and has not been directly addressed.
+- Party may have misheard Nym's "Can I kill your brother?" as referring to Daz; canonically she was addressing Kaelira about Jorlan (her own brother).
 - Hidden: His current allegiance. Whether he is moving toward the party, away from them, or toward a third faction.
 
 **Key Relationships & Leverage:**
-- **Daz:** Possible brother. Unconfirmed.
-- **Nym Duskryn:** She fired a lightning bolt at him; clearly not allies.
+- **Nym & Kaelira Duskryn:** His sisters. Estranged. Nym fired a lightning bolt at him at the Fungal Cavern fight; the family has cause to want him dead (Ilvara affair, House embarrassment).
+- **Ilvara (deceased):** Former lover; turned on him.
+- **Daz:** No relation. Coincidental presence at Velkynvelve.
 - **Thorin:** Pragmatic mutual-distrust deal; Jorlan held to it.
 
 ---
@@ -225,7 +227,7 @@
 
 ### House T'sarran (Matron Mother)
 
-**Current Location & Status:** Menzoberranzan. A surviving warrior from the Velkynvelve kill team is in transit to inform the Matron Mother.
+**Current Location & Status:** Menzoberranzan. A surviving warrior from the Fungal Cavern kill team is in transit to inform the Matron Mother.
 
 **Active Plans & Immediate Goals:**
 - Retaliation arc is open. Once the survivor arrives, a formal kill/capture order is the expected next step.
@@ -311,14 +313,22 @@
 - Fulfilling their contract to return Daz alive.
 
 **Key Members:**
-- **Nym Duskryn** — Lightning bolt caster; holds intelligence on Daz-Jorlan connection.
+- **Nym Duskryn** — Lightning bolt caster; professional and incurious about Daz's identity.
 - **Kaelira Duskryn** — Partner; roles and capabilities less defined.
 
-**Relationship to Party:** Nominally non-hostile (contract is extract-alive, not harm the party), but traveling in proximity creates friction. The unknown contracting party is the wild card.
+**Relationship to Party:** Nominally non-hostile (contract is extract-alive, not harm the party), but traveling in proximity creates friction. The contracting party is unknown to them as well — they took the job through cutouts and never met the principal.
+
+**Contractor identity (DM-only, not party-known):**
+- The principal is **Vizeran DeVir**.
+- Vizeran observed Ilvara's escalating cruelty during Daz's Velkynvelve captivity and the trajectory of her pursuit after the outpost fell. He judged the threat to Daz had crossed his intervention threshold, and placed the contract through deniable cutouts. (House T'sarran's interest in Daz surfaced later, at the Fungal Cavern fight; T'sarran was not part of Vizeran's original trigger.)
+- The contract reads "young drow male, extract alive, last seen in Velkynvelve, payment on confirmed live retrieval." No name, no House, no reason. Routed so the Duskryns cannot trace it back to Vizeran even if they tried.
+- Operational posture is shadow protection — observe, intervene if T'sarran or Ilvara forces close in, physical extraction only as last resort. Vizeran wants Daz alive *and* in the world, generating the lived-experience signature the Sharran unlock requires (see `daz_heir.md` §VI–VII).
+- Reveal staging: this canon surfaces only at Stage 4 first contact with Vizeran in Menzoberranzan. The Duskryns cannot leak it because they do not know it. See `decision_ladders.md`.
+- **Time-bounded, not permanent.** Two mercs glued to one no-name target for months is its own beacon — sustained presence draws the attention shadow protection is meant to avoid. Vizeran extracts the Duskryns once the acute threat window (Ilvara dead, Fungal Cavern resolved, T'sarran scrutiny still unresolved but redirectable) winds down. Expect the contract to terminate or quietly transfer somewhere between Blingdenstone departure and the early Menzoberranzan approach. The Duskryns may simply receive a final payment and a "contract complete, stand down" instruction; from their perspective the job ended cleanly.
 
 **Resources & Vulnerabilities:**
-- Resources: Unknown backer; intelligence on Daz's identity and possible bloodline.
-- Vulnerabilities: Contract is purely transactional — if the contracting party loses interest or changes terms, their motivation evaporates.
+- Resources: Anonymous backer paying reliably; professional discipline; lightning-bolt firepower; mercenary network for resupply.
+- Vulnerabilities: Contract is purely transactional — if the contracting party loses interest or changes terms, their motivation evaporates. Counter-offer from a richer principal could pivot them; T'sarran scrutiny in Menzoberranzan could spook them off the job.
 
 ---
 
@@ -360,7 +370,7 @@
 ---
 
 ### 3. House T'sarran Retaliation Arc (Active / Imminent)
-**What is happening:** One surviving warrior from the Velkynvelve kill team is in transit to Menzoberranzan to inform the Matron Mother. Once she is informed, a formal kill or capture order is expected.
+**What is happening:** One surviving warrior from the Fungal Cavern kill team is in transit to Menzoberranzan to inform the Matron Mother. Once she is informed, a formal kill or capture order is expected.
 **Timeline:** The survivor is already en route. The party has a window — but it is closing.
 **Party intersection:** Grygum needs to identify the Matron Mother before she identifies the party. Jadger's two unused boons could answer this question definitively. The party's route to the surface may intersect with Drow patrol territory.
 
@@ -382,15 +392,15 @@
 
 ### 6. Daz's False Identity with Asha Vandree (Active / Fragile)
 **What is happening:** Asha genuinely believes Daz is a Lolth convert. This deception is described as "load-bearing" — its collapse would have immediate consequences for the party's relationship with her and potentially expose Daz to Drow faction retaliation.
-**Timeline:** No clock, but Nym and Kaelira are now traveling in proximity — and Nym holds intelligence about the Daz-Jorlan connection. A single misread conversation could unravel everything.
-**Party intersection:** Every interaction with Asha is a pressure point. The presence of Nym and Kaelira — who know things about Daz's identity and bloodline — adds a new variable to every scene involving all three.
+**Timeline:** No clock, but Nym and Kaelira are now traveling in proximity. Even though they don't know who Daz is, a single misread conversation about cover identity, House politics, or Lolth doctrine could unravel everything.
+**Party intersection:** Every interaction with Asha is a pressure point. The Duskryns are professional and incurious about Daz's identity, but they are still drow operating inside drow social ritual; their presence adds new variables to every scene involving all three.
 
 ---
 
-### 7. Jorlan Duskryn's Connection to Daz (Latent / High Stakes)
-**What is happening:** Nym asked "Can I kill your brother?" in direct reference to Jorlan, implying confirmed knowledge of a blood connection. Jorlan is alive, staggered, and his allegiance is unclear.
-**Timeline:** Jorlan is in transit (direction unknown) and is not an immediate threat. But his storyline will catch up.
-**Party intersection:** If Jorlan is Daz's brother, the party's entire history with him — from the escape deal with Thorin to Nym's lightning bolt — takes on new meaning. This is also leverage that Nym or an unknown contracting party could exploit.
+### 7. Jorlan Duskryn — Estranged Duskryn Sibling (Latent)
+**What is happening:** Jorlan is the estranged brother of Nym and Kaelira. He was originally Ilvara's lover at Velkynvelve, demoted after disfigurement, and surfaced at the Fungal Cavern pursuing his own vengeance against her. He has no connection to Daz, no DeVir blood, and no involvement in the extraction contract. The party may have misheard Nym's "Can I kill your brother?" as a question about Daz — it was addressed to Kaelira about Jorlan.
+**Timeline:** Jorlan is in transit (direction unknown) and is not an immediate threat. His storyline is a Duskryn family arc, not a Daz arc.
+**Party intersection:** When the party next encounters Jorlan or hears the Duskryn sisters speak of him, the brother referent should clarify. If the party still believes Jorlan is Daz's brother, the misunderstanding is theirs to discover.
 
 ---
 
@@ -425,12 +435,12 @@
 
 **Jadger's Two Boons — use them before departure:** The party has two free truthful answers from a reliable ghost in the catacombs. The most valuable questions right now: (1) Who is the Matron Mother of House T'sarran? (2) What is the current status of Zuggtmoy's wedding plan? Reminding the party these are available (through Dorbo, Chipgrin, or a passing Borough Warden recruit) would be a natural scene beat before they leave.
 
-**Nym, Kaelira, and Asha in the same proximity:** All three are currently traveling with or near the party. Nym knows about the Daz-Jorlan connection. Asha believes Daz is a sincere Lolth convert. Kaelira holds an extraction contract. A single scene where all three interact — even briefly — is a pressure cooker. Nym is the most likely to accidentally (or deliberately) say something that puts Asha's belief in Daz's conversion under strain.
+**Nym, Kaelira, and Asha in the same proximity:** All three are currently traveling with or near the party. The Duskryns hold an extraction contract on Daz but do not know who he is. Asha believes Daz is a sincere Lolth convert. A single scene where all three interact — even briefly — is a pressure cooker: drow social ritual exposes cover identities under sustained scrutiny, even from incurious mercs. Nym is the most likely to accidentally say something that puts Asha's belief in Daz's conversion under strain.
 
 **Thorin's Moral Arc — Zhentarim Tactics:** He hasn't adopted it yet; the rest of the party doesn't know he's considering it. The first time he uses a Zhentarim-style approach (strategic killing for non-survival reasons) is a visible threshold moment. Asha Vandree — a Lolth cleric who respects power and ruthlessness — would likely approve. That approval could itself be a corrupting influence on him.
 
 **Glabbagool's dormant ooze communion:** Carrying a sentient gelatinous cube with demonstrated mass-ooze telepathy through Zuggtmoy-infected territory is a foreshadowing opportunity. Even a brief moment of Glabbagool becoming agitated in the bag of holding — near the pale puffball clusters — could signal that something in Blingdenstone's fungal situation is resonating with ooze life in an unexpected way.
 
-**Jorlan Duskryn is loose:** He's alive, staggered, and heading somewhere. The party doesn't know where. If Jorlan is Daz's brother, and the T'sarran kill order goes out for the party, Jorlan becomes either a warning or a weapon depending on his allegiance. His next appearance should answer at least one of those questions.
+**Jorlan Duskryn is loose:** He's alive, staggered, and heading somewhere. The party doesn't know where. As the estranged brother of Nym and Kaelira and Ilvara's former lover, his next appearance is a Duskryn family beat — a chance for the party to discover the brother they've been thinking about isn't Daz's at all.
 
 **Burrow Warden Jadger and the Borough Warden trainees:** A small scene of young gnomes drilling in the catacombs under a ghost's instruction is an effective piece of Blingdenstone texture — and a reminder that the party's actions here have institutional consequences that will outlast them.

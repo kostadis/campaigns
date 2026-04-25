@@ -1,6 +1,6 @@
 ## Completed Encounters & Quests
 
-**Heart Fungus Destroyed at Velkynvelve**
+**Heart Fungus Destroyed at the Fungal Cavern (several days from Blingdenstone)**
 - Thorin struck the heart fungus with Dawnbringer (radiant damage, to which it was doubly vulnerable), killing it in a single round.
 - Outcome: Success. The heart fungus is destroyed.
 
@@ -30,7 +30,7 @@
 - Initially confrontational toward Kaelira and Nym Duskryn, calling them traitors to Lolth. Daz convinced her they were Lolth-aligned allies. After the battle, she dropped to her knees and began praying to Lolth, reshaping the events into her goddess's narrative.
 
 **Kaelira and Nym Duskryn — Alive, still operating**
-- Kaelira physically dragged Daz out of danger during the fight. Nym asked Daz to stay out of combat ("We only get paid if you live"). Daz refused. Nym then asked if she could kill Daz's brother (Jorlan). Nym struck Jorlan with lightning bolt during the fight.
+- Kaelira physically dragged Daz out of danger during the fight. Nym asked Daz to stay out of combat ("We only get paid if you live"). Daz refused. Nym then asked Kaelira if she could kill their estranged brother Jorlan. Nym struck Jorlan with lightning bolt during the fight.
 
 **Glabbagool — Alive, damaged**
 - Took 26 points of damage from Ilvara's Insect Plague. Survived. Daz specifically excluded Glabbagool from his Fireball using Sculpt Spells.
@@ -50,7 +50,7 @@
 
 ## Tracked Items
 
-**Velkynvelve — drow outpost, slave pen**: The party has returned to Velkynvelve and fought a major battle here. The heart fungus at the center of the cavern has been destroyed. The bridge is collapsed. Ilvara Mizzrym is dead.
+**The Fungal Cavern — final Ilvara confrontation site (several days from Blingdenstone)**: The party fought a major battle in the Fungal Cavern (chapter 52). The Heart Fungus at the center of the cavern was destroyed. The bridge collapsed. Ilvara Mizzrym is dead. (Note: this is *not* Velkynvelve — Velkynvelve was the original capture/escape outpost in chapters 1–4 and was destroyed earlier; this is a separate fungal cavern Ilvara had relocated to under Zuggtmoy's corruption.)
 
 **Ilvara Mizzrym — drow commander, first contact in Velkynvelve**: Dead. Killed by Grygum's Guiding Bolt after sustained damage from Zalthir (grapple, aerial crits, 40-foot drop) and Thorin (bridge collapse). Her body erupted into poisonous spores, confirming total corruption by Zuggtmoy. She died prophesying about Zuggtmoy's bride and coming chaos.
 
@@ -62,7 +62,7 @@
 
 **Zuggtmoy — Demon Queen of Fungi, presence at Neverlight Grove**: Ilvara was fully corrupted by Zuggtmoy. Upon death, her body erupted into spores rather than leaving a corpse. Ilvara's dying words referenced Zuggtmoy, "the bride," and coming chaos — suggesting Zuggtmoy's plans continue beyond Ilvara's death.
 
-**Shoor Vandree — Ilvara's lieutenant, antagonist**: Referenced indirectly — Nym Duskryn asked if she could kill Daz's brother (described as "covered in fungus" and "the dumber one"), likely referring to Shoor. His current fate in this battle is not explicitly resolved in this chapter.
+**Shoor Vandree — Ilvara's lieutenant, antagonist**: Not referenced in this chapter. (Earlier extracts incorrectly inferred a Shoor reference from Nym's "Can I kill your brother?" line; that line was Nym addressing Kaelira about their estranged brother Jorlan.) His current fate is not resolved in this chapter.
 
 **Glabbagool — sentient gelatinous cube, first contact**: Alive but damaged. Took 26 points from Ilvara's Insect Plague. Protected from Daz's Fireball via Sculpt Spells. Grygum's first priority after the battle was checking on Glabbagool.
 
@@ -70,4 +70,4 @@
 
 **Neverlight Grove — myconid colony**: Referenced by Grygum as one of the corrupted sites witnessed.
 
-**Velkynvelve — second visit conditions**: Major battle occurred. Heart fungus destroyed. Bridge collapsed. Ilvara killed. Spore cloud dissipating. Fungal corruption was extensive (heart fungus, corrupted Ilvara, fungal servants).
+**The Fungal Cavern — battle aftermath**: Major battle occurred. Heart Fungus destroyed. Bridge collapsed. Ilvara killed. Spore cloud dissipating. Fungal corruption was extensive (Heart Fungus, corrupted Ilvara, fungal servants — former Velkynvelve guards converted by Zuggtmoy).

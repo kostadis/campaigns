@@ -17,9 +17,9 @@
 **Nym Duskryn**
 - **Current location:** Velkynvelve cavern, northeast area.
 - **Current state:** Alive and active.
-- **Recent actions:** Waited in the northeast area of the cavern; expressed frustration at Daz's refusal to stay out of combat; asked Daz "Can I kill your brother?" referring to Jorlan; hit Jorlan with a lightning bolt.
-- **Faction:** House Duskryn (with Kaelira). Hired on contract to extract Daz alive.
-- **Revealed motivations/secrets:** Motivated by payment — she and Kaelira only get paid if Daz survives. Views Jorlan as "the dumber" sibling. Professional mercenary attitude. Jorlan Duskryn is confirmed as her brother (or Daz's brother — context implies Jorlan is related to the Duskryn sisters).
+- **Recent actions:** Waited in the northeast area of the cavern; expressed frustration at Daz's refusal to stay out of combat; asked Kaelira "Can I kill your brother?" referring to Jorlan (their estranged sibling); hit Jorlan with a lightning bolt.
+- **Faction:** House Duskryn (with Kaelira). Hired on contract (placed through cutouts) to extract Daz alive; does not know the principal and does not know who Daz is.
+- **Revealed motivations/secrets:** Motivated by payment — she and Kaelira only get paid if Daz survives. Views Jorlan as "the dumber" sibling. Professional mercenary attitude. Jorlan Duskryn is confirmed as her estranged brother (no relation to Daz).
 
 **Kaelira Duskryn**
 - **Current location:** Velkynvelve cavern, northeast area.
@@ -88,15 +88,15 @@
 
 **House T'sarran**
 - **Key members:** Unnamed matron mother (not present); unnamed mage (deceased); unnamed warrior (retreated); multiple unnamed soldiers (mostly dead).
-- **Current goals:** Sent a kill team to Velkynvelve — unclear exact target but they expected "an easy kill." The matron mother will be informed of what happened.
+- **Current goals:** Sent a kill team to the Fungal Cavern (during the final Ilvara fight) — unclear exact target but they expected "an easy kill." The matron mother will be informed of what happened.
 - **Recent actions:** Deployed 5+ drow warriors and a mage to the cavern; lacked Dispel Magic; most were killed by Daz's Fireball; one survivor retreated with a threat.
 - **Relationships:** Hostile to the party. The matron mother will hear about the party's actions — this is flagged as a future threat.
 
 **House Duskryn**
-- **Key members:** Nym Duskryn, Kaelira Duskryn, Jorlan Duskryn (brother to Nym/Kaelira or to Daz — relationship ambiguous but Jorlan shares the Duskryn name).
-- **Current goals:** Nym and Kaelira are on a paid contract to extract Daz alive.
+- **Key members:** Nym Duskryn, Kaelira Duskryn, Jorlan Duskryn (estranged brother of Nym and Kaelira; no relation to Daz).
+- **Current goals:** Nym and Kaelira are on a paid contract to extract Daz alive (placed through cutouts; principal unknown to them; they do not know who Daz is).
 - **Recent actions:** Kaelira physically extracted Daz from danger; Nym hit Jorlan with a lightning bolt; both sisters positioned in the northeast of the cavern.
-- **Relationships:** Contractual relationship with whoever hired them to extract Daz. Nym considers Jorlan expendable ("the dumber one," asked permission to kill him). Jorlan's current factional loyalty is unclear — he was formerly with Ilvara.
+- **Relationships:** Contractual relationship with the unknown principal who hired them to extract Daz. Nym considers Jorlan expendable ("the dumber one," asked Kaelira's permission to kill him). Jorlan's current factional loyalty is unclear — he was formerly Ilvara's lover.
 
 **Followers of Lolth**
 - **Key members:** Asha Vandree.
@@ -140,7 +140,7 @@
 
 ## Locations
 
-**Velkynvelve (Fungal Cavern / Heart Fungus Chamber)**
+**The Fungal Cavern / Heart Fungus Chamber (several days from Blingdenstone — *not* Velkynvelve)**
 - A large, dark, cavernous space in the Underdark containing the Heart Fungus at its center.
 - Featured elevated walkways, a bridge (destroyed by Thorin), difficult terrain of spore-choked fungal growth, and tunnel entrances.
 - The Heart Fungus was a massive, pulsing organism at the center, doubly vulnerable to radiant damage; now destroyed.
@@ -162,8 +162,8 @@
 - **Asha Vandree's Prayers and Theology:** Asha dropped to her knees praying to Lolth after the battle, reshaping what she witnessed into something "her goddess could use." Grygum filed this under "watch this space." Whether Lolth answers or acts on this is unresolved.
 - **Daz's True Beliefs vs. His Cover:** Daz internally reflects on what Menzoberranzan made him and what the Underdark has cost him, and what he now privately believes about "slavery and free people and the basis of any society." His actual ideological transformation is noted but unexplored publicly.
 - **Nym Duskryn's Contract:** Who hired Nym and Kaelira to extract Daz? The contracting party is never named. The contract is purely transactional — they get paid only if Daz lives.
-- **Jorlan Duskryn's Status and Allegiance:** Jorlan was staggered by Nym's lightning bolt. His current loyalty and physical state are uncertain. His relationship to the Duskryn sisters (brother? — he shares the surname) and to the party remains unresolved.
+- **Jorlan Duskryn's Status and Allegiance:** Jorlan was staggered by Nym's lightning bolt. His current loyalty and physical state are uncertain. He is the estranged brother of Nym and Kaelira and Ilvara's former lover; no relation to Daz.
 - **Glabbagool's Welfare:** Took 26 damage from Insect Plague. Survived. Multiple party members (especially Grygum and Thorin) expressed concern. His continued safety in dangerous situations is an ongoing concern.
 - **The Party's Expanding and Contracting Roster:** Grygum noted "We used to have so many people traveling with us, I forgot" and confused enemy minions for allied NPCs. The current full roster of party companions is unclear.
 - **Zuggtmoy's Continued Influence:** The Heart Fungus is destroyed and Ilvara is dead, but Zuggtmoy herself remains active as a demon lord. Previous corrupted sites mentioned include "the egg, the grove, the Pudding King's kingdom of rot." The broader demonic incursion in the Underdark continues.
-- **Daz's Brother:** Nym asked "Can I kill your brother?" — this appears to refer to Jorlan (who shares the Duskryn surname), implying Jorlan may be Daz's brother. This familial connection is not fully clarified.
+- **Jorlan Duskryn loose:** Nym asked Kaelira "Can I kill your brother?" referring to Jorlan, the Duskryn sisters' estranged sibling. He has no relation to Daz; the party may have misheard the line as a question about Daz.

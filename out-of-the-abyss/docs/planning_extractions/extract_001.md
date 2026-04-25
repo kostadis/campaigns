@@ -6,17 +6,17 @@
 - Currently traveling with or near the party
 
 **Nym Duskryn**
-- Fired a lightning bolt that staggered Jorlan Duskryn during the Velkynvelve engagement
-- Asked Daz "Can I kill your brother?" in reference to Jorlan — confirming she knows of a possible blood connection
-- Operating under a transactional extraction contract; contracting party unnamed
+- Fired a lightning bolt that staggered Jorlan Duskryn during the Fungal Cavern engagement (final Ilvara fight)
+- Asked Kaelira "Can I kill your brother?" in reference to Jorlan — a Duskryn family matter (Jorlan is the sisters' estranged brother). The party may have misheard the referent as Daz; that reading is incorrect.
+- Operating under a transactional extraction contract placed through cutouts; she does not know the principal and does not know who Daz is
 
 **Kaelira Duskryn**
-- Present during the Velkynvelve engagement alongside Nym
+- Present during the Fungal Cavern engagement alongside Nym (final Ilvara fight)
 - Currently traveling with or near the party
 
 **Jorlan Duskryn**
 - Took Nym's lightning bolt; survived but is staggered
-- May be Daz's brother per Nym's comment
+- Estranged brother of Nym and Kaelira Duskryn; was Ilvara's lover before she turned on him; no DeVir connection, no relation to Daz
 - Allegiance remains unclear; last seen alive at or near Velkynvelve
 
 **Glabbagool**
@@ -88,7 +88,7 @@
 - Filling the power vacuum left by Juiblex's retreat; Jimjar had warned she "prefers to move in while you're sleeping"
 
 **House T'sarran**
-- Kill team sent to Velkynvelve was largely destroyed by the party
+- Kill team sent to the Fungal Cavern (during the final Ilvara fight, several days from Blingdenstone) was largely destroyed by the party
 - One survivor retreated with a credible threat; the Matron Mother is to be informed
 - Retaliation arc is open; Grygum needs to identify the Matron Mother before she identifies them
 
@@ -113,10 +113,10 @@
 
 ## Revealed Information
 
-- **Jorlan Duskryn may be Daz's brother** — Nym asked "Can I kill your brother?" while referring to Jorlan; this implies knowledge of a blood connection, though unconfirmed
+- **Jorlan Duskryn is the Duskryn sisters' estranged brother** — Nym's "Can I kill your brother?" was addressed to Kaelira about their own family; Jorlan has no relation to Daz. The party may have misheard the line as referring to Daz
 - **Juiblex's post-defeat plan** — He intends to consume Zuggtmoy's "banquet" (Araumycos or the wedding itself) and use it to be reborn at greater power; this was stated aloud upon his expulsion from Blingdenstone
 - **Zuggtmoy is filling Juiblex's vacuum** — Her fungal influence is already visibly accelerating in Blingdenstone; she moves into power vacuums quickly and quietly
-- **The Duskryn extraction contract** — Purely transactional; contracting party remains unnamed; Nym and Kaelira are hired to bring Daz back alive, not to harm the party
+- **The Duskryn extraction contract** — Purely transactional; placed through cutouts so Nym and Kaelira do not know the principal and do not know who Daz is; they are hired to bring him back alive, not to harm the party
 - **Blingdenstone surface route confirmed** — The Diggermattocks confirmed a viable path to the surface exists through the city and agreed to help the party use it
 - **Glabbagool's ooze network** — His brief telepathic connection to every ooze in Blingdenstone via the bone die suggests a latent capacity for large-scale ooze communion; lasting effects unknown
 
@@ -129,7 +129,7 @@
 | Asha Vandree | Traveling with or near the party; location near Blingdenstone |
 | Nym Duskryn | Traveling with or near the party; location near Blingdenstone |
 | Kaelira Duskryn | Traveling with or near the party; location near Blingdenstone |
-| Jorlan Duskryn | Alive but staggered; last seen at or near Velkynvelve; allegiance uncertain |
+| Jorlan Duskryn | Alive but staggered; last seen at or near the Fungal Cavern (post final Ilvara fight); allegiance uncertain |
 | Glabbagool | Inside the party's bag of holding |
 | Pelek | Spirit passed on; no longer present |
 | Chipgrin | Blingdenstone upper boroughs (controlling as defense force) |

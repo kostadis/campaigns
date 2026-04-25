@@ -155,6 +155,8 @@ When Daz and the party arrive in Menzoberranzan, Vizeran initiates first contact
 **Canon disclosure in that scene**:
 - Vizeran tells Daz who Vizeran is.
 - Vizeran tells Daz why Daz exists (preserved as deliberate leverage, not an accident).
+- Vizeran confirms that the Duskryn extraction contract was his, placed through cutouts, with Nym and Kaelira deliberately kept blind. The trigger was Ilvara's escalating cruelty during Daz's Velkynvelve captivity and the trajectory of her continuing pursuit after the outpost fell; House T'sarran's interest at the Fungal Cavern was downstream, not part of the original trigger. He explains why he could not take custody himself: signature ripening, vault decay in proximity, visibility cost, and recognition cost (full canon in `daz_heir.md` §VI).
+- Vizeran confirms that Daz is the *only* viable key, not merely the best one. He has tried the alternatives (forced extraction from a captured Do'Urden noble, his own struck-from-the-rolls signature, search for other DeVir survivors); none work. Canon line: *"You are not the best option. You are the only option. I have looked."* The pre-window failure mode (Daz dies before unlock = campaign ends in defeat) is therefore real, not bluff. Full canon in `daz_heir.md` §VII.
 - This is a private revelation, never a public declaration.
 
 **Mission flow implication**:

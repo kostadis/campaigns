@@ -1,6 +1,6 @@
 ## Ilvara Mizzrym
 
-Ilvara Mizzrym, high priestess of House Mizzrym, served as Zuggtmoy's corrupted instrument throughout this confrontation. She was stationed in the cavern above the heart fungus at the center of Velkynvelve's fungal infestation.
+Ilvara Mizzrym, high priestess of House Mizzrym, served as Zuggtmoy's corrupted instrument throughout this confrontation. She was stationed in the cavernous space above the Heart Fungus at the center of the Fungal Cavern (a separate location several days' travel from Blingdenstone, *not* Velkynvelve — Velkynvelve was the original capture/escape outpost).
 
 Zalthir opened the fight by grappling her with his Eldritch Claw Tattoo, dragging her forty feet into the air, striking her twice (including two critical hits for sixteen damage), and dropping her to the stone floor. After the fall, wounded and bleeding, she used a legendary reaction to impose a DC-14 Wisdom saving throw fear effect on Zalthir, successfully frightening him and rendering him unable to approach her — effectively neutralizing the monk's entire close-range combat kit for a full round.
 
@@ -48,4 +48,4 @@ Glabbagool, the sentient gelatinous cube companion traveling with the party, was
 
 ## The Matron Mother of House T'sarran
 
-The matron mother of House T'sarran is referenced but does not appear directly. The T'sarran mage, before dying, warned: "The matron mother of House T'sarran will hear about this." The last surviving T'sarran warrior echoed this, retreating without urgency and saying: "We will meet again. Enjoy your victory for the moment." Grygum noted that a threat delivered without heat is always more credible than one made in anger, and resolved to find out who the matron mother is before she finds out who the party is. House T'sarran had sent soldiers and a mage to Velkynvelve, apparently under contract, expecting an easy kill. Their forces were largely destroyed by Daz's Fireball and the party's combined efforts.
+The matron mother of House T'sarran is referenced but does not appear directly. The T'sarran mage, before dying, warned: "The matron mother of House T'sarran will hear about this." The last surviving T'sarran warrior echoed this, retreating without urgency and saying: "We will meet again. Enjoy your victory for the moment." Grygum noted that a threat delivered without heat is always more credible than one made in anger, and resolved to find out who the matron mother is before she finds out who the party is. House T'sarran had sent soldiers and a mage to the Fungal Cavern (during the final Ilvara fight), apparently under contract, expecting an easy kill. Their forces were largely destroyed by Daz's Fireball and the party's combined efforts.

@@ -64,7 +64,7 @@
 - **Fuurm Coppernose and Baedora encountered** — Two human drow escapees found in crystal cave and invited to join the group.
 - **Shrieker encounter — Fungal Forest** — Resolved without harm (loud alarms only).
 - **Lost Tomb of Khaem — Netherese tomb exploration** — Entered via feminine voice lure. Upper tomb: four spectres defeated, sarcophagi looted of Netherese treasure. Lower tomb: Wraith Brysis of Khaem destroyed by Grygum's acid breath and Dawnbringer. False tomb trap dissipated. Dawnbringer (sentient sunblade) recovered. Necklace of Fireballs and Potion of Greater Healing found in invisible chest.
-- **Drow pursuit — escape from Velkynvelve pursuers** — Pursuers lost the party's trail (confirmed by Eldeth). No longer actively followed by Ilvara's original group from Velkynvelve (Ilvara herself was later encountered and killed at Neverlight Grove — see below).
+- **Drow pursuit — escape from Velkynvelve pursuers** — Pursuers lost the party's trail (confirmed by Eldeth). No longer actively followed by Ilvara's original group from Velkynvelve (Ilvara herself was later encountered and killed at the Fungal Cavern — see below).
 - **Stool — return to Neverlight Grove** — Completed; Stool arrived safely, was reunited with his kind, then departed with Rusharoo's evacuating myconid group after the grove proved too dangerous.
 - **Rumpadump — return to Neverlight Grove** — Completed; Rumpadump arrived safely, gave Zalthir a self-improvement list, then departed with the myconid evacuation group.
 - **Reach Neverlight Grove — myconid colony** — Arrived. Colony found corrupted by Zuggtmoy through Sovereign Phylo. Garden of Welcome explored, Xinaya found and mercy-killed, Yestabrod's abomination killed, Sarith transformed and killed. Allied myconids evacuated with Basidia and Rusharoo. Party fled.
@@ -104,8 +104,8 @@
 - **Battle for Blingdenstone — ooze incursion** — Ooze army that breached the Trader's Grotto was pacified by Jimjar's bone die and Glabbagool's telepathic bridge. Oozes dispersed peacefully. Blingdenstone saved.
 - **Council of Blingdenstone — Post-War Political Settlement** — All factions reconciled: miners guild, Gold Whisker wererats, ghosts, spiritual leaders, working-class gnomes. Wererats granted control of upper boroughs. Sustainable mining compromise respected ghost burial grounds. Dorbo announced plans to reopen Blingdenstone for surface trade.
 - **Characters return to the surface world — end of chapter 7** — Party departed Blingdenstone via northern exit tunnels with gnomish honor guard, heading to the surface.
-- **Ilvara Mizzrym — final confrontation and death** — Encountered again at Neverlight Grove / Velkynvelve (Zuggtmoy-corrupted location) after being tracked. Fully corrupted by Zuggtmoy; commanded fungal spore servants (former Velkynvelve guards); possessed the Heart Fungus; could phase through fungal matter. Party allied with Asha Vandree (who provided tactical intelligence and held the perimeter) to kill her. Heart Fungus destroyed by Thorin's Dawnbringer (radiant, single round). Ilvara killed by Grygum's Guiding Bolt. Body erupted into poisonous spores — no remains. House T'sarran reinforcements mostly destroyed; one survivor escaped threatening reprisal.
-- **Velkynvelve — second visit** — Heart fungus destroyed, bridge collapsed, Ilvara killed, fungal minions dead. House T'sarran strike force largely eliminated; one warrior escaped.
+- **Ilvara Mizzrym — final confrontation and death** — Encountered again at **the Fungal Cavern** (a separate Zuggtmoy-corrupted cavern several days' travel from Blingdenstone, *not* Velkynvelve and *not* Neverlight Grove) after being tracked. Fully corrupted by Zuggtmoy; commanded fungal spore servants (former Velkynvelve guards converted via the mushroom artifact she carried out of Neverlight Grove); possessed the Heart Fungus; could phase through fungal matter. Party allied with Asha Vandree (who provided tactical intelligence and held the perimeter) to kill her. Heart Fungus destroyed by Thorin's Dawnbringer (radiant, single round). Ilvara killed by Grygum's Guiding Bolt. Body erupted into poisonous spores — no remains. House T'sarran reinforcements (sent to the Fungal Cavern under contract) mostly destroyed; one survivor escaped threatening reprisal.
+- **The Fungal Cavern — final Ilvara battle** — Heart Fungus destroyed, bridge collapsed, Ilvara killed, fungal minions dead. House T'sarran strike force largely eliminated; one warrior escaped. (Several days from Blingdenstone — *not* a return to Velkynvelve.)
 - **Drow pursuers final confrontation — chapter 7** — Ilvara Mizzrym dead. Jorlan Duskryn survived (charged Ilvara driven by personal vendetta; allowed to pass by Thorin). Asha Vandree survived, now praying to Lolth and reshaping events into Lolth-aligned theology.
 
 ---
@@ -183,6 +183,6 @@
 | Glooglugogg | Unknown | Sloobludop (destroyed) | Was friendly |
 | Dorhun (stone giant) | Alive | Cairngorm Cavern (sealed) | Friendly |
 | Kaelira Duskryn | Alive | Unknown | Friendly — extraction contract for Daz active |
-| Nym Duskryn | Alive | Unknown | Friendly — extraction contract for Daz active; asked to kill Jorlan |
+| Nym Duskryn | Alive | Unknown | Friendly — extraction contract for Daz active (placed through cutouts; principal unknown to her); asked Kaelira about killing their brother Jorlan |
 | House T'sarran (one surviving warrior) | Alive | Unknown | Hostile — threatened reprisal from matron mother |
 |

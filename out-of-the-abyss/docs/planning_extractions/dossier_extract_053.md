@@ -38,7 +38,7 @@ Kaelira, one of the Duskryn sisters sent to extract Daz, physically grabbed Daz'
 
 Nym Duskryn, one of the Duskryn sisters contracted to extract Daz from the Underdark, was present throughout the battle. She and Kaelira had been sent to deliver Daz alive — a transactional arrangement where they only get paid if he survives. She urged Daz to stay out of combat: "Can you please keep your head down and out of combat? We only get paid if you live." Daz flatly refused, telling her he wouldn't abandon his companions and that the best way for her to get paid was to continue fighting.
 
-Frustrated by Daz's refusal, Nym redirected her irritation and asked, with professional flatness: "Can I kill your brother?" — referring to Jorlan Duskryn, noting he "was always the dumber of the ones" and asking whether he was covered in fungus. She subsequently struck Jorlan with a lightning bolt during the battle, sending him staggering across the cavern floor. Asha Vandree initially suspected Nym of being a traitor to Lolth, but Daz's cover story defused the confrontation.
+Frustrated by Daz's refusal, Nym redirected her irritation and asked Kaelira, with professional flatness: "Can I kill your brother?" — referring to Jorlan Duskryn, the Duskryn sisters' estranged brother, noting he "was always the dumber of the ones" and asking whether he was covered in fungus. (The party may have misheard the line as a question to Daz; that reading is incorrect.) She subsequently struck Jorlan with a lightning bolt during the battle, sending him staggering across the cavern floor. Asha Vandree initially suspected Nym of being a traitor to Lolth, but Daz's cover story defused the confrontation.
 
 ## The Matron Mother of House T'sarran
 

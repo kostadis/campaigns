@@ -39,3 +39,50 @@ The Demon's Gambit: The demons (Demogorgon, Zuggtmoy) ignore Daz because he has 
 Menzoberranzan Response: House Baenre and the Orthodoxy have no record of "Daz the Mercenary." He is a ghost in their system. If they captured him and interrogated him, he would reveal nothing, because he knows nothing. This makes him the perfect infiltrator.
 GM Recommendation (Pressure Point):
 The Sharran Contact: In Menzoberranzan (perhaps in the Braeryn), the party might encounter the Sharran Priestess who performed the ritual. She recognizes Daz. She doesn't speak to him, but she gives him a look of profound, pitying recognition. She might whisper to him, "The vessel remains sealed. Good." This hints to the player that there is a missing piece of themselves without forcing the reveal immediately.
+
+--------------------------------------------------------------------------------
+
+VI. Why Vizeran Does Not Take Daz Into Custody
+
+The obvious move — grab Daz and hold him in stasis until the unlock window — is closed for Vizeran. Stasis breaks the asset.
+
+1. **Signature ripening.** The Sharran vault does not unlock on time. It unlocks on a *trauma signature* matching the DeVir purge: capture by drow, slavery, escape, demon-touch, return to Menzoberranzan. A boy in stasis generates no signature; the codes never ripen. The Underdark journey is the key being cut. Velkynvelve, the demon plague, the long road home — these are deliberate calibration, not coincidence.
+2. **Vault decay in proximity.** Shar's Mercy of Oblivion degrades when the subject is held inert near the things he was made to forget. Vizeran near Daz, or Daz near DeVir relics, leaks memory in the wrong order and rots the codes. Daz must be kept *away* from Vizeran until the single unlock moment.
+3. **Visibility cost.** Vizeran is the most-scryed drow in the Underdark. The Orthodoxy, multiple matron houses, and Lolth's clergy track who he meets. A young drow male in his lair generates investigation; the investigation finds the answer; Daz dies; the plan dies.
+4. **Recognition cost.** Daz still has DeVir features. Drow memory is long — old retainers, old portraits, House Baenre's archivists. Anyone who saw Daz in Vizeran's company would eventually triangulate "missing DeVir heir." The Sharran vault hides his self-knowledge, not his face.
+
+**Policy: never own him; only shield him.**
+
+When the threat trajectory crosses Vizeran's intervention threshold — Ilvara's escalating cruelty during Daz's Velkynvelve captivity, the outpost's destruction, and Ilvara's continuing pursuit through the Underdark with Daz exposed — Vizeran intervenes through deniable cutouts. He places a transactional extract-alive contract on a "young drow male, last seen in Velkynvelve, payment on confirmed live retrieval." No name, no House, no reason given. The Duskryn sisters take the job because the money is good; they do not know who placed the contract and they do not know who Daz is. They are professional, transactional, and incurious — exactly what blind-cutout protection requires. (Nym's "Can I kill your brother?" line, said later during the Fungal Cavern fight, is a Duskryn family matter — Jorlan is the sisters' estranged brother, unrelated to Daz.) House T'sarran's interest surfaces later, at the Fungal Cavern, as a downstream complication; it was not part of Vizeran's original trigger.
+
+This is why the Duskryns shadow rather than seize. The contract is worded as "extract alive" because that is mercenary boilerplate; the *operational* posture is shadow protection — observe, intervene if threats escalate, physical extraction only as last resort. Vizeran wants Daz alive *and* in the world, generating signature, until the unlock window opens.
+
+**The protection has a half-life.** Vizeran cannot leave the Duskryns glued to Daz forever — their continued presence is itself the leak. Two professional mercs shadowing one no-name drow male for months on end is the kind of pattern that gets noticed: by other mercenaries, by drow who track movements through the Underdark, by anyone wondering what is special about this target. The longer they stay, the more the question "why these two, why this one?" propagates. Sustained presence converts a deniable cutout into a beacon. Vizeran's discipline is therefore to deploy the Duskryns only against the acute threat window (the Ilvara pursuit and the Fungal Cavern confrontation) and to extract them before their visibility costs more than their protection. They are a scalpel, not a permanent escort. With Ilvara dead and the Fungal Cavern fight resolved, the contract enters its wind-down phase — Vizeran ends it or quietly redirects them somewhere between Blingdenstone departure and the early Menzoberranzan approach. Their departure is a feature, not a failure.
+
+--------------------------------------------------------------------------------
+
+VII. Failure Modes of the Unlock
+
+The premise that Daz is the only key must survive the question: what if Daz dies? A "Daz dies = plan dies" model makes Vizeran reckless for staking his life's work on a slave-pit mage. A "Daz dies = nothing changes" model makes Daz unimportant. The fix is a forked failure mode where the *kind* of ending changes by the *timing* of Daz's death.
+
+**Clean path — Daz survives to the unlock window.**
+DeVir signature matches. Living Circuit resolves. Demon plague ends. Orthodoxy falls. Vizeran dies completing the seal. The campaign's "good" ending. Daz makes the Stage 5 identity choice (claim / reject / burn the name) and the choice is consequential.
+
+**Pre-window death — Daz dies before the unlock window opens.**
+Vizeran has spent decades testing alternatives. None of them work:
+- *Forced extraction (captured Do'Urden noble, tortured signature)* — the founders' ritual rejects unwilling blood. Vizeran tried this early; it is the experiment that taught him the dark path is closed.
+- *His own signature* — struck from the rolls when he turned heretic. The ritual reads him as not-DeVir.
+- *Other survivors* — he searched. The purge was thorough. There are none.
+- *Time* — the anchor is burning. There is no decade left to find another path.
+
+If Daz dies before the unlock window, the Living Circuit holds for the months Vizeran has left. The demon plague continues. Menzoberranzan falls in slow motion. Vizeran dies an anchor with no payload. The campaign continues but ends in defeat — the "failure" ending. There is still a campaign: political collapse, surface evacuation, the reckoning with what could not be saved.
+
+This is not railroad protection. Pre-Stage-4, Daz dying looks like a tragic PC death and the table does not yet know what was lost. Post-Stage-4, the player carries the truth, and the campaign weight is on the player rather than on the DM. The agency is preserved because the information is shared. Vizeran's first-contact line is canonical: *"You are not the best option. You are the only option. I have looked."*
+
+**In-window death — Daz dies during the unlock itself.**
+The Sharran vault fires in its degraded form. The codes burn through but unfiltered — the Living Circuit detonates, the demon plague is purged but Menzoberranzan goes with it. Pyrrhic. No one wanted this. The deadman fork.
+
+**What this gives the campaign:**
+- Vizeran is no longer reckless; he is desperate. He saved one child because there *was* one child; he tried the dark path; it failed; the boy is all he has.
+- Vizeran's leverage on the party reads cleanly: "If Daz lives, you choose the ending. If Daz dies before the window, *no one* chooses — the world ends slowly. If Daz dies during the window, the world ends quickly. Choose carefully."
+- Daz's lived-experience requirement retro-justifies why Vizeran does not stash him: stasis kills the asset. Vizeran is *forced* to bet on a slave-pit mage and pray. That fragility is the character — the most paranoid drow alive, holding his life's work together with one thread, knowing it.

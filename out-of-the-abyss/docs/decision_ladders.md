@@ -46,6 +46,36 @@ Goal: Daz discovers he is Daz'issin DeVir, heir to a destroyed noble house, memo
 
 ---
 
+## Ladder: Duskryn Contractor Identity
+
+Goal: the party learns the Duskryn extraction contract was placed by Vizeran DeVir, through deniable cutouts, as shadow protection for Daz. Pairs with `docs/daz_heir.md` §VI and `docs/daz_devir_narrative_arc.md` (pre-Menzoberranzan protection canon).
+
+This ladder is **deliberately compressed**. The Duskryns do not know who hired them; they cannot leak the contractor identity under pressure, bribery, or scrying. Stages 1–3 generate party suspicion only; the actual identity surfaces at Stage 4 first contact with Vizeran in Menzoberranzan.
+
+### Stage 1: Ambient Signals (Deniable)
+- **Signals**: the Duskryns' contract is unusually well-funded for an extract-alive job on a no-name target. Payment is reliable through dead drops. Nym, when asked, can only describe the cutout chain, not the principal. Late in the Underdark crossing, signs accumulate that the contract is winding down — payment cadence shifts, Nym mentions a "completion clause" tied to safe passage past a specific waypoint, the sisters discuss next contracts in the party's hearing.
+- **Decision options**: ignore; press the Duskryns for the cutout's identity (they will share what they know; it is two layers of deniable broker); attempt scrying or magical interrogation on Nym (will not reach the principal; she truly does not know); ask whether they intend to stay (they do not — the job ends when the contract terms close).
+- **Consequence if ignored**: the party continues to assume the principal is a House faction, T'sarran, or a surface power. When the Duskryns peel off, the party reads it as abandonment rather than discipline.
+
+**Note on the contract's half-life.** The principal (Vizeran) deliberately ended the protection before its visibility outweighed its value. Two mercs shadowing one target for months is itself a beacon. The acute window (Ilvara's pursuit, the Fungal Cavern fight) is now closed; sustained presence past that point is exactly what Vizeran wants to avoid. The Duskryns' departure is canonically Vizeran's discipline, not their failure. Stages 2–4 of this ladder may unfold *after* the Duskryns have departed, with the party trying to identify a contractor whose cutouts have already gone cold.
+
+### Stage 2: Material Evidence (Contested)
+- **Evidence**: the cutout chain ends at a Sharran-aligned broker in the Braeryn equivalent who refuses to name the principal but accepts the contract payments without surprise. A second broker confirms the contract description does not match T'sarran or Mizzrym style — too clean, too patient, no "kill on failure" clause.
+- **Decision options**: pressure the brokers; cross-reference with Vizeran (who deflects); set up a sting on the next payment drop.
+- **Consequence if ignored**: the party reaches Menzoberranzan still wrong about who is paying.
+
+### Stage 3: Conflicting Testimony (Ambiguous)
+- **Conflict**: the Sharran-aligned broker (under sufficient pressure) admits the principal "is not a House." A surface contact insists no surface power placed it. Vizeran continues to deflect or claim ignorance of the contract entirely.
+- **Decision options**: triangulate; press Vizeran harder; wait for first contact; accept the contractor identity as unknowable.
+- **Consequence if ignored**: the reveal at Stage 4 lands as surprise rather than confirmation — which may be desirable narratively.
+
+### Stage 4: Hard Proof (Irreversible)
+- **Proof condition**: at first contact in Menzoberranzan, Vizeran confirms to Daz directly that the Duskryn extraction contract was his. He explains *why* he intervened (Ilvara's cruelty, T'sarran scrutiny) and *why* he did not take Daz into custody (the four constraints in `daz_heir.md` §VI: signature ripening, vault decay, visibility, recognition).
+- **Required decision**: Daz and the party choose how to handle the Duskryns going forward — pay them off, fold them in, sever them, or leave the contract running as continued shadow protection. Each option has costs.
+- **Irreversible consequences**: the party now knows Vizeran has been managing Daz's life from a distance for the entire campaign. Trust calculus shifts. The Stage 5 identity choice (claim/reject/burn) inherits this context. If the Duskryns learn — through party action, leak, or Vizeran's own disclosure — they will renegotiate or walk; their value as a blind cutout is spent the moment the secret is shared.
+
+---
+
 ## Ladder: Vizeran Disclosure (True Endgame)
 
 Goal: the party learns Vizeran does not want to stop the demon lords — he wants to aim them at Menzoberranzan and die with the city. Pairs with `docs/npcs/vizeran_devir.md` and `docs/campaign_master_plan.md`.

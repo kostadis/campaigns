@@ -29,7 +29,7 @@
 - Claims membership in the Ember Vanguard ("the feared mage of the Ember Vanguard")
 - Has been mentally composing journal entries since escaping Velkynvelve, inspired by Milo Goodbarrel's writing practice
 - Privately holds beliefs about slavery, freedom, and society that diverge from drow norms
-- Jorlan Duskryn may be his brother (Nym Duskryn asked "Can I kill your brother?" referring to Jorlan)
+- No known living kin in current canon
 
 **Zalthir** — Dragonborn Shadow Monk
 - Fire breath; can cast/maintain Darkness (sees through his own); can fly (sprout wings); Shadow Step teleportation; Stunning Strike; Steps of the Wind
@@ -97,7 +97,7 @@
 **Asha Vandree** — Drow cleric of Lolth; genuinely devout; believes Daz is a Lolth convert (deception); allied against Ilvara; currently reshaping the battle's events into a Lolth-favorable narrative
 **Nym Duskryn** — Drow mercenary; hired on contract to extract Daz alive; sister of Kaelira; professional, transactional
 **Kaelira Duskryn** — Drow mercenary; hired on contract to extract Daz alive; sister of Nym
-**Jorlan Duskryn** — Drow warrior; scarred, bitter; former lover of Ilvara; alive but staggered after taking Nym's lightning bolt; may be Daz's brother; allegiance uncertain
+**Jorlan Duskryn** — Drow warrior; scarred, bitter; former lover of Ilvara at Velkynvelve, demoted after disfigurement, kept tracking her after the outpost fell; brother of Nym and Kaelira Duskryn; arrived at the Fungal Cavern coincidentally (chasing Ilvara out of vengeance — no DeVir connection); alive but staggered after taking Nym's lightning bolt during that battle; allegiance uncertain
 
 ---
 
@@ -155,8 +155,8 @@
 
 ### Drow Factions
 **House Mizzrym** — Ilvara was their agent; connected to Velkynvelve; Welnaste is a caravan leader; Ilvara is now dead
-**House T'sarran** — Sent a kill team to Velkynvelve that was mostly destroyed by the party; one survivor retreated with a credible threat; the Matron Mother will be informed
-**House Duskryn** — Nym and Kaelira Duskryn are mercenaries hired to extract Daz alive; Jorlan Duskryn may be related to Daz
+**House T'sarran** — Sent a kill team to the Fungal Cavern (during the final Ilvara battle) that was mostly destroyed by the party; one survivor retreated with a credible threat; the Matron Mother will be informed. The contract that brought T'sarran forces there is unknown.
+**House Duskryn** — Three known siblings: Nym and Kaelira (mercenaries hired through cutouts to extract Daz alive; contractor identity unknown to them) and Jorlan (estranged warrior; was originally Ilvara's lover at Velkynvelve before disfigurement and demotion; surfaced again at the Fungal Cavern fight pursuing his own vengeance against her; no connection to the contract or to Daz)
 **Cult of Lolth** — Dominant force in Menzoberranzan; organizes drow society around noble houses; Asha Vandree is a genuine devotee
 
 ### Gracklstugh Factions
@@ -189,7 +189,9 @@
 **Blingdenstone** — Deep gnome city in the Underdark; recently liberated from the Pudding King's ooze threat; ooze crisis resolved; multiple factions in fragile peace; reopening for surface trade; Zuggtmoy's influence creeping in (accelerated fungal growth, pale puffball mushrooms); contains the Maze (deadly trap-filled entrance tunnels), Trader's Grotto, Diggermattock Hall, Temple of the Ruby in the Rough, Foaming Mug Tavern, the Gilded Sheath, the Rock Blight (cleansed temple area)
 
 ### Previously Visited
-**Velkynvelve** — Drow outpost/prison 100 feet up in a cavern; hanging stalactite towers; where the party was imprisoned and escaped; site of the final battle against Ilvara; Heart Fungus destroyed; bridge collapsed
+**Velkynvelve** — Drow outpost/prison 100 feet up in a cavern; hanging stalactite towers; where the party was originally imprisoned and from which they escaped (chapters 1–4). The original drow pursuit force came from here. The outpost was later destroyed (Ilvara abandoned it after the escape). The final Ilvara fight did **not** take place here.
+
+**The Fungal Cavern** — A separate cavern several days' travel from Blingdenstone where the party encountered Ilvara for the last time. Site of the final battle (chapter 52: "A Spore-Filled Finale"). The Heart Fungus stood at the center; bridges spanned the cavern; an elevated platform sat above the heart-fungus mass. Ilvara, fully Zuggtmoy-corrupted and carrying a mushroom artifact from Neverlight Grove, was found here with a contingent of former Velkynvelve guards converted into spore servants. Ilvara died here (Grygum's Guiding Bolt); body erupted into spores; Heart Fungus destroyed; bridge collapsed.
 **Gracklstugh** — Duergar metropolis; xenophobic, regimented; non-duergar restricted to Darklake District; afflicted by widespread madness; multiple factions in conflict; the party departed dramatically on Themberchaud's back; wanted posters remain; mass executions reported; current state uncertain
 **Sloobludop** — Kuo-toa village; completely destroyed by Demogorgon
 **Neverlight Grove** — Myconid settlement; corrupted by Zuggtmoy via Phylo; loyalist myconids fled with Basidia; Yggmorgus (giant central mushroom) serves as Zuggtmoy's seat of power; wedding rehearsal observed
@@ -284,9 +286,9 @@ Multiple demon lords are physically present on the Prime Material Plane in the U
 3. **House T'sarran retaliation** — A surviving warrior retreated with a credible threat; the Matron Mother will be informed; Grygum needs to identify her before she identifies them
 
 ### Drow Threats
-4. **Who hired the Duskryn sisters to extract Daz?** — Contracting party unnamed; purely transactional contract
+4. **Who hired the Duskryn sisters to extract Daz?** — Contracting party placed the contract through cutouts; Nym and Kaelira do not know the principal and do not know who Daz is
 5. **Daz's false Lolth identity with Asha** — Described as "load-bearing"; its collapse could be catastrophic
-6. **Jorlan Duskryn's fate and relationship to Daz** — Alive, staggered; may be Daz's brother; allegiance unclear
+6. **Jorlan Duskryn's fate** — Alive, staggered; estranged brother of Nym and Kaelira; was Ilvara's lover; no DeVir connection; allegiance unclear
 7. **Ilvara's dying prophecy** — Spoke of Zuggtmoy, "the bride," and "the chaos/mayhem to come"; delivered as sincere belief, not bluff
 
 ### Demon Lord Crisis

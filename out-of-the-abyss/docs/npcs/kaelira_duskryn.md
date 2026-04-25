@@ -17,7 +17,7 @@ Member of House Duskryn; sister of Nym Duskryn and one of the Duskryn sisters. S
 - Action-oriented and willing to risk poisonous gas and insect-choked caverns to fulfill her objective
 
 ## History with the Party
-- **Extraction Battle:** Appeared mid-combat alongside her sister/brother Nym during a battle in an insect-choked cavern with poisonous gas. Physically seized Daz's arm and dragged him northeast through the danger to where Nym was waiting at a safer position. Daz did not consent to the extraction; she enforced his survival regardless
+- **Extraction Battle:** Appeared mid-combat alongside her sister Nym during a battle in an insect-choked cavern with poisonous gas. Physically seized Daz's arm and dragged him northeast through the danger to where Nym was waiting at a safer position. Daz did not consent to the extraction; she enforced his survival regardless
 - **Accusation by Asha Vandree:** Asha Vandree challenged her presence and identified Kaelira as a potential traitor to Lolth. Daz intervened and defused the situation by claiming Kaelira was a "friend of Lolth" and vouching for her loyalty
 
 ## Current Status

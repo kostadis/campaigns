@@ -17,7 +17,7 @@
 **Nym Duskryn**
 - **Current location:** Velkynvelve cavern, near Daz
 - **Current state:** Alive; active combatant
-- **Recent actions:** Waited for Kaelira to bring Daz to her position; asked Daz to stay out of combat so they could get paid; redirected frustration by asking if she could kill Daz's brother; hit Jorlan Duskryn with a lightning bolt
+- **Recent actions:** Waited for Kaelira to bring Daz to her position; asked Daz to stay out of combat so they could get paid; redirected frustration by asking Kaelira if she could kill their estranged brother Jorlan; hit Jorlan Duskryn with a lightning bolt
 - **Faction:** Duskryn sisters (mercenary/contract); hired to extract Daz
 - **Revealed motivations/secrets:** On a contract to extract Daz alive; only gets paid if Daz survives; has a professional, transactional attitude toward the mission
 
@@ -104,8 +104,8 @@
 **Duskryn Sisters (Mercenary)**
 - **Key members:** Nym Duskryn, Kaelira (Duskryn)
 - **Current goals:** Extract Daz alive; get paid for the contract
-- **Recent actions:** Kaelira hauled Daz through the insect plague to safety; Nym asked Daz to stay out of combat; Nym hit Jorlan with a lightning bolt; asked if she could kill Daz's brother
-- **Relationships:** Contracted to protect/extract Daz; Jorlan Duskryn appears to be related (surname); hostile toward Jorlan (Nym called him "the dumber of the ones" and noted he's covered in fungus)
+- **Recent actions:** Kaelira hauled Daz through the insect plague to safety; Nym asked Daz to stay out of combat; Nym hit Jorlan with a lightning bolt; asked Kaelira if she could kill their estranged brother Jorlan
+- **Relationships:** Contracted to protect/extract Daz (principal unknown to them); Jorlan Duskryn is their estranged brother (no relation to Daz); hostile toward Jorlan (Nym called him "the dumber of the ones" and noted he's covered in fungus)
 
 **Zuggtmoy (Demon Lord)**
 - **Key members:** Zuggtmoy (demon lord of fungal nightmare); Ilvara Mizzrym (vessel/instrument, now dead)
@@ -159,7 +159,7 @@
 
 ## Locations
 
-**Velkynvelve (Fungal Cavern)**
+**The Fungal Cavern (several days from Blingdenstone — *not* Velkynvelve)**
 - Large cavernous space containing the heart fungus at its center
 - Featured elevated walkways, a bridge (destroyed by Thorin), and a cavern entrance
 - Difficult terrain created by fungal growth surrounding the heart fungus
@@ -174,7 +174,7 @@
 
 - **Zuggtmoy's prophecy about "the bride":** Ilvara muttered about Zuggtmoy, "the bride," and coming chaos/mayhem before dying. This prophecy remains unexplained and unresolved.
 - **House T'sarran retribution:** The surviving T'sarran warrior retreated with a threat ("We will meet again"); the T'sarran mage's final words were that the Matron Mother of House T'sarran would hear about this. Grygum noted the need to identify the matron mother before she identifies them.
-- **Daz's brother:** Nym Duskryn asked if she could kill Daz's brother, describing him as "the dumber of the ones" and noting he's "covered in fungus." His identity, location, and role are unresolved.
+- **Jorlan Duskryn loose:** Nym Duskryn asked Kaelira if she could kill their estranged brother Jorlan, describing him as "the dumber of the ones" and noting he's "covered in fungus." Jorlan survived the lightning bolt; his current location and allegiance are unresolved. (No relation to Daz; the party may have misheard Nym's "your brother" as referring to Daz.)
 - **Who hired the Duskryn sisters to extract Daz?** The contract to retrieve Daz alive exists but the contracting party is not identified.
 - **Asha Vandree's prayers and theological reshaping:** Asha is praying to Lolth and reinterpreting the battle's events. What Lolth makes of this, and whether Asha will be "answered," is unresolved. Thorin notes he's "seen stranger things answered."
 - **Daz's deception with Asha:** Daz continues to maintain a false Lolth-follower identity with Asha. This is described as "load-bearing" — its collapse could be catastrophic.

@@ -46,7 +46,7 @@
 
 ## Party State Updates
 
-- **Location:** Inside the Velkynvelve cavern, mid-combat against Ilvara (Zuggtmoy-corrupted drow priestess), the Big Heart Fungus, Jorlan, and four fungal spore servants (former Velkynvelve guards; one destroyed).
+- **Location:** Inside the Fungal Cavern (a separate location several days' travel from Blingdenstone, *not* Velkynvelve), mid-combat against Ilvara (Zuggtmoy-corrupted drow priestess), the Big Heart Fungus, Jorlan, and four fungal spore servants (former Velkynvelve guards she had taken with her and converted; one destroyed).
 - **Active Obligation:** Kill Ilvara per the alliance with Asha Vandree. Destroy or neutralize the Zuggtmoy icon.
 - **Resources Expended:** Grygum's 4th-level slot (Glyph of Warding), Daz's 4th-level slot (Fireball), Dust of Suleiman (consumed), Grygum's light crossbow transferred to Thorin.
 - **Battlefield Status:** Ilvara damaged (12 from Fireball + 31 from Zalthir = 43 total) but escaped via fungal teleportation. Zuggtmoy icon damaged (12). Jorlan damaged (21 from Glyph + 14 crit from Thorin = 35 total, sapped/disadvantaged). One spore servant destroyed, others weakened. Big Heart Fungus still standing but hit by Dust of Suleiman and Fireball. Zalthir is poisoned. Spore cloud (20 ft.) active on the cavern floor.

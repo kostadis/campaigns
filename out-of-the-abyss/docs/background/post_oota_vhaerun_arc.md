@@ -110,6 +110,8 @@ Vizeran's stated goal throughout the main campaign is "Orthodoxy dead, drow fina
 
 He dies in the city having achieved partial success: the Orthodoxy burns. The party, in Act IV, achieves his full goal: the drow are free. He does not live to know they fulfilled his will better than he did. This is the arc's tragic payoff — the man who saw two-thirds of the truth and acted with absolute conviction is vindicated posthumously by the people he thought he was using.
 
+The vindication has a second layer that should land in Act I or Act II of this arc. Throughout the main campaign, Vizeran was not only an architect; he was a guardian. The Duskryn extraction contract that shadowed Daz from Velkynvelve through the Underdark was Vizeran's, placed through cutouts so that the mercs themselves never knew (canon: `daz_heir.md` §VI, `daz_devir_narrative_arc.md`). Daz was kept alive through the Underdark crossing not by luck but by his uncle's quiet, invisible work — work the boy never knew about, work performed by a man who knew he could never claim credit because claiming credit would compromise the protection. When this surfaces post-Vizeran's death — through a Sharran broker, a recovered cutout ledger, a dying retainer — Daz learns that the most paranoid drow alive spent his last decade making sure his nephew survived to be free. The line is heavier because Vizeran is not there to hear it: he protected a boy who never met him as family, and died before either of them could acknowledge the relation. This is the second tragic payoff and it sits inside Daz's Act V identity work.
+
 ## Mechanical Guidance (Epic Tier)
 
 - Treat this arc as level 17–20 content (post-OotA tier).

@@ -16,14 +16,14 @@
 ## Relationships & Decisions
 
 - **Thorin**: Chose not to take an opportunity attack against Jorlan Duskryn when Jorlan broke from the party's position to charge Ilvara. Let the scarred drow pursue his personal vendetta, recognizing it was tactically useful and not his reckoning to interfere with. Filed away concern for Glabbagool's welfare after the ooze took 26 damage from Insect Plague.
-- **Daz**: Openly defied Nym Duskryn's instructions to stay hidden, damaging the professional extraction relationship. Nym redirected her frustration by asking if she could kill Daz's brother (Jorlan). Daz's refusal to be "managed" or "extracted" establishes a clear boundary — he is not a package to be delivered.
+- **Daz**: Openly defied Nym Duskryn's instructions to stay hidden, damaging the professional extraction relationship. Nym redirected her frustration by asking Kaelira if she could kill their estranged brother Jorlan. Daz's refusal to be "managed" or "extracted" establishes a clear boundary — he is not a package to be delivered.
 - **Daz**: Deepened his deception with Asha Vandree by folding the Duskryn sisters into his fabricated Lolth-aligned identity. The lie is now load-bearing and expanding.
 - **Grygum**: Expressed genuine concern for Glabbagool multiple times — first priority after both the Insect Plague and the final battle's conclusion. The bond with the gelatinous cube is sincere and ongoing.
 - **All PCs**: Made an enemy of House T'sarran. The surviving T'sarran warrior explicitly promised retaliation ("We will meet again"), and the T'sarran mage stated the matron mother would hear about this before being killed. Grygum specifically noted this as a future threat requiring investigation.
 
 ## Party State Updates
 
-- **Location**: Velkynvelve (the cavern beneath the fungal monastery/prison). The Heart Fungus is destroyed, the bridge is collapsed, and the cavern is clearing of spores.
+- **Location**: The Fungal Cavern (a separate location several days' travel from Blingdenstone, *not* Velkynvelve). The Heart Fungus is destroyed, the bridge is collapsed, and the cavern is clearing of spores.
 - **Major threat eliminated**: Ilvara Mizzrym is dead, killed by Grygum's Guiding Bolt. Her body erupted into a poisonous spore cloud upon death (Zuggtmoy's corruption). She spoke prophecy about "the bride" and coming chaos before dying — filed as potentially significant.
 - **New enemy**: House T'sarran. Their mage is dead (killed by Zalthir), their warriors were incinerated by Daz's Fireball, and a surviving warrior retreated with an explicit threat of future retaliation.
 - **Companion status**: Glabbagool survived but took 26 damage from Ilvara's Insect Plague and was at risk from Daz's Fireball (deliberately excluded via Sculpt Spells). Asha Vandree is alive and praying to Lolth in the aftermath. Kaelira and Nym Duskryn are alive and still operating under their extraction contract for Daz. Jorlan Duskryn survived the fight (took a lightning bolt from Nym).

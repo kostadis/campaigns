@@ -29,11 +29,22 @@ Operational constraint:
 - Non-critical DeVir pressure can move through proxies and leaks; mission-critical reveals use archive/ward proof chains under controlled conditions.
 - Mission-critical step changes are delivered only in direct safe-room briefings with Vizeran.
 
+Pre-Menzoberranzan protection (canon):
+- The Duskryn extraction contract on Daz is Vizeran's, placed through cutouts.
+- Trigger: Vizeran observed Ilvara's escalating cruelty during Daz's Velkynvelve captivity and the trajectory of her pursuit after the outpost fell. He judged that the threat had crossed his intervention threshold and dispatched the contract. House T'sarran's interest surfaced later, at the Fungal Cavern fight (several days from Blingdenstone) — downstream complication, not original trigger.
+- The contract is worded as "extract a young drow male alive, last seen in Velkynvelve, payment on confirmed live retrieval." No name, no House, no reason given.
+- Nym and Kaelira do not know who placed the contract and do not know who Daz is. They are professional, transactional, and incurious — exactly what blind-cutout protection requires.
+- Operational posture: shadow protection. Observe, intervene if T'sarran or Ilvara forces escalate, physical extraction only as last resort. Vizeran wants Daz alive *and* in the world, not in a holding cell.
+- The contract is **time-bounded, not permanent**. Two mercs shadowing one no-name target for months draws the wrong kind of attention — other mercenaries notice, drow who track Underdark movements notice, and the question "why these two, why this one?" propagates. Sustained presence converts a deniable cutout into a beacon. Vizeran extracts the Duskryns once the acute threat window passes (Ilvara dead at the Fungal Cavern, the immediate Mizzrym pursuit ended, party crossing into territory where their continued presence would itself be the leak). The Duskryn departure is canonically Vizeran's discipline, not contract failure.
+- Vizeran does not take Daz into custody himself. Custody would (a) generate Orthodoxy investigation he cannot survive, (b) expose Daz to recognition by old retainers, archivists, or House Baenre's records, (c) decay the Sharran vault through proximity, and (d) end the lived-experience signature ripening that the unlock requires. The full rationale is canonized in `daz_heir.md` §VI.
+
 First-contact canon:
 - Daz and the party meet Vizeran in secret upon arrival in Menzoberranzan.
 - Vizeran explicitly identifies himself to Daz.
 - Vizeran explicitly tells Daz why Daz exists (preserved as planned leverage).
+- Vizeran confirms that the Duskryn extraction contract was his — placed through cutouts, with the mercs deliberately kept blind.
 - Vizeran frames the party as the mechanism to both end the demon plague and shatter Lolthite clerical rule.
+- Vizeran is canonical with the line: *"You are not the best option. You are the only option. I have looked."* He has tried the alternatives. They do not work. The full failure-mode canon is in `daz_heir.md` §VII.
 
 ## Act I: The Ghost Name
 

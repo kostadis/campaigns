@@ -85,8 +85,8 @@
 **Notable Relationships:**
 - *Zalthir:* Close bond. Zalthir rescued him from the rockfall; Daz covered for Zalthir with the fabricated gambling oath story.
 - *Asha Vandree:* Drow cleric of Lolth; believes Daz is a genuine convert. "Load-bearing" deception—its collapse would be catastrophic.
-- *Jorlan Duskryn:* May be Daz's brother. Nym Duskryn asked "Can I kill your brother?" referring to Jorlan.
-- *Nym & Kaelira Duskryn:* Hired to extract Daz alive; contracting party unknown; purely transactional.
+- *Nym & Kaelira Duskryn:* Hired through cutouts to extract Daz alive; contracting party unknown to them; purely transactional. They do not know who Daz is and do not care.
+- *Jorlan Duskryn:* Brother of Nym and Kaelira; estranged from them. At Velkynvelve as Ilvara's lover before she turned on him — no DeVir connection, no relation to the extraction contract. Nym's "Can I kill your brother?" line was addressed to Kaelira about Jorlan, not to Daz about a sibling.
 - *Buppido (deceased):* Investigated and condemned him; restrained rather than killed; later destroyed him with Magic Missiles in the Whorlstone Caverns.
 
 **Items of Significance:**
@@ -154,7 +154,7 @@
 - *Sarith (deceased):* Calmed his mental break after Derendil's death; relationship deepened before Sarith's infection progressed.
 - *Jimjar (vanished):* Friendly rapport built through repeated betting. Jimjar owes Grygum 5 gold.
 - *Mentor Gorg'Bahamut:* Foundational spiritual training.
-- *Ilvara (deceased):* Killed her with Guiding Bolt—closing the central threat of the Velkynvelve arc.
+- *Ilvara (deceased):* Killed her with Guiding Bolt at the Fungal Cavern (chapter 52)—closing the central threat that began at Velkynvelve and ended several days from Blingdenstone.
 
 **Items of Significance:**
 - Poisoned hand crossbow bolts and vial of Drow poison
@@ -177,7 +177,7 @@
 | Thorin | Giant Heritage / Identity | Tested; unresolved | Negative (Eldeth rejection) | Meaningful reconciliation—or permanent rupture—with a surface dwarf ally over his giant ties |
 | Thorin | Moral Trajectory | Hardening | Negative drift | Adopting Zhentarim Tactics would mark a clear moral threshold; first kill ordered for strategic (not survival) reasons |
 | Thorin | Leadership | Strong | Positive | Consistent; next test likely when group fractures under surface-world pressure |
-| Daz | Apostate Identity | High tension | Stable but fragile | Collapse of Lolth false identity with Asha; or revelation of Jorlan as brother |
+| Daz | Apostate Identity | High tension | Stable but fragile | Collapse of Lolth false identity with Asha; or T'sarran scrutiny piercing the cover |
 | Daz | Arcane / Leadership Value | Established | Positive | Fully recognized as group's strategic lead; next test: decision with major moral stakes |
 | Daz | Moral Complexity | Mixed | Neutral | Pattern of pragmatic ruthlessness checked by genuine moral reasoning; next inflection: irreversible callous act or deliberate mercy |
 | Zalthir | Discipline / Composure | Mixed | Neutral | Losing composure again under pressure would deepen the pattern; vow of silence re-adoption could reset |
@@ -202,7 +202,7 @@
 **Active Tensions:**
 - **Thorin ↔ Eldeth:** Unresolved. Her rejection of his giant identity is the sharpest ongoing interpersonal wound.
 - **Daz's false identity with Asha Vandree:** The party is aware this deception is "load-bearing." Its collapse would affect everyone.
-- **Daz's relationship to Jorlan Duskryn:** Unresolved. If Jorlan is his brother, the party's complicated history with Jorlan becomes personal.
+- **Daz and Jorlan — misread brother claim:** The party may believe Jorlan is Daz's brother based on Nym's "Can I kill your brother?" line. Canonically she addressed Kaelira about Jorlan (the Duskryns' own estranged sibling). The party's belief is theirs to discover and unwind.
 - **Zalthir's moral drift:** Small but noted—his reconsideration of the torture prohibition, his frustration-fueled aggression toward Jimjar. No confrontation has occurred yet.
 - **Thorin's moral darkening:** Considering Zhentarim Tactics. The party has not discussed this; it may not be visible to the others yet.
 

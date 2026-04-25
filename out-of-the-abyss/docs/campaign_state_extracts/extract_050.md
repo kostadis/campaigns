@@ -43,7 +43,7 @@
 
 ## Party Current Situation
 
-- **Current Location:** Ilvara's cavern/chamber (appears to be a corrupted Velkynvelve or Zuggtmoy-influenced location with the Big Heart Fungus and Zuggtmoy icon present)
+- **Current Location:** Ilvara's cavern/chamber — the Fungal Cavern, a separate Zuggtmoy-corrupted location several days' travel from Blingdenstone (*not* Velkynvelve), with the Big Heart Fungus and Zuggtmoy icon present
 - **Immediate Situation:** Mid-combat against Ilvara Mizzrym, the Big Heart Fungus, remaining spore servants, and Jorlan Duskryn. Ilvara escaped Zalthir's grapple and repositioned. The Big Heart Fungus is still standing and has deployed a 20-foot spore cloud that poisoned Zalthir. The Zuggtmoy icon took 12 fire damage but still stands. Zalthir is poisoned and out of actions, hovering above the spore cloud. Thorin is engaged with Jorlan. Grygum has used Dust of Suleiman on the fungus. Daz has expended his 4th-level Fireball. Asha is holding the perimeter outside. The fight is ongoing and unresolved.
 
 ## Tracked Items
