@@ -32,11 +32,13 @@ source_extracts: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18,
 10. **Ooze Crisis Resolution (Trader's Grotto)**: When Jimjar tossed his mysterious bone die onto Glabbagool, he became a telepathic bridge connecting every ooze in the cavern. He gently told them the world was fine and there was no need to kill anyone. The oozes went peaceful and dispersed. He described briefly being part of one vast ooze mind.
 11. **Asha Vandree Deception**: Attempted to disguise himself as a rock on Daz's orders; failed almost immediately by narrating his own invisibility and tracking the conversation with wandering eyes. Asha accepted him as Daz's "bound familiar," which actually reinforced Daz's credibility as a powerful mage. Grygum felt Glabbagool deserved compensation for the indignity; Glabbagool didn't mind.
 12. **Ilvara Battle**: Caught in Ilvara's Insect Plague, taking 26 points of damage; described as "churning and trembling." Grygum's first priority was checking on him. Daz carefully sculpted his Fireball to exclude Glabbagool from the blast.
+13. **Emergence into the Overbright**: Travelled in Grygum's bag of holding during the ascent to the surface. On reaching the Overbright, Grygum opened the bag enough for Glabbagool to look out, and he peered at the surface world — direct sunlight and open sky for the first time — taking it in the way a child takes in a first ocean, the sheer scale producing a silence adjacent to awe. He swept his attention across the surface with a focus that made Zalthir's own response to the Overbright seem measured by comparison. Zalthir privately admired the curiosity-over-retreat reaction, though he did not say so aloud. No communication with Glabbagool was possible because the Stonespeaker Crystal belonged to Daz.
 
 ## Current Status
 - **Form**: Now an ooze rather than a gelatinous cube (post-body-swap with the Pudding King)
-- **Last seen**: With the party after the Ilvara battle; traveling as a companion
+- **Last seen**: Travelling with the party in Grygum's bag of holding; emerged to the surface (the Overbright) after the Ilvara battle and saw the sky for the first time
 - **Active plans**: Party has discussed monk training to teach him to control his form and acidity; he has expressed eagerness to travel in a jar or Bag of Holding for convenience
+- **Communication constraint**: Spoken communication requires the Stonespeaker Crystal, which Daz carries — without Daz present, the party cannot reliably interpret him
 - **Hidden concerns**: The Pudding King's voice previously had some pull on him (he heard it calling from the south, near the slime pool). Whether any residual influence remains after the body-swap is unknown to the party.
 
 ## Relationships
@@ -56,3 +58,10 @@ source_extracts: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18,
 - **Increase**: Resisted the Pudding King's call when Zalthir appealed to friendship.
 - **Increase**: Served as telepathic bridge to pacify all oozes in Blingdenstone, resolving the ooze crisis.
 - **Potential risk (flagged)**: Previously susceptible to the Pudding King's voice; body-swap may have unknown consequences.
+
+## Notes from Extract 054
+Glabbagool, the gelatinous cube companion who had by this point become a grey ooze, was present in the bag of holding during the ascent to the surface. Upon emergence into the Overbright, Grygum opened the bag just enough for Glabbagool to look out.
+
+Glabbagool peered at the surface world — the text uses that word specifically — taking in direct sunlight and open sky for the first time. His response was characterized as taking it in the way a child takes in a first ocean, the sheer scale producing a silence adjacent to awe. He swept his attention across the surface world with a focus that made Zalthir's own response to the Overbright seem measured by comparison.
+
+Zalthir observed the response, noted it, and found Glabbagool's curiosity rather than retreat admirable, though he did not say so aloud. 

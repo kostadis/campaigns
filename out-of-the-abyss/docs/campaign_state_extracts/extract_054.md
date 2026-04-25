@@ -1,59 +1,127 @@
 ## Completed Encounters & Quests
 
-- **Oozing Temple — flooded dungeon exploration** (Completed, Success): The Ember Vanguard was trapped in the Oozing Temple after Jimjar's navigational error caused them to enter the flooding complex. They fought gray oozes and black puddings, escaped rising waters using Daz's Shape Water cantrip to create air pockets, and emerged alive with a shortcut path toward Blingdenstone. The temple's ooze proliferation was linked to the Demon Lord Juiblex.
+**Defeat of Ilvara Mizzrym and the Velkynvelve Outpost — Final Confrontation**
+- Session: Chapter 49
+- Outcome: Success
+- Consequences: Ilvara is dead; her body looted; Velkynvelve's remaining forces defeated; House Mizzrym loses its commanding presence in the region; Daz recovers his confiscated belongings; Thorin recovers his tooth
 
-- **Reach Blingdenstone — deep gnome settlement** (Completed — Entry Gained): The party arrived at Blingdenstone's fortified gates, underwent interrogation by deep gnome guards, and were granted uneasy passage into the city's outer Maze. Glabbagool's presence caused alarm and confirmed the city's ongoing ooze problem.
+**Defeat of the T'sarran Extraction Team**
+- Session: Chapter 49
+- Outcome: Success — party defeated the T'sarran mage and mercenary escort without Duskryn sisters' direct intervention
+- Consequences: T'sarran mage killed; T'sarran signet ring and partially burned extraction contract recovered; House T'sarran's attempt to capture Daz alive fails
 
-- **Party reaches Level 8** (Completed): All four party members — Thorin, Daz, Zalthir, and Grygum — leveled up to 8, selecting new feats and abilities.
+**Elimination of Asha Vandree**
+- Session: Chapter 49
+- Outcome: Success — Zalthir killed her using Eldritch Claw Tattoo strikes while Thorin grappled her
+- Consequences: Asha Vandree dead; her theological documents (Lolth-Zuggtmoy syncretism), prayer beads, chain mail, and drow cloak recovered
+
+**Destruction of the Zuggtmoy Fungal Mass/Ritual Platform**
+- Session: Chapter 49
+- Outcome: Success — Grygum destroyed the fungal corruption with acid
+- Consequences: Corruption burned out; necromantic pearl-like object recovered from the heart of the fungal mass; Ilvara's ritual bundle (incense, silver bowl, dual-sigil cloth) recovered
+
+**Escape from the Underdark / Return to the Surface**
+- Session: Chapter 49
+- Outcome: Success — full party emerged from tunnel mouth into sunlight
+- Consequences: Party reaches the surface world after months in the Underdark; drow cloaks disposed of before they disintegrated; Glabbagool glimpsed the surface from inside the bag of holding; extended recovery period begins
+
+---
 
 ## Resolved Plot Threads
 
-- **Oozing Temple ooze origin identified**: The proliferation of oozes and puddings in the Oozing Temple was linked to Juiblex (Faceless Lord), adding to the broader pattern of demon lord corruption in the Underdark.
+**Drow pursuit from Velkynvelve — definitively closed**
+Ilvara Mizzrym, the primary pursuer, is dead. Her command structure is destroyed. House Mizzrym's sealed correspondence recovered from her body confirms they had lost contact with her. The pursuit that began in Chapter 1 is over.
 
-- **Blingdenstone's ooze problem confirmed**: Upon arrival, the city's ooze crisis was confirmed as linked to Juiblex's rising influence. Guards panicked at the sight of Glabbagool, and the threat was validated by both the party's knowledge and local testimony.
+**House T'sarran extraction contract — closed (failed)**
+T'sarran hired a mage and mercenaries to capture Daz alive. The mage is dead, the mercenaries are dead, and the contract documents are in the party's possession. The operation failed entirely.
+
+**Asha Vandree — closed**
+The junior priestess who had been traveling with the party as a Lolth cultist, unaware of Daz's apostasy, declared herself in charge after the battle and was killed by Zalthir before she could act on it or use her clerical abilities.
+
+**Ilvara's corruption by Zuggtmoy — documented and closed**
+Ilvara's prayer book with Zuggtmoy marginalia and Asha's sealed theological document together establish the corruption timeline. Ilvara had become a dual servant of Lolth and Zuggtmoy. Both clerics are now dead. The evidence is in party hands.
+
+---
 
 ## NPC State Changes
 
-- **Glabbagool** — sentient gelatinous cube: Joined the Ember Vanguard as an ally after being encountered in the Oozing Temple. Was temporarily entrusted with the party's loot. His presence at Blingdenstone's gates caused alarm among the guards but he confirmed the ooze proliferation. Currently with the party.
+**Ilvara Mizzrym** — Dead. Body looted. Prayer book, serpent scourge, and personal effects recovered.
 
-- **Jimjar** — deep gnome gambler: Displayed unusual and specific prophetic knowledge at Blingdenstone, wagering the party would need acid-resistant gear from a "fungal wedding celebration" (50 gold bet). He stepped in to assist during gate interrogation. His navigational blunder led the party into the Oozing Temple, which he claimed was intentional.
+**Asha Vandree** — Dead. Killed by Zalthir. Drow cloak taken by Zalthir; holy symbol, chain mail, prayer beads, and sealed theological document recovered by Grygum.
 
-- **Eldeth Feldrun** — shield dwarf: Identified the geological danger in the Oozing Temple as an underground river breaking through stone. Still with the party.
+**T'sarran mage** — Dead. T'sarran signet ring and obsidian wand (with captive amber spider) recovered; partially burned extraction contract documents recovered.
 
-- **Dorbo Diggermattock** — Blingdenstone leader: Referenced as someone the party must consult for formal entry permissions. Not yet met.
+**Nym and Kaelira Duskryn** — Departed after confirming contract fulfilled. Their employer remains unknown even to them. They noted Daz's anonymity and the unusual expense of his protection with professional puzzlement but did not investigate further. Last known location: departed the cavern after the battle.
 
-- **Senni Diggermattock** — Blingdenstone quartermaster: Referenced as someone the party must consult for formal authorization. Not yet met.
+**Glabbagool** — Now a grey ooze (changed form from gelatinous cube, established earlier). Currently traveling with party inside the bag of holding. First exposure to surface light occurred at tunnel mouth in Chapter 49.
+
+---
 
 ## Party Accomplishments & Acquisitions
 
-- **Level 8 reached**: All party members leveled up.
-  - **Daz**: Selected **Fey Touched** feat — gains two additional prepared spells, free Misty Step casting (escape from grapples/opportunity attacks without expending spell slots). Has Princess Ebonmire's spellbook with additional spells to transcribe. Continues to refine Sculpt Spells / Evocation tactics.
-  - **Zalthir**: Developing **Street Justice** feat — ability to use rope to bind grappled enemies. Combined with Daz's Cloud of Daggers, this creates the "Ember Grapple" combo: Zalthir grapples and pins a target in place while Daz's persistent area spell damages them continuously.
-  - **Thorin**: Considering Sharpshooter / thrown weapon proficiency (javelins) to address the party's complete lack of ranged capability. Considering Zhentarim Tactics fighting style. Still deciding final build choices.
+**Items recovered from Velkynvelve final chamber:**
+- Jailer's keys (ironic recovery — would have been useful at the start)
+- Velkynvelve payroll chest (gold and silver)
+- Confiscated prisoner belongings chest — including Thorin's tooth (recovered)
+- Water-damaged journal from an unknown prisoner
+- Flask of Overbright brandy (Grygum)
+- Asha Vandree: holy symbol of Lolth, chain mail, prayer beads, sealed wax pouch containing Lolth-Zuggtmoy theological document; drow cloak (taken by Zalthir)
+- Ilvara Mizzrym: prayer book with Zuggtmoy marginalia documenting corruption timeline; Living Serpent Head Scourge; sealed orders from House Mizzrym (frantic correspondence requesting contact); letter from Neverlight Grove (missed meeting)
+- T'sarran mage: House T'sarran signet ring; obsidian wand with captive amber spider; partially burned extraction contract documents naming Daz as target
+- Necromantic pearl-like object — recovered from the core of the Zuggtmoy fungal mass; dense, finished, radiates wrongness; not natural growth
+- Ritual bundle — incense cones, small silver bowl, dual-sigil cloth (Lolth web woven inside Zuggtmoy's mark), found beneath the fungal platform
+- Guard bodies: gold, short swords, long sword, steel whistle
 
-- **Tactical synergy developed — "The Ember Grapple"**: Zalthir grapples an enemy, pinning them in a specific square; Daz casts Cloud of Daggers on that exact location. The grappled target cannot leave the damage zone. Zalthir remains adjacent and unaffected. After binding with rope (Street Justice), Zalthir is free to engage the next target while the first remains trapped and taking damage.
+**Intelligence gained:**
+- House T'sarran contracted a mercenary team to extract Daz alive; operation now failed
+- An unknown party in Menzoberranzan paid Nym and Kaelira Duskryn a significant sum to protect Daz specifically from House Mizzrym and House T'sarran; employer identity unknown even to the sisters
+- Ilvara's corruption by Zuggtmoy is documented and legible in her prayer book marginalia
+- Asha had been developing a theology merging Lolth and Zuggtmoy, suggesting the corruption ran deeper than Ilvara alone
 
-- **Shortcut to Blingdenstone discovered**: Escaping the Oozing Temple led to a cavern providing a shorter path to Blingdenstone.
+**Dawnbringer negotiation:**
+- Dawnbringer persuaded (via Thorin's threat of the Vaultmaster Locking Scabbard) to participate in one purification-adjacent use it found philosophically objectionable; sword continues to resist being used as "a religious symbol"
 
-- **Entry to Blingdenstone secured**: Party was granted passage into the outer Maze of the deep gnome city.
+**Return to the surface achieved** — party exits the Underdark after months of travel
 
-- **Juiblex connection identified**: Party confirmed that ooze proliferation across the Underdark (Oozing Temple and Blingdenstone) is connected to the Demon Lord Juiblex.
+---
 
 ## Party Current Situation
 
-- **Current location**: Blingdenstone — inside the outer Maze (treacherous entrance tunnels). Have not yet met with Chief Dorbo Diggermattock or Quartermaster Senni Diggermattock for formal authorization.
-- **Immediate unresolved situation**: Must seek out Blingdenstone's leaders for full entry permissions. The city is experiencing a severe ooze crisis linked to Juiblex. Jimjar has prophetically wagered the party will need to acquire acid-resistant gear from a "fungal wedding celebration." Party lacks ranged combat capability, which has been identified as a vulnerability going forward.
+**Current location:** Surface world, at or near the tunnel mouth exit from the Underdark. Entering an extended recovery period of several months.
+
+**Immediate plans (agreed upon):**
+- Travel to Candlekeep (the Great Library) to research House T'sarran, investigate the mystery of who paid for Daz's protection, and follow up on Jimjar's disappearance
+- Thorin intends to locate a "sword whisperer" — a specialist for Dawnbringer's post-Underdark condition
+- Grygum intends to research Bahamut lore and collect pamphlets at Candlekeep
+- Party agreed to spend recovered gold on adventuring gear rather than business ventures
+
+**Unresolved situation carried forward:**
+- The identity of the unknown Menzoberranzan party who paid the Duskryn sisters to protect Daz remains completely unknown
+- The significance of the necromantic pearl recovered from Ilvara's fungal mass is unknown
+- Daz's true background, house affiliation (if any), and why he is worth significant expenditure to protect are all unresolved
+- The demon lord situation in the Underdark remains ongoing (the party has left the Underdark but the broader crisis is unresolved)
+
+---
 
 ## Tracked Items
 
-- **Oozing Temple — flooded dungeon exploration**: Completed. Party trapped by flooding, fought oozes, escaped using Shape Water cantrip. Ooze proliferation linked to Juiblex. Yielded shortcut to Blingdenstone and Glabbagool as ally.
-- **Reach Blingdenstone — deep gnome settlement**: Completed — entry gained. Party passed through fortified gates after interrogation, entered the outer Maze.
-- **Blingdenstone — deep gnome settlement**: Party has arrived and entered.
-- **Glabbagool — sentient gelatinous cube, first contact**: Encountered in the Oozing Temple, joined the party as an ally. His sentience is noted as connected to the chaotic demonic phenomena in the Underdark.
-- **Jimjar — deep gnome prisoner, first contact**: Active with party. Caused the Oozing Temple detour through navigational error. Displayed prophetic knowledge at Blingdenstone gates, wagering about a "fungal wedding" and acid-resistant gear.
-- **Eldeth Feldrun — shield dwarf prisoner, fate determined**: Still with the party; identified geological danger in the Oozing Temple.
-- **Dorbo Diggermattock — Blingdenstone leader, first contact**: Referenced but not yet met. Party directed to consult him.
-- **Senni Diggermattock — Blingdenstone quartermaster, first contact**: Referenced but not yet met. Party directed to consult her.
-- **Juiblex — Faceless Lord, Underdark presence**: Confirmed as the source of ooze proliferation in the Oozing Temple and Blingdenstone's ooze crisis.
-- **Zuggtmoy's fetid wedding — Araumycos confrontation**: Foreshadowed by Jimjar's prophetic wager referencing a "fungal wedding celebration" and acid-resistant gear. Not yet encountered.
-- **Darklake — Underdark waterway**: Referenced as the location where the party arrived after their journey.
+**Escape from Velkynvelve — drow outpost:**
+Fully completed in Chapter 49. The final confrontation with Ilvara Mizzrym and the pursuing drow forces ended in the party's victory. Ilvara is dead. The party subsequently exited the Underdark entirely.
+
+**Characters return to the surface world — end of chapter 7 (module reference):**
+Completed in Chapter 49. The full party emerged from the Underdark through a tunnel mouth into sunlight after months underground. Drow cloaks disposed of; extended recovery period begins; destination set as Candlekeep.
+
+**Ilvara Mizzrym — drow commander, first contact in Velkynvelve:**
+Status resolved. Dead in Chapter 49. Body looted. Prayer book with Zuggtmoy corruption marginalia recovered. Living Serpent Head Scourge recovered. House Mizzrym sealed correspondence recovered.
+
+**Asha Vandree — junior priestess, potential betrayal of Ilvara:**
+Status resolved. Did not betray Ilvara; instead declared herself in charge after Ilvara's death. Killed by Zalthir in Chapter 49 before she could act on clerical abilities.
+
+**Jorlan Duskryn — drow elite warrior, potential aid to escaping prisoners:**
+The Duskryn sisters (Nym and Kaelira) appear in Chapter 49 as hired mercenaries protecting Daz; their family name matches Jorlan's. No direct connection to Jorlan himself established in this chapter.
+
+**Shoor Vandree — Ilvara's lieutenant, antagonist:**
+Not mentioned in Chapter 49; status not updated in this chunk.
+
+**Velkynvelve — drow outpost, slave pen:**
+The outpost's command structure is fully destroyed as of Chapter 49. Ilvara dead, guards dead, T'sarran extraction team dead, Asha dead. The outpost is effectively neutralized.

@@ -19,11 +19,16 @@ Member of House Duskryn; sister of Nym Duskryn and one of the Duskryn sisters. S
 ## History with the Party
 - **Extraction Battle:** Appeared mid-combat alongside her sister Nym during a battle in an insect-choked cavern with poisonous gas. Physically seized Daz's arm and dragged him northeast through the danger to where Nym was waiting at a safer position. Daz did not consent to the extraction; she enforced his survival regardless
 - **Accusation by Asha Vandree:** Asha Vandree challenged her presence and identified Kaelira as a potential traitor to Lolth. Daz intervened and defused the situation by claiming Kaelira was a "friend of Lolth" and vouching for her loyalty
+- **Contract scope clarified:** Addressed the scope of the contract directly to Daz — two named threats: House Mizzrym and House T'sarran. Confirmed the sisters had been prepared to handle the T'sarran contingent personally if necessary, but acknowledged the party had managed it themselves with three insincere bravos
+- **Asha killing reaction:** When Zalthir killed Asha Vandree, began slow, deliberate applause, pronouncing it "well done" three times and expressing genuine-seeming amusement that Daz had not been entirely defenseless. When Thorin asserted he could have dealt with Asha himself, her flat agreement served as its own verdict
+- **Document analysis:** Examined the burned documents recovered from the T'sarran mage with the focused attention of someone paid to be good at exactly this. Delivered the most honest statement of the session: she and her sister were not paid to think too hard about why Daz was worth contracting for
+- **Articulation of Daz's anomaly:** Delivered the most direct articulation of Daz's anomalous status — no noble house, completely mysterious background, sudden appearance, and yet a contract requiring enough money that it had interrupted the sisters' schedule significantly. When Daz suggested there might be more to him, cut through the self-mythology with the manner of someone who had seen through many self-aggrandizing idiots and was not interested in another. Allowed that for all anyone knew this was a game played by the houses, and closed the matter
+- **Departure:** Departed alongside her sister after the contract was fulfilled, without ceremony or further elaboration
 
 ## Current Status
-- **Last known location:** Northeast of the battlefield at the safer position with Nym, after successfully extracting Daz
-- **Active plans:** Fulfilling the extraction contract - delivering Daz alive
-- **Party knowledge vs. hidden:** The party knows she is a Duskryn operative sent for Daz as part of a contract. The details of the extraction contract (who hired them, the terms, and the ultimate destination for Daz) remain unknown. Asha Vandree's accusation of treachery against Lolth remains unresolved - whether the accusation has merit or was baseless is unclear
+- **Last known location:** Departed from the cavern with Nym after the contract was fulfilled, without ceremony
+- **Contract status:** Complete — the named threats (House Mizzrym, House T'sarran) had been neutralized, Asha was dead, and Daz was alive
+- **Party knowledge vs. hidden:** The party knows she is a Duskryn operative who was contracted to keep Daz alive against House Mizzrym and House T'sarran specifically. Who actually hired the sisters remains unknown — Kaelira admitted she and Nym were not paid to think about it. Whether the contract is permanently closed or merely paused remains unclear
 
 ## Relationships
 - **Nym (Duskryn):** Sister and mission partner working together on the extraction contract. Nym waited at the extraction point while Kaelira did the physical retrieval
@@ -34,3 +39,16 @@ Member of House Duskryn; sister of Nym Duskryn and one of the Duskryn sisters. S
 
 ## Arc Score Events
 - Asha Vandree's accusation of Lolth-treachery against Kaelira is a potential arc-relevant flag — direction unclear pending future developments
+
+## Notes from Extract 054
+Kaelira Duskryn appeared alongside her sister Nym as the hired Menzoberranzan protection contracted for Daz's survival. She operated with the brisk efficiency of someone who had already determined the conversation was nearly over before it began.
+
+Kaelira addressed the scope of the contract directly, identifying two named threats — House Mizzrym and House T'sarran — and confirming that the sisters had been prepared to handle the T'sarran contingent personally if necessary. She noted that the party had managed it themselves, and offered three bravos that were, like her sister's, not sincere.
+
+After Zalthir killed Asha Vandree, Kaelira began slow, deliberate applause, pronouncing it well done three times and expressing genuine-seeming amusement that Daz had not been entirely defenseless. When Thorin asserted he could have dealt with Asha himself, Kaelira's flat agreement served as its own verdict.
+
+Examining the burned documents recovered from the T'sarran mage, Kaelira gave them the focused attention of someone paid to be good at exactly this. Her analysis produced what the text characterizes as the session's most honest statement: she and her sister were not paid to think too hard about why Daz was worth contracting for.
+
+Kaelira delivered the most direct articulation of Daz's anomalous status: no noble house, completely mysterious background, sudden appearance, and yet a contract requiring enough money that it had interrupted the sisters' schedule significantly. When Daz suggested there might be more to him, Kaelira cut through the self-mythology with the manner of someone who had seen through many self-aggrandizing idiots and was not interested in another. She allowed that for all anyone knew, this was a game played by the houses, and then closed the matter.
+
+Kaelira and her sister departed after the contract was fulfilled, without ceremony or further elaboration.

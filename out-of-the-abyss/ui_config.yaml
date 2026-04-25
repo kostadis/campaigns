@@ -304,7 +304,7 @@ sd_examples_dir: /home/kroussos/campaigns/out-of-the-abyss/examples
 sd_extract_dir: scene_extractions
 sd_extract_run: true
 sd_narrate_tokens: '4000'
-sd_output_dir: /home/kroussos/campaigns/out-of-the-abyss/summaries/20260413
+sd_output_dir: /home/kroussos/campaigns/out-of-the-abyss/summaries/20260420
 sd_party: /home/kroussos/campaigns/out-of-the-abyss/docs/party.md
 sd_port: '5000'
 sd_roleplay_dir: vtt_roleplay_extractions
@@ -316,7 +316,7 @@ sd_session_name: the fight
 sd_session_summary: session-summary.md
 sd_summary_dir: vtt_extractions
 sd_voice_dir: /home/kroussos/campaigns/out-of-the-abyss/voice
-session_dir: /home/kroussos/campaigns/out-of-the-abyss/summaries/20260413
+session_dir: /home/kroussos/campaigns/out-of-the-abyss/summaries/20260420
 session_doc_examples_dir: /home/kroussos/campaigns/out-of-the-abyss/examples
 summaries: docs/The Underdark.md
 vtt_chunk_size: 50000
@@ -327,7 +327,7 @@ vtt_context: '/home/kroussos/campaigns/out-of-the-abyss/docs/campaign_state.md
   /home/kroussos/campaigns/out-of-the-abyss/docs/party.md'
 vtt_date: ''
 vtt_extract_dir: /home/kroussos/campaigns/out-of-the-abyss/summaries/20260324/vtt_extracts
-vtt_input: GMT20260414-005918_Recording.transcript.vtt
+vtt_input: GMT20260421-005952_Recording.transcript.vtt
 vtt_no_log: false
 vtt_output: session-summary.md
 vtt_roleplay_output: session-roleplay.md

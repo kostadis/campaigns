@@ -6,441 +6,427 @@
 
 | Score Name | NPC/Faction | Current Value | Next Threshold | What Triggers Next |
 |---|---|---|---|---|
-| Zuggtmoy Expansion | Zuggtmoy / Araumycos Wedding | **Elevated** | Critical | Wedding to Araumycos completes; or her influence fully colonizes Blingdenstone before party departs |
-| Juiblex Resurgence | Juiblex | **Active** | Escalation | Juiblex locates Zuggtmoy's operations and makes a move toward consuming Araumycos's "banquet" |
-| House T'sarran Retaliation | House T'sarran | **Active** | Strike Authorized | Surviving warrior reaches Menzoberranzan; Matron Mother issues a formal kill/capture order |
-| Demon Lord Incursion | Multiple (Zuggtmoy, Juiblex, Demogorgon) | **Elevated** | Convergence | Any two demon lords come into direct conflict or proximity in a location the party must traverse |
-| Daz Identity Exposure | Asha Vandree / Drow Network | **Fragile** | Collapse | Asha learns Daz is an apostate; or T'sarran scrutiny lands on his cover story |
-| Drow Extraction Contract | Nym & Kaelira Duskryn | **Active** | Forced Extraction | Contract party escalates terms (force-extract rather than shadow-protect), or the mercs pivot to a richer offer |
+| Zuggtmoy's Ascension | Zuggtmoy / Phylo / Neverlight Grove | **CRITICAL** | Wedding to Araumycos | Ritual completion; no active opposition force in place |
+| Demon Lord Incursion | Demogorgon / Juiblex / Zuggtmoy | **HIGH** | Second demon lord manifests new anchor | Juiblex reconstitutes via Zuggtmoy's "banquet"; Demogorgon acts beyond Darklake |
+| House T'sarran Retaliation | House T'sarran (Matron Mother) | **HIGH** | Matron Mother deploys assets | Survivor already in transit; Daz identified as priority target |
+| Zuggtmoy Expansion (Blingdenstone) | Zuggtmoy | **ELEVATED** | Fungal infestation spreads to civilian population | Pale puffballs already growing; Juiblex vacuum now open |
+| Daz's Unknown Patron | Anonymous Menzoberranzan party | **UNKNOWN** | Patron makes contact or is revealed | Party reaches Candlekeep; T'sarran learns extraction failed |
+| Gracklstugh Civil War | Deepking / Clans / Derro | **ELEVATED** | Open factional warfare erupts | Party holds explosive assassination contract; Ember Vanguard wanted |
+| Juiblex Resurgence | Juiblex | **ELEVATED** | Juiblex consumes Zuggtmoy's "banquet" | Zuggtmoy's wedding completed; Juiblex gains power from the ritual |
+| Drow Pursuit | House Mizzrym / House T'sarran | **MODERATE** | Active assassination squads deployed | House Mizzrym discovers Ilvara is dead; T'sarran Matron Mother briefed |
 
 ---
 
 ## NPC Dossiers
 
----
-
 ### Zuggtmoy
+**Current location:** Inside Yggmorgus, the great mushroom tower of Neverlight Grove; influence also spreading into Blingdenstone and surrounds.
 
-**Current Location & Status:** Somewhere in the Underdark, primary seat of power at Yggmorgus (Neverlight Grove). Actively expanding influence into Blingdenstone following Juiblex's expulsion. Ilvara — her primary surface instrument — is dead.
+**Active plans and immediate goals:**
+- Wedding to Araumycos — rehearsal is underway, Yestabrod's corpse puppeted as officiating priest, wedding hymn spreading through corrupted myconids
+- Two-phase Blingdenstone strategy: use oozes (via Pudding King, now dead) to "soften the shell," then spread fungal garden into living flesh — first phase disrupted but she is filling the vacuum herself
+- Expansion into territory vacated by Juiblex's expulsion; pale puffball mushrooms already appearing in Blingdenstone's exit tunnels
 
-**Active Plans & Immediate Goals:**
-- Complete the "wedding" to Araumycos; this remains her central long-term objective.
-- Fill the power vacuum left by Juiblex's retreat from Blingdenstone — pale puffballs and accelerated fungal growth are her advance work.
-- Replace Ilvara with new instruments; the party has not yet encountered a successor.
+**What the party knows:** Identity (Demon Queen of Fungi), wedding plan with Araumycos, corruption of Neverlight Grove through Phylo, transformation and death of Ilvara, coordination with Pudding King, presence in Prime Material Plane confirmed by Xinaya, Jimjar's explicit warning she moves in quietly while attention is elsewhere.
 
-**What the Party Knows:**
-- Her name, nature, and wedding plan with Araumycos.
-- She collaborated with the Pudding King (oozes as preparatory "softeners" for fungal colonization).
-- She corrupted Neverlight Grove, transformed Ilvara into her vessel, and caused Sarith's compulsion.
-- Her influence is visibly spreading in Blingdenstone right now.
+**What is hidden:** Exact state of the Araumycos ritual (how close to completion), whether Phylo can be reversed, full scope of myconid forces in Neverlight Grove, whether Juiblex consuming her "banquet" post-wedding would give him greater power than she gains from the union.
 
-**What Remains Hidden:**
-- Her exact location.
-- Current status of the Araumycos wedding — how close is it to completion?
-- Whether she has identified the party as a significant threat, or merely as minor interference.
-- Who or what she is cultivating as Ilvara's replacement.
+**Key relationships and leverage:**
+- Phylo: fully corrupted sovereign; Circle of Masters operating as her instrument
+- Araumycos: intended groom; union would grant world-spanning decay power
+- Pudding King: collaborator, now dead — she moves to fill his vacuum
+- Juiblex: rival; has declared intent to consume her "banquet" (Araumycos or the wedding itself)
+- Ilvara: corrupted vessel, dead — marginalia in her prayer book documented the subversion timeline
+- Sarith: corrupted agent, dead as spore servant
+- Thorin and Grygum: she personally attempted to seduce them in vision; Thorin refused
 
-**Key Relationships & Leverage:**
-- **Araumycos:** The endgame. Corrupting/marrying it gives her world-spanning reach.
-- **Phylo (Neverlight Grove):** Active servant; calls her "the Great Seeder."
-- **Juiblex:** Existential rival. He explicitly intends to consume her "banquet" — she may or may not know this yet.
-- **Thorin:** Attempted to possess/seduce him twice. He has refused both times; she has not forgotten.
-- **Grygum:** Has witnessed her in vision twice and possesses scholarly knowledge of her from *The Platinum Chronicle*.
-
-**Arc Score — Zuggtmoy Expansion:**
-- **Current:** Elevated
-- **Next unlock:** Araumycos wedding completes (catastrophic) **or** her mycelial network fully colonizes Blingdenstone (city falls to her influence; surface route compromised). The party departing without disrupting her operations advances this automatically.
-
----
-
-### Asha Vandree
-
-**Current Location & Status:** Traveling with or near the party; location near Blingdenstone. Active and engaged.
-
-**Active Plans & Immediate Goals:**
-- Reshaping the narrative of the Velkynvelve battle into a Lolth-favorable account.
-- Genuinely believes Daz is a sincere convert to Lolth's faith — the deception is intact and functional.
-
-**What the Party Knows vs. Hidden:**
-- Party knows her belief in Daz's conversion is the foundation of her cooperation.
-- Hidden: What she would do — and who she would contact — if the deception collapsed. Her connections to Drow faction networks are unknown.
-
-**Key Relationships & Leverage:**
-- **Daz:** Her entire trust relationship rests on his false Lolth identity. This is the load-bearing deception.
-- **House Mizzrym / Drow orthodoxy:** Her frame of reference for interpreting all events.
-
-**Arc Score:** Tied to *Daz Identity Exposure*. Collapse of the deception triggers immediate faction consequences.
-
----
-
-### Nym Duskryn
-
-**Current Location & Status:** Traveling with or near the party; near Blingdenstone.
-
-**Active Plans & Immediate Goals:**
-- Operating under a transactional extraction contract to bring Daz back alive. Contract was placed through cutouts; Nym and Kaelira do not know the principal and do not care.
-- Asked Kaelira "Can I kill your brother?" regarding Jorlan — a Duskryn family matter (Jorlan is their estranged brother and Ilvara's lover). Unrelated to Daz; the party may have misheard the referent.
-
-**What the Party Knows vs. Hidden:**
-- Party knows she fired a lightning bolt at Jorlan and asked about killing him.
-- Party may believe Daz and Jorlan are siblings based on misreading Nym's line; the misunderstanding is theirs to discover.
-- Hidden: Who placed the extraction contract (Vizeran DeVir, via cutouts; not known to Nym or the party). Whether she will pivot to forced extraction if shadow-protection fails.
-
-**Key Relationships & Leverage:**
-- **Daz:** Her primary target; must be brought back alive.
-- **Jorlan Duskryn:** She knows of the possible blood connection; this is leverage.
-- **Kaelira Duskryn:** Her partner on the extraction contract.
-
-**Arc Score:** Tied to *Drow Extraction Contract*. Escalation triggers if contracting party applies pressure or the Jorlan connection becomes a weapon.
-
----
-
-### Kaelira Duskryn
-
-**Current Location & Status:** Traveling with or near the party; near Blingdenstone.
-
-**Active Plans & Immediate Goals:**
-- Joint extraction contract with Nym; bring Daz back alive.
-
-**What the Party Knows vs. Hidden:**
-- Known to be Nym's partner. Contracting party unknown.
-
-**Key Relationships & Leverage:**
-- **Nym Duskryn:** Partner and co-contractor.
-- **Daz:** Extraction target.
-
----
-
-### Jorlan Duskryn
-
-**Current Location & Status:** Alive but staggered; last seen at or near the Fungal Cavern (several days from Blingdenstone) after the final Ilvara fight. Allegiance uncertain.
-
-**Active Plans & Immediate Goals:** Unknown. He survived Nym's lightning bolt and the Fungal Cavern engagement (the final Ilvara confrontation).
-
-**What the Party Knows vs. Hidden:**
-- Party knows he helped them escape Velkynvelve (pragmatic deal with Thorin) and that he is mutually distrusted but not an active enemy.
-- Party may have misheard Nym's "Can I kill your brother?" as referring to Daz; canonically she was addressing Kaelira about Jorlan (her own brother).
-- Hidden: His current allegiance. Whether he is moving toward the party, away from them, or toward a third faction.
-
-**Key Relationships & Leverage:**
-- **Nym & Kaelira Duskryn:** His sisters. Estranged. Nym fired a lightning bolt at him at the Fungal Cavern fight; the family has cause to want him dead (Ilvara affair, House embarrassment).
-- **Ilvara (deceased):** Former lover; turned on him.
-- **Daz:** No relation. Coincidental presence at Velkynvelve.
-- **Thorin:** Pragmatic mutual-distrust deal; Jorlan held to it.
-
----
-
-### Glabbagool
-
-**Current Location & Status:** Inside the party's bag of holding.
-
-**Active Plans & Immediate Goals:** No stated agenda. Passive companion.
-
-**What the Party Knows vs. Hidden:**
-- Party knows he underwent a mysterious body swap with the Pudding King; he now exists in a smaller, more mobile form.
-- His telepathic bone-die connection to every ooze in Blingdenstone demonstrated a latent capacity for large-scale ooze communion — lasting effects unknown.
-- Hidden: Whether the body swap has any lingering metaphysical consequences. Whether his ooze-network connection remains active or dormant.
-
-**Key Relationships & Leverage:**
-- **Grygum:** Primary bond; Grygum treats him as a ward/companion.
-- **The Pudding King (destroyed):** Their souls/essences swapped during the final battle.
-- **Juiblex:** Juiblex's forces were routed; Glabbagool's relationship to Juiblex's broader network is unclear.
-
----
-
-### Burrow Warden Jadger
-
-**Current Location & Status:** Ghost; operating in Blingdenstone's catacombs.
-
-**Active Plans & Immediate Goals:**
-- Reconstituting the Borough Wardens by training young gnomes.
-- Offered the party two truthful answers as boons — **these have not yet been claimed.**
-
-**What the Party Knows:** His boons are available and unused. He can provide two pieces of definitive truthful information.
-
-**Key Relationships & Leverage:**
-- **Borough Wardens:** Institutional legacy; he is rebuilding through the next generation.
-- **Party:** Owes them two answers; a reliable intelligence resource.
-
----
-
-### Chief Dorbo Diggermattock
-
-**Current Location & Status:** Blingdenstone (Diggermattock Hall).
-
-**Active Plans & Immediate Goals:**
-- Stabilizing Blingdenstone post-crisis.
-- Reopening for surface trade.
-- **Confirmed a viable surface route and agreed to assist the party in reaching it.**
-
-**Key Relationships & Leverage:**
-- **Senni Diggermattock:** Partner; her advocacy for multi-faction cooperation shaped the current peace.
-- **Chipgrin / Gold Whisker Clan:** Formalized alliance.
-- **Party:** Cooperative; politically indebted to them for resolving the ooze crisis.
-
----
-
-### Chipgrin
-
-**Current Location & Status:** Blingdenstone upper boroughs, controlling as self-funded defense force.
-
-**Active Plans & Immediate Goals:**
-- Maintaining the Gold Whisker Clan's newly formalized role in Blingdenstone.
-
-**Key Relationships & Leverage:**
-- **Party:** Gave Daz the Voucher of the Varmint; recognized as allies.
-- **Diggermattock Leadership:** Formal alliance now in place.
-- **Underdark wererat/outcast network:** Voucher provides party access to this recognition network.
-
----
-
-### Juiblex
-
-**Current Location & Status:** Expelled from Blingdenstone; location unknown.
-
-**Active Plans & Immediate Goals:**
-- "I will be reborn. I will consume the banquet of the queen of the fungi, and I will grow."
-- Intends to consume Zuggtmoy's "banquet" — most likely Araumycos or the wedding ritual itself — and use it as fuel for a greater rebirth.
-
-**What the Party Knows:** His stated declaration was spoken aloud at his expulsion. The party (or those present) heard this.
-
-**Key Relationships & Leverage:**
-- **Zuggtmoy:** His intended prey. He will move toward her operations, not away from them.
-- **Araumycos:** The "banquet" he intends to consume.
-- **Glabbagool:** Connection to Juiblex's broader ooze network unclear after the Pudding King's destruction.
-
-**Arc Score — Juiblex Resurgence:** Active. He is recovering and moving toward Zuggtmoy's territory. If he reaches Araumycos before the party can intervene, a demon-on-demon catastrophe becomes the new baseline.
+**Arc score:** CRITICAL. Wedding rehearsal is actively staged. No party or allied force is currently positioned to disrupt it.
 
 ---
 
 ### Demogorgon
+**Current location:** Underdark, last confirmed destroying Sloobludop on the Darklake. Active on the Prime Material Plane.
 
-**Current Location & Status:** Last seen destroying Sloobludop. Current location unknown.
+**Active plans and immediate goals:** No specific intelligence on current objectives. His manifestation was triggered by the Kuo-Toan collective-belief summoning ritual. His presence in the Underdark is causing spreading madness in local populations.
 
-**Active Plans & Immediate Goals:** Unknown. No direct contact with the party since Sloobludop.
+**What the party knows:** Physically present in the Underdark. Destroyed Sloobludop. Was summoned deliberately — requires powerful magic and artifacts per Jimjar's confirmation. The party has directly observed his manifestation.
 
-**Key Relationships & Leverage:**
-- No current leverage points with the party.
-- His presence in the Underdark simultaneously with Zuggtmoy and Juiblex is the macro-level destabilizing factor. His location matters because wherever he goes, devastation follows — and that devastation creates power vacuums that the other demon lords fill.
+**What is hidden:** Current location and direction of travel. Whether he has a specific objective or is acting on demonic impulse. Who was ultimately responsible for the original summoning.
+
+**Key relationships:** Juiblex (rival demon lord; Juiblex wants to consume Zuggtmoy's "banquet" to grow — this may bring him into contact with Demogorgon's territory). Plinki's cult attempted to create a two-headed dragon mount for him — that plan was disrupted.
+
+---
+
+### Juiblex
+**Current location:** Expelled from Blingdenstone. Disembodied/location unknown. Active in the Underdark.
+
+**Active plans:** Has declared: "I will be reborn. I will consume the banquet of the queen of the fungi, and I will grow." This means consuming Zuggtmoy's Araumycos wedding ritual to reconstitute and gain power.
+
+**What the party knows:** Pudding King destroyed, Juiblex expelled, his influence receded from Blingdenstone. He made an explicit statement of his plan to return.
+
+**What is hidden:** Timeline for reconstitution. Whether "consuming the banquet" requires Zuggtmoy's wedding to complete first or can be done at any stage.
+
+**Leverage:** Juiblex's plan and Zuggtmoy's plan are on a collision course. If Zuggtmoy completes the wedding first, Juiblex gains even more by consuming it. If the party disrupts Zuggtmoy's wedding, Juiblex loses his power source.
 
 ---
 
 ### House T'sarran (Matron Mother)
+**Current location:** Menzoberranzan. Matron Mother is being informed by the surviving warrior from the Fungal Cavern fight.
 
-**Current Location & Status:** Menzoberranzan. A surviving warrior from the Fungal Cavern kill team is in transit to inform the Matron Mother.
+**Active plans:** Retaliation against the Ember Vanguard. Daz is a confirmed extraction target of sufficient priority that a professional mage and five-warrior escort was committed. That operation failed with significant casualties.
 
-**Active Plans & Immediate Goals:**
-- Retaliation arc is open. Once the survivor arrives, a formal kill/capture order is the expected next step.
-- Grygum needs to identify the Matron Mother before she identifies them.
+**What the party knows:** House T'sarran exists, deployed a mage + warriors to capture Daz alive, that mage is dead, the surviving warrior threatened "the matron mother will hear of this," and the party holds a T'sarran signet ring.
 
-**What the Party Knows vs. Hidden:**
-- Party knows a kill team was sent and mostly destroyed; one survivor retreated with a credible threat.
-- Hidden: The Matron Mother's identity, resources, timeline, and whether she will act alone or coordinate with other Drow houses.
+**What is hidden:** Matron Mother's name. Why T'sarran specifically wants Daz (and why alive and unharmed). Whether T'sarran has any connection to Daz's anonymous protective patron or whether these are competing factions both interested in Daz for different reasons.
 
-**Arc Score — House T'sarran Retaliation:** Active. Escalation to "Strike Authorized" is a matter of when the survivor completes the journey, not whether.
+**Arc score:** HIGH. Survivor is in transit. The Matron Mother will have a full report including party composition and capabilities.
+
+---
+
+### Daz's Anonymous Patron
+**Current location:** Menzoberranzan (operates through cutouts; true location unknown).
+
+**Active plans:** Has already protected Daz by contracting House Duskryn at substantial expense through multiple anonymous cutout layers. Next action unknown.
+
+**What the party knows:** Someone spent significant Menzoberranzan-level resources specifically to protect Daz from House Mizzrym and House T'sarran. Nym and Kaelira did not know the employer's identity. The contracting was deliberate, targeted, and expensive.
+
+**What is hidden:** Everything. Identity, motivation, relationship to Daz's unknown history, whether they know the contract was fulfilled and Daz survived.
+
+**Party thread:** Daz has proposed collective research at Candlekeep and splitting proceeds. Not yet formally accepted.
+
+---
+
+### Nym Duskryn
+**Current location:** Departed the Vel'Kynvelve fungal cavern following contract fulfillment. Direction unknown.
+
+**Status:** Contract complete. No current obligations to or against the party. Fulfilled professional terms.
+
+**What the party knows:** Hired through Menzoberranzan cutouts to protect Daz from two named threats (Mizzrym, T'sarran). Contract scope was those threats specifically. Does not know Daz's background or the patron's identity. Fired a lightning bolt at Jorlan Duskryn (her estranged brother, not Daz) during the fight.
+
+**Relationships:** Sister to Kaelira Duskryn. Jorlan Duskryn is their estranged brother. The "Can I kill your brother?" line was addressed to Kaelira about Jorlan — not about Daz.
+
+---
+
+### Kaelira Duskryn
+**Current location:** Departed with Nym following contract fulfillment.
+
+**Status:** Same as Nym. Contract complete. No current obligations.
+
+---
+
+### Jorlan Duskryn
+**Current location:** Last seen alive but staggered in the Vel'Kynvelve fungal cavern after taking Nym's lightning bolt and Thorin's strikes. Fate unconfirmed.
+
+**Status:** Injured. Allegiance unclear. Estranged from his sisters. Was Ilvara's former lover before she discarded him after his scarring. Motivated the breakup to resist her spore influence.
+
+**What the party knows:** He is Nym and Kaelira's estranged brother. He was involved in the original Vel'Kynvelve escape (offered to open the prison door). His alliance in the final fight was ambiguous. He charged toward Ilvara through the Insect Plague — motivated by old wounds.
+
+---
+
+### Asha Vandree
+**Status:** DECEASED. Killed by Zalthir with the Eldritch Claw Tattoo immediately after the battle with Ilvara. She had declared herself in charge and was reaching for abilities.
+
+**Note for play:** Asha genuinely believed Daz was a Lolth convert (her "deluded mage" framing). That fiction died with her. She was not extracted, did not send word to Menzoberranzan, and held no secrets that survived her. Her theological manuscript (Lolth/Zuggtmoy equivalence argument) is in party possession.
+
+---
+
+### Glabbagool
+**Current location:** Traveling with the party in the bag of holding. Just observed sunlight for the first time.
+
+**Status:** Loyal companion. Primary bond with Zalthir. Affection from Grygum. During the Blingdenstone ooze crisis, used Jimjar's bone die to broadcast peace to the entire ooze horde. Now in a smaller, more mobile ooze form following the Pudding King body-swap event. Communicates via Stonespeaker Crystal.
+
+**Vulnerability:** Recalled hearing the Pudding King's voice calling to him from a pool of slimes — Pudding King is now dead, but Juiblex's reconstitution plan could reintroduce this risk.
+
+**Open thread:** Zalthir proposed monk training to give Glabbagool control over his form and acidity.
+
+---
+
+### Burrow Warden Jadger
+**Current location:** Blingdenstone catacombs (ghost; not conventionally mobile).
+
+**Status:** Actively reconstituting the Borough Wardens by training young gnomes. Owes the party two truthful answers to any questions. Party must return to Blingdenstone to claim these boons.
+
+---
+
+### Chief Dorbo Diggermattock
+**Current location:** Blingdenstone.
+
+**Status:** Cooperative. Ooze crisis resolved. Committed to reopening Blingdenstone for surface trade. Confirmed a viable surface route exists through the city. His unnatural greed/aggression (symptom of Juiblex's residual influence) may normalize now that the Pudding King is dead.
+
+---
+
+### Senni Diggermattock
+**Current location:** Blingdenstone.
+
+**Status:** Cooperative. Successfully advocated for Gold Whisker Clan inclusion. The fragile multi-faction peace in Blingdenstone is partly her work. More politically flexible than Dorbo.
+
+---
+
+### Chipgrin
+**Current location:** Blingdenstone upper boroughs (now formally controlling as self-funded defense force).
+
+**Status:** Allied. Gave Daz the Voucher of the Varmint — recognized by wererats and outcasts from Blingdenstone to Menzoberranzan. His network extends across the Underdark.
+
+---
+
+### Phylo
+**Current location:** Neverlight Grove, Inner Circle. Fully corrupted by Zuggtmoy.
+
+**Status:** Controls the Circle of Masters, has restructured myconid society, is overseeing the wedding rehearsal. Did not attack the fleeing party directly but is aware they saw too much. Basidia believes Phylo cannot be reversed.
+
+---
+
+### Basidia, Rusharoo, Loobamub
+**Current location:** Underdark, evacuated from Neverlight Grove with loyal myconids including Stool and Rump-a-dump. Provided half-distance escort toward Blingdenstone before departing.
+
+**Status:** Alive. Scattered. No fixed location. The surviving uninfected myconid faction is mobile and leaderless without a grove.
+
+---
+
+### Stool and Rump-a-dump
+**Current location:** Traveling with Basidia's refugee myconid group in the Underdark.
+
+**Status:** Safe and uninfected. Stool said farewell to Daz with apparent sadness. Open emotional thread — Stool bonded deeply with Grygum and Thorin.
+
+---
+
+### Hgraam
+**Current location:** Cairngorm Cavern, Gracklstugh. Entrance sealed for an unspecified (possibly very long) period.
+
+**Status:** Alive. The two-headed stone giant ritual (Narrak's work) corrupted at least one of his giants. He was informed. He gifted the party the Stonespeaker Crystal. Sealed his cavern. His prophecy ("A cave with two faces. Rock devoured, and the land overgrown. The pebble believes itself flesh.") remains only partially understood.
+
+---
+
+### Shal
+**Current location:** Gracklstugh, near the Deepking's court.
+
+**Status:** Named but never encountered. Identified by Hgraam as the corrupting advisor who arrived at court and whose influence correlates with the Deepking's paranoia and political breakdown. Refused meetings with Hgraam. Possibly a demonic agent or a Gray Ghost operative. Has never been described physically.
+
+---
+
+### Themberchaud
+**Current location:** Gracklstugh, Keepers of the Flame cave complex.
+
+**Status:** Alive. Pampered, obese, unfit, deluded about his own authority. Believes the party are his agents. The party made no formal agreement with him. He does not know the dragon egg was corrupted. The Keepers of the Flame plan to eventually kill and replace him.
+
+---
+
+### Gartokkar Xundorn
+**Current location:** Keepers of the Flame headquarters, Gracklstugh.
+
+**Status:** Was paid. Has the corrupted dragon egg (with occult markings). His plan to use cult evidence to purge the Derro remains active — Daz assessed this as a planned genocide. The party holds Plinki's journal and conspiracy letters which could either fuel or defuse this.
+
+---
+
+### Errde Blackskull
+**Current location:** Gracklstugh, Overlake Hold.
+
+**Status:** Likely informed the Drow of the party's passage through Gracklstugh (Zalthir's assessment). Her anti-corruption investigation continues. She suspects (but cannot prove) the Council of Savants and Gray Ghosts are behind the city's instability. May resume interest in the party if they return to Gracklstugh.
+
+---
+
+### Jimjar
+**Current location:** Vanished from existence in the Northern Exit Tunnels. True nature revealed as celestial or divine (immune to poison and psychic, cannot be charmed/frightened, resistant to radiant and nonmagical attacks). Last action: warned explicitly about Zuggtmoy before vanishing.
+
+**Status:** Gone, but not clearly dead. Left the bone die (now inert) as a keepsake. His disappearance is an open thread the party plans to research at Candlekeep.
+
+---
+
+### Shuushar
+**Current location:** Darklake, aboard a Kuo-Toan survivor boat. Founded a nascent reform movement to end the Kuo-Toan god-creation cycle.
+
+**Status:** Departed the party willingly. Not hostile. His reform movement may have lasting consequences for Kuo-Toan society and the Demogorgon summoning mechanism.
+
+---
+
+### Fargas Rumblefoot
+**Current location:** Last seen on or near the Silken Paths. Current location unknown.
+
+**Status:** Freed from a spider cocoon. Provided the Tomb of Brysis intelligence. Made no commitment to travel with the party long-term.
 
 ---
 
 ## Faction States
 
----
+### Zuggtmoy's Cult (Neverlight Grove)
+**Current goals:** Complete the wedding to Araumycos. Grow the fungal empire via Phylo's reorganized myconid infrastructure.
 
-### Zuggtmoy's Network
+**Active operations:** Wedding rehearsal underway at Yggmorgus. Circle of Masters stockpiling reanimated creatures. Sending myconid groups outside the grove. Fungal expansion into Blingdenstone territory (opportunistic, following Juiblex's expulsion).
 
-**Current Goals & Active Operations:**
-- Complete the wedding to Araumycos.
-- Colonize Blingdenstone now that Juiblex's forces have vacated; pale puffball mushrooms and accelerated fungal growth are already visible.
-- Neverlight Grove (under Phylo) remains a stronghold.
+**Key members:** Phylo (corrupted sovereign, leading); Yrberop (corrupted, singing the wedding hymn, tending sprout fields); Circle of Masters (unnamed; operational arm).
 
-**Key Members:**
-- **Zuggtmoy** — Demon lord; the center of all operations.
-- **Phylo** — Myconid sovereign at Neverlight Grove; loyal servant.
-- **Ilvara Mizzrym (deceased)** — Primary instrument; dead. Successor unknown.
+**Relationship to party:** The party escaped Neverlight Grove, witnessed the rehearsal, and killed the fungal abomination in the Garden of Welcome. Phylo knows they saw too much. Zuggtmoy personally attempted to recruit Thorin and Grygum.
 
-**Relationship to Party:**
-- Indirect but intensifying. The party destroyed Ilvara and disrupted multiple operations. Zuggtmoy has not yet responded personally.
-- Thorin refused possession twice. Grygum has academic knowledge of her.
+**Resources:** Yggmorgus (towering mushroom tower), Araumycos (massive sentient fungal growth — the "groom"), corrupted myconid population, reanimated creature army, Ilvara (former vessel, now dead).
 
-**Resources & Vulnerabilities:**
-- Araumycos is both her greatest resource (if the wedding completes) and her greatest vulnerability (if the party intervenes there).
-- Juiblex is an existential threat to her operations; she may not be aware of the specific danger he announced.
-- Ilvara's death removed her most capable agent on the party's path.
+**Vulnerabilities:** Basidia's refugee faction escaped with knowledge of the Grove's layout. Araumycos has not yet "consented" to the union. The wedding is not complete. Dawnbringer (radiant damage) is a confirmed counter to fungal corruption.
 
 ---
 
 ### House T'sarran
+**Current goals:** Locate, extract, and deliver Daz alive. Retaliate for the deaths of a mage and four warriors.
 
-**Current Goals & Active Operations:**
-- Informing the Matron Mother of the kill team's destruction.
-- Retaliation against the party is the presumed next operation.
+**Active operations:** Surviving warrior in transit to Menzoberranzan to brief the Matron Mother. Extraction contract failed. Matron Mother will dispatch new assets.
 
-**Key Members:**
-- **Matron Mother** — Identity unknown to the party; the driving force of retaliation.
-- **Kill Team (largely destroyed)** — One survivor in transit.
+**Key members:** Matron Mother (unnamed; authority figure). The mage is dead. Warriors mostly dead.
 
-**Relationship to Party:** Hostile. The party destroyed their kill team and is their active target.
+**Relationship to party:** Active enemy. The party holds a T'sarran signet ring as evidence.
 
-**Resources & Vulnerabilities:**
-- Resources: Menzoberranzan political infrastructure, additional kill teams, potential inter-house coordination.
-- Vulnerabilities: They don't yet know the party's current location or route. The window before the survivor arrives is the party's buffer.
+**Resources:** Full Menzoberranzan noble house backing. Unknown assets and agent network.
+
+**Vulnerabilities:** They want Daz alive and unharmed — this constrains their tactics. They also do not yet know about the anonymous patron protecting Daz.
 
 ---
 
-### Blingdenstone (Diggermattock / Gold Whisker / Borough Wardens)
+### House Mizzrym
+**Current goals:** Locate Ilvara and restore contact with Vel'Kynvelve. Escalating unanswered correspondence suggests increasing institutional alarm.
 
-**Current Goals & Active Operations:**
-- Stabilizing the city post-ooze crisis.
-- Reopening surface trade routes.
-- Reconstituting the Borough Wardens (Jadger's project).
-- Monitoring and responding to Zuggtmoy's accelerating fungal intrusion.
+**Active operations:** None confirmed. Sealed orders found at the outpost show escalating demands for a response from Ilvara that were never answered.
 
-**Key Members:**
-- **Dorbo & Senni Diggermattock** — Governing leadership; cooperative with party.
-- **Chipgrin** — Gold Whisker Clan leader; controls upper boroughs.
-- **Jadger (ghost)** — Reconstituting Borough Wardens; holds two unused boons for the party.
+**Key members:** Ilvara — DEAD. No other named Mizzrym operatives in the campaign.
 
-**Relationship to Party:** Friendly; the party are recognized heroes. Diggermattocks committed to assisting the surface route.
+**Relationship to party:** Not yet aware the party was present at Ilvara's death. Will eventually send investigators to Vel'Kynvelve and find: Ilvara dead, the outpost destroyed, her prayer book documenting Zuggtmoy subversion missing.
 
-**Resources & Vulnerabilities:**
-- Resources: Surface route, wererat recognition network (Voucher), Jadger's boons, political goodwill.
-- Vulnerabilities: Zuggtmoy's fungal colonization is already underway inside the city; Blingdenstone may not hold long without active countermeasures.
+**Vulnerabilities:** They were entirely unaware of Ilvara's corruption. When they discover the truth, their response is unpredictable — they may blame the party, Zuggtmoy, or both.
 
 ---
 
-### Drow Extraction Team (Nym & Kaelira Duskryn)
+### House Duskryn (Nym and Kaelira)
+**Current goals:** None currently involving the party. Contract fulfilled.
 
-**Current Goals & Active Operations:**
-- Fulfilling their contract to return Daz alive.
-
-**Key Members:**
-- **Nym Duskryn** — Lightning bolt caster; professional and incurious about Daz's identity.
-- **Kaelira Duskryn** — Partner; roles and capabilities less defined.
-
-**Relationship to Party:** Nominally non-hostile (contract is extract-alive, not harm the party), but traveling in proximity creates friction. The contracting party is unknown to them as well — they took the job through cutouts and never met the principal.
-
-**Contractor identity (DM-only, not party-known):**
-- The principal is **Vizeran DeVir**.
-- Vizeran observed Ilvara's escalating cruelty during Daz's Velkynvelve captivity and the trajectory of her pursuit after the outpost fell. He judged the threat to Daz had crossed his intervention threshold, and placed the contract through deniable cutouts. (House T'sarran's interest in Daz surfaced later, at the Fungal Cavern fight; T'sarran was not part of Vizeran's original trigger.)
-- The contract reads "young drow male, extract alive, last seen in Velkynvelve, payment on confirmed live retrieval." No name, no House, no reason. Routed so the Duskryns cannot trace it back to Vizeran even if they tried.
-- Operational posture is shadow protection — observe, intervene if T'sarran or Ilvara forces close in, physical extraction only as last resort. Vizeran wants Daz alive *and* in the world, generating the lived-experience signature the Sharran unlock requires (see `daz_heir.md` §VI–VII).
-- Reveal staging: this canon surfaces only at Stage 4 first contact with Vizeran in Menzoberranzan. The Duskryns cannot leak it because they do not know it. See `decision_ladders.md`.
-- **Time-bounded, not permanent.** Two mercs glued to one no-name target for months is its own beacon — sustained presence draws the attention shadow protection is meant to avoid. Vizeran extracts the Duskryns once the acute threat window (Ilvara dead, Fungal Cavern resolved, T'sarran scrutiny still unresolved but redirectable) winds down. Expect the contract to terminate or quietly transfer somewhere between Blingdenstone departure and the early Menzoberranzan approach. The Duskryns may simply receive a final payment and a "contract complete, stand down" instruction; from their perspective the job ended cleanly.
-
-**Resources & Vulnerabilities:**
-- Resources: Anonymous backer paying reliably; professional discipline; lightning-bolt firepower; mercenary network for resupply.
-- Vulnerabilities: Contract is purely transactional — if the contracting party loses interest or changes terms, their motivation evaporates. Counter-offer from a richer principal could pivot them; T'sarran scrutiny in Menzoberranzan could spook them off the job.
+**Relationship to party:** Professionally neutral. The party dealt fairly with them. Nym asked to kill Jorlan (her estranged brother) — this was not resolved. The sisters departed without resolving the Jorlan question.
 
 ---
 
-### Juiblex's Forces
+### Blingdenstone (Diggermattock Coalition + Gold Whisker Clan + Borough Wardens)
+**Current goals:** Stabilize the city, reopen for surface trade, manage Zuggtmoy's opportunistic fungal expansion now that Juiblex has been expelled.
 
-**Current Goals & Active Operations:**
-- Routed from Blingdenstone. Pudding King and lieutenants destroyed.
-- Juiblex himself is recovering and has announced intent to consume Zuggtmoy's "banquet."
+**Active operations:** Post-battle recovery. Dorbo announced surface trade resumption. Chipgrin's wererats now formally control the upper boroughs. Jadger training young gnomes as Borough Wardens.
 
-**Key Members:**
-- **Juiblex** — Demon lord; sole surviving leadership.
+**Relationship to party:** Celebrated heroes. Two unanswered boon-questions owed from Jadger. Voucher of the Varmint in party possession.
 
-**Relationship to Party:** Passive threat. The party ended his Blingdenstone operation, but his new target is Zuggtmoy, not them — unless they get between him and Araumycos.
+**Vulnerabilities:** Zuggtmoy is already moving in. Pale puffball mushrooms growing at impossible speed in the exit tunnels. The city has no magical defense against fungal corruption and the party is the only force that has successfully engaged Zuggtmoy's forces.
 
-**Resources & Vulnerabilities:**
-- Vulnerabilities: Severely weakened post-Blingdenstone. His plan requires reaching Zuggtmoy's operations before she consolidates further.
-- Resources: His declared intent is a long-game threat, not an immediate one.
+---
+
+### Gray Ghosts / Council of Savants (Gracklstugh)
+**Current goals:** Unknown post-Narrak/Plinki. Leadership of both the cult cell and the Gray Ghost operative structure was largely destroyed in the Whorlstone caves.
+
+**Key members:** Uskvil (Gray Ghosts leader — still at large). Aliinka (Council of Savants double agent — still at large). Narrak — DEAD. Plinki — DEAD.
+
+**Relationship to party:** The party holds Plinki's journal and conspiracy letters implicating the full network. Uskvil and Aliinka do not know the party holds this evidence.
+
+---
+
+### Keepers of the Flame (Gracklstugh)
+**Current goals:** Control Themberchaud. Suppress knowledge that the dragon egg was stolen and corrupted. Use the cult evidence to pressure the Deepking.
+
+**Relationship to party:** Gartokkar paid the party. Themberchaud believes the party are his agents. The party is gone from Gracklstugh and holds no active obligation.
+
+---
+
+### Shuushar's Reform Movement (Darklake)
+**Current goals:** Reform Kuo-Toan society away from the god-creation compulsion.
+
+**Status:** Nascent. Operating on the Darklake with an unknown number of followers — Sloobludop survivors. Relevant because if the Kuo-Toan belief-summoning mechanism is neutralized, future demon lord manifestations via this vector become harder.
 
 ---
 
 ## Active Plots
 
-*Ordered by urgency.*
+### 1. Zuggtmoy's Wedding to Araumycos — URGENT
+**What is happening:** The wedding rehearsal is actively staged at Yggmorgus in Neverlight Grove. Yestabrod's corpse is being puppeted as the officiating priest. Yrberop is singing the wedding hymn and tending sprout fields. The Circle of Masters is stockpiling reanimated creatures. Zuggtmoy is being dressed in bridal regalia inside the tower.
+
+**Timeline:** No confirmed date, but the rehearsal phase is reached. Every day without intervention advances the ritual.
+
+**How it intersects with the party:** The party escaped Neverlight Grove without disrupting the wedding. Jimjar's last act was to warn them about Zuggtmoy's covert expansion. Zuggtmoy attempted to personally recruit Thorin and Grygum. Ilvara's dying prophecy referenced "the bride" and coming chaos. If Zuggtmoy completes the union with Araumycos, her spores will spread through the entire Underdark fungal network. Juiblex's plan to consume this "banquet" means a delay also empowers him.
+
+**Party obligation:** Not formally accepted, but Jimjar's warning, Eldeth's surface-world alarm, and the party's own knowledge of the threat make this the highest-stakes unresolved threat arc.
 
 ---
 
-### 1. Escape to the Surface (Immediate)
-**What is happening:** The Diggermattocks have confirmed a viable surface route and agreed to assist. The party is in Blingdenstone now, positioned to use it.
-**Timeline:** No hard deadline, but Zuggtmoy's growing influence in the city and the T'sarran retaliation arc both reward moving quickly.
-**Party intersection:** This is the primary party goal. All other plots apply pressure to this timeline.
+### 2. House T'sarran Retaliation — URGENT
+**What is happening:** A T'sarran survivor is en route to Menzoberranzan to brief the Matron Mother on the party's identities, capabilities, and the death of the mage and four warriors.
+
+**Timeline:** The survivor was last seen retreating into the tunnels during the Vel'Kynvelve fight. Depending on travel time, the Matron Mother could be informed within days to weeks.
+
+**How it intersects with the party:** Daz is the primary target (extraction contract). The party is now topside, which changes the operational environment — but Menzoberranzan houses have surface agents. The party holds a T'sarran signet ring and partially burned contract documents. Candlekeep research may reveal why T'sarran wants Daz, which could change how the party responds.
+
+**Trigger condition:** The Matron Mother dispatches assets when she receives the survivor's report.
 
 ---
 
-### 2. Zuggtmoy's Fungal Colonization of Blingdenstone (Active / Escalating)
-**What is happening:** With Juiblex expelled, Zuggtmoy is already filling the vacuum — pale puffballs and accelerated fungal growth are visible and spreading at impossible speed throughout the city. Jimjar warned she "prefers to move in while you're sleeping."
-**Timeline:** No stated clock, but the growth is happening *now*, while the party is still in Blingdenstone. Departure without intervention means the city likely falls to her influence.
-**Party intersection:** The party is present and has resources (Dawnbringer, Scroll of Protection Against Fiends, Entemoch's Boon, Grygum's radiant magic) that could disrupt her advance. Leaving without acting is a choice with narrative consequences.
+### 3. Daz's Anonymous Patron — HIGH PRIORITY
+**What is happening:** An unknown party in Menzoberranzan spent significant resources to protect Daz from two named houses. The contract is now fulfilled. The patron's next move is unknown.
+
+**Timeline:** Unknown. The patron likely knows the contract was fulfilled (Daz survived). Whether they make contact proactively is unresolved.
+
+**How it intersects with the party:** This is a mystery the party has explicitly flagged for Candlekeep research. It may connect to Daz's unknown lineage, to why T'sarran wants him alive specifically, or to the anonymous patron being a third faction in competition with both Mizzrym and T'sarran.
 
 ---
 
-### 3. House T'sarran Retaliation Arc (Active / Imminent)
-**What is happening:** One surviving warrior from the Fungal Cavern kill team is in transit to Menzoberranzan to inform the Matron Mother. Once she is informed, a formal kill or capture order is expected.
-**Timeline:** The survivor is already en route. The party has a window — but it is closing.
-**Party intersection:** Grygum needs to identify the Matron Mother before she identifies the party. Jadger's two unused boons could answer this question definitively. The party's route to the surface may intersect with Drow patrol territory.
+### 4. Demon Lord Incursion — Warning Undelivered
+**What is happening:** Multiple demon lords (Demogorgon, Zuggtmoy, Juiblex) are simultaneously active in the Underdark. Jimjar confirmed this requires deliberate summoning — a powerful actor with artifacts and magical resources is responsible. The surface world has not been warned.
+
+**Timeline:** Demogorgon is mobile in the Underdark and moving. Zuggtmoy is completing her ritual. Juiblex is reconstituting. The incursion is expanding.
+
+**How it intersects with the party:** Eldeth explicitly warned the party this threatens all of Faerûn. The party has the most direct and credible witness testimony of any surface-bound individuals. Candlekeep is an appropriate destination to research and report. The party holds physical evidence (Plinki's journal, Ilvara's prayer book) that could support a formal warning.
 
 ---
 
-### 4. Juiblex's Declared Intent to Consume Zuggtmoy (Active / Slow Burn)
-**What is happening:** Juiblex survived expulsion from Blingdenstone and announced his intention to consume Zuggtmoy's "banquet" (most likely Araumycos or the wedding ritual) and be reborn at greater power. He is weakened but moving.
-**Timeline:** Unclear. He is recovering; this is not an immediate crisis. But if he reaches Araumycos before anyone intervenes, a demon-on-demon catastrophe (two demon lords converging on the same point) becomes the new baseline threat.
-**Party intersection:** If the party intends to stop or delay Zuggtmoy's wedding, they may find themselves in the same territory as Juiblex, with conflicting agendas. He is not their ally; consuming Araumycos himself would be no better than Zuggtmoy succeeding.
+### 5. Zuggtmoy's Blingdenstone Expansion — ELEVATED
+**What is happening:** Pale puffball mushrooms are growing at impossible speed in Blingdenstone's exit tunnels. Juiblex's expulsion has created a vacuum Zuggtmoy is quietly filling. Jimjar's warning was explicit: "She prefers to move in while you're sleeping."
+
+**Timeline:** Already begun. The party observed it firsthand before leaving. Without active magical countermeasures, the growth will accelerate.
+
+**How it intersects with the party:** Blingdenstone is the party's most significant allied settlement. The Diggermattocks and Chipgrin are not equipped to handle demonic fungal corruption. The party is the only force that has successfully engaged Zuggtmoy's agents. Basidia's refugee myconids are mobile and might serve as an early-warning network if contacted.
 
 ---
 
-### 5. The Araumycos Wedding (Active / World-Scale)
-**What is happening:** Zuggtmoy's central objective — uniting with Araumycos to spread her spores through its mycelial network across the entire Underdark and surface — is proceeding. Ilvara's dying prophecies confirmed it continues. No action has been taken to stop it.
-**Timeline:** Unknown, but every session without intervention is a session closer to completion.
-**Party intersection:** The party has more direct knowledge of this threat than any other faction they've encountered. Grygum has scholarly understanding of Zuggtmoy's nature. Thorin twice refused her personally. The party possesses a Scroll of Protection Against Fiends and Dawnbringer. They are not equipped to fight her directly at current levels — but they may be the only people who know what's coming.
+### 6. Gracklstugh Political Powder Keg — MODERATE, DEFERRED
+**What is happening:** The party holds the Deepking's assassination contracts (targets include Thangus Ironhead, Errde Blackskull, Themberchaud, and others). Uskvil and Aliinka remain at large. Shal is an unidentified corrupting advisor still embedded in the Deepking's court.
+
+**Timeline:** Deferred. No immediate trigger unless the party returns to Gracklstugh or the documents are acted upon.
+
+**How it intersects with the party:** Releasing the documents could trigger the civil war Werz warned about. Withholding them maintains leverage. The Ember Vanguard name is still wanted. Errde may have informed Drow of the party's passage.
 
 ---
 
-### 6. Daz's False Identity with Asha Vandree (Active / Fragile)
-**What is happening:** Asha genuinely believes Daz is a Lolth convert. This deception is described as "load-bearing" — its collapse would have immediate consequences for the party's relationship with her and potentially expose Daz to Drow faction retaliation.
-**Timeline:** No clock, but Nym and Kaelira are now traveling in proximity. Even though they don't know who Daz is, a single misread conversation about cover identity, House politics, or Lolth doctrine could unravel everything.
-**Party intersection:** Every interaction with Asha is a pressure point. The Duskryns are professional and incurious about Daz's identity, but they are still drow operating inside drow social ritual; their presence adds new variables to every scene involving all three.
+### 7. House Mizzrym Discovery — MODERATE
+**What is happening:** House Mizzrym was sending escalating unanswered letters to Ilvara. Eventually they will send investigators to Vel'Kynvelve and discover: Ilvara dead, the outpost destroyed, her prayer book missing, and evidence of Zuggtmoy corruption.
 
----
+**Timeline:** Slow-burning. No confirmed timeline. Depends on how long House Mizzrym tolerates unanswered correspondence.
 
-### 7. Jorlan Duskryn — Estranged Duskryn Sibling (Latent)
-**What is happening:** Jorlan is the estranged brother of Nym and Kaelira. He was originally Ilvara's lover at Velkynvelve, demoted after disfigurement, and surfaced at the Fungal Cavern pursuing his own vengeance against her. He has no connection to Daz, no DeVir blood, and no involvement in the extraction contract. The party may have misheard Nym's "Can I kill your brother?" as a question about Daz — it was addressed to Kaelira about Jorlan.
-**Timeline:** Jorlan is in transit (direction unknown) and is not an immediate threat. His storyline is a Duskryn family arc, not a Daz arc.
-**Party intersection:** When the party next encounters Jorlan or hears the Duskryn sisters speak of him, the brother referent should clarify. If the party still believes Jorlan is Daz's brother, the misunderstanding is theirs to discover.
-
----
-
-### 8. Glabbagool's Ooze Communion / Body Swap (Latent)
-**What is happening:** Glabbagool briefly connected telepathically to every ooze in Blingdenstone via the bone die, pacifying the entire horde. He then underwent a mysterious body swap with the Pudding King. The lasting effects of both events are unknown.
-**Timeline:** No immediate trigger. This is a dormant variable.
-**Party intersection:** Glabbagool is in the bag of holding. Any ooze-heavy encounter could reactivate this capacity. The body swap's metaphysical implications have not been examined.
-
----
-
-### 9. Empty Spell Gems / Kazook Pickshine (Minor / Active Quest)
-**What is happening:** The party has unprocessed empty spell gems, including a fourth-level empty gem.
-**Timeline:** Blingdenstone is the last reliable access point before the surface push.
-**Party intersection:** Direct — Kazook Pickshine is in Blingdenstone. This is an administrative task before departure, but spell gems could meaningfully affect upcoming encounters.
-
----
-
-### 10. Zalthir's Name List (Latent / Uninvestigated)
-**What is happening:** Zalthir carries a list of names found at Velkynvelve — people who owe favors. It has never been investigated.
-**Timeline:** No pressure. But the party is heading to the surface, where some of these names may matter enormously.
-**Party intersection:** Zalthir's entanglement arc. The list could contain surface-world contacts, dangerous debts, or clues to other threads.
+**How it intersects with the party:** If investigators find evidence linking the party to Ilvara's death, House Mizzrym joins T'sarran as an active Drow house with a grievance. However, the Zuggtmoy corruption evidence in Ilvara's prayer book might redirect Mizzrym's anger toward Zuggtmoy rather than the party.
 
 ---
 
 ## DM Notes
 
----
+### Jimjar's True Nature
+Zalthir confirmed Jimjar is celestial or divine. Jimjar acknowledged the scrutiny with a wink and vanished. His last acts: warning about Zuggtmoy, making a specific bet about "a circle of unwilling vows" at Neverlight Grove (which proved accurate), and gifting the inert bone die. The party plans to research this at Candlekeep. Consider: was Jimjar a solar, a god's avatar, or something stranger? His betting behavior, debt-keeping, and persistent companionship across the entire campaign suggest long investment in the party's survival. His warning about Zuggtmoy was the most direct thing he ever said.
 
-**Convergence Point — Zuggtmoy and Juiblex, same target:** Both demon lords are now on an inevitable collision course with Araumycos. Zuggtmoy wants to marry it; Juiblex wants to consume it. The party may arrive at Araumycos's location to find both already in motion — which is a three-way crisis, not a confrontation with a single villain. This is the clearest opportunity for the demon lord arc to become genuinely catastrophic if the party delays.
+### Convergence: Zuggtmoy + Juiblex + Araumycos
+These three threads are about to collide. If Zuggtmoy completes the wedding, she gains control of Araumycos and the Underdark fungal network. Juiblex has declared he will "consume the banquet" — meaning the wedding itself or its immediate aftermath is when he will attempt to reconstitute. If the party does nothing, they may witness two demon lords fighting over the Underdark with Araumycos as the prize. This could be a tactical opportunity (let them weaken each other) or a catastrophe (whoever wins gains enormous power).
 
-**The Blingdenstone Departure Scene:** The party is about to leave a city that is visibly being colonized by Zuggtmoy in real time. The pale puffball mushrooms and accelerated fungal growth are foreshadowing visible to the players *right now*. Grygum's radiant Spirit Guardians, Thorin's Dawnbringer (sunlight), and the Scroll of Protection Against Fiends are the clearest tools for a disruption attempt before departure. If the party leaves without acting, a brief callback — a gnome messenger, a distant screaming from the fungal district, Jadger's ghost looking troubled — can mark the moment the city's fate was decided.
+### The Anonymous Patron as Dramatic Engine
+The patron spent Menzoberranzan-level resources to protect a male Drow with no house affiliation, routing through multiple cutout layers. Kaelira observed: "Every orphan thinks." Possible directions without inventing material:
+- The patron knows something about Daz's lineage that neither Daz nor the party knows.
+- The patron and House T'sarran may be competing factions, each wanting Daz for different reasons — one to protect him, one to capture him.
+- The patron's anonymity is a deliberate defense — they fear being identified as Daz's supporter.
 
-**Jadger's Two Boons — use them before departure:** The party has two free truthful answers from a reliable ghost in the catacombs. The most valuable questions right now: (1) Who is the Matron Mother of House T'sarran? (2) What is the current status of Zuggtmoy's wedding plan? Reminding the party these are available (through Dorbo, Chipgrin, or a passing Borough Warden recruit) would be a natural scene beat before they leave.
+### Ilvara's Dying Prophecy
+Her words referenced Zuggtmoy, "the bride," and "the mayhem to come." This was not delirium — Grygum noted she "muttered sincere prophecy." The party does not know what specific chaos she was predicting beyond the wedding. This is a hook: what does she mean by "mayhem"? The Juiblex reconstitution? Demogorgon moving toward the surface? Something connected to the necromantic pearl recovered from the fungal mass core?
 
-**Nym, Kaelira, and Asha in the same proximity:** All three are currently traveling with or near the party. The Duskryns hold an extraction contract on Daz but do not know who he is. Asha believes Daz is a sincere Lolth convert. A single scene where all three interact — even briefly — is a pressure cooker: drow social ritual exposes cover identities under sustained scrutiny, even from incurious mercs. Nym is the most likely to accidentally say something that puts Asha's belief in Daz's conversion under strain.
+### The Necromantic Pearl
+Recovered from the core of the fungal mass at Vel'Kynvelve. Described as unnaturally dense and finished — not natural, not standard. Not yet identified. Could be: a Zuggtmoy-formed artifact, a seed for a new fungal corruption anchor, or something older the fungal mass grew around. Candlekeep is the right place to research it.
 
-**Thorin's Moral Arc — Zhentarim Tactics:** He hasn't adopted it yet; the rest of the party doesn't know he's considering it. The first time he uses a Zhentarim-style approach (strategic killing for non-survival reasons) is a visible threshold moment. Asha Vandree — a Lolth cleric who respects power and ruthlessness — would likely approve. That approval could itself be a corrupting influence on him.
+### Asha's Theological Manuscript
+She composed or received a document arguing that Lolth and Zuggtmoy are the same entity. This is either Zuggtmoy's theological propaganda to infiltrate Lolth worship at scale, or a genuine heterodox position within Lolth clergy. The party holds this document. It could be:
+- Evidence to present to Lolth orthodoxy (House Mizzrym) to deflect blame for Ilvara's death onto Zuggtmoy
+- Proof of a coordinated theological subversion campaign that higher Lolth authorities would want suppressed
+- A research resource at Candlekeep for understanding Zuggtmoy's infiltration methods
 
-**Glabbagool's dormant ooze communion:** Carrying a sentient gelatinous cube with demonstrated mass-ooze telepathy through Zuggtmoy-infected territory is a foreshadowing opportunity. Even a brief moment of Glabbagool becoming agitated in the bag of holding — near the pale puffball clusters — could signal that something in Blingdenstone's fungal situation is resonating with ooze life in an unexpected way.
-
-**Jorlan Duskryn is loose:** He's alive, staggered, and heading somewhere. The party doesn't know where. As the estranged brother of Nym and Kaelira and Ilvara's former lover, his next appearance is a Duskryn family beat — a chance for the party to discover the brother they've been thinking about isn't Daz's at all.
-
-**Burrow Warden Jadger and the Borough Warden trainees:** A small scene of young gnomes drilling in the catacombs under a ghost's instruction is an effective piece of Blingdenstone texture — and a reminder that the party's actions here have institutional consequences that will outlast them.
+### Paths Currently Converging
+- **T'sarran retaliation + Candlekeep research:** The party is heading to Candlekeep to research Daz's patron. T'sarran's assets may also be looking for Daz above-ground. The journey to Candlekeep is not safe.
+- **Blingdenstone + Zuggtmoy expansion:** The heroes are celebrated there, but the city has no magical defense against what's growing in its walls. Basidia's refugee myconids are somewhere in the Underdark with relevant

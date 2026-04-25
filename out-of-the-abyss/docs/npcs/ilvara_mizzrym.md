@@ -30,6 +30,14 @@ High Priestess of House Mizzrym, originally serving Lolth as commander of the Ve
 ## Current Status
 **Dead.** Her body erupted into poisonous spores upon death — nothing of her remained. Her death confirmed the totality of Zuggtmoy's corruption; she had ceased to be a person long before the fight. Her prophecies about Zuggtmoy, "the bride," and coming chaos remain unresolved — the party has heard these warnings but their meaning is not yet clear.
 
+**Recovered from her body and quarters (extract 054 looting):**
+- **Annotated prayer book** — a standard Lolth liturgical text whose marginalia document a corruption timeline. Early entries are neat and formal; over time a second voice creeps into the margins, less structured and more associative, sentences that do not always end and questions that answer themselves with other questions. Grygum compared the effect to a bardic curse — coherent on the surface with something working against the grain beneath. Whether Ilvara knew she was no longer resisting is ambiguous and the most troubling part of the record.
+- **Living Serpent Head Scourge** — a scourge whose head was an actual living serpent, or had been, in some intermediate state. Grygum characterized it as a great museum piece.
+- **Chest of confiscated prisoner belongings**, including **Thorin's tooth** (chipped during the original capture at Velkynvelve and displayed by Ilvara as a trophy — Thorin retrieved it and called it very sentimental) and a **water-damaged journal from an unknown prisoner**.
+- **Sealed orders from House Mizzrym** — increasingly frantic inquiries about her whereabouts, establishing that her disappearance had been noted and that her correspondence had gone unanswered. Also a **letter from Neverlight Grove** documenting a missed meeting — political correspondence that had gone nowhere because Ilvara had already gone somewhere else.
+- **Ritual anchor:** a fungal mass at the centre of the chamber whose pulsing outer layers Grygum dissolved with acid. At the core Thorin found a finished, fist-sized object — smooth, dense, and radiating necromantic energy — and pocketed it.
+- **Leather-wrapped bundle** found beneath Ilvara's platform: incense cones, a small silver bowl, and a cloth stitched with both Lolth's web and Zuggtmoy's mark woven inside each other. Thorin characterized it as evidence of Ilvara's madness made physical.
+
 ## Relationships
 - **Zuggtmoy:** Ilvara was fully consumed by the demon lord's influence, serving as a vessel rather than an ally. Her death released demonic corruption as biology (spores), not identity.
 - **Jorlan Duskryn:** Former romantic partner/consort, dropped after his disfigurement (acid scarring, lost finger). His resentment drove him to help the prisoners escape — a direct betrayal. He charged her in a rage during the final fight — their history was deeply personal and violent.
@@ -48,3 +56,16 @@ High Priestess of House Mizzrym, originally serving Lolth as commander of the Ve
 
 ## Arc Score Events
 No explicit arc score changes noted in the source material.
+
+## Notes from Extract 054
+Ilvara does not appear alive in this chunk; she was already dead when the looting of the outpost began. Her body and possessions were present and examined.
+
+Grygum approached her prayer book with deliberate care, opening it to find a standard Lolth liturgical text that had been annotated in the margins by a different hand — or, in the reading that settled more heavily, by Ilvara herself in a state so altered that the handwriting had changed. The marginalia documented a corruption timeline: early entries neat and formal, then gradually, around the margins, a second voice creeping in, less structured, more associative, sentences that did not always end, questions answering themselves with other questions. Grygum compared the effect to a bardic curse he had observed, coherent on the surface with something working against the grain beneath. The timeline was legible: Ilvara had been a functioning, politically dangerous high priestess, and then something had found the edge of her and begun pulling. Whether she had known she was not resisting was, Grygum noted, ambiguous and the most troubling part.
+
+The Living Serpent Head Scourge was recovered from Ilvara's body — a scourge whose head was an actual living serpent or had been, in some intermediate state. Grygum characterized it as a great museum piece and noted the tradition of displaying terrible-in-origin but remarkable-in-craft items without pretending they are not what they are.
+
+A chest of confiscated prisoner belongings, which Ilvara had apparently been carrying, was also recovered. Among its contents was Thorin's tooth, chipped off during the original capture at Velkynvelve and displayed by Ilvara as a trophy. Thorin retrieved it and called it very sentimental. Also recovered from the chest was a water-damaged journal from an unknown prisoner.
+
+Sealed orders from House Mizzrym found at the outpost — increasingly frantic inquiries about Ilvara's whereabouts — established that her disappearance had been noted and that the correspondence had gone unanswered. A letter from Neverlight Grove documented a missed meeting, political correspondence that had gone nowhere because Ilvara had already gone somewhere else.
+
+A fungal mass at the center of the chamber was identified as having been Ilvara's ritual anchor. Grygum dissolved the pulsing outer layers with acid. Thorin found a finished, fist-sized object at the core — smooth, dense, and radiating what Thorin assessed as necromantic energy — and pocketed it. Beneath the platform Ilvara had built, Thorin found a leather-wrapped bundle containing incense cones, a small silver bowl, and a cloth stitched with both Lolth's web and Zuggtmoy's mark woven inside each other. Thorin characterized it as evidence of Ilvara's madness made physical.

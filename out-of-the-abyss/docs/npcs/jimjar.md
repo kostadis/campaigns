@@ -32,9 +32,9 @@ Deep gnome (svirfneblin) NPC companion, fellow escapee from drow captivity who c
 6. **Final cavern entrance:** Was instructed by Daz to wait outside the brimstone-and-chemical-reeking cavern entrance with other companions, showing visible worry at being told to stay behind.
 
 ## Current Status
-- **Location:** Traveling with the party as a companion
-- **Activity:** Continuing to offer bets and occasional tactical advice while following the group
-- **Party knowledge:** Seen as a quirky but sometimes insightful companion with questionable expertise on Underdark phenomena
+- **Location:** Unknown — disappeared at some point prior to the party's emergence to the surface. Circumstances of the disappearance are not yet documented in available extracts.
+- **Party intentions:** Researching his disappearance is listed alongside the investigation of House T'sarran as one of the motivating purposes for a planned journey to Candlekeep in the months following the party's emergence to the Overbright.
+- **Party knowledge:** Seen as a quirky but sometimes insightful companion with questionable expertise on Underdark phenomena. The party considers his disappearance significant enough to merit dedicated archival research.
 
 ## Relationships
 - **Grygum:** Regular betting partner who distrusts Jimjar and suspects he might prioritize bets over lives; Jimjar owes him from the lost knot wager
@@ -44,3 +44,6 @@ Deep gnome (svirfneblin) NPC companion, fellow escapee from drow captivity who c
 
 ## Arc Score Events
 None noted in available session records.
+
+## Notes from Extract 054
+Jimjar does not appear in this chunk. He is referenced in the context of the party's planning for the months following their emergence to the surface. Research into his disappearance is listed alongside investigation of House T'sarran as one of the motivating purposes for a planned journey to Candlekeep.

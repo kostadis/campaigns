@@ -1,318 +1,314 @@
-# WORLD STATE DOCUMENT — OUT OF THE ABYSS CAMPAIGN
-
-**Last Updated After Session Events Through:** 5th day, 2nd tenday of Myrkhul 1495 DR (approximately)
-**Current Campaign Date (latest referenced):** ~1st tenday of Kythorn 1495 DR (party entering Blingdenstone)
+# WORLD STATE — LIVING CANON REFERENCE
+*Current as of: Surface emergence, following Ilvara's death. Last verified date in Underdark: 1st Tenday of Kythorn 1495 DR (approximate, surface date unconfirmed).*
 
 ---
 
-## I. THE PARTY — THE EMBER VANGUARD
-
-### Core Members (All Level 8)
-
-**Thorin Giantfriend** — Dwarf Fighter
-- Raised by hill giants; speaks Giant; deeply familiar with giant culture and customs
-- Wields **Dawnbringer** — a sentient sunblade (radiant damage, 20-foot light radius, can cast Lesser Restoration, refuses to extinguish its light); housed in a locking scabbard crafted by Valimor Brightgem
-- Fighting style: melee powerhouse (near/at 20 Strength); recently acquired javelin proficiency (Sharpshooter-style thrown weapons) to address lack of ranged capability
-- Considering Zhentarim Tactics fighting style — reflects moral darkening over months in the Underdark
-- Carries the Stonespeaker Crystal (gift from Hgraam; casts Speak with Animals, Speak with Dead, Speak with Plants; aids divination)
-- Can activate Stone Skin (protective blessing from Entemoch's boon — turn skin to stone once/day when struck)
-- Previously warned by "the fates" not to touch Zuggtmoy's mushroom artifact; carries a Whorlstone Tunnels contamination marker making such artifacts especially dangerous to him
-- Personality: direct, blunt, increasingly hardened; has a rock-throwing tradition from giant upbringing
-
-**Daz** — Drow Evocation Wizard (Evoker)
-- Trained in Menzoberranzan; possesses Sculpt Spells ability (shapes AoE to exclude allies)
-- Fey Touched feat (free Misty Step plus one additional prepared spell)
-- Key spells: Fireball, Magic Missile, Scorching Ray, Hypnotic Pattern, Maximilian's Earthen Grasp, Cloud of Daggers, Shape Water, Misty Step, Shield, Toll the Dead, Mind Sliver, Faerie Fire, Dancing Lights
-- Has a spider familiar and a bat familiar
-- Possesses **Princess Ebonmire's spellbook** (contents not fully catalogued)
-- Maintains a **false Lolth-follower identity** with Asha Vandree — described as "load-bearing" deception
-- Claims membership in the Ember Vanguard ("the feared mage of the Ember Vanguard")
-- Has been mentally composing journal entries since escaping Velkynvelve, inspired by Milo Goodbarrel's writing practice
-- Privately holds beliefs about slavery, freedom, and society that diverge from drow norms
-- No known living kin in current canon
-
-**Zalthir** — Dragonborn Shadow Monk
-- Fire breath; can cast/maintain Darkness (sees through his own); can fly (sprout wings); Shadow Step teleportation; Stunning Strike; Steps of the Wind
-- **Eldritch Claw Tattoo**: transforms hands into 15-foot tentacles, +1d6 force damage, grapple capability
-- Stone Skin (Entemoch's boon)
-- Spectacles crafted from glowing crystal (see invisible creatures, peer through magical darkness)
-- Trained by The Garden Shadow (an ancient monk); initially came to monastery to learn fighting, learned deeper lessons about discipline
-- Builds "super lopsided" with obscure specialization; excels at grapple-and-drag tactics
-- Personality: analytical, emotionally controlled, speaks only when necessary; bronze-scaled dragonborn
-- Previously ate a Tongue of Madness mushroom and declared a vow of silence
-- Carries a list of names (found in Velkynvelve) believed to be people who owe favors — not yet investigated
-
-**Grygum** — Half-Orc Cleric of Bahamut
-- Trained at a temple of Bahamut by mentor Gorg'Bahamut (also referenced as Grog'Bahamut)
-- Belongs to a sub-sect believing dragons have freedom of choice regardless of scale color
-- Spells: Guiding Bolt, Inflict Wounds, Tasha's Caustic Brew, Spirit Guardians, Toll the Dead, Thaumaturgy, Mending (keeps this secret to avoid ship duty), Glyph of Warding, Dust of Suleiman
-- Acid breath ability; light crossbow
-- Can Turn Undead; can summon spectral guardians (manifest as fey spirits dealing radiant damage)
-- Carries Whorlstone Tunnels contamination marker (same warning as Thorin regarding Zuggtmoy artifacts)
-- Personality: earnest, theatrical, philosophical, protective of the vulnerable (especially Glabbagool and formerly Stool)
-
-### Active Companions
-
-**Glabbagool** — Sentient Gelatinous Ooze (formerly a gelatinous cube)
-- Gained sentience through an unknown event — likely connected to Demogorgon's chaotic influence
-- Currently in ooze form (smaller, more mobile than his original cube form) after a mysterious body swap with the Pudding King during their final battle
-- Cheerful, earnest, gentle; wants to belong and travel with the party; considers himself their "garbage disposal"
-- Can extend pseudo-pods, absorb things, punch; retains treasure inside his body
-- Briefly connected telepathically with every ooze in the Blingdenstone cavern via a bone die, pacifying the entire horde
-- Interested in monk training to control his form and acidity
-- Carried in a bag of holding by the party
-
-**Eldeth** — Shield Dwarf
-- Skilled at hiding tracks (invaluable during Underdark travel); spelunking experience
-- Distrustful of giants (War of the Giants devastated the North); hostile toward duergar; contemptuous of derro
-- Has undergone ideological shift regarding drow — now believes the Cult of Lolth is the true problem, not all drow
-- Was armed by Errde Blackskull at Overlake Hold in Gracklstugh
-
-**Spiderbait** — Goblin
-- Surviving half of the goblin web-guide duo (Yukyuk was murdered by Buppido)
-- Was armed by Errde Blackskull; remains with the party
-
-**Pelek** — Ghost (possessing a derro body)
-- Svirfneblin merchant murdered by Buppido; ghost bound within 30 feet of his bones
-- **Bones were interred** at the Temple of the Ruby in the Rough in Blingdenstone — **Pelek's spirit passed on peacefully**
-- Has a family obsidian ring on a severed hand somewhere in the Whorlstone Caverns (status unknown)
-
-### Recently Departed Companions
-
-**Stool & Rumpadump** — Myconid sprouts from Neverlight Grove; departed with Basidia's loyalist myconid faction
-**Shuushar the Awakened** — Kuo-Toa monk/reformist; departed to lead a new Kuo-Toan reformist movement on the Darklake
-**Jimjar** — Deep gnome; **vanished from existence** — confirmed to possess divine-level immunities (immune to poison, psychic, charm, fear; resistant to radiant and non-magical physical); implied to be a deity or celestial being disguised as a gnome; prophetic foreknowledge; the party will likely meet him again
-
-### Deceased Companions
-
-**Prince Derendil** — Quaggoth (claimed to be a polymorphed elf prince; claim was false); killed by Imbros during the Velkynvelve escape
-**Ront** — Orc; killed by a vrock on the Velkynvelve cavern floor during the escape
-**Sarith** — Drow (former Lolth's guard); progressively infected by Zuggtmoy's spores; head exploded at Neverlight Grove, becoming a spore servant; killed by Jimjar
-**Yukyuk** — Goblin web-guide; murdered by Buppido (throat slit with a shortsword while sleeping)
-**Buppido** — Derro serial killer; believed himself divine; killed by Daz's magic missiles in his shrine cave in the Whorlstone Caverns
-**Topsy & Turvy** — Deep gnome wererats (twins); went missing from Ghohlbrorn's Lair in Gracklstugh; fate unknown
-
-### Current NPCs Traveling With/Near the Party
-
-**Asha Vandree** — Drow cleric of Lolth; genuinely devout; believes Daz is a Lolth convert (deception); allied against Ilvara; currently reshaping the battle's events into a Lolth-favorable narrative
-**Nym Duskryn** — Drow mercenary; hired on contract to extract Daz alive; sister of Kaelira; professional, transactional
-**Kaelira Duskryn** — Drow mercenary; hired on contract to extract Daz alive; sister of Nym
-**Jorlan Duskryn** — Drow warrior; scarred, bitter; former lover of Ilvara at Velkynvelve, demoted after disfigurement, kept tracking her after the outpost fell; brother of Nym and Kaelira Duskryn; arrived at the Fungal Cavern coincidentally (chasing Ilvara out of vengeance — no DeVir connection); alive but staggered after taking Nym's lightning bolt during that battle; allegiance uncertain
+## TABLE OF CONTENTS
+1. The Party (Player Characters)
+2. Party Companions & Associates
+3. Key NPCs (Active)
+4. Key NPCs (Deceased / Departed)
+5. Factions
+6. Locations
+7. Items of Note
+8. Open Threads & Mysteries
+9. Canon Events Timeline
 
 ---
 
-## II. KEY NPCS (Non-Party)
+## 1. THE PARTY (PLAYER CHARACTERS)
 
-### Deceased / Destroyed
+**GYRGUM / GRYGUM**
+- Race: Half-orc
+- Class: Cleric of Bahamut
+- Mentor: Gorg'Bahamut (whereabouts unknown)
+- Current state: Surface world; uninjured
+- Notable abilities: Acid breath, Turn Undead, Guiding Bolt, Spirit Guardians, Tasha's Caustic Brew, Toll the Dead, Mending (kept secret to avoid ship duty)
+- Key items: Holy symbol, mace (purchased in Gracklstugh), Living Serpent Head Scourge (looted from Ilvara), scrolls found in Errde Blackskull's armory
+- Background notes: Worships Bahamut; was a prisoner at Velkynvelve; has been imprisoned before ("not again"). Philosophically committed to freedom of choice for all beings. Briefly used Bahamut's teachings to calm Sarith after Derendil's death.
+- Relationships: Bonded with Stool (formerly close; Stool departed with Basidia's myconid group). Feels genuine affection for Glabbagool.
+- Open threads: Intends to research Bahamut lore at Candlekeep. Received two unanswered boon-questions from Burrow Warden Jadger's ghost. Has a Stonespeaker Crystal (party item).
 
-**Ilvara Mizzrym** — Drow high priestess of House Mizzrym; formerly of Lolth, corrupted by Zuggtmoy; commander of Velkynvelve; killed by Grygum's Guiding Bolt; body erupted into poisonous spores upon death
-**The Pudding King** — Gnome transformed into sentient ooze; servant of Juiblex; destroyed by Zalthir in Blingdenstone
-**Princess Ebonmire & Prince Livid** — Ooze henchmen of the Pudding King; destroyed in the throne room battle
-**Plinki** — Derro cultist of Demogorgon; killed by Zalthir's fire breath in the Whorlstone Caverns
-**Narrak** — Derro cult leader of Demogorgon; killed by Thorin in the Whorlstone ritual chamber
-**Imbros** — Elite drow fighter at Velkynvelve; killed by Sarith during the prisoner revolt
-**Xinaya** — Drow soldier sent by Ilvara to Neverlight Grove; infected by Zuggtmoy; mercy-killed by Thorin
-**Brysis of Khaem (Wraith)** — Netherese noblewoman/wraith in the Lost Tomb; killed by Grygum's acid breath
-**The Spectator** — Mad beholder-kin encountered on the Silken Paths; killed by Daz's magic missiles
-**Yestabrod** — Myconid; dead, corpse puppeteered by spore servants during Zuggtmoy's wedding rehearsal
+**DAZ**
+- Race: Drow (male)
+- Class: Evoker Wizard
+- Origin: Menzoberranzan (apostate)
+- Current state: Surface world; infected by spores (visibly)
+- Notable abilities: Magic Missile, Fireball (Sculpt Spells — can shape Fireball around allies), Scorching Ray, Shape Water (can freeze into portable ice), Dancing Lights, Mind Sliver, Faerie Fire, Maximilian's Earthen Grasp, Misty Step, Hypnotic Pattern; bat familiar; spider familiar
+- Key items: Spellbook (accumulated); Stonespeaker Crystal (party item — required for Glabbagool communication); T'sarran signet ring (looted, potentially useful)
+- Background notes: Trained in Menzoberranzan where destructive magic was considered the only magic worth taking. No noble house affiliation — an anomaly. Was an apostate; has traveled through the High Forest. Identified Prince Derendil as a liar early on. Has been maintaining a false Lolth-follower identity with Asha Vandree (now moot — Asha is dead). Has read Milo Goodbarrel's book extensively.
+- Revealed: An anonymous patron in Menzoberranzan spent significant resources routing through multiple cutout intermediaries to protect Daz from House Mizzrym and House T'sarran. Neither the patron nor Daz knows why. House T'sarran simultaneously wanted Daz extracted alive.
+- Open threads: Identity of his anonymous patron. Why he is simultaneously a protected asset and a target. Has a brother "covered in fungus" (unreferenced since). Travel to Candlekeep to research.
 
-### Alive / Active
+**THORIN GIANTFRIEND**
+- Race: Dwarf
+- Class: Fighter
+- Current state: Surface world; has recovered his tooth (was taken by Ilvara as a trophy)
+- Notable abilities: Hill Strike (from hill giant battle master training), Sap, Second Wind, Precision Attack; can read Giant script
+- Key items: Dawnbringer (sentient sunblade — see Items section); Vaultmaster Locking Scabbard (for Dawnbringer); his tooth (recovered)
+- Background notes: Raised by giants; speaks with an unmistakable giant accent. Was the prisoner who proposed breaking down the cell door at Velkynvelve. Carries detailed knowledge of giant culture and customs. Has an uncomplicated, boulder-based approach to conflict resolution. Does not understand Drow politics and is not ashamed to say so. Intends to find a "sword whisperer" specialist for Dawnbringer.
+- Relationships: Close to the giants he grew up with. Has tension with Eldeth over the War of the Giants (she resents giants; he has complex loyalty). Whisperwind is a giant friend who warned him about Duergar.
+- Open threads: Finding a sword whisperer. His relationship to giants may become relevant as surface events unfold.
 
-**Hgraam** — Stone giant Stonespeaker of Cairngorm Cavern, Gracklstugh; venerable; delivered prophecy about evil stirring in the Underdark; gifted Stonespeaker Crystal to the party; sealed his cavern entrance for an extended period; knows no route to the surface
-**Dorhun** — Stone giant; apprentice to Hgraam; invited party to Cairngorm Cavern
-**Gartokkar Xundorn** — Duergar; Custodian of the Flame (Keepers of the Flame chief), Gracklstugh; received the mutated dragon egg from the party; paid them; warned them about danger; threatened them if betrayed
-**Errde Blackskull** — Duergar; Captain of the Stone Guards, Gracklstugh; paranoid; wants proof against the Council of Savants; knows about Drow pursuing the party; can misdirect pursuers
-**Themberchaud** — Young (overfed) red dragon; "Wyrmsmith of Gracklstugh"; believes he rules the city; actually controlled by the Keepers of the Flame; flew the party to the docks; doesn't know about the egg or his planned replacement
-**Werz Saltbaron** — Duergar merchant; targeted for assassination by the Deepking; paid the party an NDA and spell gems
-**The Deepking (Horgar Steelshadow V)** — Ruler of Gracklstugh; afflicted with madness; paranoid; issuing erratic decrees; secretly commissioning assassinations via the Empty Scabbard guild
-**Shal** — Advisor to the Deepking; refuses to meet anyone; since befriending the Deepking, the Deepking has become paranoid
-**Eldgrim** — Leader of the Empty Scabbard/Soulblades assassin guild, Gracklstugh; one-eyed duergar; agreed to cancel Werz contract if party destroys Demogorgon cult (which they did)
-**Chief Dorbo Diggermattock** — Leader of Blingdenstone; profit-focused; initially suspicious of the party; agreed to help after they resolved the ooze crisis
-**Senni Diggermattock** — Co-leader of Blingdenstone; people-focused; pragmatic; advocated for working with the Gold Whisker Clan
-**Chipgrin** — Chief of the Gold Whisker wererat clan in Blingdenstone; agreed to ally against the oozes; now controls the upper boroughs as a self-funded defense force; gave Daz the Voucher of the Varmint
-**Burrow Warden Jadger** — Ghost in Blingdenstone's catacombs; former city defender; training young gnomes to re-establish the Borough Wardens; offered the party two truthful answers as boons (not yet claimed)
-**Kazook Pickshine** — Alchemist in Blingdenstone; can turn empty spell gems into powerful magical gems
-**Glyphic Shroomlight** — Priest at the Temple of the Ruby in the Rough, Blingdenstone
-**Fargas Rumblefoot** — Halfling adventurer; rescued from spider cocoon on the Silken Paths; revealed the secret of the Tomb of Brysis of Khaem; current location unknown
-**Hemeth** — Duergar arms dealer from Gracklstugh; traveled with the party on the Darklake; told them to find him in Gracklstugh
-**Basidia** — Myconid Sovereign; opposed to Zuggtmoy's corruption; fled Neverlight Grove with loyalist myconids; gave potions and treasure to the party
-**Phylo** — Myconid Sovereign; corrupted by Zuggtmoy; remained in control of Neverlight Grove; allied with the "Great Seeder"
-**Ploopploopeen** — Kuo-toa Archpriest of the Sea Mother in Sloobludop; betrayed his daughter Bloppblippodd (who summoned Demogorgon); status after Sloobludop's destruction unknown
-**Welnaste Mizzrym** — Drow caravan leader of House Mizzrym; originally sold the party to Ilvara; departed Velkynvelve before the escape
-
-### Fuurm Coppernose & Baedora/Aliza Argot — Surface-dwellers rescued from Faerzress crystal caves; escaped Drow captivity during a demon attack; traveling with the party
-
----
-
-## III. FACTIONS
-
-### The Ember Vanguard (The Party)
-- Named after legendary groups: the First Faction and the Three Half Pints and the Pint (3HPP)
-- Wanted in Gracklstugh (inaccurate descriptions on posters); feared by the Stone Guard; hunted by the Grey Ghosts
-- Legends of their exploits spreading through Blingdenstone (increasingly exaggerated)
-- Simultaneously worked for the Stone Guards, Keepers of the Flame, and Themberchaud in Gracklstugh
-- Possess the Deepking's assassination contract (bearing personal and royal seals) ordering kills on Werz, Thangus Ironhead, Captain Blackskull, and Themberchaud
-
-### Drow Factions
-**House Mizzrym** — Ilvara was their agent; connected to Velkynvelve; Welnaste is a caravan leader; Ilvara is now dead
-**House T'sarran** — Sent a kill team to the Fungal Cavern (during the final Ilvara battle) that was mostly destroyed by the party; one survivor retreated with a credible threat; the Matron Mother will be informed. The contract that brought T'sarran forces there is unknown.
-**House Duskryn** — Three known siblings: Nym and Kaelira (mercenaries hired through cutouts to extract Daz alive; contractor identity unknown to them) and Jorlan (estranged warrior; was originally Ilvara's lover at Velkynvelve before disfigurement and demotion; surfaced again at the Fungal Cavern fight pursuing his own vengeance against her; no connection to the contract or to Daz)
-**Cult of Lolth** — Dominant force in Menzoberranzan; organizes drow society around noble houses; Asha Vandree is a genuine devotee
-
-### Gracklstugh Factions
-**Keepers of the Flame** — Control Themberchaud; received the mutated dragon egg; plan to eventually replace Themberchaud; psionic abilities; led by Gartokkar
-**Stone Guards** — City guard led by Errde Blackskull; investigating corruption; armed the party's companions
-**Empty Scabbard / Soulblades** — Assassin guild; contracted by the Deepking; led by Eldgrim; deal with party to cancel Werz contract fulfilled (party destroyed Demogorgon cult)
-**Grey Ghosts** — Thieves' guild; subordinate to Demogorgon cult; leader Uskvil stole the dragon egg; issued vendetta against the party
-**Council of Savants** — Derro governing body; almost entirely indoctrinated by Demogorgon cult; Aliinka is a cult operative
-**Clan Steelshadow** — The Deepking's clan; monopoly on weapons orders
-**Clan Ironhead** — Grinta Ironhead actively schemes to depose the Deepking; offered discounted trade with deep gnomes if successful
-**Clan Thrazgad** — Their acid-resistant ore was stolen by Grey Ghosts; manufactured a dragon-sized baby rattle
-
-### Blingdenstone Factions
-**Diggermattock Leadership** — Chief Dorbo and Senni; reopening city for surface trade; agreed to help party reach the surface
-**Gold Whisker Clan** — Wererat gnomes; now control upper boroughs as defense force; led by Chipgrin
-**Borough Wardens** — Ghost organization being re-established by Jadger
-**Stoneheart Enclave** — Agricultural/fungal cultivation support
-**Miners Guild** — Led by Kazook Pickshine/Dasco Pickshine; sustainable mining practices agreed
-
-### Demonic Forces
-**Demogorgon** — Prince of Demons; physically appeared at Sloobludop, destroying the town; connected to widespread chaotic madness; gave Glabbagool sentience (indirectly)
-**Zuggtmoy** — Demon Queen of Fungi / Lady of Rot; corrupted Neverlight Grove via Phylo; corrupted Ilvara; plans to "wed" Araumycos; filling power vacuum after Juiblex's retreat from Blingdenstone; influence spreading through fungi
-**Juiblex** — Demon Lord of Oozes; empowered the Pudding King; driven out of Blingdenstone; declared "I will be reborn. I will consume the banquet of the queen of the fungi, and I will grow" — plans to consume Zuggtmoy
+**ZALTHIR**
+- Race: Dragonborn (bronze, with draconic heritage; fire breath)
+- Class: Shadow Monk
+- Current state: Surface world; alive; has an Eldritch Claw Tattoo
+- Vow: Speaks only when he has something to say
+- Notable abilities: Darkness (can see through his own magical Darkness), Shadow Step (teleport between shadows), Stunning Strike, Flurry of Blows, Steps of the Wind, Eldritch Claw Tattoo (15-foot tentacle reach, grapple, +1d6 force damage), wings (can fly), fire breath
+- Key items: Eldritch Claw Tattoo; Asha Vandree's fine Drow spider-silk cloak (taken); magical spectacles (purchased from Starlace — see invisible creatures, peer through magical darkness)
+- Background notes: Trained at a monastery (unnamed) under Brother Quellin and Brother Harren. Also associated with an organisation called the Garden Shadow. Has a list of names found on a document in Velkynvelve believed to be people who might help the party (never fully investigated). Was the one most worried about losing his mind; ironically succumbed to compulsive hoarding madness in Gracklstugh (cured by Dawnbringer's Lesser Restoration). Keeps his scales unclean (noted as a flaw by Buppido under truth mushroom). Daw cloak stored before surface emergence to prevent disintegration.
+- Relationships: Was awestruck by Zalthir by goblin guides Yukyuk and Spiderbait. Reflected on someone named Valen during the Ilvara battle — a former guard/soldier who could have become a spore servant under different circumstances; full story unresolved.
+- Open threads: Valen's fate and relationship. The list of names. His draconic birth circumstances (taunted about by Ilvara — "the circumstances of his birth").
 
 ---
 
-## IV. LOCATIONS
+## 2. PARTY COMPANIONS & ASSOCIATES (CURRENT)
 
-### Currently At
-**Blingdenstone** — Deep gnome city in the Underdark; recently liberated from the Pudding King's ooze threat; ooze crisis resolved; multiple factions in fragile peace; reopening for surface trade; Zuggtmoy's influence creeping in (accelerated fungal growth, pale puffball mushrooms); contains the Maze (deadly trap-filled entrance tunnels), Trader's Grotto, Diggermattock Hall, Temple of the Ruby in the Rough, Foaming Mug Tavern, the Gilded Sheath, the Rock Blight (cleansed temple area)
+**GLABBAGOOL**
+- Nature: Sentient grey ooze (formerly a gelatinous cube; body-swapped during the Pudding King battle)
+- Current state: Surface world; peering out of the bag of holding; first encounter with sunlight
+- Communication: Requires Stonespeaker Crystal (Daz's item) to communicate vocally
+- Background: Gained sentience through an unknown event after an unknown trigger (possibly connected to the Faerzress). Has a 10-foot-by-10-foot cubic form in gelatinous cube mode; now in grey ooze form. Briefly connected telepathically with every ooze in Blingdenstone and pacified them using Jimjar's saint's-knucklebone die.
+- Abilities: Can absorb items, extend pseudopods, punch, identify ooze type/behavior; can fit through narrow spaces; does not need to breathe; can clean floors
+- Personality: Earnest, gentle, enthusiastic, wants to belong; finds fighting new and interesting; cannot successfully pretend to be geological
+- Open threads: Whether his sentience has lasting effects; whether he can return to gelatinous cube form; potential monk training to control his form/acidity
 
-### Previously Visited
-**Velkynvelve** — Drow outpost/prison 100 feet up in a cavern; hanging stalactite towers; where the party was originally imprisoned and from which they escaped (chapters 1–4). The original drow pursuit force came from here. The outpost was later destroyed (Ilvara abandoned it after the escape). The final Ilvara fight did **not** take place here.
+**ELDETH**
+- Race: Shield Dwarf (surface, from the North)
+- Current state: Surface world; alive; traveling with party
+- Background: Distrusts giants (War of the Giants devastated the North). Skilled at hiding tracks. Has deep racial animosity toward Duergar. Was invaluable as a trail-hider; reduced Drow pursuit to "a mere whisper." Her clan is being assassinated by order of the Gracklstugh Deepking (party possesses the contract as evidence).
+- Key tension: Does not understand why Thorin views giants favorably.
 
-**The Fungal Cavern** — A separate cavern several days' travel from Blingdenstone where the party encountered Ilvara for the last time. Site of the final battle (chapter 52: "A Spore-Filled Finale"). The Heart Fungus stood at the center; bridges spanned the cavern; an elevated platform sat above the heart-fungus mass. Ilvara, fully Zuggtmoy-corrupted and carrying a mushroom artifact from Neverlight Grove, was found here with a contingent of former Velkynvelve guards converted into spore servants. Ilvara died here (Grygum's Guiding Bolt); body erupted into spores; Heart Fungus destroyed; bridge collapsed.
-**Gracklstugh** — Duergar metropolis; xenophobic, regimented; non-duergar restricted to Darklake District; afflicted by widespread madness; multiple factions in conflict; the party departed dramatically on Themberchaud's back; wanted posters remain; mass executions reported; current state uncertain
-**Sloobludop** — Kuo-toa village; completely destroyed by Demogorgon
-**Neverlight Grove** — Myconid settlement; corrupted by Zuggtmoy via Phylo; loyalist myconids fled with Basidia; Yggmorgus (giant central mushroom) serves as Zuggtmoy's seat of power; wedding rehearsal observed
-**The Darklake** — Vast underground water network; navigable by boat; contains demonic fauna (manta ray creatures); duergar-constructed locks; connects major Underdark settlements
-**The Silken Paths** — Giant spider web network spanning a 500-foot-deep, 2,000-foot-wide chasm; guided through by Yukyuk and Spiderbait
-**The Lost Tomb of Brysis of Khaem** — Netherese floating tomb that fell into the Underdark; contains the false tomb and true tomb; Dawnbringer found here; wraith Brysis destroyed; invisible chest contained necklace of fireballs, potion of greater healing, and gold
-**Whorlstone Caverns** — Secret cave system beneath Gracklstugh; contains the Obelisk (50-foot black metal monolith); Faerzress-suffused; site of Demogorgon cult activities; Buppido's shrine; underground heated lake; fungal thicket
+**YUKYUK / YUK-YUK** (also spelled Yukyuk)
+- Race: Goblin
+- Current state: Surface world; traveling with party
+- Background: Was initially one of two goblin web-guides on the Silken Paths (along with Spiderbait). His partner Spiderbait was murdered by Buppido (throat slit). Has been with the party since. Owes/is owed 20 gold by Jimjar (debt context unclear with Jimjar's departure).
 
-### Key Unvisited/Referenced Locations
-**Menzoberranzan** — Major drow city; Cult of Lolth dominant; Daz's training ground; House T'sarran will be informed of party's actions
-**Gauntlgrym** — Dwarven fortress captured by Shield Dwarves from orcs
-**The Surface ("The Overbright")** — Party's ultimate destination; path through Blingdenstone confirmed as viable route
-
----
-
-## V. MAJOR ITEMS & RESOURCES
-
-- **Dawnbringer** — Sentient sunblade (Thorin); radiant damage; 20-foot light; casts Lesser Restoration; refuses to be dark
-- **Stonespeaker Crystal** — 19-inch quartz shard; casts Speak with Animals/Dead/Plants; aids divination
-- **Princess Ebonmire's Spellbook** — Contains numerous spells; not fully catalogued by Daz
-- **Deepking's Assassination Contract** — Bears personal and royal seals; orders kills on Werz, Thangus Ironhead, Errde Blackskull, and Themberchaud
-- **Statue of Demogorgon** — Recovered from Whorlstone Caverns
-- **Plinki's Journal and Letters** — Evidence of Demogorgon cult conspiracy; names Narrak, Uskvil, Aliinka
-- **Empty Spell Gems** — Payment from Werz Saltbaron; Kazook Pickshine in Blingdenstone can turn these into powerful magical items
-- **Fourth-Level Spell Gem (empty)** — Reward from Grunik Tapfinger for hallowing the temple
-- **Necklace of Fireballs** — Found in Brysis's tomb
-- **Magical Jug** — Generates any liquid (first liquid: mayonnaise); found on duergar keelboat
-- **Voucher of the Varmint** — Braided rat's foot token from Chipgrin; recognized by wererats and outcasts from Blingdenstone to Menzoberranzan
-- **Gold Badges, Holy Symbol of Laduguer, Gold Pins (Themberchaud's profile)** — From Gartokkar; allow passage through Gracklstugh
-- **Stone Guard Passes** — From Errde Blackskull; allow movement through Gracklstugh gates
-- **Scroll of Protection Against Fiends** — From Basidia
-- **Faerzress Quartz Crystals** — Collected from multiple crystal caves; fist-sized, glowing; no magical effect observed when thrown; usefulness unproven
-- **Protective Crystal Spectacles** — Zalthir's; allow seeing invisible creatures and through magical darkness; also protect against petrifying gaze attacks
-- **Five Spider-Silk Dresses** — Drow make; valuable in the Underdark
-- **Yellow Diamond Gem** — Can summon an Earth Elemental (warning: elementals go mad in cursed areas)
-- **Entemoch's Boon** — Party can summon Earth Elementals; protective Stone Skin blessing (once/day)
+**PELEK** (GHOST — resolved)
+- Status: PASSED ON. Pelek's bones were interred in Blingdenstone's catacombs beneath the Temple of the Ruby in the Rough. His spirit faded peacefully. His obsidian family ring on his severed hand was a side quest item; unclear if recovered.
+- Legacy: Was a Svirfneblin merchant from Blingdenstone, murdered by Buppido less than a year before the campaign. Witnessed the Faerzress "blink." His information about Blingdenstone's customs (avoid associations with Lolth, Menzoberranzan, the number eight, or spiders) remains relevant.
 
 ---
 
-## VI. WORLD STATE & COSMOLOGY
+## 3. KEY NPCs (ACTIVE)
 
-### The Demon Lord Incursion
-Multiple demon lords are physically present on the Prime Material Plane in the Underdark — an unprecedented event since the Great Sundering ended the era allowing gods/powers to walk freely in Faerûn. Summoning a demon lord requires extremely powerful magic and artifacts (comparable to the Cult of the Dragon's near-summoning of Tiamat).
+### SURFACE / CANDLEKEEP (PLANNED DESTINATION)
+*(No active NPCs established on the surface yet.)*
 
-**Confirmed demon lords active in the Underdark:**
-- **Demogorgon** — Appeared physically at Sloobludop; destroyed the town; connected to widespread chaotic madness
-- **Zuggtmoy** — Active at Neverlight Grove; corrupted Phylo and Ilvara; plans to "wed" Araumycos; filling Juiblex's vacuum in Blingdenstone
-- **Juiblex** — Empowered the Pudding King; driven from Blingdenstone; declared intent to consume Zuggtmoy and be reborn
+### BLINGDENSTONE
+**Chief Dorbo Diggermattock** — Mining coalition leader; profit-motivated but functional ally. Reopening Blingdenstone for surface trade. Last seen: Blingdenstone.
+**Senni Diggermattock** — Dorbo's wife; represents non-mining population; more pragmatic and people-focused than Dorbo. Last seen: Blingdenstone.
+**Burrow Warden Jadger (Ghost)** — Ghost in the Temple of the Ruby in the Rough catacombs. Has offered the party TWO UNANSWERED BOONS (truthful questions). Training next generation of Burrow Wardens.
+**Chief Chipgrin** — Gold Whisker wererat gnome leader. Gifted Daz the Voucher of the Varmint (braided rat's foot; recognized by wererats and outcasts from Blingdenstone to Menzoberranzan). Last seen: Blingdenstone.
+**Kazook Pickshine** — Alchemist; can turn empty spell gems into powerful magical items. Bimble (his infected scout) recovered with Ghost Hold Lichen harvested by party. Last seen: Blingdenstone.
+**Basidia** — Myconid Sovereign (resistant to Zuggtmoy). Departed Neverlight Grove with Rumpadump, Stool, Loobamub, Rusharoo, and loyalist myconids. Gave party potions of greater healing and treasure. Current location: Unknown Underdark location, traveling.
+**Stool** — Young myconid, formerly close to Grygum. Departed with Basidia's group. Has spore communication abilities.
+**Rumpadump** — Young myconid, formerly with Stool. Departed with Basidia's group. Left Zalthir a list of ~50 self-improvement suggestions.
 
-### The Faerzress
-- Supernatural magical radiation permeating the Underdark; prevents teleportation spells
-- Experienced an anomalous "blink" event months ago (went dark, blinked brightly twice, returned to normal)
-- After the blink: inhabitants turned hostile; madness spread; peaceful communities became violent; demonic appearances began
-- May have broken planar barriers, enabling demons to enter the Prime Material Plane
-- Affects living creatures (contrary to prior knowledge): caused Thorin a bout of madness; Shuushar experienced it as poisonous; Zalthir suffered compulsive hoarding
-- Connected to the Obelisk in the Whorlstone Caverns
+### GRACKLSTUGH
+**Gartokkar Xundorn** — Custodian of the Flame (Keepers of the Flame); was terrified of the situation when party delivered the corrupted dragon egg. Has an NDA with the party. Has four ear-notch scars of unknown origin.
+**Themberchaud** — Young but overweight red dragon; believes he rules Gracklstugh; actually a glorified forge-lighter controlled by the Keepers. Flew the party to the docks. Does not know the egg was corrupted or that the Keepers plan to eventually replace him.
+**Errde Blackskull** — Captain of the Stone Guards; gave the party passes and armed their crew. Has an unresolved agreement with the party. Thorin noticed something odd about her (unresolved).
+**Dorhun** — Stone giant apprentice to Stonespeaker Hgraam; invited party to Cairngorm Cavern; confirmed their account of the mad giant.
+**Hemath (Hemeth)** — Duergar arms dealer from Gracklstugh; survived Sloobludop with the party; told them to find him in Gracklstugh if they survived. Was on the boat when they left.
 
-### The Obelisk ("Stone of Diirinka")
-- 50-foot-tall black metal monolith with fractures that leak quasi-magical energy
-- Located in the Whorlstone Caverns beneath Gracklstugh
-- Plinki attempted to use it to infuse a dragon egg with a demon spirit (partially successful)
-- Resists repair with Thrazgad ore
-- Flashes cause Faerzress to flare
-- Believed hidden by Diirinka (derro deity)
+### NEVERLIGHT GROVE
+**Phylo** — Myconid Sovereign; fully corrupted by Zuggtmoy; planning/executing Zuggtmoy's wedding to Araumycos. Status: alive in Neverlight Grove, under Zuggtmoy's control. The grove is lost.
 
-### The Mutated Dragon Egg
-- Red dragon egg stolen from the Keepers of the Flame by the Grey Ghosts
-- Mutagenically altered by Plinki toward a two-headed wyrmling (intended as mount/gift for Demogorgon)
-- Returned to Gartokkar with occult markings; he noticed the markings with concern
-- Daz concluded: "There is no dragon there" — a demon has already possessed the egg
-- Gartokkar's intent: use it as insurance against Themberchaud (the dragon doesn't know about any of this)
+### DROW-RELATED
+**House Mizzrym** — Ilvara's house. Has sent increasingly frantic correspondence to Ilvara. Does not yet know she is dead. Will eventually discover this.
+**Matron Mother of House T'sarran** — Unknown individual. Was informed (by retreating warrior) that the party killed a T'sarran mage and her escort. Has made a credible (calm) threat via the retreating warrior: "We will meet again."
+**Nym Duskryn** — Mercenary drow; contract fulfilled; departed. Estranged sibling of Jorlan Duskryn (no relation to Daz).
+**Kaelira Duskryn** — Mercenary drow; contract fulfilled; departed. Estranged sibling of Jorlan Duskryn.
+**Jorlan Duskryn** — Scarred drow warrior; Ilvara's former lover; uninfected due to hatred. Last seen: Fungal cavern floor after lightning bolt from Nym and bridge collapse. Status: alive but staggered. Current allegiance and location: UNKNOWN.
 
-### Araumycos
-- A massive sentient fungal growth described as the natural habitat of myconids
-- Zuggtmoy plans to "wed"/merge with it, which would grant her untold power over the world
-- Wedding rehearsal was observed at Neverlight Grove; the actual wedding has not yet occurred
-
-### Historical Context
-- **War of the Dragons** ended ~1490 DR (Cult of the Dragon subverted)
-- **War of the Giants** ended ~1491 DR (Ordning re-established; giant civil war continued, devastating the North)
-- **The Great Sundering** ended the era allowing gods to walk freely in Faerûn
-- **Netheril** — Ancient empire of flying cities; collapsed when a leader tried to seize all magical power; Brysis of Khaem was a noble of this empire
-- **Current year:** 1495 DR (dates in extracts vary between 1492-1495; latest events reference 1495)
+### OTHER UNDERDARK
+**Ploopploopeen** — Kuo-toa archpriest of the Sea Mother; survived Sloobludop's destruction (unclear). Offered 500 gold, two potions of healing, two boats, and guides as reward — it is unclear if this was fully delivered.
+**Shuushar the Awakened** — Kuo-toa monk; departed to lead a Kuo-toan reformist movement among Sloobludop survivors on the Darklake. Current location: Darklake, unknown position.
+**Hgraam** — Stonespeaker of the Stone Giants in Gracklstugh's Cairngorm Cavern; gave party the Stonespeaker Crystal; closed his cavern for an extended period after learning of the ritual-mutated giants.
+**Entemoch** — Prince of Good Earth Elementals; freed by the party's ritual; feels favorably toward them; boon was Skin to Stone ability (once per day when struck) and ability to summon Earth Elementals.
+**Fargas Rumblefoot** — Halfling adventurer encountered cocooned on the Silken Paths; provided intelligence on the Tomb of Brysis of Khaem (false tomb trap, real treasure in servants' tomb). Last seen: traveling with the party when they exited the Silken Paths. Not confirmed as still with the group.
 
 ---
 
-## VII. ACTIVE THREADS & UNRESOLVED MYSTERIES
+## 4. KEY NPCs (DECEASED / DEPARTED)
 
-### Immediate Priorities
-1. **Escape the Underdark** — The party's primary goal; Blingdenstone offers a confirmed path to the surface; the Diggermattocks have agreed to help
-2. **Zuggtmoy's expansion into Blingdenstone** — Fungi becoming more twisted and malevolent; pale puffball mushrooms growing at impossible speed; Jimjar warned she "prefers to move in while you're sleeping"
-3. **House T'sarran retaliation** — A surviving warrior retreated with a credible threat; the Matron Mother will be informed; Grygum needs to identify her before she identifies them
+| Name | Status | Cause / Notes |
+|------|--------|---------------|
+| **Ilvara Mizzrym** | Dead | Killed by Grygum's Guiding Bolt; body erupted into poisonous spore cloud |
+| **Asha Vandree** | Dead | Killed by Zalthir's Eldritch Claw; revealed as both Lolth cultist and Zuggtmoy adherent |
+| **Buppido** | Dead | Killed by Daz's Magic Missiles in Whorlstone Caverns; was a serial killer following a "divine plan" (Derro, possibly servant of Diirinka) |
+| **Prince Derendil** | Dead | Killed by Imbros (drow guard) during the Velkynvelve escape; was a deluded Quaggoth, not a real polymorphed prince |
+| **Ront** | Dead | Killed by a vrock during the escape; head bitten off; sought redemption through combat |
+| **Sarith** | Dead | Became a Zuggtmoy spore servant at Neverlight Grove; killed by Jimjar |
+| **Pelek** | Passed on | Properly interred at Blingdenstone; spirit at peace |
+| **Bloppblippodd** | Dead | Killed by Ploopploopeen; her death completed the ritual that summoned Demogorgon |
+| **Plinki** | Dead | Killed by Zalthir's fire breath (Whorlstone Tunnels); was conducting demonic egg mutation ritual |
+| **Narrak** | Dead | Killed by Thorin; was performing stone giant mutation ritual |
+| **Yestabrod** | Dead | Corpse was puppeteered by Zuggtmoy's forces at Neverlight Grove |
+| **Brysis of Khaem (Wraith)** | Destroyed | Destroyed by Grygum's acid breath in her tomb |
+| **Spiderbait (original)** | Dead | Murdered by Buppido; throat slit |
+| **Xinaya** | Dead | Mercy-killed by Thorin with Dawnbringer at her own request after Zuggtmoy infection |
+| **T'sarran Mage** | Dead | Killed by Zalthir's punch after Daz's Fireball |
+| **Imbros** | Dead | Killed by Sarith during Velkynvelve escape |
+| **The Pudding King** | Dissolved | Destroyed by Zalthir in Blingdenstone; his dissolution released uncontrolled oozes (pacified by Glabbagool) |
+| **Jimjar** | Vanished | Departed from existence; revealed to be a divine/celestial being (angel-level stat block); implied the party will meet him again |
+| **Yukyuk (original guide)** | Dead | Murdered by Buppido; described by Spiderbait as the kindest goblin |
+| **Welnaste Mizzrym** | Unknown | Departed after selling the party to Ilvara; warned that money exchanged and she'd be accountable |
 
-### Drow Threats
-4. **Who hired the Duskryn sisters to extract Daz?** — Contracting party placed the contract through cutouts; Nym and Kaelira do not know the principal and do not know who Daz is
-5. **Daz's false Lolth identity with Asha** — Described as "load-bearing"; its collapse could be catastrophic
-6. **Jorlan Duskryn's fate** — Alive, staggered; estranged brother of Nym and Kaelira; was Ilvara's lover; no DeVir connection; allegiance unclear
-7. **Ilvara's dying prophecy** — Spoke of Zuggtmoy, "the bride," and "the chaos/mayhem to come"; delivered as sincere belief, not bluff
+---
 
-### Demon Lord Crisis
-8. **Who/what enabled demon lords to enter the Prime Material Plane?** — Requires power comparable to the Cult of the Dragon's Tiamat ritual; the Faerzress blink may be connected
-9. **Zuggtmoy's wedding to Araumycos** — Would grant her untold power; rehearsal observed; actual wedding not yet occurred; can it be stopped?
-10. **Juiblex plans to consume Zuggtmoy** — Declared "I will be reborn. I will consume the banquet of the queen of the fungi, and I will grow"
-11. **Demogorgon's whereabouts** — Last seen destroying Sloobludop; current location unknown; connected to widespread madness
+## 5. FACTIONS
 
-### Gracklstugh Consequences
-12. **The mutated dragon egg** — Demon-possessed; occult markings; returned to Gartokkar; what will hatch?
-13. **Themberchaud's ignorance** — Doesn't know about the egg, his planned replacement, or that the Keepers control him; consequences if he learns could be catastrophic
-14. **Gracklstugh's stability** — Mass executions, paranoia about the Ember Vanguard; the party carries the Deepking's assassination contract; Grey Ghosts have a vendetta; city status uncertain
-15. **What is Shal?** — The Deepking's advisor who made him paranoid; identity, nature, and motivations unknown
+### HOUSE MIZZRYM
+- **Status:** Active; unaware Ilvara is dead
+- **Threat level:** HIGH (will eventually discover Ilvara's death and the party's involvement)
+- **Key intel:** Was sending increasingly frantic correspondence to Ilvara. Connected to Welnaste Mizzrym (caravan leader who initially captured the party).
 
-### Blingdenstone Threads
-16. **Burrow Warden Jadger's two boons** — Party has not yet used their two truthful questions
-17. **Empty spell gems → Kazook Pickshine** — Can be turned into powerful magical items; not yet processed
-18. **Fragile peace of Blingdenstone** — Multiple factions in compromise; Zuggtmoy's influence growing
-19. **Glabbagool's expanded abilities** — Briefly connected telepathically with every ooze; lasting effects unknown
+### HOUSE T'SARRAN
+- **Status:** Active; actively hostile
+- **Threat level:** HIGH. Matron Mother has been informed. A surviving warrior issued a calm, credible threat. The party has a T'sarran signet ring as potential leverage/evidence.
+- **Key intel:** Had a contract to extract Daz alive and unharmed. Do not know what he is or why he is valuable — just had a contract.
 
-### Character Threads
-20. **Jimjar's true identity** — Confirmed divine/celestial being; vanished from existence; implied the party will meet him again; source of prophetic foreknowledge never explained
-21. **Fuurm Coppernose's lost sister** — He came to the Underdark looking for her; fate unknown
-22. **Thorin's moral trajectory** — Considering Zhentarim Tactics; increasingly hardened by the Underdark
-23. **Daz's true beliefs and origin** — Privately transformed by experiences; actual homeland/background partially obscured
-24. **Zalthir's list of names** — Found in Velkynvelve; believed to be people who owe favors; not yet investigated
-25. **Princess Ebonmire's spellbook** —
+### HOUSE DUSKRYN
+- **Status:** Contract fulfilled; departed; not hostile
+- **Key members:** Nym and Kaelira Duskryn (mercenaries). Jorlan Duskryn (estranged, current location unknown).
+- **Key intel:** Were hired through anonymous Menzoberranzan cutouts to protect Daz from House Mizzrym and House T'sarran. Do not know the patron's identity.
+
+### UNKNOWN MENZOBERRANZAN PATRON
+- **Status:** Active; identity completely unknown
+- **Threat level:** UNKNOWN (may be ally or may have own agenda)
+- **Key intel:** Spent significant resources (described as requiring repeated schedule interruptions) to anonymously protect Daz. Used multiple layers of cutouts. Deliberately insulated from association with the contract. Motive entirely unknown.
+
+### DROW OF VELKYNVELVE / HOUSE MIZZRYM PURSUIT
+- **Status:** Resolved (Ilvara dead; Drow pursuit ended)
+- **Legacy:** Jorlan Duskryn is loose somewhere in the Underdark.
+
+### ZUGGTMOY (DEMON QUEEN OF FUNGI)
+- **Status:** Active; expanding
+- **Current situation:** Her instrument (Ilvara) is destroyed; the Heart Fungus is destroyed; Neverlight Grove is under her control via Phylo. Her influence (pale puffball mushrooms, accelerated fungal growth) was observed spreading in Blingdenstone even after Juiblex's expulsion. She spoke to the Pudding King about using oozes to "soften the shell" so her "garden can take root in the flesh beneath." She is working toward a "wedding" with Araumycos — a vast sentient fungal network in the Underdark.
+- **Threat level:** CRITICAL — unresolved demon lord threat
+
+### DEMOGORGON
+- **Status:** Active on the Prime Material Plane
+- **Current situation:** Appeared at Sloobludop, destroyed the settlement, and was last seen advancing into the Underdark. His summoning required mighty magic (someone enabled this). Jimjar's saint's-knucklebone die comment about "the blink" turning "the world's math into a bad joke" may be connected to how he (and other demon lords) arrived.
+- **Threat level:** CRITICAL — unresolved demon lord threat
+
+### JUIBLEX
+- **Status:** Driven back from Blingdenstone; declared he "will be reborn" and "consume the banquet of the queen of the fungi" (i.e., Zuggtmoy) to grow even stronger
+- **Threat level:** MODERATE (currently retreating but explicitly threatens return)
+
+### BLINGDENSTONE (ALLIED)
+- **Status:** Stabilized; fragile peace brokered by the party
+- **Current situation:** Reopening for trade with the surface. Gold Whisker wererats control upper boroughs as defense force. Sustainable mining compromise in effect. Zuggtmoy's influence (pale puffball mushrooms) was observed growing even after the Pudding King's defeat — bears monitoring. Earth Elementals available for defense only (party negotiated this).
+- **Key contacts:** Dorbo, Senni, Chipgrin, Jadger (ghost), Kazook Pickshine
+
+### KEEPERS OF THE FLAME (GRACKLSTUGH)
+- **Status:** Active; have NDA with party
+- **Key situation:** Received the corrupted dragon egg (mutated toward a two-headed demon-infused wyrmling by Plinki's ritual). Gartokkar was concerned about occult markings. Does not know the egg's true nature. Themberchaud does not know the egg exists or that he is slated for eventual replacement.
+
+### STONE GIANTS OF CAIRNGORM CAVERN
+- **Status:** Withdrawn; Hgraam sealed his cavern
+- **Key situation:** Some of their number were ritually mutated into two-headed creatures. The ritual was stopped but Narrak claimed it "cannot be undone." Hgraam's current plans are unclear.
+
+### CULT OF DEMOGORGON (GRACKLSTUGH — DERRO)
+- **Status:** Largely dismantled in Gracklstugh
+- **Key situation:** Narrak dead, Plinki dead, Uskvil (Gray Ghosts leader) status unknown, Aliinka (Council of Savants operative) status unknown. The Obelisk in the Whorlstone Tunnels (the "Stone of Diirinka") was never repaired and its full nature remains mysterious. The mutated dragon egg was delivered to Gartokkar.
+
+### GRAY GHOSTS (GRACKLSTUGH)
+- **Status:** Substantially weakened; leadership killed or unknown; issued a city-wide vendetta against the party before they departed
+- **Key situation:** Uskvil (leader/"Master Thief") status unknown. The party issued a misleading story (dead Derro guards were blamed on the city's Duergar response) and departed.
+
+### GALEB DUHR TEMPLE GUARDIANS
+- **Status:** Freed; allied with Blingdenstone
+- **Key situation:** Were imprisoned by Ogremoch for centuries; freed when the party cleansed the ancient menhir. Now protect the temple and can be summoned for Blingdenstone's defense.
+
+### KORRH ERANN'S MONASTIC ORDER (ZALTHIR'S)
+- **Status:** Unknown; referenced only historically
+- **Key intel:** The monk Korrh Erann was the only survivor of a group pursued by Drow in the Underdark, because he ran rather than fighting. This story informed Zalthir's approach to combat.
+
+---
+
+## 6. LOCATIONS
+
+### SURFACE (CURRENT LOCATION)
+- The party has just emerged from the Underdark. Surface location precise coordinates unestablished but exit tunnel is known.
+
+### CANDLEKEEP
+- **Status:** Planned destination
+- **Purpose:** Research on House T'sarran, Jimjar's disappearance, Daz's anonymous patron, and Bahamut lore (Grygum's intent)
+
+### VELKYNVELVE
+- **Status:** Abandoned/destroyed; origin of the party's captivity
+- Description: Drow outpost built 100 feet above a cavern floor on stalactites; towers concealed in spider webs; dim shielded light. Was Ilvara's base.
+- Current state: Abandoned following Ilvara's death and the demon attack that facilitated the escape.
+
+### THE UNDERDARK (GENERAL)
+- Characterised by: No sunlight; alternating pitch darkness and Faerzress (glowing magical radiation that prevents teleportation, can cause madness, and has been behaving abnormally since "the blink"); tunnels that twist and shift so enemies can appear from unexpected directions; scarce resources; outsiders viewed as exploitable
+- **THE FAERZRESS:** A major unresolved mystery. A few months before the campaign began, it underwent an anomalous event — it went dark, then flared brightly twice, then returned to what appeared to be normal, but something fundamentally changed. The blink appears to have broken planar barriers and enabled demon lords to walk the Prime Material Plane. Multiple characters have experienced Faerzress-induced madness. Jimjar cryptically referenced the blink as having "turned the world's math into a bad joke."
+
+### THE DARKLAKE
+- Vast underground lake network spanning 100+ miles; unfathomable depths; ceilings miles high in places; navigable by boat
+- Navigational notes: Duergar built locks for raising/lowering craft; Kuo-toa are experienced navigators; contains demonic manta rays (encountered by party); sandbars
+- Key settlements on/near: Sloobludop (destroyed), Gracklstugh (duergar city)
+
+### SLOOBLUDOP
+- **Status:** DESTROYED by Demogorgon
+- Was a kuo-toa settlement; birthplace of Shuushar; site where Demogorgon was summoned via Bloppblippodd's ritual and the party's unwilling participation as false sacrificial offerings
+
+### GRACKLSTUGH
+- **Status:** Internally unstable; party has departed under wanted-poster status
+- Description: Duergar metropolis; austere; xenophobic; non-Duergar restricted to Darklake District; constant forge hammering and acrid smoke; everyone can turn invisible
+- Factions: Deepking (mad; issuing erratic edicts), Keepers of the Flame, Stone Guards, Gray Ghosts (weakened), Council of Savants (compromised by demonic cult), Stone Giants (withdrawn), Clan Steelshadow (dominant), other clans (resentful)
+- Party status: Wanted as the "Ember Vanguard" (shadowy assassins from Menzoberranzan — inaccurate description). Killed multiple Derro High Council members. Delivered corrupted egg to Gartokkar. Brokered Clan Ironhead alliance if the Deepking is deposed. The Deepking's hit list (signed with royal seal, targeting Werz, Errde, Themberchaud, Thangus Ironhead) is in the party's possession.
+- Key unresolved: The Deepking's madness. Themberchaud's ignorance of his situation. The Obelisk (Stone of Diirinka) in the Whorlstone Tunnels.
+
+### WHORLSTONE TUNNELS (BENEATH GRACKLSTUGH)
+- **Status:** Partially cleared; still dangerous
+- Contains: Remains of Buppido's shrine, the dead Obelisk chamber, cleared cultist areas, Narrak's ritual chamber (Narrak dead)
+- The Obelisk ("Stone of Diirinka"): 50-foot smooth black metal monolith with fractures and chips. Resisted repair with Thrazgad ore. Responds to channeled energy. Believed hidden by the derro deity Diirinka. Its full nature and purpose remain unresolved.
+
+### NEVERLIGHT GROVE
+- **Status:** LOST — under Zuggtmoy's control via Phylo
+- Description: Vast Underdark cavern; myconid community; brilliantly colored bioluminescent fungi covering all surfaces including ceiling
+- Current state: Phylo leads the corrupted faction; Zuggtmoy's wedding to Araumycos is being prepared; Yggmorgus (the great central mushroom tower) is Zuggtmoy's apparent seat of power in the Grove
+- Escaped: Basidia, Rusharoo, Loobamub, Stool, Rumpadump, and loyalist myconids
+
+### BLINGDENSTONE
+- **Status:** STABILIZED; fragile peace; reopening for surface trade
+- Description: Svirfneblin (deep gnome) city; gates of steel, mithril, and adamantine; defended by "the maze" (lethal defensive tunnel network)
+- Key areas: Diggermattock Hall (leadership), Temple of the Ruby in the Rough (Segojan Earthcaller; catacombs where Jadger's ghost is), Trader's Grotto (market; formerly petrified fungi from ancient medusa spell), Gold Whisker Warrens (wererat territory), Foaming Mug Inn
+- Current threats: Zuggtmoy influence (pale puffball mushrooms observed growing)
+- Party's legacy there: Defeated the Pudding King; freed Entemoch; cleansed the temple of Ogremoch's Bane; brokered peace between all factions; legends of their exploits spreading (increasingly exaggerated)
+
+### THE LOST TOMB OF BRYSIS OF KHAEM
+- **Status:** Cleared; party has departed
+- Location: Eastern edge of the Darklake, on the route between Sloobludop and Gracklstugh; fell from a Netherese flying city into a Underdark crevasse
+- Key: Contains a false burial chamber (decoy); real treasure accessible via secret passage from servants' tomb. Party found and looted the real tomb, defeated wraith Brysis, acquired Dawnbringer.
+
+### THE SILKEN PATHS
+- Network of giant spider webs spanning a 500-foot-deep, 2,000-foot-wide, ~5-mile chasm. Party has traversed it. Contains a mimic disguised as a chest (unengaged at exit). Spiders rebuild faster than fire can burn.
+
+### THE SURFACE WORLD / THE OVERBRIGHT
+- Party has just emerged. No surface-specific locations established yet.
+
+---
+
+## 7. ITEMS OF NOTE
+
+**DAWNBRINGER**
+- Type: Sentient sunblade
+- Wielder: Thorin
+- Properties: Produces bright light 20-foot radius; deals radiant damage; doubly effective against fungal creatures; can cast Lesser Restoration; refuses to extinguish its light; does not negotiate
+- Personality: Opinionated, talkative, eager to be used as a weapon; objects to being used for rituals; responds to threat of Vaultmaster Locking Scabbard as leverage; endured months of darkness against its radiant nature
+- History: Was held by a mummified corpse in the real tomb of Brysis of Khaem; freed by Thorin; Brysis screamed "Not Dawnbringer!" upon seeing it, suggesting a prior connection
+
+**STONESPEAKER CRYSTAL**
+- Type: 19-inch quartz shard
+- Holder: Party (Daz)
+- Properties: Allows casting Speak with Animals, Speak with the Dead, Speak with Plants; aids divination; enables Glabbagool to communicate vocally
+- Source: Gift from Stonespeaker Hgraam of Gracklstugh's stone giants
+
+**VAULTMASTER LOCKING SCABBARD**
+-

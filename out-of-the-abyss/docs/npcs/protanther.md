@@ -16,6 +16,7 @@ source_extracts: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18,
 
 ## History with the Party
 - No direct interaction with the party. Protanther is known through the story of the Well of the Dragons and the legendary chess match.
+- **Referenced during Ilvara post-mortem:** Grygum invoked the image of Stroud sitting across from Protanther — four hundred years of preparation, still with a blind spot — as an illustration of the principle that the thing that undoes you is often not the opponent you have been studying but something you did not know to look for. Grygum used this as his frame for understanding Ilvara's corruption by Zuggtmoy.
 
 ## Current Status
 - **Last known status:** Unknown; referenced only in historical/legendary accounts.
@@ -28,3 +29,6 @@ source_extracts: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18,
 
 ## Arc Score Events
 None recorded.
+
+## Notes from Extract 054
+Protanther does not appear in this chunk. He is referenced briefly by Grygum in a reflective aside during the examination of Ilvara's prayer book. Grygum thinks of Stroud sitting across from Protanther — four hundred years of preparation, still with a blind spot — as an illustration of the principle that the thing that undoes you is often not the opponent you have been studying but something you did not know to look for. This is Grygum's frame for understanding Ilvara's corruption by Zuggtmoy.

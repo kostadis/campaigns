@@ -1,42 +1,42 @@
 ## NPCs
 
 **Ilvara Mizzrym**
-- **Current location:** Velkynvelve cavern (deceased)
+- **Current location:** Fungal Cavern (deceased)
 - **Current state:** Dead. Body erupted into a cloud of poisonous spores upon death.
 - **Recent actions:** Used a legendary reaction to inflict the Frightened condition on Zalthir (DC-14 Wisdom save); cast Insect Plague at the cave entrance; called down divine fire on Daz and Nym Duskryn; muttered prophecy about Zuggtmoy, "the bride," and "the chaos/mayhem to come"; fought Jorlan on the cavern floor after the bridge collapsed; killed by Grygum's Guiding Bolt.
 - **Faction:** House Mizzrym; corrupted instrument/vessel of Zuggtmoy (demon lord of fungi).
 - **Revealed motivations/secrets:** Fully corrupted by Zuggtmoy — described as no longer being aided by Zuggtmoy but *being* Zuggtmoy's work. Discarded Jorlan as a lover after he was scarred, consistent with drow societal values rewarding beauty. Was the reason the party had been prisoners in the first place. Spoke of Zuggtmoy's bride and coming chaos as prophecy she believed in, not mere threats.
 
 **Jorlan Duskryn**
-- **Current location:** Velkynvelve cavern floor (alive, status uncertain after lightning bolt from Nym).
+- **Current location:** Fungal Cavern floor (alive, status uncertain after lightning bolt from Nym).
 - **Current state:** Alive but staggered after being hit by Nym Duskryn's lightning bolt. Scarred drow warrior.
 - **Recent actions:** Had been fighting alongside or near the party; broke formation and charged Ilvara through the insect swarm when she appeared wounded, shouting her name; fought Ilvara on the cavern floor after the bridge collapsed. Thorin chose not to take an opportunity attack against him (rolled an 8, decided to let him pass).
 - **Faction:** Formerly associated with Ilvara/House Mizzrym. Currently unclear allegiance.
 - **Revealed motivations/secrets:** Carries a deep personal wound from Ilvara discarding him after his scarring. His charge toward her was driven by old love/heartbreak, not pure tactical reasoning. Had attacked the party at the beginning of their captivity.
 
 **Nym Duskryn**
-- **Current location:** Velkynvelve cavern, northeast area.
+- **Current location:** Fungal Cavern, northeast area.
 - **Current state:** Alive and active.
 - **Recent actions:** Waited in the northeast area of the cavern; expressed frustration at Daz's refusal to stay out of combat; asked Kaelira "Can I kill your brother?" referring to Jorlan (their estranged sibling); hit Jorlan with a lightning bolt.
 - **Faction:** House Duskryn (with Kaelira). Hired on contract (placed through cutouts) to extract Daz alive; does not know the principal and does not know who Daz is.
 - **Revealed motivations/secrets:** Motivated by payment — she and Kaelira only get paid if Daz survives. Views Jorlan as "the dumber" sibling. Professional mercenary attitude. Jorlan Duskryn is confirmed as her estranged brother (no relation to Daz).
 
 **Kaelira Duskryn**
-- **Current location:** Velkynvelve cavern, northeast area.
+- **Current location:** Fungal Cavern, northeast area.
 - **Current state:** Alive.
 - **Recent actions:** Physically grabbed Daz's arm and hauled him northeast through the insect swarm and poisonous gas to relative safety near Nym. Told Daz: "Come with me if you want to live, you idiot."
 - **Faction:** House Duskryn (with Nym). Hired on contract to extract Daz alive.
 - **Revealed motivations/secrets:** Same contractual motivation as Nym — paid to deliver Daz alive.
 
 **Asha Vandree**
-- **Current location:** Velkynvelve cavern.
+- **Current location:** Fungal Cavern.
 - **Current state:** Alive. Dropped to her knees praying to Lolth after Ilvara's death.
 - **Recent actions:** Drew her weapon and accused Kaelira and Nym of being traitors to Lolth upon seeing them; was convinced by Daz that they were "friends of Lolth" who were there to help; described Daz as "an insane mage who had converted to Lolthism"; began praying to Lolth in the aftermath, reshaping what she witnessed into something her goddess could use.
 - **Faction:** Devoted follower of Lolth.
 - **Revealed motivations/secrets:** Zealous Lolth devotee. Daz has been maintaining a false Lolth-follower identity with her for an extended period. She believes Daz serves Lolth, and that belief is described as "load-bearing."
 
 **Glabbagool**
-- **Current location:** Velkynvelve cavern (edge of the battle).
+- **Current location:** Fungal Cavern (edge of the battle).
 - **Current state:** Alive but damaged — took 26 points of damage from Ilvara's Insect Plague. Survived.
 - **Recent actions:** Was attempting to participate in the fight; had eyes extended toward the party; was hovering at the edge of the chaos trying to follow the conversation. Daz explicitly excluded him from his Fireball using Sculpt Spells.
 - **Faction:** Party companion.
@@ -50,13 +50,13 @@
 - **Revealed motivations/secrets:** Intends to report to the Matron Mother of House T'sarran. Threat delivered calmly, noted by Grygum as more credible for its lack of heat.
 
 **Unnamed House T'sarran Mage**
-- **Current location:** Velkynvelve cavern (deceased).
+- **Current location:** Fungal Cavern (deceased).
 - **Current state:** Dead. Killed by Zalthir (single punch via shadow-step teleportation).
 - **Recent actions:** Fired a lightning bolt into the cavern that hit nothing; lacked Dispel Magic and couldn't get past the Insect Plague; was singed by Daz's Fireball; argued with fellow T'sarran soldiers about the difficulty of the mission; her dying observation: "The matron mother of House T'sarran will hear about this."
 - **Faction:** House T'sarran.
 
 **Unnamed House T'sarran Soldiers**
-- **Current location:** Velkynvelve cavern (mostly dead/incinerated).
+- **Current location:** Fungal Cavern (mostly dead/incinerated).
 - **Current state:** Largely killed by Daz's Fireball. At least one survivor retreated.
 - **Recent actions:** Arrived as reinforcements (5 drow warriors total from House T'sarran, plus the mage and possibly 3 additional drow warriors who fired crossbows at Daz); argued at the tunnel mouth about the difficulty of the situation; one complained "I thought you said this was going to be an easy kill"; stepped into the insect plague and poison cloud upon arrival.
 - **Faction:** House T'sarran.

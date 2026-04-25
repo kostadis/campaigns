@@ -23,9 +23,10 @@ source_extracts: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18,
 5. **Keelboat Ambush** — Captured by duergar; a duergar dragged him away, but Zalthir killed the creature holding him. Afterward, was "seething with rage" and wanted to kill Buppido on the spot.
 6. **Gracklstugh / Underlake Hold** — Armed by Errde alongside Jimjar, Sarith, and Eldeth. Ordered to wait outside the assassin's chambers by Rust. Traveled with the group past the Derro caves. Skiit (a derro?) specifically pointed at Spiderbait and asked "Can I kill that one over there?"
 7. **Blingdenstone** — Volunteered alongside Glabbagool, Eldeth, and Jimjar to tackle the ghost problem.
+8. **Overbright** - Left the Underdark with the party. 
 
 ## Current Status
-- **Location:** Blingdenstone, volunteering for the ghost problem
+- **Location:** Overbright 
 - **Emotional state:** Still grieving Yukyuk; carries deep anger (wanted to kill Buppido). Functionally loyal to the group but volatile.
 - **Open thread:** Jimjar's 20-gold debt remains a simmering issue.
 

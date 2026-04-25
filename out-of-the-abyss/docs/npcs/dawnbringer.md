@@ -26,6 +26,7 @@ source_extracts: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18,
 6. **Earth Elemental chamber**: Negotiated with Thorin — agreed to enter the dark chamber in exchange for a finer scabbard.
 7. **Scabbard commissioned**: Valimor Brightgem crafted a proper locking scabbard; Dawnbringer was finally pleased with a secure, presentable home. Prior to this, her flaming appearance had been attracting attention from local children.
 8. **Black Pudding pit**: Argued against Thorin jumping across acid; convinced him to use the bridge instead.
+9. **Purification objection (post-Ilvara)**: When the possibility of using the sunblade in some form of purification ritual was raised, Dawnbringer objected strenuously — she was not a magical wizard thingy that purified things, she was a high-quality sunblade, she killed things, and she would not be treated as a religious symbol to be waved over corrupt matter. Thorin responded by reaching for the Vaultmaster Locking Scabbard. The implied threat produced a pause and then a significant concession: the blade allowed that it supposed it could do this one solid. The exchange had the comfortable rhythm of repetition, suggesting the conversation had occurred before and would again. Daz noted the scabbard was doing more diplomatic work than it was probably designed for.
 
 ## Current Status
 - Carried by Thorin in her new locking scabbard (crafted by Valimor Brightgem)
@@ -38,3 +39,10 @@ source_extracts: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18,
 - **Daz**: Source of friction — Dawnbringer's refusal to dim her light drove Daz crazy.
 - **Brysis (wraith)**: Feared Dawnbringer by name — a known nemesis of undead.
 - **Valimor Brightgem**: Craftsman who made her scabbard; Dawnbringer was pleased with his work.
+
+## Notes from Extract 054
+Dawnbringer does not appear physically in this chunk as a separate entity from Thorin's possession, but speaks and acts as a sentient being with distinct opinions. When the possibility of using the sunblade in some form of purification ritual was raised, Dawnbringer objected strenuously: it was not some kind of magical wizard thingy that purified things, it was a high-quality sunblade, it killed things, and it would not be treated as a religious symbol to be waved over corrupt matter.
+
+Thorin responded by reaching for the Vaultmaster Locking Scabbard. The implied threat produced a pause in Dawnbringer's rhetoric and, after the pause, a significant concession: the blade allowed that it supposed it could do this one solid.
+
+The exchange had the comfortable rhythm of repetition, suggesting this was not the first time this conversation had occurred and would not be the last. Daz noted that the scabbard was doing more diplomatic work than it was probably designed for.

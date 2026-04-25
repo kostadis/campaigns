@@ -1,0 +1,1289 @@
+{
+  "entities": [
+    {
+      "id": "party_thorin_giantfriend",
+      "label": "Thorin Giantfriend",
+      "type": "party",
+      "summary": "Dwarf Fighter raised by hill giants who wields the sentient sunblade Dawnbringer and is gradually hardening morally after months in the Underdark."
+    },
+    {
+      "id": "party_daz",
+      "label": "Daz",
+      "type": "party",
+      "summary": "Drow Evocation Wizard who escaped Velkynvelve and maintains a load-bearing false identity as a Lolth follower while secretly holding apostate beliefs."
+    },
+    {
+      "id": "party_zalthir",
+      "label": "Zalthir",
+      "type": "party",
+      "summary": "Dragonborn Shadow Monk trained by The Garden Shadow who specializes in grapple-and-drag tactics and carries an uninvestigated list of names from Velkynvelve."
+    },
+    {
+      "id": "party_grygum",
+      "label": "Grygum",
+      "type": "party",
+      "summary": "Half-Orc Cleric of Bahamut who serves as the party's moral and emotional anchor and killed Ilvara Mizzrym with a Guiding Bolt."
+    },
+    {
+      "id": "faction_the_ember_vanguard",
+      "label": "The Ember Vanguard",
+      "type": "faction",
+      "summary": "The player character party operating under this cover name, heroes of Blingdenstone and wanted criminals in Gracklstugh."
+    },
+    {
+      "id": "npc_glabbagool",
+      "label": "Glabbagool",
+      "type": "npc",
+      "summary": "Sentient gelatinous ooze companion who gained awareness through demonic influence and underwent a mysterious body swap with the Pudding King."
+    },
+    {
+      "id": "npc_eldeth",
+      "label": "Eldeth",
+      "type": "npc",
+      "summary": "Shield dwarf companion skilled at hiding tracks who has undergone an ideological shift to view the Cult of Lolth, not all drow, as the true enemy."
+    },
+    {
+      "id": "npc_spiderbait",
+      "label": "Spiderbait",
+      "type": "npc",
+      "summary": "Surviving goblin web-guide who remained with the party after his partner Yuk-Yuk was murdered by Buppido."
+    },
+    {
+      "id": "npc_asha_vandree",
+      "label": "Asha Vandree",
+      "type": "npc",
+      "summary": "Drow cleric of Lolth who genuinely believes Daz is a sincere convert and is reshaping the Velkynvelve battle into a Lolth-favorable narrative."
+    },
+    {
+      "id": "npc_nym_duskryn",
+      "label": "Nym Duskryn",
+      "type": "npc",
+      "summary": "Drow mercenary hired on a transactional contract (placed through cutouts) to extract Daz alive; does not know who placed the contract and does not know who Daz is. Sister of Kaelira and Jorlan Duskryn."
+    },
+    {
+      "id": "npc_kaelira_duskryn",
+      "label": "Kaelira (Duskryn)",
+      "type": "npc",
+      "summary": "Drow mercenary and partner of Nym Duskryn operating under the same contract to extract Daz alive."
+    },
+    {
+      "id": "npc_jorlan_duskryn",
+      "label": "Jorlan Duskryn",
+      "type": "npc",
+      "summary": "Scarred drow warrior who helped the party escape Velkynvelve (original prison break) out of spite toward Ilvara Mizzrym, his former lover; later surfaced at the Fungal Cavern fight pursuing his own vengeance against her. Estranged brother of Nym and Kaelira Duskryn. No connection to Daz or House DeVir."
+    },
+    {
+      "id": "npc_ilvara_mizzrym",
+      "label": "Ilvara Mizzrym",
+      "type": "npc",
+      "summary": "Drow high priestess of House Mizzrym who commanded Velkynvelve, was corrupted by Zuggtmoy, and was killed by Grygum's Guiding Bolt."
+    },
+    {
+      "id": "npc_jimjar",
+      "label": "JimJar",
+      "type": "npc",
+      "summary": "Deep gnome confirmed to possess divine-level immunities who vanished from existence after winking at the party, implied to be a deity or celestial being in disguise."
+    },
+    {
+      "id": "npc_stool",
+      "label": "Stool",
+      "type": "npc",
+      "summary": "Myconid sprout from Neverlight Grove who safely returned home and then departed with Basidia's evacuating loyalist group."
+    },
+    {
+      "id": "npc_rump_a_dump",
+      "label": "Rump-a-dump",
+      "type": "npc",
+      "summary": "Myconid sprout who was recovered uninfected and departed with the myconid evacuation group after leaving Zalthir a self-improvement list."
+    },
+    {
+      "id": "npc_shuushar",
+      "label": "Shuushar",
+      "type": "npc",
+      "summary": "Kuo-toa pacifist monk who guided the party to Sloobludop and then departed to lead a new kuo-toan reformist community on the Darklake."
+    },
+    {
+      "id": "npc_fuurm_copper_coppernose",
+      "label": "Fuurm \"Copper\" Coppernose",
+      "type": "npc",
+      "summary": "Human surface-dweller rescued from a Faerzress crystal cave who is searching for his lost sister and is currently traveling with the party."
+    },
+    {
+      "id": "npc_baedora",
+      "label": "Baedora",
+      "type": "npc",
+      "summary": "Human surface-dweller rescued alongside Fuurm Coppernose from a Faerzress crystal cave and currently traveling with the party."
+    },
+    {
+      "id": "npc_fargas_rumblefoot",
+      "label": "Fargas Rumblefoot",
+      "type": "npc",
+      "summary": "Halfling adventurer rescued from a spider cocoon on the Silken Paths who shared knowledge of the Lost Tomb of Khaem."
+    },
+    {
+      "id": "npc_zuggtmoy",
+      "label": "Zuggtmoy",
+      "type": "npc",
+      "summary": "Demon Queen of Fungi actively expanding her influence through the Underdark and planning to wed the massive fungal entity Araumycos for world-spanning power."
+    },
+    {
+      "id": "npc_juiblex",
+      "label": "Juiblex",
+      "type": "npc",
+      "summary": "Demon Lord of Oozes who was expelled from Blingdenstone and has declared his intent to consume Zuggtmoy's fungal banquet and be reborn at greater power."
+    },
+    {
+      "id": "npc_demogorgon",
+      "label": "Demogorgon",
+      "type": "npc",
+      "summary": "Prince of Demons who physically manifested from the Darklake and destroyed Sloobludop, now loose somewhere in the Underdark."
+    },
+    {
+      "id": "npc_araumycos",
+      "label": "Araumycos",
+      "type": "npc",
+      "summary": "A massive sentient fungal entity that Zuggtmoy plans to wed in a ritual that would grant her untold power over the Underdark and surface world."
+    },
+    {
+      "id": "npc_phylo",
+      "label": "Phylo",
+      "type": "npc",
+      "summary": "Myconid Sovereign at Neverlight Grove who has been corrupted by Zuggtmoy and calls her the Great Seeder."
+    },
+    {
+      "id": "npc_basidia",
+      "label": "Basidia",
+      "type": "npc",
+      "summary": "Myconid Sovereign who opposed Zuggtmoy's corruption, was grappled to safety by Zalthir, and evacuated from Neverlight Grove with a loyalist group."
+    },
+    {
+      "id": "npc_sarith",
+      "label": "Sarith",
+      "type": "npc",
+      "summary": "Drow companion whose Zuggtmoy spore infection reached its terminal stage at Neverlight Grove, causing his transformation into a spore servant before being killed by Jimjar."
+    },
+    {
+      "id": "npc_buppido",
+      "label": "Buppido",
+      "type": "npc",
+      "summary": "Derro serial killer who believed himself divine, murdered Yuk-Yuk, and was ultimately destroyed by Daz's magic missiles in his shrine cave."
+    },
+    {
+      "id": "npc_derendil",
+      "label": "Derendil",
+      "type": "npc",
+      "summary": "Quaggoth who falsely claimed to be a polymorphed elf prince and was killed by Imbros during the Velkynvelve prisoner revolt."
+    },
+    {
+      "id": "npc_ront",
+      "label": "Ront",
+      "type": "npc",
+      "summary": "Orc companion who attacked an injured vrock during the Velkynvelve escape to prove his courage to Gruumsh and was decapitated in return."
+    },
+    {
+      "id": "npc_hgraam",
+      "label": "Hgraam",
+      "type": "npc",
+      "summary": "Venerable stone giant Stonespeaker of Cairngorm Cavern who gifted the party the Stonespeaker Crystal and has sealed his cavern indefinitely."
+    },
+    {
+      "id": "npc_dorhun",
+      "label": "Dorhun",
+      "type": "npc",
+      "summary": "Stone giant apprentice to Hgraam who invited the party to Cairngorm Cavern after the rampaging two-headed giant encounter."
+    },
+    {
+      "id": "npc_gartokkar_xundorn",
+      "label": "Gartokkar Xundorn",
+      "type": "npc",
+      "summary": "Duergar Custodian of the Flame in Gracklstugh who contracted the party to recover the stolen dragon egg and controls Themberchaud through the Keepers of the Flame."
+    },
+    {
+      "id": "npc_errde_blackskull",
+      "label": "Errde Blackskull",
+      "type": "npc",
+      "summary": "Duergar Captain of the Stone Guards in Gracklstugh who hired the party to investigate the Whorlstone Tunnels and may have informed drow pursuers of the party's presence."
+    },
+    {
+      "id": "npc_themberchaud",
+      "label": "Themberchaud",
+      "type": "npc",
+      "summary": "Young overfed red dragon Wyrmsmith of Gracklstugh who believes he rules the city but is actually controlled by the Keepers of the Flame and is unaware of the demon-possessed egg."
+    },
+    {
+      "id": "npc_werz_saltbaron",
+      "label": "Werz Saltbaron",
+      "type": "npc",
+      "summary": "Duergar merchant targeted for assassination by the Deepking who paid the party an NDA and spell gems and was moved to the assassins' brightlist."
+    },
+    {
+      "id": "npc_dorbo_diggermattock",
+      "label": "Dorbo Diggermattock",
+      "type": "npc",
+      "summary": "Profit-focused leader of Blingdenstone who initially demanded the party deal with the ooze threat before assisting and later agreed to help them reach the surface."
+    },
+    {
+      "id": "npc_senni_diggermattock",
+      "label": "Senni Diggermattock",
+      "type": "npc",
+      "summary": "People-focused co-leader of Blingdenstone who advocated for multi-faction cooperation and emerged as a champion of gnome labor rights."
+    },
+    {
+      "id": "npc_chipgrin",
+      "label": "Chipgrin",
+      "type": "npc",
+      "summary": "Chief of the Gold Whisker wererat clan in Blingdenstone who allied against the oozes and now controls the upper boroughs as a self-funded defense force."
+    },
+    {
+      "id": "npc_jadgar",
+      "label": "Jadgar",
+      "type": "npc",
+      "summary": "Ghost of a former Blingdenstone defender who is reconstituting the Borough Wardens and holds two unused truthful-answer boons for the party."
+    },
+    {
+      "id": "npc_kazook_pickshine",
+      "label": "Kazook Pickshine",
+      "type": "npc",
+      "summary": "Alchemist in Blingdenstone who can convert empty spell gems into powerful magical items and received Ghost Hold Lichen from the party."
+    },
+    {
+      "id": "npc_pudding_king",
+      "label": "Pudding King",
+      "type": "npc",
+      "summary": "Insane deep gnome transformed into a sentient telepathic ooze by Juiblex who was defeated by the party and destroyed in his Blingdenstone throne room."
+    },
+    {
+      "id": "npc_eldgrim",
+      "label": "Eldgrim",
+      "type": "npc",
+      "summary": "One-eyed duergar leader of the Empty Scabbard assassin guild in Gracklstugh who agreed to cancel Werz Saltbaron's kill contract if the party destroyed the Demogorgon cult."
+    },
+    {
+      "id": "npc_ploopploopeen",
+      "label": "Ploopploopeen",
+      "type": "npc",
+      "summary": "Kuo-toa Archpriest of the Sea Mother in Sloobludop who killed his daughter Bloppblippodd at the altar and whose status is unknown after Demogorgon destroyed the town."
+    },
+    {
+      "id": "npc_bloppblippodd_blopp",
+      "label": "Bloppblippodd (Blopp)",
+      "type": "npc",
+      "summary": "Kuo-toa archpriest of the Deep Father whose dying invocation at the altar of Sloobludop completed the ritual that summoned Demogorgon from the Darklake."
+    },
+    {
+      "id": "npc_brysis_of_khaem",
+      "label": "Brysis of Khaem",
+      "type": "npc",
+      "summary": "Netherese noblewoman whose wraith haunted the Lost Tomb of Khaem until destroyed by Grygum's acid breath and Dawnbringer."
+    },
+    {
+      "id": "npc_narrak",
+      "label": "Narrak",
+      "type": "npc",
+      "summary": "Derro savant cult leader who was conducting a ritual to give stone giants second heads until killed by Thorin in the Whorlstone Tunnels."
+    },
+    {
+      "id": "npc_plinki",
+      "label": "Plinki",
+      "type": "npc",
+      "summary": "Derro cultist who attempted to corrupt a stolen dragon egg into a two-headed demonic wyrmling and was killed by Zalthir's fire breath."
+    },
+    {
+      "id": "npc_xinaya",
+      "label": "Xinaya",
+      "type": "npc",
+      "summary": "Drow scout sent by Ilvara Mizzrym to intercept the party at Neverlight Grove who was found fungally corrupted and mercy-killed by Thorin."
+    },
+    {
+      "id": "npc_yestabrod",
+      "label": "Yestabrod",
+      "type": "npc",
+      "summary": "Myconid Circle of Masters leader who transformed into a fungal abomination under Zuggtmoy's influence and was killed by Zalthir at Neverlight Grove."
+    },
+    {
+      "id": "npc_yuk_yuk",
+      "label": "Yuk-Yuk",
+      "type": "npc",
+      "summary": "Goblin web-guide who successfully led the party through the Silken Paths and was subsequently murdered in his sleep by Buppido."
+    },
+    {
+      "id": "npc_dawnbringer",
+      "label": "Dawnbringer",
+      "type": "npc",
+      "summary": "Sentient sunblade recovered from the Lost Tomb of Khaem that deals radiant damage, emits a 20-foot light radius, and refuses to extinguish its light."
+    },
+    {
+      "id": "npc_the_garden_shadow",
+      "label": "The Garden Shadow",
+      "type": "npc",
+      "summary": "Ancient monk who trained Zalthir and whose teachings about discipline left a lasting philosophical impression on him."
+    },
+    {
+      "id": "npc_hemeth",
+      "label": "Hemeth",
+      "type": "npc",
+      "summary": "Duergar arms dealer from Gracklstugh who traveled with the party on the Darklake and told them to find him back in Gracklstugh."
+    },
+    {
+      "id": "npc_welnaste_mizzrym",
+      "label": "Welnaste Mizzrym",
+      "type": "npc",
+      "summary": "Drow caravan leader of House Mizzrym who originally sold the party to Ilvara Mizzrym and departed Velkynvelve before the escape."
+    },
+    {
+      "id": "npc_the_matron_mother_of_house_t_sarran",
+      "label": "The Matron Mother of House T'sarran",
+      "type": "npc",
+      "summary": "Unknown drow Matron Mother in Menzoberranzan whose kill team was mostly destroyed by the party and who will soon receive word of this via a surviving warrior."
+    },
+    {
+      "id": "faction_house_mizzrym",
+      "label": "House Mizzrym",
+      "type": "faction",
+      "summary": "Drow noble house that operated Velkynvelve through Ilvara Mizzrym and maintains drow caravan operations in the Underdark."
+    },
+    {
+      "id": "faction_house_t_sarran",
+      "label": "House T'sarran",
+      "type": "faction",
+      "summary": "Drow noble house that sent a kill team to the Fungal Cavern (during the final Ilvara fight) which was mostly destroyed by the party, leaving one surviving warrior en route to warn the Matron Mother."
+    },
+    {
+      "id": "faction_house_duskryn",
+      "label": "House Duskryn",
+      "type": "faction",
+      "summary": "Drow house. Three known siblings: Nym and Kaelira (mercenaries running an extract-alive contract on Daz, placed through cutouts; principal unknown to them) and Jorlan (estranged warrior; originally Ilvara's lover at Velkynvelve, later surfaced at the Fungal Cavern pursuing vengeance against her; no connection to the contract or to Daz)."
+    },
+    {
+      "id": "faction_cult_of_lolth",
+      "label": "Cult of Lolth",
+      "type": "faction",
+      "summary": "Dominant religious-political force organizing drow society around noble houses in Menzoberranzan, of which Asha Vandree is a genuine devotee."
+    },
+    {
+      "id": "faction_keepers_of_the_flame",
+      "label": "Keepers of the Flame",
+      "type": "faction",
+      "summary": "Psionic duergar faction in Gracklstugh that actually controls Themberchaud and received the mutated dragon egg from the party."
+    },
+    {
+      "id": "faction_stone_guards",
+      "label": "Stone Guards",
+      "type": "faction",
+      "summary": "Duergar city guard of Gracklstugh led by Errde Blackskull who are investigating corruption in the Council of Savants."
+    },
+    {
+      "id": "faction_empty_scabbard_soulblades",
+      "label": "Empty Scabbard / Soulblades",
+      "type": "faction",
+      "summary": "Assassin guild in Gracklstugh led by Eldgrim that was contracted by the Deepking and struck a deal with the party to cancel Werz Saltbaron's kill order."
+    },
+    {
+      "id": "faction_grey_ghosts",
+      "label": "Grey Ghosts",
+      "type": "faction",
+      "summary": "Thieves' guild in Gracklstugh subordinate to the Demogorgon cult that stole the dragon egg and issued a vendetta against the party."
+    },
+    {
+      "id": "faction_council_of_savants",
+      "label": "Council of Savants",
+      "type": "faction",
+      "summary": "Derro governing body in Gracklstugh that was almost entirely indoctrinated by the Demogorgon cult, with Aliinka serving as a cult operative."
+    },
+    {
+      "id": "faction_diggermattock_leadership",
+      "label": "Diggermattock Leadership",
+      "type": "faction",
+      "summary": "Governing leadership of Blingdenstone under Dorbo and Senni Diggermattock who are reopening the city for surface trade and agreed to help the party reach the surface."
+    },
+    {
+      "id": "faction_gold_whisker_clan",
+      "label": "Gold Whisker Clan",
+      "type": "faction",
+      "summary": "Wererat gnome clan in Blingdenstone led by Chipgrin who allied against the oozes and now formally control the upper boroughs as a defense force."
+    },
+    {
+      "id": "faction_borough_wardens",
+      "label": "Borough Wardens",
+      "type": "faction",
+      "summary": "Ghost organization of Blingdenstone defenders being reconstituted by the ghost Jadgar through training young gnomes."
+    },
+    {
+      "id": "faction_zuggtmoy_s_network",
+      "label": "Zuggtmoy's Network",
+      "type": "faction",
+      "summary": "The web of corrupted agents and myconid servants through which Zuggtmoy advances her wedding plan and fungal colonization of the Underdark."
+    },
+    {
+      "id": "location_velkynvelve",
+      "label": "Velkynvelve",
+      "type": "location",
+      "summary": "Drow prison outpost suspended 100 feet up in a cavern where the party was imprisoned, escaped, and later returned to kill Ilvara Mizzrym."
+    },
+    {
+      "id": "location_gracklstugh",
+      "label": "Gracklstugh",
+      "type": "location",
+      "summary": "Xenophobic duergar metropolis afflicted by widespread madness where the party worked simultaneously for multiple competing factions before escaping by boat."
+    },
+    {
+      "id": "location_sloobludop",
+      "label": "Sloobludop",
+      "type": "location",
+      "summary": "Kuo-toa settlement on the Darklake that was completely destroyed by Demogorgon after the party witnessed the ritual that summoned him."
+    },
+    {
+      "id": "location_neverlight_grove",
+      "label": "Neverlight Grove",
+      "type": "location",
+      "summary": "Myconid settlement corrupted by Zuggtmoy through Sovereign Phylo where the party killed Ilvara Mizzrym and from which loyalist myconids were evacuated."
+    },
+    {
+      "id": "location_blingdenstone",
+      "label": "Blingdenstone",
+      "type": "location",
+      "summary": "Deep gnome city recently liberated from the Pudding King's ooze threat where the party are celebrated heroes and which now faces Zuggtmoy's accelerating fungal intrusion."
+    },
+    {
+      "id": "location_the_darklake",
+      "label": "The Darklake",
+      "type": "location",
+      "summary": "Vast underground water network connecting major Underdark settlements that the party navigated by boat between Sloobludop, Gracklstugh, and beyond."
+    },
+    {
+      "id": "location_the_silken_paths",
+      "label": "The Silken Paths",
+      "type": "location",
+      "summary": "Giant spider web network spanning a massive chasm that the party traversed with goblin guides Yuk-Yuk and Spiderbait."
+    },
+    {
+      "id": "location_lost_tomb_of_khaem",
+      "label": "Lost Tomb of Khaem",
+      "type": "location",
+      "summary": "Netherese floating tomb fallen into the Underdark where the party recovered Dawnbringer and destroyed the wraith Brysis of Khaem."
+    },
+    {
+      "id": "location_whorlstone_tunnels",
+      "label": "Whorlstone Tunnels",
+      "type": "location",
+      "summary": "Secret Faerzress-suffused cave system beneath Gracklstugh containing a black obelisk, Demogorgon cult operations, and Buppido's shrine."
+    },
+    {
+      "id": "location_cairngorm_cavern",
+      "label": "Cairngorm Cavern",
+      "type": "location",
+      "summary": "Stone giant enclave in Gracklstugh where Stonespeaker Hgraam resides and which has been sealed shut indefinitely."
+    },
+    {
+      "id": "location_menzoberranzan",
+      "label": "Menzoberranzan",
+      "type": "location",
+      "summary": "Major drow city dominated by the Cult of Lolth where Daz was trained and where House T'sarran will be informed of the party's actions."
+    },
+    {
+      "id": "location_the_surface_the_overbright",
+      "label": "The Surface (\"The Overbright\")",
+      "type": "location",
+      "summary": "The surface world that is the party's ultimate destination, accessible via a confirmed route through Blingdenstone."
+    },
+    {
+      "id": "plot_escape_to_the_surface",
+      "label": "Escape to the Surface",
+      "type": "plot",
+      "summary": "The party's primary goal of reaching the surface world via the confirmed route through Blingdenstone with the Diggermattocks' assistance."
+    },
+    {
+      "id": "plot_zuggtmoy_s_fungal_colonization_of_blingdenstone",
+      "label": "Zuggtmoy's Fungal Colonization of Blingdenstone",
+      "type": "plot",
+      "summary": "Zuggtmoy is filling the power vacuum left by Juiblex's expulsion, visibly colonizing Blingdenstone with accelerating fungal growth right now."
+    },
+    {
+      "id": "plot_house_t_sarran_retaliation_arc",
+      "label": "House T'sarran Retaliation Arc",
+      "type": "plot",
+      "summary": "A surviving House T'sarran warrior is en route to inform the Matron Mother of the kill team's destruction, after which a formal kill order against the party is expected."
+    },
+    {
+      "id": "plot_juiblex_s_declared_intent_to_consume_zuggtmoy",
+      "label": "Juiblex's Declared Intent to Consume Zuggtmoy",
+      "type": "plot",
+      "summary": "Juiblex survived expulsion from Blingdenstone and announced intent to consume Zuggtmoy's fungal banquet, setting a course for a demon-on-demon catastrophe."
+    },
+    {
+      "id": "plot_the_araumycos_wedding",
+      "label": "The Araumycos Wedding",
+      "type": "plot",
+      "summary": "Zuggtmoy's central objective to wed Araumycos and spread her spores across the entire Underdark and surface is ongoing with no action yet taken to stop it."
+    },
+    {
+      "id": "plot_daz_s_false_identity_with_asha_vandree",
+      "label": "Daz's False Identity with Asha Vandree",
+      "type": "plot",
+      "summary": "Daz's load-bearing deception as a Lolth convert with Asha Vandree is at risk from the sustained proximity of drow strangers (Nym, Kaelira, Asha) operating inside drow social ritual."
+    },
+    {
+      "id": "plot_jorlan_duskryn_loose",
+      "label": "Jorlan Duskryn — Estranged Duskryn Sibling",
+      "type": "plot",
+      "summary": "Jorlan Duskryn is the estranged brother of Nym and Kaelira Duskryn and Ilvara's former lover; he is alive and in transit. The party may have misheard Nym's 'Can I kill your brother?' line (addressed to Kaelira about Jorlan) as referring to Daz; the misunderstanding is theirs to discover."
+    },
+    {
+      "id": "plot_glabbagool_s_ooze_communion_body_swap",
+      "label": "Glabbagool's Ooze Communion / Body Swap",
+      "type": "plot",
+      "summary": "Glabbagool's demonstrated mass-ooze telepathy and mysterious body swap with the Pudding King have unknown lasting metaphysical consequences."
+    },
+    {
+      "id": "plot_empty_spell_gems_kazook_pickshine",
+      "label": "Empty Spell Gems / Kazook Pickshine",
+      "type": "plot",
+      "summary": "The party holds unprocessed empty spell gems including a fourth-level gem that Kazook Pickshine in Blingdenstone can convert into powerful magical items before their surface departure."
+    },
+    {
+      "id": "plot_zalthir_s_name_list",
+      "label": "Zalthir's Name List",
+      "type": "plot",
+      "summary": "Zalthir carries an uninvestigated list of names found at Velkynvelve believed to identify people who owe favors, which may prove valuable on the surface."
+    },
+    {
+      "id": "plot_jadgar_s_two_boons",
+      "label": "Jadgar's Two Boons",
+      "type": "plot",
+      "summary": "The party has two unclaimed truthful answers from the ghost Jadgar, which could reveal the identity of the Matron Mother of House T'sarran or the status of Zuggtmoy's wedding."
+    },
+    {
+      "id": "plot_drow_extraction_contract",
+      "label": "Drow Extraction Contract",
+      "type": "plot",
+      "summary": "Nym Duskryn and Kaelira Duskryn hold an active extract-alive contract on Daz, placed through cutouts; the mercs do not know the principal and do not know who Daz is. The contract creates ongoing friction within the party's traveling group."
+    },
+    {
+      "id": "arc_score_zuggtmoy_expansion_score",
+      "label": "Zuggtmoy Expansion Score",
+      "type": "arc_score",
+      "summary": "Tracks how close Zuggtmoy is to completing her wedding to Araumycos and colonizing Blingdenstone; currently Elevated with Critical as the next threshold."
+    },
+    {
+      "id": "arc_score_juiblex_resurgence_score",
+      "label": "Juiblex Resurgence Score",
+      "type": "arc_score",
+      "summary": "Tracks Juiblex's recovery and advance toward consuming Zuggtmoy's fungal banquet; currently Active with Escalation as the next threshold."
+    },
+    {
+      "id": "arc_score_house_t_sarran_retaliation_score",
+      "label": "House T'sarran Retaliation Score",
+      "type": "arc_score",
+      "summary": "Tracks the progress of House T'sarran's retaliation arc; currently Active with Strike Authorized as the next threshold once the surviving warrior reaches Menzoberranzan."
+    },
+    {
+      "id": "arc_score_daz_identity_exposure_score",
+      "label": "Daz Identity Exposure Score",
+      "type": "arc_score",
+      "summary": "Tracks the fragility of Daz's false Lolth-follower identity with Asha Vandree; currently Fragile with Collapse as the next threshold."
+    },
+    {
+      "id": "arc_score_drow_extraction_contract_score",
+      "label": "Drow Extraction Contract Score",
+      "type": "arc_score",
+      "summary": "Tracks pressure from the Duskryn sisters' extraction contract on Daz; currently Active with Forced Extraction as the next threshold."
+    }
+  ],
+  "edges": [
+    {
+      "source": "party_thorin_giantfriend",
+      "target": "faction_the_ember_vanguard",
+      "label": "member of"
+    },
+    {
+      "source": "party_daz",
+      "target": "faction_the_ember_vanguard",
+      "label": "member of"
+    },
+    {
+      "source": "party_zalthir",
+      "target": "faction_the_ember_vanguard",
+      "label": "member of"
+    },
+    {
+      "source": "party_grygum",
+      "target": "faction_the_ember_vanguard",
+      "label": "member of"
+    },
+    {
+      "source": "party_thorin_giantfriend",
+      "target": "npc_dawnbringer",
+      "label": "wields"
+    },
+    {
+      "source": "party_grygum",
+      "target": "npc_ilvara_mizzrym",
+      "label": "killed"
+    },
+    {
+      "source": "party_grygum",
+      "target": "npc_glabbagool",
+      "label": "guardian of"
+    },
+    {
+      "source": "party_grygum",
+      "target": "npc_stool",
+      "label": "bonded with"
+    },
+    {
+      "source": "party_daz",
+      "target": "npc_asha_vandree",
+      "label": "deceives"
+    },
+    {
+      "source": "party_daz",
+      "target": "npc_jorlan_duskryn",
+      "label": "possible brother of"
+    },
+    {
+      "source": "party_daz",
+      "target": "faction_house_mizzrym",
+      "label": "trained by (Menzoberranzan)"
+    },
+    {
+      "source": "party_zalthir",
+      "target": "npc_the_garden_shadow",
+      "label": "trained by"
+    },
+    {
+      "source": "party_zalthir",
+      "target": "party_daz",
+      "label": "ally of"
+    },
+    {
+      "source": "npc_nym_duskryn",
+      "target": "party_daz",
+      "label": "seeks (extraction contract)"
+    },
+    {
+      "source": "npc_kaelira_duskryn",
+      "target": "party_daz",
+      "label": "seeks (extraction contract)"
+    },
+    {
+      "source": "npc_nym_duskryn",
+      "target": "npc_kaelira_duskryn",
+      "label": "partner of"
+    },
+    {
+      "source": "npc_nym_duskryn",
+      "target": "faction_house_duskryn",
+      "label": "member of"
+    },
+    {
+      "source": "npc_kaelira_duskryn",
+      "target": "faction_house_duskryn",
+      "label": "member of"
+    },
+    {
+      "source": "npc_jorlan_duskryn",
+      "target": "faction_house_duskryn",
+      "label": "member of"
+    },
+    {
+      "source": "npc_jorlan_duskryn",
+      "target": "npc_ilvara_mizzrym",
+      "label": "former lover of"
+    },
+    {
+      "source": "npc_jorlan_duskryn",
+      "target": "party_thorin_giantfriend",
+      "label": "struck deal with"
+    },
+    {
+      "source": "npc_asha_vandree",
+      "target": "faction_cult_of_lolth",
+      "label": "member of"
+    },
+    {
+      "source": "npc_ilvara_mizzrym",
+      "target": "faction_house_mizzrym",
+      "label": "member of"
+    },
+    {
+      "source": "npc_ilvara_mizzrym",
+      "target": "location_velkynvelve",
+      "label": "commanded"
+    },
+    {
+      "source": "npc_ilvara_mizzrym",
+      "target": "npc_zuggtmoy",
+      "label": "corrupted by"
+    },
+    {
+      "source": "npc_welnaste_mizzrym",
+      "target": "faction_house_mizzrym",
+      "label": "member of"
+    },
+    {
+      "source": "npc_the_matron_mother_of_house_t_sarran",
+      "target": "faction_house_t_sarran",
+      "label": "leads"
+    },
+    {
+      "source": "faction_house_t_sarran",
+      "target": "faction_the_ember_vanguard",
+      "label": "enemy of"
+    },
+    {
+      "source": "npc_zuggtmoy",
+      "target": "npc_araumycos",
+      "label": "seeks to wed"
+    },
+    {
+      "source": "npc_zuggtmoy",
+      "target": "location_neverlight_grove",
+      "label": "controls"
+    },
+    {
+      "source": "npc_zuggtmoy",
+      "target": "npc_phylo",
+      "label": "corrupted"
+    },
+    {
+      "source": "npc_zuggtmoy",
+      "target": "location_blingdenstone",
+      "label": "colonizing"
+    },
+    {
+      "source": "npc_zuggtmoy",
+      "target": "faction_zuggtmoy_s_network",
+      "label": "leads"
+    },
+    {
+      "source": "npc_zuggtmoy",
+      "target": "arc_score_zuggtmoy_expansion_score",
+      "label": "tracked by"
+    },
+    {
+      "source": "npc_juiblex",
+      "target": "npc_pudding_king",
+      "label": "empowered"
+    },
+    {
+      "source": "npc_juiblex",
+      "target": "npc_zuggtmoy",
+      "label": "intends to consume"
+    },
+    {
+      "source": "npc_juiblex",
+      "target": "npc_araumycos",
+      "label": "seeks to consume"
+    },
+    {
+      "source": "npc_juiblex",
+      "target": "arc_score_juiblex_resurgence_score",
+      "label": "tracked by"
+    },
+    {
+      "source": "npc_demogorgon",
+      "target": "location_sloobludop",
+      "label": "destroyed"
+    },
+    {
+      "source": "npc_demogorgon",
+      "target": "npc_glabbagool",
+      "label": "indirectly gave sentience to"
+    },
+    {
+      "source": "npc_phylo",
+      "target": "faction_zuggtmoy_s_network",
+      "label": "member of"
+    },
+    {
+      "source": "npc_phylo",
+      "target": "location_neverlight_grove",
+      "label": "controls"
+    },
+    {
+      "source": "npc_basidia",
+      "target": "location_neverlight_grove",
+      "label": "evacuated from"
+    },
+    {
+      "source": "npc_basidia",
+      "target": "npc_phylo",
+      "label": "opposed"
+    },
+    {
+      "source": "npc_sarith",
+      "target": "npc_zuggtmoy",
+      "label": "infected by"
+    },
+    {
+      "source": "npc_yestabrod",
+      "target": "faction_zuggtmoy_s_network",
+      "label": "member of"
+    },
+    {
+      "source": "npc_xinaya",
+      "target": "npc_ilvara_mizzrym",
+      "label": "sent by"
+    },
+    {
+      "source": "npc_xinaya",
+      "target": "location_neverlight_grove",
+      "label": "died in"
+    },
+    {
+      "source": "npc_narrak",
+      "target": "location_whorlstone_tunnels",
+      "label": "located in"
+    },
+    {
+      "source": "npc_plinki",
+      "target": "location_whorlstone_tunnels",
+      "label": "located in"
+    },
+    {
+      "source": "npc_buppido",
+      "target": "location_whorlstone_tunnels",
+      "label": "built shrine in"
+    },
+    {
+      "source": "npc_pudding_king",
+      "target": "location_blingdenstone",
+      "label": "occupied"
+    },
+    {
+      "source": "npc_pudding_king",
+      "target": "npc_juiblex",
+      "label": "servant of"
+    },
+    {
+      "source": "npc_pudding_king",
+      "target": "npc_glabbagool",
+      "label": "body-swapped with"
+    },
+    {
+      "source": "npc_hgraam",
+      "target": "location_cairngorm_cavern",
+      "label": "located in"
+    },
+    {
+      "source": "npc_dorhun",
+      "target": "location_cairngorm_cavern",
+      "label": "located in"
+    },
+    {
+      "source": "npc_dorhun",
+      "target": "npc_hgraam",
+      "label": "apprentice of"
+    },
+    {
+      "source": "npc_gartokkar_xundorn",
+      "target": "faction_keepers_of_the_flame",
+      "label": "leads"
+    },
+    {
+      "source": "faction_keepers_of_the_flame",
+      "target": "npc_themberchaud",
+      "label": "controls"
+    },
+    {
+      "source": "faction_keepers_of_the_flame",
+      "target": "location_gracklstugh",
+      "label": "located in"
+    },
+    {
+      "source": "npc_errde_blackskull",
+      "target": "faction_stone_guards",
+      "label": "leads"
+    },
+    {
+      "source": "faction_stone_guards",
+      "target": "location_gracklstugh",
+      "label": "located in"
+    },
+    {
+      "source": "npc_eldgrim",
+      "target": "faction_empty_scabbard_soulblades",
+      "label": "leads"
+    },
+    {
+      "source": "faction_empty_scabbard_soulblades",
+      "target": "location_gracklstugh",
+      "label": "located in"
+    },
+    {
+      "source": "faction_grey_ghosts",
+      "target": "location_gracklstugh",
+      "label": "located in"
+    },
+    {
+      "source": "faction_grey_ghosts",
+      "target": "faction_the_ember_vanguard",
+      "label": "enemy of"
+    },
+    {
+      "source": "faction_council_of_savants",
+      "target": "location_gracklstugh",
+      "label": "located in"
+    },
+    {
+      "source": "npc_werz_saltbaron",
+      "target": "location_gracklstugh",
+      "label": "located in"
+    },
+    {
+      "source": "npc_werz_saltbaron",
+      "target": "faction_the_ember_vanguard",
+      "label": "ally of"
+    },
+    {
+      "source": "npc_themberchaud",
+      "target": "location_gracklstugh",
+      "label": "located in"
+    },
+    {
+      "source": "npc_dorbo_diggermattock",
+      "target": "faction_diggermattock_leadership",
+      "label": "leads"
+    },
+    {
+      "source": "npc_senni_diggermattock",
+      "target": "faction_diggermattock_leadership",
+      "label": "leads"
+    },
+    {
+      "source": "faction_diggermattock_leadership",
+      "target": "location_blingdenstone",
+      "label": "governs"
+    },
+    {
+      "source": "faction_diggermattock_leadership",
+      "target": "faction_the_ember_vanguard",
+      "label": "ally of"
+    },
+    {
+      "source": "npc_chipgrin",
+      "target": "faction_gold_whisker_clan",
+      "label": "leads"
+    },
+    {
+      "source": "faction_gold_whisker_clan",
+      "target": "location_blingdenstone",
+      "label": "located in"
+    },
+    {
+      "source": "faction_gold_whisker_clan",
+      "target": "faction_the_ember_vanguard",
+      "label": "allied with"
+    },
+    {
+      "source": "npc_jadgar",
+      "target": "faction_borough_wardens",
+      "label": "reconstituting"
+    },
+    {
+      "source": "npc_jadgar",
+      "target": "location_blingdenstone",
+      "label": "located in"
+    },
+    {
+      "source": "npc_jadgar",
+      "target": "faction_the_ember_vanguard",
+      "label": "ally of"
+    },
+    {
+      "source": "npc_kazook_pickshine",
+      "target": "location_blingdenstone",
+      "label": "located in"
+    },
+    {
+      "source": "npc_ploopploopeen",
+      "target": "location_sloobludop",
+      "label": "located in"
+    },
+    {
+      "source": "npc_ploopploopeen",
+      "target": "npc_bloppblippodd_blopp",
+      "label": "killed"
+    },
+    {
+      "source": "npc_bloppblippodd_blopp",
+      "target": "npc_demogorgon",
+      "label": "summoned"
+    },
+    {
+      "source": "npc_shuushar",
+      "target": "location_the_darklake",
+      "label": "located in"
+    },
+    {
+      "source": "npc_glabbagool",
+      "target": "party_grygum",
+      "label": "companion of"
+    },
+    {
+      "source": "npc_glabbagool",
+      "target": "location_blingdenstone",
+      "label": "located in"
+    },
+    {
+      "source": "npc_fuurm_copper_coppernose",
+      "target": "faction_the_ember_vanguard",
+      "label": "traveling with"
+    },
+    {
+      "source": "npc_baedora",
+      "target": "faction_the_ember_vanguard",
+      "label": "traveling with"
+    },
+    {
+      "source": "npc_eldeth",
+      "target": "faction_the_ember_vanguard",
+      "label": "traveling with"
+    },
+    {
+      "source": "npc_spiderbait",
+      "target": "faction_the_ember_vanguard",
+      "label": "traveling with"
+    },
+    {
+      "source": "npc_asha_vandree",
+      "target": "faction_the_ember_vanguard",
+      "label": "traveling with"
+    },
+    {
+      "source": "npc_nym_duskryn",
+      "target": "faction_the_ember_vanguard",
+      "label": "traveling near"
+    },
+    {
+      "source": "npc_kaelira_duskryn",
+      "target": "faction_the_ember_vanguard",
+      "label": "traveling near"
+    },
+    {
+      "source": "npc_jorlan_duskryn",
+      "target": "location_velkynvelve",
+      "label": "last seen near"
+    },
+    {
+      "source": "npc_brysis_of_khaem",
+      "target": "location_lost_tomb_of_khaem",
+      "label": "haunted"
+    },
+    {
+      "source": "npc_dawnbringer",
+      "target": "location_lost_tomb_of_khaem",
+      "label": "recovered from"
+    },
+    {
+      "source": "npc_fargas_rumblefoot",
+      "target": "location_the_silken_paths",
+      "label": "rescued from"
+    },
+    {
+      "source": "npc_fargas_rumblefoot",
+      "target": "location_lost_tomb_of_khaem",
+      "label": "revealed location of"
+    },
+    {
+      "source": "npc_yuk_yuk",
+      "target": "location_the_silken_paths",
+      "label": "guided party through"
+    },
+    {
+      "source": "npc_spiderbait",
+      "target": "location_the_silken_paths",
+      "label": "guided party through"
+    },
+    {
+      "source": "npc_buppido",
+      "target": "npc_yuk_yuk",
+      "label": "murdered"
+    },
+    {
+      "source": "npc_jimjar",
+      "target": "npc_sarith",
+      "label": "killed"
+    },
+    {
+      "source": "npc_jimjar",
+      "target": "location_blingdenstone",
+      "label": "vanished from"
+    },
+    {
+      "source": "plot_escape_to_the_surface",
+      "target": "location_blingdenstone",
+      "label": "route through"
+    },
+    {
+      "source": "plot_escape_to_the_surface",
+      "target": "location_the_surface_the_overbright",
+      "label": "destination"
+    },
+    {
+      "source": "plot_escape_to_the_surface",
+      "target": "faction_diggermattock_leadership",
+      "label": "assisted by"
+    },
+    {
+      "source": "plot_zuggtmoy_s_fungal_colonization_of_blingdenstone",
+      "target": "location_blingdenstone",
+      "label": "threatens"
+    },
+    {
+      "source": "plot_zuggtmoy_s_fungal_colonization_of_blingdenstone",
+      "target": "npc_zuggtmoy",
+      "label": "triggered by"
+    },
+    {
+      "source": "plot_house_t_sarran_retaliation_arc",
+      "target": "faction_house_t_sarran",
+      "label": "triggered by"
+    },
+    {
+      "source": "plot_house_t_sarran_retaliation_arc",
+      "target": "faction_the_ember_vanguard",
+      "label": "targets"
+    },
+    {
+      "source": "plot_house_t_sarran_retaliation_arc",
+      "target": "arc_score_house_t_sarran_retaliation_score",
+      "label": "tracked by"
+    },
+    {
+      "source": "plot_juiblex_s_declared_intent_to_consume_zuggtmoy",
+      "target": "npc_juiblex",
+      "label": "triggered by"
+    },
+    {
+      "source": "plot_juiblex_s_declared_intent_to_consume_zuggtmoy",
+      "target": "npc_zuggtmoy",
+      "label": "threatens"
+    },
+    {
+      "source": "plot_the_araumycos_wedding",
+      "target": "npc_zuggtmoy",
+      "label": "driven by"
+    },
+    {
+      "source": "plot_the_araumycos_wedding",
+      "target": "npc_araumycos",
+      "label": "involves"
+    },
+    {
+      "source": "plot_the_araumycos_wedding",
+      "target": "arc_score_zuggtmoy_expansion_score",
+      "label": "tracked by"
+    },
+    {
+      "source": "plot_daz_s_false_identity_with_asha_vandree",
+      "target": "party_daz",
+      "label": "involves"
+    },
+    {
+      "source": "plot_daz_s_false_identity_with_asha_vandree",
+      "target": "npc_asha_vandree",
+      "label": "involves"
+    },
+    {
+      "source": "plot_daz_s_false_identity_with_asha_vandree",
+      "target": "arc_score_daz_identity_exposure_score",
+      "label": "tracked by"
+    },
+    {
+      "source": "plot_jorlan_duskryn_loose",
+      "target": "party_daz",
+      "label": "involves"
+    },
+    {
+      "source": "plot_jorlan_duskryn_loose",
+      "target": "npc_jorlan_duskryn",
+      "label": "involves"
+    },
+    {
+      "source": "plot_jorlan_duskryn_loose",
+      "target": "npc_nym_duskryn",
+      "label": "involves"
+    },
+    {
+      "source": "plot_drow_extraction_contract",
+      "target": "npc_nym_duskryn",
+      "label": "involves"
+    },
+    {
+      "source": "plot_drow_extraction_contract",
+      "target": "npc_kaelira_duskryn",
+      "label": "involves"
+    },
+    {
+      "source": "plot_drow_extraction_contract",
+      "target": "party_daz",
+      "label": "targets"
+    },
+    {
+      "source": "plot_drow_extraction_contract",
+      "target": "arc_score_drow_extraction_contract_score",
+      "label": "tracked by"
+    },
+    {
+      "source": "plot_glabbagool_s_ooze_communion_body_swap",
+      "target": "npc_glabbagool",
+      "label": "involves"
+    },
+    {
+      "source": "plot_glabbagool_s_ooze_communion_body_swap",
+      "target": "npc_pudding_king",
+      "label": "involves"
+    },
+    {
+      "source": "plot_empty_spell_gems_kazook_pickshine",
+      "target": "npc_kazook_pickshine",
+      "label": "involves"
+    },
+    {
+      "source": "plot_empty_spell_gems_kazook_pickshine",
+      "target": "faction_the_ember_vanguard",
+      "label": "involves"
+    },
+    {
+      "source": "plot_zalthir_s_name_list",
+      "target": "party_zalthir",
+      "label": "involves"
+    },
+    {
+      "source": "plot_jadgar_s_two_boons",
+      "target": "npc_jadgar",
+      "label": "involves"
+    },
+    {
+      "source": "plot_jadgar_s_two_boons",
+      "target": "faction_the_ember_vanguard",
+      "label": "available to"
+    },
+    {
+      "source": "faction_zuggtmoy_s_network",
+      "target": "location_neverlight_grove",
+      "label": "controls"
+    },
+    {
+      "source": "npc_hemeth",
+      "target": "location_gracklstugh",
+      "label": "located in"
+    },
+    {
+      "source": "party_thorin_giantfriend",
+      "target": "npc_ilvara_mizzrym",
+      "label": "enemy of"
+    },
+    {
+      "source": "party_thorin_giantfriend",
+      "target": "location_neverlight_grove",
+      "label": "killed Xinaya in"
+    },
+    {
+      "source": "party_grygum",
+      "target": "npc_basidia",
+      "label": "rescued"
+    }
+  ]
+}

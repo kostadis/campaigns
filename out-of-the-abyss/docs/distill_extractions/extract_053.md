@@ -1,77 +1,77 @@
 ## NPCs
 
 **Ilvara Mizzrym**
-- **Current location:** Velkynvelve cavern (deceased)
+- **Current location:** Fungal Cavern (deceased)
 - **Current state:** Dead; body erupted into a cloud of poisonous spores upon death
 - **Recent actions:** Used a legendary reaction to inflict the Frightened condition on Zalthir (DC-14 Wisdom save); cast Insect Plague at the cave entrance; called down divine fire on Daz and Nym Duskryn; retreated into the shadow of the heart fungus; muttered prophecy about Zuggtmoy, "the bride," and coming chaos/mayhem; fought Jorlan on a bridge before it collapsed; never begged or surrendered
 - **Faction:** House Mizzrym; instrument/vessel of Zuggtmoy
 - **Revealed motivations/secrets:** High priestess of House Mizzrym, corrupted by Zuggtmoy; was no longer merely aided by Zuggtmoy but had become Zuggtmoy's work entirely; discarded Jorlan as a lover when he became scarred, per drow societal norms rewarding beauty; had held the party as prisoners previously; believed in Zuggtmoy's prophecy about "the bride" and coming chaos
 
 **Jorlan Duskryn**
-- **Current location:** Velkynvelve cavern floor (survived the bridge collapse)
+- **Current location:** Fungal Cavern floor (survived the bridge collapse)
 - **Current state:** Alive; took a lightning bolt from Nym Duskryn during the fight; staggering
 - **Recent actions:** Broke from the party's formation and charged Ilvara through the insect swarm shouting her name; fought Ilvara on the bridge; survived the bridge collapse; had previously attacked the party at the beginning of the captivity
 - **Faction:** Drow; formerly allied with Ilvara/House Mizzrym; fighting alongside the party during this battle
 - **Revealed motivations/secrets:** Scarred drow warrior; former lover of Ilvara who was discarded when he was scarred; his charge toward Ilvara was driven by old love/heartbreak rather than pure tactical rage
 
 **Nym Duskryn**
-- **Current location:** Velkynvelve cavern, near Daz
+- **Current location:** Fungal Cavern, near Daz
 - **Current state:** Alive; active combatant
 - **Recent actions:** Waited for Kaelira to bring Daz to her position; asked Daz to stay out of combat so they could get paid; redirected frustration by asking Kaelira if she could kill their estranged brother Jorlan; hit Jorlan Duskryn with a lightning bolt
 - **Faction:** Duskryn sisters (mercenary/contract); hired to extract Daz
 - **Revealed motivations/secrets:** On a contract to extract Daz alive; only gets paid if Daz survives; has a professional, transactional attitude toward the mission
 
 **Kaelira (Duskryn)**
-- **Current location:** Velkynvelve cavern, near Daz
+- **Current location:** Fungal Cavern, near Daz
 - **Current state:** Alive
 - **Recent actions:** Grabbed Daz's arm and physically hauled him northeast through the insect plague and poisonous gas to Nym's position; said "Come with me if you want to live, you idiot"
 - **Faction:** Duskryn sisters (mercenary/contract); hired to extract Daz
 - **Revealed motivations/secrets:** Sister of Nym; strong opinions about Daz's survival; took damage from poison gas while moving him
 
 **Asha Vandree**
-- **Current location:** Velkynvelve cavern
+- **Current location:** Fungal Cavern
 - **Current state:** Alive; kneeling and praying to Lolth after the battle
 - **Recent actions:** Drew her weapon and accused Kaelira and Nym of being traitors to Lolth upon seeing them; was convinced by Daz that they were friends of Lolth; dropped to her knees and began praying after Ilvara's death, reshaping the events into something Lolth could use
 - **Faction:** Lolth devotee
 - **Revealed motivations/secrets:** Described Daz as "an insane mage who had converted to Lolthism"; believes Daz serves Lolth (this is a deception Daz maintains); a zealot who interprets events through her Lolth-aligned worldview
 
 **Glabbagool**
-- **Current location:** Velkynvelve cavern
+- **Current location:** Fungal Cavern
 - **Current state:** Alive but damaged; took 26 points of damage from Ilvara's Insect Plague; Daz specifically excluded him from Fireball using Sculpt Spells
 - **Recent actions:** Was attempting to participate in the fight; had eyes extended toward the party; was hovering at the edge of the chaos
 - **Faction:** Party companion
 - **Revealed motivations/secrets:** Sentient gelatinous cube; described as gentle, luminously good-natured; earnest about fighting despite being new to it; simply wants to belong
 
 **Daz (PC)**
-- **Current location:** Velkynvelve cavern
+- **Current location:** Fungal Cavern
 - **Current state:** Alive; used Shield reaction to block a crossbow bolt; took some poison gas damage
 - **Recent actions:** Cast Shield to block drow crossbow bolt; was hauled to safety by Kaelira; lied to Asha that the Duskryn sisters were friends of Lolth; refused to hide despite Nym's request; cast a shaped Fireball using Sculpt Spells (excluding Glabbagool), incinerating drow warriors; argued he would not leave his companions to fight without him
 - **Faction:** Party member; Evoker trained in Menzoberranzan; formerly of the Ember Vanguard (referred to as "the feared mage of the Ember Vanguard")
 - **Revealed motivations/secrets:** Has been maintaining a false Lolth-follower identity with Asha Vandree; privately holds beliefs about slavery, free people, and the basis of society that differ from his cover; has a brother who is apparently covered in fungus; trained in Menzoberranzan where destructive magic was considered the only magic worth taking seriously; possesses the Sculpt Spells ability (Evoker); feels genuine purpose in standing with his companions
 
 **Zalthir (PC)**
-- **Current location:** Velkynvelve cavern
+- **Current location:** Fungal Cavern
 - **Current state:** Alive; took damage from the heart fungus and from Ilvara's death spore cloud
 - **Recent actions:** Used Eldritch Claw Tattoo to grapple Ilvara, hauled her 40 feet into the air, scored two critical hits during the ascent, then dropped her; failed a DC-14 Wisdom save and became Frightened by Ilvara's legendary reaction; remained at ceiling unable to approach; took a hit from the heart fungus (deflected 12 bludgeoning, took the rest plus poison damage); used Shadow Step to teleport to and punch the T'sarran mage, killing him; fear cleared at end of his next turn
 - **Faction:** Party member; monk
 - **Revealed motivations/secrets:** Has an Eldritch Claw Tattoo (15-foot reach, tentacle grapple); trained at a monastery for at least three years (initially thought he was there to learn to fight but learned deeper lessons about self-discipline and self-adjudication); operates with emotional restraint; applies rules honestly against his own interest as a point of discipline
 
 **Thorin Giantfriend (PC)**
-- **Current location:** Velkynvelve cavern
+- **Current location:** Fungal Cavern
 - **Current state:** Alive; took some spore damage from Ilvara's death
 - **Recent actions:** Descended from elevated walkways; destroyed the heart fungus in one round using Dawnbringer's radiant damage; destroyed the bridge (causing Ilvara and Jorlan to fall); chose not to take an opportunity attack on Jorlan (rolled an 8, decided to let Jorlan pass); let Jorlan and Ilvara fight
 - **Faction:** Party member; fighter; raised by giants
 - **Revealed motivations/secrets:** Wields Dawnbringer (sentient sunblade that pulses with warmth); raised by creatures who settle disagreements by picking up boulders; does not understand drow politics and is not ashamed to say so
 
 **Grygum (PC)**
-- **Current location:** Velkynvelve cavern (standing back from the spore cloud)
+- **Current location:** Fungal Cavern (standing back from the spore cloud)
 - **Current state:** Alive; unharmed (was standing back)
 - **Recent actions:** Missed first Guiding Bolt at Ilvara; landed the killing Guiding Bolt on Ilvara; offered Revivify for fallen minions (mistakenly thinking enemy minions were allied ones); first concern after battle was checking on Glabbagool
 - **Faction:** Party member; cleric/paladin of Bahamut
 - **Revealed motivations/secrets:** Worships Bahamut (the Platinum Dragon); takes extensive mental notes; applies Bahamut's principle of protecting the vulnerable even to Glabbagool; has Revivify prepared; pragmatic about combat positioning
 
 **House T'sarran Mage (unnamed)**
-- **Current location:** Velkynvelve cavern (dead)
+- **Current location:** Fungal Cavern (dead)
 - **Current state:** Dead; killed by Zalthir's punch after being weakened by Daz's Fireball
 - **Recent actions:** Launched a lightning bolt into the cavern that hit nothing; lacked Dispel Magic to bypass the Insect Plague; was arguing with fellow soldiers about the difficulty of the mission
 - **Faction:** House T'sarran
@@ -97,7 +97,7 @@
 
 **House T'sarran**
 - **Key members:** Unnamed matron mother (not present); unnamed mage (dead); unnamed last warrior (retreated); 5 drow warriors (most killed by Daz's Fireball); 3 drow warriors with crossbows (attacked Daz)
-- **Current goals:** Were sent to Velkynvelve apparently to kill the party or intervene in the situation; the matron mother will be informed of the outcome
+- **Current goals:** Were sent to Fungal Cavern apparently to kill the party or intervene in the situation; the matron mother will be informed of the outcome
 - **Recent actions:** Sent a strike team including a mage and multiple warriors; arrived mid-battle expecting an easy kill; the mage lacked Dispel Magic and couldn't bypass the Insect Plague; most were incinerated by Daz's Fireball; the surviving warrior retreated with a threat
 - **Relationships:** Hostile to the party; will be seeking retribution; the T'sarran mage's dying words referenced the matron mother hearing about this
 
