@@ -129,9 +129,13 @@ the demand has to come.
 **For Thorin specifically:** runs the three-phase scene
 (clinical → pivot → quiet hour → prescription). Layers Dawnbringer's
 trauma into Layer 1 (the captor) and Layer 2 (the grief). Has the
-**Vaultmaster Locking Scabbard friction** as a sustained character
-beat — disagrees with its psychological logic; Thorin uses it as a
-diplomatic tool with Dawnbringer regardless.
+**Vaultmaster Locking Scabbard hand-on-lock observation** as a
+sustained character beat — appreciates the scabbard itself
+(Dawnbringer likes it as her home; she chose it over the
+gem-encrusted showpiece in Blingdenstone), but notices that
+Thorin's *hand on the lock* has become a behavioral lever when
+Dawnbringer's rhetoric outpaces. The friction is Thorin's *use,*
+not the scabbard.
 
 **Recurrence value:** standing correspondent on the rituals' progress
 (Paths B and C). Sealed letter banked against the day Dawnbringer
@@ -162,9 +166,9 @@ not knowing.
 **For Grygum specifically:** docent of the **Stroud Wake** —
 walks Grygum through the panoramic view of what Stroud
 accidentally built across the Realms in three years. Holds **all
-four schools of thought** open. Never picks. Has the unsigned
-sting and has been trying to identify the handwriting for three
-years.
+three schools** open (Stroud / Dragon / Bahamut, organized by
+worldview). Never picks. Has the unsigned sting and has been
+trying to identify the handwriting for three years.
 
 **Recurrence value:** standing correspondent on the Stroud
 question and the half-orc-Bahamut lineage. Letters of introduction

@@ -137,13 +137,17 @@ session is played; promote anything that becomes load-bearing to
 - **Philemon's sealed letter** is banked against the day the
   name lands. Do not open early.
 
-**The Vaultmaster Locking Scabbard as running joke.**
+**The Vaultmaster Locking Scabbard hand-on-lock tension.**
 
-- Philemon's *"psychologically restrictive"* criticism vs.
-  Thorin's pragmatic use as diplomatic tool with Dawnbringer.
-- **Use this every future session** when Thorin uses the
-  scabbard threat — let the table hear Philemon's voice. Neither
-  reading is fully wrong.
+- Philemon doesn't object to the scabbard itself — Dawnbringer
+  likes it as her home (chapter 46: she chose it over the
+  gem-encrusted showpiece at Valimor Brightgem's). The friction
+  is **Thorin's *hand* on the lock as a behavioral lever** when
+  Dawnbringer's rhetoric outpaces.
+- **Use this every future session** when Thorin's hand drifts to
+  the lock — let the table hear Philemon's quiet *"that hand
+  again."* Thorin can notice — or not. The work is the
+  *noticing.*
 
 **Why Dawnbringer chose Thorin (small load-bearing reveal).**
 
@@ -168,13 +172,18 @@ session is played; promote anything that becomes load-bearing to
   before the session.)*
 - **Status:** sealed letters in Grygum's pack.
 
-**The four schools of thought.**
+**The three schools of thought** (organized by worldview).
 
-- Stroudite (establishment) / Protantherist / Skeptical /
-  Reconciled. One-page polemic from each in Grygum's packet.
+- **Stroud school** (humanoid-centric) / **Dragon school**
+  (draconic-centric) / **Bahamut school** (theological — Grygum's
+  default).
+- One-page polemic from each in Grygum's packet (Stroud's
+  boastful primary-source letter / Master Ulvian Crest's Dragon
+  essay / Sister Halena Brassmark's Bahamut sermon).
 - **Ben can pick which school Grygum belongs to between
-  sessions.** That choice becomes Grygum's stable theological
-  identity going forward.
+  sessions.** Picking is *meaningful* — these are three-year-old
+  emerging traditions; Grygum is shaping a school, not joining a
+  settled one.
 - **Status:** Ben's call.
 
 **The unsigned sting suspect pool.**

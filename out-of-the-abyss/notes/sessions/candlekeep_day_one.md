@@ -455,18 +455,33 @@ isolation, by **redirecting to Thorin and combat exploits.** Brags
 about Heart Fungus. Brags about wraith. Complains about dust.
 
 **The Scabbard Dispute.** Philemon notices the **Vaultmaster
-Locking Scabbard** (acquired from Valimor Brightgem in
-Blingdenstone):
+Locking Scabbard** (commissioned from Valimor Brightgem at The
+Gilded Sheath in Blingdenstone, chapter 46). He examines it with
+*appreciation* — it is fine work, properly fitted, and Dawnbringer
+speaks of it warmly when asked: *"It is mine. The little ones in
+Blingdenstone kept staring. I would have set someone's hair on
+fire by accident eventually. He bought me a home."*
 
-> *"The locking scabbard is psychologically restrictive. It stifles
-> the blade's capacity for self-actualization. I would recommend
-> removing it for the duration of our consultation — and considering
-> its retirement entirely. A sentient weapon kept under threat of
-> imprisonment is, by definition, not freely bonded."*
+Then Philemon's eye returns to **Thorin's hand** on the scabbard's
+lock:
 
-Thorin uses the scabbard's threat as a **working diplomatic tool**
-with Dawnbringer. Philemon doesn't know this. The friction is the
-seed of Phase 2.
+> *"The scabbard is excellent. Your sword speaks of it warmly.
+> What I see is something different — your hand. The way it
+> drifts to the lock when she begins to argue. You have made her
+> home into a threat. I do not think you mean to. I do not think
+> she has fully named what it does to her. But it is what I would
+> like us to talk about, before any of the other work."*
+
+Dawnbringer, caught off-guard, may go quiet for the first time in
+the scene. *(Beat for the GM to land slowly.)* The friction is
+not about the scabbard — it is about **Thorin's hand on the
+lock as a behavioral lever** when her rhetoric outpaces. Thorin's
+response is the first crystal of his Phase 2 stance choice:
+
+- *Defends the practice* — leans toward Path A
+- *Concedes the point* — leans toward Path B
+- *Reframes with Dawnbringer's input in the room* — leans toward
+  Path C
 
 ### Phase 2 — The Pivot (~5 min, Thorin's choice)
 
@@ -584,20 +599,30 @@ years. Multiple pamphlets, in-progress memoir in installments,
 running corrections of every witness. Vareth has them organized by
 *month.* Earliest tighter; later already mythologizing. ~3 min.
 
-**Station 2 — The four schools of thought.** ~5 min.
+**Station 2 — The three schools of thought.** ~5 min. Each school
+is a coherent worldview about *who has agency in the universe.*
+They cannot all be right at the same time.
 
-- **Stroudite (establishment):** Bahamut hid the move from
-  Protanther for 400 years. Backed by Protanther's own council
-  speech. Grygum's default.
-- **Protantherist (humility-by-choice):** Protanther was outplayed
-  but *chose* to read the loss as divine. The reading was his act.
-- **Skeptical (mundane upset):** Stroud got lucky. Theology is
-  political cover for the alliance Protanther needed against
-  Tiamat.
-- **Reconciled:** both real; meaning genuinely contested.
+- **The Stroud school (humanoid-centric).** *Stroud was
+  brilliant; mortals can win on their own.* No god, no dragon's
+  grace — just a clever dwarf outplaying a prepared opponent.
+  **Stroud himself is the chief advocate** and shows up with
+  presentations.
+- **The Dragon school (draconic-centric).** *Protanther chose /
+  let / allowed.* No 400-year-prepared gold dragon is genuinely
+  out-thought by a mortal without consent. The loss is a
+  *teaching* delivered as a humbling. The unsigned-sting *"He
+  let you win, old friend"* is this school's signature text.
+- **The Bahamut school (theological).** *Bahamut intervened.*
+  The gods are continuously involved; this match was a moment of
+  that involvement. **Protanther's own public speech aligned
+  with this reading** — strongest canonical text. **Grygum's
+  default.**
 
 One-page polemic from each available; **Ben can pick Grygum's
-school between sessions.**
+school between sessions.** Picking is *meaningful* — these are
+three-year-old emerging traditions; Grygum is shaping a school,
+not joining a settled one.
 
 **Station 3 — The witnesses.** ~5 min. The council dragons —
 **Otaaryliakkarnos (Eli), Nymmurh, Illeurath, Taz.** Each has a
@@ -629,10 +654,51 @@ disillusioned. Stroud is loud, repetitive, not particularly wise —
 what I expected. He is also not less. I think the story is bigger
 than the man, and that is allowed."*
 
-**Station 8 — The chess problem.** ~3 min. The actual move on
-vellum, cross-referenced. *(GM picks the specific historical
-problem; print a diagram so Ben can play it out.)* Per Ben's pick:
-genuinely brilliant, a known problem.
+**Station 8 — The chess problem: *Tessarra's Lock.*** ~3 min.
+
+Real-world pattern: **Anastasia's Mate.** Faerûn-rebranded as
+**Tessarra's Lock** after **Tessarra Vaeleth,** elven chess
+theorist of pre-Spellplague Myth Drannor whose *Studies in the
+Geometry of Endgames* catalogued the position centuries ago.
+
+**The position** (set up on a board for Ben):
+
+- **White (Stroud):** King c1, Queen g5, Knight e7, Rook f1, Rook h1
+- **Black (Protanther):** King g8, Pawn g7, Pawn h7
+- *(Other pieces irrelevant — geometric core only.)*
+
+White to move. **Mate in two.**
+
+**The move Stroud played: 1. Qxh7+!!** — queen sacrifices on the
+pawn, with check. Black's only legal response is **1...Kxh7**
+(white's rook on f1 controls f8, the king's only escape square,
+making the capture forced). After 1...Kxh7, the king is mated
+*immediately* by the rook on h1:
+
+- g6 — controlled by knight on e7
+- g7 — blocked by black's own pawn
+- g8 — controlled by knight on e7
+- h6 — controlled by rook on h1
+- h8 — controlled by knight on e7
+
+**Why Protanther's 400-year prep missed it:** the queen
+sacrifice. His analysis tree had no branches in which Stroud
+willingly gave up his queen for a single pawn. Tessarra's
+geometry was always there; *Stroud's willingness to spend the
+queen* was outside the analysis.
+
+**Three-school readings** of the Lock map cleanly:
+
+- **Stroud:** *"It's Tessarra's Lock. Published for centuries.
+  I know my Tessarra. He should have seen it. That's not divine;
+  that's me."*
+- **Dragon:** *"He absolutely saw the Lock. He chose to step
+  into it. The geometry was a gift."*
+- **Bahamut:** *"The pattern was always there. Bahamut hid the
+  *applicability* from Protanther. The intervention was the
+  moment of seeing, not the geometry."*
+
+Print the diagram and let Ben play it out.
 
 **Station 9 — Protanther's 400 years and his speech.** ~7 min. The
 load-bearing fact: Protanther was **mentally replaying the
@@ -647,7 +713,15 @@ speech (via Illeurath's deposition):
 > Ortho, I might have won today."*
 
 Three years of silence since the speech. Each school reads the
-silence differently.
+silence differently:
+
+- **Stroud school:** the speech was diplomatic theater for the
+  Tiamat alliance; silence is the dragon avoiding follow-up.
+- **Dragon school:** the speech was the public face of a
+  teaching he already meant to give; silence is the dignity of
+  having taught.
+- **Bahamut school:** the speech was the testimony the divine
+  required; silence after is reverence.
 
 **Station 10 — The unsigned sting (capstone).** ~7 min. On the back
 of one of Stroud's earliest post-match letters, in a different
@@ -656,15 +730,24 @@ hand, in different ink, written within the past 3 years:
 > *"He let you win, old friend."*
 
 **"Old friend"** most plausibly refers to **Ortho,** not Stroud.
+The annotation is a **Dragon-school text** — it asserts the loss
+was a gift from Protanther to Ortho's bloodline. If accepted,
+both the Stroud school *and* the Bahamut school are invalidated.
+
 Suspect pool (Claude-proposed):
 
-- Protanther himself in mortal-form visit
-- Eli (leading dragon-suspect; sarcastic about the speech)
+- **Protanther himself** in a mortal-form visit (campaign-
+  defining if committed: his public speech was diplomatic; his
+  private truth is the Dragon school)
+- **Eli** (leading dragon-suspect; sarcastic about Protanther's
+  speeches)
 - A Stroud party member who knows something
 - An Ortho descendant rival
 - A messenger or Avowed (lower probability)
 
-Vareth shows it last as the destabilizing capstone.
+Vareth shows it **last** as the destabilizing capstone. For
+Grygum specifically — a Bahamut-school cleric — the sting is a
+*threat to his faith.*
 
 ### Vareth's honest non-answer
 
@@ -759,11 +842,13 @@ Confirm each PC leaves with:
   divine boon
 - [ ] **Thorin:** therapy ritual handout (path-scaled); Brysis's
   name available for Ritual 2; Philemon's sealed letter (Path C
-  only); the scabbard-as-running-joke
+  only); the Vaultmaster Locking Scabbard *hand-on-lock* tension
+  (Philemon's noticing-beat)
 - [ ] **Grygum:** letters of introduction to three other
-  Stroudites; chess problem diagram; four school polemics; Stroud
-  representative letter; the unsigned-sting copy; Yartar-tavern
-  disappointed letter; Gorg'Bahamut folio
+  Stroud-Inspired clerics; Tessarra's Lock chess diagram; **three**
+  school polemics (Stroud / Dragon / Bahamut); boastful Stroud
+  representative letter; the unsigned-sting copy (Dragon-school
+  text); Yartar-tavern disappointed letter; Gorg'Bahamut folio
 - [ ] **Party-wide:** Act 1 surface-threat clock active (T'sarran
   scout or Mizzrym informant); Act 4 cliffhanger contact (Harpers
   recommended)
