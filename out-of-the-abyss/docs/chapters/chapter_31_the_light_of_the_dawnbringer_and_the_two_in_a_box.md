@@ -21,7 +21,7 @@ I groan.
 The sword hears that and exclaims, “I can help you! Please don’t let me go.” 
 Then it must have figured out that I am a monk, and it can’t help me. 
 "You're a monk! Get the fighter over here!”
-  
+
 Grygum mutters, “A talking mace would have been nice.” 
 
 
@@ -54,7 +54,7 @@ Grygyum is surprised it can read and write. The orc is confused that the creatur
 
 
 I roll my eyes. He has never seen the eldritch horrors that exist here in the realms.
- 
+
 As we look around for treasure, we stumble on an invisible chest. Using fairy fire, I outline the box, and Zalthir opens it. 
 
 

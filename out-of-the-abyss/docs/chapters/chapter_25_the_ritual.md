@@ -23,7 +23,7 @@ A statue of a stone giant with a second head emerging from it.*
 Ah. 
 *
 I turn and whisper to the Ember Vanguard, “They are performing some kind of summoning ritual to make the Stone Giants sprout a second head. This probably explains what happened to the Stone Giant that fought us in the Dark Lake District.” 
- 
+
 Thorin wants to rush in, but I caution him, and he listens. Odd. 
 
 

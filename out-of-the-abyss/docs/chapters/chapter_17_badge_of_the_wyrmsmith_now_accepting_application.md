@@ -111,7 +111,7 @@ So to the west he goes.
 
 
 As he walks, he thinks how curious it is that this Derror is a courier for so many factions. But when he gets to the Derro slums, it’s obvious why. The Derro slums are dangerous to anyone. Even from here, it’s evident that the homes of the Derro are mostly burrows carved into the walls and simple structures piled atop one another. The district's dirty and cluttered streets clearly formed as dwellings spread and came together, not as a product of planning. The contrast with the clean, perfect Duergar dwellings is obvious. And the resentment and hatred become apparent. 
- 
+
 And now, why Errde Blackstaff and the Keeper of the Flames were so anxious to find a non-Duergar to come here is clear. 
 
 
@@ -243,7 +243,7 @@ With the chaos still unfolding, Daz knows it’s time to deal directly with Bupp
 
 
 Daz stares at Buppido’s corpse and mutters, “Your divine mission is now over.” 
- 
+
 Session 19 
 ## 10th day of the 1st Tenday of Myrtul 1493
 ### Grygum
