@@ -81,7 +81,7 @@ It’s a familiar token of the Underdark, a clenched fist that expresses loyalty
 
 
 “This Duergar works for the Deepking.” 
- 
+
 The Duergar looks at him, “Yes, I do. And are you the Ember Vanguard or are you its prey?” 
 
 
@@ -144,7 +144,7 @@ Thorin takes the bet and accidentally unbuckles his belt, and his pants fall. We
 
 
 Jimjar smiles as if the goal wasn’t to win or lose the bet but something else, to change our mood. 
- 
+
 Our mood is better, so we decide to visit the giants.  
 
 

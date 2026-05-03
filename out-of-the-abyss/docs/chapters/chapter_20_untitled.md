@@ -123,7 +123,7 @@ Eldgrim laughs, “Small potatoes. I can cancel the contract for a small fee and
 
 
 Thorin whispers to Daz, “Ask them if they have a talism that we can use for safe passage?”
- 
+
 Daz looks at Thorin, “So we can use it to prove they exist later.” 
 
 

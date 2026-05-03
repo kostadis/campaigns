@@ -123,7 +123,7 @@ Zalthir recalls that Sarith’s urge to go to the Myconids increased when he was
 
 
 As I stare at the situation, and mull over the words, “The Dark Lady,” I remember something from my teachings about a demonic power known as the Dark Lady in the holy text The Platinum Chronicle: Discourses on the Abyssal Blight. 
- 
+
 
 
 **Excerpt from The Platinum Chronicle: Discourses on the Abyssal Blight**
@@ -254,7 +254,7 @@ The ground beneath my feet is uneven, tangled with root-like growths that seem t
 
 
 Every step in here feels like walking through a living maze, and these vines seem almost sentient, watching, waiting for a misstep—too much life in a tunnel for my liking. Give me solid stone any day over this… this thing. 
- 
+
 I turn to Grygum and urge caution and quiet. And for a time, it works, and we go through the vine forest. 
 
 

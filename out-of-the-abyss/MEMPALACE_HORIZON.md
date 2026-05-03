@@ -8,25 +8,27 @@ explicit.
 
 ## Current horizon
 
-- **Last campaign chapter played:** 49 — *Out of the Dark and Into the Darkness*
-- **Last bible chapter file:** `docs/chapters/chapter_54_out_of_the_dark_and_into_the_darkness.md`
-- **Last session date:** 2026-04-20
-- **Palace last fully (re)built:** 2026-04-26
+- **Last campaign chapter played:** 50 — *Candlekeep Library and the Littlest Drow in Faerun* (Eldeth farewell, drow-spy "Polly Pocket", Avowed assignments)
+- **Last bible chapter file:** `docs/chapters/chapter_54_candlekeep_library_and_the_littlest_drow_in_faerun.md`
+- **Last session date:** 2026-04-28
+- **Palace last fully (re)built:** 2026-05-03
 - **Embedding device:** CPU (onnxruntime; GPU swap blocked by torch cu13 vs onnxruntime-gpu cu12 mismatch)
 
-> The campaign chapter number (49) and the bible chapter file number
-> (54) are different. The bible has 54 split chapters because four
-> sub-chapters were inserted during the chapter 18 cluster
-> (`# Chapter 18.1`–`18.4` plus `18.05` in the source bible).
+> The campaign chapter number (50) and the bible chapter file number
+> (54) are different. The bible has 54 split chapters because the
+> source contains five sub-chapters in the chapter 18 cluster
+> (`# Chapter 18.05`/`18.1`–`18.4` in `docs/TheUnderdark.md`), and
+> the splitter assigns file numbers by encounter order — so source
+> heading "# Chapter 50" lands as `chapter_54_…` after the offset.
 
 ## Drawer counts at this horizon
 
 | Wing | Source dir | Files | Drawers |
 |------|-----------|-------|---------|
-| `chronicle` | `docs/distill_extractions/` | 54 | 1156 |
-| `narrative` | `docs/chapters/` | 54 | 1170 |
-| `abyss` | root campaign reference | 159 | 1482 |
-| **Total** | | **267** | **3808** |
+| `chronicle` | `docs/distill_extractions/` | 55 | 1547 |
+| `narrative` | `docs/chapters/` | 54 | 1239 |
+| `abyss` | root campaign reference | 173 | 1585 |
+| **Total** | | **282** | **4371** |
 
 Use these as the regression baseline — significant drift on a no-op
 re-mine probably means content was added/removed unintentionally.
@@ -73,9 +75,11 @@ When the user says **"discard, this is the new chapter 0–N"**:
 
 - `~/.mempalace/palaces/abyss.bak.20260425-222447/` — pre-rebuild snapshot from before this work began (pre-renumber, polluted by old splitter)
 - `~/.mempalace/palaces/abyss.bak.20260426-071851-cpu-polluted/` — first CPU re-mine that included `TheUnderdark.md` due to a stale `.mempalaceignore` rule (file had been renamed `The Underdark.md` → `TheUnderdark.md`)
+- `~/.mempalace/palaces/abyss.bak.20260503-100052/` — pre-chapter-50 snapshot (last horizon: chapter 49, narrative wing's chapter files numbered with the old `chapter_01_arrival` prologue prefix)
 
-Safe to delete both once a few sessions confirm the current palace
-is healthy.
+Safe to delete the older two once a few sessions confirm the current
+palace is healthy. Keep `20260503-100052` until the chapter-50
+re-split has been confirmed correct.
 
 ---
 
