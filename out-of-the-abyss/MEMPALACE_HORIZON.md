@@ -8,25 +8,28 @@ explicit.
 
 ## Current horizon
 
-- **Last campaign chapter played:** 49 — *Out of the Dark and Into the Darkness*
-- **Last bible chapter file:** `docs/chapters/chapter_54_out_of_the_dark_and_into_the_darkness.md`
-- **Last session date:** 2026-04-20
-- **Palace last fully (re)built:** 2026-04-26
+- **Last campaign chapter played:** 50 — *Welcome to Candlekeep* (Eldeth farewell, drow-spy "Polly Pocket", Avowed assignments; no bible chapter file yet)
+- **Last bible chapter file:** `docs/chapters/chapter_54_out_of_the_dark_and_into_the_darkness.md` (unchanged — chapter 50 has not been written back into `docs/TheUnderdark.md`)
+- **Last session date:** 2026-04-28
+- **Palace last fully (re)built:** 2026-05-03
 - **Embedding device:** CPU (onnxruntime; GPU swap blocked by torch cu13 vs onnxruntime-gpu cu12 mismatch)
 
-> The campaign chapter number (49) and the bible chapter file number
+> The campaign chapter number (50) and the bible chapter file number
 > (54) are different. The bible has 54 split chapters because four
 > sub-chapters were inserted during the chapter 18 cluster
-> (`# Chapter 18.1`–`18.4` plus `18.05` in the source bible).
+> (`# Chapter 18.1`–`18.4` plus `18.05` in the source bible). Chapter
+> 50 is currently tracked only via `docs/distill_extractions/extract_055.md`
+> and the `summaries/20260427/` raw session data — once it is appended
+> to the bible and re-split, the bible chapter file number will catch up.
 
 ## Drawer counts at this horizon
 
 | Wing | Source dir | Files | Drawers |
 |------|-----------|-------|---------|
-| `chronicle` | `docs/distill_extractions/` | 54 | 1156 |
+| `chronicle` | `docs/distill_extractions/` | 55 | 1547 |
 | `narrative` | `docs/chapters/` | 54 | 1170 |
-| `abyss` | root campaign reference | 159 | 1482 |
-| **Total** | | **267** | **3808** |
+| `abyss` | root campaign reference | 173 | 1587 |
+| **Total** | | **282** | **4304** |
 
 Use these as the regression baseline — significant drift on a no-op
 re-mine probably means content was added/removed unintentionally.
