@@ -49,22 +49,46 @@ Tiamat's attempted summoning, the Cult of the Dragon
 infiltration, the Council of Waterdeep, the metallic-dragon
 alliance.
 
-**The campaign-load-bearing fact:** the war ended at
-**Stroud's Gambit** — the dwarven rogue Stroud, sitting across
-from the ancient gold dragon **Protanther**, played a chess
-position centuries old that none of Protanther's
-four-hundred-year preparation had branched on. Protanther's
-public concession committed the metallic dragons to the
-alliance. The war ended.
+**The campaign has TWO load-bearing heroes from this war,
+canonically distinct in shape:**
 
-**Three years on**, Stroud is *legendary*. The Sword Coast and
-the Western Heartlands are full of Stroud iconography — taverns
-named for him, statues commissioned by guilds, *"Stroud's
-Gambit"* chess problems on inn walls, fashion. **A small
-half-orc Bahamut-cleric tradition has been emerging** in his
-wake; Grygum is one of only four documented Stroudite
-half-orcs (per Vareth's Stroud Wake canon). The party will see
-Stroud everywhere from Mirabar south, peaking in Waterdeep.
+**Stroud the dwarven rogue.** The war ended at **Stroud's
+Gambit** — Stroud, sitting across from the ancient gold dragon
+**Protanther**, played a chess position centuries old that none
+of Protanther's four-hundred-year preparation had branched on.
+Protanther's public concession committed the metallic dragons
+to the alliance. **Stroud is *folkloric*** — taverns, songs,
+fashion, *"Stroud's Gambit"* chess problems on inn walls. **A
+small half-orc Bahamut-cleric tradition has been emerging** in
+his wake; Grygum is one of only four documented Stroudite
+half-orcs (per Vareth's Stroud Wake canon).
+
+**Milo Goodbarrel, halfling cleric of Bahamut.** Renowned member
+of the **Order of the Gauntlet.** Author of multiple volumes of
+his account of the war, **published in Waterdeep by Rishaal the
+Pageturner.** First book a *"huge success;"* by his last
+Waterdeep signing on the 10th day of the 3rd Tenday of Uktar,
+Rishaal was pressuring him for a sequel to revitalize sales.
+The book signing three days after his arrival was *"a hit"* —
+specifically for new artwork Milo crafted depicting the
+mountain-top meeting between the metallic dragons and **the
+First Faction.** Milo views adventures as opportunities for
+*painting, sculpture, and writing,* not just text. **He is
+*institutional*** — Order of the Gauntlet shrines, Bahamut
+chapter houses, formal hagiographies, lay-saint status in some
+Bahamut traditions. ⭐ **Daz has found a copy of *Milo
+Goodbarrel's account of the War of the Dragons* and reads from
+it constantly.** Daz cites **Malfire** (Milo's companion in the
+books) at every available opportunity — *"As Malfire said in
+Volume 3"* (chapter 54). The party's running joke; Mike's
+quiet character beat.
+
+**Two heroes, two registers.** Stroud is the player; Milo is the
+institution. Stroud is the song; Milo is the seal. The party
+will see *both* iconographies from Mirabar south, peaking in
+Waterdeep — Stroud at the taverns and statues, Milo at the
+chapter houses and Order of the Gauntlet shrines, **Milo's books
+on every Waterdeep bookshop's front shelf.**
 
 **Visible aftermath:**
 - Tiamat-cultist trial sites in major cities, marked with
@@ -75,6 +99,10 @@ Stroud everywhere from Mirabar south, peaking in Waterdeep.
 - **Stroudite pilgrims** walking the High Road in twos and
   threes — half-orc converts, robed grey, often heading to
   Waterdeep or Candlekeep.
+- **Order of the Gauntlet shrines and Bahamut chapter houses**
+  carry Milo's iconography — a multimedia signature: paintings
+  of the First Faction meeting, sculptures of Malfire, and
+  copies of his books in the chapter library.
 
 ### War of the Giants (recent — within the past year)
 
@@ -250,6 +278,21 @@ shifts.
   him on the spot. *"Brother. Have you heard the Witness call?
   Are you walking the road for Stroud?"* Grygum may engage or
   decline; Vareth's fuller account waits at Candlekeep.
+- **Milo is here too — quietly.** A small **Order of the
+  Gauntlet shrine** in the temples' quarter holds a sculpted
+  bronze frontispiece reproduction of *Milo Goodbarrel's
+  account, Volume 1.* No polemicist; no recruiting. Two
+  half-orc lay brothers tend the shrine in shifts. **Daz, if
+  he visits, can flip through the chapter library and find
+  Volumes 1 and 2** (Volume 3 is sold out and on backorder
+  from Rishaal's printers in Waterdeep — a brother apologizes
+  for the wait). Daz can purchase Volume 1 here if he doesn't
+  already have it; **the Volume-3 acquisition waits for
+  Waterdeep itself.** A small framed painting on the wall —
+  attributed to Milo, signed in his hand — depicts a halfling
+  in monastic robes with one open palm raised. **The
+  *Auditor* persona** the canon mentions, painted by Milo
+  himself.
 - A **Sjurkar priest** (lesser dragon-cult; Mirabar tolerates
   them as long as they keep to copper-and-bronze talk and
   carry **Concordant Order seals** — chivalric license issued
@@ -462,6 +505,54 @@ Waterdeep met here, the metallic alliance was sealed here, and
   pull out the diagram Vareth will eventually hand him at
   Candlekeep** and read it directly off the statue). A small
   brass plaque: *"This is the position. The move is yours."*
+- ⭐ **Milo Goodbarrel is here at the source.** Castle Ward
+  has **Rishaal the Pageturner's** — Milo's publisher's
+  bookshop and printing house. **A Daz beat the GM should not
+  miss.** The shop's front window has Volumes 1 and 2 of
+  *Milo Goodbarrel's account of the War of the Dragons*
+  prominent; Volume 3 is in a small *just-released* display
+  case. Above the cash desk hangs **the framed original
+  painting from Milo's last book signing** — the **mountain-
+  top meeting of the metallic dragons and the First Faction**
+  — visibly the artwork that made the signing *"a hit."*
+  - **Rishaal himself** is here three days a week — a graying
+    half-elf with ink-stained fingers and a pince-nez. He is
+    *delighted* to see Daz reach for Milo's books and will
+    happily talk about Milo's process. *"He delivered Volume
+    3 nine months ago. Sales had declined when he came to
+    town for the signing — but the painting brought them back.
+    Real-world fiction enthusiasts, you understand. They are
+    exasperating, but they buy three copies of every corrected
+    edition."*
+  - **Daz can buy Volume 3** here. **Mike will recognize the
+    title page.** ⭐ The shop attendant tells him *"this is the
+    fourteenth printing"* — meaning Daz is holding a recently-
+    pressed copy. The book has been in continuous reprint.
+  - **Real-world fiction fans** are at the back of the shop
+    arguing animatedly about a passage in Volume 2 — *"He
+    couldn't have flown there in two days from Triboar, the
+    weather report from that tenday explicitly said —"*
+    Daz can ignore them or join. **If Daz joins, he is
+    welcomed as a fellow scholar of the text.**
+  - **Operational-security texture** (per canon): **the
+    Silver Dragon Otaaryliakkarnos / Eli is *not named*** in
+    Milo's published volumes. The fans note the absence with
+    frustration. The volume Vareth holds at Candlekeep — the
+    *Order-of-the-Gauntlet primary-source category* edition —
+    has the same omission. Connects forward: **Eli is one of
+    the council dragons in Vareth's Stroud Wake** (Station 3,
+    per `notes/threads/post_candlekeep_open_threads.md`).
+    Same dragon, two literary registers, both missing the
+    name.
+- **The Order of the Gauntlet chapter house** in the Sea Ward
+  — institutional Bahamut + Tyr + Torm + Helm presence; **Milo
+  is a lay-saint here.** A bronze sculpture of Malfire (Milo's
+  companion in the books) stands in the chapter foyer. Joe will
+  want a rubbing of the inscription. The chapter sergeant
+  recognizes Grygum's holy symbol; the Order has been quietly
+  watching the half-orc Bahamut conversion phenomenon and is
+  *very* polite to Grygum. **Banked thread:** a possible Order
+  of the Gauntlet ally at Gauntlgrym in the OOTA endgame.
 - **Stroudite pilgrims** in grey robes pass through Castle
   Ward. Half-orc clerics carrying single books to donate at
   Candlekeep. **Three of them recognize Grygum's holy symbol**
@@ -584,6 +675,16 @@ for a night.
   Castle Ward statue in Waterdeep. Vareth would find this
   significant; a Stroud-school sponsorship of a Bahamut
   paladin's monument is a deliberate iconographic move.
+- **And — Order of the Gauntlet co-sponsorship.** A second
+  inscription, smaller, in Common, on the back of the pillar
+  (most visitors miss it; DC 12 Investigation): *"Witnessed
+  and recorded for the Gauntlet — Milo Goodbarrel, by the
+  hand of his publisher, ledger of the year ____."* Tarvis was
+  Order of the Gauntlet; **Milo personally signed off on the
+  Daggerford monument's official record.** Daz can flag this.
+  ⭐ **Trophy plant:** the village priest carries a small
+  reproduction medallion of Tarvis's hand cast in pewter.
+  *"For donations to the Gauntlet."* Joe will buy one.
 - *Daggerford itself was lightly touched by the dragon war and
   not at all by the giant war.* The quiet is something else.
 - **Acute surface-madness incident:** at the inn a young mother
@@ -766,6 +867,9 @@ Things to track from the travelogue:
 |---|---|---|
 | Mirabar smith commissions | Episode 2 | Joe's call. Any item upgraded by dwarven runic work — note the work. |
 | Daz's fitted Calishite cloak | Waterdeep | **5-mile social-cover item**; reduces drow-recognition rolls in surface settings. Wears it until something specific changes. |
+| **Milo Goodbarrel — Volume 3** (and possibly Volumes 1 & 2 if Daz didn't have all three) | Waterdeep — Rishaal the Pageturner's | ⭐ **Daz reads from these throughout the campaign.** Mike's quiet character beat — Daz cites Malfire from Volume 3 as a running gag (chapter 54 canon). Multimedia: also includes a small print of the First-Faction painting Milo signed at the last signing event. |
+| **Order of the Gauntlet pewter Tarvis-hand medallion** | Daggerford | Joe trophy. Quiet Order-of-the-Gauntlet calling card the party can present at the OOTA endgame Gauntlgrym contact. **Banked thread.** |
+| **Order of the Gauntlet Sea Ward chapter — knowing about Grygum** | Waterdeep | The chapter has noted Grygum politely. Banked: possible institutional ally at Gauntlgrym. |
 | Dawnbringer scabbard finishing-work | Waterdeep | Smith was kind. Dawnbringer warmed slightly. **First soft beat in the Philemon hand-on-lock dynamic.** |
 | Grygum's *Hagiography of the Dragon-Born Faithful, Vol III* | Waterdeep | Mentions Stroud unconvinced. **Vareth finds this delicious in Session 4 Stroud Wake.** |
 | Zalthir's brass shadow-puppet hand | Waterdeep | GM-banked. Gabe's choice when to deploy. |
