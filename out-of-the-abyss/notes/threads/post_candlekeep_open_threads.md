@@ -18,20 +18,69 @@ session is played; promote anything that becomes load-bearing to
 - Pulled three years ago by **Brother Hilmin Thaer.**
 - Hilmin died of natural causes 18 months ago, weeks after a
   private audience with a visitor whose name was never logged.
-- Daz keeps the empty tube as a clue object.
+- Daz keeps the empty tube as a clue object. **No DeVir name on
+  the tube** — the *Fourth-Seat erasure* thread is run separately
+  (see above).
 - **Status:** cold by design. Not chaseable from this archive.
   Vizeran Stage 4 reveal still sealed.
 
-**The DeVir survivor list.**
+**The Fourth-Seat erasure (the DeVir trail, run as cipher).**
 
-- Three confirmed House DeVir survivors per Yvenne's research:
-  two dated and verified deceased, **one *"location unknown,
-  records purged"*** — the third entry feels recent.
-- The Daz'issin nickname appears as a footnote in a 200-year-old
-  heraldry book. House DeVir nursery name meaning *"small
-  shadow."*
-- **Status:** Mike has the pieces; whether Daz connects them is
-  Mike's choice.
+> **Canon note:** the name DeVir is **never spoken at
+> Candlekeep.** Mike triangulates the *shape of the erasure* and
+> fills in the missing name himself. Vizeran speaks DeVir back
+> into existence at Stage 4 in his Menzoberranzan safe-room. See
+> `docs/daz_devir_narrative_arc.md` and `notes/sessions/candlekeep_day_one.md`
+> for the full DC ladder.
+
+Three pieces of evidence Mike triangulates from Yvenne's
+sittings and from independent Atheneum research:
+
+- **The Fourth Seat (struck).** In Yvenne's "extinct in living
+  memory" list of Houses, every entry is named — *except one,*
+  which is rendered as *"the Fourth Seat (struck)."* In Drow
+  archive convention, *struck* = formal annihilation with
+  surviving claimants barred. *Named* = clean line-failure. The
+  Fourth Seat held arcane-archive primacy in Menzoberranzan
+  jurisprudence. **Politically expensive erasure.**
+- **The *Daz'issin* footnote.** A 200-year-old heraldry book in
+  the Atheneum's nursery-name stacks contains a footnote: *"Daz'issin:
+  lit. 'small shadow.' Recorded usage: nursery name, second sons
+  of the Houses sub-tier. See app. 4 [missing]."* The appendix
+  has been **razor-cut** from the binding. Investigation 18 to
+  date the cut at 50+ years old — **institutional erasure.**
+- **The fresh-ink survivor redaction.** Locked behind 4+ Yvenne
+  disclosure ticks. A folio for **[REDACTED HOUSE]** lists three
+  survivors — two dated and verified deceased, one *"location
+  unknown, records purged."* The redacted house-name is **recent
+  ink** (Arcana 19, ink-aging) — within years, not decades.
+  **The conspiracy is alive and current.**
+
+**The synthesis** (Investigation DC 20, or 18 with Yvenne's
+5-tick framing question): a house that was the Fourth Seat used
+the name *Daz'issin*, was formally annihilated, and one of its
+three survivors is alive somewhere — and someone with current
+institutional reach is still actively erasing the trail. **Mike
+fills in his own name from his own paranoia.**
+
+**Trophies the party leaves Candlekeep with:**
+
+- The empty T'sarran cutout scroll-tube (see next thread).
+- A transcribed copy of the *Daz'issin* footnote (the book
+  itself stays in Candlekeep). **No DeVir name on the
+  transcription.**
+- Yvenne's signed dating-note on the survivor-list redaction:
+  *"This ink is not original. Composition consistent with the
+  past five years."*
+- **No DeVir name in any artifact.** The name does not exist in
+  party hands until Vizeran says it.
+
+**Status:** evidence in Mike's pack; synthesis may or may not
+have clicked at Candlekeep. If it has, **Vaelissa T'sarran's
+mirror investigation becomes a race the party knows the rules
+of** — promote that to active thread. If it hasn't, Vizeran's
+Stage 4 line lands the synthesis: *"You found two of them at
+Candlekeep. You saw a third you may not have understood yet."*
 
 **Vaelissa T'sarran's mirror investigation.**
 

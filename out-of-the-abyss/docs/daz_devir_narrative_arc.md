@@ -45,6 +45,7 @@ First-contact canon:
 - Vizeran confirms that the Duskryn extraction contract was his — placed through cutouts, with the mercs deliberately kept blind.
 - Vizeran frames the party as the mechanism to both end the demon plague and shatter Lolthite clerical rule.
 - Vizeran is canonical with the line: *"You are not the best option. You are the only option. I have looked."* He has tried the alternatives. They do not work. The full failure-mode canon is in `daz_heir.md` §VII.
+- Vizeran is **the first person in the campaign world to speak the name DeVir aloud in Daz's hearing.** The Candlekeep arc delivers the *erasure-shape* only; the name itself is reserved for this safe-room. Vizeran's canonical addendum: *"Your house is DeVir. Your name is Daz'issin. The Fourth Seat. The Orthodoxy struck the name from every public record in the Realms. They missed three things. You found two of them at Candlekeep. You saw a third you may not have understood yet."* See "Candlekeep canon" below.
 
 ## Act I: The Ghost Name
 
@@ -62,6 +63,65 @@ Timing in updated adventure:
 - Beat A: Post-Blingdenstone departure / return-to-city arc begins.
 - Beat B: Early infiltration and low-Heat city movement ("Ghost" to "Rumors").
 - Delivery method: ambient social tells only, fully deniable.
+
+### Candlekeep canon — the erasure-shape, not the name
+
+The Candlekeep arc (campaign chapter 50 / `notes/sessions/candlekeep_murders_arc.md`)
+is the canonical Beat A delivery. **The name *DeVir* is never
+spoken at Candlekeep.** The Orthodoxy and House Do'Urden have
+spent centuries scrubbing the public record, and Candlekeep is
+*the public record.* Sister Yvenne is institutionally barred
+from naming the struck house.
+
+Mike triangulates the **shape of the erasure** through three
+obscured pieces, each gated by Yvenne's disclosure-trade ticks
+and DC-graded skill rolls:
+
+1. **The Fourth Seat (struck).** Yvenne's "extinct in living
+   memory" list names every entry except one, which is rendered
+   *struck.* Drow archive convention: *struck* = formal
+   annihilation with surviving claimants barred. The Fourth Seat
+   in Menzoberranzan jurisprudence held arcane-archive primacy.
+2. **The *Daz'issin* footnote.** A 200-year-old heraldry book
+   in the Atheneum's nursery-name stacks records *Daz'issin* as
+   a sub-tier nursery name; the appendix that would specify the
+   house has been **razor-cut** from the binding. The cut is
+   datable to 50+ years ago — institutional erasure.
+3. **The fresh-ink survivor redaction.** Locked behind 4+
+   disclosure ticks. A folio for **[REDACTED HOUSE]** lists
+   three survivors; one *"location unknown, records purged."*
+   The redacted house-name is **recent ink** — within years,
+   not decades. The conspiracy is alive and current.
+
+**Synthesis** (Investigation DC 20, 18 with 5-tick framing):
+*a house that was the Fourth Seat used the name Daz'issin, was
+formally annihilated, and one of its three survivors is alive
+somewhere — and someone with current institutional reach is
+still actively erasing the trail.* **Mike fills in his own name
+from his own paranoia.** The character (Daz) gets none of this
+— the Sharran vault holds. Vault leak DCs are also live at
+Candlekeep (Wis 13 to resist; Arcana 17 to recognize the
+phenomenon; Arcana 20 to identify the binding type). See
+`docs/daz_heir.md` §III–§VI for vault mechanics.
+
+**Vizeran's Stage 4 line gains a canonical addendum**
+acknowledging Mike's Candlekeep work:
+
+> *"Your house is DeVir. Your name is Daz'issin. The Fourth
+> Seat. The Orthodoxy struck the name from every public record
+> in the Realms. They missed three things. You found two of them
+> at Candlekeep. You saw a third you may not have understood
+> yet."*
+
+This is the **first time DeVir is spoken aloud in Daz's
+hearing** in the campaign world. The two-month Candlekeep →
+Stage 4 gap is *ripening,* not dead time. The synthesis lands
+harder for being said by the right person at the right moment.
+
+If Mike missed the synthesis Investigation roll at Candlekeep,
+Vizeran's line is the trigger — Vizeran prompts the gestalt with
+the new evidence in the room. The roll re-triggers; the answer
+arrives.
 
 ## Act II: Manufactured Erasure
 

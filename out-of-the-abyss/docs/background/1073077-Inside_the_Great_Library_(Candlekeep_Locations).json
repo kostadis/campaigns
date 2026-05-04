@@ -1,0 +1,1171 @@
+{
+	"_meta": {
+		"sources": [
+			{
+				"json": "1073077I",
+				"abbreviation": "1073077I",
+				"full": "1073077-Inside the Great Library (Candlekeep Locations)"
+			}
+		]
+	},
+	"book": [
+		{
+			"name": "1073077-Inside the Great Library (Candlekeep Locations)",
+			"id": "1073077I",
+			"source": "1073077I",
+			"contents": [
+				{
+					"name": "Contents",
+					"headers": [
+						"Inside the Great Library"
+					]
+				},
+				{
+					"name": "Candlekeep: Inside the Great Library",
+					"headers": [
+						"Candlekeep Locations"
+					]
+				},
+				{
+					"name": "Random Library Generator",
+					"headers": [
+						"Random Library Generator",
+						"Random Librarian Generator"
+					]
+				}
+			]
+		}
+	],
+	"bookData": [
+		{
+			"id": "1073077I",
+			"source": "1073077I",
+			"data": [
+				{
+					"type": "section",
+					"name": "Contents",
+					"id": "000",
+					"entries": [
+						{
+							"type": "entries",
+							"name": "Inside the Great Library",
+							"id": "001",
+							"entries": [
+								{
+									"type": "entries",
+									"name": "South Inner Ward",
+									"id": "002",
+									"entries": [
+										{
+											"type": "entries",
+											"name": "Exaltation",
+											"id": "003",
+											"entries": [
+												"The vast bastion where the Avowed sleep, dine, study and pray"
+											]
+										},
+										{
+											"type": "entries",
+											"name": "High Tower",
+											"id": "004",
+											"entries": [
+												"Home to the War Library, Laboriums, Skyscraping Lobby and the High Tower Library"
+											]
+										},
+										{
+											"type": "entries",
+											"name": "High Tower Library",
+											"id": "005",
+											"entries": [
+												"Restricted vault that contains a cryptogram and the lightning orb that powers Candlekeep's wards"
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Keeper's Tower",
+											"id": "006",
+											"entries": [
+												"Home to the private quarters of the Keeper of Tomes and his servant, plus reception and shrine to Oghma"
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Readers' Tower",
+											"id": "007",
+											"entries": [
+												"Home to the private chambers of the Great Readers, as well as the Great Readers' Lounge."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Bell Tower",
+											"id": "008",
+											"entries": [
+												"Topped by a belfry, this tower is also home to Candlekeep's guest suites (and several prison cells)"
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Ceremonial Hall",
+											"id": "009",
+											"entries": [
+												"Exaltation's main hall where important ceremonies take place, such as the robing of a new Keeper"
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Chapter House",
+											"id": "010",
+											"entries": [
+												"A meeting room for the high ranking members of the Avowed"
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Oratory",
+											"id": "011",
+											"entries": [
+												"A large chapel where the Avowed gather for communal prayers and other religious services"
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Refectory",
+											"id": "012",
+											"entries": [
+												"Exaltation's main dining hall"
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Southern Dining Hall",
+											"id": "013",
+											"entries": [
+												"An elegant dining hall for entertaining guests and other special occasions"
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Reading Salon",
+											"id": "014",
+											"entries": [
+												"A large reading lounge protected by a permanent zone of silence"
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Southern Gallery",
+											"id": "015",
+											"entries": [
+												"A wide corridor leading to a multitude of classrooms"
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Western Gallery",
+											"id": "016",
+											"entries": [
+												"Home to classrooms, workshops, a study hall, lecture theatre and debating room"
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Philosopher's Court",
+											"id": "017",
+											"entries": [
+												"A triangular courtyard flanked by stoas. An oversized chessboard occupies the centre."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "The Grove",
+											"id": "018",
+											"entries": [
+												"Rocky gardens with several bridges and a woodland cemetery"
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "West Inner Ward",
+									"id": "019",
+									"entries": [
+										{
+											"type": "entries",
+											"name": "Sea Warden's Tower",
+											"id": "020",
+											"entries": [
+												"The home base of the Gatewarden and the majority of the Watchers, who sleep and train here"
+											]
+										},
+										{
+											"type": "entries",
+											"name": "The Arcanium",
+											"id": "021",
+											"entries": [
+												"A huge library dedicated to the various schools of arcane magic, which also houses the Hall of Divination"
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Towers of Wonder",
+											"id": "022",
+											"entries": [
+												"A library dedicated to magic items and wondrous objects"
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Immortal Chambers",
+											"id": "023",
+											"entries": [
+												"A library dedicated to theology and religion"
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Jewel of the Styx",
+											"id": "024",
+											"entries": [
+												"A library made from an old pirate warship containing mostly nautical tomes and charts"
+											]
+										},
+										{
+											"type": "entries",
+											"name": "The Old Keep",
+											"id": "025",
+											"entries": [
+												"An neglected library containing mostly uncategorised books, as well as histories of Candlekeep"
+											]
+										},
+										{
+											"type": "entries",
+											"name": "House of Mechanus",
+											"id": "026",
+											"entries": [
+												"A library dedicated to construction, engineering, technology, horology and chronomancy"
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Oak Tree Apothecary",
+											"id": "027",
+											"entries": [
+												"A tree-house pharmacy that also contains a private library of botanical tomes"
+											]
+										},
+										{
+											"type": "entries",
+											"name": "The Cursed Tower",
+											"id": "028",
+											"entries": [
+												"An abandoned tower sealed off after a failed arcane experiment. Home to the Beast of Candlekeep."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Founders Court",
+											"id": "029",
+											"entries": [
+												"A court celebrating the ancient founders of Candlekeep"
+											]
+										},
+										{
+											"type": "entries",
+											"name": "House of Alaundo",
+											"id": "030",
+											"entries": [
+												"Contains copies of all of the seer's many prophecies, plus fragments of the originals"
+											]
+										},
+										{
+											"type": "entries",
+											"name": "House of Records",
+											"id": "031",
+											"entries": [
+												"The Avowed's (rather futile) attempt to catalogue their collection"
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "North Inner Ward",
+									"id": "032",
+									"entries": [
+										{
+											"type": "entries",
+											"name": "The Infernal Fortress",
+											"id": "033",
+											"entries": [
+												"A library dedicated to the Abyss and the Nine Hells"
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Pavilion Naturalis",
+											"id": "034",
+											"entries": [
+												"A library dedicated to natural sciences, flora and fauna"
+											]
+										},
+										{
+											"type": "entries",
+											"name": "The Atheneum",
+											"id": "035",
+											"entries": [
+												"A sprawling complex consisting of separate libraries related to politics and society"
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Temple of Law",
+											"id": "036",
+											"entries": [
+												"A library dedicated to law and legal decrees"
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Echoing Hall",
+											"id": "037",
+											"entries": [
+												"A library dedicated to history"
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Heritage House",
+											"id": "038",
+											"entries": [
+												"A library dedicated to world cultures and traditions"
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Drakonoikos",
+											"id": "039",
+											"entries": [
+												"A library entirely dedicated to dragons"
+											]
+										},
+										{
+											"type": "entries",
+											"name": "School of Drama",
+											"id": "040",
+											"entries": [
+												"A library dedicated to theatre. The library also holds an auditorium."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Pillars of Poetry",
+											"id": "041",
+											"entries": [
+												"A library dedicated to poetry"
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Tower of Tall Tales",
+											"id": "042",
+											"entries": [
+												"A library dedicated to fables and stories"
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "East Inner Ward",
+									"id": "043",
+									"entries": [
+										{
+											"type": "entries",
+											"name": "Hall of Momentous Deeds",
+											"id": "044",
+											"entries": [
+												"A library dedicated to heroes and adventurers"
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Whispering Dome",
+											"id": "045",
+											"entries": [
+												"A dome where the inspirational words of dead heroes still echo"
+											]
+										},
+										{
+											"type": "entries",
+											"name": "The Melodrome",
+											"id": "046",
+											"entries": [
+												"A repository of songs with a magical device to play them"
+											]
+										},
+										{
+											"type": "entries",
+											"name": "The Astronomicon",
+											"id": "047",
+											"entries": [
+												"A library dedicated to astronomy and star charts, which also features an observatory"
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Oval Theatre",
+											"id": "048",
+											"entries": [
+												"A large open air theatre for staging artistic and sporting spectacles"
+											]
+										},
+										{
+											"type": "entries",
+											"name": "The Rotunda",
+											"id": "049",
+											"entries": [
+												"A repository of maps"
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Library Generator",
+									"id": "050",
+									"entries": [
+										"A tool to help DMs quickly improvise a new library building"
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Librarian Generator",
+									"id": "051",
+									"entries": [
+										"A tool to help DMs quickly improvise a memorable librarian NPC"
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"type": "section",
+					"name": "Candlekeep: Inside the Great Library",
+					"id": "052",
+					"entries": [
+						{
+							"type": "entries",
+							"name": "Candlekeep Locations",
+							"id": "053",
+							"entries": [
+								"The Great Library constitutes the vast majority of Candlekeep, and is also referred to as the Inner Ward. A sprawling complex of domes, palaces, turrets, townhouses and spires, virtually every building beyond the Emerald Door is a library of sorts, although not even the oldest within the Avowed are familiar with every last vault and archive contained within, especially as many exist below ground.",
+								"Given that only the Avowed are allowed to pass freely through the Emerald Door, little of what lies in the Great Library has reached outside ears. Those seekers who are privileged enough to be invited inside, as special guests or on a mission of the utmost importance, must rely on the knowledge of the usually young and enthusiastic adjutants that are assigned to them. Once such adjutant is Fembris Lancer, and it's thanks to his observations that this guide to the Great Library has been recorded for posterity.",
+								{
+									"type": "entries",
+									"name": "Candlekeep Maps",
+									"id": "054",
+									"entries": [
+										"The buildings in this guide are all found on the Mike Schley map that comes with Candlekeep Mysteries. Similarly, you should be able to identify them easily on the original Marco Bernardini map, which comes with Elminster's Candlekeep Companion.",
+										"Virtually all of the libraries in this guide have a curator, who is in charge of enhancing the library's collection and ensuring it fulfills its role as a functioning source of knowledge, as well as at least one dedicated librarian. During daylight hours, librarians can usually be found in the library itself, overseeing its daily usage, while ensuring that its contents are handled with care by any visitors."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "South Inner Ward",
+									"id": "055",
+									"entries": [
+										"The South Inner Ward is the highest part of the volcanic crag upon which the library-keep sprawls. It is known for its rocky gardens, fast-flowing streams, waterfalls and bridges and, of course, Candlekeep's enormous bastion, Exaltation.",
+										{
+											"type": "entries",
+											"name": "Exaltation",
+											"id": "056",
+											"entries": [
+												"The vast bastion of Exaltation is where the Avowed sleep, eat, study and pray. It is described on p.14-15 of Candlekeep Mysteries, which mentions that \"the halls of Exaltation connect to its classrooms, kitchens, bakeries, dining halls, shrines, workshops, offices, study halls, scriptoriums, and dormitories.\" In addition, you can find these specific locations:",
+												{
+													"type": "entries",
+													"name": "High Tower",
+													"id": "057",
+													"entries": [
+														"The lower levels of the High Tower contain a grand Lecture Theatre and the War Library, where a huge table is capable of displaying illusory reconstructions of famous battles. The middle section of the High Tower holds three Laboratoriums dedicated to arcane experimentation—each chamber has powerful wards designed to protect the community from mishaps. The tower's top tiers contain the Skyscraping Lobby, a wide circular, light-filled hall where special guests are taken to admire the views, but which is usually left unused and considered off-limits for normal members of the Avowed. Importantly, the Skyscraping Lobby provides the only point of access to the High Tower Library, that sits above the lobby.",
+														"The staircase leading up to the library is guarded at all times by a Watcher (mage), who permits nobody but the Keeper of Tomes to pass."
+													]
+												},
+												{
+													"type": "entries",
+													"name": "High Tower Library",
+													"id": "058",
+													"entries": [
+														"The High Tower Library is rumoured to contain Candlekeep's most valuable—and dangerous—tomes, and for that reason only two people have the key: the Keeper of Tomes and the Gatewarden. The latter is only allowed to enter with the former's permission however.",
+														"In fact, the High Tower Library contains but one book, which lies open beneath an indestructible glass case, displaying its middle two pages. These pages contain a beautifully adorned cryptogram, which hides the location of the Candlekeep's true forbidden library: the so-called 'Vault of Secrets.' The cryptogram exists as a safety measure, so that in the case of the simultaneous deaths of the two Keepers of Secrets (i.e. the Keeper of Tomes and the Gatewarden), the location of the Vault of Secrets is not lost forever, but remains findable by a worthy seeker. You can find the cryptogram puzzle in Candlekeep Murders.",
+														"The High Tower Library also contains the ancient lightning orb device, which has powered the protective wards of Candlekeep through the ages, by harnessing the energy of the frequent lightning bolts that strike the top of the High Tower. The lightning orb is fixed into a stone mount and is all but impossible to move or destroy, however it can be deactivated using an action on a successful DC 20 Intelligence (Arcana) check. Reactivating it takes 10 minutes and a similar check.",
+														"The reinforced door of the High Tower Library requires a DC 25 to pick using thieves tools or a DC 30 to break down using Strength (Athletics). It is additionally protected by an arcane lock, cast with a 9th level spell slot. An {@spell alarm} spell triggers in the minds of both the Keeper of Tomes and Gatewarden should anyone touch the door.",
+														"Additionally, the entire library is protected by a permanent casting of {@spell mordenkainen's private sanctum}, and the windows of this tower-upon-a-tower have been impermeably sealed with stones. The library is also warded against magic such as {@spell passwall}, so that the front door is the only realistic means of entering."
+													]
+												},
+												{
+													"type": "entries",
+													"name": "Keeper's Tower",
+													"id": "059",
+													"entries": [
+														"East of the High Tower is the Keeper's Tower, and, true to its name, the top level and attic consist of the Keeper of Tomes' private chambers. The level below is occupied by an elderly female gnome called Miss Hollypocket, who acts as a servant to Janussi (see Candlekeep Murders). The lower levels contain a reception chamber and a shrine to Oghma."
+													]
+												},
+												{
+													"type": "entries",
+													"name": "Reader's Tower",
+													"id": "060",
+													"entries": [
+														"Immediately west of the High Tower rises the Reader's Tower, which holds the private chambers of each of the Great Readers in its upper levels. Half of the topmost level houses the First Reader's quarters (currently a dragonborn sage called Bookwyrm), while the other half is split into two chambers for the seniormost Great Readers. All three of these chambers have a second floor that extends into the attic. In the tower's lower levels are the Great Readers' Lounge and a library dedicated to the publications of the most learned Avowed throughout the ages."
+													]
+												},
+												{
+													"type": "entries",
+													"name": "Bell Tower",
+													"id": "061",
+													"entries": [
+														"Exaltation's westernmost tower is topped by the belfry from which Candlekeep's bells toll the hours, from 6am to midnight. The rest of the higher part of the tower is taken up by guest suites that are rarely used, while the lower parts house Candlekeep's prison cells. These surprisingly comfortable quarters each have a small, barred window, and are enveloped by a localised antimagic field. They are very rarely used, as anyone found guilty of committing a major offense in Candlekeep is swiftly exiled."
+													]
+												},
+												{
+													"type": "entries",
+													"name": "Ceremonial Hall",
+													"id": "062",
+													"entries": [
+														"This grand hall is adorned with tapestries and statues of the most distinguished Keepers of Tomes, and is used during important ceremonies, such as the swearing in of new acolytes (each new member of the Avowed must speak their vows in a zone of truth), and the robing of a new Keeper of Tomes."
+													]
+												},
+												{
+													"type": "entries",
+													"name": "Chapter House",
+													"id": "063",
+													"entries": [
+														"The Chapter House is Exaltation's executive meeting room, and sits under the gables of its green slanted roof, opposite Readers' Tower. A distinctive rose window allows natural light to stream in, while a dodecagonal table has places for the Keeper of Tomes, the First Reader, the eight Great Readers, the Gatewarden and the Lorekeeper, making a council of up 12. Benches on either side of the room allow for other parties to be summoned to sit in council."
+													]
+												},
+												{
+													"type": "entries",
+													"name": "Oratory",
+													"id": "064",
+													"entries": [
+														"The Oratory juts out of the main bastion of Exaltation in a north easterly direction. This high-ceilinged room is dedicated to community prayer and meditation, and its walls are decorated with narrow, 20-feet-high stained glass windows that dapple the floor with blue, turquoise and mauve light. The far end of the room features a large marble statue of Oghma, carrying a scroll that tumbles down to the ground and is flanked by two smaller statues: one carry a candle and quill (Deneir), the other a harp (Milil). In front of the statue is a pulpit, from where the Lorekeeper (currently Kei Tigersteel) addresses the Avowed on spiritual matters."
+													]
+												},
+												{
+													"type": "entries",
+													"name": "Refectory",
+													"id": "065",
+													"entries": [
+														"This huge hall sits underneath the Ceremonial Hall and is where breakfast (8-9am), lunch (12-2pm) and dinner (6-7pm) are served to the Avowed. The monk-scholars sit on plain benches and eat off trestle tables. Lower ranked Avowed take turns to perform serving duty. A high table seats the Great Readers, Gatewarden and the Keeper of Tomes."
+													]
+												},
+												{
+													"type": "entries",
+													"name": "Southern Dining Hall",
+													"id": "066",
+													"entries": [
+														"This refined dining room is used by high-ranking Avowed for entertaining special guests, or on special occasions like Deadwinter Supper. It sits above the Reading Salon, under a triangular roof. An attractive rose window allows natural light in."
+													]
+												},
+												{
+													"type": "entries",
+													"name": "Reading Salon",
+													"id": "067",
+													"entries": [
+														"Officially called the Reading Salon, many members of the Avowed refer to this as the Silent Salon, due to the permanent {@spell silence} spell that prevails here. Most of the order relish the silence, enjoying the opportunity to sink into one of the room's comfy armchairs and read by the natural light of the salon's many lancet windows (most Avowed live in shared dormitories, with one small embrasure if they're lucky, so to enjoy both quiet and natural light indoors is a rare luxury)."
+													]
+												},
+												{
+													"type": "entries",
+													"name": "Southern Gallery",
+													"id": "068",
+													"entries": [
+														"A wide and light walkway that leads to the Reading Salon, the Southern Gallery contains half a dozen classrooms."
+													]
+												},
+												{
+													"type": "entries",
+													"name": "Western Gallery",
+													"id": "069",
+													"entries": [
+														"The Western Gallery links the Bell Tower and the Readers' Tower, and also contains dozens of classrooms and workshops, a study hall, lecture theatre and debating room."
+													]
+												},
+												{
+													"type": "entries",
+													"name": "Philosopher's Court",
+													"id": "070",
+													"entries": [
+														"This triangular courtyard is arguably Candlekeep's most social spot, with members of the Avowed gathering to stroll the stoas, debate, pontificate and share jokes and stories at all times of day and seasons, but particularly after dinner. Chequered flagstones in the middle of the patio form a huge chessboard, with 3-feet-high marble pieces, and games here often draw large audiences, and even clandestine bets."
+													]
+												}
+											]
+										},
+										{
+											"type": "entries",
+											"name": "The Grove",
+											"id": "071",
+											"entries": [
+												"The Grove is a pleasant garden under Exaltation, shielded from the often harsh sea breezes by high walls, and containing plenty of leafy shade during summer. Notable features include a covered bridge named the Pont de Paramours and a woodland cemetery where every successive Keeper of Tomes is buried."
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "West Inner Ward",
+									"id": "072",
+									"entries": [
+										"The West Inner Ward contains several of Candlekeep's most prestigious libraries and is also the main base of Candlekeep's Watchers.",
+										{
+											"type": "entries",
+											"name": "Sea Warden's Tower",
+											"id": "073",
+											"entries": [
+												"Back in the days when the threat to Candlekeep from the sea was considered significant, this stout, thick-walled tower was established to house a Sea Warden to guard against maritime monsters and thieving pirates, and served as a living space and training ground for the library's Watchers. As naval vessels from Amn, Baldur's Gate and Waterdeep civilised the straits of the Sword Coast, the post became obsolete, however the tower continues to house the majority of the citadel's Watchers, as well as an armoury of magic weapons (and other items that could be used in the defense of the library) and several sparring rooms.",
+												"Recently, Gatewarden Kalan Strongbranch decided to relocate his private quarters from the dark and dingy rooms in the Gatehouse to the spacious upper floor of this seaward tower—earning the disapproval of the Keeper of Tomes in the process. Aside from enjoying the lighter, roomier quarters, the Sea Warden's Tower is nearer both the Arcanium, where Kalan conducts the majority of his private research, and the Chambers of Lost Lore (p.16 Candlekeep Mysteries). The Gatewarden has become a regular visitor to the latter, weaving his way through the many underground passages to consult an otherworldly being."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "The Arcanium",
+											"id": "074",
+											"entries": [
+												"The Arcanium building is shaped like a long grandiose hall, with a large transept on its southern side. It runs along Candlekeep's western wall, and adjoins the Sea Warden's Tower on its northern side.",
+												"As the name suggests, the Arcanium is a library dedicated to the study of the arcane and has sections given over to ever major school of magic. Each section contains hundreds of spellbooks, as well philosophical treatises, research notes and theories.",
+												"The aforementioned transept houses the Hall of Divination, the largest single area within the Arcanium. Not only does the hall house a mighty collection of books on divination magic, but it also contains a divining pool and several scrying mirrors that can be used to spy on the goings-on in the halls of power in major cities around Faerûn. (Some Great Readers have debated the morality of this, however, most of this scrying is done legally, albeit using contracts signed centuries ago).",
+												"The Arcanium is one of Candlekeep's most lavishly furnished libraries with marble floors, mahogany bookshelves and a plethora of priceless pieces of art. Perhaps the most peculiar thing about it, for newcomers, is the army of spectral mage hands that clasp brooms and dusters, hold out chairs for visitors and fetch tomes from the highest shelves. Indeed, it is forbidden to touch any of the books in the library and the mage hands will place them on a lectern or table for the reader and even turn the pages for them. Should anyone try to touch a book, they will slap the scholar's hand as a reminder of the rules. Books can only be removed with the permission of either the curator or librarian.",
+												"Curator: Teles Ahvoste",
+												"Librarian: Adeilina, an authoritarian high elf archmage who loves cleanliness and order."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Towers of Wonder",
+											"id": "075",
+											"entries": [
+												"The Towers of Wonder are a series of spires on the westernmost point of the Inner Ward. The walls of these hollow towers are lined, top to bottom, with a huge collection of tomes dedicated to magic items and other wondrous objects. As there are no stairs or floors, scholars levitate up and down the spires on floating disks to browse the library's collections and its common to see members of the Avowed sitting cross-legged on such a disk, consulting a tome in mid-air.",
+												"Curator: Teles Ahvoste",
+												"Librarian: Fonkin, a talkative gnome sage who loves recounting tales and making reading suggestions."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Immortal Chambers",
+											"id": "076",
+											"entries": [
+												"This series of green-roofed, rectangular buildings sit between the Towers of Wonder and the House of Mechanus, and form a library dedicated to theology and religion. The floors of the library have been decorated with tiles, each bearing the symbol of a deity.",
+												"Curator: A'lai Aivenmore",
+												"Librarian: Pizwog, an ancient tortle sage who is happy to help visitors… but moves, talks and acts at 1 mph."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Jewel of the Styx",
+											"id": "077",
+											"entries": [
+												"Named after the pirate warship from which it was constructed, this unique library is given over to nautical tomes: including accounts of naval battles, navigational charts, maritime monsters, and works of seafaring fiction. The Jewel of the Styx is usually referred to as the \"Barnacled Bibliotheque\" or \"the Ark-ives\" by the Avowed, most of whom are unaware of its official name.",
+												"Every day at midnight an ethereal crew of wights materialise to sweep the decks, hoist imaginary sails, sing lewd shanties and swig rum. Naturally, most of the Avowed avoid the library at all costs during this time, but in fact this ghostly crew have come to consider Candlekeep their home. They will attack anyone they believe not to be Avowed, but they can't move more than 100 feet from the ship. They disappear in the pre-dawn."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "The Old Keep",
+											"id": "078",
+											"entries": [
+												"One of the oldest buildings in Candlekeep, this was the original bastion built, millennia ago, to defend the library from looters and other ill-doers. It is a rather neglected corner of the Great Library and contains histories of Candlekeep itself, including several copies of Megfry's Candlekeep Miscellanea, a once popular (but now largely forgotten) slim tome of obscure facts and figures. The Old Keep also houses crumbling parchment records from its early years in an antiquated form of common, as well as books, deemed of little academic interest, that were never filed and categorised properly from those early years. Several suits of animated armor are ready to come to life in the case of anyone trying to remove anything from the library; however no one ever does.",
+												"Curator: Janussi",
+												"Librarian: None. The job is deemed too boring to foist on any poor soul."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "House of Mechanus",
+											"id": "079",
+											"entries": [
+												"The House of Mechanus is a large, rectangular building with blue slate roof and appended clock tower. It sits between the Immortal Chambers and Founder's Court. It is a library dedicated to construction, engineering, and technology. The library is notable for its sophisticated lifts (the polished mechanisms of which are on display), cog-powered shelf-rotation system, and the moving clockwork models exhibited in the main hall.",
+												"Candlekeep's 13 modrons are usually found working here, under the direction of Spanner, the librarian.",
+												"The building's clock tower features a masterfully constructed astronomical clock on its exterior that charts the hours and the movements of the planets. Its interior is filled with books that study horology, physics and chronomancy.",
+												"Curator: Janussi",
+												"Librarian: Spanner, a rock gnome magewright who spends most of his time maintaining the library's many moving parts."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Oak Tree Apothecary",
+											"id": "080",
+											"entries": [
+												"The Oak Tree Apothecary is a wooden treehouse constructed in the boughs of a huge evergreen oak tree located between the Sea Warden's Tower and the House of Mechanus. An elderly, rather absent-minded, satyr druid called Leuwin lives in one section of the treehouse (along with Nibbles, his pet squirrel), while the rest stores ointments, balms and medicines of all kinds, which the satyr prepares himself using herbs he grows in greenhouses at the base of the oak tree. The satyr is visited several times a day by members of the Avowed in search for remedies for their various ailments. Leuwin also keeps a private library of books related to botany, herbalism and medicine, with some rare tomes on the flora and fungi of the Feywild. He is happy for others to use his library."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "The Cursed Tower",
+											"id": "081",
+											"entries": [
+												"This ruined turret was the site of a dangerous arcane experiment that went wrong, many centuries ago, killing several monks. Even the most powerful spellcasters amongst the Avowed were not able to suppress the evil energy that prevails here, and the decision was made simply to seal it off and abandon it. All of the doors are sealed with arcane locks and wooden signs have been nailed to them warning folks not to trespass. Inside, the bottom floors are mostly rubble, with a broken staircase leading around the tower's circumference up to a series of upper floors that are mostly intact. There's nothing of apparent value remaining in the tower, just broken furniture, smashed vials and other wrecked apparatus, mundane and arcane.",
+												"Recently, Sylvira Savikas's demonspawn son, Moziqodo, has made the Cursed Tower his home, having escaped the Mordenkainen's mansion his mother had trapped him in. The Beast of Candlekeep (see Candlekeep Murders) enjoys roaming the roofs of the Great Library at night, disappearing into the shadows at the first sign of a Watcher or other member of the Avowed. The half eaten remains of dozens of pigeons, doves, gulls and crows litter the circumference of the tower, lending it more notoriety as a bedeviled place.",
+												"The air within the Cursed Tower is cold, rank and unnatural and any non-fiend or undead creature who spends 10 minutes in the area must succeed on a DC 13 Constitution saving throw or suffer a level of exhaustion. They must succeed on the same saving throw every hour thereafter, suffering cumulative levels of exhaustion on each failure."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Founders Court",
+											"id": "082",
+											"entries": [
+												"This quadrangle court is surrounded by four hollow walls which form passages you can walk through. The interior of these walls are decorated with tapestries that show Candlekeep being founded and built over many centuries. Four turrets, on each corner of the court, celebrate a different founder, while a central building, known as the House of Alaundo, acts as a repository of the many prophecies of Candlekeep's most famous monk.",
+												{
+													"type": "entries",
+													"name": "House of Alaundo",
+													"id": "083",
+													"entries": [
+														"The House of Alaundo stands in the middle of Founder's Court. The ground floor stretches to the top of the building, but there is a gallery level that forms a mezzanine. The ground floor features a large brass statue of Alaundo bearing quill and inkpot, mounted upon a large dais. A common superstition states that if you touch the quill you will write a well critiqued piece of academia, and the brass on its tip is certainly well worn.",
+														"Those who solve the cryptogram hidden in the High Tower Library (p.4) will discover a riddle, which might lead them to fill Alaundo's inkpot. Should they do so, the statue will slide back on its dais to reveal a long set of stairs that lead down towards the Vault of Secrets. (More details on the Vault of Secrets can be found in Candlekeep Murders).",
+														"The second floor gallery contains copies of Alaundo's nine volumes of prophecies, as well as display cases showing original fragments of his prophecies written in his own hand (in an antiquated form of common). These fragments are displayed behind protective glass.",
+														{
+															"type": "inset",
+															"name": "The Echoes of Alaundo",
+															"id": "084",
+															"entries": [
+																"On p.15 of Candlekeep Mysteries we read that the prophecies of the Seer were recorded into prismatic gemstones by a wise novitiate and stored in a vault beneath Candlekeep for posterity. And that only the First Reader and Keeper know how to coax forth these \"Echoes of Alaundo\". This seems to represent some confused thinking as on p.6 we read that \"Candlekeep has the largest repository of written lore in Faerûn, including the collected prophecies of an ancient sage named Alaundo the Seer.\"",
+																"Given that the Avowed are expected to take part in the Endless Chant, we must suppose that the content of the Seer's prophecies are commonly available in verbal form as well, and that many scribes may even know fragments or even all of them by heart.",
+																"In order to make the Echoes of Alaundo valuable, therefore, I propose that these recordings are the only testament to the final—and most foreboding—prophecies of the Seer, made after his frail hands were too weak to hold the quill. Some of them may be considered so powerful that they are held in the Vault of Secrets."
+															]
+														},
+														"Curator: Janussi",
+														"Librarian: Inda, a half-orc sage with a reverential respect for Alaundo. Indeed, she secretly worships him as a deity."
+													]
+												}
+											]
+										},
+										{
+											"type": "entries",
+											"name": "House of Records",
+											"id": "085",
+											"entries": [
+												"This L-shaped building can be found just south of Founders Court, and is also known simply as the Registry. In theory, it contains a record of every book ever to pass through Candlekeep's gate and into the Great Library. In practice, various accidents and incidents, and clerical errors, means the catalogue is far from complete. In addition, the catalogue itself is badly catalogued, to the extent that the Avowed joke it is easier to find a specific book by scouring the Great Library, than by looking for its record in the Registry (an exaggeration, but it's far from a foolproof tool)."
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "North Inner Ward",
+									"id": "086",
+									"entries": [
+										"The North Inner Ward contains the highest concentration of libraries in Candlekeep, and as such is abuzz with robed scholars from morning til evening time.",
+										{
+											"type": "entries",
+											"name": "The Infernal Fortress",
+											"id": "087",
+											"entries": [
+												"This imposing structure is constructed from avernium, a strange black alloy found in Avernus that glimmers a bright fiery red in moonlight. The ground floor houses a large library dedicated to the Nine Hells and the Abyss, their fiendish denizens and their earthly cults. Its invariably sinister tomes are attached to the black metal shelves with thick chains, meaning they can't be removed, even to a study area (if one is lucky the chain stretches to a nearby lectern).",
+												"The upper rooms of the Infernal Fortress include several summoning chambers, which a small number of the Avowed use to summon devils and demons to be bound and consulted. These rooms contain wards that make this risky practice as safe as possible—but accidents have been known to happen, and any summoning needs the express permission of the Keeper of Tomes, and some strong proof of competency in the field.",
+												"The library's central hall features a lava pool and fountain, and the air is thick and hot throughout the structure. Indeed, many Avowed forgo their sense of unease to frequent the library in winter, when it is one of the warmest places in Candlekeep.",
+												"Curator: Sylvira Savikas",
+												"Librarian: Gruxlug the Tiny is a small, bent-over half-orc warlock of the fiend, who shuffles around the library muttering to himself. He doesn't like visitors."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Pavilion Naturalis",
+											"id": "088",
+											"entries": [
+												"This library dedicated to natural sciences is crowned with the translucent spiralling shell of a vast mollusk, and visitors may walk up this shell and consult the books that are shelved here. The building stores Candlekeep's largest collection of books on flora and fauna, and also contains hundreds of display cases of fossils, dead insects and stuffed lizards, while illusionary butterflies and humming birds flit through the air. The pavilion has a central hall where the bones of a Tyrannosaurus Rex have been reconstructed to create an impressive, life-size display.",
+												"Curator: Kazryn Nyantani",
+												"Librarian: Frondu, a wisened firbolg sage obsessed with the bizarre mating habits of various creepy crawlies."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "The Atheneum",
+											"id": "089",
+											"entries": [
+												"The Atheneum is a large complex of buildings in the north section of the Inner Ward that house libraries to do with politics, history and society. Some of the most visited include:",
+												{
+													"type": "entries",
+													"name": "Temple of Law",
+													"id": "090",
+													"entries": [
+														"This triangular-roofed building sits atop of a doughty bastion and contains all manner of legal manuscripts and codices by leaders of empires and kingdoms past and present."
+													]
+												},
+												{
+													"type": "entries",
+													"name": "Echoing Hall",
+													"id": "091",
+													"entries": [
+														"This towering, domed rotunda contains floor upon floor of historical tomes, surrounding a large central well. The footsteps of scholars echo loudly throughout the library long after they've stood still, reminding scholars that the echoes of history can still be felt in the present."
+													]
+												},
+												{
+													"type": "entries",
+													"name": "Heritage House",
+													"id": "092",
+													"entries": [
+														"This building resembles a merchant's townhouse and sits next to the Echoing Hall. It serves as a repository of cultures and traditions from every corner of Faerûn. Many of its tomes were penned by travelling bards, and scholars often have trouble separating fact from fiction."
+													]
+												},
+												"Curator: Fheminor Scrivenbark",
+												"Librarian: Longwalker, a broad-chested goliath (thug with History +6) whose obsession with health and safety is at odds with their love of the brutal sport of Casketball."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Drakonoikos",
+											"id": "093",
+											"entries": [
+												"The preserved remains of an ancient red dragon called Fyrentennimar is reinforced with stonework in this library of dragon-related tomes and manuscripts. Several rooms are made entirely of the wyrm's hollowed out carcass, with bones for pillars and scales for walls, ceiling and floor.",
+												"One contentious chamber within the library contains the \"Dragon Breath Simulation Room\", constructed many years ago by a wizardly member of the Avowed who wanted to know if he could survive the impact of a dragon's breath weapon. The room contains five taxidermied heads, arranged above the entrance: one of each of an adult white, black, red, green and blue dragon. Anyone wishing to test their endurance can enter and stand opposite these heads and call out their chosen colour in draconic. Should they do so, they must make a Constitution save against the selected dragon's breath weapon (note: the resulting dragon breath is illusory, but it feels VERY real!). If they are not reduced to 0 hit points by the illusion, then they survive without losing any hit points, but take one level of exhaustion, recovered on a short rest. If the illusion reduces them to 0 hit points, they fall unconscious, taking psychic damage instead of the dragonbreath's usual damage. They don't have to make death saving throws to regain consciousness, but when they do so they have half their usual hit points and two levels of exhaustion, only one of which can be recovered on a short rest.",
+												"Curator: Bookwyrm",
+												"Librarian: Thava Norixius is an elderly dragonborn mage and arguably the world's leading dragon scholar."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "School of Drama",
+											"id": "094",
+											"entries": [
+												"This purple-roofed building has a pentagonal heart, annexed to which are four distinct wings. Each wing is dedicated to a school of theatre, namely: romance, tragedy, comedy and historic drama, and each contains thousands of works in that style. The pentagonal heart contains a Grand Entry Hall on the ground level, and a theatre on the second level. A magical statue of the renowned halfling bard, Batbayar, in the Entry Hall, bows if anyone applauds him.",
+												"Curator: Daral Yashenti",
+												"Librarian: Kitt Remington, an extravagant tabaxi bard who likes to perform lengthy monologues from his favourite plays to no one in particular."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Pillars of Poetry",
+											"id": "095",
+											"entries": [
+												"The Pillars of Poetry are dedicated to verse, with each of the four pillars housing a specific style of works, namely: epic, satirical, erotic and eulogistic. Between the pillars, on the roof, is mounted a huge golden statue of legendary scholar-poet, Lyronell, presenting the heavens with a book of his verses.",
+												"Curator: Daral Yashenti",
+												"Librarian: Symonas, a willowy young wood elf sage who is so shy they hide behind shelf and pillar to avoid having to talk to visitors."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Tower of Tall Tales",
+											"id": "096",
+											"entries": [
+												"This tall weathered tower, with blue-green conical roof, is Candlekeep's foremost repository of fiction. Many scholars consider these works (many of which purport to tell true stories) as worthless, while others delight in the fantastic fables and the imagination of their authors. Heated debates sometimes take place amongst Loremasters and Great Readers about whether to give credence to an author's work, or to consign their volumes to this oft derided collection.",
+												"Curator: None",
+												"Librarian: Hobert, a pudgy halfling sage who imagines himself to be the hero in many of the tower's tales, sliding along the smooth flagstones and sparring with an invisible rapier as he reads aloud."
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "East Inner Ward",
+									"id": "097",
+									"entries": [
+										"The East Inner Ward is a diverse corner of Candlekeep, with several highly specialised libraries.",
+										{
+											"type": "entries",
+											"name": "Hall of Momentous Deeds",
+											"id": "098",
+											"entries": [
+												"The Hall of Momentous Deeds is a library dedicated to famous heroes and adventurers, and features tens of thousands of hagiographies of significant individuals through the ages, and accounts of their exploits.",
+												{
+													"type": "entries",
+													"name": "Whispering Dome",
+													"id": "099",
+													"entries": [
+														"Atop of the library's enormous square base, sits the Whispering Dome, a large golden hollow with the ability to magically inspire those that enter, drawing from the many heroic words contained within the library's texts. To be inspired, a creature must enter the dome alone and meditate there in silence for 1 minute. When they do so, the hallowed words of a long dead hero will whisper throughout the dome and exhort the listener to greater deeds. If a player observes this practice, roll on the Words of Inspiration table, or simply select an appropriate phrase for them. The benefit is a one time benefit, and a creature can only be inspired by one quote at a time.",
+														{
+															"type": "entries",
+															"name": "Words of Inspiration Table",
+															"id": "100",
+															"entries": [
+																{
+																	"type": "list",
+																	"items": [
+																		"1 - \"The words of one well-spoken woman can achieve more than the deeds of a thousand well-armed men.\" ({@b Hero:} Erika the bard) - {@b Effect:} You are inspired by a new line of argument. You can reroll one Charisma check you fail.",
+																		"2 - \"What doesn't kill you better be a fast runner.\" ({@b Hero:} Henrik the barbarian) - {@b Effect:} You gain advantage on all your attack rolls for one round against a single target that has already attacked you in combat.",
+																		"3 - \"If you can conquer your fear, you can conquer the Nine Hells and beyond.\" ({@b Hero:} Estelle the paladin) - {@b Effect:} You can reroll one failed saving throw against being frightened with advantage.",
+																		"4 - \"The bigger they are, the more important it is to hit them in the balls…\" ({@b Hero:} Ollie the rogue) - {@b Effect:} If you roll a 19 against a creature at least one size larger than you, you may treat it as a critical hit.",
+																		"5 - \"Life is short, glory is eternal…\" ({@b Hero:} Jamelia the fighter) - {@b Effect:} You may use your choice of a reaction or bonus action to gain a number of temporary hit points equal to {@dice 3d6} plus your level. These hit points are lost if you retreat from combat.",
+																		"6 - \"If first you don't succeed, ask the gods for help!\" ({@b Hero:} Saswyn the cleric) - {@b Effect:} If you fail on an ability check to complete a task, on the following round you may attempt the same check with advantage.",
+																		"7 - \"Fortune favours the rogue.\" ({@b Hero:} Killian the pirate) - {@b Effect:} You gain advantage on one Stealth, Deception or Sleight of Hand ability check. If you succeed on that check you may gain advantage on a second related task, at the DM's discretion.",
+																		"8 - \"The Weave never runs dry… sometimes you just have to dig deep to use it.\" ({@b Hero:} Lavinia, the wizard) - {@b Effect:} If you run out of spell slots, you may regain one spell slot of your highest level (maximum 5th). When you cast a spell using this regained slot you gain a level of exhaustion."
+																	]
+																}
+															]
+														}
+													]
+												},
+												"Curator: Fheminor Scrivenbark",
+												"Librarian: Essavorn, a phlegmatic half elf sage who has lost his lust for life."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "The Melodrome",
+											"id": "101",
+											"entries": [
+												"The Melodrome is built in the style of a municipal hall with modern glass windows and terracotta tiled roof. It is a library of countless songs and verses through the ages, the majority in human, elven, or dwarvish tongues. Down the years, the library's curators have prioritised obtaining texts with neumes or other music notation, so that the song's melodies can be preserved for posterity.",
+												{
+													"type": "entries",
+													"name": "Jook's Box",
+													"id": "102",
+													"entries": [
+														"Undoubtedly the library's most notable feature is the strange-looking contraption at the top of the Melodrome's single turret, designed by a music-loving wizard named Jook, many centuries ago. Jook's Box, as it is known, is capable of playing any tune held within the library, using a silver piece as a material component to power the magic melody. One must simply insert the coin into a slot in the contraption and name the song. At this point, the tiny top floor of the Melodrome's turret magically expands so that whoever activated the box finds themselves in a large auditorium surrounded by an ethereal orchestra of legendary bards of the past and their various instruments. The bards seem composed of light and are sucked back into the box when the song ends, while the room returns to its usual dimensions."
+													]
+												},
+												"Curator: Daral Yashenti",
+												"Librarian: Vedda, a rebellious 20-something human sage who ignores their duties in order to concentrate on composing their own tunes."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "The Astronomicon",
+											"id": "103",
+											"entries": [
+												"One of Candlekeep's most distinctive constructions, the Astronomicon is fashioned from a series of opaque blue globes protruding from a blue dome base. It functions as an observatory and astronomical library in one. The astronomical library occupies the building's ground floor dome, and is notable for its zero gravity field. The library's books float freely around the dome, encased in glassy forcefields that are solid to the touch. To open these bubble-cases one must press one's palms upon them for 5 seconds, after which they 'pop' open and a scholar is able to handle and read the book, while floating around the dome. When a book is released a bubble forcefield forms around it once more.",
+												{
+													"type": "entries",
+													"name": "The Orrery",
+													"id": "104",
+													"entries": [
+														"The Astromonicon's largest globe is called the Orrery. This is also a zero gravity space and features a vast three-dimensional animated illusion of all the known planets, moons and solar bodies in the immediate galaxy."
+													]
+												},
+												{
+													"type": "entries",
+													"name": "Stargazer",
+													"id": "105",
+													"entries": [
+														"The highest positioned globe of the Astronomicon features a giant telescope, which certain members of the Avowed use to track the movement of the planets. The globe, known as Stargazer, splits open to allow unfettered access to the night skies."
+													]
+												},
+												{
+													"type": "inset",
+													"name": "Combat in Zero Gravity",
+													"id": "106",
+													"entries": [
+														"If combat breaks out in the Astronomicon consider how zero gravity might affect the combatants. Movement would depend on leverage and changes of direction, mid-move, would be almost impossible to pull off. Clashes of blades might send foes spinning off in opposite directions (making the grapple attack an important option).",
+														"The floating, bubble-encased books are not heavy enough to affect movement, but offer an unpredictable amount of cover to range attacks (all ranged attacks suffer a {@dice 1d6} penalty on the roll to simulate this shifting cover)."
+													]
+												},
+												"Curator: Kazryn Nyantani",
+												"Librarian: Rodry, an earnest young dwarf sage."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "The Oval Theatre",
+											"id": "107",
+											"entries": [
+												"The Oval Theatre is a partially covered rink, with tiered seating surrounding an oval stage. The theatre is used by the Avowed to stage plays and other artistic performances, but it is never as lively as when the order's favourite sport, Casketball, is being played. Teams of four or five compete to throw or slam a heavy, leatherbound cork ball into the opposing team's casket. Punching, gouging and casting spells are all forbidden, but pretty much anything else goes in this important physical outlet for the usually cerebral monks. (For rules on Casketball see Candlekeep Murders)."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "The Rotunda",
+											"id": "108",
+											"entries": [
+												"The Rotunda is a library of cartography with thousands of maps of Faerûn and beyond, located on the eastern wall of the Inner Ward, just west of the Pillars of Pedagogy. Most of the maps held within are stunning to behold, although some are rather fanciful (viz. wildly inaccurate).",
+												"The Rotunda's most important maps are displayed behind protective glass, on the walls. One of them is a map of Candlekeep itself (although as it is over 50 years old, it is rather out of date).",
+												"Curator: Alkrist",
+												"Librarian: Kofu, a very serious and refined kenku sage, whose love of gazing at maps (esp. those that take an aerial perspective) stems from what they miss as a flightless bird."
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"type": "section",
+					"name": "Random Library Generator",
+					"id": "109",
+					"entries": [
+						{
+							"type": "entries",
+							"name": "Random Library Generator",
+							"id": "110",
+							"entries": [
+								"The Random Library Generator is a tool that allows DMs to quickly imagine one of Candlekeep's many collections, within the sprawling Great Library, in enough detail to bring it to life at the table. You can use the following tables randomly, or just pull details from them to make a coherent and fun space for your players to explore, either with an encounter in mind, or whenever they need to unexpectedly consult a tome. (Note: while seekers are not usually permitted in the Great Library, there are plenty of situations DMs can devise that will allow them to do so, and satisfy their desire to explore this fantastic location…. Like investigating the murder of the Keeper of Tomes).",
+								{
+									"type": "entries",
+									"name": "Building Structure",
+									"id": "111",
+									"entries": [
+										{
+											"type": "list",
+											"items": [
+												"{@dice d8} 1-4: A number of mezzanine floors around a central hall / well that extends to the top of the building.",
+												"{@dice d8} 5-6: A series of floors, one on top of each other (either a tower or house).",
+												"{@dice d8} 7: A series of floors, split by adjacent half floors (creating a zig-zag of floors).",
+												"{@dice d8} 8: A series of rooms on a single floor (segueing off a hall or central passage)."
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Interior Walls",
+									"id": "112",
+									"entries": [
+										{
+											"type": "list",
+											"items": [
+												"{@dice d6} 1: Austere grey stonework (with protruding buttresses).",
+												"{@dice d6} 2: Beautiful red brickwork, reinforced by iron supports.",
+												"{@dice d6} 3: Mahogany, oak, or cedar wood panelling.",
+												"{@dice d6} 4: Plasterwork with reliefs (religious motifs, curious beasts, heroic deeds).",
+												"{@dice d6} 5: Hanging tapestries, depicting battles, coronations, disasters or prophecies.",
+												"{@dice d6} 6: Unusual material, such as dragon bones, giant turtle shell, rare metal, glass or precious stone."
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Ceiling",
+									"id": "113",
+									"entries": [
+										{
+											"type": "list",
+											"items": [
+												"{@dice d6} 1: Vaulted stone / brick ceiling, steeped in shadows.",
+												"{@dice d6} 2: Dome decorated with motifs relating to the library contents, with clerestory windows around the base.",
+												"{@dice d6} 3: Brightly coloured frescoes depicting the deeds of Oghma, Deneir, Gond or Milil.",
+												"{@dice d6} 4: Faded mosaics of battles, hunts or rituals of a long dead culture (the mosaic was transposed in the library's construction, many centuries ago).",
+												"{@dice d6} 5: A magical depiction (glowing or animated, or both) of the cosmos, a creation myth, dragon flight or other epic scene.",
+												"{@dice d6} 6: Gothic chandeliers holding hundreds of candles that drip wax onto the floor below."
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Book Storage System",
+									"id": "114",
+									"entries": [
+										{
+											"type": "list",
+											"items": [
+												"{@dice d10} 1: High shelves with ladders.",
+												"{@dice d10} 2: Towering shelves accessible using floating disks.",
+												"{@dice d10} 3: Shelves which can be lowered and raised using a pulley system.",
+												"{@dice d10} 4: Remote shelves with books fetched by invisible servants, imps, pixies, or pseudodragons.",
+												"{@dice d10} 5: Books stored on shelves with sliding glass panels, which are kept locked (librarian has the keys).",
+												"{@dice d10} 6: Books stored on rotating carousels, or 'book wheels'.",
+												"{@dice d10} 7: Books stored on unusually-shaped shelves (V-shaped, diamond or honeycomb).",
+												"{@dice d10} 8: Books filed in racks made out of iron, wood, rope, ceramics or bone (the rib cage of a strange beast).",
+												"{@dice d10} 9: Books are stored in 'upcycled' wardrobes, pianos, cupboards, drawers, ship crates, grandfather clocks etc.",
+												"{@dice d10} 10: Books are stacked on the floor in huge horizontal piles."
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Condition",
+									"id": "115",
+									"entries": [
+										{
+											"type": "list",
+											"items": [
+												"{@dice d10} 1-3: Pristine (clean, tidy, marble and brass polished to a fine sheen).",
+												"{@dice d10} 3-5: Generally clean and well kept, but with well-worn furnishings.",
+												"{@dice d10} 6-7: Messy, with dust and cobwebs, and books left in piles on desks and other surfaces (instead of shelved).",
+												"{@dice d10} 8-9: Leaking roof, crumbling stonework, rotting beams and/or draught from a broken window.",
+												"{@dice d10} 10: Locked, or even barred. Unused for many years, with thick dust and cobwebs everywhere."
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Distinguishing Feature",
+									"id": "116",
+									"entries": [
+										{
+											"type": "list",
+											"items": [
+												"{@dice d20} 1: Hundreds of mirrors mounted on the walls to reflect the natural light given by a few small embrasures.",
+												"{@dice d20} 2: The library is designed without a single straight line, with curved tables, door frames and beams, and sinuous walls and columns.",
+												"{@dice d20} 3: A really low ceiling, forcing even Medium size creatures to nearly double over.",
+												"{@dice d20} 4: A complex meteorological station that can predict the weather, as well as measure the tides and timings of dusk and dawn each day.",
+												"{@dice d20} 5: Dozens of aerial walkways that link mezzanine levels and galleries.",
+												"{@dice d20} 6: A landscaped interior garden with flower beds, water features and trellises.",
+												"{@dice d20} 7: A huge tree growing through the middle and sprouting out the roof, its ancient roots intertwined with the library's stonework. Fungi and creeping vines also grow in this wild garden.",
+												"{@dice d20} 8: A clowder of cats first introduced to keep the mice at bay, and now adopted by the Avowed.",
+												"{@dice d20} 9: An aquarium with bright exotic fish, or reptile terrarium with chameleons and small, highly venomous snakes that need feeding daily by the librarian.",
+												"{@dice d20} 10: One huge taxidermied owlbear, manticore, or wooly mammoth, or a larger collection of smaller beasts.",
+												"{@dice d20} 11: A colony of bats, which has made its home there.",
+												"{@dice d20} 12: A menagerie of bright-feathered birds, whose tweets amuse some while enraging many more.",
+												"{@dice d20} 13: A parrot with the ability to answer three questions uncannily accurately once a day (see {@spell commune} spell). The parrot was a troublesome witch who was polymorphed into bird form as punishment.",
+												"{@dice d20} 14: Magic mouths that appear to shush noisy readers, admonish those who put books back in the wrong place, or forget to close the library door. The mouths all speak with a heavy lisp.",
+												"{@dice d20} 15: The statue of a famous scholar-bard who speaks a joke every 10 minutes. \"Yesterday a book fell on my head…. Well I only have my shelf to blame!\" \"What building has the most stories…. A library of course!\" \"The past, present and future walked into a tavern…talk about a tense situation.\" \"Why do robbers never break into libraries…? They are terrified of long sentences\". \"Recently I started reading a book on anti-gravity…I haven't been able to put it down.\"",
+												"{@dice d20} 16: Animated tapestries that recount the explorations of a famous scholar-adventurer.",
+												"{@dice d20} 17: The ghosts of half a dozen dwarf miners who died on this rock long before Candlekeep was constructed.",
+												"{@dice d20} 18: The library is pitch black, but every piece of text in the library glows.",
+												"{@dice d20} 19: Trampoline-style launch pads allow scholars to jump to higher levels, while everyone in the library is constantly under the effect of {@spell featherfall}.",
+												"{@dice d20} 20: A permanent {@spell silence} spell takes effect across the entire library."
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Study Areas",
+									"id": "117",
+									"entries": [
+										{
+											"type": "list",
+											"items": [
+												"{@dice d8} 1-3: Regularly-placed desks in the library's central hall.",
+												"{@dice d8} 4-5: Regularly-placed desks spaced out along each gallery / balcony.",
+												"{@dice d8} 6: Cubicle desks or armchairs in small alcoves along the library's side walls.",
+												"{@dice d8} 7-8: Dedicated study rooms aside of the central hall with either chairs [1-4], study benches [5] or bean bags [6].",
+												"{@dice d8} 9-10: Lecterns (standing desks), either between bookshelves or in a dedicated study area."
+											]
+										}
+									]
+								}
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Random Librarian Generator",
+							"id": "118",
+							"entries": [
+								"The most memorable part of any visit to a library is likely to be the players' interaction with its librarian(s). In Candlekeep each book collection within the Great Library has both a curator and a librarian. The latter is usually ever-present at the library, as they are responsible for opening and closing it each day (if it closes) and for upholding Candlekeep's rules and good conduct within the library. DMs may wish to use the following table to insert a readymade custodian, or to help inspire their own creation.",
+								{
+									"type": "list",
+									"items": [
+										"{@dice d20} 1: {@b Giselbert} (Human) — Refuses entry to non-Avowed. Needs to see a signed letter from the Keeper of Tomes.",
+										"{@dice d20} 2: {@b Thalgrit} (Dwarf) — Follows seekers around everywhere suspiciously. Pretends not to be doing so.",
+										"{@dice d20} 3: {@b Hagre} (Elf) — Insists on complete silence, at all times. Ejects anyone on a second infringement. And is an archmage.",
+										"{@dice d20} 4: {@b Fanut} (Gnome) — Insists that gloves be used when handling books.",
+										"{@dice d20} 5: {@b Clover} (Halfling) — Wants to know all about seeker's origins, their ancestry, their religious practices etc.",
+										"{@dice d20} 6: {@b Quinelle} (Half-Elf) — Ignores seekers and any requests for help. (Their research shouldn't be disturbed by tourists).",
+										"{@dice d20} 7: {@b Brosh} (Half-Orc) — Hates bright lights. Old, gruff and grumpy.",
+										"{@dice d20} 8: {@b Qhow-qhoq} (Aarakocra) — Loves recanting Candlekeep lore and stories.",
+										"{@dice d20} 9: {@b Iszkarax} (Dragonborn) — Keeps sneezing, has a dust allergy.",
+										"{@dice d20} 10: {@b Windbreaker} (Firbolg) — Friendly and flatulent. Anyone nearby must pass a DC 5 Constitution saving throw or be poisoned for 1 minute.",
+										"{@dice d20} 11: {@b Slider} (Genasi, earth) — Moves from room to room by passing through the walls. (Something that tends to surprise first time visitors).",
+										"{@dice d20} 12: {@b Prux} (Goblin) — Blind (Candlekeep has a decent collection of 'night written' books - using raised dots - and several more magical speaking books).",
+										"{@dice d20} 13: {@b Aurgak} (Goliath) — Scared of mice.",
+										"{@dice d20} 14: {@b Kelpu} (Kenku) — Croaks in rhyming couplets. \"Hello my name is Kelpu, how can I help you?\"",
+										"{@dice d20} 15: {@b Frazzle} (Kobold) — Has an encyclopaedic knowledge of dragons.",
+										"{@dice d20} 16: {@b Simba} (Tabaxi) — Narcoleptic.",
+										"{@dice d20} 17: {@b Dharxikas} (Tiefling) — Extremely patronising. Questions seekers' scholarly credentials (and even their ability to read and write in some cases).",
+										"{@dice d20} 18: {@b Kogg} (Tortle) — Almost totally deaf from old age (carries a horn as a largely ineffective hearing aid).",
+										"{@dice d20} 19: {@b Major Proudfin} (Triton) — Former military commander who runs a disciplined library.",
+										"{@dice d20} 20: {@b Szaztili} (Yuan-ti Pureblood) — Loves gossip, scandal and intrigue."
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		}
+	]
+}

@@ -8,16 +8,42 @@ Travel to Candlekeep, arrive, first research day. ~3 hours table time.
 
 **Cliffhanger:** sealed letter from a Harpers contact, end of evening.
 
+**Locations reference:** every scene below names the specific
+library / chamber it runs in. Source: `docs/background/1073077-Inside_the_Great_Library_(Candlekeep_Locations).json`. Quick reference card: `notes/sessions/candlekeep_locations.md`.
+
+**Prelude:** the ~30-day, ~800-mile overland journey from the
+Blingdenstone exit to Candlekeep is run as a narrated
+travelogue at the start of Session 1 — see
+`notes/sessions/blingdenstone_to_candlekeep_travelogue.md`.
+The travelogue plants **Daz's somatic field-perception
+gradient,** the **Gorg'Bahamut breadcrumb (Triboar),** the
+**six-pointed-star pattern (Daggerford),** and the major
+**Waterdeep shopping arc** before the party arrives at the
+Emerald Door.
+
 ---
 
 ## The four Avowed — cheat sheet
 
-| PC (Player) | Avowed | Field | Reward axis |
+| PC (Player) | Avowed | Library / where it runs | Reward axis |
 |---|---|---|---|
-| Daz (Mike) | **Sister Yvenne** | half-drow Eilistraee priestess; Drow exile communities | Lore + bloodline-pattern + Eilistraee-circle door |
-| Zalthir (Gabe) | **Brother Khell-Vire** + **Master Kenshi** | shadow-discipline lineages; Order of the Enlightened Shadow | One Severed Path technique + Watcher's Stillness + Callarduran boon |
-| Thorin | **Master Archivist Philemon** | sentient-artifact preservation | Path-scaled rituals + Dawnbringer's two-layer diagnosis |
-| Grygum (Ben) | **Brother Vareth** | Stroud-Wake archivist / half-orc-Bahamut scholar | Stroudite community + faith-test texture |
+| Daz (Mike) | **Sister Yvenne** | **Arcanium / Hall of Divination** + private alcove in **the Atheneum** | Lore + bloodline-pattern + Eilistraee-circle door |
+| Zalthir (Gabe) | **Brother Khell-Vire** + **Master Kenshi** | **Echoing Hall** (lineage office) + **Sea Warden's Tower** sparring rooms (Trial) + **the Grove** (shared-silence beat) | One Severed Path technique + Watcher's Stillness + Callarduran boon |
+| Thorin | **Master Archivist Philemon** | **Towers of Wonder** (study) + **Reading Salon** (Quiet Hour) | Path-scaled rituals + Dawnbringer's two-layer diagnosis |
+| Grygum (Ben) | **Brother Vareth** | **Immortal Chambers** (Stroud Wake) + **Drakonoikos** (Station 9) + optional **House of Alaundo** | Stroudite community + faith-test texture |
+
+**Standing institutional NPCs** (canon, from the locations
+supplement) — see `notes/npcs/candlekeep_avowed.md`:
+
+- **Bookwyrm** — First Reader (dragonborn sage, also curator of Drakonoikos)
+- **Janussi** — Keeper of Tomes (offstage authority; permission-gates)
+- **Kalan Strongbranch** — Gatewarden (Sea Warden's Tower / Arcanium / mysterious Lost Lore consultations)
+- **Kei Tigersteel** — Lorekeeper (Oratory; available for a Grygum sermon beat on Day 2)
+- **Sylvira Savikas** — curator, **Infernal Fortress** (the demon-lord evidence handoff)
+- **Adeilina** — librarian, Arcanium (no-touch rule; spectral mage hands)
+- **Pizwog** — librarian, Immortal Chambers (helpful tortle, 1 mph)
+- **Inda** — librarian, House of Alaundo (half-orc, secretly worships Alaundo)
+- **Thava Norixius** — librarian, Drakonoikos (dragonborn; Protanther-speech expert)
 
 Full NPC dossiers: `notes/npcs/candlekeep_avowed.md`. Player handouts:
 `notes/sessions/handouts/`. Open threads to carry forward:
@@ -114,15 +140,68 @@ the party converges on one Avowed.
 
 ### First Reader greeting
 
-Brief, formal. Allocates each PC to their Avowed:
+**Setting:** the **Emerald Door reception** off the Inner Ward
+threshold (only the Avowed pass freely beyond it; the party is
+*invited inside*, which is itself a moment).
+
+**First Reader: Bookwyrm** (dragonborn sage, also curator of
+Drakonoikos). Brief, formal, faintly amused at five donations
+from a party of four. Lingers on the Velkynvelve prisoner journal
+with reverence: *"It will go great with my other editions in drow
+prison journals."*
+
+Allocates each PC to their Avowed:
 
 - **Daz → Sister Yvenne**
 - **Zalthir → Brother Khell-Vire** (and the Order of the Enlightened
   Shadow / Master Kenshi for the Trial)
 - **Thorin → Master Archivist Philemon**
-- **Grygum → Brother Vareth**
+- **Grygum → Brother Vareth** (interrupted by Vareth himself, who
+  has heard about the half-orc cleric and arrives at speed)
 
 Segue into Act 3.
+
+### Polly Pocket — the captive hand-off
+
+Once the First Reader has dispatched the scholars, the party
+still has **the Reduced House T'sarran spy in Glabbagool's bag**
+to deal with. **Bookwyrm cannot touch this** — she defers to the
+**Gatewarden, Kalan Strongbranch.** Kalan is summoned; arrives
+from the Arcanium.
+
+Kalan's read (deliver dry, no judgment):
+
+> *"The Bell Tower has cells. Comfortable. Localized antimagic.
+> They are very rarely used — anyone we find guilty of a major
+> offense is exiled rather than imprisoned. Which is to say: we
+> hold prisoners, we do not keep them. If you give her to us,
+> what you are giving us is a *delay.* We will not deliver her
+> to House T'sarran, and we will not execute her. Eventually we
+> will release her at our gate with a warning. If you need
+> something else, you will need to do it yourselves."*
+
+This validates Thorin's chapter-54 instinct (*"she's so
+confident she can escape, I don't think we want to be taking
+her into the stronghold"*) — Candlekeep is not a prison and
+will not pretend to be one.
+
+**Three options the party can pick:**
+
+1. **Hand her to Kalan** — she goes to the Bell Tower antimagic
+   cells. Returned to the world after some unspecified period
+   with a warning. Surface-threat clock advances; T'sarran's
+   matron knows *something* fast.
+2. **Keep her in the bag** — Glabbagool continues guarding her;
+   she stays Reduced. Useful for ongoing observation (Daz can
+   keep interrogating). Risk: bag of holding ventilation joke
+   stops being a joke.
+3. **Release her** with a counter-message to Vaelissa T'sarran.
+   Sets up the **mirror-investigation thread** explicitly — she
+   carries Daz's reply back. Player choice; needs Daz's
+   agreement.
+
+**Default:** option 2 through Day One; revisit on Day Two after
+Yvenne's Half 1 lands the Vaelissa name.
 
 *[GM picks the actual First Reader name — or uses FR-canon.]*
 
@@ -136,8 +215,25 @@ breathe.
 
 ### Daz with Sister Yvenne
 
-**Setting:** Yvenne's reading room, Inner Ward. Multiple sittings
-across 2–3 in-fiction days; ~30 min real time.
+**Setting:** **the Hall of Divination** (transept of the
+Arcanium, West Inner Ward) for the lore lanes — Yvenne consults
+Drow-exile-community scrying feeds while she talks. Quieter
+disclosure-trade beats happen in a **private alcove of the
+Atheneum** (North Inner Ward).
+
+**Atmosphere details:**
+
+- The Arcanium's spectral mage hands fetch tomes for them and
+  *slap Daz's hand* if he reaches for a book. **Adeilina** the
+  librarian is present and authoritarian — Yvenne handles her.
+- The divining pool and scrying mirrors are visible across the
+  hall. Don't use them in this scene — they are texture, not
+  prop. (They become a Day Two option if Daz wants to see Drow
+  cities directly.)
+- **Kalan Strongbranch** passes through doing his own research.
+  Recognizes Daz as drow without reaction. *Texture only.*
+
+Multiple sittings across 2–3 in-fiction days; ~30 min real time.
 
 **Yvenne's frame** (deliver early): she is half-drow, raised on the
 surface by an Eilistraee circle after her mother fled the collapse
@@ -159,21 +255,80 @@ true and I will tell you something true."*
 
 **Lore lanes (deliver in order):**
 
+> **Canon note: the name DeVir is never spoken at Candlekeep.**
+> The Orthodoxy + House Do'Urden have spent centuries scrubbing
+> the public record. Yvenne is the public record on this matter
+> and is *legally barred* from saying the name in her
+> institutional capacity. Mike has to triangulate the **shape of
+> the erasure** — Fourth Seat (struck) + *Daz'issin* (redacted
+> footnote) + recent ink on the survivor list — and **fill in
+> the missing name himself.** Vizeran speaks the name DeVir back
+> into existence at Stage 4, in his Menzoberranzan safe-room.
+> Not before. See `docs/daz_devir_narrative_arc.md`.
+
 *Lane 1 — Politics & Houses.* Matron Mothers, Yochlol, the rule of
 intrigue (betrayal upward rewarded if it strengthens Lolth's web).
-**House DeVir surfaces here** in a list of extinct Houses recited
-matter-of-factly. *Stop the table — ask Mike directly:* *"Daz hears
-the name. Does he react, or does he stay still?"*
+**The Fourth Seat anomaly surfaces here.** Yvenne reads a list of
+"Houses extinct within living memory" verbatim:
 
-- **React:** Yvenne notes it. Bloodline-pattern observation
-  available at one-tick discount. Daz's anonymity narrows.
-- **Stay still:** Yvenne moves on. Anonymity preserved. Pattern
-  observation costs more.
+> *"...the Second Seat, the Fourth Seat (struck), the Eleventh
+> Seat, the Twenty-Third Seat..."*
+
+She names every entry. **Except one.** The Fourth Seat is the
+only entry rendered as *struck.*
+
+**DC ladder for Piece 1 — the Fourth Seat:**
+
+| Roll | DC | What it does |
+|---|---|---|
+| Passive Insight (during the lecture) | 14 | Auto-clocks Yvenne's tonal shift on *struck* |
+| Active Insight (Mike interrupts) | 13 | Catches that *struck* is a different category from *named* |
+| Investigation (in the Atheneum afterward) | 15 | Confirms Drow archive convention: *struck* = formal annihilation with surviving claimants barred. *Named* = clean line-failure. |
+| History — Drow politics | 17 | Recalls the legal weight of *Fourth Seat*: the four highest-Seat houses hold ritual archive privileges in Menzoberranzan jurisprudence; **the Fourth Seat in particular held arcane-archive primacy.** A struck Fourth Seat is a *politically expensive* erasure. Someone wanted it gone enough to pay full cost. |
+
+If Mike presses Yvenne on which house was struck, she answers
+quietly:
+
+> *"There is one house I cannot speak of in this room. Not
+> because I will not. Because the public record is sealed and I
+> am, today, the public record. If you want what is behind the
+> seal, you will have to want it through other doors."*
+
+**Failure mode:** if Mike misses every roll on Piece 1, the
+anomaly persists in his notes. He may catch it on a re-listen
+or via Daz's session-end recap. Don't let one missed roll lock
+him out — let the *evidence persist*, just unread.
 
 *Lane 2 — Geography & cities.* Menzoberranzan, Pillars of Woe; Ched
-Nasad as Yvenne's personal beat. Footnote: **"Daz'issin"** as a
-House DeVir nursery name in a 200-year-old heraldry book. Yvenne
-mentions "the masked god" only — *do not name Vhaeraun.*
+Nasad as Yvenne's personal beat. **The Daz'issin footnote sits
+here, in a 200-year-old heraldry book Mike has to find himself.**
+Yvenne mentions "the masked god" only — *do not name Vhaeraun.*
+
+The footnote, when found, reads exactly:
+
+> *"Daz'issin: lit. 'small shadow.' Recorded usage: nursery
+> name, second sons of the Houses sub-tier. See app. 4 [missing]."*
+
+The appendix that would specify the house has been **razor-cut
+from the binding.** A clean mechanical removal, not natural wear.
+
+**DC ladder for Piece 2 — Daz'issin:**
+
+| Roll | DC | What it does |
+|---|---|---|
+| Investigation (browsing the Atheneum nursery-name stacks) | **18** (16 with Yvenne's pointer at 2+ ticks; auto at 4+ ticks) | Locates the right book among hundreds |
+| Arcana (examining the page) | 14 | Notices the appendix is missing and the cut is mechanical — a razor, not natural wear |
+| Investigation (dating the cut) | **18** | Determines the appendix was removed at least 50 years ago — *long after* the book was bound. **Institutional erasure, not damage.** |
+| History — recalling the name | **20** | **Sharran-vault stress beat.** Daz has heard *Daz'issin* somewhere before. He cannot place where. The name lights up in his mind as familiar. *Mike knows what's happening; Daz does not.* The vault holds. |
+
+If Mike asks Yvenne about *Daz'issin* by name (3+ ticks):
+
+> *"It is a softening name. Mothers used it for boys they wanted
+> to live. There were not many uses of it in the past three
+> centuries. The houses that used it... most of them did not
+> last."*
+
+She does not say DeVir. She *cannot.*
 
 *Lane 3 — Deities & schism.* Lolth (architectural center, leverage
 not love), Eilistraee (Yvenne's faith; surface community option),
@@ -202,16 +357,39 @@ Yvenne's clear-eyed read:
   and House mages in extracting a 'nobody.' Whatever she thinks
   you are worth, she is willing to pay for it."*
 
-**The cutout — sealed scroll-tube** in the minor-Houses collection,
-labeled *"T'sarran — external contracts, [year window ~10 years
-ago]."* The tube is **empty.** Wax seal recently broken and resealed
-in different color. Pulled three years ago by **Brother Hilmin
-Thaer,** who died of natural causes 18 months ago, weeks after a
-private audience with a visitor whose name was never logged.
+**The cutout — sealed scroll-tube** in the minor-Houses collection
+(housed in the **Atheneum**'s political-genealogy subwing — Yvenne
+walks Daz across the courtyard from the Hall of Divination to
+retrieve it), labeled *"T'sarran — external contracts, [year window
+~10 years ago]."* The tube is **empty.** Wax seal recently broken
+and resealed in different color. Pulled three years ago by **Brother
+Hilmin Thaer,** who died of natural causes 18 months ago, weeks
+after a private audience with a visitor whose name was never logged.
 
 **Half 2 — The protection question (Mike's bigger payoff).**
 
-Yvenne has seen this exact pattern twice in 20 years:
+**Locked behind 4+ disclosure ticks.** Without earning Yvenne's
+trust, Mike does not know the redacted survivor list exists.
+
+Yvenne retrieves a folio from her own files: a survivor list for
+**[REDACTED HOUSE]**, three confirmed entries. Two dated and
+verified deceased. One: *"location unknown, records purged."*
+
+The redacted house-name on the folio is **fresh ink** — not the
+original archive seal.
+
+**DC ladder for Piece 3 — the fresh-ink redaction:**
+
+| Roll | DC | What it does |
+|---|---|---|
+| Investigation (examining the document) | 17 | Notices the ink composition is wrong for the document's apparent age. The redacted block looks older at a glance and isn't. |
+| Arcana — Drow archival ink-aging | **19** | Identifies the redaction as recent — **within years, not decades.** Drow archives use a standardized iron-gall ink whose oxidation pattern is dating-readable. Yvenne corroborates if asked. |
+| Insight (interpreting the implication) | 15 | *Someone with current institutional reach is still actively maintaining the erasure.* The conspiracy is alive. |
+
+Yvenne, plainly: *"That ink is younger than my career. Someone is
+still maintaining the seal. Today."*
+
+Yvenne has seen the *shape* of this pattern twice in 20 years:
 
 - **Pattern A:** Eilistraee infant smuggling. *"I would know if you
   were one of ours. You aren't."* Ruled out.
@@ -227,9 +405,62 @@ Yvenne's line:
 > keeping alive at considerable cost. That is a kind of inheritance,
 > whether or not you ever meet the person paying it."*
 
-The DeVir name + Daz'issin nickname + "location unknown, records
-purged" survivor entry are now in front of Mike. He can connect them
-or not. Vizeran name **stays sealed** — Yvenne doesn't know.
+**The synthesis roll — putting the conspiracy together.**
+
+Available only when Mike has all three pieces in hand and tries
+to connect them.
+
+| Roll | DC | What it does |
+|---|---|---|
+| Investigation — synthesis | **20** (18 with 5-tick Yvenne framing) | Assembles: *Fourth Seat (struck)* + *Daz'issin (redacted footnote)* + *recent redaction on survivor list* into a single picture. |
+
+**The conclusion Mike earns on a successful synthesis roll:** *a
+house that was the Fourth Seat used the name Daz'issin, was
+formally annihilated, and one of its three survivors is alive
+somewhere — and someone with current institutional reach is
+still actively erasing the trail.*
+
+**Mike fills in his own name from his own paranoia.** The roll
+does not deliver "I am DeVir." It delivers the **shape of the
+missing house and the active conspiracy maintaining its
+erasure.** The name DeVir remains reserved for Vizeran's lips at
+Stage 4. Vizeran name **stays sealed** — Yvenne doesn't know it
+either.
+
+At 5 ticks, Yvenne offers the framing question that helps the
+gestalt click (synthesis DC 20 → 18):
+
+> *"Tell me which house erased itself most thoroughly. Then ask:
+> did it erase itself, or was it erased?"*
+
+**Failure mode on the synthesis roll:** Mike has all the pieces
+in his pack but the gestalt doesn't click. Pieces persist; he
+may roll again later — between Candlekeep and Gauntlgrym, on
+the road to Menzoberranzan, or in Vizeran's safe-room when
+prompted with *"You found two of them at Candlekeep. You saw a
+third you may not have understood yet."*
+
+**Sharran-vault leak DCs (the character-side track).**
+
+If Mike triggers vault leaks (mostly through Investigation
+pressure on Pieces 1–3), Daz himself can roll to *recognize*
+what's happening to him.
+
+| Trigger | Roll | DC | What it does |
+|---|---|---|---|
+| Vault leak fires (GM-narrated) | Wisdom save (resist) | 13 | Daz can choose not to read the inscription, not to follow the impulse. Mike's choice whether to roll — he may *want* the leak. |
+| Leak has fired | Arcana — recognising the phenomenon | **17** | Daz identifies what just happened: *"Sharran-style memory containment. A goddess-of-secrets binding. You should not know what it feels like to have a piece of one fail."* **Character now knows there is a seal in his head.** Content remains hidden. |
+| Repeated leaks (third onward) | Arcana — tracing the binding | **20** | Daz identifies the *type* of binding: targeted, voluntary at the time of binding, paid for at significant cost. Cannot identify *who* paid or *what* was sealed. **Vizeran's role remains hidden until Stage 4.** |
+
+**Disclosure-trade ladder (mechanical interface):**
+
+| Ticks | Unlocks | Effect |
+|---|---|---|
+| 0–1 | Lane 1 lecture | Mike hears the Fourth-Seat anomaly. No further help. |
+| 2 | Yvenne pointer in the Atheneum | Heraldry-book Investigation DC 18 → 16 |
+| 3 | *Daz'issin* etymology | Yvenne's "softening name" passage. **No DeVir mention.** |
+| 4 | Survivor list retrieval | **Piece 3 unlocked.** Without 4 ticks, this evidence does not exist for the party. |
+| 5 | Synthesis framing question | Synthesis Investigation DC 20 → 18 |
 
 ### Daz failure modes
 
@@ -249,9 +480,23 @@ study during Thorin's Phase 1.**
 
 ### Zalthir with Brother Khell-Vire and Master Kenshi
 
-**Setting:** Khell-Vire's contemplative office (Inner Ward) and the
-Order of the Enlightened Shadow's training hall. ~30 min real time;
-multi-day in fiction.
+**Setting:**
+
+- **Echoing Hall** (North Inner Ward, history library inside the
+  Atheneum) — Khell-Vire's lower-gallery office, where the
+  shadow-discipline lineage records live. The library's footstep-
+  echo motif (footsteps continue echoing long after a scholar has
+  stopped moving) is on the nose for this work, and Khell-Vire
+  likes it. Sittings happen here.
+- **Sea Warden's Tower** sparring rooms (West Inner Ward) — the
+  Order of the Enlightened Shadow keeps a chamber here under
+  guest-tenure with the Watchers. The Trial of the Broken Mirror
+  runs here.
+- **The Grove** (South Inner Ward, woodland cemetery + bridges) —
+  the shared-silence beat happens at dawn, on the Pont de
+  Paramours covered bridge.
+
+~30 min real time; multi-day in fiction.
 
 **Khell-Vire:** ~200-year-old half-elf. Left the Garden of Shadow
 ~80 years ago after **refusing an order he won't name unprompted.**
@@ -419,9 +664,28 @@ the reveals across multiple sittings:
 
 ### Thorin with Master Archivist Philemon
 
-**Setting:** Philemon's Inner Ward study (cluttered with
-sentience-resonance instruments). One long afternoon + an evening
-hour. ~30 min real time.
+**Setting:**
+
+- **Towers of Wonder** (West Inner Ward, magic-items library —
+  hollow spires lined top to bottom with tomes; **no stairs or
+  floors,** scholars travel by floating disk). Philemon's study
+  is a platform halfway up one of the spires; sentience-resonance
+  instruments hover around him in mid-air. *The party will need
+  to ride floating disks up to him.* Glabbagool absolutely
+  loses his mind about this.
+- **Reading Salon** (Exaltation, South Inner Ward) — the
+  permanent *silence*-spelled lounge where Phase 3 (the Quiet
+  Hour) runs. Philemon books the salon when he needs Dawnbringer
+  to *not* be able to argue out loud. **This is mechanical** —
+  the silence spell is permanent in that room. Dawnbringer is
+  silenced for the duration. Use the silence; don't let her
+  bargain out of it.
+- **Librarian on the Tower of Wonders floor:** Fonkin, a talkative
+  gnome sage (background flavor; will recommend reading on
+  sentient blades to anyone who pauses).
+
+One long afternoon (Towers of Wonder) + an evening hour (Reading
+Salon). ~30 min real time.
 
 **Philemon:** Avowed monk specializing in **psychological
 preservation and historical cataloging of sentient artifacts.**
@@ -579,8 +843,36 @@ Phase 1 — that's her time — but the pivot is yours."*
 
 ### Grygum with Brother Vareth
 
-**Setting:** Vareth's Inner Ward office, frantically organized. ~30
-min real time across 2–3 sittings; multi-day in fiction.
+**Setting:**
+
+- **Immortal Chambers** (West Inner Ward, theology / religion
+  library; tile floor with one deity-symbol per tile; green
+  rectangular roofs). Vareth's office is one of the side rooms.
+  Stations 1–8 of the Stroud Wake run here. **Pizwog** the
+  ancient tortle librarian shuffles past at 1 mph at one point
+  and offers Grygum a religious tract, which arrives so slowly
+  it becomes a recurring sight gag.
+- **Drakonoikos** (North Inner Ward, dragon library inside the
+  preserved corpse of red dragon **Fyrentennimar** — bones for
+  pillars, scales for floors and walls). **Station 9
+  (Protanther's 400 years and his speech) runs here.** Vareth's
+  case is more credible *standing inside a dragon* than across
+  the courtyard. Librarian: **Thava Norixius**, world-leading
+  dragon scholar; Bookwyrm (First Reader / curator) may briefly
+  appear. *Optional: the Dragon Breath Simulation Room* is on
+  the way — taxidermied heads of five chromatic dragons that
+  illusion-breathe at you. Grygum can or can't.
+- **House of Alaundo** (West Inner Ward, Founders Court — central
+  building under Alaundo's brass statue) — *optional detour* if
+  Grygum wants to consult prophecies relevant to **Ilvara's dying
+  prophecy** or **Jimjar's warnings.** Librarian **Inda** is a
+  half-orc sage who *secretly worships Alaundo as a deity* —
+  inevitable Grygum interaction. Note: the *Echoes of Alaundo*
+  (the Seer's final, most dangerous prophecies, recorded in
+  prismatic gemstones) live in the **Vault of Secrets** and are
+  inaccessible.
+
+~30 min real time across 2–3 sittings; multi-day in fiction.
 
 **Vareth:** elderly half-elf Avowed. Decades-long quiet specialty
 in half-orc-Bahamut converts — **invaded three years ago** by the
@@ -787,30 +1079,155 @@ to do with Stroud.
 
 ---
 
-## Act 4 — Cliffhanger (~15 min)
+### Party-wide — the demon-lord evidence handoff
 
-End of the research day, evening at the inn. An Avowed delivers a
-sealed letter to the party collectively. **Private audience
-requested for tomorrow morning.**
+**Setting:** **Infernal Fortress** (North Inner Ward) — black
+avernium walls glimmering red, lava pool in the central hall,
+chained tomes on the shelves. Air thick and hot. **Curator:
+Sylvira Savikas.**
 
-**Recommended pick: Harpers contact.**
+**When to run:** wedge between Act 3 scenes, ~10–15 min total.
+Run it once enough Day One scholar work has happened that the
+party knows they are *believed*; before Act 4. Sylvira sends an
+Avowed runner inviting the party (collectively) — they can
+accept or defer to Day Two.
 
-- Has heard about the demon-lord evidence the party carries
-  (Plinki's journal, Ilvara's prayer book, the necromantic pearl).
-- Wants formal debrief.
-- Sets up *"who do we tell, who acts"* as the next-session arc.
-- Dovetails with Eldeth's formalized warning thread.
+**What happens:**
 
-**Alternatives** (less recommended):
+- Sylvira accepts **Ilvara's Zuggtmoy-marginalia prayer book**,
+  **Asha Vandree's Lolth/Zuggtmoy theological argument**, and
+  **Pliinki's Whirlstone journal** into the Infernal Fortress
+  collection. (If donated already at the Emerald Door, this is
+  the formal scholarly review; if the party held them back, this
+  is the offer.)
+- She **corroborates** the trio of demon-lord names. Zuggtmoy's
+  wedding to Araumycos: *"We have a chained shelf devoted to her
+  fungal liturgies. The wedding hymn is older than your prayer
+  book. What is new is that it is being sung again."* Juiblex's
+  reconstitution plan: known pattern, new vector. Demogorgon's
+  Sloobludop summoning: she had heard the *rumor*; the party has
+  the **eyewitness account.**
+- Offers a **summoning chamber session** if the party wants to
+  verify a specific fact (Janussi's permission required; Sylvira
+  vouches). *Don't push it* — this is a Day Two beat at earliest.
+- Mentions her son **Moziqodo** in passing if the party asks
+  about the half-eaten birds on the rooftops they passed.
+  Honest, weary, doesn't ask for help — *this is a hook the
+  party can pick up later, not a quest tonight.*
 
-- **Eilistraee emissary** — touches Daz. Best held for *later*
-  session; landing tonight steps on Stage 4.
-- **Lord's Alliance representative** — political escalation; faction
-  politics.
+**Sylvira's verdict (deliver flat, no theatrics):**
 
-The letter lands while Daz is digesting Yvenne's bloodline-pattern
-observation and *after* Phase 2 of Thorin's quiet hour. Cliffhorn
-on the whole party at once.
+> *"You have brought me three pieces of a problem I have been
+> watching for forty years. Demon lords on the Prime Material
+> Plane in coordinated motion is not a Candlekeep problem. It
+> is everyone's problem. The Keeper will need to be told. The
+> Lords' Alliance will need to be told. The Harpers will need
+> to be told. I will start the fires that need starting. You
+> will need to decide who you want sitting across from you when
+> the institutions catch up."*
+
+Sylvira is **starting institutional fires.** She is *not* the
+source of the post-Candlekeep call to the party — see "Post-arc
+contact" below.
+
+### Glabbagool's question — a side thread
+
+Glabbagool has earned **one question** by virtue of the fifth
+book. Decide where it lands:
+
+- **Pavilion Naturalis** (North Inner Ward, natural-sciences
+  library crowned by a translucent mollusk shell; T. Rex skeleton
+  in the central hall; illusory butterflies; librarian **Frondu**
+  the firbolg sage). The natural choice if Glabbagool's question
+  is about *what he is.* Frondu loves bizarre creatures.
+- **Tower of Tall Tales** (North Inner Ward, fiction repository).
+  The right place if his question is about *birds* or *what is a
+  feathered thing.* Librarian Hobert the halfling sage performs
+  invisible-rapier monologues — Glabbagool will be delighted.
+- **Whispering Dome** (atop the Hall of Momentous Deeds; East
+  Inner Ward). Long shot — would require Glabbagool to enter
+  alone and meditate in silence for 1 minute. If Zalthir
+  endorses it as *monk training,* he might. The dome speaks the
+  inspirational words of a long-dead hero. **Roll on the Words
+  of Inspiration table** in the locations supplement (or pick).
+  *This is a great Zalthir-sponsored beat.*
+
+Pick one (or let Zalthir negotiate which). ~5 min. Don't expand
+into a full scene unless the table latches on.
+
+---
+
+## Act 4 — Cliffhanger (~10 min)
+
+> **Replaced for the murder-mystery arc.** Day One is now the
+> peacetime stage-set for the Candlekeep Murders adventure —
+> see `notes/sessions/candlekeep_murders_arc.md` for the full
+> 8-session arc plan, scaling deltas, and good-choice ledger.
+> Original Harpers-letter Act 4 retired. The post-Candlekeep
+> call to the party comes from **Eldeth → Gauntlgrym** *after*
+> the murder arc resolves, not at the end of Day One.
+
+End of evening at the **House of Rest and the Hearth** (the
+party's inn outside the Outer Ward — canon name from the
+Candlekeep Murders module). Party turning in. Three murder-seed
+beats from earlier in the day are quietly hanging:
+
+1. **The Refectory dinner.** Party saw Janussi alive at the
+   high table — distant, ate little. All eight Great Readers
+   present. Daral visibly drunk. Sylvira looking unwell (she has
+   already been bitten by Moziqodo at the Cursed Tower). A'lai
+   and Alkrist deep in quiet conversation at one corner. *This
+   is the only time the party will ever see Janussi alive.*
+2. **A glimpse on a corridor** during one scholar's research
+   lane — a hooded Avowed hurrying past with something tucked
+   under their robe. *(A'lai bringing a present to the Evergreen
+   Tree.)* Don't say who.
+3. **The Endless Chant overhead.** The recited prophecies of
+   Alaundo float down from a high gallery. Once during the day,
+   the snippet they catch is the start of the **Deadwinter
+   Prophecy:** *"On the longest night of winter's deepest cold /
+   the keeper falls, the heart is sold..."* Bookwyrm, asked,
+   says lightly: *"Alaundo wrote about a great deal of things;
+   today's verse will not be tomorrow's."*
+
+**Cliffhanger — pre-dawn.** Hammering on the inn door. **Fembris
+Lancer** — out-of-breath young half-elf adjutant — wide-eyed,
+repeating the same sentence:
+
+> *"The First Reader sent me. The Keeper of Tomes is dead. She
+> wants you. Now. Through the Emerald Door, before the Avowed
+> wake."*
+
+End session there.
+
+---
+
+## Post-arc contact — Eldeth, not Harpers
+
+When the Candlekeep murder arc resolves (end of Session 7–8),
+the party's call to their next adventure comes from **Eldeth**,
+**not** the Harpers. A sealed letter delivered to whichever
+inn or institutional contact the party has settled at:
+
+- Eldeth has reached **Mithril Hall** and briefed the dwarven
+  lords on the Underdark / demon-lord situation.
+- The dwarven lords + the lords of **Gauntlgrym** have decided
+  the party are the credible witnesses they need on hand.
+- The letter calls them to **Gauntlgrym** — fulfilling Eldeth's
+  chapter-50 oath: *"After I have spoken and explained to the
+  lords of Gauntlgrym and Mithril Hall the dangers of the
+  Underdark, I am certain they will want to speak to you, and
+  I will make it a statement of purpose that you shall be
+  embraced by our clan."*
+- This routes the party at the right altitude for the OOTA
+  endgame frame and the active-play set in
+  `docs/gauntlgrym/`.
+
+**The Harpers thread does not die** — Sylvira's "the Harpers
+will need to be told" line is still institutionally true.
+Treat the Harpers as an **available later contact** the party
+can reach for from Gauntlgrym if they want a non-state-actor
+ally, but they are not the entry point.
 
 ---
 
@@ -851,7 +1268,12 @@ Confirm each PC leaves with:
   text); Yartar-tavern disappointed letter; Gorg'Bahamut folio
 - [ ] **Party-wide:** Act 1 surface-threat clock active (T'sarran
   scout or Mizzrym informant); Act 4 cliffhanger contact (Harpers
-  recommended)
+  recommended); Polly Pocket disposition decided (Bell Tower
+  cells / kept in bag / released as messenger); Sylvira Savikas
+  has accepted the demon-lord evidence into the Infernal Fortress
+  collection and named the Harpers as the next contact;
+  Glabbagool's question landed (Pavilion Naturalis / Tower of
+  Tall Tales / Whispering Dome).
 
 Update `notes/threads/post_candlekeep_open_threads.md` with whatever
 landed.
