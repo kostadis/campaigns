@@ -1,25 +1,27 @@
 ---
-name: xanth
-aliases: []
-source_extracts: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38]
+name: Xanth
+aliases:
+  - Xanthopoulos
+source_extracts: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39]
 ---
 
 # Xanth
 
 ## Identity
 - **Role:** Wilderness guide, regional informant; affiliated with (though frustrated by) the Emerald Enclave
-- **Species:** Centaur
+- **Species:** Centaur (described elsewhere as an elder/emissary among "his people")
 - **First appearance:** Encountered peacefully near Dragonbarrow; warned the party about will-o'-wisps and offered to guide them to the Anchorites of Talos
 
-*Also known as: (none).*
+*Also known as: Xanthopoulos.*
 
 ## Personality & Motivations
-- **Core goals:** Protecting the natural world; resolving the orc displacement crisis that the Emerald Enclave has failed to address; honoring old friendships (notably with Meryl)
+- **Core goals:** Protecting the natural world; resolving the orc displacement crisis that the Emerald Enclave has failed to address; honoring old friendships (notably with Meryl/Meril)
 - Pragmatic and action-oriented — deeply frustrated by institutional paralysis and the Enclave's inability to reach consensus
 - Warm but has clear limits: accepted carrying Vukradin and Valphine on his back with visible reluctance, framing the concession explicitly as a favor to Soma, not Vukradin
 - Treats near-death and logistical inconvenience with equal equanimity; greets crises like administrative problems to be solved
 - Standing enormous once restored to health, he greets the party with the enthusiasm of someone whose near-death had been a brief administrative inconvenience
 - Finds city dwellers' failure to understand animal communication networks a form of willful blindness
+- Deliberate in the way of very old creatures — considered, unhurried, precise. Carries no banner and aligns with no faction; positions himself as a neutral observer and truth-teller. Has watched both pure interventionism and pure naturalism become follies when held too tightly. Commands quiet authority and speaks plainly.
 
 ## History with the Party
 
@@ -36,17 +38,23 @@ He explained the regional crisis in full: a white dragon descended into the Ices
 
 He agreed to carry Vukradin and Valphine to the foothills near the gold mine, on the explicit condition that he not be asked to enter mountain terrain. He was not entirely reconciled to being asked to serve as transport and noted pointedly that Vukradin was asking him to be a horse. He accepted the arrangement — on Soma's account rather than Vukradin's.
 
-## Current Status
-- **Last known location:** Departing with the party toward the Icespire foothills
-- **Active:** Serving as guide and transport to the foothills; has agreed not to enter mountain terrain
-- **Condition:** Was wounded outside the tomb; has since been healed by Soma
+**Druid Council session (extract 039):**
+Arrived unexpectedly at the council and immediately recognized **Meril's Staff** in Soma's possession. Told the council he understood the significance of Meril choosing Soma — *"He did not give it for sentiment. He gave it because he… picked her."* His recognition of the staff visibly affected Soma. Stated explicitly to the council that he represents neither faction — only reporting what his people witnessed. Delivered critical intelligence: **Corbin is dead**, and **Sister Kayla has walked out and disappeared** ("gone to the wind"). Upon departing, told Soma quietly: *"Perhaps Meril made the right choice."* Soma took this remark to heart and kept it carefully.
 
-**What the party knows:** His connection to Meryl, his frustration with the Emerald Enclave, his knowledge of regional threats and animal communication networks, the names of the Carver's lieutenants, his understanding of the white dragon displacement crisis.
-**What remains hidden:** The full extent of his history with Meryl; his own goals beyond the immediate crisis; the nature of his Enclave standing given his dissatisfaction with the organization.
+## Current Status
+- **Last known location:** Departing the druid council after delivering his news (most recent — extract 039)
+- **Active:** Came to the council to report, not to join; no known active plans afterward
+- **Condition:** Healthy (was wounded outside the tomb earlier; healed by Soma)
+
+**What the party knows:** His connection to Meril/Meryl, his frustration with the Emerald Enclave, his knowledge of regional threats and animal communication networks, the names of the Carver's lieutenants, his understanding of the white dragon displacement crisis, his explicit neutrality at the druid council, and his network of "his people" who serve as witnesses and observers.
+**What remains hidden:** The full extent of his history with Meril; his own goals beyond the immediate crisis; the nature of his Enclave standing given his dissatisfaction with the organization; the deeper nature of "his people."
 
 ## Relationships
 - **Soma:** Primary bond. Respects her through the Meryl connection; found common ground immediately on naturalist worldview and practical problem-solving. His cooperation flows through her. Framed his willingness to help as an extension of his old friendship with Meryl.
-- **Meryl:** Old friend. Recognizes Meryl's Staff and trusts Soma partly because Meryl left it with her. Stated that Meryl must know Soma to have given her the staff.
+- **Meril (also spelled Meryl):** Old friend. Recognizes Meril's Staff and trusts Soma partly because Meril left it with her. Stated that Meril must know Soma to have given her the staff. At the druid council, parted with the line *"Perhaps Meril made the right choice."*
+- **Druid council factions:** Explicitly neutral. Neither interventionist nor naturalist — a deliberate outsider.
+- **"His people":** A network (presumably centaurs) who serve as witnesses and observers of events, including Corbin's death and Sister Kayla's departure.
+- **Corbin / Sister Kayla:** Knew of them; reported Corbin's death and Kayla's disappearance to the council as factual intelligence.
 - **Vukradin:** Tolerates with visible amusement and some exasperation. Gave him a Centaurian name (Vucravinios); agreed to carry him while making clear the indignity involved. Found his reluctance to claim a dragon's hoard genuinely baffling.
 - **Valphine:** Recognized as a famous cleric of Lathander; praised her courage and commented on pain as purification. Agreed to carry her alongside Vukradin.
 - **Emerald Enclave:** Member or associate, but openly critical — describes the organization as paralyzed by internal faction disputes over the orc situation, with factions accusing each other of everything and unable to reach consensus on whether the orcs represent a naturalist phenomenon or require intervention.

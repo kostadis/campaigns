@@ -1,175 +1,160 @@
-# Party Reference — Ember Vanguard
-
----
+# party.md
 
 ## Party Overview
 
-**Current location:** Surface world, recently emerged from the Underdark via northern Blingdenstone exit tunnels. Destination set for Candlekeep.
+**Current Location:** Candlekeep (surface world). The party has recently emerged from the Underdark after a months-long captivity and escape. They are using a recovery period for research, resupply, and personal projects before the next major arc.
 
-**Active quests / obligations:**
-- Research Daz's anonymous Menzoberranzan patron and the reasons behind both House T'sarran's extraction contract and his protection (Candlekeep)
-- Grygum: research Bahamut lore at Candlekeep; claim two unanswered boon-questions from Burrow Warden Jadger's ghost (returns to Blingdenstone required)
-- Thorin: find a "sword whisperer" specialist for Dawnbringer
-- Counter Zuggtmoy's expanding fungal corruption (deferred; flagged by Jimjar as insidious and ongoing)
-- Monitor Demogorgon's movements in the Prime Material Plane
-- Warn relevant parties that multiple demon lords have been deliberately summoned to the Underdark
-- Transport Pelek's bones ✓ (completed)
-- Deliver evidence of Gracklstugh Deepking's assassination contracts (held as leverage; not yet acted upon)
+**Active Quests / Obligations:**
+- Investigate Daz's unknown patron in Menzoberranzan (identity deliberately obscured; significant financial resources involved)
+- House T'sarran is actively hunting for that patron, using Daz as bait
+- Thornin's reciprocal obligation to Eldeth Feldrun: appear when summoned to Gauntlgrym or Mithril Hall
+- Allocate five Candlekeep research questions (Jimjar identity, Dawnbringer therapy, Daz's patron, Grygum's theology, Glabbagool's question)
+- Drow spy in bag of holding: detained, unresolved
+- Spiderbait's surface-society integration (informal, ongoing)
+- Warn the surface world about demon lords active in the Underdark (Demogorgon, Zuggtmoy, Juiblex — all confirmed in the Prime Material Plane)
 
-**Collective resources:**
-- Gold from Gartokkar payment, Hgraam payment, looted Drow payroll chest, bandit loot, NDA sale to Werz (total not summed — various sources)
-- Stonespeaker Crystal (party item; required for Glabbagool communication)
-- Deepking's signed assassination contract (explosive political document)
-- T'sarran signet ring (potential leverage)
-- Princess Ebonmire's spellbook (in Daz's possession, not fully transcribed)
-- Pliinki's journal and four conspiracy letters (Gray Ghosts/Demogorgon evidence)
-- Ilvara's prayer book, Living Serpent Head Scourge, sealed House Mizzrym orders, Zuggtmoy marginalia document
-- Asha Vandree's theological document on Lolth/Zuggtmoy equivalence
-- Necromantic pearl (from fungal mass)
-- Ritual bundle (incense, silver bowl, Lolth/Zuggtmoy dual-sigil cloth)
-- Glowing Geode (100 gp, gift from Earth Elemental)
-- Jimjar's Bone Die (inert; keepsake)
-- Voucher of the Varmint (Daz; wererat/outcast recognition token)
-- Diggermattock Miners Patch (Thorin; honorary membership)
-- Empty spell gems (from Werz; to be sold at Blingdenstone or similar)
-- Entemoch's boon (all PCs): summon Earth Elementals; Stoneskin once per day when struck
+**Collective Resources:**
+- Payroll chest (gold and silver from Ilvara's outpost), multiple weapons, ritual items, documents, obsidian wand (T'sarran mage), House T'sarran signet ring, necromantic pearl, Living Serpent Head Scourge, Ilvara's prayer book (Zuggtmoy marginalia), theological document (Lolth/Zuggtmoy equivalence), sealed House Mizzrym orders, letter from Neverlight Grove, jailer's keys, flask of Overbright brandy, water-damaged prisoner journal, Pliinki's journal and conspiracy letters, Demogorgon statue, Keoghtom's Ointment, spellbook (Princess Ebonmire's), Stone of Controlling Earth Elementals, Dawnbringer scabbard (Vaultmaster Locking), Stonespeaker Crystal, Dustsight Spectacles, Glowing Geode (100 gp), two rubies (500 gp total), empty spell gems, Bone Die (Jimjar's keepsake), Glabbagool (now a grey ooze, traveling in bag of holding), one miniaturized drow spy (same bag).
+- Five Candlekeep access questions (from donated books).
 
-**Group reputation:**
-- Celebrated heroes of Blingdenstone; legends spreading (exaggerated) through Underdark tunnel networks
-- Known as "The Ember Vanguard" in Gracklstugh; wanted under that name (descriptions inaccurate, providing some cover)
-- Hostile to House T'sarran (failed extraction; mage killed); House Mizzrym will eventually discover Ilvara is dead
-- Neutral-to-positive departure with House Duskryn (contract fulfilled)
-- Unknown Menzoberranzan patron actively invested in Daz's survival
-
-**Companion:** Glabbagool (sentient grey ooze, formerly gelatinous cube) — traveling in bag of holding; first encounter with sunlight. Requires Stonespeaker Crystal to speak. Loyal, earnest, enthusiastic. Zalthir is his primary bond.
+**Group Reputation:**
+- *Candlekeep:* Favorable — recognized as first-hand witnesses to demon lord activity; donated five high-value Underdark primary sources.
+- *Blingdenstone:* Celebrated heroes; legends of the Ember Vanguard spreading through Underdark networks.
+- *Gracklstugh:* Wanted under the name "Ember Vanguard"; wanted poster descriptions are inaccurate enough to provide cover.
+- *House T'sarran:* Confirmed hostile; extraction contract failed, mage killed, more agents expected.
+- *House Mizzrym:* Alarmed by Ilvara's silence; the party killed her.
+- *Gold Whisker wererats:* Allied (Voucher of the Varmint).
+- *Diggermattock Miners:* Honorary membership (Thorin).
 
 ---
 
 ## Characters
 
-### Grygum (Gyrgum)
-**Class/Level:** Cleric of Bahamut, Level 8 | **Player:** Ben | **Race:** Half-Orc
+### Zalthir
+**Class/Level:** Monk 8 (Warrior of Shadow) | **Species:** Dragonborn (Brass) | **Player:** Gabe
 
-**Personality & motivations:** A pragmatic but genuinely compassionate cleric whose faith in Bahamut is tested and refined by every encounter with demonic corruption and slavery. He holds a sincere, philosophically coherent belief that all beings — including chromatic dragons — possess free will and deserve the chance to exercise it. He is capable of theatrical social performance, cold-blooded expediency (pushing Skiit into the zombie pit), and genuine warmth (bonding with Stool, Glabbagool, protecting Rumpadump) in the same session. His faith can waver — he privately admitted Bahamut feels "boring" compared to Stroud — but he returns to it as an anchor, especially when confronting demon lords.
+Zalthir is a creature of precise discipline and deliberate silence — he speaks only when he has something meaningful to say and processes the world through observation before action. His monastic training under a secretive order has made him deeply intolerant of noise and inefficiency, and he approaches both combat and social situations with the cold, methodical patience of a glacier. Beneath this austerity lies a genuine protectiveness toward those he travels with and a philosophical tension between the monastery's doctrine of non-interference and his lived experience of a world that demands action.
 
-**Notable relationships:**
-- *Stool (departed):* Parental/guardian bond; Stool left with Basidia's myconid group; Grygum felt the separation
-- *Glabbagool:* Genuine affection; consistently Grygum's first concern after combat
-- *Gorg'Bahamut (mentor):* Whereabouts unknown; a formative influence referenced but unresolved
-- *Jimjar (departed/vanished):* Friendly rapport through repeated betting; Jimjar's true nature (celestial/divine) now confirmed; relationship is open-ended
-- *Burrow Warden Jadger:* Two unanswered boon-questions owed to the party; requires return to Blingdenstone to claim
-- *Entemoch:* Earned elemental goodwill by healing the Earth Elemental; favorable standing with Prince of Good Earth Elementals
-- *Sarith (deceased):* Had a meaningful moment calming him at Velkynvelve; watched him deteriorate and die as a spore servant
+**Notable Relationships:**
+- *Daz:* Closest bond in the party; personally rescued Daz from a rockfall and steps protectively between Daz and threats as a default reflex.
+- *Glabbagool:* Informal mentor/guardian relationship; proposed training the ooze in monk discipline; Glabbagool defers to Zalthir's guidance.
+- *Stool & Rumpadump:* Grudging but real affection; was frequently overruled in debates about the myconids but never abandoned them.
+- *Asha Vandree:* Killed her decisively when the group hesitated; no regret expressed.
+- *Thorin:* Respect, with occasional friction when Thorin acts carelessly (dragon comments, loud stealth).
+- *House T'sarran:* Confirmed enemy.
 
-**Items of significance:**
-- Holy symbol of Bahamut
-- Mace (purchased in Gracklstugh, enchanted by Starlace with protective magic)
-- Living Serpent Head Scourge (looted from Ilvara; nature unresolved)
-- Lolth/Zuggtmoy theological document from Asha Vandree (sealed wax pouch)
-- Prayer beads (from Asha)
-- Ilvara's prayer book with Zuggtmoy marginalia documenting corruption timeline
-- Scrolls from Errde Blackskull's armory
-- Stonespeaker Crystal (shared party item)
+**Items of Significance:**
+- Eldritch Claw Tattoo (attuned) — tentacle grapple, 15-foot reach
+- Insignia of Claws
+- Dustsight Spectacles — see invisible creatures and through magical darkness
+- Drow spider-silk cloak (looted from Asha Vandree, bagged to prevent surface disintegration)
+- Scrolls from Xinaya's corpse
+- Statue of Demogorgon, Pliinki's journal and conspiracy letters
+- Mysterious list of names (favor-debts from an unknown settlement)
 
-**Candidate Arc Score Events:** *(No arc score mechanic file was provided for Grygum. This subsection is omitted.)*
+**Candidate Arc Score Events:** Zalthir is intentionally trackless. No arc score mechanic exists for this character.
+
+---
+
+### Thorin
+**Class/Level:** Fighter 8 (Battle Master) | **Species:** Dwarf | **Player:** Joe Beda
+
+Thorin is a dwarf raised by hill giants, which has left him with a thick Giant accent, a blunt preference for radical transparency, and a reflexive defense of his adoptive family that most dwarves find offensive. He despises the political maneuvering and Non-Disclosure-Agreement culture of the Underdark, craving direct action over faction games. Months of Underdark exposure have begun to weather his optimism — he is now quietly wrestling with whether to formalize that change in himself — but his core instinct remains to protect companions, name the group, and push through.
+
+**Notable Relationships:**
+- *Eldeth Feldrun:* Complicated. Relationship was damaged by her rejection of his giant ties, but he advocated for her survival repeatedly; she departed with an oath to help him join her clan.
+- *Dawnbringer:* A developing and sometimes contentious bond with his sentient sunblade; he has made personal promises to the weapon (a finer scabbard) and intends to seek a "sword whisperer" at Candlekeep.
+- *Stool:* Warm bond; carried the myconid sprout when it was tired; Stool named him among its best protectors.
+- *Dorhun/Hgraam:* Positive relationship with stone giant community built through his Giant-language fluency.
+- *Gartokkar Xundorn:* Adversarial; mutual distrust established; Thorin openly threatened him.
+- *House T'sarran:* Confirmed enemy.
+
+**Items of Significance:**
+- Dawnbringer (attuned) — sentient sunblade; can cast Lesser Restoration; radiant damage doubles against fungi and undead
+- Shield, +1
+- Longsword, +1
+- Vaultmaster Locking Scabbard
+- Stonegnarl Warband Token
+- Baby dragon rattle (Clan Thrazgad)
+- Diggermattock Miners Patch (honorary membership)
+- Javelins (acquired to address ranged gap)
+
+**Candidate Arc Score Events:** Thorin is intentionally trackless. No arc score mechanic exists for this character.
+
+---
+
+### Grygum
+**Class/Level:** Cleric 8 (Life Domain) | **Species:** Orc | **Background:** Sage | **Player:** Ben Pfaff | **Faith:** Bahamut
+
+Grygum is a cleric of Bahamut whose theology is quietly radical: he believes dragons are defined by their choices rather than their scale color, that individual agency can alter the cosmos, and that judging creatures by their race is the ultimate evil. He weaponizes a harmless exterior — theatrical cooking performances, preacher-like healing rituals, calculated scholarship — to accomplish goals others couldn't approach directly. He is fiercely protective of those in his care (particularly Stool and Rumpadump), pragmatic about moral flexibility when survival demands it, and deeply invested in questions of faith that he rarely discusses openly.
+
+**Notable Relationships:**
+- *Stool & Rumpadump:* Parental/guardian bond; consistently advocated for their safety and accompanied them as far as possible.
+- *Hemeth (Duergar arms dealer):* Tentative debt-of-gratitude relationship; contact available in Gracklstugh.
+- *Basidia (Myconid Sovereign):* Trusted ally; Basidia gave the party a scroll of protection against fiends and promised further potions.
+- *Entemoch (Prince of Good Elementals):* Earned elemental favor by healing the Earth Elemental; reinforced by successful advocacy against elemental slave labor.
+- *Vareth:* New Candlekeep scholar contact, deeply invested in Grygum's theological framework; Grygum's "Stroud's Gambit" concept is now being integrated into Bahamut conversion scholarship.
+- *House T'sarran:* Confirmed enemy.
+
+**Items of Significance:**
+- Mace, +1
+- Obsidian and bone prayer beads (×2)
+- Udhask ghost bones (quest item, fulfilled)
+- Fourth-level spell gems (×2)
+- Poisoned crossbow bolts, vial of Drow poison
+- Small silver bowl, seal for forgery
+- Fist-sized pearl from Big Heart Fungus
+- Spore sacs, jailer's ring of keys
+- Flask of Overbright brandy
+- From Asha Vandree: holy symbol of Lolth, chain mail, prayer beads, sealed theological document (Lolth/Zuggtmoy equivalence)
+- From Ilvara: prayer book with Zuggtmoy marginalia, Living Serpent Head Scourge, sealed House Mizzrym orders, letter from Neverlight Grove
+
+**Candidate Arc Score Events:** Grygum is intentionally trackless. No arc score mechanic exists for this character.
 
 ---
 
 ### Daz
-**Class/Level:** Evoker Wizard, Level 8 | **Player:** Mike | **Race:** Drow (Elf, Drow Lineage)
+**Class/Level:** Wizard 8 (Evoker) | **Species:** Elf (Drow Lineage) | **Background:** Sage | **Player:** Mike Hall
 
-**Personality & motivations:** A quietly intense intellectual who spent most of the campaign hiding behind calculation and detachment, Daz has evolved toward something more committed. He now embraces the Ember Vanguard identity as a genuine role rather than a survival fiction, and has shifted his worldview from "escape the Underdark" to active discovery and engagement. He is still most comfortable in the role of analyst and manipulator — reading political maps, running deceptions, negotiating contracts — and feels visceral discomfort with chaos he cannot shape. He draws constantly on his Menzoberranzan upbringing as a lens, often to critique it, occasionally to employ it.
+Daz is a drow exile and tactical architect who spent his early life suffocating under Menzoberranzan's lethal machinations, and who has been quietly rebuilding himself into something else ever since. He rejects slavery as an institution ("free people are the basis of any society"), loathes the paranoid drow worldview as a prison, yet wields his cultural knowledge of drow politics as a precision instrument. He documents everything in a journal, overpromises and under-delivers as a control mechanism, and has evolved across the Underdark journey from reluctant fugitive to someone who identifies — with some irony and some genuine pride — as "the feared mage of the Ember Vanguard." He is now aware that an unknown patron in Menzoberranzan has been paying significant resources to protect him, and that House T'sarran has been using him as bait to identify that patron.
 
-**Notable relationships:**
-- *Zalthir:* The party member Daz has most consistently protected and covered for; Zalthir rescued him from the rockfall; mutual trust is the deepest in the party
-- *Asha Vandree (deceased):* Maintained an elaborate Lolth-follower deception; the lie was load-bearing and expanding at her death
-- *Nym and Kaelira Duskryn (departed):* Professional relationship; contract fulfilled; Daz openly defied their instructions, straining the working arrangement
-- *Anonymous Menzoberranzan patron:* Spent significant resources to protect Daz through multiple cutout layers; identity unknown even to Daz; active open thread
-- *House T'sarran:* Active enemy; extraction contract failed; matron mother informed
-- *House Mizzrym:* Will eventually discover Daz was present at Ilvara's death
-- *Glabbagool:* Accepted as his "familiar" by Asha Vandree (Daz did not correct this); carries Glabbagool in his bag of holding
-- *Dawnbringer:* Acquired the Vaultmaster Locking Scabbard for the sentient sword as a gift — small but noted warmth toward Thorin's companion
+**Notable Relationships:**
+- *Zalthir:* Closest bond; Zalthir's protectiveness of Daz is reflexive and constant; Daz reciprocates with social cover and tactical support.
+- *Asha Vandree (deceased):* Successfully deceived her as a Lolth-touched agent; that lie expanded and became load-bearing before Zalthir killed her.
+- *Nym & Kaelira Duskryn:* Professional relationship, concluded. Sisters confirmed someone powerful paid substantially to protect Daz; their extraction contract is fulfilled and they've departed.
+- *House T'sarran:* Confirmed hostile; interest is in Daz's unknown patron, not Daz directly. More agents expected.
+- *House Mizzrym:* Alarmed; the party killed their high priestess.
+- *Dawnbringer:* Improved relationship after securing the sword a proper scabbard.
+- *Glabbagool:* Presented to Asha Vandree as his "ooze familiar," deepening Glabbagool's role.
 
-**Items of significance:**
-- Spellbook (accumulated over campaign)
-- Stonespeaker Crystal (shared party item, carried by Daz)
-- T'sarran signet ring (potential leverage/evidence)
-- Princess Ebonmire's spellbook (not yet fully transcribed)
-- Voucher of the Varmint (wererat/outcast recognition token; received from Chief Chipgrin)
+**Items of Significance:**
+- Stonespeaker Crystal (attuned) — Speak with Animals, Dead, and Plants
 - Dustsight Spectacles (attuned)
-- Shortsword +1
-- Familiar: bat; spider
+- Shortsword, +1
+- Princess Ebonmire's spellbook (partially transcribed; significant arcane resource)
+- Empty spell gems (to be appraised at Kazook Pickshine in Blingdenstone, or sold)
+- Protective crystals (guard against harmful gaze attacks)
+- Faerzress quartz crystals (glow with dim light)
+- Netherese treasure from the Lost Tomb
 
-**Candidate Arc Score Events:** *(No arc score mechanic file was provided for Daz. This subsection is omitted.)*
-
----
-
-### Thorin Giantfriend
-**Class/Level:** Fighter, Level 8 | **Player:** Joe | **Race:** Dwarf
-
-**Personality & motivations:** Thorin is defined by his anomalous upbringing among hill giants — direct, uncomplicated, instinctively honest, and contemptuous of the layers of political maneuver that characterize every Underdark faction the party has encountered. He advocates for radical transparency as a moral position, not just a preference. Months in the Underdark have worn at this optimism; he is now seriously considering adopting Zhentarim Tactics as a fighting style, a change he acknowledges would represent a fundamental character shift. He carries a deep, unselfconscious loyalty to his companions and will physically interpose himself for them without deliberation.
-
-**Notable relationships:**
-- *Dawnbringer (sentient sunblade):* A genuine, ongoing negotiated relationship; Thorin treats the sword as a personality to be reasoned with, not a tool to be used; has incurred a debt to it (a finer scabbard) and keeps his promises
-- *Eldeth (traveling companion):* Persistent tension over the War of the Giants; Eldeth's clan is being assassinated by the Gracklstugh Deepking (party holds the contract); the relationship has deepened through shared hardship despite ideological friction
-- *Giants (adoptive family):* The defining fact of his identity; his hill giant battle master training shapes every combat encounter; the cosmic feud between giants and dragons triggered genuine hostility toward Themberchaud
-- *Dorhun (stone giant):* Established trust and diplomatic rapport; invited to Cairngorm Cavern; this relationship may be worth revisiting
-- *Zalthir:* Consistent mutual respect; Thorin praises Zalthir's tactical approach openly and non-competitively; the insult about "pure dragons" created genuine strain that Thorin attempted to repair
-
-**Items of significance:**
-- Dawnbringer (sentient sunblade — primary weapon; deals radiant damage; speaks; refuses to extinguish its light; endured months of darkness)
-- Vaultmaster Locking Scabbard (for Dawnbringer)
-- His tooth (recovered from Ilvara's confiscated belongings)
-- Diggermattock Miners Patch (honorary crew membership)
-- Stonespeaker Crystal (shared party item)
-- Javelins (acquired to address ranged gap)
-
-**Candidate Arc Score Events:** *(No arc score mechanic file was provided for Thorin. This subsection is omitted.)*
-
----
-
-### Zalthir
-**Class/Level:** Shadow Monk, Level 8 | **Player:** Gabe | **Race:** Dragonborn (bronze lineage; fire breath)
-
-**Personality & motivations:** Zalthir observes before he acts, speaks only when he has something to say, and makes lethal decisions with a calm that unnerves allies as much as enemies. His monastic training is the center of his identity — he returns to it for discipline, for perspective, and for technique — but the months in the Underdark have stress-tested every principle. He tends toward pragmatism that can shade into ruthlessness (advocating for killing the Stone Guard to prevent alarm, killing Asha Vandree without group consensus), and he is aware of this tendency without being troubled by it. He has a genuine, unguarded bond with Glabbagool that is perhaps the clearest window into who he is when not calculating.
-
-**Notable relationships:**
-- *Glabbagool:* Primary bond; promised friendship and protection from corrupting forces; Glabbagool looks to Zalthir as his trusted anchor; proposed monk training for the ooze
-- *Daz:* Zalthir dug Daz out of a rockfall; Daz has covered for Zalthir socially (fabricated gambling oath, other cover); deep mutual trust, occasionally tested by tactical friction (Darkness vs. Magic Missile conflicts)
-- *Thorin:* Solid mutual respect; the "pure dragon" comment created real tension that remains partially unresolved; Thorin publicly acknowledges Zalthir's tactical skill
-- *Stool (departed):* Dismissive dynamic — Zalthir repeatedly deflected Stool's pleas about Rumpadump; Stool threatened to withdraw cooperation; Zalthir conceded each time but with obvious reluctance
-- *Jimjar (vanished):* Used Insight to identify Jimjar as divine/celestial; Jimjar noticed the scrutiny, winked, and vanished; mutual awareness acknowledged
-- *Valen:* Referenced during the Ilvara battle as someone who could have become a spore servant — a former soldier or guard; full story and relationship unresolved
-- *Asha Vandree (deceased):* Was treated as furniture throughout the negotiation — never addressed directly by Asha — and absorbed the erasure without reacting; pattern of erasure from Drow society noted
-
-**Items of significance:**
-- Eldritch Claw Tattoo (15-foot tentacle reach; grapple; +1d6 force damage; used to kill Asha Vandree)
-- Magical spectacles (see invisible creatures; see through magical darkness; purchased from Starlace)
-- Asha Vandree's fine Drow spider-silk cloak (stored in bag before surface emergence to prevent disintegration)
-- Alchemy Jug (can generate any liquid)
-- Scrolls recovered from Xinaya's corpse
-
-**Candidate Arc Score Events:** *(No arc score mechanic file was provided for Zalthir. This subsection is omitted.)*
+**Candidate Arc Score Events:** Daz is intentionally trackless. No arc score mechanic exists for this character.
 
 ---
 
 ## Party Dynamics
 
-**Core dynamic:** The Ember Vanguard functions as a genuinely effective unit that has developed its own tactical doctrine — Zalthir pins and binds, Daz applies area control and area damage, Thorin holds melee and manages morale, Grygum anchors the divine and the relational. The name itself is now load-bearing; the party actively chose to deny it in Blingdenstone to protect their reputation while leveraging the fear it generates among Derro.
+**Core bonds:** The Ember Vanguard coalesced from a group of enslaved strangers into a functional — and increasingly formidable — unit. The deepest personal bond in the group is between Zalthir and Daz: Zalthir's protectiveness is near-instinctive, and Daz's social intelligence has repeatedly kept Zalthir from being erased from conversations he wasn't invited to. Thorin and Grygum function as the party's moral heartbeat — both have pushed back hardest against unnecessary killing, enslavement of elementals, and faction manipulation — though they express it differently (Thorin through bluntness, Grygum through pragmatic compassion).
 
-**Tensions:**
-- *Daz vs. Zalthir (tactical):* Recurring friction between Darkness (Zalthir's zone control) and arcane targeting (Daz needs sight for most spells). Both understand the trade-off; neither has resolved it cleanly. The "Ember Grapple" combo partially addresses this by making Darkness unnecessary when the enemy is already bound.
-- *Thorin's identity drift:* Thorin is privately contemplating a significant character shift toward harder, Zhentarim-adjacent tactics. No one else in the party has been told. This is an unspoken internal tension that will eventually surface.
-- *Zalthir's unilateral lethality:* He killed Asha Vandree without group consensus. Thorin explicitly prefers not to kill when avoidable. This difference in operating philosophy has not been directly addressed.
-- *Daz's patron mystery:* The party knows someone in Menzoberranzan spent substantial resources to protect Daz, and that House T'sarran simultaneously wanted him extracted alive. Daz himself doesn't know why. He has proposed investigating this collectively and splitting proceeds — an offer the party has not formally accepted or declined.
+**Active tensions:**
+- *Thorin vs. himself:* The party's most significant internal tension is Thorin's quiet identity crisis. The optimistic giant-raised dwarf has been reshaped by months of Underdark trauma, factional manipulation, and moral compromise. He is seriously entertaining Zhentarim Tactics as a fighting style and has acknowledged this would represent "a whole change of character." The party is watching this shift without yet naming it.
+- *Zalthir and unilateral lethality:* Zalthir killed Asha Vandree without group consensus. Thorin stated he preferred not to kill when avoidable. This has not been litigated openly but sits as an unresolved difference in how the group handles threat termination.
+- *Daz's expanding deception:* Daz's Lolth-follower cover with Asha grew into a load-bearing lie that implicated the entire party and the Duskryn sisters. The party accepted this in the moment; the habit of expanding deceptions without check-ins is a structural vulnerability.
+- *Grygum's faith performance vs. inner doubt:* Grygum has privately admitted Bahamut is "boring" compared to Stroud and that his religious theatrics are partly self-deception. He has not shared this with the party.
 
 **Shared goals:**
-- Reach the surface and resupply ✓ (achieved)
-- Warn the surface world about demon lords in the Underdark (articulated by Eldeth; not yet acted upon in any organized way)
-- Counter Zuggtmoy's spreading influence (deferred but acknowledged)
-- Find out who Daz's patron is and why he is a target
-- Thorin: find a sword whisperer for Dawnbringer
+- Reach the surface and warn the Lords' Alliance about demon lords in the Underdark (Demogorgon, Zuggtmoy, Juiblex — all confirmed active in the Prime Material Plane)
+- Resolve Daz's patron mystery
+- Protect Glabbagool's surface-world adjustment
+- Each pursue individual research threads at Candlekeep before the next arc begins
 
-**Companion thread — Glabbagool:** All four PCs have invested in Glabbagool to varying degrees. Zalthir has the deepest bond; Grygum is openly affectionate; Thorin saved him from friendly fire by asking the trust question; Daz carries him. The ooze is now in a jar or bag of holding, experiencing sunlight for the first time. His potential monk training (Zalthir's proposal) is an open thread that could become meaningful.
-
-**Jimjar's departure:** The revelation that Jimjar was a divine or celestial entity — and that he chose to vanish rather than explain himself — lands differently for each party member. Zalthir confirmed it through Insight; Jimjar acknowledged the scrutiny and left. He warned the party explicitly about Zuggtmoy before going. Whether this was a benediction, a test, or something else is unresolved. The party holds his knucklebone die as a keepsake.
+**Group identity:** The name "Ember Vanguard" — coined by Thorin, accepted unanimously — has taken on a life beyond the party's control. The name now circulates in Underdark rumor networks in an exaggerated form, functions as a feared reputation among the Derro, and was used as cover for the Gracklstugh escape. The party has adopted a standing policy of denying they are the Ember Vanguard to anyone who asks. This tension between a chosen identity and a dangerous public legend is a defining characteristic of the group's current moment.

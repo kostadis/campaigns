@@ -6,7 +6,7 @@ aliases:
   - Toblen Stonehill Spiderman
   - Spider Man
   - Toblen Stonehill (Spiderman)
-source_extracts: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38]
+source_extracts: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39]
 ---
 
 # Toblen Stonehill
@@ -34,6 +34,7 @@ source_extracts: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18,
 2. **8/1 Taraksh (evening performance):** Hosted the party's evening performance. Vukradin energized the crowd, Brewbarry created a spectacle with physical displays that the audience began imitating, and Valphine struggled. Toblen considered the night a success overall and rewarded the group with complimentary drinks in recognition of their successful entertainment.
 3. **Ser Kaelen's visit:** Served drinks to the party during Ser Kaelen's recruitment conversation at the inn.
 4. **1/1 Taraksh:** Upon the party's return from the dwarven ruins, again persuaded Vukradin to play popular music for the inn's clientele.
+5. **After Lyra's council verdict:** Lyra offered to buy the party drinks at the Stonehill Inn when they returned to Phandalin (following her restoration to good standing by the council).
 
 ## Current Status
 - **Last Known Location:** Stonehill Inn, Phandalin
@@ -46,6 +47,7 @@ source_extracts: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18,
 - **Brewbarry:** Accepted without hostility; crowd-pleasing physical performer — likely favorable impression
 - **Valphine:** Neutral to tepid — underperformed during the tavern show
 - **Ser Kaelen:** Hosted Kaelen's recruitment meeting at the inn (nature of personal relationship unclear)
+- **Lyra:** The Stonehill Inn is a place Lyra knows to bring the party for celebration drinks
 - **Phandalin / Neverwinter:** Loyal to the town; hopes for outside military support against regional threats
 
 ## Arc Score Events

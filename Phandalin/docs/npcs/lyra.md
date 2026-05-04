@@ -1,7 +1,7 @@
 ---
 name: lyra
 aliases: []
-source_extracts: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38]
+source_extracts: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39]
 ---
 
 # Lyra
@@ -18,6 +18,7 @@ source_extracts: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18,
 - **Drives:** Personal affection for the Whispering Grove motivated her to act unilaterally when the Enclave was paralyzed by internal debate; she is willing to take risks but prone to poor planning
 - Lyra is passionate and principled, aligning with the interventionist position that planar corruption is alien and must be cleansed. She can be hot-tempered, as shown by her screaming confrontation with Adabra. She is also self-aware enough to admit fault — "I don't think I thought this through very carefully" — though this candor has not yet translated into more cautious decision-making.
 - She convinced her agents that the forest and the gods would protect them and that they would succeed in the grove ritual, demonstrating both her conviction and her tendency toward overconfidence.
+- She prepares carefully when accountability is at stake, as demonstrated by her prepared remarks for the druid council. When confessing failures, she speaks plainly without shame or defiance — just statement of fact.
 
 ## History with the Party
 
@@ -33,24 +34,31 @@ The party devised a plan to credit the rescue of a missing Emerald Enclave patro
 **Session 4 – Reunion in Phandalin**
 Lyra reunited with the two rescued Enclave members in Phandalin. Despite this success, she remained deeply discouraged, citing the treant failure and her men's capture as evidence of her poor leadership. Vukradin offered encouragement; one rescued agent revealed the party had told him it was Lyra's plan that saved him. Heartened, she agreed to let Vukradin help vouch for her competence at an upcoming Emerald Enclave meeting scheduled for the following day.
 
+**Session [Extract 039] – The Druid Council**
+Lyra became the subject of Adabra's ostracization effort within the Emerald Enclave. The party traveled to the druid council specifically to defend her. At the council, Lyra spoke first, explaining what had happened at the rift — the failing ritual, planar damage spreading through the forest, and the treant's death. She had prepared her remarks carefully. Together with Thomas, she openly confessed: "Lyra asked us to go deal with the metastasized treant. We tried, we failed, the party showed up, they killed it." There was no shame or defiance in her voice — just plain statement of fact. The council ruled in her favor, and Lyra was restored to full good standing within the Emerald Enclave. Afterward, she offered to buy the party drinks at the Stonehill Inn when they returned to Phandalin. Soma noted that some of Lyra's gratitude seemed aimed at the absent Vukradin.
+
 ## Current Status
-- **Last Known Location:** Phandalin, preparing for an Emerald Enclave organizational meeting
-- **Active Plans:** Allowing Vukradin to assist in rehabilitating her reputation before the Enclave; positioning herself for advancement within the organization
-- **What the Party Knows:** Lyra acted unilaterally on the grove ritual without Enclave sanction; a promotion was riding on its success; she is personally discouraged but being deliberately cultivated as a faction ally
-- **What Remains Hidden:** The full extent to which the Enclave leadership knows of or disapproves of her unauthorized action; whether her superiors are aware of the party's role in the patrol rescue and how credit is being framed
+- **Last Known Location:** Emerald Enclave druid council; planning to return to Phandalin to buy the party drinks at the Stonehill Inn
+- **Active Plans:** Celebrating her restoration to good standing; expressing gratitude to the party
+- **Standing:** Restored to full good standing within the Emerald Enclave after the council's ruling
+- **What the Party Knows:** Lyra acted unilaterally on the grove ritual without Enclave sanction; a promotion was riding on its success; she was targeted for ostracization by Adabra but successfully defended at the council; she is personally grateful to the party for their defense, particularly to Vukradin
+- **What Remains Hidden:** Whether her relationship with Enclave leadership has fully recovered beyond formal reinstatement; the long-term political consequences of Adabra's failed ostracization attempt
 
 ## Relationships
-- **Vukradin:** The party member most actively invested in her advancement; has offered her encouragement and arranged to vouch for her at the Enclave meeting. She has had friction with him (he deflected her during the Adabra confrontation) but the relationship has since warmed considerably.
-- **Soma:** Engaged her most substantively in conversation at the grove; drew out her exposition on the Enclave's schism and the Treant's history.
+- **Vukradin:** The party member most actively invested in her advancement; has offered her encouragement and arranged to vouch for her at the Enclave meeting. She has had friction with him (he deflected her during the Adabra confrontation) but the relationship has since warmed considerably. Some of her gratitude after the council ruling seemed specifically aimed at him, even in his absence.
+- **Soma:** Engaged her most substantively in conversation at the grove; drew out her exposition on the Enclave's schism and the Treant's history. Observed her gratitude toward Vukradin after the council.
 - **Valphine:** Questioned her judgment at the grove alongside Vukradin.
-- **Adabra:** Lyra considers her dangerous and fanatical; regards the party's tolerance of Adabra as foolish.
-- **Thomas and Marian:** Her Enclave agents who were trapped with her at the grove; they later spoke candidly about her failures and motivations at the tavern.
+- **Adabra:** Lyra considers her dangerous and fanatical; regards the party's tolerance of Adabra as foolish. Adabra actively worked to ostracize Lyra within the Emerald Enclave, prompting the party to travel to the druid council to defend her.
+- **Thomas and Marian:** Her Enclave agents who were trapped with her at the grove; they later spoke candidly about her failures and motivations at the tavern. Thomas stood with her at the druid council and jointly confessed the failure at the rift.
 - **Delaan Winterhound:** Historical Enclave leader whose decision to fight Tiamat she used as a reference point for the interventionist/naturalist schism; not a personal relationship.
 - **Malfire:** Historical hero who persuaded Delaan Winterhound to commit the Enclave to fighting Tiamat's summoning during the War of the Dragons; referenced in her exposition; not a personal relationship.
-- **Emerald Enclave (as institution):** Her relationship is complicated — she is loyal in conviction but acted against organizational process; she is now dependent on party support to recover her standing.
+- **Emerald Enclave (as institution):** Her relationship is complicated — she is loyal in conviction but acted against organizational process; she survived Adabra's ostracization attempt and has been restored to full good standing, though the path to advancement remains uncertain.
 
 ## Arc Score Events
 - **Decrease** — Ritual failure at the Whispering Grove; planar wells expanded and her team nearly died; promotion lost
 - **Decrease** — Patrol captured under her leadership; further evidence of poor command decisions
 - **Increase** — Party arranged for patrol rescue to be credited to her, boosting her Enclave reputation
 - **Increase** — Rescued patrol member publicly affirmed her leadership to her face; Vukradin committed to vouching for her at the Enclave meeting
+- **Decrease** — Targeted for ostracization by Adabra within the Emerald Enclave
+- **Increase** — Party traveled to druid council specifically to defend her
+- **Increase** — Council ruled in her favor; restored to full good standing within the Emerald Enclave

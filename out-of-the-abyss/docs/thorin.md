@@ -4,7 +4,7 @@
 - **Class & Level:** Fighter 8
 - **Species:** Dwarf
 - **Background:** Giant Foundling
-- **Player:** kostadis1
+- **Player:** Joe Beda 
 - **Alignment:** Chaotic Neutral
 - **Age:** 75
 - **Gender:** Male

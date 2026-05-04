@@ -1,128 +1,159 @@
 ## NPCs
 
+**Daz**
+- Current location: Summoning circle cavern (beyond White Shell Mine breach)
+- Current state: Active, mid-ritual
+- Recent actions: Sculpted a fire explosion to avoid Zalthir and the lichen during combat; perceived the Galeb Duhr vibrations as a linguistic pattern; completed the ancient handshake protocol using resonant geodes and humming; successfully charmed one of the two basilisks, freezing it in place
+- Faction: Party
+- Motivations/secrets: None revealed beyond immediate party goals
+
+**Zalthir**
+- Current location: Summoning circle cavern, engaged in close combat with one basilisk
+- Current state: Active, fighting basilisk while averting eyes
+- Recent actions: Dealt relentless strikes against the Shambling Mound; recalled a metaphysical puzzle from his training regarding time-snagged magical pressure; channeled frustration into the void and executed a perfect maneuver to redirect a magical blast through shadow space, shattering the crystallite wall safely
+- Faction: Party
+- Revealed details: Is or was trained in Shadow Monk techniques; his training included metaphysical puzzles
+
+**Thorin**
+- Current location: Summoning circle cavern, at the summoning circle
+- Current state: Active, mid-ritual; has completed the weapon sacrifice (dart)
+- Recent actions: Delivered devastating blows to the Shambling Mound; rushed to the summoning circle; deciphered giant runes; placed a dart as the weapon sacrifice, which was instantly swallowed and rusted to dust
+- Faction: Party
+- Motivations/secrets: Seeking to free Entemoch and claim his boon
+
+**Grygum**
+- Current location: Summoning circle cavern (beyond White Shell Mine breach)
+- Current state: Active
+- Recent actions: Sensed the Galeb Duhr were waiting for divine authority; provided a blessing to aid Zalthir during the shadow maneuver
+- Faction: Party
+- Motivations/secrets: None revealed beyond immediate party goals
+
+**Zuggtmoy (The Lady of Rot)**
+- Current location: Not physically present in this scene; communicated telepathically
+- Current state: Active, pursuing sinister agenda
+- Recent actions: Voice echoed in the party's minds, speaking to the Pudding King about her plans
+- Faction: Antagonist (demon lord of rot/fungi)
+- Revealed motivations/secrets: Plans to use oozes to "soften the shell" so her "garden" can "take root in the flesh beneath"; was communicating with the Pudding King
+
+**The Pudding King**
+- Current location: Not physically present; was the recipient of Zuggtmoy's telepathic communication
+- Current state: Unknown; apparently in communication with Zuggtmoy
+- Recent actions: Was spoken to by Zuggtmoy regarding her plans (overheard by the party)
+- Faction: Affiliated with Zuggtmoy
+- Motivations/secrets: None independently revealed; instrument of Zuggtmoy's plans
+
 **Dasco Pickshine**
 - Current location: Pickshine Mine
-- Current state: Grudging but grateful
-- Recent actions: Attempted to move the Galeb Duhr by striking them with his pickaxe; failed. Offered the party two ruby gems worth 500 gold pieces as thanks after they cleared the path.
-- Faction: Mine owner (Pickshine Mine)
-- Motivations: Wants the Galeb Duhr removed so mining operations can continue.
+- Current state: Active; problem resolved
+- Recent actions: Had previously tried everything to move the Galeb Duhr including striking them with his pickaxe, to no avail; grudgingly offered the party two ruby gems worth 500 gp as thanks after the party solved the problem
+- Faction: Independent mine owner
+- Motivations/secrets: Wanted the path through his mine reopened
 
 **Perigrog Scrapedust**
 - Current location: White Shell Mine
-- Current state: Active, working with the party
-- Recent actions: Explained the impassable tunnel situation to the party; the gnomes under his leadership provided specialized explosives for the breach.
-- Faction: Gnome miners (White Shell Mine)
-
-**Pudding King**
-- Current location: Unknown
-- Current state: In communication with Zuggtmoy
-- Recent actions: Addressed by Zuggtmoy in a psychic message overheard by the party
-- Faction: Servant of Zuggtmoy
-- Motivations: Carrying out Zuggtmoy's plans involving oozes
-
-**Zuggtmoy (The Lady of Rot)**
-- Current location: Unknown
-- Current state: Actively scheming
-- Recent actions: Sent a psychic message to the Pudding King, overheard by the party, about using oozes to "soften the shell" so her garden could "take root in the flesh beneath."
-- Faction: Demon Lord
-- Motivations: Plans to use oozes as a preparatory phase for a fungal takeover of living flesh.
-
-**Zalthir**
-- Current location: Summoning circle cavern beyond White Shell Mine
-- Current state: Active, engaged in combat with basilisk
-- Recent actions: Helped kill the Shambling Mound; recalled metaphysical knowledge about the time-snagged tunnel; channeled frustration into shadow meditation; redirected the magical blast through shadow space to safely breach the wall; engaged a basilisk in melee while averting his eyes.
-- Faction: Party member
-- Notes: Shadow Monk; his unique abilities were essential to safely breaching the frozen-time wall.
-
-**Daz**
-- Current location: Summoning circle cavern beyond White Shell Mine
-- Current state: Active
-- Recent actions: Used sculpted fire explosion against the Shambling Mound (avoiding Zalthir and the lichen); perceived Galeb Duhr vibrations as a linguistic pattern; discovered resonant geodes and completed the ancient handshake protocol by arranging them and humming; charmed one basilisk with an incapacitating enchantment.
-- Faction: Party member
-
-**Thorin**
-- Current location: At the summoning circle, performing the ritual
-- Current state: Active, mid-ritual
-- Recent actions: Delivered devastating blows to the Shambling Mound; rushed to the summoning circle; deciphered the giant runes; placed a dart as the weapon sacrifice (first of three required sacrifices).
-- Faction: Party member
-- Notes: Can read giant script.
-
-**Grygum**
-- Current location: Summoning circle cavern beyond White Shell Mine
-- Current state: Active
-- Recent actions: Sensed the Galeb Duhr were waiting for divine authority; blessed Zalthir to aid his shadow maneuver during the wall breach.
-- Faction: Party member
+- Current state: Active; problem resolved
+- Recent actions: Explained to the party that a tunnel had become impassable—impossibly dry, blinding crystallite walls, absolute silence, shadows appearing painted rather than flickering
+- Faction: White Shell Mine (gnomes)
+- Motivations/secrets: Wanted the impassable tunnel cleared
 
 **Entemoch**
-- Current location: Bound/trapped; accessible via the summoning circle
-- Current state: Imprisoned or restrained; requires a ritual with three sacrifices to be freed
-- Motivations: Unknown; freeing him grants a boon.
+- Current location: Not yet freed; bound or imprisoned, accessible via the summoning circle
+- Current state: Bound; ritual to free him is in progress
+- Recent actions: None yet; is the target of the summoning ritual
+- Faction: Unknown (subject of the party's quest)
+- Motivations/secrets: A boon is associated with his freedom; three sacrifices required to free him—wealth, a weapon, and blood
+
+---
 
 ## Factions
 
-**Zuggtmoy's Forces**
-- Current goals: Use oozes to "soften the shell" of targets so Zuggtmoy's fungal garden can "take root in the flesh beneath."
-- Key members: Zuggtmoy (leader), Pudding King (servant/agent)
-- Recent actions: Zuggtmoy communicated plans to the Pudding King via psychic message.
+**The Party (Daz, Zalthir, Thorin, Grygum)**
+- Current goals: Complete the summoning ritual to free Entemoch and claim his boon; had previously sought rare lichen for anti-acid armor
+- Recent actions: Defeated a Shambling Mound; harvested rare lichen; unlocked Pickshine Mine by completing a Galeb Duhr resonance protocol; breached an impassable time-snagged wall in White Shell Mine; engaged two basilisks and began the three-part sacrifice ritual
+- Relationships: Received grudging reward from Dasco Pickshine; assisted gnomes of White Shell Mine
+- Key members: Daz, Zalthir (Shadow Monk), Thorin, Grygum
 
-**Pickshine Mine Operation**
+**Zuggtmoy's Faction**
+- Current goals: Use oozes to "soften the shell" so her "garden" can "take root in the flesh beneath"
+- Recent actions: Zuggtmoy communicated her plans to the Pudding King (overheard by the party)
+- Relationships: Commands or directs the Pudding King
+- Key members: Zuggtmoy (Lady of Rot), the Pudding King
+
+**Pickshine Mine**
+- Current goals: Keep the mine operational and paths clear
+- Recent actions: Owner Dasco Pickshine had failed to move the Galeb Duhr; rewarded the party with two ruby gems (500 gp) after they succeeded
 - Key members: Dasco Pickshine (owner)
-- Current state: Path was blocked by Galeb Duhr; now cleared by the party.
 
 **White Shell Mine Gnomes**
+- Current goals: Keep the mine operational; needed the impassable tunnel breached
+- Recent actions: Provided specialized explosives used in Zalthir's shadow maneuver; celebrated success after the wall was shattered
 - Key members: Perigrog Scrapedust
-- Current goals: Reopen the impassable tunnel in their mine.
-- Recent actions: Provided specialized explosives; celebrated the successful breach.
-- Notes: White Shell Mine is described as the largest salt mine in the Underdark.
+
+---
 
 ## World Events
 
-- The party defeated a Shambling Mound in the Festering Fissure while charmed Violet Fungus stood idle; harvested rare lichen needed for anti-acid armor.
-- Zuggtmoy psychically communicated to the Pudding King, revealing her plan to use oozes to soften defenses for a fungal takeover; the party overheard this message.
-- Four Galeb Duhr blocked the path at Pickshine Mine, vibrating rhythmically as if waiting for a response to an ancient protocol; Dasco Pickshine had been unable to move them.
-- Daz identified the Galeb Duhr vibrations as a linguistic call-and-response pattern, found resonant geodes, and completed the "ancient handshake protocol" by arranging them and humming; the Galeb Duhr relaxed and opened the way.
-- Dasco Pickshine paid the party two ruby gems worth 500 gp total.
-- The geode began acting as a beacon locator, guiding the party deeper underground to White Shell Mine.
-- The party discovered an impassable tunnel in White Shell Mine: impossibly dry, blinding crystallite walls, absolute silence, shadows that appeared painted/static—as if time itself had stopped.
-- Zalthir identified the phenomenon as a "time snag" caused by magical pressure; breaking it directly would cause a catastrophic explosion; only a Shadow Monk could safely resolve it.
-- Gnome explosives were detonated while Zalthir redirected the blast through shadow space, successfully breaching the wall without collapsing tunnels.
-- Beyond the breached wall, the party discovered a large cavern containing a summoning circle inscribed with giant runes, guarded by two basilisks behaving mechanically.
-- The party engaged the basilisks: Zalthir fought one in melee while averting his eyes; Daz charmed and incapacitated the other.
-- Thorin deciphered the summoning circle: freeing Entemoch requires three sacrifices—wealth, a weapon, and blood.
-- Thorin placed a dart as the weapon sacrifice; the stone consumed it, rusting it to dust; runes changed from yellow to blinding orange; the air grew hot; the uncharmed basilisk became frantic.
+- The party fought a Shambling Mound in the Festering Fissure; charmed Violet Fungus stood by in confusion during the fight.
+- Daz sculpted a fire explosion to avoid Zalthir and the rare lichen during combat.
+- The Shambling Mound was brought down through Zalthir's relentless strikes and Thorin's devastating blows.
+- The party harvested rare lichen from the Festering Fissure, needed for anti-acid armor.
+- Zuggtmoy's voice echoed in the party's minds, communicating to the Pudding King her plan to use oozes to "soften the shell" so her garden could "take root in the flesh beneath."
+- The party arrived at Pickshine Mine and found four massive Galeb Duhr blocking the path, vibrating rhythmically.
+- Dasco Pickshine informed the party he had tried everything, including striking the Galeb Duhr with his pickaxe, to no avail.
+- Grygum sensed the Galeb Duhr were waiting for divine authority; Daz identified their vibrations as a linguistic pattern awaiting an echo.
+- Daz discovered resonant geodes, arranged them, and hummed to complete the ancient handshake protocol; the Galeb Duhr relaxed and opened the way.
+- Dasco Pickshine grudgingly rewarded the party with two ruby gems worth 500 gp.
+- The party followed the geode beacon deeper into the earth to the White Shell Mine.
+- Perigrog Scrapedust described an impassable tunnel: impossibly dry, blinding crystallite walls, absolute silence, shadows appearing painted on walls rather than flickering.
+- Zalthir identified the phenomenon as magical pressure causing time to snag; recalled that breaking it directly would cause a catastrophic explosion.
+- The solution was identified: create a hole for the backlog of reality to pass through safely, achievable only by a Shadow Monk.
+- White Shell Mine gnomes provided specialized explosives for the operation.
+- Zalthir meditated, channeling frustration into the void; Grygum provided a blessing.
+- Zalthir executed a perfect maneuver to redirect the magical blast through shadow space as the explosives detonated; the crystallite wall shattered without collapsing the tunnels.
+- The gnomes celebrated the success.
+- The party discovered a large cavern beyond the breach containing a summoning circle inscribed with runes in giant script.
+- Two basilisks were found guarding the summoning circle, moving with mechanical precision as if viewing the party as flaws in perfect stone.
+- The party devised a strategy: Zalthir engaged one basilisk in close combat while averting his eyes; Daz charmed the other, freezing it in place.
+- Thorin rushed to the summoning circle and deciphered the giant runes.
+- The runes specified three sacrifices to free Entemoch and claim his boon: wealth, a weapon, and blood.
+- Thorin placed a dart onto the runes as the weapon sacrifice; the stone instantly swallowed it, rusting it to dust in seconds.
+- The runes transformed from yellow to blinding orange, the air grew hot, and the uncharmed basilisk became frantic.
+- The ritual is in progress with two sacrifices (wealth and blood) still remaining.
+
+---
 
 ## Locations
 
 **The Festering Fissure**
-- Underdark location where the party fought a Shambling Mound and charmed Violet Fungus.
-- Contains rare lichen used for crafting anti-acid armor.
-- Current state: Cleared of threats; lichen harvested.
+- What it is: A location in the Underdark containing rare lichen and dangerous creatures
+- What happened there: Party fought a Shambling Mound and charmed Violet Fungus; harvested rare lichen needed for anti-acid armor; overheard Zuggtmoy's telepathic communication to the Pudding King
+- Current state: Combat concluded; lichen harvested
 
 **Pickshine Mine**
-- Mine owned by Dasco Pickshine.
-- Path was blocked by four ancient Galeb Duhr acting as sentinels, vibrating in a call-and-response pattern.
-- Current state: Path cleared after Daz completed the ancient handshake protocol. Mining presumably can resume.
+- What it is: A mine owned by Dasco Pickshine
+- What happened there: Four Galeb Duhr were blocking the path; Daz completed a resonance protocol using geodes and humming to unlock their ancient handshake, causing them to open the way
+- Current state: Path now open; Galeb Duhr relaxed
 
 **White Shell Mine**
-- The largest salt mine in the Underdark.
-- Operated by gnomes under Perigrog Scrapedust.
-- Contained an impassable tunnel where time had snagged: impossibly dry, crystallite walls, absolute silence, static shadows.
-- Current state: Wall breached by Zalthir's shadow maneuver combined with gnome explosives. Tunnel now passable.
+- What it is: The largest salt mine in the Underdark
+- What happened there: An impassable time-snagged tunnel with blinding crystallite walls and absolute silence was blocking progress; Zalthir used shadow monk abilities with gnome explosives to safely shatter the wall; a hidden cavern with a summoning circle and basilisk guardians was discovered beyond
+- Current state: Tunnel breached; party currently in the cavern beyond
 
-**Summoning Circle Cavern (beyond White Shell Mine)**
-- Large cavern discovered beyond the breached wall.
-- Contains a summoning circle inscribed with runes in giant script.
-- Guarded by two basilisks with mechanical, unnatural behavior (viewing intruders as "flaws in perfect stone").
-- The circle is used to free Entemoch; requires three sacrifices: wealth, a weapon, and blood.
-- Current state: Weapon sacrifice (dart) completed; runes turned from yellow to blinding orange; air is hot; ritual is partially underway. One basilisk charmed/incapacitated, one frantic.
+**Summoning Circle Cavern** (beyond the White Shell Mine breach)
+- What it is: A large cavern containing a summoning circle inscribed with giant runes; apparently connected to Entemoch
+- What happened there: Party engaged two basilisks; Thorin deciphered the runes and completed the weapon sacrifice (dart), initiating the ritual; runes shifted from yellow to blinding orange
+- Current state: Ritual in progress; two basilisks present (one charmed, one frantic); two sacrifices remaining (wealth and blood)
+
+---
 
 ## Threads & Mysteries
 
-- **Zuggtmoy's Plan**: Zuggtmoy intends to use oozes to "soften the shell" so her garden can "take root in the flesh beneath." What is the target? What does this mean concretely? The Pudding King is executing this plan somewhere.
-- **Entemoch's Boon**: Two sacrifices remain (wealth and blood) to free Entemoch. What exactly is Entemoch, and what boon will he grant? What consequences will completing the ritual have?
-- **The Geode Beacon**: The resonant geode from the Galeb Duhr encounter began acting as a beacon locator leading deeper underground. What is its ultimate destination? Does it have further purpose beyond guiding them to the summoning circle?
-- **The Galeb Duhr Protocol**: The Galeb Duhr were waiting for divine authority and an ancient call-and-response. Who originally set them as sentinels, and what were they guarding? Why were they at Pickshine Mine?
-- **The Time Snag**: What caused the magical pressure that snagged time in White Shell Mine's tunnel? Was it related to the summoning circle and Entemoch's imprisonment beyond?
-- **Anti-Acid Armor**: The rare lichen was harvested for crafting anti-acid armor. This has not yet been crafted; implies future need for acid resistance.
-- **Basilisk Behavior**: The basilisks guarded the summoning circle with mechanical precision, as if programmed rather than natural. Who placed them there and bound them to this duty?
-- **The Charmed Basilisk**: One basilisk is still alive and charmed; the other is frantic. Their fate remains unresolved.
+- **Zuggtmoy's plan**: Zuggtmoy intends to use oozes to "soften the shell" so her garden can "take root in the flesh beneath." The target of this plan and what "the shell" refers to is unspecified. The Pudding King is her instrument.
+- **The Pudding King's role**: The Pudding King is actively receiving instructions from Zuggtmoy; his current location, capabilities, and immediate plans are unknown.
+- **Entemoch's boon**: The nature of the boon Entemoch will grant upon being freed is not yet revealed.
+- **The summoning ritual**: Two of three sacrifices remain—wealth and blood. It is unresolved how these will be provided and what consequences may follow.
+- **The basilisks' unnatural behavior**: The basilisks moved with mechanical precision rather than natural animal behavior, as if they viewed the party as flaws in perfect stone. The origin of this programming or control is unexplained.
+- **The Galeb Duhr handshake protocol**: The nature of the "ancient handshake," who originally created it, and why the Galeb Duhr were placed at Pickshine Mine awaiting this signal are unexplained.
+- **The geode beacon**: The resonant geode is acting as a beacon locator. Its full capabilities and ultimate destination are not yet established.
+- **Anti-acid armor**: The party harvested lichen for anti-acid armor; it is unresolved when and how this armor will be crafted and who will create it.
+- **Time snag phenomenon**: The cause of the time snag in the White Shell Mine tunnel—who or what created it and whether others exist—is unexplained.

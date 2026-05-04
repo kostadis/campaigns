@@ -2,184 +2,210 @@
 
 **Thorin**
 - Current location: Gracklstugh, Darklake District / Blade Bazaar
-- Current state: Alive, active in combat against a mad two-headed stone giant
-- Recent actions: Remembered Greengrass festival; swam to attack invisible Duergar slavers; rescued Stool from capture; threatened Brannum Redmarch to ensure compliance; participated in debate over Buppido's fate; noted that stone giants never talk or bellow, indicating something is wrong with this giant; struck the mad giant with his sword multiple times
-- Background: Lived near giants; familiar with farming communities' Greengrass traditions; giants found the festival peculiar
-- Notes: Eldeth is apparently not romantically interested in him (per Buppido's truth-mushroom ranting)
+- Current state: Active, combatant
+- Recent actions: Swam into darkness to strike invisible Duergar; rescued Stool from Duergar captors; threatened Brannam Redmarch; participated in interrogation of Buppido; engaged the mad two-headed giant in combat
+- Faction: Party
+- Notes: Grew up near giants during the era of King Hekaton's peace decree; possesses blindsight (used in combat against the giant); knows that stone giants do not normally bellow
 
 **Zalthir**
-- Current location: Gracklstugh, Darklake District / Blade Bazaar
-- Current state: Alive, active in combat against the mad giant
-- Faction: Party member (Dragonborn monk)
-- Recent actions: Spotted rocks and abandoned boat ahead; used Darkness ability to gain advantage over invisible Duergar; killed one Duergar in the water; searched the keelboat and found gold, a jug that generates any liquid (first liquid generated: mayonnaise); negotiated with Brannum Redmarch for an Eldritch Claw Tattoo; administered Tongue of Madness mushroom to Buppido; found a list of names he believes may be people who could help the party; fought the mad stone giant using Darkness and flurry of blows
-- Abilities: Can see through his own magical Darkness; martial arts (monk); has a Darkness invocation
-- Notes: Scales haven't been cleaned in ages (per Buppido)
+- Current location: Gracklstugh, Blade Bazaar
+- Current state: Active, combatant
+- Recent actions: Detected invisible Duergar using Shape Water; invoked Darkness and dove into water to attack invisible Duergar; killed Duergar holding Spiderbait; looted Duergar keelboat (found gold and a magical jug); administered Tongue of Madness mushroom to Buppido; found a list of names; engaged the mad two-headed giant in combat using Darkness and Flurry of Blows
+- Faction: Party
+- Motivations: Wants to acquire an Eldritch Claw Tattoo (uncommon magical item); negotiating with Brannam Redmarch to obtain it
 
 **Daz**
-- Current location: Gracklstugh, Darklake District / Blade Bazaar
-- Current state: Alive, active in combat
-- Recent actions: Used Shape Water to reveal invisible Duergar on the keelboat; used Magic Missile against Duergar and against the mad giant; voted to release Buppido in the city after getting guarantees
-- Abilities: Shape Water, Magic Missile
-- Notes: Has foul-smelling breath (per Buppido); wants to acquire area-of-effect spells
+- Current location: Gracklstugh, Blade Bazaar
+- Current state: Active, combatant
+- Recent actions: Suggested using Shape Water to detect invisible Duergar; cast Magic Missile against Duergar combatants; led the party to the Blade Bazaar; voted to release Buppido in the city after leaving; struck the mad giant with Magic Missile
+- Faction: Party
 
 **Grygum**
 - Current location: Gracklstugh, Blade Bazaar
-- Current state: Alive, active in combat against the mad giant
+- Current state: Active, combatant
+- Recent actions: Killed at least one Duergar with an acid belch/magic; purchased a new mace from merchant Dulgir at the Blade Bazaar; observed signs of widespread madness among Duergar merchants; engaged the mad two-headed giant in combat using Bahamut holy symbol (necrotic damage); intervened to prevent Thorin from killing Buppido
 - Faction: Cleric of Bahamut
-- Recent actions: Killed a Duergar with acid belch ability; intervened to spare Buppido's life; purchased a new mace from Dulgir; observed widespread madness among Duergar merchants; attacked the mad giant with necrotic damage via holy symbol; decided to fight the giant to potentially win favor with the Duergar patrol
-- Abilities: Acid belch, necrotic damage via holy symbol (Sacred Flame or similar)
-- Philosophical note: Mused that Dwarven-Duergar conflict is political/resource-based rather than truly religious
+- Motivations: Acts on Bahamut's teaching that good deeds invite reciprocal good; hopes aiding against the giant will earn allies among Duergar patrol
 
 **Hemeth**
-- Current location: Gracklstugh (his home city)
-- Current state: Alive; turned invisible to hide during the Duergar ambush
-- Faction: Duergar; weapons trader
-- Recent actions: Identified the keelboat as Duergar; warned the party about Duergar invisibility; provided extensive information about Gracklstugh (xenophobic, regimented, slaver city, non-Duergar restricted to Darklake District, invisible watchers); was annoyed when Brannum was chosen over him for procuring goods; said magical goods can be purchased in Gracklstugh but not in the Darklake District
-- Abilities: Duergar invisibility (lasts one hour)
+- Current location: Gracklstugh docks / Darklake District
+- Current state: Active, present
+- Recent actions: Identified the abandoned vessel as a Duergar keelboat; turned invisible during the river ambush and hid; provided extensive briefing on Gracklstugh (laws, xenophobia, Darklake District restrictions, Duergar invisibility); expressed displeasure that Zalthir preferred Brannam's trade connections over his own
+- Faction: Duergar (weapons trader)
+- Notes: Does not appear in person beyond the docks sequence but referenced throughout; cannot obtain Eldritch Claw Tattoo
+
+**Brannam Redmarch**
+- Current location: Docks approaching Gracklstugh
+- Current state: Alive, freed under conditional agreement
+- Recent actions: Pleaded not to be turned over to guards; agreed to procure an Eldritch Claw Tattoo for Zalthir within a few days in exchange for freedom; claims to know a contact for uncommon magical items
+- Faction: Unknown (visiting merchant or smuggler)
+- Notes: Threatened by Thorin with consequences if he betrays the party or fails to deliver
+
+**Buppido**
+- Current location: Released into Gracklstugh (or approaching it)
+- Current state: Alive, released
+- Recent actions: Falsely claimed to be invisible during the Duergar ambush; pleaded for release citing madness and repentance; consumed Tongue of Madness mushroom administered by Zalthir; under its influence revealed his bolt hole is in caverns near the city and that he worships something called the Divine Plan; revealed candid (unflattering) opinions of party members; claimed Suushar helped him recognise his madness
+- Faction: Cult of the Divine Plan (unclear)
+- Motivations: Wants to return to his bolt hole near the city; claims to have renounced his prior murderous behaviour
 
 **Jimjar**
 - Current location: Gracklstugh, Darklake District
-- Current state: Alive
-- Faction: Castaway/companion (Deep Gnome)
-- Recent actions: Informed party that Duergar capture slaves to sell in Gracklstugh; explained interplanar travel rules — bringing an avatar of a great power requires powerful magic and artifacts; referenced the Second Sundering and Ao the Overgod ending the Time of Trouble; referenced the Cult of the Dragon's near-summoning of Tiamat; raised the question of who summoned Demogorgon; agreed to help keep an eye on Buppido
-- Notes: His betting habit is very annoying (per Buppido)
-
-**Brannum Redmarch**
-- Current location: Gracklstugh (about to be released into the city)
-- Current state: Alive; pleading not to be turned over to guards
-- Faction: Independent merchant/trader
-- Recent actions: Agreed to procure an Eldritch Claw Tattoo for Zalthir in exchange for his freedom (will take a few days); claims to know a supplier ("I know a guy")
-
-**Buppido**
-- Current location: Gracklstugh (to be released into the city)
-- Current state: Alive; under the effect of Tongue of Madness mushroom; spoke truths about companions
-- Recent actions: Pretended to be invisible by covering his eyes during the Duergar fight; pleaded to be released; claimed his murderous actions were part of a "divine plan" and that he was mad; said he learned from Suushar that he was mad; expressed desire to return to his "bolt hole" in caverns near the city to praise the Divine Plan; insulted all companions while truth-telling
-- Motivations: Wants to return to his bolt hole near Gracklstugh; worships some "Divine Plan"
-
-**Eldeth**
-- Current location: Gracklstugh, Darklake District
-- Current state: Alive; was not captured by Duergar slavers
-- Faction: Dwarf companion/castaway
-- Recent actions: Cursed out the Duergar as "Demonic spawn of dwarven corruption" and slave traders deserving of the Nine Hells
-- Notes: Deep racial animosity toward Duergar; not romantically interested in Thorin
+- Current state: Active
+- Recent actions: Warned Thorin that Duergar capture slaves for sale in Gracklstugh; assigned to watch Buppido; explained interplanar gate travel and the Second Sundering to Zalthir; noted that bringing a powerful outer-planar avatar requires powerful magic and artifacts; referenced the Cult of the Dragon's near-success with Tiamat as comparison; raised the open question of who did bring Demogorgon
+- Faction: Deep Gnome (svirfneblin)
+- Notes: Knowledgeable about interplanar lore; compulsive gambler/bettor
 
 **Stool**
-- Current location: Gracklstugh, with the party
-- Current state: Alive; was captured by Duergar slavers but rescued by Thorin
+- Current location: Darklake District / party's vessel
+- Current state: Alive, rescued
+- Recent actions: Captured by Duergar during the keelboat ambush; freed after Thorin attacked the Duergar holding it
+- Faction: Myconid (castaway)
 
 **Spiderbait**
-- Current location: Gracklstugh, with the party
-- Current state: Alive; was captured/grappled by Duergar slavers but rescued
-- Recent actions: Wanted to kill Buppido on the spot; seething with rage toward Buppido
+- Current location: Darklake District / party's vessel
+- Current state: Alive, rescued
+- Recent actions: Captured by Duergar during ambush; freed when Zalthir killed the Duergar holding it; expressed strong desire to kill Buppido on the spot
+- Faction: Unknown castaway
+
+**Eldeth**
+- Current location: Darklake District / party's vessel
+- Current state: Alive, not captured during ambush
+- Recent actions: Verbally cursed the Duergar as "Demonic spawn of dwarven corruption. Slave trader who deserves to be sent to the nine hells"; was not among those grappled and captured
+- Faction: Dwarf castaway
+- Notes: Thorin is apparently interested in her romantically (Buppido revealed under Truth Mushroom that she is not interested in Thorin)
 
 **Sarith**
-- Current location: Gracklstugh, with the party
-- Current state: Alive
-- Faction: Former Drow (Lolth's guards trained him)
-- Recent actions: Claimed expertise in interrogation from Lolth's guard training; recommended Daz handle interrogation of the Duergar prisoner
-
-**Sethir**
-- Current location: Gracklstugh, with the party
-- Current state: Alive
-- Recent actions: Mentioned plans to go to the Lost Tomb of Khem for treasure
+- Current location: Darklake District / party's vessel
+- Current state: Active
+- Recent actions: Stated that Lolth's guards trained him in interrogation; recommended Daz be given first attempt at questioning the captured Duergar prisoner
+- Faction: Drow (former Lolth guard)
 
 **Suushar**
-- Current location: Unknown (referenced only)
-- Notes: Apparently helped Buppido realize he was mad
+- Current location: Not physically present in this chunk
+- Recent actions: Referenced by Buppido as having helped him recognise that he was mad
+- Notes: Does not appear directly; Buppido credits Suushar with his claimed reformation
 
 **Dulgir**
-- Current location: Gracklstugh, Blade Bazaar (merchant stall)
-- Current state: Alive; behaving erratically (shifted demeanor drastically between buying and selling)
+- Current location: Blade Bazaar, Gracklstugh
+- Current state: Active merchant
+- Recent actions: Initially cursed Grygum when he tried to sell a mace; shifted to cooperative when Grygum offered to buy instead; sold Grygum a new mace; informed Grygum that a nearby cloth merchant's imaginary brother "doesn't exist"
 - Faction: Duergar merchant
-- Recent actions: Cursed Grygum when he tried to sell a mace; became pleasant when Grygum switched to buying; sold Grygum a new mace; told Grygum that a nearby merchant's "brother" doesn't exist
 
 **King Hekaton**
-- Current location: Unknown
-- Faction: Giant king
-- Recent actions (historical): Decreed peace with "the little people" after the War of the Giants
+- Current location: Not present
+- Notes: Referenced in Thorin's memory; decreed peace with "little people" after the War of the Giants; does not appear in this chunk
+
+---
 
 ## Factions
 
+**The Party (Thorin, Zalthir, Daz, Grygum)**
+- Current goals: Acquire equipment; gather information on escaping the Underdark; reach the Lost Tomb of Khem for treasure
+- Recent actions: Defeated Duergar ambush on the Darklake; arrived at Gracklstugh; navigated entry into the Darklake District; began trading at the Blade Bazaar; engaged the mad two-headed giant
+- Relationships: Travelling with former castaways (Jimjar, Stool, Spiderbait, Eldeth, Sarith, Hemeth, Buppido); conditionally allied with Brannam Redmarch
+
 **Duergar of Gracklstugh**
-- Current goals: Maintain order; trade (especially weapons and slaves); enforce strict regimentation
-- Key traits: Xenophobic; non-Duergar restricted to Darklake District; all Duergar can become invisible at will; slavers who capture and sell slaves in Gracklstugh; prize order and work over art and beauty; plain, functional architecture
-- Current state: Afflicted by widespread madness — merchants behave erratically, give inconsistent prices, change terms, turn invisible mid-transaction, threaten customers then deny it, talk to nonexistent relatives
-- Key members: Hemeth (weapons trader), Dulgir (Blade Bazaar merchant)
-- Relationship to Dwarves: Deep mutual animosity; compete for the same resources; Eldeth views them as demonic corruption of dwarves
+- Current goals: Slave trade; maintaining strict civic order; xenophobic control of non-Duergar visitors (restricted to Darklake District)
+- Recent actions: Ambushed the party's boat with an invisible raiding party attempting to capture slaves; Duergar city patrol raced toward the mad giant
+- Relationships: Competitors with surface Dwarves (per Grygum's analysis, rivalry is resource-based as much as religious)
+- Key members: Hemeth (weapons trader, allied with party); Dulgir (Blade Bazaar merchant)
+- Notes: Widespread unexplained madness observed among Duergar merchants in the Blade Bazaar
 
-**Giants (Stone Giants and others)**
-- Historical note: After the War of the Giants, King Hekaton decreed peace with smaller races
-- Current state: A two-headed stone giant has gone mad, burst through a gate in Gracklstugh's Darklake District, attacking indiscriminately
-- Notes: Stone giants normally do not talk or bellow; two heads are noted as less unusual than the bellowing
+**Cult of the Divine Plan**
+- Current goals: Unknown; Buppido describes it in terms of a divine calling
+- Recent actions: Buppido acted on its behalf during prior events; Buppido now claims to have renounced it
+- Relationships: Unknown connection to the wider madness afflicting the Underdark
+- Key members: Buppido (self-described follower, claims reformed)
 
-**Cult of the Dragon**
-- Referenced historically: Nearly brought Tiamat into the realms using artifacts and rituals
+**Cult of the Dragon** (referenced, not present)
+- Notes: Referenced by Jimjar as a historical example of a group that nearly brought Tiamat into the Prime Material Plane using artifacts and rituals; used as comparison to explain why Buppido alone could not summon Demogorgon
 
-**Church/Followers of Bahamut**
-- Key member: Grygum (cleric)
-- Teachings: Doing a good turn for someone may lead them to do a good turn for you
+**Church / Faith of Bahamut**
+- Current goals: Not specified beyond Grygum's personal practice
+- Key members: Grygum (cleric)
+- Teachings referenced: Doing good deeds invites reciprocal good deeds
+
+---
 
 ## World Events
 
-- Greengrass festival day occurs; Thorin remembers it from farming communities near the giants he grew up with — wealthy farmers bring flowers to poorer farmers to encourage gods to usher in summer
-- Party encounters an abandoned Duergar keelboat on the Darklake with crates; Duergar slavers are hiding invisibly aboard
-- Daz uses Shape Water to reveal an invisible Duergar on the keelboat
-- Combat ensues with invisible Duergar slavers in the water; multiple party members and castaways are grappled
-- Stool and Spiderbait are captured by Duergar slavers but rescued; several Duergar are killed; one Duergar prisoner is taken
-- Party recovers gold and a magical jug (generates any liquid) from the keelboat; first liquid generated is mayonnaise
-- Party debates fate of Brannum Redmarch and Buppido before arriving at Gracklstugh
-- Brannum Redmarch agrees to procure an Eldritch Claw Tattoo for Zalthir in exchange for freedom
-- Buppido is fed a Tongue of Madness mushroom and reveals his desire to return to his bolt hole and his true (insulting) opinions of companions; party decides to release him in the city
-- Party arrives at Gracklstugh on the 9th day of the 1st Tenday of Myrtul
-- Party enters the Darklake District and heads to the Blade Bazaar
-- Grygum purchases a new mace from Dulgir
-- Widespread madness is observed among Duergar merchants in the Blade Bazaar — erratic behavior, inconsistent pricing, invisible mid-transaction, talking to nonexistent people
-- A two-headed, gray-skinned, mad stone giant bursts through a gate into the Darklake District, howling and destroying surroundings; kills at least one Duergar soldier
-- A Duergar patrol races toward the giant
-- Party engages the mad giant in combat: Daz fires magic missiles; Zalthir uses Darkness and attempts flurry of blows; Thorin strikes with sword; Grygum uses necrotic damage via holy symbol; Zalthir deflects a blow aimed at Thorin
+- Thorin reflects that today is Greengrass, a spring festival observed by farming communities near the giants he lived with, instituted under King Hekaton's peace decree after the War of the Giants.
+- The party spots an abandoned Duergar keelboat on the Darklake; Hemeth identifies it by its crates.
+- Daz uses Shape Water to spray the area around the keelboat, revealing the outline of at least one invisible Duergar in the water.
+- Zalthir invokes Darkness and dives into the water; he and Thorin engage invisible Duergar in underwater combat.
+- Grygum kills at least one Duergar with an acid-based magical attack (described as a belch).
+- Duergar from or near the keelboat grapple and attempt to capture several members of the travelling group, including Stool and Spiderbait, pulling them overboard.
+- Thorin attacks the Duergar holding Stool; the Duergar releases Stool.
+- Zalthir kills the Duergar holding Spiderbait.
+- Magic Missile from Daz kills at least one additional Duergar.
+- The last surviving Duergar is taken prisoner.
+- The party loots the Duergar keelboat: finds gold and a magical jug capable of generating any liquid (first liquid produced is mayonnaise).
+- Sarith recommends Daz question the Duergar prisoner first; the interrogation is planned but not depicted in this chunk.
+- The party arrives at Gracklstugh after several days of travel; Hemeth has briefed them on the city's layout and customs.
+- The party negotiates the fates of Brannam Redmarch and Buppido at the docks.
+- Brannam Redmarch agrees to procure an Eldritch Claw Tattoo for Zalthir in exchange for freedom; Thorin warns him of consequences for betrayal.
+- Buppido is given a Tongue of Madness mushroom by Zalthir; under its effect he reveals his bolt hole location, his continued adherence to the Divine Plan (at least unconsciously), and unflattering opinions of all party members.
+- The party votes to release Buppido into the city when they depart.
+- Jimjar explains the Second Sundering and its implications for interplanar travel; raises the open question of who brought Demogorgon into the Underdark.
+- Grygum purchases a new mace from Dulgir at the Blade Bazaar.
+- Grygum observes multiple Duergar merchants in the Blade Bazaar exhibiting signs of madness: contradictory pricing, turning invisible mid-transaction while continuing to speak, threatening customers and denying it, and conversing with a non-existent brother.
+- A two-headed, grey-skinned giant (ettin) bursts through a gate into a plaza near the Blade Bazaar, howling and attacking, killing at least one Duergar soldier and causing rock debris damage.
+- The party engages the mad giant in combat; Daz strikes first with Magic Missile, Zalthir uses Darkness and Flurry of Blows, Thorin attacks with a sword, Grygum attacks with necrotic power via his holy symbol.
+- A Duergar patrol moves toward the giant as the combat continues.
+
+---
 
 ## Locations
 
-**Darklake (Underdark waterway)**
-- Underground body of water; party has been traveling on it
-- Site of the Duergar keelboat ambush
+**The Darklake (Underdark waterway)**
+- What it is: Underground body of water used for travel through the Underdark
+- What happened: Site of the Duergar keelboat ambush; the party's boats traveled through it to reach Gracklstugh
+- Current state: Travel ongoing; party has arrived at Gracklstugh
+
+**Duergar Keelboat (abandoned vessel on the Darklake)**
+- What it is: A Duergar vessel identified by its characteristic crates; used by the Duergar slave-raiding party
+- What happened: Abandoned as bait or staging point for an invisible Duergar ambush; party boarded and looted it after defeating the ambushers
+- Current state: Looted; gold and a magical jug of infinite liquids recovered
 
 **Gracklstugh**
-- Duergar metropolis in the Underdark
-- Strictly regimented, xenophobic city; non-Duergar restricted to the Darklake District
-- City of slavers; everyone must obey the laws; Duergar can turn invisible so you never know who watches
-- Architecture: Plain, functional buildings with no decoration; unlike ornate Drow cities
-- Ambiance: Constant hammering from forges, stench and heat from smelters, acrid smoke that burns the sense of smell
-- Currently afflicted by widespread madness among its population
-- Darklake District: Area where non-Duergar are permitted; separated from the rest of the city by gates; contains the Blade Bazaar and docks
-- Current state: A mad two-headed stone giant has burst through a gate into the district
+- What it is: Duergar metropolis in the Underdark; described as strictly regimented, xenophobic, and heavily industrialised; functions effectively as a large work camp centred on smithing and smelting
+- What happened: Party arrived on the 9th day of the 1st Tenday of Myrtul; entered via the docks
+- Current state: Signs of widespread madness observed among the Duergar population; a mad two-headed giant has burst through a gate near the Blade Bazaar and is being engaged by the party and a Duergar patrol
+- Notes: Non-Duergar visitors are restricted to the Darklake District; magical goods cannot be purchased in the Darklake District; Duergar can turn invisible at will, creating a pervasive surveillance atmosphere; air is acrid with forge smoke
 
-**Blade Bazaar**
-- Marketplace in the Darklake District of Gracklstugh
-- Named after the abundant weapons sold there, but sells almost everything
-- Loud with Dwarvish arguing that nearly drowns out forge hammering
-- Crowded (good for slipping away from pursuers)
-- Current state: Scene of mad giant attack; merchants behaving erratically due to madness
+**Darklake District (within Gracklstugh)**
+- What it is: The section of Gracklstugh where non-Duergar are permitted to move freely
+- What happened: Party arrived here; negotiated fates of Brannam and Buppido; proceeded to the Blade Bazaar
+- Current state: Accessible; gates separate it from the rest of the city
+
+**Blade Bazaar (within Gracklstugh, apparently accessible from Darklake District or bordering it)**
+- What it is: The primary marketplace of Gracklstugh; named for the abundance of bladed goods but sells almost everything; crowded and loud, with visiting merchants alongside Duergar stalls
+- What happened: Grygum purchased a mace from Dulgir; multiple merchants observed exhibiting madness; a mad two-headed giant burst through a nearby gate
+- Current state: Active combat between the party, the giant, and a Duergar patrol; chaos following the giant's breach
 
 **Lost Tomb of Khem**
-- A location the party plans to visit after equipping in Gracklstugh
-- Expected to contain treasure
-- Mentioned by Sethir
+- What it is: A named location containing treasure, referenced as a party objective
+- What happened: Mentioned by Sethir as the party's goal after acquiring equipment in Gracklstugh
+- Current state: Not yet visited; destination
 
 **Buppido's Bolt Hole**
-- Located in caverns near Gracklstugh
-- Buppido's personal hideout where he wants to return to "praise the Divine Plan"
+- What it is: A hiding place in caverns near Gracklstugh used by Buppido for worship of the Divine Plan
+- What happened: Revealed involuntarily by Buppido under the effect of the Tongue of Madness mushroom
+- Current state: Unknown; Buppido intends to return there
+
+---
 
 ## Threads & Mysteries
 
-- **Who summoned Demogorgon?** Jimjar explicitly raises this question — bringing an avatar of a great power into the Prime Material Plane requires powerful magic and artifacts (per rules established after the Second Sundering). The Kuo-toans and Buppido lack this power. Someone or something else is responsible.
-- **Widespread madness in Gracklstugh**: Duergar merchants behave erratically — inconsistent pricing, turning invisible mid-conversation, talking to nonexistent people, threatening customers then denying it. Grygum suspects the same madness that consumed the Kuo-toans.
-- **The mad two-headed stone giant**: A stone giant that bellows (abnormal behavior per Thorin) and has two heads burst through a gate. What caused its madness? Is it connected to the broader madness affecting the Underdark?
-- **Connection between the madness events**: Kuo-toan madness, Duergar merchant madness, and the mad stone giant may all be linked — possibly to Demogorgon's presence or whoever summoned him.
-- **Buppido's "Divine Plan"**: What is the Divine Plan Buppido worships? He has been released into Gracklstugh — will he cause more trouble?
-- **Brannum Redmarch's deal**: Will he successfully procure the Eldritch Claw Tattoo for Zalthir, or will he betray the party?
-- **Zalthir's list of names**: Found a list of names he believes could be people who might help the party; not yet investigated.
-- **The Lost Tomb of Khem**: Party plans to seek treasure there; location and dangers unknown.
-- **Escape from the Underdark**: Party's overarching goal — seeking information in Gracklstugh on how to reach the surface.
-- **Magical jug**: The party acquired a jug that can generate any liquid; full capabilities not yet explored.
-- **Duergar prisoner**: One Duergar slaver was immobilized and captured; unclear if interrogation occurred or what was learned.
+- **Who brought Demogorgon into the Underdark?** Jimjar explicitly raises this as an open question after explaining that Buppido alone could not have done so; the summoning would have required powerful magic and artifacts comparable to those used by the Cult of the Dragon in the Tiamat ritual.
+- **The madness spreading through the Underdark:** The Kuo-toan madness and now the Duergar madness in Gracklstugh appear to be the same or a connected phenomenon; Grygum suspects this but no cause has been confirmed. The two-headed giant's frenzy may also be related.
+- **The mad two-headed giant:** Currently in active combat; its origin, what drove it mad, and whether it is connected to the broader madness afflicting Gracklstugh are unresolved.
+- **Widespread Duergar merchant madness in the Blade Bazaar:** Multiple merchants exhibiting irrational, delusional, or contradictory behaviour; cause unknown; whether this is city-wide or localised is unclear (the gate to the rest of the city appeared calm when Grygum looked).
+- **Zalthir's list of names:** Zalthir found a list of names at some earlier point; their identities and significance are unconfirmed; Zalthir believes they may be people who could help the party.
+- **Brannam Redmarch's delivery of the Eldritch Claw Tattoo:** He has agreed to procure it within a few days; whether he will deliver or betray the party is unresolved.
+- **Buppido's bolt hole and continued loyalty to the Divine Plan:** Despite his claimed repentance, the Tongue of Madness revealed he still speaks of the Divine Plan in the present tense; his release into the city leaves his future actions open.
+- **Suushar's role in Buppido's claimed reformation:** Buppido credits Suushar with helping him recognise his madness; Suushar's identity, location, and motivations are not established in this chunk.
+- **Escape from the Underdark:** The party's primary long-term goal; information has not yet been obtained in Gracklstugh.
+- **The Lost Tomb of Khem:** A treasure location referenced as a secondary party objective; location, contents, and dangers unknown.
+- **King Hekaton and the War of the Giants:** Referenced in Thorin's backstory; no current plot thread, but Thorin's connection to giant culture and Hekaton's peace decree may be relevant to future events.
+- **Duergar prisoner from the keelboat ambush:** The last surviving Duergar was immobilised and taken prisoner; the interrogation was planned but not yet depicted; what information they hold is unresolved.

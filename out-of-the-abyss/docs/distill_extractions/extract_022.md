@@ -1,107 +1,125 @@
 ## NPCs
 
 **Grygum**
-- Current location: Top tier of the rocky mesa in a large Underdark cavern
-- Current state: In magical darkness, engaged in combat with Plinki and surrounding Derro
-- Recent actions: Posed as a sympathetic cleric to get close to the egg; threatened Plinki by claiming the Drow would destroy the egg; cast a necromantic claw spell against Plinki
-- Faction: Sub-sect of the Cult of Bahamut
-- Motivations/Beliefs: Believes dragons have freedom of choice and are not inherently good or evil based on scale color; rejects the traditionalist view that scale color defines temperament; drawn to the corrupted dragon egg
+- Current location: Top tier of the mesa, large Underdark cavern
+- Current state: Active, surrounded by Derro, casting necromantic spell (Inflict Wounds or similar claw-based necromancy) at Plinki
+- Recent actions: Climbed the mesa ramp, spoke with Plinki under the pretense of religious interest, called out a warning about the Drow to stall her, attacked Plinki with a necromantic claw spell
+- Faction: Cult of Bahamut (heterodox sub-sect)
+- Revealed beliefs/motivations: Follows a sub-sect that believes dragons have freedom of choice; rejects the traditional view that scale color determines a dragon's alignment; believes goodness and evil flow from the choices of dragons, not their nature. Drawn to the corrupted egg by his faith. Sensed the egg's evil.
 
 **Plinki**
-- Current location: Top tier of the mesa near the obelisk, grappled by Zalthir in magical darkness
-- Current state: Grappled, shouting to be released
-- Recent actions: Was stroking/patting the obelisk; recorded observations in a notebook after the obelisk flashed; summoned six other Derro to surround Grygum; attempted to sacrifice Grygum to complete a demonic ritual on the egg
-- Faction: Serves Demogorgon
-- Gender: Female
-- Race: Derro
-- Revealed secrets: Has been using the obelisk to infuse a dragon egg with the spirit of a demon in honor of Demogorgon; the egg was stolen from the Keepers of the Flame by the Grey Ghosts, then brought here by Plinki; needs the beating heart of a cleric of Bahamut to seal the ritual
+- Current location: Top tier of the mesa, beside the black obelisk, currently grappled
+- Current state: Grappled by Zalthir, shouting "Let me go!"; recently attacked by Zalthir in magical darkness
+- Recent actions: Was stroking and patting the black obelisk; reacted with glee when it emitted a light pulse; picked up an object from near the obelisk's base; wrote in a small notebook; summoned six other Derro to surround Grygum; declared that Grygum's beating heart was needed to seal the ritual; hesitated when threatened with egg destruction
+- Faction: Derro (affiliated with Demogorgon worship); previously associated with the Grey Ghosts
+- Revealed motivations/secrets: Is conducting a ritual to infuse a stolen dragon egg with the spirit of a demon in honor of Demogorgon. Claimed the ritual has "worked." Intended to sacrifice Grygum (a cleric of Bahamut) to seal the ritual. Stole the egg from the Keepers of the Flame via the Grey Ghosts.
 
-**Zalthir**
-- Current location: Top tier of the mesa, in his own magical darkness
-- Current state: Grappling Plinki
-- Recent actions: Cast magical darkness over the entire top tier; physically attacked Plinki; grappled Plinki
-- Race: Drow (implied by Grygum's threat referencing "the Drow")
+**Zalthir** (referred to as "the Drow")
+- Current location: Top tier of the mesa (implied, as darkness originates from there)
+- Current state: Active; has grappled Plinki
+- Recent actions: Cast magical darkness enveloping the entire top tier of the mesa; physically struck Plinki multiple times; grappled Plinki
+- Faction: Traveling companion of Grygum
+- Notes: Not physically described entering the cavern prominently; acted covertly while Grygum distracted Plinki
 
 **Thorin**
-- Current location: On or near the mesa, following Grygum from a distance
-- Recent actions: Shouted a joke about a dragon omelet with two yolks
+- Current location: On or near the mesa, following Grygum at a distance
+- Current state: Active
+- Recent actions: Followed Grygum up the mesa ramp from a distance; shouted a quip about a dragon omelette during the confrontation
+- Faction: Traveling companion of Grygum
 
 **Daz**
-- Current location: On or near the mesa, following Grygum from a distance
+- Current location: On or near the mesa, following Grygum at a distance
+- Current state: Active
+- Recent actions: Followed Grygum up the mesa ramp from a distance
+- Faction: Traveling companion of Grygum
 
-**Six unnamed Derro**
+**Six Unnamed Derro**
 - Current location: Top tier of the mesa, surrounding Grygum
-- Recent actions: Summoned by Plinki to the egg area
+- Current state: Present and surrounding Grygum; in darkness
+- Recent actions: Summoned by Plinki to surround Grygum at the egg
+- Faction: Plinki's followers / Derro
+
+---
 
 ## Factions
 
 **Cult of Bahamut (Grygum's sub-sect)**
-- Beliefs: Dragons have freedom of choice; goodness and evil flow from choices, not scale color
-- Differs from traditionalists who view scale color as defining a dragon's temperament
+- Current goals: Unclear beyond Grygum's personal mission; drawn to the corrupted egg
+- Recent actions: Grygum infiltrated Plinki's ritual site and is now attempting to neutralize her
+- Relationships: Plinki initially believed Grygum's presence confirmed her ritual had succeeded; heterodox from mainstream Bahamut worship
 - Key members: Grygum
 
-**Grey Ghosts**
-- Recent actions: Stole the dragon egg from the Keepers of the Flame
-- Relationship: Supplied the egg that Plinki is using for her demonic ritual
+**Derro (Plinki's group)**
+- Current goals: Complete a ritual to infuse a dragon egg with a demon's spirit in honor of Demogorgon; seal the ritual with the heart of a cleric of Bahamut
+- Recent actions: Surrounded Grygum; attempted to capture him for sacrifice; obelisk manipulation; documentation in notebook
+- Relationships: Previously worked with or through the Grey Ghosts to steal the dragon egg; enemies of the Keepers of the Flame
+- Key members: Plinki (leader); six unnamed Derro
 
-**Keepers of the Flame**
-- Recent actions (prior): Had possession of the red dragon egg before it was stolen by the Grey Ghosts
-- Current state: No longer in possession of the egg
+**The Grey Ghosts**
+- Current goals: Unknown
+- Recent actions: Stole the dragon egg from the Keepers of the Flame and delivered it (to Plinki or on her behalf)
+- Relationships: Connected to Plinki's Derro group; enemies or thieves against the Keepers of the Flame
+- Key members: None named in this session
 
-**Demogorgon's followers**
-- Current goals: Infuse a dragon egg with a demon spirit using the black obelisk; complete the ritual by sacrificing the heart of a cleric of Bahamut
-- Key members: Plinki, at least six other Derro
+**The Keepers of the Flame**
+- Current goals: Unknown
+- Recent actions: Were victims of theft; the dragon egg was stolen from them by the Grey Ghosts
+- Relationships: Opposed by the Grey Ghosts; egg now in Plinki's possession
+- Key members: None named in this session
+
+---
 
 ## World Events
 
-- The Grey Ghosts stole a red dragon egg from the Keepers of the Flame (prior to session)
-- Plinki brought the stolen egg to the Underdark cavern and has been using the black obelisk to infuse it with a demon spirit in honor of Demogorgon (ongoing ritual)
-- The obelisk emitted a flash of light, causing the faerzress in the cavern to momentarily flare; Plinki picked up an object from the ground near the obelisk afterward and recorded notes
-- Grygum approached Plinki claiming to be a cleric of Bahamut; Plinki interpreted his arrival as validation that her creation had worked
-- Plinki revealed the ritual requires the beating heart of a cleric of Bahamut to be sealed, and attempted to sacrifice Grygum
-- Grygum threatened that the Drow companion would destroy the egg, causing Plinki to hesitate
-- Zalthir cast magical darkness over the top tier, attacked Plinki, and grappled her
-- Grygum cast a necromantic claw spell against Plinki
+- The party advanced through narrow caves into a massive eighty-foot-wide Underdark tunnel leading to a colossal cavern.
+- Grygum observed the cavern and identified two significant objects on the mesa: a large red dragon egg atop one of the highest tiers, and a fifty-foot-tall jet-black metal obelisk on the adjacent top tier.
+- Grygum sensed corruption emanating from the red egg.
+- Plinki was observed stroking the black obelisk; it emitted a flash of light that caused the faerzress to flare in response.
+- Plinki reacted with glee to the obelisk's pulse, retrieved an object from near its base, and wrote in a small notebook.
+- Grygum announced himself as a cleric of Bahamut, prompting Plinki's excited reaction; she interpreted his arrival as confirmation her ritual had worked.
+- Plinki revealed that the Grey Ghosts stole the egg from the Keepers of the Flame, and that she has been using the obelisk to infuse the egg with a demon's spirit in honor of Demogorgon.
+- Plinki summoned six Derro to surround Grygum and declared that his beating heart would seal the ritual.
+- Grygum stalled by threatening that "the Drow" would destroy the egg; Plinki hesitated.
+- Thorin shouted a distraction about dragon omelettes.
+- Zalthir cast magical darkness enveloping the entire top tier of the mesa.
+- Zalthir physically struck Plinki multiple times and grappled her.
+- Grygum cast a necromantic claw spell targeting the grappled Plinki.
+
+---
 
 ## Locations
 
 **Large Underdark Tunnel**
-- Approximately 80 feet wide, hundreds of feet long
-- Opens westward into the colossal cavern
+- What it is: An approximately eighty-foot-wide passage stretching hundreds of feet into the Underdark, connecting narrow winding caves to the colossal cavern to the west.
+- Current state: Traversed by the party; serves as approach to the cavern.
 
 **Colossal Underdark Cavern**
-- Illuminated by faerzress and bioluminescent fungi
-- Shafts of pure white light descend from unseen openings far above
-- Contains naturally formed shelves and ledges along the walls
-- Central feature: a large rocky mesa with tiered levels
-- Crude but functional ramps lead up the mesa's sides
-- Two topmost tiers connected by a sturdy bridge
-- One top tier holds the corrupted red dragon egg
-- The other top tier holds the black obelisk
-- Currently a combat zone engulfed in magical darkness on the top tier
+- What it is: A vast underground cavern illuminated by faerzress, bioluminescent fungi on walls and floor, and shafts of white light from openings above. Contains naturally tiered wall shelves and a central rocky mesa.
+- Current state: Active ritual site; combat has broken out on the mesa's top tier.
+
+**The Mesa (Central Rocky Plateau)**
+- What it is: A raised rocky plateau dominating the center of the colossal cavern. Features crude ramps on its sides connecting multiple levels; two topmost tiers are linked by a bridge.
+- Current state: Site of Plinki's ritual; top tier is enveloped in magical darkness; combat in progress.
 
 **The Black Obelisk**
-- 50 feet tall, crafted from smooth jet-black metal
-- Has small imperfections/chips on its otherwise flawless surface
-- Emits flashes of light that cause faerzress to flare
-- Being used by Plinki to infuse demon spirit into the dragon egg
-- Located on one of the mesa's topmost tiers
+- What it is: A fifty-foot-tall obelisk of smooth jet-black metal, standing on one of the two topmost tiers of the mesa. Has visible imperfections where small fragments appear to have been chipped away. Emits light pulses that cause faerzress to flare.
+- Current state: Being used by Plinki as a magical artifact to infuse the dragon egg with a demon's spirit. Recently pulsed with light.
 
 **The Red Dragon Egg**
-- Large, distinctly red, resting on one of the mesa's highest tiers
-- Radiates corruption/evil (sensed by Grygum)
-- Stolen from the Keepers of the Flame by the Grey Ghosts
-- Being ritually infused with a demon spirit
+- What it is: A large, distinctly red egg resting on one of the two topmost tiers of the mesa. Sensed as corrupted and evil by Grygum.
+- Current state: Target of an ongoing infusion ritual. Stolen from the Keepers of the Flame by the Grey Ghosts and brought here by Plinki.
+
+---
 
 ## Threads & Mysteries
 
-- What is the obelisk's true nature and origin? Why does it have chips/fragments missing from its surface?
-- What object did Plinki pick up from the ground after the obelisk flashed, and what did she record in her notebook?
-- What happens if the demonic infusion of the egg is completed? How close is the ritual to completion?
-- Can the egg be purified/saved, or must it be destroyed?
-- What is the relationship between the obelisk and the faerzress?
-- Where do the shafts of white light in the cavern originate from?
-- What are the Grey Ghosts' broader goals and connection to Plinki/Demogorgon's cult?
-- What were the Keepers of the Flame doing with the red dragon egg?
-- The outcome of the current combat with Plinki and the six Derro remains unresolved
-- Whether Grygum's theological beliefs about dragon choice will factor into the egg's fate
+- **The ritual's progress:** Plinki claimed the ritual "has worked" upon seeing Grygum. It is unclear whether the ritual is complete, partially complete, or whether sealing it with a cleric's heart is a final step — and whether combat has now permanently disrupted it.
+- **The obelisk's nature and origin:** The obelisk has fragments chipped away from it, pulses with light affecting the faerzress, and is being used as a ritual instrument. Its origin, full capabilities, and who created or placed it are unknown.
+- **The chipped fragments:** Small pieces appear to have been removed from the obelisk. Their current location, who took them, and their purpose are unknown.
+- **The object Plinki retrieved:** After the obelisk pulsed, Plinki picked up an object from the ground near its base and wrote about it in her notebook. The object's identity and the notebook's contents are unknown.
+- **The Keepers of the Flame:** Who are they, what is their connection to the red dragon egg, and are they seeking to recover it?
+- **The Grey Ghosts:** What is their broader agenda? Why did they steal the egg and deliver it to Plinki?
+- **The demon spirit:** Demogorgon's involvement is implied. What demon's spirit is being bound into the egg, and what would the result be if the ritual is completed?
+- **Grygum's sub-sect theology:** His belief that dragons have freedom of choice regardless of scale color may become relevant to how he treats the egg and any dragon that hatches from it.
+- **Fate of the egg:** If the ritual is disrupted, what happens to the egg and the demon spirit already infused into it?
+- **Six surrounding Derro:** Their actions during the darkness and combat have not yet been resolved.

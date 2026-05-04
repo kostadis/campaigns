@@ -1,136 +1,141 @@
 ## NPCs
 
-**Ploopploopeen (Ploop)**
-- Current location: Sloobludop, his quarters
-- Current state: Alive; archpriest of the Sea Mother
-- Recent actions: Led escapees to Sloobludop; explained his plan to use them as a false offering to lure his daughter into a trap; presented them to his followers; ate with the group; fell asleep standing and walked outside (kuo-toa sleeping behavior); in the morning, admitted a kuo-toa monitor and announced he, his whip, and the prisoners would accompany them to see the archpriest of the Deep Father
-- Faction: Sea Mother worshippers (kuo-toa)
-- Motivations: Wants to overthrow his daughter Bloppblippodd and end the worship of Leemoogoogon the Deep Father; believes the majority still supports him but fears that window is closing
+**Ploopploopeen**
+- Current location: Sloobludop, his personal quarters
+- Current state: Active; has brought the escapees to Sloobludop and is executing his plan
+- Recent actions: Escorted the escapees to Sloobludop; clarified his plan (presenting the escapees as sacrificial offerings to lure Bloppblippodd); fell asleep standing up and walked outside; admitted a kuo-toa monitor and declared his intent to accompany the party to see the archpriest of the Deep Father
+- Faction: Archpriest of the Sea Mother (Leemoogoogon's opposition faction)
+- Motivations/Secrets: Wants to use the escapees as a lure to draw out his daughter Bloppblippodd so his followers can attack and end her schismatic faction; relationship with daughter is strained; unclear whether he is aware of Grygum's doubts about Leemoogoogon's existence
 
 **Bloppblippodd**
-- Current location: Sloobludop (at or near the altar of Leemoogoogon)
-- Current state: Alive; high priestess / archpriest of the Deep Father (Leemoogoogon)
-- Faction: Deep Father (Leemoogoogon) worshippers
-- Recent actions: Has been demanding sacrifices for Leemoogoogon; rejected Ploopploopeen's earlier attempts at parley (white flag)
-- Revealed details: Daughter of Ploopploopeen, sister of Glooglugogg; former cleric of the Sea Mother who turned to worship of the Deep Father; described by her brother as having been given too much deference and freedom by their father; said to have fallen prey to madness; has a small core of hard-core supporters but uncertain broader support in the village
+- Current location: Sloobludop (not directly seen; her altar area was observed)
+- Current state: Active; leads the Deep Father faction; has not yet appeared in person
+- Recent actions: Not present in this chunk; described and discussed by both Ploopploopeen and Glooglugogg
+- Faction: High Priestess / Archpriest of the Deep Father (Leemoogoogon)
+- Motivations/Secrets: Demands sacrifices for Leemoogoogon; has hard-core but numerically small core of supporters; described as having "no respect for our ways" and having "fallen prey to this madness"; Father (Ploopploopeen) is accused of showing her excessive deference historically
 
 **Glooglugogg (Gloog)**
 - Current location: Sloobludop, Ploopploopeen's quarters
-- Current state: Alive; son of Ploopploopeen
-- Faction: Sea Mother worshippers
-- Recent actions: Introduced himself to the escapees; expressed disapproval of his father using outsiders but acknowledged the escapees showed respect to the Sea Mother; enumerated his sister's flaws; clarified the escapees' role (they will help fight but not throw the first punch); noted that the group did not simply hand over the derro they had tied up as a sacrifice
-- Motivations: Wants to stop his sister; believes the conflict must be resolved now while they have majority support; values the honor of his father and people
+- Current state: Active; awake (or ambiguously so) when the party encountered him
+- Recent actions: Approached the escapees; expressed disapproval of outsider involvement but acknowledged the party's respect for the Sea Mother; enumerated Bloppblippodd's failings; briefed the party on the factional balance of support; advised the party to rest before the coming fight; noted the oddity of the party not handing over their derro prisoner
+- Faction: Sea Mother faction; son of Ploopploopeen
+- Motivations/Secrets: Resents his sister Bloppblippodd; believes she has destroyed social cohesion; wants the crisis resolved while the Sea Mother faction still holds majority support; clarified that the party is expected to fight alongside the kuo-toans (not merely observe), but must not throw the first punch
+
+**Topsy**
+- Current location: Sloobludop
+- Current state: Active
+- Recent actions: Recognized the coming free-for-all as an opportunity to steal
+- Faction: Escapee group
+
+**Turvy**
+- Current location: Sloobludop
+- Current state: Active
+- Recent actions: Same as Topsy — identified the planned conflict as a theft opportunity
+- Faction: Escapee group
 
 **Grygum**
 - Current location: Sloobludop
-- Current state: Alive; escapee
-- Recent actions: Questioned Ploop about the nature of the sacrifice and whether it must be willing; recalled lore that regurgitating and spitting on the altar of the Sea Mother is a proper offering; spat on the Sea Mother's altar
+- Current state: Active
+- Recent actions: Questioned whether sacrifice must be willing; suggested a "white flag of parley" analogy; spat on the Sea Mother's altar (pleasing Ploopploopeen); recalled lore about the Deep Sea Mother being a scavenger goddess and that spitting/regurgitating is an appropriate offering; probed Ploopploopeen on the nature of the sacrifice ritual; noted doubts about whether Leemoogoogon is a real god
+- Faction: Escapee group
 
 **Thorin**
 - Current location: Sloobludop
-- Current state: Alive; escapee
-- Recent actions: Probed whether willing sacrifices are sweeter; spat on the Sea Mother's altar; was worried about raw food but reassured; urged retreat when spotted near the Deep Father altar
+- Current state: Active
+- Recent actions: Probed whether willing or unwilling sacrifices are preferred; spat on the Sea Mother's altar; noted the netting wall would not stop a determined invader; suggested a hasty retreat when kuo-toans near the Deep Father altar noticed the group; expressed worry about being served raw rotting food
+- Faction: Escapee group
 
 **Daz**
 - Current location: Sloobludop
-- Current state: Alive; escapee
-- Recent actions: Argued in favor of accepting Ploop's offer, citing the group's need for purpose rather than just running; was overcome by the stench at the Sea Mother statue and pretended his nose was itchy
+- Current state: Active
+- Recent actions: Argued in favour of accepting Ploopploopeen's offer, citing the group's need for purpose; was overcome by the stench at the Sea Mother altar and tried to conceal his reaction from Ploopploopeen
+- Faction: Escapee group
 
 **Zalthir**
 - Current location: Sloobludop
-- Current state: Alive; escapee
-- Recent actions: Initially questioned why they should help the kuo-toa; was won over after learning kuo-toa eat cooked fish; clarified the group's role in the plan (not throwing the first punch); confirmed understanding with Gloog
+- Current state: Active
+- Recent actions: Initially questioned why the group should involve itself in kuo-toan affairs; shrugged and accepted the offer after group consensus; twice clarified the party's expected role (passive observation vs. active fighting); was satisfied by Gloog's clarification that the party must not throw the first punch
+- Faction: Escapee group
 
-**Topsy and Turvy**
-- Current location: Sloobludop
-- Current state: Alive; escapees
-- Recent actions: Recognized that the planned free-for-all is an excellent opportunity to steal
+**Shuushar** (referenced, not present in this chunk)
+- Current location: Unknown (not present)
+- Current state: Unknown
+- Recent actions: Not present; previously explained the function of kuo-toan "leader types" (whips) who patrol the docks to keep kuo-toan madness from tearing society apart
+- Faction: Unknown
 
-**Shuushar**
-- Current location: With the group (presumed, in Sloobludop)
-- Current state: Alive
-- Relevant detail: Previously explained the role of kuo-toa leader types who patrol docks to prevent madness from tearing kuo-toa society apart
+**Kuo-toa Monitor** (unnamed)
+- Current location: Sloobludop, arrived at Ploopploopeen's quarters
+- Current state: Active; arrived at the start of Day 2
+- Recent actions: Led twelve kuo-toans to Ploopploopeen's quarters; admitted by Ploopploopeen
+- Faction: Unclear (likely Sea Mother faction, given they came to Ploopploopeen)
 
-**Unnamed derro**
-- Current location: With the escapees, tied up
-- Current state: Alive, prisoner of the escapees
-- Relevant detail: Gloog noted the group chose not to hand over the derro as a sacrifice, calling this both honorable and odd
+---
 
 ## Factions
 
-**Sea Mother Worshippers (Kuo-toa, Sloobludop)**
-- Current goals: Overthrow the Deep Father cult and restore unity under the Sea Mother
-- Key members: Ploopploopeen (archpriest), Glooglugogg (son of Ploop), Ploopploopeen's whip (unnamed)
-- Recent actions: Recruited the escapees as a false offering to gain access to Bloppblippodd; plan a coordinated attack when the offering is presented
-- Relationship to Deep Father cult: Open civil conflict; Ploop views the Deep Father as a false god
+**Sea Mother Faction (worshippers of the Sea Mother / Leemoogoogon's opposition)**
+- Current goals: Lure Bloppblippodd and her followers into a confrontation using the escapees as fake sacrificial offerings; destroy the Deep Father faction while still holding majority village support
+- Recent actions: Ploopploopeen escorted the escapees to Sloobludop; has sent or is about to send word to Deep Father followers that he has an offering; a monitor and twelve kuo-toans arrived to escort the party to the Deep Father's archpriest
+- Relationships: In direct conflict with the Deep Father faction; Bloppblippodd is Ploopploopeen's daughter and Gloog's sister
+- Key members: Ploopploopeen (archpriest), Glooglugogg (son of archpriest), unnamed kuo-toa monitor, unnamed kuo-toa whip (mentioned as accompanying Ploopploopeen)
 
-**Deep Father (Leemoogoogon) Worshippers (Kuo-toa, Sloobludop)**
-- Current goals: Acquire sacrifices for Leemoogoogon; grow influence in Sloobludop
-- Key members: Bloppblippodd (high priestess/archpriest), approximately a dozen hard-core supporters, a kuo-toa monitor leading twelve kuo-toa
-- Recent actions: Sent a monitor and twelve kuo-toa to collect the offering from Ploopploopeen's quarters
-- Relationship to Sea Mother faction: Hostile; demands sacrifices, rejected earlier parley attempts
-- Notes: Leemoogoogon described as an evil god; unwilling sacrifices are preferred; it is uncertain whether Leemoogoogon truly exists as a god
+**Deep Father Faction (worshippers of Leemoogoogon the Deep Father)**
+- Current goals: Acquiring sacrifices for Leemoogoogon; expanding influence in Sloobludop
+- Recent actions: Maintains a blood-stained altar with an idol constructed from a manta ray hide, a dead manta ray, and two dead painted octopuses; circling guards noticed the escapees approaching the idol at night
+- Relationships: Schismatic offshoot of Sloobludop's religious establishment; opposed by Ploopploopeen's Sea Mother faction
+- Key members: Bloppblippodd (high priestess / archpriest); hard-core supporters described as few but total support in the village is unknown
 
-**The Escapees**
-- Current goals: Survive; accepted Ploop's plan to pose as a false offering in exchange for a reward; seeking purpose beyond fleeing
-- Recent actions: Agreed to Ploop's plan; explored the village; scouted the Deep Father altar (were detected); rested in Ploop's quarters
-- Internal state: One member of their group was previously killed by another member of the group; morale has been low from constant running and being chased
-- Relationship to kuo-toa factions: Allied with Sea Mother worshippers; adversarial toward Deep Father cult
+---
 
 ## World Events
 
-- The escapees arrived at Sloobludop on the 1st day of the 3rd Tenday of Taraskh 1493, entering from the village's western side.
-- Ploopploopeen explained his plan: present the escapees as a false offering to Bloppblippodd, then have his followers attack when she accepts.
-- Ploopploopeen previously attempted a parley (white flag) with Bloppblippodd, which she rejected.
-- Grygum and Thorin spat on the altar of the Sea Mother as an offering (regurgitation/spitting is proper worship for the scavenger goddess).
-- The escapees scouted the altar of Leemoogoogon at night but were detected by circling kuo-toa guards; they retreated without incident.
-- Glooglugogg visited the escapees and briefed them further on the plan and their expected role (help fight, but do not initiate violence).
-- Gloog noted the group had a tied-up derro and questioned why they didn't simply offer the derro as a sacrifice.
-- On the morning of the 2nd day of the 3rd Tenday of Taraskh 1493, twelve kuo-toa led by a kuo-toa monitor arrived at Ploop's quarters to escort the offering to the archpriest of the Deep Father.
-- Ploopploopeen stated he, his whip, and the prisoners would accompany the escort.
+- Ploopploopeen clarified his plan to the escapees: they will pose as sacrificial offerings to lure Bloppblippodd, after which Sea Mother followers will attack.
+- The escapee group agreed to participate in Ploopploopeen's scheme.
+- The party arrived at Sloobludop from the west via underground tunnels.
+- The party passed through the western netting wall, admitted by guards who snapped to attention at Ploopploopeen's arrival.
+- Grygum and Thorin spat on the Sea Mother altar, pleasing Ploopploopeen.
+- The group ate a meal of cooked fish hosted by Ploopploopeen.
+- Ploopploopeen fell asleep standing and walked outside, as is normal for kuo-toans.
+- The party observed kuo-toans sleeping while walking with eyes open and moving in schools.
+- The party sneaked out to observe the Deep Father idol and were noticed by circling kuo-toan guards before retreating.
+- Glooglugogg (Gloog) confronted the party in Ploopploopeen's quarters, revealed his identity, expressed conditional approval of the party, and briefed them on the factional situation and the party's expected role in the coming fight.
+- Gloog noted the oddity of the party not surrendering their tied-up derro prisoner to the kuo-toans.
+- On the morning of the 2nd day, twelve kuo-toans led by a monitor arrived at Ploopploopeen's quarters; Ploopploopeen admitted the monitor and declared that he, his whip, and the prisoners would accompany them to the archpriest of the Deep Father.
+
+---
 
 ## Locations
 
 **Sloobludop**
-- Kuo-toa village of approximately 500 inhabitants
-- Located underground; tunnels lead to the western side of the village
-- Layout: Two walls of netting (western and eastern); cave wall to the south; the Darklake to the north; over a hundred houses between these boundaries spanning roughly 500 feet
-- Houses: Mud walls with ceilings of unidentified dried vegetable matter
-- Docks on the Darklake side; some docks have boats, some are empty; kuo-toa leader types patrol the docks
-- Current state: Divided between Sea Mother and Deep Father factions; civil conflict imminent
+- What it is: A kuo-toan village of approximately 500 inhabitants in the Underdark, situated on the shore of the Darklake
+- Layout: Bounded on the west and east by walls of netting; to the south is the cave wall; to the north is the Darklake, which has docks (some with boats, some empty); interior contains over a hundred mud-walled, vegetable-matter-roofed houses of various sizes
+- Current state: Internally divided between the Sea Mother faction (majority, led by Ploopploopeen) and the Deep Father faction (minority but growing, led by Bloppblippodd); tension is at a breaking point; the planned confrontation is imminent as of the morning of Day 2
+- Notable features: Sea Mother statue (nine-foot carved wooden humanoid female with giant albino crayfish head and claws, adorned with shells, stones, mushrooms, and rotting fish, guarded by four kuo-toans); Deep Father idol (manta ray hide stretched between poles, dead manta ray pinned to it, two dead painted octopuses, blood-stained stone altar); docks along the Darklake shore
 
-**Altar/Statue of the Sea Mother (Sloobludop, center of town)**
-- A nine-foot-tall roughly carved wooden humanoid female statue
-- Head and forearms formed from the severed head and claws of a giant albino crayfish, lashed on with strands of gut
-- Overpowering stench of rotting shellfish
-- Decorated with shells, brightly colored stones, mushrooms, rotting fish piled at its feet and strung in garlands around its neck
-- Guarded by four stern kuo-toa who circle it; a few others worship by gazing up, bowing, and chanting
+**Sea Mother Altar / Statue**
+- What it is: A nine-foot wooden statue of a humanoid female with a giant albino crayfish head and claws lashed on with gut; surrounded by offerings of shells, stones, mushrooms, and rotting fish
+- Current state: Actively maintained; four guards circling; worshippers chanting and bowing; Grygum and Thorin spat on it as an offering
 
-**Altar/Idol of Leemoogoogon the Deep Father (Sloobludop)**
-- A large hide cut in the shape of a manta ray, stretched between two support poles
-- A dead splayed-out manta ray pinned to the center
-- Two dead octopuses draped across the top, tentacles pinned and arranged, heads tied together and painted with red and blue pigments
-- Reeks of decay
-- Broad stone altar below the idol, stained dark with blood
-- Guarded/circled by kuo-toa (approximately a dozen observed nearby)
+**Deep Father Idol / Altar of Leemoogoogon**
+- What it is: A large manta ray hide stretched on poles with a dead manta ray pinned to its center and two dead painted octopuses arranged across the top; broad stone altar stained dark with blood below
+- Current state: Actively maintained; kuo-toan guards circling; reeking of decay; the party approached and were noticed at night before retreating
 
-**Ploopploopeen's Quarters (Sloobludop)**
-- Where the escapees stayed overnight
-- Where Glooglugogg briefed them
-- Where the kuo-toa monitor arrived in the morning to collect the offering
+**Ploopploopeen's Quarters**
+- What it is: Personal lodgings of the archpriest of the Sea Mother within Sloobludop
+- Current state: Used to house the escapees; site of meetings with both Ploopploopeen and Glooglugogg; on the morning of Day 2, a monitor and twelve kuo-toans arrived here
 
 **The Darklake**
-- Large underground body of water bordering Sloobludop to the north
-- Docks and boats present on its shore
+- What it is: A large underground body of water bordering Sloobludop to the north
+- Current state: Referenced; docks present; kuo-toan whips patrol along it
+
+---
 
 ## Threads & Mysteries
 
-- **Does Leemoogoogon actually exist as a god?** Grygum questioned whether Leemoogoogon is real; this remains unresolved.
-- **What is the source of the madness affecting kuo-toa (and specifically Bloppblippodd)?** Gloog says his sister has "fallen prey to this madness"; the broader kuo-toa tendency toward madness is referenced but unexplained.
-- **What is the promised reward from Ploopploopeen?** The escapees accepted the plan partly for a reward, but its nature is unspecified.
-- **Will Ploop's ambush plan succeed?** The morning escort has arrived; the confrontation with Bloppblippodd is imminent.
-- **Who killed whom among the escapees?** Daz references "one of our group got killed by another of our group" — the specifics are not detailed in this text.
-- **Who or what is chasing the escapees?** Daz says they are "being chased" — the pursuer is not identified here.
-- **What will happen with the tied-up derro?** Gloog noted the group didn't offer the derro as a sacrifice; the derro's fate remains unresolved.
-- **What is the broader support in Sloobludop?** Gloog stated that while Bloppblippodd's hard-core supporters are few, the allegiance of the wider village population is unknown.
-- **Topsy and Turvy's theft plans:** They intend to steal during the coming free-for-all; this could have consequences.
+- **Is Leemoogoogon a real god?** Grygum has doubts about whether the deity Leemoogoogon actually exists. This is unresolved.
+- **Outcome of the planned ambush:** The confrontation between the Sea Mother and Deep Father factions — with the party as bait — has not yet occurred. Imminent as of the morning of Day 2.
+- **True extent of Bloppblippodd's support:** Gloog acknowledged that how many villagers support his sister is unknown, making the outcome of the conflict uncertain.
+- **The tied-up derro prisoner:** The party is still holding a bound derro. Gloog noted this as "honorable and odd." The derro's fate and significance are unresolved.
+- **The party's actual role in the fight:** Despite Zalthir's insistence that they will not throw the first punch, Gloog made clear the party is expected to fight alongside the Sea Mother faction. Whether this creates conflict within the group is open.
+- **Kuo-toan "madness":** Referenced multiple times (Bloppblippodd described as having "fallen prey to this madness"; whips on the docks exist to prevent madness from tearing society apart). The nature and source of this madness are not explained.
+- **Shuushar's whereabouts and role:** Shuushar is referenced as having explained the whips' social function but is not present. His current location and status are unaccounted for in this session.

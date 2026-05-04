@@ -1,249 +1,274 @@
 ## NPCs
 
 **Gyrgum (Grygum)**
-- Race: Half-orc
-- Class: Cleric (follower of Bahamut)
-- Current location: Velkynvelve prison cell
-- Current state: Imprisoned, without weapons or armor
-- Recent actions: Attempting to gather information from fellow prisoners; reassuring Sarith
-- Has been imprisoned before ("not again")
+- Current location: Prison cell, Velkynvelve
+- Current state: Prisoner, unarmed and unarmored
+- Recent actions: Fell down a chute during an adventure; captured unconscious by Drow; interacted with fellow prisoners to gather information
+- Faction: Adventuring party (with Daz, Thorin Giantfriend, Zalthir)
+- Notes: Half-orc cleric; follower of Bahamut; has been imprisoned before
 
 **Daz**
-- Race: Drow Elf
-- Class: Magic User (mage)
-- Current location: Velkynvelve prison cell
-- Current state: Imprisoned, without weapons or armor
-- Background: Apostate Drow; has traveled through the High Forest
-- Recent actions: Providing knowledge about Underdark creatures and Drow culture; identified Prince Derendil as a liar; attempted to cast a spell but was warned the room suppresses magic
+- Current location: Prison cell, Velkynvelve
+- Current state: Prisoner, unarmed and unarmored; attempted to cast a spell but was prevented by the cell
+- Recent actions: Explained Menzoberranzan's dangers to companions; identified Sarith as insane from body language; assessed fellow prisoners; recognized Prince Derendil's claim as false; noted Shuushar with caution
+- Faction: Adventuring party
+- Notes: Drow elf magic user; apostate; aware that male Drow apostates have the shortest lives in Menzoberranzan; previously traveled through the High Forest
 
 **Thorin Giantfriend**
-- Race: Dwarf
-- Current location: Velkynvelve prison cell
-- Current state: Imprisoned, without weapons or armor
-- Background: Speaks with an unmistakable Giant accent; has a history with giants that is "radically different" from most; his story taken aback Eldeth
-- Recent actions: Proposed breaking down the cell door
+- Current location: Prison cell, Velkynvelve
+- Current state: Prisoner, unarmed and unarmored
+- Recent actions: Spoke with Eldeth; attempted to plan a charge at the door; dissuaded by Grygum
+- Faction: Adventuring party
+- Notes: Dwarf; speaks with an unmistakable Giant accent; has unusual peaceable history with giants compared to other dwarves
 
 **Zalthir**
-- Race: Dragonborn
-- Class: Monk
-- Current location: Velkynvelve prison cell
-- Current state: Imprisoned, without weapons or armor; has taken a vow of silence (speaks only when he has something to say)
-- Recent actions: Observing fellow prisoners; sensed Shuushar is a monk
-
-**Ilvara**
-- Race: Drow
-- Class: Cleric
-- Current location: Velkynvelve outpost
-- Current state: Commander/authority at Velkynvelve
-- Description: Haughty, arrogant, well-dressed, coiffed female drow cleric
-- Faction: Drow (House Mizzrym or associated)
-- Romantic entanglements: Previously with Jorlan, currently with Shoor
-
-**Jorlan**
-- Race: Drow male
-- Class: Fighter
-- Current location: Velkynvelve outpost
-- Current state: Disfigured face, missing two fingers; demoted from Ilvara's favor
-- Previously possessed a wand of globs
-- Was Ilvara's former romantic partner, replaced by Shoor after his injury
-
-**Shoor**
-- Race: Drow male
-- Class: Fighter
-- Current location: Velkynvelve outpost
-- Current state: Currently Ilvara's primary romantic partner
-
-**Asha**
-- Race: Drow
-- Class: Cleric (second cleric at Velkynvelve alongside Ilvara)
-- Current location: Velkynvelve outpost
-- Current state: Angling for the top position at the outpost
+- Current location: Prison cell, Velkynvelve
+- Current state: Prisoner, unarmed and unarmored
+- Recent actions: Observed fellow prisoners carefully; stepped in front of Daz before he could approach Shuushar; identified Sarith as insane from Daz's body language
+- Faction: Adventuring party
+- Notes: Dragonborn monk; has taken a vow of speaking only when he has something to say; sensed Shuushar is also a monk
 
 **Welnaste Mizzrym**
-- Race: Drow
-- Current location: Departed Velkynvelve (caravan leader)
-- Faction: House Mizzrym
-- Recent actions: Sold the party to Ilvara; warned Ilvara that money was exchanged and she'd be held accountable if prisoners die or are lost before the next caravan
-- Referred to Ilvara as "house sister"
+- Current location: Velkynvelve (departed or present at handoff)
+- Current state: Active; completed a transaction
+- Recent actions: Led the caravan transporting the prisoners through the Underdark; delivered prisoners to Velkynvelve; warned Ilvara that money has been exchanged and she will be held accountable if prisoners die or are lost before the next caravan
+- Faction: House Mizzrym (implied by surname); Drow caravan operators
+- Motivations: Financial; contractual accountability
 
-**Sarith (also spelled Serith/Zarith in text)**
-- Race: Drow male
-- Current location: Velkynvelve prison cell
-- Current state: Imprisoned; mentally unstable/not sane; convicted of murdering a fellow drow (claims it was a setup but is uncertain himself); covered in fungal rot
-- Fears being sent to Menzoberranzan to be sacrificed or turned into a Drider
-- Provided information: There is a gray ooze in pools at the bottom of the cave
+**Ilvara**
+- Current location: Velkynvelve
+- Current state: Active; in command of the outpost
+- Recent actions: Received the prisoner shipment from Welnaste; ordered Jorlan to take prisoners to the cell
+- Faction: Cult of Lloth / Drow outpost command
+- Notes: Haughty, arrogant, well-dressed female Drow cleric; referred to as "house sister" by Welnaste
+
+**Jorlan**
+- Current location: Velkynvelve
+- Current state: Active; present at prisoner handoff; currently demoted in status
+- Recent actions: Escorted prisoners to their cell on Ilvara's orders
+- Faction: Drow outpost, Velkynvelve
+- Notes: Male Drow fighter; disfigured face; missing two fingers; formerly Ilvara's "number one squeeze" but replaced by Shoor after his injury; formerly possessed a wand of globs (now presumably lost or taken)
+
+**Shoor**
+- Current location: Velkynvelve (referenced, not directly seen)
+- Current state: Active; currently Ilvara's favored companion
+- Recent actions: None directly; referenced by Jimjar as having replaced Jorlan
+- Faction: Drow outpost, Velkynvelve
+- Notes: Does not appear directly in this session; identified by Jimjar as Ilvara's current primary companion following Jorlan's injury
+
+**Ashar**
+- Current location: Velkynvelve (referenced, not directly seen)
+- Current state: Active; politically maneuvering
+- Recent actions: None directly; referenced by Jimjar as angling for the top position
+- Faction: Drow outpost, Velkynvelve
+- Notes: Does not appear directly; gender and role not specified; politically ambitious within the outpost hierarchy
+
+**Sarith**
+- Current location: Prison cell, Velkynvelve
+- Current state: Prisoner; mentally unstable
+- Recent actions: Reacted defensively to Topsy's comment about his murder conviction; oscillated between denial and confession; expressed fear of being turned into a Drider
+- Faction: None current; formerly Drow society
+- Notes: Drow; convicted of murdering a fellow Drow; covered in some kind of fungal rot; Grygum assessed him as not a spy; Daz and Zalthir assessed him as not sane
 
 **Topsy**
-- Race: Deep gnome (Svirfneblin)
-- Current location: Velkynvelve prison cell
-- Current state: Imprisoned; twin sister of Turvy
-- From the same town as Jimjar
-- Advocates escaping to Blingdenstone
+- Current location: Prison cell, Velkynvelve
+- Current state: Prisoner
+- Recent actions: Introduced herself and Turvy; volunteered information about Sarith; advocated for escaping to Blingdenstone
+- Faction: Svirfneblin (deep gnome); from same town as Jimjar
+- Notes: Twin sister of Turvy; speaks on behalf of both
 
 **Turvy**
-- Race: Deep gnome (Svirfneblin)
-- Current location: Velkynvelve prison cell
-- Current state: Imprisoned; twin brother of Topsy; mumbles rather than speaking clearly
-
-**Jimjar**
-- Race: Deep gnome (Svirfneblin)
-- Current location: Velkynvelve prison cell
-- Current state: Imprisoned; compulsive gambler, constantly making bets
-- From the same town as Topsy and Turvy
-- Provided intelligence about the Drow power dynamics and romantic entanglements at Velkynvelve
-
-**Buppido**
-- Race: Derro
-- Current location: Velkynvelve prison cell
-- Current state: Imprisoned; personable, gregarious, talkative
-- Claims to follow a "divine plan"; hints at hidden power he won't reveal
-- Suggested sending Ront ahead as a distraction during escape
-- Self-describes as a "big-picture thinker"
-
-**Eldeth**
-- Race: Dwarf (Shield Dwarf)
-- Current location: Velkynvelve prison cell
-- Current state: Imprisoned
-- Attitudes: Distrustful of giants; contemptuous of derro (calls them "dwarven perversion"); hostile toward orcs; skeptical of Buppido
-- Provided knowledge: The cell suppresses magic; mentioned Shield Dwarves captured Gauntlgrym from orcs
-- Warned about drow garrison strength (nine drow, quaggoths, giant spiders, three guards at door)
+- Current location: Prison cell, Velkynvelve
+- Current state: Prisoner
+- Recent actions: Communicated through Topsy; whispered something to Topsy that prompted her to suggest Blingdenstone
+- Faction: Svirfneblin (deep gnome); from same town as Jimjar
+- Notes: Twin brother of Topsy; mumbles; does not speak directly
 
 **Shuushar the Awakened**
-- Race: Kuo-Toa
-- Class: Monk (sensed by Zalthir)
-- Current location: Velkynvelve prison cell
-- Current state: Imprisoned; claims to have found enlightenment and a way to resist Kuo-Toan madness
-- Was traveling to Sloobludop near the Darklake; knows the routes well
-- Offers to guide the group to Sloobludop
+- Current location: Prison cell, Velkynvelve
+- Current state: Prisoner; claims to have achieved enlightenment
+- Recent actions: Introduced himself; explained his people's tendency toward madness and his claimed path beyond it; offered knowledge of the roads to the Darklake and Sloobludop
+- Faction: Kuo-Toa; destination is Sloobludop near the Darklake
+- Notes: Kuo-Toa; described as a monk by Zalthir's assessment; Daz is uncertain whether he can be relied upon; Buppido dismisses him; his enlightenment appears genuine in manner if not verified
+
+**Buppido**
+- Current location: Prison cell, Velkynvelve
+- Current state: Prisoner; gregarious and talkative
+- Recent actions: Introduced himself; advocated for escape as part of a "divine plan"; suggested using Runc as a distraction for escape; refused to elaborate on his own power; explained Myconid spore communication to Grygum; dismissed Shuushar
+- Faction: Derro; claims divine mandate
+- Notes: Derro; described as a "dwarven perversion" by Eldeth; speaks of a divine plan and hints at hidden power; declined to reveal said power; Eldeth and Thorin are skeptical of him
+
+**Eldeth**
+- Current location: Prison cell, Velkynvelve
+- Current state: Prisoner
+- Recent actions: Warned the group about the outpost's defenses (nine Drow, Quaggoths, giant spiders, three guards at the door); discouraged the charge attempt; identified the Myconid for Grygum; expressed hostility toward Runc; expressed skepticism about Giant-dwarf peace; noted the magic-suppressing properties of the cell
+- Faction: Shield Dwarves; associated with Gauntlygrym
+- Notes: Dwarf; references the Shield Dwarves' recapture of Gauntlygrym from orcs; skeptical of Giant-dwarf peace but acknowledges Thorin as evidence of its possibility; dismissive of Buppido and hostile to Runc
 
 **Prince Derendil**
-- Race: Quaggoth (claims to be an elf prince polymorphed)
-- Current location: Velkynvelve prison cell
-- Current state: Imprisoned; speaks with a rarefied upper-kingdom elven accent
-- Claims to be Prince of the Kingdom of Nelrindenvane in the High Forest, transformed by the evil wizard Terrestor
-- Daz knows this is a lie: no Kingdom of Nelrindenvane exists in the High Forest
-- Noted three drow guards stationed across the cell door
+- Current location: Prison cell, Velkynvelve
+- Current state: Prisoner; physically a Quaggoth
+- Recent actions: Warned the group about the three Drow guards at the door; introduced himself with his claimed title; demanded respectful treatment
+- Faction: Claims to be royalty of the Kingdom of Nelrindenvane, High Forest
+- Notes: Quaggoth who speaks with a rarefied upper-kingdom elven accent; claims to have been transformed by the evil wizard Terrestor and exiled; Daz knows the Kingdom of Nelrindenvane does not exist and considers Derendil a liar but potentially useful; Quaggoths were hunted to extinction by surface elves and are used as troops by the Drow because of their hatred of surface elves
 
 **Stool**
-- Race: Myconid (a conscious form of mycelium; a child)
-- Current location: Velkynvelve prison cell
-- Current state: Imprisoned; communicates via spores (telepathic-like, without speaking)
-- Member of a circle called the Neverlight Grove; wants to return there
-- Claims sovereign will be thrilled to see them; offers to guide group to Neverlight Grove
+- Current location: Prison cell, Velkynvelve
+- Current state: Prisoner; appears to be a child of its species
+- Recent actions: Introduced itself; offered to guide the group to the Neverlight Grove; communicated via spores
+- Faction: Myconid; Circle of the Neverlight Grove
+- Notes: Myconid (conscious mycelium with legs); Daz is repulsed but recognizes it as a child; communicates via spores that allow wordless communication; its sovereign is described as mighty
 
-**Ront (also spelled Ronc/Runc)**
-- Race: Orc
-- Current location: Velkynvelve prison cell
-- Current state: Imprisoned; fought poorly and seeks absolution from Gruumsh
-- Disappointed Gyrgum is not a Gruumsh cleric
-- Suggested Gauntlgrym as an escape destination
+**Jimjar**
+- Current location: Prison cell, Velkynvelve
+- Current state: Prisoner
+- Recent actions: Contradicted Buppido's divine plan; attempted to make bets with other prisoners; revealed intelligence about the Drow outpost's social dynamics (Jorlan, Shoor, Ashar, the wand of globs)
+- Faction: Svirfneblin (deep gnome); from same town as Topsy and Turvy
+- Notes: Compulsive gambler; knowledgeable about outpost politics; dismissed by Topsy as pretentious
+
+**Runc (Ronc)**
+- Current location: Prison cell, Velkynvelve
+- Current state: Prisoner; spiritually troubled
+- Recent actions: Introduced himself; expressed disappointment that Grygum follows Bahamut rather than Gruumsh; Buppido suggested using him as a distraction for escape
+- Faction: Orc; follower of Gruumsh
+- Notes: Orc; fought poorly and seeks absolution from Gruumsh; Eldeth references his kind's defeat at Gauntlygrym; Buppido is willing to sacrifice him as a distraction
 
 **Terrestor**
-- Race: Unknown (described as an evil wizard)
-- Current location: Unknown
-- According to Derendil's (likely false) claim: usurped Derendil's crown and polymorphed him into a Quaggoth
+- Current location: Unknown (not present)
+- Current state: Unknown
+- Recent actions: None in this session; referenced by Derendil as having cursed him
+- Notes: Described by Derendil as an evil wizard who transformed him into a Quaggoth and usurped his crown; Daz knows the claimed kingdom does not exist, casting doubt on this entire account
+
+---
 
 ## Factions
 
-**Drow of Velkynvelve**
-- Current goals: Holding prisoners until a caravan arrives (in about a tenday) to transport them to Menzoberranzan
-- Key members: Ilvara (commander/cleric), Asha (cleric, angling for top position), Shoor (fighter, Ilvara's current partner), Jorlan (fighter, disfigured, demoted)
-- Forces: Nine drow soldiers, multiple quaggoths, giant spiders; three guards posted at the prison door
-- Internal tensions: Jorlan replaced by Shoor as Ilvara's favorite; Asha seeking advancement
+**Cult of Lloth (Menzoberranzan)**
+- Current goals: Receive the prisoner shipment at Menzoberranzan; use or sacrifice prisoners
+- Recent actions: Drow from this faction captured the party unconscious in the chute; transported them to Velkynvelve for staging
+- Relationships: Hostile to apostates and all non-Drow; uses Quaggoths as troops; enslaves captured individuals
+- Key members: Ilvara (outpost commander), Jorlan, Shoor, Ashar, Welnaste Mizzrym (caravan leader)
+- Notes: A second caravan is expected within a tenday to transport prisoners onward to Menzoberranzan
 
 **House Mizzrym**
-- Faction type: Drow noble house
-- Key members: Welnaste Mizzrym (caravan leader), Ilvara (referred to as "house sister")
-- Recent actions: Captured the party and sold them; transported them to Velkynvelve
-- Relationship: Connected to the Velkynvelve outpost; Welnaste and Ilvara appear to be of the same house
+- Current goals: Profit from prisoner transport; contractual delivery of prisoners to Menzoberranzan
+- Recent actions: Welnaste Mizzrym led the caravan; completed handoff at Velkynvelve; warned Ilvara of financial accountability
+- Relationships: Working relationship with Velkynvelve outpost; financially motivated
+- Key members: Welnaste Mizzrym
 
-**Cult of Lloth (Lolth)**
-- Very powerful in Menzoberranzan
-- Enslaved people have short, unhealthy lives; apostate Drow even shorter; male apostate Drow the shortest
-- Apostates may be sacrificed or turned into Driders
+**Adventuring Party (Gyrgum, Daz, Thorin, Zalthir)**
+- Current goals: Escape Velkynvelve before the next caravan arrives; avoid Menzoberranzan
+- Recent actions: Captured; imprisoned; gathering intelligence on fellow prisoners and outpost layout
+- Relationships: Newly allied with various fellow prisoners of convenience
 
-**Cult of the Dragon**
-- Historical: Was subverted during events that started the War of the Dragons (ended ~1490)
+**Myconid Circle — Neverlight Grove**
+- Current goals: Unknown at large scale; Stool wishes to return to the grove and its sovereign
+- Recent actions: Stool was captured and imprisoned; offered guidance to Neverlight Grove in exchange for cooperation
+- Key members: Stool (imprisoned); unnamed sovereign
 
-**Shield Dwarves**
-- Captured Gauntlgrym from orcs; intend to hold it
+**Svirfneblin of Blingdenstone**
+- Current goals: Topsy and Turvy wish to return to Blingdenstone
+- Recent actions: Imprisoned at Velkynvelve
+- Key members: Topsy, Turvy, Jimjar (all imprisoned)
 
-**Myconids (Neverlight Grove circle)**
-- Led by a sovereign
-- Stool is a member; wants to return
+**Shield Dwarves / Gauntlygrym**
+- Current goals: Hold Gauntlygrym against orc recapture
+- Recent actions: Recaptured Gauntlygrym from orcs (referenced as past event); Eldeth advocates it as an escape destination
+- Key members: Eldeth (imprisoned)
 
 **Kuo-Toa of Sloobludop**
-- Located near the Darklake
-- Shuushar's people; historically corrupted by mind flayers; can create gods from imagination; prone to madness
+- Current goals: Unknown at large; Shuushar wishes to return to Sloobludop near the Darklake
+- Key members: Shuushar the Awakened (imprisoned)
+
+---
 
 ## World Events
 
-- The War of the Dragons ended in approximately 1490 DR, beginning with the subversion of the Cult of the Dragon.
-- The War of the Giants occurred in approximately 1491 DR, ending with the re-establishment of the Ordning of the Giants.
-- The Shield Dwarves captured Gauntlgrym from orcs (during or after the War of the Giants).
-- The current date is the 2nd day of the 2nd tenday of Taraskh, 1492 DR.
-- The party was exploring a cave on the surface seeking a gadget when they fell down a chute and were knocked unconscious.
-- A group of Drow (Welnaste Mizzrym's caravan) found the party unconscious in the chute, stripped them of weapons and armor, and led them deeper into the Underdark over 2–3 days.
-- Welnaste Mizzrym delivered the party to Velkynvelve and sold them to Ilvara.
-- The party was placed in a prison cell with ten other prisoners.
-- A caravan is expected to arrive at Velkynvelve in approximately a tenday to transport the prisoners to Menzoberranzan.
+- The War of the Dragons ended in 1490 DR, two years before the current date.
+- The War of the Giants ended in 1491 DR, one year before the current date; it concluded with the re-establishment of the Ordning of the Giants.
+- The Cult of the Dragon was subverted at some point during or connected to these wars.
+- The party of four (Gyrgum, Daz, Thorin, Zalthir) was exploring a cave and fell down a chute while pursuing a mission to recover an unspecified gadget.
+- The party was found unconscious in the chute by a group of Drow and captured.
+- The party was transported through the Underdark for approximately two to three days without weapons or armor.
+- Welnaste Mizzrym delivered the party and fellow prisoners to Velkynvelve outpost, having sold them for a price.
+- Ilvara ordered Jorlan to place the prisoners in a cell.
+- Bags were placed over the prisoners' heads before they were placed in the cell.
+- The party awoke in a shared prison cell with ten other prisoners.
+- Thorin attempted to break down the cell door; the group was dissuaded by Eldeth's warning about the outpost's defenses.
+- Daz attempted to cast a spell; Eldeth informed him the cell suppresses magic.
+- Buppido proposed using Runc as a distraction to facilitate escape; the plan was not adopted.
+- Jimjar revealed intelligence about the Drow outpost's social hierarchy and Jorlan's demotion.
+- Sarith warned the group about a gray ooze in the pools at the bottom of the cave.
+- Shield Dwarves recaptured Gauntlygrym from orcs at some point before the current session (referenced as past event).
+- Quaggoths were hunted to extinction by surface elves (referenced as historical fact).
+- Kuo-Toa were corrupted by mind flayers (referenced as historical fact).
+
+---
 
 ## Locations
 
 **Velkynvelve**
-- Type: Drow outpost in the Underdark
-- Description: Located high in a cavern, approximately 100 feet above the rocky floor; consists of small caves in cavern walls and four hanging towers (hollowed-out stalactites) connected by walkways, stairs, and rope bridges; towers concealed by thick giant spider webs; uses dim, shielded light invisible from the cavern floor below
-- Defensive features: Giant spiders can lower and attack from above; drow soldiers have spider silk rope to rappel down; effectively invisible to anyone traversing the cavern floor
-- Current state: Garrisoned by nine drow, quaggoths, and giant spiders; holding at least 14 prisoners
-- Hazard: Gray ooze present in pools at the bottom of the cave
-
-**Menzoberranzan (Menzo)**
-- Type: Major Drow city in the Underdark
-- The intended final destination for the prisoners
-- Cult of Lloth is very powerful there
-- Drow nobles recruit and train Quaggoths there
+- What it is: A Drow outpost in the Underdark, 100 feet above the cavern floor; consists of small caves in cavern walls and four hanging stalactite towers connected by walkways, stairs, and rope bridges; concealed by giant spider webs
+- What happened there: The prisoner group was handed off by Welnaste Mizzrym to Ilvara; prisoners were placed in a magic-suppressing cell; giant spiders are present and can drop from above on silk ropes; Drow soldiers have stockpiles of spider silk for rappelling; nine Drow soldiers, Quaggoths, and giant spiders garrison the outpost; three Drow guards are posted directly outside the cell door
+- Current state: Active Drow outpost; prisoners held pending arrival of a second caravan in approximately a tenday
 
 **The Underdark**
-- The hidden realm beneath the surface of Toril; no sunlight; not welcoming
+- What it is: The subterranean realm beneath the surface of Toril; described as unwelcoming
+- What happened there: Party traveled through it for two to three days as prisoners; no sunlight
 
-**Sloobludop**
-- Type: Kuo-Toa settlement near the Darklake
-- Shuushar's home; he knows the routes there
+**Menzoberranzan**
+- What it is: A major Drow city in the Underdark; the Cult of Lloth is dominant there; slaves have short lives; male Drow apostates have the shortest lives of all; prisoners may be sacrificed or turned into Driders
+- Current state: Not visited; destination for the prisoner caravan in approximately a tenday
 
-**The Darklake**
-- Body of water in the Underdark; near Sloobludop
+**The Underdark cave / chute**
+- What it is: An unnamed cave the party was exploring when they fell down a chute
+- What happened there: Party fell; was found unconscious by Drow
+- Current state: Not revisited
 
-**Neverlight Grove**
-- Type: Myconid settlement/circle in the Underdark
-- Stool's home; led by a sovereign
+**Gauntlygrym**
+- What it is: A dwarven stronghold; recaptured by Shield Dwarves from orcs
+- Current state: Held by Shield Dwarves; Eldeth advocates it as an escape destination; Grygum agrees it may be a good option
 
 **Blingdenstone**
-- Type: Deep gnome settlement in the Underdark
-- Home town of Topsy, Turvy, and Jimjar
-- Proposed as an escape destination by Topsy
+- What it is: A Svirfneblin (deep gnome) town; home of Topsy, Turvy, and Jimjar
+- Current state: Not visited; Topsy and Turvy advocate escaping there; Jimjar bets no one will agree
 
-**Gauntlgrym**
-- Type: Dwarven fortress/city
-- Recently captured by Shield Dwarves from orcs
-- Proposed as an escape destination by Ront
+**Sloobludop**
+- What it is: A Kuo-Toa settlement near the Darklake
+- Current state: Not visited; Shuushar's destination and claimed area of navigational expertise
 
-**Kingdom of Nelrindenvane**
-- Claimed by Prince Derendil to be in the High Forest
-- Daz confirms this kingdom does not exist
+**The Darklake**
+- What it is: A body of water in the Underdark; near Sloobludop
+- Current state: Not visited; referenced as a navigational landmark
+
+**Neverlight Grove**
+- What it is: A Myconid settlement; home of Stool's circle and sovereign
+- Current state: Not visited; Stool offers to guide the group there; described as safe
 
 **The High Forest**
-- Surface location on Toril; Daz has traveled through it
+- What it is: A surface forest region; Daz traveled through it previously; claimed home of the Kingdom of Nelrindenvane
+- Current state: Not visited; referenced; the Kingdom of Nelrindenvane does not exist according to Daz's knowledge
+
+**The Kingdom of Nelrindenvane**
+- What it is: Derendil's claimed homeland in the High Forest, supposedly ruled by him before Terrestor's coup
+- Current state: Does not exist according to Daz; the claim is assessed as false
+
+---
 
 ## Threads & Mysteries
 
-- **Escape from Velkynvelve**: The party and fellow prisoners must escape before the caravan arrives in ~10 days to take them to Menzoberranzan. The cell suppresses magic. Three guards at the door. Gray ooze in pools at the cave bottom is a hazard for any downward escape route.
-- **Velkynvelve internal power struggles**: Jorlan is demoted and bitter (formerly had a wand of globs); Asha is angling for the top job; Shoor is Ilvara's current favorite. These tensions may be exploitable.
-- **Jorlan's wand of globs**: Jorlan formerly possessed this; its current location/holder is unknown—potentially recoverable.
-- **Sarith's sanity and fungal rot**: Sarith is mentally unstable, unsure if he committed murder, and covered in fungal rot. The cause and nature of his condition is unresolved.
-- **Prince Derendil's true identity**: Claims to be a polymorphed elf prince, but this is a lie. His actual nature and backstory are unknown.
-- **Buppido's "divine plan" and hidden power**: Claims to have power he won't reveal and follows a divine plan. His true nature, god, and intentions are unknown.
-- **Stool and the Neverlight Grove**: Stool wants to return to the Neverlight Grove; the sovereign there is referenced but unknown.
-- **Shuushar's enlightenment**: Claims to have found a way to stop Kuo-Toan madness; whether this is genuine is unresolved.
-- **The original quest gadget**: The party was seeking some gadget in a cave on the surface before falling into the Underdark; this objective remains unresolved.
-- **Escape route debate**: Multiple proposed destinations — Sloobludop/Darklake (Shuushar), Blingdenstone (Topsy/Turvy), Gauntlgrym (Ront), Neverlight Grove (Stool). No consensus reached.
-- **Welnaste's warning to Ilvara**: Money was exchanged; Ilvara will be held accountable if prisoners die or are lost—this creates a constraint on how the drow treat them.
+- **The original mission**: The party was sent to retrieve an unspecified "gadget" from a cave; this mission is unresolved and the gadget's nature, owner, and purpose are unknown.
+- **Escape from Velkynvelve**: The group has roughly a tenday before the next caravan arrives to transport them to Menzoberranzan; no escape plan has been settled on.
+- **Escape destination**: Multiple competing destinations have been proposed — Gauntlygrym (Eldeth/Grygum), Blingdenstone (Topsy/Turvy), Sloobludop/Darklake (Shuushar), Neverlight Grove (Stool) — no consensus reached.
+- **The gray ooze**: Sarith warned of a gray ooze in the pools at the bottom of the cave; its danger level and relevance to any escape route are unresolved.
+- **The outpost's defenses**: Full extent of guards, spiders, and Quaggoth numbers is not yet known; Eldeth gave a partial count of nine Drow, unspecified Quaggoths, and unknown spiders.
+- **Buppido's "divine plan" and hidden power**: Buppido hinted at hidden power he is unwilling to reveal and claimed everything is part of a divine plan; his god, plan, and true capabilities are unknown.
+- **Jorlan's wand of globs**: Jorlan formerly possessed a wand of globs; its current location is unknown; potentially recoverable as a weapon or tool for escape.
+- **Ashar's ambitions**: Ashar is angling for the top position at Velkynvelve; this internal Drow political conflict may be exploitable.
+- **The Jorlan/Shoor/Ilvara dynamic**: Jorlan's demotion and Shoor's rise may create exploitable tensions among the Drow guards.
+- **Prince Derendil's true identity**: Derendil is known by Daz to be lying about his origins; his actual identity, reason for the deception, and the source of his rarefied elven accent are unknown.
+- **Sarith's murder conviction and sanity**: Sarith oscillates between claiming innocence and possible guilt; the truth of the murder is unknown; his fungal rot may be significant.
+- **Sarith's fungal rot**: Sarith is described as covered in some kind of fungal rot; its nature, cause, and significance are unexplained.
+- **Shuushar's enlightenment**: Whether Shuushar has genuinely transcended Kuo-Toan madness or is merely a more functional version of it is unresolved; Daz remains uncertain about his reliability.
+- **Terrestor**: The wizard who allegedly transformed Derendil; since Derendil's story is suspected to be false, Terrestor may also be fictional or the story may have a different truth behind it.
+- **The war's aftermath**: The Wars of the Dragons and Giants have devastated the surface world; the party has no information about the current state of the surface or their home base.

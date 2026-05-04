@@ -2,303 +2,261 @@
 
 **Daz**
 - Current location: Surface world (just emerged from the Underdark)
-- Current state: Alive, reflective, unsettled by revelations about his unknown patron
-- Recent actions: Negotiated with the Duskryn sisters, proposed group investigation into his mysterious benefactor, agreed to travel to Candlekeep for research
-- Faction: None/unaffiliated
-- Revealed motivations/secrets: Has no noble house affiliation; someone in Menzoberranzan spent significant resources to protect him through anonymous cutouts; he genuinely does not know why he is a target or a protected asset; privately considers that his entire situation may trace back to "being friends with the wrong drow"
-
-**Nym Duskryn**
-- Current location: Departed after the battle; whereabouts unknown
-- Current state: Contract fulfilled; left the party
-- Recent actions: Explained the terms of her contract to protect Daz from House Mizzrym and House T'sarran; advised Thorin that grappling a Lolth cleric is inadequate; dismissed Asha as a low-level threat Daz should handle himself; declined to be retained by the party citing unaffordable fees
-- Faction: House Duskryn; hired contractors based in Menzoberranzan
-- Revealed motivations/secrets: Contract was to prevent other Drow factions from killing Daz; contracting party was anonymous even to the sisters; the fee paid for Daz's protection was described as very large and requiring repeated interruptions to the payer's schedule; Nym does not know who hired them
-
-**Kaelira Duskryn**
-- Current location: Departed after the battle; whereabouts unknown
-- Current state: Contract fulfilled; left the party
-- Recent actions: Addressed the party about the two named threats (House Mizzrym, House T'sarran); examined the burned T'sarran extraction documents; expressed genuine professional puzzlement at Daz being a protected "nobody"; sardonically dismissed Daz's self-mythologizing; stated the sisters were not paid to speculate about the client's motives; applauded Zalthir's killing of Asha
-- Faction: House Duskryn; hired contractors based in Menzoberranzan
-- Revealed motivations/secrets: Same as Nym; genuinely cannot explain why Daz warranted the level of resources spent on him
-
-**Asha Vandree**
-- Current location: Dead in the drow outpost chamber
-- Current state: Deceased; body looted
-- Recent actions: Declared herself in charge of the party immediately after surviving the battle; invoked Lolth's blessing when Grygum's divine bolt missed her; was grappled by Thorin and silenced; killed by Zalthir using the Eldritch Claw Tattoo
-- Faction: Lolth cult initiate; also secretly a Zuggtmoy adherent
-- Revealed motivations/secrets: Was not present in this chunk as a living actor beyond her final moments; her wax-sealed pouch contained a theological document arguing Lolth and Zuggtmoy are the same entity; items recovered from her body: holy symbol of Lolth, chain mail, prayer beads, sealed wax pouch containing the theological document, a fine Drow spider-silk cloak (taken by Zalthir)
-
-**Ilvara** (deceased, not present in this chunk but discussed and looted)
-- Current location: Dead in the drow outpost chamber; body examined and looted
-- Current state: Deceased prior to this session; body present
-- Recent actions (postmortem): Body looted by the party; prayer book examined by Grygum; scourge recovered; had been transporting confiscated prisoner belongings including Thorin's tooth; had constructed an elevated platform in the chamber surrounded by Zuggtmoy-corrupted fungal growth
-- Faction: House Mizzrym; High Priestess of Lolth; corrupted by Zuggtmoy
-- Revealed motivations/secrets: Her prayer book shows a corruption timeline in marginalia written in a different or altered hand, documenting her transition from orthodox Lolth worship toward Zuggtmoy influence; she had been carrying Thorin's tooth as a trophy; she had a ritual bundle (incense cones, silver bowl, cloth stitched with Lolth and Zuggtmoy sigils combined) hidden beneath her platform; she had missed communications from House Mizzrym; items recovered: Lolth prayer book with Zuggtmoy marginalia, Living Serpent Head Scourge, confiscated prisoner belongings chest, ritual bundle
-
-**The T'sarran Mage** (deceased, not named)
-- Current location: Dead in the drow outpost chamber
-- Current state: Deceased; body looted
-- Recent actions (postmortem): Body found with a House T'sarran signet ring, an obsidian wand with a captive spider preserved in amber at its tip, and partially burned documents
-- Faction: House T'sarran
-- Revealed motivations/secrets: Was carrying an extraction contract for Daz — to take him alive and unharmed — on behalf of House T'sarran; documents were partially burned, presumably an attempt to destroy them before or during the battle
-
-**Thorin**
-- Current location: Surface world
-- Current state: Alive; has recovered his tooth
-- Recent actions: Attempted to grapple and silence Asha Vandree; recovered his tooth from the confiscated prisoner belongings chest; extracted a necromantic pearl from the fungal mass; looted the chamber including dead guards (gold, short swords, long sword, steel whistle); managed Dawnbringer with the Vaultmaster Locking Scabbard; emerged to the surface; is planning to seek a sword whisperer for Dawnbringer
-- Faction: Party
-- Revealed motivations/secrets: Expressed reluctance to kill when not necessary; deeply attached to Dawnbringer; intends to find a specialist called a "sword whisperer"
-
-**Grygum**
-- Current location: Surface world
-- Current state: Alive; experienced what appeared to be a genuine spiritual moment upon reaching sunlight
-- Recent actions: Attempted a divine bolt against Asha (missed); looted Asha's body; looted Ilvara's body; used acid breath to destroy the Zuggtmoy-corrupted fungal growth on Ilvara's platform; read the sealed wax pouch document; examined Ilvara's prayer book and identified the Zuggtmoy corruption timeline in its marginalia; read the House Mizzrym sealed orders and the Neverlight Grove letter; opened the bag of holding to let Glabbagool observe the surface; intends to research Bahamut lore and collect pamphlets at Candlekeep
-- Faction: Party; follower of Bahamut (mentor named Gorg'Bahamut referenced)
-- Revealed motivations/secrets: Mentor is Gorg'Bahamut (not present in this chunk, referenced); received the flask of Overbright brandy personally
+- Current state: Alive, unsettled by revelations about his unknown patron; planning travel to Candlekeep
+- Recent actions: Negotiated with the Duskryn sisters; killed Asha Vandree (via Eldritch Claw Tattoo, per Zalthir's account — see note below); proposed the group investigate the source of his protection contract together and split proceeds; suggested Candlekeep as the group's next destination
+- Faction: None (male Drow apostate with no house affiliation)
+- Revealed motivations/secrets: Genuinely does not know why someone is spending heavily to protect him; has been running a mental list of entities who want him dead since Velkynvelve; holds private opinions that would have gotten him killed in Menzoberranzan; studied magic; background described as "a complete mystery" even to hired professionals
+- Note: Does not appear to have killed Asha himself — Zalthir made that call
 
 **Zalthir**
-- Current location: Surface world
+- Current location: Surface world (just emerged from the Underdark)
 - Current state: Alive
-- Recent actions: Killed Asha Vandree using the Eldritch Claw Tattoo; took Asha's fine Drow spider-silk cloak; placed his own Drow cloak in a bag before emerging to sunlight (knowing it would disintegrate); observed Glabbagool's reaction to the surface world
-- Faction: Party; formerly associated with an organisation called the Garden Shadow (referenced obliquely)
-- Revealed motivations/secrets: Trained at a monastery; references to Brother Quellin and Brother Harren as former instructors (neither present in this chunk); attended classes in social authority pressure points and ethics of necessary violence; described himself as primarily interested in combat training
+- Recent actions: Killed Asha Vandree using the Eldritch Claw Tattoo (precise strikes, quick); removed and bagged his Drow cloak before sunlight could destroy it; observed Glabbagool's first exposure to sunlight
+- Faction: Unspecified monastery background
+- Revealed motivations/secrets: Trained at a monastery; attended classes under Brothers Quellin and Harren (and possibly others); left or departed before completing the curriculum; capable of decisive lethal action when others hesitate; has thought about the surface world intermittently throughout the Underdark journey
 
-**Dawnbringer**
-- Current location: Thorin's possession; surface world
-- Current state: Sentient sunblade; alive and opinionated
-- Recent actions: Refused to be used as a purification ritual implement; declared itself a high-quality sunblade that kills things, not a religious symbol; was persuaded to cooperate after Thorin referenced the Vaultmaster Locking Scabbard
-- Faction: None; bonded to Thorin
-- Revealed motivations/secrets: Strongly objects to being used as anything other than a weapon; responds to threat of the Vaultmaster Locking Scabbard as a negotiating lever; described as having endured months of darkness against its radiant nature
+**Thorin**
+- Current location: Surface world (just emerged from the Underdark)
+- Current state: Alive; has recovered his tooth
+- Recent actions: Attempted to grapple Asha Vandree (clamped hand over her mouth); recovered his tooth from the confiscated prisoner belongings chest; extracted a necromantic pearl from the fungal mass at the center of the chamber; used or threatened the Vaultmaster Locking Scabbard to persuade Dawnbringer to cooperate; led emergence from the tunnel mouth
+- Faction: None confirmed
+- Revealed motivations/secrets: Reluctant to kill if avoidable; has a relationship with Dawnbringer that involves repeated negotiation; considering finding a "sword whisperer" specialist for Dawnbringer's care after months in darkness
+
+**Grygum**
+- Current location: Surface world (just emerged from the Underdark)
+- Current state: Alive
+- Recent actions: Attempted to hit Asha Vandree with a divine light attack (missed); used acid breath to destroy the fungal growth on Ilvara's platform; looted Asha Vandree's body; examined and summarised Asha's sealed wax pouch document; examined Ilvara's prayer book and identified the Zuggtmoy marginalia corruption timeline; read aloud the sealed orders from House Mizzrym; catalogued all items recovered from the outpost; plans to visit Candlekeep to research Bahamut lore and collect pamphlets
+- Faction: Follower of Bahamut; references a mentor named Gorg'Bahamut
+- Revealed motivations/secrets: Mentor is Gorg'Bahamut; prefers alternatives to killing; treats looting as archival documentation; noted the theological significance of all recovered items
+
+**Nym Duskryn**
+- Current location: Departed (location unknown after leaving the chamber)
+- Current state: Alive; contract fulfilled
+- Recent actions: Spoke with Daz and the party after the battle; confirmed contract terms (protect Daz from House Mizzrym and House T'sarran); dismissed Asha as a low-level threat; stated the party could not afford to retain the sisters further; critiqued Thorin's grapple approach; departed professionally without ceremony
+- Faction: House Duskryn (Menzoberranzan mercenaries)
+- Revealed motivations/secrets: Contract fulfilled; identity of contracting party unknown even to her; found Daz's survival investment anomalous and puzzling
+
+**Kaelira Duskryn**
+- Current location: Departed (location unknown after leaving the chamber)
+- Current state: Alive; contract fulfilled
+- Recent actions: Addressed the party regarding the two named threats (House Mizzrym, House T'sarran); praised the group's handling of the T'sarran contingent; applauded Zalthir's killing of Asha (slow, deliberate clapping); examined the burned documents; expressed genuine professional puzzlement at the expenditure on Daz; departed with Nym
+- Faction: House Duskryn (Menzoberranzan mercenaries)
+- Revealed motivations/secrets: Skeptical of Daz's self-mythologizing; noted the contracting party "interrupted" their schedule "a lot"; suggested the whole affair might be a game played by the houses
+
+**Asha Vandree**
+- Current location: Dead in the outpost chamber
+- Current state: Deceased — killed by Zalthir using the Eldritch Claw Tattoo
+- Recent actions (immediately before death): Declared herself in charge of the party; invoked Lolth's blessing when Grygum's attack missed; was grappled by Thorin; killed before she could speak further
+- Faction: Lolth cult (also secretly aligned with Zuggtmoy, based on the theological document found on her body)
+- Items recovered from body: Holy symbol of Lolth, chain mail, prayer beads, sealed wax pouch (theological document), Drow spider-silk cloak (taken by Zalthir)
+- Revealed motivations/secrets: Genuinely devout to Lolth; was apparently also a Zuggtmoy cultist or was being drawn toward Zuggtmoy theology; the wax pouch document argues Lolth and Zuggtmoy are the same entity
+
+**Ilvara**
+- Current location: Dead in the outpost chamber (body present and looted)
+- Current state: Deceased (killed prior to this session, by Grygum's earlier account)
+- Recent actions (postmortem): Body looted; found to be carrying: the confiscated prisoner belongings chest, her prayer book, the Living Serpent Head Scourge; had built an elevated platform with fungal growth that Grygum destroyed
+- Faction: House Mizzrym; High Priestess of Lolth; corrupted by Zuggtmoy
+- Revealed motivations/secrets: Prayer book marginalia in a different (or altered) hand documents the timeline of her corruption by Zuggtmoy; was a normally functioning, politically dangerous High Priestess before corruption began; had been carrying Thorin's tooth as a trophy; had a missed meeting documented in the letter from Neverlight Grove; House Mizzrym's sealed orders show they were unaware of her whereabouts
+
+**The T'sarran Mage** (unnamed)
+- Current location: Dead in the outpost chamber
+- Current state: Deceased
+- Recent actions (postmortem): Body looted; found carrying: House T'sarran signet ring, obsidian wand with captive spider in amber at the tip, partially burned documents
+- Faction: House T'sarran
+- Revealed motivations/secrets: Was part of a contract to extract Daz alive and unharmed; carried orders from House T'sarran
 
 **Glabbagool**
-- Current location: Surface world (peering out of the bag of holding)
-- Current state: Alive; now a grey ooze (previously a gelatinous cube)
-- Recent actions: Peered out of the bag of holding at the surface world for the first time; observed sunlight with what appeared to be wide, attentive curiosity
+- Current location: Surface world; being carried in bag of holding
+- Current state: Alive; transformed into a grey ooze (was previously a gelatinous cube)
+- Recent actions: Peered out of the bag of holding upon emergence into sunlight; observed the surface world for the first time with evident curiosity and wonder
+- Faction: Travelling companion to the party
+- Revealed motivations/secrets: None new; responded to sunlight with curiosity rather than retreat
+
+**Dawnbringer**
+- Current location: Thorin's possession, surface world
+- Current state: Intact; sentient sunblade
+- Recent actions: Objected strenuously to being used as a purification tool; declared itself "a high-quality sunblade" that "kills things" and not "a magical wizard thingy that purifies things"; backed down when Thorin referenced the Vaultmaster Locking Scabbard; agreed to cooperate ("I could do this solid for you")
+- Faction: Thorin's weapon/companion
+- Revealed motivations/secrets: Has strong opinions about its purpose and identity; the Vaultmaster Locking Scabbard functions as a negotiating tool against it; has endured months in the Underdark without sunlight
+
+**Eldeth** (referenced, not focused upon)
+- Current location: Surface world (emerged with the party)
+- Current state: Alive
+- Recent actions: Emerged from the Underdark with the group
 - Faction: Party companion
-- Revealed motivations/secrets: No vocal communication apparent without the Stonespeaker Crystal (noted as Daz's item); first reaction to the surface was curiosity rather than retreat
 
-**Jimjar** (absent; referenced)
-- Current location: Unknown; disappeared
-- Current state: Unknown; described as disappeared
-- Recent actions: None in this chunk; referenced as a reason to conduct research at Candlekeep
-- Faction: Unknown
-- Revealed motivations/secrets: His disappearance is listed as one of the party's open investigative threads
+**Spiderbait** (referenced, not focused upon)
+- Current location: Surface world (emerged with the party)
+- Current state: Alive
+- Recent actions: Emerged from the Underdark with the group
+- Faction: Party companion
 
-**Eldeth**
-- Current location: Surface world
-- Current state: Alive; emerged with the party
-- Recent actions: Emerged from the Underdark with the party
-- Faction: Party companion (survivor)
+**Milo Goodbarrel** (referenced, not present)
+- Does not appear in this chapter; referenced by Daz as the author of a book Daz has read "too many times to admit"
+- A halfling described as "relentlessly hopeful"; author of a phrase about "standing at the edge of the question that changes everything"
+- Motivation/relevance: His words resonated with Daz's experience of the revelation about his unknown patron
 
-**YukYuk**
-- Current location: Surface world
-- Current state: Alive; emerged with the party
-- Recent actions: Emerged from the Underdark with the party
-- Faction: Party companion (survivor)
+**Gorg'Bahamut** (referenced, not present)
+- Does not appear in this chapter; referenced by Grygum as his mentor
+- Would have wanted Grygum to say something pious about the dignity of the dead; Grygum chose not to follow this instinct when looting Asha's body
 
-**Milo Goodbarrel** (absent; referenced)
-- Current location: Unknown; not present
-- Current state: Unknown
-- Recent actions: None; referenced only through a book Daz has read
-- Faction: Unknown; halfling author
-- Revealed motivations/secrets: Authored a book Daz has read "too many times to admit"; coined the phrase "standing at the edge of the question that changes everything"
+**Jimjar** (referenced, not present)
+- Does not appear in this chapter; referenced in the context of Candlekeep research goals
+- His disappearance is listed as one of the open questions the party intends to investigate
 
-**Gorg'Bahamut** (absent; referenced)
-- Current location: Unknown; not present
-- Current state: Unknown
-- Recent actions: None; referenced as Grygum's mentor
-- Faction: Bahamut faith
-- Revealed motivations/secrets: Grygum states he "would have wanted" pious treatment of the dead; is Grygum's mentor
+**Brother Quellin** (referenced, not present)
+- Does not appear in this chapter; referenced by Zalthir as a monastery instructor
+- Taught something about "pressure points of social authority"; Zalthir attended approximately four sessions before abandoning the class; also possibly taught about material impermanence
 
-**Brother Quellin** (absent; referenced)
-- Current location: Unknown; not present; presumably at Zalthir's former monastery
-- Current state: Unknown
-- Recent actions: None; referenced as a former instructor of Zalthir's
-- Faction: Zalthir's monastery (unnamed)
-- Revealed motivations/secrets: Taught a class on pressure points of social authority; had dusty robes; taught something about material impermanence and transience of tools
+**Brother Harren** (referenced, not present)
+- Does not appear in this chapter; referenced by Zalthir as a monastery instructor
+- Taught a class on "decisive action under moral uncertainty — the ethics of necessary violence"; never sat down; the class went on for a long time
 
-**Brother Harren** (absent; referenced)
-- Current location: Unknown; not present; presumably at Zalthir's former monastery
-- Current state: Unknown
-- Recent actions: None; referenced as a former instructor of Zalthir's
-- Faction: Zalthir's monastery (unnamed)
-- Revealed motivations/secrets: Taught a class on decisive action under moral uncertainty / ethics of necessary violence; never sat down during lectures
+**Protanther** (referenced, not present)
+- Does not appear in this chapter; referenced by Grygum in a passing comparison
+- Was approached by someone named Stroud; the reference implies Protanther had a blind spot despite four hundred years of preparation
 
-**Stroud** (absent; referenced obliquely)
-- Current location: Unknown
-- Current state: Unknown
-- Recent actions: Referenced in Grygum's internal monologue as sitting down across from Protanther; context implies a significant meeting involving preparation and a blind spot
-- Faction: Unknown
-- Revealed motivations/secrets: Had four hundred years of preparation; still had a blind spot regarding an unspecified threat or element
+**Stroud** (referenced, not present)
+- Does not appear in this chapter; referenced by Grygum in a passing comparison
+- Sat down across from Protanther; had four hundred years of preparation; still had a blind spot
 
-**Protanther** (absent; referenced obliquely)
-- Current location: Unknown
-- Current state: Unknown
-- Recent actions: Referenced as the counterpart to Stroud in a significant meeting
-- Faction: Unknown
-- Revealed motivations/secrets: None beyond the reference
+**The Unknown Patron** (unnamed, not present)
+- Does not appear in this chapter; discussed extensively
+- Hired House Duskryn (Nym and Kaelira) through multiple cutouts to protect Daz from House Mizzrym and House T'sarran
+- Identity unknown even to the hired sisters; used sufficient intermediaries that the transaction cannot be traced
+- "Interrupted" the Duskryn sisters' schedule "a lot" to ensure Daz's survival
+- The level of financial insulation implies the payer has significant reason not to be associated with the purchase
 
 ---
 
 ## Factions
 
 **House Duskryn**
-- Current goals: Contract fulfilled; no ongoing stated goals
-- Recent actions: Hired through Menzoberranzan cutouts to protect Daz from House Mizzrym and House T'sarran; monitored the situation; allowed the party to handle the T'sarran contingent independently; departed after the battle
-- Relationships: Contracted by unknown party; aware of but not allied with the player party; professional relationship only
+- Current goals: Contract fulfilled; no stated ongoing goals regarding the party
+- Recent actions: Protected Daz from House Mizzrym and House T'sarran threats; observed and assessed the party's combat capability; departed after contract completion
+- Relationships: Hired through cutouts by an unknown patron; contracted against House Mizzrym and House T'sarran; no stated allegiance to either
 - Key members: Nym Duskryn, Kaelira Duskryn
 
 **House Mizzrym**
-- Current goals: Unknown; had been attempting to contact/locate Ilvara; presumably still has interests in the region
-- Recent actions: Sent increasingly frantic sealed correspondence to Ilvara; did not receive responses (Ilvara was corrupted and then killed); named as one of the two threats in the Duskryn contract
-- Relationships: Ilvara was their high priestess and operative; hostile to Daz (named threat); relationship to House T'sarran unstated
+- Current goals: Unknown; their sealed orders indicate they were trying to locate Ilvara
+- Recent actions: Sent increasingly frantic sealed orders to Ilvara demanding a response ("Where are you? What have you been doing?"); named as one of two threat factions in the Duskryn protection contract
+- Relationships: Ilvara was their agent/High Priestess; unaware she had been corrupted by Zuggtmoy; named alongside House T'sarran as a threat to Daz
 - Key members: Ilvara (deceased)
 
 **House T'sarran**
-- Current goals: Extraction of Daz alive and unharmed (per burned documents)
-- Recent actions: Hired a mage operative with a T'sarran signet ring to extract Daz; sent mercenary escort with her; named as one of the two threats in the Duskryn contract; extraction attempt failed (mage killed)
-- Relationships: Hostile enough to deploy operatives against the party; named threat alongside House Mizzrym; unknown relationship to the anonymous party funding Daz's protection
+- Current goals: Wanted Daz extracted alive and unharmed (per the burned documents and the mage's orders)
+- Recent actions: Hired a mage with mercenary escort to extract Daz; mage and escort killed in the outpost; signet ring and partially burned orders recovered as evidence
+- Relationships: Named as one of two threat factions in the Duskryn protection contract; in apparent opposition to House Mizzrym (both named as threats); the Unknown Patron's protection contract was specifically arranged against them
 - Key members: Unnamed T'sarran mage (deceased)
 
-**Unknown Menzoberranzan Patron**
-- Current goals: Unknown; funded Daz's protection with significant resources
-- Recent actions: Contracted House Duskryn through multiple cutouts to shield Daz from House Mizzrym and House T'sarran; paid enough to "interrupt" the patron's schedule repeatedly; maintained complete anonymity even from the hired contractors
-- Relationships: Unknown relationship to Daz; unknown relationship to any named house; deliberately insulated from association with the contract
-- Key members: Unknown
-
 **Lolth Cult**
-- Current goals: Unknown beyond serving Lolth
-- Recent actions: Asha Vandree was a cult initiate who had been traveling with the party; she declared herself in charge after the battle and was killed
-- Relationships: Asha was also secretly a Zuggtmoy adherent; Ilvara was a corrupted Lolth cleric; the theological document in Asha's pouch argued Lolth and Zuggtmoy are the same entity
+- Current goals: Unknown; Asha was a low-level initiate
+- Recent actions: Asha Vandree attempted to assert authority over the party; killed before she could act further
+- Relationships: Asha was apparently also being drawn toward Zuggtmoy; Ilvara was a High Priestess of Lolth who was corrupted by Zuggtmoy
 - Key members: Asha Vandree (deceased), Ilvara (deceased)
 
 **Zuggtmoy (Demon Queen of Fungi)**
-- Current goals: Unknown; had been corrupting Ilvara and had a presence in the drow outpost
-- Recent actions: Had corrupted Ilvara's theology over time (documented in prayer book marginalia); had a fungal ritual presence in the outpost chamber (destroyed by Grygum); Asha Vandree was also secretly a follower
-- Relationships: Subverted House Mizzrym's operative Ilvara; theological claims linking her to Lolth present in Asha's documents (likely false/corrupted reasoning)
-- Key members: Ilvara (corrupted operative, deceased), Asha Vandree (initiate, deceased)
+- Current goals: Spread corruption; subvert Lolth clergy (evidenced by Ilvara and Asha)
+- Recent actions: Had corrupted Ilvara (documented in prayer book marginalia); had drawn Asha Vandree into dual theological allegiance; the fungal mass/ritual setup in the chamber was a physical expression of Zuggtmoy's reach
+- Relationships: Theologically linked to Lolth in Asha's sealed document (arguing they are the same entity); their ritual bundle combined both sigils
+- Key members: No mortal agents confirmed alive
 
-**Bahamut Faith**
-- Current goals: Grygum intends to research Bahamut lore at Candlekeep
-- Recent actions: No factional actions this session; Grygum referenced his mentor Gorg'Bahamut and had a spiritual moment upon reaching sunlight
-- Relationships: Grygum is a follower/cleric
-- Key members: Grygum (PC), Gorg'Bahamut (mentor, absent)
-
-**Zalthir's Monastery (unnamed)**
+**The Monastery (unnamed)**
 - Current goals: Unknown
-- Recent actions: None; referenced only through Zalthir's recollections of instructors and curriculum
-- Relationships: Zalthir is a former student; Garden Shadow is referenced as an associated organisation or teaching body
-- Key members: Brother Quellin (instructor, absent), Brother Harren (instructor, absent)
-
-**The Garden Shadow**
-- Current goals: Unknown
-- Recent actions: None; referenced once in Zalthir's internal monologue as having a saying about dangerous people in rooms
-- Relationships: Associated with Zalthir's monastery or training; possibly the same institution or a sub-organisation
-- Key members: Unknown
+- Recent actions: None in this chapter; referenced only through Zalthir's memories
+- Relationships: Zalthir's background institution
+- Key members: Brother Quellin, Brother Harren (instructors); Zalthir (former student)
 
 ---
 
 ## World Events
 
-- The Duskryn sisters (Nym and Kaelira) revealed they had been contracted in Menzoberranzan by an anonymous patron to protect Daz specifically from House Mizzrym and House T'sarran.
-- Asha Vandree declared herself in charge of the party immediately following the battle.
-- Grygum attempted a divine bolt against Asha Vandree; it missed.
-- Thorin grappled Asha Vandree and covered her mouth to prevent her from praying or commanding.
-- Nym and Kaelira advised that the correct response to a Lolth cleric is decapitation, not grappling.
-- Zalthir killed Asha Vandree using his Eldritch Claw Tattoo in a rapid, precise strike sequence.
-- Kaelira Duskryn applauded Zalthir's kill with slow, deliberate clapping.
-- The Duskryn sisters declined the party's offer of retainer, stating the fee was unaffordable, and departed.
-- Grygum looted the chamber, recovering: a jailer's key ring, a payroll chest, a chest of confiscated prisoner belongings, a water-damaged journal from an unknown prisoner, and a flask of Overbright brandy.
-- Thorin recovered his tooth from the confiscated prisoner belongings chest.
-- The party looted Asha Vandree's body: holy symbol of Lolth, chain mail, prayer beads, sealed wax pouch, Drow spider-silk cloak (taken by Zalthir).
-- Grygum broke the wax seal on Asha's pouch and read the theological document inside, identifying it as an argument that Lolth and Zuggtmoy are the same entity.
-- Thorin extracted a necromantic pearl from the warm core of the corrupted fungal mass at the center of the chamber.
-- Grygum used acid breath to destroy the Zuggtmoy-corrupted fungal growth surrounding Ilvara's elevated platform.
-- A ritual bundle was discovered beneath Ilvara's platform: incense cones, a small silver bowl, and a cloth stitched with combined Lolth and Zuggtmoy sigils.
-- The party looted the dead House Mizzrym guards: gold, short swords, a long sword, a steel whistle.
-- The party looted the dead T'sarran mage: a House T'sarran signet ring, an obsidian wand with a captive amber spider tip, and partially burned documents confirming a contract to extract Daz alive for House T'sarran.
-- Grygum examined the T'sarran mage's burned documents and the House Mizzrym sealed orders found on Ilvara, reading them aloud to the party.
-- Grygum examined Ilvara's prayer book and identified Zuggtmoy marginalia in a different or altered hand documenting a corruption timeline.
-- Grygum recovered the Living Serpent Head Scourge from Ilvara's body.
-- The party showed the burned T'sarran documents to the Duskryn sisters, prompting Kaelira's observation about Daz being a "nobody" with a mysterious background.
-- Daz proposed group investigation into his unknown patron, suggesting splitting any proceeds found.
-- Someone raised the possibility of using Dawnbringer in a purification ritual.
-- Dawnbringer refused, declaring itself a weapon and not a ritual implement.
-- Thorin threatened Dawnbringer with the Vaultmaster Locking Scabbard; Dawnbringer agreed to cooperate.
-- The party emerged from the Underdark onto the surface world.
-- Zalthir placed his Drow cloak in a bag before emerging to prevent it from disintegrating in sunlight.
-- Grygum opened the bag of holding; Glabbagool peered out and observed the surface world and sunlight for the first time.
-- The party agreed to travel to Candlekeep to research House T'sarran, Jimjar's disappearance, and Daz's mysterious patron.
-- The party agreed to spend available gold on adventuring gear rather than business investment.
-- Thorin announced his intent to seek a specialist called a "sword whisperer" for Dawnbringer.
+- Nym and Kaelira Duskryn revealed they had been contracted through anonymous cutouts to protect Daz specifically from House Mizzrym and House T'sarran
+- The Duskryn sisters confirmed the contracting party's identity is unknown to them; the financial outlay was described as "a lot" with multiple interruptions to the sisters' schedule
+- Asha Vandree declared herself in charge of the party
+- Grygum attempted a divine light attack on Asha Vandree; it missed; Asha attributed the miss to Lolth's blessing
+- Thorin grappled Asha Vandree and covered her mouth to prevent her from praying
+- Zalthir killed Asha Vandree using the Eldritch Claw Tattoo in rapid precise strikes
+- Kaelira Duskryn applauded Zalthir's killing of Asha with slow, deliberate clapping
+- Thorin threatened Dawnbringer with the Vaultmaster Locking Scabbard; Dawnbringer agreed to participate in a purification ritual
+- Grygum used acid breath to destroy fungal growth on Ilvara's platform
+- Thorin extracted a necromantic pearl from the core of the fungal mass; noted it felt finished and weighted wrong for something grown
+- Thorin looted the dead House Mizzrym guards (gold, short swords, long sword, steel whistle)
+- Thorin looted the T'sarran mage's body (House T'sarran signet ring, obsidian wand with amber-captive spider, partially burned documents)
+- Grygum looted Asha Vandree's body (holy symbol of Lolth, chain mail, prayer beads, sealed wax pouch); Zalthir took her Drow spider-silk cloak
+- Grygum opened and read the sealed wax pouch: a theological document arguing Lolth and Zuggtmoy are the same entity; identified as "tedious and boring" but acknowledged as evidence of Asha's dual allegiance
+- Grygum examined Ilvara's prayer book; identified marginalia in what appeared to be a different or altered hand documenting the timeline of her Zuggtmoy corruption
+- Grygum read House Mizzrym's sealed orders to Ilvara aloud; confirmed they were increasingly frantic attempts to locate her
+- A letter from Neverlight Grove was found among Ilvara's effects, documenting a missed meeting
+- Grygum found a ritual bundle under Ilvara's platform: incense cones, a small silver bowl, and a cloth stitched with both Lolth's and Zuggtmoy's sigils woven together
+- Grygum recovered a jailer's key ring from the outpost
+- A payroll chest (gold and silver) was recovered from the outpost
+- A chest of confiscated prisoner belongings was recovered; Thorin retrieved his tooth from it
+- A water-damaged journal from an unknown prisoner was recovered
+- A flask of Overbright brandy was recovered (taken by Grygum)
+- The Living Serpent Head Scourge was recovered from Ilvara's body; described by Grygum as "a great museum piece"
+- Nym and Kaelira Duskryn departed after the contract was declared fulfilled; Thorin attempted to retain them but was told the fee was beyond the party's means
+- The party emerged from the Underdark onto the surface
+- Zalthir removed and stored his Drow spider-silk cloak immediately upon emergence to prevent sunlight destruction
+- Grygum opened the bag of holding enough for Glabbagool to observe the surface world for the first time; Glabbagool reacted with evident curiosity and wonder
+- The party agreed to travel to Candlekeep to research House T'sarran, Jimjar's disappearance, and Daz's unknown patron
+- The party agreed to spend recovered gold on adventuring gear rather than business ventures
+- Thorin expressed intent to find a "sword whisperer" specialist for Dawnbringer
 
 ---
 
 ## Locations
 
-**The Drow Outpost / Battle Chamber**
-- What it is: A drow outpost, apparently used by Ilvara as an operational base and ritual space; contains an elevated platform, a corrupted fungal mass at its center, and a payroll chest
-- What happened there: Site of the battle against the T'sarran mage's mercenary escort and the T'sarran extraction attempt; Asha Vandree killed here; Ilvara's body and belongings looted here; fungal corruption destroyed by Grygum; ritual bundle recovered; the party completed their looting and departed
-- Current state: Cleared; fungal corruption destroyed; multiple bodies present (Asha Vandree, T'sarran mage, House Mizzrym guards); abandoned by the party
+**The Drow Outpost (unnamed chamber)**
+- What it is: A Lolth/Zuggtmoy-corrupted outpost; site of Ilvara's operation; previously a House Mizzrym installation
+- What happened here: Final confrontation with Ilvara (prior session); confrontation with T'sarran mage and mercenaries; killing of Asha Vandree; full looting of the chamber; destruction of fungal growth by Grygum
+- Current state: Cleared; fungal growth destroyed; all notable occupants dead; valuables removed
 
 **Velkynvelve**
-- What it is: A drow outpost/prison where the party was originally captured and held
-- What happened there: Referenced as the origin point of the party's captivity; Ilvara had been its high priestess; Daz began his mental list of people who wanted him dead there; Thorin's tooth was taken there
-- Current state: Not visited in this chunk; referenced as past location
+- What it is: Drow outpost/prison; origin point of the party's captivity
+- What happened here: Party was originally imprisoned here; Ilvara collected trophies including Thorin's tooth; the jailer's key ring recovered in this session originated here
+- Current state: Not visited in this session; referenced as the starting point
 
 **Menzoberranzan**
-- What it is: Major drow city; origin of the Duskryn sisters and the anonymous contracting party
-- What happened there: Anonymous patron arranged and funded contract with House Duskryn through cutouts; T'sarran mage was apparently also hired/dispatched from here or through its networks
-- Current state: Not visited; referenced as origin of multiple plot threads
-
-**Gracklstugh**
-- What it is: Referenced as a location the party passed through during their Underdark journey
-- What happened there: Not detailed in this chunk
-- Current state: Not visited; referenced in passing
-
-**The Darklake**
-- What it is: Referenced as a location the party traversed during their Underdark journey
-- What happened there: Not detailed in this chunk
-- Current state: Not visited; referenced in passing
-
-**Blingdenstone**
-- What it is: Referenced as a location the party passed through; site of an "ooze crisis" Glabbagool survived
-- What happened there: Glabbagool survived an ooze crisis there; not otherwise detailed in this chunk
-- Current state: Not visited; referenced in passing
+- What it is: Major Drow city; origin of the Duskryn sisters and the anonymous protection contract
+- What happened here (referenced): Daz studied magic there; held opinions that would have gotten him killed if voiced; the Duskryn sisters were hired here through cutouts; Houses Mizzrym and T'sarran operate from here
+- Current state: Not visited in this session; the Unknown Patron is presumably located here or associated with it
 
 **Neverlight Grove**
-- What it is: Referenced only through a letter found on Ilvara; a location with which Ilvara had or was supposed to have political correspondence
-- What happened there: A meeting was missed; the letter documents a failed connection, presumably because Ilvara had become too corrupted to maintain political relationships
-- Current state: Not visited; referenced through the letter only
+- What it is: A location (implied Underdark fungal settlement, consistent with Zuggtmoy's domain)
+- What happened here: A meeting between Ilvara and an unspecified party was scheduled and missed; a letter documenting this was found among Ilvara's effects
+- Current state: Not visited in this session
 
-**The Surface World / The Overbright**
-- What it is: The surface world above the Underdark; referred to by the party as "the Overbright" reflecting the overwhelming brightness after months underground
-- What happened there: The party emerged here; Zalthir stored his Drow cloak before sunlight could disintegrate it; Glabbagool observed sunlight for the first time; the party stood in the light before beginning to plan next steps
-- Current state: Active; the party is here; the tunnel mouth that connects to the Underdark is present
+**The Underdark (general)**
+- What it is: The subterranean realm the party has been traversing for months
+- Referenced locations within: Velkynvelve, Gracklstugh, the Darklake, Blingdenstone (all referenced by Zalthir as waypoints in the party's journey)
+- Current state: The party has now exited
+
+**The Surface World / "The Overbright"**
+- What it is: The surface world above the Underdark; referred to by Zalthir as "the Overbright"
+- What happened here: The party emerged for the first time after months underground; Zalthir experienced the light as something between physical impact and relief; Glabbagool observed it for the first time
+- Current state: The party's current location; weeks of recovery described as following the emergence
 
 **Candlekeep**
-- What it is: A great library; destination the party has agreed to travel to
-- What happened there: Nothing yet; not visited in this chunk
-- Current state: Planned destination; the party intends to research House T'sarran, Jimjar's disappearance, and Daz's patron there
+- What it is: A great library
+- What happened here: Nothing yet; referenced as the party's next destination
+- Current state: Unvisited; planned destination for research into House T'sarran, Jimjar's disappearance, and Daz's unknown patron; Grygum anticipates collecting pamphlets and researching Bahamut lore
 
 ---
 
 ## Threads & Mysteries
 
-- **Daz's anonymous patron**: An unknown entity in Menzoberranzan spent significant resources — routed through multiple layers of cutout intermediaries — to protect a male Drow with no house affiliation and no known strategic value. Even the hired contractors (Duskryn sisters) do not know who paid. The motive is entirely unknown. The patron's anonymity suggests the act of protecting Daz would be embarrassing, illegal, or dangerous for the patron to be seen doing.
-- **Why Daz is a target and a protected asset simultaneously**: House T'sarran wanted Daz extracted alive and unharmed. The anonymous patron wanted Daz protected from House T'sarran and House Mizzrym. Both parties invested heavily. Daz has no explanation for why he warrants this attention.
-- **Daz's true background and lineage**: Kaelira described his background as "a complete mystery." He has no noble house affiliation. The question of whether his value is intrinsic (lineage, power, knowledge) or instrumental (a piece in a house political game) remains open. Daz explicitly states he does not know the answer.
-- **The T'sarran signet ring as a tool**: Daz immediately identified the ring as potentially useful — as proof of T'sarran involvement and possibly as a key or identity object. Its specific utility has not yet been determined.
-- **The necromantic pearl**: Thorin extracted a smooth, dense, fist-sized object from the warm core of the Zuggtmoy-corrupted fungal mass. It has an unsettling necromantic quality. Its origin, purpose, and who placed or grew it there is unknown.
-- **The Zuggtmoy corruption timeline in Ilvara's prayer book**: The marginalia in a different or altered hand documents how Ilvara's theology shifted from orthodox Lolth worship toward Zuggtmoy. It is unclear whether she knew she was being corrupted, whether she believed she was still serving Lolth, or whether the handwriting change indicates a split in her own mind. How Zuggtmoy reached her and why she was a target is unresolved.
-- **The theological document in Asha's wax pouch**: A long theological argument that Lolth and Zuggtmoy are the same entity. It is unclear whether this represents Zuggtmoy's corruption strategy — creating theological cover for her infiltration of Lolth worship — or something else. Whether this document was Asha's own work or given to her is unresolved.
-- **The ritual bundle (Lolth/Zuggtmoy sigil cloth, incense, silver bowl)**: Found beneath Ilvara's platform; appears to be a ritual object combining both cults. What ritual it was used for and what it accomplished or enabled is unknown.
-- **The Living Serpent Head Scourge**: Recovered from Ilvara. Its current state (alive, partially alive, or formerly alive) and any magical properties are unexamined. Grygum described it as "a great museum piece."
-- **Neverlight Grove missed meeting**: Ilvara had correspondence indicating a missed political meeting with someone at Neverlight Grove. The nature of the relationship, what was to be discussed, and whether the contact at Neverlight Grove is aware of Ilvara's fate is unknown.
-- **House Mizzrym's awareness of Ilvara's death**: House Mizzrym sent increasingly frantic communications to Ilvara that went unanswered. They do not yet know she is dead or what happened to her. Their eventual discovery and response is unresolved.
-- **Jimjar's disappearance**: Listed by Zalthir as one of the reasons to travel to Candlekeep. No details about the disappearance are given in this chunk. Unresolved.
-- **The water-damaged prisoner journal**: Recovered from the confiscated belongings chest. Written by an unknown prisoner who presumably did not survive. Its contents are unexamined beyond Grygum noting it exists.
-- **The sword whisperer**: Thorin intends to seek a specialist by this name for Dawnbringer. Whether this person exists, where they are, and what they can offer is unestablished.
-- **Glabbagool's future on the surface**: Glabbagool has emerged into a world entirely unlike the Underdark. His ability to communicate (requiring the Stonespeaker Crystal, noted as Daz's item), his needs, and his long-term place in the party are unaddressed.
-- **Stroud and Protanther**: Referenced obliquely in Grygum's internal monologue as figures involved in a significant meeting after four hundred years of preparation, with a blind spot. Their identities, relationship, and relevance to the current plot are unestablished from this chunk alone.
-- **The Garden Shadow**: Referenced once as an organisation associated with Zalthir's training. Its nature, purpose, and current relevance are unexplored.
+- **The Unknown Patron**: Someone in or associated with Menzoberranzan paid a significant and repeated sum to protect Daz through anonymous cutouts. Their identity is unknown even to the hired mercenaries. The payer's need for insulation implies the association is embarrassing, illegal, or dangerous to be seen making. Motive entirely unclear.
+- **Daz's background**: Daz has no house affiliation, no confirmed lineage, and an origin described as "a complete mystery" by professional Drow operatives. Someone believes he is worth substantial protection costs. Daz himself genuinely does not know why.
+- **House T'sarran's interest in Daz**: House T'sarran independently contracted to extract Daz alive and unharmed — a goal apparently in opposition to House Mizzrym. Why House T'sarran wanted him, and what they intended to do with him, is unresolved.
+- **The necromantic pearl**: Recovered by Thorin from the core of the fungal mass. Smooth, dense, fist-sized, with a wrong weight for something grown and a sensation of wrongness. Its origin, purpose, and creator are unknown. Thorin notes it was not in its location by accident.
+- **Asha Vandree's theological document**: A detailed argument that Lolth and Zuggtmoy are the same entity. Whether this was Asha's original work, something she was given, or evidence of active Zuggtmoy subversion of Lolth clergy is unresolved. Whether this theological position has wider adherents is unknown.
+- **Ilvara's corruption timeline**: The prayer book marginalia document when and how Ilvara was subverted by Zuggtmoy. Who or what initiated the corruption, and whether the same vector affected Asha, is unresolved. The "different hand" question — whether someone else wrote in the book, or whether Ilvara's own mind split — is unresolved.
+- **The Neverlight Grove letter**: A missed meeting documented in correspondence found on Ilvara. Who she was meant to meet, what the meeting concerned, and what consequences the miss had, are unresolved.
+- **House Mizzrym's response**: House Mizzrym's sealed orders show escalating attempts to locate Ilvara. They do not yet know she is dead or was corrupted. What they will do upon learning this is unknown.
+- **Jimjar's disappearance**: Referenced as one of the research goals for Candlekeep. No information provided in this session about what happened to Jimjar.
+- **The water-damaged prisoner journal**: Recovered from the confiscated belongings chest. The prisoner who wrote it is unidentified. The contents are not described in detail. What it records and whether it is relevant is unknown.
+- **Dawnbringer and the sword whisperer**: Thorin intends to find a specialist for Dawnbringer after months in the Underdark. Whether such a specialist exists, where they are, and what they might reveal about the blade is unresolved.
+- **Glabbagool's nature and future**: The ooze has survived the journey and emerged onto the surface. No plan for Glabbagool's long-term situation is discussed.
+- **The ritual bundle (Lolth/Zuggtmoy combined sigils)**: Found beneath Ilvara's platform. The purpose of a ritual object combining both deities' sigils, and what rituals Ilvara was performing with it, is unresolved.
+- **Protanther and Stroud**: Referenced obliquely by Grygum in comparison to Ilvara's blind spot. The nature of Stroud's encounter with Protanther and its relevance to current events is not explained in this session.

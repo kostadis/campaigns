@@ -4,7 +4,7 @@
 - **Class & Level:** Cleric 8
 - **Species:** Orc
 - **Background:** Sage
-- **Player:** Ben 
+- **Player:** Ben Pfaff
 - **Alignment:** Neutral Good
 - **Size:** Medium
 - **Faith:** Bahamut

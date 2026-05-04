@@ -1,7 +1,7 @@
 {
   "backup_tarball": "/home/kroussos/campaigns/Phandalin/docs/npcs.backup-20260418-083803.tar.gz",
   "started_at": "2026-04-18T08:38:03Z",
-  "updated_at": "2026-04-18T21:20:51.183861+00:00",
+  "updated_at": "2026-04-29T05:50:00+00:00",
   "clusters_confirmed": [
     {
       "files": [
@@ -251,6 +251,40 @@
       "aliases_recorded": [
         "meryl"
       ]
+    },
+    {
+      "files": [
+        "shrimpy.md",
+        "the_orc_with_the_necklace_of_bones_shrimpy.md"
+      ],
+      "canonical": "shrimpy.md",
+      "aliases_recorded": [
+        "The Orc with the Necklace of Bones",
+        "The Orc With The Necklace Of Bones Shrimpy"
+      ],
+      "note": "re-merge 2026-04-28: stub re-emerged from a later --build-dossiers run; strict subset of canonical, deleted; ui_config.yaml plan_npc list updated"
+    },
+    {
+      "files": [
+        "elara_seasong_meliame.md",
+        "elara_seasong_meliamne.md"
+      ],
+      "canonical": "elara_seasong_meliame.md",
+      "aliases_recorded": [
+        "Elara Seasong Meliamne"
+      ],
+      "note": "re-merge 2026-04-28: stub re-emerged from a later --build-dossiers run; strict subset of canonical, deleted; ui_config.yaml plan_npc list updated"
+    },
+    {
+      "files": [
+        "xanth.md",
+        "xanthopoulos.md"
+      ],
+      "canonical": "xanth.md",
+      "aliases_recorded": [
+        "Xanthopoulos"
+      ],
+      "note": "merge 2026-04-29: extract-039 introduced xanthopoulos.md as the centaur's longer formal name. Same NPC — both recognize Meril/Meryl's Staff, both reference 'his people' / animal-comm network. Body merged: druid council scene from xanthopoulos folded into xanth.md History; xanthopoulos.md deleted."
     }
   ],
   "clusters_rejected": [

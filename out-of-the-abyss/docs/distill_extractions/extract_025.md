@@ -1,179 +1,190 @@
 ## NPCs
 
 **Grygum**
-- Current location: Underdark caves near Gracklstugh
-- Current state: Alive, wounded but healed himself with divine magic
-- Recent actions: Healed himself and allies; interrogated the Derro Skiit by impersonating an authority figure; pushed Skiit into the zombie pit; declared the party name "Ember Guard"/"Ember Vanguard"; shouted "I worship Bahamut!" to a Derro patrol, provoking a fight
-- Faction: Cleric of Bahamut (self-identified)
-- Motivations/secrets: Finds Bahamut boring compared to Stroud; uses theatrical religious displays partly to convince himself; has a long-winded, philosophical manner of speaking
+- Current location: Derro cave complex near Gracklstugh
+- Current state: Alive, wounded but healed
+- Recent actions: Healed himself and Thorin's dwarf companion using divine magic; attempted to intimidate Skiit by posing as a Derro overseer; pushed Skiit into the pit; identified the pit trap; shouted "I worship Bahamut!" at a Derro patrol, triggering combat; declared "This is how the Bahamut walks!" after battle
+- Faction: Ember Vanguard / Ember Guard; cleric of Bahamut
+- Motivations/notes: Personally finds Bahamut boring and Stroud exciting; uses theatrical religious proclamations for his own benefit; attempted philosophical discussion with hostile Derro
 
 **Daz**
-- Current location: Underdark caves near Gracklstugh, inside Narrak's cavern
+- Current location: Derro cave complex, cavern with ritual circle
 - Current state: Alive, active
-- Recent actions: Cast Maximilian's Earthen Grasp to crush Skiit; cast Toll the Dead to kill Skiit; cast Magic Missiles in combat against Derro patrol; scouted Narrak's cavern quietly; discovered Demogorgon cult evidence (books and papers)
-- Faction: Ember Vanguard (party); is a Drow
-- Motivations: Considering whether to give the cult evidence to Errde Blackstaff; aware that if Errde doesn't get evidence, she'll invent it
+- Recent actions: Cast Maximilian's Earthen Grasp on Skiit; cast Toll the Dead to kill Skiit; led the group to march through a Derro patrol as if they owned the place; identified Demogorgon cult books as evidence for Errde Blackstaff; observed Narrak's ritual
+- Faction: Ember Vanguard; Drow
+- Motivations/notes: Uncertain about handing Demogorgon evidence to Errde Blackstaff; believes Errde will fabricate evidence if not given real evidence; is Drow, which intimidated Ulnara
 
 **Thorin**
-- Current location: Underdark caves near Gracklstugh
-- Current state: Alive, fatigued
-- Recent actions: Killed Derro in melee combat with longsword; directed the party eastward; assessed rooms for value; wore heavy armor
-- Faction: Ember Vanguard (party); is a Dwarf
-- Notes: Has a friendly relationship with an unnamed dwarf companion (likely Eldeth)
+- Current location: Derro cave complex
+- Current state: Alive, wounded but healed
+- Recent actions: Directed group to go east at a fork; decided not to fight the two muttering Derro in the cauldron chamber; struck a Derro with his longsword, wounding it; killed the Derro attacking Grygum with his longsword
+- Faction: Ember Vanguard; dwarf
+- Notes: Wears heavy armor; wields a longsword
 
 **Zalthir**
-- Current location: Underdark caves near Gracklstugh, inside Narrak's cavern
-- Current state: Alive, observing silently
-- Recent actions: Scouted ahead for the party; summoned darkness in combat; landed a critical strike on a Derro; observes everything without speaking
-- Faction: Ember Vanguard (party); described as a monk and as having an "arcane heart"
+- Current location: Derro cave complex, cavern with ritual circle
+- Current state: Alive, observing
+- Recent actions: Scouting ahead of the group; summoned magical darkness during patrol combat; critically struck one Derro during combat; observed Narrak's ritual without acting
+- Faction: Ember Vanguard; monk with arcane abilities
+- Notes: Described as "the good old monk"
 
 **Skiit**
-- Current location: The zombie pit (dead)
-- Current state: Dead (killed by Daz's Toll the Dead)
-- Recent actions: Was tossing body parts into the zombie pit; claimed to be a follower of Demogorgon; said Pliinki promised him a better job; accused the party of working for the Duergar or the Mind Flayers
-- Faction: Derro; follower of Demogorgon; serves under Pliinki and Ulnara
+- Current location: Dead; body fell into the pit
+- Current state: Deceased — killed by Daz's Toll the Dead after surviving being pushed into the pit and Maximilian's Earthen Grasp
+- Recent actions: Was tossing body parts into the pit; pleaded with Grygum; accused the party of working for the Duergar or Mindflayers; attacked or threatened Spiderbait; regained consciousness after falling into pit; attempted to escape the Earthen Grasp; died when Toll the Dead stopped his heart
+- Faction: Cult of Demogorgon; Derro
+- Notes: Wore an amulet of Demogorgon; believed Pliinki promised him a better job; referenced "the great project of Ulnara of the Council of Savants"; Ulnara stated she would turn his corpse into a zombie to serve Demogorgon
 
 **Ulnara**
-- Current location: The zombie pit cavern (necromancer's lair)
-- Current state: Alive, subservient to the party out of fear
-- Recent actions: Emerged from a crack in the southeast wall of the pit alongside an Ogre Zombie; confronted the party; shifted from arrogant to sniveling/subservient when Daz demonstrated power; offered to turn Skiit into a zombie for the cult; asked the party to tell Pliinki she helped the Ember Vanguard
-- Faction: Derro; Council of Savants (serves under it); cultist of Demogorgon
-- Role: Necromancer in charge of the zombie pit operation
+- Current location: The pit / zombie pit chamber
+- Current state: Alive; cooperative and sycophantic after being intimidated
+- Recent actions: Emerged from a crack in the southeast wall of the pit with an Ogre Zombie; challenged the party's identity; shifted from arrogant to subservient when Daz demonstrated lethal power; promised to tell Pliinki that she helped the Ember Vanguard; stated she would turn Skiit's corpse into a zombie
+- Faction: Cult of Demogorgon; Derro; Council of Savants
+- Motivations/notes: Overseeing the "great project" — a zombie/body parts operation in the pit; wants credit with Pliinki; described as the necromancer in charge of the pit operation
 
 **Pliinki**
-- Current location: Unknown (elsewhere among the Derro)
-- Current state: Alive (referenced)
-- Recent actions: Promised Skiit a better job; reportedly told followers that anyone who follows Demogorgon is making the Derro proud and powerful
-- Faction: Derro; Demogorgon cult; appears to be a leader or authority figure among the Derro
+- Current location: Not present in this chunk
+- Current state: Unknown
+- Notes: Referenced multiple times — promised Skiit a better job contingent on success; Ulnara wishes to report favorably to Pliinki about the Ember Vanguard; appears to be a superior figure within the Derro hierarchy or Cult of Demogorgon
 
 **Narrak**
-- Current location: A cavern deeper in the Underdark caves (his ritual chamber)
-- Current state: Alive, conducting experiments
-- Recent actions: Reading from Trillimac books; leading ritual experiments with apprentices; chanting about the elevation of the Derro, triumph of Demogorgon, and destruction of the Duergar
-- Faction: Derro; cultist/servant of Demogorgon
-- Description: Pale Derro features, perpetually contorted face, unnervingly bright eyes with frenetic energy; possesses a warped intellect consumed by chaotic evil; deeply unsettling presence
+- Current location: Cavern with ritual circle, deeper in the cave complex
+- Current state: Alive; conducting a ritual with apprentices
+- Recent actions: Leading apprentices in a ritual; reading aloud from a Trillimac book; delivering a speech about elevating the Derro, the triumph of Demogorgon, and the destruction of the Duergar; conducting unspecified experiments
+- Faction: Cult of Demogorgon; Derro; implied leader or senior figure in the ritual space
+- Motivations: Elevation of the Derro; triumph of Demogorgon; destruction of the Duergar
+- Notes: Pale Derro features; eyes dart with frenetic energy; warped intellect consumed by chaotic evil; has apprentices; surrounded by Derro cultist texts
 
-**Errde Blackstaff**
-- Current location: Gracklstugh (presumed)
-- Current state: Alive (referenced)
-- Recent actions: Wants evidence of Demogorgon's influence among the Derro
-- Faction: Likely Duergar authority in Gracklstugh
-- Motivations: Seeking proof of Demogorgon cult activity; Daz believes she will invent evidence if not given real evidence
+**Two unnamed muttering Derro (cauldron chamber)**
+- Current location: Cauldron chamber in the cave complex
+- Current state: Alive; ignored by the party
+- Recent actions: One muttered about "the mastery" and "the prince is hungry"; the other muttered about pulling something from the dark lake — a scale like polished obsidian that shimmered
+- Faction: Derro; implied Demogorgon cultists
+- Notes: Party chose not to engage them; Grygum noted they are mad
 
 **Jim Jar**
-- Current location: Outside Narrak's cavern entrance
-- Current state: Alive, waiting outside
-- Faction: Party companion
+- Current location: Outside the cavern with the ritual circle
+- Current state: Alive; waiting outside on the party's instruction
+- Notes: Companion of the party; did not enter the ritual cavern
 
 **Spiderbait**
-- Current location: Outside Narrak's cavern entrance
-- Current state: Alive, waiting outside; Skiit wanted to kill him
-- Faction: Party companion
+- Current location: Outside the cavern with the ritual circle (previously present near Skiit's pit)
+- Current state: Alive; waiting outside
+- Notes: Skiit asked to kill Spiderbait; Grygum deflected the request
 
 **Sarith**
-- Current location: Outside Narrak's cavern entrance
-- Current state: Alive, waiting outside
-- Faction: Party companion
+- Current location: Outside the cavern with the ritual circle
+- Current state: Alive; waiting outside
+- Notes: Companion of the party
 
 **Eldeth**
-- Current location: Outside Narrak's cavern entrance
-- Current state: Alive, waiting outside
-- Faction: Party companion; likely the "friendly dwarf" Thorin likes
+- Current location: Outside the cavern with the ritual circle
+- Current state: Alive; waiting outside
+- Notes: Companion of the party
 
 **Stool**
-- Current location: Outside Narrak's cavern entrance
-- Current state: Alive, waiting outside
-- Faction: Party companion
+- Current location: Outside the cavern with the ritual circle
+- Current state: Alive; waiting outside
+- Notes: Companion of the party; appeared worried
+
+**Errde Blackstaff**
+- Current location: Not present in this chunk
+- Current state: Unknown
+- Notes: Wants evidence of Demogorgon's influence in Gracklstugh; Daz located books and papers in the ritual cavern that could serve as such evidence; Daz suspects Errde will fabricate evidence if real evidence is not provided; Daz is uncertain whether to hand the evidence over
+
+**Stroud**
+- Current location: Not present in this chunk; referenced only
+- Current state: Unknown
+- Notes: Referenced by Grygum as someone he found exciting, in contrast to Bahamut whom he finds boring
+
+**Ogre Zombie**
+- Current location: The pit chamber
+- Current state: Undead and active; under Ulnara's command
+- Notes: Emerged with Ulnara from the tunnel in the pit
+
+---
 
 ## Factions
 
 **Ember Vanguard (also called Ember Guard)**
-- Party's self-declared name
-- Key members: Grygum (cleric of Bahamut), Daz (Drow spellcaster), Thorin (Dwarf fighter), Zalthir (monk/scout)
-- Companions: Jim Jar, Spiderbait, Sarith, Eldeth, Stool
-- Current goals: Navigate the Underdark caves; gather evidence of Demogorgon cult for Errde Blackstaff (potentially)
-- Recent actions: Fought through Derro-held caves; intimidated Ulnara into cooperation; killed Skiit and a Derro patrol
-
-**Council of Savants**
-- Derro governing body (referenced by Skiit as Ulnara's authority)
-- Ulnara serves under it
-- Connected to "the great project"
+- Current goals: Navigating and surviving the Derro cave complex; gathering evidence of Demogorgon's influence; unclear who they ultimately serve
+- Recent actions: Passed through multiple cavern chambers; killed a Derro patrol; intimidated Ulnara into cooperation; killed Skiit; located Narrak's ritual site
+- Relationships: Have struck multiple deals with various parties (Daz notes uncertainty about who they work for); Ulnara believes they work for the Derro/Demogorgon hierarchy; Errde Blackstaff is an external contact they have obligations to
+- Key members: Grygum, Daz, Thorin, Zalthir; companions include Jim Jar, Spiderbait, Sarith, Eldeth, Stool
 
 **Cult of Demogorgon (Derro)**
-- Current goals: Elevation of the Derro; triumph of Demogorgon; destruction of the Duergar
-- Recent actions: Operating a zombie pit (necromancy under Ulnara); conducting ritual experiments (under Narrak); maintaining Trillimac books on Demogorgon rituals; proselytizing among the Derro (Pliinki)
-- Key members: Narrak (ritual leader/experimenter), Ulnara (necromancer), Pliinki (authority/propagandist), Skiit (deceased follower)
-- Relationship to Duergar: Hostile; seeking their destruction
-- Relationship to Mind Flayers: Derro were historically enslaved by Mind Flayers
+- Current goals: Elevation of the Derro race; triumph of Demogorgon; destruction of the Duergar; conducting rituals and experiments in the cave complex; zombie creation/body parts project
+- Recent actions: Maintaining a pit full of zombies fed with body parts (overseen by Ulnara); conducting rituals in the ritual circle cavern under Narrak; deploying Derro patrols; setting pit traps; accumulating texts on Demogorgon worship and duality/madness
+- Relationships: Hostile to Duergar; Derro were historically slaves of mind flayers; some Derro also reference Demogorgon as making them "great again"; Ulnara is subordinate to Pliinki; Narrak operates his own ritual cell
+- Key members: Narrak (ritual leader), Ulnara (necromancer/pit overseer), Pliinki (superior figure, not present), Skiit (deceased cultist)
 
-**Duergar (of Gracklstugh)**
-- Referenced as a faction the Derro wish to destroy
-- Errde Blackstaff appears to be an authority figure among them
-- Relationship to Derro/Demogorgon cult: Opposed; Errde seeks evidence of Demogorgon influence
+**Council of Savants**
+- Current goals: Unknown beyond what Skiit revealed
+- Recent actions: Overseeing "the great project" through Ulnara
+- Relationships: Ulnara is described as being of or connected to the Council of Savants; linked to the Cult of Demogorgon among the Derro
+- Key members: Ulnara (referenced as "Ulnara of the Council of Savants" by Skiit)
 
-**Mind Flayers**
-- Referenced historically as former masters of the Derro who corrupted their fundamental nature and destroyed their minds
-- Skiit accused the party of working for them
+---
 
 ## World Events
 
-- The party survived a terrifying battle (details from a prior session) and Grygum healed the group.
-- Zalthir scouted ahead and discovered Skiit at the zombie pit.
-- Grygum interrogated Skiit, posing as an authority figure overseeing the Derro's "great project."
-- Skiit revealed the project belongs to Ulnara of the Council of Savants, and that Pliinki promised him a better job.
-- Skiit accused the party of working for the Duergar or Mind Flayers and refused to be intimidated.
-- Grygum pushed Skiit into the zombie pit.
-- Ulnara emerged from a tunnel in the pit with an Ogre Zombie and confronted the party.
-- Daz used Maximilian's Earthen Grasp and then Toll the Dead to kill Skiit in the pit.
-- Ulnara became subservient, offering to turn Skiit into a zombie and asking the party to commend her to Pliinki.
-- The party passed through a chamber with two insane Derro muttering about "the prince" being hungry and something pulled from a dark lake — a scale smooth as polished obsidian that "shimmered like madness."
-- The party decided the chamber had nothing of value and moved on.
-- A Derro patrol encountered the party; Daz bluffed confidence, but Grygum provoked a fight by declaring his worship of Bahamut.
-- The party killed the entire Derro patrol (Thorin with longsword, Daz with Magic Missiles, Zalthir with darkness and a critical strike).
-- The party reached Narrak's cavern, avoided a poorly disguised pit trap, and entered stealthily.
-- Daz discovered Trillimac books on Demogorgon rituals and papers that could serve as evidence for Errde Blackstaff.
-- Narrak was observed leading apprentices in experiments dedicated to elevating the Derro, triumphing Demogorgon, and destroying the Duergar.
+- The party fought a battle before this session chunk begins; Grygum and at least one companion (Thorin's dwarf friend) were wounded and then healed with divine magic.
+- Zalthir scouted ahead and detected Skiit at the pit ledge.
+- Grygum attempted to deceive Skiit by posing as an overseer checking on the great project's schedule; Skiit responded by referencing Ulnara's project and Pliinki's promise.
+- Skiit accused the party of working for the Duergar or Mindflayers and refused to be intimidated.
+- Grygum pushed Skiit off the ledge into the zombie pit.
+- Ulnara emerged from a tunnel in the pit wall with an Ogre Zombie and challenged the party.
+- Grygum named the party the Ember Guard; Daz invoked Bahamut as their affiliation.
+- Skiit regained consciousness in the pit; Daz cast Maximilian's Earthen Grasp to crush him.
+- Skiit escaped the grasp; Daz cast Toll the Dead, stopping Skiit's heart and killing him.
+- Ulnara, intimidated by Daz's display of power and Drow identity, became sycophantic and cooperative; she promised to report favorably to Pliinki about the Ember Vanguard and stated she would zombie-fy Skiit's corpse.
+- The party moved on through the cave tunnels, rested at a door, and continued east.
+- The party encountered a cauldron chamber with two mad, muttering Derro; the party chose not to fight them and moved on.
+- A Derro patrol encountered the party; Daz directed the party to march as if they owned the place, and it initially worked.
+- Grygum announced "I worship Bahamut!" to the patrol, causing them to attack.
+- Combat ensued: Zalthir summoned darkness and critically struck a Derro; Daz's magic missiles killed one Derro; Thorin killed the Derro attacking Grygum with his longsword; all patrol Derro were killed.
+- The party reached a new cavern entrance with a smell of brimstone and chemicals; the companions (Jim Jar, Spiderbait, Sarith, Eldeth, Stool) were told to wait outside.
+- Grygum spotted and warned Daz about a poorly disguised pit trap inside the cavern.
+- The party observed Derro and Death Dogs inside the cavern without being detected.
+- The party discovered a ritual platform with a glowing ritual circle and Trillimac books on Demogorgon worship.
+- Daz identified the books and papers as evidence Errde Blackstaff wants; he is considering whether to give them to her.
+- The party observed Narrak leading apprentices in a ritual, during which Narrak proclaimed the goals of Derro elevation, Demogorgon's triumph, and the destruction of the Duergar.
+
+---
 
 ## Locations
 
+**The Zombie Pit**
+- What it is: A large pit filled with shambling zombie shapes, lit by faerzress that flows like fog; zombie creation/body-parts disposal site
+- What happened there: Skiit was tossing body parts into the pit when encountered; Grygum pushed Skiit in; Ulnara emerged from a tunnel in the southeast wall with an Ogre Zombie; Skiit was killed by Toll the Dead in the pit; Ulnara promised to turn Skiit's body into a zombie
+- Current state: Active; under Ulnara's operation; Skiit's corpse is present, to be reanimated
+
+**Cauldron Chamber**
+- What it is: A cave chamber with cages of scrap iron on both sides, a spiral path marked by stone pylons, a bubbling cauldron, and a tent
+- What happened there: Two mad Derro were present — one muttering about "the prince" being hungry, the other about a scale pulled from the dark lake; party passed through without engaging
+- Current state: Occupied by two mad Derro; no combat occurred
+
+**The Ritual Cavern (Narrak's chamber)**
+- What it is: A deep cavern with eerie hellish red glow spiraling on the walls, rampant fungi, a 5-foot-high natural platform with a glowing ritual circle, Trillimac books, and papers; also contains Derro apprentices and Death Dogs
+- What happened there: Party entered undetected; found pit trap at entrance; discovered Demogorgon cult texts; observed Narrak conducting a ritual with apprentices
+- Current state: Active ritual in progress; party is present but undetected; books and papers available as evidence
+
 **Gracklstugh**
-- A city in the Underdark; described as a "churning city"
-- The party is operating in or near it
+- What it is: A city referenced as the broader setting
+- Notes: Referenced as "this churning city of Gracklstugh" by Grygum; the cave complex appears to be near or beneath it
 
-**Zombie Pit (Ulnara's Operation)**
-- An enormous pit with faerzress glowing like fog; dark shambling shapes (zombies) below
-- Reeks of death and decomposed flesh
-- A crack in the southeast wall leads to a narrow tunnel flanked by mounds of fungi and offal
-- Ulnara operates from here as necromancer; Skiit was dumping body parts into it
-- Current state: Operational; Skiit is dead in the pit; Ulnara remains in charge
-
-**Derro Muttering Chamber**
-- A chamber with cages assembled from scrap iron on both sides
-- A spiral path circles into the center, marked by small stone pylons
-- Two insane Derro in front of a tent with a bubbling cauldron
-- Awful smell; the party deemed it without value and moved on
-
-**Narrak's Ritual Cavern**
-- Smells of brimstone and chemicals
-- Eerie hellish red glow with spiral patterns on walls; dancing jet shadows
-- Air is muted with no echoes; fungi grow rampantly on floors and walls
-- Contains a poorly disguised pit trap near the entrance
-- A natural 5-foot-high platform with a glowing ritual circle on top
-- Trillimac books around the platform, including: "The Spiraling Descent: A Treatise on Duality and Madness," "The Prince's Gift: On the Creation of Favored Spawn," and "Rituals of the Two-Headed Beast"
-- Various papers with potential evidence of Demogorgon cult activity
-- Inhabited by Narrak, his apprentices, Derro, and Death Dogs
-- Current state: Active ritual site; party has infiltrated undetected
+---
 
 ## Threads & Mysteries
 
-- **Errde Blackstaff's evidence request**: Daz has found cult evidence (books and papers) but is uncertain whether to hand it over; believes Errde will fabricate evidence if not given real proof. What will the party do with the evidence?
-- **Narrak's experiments**: What exactly are the experiments being conducted? What is "The Prince's Gift: On the Creation of Favored Spawn" referring to in practical terms?
-- **"The great project" of Ulnara / Council of Savants**: What is the full scope of this project? Zombie army creation? To what end beyond "destruction of the Duergar"?
-- **Pliinki's role**: Who is Pliinki exactly? What authority do they hold among the Derro? They appear to be a significant leader.
-- **The dark lake scale**: One of the mad Derro described pulling "a scale smooth as polished obsidian that shimmered like madness" from the deepest part of a dark lake "with voices." What creature does this scale belong to? Connection to Demogorgon?
-- **"The prince is hungry, always hungry"**: Who is "the prince"? Likely a reference to Demogorgon or a spawn/avatar — unresolved.
-- **Demogorgon's growing influence**: Multiple sites of Demogorgon worship and activity discovered; the cult appears organized with a hierarchy (Pliinki, Ulnara, Narrak, Council of Savants). How far does this influence extend?
-- **Grygum's relationship with Stroud**: Grygum found Stroud "exciting" compared to Bahamut. Who/what is Stroud? A former patron or allegiance?
-- **The party's multiple deals**: Daz notes they have "struck numerous deals with various other parties" and is unsure who they truly work for. What are these deals and with whom?
-- **Ulnara's cooperation**: She believes the party will commend her to Pliinki. Will this deception hold or create future complications?
-- **Narrak is still alive and unaware**: The party has observed him but not engaged. Confrontation likely imminent.
+- **Errde Blackstaff's evidence**: Daz has located Demogorgon cult books and papers that Errde Blackstaff wants. He is actively considering whether to hand them over, believing she will fabricate evidence regardless. What will the party do with this evidence?
+- **Narrak's ritual**: Narrak is conducting experiments and rituals with apprentices in the ritual cavern. The nature and purpose of the specific ritual being performed is not yet revealed. What are the experiments?
+- **"The great project" of Ulnara / Council of Savants**: The zombie pit and body parts operation is described as a "great project." Its full scope and ultimate purpose have not been explained.
+- **Pliinki**: A superior figure within the Derro hierarchy referenced by both Skiit and Ulnara. Pliinki's identity, rank, location, and plans are unknown. Ulnara intends to report to Pliinki about the Ember Vanguard.
+- **The scale from the dark lake**: One of the mad Derro in the cauldron chamber muttered about pulling something from the dark lake — a scale like polished obsidian that shimmered "like madness" with voices. What is this object? Who or what does it belong to?
+- **"The prince is hungry"**: One of the mad Derro muttered that "the prince is hungry, always hungry." This likely refers to Demogorgon or a servant thereof, but the specific meaning and urgency are unclear.
+- **Death Dogs in Narrak's cavern**: Death Dogs are present alongside Derro in the ritual cavern. Their role in the ritual or cult operations has not been explained.
+- **Skiit's body**: Ulnara stated she would turn Skiit's corpse into a zombie. This has not yet occurred on screen.
+- **Trillimac books**: Three titles identified — "The Spiraling Descent: A Treatise on Duality and Madness," "The Prince's Gift: On the Creation of Favored Spawn," and "Rituals of the Two-Headed Beast." The contents and their implications for the cult's capabilities (especially "Favored Spawn" creation) are unresolved.
+- **Who the Ember Vanguard truly works for**: Daz himself notes uncertainty about all the deals they have struck. Grygum's theological answer was deliberately evasive. This question remains open.
+- **Stroud**: Referenced by Grygum as someone exciting, contrasted with Bahamut. Identity and relationship to Grygum are unexplained.

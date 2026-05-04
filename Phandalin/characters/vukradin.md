@@ -180,6 +180,7 @@ Increase one ability score by 2 or two ability scores by 1.
 ### 3rd Level
 - Slow (WIS 15, 1A, 120 ft./40 ft. Cube, V,S,M, Concentration up to 1 minute)
 - Daylight (-, 1A, 60 ft./60 ft. Sphere, V,S, 1 hour)
+- Sending (-, 1A, Unlimited, V,S,M, 1 round)
 
 ## Personality
 The personality traits, ideals, bonds, and flaws sections are blank on the sheet.

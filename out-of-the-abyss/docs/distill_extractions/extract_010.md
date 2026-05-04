@@ -1,54 +1,119 @@
 ## NPCs
 
-- **Shuushar the Awakened**: Currently traveling with the escapee group toward Sloobludop. Kuo-toan. Pacifist philosopher who advocates hearing all points of view before making judgments. Knows Ploopploopeen personally. Considers the Sea Mother the legitimate faith and the Deep Father a threat. Occasionally considered a "visionary" troublemaker by the Sea Mother establishment. Dismayed by unnecessary violence.
+**Shuushar the Awakened**
+- Current location: Travelling with the escapee group, near Sloobludop
+- Current state: Active, unharmed
+- Recent actions: Explained the role of the Kuo-toan monitor during ambush; urged the group not to kill Ploopploopeen; advised speaking to Bloppblippodd before taking action; droned on about open-mindedness before walking away
+- Faction: Travelling with the escapees; aligned philosophically with the Sea Mother's traditional faith
+- Motivations/Secrets: Advocates pacifism and consideration of all perspectives; appears to be a known "visionary" to Ploopploopeen, who glanced at him pointedly when mentioning troublemakers
 
-- **Ploopploopeen**: Archpriest of the Sea Mother. Currently encountered one hour from Sloobludop with a party of kuo-toans. Parent of Bloppblippodd. Cast a spell that allowed the escapees to understand kuo-toan language, communication nuances, and body language. Wants to use the escapees as false sacrificial bait to infiltrate and disrupt the Deep Father cult's rituals, allowing Sea Mother loyalists to strike. Offers 500 gold, two potions of healing, two boats, and guides to navigate the Darklake as reward. Confident that their followers can handle the Deep Father faction once Bloppblippodd is distracted.
+**Kuo-toan Monitor**
+- Current location: Fled into the Underdark
+- Current state: Alive, fled the battle
+- Recent actions: Led or accompanied the ambush of eight Kuo-toans; fled alongside three others when the battle turned
+- Faction: Unclear; possibly aligned with Deep Father faction or independent patrol
+- Motivations/Secrets: Shuushar explained the monitor's role is to maintain order and suppress outbreaks of insanity; when defeated or fled, the Kuo-toans under their command become less likely to fight
 
-- **Bloppblippodd**: Daughter of Ploopploopeen. Archpriest of Leemooggoogoon the Deep Father. Experienced a powerful vision of the Deep Father a few weeks ago, proclaiming him the new god of the kuo-toans. Has gained a tremendous increase in magical power since the vision. Has attracted many new followers. Conducts blood sacrifices of humanoids on the Deep Father's altar, casting bloody chum into the Darklake where something consumes it. Current location: Sloobludop.
+**Ploopploopeen**
+- Current location: Encountered approximately one hour from Sloobludop; travelling toward it
+- Current state: Active, unharmed; archpriest of the Sea Mother
+- Recent actions: Appeared with a party of Sea Mother-aligned Kuo-toans; cast a spell granting the escapees comprehension of Kuo-toan language and body language; explained the religious civil war in Sloobludop; proposed using the escapees as bait to infiltrate the Deep Father faction; negotiated a reward of 500 gold, two potions of healing, two boats, and Darklake guides
+- Faction: Sea Mother cult (traditional Kuo-toan faith), Sloobludop
+- Motivations/Secrets: Wants to assassinate his own daughter Bloppblippodd and destroy the Deep Father faction; framed as restoring traditional order; cast a pointed glance at Shuushar when mentioning past "visionaries"
 
-- **Sethir**: Member of the escapee group. Present during the kuo-toan ambush. Urged the group to continue traveling.
+**Bloppblippodd**
+- Current location: Sloobludop (not yet encountered in this chunk)
+- Current state: Active; archpriest of Leemooggoogoon the Deep Father
+- Recent actions: Experienced a powerful vision of the Deep Father a few weeks ago; proclaimed him the new god of her people; gained a tremendous increase in magical power; attracted new followers; has been conducting blood sacrifices and casting bloody chum into the waters of the Darklake
+- Faction: Deep Father cult, Sloobludop
+- Motivations/Secrets: Her father Ploopploopeen wants her killed; the entity consuming the blood offerings in the Darklake is unidentified
 
-- **Grygum**: Member of the escapee group. Found kuo-toan names amusing. Expressed interest in both spiritual and material rewards.
+**Sethir**
+- Current location: Travelling with the escapee group
+- Current state: Active, unharmed
+- Recent actions: Asked whether the group should continue after the first ambush
 
-- **Topsy**: Member of the escapee group. Blunt and pragmatic in demeanor.
+**Topsy**
+- Current location: Travelling with the escapee group
+- Current state: Active, unharmed
+- Recent actions: Bluntly challenged Ploopploopeen on why the group should care about Kuo-toan religious problems
 
-- **Daz**: Member of the escapee group. Pragmatic and impatient. Suggested killing Ploopploopeen's group to avoid lengthy conversation. Asked about the size of the Deep Father faction.
+**Grygum**
+- Current location: Travelling with the escapee group
+- Current state: Active, unharmed
+- Recent actions: Suppressed laughter at Ploopploopeen's name; commented sardonically on pitting religions against each other; noted the group's temporal need for reward
 
-- **Zalthir**: Member of the escapee group. Focused on the promised reward.
+**Daz**
+- Current location: Travelling with the escapee group
+- Current state: Active, unharmed
+- Recent actions: Called for a private huddle; suggested killing Ploopploopeen to avoid listening to them; asked how many members the Deep Father faction has
+
+**Zalthir**
+- Current location: Travelling with the escapee group
+- Current state: Active, unharmed
+- Recent actions: Looked unimpressed at Ploopploopeen's bait proposal; asked about the promised reward
+
+---
 
 ## Factions
 
-- **Sea Mother Faithful (Sloobludop)**: Traditional kuo-toan religion in Sloobludop. Led by Archpriest Ploopploopeen. Currently in open conflict with the Deep Father cult. Goal: destroy the Deep Father cult and restore unified worship of the Sea Mother. Plan involves using the escapees as false bait to infiltrate and disrupt the Deep Father's rituals. Key member: Ploopploopeen.
+**Sea Mother Cult (Sloobludop)**
+- Current goals: Destroy the Deep Father faction; assassinate Bloppblippodd; restore traditional Kuo-toan religious order in Sloobludop
+- Recent actions: Ploopploopeen led a party to intercept the escapees; negotiated an alliance using the escapees as infiltrators
+- Relationships: In open civil war with the Deep Father cult; Ploopploopeen's daughter leads the opposing faction; Shuushar is loosely aligned with traditional faith
+- Key members: Ploopploopeen (archpriest)
 
-- **Deep Father Cult (Leemooggoogoon)**: Upstart kuo-toan faction in Sloobludop. Led by Bloppblippodd. Founded a few weeks ago after Bloppblippodd's vision. Growing rapidly in followers. Conducts humanoid blood sacrifices, casting remains into the Darklake where something unknown consumes them. Requires humanoid sacrifices specifically. Key member: Bloppblippodd.
+**Deep Father Cult (Sloobludop)**
+- Current goals: Establish Leemooggoogoon the Deep Father as the supreme god of the Kuo-toans; conduct blood sacrifices and offerings to the Darklake entity
+- Recent actions: Formed several weeks ago following Bloppblippodd's vision; attracted a growing number of followers; been performing humanoid blood sacrifices and casting chum into the Darklake
+- Relationships: In civil war with the Sea Mother cult; requires humanoid sacrifices, making the escapee party a prize target
+- Key members: Bloppblippodd (archpriest)
 
-- **The Escapees**: Group of former prisoners traveling through the Underdark. Members include Shuushar, Sethir, Grygum, Topsy, Daz, and Zalthir (among others). Currently headed toward Sloobludop. Have agreed to Ploopploopeen's plan in exchange for boats, guides, gold, and potions.
+**The Escapees**
+- Current goals: Escape the Underdark; agreed to assist the Sea Mother cult in exchange for reward
+- Recent actions: Survived ambush by eight Kuo-toans; negotiated reward terms with Ploopploopeen; agreed to act as bait/infiltrators in Sloobludop
+- Relationships: Newly allied with the Sea Mother cult (transactional); Shuushar is a travelling companion
+- Key members: Sethir, Topsy, Grygum, Daz, Zalthir (named members present)
+
+---
 
 ## World Events
 
-- The escapee group was ambushed by eight kuo-toans (four from front, four from rear) including a kuo-toan monitor, approximately one hour before meeting Ploopploopeen.
-- The group discovered that kuo-toan bodies secrete a sticky adhesive substance that causes melee weapons to adhere to them, requiring strength to free.
-- The group used hand-held crossbows effectively to defeat most of the ambushers; three kuo-toans including the monitor fled into the Underdark.
-- One hour from Sloobludop, the group encountered Ploopploopeen's party of Sea Mother loyalists.
-- Ploopploopeen cast a comprehension spell enabling the escapees to understand kuo-toan language and body language.
-- A few weeks ago, Bloppblippodd had a vision of Leemooggoogoon the Deep Father and began a cult that split Sloobludop's population.
-- The Deep Father cult has been making increasing blood sacrifices, casting chum into the Darklake where something unknown consumes it.
-- The escapees agreed to Ploopploopeen's plan to pose as sacrificial offerings to infiltrate the Deep Father cult.
+- The escapee group was ambushed by eight Kuo-toans (four from front, four from rear), including a Kuo-toan monitor, while travelling through the Underdark.
+- The group discovered that Kuo-toan bodies secrete a sticky liquid on death that causes melee weapons to adhere to their corpses; only strength can free a stuck weapon.
+- The group defeated the ambush party using hand-held crossbows; three Kuo-toans including the monitor fled into the Underdark.
+- Approximately one hour from Sloobludop, the group encountered a second Kuo-toan party led by Ploopploopeen, archpriest of the Sea Mother.
+- Ploopploopeen cast a spell granting the escapees comprehension of Kuo-toan language, communication, and body language.
+- Ploopploopeen revealed that several weeks ago Bloppblippodd experienced a vision of Leemooggoogoon the Deep Father and declared him the new god of the Kuo-toans, splitting Sloobludop into two warring factions.
+- Ploopploopeen proposed using the escapees as bait to infiltrate the Deep Father faction, with the escapees acting as apparent prisoners offered in a false gesture of peace.
+- After a private huddle and negotiation, the escapees agreed to the plan in exchange for 500 gold, two potions of healing, two boats, and guides to navigate the Darklake.
+
+---
 
 ## Locations
 
-- **Sloobludop (also spelled Sloopbludop)**: Kuo-toan settlement near the Darklake in the Underdark. Currently in civil conflict between Sea Mother worshippers and Deep Father cultists. Contains an altar to the Deep Father where blood sacrifices are made. The group is approximately one hour away.
+**Sloobludop**
+- What it is: A Kuo-toan settlement, approximately two hours' travel from the point of the second encounter
+- Current state: Divided by religious civil war between the Sea Mother cult and the Deep Father cult; Deep Father followers have been performing blood sacrifices and casting chum into the Darklake
 
-- **The Darklake**: A large body of water in the Underdark adjacent to Sloobludop. Something unknown lurks in its waters and consumes the bloody chum offerings from the Deep Father cult. Navigable by boat with guides.
+**The Darklake**
+- What it is: A large underground body of water accessible from or near Sloobludop
+- Current state: Site of Deep Father blood offerings; something in the Darklake is consuming the bloody chum cast into it — the nature of this entity is unidentified
+- Navigational note: Requires guides and boats to traverse; two boats and guides are part of the reward offered to the escapees
 
-- **The Underdark**: The broader subterranean setting. Three kuo-toans from the ambush fled into it.
+**The Underdark (travel route)**
+- What it is: The subterranean region through which the escapees are travelling
+- Current state: Active threat; Kuo-toan patrols encountered; three Kuo-toans including a monitor fled back into it
+
+---
 
 ## Threads & Mysteries
 
-- **What is consuming the sacrificial chum in the Darklake?** The Deep Father cultists cast bloody remains into the Darklake where "something" consumes them. Its nature is unknown.
-- **What is Leemooggoogoon the Deep Father?** A new deity proclaimed by Bloppblippodd's vision. Source and true nature of the vision are unexplained. The tremendous increase in Bloppblippodd's magical power is unexplained.
-- **Will the infiltration plan succeed?** The escapees have agreed to pose as sacrificial bait to disrupt the Deep Father cult's rituals. Outcome uncertain.
-- **Shuushar suggested talking to Bloppblippodd before taking action.** It is unclear if the group will attempt this.
-- **How large is the Deep Father faction?** Ploopploopeen deflected Daz's question about the number of Deep Father followers.
-- **Three kuo-toans including the monitor escaped the ambush into the Underdark.** Their affiliation (Sea Mother or Deep Father) is unknown, and they could raise an alarm or return.
-- **What caused the kuo-toan ambush?** Shuushar was confused about why it happened, suggesting it was unusual behavior.
+- **Identity of the Darklake entity**: Something is consuming the blood offerings cast into the Darklake by Deep Father cultists. Its nature and size are unknown.
+- **Leemooggoogoon the Deep Father**: The deity or entity Bloppblippodd is worshipping is named but not yet encountered or described. Its relationship to the thing in the Darklake is unclear.
+- **Bloppblippodd's increase in magical power**: She gained "tremendous" new magical abilities after her vision. The source of this power is unexplained.
+- **Ploopploopeen's true intent toward his daughter**: He has explicitly tasked himself with killing Bloppblippodd while the escapees distract her. The escapees have not been told the full plan's details (number of opposing faction members withheld).
+- **Three fleeing Kuo-toans including the monitor**: Their faction affiliation and whether they will report the escapees' presence or approach to Sloobludop is unknown.
+- **Shuushar's past as a "visionary"**: Ploopploopeen appeared to reference Shuushar obliquely when discussing past troublemakers. The nature of Shuushar's history with Sloobludop has not been fully revealed.
+- **The reward**: Ploopploopeen has promised 500 gold, two potions of healing, two boats, and Darklake guides. Whether this will be honoured after the operation is unconfirmed.
+- **Shuushar's recommendation to speak with Bloppblippodd first**: He suggested considering all perspectives before acting. This thread is unresolved — the group has not yet decided whether to follow this advice.

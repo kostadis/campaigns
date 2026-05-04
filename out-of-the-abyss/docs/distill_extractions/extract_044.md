@@ -1,237 +1,258 @@
 ## NPCs
 
 **Grygum**
-- Current location: Summoning circle cavern beyond White Shell Mine
-- Current state: Active, assisting party
-- Recent actions: Recognized "Lady of Rot" as Zuggtmoy; summoned bat familiar to scout Festering Fissure; attempted to punch Zalthir awake from hypnotic pattern (failed first attempt, succeeded by stabbing with dagger); blessed Zalthir during the time-snagged wall breach; sensed Galeb Duhr were waiting for divine authority
-- Faction: Party member; cleric of Bahamut
-- Notes: Mistakenly called the Galeb Duhr temple "the Realm of the Dragon"; was corrected that it is "the Realm of the Rock"
+- Current location: Underdark, most recently the White Shell Mine summoning circle chamber
+- Current state: Active, mid-ritual
+- Recent actions: Welcomed by Galeb Duhr (erroneously as cleric of Bahamut entering "the Realm of the Dragon"); corrected by Galeb Duhr; helped cleanse the temple of Ogremoch's corruption; recognized the "Lady of Rot" reference as Zuggtmoy; summoned a bat familiar to scout the Festering Fissure; performed warding prayer during lichen harvest; punched then stabbed Zalthir to break him from hypnotic pattern trance; provided blessing to aid Zalthir at the White Shell Mine temporal anomaly
+- Faction: Cleric of Bahamut; allied with the party
+- Motivations/Secrets: None newly revealed
 
 **Thorin**
-- Current location: Summoning circle cavern beyond White Shell Mine
-- Current state: Active, performing sacrificial ritual at summoning circle
-- Recent actions: Made "hollow/hallowed" pun appreciated by Galeb Duhr; explained to Galeb Duhr he was raised by giants despite being a dwarf; used giant knowledge to identify how to safely cut Ghost Hold Lichen; fought shambling mound with Dawnbringer; deciphered giant runes on summoning circle; placed a dart as the weapon sacrifice
-- Faction: Party member; dwarf raised by giants
+- Current location: White Shell Mine summoning circle chamber
+- Current state: Active, mid-ritual
+- Recent actions: Made "hollow/hallowed" pun appreciated by Galeb Duhr; explained his upbringing by giants to the Galeb Duhr; fought the shambling mound with Dawnbringer; identified proper method to harvest Ghost Hold Lichen without rupturing poisonous sacs; deciphered giant runes on summoning circle; placed a dart as the weapon sacrifice, which was instantly rusted to dust by the runes
+- Faction: Allied with the party
+- Motivations/Secrets: Was raised by giants despite being a dwarf; possesses knowledge of giant customs and lore
 - Equipment: Dawnbringer (enchanted weapon)
-- Notes: Has a complicated relationship with giants; nearly possessed by Zuggtmoy in a previous encounter at Neverlight Grove
-
-**Daz**
-- Current location: Summoning circle cavern beyond White Shell Mine
-- Current state: Active
-- Recent actions: Was mistaken for an ogre by Naomi Pathshutter; cast hypnotic pattern incapacitating violet fungi, shambling mound, and accidentally Zalthir; sculpted fire explosion to avoid Zalthir and lichen; perceived Galeb Duhr vibrations as linguistic pattern; completed ancient handshake protocol using resonant geodes and humming; successfully charmed one basilisk
-- Faction: Party member
 
 **Zalthir**
-- Current location: Summoning circle cavern beyond White Shell Mine
-- Current state: Active, engaging basilisk in close combat while averting eyes
-- Recent actions: Teleported in to cut Ghost Hold Lichen but ruptured a poisonous sac; grappled shambling mound in mutual deadlock; delivered flurry of strikes to shambling mound; recalled training from The Garden Shadow about cutting lichen; meditated and channeled frustration to redirect magical blast through shadow space at White Shell Mine; broke the time-snagged wall
-- Faction: Party member; Shadow Monk
-- Background: Trained by The Garden Shadow, an ancient monk, in garden tending and lichen cutting; chose to leave contemplative life to change the world
+- Current location: White Shell Mine summoning circle chamber
+- Current state: Active, recovering; mid-ritual
+- Recent actions: Attempted to teleport in and cut Ghost Hold Lichen; ruptured a poisonous sac, taking significant damage; was caught in Daz's hypnotic pattern; was punched then stabbed by Grygum to break the trance; grappled the shambling mound in return, preventing engulfment; pummeled the grappled shambling mound; executed a shadow monk maneuver to safely redirect a magical blast through shadow space, breaking the time-snagged wall; engaged a basilisk in close combat while averting his eyes
+- Faction: Allied with the party
+- Motivations/Secrets: Trained as a monk in gardens under The Garden Shadow, who taught him how to cut lichen and tend trees; dismissed that training as irrelevant to his goal of changing the world; recalled the training involuntarily mid-harvest
 
-**Jimjar**
-- Current location: Blingdenstone (Diggermattock Hall area)
-- Current state: Alive, in good spirits
-- Recent actions: Destroyed the ghost Vazuk alongside Eldeth; proclaimed the battle epic and spectacular
-- Faction: Party ally
-
-**Eldeth**
-- Current location: Blingdenstone (Diggermattock Hall area)
-- Current state: Alive
-- Recent actions: Destroyed the ghost Vazuk alongside Jimjar
-- Faction: Party ally
+**Daz**
+- Current location: White Shell Mine summoning circle chamber
+- Current state: Active, mid-ritual; one basilisk is charmed by him
+- Recent actions: Cast hypnotic pattern that incapacitated violet fungi and briefly caught Zalthir; unleashed a carefully sculpted fire explosion avoiding Zalthir and the lichen; perceived the Galeb Duhr's vibrations at Pickshine Mine as a linguistic pattern—a call waiting for an echo; arranged resonant geodes while humming to complete the ancient handshake protocol; successfully enchanted one basilisk, freezing it in place
+- Faction: Allied with the party
+- Notes: Was mistaken for an ogre by Naomi Pathshutter, causing a tense exchange; community defended Daz
 
 **Grunik Tapfinger**
-- Current location: Blingdenstone
-- Current state: Active, cleric
-- Recent actions: Rewarded party with an empty fourth-level spell gem for hallowing the temple
-- Faction: Blingdenstone deep gnomes; cleric
+- Current location: Diggermattock Hall / Blingdenstone
+- Current state: Active
+- Recent actions: Rewarded the party with a precious empty fourth-level spell gem for completing the temple quest
+- Faction: Blingdenstone community; cleric who sent the party on the temple quest
+
+**Jimjar**
+- Current location: Diggermattock Hall
+- Current state: Active
+- Recent actions: Arrived with news of destroying Vazuk; proclaimed the battle epic and spectacular, claiming it would inspire songs for centuries
+
+**Eldeth**
+- Current location: Diggermattock Hall
+- Current state: Active
+- Recent actions: Arrived alongside Jimjar with news of destroying Vazuk
+
+**Vazuk**
+- Current state: Destroyed (ghost)
+- Notes: A deep gnome ghost mad with grief who had been threatening residents of Blingdenstone; destroyed by Jimjar and Eldeth
 
 **Burrow Warden Jadger**
-- Current location: Ruby and the Rough temple, Blingdenstone
-- Current state: Friendly ghost
-- Recent actions: Thanked party for putting two tormented spirits to rest in the catacombs; offered two boons (any two questions answered truthfully); stated he will train next generation of Burrow Wardens
-- Faction: Blingdenstone (former Burrow Warden)
-- Notes: Boons not yet claimed by party
+- Current location: Ruby and the Rough temple (where he waits)
+- Current state: Friendly ghost; active
+- Recent actions: Materialized to thank the party for putting two tormented spirits to rest in the catacombs; offered the party two boons in the form of two truthful answers to any questions; explained he would be waiting at the Ruby and the Rough temple, training the next generation of Burrow Wardens
+- Faction: Blingdenstone (Burrow Wardens)
 
 **Chief Dorbo Diggermattock**
-- Current location: Blingdenstone (Diggermattock Hall)
-- Current state: Concerned about acid/pudding attacks
-- Recent actions: Expressed concern that acid attacks from puddings could destroy weapons, causing troops to die instantly
+- Current location: Blingdenstone
+- Current state: Active, concerned
+- Recent actions: Expressed concern about acid attacks from puddings destroying weapons and killing troops
 - Faction: Blingdenstone leadership
 
 **Naomi Pathshutter**
-- Current location: Blingdenstone
-- Current state: Exhausted (awake 48+ hours attempting to summon earth elementals)
-- Recent actions: Spread map showing tunnels to Entemoch's throne had shifted and sealed; reported earth seemed frozen and unable to heal; reported miners hearing strange vibrations; mistook Daz for an ogre; shifted to respect after learning party defeated four earth elementals and a Medusa; tasked party with investigating vibrations and finding lost path to Entemoch's boon
-- Faction: Blingdenstone leadership/mining
+- Current location: Blingdenstone meeting hall
+- Current state: Exhausted; awake for forty-eight hours
+- Recent actions: Attempted to summon earth elementals for forty-eight hours; spread a map on the table; explained that hallowing Ogremoch's altar had not opened the path to Entemoch's boon as expected; reported that tunnels to the stone prince's throne had shifted and sealed; reported miners hearing strange vibrations as if rock was trying to speak; tasked the party with investigating strange vibrations and finding the lost path to Entemoch's boon; mistook Daz for an ogre; shifted to genuine respect upon learning the party had defeated four insane earth elementals and a Medusa
+- Faction: Blingdenstone community
 
 **Kazook Pickshine**
-- Current location: Blingdenstone (his chambers with bubbling beakers and potions)
-- Current state: Distressed about Bimble's condition
-- Recent actions: Recalled legend of garden of stone in rock blight; sent Bimble to investigate; reported Bimble returned infected; asked party for compassion regarding Bimble
-- Faction: Blingdenstone; alchemist
+- Current location: His chambers in Blingdenstone (surrounded by bubbling beakers and potions)
+- Current state: Active, distressed
+- Recent actions: Arrived at the meeting with news about the legend of a garden of stone in the rock blight; sent his scout Bimble to investigate; reported Bimble returned wrong—infected and raving; asked for compassion regarding Bimble, identifying him as a dear friend, not just an assistant
+- Faction: Blingdenstone community; local alchemist
 
 **Bimble**
-- Current location: Kazook Pickshine's chambers, strapped to a table
-- Current state: Infected, raving, coughing up spores that form tiny laughing faces before dissolving
-- Recent actions: Scouted and found Ghost Hold Lichen in the Festering Fissure; returned infected, raving about a garden that sang to him and "the Lady of Rot feeding the soil"
-- Faction: Blingdenstone; Kazook Pickshine's scout/dear friend
+- Current location: Strapped to a table in Kazook's chambers
+- Current state: Infected; raving; coughing up spores that form tiny laughing faces before dissolving
+- Recent actions: Was sent by Kazook to investigate the legend of a garden of stone in the rock blight; found Ghost Hold Lichen at the Festering Fissure; returned infected and raving about a garden that sang to him and the Lady of Rot feeding the soil
+- Faction: Blingdenstone community; Kazook's scout and friend
+- Notes: His ramblings, smells, and the textures of rock under his fingers were used by the party to pinpoint the exact location of the cave
 
-**Vazuk**
-- Current location: Destroyed
-- Current state: Dead/destroyed
-- Description: Deep gnome ghost, mad with grief, had been threatening Blingdenstone residents
-- Recent actions: Destroyed by Jimjar and Eldeth
+**The Garden Shadow**
+- Current location: Not present; referenced in Zalthir's memory
+- Current state: Unknown; not present in this chapter
+- Notes: An ancient monk who trained Zalthir; taught him how to cut lichen and tend trees, telling him this training would come in useful; does not appear in this chapter
 
 **Dasco Pickshine**
-- Current location: Pickshine Mine, Blingdenstone area
+- Current location: Pickshine Mine
 - Current state: Active, grudging
-- Recent actions: Tried to move Galeb Duhr by striking them with pickaxe (failed); grudgingly gave party two ruby gems worth 500gp total as thanks
-- Faction: Blingdenstone; mine owner
+- Recent actions: Had tried everything to move the four Galeb Duhr blocking the mine, including striking them with his pickaxe, without success; grudgingly offered the party two ruby gems worth 500 gold pieces as thanks after the Galeb Duhr were moved
+- Faction: Blingdenstone community; mine owner
 
 **Perigrog Scrapedust**
 - Current location: White Shell Mine
 - Current state: Active
-- Recent actions: Explained the impassable tunnel situation—impossibly dry, blinding crystallite walls, absolute silence, shadows painted on walls as if time had stopped
-- Faction: Blingdenstone; White Shell Mine
-
-**The Garden Shadow**
-- Current location: Unknown (past figure)
-- Current state: Unknown
-- Description: Ancient monk who trained Zalthir in garden tending, lichen cutting, and tree care; told Zalthir the training would be useful someday
-- Faction: Monastic order (unspecified)
-
-**Zuggtmoy (Lady of Rot)**
-- Current location: Unknown; influence present in Festering Fissure and surrounding areas
-- Current state: Active, scheming
-- Recent actions: Voice echoed in party's minds speaking to the Pudding King about using oozes to "soften the shell" so her garden could "take root in the flesh beneath"; previously destroyed Neverlight Grove; previously nearly possessed Thorin
-- Faction: Demon lord; allied with or manipulating the Pudding King
+- Recent actions: Explained to the party that a tunnel had become impassable—impossibly dry, with blinding crystallite walls and absolute silence; described shadows appearing painted on walls rather than flickering
+- Faction: Blingdenstone community; associated with the White Shell Mine
 
 **The Pudding King**
-- Current location: Unknown (Blingdenstone area/Underdark)
-- Current state: Active, allied with or directed by Zuggtmoy
-- Recent actions: Zuggtmoy spoke to him about using oozes and planting her garden
-- Faction: Commands oozes/puddings; connected to Zuggtmoy and Jubilex
+- Current location: Not present; referenced in overheard telepathic communication
+- Current state: Unknown location; active antagonist
+- Notes: Zuggtmoy was heard speaking to him about plans to use oozes to "soften the shell" so her garden could "take root in the flesh beneath"; does not appear directly in this chapter
+
+**Zuggtmoy (Lady of Rot)**
+- Current location: Not physically present; influence present in the Festering Fissure
+- Current state: Active antagonist; corrupting influence felt in the air of the Festering Fissure
+- Recent actions: Her voice echoed in the party's minds after the shambling mound was defeated, speaking to the Pudding King about using oozes to soften the shell so her garden could take root in the flesh beneath; previously destroyed Neverlight Grove and nearly possessed Thorin in a prior encounter
+- Faction: Demonic; allied with the Pudding King
+- Motivations: Plans to use oozes to weaken defenses and establish her garden/corruption in the flesh beneath
 
 **Ogremoch**
-- Current location: Influence cleansed from temple/menhir
-- Current state: Evil elemental earth god whose corrupting power infested the temple rocks for centuries; now cleansed from the hallowed temple
-- Faction: Evil elemental earth deity
+- Current location: Not present; previously infested rocks of the temple
+- Current state: Corruption cleansed from the temple
+- Notes: Evil elemental earth god; had infested the temple rocks for centuries; his altar was hallowed by the party
 
 **Entemoch**
-- Current location: Unknown; summoning circle found but ritual incomplete
-- Current state: Trapped or inaccessible; tunnels to his throne shifted and sealed
-- Description: Good elemental prince (stone prince) who once aided the deep gnomes of Blingdenstone; deep gnomes used to visit him regularly in ages past
-- Faction: Good elemental earth prince
+- Current location: Unknown; path to his throne sealed
+- Current state: Imprisoned or otherwise inaccessible; awaiting ritual completion
+- Notes: Good elemental prince who once aided the deep gnomes of Blingdenstone; his boon is required by the party; the summoning circle requires three sacrifices—wealth, a weapon, and blood—to free him and claim his boon; one sacrifice (weapon: dart) has been made; Galeb Duhr said gnomes would know his location; tunnels to his throne shifted and sealed after Ogremoch's altar was hallowed
+
+---
 
 ## Factions
 
-**Blingdenstone Deep Gnomes**
-- Current goals: Defend against pudding/acid attacks; obtain Entemoch's boon; deal with Zuggtmoy's corruption; reclaim and restore their city
-- Recent actions: Rewarded party; debated priorities; provided explosives for White Shell Mine breach; community defended Daz from Naomi's insult
-- Relationships: Allied with party; threatened by Pudding King, Jubilex, and Zuggtmoy
-- Key members: Chief Dorbo Diggermattock, Naomi Pathshutter, Grunik Tapfinger, Kazook Pickshine, Dasco Pickshine, Perigrog Scrapedust, Burrow Warden Jadger (ghost), Bimble
+**The Three Galeb Duhr (Temple)**
+- Current goals: Acknowledged the party's success in hallowing the temple; directed the party toward obtaining Entemoch's boon
+- Recent actions: Emerged from the ancient menhir after it shone white light; welcomed Grygum (erroneously invoking "Realm of the Dragon," corrected to "Realm of the Rock"); found Thorin's hollow/hallowed pun amusing as ancient dwarf humor; questioned Thorin about his giant clothes; argued amongst themselves about Entemoch's location before deferring to the deep gnomes
+- Relationships: Friendly to the party; hostile to Ogremoch's corruption; allied with Entemoch's domain
 
-**Galeb Duhr (Temple Guardians)**
-- Current goals: Protect the hallowed temple; guide party to Entemoch's boon
-- Recent actions: Three emerged after temple hallowing to congratulate party; argued about Entemoch's location; suggested gnomes would know; four at Pickshine Mine blocked path vibrating rhythmically, waiting for ancient handshake protocol; relaxed and opened way after Daz completed protocol
-- Relationships: Aligned with Entemoch; opposed to Ogremoch
-- Key members: Three at hallowed temple; four at Pickshine Mine
+**The Four Galeb Duhr (Pickshine Mine)**
+- Current goals: Were blocking Pickshine Mine, vibrating rhythmically in an incomplete ancient handshake protocol
+- Recent actions: Refused all attempts to move, including being struck by Dasco Pickshine's pickaxe; relaxed and opened the way after Daz completed the handshake protocol with resonant geodes
+- Relationships: Neutral/guardian role; responsive to ancient elemental protocols
 
-**Forces of Zuggtmoy**
-- Current goals: Use oozes to "soften the shell" of Blingdenstone so her garden can "take root in the flesh beneath"
-- Recent actions: Corrupted the Festering Fissure with fungal growth; infected Bimble; previously destroyed Neverlight Grove
-- Relationships: Allied with or manipulating the Pudding King; possibly coordinating with Jubilex's forces
-- Key members: Zuggtmoy, the Pudding King
+**Blingdenstone Community / Leadership**
+- Current goals: Reclaim and secure Blingdenstone; obtain Entemoch's boon; counter threats from puddings/oozes and Zuggtmoy's corruption; develop anti-acid armor
+- Recent actions: Greeted party warmly on return; debated priorities regarding Jubilex, the Pudding King, and Zuggtmoy; rallied to defend Daz when Naomi insulted him; celebrated success at White Shell Mine
+- Key members: Chief Dorbo Diggermattock, Grunik Tapfinger, Naomi Pathshutter, Kazook Pickshine, Burrow Warden Jadger (ghost), Dasco Pickshine, Perigrog Scrapedust
+- Relationships: Allied with the party; threatened by puddings/oozes, Jubilex, the Pudding King, and Zuggtmoy's corruption
 
-**Forces of Jubilex**
-- Current goals: Threatening Blingdenstone (details unspecified beyond pudding attacks)
-- Relationships: Connected to the Pudding King; Blingdenstone faces both Jubilex and Zuggtmoy
+**Zuggtmoy / Lady of Rot (faction)**
+- Current goals: Use oozes to "soften the shell" so her garden can "take root in the flesh beneath"; extend her corruption into Blingdenstone
+- Recent actions: Corrupting influence present in the Festering Fissure; voice heard communicating with the Pudding King; previously destroyed Neverlight Grove; previously nearly possessed Thorin
+- Relationships: Allied with the Pudding King; enemies of Blingdenstone and the party; distinct from but concurrent with Jubilex's threat
+
+**Jubilex / The Pudding King**
+- Current goals: Acid attacks on Blingdenstone; threatening destruction of weapons and troops
+- Recent actions: Ongoing acid attacks from puddings; Zuggtmoy separately communicating with the Pudding King
+- Relationships: The Pudding King is in communication with Zuggtmoy; both threaten Blingdenstone
+
+---
 
 ## World Events
 
-- Party defeated deranged earth elementals; white light from ancient menhir created hallowing effect, cleansing the temple of Ogremoch's centuries-old corruption
-- Three Galeb Duhr emerged and acknowledged the party's success; informed them they still need Entemoch's boon
-- Jimjar and Eldeth destroyed Vazuk, a grief-maddened deep gnome ghost threatening Blingdenstone residents
-- Burrow Warden Jadger (ghost) thanked party for putting two tormented spirits to rest in the catacombs and offered two truthful answers as boons (unclaimed)
-- Grunik Tapfinger rewarded party with an empty fourth-level spell gem
-- Naomi Pathshutter reported that hallowing Ogremoch's altar did NOT open the path to Entemoch's boon as expected; tunnels to the stone prince's throne shifted and sealed; earth seemed frozen; miners reported strange vibrations as if rock was trying to speak
-- Kazook Pickshine reported Bimble found Ghost Hold Lichen in the Festering Fissure but returned infected with Zuggtmoy's spores, raving about "the Lady of Rot feeding the soil"
-- Party identified the Festering Fissure location from Bimble's ramblings and physical clues
-- Party explored the Festering Fissure: found breathing walls covered in pulsing white mold, fungi shaped like deep gnome children that seemed to stare, a shambling mound tending a bizarre garden, violet fungi hybrids, and a giant's corpse bearing Ghost Hold Lichen
-- Zalthir teleported in to cut lichen but ruptured a poisonous sac; Daz cast hypnotic pattern catching violet fungi, shambling mound, and accidentally Zalthir
-- Party defeated shambling mound and harvested Ghost Hold Lichen
-- Zuggtmoy's voice echoed in party's minds, speaking to the Pudding King about using oozes to "soften the shell" so her garden could "take root in the flesh beneath"
-- At Pickshine Mine, four Galeb Duhr blocked the path vibrating rhythmically; Daz completed ancient handshake protocol using resonant geodes and humming; Galeb Duhr opened the way
-- Dasco Pickshine rewarded party with two ruby gems worth 500gp
-- At White Shell Mine, party discovered a time-snagged tunnel (impossibly dry, crystallite walls, frozen shadows, suffocating silence); Zalthir used Shadow Monk abilities to redirect a controlled explosion through shadow space, safely breaching the wall
-- Beyond the breached wall, party found a summoning circle with giant runes guarded by two basilisks moving with mechanical precision
-- Thorin deciphered giant runes: freeing Entemoch requires three sacrifices—wealth, a weapon, and blood
-- Thorin placed a dart as the weapon sacrifice; stone swallowed it, rusting it to dust; runes changed from yellow to blinding orange; ritual began
+- The party defeated deranged earth elementals, causing a white light to shine from an ancient menhir and creating a hallowing effect that cleansed the temple of Ogremoch's corruption.
+- Three Galeb Duhr emerged from the menhir and acknowledged the party's success, explaining the corruption had been that of Ogremoch, the evil elemental earth god.
+- The Galeb Duhr directed the party to seek Entemoch's boon, deferring to the deep gnomes of Blingdenstone for his location.
+- The party returned to Diggermattock Hall and was greeted warmly by the community.
+- Grunik Tapfinger rewarded the party with an empty fourth-level spell gem.
+- Jimjar and Eldeth reported having destroyed Vazuk, a deep gnome ghost mad with grief.
+- Burrow Warden Jadger's ghost appeared, thanked the party for putting two tormented spirits to rest, and offered them two truthful answers to any questions as reward, to be claimed at the Ruby and the Rough temple.
+- Chief Dorbo Diggermattock warned about ongoing acid attacks from puddings threatening to destroy weapons and kill troops.
+- Naomi Pathshutter reported that hallowing Ogremoch's altar had not opened the path to Entemoch's boon; tunnels had shifted and sealed, and miners were reporting strange vibrations.
+- Naomi mistook Daz for an ogre; the community rallied to defend him.
+- The party revealed they had defeated four insane earth elementals and a Medusa, earning Naomi's respect.
+- Naomi tasked the party with investigating the strange vibrations and finding the lost path to Entemoch's boon.
+- Kazook Pickshine reported sending his scout Bimble to investigate a legend about a garden of stone in the rock blight; Bimble returned infected and raving about a singing garden and the Lady of Rot feeding the soil.
+- Grygum identified the Lady of Rot as Zuggtmoy, alarming the assembled leaders of Blingdenstone.
+- The party examined Bimble's ramblings, smells, and rock textures to pinpoint the Festering Fissure's exact location.
+- The party traveled to the Festering Fissure and used a bat familiar to scout the cave.
+- The bat discovered a shambling mound tending a bizarre garden containing violet fungi hybrids and a giant's corpse from which Ghost Hold Lichen was growing.
+- Zalthir teleported in to cut the lichen, ruptured a poisonous sac, took significant damage, and alerted the shambling mound.
+- Zalthir recalled his monastic training under The Garden Shadow on how to cut lichen, reflecting that he had dismissed such training.
+- Daz cast a hypnotic pattern that incapacitated the violet fungi and briefly caught Zalthir in its effect; the shambling mound barely resisted.
+- Grygum punched Zalthir (dealing no damage), then stabbed him with a dagger to break him from the hypnotic pattern trance.
+- Zalthir and the shambling mound grappled each other, preventing the mound from engulfing him.
+- Thorin attacked the shambling mound with Dawnbringer multiple times, weakening it and causing it to fight at a disadvantage.
+- Daz unleashed a sculpted fire explosion, avoiding Zalthir and the lichen, which helped bring down the shambling mound.
+- The shambling mound was defeated and the Ghost Hold Lichen was successfully harvested.
+- After the shambling mound's defeat, Zuggtmoy's voice echoed in the party's minds, speaking to the Pudding King about using oozes to soften the shell so her garden could take root in the flesh beneath.
+- The party arrived at Pickshine Mine to find four Galeb Duhr blocking the path, vibrating in an incomplete ancient handshake protocol.
+- Dasco Pickshine had previously failed to move the Galeb Duhr, including striking them with a pickaxe.
+- Daz discovered resonant geodes, arranged them, and hummed to complete the ancient handshake protocol; the Galeb Duhr relaxed and opened the way.
+- Dasco Pickshine grudgingly rewarded the party with two ruby gems worth 500 gold pieces.
+- A geode now acting as a beacon locator led the party deeper into the earth to the White Shell Mine.
+- Perigrog Scrapedust reported an impassable tunnel—impossibly dry, blinding crystallite walls, absolute silence, and shadows appearing painted rather than flickering.
+- Zalthir identified the phenomenon as a time-snag caused by magical pressure, solvable only by a Shadow Monk creating a hole for backed-up reality to pass through.
+- The gnomes provided specialized explosives; Zalthir meditated, received Grygum's blessing, and executed a shadow monk maneuver to redirect the magical blast through shadow space.
+- The wall shattered without collapsing the tunnels; the gnomes celebrated.
+- Beyond the breached wall, the party discovered a large cavern with a summoning circle inscribed in giant runes, guarded by two basilisks moving with mechanical precision.
+- Zalthir engaged one basilisk in close combat while averting his eyes; Daz enchanted the other, freezing it in place.
+- Thorin deciphered the giant runes: freeing Entemoch and claiming his boon requires three sacrifices—wealth, a weapon, and blood.
+- Thorin placed a dart as the weapon sacrifice; the runes instantly rusted it to dust, transformed from yellow to blinding orange, the air grew hot, and the uncharmed basilisk became frantic.
+
+---
 
 ## Locations
 
-**The Ancient Menhir / Temple (Realm of the Rock)**
-- Underground temple in Blingdenstone area
-- Previously corrupted by Ogremoch for centuries
-- Now hallowed after party defeated deranged earth elementals; white light cleansed it
-- Three Galeb Duhr reside there
+**The Temple (hallowed)**
+- What it is: An ancient temple previously corrupted by Ogremoch's power
+- What happened: The party's defeat of deranged earth elementals triggered a white light from an ancient menhir, hallowing the temple and cleansing Ogremoch's corruption; three Galeb Duhr emerged in satisfaction
+- Current state: Cleansed and hallowed; Ogremoch's influence removed
 
-**Diggermattock Hall**
-- Meeting hall in Blingdenstone; crowded
-- Where party was greeted, rewarded, and briefed on new quests
+**Diggermattock Hall / Blingdenstone**
+- What it is: Deep gnome settlement in the Underdark; home of the Diggermattock community
+- What happened: Party returned here after the temple; received rewards and new quests; leaders assembled to discuss the Zuggtmoy threat; tense exchange between Naomi and Daz resolved by community defense
+- Current state: Active community; facing threats from puddings/oozes and Zuggtmoy's corruption
 
-**Ruby and the Rough Temple**
-- Temple in Blingdenstone
-- Where Burrow Warden Jadger's ghost waits to train next generation of Burrow Wardens and where party can claim their two-question boon
+**Ruby and the Rough (temple)**
+- What it is: A temple in or near Blingdenstone
+- What happened: Burrow Warden Jadger stated he would be waiting here, training the next generation of Burrow Wardens
+- Current state: Jadger's ghost resides here; two boon questions await the party
 
-**Kazook Pickshine's Chambers**
-- In Blingdenstone; filled with bubbling beakers and mysterious potions
-- Where Bimble is strapped to a table, infected with Zuggtmoy's spores
+**The Catacombs**
+- What it is: Catacombs in or near Blingdenstone
+- What happened: The party previously put two tormented spirits to rest here; Jadger thanked them for this
+- Current state: Referenced; spirits put to rest
+
+**Kazook's Chambers**
+- What it is: Alchemist's workspace in Blingdenstone, filled with bubbling beakers and mysterious potions
+- What happened: The party found Bimble strapped to a table here, infected and coughing up spores; investigated his condition to pinpoint the Festering Fissure
+- Current state: Bimble remains here, infected
 
 **The Festering Fissure**
-- Located in the rock blight area of Blingdenstone/Underdark
-- Humid, hot, reeking of sweet vegetation rot
-- Walls appear to breathe, covered in pulsing white mold
-- Contains fungi shaped like deep gnome children that seem to watch
-- Contains shambling mound (now destroyed), violet fungi hybrids, giant's corpse bearing Ghost Hold Lichen
-- Corrupted by Zuggtmoy's influence; contains "garden of stone" from legend
+- What it is: A cave in the Underdark near Blingdenstone; unusual for its humidity, heat, and sweet vegetation rot smell; part of the rock blight
+- What happened: Party scouted with bat familiar; discovered shambling mound tending a corrupted garden with violet fungi hybrids and a giant's corpse from which Ghost Hold Lichen grew; fought and defeated the shambling mound; successfully harvested Ghost Hold Lichen; heard Zuggtmoy's voice after the battle
+- Current state: Shambling mound defeated; lichen harvested; corrupting influence of Zuggtmoy lingers in the air; violet fungi remain (charmed during combat, fate unclear)
 
 **Pickshine Mine**
-- Mine owned by Dasco Pickshine in Blingdenstone area
-- Path was blocked by four Galeb Duhr vibrating rhythmically
-- Now opened after Daz completed ancient handshake protocol
-- Contains resonant geodes
+- What it is: A mine in the Underdark; owned by Dasco Pickshine
+- What happened: Four Galeb Duhr were blocking the path, vibrating in an incomplete ancient handshake protocol; Daz completed the protocol with resonant geodes; Galeb Duhr opened the way; Dasco rewarded party with ruby gems
+- Current state: Path opened; Galeb Duhr relaxed
 
 **White Shell Mine**
-- Largest salt mine in the Underdark
-- Managed/associated with Perigrog Scrapedust
-- Contained a time-snagged tunnel: impossibly dry, blinding crystallite walls, absolute silence, shadows appeared painted rather than flickering
-- Wall breached by Zalthir using Shadow Monk abilities and gnome explosives
+- What it is: The largest salt mine in the Underdark
+- What happened: Perigrog Scrapedust reported an impassable tunnel with crystallite walls and time-snagged magical pressure; Zalthir used explosives and a shadow monk maneuver to safely break the wall; beyond the wall was a summoning circle in giant runes guarded by two basilisks; Thorin deciphered the runes and made the first sacrifice (dart/weapon); runes transformed to orange
+- Current state: Breached wall; summoning ritual in progress; two basilisks present (one charmed, one frantic); two sacrifices (wealth and blood) still required
 
-**Summoning Circle Cavern (beyond White Shell Mine)**
-- Large cavern discovered beyond the breached wall
-- Contains summoning circle inscribed with runes in giant script
-- Guarded by two basilisks with mechanical behavior
-- Ritual to free Entemoch requires three sacrifices: wealth, weapon, blood
-- Weapon sacrifice (dart) completed; runes changed yellow to blinding orange
-- Current state: Ritual in progress, two sacrifices remaining
-
-**Neverlight Grove**
-- Previously destroyed by Zuggtmoy (referenced as past event)
+---
 
 ## Threads & Mysteries
 
-- **Entemoch's Boon incomplete**: Two sacrifices remain (wealth and blood) to free Entemoch from the summoning circle; two basilisks still present (one charmed, one frantic)
-- **Zuggtmoy's plan**: She spoke to the Pudding King about using oozes to "soften the shell" so her garden can "take root in the flesh beneath"—what is the full scope of this plan and its timeline?
-- **Dual demon lord threat**: Blingdenstone faces both Jubilex (puddings/oozes) and Zuggtmoy (fungal corruption)—are they coordinating or competing?
-- **Pudding King's location and forces**: Still at large; acid attacks continue threatening Blingdenstone's weapons and troops
-- **Burrow Warden Jadger's two boons**: Party has not yet used their two truthful questions from the ghost at the Ruby and the Rough temple
-- **Fourth-level spell gem**: Party has an empty fourth-level spell gem to imbue; decision made to load healing spell but not yet confirmed as done
-- **Bimble's infection**: Still strapped to table coughing spores; unclear if Ghost Hold Lichen harvest will help cure him
-- **Ghost Hold Lichen purpose**: Needed for alchemical preparations (anti-acid armor); harvested successfully—still needs to be processed by Kazook
-- **Strange vibrations in rock**: Miners reporting vibrations as if rock trying to speak but can't; tunnels to Entemoch's throne shifted and sealed; earth seems "frozen, unable to heal"
-- **Mushroom children in Festering Fissure**: Fungi grown into shapes resembling deep gnome children that seem to watch—what are they and who were they?
-- **The basilisks' mechanical behavior**: Guarding summoning circle with unnatural precision, viewing party as "flaws in perfect stone"—who placed them there and why?
-- **Who created the summoning circle?**: Inscribed in giant script—connection to giants and potentially to Thorin's background?
-- **Anti-acid armor**: Ghost Hold Lichen was needed for this; still needs to be crafted to protect against pudding acid attacks
+- **Entemoch's boon ritual**: The summoning circle requires three sacrifices—wealth, a weapon, and blood. The weapon sacrifice (dart) has been made. Wealth and blood sacrifices are still needed. The ritual is active and the uncharmed basilisk is growing frantic.
+- **Two basilisks in the summoning chamber**: One is charmed by Daz; one is uncharmed and frantic. Combat is ongoing or imminent.
+- **Zuggtmoy's plan**: Her voice revealed she intends to use oozes to "soften the shell" so her garden can "take root in the flesh beneath." The exact targets and timeline are unknown.
+- **The Pudding King and Zuggtmoy's alliance**: Zuggtmoy was heard communicating directly with the Pudding King. The nature and depth of their alliance is unresolved.
+- **Ghost Hold Lichen and Kazook's alchemical preparations**: The lichen has been harvested. What Kazook intends to make with it (anti-acid armor preparations) and whether Bimble can be cured remain open.
+- **Bimble's infection**: Bimble remains strapped to a table, infected with Zuggtmoy's spores. No cure has been found or applied.
+- **Two boons from Burrow Warden Jadger**: The party has not yet claimed their two truthful answers. Jadger waits at the Ruby and the Rough temple.
+- **Strange vibrations in the rock**: Miners reported vibrations as if rock was trying to speak but couldn't find the words. The source and meaning have not been fully resolved, though the path to Entemoch appears to be the related quest.
+- **The path to Entemoch's throne**: Tunnels shifted and sealed after Ogremoch's altar was hallowed. The party is now approaching via the summoning circle route. Whether this is the correct path is implied but not confirmed.
+- **Acid attacks on Blingdenstone**: Chief Dorbo Diggermattock warned that acid attacks from puddings could destroy weapons and kill troops. This threat is ongoing and unresolved.
+- **The Garden of Stone / rock blight**: Bimble found Ghost Hold Lichen in the Festering Fissure, which was part of the rock blight. The full extent of Zuggtmoy's corruption in the rock blight is unknown.
+- **The Garden Shadow**: Zalthir's ancient monk trainer, who taught him lichen-harvesting and predicted the training would be useful. The Garden Shadow's current status, location, and further relevance to the campaign are unknown.
+- **The giant's corpse in the Festering Fissure**: A giant's corpse was the host for the Ghost Hold Lichen. The origin of this giant and how it came to be in the Festering Fissure are unexplained.
+- **Rezolver for Daz's insult**: The community defended Daz against Naomi's mistake, but the long-term relationship between Naomi and the party (and Daz specifically) is unresolved.
+- **Resonant geodes as beacon locator**: A geode now acts as a beacon locator leading deeper into the earth. Its full capabilities and ultimate destination beyond the White Shell Mine are not yet known.

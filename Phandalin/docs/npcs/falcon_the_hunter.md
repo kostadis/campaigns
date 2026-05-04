@@ -3,14 +3,14 @@ name: Falcon the Hunter
 aliases:
   - The Falcon
   - Falcon
-source_extracts: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38]
+source_extracts: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39]
 ---
 
 # Falcon the Hunter
 
 ## Identity
-- **Role:** Proprietor of the Falcon Hunting Lodge; retired adventurer; self-described interventionist (opposes planar incursions); scout and consultant for a Neverwinter mining consortium
-- **Faction:** Loosely aligned with Emerald Enclave philosophy, though he distinguishes himself from naturalists
+- **Role:** Proprietor of the Falcon Hunting Lodge (now destroyed); retired adventurer; self-described interventionist (opposes planar incursions); scout and consultant for a Neverwinter mining consortium
+- **Faction:** Loosely aligned with Emerald Enclave philosophy, though he distinguishes himself from naturalists; briefly aligned with Adabra's anti-interventionist position before reconsidering
 - **Physical Description:** Has impressive mutton chops
 - **First Appearance:** Party arrived at his fortified lodge in Neverwinter Wood (a compound surrounded by a ten-foot-high log palisade), referred to him by Barthen
 - *Also known as: The Falcon, Falcon.*
@@ -27,6 +27,9 @@ source_extracts: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18,
 - Pragmatic and generous within his means; unable to offer coin but willing to trade equity and lodging
 - An entrepreneur and dealmaker, quick to offer incentives rather than ask for help outright; willing to let others do the dangerous work while he takes the credit or reward
 - Holds the philosophy that there are only young adventurers and old retired ones
+- Vulnerable to manipulation when exhausted and guilt-ridden; briefly allowed Adabra to "put a collar on his guilt and call it philosophy," mistaking exhaustion for judgment
+- Capable of genuine self-reflection and tearful confession when confronted with his contradictions; his public vulnerability can paradoxically make him more sympathetic to others
+- Recognizes when he lacks the language or skill to properly apologize; willing to seek mediation and make substantive gestures rather than empty words
 
 ## History with the Party
 
@@ -46,27 +49,38 @@ Falcon greeted the returning party with surprise and pleasure, expressing partic
 **Triboar Trail Encounter — Lodge Lost**
 The party found Falcon on the Triboar Trail while traveling to Dragonbarrow, visibly distraught after orcs and ogres allied with the **Anchorites of Talos** drove him out of his lodge — the Anchorites attempting to muscle everyone out of Neverwinter Wood. He expressed frustration that the party had never cleared the Woodland Manse, noting that the Manse had driven them away with fireballs and lightning, and implying the unresolved threat there emboldened the attackers. He pitched a business arrangement to Vukradin: a particular type of rare wood suitable for his music studio in exchange for reclaiming the lodge, with a longer-term proposal to convert the Falcon Lodge into a performance venue headlined by Vukradin and Valphine (also spelled Valfine), complete with ale service — arguing it would raise rents and draw crowds. He departed for Phandalin to settle debts and plan his next move, unwilling to return to the lodge himself.
 
+**Druid Council — Adabra's Influence and Public Confession**
+Falcon attended the druid council sitting beside Adabra, aligned with her anti-interventionist position. He had been recruited to her cause and was described as someone who had opinions about how balance should be kept and who should keep it. During the council, Falcon stood and publicly attacked Vukradin: "She's right! She's right about what needed to happen. You all wanted it simple. Well, this is what simple looks like. Trees are dead because of men like *him.*" When Vukradin pulled him aside to ask why, Falcon said: "You intervened, and in your intervention, people died. Adabra sees it clearly." When Vukradin pointed out Falcon's own history of intervention, Falcon replied: "And look what it got me." He then stated: "Ever since I spoke to Adabra, I have learned the error of my ways."
+
+When Vukradin challenged him to confess his own history of intervention to the council, Falcon complied with what amounted to a genuine, tearful confession. He told the council about his adventuring days, the dragons he had failed to fight, and the lodge that burned. He referenced the party's failure to protect Falcon Lodge: "Once again, nature tore it down. Once again, the Falcon Lodge was burnt. Once again, I asked heroes to intervene, to protect my lodge, and what did they do? They did nothing, and my lodge burned down." This confession paradoxically made him more sympathetic to the council rather than less. The presiding druid noted that Falcon "depends on money that these interventionists saved him, and he needs them to save him," undermining his anti-interventionist stance.
+
+After the council's verdict, Valphine approached Falcon and engaged him in a private conversation. She recognized him as a skilled man warped by Adabra's influence rather than ruined — someone who had mistaken exhaustion for judgment and allowed Adabra to put a collar on his guilt and call it philosophy. She shared her own story of becoming a drow cleric of Lathander, offering him a different framework for understanding pain and guilt. Falcon responded to Valphine's counsel with a shift in perspective: "I don't even know why I ever supported Adabra. We need to go deal with those orcs. I probably owe the bard an apology." He asked Valphine to mediate a future conversation with Vukradin, admitting he lacked the language to apologize properly. Valphine advised a substantive gesture — a valuable musical instrument or a studio space at Falcon's retreat — rather than mere words.
+
 ## Current Status
-- **Last Known Location:** En route to / arrived in Phandalin (driven from his lodge by Talos-allied forces)
-- **Active Plans:** Settling unspecified debts in Phandalin; monitoring whether the party will reclaim his lodge; hopes to reinvent the lodge as a performance venue if reclaimed
+- **Last Known Location:** At or near the druid council (location of council meeting)
+- **Active Plans:** Dealing with the orcs (recommitted to interventionist stance); planning an apology to Vukradin mediated by Valphine, likely involving a substantive gesture such as a valuable musical instrument or studio space; settling unspecified debts in Phandalin; monitoring whether the party will reclaim his lodge; hopes to reinvent the lodge as a performance venue if reclaimed
 - **Outstanding Jobs for the Party:** Reclaim the Falcon Hunting Lodge from Anchorites of Talos; resolve the poisoning of Mountain Toe's Goldmine waters; clear the Woodland Manse (never completed)
-- **What the Party Knows:** The full truth — he is not a dragonslayer; he is a survivor of Iymrith's hoard and the brass ring connects him to her; Vukradin has documentation of the ring; his consortium stake and financial situation; he lost the lodge to Talos-allied forces and has offered Vukradin a material incentive to reclaim it
+- **What the Party Knows:** The full truth — he is not a dragonslayer; he is a survivor of Iymrith's hoard and the brass ring connects him to her; Vukradin has documentation of the ring; his consortium stake and financial situation; he lost the lodge to Talos-allied forces and has offered Vukradin a material incentive to reclaim it; his public confession to the druid council about his adventuring failures; his brief alignment with Adabra's anti-interventionist philosophy and subsequent rejection of it
 - **What Remains Hidden (from Falcon):** That Vukradin was the one who broke into his drawer, not the Cult of Talos; the party's true interest in the ring's connection to Iymrith
-- **What Remains Hidden (from Party):** The nature of his debts in Phandalin; details of the Neverwinter consortium's other members or interests; full scope of the mine's value or the poisoning's cause; whether his performance venue pitch is genuine or a way to offload risk
+- **What Remains Hidden (from Party):** The nature of his debts in Phandalin; details of the Neverwinter consortium's other members or interests; full scope of the mine's value or the poisoning's cause; whether his performance venue pitch is genuine or a way to offload risk; the full details of his relationship with the wearer of the wooden elven ears ("my dearly beloved")
 
 ## Relationships
 - **Barthen:** Old contact; Barthen's vouching for the party secured them hospitality at the lodge
 - **Iymrith (blue dragon):** Sole survivor of an encounter with her; possesses an artifact from her hoard (the brass ring); tangentially linked to the broader regional threat; the ring's connection to Iymrith and lightning links him to broader threats in the region
 - **Cult of Talos / Anchorites of Talos:** Believes the cult tried to steal the brass ring as an offering to their god (fabricated by Vukradin's misdirection); the Anchorites and their orc-ogre allies later seized his lodge, attempting to muscle everyone out of Neverwinter Wood
-- **Vukradin:** Complex relationship — close personal friend whose safety Falcon genuinely cares about, but also the source of significant tension; Vukradin accused him of theft, broke into his room, extracted his secret, and was given permission to document the ring; Falcon does not know Vukradin was the intruder; later, primary target of his business pitch for the lodge (offering wood for Vukradin's music studio)
-- **Valphine / Valfine:** Named as a potential headliner in his performance venue proposal
+- **Vukradin:** Complex relationship — close personal friend whose safety Falcon genuinely cares about, but also the source of significant tension; Vukradin accused him of theft, broke into his room, extracted his secret, and was given permission to document the ring; Falcon does not know Vukradin was the intruder; later, primary target of his business pitch for the lodge (offering wood for Vukradin's music studio); publicly attacked Vukradin at the druid council, blaming him for deaths caused by intervention; later recognized he owes Vukradin an apology and is planning to make amends through Valphine's mediation
+- **Valphine / Valfine:** Named as a potential headliner in his performance venue proposal; counseled him after the druid council, helping him recognize Adabra's manipulation and his own exhaustion-driven errors; he trusts her to mediate his apology to Vukradin; she sees him as a skilled man warped rather than ruined
+- **Adabra:** Recruited him to her anti-interventionist cause; he briefly became aligned with her philosophy, allowing her to manipulate his guilt and exhaustion; after Valphine's counsel, he rejected her influence and no longer understands why he ever supported her
 - **Brewbarry:** Cordial; arranged wine delivery as part of the party's dealings
 - **Neverwinter Mining Consortium:** Business partners; Falcon's role was consulting and scouting in exchange for a discounted share of Mountain Toe's Goldmine
 - **Mountain Toe's Goldmine:** Central financial concern; poisoned waters are an active threat to his investment
-- **The Woodland Manse Half-Orcs:** Has identified them as a regional threat; offered a quest to clear them; later blamed the party's failure to do so for emboldening the Talos attack on his lodge; noted the Manse had driven attackers away with fireballs and lightning
-- **The Party (general):** Respectful and impressed by their capabilities; relationship has shifted from warm host to transactional dealmaker as his circumstances have deteriorated
+- **The Woodland Manse Half-Orcs:** Has identified them as a regional threat; offered a quest to clear them; later blamed the party's failure to do so for emboldening the Talos attack on his lodge; noted the Manse had driven attackers away with fireballs and lightning; recommitted to dealing with them after rejecting Adabra's philosophy
+- **The Party (general):** Respectful and impressed by their capabilities; relationship has shifted from warm host to transactional dealmaker as his circumstances have deteriorated; publicly blamed them for failing to protect his lodge at the druid council, though this was during his brief anti-interventionist phase
 
 ## Arc Score Events
 - **Decrease** — Vukradin publicly accused him of stealing from dragon victims; Falcon demanded and received an apology *(arc tension with Vukradin)*
 - **Decrease** — Falcon's dragonslayer reputation was exposed as a lie by Vukradin's unauthorized search of his private quarters
 - **Partial Recovery** — Falcon chose to confess voluntarily (framing it as cornered candor) and granted Vukradin permission to document the ring, preserving some dignity
+- **Decrease** — Falcon publicly attacked Vukradin at the druid council, blaming him and other interventionists for deaths and the destruction of his lodge *(severe arc tension with Vukradin)*
+- **Increase** — Falcon made a genuine, tearful public confession to the druid council about his adventuring failures, paradoxically increasing sympathy for him among the druids
+- **Recovery** — Valphine counseled Falcon after the council, helping him recognize Adabra's manipulation; Falcon rejected anti-interventionist philosophy, recommitted to dealing with orcs, and recognized he owes Vukradin an apology, planning a substantive gesture of amends

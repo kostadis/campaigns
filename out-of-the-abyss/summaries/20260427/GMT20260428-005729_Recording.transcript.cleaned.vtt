@@ -1,0 +1,5122 @@
+WEBVTT
+
+1
+00:01:37.280 --> 00:01:38.830
+Ben Pfaff: Oh, hello.
+
+2
+00:01:40.490 --> 00:01:42.179
+Thorin (Joe): Hello, how are you?
+
+3
+00:01:42.180 --> 00:01:44.839
+Ben Pfaff: I'm… I'm well, I'm well.
+
+4
+00:01:46.330 --> 00:01:47.960
+Thorin (Joe): Cool, cool, cool.
+
+5
+00:01:52.360 --> 00:01:59.849
+Ben Pfaff: And yourself, have you rethought the idea of getting a job? I believe you brought that up a while back.
+
+6
+00:02:00.460 --> 00:02:01.989
+Thorin (Joe): It's too late.
+
+7
+00:02:03.840 --> 00:02:07.990
+Ben Pfaff: I thought one of us had finally escaped, and there you are, going back into it.
+
+8
+00:02:07.990 --> 00:02:13.140
+Thorin (Joe): They pulled me back… pulled me back in, so yeah, it's been a couple of weeks now. I'm doing okay with it. It's,
+
+9
+00:02:15.640 --> 00:02:17.840
+Thorin (Joe): It's not bad, it's just, you know…
+
+10
+00:02:17.840 --> 00:02:18.660
+Ben Pfaff: It's still…
+
+11
+00:02:18.660 --> 00:02:22.540
+Thorin (Joe): a job, right? It's like, it's good, I like having something to do.
+
+12
+00:02:25.170 --> 00:02:28.880
+Thorin (Joe): But… it also involves having a job.
+
+13
+00:02:29.460 --> 00:02:33.100
+Ben Pfaff: Oh, it must be 6.
+
+14
+00:02:53.990 --> 00:02:58.160
+Thorin (Joe): Yeah, no, so the… a lot of the team is in Europe, we're on the East Coast.
+
+15
+00:02:58.510 --> 00:03:00.069
+Thorin (Joe): mostly Europe, and so…
+
+16
+00:03:00.070 --> 00:03:01.410
+Ben Pfaff: That's a normal thing.
+
+17
+00:03:02.950 --> 00:03:09.850
+Thorin (Joe): Well, yeah, except for the fact that, like, that means that I have all these meetings that are at some ungodly hour in the morning.
+
+18
+00:03:10.660 --> 00:03:11.940
+Ben Pfaff: Oh, alright.
+
+19
+00:03:12.460 --> 00:03:17.270
+Ben Pfaff: They, they expect you to be up at 6, or worse.
+
+20
+00:03:17.490 --> 00:03:19.399
+Thorin (Joe): I mean… yeah.
+
+21
+00:03:20.010 --> 00:03:24.480
+Thorin (Joe): It's not, I mean, so… It's more like…
+
+22
+00:03:26.170 --> 00:03:32.659
+Thorin (Joe): you know, nobody expects me to, but also, it would be weird if I didn't, because I'm, like, CTO.
+
+23
+00:03:33.090 --> 00:03:35.829
+Thorin (Joe): So… I don't know.
+
+24
+00:03:38.390 --> 00:03:40.530
+Thorin (Joe): But I'm trying to, like… I'm trying to, like…
+
+25
+00:03:41.150 --> 00:03:46.729
+Thorin (Joe): make my role be, like, I get to do a bunch of stuff, but nobody holds me accountable for anything?
+
+26
+00:03:46.730 --> 00:03:48.280
+Ben Pfaff: Oh, well, that sounds great.
+
+27
+00:03:48.540 --> 00:03:58.370
+Thorin (Joe): Well, but, I mean, the truth of the matter is, part of my role is that I get pulled in a gazillion different directions, so if I… you put me on critical path for anything, there's a good chance, like, something's gonna come up and I won't be able to do it, so…
+
+28
+00:04:00.200 --> 00:04:02.489
+Thorin (Joe): I don't know. That's my excuse, at least.
+
+29
+00:04:05.100 --> 00:04:06.389
+Mike Hall: That's always a problem.
+
+30
+00:04:07.850 --> 00:04:11.949
+Thorin (Joe): But I did get a PR submitted today, so, you know, there's that.
+
+31
+00:04:12.190 --> 00:04:12.950
+Ben Pfaff: Oh.
+
+32
+00:04:16.450 --> 00:04:17.339
+Mike Hall: That's cool.
+
+33
+00:04:19.240 --> 00:04:20.190
+Mike Hall: You're good.
+
+34
+00:04:22.350 --> 00:04:23.350
+Gabe: Look.
+
+35
+00:04:23.450 --> 00:04:26.299
+Ben Pfaff: homework before our vacation. What is this?
+
+36
+00:04:32.530 --> 00:04:36.049
+Thorin (Joe): So, Gabe, do you actually use the gym equipment, or is it just a really cool background?
+
+37
+00:04:37.000 --> 00:04:38.680
+Gabe: Every day, I mean, and…
+
+38
+00:04:38.680 --> 00:04:45.540
+Thorin (Joe): Yeah. Do you… is it while you're on video? Do you, like, you know, do you, like, you know, video yourself and, like, you know…
+
+39
+00:04:45.540 --> 00:04:46.159
+Mike Hall: You haven't seen it?
+
+40
+00:04:46.610 --> 00:04:46.960
+Mike Hall: They're.
+
+41
+00:04:46.960 --> 00:04:52.589
+Thorin (Joe): It turns out he just, like, streams for hours a day, just getting ripped.
+
+42
+00:04:52.590 --> 00:04:58.390
+Gabe: Yeah, there's this whole Agentic workflow, it does analysis, feedback… Totally, yeah.
+
+43
+00:04:58.690 --> 00:05:00.500
+Thorin (Joe): So, here's my theory, is that…
+
+44
+00:05:01.440 --> 00:05:09.150
+Thorin (Joe): you start doing the, you know, the AI coding stuff, right? And you could have, like, 4 different versions of Claude going at the same time.
+
+45
+00:05:09.400 --> 00:05:12.230
+Thorin (Joe): Or, you could watch a TV show.
+
+46
+00:05:13.880 --> 00:05:23.390
+Thorin (Joe): And I'm just saying that it used to be that, like, working needed your full attention. Now you can watch a TV show while you're working. Now, I haven't done this, but I'm tempted to try it.
+
+47
+00:05:23.720 --> 00:05:29.830
+Mike Hall: I mean, I remember back in the day when even an incremental compile might take 15 minutes to link.
+
+48
+00:05:29.980 --> 00:05:35.869
+Mike Hall: And you could go get a coffee, maybe go talk to some friends in the break room who were also waiting on a compile.
+
+49
+00:05:37.230 --> 00:05:50.349
+Thorin (Joe): When I first started working on Internet Explorer, I think a full, clean build of the IE codebase took about 8 hours. And so, like, if you were changing header files, you're like, well, there goes my day, right? You would, like, strategize.
+
+50
+00:05:50.350 --> 00:05:51.699
+Mike Hall: Time to go home.
+
+51
+00:05:51.700 --> 00:05:53.740
+Thorin (Joe): Do it and go home, right?
+
+52
+00:05:53.740 --> 00:06:03.490
+Ben Pfaff: Well, my first couple of years at VMware, at least once a day, the file servers would go down, and we'd all just sort of mill around and talk to each other.
+
+53
+00:06:03.490 --> 00:06:05.630
+Thorin (Joe): GitHub going down, so, you know, you got that going.
+
+54
+00:06:06.360 --> 00:06:13.019
+Mike Hall: GitHub, never… it'll never go down, it's got 5 nines. You just have to go out, like, 12 decimal places.
+
+55
+00:06:13.020 --> 00:06:16.469
+Thorin (Joe): The pie has five nines, too, somewhere.
+
+56
+00:06:16.470 --> 00:06:17.910
+Ben Pfaff: It has plenty of aids.
+
+57
+00:06:19.630 --> 00:06:21.940
+Kostadis Roussos: Well, give me one second, guys, I need to set up my video.
+
+58
+00:06:22.200 --> 00:06:23.430
+Mike Hall: Yeah, no worries, Kostadis.
+
+59
+00:06:23.430 --> 00:06:33.290
+Thorin (Joe): Okay, so, does pi have an infinite number of sequential 9s in it somewhere if you go far enough? Like, how does the, sort of, the infinity work? Is there infinity within the infinity?
+
+60
+00:06:33.520 --> 00:06:37.569
+Thorin (Joe): Can I say, like, by that definition, pi has an infinite number of nines?
+
+61
+00:06:37.570 --> 00:06:43.210
+Mike Hall: There is… there is, like, an entire class of numerics and math around.
+
+62
+00:06:43.210 --> 00:06:45.449
+Thorin (Joe): answer these exact questions, yes.
+
+63
+00:06:45.450 --> 00:06:47.480
+Mike Hall: The theory for this type of stuff.
+
+64
+00:06:47.550 --> 00:06:48.170
+Thorin (Joe): Yeah.
+
+65
+00:06:48.170 --> 00:06:50.400
+Mike Hall: And the short answer is, I don't know.
+
+66
+00:06:50.400 --> 00:06:54.230
+Thorin (Joe): Well, my understanding is there's, like, different levels of infinity, right?
+
+67
+00:06:54.230 --> 00:06:55.720
+Ben Pfaff: There are, yeah, yeah, yeah.
+
+68
+00:06:56.240 --> 00:06:57.049
+Mike Hall: There's, like, an…
+
+69
+00:06:57.050 --> 00:07:00.050
+Thorin (Joe): Low infinity and fast infinity, I don't fucking know, right?
+
+70
+00:07:00.050 --> 00:07:10.179
+Ben Pfaff: I think that the number of, the number of natural numbers is the smallest infinity, something like that? Aleph null.
+
+71
+00:07:11.210 --> 00:07:15.609
+Ben Pfaff: And at that point, you've… I've exhausted what I know.
+
+72
+00:07:15.610 --> 00:07:20.800
+Thorin (Joe): So you can't answer my question, it's like, can we say that pi has an infinite number of 9s in it?
+
+73
+00:07:20.800 --> 00:07:23.079
+Ben Pfaff: Oh, sure, we can say that, I say that right now.
+
+74
+00:07:23.680 --> 00:07:25.180
+Mike Hall: I certainly can't prove it.
+
+75
+00:07:26.980 --> 00:07:27.640
+Gabe: At all.
+
+76
+00:07:27.640 --> 00:07:28.630
+Ben Pfaff: that either.
+
+77
+00:07:29.640 --> 00:07:31.470
+Gabe: Adolo's sequential.
+
+78
+00:07:31.790 --> 00:07:32.750
+Thorin (Joe): Sequential.
+
+79
+00:07:33.080 --> 00:07:36.370
+Gabe: Sequential infinite number. I mean, hmm, why…
+
+80
+00:07:36.370 --> 00:07:44.589
+Ben Pfaff: No, no, if there was a sequential infinite number of nines, then it would all round up to zero, and it would no longer be infinite.
+
+81
+00:07:44.590 --> 00:07:45.310
+Mike Hall: Right.
+
+82
+00:07:45.310 --> 00:07:45.710
+Ben Pfaff: And so…
+
+83
+00:07:45.710 --> 00:07:49.559
+Mike Hall: Yeah, it wouldn't be an irrational, like.
+
+84
+00:07:49.560 --> 00:07:50.950
+Thorin (Joe): What would be up to that point?
+
+85
+00:07:50.950 --> 00:07:51.939
+Ben Pfaff: It would have to be…
+
+86
+00:07:51.940 --> 00:07:54.899
+Thorin (Joe): If they pass that infinity, it actually gets random again.
+
+87
+00:07:54.900 --> 00:07:57.510
+Ben Pfaff: If it, okay.
+
+88
+00:07:57.510 --> 00:07:58.139
+Thorin (Joe): But I am.
+
+89
+00:07:58.140 --> 00:07:59.310
+Ben Pfaff: It would have to be at the end.
+
+90
+00:07:59.310 --> 00:08:02.059
+Thorin (Joe): 5, 9, somewhere in pi, right?
+
+91
+00:08:02.060 --> 00:08:05.320
+Mike Hall: Have you seen the movie Contact?
+
+92
+00:08:05.320 --> 00:08:06.730
+Thorin (Joe): Okay.
+
+93
+00:08:06.730 --> 00:08:07.549
+Ben Pfaff: Have you been to…
+
+94
+00:08:07.550 --> 00:08:11.330
+Thorin (Joe): But let's do a little proof here. So there's 5 nines, are there 6 nines?
+
+95
+00:08:11.810 --> 00:08:12.720
+Ben Pfaff: Yes, have you been…
+
+96
+00:08:12.720 --> 00:08:13.750
+Thorin (Joe): Another seven?
+
+97
+00:08:13.750 --> 00:08:15.070
+Ben Pfaff: Have you been to the Exploratorium?
+
+98
+00:08:17.770 --> 00:08:26.759
+Ben Pfaff: Have you been to the Exploratorium? They've got a printout on the wall of something like a million, or 10 million, or some large number of digits of pi, and they have a computer.
+
+99
+00:08:26.760 --> 00:08:27.260
+Thorin (Joe): number.
+
+100
+00:08:27.260 --> 00:08:34.210
+Ben Pfaff: No, no, they have a computer where you can go up to it and type in whatever you're looking for in it, and it will tell you where to go look in the sequence.
+
+101
+00:08:34.850 --> 00:08:35.570
+Thorin (Joe): Okay.
+
+102
+00:08:35.760 --> 00:08:37.289
+Ben Pfaff: And you can… then you can go…
+
+103
+00:08:37.299 --> 00:08:38.809
+Thorin (Joe): About 100,000 nines in a row.
+
+104
+00:08:39.289 --> 00:08:42.459
+Gabe: Just go there, Joe, hold down 9 on the keyboard for a while.
+
+105
+00:08:44.370 --> 00:08:49.180
+Mike Hall: Get there when they open, and then right when they close, let go of the 9 and hit search.
+
+106
+00:08:49.180 --> 00:08:52.499
+Thorin (Joe): I'll be back tomorrow, it's, like, compiling IE.
+
+107
+00:08:56.500 --> 00:09:05.289
+Thorin (Joe): Yeah, next time the joke comes up of, like, well, there's five nines, you just have to, like, you know, change where they are, right? I'm gonna be like, well, Pi has five nines.
+
+108
+00:09:05.290 --> 00:09:06.280
+Mike Hall: at least.
+
+109
+00:09:10.300 --> 00:09:14.669
+Ben Pfaff: So, that, the Kostadis is mellow?
+
+110
+00:09:14.670 --> 00:09:17.170
+Kostadis Roussos: There's a…
+
+111
+00:09:17.930 --> 00:09:18.380
+Thorin (Joe): Whoa!
+
+112
+00:09:18.380 --> 00:09:18.710
+Ben Pfaff: Oh, no.
+
+113
+00:09:18.710 --> 00:09:21.000
+Thorin (Joe): Saturday, Saturday, Sunday.
+
+114
+00:09:21.210 --> 00:09:22.089
+Mike Hall: So there's Sunday.
+
+115
+00:09:22.090 --> 00:09:25.920
+Thorin (Joe): Pay for the whole seat, but you'll only use the edge.
+
+116
+00:09:26.970 --> 00:09:29.359
+Thorin (Joe): get the echo. Oh, the echo's gone. I was gonna do it.
+
+117
+00:09:29.700 --> 00:09:36.159
+Kostadis Roussos: Sorry, sorry, there was a technical snack fu with my camera. I don't know what the issue is, but it was…
+
+118
+00:09:36.160 --> 00:09:37.760
+Thorin (Joe): I mean, it's obviously USB.
+
+119
+00:09:37.760 --> 00:09:39.730
+Mike Hall: I was gonna say, I know what the issue is.
+
+120
+00:09:39.730 --> 00:09:50.779
+Kostadis Roussos: I mean, yeah, I didn't want to say it, because I know that some people might think that I'm, like, projecting my own failures onto it, that, you know, I'm denying accountability, but it was the USB port!
+
+121
+00:09:50.780 --> 00:09:51.619
+Mike Hall: You, you do.
+
+122
+00:09:51.620 --> 00:09:53.840
+Ben Pfaff: It'll appear twice in, on the screen here.
+
+123
+00:09:53.840 --> 00:09:54.749
+Kostadis Roussos: Yeah, I know, unfortunately.
+
+124
+00:09:54.750 --> 00:10:08.160
+Mike Hall: I actually… this would be a good crowd to ask. My gaming PC is Windows, and occasionally, in my event viewer, I get this, like, recoverable PCIe error.
+
+125
+00:10:08.520 --> 00:10:22.880
+Mike Hall: going to the vendor ID of my NVIDIA video card. Sometimes it's the subdevice for the audio, sometimes it's the actual video frame buffer, and then my machine has started rebooting spuriously for, like, the last month and a half.
+
+126
+00:10:22.880 --> 00:10:37.979
+Thorin (Joe): So, I used to say that video drivers are awful because it's like a million lines of code written, you know, in God knows where, and not well tested, right? But now it's worse because it's a million plus lines of code written by AI in God knows where, and apparently.
+
+127
+00:10:38.670 --> 00:10:44.420
+Ben Pfaff: Honestly, I would receipt all the cards, and make sure the fans were all working well, and things like that.
+
+128
+00:10:44.600 --> 00:10:55.429
+Mike Hall: Yeah, I'll give that a shot, but I'm, like, at the point where, like, if I buy a new one, is it just gonna happen on… if I buy, like, a whole new… the system's, like, 4 years old, it's about time for an upgrade anyway, but…
+
+129
+00:10:55.650 --> 00:10:56.549
+Mike Hall: I don't know.
+
+130
+00:10:56.780 --> 00:11:00.959
+Thorin (Joe): Will windows rot and eventually start crashing for unknown reasons? Yes.
+
+131
+00:11:00.960 --> 00:11:01.400
+Mike Hall: Yes.
+
+132
+00:11:01.400 --> 00:11:03.969
+Thorin (Joe): Just like pi has five nines.
+
+133
+00:11:04.950 --> 00:11:07.320
+Mike Hall: Wait, I have a question.
+
+134
+00:11:07.320 --> 00:11:14.890
+Kostadis Roussos: Hold on, I actually can answer this question more definitively. Is this a Dell-assembled machine, or is this something you bought with parts?
+
+135
+00:11:15.250 --> 00:11:26.170
+Mike Hall: This is a HP, HP machine that is fully assembled, pre-built, because at the time that I was trying to get video cards, you couldn't buy a video card.
+
+136
+00:11:26.170 --> 00:11:33.719
+Kostadis Roussos: Okay, so, alright, so in that, in that case, in that case, I think the answer is it's probably… I would do a clean image reboot.
+
+137
+00:11:34.630 --> 00:11:43.049
+Kostadis Roussos: Right? Just reinstall the whole system software, and do… and if you… if this machine has moved around or whatnot, I would also take a look and do the…
+
+138
+00:11:43.050 --> 00:11:44.080
+Mike Hall: Explain yourself.
+
+139
+00:11:44.080 --> 00:11:55.289
+Kostadis Roussos: Yep. If neither of those things work, I would give up. If it's an HP… so the thing is that I learned is that HP and Dell get the good parts, and the parts you buy on the rack are the bad parts.
+
+140
+00:11:56.200 --> 00:12:00.159
+Thorin (Joe): Well, and also HP and Dell won't push anything, they don't overclock shit, right?
+
+141
+00:12:00.160 --> 00:12:00.780
+Mike Hall: Right.
+
+142
+00:12:00.940 --> 00:12:05.090
+Kostadis Roussos: Yeah, no, but I'm saying, like, even if you don't overclock it, you got the bad parts.
+
+143
+00:12:05.640 --> 00:12:08.640
+Mike Hall: It's an HP Omen 30L.
+
+144
+00:12:08.640 --> 00:12:09.620
+Thorin (Joe): Oh, man. I love it.
+
+145
+00:12:09.620 --> 00:12:10.690
+Ben Pfaff: That's a terrible…
+
+146
+00:12:10.690 --> 00:12:12.460
+Thorin (Joe): I mean, like, we're trying to be cool.
+
+147
+00:12:12.770 --> 00:12:15.510
+Mike Hall: Yeah, that's them… that's their edgy…
+
+148
+00:12:15.930 --> 00:12:20.230
+Mike Hall: Here, I'll send you guys… I'll send you guys the link in case anybody wants to see it.
+
+149
+00:12:20.230 --> 00:12:20.980
+Ben Pfaff: I once had a…
+
+150
+00:12:20.980 --> 00:12:26.239
+Thorin (Joe): Kostadis just told you to go through all the trouble of the pain in the ass of getting a new machine without actually anything.
+
+151
+00:12:26.240 --> 00:12:27.360
+Mike Hall: Without actually getting…
+
+152
+00:12:27.360 --> 00:12:32.060
+Kostadis Roussos: No, no, no, no, no, no. He asked me what I could do. He didn't ask me what I should do.
+
+153
+00:12:32.060 --> 00:12:33.090
+Thorin (Joe): Oh, okay, gotcha.
+
+154
+00:12:33.770 --> 00:12:34.700
+Mike Hall: I didn't…
+
+155
+00:12:34.700 --> 00:12:35.030
+Kostadis Roussos: Dude!
+
+156
+00:12:35.030 --> 00:12:35.490
+Mike Hall: Kentucky.
+
+157
+00:12:35.490 --> 00:12:42.289
+Kostadis Roussos: You're at the point where it is legitimate for you to buy a new piece of hardware, and you are choosing not to.
+
+158
+00:12:44.610 --> 00:12:50.640
+Kostadis Roussos: Like, at this, at this, at this group table, I only have to say with, do as Jill would do.
+
+159
+00:12:51.400 --> 00:12:59.309
+Thorin (Joe): Well, so what Joe wants to do is get a new server for the server rack and build my own sort of NAS, little, like, I don't know if I'm gonna run…
+
+160
+00:12:59.310 --> 00:13:00.989
+Kostadis Roussos: Like I said, like I said, do what Joe would do.
+
+161
+00:13:00.990 --> 00:13:03.750
+Thorin (Joe): But, like, shit's so expensive now!
+
+162
+00:13:03.750 --> 00:13:04.450
+Mike Hall: Yup.
+
+163
+00:13:04.650 --> 00:13:11.299
+Thorin (Joe): like… 64GB of RAM is, like, 1400 bucks. Like, this is some bullshit, man.
+
+164
+00:13:11.750 --> 00:13:15.830
+Ben Pfaff: And I have 256GB in this system, and I can't afford to replace that.
+
+165
+00:13:15.830 --> 00:13:21.999
+Kostadis Roussos: Can I tell you something, Ben? You should walk under armed guard when you're walking with that.
+
+166
+00:13:23.510 --> 00:13:26.030
+Ben Pfaff: I don't… it doesn't leave the house, this is a desktop.
+
+167
+00:13:26.030 --> 00:13:29.290
+Kostadis Roussos: Yeah, I'm just saying, you might want to lock your… you might want to lock your…
+
+168
+00:13:29.290 --> 00:13:33.000
+Thorin (Joe): I want to send you a Christmas card, where do you live?
+
+169
+00:13:33.000 --> 00:13:35.629
+Ben Pfaff: I don't think DDR4 is, gonna…
+
+170
+00:13:35.630 --> 00:13:38.990
+Kostadis Roussos: Oh, no, you're right, you're right, you're right, right, right. So DDR4 memory…
+
+171
+00:13:38.990 --> 00:13:42.820
+Ben Pfaff: If they don't know where you live, they don't pay attention. They've been getting our Christmas cards.
+
+172
+00:13:43.450 --> 00:13:44.850
+Kostadis Roussos: No, we, we, we know right.
+
+173
+00:13:44.850 --> 00:13:46.319
+Thorin (Joe): We have it buried somewhere.
+
+174
+00:13:46.740 --> 00:13:47.600
+Ben Pfaff: Somewhere.
+
+175
+00:13:47.930 --> 00:13:58.150
+Thorin (Joe): But yeah, so 64GB of DDR5 ECC RAM is, like, 1450, and I'm just like, that's insane. And it's been stable for a while.
+
+176
+00:13:58.150 --> 00:14:13.919
+Mike Hall: I have an old machine I think I bought… I'll have to look it up, but I think I bought it in, like, 2004. That's a Xeon D, and it's got 128 gigs of DDR4 LR DRAM, like, ECC and registered, and
+
+177
+00:14:14.040 --> 00:14:25.420
+Mike Hall: I looked up recently what it would take to, like, bump that machine to 256. The RAM cost today, for another 128 gigs, is twice what I paid for the whole server.
+
+178
+00:14:25.690 --> 00:14:26.999
+Thorin (Joe): I know, right?
+
+179
+00:14:28.340 --> 00:14:32.229
+Thorin (Joe): And SSDs aren't that far behind.
+
+180
+00:14:34.770 --> 00:14:39.210
+Kostadis Roussos: Alright, so…
+
+181
+00:14:40.540 --> 00:14:51.289
+Kostadis Roussos: Alright, so where were we? Yes, were we? We… the party had managed to get out of the Underdark.
+
+182
+00:14:52.450 --> 00:14:53.140
+Mike Hall: Yes.
+
+183
+00:14:53.330 --> 00:15:11.070
+Kostadis Roussos: Right. Life was… life was good. Life was very good, everybody was very happy, you know, there was this moment of, like, elation and euphoria. Zalthir observed as, Glabbagool sort of looked up into the sun, and he felt good about himself.
+
+184
+00:15:11.120 --> 00:15:17.560
+Kostadis Roussos: Right? That he had accomplished something, that this peculiar relationship with a ooze, an ex…
+
+185
+00:15:18.340 --> 00:15:22.020
+Kostadis Roussos: And his googly eyes were…
+
+186
+00:15:23.030 --> 00:15:28.019
+Kostadis Roussos: And, you know, from what I understand, Daz, you've offered to teach him how to be a monk, right?
+
+187
+00:15:30.230 --> 00:15:30.880
+Mike Hall: Yeah.
+
+188
+00:15:31.350 --> 00:15:31.989
+Mike Hall: Right, well, I mean.
+
+189
+00:15:31.990 --> 00:15:35.880
+Kostadis Roussos: No, no, no, I mean, Zalthir, sorry, Zalthir, you offered to teach him how to be a monk, right?
+
+190
+00:15:37.190 --> 00:15:41.299
+Gabe: I mean, offered is a strong word.
+
+191
+00:15:41.300 --> 00:15:44.399
+Kostadis Roussos: I mean, he's got the stillness thing working for him, right?
+
+192
+00:15:44.560 --> 00:15:49.629
+Gabe: Yeah, I think there was more, like, a meditation… He's, like…
+
+193
+00:15:51.200 --> 00:15:55.880
+Kostadis Roussos: you know, Glabbagool looking forward to when he will do the, you know.
+
+194
+00:15:56.240 --> 00:16:05.099
+Kostadis Roussos: Bang, pow, the, the, the, what is it? Run, run, slap, slap, slap, right? And you don't want to break it to him that he moves very slowly.
+
+195
+00:16:05.450 --> 00:16:09.759
+Gabe: Yeah, like, literally taking a step might be a good start.
+
+196
+00:16:09.760 --> 00:16:10.420
+Kostadis Roussos: And…
+
+197
+00:16:10.730 --> 00:16:15.029
+Thorin (Joe): But he's unpredictable, because, you know, there are no fixed appendages.
+
+198
+00:16:15.400 --> 00:16:16.580
+Kostadis Roussos: That's fair, that is…
+
+199
+00:16:17.500 --> 00:16:18.460
+Gabe: Yup.
+
+200
+00:16:18.840 --> 00:16:22.600
+Thorin (Joe): And, like, it's easy to do, like, 12 hits in a round when you have 12 arms.
+
+201
+00:16:24.600 --> 00:16:25.130
+Gabe: Can he…
+
+202
+00:16:25.130 --> 00:16:29.600
+Kostadis Roussos: All of a sudden, all of a sudden, all of a sudden, Gabe asks, can I become a news?
+
+203
+00:16:30.630 --> 00:16:34.979
+Gabe: Well, ye… I'm intrigued, like…
+
+204
+00:16:35.430 --> 00:16:36.000
+Kostadis Roussos: No.
+
+205
+00:16:39.240 --> 00:16:42.170
+Kostadis Roussos: It turns grapple into a completely different game.
+
+206
+00:16:43.360 --> 00:16:44.040
+Gabe: Oops.
+
+207
+00:16:44.330 --> 00:16:45.940
+Gabe: engulf? Like, I don't know.
+
+208
+00:16:45.940 --> 00:16:47.830
+Kostadis Roussos: No, no, no, because you cause acid damage.
+
+209
+00:16:48.140 --> 00:16:54.359
+Gabe: Sure. That's handy. Right. Oh, can I just, like, equip Glabbagool? Is that a thing?
+
+210
+00:16:54.970 --> 00:16:58.899
+Kostadis Roussos: No, you cannot equip Glabbagool.
+
+211
+00:16:58.900 --> 00:17:00.459
+Thorin (Joe): It's not a weapon.
+
+212
+00:17:00.840 --> 00:17:05.490
+Thorin (Joe): Weapons don't have… Agency, except for mine.
+
+213
+00:17:05.490 --> 00:17:08.079
+Gabe: Yeah, exactly.
+
+214
+00:17:08.829 --> 00:17:12.099
+Kostadis Roussos: Alright, alright, let me just, get my notes…
+
+215
+00:17:14.719 --> 00:17:20.539
+Kostadis Roussos: I get up known, but that is…
+
+216
+00:17:25.819 --> 00:17:27.579
+Kostadis Roussos: I'm sorry, Michael.
+
+217
+00:17:29.689 --> 00:17:33.249
+Kostadis Roussos: Trying to deal with, like, so many different things in my life.
+
+218
+00:17:35.839 --> 00:17:41.659
+Kostadis Roussos: technology, USB cables… I'm literally dealing with USB cable right now, just in case you're wondering.
+
+219
+00:17:42.079 --> 00:17:43.539
+Kostadis Roussos: My son…
+
+220
+00:17:43.540 --> 00:17:52.639
+Thorin (Joe): Is it a USB 3, you know.2, 2x2 40 gigabit per second cable, or is it a…
+
+221
+00:17:52.640 --> 00:17:54.180
+Kostadis Roussos: Oh, so, oh, no, guys.
+
+222
+00:17:54.180 --> 00:18:00.449
+Thorin (Joe): Oh, or is it a Thunderbolt 5 cable, because they're identical, both 40GB, but who the hell knows, right?
+
+223
+00:18:00.450 --> 00:18:02.440
+Ben Pfaff: Have you set the dip switches properly?
+
+224
+00:18:02.440 --> 00:18:04.870
+Kostadis Roussos: Yeah, so my son, by the way, is…
+
+225
+00:18:04.870 --> 00:18:06.519
+Thorin (Joe): in your USB chain?
+
+226
+00:18:07.820 --> 00:18:22.510
+Kostadis Roussos: Just as a humorous side note, my son goes to me, my son decided to do a project with Anduinos and whatnot, and he starts screaming at me because he discovers that the Induino can be a USB
+
+227
+00:18:24.230 --> 00:18:28.430
+Kostadis Roussos: the USB device, but it can't be the USB… host.
+
+228
+00:18:28.430 --> 00:18:29.380
+Gabe: post.
+
+229
+00:18:29.660 --> 00:18:31.100
+Kostadis Roussos: Right? And he had spent, like…
+
+230
+00:18:31.100 --> 00:18:31.530
+Thorin (Joe): Ruh.
+
+231
+00:18:31.530 --> 00:18:33.950
+Kostadis Roussos: Yeah, I, I, yes. You can make it…
+
+232
+00:18:33.950 --> 00:18:36.120
+Thorin (Joe): I think it depends on the one, but yeah, yeah.
+
+233
+00:18:36.120 --> 00:18:51.210
+Kostadis Roussos: Yeah, and so you… so the poor bastards had spent, like, several hours trying to, like, hook the wires up and try to do it until they realized that it couldn't be done. And then he went on a multi-hour tirade about all the different kinds of USB, and I felt like father, like son.
+
+234
+00:18:52.350 --> 00:18:53.610
+Thorin (Joe): I feel like I couldn't be prouder.
+
+235
+00:18:53.610 --> 00:19:02.279
+Kostadis Roussos: Yeah, like, my son, you know, I'm a cheat, I felt like, you know, other people, you know, like, oh, my kid did this, I was like, my son understands why USB sucks.
+
+236
+00:19:03.340 --> 00:19:12.249
+Thorin (Joe): Anytime my kids, like, starts going on these rants, I'm like, yeah, computers were a mistake. We never should have thought, you know, taught sand to think, right? It's like, clearly…
+
+237
+00:19:12.250 --> 00:19:12.830
+Ben Pfaff: Yep.
+
+238
+00:19:13.000 --> 00:19:13.899
+Ben Pfaff: It was a mistake.
+
+239
+00:19:13.900 --> 00:19:14.690
+Mike Hall: Oh, dear.
+
+240
+00:19:14.880 --> 00:19:15.550
+Kostadis Roussos: Alright.
+
+241
+00:19:15.950 --> 00:19:26.049
+Kostadis Roussos: Okay, so, as you're, as you're, like, kind of on the surface, you're kind of enjoying the sunlight, Eldeth, who's still around with you, says, well.
+
+242
+00:19:26.390 --> 00:19:30.760
+Kostadis Roussos: Thorin, a giant friend.
+
+243
+00:19:31.900 --> 00:19:47.770
+Kostadis Roussos: I have to say that here our journey ends. I must go to Mithral Hall. I must inform the dwarves of what is going on in the Underdark. I hope to see you at some point again. If not, it was well met, and thank you for getting me out of the Underdark.
+
+244
+00:19:49.020 --> 00:19:52.620
+Thorin (Joe): I mean, I'm a dwarf, I'm not invited along.
+
+245
+00:19:54.900 --> 00:20:02.020
+Kostadis Roussos: This is, she explains, this is, this is our clan business.
+
+246
+00:20:05.400 --> 00:20:11.540
+Thorin (Joe): Is there any way that I can petition to become part of your clan? Pledge, perhaps? Is there a hate
+
+247
+00:20:11.870 --> 00:20:13.290
+Thorin (Joe): ritual involved.
+
+248
+00:20:13.560 --> 00:20:15.500
+Kostadis Roussos: She's…
+
+249
+00:20:17.410 --> 00:20:28.109
+Kostadis Roussos: She goes, giant friend, I, she goes, we are, we are like brothers. We have, we have fought together, we have bled together, we have faced the abyssal creatures together.
+
+250
+00:20:28.110 --> 00:20:29.869
+Thorin (Joe): You're not gonna say but there.
+
+251
+00:20:29.870 --> 00:20:31.119
+Kostadis Roussos: No, no, that's where it ends, right?
+
+252
+00:20:31.640 --> 00:20:34.840
+Kostadis Roussos: Let me go first to Mithral Hall. And, and…
+
+253
+00:20:35.530 --> 00:20:48.379
+Thorin (Joe): Just know, I do want to learn about my dwarven roots, right? I want to become an integrated person, both my giant upbringing, but also my, you know…
+
+254
+00:20:48.850 --> 00:20:51.280
+Thorin (Joe): Cultural roots, so, you know…
+
+255
+00:20:51.280 --> 00:20:51.800
+Kostadis Roussos: So she's…
+
+256
+00:20:51.800 --> 00:20:52.809
+Thorin (Joe): He's like, come…
+
+257
+00:20:52.810 --> 00:20:53.980
+Kostadis Roussos: Yeah, she goes… And I come with it.
+
+258
+00:20:53.980 --> 00:20:56.840
+Thorin (Joe): He's a really cool sword who's kind of annoying sometimes.
+
+259
+00:20:57.150 --> 00:21:00.890
+Kostadis Roussos: Dawnbringer goes… Dawnbringer sort of throws a hissy fit.
+
+260
+00:21:01.380 --> 00:21:04.469
+Thorin (Joe): And I say, I'm annoying also, Dawnbringer, look, you know, we got each other.
+
+261
+00:21:04.930 --> 00:21:17.840
+Kostadis Roussos: So… so, but she explains, I mean, because she explains that, yes, of course you should come to Mithral Hall, pauses. After I've explained to the king what's going on.
+
+262
+00:21:18.020 --> 00:21:20.739
+Kostadis Roussos: It will… it will… it will go better.
+
+263
+00:21:22.040 --> 00:21:24.550
+Thorin (Joe): Alright, alright, I made on that, don'.
+
+264
+00:21:24.550 --> 00:21:26.939
+Mike Hall: I'd be surprised if I do.
+
+265
+00:21:27.680 --> 00:21:33.620
+Thorin (Joe): I just want you to know that I'm taking this seriously. I don't think you're just being socially nice here. I think you really do want me to.
+
+266
+00:21:33.620 --> 00:21:37.319
+Kostadis Roussos: She extends her head and shakes it and says.
+
+267
+00:21:37.420 --> 00:21:51.979
+Kostadis Roussos: After I have spoken and explained to the lords of Gauntlgrym and Mithral Hall the dangers of the Underdark, I am certain they will want to speak to you, and I will make it a statement of purpose that you shall be embraced by our clan.
+
+268
+00:21:52.560 --> 00:21:54.389
+Thorin (Joe): Thank you, I appreciate that.
+
+269
+00:21:54.390 --> 00:21:57.070
+Kostadis Roussos: So she, like, says, this, this, I swear.
+
+270
+00:21:57.650 --> 00:21:59.179
+Thorin (Joe): Alright, there we go.
+
+271
+00:21:59.180 --> 00:22:05.470
+Kostadis Roussos: Right, so she legitimately wanted to go first so that you don't become the topic, rather…
+
+272
+00:22:05.470 --> 00:22:06.520
+Thorin (Joe): Okay, alright.
+
+273
+00:22:06.520 --> 00:22:14.420
+Kostadis Roussos: She explains that this is not… she looks at Daz, who's giving her that drow eye, that, you know, there's some deep conspiracy, controlling the narrative thing.
+
+274
+00:22:14.680 --> 00:22:20.370
+Kostadis Roussos: she kind of looks at him and, you know, kind of gives him that stink eye that dwarves give to drow.
+
+275
+00:22:20.830 --> 00:22:23.679
+Kostadis Roussos: And I presume you give to her, so it's kind of like, you know…
+
+276
+00:22:23.680 --> 00:22:24.380
+Thorin (Joe): Yeah.
+
+277
+00:22:28.340 --> 00:22:43.529
+Kostadis Roussos: Spiderbait, you know, is kind of on the surface. He's kind of like, you know, guys, I love you, man, I love you, and I know you're going off to Candlekeep, but I haven't been out here in my whole life, so I'm just gonna go explore. It's totally safe for goblins, right?
+
+278
+00:22:44.750 --> 00:22:48.100
+Mike Hall: I would say probably not.
+
+279
+00:22:49.100 --> 00:22:58.079
+Kostadis Roussos: I don't have anything to worry about, right? I am totally cool, like, nobody's gonna, like, nobody's gonna attack a goblin for being a goblin, right? We're totally integrated into the society, correct?
+
+280
+00:23:01.400 --> 00:23:02.450
+Thorin (Joe): I don't think so.
+
+281
+00:23:02.450 --> 00:23:05.689
+Mike Hall: I, like, I'd be a little more careful.
+
+282
+00:23:08.750 --> 00:23:14.080
+Ben Pfaff: The, the state of goblin equality and inclusion is, rough at the moment.
+
+283
+00:23:16.930 --> 00:23:17.830
+Kostadis Roussos: Oh.
+
+284
+00:23:19.690 --> 00:23:34.469
+Kostadis Roussos: Well, you know, I'm just a small goblin, and you're four big, powerful people. Do you mind if I just sort of hang out with you guys, maybe find a nice place? This candle key place seems like the kind of place that somebody like me could find a job doing something innocuous.
+
+285
+00:23:35.920 --> 00:23:38.159
+Ben Pfaff: That sounds like a better idea for you.
+
+286
+00:23:38.430 --> 00:23:39.170
+Mike Hall: Yeah.
+
+287
+00:23:39.170 --> 00:23:45.729
+Kostadis Roussos: I'll make food! I'm good at making food. He's terrible at making food.
+
+288
+00:23:50.240 --> 00:23:52.999
+Kostadis Roussos: He's trying to, he's trying to hang on. Alright.
+
+289
+00:23:53.300 --> 00:24:09.659
+Kostadis Roussos: And Glabbagool, of course, is really happy to stick around, and he's going, well, so… and so you look at your map, you look around, and Eldeth is like, well, where do we go? And she says, well, you just head east. Sorry, head west, and you'll hit Candlekeep, and so…
+
+290
+00:24:10.310 --> 00:24:15.480
+Kostadis Roussos: I go west until the blah blah blah.
+
+291
+00:24:16.600 --> 00:24:18.480
+Kostadis Roussos: Right. And so,
+
+292
+00:24:26.230 --> 00:24:35.750
+Kostadis Roussos: All right. So, you know, it's a few days' journey, and so you're off, you're heading towards your candle keep, and, you know, you're walking along, and
+
+293
+00:24:35.960 --> 00:24:54.890
+Kostadis Roussos: Nothing… curiously, you know, after days of being pursued by endless drow and monsters, and, you know, like, worried about getting yourselves cratered, you're… and, you know, Dawnbringer's totally thrilled, right? Like, this is, like, perfect. There's, like, sunlight, and there's, like, you know, stars, and there's no such thing as perfect darkness.
+
+294
+00:24:55.400 --> 00:25:03.000
+Kostadis Roussos: So, you know, this is, like, perfect, she's enjoying herself, she's, like, totally happy, she's like, I made the best decision hanging out with you!
+
+295
+00:25:03.780 --> 00:25:06.340
+Thorin (Joe): I mean, you know, we make a decent team.
+
+296
+00:25:06.340 --> 00:25:06.850
+Mike Hall: Yeah.
+
+297
+00:25:06.850 --> 00:25:13.000
+Kostadis Roussos: Yes, yes, yes. You know, so she's very happy about this, and, you know, very, very happy.
+
+298
+00:25:13.780 --> 00:25:16.329
+Kostadis Roussos: But on your, third day.
+
+299
+00:25:17.340 --> 00:25:21.099
+Kostadis Roussos: You, you, you notice something.
+
+300
+00:25:22.590 --> 00:25:23.130
+Ben Pfaff: Oh…
+
+301
+00:25:23.670 --> 00:25:24.720
+Mike Hall: What do we… what do we notice?
+
+302
+00:25:24.720 --> 00:25:26.060
+Ben Pfaff: What do we notice on the third day?
+
+303
+00:25:26.080 --> 00:25:30.380
+Kostadis Roussos: Well, I mean, you'll have to roll some insights and investigations.
+
+304
+00:25:30.380 --> 00:25:33.220
+Ben Pfaff: I happen to have some dice right here.
+
+305
+00:25:33.220 --> 00:25:34.340
+Kostadis Roussos: Excellent! That's very likely.
+
+306
+00:25:34.340 --> 00:25:35.120
+Ben Pfaff: Lucky.
+
+307
+00:25:35.120 --> 00:25:35.999
+Kostadis Roussos: Yes, it is.
+
+308
+00:25:36.000 --> 00:25:36.550
+Mike Hall: Whoa.
+
+309
+00:25:38.620 --> 00:25:40.799
+Thorin (Joe): So do we have to roll an insight? Okay.
+
+310
+00:25:40.800 --> 00:25:42.789
+Ben Pfaff: You said Insight?
+
+311
+00:25:42.790 --> 00:25:45.259
+Mike Hall: Insider investigation, I did an investigation.
+
+312
+00:25:45.260 --> 00:25:46.050
+Kostadis Roussos: Yes.
+
+313
+00:25:46.050 --> 00:25:49.580
+Ben Pfaff: Well, I'll go with Insight, because I have a plus 8 on that.
+
+314
+00:25:49.740 --> 00:25:50.630
+Kostadis Roussos: Alright.
+
+315
+00:25:50.630 --> 00:25:52.069
+Ben Pfaff: 9?
+
+316
+00:25:52.930 --> 00:25:57.659
+Kostadis Roussos: No, that, that, you, you, you, you, conclude that what is following you is a deer.
+
+317
+00:25:59.520 --> 00:26:02.260
+Ben Pfaff: Well, it's better than my investigation, which is a minus 1.
+
+318
+00:26:02.260 --> 00:26:05.439
+Kostadis Roussos: Right, I'm just saying, with that 9, you decide that this is a…
+
+319
+00:26:05.440 --> 00:26:05.970
+Ben Pfaff: Weird.
+
+320
+00:26:05.970 --> 00:26:06.760
+Kostadis Roussos: a deer.
+
+321
+00:26:06.970 --> 00:26:09.669
+Ben Pfaff: Are we in the Overbright, or are there deer in the Underdark?
+
+322
+00:26:09.670 --> 00:26:15.679
+Kostadis Roussos: No, you're in the overbright. Oh, okay. Yeah, just to be clear, you guys have made it to the overbright. That was what happened at the end of last session.
+
+323
+00:26:15.680 --> 00:26:18.430
+Ben Pfaff: And this is where I'm from, so I know what a deer is.
+
+324
+00:26:18.430 --> 00:26:19.250
+Kostadis Roussos: Yes, yes.
+
+325
+00:26:19.250 --> 00:26:20.080
+Ben Pfaff: Okay, good.
+
+326
+00:26:20.080 --> 00:26:26.950
+Kostadis Roussos: Right, and so you've concluded this is a deer, and, you know, everybody else being paranoid, do you, like, sort of put your head down and go back to sleep, because…
+
+327
+00:26:27.980 --> 00:26:30.719
+Ben Pfaff: Well, good, good, I could use an app.
+
+328
+00:26:30.720 --> 00:26:31.390
+Kostadis Roussos: Alright.
+
+329
+00:26:33.990 --> 00:26:34.910
+Kostadis Roussos: Okay.
+
+330
+00:26:35.930 --> 00:26:38.960
+Kostadis Roussos: Does anybody else roll better than an 8, or a 9?
+
+331
+00:26:38.960 --> 00:26:41.860
+Gabe: We did enroll 20. Daz got a 16 domestic.
+
+332
+00:26:41.860 --> 00:26:43.319
+Thorin (Joe): I got a 20, yeah.
+
+333
+00:26:43.320 --> 00:26:43.800
+Kostadis Roussos: Alright.
+
+334
+00:26:43.800 --> 00:26:46.879
+Mike Hall: I've got a 20, he's out there got a 16, and I got a 16.
+
+335
+00:26:47.090 --> 00:26:56.260
+Kostadis Roussos: All right. The three of you quickly realize, after many months of being out in the dark, that somebody's following you.
+
+336
+00:26:57.120 --> 00:26:57.970
+Mike Hall: Okay.
+
+337
+00:26:57.970 --> 00:26:58.920
+Gabe: the deer.
+
+338
+00:26:59.220 --> 00:27:02.209
+Kostadis Roussos: Oh, no, it's not a deer. It's not a deer.
+
+339
+00:27:02.210 --> 00:27:03.090
+Ben Pfaff: Oh, dear.
+
+340
+00:27:03.620 --> 00:27:10.959
+Kostadis Roussos: Like, you've sort of intuited that somebody's been following you for some time, and now, you know, the intuition's gone, and it's kind of like, yeah, we're being followed.
+
+341
+00:27:12.890 --> 00:27:15.160
+Kostadis Roussos: So,
+
+342
+00:27:15.940 --> 00:27:22.560
+Kostadis Roussos: Do you want to keep going? Do you want to go talk… find out who this guy is? Like, what do you want to do? Like, it's.
+
+343
+00:27:22.750 --> 00:27:25.310
+Gabe: Is it night, or what's the time of day?
+
+344
+00:27:25.990 --> 00:27:29.370
+Kostadis Roussos: We'll say dusk. Dusk is when you guys notice, so it's not…
+
+345
+00:27:29.370 --> 00:27:33.540
+Thorin (Joe): Is that thing where you drive to a police station when you feel like somebody's following you?
+
+346
+00:27:34.110 --> 00:27:37.329
+Kostadis Roussos: I mean, in the Forgotten Realms, that's always an interesting option.
+
+347
+00:27:37.330 --> 00:27:41.330
+Thorin (Joe): I mean, well, whether the police are the ones following you or not is a different question.
+
+348
+00:27:41.330 --> 00:27:43.250
+Kostadis Roussos: Yes, you see, I just want to state that that…
+
+349
+00:27:43.250 --> 00:27:46.000
+Thorin (Joe): Same case in the US, too, so, you know, whatevs.
+
+350
+00:27:46.220 --> 00:27:47.270
+Ben Pfaff: Well, yeah.
+
+351
+00:27:47.270 --> 00:27:57.990
+Kostadis Roussos: Yeah, I mean, I just want to say, like, I sort of adopt Greece law for police, which is that in Greece, you never want… go to the cops if you actually have a problem, because the most dangerous thing in your life is a cop.
+
+352
+00:27:58.350 --> 00:28:00.870
+Thorin (Joe): I mean, this is… this is everywhere, dude.
+
+353
+00:28:00.870 --> 00:28:05.890
+Kostadis Roussos: Yeah, I'm just saying, like, the whole idea that cops are the good guys is a very weird concept that I couldn't remember.
+
+354
+00:28:05.890 --> 00:28:07.460
+Thorin (Joe): It's a very white suburban thing that.
+
+355
+00:28:07.460 --> 00:28:10.240
+Kostadis Roussos: Yeah, no, I'm just saying, like, ask a kid who's…
+
+356
+00:28:10.700 --> 00:28:17.280
+Kostadis Roussos: white-presenting and lived in the suburbs, I never understood why Americans thought the cops were good, and so that has always confused me.
+
+357
+00:28:17.280 --> 00:28:26.319
+Ben Pfaff: Look, I was taught, with the authority of McGruff the crime dog, that you're supposed to go to the crime dog, when you have a problem.
+
+358
+00:28:26.630 --> 00:28:29.630
+Thorin (Joe): Mr. Rogers said, like, look for the helpers?
+
+359
+00:28:30.080 --> 00:28:31.109
+Mike Hall: Yeah, he did.
+
+360
+00:28:32.690 --> 00:28:35.429
+Thorin (Joe): Are you arguing with Mr. Rogers? No. Kostadis?
+
+361
+00:28:35.430 --> 00:28:38.259
+Kostadis Roussos: No, I'm just telling you, like, I grew up in a world… I grew up…
+
+362
+00:28:38.260 --> 00:28:42.870
+Thorin (Joe): Taking a fight with, like, the American id.
+
+363
+00:28:43.210 --> 00:28:48.010
+Thorin (Joe): Yeah, so, okay, so we got somebody following us, it's dusk, we gotta figure out what the hell we're gonna do.
+
+364
+00:28:48.010 --> 00:28:48.690
+Kostadis Roussos: Yes.
+
+365
+00:28:49.340 --> 00:28:51.750
+Kostadis Roussos: So let me just pull up a map.
+
+366
+00:28:52.270 --> 00:29:00.230
+Kostadis Roussos: So, my first question is, what do you want to do? Do you want to, like, start… do you care, or do you want to keep… do you care, or do you not care?
+
+367
+00:29:00.570 --> 00:29:02.210
+Thorin (Joe): Oh, we definitely care.
+
+368
+00:29:02.730 --> 00:29:05.290
+Kostadis Roussos: Your paranoia does not allow you to, you know.
+
+369
+00:29:05.290 --> 00:29:06.810
+Thorin (Joe): Oh, no, no, no. This is…
+
+370
+00:29:08.130 --> 00:29:11.459
+Thorin (Joe): I'm wondering if there's any sort of magic-y stuff we can do.
+
+371
+00:29:11.460 --> 00:29:13.570
+Ben Pfaff: I don't know, do I need to go hunting?
+
+372
+00:29:14.550 --> 00:29:16.379
+Gabe: For a deer, yeah, good.
+
+373
+00:29:19.800 --> 00:29:20.700
+Kostadis Roussos: Okay.
+
+374
+00:29:21.850 --> 00:29:25.430
+Kostadis Roussos: So, let me see… Okay.
+
+375
+00:29:26.230 --> 00:29:27.680
+Kostadis Roussos: Let me just get a map.
+
+376
+00:29:34.280 --> 00:29:37.959
+Gabe: I mean, we have many ways to hide easily, so…
+
+377
+00:29:39.640 --> 00:29:43.919
+Kostadis Roussos: Yeah, I mean, this is, you know, this is really your guy's… this is what you're very good at.
+
+378
+00:29:45.300 --> 00:29:49.250
+Kostadis Roussos: Right? So… Okay.
+
+379
+00:29:49.370 --> 00:29:51.870
+Kostadis Roussos: Let me just drop… we can drop a forest map.
+
+380
+00:29:52.840 --> 00:29:53.690
+Kostadis Roussos: Damn.
+
+381
+00:29:55.160 --> 00:29:59.459
+Kostadis Roussos: So, we will declare that you were about to go to sleep, it was at the end of the day.
+
+382
+00:29:59.800 --> 00:30:02.460
+Kostadis Roussos: And we will use this map here.
+
+383
+00:30:04.500 --> 00:30:08.400
+Kostadis Roussos: We will go into the map layer, and we will use this map here.
+
+384
+00:30:10.050 --> 00:30:13.400
+Thorin (Joe): Alright, so here's the question. What kind of surface? Are we on a stone surface?
+
+385
+00:30:13.640 --> 00:30:15.089
+Kostadis Roussos: I'm about to show you the map.
+
+386
+00:30:15.650 --> 00:30:15.990
+Mike Hall: Nice.
+
+387
+00:30:15.990 --> 00:30:19.510
+Thorin (Joe): I have Tremor Sense, which I can actually use that to detect.
+
+388
+00:30:20.190 --> 00:30:23.250
+Kostadis Roussos: So, but what does Tremor… what does Tremor Sense require?
+
+389
+00:30:23.250 --> 00:30:37.500
+Thorin (Joe): It says, special sense in D&D that allows a creature to detect and pinpoint the origin of vibrations within a specific radius, 60 feet, provided the user and target touch the same ground or substance. It works through walls, but cannot detect flying or usually incorporeal creatures.
+
+390
+00:30:37.500 --> 00:30:42.719
+Kostadis Roussos: Okay, so it can detect, people… That does not require stone, is what I'm trying to say.
+
+391
+00:30:42.930 --> 00:30:50.229
+Thorin (Joe): No, I think it's… you must be on or touching a natural or worked stone surface to use this tremor scent.
+
+392
+00:30:50.230 --> 00:30:54.659
+Kostadis Roussos: Okay, so no, this is… this is the forest, you know, dirt road. Okay. Right?
+
+393
+00:30:54.660 --> 00:31:02.199
+Thorin (Joe): picked it because we were gonna be fucking underground all the time, and I figured there would always be some stone, and then the one time I need it.
+
+394
+00:31:02.670 --> 00:31:06.199
+Thorin (Joe): And we're not underground, and we're not surrounded by fucking stone.
+
+395
+00:31:07.070 --> 00:31:08.580
+Thorin (Joe): Sorry, I'm just ranting.
+
+396
+00:31:08.580 --> 00:31:12.290
+Kostadis Roussos: Yeah, Dawnbringer, Dawnbringer goes, you've got anger issues.
+
+397
+00:31:12.290 --> 00:31:12.700
+Ben Pfaff: I too bad.
+
+398
+00:31:12.700 --> 00:31:14.190
+Thorin (Joe): I'm driving issues.
+
+399
+00:31:14.190 --> 00:31:19.260
+Kostadis Roussos: I mean, do we really want to be making that much noise while we're trying to get somebody?
+
+400
+00:31:20.880 --> 00:31:23.650
+Thorin (Joe): They'll never suspect us when we're making noise.
+
+401
+00:31:23.950 --> 00:31:31.200
+Kostadis Roussos: Oh, okay, fair, fair, fair, good, good point. So I've got… who am I missing? I have got Zalthir, Daz, Grygum, and…
+
+402
+00:31:31.610 --> 00:31:33.690
+Kostadis Roussos: Thorin. That's what I'm missing. Alright.
+
+403
+00:31:33.920 --> 00:31:36.570
+Kostadis Roussos: With all of the noise Thorin was making, I was missing him. Alright!
+
+404
+00:31:37.090 --> 00:31:39.130
+Kostadis Roussos: Okay, so,
+
+405
+00:31:39.350 --> 00:31:45.439
+Kostadis Roussos: So what… so, you know, Thorin's kind of, like, you know, annoyed and frustrated, expressing himself,
+
+406
+00:31:46.250 --> 00:31:53.879
+Kostadis Roussos: Let's, let's… what do you want to do? Let's roll for… let's have some initiative rolls, just so that we can, like, decide who does what in what order.
+
+407
+00:31:54.470 --> 00:31:55.370
+Mike Hall: Alright.
+
+408
+00:31:55.910 --> 00:31:56.840
+Ben Pfaff: Alright.
+
+409
+00:31:57.670 --> 00:31:59.960
+Ben Pfaff: I'm with them, right? Not asleep.
+
+410
+00:31:59.960 --> 00:32:02.279
+Kostadis Roussos: Yeah, no, I'm assuming you're all sort of over here.
+
+411
+00:32:02.280 --> 00:32:03.080
+Ben Pfaff: Oh, okay.
+
+412
+00:32:05.360 --> 00:32:08.839
+Ben Pfaff: Okay, click on me, click on Initiative.
+
+413
+00:32:09.630 --> 00:32:12.050
+Ben Pfaff: Boy, my rolls are really doing it tonight.
+
+414
+00:32:12.470 --> 00:32:13.820
+Thorin (Joe): Strong work, man.
+
+415
+00:32:28.170 --> 00:32:31.890
+Kostadis Roussos: So… okay. Okay, so you guys rolled your initiative, right?
+
+416
+00:32:42.730 --> 00:32:44.030
+Kostadis Roussos: Let's go to that.
+
+417
+00:32:48.090 --> 00:32:48.990
+Kostadis Roussos: Yeah.
+
+418
+00:33:07.710 --> 00:33:11.859
+Gabe: Did you say we're traveling east, or are we going west? Which way we're going.
+
+419
+00:33:11.860 --> 00:33:13.140
+Kostadis Roussos: West. Wes, what, you're going west?
+
+420
+00:33:13.140 --> 00:33:13.890
+Gabe: request.
+
+421
+00:33:18.760 --> 00:33:19.620
+Kostadis Roussos: Okay.
+
+422
+00:33:20.820 --> 00:33:22.800
+Kostadis Roussos: So,
+
+423
+00:33:23.370 --> 00:33:32.099
+Kostadis Roussos: As you sort of are sitting there, I'm… you haven't yet set up camp, so we could just assume you're… you were about to set up camp, I'm going to put a,
+
+424
+00:33:32.760 --> 00:33:37.090
+Kostadis Roussos: line here saying this is where you were about to set up camp.
+
+425
+00:33:38.010 --> 00:33:39.739
+Kostadis Roussos: Daz, you're first, what do you do?
+
+426
+00:33:42.010 --> 00:33:47.759
+Kostadis Roussos: So, it's, it's coming from the north, is, from the north, you know, in this general direction.
+
+427
+00:33:48.380 --> 00:33:50.980
+Gabe: Wait, they're following us from the north?
+
+428
+00:33:50.980 --> 00:34:01.370
+Kostadis Roussos: No, no, you heard them. They've been following you from behind, but you kind of, like, you… they… people can be following you, like, this way, they could be following you, like, that way, they could be following you… there's many ways to follow you, right?
+
+429
+00:34:01.370 --> 00:34:04.659
+Thorin (Joe): Will be a ghoul be, like, our secret weapon here in some ways?
+
+430
+00:34:05.200 --> 00:34:08.230
+Ben Pfaff: How can someone follow you?
+
+431
+00:34:08.330 --> 00:34:10.450
+Thorin (Joe): Can I send my eagle after them?
+
+432
+00:34:11.100 --> 00:34:14.100
+Ben Pfaff: You're saying they stay on that side as we move?
+
+433
+00:34:14.100 --> 00:34:14.550
+Kostadis Roussos: Yes.
+
+434
+00:34:14.550 --> 00:34:15.280
+Ben Pfaff: Okay.
+
+435
+00:34:15.280 --> 00:34:19.419
+Kostadis Roussos: Right? They're basically… and you know, they move sides to try to make sure that you don't.
+
+436
+00:34:19.420 --> 00:34:20.090
+Ben Pfaff: Awesome. Yeah.
+
+437
+00:34:20.090 --> 00:34:21.770
+Kostadis Roussos: Right? They're, they're…
+
+438
+00:34:21.770 --> 00:34:22.530
+Ben Pfaff: Got it now.
+
+439
+00:34:22.530 --> 00:34:28.790
+Kostadis Roussos: They're using the terrain to basically not be visible, so, you know, Right.
+
+440
+00:34:29.440 --> 00:34:37.749
+Gabe: So, like, Thorin had ruled pretty well in investigation. Does he have any more insight into who's following us, or how they're doing it, or…
+
+441
+00:34:38.620 --> 00:34:48.270
+Kostadis Roussos: Yeah, so yes, so Thorin… Thorin knows… Thorin is able to identify that it's coming from the northern area. He's able to identify it's probably within the next…
+
+442
+00:34:48.630 --> 00:34:51.460
+Kostadis Roussos: 20… to 40 feet?
+
+443
+00:34:52.920 --> 00:34:53.899
+Kostadis Roussos: Oh. Alright.
+
+444
+00:34:53.909 --> 00:34:54.599
+Gabe: Close.
+
+445
+00:34:54.840 --> 00:35:01.100
+Kostadis Roussos: Yeah, close. So whoever's here is, like, trying to be very close to you to make sure that they're following you.
+
+446
+00:35:02.000 --> 00:35:04.910
+Thorin (Joe): Let's say we just send a fireball and light the trees on fire.
+
+447
+00:35:04.910 --> 00:35:05.460
+Mike Hall: Firebase.
+
+448
+00:35:05.460 --> 00:35:05.790
+Thorin (Joe): Maybe.
+
+449
+00:35:05.990 --> 00:35:08.430
+Mike Hall: I'm gonna… I wanna get some…
+
+450
+00:35:08.430 --> 00:35:11.030
+Thorin (Joe): Find my D20 and roll that fucker.
+
+451
+00:35:11.030 --> 00:35:12.990
+Mike Hall: I want to get some intel out of this.
+
+452
+00:35:15.310 --> 00:35:19.020
+Mike Hall: So, I am going to Misty Step.
+
+453
+00:35:19.740 --> 00:35:20.320
+Mike Hall: Update.
+
+454
+00:35:20.320 --> 00:35:25.100
+Thorin (Joe): Jimjar who's gonna try and convince us to go back into the Underdark, so we just know this is the case.
+
+455
+00:35:25.100 --> 00:35:27.649
+Mike Hall: I'm… I'm gonna misty step up into the tree.
+
+456
+00:35:28.920 --> 00:35:34.729
+Kostadis Roussos: Okay, so which tree? You don't know exactly which tree, I mean, you can try to advance and see if you can figure it out, so…
+
+457
+00:35:34.730 --> 00:35:39.640
+Mike Hall: Yeah, I mean, I just figured this big tree right here, it's within the range of Misty Step, I think.
+
+458
+00:35:41.340 --> 00:35:55.519
+Mike Hall: And I'm gonna… I can see there's a pretty large branch that also has a lot of cover around it that I can see. Alright. The thing for Misty Step is, like, I need to be able to see the area I'm landing in, so I'm gonna… I'm gonna…
+
+459
+00:35:55.540 --> 00:36:03.340
+Mike Hall: Basically, smoke is gonna appear around me, and then I'm gonna disappear into the tree, and get some intelligence, and… Alright.
+
+460
+00:36:03.480 --> 00:36:15.939
+Mike Hall: My plan is to observe, and either flank them if they start to attack the party, or if I see what the hell's going on, I can always jump back to the party and, tell them what's going on.
+
+461
+00:36:16.110 --> 00:36:21.110
+Kostadis Roussos: Alright, okay. So, roll your stealth to see if the other guy notices you.
+
+462
+00:36:21.970 --> 00:36:23.640
+Mike Hall: My stealth with advantage.
+
+463
+00:36:23.940 --> 00:36:25.340
+Mike Hall: 12.
+
+464
+00:36:26.410 --> 00:36:28.759
+Kostadis Roussos: Alright, let's see what that guy's perception is.
+
+465
+00:36:28.760 --> 00:36:32.559
+Thorin (Joe): Man, that's a shitty stealth with an advantage.
+
+466
+00:36:32.560 --> 00:36:34.339
+Mike Hall: Yeah, a 2 and a 12.
+
+467
+00:36:34.800 --> 00:36:35.890
+Kostadis Roussos: Oh,
+
+468
+00:36:39.690 --> 00:36:41.529
+Kostadis Roussos: Oops, that's right.
+
+469
+00:36:42.850 --> 00:36:44.419
+Mike Hall: I rolled a 1 and a 10.
+
+470
+00:36:44.810 --> 00:36:45.420
+Kostadis Roussos: I don't know.
+
+471
+00:36:45.420 --> 00:36:46.620
+Mike Hall: 1 and an 11.
+
+472
+00:36:47.240 --> 00:36:50.380
+Kostadis Roussos: Oh, okay, perception… 3.
+
+473
+00:36:51.680 --> 00:36:53.409
+Kostadis Roussos: They, they notice you.
+
+474
+00:36:53.690 --> 00:36:58.150
+Kostadis Roussos: And then, because they notice you.
+
+475
+00:36:58.340 --> 00:37:01.160
+Ben Pfaff: They're following us, they would notice us.
+
+476
+00:37:01.160 --> 00:37:03.670
+Kostadis Roussos: Well, no, they noticed that he missed the step on top of him.
+
+477
+00:37:03.670 --> 00:37:05.730
+Ben Pfaff: Oh, okay, they notice where he is.
+
+478
+00:37:05.730 --> 00:37:06.730
+Kostadis Roussos: Yes.
+
+479
+00:37:06.730 --> 00:37:07.909
+Mike Hall: see them now, so the…
+
+480
+00:37:07.910 --> 00:37:10.839
+Kostadis Roussos: Hold on, I'm not… okay, now I'm gonna roll his stealth.
+
+481
+00:37:11.900 --> 00:37:14.550
+Kostadis Roussos: 18. Now, you have to beat an 18.
+
+482
+00:37:15.540 --> 00:37:17.659
+Mike Hall: On, what, my observation?
+
+483
+00:37:17.660 --> 00:37:19.710
+Kostadis Roussos: Insight or investigation?
+
+484
+00:37:20.010 --> 00:37:21.940
+Mike Hall: We'll do investigation.
+
+485
+00:37:22.820 --> 00:37:23.980
+Mike Hall: 26.
+
+486
+00:37:24.220 --> 00:37:26.480
+Kostadis Roussos: Okay, you definitely did see him. Alright.
+
+487
+00:37:27.630 --> 00:37:29.360
+Kostadis Roussos: So we will put them over here.
+
+488
+00:37:38.500 --> 00:37:39.400
+Kostadis Roussos: Alright.
+
+489
+00:37:40.230 --> 00:37:42.660
+Kostadis Roussos: Supposed to look like a drow.
+
+490
+00:37:44.140 --> 00:37:47.180
+Kostadis Roussos: Alright, let me just add his initiative, then.
+
+491
+00:37:58.790 --> 00:37:59.480
+Mike Hall: Wow.
+
+492
+00:38:00.850 --> 00:38:03.449
+Kostadis Roussos: Oh, don't… do not read the word assassin.
+
+493
+00:38:04.570 --> 00:38:07.220
+Kostadis Roussos: That's just the, profile of the character.
+
+494
+00:38:08.690 --> 00:38:10.639
+Thorin (Joe): No, obviously he's a friend.
+
+495
+00:38:11.190 --> 00:38:13.090
+Kostadis Roussos: No, that didn't say that.
+
+496
+00:38:13.090 --> 00:38:14.390
+Gabe: A friendly assessment.
+
+497
+00:38:14.800 --> 00:38:20.189
+Thorin (Joe): I think, and we want to, welcome him in and, restrain him. I mean…
+
+498
+00:38:20.190 --> 00:38:23.009
+Ben Pfaff: We… we were being chased by Drow.
+
+499
+00:38:25.790 --> 00:38:27.430
+Ben Pfaff: Maybe they caught up with us.
+
+500
+00:38:33.840 --> 00:38:38.230
+Gabe: I don't see any emblems, any house identifying information?
+
+501
+00:38:39.190 --> 00:38:42.930
+Kostadis Roussos: Not from the tree.
+
+502
+00:38:43.360 --> 00:38:44.020
+Gabe: Hmm.
+
+503
+00:38:44.400 --> 00:38:44.930
+Kostadis Roussos: Right.
+
+504
+00:38:45.420 --> 00:38:46.809
+Kostadis Roussos: Zalthir Europe.
+
+505
+00:38:50.170 --> 00:38:53.890
+Mike Hall: do… do they know… do I have a way to tell them that…
+
+506
+00:38:53.890 --> 00:38:56.860
+Kostadis Roussos: Well, at this point in time, you could just sort of go, like, down here, right?
+
+507
+00:38:56.860 --> 00:38:57.490
+Mike Hall: Yeah.
+
+508
+00:38:59.700 --> 00:39:01.499
+Kostadis Roussos: Right. I mean…
+
+509
+00:39:01.500 --> 00:39:03.259
+Mike Hall: I make a bird call.
+
+510
+00:39:03.600 --> 00:39:04.589
+Kostadis Roussos: You make a burden.
+
+511
+00:39:04.900 --> 00:39:11.920
+Mike Hall: I make a bird call, I sound like a, like a, cardinal, and they know there's no cardinals in these trees, and the team is like, oh.
+
+512
+00:39:12.150 --> 00:39:12.770
+Kostadis Roussos: I'm sick.
+
+513
+00:39:13.310 --> 00:39:15.240
+Gabe: I assume that was prearranged, okay.
+
+514
+00:39:15.240 --> 00:39:16.050
+Kostadis Roussos: Yes, yes.
+
+515
+00:39:16.210 --> 00:39:20.240
+Gabe: Oh, bird. You're ain't…
+
+516
+00:39:20.240 --> 00:39:25.270
+Kostadis Roussos: Humble characters. You're serious professionals here. You're no longer, you know, wet behind the ear.
+
+517
+00:39:25.270 --> 00:39:27.370
+Mike Hall: No, no, man, we're like, you know…
+
+518
+00:39:27.370 --> 00:39:31.779
+Kostadis Roussos: You are… you are the Ember… what is it? The Ember Grapple.
+
+519
+00:39:31.780 --> 00:39:32.680
+Mike Hall: The Endergrapple.
+
+520
+00:39:32.680 --> 00:39:37.849
+Ben Pfaff: Well, and we haven't had much of a chance to practice our bird calls in the Underdark, so it's about time.
+
+521
+00:39:37.850 --> 00:39:44.359
+Kostadis Roussos: There's been a maneuver you've been working on for some time, which throws everybody off, right? Okay.
+
+522
+00:39:44.360 --> 00:39:46.519
+Gabe: Just in case.
+
+523
+00:39:46.850 --> 00:39:50.049
+Gabe: Okay, I'm assuming we want to subdue this guy?
+
+524
+00:39:50.670 --> 00:39:52.850
+Kostadis Roussos: He is, I'm assuming, but…
+
+525
+00:39:53.410 --> 00:39:57.390
+Gabe: Okay, I mean, she's not a friend, alright.
+
+526
+00:39:58.510 --> 00:40:03.220
+Gabe: Then… oh, the diagonal… yeah, that's gone.
+
+527
+00:40:04.530 --> 00:40:07.520
+Gabe: Okay, well then I'll just march up to him and punch him a bunch.
+
+528
+00:40:10.620 --> 00:40:12.529
+Mike Hall: Do we know that he means us harm?
+
+529
+00:40:12.840 --> 00:40:18.069
+Mike Hall: Like, he's following us, we should find out what… so don't kill him, let's try to interrogate him.
+
+530
+00:40:18.210 --> 00:40:21.169
+Thorin (Joe): The label was Assassin, let's not split hairs here.
+
+531
+00:40:21.170 --> 00:40:26.150
+Kostadis Roussos: No, the label was Drow's Spy. I needed a character with the right abilities profiles, right?
+
+532
+00:40:26.150 --> 00:40:27.810
+Gabe: Even better.
+
+533
+00:40:28.340 --> 00:40:34.420
+Gabe: Okay, so I guess… let's try…
+
+534
+00:40:36.480 --> 00:40:40.039
+Kostadis Roussos: Okay, do you run in and slap, slap, slap him, or do you, like, teleport in?
+
+535
+00:40:40.560 --> 00:40:47.640
+Gabe: I was trying to decide how to best get advantage here. I guess I'm going to…
+
+536
+00:40:48.170 --> 00:40:50.880
+Gabe: teleport, so that I get advantage.
+
+537
+00:40:51.900 --> 00:40:56.730
+Gabe: Which means I can… T.
+
+538
+00:40:56.730 --> 00:40:57.310
+Mike Hall: Why?
+
+539
+00:40:58.410 --> 00:40:59.930
+Gabe: 24…
+
+540
+00:41:01.400 --> 00:41:02.840
+Kostadis Roussos: Okay, that's a hit.
+
+541
+00:41:02.840 --> 00:41:04.899
+Gabe: Yup, so he's grappled.
+
+542
+00:41:05.530 --> 00:41:09.579
+Gabe: And then, because I attacked, I can attack again…
+
+543
+00:41:10.230 --> 00:41:16.980
+Gabe: 19… okay, so I did 14 plus 11 damage.
+
+544
+00:41:18.160 --> 00:41:20.470
+Gabe: da-da-da.
+
+545
+00:41:21.230 --> 00:41:26.990
+Gabe: So I will also, just for fun, I will attempt a stunning strike.
+
+546
+00:41:26.990 --> 00:41:27.930
+Kostadis Roussos: Okay.
+
+547
+00:41:28.290 --> 00:41:32.459
+Gabe: So he has to make a DC-13 Constitution save.
+
+548
+00:41:33.150 --> 00:41:33.970
+Kostadis Roussos: Okay.
+
+549
+00:41:40.670 --> 00:41:44.679
+Kostadis Roussos: You can see their deemed constitution saying, alright, so it's a plus 2.
+
+550
+00:41:47.030 --> 00:41:48.820
+Kostadis Roussos: He is stunned.
+
+551
+00:41:48.820 --> 00:41:52.989
+Gabe: Stunned! Great. Okay, and that is the conclusion of my turn.
+
+552
+00:41:54.470 --> 00:41:56.219
+Gabe: Oh, he's grappled with two, also.
+
+553
+00:41:56.900 --> 00:41:58.120
+Kostadis Roussos: I've also grappled.
+
+554
+00:41:58.120 --> 00:41:58.700
+Gabe: Yes.
+
+555
+00:41:59.270 --> 00:42:00.929
+Kostadis Roussos: Well, this is the embryograph.
+
+556
+00:42:04.060 --> 00:42:04.670
+Kostadis Roussos: Alright.
+
+557
+00:42:05.030 --> 00:42:10.110
+Kostadis Roussos: Stunned and grappled. Okay. Thorin, you're up.
+
+558
+00:42:12.460 --> 00:42:19.860
+Thorin (Joe): I mean… I walk up to him, and I start interrogating him, asking who does number 2 work for?
+
+559
+00:42:20.630 --> 00:42:27.590
+Thorin (Joe): Oh, that's… I'm sorry, that's a reference to, one of the, austin Powers movies.
+
+560
+00:42:27.590 --> 00:42:29.630
+Kostadis Roussos: No, I thought it was a reference to the prisoner.
+
+561
+00:42:30.230 --> 00:42:33.000
+Thorin (Joe): No, no, there's a hilarious scene where he's in the bathroom.
+
+562
+00:42:33.000 --> 00:42:33.729
+Kostadis Roussos: Oh, yeah.
+
+563
+00:42:33.730 --> 00:42:34.380
+Thorin (Joe): I'm Arnold.
+
+564
+00:42:34.380 --> 00:42:35.460
+Kostadis Roussos: You know, that's the line from the.
+
+565
+00:42:35.460 --> 00:42:40.799
+Thorin (Joe): Those number two workforce. But, like, I think at this point, I don't… we don't want to kill him.
+
+566
+00:42:40.800 --> 00:42:41.420
+Kostadis Roussos: Right?
+
+567
+00:42:41.590 --> 00:42:43.410
+Ben Pfaff: I want to be interrogate.
+
+568
+00:42:43.410 --> 00:42:46.960
+Thorin (Joe): I guess I walk up, and, like, how far would that be? Like…
+
+569
+00:42:47.180 --> 00:42:49.740
+Thorin (Joe): Well, I can't get quite that close, so…
+
+570
+00:42:51.330 --> 00:42:53.700
+Gabe: Oh, do you want him closer? I can drag him to you.
+
+571
+00:42:54.500 --> 00:42:58.840
+Thorin (Joe): I'm just thinking, like, we just want to put him in restraints at this point, right? We just want to make sure he's not escaping.
+
+572
+00:42:58.840 --> 00:43:09.539
+Kostadis Roussos: Yeah, if you want… so here's the deal. Thorin, if he uses his javelin, that doesn't count as subduing damage, only melee attacks do. So if you want to bring him so that Thorin can attack him, you probably would have the dragon.
+
+573
+00:43:09.540 --> 00:43:14.679
+Thorin (Joe): I don't think we want to hurt him, we just want to make sure that he's totally tied up and sort of at our mercy.
+
+574
+00:43:15.240 --> 00:43:16.890
+Thorin (Joe): Interrogate him and end the fight.
+
+575
+00:43:16.890 --> 00:43:21.570
+Gabe: Well, he is actively grappled and currently stunned. He's pretty subdued.
+
+576
+00:43:22.460 --> 00:43:29.750
+Thorin (Joe): Yeah, so… I guess I get close and I start asking questions and see if he's answers, like, why are you following us? Who do you work for?
+
+577
+00:43:37.070 --> 00:43:41.539
+Kostadis Roussos: You're not gonna attack her, you're just gonna, like… with that? Alright.
+
+578
+00:43:41.540 --> 00:43:54.829
+Thorin (Joe): I mean, I could javelin him, but, like, at the end of the day, like, if we accidentally kill him, we can't get any information out of him, right? Right. I mean, I don't know, maybe we can resurrect him from the dead and, like, interrogate his corpse or something, but that just seems like a lot of effort.
+
+579
+00:43:56.130 --> 00:43:57.529
+Kostadis Roussos: So what did you ask her?
+
+580
+00:43:58.200 --> 00:43:59.089
+Thorin (Joe): But to her?
+
+581
+00:43:59.090 --> 00:43:59.730
+Kostadis Roussos: Yes.
+
+582
+00:44:00.380 --> 00:44:01.150
+Gabe: Oh.
+
+583
+00:44:02.400 --> 00:44:04.320
+Thorin (Joe): Does that change your actions, Gabe?
+
+584
+00:44:05.330 --> 00:44:08.370
+Gabe: I mean, I feel slightly more bad, but no.
+
+585
+00:44:08.370 --> 00:44:11.599
+Kostadis Roussos: No, I mean, just to be clear, the drow are a matriarchal society.
+
+586
+00:44:11.600 --> 00:44:23.049
+Thorin (Joe): I'd be like, why are you following us? Who do you work for? You know? And then maybe something intimidating, like, you're in our half of the world now.
+
+587
+00:44:23.850 --> 00:44:27.210
+Kostadis Roussos: Alright, so you're… so you're gonna try to… you're gonna try to go with the intimidation?
+
+588
+00:44:27.740 --> 00:44:28.270
+Thorin (Joe): I prefer hat.
+
+589
+00:44:28.270 --> 00:44:28.950
+Ben Pfaff: F.
+
+590
+00:44:29.120 --> 00:44:32.960
+Thorin (Joe): I don't think it's… I mean, it's not like… I'm not faking it, like, at the end of the day.
+
+591
+00:44:32.960 --> 00:44:37.649
+Kostadis Roussos: No, no, you're not, no, I'm just… I'm actually literally… I'm asking because I need you to roll something, that's what I'm asking.
+
+592
+00:44:38.250 --> 00:44:44.660
+Kostadis Roussos: I'm mechanically asking, which of the many different ways are you approaching it so that we can write the.
+
+593
+00:44:44.660 --> 00:44:47.160
+Thorin (Joe): I'll do intimidation, sure.
+
+594
+00:44:47.160 --> 00:44:50.540
+Kostadis Roussos: Okay, that's… that was why I was asking, not for any other.
+
+595
+00:44:52.290 --> 00:44:53.110
+Thorin (Joe): 15.
+
+596
+00:44:53.110 --> 00:45:00.600
+Kostadis Roussos: Alright, 15. She goes… she sort of tries to… well, she's stunned right now, so how long does the stunning last, Gabe?
+
+597
+00:45:01.040 --> 00:45:04.110
+Gabe: It is… da-da-da-da…
+
+598
+00:45:05.430 --> 00:45:07.680
+Thorin (Joe): Maybe I yell at her and she doesn't respond, I mean…
+
+599
+00:45:07.680 --> 00:45:09.139
+Gabe: The start of my turn.
+
+600
+00:45:09.790 --> 00:45:14.539
+Kostadis Roussos: Alright, so yeah, so she kind of just… you yell at her, and she kind of just looks at you funny.
+
+601
+00:45:14.540 --> 00:45:18.389
+Thorin (Joe): Alright, so I'm close, I can support next turn, and
+
+602
+00:45:18.770 --> 00:45:21.140
+Thorin (Joe): I hope somebody ties her up before then, so…
+
+603
+00:45:21.300 --> 00:45:21.890
+Kostadis Roussos: Yep.
+
+604
+00:45:22.140 --> 00:45:23.030
+Kostadis Roussos: Okay.
+
+605
+00:45:23.720 --> 00:45:28.410
+Kostadis Roussos: Alright, Grygum, you're gonna run up, I presume?
+
+606
+00:45:29.130 --> 00:45:32.539
+Ben Pfaff: I mean, I… I don't see a deer, right?
+
+607
+00:45:33.060 --> 00:45:39.550
+Kostadis Roussos: Well, everybody's kind of left, and like, you're kind of… you were getting ready to sleep, and everybody's gone, and…
+
+608
+00:45:39.740 --> 00:45:40.809
+Kostadis Roussos: there's, like…
+
+609
+00:45:40.810 --> 00:45:45.510
+Ben Pfaff: No, yeah, okay, it looks like everyone ran over,
+
+610
+00:45:45.510 --> 00:45:48.160
+Kostadis Roussos: I'm glad Magoo's still there and goes.
+
+611
+00:45:48.480 --> 00:45:54.700
+Kostadis Roussos: I think they found someone! There was a creature that went, and he does a really bad bird imitation.
+
+612
+00:45:54.700 --> 00:45:58.480
+Ben Pfaff: Okay, well, come with Glabbagool, we'll go, we'll go check on it.
+
+613
+00:45:58.480 --> 00:46:00.610
+Kostadis Roussos: Alright, so, you know, global gold moves slowly…
+
+614
+00:46:00.610 --> 00:46:02.589
+Ben Pfaff: Have you ever met a bird before, Glabbagool?
+
+615
+00:46:04.230 --> 00:46:05.419
+Kostadis Roussos: Is it a kind of ooze?
+
+616
+00:46:06.060 --> 00:46:09.970
+Ben Pfaff: No, no, they're… they're not oozy at all, they're feathered.
+
+617
+00:46:12.520 --> 00:46:14.190
+Kostadis Roussos: He's very confused.
+
+618
+00:46:14.660 --> 00:46:16.890
+Thorin (Joe): but smaller. Oh, wait, you don't know what a dinosaur is.
+
+619
+00:46:16.890 --> 00:46:19.840
+Ben Pfaff: We'll introduce you. Yeah, yeah, I wander over there.
+
+620
+00:46:19.840 --> 00:46:25.590
+Kostadis Roussos: Alright, okay. Okay, so, daz, it's your turn now.
+
+621
+00:46:25.900 --> 00:46:27.400
+Thorin (Joe): Are there dinosaurs in this universe?
+
+622
+00:46:27.400 --> 00:46:33.529
+Kostadis Roussos: I mean, hold on, you can do something… unfortunately, the victim is currently stunned.
+
+623
+00:46:34.090 --> 00:46:34.890
+Mike Hall: Okay.
+
+624
+00:46:35.750 --> 00:46:36.940
+Mike Hall: I will…
+
+625
+00:46:36.940 --> 00:46:39.789
+Thorin (Joe): I'm yelling, somebody tie her up!
+
+626
+00:46:53.910 --> 00:47:01.240
+Mike Hall: I will… I can… I can, probably…
+
+627
+00:47:02.300 --> 00:47:05.089
+Mike Hall: Earth bomb… no, that's for flying things.
+
+628
+00:47:05.590 --> 00:47:09.530
+Mike Hall: I have that elemental grasp, but that's probably my killer.
+
+629
+00:47:09.900 --> 00:47:13.080
+Mike Hall: If she's already stunned, I'm just gonna get down out of the tree.
+
+630
+00:47:13.510 --> 00:47:14.580
+Kostadis Roussos: And you can tire up.
+
+631
+00:47:14.900 --> 00:47:25.169
+Mike Hall: And, yeah, just, like, get… yeah, tie her up and get ready for, her to come to from her grapple, and then… or her, stun, and then we'll… we'll… we have some questions we'd like to ask.
+
+632
+00:47:25.390 --> 00:47:29.500
+Kostadis Roussos: Very politely, very friendly, like, you know, nothing, nothing, nothing…
+
+633
+00:47:29.500 --> 00:47:31.260
+Mike Hall: Like, the… she… she…
+
+634
+00:47:31.770 --> 00:47:38.239
+Mike Hall: And while I'm tying her up, I can just say it's very rude to follow people without just coming up and talking to them, so we'll talk to you now.
+
+635
+00:47:38.650 --> 00:47:43.339
+Mike Hall: After you are not stunned anymore, assuming that she can still hear us when she's here.
+
+636
+00:47:43.340 --> 00:47:45.240
+Kostadis Roussos: Yes, she can, she can.
+
+637
+00:47:45.470 --> 00:47:54.690
+Kostadis Roussos: All right, okay, so, the, the, the, she's tied up, and I think at this point in time it's Zalthir's turn, so she is no longer stunned, and she goes.
+
+638
+00:47:55.060 --> 00:47:58.809
+Kostadis Roussos: She acts very, you know… she tries to look at you and says.
+
+639
+00:48:01.320 --> 00:48:04.720
+Kostadis Roussos: Zalthir, it's your turn, so you can decide what you want to ask her first.
+
+640
+00:48:07.420 --> 00:48:12.510
+Gabe: Who are you? Why are you following us? Are you a friend or foe?
+
+641
+00:48:14.740 --> 00:48:15.800
+Mike Hall: Good questions.
+
+642
+00:48:15.800 --> 00:48:18.470
+Kostadis Roussos: Good questions, always good questions. She looks at you and says.
+
+643
+00:48:18.610 --> 00:48:28.939
+Kostadis Roussos: And who are… and what is your… why should I tell you anything? You will kill me on the spot and leave nothing… leave nothing. What do I have to gain from talking to you?
+
+644
+00:48:29.830 --> 00:48:34.329
+Gabe: I have no particular desire to kill you, unless you mean us harm.
+
+645
+00:48:35.650 --> 00:48:47.990
+Kostadis Roussos: She looks at you very carefully and says, I am of House T'sarran, and not give my name. Take my pill wafi if you want a trophy. My matron will know one of hers fell out here and that is enough.
+
+646
+00:48:50.790 --> 00:48:56.870
+Thorin (Joe): Or we can just let you go and say that you failed, and then when we meet your matron, we'll let them know how pathetic you are.
+
+647
+00:48:58.670 --> 00:49:00.779
+Ben Pfaff: That's almost the same as killing her, I think.
+
+648
+00:49:01.160 --> 00:49:02.210
+Mike Hall: Yeah, probably.
+
+649
+00:49:02.210 --> 00:49:02.770
+Kostadis Roussos: Oof.
+
+650
+00:49:03.350 --> 00:49:04.000
+Kostadis Roussos: Oh, good.
+
+651
+00:49:04.000 --> 00:49:07.270
+Thorin (Joe): What's a fate worse than death for somebody like that, you know?
+
+652
+00:49:07.270 --> 00:49:10.589
+Kostadis Roussos: Yeah. So, I mean, you can try intimidating her, you can try seeing, like.
+
+653
+00:49:10.590 --> 00:49:12.910
+Thorin (Joe): I already intimidated her, but she was stunned.
+
+654
+00:49:13.370 --> 00:49:14.629
+Kostadis Roussos: Okay, you can try again.
+
+655
+00:49:14.860 --> 00:49:15.640
+Thorin (Joe): Sure.
+
+656
+00:49:18.630 --> 00:49:21.200
+Kostadis Roussos: EPK, everybody died, roll new characters.
+
+657
+00:49:21.200 --> 00:49:21.770
+Ben Pfaff: Oh!
+
+658
+00:49:21.770 --> 00:49:24.920
+Kostadis Roussos: We were in the midst of doing that. You disrupted.
+
+659
+00:49:24.920 --> 00:49:27.069
+Thorin (Joe): not work as well.
+
+660
+00:49:27.070 --> 00:49:30.619
+Ben Pfaff: I met… I met the source of that voice the other day.
+
+661
+00:49:30.620 --> 00:49:31.160
+Gabe: Alright.
+
+662
+00:49:31.760 --> 00:49:32.930
+Ben Pfaff: Yesterday, in fact.
+
+663
+00:49:33.460 --> 00:49:36.519
+Kostadis Roussos: That's true, she was… Two days ago.
+
+664
+00:49:36.520 --> 00:49:36.879
+Gabe: But did you…
+
+665
+00:49:36.880 --> 00:49:37.330
+Ben Pfaff: I don't know.
+
+666
+00:49:37.330 --> 00:49:40.680
+Gabe: Did he kill you in person, too, or is it only a Zoom thing?
+
+667
+00:49:40.810 --> 00:49:44.670
+Ben Pfaff: I didn't ask for a, you know, a… I really appreciate it.
+
+668
+00:49:46.540 --> 00:49:49.229
+Kostadis Roussos: Alright, so who's trying to intimidate her?
+
+669
+00:49:50.150 --> 00:49:57.390
+Kostadis Roussos: You, you were trying to intimidate? I fail. I failed. Oh yeah, you, you, you, well, yeah, you, you really did. She, she, she, she laughs in your face.
+
+670
+00:50:00.470 --> 00:50:03.890
+Kostadis Roussos: Oh. Grygum, you're up.
+
+671
+00:50:10.320 --> 00:50:18.420
+Ben Pfaff: Well, what do I have that… that's, what…
+
+672
+00:50:18.810 --> 00:50:22.509
+Kostadis Roussos: So, so, so roll… so roll an insight, Chuck, just for a moment.
+
+673
+00:50:22.510 --> 00:50:23.420
+Ben Pfaff: Okay.
+
+674
+00:50:23.420 --> 00:50:24.730
+Kostadis Roussos: Yeah, roll it inside. Rollin'.
+
+675
+00:50:24.730 --> 00:50:28.369
+Ben Pfaff: As a person, I'm just kind of baffled here.
+
+676
+00:50:28.370 --> 00:50:44.799
+Kostadis Roussos: Yes, as a person, right? So, you know, you're a half-orc, and you know that drow on the surface really hate the sun, and they're very miserable, and, you know, this… whoever this person is, they're probably very low on the food chain, or, you know, they got stuck with this job, and, you know, they're putting on a brave face.
+
+677
+00:50:46.250 --> 00:50:51.549
+Ben Pfaff: Hey, are you, you looking for a new job? We could use, What week is…
+
+678
+00:50:51.550 --> 00:50:53.119
+Kostadis Roussos: a novel approach.
+
+679
+00:50:53.920 --> 00:50:58.709
+Ben Pfaff: We could use, you know, another, another helper.
+
+680
+00:51:03.500 --> 00:51:07.410
+Kostadis Roussos: Roll a, persuasion, like… Persuasion.
+
+681
+00:51:08.750 --> 00:51:09.460
+Mike Hall: Whoa.
+
+682
+00:51:09.460 --> 00:51:10.300
+Ben Pfaff: 19.
+
+683
+00:51:12.140 --> 00:51:16.509
+Kostadis Roussos: She looks at you very confused.
+
+684
+00:51:17.410 --> 00:51:24.699
+Ben Pfaff: I, I mean, we're, we're just trying to, get, get along here, and…
+
+685
+00:51:24.700 --> 00:51:27.700
+Kostadis Roussos: She's, like, kind of like, I, dumb.
+
+686
+00:51:29.410 --> 00:51:37.200
+Kostadis Roussos: look, you know, I was just assigned to track you, not to engage.
+
+687
+00:51:37.910 --> 00:51:40.369
+Ben Pfaff: Well, that, that, that has passed.
+
+688
+00:51:40.370 --> 00:51:41.310
+Mike Hall: Oh, you might…
+
+689
+00:51:41.310 --> 00:51:43.029
+Ben Pfaff: We have engaged.
+
+690
+00:51:43.030 --> 00:51:58.430
+Kostadis Roussos: Well, you know, my… look, look, I think, you know, we could… this… she's, like, very confused, like, wait, I might live? She's got that kind of, like, wait, I might walk out of this with my head still attached to my shoulders, these people will not kill me. She's very confused at this point in time, right? You know, look.
+
+691
+00:51:58.700 --> 00:52:05.960
+Kostadis Roussos: And, and, you guys know enough about drows to know that they're all backstabbing self-absorbed, like, they're…
+
+692
+00:52:05.960 --> 00:52:07.449
+Mike Hall: For me. Except for me, of course.
+
+693
+00:52:07.450 --> 00:52:10.910
+Kostadis Roussos: Yes, because you can't remember much of your life as a drow.
+
+694
+00:52:10.910 --> 00:52:11.660
+Mike Hall: That is correct.
+
+695
+00:52:13.800 --> 00:52:29.360
+Kostadis Roussos: Because you are, in fact, you know, unaware of the whole drow thing, like… So, she begins, I was assigned to track you, not to engage. My orders were to report your surface destination, your contact, who approaches you.
+
+696
+00:52:29.700 --> 00:52:30.730
+Kostadis Roussos: you know…
+
+697
+00:52:30.930 --> 00:52:38.019
+Kostadis Roussos: My matron was waiting for you to surface, and she, when she… when she saw you where she was.
+
+698
+00:52:38.200 --> 00:52:45.129
+Kostadis Roussos: She, she, she, you know, she sent me up, she sent a couple of us up to the overbright.
+
+699
+00:52:45.850 --> 00:52:54.700
+Kostadis Roussos: to, find, to see where you guys were, and, you know, we heard, we, we, we, we, one, I got lucky, and I, and I spotted you!
+
+700
+00:52:56.150 --> 00:52:58.490
+Thorin (Joe): Probably not feeling so lucky right now.
+
+701
+00:52:58.490 --> 00:53:04.999
+Kostadis Roussos: Well, you guys said, you know, like, I'm trying to make sure that this is kind of a business relationship.
+
+702
+00:53:05.690 --> 00:53:15.970
+Kostadis Roussos: This is kind of a business. You guys have said that I get to walk away, right? Like, I get to leave, like, nothing bad has to happen, like, no threats, no intimidation.
+
+703
+00:53:16.670 --> 00:53:21.449
+Kostadis Roussos: Roll an insight check, or investigation check, DAS.
+
+704
+00:53:23.450 --> 00:53:28.790
+Mike Hall: Jeez… I got a 27 and a 24, so 27.
+
+705
+00:53:28.790 --> 00:53:32.740
+Kostadis Roussos: Alright, yeah, okay, she's kind of trying to look at you and not trying to look at you.
+
+706
+00:53:34.030 --> 00:53:34.790
+Mike Hall: So she…
+
+707
+00:53:34.790 --> 00:53:37.100
+Thorin (Joe): 27, you can be a little bit more specific than that.
+
+708
+00:53:37.100 --> 00:53:38.740
+Kostadis Roussos: No, I mean, like… Yeah, I mean…
+
+709
+00:53:38.740 --> 00:53:39.860
+Thorin (Joe): So she…
+
+710
+00:53:39.860 --> 00:53:41.270
+Mike Hall: She… she…
+
+711
+00:53:41.270 --> 00:53:45.869
+Kostadis Roussos: No, wait, sorry, I'm sorry, I thought that was specific… hold on, I thought that was specific. Let me, let me decode…
+
+712
+00:53:45.870 --> 00:53:47.030
+Ben Pfaff: Sorry.
+
+713
+00:53:47.030 --> 00:53:48.860
+Kostadis Roussos: I thought it was be… I thought it was being… this is…
+
+714
+00:53:49.080 --> 00:53:53.330
+Kostadis Roussos: specific. So what I meant to say is, You clearly see that
+
+715
+00:53:53.580 --> 00:54:01.850
+Kostadis Roussos: She what that… the thing… the person she seems to be most… the only person she seems to be interested in knowing… talking… spotting is you.
+
+716
+00:54:02.010 --> 00:54:10.929
+Kostadis Roussos: She doesn't really seem… like, it's kind of like she's trying really hard to not make it obvious that whoever was sent to track was not sent to track the party, but was sent to track.
+
+717
+00:54:10.930 --> 00:54:16.090
+Mike Hall: Me. You. And so this is, like, we have these… we have these, mercenaries.
+
+718
+00:54:16.390 --> 00:54:17.060
+Mike Hall: Burke King?
+
+719
+00:54:17.060 --> 00:54:17.410
+Kostadis Roussos: They have a lot.
+
+720
+00:54:17.410 --> 00:54:17.770
+Mike Hall: after midnight.
+
+721
+00:54:17.770 --> 00:54:18.560
+Kostadis Roussos: Look, they've…
+
+722
+00:54:18.560 --> 00:54:23.590
+Mike Hall: No, but they came because of me to help me through… Some encounter.
+
+723
+00:54:23.940 --> 00:54:24.520
+Kostadis Roussos: Yes.
+
+724
+00:54:24.520 --> 00:54:30.210
+Mike Hall: And then we have this one that's tracking me, it feels like. Yes. Why am I so important?
+
+725
+00:54:31.470 --> 00:54:34.110
+Kostadis Roussos: You don't… you do… is that what you ask?
+
+726
+00:54:35.190 --> 00:54:38.740
+Mike Hall: 21? Yes.
+
+727
+00:54:39.420 --> 00:54:50.769
+Mike Hall: So, like, we may be able to figure something out where you live, but first you need to answer some questions. Why am I so important that you're trying hard not to make it look like you're following me, but you're following me?
+
+728
+00:54:52.490 --> 00:54:53.760
+Kostadis Roussos: She shrugs.
+
+729
+00:54:54.330 --> 00:54:58.089
+Kostadis Roussos: And says, the Matron Mother was interested in you.
+
+730
+00:54:59.430 --> 00:55:00.860
+Mike Hall: Who's your matron mother?
+
+731
+00:55:03.180 --> 00:55:07.919
+Kostadis Roussos: She laughs at you, you have not heard? Are you not drow?
+
+732
+00:55:08.780 --> 00:55:11.189
+Mike Hall: I'm drow, but I've been underground for a while.
+
+733
+00:55:13.000 --> 00:55:14.840
+Kostadis Roussos: You realize how absurd that sounds?
+
+734
+00:55:14.840 --> 00:55:15.559
+Mike Hall: I know.
+
+735
+00:55:15.560 --> 00:55:16.430
+Gabe: The opposite, right?
+
+736
+00:55:17.200 --> 00:55:18.759
+Mike Hall: Well, or underground.
+
+737
+00:55:18.760 --> 00:55:20.319
+Kostadis Roussos: But this further confirms.
+
+738
+00:55:20.320 --> 00:55:27.579
+Mike Hall: Let me just put it this way. Let me correct that. I've been away from home for a while.
+
+739
+00:55:28.370 --> 00:55:29.010
+Kostadis Roussos: Hmm.
+
+740
+00:55:29.340 --> 00:55:34.100
+Kostadis Roussos: He pauses and says, Let me get the name, I do have a name, give me a second…
+
+741
+00:55:35.180 --> 00:55:38.520
+Gabe: But it's the matron of the clan, right? So that is a specific…
+
+742
+00:55:38.750 --> 00:55:39.150
+Kostadis Roussos: Yeah.
+
+743
+00:55:39.150 --> 00:55:40.800
+Gabe: entity, anyway, right.
+
+744
+00:55:40.800 --> 00:55:43.870
+Kostadis Roussos: Yeah, so I'm about to give you the name. I actually have a name for it.
+
+745
+00:55:43.980 --> 00:55:46.149
+Kostadis Roussos: But I need to, get it.
+
+746
+00:55:58.160 --> 00:56:02.700
+Gabe: This is a different house than the other one, from the mercenaries, right?
+
+747
+00:56:02.700 --> 00:56:03.430
+Kostadis Roussos: Yes.
+
+748
+00:56:04.400 --> 00:56:05.200
+Gabe: Okay.
+
+749
+00:56:05.620 --> 00:56:08.839
+Gabe: So it's not just them. Not just the house.
+
+750
+00:56:09.840 --> 00:56:17.259
+Kostadis Roussos: She introduces herself as my… oh, I'm sorry, I went… I'm looking for it in the wrong place.
+
+751
+00:56:19.390 --> 00:56:27.570
+Kostadis Roussos: Anyway, I will tell you in a second. She explains, the matron mother of House T'sarran, you do not know who she is, she has ruled the house for 200 years.
+
+752
+00:56:28.220 --> 00:56:30.010
+Mike Hall: Like I said, I've been away from home for a bit.
+
+753
+00:56:32.600 --> 00:56:36.040
+Kostadis Roussos: She looks at you very… she looks at you very confused.
+
+754
+00:56:38.500 --> 00:56:42.820
+Kostadis Roussos: She looks at you very confused. Alright.
+
+755
+00:56:50.000 --> 00:56:51.889
+Kostadis Roussos: So.
+
+756
+00:56:51.890 --> 00:57:02.649
+Ben Pfaff: If she isn't inclined to join us, I have a… I have an interesting idea for a threat in case she decides to leave.
+
+757
+00:57:03.840 --> 00:57:09.769
+Kostadis Roussos: Well, she, she, she's a… she… okay, so… so your intuition is that she's going… like, you…
+
+758
+00:57:11.430 --> 00:57:14.389
+Kostadis Roussos: The best you can hope for is temporary leverage.
+
+759
+00:57:17.260 --> 00:57:18.200
+Mike Hall: Right.
+
+760
+00:57:18.570 --> 00:57:19.780
+Kostadis Roussos: Right, that's all I'm saying.
+
+761
+00:57:23.910 --> 00:57:33.370
+Kostadis Roussos: So, what, so, okay, so she, so she, so she says this, that, that, that the matron mother was, was most interested in you.
+
+762
+00:57:34.120 --> 00:57:34.890
+Mike Hall: Why?
+
+763
+00:57:35.820 --> 00:57:39.080
+Kostadis Roussos: Okay.
+
+764
+00:57:39.080 --> 00:57:40.710
+Ben Pfaff: I have a feeling that she didn't say.
+
+765
+00:57:48.590 --> 00:57:52.610
+Ben Pfaff: But why would she usually be interested in someone?
+
+766
+00:57:57.230 --> 00:58:11.939
+Kostadis Roussos: So, if you want to, look at… if you want to get the why, you're going to have to… you get the intuition, you're going to have to try to make… get some more leverage on her. Intimidate her, scare her, offer her something.
+
+767
+00:58:14.450 --> 00:58:16.389
+Mike Hall: Like, that she gets to live?
+
+768
+00:58:19.520 --> 00:58:25.809
+Thorin (Joe): If you want to intimidate her, we can threaten to actually leave her out, exposed to the bright, over bright sun.
+
+769
+00:58:26.060 --> 00:58:30.350
+Gabe: Do you even need to? Because you're holding Dawnbringer, like, next to her head.
+
+770
+00:58:30.660 --> 00:58:33.970
+Thorin (Joe): So maybe I tell Dawnbringer, like, be extra bright.
+
+771
+00:58:35.040 --> 00:58:38.080
+Thorin (Joe): Shine, Dawnbringer, shine!
+
+772
+00:58:40.620 --> 00:58:51.210
+Kostadis Roussos: Okay, and Grygum, do you, like, try to intimidate her as well? Like, you know, you are a half-orc, you know the stories of the drow and how they've oppressed your people for centuries and millennia.
+
+773
+00:58:52.480 --> 00:58:55.780
+Ben Pfaff: I… I hand her the prayer beads and tell her to put them on.
+
+774
+00:58:57.460 --> 00:59:03.010
+Kostadis Roussos: Like, just that. That actually… that actually freaks her out. Like, that, that…
+
+775
+00:59:03.890 --> 00:59:14.859
+Kostadis Roussos: Like, all of a sudden, you know, she's part of a deeply… a religious cult, and, like, now she's, like, really worried. Like, when the priest hands over the beads, that actually is a moment of pure intimidation.
+
+776
+00:59:15.460 --> 00:59:20.690
+Ben Pfaff: Yeah, I have a follow-up to it if necessary, but that seemed like a good start.
+
+777
+00:59:20.690 --> 00:59:28.720
+Kostadis Roussos: Yeah, no, no, that was a very, she looks defeated, frustrated, annoyed…
+
+778
+00:59:28.830 --> 00:59:35.230
+Kostadis Roussos: And goes, my matron believes that the one who paid, and she points to Daz.
+
+779
+00:59:36.470 --> 00:59:40.410
+Kostadis Roussos: For him, will reveal themselves once he reaches the surface.
+
+780
+00:59:40.980 --> 00:59:42.900
+Mike Hall: I'm on the surface of Toril.
+
+781
+00:59:43.050 --> 00:59:46.079
+Kostadis Roussos: No, no, no, no, someone paid to protect you.
+
+782
+00:59:47.610 --> 00:59:50.540
+Kostadis Roussos: We're looking for that person, not for you.
+
+783
+00:59:50.540 --> 00:59:52.210
+Ben Pfaff: She is not wrong.
+
+784
+00:59:52.960 --> 00:59:56.389
+Kostadis Roussos: So, my matron believes the one who paid for him
+
+785
+00:59:57.030 --> 01:00:00.059
+Kostadis Roussos: Will reveal themselves once he reaches the surface.
+
+786
+01:00:00.250 --> 01:00:00.910
+Kostadis Roussos: was picked.
+
+787
+01:00:00.910 --> 01:00:03.570
+Mike Hall: So, we did, we did have some mercenaries help us.
+
+788
+01:00:03.730 --> 01:00:06.649
+Kostadis Roussos: Yes, but we don't know who the mercenaries worked for.
+
+789
+01:00:08.610 --> 01:00:11.170
+Kostadis Roussos: The mercenaries don't know who they worked for.
+
+790
+01:00:11.170 --> 01:00:20.440
+Mike Hall: Right, so no one knows who they work for. So basically, you're treating me as, bait.
+
+791
+01:00:20.920 --> 01:00:28.519
+Mike Hall: For your… in political… for your… Queen Mother's, political intrigue.
+
+792
+01:00:28.760 --> 01:00:34.390
+Mike Hall: You're watching and observing so that when something happens to me, you can go report back what happened to me.
+
+793
+01:00:34.720 --> 01:00:39.859
+Kostadis Roussos: Yes, because we are looking for the one who protect… who paid to have you protected.
+
+794
+01:00:40.540 --> 01:00:41.900
+Mike Hall: Why do you care?
+
+795
+01:00:44.180 --> 01:00:47.990
+Kostadis Roussos: She goes, the matron mother cares, and therefore I care. She doesn't have.
+
+796
+01:00:48.300 --> 01:00:59.030
+Ben Pfaff: Perhaps, perhaps we could conduct an experiment to find these people who are following or attempting to protect us.
+
+797
+01:00:59.600 --> 01:00:59.960
+Kostadis Roussos: Okay.
+
+798
+01:00:59.960 --> 01:01:00.720
+Ben Pfaff: Or him.
+
+799
+01:01:02.440 --> 01:01:10.089
+Ben Pfaff: I, I could, we, we could, find a place that, that's constricted, so…
+
+800
+01:01:10.300 --> 01:01:12.249
+Ben Pfaff: They'd have to pass through…
+
+801
+01:01:12.360 --> 01:01:19.209
+Ben Pfaff: As well, and then I could, I could inscribe a glyph of wording on it, and we could pass through and wait.
+
+802
+01:01:20.180 --> 01:01:37.090
+Kostadis Roussos: That is a plan, but the insight you get is that somebody… so the House T’sarran, the insight you're getting from House T’sarran is that they are convinced that somebody, some bigger power is looking to protect Daz.
+
+803
+01:01:39.050 --> 01:01:43.250
+Kostadis Roussos: Right? And they don't give a sh… and what you're also getting is they don't care about Daz, they care about that other power.
+
+804
+01:01:44.700 --> 01:01:54.790
+Kostadis Roussos: Right, Daz is an 8th level wizard, yes, yes, he's powerful, but nobody cares about him. The person who paid to have him protected, now that's interesting, because Daz doesn't know why he was protected.
+
+805
+01:01:55.510 --> 01:01:56.240
+Mike Hall: Right.
+
+806
+01:01:56.240 --> 01:02:03.679
+Kostadis Roussos: So, whoever is protecting Daz knows why Daz is valuable, so what's important is Daz is the protector, not Daz.
+
+807
+01:02:04.150 --> 01:02:07.929
+Ben Pfaff: That's why I was proposing that we try to find out who the protector is.
+
+808
+01:02:07.930 --> 01:02:17.700
+Kostadis Roussos: The… the… the… the drow sort of laughs at that hypothesis, thinking that, you know, that… but he says you can try.
+
+809
+01:02:20.820 --> 01:02:23.599
+Ben Pfaff: Now I'm curious why it would be a bad idea to try.
+
+810
+01:02:23.750 --> 01:02:38.289
+Gabe: Well, the theory is that this person is nowhere near me, right? They've sent mercenaries, and they've provided funding to some other organization to find Dev. They're not following us, they're pulling strings somewhere.
+
+811
+01:02:38.290 --> 01:02:41.599
+Kostadis Roussos: Yes, and so they're not, they're not gonna be literally present.
+
+812
+01:02:41.780 --> 01:02:45.149
+Ben Pfaff: Okay, it's, at a higher level than I was thinking.
+
+813
+01:02:45.150 --> 01:02:54.690
+Kostadis Roussos: Yes. So they're trying to see… they're trying to observe and collect information and see a slip-up by that person, and then collect more information and try to find out what's going on.
+
+814
+01:02:56.480 --> 01:03:03.670
+Gabe: It occurs to me, though, we're basically trying to do the same thing. We all want to know who's trying to protect Daz.
+
+815
+01:03:03.960 --> 01:03:06.600
+Mike Hall: And why, what their motivation is.
+
+816
+01:03:06.600 --> 01:03:12.319
+Kostadis Roussos: Everybody's like, why is everybody interested in this, like, no-name drow, like…
+
+817
+01:03:12.320 --> 01:03:14.489
+Mike Hall: Hey, hey, let's be careful.
+
+818
+01:03:15.010 --> 01:03:18.890
+Ben Pfaff: Well then, there's only one solution. We need to kill Daz.
+
+819
+01:03:19.630 --> 01:03:22.560
+Gabe: It's on the list, it's on the maybe list.
+
+820
+01:03:22.560 --> 01:03:26.350
+Ben Pfaff: And then we'll find out who's, who's protecting him.
+
+821
+01:03:26.590 --> 01:03:28.650
+Thorin (Joe): Do it, but make sure we can bring them back.
+
+822
+01:03:28.650 --> 01:03:30.599
+Ben Pfaff: Oh, I have a Revivize spell.
+
+823
+01:03:30.600 --> 01:03:33.600
+Thorin (Joe): Okay, you know, so that's just a temporary death. Yeah.
+
+824
+01:03:34.620 --> 01:03:36.169
+Ben Pfaff: Just a death light.
+
+825
+01:03:36.550 --> 01:03:40.199
+Thorin (Joe): Is Daz uncomfortable with this conversation?
+
+826
+01:03:41.020 --> 01:03:42.999
+Ben Pfaff: The first thing you do is shoot the hostage.
+
+827
+01:03:43.000 --> 01:03:53.379
+Kostadis Roussos: Alright. She then pauses and looks at you and says, don't think that killing me will stop the people spying on you. House T'sarran will keep sending people to follow you, blah blah blah.
+
+828
+01:03:53.380 --> 01:03:57.579
+Ben Pfaff: I'm not relying on killing you, I'm relying on the prayer beads.
+
+829
+01:03:58.200 --> 01:03:59.400
+Kostadis Roussos: Hello, soup now.
+
+830
+01:03:59.880 --> 01:04:00.700
+Kostadis Roussos: Staff.
+
+831
+01:04:01.180 --> 01:04:02.000
+Kostadis Roussos: Yes?
+
+832
+01:04:02.680 --> 01:04:04.850
+Kostadis Roussos: She pauses for a minute.
+
+833
+01:04:05.500 --> 01:04:06.530
+Kostadis Roussos: Huh.
+
+834
+01:04:07.600 --> 01:04:10.759
+Kostadis Roussos: Well, so how about this? She pauses and says, look.
+
+835
+01:04:11.140 --> 01:04:17.709
+Kostadis Roussos: Dude, for real, why are you yelling? Well, because I'm speaking too loudly. So what she… she turns around and says, hey, you know what?
+
+836
+01:04:18.140 --> 01:04:20.290
+Kostadis Roussos: How about if we had a different arrangement?
+
+837
+01:04:20.590 --> 01:04:23.319
+Kostadis Roussos: I need to keep spying on you, right?
+
+838
+01:04:24.880 --> 01:04:25.520
+Gabe: No.
+
+839
+01:04:25.700 --> 01:04:32.179
+Kostadis Roussos: Right? You guys want to find out who's following Daz, and I want to find out who's following Daz.
+
+840
+01:04:32.280 --> 01:04:44.170
+Kostadis Roussos: And I want to keep my head, and you don't want to keep killing agents of House T'sarran. So what if… what if… what if we… we came to a compromise? That if I find anything, I tell you. If you find anything, you tell me.
+
+841
+01:04:44.890 --> 01:04:50.750
+Thorin (Joe): Well, but we don't know that we want your matron to know who's following Daz.
+
+842
+01:04:51.380 --> 01:04:55.619
+Kostadis Roussos: See, how come I'm known as the source of the voice, not the source of the voice.
+
+843
+01:04:56.350 --> 01:04:57.470
+Thorin (Joe): I mean, both…
+
+844
+01:04:57.900 --> 01:04:59.409
+Gabe: I mean, if it's not acceptable…
+
+845
+01:04:59.410 --> 01:05:00.470
+Thorin (Joe): exclusive.
+
+846
+01:05:03.050 --> 01:05:05.469
+Ben Pfaff: Are you having a lamb stew?
+
+847
+01:05:05.470 --> 01:05:06.190
+Kostadis Roussos: Yes, sir.
+
+848
+01:05:06.210 --> 01:05:07.240
+Ben Pfaff: Mmm.
+
+849
+01:05:07.240 --> 01:05:08.410
+Kostadis Roussos: So,
+
+850
+01:05:08.600 --> 01:05:23.649
+Kostadis Roussos: So, going back to the conversation, so… so she's like, well, you can try renegotiating the terms, but basically she's saying, you know, I… if I give… give giving information to House T'sarran, whatever I find that you keep, whatever you find, we share, and, you know.
+
+851
+01:05:25.990 --> 01:05:37.030
+Ben Pfaff: Perhaps… perhaps you should not so much work with us as travel with us for a few days, and then we can all gather the same information.
+
+852
+01:05:37.030 --> 01:05:38.519
+Kostadis Roussos: Well, that's exactly what I was suggesting.
+
+853
+01:05:38.520 --> 01:05:40.739
+Thorin (Joe): Here's what we're gonna do. We're gonna take you with…
+
+854
+01:05:41.490 --> 01:05:43.930
+Thorin (Joe): And we're gonna keep you bound.
+
+855
+01:05:44.030 --> 01:05:49.620
+Thorin (Joe): But we're gonna treat you really well, so that when they send the next person to follow us, they'll know that you're a collaborator.
+
+856
+01:05:55.770 --> 01:05:59.280
+Kostadis Roussos: Look, I was offering a plan that both… we both get what we wanted. I get to.
+
+857
+01:05:59.280 --> 01:06:09.719
+Thorin (Joe): No, no, no, like, we're not sure that we want your matron to know what's going on here until we fully understand the situation, so we're committing to sharing of information that we don't know what that information is yet.
+
+858
+01:06:09.820 --> 01:06:14.370
+Thorin (Joe): with parties that we don't know that well. So, you know, the whole thing is very sketchy.
+
+859
+01:06:15.960 --> 01:06:16.680
+Mike Hall: Yeah.
+
+860
+01:06:17.640 --> 01:06:19.589
+Gabe: Like, why should we trust you?
+
+861
+01:06:19.860 --> 01:06:26.110
+Thorin (Joe): Yeah, that's the other thing, is that you find something, and then you just take off, and you never tell us, and, like, what are we gonna do? Like, go, like…
+
+862
+01:06:26.410 --> 01:06:28.639
+Thorin (Joe): Rager, like, you know…
+
+863
+01:06:29.530 --> 01:06:30.769
+Kostadis Roussos: I mean, that's all these are all good.
+
+864
+01:06:30.770 --> 01:06:36.619
+Thorin (Joe): Oh, where do Drow gather anyways? It's not a keep. Is it Warren? Is it a, like…
+
+865
+01:06:37.050 --> 01:06:44.480
+Thorin (Joe): frickin' a den? I mean, I don't know, whatever you guys hang out in, we're not gonna go raid that to kill you after this, right?
+
+866
+01:06:45.150 --> 01:06:46.330
+Kostadis Roussos: So.
+
+867
+01:06:46.330 --> 01:06:48.040
+Ben Pfaff: Unless we really have to.
+
+868
+01:06:48.830 --> 01:06:50.730
+Thorin (Joe): I mean, we could, let's be clear.
+
+869
+01:06:50.910 --> 01:06:53.399
+Kostadis Roussos: She's like, well.
+
+870
+01:06:53.560 --> 01:06:58.679
+Kostadis Roussos: You know, I like the idea of me following you. As long as I keep submitting reports, nobody has to know.
+
+871
+01:07:00.850 --> 01:07:01.390
+Gabe: Again.
+
+872
+01:07:01.390 --> 01:07:07.210
+Thorin (Joe): But again, what's your motivation to actually share any information with us once you get it, versus just send the report in and then take off?
+
+873
+01:07:08.210 --> 01:07:12.649
+Kostadis Roussos: Oh, I mean… We, we, we, we could, send the report together?
+
+874
+01:07:12.950 --> 01:07:13.870
+Kostadis Roussos: I suspect…
+
+875
+01:07:13.870 --> 01:07:16.319
+Ben Pfaff: This isn't a permanent arrangement, Thorin.
+
+876
+01:07:16.710 --> 01:07:26.099
+Thorin (Joe): I'm just saying I don't buy it. I think, you know, the minute that she has the information she needs, she's off, and we get… we get jack shit.
+
+877
+01:07:26.380 --> 01:07:29.299
+Ben Pfaff: But there might be some mutual benefits along the way.
+
+878
+01:07:29.530 --> 01:07:34.739
+Ben Pfaff: And… and I just sort of pause and look at the prayer beads.
+
+879
+01:07:34.740 --> 01:07:35.430
+Kostadis Roussos: Right.
+
+880
+01:07:37.200 --> 01:07:41.749
+Thorin (Joe): Well, I mean, like, once she puts the prayer beads on, she can't take them off, right?
+
+881
+01:07:41.750 --> 01:07:42.889
+Ben Pfaff: That's right.
+
+882
+01:07:43.890 --> 01:07:45.720
+Kostadis Roussos: She's looking very nervous now.
+
+883
+01:07:46.460 --> 01:07:48.189
+Thorin (Joe): I mean, that's just how these things work.
+
+884
+01:07:48.500 --> 01:07:48.820
+Kostadis Roussos: Yes.
+
+885
+01:07:48.820 --> 01:07:50.430
+Ben Pfaff: Tis the way of the curse.
+
+886
+01:07:50.600 --> 01:07:54.319
+Kostadis Roussos: Right? She's, like, now very nervous.
+
+887
+01:07:55.930 --> 01:07:58.150
+Kostadis Roussos: She looks, look.
+
+888
+01:07:58.520 --> 01:08:01.570
+Kostadis Roussos: How about this? The only prob… so she goes.
+
+889
+01:08:01.770 --> 01:08:04.560
+Kostadis Roussos: It's my understanding you're going to Candlekeep, yes?
+
+890
+01:08:06.710 --> 01:08:09.690
+Thorin (Joe): Neither confirm nor deny those allegations.
+
+891
+01:08:09.690 --> 01:08:16.320
+Kostadis Roussos: Well, if you're going to Candlekeep, we could make an arrangement. You drag me along to Candlekeep, and then hand me over to the Candlekeep guards.
+
+892
+01:08:18.660 --> 01:08:19.560
+Thorin (Joe): Okay.
+
+893
+01:08:19.560 --> 01:08:21.180
+Mike Hall: Okay… what's up?
+
+894
+01:08:21.189 --> 01:08:24.559
+Kostadis Roussos: They put me in prison, and if I escape, I escape, and if I don't, I don't.
+
+895
+01:08:25.149 --> 01:08:28.119
+Mike Hall: So they know how to escape that prison, is what they're telling us.
+
+896
+01:08:30.700 --> 01:08:33.909
+Ben Pfaff: Well, I mean, turnabout is fair play, and we escape from their prison.
+
+897
+01:08:37.979 --> 01:08:45.809
+Thorin (Joe): Yeah, but we were unfairly imprisoned. We were just, you know, sitting in the corner minding our own business, you know, sock mobbing, as it were.
+
+898
+01:08:47.609 --> 01:08:48.490
+Kostadis Roussos: So…
+
+899
+01:08:49.170 --> 01:09:02.419
+Kostadis Roussos: I mean, the other option is you can kill her, or you can just let her tire her up and move on, and let her try to catch up with you later. Head to Candlekeep, and once you're in Candlekeep, it'll be very… it'll be practically impossible for her to get in.
+
+900
+01:09:02.790 --> 01:09:07.489
+Thorin (Joe): Can Glabbagool sort of, like, Engulf her and capture her and bring her along?
+
+901
+01:09:07.819 --> 01:09:08.429
+Kostadis Roussos: I mean, yes.
+
+902
+01:09:08.430 --> 01:09:09.470
+Ben Pfaff: for that, isn't he?
+
+903
+01:09:09.479 --> 01:09:11.599
+Kostadis Roussos: No, he could do that, but he'd eat her.
+
+904
+01:09:11.689 --> 01:09:14.100
+Thorin (Joe): Oh, I see, she would dissolve. Okay.
+
+905
+01:09:14.100 --> 01:09:16.639
+Kostadis Roussos: No, so, so, like, the option of holding onto her…
+
+906
+01:09:16.649 --> 01:09:17.419
+Ben Pfaff: for later.
+
+907
+01:09:17.840 --> 01:09:22.669
+Kostadis Roussos: The option of holding… the one option is you could just leave her here and dash to Candlekeep.
+
+908
+01:09:24.620 --> 01:09:29.470
+Kostadis Roussos: Right? What you've heard about Candlekeep is that it's basically an impregnable fortress.
+
+909
+01:09:30.649 --> 01:09:37.019
+Thorin (Joe): Yeah, I don't… I mean, she's so confident she can escape, I don't think we want to be taking her into the stronghold, I'm just…
+
+910
+01:09:37.359 --> 01:09:41.460
+Kostadis Roussos: Right. Yeah, so, yeah, so keeping her out might be the best solution for you.
+
+911
+01:09:41.830 --> 01:09:46.920
+Thorin (Joe): But… the way we play this game is we always find the thing that you didn't expect, Kostadis.
+
+912
+01:09:46.920 --> 01:09:47.550
+Ben Pfaff: Absolutely.
+
+913
+01:09:47.550 --> 01:09:48.170
+Kostadis Roussos: I can't.
+
+914
+01:09:48.450 --> 01:09:53.830
+Thorin (Joe): So that doesn't feel like we're making you dance, and so, you know, there's the game, and then there's the metagame.
+
+915
+01:09:55.550 --> 01:09:59.560
+Gabe: So, do we still have those mushrooms of shrinking?
+
+916
+01:09:59.560 --> 01:10:00.230
+Kostadis Roussos: Yes.
+
+917
+01:10:00.400 --> 01:10:01.870
+Thorin (Joe): Well, we can put her in our pocket.
+
+918
+01:10:01.870 --> 01:10:04.060
+Gabe: Exactly, we can have a new pocket paddle.
+
+919
+01:10:04.430 --> 01:10:05.020
+Ben Pfaff: By the way.
+
+920
+01:10:05.020 --> 01:10:05.920
+Mike Hall: like this.
+
+921
+01:10:10.510 --> 01:10:12.799
+Kostadis Roussos: Okay, so you're going to reduce her.
+
+922
+01:10:14.090 --> 01:10:15.080
+Mike Hall: Why not?
+
+923
+01:10:15.080 --> 01:10:16.530
+Thorin (Joe): Well, first, we'll map her.
+
+924
+01:10:23.430 --> 01:10:33.229
+Kostadis Roussos: Alright, you will map her. You will map her. Alright, so, so, so, you shove a mushroom down her throat, and she shrinks down to an appropriate size.
+
+925
+01:10:34.100 --> 01:10:37.299
+Kostadis Roussos: She suddenly becomes very squeaky and indignant.
+
+926
+01:10:38.420 --> 01:10:39.979
+Thorin (Joe): nickname her Polly Pocket.
+
+927
+01:10:42.180 --> 01:10:44.030
+Thorin (Joe): It's very demeaning.
+
+928
+01:10:44.270 --> 01:10:46.230
+Kostadis Roussos: Alright. Alright. Okay.
+
+929
+01:10:46.230 --> 01:10:48.449
+Thorin (Joe): Now, do we have a mushroom to grow her again?
+
+930
+01:10:48.630 --> 01:10:50.089
+Kostadis Roussos: Yes, you do. I think you do.
+
+931
+01:10:50.240 --> 01:10:57.529
+Thorin (Joe): Alright, so we say she can escape through the holes of the, like, you know, the net that they're gonna try and keep her in, but she's not gonna be big.
+
+932
+01:10:57.820 --> 01:10:58.459
+Kostadis Roussos: Oh, she actually…
+
+933
+01:10:58.460 --> 01:10:59.130
+Thorin (Joe): He plays ball.
+
+934
+01:10:59.130 --> 01:11:03.000
+Mike Hall: We can… we can put her in the bag of holding with Glabbagool, and he can just hold onto her.
+
+935
+01:11:04.350 --> 01:11:09.919
+Thorin (Joe): Yeah, what does happen, like, when you're in the bag of holding with somebody, are you pressed up against them? Is there distance?
+
+936
+01:11:09.920 --> 01:11:10.950
+Kostadis Roussos: Like, that's sort of, like.
+
+937
+01:11:10.950 --> 01:11:12.169
+Thorin (Joe): There's, like, okay, so it's like.
+
+938
+01:11:12.170 --> 01:11:12.550
+Mike Hall: like that.
+
+939
+01:11:12.550 --> 01:11:14.739
+Thorin (Joe): The dimension in the matrix, is it all white?
+
+940
+01:11:14.740 --> 01:11:16.429
+Ben Pfaff: I thought bags of holding could on…
+
+941
+01:11:16.430 --> 01:11:17.570
+Mike Hall: It looks like the holiday.
+
+942
+01:11:17.570 --> 01:11:18.400
+Ben Pfaff: supply.
+
+943
+01:11:18.800 --> 01:11:24.259
+Kostadis Roussos: Yeah, they do. They have a limited air supply, but she, you know… So, you have her now…
+
+944
+01:11:24.260 --> 01:11:25.220
+Thorin (Joe): breathe.
+
+945
+01:11:25.500 --> 01:11:30.359
+Kostadis Roussos: Yes, but Glabbagool doesn't stay in the bag of a holding hiding. He's always got… he's looked perched outside with his eyes, looking.
+
+946
+01:11:30.360 --> 01:11:31.260
+Thorin (Joe): Oh, okay, okay.
+
+947
+01:11:31.260 --> 01:11:31.940
+Ben Pfaff: That's true.
+
+948
+01:11:32.210 --> 01:11:32.840
+Kostadis Roussos: Thank you.
+
+949
+01:11:33.030 --> 01:11:36.270
+Thorin (Joe): So we can, like, venture every, like, you know, couple hours or whatever.
+
+950
+01:11:36.270 --> 01:11:36.840
+Kostadis Roussos: M.
+
+951
+01:11:37.380 --> 01:11:41.179
+Thorin (Joe): poke a couple of holes in the back of holding so she can breathe.
+
+952
+01:11:41.640 --> 01:11:47.900
+Thorin (Joe): Like a hamster. I hope the ridicule is getting to her.
+
+953
+01:11:51.530 --> 01:11:52.820
+Kostadis Roussos: Yeah, it is, actually.
+
+954
+01:11:54.550 --> 01:12:00.839
+Kostadis Roussos: It is. She's starting to, like, you know, wonder whether there are other… there are fates worth… there are other fates.
+
+955
+01:12:02.360 --> 01:12:02.970
+Kostadis Roussos: Okay.
+
+956
+01:12:02.970 --> 01:12:08.219
+Thorin (Joe): But we say, like, at least the bag of holding is shade, you know, so she's not gonna be exposed to full sun, so, you know…
+
+957
+01:12:08.220 --> 01:12:08.949
+Gabe: There you go.
+
+958
+01:12:09.080 --> 01:12:10.140
+Kostadis Roussos: There. Okay.
+
+959
+01:12:10.140 --> 01:12:11.519
+Thorin (Joe): This is… this is mercy.
+
+960
+01:12:12.720 --> 01:12:15.369
+Kostadis Roussos: And so you shove her in the bag of holding next to Glabbagool?
+
+961
+01:12:15.500 --> 01:12:17.030
+Thorin (Joe): Yeah, Glabbagool.
+
+962
+01:12:17.030 --> 01:12:18.440
+Mike Hall: After she's reduced.
+
+963
+01:12:18.440 --> 01:12:19.070
+Thorin (Joe): Come on.
+
+964
+01:12:19.070 --> 01:12:20.879
+Ben Pfaff: Gladwell Gold can keep an eye on her.
+
+965
+01:12:20.880 --> 01:12:22.120
+Thorin (Joe): Keep an eye on this hamster.
+
+966
+01:12:22.120 --> 01:12:27.220
+Kostadis Roussos: So, so she's, like, so Glabbagool's now walking like this, with one eye permanently looking at…
+
+967
+01:12:28.320 --> 01:12:28.740
+Gabe: Perfect.
+
+968
+01:12:29.060 --> 01:12:35.539
+Kostadis Roussos: Permanently looking at, at this, at this assassin, at this, spy, who's really annoyed.
+
+969
+01:12:35.540 --> 01:12:36.500
+Ben Pfaff: Excellent.
+
+970
+01:12:37.360 --> 01:12:43.829
+Kostadis Roussos: Okay, so you finally arrive at Candlekeep Library. Candlekeep Library is a…
+
+971
+01:12:43.830 --> 01:12:48.520
+Thorin (Joe): I just want to know, Kostadis, playing the metagame, was that on your map of things I do.
+
+972
+01:12:51.280 --> 01:12:53.010
+Kostadis Roussos: No, no, no, no, no, I have, like…
+
+973
+01:12:53.210 --> 01:13:01.280
+Ben Pfaff: I was really curious how, how far I was gonna have to take the whole, prayer beads thing. Maybe I'll still have to, do something about it.
+
+974
+01:13:02.290 --> 01:13:05.499
+Kostadis Roussos: Alright, so she's, wearing the reduced prayer beads.
+
+975
+01:13:06.900 --> 01:13:21.299
+Kostadis Roussos: Right. She doesn't, like, she's, like, very concerned, because she doesn't know what, like, the rituals of Bahamut are, and since she responds to a demonic possessive cult, she doesn't really know, like, what to expect, and, like, you're a half-orc, and so she's got all sorts of racial prejudices against half-orcs.
+
+976
+01:13:21.300 --> 01:13:29.230
+Ben Pfaff: That's… I figured that some of these things, if we were on the same, if we were seeing eye-to-eye here, they'd work out.
+
+977
+01:13:30.090 --> 01:13:35.099
+Ben Pfaff: I didn't really have to state anything, just, imply it, heavily, you know?
+
+978
+01:13:35.100 --> 01:13:36.520
+Kostadis Roussos: Yep, yep. Alright.
+
+979
+01:13:36.520 --> 01:13:43.590
+Thorin (Joe): So, I mean, I make sure she overhears me saying, like, so those prayer beads are at full power, even though they're shrunken, right?
+
+980
+01:13:44.510 --> 01:13:51.049
+Ben Pfaff: I, I… yes, yes, in fact, I, I believe they may be more deadly.
+
+981
+01:13:51.050 --> 01:13:52.889
+Thorin (Joe): They're more potent, okay, good to know.
+
+982
+01:13:52.890 --> 01:13:53.410
+Ben Pfaff: Yeah.
+
+983
+01:13:53.410 --> 01:13:54.050
+Kostadis Roussos: Alright.
+
+984
+01:13:55.320 --> 01:13:56.190
+Kostadis Roussos: Okay.
+
+985
+01:13:56.520 --> 01:14:00.729
+Kostadis Roussos: So, you arrive, finally, at Candlekeep.
+
+986
+01:14:01.900 --> 01:14:04.660
+Kostadis Roussos: Let me see if I can get a map of Candlekeep.
+
+987
+01:14:09.000 --> 01:14:14.479
+Thorin (Joe): You know how when you do an executive briefing, and you have a whole slide deck prepared, and you only get, like, 3 slides in?
+
+988
+01:14:14.480 --> 01:14:15.090
+Mike Hall: Yep.
+
+989
+01:14:15.270 --> 01:14:17.379
+Thorin (Joe): That's like Kostadis with us.
+
+990
+01:14:17.380 --> 01:14:17.810
+Kostadis Roussos: I'm doing.
+
+991
+01:14:18.810 --> 01:14:25.390
+Kostadis Roussos: That's what I love about playing with you guys, dude. It's like, if it was, like, if it was, like, a fast-moving, you know.
+
+992
+01:14:25.980 --> 01:14:30.730
+Kostadis Roussos: No, I mean, like, that's the whole point. Like, what's the point of playing a game that… Everybody's…
+
+993
+01:14:31.350 --> 01:14:33.369
+Kostadis Roussos: No, the whole point is to have fun.
+
+994
+01:14:33.630 --> 01:14:41.560
+Kostadis Roussos: And it allows me to exhaust my creativity and my need to, like, invent things, so…
+
+995
+01:14:41.830 --> 01:14:51.690
+Kostadis Roussos: Alright, let me just get a map. Okay, so you arrive at Candlekeep. Candlekeep is famous for a bunch of things. The most important thing it's famous for is that you can only gain entry if you give a book.
+
+996
+01:14:53.180 --> 01:14:54.230
+Mike Hall: Do we have a book?
+
+997
+01:14:54.680 --> 01:14:55.899
+Kostadis Roussos: Yes, you have many books.
+
+998
+01:14:55.900 --> 01:14:59.109
+Mike Hall: I'm looking… let me see, where's our…
+
+999
+01:14:59.110 --> 01:15:02.729
+Kostadis Roussos: I have done the research, so you have a bunch of books.
+
+1000
+01:15:03.640 --> 01:15:12.790
+Kostadis Roussos: you have… And the other thing you realize is, depending on which books you get, different people will…
+
+1001
+01:15:13.020 --> 01:15:20.420
+Kostadis Roussos: show up to help you and be interested in you. So it's kind of like one of those… think of it as the book Alexandrian Library.
+
+1002
+01:15:20.730 --> 01:15:21.460
+Mike Hall: Ugh.
+
+1003
+01:15:21.640 --> 01:15:24.670
+Kostadis Roussos: That kind of thing. So…
+
+1004
+01:15:25.990 --> 01:15:28.599
+Kostadis Roussos: There's the… so one thing you find is
+
+1005
+01:15:28.830 --> 01:15:32.580
+Kostadis Roussos: a Vulcan… so the books that you have that I think… I think you have are…
+
+1006
+01:15:32.740 --> 01:15:35.129
+Kostadis Roussos: Princess Ebonmire spellbook.
+
+1007
+01:15:35.510 --> 01:15:36.260
+Kostadis Roussos: Right?
+
+1008
+01:15:36.500 --> 01:15:37.410
+Mike Hall: What's true.
+
+1009
+01:15:37.410 --> 01:15:42.900
+Kostadis Roussos: Copied, so you can give that. Ilvara's Prayer Book with Zuggtmoy Marginalia.
+
+1010
+01:15:43.580 --> 01:15:48.060
+Kostadis Roussos: Asha Vandree's Lolth Zagotomy Theological Argument.
+
+1011
+01:15:49.640 --> 01:15:52.650
+Kostadis Roussos: That was the book that… where she was writing, you know.
+
+1012
+01:15:53.190 --> 01:15:55.429
+Kostadis Roussos: how Lolthians who got me, right?
+
+1013
+01:15:55.620 --> 01:15:59.979
+Kostadis Roussos: You all… there's the Velkynvelve Prisoner Journal and Plinki's Journal.
+
+1014
+01:16:00.080 --> 01:16:04.989
+Kostadis Roussos: That's from the Whorlstone Caverns. Those are all very unique books.
+
+1015
+01:16:05.180 --> 01:16:06.770
+Kostadis Roussos: That.
+
+1016
+01:16:09.460 --> 01:16:10.779
+Mike Hall: Prisoner's Journal, yeah.
+
+1017
+01:16:10.780 --> 01:16:18.660
+Kostadis Roussos: So those… so those are the books… so those are the books you can give, and so you stand at the, at the entrance to the candle keep, and, you know, you're… you're…
+
+1018
+01:16:18.810 --> 01:16:23.319
+Kostadis Roussos: Kind of… there's people in line, and they're all debating which book they're gonna give, and so…
+
+1019
+01:16:23.320 --> 01:16:25.650
+Mike Hall: So, is it one book for the party?
+
+1020
+01:16:30.810 --> 01:16:35.589
+Kostadis Roussos: you can ask around to see, are there other people who are going in there? This is your first time in.
+
+1021
+01:16:35.590 --> 01:16:37.360
+Ben Pfaff: I mean, it's a very nice book.
+
+1022
+01:16:38.200 --> 01:16:38.700
+Kostadis Roussos: Oh.
+
+1023
+01:16:38.910 --> 01:16:42.339
+Thorin (Joe): Do we get the books back, or is it a loan, or is it a gift?
+
+1024
+01:16:44.710 --> 01:16:56.719
+Kostadis Roussos: So… so there's a… there's a bunch of folks, you know, standing in line, each carrying a book, very anxious to get in line, you know, to get through the thing, and so you can ask them, I mean, you know, you don't know, or…
+
+1025
+01:16:57.840 --> 01:17:02.990
+Kostadis Roussos: You can go and ask the guy who's, like, collecting the books. Who would you like to ask?
+
+1026
+01:17:06.570 --> 01:17:09.310
+Kostadis Roussos: People in line, or the person collecting the books.
+
+1027
+01:17:09.310 --> 01:17:10.760
+Mike Hall: I'll ask the person collecting.
+
+1028
+01:17:11.120 --> 01:17:12.250
+Kostadis Roussos: Alright, so…
+
+1029
+01:17:12.500 --> 01:17:20.900
+Kostadis Roussos: You ask him one book, he goes, he looks at you and stares at you, takes a… takes measure of you and says.
+
+1030
+01:17:21.500 --> 01:17:25.790
+Kostadis Roussos: The rules say that you must provide one book per group.
+
+1031
+01:17:27.030 --> 01:17:28.050
+Kostadis Roussos: Pauses.
+
+1032
+01:17:28.170 --> 01:17:39.499
+Kostadis Roussos: But if you have come to ask more than one question and wish to intersect with many of the avowed, who are sort of the monks of Candlekeep, the sages, the professors.
+
+1033
+01:17:39.630 --> 01:17:44.030
+Kostadis Roussos: Providing more books will get you more… FaceTime.
+
+1034
+01:17:46.270 --> 01:17:47.110
+Ben Pfaff: Hmm.
+
+1035
+01:17:47.310 --> 01:17:47.940
+Kostadis Roussos: Right.
+
+1036
+01:17:48.270 --> 01:18:04.650
+Kostadis Roussos: And so, if you each want to ask a question, I can assure you that those questions will… will… having more books will give you… donating more books to the library… the Candlekeep Library will always make it more easier for people, will make you always more interesting.
+
+1037
+01:18:04.650 --> 01:18:07.940
+Ben Pfaff: Okay, so we can get admission to, like, the VIP circle.
+
+1038
+01:18:09.860 --> 01:18:11.519
+Thorin (Joe): The champagne room, as it were.
+
+1039
+01:18:13.890 --> 01:18:14.660
+Kostadis Roussos: Eastern.
+
+1040
+01:18:15.850 --> 01:18:16.850
+Kostadis Roussos: Very confused.
+
+1041
+01:18:17.010 --> 01:18:22.159
+Thorin (Joe): The library champagne room. Just imagine that the library had a champagne room. That's what we want to get into.
+
+1042
+01:18:22.160 --> 01:18:22.740
+Kostadis Roussos: Definitely.
+
+1043
+01:18:23.190 --> 01:18:25.050
+Ben Pfaff: Is, is their bottle service.
+
+1044
+01:18:26.660 --> 01:18:27.230
+Ben Pfaff: Ugh.
+
+1045
+01:18:27.460 --> 01:18:28.160
+Kostadis Roussos: Okay.
+
+1046
+01:18:30.140 --> 01:18:41.770
+Ben Pfaff: Okay, well, we have a few books, and really the question we want to get answered is, who's, who's following, Daz, right?
+
+1047
+01:18:42.330 --> 01:18:42.990
+Mike Hall: Yeah.
+
+1048
+01:18:43.290 --> 01:18:48.149
+Kostadis Roussos: Alright, well, that's one. Zalthir wants to know about, Jimjar.
+
+1049
+01:18:49.420 --> 01:18:50.200
+Kostadis Roussos: Right?
+
+1050
+01:18:50.350 --> 01:18:51.620
+Kostadis Roussos: Who is Jimjar?
+
+1051
+01:18:51.780 --> 01:18:52.480
+Gabe: Yep.
+
+1052
+01:18:52.890 --> 01:19:00.080
+Kostadis Roussos: So that's another. Thorin, wants someone to help with his neurotic sword.
+
+1053
+01:19:01.380 --> 01:19:02.560
+Thorin (Joe): No, we're good.
+
+1054
+01:19:02.980 --> 01:19:09.060
+Kostadis Roussos: I thought, well, I thought you wanted, like, to, you know, to, like, to help Dawnbringer bring her go through… work through her… her darkness issues.
+
+1055
+01:19:09.060 --> 01:19:14.019
+Thorin (Joe): Okay, but I mean, like, I'm looking for a therapist, this is not a one-question type of thing, this is, like…
+
+1056
+01:19:14.020 --> 01:19:15.149
+Kostadis Roussos: No, no, so this is…
+
+1057
+01:19:15.150 --> 01:19:18.470
+Thorin (Joe): There are no shortcuts when it comes to therapy.
+
+1058
+01:19:18.470 --> 01:19:19.540
+Ben Pfaff: It's a process, not a product.
+
+1059
+01:19:19.540 --> 01:19:32.029
+Kostadis Roussos: So, I'm just saying, you know, one of the things about this candle keep is this is where some, perhaps, some experts here could provide information.
+
+1060
+01:19:32.030 --> 01:19:39.969
+Thorin (Joe): Okay, so, like, we would look… be looking for, like, you know, do you know a good therapist that could help out a neurotic, intelligent weapon?
+
+1061
+01:19:39.970 --> 01:19:40.490
+Kostadis Roussos: Yes.
+
+1062
+01:19:40.490 --> 01:19:41.559
+Ben Pfaff: A referral.
+
+1063
+01:19:41.560 --> 01:19:42.510
+Kostadis Roussos: A referral, or maybe.
+
+1064
+01:19:42.510 --> 01:19:44.469
+Thorin (Joe): I'm looking for a referral. Yeah, okay, okay.
+
+1065
+01:19:44.470 --> 01:19:47.659
+Kostadis Roussos: Perhaps some book that can help you guys work through the issues?
+
+1066
+01:19:48.500 --> 01:19:50.660
+Thorin (Joe): I mean… Yeah.
+
+1067
+01:19:51.450 --> 01:19:53.759
+Thorin (Joe): You can soup for the neurotic sword soul.
+
+1068
+01:19:54.190 --> 01:19:55.830
+Thorin (Joe): As it were.
+
+1069
+01:19:55.840 --> 01:20:12.940
+Kostadis Roussos: And what's his name? Grygum could be, you know, curious to know a little bit more about Stroud, and what happened with him, and, you know, the whole Protanther sword. That might be something he might be interested in. But anyway, those are sort of questions you might want to ask.
+
+1070
+01:20:14.200 --> 01:20:22.929
+Kostadis Roussos: So… you know, asking… giving up 3 books or 4 books, you know, Lara…
+
+1071
+01:20:23.190 --> 01:20:29.900
+Ben Pfaff: I don't have a well-formed question, but if the others do, then 3 books seems fine.
+
+1072
+01:20:30.230 --> 01:20:30.840
+Kostadis Roussos: Right?
+
+1073
+01:20:32.120 --> 01:20:34.430
+Kostadis Roussos: So, which ones do you want to give up?
+
+1074
+01:20:34.730 --> 01:20:39.040
+Thorin (Joe): Well, do the books that we give have a relation to the questions we want to answer?
+
+1075
+01:20:39.600 --> 01:20:48.290
+Mike Hall: Yeah, I mean… I think doing some, like, wildly different things, like the prisoner's journal.
+
+1076
+01:20:48.390 --> 01:20:51.790
+Mike Hall: The Dwarvish Prisoner's Journal, and then something that's, like, highbrow.
+
+1077
+01:20:51.930 --> 01:20:57.820
+Mike Hall: Let's see… If we… like, the types of… I don't even know what questions we want to ask, though.
+
+1078
+01:20:58.420 --> 01:21:00.479
+Kostadis Roussos: Well, you want to ask about yourself.
+
+1079
+01:21:00.710 --> 01:21:06.949
+Mike Hall: Yeah, I want to ask about myself, and then Dawnbringer, like, if there's possibility there. That might be the high-end book.
+
+1080
+01:21:08.650 --> 01:21:11.219
+Mike Hall: I was a prisoner, so maybe the prisoner's Journal?
+
+1081
+01:21:11.220 --> 01:21:12.599
+Kostadis Roussos: That sounds like a good… that sounds good.
+
+1082
+01:21:12.600 --> 01:21:13.410
+Mike Hall: No idea.
+
+1083
+01:21:14.090 --> 01:21:22.519
+Kostadis Roussos: Any one of these will… any one of these will be, you don't know, so this is where you have to sort of take your best guess and see what happens.
+
+1084
+01:21:22.520 --> 01:21:24.100
+Ben Pfaff: Sounds like good ideas to me.
+
+1085
+01:21:24.290 --> 01:21:24.860
+Kostadis Roussos: Huh?
+
+1086
+01:21:24.980 --> 01:21:34.290
+Kostadis Roussos: Well, you know, as you're sort of sitting there, debating this, the other people in line get a little bit annoyed and, like, say, get in line like the rest of us.
+
+1087
+01:21:35.710 --> 01:21:40.249
+Kostadis Roussos: And, point you to the back of the line, and you walk to the back of the line, so…
+
+1088
+01:21:42.690 --> 01:21:49.590
+Thorin (Joe): I mean, do you know who you're talking to? This is the Ember Vanguard, because they don't know about the whole, like, destroying the city down, you know, in the Underdark and all that.
+
+1089
+01:21:49.590 --> 01:21:55.629
+Kostadis Roussos: Right, right, right. So, here's what you do. As you're pondering this, right, just as you're pondering this, you realize…
+
+1090
+01:21:55.630 --> 01:21:56.850
+Ben Pfaff: what I'm pondering?
+
+1091
+01:21:56.850 --> 01:22:02.070
+Kostadis Roussos: No, no, as Daz is pondering, he's like, I don't know. He realizes that, you know.
+
+1092
+01:22:02.620 --> 01:22:09.910
+Kostadis Roussos: If he wants to get, you know, Ebonmire's spellbook might be one where he can get more information about his magical lineage, right?
+
+1093
+01:22:10.180 --> 01:22:17.830
+Kostadis Roussos: the, elvara's prayer book with the Zuggtmoy Marginalia might be useful if you're trying to figure out
+
+1094
+01:22:18.010 --> 01:22:21.210
+Kostadis Roussos: What's going on with, Jimjar, right?
+
+1095
+01:22:22.310 --> 01:22:26.029
+Kostadis Roussos: And Plinki's journal… so these are… these are options you might want to think about.
+
+1096
+01:22:26.770 --> 01:22:29.619
+Thorin (Joe): Alright, so what were the books that we had again?
+
+1097
+01:22:29.820 --> 01:22:39.589
+Kostadis Roussos: There's the spellbook, there's Ilvara's Prayer Book with Zuggtmoy Marginalia, Asha Vandree's Lolth, Equals zygotomy, the Asha Vandree…
+
+1098
+01:22:39.590 --> 01:22:43.650
+Thorin (Joe): Anything to do with Lolth is gonna be good for Drow, so that's who's actually following, yeah.
+
+1099
+01:22:43.910 --> 01:22:48.050
+Kostadis Roussos: Right? And then there's the Valve Prisoner Journal and Plinki's Journal.
+
+1100
+01:22:49.660 --> 01:22:51.050
+Thorin (Joe): Okay, what's the last journal?
+
+1101
+01:22:51.270 --> 01:22:57.760
+Kostadis Roussos: Plinki's Journal, it's, plinky was the guy who was involved with Demogorgon.
+
+1102
+01:22:58.830 --> 01:23:05.440
+Kostadis Roussos: In the Whorlstone Caverns, and he was writing about how, you know, we're gonna go create a demonic monster, and so on and so forth.
+
+1103
+01:23:06.080 --> 01:23:10.310
+Thorin (Joe): I mean, none of these are gonna help with Dawnbringer, but, you know…
+
+1104
+01:23:10.570 --> 01:23:13.990
+Thorin (Joe): They don't seem related, so, you know, as far as I'm concerned, whatevs.
+
+1105
+01:23:14.960 --> 01:23:17.079
+Kostadis Roussos: Okay. Is there any one book you do not want to give?
+
+1106
+01:23:18.350 --> 01:23:19.660
+Kostadis Roussos: I only have to get 4.
+
+1107
+01:23:22.080 --> 01:23:25.199
+Kostadis Roussos: So, the one thing, one insight you have is that the two books…
+
+1108
+01:23:25.200 --> 01:23:28.280
+Thorin (Joe): Does Glabbagool have anything that he wants to ask also?
+
+1109
+01:23:29.410 --> 01:23:38.240
+Kostadis Roussos: Glabbagool is very confused about the idea of a library that has infinite amount of capacity, and doesn't understand why you aren't giving every book incarnation so you can ask questions till the end of time.
+
+1110
+01:23:38.980 --> 01:23:41.000
+Ben Pfaff: I think we give… Sounds like he does have questions.
+
+1111
+01:23:41.000 --> 01:23:45.570
+Thorin (Joe): Question also, even if it's going to be mundane, because we want him to feel like he's a full member of the.
+
+1112
+01:23:45.570 --> 01:23:46.719
+Ben Pfaff: the party here.
+
+1113
+01:23:46.720 --> 01:23:48.070
+Kostadis Roussos: Alright, so…
+
+1114
+01:23:48.070 --> 01:23:55.340
+Thorin (Joe): We give all full 5 books, and we say, Glabbagool, you get one question, make a count, and I'm really interested to see what he asks.
+
+1115
+01:23:58.630 --> 01:24:01.599
+Kostadis Roussos: Alrighty, okay.
+
+1116
+01:24:02.850 --> 01:24:03.510
+Kostadis Roussos: And his name?
+
+1117
+01:24:03.510 --> 01:24:04.980
+Thorin (Joe): Anybody else disagree here?
+
+1118
+01:24:05.390 --> 01:24:09.869
+Ben Pfaff: Oh, it's worth, it's worth a shot. I'm curious, too.
+
+1119
+01:24:12.880 --> 01:24:13.750
+Kostadis Roussos: Alright.
+
+1120
+01:24:14.090 --> 01:24:20.479
+Thorin (Joe): I love how we always pick up some sort of NPC and turn them into a party member so that Kostadis can play along.
+
+1121
+01:24:23.930 --> 01:24:27.060
+Kostadis Roussos: Okay, so.
+
+1122
+01:24:27.060 --> 01:24:27.980
+Ben Pfaff: That's it for the game.
+
+1123
+01:24:28.110 --> 01:24:34.919
+Kostadis Roussos: Yes, good for the game. Alright. So, okay. I just need to make sure I have all the information I need here, okay.
+
+1124
+01:24:36.980 --> 01:24:37.730
+Kostadis Roussos: Where's.
+
+1125
+01:24:37.730 --> 01:24:38.930
+Thorin (Joe): Gemini say?
+
+1126
+01:24:38.930 --> 01:24:43.690
+Kostadis Roussos: No, no, it's not them and I. I spent a lot of time putting this together, like, I… actually, the notes were…
+
+1127
+01:24:43.690 --> 01:24:45.899
+Thorin (Joe): you a hard time, man, I'm just joking.
+
+1128
+01:24:45.900 --> 01:24:53.669
+Kostadis Roussos: No, the notes are mine, like, the encounters are mine, the writing up into plain English and putting it in good markdown, that I used AI for.
+
+1129
+01:24:53.670 --> 01:24:55.240
+Thorin (Joe): Yeah, I know, right?
+
+1130
+01:24:56.030 --> 01:24:57.510
+Thorin (Joe): Outline and make it look good.
+
+1131
+01:24:57.510 --> 01:24:59.000
+Kostadis Roussos: Taking away.
+
+1132
+01:24:59.160 --> 01:25:05.549
+Ben Pfaff: I saw him give a… at least a 10-minute lecture on someone, to someone about this on, Saturday.
+
+1133
+01:25:06.030 --> 01:25:11.690
+Kostadis Roussos: No, it's not… it is not… it is not a… this is not gen… the stuff generated by AI sucks. All right.
+
+1134
+01:25:12.060 --> 01:25:18.679
+Kostadis Roussos: Okay. So, you, you give out the books, and, you know, after, after a little bit.
+
+1135
+01:25:18.920 --> 01:25:26.989
+Kostadis Roussos: you know, you're, you know, I presume you start, you walk into the, the, the, the candle keep.
+
+1136
+01:25:27.050 --> 01:25:40.530
+Kostadis Roussos: And as you walk into Candlekeep, you see, like, the various avowed walking around, looking, you know, interested and disinterested, and the first keeper comes by, very excited. The first reader, the head of the,
+
+1137
+01:25:40.930 --> 01:25:42.049
+Kostadis Roussos: of the whole…
+
+1138
+01:25:42.160 --> 01:25:58.059
+Kostadis Roussos: group is very excited to see this, and says, yes, this journal of the Velkynvelve Prisoners is a masterpiece of interest… of interesting value. I can't wait to study it carefully. It will go great with my other editions in drow prison journals.
+
+1139
+01:25:59.870 --> 01:26:02.250
+Ben Pfaff: Oh, there's a whole, whole shelf of those, isn't there?
+
+1140
+01:26:02.250 --> 01:26:03.970
+Thorin (Joe): The genre, apparently, yeah.
+
+1141
+01:26:03.970 --> 01:26:08.789
+Kostadis Roussos: So that's… it's a whole study of… that's a whole study of the topic.
+
+1142
+01:26:08.790 --> 01:26:10.349
+Thorin (Joe): So, we were drow prisoners.
+
+1143
+01:26:10.350 --> 01:26:12.350
+Kostadis Roussos: Y-yes, who you were.
+
+1144
+01:26:12.350 --> 01:26:13.870
+Ben Pfaff: Oh, wait, we have a job presenter.
+
+1145
+01:26:13.870 --> 01:26:16.650
+Thorin (Joe): I mean, you know, you don't have to read a book, you can just, like, you know…
+
+1146
+01:26:17.140 --> 01:26:21.020
+Thorin (Joe): You got a primary source right here. You could write a book on this.
+
+1147
+01:26:21.020 --> 01:26:21.800
+Mike Hall: Alright.
+
+1148
+01:26:23.710 --> 01:26:38.389
+Kostadis Roussos: All right. And so she goes, and I… well, since you brought such an excellent book of such high value, perhaps you can tell me what areas of questions do you have, so I can point you to the right scholar.
+
+1149
+01:26:38.670 --> 01:26:40.600
+Thorin (Joe): Oh, and also, we have a drow.
+
+1150
+01:26:42.510 --> 01:26:43.850
+Gabe: Who is a prisoner?
+
+1151
+01:26:44.020 --> 01:26:45.320
+Mike Hall: Yeah. What's the prisoner.
+
+1152
+01:26:47.910 --> 01:26:52.200
+Mike Hall: We have a draw that… we have a draw that was a prisoner, and a draw that is a prisoner.
+
+1153
+01:26:52.200 --> 01:27:00.610
+Kostadis Roussos: Right. The drow squeaks, This is highly irregular, and House T'sarran will get its vengeance!
+
+1154
+01:27:01.560 --> 01:27:02.140
+Ben Pfaff: Okay, yeah.
+
+1155
+01:27:02.140 --> 01:27:04.059
+Thorin (Joe): Yeah, yeah, yeah, but, like, we have a drow.
+
+1156
+01:27:06.620 --> 01:27:07.350
+Kostadis Roussos: Right.
+
+1157
+01:27:07.350 --> 01:27:09.719
+Mike Hall: Tiny, tiny little vengeance.
+
+1158
+01:27:09.740 --> 01:27:10.310
+Thorin (Joe): Right.
+
+1159
+01:27:10.980 --> 01:27:12.110
+Thorin (Joe): How's Toronto.
+
+1160
+01:27:12.110 --> 01:27:14.919
+Kostadis Roussos: John's vengeance is large and powerful.
+
+1161
+01:27:15.320 --> 01:27:16.319
+Mike Hall: Not right now.
+
+1162
+01:27:16.320 --> 01:27:19.959
+Thorin (Joe): I mean, if you poke us hard enough with that little needle, it might draw blood.
+
+1163
+01:27:21.780 --> 01:27:24.249
+Kostadis Roussos: I will have my vengeance!
+
+1164
+01:27:24.990 --> 01:27:25.900
+Kostadis Roussos: Okay.
+
+1165
+01:27:26.100 --> 01:27:27.870
+Kostadis Roussos: Alright.
+
+1166
+01:27:27.870 --> 01:27:29.779
+Ben Pfaff: Careful of the prayer beads.
+
+1167
+01:27:31.940 --> 01:27:35.030
+Kostadis Roussos: She goes, I wish to know about these prayer beads.
+
+1168
+01:27:35.030 --> 01:27:35.720
+Mike Hall: Oh!
+
+1169
+01:27:35.720 --> 01:27:39.540
+Thorin (Joe): You don't get a question. You did not donate a book.
+
+1170
+01:27:40.550 --> 01:27:42.030
+Kostadis Roussos: Okay.
+
+1171
+01:27:42.680 --> 01:27:43.689
+Kostadis Roussos: So.
+
+1172
+01:27:43.690 --> 01:27:46.450
+Ben Pfaff: We'll have a goal, keep her under control.
+
+1173
+01:27:47.270 --> 01:27:49.520
+Kostadis Roussos: And he goes, he looks at her and goes.
+
+1174
+01:27:53.470 --> 01:28:07.189
+Kostadis Roussos: And he goes, I can poke your eyes out! And then he explains, oh, these are just affectations, and they don't actually are my eyes. I can actually see different ways, this is how ooze work, but I discovered that if you have these cute eyes, people take you more friendly.
+
+1175
+01:28:10.600 --> 01:28:11.370
+Kostadis Roussos: Sure.
+
+1176
+01:28:11.370 --> 01:28:13.219
+Thorin (Joe): How many eyes you can have, Glabbagool?
+
+1177
+01:28:13.220 --> 01:28:31.450
+Kostadis Roussos: she… he starts emerging with lots… it kind of gets very creepy very quickly. All right. Okay, so… so you… I presume you tell the first reader, who… what kinds of questions you want to ask, correct? Yeah, yeah. Right. Okay, so he says, excellent! Well, we will… Ivan… Sister Yvonne will speak with you, and he sends… she points you to a reading room.
+
+1178
+01:28:39.360 --> 01:28:46.409
+Kostadis Roussos: you know, so, Zalthir, Zalthir, Zalthir,
+
+1179
+01:28:46.660 --> 01:28:58.519
+Kostadis Roussos: The first reader says, well, you wish to learn about Jimjar. Well, it's… we're very… that's very excellent, because it turns out that one of the avowed Khell-Vire wishes to learn about you.
+
+1180
+01:29:00.180 --> 01:29:01.049
+Mike Hall: Oh, really?
+
+1181
+01:29:01.490 --> 01:29:02.850
+Kostadis Roussos: Yes,
+
+1182
+01:29:02.850 --> 01:29:04.500
+Thorin (Joe): We are, as they say, an open book.
+
+1183
+01:29:04.500 --> 01:29:08.240
+Kostadis Roussos: No, no, not about you in general, about Grygum in particular.
+
+1184
+01:29:08.240 --> 01:29:10.940
+Ben Pfaff: Oh, not about Daz.
+
+1185
+01:29:10.940 --> 01:29:11.620
+Kostadis Roussos: No, no.
+
+1186
+01:29:11.620 --> 01:29:15.490
+Mike Hall: Awesome, so… so there's, like, two famous people in the party, evidently.
+
+1187
+01:29:15.490 --> 01:29:17.289
+Kostadis Roussos: Yes, yes.
+
+1188
+01:29:17.290 --> 01:29:19.919
+Thorin (Joe): Raised by giants! Nobody wants an alert…
+
+1189
+01:29:19.920 --> 01:29:22.510
+Mike Hall: So, we'll get…
+
+1190
+01:29:22.920 --> 01:29:23.520
+Kostadis Roussos: No, it's…
+
+1191
+01:29:23.520 --> 01:29:25.130
+Mike Hall: We'll get to him eventually.
+
+1192
+01:29:25.130 --> 01:29:26.550
+Thorin (Joe): Maybe.
+
+1193
+01:29:27.320 --> 01:29:41.379
+Kostadis Roussos: And the first reader turns to, turns to you and looks at Dawnbringer and says, well, you are in luck. You are in luck, Thorin and Dawnbringer.
+
+1194
+01:29:42.210 --> 01:30:00.819
+Kostadis Roussos: Philemon is an avowed monk specializing in psychological preservation and historical cataloging of ancient sentient artifacts, and has had tremendous success in working through the interpersonal conflict issues of the sentient artifact.
+
+1195
+01:30:00.820 --> 01:30:02.959
+Thorin (Joe): I'm all up for couples counseling with Dawnbringer.
+
+1196
+01:30:02.960 --> 01:30:04.599
+Ben Pfaff: I'm here for you.
+
+1197
+01:30:05.450 --> 01:30:12.939
+Kostadis Roussos: Wonderful, Philemon will be delighted, delighted to work with you. He's had a tremendous track record of success.
+
+1198
+01:30:12.940 --> 01:30:15.069
+Ben Pfaff: I almost feel like they should be giving us books.
+
+1199
+01:30:18.000 --> 01:30:19.050
+Kostadis Roussos: And then.
+
+1200
+01:30:19.050 --> 01:30:21.829
+Thorin (Joe): There will be reading assignments with the therapy.
+
+1201
+01:30:22.170 --> 01:30:23.000
+Kostadis Roussos: Right.
+
+1202
+01:30:29.500 --> 01:30:40.190
+Kostadis Roussos: So, then, then all of a sudden, this, like, half-elf, certainly, elderly half-elf, walks up and says, First Reader, I cannot believe you did not tell me about the arrival of a cleric of Bahamut.
+
+1203
+01:30:42.560 --> 01:30:44.259
+Ben Pfaff: I'm feeling, in demand here.
+
+1204
+01:30:44.260 --> 01:30:51.989
+Kostadis Roussos: He goes… he goes… he kind of, like, pushes, he stands up, he looks very officious, you know, very precise, you know, very…
+
+1205
+01:30:52.330 --> 01:31:00.110
+Kostadis Roussos: frantic, very organized kind of person. He goes, I have been studying the… I have a decades-long specialty in half-orc Bahamut converts.
+
+1206
+01:31:02.860 --> 01:31:04.400
+Thorin (Joe): You guys got everything here!
+
+1207
+01:31:04.400 --> 01:31:06.310
+Kostadis Roussos: Well, of course we do.
+
+1208
+01:31:06.310 --> 01:31:28.959
+Kostadis Roussos: And you will not… my decades-long study was a quiet, small area, but ever since these Stroud Protanther events, it's become a flood. I am frantically cataloging all sorts of information, and I'm just thrilled to meet you as a living data point. Would you be willing to chat with us offline? He grabs your hand and practically drags you.
+
+1209
+01:31:29.780 --> 01:31:30.240
+Ben Pfaff: Yeah, yeah.
+
+1210
+01:31:30.240 --> 01:31:31.079
+Thorin (Joe): Or what does…
+
+1211
+01:31:31.080 --> 01:31:31.670
+Ben Pfaff: with them, right?
+
+1212
+01:31:31.670 --> 01:31:34.390
+Thorin (Joe): to these people? Do they know what online is?
+
+1213
+01:31:34.390 --> 01:31:35.250
+Ben Pfaff: I'd like to…
+
+1214
+01:31:35.250 --> 01:31:52.330
+Kostadis Roussos: In my office, I think we would have a… this would be an excellent… I have artifacts. I would love to get your take as an actual convert of Bahamut. You know, it's fine, I have to admit, that I have been only doing secondhand studies, and this is a real living half-war cleric of Bahamut.
+
+1215
+01:31:52.330 --> 01:32:02.869
+Ben Pfaff: Well, you have to understand that it is traditional for clerics of Bahamut to want to try to take over the world, but I haven't moved into that phase yet.
+
+1216
+01:32:03.230 --> 01:32:13.670
+Kostadis Roussos: This is all fascinating! I have so many theories that I wish to test out. Would you be willing to… and he pauses and says, and I do have something I can share with you?
+
+1217
+01:32:15.710 --> 01:32:29.199
+Kostadis Roussos: I… ever since Stroud, defeated Protanther in chess, and impacted the, the process… the conversion of half-orcs into the cult of Bahamut…
+
+1218
+01:32:29.200 --> 01:32:30.589
+Ben Pfaff: It truly was legendary.
+
+1219
+01:32:30.590 --> 01:32:42.979
+Kostadis Roussos: It was. I have been collecting all sorts of materials. I would love to have your reaction to it, to get your take as an authentic convert of the half-orcs.
+
+1220
+01:32:42.980 --> 01:32:47.089
+Ben Pfaff: And have you studied that game? Because it truly was a legendary game.
+
+1221
+01:32:47.700 --> 01:32:51.649
+Kostadis Roussos: Absolutely, and in fact, I have… was able to secure the exact.
+
+1222
+01:32:51.650 --> 01:32:52.990
+Ben Pfaff: Crowd's Gambit.
+
+1223
+01:32:54.300 --> 01:33:09.400
+Kostadis Roussos: Oh, oh, well, that's not how… this is all novel news! I can't wait to take advantage of it! I'm… the field of Bahamut half-orc conversions will benefit tremendously from your interview.
+
+1224
+01:33:09.830 --> 01:33:13.949
+Ben Pfaff: Oh, I look forward to it.
+
+1225
+01:33:13.950 --> 01:33:19.429
+Thorin (Joe): How many scholars are interested in the field of half-org conversions? I mean, I'm guessing dozens?
+
+1226
+01:33:20.770 --> 01:33:22.870
+Ben Pfaff: Oh, just in this faculty.
+
+1227
+01:33:22.870 --> 01:33:27.610
+Kostadis Roussos: This is a very, narrow field of study that I, as…
+
+1228
+01:33:28.170 --> 01:33:32.860
+Kostadis Roussos: I, Barrett, have been intrigued in. Very, very…
+
+1229
+01:33:33.200 --> 01:33:35.489
+Ben Pfaff: Do you have grad students? Grad monks?
+
+1230
+01:33:35.490 --> 01:33:36.870
+Thorin (Joe): Narrow, but deep.
+
+1231
+01:33:36.870 --> 01:33:40.180
+Kostadis Roussos: Yeah, he goes, you, you, you…
+
+1232
+01:33:41.110 --> 01:33:46.390
+Kostadis Roussos: You all pick up on how the first… you know there's that researcher who does research that nobody cares about?
+
+1233
+01:33:47.340 --> 01:33:48.560
+Kostadis Roussos: Right?
+
+1234
+01:33:48.560 --> 01:33:52.069
+Ben Pfaff: Is everyone just sort of not… sort of ignoring him?
+
+1235
+01:33:52.070 --> 01:33:57.269
+Kostadis Roussos: They've been ignoring him for years, but literally, because of what Stroud did, he's now been doing hot research.
+
+1236
+01:33:59.520 --> 01:34:12.010
+Kostadis Roussos: The sudden interest of half-orcs in Bahamut's cult has caused, you know, controversy amongst the clericals and the what's-nots, and it's like the controversy has, like, erupted throughout the realms among
+
+1237
+01:34:12.490 --> 01:34:22.820
+Kostadis Roussos: among folks, and what does this mean? Was this part of Bahamut plan to get another group of people to start worshipping him? And, you know, how… what will this mean for orc… the orc pantheon in general?
+
+1238
+01:34:22.940 --> 01:34:24.499
+Ben Pfaff: Oh, it's all part of the plan.
+
+1239
+01:34:24.500 --> 01:34:31.360
+Kostadis Roussos: Right, so I just want to say, yeah, so, you know, this was an obscure area of limited interest, nobody took them seriously.
+
+1240
+01:34:32.630 --> 01:34:37.830
+Kostadis Roussos: And now he's being invited to all the right conferences, people want to talk to him, he's getting funding requests.
+
+1241
+01:34:39.320 --> 01:34:40.330
+Mike Hall: Interesting.
+
+1242
+01:34:41.050 --> 01:34:42.490
+Kostadis Roussos: So…
+
+1243
+01:34:42.770 --> 01:34:50.590
+Kostadis Roussos: I may have been overdid that, but my point is, like, he's very excited because his area of study, which was not a very popular one, is now a very popular one.
+
+1244
+01:34:50.590 --> 01:34:52.810
+Ben Pfaff: These research proposals are finally getting funded.
+
+1245
+01:34:52.810 --> 01:35:02.740
+Kostadis Roussos: Exactly. And you walked in, and, like, a living half-orc clerical vomit. He pauses. You converted, of course, after Stroud did his events, not before.
+
+1246
+01:35:03.270 --> 01:35:04.349
+Ben Pfaff: Oh, of course.
+
+1247
+01:35:04.350 --> 01:35:05.070
+Kostadis Roussos: Okay, good.
+
+1248
+01:35:05.500 --> 01:35:07.629
+Kostadis Roussos: Not that that would have changed any of.
+
+1249
+01:35:07.630 --> 01:35:10.120
+Thorin (Joe): But you could be like, Who's Drought?
+
+1250
+01:35:12.210 --> 01:35:15.270
+Ben Pfaff: He, he really, you know, set the…
+
+1251
+01:35:15.800 --> 01:35:16.440
+Kostadis Roussos: Yep.
+
+1252
+01:35:16.440 --> 01:35:17.140
+Ben Pfaff: the pace.
+
+1253
+01:35:17.140 --> 01:35:20.619
+Kostadis Roussos: Right, Daz, of course, you've read Malfire's book, so you're aware.
+
+1254
+01:35:20.620 --> 01:35:21.440
+Mike Hall: I know.
+
+1255
+01:35:21.440 --> 01:35:31.010
+Kostadis Roussos: Yes, you're very familiar with this. The rest of you are also very familiar with it, because Daz uncontrollably cites Malfire in inappropriate moments, or whenever he wants to make a metaphor.
+
+1256
+01:35:31.010 --> 01:35:33.950
+Mike Hall: We were stuck in a jail cell together for a while, and I thought…
+
+1257
+01:35:33.950 --> 01:35:37.609
+Thorin (Joe): Yeah, it's like we're kind of sick of each other, but somehow still together, yeah.
+
+1258
+01:35:37.610 --> 01:35:44.570
+Kostadis Roussos: So, you know all about Balfour and all of the events that he wrote, and his point of view on how things happened.
+
+1259
+01:35:44.570 --> 01:35:46.820
+Ben Pfaff: As Malfire said in Volume 3.
+
+1260
+01:35:49.190 --> 01:35:55.559
+Kostadis Roussos: And how Daz has been, like, trying to make sure that you all appreciate his new writing skills, and he shares it with you periodically.
+
+1261
+01:35:56.700 --> 01:36:00.550
+Kostadis Roussos: Zalthir has practiced his Shadow Step very effectively whenever…
+
+1262
+01:36:04.750 --> 01:36:10.439
+Mike Hall: There is part of Daz that doesn't believe that Milo should have put all the details into the book.
+
+1263
+01:36:12.980 --> 01:36:20.679
+Mike Hall: Because he's like, something should have been held back. So it was part of Daz that, like, wants to write something that's, like,
+
+1264
+01:36:20.880 --> 01:36:30.499
+Mike Hall: distracting people from what the real story is, so that the real story can be bigger than the story that's published. I see. Let me know if that's appropriate for an author.
+
+1265
+01:36:30.510 --> 01:36:34.460
+Ben Pfaff: Well, you know, historians can always retcon stuff, it's.
+
+1266
+01:36:34.460 --> 01:36:35.200
+Mike Hall: Yeah.
+
+1267
+01:36:35.200 --> 01:36:38.509
+Kostadis Roussos: Yep, alright. Okay, guys, it was great.
+
+1268
+01:36:39.680 --> 01:36:43.129
+Kostadis Roussos: This was, as always, unpredictable.
+
+1269
+01:36:43.440 --> 01:36:44.640
+Mike Hall: Thank you.
+
+1270
+01:36:44.640 --> 01:36:45.700
+Thorin (Joe): Thank you, Kostadis.
+
+1271
+01:36:46.110 --> 01:36:47.020
+Kostadis Roussos: Alright.
+
+1272
+01:36:47.020 --> 01:36:48.650
+Mike Hall: The best term we have.
+
+1273
+01:36:48.650 --> 01:36:53.649
+Kostadis Roussos: Yes, alright, okay, so next week we will go through your, your research things.
+
+1274
+01:36:53.930 --> 01:36:54.930
+Kostadis Roussos: Alright? Okay.
+
+1275
+01:36:55.190 --> 01:36:55.760
+Gabe: Good.
+
+1276
+01:36:55.760 --> 01:36:56.609
+Mike Hall: Sounds good.
+
+1277
+01:36:56.610 --> 01:36:57.110
+Kostadis Roussos: Thanks, Mike.
+
+1278
+01:36:57.110 --> 01:36:58.269
+Ben Pfaff: Good night for now. Cool.
+
+1279
+01:36:58.270 --> 01:36:59.389
+Mike Hall: Thanks, we'll see y'all.
+
+1280
+01:36:59.390 --> 01:37:00.000
+Kostadis Roussos: Yep.
+

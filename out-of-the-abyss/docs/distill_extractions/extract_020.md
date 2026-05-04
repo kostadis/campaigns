@@ -1,255 +1,330 @@
 ## NPCs
 
 **Daz**
-- Current location: Gracklstugh
-- Current state: Alive, active in political maneuvering
-- Recent actions: Negotiated NDA deal with Werz for 1100 gold; extracted payment in spell gems for assassin removal; counseled Errde to demand more evidence before acting against the Derro; suggested to the group that they could destabilize Gracklstugh by focusing hatred on the Deepking; explained NDA concept (a Drow tradition) to Werz; distributed gems to Jimjar; briefed the crew on their obligations to various factions
-- Faction: Party member
-- Revealed motivations/secrets: Extensive experience with Drow politics and leadership paranoia; believes the Council of Savants is innocent or are themselves victims; recognizes Errde's desire to destroy the Derro as scapegoating; suspects Werz ordered an assassination himself and is now facing retaliation; comfortable operating in webs of intrigue; reads Milo Goodbarrel's book and references it in negotiations
+- Current location: Gracklstugh (Ghohlbrorn's Lair / moving between locations)
+- Current state: Active, operating as a de facto strategist for the group
+- Recent actions: Advised the group on Drow political dynamics; met with Errde at Overlake Hold and deflected her conclusions about the Grey Ghosts and Council of Savants; negotiated an NDA with Werz for 1100 gold (escalated from 1000 after Werz questioned the price); negotiated a separate fee for assassin removal from Werz (paid in gems); explained the group's situation and plans to the rest of the crew at Ghohlbrorn's Lair; accompanied the group to Clan Ironhead
+- Faction: Travelling group; Drow background (Cult of Lolth adjacent knowledge, not a member)
+- Motivations/Secrets: Deeply familiar with Drow political structures and power dynamics; believes the Council of Savants is innocent or itself a victim; believes destabilising the Deepking directly would cause the Duergar to destroy each other; uncomfortable triggering a slaughter via misinformation; strategically comfortable operating in webs of intrigue
 
-**Thorin**
-- Current location: Gracklstugh
-- Current state: Alive, frustrated with subterfuge
-- Recent actions: Questioned why the group remains in Gracklstugh; asked Werz why assassins targeted him; introduced the concept of an "optional NDA" and used reverse psychology to pressure Werz into accepting; agreed to help save Rumpadump
-- Faction: Party member
-- Revealed motivations/secrets: Survived the War of the Giants when the ordning collapsed; prefers radical transparency and directness; liked his giant tribe for their lack of complex plots; wants to leave Gracklstugh
+**Errde** (Errde Blackskull, implied head of the Stone Guard based on context)
+- Current location: Overlake Hold, her office/chambers
+- Current state: Active, paranoid, displaying signs of obsession and instability
+- Recent actions: Met with the group; declared the Grey Ghosts and Council of Savants are working together based on the Flumph's vision; was talked down by Daz's reasoning; demanded the group return for more evidence; directed the group to talk to Clan Ironhead and Clan Xardelva as cover; agreed to arm Jimjar, Spiderbait, Sarith, and Eldeth
+- Faction: Stone Guard (head)
+- Motivations/Secrets: Wants proof of a Grey Ghosts–Council of Savants alliance; wants to destroy the Derro, whom she blames for the Deepking's corruption; convinced the Council of Savants is corrupting the Deepking; her paranoia noted as potentially blinding her to other explanations
 
-**Zalthir**
-- Current location: Gracklstugh
-- Current state: Alive, had magical tattoos applied
-- Recent actions: Agreed they should take their money and leave; followed reluctantly to Overlake Hold; observed Errde's madness; spoke with Stool about the dancing myconids and Rumpadump; received magical tattoos from Brannam's delivery; visited Clan Ironhead; reluctantly agreed to save Rumpadump after dealing with assassins
-- Faction: Party member
-- Revealed motivations/secrets: Trained by monks in discretion, shadow tactics, and avoiding frontal conflict; sees no upside to staying but follows the group; deeply uncomfortable with Duergar/Drow-style plotting; hopes the tattoos will keep him alive
-
-**Grygum**
-- Current location: Gracklstugh
-- Current state: Alive
-- Recent actions: Insisted the group honor their commitments; suggested using Werz as bait; asked about payment for the Flumph and ghost; secretly pocketed the Flumph's dropped gem; noted timing of Stone Guard corruption correlating with the Faerzress; reminded the group about freeing Thermbachaude
-- Faction: Party member (cleric)
-- Revealed motivations/secrets: Wants to free Thermbachaude; noticed the Faerzress connection to recent corruption
-
-**Errde Blackskull**
-- Current location: Overlake Hold, Gracklstugh
-- Current state: Paranoid, driven by desire to destroy the Derro
-- Recent actions: Received the Flumph's trauma dump; initially declared she "knew" the Grey Ghosts and Council of Savants were working together; was talked down by Daz; demanded the party return to the tunnels for more evidence; offered to arm the party's crew; suggested the party speak with Clan Ironhead or Clan Xardelva as cover for their real mission
-- Faction: Stone Guard (head of the Stone Guard)
-- Revealed motivations/secrets: Wants proof of Grey Ghosts' alliance with Council of Savants; wants to know who ordered Empty Scabbard killings of her clan members; blinded by conviction that the Council of Savants is corrupting the Deepking; wants to kill as many Derro as possible
-
-**Werz Saltbaron**
-- Current location: Gracklstugh (met at the Shattered Spire tavern)
-- Current state: Alive, frightened, financially strained after paying 1100 gold NDA and spell gems
-- Recent actions: Gave each party member a gemstone worth 10 gold; paid for the group's stay at Ghohlbrorn's Lair; paid 1100 gold for NDA; paid in empty spell gems for assassin removal; shared intelligence about clan politics; revealed Stone Guard corruption; admitted to facilitating illegal weapons deals between clans against the Deepking's orders; warned the party about the city being ready to explode
+**Werz** (Duergar merchant)
+- Current location: Shattered Spire tavern at time of meeting; arranged lodging at Ghohlbrorn's Inn for the group
+- Current state: Alive, frightened, financially strained after paying 1100 gold NDA fee plus gems for assassin removal
+- Recent actions: Met the group at the Shattered Spire; gave each party member (and the Flumph) a gemstone worth 10 gold pieces; revealed he facilitated illegal inter-clan weapons deals on behalf of clans forbidden by the Deepking; paid 1100 gold NDA fee; paid additional gems for assassin removal; provided intelligence on clan politics; warned the group about the city's instability; spoke to Ghohlbrorn's Inn owner on the group's behalf
 - Faction: Independent merchant
-- Revealed motivations/secrets: Helped clans make forbidden weapons deals (bypassing Deepking's monopoly for Clan Steelshadow); likely ordered an assassination himself and is now targeted in retaliation (Daz's suspicion); wants assassins eliminated without his own death; knows about the gnomes' desire for weapons deals; can facilitate a deal to help the party reach Blingdenstone; claims assassins are "professionals" who wouldn't accept a counter-offer
-
-**The Flumph (formerly Buppido)**
-- Current location: Gracklstugh, with the party
-- Current state: Derro turned into a Flumph; seeking more trauma to dump; changes colors (light blue, green, magenta)
-- Recent actions: Trauma-dumped on Errde; served as telepathic communication conduit between Daz and Grygum; received a gem from Werz but dropped it (picked up by Grygum)
-- Faction: Party companion
-- Revealed motivations/secrets: Before becoming mad (as Buppido), complained that the Council of Savants was more interested in staying in power than freeing the Derro people; wants "more trauma" as dumps are less satisfying
+- Motivations/Secrets: Has been brokering weapons deals between clans and the Deep Gnomes in violation of the Deepking's monopoly for Clan Steelshadow; suspects this is why assassins have been hired against him; tried to bribe the assassins and was refused; fears going to the Stone Guard because assassins are officially considered a children's fable; wants the group to eliminate his assassin problem; offered to facilitate a gnome-clan weapons deal in exchange for help; possesses empty spell gems of significant value
 
 **Jimjar**
-- Current location: Gracklstugh (Ghohlbrorn's Lair)
-- Current state: Alive, part of the crew
-- Recent actions: Identified the gems from Werz as empty spell gems; informed the party that Kazook Pickshine in Blingdenstone could turn them into powerful magical gems and would pay well for them; was armed by Errde at Overlake Hold
-- Faction: Party crew member
-- Revealed motivations/secrets: Knowledgeable about gnomish alchemy and Blingdenstone contacts
-
-**Stool**
-- Current location: Gracklstugh, with the party
-- Current state: Alive, very animated/upset upon learning about Rumpadump
-- Recent actions: Told Zalthir that myconids don't normally dance; identified Rumpadump from Zalthir's description as a friend from his circle; insisted the party save Rumpadump; declared the dancing myconids must also be from his circle; expressed strong anti-quagoth sentiment
-- Faction: Party companion (myconid sprout)
-- Revealed motivations/secrets: Rumpadump is from his circle; believes quagoths are inherently savage and would have attacked first; desperate to save Rumpadump
-
-**Rumpadump**
-- Current location: Gracklstugh (somewhere; appears upset and not dancing)
-- Current state: Alive but distressed
-- Faction: Myconid, member of Stool's circle
-- Revealed motivations/secrets: Something is wrong with him; needs rescue according to Stool
-
-**Brannam**
-- Current location: Gracklstugh
+- Current location: Ghohlbrorn's Lair, then Overlake Hold
 - Current state: Active
-- Recent actions: Delivered magical weapons and items that Thorin and Zalthir requested, arriving towards evening on the 10th of Myrtul
-- Faction: Duergar (likely merchant/crafter)
+- Recent actions: Identified the gems Werz paid as empty spell gems; explained they could be taken to Kazook Pickshine in Blingdenstone for significant payment; walked to Overlake Hold to be armed by Errde
+- Faction: Travelling group (Deep Gnome)
+- Motivations/Secrets: Knowledge of Blingdenstone alchemist Kazook Pickshine
+
+**Spiderbait**
+- Current location: Overlake Hold (day 1 of 2nd Tenday)
+- Current state: Active
+- Recent actions: Walked to Overlake Hold to be armed by Errde
+- Faction: Travelling group
+
+**Sarith**
+- Current location: Overlake Hold (day 1 of 2nd Tenday)
+- Current state: Active
+- Recent actions: Walked to Overlake Hold to be armed by Errde
+- Faction: Travelling group
+
+**Eldeth**
+- Current location: Overlake Hold (day 1 of 2nd Tenday)
+- Current state: Active
+- Recent actions: Walked to Overlake Hold to be armed by Errde
+- Faction: Travelling group
+
+**The Flumph** (also referred to as "Buppido" in prior context, operating as The Flumph)
+- Current location: Ghohlbrorn's Lair / travelling with group
+- Current state: Active; expresses desire for more "trauma" to dump
+- Recent actions: Performed a trauma dump on Errde at Daz's encouragement; received a gem from Werz, played with it, then dropped it (turned light blue, then green, then magenta); gem subsequently pocketed by Grygum
+- Faction: Travelling group
+- Motivations/Secrets: Has psychic/telepathic ability used to communicate (Daz used the Flumph to speak directly into Grygum's mind); previously complained (as Buppido) that the Council of Savants was more interested in self-preservation than freeing the Derro
+
+**The Ghost** (unnamed phantasm)
+- Current location: Travelling with group
+- Current state: Present; received gem via Grygum on Werz's behalf
+- Recent actions: Used as a threat in NDA negotiations (Daz noted the group could only promise "the haunting of a ghost"); Werz shuddered at the sight of it
+- Faction: Travelling group
+
+**Grygum**
+- Current location: Shattered Spire, then Ghohlbrorn's Lair, then Clan Ironhead area
+- Current state: Active
+- Recent actions: Crossed the bridge to the Shattered Spire; met with Werz; pocketed the Flumph's dropped gem; questioned Werz about enemies; suggested using Werz as bait; noted Werz's mention of Stone Guard bribe timing in relation to the Faerzess; accompanied group to Clan Ironhead; reminded the group about freeing Thermbachaude
+- Faction: Travelling group
+- Motivations/Secrets: Mentally noted the correlation between Stone Guard bribery beginning "a few months ago" and the Deepking's madness / the Faerzess; wants to free Thermbachaude
+
+**Thorin**
+- Current location: Travelling with group
+- Current state: Active; frustrated with subterfuge
+- Recent actions: Suggested faking deaths and running; expressed desire for radical transparency; bluntly asked Werz why assassins tried to kill him; explained the NDA concept to Werz; expressed dislike of NDAs on principle; agreed with Zalthir's initial instinct to run; promised the Flumph they would get it more trauma
+- Faction: Travelling group
+- Background: Survived the War of the Giants when the ordning fell apart
+
+**Zalthir**
+- Current location: Travelling with group
+- Current state: Active; newly equipped with magical tattoos
+- Recent actions: Accompanied group to Overlake Hold; observed Errde's reaction to Daz's reasoning; was singled out by Errde with a stare; left Errde's chambers; spoke with Stool about the myconids and Rumpadump; was persuaded (via Thorin's sympathy) to add rescuing Rumpadump to the group's obligations; received magical weapons and items from Duergar Brannam; sewed magical tattoos onto his body; accompanied group to Clan Ironhead; attempted to appear confused when Grinta Ironhead approached
+- Faction: Travelling group; monastic background
+- Background: Trained by monks who emphasised discretion, shadow, and avoiding frontal conflict
 
 **Thangus Ironhead**
 - Current location: Clan Ironhead stronghold, Gracklstugh
-- Current state: Alive, publicly loyal to the Deepking
-- Recent actions: Granted the party an audience due to their badges; stated Clan Ironhead approves of the Deepking's policies and agrees Clan Steelshadow should be pre-eminent
-- Faction: Clan Ironhead (clan leader)
-- Revealed motivations/secrets: Daz and Zalthir believe he is lying to survive; his public stance contradicts Clan Ironhead's actual dissatisfaction
+- Current state: Active; gave audience to the group
+- Recent actions: Claimed Clan Ironhead approves of the Deepking's policies and supports Clan Steelshadow's pre-eminence
+- Faction: Clan Ironhead
+- Motivations/Secrets: Daz assessed him as lying and trying to survive; his stated loyalty to the Deepking considered insincere
 
 **Grinta Ironhead**
-- Current location: Gracklstugh (near Clan Ironhead stronghold)
-- Current state: Alive, actively scheming against the Deepking
-- Recent actions: Approached the party after they left Clan Ironhead; propositioned them: if the Deepking were deposed, Clan Ironhead would trade weapons with the Deep Gnomes at discounted prices
-- Faction: Clan Ironhead
-- Revealed motivations/secrets: Wants the Deepking deposed; knows the party intends to travel to the surface through Blingdenstone; aware of the Deepking's exorbitant pricing imposed on Deep Gnomes
+- Current location: Outside Clan Ironhead stronghold; approached the group as they left
+- Current state: Active
+- Recent actions: Approached the group covertly after their audience with Thangus; revealed awareness of the group's intent to reach the surface via Blingdenstone; stated the Deepking has imposed exorbitant prices on the Deep Gnomes; proposed that if the Deepking were deposed, Clan Ironhead would trade with the gnomes at discounted rates; departed before the group could respond
+- Faction: Clan Ironhead (dissident faction)
+- Motivations/Secrets: Opposes the Deepking's trade policies; aware of the group's movements and goals; acting independently from Thangus Ironhead's public position
 
-**The Deepking (Horgar Steelshadow V)**
-- Current location: Gracklstugh (implied)
-- Current state: Mad/afflicted
-- Recent actions (referenced): Forbidden weapons deals with any clan other than Clan Steelshadow; raised prices to astronomical levels for Deep Gnomes; sending all orders to Clan Steelshadow
-- Faction: Clan Steelshadow (ruling clan)
-- Revealed motivations/secrets: His madness began a few months ago (correlated with the Faerzress); multiple factions want him deposed or destroyed
+**Stool**
+- Current location: Ghohlbrorn's Lair / travelling with group
+- Current state: Active
+- Recent actions: Spoke with Zalthir about the myconids; expressed confusion about dancing myconids ("myconids don't dance"); identified a distressed sprout as Rumpadump; became animated and demanded the group rescue Rumpadump; stated quagoths are savage monsters who must have attacked the myconids first
+- Faction: Myconid (from an unnamed myconid circle)
+- Motivations/Secrets: Rumpadump is from Stool's circle; considers quagoths inherently aggressive
+
+**Rumpadump**
+- Current location: Unknown (in or near Gracklstugh, visible to Zalthir; described as "looking upset and not dancing")
+- Current state: Distressed; not present with the group
+- Recent actions: None directly; observed from a distance by Zalthir
+- Faction: Myconid (same circle as Stool)
+- Motivations/Secrets: Not yet known; Stool believes something is wrong
+
+**Brannam** (Duergar)
+- Current location: Came to Ghohlbrorn's Lair
+- Current state: Active
+- Recent actions: Delivered magical weapons and items to Thorin and Zalthir as requested
+- Faction: Unknown (Duergar)
 
 **Kazook Pickshine**
-- Current location: Blingdenstone
-- Current state: Alive (referenced)
-- Faction: Alchemist in Blingdenstone
-- Revealed motivations/secrets: Can turn empty spell gems into gems of immense magical power; will pay well for them
+- Current location: Blingdenstone (not present in this session)
+- Current state: Unknown; referenced
+- Faction: Deep Gnome / alchemist of Blingdenstone
+- Notes: Jimjar states Kazook Pickshine is an alchemist who can convert empty spell gems into gems of immense magical power and will pay a lot for them; does not appear in this session
 
-**Spiderbait**
-- Current location: Gracklstugh
-- Current state: Alive, part of the crew
-- Recent actions: Armed by Errde at Overlake Hold on 1st day of 2nd Tenday
+**Thermbachaude**
+- Current location: Unknown; imprisoned or otherwise in need of rescue
+- Current state: Unknown; referenced by Grygum
+- Faction: Unknown
+- Notes: Grygum reminded the group that freeing Thermbachaude remains an obligation; does not appear in this session
 
-**Sarith**
-- Current location: Gracklstugh
-- Current state: Alive, part of the crew
-- Recent actions: Armed by Errde at Overlake Hold on 1st day of 2nd Tenday
+**Buppido** (referenced in backstory context; identity overlaps with The Flumph per prior sessions)
+- Notes: Referenced as having complained, before going mad, that the Council of Savants was more interested in staying in power than freeing the Derro people; Daz uses this as evidence the Council is not a controlling power but rather a constrained one
 
-**Eldeth**
-- Current location: Gracklstugh
-- Current state: Alive, part of the crew
-- Recent actions: Armed by Errde at Overlake Hold on 1st day of 2nd Tenday
-
-**Correlon (Corellon)**
-- Referenced as the chief elvish god; was Lolth's consort; banished Lolth after her betrayal was revealed
+**Correlon**
+- Current location: Not present; referenced in lore
+- Notes: Described as the chief elvish god; was consort to the entity that became Lolth (or she was his); discovered Lolth's followers' attempt to kill his priests; banished Lolth; his followers are the ongoing target of Drow enmity across the multiverse
 
 **Lolth**
-- Referenced as an avatar created by a being who was Correlon's consort; convinced some elves their destiny was to rule; her followers tried to kill Correlon's priests; was banished; her cult organizes Drow society around noble houses with ruthless competition; still punishes her followers' failures
+- Current location: Not present; referenced in lore
+- Notes: Created an avatar called Lolth; convinced some elves their destiny was to rule; her followers attempted to kill Correlon's priests; was banished by Correlon; her followers were banished and became the Drow; the banishment occurred in the Feywild; Drow fled from the Underdark of the Feywild to every part of the multiverse; described as still "touchy" about her followers' failures
+
+**Milo Goodbarrel**
+- Current location: Not present; referenced via book
+- Notes: Author of a book carried by Daz; contains a passage about a figure named Ezra who claimed poverty but always had funds, and who needed the First Faction more than they needed him; Daz used this passage in negotiations with Werz
+
+**Ezra**
+- Current location: Not present; referenced in Milo Goodbarrel's book
+- Notes: Character in Goodbarrel's book; habitually claimed inability to pay but always could; needed the First Faction more than they needed him; used by Daz as an analogy for Werz
+
+---
 
 ## Factions
 
 **Stone Guard**
-- Current goals: Destruction of the Derro (aligned with Keepers of the Flame on this); maintain order in Gracklstugh
-- Recent actions: Errde armed the party's crew; badges granted to the party provide access
-- Relationships: Led by Errde Blackskull; aligned with Keepers of the Flame in wanting Derro destroyed; opposed to the Grey Ghosts; suspicious of Council of Savants
-- Key members: Errde Blackskull (head)
-- Revealed secrets: Rumors of Stone Guard members taking bribes since the Deepking's madness began a few months ago (previously considered incorruptible)
+- Current goals: Obtain proof of a Grey Ghosts–Council of Savants alliance; destroy the Derro / the Council of Savants; protect (or exploit) Errde's agenda
+- Recent actions: Errde directed the group to use Clan Ironhead and Clan Xardelva as cover for their intelligence-gathering mission; armed Jimjar, Spiderbait, Sarith, and Eldeth; accepted the group's continued service
+- Relationships: Opposed to the Derro and Council of Savants; cannot openly send troops into Derro slums; nominally incorruptible but rumoured to have begun taking bribes a few months ago; distrusted by Clan Ironhead and Clan Xardelva as a tool of the Deepking
+- Key members: Errde (head)
 
 **Keepers of the Flame**
-- Current goals: Destruction of the Derro
-- Relationships: Aligned with Stone Guard on wanting Derro destroyed
-- Key members: Not specified in this text
+- Current goals: Referenced as wanting the destruction of the Derro alongside the Stone Guard
+- Recent actions: Not directly active this session
+- Relationships: Aligned with Stone Guard on anti-Derro goals
+- Key members: Not named this session
+
+**Council of Savants (Derro)**
+- Current goals: Staying in power (per Buppido's prior assessment)
+- Recent actions: Not directly active this session
+- Relationships: Accused by Errde of controlling the Deepking and allying with the Grey Ghosts; Daz believes this accusation is false; Buppido previously described them as self-interested rather than liberatory; assessed by Daz as innocent or themselves victims of another power
+- Key members: Not named this session
 
 **Grey Ghosts**
 - Current goals: Unknown
-- Recent actions: Raiding Clan Tharzgad; operating near the Council of Savants (proximity observed but alliance unconfirmed)
-- Relationships: Errde suspects alliance with Council of Savants (unproven)
-
-**Council of Savants**
-- Current goals: Staying in power (per Buppido's complaints)
-- Current state: Daz believes they are innocent or themselves victims of another power's machinations
-- Relationships: Errde believes they are corrupting the Deepking; Grey Ghosts operate near them; Buppido (pre-madness) felt they prioritized power over freeing the Derro
-- Revealed secrets: Described as a "fig leaf of autonomy" for the Derro, controlled by those in power
-
-**Empty Scabbard Killers (Assassins)**
-- Current state: Active in Gracklstugh; targeting Werz
-- Recent actions: Attempted to kill Werz; refused Werz's counter-offer for more money
-- Relationships: Errde wants to know who directs them to kill her clan members; widely considered a children's fable by many Duergar
-- Revealed secrets: They are real professionals despite being dismissed as myth
+- Recent actions: Not directly active this session; suspected by Errde of alliance with the Council of Savants
+- Relationships: Errde wants proof of their alliance with the Council of Savants; Clan Tharzgad has been complaining about raids by the Grey Ghosts
+- Key members: Not named this session
 
 **Clan Steelshadow**
-- Current goals: Maintain weapons monopoly; support the Deepking
-- Current state: Receiving all weapons orders from the Deepking
-- Relationships: The Deepking's own clan; other clans resent their monopoly
-- Key members: The Deepking (Horgar Steelshadow V)
+- Current goals: Maintain monopoly on weapons orders from the Deepking
+- Recent actions: Receiving all weapons orders from the Deepking; blocking Clan Ironhead from direct orders (Clan Ironhead may only take surplus from Clan Steelshadow)
+- Relationships: Favoured by the Deepking; Clan Ironhead resents the loss of business; Clan Xardelva fears being absorbed; the Deepking belongs to this clan
+- Key members: The Deepking (clan member / ruler)
 
 **Clan Ironhead**
-- Current goals: Publicly support the Deepking; privately want him deposed to resume free trade
-- Current state: Forbidden from taking weapons orders directly (may only take surplus from Clan Steelshadow); upset with loss of business
-- Relationships: Seen as opposing the Deepking; want to trade with Deep Gnomes at discount if Deepking deposed
-- Key members: Thangus Ironhead (clan leader, publicly loyal), Grinta Ironhead (actively scheming against the Deepking)
+- Current goals: Officially: support the Deepking (per Thangus); unofficially: regain weapons trade and depose the Deepking (per Grinta)
+- Recent actions: Gave reluctant audience to the group; Thangus gave a loyalist statement; Grinta approached the group covertly with a deposition proposal
+- Relationships: Forbidden from taking direct weapons orders; dependent on Clan Steelshadow surplus; wants to trade with Deep Gnomes; publicly loyal but internally fractured
+- Key members: Thangus Ironhead (clan leader); Grinta Ironhead (dissident)
 
 **Clan Xardelva**
-- Current goals: Survival; worried about being absorbed by Clan Steelshadow
-- Current state: Worried their work will be seen as too similar to weaponsmithing
-- Relationships: Seen as opposing the Deepking
-
-**Clan Ironshadow**
-- Current state: Clan leader willing to wait out the Deepking's madness; other clan members unhappy
+- Current goals: Protect their craft from being reclassified as weaponsmithing and absorbed by Clan Steelshadow
+- Recent actions: Not directly active this session; mentioned by Errde as a suggested cover contact for the group
+- Relationships: Seen as opposing the Deepking; at risk of hostile takeover by Clan Steelshadow
+- Key members: Not named
 
 **Clan Tharzgad**
-- Current state: Complaining about raids by the Grey Ghosts
+- Current goals: Not specified
+- Recent actions: Complaining about raids by the Grey Ghosts
+- Relationships: Dissatisfied with current situation; not explicitly allied with any named faction
+- Key members: Not named
 
 **Clan Xundom**
-- Current state: Will support the Deepking if war breaks out
+- Current goals: Not specified
+- Recent actions: Not directly active this session
+- Relationships: Identified by Werz as a clan that will support the Deepking if war breaks out
+- Key members: Not named
 
-**Cult of Lolth / Drow Society**
-- Organized around noble houses with ruthless competition; if a house tries to destroy another and fails, the other houses ruin it; complete extermination of enemies is required; NDAs are a critical part of Drow deals
-- Relationships: Some Drow are pursuing the party
-- Origin: Banished from the Feywild; fled from the Underdark of the Feywild to every part of the multiverse
+**Clan Ironshadow**
+- Current goals: Not specified
+- Recent actions: Not directly active this session
+- Relationships: Clan leader willing to wait out the Deepking's madness; other clan members are unhappy
+- Key members: Clan leader unnamed
 
-**The Party's Crew**
-- Members: Jimjar, Spiderbait, Sarith, Eldeth
-- Current state: Armed by Errde at Overlake Hold
-- Recent actions: Walked to Overlake Hold and received weapons on the 1st day of the 2nd Tenday
+**Cult of Lolth (Drow)**
+- Current goals: Destroy the followers of Correlon; maintain factional dominance through noble house competition
+- Recent actions: Not directly active this session; referenced in Daz's backstory and lore exposition
+- Relationships: Have some Drow pursuing the group (referenced by Thorin); organised around noble houses with ruthless elimination culture
+- Key members: Not named this session
+
+**Myconid Circle (Stool and Rumpadump's)**
+- Current goals: Unknown; Stool wants to find and rescue Rumpadump
+- Recent actions: Not directly active this session; dancing myconids observed (possibly from this circle); Rumpadump observed distressed
+- Relationships: Stool considers quagoths natural aggressors
+- Key members: Stool; Rumpadump
+
+**The First Faction**
+- Current goals: Unknown
+- Recent actions: Referenced only in Milo Goodbarrel's book via the story of Ezra
+- Relationships: Ezra needed them more than they needed him
+- Key members: Not named
+
+---
 
 ## World Events
 
-- **Mythic past**: Lolth, originally Correlon's consort, created an avatar and convinced some elves their destiny was to rule. Her followers tried to kill Correlon's priests. Correlon banished her. The elves banished her followers, called "Drow." The banishment occurred in the Feywild. Drow fled from the Feywild's Underdark to every part of the multiverse.
-- **Recent past**: The War of the Giants occurred when the ordning fell apart; giants pursued genocidal war against smaller races. Thorin survived this.
-- **A few months ago**: The Deepking's madness began, correlating with the Faerzress. Stone Guard corruption (bribery) began at the same time.
-- **The Deepking** imposed a weapons monopoly for Clan Steelshadow and raised prices to astronomical levels for Deep Gnomes.
-- **10th of 1st Tenday of Myrtul 1493**: The party debated whether to stay in Gracklstugh or flee; Daz proposed focusing all hatred on the Deepking to cause Duergar infighting rather than Derro genocide; Grygum insisted they honor commitments.
-- **10th of 1st Tenday of Myrtul 1493**: Party visited Errde at Overlake Hold; the Flumph trauma-dumped on her; Errde initially claimed proof of Grey Ghost/Council of Savants alliance; Daz talked her down; Errde demanded the party return to gather more evidence; she suggested they use Clan Ironhead and Clan Xardelva visits as cover.
-- **10th of 1st Tenday of Myrtul 1493**: Party met Werz at the Shattered Spire tavern; Werz gave each party member a 10gp gemstone; admitted to facilitating illegal weapons deals between clans; paid 1100 gold for NDA; paid in empty spell gems for assassin removal; shared intelligence on clan politics and Stone Guard corruption.
-- **10th of 1st Tenday of Myrtul 1493**: Zalthir spoke with Stool about the dancing myconids; Stool identified Rumpadump from Zalthir's description; Stool insisted on rescuing Rumpadump.
-- **10th of 1st Tenday of Myrtul 1493 (evening)**: Brannam delivered magical weapons and items to Thorin and Zalthir; Zalthir applied magical tattoos.
-- **1st of 2nd Tenday of Myrtul 1493**: Jimjar, Spiderbait, Sarith, and Eldeth were armed by Errde at Overlake Hold.
-- **1st of 2nd Tenday of Myrtul 1493**: Party visited Clan Ironhead; Thangus Ironhead publicly declared support for the Deepking; Daz and Zalthir judged him to be lying. Grinta Ironhead approached the party afterward, proposing that if the Deepking were deposed, Clan Ironhead would trade with Deep Gnomes at discounted rates.
+- Daz reflected on Drow history: Lolth created an avatar and convinced elves to follow her ambitions; her followers attempted to kill Correlon's priests; Correlon banished Lolth; the elves banished her followers (the Drow); the banishment occurred in the Feywild; Drow fled from the Feywild's Underdark across the multiverse.
+- Daz reflected on a story (possibly personal memory) of a Drow noble house destroyed by all other houses because one child of an enemy house survived.
+- The group debated their options: run and fake their deaths, or continue gathering intelligence for the factions.
+- The group decided to continue, honouring their commitments, per Grygum's insistence.
+- Daz and the group met with Errde at Overlake Hold; the Flumph performed a trauma dump on Errde.
+- Errde declared the Grey Ghosts and Council of Savants are working together based on the Flumph's visions.
+- Daz argued that proximity does not equal cooperation, successfully destabilising Errde's certainty.
+- Errde demanded the group return to the Whorlstone Tunnels for documentary evidence (papers).
+- Errde revealed she cannot send Stone Guard troops into the Derro slums.
+- Errde directed the group to use Clan Ironhead and Clan Xardelva as cover contacts to disguise their true allegiance to her.
+- Errde agreed to arm the group's NPC companions (Jimjar, Spiderbait, Sarith, Eldeth).
+- The group met Werz at the Shattered Spire tavern; Werz paid each party member and the Flumph a 10 gold piece gemstone.
+- Grygum pocketed the Flumph's dropped gemstone without being observed.
+- Werz revealed he had been brokering illegal inter-clan weapons deals (including gnome deals), violating the Deepking's monopoly, and that this is likely why assassins were hired against him.
+- Werz attempted to bribe the assassins sent after him; they refused.
+- Werz offered to facilitate a gnome-Duergar weapons deal in exchange for eliminating his assassin problem.
+- Daz negotiated an NDA with Werz; price escalated from 1000 to 1100 gold after Werz questioned it; Werz paid 1100 gold.
+- Daz negotiated a separate fee for assassin removal; Werz paid in gems (described as empty spell gems, identified later by Jimjar).
+- Werz provided intelligence on clan politics: Clan Ironshadow leader willing to wait out the Deepking; Clan Tharzgad suffering Grey Ghost raids; Clan Xundom will back the Deepking in war; Stone Guard rumoured to have begun taking bribes a few months ago.
+- Werz warned the group that the city is on the verge of all-out war and that wrong information to the wrong faction could trigger it.
+- Jimjar identified Werz's gem payment as empty spell gems; stated Kazook Pickshine in Blingdenstone could convert them into gems of immense magical power and would pay well for them.
+- Zalthir spoke with Stool; learned dancing myconids are abnormal behaviour; Stool identified a distressed sprout as Rumpadump from his circle.
+- The group (via Thorin's sympathy) agreed to rescue Rumpadump after dealing with the assassins.
+- Duergar Brannam delivered magical weapons and items to Thorin and Zalthir.
+- Zalthir sewed magical tattoos onto his body using the delivered items.
+- On the 1st day of the 2nd Tenday of Myrtul 1493, Jimjar, Spiderbait, Sarith, and Eldeth were armed by Errde at Overlake Hold.
+- The entire group travelled to Clan Ironhead and requested an audience.
+- Thangus Ironhead gave the group an audience and stated Clan Ironhead supports the Deepking and Clan Steelshadow's pre-eminence; Daz assessed this as a lie for survival.
+- As the group left Clan Ironhead's stronghold, Grinta Ironhead approached covertly; revealed awareness of the group's plans; proposed that deposing the Deepking would free Clan Ironhead to trade with the Deep Gnomes at discounted rates; departed immediately.
+- Grygum reminded the group that freeing Thermbachaude remains an outstanding obligation.
+
+---
 
 ## Locations
 
-**Gracklstugh**
-- Duergar city in the Underdark; tense political situation on the verge of civil war; multiple factions vying for power; the Deepking is mad; Stone Guard becoming corrupt; weapons monopoly enforced for Clan Steelshadow; large Derro population in defensible enclaves with deep tunnels.
-
 **Overlake Hold**
-- Errde Blackskull's office/headquarters for the Stone Guard; where the party met with Errde; where the party's crew was armed.
+- What it is: Fortress/administrative centre of the Stone Guard in Gracklstugh; contains Errde's office/chambers
+- What happened: Two meetings with Errde occurred here (one on the 10th day of the 1st Tenday, one implied on 1st day of 2nd Tenday when NPC companions were armed)
+- Current state: Active Stone Guard headquarters; Errde resides and operates here
 
-**The Shattered Spire**
-- A tavern built on a broken stalagmite jutting about forty feet from shore in the Darklake; constructed with fungi stalks in log-cabin style; accessed by a bridge woven of rothé wool. Where Werz met the party.
+**Shattered Spire**
+- What it is: A tavern built on a broken stalagmite jutting ~40 feet from the shore of the Darklake; constructed from fungi stalks in a log-cabin style; accessible via a bridge woven of rothé wool
+- What happened: The group met Werz here; NDA and assassin-removal deals were negotiated; Werz paid gems and gold
+- Current state: Active tavern; Werz departed after the meeting
 
-**Ghohlbrorn's Lair (Ghohlbrorn's Inn)**
-- Tavern/inn in Gracklstugh; Werz arranged for the party's accommodations here; where the crew gathered after meetings.
-
-**Clan Ironhead Stronghold**
-- Location of Clan Ironhead in Gracklstugh; party visited and spoke with Thangus Ironhead; initially reluctant to grant audience but badges secured entry.
+**Ghohlbrorn's Lair** (also referenced as Ghohlbrorn's Inn)
+- What it is: An inn/tavern in Gracklstugh where the group is staying
+- What happened: Daz briefed the crew on deals made and the need to enter the Whorlstone Tunnels; Jimjar identified the empty spell gems; Zalthir spoke with Stool; Brannam delivered magical equipment; the group gathered before departing for Clan Ironhead
+- Current state: Active; the group's base of operations in Gracklstugh; Werz arranged lodging here for the group
 
 **Whorlstone Tunnels**
-- Tunnels the party must enter to find evidence for the various factions; key to the party's plans to leave Gracklstugh.
+- What it is: Cave system beneath or near Gracklstugh; described as having caves that are "not as safe as they once were"
+- What happened: Referenced as the location the group must re-enter to find documentary evidence (papers) for Errde; previously visited (group encountered trouble there)
+- Current state: Dangerous; the group has not yet returned this session
+
+**Clan Ironhead Stronghold**
+- What it is: The fortified seat of Clan Ironhead within Gracklstugh
+- What happened: The group was initially refused entry; badges secured an audience with Thangus Ironhead; Thangus gave a loyalist statement; Grinta Ironhead approached the group outside the stronghold after the meeting
+- Current state: Active clan stronghold; internally divided between public loyalty (Thangus) and covert dissent (Grinta)
 
 **Blingdenstone**
-- Deep Gnome city; the party's intended route to the surface; home to alchemist Kazook Pickshine; Deep Gnomes have been trying to make weapons deals with Duergar clans; the Deepking has imposed exorbitant pricing on them.
+- What it is: City of the Deep Gnomes; route to the surface world (the "overbrite") passes through it
+- What happened: Referenced as the group's destination; Kazook Pickshine operates there; Grinta Ironhead referenced it as the group's known route
+- Current state: Not visited this session; the Deepking has imposed exorbitant prices on the Deep Gnomes there
 
-**The Feywild**
-- Where the original banishment of the Drow occurred; contains its own Underdark from which the Drow fled.
+**Derro Slums / Enclaves**
+- What it is: Defensible Derro-inhabited areas of Gracklstugh with deep tunnel networks
+- What happened: Referenced as the location the group must penetrate for evidence; Errde cannot send Stone Guard troops there
+- Current state: Dangerous; Grey Ghosts and Council of Savants activity suspected in the area
 
-**Derro Slums/Enclaves**
-- Defensible areas within Gracklstugh with deep tunnels; Errde cannot send Duergar troops there; the Grey Ghosts and Council of Savants operate near each other in these areas.
+**The Feywild / Underdark of the Feywild**
+- What it is: The plane where Lolth's banishment occurred; origin point of the Drow's dispersal across the multiverse
+- What happened: Referenced in Daz's lore reflection
+- Current state: Background lore; not visited
 
-**The Darklake**
-- Underground lake in/near Gracklstugh; the Shattered Spire tavern is built on a stalagmite in it.
+---
 
 ## Threads & Mysteries
 
-- **Who ordered the assassination of Werz Saltbaron?** Daz suspects Werz himself ordered an assassination on someone else and is now facing retaliation. Werz claims not to know why he's on the list.
-- **What is the true relationship between the Grey Ghosts and the Council of Savants?** Proximity observed but alliance unproven. Errde demands more evidence.
-- **Who controls the Empty Scabbard Killers?** Errde wants to know who ordered her clan members killed. The assassins are real despite being widely dismissed as a children's fable.
-- **What is really corrupting the Deepking?** Multiple factions blame the Council of Savants, but Daz believes they are innocent or victims themselves. The madness began a few months ago, correlating with the Faerzress.
-- **The Faerzress connection**: Grygum noted the timing of Stone Guard corruption aligns with the Faerzress but kept silent. The Faerzress appears linked to widespread madness.
-- **What evidence lies in the Whorlstone Tunnels?** The party must enter to find proof for at least one faction; this is key to leaving Gracklstugh.
-- **Thermbachaude**: Grygum reminded the group they need to free Thermbachaude. No further details on what/who this is or current state.
-- **Dancing myconids**: Stool says myconids don't normally dance; the dancing ones may be from his circle. What is causing their behavior?
-- **Rumpadump's rescue**: A myconid sprout from Stool's circle, distressed and not dancing, needs to be saved. Party agreed to attempt after dealing with assassins.
-- **Drow pursuing the party**: Referenced by Thorin; the party has Drow enemies chasing them.
-- **The party's escape from Gracklstugh**: They need to reach Blingdenstone and then the surface. Werz promised to facilitate a weapons deal with the gnomes. Grinta Ironhead offered discounted trade if the Deepking is deposed.
-- **Empty spell gems**: Werz paid the party in empty spell gems that Kazook Pickshine in Blingdenstone can turn into powerful magical items.
-- **Potential civil war in Gracklstugh**: Multiple factions want different outcomes; the city is described as "ready to explode"; providing wrong information to wrong faction could trigger all-out war or genocide against the Derro.
-- **Who is the real power behind events in Gracklstugh?** Daz suspects the Council of Savants are "victims of the machinations of yet another power."
-- **Milo Goodbarrel's book**: Daz carries and references it; contains stories/wisdom he uses in negotiations (referenced "Ezra" and the "First Faction").
+- **The Whorlstone Tunnels evidence run**: The group must re-enter the Whorlstone Tunnels to retrieve documentary papers proving (or disproving) the Grey Ghosts–Council of Savants alliance for Errde. The caves are known to be more dangerous than before.
+- **Werz's assassin problem**: Unknown parties hired professional assassins to kill Werz, likely because he brokered illegal inter-clan and gnome weapons deals. The assassins refused a bribe. The group has accepted payment to eliminate the assassins but has not yet acted.
+- **Who hired the assassins against Werz?**: Daz suspects Werz may himself have ordered an assassination against someone, and now that party is retaliating. This is unconfirmed. Werz claims not to know who put him on the list.
+- **Empty spell gems**: Werz paid the group in empty spell gems. Jimjar states Kazook Pickshine in Blingdenstone can convert them into gems of immense magical power and will pay highly for them. Their origin and how Werz came to have them is unexplained.
+- **The Deepking's madness**: Multiple factions and individuals reference the Deepking's growing madness or instability. Werz states the Stone Guard began taking bribes "a few months ago when the madness of the Deepking took over." Grygum mentally noted this timing in relation to the Faerzess (suggesting a possible connection between the Faerzess and the Deepking's deterioration). The true cause of the Deepking's madness is unresolved.
+- **Grygum's Faerzess observation**: Grygum silently connected the timing of the Stone Guard's corruption to the Faerzess but kept this to himself. The significance of this connection has not been explored.
+- **Deposing the Deepking**: Both Daz (as a strategy to cause the Duergar to destroy each other) and Grinta Ironhead (as a means to free trade) have independently raised the possibility of removing the Deepking. No plan exists yet; the idea is floated as an option.
+- **The Council of Savants' true role**: Errde is convinced the Council controls the Deepking. Daz believes this is false and that the Council is innocent or itself a victim. The actual relationship between the Council of Savants and the Deepking is unresolved.
+- **The Grey Ghosts' true activities**: Their alliance (or lack thereof) with the Council of Savants is the central intelligence question Errde needs answered. Their actual goals and activities remain unknown.
+- **Drow pursuit of the group**: Thorin referenced "some Drow after us" as a reason not to acquire additional enemies. The identity and status of these pursuing Drow is not elaborated in this session.
+- **Rescuing Rumpadump**: Stool identified a distressed myconid sprout outside as Rumpadump, from his circle. The group agreed to rescue him after dealing with the assassins. Why Rumpadump is distressed and separated from his circle is unknown.
+- **Dancing myconids**: Stool stated myconids do not dance and expressed concern about the behaviour. The cause of this abnormal behaviour is unresolved. Stool suggested they may be from his circle.
+- **Thermbachaude**: Grygum reminded the group that freeing Thermbachaude remains an obligation. Thermbachaude's location, condition, and captors are not described in this session.
+- **Clan Xardelva contact**: Errde directed the group to also speak to Clan Xardelva as cover. The group visited Clan Ironhead but has not yet contacted Clan Xardelva.
+- **The gnome-Duergar weapons deal**: Werz offered to facilitate a deal between the Deep Gnomes and Duergar clans if the group eliminates his assassin problem. Grinta Ironhead separately indicated Clan Ironhead wants to trade with gnomes post-Deepking. The feasibility and terms of such a deal are unresolved.
+- **Milo Goodbarrel's book**: Daz carries and reads from this book, using it for negotiating leverage. The book's full contents, its author's identity and significance, and why Daz carries it are not explained.
+- **The First Faction**: Referenced in Goodbarrel's book via the story of Ezra. Their identity and relevance (if any) beyond the anecdote is unexplained.
+- **Information leverage dilemma**: The group possesses or is gathering intelligence that multiple factions want. Daz, Werz, and Grinta all independently noted that providing the wrong information to the wrong faction could trigger city-wide war. How the group will navigate this without causing a catastrophe (or whether they will choose to cause one) is unresolved.

@@ -7,13 +7,15 @@ aliases:
   - Jimjar Also Jim Jar
   - Jimjar (Jim Jir)
   - Jimjar Jim Jir
-source_extracts: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54]
+source_extracts: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55]
 ---
 
 # JimJar
 
 ## Identity
 Deep gnome (svirfneblin) NPC companion, fellow escapee from drow captivity who continues traveling with the party. *Also known as: Jim Jar, Jim Jir, Jimjar (also "Jim Jar"), Jimjar Also Jim Jar, Jimjar (Jim Jir), Jimjar Jim Jir.*
+
+*Also known as: Jim Jar, Jim Jir, Jimjar (also "Jim Jar"), Jimjar Also Jim Jar, Jimjar (Jim Jir), Jimjar Jim Jir.*
 
 ## Personality & Motivations
 - Compulsive gambler who constantly proposes bets to party members on mundane outcomes, even framing life-or-death situations as wagers
@@ -34,16 +36,15 @@ Deep gnome (svirfneblin) NPC companion, fellow escapee from drow captivity who c
 ## Current Status
 - **Location:** Unknown — disappeared at some point prior to the party's emergence to the surface. Circumstances of the disappearance are not yet documented in available extracts.
 - **Party intentions:** Researching his disappearance is listed alongside the investigation of House T'sarran as one of the motivating purposes for a planned journey to Candlekeep in the months following the party's emergence to the Overbright.
-- **Party knowledge:** Seen as a quirky but sometimes insightful companion with questionable expertise on Underdark phenomena. The party considers his disappearance significant enough to merit dedicated archival research.
+- **Party knowledge:** Seen as a quirky but sometimes insightful companion with questionable expertise on Underdark phenomena. The party considers his disappearance significant enough to merit dedicated archival research. His true nature (described elsewhere as a celestial) remains an open question the party wants answered.
+- **Candlekeep research:** At Candlekeep, Zalthir's assigned question concerning Jimjar dovetails with the research interests of an avowed named Khell-Vire.
 
 ## Relationships
 - **Grygum:** Regular betting partner who distrusts Jimjar and suspects he might prioritize bets over lives; Jimjar owes him from the lost knot wager
 - **Daz:** Daz respects JimJar's judgment and finds his strategic advice wise; Jimjar defers to Daz's commands
-- **Zalthir:** Mild friction due to resentment over interrupted gambling plans
+- **Zalthir:** Mild friction due to resentment over interrupted gambling plans; Zalthir speculated during a forest surveillance sequence that a mysterious follower might be Jimjar coming to drag them back underground (did not rule out the possibility)
 - **Shuushar:** Openly dismissive of Shuushar's concerns and Kuo-Toan beliefs in general
+- **Khell-Vire:** Candlekeep avowed whose research interests align with questions about Jimjar's nature
 
 ## Arc Score Events
 None noted in available session records.
-
-## Notes from Extract 054
-Jimjar does not appear in this chunk. He is referenced in the context of the party's planning for the months following their emergence to the surface. Research into his disappearance is listed alongside investigation of House T'sarran as one of the motivating purposes for a planned journey to Candlekeep.

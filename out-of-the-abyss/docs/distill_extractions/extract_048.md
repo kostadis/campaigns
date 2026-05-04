@@ -1,119 +1,156 @@
 ## NPCs
 
 ### Pudding King
-- **Current location:** Throne room (dissolved/dead)
-- **Current state:** Destroyed; dissolved into inert puddles
-- **Recent actions:** Transformed from humanoid form into a sentient, telepathic ooze as a manifestation of his embrace of Juiblex. Fought the party using slime waves, green slime lair actions, and psychic abilities. Was grappled by Zalthir and dragged out of his lair, removing his lair action advantage. At one point swapped bodies/positions with Glabbagool. Dissolved under Zalthir's final assault.
-- **Faction:** Juiblex
-- **Revealed motivations:** Intended to reduce all of the Underdark into nothing but ooze. Fully embraced Juiblex's power, shedding his humanoid form for "supreme power."
-- **Final words (telepathic):** "Behold the true feast, the soul's final blend!"
+- **Current Location:** Defeated; dissolved into inert puddles in the area outside his throne room
+- **Current State:** Dead — physical form melted, consciousness dissipated
+- **Recent Actions:** Transformed into a sentient telepathic ooze; unleashed multiple slime wave attacks; used lair actions to drop green slime on party members; fought the party after being dragged out of his throne room; swapped positions with Glabbagool during the battle; screamed final telepathic words before dissolving
+- **Faction:** Devoted of Juiblex
+- **Revealed Motivations/Secrets:** Intended to reduce all of the Underdark to ooze; had fully embraced Juiblex, the demon lord of oozes, to the point of shedding his humanoid form entirely; his transformation into a sentient ooze was complete and irreversible
+- **Final Words:** "Behold the true feast, the soul's final blend!"
 
 ### Glabbagool
-- **Current location:** With the party, near the throne room
-- **Current state:** Alive; now in an ooze form rather than his original gelatinous cube form. Cheerful and enthusiastic about his new smaller, more mobile body.
-- **Recent actions:** Was present during the battle. Had both Zalthir and the Pudding King dragged through his body (said "this tickles"). Somehow swapped bodies/positions with the Pudding King during the fight. Cried out "Why are you hurting me?" when Thorin attacked the wrong target. Confirmed his identity by recalling meeting the party in a cave.
-- **Faction:** Party ally
-- **Revealed motivations:** Found being a gelatinous cube inconvenient due to slow movement. Excited about being carried in a jar or Bag of Holding. Wants to travel with the party, see the world, and serve as a "garbage disposal." Interested in monk training to learn to control his form and acidity.
+- **Current Location:** With the party, outside the throne room
+- **Current State:** Alive; returned to his original gelatinous cube form after the Pudding King's defeat; previously and temporarily existed as a smaller ooze after swapping with the Pudding King
+- **Recent Actions:** Was passed through by Zalthir and the Pudding King during the grapple maneuver, remarking it "tickled"; swapped positions or forms with the Pudding King during the battle; confirmed his identity to Thorin by recalling where they first met ("in a cave"); expressed enthusiasm about his new mobility possibilities after the battle
+- **Faction:** Allied with the party
+- **Revealed Motivations/Secrets:** Finds being a gelatinous cube inconvenient due to slow movement; interested in being carried in a jar or the Bag of Holding to travel with the party; eager to serve as a "garbage disposal"; interested in monk training to gain control over his form and acidity
+- **Notes:** Thorin asked him where they first met; Glabbagool responded "in a cave" (recorded in scene notes as "in a cake" — preserving both versions as written)
 
 ### Prince Livid
-- **Current location:** Throne room (destroyed)
-- **Current state:** Dead; killed by Daz's Magic Missile
-- **Recent actions:** Attacked Zalthir with a psychic blast dealing 14 damage (7 on successful save). Attacked Daz with a psychic attack dealing 5 damage. Charged toward the party after the Pudding King fell. Resistant to fire damage (survived Fireball taking 14 instead of 29 damage).
-- **Faction:** Pudding King / Juiblex
+- **Current Location:** Destroyed on the battlefield outside/near the throne room
+- **Current State:** Dead — killed by Daz's Magic Missile
+- **Recent Actions:** Attacked Zalthir with a psychic blast dealing fourteen points of damage (halved to seven on a successful save); survived Daz's Fireball due to fire resistance (reduced to eight hit points); used a psychic attack on Daz dealing five points of damage; charged toward the party in the final phase of combat
+- **Faction:** Ally of the Pudding King; servant of Juiblex
+- **Revealed Motivations/Secrets:** None beyond serving the Pudding King
+- **Notable Properties:** Resistant to fire damage
 
 ### Princess Ebonmire
-- **Current location:** Throne room (destroyed)
-- **Current state:** Dead; killed by combined efforts of Thorin, Grygum, and Zalthir
-- **Recent actions:** Threw acidic ooze blobs at the party. Charged at Thorin. Contained a spellbook in her stomach that was recovered after her death.
-- **Faction:** Pudding King / Juiblex
+- **Current Location:** Destroyed on the battlefield outside/near the throne room
+- **Current State:** Dead — killed by Thorin; body looted
+- **Recent Actions:** Threw a blob at Thorin early in combat (missed); charged at Thorin in the final phase; took full damage from Daz's Fireball; was grappled by Zalthir before being killed
+- **Faction:** Ally of the Pudding King; servant of Juiblex
+- **Revealed Motivations/Secrets:** None beyond serving the Pudding King
+- **Postmortem:** A spellbook containing numerous magical formulas was recovered from inside her stomach
 
 ### Juiblex
-- **Current location:** The Abyss / Underdark (presence receding from the throne room area)
-- **Current state:** His influence is receding from the area following the Pudding King's defeat, but he spoke directly to the party afterward.
-- **Recent actions:** Empowered the Pudding King. After the Pudding King's defeat, declared via a demonic voice: "You haven't won. I will be reborn. I will consume the banquet of the queen of the fungi, and I will grow."
-- **Faction:** Demon lord of oozes
-- **Revealed motivations:** Plans to be reborn. Intends to consume Zuggtmoy ("the queen of fungi") and grow even stronger.
+- **Current Location:** Not physically present; voice echoed through the chamber after the battle
+- **Current State:** Demonic influence receding from the area following the Pudding King's defeat; not destroyed
+- **Recent Actions:** Did not appear directly; his power had been channeled through the Pudding King; after the Pudding King's death, a demonic voice attributed to Juiblex declared he would be reborn
+- **Faction:** Demon lord of oozes; Abyss
+- **Revealed Motivations/Secrets:** Declared intention to be reborn by consuming "the banquet of the queen of the fungi" (i.e., Zuggtmoy) to grow stronger
+- **Final Declared Words:** "You haven't won. I will be reborn. I will consume the banquet of the queen of the fungi, and I will grow."
+- **Note:** Did not physically appear in this session; presence inferred through the Pudding King and the disembodied voice
 
 ### Zuggtmoy
-- **Current location:** Underdark (expanding influence)
-- **Current state:** Moving to fill the power vacuum left by the Pudding King's defeat
-- **Recent actions:** Fungi throughout the cavern became more twisted and malevolent in appearance following the Pudding King's death, indicating her encroaching influence.
-- **Faction:** Demon queen of fungi / Lady of Rot
+- **Current Location:** Not physically present
+- **Current State:** Not present in the scene; her influence observed indirectly
+- **Recent Actions:** Did not appear; fungi throughout the cavern became more twisted and malevolent following the Pudding King's defeat, interpreted as Zuggtmoy moving to fill the power vacuum
+- **Faction:** Demon Queen of Fungi; Abyss
+- **Revealed Motivations/Secrets:** Appears to be opportunistically waiting to claim territory and power vacated by Juiblex's defeat in the area
+- **Note:** Did not physically appear in this session; presence inferred through environmental changes
 
-### Zalthir
-- **Current location:** Throne room area
-- **Current state:** Alive; took acid damage from grappling the Pudding King and passing through Glabbagool, mitigated by Stone Skin
-- **Recent actions:** Grappled the Pudding King in ooze form. Used Steps of the Wind to dash while maintaining grapple, dragging the Pudding King out of his lair through Glabbagool. Used Shadow Step to teleport. Delivered the killing blows to the Pudding King using flurry of strikes enhanced by Eldritch Claw tentacle damage (37 total damage in final assault). Attacked and grappled Princess Ebonmire. Considered monk training for Glabbagool.
-- **Abilities noted:** Monk (Steps of the Wind, Shadow Step, Stunning Strike), Eldritch Claw (tentacles, +1d6 force damage), Stone Skin
-
-### Daz
-- **Current location:** Throne room area
-- **Current state:** Alive; was knocked prone and covered in green slime during battle
-- **Recent actions:** Cast Magic Missile at the Pudding King (6 damage at first level, 20 damage at third level). Cast Fireball dealing 29 damage to Prince Livid and Princess Ebonmire. Killed Prince Livid with final Magic Missile.
-
-### Thorin
-- **Current location:** Throne room area
-- **Current state:** Alive; used Second Wind to heal during battle
-- **Recent actions:** Navigated around green slime hazards. Attacked with darts. Wielded Dawnbringer, dealing 12 radiant damage to the Pudding King. Scored an opportunity attack that reduced the Pudding King's speed to zero. Killed Princess Ebonmire. Tested Glabbagool's identity by asking where they first met.
-- **Equipment:** Dawnbringer (radiant sword, 20-foot radius light)
-
-### Grygum
-- **Current location:** Throne room area
-- **Current state:** Alive; was knocked prone and targeted by green slime during battle (saved)
-- **Recent actions:** Cast Guiding Bolt (missed). Cast Inflict Wounds on the Pudding King (23 damage). Cast Inflict Wounds on Princess Ebonmire (18 damage). Used Stone Skin to resist slime wave damage. Described as calling upon "dark powers" for necrotic wounds.
+---
 
 ## Factions
 
-### Juiblex's Forces
-- **Current goals:** Juiblex plans to be reborn and consume Zuggtmoy to grow stronger
-- **Recent actions:** The Pudding King, Prince Livid, and Princess Ebonmire fought the party in the throne room. All three were destroyed. Juiblex's oppressive demonic presence receded from the area after the Pudding King's defeat.
-- **Relationships:** Hostile to Zuggtmoy; Juiblex plans to consume her. Hostile to the party.
-- **Key members:** Juiblex (demon lord), Pudding King (destroyed), Prince Livid (destroyed), Princess Ebonmire (destroyed)
+### Devoted of Juiblex (Pudding King's Ooze Court)
+- **Current Goals:** Defunct; the Pudding King is dead, Prince Livid and Princess Ebonmire are dead
+- **Recent Actions:** Defended the throne room against the party; unleashed slime wave attacks and psychic blasts; fought until all members were destroyed
+- **Relationships to Other Factions:** Served Juiblex; were in implicit opposition to Zuggtmoy's fungi-based influence; were opposed by the party
+- **Key Members:** The Pudding King (dead), Prince Livid (dead), Princess Ebonmire (dead)
+- **Current State:** Entirely destroyed
+
+### Juiblex's Demonic Influence
+- **Current Goals:** Juiblex claims he will be reborn and consume Zuggtmoy's power to grow stronger
+- **Recent Actions:** Power receded from the stones and air of the area following the Pudding King's defeat; Juiblex's voice issued a threat/declaration after the battle
+- **Relationships to Other Factions:** Juiblex views Zuggtmoy as a target to consume; opposed by the party
+- **Key Members:** Juiblex (demon lord, not physically present)
+- **Current State:** Influence receding from the immediate area; Juiblex not destroyed
 
 ### Zuggtmoy's Influence
-- **Current goals:** Filling the power vacuum left by Juiblex's retreat in the area
-- **Recent actions:** Fungi throughout the cavern became more twisted and malevolent after the Pudding King's defeat, signaling Zuggtmoy's expanding influence
-- **Relationships:** Rival/enemy of Juiblex (Juiblex plans to consume her)
-- **Key members:** Zuggtmoy (demon queen of fungi)
+- **Current Goals:** Appears to be filling the power vacuum left by the Pudding King's defeat
+- **Recent Actions:** Fungi in the area became more twisted and malevolent in appearance following Juiblex's retreat, suggesting active expansion
+- **Relationships to Other Factions:** Juiblex has declared intent to consume her; implicitly competing with Juiblex for dominance of the area
+- **Key Members:** Zuggtmoy (Demon Queen of Fungi, not physically present)
+- **Current State:** Actively expanding influence into the vacuum
 
 ### The Party
-- **Current goals:** Escaping the Underdark (primary objective now achieved/secured). Dealing with demonic forces in the Underdark.
-- **Recent actions:** Defeated the Pudding King, Prince Livid, and Princess Ebonmire. Recovered a spellbook. Leveled up.
-- **Key members:** Zalthir (monk with eldritch abilities), Daz (arcane caster), Thorin (fighter, wields Dawnbringer), Grygum (cleric/caster with necrotic spells), Glabbagool (sentient ooze ally)
+- **Current Goals:** Escape the Underdark; achieved primary objective of securing a way out
+- **Recent Actions:** Breached the throne room using an Earth Elemental; killed the Pudding King, Prince Livid, and Princess Ebonmire; recovered a spellbook; leveled up; discussed Glabbagool's future travel arrangements
+- **Relationships to Other Factions:** Opposed the Pudding King's court and Juiblex's influence; now contending with Zuggtmoy's expanding presence
+- **Key Members:** Zalthir, Thorin, Daz, Grygum, Glabbagool (allied)
+
+---
 
 ## World Events
 
-- An Earth Elemental carved a passage through stone, allowing the party to breach the Pudding King's throne room.
-- The Pudding King revealed he had shed his humanoid form entirely, transforming into a sentient telepathic ooze through his embrace of Juiblex.
-- Zalthir grappled the Pudding King in ooze form and dragged him out of his lair, neutralizing his lair actions—a key tactical turning point.
-- Zalthir dragged the Pudding King directly through Glabbagool's body during the grapple maneuver.
-- Glabbagool and the Pudding King mysteriously swapped bodies/positions during the battle, causing the party to briefly attack their own ally.
-- The party identified the swap when Thorin asked the ooze where they first met, and it answered correctly.
-- The Pudding King was destroyed by Zalthir's flurry of eldritch-enhanced strikes, dissolving into inert puddles.
-- Prince Livid and Princess Ebonmire were subsequently destroyed by the party.
-- Upon the Pudding King's death, Juiblex's oppressive demonic presence began receding from the area.
-- Fungi throughout the cavern became more twisted and malevolent, indicating Zuggtmoy is expanding her influence into the vacuum.
-- A demonic voice (possibly Juiblex) declared: "You haven't won. I will be reborn. I will consume the banquet of the queen of the fungi, and I will grow."
-- A spellbook containing numerous spells was recovered from Princess Ebonmire's stomach.
-- Glabbagool remained in ooze form (rather than returning to gelatinous cube form) after the swap, and expressed preference for this new form.
+- The party breached the Pudding King's throne room by using an Earth Elemental to carve a passage through the stone walls.
+- Zalthir attempted to grapple the Pudding King immediately upon entering the throne room.
+- The Pudding King shed his humanoid form and transformed into a sentient, telepathic ooze, declaring his intent to reduce all of the Underdark to ooze.
+- The party debated using the Bag of Holding to contain the Pudding King; the DM ruled an ooze could ooze back out, allowing only a temporary action deprivation.
+- Daz cast Magic Missile at the Pudding King, dealing six points of damage.
+- Prince Livid attacked Zalthir with a psychic blast; Zalthir halved the damage with a successful Intelligence saving throw.
+- Thorin dashed forward, navigating around green slime ceiling hazards.
+- Princess Ebonmire threw a blob at Thorin; it missed.
+- Grygum cast Guiding Bolt at the Pudding King; it missed.
+- The Pudding King unleashed a slime wave; Zalthir, Thorin, Daz, and Grygum were forced to make Dexterity saving throws; Daz and Grygum failed and were knocked prone.
+- The Pudding King used a lair action to drop green slime on Grygum; Grygum made his saving throw and avoided damage.
+- Zalthir used Steps of the Wind to dash while maintaining his grapple and dragged the Pudding King out of his throne room, removing his access to lair actions.
+- Zalthir dragged the Pudding King through Glabbagool's body; Glabbagool remarked "this tickles"; Zalthir took acid damage, partially resisted by Stone Skin.
+- Zalthir attempted a Stunning Strike on the Pudding King but missed.
+- Thorin attacked what he believed was the Pudding King with darts, dealing six points of piercing damage; a voice resembling Glabbagool cried out asking why they were hurting him.
+- Thorin tested the ooze by asking where they first met; the ooze responded it was in a cave, confirming it was Glabbagool.
+- The party established that Glabbagool and the Pudding King had swapped positions during the passage through Glabbagool's body.
+- Thorin struck the correct target — the Pudding King in Glabbagool's gelatinous cube form — with Dawnbringer, dealing twelve points of radiant damage.
+- The Pudding King attempted to move under the slime; Thorin hit him with an opportunity attack, reducing his speed to zero.
+- Daz cast a third-level Magic Missile at the Pudding King, dealing twenty points of damage.
+- Prince Livid and Princess Ebonmire charged toward the party.
+- Grygum cast Inflict Wounds on the Pudding King, dealing twenty-three points of necrotic damage.
+- The Pudding King unleashed a second slime wave; Thorin saved for reduced damage; Daz and Grygum used Stone Skin to resist; Daz was covered in green slime.
+- Zalthir used Shadow Step to teleport near the Pudding King and attacked with advantage.
+- Zalthir landed a Stunning Strike; the Pudding King failed his saving throw, halving his speed and granting advantage on the next melee attack against him.
+- Zalthir continued attacking with punches and Eldritch Claw tentacle strikes, dealing a total of thirty-seven points of damage.
+- The Pudding King dissolved and died, screaming telepathically: "Behold the true feast, the soul's final blend!"
+- Glabbagool returned to his original gelatinous cube form and expressed confusion about what had happened.
+- Thorin used Second Wind to heal himself.
+- Daz cast Fireball, dealing twenty-nine points of damage to both Prince Livid and Princess Ebonmire; Prince Livid's fire resistance halved his damage to fourteen points, leaving him at eight hit points.
+- Prince Livid used a psychic attack on Daz, dealing five points of damage.
+- Princess Ebonmire charged at Thorin.
+- Grygum stood up from prone and cast Inflict Wounds on Princess Ebonmire, dealing eighteen points of necrotic damage.
+- Zalthir used Shadow Step to teleport to Princess Ebonmire, grappled her, and dealt damage.
+- Thorin killed Princess Ebonmire.
+- Daz cast Magic Missile at Prince Livid, killing him.
+- The toxic, oppressive presence of Juiblex's demonic power began visibly receding from the stones and air of the area.
+- The fungi throughout the cavern became more twisted and malevolent in appearance, interpreted as Zuggtmoy moving to fill the power vacuum.
+- A disembodied demonic voice — attributed possibly to Juiblex — declared he would be reborn and consume Zuggtmoy's power to grow stronger.
+- A spellbook containing numerous magical formulas was recovered from inside Princess Ebonmire's stomach.
 - The party leveled up.
-- The party secured their primary objective: a way out of the Underdark.
+- Glabbagool expressed excitement about potentially being carried in a jar or the Bag of Holding and serving as a "garbage disposal"; monk training for Glabbagool was discussed.
+- Zalthir noted mentally that Glabbagool should train as a monk to control his body's acidity.
+
+---
 
 ## Locations
 
-### Pudding King's Throne Room
-- **What it is:** The lair of the Pudding King, located in the Underdark
-- **What happened there:** The party breached it via an Earth Elemental-carved passage. Major battle occurred against the Pudding King, Prince Livid, and Princess Ebonmire. Green slime hazards hung from the ceiling, ready to drop on anyone passing beneath. The Pudding King had lair actions within this room (slime waves, dropping green slime). The Pudding King was grappled and dragged out of it by Zalthir.
-- **Current state:** Enemies destroyed. Juiblex's oppressive presence is receding. Fungi are becoming more twisted under Zuggtmoy's growing influence. Green slime hazards likely still present on ceiling.
+### The Pudding King's Throne Room
+- **What It Is:** The throne room and lair of the Pudding King, located in the Underdark
+- **Access:** The party entered through a hole in the wall created by an Earth Elemental
+- **Hazards:** Green slime hangs from the ceiling and drops on creatures passing beneath it
+- **Lair Mechanics:** Granted the Pudding King special lair actions while he remained inside; these were neutralized when Zalthir dragged him out
+- **Current State:** Enemies defeated; Juiblex's influence receding; fungi in the area growing more twisted; effectively abandoned and no longer under the Pudding King's control
+
+### The Underdark (General)
+- **What It Is:** The subterranean world beneath the surface; the setting of the campaign arc
+- **Current State:** The Pudding King's ooze-based reign of terror has ended; Juiblex's influence is receding from the immediate area; Zuggtmoy's fungi-based power appears to be expanding; the party has secured a way out
+
+---
 
 ## Threads & Mysteries
 
-- **Juiblex's return:** Juiblex declared he will be reborn and consume Zuggtmoy to grow stronger. His defeat appears temporary.
-- **Zuggtmoy's expansion:** Fungi becoming more twisted and malevolent throughout the cavern suggests Zuggtmoy is actively seizing territory. What are her broader plans?
-- **Glabbagool's body swap:** The mechanism by which Glabbagool and the Pudding King swapped bodies/positions was never explained. How and why did this happen?
-- **Glabbagool's new form:** Glabbagool is now permanently an ooze rather than a gelatinous cube. Will this change have further consequences? Can he swap back?
-- **Glabbagool's monk training:** The party discussed training Glabbagool as a monk to control his body and acidity. Will this be pursued?
-- **The spellbook's contents:** The specific spells in the spellbook recovered from Princess Ebonmire's stomach are unspecified. What does it contain?
-- **Escape from the Underdark:** The party has "secured a way out" but has not yet left. What route will they take and what obstacles remain?
-- **Demonic forces in the Underdark:** Despite this victory, demonic forces of the Abyss still churn in the depths. The conflict between Juiblex and Zuggtmoy is ongoing and may escalate.
-- **Juiblex vs. Zuggtmoy:** Juiblex plans to consume Zuggtmoy. A clash between two demon lords may be imminent in the Underdark.
+- **Juiblex's Threatened Rebirth:** After the Pudding King's death, a disembodied voice attributed to Juiblex declared he would be reborn by consuming "the banquet of the queen of the fungi" — i.e., Zuggtmoy. It is unresolved whether this is a genuine threat, mere bluster, or a foreshadowing of a future conflict between demon lords.
+- **Zuggtmoy's Power Expansion:** The fungi in the area are already growing more twisted following Juiblex's retreat, indicating Zuggtmoy is actively moving into the vacuum. Her intentions and the extent of her expansion are unresolved.
+- **Glabbagool's Body Swap:** The exact mechanism by which Glabbagool and the Pudding King swapped positions or forms when Zalthir dragged the Pudding King through Glabbagool's body is unexplained. It is unclear whether this was a unique magical event, a property of sentient oozes, or something else.
+- **Glabbagool's Monk Training:** Zalthir mentally noted that Glabbagool should train as a monk to control his form and acidity. This has not been formally initiated and its feasibility is unresolved.
+- **Glabbagool's Travel Arrangements:** The party discussed carrying Glabbagool in a jar or the Bag of Holding. No final decision was made; logistics remain open.
+- **Escape from the Underdark:** The party has secured "a way out of the Underdark" as their primary objective, but the specifics of this route and when/how they will use it have not been detailed in this session.
+- **The Spellbook from Princess Ebonmire:** A spellbook with numerous magical formulas was recovered from Princess Ebonmire's stomach. The specific contents and which party member (presumably Daz) will learn from it have not been detailed.

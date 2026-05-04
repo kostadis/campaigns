@@ -20,6 +20,7 @@ mt_output: /home/kroussos/campaigns/Phandalin/docs/tracking.txt
 narr_party: /home/kroussos/campaigns/Phandalin/docs/party.md
 nav_session: ③ Scene Extraction
 npc_config: /home/kroussos/campaigns/Phandalin/config/config.yaml
+party_config_path: /home/kroussos/campaigns/Phandalin/config/party.yaml
 party_output: /home/kroussos/campaigns/Phandalin/docs/party.md
 party_summaries: ''
 plan_build_summaries: ''
@@ -29,6 +30,8 @@ plan_context: '/home/kroussos/campaigns/Phandalin/docs/campaign_state.md
 
   /home/kroussos/campaigns/Phandalin/docs/party.md'
 plan_npc: '/home/kroussos/campaigns/Phandalin/docs/npcs/adabra.md
+
+  /home/kroussos/campaigns/Phandalin/docs/npcs/aldric_stone_path.md
 
   /home/kroussos/campaigns/Phandalin/docs/npcs/aletra.md
 
@@ -41,8 +44,6 @@ plan_npc: '/home/kroussos/campaigns/Phandalin/docs/npcs/adabra.md
   /home/kroussos/campaigns/Phandalin/docs/npcs/boney.md
 
   /home/kroussos/campaigns/Phandalin/docs/npcs/borg_the_hammer.md
-
-  /home/kroussos/campaigns/Phandalin/docs/npcs/brewbarry.md
 
   /home/kroussos/campaigns/Phandalin/docs/npcs/brin_bundlewine.md
 
@@ -69,8 +70,6 @@ plan_npc: '/home/kroussos/campaigns/Phandalin/docs/npcs/adabra.md
   /home/kroussos/campaigns/Phandalin/docs/npcs/elara.md
 
   /home/kroussos/campaigns/Phandalin/docs/npcs/elara_seasong_meliame.md
-
-  /home/kroussos/campaigns/Phandalin/docs/npcs/elara_seasong_meliamne.md
 
   /home/kroussos/campaigns/Phandalin/docs/npcs/facktore.md
 
@@ -128,6 +127,8 @@ plan_npc: '/home/kroussos/campaigns/Phandalin/docs/npcs/adabra.md
 
   /home/kroussos/campaigns/Phandalin/docs/npcs/qelline_alderleaf.md
 
+  /home/kroussos/campaigns/Phandalin/docs/npcs/reidoth.md
+
   /home/kroussos/campaigns/Phandalin/docs/npcs/rot_tusk_ogre.md
 
   /home/kroussos/campaigns/Phandalin/docs/npcs/runa.md
@@ -139,8 +140,6 @@ plan_npc: '/home/kroussos/campaigns/Phandalin/docs/npcs/adabra.md
   /home/kroussos/campaigns/Phandalin/docs/npcs/sister_kaella.md
 
   /home/kroussos/campaigns/Phandalin/docs/npcs/skippy.md
-
-  /home/kroussos/campaigns/Phandalin/docs/npcs/soma.md
 
   /home/kroussos/campaigns/Phandalin/docs/npcs/sridar.md
 
@@ -160,8 +159,6 @@ plan_npc: '/home/kroussos/campaigns/Phandalin/docs/npcs/adabra.md
 
   /home/kroussos/campaigns/Phandalin/docs/npcs/the_orc_scout.md
 
-  /home/kroussos/campaigns/Phandalin/docs/npcs/the_orc_with_the_necklace_of_bones_shrimpy.md
-
   /home/kroussos/campaigns/Phandalin/docs/npcs/the_stag.md
 
   /home/kroussos/campaigns/Phandalin/docs/npcs/thomas.md
@@ -172,14 +169,6 @@ plan_npc: '/home/kroussos/campaigns/Phandalin/docs/npcs/adabra.md
 
   /home/kroussos/campaigns/Phandalin/docs/npcs/ulla.md
 
-  /home/kroussos/campaigns/Phandalin/docs/npcs/valphine.md
-
-  /home/kroussos/campaigns/Phandalin/docs/npcs/valphine_sortorra.md
-
-  /home/kroussos/campaigns/Phandalin/docs/npcs/vukardin.md
-
-  /home/kroussos/campaigns/Phandalin/docs/npcs/vukradin.md
-
   /home/kroussos/campaigns/Phandalin/docs/npcs/xanth.md
 
   /home/kroussos/campaigns/Phandalin/docs/npcs/zeleen_varnaster.md'
@@ -187,6 +176,7 @@ plan_output: /home/kroussos/campaigns/Phandalin/docs/planning.md
 plan_summaries: ''
 prep_config: config/config.yaml
 query_input: ''
+sd_batch: true
 sd_campaign_state: docs/campaign_state.md
 sd_characters: Vukradin, Soma, Valphine, Brewbarry
 sd_context: 'docs/campaign_state.md
@@ -197,8 +187,9 @@ sd_context: 'docs/campaign_state.md
 sd_examples_dir: /home/kroussos/campaigns/Phandalin/examples
 sd_extract_dir: scene_extractions
 sd_extract_run: true
+sd_gm_player: ''
 sd_narrate_tokens: ''
-sd_output_dir: /home/kroussos/campaigns/Phandalin/summaries/20260414
+sd_output_dir: /home/kroussos/campaigns/Phandalin/summaries/20260429
 sd_party: /home/kroussos/campaigns/Phandalin/docs/party.md
 sd_port: ''
 sd_roleplay_dir: vtt_roleplay_extractions
@@ -210,7 +201,7 @@ sd_session_summary: session-summary.md
 sd_summary_dir: vtt_extractions
 sd_voice_dir: /home/kroussos/campaigns/Phandalin/voice
 sd_world_state: docs/world_state.md
-session_dir: /home/kroussos/campaigns/Phandalin/summaries/20260414
+session_dir: /home/kroussos/campaigns/Phandalin/summaries/20260429
 summaries: ''
 sw_gm_recap: summaries/20260325/gm-assist.md
 sw_ref_count: 0
@@ -226,7 +217,7 @@ vtt_context: '/home/kroussos/campaigns/Phandalin/docs/campaign_state.md
   /home/kroussos/campaigns/Phandalin/docs/party.md'
 vtt_date: ''
 vtt_extract_dir: ''
-vtt_input: GMT20260415-040027_Recording.transcript.vtt
+vtt_input: GMT20260429-035840_Recording.transcript.cleaned.vtt
 vtt_no_log: false
 vtt_output: session-summary.md
 vtt_reference_summaries: summaries/20260325/session-Mar 25th, 2026.md

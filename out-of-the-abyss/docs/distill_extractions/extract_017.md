@@ -1,206 +1,220 @@
 ## NPCs
 
 **Erdde Blackskull**
-- Current location: Gracklstugh
-- Current state: Paranoid, disappointed
-- Recent actions: Asked Grygum to investigate "empty scabbard killers"; provided passes allowing the party to move through gates restricting non-Duergar; threatened she could set the Drow on the party
+- Location: Gracklstugh (armory area)
+- State: Active, paranoid
+- Recent actions: Requested the party investigate the "empty scabbard killers" after her underlings reported bodies with puzzling wounds; provided passes allowing the party (including non-Duergar members) access through city gates; brought Grimholl Forgebrand into the room to brief Grygum
 - Faction: Stone Guards (Captain)
-- Motivations: Wants the party to find Droki; wants information on mysterious deaths of her clan members (including her uncle); dismisses the "empty scabbard killers" as children's fable publicly but privately believes assassinations occurred
+- Motivations/Secrets: Two of her clan members were among the victims of the empty scabbard killers; publicly dismisses the killers as fiction while privately acknowledging the deaths were likely assassinations; is also seeking Droki
 
 **Grimholl Forgebrand ("Holl")**
-- Current location: Gracklstugh
-- Current state: Active subordinate of Erdde Blackskull
-- Recent actions: Briefed Grygum on the mysterious bodies — no entrance or exit wounds
-- Faction: Stone Guards
-- Notes: "Holl to my friends, and you are not my friends"
+- Location: Gracklstugh, present at Erdde Blackskull's briefing
+- State: Active
+- Recent actions: Briefed Grygum on the bodies found with no entrance or exit wounds
+- Faction: Stone Guards (subordinate to Erdde Blackskull)
+- Motivations/Secrets: None revealed beyond providing information; stated "Holl to my friends, and you are not my friends"
 
 **Grygum**
-- Current location: Gracklstugh
-- Current state: Active, investigating
-- Recent actions: Found scrolls among Erdde's goods in the armory; attempted to tackle an assassin into water (failed); healed Werz Saltbaron; pushed assassin corpse into the Darklake
-- Faction: Party member; cleric of Bahamut
-- Motivations: Wants to know about the Red Dragon kept by the Keepers of the Flame; appalled at Themberchaud's treatment; enthusiastic about Thorin's plan to free/ride Themberchaud
+- Location: Gracklstugh
+- State: Active
+- Recent actions: Obtained scrolls from Erdde Blackskull's goods in the armory; probed Erdde for information on the empty scabbard killers; rushed one of the pier assassins and attempted to throw him into the water (failed); fought the assassins; healed the injured Duergar merchant Werz Saltbaron without consulting the group; proposed escaping Gracklstugh by riding Themberchaud out and laying waste behind them
+- Faction: Stone Guards (working for); Keepers of the Flame / Themberchaud (nominally, under duress); party
+- Revealed: Is a cleric of Bahamut; expressed moral objection to the treatment of Themberchaud
 
 **Daz**
-- Current location: Gracklstugh (Ghohlbrorn's Lair)
-- Current state: Active, gathering intelligence
-- Recent actions: Cast magic missiles and scorching rays at assassins; referenced Milo Goodbarrel's book about psychic blade attacks; told Themberchaud he is from Menzoberranzan (Zalthir doubts this is true); argued the party never technically accepted Themberchaud's offer
-- Faction: Party member
-- Notes: Fond of novels; voracious reader; has experience with Drow machiavellian politics; claims to be from Menzoberranzan
+- Location: Gracklstugh, Ghohlbrorn's Lair and surrounds
+- State: Active
+- Recent actions: Read Milo Goodbarrel's book and identified the psychic blade attack described therein; cast magic missiles at one of the pier assassins; cast scorching ray at a second assassin (burned one); dismissed Jimjar's suggestion to leave in favour of gathering intelligence; questioned Gartokkar about the nature of Themberchaud's offer; noted that accepting Themberchaud's offer was the dragon's assumption, not a formal agreement
+- Faction: Stone Guards (nominally); Keepers of the Flame / Themberchaud (nominally, under duress); party
+- Revealed: Claims to be from Menzoberranzan; Zalthir is not convinced this is true; has experience with Drow machiavellian politics
 
 **Zalthir**
-- Current location: Gracklstugh
-- Current state: Active
-- Race: Bronze dragonborn
-- Recent actions: Cast Darkness during the pier fight; searched assassin corpses; helped push a body into the Darklake; traveled to the Keepers of the Flame compound
-- Faction: Party member
-- Notes: Warned the group that Erdde could set the Drow on them
+- Location: Gracklstugh; Keepers of the Flame compound
+- State: Active
+- Recent actions: Cast Darkness over the pier combat area (hindering Daz's visibility); survived the combat; examined assassin corpses; found a charcoal drawing of Werz Saltbaron on one of the bodies; presented the drawing to Saltbaron; rifled through assassin corpses and retrieved coins, bloodstained gloves, and a box of scented candles; passed candles to Thorin; helped push a corpse into the Darklake; used Erdde's passes to enter the Duergar city; attended the meeting with Themberchaud and Gartokkar; speculated about whether Themberchaud plays chess based on Milo Goodbarrel's memoirs
+- Faction: Stone Guards (nominally); Keepers of the Flame / Themberchaud (nominally, under duress); party
+- Revealed: Is a bronze dragonborn; confirmed to Themberchaud he is not gold; reflected on whether invisible ruthless guards could enable civic peace
 
 **Thorin**
-- Current location: Gracklstugh
-- Current state: Frustrated, angry at being coerced by multiple factions
-- Recent actions: Participated in pier fight; questioned Gartokkar aggressively; threatened to reveal the egg's existence to the Stone Guards as leverage
-- Faction: Party member
-- Background: Lived with giants; has antipathy toward dragons inherited from giant culture
-- Motivations: Wants to be free of factional manipulation; proposed plan to ride Themberchaud out of Gracklstugh, destroying everything behind them
+- Location: Gracklstugh; Keepers of the Flame compound
+- State: Active, frustrated
+- Recent actions: Fought pier assassins; received scented candles from Zalthir; followed Gartokkar to his chambers; challenged Gartokkar repeatedly on the terms of the faction arrangement; threatened to inform the Stone Guards about the dragon egg if arrested; received gold badges and a holy symbol of Laduguer; proposed riding Themberchaud out of Gracklstugh as a means of escape
+- Faction: Stone Guards (nominally); Keepers of the Flame / Themberchaud (nominally, under duress); party
+- Background: Has lived with giants and has their antipathy toward dragons; noted Themberchaud did not wait for consent before declaring them agents
 
-**Werz Saltbaron**
-- Current location: Gracklstugh (departed invisibly after rescue)
-- Current state: Alive, grateful; was targeted by assassins
-- Recent actions: Was attacked by two assassins on the piers; saved by the party; promised a reward at the Shattered Spire; turned invisible and left
-- Faction: Duergar merchant
-- Notes: A charcoal drawing of him was found on one of the assassin's bodies, confirming he was specifically targeted
-
-**Themberchaud ("the Wyrmsmith of Gracklstugh")**
-- Current location: His cavern in the Keepers of the Flame compound, southeastern corner of Gracklstugh
-- Current state: Overweight, pampered, out of shape; sits on a hoard of gems and coins
-- Titles: Father of Flame, the Everburning, the Foundry's Heart, the Wyrmsmith of Gracklstugh
-- Recent actions: Demanded to speak to the party alone; breathed fire in a circle to check for spies; conscripted the party as his agents; ordered Gartokkar to give them gold badges
-- Faction: Nominally served by the Keepers of the Flame (but actually controlled by them)
-- Motivations: Wants agents who report to him first before doing what the Keepers ask; has no family associations to blackmail among the party
-- Secrets: Does NOT know about the red dragon egg that is meant to be his replacement; doesn't realize the Keepers control him rather than the reverse
-- Notes: Probably couldn't survive in the wild; has forgotten how to hunt; dislikes gold dragons
+**Themberchaud, the Wyrmsmith of Gracklstugh**
+- Location: His cavern in the far southeastern corner of Gracklstugh's cave, within the Keepers of the Flame compound
+- State: Active; physically overweight and pampered
+- Recent actions: Interrupted Gartokkar's introduction of the party; demanded to speak to the party alone; breathed fire in a circle around the cavern as a display; questioned each party member; declared the party to be his agents without waiting for consent; ordered Gartokkar to give them gold badges; does not know about the stolen dragon egg
+- Faction: Keepers of the Flame (believes he is their patron; is in fact controlled by them)
+- Revealed: Does not know a replacement egg was stolen by the Gray Ghosts; believes the Keepers work for him; hoard consists of gems and coins; dislikes gold dragons; approved of Daz having no family associations susceptible to blackmail; is considered by Zalthir to be too pampered to survive in the wild
 
 **Gartokkar Xundorn**
-- Current location: His office/chambers near Themberchaud's cavern, Keepers of the Flame compound
-- Current state: Active, manipulative
 - Title: Custodian of the Flame
-- Faction: Keepers of the Flame (Duergar priest)
-- Recent actions: Met the party at the compound entrance; gave them gold badges and holy symbols of Laduguer and gold pins with Themberchaud's profile; tasked them with finding the stolen red dragon egg and proof against the Gray Ghosts; threatened Thorin with an enumerated list of eight legal charges; identified Droki as a Gray Ghosts agent
-- Motivations: Recover the stolen red dragon egg; maintain control over Themberchaud; destroy the Gray Ghosts
-- Secrets: The Keepers control Themberchaud, not the other way around; the egg is for Themberchaud's "replacement" (they kill/dispose of Themberchaud when the replacement is ready, though Gartokkar claims dragons "move on")
+- Location: Keepers of the Flame compound, Gracklstugh
+- State: Active
+- Recent actions: Led the party toward a stone building at the compound entrance; was summoned by Themberchaud and ordered to distribute gold badges; briefed the party on the Keepers of the Flame's power structure; revealed the stolen dragon egg and the Gray Ghosts' role; assigned the party to find Droki and proof against the Gray Ghosts; threatened Thorin with a prepared list of legal transgressions when the party resisted; distributed gold badges and holy symbols of Laduguer
+- Faction: Keepers of the Flame (Custodian)
+- Secrets/Motivations: The Keepers use the dragon as a tool of power rather than serving him; the Keepers intend for Themberchaud to eventually be replaced by the egg; Themberchaud does not know this; Gartokkar was visibly displeased when Themberchaud demanded to speak to the party alone
 
-**Droki**
-- Current location: Unknown (at large in Gracklstugh)
-- Current state: Being sought by both the Stone Guards and the Keepers of the Flame
-- Faction: Agent of the Gray Ghosts
-- Notes: Both Erdde Blackskull and Gartokkar want him found
-
-**Jimjar**
-- Current location: Ghohlbrorn's Lair, Gracklstugh
-- Current state: Made some friends; wants to leave; resigned after Daz insisted on staying
-- Recent actions: Questioned when the group would leave; pointed out they already have supplies
-- Faction: Party escapee/companion
+**Werz Saltbaron**
+- Location: Pier near Ghohlbrorn's Lair, Gracklstugh; departed invisibly to an unspecified location; directed the party to the Shattered Spire
+- State: Alive (healed by Grygum); departed
+- Recent actions: Was being attacked by two assassins at the pier; was healed by Grygum; received his charcoal portrait recovered from an assassin's body; promised to reward the party at the Shattered Spire the following day; became invisible and departed
+- Faction: Unknown; appears to be a Duergar merchant
+- Revealed: Was a specific target (charcoal portrait found on assassin); carries or can use an invisibility ability or item
 
 **Buppido**
-- Current location: Ghohlbrorn's Lair, Gracklstugh
-- Current state: Bound; resigned to his fate
+- Location: Ghohlbrorn's Lair
+- State: Bound; resigned to his fate
+- Recent actions: None described beyond being kept captive
+- Faction: Unknown
+
+**Jimjar**
+- Location: Ghohlbrorn's Lair
+- State: Active
+- Recent actions: Made friends among other guests; asked when the group expects to leave; advocated for departing given the party has supplies; accepted Daz's dismissal and slumped into bed
+- Faction: None confirmed; travelling with the party
 
 **Topsy and Turvy**
-- Current location: Unknown — gone missing from Ghohlbrorn's Lair
-- Current state: Missing
-- Notes: Daz suspects they are wererats ("Wererats," thinks Daz)
+- Location: Ghohlbrorn's Lair (implied present; noted as not having gone missing)
+- State: Present; no further detail given
+- Faction: Unknown
+
+**Other escapees (unnamed)**
+- Location: Unknown; missing from Ghohlbrorn's Lair
+- State: Missing
+- Note: Daz suspects they have become wererats
+
+**Droki**
+- Location: Unknown; within or near Gracklstugh
+- State: At large
+- Faction: Gray Ghosts (identified by Gartokkar as a Gray Ghosts agent)
+- Note: Does not appear in this session; also sought by Erdde Blackskull / Stone Guards; sought by Keepers of the Flame as a lead to the Gray Ghosts
 
 **Milo Goodbarrel**
-- Current location: Not present (author)
-- Notes: Wrote a book detailing events of "the war of the dragon"; described psychic blade attacks that leave no trace; mentioned a Kenku named Whistler who used psychic blades to fake an attack; also wrote memoirs mentioning chess played a significant role in negotiating with metallic dragons
+- Location: Not present
+- State: Unknown (historical/literary figure referenced)
+- Note: Does not appear in this session; authored a book detailing events of the war of the dragon; his memoirs describe psychic blade attacks and Kenku Whistler's use of them; his memoirs also describe chess playing a significant role in negotiating with metallic dragons
 
-**Whistler**
-- Current location: Unknown (historical/literary figure)
-- Notes: A Kenku described in Milo Goodbarrel's book; used psychic blades to fake an attack by Milo on an enemy
+**Kenku Whistler**
+- Location: Not present
+- State: Unknown
+- Note: Does not appear in this session; referenced in Milo Goodbarrel's book; used psychic blades to fake an attack by Milo on an enemy
+
+---
 
 ## Factions
 
 **Stone Guards**
-- Key members: Erdde Blackskull (Captain), Grimholl Forgebrand
-- Current goals: Find Droki; investigate the "empty scabbard killers" / mysterious deaths
-- Recent actions: Hired/coerced the party; gave them passes to move through the city; reported mysterious deaths with no wounds
-- Relationships: Opposed to the Gray Ghosts; in tension with the Keepers of the Flame (both want Droki); can threaten to set the Drow on people
-- Notes: The party is effectively working for them as well as the Keepers
+- Current goals: Locate Droki; investigate the empty scabbard killers / bodies with no entrance or exit wounds
+- Recent actions: Provided passes to the party via Erdde Blackskull allowing non-Duergar access to Gracklstugh; issued Grimholl Forgebrand to brief the party on the bodies
+- Relationships: Rivals/counterparts to the Keepers of the Flame; hunting Droki (shared objective with Keepers of the Flame); threatened use against the party by Gartokkar; nominally hold authority over non-Duergar in the city
+- Key members: Erdde Blackskull (Captain), Grimholl Forgebrand (subordinate)
 
 **Keepers of the Flame**
-- Key members: Gartokkar Xundorn (Custodian of the Flame), Themberchaud (the dragon they control)
-- Current goals: Recover the stolen red dragon egg; destroy the Gray Ghosts; maintain control over Themberchaud
-- Recent actions: Conscripted the party as agents; gave them badges, holy symbols of Laduguer, and gold pins; threatened legal action if refused
-- Relationships: At war with the Gray Ghosts; derive power from psionic abilities, the Deepking's leadership, and influence over Themberchaud; lost face when the egg was stolen
-- Powers: Psionic abilities
-- Secrets: They control Themberchaud (he thinks they work for him); the egg is to hatch a replacement for Themberchaud; they plan to eventually dispose of/replace Themberchaud
-- Notes: Located in the far southeastern corner of the cave
+- Current goals: Recover the stolen red dragon egg; neutralise the Gray Ghosts; locate Droki; maintain the fiction that they serve Themberchaud while actually controlling him
+- Recent actions: Inducted the party as agents under duress; assigned them to follow Droki as a lead to the Gray Ghosts; distributed gold badges and holy symbols of Laduguer; Gartokkar threatened the party with legal proceedings to compel compliance
+- Relationships: Nominally subordinate to Themberchaud but in practice control him; at war with the Gray Ghosts / Thieves' Guild; lost face when the Gray Ghosts stole the dragon egg; share the Droki objective with the Stone Guards
+- Key members: Gartokkar Xundorn (Custodian of the Flame), Themberchaud (unwitting instrument)
+- Secrets: Are cultivating Themberchaud's replacement via the stolen egg; plan for Themberchaud to "move on"; Themberchaud does not know any of this
 
 **Gray Ghosts**
-- Current goals: Unknown beyond stealing the red dragon egg
-- Recent actions: Stole a valuable red dragon egg from the Keepers of the Flame; their theft "created a great disturbance in the Underdark" — "feels like a hole has been torn through the world"
+- Current goals: Unknown beyond having stolen the red dragon egg
+- Recent actions: Stole a red dragon egg from the Keepers of the Flame; described as having "created a great disturbance in the Underdark" in connection with the theft
+- Relationships: At war with the Keepers of the Flame; also described as a Thieves' Guild
 - Key members: Droki (identified agent)
-- Relationships: Enemies of the Keepers of the Flame (ongoing war); described as a thieves' guild
-- Notes: Gartokkar wants proof of their involvement
 
-**"Empty Scabbard Killers"**
-- Nature: Mysterious assassins who kill with psychic blades (leaving no entrance or exit wounds)
-- Current state: Active in Gracklstugh; killing people
-- Recent actions: Killed at least two of Erdde Blackskull's clan members (including her uncle); two assassins attacked Werz Saltbaron on the piers (killed by the party)
-- Notes: Considered a children's tale/old wives' tale by some; Erdde suspects an agency in the government may be using them as cover; the assassins who attacked Werz wielded "glowing weapons" (possibly psychic weapons); carried a charcoal drawing of their target; Daz/Milo's book links this to psychic blade attacks
+**The Party (self-described potential faction)**
+- Current goals: Gather intelligence; secure supplies; eventually leave Gracklstugh; Grygum and Grygum specifically want to learn about the Keepers of the Flame and the captive red dragon
+- Recent actions: Accepted (under duress) gold badges and credentials from both the Stone Guards and the Keepers of the Flame; are now nominally triple agents; Thorin and Grygum proposed riding Themberchaud out of Gracklstugh
+- Relationships: Nominally serving Stone Guards and Keepers of the Flame / Themberchaud simultaneously; privately non-committed to either; Thorin expressed desire to be their own faction
+
+---
 
 ## World Events
 
-- Grygum found scrolls among Erdde Blackskull's goods in the armory
-- Erdde Blackskull reported mysterious deaths: bodies with no entrance/exit wounds, no evidence of poison, old age, or bad heart; at least two victims were her clan members including her uncle
-- Daz referenced Milo Goodbarrel's account of psychic blade attacks matching the mysterious deaths
-- The other escapees (except Topsy, Turvy, Jimjar, and Buppido) went missing from Ghohlbrorn's Lair; Topsy and Turvy also disappeared separately
-- Two assassins wielding glowing weapons attacked Werz Saltbaron on the piers near Ghohlbrorn's Lair
-- The party (Grygum, Daz, Zalthir, Thorin) fought and killed both assassins; Daz used magic missiles and scorching rays; Zalthir cast Darkness
-- A charcoal drawing of Werz Saltbaron was found on one assassin's body, confirming a targeted assassination
-- Party found coins, bloodstained gloves, and scented candles on the assassin corpses
-- Party dumped both assassin bodies into the Darklake
-- Werz Saltbaron promised a reward at the Shattered Spire and departed invisibly
-- The party used Erdde's passes to travel through gates restricting non-Duergar access into the city proper
-- The party arrived at the Keepers of the Flame compound and met Gartokkar
-- Themberchaud emerged, spoke to the party alone in his cavern, and conscripted them as his agents
-- Themberchaud breathed fire in a circle around his cavern to check for invisible spies
-- Gartokkar revealed the Gray Ghosts stole the red dragon egg meant to replace Themberchaud
-- Gartokkar identified Droki as a Gray Ghosts agent
-- Gartokkar threatened Thorin with eight specific legal charges to coerce compliance
-- The party received: gold badges, holy symbol of Laduguer, gold pins featuring Themberchaud's profile
-- Thorin proposed a plan to ride Themberchaud out of Gracklstugh; Grygum agreed enthusiastically
+- Grygum obtained scrolls from Erdde Blackskull's goods in the armory.
+- Erdde Blackskull requested Grygum investigate the "empty scabbard killers" after her clan members were found dead with no entrance or exit wounds.
+- Grimholl Forgebrand briefed Grygum: bodies found with no entrance or exit wounds, no exit wounds, no evidence of foul play; two victims confirmed as Erdde's clan members.
+- Daz identified the attack type from Milo Goodbarrel's book as a "psychic blade attack," noting the Kenku Whistler used such attacks during the war of the dragon.
+- The other escapees (excluding Topsy, Turvy, Buppido, and Jimjar) went missing from Ghohlbrorn's Lair; Daz attributed this to wererats.
+- Two masked assassins with glowing (suspected psychic) weapons attacked Werz Saltbaron on a pier near Ghohlbrorn's Lair.
+- Grygum rushed one of the assassins and attempted to throw him into the water; this failed.
+- Daz cast magic missiles at one assassin.
+- Zalthir cast Darkness over the combat area.
+- Daz cast scorching ray through the Darkness, burning one assassin (confirmed by smell of burning flesh).
+- Both assassins were killed in the combat.
+- Zalthir discovered that Werz Saltbaron had no wounds on his body despite being attacked, consistent with Holl's description of the empty scabbard killers' victims.
+- Grygum healed Werz Saltbaron before the group could confer.
+- Zalthir found a charcoal drawing of Werz Saltbaron on one of the assassin corpses, confirming he was a targeted assassination.
+- Zalthir looted the assassin corpses: recovered coins, bloodstained gloves, and a box of scented candles.
+- Grygum pushed one assassin corpse into the Darklake; Zalthir helped push the other.
+- Werz Saltbaron promised to reward the party at the Shattered Spire the next day, then turned invisible and departed.
+- The party used Erdde Blackskull's passes to enter the restricted Duergar section of the city; the guards were surprised but did not question them.
+- The party traveled to the Keepers of the Flame compound in the far southeastern corner of the cave.
+- Themberchaud interrupted Gartokkar's introduction of the party and demanded to speak to them alone.
+- Themberchaud breathed fire in a circle around his cavern as a display of power and warning against spying.
+- Themberchaud declared the party to be his agents without receiving their consent, then ordered Gartokkar to issue them gold badges.
+- Gartokkar briefed the party: the Gray Ghosts stole a red dragon egg intended as Themberchaud's replacement; the Keepers' war with the Gray Ghosts is ongoing; Droki is an identified Gray Ghosts agent.
+- Gartokkar confirmed Themberchaud does not know about the stolen egg.
+- Gartokkar threatened Thorin with a prepared enumerated list of legal transgressions under Gracklstugh's penal code to compel compliance.
+- Gartokkar distributed gold badges featuring Themberchaud's profile and holy symbols of Laduguer to the party.
+- Thorin threatened to inform the Stone Guards about the dragon egg if arrested; Gartokkar reacted with alarm.
+- Gartokkar assigned the party to locate Droki as their first mission.
+- Thorin proposed riding Themberchaud out of Gracklstugh and laying waste behind them; Grygum agreed in principle.
+
+---
 
 ## Locations
 
-**Gracklstugh**
-- Duergar city in the Underdark
-- Has gates restricting non-Duergar access; guarded by invisible ruthless guards
-- Quiet, peaceful atmosphere enforced by authoritarian regime
-- Current state: Multiple factions vying for power; mysterious assassinations occurring
-
 **Ghohlbrorn's Lair**
-- An inn/accommodation in Gracklstugh
-- Description: Unpleasant, cold, austere; large cold damp dining room; communal sleeping chambers
-- Current state: Party's base of operations; houses Jimjar and bound Buppido; other escapees have gone missing
+- What it is: An inn/lodging in Gracklstugh catering to non-Duergar; described as Duergar in character — unpleasant, cold, and austere with a large cold damp dining room and communal sleeping chambers
+- What happened here: The party lodged here; the other escapees (except Topsy, Turvy, Buppido, and Jimjar) went missing; Jimjar and Buppido remain; Daz identified the psychic blade attack from reading here
+- Current state: Party base of operations in Gracklstugh
 
-**The Piers (near Ghohlbrorn's Lair)**
-- Piers on the Darklake near the inn
-- Recent event: Assassination attempt on Werz Saltbaron; two assassins killed; bodies dumped into the Darklake
+**Piers near Ghohlbrorn's Lair (Darklake piers)**
+- What it is: A pier area adjoining the Darklake, near the inn
+- What happened here: Two assassins attacked Werz Saltbaron; the party intervened and killed both assassins; assassin corpses were looted and pushed into the Darklake; Werz Saltbaron was healed and departed invisibly
+- Current state: Scene cleared; bodies in the Darklake
 
 **The Darklake**
-- Underground lake in the Underdark adjacent to Gracklstugh
+- What it is: A large underground body of water adjacent to Gracklstugh
+- What happened here: Two assassin corpses were pushed into it to remove evidence
+- Current state: Corpses disposed of within it
+
+**Gracklstugh (city, general)**
+- What it is: A Duergar city in the Underdark; hierarchical society with invisible guards; non-Duergar access restricted by gates and passes
+- What happened here: Multiple faction interactions; party navigated with Erdde's passes; described as quiet, with invisible ruthless guards contributing to civic order
+- Current state: Party operating within it under multiple faction credentials
+
+**Keepers of the Flame compound (southeastern cave)**
+- What it is: The headquarters of the Keepers of the Flame, located in the far southeastern corner of the Gracklstugh cave; includes a stone building housing Gartokkar's office and a monumental cave entrance leading to Themberchaud's cavern
+- What happened here: Party met Themberchaud; were declared agents; met with Gartokkar; were briefed and threatened; received badges and holy symbols
+- Current state: Active faction headquarters
+
+**Themberchaud's cavern**
+- What it is: A large cavern within the Keepers of the Flame compound; contains Themberchaud's hoard of gems and coins
+- What happened here: Themberchaud met the party alone; breathed fire in a circle; declared the party his agents; ordered gold badges distributed
+- Current state: Themberchaud resides here
 
 **The Shattered Spire**
-- Location in Gracklstugh associated with Werz Saltbaron
-- Current state: Where Werz promised to reward the party
+- What it is: A location in Gracklstugh, apparently associated with Werz Saltbaron
+- What happened here: Nothing yet; Werz Saltbaron directed the party to come here the following day for their reward
+- Current state: Unvisited; future appointment pending
 
-**Keepers of the Flame Compound**
-- Located in the far southeastern corner of the cave/city
-- Contains: A building carved from stone just outside a monumental cave entrance; Gartokkar's office/chambers; Themberchaud's cavern (filled with a hoard of gems and coins)
-- Current state: Active; the party has been given access
-
-**Themberchaud's Cavern**
-- Inside the Keepers of the Flame compound
-- Filled with a hoard of gems and coins
-- Where Themberchaud resides and holds court
-
-**Menzoberranzan**
-- Drow city; Daz claims to be from there (Zalthir doubts this)
+---
 
 ## Threads & Mysteries
 
-- **The Stolen Red Dragon Egg:** The Gray Ghosts stole the egg meant to hatch Themberchaud's replacement. Its current location is unknown. The party has been tasked by the Keepers to recover it.
-- **Droki:** Agent of the Gray Ghosts sought by both the Stone Guards and the Keepers of the Flame. His whereabouts are unknown.
-- **The Empty Scabbard Killers:** Who are they? Who commands them? Erdde suspects a government agency may be behind them using the legend as cover. Are the assassins who attacked Werz Saltbaron connected to the same group?
-- **The "Hole Torn Through the World":** Gartokkar described the egg theft as creating "a great disturbance in the Underdark" — "feels like a hole has been torn through the world." What does this mean literally?
-- **Themberchaud's Fate:** The Keepers plan to eventually replace him. Does the party warn Themberchaud? Thorin and Grygum proposed riding Themberchaud out of Gracklstugh — will they attempt this?
-- **Triple Agent Status:** The party is simultaneously working for the Stone Guards (Erdde), the Keepers of the Flame (Gartokkar), and Themberchaud (who wants reports before the Keepers get them). How long can this last?
-- **Werz Saltbaron's Reward:** He promised a reward at the Shattered Spire — what will it be? Why was he targeted for assassination?
-- **Daz's True Origin:** He told Themberchaud he is from Menzoberranzan. Zalthir is not convinced this is true. Where is Daz actually from?
-- **Missing Escapees:** The other escapees (besides Topsy, Turvy, Jimjar, Buppido) have disappeared. Topsy and Turvy also vanished — Daz suspects they are wererats. What happened to all of them?
-- **Buppido:** Remains bound and resigned. Why is he bound? What is his fate?
-- **The Scrolls:** Grygum found scrolls among Erdde's goods in the armory. Their contents and significance are not yet revealed.
-- **Themberchaud's Ignorance:** The dragon doesn't know about the egg or that the Keepers control him. If he learns either fact, the consequences could be catastrophic.
-- **Thorin's Legal Jeopardy:** Gartokkar has a prepared list of eight charges against Thorin that could be invoked at any time as leverage.
+- **The empty scabbard killers:** Bodies are being found in Gracklstugh with no entrance or exit wounds and no evidence of conventional foul play. Erdde's clan members are among the dead. Daz has identified the attack as consistent with psychic blade attacks described in Milo Goodbarrel's book. The identity, organisation, and motives of the killers are unknown. It is unclear whether these killings are connected to the Gray Ghosts, a government agency, or another party.
+- **Werz Saltbaron's assassination:** Saltbaron was specifically targeted (charcoal portrait found on the assassin). He gave no explanation for why he was targeted and departed before being questioned further. His reward promise at the Shattered Spire is unresolved. His use of invisibility raises questions about his resources and identity.
+- **The stolen dragon egg:** The Gray Ghosts stole the red dragon egg intended to be Themberchaud's replacement. Its current location is unknown. Gartokkar described the theft as creating "a great disturbance in the Underdark" and described it as feeling "like a hole has been torn through the world" — the significance of this phrasing is unclear.
+- **Themberchaud's ignorance of the egg:** Themberchaud does not know his replacement egg was stolen, nor that the Keepers plan for him to eventually be replaced. The consequences of him learning this are unresolved.
+- **Droki's location and role:** Droki is sought by both the Stone Guards and the Keepers of the Flame as a Gray Ghosts agent. His whereabouts are unknown.
+- **The party's triple-agent status:** The party nominally serves the Stone Guards (Erdde Blackskull), the Keepers of the Flame (Gartokkar), and Themberchaud simultaneously. Their actual loyalties are uncommitted. The consequences of this arrangement being discovered by any faction are unresolved.
+- **Thorin and Grygum's escape plan:** Thorin proposed riding Themberchaud out of Gracklstugh; Grygum agreed. This plan has not been acted upon and its feasibility is entirely unestablished.
+- **The missing escapees:** The other escapees from the original group have disappeared from Ghohlbrorn's Lair. Daz suspects wererats. Their fate is unconfirmed.
+- **Daz's origins:** Daz claimed to be from Menzoberranzan. Zalthir is not convinced this is true. His true origin and any family or faction associations are unresolved.
+- **The psychic blade wielders and their connection to wider events:** Whether the empty scabbard killers are connected to the Gray Ghosts, a government agency, or some other faction remains an open question explicitly raised by Erdde Blackskull herself.
+- **The reward at the Shattered Spire:** Werz Saltbaron promised a reward the following day. The nature of the reward and whether Saltbaron will keep the appointment are unresolved.
