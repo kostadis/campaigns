@@ -69,6 +69,49 @@ Players: Mike (Daz) / Gabe (Zalthir) / Joe (Thorin) / Ben (Grygum).
 
 ---
 
+## Calendar overlay — the questions and the mystery run in parallel
+
+**This is canonical structure, not a stylistic choice.** Per
+chapter 54, the party donated five books to ask five questions,
+and the Avowed scholars work in **days, not scenes.** Yvenne
+reads. Vareth catalogues. Philemon assesses. Khell-Vire opens
+his notebook over multiple sittings. **The scholar arcs do not
+pause for the murder mystery.** Janussi's death happens *during
+the party's stay,* not before. The scholars are still doing
+their work on Day 2 morning when Fembris pounds on the inn door
+— and they continue doing it on Days 2–3 *while* the party is
+investigating the killing.
+
+This is what makes the Candlekeep arc structurally rich: every
+PC has **two threads** running in parallel — the question they
+asked at the gate (slow, scholarly, days-long) and the murder
+they were just conscripted into (acute, time-pressured, hours).
+**Don't collapse them.** The GM should be able to point at any
+session and say what each PC is doing on *both* tracks.
+
+### Day-by-day overlay
+
+| Day | Session | Murder track | Scholar track | Sylvira's role |
+|---|---|---|---|---|
+| **1** afternoon | S1 | Party arrives. **Five Books, Five Questions.** Refectory dinner — Janussi alive (only time). Endless Chant + hooded corridor plants. **Janussi dies just after midnight.** | **First sittings — all four scholar pairings.** Yvenne 1–2 ticks. Khell-Vire opens the notebook. Philemon Phase 1 (clinical). Vareth Stations 1–2 of the Stroud Wake. **Glabbagool's question lands.** | **Demon-lord-evidence ally** — accepts the books, names the Harpers, vouches for the party. **Locked in before suspicion arrives.** |
+| **2** pre-dawn → afternoon | S2 | Fembris cliffhanger fires. Chapter House. Crime scene. Hollypocket + Tadric. Investigators' Office. Kalan's key. **No formal scholar scenes on screen.** | **Active offstage.** Scholars are still researching. PCs can mention *"I checked in with Yvenne / Vareth / Philemon / Khell-Vire this afternoon"* — give a one-line update. **Scholars themselves are reacting to Janussi's death:** Philemon is rattled (his superior); Vareth gossips; Yvenne is steady; Khell-Vire is unmoved. | **Visibly ill.** Stays in the Infernal Fortress; the Beast has bitten her. *Off-screen, the prime suspect.* |
+| **2** evening | S3 | Search Southern Dining Hall → heart in lead chalice. Reader interviews #1 (Sylvira, Daral, Fheminor). | **Scholar interleaves resume on screen.** Thorin/Philemon Phase 2 (pivot). Daz/Yvenne — Vaelissa name lands; Bell Tower deadline for Polly. Other PCs' scholars continue offstage. | **Now the prime suspect *and* the demon-lord ally.** This is the dual role the scholar handoff earned — the suspect believed them. **Player loyalty is now load-bearing.** |
+| **3** morning + afternoon | S4 | Reader interviews #2 (A'lai, Alkrist, Teles, Kazryn, Bookwyrm). Physical evidence (Apothecary, Kitchens, Outfitters). Fembris breaks. **Milestone level-up to 9.** | **Peak interleave.** Trial of the Broken Mirror at the Sea Warden's Tower. Stations 5–8 of the Stroud Wake (+ Drakonoikos detour). Phase 3 Quiet Hour in the Reading Salon (Path C only). Yvenne's third sitting → bloodline-pattern observation. | **Plague worsens.** If Grygum has been treating her, she may surface as a witness for Bookwyrm's behavior; if not, she is bedridden. |
+| **3** evening | S5 | Day Two of mystery: Daral status, Kalan missing, three converging paths, **Bookwyrm dies.** | **Closing windows.** Yvenne final sitting (Fourth-Seat synthesis Investigation DC 20 available). Khell-Vire closing letter. Vareth Stations 9–10 + unsigned sting. Philemon prescription delivered + sealed letter (Path C). | **Path B: recruited as battlefield ally.** Walks to the Cursed Tower with the party. Or Paths A/C: bedridden / unaccounted for. |
+| **3** night | S6 | High Tower fight, wards drop, A'lai escapes, Manshoon arrives. | **Closed.** No new scholar content. | **Path B:** archmage in the field, dispels Moziqodo's binding (DC 19). Other paths: absent. |
+| **4** morning | S7 | Cryptogram race across the keep. **Planning-phase allies arrive:** Sylvira, Yvenne, Thava (via Vareth), Inda. Each ally appears *because of trust earned during scholar work.* | **The scholar work is now load-bearing for the climax.** Yvenne's planar-residue trace. Sylvira's two-clues-known shortcut. Vareth's F-A-D-E knowledge. Daral's Fustilugs etymology (if alive). | **Path B: still in field.** Returns to the Investigators' Office for the planning phase, having subdued Moziqodo. |
+| **4** afternoon → evening | S8 | Vault, Echoes, Manshoon escapes, Eldeth's letter. | **Closing.** Sealed letters from Yvenne, Khell-Vire, Philemon, Vareth, **and Sylvira's standing offer of Infernal Fortress consultation** — all banked for OOTA endgame. | **Survives** (especially Path B). Senior surviving Great Reader; institutional ally going forward. |
+
+### What "the questions take days" means at the table
+
+- **Don't try to answer a question in one scene.** Yvenne, Vareth, Khell-Vire, and Philemon all canonically work in *multiple sittings.* A single sitting moves the needle (one tick, one station, one tier, one phase) but does not close the question.
+- **Allow offstage scholar progress.** Between on-screen scenes, PCs can say *"I spent the afternoon with Yvenne"* — give them the next-tier reveal as narration without forcing a full scene. **Use this in Session 2** especially, where the murder consumes screen time but the scholars are still working.
+- **The mystery affects the scholars; the scholars affect the mystery.** Philemon is rattled because Janussi was his superior. Sylvira is suspected because the cover-up framed her. Vareth gossips loudly about who he thinks did it. Yvenne quietly compares Daz's posture to a grief reaction (it isn't). **Let these reactions surface during scholar scenes** — they earn double duty.
+- **A PC who never makes time for their scholar leaves with partial answers.** The big four (Daz, Zalthir, Thorin, Grygum) need *multiple* sittings to reach full payoff. **Glabbagool's question is single-shot;** it resolves in Session 1. Track each PC's scholar ticks/stations/phases per the ledger.
+- **The climax depends on what the scholars gave the party.** Session 7's cryptogram race uses the good-choice ledger — every shortcut there is a *cash-in* of multi-day scholar trust. A party who ignored scholars in favor of the mystery has the worst-case ledger and runs Session 7 long.
+
+---
+
 ## Scaling deltas
 
 | Encounter | Module CR | Adapted CR | Notes |

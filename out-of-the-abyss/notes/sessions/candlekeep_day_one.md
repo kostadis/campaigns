@@ -258,6 +258,17 @@ Run as four short scenes back-to-back, **interleaving** so each
 player gets ~20–30 min of spotlight. Don't run as montage. Let scenes
 breathe.
 
+> **Canon: questions take days, not scenes.** Each scholar
+> pairing canonically runs **multi-sitting.** Yvenne 5 ticks.
+> Khell-Vire 7 reveal-tiers. Philemon 3-phase + therapy ritual.
+> Vareth 7-station Stroud Wake. Session 1 Act 3 is the **first
+> sitting only** for each pairing. The scholars continue working
+> through Sessions 2–5 on a parallel track to the murder mystery.
+> See `candlekeep_murders_arc.md` *Calendar overlay* for the
+> day-by-day breakdown. **Do not try to close a scholar arc in
+> Session 1** — Glabbagool's question is the only single-shot
+> question, by canon.
+
 ### Daz with Sister Yvenne
 
 **Setting:** **the Hall of Divination** (transept of the

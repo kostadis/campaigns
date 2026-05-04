@@ -14,6 +14,12 @@ plugin), Obsidian, or paste into <https://mermaid.live>.
 - 🔵 blue = **key clue or item to plant explicitly**
 - 🟣 pink = **player choice** with downstream impact
 - ⭐ star prefix in node text = item the GM should not let pass without naming it
+- 🟢 green = **scholar work continuing offstage** (the questions take *days*; scholars work in parallel to the mystery, not after it)
+
+**Two parallel tracks:** the murder mystery is acute (hours);
+the scholar arcs are slow (days). Sessions 2–5 run *both
+tracks at once.* See `candlekeep_murders_arc.md` *Calendar
+overlay* for the day-by-day breakdown.
 
 ---
 
@@ -35,10 +41,13 @@ flowchart TD
     end
 
     S1Cliff1 ==> S2A
+    S1D -.->|scholars keep working<br/>across days| S2Scholar
+    S1D -.->|scholars keep working<br/>across days| S3H
 
     %% =========== SESSION 2 ===========
     subgraph S2["SESSION 2 — Frosty Reception plus Crime Scene — 3 hrs"]
         direction TD
+        S2Scholar["🟢 Scholar work continues OFFSTAGE<br/>Yvenne reads · Vareth catalogues<br/>Philemon assesses · Khell-Vire opens his notebook<br/>Players may say 'I checked in this afternoon'<br/>★ Scholars REACT to Janussi's death<br/>(Philemon rattled · Vareth gossips · Yvenne steady)"]
         S2A["Endless Chant continues<br/>⭐ '...the many-faced man · his metal hand pulling strings'"]
         S2A --> S2B["Chapter House<br/>Bookwyrm conscripts party<br/>removes Kalan from the case"]
         S2B --> S2C["Kalan corridor approach<br/>'find me at Sea Warden's<br/>if you need a key turned'"]
@@ -87,11 +96,13 @@ flowchart TD
     classDef cliff fill:#fef3c7,stroke:#d97706,stroke-width:3px,color:#000
     classDef choice fill:#fce7f3,stroke:#db2777,stroke-width:2px,color:#000
     classDef clue fill:#dbeafe,stroke:#2563eb,stroke-width:2px,color:#000
+    classDef scholar fill:#dcfce7,stroke:#16a34a,stroke-width:2px,color:#000
     classDef session fill:#f3f4f6,stroke:#374151,stroke-width:2px
 
     class S1Cliff1,S2Cliff2,S3End cliff
     class S1Choice1,S3Choice2,S3I choice
     class S1Qs,S1C,S1E,S1F,S2H,S2I,S2J,S2Cliff2,S3B,S3C,S3G,S3J clue
+    class S2Scholar,S1D,S3H scholar
 ```
 
 ---
