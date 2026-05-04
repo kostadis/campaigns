@@ -1,12 +1,30 @@
-# Session — Candlekeep, Day One
+# Candlekeep — Day 1 (Session 1)
 
-GM-facing prep kit. Distills the plan at
-`/home/kroussos/.claude/plans/cuddly-forging-aho.md` into runnable form.
+GM-facing tactical script for **in-fiction Day 1** — *Deadwinter
+Eve, the day the party arrives at Candlekeep.* One real-world
+session covers this day.
+
+**This is part of a four-day series:**
+- **Day 1** — *this file.* Travelogue prelude, peacetime Day
+  One, Janussi murdered just after midnight. (Session 1.)
+- **Day 2** — `candlekeep_day_two.md`. Crime scene + Reader
+  interviews #1. (Sessions 2–3.)
+- **Day 3** — `candlekeep_day_three.md`. Reader interviews #2,
+  scholar closes, Bookwyrm dies, A'lai escapes, Manshoon
+  arrives. (Sessions 4–6.)
+- **Day 4** — `candlekeep_day_four.md`. Cryptogram race, Vault,
+  Echoes of Alaundo, Eldeth's Gauntlgrym letter. (Sessions 7–8.)
+
+**Strategic prep + scaling deltas + good-choice ledger:**
+`candlekeep_murders_arc.md`.
+**At-a-glance flowchart:** `candlekeep_arc_flowchart.md`.
 
 **Setup:** party emerged from the Underdark at end of campaign chapter 49.
 Travel to Candlekeep, arrive, first research day. ~3 hours table time.
 
-**Cliffhanger:** sealed letter from a Harpers contact, end of evening.
+**Cliffhanger:** Fembris pounds on the inn door pre-dawn —
+*"The Keeper of Tomes is dead."* (See Act 4 below; replaces the
+original Harpers letter.)
 
 **Locations reference:** every scene below names the specific
 library / chamber it runs in. Source: `docs/background/1073077-Inside_the_Great_Library_(Candlekeep_Locations).json`. Quick reference card: `notes/sessions/candlekeep_locations.md`.

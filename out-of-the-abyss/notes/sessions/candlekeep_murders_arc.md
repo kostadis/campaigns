@@ -7,11 +7,25 @@ into the OOTA campaign. **Eight sessions.** Departure level **9.**
 Source companion files:
 
 - `notes/sessions/blingdenstone_to_candlekeep_travelogue.md` — the 30-day overland prelude (run at the start of Session 1)
-- `notes/sessions/candlekeep_day_one.md` — Session 1 prep (peacetime)
+- `notes/sessions/candlekeep_arc_flowchart.md` — at-a-glance mermaid sequencer
+- **Per-day tactical scripts** (run from these at the table):
+  - `notes/sessions/candlekeep_day_one.md` — Day 1 (Session 1)
+  - `notes/sessions/candlekeep_day_two.md` — Day 2 (Sessions 2–3)
+  - `notes/sessions/candlekeep_day_three.md` — Day 3 (Sessions 4–6)
+  - `notes/sessions/candlekeep_day_four.md` — Day 4 (Sessions 7–8)
 - `notes/sessions/candlekeep_locations.md` — locations cheat card
 - `notes/npcs/candlekeep_avowed.md` — Avowed officer + scholar dossiers
 - `notes/threads/post_candlekeep_open_threads.md` — open threads after the arc
 - `docs/planning.md` — campaign threat tracker
+
+> **How the files relate.** *This file* is the **strategic
+> view** — design principles, scaling deltas, calendar overlay,
+> good-choice ledger, full per-session beat detail. The
+> **per-day files** are the **tactical view** — what's happening
+> on both tracks at each in-fiction time of day, runnable
+> chronologically from the table. The flowchart is the
+> at-a-glance index. **Run from the per-day files; reference
+> back here for deep prep.**
 
 ---
 
