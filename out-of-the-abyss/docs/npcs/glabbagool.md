@@ -2,7 +2,7 @@
 name: Glabbagool
 aliases:
   - Glabagool
-source_extracts: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54]
+source_extracts: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55]
 ---
 
 # Glabbagool
@@ -12,12 +12,16 @@ source_extracts: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18,
 - His sentience is connected to the rampaging chaotic sentience phenomenon in the Underdark, tied to Juiblex's influence
 - *Also known as: Glabagool.*
 
+*Also known as: Glabagool.*
+
 ## Personality & Motivations
 - Core desire is friendship, purpose, and belonging — when asked what he wanted as payment, he revealed he just wanted friends and to feel needed
 - Endlessly curious, cheerful, and earnest to the point of comedy; he narrates his own actions, plays games with animated statues, gets drunk cleaning tavern floors, and sings terrible sea shanties
 - Fiercely proud of being a cube (not an ooze), correcting anyone who conflates the two species, citing his "higher viscosity" and ability to maintain a square shape
 - Eager to be useful — cleaning floors, clearing rubble, scouting dangerous objects — earning the affectionate nickname "Roomba"
 - Uniquely sentient and capable of speech — abilities it gained after an unknown event it cannot fully explain; curious and communicative, willing to speak aloud to strangers
+- Deeply confused about limitations on knowledge-seeking: believes that with infinite capacity, every book should be donated and questions asked until the end of time
+- Adopts googly eyes as affectations because he discovered that cute eyes make people treat him more friendly; can actually see in different ways as oozes do and can proliferate eyes at will (which becomes very creepy when demonstrated)
 
 ## History with the Party
 1. **Oozing Temple**: Discovered with newfound sentience. Thorin invited him to join; he accepted and received a lucky foot as a welcome gift. Blocked a narrow passage with his body, volunteered to touch mysterious sculptures (triggering gray oozes), cleaned up the remains, and found a hidden treasure cache in a fountain (112 sp, 3 gp, a drow dagger, oil of slipperiness). Confirmed he didn't need to breathe during flooding. Agreed to allow resurrection attempts before consuming any fallen party members.
@@ -33,35 +37,36 @@ source_extracts: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18,
 11. **Asha Vandree Deception**: Attempted to disguise himself as a rock on Daz's orders; failed almost immediately by narrating his own invisibility and tracking the conversation with wandering eyes. Asha accepted him as Daz's "bound familiar," which actually reinforced Daz's credibility as a powerful mage. Grygum felt Glabbagool deserved compensation for the indignity; Glabbagool didn't mind.
 12. **Ilvara Battle**: Caught in Ilvara's Insect Plague, taking 26 points of damage; described as "churning and trembling." Grygum's first priority was checking on him. Daz carefully sculpted his Fireball to exclude Glabbagool from the blast.
 13. **Emergence into the Overbright**: Travelled in Grygum's bag of holding during the ascent to the surface. On reaching the Overbright, Grygum opened the bag enough for Glabbagool to look out, and he peered at the surface world — direct sunlight and open sky for the first time — taking it in the way a child takes in a first ocean, the sheer scale producing a silence adjacent to awe. He swept his attention across the surface with a focus that made Zalthir's own response to the Overbright seem measured by comparison. Zalthir privately admired the curiosity-over-retreat reaction, though he did not say so aloud. No communication with Glabbagool was possible because the Stonespeaker Crystal belonged to Daz.
+14. **First Full Surface Experience**: At the tunnel mouth, experienced sunlight for the first time with a stillness distinguished from his usual floor-like passivity — witnessed as genuinely witnessing. Zalthir observed this moment. The subject of monk training discussions arose, which Zalthir has apparently offered in some sense, though "offered" is contested and Zalthir's expression indicates the word is doing significant work. Glabbagool has strong feelings about a curriculum involving "run, run, slap, slap, slap." Thorin noted his tactical potential: no fixed appendages, unpredictable, potentially twelve simultaneous strikes per round.
+15. **Bird Call Sequence**: During the bird-call signal sequence, attempted a bird impression that was completely unrecognizable — described as the sound a bag of wet sand makes when dropped from height while being squeezed — and was very proud of it. Asked whether birds are a kind of ooze. Grygum told him they are feathered and promised to introduce him to birds.
+16. **Drow Spy Guardian**: After the drow spy was captured and miniaturized, assigned to watch her in the bag of holding. Performed this duty with absolute singleness of purpose — one eye locked on the prisoner without breaking stride, described as the most earnest thing Zalthir has seen in weeks. During interrogation, demonstrated his actual seeing capacity: explained that his googly eyes are affectations he adopted because cute eyes make people treat him more friendly, and that he can see in different ways as oozes do. To demonstrate authority over the spy, began proliferating eyes, which rapidly became very creepy.
+17. **Candlekeep Arrival**: Assigned to keep the shrunken spy under control as a goal. Thorin proposed that Glabbagool receive his own question to ask the monks, given he donated a day's worth of bag-of-holding service. Was reportedly deeply confused about why a library with effectively infinite capacity imposes any limit on questions at all — his position is that every book ever seen should be donated and questions asked until the end of time. Zalthir noted that Glabbagool has been carried in a bag for much of his above-ground existence with no way to establish what is normal above ground.
 
 ## Current Status
 - **Form**: Now an ooze rather than a gelatinous cube (post-body-swap with the Pudding King)
-- **Last seen**: Travelling with the party in Grygum's bag of holding; emerged to the surface (the Overbright) after the Ilvara battle and saw the sky for the first time
-- **Active plans**: Party has discussed monk training to teach him to control his form and acidity; he has expressed eagerness to travel in a jar or Bag of Holding for convenience
+- **Last seen**: Inside or near the bag of holding at Candlekeep, watching the shrunken drow spy
+- **Active assignment**: Keeping the miniaturized drow spy under control; awaiting his turn to ask the monks a question
+- **Active plans**: Party has discussed monk training to teach him to control his form and acidity; he has expressed eagerness to travel in a jar or Bag of Holding for convenience; strong opinions about potential monk curriculum
 - **Communication constraint**: Spoken communication requires the Stonespeaker Crystal, which Daz carries — without Daz present, the party cannot reliably interpret him
 - **Hidden concerns**: The Pudding King's voice previously had some pull on him (he heard it calling from the south, near the slime pool). Whether any residual influence remains after the body-swap is unknown to the party.
+- **Surface world context**: Has been carried in a bag for much of his above-ground existence with no way to establish what is normal above ground
 
 ## Relationships
-- **Thorin**: First to invite him into the party; gave him a lucky foot. Thorin tested his identity during the body-swap with a personal question.
-- **Zalthir**: Close bond. Zalthir persuaded him to resist the Pudding King's call by appealing to friendship. Glabbagool was fascinated by Zalthir's tentacles. Zalthir mentally noted Glabbagool should learn to control his acidity (monk training idea).
-- **Grygum**: Protective of Glabbagool; first to check on him after the Insect Plague. Suggested using him for rubble-clearing. Felt he deserved compensation for the familiar ruse.
-- **Daz**: Daz protects him in combat (sculpted Fireball around him). Used him in the Asha Vandree deception as a "familiar," which Glabbagool didn't mind. Daz privately acknowledged Glabbagool's presence helped sell his credibility.
+- **Thorin**: First to invite him into the party; gave him a lucky foot. Thorin tested his identity during the body-swap with a personal question. Notes his tactical potential (no fixed appendages, potentially twelve simultaneous strikes per round). Proposed that Glabbagool receive his own question at Candlekeep.
+- **Zalthir**: Close bond. Zalthir persuaded him to resist the Pudding King's call by appealing to friendship. Glabbagool was fascinated by Zalthir's tentacles. Zalthir mentally noted Glabbagool should learn to control his acidity (monk training idea). Zalthir privately admired his curiosity-over-retreat reaction to the surface world. Watched him experience sunlight for the first time. Apparently offered monk training in some contested sense; described Glabbagool's guardian performance as "the most earnest thing Zalthir has seen in weeks."
+- **Grygum**: Protective of Glabbagool; first to check on him after the Insect Plague. Suggested using him for rubble-clearing. Felt he deserved compensation for the familiar ruse. Carries him in the bag of holding. Opened the bag for him to see the surface for the first time. Promised to introduce him to birds.
+- **Daz**: Daz protects him in combat (sculpted Fireball around him). Used him in the Asha Vandree deception as a "familiar," which Glabbagool didn't mind. Daz privately acknowledged Glabbagool's presence helped sell his credibility. Carries the Stonespeaker Crystal necessary for communicating with Glabbagool.
 - **Jimjar**: Assigned together for the ghost mission. Jimjar's bone die triggered Glabbagool's telepathic ooze-network event.
 - **Eldeth & Spiderbait**: Partnered for the Barrow Warden ghost quest.
 - **Blingdenstone Deep Gnomes**: Source of tension and suspicion, though one miner expressed interest in hiring him for work after seeing his rubble-clearing abilities.
 - **The Pudding King**: Adversary. The Pudding King's voice called to Glabbagool through the ooze network. They swapped bodies during the final battle. The Pudding King was defeated.
 - **Asha Vandree**: Accepted him as Daz's bound familiar; views him as evidence of Daz's magical power.
 - **Chief Dorbo Diggermattock & Quartermaster Senni**: Required their approval for his continued presence in Blingdenstone.
+- **Miniaturized Drow Spy**: Currently assigned as her guardian; demonstrated authority over her by proliferating eyes in a creepy fashion.
 
 ## Arc Score Events
 - **Increase**: Joined the party willingly and enthusiastically in the Oozing Temple; consistently demonstrated loyalty and usefulness (cleaning, scouting, rubble-clearing, combat support).
 - **Increase**: Resisted the Pudding King's call when Zalthir appealed to friendship.
 - **Increase**: Served as telepathic bridge to pacify all oozes in Blingdenstone, resolving the ooze crisis.
+- **Increase**: Performed spy guardian duty with absolute earnest focus at Candlekeep.
 - **Potential risk (flagged)**: Previously susceptible to the Pudding King's voice; body-swap may have unknown consequences.
-
-## Notes from Extract 054
-Glabbagool, the gelatinous cube companion who had by this point become a grey ooze, was present in the bag of holding during the ascent to the surface. Upon emergence into the Overbright, Grygum opened the bag just enough for Glabbagool to look out.
-
-Glabbagool peered at the surface world — the text uses that word specifically — taking in direct sunlight and open sky for the first time. His response was characterized as taking it in the way a child takes in a first ocean, the sheer scale producing a silence adjacent to awe. He swept his attention across the surface world with a focus that made Zalthir's own response to the Overbright seem measured by comparison.
-
-Zalthir observed the response, noted it, and found Glabbagool's curiosity rather than retreat admirable, though he did not say so aloud. 

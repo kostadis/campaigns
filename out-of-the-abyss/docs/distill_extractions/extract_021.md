@@ -1,203 +1,247 @@
 ## NPCs
 
 **Daz**
-- Current location: Raucous Mesa area, Gracklstugh
-- Current state: Active, scheming
-- Recent actions: Recognized the egg's lettering and concluded a demon has already possessed the egg ("There is no dragon there"). Successfully stole a contract bearing the Deepking's seal from Eldgrim's desk. Engineered the burning of the remaining desk papers by having Zalthir breathe fire, covering the theft. Proposed distributing gathered intelligence to all Gracklstugh power brokers simultaneously and fleeing in the chaos.
-- Faction: Adventuring party
-- Motivations: Gathering leverage/proof against multiple factions; self-described as writing a book (used as a ruse)
+- Current location: Gracklstugh, en route to/from the Empty Scabbard Killers' lair, then approaching the Raucus Mesa
+- Current state: Active, in possession of a stolen document bearing the Deepking's seals
+- Recent actions: Deceived Eldgrim into writing his name on a piece of paper; orchestrated Zalthir burning the desk to destroy other contracts while retaining the stolen document; read the stolen document; reflected on the image of the egg shared by Flumph; identified the egg as already possessed by a demon with no dragon inside
+- Faction: Party
+- Revealed motivations/secrets: Wants to collect information and distribute it simultaneously to all power brokers of Gracklstugh to cause chaos; desired contract as proof of the assassins' existence and for a personal book he claims to be writing
 
 **Zalthir**
-- Current location: Raucous Mesa area, Gracklstugh
-- Current state: Active, frustrated by Thorin's bluntness
-- Recent actions: Led the group back through the lake and fungi forest route toward Raucous Mesa. Breathed fire on Eldgrim's desk on Daz's signal, destroying remaining papers. Proposed using Darkness to cover the group's movement past Derro caves rather than relying on stealth. Chose an alternate tunnel route past two Derro caves to avoid a potentially locked door.
-- Faction: Adventuring party
-- Race: Dragonborn (has fire breath)
+- Current location: Approaching the Raucus Mesa cavern
+- Current state: Active
+- Recent actions: Led the group through the route past the lake, fungi forest, and toward the Raucus Mesa; cringed at Thorin's blunt questions to the assassins; suggested trading the cult takedown for Werz's safety; breathed fire on Eldgrim's desk on Daz's signal; covered the group in Darkness to sneak past the Derro caves; chose a tunnel route past two caves to avoid a door that may not open
+- Faction: Party
 
 **Thorin**
-- Current location: Raucous Mesa area, Gracklstugh
+- Current location: Approaching the Raucus Mesa cavern
 - Current state: Active
-- Recent actions: Repeatedly blurted out tactically unwise questions to the assassins. Suggested asking for a talisman of safe passage. Proposed getting Eldgrim to sign a contract as proof of the guild's existence. Read the stolen contract aloud to the party. Demonstrated knowledge of contract negotiation learned from working with giants.
-- Faction: Adventuring party
-- Race: Dwarf
-- Background detail: Previously made contracts on behalf of giants negotiating with locals ("the choice is a contract or a bunch of giants raid your town")
+- Recent actions: Bluntly revealed the party's enmity toward Demogorgon to Rust; repeatedly asked the assassins about their empty scabbard name; read the stolen document aloud to the group; identified the Deepking's personal seal and royal seal of Gracklstugh on the document; commanded the companion group to be quiet; attempted to tiptoe (loudly); has background making contracts on behalf of Giants with local settlements
+- Faction: Party
+- Revealed motivations/secrets: Has knowledge of contracts and negotiation from prior work with Giants
 
 **Grygum**
-- Current location: Raucous Mesa cavern, Gracklstugh
-- Current state: Active, resolved to hurt the Derro magician
-- Recent actions: Saddened upon learning the dragon egg is demon-possessed. Observed the red egg and black obelisk atop the mesa.
-- Faction: Adventuring party
-- Role: Cleric of Bahamut
-- Race: Orc
-
-**Flumph**
-- Current location: Outside the assassin's lair, waiting
-- Current state: Observing from a distance
-- Recent actions: Previously shared the image of the egg with the party. Refused to enter the assassin's lair, saying "I want to observe a tragedy, not be in one."
-- Faction: Adventuring party ally
-
-**Jimjar**
-- Current location: Outside the assassin's lair, waiting
-- Current state: Active; was prevented from entering by Rust
-- Faction: Adventuring party ally
-
-**Sarith**
-- Current location: Outside the assassin's lair, waiting
-- Faction: Adventuring party ally
-
-**Stool**
-- Current location: Outside the assassin's lair, waiting
-- Recent actions: Providing telepathic communication for the party
-- Faction: Adventuring party ally
-
-**Elbeth**
-- Current location: Outside the assassin's lair, waiting
-- Faction: Adventuring party ally
-
-**Spiderbait**
-- Current location: Outside the assassin's lair, waiting
-- Faction: Adventuring party ally
+- Current location: At the entrance to the Raucus Mesa cavern, observing the egg and obelisk
+- Current state: Active; saddened upon learning the egg is demon-possessed; resolved to harm the Derro magician
+- Recent actions: Registered sadness at learning no dragon is in the egg; observed the Raucus Mesa cavern, the red egg, the obelisk, and the female Derro
+- Faction: Cleric of Bahamut (spelled "Bhamut" in text)
 
 **Eldgrim**
-- Current location: Assassin's lair/garden cave (70ft × 70ft cave with a large garden and a desk)
-- Current state: Active, gave the party an ultimatum
-- Appearance: Duergar with an eye patch
-- Recent actions: Offered to cancel the contract on Werz and put him on the "brightlist" for free if the party eliminates Demogorgon's cult, plus 20 gold (negotiated away). Scribbled his name on a piece of paper for Daz's "book." Dismissed the idea that proof of the guild's existence would be believed. Threatened to kill the party if they fail to eliminate the cult. Noted the burned desk papers were "contracts committed to memory."
-- Faction: Empty Scabbard (Soulblades) – leader/boss
-- Motivations: Eliminating the Demogorgon cult as an ongoing operational cost; maintaining secrecy of guild's existence
+- Current location: Empty Scabbard Killers' lair, a 70×70-foot cave with a large garden
+- Current state: Active; angry about desk being burned; has sent the party to eliminate the Demogorgon cult
+- Recent actions: Received the party; offered to move Werz to the "brightlist" in exchange for eliminating the Demogorgon cult; demanded 20 gold additional fee; was flattered into writing his name; had his desk and contracts burned by Zalthir; threatened the party with a free contract on their lives if they fail
+- Faction: Empty Scabbard Killers (leader)
+- Revealed motivations/secrets: The Demogorgon cult represents an ongoing operational cost to the guild; had existing contracts committed to memory, considered their destruction acceptable; dismissed the idea that any proof of the guild's existence would be believed
 
 **Rust**
-- Current location: Assassin's lair, Gracklstugh
+- Current location: Empty Scabbard Killers' lair / assassins' territory
 - Current state: Active
-- Recent actions: Materialized to intercept the party at the intersection. Introduced himself. Consulted leadership about the party's proposal. Escorted the four party members to Eldgrim. Restricted entry to only Daz, Thorin, Zalthir, and Grygum.
-- Faction: Empty Scabbard (Soulblades)
-- Race: Described initially as Derro, then referred to as Duergar assassin
+- Recent actions: Materialized with Grimgrim to intercept the party; introduced himself; conferred with leadership about the party's proposal; escorted the party to Eldgrim; restricted the companion group from entering
+- Faction: Empty Scabbard Killers; described as a Drow (text says "The Drow not named Grimgrim")
 
-**Grimgrim (Grim)**
-- Current location: Assassin's lair, Gracklstugh
+**Grimgrim (also spelled Grimgrim)**
+- Current location: Empty Scabbard Killers' territory
 - Current state: Active
-- Recent actions: Materialized alongside Rust at the intersection. Stood behind the party during the meeting with Eldgrim.
-- Faction: Empty Scabbard (Soulblades)
-- Race: Derro
+- Recent actions: Materialized alongside Rust to intercept the party; stood behind Daz during the meeting with Eldgrim; was distracted by Thorin's questions about the empty scabbard name
+- Faction: Empty Scabbard Killers; described as a Derro
 
-**Werz (Werz Saltbaron)**
-- Current location: Gracklstugh (presumably at the docks area)
-- Current state: Has an active assassination contract on him; wants to no longer be a target
-- Mentioned in the Deepking's contract as a target: "BIND HIS FEET AND THROW HIM OFF HIS BELOVED DOCKS"
-- Faction: Independent merchant/trader
+**Flumph**
+- Current location: Waiting outside the assassins' lair with the companion group
+- Current state: Active; chose not to enter
+- Recent actions: Previously shared a telepathic image of the egg with Daz; declined Thorin's telepathic invitation to enter the assassins' chambers, stating "I want to observe a tragedy, not be in one"
+- Faction: Companion group
 
-**Errde (Errde Blackskull / Captain Blackskull)**
-- Current location: Gracklstugh
-- Current state: Wants proof that the assassins killed her family
-- Mentioned in the Deepking's contract: "I've smelled treason on her since she was but a lass. She's always had an eye on my throne"
-- Recent actions: Previously provided weapons to the party (Errde's weapons carried by Flumph, Jimjar, Sarith, Stool, Elbeth, and Spiderbait)
+**Jimjar**
+- Current location: Waiting outside the assassins' lair
+- Current state: Active; was barred from entering by Rust
+- Recent actions: Moved to follow Rust before being turned away
+- Faction: Companion group
 
-**The Deepking of Gracklstugh**
-- Current location: Gracklstugh (throne)
-- Current state: Active ruler; secretly commissioning assassinations
-- Recent actions: Authored the stolen contract ordering kills on multiple targets including Werz Saltbaron, Thangus Ironhead, Captain Blackskull, and the Wyrmsmith
-- The contract bears both his personal seal and the royal seal of Gracklstugh
-- Motivations: Eliminating perceived threats, rivals, and traitors
+**Sarith**
+- Current location: Waiting outside the assassins' lair
+- Current state: Active
+- Recent actions: None noted beyond waiting
+- Faction: Companion group
+
+**Stool**
+- Current location: Waiting outside the assassins' lair
+- Current state: Active; providing telepathic communication link (used by Daz to whisper to the group)
+- Faction: Companion group
+
+**Elbeth**
+- Current location: Waiting outside the assassins' lair
+- Current state: Active
+- Recent actions: None noted beyond waiting
+- Faction: Companion group
+
+**Spiderbait**
+- Current location: Waiting outside the assassins' lair
+- Current state: Active
+- Recent actions: None noted beyond waiting
+- Faction: Companion group (armed with Errde's weapons)
+
+**Werz Saltbaron**
+- Current location: Not present in this chunk
+- Current state: Target of an Empty Scabbard Killers contract; named in the stolen document with an instruction to "Bind his feet and throw him off his beloved docks"
+- Recent actions: Not present; discussed as the subject of a hit contract
+- Faction: Unknown
+- Revealed motivations/secrets: Wants to not be a target; has docks associated with him
+
+**Errde**
+- Current location: Not present in this chunk
+- Current state: Not present; weapons distributed to the companion group
+- Recent actions: Not present; discussed — her weapons were given to the companion group; she craves proof that the assassins killed her family
+- Revealed motivations/secrets: Seeks proof that the Empty Scabbard Killers killed her family
 
 **Thangus Ironhead**
-- Current state: Target of the Deepking's assassination contract ("BOIL HIM IN OIL AND FEED HIM TO ROACHES")
-- Reason: Encroaching on the Deepking's family's business
+- Current location: Not present; referenced only in the stolen document
+- Current state: Named target in the stolen document
+- Recent actions: Accused of attempting to encroach on the document author's family's business; marked for death by boiling in oil and being fed to roaches
+- Faction: Unknown
 
-**The Wyrmsmith**
-- Current state: Target of the Deepking's assassination contract ("Freeze the Wyrmsmith until his heart turns crystalline, then smash it to bits")
-- Described in the contract as: "His Arrogance, His Rotundity… the Pampered, the Portly, the Scheming Red"
+**Captain Blackskull**
+- Current location: Not present; referenced only in the stolen document
+- Current state: Named target in the stolen document
+- Recent actions: Accused of treason and having "an eye on the throne" since youth; marked for death
+- Faction: Unknown; implied to have a military or command role
+
+**"His Arrogance, His Rotundity… the Pampered, the Portly, the Scheming Red… the Wyrmsmith"**
+- Current location: Not present; referenced only in the stolen document
+- Current state: Named target in the stolen document
+- Recent actions: Marked for death by being frozen until his heart turns crystalline, then smashed
+- Faction: Unknown; title "Wyrmsmith" suggests connection to dragon or smithing operations
 
 **Lingrick Xardelvar**
-- Current state: Described in the contract as the Deepking's "MOST GASEOUS ALLY"
-- Faction: Allied with the Deepking
+- Current location: Not present; referenced only in the stolen document
+- Current state: Named in the stolen document
+- Recent actions: Described as "my most gaseous ally" in the document; unclear if a target or an ally
+- Faction: Unknown
 
-**Unnamed female Derro**
-- Current location: Atop one of the mesa tiers near the black obelisk, Raucous Mesa cavern
-- Current state: Active
-- Recent actions: Patting and stroking the obelisk's surface; squealed with glee when it flashed; snatched an object from the ground; wrote something in a small notebook
-- Likely the Derro magician Grygum resolved to hurt
+**The Deepking of Gracklstugh**
+- Current location: Not present in this chunk
+- Current state: Not present; identified only through seals on the stolen document
+- Recent actions: Personal seal and royal seal of Gracklstugh appear on the stolen document ordering multiple assassinations; the document is written in a voice of rage and authority consistent with the Deepking
+- Faction: Ruling authority of Gracklstugh
+- Revealed motivations/secrets: Appears to have commissioned the Empty Scabbard Killers for multiple assassinations including Werz Saltbaron, Thangus Ironhead, Captain Blackskull, the Wyrmsmith, and others
+
+**Female Derro at the Obelisk**
+- Current location: Raucus Mesa cavern, near the 50-foot obelisk
+- Current state: Active; gleeful
+- Recent actions: Stroking and patting the obelisk; witnessed the obelisk flash and the faerzress flare in response; snatched an object from the ground; wrote something in a small notebook
+- Faction: Implied Demogorgon cult / Derro savants (unconfirmed)
+- Revealed motivations/secrets: Appears to be studying or interacting with the obelisk experimentally
+
+**Council of Savants member (unnamed Derro)**
+- Current location: One of two caves along the tunnel past the assassins' territory
+- Current state: Present in a cave; party sneaked past
+- Recent actions: None; noted only as present
+- Faction: Council of Savants (Derro)
+
+---
 
 ## Factions
 
-**Empty Scabbard / Soulblades (Assassin's Guild)**
-- Current goals: Eliminate the cult of Demogorgon (ongoing operational cost); maintain total secrecy of their existence
-- Recent actions: Intercepted the party; negotiated a deal to remove Werz from their target list in exchange for the party destroying the Demogorgon cult; hold multiple assassination contracts from the Deepking
-- Key members: Eldgrim (leader, one-eyed Duergar), Rust, Grimgrim, three additional soulblades visible in the cave, two more invisible soulblades posted 50 feet north of the entrance
-- Relationships: Contracted by the Deepking; enemies of the cult of Demogorgon; existence denied by anyone who knows of them
-- Location: Cave lair near the Raucous Mesa intersection
-- The term "soulblades" is the name Duergar assassins give themselves
+**Empty Scabbard Killers**
+- Current goals: Eliminate the Demogorgon cult (as agreed with the party); protect their operational secrecy; move Werz to the brightlist upon completion of the party's task
+- Recent actions: Intercepted the party via Rust and Grimgrim; brought the party to Eldgrim; negotiated a deal to cancel Werz's contract and brightlist him in exchange for eliminating the Demogorgon cult; had desk burned (contracts destroyed); maintain invisible soulblades as exterior sentries
+- Relationships: Antagonistic toward the Demogorgon cult (ongoing operational cost); hold a contract against Werz Saltbaron; hold a contract (now burned) against Thangus Ironhead and others; appear to have a working relationship with the Deepking of Gracklstugh based on the stolen document
+- Key members: Eldgrim (leader, eye patch); Rust (Drow soulblade); Grimgrim (Derro soulblade); three unnamed soulblades inside the chamber; two unnamed invisible soulblades outside the entrance
 
 **Cult of Demogorgon**
-- Current state: Active in Gracklstugh
-- Relationships: Enemies of the Empty Scabbard guild; the party has been tasked with destroying them
-- Recent actions: Referenced as an ongoing problem for the assassins
+- Current goals: Unknown; operating within Gracklstugh; associated with the Raucus Mesa and the egg
+- Recent actions: Represent an ongoing cost and problem to the Empty Scabbard Killers; implied to be operating at or around the Raucus Mesa
+- Relationships: Opposed by the Empty Scabbard Killers; opposed by the party; opposed by Grygum (Bahamut cleric)
+- Key members: Unnamed female Derro at the obelisk (suspected member)
 
-**Council of Savants**
-- A member is present in one of the Derro caves along the tunnel route to the Raucous Mesa
-- Race: Derro
+**Council of Savants (Derro)**
+- Current goals: Unknown
+- Recent actions: At least one member was present in a cave along the tunnel route past the assassins' territory; party sneaked past
+- Relationships: Unknown relationship to the Demogorgon cult; Daz identified a Derro magician connected to the egg situation
+- Key members: One unnamed member noted in the caves
 
-**Gracklstugh Royalty / The Deepking's Court**
-- Current goals: Deepking is eliminating rivals and perceived traitors via assassination contracts
-- Key members: The Deepking
-- Relationships: Secretly commissioning the Empty Scabbard guild; views Captain Blackskull as treasonous; views the Wyrmsmith as scheming
+**Bahamut (Cleric faction — Grygum)**
+- Current goals: Stop the demonic possession/egg situation; harm the Derro magician responsible
+- Recent actions: Grygum resolved to hurt the Derro magician upon learning the egg is demon-possessed
+- Key members: Grygum
+
+---
 
 ## World Events
 
-- Daz recognized the lettering on the red dragon egg and concluded a demon has already possessed it; there is no dragon inside.
-- The party, armed with Errde's weapons and accompanied by NPC allies, entered the Derro slums of Gracklstugh.
-- Zalthir led the group over the lake, through the fungi forest, toward the Raucous Mesa.
-- At the intersection near the assassin's lair, Rust and Grimgrim materialized and intercepted the party.
-- The party negotiated entry to the Empty Scabbard's lair; only Daz, Thorin, Zalthir, and Grygum were allowed inside.
-- Eldgrim offered to cancel the Werz contract and add him to the "brightlist" if the party destroys the cult of Demogorgon.
-- Daz stole a contract from Eldgrim's desk bearing the Deepking's personal and royal seals, containing assassination orders against multiple prominent Gracklstugh figures.
-- Daz engineered Zalthir breathing fire on Eldgrim's desk to destroy the remaining papers and cover the theft.
-- Eldgrim threatened to kill the party personally if they fail to eliminate the Demogorgon cult.
-- The party detected two invisible soulblades posted 50 feet north of the assassin's lair entrance.
-- Zalthir used Darkness to cover the party's noisy passage through Derro-inhabited caves.
-- The party arrived at the Raucous Mesa cavern and observed: a large red egg atop one tier, a 50-foot black metal obelisk atop the other tier, and a female Derro interacting with the obelisk.
-- The obelisk flashed, causing faerzress in the cavern to flare; the female Derro collected an object from the ground and recorded something in a notebook.
+- Daz identified the egg (previously shown to him via Flumph's telepathic image) as already demon-possessed, with no dragon inside, based on lettering he recognized
+- The party, along with their companion group (Flumph, Jimjar, Sarith, Stool, Elbeth, Spiderbait) armed with Errde's weapons, marched into the Derro slums of Gracklstugh
+- Zalthir led the party over the lake, through the fungi forest, and toward the Raucus Mesa
+- Rust and Grimgrim of the Empty Scabbard Killers materialized and intercepted the party at the intersection leading to the assassins' lair
+- Thorin inadvertently confirmed the party's enmity toward Demogorgon and deduced the assassins' identity aloud
+- Rust confirmed the group's identity as the Empty Scabbard Killers
+- Rust conferred with leadership and brought the four core party members (Daz, Thorin, Zalthir, Grygum) to Eldgrim; the companion group was left outside
+- Flumph declined to enter, stating he wished to observe a tragedy rather than be in one
+- Eldgrim offered to move Werz Saltbaron to the "brightlist" in exchange for elimination of the Demogorgon cult, demanding an additional 20 gold
+- Thorin negotiated by reframing the value of the contract; Eldgrim ultimately agreed to brightlist Werz without additional gold if the cult is eliminated
+- Daz deceived Eldgrim into writing his name on paper under the pretense of accurate authorship for a book
+- Daz secretly took the stolen document from Eldgrim's desk while Thorin distracted Rust and Grimgrim
+- Daz signaled Zalthir, who breathed fire on the desk, burning its remaining papers (including other contracts Eldgrim had committed to memory)
+- Eldgrim acknowledged the burned contracts were better destroyed and ordered the party to complete the task, threatening a free contract on their lives if they fail
+- Outside the lair, the party passed two invisible soulblade sentries approximately 50 feet north of the entrance without incident
+- Thorin read the stolen document aloud; it contained rage-filled assassination orders targeting Werz Saltbaron, Thangus Ironhead, Captain Blackskull, the Wyrmsmith, Lingrick Xardelvar, and dozens of others with brief descriptions
+- The document bore the personal seal and royal seal of Gracklstugh, identifying the Deepking as its author
+- Zalthir led the group through a tunnel past two Derro caves (one containing a Council of Savants member) using a Darkness spell to conceal their passage
+- The party reached the Raucus Mesa cavern and observed its layout: a rocky mesa with ramps, two topmost tiers connected by a bridge, a large red egg atop one tier, and a 50-foot black metal obelisk atop the other
+- A female Derro was observed stroking the obelisk; it flashed once, causing the surrounding faerzress to flare; she snatched an object from the ground and wrote in a notebook
+
+---
 
 ## Locations
 
-**Derro Slums of Gracklstugh**
-- Starting location for the party this session.
+**Gracklstugh — Derro Slums**
+- What it is: A district of Gracklstugh inhabited by Derro
+- What happened: The party entered this area at the start of the session, armed with Errde's weapons and accompanied by the full companion group
 
-**The Lake**
-- Body of water the party crossed en route to the Raucous Mesa; same path taken previously.
+**The Lake (unnamed)**
+- What it is: A body of water within or near Gracklstugh used as a route
+- What happened: The party crossed over it en route to the Raucus Mesa
 
-**Fungi Forest**
-- Area between the lake and the Raucous Mesa; traversed by the party.
+**The Fungi Forest (unnamed)**
+- What it is: A forest of underground fungi used as a travel route
+- What happened: The party passed through it en route to the Raucus Mesa
 
-**Assassin's Lair / Empty Scabbard Headquarters**
-- Located near an intersection on the path to the Raucous Mesa.
-- Interior: A cave approximately 70 feet long and 70 feet wide at its widest, containing a large garden and a desk (now burned) to the north.
-- Two invisible soulblades posted 50 feet north of the entrance.
+**Intersection near the Assassins' Lair**
+- What it is: A tunnel intersection leading toward the Empty Scabbard Killers' territory
+- What happened: Rust and Grimgrim materialized here to intercept the party
 
-**Raucous Mesa Cavern**
-- A massive cave glowing with faerzress, bioluminescent fungi, and shafts of white light.
-- Contains naturally formed shelves along the walls.
-- A rocky mesa at the center with crudely formed ramps connecting different levels up to two topmost tiers linked by a sturdy bridge.
-- Tier 1: Holds a large red egg (demon-possessed, no dragon inside).
-- Tier 2: Holds a 50-foot-tall obelisk of smooth black metal with small imperfections as though pieces were chipped away.
-- Current state: A female Derro is actively interacting with the obelisk.
+**Empty Scabbard Killers' Lair**
+- What it is: A cave approximately 70 feet long and 70 feet wide at its widest, containing a large garden; location of the assassin guild's base
+- What happened: The party was brought here to meet Eldgrim; negotiations took place; Eldgrim's desk and papers were burned by Zalthir; the party secured an agreement to brightlist Werz in exchange for eliminating the Demogorgon cult
+- Current state: Desk burned; Eldgrim in control; party has departed with a stolen document
 
-**Tunnel to the Raucous Mesa (alternate route)**
-- Approximately 80 feet wide and hundreds of feet long.
-- Opens westward into the Raucous Mesa cavern.
-- Contains at least two side caves inhabited by Derro, one of whom is a member of the Council of Savants.
+**Two Derro Caves (unnamed, along tunnel route)**
+- What it is: Two caves along the 80-foot-wide tunnel leading to the Raucus Mesa; one contains a Council of Savants Derro
+- What happened: The party sneaked past under Zalthir's Darkness spell
+- Current state: Derro present and undisturbed
+
+**The Raucus Mesa Cavern**
+- What it is: A massive underground cavern glowing with faerzress, bioluminescent fungi, and shafts of white light; contains a naturally shelved rocky mesa at its center with crude ramps connecting levels up to two topmost tiers linked by a bridge
+- Key features: A large red egg atop one of the topmost tiers; a 50-foot-tall smooth black metal obelisk with minor imperfections (as though small parts were chipped away) atop the other tier
+- What happened: Grygum and the party observed the cavern; a female Derro was seen interacting with the obelisk, which flashed and caused the faerzress to flare; she retrieved an object from the ground and recorded notes
+- Current state: Active; female Derro present; egg and obelisk present
+
+---
 
 ## Threads & Mysteries
 
-- **The demon-possessed egg**: What demon has possessed the red dragon egg? What are the implications for Gracklstugh and Grygum's mission as a cleric of Bahamut?
-- **The black obelisk**: What is the 50-foot smooth black metal obelisk? What are the imperfections/chipped pieces? What object did the female Derro collect when it flashed? What is she recording in her notebook?
-- **Faerzress and the obelisk**: The obelisk flash caused faerzress to flare—what is the connection?
-- **The female Derro at the obelisk**: Who is she? Is she the Derro magician Grygum wants to hurt? What is she doing with the obelisk?
-- **Daz's plan to distribute intelligence simultaneously**: Daz proposed giving gathered information to all Gracklstugh power brokers at once and fleeing in the chaos—will this be executed?
-- **The stolen Deepking contract**: The party possesses a document with the Deepking's personal and royal seals ordering assassinations of prominent figures including Werz, Captain Blackskull, Thangus Ironhead, and the Wyrmsmith. How will they use this explosive evidence?
-- **Errde Blackskull's request**: She wants proof the assassins killed her family. The party has not yet obtained this specific proof, though the Deepking's contract mentions targeting her. She is herself a target.
-- **The Deepking's assassination campaign**: The Deepking is ordering hits on his own captain (Blackskull), merchants (Werz, Thangus Ironhead), and the Wyrmsmith. What is the full scope of his purge?
-- **Lingrick Xardelvar**: Who is this person described as the Deepking's "most gaseous ally"?
-- **The cult of Demogorgon**: The party must destroy this cult to fulfill their deal with Eldgrim and survive. Location and details of the cult are not yet established.
-- **The Empty Scabbard's ultimatum**: If the party fails to destroy the Demogorgon cult, Eldgrim will kill them as a "free contract."
-- **Werz's brightlist status**: Contingent on the party successfully eliminating the Demogorgon cult.
-- **The Wyrmsmith as a target**: Described as "the Scheming Red"—is the Wyrmsmith a red dragon? Connected to the red egg?
+- **The demon-possessed egg**: Daz identified the egg as already possessed by a demon based on lettering, with no dragon inside. The nature of the demon, what it intends, and whether it can be stopped or expelled are unresolved.
+- **The obelisk**: A 50-foot black metal obelisk sits atop the Raucus Mesa. It has imperfections suggesting pieces have been chipped away. It flashes and causes faerzress to flare when interacted with. Its origin, purpose, and connection to the Demogorgon cult are unknown.
+- **The female Derro and her notebook**: She is actively experimenting with or studying the obelisk, collecting objects it produces and recording results. Her identity, her role in the cult, and what she is discovering are unresolved.
+- **The stolen document and the Deepking**: The party now holds a document bearing the Deepking's personal and royal seals ordering multiple assassinations including Werz Saltbaron, Thangus Ironhead, Captain Blackskull, the Wyrmsmith, and Lingrick Xardelvar. Daz's plan to distribute this to all power brokers simultaneously is unresolved. How to use it, and what consequences will follow, are open.
+- **Werz Saltbaron's contract**: The Empty Scabbard Killers have agreed to brightlist Werz if the party eliminates the Demogorgon cult. The contract has not yet been formally cancelled; completion depends on the party's success.
+- **Errde's request for proof**: Errde wants proof that the Empty Scabbard Killers killed her family. The party has not yet obtained or delivered such proof. Eldgrim dismissed the possibility that any proof would be believed.
+- **The Demogorgon cult at the Raucus Mesa**: The party has agreed to eliminate the cult. The cult's membership, strength, and exact activities at the Mesa are not yet fully known.
+- **The Derro magician**: Grygum resolved to harm the Derro magician connected to the egg. This individual has not yet been encountered or identified beyond Grygum's awareness of them.
+- **Thangus Ironhead**: Named in the Deepking's document as someone who encroached on the Deepking's family business and was marked for death. His current status and relevance to broader events are unknown.
+- **Captain Blackskull**: Named in the document as suspected of treason and marked for death; described as having "had an eye on the throne" for a long time. Her identity, current status, and role in Gracklstugh politics are unknown.
+- **The Wyrmsmith**: Named in the document and marked for death by freezing. The title "Wyrmsmith" may indicate a connection to dragon-related smithing. Identity and current status unknown.
+- **Lingrick Xardelvar**: Described in the document as the author's "most gaseous ally" in capital letters. Unclear whether this is a target, an ally being acknowledged, or something else. Identity and relevance unknown.
+- **Dozens of unnamed targets**: The document contains many more targets described only with brief insults ("Commoner," "Ugly," "Poor," "Wretched," etc.). Their identities and whether any are significant are unresolved.
+- **Daz's plan to "stab everyone in the front simultaneously"**: The plan to distribute damaging information to all of Gracklstugh's power brokers at once and flee in the chaos has not been executed. Its feasibility and consequences are unresolved.
+- **The object retrieved by the female Derro**: After the obelisk flashed, she snatched an unidentified object from the ground. What this object is and its significance are unknown.
+- **Faerzress and the obelisk interaction**: The obelisk's flash caused the faerzress in the cavern to flare. The relationship between the obelisk and faerzress, and whether this is being weaponized or harvested, is unresolved.

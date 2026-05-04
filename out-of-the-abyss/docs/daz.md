@@ -4,7 +4,7 @@
 - **Class & Level:** Wizard 8
 - **Species:** Elf (Drow Lineage)
 - **Background:** Sage
-- **Player:** kostadis1
+- **Player:** Mike Hall 
 - **Alignment:** Chaotic Neutral
 - **Age / Gender / Size:** 189 / Male / Medium
 - **Height:** 6'2"

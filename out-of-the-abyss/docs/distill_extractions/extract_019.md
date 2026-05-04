@@ -1,217 +1,231 @@
 ## NPCs
 
-**Zalthir**
-- Current location: Whorlestone Caves / Gracklstugh area
-- Current state: Alive, pragmatic about the mission; trained by monks to mask his feelings
-- Recent actions: Scouted the cave to the southwest, discovered dancing myconids, followed Droki's trail, questioned the Flumph for intelligence, negotiated with Gartokkar
-- Motivation: Primarily waiting to acquire magical equipment; not enthusiastic about saving Duergar from a mad king or fighting another Demogorgon cult
-
 **Thorin**
-- Current location: Gracklstugh area
-- Current state: Alive, described as "kin of giants"
-- Recent actions: Killed giant centipedes, negotiated with Gartokkar Xundorn, helped secure upfront payment and confidentiality rider
-- Notable: Expressed the idea of escaping Gracklstugh on the back of Themberchaude; irritated by the Flumph's trauma dumping
+- Current location: Whorlestone Caves / moving through cave complex
+- Current state: Active, recently healed by Grygum after battling centipedes
+- Recent actions: Killed centipedes; conversed with the Flumph; participated in negotiations with Gartokkar
+- Faction: Party
+- Notes: Self-described as not the type of barbarian who rages until everything dies
+
+**Zalthir**
+- Current location: Whorlestone Caves / moving through cave complex
+- Current state: Active
+- Recent actions: Scouted cave to the southwest; observed dancing myconids and spore servants; followed Droki's trail; questioned the Flumph; proposed extracting written information from the obelisk room
+- Faction: Party
+- Notes: Trained by monks to mask emotions; questions the scope of their mission, stating he came for magical equipment, not to defeat cults
 
 **Grygum**
-- Current location: Gracklstugh area
-- Current state: Alive, orc cleric of Bahamut
-- Recent actions: Healed Thorin after the centipede fight, led the group to the Keepers of the Flame, negotiated with Gartokkar
-- Motivation: Feels commanded by Bahamut to save the dragon egg; believes chromatic dragons having free will and not being pre-determined as evil is a core principle
-- Notable: Observed the Flumph's color-mood patterns (dark blue before trauma dump, teal after)
+- Current location: Whorlestone Caves / Keeper of the Flame meeting location
+- Current state: Active
+- Recent actions: Healed Thorin after centipede battle; received trauma dump from Flumph; proposed plan to gather allies and weapons from Errde; led party to Gartokkar; instructed Flumph to trauma dump on Gartokkar; participated in negotiations
+- Faction: Party; cleric of Bahamut
+- Motivations: Bound by obligation to Bahamut to save the dragon egg; believes chromatic dragons are not pre-determined to be evil; opposed to the egg being used to create a two-headed dragon mount for Demogorgon
 
 **Daz**
-- Current location: Gracklstugh area
-- Current state: Alive, Drow, thoughtful magician and student of magic
-- Recent actions: Remained mostly quiet during Flumph encounter, provided key insight that Flumph testimony alone wouldn't constitute physical evidence, mentally composed journal entries analyzing faction dynamics, participated in negotiations with Gartokkar
-- Motivation: Profit; sees the situation as very lucrative by playing multiple employers
-- Notable: Inspired by Milo Goodbarrel's writing practice; has been mentally composing journal entries since escaping Velkynvelve
+- Current location: Moving through Whorlestone Caves / Keeper of the Flame meeting location
+- Current state: Active; mentally composing journal entries as a writing habit
+- Recent actions: Identified the Flumph for the party; participated in negotiations with Gartokkar; co-negotiated a 30% upfront payment and a confidentiality rider worth 1,000 gold; plans to negotiate with Errde next
+- Faction: Party
+- Notes: Inspired to write daily by Milo Goodbarrel's book; has been mentally journaling since escaping Velkynvelve; recognized Gartokkar's genocidal intent against the Derro
 
-**Droki**
-- Current location: Somewhere in the Whorlestone Caves (being tracked)
-- Current state: Alive, on the run
-- Recent actions: Left a trail through the caves; described as a creature of habit making him easy to follow
-- Faction: Derro; connected to the Council of Savants (per Errde's suspicions)
-
-**The Flumph (unnamed)**
-- Current location: Whorlestone Caves, near the fungi forest
-- Current state: Alive, cheerful, feeds on residual psychic energy
-- Recent actions: Shared telepathic images of the obelisk chamber, Plinki's activities, the mind flayer, the assassins, and the history of the caves; trauma dumped on the party and later on Gartokkar Xundorn
-- Abilities: Telepathy, reads surface thoughts, feeds on psychic energy, changes color based on mood (dark blue = sadness/about to trauma dump, teal = relief/post-dump, pink = amusement, green = curiosity/questioning, purple = anticipation, magenta = caution, light blue = calm/informational)
-- Notable: Mentioned its friend Buppido "went stark raving mad"; knows of a mind flayer living in the caves; avoids letting mind flayers know it exists
+**The Flumph**
+- Current location: Cave tunnels north of the fungi forest, Whorlestone Caves
+- Current state: Active; relieved after trauma dumping
+- Recent actions: Telepathically contacted the party; trauma dumped images of the obelisk chamber, Plinki's activities, the history of the cave complex, and the locations of the mind flayer and assassins; accompanied party to Gartokkar and trauma dumped on him; offered to trauma dump further as needed
+- Faction: None; independent
+- Motivations: Feeds on residual psychic energy of creatures; seeks relief by offloading traumatic memories onto others; avoids mind flayers; considers the party heroes
+- Notes: Changes color to reflect emotional state — dark blue before trauma dumping, teal afterward, pink when amused, green when curious/questioning, purple when waiting, magenta before reluctant disclosure; communicates telepathically; cannot read minds of psychic creatures; mentions a friend named Buppido who went mad
 
 **Plinki**
-- Current location: Whorlestone Caves, in a chamber with a circular pathway, a pyramid, and an obelisk
-- Current state: Alive, recently converted to the Cult of Demogorgon
-- Recent actions: Found a powerful obelisk and has been trying to use it for evil purposes; wants to turn the dragon egg into a dual-headed dragon as a mount for Demogorgon
-- Faction: Cult of Demogorgon
+- Current location: Chamber with circular pathway and pyramid/obelisk, Whorlestone Caves
+- Current state: Active; engaged in ritual activity
+- Recent actions: Found the obelisk; attempting to activate or corrupt it; recently converted to the Cult of Demogorgon
+- Faction: Cult of Demogorgon; Gray Ghosts (carries insignia of Council of Savants and Gray Ghosts)
+- Motivations: Wishes to transform the dragon egg into a dual-headed dragon mount to gift to Demogorgon
 
 **Gartokkar Xundorn**
-- Current location: Keepers of the Flame headquarters, Gracklstugh
-- Current state: Alive, seemed "curiously relieved" after the Flumph's trauma dump
-- Faction: Keepers of the Flame (leader/key member)
-- Recent actions: Hired the party for 2000 gold (plus 1000 confidentiality rider) to retrieve the dragon egg and bring proof of demonic worship (specifically a statue of Demogorgon); paid 30% upfront
-- Motivation: Wants the egg returned (it is the Keepers' insurance policy against Themberchaude); intends to use proof of demonic worship and theft to convince the Deepking to wage a genocidal war against the Derro; wants the Council of Savants exposed; considers the Council of Savants his worst enemies
-- Notable: Threatened the party — "If you betray me, there is no cave, no pool of still water, no river, no place in the dark that I will not find you and hunt you down."
+- Current location: Keeper of the Flame headquarters (implied, within or near Gracklstugh)
+- Current state: Active; "curiously relieved" after Flumph trauma dump
+- Recent actions: Received trauma dump from Flumph; negotiated payment with the party; demanded the statue of Demogorgon as proof of demonic worship; agreed to pay 2,000 gold plus a 1,000 gold confidentiality rider, with 30% upfront
+- Faction: Keepers of the Flame (leader)
+- Motivations: Wants the Gray Ghosts destroyed; wants the dragon egg as insurance against Themberchaude; wants the Council of Savants exposed; intends to use evidence of demonic worship to convince the Deepking to eliminate the Derro — interpreted by Daz as planning a genocidal war
+- Threats issued: Warned the party that if they betray him, he will hunt them down anywhere in the dark
 
-**Errde (Errde Blackskull implied)**
-- Current location: Gracklstugh
-- Current state: Alive
-- Faction: Stone Guards (leader)
-- Motivation: Believes the Council of Savants and Grey Ghosts are behind the city's increasing madness; wants proof of Council of Savants' involvement with the city's corruption; wants evidence about the Empty Scabbard Killers; pretending not to think assassins have targeted her clan; believes Droki is helping the Council of Savants
-- Recent actions: Previously offered to provide weapons to the party
-- Notable: Cannot enter the Whorlestone Caves without exposing her incompetence as city guardian
+**Errde**
+- Current location: Not present in this session chunk
+- Current state: Not present; referenced
+- Recent actions (referenced): Offered weapons to the party; believed to be pretending not to acknowledge that assassins have targeted her clan
+- Faction: Stone Guards (leader implied)
+- Motivations (as summarized by Daz): Believes the Council of Savants and Gray Ghosts are behind the city's increasing madness; wants proof of the Council of Savants' involvement in the city's corruption; wants evidence about the Empty Scabbard Killers; investigating Droki's connection to the Council of Savants
+- Notes: Does not appear in this chunk; discussed in Daz's internal journal
 
 **Themberchaude**
-- Current location: Gracklstugh (his lair)
-- Current state: Alive, red dragon
-- Motivation: Believes the Keepers of the Flame have secret plans; not convinced his position is secure; not sure he's truly in charge; wants information about what's going on
+- Current location: Not present in this session chunk
+- Current state: Referenced
+- Recent actions: None in this chunk
+- Faction: Independent (red dragon)
+- Motivations (as summarized by Daz): Believes the Keepers of the Flame have plans against him; unsure his position is secure; wants information about what is happening in the city
+- Notes: Does not appear in this chunk; discussed in Daz's internal journal; the party still has a plan involving escaping on his back
 
-**Buppido**
-- Current location: Whorlestone Caves (dead)
-- Current state: Dead (killed by the party)
-- Notable: Was once a friend of the Flumph; "went stark raving mad"
+**Droki**
+- Current location: Ahead of the party somewhere in the Whorlestone Caves
+- Current state: Being tracked; trail described as easy to follow; Derro described as a creature of habit
+- Recent actions: Fled from the party; being pursued
+- Faction: Derro; implied connection to Council of Savants
+- Notes: Does not appear directly in this chunk; party was chasing him before the Flumph encounter
 
 **Prince Derendil**
-- Current location: Unknown (referenced in memory)
-- Current state: Unknown
-- Description: A mad quagoth who was actually a polymorphed elf
+- Current location: Not present; referenced in Zalthir's memory
+- Current state: Referenced as past acquaintance; described as mad
+- Notes: Was a quagoth who was actually a polymorphed elf; mentioned when Zalthir sees quagoth spore servants; does not appear in this chunk
 
-**Stool**
-- Current location: Unknown (referenced)
-- Description: A myconid sprout who previously traveled with the party and described myconids to them
+**Buppido**
+- Current location: Dead (implied — Daz's journal notes "the deaths of Buppido and of some minor fauna" will go unnoticed)
+- Current state: Deceased
+- Recent actions (postmortem): Body left in the Derro hovels area; death noted as unlikely to be discovered by factions in the caves
+- Faction: Formerly associated with the group; the Flumph mentions him as a friend who "went stark raving mad"
+- Notes: The Flumph knew Buppido personally; Grygum is silent when Buppido is mentioned
 
-**Werz**
-- Current location: Unknown
-- Current state: Alive (implied)
-- Description: A Duergar who was targeted by assassins with a magical light blade
+**The Mind Flayer**
+- Current location: Down a hallway within or near the Whorlestone Caves
+- Current state: Active; location shown to party by Flumph
+- Recent actions: None directly; referenced as dangerous
+- Faction: Unknown; independent
+- Notes: The Flumph feeds on psychic energy residue from the mind flayer but survives by ensuring the mind flayer does not know the Flumph exists
 
 **Milo Goodbarrel**
-- Referenced as an author whose writing practice inspired Daz; wrote a book mentioning that daily writing made him a good writer
+- Current location: Not present; referenced
+- Current state: Referenced as an author
+- Notes: Wrote a book; mentioned a practice of daily writing; Daz was inspired by a commentator on Milo's work to begin mentally composing journal entries; does not appear in this chunk
 
-**Council of Savants member (unnamed, female)**
-- Current location: Whorlestone Caves, in a side chamber off the obelisk room
-- Current state: Alive, guarded by four guards
-- Faction: Council of Savants and Grey Ghosts (carries insignia of both)
-- Description: A Derro
+**Werz**
+- Current location: Not present; referenced
+- Current state: Referenced as a target
+- Notes: A Duergar; the Flumph references that assassins with a magical light blade tried to kill him; the Flumph read this from Grygum's thoughts rather than from spoken words
 
-**A Mind Flayer (unnamed)**
-- Current location: Whorlestone Caves, down a hallway near the assassins
-- Current state: Alive
-- Notable: The Flumph has been feeding on its psychic energy without its knowledge
+---
 
 ## Factions
 
-**Cult of Demogorgon (in Whorlestone Caves)**
-- Current goals: Turn the dragon egg into a dual-headed dragon mount for Demogorgon; attempting to use the obelisk for evil purposes
+**The Party (Thorin, Zalthir, Grygum, Daz)**
+- Current goals: Save the dragon egg (Grygum's priority); collect payment from Gartokkar and Errde; gather evidence against the Council of Savants and the Empty Scabbard Killers; track Droki; escape the Underdark (implied long-term)
+- Recent actions: Defeated centipedes; encountered Flumph; gathered intelligence on the obelisk chamber, Plinki, the mind flayer, and the assassins; negotiated contract with Gartokkar for 2,000 gold plus 1,000 gold confidentiality rider with 30% upfront; plan to negotiate with Errde next
+- Relationships: Employed (loosely) by Gartokkar Xundorn and Errde; have previous dealings with Themberchaude; rest of the crew is holed up in a seedy bar
+
+**Cult of Demogorgon**
+- Current goals: Plinki wishes to create a dual-headed dragon mount for Demogorgon from the dragon egg; broader goal of summoning or serving Demogorgon
+- Recent actions: Plinki has found the obelisk and is attempting to use it; Plinki recently converted to the cult
+- Relationships: Enemies of the Keepers of the Flame and the Stone Guards; at war with the Empty Scabbard Killers over the mesa (Area 5); connected to the Gray Ghosts and the Council of Savants through Plinki
 - Key members: Plinki
-- Recent actions: Plinki has been working on the obelisk; cult forces fighting for control of the mesa (Area 5)
-- Relationships: At war with the Empty Scabbard Killers over the mesa
 
-**Council of Savants**
-- Current goals: Working with Plinki on the Demogorgon plot; involved in demonic worship
-- Recent actions: Have a representative with Grey Ghosts insignia stationed in the caves near the obelisk
-- Relationships: Allied with Grey Ghosts; considered worst enemies by the Keepers of the Flame; suspected by Errde of being behind the city's madness
-- Notable: Used to be "nice people" before "the blink" of the Faerzress
+**The Gray Ghosts**
+- Current goals: Unknown beyond connection to demonic worship and the obelisk
+- Recent actions: Plinki carries their insignia; involved in activities in the obelisk chamber
+- Relationships: Allied or overlapping with the Council of Savants (Plinki carries both insignias); enemies of the Keepers of the Flame; at war with the Empty Scabbard Killers at the mesa
+- Key members: Plinki (carries Gray Ghost insignia)
 
-**Grey Ghosts**
-- Current goals: Unknown beyond alliance with Council of Savants
-- Relationships: Allied with Council of Savants; targeted by both Errde and Gartokkar
-- Key members: The unnamed female Derro in the caves carries both Council of Savants and Grey Ghosts insignia
+**The Council of Savants**
+- Current goals: Unknown; described as having become dangerous and conspiratorial after the Faerzess blink event
+- Recent actions: Working with Plinki to summon Demogorgon or create a dragon mount; the Council person (unnamed) is present in the side passageway of the obelisk cave, guarded by four guards
+- Relationships: Enemies of the Keepers of the Flame (described as in a secret war); under investigation by Errde and the Stone Guards; connected to the Gray Ghosts through Plinki; formerly peaceful before the Faerzess blink
+- Key members: Unnamed derro carrying insignia of both the Council of Savants and the Gray Ghosts (located in side passageway near obelisk cave); formerly included Buppido (who went mad)
+- Notes: Are psychic; use psychic energy; the Flumph cannot read their minds directly but feeds on their residual energy
 
-**Empty Scabbard Killers (Assassins)**
-- Current location: Whorlestone Caves, near the mind flayer's area
-- Current goals: Unknown
-- Recent actions: Attempted to kill the Duergar Werz using a magical light blade; fighting the Cult of Demogorgon for control of the mesa (Area 5)
-- Relationships: At war with Cult of Demogorgon forces in the caves
+**The Keepers of the Flame**
+- Current goals: Destroy the Gray Ghosts; obtain the dragon egg as insurance against Themberchaude; expose the Council of Savants; have proof of demonic worship delivered (specifically the statue of Demogorgon)
+- Recent actions: Gartokkar negotiated a contract with the party; received trauma dump from the Flumph; paid 30% upfront of 2,000 gold plus agreed to 1,000 gold confidentiality rider
+- Relationships: Secret war with the Council of Savants; need the dragon egg to maintain leverage over Themberchaude; cannot enter Whorlestone Caves without triggering a war (doing so would reveal loss of a pillar of power)
+- Key members: Gartokkar Xundorn (leader)
 
-**Keepers of the Flame**
-- Current goals: Retrieve the stolen dragon egg; expose the Council of Savants; use evidence of demonic worship and theft to convince the Deepking to eliminate the Derro from the city (genocidal intent)
-- Key members: Gartokkar Xundorn
-- Relationships: Worst enemies of the Council of Savants; engaged in a secret war with them; have a complex relationship with Themberchaude (the egg is their insurance policy against him)
-- Recent actions: Hired the party for 3000 gold total to retrieve the egg and proof of demonic worship
+**The Stone Guards**
+- Current goals: Obtain proof of Council of Savants' involvement in city corruption; obtain evidence about the Empty Scabbard Killers; investigate Droki's connection to the Council of Savants
+- Recent actions: Errde offered weapons to the party (prior session); no direct actions in this chunk
+- Relationships: Cannot enter Whorlestone Caves without exposing Errde's incompetence as city guardian; investigating the Empty Scabbard Killers
+- Key members: Errde (leader)
 
-**Stone Guards**
-- Current goals: Find proof of Council of Savants' involvement with city corruption; find evidence about the Empty Scabbard Killers
-- Key members: Errde
-- Relationships: Cannot openly enter Whorlestone Caves without political consequences
-- Recent actions: Offered weapons to the party; hired them to investigate
+**The Empty Scabbard Killers**
+- Current goals: Unknown; operating as assassins
+- Recent actions: Attempted to kill Duergar Werz with a magical light blade (referenced); at war with Cult of Demogorgon forces over the mesa (Area 5)
+- Relationships: Enemies of the Cult of Demogorgon at the mesa; being investigated by Errde; present somewhere near the obelisk cave area alongside the mind flayer
+- Key members: Unknown
 
-**The Party's other companions**
-- Current location: "Holed up in a seedy bar" in Gracklstugh
-- Current state: Unarmed/under-equipped
+---
 
 ## World Events
 
-- Giant centipedes attacked and were killed by Thorin in the Whorlestone Caves.
-- The party discovered dancing myconids (three large, several small) in a southwest cave, along with two quagoth spore servants — signs of Underdark madness affecting even myconids.
-- The party encountered a Flumph who shared extensive intelligence via telepathic trauma dumps.
-- The Flumph revealed that the Whorlestone Caves were once a peaceful place where Derro and Duergar socialized together.
-- The Faerzress underwent an anomalous event ("the blink"): the permanent twilight stopped, the caves went dark, the Faerzress blinked on brightly then off, blinked once more, then returned to normal — but something fundamental changed afterward.
-- After the Faerzress blink, the inhabitants of the caves turned hostile; the peaceful community became a place of murder, death, and conspiracy.
-- Plinki converted to the Cult of Demogorgon and stole/acquired the dragon egg, attempting to transform it into a dual-headed dragon mount for Demogorgon using an obelisk.
-- Buppido was killed by the party in the caves (referenced as a death that won't be noticed by cave factions).
-- The Flumph trauma dumped on Gartokkar Xundorn, who appeared curiously relieved.
-- The party negotiated a contract with Gartokkar: 2000 gold for the egg and proof of demonic worship, plus a 1000 gold confidentiality rider, with 30% paid upfront (~900 gold).
-- Gartokkar revealed his intent to use evidence of demonic worship and theft to convince the Deepking to wage war against the Derro.
-- The party plans to next negotiate terms with Errde.
+- The centipedes (referred to as "The Centipedes") were killed by Thorin and the party.
+- Grygum cast a healing prayer to Bahamut on Thorin, restoring him as if he had rested.
+- The party followed Droki's trail southwest into the Whorlestone Caves.
+- Zalthir discovered a natural cave containing dancing myconids (three five-foot-tall, several half-sized, one small sprout standing apart) and two quagoth spore servants behind them.
+- The party decided to leave the myconid cave for another time and continued following Droki's trail.
+- As the party exited the fungi forest, they were approached by a Flumph who spoke telepathically into their minds.
+- The Flumph performed a first trauma dump on the party, revealing images of the obelisk chamber, Plinki's activities, and Plinki's conversion to the Cult of Demogorgon and plan to make a dual-headed dragon mount for Demogorgon from the egg.
+- The Flumph revealed a second trauma dump detailing the history of the cave complex: it was formerly a place of inter-faction socializing between Derro and Duergar; the Faerzess stopped permanently (plunging the caves into darkness), then blinked on brightly, then off, then returned to its usual state; after this event, the social dynamics collapsed and the caves became dangerous, with the mesa (Area 5) becoming a war zone between the Cult of Demogorgon and the Empty Scabbard Killers.
+- The Flumph revealed the existence of a mind flayer living in a nearby hallway.
+- The Flumph revealed that the unnamed Council of Savants / Gray Ghost derro is located in a side passageway near the obelisk cave, guarded by four guards.
+- The party formulated a plan to approach both Gartokkar and Errde with the Flumph's intelligence to gather support and resources.
+- The Flumph trauma dumped on Gartokkar Xundorn at the Keeper of the Flame headquarters.
+- The party negotiated a contract with Gartokkar: 2,000 gold to retrieve the statue of Demogorgon as proof of demonic worship, plus a 1,000 gold confidentiality rider; 30% paid upfront; an attempt to raise the upfront to 50% of 3,000 gold was rejected.
+- Gartokkar issued a threat that he would hunt the party down if they betrayed him.
+- Daz identified Gartokkar's intent as planning to use the evidence to convince the Deepking to conduct a genocidal war against the Derro.
+- The party planned to next negotiate with Errde.
+
+---
 
 ## Locations
 
-**Whorlestone Caves**
-- A cave complex in/near Gracklstugh
-- Once a peaceful social gathering place for Derro and Duergar ("hippy place" for parties and friendship)
-- Now a dangerous warzone divided between the Cult of Demogorgon and the Empty Scabbard Killers
-- Contains: fungi forest, myconid colony (southwest cave), obelisk chamber with circular pathway and pyramid, mind flayer's hallway, side chamber with Council/Grey Ghost representative
-- The Faerzress here underwent an anomalous blink event months ago that changed the nature of the place
-- Two entrances to the obelisk chamber: main entrance and a side passageway
+**Whorlestone Caves (general)**
+- What it is: A cave complex beneath or near Gracklstugh; formerly a social gathering place for Derro and Duergar; now dangerous and faction-contested
+- Current state: Divided between the Cult of Demogorgon, the Empty Scabbard Killers, the Council of Savants / Gray Ghosts, and other dangers; the party is actively moving through it
 
-**Obelisk Chamber**
-- Contains a circular pathway, a pyramid, and a powerful obelisk
-- Has strange markings (on the egg or obelisk)
-- Contains a statue of Demogorgon (Gartokkar wants it as proof)
-- Papers are present in the room
-- Plinki operates here, attempting to use the obelisk on the dragon egg
+**Fungi Forest / Eerie Fungi Forest**
+- What it is: A section of the cave complex filled with unusual fungi
+- Current state: The party passed through it; myconid cave found to the southwest
 
-**Southwest Cave (Myconid Colony)**
-- Natural cave with dancing myconids (three 5-foot tall, several 2.5-foot tall sprouts)
-- One small sprout stands apart from the rest
-- Two quagoth spore servants present
-- The myconids are dancing frantically — abnormal behavior indicating madness
+**Myconid Cave (cave to the southwest)**
+- What it is: A natural cave where several myconids dance to a silent tune; three five-foot-tall myconids, several half-sized myconids, one small sprout standing apart; two quagoth spore servants present
+- Current state: Myconids behaving erratically, described as affected by Underdark madness; party chose to leave without engaging
+
+**Obelisk Chamber (chamber with circular pathway and pyramid)**
+- What it is: A cave chamber containing an obelisk/pyramid; has two entrances — a main entrance and a side passageway
+- Current state: Plinki is present and attempting to use the obelisk for demonic purposes; the unnamed Council of Savants / Gray Ghost derro with four guards is in the side passageway
 
 **The Mesa (Area 5)**
-- Once a party/social gathering spot for cave inhabitants
-- Now a war zone between Cult of Demogorgon forces and Empty Scabbard Killers
+- What it is: Formerly a place where Derro and Duergar would gather to drink and socialize
+- Current state: Active war zone between the Cult of Demogorgon and the Empty Scabbard Killers
 
-**Side Passageway Chamber**
-- Accessible via side entrance to obelisk area
-- Houses a female Derro with Council of Savants and Grey Ghosts insignia, guarded by four guards
+**The Derro Hovels**
+- What it is: Residential area within or adjacent to the Whorlestone Caves
+- Current state: Buppido's body is here; Daz notes the deaths there are unlikely to be discovered by other factions
 
-**Mind Flayer's Hallway**
-- Located in the Whorlestone Caves
-- Houses a mind flayer; assassins (Empty Scabbard Killers) are also nearby
+**Seedy Bar (unnamed)**
+- What it is: A bar in or near Gracklstugh
+- Current state: The rest of the party's crew is holed up there
 
-**Gracklstugh (City of Blades)**
-- Duergar city in the Underdark
-- Contains a seedy bar where the party's other companions are holed up
-- The party has a boat for potential escape
-- Ruled by the Deepking
+**Gracklstugh ("City of Blades")**
+- What it is: Duergar city in the Underdark
+- Current state: Experiencing increasing madness among its population; factional conflict between the Keepers of the Flame, the Stone Guards, the Council of Savants, and others; the Faerzess (a magical twilight phenomenon) had a disruption event that is implied to have caused or accelerated the madness
 
 **Velkynvelve**
-- A location the party previously escaped from (Daz has been journaling since then)
+- What it is: Referenced location; a place the party escaped from
+- Current state: Not visited in this chunk; referenced as the starting point of Daz's journaling habit
+
+---
 
 ## Threads & Mysteries
 
-- **The Dragon Egg**: Stolen by Plinki, being used in a ritual with the obelisk to create a dual-headed dragon mount for Demogorgon. The party is contracted to retrieve it. Grygum feels religiously compelled to save it.
-- **The Obelisk**: A powerful artifact in the Whorlestone Caves that Plinki is trying to use. Its nature, origin, and full capabilities are unknown. Has strange markings. Papers in the room may contain further information.
-- **The Faerzress Blink**: An anomalous event months ago where the Faerzress went dark, blinked brightly twice, then returned to normal — but fundamentally changed the behavior of cave inhabitants, turning a peaceful community violent. The cause is unknown and may be connected to broader Underdark corruption.
-- **The Mind Flayer in the Caves**: Identity, goals, and relationship to other cave factions unknown. Located near the Empty Scabbard Killers.
-- **Empty Scabbard Killers**: Their full goals, leadership, and why they targeted Werz are unresolved. They possess magical light blades. Their connection (if any) to the mind flayer is unclear.
-- **Gartokkar's Genocidal Plan**: He intends to use evidence from the party's mission to convince the Deepking to eliminate the Derro from the city. The party is aware of this; ethical implications are unresolved.
-- **Errde Negotiation**: The party plans to negotiate terms with Errde next, potentially double-dipping on the mission. Terms and her reaction are pending.
-- **Themberchaude's Suspicions**: The red dragon suspects the Keepers of the Flame have plans and is unsure of his own power. His reaction to the egg situation is unknown.
-- **The Escape Plan**: Thorin proposed escaping Gracklstugh on Themberchaude's back. The party also has a boat. The viability of either plan is unresolved.
-- **The Isolated Myconid Sprout**: One small myconid stands apart from the rest — significance unknown.
-- **Buppido's Madness**: The Flumph's friend Buppido "went stark raving mad" — now dead, killed by the party. The Flumph may not know this. The cause of his madness may connect to the broader corruption.
-- **The Party's Companions**: Unarmed allies holed up in a seedy bar; equipping them with weapons from Errde is part of the plan.
-- **Council of Savants / Grey Ghosts Alliance**: The full nature and goals of their collaboration, and how deep the demonic corruption runs in the Council, remain unclear.
-- **Physical Evidence Requirement**: The Flumph's telepathic testimony alone is insufficient proof. The party needs physical evidence (statue of Demogorgon, papers, etc.) from the caves.
+- **Droki's trail**: The party is actively tracking Droki through the Whorlestone Caves; he has not been caught or confronted in this chunk.
+- **The Dragon Egg**: Plinki intends to transform it into a dual-headed dragon mount for Demogorgon; Gartokkar wants it as insurance against Themberchaude; Grygum is religiously obligated by Bahamut to save it; its current physical location is the obelisk chamber.
+- **The Obelisk / Pyramid**: Strange markings are on it; Plinki is attempting to make it "do something evil"; the written papers in the obelisk room were referenced but the Flumph could not provide their content — what do they say?
+- **The Unnamed Council of Savants / Gray Ghost Derro**: Identity unknown; located in the side passageway to the obelisk cave with four guards; significance of holding dual insignia unclear.
+- **The Mind Flayer**: Lives in a nearby hallway; its relationship to the other factions is unknown; the Flumph survives by remaining unknown to it.
+- **The Empty Scabbard Killers**: Their base of operations appears to be near the obelisk cave area; their leadership and full goals are unknown; they attempted to assassinate Duergar Werz; Errde wants evidence about them.
+- **The Faerzess Blink Event**: The Faerzress stopped, blinked on brightly, went off, and returned to normal — something changed during or after this event that transformed the cave complex from a peaceful gathering place to a faction warzone; the cause and full consequences are unresolved.
+- **Gartokkar's Genocidal Intent**: Daz believes Gartokkar intends to use the evidence of demonic worship to persuade the Deepking to eliminate the Derro population of Gracklstugh; this has not been confirmed or acted upon but is a live concern.
+- **Negotiations with Errde**: The party plans to approach Errde next to negotiate terms; outcome unknown.
+- **The Statue of Demogorgon**: Gartokkar has demanded this as physical proof of demonic worship; it has not yet been retrieved; its location within the obelisk chamber is implied but not confirmed.
+- **The Rest of the Crew**: The party's other companions are holed up in a seedy bar; their identities, number, and readiness to assist are not detailed in this chunk.
+- **Escape Plan via Themberchaude**: Thorin referenced an existing plan to escape on the back of Themberchaude; the feasibility and current status of this plan are unresolved.
+- **Buppido's Madness and Death**: Buppido was known to the Flumph as a friend who went stark raving mad; Grygum goes silent when Buppido is mentioned; the full circumstances of Buppido's death and whether anyone in-world knows are unresolved.
+- **Prince Derendil**: Referenced by Zalthir as a past acquaintance (mad quagoth who was a polymorphed elf); current status and fate unknown.
+- **Milo Goodbarrel**: Referenced as an author whose work influenced Daz; his current whereabouts and role (if any) in the campaign are unknown.

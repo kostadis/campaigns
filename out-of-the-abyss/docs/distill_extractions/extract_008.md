@@ -1,183 +1,231 @@
 ## NPCs
 
-**Thorin**
-- Current location: Underdark tunnels, traveling with the escaped group
-- Current state: Recovered from a sudden bout of madness (screaming, laughing, weeping for ~10 minutes) likely caused by Faerzress exposure
-- Recent actions: Volunteered to climb across a gorge via the cavern ceiling, secured a rope for others, was ambushed by bandits on the far side; attempted to befriend Eldeth but was rebuffed due to his relationship with giants
-- Notes: Has some relationship or affinity with giants, which Eldeth finds offputting
-
-**Eldeth**
-- Current location: Traveling with the escaped group in the Underdark
-- Current state: Frustrated by the Underdark but proving invaluable
-- Faction: Shield dwarf from the surface (North)
-- Recent actions: Found waterorbs for the group; identified Timmask mushrooms and warned the group; consistently successful as a forager; skilled at hiding the group's tracks
-- Motivations: Harbors resentment toward giants due to the War of the Giants and its devastating effects on the people of the North; unconvinced by Thorin's attempts to distinguish "different giants"
-
-**Jimjar**
-- Current location: Traveling with the escaped group
-- Current state: Alive, in good spirits
-- Recent actions: Convinced Yuk-Yuk and Spiderbait to join the group; excited about finding a tinderbox (for toasting Ripplebark); made a bet with Grygum about Thorin's climb (lost—Thorin made it); made a bet with Grygum about what kind of monsters are in the lost tomb; mildly disinterested in Blingdenstone
-- Notes: Habitual gambler
-
 **Yuk-Yuk**
-- Current location: Dead, among the group's camp
-- Current state: Murdered—throat cut with a shortsword while sleeping
-- Faction: Goblin, formerly of the Silken Tunnels area
-- Notes: Was promised 20 gold to accompany the group; killer unknown
+- Current location: Dead on the ground at the group's campsite
+- Current state: Deceased — throat cut with a blade (identified as a shortsword)
+- Recent actions: Was traveling with the escapee group as a hired guide alongside Spiderbait
+- Faction: None (hired goblin guide)
+- Motivations/Secrets: Promised 20 gold to guide the group; convinced by Jimjar to follow into dangerous tunnels
+- Notes: Corpse examined by Grygum; cause of death confirmed as a blade wound to the throat consistent with a shortsword
 
 **Spiderbait**
-- Current location: Traveling with the escaped group
-- Current state: Alive, distressed—discovered Yuk-Yuk's corpse
-- Faction: Goblin, formerly of the Silken Tunnels area
-- Notes: Was promised 20 gold to accompany the group
+- Current location: Group's campsite in the Underdark
+- Current state: Alive; discovered the body of Yuk-Yuk
+- Recent actions: Found Yuk-Yuk's corpse; staring at it in apparent shock
+- Faction: None (hired goblin guide)
+- Motivations/Secrets: Promised 20 gold alongside Yuk-Yuk; convinced by Jimjar to join the group
+
+**Jimjar**
+- Current location: Traveling with the escapee group
+- Current state: Alive
+- Recent actions: Convinced Yuk-Yuk and Spiderbait to join the group; made a bet with Grygum over whether Thorin would cross the gorge; expressed excitement about a tinderbox; engaged in late-night banter with Grygum about what monsters inhabit the lost tomb; sided with Topsy and Turvy on the corpse disposal debate (leave them for monsters)
+- Faction: Unknown
+- Motivations/Secrets: Habitual gambler; holds the group's debt over them ("we don't owe you any more money" per Thorin's comment)
+
+**Thorin**
+- Current location: Traveling with the escapee group
+- Current state: Alive; recently experienced a bout of Underdark madness
+- Recent actions: Volunteered to climb across the gorge with a rope; successfully crossed; was ambushed by hidden bandits on the far side; overheard the bet about his crossing; attempted to speak with Eldeth in the evening
+- Faction: Unknown
+- Motivations/Secrets: Has some connection to giants that Eldeth finds off-putting; experienced sudden, unexplained madness (screaming, laughing, weeping for ~10 minutes) in the Faerzress-rich tunnels; recovered with no memory of what happened
+
+**Eldeth**
+- Current location: Traveling with the escapee group
+- Current state: Alive
+- Recent actions: Found and explained waterorbs near a pool; identified and warned the group about Timmasks; identified the Timmask victim as the escaped bandit; considered indispensable as a forager and tracker
+- Faction: Shield dwarf (implied)
+- Motivations/Secrets: Harbors distrust of Thorin due to his association with giants; references the War of the Giants (which followed the War of the Dragons) as causing devastation to people of the North; her ability to hide tracks may be keeping the group alive
 
 **Zalthir**
-- Current location: Traveling with the escaped group
-- Current state: Alive, functioning as a decision-maker/leader figure
-- Recent actions: Collected Nilhogg's Nose mushrooms; looted adventuring gear (especially water bladders) from bandit corpses; considered ecological implications of leaving corpses; sided with Buppido's advice to dispose of bodies in the gorge
-- Notes: Cannot fly; wished he could to cross the gorge
-
-**Grygum (Grygym)**
-- Current location: Traveling with the escaped group
+- Current location: Traveling with the escapee group
 - Current state: Alive
-- Recent actions: Examined Yuk-Yuk's corpse and determined the murder weapon was a shortsword; bet with Jimjar on Thorin's climb and on tomb monsters; detected the bandit leader's story was a fabrication; enjoys toasted Ripplebark
+- Recent actions: Noted the impossibility of crossing the gorge before realizing the ceiling could be used; helped fight the bandits; collected Nilhogg's Nose mushrooms from the corpse site; raised the debate about what to do with bandit corpses; ultimately trusted Buppido's advice and had the bodies dropped into the gorge
+- Faction: Unknown
+- Motivations/Secrets: None revealed
 
-**Buppido**
-- Current location: Traveling with the escaped group
+**Grygum / Grygym**
+- Current location: Traveling with the escapee group
 - Current state: Alive
-- Faction: Derro
-- Recent actions: Noticed the gorge could be crossed via the ceiling; emphatically argued corpses would leave a trail for trackers; correctly predicted the dead bandit had surviving friends; insists the group should go to Gracklstugh first to purchase equipment before heading to Blingdenstone
-- Notes: Speaks with unusual conviction that others find persuasive; advocated for Gracklstugh route
-
-**Suushar the Awakened**
-- Current location: Traveling with the escaped group
-- Current state: Alive
-- Faction: Kuo-toa, follower or sympathizer of the Sea Mother faith
-- Recent actions: Suggested the archpriest Ploopploopeen in Sloopbludop could help with Thorin's madness; argued corpse-tracking theory was absurd; stated he has no interest in traveling past Sloopbludop but may help with Darklake travel
-- Motivations: Believes Ploopploopeen will welcome his "awakening to the end of our people's madness"
-
-**Ploopploopeen**
-- Current location: Sloopbludop
-- Current state: Unknown (mentioned only)
-- Faction: Archpriest, follower of the Sea Mother (Kuo-toa religion)
-- Notes: Suushar believes Ploopploopeen can help cure madness
-
-**Stool**
-- Current location: Traveling with the escaped group
-- Current state: Alive
-- Faction: Young Myconid
-- Recent actions: Identified and explained the properties of Nilhogg's Nose mushroom
+- Recent actions: Made a bet with Jimjar over Thorin's gorge crossing; asked about Jimjar's betting habits; noted the name "Ploopploopeen" was a tongue twister; spotted the fabrication in the bandit leader's story; engaged in late-night betting discussion with Jimjar about tomb monsters; examined Yuk-Yuk's corpse and identified the weapon as a shortsword
+- Faction: Unknown
+- Motivations/Secrets: None revealed
 
 **Sethir**
-- Current location: Traveling with the escaped group
-- Current state: Particularly affected by Faerzress magic
-- Recent actions: Insisted the group should check out the lost temple for treasure; observed that Darklake travel is less treacherous than tunnel travel
+- Current location: Traveling with the escapee group
+- Current state: Alive; particularly affected by the Faerzress magic in the tunnels
+- Recent actions: Argued for visiting the lost temple to find treasure; observed that traveling along the Darklake is less treacherous than through tunnels
+- Faction: Unknown
+- Motivations/Secrets: Particular sensitivity to the Faerzress
 
-**Topsy**
-- Current location: Traveling with the escaped group
+**Buppido**
+- Current location: Traveling with the escapee group
 - Current state: Alive
-- Recent actions: Believed monsters from corpses would hinder pursuers; found the name "Blingdenstone" off-putting
+- Recent actions: Rolled his eyes at Zalthir's comment about the ceiling; argued that leaving bandit corpses would leave a trail; advocated for going to Gracklstugh first to purchase equipment before attempting Blingdenstone; convinced Zalthir to drop the bodies into the gorge
+- Faction: Derro (implied)
+- Motivations/Secrets: His conviction about the corpse trail proved correct (the escaped bandit's friends tracked the group); notably emphatic and persuasive
 
-**Turvy**
-- Current location: Traveling with the escaped group
+**Suushar the Awakened**
+- Current location: Traveling with the escapee group
 - Current state: Alive
-- Recent actions: Believed monsters from corpses would hinder pursuers; found the name "Blingdenstone" off-putting
+- Recent actions: Witnessed Thorin's madness and suggested Ploopploopeen in Sloopbludop could help; argued that trackers cannot discern anything meaningful from the natural circle of life consuming corpses; stated he has no interest in traveling past Sloopbludop but may assist with Darklake travel
+- Faction: Follower of the Sea Mother (implied Kuo-toa)
+- Motivations/Secrets: Describes himself as "awakened"; believes his awakening signals the end of his people's madness; journey goal is to reach Sloopbludop and be received by Ploopploopeen
 
-**Bandit Leader (unnamed)**
-- Current location: Unknown (departed after trading information for food)
+**Stool**
+- Current location: Traveling with the escapee group
 - Current state: Alive
-- Recent actions: Approached under flag of truce; offered information about escaping the Underdark in exchange for food; claimed his group was explorers who got lost in a dungeon (a fabrication detected by Grygum, Eldeth, and Zalthir); shared that Blingdenstone is the best route out of the Underdark
+- Recent actions: Identified the Nilhogg's Nose mushroom and explained its properties
+- Faction: Myconid
+- Motivations/Secrets: None revealed; described as young
+
+**Topsy and Turvy**
+- Current location: Traveling with the escapee group
+- Current state: Alive
+- Recent actions: Found the name "Blingdenstone" off-putting; sided with Jimjar that leaving bandit bodies for monsters would hinder pursuers
+- Faction: Unknown
+- Motivations/Secrets: None revealed
+
+**Ploopploopeen**
+- Current location: Sloopbludop (not present in this session)
+- Current state: Unknown; referenced only in dialogue
+- Faction: Follower of the Sea Mother; Archpriest of Sloopbludop
+- Motivations/Secrets: Suushar believes Ploopploopeen will welcome news of his awakening and may be able to help Thorin's madness
+
+**Bandit Leader**
+- Current location: Unknown; departed after the truce meeting
+- Current state: Alive (left after sharing information)
+- Recent actions: Approached the group under a flag of truce; offered information about escape routes in exchange for food; claimed the group accidentally went too deep while exploring a dungeon; named Blingdenstone as the best escape route
+- Faction: Underdark bandits (unnamed group)
+- Motivations/Secrets: His stated reason for being in the Underdark was identified as fabrication by Grygum, Eldeth, and Zalthir; true motivations unknown
+
+**Unnamed Escaped Bandit**
+- Current location: Dead in a Timmask mushroom field
+- Current state: Deceased — killed by Timmask spores (confusion/poison effect after disturbing the mushrooms)
+- Recent actions: Fled the gorge ambush; stumbled into the Timmask field and died
+- Faction: Underdark bandits
+- Notes: Corpse looted by the escapees; confirmed by Buppido's prediction that the dead bandits' companions would track the group
+
+**Ambush Bandits (unnamed, deceased)**
+- Current location: Bodies dropped into the bottomless gorge
+- Current state: Deceased — killed in combat
+- Recent actions: Were hiding in the darkness on the far side of the gorge; attacked Thorin with crossbows; fought and were killed by the escapee group
+- Faction: Underdark bandits
+- Notes: Equipment suggested prolonged time in the Underdark; bodies looted for water bladders and a tinderbox before being dropped into the gorge
+
+---
 
 ## Factions
 
-**Escaped Prisoners (from Velkynvelve)**
-- Current goals: Escape the Underdark; debating route (Sloopbludop → Darklake vs. Gracklstugh for equipment vs. Blingdenstone directly vs. lost temple for treasure)
-- Recent actions: Traversed the Silken Tunnels; foraged food; crossed a gorge; fought and killed bandits; traded food for information with a second bandit group
-- Key members: Zalthir, Thorin, Grygum, Eldeth, Jimjar, Buppido, Suushar, Stool, Sethir, Topsy, Turvy, Spiderbait, (Yuk-Yuk—deceased)
-- Notes: The Drow of Velkynvelve are "now almost forgotten" as pursuers
-
-**Drow of Velkynvelve**
-- Current state: Presumably still pursuing the escaped prisoners, though the group feels increasingly safe
-- Notes: Eldeth's track-hiding skills may be a key reason the group hasn't been caught
+**The Escapee Group**
+- Current goals: Escape the Underdark; route currently under debate (Blingdenstone via Gracklstugh, or the lost temple, or along the Darklake via Sloopbludop)
+- Recent actions: Crossed a gorge using a climbing/rope technique; defeated an ambush; debated corpse disposal; were approached under a flag of truce by bandits; woke to find Yuk-Yuk murdered
+- Relationships: Hired Yuk-Yuk and Spiderbait as guides; loosely aligned with Suushar, Stool, Buppido, Topsy, Turvy, Jimjar, and Eldeth
+- Key members: Thorin, Zalthir, Grygum, Sethir, Eldeth, Jimjar, Buppido, Suushar, Stool, Topsy, Turvy, Yuk-Yuk (deceased), Spiderbait
 
 **Underdark Bandits**
-- Current state: At least one group still active in the area; lost one member to Timmask spore confusion; lost several members in the gorge ambush
-- Recent actions: Ambushed Thorin at the gorge; a second group later approached under truce to trade information for food
-- Notes: Have been in the Underdark for some time; equipped with scimitars, crossbows, mixed armor; their story about being lost dungeon explorers was a lie
+- Current goals: Survival and escape from the Underdark; true goals unclear
+- Recent actions: Ambushed Thorin at the gorge; one member fled and was killed by Timmasks; remaining members tracked the group and approached under truce; traded escape route information for food
+- Relationships: Hostile to the escapee group initially; moved to uneasy truce
+- Key members: Unnamed bandit leader; multiple unnamed members (some deceased)
 
-**Kuo-toa of Sloopbludop**
-- Current goals: Unknown broadly; Suushar references ending "our people's madness"
-- Key members: Ploopploopeen (Archpriest, follower of the Sea Mother), Suushar the Awakened
+**Followers of the Sea Mother**
+- Current goals: Unknown; Suushar believes the archpriest Ploopploopeen will welcome his "awakening" and its implications for ending his people's madness
+- Recent actions: Not directly active this session; referenced through Suushar
+- Relationships: Based in Sloopbludop; Suushar is a member
+- Key members: Suushar the Awakened, Ploopploopeen (Archpriest, absent)
+
+---
 
 ## World Events
 
-- The group exited the Silken Tunnels and continued deeper into the Underdark with two new goblin companions (Yuk-Yuk and Spiderbait), recruited for 20 gold by Jimjar.
-- The group foraged Ripplebark and Waterorbs for food and water supplies.
-- The group passed through tunnels rich in Faerzress magic; Sethir was particularly affected; Thorin suffered a ~10-minute bout of madness (screaming, laughing, weeping) before recovering.
-- The group reached a massive cavern with a bottomless gorge; Thorin climbed across the ceiling and secured a rope.
-- Thorin was ambushed by human bandits on the far side of the gorge; the group crossed and defeated them in a short fight.
-- The group looted the bandits, acquiring water bladders, a tinderbox, and other adventuring gear.
-- A debate occurred about corpse disposal and Underdark ecology; the bodies were thrown into the bottomless gorge on Buppido's advice.
-- Zalthir collected Nilhogg's Nose mushrooms (identified by Stool) near the gorge.
-- Thorin attempted to befriend Eldeth but was rebuffed due to his connection to giants and the ongoing aftermath of the War of the Giants.
-- Eldeth discovered and warned the group about a field of Timmask mushrooms; a dead bandit (the one who escaped the gorge ambush) was found nearby, killed by Timmask spore confusion.
-- A second group of bandits approached under a flag of truce and traded information (Blingdenstone as the best escape route) for food; their cover story was detected as false.
-- A debate about the group's route ensued: Sloopbludop/Darklake, Gracklstugh, Blingdenstone, or the lost temple.
-- On the 1st day of the 3rd Tenday of Taraskh, Yuk-Yuk was found murdered in camp—throat slit with a shortsword. The killer is unknown.
+- The group departed the Silken Tunnels and entered the deeper Underdark, now accompanied by goblin guides Yuk-Yuk and Spiderbait (9th day, 2nd Tenday of Taraskh 1493)
+- The group foraged and found Ripplebark in the tunnels
+- Eldeth located waterorbs near a pool of water
+- The group passed through tunnels rich in Faerzress magic; Yuk-Yuk, Spiderbait, and Sethir were notably affected
+- Thorin suffered a sudden, violent bout of madness (screaming, laughing, weeping) lasting approximately ten minutes before recovering with no memory of the episode
+- Suushar suggested Ploopploopeen in Sloopbludop might be able to help Thorin
+- The group reached a massive cavern containing a seemingly bottomless gorge
+- Thorin climbed across the cavern ceiling with a rope to reach the far side of the gorge
+- Hidden bandits on the far side ambushed Thorin with crossbows upon his descent
+- The rest of the group crossed the rope and joined the fight; the bandits were defeated
+- Adventuring gear including water bladders and a tinderbox was looted from the bandit corpses
+- A debate occurred over what to do with the bandit bodies; Buppido's argument (leave a trail) prevailed
+- Bandit bodies were dropped into the bottomless gorge
+- Stool identified Nilhogg's Nose mushrooms near the site; Zalthir collected several
+- Thorin attempted to speak with Eldeth in the evening; Eldeth expressed distrust due to his connection to giants; the War of the Giants and War of the Dragons were referenced
+- On the 10th day, Eldeth halted the group before a cave filled with Timmask mushrooms
+- The group identified a corpse in the Timmask field as the bandit who escaped the gorge ambush; the corpse was looted
+- Buppido warned the dead bandits' companions would come; that evening, the surviving bandits arrived under a flag of truce
+- The bandit leader offered escape route information in exchange for food; the deal was agreed upon
+- The bandit leader named Blingdenstone as the best escape route; his story about how the bandits became lost was identified as fabrication by Grygum, Eldeth, and Zalthir
+- A group debate ensued over whether to go to the lost temple, Gracklstugh, Blingdenstone, or Sloopbludop first; no resolution was reached before everyone fell asleep
+- Grygum and Jimjar made a late-night bet about whether the lost tomb would contain undead (specifically skeletons and zombies vs. other monsters) before being told to be quiet
+- On the 1st day of the 3rd Tenday of Taraskh 1493, the group woke to screaming; Yuk-Yuk was found dead with his throat cut
+- Grygum examined the wound and identified it as consistent with a shortsword; noted any member of the group could be responsible
+
+---
 
 ## Locations
 
 **The Silken Tunnels**
-- What: Tunnels the group previously traversed
-- Current state: Behind the group; already passed through
+- What they are: A previously visited area of the Underdark; the group's prior location
+- Current state: Behind the group; not described in detail this session
 
 **The Underdark (general tunnels)**
-- What: Vast underground network the group is traveling through
-- Current state: Rich in Faerzress magic in certain areas; contains edible fungi (Ripplebark, Waterorbs, Nilhogg's Nose, Timmask); inhabited by bandits and other dangers
+- What they are: The vast subterranean network the group is traveling through
+- Current state: Active; rich in Faerzress magic in the section traversed this session; contains foraging resources (Ripplebark, waterorbs, Nilhogg's Nose, Timmasks)
 
-**The Gorge Cavern**
-- What: A massive cavern containing a seemingly bottomless gorge
-- What happened: Thorin climbed across via the ceiling; the group was ambushed by bandits on the far side; bandit corpses were thrown into the gorge; Nilhogg's Nose mushrooms were found nearby
-- Current state: Passed through; bandit corpses disposed of in the gorge
+**The Bottomless Gorge Cavern**
+- What it is: A massive cavern containing a gorge with no visible bottom; ceiling low enough to allow traversal by climbing
+- What happened there: Thorin crossed via the ceiling using a rope; bandits ambushed him on the far side; combat ensued; bandit bodies were dropped into the gorge
+- Current state: Passed; bodies disposed of in the gorge
 
-**Timmask Mushroom Cave**
-- What: A cave covered in Timmask mushrooms (squat, beige-capped with red and orange stripes, ~2 ft wide/tall, grow in clusters of up to 4)
-- What happened: Eldeth identified and warned the group; a dead escaped bandit was found killed by Timmask spore confusion
-- Current state: Passed through
+**The Timmask Mushroom Cave**
+- What it is: A cave entrance covered in Timmask mushrooms (squat toadstools, ~2 ft wide and tall, beige cap with red and orange stripes, growing in clusters of up to four)
+- What happened there: Eldeth halted the group; a bandit corpse was found here, killed by Timmask spores
+- Current state: Passed; corpse looted
 
 **Sloopbludop**
-- What: A Kuo-toa settlement; home of Archpriest Ploopploopeen
-- Current state: Not yet visited; Suushar's intended destination; potential stop for the group
-
-**Blingdenstone**
-- What: A town in the Underdark; identified by bandits as the best chance of escaping to the surface
-- Current state: Not yet visited; Topsy and Turvy find the name off-putting
+- What it is: A town (implied Kuo-toa settlement) accessible via the Darklake
+- Current state: Not yet visited; referenced as Suushar's destination and the location of Archpriest Ploopploopeen
+- Notes: Suushar states he will not travel past it
 
 **Gracklstugh**
-- What: A city in the Underdark where equipment can be purchased
-- Current state: Not yet visited; Buppido advocates going there first for supplies
+- What it is: A settlement in the Underdark
+- Current state: Not yet visited; referenced by Buppido as a place to purchase equipment needed to reach Blingdenstone
+- Notes: Advocated for by Buppido as a waypoint
+
+**Blingdenstone**
+- What it is: A town in the Underdark; identified by the bandit leader as the best escape route to the surface
+- Current state: Not yet visited; a possible destination for the group
+- Notes: Name found off-putting by Topsy and Turvy
 
 **The Darklake**
-- What: A large underground body of water; can be used for travel
-- Current state: Not yet reached; Sethir argues it's a less treacherous travel route than tunnels; Suushar may help with navigation
+- What it is: An underground body of water
+- Current state: Referenced as a travel route; Sethir advocates using it as less treacherous than tunnels; Suushar may assist with Darklake travel
+- Notes: Sloopbludop is accessible via the Darklake
+
+**The Lost Temple / Tomb**
+- What it is: A lost temple or tomb referenced as a potential destination with treasure
+- Current state: Not yet visited; location not specified
+- Notes: Advocated for by Sethir; Grygum and Jimjar bet on the presence of undead (specifically skeletons and zombies) within it
 
 **Velkynvelve**
-- What: Drow outpost where the group was previously imprisoned
-- Current state: Behind the group; the Drow pursuers are "almost forgotten"
+- What it is: A Drow location (presumably the site of the group's prior imprisonment)
+- Current state: Behind the group; described as "almost forgotten" as of the 10th day
+- Notes: Not described in detail this session; referenced only as a past threat
 
-**The Lost Temple/Tomb**
-- What: A location mentioned by Sethir, believed to contain treasure
-- Current state: Not yet visited; Sethir wants to explore it; Grygum and Jimjar bet on what monsters might be found there (Jimjar bet against skeletons/zombies)
+---
 
 ## Threads & Mysteries
 
-- **Who murdered Yuk-Yuk?** Throat cut with a shortsword while the group slept. Grygum notes any member of the group could have done it. The killer is unidentified.
-- **Buppido's suspicious nature**: His emphatic conviction about corpse disposal persuaded Zalthir; he correctly predicted the dead bandit had surviving friends; his knowledge of Underdark tracking seems unusually deep for a Derro prisoner. His insistence on going to Gracklstugh may have ulterior motives.
-- **The Faerzress madness**: Thorin suffered a bout of madness from Faerzress exposure; Sethir was "particularly affected." This magical radiation may continue to affect the group.
-- **Suushar's "awakening"**: He references ending "our people's madness" and believes Ploopploopeen will welcome this. The nature of the Kuo-toa's madness and Suushar's awakening is unexplained.
-- **The Drow pursuit from Velkynvelve**: Though "almost forgotten," the Drow pursuers have not been confirmed as having given up.
-- **Route debate unresolved**: The group has not firmly decided between Sloopbludop/Darklake, Gracklstugh, Blingdenstone, or the lost temple.
-- **The lost temple/tomb**: Sethir insists on checking it for treasure. Its location, contents, and dangers are unknown. Grygum and Jimjar have a bet on what monsters inhabit it.
-- **The bandits' true story**: The second bandit group's cover story was a fabrication. Their actual origin, purpose, and how they ended up in the Underdark remain unknown.
-- **Eldeth's tension with Thorin over giants**: The War of the Giants following the War of the Dragons ended in a stalemate with the Ordning re-established but a giant civil war continuing, devastating the North. Thorin's connection to giants is unresolved.
-- **Spiderbait's fate**: Now alone without Yuk-Yuk, his loyalty and safety within the group are uncertain.
+- **Yuk-Yuk's murder**: Yuk-Yuk was killed with a shortsword in the night; Grygum noted any member of the group could be responsible; the killer is unknown and unidentified
+- **Thorin's madness**: Thorin experienced a violent, unexplained episode in the Faerzress-rich tunnels; he has no memory of it; cause is unresolved (PTSD, Underdark stress, Faerzress effect, or something else); Suushar suggested Ploopploopeen might help
+- **The bandit leader's true story**: The bandit leader's account of how his group ended up in the Underdark was identified as fabrication; his real reason for being there is unknown
+- **Route debate unresolved**: The group has not agreed on a route — Blingdenstone (via Gracklstugh), the lost temple, or Sloopbludop/Darklake route remain in contention
+- **The lost temple/tomb**: Sethir insists on visiting it for treasure; the nature of its contents is unknown (Grygum and Jimjar bet specifically on skeletons and zombies being present)
+- **Suushar's "awakening"**: The nature and significance of Suushar's self-described awakening is unexplained; he believes it signals the end of his people's madness and that Ploopploopeen will recognize its importance
+- **Drow pursuit**: The group fled Velkynvelve; Eldeth's track-hiding skills are credited with keeping them alive; it is unconfirmed whether the Drow are still in pursuit
+- **Eldeth's distrust of Thorin**: Eldeth's distrust due to Thorin's connection to giants remains unresolved; the War of the Giants' ongoing civil war and its effect on surface peoples is noted as context
+- **Buppido's reliability and motives**: Buppido was notably emphatic and persuasive about the corpse trail, and was proven correct; his deeper motivations are unestablished and his conviction is noted as unusual
+- **The bandit group's presence in the Underdark**: Beyond the false story, what the bandits were truly doing (and whether any remain a threat) is unresolved

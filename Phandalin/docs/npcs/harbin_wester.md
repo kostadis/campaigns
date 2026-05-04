@@ -5,7 +5,7 @@ aliases:
   - Harbin Townmaster
   - Town Master Harbin Wester
   - Harbin (Townmaster)
-source_extracts: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38]
+source_extracts: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39]
 ---
 
 # Harbin Wester
@@ -23,6 +23,7 @@ Townmaster and Lord Mayor of Phandalin; head of the Privy Council. Operates out 
 - Responds poorly to moral challenges (visibly upset by Vukradin's critique of the adventuring economy) but will cover himself smoothly when caught (reframed the bribe as a community donation without missing a beat).
 - Capable of political flexibility when cornered, pivoting to compromise to protect his position rather than out of genuine conviction. Dismissive of supernatural concerns he finds inconvenient.
 - Credit-seeking and opportunistic — positions himself at the front of celebrations and carefully claims shares of credit he did not earn, framing others' victories as results of his leadership or management.
+- Politically calculating and skilled at narrative control — orchestrates public events to shape how victories are remembered and to bind his name to others' achievements before independent narratives can form.
 
 ## History with the Party
 
@@ -60,12 +61,14 @@ Townmaster and Lord Mayor of Phandalin; head of the Privy Council. Operates out 
 
 **Heroes' Welcome Celebration** — After the defeat of Cryovain, positioned himself at the front of the crowd during the heroes' welcome celebration and delivered a speech carefully claiming a share of credit he did not earn. Specifically praised "Mr. Vucrodin" and the privy council, framing the dragon's defeat as the result of Vukradin's leadership and management. Brewbarry noted that Harbin had been afraid and was doing "strange things with credit," but let it pass.
 
+**Dragon Barrow Victory Festival** — Waited for the party at the town boundary of Phandalin upon their return from Dragon Barrow and the mine. Had arranged a full festival reception — banners, townsfolk arranged in a semicircle, and a rehearsed demeanor of modest pride. Praised the party warmly, extolling their bravery, sacrifice, and decisive role in ending the dragon threat. Notably credited his own foresight in establishing the Privy Council as the mechanism that brought such capable heroes to Phandalin in the first place. Valphine observed this as a calculated political maneuver — lashing his name to the party's victory before that victory could acquire its own independent narrative. The festival continued under his orchestration while the party received various briefings and dealt with internal matters.
+
 ## Current Status
-- **Last Known Location:** Phandalin — Townmaster's Hall (remains in his role as townmaster of Phandalin)
-- **Active Plans:** Remains Townmaster and Lord Mayor but now operates within the privy council framework with significantly reduced unilateral authority; managing ongoing dragon and orc crisis (though Cryovain has been defeated); Axeholm held as emergency evacuation option; holds Shrimpy in custody; aware of the Cult of Talos threat via council briefing
-- **Active Concerns:** Bandit activity affecting the town's finances; the cursed lighthouse situation; dragon-driven orc incursions threatening ale production (though primary dragon threat may be resolved following Cryovain's defeat)
-- **What the Party Knows:** He takes a private cut on administrative dealings; he is cautious about approaching Lord Neverember directly; he backed down under pressure and accepted shared governance; he is genuinely invested in the town's survival even if self-interested; he has custody of Shrimpy and is aware of the Cult of Talos intelligence; he is stingy, cowardly, and deferential to Lord Neverember; he won't sanction destroying the lighthouse; he is credit-seeking and opportunistic, claiming shares of victory he did not earn
-- **Hidden from the Party:** Full extent of his informal financial arrangements; the precise nature of his relationship with Neverember's administration; whether his public acknowledgment of Vukradin is sincere or a tactical retreat; his long-term intentions regarding the privy council; his intentions regarding Shrimpy and how he plans to act on the Cult of Talos intelligence
+- **Last Known Location:** Phandalin — town boundary / Townmaster's Hall (remains in his role as townmaster of Phandalin)
+- **Active Plans:** Remains Townmaster and Lord Mayor but now operates within the privy council framework with significantly reduced unilateral authority; managing post-dragon recovery and consolidating his political position through public events and narrative shaping; Axeholm held as emergency evacuation option; holds Shrimpy in custody; aware of the Cult of Talos threat via council briefing
+- **Active Concerns:** Maintaining his political standing and credit in the wake of the party's victories; the cursed lighthouse situation; potential lingering orc incursions (though primary dragon threat has been resolved following Cryovain's defeat)
+- **What the Party Knows:** He takes a private cut on administrative dealings; he is cautious about approaching Lord Neverember directly; he backed down under pressure and accepted shared governance; he is genuinely invested in the town's survival even if self-interested; he has custody of Shrimpy and is aware of the Cult of Talos intelligence; he is stingy, cowardly, and deferential to Lord Neverember; he won't sanction destroying the lighthouse; he is credit-seeking and opportunistic, claiming shares of victory he did not earn; he orchestrates elaborate public celebrations to bind his name to others' achievements; Valphine has identified his tactics as calculated political maneuvering
+- **Hidden from the Party:** Full extent of his informal financial arrangements; the precise nature of his relationship with Neverember's administration; whether his public acknowledgment of Vukradin is sincere or a tactical retreat; his long-term intentions regarding the privy council; his intentions regarding Shrimpy and how he plans to act on the Cult of Talos intelligence; the full scope of his narrative control strategies
 
 ## Relationships
 - **Lord Neverember (also referenced as Lord Neverwinter):** Harbin's superior and the authority he constantly invokes to justify his decisions. Reports to him and defers to his authority; eager to keep him pleased; acts as a local conduit for Neverwinter's adventuring economy; Neverember is the basis for his claim to office.
@@ -75,7 +78,8 @@ Townmaster and Lord Mayor of Phandalin; head of the Privy Council. Operates out 
 - **Brewbarry:** Unnerved by Brewbarry's dread helm appearance; asked if he was demon-possessed; Brewbarry is aware that Harbin does "strange things with credit" and was afraid during the dragon crisis
 - **Ser Kaelen:** Applied pressure alongside Vukradin during the governance dispute; Harbin deflected by citing Neverember's authority; directed the party to Ser Kaelen regarding the lighthouse, suggesting an existing connection
 - **Adabra:** She was able to pressure him into concessions; he appears to buckle under her fury; he is likely wary of her; now a fellow privy council member
-- **Privy Council (Tolbin, Elmer, Halia, Linene, Adabra, Vukradin):** His governance partners under the power-sharing arrangement he proposed; individual loyalties and dynamics are still developing
+- **Privy Council (Tolbin, Elmer, Halia, Linene, Adabra, Vukradin):** His governance partners under the power-sharing arrangement he proposed; individual loyalties and dynamics are still developing; he credits the Privy Council's formation as his own foresight in public speeches
+- **Valphine:** Has observed and identified Harbin's calculated political maneuvering and narrative control tactics
 - **Shrimpy:** Holds this individual in custody following the party's delivery
 - **Stonehill Inn:** Harbin has enough pull to arrange free room and board there for the party
 
@@ -83,3 +87,4 @@ Townmaster and Lord Mayor of Phandalin; head of the Privy Council. Operates out 
 - **Decrease:** Initial accusations against Vukradin and bureaucratic obstruction of the town meeting damaged standing with the party
 - **Increase:** Public acknowledgment of Vukradin's heroism and willingness to propose power-sharing partially rehabilitated his reputation
 - **Decrease (Potential):** Credit-claiming behavior during the heroes' welcome celebration observed by Brewbarry, though allowed to pass without direct confrontation
+- **Decrease (Potential):** Dragon Barrow victory festival orchestration observed by Valphine as calculated political maneuvering to appropriate credit before independent narratives could form

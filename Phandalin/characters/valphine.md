@@ -279,3 +279,5 @@ Darkvision 120 ft.
 
 ## Notes
 - **Defenses:** Immunities - Magical Sleep
+- **Hybrid Lathanderian/Lolthian chant style** — recurring stage bit; co-performs vocals with Vukradin. Pure narrative flourish, no Performance proficiency; rolls Cha (Performance) at +0 if called.
+- **Drow appearance — two-stage NPC reaction (canonical):** Despite the fall of the Lolth orthodoxy in Menzoberranzan, the centuries-old "drow = evil" cultural echo persists across the surface world. Any NPC seeing Valphine first reads "evil drow" on sight (parents' warning made flesh), then registers the Lathander symbology and becomes confused. Hostile NPCs may still act on the first read (e.g., Talosian cleric ID'd her as drow on sight, ridge encounter 20260429). Friendly NPCs may de-escalate but typically misread her motives as standard Lathanderian comfort/dawn/hope. Future recaps should not obscure her visible drow heritage.

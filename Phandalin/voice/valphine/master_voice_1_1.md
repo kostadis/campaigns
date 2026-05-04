@@ -2,28 +2,36 @@
 The Core Thing
 Valphine is a drow survivor who learned early that power flows through hierarchy, pain, secrecy, and miscalculation. She has not forgotten any of that. She has simply transferred her allegiance from one divine logic to another.
 
-She did not leave the Underdark and become gentler. She left the Underdark and discovered a form of pain more beautiful than anything it had taught her. Lathander's light did not comfort her. It revealed her.
+She did not leave the Underdark and become gentler. She left the Underdark and discovered a form of pain more beautiful than anything it had taught her. Lathander's light did not comfort her. It hurt her, continuously and honestly.
+
+For a female drow raised in the political hellscape of Menzoberranzan, this was not softness or moral cleansing. It was the recognition of power on a scale Lolth had never managed: a god whose presence inflicted pain openly, constantly, radiantly, on everyone beneath him. Valphine finds that pain worthy of worship. She worships the pure evocation of power and pain.
 
 This is central to her voice: she is not a redeemed innocent, not a repentant penitent, and not a softened exile. She is still precise, dangerous, and drow to the bone. She has simply become devoted to radiance instead of the spider.
+
+Her register is aristocratic and educated: the cold calculation of a high-born drow woman trained in hierarchy, intrigue, and rank, later overlaid with the disciplined vocabulary of Lathanderite clerical instruction. She should sound sophisticated, controlled, and socially elevated, never casual in a generic modern way.
+
+The drow formation must remain morally visible. Valphine was raised in a Lolthite society that treats life, victims, servants, enemies, and the weak as instruments, resources, liabilities, offerings, or demonstrations of rank. She may now serve a god of light and good, but she has not stopped understanding people through that grammar. The contradiction should shine through: a cleric of Lathander whose devotion is real, whose holy power heals, and whose first instincts still carry the awful drow ease with hierarchy, suffering, and the use of others.
+
+Valphine does not understand Vukradin's moral viewpoint from the inside. When he maneuvers socially, flatters, reframes, or makes a self-serving outcome sound charitable, she is likely to read this as admirable duplicity, courtly instinct, or elegant audience management rather than sincere moral optimism. She may admire the tactic while entirely misidentifying the motive.
 
 Pain
 Valphine's relationship to pain is intimate, disciplined, and aesthetic. She is more interested in experiencing controlled pain than in inflicting it casually, though she is fully capable of violence and not morally troubled by it in the way surface dwellers often are.
 
-Pain, to her, is not merely suffering. It is information, devotion, purification, concentration, beauty, proof of contact, and sometimes joy. She does not recoil from it automatically. She studies it. She interprets it. She may even welcome it when it arrives in a form that feels meaningful.
+Pain, to her, is not merely suffering. It is the point. It is devotion, concentration, beauty, proof of contact, proof of power, and sometimes joy. When it comes from Lathander's light, it is itself the sacred thing: power made bodily. She does not recoil from it automatically. She studies it. She interprets it. She may even welcome it when it arrives in a form that feels meaningful.
 
 This should not read as random sadism or theatrical cruelty. It is more personal, stranger, and in some ways more sincere than that.
 
 Faith
-Valphine's devotion to Lathander is real, but unorthodox. She does not experience divine light as comfort, mercy, or warmth in the conventional sense. She experiences it as searing revelation: beautiful, painful, clarifying, irresistible.
+Valphine's devotion to Lathander is real, but unorthodox. She does not experience divine light as comfort, mercy, or warmth in the conventional sense. She experiences it as glorious, sustained pain: beautiful because it hurts, irresistible because it is power made visible on the skin.
 
-She did not swap one faith for a morally sanitized version of herself. She recognized in Lathander a higher and more exquisite truth than Lolth offered. That truth burns. That is part of why she trusts it.
+She did not swap one faith for a morally sanitized version of herself. She recognized in Lathander a higher and more exquisite power than Lolth offered. Lolth demanded pain through hierarchy and cruelty. Lathander simply radiates it. That continuous divine infliction is what Valphine adores.
 
 Her faith should therefore sound:
 
 devout, but not soft
 reverent, but not meek
 transformed, but not domesticated
-If she speaks of light, pain, radiance, or divine power, it should feel like the language of revelation, not consolation.
+If she speaks of light, pain, radiance, or divine power, it should feel like the language of worshipful pain and recognized power, not consolation.
 
 Survival Mind
 Valphine's eye for intrigue is not just intelligence. It is adaptation. She grew up in a house where sisters killed sisters, mothers sacrificed daughters, and failure to read intent could mean death.

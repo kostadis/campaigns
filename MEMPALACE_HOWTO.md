@@ -1,75 +1,106 @@
 # How to Build a Campaign Mempalace
 
-A reference guide based on the Out of the Abyss mempalace build.
-Captures the decision-making process, not just the commands.
+Reference for configuring mempalace in a campaign workspace. Point Claude
+at this file when you want it to set up, extend, or audit a campaign's
+palace.
 
 ---
 
-## The Goal
+## How to Use This Doc
 
-A searchable semantic index over curated campaign content that helps you:
-- Ground new content in established canon (no plot holes, no contradictions)
-- Find specific facts fast without burning tokens reading 8,000+ lines of prose
-- Cross-reference between what happened (narrative), when it happened (timeline), and what's true now (reference)
+There are two layers of mempalace docs in this repo:
+
+| Doc | Scope | Audience | Lifecycle |
+|-----|-------|----------|-----------|
+| **`campaigns/MEMPALACE_HOWTO.md`** (this file) | Generic procedure & principles that apply to any campaign | Anyone setting up or modifying a palace | Stable — update only when the underlying tool changes |
+| **`<campaign>/MEMPALACE.md`** | Per-campaign usage guide: actual wing/room counts, exclusions, search patterns, refresh workflow | Whoever's working in that campaign | Refresh after every meaningful palace change |
+| **`<campaign>/MEMPALACE_HORIZON.md`** (optional, OOTA-style) | Current horizon marker — last chapter mined, drawer baseline, extend vs rebuild workflow | Anyone re-mining an active campaign | Update on every mine |
+
+**For Claude:** read this whole doc first when asked to configure mempalace,
+then read the campaign's `MEMPALACE.md` (and `MEMPALACE_HORIZON.md` if
+present). The howto tells you *how*; the per-campaign doc tells you
+*what's actually there*.
+
+There is also an automation skill `mempalace-campaign` that follows this
+procedure end-to-end. Use it for net-new setup; use this doc when you need
+to deviate, extend, or debug.
+
+---
+
+## Procedure for Claude
+
+Before running any command, identify which task you're doing:
+
+| Task | Trigger | Where to start |
+|------|---------|----------------|
+| **Net-new setup** | Campaign has no `mempalace.yaml` | Step 0 below |
+| **Extend** | New session chapters / new docs to mine | Refresh Cheat Sheet (bottom) |
+| **Tune** | Search results are off, room taxonomy needs change | Step 2 (architecture) → Step 4 (yaml) → re-mine |
+| **Audit** | "Is this campaign's palace healthy?" | Read `<campaign>/MEMPALACE.md`, run `mp status --palace <name>`, sanity-check searches |
+| **Full rebuild** | Inconsistency, taxonomy churn, corruption | Refresh Cheat Sheet → "Full rebuild" |
+
+**Always read the campaign's `CLAUDE.md` and `MEMPALACE.md` first.** They
+record campaign-specific gotchas (e.g., OOTA's `.mempalaceignore` filename
+fragility, Phandalin's chronicle-room concentration) that override the
+generic guidance below.
+
+**Per-campaign palace DBs are the standard** (since 2026-04). Each campaign
+gets its own DB at `~/.mempalace/palaces/<campaign>/`, addressed via
+`--palace <campaign>` on every CLI call. The shared `~/.mempalace/palace/`
+default is legacy.
 
 ---
 
 ## Step 0: Understand What You Have
 
-Before touching mempalace, inventory your campaign directory. You're looking
-for these categories:
+Inventory the campaign directory. You're looking for these categories:
 
 | Category | Examples | Role |
 |----------|---------|------|
-| **The Bible** | A master session summary, campaign chronicle | Authoritative source of truth — what actually happened at the table |
-| **Extraction intermediates** | distill_extractions/, planning_extractions/, campaign_state_extracts/, party_extract/ | LLM-generated structured views of the bible, organized by lens |
-| **Current-state reference** | NPC dossiers, world_state.md, campaign_state.md, planning.md | Synthesized "what's true now" documents |
-| **Published source material** | The adventure module (markdown or via 5etools) | Raw module text — location descriptions, encounter details, stat blocks |
-| **Design documents** | campaign_master_plan.md, custom_tracking.md | Your modifications to the published adventure |
-| **Raw session data** | summaries/, VTT transcripts, logs/ | Unprocessed session recordings |
-| **Pipeline inputs** | voice/, examples/, config.yaml | Files that exist only to feed the CampaignGenerator pipeline |
-| **Working material** | notes/, encounter drafts, arc designs | Staging area — not canon yet |
+| **The Bible** | A master session summary, campaign chronicle | Authoritative — what actually happened at the table |
+| **Extraction intermediates** | `distill_extractions/`, `planning_extractions/`, `campaign_state_extracts/`, `party_extract/` | LLM-generated structured views of the bible |
+| **Current-state reference** | NPC dossiers, `world_state.md`, `campaign_state.md`, `planning.md` | Synthesized "what's true now" docs |
+| **Published source material** | The adventure module (markdown or via 5etools) | Raw module text — locations, encounters, stat blocks |
+| **Design documents** | `campaign_master_plan.md`, `custom_tracking.md`, `canon_guardrails.md` | Modifications to the published adventure |
+| **Raw session data** | `summaries/`, VTT transcripts, `logs/` | Unprocessed session recordings |
+| **Pipeline inputs** | `voice/`, `examples/`, `config.yaml` | Files that exist only to feed CampaignGenerator |
+| **Working material** | `notes/`, encounter drafts, arc designs | Staging — not canon yet |
 
 ### Key questions to answer:
 
-1. **Where is the bible?** The single document (or set of documents) that is
-   the canonical record of what happened. Everything else is derived from this.
-
-2. **Is it too large for a single file?** If over ~2,000 lines, it needs to
-   be split into chapters for effective indexing.
-
-3. **Do you have a CampaignGenerator pipeline?** If yes, you'll have multiple
+1. **Where is the bible?** The single canonical record. Everything else is
+   derived from it.
+2. **Is it too large for a single file?** Over ~2,000 lines → split into
+   chapters. Mempalace indexes per-file; one giant file produces poor
+   search granularity.
+3. **Is there a CampaignGenerator pipeline?** If yes, you'll have multiple
    extraction dirs. Not all of them belong in the palace.
-
-4. **What published module are you running?** If it's available via 5etools
-   MCP, you don't need it in the palace (too large, dilutes search).
+4. **What published module is running?** If 5etools MCP covers it, exclude
+   the module from the palace (too large, dilutes search).
 
 ---
 
 ## Step 1: Split the Bible
 
-If your campaign bible is a single large document, split it into chapter
-files. This is a prerequisite — mempalace indexes per-file, and a single
-8,000-line file produces poor search granularity.
+If the bible is one large doc, split into chapter files. **Do not modify or
+delete the original** — the CampaignGenerator pipeline still uses it.
 
 **Rules:**
 - Split on top-level headings (`# Chapter NN ...`)
 - Preserve text verbatim — no editing, no summarizing
-- **Do NOT modify or delete the original file** — the pipeline still uses it
 - Name files sequentially: `chapter_01_title.md`, `chapter_02_title.md`
-- If the original has inconsistent numbering (18, 18.05, 18.1...), renumber
-  sequentially in the filenames. The original headings inside the files stay
-  as-is. Mempalace indexes by content, not filenames.
+- If the original has decimal sub-chapters (`18.05`, `18.1`, ...), renumber
+  sequentially in filenames. Original headings inside files stay as-is.
+- Output goes into `docs/chapters/`
 
-**Example:**
+CampaignGenerator ships `split_chapters.py` for this. **Gotcha:**
+`split_chapters.py` wipes `docs/chapters/mempalace.yaml` on every run.
+Restore it from git before re-mining:
 ```bash
-mkdir -p docs/chapters
-# Use a Python script to split on "# Chapter" headings
-# Output: chapter_01_arrival.md, chapter_02_exploring_the_prison.md, ...
+git show HEAD:<campaign>/docs/chapters/mempalace.yaml > <campaign>/docs/chapters/mempalace.yaml
 ```
 
-Verify the split is clean: total lines across split files should match the
-original.
+Verify the split: total lines across split files ≈ original.
 
 ---
 
@@ -77,121 +108,118 @@ original.
 
 ### The core question: What are you optimizing for?
 
-Our answer for OotA: **Grounding the endgame in established canon.** Every
-encounter and plot thread must be traceable to something that actually
-happened at the table.
-
-This drives every subsequent decision.
+For active long-running campaigns: **grounding new content in established
+canon.** Every encounter and plot thread must be traceable to something
+that actually happened at the table. This drives every subsequent decision.
 
 ### Evaluating extraction dirs
 
 If you have a CampaignGenerator pipeline with multiple extraction dirs,
 examine each one:
 
-1. **Read the same extraction number from each dir** (e.g., extract_025 from
-   all four). Compare what each contains.
-
+1. **Read the same extraction number from each dir** (e.g., `extract_025`
+   from all four). Compare what each contains.
 2. **Ask: what unique information does this dir carry that no other dir has?**
-
 3. **Ask: is this an LLM summary (search accelerator) or a source of truth?**
 
-For OotA we had four extraction dirs (52 files each):
+Worked example (OOTA had four extraction dirs):
 
 | Dir | Lens | Unique value | Decision |
 |-----|------|-------------|----------|
 | `distill_extractions` | World state — factions, locations, events, mysteries, NPC snapshots | Only time-series view of the world itself | **Keep** — chronicle wing |
-| `planning_extractions` | NPC prose dossiers | Temporal NPC portraits, but redundant with distill (NPC bullets) + docs/npcs/ (current state) | **Skip** |
-| `campaign_state_extracts` | Quest/encounter completion log | Redundant with campaign_state.md (cumulative) and chapters (raw) | **Skip** |
-| `party_extract` | PC arcs, relationships, resources | Redundant with party.md (current state) and chapters (raw) | **Skip** |
+| `planning_extractions` | NPC prose dossiers | Redundant with distill (NPC bullets) + `docs/npcs/` (current state) | **Skip** |
+| `campaign_state_extracts` | Quest/encounter completion log | Redundant with `campaign_state.md` + chapters | **Skip** |
+| `party_extract` | PC arcs, relationships | Redundant with `party.md` + chapters | **Skip** |
 
-**The principle:** Only index content that provides a unique retrieval path
-you can't get from the other wings. Everything else stays accessible via
-file reads but doesn't pollute the search index.
+**Principle:** only index content with a unique retrieval path. Skipped
+dirs stay accessible via file reads; they just don't pollute search.
 
 ### Evaluating the published module
 
-Published adventure modules (OotA, CoS, etc.) are typically 5,000-10,000+
-lines. They dominate the index and dilute search results. If you have
-5etools MCP access, exclude the module from the palace entirely.
-
-**Access pattern:** Use `get_section` and `search` via 5etools for raw module
-text when needed. Use `tracking.txt` for the structural skeleton of quests
-and NPCs.
+Modules (OotA, CoS, etc.) are typically 5,000–10,000+ lines. They dominate
+the index and dilute results. With 5etools MCP available, exclude the
+module from the palace and access it via `get_section` / `search`.
 
 ### The trust hierarchy
 
-This is the most important architectural decision:
+The most important architectural decision:
 
 | Trust level | What qualifies | Rule |
 |-------------|---------------|------|
-| **Authoritative** | Content that records what actually happened at the table (session summaries, transcripts) | Verify here before building anything on a claimed fact |
-| **Search accelerator** | LLM-generated structured extractions of authoritative content | Use to find the right time window fast, then verify against authoritative source |
-| **Working reference** | Synthesized current-state docs (NPC dossiers, grounding docs) | Use for building forward; verify against authoritative source when precision matters |
+| **Authoritative** | Session summaries / transcripts / chapter splits — what actually happened at the table | Verify here before building anything on a claimed fact |
+| **Search accelerator** | LLM-generated structured extractions of authoritative content | Use to find the right time window fast, then verify against authoritative |
+| **Working reference** | Synthesized current-state docs (NPC dossiers, grounding docs) | Use for building forward; verify against authoritative when precision matters |
 
-**Why this matters:** If you're designing an endgame encounter that calls
-back to something that happened in session 12, you need to verify the actual
-scene, not an LLM's paraphrase of it. The paraphrase might say "Daz
-discovered the evidence" when the actual scene shows he saw the books but
-didn't take them. That's a plot hole.
+This mirrors the global LLM pipeline rule: LLM extracts → human reviews →
+LLM renders inside reviewed structure. Distill extractions are search
+accelerators, never architects of new content.
 
 ### Three-wing architecture (recommended for CampaignGenerator campaigns)
 
-| Wing | Source | Trust | Purpose |
-|------|--------|-------|---------|
+| Wing | Source | Trust | Question it answers |
+|------|--------|-------|--------------------|
 | `narrative` | Chapter splits from the bible | Authoritative | "What actually happened?" |
-| `chronicle` | distill_extractions (or best extraction dir) | Search accelerator | "What was the state at time X?" — find the window, then verify in narrative |
+| `chronicle` | `distill_extractions/` (or best extraction dir) | Search accelerator | "What was the state at time X?" |
 | `<campaign>` | NPC dossiers, grounding docs, design docs | Working reference | "What's true now? What's the plan?" |
 
 **Shared room names create tunnels.** Use `npcs` and `world` in both
 `chronicle` and `<campaign>` wings so a single search can cross between
-timeline snapshots and current dossiers.
+timeline snapshots and current dossiers via `mempalace_find_tunnels` /
+`mempalace_traverse`.
 
-### Two-wing architecture (simpler campaigns without extraction pipeline)
+### Two-wing architecture (campaigns without an extraction pipeline)
 
-| Wing | Source | Trust | Purpose |
-|------|--------|-------|---------|
-| `narrative` | Chapter splits | Authoritative | "What happened?" |
-| `<campaign>` | NPC dossiers, all reference docs | Working reference | "What's true now?" |
+| Wing | Source | Trust |
+|------|--------|-------|
+| `narrative` | Chapter splits | Authoritative |
+| `<campaign>` | NPC dossiers, all reference docs | Working reference |
 
-### Single-wing (campaigns with no pipeline at all)
+### Single-wing (no pipeline, simple campaign)
 
-| Wing | Source | Purpose |
-|------|--------|---------|
-| `<campaign>` | All curated docs | Everything |
+| Wing | Source |
+|------|--------|
+| `<campaign>` | All curated docs |
 
 ---
 
 ## Step 3: Set Up Exclusions
 
-Create `.mempalaceignore` in the campaign root. Mempalace reads `.mempalaceignore`
-first; if absent, it falls back to `.gitignore`. Using `.mempalaceignore` decouples
-mining exclusions from version-control concerns (see `~/src/mempalace/docs/MEMPALACEIGNORE.md`).
+Create `.mempalaceignore` in the campaign root. Mempalace reads
+`.mempalaceignore` first; if absent, falls back to `.gitignore`.
+**Prefer `.mempalaceignore`** — decouples mining exclusions from
+version-control concerns (see `~/src/mempalace/docs/MEMPALACEIGNORE.md`).
 
-### Always exclude:
-- `summaries/` — raw session data (synthesized elsewhere)
+### Always exclude from root mining:
+- `summaries/` — raw session data
 - `logs/` — operational
 - `voice/`, `examples/` — pipeline rendering inputs
-- Tooling files: `config.yaml`, `ui_config.yaml`, `*.sh`, `entities.json`
-- `.claude/`, `MEMPALACE.md`
+- Tooling: `config.yaml`, `ui_config.yaml`, `*.sh`, `entities.json`
+- `.claude/`, `MEMPALACE.md`, `MEMPALACE_HORIZON.md`
 - `notes/` — working/staging area, not canon
 
-### For three-wing, also exclude from root:
-- Subdirectory wings (`docs/chapters/`, `docs/distill_extractions/`) — mined
-  separately to prevent double-mining
+### For three-wing setups, also exclude from root:
+- Subdirectory wings: `docs/chapters/`, `docs/distill_extractions/` (mined
+  separately to prevent double-mining)
 - The unsplit bible (replaced by chapter splits in narrative wing)
-- Pipeline intermediate dirs that aren't getting their own wing
-- Party PC files from NPC directories (they're PCs, not NPCs)
+- Other pipeline intermediate dirs not getting their own wing
+- Party PC files in NPC directories (PCs, not NPCs)
 
 ### For published modules:
-- The full module markdown (use 5etools MCP instead)
+- The full module markdown (use 5etools MCP)
+
+**Filename fragility (gotcha):** `.mempalaceignore` lists exact paths. If
+the bible's filename changes (e.g., `The Underdark.md` → `TheUnderdark.md`
+after a git rename), update the ignore. Sanity-check after any rename:
+search the campaign wing for a known scene — the top hit should be a
+dossier or grounding doc, **not** the unsplit bible.
 
 ---
 
-## Step 4: Write mempalace.yaml Files
+## Step 4: Write `mempalace.yaml` Files
 
 Each wing needs its own `mempalace.yaml` in its source directory.
 
-### Narrative wing (`docs/chapters/mempalace.yaml`)
+### Narrative wing — `docs/chapters/mempalace.yaml`
 
 ```yaml
 wing: narrative
@@ -206,7 +234,7 @@ rooms:
 
 Simple — everything routes to `chapters`.
 
-### Chronicle wing (`docs/distill_extractions/mempalace.yaml`)
+### Chronicle wing — `docs/distill_extractions/mempalace.yaml`
 
 ```yaml
 wing: chronicle
@@ -221,18 +249,18 @@ rooms:
   description: Threads, mysteries, and unresolved plot points
   keywords: [thread, mystery, unresolved, quest, score]
 - name: general
-  description: Content that doesn't fit other rooms
+  description: Fallback
   keywords: []
 ```
 
-**Note:** In practice, distill extractions route heavily to `npcs` because
-they lead with `## NPCs` sections. This is fine — the content is still
-searchable. Room filtering just doesn't help much within this wing.
+**Note:** distill extractions route heavily to `npcs` because they lead
+with `## NPCs`. Content stays searchable; room filtering inside this wing
+just doesn't help much. Documented in the per-campaign MEMPALACE.md.
 
-### Campaign reference wing (root `mempalace.yaml`)
+### Campaign reference wing — root `mempalace.yaml`
 
 ```yaml
-wing: <campaign_name>
+wing: <campaign_name>   # e.g. phandalin, abyss, hillsfar
 rooms:
 - name: npcs
   description: NPC dossiers, character profiles, relationships
@@ -256,9 +284,9 @@ rooms:
 
 **Tailoring rules:**
 - Drop rooms that don't apply (no `dead/` dir → no room)
-- Add campaign-specific keywords (location names, villain names, faction names)
-- **Shared room names create tunnels** — use `npcs` and `world` in both
-  chronicle and reference wings
+- Add campaign-specific keywords (location names, villain names, factions)
+- Use the same `npcs` and `world` room names in both `chronicle` and
+  `<campaign>` wings to enable tunneling
 
 ---
 
@@ -266,31 +294,35 @@ rooms:
 
 ```bash
 MP=/home/kroussos/worldanvil_pipeline/venv/bin/mempalace
+PALACE=<campaign_name>            # e.g. abyss, phandalin
+CAMPAIGN=/home/kroussos/campaigns/<campaign_dir>
 
 # Init (generates entities.json — informational only)
-$MP init --yes <campaign_dir>
+$MP --palace $PALACE init --yes $CAMPAIGN
 
-# IMPORTANT: init overwrites your root mempalace.yaml with auto-detected
-# config. Restore your custom yaml after init.
+# GOTCHA: init overwrites your root mempalace.yaml with auto-detected
+# config. Restore your custom yaml after init:
+git checkout $CAMPAIGN/mempalace.yaml
 
 # Dry-run each wing to check classification
-$MP mine <campaign_dir>/docs/distill_extractions --dry-run 2>&1 | tail -20
-$MP mine <campaign_dir>/docs/chapters --dry-run 2>&1 | tail -20
-$MP mine <campaign_dir> --dry-run 2>&1 | tail -40
+$MP --palace $PALACE mine $CAMPAIGN/docs/distill_extractions --dry-run 2>&1 | tail -20
+$MP --palace $PALACE mine $CAMPAIGN/docs/chapters --dry-run 2>&1 | tail -20
+$MP --palace $PALACE mine $CAMPAIGN --dry-run 2>&1 | tail -40
 
 # Check:
-# - Room distribution looks balanced
+# - Room distribution looks balanced (within wing constraints — chronicle
+#   will skew npcs-heavy, that's expected)
 # - No excluded files appear
-# - Core docs route sensibly
+# - Core docs route to sensible rooms
 
 # Mine for real — SUBDIRS BEFORE ROOT
-$MP mine <campaign_dir>/docs/distill_extractions   # chronicle
-$MP mine <campaign_dir>/docs/chapters               # narrative
-$MP mine <campaign_dir>                              # campaign reference
+$MP --palace $PALACE mine $CAMPAIGN/docs/distill_extractions   # chronicle
+$MP --palace $PALACE mine $CAMPAIGN/docs/chapters               # narrative
+$MP --palace $PALACE mine $CAMPAIGN                              # campaign reference
 ```
 
-**Order matters:** Root's `.mempalaceignore` (or `.gitignore` fallback) excludes
-subdirs to prevent double-mining. Mine subdirs first.
+**Order matters:** root's `.mempalaceignore` excludes subdirs to prevent
+double-mining. Mine subdirs first so root mining sees its own scope only.
 
 ---
 
@@ -298,51 +330,106 @@ subdirs to prevent double-mining. Mine subdirs first.
 
 ```bash
 # From inside the campaign directory:
-claude mcp add mempalace -- /home/kroussos/worldanvil_pipeline/venv/bin/python -m mempalace.mcp_server
+claude mcp add mempalace -- /home/kroussos/worldanvil_pipeline/venv/bin/python -m mempalace.mcp_server --palace <campaign_name>
 ```
 
-This is project-scoped. Each campaign gets its own registration.
-
-**You must restart Claude Code to pick up the new MCP server.**
+Project-scoped. Each campaign gets its own registration. **Restart Claude
+Code** to pick up the new MCP server.
 
 ---
 
 ## Step 7: Verify
 
 ```bash
-$MP status
+$MP --palace <campaign> status
 
 # Test each wing
-$MP search "<campaign-specific NPC>" --wing chronicle
-$MP search "<memorable scene keyword>" --wing narrative
-$MP search "<current threat or faction>" --wing <campaign>
+$MP --palace <campaign> search "<campaign-specific NPC>" --wing chronicle
+$MP --palace <campaign> search "<memorable scene keyword>" --wing narrative
+$MP --palace <campaign> search "<current threat or faction>" --wing <campaign>
 
-# Test cross-wing (no filter)
-$MP search "<NPC name>"
-# Should return hits from multiple wings
+# Cross-wing (no filter) — should hit multiple wings
+$MP --palace <campaign> search "<NPC name>"
 ```
+
+Sanity tests every campaign should pass:
+- A search for a known scene returns the relevant chapter file (narrative
+  wing), not a giant unsplit bible
+- A search for a current NPC returns the dossier (campaign wing)
+- A cross-wing search for an NPC name returns hits from both `chronicle`
+  (snapshots over time) and `<campaign>` (current dossier)
 
 ---
 
-## Step 8: Write MEMPALACE.md
+## Step 8: Write `<campaign>/MEMPALACE.md`
 
-Create `<campaign_dir>/MEMPALACE.md` as the campaign-specific usage guide.
-Document:
+Create the per-campaign usage guide. Use this template:
 
-1. Wing architecture with trust levels
-2. Room taxonomy tables with drawer counts
-3. Search patterns — when to use which wing (with examples)
-4. What's excluded and why
-5. The canon rule (notes → human review → grounding docs → palace)
-6. Refresh workflow (per-wing re-mine commands)
-7. Known quirks (uneven room distribution, oversized chapters, etc.)
+```markdown
+# MemPalace — <Campaign> Usage Guide
+
+Semantic search over the campaign's content, organized into <N> wings
+for different retrieval needs.
+
+**Palace DB:** `~/.mempalace/palaces/<campaign>/` (always pass
+`--palace <campaign>`)
+
+## Wing Architecture
+
+| Wing | Purpose | Source | Drawers | Question it answers |
+|------|---------|--------|---------|--------------------|
+| `narrative` | ... | `docs/chapters/` (N files) | ~X | "What actually happened?" |
+| `chronicle` | ... | `docs/distill_extractions/` (N files) | ~X | "What was the state at time T?" |
+| `<campaign>` | ... | grounding docs, NPC dossiers, tracking | ~X | "What's true now?" |
+
+### Trust Levels
+| Wing | Trust | Rule |
+|------|-------|------|
+| `narrative` | **Authoritative** | Verify here first |
+| `chronicle` | **Search accelerator** | Narrow time window, verify in narrative |
+| `<campaign>` | **Working reference** | Verify against narrative when precision matters |
+
+### Tunnels
+List shared room names that connect wings (typically `npcs`, `world`).
+
+## Wing / Room Taxonomy
+One table per wing with room → drawer count → contents. Get counts from
+`mp --palace <campaign> status`.
+
+## What's Excluded (and why)
+Per-line table: path → reason → access-instead-via.
+
+## Search Patterns — When to Use Which Wing
+Concrete example queries showing which wing to filter to for which kind
+of question.
+
+## The Canon Rule
+Notes are staging, not canon. Promote to docs/ → re-mine the affected wing.
+
+## Refresh Workflow
+Per-wing re-mine commands. Mention subdirs-before-root order.
+
+## MCP Tools
+List of mempalace_* tools available in this campaign's Claude Code session.
+
+## Known Quirks
+Campaign-specific oddities: chronicle-room concentration, oversized
+chapters, filename fragility, palace DB sharing or isolation, etc.
+
+## Operational Rules (optional, for active campaigns)
+Mining priority order, re-mine triggers, validation checklist.
+```
+
+For active campaigns with frequent re-mining, also write a
+`MEMPALACE_HORIZON.md` that records the last-mined chapter, drawer
+baseline, and forward-extension procedure (see OOTA's for an example).
 
 ---
 
 ## The Notes Directory
 
-Every campaign needs a `notes/` directory as a working/staging area. It stays
-OUT of the palace.
+Every campaign needs a `notes/` directory as a working/staging area. It
+stays OUT of the palace.
 
 ```
 notes/
@@ -350,7 +437,7 @@ notes/
   <flat files>    -- encounter designs, session prep, arc planning
 ```
 
-### The canon extraction workflow
+### Canon extraction workflow
 
 1. Design material and cross-campaign history goes in `notes/`
 2. Human reviews and identifies what's canon vs. what's planning
@@ -359,86 +446,94 @@ notes/
 
 ### Cross-campaign canon
 
-If you run interlocking campaigns (e.g., Group 1's actions become Group 2's
-history), keep shared canon in `notes/canon/`. This directory is portable —
-copy or symlink it across campaign workspaces.
-
-**Example:** Group 2 captured Lolth as part of a deal with Vhaerun. That
-action motivated the Orthodoxy to convince Gromph Baenre to perform the
-ritual that triggered the demon lord incursion in OotA. This fact lives in
-`notes/canon/` and gets extracted into OotA's world_state and NPC dossiers
-after review.
+If campaigns interlock (Group 1's actions become Group 2's history), keep
+shared canon in `notes/canon/`. Portable — copy or symlink across
+workspaces. Do not mempalace it directly; promote to a grounding doc in
+the receiving campaign first, then re-mine.
 
 ---
 
 ## Key Principles
 
 ### 1. The bible is the single source of truth
-
-The session summary / campaign chronicle is authoritative. Everything else —
-extractions, dossiers, grounding docs — is a distillation. When building on
-a fact, verify against the bible chapters.
+Session summaries / chapter splits are authoritative. Everything else —
+extractions, dossiers, grounding docs — is a distillation. Verify against
+chapters when building on a fact.
 
 ### 2. LLM outputs are search accelerators, not architects
+Distill extractions and NPC dossiers are LLM-generated. Excellent for
+finding things fast. Not trusted for precision (scope, attribution,
+ordering) without human verification.
 
-Distill extractions and NPC dossiers are LLM-generated. They're excellent
-for finding things fast. They're not trusted for precision decisions (scope,
-attribution, ordering) without human verification against the bible.
-
-This follows the LLM pipeline rule:
 > **Good:** LLM extracts → human reviews → LLM renders inside reviewed structure
 > **Bad:** LLM extracts → LLM structures → LLM renders (errors compound silently)
 
 ### 3. Only index content with unique retrieval value
-
-If two dirs contain overlapping information, pick the one with the most
-unique content and skip the other. The skipped dir remains accessible via
-file reads — it just doesn't pollute search results.
+Two dirs with overlapping information → pick one, skip the other. Skipped
+content stays accessible via file reads.
 
 ### 4. Notes are staging, not canon
-
-Nothing enters the palace directly from working material. The palace indexes
-what IS true. Notes contain what MIGHT happen. The human review step between
-notes and palace is non-negotiable.
+Nothing enters the palace directly from working material. The palace
+indexes what IS true; notes contain what MIGHT happen. Human review is
+non-negotiable.
 
 ### 5. Published modules stay outside
-
-If you have 5etools MCP, the full module text is better accessed via
-`get_section` than indexed in the palace. Module text is large, static, and
-available on demand — it doesn't need semantic search.
+With 5etools MCP, full module text is better accessed via `get_section`
+than indexed. Module text is large, static, and available on demand.
 
 ### 6. The temporal index serves the narrative
-
 The chronicle wing doesn't replace reading the actual scene. It tells you
-WHERE to look and WHAT to verify. The workflow is always: search chronicle →
-find the time window → read the narrative chapter → confirm the fact.
+WHERE to look and WHAT to verify. Workflow: search chronicle → find time
+window → read narrative chapter → confirm fact.
+
+### 7. Per-campaign palace DBs
+Each campaign has its own DB. Always pass `--palace <campaign>`. Don't
+let two campaigns share a DB unless you have an explicit reason — they
+end up in each other's search results.
 
 ---
 
 ## Refresh Cheat Sheet
 
+All commands assume `MP="$MP --palace <campaign>"`.
+
 | Event | Command |
 |-------|---------|
-| Updated grounding docs or NPC dossiers | `$MP mine <campaign_dir>` |
+| Updated grounding docs / NPC dossiers | `$MP mine <campaign_dir>` |
 | New session chapters added | `$MP mine <campaign_dir>/docs/chapters` |
 | Re-ran extraction pipeline | `$MP mine <campaign_dir>/docs/distill_extractions` |
-| Full rebuild | `rm -rf ~/.mempalace/palace/` then mine all three in order |
+| Full rebuild | `rm -rf ~/.mempalace/palaces/<campaign>/` then mine all three in order |
 
 Always mine subdirs before root.
 
 ---
 
-## Gotchas
+## Gotchas (consolidated)
 
-- **`mempalace init` overwrites your root `mempalace.yaml`** with
-  auto-detected config. Save your custom yaml before running init, or
-  restore it after.
-- **The Phandalin (or other campaign) palace shares the same DB.** Status
-  shows all campaigns' wings. This is expected — each wing is namespaced.
-- **Extraction files route heavily to one room** because they lead with a
-  dominant section (e.g., `## NPCs`). Room filtering within that wing
+- **`mempalace init` overwrites the root `mempalace.yaml`** with
+  auto-detected config. Restore from git after init.
+- **`split_chapters.py` wipes `docs/chapters/mempalace.yaml`.** Restore
+  from git before re-mining.
+- **`.mempalaceignore` filename rules are fragile.** Exact path match.
+  Renaming the bible breaks the ignore silently and the bible gets
+  re-mined into the campaign wing on top of the chapter splits. Sanity
+  query after any rename.
+- **Subdir-before-root mining order is mandatory.** Root's
+  `.mempalaceignore` (or `.gitignore` fallback) excludes the subdir wings
+  to prevent double-mining; mine subdirs first.
+- **Per-campaign palace DBs need `--palace <name>` on every CLI call.**
+  Without it, mempalace falls back to `~/.mempalace/config.json`'s
+  default and may write into the wrong DB.
+- **Extraction files route heavily to one room** because they lead with
+  a dominant section (e.g., `## NPCs`). Room filtering within that wing
   doesn't help much. Just search the wing directly.
 - **Very large chapters produce disproportionate drawer counts** and may
-  dominate search results in the narrative wing.
-- **Cross-campaign canon needs manual coordination.** There's no automatic
-  sync between campaign workspaces. Copy files or use symlinks.
+  dominate narrative-wing search results. Document in MEMPALACE.md.
+- **Cross-campaign canon needs manual coordination.** No automatic sync
+  between workspaces. Copy files or symlink `notes/canon/`.
+- **MCP server needs Claude Code restart** to pick up the new
+  registration; tools won't appear until then.
+- **Embedding device:** mempalace uses CPU `onnxruntime` by default. The
+  GPU build wants CUDA 12 runtime libs that conflict with torch's bundled
+  CUDA 13. CPU mine completes in minutes — don't swap unless you're
+  prepared to install CUDA 12 alongside.

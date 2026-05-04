@@ -1,131 +1,168 @@
 ## NPCs
 
-**Narrak**
-- Current location: Dead in the cave/ritual chamber
-- Current state: Dead (killed by Thorin)
-- Recent actions: Attempted to complete a ritual involving a two-headed stone giant statue; attacked Thorin with a short spear while restrained by Maximilian's Earthen Grasp; attempted and failed to break free of the earthen grasp; shouted "Your sacrifice is but a step towards glory!" and his final words were "No, the ritual cannot be undone!"
-- Faction: Derro cultist serving Demogorgon
-- Motivations/secrets: Orchestrator of a ritual using "The Rituals of the Two-Headed Beast" text; the ritual turned one of Hargaam's giants mad; the ritual involved a two-foot-tall two-headed stone giant statue
-
-**Gru Manga**
-- Current location: Dead in the cave/ritual chamber
-- Current state: Dead (killed by Zalthir)
-- Recent actions: Roared at Grygum believing Grygum was the source of his pain; fought while blinded and grappled by Zalthir's tentacles
-- Faction: Allied with Narrak and the Derro
-- Notes: An Ettin (two-headed giant)
-
-**Thorin**
-- Current location: Ritual chamber
-- Current state: Alive; healed himself during the fight
-- Recent actions: Delivered the killing blow to Narrak; observed that a Derro was nearly dead during combat
-
 **Grygum**
-- Current location: Ritual chamber
-- Current state: Alive
+- Current location: Derro cave/ritual chamber
+- Current state: Alive, combat concluded
+- Recent actions: Cast acid spell hitting three Derro; knocked prone by Derro hook sphere attack; concentration broken; regained footing; cast Tasha's Caustic Brew hitting three Derro (one fully affected); cast True Strike; struck a Derro with mace
 - Faction: Cleric of Bahamut
-- Recent actions: Cast Tasha's Caustic Brew on Derro; cast True Strike; struck Derro with mace; was knocked prone by a Derro hook sphere attack that also broke his concentration on an acid spell
+- Motivations: Protect the innocent, destroy wicked creatures, serve Bahamut/the Platinum Dragon
 
 **Zalthir**
-- Current location: Ritual chamber
-- Current state: Alive
-- Recent actions: Activated Eldritch Maul (transforms hands into 15-foot tentacles); used sphere of darkness to blind Gru Manga; grappled and killed Gru Manga; killed at least one Derro
-- Notes: Monastic training; learned grappling at a monastery; has used grappling skills in a tavern brawl previously
+- Current location: Derro cave/ritual chamber
+- Current state: Alive, combat concluded
+- Recent actions: Activated Eldritch Maul (hands transform into 15-foot tentacles); moved sphere of darkness over Gru Manga; struck Gru Manga with tentacles; used a focus point for an additional strike; grappled Gru Manga with tentacles; delivered killing blow to Gru Manga; killed a Derro with an efficient strike; pondered the nature of Narrak's ritual and the two-headed stone giant statue
+- Faction: Monastic background; member of party
+- Notes: Has monastic training; previously used grappling skills in a tavern brawl; uses Eldritch Maul ability
 
 **Daz**
-- Current location: Ritual chamber
-- Current state: Alive
-- Recent actions: Cast Magic Missile killing a weaker Derro; maintained Maximilian's Earthen Grasp on Narrak; commanded the earthen hand to squeeze Narrak; examined the ritual statue and texts post-combat
-- Notes: Tactically minded; shifts to intelligence gathering after combat
+- Current location: Derro cave/ritual chamber
+- Current state: Alive, combat concluded
+- Recent actions: Cast Magic Missile (two bolts at weaker Derro northeast of Grygum, one bolt at stronger Derro); killed weaker Derro instantly; commanded Maximilian's Earthen Grasp to further squeeze Narrak; examined the two-foot-tall statue; found "The Rituals of the Two-Headed Beast" and other texts among Narrak's belongings; considered tactical next steps; dismissed idea of installing democracy
+- Faction: Member of party
+- Notes: Has Maximilian's Earthen Grasp spell; tactical, intelligence-focused mindset
+
+**Thorin**
+- Current location: Derro cave/ritual chamber
+- Current state: Alive, combat concluded; healed himself during battle
+- Recent actions: Healed himself; struck by Narrak with a short spear; delivered the killing blow to Narrak
+- Faction: Member of party
+- Notes: Does not have a personal narrative section but is referenced by others
+
+**Narrak**
+- Current location: Derro cave/ritual chamber — deceased
+- Current state: Dead, killed by Thorin
+- Recent actions: Shouted "fools, your sacrifice is but a step toward glory!" (twice, second time with waning conviction); attacked Grygum; attacked Thorin with a short spear; attempted to break free of Maximilian's Earthen Grasp and failed; final words: "No, the ritual cannot be undone!"
+- Faction: Cultist; follower of a demonic power (implied Demogorgon affiliation); orchestrator of the ritual
+- Motivations: Completing an unspecified ritual involving the two-headed stone giant statue; pursuing "glory" through sacrifice
+- Secrets/Revealed: Was reading "The Rituals of the Two-Headed Beast"; orchestrated the ritual that drove one of Hargaam's giants mad
+- Possessions recovered: Gold, Keoghtom's Ointment, strange texts including "The Rituals of the Two-Headed Beast," and other items from his person and chest
+
+**Gru Manga**
+- Current location: Derro cave/ritual chamber — deceased
+- Current state: Dead, killed by Zalthir
+- Recent actions: Roared/bellowed at Grygum (believed Grygum was source of his pain); fought while blinded and grappled by Zalthir's tentacles; killed by Zalthir's decisive final blow
+- Faction: None specified; associated with the Derro/ritual scene
+- Notes: Described as a hulking Ettin (two-headed creature)
+
+**Derro (unnamed, multiple)**
+- Current location: Derro cave/ritual chamber
+- Current state: Most or all dead
+- Recent actions: Chanted "die, die, die"; one burst from Zalthir's darkness and struck Grygum with a hook sphere, knocking him prone and breaking his concentration; multiple killed by Grygum's acid spells, Zalthir's strikes, and Daz's Magic Missile; one affected by Tasha's Caustic Brew (takes damage at start of turns)
+- Faction: Derro; supporters of Demogorgon
+- Notes: One Derro referenced as still unnoticed in the background post-combat (noted by Daz as "a detail for later consideration")
 
 **JimJar**
-- Current location: With the party
+- Current location: Derro cave/ritual chamber (present post-combat)
 - Current state: Alive
-- Recent actions: Advised the party to hold onto the collected evidence for future usefulness; wants to make a bet that the evidence will be helpful later
-- Notes: Described as "curious"; gives pragmatic advice
+- Recent actions: Observed that the party has recoverable evidence; advised holding onto the evidence for later usefulness; proposed a bet that it would prove helpful
+- Faction: Unknown; traveling with party
+- Notes: Not physically present in combat narrative; speaks after combat ends; characterised as habitually making bets; described as "curious"
 
 **Stool**
-- Current location: With the party
+- Current location: Derro cave/ritual chamber (present post-combat)
 - Current state: Alive
-- Recent actions: Pleaded with Zalthir and Grygum to go save "Rump-a-dump"
+- Recent actions: Pleaded with Zalthir and Grygum to go save "Rump-a-dump" immediately after combat ended
+- Faction: Unknown; traveling with party
+- Notes: Appears to be a non-humanoid creature (name and speech pattern suggest a myconid or similar); "Rump-a-dump" is a person Stool wishes to rescue
 
-**Rumpadump ("Rump-a-dump")**
-- Current location: Unknown; needs rescuing
-- Current state: In danger or captivity
-- Notes: Stool is desperate to save them
-
-**Eldeth**
-- Current location: Not specified (referenced)
-- Current state: Her clan is being targeted
-- Notes: Her clan is being assassinated by order of the king using hired assassins
+**Rump-a-dump**
+- Current location: Unknown; not present in this session
+- Current state: Unknown; implied to be in need of rescue
+- Notes: Does not appear in this chunk; referenced only by Stool in an urgent plea to Zalthir and Grygum; identity and circumstances unknown
 
 **Hargaam**
-- Current location: Not specified
-- Notes: Has giants; one of his giants was driven mad by Narrak's ritual
+- Current location: Not present in this chunk
+- Current state: Unknown
+- Notes: Referenced only in relation to one of Hargaam's stone giants having been driven mad by Narrak's ritual involving the two-headed statue; identity and role not further specified in this chunk
+
+---
 
 ## Factions
 
-**Derro (Cultists of Demogorgon)**
-- Current goals: Conducting rituals to drive stone giants mad using "The Rituals of the Two-Headed Beast"; serving Demogorgon
-- Recent actions: Narrak led the ritual; Derro chanted "die, die, die"; fought the party alongside Gru Manga
-- Key members: Narrak (dead), multiple unnamed Derro (dead)
-- Notes: Evidence exists of Derro "perfidy and support for Demogorgon"; at least one Derro remained unnoticed in the background after combat
+**Party (Grygum, Zalthir, Daz, Thorin)**
+- Current goals: Survive; gather intelligence and evidence; determine next steps after defeating Narrak
+- Recent actions: Defeated Gru Manga, Narrak, and all Derro combatants; recovered evidence items from Narrak's body and chest
+- Relationships: Were previously prisoners; now described as "a formidable force"; were sent into these caves by four different factions
 
-**The King (Duergar King/Ruling Authority)**
-- Current goals: Unknown broader goals
-- Recent actions: Has been working with assassins to kill Eldeth's clan
-- Notes: Evidence of this conspiracy exists and is now in the party's possession
+**Derro**
+- Current goals: Supported the ritual; chanted during it
+- Recent actions: All killed in combat
+- Relationships: Associated with Demogorgon; evidence of their perfidy and support for Demogorgon is now in party's possession
+- Key members: Narrak (deceased, orchestrator)
+
+**Cult/Followers of Demogorgon**
+- Current goals: Completing rituals; pursuing "glory" through sacrifice (per Narrak's words)
+- Recent actions: Narrak's ritual at the two-headed statue was apparently ongoing until his death
+- Relationships: Connected to the Derro; Narrak was a follower
+- Key members: Narrak (deceased)
+
+**The Four Unnamed Factions (who sent the party into the caves)**
+- Current goals: Each faction sent the party to gather evidence to "bury" the others
+- Recent actions: Sent the party as agents into the caves
+- Relationships: Mutually antagonistic; each seeking damaging evidence on the others
+- Notes: Not individually named in this chunk; described collectively
+
+**The King (unnamed)**
+- Current location: Not present
+- Notes: Evidence exists (now in party's possession) that the king has been working with assassins to kill Eldeth's clan; referenced only in relation to this evidence
 
 **Keepers of the Flame**
-- Current goals: Interested in an egg the party possesses
-- Relationships: One of four factions that sent the party into the caves; opposed to other factions
-- Notes: The egg could help either them or "the Red Dragon"
+- Current location: Not present
+- Notes: Referenced as one faction that would benefit from acquiring the egg recovered by the party; identity and goals not further detailed in this chunk
 
-**The Red Dragon (faction or individual)**
-- Notes: The egg could help either the Keepers of the Flame or the Red Dragon; one of the competing interests in the city
+**Red Dragon (faction or individual)**
+- Current location: Not present
+- Notes: Referenced alongside the Keepers of the Flame as a potential recipient of the egg; unclear whether this refers to a faction or a specific creature
 
-**Four Unnamed Factions**
-- Current goals: Each sent the party into the caves seeking evidence to bury the other factions
-- Notes: Four different factions are involved; the evidence collected could "bury this entire city in blood" if released
+**Eldeth's Clan**
+- Current location: Not present
+- Notes: Referenced only as the target of the king's assassin-related activities; evidence of this is now in the party's possession
+
+**Duergar**
+- Current location: Not present in this chunk
+- Notes: Referenced by Daz in dismissing the idea of installing democracy; their innate invisibility is cited as creating a level of paranoia that prevents civil debate
+
+---
 
 ## World Events
 
-- The party fought and killed multiple Derro who were chanting "die, die, die" in a ritual chamber
-- Gru Manga the Ettin was blinded by Zalthir's darkness, grappled by his Eldritch Maul tentacles, and killed
-- Narrak was restrained by Daz's Maximilian's Earthen Grasp throughout much of the fight; he failed to escape and was ultimately killed by Thorin
-- Narrak's ritual involving the two-headed stone giant statue was interrupted/ended by his death
-- The "silent spell" from earlier dissipated after combat ended
-- The party looted Narrak's person and chest, acquiring gold, Keoghtom's Ointment, "The Rituals of the Two-Headed Beast" text, and other strange texts
-- The party now possesses evidence from multiple sources: proof the king hired assassins against Eldeth's clan, an egg of interest to the Keepers of the Flame or the Red Dragon, and proof of Derro support for Demogorgon
-- JimJar advised holding all evidence for future leverage
-- The idea of "installing democracy" among the Duergar was discussed and dismissed because Duergar innate invisibility creates paranoia preventing civil debate
-- Stool urgently requested the party go rescue Rumpadump
+- Gru Manga the Ettin roared at Grygum, believing him the source of his pain, and charged
+- A Derro burst from Zalthir's sphere of darkness and struck Grygum with a hook sphere, knocking him prone and breaking his concentration on his acid spell
+- Zalthir activated his Eldritch Maul, moved the sphere of darkness over Gru Manga, grappled Gru Manga with his tentacles, and eventually delivered the killing blow
+- Daz killed a weaker Derro instantly with Magic Missile
+- Grygum cast Tasha's Caustic Brew, coating three Derro in acid; one was fully affected
+- Narrak, restrained by Maximilian's Earthen Grasp, attacked Grygum and then Thorin with a short spear; he failed to break free of the grasp
+- Daz commanded Maximilian's Earthen Grasp to squeeze Narrak further
+- Thorin healed himself and then delivered the killing blow to Narrak
+- Narrak's final words were "No, the ritual cannot be undone!"
+- Zalthir also killed an additional Derro during the final phase of combat
+- All enemies — Gru Manga, Narrak, and the Derro — were killed; one unnoticed Derro may remain in the background
+- A "silent spell" effect that had been in place dissipated after combat ended
+- The party looted Narrak's body and chest, recovering gold, Keoghtom's Ointment, "The Rituals of the Two-Headed Beast," and other strange texts
+- JimJar advised the party to hold onto the recovered evidence for future leverage
+- Daz dismissed the idea of installing democracy due to Duergar paranoia and invisibility
+- Stool pleaded with Zalthir and Grygum to go rescue "Rump-a-dump"
+
+---
 
 ## Locations
 
-**Ritual Chamber / Cave**
-- A cavern where Narrak conducted the ritual with the Derro and Gru Manga
-- Contains a two-foot-tall two-headed stone giant statue central to the ritual
-- Contains Narrak's chest with gold, ointment, and texts
-- Current state: All enemies dead; at least one Derro possibly unnoticed in the background; ritual ended
+**Derro Cave / Ritual Chamber**
+- What it is: A cavern used by Derro cultists under Narrak's leadership to conduct a ritual involving a two-foot-tall two-headed stone giant statue
+- What happened here: Full combat encounter; Gru Manga and all Derro killed; Narrak killed; ritual disrupted and ended with Narrak's death; party looted the area
+- Current state: All enemies dead; party present and regrouping; one unnoticed Derro may still be present somewhere in the cave; "silent spell" has dissipated
 
-**The Caves (broader)**
-- Four factions sent the party into these caves to find evidence against rival factions
-- Located in or near a Duergar city
-
-**The City (Duergar city, unnamed)**
-- A city with at least four competing factions
-- Populated by Duergar with innate invisibility
-- Current state: Could be thrown into bloodshed if the party's evidence is released
+---
 
 ## Threads & Mysteries
 
-- **One unnoticed Derro**: Daz noted a Derro "unnoticed in the background" — its fate and intentions are unresolved
-- **What to do with the evidence**: The party holds leverage over multiple factions (the king's assassinations, the egg, proof of Derro/Demogorgon ties) — how they use it is undecided
-- **The ritual's effects**: Narrak claimed "the ritual cannot be undone" — unclear if the ritual had partial or lasting effects despite his death; unclear what further consequences the ritual may have on stone giants
-- **The egg**: Its exact nature, origin, and which faction will receive it (Keepers of the Flame vs. the Red Dragon) is unresolved
-- **Hargaam's mad giant**: One of Hargaam's giants was driven mad by the ritual; its current state and whether the madness can be reversed is unknown
-- **Rescuing Rumpadump**: Stool is desperate to save Rumpadump; location and circumstances of Rumpadump's captivity are unknown
-- **The four factions' identities and full goals**: Only partially identified (the king, Keepers of the Flame, Derro cultists, possibly the Red Dragon); their full agendas and relationships remain unclear
-- **The party's status as former prisoners**: Referenced as "no longer mere prisoners" — the circumstances of their prior imprisonment and full escape arc are unresolved context
-- **"The Rituals of the Two-Headed Beast" text**: Contents beyond driving giants mad are unexplored; may contain further dangerous knowledge
-- **The two-headed stone giant statue**: Its magical properties, whether it remains dangerous, and what should be done with it are unaddressed
+- **Narrak's final words**: "No, the ritual cannot be undone!" — unclear whether the ritual's effects persist despite his death, or whether something was set in motion that cannot be reversed
+- **The two-headed stone giant statue and "The Rituals of the Two-Headed Beast"**: The ritual drove one of Hargaam's giants mad; the full scope and purpose of the ritual, and whether its effects can be reversed, are unresolved
+- **The egg**: An egg is in the party's possession; both the Keepers of the Flame and the Red Dragon would want it; its nature and origin are unspecified in this chunk
+- **Evidence against the king**: Proof that the king worked with assassins to kill Eldeth's clan is now in the party's hands; what they do with it is unresolved
+- **Evidence of Derro perfidy and support for Demogorgon**: In the party's possession; unresolved what they will do with it
+- **The four factions**: Each sent the party into the caves to gather evidence against the others; the party now holds explosive evidence that Daz observes "can bury this entire city in blood if we release it"; no decision has been made about how to use or suppress it
+- **The unnoticed Derro**: Daz notes a Derro still in the background post-combat, flagged as "a detail for later consideration"
+- **Rump-a-dump**: Stool urgently wants to rescue this individual; identity, location, and circumstances entirely unknown
+- **Hargaam's mad giant**: One of Hargaam's stone giants was driven mad by Narrak's ritual; current state and disposition of that giant is unresolved
+- **Democracy/political future of the city**: Floated and dismissed; underlying instability of the city's factional politics remains unaddressed

@@ -1,204 +1,244 @@
 ## NPCs
 
-**Dorhun**
-- **Current location:** Gracklstugh, associated with Cairngorm Cavern
-- **Current state:** Alive; grieving or troubled by the death of the two-headed stone giant
-- **Recent actions:** Arrived flanked by Duergar Stone Guards after the two-headed giant was killed; confirmed Thorin's account that the Duergar killed the giant, not the party; invited the party to visit him at Cairngorm Cavern before they leave the city; ordered the Stone Guards to let the party through
-- **Faction:** Stone Giants; apprentice to Stonespeaker Hgraam
-- **Revealed info:** Was an apprentice to Stonespeaker Hgraam alongside Rihaud
-
-**Rihaud**
-- **Current location:** Gracklstugh (presumed, with Dorhun)
-- **Current state:** Alive
-- **Faction:** Stone Giants; apprentice to Stonespeaker Hgraam
-- **Revealed info:** Mentioned by Dorhun as a fellow apprentice; not physically present in the scene
-
-**Stonespeaker Hgraam**
-- **Current location:** Unknown
-- **Current state:** Unknown (mentioned as the master of Dorhun and Rihaud)
-- **Faction:** Stone Giants
-- **Revealed info:** Teacher/master to Dorhun and Rihaud
-
-**Gartokkar Xundorn**
-- **Current location:** Gracklstugh
-- **Current state:** Alive; able to turn invisible/teleport
-- **Recent actions:** Materialized behind Zalthir after the giant fight; flashed a badge that caused other Duergar to move away quickly; offered the party a job in exchange for safe passage through the city; gave a deadline of tomorrow for them to accept; disappeared
-- **Faction:** Keepers of the Flame (Custodian of the Flame / chief)
-- **Revealed info:** Has four scars/notches on his ears that don't look self-inflicted; can turn invisible or teleport; his badge commands immediate deference from other Duergar; the Keepers of the Flame are the most prized of the Deepking's advisors
-- **Revealed motivations:** Wants the party's skill set for a service; threatened unfriendly future encounters if they refuse
-
-**Themberchaud**
-- **Current location:** Gracklstugh (tended by the Keepers of the Flame)
-- **Current state:** Alive; serves as the city's furnace-heating dragon
-- **Faction:** Effectively controlled by the Keepers of the Flame
-- **Revealed info:** A red dragon used to heat stones for the city's furnaces; given a hoard and pampered by the Keepers; the Keepers must eventually kill and replace the dragon when it realizes it's not in charge or becomes too powerful; the city has had a succession of red dragons for ages
-
-**Errde Blackskull**
-- **Current location:** Overlake Hold, Gracklstugh
-- **Current state:** Alive; actively investigating corruption in Gracklstugh
-- **Recent actions:** Approached the party outside the Darklake Brewery; brought them to Overlake Hold for a meeting; asked them to find Droki in the West Cleft District; offered 175 gold in equipment upfront and 175 more upon completion; threatened to reveal the party's location to pursuing Drow if they don't cooperate (or protect them if they do)
-- **Faction:** Stone Guards (captain of the Stone Guards on the lake)
-- **Revealed motivations:** Believes corruption is eating at the Deepking's court; wants to uncover a conspiracy linked to the Council of Savants and possibly the Clan Lairds; discovery would earn her great favor with the Deepking
-- **Revealed info:** Thorin noticed something odd about her; she knows about Drow searching for escaped slaves (i.e., the party)
-
-**Droki**
-- **Current location:** West Cleft District (Derro district), Gracklstugh
-- **Current state:** Alive; being tracked by the Stone Guards
-- **Faction:** Unknown; linked to the Council of Savants and possibly the Clan Lairds
-- **Revealed info:** Key to uncovering corruption in the Deepking's court; the Stone Guards cannot pursue him in the West Cleft District without provoking a violent Derro reaction
-
-**The Deepking**
-- **Current location:** Gracklstugh (ruler)
-- **Current state:** Afflicted with madness; detached from reality
-- **Revealed info:** His laws have become arbitrary and nonsensical; previously, Gracklstugh's laws made sense; his madness may be connected to the broader corruption
-
-**Unnamed Halfling (outside Darklake Brewery)**
-- **Current location:** Outside the Darklake Brewery, Gracklstugh
-- **Current state:** Alive; an outsider observer deliberately staying uninvolved
-- **Recent actions:** Shared information about Gracklstugh's factions, the dragon, and the Deepking's madness with the party; refused to accompany them to the Keepers of the Flame meeting; signaled approval when Thorin publicly declared the Stone Guard meeting was "just friendly"
-- **Faction:** None (deliberately unaffiliated)
-- **Revealed motivations:** Wants to remain a non-threat by staying an outsider; believes joining any faction would be dangerous
-
-**Unnamed Drow (outside Darklake Brewery)**
-- **Current location:** Outside the Darklake Brewery, Gracklstugh
-- **Current state:** Alive; from Menzoberranzan
-- **Recent actions:** Criticized the Duergar's lack of style and finesse in their political violence compared to Drow methods
-- **Faction:** None specified; originally from Menzoberranzan
-
 **Grygum**
-- **Current location:** Gracklstugh
-- **Current state:** Alive
-- **Recent actions:** Struck the two-headed stone giant with his mace; scouted inside the Darklake Brewery; joked about kindling to Gartokkar
+- Current location: Gracklstugh, near the Blade Bazaar / Darklake Brewery area
+- Current state: Active, in combat and then exploration
+- Recent actions: Struck the two-headed stone giant with his mace; made a joke about kindling that amused Gartokkar; peeked inside the Darklake Brewery; approached the Drow and Halfling outside the brewery
+- Faction: None (party member)
+- Motivations/Secrets: None revealed in this chunk
 
 **Thorin**
-- **Current location:** Overlake Hold, Gracklstugh
-- **Current state:** Alive
-- **Recent actions:** Attempted to subdue rather than kill the two-headed giant; whispered prayers for the dead giant; spoke with Dorhun; engaged in negotiations with Errde Blackskull
-- **Revealed info:** Has a curious relationship with giants; knows that stone giants are normally taciturn and immobile, and that madness among them is unheard of
-
-**Daz**
-- **Current location:** Overlake Hold, Gracklstugh
-- **Current state:** Alive
-- **Recent actions:** Cast weakened magic missiles at the giant; negotiated payment terms with Errde Blackskull; asked questions about the dragon and corruption
-- **Revealed info:** Knowledgeable about dragon behavior and dragon eggs
+- Current location: Overlake Hold, sitting room
+- Current state: Active; negotiating with Errde Blackskull
+- Recent actions: Called for subduing the two-headed stone giant rather than killing it; whispered prayers for the dead giant; questioned Duergar patrol about "crazy" individuals; spoke with Dorhun; drank Darklake Brewery Stout; grabbed his sword during confrontation with Errde; negotiated terms of service with Errde; publicly announced the meeting with Errde was "just a friendly meeting, not that kind of meeting"
+- Faction: None (party member); has a "curious relationship with giants"
+- Motivations/Secrets: Drawn to working with the Stone Guards due to their connection to stone giants; wary of faction entanglement due to halfling's warnings; concerned about escaped-slave bounty from a particular group of Drow
 
 **Zalthir**
-- **Current location:** Gracklstugh
-- **Current state:** Alive
-- **Recent actions:** Fought the two-headed giant with his fists; was approached directly by Gartokkar Xundorn
+- Current location: Gracklstugh, near the Blade Bazaar
+- Current state: Active; received offer from Gartokkar
+- Recent actions: Fought the two-headed stone giant; was approached from behind by Gartokkar Xundorn; listened to Gartokkar's pitch; noted Gartokkar's scarred ears (four notches, not self-inflicted)
+- Faction: None (party member)
+- Motivations/Secrets: None revealed in this chunk
 
-**Two-Headed Stone Giant (unnamed)**
-- **Current location:** Gracklstugh (dead)
-- **Current state:** Dead; killed by Duergar patrol with flame devices
-- **Revealed info:** Was rampaging/mad; had two heads (unusual); Thorin wanted to subdue rather than kill him; Dorhun confirmed the party's account
+**Daz**
+- Current location: Overlake Hold, sitting room
+- Current state: Active; negotiating with Errde Blackskull
+- Recent actions: Fired bolts of magic at the giant (weakened intentionally); made a sarcastic joke about Themberchaud being "a lighter"; asked if the Drow and Halfling could accompany them to the Keepers of the Flame meeting; asked Errde for remuneration; asked Errde to define "corruption"; repeated observations of Blade Bazaar corruption as evidence
+- Faction: None (party member)
+- Motivations/Secrets: Curious about Themberchaud's situation and motivations; strategically negotiating before committing to any faction
+
+**The Two-Headed Stone Giant (unnamed)**
+- Current location: Gracklstugh, near the Blade Bazaar — deceased
+- Current state: Dead; killed by Duergar with flamethrower devices
+- Recent actions: Rampaged through the city; was attacked by the party and Duergar; withstood Bahamut's magic, fire from the Duergar devices, Zalthir's fists, Thorin's blade, and Grygum's mace before being killed
+- Faction: None confirmed
+- Revealed information: Was an apprentice of Stonespeaker Hgraam alongside Dorhun and Rihaud (implied by Dorhun's question about whether Thorin killed "him" — referring to the two-headed giant as someone known to Dorhun and Rihaud)
+- Notes: Thorin whispered prayers over the body
+
+**Gartokkar Xundorn**
+- Current location: Gracklstugh; appeared near the Blade Bazaar, then disappeared
+- Current state: Active; made an offer to the party; offer expires tomorrow
+- Recent actions: Materialized behind Zalthir during the battle; identified himself; flashed a badge to disperse other Duergar; explained his role; offered the party employment in exchange for safe passage and protection from imprisonment; laughed at Grygum's joke; disappeared after delivering the offer
+- Faction: Keepers of the Flame (chief / Custodian of the Flame)
+- Motivations/Secrets: Needs outside help with some unspecified service; the Keepers of the Flame are described as being "in a pickle" regarding the Gray Ghosts and the Crown; his ears bear four notches of scarring not self-inflicted
+- Notes: Offer expires the day after the session date; threatened that the next meeting would be less friendly if refused
+
+**Dorhun**
+- Current location: Gracklstugh, near the Blade Bazaar
+- Current state: Alive; interacted with Thorin
+- Recent actions: Appeared flanked by Duergar Stone Guards; identified himself and Rihaud; revealed he and Rihaud were both apprentices to Stonespeaker Hgraam; asked whether Thorin killed the two-headed giant; accepted Thorin's explanation; sighed upon learning of the giant's death; invited Thorin and companions to visit Cairngorm Cavern before leaving the city; instructed the Stone Guards to grant the party passage
+- Faction: Stone Giants; associated with Stonespeaker Hgraam
+- Motivations/Secrets: Grief or concern over the loss of the two-headed giant; connected to Stonespeaker Hgraam
+
+**Rihaud**
+- Current location: Gracklstugh, near the Blade Bazaar (present with Dorhun)
+- Current state: Alive; present but silent
+- Recent actions: Accompanied Dorhun
+- Faction: Stone Giants; associated with Stonespeaker Hgraam
+- Motivations/Secrets: None revealed beyond shared background with Dorhun
+
+**Stonespeaker Hgraam**
+- Current location: Not present in this chunk
+- Current state: Unknown
+- Notes: Named as the former master/teacher of both Dorhun and Rihaud; the two-headed stone giant is implied to also be connected to him (Dorhun asked "Did you kill him?" while looking at Thorin, apparently referring to the two-headed giant as someone Hgraam-affiliated); Thorin mentioned having "heard of" certain stone giants, prompting the conversation
+
+**Errde Blackskull**
+- Current location: Overlake Hold, Gracklstugh
+- Current state: Active; negotiating with the party
+- Recent actions: Approached the party outside the Darklake Brewery with Stone Guards; invited them to her office; provided pastries and warm drink; explained the mission to find Droki; offered 175 gold pieces of equipment from the armory up front and 175 more upon delivery of Droki; offered to conceal the party's presence from a group of Drow searching for escaped slaves; her face "darkened" when speaking of corruption
+- Faction: Stone Guards (captain, "of the lake")
+- Motivations/Secrets: Believes Droki is key to uncovering corruption in the Deepking's court; suspects conspiracy linked to the Council of Savants and possibly Clan Lairds; wants to earn great favor with the Deepking by exposing the conspiracy; Thorin noticed something "odd" about her; knows about the party's fugitive status regarding Drow slavers and is leveraging this
+
+**Droki**
+- Current location: West Cleft District (where the Derro live), Gracklstugh
+- Current state: Unknown; being tracked
+- Recent actions: None observed directly
+- Faction: Unknown; linked to Council of Savants and possibly Clan Lairds
+- Motivations/Secrets: Errde believes him to be a key figure in corruption threatening the Deepking's court; the Stone Guards cannot enter the West Cleft District in force without provoking violence
+
+**The Halfling (unnamed)**
+- Current location: Outside the Darklake Brewery, Gracklstugh
+- Current state: Alive; drinking beer; chose not to accompany the party
+- Recent actions: Spoke with Daz and Grygum; identified them as newcomers; referenced the party having killed the crazed giant; warned against joining factions; explained the factions are trying to kill each other; explained the Deepking's madness; explained the Keepers of the Flame's situation; declined to accompany the party to the Keepers of the Flame; explained Themberchaud's role and the cycle of dragon replacement; signaled approval of Thorin's public disclaimer about the meeting with Errde
+- Faction: None (self-described outsider, deliberately unaffiliated)
+- Motivations/Secrets: Deliberately maintains outsider status to remain non-threatening and gather information; shares information freely with those "not in the game"
+
+**The Drow (unnamed)**
+- Current location: Outside the Darklake Brewery, Gracklstugh
+- Current state: Alive; drinking beer
+- Recent actions: Spluttered a complaint comparing Duergar politics unfavorably to Menzoberanzan's; described Duergar political violence as lacking style, finesse, torture, speeches, and art
+- Faction: From Menzoberanzan; no current faction stated
+- Motivations/Secrets: None revealed beyond distaste for Duergar methods
+
+**Themberchaud (the Red Dragon)**
+- Current location: Gracklstugh (not present in this chunk; discussed)
+- Current state: Alive; current dragon in service to the Keepers of the Flame
+- Notes: A red dragon used to keep the furnaces of Gracklstugh burning; cared for and given a hoard by the Keepers of the Flame; red dragons historically resent not being in charge, leading to a cycle where the Keepers must eventually kill and replace each dragon; Themberchaud's current status in this cycle is not specified but implied to be a point of concern
+
+**The Deepking**
+- Current location: Gracklstugh (not present in this chunk; discussed)
+- Current state: Alive; ruling Gracklstugh; exhibiting signs of madness
+- Notes: Laws have become arbitrary; behavior described as detached from reality; previously laws made sense and now they do not; Errde believes corruption in his court is the underlying cause; Errde's mission is to expose that corruption and earn his favor
+
+---
 
 ## Factions
 
 **Keepers of the Flame**
-- **Current goals:** Recruit the party for a service; maintain Themberchaud and the city's furnaces
-- **Recent actions:** Gartokkar Xundorn approached the party with a job offer and deadline
-- **Relationships:** Most prized of the Deepking's advisors; in conflict ("in a pickle") with the Gray Ghosts and the Crown
-- **Key members:** Gartokkar Xundorn (Custodian of the Flame / chief)
+- Current goals: Tend to Themberchaud's needs; keep the furnaces of Gracklstugh burning; recruit outside talent (specifically the party)
+- Recent actions: Gartokkar approached the party with a job offer
+- Relationships: Most prized of the Deepking's advisors; in conflict with or under pressure from the Gray Ghosts and the Crown; led by Gartokkar Xundorn
+- Key members: Gartokkar Xundorn (Custodian of the Flame, chief)
+- Notes: Described as being "in a pickle" due to the Gray Ghosts and the Crown
 
 **Stone Guards**
-- **Current goals:** Investigate corruption in the Deepking's court; find Droki; maintain order
-- **Recent actions:** Errde Blackskull recruited the party to find Droki; offered payment and protection from Drow pursuers
-- **Relationships:** Friends/allies of the Stone Giants; serve the Deepking; investigating the Council of Savants and Clan Lairds
-- **Key members:** Errde Blackskull (captain of the Stone Guards on the lake)
+- Current goals: Maintain order in Gracklstugh; investigate and expose corruption in the Deepking's court; capture Droki
+- Recent actions: Killed the two-headed stone giant despite Thorin's request to subdue him; dispatched Errde Blackskull to recruit the party; Errde offered payment and protection from Drow slavers in exchange for finding Droki
+- Relationships: Allies of (or deferential to) stone giants within the city; can deploy "qualified immunity" when a stone giant is rampaging; the Duergar guards show visible (if brief) resentment toward non-Duergar being granted city access by stone giants; Errde claims to serve the city rather than purely faction interests
+- Key members: Errde Blackskull (captain, Stone Guards on the lake)
 
 **Gray Ghosts**
-- **Current goals:** Unknown
-- **Recent actions:** Unknown
-- **Relationships:** In conflict with the Keepers of the Flame
-- **Key members:** Unknown
+- Current goals: Unknown
+- Recent actions: None described directly
+- Relationships: Creating pressure on or conflict with the Keepers of the Flame (per halfling)
+- Key members: None named
+- Notes: Mentioned only in passing by the halfling
 
-**The Crown (Deepking's Court)**
-- **Current goals:** Unknown
-- **Recent actions:** The Deepking has been issuing arbitrary, nonsensical laws
-- **Relationships:** In tension with the Keepers of the Flame; the Stone Guards serve the Deepking but Errde suspects corruption within the court
-- **Key members:** The Deepking
+**The Crown**
+- Current goals: Unknown
+- Recent actions: None described directly
+- Relationships: Creating pressure on or conflict with the Keepers of the Flame (per halfling)
+- Key members: None named
+- Notes: Mentioned only in passing by the halfling
 
 **Council of Savants**
-- **Current goals:** Unknown
-- **Recent actions:** Unknown; suspected of involvement in corruption
-- **Relationships:** Linked to Droki and possibly to the conspiracy Errde is investigating
-- **Key members:** Unknown
+- Current goals: Unknown
+- Recent actions: None described directly
+- Relationships: Linked to Droki per Errde; possibly part of the corruption in the Deepking's court
+- Key members: None named
 
 **Clan Lairds**
-- **Current goals:** Unknown
-- **Recent actions:** Unknown; possibly involved in the conspiracy
-- **Relationships:** May have information about the cause of madness incidents; possibly linked to Droki and corruption
-- **Key members:** Unknown
+- Current goals: Unknown
+- Recent actions: A clan leader may have information about the cause of increased incidents of madness that they have chosen not to share with the Duergar patrol
+- Relationships: Possibly linked to the conspiracy Errde is investigating (via Droki)
+- Key members: None named
 
-**Stone Giants of Gracklstugh**
-- **Current goals:** Unknown; Dorhun invited the party to Cairngorm Cavern
-- **Recent actions:** Dorhun and Stone Guards responded to the rampaging giant's death
-- **Relationships:** Allied with / protected by the Stone Guards; Duergar grudgingly defer to Stone Giant authority regarding the party's access
-- **Key members:** Dorhun, Rihaud, Stonespeaker Hgraam
+**Stone Giants (Gracklstugh contingent)**
+- Current goals: Unknown broader goals; Dorhun invited the party to Cairngorm Cavern
+- Recent actions: Dorhun and Rihaud appeared with Stone Guards after the battle; Dorhun granted the party passage through the city
+- Relationships: Permitted to operate in Gracklstugh; Duergar Stone Guards visibly resent granting them authority over outsiders; connected to Stonespeaker Hgraam
+- Key members: Dorhun, Rihaud (both apprentices of Stonespeaker Hgraam)
 
-**Duergar Militia/Patrol**
-- **Current goals:** Maintain order; respond to rampaging individuals
-- **Recent actions:** Killed the two-headed stone giant with flame-throwing devices; claimed qualified immunity for killing a rampaging giant
-- **Relationships:** Subordinate to the Stone Guards and Deepking's authority; grudgingly allow Stone Giant directives
-- **Key members:** Unnamed patrol members
+**Drow Slavers (unnamed group)**
+- Current goals: Locating and recapturing escaped slaves (the party)
+- Recent actions: None in this chunk; referenced by Errde as a potential future threat
+- Relationships: Errde is offering to deny them information about the party's location as leverage
+- Key members: None named
 
-**Drow Pursuers (implied)**
-- **Current location:** Unknown; potentially searching for the party
-- **Current goals:** Recapture escaped slaves (the party)
-- **Revealed info:** Errde Blackskull knows about them and can misdirect them
+---
 
 ## World Events
 
-- A two-headed stone giant rampaged through Gracklstugh and was killed by Duergar militia using flame-throwing devices, despite Thorin's attempts to subdue it.
-- Duergar militia revealed they possess flame-thrower weapons (tubes connected to bottles with an igniting mechanism).
-- Duergar patrol confirmed that incidents of madness/anti-social behavior have significantly increased in Gracklstugh, with no known underlying cause.
-- Dorhun, a Stone Giant apprentice to Stonespeaker Hgraam, arrived and invited the party to Cairngorm Cavern.
-- Gartokkar Xundorn, chief of the Keepers of the Flame, appeared to Zalthir and offered the party a job with a one-day deadline, promising safe passage in exchange.
-- The halfling informant outside the Darklake Brewery revealed that the Deepking has gone mad and that Gracklstugh's factions are trying to kill each other.
-- Errde Blackskull, captain of the Stone Guards, brought the party to Overlake Hold and tasked them with finding Droki in the West Cleft District.
-- Errde accepted the party's eyewitness account of Blade Bazaar corruption as proof of the broader conspiracy she is investigating.
-- Errde offered 175 gold in equipment upfront, 175 more upon delivering Droki and proof, and protection from Drow slavers searching for the party.
-- Multiple factions (Keepers of the Flame, Stone Guards, Stone Giants) have now approached the party for assistance within a short timeframe.
+- The two-headed stone giant continued to fight despite being engulfed by Bahamut's magic and fire from Duergar flamethrower devices.
+- Two Duergar wielding flamethrower devices (tube connected to a back-mounted bottle, ignited by a small pilot flame via lever) arrived and attacked the stone giant.
+- Thorin called for subduing rather than killing the stone giant, but the Duergar killed it regardless.
+- Thorin whispered prayers over the dead stone giant.
+- The enlarged Duergar reverted to their standard size with a *pop* after the battle.
+- Thorin questioned a Duergar patrol about an increase in "anti-social, self-destructive behavior"; the patrol confirmed significantly more such incidents have been occurring, with no known underlying cause, though a clan leader may be withholding information.
+- Dorhun and Rihaud, apprentices of Stonespeaker Hgraam, arrived with Duergar Stone Guards and confronted Thorin; Dorhun verified Thorin's account of the giant's death and expressed grief.
+- Dorhun invited the party to Cairngorm Cavern before they leave the city and instructed the Stone Guards to grant them passage.
+- Gartokkar Xundorn materialized behind Zalthir, identified himself as Custodian of the Flame and chief of the Keepers of the Flame, and offered the party employment, safe passage, and protection from imprisonment in exchange for a service; he set a one-day deadline and implied the next encounter would be hostile if they refused, then disappeared.
+- The party traveled from near the Blade Bazaar to the Darklake Brewery.
+- The Darklake Brewery was found to be closed to non-Duergar.
+- Daz and Grygum spoke with an unnamed Halfling and Drow drinking outside the Darklake Brewery; the halfling provided information about the Deepking's madness, faction conflicts, and Themberchaud's role and replacement cycle.
+- Errde Blackskull, captain of the Stone Guards on the lake, approached the party outside the brewery with Stone Guards and requested they accompany her.
+- Daz challenged whether Errde was threatening them; Errde clarified it was a friendly invitation.
+- Thorin publicly declared the meeting with Errde was "just a friendly meeting, not that kind of meeting," which the halfling approved of.
+- The party was brought to a sitting room in the Overlake Hold; pastries and warm liquid were provided.
+- Errde tasked the party with locating Droki in the West Cleft District (where the Derro live), explaining she cannot send Stone Guards in force without provoking violence.
+- Errde revealed her belief that Droki is linked to the Council of Savants and possibly Clan Lairds, and that exposing this conspiracy would earn her great favor with the Deepking.
+- Daz negotiated payment: 175 gold pieces of equipment from the Stone Guards' armory up front, and 175 more upon delivery of Droki.
+- Errde offered an additional incentive: she would deny information about the party's whereabouts to a group of Drow searching for escaped slaves.
+
+---
 
 ## Locations
 
 **Gracklstugh**
-- Duergar city in the Underdark; authoritarian, rules-based society; currently experiencing widespread madness and factional conflict; the Deepking rules but has gone mad; austere, grey, cold aesthetic throughout.
+- What it is: A Duergar city in the Underdark; described as austere, strict, authoritarian, with stone furnaces kept hot by a captive red dragon
+- Current state: Experiencing an unexplained increase in incidents of madness and anti-social behavior; the Deepking's laws have become arbitrary; corruption suspected in the Deepking's court; faction tensions between Keepers of the Flame, Gray Ghosts, and the Crown
+- Recent events: Site of the two-headed stone giant's rampage and death; party arrived and was approached by multiple factions
 
 **Blade Bazaar**
-- Marketplace in Gracklstugh; the party witnessed corruption and rule-breaking there previously; located near where the giant fight occurred.
-
-**Cairngorm Cavern**
-- Location associated with the Stone Giants in Gracklstugh; Dorhun invited the party to visit before leaving the city; access requires Stone Guard permission.
+- What it is: A marketplace in Gracklstugh
+- Current state: The party observed corruption there (behavior not following rules of the market/bazaar); this evidence was later presented to Errde Blackskull
 
 **Darklake Brewery**
-- Brewery in Gracklstugh; closed to non-Duergar; interior is dour with people speaking in hushed whispers; the halfling and drow were drinking outside it.
+- What it is: A brewery in Gracklstugh; closed to non-Duergar
+- Current state: Open but inaccessible to the party; described internally as a dour place with hushed whispers; the halfling and Drow were drinking outside it
+- Recent events: Party attempted to enter; Grygum peeked inside; party spoke with the halfling and Drow just outside
 
 **Overlake Hold**
-- The local guardhouse/headquarters of the Stone Guards in Gracklstugh; contains a sitting room with stone furniture, no color, grey light, cold; Errde Blackskull's base of operations.
+- What it is: The local guard house / Stone Guards headquarters in Gracklstugh; situated on or near the Darklake
+- Current state: Active; Errde Blackskull operates from here
+- Recent events: Party brought to a sitting room; Errde briefed them on the Droki mission and made her offer
+
+**Cairngorm Cavern**
+- What it is: A location in or near Gracklstugh associated with the stone giants; Dorhun's base or home
+- Current state: Not visited yet
+- Recent events: Dorhun invited the party to visit before leaving the city
 
 **West Cleft District**
-- District in Gracklstugh where the Derro live; Droki resides there; the Stone Guards cannot enter in force without provoking violent Derro reaction.
+- What it is: A district of Gracklstugh where the Derro live; Droki's home area
+- Current state: Hostile to Stone Guard incursion; Droki is believed to be there
+- Recent events: Identified as the target location for the party's mission from Errde
 
-**Keepers of the Flame Headquarters**
-- Location in Gracklstugh where Gartokkar told the party to come for the job; exact location not specified.
+**Keepers of the Flame headquarters**
+- What it is: The base of the Keepers of the Flame in Gracklstugh
+- Current state: Unknown
+- Recent events: Gartokkar asked the party to come there and perform a service; the halfling declined to accompany them there
 
-**Menzoberranzan**
-- Drow city; home of the unnamed Drow at the brewery; referenced for its culture of stylish political intrigue and backstabbing.
+**Menzoberanzan**
+- What it is: A Drow city; home city of the unnamed Drow outside the brewery
+- Current state: Not present in this chunk; referenced for comparison
+- Notes: The Drow compared its political backstabbing favorably to Gracklstugh's, praising Menzoberanzan's style and finesse
+
+---
 
 ## Threads & Mysteries
 
-- **Source of widespread madness:** Incidents of madness are increasing throughout Gracklstugh, affecting the Deepking, the two-headed stone giant, and merchants at the Blade Bazaar. No one knows the underlying cause.
-- **The Deepking's madness:** His laws have become arbitrary and nonsensical; he appears detached from reality. Is this the same affliction affecting others?
-- **The two-headed stone giant:** Why did it have two heads? What caused its madness? Thorin noted stone giant madness is unheard of.
-- **Droki and the conspiracy:** What is Droki's role? How is he linked to the Council of Savants and Clan Lairds? What corruption will he reveal?
-- **The West Cleft District / Derro connection:** Why does Droki live among the Derro? What is happening in the Derro district?
-- **Factional conflict:** The Keepers of the Flame are in conflict with the Gray Ghosts and the Crown. Multiple factions are trying to kill each other. Which faction should the party align with, if any?
-- **Gartokkar's offer deadline:** The party must decide by tomorrow whether to accept the Keepers of the Flame job; refusal means future hostility.
-- **Themberchaud's awareness:** Does the current red dragon know it's not in charge? Is it nearing the point where the Keepers must kill and replace it? What service do the Keepers need from the party regarding the dragon?
-- **Gartokkar's ear scars:** Four notches on his ears that don't look self-inflicted — origin and significance unknown.
-- **Something odd about Errde Blackskull:** Thorin noticed something strange about her during their meeting — nature unspecified.
-- **Drow pursuers:** A group of Drow is searching for escaped slaves (the party). Errde can misdirect them, but only if the party cooperates with her.
-- **Dorhun's invitation to Cairngorm Cavern:** What does Dorhun want to discuss? What role do the Stone Giants play in the city's troubles?
-- **The halfling's knowledge and role:** He knows a great deal for an "outsider" — is he truly uninvolved? What else does he know?
-- **Stonespeaker Hgraam:** What is his current status? Where is he? Is he connected to the madness?
+- **What is causing the increase in madness and anti-social behavior in Gracklstugh?** Multiple characters have noted it (the Duergar patrol, the halfling, Dorhun's grief, the two-headed giant's rampage). No underlying cause has been identified; a clan leader may be withholding information.
+- **What is the nature of the Deepking's madness?** He has become detached from reality and his laws are now arbitrary. The connection to the broader madness in the city is unestablished.
+- **Who or what is Droki, and what is he carrying or doing?** Errde believes he is the key to the conspiracy. His links to the Council of Savants and possibly Clan Lairds are alleged but unproven.
+- **What service does Gartokkar Xundorn want from the party?** He did not specify. The offer expires tomorrow.
+- **What is happening with Themberchaud?** Red dragons inevitably reject subservience; the halfling explained the cycle of replacement. Where Themberchaud is in this cycle is unstated but implied to be relevant.
+- **What are the Gray Ghosts, and what is their conflict with the Keepers of the Flame?** Mentioned by the halfling but not explained.
+- **What is "the Crown," and what is its conflict with the Keepers of the Flame?** Mentioned by the halfling but not explained.
+- **What is the conspiracy linking the Council of Savants and possibly Clan Lairds to corruption in the Deepking's court?**
+- **What does Dorhun want to discuss at Cairngorm Cavern?** He extended the invitation but gave no details.
+- **What is the connection between Stonespeaker Hgraam and the two-headed stone giant's madness?** Dorhun and Rihaud are Hgraam's apprentices; the two-headed giant may also be connected. Hgraam's current whereabouts and state are unknown.
+- **What are the four notches on Gartokkar's ears, and who made them?** Zalthir noted they did not appear self-inflicted.
+- **Which faction, if any, should the party ally with?** They have received offers from Keepers of the Flame (Gartokkar) and Stone Guards (Errde); Dorhun has invited them to Cairngorm Cavern. The halfling warned against joining any faction.
+- **What group of Drow is searching for the party as escaped slaves?** Errde knows of them and is offering to conceal the party's presence. The Drow's identity and proximity are unknown.
+- **What "something odd" did Thorin notice about Errde Blackskull?** It is flagged but not elaborated upon.

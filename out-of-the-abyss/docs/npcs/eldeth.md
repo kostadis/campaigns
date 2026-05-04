@@ -1,7 +1,7 @@
 ---
 name: Eldeth
 aliases: []
-source_extracts: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54]
+source_extracts: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55]
 ---
 
 # Eldeth
@@ -9,8 +9,10 @@ source_extracts: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18,
 ## Identity
 - Female shield dwarf, former prisoner at Velkynvelve
 - NPC companion traveling with the party since their escape from drow captivity
-- Skilled tracker, forager, and spelunker; serves as the group's rear guard and trail-concealer
+- Skilled tracker, forager, and spelunker; served as the group's rear guard and trail-concealer
 - First met as a fellow prisoner in the Velkynvelve slave pen
+
+*Also known as: (none).*
 
 ## Personality & Motivations
 - Pragmatic survivalist with deep knowledge of Underdark flora, geology, and travel. Her core goal is reaching the surface—specifically Gauntlygrym, which she claims the Shield Dwarves now hold—and warning the surface world about the demonic incursion.
@@ -28,15 +30,16 @@ source_extracts: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18,
 8. **Continued Travel:** Hid the party's tracks through Faerzress crystal caves over multiple days, worried about environmental disturbances compromising concealment.
 9. **Neverlight Grove:** Descended with Thorin; present during the Circle of Welcome battle but no specific actions noted.
 10. **Blingdenstone:** Volunteered to tackle the ghost problem; helped destroy Vazuk, the tormented deep gnome ghost, arriving at Diggermattock Hall with Jimjar afterward. Identified the geological danger in the Oozing Temple as an underground river breaking through stone.
+11. **Emergence to Surface:** Present at the tunnel mouth when the party reached the surface. Found Thorin and delivered her farewell, explaining that their journey together ends here—she must travel to Mithril Hall to inform the dwarves of what is happening in the Underdark. Recounted their shared history (fighting together, bleeding together, facing abyssal creatures together) and made a sworn promise: after she briefs the lords of Gauntlgrym and Mithril Hall about the Underdark dangers, they will want to speak to Thorin, and he shall be embraced by her clan ("I swear"). When Thorin asked whether he might petition to join her clan, she did not dismiss the idea. Gave practical explanation for why Thorin cannot accompany her directly—clan business and the story needing to be told before the party tells it; implicitly noted that a drow in a hood and a giant-raised dwarf walking into Mithril Hall would complicate the briefing. Extended her hand to Thorin and held it briefly before departing. Her last direction to the party was to head west to Candlekeep.
 
 ## Current Status
-- **Location:** Blingdenstone, at or near Diggermattock Hall
-- **Activities:** Just completed the ghost-elimination mission; available as a companion
+- **Location:** Traveling west toward Mithril Hall
+- **Activities:** Journeying to brief the lords of Gauntlgrym and Mithril Hall on the Underdark threat; has parted ways with the party
 - **Hidden from the party:** Nothing noted
 - **Hidden from Eldeth:** The party holds evidence that Gracklstugh's king conspired with assassins to kill her clan—they have not told her, and revealing it would provoke a violent reaction
 
 ## Relationships
-- **Thorin:** Respects him as a fellow dwarf but remains deeply skeptical of his closeness with giants; not romantically interested despite any perception otherwise
+- **Thorin:** Respects him as a fellow dwarf but remains deeply skeptical of his closeness with giants; not romantically interested despite any perception otherwise. Has sworn to ensure he will be embraced by her clan after she completes her briefings to the dwarven lords. Their relationship ended on warm terms with recognition of shared hardship and mutual respect.
 - **Buppido:** He showed interest in her tracking techniques; she does not appear to reciprocate warmth
 - **Jimjar:** Frequent mission partner (rescue from cave-in, ghost mission together)
 - **Zalthir:** Fellow winch-duty prisoner; he publicly praised her trail-hiding skill
@@ -45,8 +48,9 @@ source_extracts: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18,
 - **Spiderbait / Glabbagool:** Co-volunteers on the Blingdenstone ghost mission
 - **Sarith:** Assigned her to trail-hiding duty; functional working relationship
 - **Duergar / Derro / Orcs:** Open hostility and contempt
-- **Shield Dwarves / Gauntlygrym:** Strong loyalty; considers it home and safe haven
+- **Shield Dwarves / Gauntlygrym / Mithril Hall:** Strong loyalty; considers them home and safe haven; now traveling to brief their lords
 
 ## Arc Score Events
 - **Near-death at Gracklstugh mesa:** Weighed on the party's conscience, made them reconsider destructive options — likely increased party investment in her safety
 - **Discovery of assassination evidence against her clan:** Major unresolved trigger; revealing it will almost certainly provoke a dramatic reaction and potential arc escalation
+- **Departure and sworn promise to Thorin:** Parted ways with the party at the surface; swore to ensure Thorin's embrace by her clan after completing her briefings, creating a narrative hook for future reunion and dwarven faction involvement

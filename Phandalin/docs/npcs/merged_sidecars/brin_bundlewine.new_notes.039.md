@@ -1,0 +1,3 @@
+# New notes for Brin Bundlewine (from dossier_extract_039.md)
+
+Brin (along with Giles) came around the corner during the party's time in Phandalin, having been conducting a fundraiser — a public religious parade through town on behalf of Valphine's Temple of Lathander. He was scarred and sunburnt in patterns consistent with self-flagellation. He was smiling beatifically, with the radiance of a convert who had proven something to himself. Valphine noted faint burn marks tracing his forearms and regarded him with the satisfaction of a priestess watching doctrine take physical form. The townspeople watching the parade appeared unsettled.

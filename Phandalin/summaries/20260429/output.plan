@@ -1,0 +1,169 @@
+
+$ /home/kroussos/worldanvil_pipeline/venv/bin/python \
+  /home/kroussos/src/CampaignGenerator/session_doc.py \
+  /home/kroussos/campaigns/Phandalin/summaries/20260429/session-summary.md \
+  --scene-extractions \
+  /home/kroussos/campaigns/Phandalin/summaries/20260429/scene_extractions_new \
+  --per-scene-output \
+  /home/kroussos/campaigns/Phandalin/summaries/20260429/narration \
+  --plan-only \
+  --no-plan-review \
+  --party \
+  /home/kroussos/campaigns/Phandalin/docs/party.md \
+  --voice-dir \
+  /home/kroussos/campaigns/Phandalin/voice \
+  --characters \
+  Vukradin, Soma, Valphine, Brewbarry \
+  --context \
+  /home/kroussos/campaigns/Phandalin/docs/campaign_state.md \
+  --context \
+  /home/kroussos/campaigns/Phandalin/docs/world_state.md \
+  --context \
+  /home/kroussos/campaigns/Phandalin/docs/party.md\n\n  Recap: session-summary.md (39,334 chars)
+  --scene-extractions implies --by-scene; enabling.
+  Scene extractions: 8 scene(s) from /home/kroussos/campaigns/Phandalin/summaries/20260429/scene_extractions_new
+    1. A Petty Repayment
+    2. Return to Phandalin
+    3. Planning the Next Quest
+    4. Journey into the Woods
+    5. Lore of the Storm God
+    6. The Wildcat Loggers
+    7. The Cursed Clearing
+    8. The Ridge Encounter
+  Context files: 1
+  Voice files: 8 character(s) (valphine_voice_addendum, valphine, soma-voice-addendum, vukradin, soma, soma_new_pipeline, valphine_new_pipeline, brewbarry)
+
+[Pass 1: Consistency check | model: claude-sonnet-4-6]
+============================================================
+  No issues found.
+============================================================
+
+[Pass 2: Enhance structured sections | model: claude-sonnet-4-6]
+============================================================
+## Memorable Moments
+
+**Vukradin sends Adabra six gold pieces via the postal system — five for the debt she claimed he owed, plus one gold piece of interest — using 'organic fair trade gold,' settling the score with maximum pettiness.**
+
+*A pointed and petty response to Adabra's vicious personal attacks at the Druid Council, delivered with Vukradin's characteristic dignity*
+
+> "Now that she's lost, she can have her money back."
+> — Vukradin
+
+> "It was brilliant! You turned everybody — you focused all of Adabra's rage on yourself and then walked out, rendered her arguments pointless and meaningless. She had prepared this whole vicious attack on you, and then, by leaving the field, you diffused it, enabling Soma to step in and to take over. It was brilliant. I haven't seen such brilliant oratory in my entire life. And then to do it on a matter of principle!"
+> — Lyra
+
+*Lyra gushing over Vukradin's dramatic walkout at the Druid Council, framing his principled exit as a masterwork of strategy*
+
+**Brewbarry responds to Jenna Roscoe's condescending pitch about 'civilizing' an Uthgardian barbarian by letting out a loud, deliberate burp, sending her walking away.**
+
+*Jenna Roscoe of the Lord's Alliance pushes too far with her recruitment pitch, earning the most eloquent rebuttal Brewbarry could muster*
+
+> "Despite my looks, I'm not an idiot."
+> — Brewbarry, just before the burp
+
+**Vukradin delivers an impassioned speech about sustainable forestry and fair trade so moving that the illegal loggers put down their axes, burst into tears, and agree to report Tibor Wester's illegal camp to Neverwinter — aided by a natural 20 for a total of 27.**
+
+*Faced with a dispute between novice druids and wildcat loggers, Vukradin turns a potential conflict into a moment of genuine moral transformation. Brewbarry wept, thinking of all the trees he had pulled from the ground with his bare hands.*
+
+> "Voodoo, no touch. That's what Brewbarry remembers."
+> — Brewbarry
+
+*Brewbarry's entire wisdom on the subject of ghastly twig dolls bound with black hair, moments before Vukradin destroys one anyway*
+
+**Vukradin destroys a twig doll and a still-beating pig's heart falls out; destroying the heart causes the dead tree's roots to erupt from the ground, trapping Boney and ensnaring Soma in the cursed clearing.**
+
+*The party ignored Brewbarry's warning and triggered a dark magical trap hidden within the ritual site*
+
+> "Horrible plan. Horrible. We do no touch. That's what Brewbarry said, you're not listening."
+> — Brewbarry, watching Vukradin destroy more dolls after the roots erupt
+
+**Valphine casts Daylight on her holy symbol in the middle of an attempted orc conversion, prompting the Talosian cleric to scream 'Kill the false cleric of Lathander!' and charge — turning a peaceful proselytizing attempt into an all-out battle.**
+
+*The party tried to convert the orc warband to Lathander; Valphine's dramatic light show ended any chance of a peaceful resolution*
+
+> "Kill the false cleric of Lathander! Kill… the drow cleric of Lathander, the abomination! Destroy! Destroy the false god!"
+> — The Talosian Cleric
+
+---
+
+## Consistency Notes
+
+The following issues from the consistency report could not be silently resolved in the text and are flagged for GM verification:
+
+**Boney's owner and nature (Issues 1 & 2).** The party document is unambiguous: Boney is a skeletal horse bonded to Soma, listed under her Items of Significance. The recap consistently describes Boney as "Vukradin's horse." Additionally, the "level-six human warrior sidekick" designation is incompatible with a skeletal horse. The GM should confirm the correct sidekick chassis Boney uses (creature stat block, Expert, or otherwise) and clarify the bond — whether Soma controls Boney in combat or whether the DM has been delegating that to another player for mechanical convenience.
+
+**Potion inventory discrepancy (Issue 3).** The recap describes a "scented potion of healing" of uncertain contents that does not appear in the party document's potion list, which instead records a Potion of Water Breathing and a Potion of Hill Giant Strength not mentioned in the recap. Either the scented potion was acquired during a session not yet reflected in the party document, or the recap is misdescribing one of the listed potions. The Water Breathing and Hill Giant Strength potions should be confirmed as present or expended.
+
+**Sending spell vs. Sending Stones (Issue 5).** The party document lists Sending Stones under both Collective Resources and Vukradin's items. The recap describes the Sending as a spell "available to bards," phrasing that reads as a table-side clarification, suggesting this was questioned during play. It is unresolved whether Vukradin cast the Sending spell from a spell slot or used a Sending Stone. If a stone was used, its reusable/consumable status should be confirmed and the party document updated if needed.
+
+**Valphine's musical performance (Issue 7).** The Scenes section states "Vukradin and Valphine perform a musical show at the tavern." The Summary mentions only Vukradin performing. The party document lists no instrument or performance proficiency for Valphine. The GM should confirm whether Valphine co-performed, provided a Help action for the performance roll, or was otherwise involved — and update her character sheet if a new proficiency or instrument was established at the table.
+
+**Jenna Roscoe's arrival (Issue 8).** The recap implies the party's mention of the Lord's Alliance to Ser Kaelen is what caused Jenna Roscoe to appear and make her pitch. Given that she is an established NPC with prior contact (Extracts 017, 030), it is worth confirming whether she was already present at the Stonehill Tavern, arrived independently, or was specifically sent by or with Ser Kaelen. The answer affects how future interactions with both her and Kaelen should be framed.
+
+**Emerald Enclave / Druid Council / Conclave terminology (Issue 11).** The recap uses "Druid Council," "Conclave," and "Emerald Enclave" to refer to what appears to be the same body. The party document uses "Emerald Enclave" consistently. The GM should confirm whether "Conclave" and "Druid Council" are in-world alternate names for the Emerald Enclave's governing body, or whether they denote distinct structures within it, so that future recaps can use consistent terminology.
+
+**Valphine's drow appearance (Issue 6 — continuity note).** No error, but flagged for future continuity: the Talosian cleric identified Valphine as drow on sight during the ridge encounter. This establishes that her race is visually recognizable to hostile NPCs in the field. Future recaps should not obscure this detail.
+============================================================
+  Enhanced sections saved: /home/kroussos/campaigns/Phandalin/summaries/20260429/narration/enhanced_sections.md
+
+[Pass 3: Narrative plan | 8 scene(s) | model: claude-sonnet-4-6]
+============================================================
+## Scene 1
+narrator: Valphine
+chunks: 1
+scene: A Petty Repayment
+focus: Valphine's drow political instincts and transactional morality make her the sharpest observer of who is owed what, and why it matters.
+
+## Scene 2
+narrator: Brewbarry
+chunks: 1
+scene: Return to Phandalin
+focus: Brewbarry receives the hero's welcome he was denied by his tribe, and the contrast between exile and belonging hits him harder than he will admit.
+
+## Scene 3
+narrator: Vukradin
+chunks: 1
+scene: Planning the Next Quest
+focus: Vukradin must weigh competing obligations — the statue, the mine, the lodge, Kaella — and his principled idealism strains against the party's mounting pragmatism.
+
+## Scene 4
+narrator: Soma
+chunks: 1
+scene: Journey into the Woods
+focus: Soma reads the forest as a living thing and senses, before anyone else does, that something in it has been wounded at the root.
+
+## Scene 5
+narrator: Valphine
+chunks: 1
+scene: Lore of the Storm God
+focus: Valphine's decades of drow theological study let her parse the Talosian doctrine with cold clarity — recognizing fanaticism she once lived adjacent to.
+
+## Scene 6
+narrator: Brewbarry
+chunks: 1
+scene: The Wildcat Loggers
+focus: Brewbarry knows exactly what desperate men cutting wood they shouldn't cut look like, because he has been one of them.
+
+## Scene 7
+narrator: Soma
+chunks: 1
+scene: The Cursed Clearing
+focus: Soma's druidic senses and her staff's resonance make the wrongness of the clearing visceral and personal �� a violation of everything she was trained to protect.
+
+## Scene 8
+narrator: Vukradin
+chunks: 1
+scene: The Ridge Encounter
+focus: Vukradin must negotiate the gap between what he believes and what the situation demands, testing whether his words can hold against something that does not want to be persuaded.
+============================================================
+
+Plan: 8 section(s)
+  1. Valphine         chunks 1–1  [A Petty Repayment]  — Valphine's drow political instincts and transactional morality make her the sharpest observer of who is owed what, and why it matters.
+  2. Brewbarry        chunks 1–1  [Return to Phandalin]  — Brewbarry receives the hero's welcome he was denied by his tribe, and the contrast between exile and belonging hits him harder than he will admit.
+  3. Vukradin         chunks 1–1  [Planning the Next Quest]  — Vukradin must weigh competing obligations ��� the statue, the mine, the lodge, Kaella — and his principled idealism strains against the party's mounting pragmatism.
+  4. Soma             chunks 1–1  [Journey into the Woods]  — Soma reads the forest as a living thing and senses, before anyone else does, that something in it has been wounded at the root.
+  5. Valphine         chunks 1–1  [Lore of the Storm God]  — Valphine's decades of drow theological study let her parse the Talosian doctrine with cold clarity — recognizing fanaticism she once lived adjacent to.
+  6. Brewbarry        chunks 1–1  [The Wildcat Loggers]  — Brewbarry knows exactly what desperate men cutting wood they shouldn't cut look like, because he has been one of them.
+  7. Soma             chunks 1–1  [The Cursed Clearing]  — Soma's druidic senses and her staff's resonance make the wrongness of the clearing visceral and personal — a violation of everything she was trained to protect.
+  8. Vukradin         chunks 1–1  [The Ridge Encounter]  — Vukradin must negotiate the gap between what he believes and what the situation demands, testing whether his words can hold against something that does not want to be persuaded.
+  Plan saved to: /home/kroussos/campaigns/Phandalin/summaries/20260429/narration/plan.md

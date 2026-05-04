@@ -1,0 +1,2837 @@
+{
+  "entities": [
+    {
+      "id": "party_brewbarry",
+      "label": "Brewbarry",
+      "type": "party",
+      "summary": "Goliath Barbarian unjustly exiled from his Uthgardt tribe who bears the Dragon Slayer Sword and is fiercely loyal to Vukradin."
+    },
+    {
+      "id": "party_valphine",
+      "label": "Valphine",
+      "type": "party",
+      "summary": "A drow Cleric of Lathander who founded the Temple of Lathander's Searing Pain of Justice and operates in morally grey contexts."
+    },
+    {
+      "id": "party_soma",
+      "label": "Soma",
+      "type": "party",
+      "summary": "Tortle Druid of the Circle of the Moon who bears Meril's awakened staff and has shifted from naturalism to interventionism."
+    },
+    {
+      "id": "party_vukradin",
+      "label": "Vukradin",
+      "type": "party",
+      "summary": "Aasimar Bard and principled idealist who dreams of building a music studio through conflict-free gold and holds a seat on Phandalin's Privy Council."
+    },
+    {
+      "id": "party_corbin",
+      "label": "Corbin",
+      "type": "party",
+      "summary": "A former bandit and farmer whose village was destroyed, now serving as a reluctant party retainer."
+    },
+    {
+      "id": "npc_boney",
+      "label": "Boney",
+      "type": "npc",
+      "summary": "Undead skeletal horse from the Dragon Barrow who is bonded to Soma, believing her to be Lady Alagondar reincarnated."
+    },
+    {
+      "id": "npc_ser_kaelen",
+      "label": "Ser Kaelen",
+      "type": "npc",
+      "summary": "Order of the Gauntlet field recruiter and party handler in Phandalin who cultivates Vukradin as an Order asset while managing the statue delivery as a fundraising opportunity."
+    },
+    {
+      "id": "npc_harbin_wester",
+      "label": "Harbin Wester",
+      "type": "npc",
+      "summary": "Cowardly but politically savvy Townmaster of Phandalin who established the Privy Council and takes public credit for the party's victories."
+    },
+    {
+      "id": "npc_adabra",
+      "label": "Adabra",
+      "type": "npc",
+      "summary": "Anti-interventionist Emerald Enclave naturalist and midwife who was outvoted at the druid council but left without accepting the verdict and is now mobilizing allies against the party."
+    },
+    {
+      "id": "npc_linene_graywind",
+      "label": "Linene Graywind",
+      "type": "npc",
+      "summary": "Manager of the Lionshield Coster outpost in Phandalin whose bosses have strong interest in planar phenomena."
+    },
+    {
+      "id": "npc_toblen_stonehill",
+      "label": "Toblen Stonehill",
+      "type": "npc",
+      "summary": "Friendly innkeeper of the Stonehill Inn in Phandalin who pays Vukradin for performances and runs betting pools on party survival."
+    },
+    {
+      "id": "npc_daran_edermath",
+      "label": "Daran Edermath",
+      "type": "npc",
+      "summary": "Retired half-elf adventurer who tends an orchard near Phandalin and initially told the party about the cursed lighthouse."
+    },
+    {
+      "id": "npc_brin_bundlewine",
+      "label": "Brin Bundlewine",
+      "type": "npc",
+      "summary": "Founding lay congregant of the Temple of Lathander's Searing Pain of Justice who is renovating Tresendar Manor and conducted a public self-flagellation parade."
+    },
+    {
+      "id": "npc_giles_slipper_shine",
+      "label": "Giles Slipper-Shine",
+      "type": "npc",
+      "summary": "Founding lay congregant of the Temple of Lathander's Searing Pain of Justice who is renovating Tresendar Manor alongside Brin Bundlewine."
+    },
+    {
+      "id": "npc_elmar_barthen",
+      "label": "Elmar Barthen",
+      "type": "npc",
+      "summary": "Friendly proprietor of Barthen's Provisions in Phandalin who introduced the party to Falcon the Hunter."
+    },
+    {
+      "id": "npc_qelline_alderleaf",
+      "label": "Qelline Alderleaf",
+      "type": "npc",
+      "summary": "Farmer near Phandalin who was abandoned by Alphonse the night before their wedding and currently lets Petunia graze on her land for 5sp/week."
+    },
+    {
+      "id": "npc_alphonse_big_al_kalazorn",
+      "label": "Alphonse \"Big Al\" Kalazorn",
+      "type": "npc",
+      "summary": "Retired Sheriff of Triboar and owner of the destroyed Butterskull Ranch who was rescued by the party and is now reconciling with Qelline Alderleaf."
+    },
+    {
+      "id": "npc_lyra",
+      "label": "Lyra",
+      "type": "npc",
+      "summary": "Low-ranking Emerald Enclave leader restored to full good standing after the druid council voted in favor of interventionism."
+    },
+    {
+      "id": "npc_thomas",
+      "label": "Thomas",
+      "type": "npc",
+      "summary": "An Emerald Enclave agent loyal to Lyra who was freed from Kraken Society mind control by the party."
+    },
+    {
+      "id": "npc_marian",
+      "label": "Marian",
+      "type": "npc",
+      "summary": "An Emerald Enclave agent loyal to Lyra who was freed from Kraken Society mind control by the party."
+    },
+    {
+      "id": "npc_zeleen_varnaster",
+      "label": "Zeleen Varnaster",
+      "type": "npc",
+      "summary": "Wererat leader of the Whiskered Gang who contracted to protect Mountain's Toe Gold Mine and was dispatched to retrieve the Earthstone Gem."
+    },
+    {
+      "id": "npc_horia_stonetallow",
+      "label": "Horia Stonetallow",
+      "type": "npc",
+      "summary": "Leader of five shield dwarves at Mountain's Toe Gold Mine who killed Don-Jon Raskin and secretly arranged a fake gem contingency with Brewbarry."
+    },
+    {
+      "id": "npc_dwolin_the_grout",
+      "label": "Dwolin the Grout",
+      "type": "npc",
+      "summary": "Mine foreman at Mountain's Toe Gold Mine who refuses to work without the Earthstone Gem."
+    },
+    {
+      "id": "npc_dazlyn_grayshard",
+      "label": "Dazlyn Grayshard",
+      "type": "npc",
+      "summary": "Grateful dwarf at the Dwarven Excavation ruins who offered sending stones as a reward to the party."
+    },
+    {
+      "id": "npc_norbus_ironrune",
+      "label": "Norbus Ironrune",
+      "type": "npc",
+      "summary": "Grateful dwarf at the Dwarven Excavation ruins who survived the orc attack thanks to the party's warning."
+    },
+    {
+      "id": "npc_teega_the_smith",
+      "label": "Teega the Smith",
+      "type": "npc",
+      "summary": "Former Kraken Society mind-control victim who is recovering and showing signs of ideological wavering after observing Valphine's church."
+    },
+    {
+      "id": "npc_falcon_the_hunter",
+      "label": "Falcon the Hunter",
+      "type": "npc",
+      "summary": "Retired adventurer whose dragonslayer persona is a fabrication; his lodge was seized by Anchorites of Talos and he is now en route to Phandalin seeking reconciliation with Vukradin."
+    },
+    {
+      "id": "npc_sridar",
+      "label": "Sridar",
+      "type": "npc",
+      "summary": "Drow artifact collector who purchased the Talisman of Moesko and offered future collaboration on planar artifact analysis."
+    },
+    {
+      "id": "npc_martisha_vinetalker",
+      "label": "Martisha Vinetalker",
+      "type": "npc",
+      "summary": "Stern and charismatic half-elf owner of the Wayside Inn at the intersection of the High Road and Triboar Trail."
+    },
+    {
+      "id": "npc_xanth",
+      "label": "Xanth",
+      "type": "npc",
+      "summary": "Centaur and old friend of Meril who publicly validated Soma's stewardship of the staff and offered to guide the party to the Anchorites' ritual standing stones."
+    },
+    {
+      "id": "npc_sister_kaella",
+      "label": "Sister Kaella",
+      "type": "npc",
+      "summary": "Deadly assassin-priest and former Carver spymaster who killed Corbin and escaped custody; her whereabouts are unknown."
+    },
+    {
+      "id": "npc_jenna",
+      "label": "Jenna",
+      "type": "npc",
+      "summary": "Lord's Alliance operative in Phandalin who failed to recruit Vukradin and suppresses public knowledge of the Kraken Society."
+    },
+    {
+      "id": "npc_don_jon_raskin",
+      "label": "Don-Jon Raskin",
+      "type": "npc",
+      "summary": "Deceased mine overseer hired by a Neverwinter consortium who was killed by the Stonetallow dwarves after revealing plans to exploit them."
+    },
+    {
+      "id": "npc_meril",
+      "label": "Meril",
+      "type": "npc",
+      "summary": "Soma's druidic mentor who trained her for one year before bequeathing his awakened staff and departing; old friend of Xanth the centaur."
+    },
+    {
+      "id": "npc_lord_cassian_meliame",
+      "label": "Lord Cassian Meliame",
+      "type": "npc",
+      "summary": "Eccentric Neverwinter noble hosting a gala which Elara Seasong Meliame is attending."
+    },
+    {
+      "id": "npc_elara_seasong_meliame",
+      "label": "Elara Seasong Meliame",
+      "type": "npc",
+      "summary": "Wealthy art collector in Neverwinter who is the rightful owner of the blue quartz mermaid statue and is currently attending Lord Cassian Meliame's gala."
+    },
+    {
+      "id": "npc_aletra",
+      "label": "Aletra",
+      "type": "npc",
+      "summary": "Valphine's drow sister who smuggles Midnight Tears poison through the multiverse and escaped Axeholm through a self-opened portal after being blinded by Valphine."
+    },
+    {
+      "id": "npc_lady_alagondar",
+      "label": "Lady Alagondar",
+      "type": "npc",
+      "summary": "Ghost who appeared at the Dragon Barrow after the Dragon Slayer Sword was retrieved and pointed sorrowfully toward the Ice Spire Mountains."
+    },
+    {
+      "id": "npc_cryovain",
+      "label": "Cryovain",
+      "type": "npc",
+      "summary": "White dragon who terrorized the region around Phandalin and was killed by the party on the rooftop of Icespire Hold."
+    },
+    {
+      "id": "npc_the_carver",
+      "label": "The Carver",
+      "type": "npc",
+      "summary": "Destroyed alien intelligence that inhabited an obsidian sword and attempted to dominate Cryovain; dissipated when the dragon was killed at Icespire Hold."
+    },
+    {
+      "id": "npc_moesko",
+      "label": "Moesko",
+      "type": "npc",
+      "summary": "Anchorite of Talos who occupied the Tower of Storms and was killed by Soma; his heart was subsequently destroyed by Vukradin."
+    },
+    {
+      "id": "npc_borg_the_hammer",
+      "label": "Borg the Hammer",
+      "type": "npc",
+      "summary": "Deceased half-orc enforcer who destroyed Butterskull Ranch and led the ambush there; killed by the party."
+    },
+    {
+      "id": "npc_jax",
+      "label": "Jax",
+      "type": "npc",
+      "summary": "Deceased lieutenant of the Carver who led the ambush at the Dragon Barrow clearing; killed by the party."
+    },
+    {
+      "id": "npc_sylvine_wintermoon",
+      "label": "Sylvine Wintermoon",
+      "type": "npc",
+      "summary": "Bandit and con artist who researched Vukradin's reputation to exploit it, attacked the party at Icespire Hold, and fled after being defeated."
+    },
+    {
+      "id": "npc_runa",
+      "label": "Runa",
+      "type": "npc",
+      "summary": "Sylvine Wintermoon's sister and fellow Stone-Cold Reaver whose fate after the Icespire Hold skirmish is unknown."
+    },
+    {
+      "id": "npc_delaan_winterhound",
+      "label": "Delaan Winterhound",
+      "type": "npc",
+      "summary": "Emerald Enclave figure who brought a Treant army into the War of the Dragons at Malfire Morazana's urging."
+    },
+    {
+      "id": "npc_lord_neverember",
+      "label": "Lord Neverember",
+      "type": "npc",
+      "summary": "Lord of Neverwinter pursuing progressive reforms who authorized tax-free plunder for adventurers pacifying the hinterland."
+    },
+    {
+      "id": "npc_milo_goodbarrel",
+      "label": "Milo Goodbarrel",
+      "type": "npc",
+      "summary": "Order of the Gauntlet hero who led the strike force that stopped the Tiamat ritual during the War of the Dragon."
+    },
+    {
+      "id": "npc_the_chief_accountant",
+      "label": "The Chief Accountant",
+      "type": "npc",
+      "summary": "An Axeholm ghost whose spirit was put to rest after all accounts were settled."
+    },
+    {
+      "id": "npc_shrimpy",
+      "label": "Shrimpy",
+      "type": "npc",
+      "summary": "Captured orc prisoner displaced from the Ice Spire who was delivered to Harbin Wester for imprisonment in Phandalin."
+    },
+    {
+      "id": "npc_king_gnerkli",
+      "label": "King Gnerkli",
+      "type": "npc",
+      "summary": "Co-ruler of Gnomengarde who was freed from crisis paralysis and rewarded the party with the Hat of Wizardry."
+    },
+    {
+      "id": "npc_king_korboz",
+      "label": "King Korboz",
+      "type": "npc",
+      "summary": "Co-ruler of Gnomengarde whose sanity was restored after the mimic was killed, though he now argues with Gnerkli over seniority."
+    },
+    {
+      "id": "npc_fibblestib",
+      "label": "Fibblestib",
+      "type": "npc",
+      "summary": "Enthusiastic gnome inventor at Gnomengarde who leads gnomish invention projects."
+    },
+    {
+      "id": "npc_dabbledob",
+      "label": "Dabbledob",
+      "type": "npc",
+      "summary": "Enthusiastic gnome inventor at Gnomengarde who noted music has helped in some circumstances."
+    },
+    {
+      "id": "npc_backes_dunfield",
+      "label": "Backes Dunfield",
+      "type": "npc",
+      "summary": "Staff member at the Wayside Inn on the corner of the High Road and Triboar Trail."
+    },
+    {
+      "id": "npc_cooragh_struckt",
+      "label": "Cooragh Struckt",
+      "type": "npc",
+      "summary": "Staff member at the Wayside Inn on the corner of the High Road and Triboar Trail."
+    },
+    {
+      "id": "npc_miral",
+      "label": "Miral",
+      "type": "npc",
+      "summary": "Sea elf banshee at the Tower of Storms whose spirit was laid to rest after the party returned her opalescent conch."
+    },
+    {
+      "id": "npc_pog",
+      "label": "Pog",
+      "type": "npc",
+      "summary": "A Gnomengarde gnome guard who granted the party entry after debate."
+    },
+    {
+      "id": "npc_ulla",
+      "label": "Ulla",
+      "type": "npc",
+      "summary": "A Gnomengarde gnome guard who granted the party entry alongside Pog."
+    },
+    {
+      "id": "npc_facktor",
+      "label": "Facktor\u00e9",
+      "type": "npc",
+      "summary": "Gnomengarde inventor who fled after the party disabled her autoloading crossbow; current status uncertain."
+    },
+    {
+      "id": "npc_skippy",
+      "label": "Skippy",
+      "type": "npc",
+      "summary": "A captured bandit who surrendered and was last seen at a remote camp with Corbin."
+    },
+    {
+      "id": "npc_jarek",
+      "label": "Jarek",
+      "type": "npc",
+      "summary": "The groom who accompanied Elara the merchant and heard a non-auditory mental hum before an orc ambush."
+    },
+    {
+      "id": "npc_elara_merchant",
+      "label": "Elara (merchant)",
+      "type": "npc",
+      "summary": "A merchant rescued by the party from an orc attack who rewarded Valphine with gold on behalf of Lathander."
+    },
+    {
+      "id": "npc_the_cult_fanatic",
+      "label": "The Cult Fanatic",
+      "type": "npc",
+      "summary": "A deceased Kraken Society operative who mind-controlled the Emerald Enclave patrol and spoke of a 'rising current toward Neverwinter.'"
+    },
+    {
+      "id": "npc_halia_thornton",
+      "label": "Halia Thornton",
+      "type": "npc",
+      "summary": "The manager of Phandalin's Miner's Exchange and active Privy Council member."
+    },
+    {
+      "id": "npc_garaele",
+      "label": "Garaele",
+      "type": "npc",
+      "summary": "A Phandalin resident near the Shrine of Luck who has not been directly interacted with recently."
+    },
+    {
+      "id": "faction_order_of_the_gauntlet",
+      "label": "Order of the Gauntlet",
+      "type": "faction",
+      "summary": "Depleted knightly faction opposing evil that relies on true believers and is allegedly funded in part by House Margaster."
+    },
+    {
+      "id": "faction_emerald_enclave",
+      "label": "Emerald Enclave",
+      "type": "faction",
+      "summary": "Druidic organization split between an interventionist faction led by Lyra and an anti-interventionist naturalist faction led by Adabra."
+    },
+    {
+      "id": "faction_lord_s_alliance",
+      "label": "Lord's Alliance",
+      "type": "faction",
+      "summary": "Political faction maintaining law and order under Lord Neverember that uses adventurers as proxies and suppresses knowledge of the Kraken Society."
+    },
+    {
+      "id": "faction_kraken_society",
+      "label": "Kraken Society",
+      "type": "faction",
+      "summary": "Secretive psionic organization seeking to access the drowned gate beneath Yllyn and expand its influence toward Neverwinter."
+    },
+    {
+      "id": "faction_cult_of_talos",
+      "label": "Cult of Talos",
+      "type": "faction",
+      "summary": "Shapeshifting Anchorites of Talos conducting dark rites at the Circle of Thunder and occupying Falcon the Hunter's Lodge."
+    },
+    {
+      "id": "faction_house_margaster",
+      "label": "House Margaster",
+      "type": "faction",
+      "summary": "Waterdhavian noble house with alleged ties to evil cults that allegedly funds the Order of the Gauntlet and is actively moving to intercept the mermaid statue."
+    },
+    {
+      "id": "faction_house_sartorra",
+      "label": "House Sartorra",
+      "type": "faction",
+      "summary": "A drow criminal organization running interdimensional poison trafficking through the multiverse, with Aletra as a field operative."
+    },
+    {
+      "id": "faction_stonetallow_clan",
+      "label": "Stonetallow Clan",
+      "type": "faction",
+      "summary": "Shield dwarf mining clan led by Horia Stonetallow that handles all mining at Mountain's Toe Gold Mine under a 20% contract."
+    },
+    {
+      "id": "faction_whiskered_gang",
+      "label": "Whiskered Gang",
+      "type": "faction",
+      "summary": "Wererat gang led by Zeleen Varnaster that contracted to protect Mountain's Toe Gold Mine in exchange for shelter and cheese shipments."
+    },
+    {
+      "id": "faction_meliame_family",
+      "label": "Meliame Family",
+      "type": "faction",
+      "summary": "Wealthy art collectors in Neverwinter including Lord Cassian and Elara Seasong Meliame, rightful recipients of the blue quartz mermaid statue."
+    },
+    {
+      "id": "faction_phandalin_privy_council",
+      "label": "Phandalin Privy Council",
+      "type": "faction",
+      "summary": "Phandalin's newly formed governing body chaired by Harbin Wester and including Vukradin among its members."
+    },
+    {
+      "id": "faction_stone_cold_reavers",
+      "label": "Stone-Cold Reavers",
+      "type": "faction",
+      "summary": "A mercenary company led by Sylvine Wintermoon that challenged the party for the dragon hoard at Icespire Hold."
+    },
+    {
+      "id": "faction_rot_tusk_clan",
+      "label": "Rot-Tusk Clan",
+      "type": "faction",
+      "summary": "Ogres in an ongoing blood feud with the party after multiple of their members were killed in various encounters."
+    },
+    {
+      "id": "faction_black_lion_tribe",
+      "label": "Black Lion Tribe",
+      "type": "faction",
+      "summary": "An Uthgardt tribe that destroyed Corbin's village of Greenmeadow and killed his family."
+    },
+    {
+      "id": "faction_lionshield_coster",
+      "label": "Lionshield Coster",
+      "type": "faction",
+      "summary": "A trading company with a Phandalin outpost managed by Linene Graywind whose leadership has strong interest in planar phenomena."
+    },
+    {
+      "id": "faction_druidic_conclave",
+      "label": "Druidic Conclave",
+      "type": "faction",
+      "summary": "Adabra's mobilized gathering of druid allies formally challenging Soma's custody of Meril's Staff."
+    },
+    {
+      "id": "location_phandalin",
+      "label": "Phandalin",
+      "type": "location",
+      "summary": "Small mining town in the Sword Mountain foothills governed by a Privy Council; the party's home base and site of the Temple of Lathander."
+    },
+    {
+      "id": "location_neverwinter",
+      "label": "Neverwinter",
+      "type": "location",
+      "summary": "Major city under Lord Neverember's reforming governance and the party's current destination for the statue delivery and gala."
+    },
+    {
+      "id": "location_icespire_hold",
+      "label": "Icespire Hold",
+      "type": "location",
+      "summary": "Mountain fortress that was Cryovain's lair where the Carver attempted to dominate the dragon; contains a frozen treasure hoard and an unexplored secret door."
+    },
+    {
+      "id": "location_mountain_s_toe_gold_mine",
+      "label": "Mountain's Toe Gold Mine",
+      "type": "location",
+      "summary": "Gold mine 15 miles NE of Phandalin in which the party holds a financial stake; currently idle pending retrieval of the Earthstone Gem."
+    },
+    {
+      "id": "location_tresendar_manor",
+      "label": "Tresendar Manor",
+      "type": "location",
+      "summary": "Former manor in Phandalin converted by Valphine into the Temple of Lathander's Searing Pain of Justice."
+    },
+    {
+      "id": "location_whispering_grove",
+      "label": "Whispering Grove",
+      "type": "location",
+      "summary": "A grove in the Whispering Wood where a planar rift expanded after a failed sealing ritual and an unknown entity harvests materials."
+    },
+    {
+      "id": "location_axeholm",
+      "label": "Axeholm",
+      "type": "location",
+      "summary": "Ancient dwarven fortress south of Phandalin secured by the party as a last-resort refuge after clearing planar anomalies caused by Aletra's Spatial Rectification Calliope."
+    },
+    {
+      "id": "location_dragon_barrow",
+      "label": "Dragon Barrow",
+      "type": "location",
+      "summary": "Ancient burial mound where the party retrieved the Dragon Slayer Sword, defeated will-o'-wisps, and encountered Lady Alagondar's ghost."
+    },
+    {
+      "id": "location_tower_of_storms",
+      "label": "Tower of Storms",
+      "type": "location",
+      "summary": "Lighthouse on the coast where Moesko's curse was lifted; its ships were salvaged for the mermaid statue and other treasures."
+    },
+    {
+      "id": "location_woodland_manse",
+      "label": "Woodland Manse",
+      "type": "location",
+      "summary": "Forest stronghold currently occupied by the Cult of Talos from which the party was driven away by fireballs and lightning."
+    },
+    {
+      "id": "location_circle_of_thunder",
+      "label": "Circle of Thunder",
+      "type": "location",
+      "summary": "Standing-stone ritual site atop a cave-ridden hill in Neverwinter Wood where Anchorites of Talos perform dark rites; location provided by Xanth."
+    },
+    {
+      "id": "location_falcon_s_hunting_lodge",
+      "label": "Falcon's Hunting Lodge",
+      "type": "location",
+      "summary": "Falcon the Hunter's former lodge now occupied by Anchorites of Talos after a Gorthok-related counterattack."
+    },
+    {
+      "id": "location_gnomengarde",
+      "label": "Gnomengarde",
+      "type": "location",
+      "summary": "Gnomish hold in the Sword Mountains caves ruled by the destabilized dual monarchy of Korboz and Gnerkli."
+    },
+    {
+      "id": "location_umbrage_hill",
+      "label": "Umbrage Hill",
+      "type": "location",
+      "summary": "Hilltop location of Adabra's stone windmill where the party killed a manticore and convinced Adabra to return to Phandalin."
+    },
+    {
+      "id": "location_wayside_inn",
+      "label": "Wayside Inn",
+      "type": "location",
+      "summary": "Inn at the intersection of the High Road and Triboar Trail staffed by Martisha Vinetalker, where Teega the Smith intends to return."
+    },
+    {
+      "id": "location_shrine_of_savras",
+      "label": "Shrine of Savras",
+      "type": "location",
+      "summary": "Former home of the Whiskered Gang now occupied by approximately 16 orcs and several ogres, suggested as a source of dragon intelligence."
+    },
+    {
+      "id": "location_butterskull_ranch",
+      "label": "Butterskull Ranch",
+      "type": "location",
+      "summary": "Alphonse \"Big Al\" Kalazorn's ranch that was burned down by Borg the Hammer; Alphonse and Petunia were rescued from it."
+    },
+    {
+      "id": "location_drowned_gate_beneath_yllyn",
+      "label": "Drowned Gate beneath Yllyn",
+      "type": "location",
+      "summary": "An Underdark location described in a stolen inscription that the Kraken Society's rogue faction seeks to excavate."
+    },
+    {
+      "id": "location_stonehill_inn",
+      "label": "Stonehill Inn",
+      "type": "location",
+      "summary": "Inn in Phandalin run by Toblen Stonehill where the party regularly stays and Vukradin performs music."
+    },
+    {
+      "id": "location_temple_of_abbathor_ruins",
+      "label": "Temple of Abbathor Ruins",
+      "type": "location",
+      "summary": "Ancient dwarven excavation ruins southwest of Phandalin where Dazlyn Grayshard and Norbus Ironrune are working."
+    },
+    {
+      "id": "plot_druid_conclave_defense",
+      "label": "Druid Conclave Defense",
+      "type": "plot",
+      "summary": "An urgent plot where Adabra mobilizes druidic allies to formally challenge Soma's custody of Meril's Staff at a conclave."
+    },
+    {
+      "id": "plot_earthstone_gem_recovery",
+      "label": "Earthstone Gem Recovery",
+      "type": "plot",
+      "summary": "An urgent plot to recover the Earthstone Gem from orc-controlled territory so Mountain's Toe Mine can resume operations."
+    },
+    {
+      "id": "plot_whispering_grove_planar_rift",
+      "label": "Whispering Grove Planar Rift",
+      "type": "plot",
+      "summary": "A high-priority plot involving an expanding planar rift being exploited by an unknown entity harvesting materials from the grove."
+    },
+    {
+      "id": "plot_woodland_manse_clearance",
+      "label": "Woodland Manse Clearance",
+      "type": "plot",
+      "summary": "A high-priority quest to eradicate the Anchorites of Talos from the Woodland Manse accepted twice by the party."
+    },
+    {
+      "id": "plot_circle_of_thunder_investigation",
+      "label": "Circle of Thunder Investigation",
+      "type": "plot",
+      "summary": "A high-priority quest to disrupt dark rites performed by half-orc Anchorites of Talos at a standing stone circle."
+    },
+    {
+      "id": "plot_kraken_society_drowned_gate_operation",
+      "label": "Kraken Society Drowned Gate Operation",
+      "type": "plot",
+      "summary": "An elevated threat plot involving the Kraken Society's attempt to excavate a drowned gate beneath Yllyn in the Underdark."
+    },
+    {
+      "id": "plot_blue_quartz_mermaid_statue_delivery",
+      "label": "Blue Quartz Mermaid Statue Delivery",
+      "type": "plot",
+      "summary": "A moderate quest to deliver a recovered statue to Elara Seasong Meliame in Neverwinter before House Margaster agents intercept it."
+    },
+    {
+      "id": "plot_aletra_house_sartorra_retaliation",
+      "label": "Aletra / House Sartorra Retaliation",
+      "type": "plot",
+      "summary": "A moderate threat plot involving Aletra's escape and her unnamed boss's likely retaliation against the party for disrupting the poison operation."
+    },
+    {
+      "id": "arc_score_planar_distortion_score",
+      "label": "Planar Distortion Score",
+      "type": "arc_score",
+      "summary": "Threat tracker measuring regional planar instability, currently estimated at 7 with next threshold at 9."
+    },
+    {
+      "id": "arc_score_kraken_society_echoes_score",
+      "label": "Kraken Society Echoes Score",
+      "type": "arc_score",
+      "summary": "A HIGH threat tracker measuring the Kraken Society's expanding influence and progress toward the drowned gate operation."
+    },
+    {
+      "id": "arc_score_cult_of_talos_score",
+      "label": "Cult of Talos Score",
+      "type": "arc_score",
+      "summary": "An ELEVATED threat tracker measuring the Anchorites' progress toward completing their ritual at the Circle of Thunder."
+    },
+    {
+      "id": "arc_score_druidic_conclave_pressure_score",
+      "label": "Druidic Conclave Pressure Score",
+      "type": "arc_score",
+      "summary": "A RISING threat tracker measuring Adabra's progress toward holding a formal conclave vote on Soma's staff custody."
+    },
+    {
+      "id": "arc_score_aletra_house_sartorra_score",
+      "label": "Aletra / House Sartorra Score",
+      "type": "arc_score",
+      "summary": "An ACTIVE threat tracker measuring House Sartorra's likely retaliation for the lost poison cargo and destroyed planar machine."
+    },
+    {
+      "id": "arc_score_zeleen_performance_score",
+      "label": "Zeleen Performance Score",
+      "type": "arc_score",
+      "summary": "An UNCERTAIN tracker measuring whether the Whiskered Gang will successfully retrieve the Earthstone Gem from orc territory."
+    },
+    {
+      "id": "arc_score_iymrith_blue_dragon_score",
+      "label": "Iymrith / Blue Dragon Score",
+      "type": "arc_score",
+      "summary": "A LATENT threat tracker measuring whether the Cult of Talos will acquire Iymrith artifacts and the dragon will resurface."
+    },
+    {
+      "id": "party_valphine_sotorra",
+      "label": "Valphine Sotorra",
+      "type": "party",
+      "summary": "Drow Cleric of Lathander who founded the Temple of Lathander's Searing Pain of Justice and operates with covert drow political instincts."
+    },
+    {
+      "id": "npc_aldric_stone_path",
+      "label": "Aldric Stone Path",
+      "type": "npc",
+      "summary": "Adabra's most loyal Emerald Enclave ally who was publicly discredited at the council when he could not answer Soma's challenge on substance."
+    },
+    {
+      "id": "npc_corbin",
+      "label": "Corbin",
+      "type": "npc",
+      "summary": "Former bandit recruited as a party retainer who was killed by Sister Kaella while guarding her."
+    },
+    {
+      "id": "npc_locutus",
+      "label": "Locutus",
+      "type": "npc",
+      "summary": "Deceased operative involved in Borg the Hammer's assassination plot who was killed by Sister Kaella."
+    },
+    {
+      "id": "npc_reidoth",
+      "label": "Reidoth",
+      "type": "npc",
+      "summary": "Nominal head of the local Emerald Enclave chapter whose deliberate absence was exploited by Adabra to stack the council vote."
+    },
+    {
+      "id": "npc_grundar_quartzvein",
+      "label": "Grundar Quartzvein",
+      "type": "npc",
+      "summary": "True leader of the Svirfneblin rebellion who seeks to retrieve his brother Brundar from the Demonweb Pits; his brother was imprisoned there by House Sotorra."
+    },
+    {
+      "id": "faction_anchorites_of_talos",
+      "label": "Anchorites of Talos",
+      "type": "faction",
+      "summary": "Shapeshifting cultists of Talos who occupy the Woodland Manse and Falcon the Hunter's Lodge and are blighting Neverwinter Wood."
+    },
+    {
+      "id": "faction_house_sotorra",
+      "label": "House Sotorra",
+      "type": "faction",
+      "summary": "Drow noble house that operates illegal interdimensional Midnight Tears poison trade and imprisoned Grundar Quartzvein's brother in the Demonweb Pits."
+    },
+    {
+      "id": "faction_rot_tusk_ogres",
+      "label": "Rot-Tusk Ogres",
+      "type": "faction",
+      "summary": "Ogre tribe that holds a blood feud against the party after losing several members to them."
+    },
+    {
+      "id": "faction_temple_of_lathander_s_searing_pain_of_justice",
+      "label": "Temple of Lathander's Searing Pain of Justice",
+      "type": "faction",
+      "summary": "Pain-focused Lathanderite temple founded by Valphine at Tresendar Manor in Phandalin with Brin Bundlewine and Giles Slipper-Shine as founding congregants."
+    },
+    {
+      "id": "faction_privy_council_of_phandalin",
+      "label": "Privy Council of Phandalin",
+      "type": "faction",
+      "summary": "Governing council of Phandalin established by Harbin Wester with members including Vukradin, Toblen, Barthen, Halia, Linene, and Adabra."
+    },
+    {
+      "id": "faction_mountain_s_toe_gold_mine_operation",
+      "label": "Mountain's Toe Gold Mine Operation",
+      "type": "faction",
+      "summary": "Tripartite mine operation involving the party (Don-Jon's share), the Stonetallow dwarves (mining), and the Whiskered Gang (protection) that is currently idle awaiting the Earthstone Gem."
+    },
+    {
+      "id": "location_whispering_wood_whispering_grove",
+      "label": "Whispering Wood / Whispering Grove",
+      "type": "location",
+      "summary": "Forest afflicted by an expanding planar rift where the ritual to seal the rift failed and a phased puppet-creature has been observed harvesting materials."
+    },
+    {
+      "id": "location_falcon_the_hunter_s_hunting_lodge",
+      "label": "Falcon the Hunter's Hunting Lodge",
+      "type": "location",
+      "summary": "Retired adventurer's lodge currently overrun by Anchorites of Talos and their orc allies."
+    },
+    {
+      "id": "location_druid_council_grove",
+      "label": "Druid Council Grove",
+      "type": "location",
+      "summary": "Glade where the Emerald Enclave council convened, ruled in favor of interventionism, and restored Lyra to good standing."
+    },
+    {
+      "id": "location_neverwinter_wood",
+      "label": "Neverwinter Wood",
+      "type": "location",
+      "summary": "Forest overrun by orcs allied with Anchorites of Talos where dark rites are performed at standing stones and farmers are being displaced."
+    },
+    {
+      "id": "location_leilon",
+      "label": "Leilon",
+      "type": "location",
+      "summary": "Coastal settlement referenced in Miral's warning that 'the true storm gathers not in the sky, but in the depths below Leilon.'"
+    },
+    {
+      "id": "location_yllyn",
+      "label": "Yllyn",
+      "type": "location",
+      "summary": "Location in the Underdark containing a 'drowned gate' that is the primary target of the Kraken Society's regional operations."
+    },
+    {
+      "id": "location_glacier_of_whispers",
+      "label": "Glacier of Whispers",
+      "type": "location",
+      "summary": "Violet glacier with silent screaming faces trapped in ice that emits psychic pressure; the Carver's trail crossed it."
+    },
+    {
+      "id": "location_dwarven_excavation",
+      "label": "Dwarven Excavation",
+      "type": "location",
+      "summary": "Ruins near Phandalin where Dazlyn Grayshard and Norbus Ironrune were warned about Cryovain and defended from an orc attack by the party."
+    },
+    {
+      "id": "plot_statue_delivery_to_elara_seasong_meliame",
+      "label": "Statue Delivery to Elara Seasong Meliame",
+      "type": "plot",
+      "summary": "The party must deliver the blue quartz mermaid statue to Elara at Lord Cassian Meliame's gala in Neverwinter while evading House Margaster interception agents."
+    },
+    {
+      "id": "plot_kraken_society_drowned_gate_beneath_yllyn",
+      "label": "Kraken Society / Drowned Gate Beneath Yllyn",
+      "type": "plot",
+      "summary": "The Kraken Society seeks to access the drowned gate beneath Yllyn in the Underdark while expanding psionic recruitment on the Sword Coast."
+    },
+    {
+      "id": "plot_anchorites_of_talos_threat",
+      "label": "Anchorites of Talos Threat",
+      "type": "plot",
+      "summary": "The Anchorites of Talos occupy the Woodland Manse and Falcon's Lodge, perform dark rites in Neverwinter Wood, and must be eradicated to save farming communities."
+    },
+    {
+      "id": "plot_mountain_s_toe_earthstone_gem",
+      "label": "Mountain's Toe Earthstone Gem",
+      "type": "plot",
+      "summary": "The Whiskered Gang has been dispatched to retrieve the Earthstone Gem from an orc-controlled forest so the gold mine can resume operations."
+    },
+    {
+      "id": "plot_sister_kaella_at_large",
+      "label": "Sister Kaella at Large",
+      "type": "plot",
+      "summary": "Sister Kaella escaped custody after killing Corbin and her whereabouts and intentions are unknown, posing a continued threat especially to Valphine."
+    },
+    {
+      "id": "plot_planar_rift_at_whispering_grove",
+      "label": "Planar Rift at Whispering Grove",
+      "type": "plot",
+      "summary": "The failed sealing ritual worsened the planar rift at Whispering Grove; a phased puppet-creature directed by an unknown intelligence is harvesting materials there."
+    },
+    {
+      "id": "plot_aletra_at_large",
+      "label": "Aletra at Large",
+      "type": "plot",
+      "summary": "Valphine's drow sister escaped Axeholm and continues smuggling Midnight Tears poison for an unnamed boss while recovering from her blinding."
+    },
+    {
+      "id": "plot_adabra_s_opposition",
+      "label": "Adabra's Opposition",
+      "type": "plot",
+      "summary": "Adabra was politically defeated at the Emerald Enclave council but left without accepting the verdict and is now mobilizing druid allies against the party on a different battlefield."
+    },
+    {
+      "id": "plot_frozen_treasure_hoard_at_icespire_hold",
+      "label": "Frozen Treasure Hoard at Icespire Hold",
+      "type": "plot",
+      "summary": "Approximately 3,000 gp is fused in ice and residium from Cryovain's hoard and requires a planar theorist to separate; Vukradin is tracking the ethical obligation to find rightful owners."
+    },
+    {
+      "id": "plot_woodland_manse_eradication",
+      "label": "Woodland Manse Eradication",
+      "type": "plot",
+      "summary": "The party retreated from the Woodland Manse under overwhelming force and the Cult of Talos still controls it; the quest remains incomplete."
+    },
+    {
+      "id": "plot_falcon_the_hunter_s_lodge_reclamation",
+      "label": "Falcon the Hunter's Lodge Reclamation",
+      "type": "plot",
+      "summary": "The party has a standing offer to reclaim Falcon's lodge from the Anchorites of Talos in exchange for special wood for Vukradin's studio and a music venue partnership."
+    },
+    {
+      "id": "plot_zax_unaccounted_for",
+      "label": "Zax Unaccounted For",
+      "type": "plot",
+      "summary": "Zax, one of the Carver's three lieutenants, is unaccounted for and their status and location remain unknown."
+    },
+    {
+      "id": "plot_brundar_s_echo_grundar_quartzvein",
+      "label": "Brundar's Echo / Grundar Quartzvein",
+      "type": "plot",
+      "summary": "Grundar Quartzvein seeks to retrieve his brother Brundar from the Demonweb Pits where he was imprisoned by House Sotorra; the arc has not yet activated."
+    },
+    {
+      "id": "plot_miral_s_warning_storm_below_leilon",
+      "label": "Miral's Warning \u2014 Storm Below Leilon",
+      "type": "plot",
+      "summary": "The banshee Miral warned that the true storm gathers in the depths below Leilon; this threat has not been investigated."
+    },
+    {
+      "id": "plot_meril_s_staff_mystery",
+      "label": "Meril's Staff Mystery",
+      "type": "plot",
+      "summary": "Meril's staff is losing leaves while gaining power and Meril's current location and the reason he chose Soma after only one year of training remain unexplained."
+    },
+    {
+      "id": "plot_rightful_owners_of_shipwreck_treasures",
+      "label": "Rightful Owners of Shipwreck Treasures",
+      "type": "plot",
+      "summary": "Candlekeep research identified the owners of shipwreck treasures recovered from the Tower of Storms but the return process is described as not straightforward."
+    },
+    {
+      "id": "plot_house_margaster_order_of_the_gauntlet_letter",
+      "label": "House Margaster / Order of the Gauntlet Letter",
+      "type": "plot",
+      "summary": "An anonymous letter from Jenna alleges the Order of the Gauntlet accepts funding from House Margaster, which has rumored cult connections; the claim is unverified."
+    },
+    {
+      "id": "plot_obsidian_sword_rightful_owner",
+      "label": "Obsidian Sword Rightful Owner",
+      "type": "plot",
+      "summary": "Vukradin holds the Carver's obsidian sword with its mental amplifier gem and insists on returning it to its rightful owner, whose identity has not yet been confirmed in sessions."
+    },
+    {
+      "id": "arc_score_kraken_society_echoes",
+      "label": "Kraken Society Echoes",
+      "type": "arc_score",
+      "summary": "Threat tracker measuring Kraken Society encroachment, currently estimated at 6\u20137 with next threshold at 8."
+    },
+    {
+      "id": "arc_score_brundar_s_echo",
+      "label": "Brundar's Echo",
+      "type": "arc_score",
+      "summary": "Threat tracker for Grundar Quartzvein's revenge arc, currently at 0 with no in-play activity detected yet."
+    },
+    {
+      "id": "arc_score_talosian_threat_score",
+      "label": "Talosian Threat Score",
+      "type": "arc_score",
+      "summary": "Threat tracker measuring Anchorites of Talos escalation, currently estimated at 4\u20135 with next threshold at 6."
+    },
+    {
+      "id": "arc_score_searing_dawn",
+      "label": "Searing Dawn",
+      "type": "arc_score",
+      "summary": "Valphine's personal arc score tracking her spreading of Lathander's pain-as-purification doctrine, currently estimated at 14+."
+    },
+    {
+      "id": "arc_score_meril_s_legacy",
+      "label": "Meril's Legacy",
+      "type": "arc_score",
+      "summary": "Soma's personal arc score tracking her growth as a discerning interventionist worthy of Meril's staff, currently estimated at 7\u20138."
+    },
+    {
+      "id": "arc_score_thistle_s_echo",
+      "label": "Thistle's Echo",
+      "type": "arc_score",
+      "summary": "Brewbarry's personal arc score tracking his paranoid Uthgardt instincts and tendency to shatter illusions through brute force."
+    }
+  ],
+  "edges": [
+    {
+      "source": "party_brewbarry",
+      "target": "party_vukradin",
+      "label": "devoted to"
+    },
+    {
+      "source": "party_brewbarry",
+      "target": "location_phandalin",
+      "label": "located in"
+    },
+    {
+      "source": "party_brewbarry",
+      "target": "faction_order_of_the_gauntlet",
+      "label": "hostile to"
+    },
+    {
+      "source": "party_brewbarry",
+      "target": "npc_horia_stonetallow",
+      "label": "secret co-conspirator with"
+    },
+    {
+      "source": "party_brewbarry",
+      "target": "plot_druid_conclave_defense",
+      "label": "involved in"
+    },
+    {
+      "source": "party_valphine",
+      "target": "location_tresendar_manor",
+      "label": "controls"
+    },
+    {
+      "source": "party_valphine",
+      "target": "npc_aletra",
+      "label": "enemy of"
+    },
+    {
+      "source": "party_valphine",
+      "target": "npc_sister_kaella",
+      "label": "allied with"
+    },
+    {
+      "source": "party_valphine",
+      "target": "location_phandalin",
+      "label": "located in"
+    },
+    {
+      "source": "party_valphine",
+      "target": "faction_house_sartorra",
+      "label": "enemy of"
+    },
+    {
+      "source": "party_soma",
+      "target": "npc_meril",
+      "label": "trained by"
+    },
+    {
+      "source": "party_soma",
+      "target": "npc_adabra",
+      "label": "in conflict with"
+    },
+    {
+      "source": "party_soma",
+      "target": "npc_boney",
+      "label": "bonded with"
+    },
+    {
+      "source": "party_soma",
+      "target": "plot_druid_conclave_defense",
+      "label": "central to"
+    },
+    {
+      "source": "party_soma",
+      "target": "plot_whispering_grove_planar_rift",
+      "label": "involved in"
+    },
+    {
+      "source": "party_soma",
+      "target": "location_phandalin",
+      "label": "located in"
+    },
+    {
+      "source": "party_soma",
+      "target": "faction_emerald_enclave",
+      "label": "aligned with"
+    },
+    {
+      "source": "party_vukradin",
+      "target": "faction_order_of_the_gauntlet",
+      "label": "associate member of"
+    },
+    {
+      "source": "party_vukradin",
+      "target": "faction_phandalin_privy_council",
+      "label": "member of"
+    },
+    {
+      "source": "party_vukradin",
+      "target": "npc_ser_kaelen",
+      "label": "distrusts"
+    },
+    {
+      "source": "party_vukradin",
+      "target": "location_phandalin",
+      "label": "located in"
+    },
+    {
+      "source": "party_vukradin",
+      "target": "plot_blue_quartz_mermaid_statue_delivery",
+      "label": "involved in"
+    },
+    {
+      "source": "party_corbin",
+      "target": "npc_sister_kaella",
+      "label": "guards"
+    },
+    {
+      "source": "party_corbin",
+      "target": "faction_black_lion_tribe",
+      "label": "victimized by"
+    },
+    {
+      "source": "npc_boney",
+      "target": "party_soma",
+      "label": "loyal to"
+    },
+    {
+      "source": "npc_boney",
+      "target": "npc_lady_alagondar",
+      "label": "believes Soma is reincarnation of"
+    },
+    {
+      "source": "npc_ser_kaelen",
+      "target": "faction_order_of_the_gauntlet",
+      "label": "member of"
+    },
+    {
+      "source": "npc_ser_kaelen",
+      "target": "location_phandalin",
+      "label": "located in"
+    },
+    {
+      "source": "npc_ser_kaelen",
+      "target": "party_vukradin",
+      "label": "recruits"
+    },
+    {
+      "source": "npc_ser_kaelen",
+      "target": "plot_blue_quartz_mermaid_statue_delivery",
+      "label": "directs"
+    },
+    {
+      "source": "npc_harbin_wester",
+      "target": "faction_phandalin_privy_council",
+      "label": "chairs"
+    },
+    {
+      "source": "npc_harbin_wester",
+      "target": "location_phandalin",
+      "label": "located in"
+    },
+    {
+      "source": "npc_harbin_wester",
+      "target": "npc_lord_neverember",
+      "label": "reports to"
+    },
+    {
+      "source": "npc_adabra",
+      "target": "faction_emerald_enclave",
+      "label": "member of"
+    },
+    {
+      "source": "npc_adabra",
+      "target": "plot_druid_conclave_defense",
+      "label": "leads"
+    },
+    {
+      "source": "npc_adabra",
+      "target": "faction_phandalin_privy_council",
+      "label": "member of"
+    },
+    {
+      "source": "npc_adabra",
+      "target": "party_soma",
+      "label": "challenges"
+    },
+    {
+      "source": "npc_adabra",
+      "target": "npc_lyra",
+      "label": "hostile to"
+    },
+    {
+      "source": "npc_linene_graywind",
+      "target": "faction_lionshield_coster",
+      "label": "manages"
+    },
+    {
+      "source": "npc_linene_graywind",
+      "target": "faction_phandalin_privy_council",
+      "label": "member of"
+    },
+    {
+      "source": "npc_linene_graywind",
+      "target": "location_phandalin",
+      "label": "located in"
+    },
+    {
+      "source": "npc_toblen_stonehill",
+      "target": "location_stonehill_inn",
+      "label": "operates"
+    },
+    {
+      "source": "npc_toblen_stonehill",
+      "target": "location_phandalin",
+      "label": "located in"
+    },
+    {
+      "source": "npc_toblen_stonehill",
+      "target": "faction_phandalin_privy_council",
+      "label": "member of"
+    },
+    {
+      "source": "npc_daran_edermath",
+      "target": "location_phandalin",
+      "label": "located in"
+    },
+    {
+      "source": "npc_brin_bundlewine",
+      "target": "location_tresendar_manor",
+      "label": "renovates"
+    },
+    {
+      "source": "npc_brin_bundlewine",
+      "target": "party_valphine",
+      "label": "allied with"
+    },
+    {
+      "source": "npc_giles_slipper_shine",
+      "target": "location_tresendar_manor",
+      "label": "renovates"
+    },
+    {
+      "source": "npc_giles_slipper_shine",
+      "target": "party_valphine",
+      "label": "allied with"
+    },
+    {
+      "source": "npc_elmar_barthen",
+      "target": "faction_phandalin_privy_council",
+      "label": "member of"
+    },
+    {
+      "source": "npc_elmar_barthen",
+      "target": "location_phandalin",
+      "label": "located in"
+    },
+    {
+      "source": "npc_alphonse_big_al_kalazorn",
+      "target": "npc_qelline_alderleaf",
+      "label": "delivering apology to"
+    },
+    {
+      "source": "npc_alphonse_big_al_kalazorn",
+      "target": "location_butterskull_ranch",
+      "label": "rescued from"
+    },
+    {
+      "source": "npc_lyra",
+      "target": "faction_emerald_enclave",
+      "label": "member of"
+    },
+    {
+      "source": "npc_lyra",
+      "target": "plot_whispering_grove_planar_rift",
+      "label": "caused"
+    },
+    {
+      "source": "npc_lyra",
+      "target": "party_soma",
+      "label": "cautious trust with"
+    },
+    {
+      "source": "npc_thomas",
+      "target": "npc_lyra",
+      "label": "loyal to"
+    },
+    {
+      "source": "npc_thomas",
+      "target": "faction_emerald_enclave",
+      "label": "member of"
+    },
+    {
+      "source": "npc_marian",
+      "target": "npc_lyra",
+      "label": "loyal to"
+    },
+    {
+      "source": "npc_marian",
+      "target": "faction_emerald_enclave",
+      "label": "member of"
+    },
+    {
+      "source": "npc_zeleen_varnaster",
+      "target": "faction_whiskered_gang",
+      "label": "leads"
+    },
+    {
+      "source": "npc_zeleen_varnaster",
+      "target": "location_mountain_s_toe_gold_mine",
+      "label": "contracted to protect"
+    },
+    {
+      "source": "npc_zeleen_varnaster",
+      "target": "plot_earthstone_gem_recovery",
+      "label": "pursuing"
+    },
+    {
+      "source": "npc_horia_stonetallow",
+      "target": "faction_stonetallow_clan",
+      "label": "leads"
+    },
+    {
+      "source": "npc_horia_stonetallow",
+      "target": "location_mountain_s_toe_gold_mine",
+      "label": "administers"
+    },
+    {
+      "source": "npc_horia_stonetallow",
+      "target": "plot_earthstone_gem_recovery",
+      "label": "managing contingency for"
+    },
+    {
+      "source": "npc_dwolin_the_grout",
+      "target": "faction_stonetallow_clan",
+      "label": "member of"
+    },
+    {
+      "source": "npc_dwolin_the_grout",
+      "target": "location_mountain_s_toe_gold_mine",
+      "label": "located in"
+    },
+    {
+      "source": "npc_dazlyn_grayshard",
+      "target": "location_temple_of_abbathor_ruins",
+      "label": "located in"
+    },
+    {
+      "source": "npc_norbus_ironrune",
+      "target": "location_temple_of_abbathor_ruins",
+      "label": "located in"
+    },
+    {
+      "source": "npc_teega_the_smith",
+      "target": "faction_kraken_society",
+      "label": "member of"
+    },
+    {
+      "source": "npc_falcon_the_hunter",
+      "target": "location_falcon_s_hunting_lodge",
+      "label": "seeks to reclaim"
+    },
+    {
+      "source": "npc_falcon_the_hunter",
+      "target": "faction_cult_of_talos",
+      "label": "displaced by"
+    },
+    {
+      "source": "npc_falcon_the_hunter",
+      "target": "plot_woodland_manse_clearance",
+      "label": "quest giver for"
+    },
+    {
+      "source": "npc_xanth",
+      "target": "npc_meril",
+      "label": "old friend of"
+    },
+    {
+      "source": "npc_xanth",
+      "target": "location_circle_of_thunder",
+      "label": "offered to guide party to"
+    },
+    {
+      "source": "npc_xanth",
+      "target": "party_soma",
+      "label": "ally of"
+    },
+    {
+      "source": "npc_sister_kaella",
+      "target": "party_valphine",
+      "label": "covert arrangement with"
+    },
+    {
+      "source": "npc_sister_kaella",
+      "target": "location_icespire_hold",
+      "label": "knows location of"
+    },
+    {
+      "source": "npc_jenna",
+      "target": "faction_lord_s_alliance",
+      "label": "member of"
+    },
+    {
+      "source": "npc_jenna",
+      "target": "faction_phandalin_privy_council",
+      "label": "embedded in"
+    },
+    {
+      "source": "npc_jenna",
+      "target": "party_vukradin",
+      "label": "attempted to recruit"
+    },
+    {
+      "source": "npc_jenna",
+      "target": "faction_kraken_society",
+      "label": "suppresses intelligence about"
+    },
+    {
+      "source": "npc_meril",
+      "target": "party_soma",
+      "label": "mentor of"
+    },
+    {
+      "source": "npc_lord_cassian_meliame",
+      "target": "faction_meliame_family",
+      "label": "member of"
+    },
+    {
+      "source": "npc_lord_cassian_meliame",
+      "target": "location_neverwinter",
+      "label": "located in"
+    },
+    {
+      "source": "npc_elara_seasong_meliame",
+      "target": "faction_meliame_family",
+      "label": "member of"
+    },
+    {
+      "source": "npc_elara_seasong_meliame",
+      "target": "plot_blue_quartz_mermaid_statue_delivery",
+      "label": "recipient in"
+    },
+    {
+      "source": "npc_aletra",
+      "target": "faction_house_sartorra",
+      "label": "operative of"
+    },
+    {
+      "source": "npc_aletra",
+      "target": "party_valphine",
+      "label": "enemy of"
+    },
+    {
+      "source": "npc_aletra",
+      "target": "plot_aletra_house_sartorra_retaliation",
+      "label": "drives"
+    },
+    {
+      "source": "npc_cryovain",
+      "target": "location_icespire_hold",
+      "label": "located in"
+    },
+    {
+      "source": "npc_cryovain",
+      "target": "npc_the_carver",
+      "label": "dominated by"
+    },
+    {
+      "source": "npc_the_carver",
+      "target": "npc_cryovain",
+      "label": "controlled"
+    },
+    {
+      "source": "npc_moesko",
+      "target": "faction_cult_of_talos",
+      "label": "member of"
+    },
+    {
+      "source": "npc_moesko",
+      "target": "location_tower_of_storms",
+      "label": "occupied"
+    },
+    {
+      "source": "npc_borg_the_hammer",
+      "target": "npc_the_carver",
+      "label": "served"
+    },
+    {
+      "source": "npc_borg_the_hammer",
+      "target": "location_butterskull_ranch",
+      "label": "destroyed"
+    },
+    {
+      "source": "npc_jax",
+      "target": "npc_the_carver",
+      "label": "served"
+    },
+    {
+      "source": "npc_jax",
+      "target": "location_dragon_barrow",
+      "label": "killed near"
+    },
+    {
+      "source": "npc_sylvine_wintermoon",
+      "target": "faction_stone_cold_reavers",
+      "label": "leads"
+    },
+    {
+      "source": "npc_sylvine_wintermoon",
+      "target": "location_icespire_hold",
+      "label": "challenged party at"
+    },
+    {
+      "source": "npc_runa",
+      "target": "faction_stone_cold_reavers",
+      "label": "member of"
+    },
+    {
+      "source": "npc_delaan_winterhound",
+      "target": "faction_emerald_enclave",
+      "label": "past leader of"
+    },
+    {
+      "source": "npc_lord_neverember",
+      "target": "location_neverwinter",
+      "label": "rules"
+    },
+    {
+      "source": "npc_milo_goodbarrel",
+      "target": "faction_order_of_the_gauntlet",
+      "label": "member of"
+    },
+    {
+      "source": "npc_shrimpy",
+      "target": "location_phandalin",
+      "label": "imprisoned in"
+    },
+    {
+      "source": "npc_king_gnerkli",
+      "target": "location_gnomengarde",
+      "label": "rules"
+    },
+    {
+      "source": "npc_king_korboz",
+      "target": "location_gnomengarde",
+      "label": "rules"
+    },
+    {
+      "source": "npc_fibblestib",
+      "target": "location_gnomengarde",
+      "label": "located in"
+    },
+    {
+      "source": "npc_dabbledob",
+      "target": "location_gnomengarde",
+      "label": "located in"
+    },
+    {
+      "source": "npc_pog",
+      "target": "location_gnomengarde",
+      "label": "guards"
+    },
+    {
+      "source": "npc_ulla",
+      "target": "location_gnomengarde",
+      "label": "guards"
+    },
+    {
+      "source": "npc_facktor",
+      "target": "location_gnomengarde",
+      "label": "located in"
+    },
+    {
+      "source": "npc_miral",
+      "target": "location_tower_of_storms",
+      "label": "haunted"
+    },
+    {
+      "source": "npc_the_chief_accountant",
+      "target": "location_axeholm",
+      "label": "haunted"
+    },
+    {
+      "source": "npc_lady_alagondar",
+      "target": "location_dragon_barrow",
+      "label": "haunts"
+    },
+    {
+      "source": "npc_don_jon_raskin",
+      "target": "location_mountain_s_toe_gold_mine",
+      "label": "killed at"
+    },
+    {
+      "source": "npc_don_jon_raskin",
+      "target": "faction_kraken_society",
+      "label": "hired by associate of"
+    },
+    {
+      "source": "faction_order_of_the_gauntlet",
+      "target": "faction_house_margaster",
+      "label": "allegedly funded by"
+    },
+    {
+      "source": "faction_order_of_the_gauntlet",
+      "target": "location_phandalin",
+      "label": "operates in"
+    },
+    {
+      "source": "faction_emerald_enclave",
+      "target": "location_whispering_grove",
+      "label": "responsible for"
+    },
+    {
+      "source": "faction_lord_s_alliance",
+      "target": "location_neverwinter",
+      "label": "based in"
+    },
+    {
+      "source": "faction_lord_s_alliance",
+      "target": "location_phandalin",
+      "label": "operates in"
+    },
+    {
+      "source": "faction_kraken_society",
+      "target": "location_drowned_gate_beneath_yllyn",
+      "label": "seeks"
+    },
+    {
+      "source": "faction_kraken_society",
+      "target": "plot_kraken_society_drowned_gate_operation",
+      "label": "drives"
+    },
+    {
+      "source": "faction_kraken_society",
+      "target": "npc_teega_the_smith",
+      "label": "controls"
+    },
+    {
+      "source": "faction_cult_of_talos",
+      "target": "location_woodland_manse",
+      "label": "occupies"
+    },
+    {
+      "source": "faction_cult_of_talos",
+      "target": "location_falcon_s_hunting_lodge",
+      "label": "occupies"
+    },
+    {
+      "source": "faction_cult_of_talos",
+      "target": "location_circle_of_thunder",
+      "label": "performs rites at"
+    },
+    {
+      "source": "faction_cult_of_talos",
+      "target": "plot_woodland_manse_clearance",
+      "label": "antagonist in"
+    },
+    {
+      "source": "faction_cult_of_talos",
+      "target": "plot_circle_of_thunder_investigation",
+      "label": "antagonist in"
+    },
+    {
+      "source": "faction_house_margaster",
+      "target": "plot_blue_quartz_mermaid_statue_delivery",
+      "label": "seeks to disrupt"
+    },
+    {
+      "source": "faction_house_sartorra",
+      "target": "plot_aletra_house_sartorra_retaliation",
+      "label": "drives"
+    },
+    {
+      "source": "faction_stonetallow_clan",
+      "target": "location_mountain_s_toe_gold_mine",
+      "label": "mines at"
+    },
+    {
+      "source": "faction_whiskered_gang",
+      "target": "location_mountain_s_toe_gold_mine",
+      "label": "protects"
+    },
+    {
+      "source": "faction_whiskered_gang",
+      "target": "plot_earthstone_gem_recovery",
+      "label": "pursuing"
+    },
+    {
+      "source": "faction_phandalin_privy_council",
+      "target": "location_phandalin",
+      "label": "governs"
+    },
+    {
+      "source": "faction_lionshield_coster",
+      "target": "location_phandalin",
+      "label": "operates in"
+    },
+    {
+      "source": "faction_druidic_conclave",
+      "target": "npc_adabra",
+      "label": "led by"
+    },
+    {
+      "source": "faction_druidic_conclave",
+      "target": "plot_druid_conclave_defense",
+      "label": "central to"
+    },
+    {
+      "source": "faction_druidic_conclave",
+      "target": "party_soma",
+      "label": "threatens"
+    },
+    {
+      "source": "location_phandalin",
+      "target": "location_tresendar_manor",
+      "label": "contains"
+    },
+    {
+      "source": "location_phandalin",
+      "target": "location_stonehill_inn",
+      "label": "contains"
+    },
+    {
+      "source": "location_mountain_s_toe_gold_mine",
+      "target": "plot_earthstone_gem_recovery",
+      "label": "blocked by"
+    },
+    {
+      "source": "location_whispering_grove",
+      "target": "plot_whispering_grove_planar_rift",
+      "label": "site of"
+    },
+    {
+      "source": "location_whispering_grove",
+      "target": "arc_score_planar_distortion_score",
+      "label": "contributes to"
+    },
+    {
+      "source": "location_axeholm",
+      "target": "npc_aletra",
+      "label": "site of escape for"
+    },
+    {
+      "source": "location_woodland_manse",
+      "target": "plot_woodland_manse_clearance",
+      "label": "site of"
+    },
+    {
+      "source": "location_circle_of_thunder",
+      "target": "plot_circle_of_thunder_investigation",
+      "label": "site of"
+    },
+    {
+      "source": "location_falcon_s_hunting_lodge",
+      "target": "npc_falcon_the_hunter",
+      "label": "formerly owned by"
+    },
+    {
+      "source": "location_drowned_gate_beneath_yllyn",
+      "target": "plot_kraken_society_drowned_gate_operation",
+      "label": "target of"
+    },
+    {
+      "source": "plot_druid_conclave_defense",
+      "target": "arc_score_druidic_conclave_pressure_score",
+      "label": "tracked by"
+    },
+    {
+      "source": "plot_earthstone_gem_recovery",
+      "target": "arc_score_zeleen_performance_score",
+      "label": "tracked by"
+    },
+    {
+      "source": "plot_whispering_grove_planar_rift",
+      "target": "arc_score_planar_distortion_score",
+      "label": "tracked by"
+    },
+    {
+      "source": "plot_kraken_society_drowned_gate_operation",
+      "target": "arc_score_kraken_society_echoes_score",
+      "label": "tracked by"
+    },
+    {
+      "source": "plot_woodland_manse_clearance",
+      "target": "arc_score_cult_of_talos_score",
+      "label": "tracked by"
+    },
+    {
+      "source": "plot_circle_of_thunder_investigation",
+      "target": "arc_score_cult_of_talos_score",
+      "label": "tracked by"
+    },
+    {
+      "source": "plot_aletra_house_sartorra_retaliation",
+      "target": "arc_score_aletra_house_sartorra_score",
+      "label": "tracked by"
+    },
+    {
+      "source": "location_falcon_s_hunting_lodge",
+      "target": "arc_score_iymrith_blue_dragon_score",
+      "label": "connected to"
+    },
+    {
+      "source": "npc_halia_thornton",
+      "target": "faction_phandalin_privy_council",
+      "label": "member of"
+    },
+    {
+      "source": "npc_halia_thornton",
+      "target": "location_phandalin",
+      "label": "located in"
+    },
+    {
+      "source": "npc_jarek",
+      "target": "npc_elara_merchant",
+      "label": "accompanied"
+    },
+    {
+      "source": "npc_backes_dunfield",
+      "target": "location_wayside_inn",
+      "label": "located in"
+    },
+    {
+      "source": "npc_cooragh_struckt",
+      "target": "location_wayside_inn",
+      "label": "located in"
+    },
+    {
+      "source": "npc_martisha_vinetalker",
+      "target": "location_wayside_inn",
+      "label": "operates"
+    },
+    {
+      "source": "npc_sridar",
+      "target": "npc_falcon_the_hunter",
+      "label": "guest of"
+    },
+    {
+      "source": "npc_the_cult_fanatic",
+      "target": "faction_kraken_society",
+      "label": "member of"
+    },
+    {
+      "source": "npc_skippy",
+      "target": "party_corbin",
+      "label": "guarded by"
+    },
+    {
+      "source": "party_vukradin",
+      "target": "faction_privy_council_of_phandalin",
+      "label": "member of"
+    },
+    {
+      "source": "party_vukradin",
+      "target": "party_brewbarry",
+      "label": "deepest mutual loyalty"
+    },
+    {
+      "source": "party_vukradin",
+      "target": "npc_ser_kaelen",
+      "label": "cautious eroding trust toward"
+    },
+    {
+      "source": "party_vukradin",
+      "target": "npc_adabra",
+      "label": "actively hostile relationship with"
+    },
+    {
+      "source": "party_vukradin",
+      "target": "npc_falcon_the_hunter",
+      "label": "strained; seeks reconciliation with"
+    },
+    {
+      "source": "party_vukradin",
+      "target": "npc_jenna",
+      "label": "rejected recruitment by"
+    },
+    {
+      "source": "party_vukradin",
+      "target": "npc_harbin_wester",
+      "label": "uneasy institutional alliance with"
+    },
+    {
+      "source": "party_vukradin",
+      "target": "npc_lyra",
+      "label": "ally of"
+    },
+    {
+      "source": "party_vukradin",
+      "target": "plot_statue_delivery_to_elara_seasong_meliame",
+      "label": "active participant in"
+    },
+    {
+      "source": "party_vukradin",
+      "target": "plot_obsidian_sword_rightful_owner",
+      "label": "seeks"
+    },
+    {
+      "source": "party_vukradin",
+      "target": "plot_frozen_treasure_hoard_at_icespire_hold",
+      "label": "seeks rightful owners for"
+    },
+    {
+      "source": "party_soma",
+      "target": "faction_emerald_enclave",
+      "label": "member of"
+    },
+    {
+      "source": "party_soma",
+      "target": "npc_adabra",
+      "label": "severely damaged relationship with"
+    },
+    {
+      "source": "party_soma",
+      "target": "npc_lyra",
+      "label": "ally of"
+    },
+    {
+      "source": "party_soma",
+      "target": "npc_xanth",
+      "label": "ally of"
+    },
+    {
+      "source": "party_soma",
+      "target": "npc_boney",
+      "label": "bonded to"
+    },
+    {
+      "source": "party_soma",
+      "target": "arc_score_meril_s_legacy",
+      "label": "tracked by"
+    },
+    {
+      "source": "party_soma",
+      "target": "plot_meril_s_staff_mystery",
+      "label": "central to"
+    },
+    {
+      "source": "party_soma",
+      "target": "plot_planar_rift_at_whispering_grove",
+      "label": "involved in"
+    },
+    {
+      "source": "party_valphine_sotorra",
+      "target": "faction_temple_of_lathander_s_searing_pain_of_justice",
+      "label": "founded"
+    },
+    {
+      "source": "party_valphine_sotorra",
+      "target": "faction_house_sotorra",
+      "label": "member of by birth"
+    },
+    {
+      "source": "party_valphine_sotorra",
+      "target": "npc_sister_kaella",
+      "label": "covert arrangement with"
+    },
+    {
+      "source": "party_valphine_sotorra",
+      "target": "npc_aletra",
+      "label": "hostile sibling of"
+    },
+    {
+      "source": "party_valphine_sotorra",
+      "target": "npc_ser_kaelen",
+      "label": "acquainted with"
+    },
+    {
+      "source": "party_valphine_sotorra",
+      "target": "npc_brin_bundlewine",
+      "label": "spiritual leader of"
+    },
+    {
+      "source": "party_valphine_sotorra",
+      "target": "npc_giles_slipper_shine",
+      "label": "spiritual leader of"
+    },
+    {
+      "source": "party_valphine_sotorra",
+      "target": "npc_falcon_the_hunter",
+      "label": "spiritual advisor to"
+    },
+    {
+      "source": "party_valphine_sotorra",
+      "target": "npc_sridar",
+      "label": "transacted with"
+    },
+    {
+      "source": "party_valphine_sotorra",
+      "target": "arc_score_searing_dawn",
+      "label": "tracked by"
+    },
+    {
+      "source": "party_valphine_sotorra",
+      "target": "plot_aletra_at_large",
+      "label": "central to"
+    },
+    {
+      "source": "party_valphine_sotorra",
+      "target": "location_tresendar_manor",
+      "label": "controls"
+    },
+    {
+      "source": "party_brewbarry",
+      "target": "party_vukradin",
+      "label": "deeply loyal to"
+    },
+    {
+      "source": "party_brewbarry",
+      "target": "npc_ser_kaelen",
+      "label": "hostile toward"
+    },
+    {
+      "source": "party_brewbarry",
+      "target": "npc_jenna",
+      "label": "openly antagonistic toward"
+    },
+    {
+      "source": "party_brewbarry",
+      "target": "arc_score_thistle_s_echo",
+      "label": "tracked by"
+    },
+    {
+      "source": "npc_harbin_wester",
+      "target": "faction_privy_council_of_phandalin",
+      "label": "leads"
+    },
+    {
+      "source": "npc_harbin_wester",
+      "target": "npc_lord_neverember",
+      "label": "appointed by"
+    },
+    {
+      "source": "npc_toblen_stonehill",
+      "target": "faction_privy_council_of_phandalin",
+      "label": "member of"
+    },
+    {
+      "source": "npc_toblen_stonehill",
+      "target": "location_stonehill_inn",
+      "label": "located in"
+    },
+    {
+      "source": "npc_linene_graywind",
+      "target": "faction_privy_council_of_phandalin",
+      "label": "member of"
+    },
+    {
+      "source": "npc_elmar_barthen",
+      "target": "faction_privy_council_of_phandalin",
+      "label": "member of"
+    },
+    {
+      "source": "npc_adabra",
+      "target": "faction_privy_council_of_phandalin",
+      "label": "member of"
+    },
+    {
+      "source": "npc_adabra",
+      "target": "npc_aldric_stone_path",
+      "label": "allied with"
+    },
+    {
+      "source": "npc_adabra",
+      "target": "plot_adabra_s_opposition",
+      "label": "drives"
+    },
+    {
+      "source": "npc_adabra",
+      "target": "location_phandalin",
+      "label": "located in"
+    },
+    {
+      "source": "npc_adabra",
+      "target": "location_umbrage_hill",
+      "label": "formerly located at"
+    },
+    {
+      "source": "npc_aldric_stone_path",
+      "target": "faction_emerald_enclave",
+      "label": "member of"
+    },
+    {
+      "source": "npc_aldric_stone_path",
+      "target": "npc_adabra",
+      "label": "loyal to"
+    },
+    {
+      "source": "npc_ser_kaelen",
+      "target": "faction_house_margaster",
+      "label": "funded by"
+    },
+    {
+      "source": "npc_ser_kaelen",
+      "target": "plot_statue_delivery_to_elara_seasong_meliame",
+      "label": "manages"
+    },
+    {
+      "source": "npc_jenna",
+      "target": "location_phandalin",
+      "label": "located in"
+    },
+    {
+      "source": "npc_jenna",
+      "target": "faction_kraken_society",
+      "label": "conceals knowledge of"
+    },
+    {
+      "source": "npc_sister_kaella",
+      "target": "party_valphine_sotorra",
+      "label": "covert arrangement with"
+    },
+    {
+      "source": "npc_sister_kaella",
+      "target": "npc_corbin",
+      "label": "killed"
+    },
+    {
+      "source": "npc_sister_kaella",
+      "target": "plot_sister_kaella_at_large",
+      "label": "central to"
+    },
+    {
+      "source": "npc_lyra",
+      "target": "party_soma",
+      "label": "ally of"
+    },
+    {
+      "source": "npc_reidoth",
+      "target": "faction_emerald_enclave",
+      "label": "leads"
+    },
+    {
+      "source": "npc_falcon_the_hunter",
+      "target": "location_falcon_the_hunter_s_hunting_lodge",
+      "label": "formerly controlled"
+    },
+    {
+      "source": "npc_falcon_the_hunter",
+      "target": "party_valphine_sotorra",
+      "label": "counseled by"
+    },
+    {
+      "source": "npc_falcon_the_hunter",
+      "target": "plot_falcon_the_hunter_s_lodge_reclamation",
+      "label": "associated with"
+    },
+    {
+      "source": "npc_sridar",
+      "target": "location_phandalin",
+      "label": "formerly visited"
+    },
+    {
+      "source": "npc_elara_seasong_meliame",
+      "target": "location_neverwinter",
+      "label": "located in"
+    },
+    {
+      "source": "npc_elara_seasong_meliame",
+      "target": "plot_statue_delivery_to_elara_seasong_meliame",
+      "label": "recipient in"
+    },
+    {
+      "source": "npc_elara_seasong_meliame",
+      "target": "npc_lord_cassian_meliame",
+      "label": "relative of"
+    },
+    {
+      "source": "npc_moesko",
+      "target": "location_tower_of_storms",
+      "label": "formerly occupied"
+    },
+    {
+      "source": "npc_moesko",
+      "target": "faction_anchorites_of_talos",
+      "label": "member of"
+    },
+    {
+      "source": "npc_miral",
+      "target": "plot_miral_s_warning_storm_below_leilon",
+      "label": "delivered warning in"
+    },
+    {
+      "source": "npc_zeleen_varnaster",
+      "target": "location_mountain_s_toe_gold_mine",
+      "label": "located in"
+    },
+    {
+      "source": "npc_zeleen_varnaster",
+      "target": "plot_mountain_s_toe_earthstone_gem",
+      "label": "dispatched for"
+    },
+    {
+      "source": "npc_horia_stonetallow",
+      "target": "location_mountain_s_toe_gold_mine",
+      "label": "located in"
+    },
+    {
+      "source": "npc_teega_the_smith",
+      "target": "faction_kraken_society",
+      "label": "formerly controlled by"
+    },
+    {
+      "source": "npc_teega_the_smith",
+      "target": "location_wayside_inn",
+      "label": "returning to"
+    },
+    {
+      "source": "npc_martisha_vinetalker",
+      "target": "location_wayside_inn",
+      "label": "located in"
+    },
+    {
+      "source": "npc_alphonse_big_al_kalazorn",
+      "target": "npc_qelline_alderleaf",
+      "label": "reconciling with"
+    },
+    {
+      "source": "npc_alphonse_big_al_kalazorn",
+      "target": "location_butterskull_ranch",
+      "label": "formerly owned"
+    },
+    {
+      "source": "npc_alphonse_big_al_kalazorn",
+      "target": "location_phandalin",
+      "label": "located in"
+    },
+    {
+      "source": "npc_dazlyn_grayshard",
+      "target": "location_dwarven_excavation",
+      "label": "located in"
+    },
+    {
+      "source": "npc_norbus_ironrune",
+      "target": "location_dwarven_excavation",
+      "label": "located in"
+    },
+    {
+      "source": "npc_king_korboz",
+      "target": "location_gnomengarde",
+      "label": "located in"
+    },
+    {
+      "source": "npc_king_gnerkli",
+      "target": "location_gnomengarde",
+      "label": "located in"
+    },
+    {
+      "source": "npc_facktor",
+      "target": "location_gnomengarde",
+      "label": "fled from"
+    },
+    {
+      "source": "npc_brin_bundlewine",
+      "target": "faction_temple_of_lathander_s_searing_pain_of_justice",
+      "label": "member of"
+    },
+    {
+      "source": "npc_giles_slipper_shine",
+      "target": "faction_temple_of_lathander_s_searing_pain_of_justice",
+      "label": "member of"
+    },
+    {
+      "source": "npc_brin_bundlewine",
+      "target": "location_tresendar_manor",
+      "label": "renovating"
+    },
+    {
+      "source": "npc_giles_slipper_shine",
+      "target": "location_tresendar_manor",
+      "label": "renovating"
+    },
+    {
+      "source": "location_tresendar_manor",
+      "target": "location_phandalin",
+      "label": "located in"
+    },
+    {
+      "source": "faction_temple_of_lathander_s_searing_pain_of_justice",
+      "target": "location_tresendar_manor",
+      "label": "located in"
+    },
+    {
+      "source": "npc_boney",
+      "target": "location_dragon_barrow",
+      "label": "originated from"
+    },
+    {
+      "source": "npc_boney",
+      "target": "party_soma",
+      "label": "bonded to"
+    },
+    {
+      "source": "npc_lady_alagondar",
+      "target": "location_dragon_barrow",
+      "label": "associated with"
+    },
+    {
+      "source": "npc_shrimpy",
+      "target": "faction_anchorites_of_talos",
+      "label": "formerly allied tribe with"
+    },
+    {
+      "source": "npc_the_carver",
+      "target": "npc_cryovain",
+      "label": "attempted to dominate"
+    },
+    {
+      "source": "npc_the_carver",
+      "target": "location_icespire_hold",
+      "label": "destroyed at"
+    },
+    {
+      "source": "npc_the_carver",
+      "target": "npc_borg_the_hammer",
+      "label": "employed"
+    },
+    {
+      "source": "npc_the_carver",
+      "target": "npc_jax",
+      "label": "employed"
+    },
+    {
+      "source": "npc_the_carver",
+      "target": "npc_sister_kaella",
+      "label": "formerly employed"
+    },
+    {
+      "source": "npc_cryovain",
+      "target": "location_icespire_hold",
+      "label": "formerly occupied"
+    },
+    {
+      "source": "npc_grundar_quartzvein",
+      "target": "plot_brundar_s_echo_grundar_quartzvein",
+      "label": "drives"
+    },
+    {
+      "source": "npc_grundar_quartzvein",
+      "target": "faction_house_sotorra",
+      "label": "enemy of"
+    },
+    {
+      "source": "npc_grundar_quartzvein",
+      "target": "arc_score_brundar_s_echo",
+      "label": "tracked by"
+    },
+    {
+      "source": "npc_aletra",
+      "target": "faction_house_sotorra",
+      "label": "member of"
+    },
+    {
+      "source": "npc_aletra",
+      "target": "location_axeholm",
+      "label": "formerly operated at"
+    },
+    {
+      "source": "npc_aletra",
+      "target": "party_valphine_sotorra",
+      "label": "hostile sibling of"
+    },
+    {
+      "source": "npc_aletra",
+      "target": "plot_aletra_at_large",
+      "label": "central to"
+    },
+    {
+      "source": "npc_meril",
+      "target": "npc_xanth",
+      "label": "old friend of"
+    },
+    {
+      "source": "npc_lord_neverember",
+      "target": "location_neverwinter",
+      "label": "controls"
+    },
+    {
+      "source": "npc_lord_neverember",
+      "target": "faction_lord_s_alliance",
+      "label": "leads"
+    },
+    {
+      "source": "npc_lord_neverember",
+      "target": "npc_harbin_wester",
+      "label": "appointed"
+    },
+    {
+      "source": "npc_sylvine_wintermoon",
+      "target": "location_icespire_hold",
+      "label": "attacked party at"
+    },
+    {
+      "source": "npc_don_jon_raskin",
+      "target": "location_mountain_s_toe_gold_mine",
+      "label": "formerly oversaw"
+    },
+    {
+      "source": "npc_don_jon_raskin",
+      "target": "faction_stonetallow_clan",
+      "label": "killed by"
+    },
+    {
+      "source": "npc_don_jon_raskin",
+      "target": "faction_lord_s_alliance",
+      "label": "contracted by"
+    },
+    {
+      "source": "faction_order_of_the_gauntlet",
+      "target": "plot_statue_delivery_to_elara_seasong_meliame",
+      "label": "seeks credit in"
+    },
+    {
+      "source": "faction_order_of_the_gauntlet",
+      "target": "plot_house_margaster_order_of_the_gauntlet_letter",
+      "label": "implicated in"
+    },
+    {
+      "source": "faction_lord_s_alliance",
+      "target": "faction_kraken_society",
+      "label": "concealing knowledge of"
+    },
+    {
+      "source": "faction_emerald_enclave",
+      "target": "location_druid_council_grove",
+      "label": "convened at"
+    },
+    {
+      "source": "faction_emerald_enclave",
+      "target": "location_neverwinter_wood",
+      "label": "active in"
+    },
+    {
+      "source": "faction_kraken_society",
+      "target": "location_yllyn",
+      "label": "seeks drowned gate in"
+    },
+    {
+      "source": "faction_kraken_society",
+      "target": "plot_kraken_society_drowned_gate_beneath_yllyn",
+      "label": "drives"
+    },
+    {
+      "source": "faction_kraken_society",
+      "target": "arc_score_kraken_society_echoes",
+      "label": "tracked by"
+    },
+    {
+      "source": "faction_kraken_society",
+      "target": "faction_mountain_s_toe_gold_mine_operation",
+      "label": "financially linked to"
+    },
+    {
+      "source": "faction_anchorites_of_talos",
+      "target": "location_woodland_manse",
+      "label": "controls"
+    },
+    {
+      "source": "faction_anchorites_of_talos",
+      "target": "location_falcon_the_hunter_s_hunting_lodge",
+      "label": "controls"
+    },
+    {
+      "source": "faction_anchorites_of_talos",
+      "target": "location_circle_of_thunder",
+      "label": "performs rites at"
+    },
+    {
+      "source": "faction_anchorites_of_talos",
+      "target": "location_neverwinter_wood",
+      "label": "active in"
+    },
+    {
+      "source": "faction_anchorites_of_talos",
+      "target": "plot_anchorites_of_talos_threat",
+      "label": "central to"
+    },
+    {
+      "source": "faction_anchorites_of_talos",
+      "target": "arc_score_talosian_threat_score",
+      "label": "tracked by"
+    },
+    {
+      "source": "faction_house_margaster",
+      "target": "plot_statue_delivery_to_elara_seasong_meliame",
+      "label": "seeks to disrupt"
+    },
+    {
+      "source": "faction_house_margaster",
+      "target": "plot_house_margaster_order_of_the_gauntlet_letter",
+      "label": "central to"
+    },
+    {
+      "source": "faction_house_sotorra",
+      "target": "npc_aletra",
+      "label": "employs"
+    },
+    {
+      "source": "faction_house_sotorra",
+      "target": "party_valphine_sotorra",
+      "label": "family of"
+    },
+    {
+      "source": "faction_house_sotorra",
+      "target": "npc_grundar_quartzvein",
+      "label": "enemy of"
+    },
+    {
+      "source": "faction_house_sotorra",
+      "target": "arc_score_brundar_s_echo",
+      "label": "triggers escalation of"
+    },
+    {
+      "source": "faction_whiskered_gang",
+      "target": "npc_zeleen_varnaster",
+      "label": "led by"
+    },
+    {
+      "source": "faction_whiskered_gang",
+      "target": "plot_mountain_s_toe_earthstone_gem",
+      "label": "dispatched for"
+    },
+    {
+      "source": "faction_whiskered_gang",
+      "target": "location_shrine_of_savras",
+      "label": "formerly inhabited"
+    },
+    {
+      "source": "faction_stonetallow_clan",
+      "target": "npc_horia_stonetallow",
+      "label": "led by"
+    },
+    {
+      "source": "faction_rot_tusk_ogres",
+      "target": "location_butterskull_ranch",
+      "label": "destroyed"
+    },
+    {
+      "source": "faction_rot_tusk_ogres",
+      "target": "party_brewbarry",
+      "label": "blood feud with"
+    },
+    {
+      "source": "faction_rot_tusk_ogres",
+      "target": "party_vukradin",
+      "label": "blood feud with"
+    },
+    {
+      "source": "faction_mountain_s_toe_gold_mine_operation",
+      "target": "location_mountain_s_toe_gold_mine",
+      "label": "operates"
+    },
+    {
+      "source": "faction_mountain_s_toe_gold_mine_operation",
+      "target": "faction_stonetallow_clan",
+      "label": "includes"
+    },
+    {
+      "source": "faction_mountain_s_toe_gold_mine_operation",
+      "target": "faction_whiskered_gang",
+      "label": "includes"
+    },
+    {
+      "source": "faction_mountain_s_toe_gold_mine_operation",
+      "target": "plot_mountain_s_toe_earthstone_gem",
+      "label": "blocked by"
+    },
+    {
+      "source": "faction_privy_council_of_phandalin",
+      "target": "location_phandalin",
+      "label": "governs"
+    },
+    {
+      "source": "faction_privy_council_of_phandalin",
+      "target": "npc_harbin_wester",
+      "label": "led by"
+    },
+    {
+      "source": "plot_statue_delivery_to_elara_seasong_meliame",
+      "target": "location_neverwinter",
+      "label": "located in"
+    },
+    {
+      "source": "plot_statue_delivery_to_elara_seasong_meliame",
+      "target": "npc_elara_seasong_meliame",
+      "label": "targets"
+    },
+    {
+      "source": "plot_statue_delivery_to_elara_seasong_meliame",
+      "target": "faction_house_margaster",
+      "label": "threatened by"
+    },
+    {
+      "source": "plot_kraken_society_drowned_gate_beneath_yllyn",
+      "target": "faction_kraken_society",
+      "label": "driven by"
+    },
+    {
+      "source": "plot_kraken_society_drowned_gate_beneath_yllyn",
+      "target": "location_yllyn",
+      "label": "located in"
+    },
+    {
+      "source": "plot_kraken_society_drowned_gate_beneath_yllyn",
+      "target": "location_leilon",
+      "label": "connected to warning at"
+    },
+    {
+      "source": "plot_anchorites_of_talos_threat",
+      "target": "faction_anchorites_of_talos",
+      "label": "driven by"
+    },
+    {
+      "source": "plot_anchorites_of_talos_threat",
+      "target": "location_neverwinter_wood",
+      "label": "located in"
+    },
+    {
+      "source": "plot_anchorites_of_talos_threat",
+      "target": "arc_score_talosian_threat_score",
+      "label": "affects"
+    },
+    {
+      "source": "plot_mountain_s_toe_earthstone_gem",
+      "target": "faction_mountain_s_toe_gold_mine_operation",
+      "label": "blocks"
+    },
+    {
+      "source": "plot_mountain_s_toe_earthstone_gem",
+      "target": "faction_whiskered_gang",
+      "label": "assigned to"
+    },
+    {
+      "source": "plot_planar_rift_at_whispering_grove",
+      "target": "location_whispering_wood_whispering_grove",
+      "label": "located in"
+    },
+    {
+      "source": "plot_planar_rift_at_whispering_grove",
+      "target": "arc_score_planar_distortion_score",
+      "label": "affects"
+    },
+    {
+      "source": "plot_aletra_at_large",
+      "target": "npc_aletra",
+      "label": "central to"
+    },
+    {
+      "source": "plot_aletra_at_large",
+      "target": "faction_house_sotorra",
+      "label": "connected to"
+    },
+    {
+      "source": "plot_adabra_s_opposition",
+      "target": "npc_adabra",
+      "label": "driven by"
+    },
+    {
+      "source": "plot_adabra_s_opposition",
+      "target": "faction_emerald_enclave",
+      "label": "affects"
+    },
+    {
+      "source": "plot_adabra_s_opposition",
+      "target": "arc_score_meril_s_legacy",
+      "label": "affects"
+    },
+    {
+      "source": "plot_frozen_treasure_hoard_at_icespire_hold",
+      "target": "location_icespire_hold",
+      "label": "located in"
+    },
+    {
+      "source": "plot_woodland_manse_eradication",
+      "target": "location_woodland_manse",
+      "label": "located in"
+    },
+    {
+      "source": "plot_woodland_manse_eradication",
+      "target": "faction_anchorites_of_talos",
+      "label": "enemy in"
+    },
+    {
+      "source": "plot_falcon_the_hunter_s_lodge_reclamation",
+      "target": "location_falcon_the_hunter_s_hunting_lodge",
+      "label": "located in"
+    },
+    {
+      "source": "plot_falcon_the_hunter_s_lodge_reclamation",
+      "target": "faction_anchorites_of_talos",
+      "label": "enemy in"
+    },
+    {
+      "source": "plot_falcon_the_hunter_s_lodge_reclamation",
+      "target": "npc_falcon_the_hunter",
+      "label": "involves"
+    },
+    {
+      "source": "plot_brundar_s_echo_grundar_quartzvein",
+      "target": "faction_house_sotorra",
+      "label": "caused by"
+    },
+    {
+      "source": "plot_brundar_s_echo_grundar_quartzvein",
+      "target": "arc_score_brundar_s_echo",
+      "label": "tracked by"
+    },
+    {
+      "source": "plot_miral_s_warning_storm_below_leilon",
+      "target": "npc_miral",
+      "label": "issued by"
+    },
+    {
+      "source": "plot_miral_s_warning_storm_below_leilon",
+      "target": "location_leilon",
+      "label": "references"
+    },
+    {
+      "source": "plot_meril_s_staff_mystery",
+      "target": "npc_meril",
+      "label": "concerns"
+    },
+    {
+      "source": "plot_meril_s_staff_mystery",
+      "target": "party_soma",
+      "label": "concerns"
+    },
+    {
+      "source": "plot_meril_s_staff_mystery",
+      "target": "arc_score_meril_s_legacy",
+      "label": "triggers"
+    },
+    {
+      "source": "plot_rightful_owners_of_shipwreck_treasures",
+      "target": "location_tower_of_storms",
+      "label": "originated at"
+    },
+    {
+      "source": "plot_rightful_owners_of_shipwreck_treasures",
+      "target": "npc_ser_kaelen",
+      "label": "managed by"
+    },
+    {
+      "source": "plot_house_margaster_order_of_the_gauntlet_letter",
+      "target": "faction_house_margaster",
+      "label": "concerns"
+    },
+    {
+      "source": "plot_house_margaster_order_of_the_gauntlet_letter",
+      "target": "faction_order_of_the_gauntlet",
+      "label": "concerns"
+    },
+    {
+      "source": "plot_house_margaster_order_of_the_gauntlet_letter",
+      "target": "npc_jenna",
+      "label": "sent by"
+    },
+    {
+      "source": "plot_obsidian_sword_rightful_owner",
+      "target": "party_vukradin",
+      "label": "held by"
+    },
+    {
+      "source": "plot_obsidian_sword_rightful_owner",
+      "target": "npc_the_carver",
+      "label": "was weapon of"
+    },
+    {
+      "source": "arc_score_kraken_society_echoes",
+      "target": "faction_kraken_society",
+      "label": "tracks"
+    },
+    {
+      "source": "arc_score_planar_distortion_score",
+      "target": "plot_planar_rift_at_whispering_grove",
+      "label": "tracks"
+    },
+    {
+      "source": "arc_score_brundar_s_echo",
+      "target": "npc_grundar_quartzvein",
+      "label": "tracks"
+    },
+    {
+      "source": "arc_score_talosian_threat_score",
+      "target": "faction_anchorites_of_talos",
+      "label": "tracks"
+    },
+    {
+      "source": "arc_score_searing_dawn",
+      "target": "party_valphine_sotorra",
+      "label": "tracks"
+    },
+    {
+      "source": "arc_score_meril_s_legacy",
+      "target": "party_soma",
+      "label": "tracks"
+    },
+    {
+      "source": "arc_score_thistle_s_echo",
+      "target": "party_brewbarry",
+      "label": "tracks"
+    },
+    {
+      "source": "location_stonehill_inn",
+      "target": "location_phandalin",
+      "label": "located in"
+    },
+    {
+      "source": "location_dragon_barrow",
+      "target": "location_neverwinter_wood",
+      "label": "located near"
+    },
+    {
+      "source": "location_circle_of_thunder",
+      "target": "location_neverwinter_wood",
+      "label": "located in"
+    },
+    {
+      "source": "location_woodland_manse",
+      "target": "location_neverwinter_wood",
+      "label": "located in"
+    },
+    {
+      "source": "location_falcon_the_hunter_s_hunting_lodge",
+      "target": "location_neverwinter_wood",
+      "label": "located in"
+    },
+    {
+      "source": "location_whispering_wood_whispering_grove",
+      "target": "location_neverwinter_wood",
+      "label": "part of"
+    },
+    {
+      "source": "location_axeholm",
+      "target": "location_phandalin",
+      "label": "south of"
+    },
+    {
+      "source": "location_dwarven_excavation",
+      "target": "location_phandalin",
+      "label": "near"
+    },
+    {
+      "source": "location_gnomengarde",
+      "target": "location_phandalin",
+      "label": "near"
+    },
+    {
+      "source": "location_tower_of_storms",
+      "target": "location_neverwinter",
+      "label": "near coast of"
+    },
+    {
+      "source": "location_shrine_of_savras",
+      "target": "location_phandalin",
+      "label": "near"
+    },
+    {
+      "source": "location_yllyn",
+      "target": "location_leilon",
+      "label": "below"
+    },
+    {
+      "source": "npc_delaan_winterhound",
+      "target": "faction_emerald_enclave",
+      "label": "member of"
+    }
+  ]
+}

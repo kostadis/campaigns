@@ -1,155 +1,150 @@
 ## NPCs
 
 **Daz**
-- Current location: Cavern battlefield (Velkynvelve or connected area in the Underdark)
-- Current state: Active combatant; maintaining a deception as a follower/vessel of Lolth
-- Recent actions: Attempted to deceive Asha Vandree using Dancing Lights channeled through his spider familiar to simulate divine contact; claimed divine possession by Lolth (failed); pivoted to a vaguer mystical framing; negotiated alliance with Asha; cast Fireball (4th level) sculpted around allies, hitting Ilvara and the Zuggtmoy icon for 12 damage each
-- Faction: The party; self-identifies (in persona) as a follower of Lolth; claims membership in the Ember Vanguard ("the feared mage of the Ember Vanguard")
-- Revealed details: Is a wizard (not a cleric); is a drow; has a spider familiar; possesses Sculpt Spells ability; has one 4th-level spell slot; has studied divine possession and drow religious practices extensively; finds the Ember Vanguard title ironic
+- Current location: Velkynvelve cavern, active combat
+- Current state: Alive, mid-combat; has expended one 4th-level spell slot (Fireball)
+- Recent actions: Deceived Asha Vandree using Dancing Lights and a divine possession roleplay; pivoted deception when initial approach failed; recruited Asha as provisional ally; cast Fireball at 4th level targeting Ilvara and the Zuggtmoy icon simultaneously, using Sculpt Spells to exclude Zalthir and Thorin from the blast radius
+- Faction: Ember Vanguard (self-described); travelling party
+- Revealed motivations/secrets: Identifies internally as "the feared mage of the Ember Vanguard"; notes the irony of that self-description; is aware his Lolth-devotee deception was seen through but leveraged the wreckage of it anyway
 
 **Asha Vandree**
-- Current location: Perimeter of the cavern battlefield
-- Current state: Uninfected by Zuggtmoy's spores; alive and allied with the party
-- Recent actions: Met with Daz; saw through his divine possession deception; reframed him as a spore-deluded but genuinely powerful wizard; provided detailed intelligence on Ilvara, the Big Heart Fungus, infection mechanics, and Jorlan; agreed to an alliance where the party kills Ilvara; offered Ilvara's magical items as payment (with caveat they may be contaminated); agreed to hold the perimeter during combat, handling external threats
-- Faction: Drow; follower of Lolth (genuine); opposed to Ilvara
-- Motivations: Deeply hates Ilvara; views Ilvara as corrupted and a traitor to Lolth; fears Ilvara's Zuggtmoy corruption will spread; wants Ilvara dead; has been planning to have someone else do the killing
-- Revealed secrets: She and Jorlan are the only two members of Ilvara's group uninfected; she has maintained 20 feet of distance from infected individuals and eaten separate food to avoid infection; she has seen the divine-possession con before, multiple times; she recognized Daz's spider familiar from an earlier encounter ("smaller form")
+- Current location: Velkynvelve cavern, holding perimeter outside the main engagement
+- Current state: Alive, uninfected; maintaining 20-foot distance from Ilvara as a precautionary measure
+- Recent actions: Saw through Daz's divine possession claim; constructed her own explanatory frame (spore-maddened deluded wizard); accepted the party as instruments to kill Ilvara; shared detailed intelligence on Ilvara's corruption, the mechanism of infection, and the Zuggtmoy icon; agreed to hold the perimeter against outside threats during the assault; promised Ilvara's magical items as payment, with caveat that they may be contaminated
+- Faction: Lolth faithful (anti-Zuggtmoy faction within Velkynvelve)
+- Revealed motivations/secrets: Genuinely despises Ilvara; hatred is personal and long-accumulated, not purely political; was herself the architect of a plan requiring outside agents to close the lethal distance she cannot; only she and Jorlan remain uninfected; has been maintaining strict separation protocols (20-foot distance, separate food) to avoid infection; was "going to kill her — that is where you come in," indicating she had no viable independent path to doing so
 
 **Ilvara**
-- Current location: Elevated platform in the cavern; later relocated via fungal teleportation to cavern floor
-- Current state: Wounded (took 31 damage from Zalthir's melee attacks, 12 from Daz's Fireball — half-saved); corrupted by Zuggtmoy; still standing
-- Recent actions: Was grappled by Zalthir; screamed "at herself" when threatened; escaped grapple by dissolving into fungal matter on the floor and reappearing elsewhere; raised four fungal spore servants (former Velkynvelve guards); half-saved against Fireball
-- Faction: Formerly a high priestess of Lolth; now aligned with Zuggtmoy; believes Lolth wishes to be married (to Zuggtmoy)
-- Revealed details: Was once a high priestess of Lolth; has been "seduced" by the idea that Lolth wishes to be married; described as having "something foul and stinking about her"; her allies have turned into mindless fungal creatures; possesses magical items; can teleport/phase through fungal matter on the cavern floor; acquired a mushroom artifact from Neverlight Grove that served as the mechanism of corruption
+- Current location: Velkynvelve cavern, elevated platform, then cavern floor after escaping grapple
+- Current state: Alive but damaged; has taken 31 damage from Zalthir's strikes and 12 from Daz's Fireball (43 total recorded); used a movement/escape ability to dissolve into fungal matter beneath her feet and reappear elsewhere on the cavern floor
+- Recent actions: Was grappled by Zalthir on the elevated platform; took 16 then 15 damage from Zalthir; screamed at herself upon being hurt; escaped the grapple by flowing through fungal matter and teleporting across the cavern; is actively commanding spore servants; is still standing as of the end of the session excerpt
+- Faction: Formerly Lolth (high priestess); now corrupted by Zuggtmoy/Zuggtmoy-aligned via the mushroom artifact from Neverlight Grove
+- Revealed motivations/secrets: Asha states Ilvara has become "seduced by this abomination" — the belief that Lolth wishes to marry Zuggtmoy; her corruption has spread to her allies, converting them into mindless fungal creatures; she possesses magical items that may be contaminated; she retains Zuggtmoy icon/artifact sourced from Neverlight Grove
 
 **Jorlan**
-- Current location: Bridge area of the cavern; near the party's side
-- Current state: Heavily wounded (took 21 damage from Glyph of Warding, 14 damage from Thorin's critical hit with Dawnbringer); under Sap effect (disadvantage on next attack); uninfected by Zuggtmoy's spores
-- Recent actions: Charged across the bridge when goaded by Grygum; triggered the Glyph of Warding; was struck by Thorin with Dawnbringer
-- Faction: Drow; part of Ilvara's group but uninfected
-- Revealed details: Survived uninfected through hatred (per Asha's intelligence); is hostile to the party; ego-driven enough to be baited by insults
-
-**Zalthir**
-- Current location: Hovering 10 feet above the cavern floor, above the spore cloud
-- Current state: Poisoned by spore cloud from Big Heart Fungus; out of actions and bonus actions; unsinged by Daz's Fireball
-- Recent actions: Teleported to Ilvara's elevated platform; grappled Ilvara; dealt 31 total damage to her (16 + 15); attempted to drag her toward the Dust of Suleiman zone; lost grapple when Ilvara phased through fungal matter; was poisoned by the Big Heart Fungus spore cloud; disengaged vertically 10 feet; reflected on Valen
-- Faction: The party
-- Revealed details: Is a dragonborn; can fly; can teleport; has melee combat capability; has one 4th-level spell slot; reflected on Valen with some emotional weight
+- Current location: Velkynvelve cavern, on or near the bridge, compromised/reeling
+- Current state: Alive but significantly damaged; took full force of the Glyph of Warding detonation; subsequently struck for 14 damage by Thorin's critical hit with Dawnbringer; staggered; pushed off-balance with disadvantage on next attack
+- Recent actions: Was positioned on his side of the bridge before combat; charged across the bridge in response to Grygum's taunt; triggered the Glyph of Warding; absorbed the blast; was then struck by Thorin; managed to land a glancing blow on Thorin for 5 damage via a spore servant legendary action follow-up
+- Faction: Surviving Velkynvelve drow (uninfected per Asha); described as surviving through hatred rather than devotion
+- Revealed motivations/secrets: Asha identifies Jorlan as one of only two uninfected survivors; his survival is attributed to hatred rather than religious devotion; demonstrated impulsive commitment when baited — ego overrode tactical awareness
 
 **Grygum**
-- Current location: Cavern battlefield
-- Current state: Active combatant
-- Recent actions: Lent his light crossbow to Thorin; inscribed Glyph of Warding onto the bridge on Jorlan's side (triggered by hostile creatures crossing); goaded Jorlan into the trap ("Come get it, idiot"); committed Dust of Suleiman directly onto the Big Heart Fungus
-- Faction: The party
-- Revealed details: Is a dwarf; had one 4th-level spell slot; had a light crossbow; possesses Dust of Suleiman (now used); capable of casting Glyph of Warding; has personal history with the mushroom artifact's corruption (warned specifically by "the fates" not to touch it); Thorin considers him "okay"
+- Current location: Velkynvelve cavern, active combat
+- Current state: Alive; has expended one 4th-level spell slot; lent light crossbow to Thorin
+- Recent actions: Lent his light crossbow to Thorin; inscribed the Glyph of Warding into the bridge stone (trigger: hostile creature crossing; invisible once complete; detonated for 21 damage in a sphere); verbally baited Jorlan into crossing the bridge and triggering the glyph; committed the Dust of Suleiman directly onto the Big Heart Fungus
+- Faction: Travelling party; cleric of Bahamut (implied — notes "Bahamut may or may not have been watching")
+- Revealed motivations/secrets: Takes observational notes as habit; expresses genuine surprise when plans succeed; honest self-assessment in tactical communication
+
+**Zalthir**
+- Current location: Hovering 10 feet above the cavern floor, above the spore cloud, as of end of excerpt
+- Current state: Alive but poisoned (poisoned condition acquired from Big Heart Fungus spore cloud); out of actions and bonus actions; frustrated
+- Recent actions: Teleported directly to Ilvara on the elevated platform; grappled her; struck twice for 16 and 15 damage (31 total); attempted to move her toward the Dust of Suleiman area; lost the grapple when Ilvara dissolved into fungal matter; took full brunt of Big Heart Fungus spore cloud; disengaged and flew 10 feet up to clear the worst of the cloud; verbally noted the fate of the guards ("those poor guards, they've been through quite a lot"); reflected on Valen
+- Faction: Travelling party
+- Revealed motivations/secrets: Used teleportation offensively as a tactical weapon; thought of Valen in relation to the fungal guard-creatures
 
 **Thorin**
-- Current location: Cavern battlefield, melee range of Jorlan
-- Current state: Active combatant; took 5 damage from a spore servant; unsinged by Daz's Fireball
-- Recent actions: Borrowed light crossbow from Grygum; struck Jorlan with Dawnbringer (critical hit, 14 damage); missed second swing; applied Sap to Jorlan (imposing disadvantage); took a hit from a spore servant for 5 damage
-- Faction: The party
-- Revealed details: Wields Dawnbringer (a light-producing blade); has Sap ability; has personal history with the mushroom artifact's corruption (warned specifically not to touch it alongside Grygum)
+- Current location: Velkynvelve cavern, engaged in melee with Jorlan
+- Current state: Alive; took 5 damage from a spore servant's attack; wielding Dawnbringer and borrowed crossbow
+- Recent actions: Borrowed Grygum's light crossbow; participated in pre-combat planning; noted glyph placement carefully to avoid stepping on it; closed on Jorlan after the glyph detonated; landed a critical hit with Dawnbringer for 14 damage; second swing missed; used Sap to push Jorlan off-balance, imposing disadvantage on Jorlan's next attack; took 5 damage from a spore servant follow-up
+- Faction: Travelling party
+- Revealed motivations/secrets: Declined to touch the mushroom artifact (shares prior context with Grygum on where that road leads); files Zalthir under "useful people" for teleportation-as-weapon capability; maintains tactical wariness about Asha's drow nature and her schedule of engagement; internally respects Jorlan's commitment even while exploiting it
 
 **Glabbagool**
-- Current location: Present at the negotiation with Asha; present in cavern
-- Current state: Alive; attempted to disguise as a rock (failed due to visible, wandering eyes)
-- Faction: The party (allied); accepted by Asha as Daz's bound familiar
-- Revealed details: Is a gelatinous ooze (grey ooze); has multiple visible eyes that move independently; has never needed to pretend to be geological before; described as "strange and drifting and thoroughly uncategorizable"
+- Current location: Velkynvelve cavern
+- Current state: Alive; present during the Asha negotiation
+- Recent actions: Attempted to pass as a rock during Daz's negotiation with Asha; failed (eyes drifted); was passed off by Daz as a bound familiar; accepted as such by Asha
+- Faction: Travelling party
+- Revealed motivations/secrets: Apparently possesses eyes that move independently; has not previously needed to pretend to be geological; accepted as credible evidence of Daz's "unusual power" by Asha
 
-**Valen**
-- Current location: Unknown / not present
+**Valen** (referenced, not present)
+- Current location: Unknown; not present in this session
 - Current state: Unknown
-- Recent actions: Referenced by Zalthir in reflection during combat
-- Revealed details: Was once in the same position as the Velkynvelve guards who are now spore servants; could have become one of them under different circumstances; was formerly a guard/soldier of some kind
+- Recent actions: None in this excerpt; referenced by Zalthir when observing the fungal guard-creatures
+- Notes: Zalthir reflected on Valen in connection with the fate of the Velkynvelve guards — Valen was formerly the same type of soldier as these guards, who are now fungal creatures
 
-**Elvara (referenced as "Elvara" by Asha)**
-- Mentioned by Asha as a possible source of trickery ("Is this another trick of Elvara's?")
-- Likely the same as Ilvara (alternate spelling/reference)
+**The Fungal Guards / Former Velkynvelve Guards** (deceased/corrupted)
+- Current state: Four bodies raised as spore servants by Ilvara during combat; one destroyed by the Glyph of Warding detonation; remaining servants staggered; at least one barely holding together
+- Recent actions: Rose from the cavern floor at Ilvara's command; engaged the party; one delivered a glancing blow on Thorin via legendary action for 5 damage; one destroyed by Glyph of Warding
+- Notes: Zalthir identifies them as "poor guards" who "have been through quite a lot"; Grygum notes they were drow with names and duties who have been "repurposed"
+
+---
 
 ## Factions
 
-**The Party**
-- Current goals: Kill Ilvara; destroy the Big Heart Fungus; destroy the Zuggtmoy icon; survive the cavern battle
-- Recent actions: Negotiated alliance with Asha Vandree; laid Glyph of Warding trap on bridge; initiated combat against Ilvara, Jorlan, the Big Heart Fungus, and spore servants; deployed Dust of Suleiman, Fireball, and melee attacks
-- Key members: Daz (wizard), Thorin (melee fighter with Dawnbringer), Zalthir (dragonborn, teleporter/flyer), Grygum (dwarf, spellcaster), Glabbagool (gelatinous ooze ally)
-- Relationships: Allied with Asha Vandree (provisional); hostile to Ilvara, Jorlan, and all Zuggtmoy-corrupted forces
-- Resources expended: Grygum's Glyph of Warding (detonated), Dust of Suleiman (used on Big Heart Fungus), Daz's 4th-level Fireball
+**Lolth faithful (Asha Vandree's faction, Velkynvelve)**
+- Current goals: Kill Ilvara; prevent the spread of Zuggtmoy's corruption; destroy the Zuggtmoy icon/mushroom artifact
+- Recent actions: Asha recruited the party as instruments to close the lethal distance she cannot; is holding the external perimeter during the assault
+- Relationships: Hostile to Ilvara/Zuggtmoy faction; provisional ally to the travelling party; Jorlan is the only other uninfected member
+- Key members: Asha Vandree; Jorlan (uninfected by hatred, not devotion)
 
-**Ilvara's Corrupted Force**
-- Current goals: Unknown beyond opposing the party; aligned with Zuggtmoy's interests; Ilvara believes in Lolth-Zuggtmoy marriage
-- Recent actions: Ilvara raised four spore servants from former Velkynvelve guards; Big Heart Fungus deployed poison spore cloud across battlefield
-- Key members: Ilvara (leader, corrupted priestess), Jorlan (uninfected but part of group), spore servants (former Velkynvelve guards), Big Heart Fungus
-- Relationships: Opposed by Asha Vandree and the party; connected to Zuggtmoy; connected to Neverlight Grove (source of mushroom artifact)
+**Zuggtmoy-aligned / Ilvara's faction**
+- Current goals: Unclear beyond defending Ilvara and the icon; the infected allies operate as mindless fungal creatures
+- Recent actions: Ilvara commanded four spore servants; used the Big Heart Fungus as a battlefield weapon; deployed a spore cloud across the cavern floor; escaped Zalthir's grapple via fungal teleportation
+- Relationships: Hostile to Lolth faithful; hostile to the travelling party; formerly allied with Lolth (Ilvara was once high priestess)
+- Key members: Ilvara; Jorlan (functionally hostile to the party but not infected); fungal guard-creatures (former Velkynvelve guards); Big Heart Fungus (active combatant)
 
-**Lolth's Faithful (Asha's allegiance)**
-- Current goals: Kill Ilvara; prevent spread of Zuggtmoy corruption; maintain true worship of Lolth
-- Key members: Asha Vandree
-- Relationships: Opposed to Ilvara and Zuggtmoy influence; provisionally allied with the party
+**The Travelling Party / Ember Vanguard**
+- Current goals: Kill Ilvara; destroy the Zuggtmoy icon; survive the combat; collect payment (Ilvara's magical items)
+- Recent actions: Negotiated provisional alliance with Asha; placed Glyph of Warding on the bridge; initiated combat against Ilvara; deployed multiple high-level resources (Glyph, Dust of Suleiman, Fireball at 4th level); grappled Ilvara; baited Jorlan into the glyph
+- Relationships: Provisional alliance with Asha Vandree; hostile to Ilvara and Jorlan; Glabbagool is a member/familiar
+- Key members: Daz, Thorin, Zalthir, Grygum, Glabbagool
 
-**Zuggtmoy's Influence**
-- Current goals: Spread corruption; the "bride" concept — Lolth wishes to be married (per Ilvara's corrupted belief)
-- Recent actions: Corrupted Ilvara from Lolth priestess to Zuggtmoy agent; turned Velkynvelve guards into mindless fungal spore servants; Big Heart Fungus serving as a battlefield weapon
-- Relationships: Opposed by Asha Vandree and Lolth loyalists; mechanism of corruption is the mushroom artifact from Neverlight Grove
-
-**Ember Vanguard**
-- Daz claims membership/identity as "the feared mage of the Ember Vanguard"
-- No other details provided; Daz notes irony in the title
+---
 
 ## World Events
 
-- Daz used Dancing Lights channeled through his spider familiar to simulate divine contact from Lolth in front of Asha Vandree
-- Asha Vandree saw through Daz's divine possession deception, having encountered similar cons before
-- Asha reframed Daz as potentially spore-deluded by Zuggtmoy but still useful
-- Asha provided detailed intelligence: only she and Jorlan remain uninfected; Ilvara was corrupted via a mushroom artifact from Neverlight Grove; the Big Heart Fungus is the primary weapon and requires sustained damage to destroy
-- Asha agreed to an alliance: the party kills Ilvara, she holds the perimeter; payment is Ilvara's magical items (possibly contaminated) and "the gratitude of Lolth"
-- Glabbagool attempted to disguise as a rock during negotiations and failed; Asha accepted him as Daz's bound familiar
-- Grygum inscribed a Glyph of Warding on the bridge on Jorlan's side, triggered by hostile creatures crossing
-- Thorin borrowed Grygum's light crossbow
-- The party discussed tactical options: Glyph of Warding, Dust of Suleiman, Phantasmal Killer, Fireball; noted Grygum and Daz each had one 4th-level slot
-- Zalthir teleported to Ilvara's elevated platform, grappled her, and dealt 31 damage across two strikes
-- Zalthir attempted to drag Ilvara toward the Dust of Suleiman zone
-- Ilvara screamed "at herself" and escaped by dissolving into fungal matter, reappearing elsewhere on the cavern floor
-- The Big Heart Fungus released a 20-foot poison spore cloud across the battlefield
-- Zalthir was poisoned by the spore cloud and retreated 10 feet upward
-- Ilvara raised four spore servants from former Velkynvelve guards
-- Grygum goaded Jorlan into charging across the bridge, triggering the Glyph of Warding (21 force damage); one spore servant destroyed, others staggered, Jorlan hit
-- Thorin struck Jorlan with Dawnbringer (critical hit, 14 damage) and applied Sap (disadvantage)
-- A spore servant attacked Thorin: one miss (natural 1), one hit for 5 damage
-- Grygum applied Dust of Suleiman directly to the Big Heart Fungus
-- Daz cast Fireball at 4th level, sculpted around Zalthir and Thorin, hitting Ilvara (half-save, 12 damage) and the Zuggtmoy icon (12 damage)
-- The combined Dust of Suleiman and Fireball effects caused significant battlefield disruption
+- Daz performed the Dancing Lights deception for Asha Vandree, threading light through his spider familiar and absorbing it, to simulate divine attention from Lolth
+- Asha Vandree identified and rejected Daz's divine possession claim, recognizing it as a known con used by fake Lolth followers
+- Asha constructed an alternative frame: Daz and the party are spore-maddened or deluded, possibly infected by Zuggtmoy's spores or Elvara's tricks
+- Daz pivoted to lean into the "deluded believer" framing and introduced the rest of the party to Asha
+- Glabbagool attempted to disguise itself as a rock; failed; was accepted by Asha as a bound familiar consistent with a deluded mage's unusual power
+- Asha provided intelligence: Ilvara was once a high priestess of Lolth; she has been corrupted by the Zuggtmoy/Bride-of-Lolth ideology; her allies have been converted to mindless fungal creatures; the mushroom artifact from Neverlight Grove is the mechanism of corruption; the Big Heart Fungus is a primary weapon requiring sustained damage; only Asha and Jorlan remain uninfected
+- Asha confirmed her survival protocol: 20-foot maintained distance from Ilvara, separate food supply
+- The party negotiated terms: they kill Ilvara; Asha holds the external perimeter; payment is Ilvara's magical items (possibly contaminated) plus the gratitude of Lolth
+- Grygum borrowed — correction: Thorin borrowed Grygum's light crossbow
+- Grygum inscribed a Glyph of Warding into the bridge stone on Jorlan's side; trigger set to hostile creature crossing; made invisible upon completion
+- Zalthir teleported directly to Ilvara on her elevated platform, initiating combat
+- Zalthir grappled Ilvara and struck twice for 16 and 15 damage (31 total)
+- Zalthir began moving Ilvara toward the Dust of Suleiman area
+- Ilvara screamed at herself, then dissolved into the fungal matter beneath her feet and teleported elsewhere on the cavern floor, breaking the grapple
+- The Big Heart Fungus detonated a spore cloud across the cavern floor — a 20-foot area of spore-thick poison that did not drift or disperse
+- Zalthir took the full brunt of the spore cloud and acquired the poisoned condition; disengaged and flew 10 feet up to clear the cloud
+- Ilvara raised four former Velkynvelve guards as spore servants from the cavern floor
+- Grygum verbally taunted Jorlan ("come get it, idiot"), baiting him into charging across the bridge
+- Jorlan charged across the bridge and triggered the Glyph of Warding, which detonated for 21 force damage in a sphere
+- One spore servant was destroyed by the glyph detonation; remaining servants staggered; Jorlan took the full blast
+- Thorin closed on Jorlan and landed a critical hit with Dawnbringer for 14 damage; second swing missed; used Sap to impose disadvantage on Jorlan's next attack
+- A spore servant landed a glancing blow on Thorin for 5 damage via legendary action
+- Grygum committed the Dust of Suleiman directly onto the Big Heart Fungus
+- Daz cast Fireball at 4th level (8 dice), using Sculpt Spells to exclude Zalthir and Thorin; targeted Ilvara and the Zuggtmoy icon simultaneously; Ilvara half-saved, taking 12 damage; the icon took 12 damage
+- Both Zalthir and Thorin were unsinged by the Fireball due to Sculpt Spells
+
+---
 
 ## Locations
 
-**The Cavern Battlefield**
-- A large cavern in the Underdark; site of the battle against Ilvara
-- Features: an elevated platform (where Ilvara was positioned), a bridge (where Glyph of Warding was placed, connecting to Jorlan's side), cavern floor covered in fungal matter (which Ilvara can phase through)
-- Contains: the Big Heart Fungus (large organism, primary weapon, anchor of far end of battlefield), a Zuggtmoy icon/artifact near Ilvara's position
-- Current state: Active battlefield; spore cloud covering portions of floor; fire damage from Fireball; Glyph of Warding detonated on bridge; Dust of Suleiman applied to Big Heart Fungus
+**Velkynvelve Cavern**
+- What it is: Drow outpost/stronghold in the Underdark; former base of Ilvara and her garrison
+- What happened there: Site of the current combat encounter; contains an elevated platform where Ilvara was positioned; contains a bridge where the Glyph of Warding was placed; contains the Big Heart Fungus as an active environmental/combat hazard; spore cloud from the Big Heart Fungus now occupies a 20-foot area of the cavern floor
+- Current state: Active combat; partially destroyed (one spore servant eliminated, glyph detonated on bridge); spore cloud present on cavern floor; most of Ilvara's garrison converted to fungal creatures
 
-**Velkynvelve**
-- Referenced as the origin of the guards now turned into spore servants
-- Connection to the cavern battlefield implied
+**Neverlight Grove** (referenced, not visited in this excerpt)
+- What it is: A location previously visited or known to the party
+- What happened there: Source of the mushroom artifact that Ilvara used as the mechanism of her corruption
+- Current state: Not described in this excerpt beyond being named as the artifact's origin
 
-**Neverlight Grove**
-- Source of the mushroom artifact that served as the mechanism of Ilvara's corruption
-- Not directly visited in this session
-
-**Menzoberranzan**
-- Referenced as the social ecosystem in which Ilvara developed her survival skills (half-saving against Fireball)
-- Drow city; cultural context for Asha's information-as-currency worldview
+---
 
 ## Threads & Mysteries
 
-- **The Big Heart Fungus is still standing**: Asha warned it requires sustained damage and will not die quickly or easily; it has been hit with Dust of Suleiman but remains active
-- **Ilvara is still alive**: Wounded but escaped via fungal teleportation; can phase through fungal matter on the cavern floor; her full capabilities remain unclear
-- **Ilvara's magical items**: Offered as payment by Asha but may be contaminated by Zuggtmoy's corruption; nature and extent of contamination unknown
-- **The Zuggtmoy icon**: Hit by Fireball for 12 damage but status unclear; described as a seed-like threat that must be destroyed
-- **The mushroom artifact from Neverlight Grove**: Mechanism of Ilvara's corruption; current location unclear; Thorin and Grygum were specifically warned by "the fates" not to touch it — both have prior history with its corruption
-- **Zuggtmoy's "bride" concept**: Ilvara believes Lolth wishes to be married; the theological/cosmological significance of this belief and whether it reflects actual divine activity is unresolved
-- **Asha Vandree's true loyalty and reliability**: She is holding the perimeter but explicitly operating on her own schedule; Thorin notes she will act at the angle that suits her; her long-term intentions beyond Ilvara's death are unclear
-- **Jorlan's role and fate**: Heavily wounded but still alive; his motivations beyond hostility are not fully explored; Asha identified hatred as his immunity mechanism
-- **Valen's fate and connection**: Zalthir reflected on Valen in connection to the spore servants; Valen's current status and what happened to them remains unresolved
-- **Daz's deception with Asha**: Asha has not truly believed Daz's Lolth connection but chose to use him anyway; this provisional arrangement could collapse if circumstances change
-- **The Ember Vanguard**: Daz identifies as its "feared mage" but notes irony; the faction's nature and Daz's true relationship to it are unexplored
-- **Spread of Zuggtmoy's corruption**: Asha fears the disease will spread beyond Ilvara's immediate group; the broader scope of infection in the Underdark is unresolved
+- Whether Ilvara will be successfully killed, and what resources she has remaining (abilities, allies, escape routes beyond the fungal teleportation already demonstrated)
+- Whether the Big Heart Fungus has been sufficiently damaged by the Dust of Suleiman and Fireball, or whether it will continue to act as a battlefield threat
+- Whether Jorlan will continue fighting or be neutralised; his current damage state and remaining capability are unconfirmed
+- Whether Asha Vandree will honour her commitment to hold the perimeter and not intervene on her own schedule/angle during the combat
+- Whether Ilvara's magical items are actually contaminated, and what that contamination might mean for the party if they take possession of them
+- The nature and scope of the Zuggtmoy corruption — specifically whether it extends beyond Velkynvelve, and what "the bride's power" and the "Zuggtmoy icon" represent in the broader world context
+- What happened to Elvara — Asha referenced "another trick of Elvara's" as an alternative explanation for Daz's deception; Elvara is unnamed elsewhere in this excerpt and their identity and relationship to the events is unclear
+- Zalthir's reflection on Valen in relation to the fungal guards — what Valen's current status is and what connection this observation implies
+- The practical implications of Zalthir being poisoned mid-combat and out of actions/bonus actions
+- Whether any spore servants remain functional after the glyph, Fireball, and Dust of Suleiman; specifically the servant described as "barely holding together"
+- What "Elvara" means to Asha — whether Elvara is a person, a faction, or something else entirely

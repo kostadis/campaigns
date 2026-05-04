@@ -1,0 +1,784 @@
+{
+  "started_at": "2026-04-18T21:26:05.042190+00:00",
+  "completed": [
+    {
+      "canonical": "ser_kaelen.md",
+      "sidecars": [
+        "ser_kaelen.new_notes.006.md",
+        "ser_kaelen.new_notes.007.md",
+        "ser_kaelen.new_notes.010.md",
+        "ser_kaelen.new_notes.013.md",
+        "ser_kaelen.new_notes.016.md",
+        "ser_kaelen.new_notes.017.md",
+        "ser_kaelen.new_notes.023.md",
+        "ser_kaelen.new_notes.024.md",
+        "ser_kaelen.new_notes.029.md",
+        "ser_kaelen.new_notes.031.md",
+        "ser_kaelen.new_notes.036.md",
+        "ser_kaelen.new_notes.037.md",
+        "ser_kaelen.new_notes.038.md"
+      ],
+      "in_chars": 26512,
+      "out_chars": 15949,
+      "had_contradiction": false
+    },
+    {
+      "canonical": "adabra.md",
+      "sidecars": [
+        "adabra.new_notes.005.md",
+        "adabra.new_notes.006.md",
+        "adabra.new_notes.007.md",
+        "adabra.new_notes.010.md",
+        "adabra.new_notes.011.md",
+        "adabra.new_notes.012.md",
+        "adabra.new_notes.013.md",
+        "adabra.new_notes.023.md",
+        "adabra.new_notes.037.md"
+      ],
+      "out_chars": 12993,
+      "had_contradiction": false,
+      "via": "batch"
+    },
+    {
+      "canonical": "aletra.md",
+      "sidecars": [
+        "aletra.new_notes.027.md",
+        "aletra.new_notes.028.md",
+        "aletra.new_notes.029.md"
+      ],
+      "out_chars": 8925,
+      "had_contradiction": false,
+      "via": "batch"
+    },
+    {
+      "canonical": "alphonse_big_al_kalazorn.md",
+      "sidecars": [
+        "alphonse_big_al_kalazorn.new_notes.014.md",
+        "alphonse_big_al_kalazorn.new_notes.015.md",
+        "alphonse_big_al_kalazorn.new_notes.024.md"
+      ],
+      "out_chars": 4654,
+      "had_contradiction": false,
+      "via": "batch"
+    },
+    {
+      "canonical": "backes_dunfield.md",
+      "sidecars": [
+        "backes_dunfield.new_notes.007.md"
+      ],
+      "out_chars": 920,
+      "had_contradiction": false,
+      "via": "batch"
+    },
+    {
+      "canonical": "barthen.md",
+      "sidecars": [
+        "barthen.new_notes.017.md"
+      ],
+      "out_chars": 1614,
+      "had_contradiction": false,
+      "via": "batch"
+    },
+    {
+      "canonical": "boney.md",
+      "sidecars": [
+        "boney.new_notes.032.md",
+        "boney.new_notes.033.md"
+      ],
+      "out_chars": 3366,
+      "had_contradiction": false,
+      "via": "batch"
+    },
+    {
+      "canonical": "borg_the_hammer.md",
+      "sidecars": [
+        "borg_the_hammer.new_notes.015.md"
+      ],
+      "out_chars": 2683,
+      "had_contradiction": false,
+      "via": "batch"
+    },
+    {
+      "canonical": "brewbarry.md",
+      "sidecars": [
+        "brewbarry.new_notes.003.md",
+        "brewbarry.new_notes.004.md",
+        "brewbarry.new_notes.010.md",
+        "brewbarry.new_notes.019.md"
+      ],
+      "out_chars": 5898,
+      "had_contradiction": false,
+      "via": "batch"
+    },
+    {
+      "canonical": "brin_bundlewine.md",
+      "sidecars": [
+        "brin_bundlewine.new_notes.017.md",
+        "brin_bundlewine.new_notes.023.md"
+      ],
+      "out_chars": 2478,
+      "had_contradiction": false,
+      "via": "batch"
+    },
+    {
+      "canonical": "cooragh_struckt.md",
+      "sidecars": [
+        "cooragh_struckt.new_notes.007.md"
+      ],
+      "out_chars": 1063,
+      "had_contradiction": false,
+      "via": "batch"
+    },
+    {
+      "canonical": "corbin.md",
+      "sidecars": [
+        "corbin.new_notes.005.md",
+        "corbin.new_notes.014.md",
+        "corbin.new_notes.023.md",
+        "corbin.new_notes.034.md"
+      ],
+      "out_chars": 4351,
+      "had_contradiction": false,
+      "via": "batch"
+    },
+    {
+      "canonical": "corwin.md",
+      "sidecars": [
+        "corwin.new_notes.017.md"
+      ],
+      "out_chars": 1380,
+      "had_contradiction": false,
+      "via": "batch"
+    },
+    {
+      "canonical": "cryovain.md",
+      "sidecars": [
+        "cryovain.new_notes.035.md",
+        "cryovain.new_notes.036.md",
+        "cryovain.new_notes.037.md",
+        "cryovain.new_notes.038.md"
+      ],
+      "out_chars": 5539,
+      "had_contradiction": false,
+      "via": "batch"
+    },
+    {
+      "canonical": "dabbledob.md",
+      "sidecars": [
+        "dabbledob.new_notes.003.md",
+        "dabbledob.new_notes.004.md"
+      ],
+      "out_chars": 2806,
+      "had_contradiction": false,
+      "via": "batch"
+    },
+    {
+      "canonical": "daran_edermath_silverleaf.md",
+      "sidecars": [
+        "daran_edermath_silverleaf.new_notes.006.md"
+      ],
+      "out_chars": 2019,
+      "had_contradiction": false,
+      "via": "batch"
+    },
+    {
+      "canonical": "dazlyn_grayshard.md",
+      "sidecars": [
+        "dazlyn_grayshard.new_notes.002.md"
+      ],
+      "out_chars": 2363,
+      "had_contradiction": false,
+      "via": "batch"
+    },
+    {
+      "canonical": "delaan_winterhound.md",
+      "sidecars": [
+        "delaan_winterhound.new_notes.012.md"
+      ],
+      "out_chars": 2208,
+      "had_contradiction": false,
+      "via": "batch"
+    },
+    {
+      "canonical": "don_jon_raskin.md",
+      "sidecars": [
+        "don_jon_raskin.new_notes.023.md"
+      ],
+      "out_chars": 2954,
+      "had_contradiction": false,
+      "via": "batch"
+    },
+    {
+      "canonical": "elara.md",
+      "sidecars": [
+        "elara.new_notes.007.md"
+      ],
+      "out_chars": 2830,
+      "had_contradiction": false,
+      "via": "batch"
+    },
+    {
+      "canonical": "elara_seasong_meliame.md",
+      "sidecars": [
+        "elara_seasong_meliame.new_notes.024.md"
+      ],
+      "out_chars": 1796,
+      "had_contradiction": false,
+      "via": "batch"
+    },
+    {
+      "canonical": "facktore.md",
+      "sidecars": [
+        "facktore.new_notes.003.md"
+      ],
+      "out_chars": 1352,
+      "had_contradiction": false,
+      "via": "batch"
+    },
+    {
+      "canonical": "falcon_the_hunter.md",
+      "sidecars": [
+        "falcon_the_hunter.new_notes.017.md",
+        "falcon_the_hunter.new_notes.018.md",
+        "falcon_the_hunter.new_notes.022.md",
+        "falcon_the_hunter.new_notes.031.md"
+      ],
+      "out_chars": 10488,
+      "had_contradiction": false,
+      "via": "batch"
+    },
+    {
+      "canonical": "fibblestib.md",
+      "sidecars": [
+        "fibblestib.new_notes.003.md",
+        "fibblestib.new_notes.004.md"
+      ],
+      "out_chars": 3992,
+      "had_contradiction": false,
+      "via": "batch"
+    },
+    {
+      "canonical": "giles_slipper_shine.md",
+      "sidecars": [
+        "giles_slipper_shine.new_notes.017.md",
+        "giles_slipper_shine.new_notes.023.md"
+      ],
+      "out_chars": 2367,
+      "had_contradiction": false,
+      "via": "batch"
+    },
+    {
+      "canonical": "harbin_wester.md",
+      "sidecars": [
+        "harbin_wester.new_notes.002.md",
+        "harbin_wester.new_notes.010.md",
+        "harbin_wester.new_notes.014.md",
+        "harbin_wester.new_notes.016.md",
+        "harbin_wester.new_notes.017.md",
+        "harbin_wester.new_notes.023.md",
+        "harbin_wester.new_notes.024.md",
+        "harbin_wester.new_notes.025.md",
+        "harbin_wester.new_notes.029.md",
+        "harbin_wester.new_notes.037.md",
+        "harbin_wester.new_notes.038.md"
+      ],
+      "out_chars": 13507,
+      "had_contradiction": false,
+      "via": "batch"
+    },
+    {
+      "canonical": "horia_stonetallow.md",
+      "sidecars": [
+        "horia_stonetallow.new_notes.030.md",
+        "horia_stonetallow.new_notes.031.md",
+        "horia_stonetallow.new_notes.038.md"
+      ],
+      "out_chars": 6356,
+      "had_contradiction": false,
+      "via": "batch"
+    },
+    {
+      "canonical": "jarek.md",
+      "sidecars": [
+        "jarek.new_notes.007.md"
+      ],
+      "out_chars": 1680,
+      "had_contradiction": false,
+      "via": "batch"
+    },
+    {
+      "canonical": "jax.md",
+      "sidecars": [
+        "jax.new_notes.004.md",
+        "jax.new_notes.033.md"
+      ],
+      "out_chars": 2347,
+      "had_contradiction": false,
+      "via": "batch"
+    },
+    {
+      "canonical": "jenna.md",
+      "sidecars": [
+        "jenna.new_notes.016.md",
+        "jenna.new_notes.017.md",
+        "jenna.new_notes.023.md",
+        "jenna.new_notes.029.md"
+      ],
+      "out_chars": 6135,
+      "had_contradiction": false,
+      "via": "batch"
+    },
+    {
+      "canonical": "king_gnercli.md",
+      "sidecars": [
+        "king_gnercli.new_notes.003.md",
+        "king_gnercli.new_notes.004.md"
+      ],
+      "out_chars": 3008,
+      "had_contradiction": false,
+      "via": "batch"
+    },
+    {
+      "canonical": "king_korboz.md",
+      "sidecars": [
+        "king_korboz.new_notes.003.md",
+        "king_korboz.new_notes.004.md"
+      ],
+      "out_chars": 2952,
+      "had_contradiction": false,
+      "via": "batch"
+    },
+    {
+      "canonical": "lady_alagondar.md",
+      "sidecars": [
+        "lady_alagondar.new_notes.032.md",
+        "lady_alagondar.new_notes.033.md"
+      ],
+      "out_chars": 3195,
+      "had_contradiction": false,
+      "via": "batch"
+    },
+    {
+      "canonical": "linene_graywind.md",
+      "sidecars": [
+        "linene_graywind.new_notes.002.md",
+        "linene_graywind.new_notes.010.md",
+        "linene_graywind.new_notes.013.md"
+      ],
+      "out_chars": 3965,
+      "had_contradiction": false,
+      "via": "batch"
+    },
+    {
+      "canonical": "locutus.md",
+      "sidecars": [
+        "locutus.new_notes.016.md"
+      ],
+      "out_chars": 1463,
+      "had_contradiction": false,
+      "via": "batch"
+    },
+    {
+      "canonical": "lord_cassian_meliame.md",
+      "sidecars": [
+        "lord_cassian_meliame.new_notes.024.md"
+      ],
+      "out_chars": 1060,
+      "had_contradiction": false,
+      "via": "batch"
+    },
+    {
+      "canonical": "lord_neverember.md",
+      "sidecars": [
+        "lord_neverember.new_notes.001.md"
+      ],
+      "out_chars": 1786,
+      "had_contradiction": false,
+      "via": "batch"
+    },
+    {
+      "canonical": "lyra.md",
+      "sidecars": [
+        "lyra.new_notes.012.md",
+        "lyra.new_notes.013.md",
+        "lyra.new_notes.021.md",
+        "lyra.new_notes.024.md"
+      ],
+      "out_chars": 8711,
+      "had_contradiction": false,
+      "via": "batch"
+    },
+    {
+      "canonical": "malfire.md",
+      "sidecars": [
+        "malfire.new_notes.012.md"
+      ],
+      "out_chars": 1912,
+      "had_contradiction": false,
+      "via": "batch"
+    },
+    {
+      "canonical": "marian.md",
+      "sidecars": [
+        "marian.new_notes.013.md"
+      ],
+      "out_chars": 2210,
+      "had_contradiction": false,
+      "via": "batch"
+    },
+    {
+      "canonical": "martisha_vinetalker.md",
+      "sidecars": [
+        "martisha_vinetalker.new_notes.007.md"
+      ],
+      "out_chars": 1295,
+      "had_contradiction": false,
+      "via": "batch"
+    },
+    {
+      "canonical": "meril.md",
+      "sidecars": [
+        "meril.new_notes.031.md"
+      ],
+      "out_chars": 2510,
+      "had_contradiction": false,
+      "via": "batch"
+    },
+    {
+      "canonical": "milo_goodbarrel.md",
+      "sidecars": [
+        "milo_goodbarrel.new_notes.006.md"
+      ],
+      "out_chars": 1103,
+      "had_contradiction": false,
+      "via": "batch"
+    },
+    {
+      "canonical": "miral.md",
+      "sidecars": [
+        "miral.new_notes.008.md",
+        "miral.new_notes.009.md"
+      ],
+      "out_chars": 2357,
+      "had_contradiction": false,
+      "via": "batch"
+    },
+    {
+      "canonical": "moesko.md",
+      "sidecars": [
+        "moesko.new_notes.008.md",
+        "moesko.new_notes.009.md"
+      ],
+      "out_chars": 3392,
+      "had_contradiction": false,
+      "via": "batch"
+    },
+    {
+      "canonical": "norbus_ironrune.md",
+      "sidecars": [
+        "norbus_ironrune.new_notes.002.md"
+      ],
+      "out_chars": 2149,
+      "had_contradiction": false,
+      "via": "batch"
+    },
+    {
+      "canonical": "out_of_phase_dwarves_axelholm_inhabitants.md",
+      "sidecars": [
+        "out_of_phase_dwarves_axelholm_inhabitants.new_notes.025.md"
+      ],
+      "out_chars": 2204,
+      "had_contradiction": false,
+      "via": "batch"
+    },
+    {
+      "canonical": "pog.md",
+      "sidecars": [
+        "pog.new_notes.003.md"
+      ],
+      "out_chars": 1823,
+      "had_contradiction": false,
+      "via": "batch"
+    },
+    {
+      "canonical": "qelline_alderleaf.md",
+      "sidecars": [
+        "qelline_alderleaf.new_notes.024.md"
+      ],
+      "out_chars": 2706,
+      "had_contradiction": false,
+      "via": "batch"
+    },
+    {
+      "canonical": "rot_tusk_ogre.md",
+      "sidecars": [
+        "rot_tusk_ogre.new_notes.033.md"
+      ],
+      "out_chars": 1343,
+      "had_contradiction": false,
+      "via": "batch"
+    },
+    {
+      "canonical": "runa.md",
+      "sidecars": [
+        "runa.new_notes.036.md",
+        "runa.new_notes.037.md"
+      ],
+      "out_chars": 1937,
+      "had_contradiction": false,
+      "via": "batch"
+    },
+    {
+      "canonical": "shrimpy.md",
+      "sidecars": [
+        "shrimpy.new_notes.020.md",
+        "shrimpy.new_notes.021.md",
+        "shrimpy.new_notes.023.md"
+      ],
+      "out_chars": 5015,
+      "had_contradiction": false,
+      "via": "batch"
+    },
+    {
+      "canonical": "sister_kaella.md",
+      "sidecars": [
+        "sister_kaella.new_notes.015.md",
+        "sister_kaella.new_notes.016.md",
+        "sister_kaella.new_notes.017.md",
+        "sister_kaella.new_notes.031.md",
+        "sister_kaella.new_notes.033.md",
+        "sister_kaella.new_notes.034.md"
+      ],
+      "out_chars": 10370,
+      "had_contradiction": false,
+      "via": "batch"
+    },
+    {
+      "canonical": "skippy.md",
+      "sidecars": [
+        "skippy.new_notes.015.md"
+      ],
+      "out_chars": 2916,
+      "had_contradiction": false,
+      "via": "batch"
+    },
+    {
+      "canonical": "soma.md",
+      "sidecars": [
+        "soma.new_notes.002.md",
+        "soma.new_notes.003.md",
+        "soma.new_notes.004.md",
+        "soma.new_notes.005.md",
+        "soma.new_notes.019.md"
+      ],
+      "out_chars": 9167,
+      "had_contradiction": false,
+      "via": "batch"
+    },
+    {
+      "canonical": "sridar.md",
+      "sidecars": [
+        "sridar.new_notes.017.md"
+      ],
+      "out_chars": 3255,
+      "had_contradiction": false,
+      "via": "batch"
+    },
+    {
+      "canonical": "sylvine_wintermoon.md",
+      "sidecars": [
+        "sylvine_wintermoon.new_notes.036.md",
+        "sylvine_wintermoon.new_notes.037.md"
+      ],
+      "out_chars": 3320,
+      "had_contradiction": false,
+      "via": "batch"
+    },
+    {
+      "canonical": "teega_the_smith.md",
+      "sidecars": [
+        "teega_the_smith.new_notes.021.md",
+        "teega_the_smith.new_notes.022.md",
+        "teega_the_smith.new_notes.023.md"
+      ],
+      "out_chars": 4942,
+      "had_contradiction": false,
+      "via": "batch"
+    },
+    {
+      "canonical": "the_anchorite_half_orc.md",
+      "sidecars": [
+        "the_anchorite_half_orc.new_notes.021.md"
+      ],
+      "out_chars": 1807,
+      "had_contradiction": false,
+      "via": "batch"
+    },
+    {
+      "canonical": "the_carver.md",
+      "sidecars": [
+        "the_carver.new_notes.004.md",
+        "the_carver.new_notes.033.md",
+        "the_carver.new_notes.035.md",
+        "the_carver.new_notes.036.md",
+        "the_carver.new_notes.037.md"
+      ],
+      "out_chars": 5841,
+      "had_contradiction": false,
+      "via": "batch"
+    },
+    {
+      "canonical": "the_chief_accountant.md",
+      "sidecars": [
+        "the_chief_accountant.new_notes.027.md",
+        "the_chief_accountant.new_notes.029.md"
+      ],
+      "out_chars": 5374,
+      "had_contradiction": false,
+      "via": "batch"
+    },
+    {
+      "canonical": "the_cult_fanatic.md",
+      "sidecars": [
+        "the_cult_fanatic.new_notes.021.md"
+      ],
+      "out_chars": 3570,
+      "had_contradiction": false,
+      "via": "batch"
+    },
+    {
+      "canonical": "the_dwarven_king.md",
+      "sidecars": [
+        "the_dwarven_king.new_notes.026.md"
+      ],
+      "out_chars": 2319,
+      "had_contradiction": false,
+      "via": "batch"
+    },
+    {
+      "canonical": "the_orc_scout.md",
+      "sidecars": [
+        "the_orc_scout.new_notes.019.md"
+      ],
+      "out_chars": 1990,
+      "had_contradiction": false,
+      "via": "batch"
+    },
+    {
+      "canonical": "the_stag.md",
+      "sidecars": [
+        "the_stag.new_notes.011.md"
+      ],
+      "out_chars": 2733,
+      "had_contradiction": false,
+      "via": "batch"
+    },
+    {
+      "canonical": "thomas.md",
+      "sidecars": [
+        "thomas.new_notes.013.md"
+      ],
+      "out_chars": 2688,
+      "had_contradiction": false,
+      "via": "batch"
+    },
+    {
+      "canonical": "tibor_wester.md",
+      "sidecars": [
+        "tibor_wester.new_notes.019.md",
+        "tibor_wester.new_notes.020.md",
+        "tibor_wester.new_notes.021.md"
+      ],
+      "out_chars": 2217,
+      "had_contradiction": false,
+      "via": "batch"
+    },
+    {
+      "canonical": "toblen_stonehill.md",
+      "sidecars": [
+        "toblen_stonehill.new_notes.002.md",
+        "toblen_stonehill.new_notes.024.md"
+      ],
+      "out_chars": 3749,
+      "had_contradiction": false,
+      "via": "batch"
+    },
+    {
+      "canonical": "ulla.md",
+      "sidecars": [
+        "ulla.new_notes.003.md"
+      ],
+      "out_chars": 2636,
+      "had_contradiction": false,
+      "via": "batch"
+    },
+    {
+      "canonical": "valphine.md",
+      "sidecars": [
+        "valphine.new_notes.003.md",
+        "valphine.new_notes.004.md",
+        "valphine.new_notes.005.md",
+        "valphine.new_notes.019.md"
+      ],
+      "out_chars": 6525,
+      "had_contradiction": false,
+      "via": "batch"
+    },
+    {
+      "canonical": "valphine_sortorra.md",
+      "sidecars": [
+        "valphine_sortorra.new_notes.002.md"
+      ],
+      "out_chars": 4011,
+      "had_contradiction": false,
+      "via": "batch"
+    },
+    {
+      "canonical": "vukardin.md",
+      "sidecars": [
+        "vukardin.new_notes.001.md",
+        "vukardin.new_notes.002.md"
+      ],
+      "out_chars": 5298,
+      "had_contradiction": false,
+      "via": "batch"
+    },
+    {
+      "canonical": "vukradin.md",
+      "sidecars": [
+        "vukradin.new_notes.003.md",
+        "vukradin.new_notes.004.md",
+        "vukradin.new_notes.005.md",
+        "vukradin.new_notes.022.md"
+      ],
+      "out_chars": 8781,
+      "had_contradiction": false,
+      "via": "batch"
+    },
+    {
+      "canonical": "xanth.md",
+      "sidecars": [
+        "xanth.new_notes.031.md",
+        "xanth.new_notes.033.md",
+        "xanth.new_notes.034.md"
+      ],
+      "out_chars": 6541,
+      "had_contradiction": false,
+      "via": "batch"
+    },
+    {
+      "canonical": "zeleen_varnaster.md",
+      "sidecars": [
+        "zeleen_varnaster.new_notes.023.md",
+        "zeleen_varnaster.new_notes.030.md",
+        "zeleen_varnaster.new_notes.031.md",
+        "zeleen_varnaster.new_notes.038.md"
+      ],
+      "out_chars": 7315,
+      "had_contradiction": false,
+      "via": "batch"
+    }
+  ],
+  "skipped": [],
+  "updated_at": "2026-04-18T21:38:17.031719+00:00"
+}

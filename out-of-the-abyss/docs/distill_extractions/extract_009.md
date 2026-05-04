@@ -1,55 +1,125 @@
 ## NPCs
 
-- **Grygum**: Current location: Underdark, traveling with the party. Current state: Alive, pragmatic. Recent actions: Expressed sarcastic grief over Yukyuk's death, advocated for using intelligence and deduction rather than relying on Zone of Truth, agreed Buppido was guilty.
+**Buppido** (Derro)
+- Current location: Among the prisoner group, bound and gagged
+- Current state: Restrained, gagged, walking beside Shuushar; mentally unstable/mad
+- Recent actions: Murdered Yukyuk; gave evasive, delusional answers when questioned; attempted to deny responsibility by attributing the killing to a "divine plan"; had blood on his shortsword
+- Faction: Unknown; follows some personal religious delusion involving a "divine plan"
+- Revealed motivations/secrets: Believes Yukyuk's death was necessary for a "divine plan"; confirmed as the killer through evasion, physical evidence, and mental pressure; Daz concludes he is genuinely mad rather than merely deceptive
+- Postmortem note on role: Active perpetrator; now prisoner of the group
 
-- **Spiderbait**: Current location: Underdark, traveling with the party. Current state: Alive, extremely upset over Yukyuk's death. Recent actions: Screamed at Jimjar demanding money and wanting to leave. Accused Shuushar of the murder, claiming Kuo-toa go mad and kill people. Described Yukyuk as the kindest, gentlest goblin.
+**Yukyuk** (Goblin)
+- Current state: Deceased; murdered
+- Recent actions: None — was killed prior to this session's events
+- Revealed information: Described by Spiderbait as "the kindest, gentlest goblin you could imagine"; said to have had no possessions of value; was close companions with Spiderbait
+- Body: Not explicitly described as examined or relocated; death is the inciting event
 
-- **Jimjar**: Current location: Underdark, traveling with the party. Current state: Alive. Recent actions: Calmed Spiderbait down, persuaded him he was more likely to survive by staying with the group. Known to make bets frequently.
+**Spiderbait** (Goblin)
+- Current location: Among the prisoner group
+- Current state: Distraught, angry, threatening to leave
+- Recent actions: Screamed at Jimjar demanding money and threatening to depart; accused Shuushar of the murder; described Yukyuk's character when questioned by Daz
+- Suspected: Accused Shuushar, citing Kuo-toan madness
 
-- **Zalthir**: Current location: Underdark, traveling with the party. Current state: Alive, a Monk. Recent actions: Was woken from sleep by the commotion, stood ready to fight thinking they were under attack. Expressed interest in Daz's use of mind-sliver as "motivation," reconsidering his prohibition on torture. Has lived many years.
+**Jimjar** (Goblin/Deep Gnome — species not confirmed in this chunk)
+- Current location: Among the prisoner group
+- Current state: Active, calming others
+- Recent actions: Quieted Spiderbait and reassured him that staying with the group improves his survival odds
 
-- **Shuushar**: Current location: Underdark, traveling with the party. Current state: Alive, Kuo-toan. Recent actions: Informed Zalthir about Yukyuk's murder. Proposed traveling to Sloopbludop to use Zone of Truth via the arch-cleric of the Seamother. Insisted on tying Buppido up. Began practicing "Kuo-toan-fulness" mental sanity techniques on Buppido. Claims to have figured out the cure to Kuo-toan insanity.
+**Shuushar** (Kuo-toa)
+- Current location: Among the prisoner group
+- Current state: Active; calm
+- Recent actions: Informed Zalthir of Yukyuk's murder; proposed travelling to Sloopbludop for a zone of truth; requested Buppido be tied up rather than released; is now subjecting the bound Buppido to his "Kuo-toan-fulness" mental technique
+- Revealed motivations/secrets: Claims to have developed a cure to Kuo-toan insanity; proposes applying his mental sanity techniques to Buppido; accused by Spiderbait of madness (accusation not corroborated)
 
-- **Daz**: Current location: Underdark, traveling with the party. Current state: Alive, Drow. Recent actions: Led the investigation into Yukyuk's murder. Questioned Spiderbait and Buppido. Found blood on Buppido's shortsword. Cast mind-sliver twice on Buppido to compel answers. Ordered Buppido tied up and gagged. Has experience with prejudice against Drow ("overbrighters" who assume all Drow are evil) and gives everyone a chance, but concluded Buppido is genuinely mad.
+**Daz**
+- Current location: Among the prisoner group
+- Current state: Active, leading the investigation
+- Recent actions: Questioned Spiderbait and Buppido; examined Buppido's equipment and found blood on his shortsword; cast mind-sliver twice on Buppido to extract information; ordered Buppido bound and gagged; pushed back on Sarith's suggestion of torture, framing his actions as "providing motivation"
 
-- **Buppido**: Current location: Underdark, traveling with the party, tied up and gagged, walking beside Shuushar. Current state: Alive, derro, determined to be mad/insane. Recent actions: Gave evasive answers about Yukyuk's murder, attributing it to "the divine plan." Had blood found on his shortsword. Refused to confess directly but effectively revealed guilt through non-denials. Constantly speaks of "the divine plan." Pleaded for mercy killing rather than endure Shuushar's Kuo-toan-fulness lectures. Motivation: Believes murders are part of a divine plan; appears religiously delusional.
+**Zalthir**
+- Current location: Among the prisoner group
+- Current state: Alert, standing to attention
+- Recent actions: Was woken from sleep; confirmed readiness to fight; received Daz's summary of group members' notable traits; remarked that he had never heard torture referred to as "motivation" and considered revising his prohibition against it
 
-- **Yukyuk**: Current state: Dead, murdered (throat slit or stabbed, based on blood on Buppido's shortsword). Was a goblin, companion of Spiderbait. Described by Spiderbait as the kindest, gentlest goblin. Had nothing of material value. Killed by Buppido.
+**Grygum**
+- Current location: Among the prisoner group
+- Current state: Active
+- Recent actions: Made a dismissive comment about knowing Yukyuk for only a day; argued for using intelligence and deduction rather than travelling to Sloopbludop; dismissed Buppido's "divine plan" excuse as a common deflection
 
-- **Sarith**: Current location: Underdark, traveling with the party. Current state: Alive. Recent actions: Approached Daz and complimented his interrogation technique, offered more effective torture methods learned as a member of Lolth's guard (removing eyes, nails, etc.). Faction: Former member of Lolth's guard.
+**Thorin**
+- Current location: Among the prisoner group
+- Current state: Present; no specific actions recorded in this chunk
 
-- **Thorin**: Current location: Underdark, traveling with the party. Current state: Alive. Daz consulted him along with Zalthir and Grygum about what they knew of the party members.
+**Sarith** (Drow)
+- Current location: Among the prisoner group
+- Current state: Active
+- Recent actions: Approached Daz during interrogation; offered more "effective" torture techniques learned as a member of Lolth's guard, including removal of eyes and nails
+- Faction: Former or current member of Lolth's guard
+- Revealed motivations/secrets: Has knowledge of torture techniques from Lolth's guard service
 
-- **Sethir**: Current location: Underdark, traveling with the party. Current state: Alive, described as seeming "a bit off."
+**Sethir**
+- Current location: Among the prisoner group (implied)
+- Current state: Not directly active in this chunk
+- Referenced by Daz as "a bit off"
 
-- **Topsy**: Current location: Underdark, traveling with the party. Current state: Alive, lycanthrope.
+**Topsy and Turvy**
+- Current location: Among the prisoner group (implied)
+- Current state: Not directly active in this chunk
+- Revealed information: Referenced by Daz as known lycanthropes
 
-- **Turvy**: Current location: Underdark, traveling with the party. Current state: Alive, lycanthrope.
+**Eldeth**
+- Current location: Among the prisoner group (implied)
+- Current state: Not directly active in this chunk
+- Revealed motivations: Daz describes her as trying to keep everyone together and ensure the group arrives safely
 
-- **Eldeth**: Current location: Underdark, traveling with the party. Current state: Alive, trying to keep the group together and ensure everyone arrives safely.
+---
 
 ## Factions
 
-- **Lolth's Guard**: Sarith was a former member. Trained members in torture/interrogation techniques.
+**Lolth's Guard**
+- Key members: Sarith (identified as a former/current member)
+- Relevant actions: Sarith offered torture knowledge derived from his training in this organisation
+- Relationships: No new faction relationships established in this chunk
 
-- **Seamother's Clergy (Sloopbludop)**: Key member: The arch-cleric of the Seamother. Capable of casting Zone of Truth. Located in Sloopbludop.
+**Cult/Religion of Buppido's Divine Plan** (unnamed)
+- Key members: Buppido (sole identified adherent)
+- Current goals: Execution of a "divine plan" — contents unknown; has already led to at least one murder (Yukyuk)
+- Recent actions: Buppido murdered Yukyuk, justifying it as required by the divine plan
+- Status: Buppido is now restrained; plan's continuation is unclear
+
+---
 
 ## World Events
 
-- **Yukyuk was murdered** during the night/rest period, discovered on the 1st day of the 3rd Tenday of Taraskh 1493. Buppido is the perpetrator, motivated by his belief in a "divine plan."
-- **Daz conducted an investigation**: Questioned Spiderbait and Buppido, found blood on Buppido's shortsword, used mind-sliver cantrip twice to pressure Buppido into revealing involvement.
-- **Buppido was restrained**: The party tied up and gagged Buppido after determining his guilt and madness.
-- **Shuushar began mental sanity treatment on Buppido**: Using a technique called "Kuo-toan-fulness" — creating a space between impulse and action to evaluate whether the impulse reflects reality or is a product of the mind.
+- Yukyuk was found murdered; the discovery caused immediate uproar among the prisoner group
+- Spiderbait accused Shuushar of the murder, citing Kuo-toan madness as motive
+- Daz conducted an informal investigation, questioning Spiderbait and then Buppido
+- Daz discovered blood on Buppido's shortsword during an equipment examination
+- Daz cast mind-sliver twice on Buppido, extracting evasive but incriminating statements
+- Sarith offered torture expertise to Daz, which Daz declined in those terms
+- The group resolved to bind and gag Buppido rather than release or execute him
+- Shuushar began applying "Kuo-toan-fulness" mental techniques to the restrained Buppido
+- Buppido pleaded for a mercy killing; the group did not comply
+
+---
 
 ## Locations
 
-- **Sloopbludop**: A Kuo-toan settlement. Home of the arch-cleric of the Seamother, who can cast Zone of Truth. Shuushar proposed traveling there. The party has not yet arrived.
+**Sloopbludop**
+- What it is: A Kuo-toan settlement; home to an arch-cleric of the Seamother
+- Relevance: Shuushar proposed travelling there to use a zone of truth spell to resolve the murder investigation; the group declined in favour of on-the-spot deduction
+- Current state: Not yet visited; referenced as a future potential destination
+
+---
 
 ## Threads & Mysteries
 
-- **Buppido's "divine plan"**: What divine entity or delusion drives Buppido? He believes murders are divinely ordained. The full scope of his intentions and how many he plans to kill remains unclear.
-- **Sethir being "a bit off"**: No further details given; nature of Sethir's oddness is unresolved.
-- **Topsy and Turvy's lycanthropy**: Known to the party but no indication of how this will affect the group or whether it poses a danger.
-- **Shuushar's cure for Kuo-toan insanity**: He claims to have discovered it; its validity and effectiveness remain unproven (though he is now testing it on Buppido).
-- **Journey to Sloopbludop**: Proposed destination; the party's actual route and whether they will go there is not confirmed.
-- **Sarith's background**: Former member of Lolth's guard, knowledgeable in torture — his full story and loyalties remain unexplored.
+- **Buppido's divine plan**: The nature, origin, and scope of Buppido's delusional "divine plan" remain unknown. It has already motivated at least one murder. Whether Buppido is a lone actor or connected to any external force is unresolved.
+- **Whether Buppido will be tried, executed, or released**: The group has restrained him but made no final decision about his fate.
+- **Shuushar's mental techniques**: It is unresolved whether his "Kuo-toan-fulness" approach will have any effect on Buppido's madness.
+- **Sethir's unusual behaviour**: Daz flagged Sethir as "a bit off"; no further investigation occurred in this chunk.
+- **Topsy and Turvy's lycanthropy**: Acknowledged as known but not addressed in this session.
+- **Jimjar's constant gambling/betting**: Flagged by Daz as a notable trait; no further development.
+- **Sarith's affiliation with Lolth's guard**: His background and current loyalties remain unexplored.
+- **The arch-cleric of the Seamother in Sloopbludop**: Shuushar's proposed resource; not pursued but still potentially available.
+- **Whether Buppido has committed prior murders**: Only Yukyuk's death is confirmed; the possibility of earlier killings is not addressed.

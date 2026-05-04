@@ -1,372 +1,356 @@
-# WORLD STATE — LIVING CANON REFERENCE
-
-**Campaign:** Phandalin Region, Sword Coast North  
-**Current Date:** Approximately 10-02 Taraksh 1495 (post-dragon defeat; party returning to Phandalin)  
-**Last Major Event:** Cryovain killed at Icespire Hold; the Carver destroyed
+# WORLD STATE DOCUMENT
+## Campaign Canon Reference — Current as of Late Taraskh 1495 DR
 
 ---
 
-## TABLE OF CONTENTS
+## PARTY
 
-1. [Current Party](#1-current-party)
-2. [Active NPCs](#2-active-npcs)
-3. [Deceased / Departed NPCs](#3-deceased--departed-npcs)
-4. [Factions](#4-factions)
-5. [Locations](#5-locations)
-6. [Active Threads & Open Mysteries](#6-active-threads--open-mysteries)
-7. [Canon Events Timeline](#7-canon-events-timeline)
+### Active Members
 
----
+**Vukradin (Vucravinios)**
+- Race: Aasimar | Class: Bard
+- Current location: En route to Neverwinter from Phandalin
+- Equipment: Rapier, daggers, clarinet, sending stones; carries the Carver's obsidian sword (crystal pommel, mental amplifier/"Bluetooth sword" — claims it must be returned to rightful owner)
+- Faction affiliations: Order of the Gauntlet (associate member, pin lost/discarded, membership ambiguous); Privy Council of Phandalin (member)
+- Motivations: Build a music studio funded exclusively by "conflict-free, fair-trade gold"; spread his music across Faerûn; democratic reform of Phandalin; return all found/stolen property to rightful owners
+- Key traits: Uses Aasimar appearance as a social tool; composes controversial "Vukradian Scales"; deeply ethical to the point of isolating himself from pragmatic allies; growing public reputation as a noble adventurer (which is now being exploited by con artists and resented by some townsfolk)
+- Ongoing concerns: People around Phandalin are beginning to feel "handled" by his persuasive influence — resentment growing slowly; has political opponents on the Privy Council
 
-## 1. CURRENT PARTY
+**Soma**
+- Race: Tortle | Class: Druid (follower of Mielikki)
+- Current location: Returning to Phandalin from druid council glade; heading to Neverwinter
+- Equipment: Meril's Staff (awakened, powerful artifact — leaves diminishing but power growing; one leaf remaining); shark tooth necklace
+- Faction affiliations: Emerald Enclave (interventionist, vindicated at recent council); loosely naturalist
+- Motivations: Keep the world safer; ensure all creatures have a place; maintain peace; honor Meril's trust
+- Key traits: 45 years old; trained only one year by Meril before being sent out; Wild Shape forms include brown bear, giant toad, giant wolf spider; considers constructs and extra-planar creatures abominations; has a clutch (children) travelling the world independently; claims to have "so little time left" (cause unexplained)
+- Ongoing concerns: Meril's Staff is losing leaves while gaining power — she finds this uncomfortable; druid conclave vindicated her but Adabra's faction remains active
 
-### Vukradin (Vucravinios)
-- **Race/Class:** Aasimar Bard
-- **Current location:** Phandalin (returning from Icespire Hold)
-- **State:** Alive; did not level up from the dragon fight (fell short of Soma/Valphine's threshold)
-- **Equipment:** Daggers, rapier, Order of the Gauntlet pin (worn publicly, then lost/discarded — status ambiguous), Flute of Illusions
-- **Key traits:** Principled opposition to taking stolen goods; "conflict-free, fair-trade gold" philosophy; wants to build a music studio; member of Phandalin Privy Council; Order of the Gauntlet associate; does not fully trust Ser Kaelen; uses Aasimar appearance as a social tool; known publicly as a noble adventurer after repelling the dragon at Phandalin
-- **Personal quests:** Find the script of a legendary play featuring "Bob" as a Demon (ran in Triboar, now ended); build a music studio; compose a piece for the Order of the Gauntlet; return all recovered items to rightful owners
-- **Notes:** Received a commission from Ser Kaelen to compose music for the Order. Has opponents on the Privy Council. Privately decided not to use Fireball (reason unstated). Named the Carver's crystal pommel sword "the Bluetooth Sword."
+**Valphine (Valphine Sortorra)**
+- Race: Drow | Class: Cleric of Lathander
+- Current location: Phandalin / heading to Neverwinter
+- Equipment: Hand crossbow, mace
+- Faction affiliations: Church of Lathander (founded Temple of Lathander's Searing Pain of Justice in Phandalin); Satora/Sortorra family (by birth — connected to poison operations and Aletra)
+- Motivations: Spread Lathander's doctrine of pain-as-purification; build alliances with the powerful; intelligence gathering
+- Key traits: Former priestess of Lolth from Menzoberranzan; fled during demon incursion; converted upon seeing the sun; interprets Lathander as god of purifying pain, not gentle comfort; practices self-harm as worship; politically astute (trained in Menzoberranzan court intrigue); finds the sun "deliciously painful"
+- Secrets: Has a covert arrangement with Sister Kaella (received a down payment); Sister Kaella believes Valphine is a cleric of Lolth — Valphine has not corrected this; considering founding a pain-focused cult of Lathander (partially accomplished via her temple); Adabra conspicuously excludes/ignores Valphine (reason unknown)
 
-### Soma
-- **Race/Class:** Tortle Druid (45 years old)
-- **Current location:** Phandalin (returning from Icespire Hold)
-- **State:** Alive; recently levelled up; carries Meril's Staff (one leaf remaining)
-- **Equipment:** Meril's Staff (awakened, one leaf remaining; was given to her after ~1 year of training)
-- **Key traits:** Naturalist philosophy; invokes Mielikki; aligned loosely with Emerald Enclave interventionist values (despite earlier alignment with Adabra's faction); pragmatic about violence; has a clutch (reptilian); her children are travelling the world independently; left her family behind; states vague time constraint ("so little time left" — unexplained)
-- **Personal quests:** Understand the staff's nature; resist any conclave effort to reclaim it; investigate what Meril intended
-- **Notes:** Was trained by Meril for ~1 year before being sent out. Xanth confirmed the staff is powerful ("not a simple stick") and once had more leaves. Discovered the Carver was possessed/soulless via the staff's resonance. Harvested Cryovain's breath pouch and scales alongside Brewbarry.
+**Brewbarry (Brewbarry Root Smasher Ogalakadu)**
+- Race: Unknown (humanoid) | Class: Barbarian (Uthgardt heritage)
+- Current location: With party, heading to Neverwinter
+- Equipment: +1 halberd (from shipwreck); Dragon Slayer Sword; handaxes; dread helm (eyes glow red); gauntlets of ogre power; dragon scale materials (harvested from Cryovain)
+- Faction affiliations: None formal; former Uthgardt (exiled, estranged)
+- Motivations: Loyalty to Vukradin and his music; protecting the party; ale
+- Key traits: Tribal tattoos; can enter rage and grow to giant size; supernatural voice that strikes terror; dread helm causes glowing red eyes; Stone's Endurance ability; surprisingly perceptive and wise beneath brutish exterior
+- Backstory: Exiled from his Uthgardt tribe after a goodberry's magical satiation left him unaware while the tribe's artifact was stolen — he was sober and innocent; embraced drinking as a coping mechanism; follows Vukradin as the first person who looked at him like he was worth following
 
-### Valphine (Sortorra / Satora family member)
-- **Race/Class:** Drow Cleric of Lathander
-- **Current location:** Phandalin (returning from Icespire Hold)
-- **State:** Alive; recently levelled up; new divine ability (thread courage between allies)
-- **Equipment:** Hand crossbow, mace
-- **Key traits:** Former Lolth-worshipper who escaped Menzoberranzan during the demon incursion; had a religious experience upon first seeing the sun; now worships Lathander through a lens of pain (sunlight is "deliciously painful"); founded the Temple of Lathander's Searing Pain of Justice at Tresendar Manor; created the sacrament of intentional blinding and divine healing; operates in morally grey contexts
-- **Secrets:** Aletra is her sister (House Satora/Xorlarrin connection); has a pre-existing covert arrangement with Sister Kaella (terms unstated); told Corbin she was teaching him "sacraments" (unspecified); privately considering founding a cult of Lathander centred on pain; Sister Kayla believes her to be a cleric of Lolth (Valphine never corrected this)
-- **Personal quests:** Expand the Temple of Lathander's Searing Pain of Justice; investigate Aletra and House Satora operations
+### Associated NPCs / Party Adjacents
 
-### Brewbarry Root Smasher Ogalakadu
-- **Race/Class:** Uthgardt Barbarian
-- **Current location:** Phandalin (returning from Icespire Hold)
-- **State:** Alive; sustained significant damage at Icespire Hold but recovered
-- **Equipment:** Halberd, hand axes, Dragon Slayer Sword (currently holding), Dread Helm (eyes glow red when worn), Gauntlets of Ogre Power; carrying two potions from stone giants (greater healing, hill giant strength); dragon scale materials
-- **Key traits:** Devoted to Vukradin and his music; pragmatic about killing defeated enemies ("tradition"); exiled from his Uthgardt tribe due to a wrongful accusation (goodberry caused magical satiation; tribe's artifact was stolen while he was unknowingly unaffected); now identifies as "nomad" not barbarian; has surprised the party with occasional depth of wisdom; Privy Council says Phandalin is the closest thing to home he has
-- **Personal quests:** Build a music studio (co-goal with Vukradin); ale supply
-- **Notes:** Accesses supernatural enlargement and red-eye resonance in combat (source unexplained). Full name revealed to Zeleen Varnaster.
+**Corbin** — DECEASED. Former farmer from Greenmeadow (destroyed by Black Lion Uthgardt); became a bandit; recruited by party as camp caretaker. Killed by Sister Kaella while guarding her.
 
-### Corbin
-- **Race/Class:** Human (former farmer, former bandit)
-- **Current location:** Last assigned as Sister Kaella's guard; destination Axholm prison (following party)
-- **State:** Alive; "a lost boy" per characterisation
-- **Equipment:** Armour scavenged from a dead man (allowed to keep it provisionally)
-- **Key traits:** Village of Greenmeadow destroyed by Black Lion Uthgardt tribe; wife Elara and daughter Lily killed; driven to petty crime then banditry; wears armour from a dead man; has some adversarial/power-imbalanced history with Sister Kaella
-- **Notes:** Valphine observed "a specific kind of hunger that belongs to people who have been made to feel small" when he was assigned to guard Kaella.
+**Boney (originally Barney)** — Undead skeletal horse; bonded with Soma (who deceived it into believing she is Lady Alagondar reincarnated). Does not tire. Did nothing to prevent Corbin's death. Moral standing uncertain.
 
-### Boney (companion)
-- **Race/Class:** Undead skeletal horse (formerly named Barney)
-- **Current location:** Travelling with the party
-- **State:** "Partially alive" (unexplained); 13 HP; missing mane and physical features
-- **Notes:** Loyal to Soma under the belief she is Lady Alagondar reincarnated. Was killed by will-o'-wisps while guarding the Dragon Slayer Sword. Provides amusement and transport.
+**Shrimpy** — Captured orc prisoner; delivered to Townmaster Harbin Wester in Phandalin. Former member of independent orc raiding party displaced from Ice Spire.
 
 ---
 
-## 2. ACTIVE NPCs
+## KEY NPCs
 
-### Ser Kaelen Thorn(e)
-- **Location:** Phandalin
-- **Faction:** Order of the Gauntlet
-- **Description:** Early 30s; dark hair; clean-shaven; scar above right eyebrow; chain mail; gauntlet-grasping-sword emblem
-- **Role:** Local recruiter and operative. Recruited Vukradin as associate member. Briefed party on druid conclave threat. Requested party escort a lighthouse statue to Neverwinter and credit the Order. Currently awaiting party's return.
-- **Notes:** Has pending intelligence from Candlekeep identifying original owners of ship-wreck items. Vukradin suspects he may be managing the party rather than genuinely trusting them. Warned party about Adabra's mobilisation.
+### Phandalin & Immediate Region
 
-### Harbin Wester
-- **Location:** Phandalin (Townmaster's Hall)
-- **Faction:** Phandalin town government (appointed by Lord Neverember)
-- **State:** Cowardly; politically weakened but retaining title. Gave public speech crediting Vukradin for dragon defeat.
-- **Notes:** Has a brother at the Logger's Camp. Conducted a private 50-gold temple paperwork transaction outside the Privy Council. Will likely attempt to claim credit for/control over dragon-related rewards.
+**Harbin Wester** — Townmaster of Phandalin. Cowardly but politically savvy. Established the Privy Council. Takes public credit for the party's victories. Appointed by Lord Neverember. Warned party against visiting Neverember while mission incomplete.
 
-### Adabra (Gwynn)
-- **Location:** En route to a druid conclave (exact location unknown)
-- **Faction:** Emerald Enclave (naturalist wing); also works as a midwife in Phandalin
-- **State:** Furious at the party; mobilising druidic allies
-- **Notes:** Discovered what actually happened at the Whispering Grove (treant was killed; rift was not sealed). Previously saw Vukradin as devoted to music and beauty; stopped communicating with him after he publicly wore the Order of the Gauntlet pin. Has not directly experienced the planar incursions. Believes "interventionist" actions (including the party's) cascade harm across the multiverse. Holds a deed to Umbrage Hill land and tends the dwarven cairns there.
+**Toblen "Spiderman" Stonehill** — Innkeeper, Stonehill Inn. Native of Triboar. Nickname from childhood spider nest incident. Friendly to the party; pays Vukradin for performances; runs betting pools on party survival.
 
-### Linene Graywind
-- **Location:** Lionshield Coster outpost, Phandalin
-- **Faction:** Lionshield Coster
-- **State:** Operating at reduced capacity; supply chain disrupted by War of the Giants
-- **Notes:** Her bosses have strong interest in planar phenomena. An interplanar shipping device in Neverwinter has stopped working — possibly connected to planar events. Age ~35.
+**Daran Edermath ("Silverleaf")** — Retired half-elf adventurer. Tends an orchard near Phandalin. Told party about the cursed lighthouse (now resolved).
 
-### Halia Thornton
-- **Location:** Miner's Exchange, Phandalin
-- **State:** Active; member of Privy Council
+**Linene Graywind** — Manager, Lionshield Coster outpost, Phandalin. Supply chain disrupted since War of the Giants. Her bosses have strong interest in planar phenomena; an interplanar shipping device in Neverwinter has stopped working.
 
-### Toblen "Spiderman" Stonehill
-- **Location:** Stonehill Inn, Phandalin
-- **State:** Active innkeeper; regularly paying for party's drinks; ran the betting pool on the party's lighthouse survival
-- **Notes:** Nickname from childhood incident; fell into hatching spider nest and walked out calmly covered in baby spiders.
+**Qelline Alderleaf** — Farmer near Phandalin. Formerly engaged to Big Al (who abandoned her the night before their wedding). Agreed to let Petunia graze for 5sp/week on condition Big Al personally apologizes. Reconciliation underway.
 
-### Daran Edermath ("Silverleaf")
-- **Location:** Phandalin area (tends an orchard)
-- **Description:** Tall, lean half-elf; silver-streaked dark hair; salt-and-pepper beard; emerald-green eyes; earth-toned clothes
-- **State:** Active; retired adventurer; tips the party on local rumours
+**Big Al (Alfonse Kalazorn)** — Retired Sheriff of Triboar; owner of Butterskull Ranch (now destroyed by Borg). Rescued by party from captivity. Owns mithril chainmail. Heading to Qelline's farm to apologize. Prized cow: Petunia.
 
-### Brin Bundlewine & Giles Slipper-Shine
-- **Location:** Tresendar Manor / Temple of Lathander's Searing Pain of Justice, Phandalin
-- **State:** Active; founding renovators of Valphine's temple; contracted for 25 gold in materials, free labour
+**Petunia** — Big Al's cow. Produces cheese described as better than Gouda. Stamped "Big Al's Cow." Currently grazing on Qelline Alderleaf's land. Central to the cheese supply deal with the wererats.
 
-### Elmer (Barthen)
-- **Location:** Barthen's Provisions, Phandalin
-- **State:** Active merchant; member of Privy Council; clerks are Ander and Thistle
+**Adabra Gwynn** — Midwife; acolyte of Chauntea; Emerald Enclave (anti-interventionist). Lives at a stone windmill on Umbrage Hill. Holds land deed. Confirmed by Meril's Staff as a true believer — not enchanted or deceived. Discovered the dead treant at the Whispering Grove; mobilized druids against the party; was outvoted at the council but left without accepting the verdict. Described as having "chosen a different battlefield." Estranged from Vukradin after he joined the Order of the Gauntlet.
 
-### Qelline Alderleaf
-- **Location:** Her farm, Phandalin area
-- **State:** Active; agreed to let Petunia graze at 5 silver/week (condition: Big Al's personal apology, which he has gone to deliver)
-
-### Big Al Kalazorn (Alphonse)
-- **Location:** En route to Qelline's farm
-- **State:** Alive; freed from Butterskull Ranch captivity; carrying Petunia; heading to apologise to Qelline (they were formerly engaged; he abandoned her the night before the wedding)
-- **Notes:** Former Sheriff of Triboar (succeeded by Darathra). Offered mithril chainmail as reward for Petunia's return (Petunia was returned; exchange status unconfirmed).
-
-### Lyra
-- **Location:** Phandalin (last known)
-- **Faction:** Emerald Enclave (interventionist wing)
-- **State:** Alive; discouraged about leadership; reunited with rescued patrol members; agreed to let Vukradin vouch for her at the Emerald Enclave meeting
-- **Notes:** Acted without authorisation in ordering the Whispering Grove ritual. Party credited the rescue of patrol members to her. Conclave meeting outcome unresolved.
-
-### Thomas & Marian
-- **Location:** Unknown (departed Phandalin tavern, returned to Emerald Enclave)
-- **Faction:** Emerald Enclave (agents under Lyra)
-- **State:** Alive; freed from mind control
-
-### Zeleen Varnaster
-- **Location:** Mountain's Toe Gold Mine / adjacent forest (retrieving Earthstone Gem)
-- **Faction:** Whiskered Gang (wererats; leader)
-- **State:** Active; contracted to protect the mine; dispatched under duress into orc-occupied forest to retrieve the Earthstone Gem
-- **Notes:** Valphine assessed that wererats will likely attempt to keep the mine regardless of any deal. Never truly wanted to mine.
-
-### Horia Stonetallow
-- **Location:** Mountain's Toe Gold Mine
-- **Faction:** Stonetallow clan shield dwarves
-- **State:** Active; foreman/administrator; tracing ancestry to a Gauntlgrym engineer
-- **Notes:** Negotiated secret 50-gold expenditure addendum with Brewbarry (concealed from Vukradin) for Plan B purchase of a fake Earthstone Gem if the wererats fail.
-
-### Dwolin the Grout
-- **Location:** Mountain's Toe Gold Mine
-- **Faction:** Stonetallow dwarves (mine workers)
-- **State:** Idle; awaiting the Earthstone Gem before gold extraction can resume
-- **Notes:** Best gold-seeker Horia has ever known; has superstitious beliefs about gold veins requiring specific conditions.
-
-### Dazlyn Grayshard & Norbus Ironrune
-- **Location:** Canyon Ruins (Abbathor Temple Site), southwest of Phandalin
-- **State:** Present at excavation site; temple interior not fully explored
-- **Notes:** Paid party with sending stones. Oozes rumoured deeper in the temple.
-
-### Teega the Smith
-- **Location:** Last seen at Phandalin observing Valphine's church; intended to return to Wayside Inn
-- **Faction:** Kraken Society (member; psionically manipulated)
-- **State:** Alive; disoriented; appeared conflicted by Valphine's church activities
-- **Notes:** Was promised "peace" by the Kraken; her mind was psionically rewired. Manipulation confirmed as non-Mind Flayer psionic in origin. Declined Vukradin's offer of employment at the Temple.
-
-### Falcon the Hunter
-- **Location:** En route to Phandalin (to settle debts)
-- **State:** Alive; displaced from his lodge (overrun by Anchorites of Talos and their orc/ogre allies)
-- **Notes:** Not a real dragonslayer — found residual gold and a brass ring (inscribed with Elvish word for "lightning") in Iymrith's already-plundered hoard; used them as seed capital for the lodge. Offered Vukradin special wood for a music studio and a music-and-ale venue partnership if the party reclaims the lodge.
-
-### Sridar
-- **Location:** Last seen at Falcon's Hunting Lodge (guest)
-- **Faction:** Interventionists (self-identified)
-- **State:** Active artifact collector
-- **Notes:** Purchased the Talisman of Moesko for 100 gold. Paid 30 gold for information about planar events. Became fascinated with planar phenomena after a "blink" in the Underdark when demons appeared. Offered to help piece together clues about planar events in the future.
-
-### Martisha Vinetalker
-- **Location:** Wayside Inn
-- **State:** Active; half-elf proprietor; stern and calculating
-- **Notes:** Directed party to the coastal trail toward the Tower of Storms.
-
-### Xanth (Xanthopoulos)
-- **Location:** Last seen bloodied outside the northern chamber at Dragonbarrow
-- **Faction:** Independent woodland centaur; old friend of Meril
-- **State:** Wounded; status unresolved after the Dragonbarrow/clearing events
-- **Notes:** Identified Vukradin by his centaurian name Vucravinios. Recognised Meril's Staff as powerful ("not a simple stick; it once had more leaves"). Agreed to carry party toward Icespire Hold foothills. Offered to guide party to Anchorites of Talos standing stone circle.
-
-### Sister Kaella
-- **Location:** In Corbin's custody; requested Axholm prison
-- **Faction:** Formerly the Carver's organisation; turned against him
-- **State:** Alive, bound, prisoner; delivered partial warning before being paralyzed by Vukradin
-- **Notes:** Was turned against the Carver after he blamed her for intelligence failures when the party killed his muscle. Chose Valphine as contact because she can operate in morally grey environments. Has a pre-existing covert arrangement with Valphine. Screamed when assigned to Corbin's care (adversarial history). She is the ONLY known person who knows the location of Icespire Hold — she was silenced mid-warning by Vukradin before revealing it.
-
-### Jenna Roscoe
-- **Location:** Phandalin (last known)
-- **Faction:** Lord's Alliance
-- **State:** Active; failed to recruit Vukradin
-- **Notes:** Sent the anonymous letter to Vukradin about House Margaster funding the Order of the Gauntlet. Offered performances in Waterdeep, Neverwinter, and before Lord Neverember. Vukradin refused. Barely concealed contempt for Uthgardians (Brewbarry's people). Valphine assessed she knows more about the Kraken Society than she revealed.
-
-### Don-Jon Raskin
-- **Location:** Deceased (Mountain's Toe Mine)
-- **State:** Killed by dwarves after revealing plans to exploit them; body consumed by carrion crawler
-- **Notes:** Was hired as mine overseer by a Neverwinter consortium (which includes at least one Kraken Society-associated member). Was plotting to exploit both wererats and dwarves.
-
-### Elara (the traveller, not Lady Alagondar)
-- **Location:** Phandalin (returned safely)
-- **State:** Alive; shaken
-- **Notes:** Was attacked by orcs on the road with unusual discipline and a swirl/eye symbol. Her groom Jarek heard a non-auditory mental hum immediately before the attack. Rewarded Valphine with gold on behalf of Lathander.
-
-### Meril (also: Meryl)
-- **Location:** Unknown
-- **State:** Unknown
-- **Notes:** Soma's druidic teacher; trained Soma for ~1 year then sent her out with the staff. Old friend of Xanth. Left the staff at Soma's house apparently deliberately. Xanth states he "must know" Soma. Staff is losing leaves.
-
-### Lord Cassian Meliame
-- **Location:** Neverwinter (hosting a gala)
-- **State:** Active; described as eccentric
-- **Notes:** Party needs to deliver the blue quartz mermaid statue to his relative Elara Seasong Meliame at the gala, crediting the Order of the Gauntlet. House Maragaster agents are moving to intercept it.
-
-### Elara Seasong Meliame
-- **Location:** Neverwinter (at Lord Cassian's gala)
-- **Faction:** Meliame family (wealthy art collectors)
-- **Notes:** Rightful owner of the blue quartz mermaid statue recovered from the lighthouse wreck.
-
-### Garaele
-- **Location:** Phandalin (house in main square)
-- **State:** Present; not directly interacted with recently
-
-### Adabra's Temple Acolytes (unnamed)
-- **Location:** Temple of Lathander's Searing Pain of Justice, Phandalin
-- **State:** Active; developing sun-damage blisters from the sacrament of intentional blinding
-
----
-
-## 3. DECEASED / DEPARTED NPCs
-
-| Name | Status | Notes |
-|------|--------|-------|
-| Cryovain | Dead | White dragon; killed at Icespire Hold; body harvested (breath pouch, scales) |
-| The Carver | Destroyed/unmade | Was the obsidian sword, not the human vessel; dissipated when Cryovain died |
-| The Carver's veteran vessel | Dead | Killed by Brewbarry while paralyzed |
-| Jax | Dead | Last known field agent of the Carver; killed in the clearing outside Dragonbarrow |
-| Borg the Hammer | Dead | Half-orc enforcer; confirmed dead via Xanth's animal network |
-| Moesko | Dead | Orc anchorite at Tower of Storms; heart removed and placed in the beacon; killed by the party |
-| Lady Alagondar | Ghost (appeared, faded) | Ancient figure; haunts Dragonbarrow; stared toward Ice Spire Mountains; identity mostly unknown |
-| Locutus | Dead | Killed by Sister Kayla in the abandoned building; presented Borg's head as proof |
-| Don-Jon Raskin | Dead | Killed by dwarves; consumed by carrion crawler |
-| Miral | Spirit at rest | Sea elf; ghost received the opalescent conch and departed |
-| Corbin's wife Elara | Dead (pre-campaign) | Killed in Black Lion Uthgardt raid on Greenmeadow |
-| Corbin's daughter Lily | Dead (pre-campaign) | Killed in same raid |
-| Bandit Number 4 | Dead | Executed by Borg the Hammer after reporting the Conyberry ambush failure |
-| Orc with Scar (first ambush) | Dead | Killed by Vukradin |
-
----
-
-## 4. FACTIONS
-
-### The Party (unnamed adventuring group)
-- **Current goals:** Druid conclave threat (Adabra); deliver statue to Neverwinter (House Maragaster interception risk); reclaim Falcon's Lodge (Anchorites of Talos); investigate Woodland Manse; Mountain's Toe Mine operations; find Icespire Hold's location (only Sister Kaella knows it)
-- **Assets:** Shares in Mountain's Toe Mine; Temple of Lathander's Searing Pain of Justice at Tresendar Manor; Dragon Slayer Sword; Dread Helm; Gauntlets of Ogre Power; dragon scales and breath pouch; Necklace of Fireballs (7 beads); Flute of Illusions; Wand of Secrets; Blue Quartz Mermaid Statue; Spellbook; Sending Stones; four vials of Midnight Tears poison; one captured audit drone; a frozen treasure hoard (~3,000 gp, unspendable without a planar theorist); various smaller gems and coins
+**Brin Bundlewine & Giles Slipper-Shine** — Founding congregants of the Temple of Lathander's Searing Pain of Justice. Renovating Tresendar Manor. Conducted a self-flagellation fundraiser parade through Phandalin.
 
 ### Order of the Gauntlet
-- **Status:** Depleted by War of the Dragons and War of the Giants; cannot intervene in the druid conclave
-- **Goals:** Maintaining ethical conduct in the north; recruiting artists and champions; exposing House Margaster if the allegations hold
-- **Key members:** Ser Kaelen Thorn (local operative); Milo Goodbarrel (hero of War of the Dragons)
-- **Relationship to party:** Vukradin is associate member; Valphine was offered but did not accept membership; Soma was rejected (ideological incompatibility)
-- **Alleged funding:** House Margaster (per Jenna Roscoe's anonymous letter; unverified)
+
+**Ser Kaelen Thorne** — Active recruiter/operative. Early thirties; scar above right eyebrow; chain mail; Order emblem. Recruited Vukradin as associate member. Commissioned Vukradin to compose music for the Order. Identified lighthouse statue as belonging to Elara Seasong Meliame. Referenced unspecified "issues with the Emerald Enclave." Vukradin does not fully trust him — suspects he may be managing rather than genuine. Praised Torm.
+
+**Milo Goodbarrel** — Order hero; led strike force that stopped the ritual during the War of the Dragon. Referenced only.
+
+### Lord's Alliance / Neverwinter
+
+**Lord Neverember** — Lord of Neverwinter. Pursuing progressive reforms. Authorized tax-free plunder for adventurers pacifying the hinterland. Funds Phandalin's quests through Neverwinter's tax system.
+
+**Jenna Roscoe** — Lord's Alliance operative. Sent the anonymous letter to Vukradin about House Margaster funding the Order of the Gauntlet. Attempted to recruit Vukradin; failed. Holds barely-concealed contempt for Uthgardt peoples. Dismissed the Kraken Society as a harmless social club (Valphine sensed she knew more). Present in Phandalin.
 
 ### Emerald Enclave
-- **Status:** Internally divided; paralysed by the Naturalist vs. Interventionist schism
-- **Naturalist wing (Adabra's):** Accepts all planar activity as natural; now actively opposing the party at the druid conclave
-- **Interventionist wing (Lyra's):** Believes planar infections must be cleansed; Lyra acted without authorisation at the Whispering Grove; her standing within the Enclave is damaged
-- **Notable figures:** Adabra; Lyra; Thomas; Marian; Delaan Winterhound (leader, current whereabouts unknown); Malfire Morazana (hero of the War of the Dragons, current whereabouts unknown)
 
-### Lord's Alliance
-- **Status:** Active; declined to intervene in the druid conclave
-- **Goals:** Maintaining law and societal order; counter Order of the Gauntlet influence; recruit Vukradin (failed so far)
-- **Key members:** Jenna Roscoe (local operative)
-- **Notes:** Anticipated to attempt to claim the frozen dragon treasure hoard
+**Lyra** — Low-ranking Emerald Enclave leader. Restored to full good standing by council vote. Admitted she was sent to deal with the metastasized treant, failed, and the party killed it. The party credits rescue successes to her to boost her standing.
 
-### Lord Neverember / Neverwinter
-- **Status:** Active; pursuing progressive reforms in Neverwinter
-- **Goals:** Establishing Neverwinter law in the hinterlands; encouraging settlement around Phandalin
-- **Notes:** Has a standing agreement granting adventurers tax-free plunder from monsters. Harbin Wester reports to him. Party has not yet visited him directly.
+**Thomas & Marian** — Emerald Enclave agents under Lyra. Thomas warned the party about Adabra's political maneuvering. Both declined to join the party, citing their Enclave oath.
 
-### Phandalin Privy Council
-- **Members:** Harbin Wester (Townmaster/chair), Vukradin, Tolbin, Elmer, Halia Thornton, Linene Graywind, Adabra
-- **Status:** Newly formed; Vukradin has unnamed political opponents on it; Adabra's opposition to the party creates internal tension
-- **Notes:** Harbin Wester conducted a private 50-gold transaction outside council process to arrange temple paperwork.
+**Reidoth** — Nominal head of the local Emerald Enclave chapter. Currently absent (exploited by Adabra when she called the council). Vukradin contacted him via Sending about the schism. Has not yet appeared or responded.
 
-### The Kraken Society
-- **Status:** Active; expanding toward Neverwinter ("a rising current")
-- **Goals:** Mind-controlling individuals; acquiring the inscription about the drowned gate beneath Yllyn; spreading influence
-- **Methods:** Psionic manipulation (not Mind Flayer-based); green cloaks, gold badges, spiral emblems
-- **Notes:** At least one member in the Neverwinter consortium that hired Don-Jon Raskin. Teega the Smith is a member. Jenna Roscoe publicly dismissed them; Valphine assessed she knows more. Ser Kaelen suspects powerful psionic creatures behind them. The Cult Fanatic spoke of a "rising current flowing toward Neverwinter" before being executed.
+**Delaan Winterhound** — Emerald Enclave figure; brought Treant army into War of the Dragons at Malfire Morazana's urging. Current location/status unknown.
 
-### Cult of Talos / Anchorites of Talos
-- **Status:** Active; occupying Falcon's Hunting Lodge and the Woodland Manse; performing dark rites at a standing stone circle atop a cave-ridden hill in Neverwinter Wood
-- **Goals:** Drive everyone from Neverwinter Wood; perform unknown dark rites
-- **Key members:** Half-orc Anchorites (shapeshifters); orc and ogre allies
-- **Notes:** Displaced orcs from the Ice Spire/Sword Mountains when their chief allied with this cult. Connected to the Carver's former orc/ogre network (some overlap). A symbol of Talos was found on ogres at the Mountain's Toe Mine.
+### The Carver's Organization (DESTROYED)
 
-### House Margaster
-- **Status:** Active in Waterdeep and Neverwinter area
-- **Notes:** Alleged by Jenna Roscoe/Lord's Alliance to be funding the Order of the Gauntlet with "blood money"; has ties to evil cults in Neverwinter per rumour. Known for demonic alliances. Agents are actively moving to intercept the blue quartz mermaid statue before it reaches Elara Seasong Meliame.
+**The Carver** — DESTROYED. Was not a person but a black obsidian sword — a mental amplifier with a crystal pommel. Used a human veteran as a vessel. Attempted to dominate Cryovain the white dragon at Icespire Hold. Essence dissipated when Cryovain died. Possessed telepathic communication abilities. The sword is now in Vukradin's possession.
 
-### House Satora / House Xorlarrin
-- **Status:** Active; operating an illegal interdimensional poison/drug trade
-- **Goals:** Smuggling Midnight Tears poison through the multiverse
-- **Key members:** Aletra (field operative; Valphine's sister); an unnamed boss who received the planar machine as a gift
-- **Notes:** Aletra escaped from Axeholm blinded, dropping several vials of Midnight Tears. Left a bill from "Interplanar Trade Consultants Incorporated." Aletra's notes referenced "KP" as someone who must not be watching when certain actions are taken.
+**Borg the Hammer** — DECEASED. Half-orc enforcer. Led the Butterskull Ranch ambush. Killed (head presented as proof).
 
-### The Carver's Organisation (collapsed)
-- **Status:** Effectively destroyed — the Carver is unmade, Jax is dead, Borg is dead, Sister Kaella is captive
-- **Remnants:** The Carver communicated telepathically with his people; mechanism unknown; the last remnant is Kaella's knowledge of Icespire Hold's location
+**Jax** — DECEASED. Lieutenant. Led ambush at Dragonbarrow clearing. Killed by combined party assault.
 
-### Stonetallow Clan (Shield Dwarves)
-- **Status:** Active at Mountain's Toe Mine
-- **Goals:** Perfect the art of mining; maintain their contractual claim to a share of the mine
-- **Key members:** Horia Stonetallow; Dwolin the Grout
-- **Notes:** Killed Don-Jon Raskin after he revealed plans to dismiss them. Hold a signed contract for 20% of the mine (renegotiation underway and unresolved).
+**Sister Kaella (Sister Kayla/Kella)** — AT LARGE. Former Carver spymaster in Phandalin. Turned against the Carver after intelligence failures. Had covert arrangement with Valphine. Killed Corbin and escaped custody. Described as "a deadly assassin in priest's cloth." Only person who knew Icespire Hold's location (may still possess this knowledge). Current whereabouts unknown.
 
-### Whiskered Gang (Wererats)
-- **Status:** Active; contracted to protect Mountain's Toe Mine
-- **Key members:** Zeleen Varnaster (leader)
-- **Notes:** Never truly wanted to mine. Valphine assessed they will likely try to keep the mine regardless of any deal. Currently dispatched into orc-occupied forest to retrieve the Earthstone Gem. Flinch from bright light. Desire steady cheese supply from Butterskull Ranch/Qelline's arrangement.
+### Gnomengarde
 
-### Meliame Family
-- **Status:** Active; Lord Cassian Meliame hosting a gala in Neverwinter
-- **Key members:** Elara Seasong Meliame (art collector); Lord Cassian Meliame (eccentric host)
-- **Notes:** The blue quartz mermaid statue must be delivered before House Maragaster intercepts it.
+**King Korboz & King Gnercli** — Co-rulers of Gnomengarde (dual monarchy). Monarchy destabilized by Vukradin's provocations over seniority. Korboz was previously incapacitated by fear of the shapeshifter (mimic, now killed).
 
-### Stone Giants (unnamed group)
-- **Status:** Active; committed to non-intervention per Hekaton's post-sundering doctrine
-- **Notes:** Gave party two potions (greater healing, hill giant strength). Will not act against "little ones" including the Carver or the white dragon. Follow Hekaton's teaching.
+**Fibblestib & Dabbledob** — Lead inventors. Discussed creating constructs from mimic entrails and building a tamper-proof voting box. Dabbledob noted music has helped in some circumstances.
 
-### Black Lion Tribe (Uthgardt)
-- **Status:** Active (last known to be raiding)
-- **Notes:** Destroyed Corbin's village Greenmeadow and killed his family during the chaos following the breaking of the Ordning.
+### Falcon's Lodge Area
 
-### Rot-Tusk Clan (Ogres)
-- **Status:** Ongoing blood feud with the party; multiple members killed in various encounters
-- **Notes:** Were allied opportunistically with Jax for the Dragonbarrow ambush; one killed there. One ogre previously killed on the road (claimed to be the brother of the first ogre the party killed). Three sent in a separate direction from Borg when he burned Butterskull Ranch.
+**Falcon the Hunter** — Retired adventurer; lodge proprietor. Lodge built with residual gold from Iymrith's plundered hoard (not from personally slaying a dragon — stolen valor). Lodge overrun by Anchorites of Talos. Offered special wood for Vukradin's studio and proposed converting lodge into music venue. Initially sided with Adabra at druid council; recanted after Valphine's counseling. Plans to apologize to Vukradin with a substantive gift. Currently heading to/at Phandalin.
+
+**Sridar** — Drow guest at Falcon's Lodge; artifact collector; self-identified interventionist. Purchased the Talisman of Moesko for 100gp. Fascinated by planar events. Offered to help the party piece together planar clues.
+
+### Other
+
+**Xanth (Xanthopoulos)** — Centaur. Old friend of Meril. Warned party about will-o'-wisps at Dragonbarrow. Reported Corbin's death and Kaella's escape to the druid council. Confirmed Meril deliberately chose Soma for the staff. His people watch mountain passes. Declared neutrality. Departed after the council.
+
+**Teega the Smith** — Kraken Society member. Previously mind-controlled. Recovered after Cult Fanatic's death. Conflicted after observing Valphine's church. Intends to return to the Wayside Inn.
+
+**Don-Jon Raskin** — DECEASED. Was mine overseer hired by a Neverwinter consortium. Killed by dwarves after revealing plans to exploit both dwarves and wererats as cheap labor. Body consumed by carrion crawler.
+
+**Martisha Vinetalker** — Owner of the Wayside Inn. Half-elf; stern, cold, charismatic.
+
+**Elara Seasong Meliame** — Wealthy art collector in Neverwinter. The lighthouse statue belongs to her. Attending a gala hosted by Lord Cassian Meliame. Unaware of the statue's recovery. Party tasked with delivering it.
+
+**Sylvine Wintermoon** — Bandit/con artist. Researched Vukradin's reputation to exploit his treasure-returning principles. Attacked party at Icespire Hold when deception failed. Fate after skirmish unclear.
+
+**Meril (Meryl)** — Soma's druidic mentor. Trained Soma for one year then left, bequeathing his staff. Old friend of Xanth. Left the staff deliberately ("He did not give it for sentiment. He gave it because he picked her"). Current location unknown.
+
+**Aletra (Satora family)** — Valphine's sister; fourth daughter of House Satora/Sortorra. Escaped through a self-generated portal (blinded by Valphine's curse). Was smuggling drow poison (Midnight Tears) through the multiverse using the planar machine at Axeholm. Works for an unnamed boss. Sharp cheekbones, cold violet eyes, high-collared uniform. Speaks Undercommon. At large.
+
+**Lady Alagondar** — Ghost. Appeared in Dragonbarrow's northern chamber after the Dragon Slayer Sword was retrieved. Stared sorrowfully toward the Ice Spire Mountains. Faded without speaking. Identity, history, and connection to the dragon/sword unexplained.
 
 ---
 
-## 5. LOCATIONS
+## FACTIONS
+
+### Order of the Gauntlet
+- Goals: Making the north better; opposing evil; spreading their message through art
+- Status: Depleted after Wars of the Dragons and Giants; relies on true believers rather than hired agents
+- Key operative: Ser Kaelen Thorne (Phandalin)
+- Allegations: Anonymous letter (from Jenna/Lord's Alliance) claims funding ties to House Margaster — unverified
+- Relationship with party: Vukradin is associate member (ambiguous standing); rejected Soma as ideologically incompatible
+
+### Lord's Alliance
+- Goals: Maintain law and societal order; counter Order of the Gauntlet influence
+- Key operative: Jenna Roscoe (Phandalin)
+- Relationship with party: Failed to recruit Vukradin; anticipated to claim the frozen treasure hoard
+
+### Emerald Enclave
+- Internal schism: **Interventionists** (Soma, Lyra, Thomas, Marian) vs. **Anti-Interventionists/Naturalists** (Adabra, Aldric Stone Path, formerly Falcon)
+- Recent council: Interventionists won the vote; Lyra restored to good standing; Adabra outvoted but not defeated — left without accepting the verdict
+- Reidoth (nominal chapter head) is absent; contacted by Vukradin via Sending
+- The presiding druid's ruling: "The purpose of the Druids Enclave is not to save the multiverse, the purpose of the Druids Enclave is to save the forest"
+
+### Kraken Society
+- Goals: Expanding psionic influence; acquiring inscriptions about the drowned gate beneath Yllyn; "rising current flowing toward Neverwinter"
+- Methods: Psionic mind control (not Mind Flayer origin); green cloaks, gold badges, spiral emblems
+- Known actions: Mind-controlled Emerald Enclave patrol; forced them to steal an inscription about a drowned gate beneath Yllyn in the Underdark; mind-controlled Teega the Smith
+- At least one member is part of the Neverwinter consortium that owned Mountain's Toe Mine
+- Jenna Roscoe (Lord's Alliance) dismissed them as a harmless social club — suspected of concealing knowledge
+
+### Cult of Talos / Anchorites of Talos
+- Half-orc spellcasters capable of shapeshifting into animals
+- Occupy the Woodland Manse (party was driven away)
+- Perform dark rites at standing stones atop a cave-ridden hill in Neverwinter Wood
+- Allied with regional orcs and ogres
+- Overtook Falcon's Hunting Lodge
+- Blighting the land (grey soil, dead grass, Talosian corruption)
+- One orc chief's tribe allied with them after being displaced from Ice Spire
+
+### House Margaster
+- Based in Waterdeep; alleged ties to evil cults and demonic alliances
+- Alleged to fund the Order of the Gauntlet (per Jenna's letter)
+- Agents actively moving to intercept the lighthouse statue before it reaches Elara Seasong Meliame
+
+### House Satora/Sortorra (Sartorra)
+- Drow noble house; operates poison labs (scent: lavender perfume + chemical bleach)
+- Connected to illegal interdimensional poison trade (Midnight Tears — linked to House Xorlarrin)
+- Key member: Aletra (fourth daughter, at large); Valphine (member by birth, with party)
+
+### Whiskered Gang (Wererats)
+- Leader: Zeleen Varnaster
+- Current role: Protecting Mountain's Toe Gold Mine; inhabit part of the mine
+- Payment: Regular cheese shipments from Butterskull Ranch (via Petunia/Qelline)
+- Were displaced from the Shrine of Savras by ~16 orcs and several ogres
+- Valphine sensed they were lying about intentions and would likely try to keep the mine regardless
+
+### Stonetallow Clan (Shield Dwarves)
+- Led by Horia Stonetallow
+- Handle all mining at Mountain's Toe Gold Mine
+- Hold a signed contract for 20% (being renegotiated down)
+- Killed Don-Jon Raskin after he revealed plans to exploit them
+- Pragmatic; Horia secretly arranged a 50gp expenditure with Brewbarry (hidden from Vukradin)
+
+### Rot-Tusk Ogres
+- Blood feud with the party (party killed multiple tribe members)
+- Have been allied opportunistically with the Carver's agents and regional orc forces
+
+### Uthgardt Barbarians
+- Previously launched devastating assault on the North (razed Triboar, obliterated Calling Horn)
+- Eliminated from the hinterland by combined Giant and city forces
+- Black Lion tribe destroyed Corbin's village of Greenmeadow
+- Brewbarry's tribe exiled him unjustly
+
+### Giants (under Hekaton)
+- Ordning reinstated; alliance with peoples of the Realms
+- Stone giants follow Hekaton's non-intervention doctrine regarding "little ones"
+- Provided the party with two potions (greater healing, hill giant strength) during the Icespire Hold approach
+
+---
+
+## LOCATIONS
 
 ### Phandalin
-- **What it is:** Small mining town, 40-50 log buildings in foothills of Sword Mountains; no walls or garrison; residents are farmers, stonecutters, blacksmiths, traders, prospectors; population ~several hundred
-- **Current state:** Stable; celebrating the dragon's defeat; Harbin Wester presides over the Privy Council; under ongoing threat from orc incursions (now reduced with Cryovain's death)
-- **Key sites:**
-  - *Stonehill Inn:* Operated by Toblen "Spiderman" Stonehill; party's social base
-  - *Townmaster's Hall:* Harbin Wester; quest board; bell tower
-  - *Temple of Lathander's Searing Pain of Justice (Tresendar Manor):* Under renovation by Brin and Giles; new sacrament of intentional blinding established; a severed Kraken Society cultist head placed on a pike outside
-  - *Lionshield Coster outpost:* Managed by Linene Graywind; supply-constrained
-  - *Miner's Exchange:* Halia Thornton
-  - *Barthen's Provisions:* Elmer; clerks Ander and Thistle
-  - *Shrine of Luck / Garaele's house:* Main square landmarks
-  - *Town Green:* Site of Vukradin's town meeting; dragon repelled here via Phantasmal Force
+- Small mining town of 40-50 log buildings in Sword Mountain foothills. No walls or garrison.
+- Governed by Privy Council: Harbin Wester (townmaster), Vukradin, Tolbin, Elmer (Barthen's Provisions), Halia Thornton (Miner's Exchange), Linene (Lionshield Coster), Adabra
+- Key sites: Stonehill Inn, Townmaster's Hall, Lionshield Coster, Barthen's Provisions, Miner's Exchange, Shrine of Luck, Garaele's house, Temple of Lathander's Searing Pain of Justice (Tresendar Manor)
+- Status: Stable; dragon threat resolved (Cryovain dead); orc/Talosian threats ongoing; ale production threatened by farming disruption
 
 ### Neverwinter
-- **What it is:** Major city; seat of Lord Neverember; recovering from decades of catastrophe and corruption
-- **Current state:** Lord Neverember pursuing reforms; Lord Cassian Meliame hosting a gala; House Maragaster agents active; an interplanar shipping device (Lionshield Coster connection) has stopped working
-- **Pending party business:** Deliver blue quartz mermaid statue to Elara Seasong Meliame; credit Order of the Gauntlet; meet Ser Kaelen
+- Major city under Lord Neverember's reforming governance. History of catastrophes, corruption, crime.
+- Party's next destination. Outstanding business: deliver lighthouse statue to Elara Seasong Meliame (House Margaster agents may intercept); Order of the Gauntlet wants credit; Ser Kaelen has info about a party magical object
+- Interplanar shipping device has stopped working (Lionshield Coster connection)
+
+### Mountain's Toe Gold Mine
+- 15 miles NE of Phandalin. Party has financial stake.
+- Operated jointly by Stonetallow dwarves (mining) and Whiskered Gang wererats (protection)
+- Currently idle; requires the Earthstone Gem before mining can resume. Wererats dispatched to retrieve it. Plan B: fake gem (50gp).
+- Don-Jon Raskin's consortium in Neverwinter included at least one Kraken Society-associated person
+
+### Icespire Hold
+- Mountain fortress. Former orc homeland. Cryovain lair (now dead).
+- Summoning circle on rooftop where the Carver attempted to dominate Cryovain
+- Contains a secret door in the orc quarters (unexplored)
+- Frozen treasure hoard (~3,000gp fused by planar magic; needs a planar theorist to separate)
+
+### Axeholm
+- Ancient dwarven fortress south of Phandalin. Secured by party as potential evacuation site.
+- Planar anomaly resolved — was caused by Aletra's malfunctioning Spatial Rectification Calliope (now destroyed/dematerialized)
+- Contains: storage room with serviceable armor/tools; barracks; empty armory; smithy; kitchen with hot spring; grand dining room with trash chute
+- Lighthouse keeper vacancy still exists at the Tower of Storms
+
+### Tower of Storms (Lighthouse)
+- Curse lifted; Moesko killed; harpies defeated; beacon extinguished. Altar sanctified.
+- Ship treasure salvaged: blue quartz mermaid statue (belongs to Elara Seasong Meliame), spellbook, Wand of Secrets, color-changing cloak
+- Miral the Sea Elf's ghost departed at rest after receiving her opalescent conch
+
+### The Whispering Wood / Whispering Grove
+- Afflicted by planar disturbance ("planar leakage/bleeding"). Treant (former grove guardian) killed by party after corruption. Ritual to seal the rift failed (3 failures out of 4 needed).
+- Planar rift now expanding. A phased puppet-creature emerged, harvested materials from the treant's corpse, and retreated into the rift.
+- Distorted pool present: shows visions, causes psychic overwhelm. Identified as a "planar scar."
+- Adabra confirmed the treant is dead and grove is ruined.
+
+### Gnomengarde
+- Gnomish hold in Sword Mountains caves. Dual monarchy (destabilized). Party killed a mimic in the cellar. Received Hat of Wizardry as reward.
+
+### Dragonbarrow
+- 30-foot burial mound. Party retrieved: Dragon Slayer Sword, Necklace of Fireballs (7 beads), Flute of Illusions. Defeated will-o'-wisps and an invisible stalker.
+- Contains dragon bones, Lady Alagondar's burial site, Boney's origin niche.
+
+### Falcon's Hunting Lodge
+- Overrun by Anchorites of Talos and allied orcs/ogres. Falcon displaced. Party has standing offer to reclaim it for special wood + music venue partnership.
+
+### Woodland Manse
+- Occupied by Cult of Talos (Anchorites, orcs, half-orcs). Party driven away by fireballs and lightning. Uncleared.
+
+### Butterskull Ranch
+- Destroyed. Burned by Borg the Hammer after failed trap. Big Al rescued; Petunia recovered.
+
+### Other Notable Locations
+- **Triboar**: Razed by Uthgardt barbarians. Former home of Big Al as sheriff. Location of a legendary play featuring actor "Bob" as a Demon — Vukradin seeks the script.
+- **Leilon**: Miral warned "the true storm gathers not in the sky, but in the depths below Leilon." Adabra references interventionist "zealous rituals" there.
+- **Yllyn**: Contains a "drowned gate" deep in the Underdark — subject of an inscription the Kraken Society forced the Enclave patrol to steal.
+- **Shrine of Savras**: Former home of Whiskered Gang; occupied by ~16 orcs and several ogres. Suggested as source of dragon intelligence.
+- **Neverwinter Wood**: Overrun by orcs allied with Anchorites of Talos; dark rites at standing stones; farmers fleeing; farming/beer production severely disrupted. Strange magic reported.
+- **Greenmeadow**: Destroyed farming village east of High Forest. Corbin's hometown; destroyed by Black Lion Uthgardt.
+- **Glacier of Whispers**: Violet glacier with silent screaming faces trapped in ice. Emits psychic pressure. The Carver's trail crossed it.
+- **Wayside Inn**: Corner of High Road and Triboar Trail. Staffed by Martisha Vinetalker, Backes Dunfield, Cooragh Struckt. Teega intends to return here.
+- **The Underdark / Menzoberranzan**: Menzoberranzan destroyed by rampaging demons (Grazz't, Zuggtmoy, Orcus, Demogorgon) following Gromph Baenre's catastrophic spell. Valphine fled during demon incursion.
+
+---
+
+## ACTIVE THREATS & ONGOING SITUATIONS
+
+1. **Adabra's next move** — Outvoted at council but described as having "chosen a different battlefield." May return with greater numbers or different tactics.
+2. **Sister Kaella at large** — Deadly assassin; killed Corbin; escaped custody. Current location unknown.
+3. **Anchorites of Talos** — Control Woodland Manse and Falcon's Lodge; performing dark rites in Neverwinter Wood; blighting the land; allied with regional orcs/ogres.
+4. **Kraken Society** — Psionic influence expanding toward Neverwinter; inscription about drowned gate beneath Yllyn stolen; at least one member in the Neverwinter mining consortium. "Rising current flowing toward Neverwinter."
+5. **House Margaster** — Agents moving to intercept the lighthouse statue; demonic alliances.
+6. **Planar disturbances** — Whispering Grove rift expanding; phased puppet-creature harvesting materials; Lionshield Coster's interplanar device non-functional; planar anomalies appearing across the region.
+7. **Orc incursions** — Orcs displaced from Sword Mountains by Cryovain (now dead) still active in valleys and forests. Some allied with Talosians. Farmers can't tend crops; no beer this season.
+8. **Aletra at large** — Blinded but escaped through portal; smuggling drow poison (Midnight Tears) through the multiverse; works for an unnamed boss.
+9. **The frozen treasure hoard at Icespire Hold** — ~3,000gp fused by planar magic; needs planar theorist. Ownership contested.
+
+---
+
+## PARTY INVENTORY OF NOTE
+
+- Dragon Slayer Sword (Brewbarry)
+- +1 Halberd (Brewbarry)
+- Dread Helm (Brewbarry — eyes glow red)
+- Gauntlets of Ogre Power (Brewbarry)
+- Meril's Staff (Soma — awakened, one leaf remaining)
+- Necklace of Fireballs, 7 beads (party)
+- Flute of Illusions (party)
+- Wand of Secrets (party)
+- Spellbook (recovered from shipwreck)
+- Color-changing magical cloak (unclaimed — Vukradin refused it)
+- Potion of Superior Healing (from dwarven shrine)
+- Potion of Water Breathing (from harpy nest)
+- Potion of Greater Healing & Potion of Hill Giant Strength (from stone giants, Brewbarry)
+- Platinum Moradin amulet (from dwarven shrine)
+- Axeholm signet ring/key (function unknown)
+- Blue quartz mermaid statue (belongs to Elara Seasong Meliame — to be delivered)
+- The Carver's obsidian sword / "Bluetooth sword" (Vukradin — insists on returning to rightful owner)
+- 4 vials of Midnight Tears poison (from Aletra's quarters)
+- Captured audit drone (Valphine)
+- Operator's Guide to the Model 1489 Spatial Rectification Calliope (with Aletra's notes)
+- Sending stones (from Dazlyn & Norbus)
+- Magical goggles granting darkvision (from carrion crawler lair)
+- Dragon breath pouch & scales (harvested from Cryovain)
+- Forged ledger (evidence of Aletra's Midnight Tears smuggling)
+- Bill from Interplanar Trade Consultants Incorporated
+- Wolf pelts (sold some; may have remaining)
+- Ogre whistle, coins, key (from second ogre kill — key purpose unknown)
+
+---
+
+## UNRESOLVED QUESTS & THREADS
+
+### Immediate / Active
+- **Deliver lighthouse statue to Elara Seasong Meliame in Neverwinter** — House Margaster agents may intercept; Order of the Gauntlet wants credit
+- **Ser Kaelen's information about a party magical object** — awaiting delivery in Phandalin/Neverwinter
+- **Rightful owners of shipwreck treasures** — Candlekeep research completed; return "not straightforward"
+- **Falcon's apology to Vukradin** — Plans substantive gift (instrument or studio space); Valphine mediating
+- **Mountain's Toe Mine — Earthstone Gem** — Wererats dispatched; Plan B (fake gem) as fallback
+- **Adabra's next move** — Left council without accepting verdict
+- **Sister Kaella at large** — Killed Corbin; escaped
+
+### Major Unresolved Mysteries
+- **The Kraken Society's endgame** — "Rising current toward Neverwinter"; drowned gate beneath Yllyn; psionic creatures involved
+- **The planar disturbances' root cause** — Multiple sites affected; no unifying explanation; "something foreign" corrupted Moesko; Whispering Grove rift expanding; phased puppet-creature harvesting materials
+- **The inverted eye with tentacle symbol** — Found on Moesko's talisman; associated with alien psionic energy; connected to a deep ocean entity (giant octopus worship?)
+- **Miral's warning: "The true storm gathers not in the sky, but in the depths below Leilon"**
+- **Meril's Staff** — Why leaves diminish while power grows; why Meril chose Soma after only one year; Meril's current location
+- **Soma's time limit** — "So little time left"; cause never explained
+- **Lolth's multi-century plan** — Trapped in
