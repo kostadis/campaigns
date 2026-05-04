@@ -138,6 +138,51 @@ meet them.*
 donation between them** so each PC has a contact. Nudge donations if
 the party converges on one Avowed.
 
+### Five Books, Five Questions — the canonical registry
+
+> **Canon (chapter 54):** Candlekeep's rule is *one book per
+> question.* The party donated **five books** to ask **five
+> questions** — one per PC plus one for Glabbagool. The
+> First Reader assigns one Avowed scholar per question.
+> **Each Avowed should quote the question back when the
+> scholar scene opens** — that is the ritual texture and what
+> ties the donations to the answers. Do not let a scholar
+> begin work without re-stating the question.
+
+| # | Asker | Question (chapter 54 commit) | Book donated | Scholar assigned | Answer track |
+|---|---|---|---|---|---|
+| 1 | **Daz (Mike)** | *"Who is following me? Who paid the Duskryns to extract me alive?"* | Princess Ebonmire's spellbook | **Sister Yvenne** | T'sarran half (Vaelissa surfaces) + Protection half (Fourth-Seat erasure trail; bloodline-pattern) |
+| 2 | **Zalthir (Gabe)** | *"Who or what is Jimjar?"* | Plinki's journal *(or alternate; this is Khell-Vire's hook)* | **Brother Khell-Vire** + Master Kenshi | 7-tier reveal: Callarduran identification → Abyss quarrel → planar exit → why he vanished → bone die → three reads on this party → Blingdenstone connection. **Khell-Vire reciprocally researches Zalthir** (the Bone-King phrase). |
+| 3 | **Thorin (Joe)** | *"I want help with Dawnbringer. Therapy. Not a one-question kind of thing."* (Grygum at the gate: *"It's a process, not a product."*) | Velkynvelve prisoner journal *(First Reader's pick — masterpiece of drow prison writing)* | **Master Archivist Philemon** | Three-phase: Clinical → Pivot (Path A/B/C) → Quiet Hour → Prescription. **Multiple sessions of work** — the canon does not pretend this is one answer. |
+| 4 | **Grygum (Ben)** | *"What does Bahamut want from me specifically? What does my conversion mean in the broader theological landscape?"* | Ilvara's prayer book with Zuggtmoy marginalia + Asha Vandree's Lolth/Zuggtmoy manuscript | **Brother Vareth** | The Stroud Wake — 7-station tour through the controversy that has subsumed Vareth's quiet specialty. Three schools (Stroud / Dragon / Bahamut) presented; **Ben picks a school between sessions.** Vareth is honest he does not know the answer. |
+| 5 | **Glabbagool** | **OPEN — player choice this session.** Possible directions established at the gate (Thorin proposed Glabbagool gets a question; Grygum endorsed; Zalthir confused; Glabbagool wanted to know "why we weren't simply donating every book we'd ever seen"). The answer-tier opens once Glabbagool decides what he is asking. | (party's fifth book — typically the redundant donation at the gate) | **TBD by question content** | See "Glabbagool's question" beat in Act 3. Three location options based on question content: **Pavilion Naturalis** (*"What am I?"*), **Tower of Tall Tales** (*"What is a feathered thing?"*), **Whispering Dome** (*"What is the Way of the Shadow?"* — Zalthir-sponsored monk-training read; bankable boon). |
+
+**GM ritual line for each scholar's first scene** — open by
+quoting the question back. Examples:
+
+- *Yvenne to Daz:* *"You came with a question. 'Who is
+  following me. Who paid the Duskryns to extract me alive.'
+  I have read your book. I will give you what I can. Some of
+  the answer you will have to find for yourself, in this
+  library, with my help. Some of the answer is older than
+  Candlekeep. Where would you like to begin?"*
+- *Khell-Vire to Zalthir:* *"You came with a question about
+  Jimjar. I will answer it. I will also, if you allow me, ask
+  you a question I have been waiting fifty years to ask."*
+- *Philemon to Thorin:* *"You came with a request, not a
+  question. Your companion phrased it as 'process, not
+  product.' I respect that. We will work in phases. The first
+  phase is observation. May I begin?"*
+- *Vareth to Grygum:* *"You came to ask what Bahamut wants
+  from you. I will tell you, with apologies, that I do not
+  know. What I have is the dossier of the controversy that
+  has eaten my career — and which has, I suspect, eaten
+  yours. May we walk through it together?"*
+
+**Whenever the players forget what they asked,** any Avowed
+NPC can repeat the question back. *"You came with a question."*
+The repetition is canonical; lean into it.
+
 ### First Reader greeting
 
 **Setting:** the **Emerald Door reception** off the Inner Ward

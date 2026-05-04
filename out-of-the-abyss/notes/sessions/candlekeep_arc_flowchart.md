@@ -25,7 +25,8 @@ flowchart TD
         S1A["Travelogue · ~30–40 min<br/>8 episodes · Mirabar → Goldenfields →<br/>Triboar · Eldred + Kestler Bahamut →<br/>Waterdeep shopping arc → Daggerford ⭐ silent child →<br/>Beregost → Way of the Lion"]
         S1A --> S1B["Emerald Door<br/>Bookwyrm receives 5 books<br/>First Reader allocates scholars"]
         S1B --> S1Choice1{{"Polly Pocket?<br/>Bell Tower / Keep in bag / Release"}}
-        S1Choice1 --> S1C["Refectory dinner<br/>⭐ ONLY time party sees Janussi alive<br/>Daral drunk · Sylvira ill · A'lai and Alkrist whispering"]
+        S1Choice1 --> S1Qs["⭐ FIVE BOOKS · FIVE QUESTIONS<br/>1. Daz: 'Who is following me?'<br/>2. Zalthir: 'Who is Jimjar?'<br/>3. Thorin: 'Help with Dawnbringer · process not product'<br/>4. Grygum: 'What does Bahamut want from me?'<br/>5. Glabbagool: 🟣 PLAYER CHOICE this session<br/>★ Avowed quote each Q back when the scene opens"]
+        S1Qs --> S1C["Refectory dinner<br/>⭐ ONLY time party sees Janussi alive<br/>Daral drunk · Sylvira ill · A'lai and Alkrist whispering"]
         S1C --> S1D["Parallel scholar lanes · interleave<br/>Daz-Yvenne · Zalthir-Khell-Vire and Kenshi<br/>Thorin-Philemon · Grygum-Vareth"]
         S1D --> S1E["Sylvira / Infernal Fortress<br/>demon-lord evidence handoff<br/>★ ally before suspect"]
         S1E --> S1F["⭐ Plant: Endless Chant Deadwinter Prophecy snippet<br/>⭐ Plant: hooded corridor figure — A'lai with the gift"]
@@ -90,7 +91,7 @@ flowchart TD
 
     class S1Cliff1,S2Cliff2,S3End cliff
     class S1Choice1,S3Choice2,S3I choice
-    class S1C,S1E,S1F,S2H,S2I,S2J,S2Cliff2,S3B,S3C,S3G,S3J clue
+    class S1Qs,S1C,S1E,S1F,S2H,S2I,S2J,S2Cliff2,S3B,S3C,S3G,S3J clue
 ```
 
 ---
@@ -101,6 +102,7 @@ After each session, confirm these landed:
 
 ### Session 1
 - [ ] Travelogue ran (or compressed); Daz's somatic field-perception established
+- [ ] **Five Books, Five Questions registry confirmed** — each PC's question stated aloud at the gate; Glabbagool's question chosen
 - [ ] Polly Pocket disposition decided
 - [ ] Party saw Janussi alive at the Refectory
 - [ ] Endless Chant Deadwinter Prophecy snippet planted
