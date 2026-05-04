@@ -49,8 +49,9 @@ Tiamat's attempted summoning, the Cult of the Dragon
 infiltration, the Council of Waterdeep, the metallic-dragon
 alliance.
 
-**The campaign has TWO load-bearing heroes from this war,
-canonically distinct in shape:**
+**The campaign has FOUR load-bearing heroes from this war —
+the in-fiction *First Faction* — canonically distinct in
+shape:**
 
 **Stroud the dwarven rogue.** The war ended at **Stroud's
 Gambit** — Stroud, sitting across from the ancient gold dragon
@@ -83,12 +84,52 @@ books) at every available opportunity — *"As Malfire said in
 Volume 3"* (chapter 54). The party's running joke; Mike's
 quiet character beat.
 
-**Two heroes, two registers.** Stroud is the player; Milo is the
-institution. Stroud is the song; Milo is the seal. The party
-will see *both* iconographies from Mirabar south, peaking in
-Waterdeep — Stroud at the taverns and statues, Milo at the
-chapter houses and Order of the Gauntlet shrines, **Milo's books
-on every Waterdeep bookshop's front shelf.**
+**Malfire, the quiet ranger.** Two-years-on the world calls him
+**"the Vindicator of Nature"** and **"the Winterstalker."**
+Personally **convinced the Emerald Enclave to join the war**
+alongside the Treants and the Metallic Dragons — a diplomatic
+move whose ripple effects are still unfolding. ⭐ **The OOTA
+back half / Gauntlgrym endgame depends on the Emerald Enclave
+being reachable as an ally; Malfire is *why* they will answer
+the door.** In the High Forest, wood elves and rangers speak of
+him as a protective presence; the saying is *"the Winterstalker
+ensures Tiamat's lingering influence never takes root again."*
+**Joe will recognize.** His prior PC. *Honor it.*
+
+**Whistler, the redeemed Ardragon.** ⭐ ***A flying kenku in a
+black hoodie.*** Disappeared into the shadows after the war.
+Mythologized along three competing axes — all true at once:
+- *Common-folk Waterdeep:* "heroic sacrifice" against the white
+  dragon **Glazhael.** (A spin operation by Ezra and Remalia
+  with Harper assistance — *Whistler did not actually die.*)
+- *Black Network (Zhentarim):* the **Ardragon** who secured
+  *"the largest hoard in history,"* now retired with his prize.
+- *Lycanthrope myth:* **the Shadow Werebear** haunts the trade
+  routes; *"a mute knife that chose righteousness over profit."*
+
+Kenku canonically cannot fly. **Whistler bought boots of
+flying** and used them constantly — the **flying kenku** is
+the canonical visual gag and is preserved in every reference.
+Black hoodie. Mute (kenku — only mimics perfectly). Raven-
+attracted-to-baubles thief who became *good* via werebear
+lycanthropy at level 15 and then could not figure out when
+stealing was acceptable; **looked to Milo for moral framing,**
+and Milo would say *"we need money for operational expenses,
+cost of living etc."* Milo's books shade the redemption
+philosophically; the popular legend simplifies it to *"he
+doesn't steal money anymore."* **Gabe will recognize.** His
+prior PC. *Honor the silence at the table.*
+
+**Four heroes, four registers.** Stroud is folkloric. Milo is
+institutional. Malfire is a wilderness-spirit. Whistler is
+mythologized and contested. The party will see *all four*
+iconographies from Mirabar south, peaking in Waterdeep —
+Stroud at the taverns and statues, Milo at the chapter houses
+and Order of the Gauntlet shrines, **Milo's books on every
+Waterdeep bookshop's front shelf,** Malfire's painted likeness
+in the back of Order of the Gauntlet shrines, and Whistler in
+bardic songs and Black Network whispers along every trade
+route between Triboar and Daggerford.
 
 **Visible aftermath:**
 - Tiamat-cultist trial sites in major cities, marked with
@@ -103,6 +144,19 @@ on every Waterdeep bookshop's front shelf.**
   carry Milo's iconography — a multimedia signature: paintings
   of the First Faction meeting, sculptures of Malfire, and
   copies of his books in the chapter library.
+- **The First Faction painting** (Milo's last major artwork,
+  unveiled at his Waterdeep book signing) depicts the
+  mountain-top meeting between the metallic dragons and the
+  First Faction — Stroud at center, Milo at his left,
+  **Malfire in green at the back, Whistler in his black hoodie
+  hovering slightly above the ground via boots of flying.**
+  This composition is the iconic image of the war and is
+  reproduced across the route — bronze relief at Mirabar's
+  shrine; full-size original at Rishaal's bookshop in
+  Waterdeep; smaller prints at Daggerford's Bahamut chapel.
+- **Bardic songs of the Mute Knife** play in trade-route inns
+  from Triboar south. The kenku-who-flew is the chief image
+  preserved.
 
 ### War of the Giants (recent — within the past year)
 
@@ -293,6 +347,14 @@ shifts.
   in monastic robes with one open palm raised. **The
   *Auditor* persona** the canon mentions, painted by Milo
   himself.
+- **And — Malfire is here, very quietly.** On the back wall of
+  the same shrine, a larger painting nearly full-height: ⭐
+  ***Malfire, the Vindicator of Nature*** — a figure in
+  weathered green at the edge of a forest, longbow lowered, an
+  enormous grey wolf at his side, stars rising over his
+  shoulder. Painted by Milo. **Joe will recognize.** A small
+  brass plate beneath: *"He spoke for the trees, and the trees
+  spoke back. — M.G."* Pose for it. Don't underline.
 - A **Sjurkar priest** (lesser dragon-cult; Mirabar tolerates
   them as long as they keep to copper-and-bronze talk and
   carry **Concordant Order seals** — chivalric license issued
@@ -427,6 +489,28 @@ pre-war price.
   pilgrims, **Concordant Order knights** in dragon-scale pauldrons
   riding through, the occasional Lord's Alliance courier
   carrying rebuild-permits. The party can blend in here.
+- ⭐ **Trade-route whispers — the flying kenku in the black
+  hoodie.** Triboar is the Sword Coast's caravan-staging town,
+  which means it is the listening-post for every trade-route
+  rumor for two hundred miles. **Drovers, teamsters, and
+  outriders speak of *the Shadow Werebear* who haunts the
+  caravan trails north of Yartar.** The image is consistent:
+  ⭐ **a kenku, hooded in black, hovering a foot off the
+  ground, who appears at distance and is gone before anyone
+  can call.** *"The Ardragon, my granddad called him. The one
+  who used to fly the routes for the Black Network. Used to
+  steal anything not nailed down. Then something happened to
+  him out east, and now he's a — a what — a*ranger*, sort of?
+  Stops bandits. Takes nothing. Doesn't speak. Mimics a hawk
+  and rides the next thermal. The hoodie is unmistakable. We
+  don't pay him; we leave a coin on a rock and he never picks
+  it up."* **Gabe will recognize.** His prior PC. *Honor the
+  silence.*
+  - **DC 13 Insight** (auto for Daz): the drovers are partly
+    embellishing and partly not. The Shadow Werebear appears in
+    multiple places at once, which means either there are
+    multiple imitators or the legend has outpaced the man.
+    **Both readings can be true.**
 - **The drunk at the inn.** Old man on a stool by the fire,
   talking to himself **in two voices.** One voice is his. The
   other is younger, and answers questions the first voice
@@ -524,6 +608,22 @@ Waterdeep met here, the metallic alliance was sealed here, and
     Real-world fiction enthusiasts, you understand. They are
     exasperating, but they buy three copies of every corrected
     edition."*
+  - ⭐ **The First-Faction painting above the cash desk.**
+    Full-size original; the iconic image of the war. **Stroud
+    at center,** dwarven and short and squinting upward; **Milo
+    at his left,** halfling in white-and-gold Bahamut robes
+    with palette and quill; **Malfire in green at the back,**
+    longbow strung, eyes on the tree line — *Joe will see his
+    own face in the back of the painting;* **Whistler hovering
+    a foot above the ground in his black hoodie, kenku beak
+    half-shadowed under the hood, one hand mid-mimicry-gesture
+    as if quoting a line of metallic-dragon speech to the
+    others** — *Gabe will see his own.* The metallic dragons
+    arc above them, mountain-tops behind. Rishaal points at it
+    with quiet pride: *"That painting saved the print run.
+    Milo finished it two days before the signing. We had it
+    framed by morning. People came for the painting and left
+    with the book."*
   - **Daz can buy Volume 3** here. **Mike will recognize the
     title page.** ⭐ The shop attendant tells him *"this is the
     fourteenth printing"* — meaning Daz is holding a recently-
@@ -531,9 +631,25 @@ Waterdeep met here, the metallic alliance was sealed here, and
   - **Real-world fiction fans** are at the back of the shop
     arguing animatedly about a passage in Volume 2 — *"He
     couldn't have flown there in two days from Triboar, the
-    weather report from that tenday explicitly said —"*
-    Daz can ignore them or join. **If Daz joins, he is
-    welcomed as a fellow scholar of the text.**
+    weather report from that tenday explicitly said —"* The
+    *"he"* the fans are arguing about is **Whistler the flying
+    kenku** — half the famous fan inconsistencies in Milo's
+    books are debates about how fast a kenku in boots-of-flying
+    can cover trade-route distances given documented weather.
+    *"The wind from the north on second-tenday Eleasis would
+    have made the descent into Yartar physically impossible.
+    Milo describes it as four rounds. Four rounds. With a
+    crosswind of —"* Daz can ignore them or join. **If Daz
+    joins, he is welcomed as a fellow scholar of the text.**
+  - **A second running fan argument** is about ⭐ **Whistler's
+    redemption arc** in Volume 3. The fans are split: half
+    think Milo's account of Whistler's morally-confused
+    post-lycanthropy stage is *too generous* (it elides how
+    much Whistler still stole during that period); half think
+    Milo's *"operational expenses, cost of living"* framing is
+    a *philosophical breakthrough* about the impossibility of
+    pure-good heroism. **Daz can join either side.** Both
+    sides will buy him an ale.
   - **Operational-security texture** (per canon): **the
     Silver Dragon Otaaryliakkarnos / Eli is *not named*** in
     Milo's published volumes. The fans note the absence with
@@ -547,12 +663,36 @@ Waterdeep met here, the metallic alliance was sealed here, and
 - **The Order of the Gauntlet chapter house** in the Sea Ward
   — institutional Bahamut + Tyr + Torm + Helm presence; **Milo
   is a lay-saint here.** A bronze sculpture of Malfire (Milo's
-  companion in the books) stands in the chapter foyer. Joe will
-  want a rubbing of the inscription. The chapter sergeant
+  companion in the books) stands in the chapter foyer —
+  longbow strung, wolf at heel, eyes on the threshold. Joe
+  will want a rubbing of the inscription. The chapter sergeant
   recognizes Grygum's holy symbol; the Order has been quietly
   watching the half-orc Bahamut conversion phenomenon and is
   *very* polite to Grygum. **Banked thread:** a possible Order
   of the Gauntlet ally at Gauntlgrym in the OOTA endgame.
+- ⭐ **The Whistler memorial plaque** in the chapter house's
+  side aisle. The institutional version of the Glazhael
+  cleansing-narrative: *"Whistler — kenku of the First
+  Faction, fallen at Glazhael's lair the year of the
+  alliance. Redeemed in life and death. May his silence
+  speak."* The plaque is unironic; the Order takes the
+  cleansing narrative as record. **Gabe will read his prior
+  PC's official obituary.** *Honor it.* The plaque includes a
+  small etched silhouette: ⭐ **a hooded kenku hovering above
+  the ground.** *No one in the Order has ever asked how a
+  kenku flies.*
+- ⭐ **The Sleeping Snake fence (Dock Ward) — Black Network
+  whisper.** If Daz visits the back-room drow fence (per
+  earlier travelogue beat), the fence will, unprompted,
+  mention the Ardragon when Daz asks about Drow refugees:
+  *"You want a useful drow to know about? I'll tell you who
+  *isn't* a drow. The Ardragon. Black Network legend. The
+  flying kenku in the black hoodie. Took the largest hoard
+  the Network ever lost custody of. Word is he retired and
+  reads books now. Word is he doesn't take Network contracts
+  anymore. Word is, if you have something the Network wants
+  back, you don't go after the Ardragon — you write him a
+  letter, and you wait."*
 - **Stroudite pilgrims** in grey robes pass through Castle
   Ward. Half-orc clerics carrying single books to donate at
   Candlekeep. **Three of them recognize Grygum's holy symbol**
@@ -752,6 +892,24 @@ The party walks away unsettled.
   My grandfather said: the wall remembers."* Old grief, weathered
   smooth. **Useful contrast** to Triboar's fresh memorial — the
   Sword Coast's wars are old; the North's are new.
+- ⭐ **The bardic song of the Mute Knife.** A travelling bard
+  named **Veyloss** is at the Burning Wizard tonight; she
+  performs three sets between dinner and last call. **Her
+  closing number** every night this season is *"The Kenku
+  Could Not Fly"* — a four-verse rhyming drinking-song with a
+  chorus the Burning Wizard regulars all sing along with.
+  Sample (Gabe will hear it):
+  > *"O the kenku could not fly, but he flew,*
+  > *In his black hood and his black hood and his black hood;*
+  > *The raven-thief who learned to steal no more —*
+  > *Save what was needed, said the small wise man at his side."*
+
+  The fourth verse is about Glazhael. The chorus repeats *"his
+  black hood"* three times for a reason no one in Beregost
+  remembers. **Gabe will recognize.** *Honor it.* Veyloss takes
+  requests; if anyone asks for a different verse, she shrugs
+  and says *"all four are the same anyway. He flew. He stole.
+  He stopped stealing. He flew away."*
 - The **Burning Wizard** inn is full of pilgrims walking south
   to donate books at Candlekeep. The party suddenly fits in.
   Several pilgrims have rough manuscripts in oilcloth. The
@@ -819,7 +977,11 @@ when they arrive — *and the party is one of the five.*
    post-match letter (a polemic-shelf donation), the other a
    copy of the Concordant Order's founding charter. They walk
    the road quietly. **They look at Grygum.** Ben's call whether
-   he walks with them or apart.
+   he walks with them or apart. As the keep comes into view,
+   one of them murmurs the four names — *"Stroud, Milo,
+   Malfire, Whistler"* — the way one might murmur a prayer.
+   The other nods. ⭐ **The full First Faction in one breath,
+   plant and move on.**
 3. A weathered Triboar carpenter with a single hand-bound
    journal — names of the Triboar dead, written by survivors who
    wanted them in Candlekeep's archive *because Candlekeep
@@ -870,6 +1032,8 @@ Things to track from the travelogue:
 | **Milo Goodbarrel — Volume 3** (and possibly Volumes 1 & 2 if Daz didn't have all three) | Waterdeep — Rishaal the Pageturner's | ⭐ **Daz reads from these throughout the campaign.** Mike's quiet character beat — Daz cites Malfire from Volume 3 as a running gag (chapter 54 canon). Multimedia: also includes a small print of the First-Faction painting Milo signed at the last signing event. |
 | **Order of the Gauntlet pewter Tarvis-hand medallion** | Daggerford | Joe trophy. Quiet Order-of-the-Gauntlet calling card the party can present at the OOTA endgame Gauntlgrym contact. **Banked thread.** |
 | **Order of the Gauntlet Sea Ward chapter — knowing about Grygum** | Waterdeep | The chapter has noted Grygum politely. Banked: possible institutional ally at Gauntlgrym. |
+| **Joe-recognition: Malfire iconography** | Mirabar Order shrine wall + Waterdeep First-Faction painting + Sea Ward bronze sculpture + High-Forest passing references | Joe's prior PC. Plant warmly. *"He spoke for the trees, and the trees spoke back."* **Banked OOTA hook: the Emerald Enclave is reachable as an ally because of Malfire's diplomatic legacy.** |
+| **Gabe-recognition: Whistler legend** | Triboar trade-route whispers (Shadow Werebear / flying kenku) + Waterdeep Glazhael memorial plaque + Sleeping Snake Ardragon whisper + Beregost *"The Kenku Could Not Fly"* bardic song + First-Faction painting at Rishaal's | Gabe's prior PC. **The flying kenku in the black hoodie** is the consistent visual; preserve it in every reference. Three competing legends — common-folk Glazhael death (fabricated), Black Network Ardragon (retired with the hoard), Shadow Werebear lycanthrope myth (haunts the trade routes). All true at once. |
 | Dawnbringer scabbard finishing-work | Waterdeep | Smith was kind. Dawnbringer warmed slightly. **First soft beat in the Philemon hand-on-lock dynamic.** |
 | Grygum's *Hagiography of the Dragon-Born Faithful, Vol III* | Waterdeep | Mentions Stroud unconvinced. **Vareth finds this delicious in Session 4 Stroud Wake.** |
 | Zalthir's brass shadow-puppet hand | Waterdeep | GM-banked. Gabe's choice when to deploy. |
