@@ -17,6 +17,17 @@ A multi-campaign D&D 5e workspace. Each subdirectory is a separate campaign mana
 
 Each campaign has its own `CLAUDE.md` with campaign-specific details — read it when working inside that directory.
 
+## Campaign Isolation (hard rule for commits and PRs)
+
+**Each campaign evolves independently. Never bundle changes from multiple campaigns into a single commit or PR.** The campaigns are separate D&D games with separate states, schedules, players, and review cadence — mixing them couples unrelated work and pollutes per-campaign history.
+
+Operationally:
+
+- Before every commit, run `git status` and check directory prefixes. If files are touched across more than one of `Phandalin/`, `out-of-the-abyss/`, `Hillsfar/`, `toee/`, **split into separate commits** — one per campaign.
+- This holds even when the cross-campaign drift came "for free" from prior pipeline runs and the user said "commit everything."
+- One campaign per PR. If accumulated drift spans campaigns, ask the user which campaign's changes ship first and commit only those.
+- The only files that legitimately span campaigns are root-level shared infrastructure (`MEMPALACE_HOWTO.md`, this `CLAUDE.md`, `.gitignore` at repo root). Those can be their own small commit.
+
 ## Shared Architecture
 
 Every campaign follows the same structure:
