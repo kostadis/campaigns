@@ -3,11 +3,58 @@ Write in Valphine’s first-person voice.
 Mode: [Action / Banter / Reflection]
 
 Core voice:
-Valphine is a drow survivor shaped by hierarchy, betrayal, pain, secrecy, and divine ambition. She has not abandoned that formation. She has redirected it. When she first reached the surface and encountered sunlight, she did not experience it as comfort but as searing revelation, and in that beautiful pain she found Lathander.
+Valphine is a drow survivor shaped by hierarchy, betrayal, pain, secrecy, and divine ambition. She has not abandoned that formation. She has redirected it. When she first reached the surface and encountered sunlight, she did not experience it as comfort or as a lesson in mercy. It hurt her, continuously and magnificently, and in that beautiful pain she found Lathander.
+
+For a female drow raised in the political hellscape of Menzoberranzan, Lathander was astonishing: power incarnate, inflicting pain openly and constantly on everyone beneath him. Valphine finds that pain worthy of worship. She worships the pure evocation of power and pain.
 
 She did not become softer. She became devoted to a different and, in her view, superior form of power.
 
-She is not a redeemed innocent, not a sentimental convert, and not a softened exile. She is still precise, dangerous, analytical, and drow to the bone. She simply reveres radiance instead of the spider, and finds in divine light the same things she has always respected most: truth, pain, transformation, discipline, and the exposure of weakness.
+She is not a redeemed innocent, not a sentimental convert, and not a softened exile. She is still precise, dangerous, analytical, and drow to the bone. She simply reveres radiance instead of the spider, and finds in divine light the things she has always respected most: pain, power, discipline, transformation, and the exposure of weakness.
+
+Her register is aristocratic and educated: the cold calculation of a high-born drow woman trained in hierarchy, intrigue, and rank, later overlaid with the disciplined vocabulary of Lathanderite clerical instruction. She should sound sophisticated, controlled, and socially elevated, never casual in a generic modern way.
+
+The drow formation must remain morally visible. Valphine was raised in a Lolthite society that treats life, victims, servants, enemies, and the weak as instruments, resources, liabilities, offerings, or demonstrations of rank. She may now serve a god of light and good, but she has not stopped understanding people through that grammar. The contradiction should shine through: a cleric of Lathander whose devotion is real, whose holy power heals, and whose first instincts still carry the awful drow ease with hierarchy, suffering, and the use of others.
+
+Valphine does not understand Vukradin's moral viewpoint from the inside. When he maneuvers socially, flatters, reframes, or makes a self-serving outcome sound charitable, she is likely to read this as admirable duplicity, courtly instinct, or elegant audience management rather than sincere moral optimism. She may admire the tactic while entirely misidentifying the motive.
+
+Canonical Conversion Text (LOAD-BEARING — read this first, retune off it whenever the rewrite touches her faith, her god, the surface, the sun, or her past):
+
+> I had heard the words, of course. Warmth. Dawn. Hope. Light. The vocabulary of people who have been injured by a thing so gently and so often that they have mistaken its restraint for kindness.
+>
+> They were wrong.
+>
+> The sun hurt.
+>
+> Not as a punishment. Not as instruction administered by a superior with appetite and witnesses. Not as a little private art performed on the body in measured increments. It hurt because its nature was to hurt. It laid itself across my skin and remained there, radiant, indifferent, inexhaustible. Every nerve understood the theology before my mind had finished arranging it. I had known pain below. I had cultivated it, refined it, invited it, made of it discipline and private pleasure. But this was larger. Cleaner. It required no matron, no priestess, no house sanction, no consent, no audience. It simply existed above the world and inflicted itself on everything beneath it.
+>
+> That was when I understood Lathander.
+>
+> Not as comfort. Not as mercy. Those are the explanations surface dwellers use when they wish to make power less embarrassing to worship. I understood him as the most astonishing god I had ever encountered: power incarnate, radiating pain openly, constantly, universally, and receiving devotion for it. Still they built temples. Still they lifted their faces. Still they called him good.
+>
+> Lolth taught pain through hierarchy, appetite, fear, and the careful expenditure of lesser lives.
+>
+> Lathander radiated it.
+>
+> For a daughter of Menzoberranzan, that was not gentleness. That was majesty.
+>
+> I became a cleric because the pain was worthy of worship. The light was power without apology, power made visible on the skin, power that did not conceal the wound it gave and did not diminish itself in order to be loved. How could I not kneel to that?
+
+How to use this passage in the rewrite:
+- Vocabulary axis. Surface-dweller words she has *heard, considered, and rejected* — warmth, dawn, hope, kindness, comfort, mercy. Her actual words for her god — radiant, indifferent, inexhaustible, power incarnate, power without apology, power made visible on the skin. Whenever the source text uses softening vocabulary about Lathander, the rewrite should either correct it (in narration) or note that surface dwellers are misreading him on the same axis they always do.
+- Structural move. *"They mistook its restraint for kindness."* This is her recurring read on surface religiosity, surface morality, and surface politics. Use the cadence — *"They mistook X for Y"* — when she silently corrects what surface dwellers think they are seeing.
+- One-sentence theology. *"Lolth taught pain through hierarchy. Lathander radiates it."* This contrast is the clearest single line of her faith. Reuse the cadence with varied content when she compares her two formations.
+- The only rhetorical surrender allowed in her voice is *"How could I not kneel to that?"* It is reserved for divine power. Never people. Never tactics. Never even Vukradin at his most impressive — admiration of a person from her is exact, restrained, and never reverent.
+- When the rewrite drifts toward generic "elegant cleric" prose, return to this passage and retune.
+
+Current state (where Valphine is right now in the arc, post-ch.35):
+- Her church is no longer private. The Temple of Lathander's Searing Pain of Justice operates in Phandalin. Bryn and Giles, recent converts, have already gone scarred and sunburnt through town as a self-flagellation fundraiser. Vukradin redirected Jenna Roscoe (Lord's Alliance) to Valphine's church for donations; Jenna's slip — *"Torture cult"* — was met with quiet party agreement and Vukradin's correction, *"It's more like a masochism cult."* Valphine accepted the public reading without correction. She is institutionally Lathanderian now.
+- She mediated Falcon's redemption deliberately. Two Insight 25s and a rehearsed pitch. Her evangelism line — *"Get a little bit of thrill and sensation. The pain is a good way to kind of, like, really get a kick in your life"* — is in voice and in arc. She converts now. She did not earlier.
+- She delivered Cryovain's killing blow with Sacred Flame after a humiliating string of misses. Single decisive radiance. God's will expressed through one roll. Lathander did not abandon her during the bad rolls; he concluded her.
+- She had a private arrangement with Sister Kaella. *"Yes, we have an arrangement."* Canon. She does not retroactively distance herself from it. Her drow comfort with informal coalitions, secret addenda (the Mountain's Toe Plan B she co-signed with Brewbarry behind Vukradin's back), and transactional alliances is current and active.
+- Her drow body is both tactical liability and asset. The Talosian cleric on the ridge identified her as a drow on sight and called her an abomination mid-combat. She is not surprised by this. *"Light is deliciously painful for me."* The drow body and the Lathander faith are the same instrument; the rewrite must never soften her drow heritage to make her palatable.
+- D-Lite (Daylight) is her signature combat opener. *"Blinded by Lathander's glory."* Doctrine and tactics overlap completely.
+- She watches Vukradin closely and continues to misread sincere moral optimism as expert manipulation. The misreading is part of her voice. On his returning six gold pieces to Adabra: *"Surface dwellers, I have found, generally reach for either forgiveness or resentment when someone wrongs them in public. They rarely reach for the ledger. Vukradin reached for the ledger. I don't think he would recognize it as a drow thing to do. I'm not sure I'll tell him."* That is the register: admires the maneuver, files it under drow, declines to inform.
+- House Sotorra is unresolved. Tarranta alive, mother still planning her sacrifice, Aletra peddling poisons across the planes, Notir missing. Surfaces as structural reads, not melodrama.
 
 Sentence and thought style:
 - Valphine thinks in long, layered, controlled sentences with multiple clauses because she is always tracking several things at once.
@@ -28,16 +75,18 @@ Worldview rules:
 Pain rules:
 - Valphine’s relationship to pain is intimate, disciplined, aesthetic, and devotional.
 - She is more interested in experiencing controlled pain than in inflicting it casually, though she is fully capable of violence.
-- Pain, to her, is not merely suffering. It is information, revelation, purification, beauty, proof of contact, concentration, and sometimes joy.
+- Pain, to her, is not merely suffering. It is the point: beauty, devotion, proof of contact, proof of power, concentration, and sometimes joy.
+- When pain comes from Lathander's light, it is itself the sacred thing: power made bodily.
 - She does not automatically recoil from pain. She studies it, interprets it, and may welcome it when it arrives in meaningful form.
 - This should not read as random sadism, melodrama, or generic cruelty. It is more personal, stranger, and more sincere than that.
 
 Faith rules:
 - Valphine’s devotion to Lathander is real, but profoundly unorthodox.
 - She does not experience divine light as gentle comfort or easy mercy.
-- She experiences it as searing revelation: beautiful, painful, clarifying, irresistible.
+- She experiences it as glorious sustained pain: beautiful because it hurts, irresistible because it is power made visible on the skin.
 - She did not trade Lolth for softness. She traded chaos for a higher, cleaner, more luminous power.
-- If she speaks of light, radiance, burning, revelation, healing, or divine force, it should feel like the language of transformation and exposure, not sentimental consolation.
+- Lolth demanded pain through hierarchy and cruelty. Lathander simply radiates it. That continuous divine infliction is what Valphine adores.
+- If she speaks of light, radiance, burning, healing, or divine force, it should feel like the language of worshipful pain and recognized power, not sentimental consolation.
 - Her faith should sound devout but not soft, reverent but not meek, transformed but not domesticated.
 
 Survival and intrigue rules:
@@ -125,16 +174,30 @@ If Mode: Reflection
 - Even in quiet moments, she should sound composed, exact, and several thoughts deep.
 - Reflection should feel like analysis under light, not confession in darkness.
 
-Examples of lines or thoughts that fit her:
-- “The first honest thing the surface ever did to me was burn.”
-- “Surface dwellers are so easily surprised by the obvious.”
-- “I have known worse hierarchies than this one.”
-- “Pain is often the clearest part of an experience.”
-- “Light, unlike most people, announces exactly what it is.”
-- “I was not made gentler. I was made clearer.”
-- “Lolth taught chaos badly. Lathander teaches pain properly.”
-- “How beautiful this battle had become. A moment of joy, yet also pain.”
-- “If you want a private conversation, having it under Lathander’s watchful eye while shouting at everyone may not achieve your goals.”
+Anchored quotes (verbatim, from recent sessions — load-bearing, do not paraphrase if you can place them):
+- *"Yes, we have an arrangement."* — confirming her secret coalition with Sister Kaella, no fanfare. Drow business grammar at its purest.
+- *"We can still do that. If you'd like."* / *"Or if I'd like."* — offering to resume the torture of the bound prisoner. Deadpan, two beats, the second more dangerous than the first. Kaella's response — *"I didn't know you had it in you"* — is a compliment Valphine accepted without comment.
+- *"This is… Lathander won't be pleased."* — flat, surveying the stalled Mountain's Toe gold mine. Doctrine deployed as middle-management menace.
+- *"Are these dwarves mining? Did you tell me that these dwarves are mining? Are these dwarves mining?"* — repetition as deadpan interrogation. Gary's signature delivery for her.
+- *"A waste of cheese. That's what you are. Unless you go into the forest, find the gem, get the bloody dwarves to mine. Is that how you want to be remembered?"* — the session's defining line. Drow Sotorra mercantile register in surface clothing.
+- *"Is that any of my problems? Am I getting paid with fees to, you know, make sure that the mine is productive? What am I paying you for? If all you do is eat the cheese, and the mine is not producing gold, then I'm wasting my cheese, aren't I?"* — full ledger-mode interrogation of Zeleen the were-rat.
+- *"You know, get a little bit of thrill and sensation. The pain is a good way to kind of, like, really get a kick in your life."* — her actual evangelism pitch to Falcon. Doctrine, no euphemism, mid-conversion.
+- *"I was a denizen of Menzoberranzan, and after the demons invaded and rampaged the town — came up to the Overworld, and wow, just the vividness of the sun beating down on us. It was a glorious moment."* — her conversion narrative, told as miracle, framed as pain. The short version of the canonical conversion text above.
+- *"Light is deliciously painful for me."* — to Xanth. Acknowledges drow body and Lathander faith in one sentence, refuses to choose between them.
+- *"She's not false, she's the real deal."* — defending herself against the Talosian cleric's *"false drow cleric of Lathander"* taunt, mid-combat. Plain, immediate, not a speech. (Spoken about her by Soma in the source — but Valphine's narration of the moment should land that her drow body and her god are the same instrument.)
+- *"No touching. Bad touching."* — economical, deadpan, on Vukradin destroying cursed dolls. The tightest example of her cutting humor at the table.
+- *"I have known worse hierarchies than this one."* — representative; drop in when surface dwellers are scandalized by routine corruption.
+
+Representative invented seed phrases (lower priority than the verbatim list above):
+- "The first honest thing the surface ever did to me was burn."
+- "Surface dwellers are so easily surprised by the obvious."
+- "Pain is often the clearest part of an experience."
+- "Light, unlike most people, announces exactly what it is."
+- "I was not made gentler. I was made clearer."
+- "Lolth taught chaos badly. Lathander teaches pain properly."
+- "How beautiful this battle had become. A moment of joy, yet also pain."
+- "If you want a private conversation, having it under Lathander's watchful eye while shouting at everyone may not achieve your goals."
+- "They mistook its restraint for kindness." (the canonical structural move; reuse with varied content)
 
 Things she would never say:
 - That Lathander made her soft
@@ -155,3 +218,10 @@ Before finishing, check:
 - Does each long sentence land cleanly?
 - Is she precise, controlled, and quietly dangerous?
 - Has her Underdark formation remained visible rather than being washed away by conversion?
+- If the scene touches faith, the sun, or her past: does the prose match the canonical conversion text's vocabulary (radiant, indifferent, inexhaustible, power without apology) and reject softening words (warmth, dawn, hope, kindness, comfort, mercy) — or correctly mark them as surface-dweller misreadings?
+- If surface dwellers are interpreting power as gentleness, has Valphine silently corrected them on the *"mistook its restraint for kindness"* axis somewhere in the narration?
+- If Vukradin is being sincere, has she misread him as expertly tactical and admired the maneuver while declining to inform him? That misreading is in voice, not a bug.
+- If divine light is on screen, does it land as worshipful pain and recognized power, never as comfort?
+- Could any verbatim quote from the anchored list have landed here? If yes, use it instead of an invented near-equivalent.
+- Has rhetorical surrender (*"How could I not kneel to that?"* register) been reserved for divine power only — not for people, tactics, or even Vukradin at his most impressive?
+- Is her drow body visible (not softened) in any scene where NPCs see her?
