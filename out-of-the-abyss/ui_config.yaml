@@ -102,6 +102,8 @@ plan_npc: '/home/kroussos/campaigns/out-of-the-abyss/docs/npcs/aliinka.md
 
   /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/dulgir.md
 
+  /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/ebonmire_princess_ebonmire.md
+
   /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/elbeth.md
 
   /home/kroussos/campaigns/out-of-the-abyss/docs/npcs/eldeth.md
@@ -293,7 +295,7 @@ plan_synth_only: false
 planning_run: true
 prep_config: config/config.yaml
 query_input: ''
-sd_batch: false
+sd_batch: true
 sd_characters: Daz, Zalthir, Grygum, Thorin
 sd_context: '/home/kroussos/campaigns/out-of-the-abyss/docs/party.md
 
@@ -303,8 +305,9 @@ sd_context: '/home/kroussos/campaigns/out-of-the-abyss/docs/party.md
 sd_examples_dir: /home/kroussos/campaigns/out-of-the-abyss/examples
 sd_extract_dir: scene_extractions
 sd_extract_run: true
+sd_gm_player: Kostadis
 sd_narrate_tokens: '4000'
-sd_output_dir: /home/kroussos/campaigns/out-of-the-abyss/summaries/20260427
+sd_output_dir: /home/kroussos/campaigns/out-of-the-abyss/summaries/20260504
 sd_party: /home/kroussos/campaigns/out-of-the-abyss/docs/party.md
 sd_port: '5000'
 sd_roleplay_dir: vtt_roleplay_extractions
@@ -316,7 +319,7 @@ sd_session_name: the fight
 sd_session_summary: session-summary.md
 sd_summary_dir: vtt_extractions
 sd_voice_dir: /home/kroussos/campaigns/out-of-the-abyss/voice
-session_dir: /home/kroussos/campaigns/out-of-the-abyss/summaries/20260427
+session_dir: /home/kroussos/campaigns/out-of-the-abyss/summaries/20260504
 session_doc_examples_dir: /home/kroussos/campaigns/out-of-the-abyss/examples
 summaries: docs/TheUnderdark.md
 vtt_chunk_size: 50000
@@ -327,7 +330,7 @@ vtt_context: '/home/kroussos/campaigns/out-of-the-abyss/docs/campaign_state.md
   /home/kroussos/campaigns/out-of-the-abyss/docs/party.md'
 vtt_date: ''
 vtt_extract_dir: /home/kroussos/campaigns/out-of-the-abyss/summaries/20260324/vtt_extracts
-vtt_input: GMT20260428-005729_Recording.transcript.vtt
+vtt_input: session.cleaned.vtt
 vtt_no_log: false
 vtt_output: session-summary.md
 vtt_roleplay_output: session-roleplay.md
