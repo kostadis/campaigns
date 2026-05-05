@@ -1,41 +1,71 @@
-# Raw session data (synthesized into grounding docs)
-summaries/
-
-# Operational
-logs/
---output/
-script_run
-
-# Tooling & config
-entities.json
-config.yaml
-ui_config.yaml
-narrate_scene.sh
-ui.sh
-tracking.txt
-.claude/
-MEMPALACE.md
-mempalace.yaml
-
-# Pipeline rendering inputs (not DM reference)
-voice/
-examples/
-
-# Pipeline intermediates (mined separately or excluded)
+# Separate wings (mined independently)
+docs/chapters/
 docs/distill_extractions/
+
+# Pipeline intermediates (not indexed)
 docs/state_extractions/
 docs/party_extractions/
 docs/synthesize_npc/
-planning_extractions/
+docs/planning_extractions/
+docs/chapter_extracts/
+docs/level/
 
-# Monolithic narrative (replaced by chapter splits in narrative wing)
-docs/NeverwinterExpansionismAndTheNorth.md
+# Full published modules (Essentials Kit, Forgotten Realms — too large)
+docs/adventures/
+docs/background/
 
-# Chapter splits mined separately as narrative wing
-docs/chapters/
+# Unsplit bible (chapters mined separately in narrative wing)
+docs/NeverwinterExpansionismandtheNorth.md
 
-# Google Drive raw dumps
-docs/gdriveMD/
-
-# Notes (working/staging, not canon)
+# Working/staging area (not canon yet)
 notes/
+
+# Party PC files (PCs, not NPCs) — duplicated across several locations
+brewbarry.md
+vukradin.md
+vukradin-6.pdf
+characters/
+docs/party/
+docs/npcs/brewbarry.md
+docs/npcs/soma.md
+docs/npcs/valphine.md
+docs/npcs/valphine_sortorra.md
+docs/npcs/vukradin.md
+docs/Backstory - Brewbarry.md
+docs/Backstory - Valphine Sotorra.md
+docs/Soma - Backstory.md
+
+# Pipeline rendering inputs
+voice/
+examples/
+
+# Raw session data
+summaries/
+
+# Tooling & config
+config.yaml
+config/
+ui_config.yaml
+*.sh
+lib/
+entities.json
+mempalace.yaml
+connections.json
+
+# Operational
+logs/
+.claude/
+MEMPALACE.md
+
+# Drafts and operational tracking files (not canon)
+docs/world_state_draft.md
+docs/tracking.txt
+docs/tracking-*.txt
+docs/npcs.backup-*.tar.gz
+
+# Symlinks to external sources
+docs/gdriveMD
+
+# Generated/system files
+desktop.ini
+*.Zone.Identifier
