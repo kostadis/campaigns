@@ -8,28 +8,33 @@ explicit.
 
 ## Current horizon
 
-- **Last campaign chapter played:** 39 — *The Charge of the Light Brigade*
-- **Last bible chapter file:** `docs/chapters/chapter_39_the_charge_of_the_light_brigade.md`
-- **Last session date:** 2026-04-29
-- **Palace last fully (re)built:** 2026-05-04
+- **Last campaign chapter played:** 40 — *Through the valley to the top of the hill* (session-summary calls it "The Power of the Darkness and the Light"; the bible/release title is canonical)
+- **Last bible chapter file:** `docs/chapters/chapter_40_through_the_valley_to_the_top_of_the_hill.md` (bible position 40 = bible-internal "Chapter 39"; the splitter numbers files 01-NN by position, while the bible's internal headings start at "Chapter 00")
+- **Last session date:** 2026-05-05
+- **Palace last fully (re)built:** 2026-05-04 (this release was an **incremental** re-mine — the splitter only added one new file, no renames)
 - **Embedding device:** CPU (onnxruntime; matches OOTA — GPU swap blocked by torch cu13 vs onnxruntime-gpu cu12 mismatch)
 
-> **Known chapter-numbering issue.** `docs/chapters/` currently
-> contains **two overlapping splits** (75 files for 39 played
-> chapters): the canonical play-session numbering
-> (`chapter_NN_<session-title>.md`) and a stale bible-split
-> numbering (`chapter_NN_neverwinter_expansionism_…`). The narrative
-> wing will mine both until the splitter is re-run cleanly. This is
-> tracked as a separate cleanup, not part of the mempalace migration.
+> **Known chapter-numbering issue.** `docs/chapters/` now contains
+> **76 files for 40 played chapters** — the canonical play-session
+> numbering (`chapter_NN_<session-title>.md`) and a stale
+> bible-position numbering (`chapter_NN_neverwinter_expansionism_…`
+> and `chapter_NN_<bible-title>.md`). The narrative wing mines all
+> of them until the splitter is re-run cleanly. Tracked as a
+> separate cleanup, not part of this release.
 
 ## Drawer counts at this horizon
 
-| Wing | Source dir | Files | Drawers |
-|------|-----------|-------|---------|
-| `distill_extractions` | `docs/distill_extractions/` | 40 | 986 |
-| `narrative` | `docs/chapters/` | 75 | 1952 |
-| `phandalin` | root campaign reference | 485 | 2513 |
-| **Total** | | **600** | **5451** |
+| Wing | Source dir | Files | Drawers | Δ since 2026-05-04 |
+|------|-----------|-------|---------|--------------------|
+| `distill_extractions` | `docs/distill_extractions/` | 40 | 1014 | +28 |
+| `narrative` | `docs/chapters/` | 76 | 2004 | +52 |
+| `phandalin` | root campaign reference | 485 | 2617 | +104 |
+| **Total** | | **601** | **5635** | **+184** |
+
+Phandalin-wing breakdown: npcs 1972 (+43), arcs 369 (+55), dead 111
+(+57), world 91 (-50), mechanics 74 (-1). The world/mechanics drop
+reflects mempalace consolidating drawers when files change rather
+than data loss.
 
 Use these as the regression baseline — significant drift on a no-op
 re-mine probably means content was added/removed unintentionally.
