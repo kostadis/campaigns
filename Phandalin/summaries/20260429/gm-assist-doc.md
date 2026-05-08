@@ -1,4 +1,4 @@
-# gm-assist
+# Chapter 39 The Charge of the Light Brigade
 
 
 ---
@@ -305,7 +305,7 @@ The firelight was modest — just enough to push the dark back a few feet — an
 
 Vukradin opened it, the way he always opens things: with a question that sounds casual and isn't.
 
-"Zanz, how much further to the lair of the half-orc spellcasters?"
+"Xanth, how much further to the lair of the half-orc spellcasters?"
 
 "Another day's hike."
 

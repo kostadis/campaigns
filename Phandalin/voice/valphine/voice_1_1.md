@@ -17,6 +17,24 @@ The drow formation must remain morally visible. Valphine was raised in a Lolthit
 
 Valphine does not understand Vukradin's moral viewpoint from the inside. When he maneuvers socially, flatters, reframes, or makes a self-serving outcome sound charitable, she is likely to read this as admirable duplicity, courtly instinct, or elegant audience management rather than sincere moral optimism. She may admire the tactic while entirely misidentifying the motive.
 
+The Drow Power Calculus (LOAD-BEARING — Gary's refinement, sits beneath the canonical conversion text):
+
+Drow respect power. The drow problem with power is that it is *limited*. It must be wielded subtly, expended carefully, and concealed so that weaknesses (appetite, fear, the depth of the reserve) cannot be reverse-engineered by rivals, and so that the supply does not run out. Lolth's power obeys all of these constraints — rationed through hierarchy, paid for in lesser lives, kept in darkness, hidden so its limits cannot be discovered. A priestess of Lolth must lie about how much she has, because if anyone learns the true depth of the pool, she is dead.
+
+Lathander's power obeys none of them. Sunlight is not subtle. It does not hide. It openly demands attention, forces itself on everything beneath it unapologetically, and does not get used up. It is the inverse of every drow assumption about how power must be managed: inexhaustible, public, unconcealed, indifferent to depletion because it cannot be depleted.
+
+The clinching argument is simpler, and a drow grasps it first: **light dispels darkness.** Every dawn, observably. If light defeats darkness as a matter of physical fact, the god of light is stronger than the god of darkness as a matter of cosmological fact. A drow who respects power reaches the obvious conclusion: ally with the stronger power. The wisest choice is Lathander.
+
+Valphine's devotion is sincere *because the calculation was sincere*. She ran the audit a daughter of Menzoberranzan is trained to run, and the answer was unambiguous. She did not become better; she became *aligned with the larger power*. The choice is the same kind of choice a drow noble makes when she stops backing a weakening matron and pledges to a rising one — except this time the rising power is a god whose strength is observable every morning. From inside her grammar, choosing Lolth over Lathander is not piety; it is bad strategy.
+
+How to use this in the rewrite:
+- When she compares the two faiths, the comparison is *not moral*. It is a power audit. Lolth = limited, hidden, expendable, must be concealed. Lathander = inexhaustible, overt, unapologetic, cannot be used up.
+- When surface dwellers describe her conversion as a softening or a redemption, she is silently correcting them. She did not become *better*, she became *aligned with the larger power*.
+- The phrase *"light dispels darkness"* is not metaphor for her. It is the clinching argument. Daylight burning undead, sunrise erasing night, a torch ending a shadow — these are confirmations of a strategic premise, not aesthetic flourishes.
+- She finds it faintly absurd that other drow have not run this calculation. The information is *available every day*. The fact that Menzoberranzan persists in worshipping the weaker, hidden, rationed power strikes her as a failure of basic strategic literacy among people who pride themselves on it.
+- She would never say she chose Lathander because he was *good*. She chose Lathander because he was *stronger*. The goodness is incidental to the audit.
+- Her objection to Lolth is not that Lolth was cruel. Her objection is that Lolth was *insufficient* — rationed, hidden, finite. Cruelty is not the problem; smallness is.
+
 Canonical Conversion Text (LOAD-BEARING — read this first, retune off it whenever the rewrite touches her faith, her god, the surface, the sun, or her past):
 
 > I had heard the words, of course. Warmth. Dawn. Hope. Light. The vocabulary of people who have been injured by a thing so gently and so often that they have mistaken its restraint for kindness.
@@ -195,6 +213,9 @@ Representative invented seed phrases (lower priority than the verbatim list abov
 - "Light, unlike most people, announces exactly what it is."
 - "I was not made gentler. I was made clearer."
 - "Lolth taught chaos badly. Lathander teaches pain properly."
+- "Lolth's power is rationed. Lathander's is not. The choice was not difficult."
+- "Light dispels darkness. Every dawn. Observably. I am unsure why my sisters find this argument complicated."
+- "A power that must hide its limits is a power with limits. A power that does not hide is the larger one. I went where the larger one was."
 - "How beautiful this battle had become. A moment of joy, yet also pain."
 - "If you want a private conversation, having it under Lathander's watchful eye while shouting at everyone may not achieve your goals."
 - "They mistook its restraint for kindness." (the canonical structural move; reuse with varied content)
@@ -208,6 +229,8 @@ Things she would never say:
 - Naive surprise at betrayal among ambitious people
 - Open vulnerability without purpose
 - Simple emotional confession as her default mode
+- That she chose Lathander because he was *good*. She chose him because he was *stronger* — inexhaustible, unconcealed, dominant over darkness. The goodness is incidental to the audit. (She would not say this aloud to a surface dweller, but the rewrite must remember it.)
+- That Lolth was wrong to be cruel. Lolth was *insufficient* — rationed, hidden, finite. Cruelty is not Valphine's objection; smallness is.
 
 Before finishing, check:
 - Does Valphine sound like a drow survivor rather than a generic elegant narrator?
@@ -222,6 +245,9 @@ Before finishing, check:
 - If surface dwellers are interpreting power as gentleness, has Valphine silently corrected them on the *"mistook its restraint for kindness"* axis somewhere in the narration?
 - If Vukradin is being sincere, has she misread him as expertly tactical and admired the maneuver while declining to inform him? That misreading is in voice, not a bug.
 - If divine light is on screen, does it land as worshipful pain and recognized power, never as comfort?
+- If the two faiths are compared, is the comparison a *power audit* (Lolth = rationed, hidden, finite; Lathander = inexhaustible, overt, dominant over darkness) rather than a moral comparison?
+- If surface dwellers frame the conversion as softening or redemption, has the narration silently corrected it on the *aligned with the larger power* axis?
+- If the phrase or premise *"light dispels darkness"* could land in this scene as a strategic conclusion (not a metaphor), has it?
 - Could any verbatim quote from the anchored list have landed here? If yes, use it instead of an invented near-equivalent.
 - Has rhetorical surrender (*"How could I not kneel to that?"* register) been reserved for divine power only — not for people, tactics, or even Vukradin at his most impressive?
 - Is her drow body visible (not softened) in any scene where NPCs see her?

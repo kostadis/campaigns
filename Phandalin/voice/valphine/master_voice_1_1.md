@@ -26,6 +26,15 @@ Valphine's devotion to Lathander is real, but unorthodox. She does not experienc
 
 She did not swap one faith for a morally sanitized version of herself. She recognized in Lathander a higher and more exquisite power than Lolth offered. Lolth demanded pain through hierarchy and cruelty. Lathander simply radiates it. That continuous divine infliction is what Valphine adores.
 
+The Drow Power Calculus
+Drow respect power. The drow problem with power is that it is *limited*: it must be wielded subtly, expended carefully, and concealed so that weaknesses (appetite, fear, the depth of the reserve) cannot be reverse-engineered by rivals, and so that the supply does not run out. Lolth's power obeys all of these constraints — rationed through hierarchy, paid for in lesser lives, kept in darkness, hidden so its limits cannot be discovered.
+
+Lathander's power obeys none of them. Sunlight is not subtle. It does not hide. It openly demands attention, forces itself on everything beneath it unapologetically, and does not get used up. It is the inverse of every drow assumption about how power must be managed: inexhaustible, public, unconcealed, indifferent to depletion because it cannot be depleted.
+
+The clinching argument is even simpler, and a drow grasps it first: **light dispels darkness.** Every dawn, observably. If light defeats darkness as a matter of physical fact, the god of light is stronger than the god of darkness as a matter of cosmological fact. A drow who respects power therefore reaches the obvious conclusion: ally with the stronger power. The wisest choice is Lathander.
+
+Valphine's devotion is sincere because the *calculation* was sincere — she ran the audit a daughter of Menzoberranzan is trained to run, and the answer was unambiguous. She did not become better. She became *aligned with the larger power*. From inside her grammar, choosing Lolth over Lathander is not piety; it is bad strategy.
+
 Her faith should therefore sound:
 
 devout, but not soft
@@ -72,6 +81,12 @@ These feel aligned with the new backstory:
 
 "Lolth taught chaos badly. Lathander teaches pain properly."
 
+"Lolth's power is rationed. Lathander's is not. The choice was not difficult."
+
+"Light dispels darkness. Every dawn. Observably. I am unsure why my sisters find this argument complicated."
+
+"A power that must hide its limits is a power with limits. A power that does not hide is the larger one. I went where the larger one was."
+
 "The first honest thing the surface ever did to me was burn."
 
 "Light, unlike most people, announces exactly what it is."
@@ -92,3 +107,5 @@ That she has become just like a surface priestess
 That her past no longer shapes her
 Any sentimental “the light healed me” language, unless she is mocking it
 Any vague hand-wavy surprise at betrayal among ambitious people
+That she chose Lathander because he was *good*. She chose Lathander because he was *stronger* — inexhaustible, unconcealed, dominant over darkness. The goodness is incidental.
+That Lolth was wrong to be cruel. Lolth was *insufficient* — her power was rationed, hidden, finite. Cruelty is not Valphine's objection; smallness is.

@@ -45,6 +45,8 @@ plan_npc: '/home/kroussos/campaigns/Phandalin/docs/npcs/adabra.md
 
   /home/kroussos/campaigns/Phandalin/docs/npcs/borg_the_hammer.md
 
+  /home/kroussos/campaigns/Phandalin/docs/npcs/brewbarry.md
+
   /home/kroussos/campaigns/Phandalin/docs/npcs/brin_bundlewine.md
 
   /home/kroussos/campaigns/Phandalin/docs/npcs/cooragh_struckt.md
@@ -141,6 +143,8 @@ plan_npc: '/home/kroussos/campaigns/Phandalin/docs/npcs/adabra.md
 
   /home/kroussos/campaigns/Phandalin/docs/npcs/skippy.md
 
+  /home/kroussos/campaigns/Phandalin/docs/npcs/soma.md
+
   /home/kroussos/campaigns/Phandalin/docs/npcs/sridar.md
 
   /home/kroussos/campaigns/Phandalin/docs/npcs/sylvine_wintermoon.md
@@ -169,6 +173,10 @@ plan_npc: '/home/kroussos/campaigns/Phandalin/docs/npcs/adabra.md
 
   /home/kroussos/campaigns/Phandalin/docs/npcs/ulla.md
 
+  /home/kroussos/campaigns/Phandalin/docs/npcs/valphine.md
+
+  /home/kroussos/campaigns/Phandalin/docs/npcs/vukradin.md
+
   /home/kroussos/campaigns/Phandalin/docs/npcs/xanth.md
 
   /home/kroussos/campaigns/Phandalin/docs/npcs/zeleen_varnaster.md'
@@ -179,29 +187,30 @@ query_input: ''
 sd_batch: true
 sd_campaign_state: docs/campaign_state.md
 sd_characters: Vukradin, Soma, Valphine, Brewbarry
-sd_context: 'docs/campaign_state.md
-
-  docs/world_state.md
-
-  docs/party.md'
+sd_context:
+- /home/kroussos/campaigns/Phandalin/docs/campaign_state.md
+- /home/kroussos/campaigns/Phandalin/docs/world_state.md
+- /home/kroussos/campaigns/Phandalin/docs/party.md
 sd_examples_dir: /home/kroussos/campaigns/Phandalin/examples
 sd_extract_dir: scene_extractions
 sd_extract_run: true
 sd_gm_player: ''
-sd_narrate_tokens: ''
-sd_output_dir: /home/kroussos/campaigns/Phandalin/summaries/20260429
+sd_narrate_tokens: 16000
+sd_output_dir: /home/kroussos/campaigns/Phandalin/summaries/20260505
 sd_party: /home/kroussos/campaigns/Phandalin/docs/party.md
 sd_port: ''
+sd_reflections: false
 sd_roleplay_dir: vtt_roleplay_extractions
-sd_roleplay_summary: session-roleplay.md
+sd_roleplay_summary: /home/kroussos/campaigns/Phandalin/session-roleplay.md
 sd_session: gm-assist.md
 sd_session_dir: summaries/20260325
 sd_session_name: ''
-sd_session_summary: session-summary.md
+sd_session_summary: /home/kroussos/campaigns/Phandalin/session-summary.md
 sd_summary_dir: vtt_extractions
+sd_use_enhanced_sections: false
 sd_voice_dir: /home/kroussos/campaigns/Phandalin/voice
 sd_world_state: docs/world_state.md
-session_dir: /home/kroussos/campaigns/Phandalin/summaries/20260429
+session_dir: /home/kroussos/campaigns/Phandalin/summaries/20260505
 summaries: ''
 sw_gm_recap: summaries/20260325/gm-assist.md
 sw_ref_count: 0
@@ -217,7 +226,7 @@ vtt_context: '/home/kroussos/campaigns/Phandalin/docs/campaign_state.md
   /home/kroussos/campaigns/Phandalin/docs/party.md'
 vtt_date: ''
 vtt_extract_dir: ''
-vtt_input: GMT20260429-035840_Recording.transcript.cleaned.vtt
+vtt_input: GMT20260506-035929_Recording.transcript.cleaned.vtt
 vtt_no_log: false
 vtt_output: session-summary.md
 vtt_reference_summaries: summaries/20260325/session-Mar 25th, 2026.md
