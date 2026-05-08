@@ -31,12 +31,12 @@ flowchart TD
         S1A["Travelogue · ~30–40 min<br/>8 episodes · Mirabar → Goldenfields →<br/>Triboar · Eldred + Kestler Bahamut →<br/>Waterdeep shopping arc → Daggerford ⭐ silent child →<br/>Beregost → Way of the Lion"]
         S1A --> S1B["Emerald Door<br/>Bookwyrm receives 5 books<br/>First Reader allocates scholars"]
         S1B --> S1Choice1{{"Polly Pocket?<br/>Bell Tower / Keep in bag / Release"}}
-        S1Choice1 --> S1Qs["⭐ FIVE BOOKS · FIVE QUESTIONS<br/>1. Daz: 'Who is following me?'<br/>2. Zalthir: 'Who is Jimjar?'<br/>3. Thorin: 'Help with Dawnbringer · process not product'<br/>4. Grygum: 'What does Bahamut want from me?'<br/>5. Glabbagool: 🟣 PLAYER CHOICE this session<br/>★ Avowed quote each Q back when the scene opens"]
+        S1Choice1 --> S1Qs["⭐ FIVE BOOKS · FIVE QUESTIONS<br/>1. Daz: 'Who is following me?'<br/>2. Zalthir: 'Who is Jimjar?'<br/>3. Thorin: 'Help with Dawnbringer · process not product'<br/>(⭐ Path C locked from Waterdeep — name don't elect)<br/>4. Grygum: 'What does Bahamut want from me?'<br/>5. ⭐ Glabbagool (Zalthir-sponsored):<br/>'How do I become a shadow monk?'<br/>★ Avowed quote each Q back when the scene opens"]
         S1Qs --> S1C["Refectory dinner<br/>⭐ ONLY time party sees Janussi alive<br/>Daral drunk · Sylvira ill · A'lai and Alkrist whispering"]
         S1C --> S1D["Parallel scholar lanes · interleave<br/>Daz-Yvenne · Zalthir-Khell-Vire and Kenshi<br/>Thorin-Philemon · Grygum-Vareth"]
         S1D --> S1E["Sylvira / Infernal Fortress<br/>demon-lord evidence handoff<br/>★ ally before suspect"]
         S1E --> S1F["⭐ Plant: Endless Chant Deadwinter Prophecy snippet<br/>⭐ Plant: hooded corridor figure — A'lai with the gift"]
-        S1F --> S1G["Glabbagool's question<br/>Pavilion / Tales / ⭐ Whispering Dome boon"]
+        S1F --> S1G["⭐ Glabbagool's question — Whispering Dome<br/>Zalthir presents · 1-min solo meditation<br/>OUTCOME: Shadow Apprentice sidekick L8<br/>(Tasha's Warrior chassis · Artificial Chakra 4 Ki)<br/>HEADLINE: Corrosive Embrace (Zalthir-grapple synergy)<br/>handout: handouts/glabbagool_shadow_monk_sidekick.md"]
         S1G --> S1Cliff1["🟡 CLIFFHANGER<br/>Fembris pounds the inn door<br/>'The Keeper of Tomes is dead'"]
     end
 
@@ -85,7 +85,7 @@ flowchart TD
         S3F3 --> S3H
         S3G --> S3H
 
-        S3H --> S3I["Thorin-Philemon Phase 2<br/>scabbard pivot · 🟣 PATH A/B/C choice"]
+        S3H --> S3I["Thorin-Philemon Phase 2<br/>scabbard pivot · ⭐ Path C locked<br/>(Waterdeep ooze-rights stand + orphan run)<br/>name the partnership; don't elect it"]
         S3H --> S3J["Daz-Yvenne<br/>⭐ Vaelissa T'sarran name lands<br/>⭐ Bell Tower deadline for Polly · Kalan alive today"]
 
         S3I --> S3End["Optional cliffhanger:<br/>⭐ rooftop silhouette across Cursed Tower<br/>— Moziqodo · don't explain"]
@@ -119,7 +119,7 @@ After each session, confirm these landed:
 - [ ] Endless Chant Deadwinter Prophecy snippet planted
 - [ ] Hooded corridor figure (A'lai) glimpsed
 - [ ] Sylvira accepted demon-lord evidence (ally locked in before suspicion)
-- [ ] Glabbagool's question landed (Whispering Dome boon banked if applicable)
+- [ ] ⭐ Glabbagool's Whispering Dome scene run; Way-of-Shadow monk sidekick handoff at L8 delivered (handout: `handouts/glabbagool_shadow_monk_sidekick.md`); Glabbagool is Zalthir's sidekick — Gabe controls in combat going forward
 - [ ] Fembris cliffhanger delivered
 
 ### Session 2
@@ -137,7 +137,7 @@ After each session, confirm these landed:
 - [ ] Sylvira's plague disclosed; party knows Moziqodo exists
 - [ ] **Daral saved or dead** — note the choice
 - [ ] Fheminor delivered "Bookwyrm was not surprised"
-- [ ] Thorin's Path A/B/C declared (scabbard pivot resolved)
+- [ ] Thorin/Philemon scabbard pivot resolved (⭐ Path C is locked from Waterdeep — Phase 2 names the partnership; doesn't elect it)
 - [ ] Yvenne landed the Vaelissa T'sarran name
 - [ ] Polly Pocket decision revisited if Bell Tower option was on the table
 - [ ] Rooftop Moziqodo silhouette planted (optional)

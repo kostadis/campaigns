@@ -6,56 +6,74 @@ scene_name: A Detour to Mirabar
 session: 20260504
 ---
 
-Mirabar announced itself long before we reached the gates. The smoke came first — thick columns of it, red-bellied from the forge-glow beneath, rising into the pale northern sky like signals from another world. I watched them from the road and did what I always do: I read the column count, tried to estimate the volume, tried to understand what that much forgefire meant in terms of production. A great deal of armor, I concluded. A great many weapons. Either a city preparing for war or a city already in one.
+Mirabar announced itself before we could see it.
 
-Both turned out to be true, in the way that things on the surface seem to occupy multiple states at once.
+The sky to the northeast had been wrong for hours — a haze the color of old bronze sitting low on the horizon, too diffuse for a storm and too persistent for a sunset. Then, as the road climbed and the treeline thinned, I saw the source: the forges. Red light pulsing beneath smoke in columns too ordered to be natural, too constant to be a fire. An entire city breathing through its chimneys like a bellows, inhaling ore and exhaling heat.
 
-Thorin was quiet on the approach. That was unusual enough to notice. Eldeth had told him about Mirabar — I remembered him mentioning it — but knowing a thing and standing in front of it are different propositions, and what he'd been told and what he was looking at clearly weren't reconciling cleanly. He'd been raised by giants. He knew dwarven heritage in the abstract, the way I know the surface world in the abstract: as a category of information, not as a lived experience. What he was walking into was a dwarven city at its most *dwarven* — massive, hierarchical, organized around production and survival — and he was as much an outsider here as I was.
+I noted exits. Then routes. Then the gradient of desperation visible in the camps before we even reached the gate.
 
-Which struck me as interesting. I had expected to feel alien. I had not expected him to feel the same.
+The refugees at Smith's Gate were not a mob — they were organized, which was more troubling in its way. People sleeping in coordinated shifts, rotating through the narrow shelter of the gate's overhang with the mechanical efficiency of people who had been doing this long enough to stop feeling it. The Smith's Quarter behind them never went quiet. I could hear it — the ring of hammers carrying past midnight, relentless, rhythmic, the sound of a city that has decided its survival is a production problem. Half the orders on those anvils, I later learned, were for militia armor. The farmsteads beyond the walls had not fared as well as the walls themselves. The city held during the Uthgardt raids. The city held, and everyone who couldn't make it inside the walls in time was now sleeping in shifts at the gate, hoping the city's luck was transferable.
 
-At the Smith's Gate we slowed. The refugee population was substantial — people sleeping in organized shifts, families with what they could carry, a low hum of organized exhaustion that I recognized not from any surface experience but from the slave quarters at Velkynvelve. The same rationing of rest. The same doing with less because less was all there was. The Smith's Quarter beyond the gate never went quiet; the hammers kept ringing through the night, and I was told — by a wall of sound more than any individual voice — that half the orders were for militia armor. The city held during the Uthgardt raids. The farms beyond the walls did not.
+Thorin walked into this as though he'd been handed a test he hadn't studied for. Eldeth had told him about Mirabar. Whatever she'd said, it hadn't prepared him for the scale of it — for what it felt like to stand inside a dwarven city and not quite recognize yourself in it. He's a dwarf who was raised by giants, which means he has a dwarf's bones and a giant's frame of reference, and here he was in the most dwarven city I'd yet encountered, and he said, quietly, that he didn't know what it meant to be a dwarf. He seemed genuinely intimidated.
 
-I wrote that line in my head twice before I understood what it meant. The city survived. The people who couldn't fit inside it didn't. And now the survivors were sleeping in shifts at the gate of the thing that had outlasted them.
+I filed that. Not unkindly. Just noted.
 
-The first rule of the House — any House, the Underdark runs on the same principle — is that walls define who matters. Mirabar's walls were very good walls.
+For my part, I was reading the city the way I'd been trained to read any large, organized settlement: exits and leverage points, observation posts, who was watching whom. The method works the same regardless of whether you're in a drow house or a dwarven forge-city — the geometry changes, the light quality changes, the smell changes drastically, but the underlying logic is the same. Power collects somewhere. Information moves along predictable channels. Someone is always watching the new arrivals. Here, the watchers were less subtle than I was used to, but they were present.
 
-Stroud was everywhere.
+What I had not anticipated was Stroud.
 
-That was the other thing. A bronze bust of him at the Smiths Guildhall, catching the forge-light at a flattering angle. A tavern called The Knight Beneath the Knight, which I found either clever or insufferable depending on how charitable I was feeling. And in the corner of the market, a polemicist — a traveling one, the kind who carries his convictions in a satchel and deploys them wherever he finds an audience — preaching mortal agency to anyone within earshot.
+He was everywhere. A bronze bust at the Smiths Guildhall — larger than life, squared jaw, that expression carved into every representation I'd seen of him, the one that means *I have considered the odds and found them immaterial*. A tavern near the market called The Knight Beneath the Knight, which I noted was either a clever joke about lineage or something more theological. And in the corner of the market square, a man in a worn traveler's cloak standing on what appeared to be a permanently borrowed crate, preaching to anyone who'd hold still long enough.
 
-He found Grygum immediately. They always do.
+He spotted Grygum immediately.
+
+I don't know what it is about Grygum that reads as theologically adjacent. He's an orc cleric of Bahamut who cooks elaborate meals and argues about dragon metaphysics at the dinner table, and somehow this man at thirty paces could see all of that at once. He came down off his crate with the practiced speed of someone who has had to convert people on the move.
 
 "Brother, have you heard the witness call? Are you walking the road for Stroud?"
 
-I watched Grygum's face do the thing it does when he is weighing whether an entity is useful or merely sincere. He is better at concealing this than most people. He is not as good at it as he thinks.
+Grygum's face did something complicated. I could see him calculating whether this man was worth engaging with, and I could see the theological curiosity win out over the caution, which is always what happens with Grygum.
 
-The polemicist was Stroudite in the specific sense — mortal agency as the decisive force, Protanther's neutrality a myth, the Bahamutian framework a comfortable fiction. He was organized and committed and had clearly had this argument many times before. When Grygum replied that he stood for "strength and luck," the man did not flinch. He just identified this as the Bahamutian hypothesis in another hat and kept moving.
+The polemicist — he identified himself as Stroudite school — laid it out cleanly: mortal agency had produced the outcome of the dragon war, not divine intervention, not Protanther's strategy, not Bahamut's long game. Stroud was proof that mortals, not gods or dragons, were the decisive force in history. Did Grygum stand for mortal agency?
 
-When Grygum pressed him — *but who really won in the end? The dragons* — the polemicist wasn't moved. He handed over a pamphlet instead. *Stroud and the Human Agency Hypothesis: A Critique — Dragons and Gods Do Not Rule.* Grygum accepted it. I watched him verify that it was divided into paragraphs before he committed to keeping it. He is, in his own way, methodical.
+"Oh, I, I, I stand for, for strength and luck," Grygum said.
 
-I noticed the texture of this without fully processing it until later. The factionalism wasn't about whether Stroud mattered. Everyone in Mirabar had clearly already decided Stroud mattered. The argument was about *why* — about the mechanism. Bahamut's hand or mortal will. Protanther's strategy or Stroud's choice. The distinction felt important to people who had very strong feelings about where credit was due.
+The polemicist rejected this with the polite authority of a man who has heard every soft answer and come prepared for all of them. That, he said, was the cult of the Bahamutian hypothesis in different clothing.
 
-Milo Goodbarrel would have had something useful to say about that. He had a chapter on the problem of attribution — how the same event gets claimed by every faction present and how that process tells you more about the factions than about the event. I had found the chapter slightly too optimistic. I was beginning to revise that assessment.
+Grygum tried a different angle: "But, but — who, who, who really won in the end? The dragons."
 
-The Order of the Gauntlet shrine was small and well-tended, staffed by two half-orcs in quiet rotation. The bronze frontispiece — a skulled reproduction, Volume 1 of Goodbarrel's *Account* — was mounted at the entrance. I had read the book. More than once, if I'm being precise, which I generally try to be.
+That didn't land either. The debate continued for a few minutes, and I watched Grygum attempt his most persuasive case, and I watched it fail to persuade. The preacher handed him a pamphlet instead. Grygum turned it over in his hands.
 
-What I had not known was that Milo Goodbarrel could paint.
+"What's the title?"
 
-The back wall of the shrine held it: near full height, weathered and careful, titled *Malfire, the Vindicator of Nature*. A figure at a forest's edge in faded green, longbow lowered at his side, an enormous grey wolf standing easy at his hip, stars just beginning to emerge over his shoulder. The posture wasn't triumphant. It was finished — the specific stillness of someone at the end of something rather than the beginning. Painted by Milo. Signed in the lower corner in the careful hand of a man who took his documentation seriously even when the documentation was visual.
+"*Stroud and the Human Agency Hypothesis: A Critique — Dragons and Gods Do Not Rule.*"
 
-I stood in front of it longer than I intended to.
+There was a pause while Grygum assessed the pamphlet the way a builder assesses a load-bearing beam.
 
-I had thought of him as a chronicler. A writer who was also, incidentally, an adventurer who had done significant things. Looking at that painting — the competence of it, the restraint of it, the fact that it had survived this long — I recalibrated. He was a chronicler the way I am a mage: the label is accurate and also substantially incomplete.
+"Are — are there any illustrations?"
 
-Grygum, to his credit, asked the useful question. "What does it mean to vindicate nature?"
+No illustrations. Grygum asked about the layout. Paragraphs, the preacher said, well-formed. Grygum tucked it away for later — at least, I gathered, it wasn't a wall of text. He had opinions about walls of text as a marker of the epistemically unmoored, which I found both accurate and slightly ironic given his own theological convictions.
 
-Thorin told him, with great confidence, that this question revealed an insufficient connection to nature.
+I had stayed back through this exchange. Not because I lacked opinions about Stroud — I have read the relevant scholarship, and the question of whether a single mortal's actions can redirect the course of divine-scale history is not, in fact, a boring question — but because this was Grygum's conversation, and I was more interested in what the exchange told me about Mirabar. The religious factionalism here ran deep. Stroud wasn't just a historical figure; he was a theological pressure point, and someone was pressing it hard enough to send polemicists into the market.
 
-Grygum buried himself in his pamphlet. I made a note.
+*The first rule of the House: know who holds the debt before you decide whether to collect it.* I didn't know yet who held what, in this city's religious economy. I noted it and moved on.
 
-Thorin circled back to something practical — he'd been looking at the armor vendors since we arrived, and Mirabar was, if you were going to acquire dwarven-made equipment, precisely the city in which to do it. He had chainmail. He had a shield. He began asking, in the methodical way he approaches resource acquisition, what the appropriate upgrade path was for a dwarf of his build in a city that had clearly been thinking about this question for generations.
+The Order of the Gauntlet shrine was smaller than I expected — a room more than a building, tended by two half-orcs working in shifts with a quiet efficiency that reminded me, unexpectedly, of the refugees at the gate. The skulled bronze frontispiece was a reproduction of something from Milo Goodbarrel's *Account, Volume 1*, which I had read, and which had followed me here from several libraries ago in the form of a small, persistent embarrassment I try not to examine directly.
 
-The answer, as far as I could determine, was: make a note, research the options, come back with a figure.
+I had read Milo for tactics, the first time. His account of the dragon cult campaign is genuinely useful, and his instincts about threat assessment are sound even when he's being insufferably optimistic about outcomes. What I had not quite accounted for was that the man was also, apparently, a painter.
 
-This struck me as sensible. I wrote it down.
+The painting on the back wall was nearly floor to ceiling. *Malfire, the Vindicator of Nature* — a figure in weathered green at the edge of a forest, longbow at his side, a wolf beside him the size of a small horse, and overhead the stars coming up behind his shoulder like a second argument. Milo had painted it. The detail in the wolf's coat alone suggested he'd spent time with his subject.
+
+Thorin asked Grygum if he knew what it meant to vindicate nature. This was a mistake.
+
+"Clearly, you're not connected to nature," Thorin said, "if you're even asking that."
+
+Grygum conceded he'd just revealed his ignorance and buried his nose in his pamphlet. I looked at the painting a moment longer than I strictly needed to.
+
+Milo Goodbarrel was, by every account I'd read, an optimist. The kind who believes that doing the right thing tends, over a long enough arc, to work out. The kind who writes about it afterward with complete sincerity, unselfconsciously, as though the sentiment doesn't require apology. I have always assumed this was partly rationalization. I have occasionally suspected, lately, that I was wrong about that in ways I am not yet ready to specify.
+
+Thorin, meanwhile, was being encouraged to take advantage of the city's other obvious resource: the forges. A dwarven fighter in a dwarven city, looking at his chain mail with the expression of a man who knows he's been leaving margin on the table. He weighed his options — shield, armor, what the budget would carry — and decided he would research the question properly before committing.
+
+That, I thought, is a healthy approach to an uncertain investment.
+
+I wrote a few notes. The refugee logistics at the gate, the Stroudite presence and its apparent theological stakes, the painting and its unexpected author. Mirabar was a city that had survived something recent and was organizing itself around the fact of that survival. The forges ran all night. The militia armor was on order. The saint of mortal agency watched from every public surface, and in a shrine in the temple quarter, a halfling adventurer had left a painting of a man and his wolf beneath the rising stars.
+
+It was not, I noted, a bad place to pass through. The surface world continues to be more legible than I'd expected, and more complicated than I'd allowed for. Both at once, most days.
