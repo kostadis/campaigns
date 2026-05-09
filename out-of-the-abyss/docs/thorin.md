@@ -26,7 +26,7 @@
 
 ## Combat
 - **HP:** 84 (max) / 84 (current)
-- **AC:** 20
+- **AC:** 22 on stone / 21 off stone — Mithril Plate (18) + Shield, +3 (3) + Stonegnarl Warband Token (+1 when on or adjacent to natural/worked stone)
 - **Initiative:** +2
 - **Speed:** 30 ft. (Walking)
 - **Hit Dice:** 8d10
@@ -222,10 +222,11 @@ When determining your character's ability scores, increase one score by 2 and a 
 ### Items Carried
 | Name | Qty | Weight |
 |---|---|---|
-| Shield, +1 | 1 | 6 lb. |
+| Shield, +3 | 1 | 6 lb. |
 | Longsword, +1 | 1 | 3 lb. |
 | Dawnbringer | 1 | 3 lb. |
 | Stonegnarl Warband Token | 1 | -- |
+| Mithril Plate | 1 | 32.5 lb. |
 | Chain Shirt | 1 | 20 lb. |
 | Chain Mail | 1 | 55 lb. |
 | Vaultmaster Locking Scabbard | 1 | -- |

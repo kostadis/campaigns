@@ -73,11 +73,138 @@ schools."*
 
 ## II. The three schools — one polemic each
 
+> ⭐ **Vareth's preface, in his own hand, top of the section.**
+>
+> *Brother Grygum — before you read the polemics, I must tell
+> you what they are about.*
+>
+> *They are not about a chess game. They are not about a
+> dwarf, however remarkable. They are not even, primarily,
+> about the late war.*
+>
+> *They are about **the question of the age.** I do not say
+> this lightly. I have been keeping this corner of the
+> library for forty-one years and I know what a fashion looks
+> like; this is not a fashion. The libraries are arguing.
+> The taverns are arguing. The chapter houses are arguing.
+> The courts of two cities have asked for written opinions.
+> The Stroudite pamphlets have crossed the Sea of Swords. We
+> have had three duels at Candlekeep over which polemic
+> shelf gets the larger window. **Three. In a library where
+> nobody has duelled in two hundred years.** Sister Yvenne
+> threatens to confiscate everyone's bookplates. She has not
+> yet, but I expect it.*
+>
+> *What is being asked, beneath the chess and the dragons
+> and the partisan colours, is this:*
+>
+> **What kind of universe do we live in?**
+>
+> *The Stroud school answers: a universe in which **mortal
+> choice is sovereign.** The gods exist; the dragons exist;
+> Providence may or may not exist; but the **choosing**
+> belongs to the chooser, and is not borrowed, and is not
+> on loan from any throne above or below. By this reading,
+> Tiamat was denied her power because a dwarf chose, and
+> the chain of choices that followed was a chain of free
+> acts. Strike out any one and the chain falls.*
+>
+> *The Bahamutian school answers: a universe in which
+> **divine providence prevails.** Bahamut moved his pieces
+> beforehand; the dragons obeyed because they were the
+> agents of a just god; the mortals — Stroud included —
+> served as the **instruments** of the providence. By this
+> reading, Stroud's choice was real but not sovereign:
+> Stroud chose what he was fitted to choose. The chain was
+> an arranged chain. Providence prevails.*
+>
+> *The Dragon school answers, most quietly: a universe in
+> which **ancient agency rules,** and mortals operate in a
+> frame the dragons set. Protanther chose to honour
+> Stroud's move because Protanther is honourable, not
+> because Bahamut compelled him; the metallic dragons
+> followed Protanther because they trust their elders, not
+> because the gods commanded them. The choosing is real,
+> but the **scope** of the choosing is what the dragons
+> permit.*
+>
+> *Three answers. Three universes. They cannot all be right
+> at the same time, and the question — Brother Grygum —
+> matters in a way I have never seen a question matter.*
+>
+> *Because if the Stroud school is right, the gods are
+> **constrained,** and the central truth of the cosmos is
+> the irreducible mortal choice that no power above or
+> below can possess. The good gods cannot manufacture our
+> mercy; the evil gods cannot manufacture our cruelty;
+> there is no procedure that produces the human outcome
+> reliably, because the human is not a stone or a star or
+> a lever, and refuses when every calculation says she
+> should obey.*
+>
+> *And if the Bahamutian school is right, the gods can
+> arrange the **first principles** of the world such that
+> reason itself points where they want it to point. A
+> mortal would believe she chose freely, and her belief
+> would be sincere, and the choice would still be the
+> god's. This is the most frightening reading, Brother. It
+> is not coercion. It is captivity disguised as
+> rationality.*
+>
+> *And if the Dragon school is right, the answer is in
+> between, and is more honest about how the world works than
+> the others, and is less inspiring to the mortal in the
+> taproom who would like to believe he is the centre of his
+> own life.*
+>
+> *I will tell you plainly: I do not know which school is
+> correct. I have spent forty-one years not knowing. I am
+> afraid the answer matters. I am afraid that **whatever the
+> answer is, the world has been arranging itself around it
+> while we argued.** A god who wished to control the
+> outcome of mortal lives would not need to compel a single
+> hand; she would only need to shape the rules of evidence,
+> the form of a polemic, the architecture of a chapter
+> house, the question taught to apprentices. The universe
+> can be **silent and indifferent,** as the Stroud school
+> insists; or it can be **silent and conspiratorial,** which
+> is what I lose sleep over.*
+>
+> *You came to Candlekeep with a question about your
+> conversion. Read the polemics in any order. But know that
+> when you choose a school — and you will, even if you do
+> not know you have — you are not choosing a faction.*
+>
+> *You are choosing a universe.*
+>
+> *— V., 8th day of 1st Tenday of Kythorn 1495.*
+
+---
+
 The match has produced three coherent readings, organized by
 **worldview** about who has agency in the universe. They cannot
 all be right at the same time.
 
 ### a. The Stroud school (humanoid-centric)
+
+> ⭐ **Vareth's polemic shelf carries three Mirabar-variant
+> pamphlets** of the popular-tier Stroud-school argument,
+> printed under the imprint of **Borrim Pickwhistle** in
+> Mirabar's Forge-Quarter. Grygum has one in his pack — handed
+> to him by a travelling polemicist at the Knight Beneath the
+> Knight (Travelogue Episode 2; Ch. 51 canon). Title: *Stroud
+> and the Human Agency Hypothesis: A Critique — Dragons and
+> Gods Do Not Rule,* by *"A Friend of Free Persons."* See
+> `handouts/grygum_stroudite_pamphlet.md` for the full text.
+> **Vareth identifies it by imprint alone** when Grygum
+> produces it: *"Pickwhistle. The Forge-Quarter editions. I
+> have three of these — two with printer's errors I find
+> *telling.* Yours is — yes, the third printing. The 'Friend
+> of Free Persons' is **deliberately** unidentified; the school
+> wants the argument to seem to belong to no one in particular,
+> i.e. to belong to **everyone.** That is itself a rhetorical
+> position. Note how the argument arrives in **broadside form**
+> rather than in a temple. The form is the doctrine."*
 
 > *Brother Vareth —*
 >

@@ -331,7 +331,14 @@ shifts.
   orc.** The polemicist sees his holy symbol and tries to recruit
   him on the spot. *"Brother. Have you heard the Witness call?
   Are you walking the road for Stroud?"* Grygum may engage or
-  decline; Vareth's fuller account waits at Candlekeep.
+  decline; Vareth's fuller account waits at Candlekeep. ⭐ **At
+  the table in Ch. 51, the polemicist handed Grygum a pamphlet:**
+  *Stroud and the Human Agency Hypothesis: A Critique — Dragons
+  and Gods Do Not Rule.* **Hand Ben the physical handout** at
+  `handouts/grygum_stroudite_pamphlet.md` — pre-revolutionary
+  18th-century broadside register, *"is there anything more
+  clear?"* climax. Vareth will identify the Borrim Pickwhistle
+  imprint at the Stroud Wake.
 - **Milo is here too — quietly.** A small **Order of the
   Gauntlet shrine** in the temples' quarter holds a sculpted
   bronze frontispiece reproduction of *Milo Goodbarrel's
@@ -775,11 +782,44 @@ shops, all canonical:
 **Glabbagool stays in the bag the entire Waterdeep visit.** No
 oozes in Waterdeep; the City Watch has positions on this. **One
 risky day:** a Watch patrol in the Trades Ward asks the party to
-open the bag for a routine stop. Zalthir's call. Bluff DC 14
-(Glabbagool stays still); fail and the patrol asks for a
-permit; the party has none. *Don't run a fight.* Run a *bribe*
-or a *fast walk* or a *Watch officer who decides he saw nothing
-because the City has bigger problems today.* Joe will love it.
+open the bag for a routine stop. Zalthir's call.
+
+⭐ **What actually happened at the table (Ch. 51 canon):**
+Thorin stepped forward with feet planted and announced *"we are
+discussing ooze rights today,"* turned to the sword at his hip,
+and asked **Dawnbringer — *"are we a team here?"*** Dawnbringer
+delivered the political argument out loud, in front of the
+crowd that had begun to gather: *"sentience is more than mere
+existence,"* and *"one day they're going to ban oozes, the
+next day they'll ban sentient swords!"* Daz fed the rhetoric
+*("Low blow"* — affirming, not undercutting); Grygum offered
+to help (*"I'm a cleric"*); Zalthir slipped sideways out of
+the moment and walked off with the bag. The Watch officer was
+**outmatched by the situation** and let them go — not because
+he was bribed and not because he was bluffed, but because
+*he didn't have a procedure for arguing-through-a-sword over
+ooze personhood with a half-orc Bahamut cleric volunteering as
+backup.* **Thorin and Dawnbringer publicly declared themselves
+a team.** Earned credit; canonical going forward.
+
+**Then — orphan-healing run.** Thorin's instinct after the
+Watch left was *"do something with the momentum, not
+politically — practically."* He took Dawnbringer into the
+parts of Dock Ward that don't usually receive visiting
+clerics, and **channeled Dawnbringer's restorative light
+through his hands to children who have learned not to expect
+much from strangers.** Dawnbringer was *"very happy."* Zalthir
+went with him; Daz took notes. ⭐ **Carry forward as the table
+evidence Philemon will point at.** This is no longer a
+"first soft beat in the hand-on-lock dynamic" — it is an
+embodied shared good the partnership has already produced.
+
+**Implications for Candlekeep — see updated Philemon prep in
+`notes/sessions/candlekeep_day_one.md`.** Path C (Equal
+Partner) is already *achieved,* not pending. Joe arrives at
+Philemon's study having already done the partnership work in
+the streets of Waterdeep; Philemon's pivot reframes
+accordingly.
 
 **Interview prompts (heavy — each player gets 2–3 minutes):**
 - *Mike — what does Daz buy that isn't on my list? Who does Daz
@@ -1010,6 +1050,56 @@ personally.
   most.* Yvenne, in the Hall of Divination tomorrow, will name
   this for him.
 
+**First sight of the keep — the three-beat landing.** Per the
+[Wally DM "describe a legendary place" frame](https://wallydm.com/3-world-building-lessons/),
+land Candlekeep as **one sense + one local + one question**,
+not a tour. Use these three; stop there; let the players ask.
+
+1. ⭐ **The sound, before the silhouette.** Half a mile out,
+   on the wind off the water, the party catches a single
+   human voice carried across the cliffs — measured, unhurried,
+   reciting verse. **The Endless Chant.** It does not stop. It
+   does not break. It carries on the wind for the rest of the
+   walk in. *(One sense, not a fact. The fact — that this is
+   Alaundo's 99 prophecies in a 24-hour relay led by Benedora
+   Stoneforge — comes later, from Vareth or another Avowed.
+   Right now it's just a voice that won't stop.)*
+
+2. ⭐ **The pilgrim ahead, who isn't impressed.** The
+   weathered Triboar carpenter (already in the queue with the
+   party — see the four-pilgrim list above) glances up at the
+   towers, glances back at his oilcloth-wrapped journal, and
+   says quietly to no one in particular: *"They'll lose it.
+   They lose half of what we bring. But they don't *forget*.
+   That's the difference."* He doesn't elaborate. Then,
+   without looking at the party: *"You'll learn the bells.
+   Bells from six till midnight. The midnight one — cover
+   your ears."* He has been here before. He says nothing else
+   about it. *(One local. He describes Candlekeep through
+   what bothers him about it, not what amazes him about it.
+   Wally's "lived-in POV" lesson.)*
+
+3. ⭐ **One detail no one explains.** As the queue advances,
+   the party passes a small grey cat sitting on a stone bollard
+   beside the road. Yellow eyes, unblinking. A pilgrim ahead
+   of them steps around her without comment, the way you'd
+   step around a wet patch you'd been told about. None of the
+   Avowed at the gate acknowledge her. She does not move when
+   the party passes. *(One question. This is **Queenie**, who
+   normally lives on the Keeper's tower stairs — but no one
+   tells the players that. The cat is just *there,* and
+   everyone behaves as though her presence requires no
+   explanation. Players will ask. Don't answer.)*
+
+**That's the description.** Three beats. The towers, the High
+Tower, the gulls, the wards, the avowed in robes — let the
+players construct the rest from those three anchors as they
+walk through the gate. **Do not list features.** Anything they
+ask about, answer; anything they don't, save for the days
+ahead. The full sensory toolkit for the Candlekeep arc proper
+lives in `notes/sessions/candlekeep_sensory_beats.md` — pull
+from there for Day One scenes onward.
+
 **Arrival:** the **Emerald Door** of the Outer Ward is open to
 the queue. The party joins. They are admitted last (their five
 books take longer to log). **Bookwyrm receives them.**
@@ -1035,6 +1125,8 @@ Things to track from the travelogue:
 | **Joe-recognition: Malfire iconography** | Mirabar Order shrine wall + Waterdeep First-Faction painting + Sea Ward bronze sculpture + High-Forest passing references | Joe's prior PC. Plant warmly. *"He spoke for the trees, and the trees spoke back."* **Banked OOTA hook: the Emerald Enclave is reachable as an ally because of Malfire's diplomatic legacy.** |
 | **Gabe-recognition: Whistler legend** | Triboar trade-route whispers (Shadow Werebear / flying kenku) + Waterdeep Glazhael memorial plaque + Sleeping Snake Ardragon whisper + Beregost *"The Kenku Could Not Fly"* bardic song + First-Faction painting at Rishaal's | Gabe's prior PC. **The flying kenku in the black hoodie** is the consistent visual; preserve it in every reference. Three competing legends — common-folk Glazhael death (fabricated), Black Network Ardragon (retired with the hoard), Shadow Werebear lycanthrope myth (haunts the trade routes). All true at once. |
 | Dawnbringer scabbard finishing-work | Waterdeep | Smith was kind. Dawnbringer warmed slightly. **First soft beat in the Philemon hand-on-lock dynamic.** |
+| ⭐ **Glabbagool ooze-rights stand at the Watch (Trades Ward)** | Waterdeep — Ch. 51 canon | Thorin and Dawnbringer publicly faced down a Watch officer over ooze personhood; Dawnbringer delivered the slippery-slope-to-sentient-swords argument in front of a crowd. Daz fed the rhetoric; Grygum offered as cleric backup; Zalthir slipped sideways with the bag. **Banked civic-stakes ammunition** if Glabbagool is ever challenged at Candlekeep, Gauntlgrym, or any city — *the party has rehearsed the speech.* Crowd-as-witness texture. |
+| ⭐ **Thorin + Dawnbringer orphan-healing run (Dock Ward)** | Waterdeep — Ch. 51 canon | After the Watch left, Thorin took Dawnbringer into Dock Ward and channeled her restorative light into children. Dawnbringer was *"very happy."* Zalthir went with him; Daz took notes. **Critical Philemon evidence** — partnership work was already done in the streets, not in the Reading Salon. Path C (Equal Partner) is *achieved*, not pending. **See `candlekeep_day_one.md` Philemon section for the post-Waterdeep pivot.** |
 | Grygum's *Hagiography of the Dragon-Born Faithful, Vol III* | Waterdeep | Mentions Stroud unconvinced. **Vareth finds this delicious in Session 4 Stroud Wake.** |
 | Zalthir's brass shadow-puppet hand | Waterdeep | GM-banked. Gabe's choice when to deploy. |
 | Drow refugee in Waterdeep | Waterdeep | **Banked thread.** May surface later. May not. |

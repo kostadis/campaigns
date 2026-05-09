@@ -171,9 +171,9 @@ the party converges on one Avowed.
 |---|---|---|---|---|---|
 | 1 | **Daz (Mike)** | *"Who is following me? Who paid the Duskryns to extract me alive?"* | Princess Ebonmire's spellbook | **Sister Yvenne** | T'sarran half (Vaelissa surfaces) + Protection half (Fourth-Seat erasure trail; bloodline-pattern) |
 | 2 | **Zalthir (Gabe)** | *"Who or what is Jimjar?"* | Plinki's journal *(or alternate; this is Khell-Vire's hook)* | **Brother Khell-Vire** + Master Kenshi | 7-tier reveal: Callarduran identification → Abyss quarrel → planar exit → why he vanished → bone die → three reads on this party → Blingdenstone connection. **Khell-Vire reciprocally researches Zalthir** (the Bone-King phrase). **Optional Gabe-recognition beat:** Khell-Vire's notebook of named shadow-bearers contains an entry — *"Whistler · the trade-routes · until the kenku speaks."* The kenku canonically *cannot* speak; the phrasing is deliberate. Surface only if it lands organically; banked otherwise. See `prior_campaign_first_faction.md` for context. |
-| 3 | **Thorin (Joe)** | *"I want help with Dawnbringer. Therapy. Not a one-question kind of thing."* (Grygum at the gate: *"It's a process, not a product."*) | Velkynvelve prisoner journal *(First Reader's pick — masterpiece of drow prison writing)* | **Master Archivist Philemon** | Three-phase: Clinical → Pivot (Path A/B/C) → Quiet Hour → Prescription. **Multiple sessions of work** — the canon does not pretend this is one answer. |
+| 3 | **Thorin (Joe)** | ⭐ **Post-Waterdeep wording (Ch. 51 update):** *"Dawnbringer and I are partners now. We argued ooze rights with the Watch and we healed children together in Dock Ward. We're past the team question. So — what's the question after the team question?"* (Grygum at the gate: *"It's a process, not a product."*) **Original chapter-54 wording** — *"I want help with Dawnbringer. Therapy. Not a one-question kind of thing."* — still holds as the formal donation-line; Thorin's *current state* arriving at Philemon's study is the post-Waterdeep version. | Velkynvelve prisoner journal *(First Reader's pick — masterpiece of drow prison writing)* | **Master Archivist Philemon** | **Path C achieved at the table** (Waterdeep ooze-rights stand + orphan-healing run). Phase 2 path-choice is no longer live; treat C as the starting position. Phase 1 clinical pivot, scabbard friction, and Phase 3 captivity reveal still run substantially as written, with the partnership reframed as *already true.* See full Philemon section below for the post-Waterdeep rewrite. |
 | 4 | **Grygum (Ben)** | *"What does Bahamut want from me specifically? What does my conversion mean in the broader theological landscape?"* | Ilvara's prayer book with Zuggtmoy marginalia + Asha Vandree's Lolth/Zuggtmoy manuscript | **Brother Vareth** | The Stroud Wake — 7-station tour through the controversy that has subsumed Vareth's quiet specialty. Three schools (Stroud / Dragon / Bahamut) presented; **Ben picks a school between sessions.** Vareth is honest he does not know the answer. **Vareth's library also holds *Milo Goodbarrel's* Volumes 1–3** as the Order-of-the-Gauntlet *primary-source category* — distinct register from the Stroud Wake polemics. If Daz mentions Milo, Vareth lights up: *"You read him? Most don't anymore — Stroud has eaten the air. Milo's account is *better written* and *less argued-over.* The Order takes him at his word."* |
-| 5 | **Glabbagool** | **OPEN — player choice this session.** Possible directions established at the gate (Thorin proposed Glabbagool gets a question; Grygum endorsed; Zalthir confused; Glabbagool wanted to know "why we weren't simply donating every book we'd ever seen"). The answer-tier opens once Glabbagool decides what he is asking. | (party's fifth book — typically the redundant donation at the gate) | **TBD by question content** | See "Glabbagool's question" beat in Act 3. Three location options based on question content: **Pavilion Naturalis** (*"What am I?"*), **Tower of Tall Tales** (*"What is a feathered thing?"*), **Whispering Dome** (*"What is the Way of the Shadow?"* — Zalthir-sponsored monk-training read; bankable boon). |
+| 5 | **Glabbagool** (Zalthir-sponsored) | ⭐ **LOCKED:** *"How do I become a shadow monk?"* (Zalthir presents on his behalf — Glabbagool's actual want is *"can I be a thing that does what Zalthir does."*) | (party's fifth book — typically the redundant donation at the gate) | **Whispering Dome** (East Inner Ward, atop the Hall of Momentous Deeds) | **Outcome: Glabbagool becomes a Shadow Apprentice sidekick at level 8** — Tasha's Warrior chassis with Artificial Chakra (Ki Focus, 4 points). Headline features: ⭐ **Corrosive Embrace** (2 Ki, prerequisite *target grappled by Zalthir,* 4d6 acid + armor degradation, master takes no damage); **Corrosive Surge** (1 Ki, +2d6 acid + armor degradation on hit, 1/turn); Shadow Arts (Darkness/Darkvision/Pass without Trace/Silence at 2 Ki); Shadow Step 60 ft; Flurry of Blows (1 Ki). Blindsight 60 ft, telepathy 60 ft, no speech. **Glabbagool is Zalthir's sidekick** — Gabe controls in combat. See "Glabbagool's question" beat in Act 3 for the Whispering Dome scene; full stat block + Level 9–20 progression at `handouts/glabbagool_shadow_monk_sidekick.md`. |
 
 **GM ritual line for each scholar's first scene** — open by
 quoting the question back. Examples:
@@ -738,6 +738,82 @@ the reveals across multiple sittings:
 
 ### Thorin with Master Archivist Philemon
 
+> ⭐ **POST-WATERDEEP REWRITE — read this before running the
+> scene.** The original prep below assumed Thorin and
+> Dawnbringer arrive at Philemon's study with the team
+> question still open. **At the table in Ch. 51 (the
+> Waterdeep travelogue session), Joe and Dawnbringer answered
+> that question publicly.** Thorin asked her *"are we a team
+> here?"* in front of a Watch officer; Dawnbringer made the
+> ban-oozes-then-sentient-swords slippery-slope argument out
+> loud; Thorin confirmed they were on the same page; the
+> scene held. **Then** Thorin took Dawnbringer into Dock Ward
+> and channeled her healing light into orphans, and
+> Dawnbringer was *"very happy."*
+>
+> **What this changes:**
+>
+> - **Path A (sword-first) and Path B (academy-first) are no
+>   longer live options.** They are foils. Joe will visibly
+>   wave them off. Don't make him pick between them — give
+>   him the credit he earned in Waterdeep. Path C (Equal
+>   Partner) is the *starting position,* not the destination.
+> - **The Phase 1 clinical-vs-personal pivot still works** —
+>   Philemon will still address Dawnbringer in third person at
+>   first; Dawnbringer will still deflect; Thorin will still
+>   need to name the partnership in Philemon's hearing. But
+>   he names it as something *already true,* not something he
+>   is choosing.
+> - **The scabbard-hand pivot still works** but lands
+>   differently: it is no longer "you have made her home into
+>   a threat." After Waterdeep, Thorin's hand on the lock is
+>   read as *the practice that got them through the moments
+>   when she had to argue and he had to ground her.* Philemon
+>   names the *function,* not the *fault.* Dawnbringer can be
+>   the one to push back: *"He puts his hand there when I
+>   need him to. We have a system."*
+> - **The captivity reveal (Brysis was her captor, not her
+>   wielder) still lands at Phase 3** — but Thorin receives
+>   it as **partner-grief he is now responsible for hearing,**
+>   not as a partnership-formation moment. The right beat for
+>   Joe is *quiet.* He has already spent days in Dock Ward
+>   doing healing work with her; he knows how to be in a room
+>   with her grief.
+> - **The new Phase 4 prescription is "what does a
+>   partnership do?"** rather than "how do you become one?"
+>   The five rituals scale; the sealed letter still bank;
+>   Dawnbringer's *"you want me to sit in dawnlight not
+>   drawn?"* line still works. **But the framing question
+>   Philemon leaves Thorin with shifts to:** *"You have done
+>   the work. You and she are partners. So — what do partners
+>   owe each other after they've already chosen each other?
+>   That is the question the orphans in Dock Ward have begun
+>   to answer for you. Bring it back when you have more of
+>   the answer."*
+>
+> **The orphan-healing run is the table evidence Philemon
+> points at.** Bring it up by name in Phase 1 — Philemon has
+> been told (by Yvenne, by the First Reader, by anyone who
+> debriefed the party at the gate) that Thorin spent days in
+> Dock Ward channeling Dawnbringer's light into children
+> *who have learned not to expect much from strangers.* He
+> will say so:
+>
+> > *"You arrived with this work already begun. Most of the
+> > sentient blades I see are studied in this room because
+> > they have not yet found a wielder who can stand in a
+> > Dock Ward alley and say 'we will do this.' You have. So
+> > the work in this room is different from what I usually
+> > prepare. We are not building the partnership. We are
+> > naming what it is."*
+>
+> *Joe will sit up.* Earned.
+>
+> The original prep below stays — run Phase 1 / scabbard /
+> Phase 3 captivity reveal substantially as written, with
+> the framing above. **Skip the Phase 2 path-choice; treat
+> Path C as given.**
+
 **Setting:**
 
 - **Towers of Wonder** (West Inner Ward, magic-items library —
@@ -960,6 +1036,63 @@ the Realms in three years.** Pick stations that fit your table.
 
 Station handouts in `handouts/grygum_stroud_dossier.md`.
 
+⭐ **Open the Stroud Wake with Vareth's preface — *"this is the
+question of the age."*** Read aloud or hand Ben the dossier
+preface (top of Section II in `grygum_stroud_dossier.md`).
+Vareth is explicit and fervent: this is **not** a theological
+spat or a partisan wake. It is a **philosophical challenge to
+the cosmic order itself,** which has crossed every chapter
+house and every taproom on the Sword Coast. Three duels at
+Candlekeep over which polemic shelf gets the larger window.
+Sister Yvenne is threatening to confiscate bookplates.
+
+The three schools are not three readings of one chess game.
+They are **three answers to the same underlying question:**
+
+> ⭐ **What kind of universe do we live in?**
+
+- **Stroud school:** mortal choice is sovereign. The gods do
+  not rule the choosing. Tiamat was denied her power by a
+  chain of *free acts* and Providence (if it exists) had no
+  hand in the lifting of the queen.
+- **Bahamutian school:** divine providence prevails. Stroud
+  was the *instrument* of a god who had moved his pieces
+  beforehand. The choice was real but not sovereign.
+- **Dragon school:** ancient agency rules. Mortals choose, but
+  within a frame the dragons set; Protanther honoured Stroud
+  because Protanther is honourable, and the metallic dragons
+  followed because they trust their elders.
+
+Vareth is **honest he does not know.** He has spent forty-one
+years not knowing. He is also **explicit that the answer
+matters** — that whichever school is correct, the world has
+been arranging itself around the answer while everyone
+argued. This is the GM's chance to plant the campaign-level
+philosophical stake: *if Stroud is right, the gods are
+constrained; if Bahamut is right, mortal choice is captivity
+disguised as rationality; if the dragons are right, mortals
+are tenants of a story they did not write.*
+
+**Ben's school choice (between sessions) is therefore not a
+faction pick.** It is a vote on the metaphysics of the
+universe Grygum lives in. Vareth says so.
+
+> *"You came to Candlekeep with a question about your
+> conversion. When you choose a school, you are not choosing a
+> faction. You are choosing a universe. — V."*
+
+**Run all eight stations through this lens.** Each station
+below is *evidence* about which school is right. Stations 1–3
+present the schools and witnesses. Stations 4–6 show how
+each school is being *used* in the world (taproom slang;
+heretical pretenders; the Stroudite lineage Grygum is
+unknowingly founding). Station 7 is the poignant beat — the
+disappointed pilgrim, the human-sized Stroud, the question
+*"is the story bigger than the man"* which is also a question
+about whether the man can be sovereign at all. Station 8 is
+the chess problem itself — the diagram around which the
+whole question of the age has crystallized.
+
 **Station 1 — The polemic shelf.** Stroud's own writing for 3
 years. Multiple pamphlets, in-progress memoir in installments,
 running corrections of every witness. Vareth has them organized by
@@ -967,7 +1100,11 @@ running corrections of every witness. Vareth has them organized by
 
 **Station 2 — The three schools of thought.** ~5 min. Each school
 is a coherent worldview about *who has agency in the universe.*
-They cannot all be right at the same time.
+They cannot all be right at the same time. ⭐ **Frame this as
+the question of the age** — not a theological dispute, a
+philosophical challenge to cosmic order. Vareth's preface
+above sets the stakes; this station presents the three
+contenders.
 
 - **The Stroud school (humanoid-centric).** *Stroud was
   brilliant; mortals can win on their own.* No god, no dragon's
@@ -1204,30 +1341,78 @@ Sylvira is **starting institutional fires.** She is *not* the
 source of the post-Candlekeep call to the party — see "Post-arc
 contact" below.
 
-### Glabbagool's question — a side thread
+### Glabbagool's question — locked
 
-Glabbagool has earned **one question** by virtue of the fifth
-book. Decide where it lands:
+⭐ **Question (locked):** *"How do I become a shadow monk?"*
 
-- **Pavilion Naturalis** (North Inner Ward, natural-sciences
-  library crowned by a translucent mollusk shell; T. Rex skeleton
-  in the central hall; illusory butterflies; librarian **Frondu**
-  the firbolg sage). The natural choice if Glabbagool's question
-  is about *what he is.* Frondu loves bizarre creatures.
-- **Tower of Tall Tales** (North Inner Ward, fiction repository).
-  The right place if his question is about *birds* or *what is a
-  feathered thing.* Librarian Hobert the halfling sage performs
-  invisible-rapier monologues — Glabbagool will be delighted.
-- **Whispering Dome** (atop the Hall of Momentous Deeds; East
-  Inner Ward). Long shot — would require Glabbagool to enter
-  alone and meditate in silence for 1 minute. If Zalthir
-  endorses it as *monk training,* he might. The dome speaks the
-  inspirational words of a long-dead hero. **Roll on the Words
-  of Inspiration table** in the locations supplement (or pick).
-  *This is a great Zalthir-sponsored beat.*
+Asked Zalthir-sponsored. The fifth book buys access; Glabbagool
+will not phrase it cleanly on his own — Zalthir presents the
+question on his behalf, which is **the right shape of the
+moment** (informal mentor → apprentice formal request). At the
+gate, Glabbagool said *"why aren't we just donating every book
+we've ever seen"*; he has **a different relationship with
+written knowledge** than the rest of the party. The question he
+actually wants the answer to is *can I be a thing that does
+what Zalthir does.* This is what the Avowed will hear.
 
-Pick one (or let Zalthir negotiate which). ~5 min. Don't expand
-into a full scene unless the table latches on.
+**Venue: Whispering Dome** (atop the Hall of Momentous Deeds;
+East Inner Ward). Glabbagool enters alone and meditates in
+silence for 1 minute — the dome speaks inspirational words from
+a long-dead hero. Zalthir watches from the threshold; he cannot
+enter without breaking the *one-supplicant-at-a-time* rule.
+**Roll on the Words of Inspiration table** (locations
+supplement) or pick. The right pick for this question is a
+hero whose path required *learning to be still* — a Way-of-
+Shadow predecessor, a Selûnite contemplative, a kenku monk who
+could not speak.
+
+**Outcome: Glabbagool becomes a sidekick at level 8 — Way of
+Shadow monk.** Mechanical handoff:
+
+- **Sidekick chassis:** Tasha's Cauldron of Everything, the
+  **Warrior** sidekick (martial scaling matches Zalthir's level
+  8 baseline; ki-equivalent points and unarmored defense scale
+  to character level for parity).
+- **Subclass flavor:** Way of Shadow features re-skinned for an
+  ooze: *Pass Without Trace* (extrudes pseudopods that distort
+  ambient sound), *Darkvision* (already canonical for him),
+  *Darkness* (he produces a viscous black ink-cloud), *Silence*
+  (he absorbs sound directly through his membrane), *Shadow
+  Step* (collapses through one shadow and emerges from another
+  — narrative reading: he is *already* a creature whose body
+  has no fixed shape, so the teleport is the most-Glabbagool
+  feature in the subclass).
+- **Why it works narratively:** Zalthir already proposed
+  training Glabbagool in monk discipline (per `party.md`); the
+  ooze has demonstrated **stillness, restraint, and consent to
+  containment** repeatedly (the bag of holding, the
+  Watch-officer scene where he proliferated only two eyeballs
+  rather than escalating, the entire post-Pudding-King
+  pacification sequence). The Whispering Dome only confirms
+  what is already true.
+- **Per Tasha's:** the sidekick belongs to a PC. **Glabbagool is
+  Zalthir's sidekick** — Gabe controls him in combat,
+  reinforcing the Zalthir/Glabbagool master-apprentice bond
+  the campaign has been building since the Oozing Temple.
+
+**Handout to prep:** `handouts/glabbagool_shadow_monk_sidekick.md`
+— stat block at level 8, subclass features, narrative
+re-skinning of each feature, AC, hit points, attack action,
+ki/discipline-points if applicable, and the *"can he eat
+cheese as a bonus action"* line that Joe will absolutely ask
+for.
+
+~5–8 min at the table. **Do expand** if the table latches on —
+this is a permanent change to the party composition and Gabe's
+prior PC (Whistler) is the secondary reason the sidekick
+mechanic resonates: *Whistler also could not speak; Glabbagool
+also cannot, in the conventional sense.* The shape repeats.
+
+> **GM note for the Whispering Dome itself:** if you want a
+> resonance beat, the inspirational words Glabbagool hears
+> can be a kenku-monk sentence — *"the body that mimics nothing
+> is already shaped by what it watches."* Gabe will catch it.
+> Honor and move on; do not gloss it as "this is Whistler."
 
 ---
 
@@ -1346,8 +1531,10 @@ Confirm each PC leaves with:
   cells / kept in bag / released as messenger); Sylvira Savikas
   has accepted the demon-lord evidence into the Infernal Fortress
   collection and named the Harpers as the next contact;
-  Glabbagool's question landed (Pavilion Naturalis / Tower of
-  Tall Tales / Whispering Dome).
+  Glabbagool's question landed (⭐ **locked: Whispering Dome —
+  Zalthir-sponsored *"how do I become a shadow monk?"* with
+  Way-of-Shadow sidekick handoff at level 8;** see Act 3
+  Glabbagool side beat and `handouts/glabbagool_shadow_monk_sidekick.md`).
 
 Update `notes/threads/post_candlekeep_open_threads.md` with whatever
 landed.

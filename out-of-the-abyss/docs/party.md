@@ -46,7 +46,6 @@ Zalthir is a creature of precise discipline and deliberate silence — he speaks
 **Items of Significance:**
 - Eldritch Claw Tattoo (attuned) — tentacle grapple, 15-foot reach
 - Insignia of Claws
-- Dustsight Spectacles — see invisible creatures and through magical darkness
 - Drow spider-silk cloak (looted from Asha Vandree, bagged to prevent surface disintegration)
 - Scrolls from Xinaya's corpse
 - Statue of Demogorgon, Pliinki's journal and conspiracy letters
@@ -63,7 +62,7 @@ Thorin is a dwarf raised by hill giants, which has left him with a thick Giant a
 
 **Notable Relationships:**
 - *Eldeth Feldrun:* Complicated. Relationship was damaged by her rejection of his giant ties, but he advocated for her survival repeatedly; she departed with an oath to help him join her clan.
-- *Dawnbringer:* A developing and sometimes contentious bond with his sentient sunblade; he has made personal promises to the weapon (a finer scabbard) and intends to seek a "sword whisperer" at Candlekeep.
+- *Dawnbringer:* An evolving bond with his sentient sunblade — strengthened by shared healing work in Waterdeep on the road south, where Thorin sought out orphans and the sick to channel Dawnbringer's restorative power as a way of bonding over helping others. Dawnbringer was visibly happy. Interpersonal frictions remain; Philemon's counseling at Candlekeep is still warranted.
 - *Stool:* Warm bond; carried the myconid sprout when it was tired; Stool named him among its best protectors.
 - *Dorhun/Hgraam:* Positive relationship with stone giant community built through his Giant-language fluency.
 - *Gartokkar Xundorn:* Adversarial; mutual distrust established; Thorin openly threatened him.
