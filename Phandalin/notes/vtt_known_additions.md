@@ -22,3 +22,10 @@ Recorded so they stop being flagged as unknowns by future spell-pass runs.
 | Falcon's Hunting Lodge | Location; "the Falcon's hunting lodge got overrun" |
 | Tribor Trail | Location; "on the corner of the… Tribor Trail, where it turns to Fandelin" |
 | Uthgardian | FR Uthgardt barbarian canon (paired with Asgardian table-joke) |
+- 2026-05-05 | **Vukradinious** — centaurized form of Vukradin's name; used by/for Vukradin in centaur contexts. Wrong-form 'Bukradinhos' → 'Vukradinious'.
+- 2026-05-05 | **Prutha** — new NPC name being discussed/named in session; ctx 'Prutha, it is.' / 'his name is Pritha' / 'talking to Prutho'.
+- 2026-05-05 | **Lathandrian** — adjective/noun for follower of Lathander's order (analogous to 'Christian' for Christ); ctx 'the Lathandrian cleric'.
+- 2026-05-05 | **Anchorite** — Talosian religious title (priest of Talos); ctx 'the Anarchite, and he goes, Talos Strong!'.
+- 2026-05-05 | **Circle of the Stones** — location; ctx 'headed to the Circle of the Stones'.
+- 2026-05-05 | **Tower of Storms** — location (Talosian temple?); ctx 'Alrighty, Tower of Storms'.
+- 2026-05-05 | **Centauri** — the centaur language (faux-Greek).

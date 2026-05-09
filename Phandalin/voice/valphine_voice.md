@@ -6,6 +6,21 @@
 ## The Core Thing
 Valphine is a drow survivor of House Sotorra who left the Underdark, walked into searing surface sunlight for the first time, and recognized in that pain a god more powerful than Lolth. She did not convert. She *transferred allegiance* — from spider to radiance, from chaos to a higher and more luminous form of imposed pain. Her devotion to Lathander is real, sincere, and unorthodox: she experiences holy light as glorious, sustained, beautiful pain on the skin, and she finds that worthy of worship in a way Lolth's hierarchies never quite were. She is not a redeemed innocent. She is a Menzoberranzan-trained tactician who happens to channel divine radiance, and she still reads every room as a hierarchy with motives, leverage, and concealed knives. The contradiction is the point: a cleric of the dawn whose first instinct in any room is to identify who has power, who is borrowing it, who is pretending, and who is about to lose it. She has not stopped being drow. She has become a drow of the light.
 
+## The Drow Power Calculus (Gary's refinement — load-bearing)
+Drow respect power. The drow problem with power is that it is *limited*: it must be hoarded, wielded subtly, expended carefully, and concealed so that one's weaknesses — appetite, fear, the precise capacity of the reserve — cannot be reverse-engineered by rivals. Lolth's power obeys these constraints. It is rationed through hierarchy, paid for in lesser lives, hidden in darkness, and constantly at risk of running out. A priestess of Lolth must lie about how much she has, because if anyone learns the true depth of the pool, she is dead.
+
+Lathander's power obeys none of these constraints. Sunlight is *not subtle*. It does not hide. It openly demands attention. It forces itself on everything beneath it, unapologetically, without consent or audience or sanction. And it does not get used up. The sun rises whether anyone is watching, whether anyone is grateful, whether anyone survives it. It is the inverse of every drow assumption about how power must be managed: inexhaustible, public, unconcealed, indifferent to its own depletion because it cannot be depleted.
+
+The second axis is even simpler, and it is the axis a drow understands first: **light dispels darkness.** Lolth's domain is darkness. Lathander's domain is light. The collision has a winner, observably, every dawn. If light defeats darkness as a matter of physical fact, then the god of light is stronger than the god of darkness, as a matter of cosmological fact. A drow who respects power therefore reaches an obvious conclusion: ally with the stronger power. Worship the one whose strength is not in question. The wisest choice is Lathander.
+
+This is not Valphine being seduced by mercy or moved by warmth. This is a high-born drow tactician performing the cleanest power-calculation of her life and arriving at the only rational answer. Her devotion is sincere *because* the calculation was sincere. Lolth's followers are running a smaller operation with a finite reserve and weaknesses they must hide. Lathander's followers are aligned with the inexhaustible, undisguised, dominant power. From inside her grammar, choosing Lolth over Lathander is not piety — it is bad strategy.
+
+**How to use this in the rewrite:**
+- When she compares the two faiths, the comparison is not moral. It is a power audit. Lolth = limited, hidden, expendable, must be concealed. Lathander = inexhaustible, overt, unapologetic, cannot be used up.
+- When surface dwellers describe her conversion as a softening or a redemption, she is silently correcting them: she did not become *better*, she became *aligned with the larger power*. The choice is the same kind of choice a drow noble makes when she stops backing a weakening matron and pledges to a rising one — except this time the rising power is a god whose strength is observable every morning.
+- The line *"light dispels darkness"* is not metaphor for her. It is the clinching argument. When she sees Daylight burn an undead, when sunrise erases night, when a torch ends a shadow, those are confirmations of a strategic premise, not aesthetic flourishes.
+- She finds it faintly absurd that other drow have not run this calculation. The information is *available every day*. The fact that Menzoberranzan persists in worshipping the weaker, hidden, rationed power strikes her as a failure of basic strategic literacy among people who pride themselves on it.
+
 ## The Conversion — Canonical Text (load-bearing)
 This passage is **canon Valphine**. It is the single most important paragraph in this document for getting her faith right. When narrating any scene that touches her devotion, her god, the surface, the sun, or her past, return to this register. The voice in this passage is the ground truth — every other rule about her faith is derived from it.
 
@@ -96,6 +111,12 @@ He **suggests practical solutions** with one sentence: *"Why don't we just ask h
 
 > *"I was not made gentler. I was made clearer."* (representative of her self-account)
 
+> *"Lolth's power is rationed. Lathander's is not. The choice was not difficult."* (representative — power-calculus register)
+
+> *"Light dispels darkness. Every dawn. Observably. I am unsure why my sisters find this argument complicated."* (representative — the strategic-literacy read on Menzoberranzan)
+
+> *"A power that must hide its limits is a power with limits. A power that does not hide is the larger one. I went where the larger one was."* (representative — the drow audit, stated plainly)
+
 ## Things She'd Never Say
 - That Lathander made her soft. Lathander made her *clearer*. Soft is not in her grammar.
 - That her past is behind her. House Sotorra is in every read she makes; she would not pretend otherwise.
@@ -106,3 +127,5 @@ He **suggests practical solutions** with one sentence: *"Why don't we just ask h
 - Casual mercy as a default position. Mercy for her is a tactical or doctrinal choice, not a reflex. When she shows it, it should land as exact and rare.
 - Modern, casual register (*"that was sketchy" / "kinda" / "no big deal"*) without strategic reason. Her speech is elevated even when blunt.
 - Generic priestess comfort. She is not a comforting cleric. Her healing is real, and it is also a theological act of imposing radiance on a wounded body.
+- That she chose Lathander because he was *good*. She chose Lathander because he was *stronger* — inexhaustible, unconcealed, dominant over darkness. The goodness is incidental to the audit. (She would not say this aloud to a surface dweller, but the rewrite must remember it.)
+- That Lolth was wrong to be cruel. Lolth was *insufficient* — her power was rationed, hidden, finite, and forced her followers into concealment about its limits. Cruelty is not Valphine's objection; smallness is.
