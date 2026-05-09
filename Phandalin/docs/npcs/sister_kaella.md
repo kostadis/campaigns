@@ -3,7 +3,7 @@ name: Sister Kaella
 aliases:
   - Sister Kayla
   - Sister Kella
-source_extracts: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39]
+source_extracts: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40]
 ---
 
 # Sister Kaella
@@ -36,21 +36,26 @@ source_extracts: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18,
 
 8. **Escape and Murder of Corbin:** Killed Corbin and escaped from custody. Xanthopoulos announced at the council that she had "walked out" and was "gone to the wind." Her current whereabouts are unknown. Soma described her as "a killer in priest's cloth."
 
+9. **Post-Escape Developments:** Vukradin sought out Ser Kaelen specifically to inform him about Sister Kaella's escape, alongside news about Corbin. Jenna Roscoe of the Lord's Alliance later claimed to Vukradin that the Lord's Alliance could help locate Sister Kaella, offering this as an inducement to him.
+
 ## Current Status
 - **Last Known Location:** Unknown; escaped custody
 - **Active:** At large as of the council meeting where Xanthopoulos announced her escape
-- **What the Party Knows:** She was the Carver's Spymaster who turned when her survival depended on it; she killed Locutus in front of Valphine; she engineered the framing plot against Valphine; she had a private arrangement with Valphine; she provided genuine directions to Icespire Hold; she wanted to be imprisoned at Axholm; she calculated her own near-execution calmly and views survival as always leaving options open; she killed Corbin and escaped; she is a killer in priest's cloth
+- **Being Hunted:** The Lord's Alliance has claimed capability to locate her and has offered this as leverage to Vukradin
+- **What the Party Knows:** She was the Carver's Spymaster who turned when her survival depended on it; she killed Locutus in front of Valphine; she engineered the framing plot against Valphine; she had a private arrangement with Valphine; she provided genuine directions to Icespire Hold; she wanted to be imprisoned at Axholm; she calculated her own near-execution calmly and views survival as always leaving options open; she killed Corbin and escaped; she is a killer in priest's cloth; Vukradin has informed Ser Kaelen about her; the Lord's Alliance claims they can help locate her
 - **What Remains Hidden:** The full nature of her prior arrangement with Valphine; the full extent of her spy network; how much she actually knows about the Carver's remaining assets, capabilities, or whereabouts; her true long-term intentions after the Carver is dead; her current whereabouts and plans following her escape
 
 ## Relationships
 - **Valphine:** Private prior arrangement, confirmed still in force during interrogation. Valphine is her functional contact in the party and the reason she is alive. Initially selected Valphine as an asset, believing her to be an evil drow cleric of Lolth using Lathander as a cover — considers her the only party member who "shares her worldview." Valphine revived her using physical pressure techniques rather than magical healing. No formal agreement existed before her capture.
-- **Vukradin:** Open antagonism. He paralyzed her during her warning, authorized her to be beaten to within one hit point, told her she'd do well in prison, and refused her offer of alliance outright. She assessed him as incapable of operating in morally gray environments and having difficulty dealing with morally gray situations, making him not a viable contact — a calculated assessment, not an insult.
+- **Vukradin:** Open antagonism. He paralyzed her during her warning, authorized her to be beaten to within one hit point, told her she'd do well in prison, and refused her offer of alliance outright. She assessed him as incapable of operating in morally gray environments and having difficulty dealing with morally gray situations, making him not a viable contact — a calculated assessment, not an insult. After her escape, he sought out Ser Kaelen specifically to inform him about her, and later received an offer from Jenna Roscoe that the Lord's Alliance could help locate her.
 - **Soma:** Intervened to prevent her execution alongside Valphine. She had previously dismissed him as too nature-focused to be a useful contact. He described her as "a killer in priest's cloth."
 - **Brewbarry:** Dismissed as too loyal to Vukradin to be a useful contact.
 - **Corbin:** Murdered him to secure her escape from custody. She had been screaming at him as the party left, calling him a lunatic. Valphine has been teaching Corbin certain sacraments — relevance to this relationship unclear.
 - **The Carver:** Former employer, now a target. Loyalty broke when he blamed her for intelligence failures after the party killed his muscle. She calculated he would have had her tortured to death had Jax won. She fears his retribution and originally intended to kill him personally. She disclosed that her loyalty to him had not been absolute throughout.
 - **Locutus:** Killed him at the Valphine meeting with rapier and dagger; viewed as a liability and a loose end after he killed Borg. She had been expecting him at the meeting rather than Valphine.
 - **Borg:** Was working with him; his failure to eliminate witnesses when killing Big Al caused the intelligence failure that triggered her break with the Carver.
+- **Ser Kaelen:** Vukradin sought him out specifically to inform him about Sister Kaella following her escape.
+- **Jenna Roscoe / Lord's Alliance:** The Lord's Alliance has claimed capability to locate her and offered this as an inducement to Vukradin.
 
 ## Arc Score Events
 - **Killed Locutus** — unprovoked, in front of Valphine (party antagonist action)
@@ -62,3 +67,5 @@ source_extracts: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18,
 - **Soma → Kaella (neutral/positive):** Intervened against her execution
 - **Killed Corbin** — murdered her guard to secure escape from custody (party antagonist action)
 - **Escaped custody** — "gone to the wind" per Xanthopoulos's announcement at council
+- **Vukradin informed Ser Kaelen** — specifically sought him out to report on Sister Kaella's escape
+- **Lord's Alliance offers aid in locating her** — Jenna Roscoe used the possibility of tracking Sister Kaella as an inducement to Vukradin

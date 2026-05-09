@@ -1,7 +1,8 @@
 {
-  "backup_tarball": "/home/kroussos/campaigns/Phandalin/docs/npcs.backup-20260418-083803.tar.gz",
+  "backup_tarball": "/home/kroussos/campaigns/Phandalin/docs/npcs.backup-20260508-110211.tar.gz",
   "started_at": "2026-04-18T08:38:03Z",
-  "updated_at": "2026-04-29T05:50:00+00:00",
+  "updated_at": "2026-05-08T18:14:02.182275+00:00",
+  "last_run_summary": "2026-05-08 \u2014 merged 2 clusters (valphine_sortorra\u2192valphine, vukardin\u2192vukradin). 5 sidecars pending (*.new_notes.041.md). Backup: npcs.backup-20260508-110211.tar.gz.",
   "clusters_confirmed": [
     {
       "files": [
@@ -284,7 +285,28 @@
       "aliases_recorded": [
         "Xanthopoulos"
       ],
-      "note": "merge 2026-04-29: extract-039 introduced xanthopoulos.md as the centaur's longer formal name. Same NPC — both recognize Meril/Meryl's Staff, both reference 'his people' / animal-comm network. Body merged: druid council scene from xanthopoulos folded into xanth.md History; xanthopoulos.md deleted."
+      "note": "merge 2026-04-29: extract-039 introduced xanthopoulos.md as the centaur's longer formal name. Same NPC \u2014 both recognize Meril/Meryl's Staff, both reference 'his people' / animal-comm network. Body merged: druid council scene from xanthopoulos folded into xanth.md History; xanthopoulos.md deleted."
+    },
+    {
+      "files": [
+        "valphine.md",
+        "valphine_sortorra.md"
+      ],
+      "canonical": "valphine.md",
+      "aliases_recorded": [
+        "Valphine Sotorra",
+        "Valphine Sortorra"
+      ]
+    },
+    {
+      "files": [
+        "vukradin.md",
+        "vukardin.md"
+      ],
+      "canonical": "vukradin.md",
+      "aliases_recorded": [
+        "Vukardin"
+      ]
     }
   ],
   "clusters_rejected": [

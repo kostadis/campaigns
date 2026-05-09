@@ -6,7 +6,7 @@ aliases:
   - Toblen Stonehill Spiderman
   - Spider Man
   - Toblen Stonehill (Spiderman)
-source_extracts: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39]
+source_extracts: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40]
 ---
 
 # Toblen Stonehill
@@ -35,19 +35,20 @@ source_extracts: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18,
 3. **Ser Kaelen's visit:** Served drinks to the party during Ser Kaelen's recruitment conversation at the inn.
 4. **1/1 Taraksh:** Upon the party's return from the dwarven ruins, again persuaded Vukradin to play popular music for the inn's clientele.
 5. **After Lyra's council verdict:** Lyra offered to buy the party drinks at the Stonehill Inn when they returned to Phandalin (following her restoration to good standing by the council).
+6. **Later visit (extract 040):** Lyra directed Toblen to get Vukradin "at least two beers," then extended the order to include two beers for Brewbarry as well. Brewbarry asked twice to confirm "Spider-Man" was his actual name (it is).
 
 ## Current Status
 - **Last Known Location:** Stonehill Inn, Phandalin
 - **Active Operations:** Running the inn day-to-day; leveraging Vukradin as informal entertainment to please customers
-- **What the Party Knows:** Toblen is aware of white dragon sightings and orc raid concerns; he keeps his ear to local troubles; his "Spiderman" nickname and its origin
+- **What the Party Knows:** Toblen is aware of white dragon sightings and orc raid concerns; he keeps his ear to local troubles; his "Spiderman" nickname and its origin; the nickname is his actual name, confirmed after Brewbarry's repeated questioning
 - **What Remains Hidden:** Nothing specific flagged in notes
 
 ## Relationships
 - **Vukradin:** Recurring positive dynamic with friendly rapport; Toblen consistently recruits him to play for the inn's guests and has shown personal appreciation for his original music
-- **Brewbarry:** Accepted without hostility; crowd-pleasing physical performer — likely favorable impression
+- **Brewbarry:** Accepted without hostility; crowd-pleasing physical performer — likely favorable impression; Brewbarry has questioned him about his "Spider-Man" name
 - **Valphine:** Neutral to tepid — underperformed during the tavern show
 - **Ser Kaelen:** Hosted Kaelen's recruitment meeting at the inn (nature of personal relationship unclear)
-- **Lyra:** The Stonehill Inn is a place Lyra knows to bring the party for celebration drinks
+- **Lyra:** The Stonehill Inn is a place Lyra knows to bring the party for celebration drinks; Lyra orders drinks for party members through Toblen
 - **Phandalin / Neverwinter:** Loyal to the town; hopes for outside military support against regional threats
 
 ## Arc Score Events
