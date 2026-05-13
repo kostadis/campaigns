@@ -1,0 +1,261 @@
+version: 2
+ui:
+  session_doc:
+    session: /home/kroussos/campaigns/Phandalin/summaries/20260505/gm-assist.md
+    extract_dir: /home/kroussos/campaigns/Phandalin/summaries/20260505/scene_extractions
+    roleplay_dir: /home/kroussos/campaigns/Phandalin/summaries/20260505/vtt_roleplay_extractions
+    output_dir: /home/kroussos/campaigns/Phandalin/summaries/20260505
+    summary_dir: /home/kroussos/campaigns/Phandalin/summaries/20260505/vtt_extractions
+    session_summary: /home/kroussos/campaigns/Phandalin/summaries/20260505/session-summary.md
+    scene_extractions_dir: /home/kroussos/campaigns/Phandalin/summaries/20260505/scene_extractions_new
+    narration_dir: /home/kroussos/campaigns/Phandalin/summaries/20260505/narration
+    roleplay_summary: /home/kroussos/campaigns/Phandalin/session-roleplay.md
+    party: /home/kroussos/campaigns/Phandalin/docs/party.md
+    voice_dir: /home/kroussos/campaigns/Phandalin/voice
+    examples_dir: /home/kroussos/campaigns/Phandalin/examples
+    characters: Vukradin, Soma, Valphine, Brewbarry
+    gm_player: null
+    narrate_tokens: 18000
+    prose_mode: null
+    reflections: true
+    use_enhanced_sections: false
+    batch: true
+    session_name: null
+    context:
+    - /home/kroussos/campaigns/Phandalin/docs/campaign_state.md
+    - /home/kroussos/campaigns/Phandalin/docs/world_state.md
+    - /home/kroussos/campaigns/Phandalin/docs/party.md
+    campaign_state: docs/campaign_state.md
+    extract_run: true
+    port: ''
+    session_dir: summaries/20260325
+    world_state: docs/world_state.md
+    work_dir: /home/kroussos/campaigns/Phandalin
+  vtt_summary:
+    input: GMT20260429-035840_Recording.transcript.cleaned.vtt
+    output: session-summary.md
+    roleplay_output: session-roleplay.md
+    context: []
+    date: null
+    session_name: null
+    extract_dir: null
+    reference_summaries: summaries/20260325/session-Mar 25th, 2026.md
+    session_summary: null
+    roleplay_summary: null
+    chunk_size: 50000
+    no_log: false
+    session_dir: summaries/20260325
+    summary_run: true
+    synth_only: false
+  grounding:
+    summaries: null
+  campaign_state:
+    chunk_size: 60000
+    extract_dir: docs/state_extractions
+    input: ''
+    output: /home/kroussos/campaigns/Phandalin/docs/campaign_state.md
+    synth_only: false
+    track_file: /home/kroussos/campaigns/Phandalin/docs/tracking.txt
+    track_inline: ''
+  distill:
+    chunk_size: 60000
+    extract_dir: docs/distill_extractions
+    input: ''
+    output: /home/kroussos/campaigns/Phandalin/docs/world_state.md
+    run: true
+    split_chapters: '# Chapter'
+    synth_only: false
+  party:
+    config_path: /home/kroussos/campaigns/Phandalin/config/party.yaml
+    output: /home/kroussos/campaigns/Phandalin/docs/party.md
+    summaries: ''
+    mode: config
+  planning:
+    build_summaries: ''
+    context: '/home/kroussos/campaigns/Phandalin/docs/campaign_state.md
+
+      /home/kroussos/campaigns/Phandalin/docs/world_state.md
+
+      /home/kroussos/campaigns/Phandalin/docs/party.md'
+    npc: '/home/kroussos/campaigns/Phandalin/docs/npcs/adabra.md
+
+      /home/kroussos/campaigns/Phandalin/docs/npcs/aldric_stone_path.md
+
+      /home/kroussos/campaigns/Phandalin/docs/npcs/aletra.md
+
+      /home/kroussos/campaigns/Phandalin/docs/npcs/alphonse_big_al_kalazorn.md
+
+      /home/kroussos/campaigns/Phandalin/docs/npcs/backes_dunfield.md
+
+      /home/kroussos/campaigns/Phandalin/docs/npcs/barthen.md
+
+      /home/kroussos/campaigns/Phandalin/docs/npcs/boney.md
+
+      /home/kroussos/campaigns/Phandalin/docs/npcs/borg_the_hammer.md
+
+      /home/kroussos/campaigns/Phandalin/docs/npcs/brin_bundlewine.md
+
+      /home/kroussos/campaigns/Phandalin/docs/npcs/cooragh_struckt.md
+
+      /home/kroussos/campaigns/Phandalin/docs/npcs/corbin.md
+
+      /home/kroussos/campaigns/Phandalin/docs/npcs/corwin.md
+
+      /home/kroussos/campaigns/Phandalin/docs/npcs/cryovain.md
+
+      /home/kroussos/campaigns/Phandalin/docs/npcs/dabbledob.md
+
+      /home/kroussos/campaigns/Phandalin/docs/npcs/daran_edermath_silverleaf.md
+
+      /home/kroussos/campaigns/Phandalin/docs/npcs/dazlyn_grayshard.md
+
+      /home/kroussos/campaigns/Phandalin/docs/npcs/delaan_winterhound.md
+
+      /home/kroussos/campaigns/Phandalin/docs/npcs/don_jon_raskin.md
+
+      /home/kroussos/campaigns/Phandalin/docs/npcs/dwolin_the_grout.md
+
+      /home/kroussos/campaigns/Phandalin/docs/npcs/elara.md
+
+      /home/kroussos/campaigns/Phandalin/docs/npcs/elara_seasong_meliame.md
+
+      /home/kroussos/campaigns/Phandalin/docs/npcs/facktore.md
+
+      /home/kroussos/campaigns/Phandalin/docs/npcs/falcon_the_hunter.md
+
+      /home/kroussos/campaigns/Phandalin/docs/npcs/fibblestib.md
+
+      /home/kroussos/campaigns/Phandalin/docs/npcs/giles_slipper_shine.md
+
+      /home/kroussos/campaigns/Phandalin/docs/npcs/harbin_wester.md
+
+      /home/kroussos/campaigns/Phandalin/docs/npcs/horia_stonetallow.md
+
+      /home/kroussos/campaigns/Phandalin/docs/npcs/jarek.md
+
+      /home/kroussos/campaigns/Phandalin/docs/npcs/jax.md
+
+      /home/kroussos/campaigns/Phandalin/docs/npcs/jenna.md
+
+      /home/kroussos/campaigns/Phandalin/docs/npcs/king_gnercli.md
+
+      /home/kroussos/campaigns/Phandalin/docs/npcs/king_korboz.md
+
+      /home/kroussos/campaigns/Phandalin/docs/npcs/lady_alagondar.md
+
+      /home/kroussos/campaigns/Phandalin/docs/npcs/linene_graywind.md
+
+      /home/kroussos/campaigns/Phandalin/docs/npcs/locutus.md
+
+      /home/kroussos/campaigns/Phandalin/docs/npcs/lord_cassian_meliame.md
+
+      /home/kroussos/campaigns/Phandalin/docs/npcs/lord_neverember.md
+
+      /home/kroussos/campaigns/Phandalin/docs/npcs/lyra.md
+
+      /home/kroussos/campaigns/Phandalin/docs/npcs/malfire.md
+
+      /home/kroussos/campaigns/Phandalin/docs/npcs/marian.md
+
+      /home/kroussos/campaigns/Phandalin/docs/npcs/martisha_vinetalker.md
+
+      /home/kroussos/campaigns/Phandalin/docs/npcs/meril.md
+
+      /home/kroussos/campaigns/Phandalin/docs/npcs/milo_goodbarrel.md
+
+      /home/kroussos/campaigns/Phandalin/docs/npcs/miral.md
+
+      /home/kroussos/campaigns/Phandalin/docs/npcs/moesko.md
+
+      /home/kroussos/campaigns/Phandalin/docs/npcs/norbus_ironrune.md
+
+      /home/kroussos/campaigns/Phandalin/docs/npcs/out_of_phase_dwarves_axelholm_inhabitants.md
+
+      /home/kroussos/campaigns/Phandalin/docs/npcs/pog.md
+
+      /home/kroussos/campaigns/Phandalin/docs/npcs/qelline_alderleaf.md
+
+      /home/kroussos/campaigns/Phandalin/docs/npcs/reidoth.md
+
+      /home/kroussos/campaigns/Phandalin/docs/npcs/rot_tusk_ogre.md
+
+      /home/kroussos/campaigns/Phandalin/docs/npcs/runa.md
+
+      /home/kroussos/campaigns/Phandalin/docs/npcs/ser_kaelen.md
+
+      /home/kroussos/campaigns/Phandalin/docs/npcs/shrimpy.md
+
+      /home/kroussos/campaigns/Phandalin/docs/npcs/sister_kaella.md
+
+      /home/kroussos/campaigns/Phandalin/docs/npcs/skippy.md
+
+      /home/kroussos/campaigns/Phandalin/docs/npcs/sridar.md
+
+      /home/kroussos/campaigns/Phandalin/docs/npcs/sylvine_wintermoon.md
+
+      /home/kroussos/campaigns/Phandalin/docs/npcs/teega_the_smith.md
+
+      /home/kroussos/campaigns/Phandalin/docs/npcs/the_anchorite_half_orc.md
+
+      /home/kroussos/campaigns/Phandalin/docs/npcs/the_carver.md
+
+      /home/kroussos/campaigns/Phandalin/docs/npcs/the_chief_accountant.md
+
+      /home/kroussos/campaigns/Phandalin/docs/npcs/the_cult_fanatic.md
+
+      /home/kroussos/campaigns/Phandalin/docs/npcs/the_dwarven_king.md
+
+      /home/kroussos/campaigns/Phandalin/docs/npcs/the_orc_scout.md
+
+      /home/kroussos/campaigns/Phandalin/docs/npcs/the_stag.md
+
+      /home/kroussos/campaigns/Phandalin/docs/npcs/thomas.md
+
+      /home/kroussos/campaigns/Phandalin/docs/npcs/tibor_wester.md
+
+      /home/kroussos/campaigns/Phandalin/docs/npcs/toblen_stonehill.md
+
+      /home/kroussos/campaigns/Phandalin/docs/npcs/ulla.md
+
+      /home/kroussos/campaigns/Phandalin/docs/npcs/xanth.md
+
+      /home/kroussos/campaigns/Phandalin/docs/npcs/zeleen_varnaster.md'
+    output: /home/kroussos/campaigns/Phandalin/docs/planning.md
+    summaries: ''
+  prep:
+    config: config/config.yaml
+  npc:
+    config: /home/kroussos/campaigns/Phandalin/config/config.yaml
+  query:
+    input: ''
+  workflow:
+    gm_recap: summaries/20260325/gm-assist.md
+    ref_count: 0
+    ref_path_0: ''
+    ref_type_0: GMassistant
+    session_dir: summaries/20260325
+    vtt_file: summaries/20260325/GMT20260325-035359_Recording.transcript.vtt
+  connections:
+    docs_dir: /home/kroussos/campaigns/Phandalin/docs
+  experimental:
+    make_tracking:
+      output: /home/kroussos/campaigns/Phandalin/docs/tracking.txt
+    narrative:
+      party: /home/kroussos/campaigns/Phandalin/docs/party.md
+runtime:
+  default_model: claude-sonnet-4-6
+  session_dir: /home/kroussos/campaigns/Phandalin/summaries/20260429
+legacy:
+  unmigrated:
+    nav_session: ③ Scene Extraction
+    ui.session_doc.narrate_tokens: ''
+    ui.session_doc.context: 'docs/campaign_state.md
+
+      docs/world_state.md
+
+      docs/party.md'
+    ui.vtt_summary.context: '/home/kroussos/campaigns/Phandalin/docs/campaign_state.md
+
+      /home/kroussos/campaigns/Phandalin/docs/world_state.md
+
+      /home/kroussos/campaigns/Phandalin/docs/party.md'

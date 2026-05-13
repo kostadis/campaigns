@@ -8,7 +8,7 @@ In the aftermath of the battle at Dragonbarrow, the party healed the wounded cen
 - Brewbarry revealed key backstory: he was sober during his Uthgardt years; found a goodberry after his tribe's artifact was stolen, ate it, and his tribe mistook his calm for drunkenness, leading to his exile; he only discovered alcohol after exile ("Sobriety was wasted youth")
 - Soma cast Cure Wounds on the wounded centaur Xanth (12 HP), fully restoring him
 - Xanth (full name Xanthopoulos) provided regional exposition: the white dragon displaced orc tribes from the Ice Spire Mountains, fracturing them into factions including Talosian-aligned orcs
-- Xanth recognized Meril's Staff as belonging to his old friend Meryl, noted it once had more leaves, and pledged his help to the party
+- Xanth recognized Meril's Staff as belonging to his old friend Meryl, noted it once had more leaves in some prior era of the artifact (**the staff currently has one leaf — newly grown under Soma's care; the staff *gains* leaves as Soma accepts her role, it does not lose them**), and pledged his help to the party
 - Xanth identified the Carver's three lieutenants: Borg (dead), Jax (dead), Sister Kaella (captured) — two of three eliminated
 - Valphine revived Sister Kaella with a medicine check (15), then interrogated her with intimidation (16 with advantage)
 - Kaella revealed: the Carver has gone mad; he is heading to Icespire Hold to possess the white dragon; she had been working against him after he blamed her for intelligence failures following Borg's death
@@ -49,7 +49,7 @@ In the aftermath of the battle at Dragonbarrow, the party healed the wounded cen
 - **Sister Kaella in Corbin's Custody:** Left with someone who has a personal grudge against her; her fate and any further intelligence she might provide remain unresolved.
 - **Phandalin Evacuation:** Kaella suggested evacuating Phandalin to Axeholm; party did not act on this — town remains unwarned and unprotected.
 - **Obsidian Sword:** New item carried by the Carver; nature and powers unknown but suspected to drain levels.
-- **Meril's Staff / Xanth Connection:** Xanth recognized the staff as Meryl's artifact and noted it once had more leaves — deeper significance unexplored.
+- **Meril's Staff / Xanth Connection:** Xanth recognized the staff as Meryl's artifact and noted it once had more leaves in a prior era — **deeper significance unexplored, but the directional fact is established: the leaf currently on the staff is *newly grown* (not a depleted survivor). The staff gains leaves as Soma accepts her role.**
 - **Necklace of Fireballs Utility:** Vukradin noted a white dragon would likely be immune to fire, limiting the necklace's usefulness in the coming fight.
 - **Expanded Whispering Grove Planar Rift:** Still unresolved and threatening the region.
 - **Neverwinter Statue Return:** Still pending.
