@@ -145,7 +145,7 @@ Valphine is a former Drow of House Sartorra who found Lathander — or rather, f
 Soma is old by tortle standards — somewhere past 45 — and she carries that age as patience rather than weariness. She spent most of her life in quiet naturalist practice along the coast before a year of druidic training with Meril cracked open something larger. She presents as unhurried and dry-witted, but she will come out of her shell for those she has taken under her wing. She calls the party her "bale" and treats them as hatchlings whether they like it or not. Her philosophical framework — naturalism, non-intervention — has been destabilized by the events of the campaign, and she is still reckoning with what she actually believes. The druid council vindicated her interventionism, but Adabra's attack landed, particularly the accusation about Corbin.
 
 **Notable Relationships:**
-- *Meril's Staff:* The central object of her arc. Three leaves remain. Xanth has confirmed twice that Meril chose her deliberately. The staff communicates ahead of her own perception. She is resisting full acceptance of what it means.
+- *Meril's Staff:* The central object of her arc. **Three leaves have grown so far** (up from one at chapter 34 when Xanth first identified it). **The staff gains leaves as Soma accepts her role; each new leaf marks an arc milestone — never depleted.** Xanth has confirmed twice that Meril chose her deliberately. The staff communicates ahead of her own perception. She is resisting full acceptance of what it means.
 - *Adabra:* Relationship severed. Adabra views Soma as corrupted by interventionism and used Corbin's death against her at the druid council.
 - *Lyra:* Strengthened; Soma defended her at the council; Lyra restored to full standing.
 - *Xanth:* Departed; his farewell was explicit — "she will do great things." He confirmed Meril's intentionality. Soma is processing this.
@@ -154,7 +154,7 @@ Soma is old by tortle standards — somewhere past 45 — and she carries that a
 - *Boney:* Loyal skeletal horse companion; Soma convinced him she was Lady Alagondar reincarnated; she has accepted this relationship with pragmatic warmth.
 
 **Items of Significance:**
-- Meril's Staff (three leaves remaining; actively responsive; the central artifact of her arc)
+- Meril's Staff (three leaves grown so far under Soma's care; **staff gains leaves as Soma accepts her role — never loses them**; actively responsive; the central artifact of her arc)
 - Shark tooth necklace
 - Magical goggles granting darkvision (from carrion crawler's lair in the mine)
 - Druidic scroll (recovered from bandits; provenance contested; still unresolved)

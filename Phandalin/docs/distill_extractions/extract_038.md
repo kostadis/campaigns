@@ -80,7 +80,7 @@
 **Meril**
 - Current location: Unknown (absent)
 - Current state: Unknown
-- Revealed information: Was Soma's druidic teacher; trained Soma for only one year before sending her out; bequeathed the staff to Soma; holds symbolic standing among druids; staff is losing leaves over time
+- Revealed information: Was Soma's druidic teacher; trained Soma for only one year before sending her out; bequeathed the staff to Soma; holds symbolic standing among druids; **staff gains leaves over time as Soma accepts her role (it does not lose them; Xanth's "once had more leaves" line refers to a prior era of the artifact before Soma)**
 
 **The Innkeeper** (unnamed)
 - Current location: Phandalin (town green/festival)
@@ -201,7 +201,7 @@
 ## Threads & Mysteries
 
 - **The Druid Conclave**: Adabra is actively mobilising druids to condemn the party's actions at the Whispering Grove. The conclave's outcome is unresolved. Some druids may attempt to strip Soma of Meril's staff.
-- **Meril's Staff**: The staff is losing leaves over time. Its full nature, significance, and why Meril gave it to Soma after only one year of training remain unexplained. The staff holds symbolic standing among druids that even Ser Kaelen does not fully understand.
+- **Meril's Staff**: **The staff gains leaves over time as Soma accepts her role (it does not lose them).** Its full nature, significance, and why Meril gave it to Soma after only one year of training remain unexplained. The staff holds symbolic standing among druids that even Ser Kaelen does not fully understand.
 - **The Whispering Grove Incident**: Referenced as involving a treant and some form of concealment of what "really happened." The full details of the incident and what Adabra has specifically discovered are not disclosed in these notes.
 - **The Earthstone Gem**: Required by Dwolin the Grout before the gold vein at Mountain's Toe Mine will produce. Nature of the gem (whether genuinely magical or merely superstition) is unresolved. Were-rats have been sent into orc-occupied forest to retrieve it; their success is uncertain.
 - **Plan B — The Fake Gem**: Horia Stonetallow has 50 gold authorised to purchase a fake gem if the were-rats fail. This agreement is being concealed from Vukradin. Whether the fake gem would satisfy Dwolin is unknown.

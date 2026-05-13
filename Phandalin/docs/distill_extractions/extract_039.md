@@ -268,7 +268,7 @@
 
 - **Adabra's next move**: She left the council without accepting the verdict, described as "seething" and choosing "a different battlefield." Soma fears she may return "in greater numbers." What will she do next?
 - **Sister Kaella at large**: Killed Corbin and escaped. Her current location and intentions are unknown. She is described as a deadly assassin in priest's cloth.
-- **Meril's Staff — diminishing leaves, growing power**: The staff is losing leaves but gaining power. Soma finds this correlation uncomfortable. What does it signify? What is the staff's true nature and full potential?
+- **Meril's Staff — growing leaves, growing power**: **The staff gains leaves as Soma accepts her role; each new leaf brings more power.** Soma finds this correlation uncomfortable — it means the staff is responding to her, not the other way around. What does it signify? What is the staff's true nature and full potential?
 - **Meril's intentions**: Why did Meril choose Soma specifically? Was it deliberate strategic placement of the staff outside Enclave orthodoxy? Xanthopoulos confirmed it was intentional. Where is Meril now?
 - **Reidoth's absence and response**: Reidoth was away when the council was called. Vukradin sent him a Sending about the schism. How will Reidoth respond? Will he return?
 - **Growing resentment toward Vukradin's persuasive abilities**: Soma privately observes that people around Phandalin who made choices "with him in the air" are starting to count backward and wonder how much of their choices were their own. "Resentment grows slow. Like rot under a floorboard."

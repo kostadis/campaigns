@@ -4,7 +4,7 @@
 - Brewbarry declares "sobriety was wasted youth," reflecting that he missed out on the pleasures of wine, beer, and hard liquor during his tribal years.
 - Soma casts Cure Wounds on the wounded centaur Xanth, healing him for 12 HP and restoring him to health.
 - Xanth (full name: Xanthopoulos) introduces himself with a Greek accent and provides exposition on the regional situation: a white dragon moved into the Icepire Mountains, displacing orc tribes southward, causing them to fracture into multiple factions including Talosian-aligned orcs.
-- Xanth recognizes Valphine's staff (Meril's Staff) as a powerful artifact belonging to his old friend Meryl, noting it once had more leaves. He pledges his help to the party upon seeing it.
+- Xanth recognizes Valphine's staff (Meril's Staff) as a powerful artifact belonging to his old friend Meryl, noting it once had more leaves in a prior era of the artifact. **(Directional fact: the leaf currently on the staff is newly grown — the staff *gains* leaves as the bearer accepts the role; it does not lose them. Do not interpret Xanth's past-tense observation as ongoing depletion.)** He pledges his help to the party upon seeing it.
 - Xanth reveals the Carver had three lieutenants: Borg (killed by party), Zax/Jax (killed by party), and Sister Kaella (captured). Two of three are now dead.
 - Xanth comments on the Emerald Enclave's internal dysfunction — factions arguing about naturalism vs. interventionism while orcs and the dragon terrorize the region.
 - Sister Kaella is revived to consciousness with a medicine check (rolled 15) by Valphine.

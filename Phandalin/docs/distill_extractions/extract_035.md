@@ -40,7 +40,7 @@
 - Current state: Unknown
 - Recent actions: Left his staff at Soma's house
 - Faction: Unknown; old friend of Xanth
-- Revealed motivations/secrets: His staff is described as powerful; it once had many leaves and now has one; Xanth states Meril must know Soma to have entrusted it to her
+- Revealed motivations/secrets: His staff is described as powerful; **the staff once had many leaves in some prior era of the artifact and is now growing back under Soma's care, with one leaf so far** (the staff *gains* leaves as the bearer accepts the role; it does not lose them); Xanth states Meril must know Soma to have entrusted it to her
 
 **Sister Kaella**
 - Current location: Party's camp/tent, in Corbin's custody; expressed preference to be taken to Axholm prison
@@ -129,7 +129,7 @@
 - Xanth was healed by Soma and recovered from his injuries following the battle
 - Xanth identified Vukradin by his Centaurian name Vucravinios and introduced himself as Xanthopoulos, going by Xanth
 - Xanth explained that a white dragon descended into the Icespire Mountains, displacing the orcs who lived there into the valleys below, causing the orc incursions into settled lands
-- Xanth identified Meril's Staff as a powerful artifact, noted it once had more leaves than its current single leaf, and stated Meril must know Soma to have entrusted it to her
+- Xanth identified Meril's Staff as a powerful artifact, noted it once had more leaves than its current single leaf in some prior era of the artifact (**the current single leaf is newly grown under Soma's care; the staff gains leaves as the bearer accepts her role**), and stated Meril must know Soma to have entrusted it to her
 - Xanth named the Carver's three lieutenants as Borg, Sister Kaella, and Zax, confirming Borg is dead via animal network intelligence
 - The party decided to travel directly to Icespire Hold rather than detour through Phandalin, to avoid arriving exhausted and to deny political opponents ammunition
 - Vukradin negotiated with Xanth to carry himself and Valphine to the foothills near the gold mine; Soma would carry another rider in wild shape (bear form); Boney would carry remaining riders
@@ -209,7 +209,7 @@
 - **The Carver's nature**: Described as walking without rest, breath, or soul; Soma identifies him as possessed; the exact nature of the possessing entity is unknown; whether any part of the original person survives is unresolved
 - **The obsidian sword**: Identified as level-draining; origin, history, and full capabilities unknown
 - **Zax/Jax**: Third lieutenant of the Carver; unaccounted for; location and current activities unknown
-- **Meril's Staff**: Identified by Xanth as powerful; once had more leaves than the current single one; Xanth implies a meaningful history between Meril and the staff; what the staff is capable of, what caused the loss of leaves, and what Meril's intentions were in leaving it with Soma are all unresolved
+- **Meril's Staff**: Identified by Xanth as powerful; once had more leaves than the current single one in some prior era of the artifact (**the leaf on it now is newly grown — the staff *gains* leaves under Soma's care as she accepts her role; it does not lose them**); Xanth implies a meaningful history between Meril and the staff; what the staff is capable of, **what caused the staff to lose its leaves in the prior era (before Soma)**, and what Meril's intentions were in leaving it with Soma are all unresolved
 - **Meril**: His current location and state are unknown; Xanth describes him as an old friend; he left the staff in Soma's house apparently deliberately
 - **Valphine's arrangement with Kaella**: The full terms and history of their covert arrangement are not stated
 - **Corbin and Kaella's history**: An unspecified adversarial or power-imbalanced history exists between them; Kaella screamed when assigned to his care; Valphine noted something in Corbin's expression described as a specific hunger; what happened between them in the Carver's organization is unknown

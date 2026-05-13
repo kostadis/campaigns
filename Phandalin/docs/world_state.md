@@ -26,11 +26,11 @@
 - **Race/Class:** Tortle Druid (naturalist tradition; invokes Mielikki)
 - **Current Location:** Treeline below the Circle of Thunder; mounted on Boney
 - **Current State:** Alive; dropped Wild Shape after elk form; riding Boney; currently has at least one Wild Shape use remaining (bear); holds three-leaf staff
-- **Equipment/Resources:** Meril's Staff (three leaves remaining; leaves diminishing as power grows; staff communicates ahead of her senses; recently responded to proximity to the Circle of Thunder); shark tooth necklace; druidic scroll (recovered from bandits, provenance contested)
+- **Equipment/Resources:** Meril's Staff (three leaves grown so far under Soma's care, up from one when she received it; **the staff gains leaves as Soma accepts her role — never loses them**; staff communicates ahead of her senses; recently responded to proximity to the Circle of Thunder); shark tooth necklace; druidic scroll (recovered from bandits, provenance contested)
 - **Wild Shape Available:** At least one use (bear form confirmed available); recently used giant elk and bear
 - **Active Obligations:** Investigate the afflicted grove past Whisper Woods (partially executed; planar rift worsened); confront Adabra about the Whispering Grove (partially done); attend the druid conclave outcome (done — interventionist position won)
 - **Personal Goals:** Keeping the world safer; ensuring all creatures have a place to live; maintaining peace among the land; no ambitions for power or legacy. Age: 45. Has a clutch. Left her family behind. Has "so little time left" (nature of this constraint unexplained)
-- **Meril's Staff:** Xanth confirmed Meril chose Soma deliberately, not for sentiment. The staff had more leaves before; now three. What Meril intended and why he chose Soma are unresolved. Soma suspects Meril was torn between naturalism and intervention
+- **Meril's Staff:** Xanth confirmed Meril chose Soma deliberately, not for sentiment. **The staff has grown two new leaves since Soma began carrying it** (one leaf at chapter 34 — Xanth's first observation — to three leaves now). Each new leaf marks a moment of acceptance, intervention, or recognition. Xanth's line that the staff "once had more leaves" refers to some prior era of the artifact, before Soma — the leaves under her care have only ever grown. What Meril intended and why he chose Soma are unresolved. Soma suspects Meril was torn between naturalism and intervention
 - **Notable:** Is processing Xanth's farewell: *"This one was blessed by Meril, and I know that she will do great things. Peace, Beauty."*
 
 ### VALPHINE (House Sartorra / Satora by birth)
@@ -149,7 +149,7 @@
 - Soma's druidic teacher; trained her for approximately one year; left her his staff; "moved on" (implied deceased or departed)
 - Xanth confirms Meril chose Soma deliberately: *"He did not give it for sentiment. He gave it because he picked her."*
 - Xanth says Meril walked toward "this particular rot in the world" in his last years — implying a connection to the Circle of Thunder or the wider planar disturbances
-- Staff: Once had many leaves; now three. Power growing as leaves diminish. Warned Soma at the cursed clearing. Responded to proximity to the Circle of Thunder. Staff is losing leaves but each remaining leaf represents intensifying potency
+- Staff: In some prior era (before Soma), had more leaves than it had when she received it. **Under Soma's care, the staff has grown from one leaf (chapter 34, Xanth's first observation) to three leaves (current).** Each new leaf marks a moment of Soma's growth into her role — acceptance, intervention, recognition. Warned Soma at the cursed clearing. Responded to proximity to the Circle of Thunder. **The staff gains leaves as Soma accepts what Meril intended — direction matters; do not narrate as depletion.**
 
 ### SISTER KAELLA (SISTER KELLA)
 - **Status:** Alive; escaped; at large
