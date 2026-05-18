@@ -63,7 +63,7 @@ Boney is a skeleton on a horse. I mean — Boney is a skeletal horse who carries
 
 The anchorite was still breathing. Not for long.
 
-Orc 7 decided to charge into the cluster of us, which was brave, if unwise. My body moved before I decided to move — the Dragon Slayer was already coming up, the first swing gone wide, and then Vukradin's gift was still in my hands, the advantage still warm, and the second swing connected with everything I had behind it. The orc went down hard and didn't get up.
+Orc 7 decided to charge into the cluster of us, which was brave, if unwise. My body moved before I decided to move — the halberd was already coming up, the first swing gone wide, and then Vukradin's gift was still in my hands, the advantage still warm, and the second swing connected with everything I had behind it. The orc went down hard and didn't get up.
 
 From somewhere to my left, Vukradin's voice carried that particular note of someone who is trying to sound irritated but is actually just amused:
 

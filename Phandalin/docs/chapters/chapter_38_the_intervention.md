@@ -134,9 +134,9 @@ I looked down at the staff in my hands.
 
 For a long time it had just been the thing Meril left in my cabin. A good staff. A friend's staff. Something to keep near the door with the walking sticks and old line. I did not know it would become a question everyone else expected me to answer.
 
-The leaves were fewer than before.
+The leaves were more than before.
 
-I noticed. Of course I noticed. You notice when the roof starts leaking. You notice when the net frays. You notice when an old tool changes in your grip.
+I noticed. Of course I noticed. You notice when something old in your hands begins to wake up. You notice when the net mends itself in the night. You notice when an old tool changes in your grip.
 
 Meril had come to me late. Stayed longer than most travelers. Took tea. Taught me names for things I had been doing by instinct for years. Then he left me this staff and moved on.
 
@@ -740,7 +740,7 @@ Xanthopoulos had said it near the end. Quiet. Almost to himself.
 
 I had heard it. I don't think he intended me to hear it as much as I did.
 
-The staff rested against my side. Familiar weight. Slight warmth. Fewer leaves than last month. More power than before.
+The staff rested against my side. Familiar weight. Slight warmth. More leaves than last month. More power with them.
 
 I did not like how neatly that lined up.
 

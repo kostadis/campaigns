@@ -326,7 +326,7 @@ The room didn't change. The light was the same. The blistered acolytes were stil
 
 *Retain the staff.* As if it were a matter of proper custody. As if Meril's hands weren't in the grain of it, and Xanth's recognition of it hadn't meant what I knew it meant.
 
-The staff has fewer leaves than it once did. I've noticed. I notice things like that.
+The staff has more leaves than it did when Meril left it with me. I've noticed. I notice things like that.
 
 "They're not taking it from me," I said. "This has at least sentimental value."
 

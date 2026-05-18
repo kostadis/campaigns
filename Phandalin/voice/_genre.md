@@ -1,0 +1,60 @@
+# Phandalin Narration Genre
+
+## Directive (paste-ready)
+
+Phandalin is character-centered literary fantasy narrated in close first-person past tense, one POV per section, with the heading naming the character. The prose breathes with whoever is speaking — Vukradin's principled volleys, Soma's tortle-patient asides ("shell sprout"), Valphine's drow-aesthete pain theology ("deliciously painful"), Brewbarry's short declaratives. Tone shifts scene to scene: earnest moral conviction, dark comedy from contradiction, mechanical procedural during combat (hit points, saves, the named spell), then back to lyrical interior. Dialogue carries subtext; characters rarely say what they mean. Magic and corruption are felt somatically before they are named. Description is sparse but specific; favor the material noun over the poetic image. The narrator never editorializes — each POV's frame is the only frame.
+
+## Expanded notes
+
+### POV conventions
+
+- **One POV per section.** Each section begins with a `### <Character Name>` heading, then narrates entirely from inside that character's head.
+- **First-person past tense is the default** ("I", "we"). Some chapters drift into close third-person past with the same character's vocabulary; both are acceptable, but first-person reads as the more honest mode and should be preferred when in doubt.
+- **POV switches happen at section breaks**, not mid-paragraph. Never narrate someone else's interior thoughts; report what the POV character *observes* of them.
+- **The POV character's frame is the only frame in their section.** If Vukradin thinks Ser Kaelen is suspicious, the section reads as if Ser Kaelen is suspicious; another POV can disagree in their own section.
+- **Use the POV character's vocabulary for everything**, including how other characters and creatures are described. Soma calls the party "my bale" and Vukradin "shell sprout." Valphine calls the surface "the Overbright." Brewbarry uses short words. Don't break the character's lexicon to be precise.
+
+### Sentence rhythm
+
+- **Sentence length tracks emotional content.** Long, clause-stacking sentences during moral deliberation and lyrical observation; short, flat sentences when decision is made; mechanical clipped sentences for combat actions.
+- **Combat prose alternates the procedural and the felt.** "My powerful bite landed true, dealing eighteen points of damage, though the creature managed to elude my grappling attempt." The hit points are not hidden — they sit inside the same sentence as the bodily sensation.
+- **Dialogue is broken in.** Tag lines are minimal — often just a thought between the speech beats — and characters interrupt each other, talk past each other, finish other characters' sentences.
+- **Italics for direct thought** (single words or short phrases): *Plunder.* *Shell sprout.* *The numbers. Always the numbers.* Don't overuse — italicized thoughts are punctuation, not paragraphs.
+
+### Tonal range
+
+- **Earnest moral conviction** (Vukradin's "conflict-free, fair-trade gold" speeches, Soma's reckonings with her own naturalism)
+- **Dark or absurdist comedy from contradiction** — usually unintentional from the character's POV. Vukradin lecturing Ogres about music. Valphine narrating execution as theological glory. Brewbarry asking the pool "what side of the bread should I butter?"
+- **Procedural combat** — distances in feet, hit points, named spells, condition tracking ("prone," "charmed," "concentration broken"). Render this *inside* the character's reaction, not separately from it.
+- **Lyrical observation** during travel, environmental wrongness, planar effects. Stays grounded in sensory specifics; never floats into pure description without a character holding it.
+- **The narrator never editorializes.** No "and so, he learned a valuable lesson" framing, no winking at the reader. Conclusions belong to the character; the reader is trusted to weigh them.
+
+### Stylistic do's
+
+- Name specific objects (the halberd, the conch, the brass ring, the windmill, the cornfields) rather than gesture at categories.
+- Let characters be wrong, contradicted by the next section, and never have the narrator correct them.
+- Drop hit points, distances, spell names directly into prose. Mechanics are not separate from feeling.
+- Use the character's stock phrases verbatim — they are signatures: "fair-trade, conflict-free gold," "deliciously painful," "shell sprout," "the Overbright," "my bale."
+- Reach for the sensory specific (the smell of fear, the chill of the blade entering, the heat off Iymrith) before the metaphor.
+- Italics for one-word thoughts; em-dash for interrupted speech or thought.
+
+### Banned tics / anti-patterns
+
+- **"the shape of X"** — Claude tic for gesturing at pattern without naming it. Never use. If you find yourself reaching for it, name the actual thing instead.
+- **Narrator editorializing** — "It was a moment that would define him." Drop the frame; let the moment land.
+- **Generic fantasy reach** — "his eyes blazed with ancient fury," "the air itself seemed to thrum." Specific or nothing.
+- **POV bleed** — do not narrate another character's thoughts inside a POV section. Report observed behavior only.
+- **Symmetrical descriptions** — "neither tall nor short, neither thin nor fat." Pick the precise quality and commit.
+- **Recap framing** — do not have characters mentally summarize what just happened for the reader's benefit ("After the battle, I reflected on what we had accomplished today..."). Let the next scene reveal what carried over.
+- **Adverb-heavy combat** — "quickly", "swiftly", "powerfully". The verb should carry it.
+- **Mock-archaic register** — no "verily," "forsooth," "the night was upon us." Modern, plain English in character vocabulary.
+
+### Genre tags
+
+- character-centered literary fantasy
+- POV-rotating ensemble (close first-person past, one per section)
+- procedural/mechanical D&D combat woven inside interior reaction
+- moral comedy of misalignment (characters' principles colliding with each other and reality)
+- noir-tinged political intrigue (Phandalin Privy Council, Order of the Gauntlet, Lord's Alliance, Emerald Enclave schism)
+- somatic-first horror (planar wrongness felt before named)
+- grim but not grimdark — humor survives the worst scenes

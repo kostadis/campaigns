@@ -1,0 +1,261 @@
+# Continuity Report — Chapter 41: "Unraveling the Storm God's Secrets"
+
+---
+
+## Triage (verified 2026-05-17 against character sheets, `docs/party.md`, and `notes/session_prep/circle_of_thunder.md`)
+
+- **Real issues, fix in `session-summary.md`:** 1, 2, 4, 5, 8, 9, 13, 16, 17, 18, 19, 20, 21, 22
+- **Real issues, need DM/player decision:** 10, 14, 23
+- **Intentional mysteries (note in recap as open, don't try to resolve):** 15 (eastern-clan boy is a deliberate seed for the "Chosen" arc)
+- **False alarms — close (LLM error, not a source error):** 3, 6, 7, 11 (superseded by 16), 12
+  - **3 (Boots of Elvenkind):** Falcon **is the patron** offering the boots as the reward for clearing the **Woodland Manse** (per DM confirmation 2026-05-17). The recap's wording — "Falcon had previously agreed to offer boots of elvenkind as a reward for dealing with these threats" — is correct. `docs/party.md:12` lists the boots under the Woodland Manse quest line; the lodge quest line (`docs/party.md:11`) has a different reward (studio wood). Two distinct quests, both with Falcon as quest-giver. No fix needed.
+  - **6 (Hold Person):** Vukradin's sheet lists Hold Person at `characters/vukradin.md:175`. Valid spell, no fix needed.
+  - **7 (Starry Wisp):** Vukradin's sheet lists Starry Wisp cantrip at `characters/vukradin.md:164` (2024-rules Bard list). Valid cantrip, no fix needed.
+  - **12 ("the bear comes"):** Transcription error — see ISSUE 17. The prep text reads "the **boar** comes" (Gorthok, the leashed boar-deity). Not a mystery; a misheard word.
+  - **13 (Grannoc unidentified):** Prep identifies him as the **Talosian anchorite at the Woodland Manse** preparing the same ritual the party just interrupted. He is the next-scene antagonist. The recap should name him in NPCs, but the figure is not a mystery — it's a quest hook.
+  - **15 ("boy from the Eastern clan"):** Prep settles this: the boy is **from Prutha's clan but is NOT Prutha** ("My clan is the eastern clan. The boy is not me. There are not many of us left who would say yes to them"). The leash must still not be revealed to Prutha per the letter, but the boy's identity is an open mystery the DM is seeding for the "Chosen" arc — not a missing fact.
+- **Verifications worth recording:**
+  - **2 (Valphine):** `characters/valphine.md:8` confirms **Female**. Pronoun fix is "she/her", no need to ask the player.
+  - **4 (Falcon's Lodge apology precondition):** `docs/party.md:11` confirms "deferred until Falcon personally apologizes to Vukradin."
+  - **8 (Prutha):** `docs/party.md:33` lists Prutha as "first Lathander convert; new orc ally." No Order of the Gauntlet affiliation anywhere in the party doc — that line in `session-summary.md:174` is a fabrication.
+
+---
+
+## ISSUE 1: Brewbarry's Weapon — Elemental Cleaver Described as Hand Axe vs. Unconfirmed "Cleaver"
+
+**Location:** Items / Summary / Scenes (Battle at the Circle of Thunder)
+
+**Issue:** The recap introduces "Brewbarry's elemental cleaver" as his primary combat weapon, described in the Items section as "a powerful hand axe" that deals additional acid damage and returns to the wielder's hand. No such item appears on Brewbarry's character sheet.
+
+**Evidence:** Party document lists Brewbarry's items as: Dragon Slayer Sword (+1), Halberd +1, Dread Helm, Gauntlets of Ogre Power, Scale Mail, and multiple handaxes. No "elemental cleaver," no acid-damage weapon, and no returning weapon property are listed anywhere on his sheet.
+
+**Suggested Fix:** Either confirm this item was acquired during or before this session and update the party document, or correct the recap to use a weapon that appears on Brewbarry's sheet (most likely his Dragon Slayer Sword or Halberd +1). Do not carry "elemental cleaver" forward as an established item without confirming its source.
+
+---
+
+## ISSUE 2: Valphine's Gender — Consistently Referred to with Wrong Pronoun in One Scene
+
+**Location:** Scenes (Aftermath and Ideological Clashes)
+
+**Issue:** In the Scenes section, the recap reads: "Valphine summons spectral guardians that swirl around **him**" and "Holy symbols of Talos and hide armor are found on the anchorites' bodies. Vukradin wants to return the holy symbols to their owners, while Valphine wants to take them for further study." Later in the same section: "Prutha acknowledges the power of Lathander's dawn, making suitable grunts and waving his axe in approval" — this is attributed to Prutha, but in the Summary section the same gesture is attributed to Prutha acknowledging *Valphine*, which is consistent. The pronoun issue stands.
+
+**Evidence:** Party document does not explicitly state pronouns, but Valphine's player is listed as Gary and no pronoun note is made either way. More importantly, the Summary refers to Valphine neutrally by name throughout without pronoun use, while the Scenes section uses "him." If Valphine is female (as "Valphine Sotorra" and the Drow characterization may suggest), this is an error. Flag for DM/player confirmation.
+
+**Suggested Fix:** Confirm Valphine's pronouns with the player and apply consistently across all recap sections.
+
+---
+
+## ISSUE 3: Boots of Elvenkind — Wrong Quest Attribution **[RESOLVED — false alarm]**
+
+**Status:** Falcon is the patron of the Woodland Manse quest and the boots of elvenkind are his offered reward (DM confirmation 2026-05-17). The recap is correct as written. The Falcon's Lodge quest is a separate quest from the same patron with a different reward (studio wood). No fix needed in the recap.
+
+---
+
+## ISSUE 4: Falcon's Lodge Quest — Precondition for Engagement Omitted
+
+**Location:** Scenes (The Final Cave and the Map Fragment) / NPCs (Falcon) / Locations (Falcon's Hunting Lodge)
+
+**Issue:** The recap describes the party's strained relationship with Falcon and Valphine's intent to "smooth things over," but omits a significant campaign state detail that affects how this relationship should be characterized.
+
+**Evidence:** The party document states the Falcon's Lodge quest is "deferred until Falcon personally apologizes to Vukradin." This is not a case of the party simply needing to smooth things over with a wronged NPC — the party has explicitly made their engagement conditional on receiving an apology from Falcon first. The recap frames it entirely as the party needing to manage Falcon's grievance, reversing the actual dynamic on record.
+
+**Suggested Fix:** Add a note that the party's deference on Falcon's Lodge is not purely diplomatic goodwill — Vukradin has a standing condition (Falcon must apologize to him) before the lodge quest proceeds. Future sessions should not frame this as one-sided reconciliation.
+
+---
+
+## ISSUE 5: Holy Symbols Destruction — Contradictory Attribution Between Summary and Items Section
+
+**Location:** Summary vs. Items (Holy Symbols of Talos)
+
+**Issue:** The Summary states "Prutha solved the problem by destroying the symbols himself," while the Items section states "Valphine placed them on the skull of an anchorite and smashed them with his mace."
+
+**Evidence:** These two accounts directly contradict each other. The Memorable Moments section and the Scenes section both attribute the destruction to Prutha. The Items section is the outlier.
+
+**Suggested Fix:** Correct the Items section to match the majority account: Prutha destroyed the holy symbols. Remove the detail about Valphine placing them on a skull and smashing them with a mace, unless this was a separate act on a separate symbol, which should then be clarified explicitly.
+
+---
+
+## ISSUE 6: Vukradin's Spell — Hold Person ~~Not on Bard List~~ **[RESOLVED — false alarm]**
+
+**Status:** Vukradin's sheet at `characters/vukradin.md:175` explicitly lists Hold Person as a known spell (PHB-2024 Bard list includes Hold Person). The original flag was based on the 2014 Bard list, which is wrong for this character. No action needed.
+
+---
+
+## ISSUE 7: Starry Wisp Listed as Vukradin's Spell **[RESOLVED — false alarm]**
+
+**Status:** Vukradin's sheet at `characters/vukradin.md:164` lists Starry Wisp as a known cantrip (+7 to hit, 2d8 radiant, V/S, 60 ft.) — fully consistent with the recap's description. The original flag missed that this Bard uses the 2024 cantrip list. No action needed.
+
+---
+
+## ISSUE 8: Prutha — Described with Contradictory Characterization
+
+**Location:** NPCs (Prutha)
+
+**Issue:** The NPCs section describes Prutha as "a ruthless warrior committed to the Order of the Gauntlet" in the opening line, then separately describes him as someone who "follows the party like a puppy" and is "fiercely loyal." The Order of the Gauntlet commitment is not established in the party document.
+
+**Evidence:** The party document identifies Prutha as "first Lathander convert" and "new orc ally" under collective resources. He is described as having pledged "to the drow cleric" (Valphine) and is part of Valphine's congregation (Brin, Giles, Prutha). There is no mention of Prutha having any affiliation with the Order of the Gauntlet. His loyalty is to Valphine and Lathander, not to the Order.
+
+**Suggested Fix:** Remove "committed to the Order of the Gauntlet" from Prutha's NPC description. He is a Lathander convert and orc ally of the party, not an Order of the Gauntlet member.
+
+---
+
+## ISSUE 9: Boney Described as Fighting with a Longsword
+
+**Location:** Summary / Scenes (Battle) / NPCs (Boney)
+
+**Issue:** The recap states "Boney charged in with his longsword" during combat. Boney is described in the NPCs section as "a talking skeletal horse."
+
+**Evidence:** The party document confirms Boney is a "skeletal horse companion" belonging to Soma. Horses — skeletal or otherwise — do not wield longswords. No weapon is listed for Boney in the party document, and his combat contributions would logically be hooves or bite attacks, not a manufactured melee weapon.
+
+**Suggested Fix:** Correct Boney's combat action to reflect a natural attack appropriate to a skeletal horse (hooves, bite, or a trampling action). If Boney has been narratively established as capable of wielding a weapon in prior sessions, this should be documented in his NPC entry with a specific note; it should not be presented as unremarkable.
+
+---
+
+## ISSUE 10: Potion of Invulnerability — Contradicts Established Party Potion Inventory
+
+**Location:** Summary / Scenes (Exploring the Caves) / Items (Potion of Invulnerability)
+
+**Issue:** Valphine finds a potion of invulnerability in a hidden compartment and slips it into Vukradin's pack without telling him. The party document notes "no standard potions" and lists only three specialty healing potions remaining.
+
+**Evidence:** Party document states under Collective Resources: "Three specialty healing potions remaining (one greater, one superior of uncertain contents, one scented); no standard potions." A potion of invulnerability is a significant magic item (rare rarity in 5e). Its acquisition should update the party document. Additionally, Valphine placing it in Vukradin's pack without disclosure is a notable covert act that has implications for the party's trust dynamics and should be flagged as an active continuity thread.
+
+**Suggested Fix:** Add the potion of invulnerability to the party's collective resources in the campaign state document, with a note that Vukradin is unaware he possesses it and that Valphine placed it there covertly. This is a live secret that must be tracked.
+
+---
+
+## ISSUE 11: Talos Holy Symbol Description — Inconsistency in the Wax Sigil Description **[SUPERSEDED by ISSUE 16]**
+
+**Status:** This was correctly suspicious but wrong about the cause. The real issue is a transcription error from "bolt" to "boar" — the prep sigil is a single vertical lightning bolt, which IS canonical Talos imagery. See ISSUE 16. No separate cult-sigil distinction needed.
+
+---
+
+## ISSUE 12: "The Bear Comes" in the Cryptic Note — Unidentified Threat Left Ambiguous **[RESOLVED via prep — transcription error]**
+
+**Status:** Not a mystery — a misheard word. Prep says "**The boar comes**" (Gorthok, the leashed boar-deity). See ISSUE 17 for the full transcription error covering both "manticore"→"manse" and "bear"→"boar".
+
+---
+
+## ISSUE 13: Grannoc — Referenced Without Identification **[RESOLVED via prep — needs recap addition]**
+
+**Status:** Grannoc is identified in the prep as the **Talosian anchorite at the Woodland Manse** preparing the same ritual the party just interrupted. He is the natural next antagonist. Additionally, the cryptic note's wording in the recap ("your storm holds Grannoc") is the wrong sense — per prep (`notes/session_prep/circle_of_thunder.md:133`) the line is "Your storm holds. Grannoc's does not. He is reckless; he will summon before the Lodge is ready" — i.e. **Flenz's storm-ritual was succeeding, Grannoc's is not.** That's a major framing error, since the recap implies Grannoc is being restrained ("held") by the storm rather than being a rival anchorite under-performing.
+
+**Suggested Fix:** Add Grannoc to the NPCs section as the Talosian anchorite at the Woodland Manse. Correct the cryptic note quote to match prep wording. Frame Grannoc as the next-scene antagonist, not as a captive or victim of the storm.
+
+---
+
+## ISSUE 14: Soma Smashes a Standing Stone — No Follow-Up
+
+**Location:** Scenes (Battle at the Circle of Thunder)
+
+**Issue:** One bullet point in the Battle scene states: "Soma, in her elk form, smashes one of the standing stones of the henge." This action — destroying part of an ancient magical henge during a live ritual — has no follow-up, consequence, or acknowledgment anywhere else in the recap.
+
+**Evidence:** The party document describes the Circle of Thunder as "a henge of ancient standing stones crackling with dark energy." Destroying a standing stone during a summoning ritual would plausibly have narrative or mechanical consequences. The recap's aftermath section describes the storm dissipating and the stones going "utterly inert," but makes no reference to one of them being physically destroyed.
+
+**Suggested Fix:** Either remove the detail about Soma destroying a standing stone if it did not occur, or add a note in the Aftermath section acknowledging the physical damage to the henge and flagging whether this has any significance for the site going forward.
+
+---
+
+## ISSUE 15: "Boy from the Eastern Clan" — Ambiguous Referent Not Flagged **[RESOLVED via prep]**
+
+**Status:** Prep (`notes/session_prep/circle_of_thunder.md:163`) settles this. Prutha confirmed in-scene that his clan is the eastern clan but the boy is not him. The boy is a separate unidentified NPC — a deliberate seed for the "Chosen" / "K." arc. The leash must not be revealed to Prutha (or to the boy). The recap can flag this as an active mystery, but it is not a missing identification.
+
+---
+
+## ISSUE 16: Wax Sigil Is a **Lightning Bolt**, Not a Boar
+
+**Location:** Scenes (Exploring the Caves) / Items (Satchel of Talos) — `session-summary.md:96, 123`
+
+**Issue:** The recap describes the Talosian wax sigil as "a circle with a single vertical boar." The prep specifies "a wax sigil: a circle with a single vertical **bolt** through it" (a lightning bolt — Talos's canonical symbol).
+
+**Evidence:** `notes/session_prep/circle_of_thunder.md:131`. This also resolves ISSUE 11 — the original report's concern that the sigil didn't match canon Talos imagery was right, but the actual prep does use canonical Talos imagery (lightning bolt). The recap has a transcription error from "bolt" to "boar".
+
+**Suggested Fix:** Replace "a circle with a single vertical boar" with "a circle with a single vertical lightning bolt" in both the Scenes section and the Satchel of Talos item entry. This also closes ISSUE 11.
+
+---
+
+## ISSUE 17: Cryptic Note — "Manticore" Should Be "Manse"; "Bear" Should Be "Boar"
+
+**Location:** Memorable Moments / Scenes / Items (Cryptic Notes) / Summary — multiple lines
+
+**Issue:** The cryptic note quoted in the recap reads: "If the henge falls, **the manticore** summons in its place. If the manticore falls, I summon myself. **The bear comes**, the storm comes."
+
+**Evidence:** Prep (`notes/session_prep/circle_of_thunder.md:137`) gives the actual text: "If the henge falls, **the manse** summons in its place. If the manse falls, I summon myself. **The boar comes**. The storm comes."
+
+The intended meaning is structural: if this site (the henge) is broken, the **Woodland Manse** site activates as backup; if the Manse falls too, "K." summons Gorthok (the boar deity) personally. The recap has two related transcription errors that destroy the meaning:
+- "manticore" → "manse" (a place, not a creature)
+- "bear" → "boar" (Gorthok, the leashed boar-deity that all of this is about)
+
+**Suggested Fix:** Replace "manticore" with "manse" and "bear" with "boar" everywhere the note is quoted. This also closes ISSUE 12 (the "bear" was never a mystery — it was a misheard word).
+
+---
+
+## ISSUE 18: Anchorites Are Named — Flenz and Narux
+
+**Location:** NPCs (Anchorites of Talos) — `session-summary.md:157`
+
+**Issue:** The recap describes the two anchorites only as "two half-orc spellcasters wearing boar-head masks." Their names — **Flenz** and **Narux** — are given in the prep and were available at the table.
+
+**Evidence:** `notes/session_prep/circle_of_thunder.md:20`. Flenz's tattoos are storm-cloud spirals with open eyes; Narux's are crossed boar-tusks repeated down both forearms (this matches the recap's "elaborate storm-themed tattoos and boar tusk markings" but conflates the two). The cult correspondence the party recovered is **Flenz's** specifically (from C2, the NW cave).
+
+**Suggested Fix:** Update the NPCs entry to name Flenz and Narux. Distinguish their tattoos. Note that the correspondence (the three letters) came from Flenz's quarters, not generically "from the satchel."
+
+---
+
+## ISSUE 19: Burned Vellum Scrap and the "K." Signature Are Missing from the Recap
+
+**Location:** Items (Cryptic Notes) — `session-summary.md:125`
+
+**Issue:** The recap's Cryptic Notes entry mentions the three letters from Flenz's satchel and the manticore/bear line, but completely omits the **half-burned vellum scrap from Yargath's firepit (C4)**: *"…dawn cannot rise where the storm already lives. — K."*
+
+**Evidence:** `notes/session_prep/circle_of_thunder.md:148-152`. This is a separate piece of evidence in a different hand, signed "K." — the same signature pattern as the unnamed "Chosen" in Flenz's letters. This is the seed for the campaign's emerging antagonist and is the single most important intel reveal from the scene.
+
+**Suggested Fix:** Add the burned scrap to the Cryptic Notes item entry and note explicitly that it is in a different hand and signed "K." Also add a Memorable Moments beat for the "K." signature — this is the kind of clue the party should be tracking.
+
+---
+
+## ISSUE 20: Map / Sites — Woodland Manse Is the Backup Site, Lodge Is the Target
+
+**Location:** Scenes (The Final Cave and the Map Fragment) / Items (Torn Map Fragment) / Locations
+
+**Issue:** The recap describes the torn map as showing "three marked sites: the Circle of Thunder, the Woodland Manse, and Falcon's Hunting Lodge" with "double circles around certain locations" suggesting they are active summoning sites. This is vague and gets the relationship wrong.
+
+**Evidence:** `notes/session_prep/circle_of_thunder.md:146` is specific:
+- The henge is **X'd through in advance** — the anchorites expected losses there.
+- The **Woodland Manse is double-circled** — the active backup ritual site (Grannoc is preparing the same ritual there).
+- **Falcon's Hunting Lodge is drawn as a target** — both rituals point at it.
+
+**Suggested Fix:** Rewrite the Torn Map Fragment item and Scenes line to reflect the actual map semantics: henge crossed out, Manse circled twice (backup ritual), Lodge marked as the target. Add a Locations entry or update Woodland Manse to flag it as the next ritual site with a named anchorite (Grannoc).
+
+---
+
+## ISSUE 21: Soma's Staff Grew a Fourth Bud — Missing from Recap
+
+**Location:** Scenes (Aftermath) — should appear, currently absent
+
+**Issue:** The recap makes no reference to Meril's Staff. Per prep, a fourth bud appeared on the staff during/after the fight as a result of Soma stopping the ritual.
+
+**Evidence:** `notes/session_prep/circle_of_thunder.md:97-103`. The DM note is explicit: the staff *gains* leaves as Soma accepts her role — never loses them — and a new bud (not yet open) appeared as a sign of progress. This is also one of the campaign's standing voice/continuity rules (see auto-memory: "Soma's staff GAINS leaves, doesn't lose them").
+
+**Suggested Fix:** Add a beat to the Aftermath scene noting the fourth bud appearing on Meril's Staff. Frame it as growth/progress, never as depletion. Consider a Memorable Moments entry for it.
+
+---
+
+## ISSUE 22: Prutha Spoke a Line — Recap Renders Him as Silent
+
+**Location:** Scenes (Aftermath and Ideological Clashes) / NPCs (Prutha)
+
+**Issue:** The recap captures Prutha's destruction of the holy symbols and his "approving grunts and a wave of his great axe" toward Lathander's dawn — but omits the actual spoken line the prep gave him.
+
+**Evidence:** `notes/session_prep/circle_of_thunder.md:91`: *"My great-uncle said dawn comes for everyone. Even these ones. I did not think dawn would feel quiet."* This is a meaningful character beat — Prutha's first introspective line on Lathander, and the only thing he says about the moral weight of killing fellow orcs in Talos's service.
+
+**Suggested Fix:** Add the spoken line to the Aftermath scene as a Memorable Moments quote. Update Prutha's NPC entry to note that he's beginning to articulate his theology aloud, not just react with grunts.
+
+---
+
+## ISSUE 23 (open question): +1 Shield in C3 — Was It Looted?
+
+**Location:** Items section — currently absent
+
+**Issue:** The prep places a **+1 Shield buried in Narux's quarters (C3, NE cave)** as one of two cave treasures (the other being the Potion of Invulnerability in C2, which the party did find). The recap mentions the potion but not the shield. Either the party didn't search C3 thoroughly enough, or they found it and the recap dropped it.
+
+**Evidence:** `notes/session_prep/circle_of_thunder.md:29`. Brewbarry led the cave exploration looking for alcohol; only C2's compartment is reported as searched. **DM/player check required:** was C3 searched? If yes, add the shield to the party inventory; if no, leave it for the players to discover on return (or write it off as a missed loot drop).
