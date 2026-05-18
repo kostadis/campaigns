@@ -1,0 +1,46 @@
+# Phandalin planning config — binds each tracked NPC / faction to its dossier
+# and arc-score file so the planning.py synthesizer renders them as a single
+# `## {name}` block (dossier + score nested) instead of risking the LLM
+# mismatching a score onto the wrong entity.
+#
+# Paths resolve relative to THIS file's parent directory.
+#
+# arc_score semantics (same as party.yaml):
+#   arc_score: <path>   → entity has a formal arc-score mechanic
+#   arc_score: null     → INTENTIONALLY TRACKLESS — synthesizer must not
+#                         invent a score for them
+#   (key omitted)       → unspecified; treated like no arc score, no
+#                         trackless signal. Prefer explicit null.
+#
+# Excluded on purpose: PC arc scores belong in party.yaml, not here —
+#   docs/tracking/The Searing Dawn Score.md   → Valphine (PC)
+#   docs/tracking/The Thistle’s Echo Score_…  → Brewbarry (PC)
+#   docs/tracking/soma-legacy.md              → Soma (PC)
+
+npcs:
+  - name: Adabra
+    dossier: docs/npcs/adabra.md
+    arc_score: docs/tracking/Adabra quest line.md
+
+  - name: Aletra Sotorra
+    dossier: docs/npcs/aletra.md
+    arc_score: docs/tracking/aletra-sortorra-arc.md
+
+  # Grundar Quartzvein has an arc score (docs/tracking/grundar_score.md) but
+  # NO dossier in docs/npcs/. planning.py rejects NPC entries without a
+  # dossier. Either:
+  #   (a) write a Grundar dossier (he's the secret leader of the Svirfneblin
+  #       rebellion and seeks revenge on House Sotorra) and uncomment below; OR
+  #   (b) move grundar_score.md under a faction entry like
+  #       "Svirfneblin Rebellion" if you want to track him as a faction-level
+  #       threat for now.
+  # - name: Grundar Quartzvein
+  #   dossier: docs/npcs/grundar.md
+  #   arc_score: docs/tracking/grundar_score.md
+
+factions:
+  - name: Kraken Society
+    arc_score: docs/tracking/echoes-score.md
+
+  - name: Splinter Colony
+    arc_score: docs/tracking/splinter-colony.md

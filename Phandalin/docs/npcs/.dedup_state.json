@@ -1,8 +1,8 @@
 {
-  "backup_tarball": "/home/kroussos/campaigns/Phandalin/docs/npcs.backup-20260508-110211.tar.gz",
+  "backup_tarball": "/home/kroussos/campaigns/Phandalin/docs/npcs.backup-20260517-163459.tar.gz",
   "started_at": "2026-04-18T08:38:03Z",
-  "updated_at": "2026-05-08T18:14:02.182275+00:00",
-  "last_run_summary": "2026-05-08 \u2014 merged 2 clusters (valphine_sortorra\u2192valphine, vukardin\u2192vukradin). 5 sidecars pending (*.new_notes.041.md). Backup: npcs.backup-20260508-110211.tar.gz.",
+  "updated_at": "2026-05-17T16:35:00+00:00",
+  "last_run_summary": "2026-05-17 \u2014 no-op pass. Auto-cluster heuristics produced 4 candidates, all already pinned in clusters_rejected (corbin/corwin, elara/elara_seasong, meril/miral, ser_kaelen/sister_kaella). Manually read all role-prefixed files (the_dwarven_king, the_anchorite_half_orc, the_orc_scout, the_cult_fanatic, the_stag, king_gnercli, king_korboz, lord_neverember, daran_edermath_silverleaf) \u2014 all confirmed distinct NPCs, no hidden duplicates. 6 sidecars pending (*.new_notes.042.md) \u2014 separate sidecar_merge_batch.py job. Backup: npcs.backup-20260517-163459.tar.gz.",
   "clusters_confirmed": [
     {
       "files": [
