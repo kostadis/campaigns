@@ -11,22 +11,23 @@ First catalogued during the cleanup of
 
 | Wrong | Right |
 |---|---|
-| Zaltir, Zalter, Zaltier, Zeltar | **Zalthir** |
-| Gergam, Gregam, Greg, Grigam | **Grygum** |
+| Zaltir, Zalter, Zaltier, Zeltar, Azaltier, Salter | **Zalthir** |
+| Gergam, Gregam, Greg, Grigam, Gergummy, Gregorum, Grygram | **Grygum** |
 | Thorne, Thornton, Thurren, Or Torin | **Thorin** |
 | Adaz, Das, Dez, Dazz, Jazz | **Daz** |
+| Dazes | **Daz's** |
 
 ## NPCs and creatures
 
 | Wrong | Right |
 |---|---|
-| Glavagul, Glavagul's, Glabogul, Glavo, Glavacle, Glavable, Glavigal, Glavagol, Glabagul, Glabigle, Lavagul, Lavagul's, Miklabogul, Globul, Globagool, Gobblegool, Glabugul, Gladbagul, Globagul, Glabagool | **Glabbagool** |
+| Glavagul, Glavagul's, Glabogul, Glavo, Glavacle, Glavable, Glavigal, Glavagol, Glabagul, Glabigle, Lavagul, Lavagul's, Miklabogul, Globul, Globagool, Gobblegool, Glabugul, Gladbagul, Globagul, Glabagool, Baba Gul, Glab Agul, Glad Abugul, Glad Agul, Globugul, Klobagool, Ivagoo | **Glabbagool** |
 | Jam Jar, Jim Jar | **Jimjar** |
-| Kel'Vire, Kel Vire, Calvir, Kel Veer | **Khell-Vire** |
+| Kel'Vire, Kel Vire, Calvir, Kel Veer, Kelvir | **Khell-Vire** |
 | Asha Vandri, Ashe Vandri, Ashas | **Asha Vandree** |
 | Elvara, Olvara | **Ilvara** |
 | Ebum Mir's, Ebum Mir, Ebonir, Princess Ebonir, Ebonheir, Princess Ebonheir | **Ebonmire** (Princess Ebonmire) |
-| Muhammed, Buhammad's, Buhammad, Bahamad, Muhammad, Baham, Baumont | **Bahamut** |
+| Muhammed, Buhammad's, Buhammad, Bahamad, Muhammad, Baham, Baumont, Bahama | **Bahamut** |
 | Melfire | **Malfire** |
 | Zuggtomy, Zugtmoy, Zugtomy, Zuggotmoy, Zugatami, Sugadami, Zagotami | **Zuggtmoy** (confirmed via 5etools: MTF + OotA) |
 | Plinky,Plenke | **Plinki** |
@@ -38,28 +39,63 @@ First catalogued during the cleanup of
 | Protanthor | **Protanther** |
 | Straub | **Stroud** |
 | Kessler | **Kestler** |
-| Stroudian | **Stroudite** |
-| Stroudians | **Stroudites** |
+| Stroudian, Straudian | **Stroudite** |
+| Stroudians, Stroudouts | **Stroudites** |
 | Eldith, Aldath | **Eldeth** |
-| Bahamian, Bahamatian | **Bahamutian** |
+| Bahamian, Bahamatian, Bahamotium | **Bahamutian** |
 | Rishal | **Rishaal** |
+| Strouds | **Stroud's** |
+| Elred | **Eldred** |
+| Dazzin, Dazanan | **Daz'issin** |
+| Bookworm, Bookform | **Bookwyrm** |
+| Miro Milo Glutbarrell | **Milo Goodbarrel** |
+| Philippine | **Philemon** |
+| Janusi, Genasi | **Janussi** |
+| Tadrick, Tadrik, Kadrick, Tabree, Cedric, Tardik | **Tadric** |
+| Callan Strongbranch | **Kalan Strongbranch** |
+| Callan, Callum, Cullen, Kaelin | **Kalan** |
+| Ally Avonmore | **A'lai Aivenmore** |
+| Avon Moore | **Aivenmore** |
+| Alay, L.A. | **A'lai** |
+| Varath, Verith | **Vareth** |
+| Khazrin Natyani Nyatani | **Kazryn Nyantani** |
+| Silvera salvikas | **Sylvira Savikas** |
+| Feminoor Scrivenbach | **Fheminor Scrivenbark** |
+| Daryl, Jarl | **Daral** |
+| Miss Molly Pocket | **Miss Hollypocket** |
+| Ogma | **Oghma** |
+| Bahamatians | **Bahamutians** |
+| Infirmus, Ephemeris, Fembrus | **Fembris** |
+| Keeper of Toads | **Keeper of Tomes** |
+| Janusi's Chambers | **Janussi's Chambers** |
+| Aluando, Alando | **Alaundo** |
+| Kazarin | **Kazryn** |
+| Silvera | **Sylvira** |
 
 ## Items / artifacts
 
 | Wrong | Right |
 |---|---|
-| Don Bringer, John Brenner, Dawn, Von Wigger | **Dawnbringer** |
+| Don Bringer, John Brenner, Dawn, Von Wigger, Don Brainer, Don Bringer Final, Donbringer, Don Greener, Lightbringer | **Dawnbringer** |
 | Vault Master | **Vaultmaster** |
+| Eldritch Blow, Aldridge Claw | **Eldritch Claw** |
+| Eldenkind, Element Klein | **Elvenkind** |
+| Resonance Blime | **Resonance Slime** |
 
 ## Houses / factions
 
 | Wrong | Right |
 |---|---|
-| House Terran, Terran, House Turan, House Tsaran | **House T'sarran** |
+| House Terran, Terran, House Turan, House Tsaran, Taran | **House T'sarran** |
 | Embryograph | **Ember Grapple** (alt. name for the party) |
 | Blatwork | **Black Network** |
 | Zantarum | **Zhentarim** |
-| Uthgart, Utgartian | **Uthgardt** |
+| Uthgart, Utgartian, Othgaritian | **Uthgardt** |
+| Grigumi School | **Grygumite School** |
+| Gurgumite | **Grygumite** |
+| Stradite School | **Stroudite School** |
+| Bahamitun School | **Bahamutian School** |
+| Gabe Warden, Gate Warden | **Gatewarden** |
 
 ## Locations
 
@@ -67,17 +103,17 @@ First catalogued during the cleanup of
 |---|---|
 | Vulking Valve, Velcan-developed | **Velkynvelve** |
 | Whirlstone | **Whorlstone** |
-| Candle Keep, Candleep | **Candlekeep** |
+| Candle Keep, Candleep, Candle Deep, Candleteep | **Candlekeep** |
 | Mithril Hall | **Mithral Hall** |
 | Whirlstone Caverns | **Whorlstone Caverns** |
 | Castle Candlekeep | **Candlekeep Library** |
 | Revil | **Toril** |
 | Tribor | **Triboar** |
 | Waterdeeps | **Waterdeep** |
-| Silvery Marches | **Silver Marches** |
+| Silvery Marches, The Silvery Marches | **Silver Marches** |
 | Blindenson, Blingdonston | **Blingdenstone** |
 | Sunbar | **Sundabar** |
-| Ferrun | **Faerûn** |
+| Ferrun, Faroon | **Faerûn** |
 | Mountain Mouth | **Mountain's Mouth** |
 | The Night Beneath the Night | **The Knight Beneath the Knight** |
 | Page Turners | **Pageturner** |
@@ -85,13 +121,20 @@ First catalogued during the cleanup of
 | Bahamut Stride | **Bahamut shrine** |
 | Tempest Shrine, Defaced Tempest Shrine | **Tempus shrine** |
 | North Sword Coast | **Northern Sword Coast** |
+| Dagger Ford, Dagger Foo, Dagger Fort | **Daggerford** |
+| Arcadium, Ethanium | **Arcanium** |
+| Menzo Baranen, Menzo Bronze, Menzo Bronzen | **Menzoberranzan** |
+| Barragos, Beregos | **Beregost** |
+| Kendall Keep | **Castle Ward** |
+| Draconicos | **Drakonoikos** |
+| The Refactory | **The Refectory** |
 
 ## Races / mechanics
 
 | Wrong | Right |
 |---|---|
 | half-pork, Hawthorcs | **half-orc** |
-| Dro, Drau | **Drow** |
+| Dro, Drau, Dru | **Drow** |
 | Lecanthropy | **lycanthropy** |
 | Faye | **Fey** |
 
@@ -99,7 +142,10 @@ First catalogued during the cleanup of
 
 | Wrong | Right |
 |---|---|
-| costatis, Stottis, Kostat, Castadas, Costatas, Casados, Cristonis, Quesada, Costatus | **Kostadis** (pronounced "koh-stAH-dis", rhymes loosely with "toh-STA-dah") |
+| costatis, Stottis, Kostat, Castadas, Costatas, Casados, Cristonis, Quesada, Costatus, Christadas, Custatis, Gustatis | **Kostadis** (pronounced "koh-stAH-dis", rhymes loosely with "toh-STA-dah") |
+| Lit | **lit.** |
+| And Christadas | **And Kostadis** |
+| Torward | **toward** |
 
 ## Non-name fixes (recorded for context, not a glossary entry)
 

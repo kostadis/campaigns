@@ -59,3 +59,46 @@ Review periodically and promote into NPC dossiers / world notes / mempalace as a
 
 ### D&D mechanics terms (campaign-plot-relevant, kept surfaced not ignored)
 - **Ordning** — canonical FR giant hierarchy; collapsed and restored during the War of the Giants; Storm > Cloud > Stone/Stout > Fire/Frost > Hill — 2026-05-04
+Daggerford  — FR town between Waterdeep and Candlekeep; mentioned re: paladin Travis Houlin and the Daggerford Monument  — 2026-05-16 (chapter 51)
+- **Arcanium** — Candlekeep institution; has spectral mage hands that fetch tomes; contains the History Library (Echoing Hall in its north inner ward); the bell tower has cells — 2026-05-16 (chapter 51)
+- **Beregost** — FR Western Heartlands town on the road to Candlekeep; Thorin is standing here at night in a scene this session — 2026-05-16 (chapter 51)
+- **Pillars of Woe** — book title; part of "Geography and Cities, Menzoberranzan, Pillars of Woe" (the geography-of-Menzoberranzan tome the party receives) — 2026-05-16 (chapter 51)
+- **Efficient Strike** — Zalthir martial technique; one of the three moves he demonstrates this session (alongside Weightless Shadow, Eldritch Claw) — 2026-05-16 (chapter 51)
+- **Weightless Shadow** — Zalthir martial technique; one of the three moves he demonstrates this session — 2026-05-16 (chapter 51)
+- **Ellen** — 7yo NPC, silent for 6 days, daughter of a Beregost/Candlekeep-area parent; speaks the line "the wells are not wells anymore" — surface-madness tell, possibly related to the kraken/Black Hood arc — 2026-05-16 (chapter 51)
+- **Daz'issin** — new character/name surfacing this session; appears in question "Who is this Dazanan?" and in quoted line "Daz'issin and Lit, small shadow" — 2026-05-16 (chapter 51) — possibly new NPC, needs dossier
+- **Daz'issin** (footnote clarification) — the in-fiction term Daz reads from a Candlekeep text: `Daz'issin: lit. "small shadow." Recorded usage: nursery…` — 2026-05-16 (chapter 51)
+
+## From summaries/20260511 (chapter 51, Candlekeep arrival)
+
+- **Shadow Monk(s)** — Way of Shadow tradition; Zalthir's lineage; referenced in faded underrobes and as Glabbagool-mentor pattern — 2026-05-16
+- **Shadow Stepper** — Zalthir/Shadow Monk movement feature granting advantage — 2026-05-16
+- **Shadow Discipline Lineage Records** — Candlekeep records archive in Cal Veer's lower gallery office — 2026-05-16
+- **Bone King Sings (Until the ~)** — sealed-book lore: "Zalthir, the Underdark, Until the Bone King Sings." Phrase appears on a deck/book Zalthir is reading; Candlekeep arc plant — 2026-05-16 (chapter 51)
+- **Travis Houlin** / **Travis Lyons** / **Travis Hand** — in-fiction paladin (Paladin of Bahamut, Order of the Gauntlet) who died three years ago breaking a cult of the Dragonstelle that was recruiting in Daggerford; commemorated by the Daggerford Monument signed off by Milo; pewter castings sold as souvenirs. The transcriber rendered the surname three different ways — needs a canonical-surname decision before dossier — 2026-05-16 (chapter 51)
+- **Bookwyrm** — First Reader of Candlekeep (the title-holder her name is Bookwyrm — a deliberate dragon-pun on "bookworm") — 2026-05-16 (chapter 51)
+
+### Candlekeep arc NPCs (chapter 51)
+- **Brother Kel** — Candlekeep monk; Zalthir is assigned to him by First Reader Bookwyrm — 2026-05-16
+- **Master Archivist Philemon** — full title for Philemon (already in additions, the avowed who consults on Dawnbringer); Thorin assigned to him — 2026-05-16
+- **Varith** — Candlekeep avowed; Grygum assigned to him — 2026-05-16
+- **Callan Strongbench** — Candlekeep gate warden — 2026-05-16
+- **Festroon** — old gnome innkeeper; tells the story when someone buys a second pint (Burning Wizard Inn?) — 2026-05-16
+- **Meredith of the Ford** — weaver by trade; Meredith of the Ford is her surname/title; she sees something at dinner at the inn — 2026-05-16
+
+### Candlekeep arc locations (chapter 51)
+- **Burning Wizard Inn** — inn on the road to Candlekeep; the party stops here for a long meal — 2026-05-16
+- **River Shining Tavern** — inn near Candlekeep ("an inn called the River Shining Tavern") — 2026-05-16
+- **Echoing Hall** — Candlekeep; north inner ward of the History Library inside the Arcanium — 2026-05-16
+- **Great Library** — Candlekeep wing ("Psalmet 12, the Great Library") — 2026-05-16
+- **Hall of Divination** — Candlekeep wing — 2026-05-16
+- **History Library** — Candlekeep wing (inside the Arcanium; contains the Echoing Hall) — 2026-05-16
+
+### Candlekeep arc factions/items (chapter 51)
+- **Metal Workers Guild** — funded (two years post-war) the casting of the Travis-paladin pewter memorial — 2026-05-16
+- **Dragonstelle, Cult of the** — dragon-cult variant/offshoot; the in-fiction paladin Travis Houlin broke it in Daggerford three years ago — 2026-05-16
+- **Resonance Slime** — vial received by the party this session; new item — 2026-05-16 (chapter 51)
+- **Black Hood** — Field Ward kraken-chant: "The chorus repeats as Black Hood, and after she's done." — Candlekeep/Beregost surface-madness chant — 2026-05-16 (chapter 51)
+- **Dodd Breeder** — NPC; "Dodd Breeder doesn't like the dark" — 2026-05-16 (chapter 51)
+- **Horizon** — Candlekeep location: "He is summoned in Horizon, the Arcanium, and declares, The bell tower has cells!" — 2026-05-16 (chapter 51)
+2026-05-18  Grygumite School  — new in-fiction philosophical school (parallel to Stroudite/Bahamutian); named for PC Grygum; introduced in Candlekeep arc 20260518
