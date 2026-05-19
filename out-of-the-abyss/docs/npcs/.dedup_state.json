@@ -1,7 +1,7 @@
 {
-  "backup_tarball": "/home/kroussos/campaigns/out-of-the-abyss/docs/npcs.backup-20260418-124119.tar.gz",
+  "backup_tarball": "/home/kroussos/campaigns/out-of-the-abyss/docs/npcs.backup-20260518-174342.tar.gz",
   "started_at": "2026-04-18T12:41:19",
-  "updated_at": "2026-04-18T21:11:00.799227+00:00",
+  "updated_at": "2026-05-19T00:56:23.134852+00:00",
   "clusters_confirmed": [
     {
       "files": [
@@ -432,6 +432,36 @@
       "aliases_recorded": [
         "Copper"
       ]
+    },
+    {
+      "files": [
+        "eldev.md",
+        "eldeth.md"
+      ],
+      "canonical": "eldeth.md",
+      "aliases_recorded": [
+        "Eldev"
+      ]
+    },
+    {
+      "files": [
+        "brannam.md",
+        "brannum_redmarch.md"
+      ],
+      "canonical": "brannum_redmarch.md",
+      "aliases_recorded": [
+        "Brannam"
+      ]
+    },
+    {
+      "files": [
+        "ebonmire_princess_ebonmire.md",
+        "princess_ebonmire.md"
+      ],
+      "canonical": "princess_ebonmire.md",
+      "aliases_recorded": [
+        "Ebonmire"
+      ]
     }
   ],
   "clusters_rejected": [
@@ -464,6 +494,20 @@
         "ulnara.md"
       ],
       "reason": "Ulnara is a separate NPC (different race) from Ilvara/Ilvara Mizzrym"
+    },
+    {
+      "files": [
+        "princess_ebonmire.md",
+        "the_house_t_sarran_spy_princess_ebonmire.md"
+      ],
+      "reason": "two distinct NPCs sharing the name Princess Ebonmire \u2014 one is the dead Pudding-King ooze, the other is the live House T'sarran spy captured in extract 56"
+    },
+    {
+      "files": [
+        "khaem.md",
+        "brysis_of_khaem.md"
+      ],
+      "reason": "Khaem is the Netherese-era founder whose tomb Brysis occupies; Khaem himself has not appeared as an NPC. User chose to keep khaem.md as a placeholder."
     }
   ],
   "clusters_deferred": []

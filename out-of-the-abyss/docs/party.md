@@ -129,6 +129,8 @@ Daz is a drow exile and tactical architect who spent his early life suffocating 
 **Items of Significance:**
 - Stonespeaker Crystal (attuned) — Speak with Animals, Dead, and Plants
 - Dustsight Spectacles (attuned)
+- Ring of Protection (attuned) — +1 AC and saves
+- Drow Piwafwi — stealth cloak (advantage on Stealth while worn, no attunement; limited in direct daylight)
 - Shortsword, +1
 - Princess Ebonmire's spellbook (partially transcribed; significant arcane resource)
 - Empty spell gems (to be appraised at Kazook Pickshine in Blingdenstone, or sold)

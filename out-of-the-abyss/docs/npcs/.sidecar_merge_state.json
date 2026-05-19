@@ -11,15 +11,6 @@
       "via": "batch"
     },
     {
-      "canonical": "glabbagool.md",
-      "sidecars": [
-        "glabbagool.new_notes.055.md"
-      ],
-      "out_chars": 12932,
-      "had_contradiction": false,
-      "via": "batch"
-    },
-    {
       "canonical": "jimjar.md",
       "sidecars": [
         "jimjar.new_notes.055.md"
@@ -34,15 +25,6 @@
         "the_matron_mother_of_house_t_sarran.new_notes.055.md"
       ],
       "out_chars": 4178,
-      "had_contradiction": false,
-      "via": "batch"
-    },
-    {
-      "canonical": "dawnbringer.md",
-      "sidecars": [
-        "dawnbringer.new_notes.055.md"
-      ],
-      "out_chars": 6536,
       "had_contradiction": false,
       "via": "batch"
     },
@@ -81,8 +63,44 @@
       "out_chars": 8557,
       "had_contradiction": false,
       "via": "batch"
+    },
+    {
+      "canonical": "stroud.md",
+      "sidecars": [
+        "stroud.new_notes.056.md"
+      ],
+      "out_chars": 2585,
+      "had_contradiction": false,
+      "via": "batch"
+    },
+    {
+      "canonical": "milo_goodbarrel.md",
+      "sidecars": [
+        "milo_goodbarrel.new_notes.056.md"
+      ],
+      "out_chars": 3270,
+      "had_contradiction": false,
+      "via": "batch"
+    },
+    {
+      "canonical": "glabbagool.md",
+      "sidecars": [
+        "glabbagool.new_notes.056.md"
+      ],
+      "out_chars": 16086,
+      "had_contradiction": false,
+      "via": "batch"
+    },
+    {
+      "canonical": "dawnbringer.md",
+      "sidecars": [
+        "dawnbringer.new_notes.056.md"
+      ],
+      "out_chars": 9218,
+      "had_contradiction": false,
+      "via": "batch"
     }
   ],
   "skipped": [],
-  "updated_at": "2026-05-03T05:53:44.561582+00:00"
+  "updated_at": "2026-05-19T00:53:53.120473+00:00"
 }
