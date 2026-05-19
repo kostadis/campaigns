@@ -1,192 +1,268 @@
 # campaign_state.md
 
+---
+
 ## Completed Encounters & Quests
 
-A definitive list of content that is DONE and should NOT be replayed or re-suggested.
+*(Most recent last)*
 
-- **Acquiring scavenged possessions in Velkynvelve slave pen** — Prisoners gathered knives, food, and intel during chore rotations. Party later raided the armory for drow weapons and armor. Original equipment abandoned at escape.
-- **Jorlan's Gambit — gate left unlocked** — Jorlan agreed to leave the prison door open as revenge against Ilvara and Shoor. Executed successfully; no locked gates impeded the escape.
-- **Stealing weapons from the guard chamber (Velkynvelve)** — Prisoners revolted, killed drow guards including elite warrior Imbros. Prince Derendil killed by Imbros. Party armed themselves.
-- **Escape from Velkynvelve — drow outpost** — Successful escape on 4th day of 2nd Tenday of Taraskh 1493 during a demon attack (4 chasme, 2 vrock). Descended via waterfall, bypassed gray ooze, fled into Darklake tunnels. Drow pursuit activated.
-- **Flight of demons distraction at Velkynvelve — escape event** — Four chasme and two vrock attacked Velkynvelve simultaneously, providing the critical distraction for escape.
-- **Escaping Velkynvelve via webs and pool** — Descended via waterfall (not webs). Gray ooze encountered and disengaged. Escaped into tunnel.
-- **Giant centipede encounter (underground cave)** — Killed by Buppido and Sarith's crossbow bolts. Provided rations.
-- **Drow scout encounter (hiding behind stalagmites)** — Party evaded detection; Grygum used Thaumaturgy to convince scouts (led by Nym) the cave was unstable.
-- **Silken Paths traversal — spider web chasm** — Successfully traversed with goblin guides Yuk Yuk and Spiderbait. Giant spiders pursued but stopped at territorial boundary. Spectator (mad beholder-kin) defeated (Daz killed it with magic missiles). Mimic avoided.
-- **Yuk Yuk and Spiderbait — goblin guides encounter** — Hired as guides; Jimjar tricked them into a 20-gold debt arrangement. Yuk Yuk later murdered by Buppido. Spiderbait remained with party through Gracklstugh.
-- **Fargas Rumblefoot — halfling rescue in Silken Paths** — Rescued from spider cocoon. Shared knowledge of Lost Tomb of Khaem (location, false burial chamber trap) as payment.
-- **Gorge crossing and bandit ambush** — Thorin crossed cavern ceiling, secured rope. Party crossed and defeated bandits. Bodies disposed of in gorge. Looted vital gear (water bladders, scimitars, crossbows, tinderbox).
-- **Escaped bandit found dead in Timmask field** — Corpse looted.
-- **Bandit truce negotiation — information for food** — Surviving bandits traded information: Blingdenstone is the best route to the surface.
-- **Buppido's shrine and killings — revealed in Whorlstone Tunnels** — Buppido identified as Yuk Yuk's murderer, then fully exposed as serial killer when his shrine of humanoid remains was found in the Whorlstone Tunnels. He attacked the party claiming divine status and was killed by Daz's magic missiles.
-- **Kuo-toa day's catch — capture encounter near Sloobludop** — Eight kuo-toans ambushed the party; three fled (including monitor), rest defeated.
-- **Reach Sloobludop — kuo-toa settlement** — Arrived, became entangled in civil war between Ploopploopeen (Sea Mother) and Bloppblippodd (Deep Father). Bloppblippodd killed by her father. Demogorgon rose from the Darklake.
-- **Ploopploopeen's betrayal of Bloppblippodd** — Ploopploopeen attacked his daughter at the altar rather than betraying the escapees. Bloppblippodd died completing the ritual. Party escaped in the chaos after looting Ploopploopeen's hut.
-- **Bloppblippodd — kuo-toa archpriest of Deep Father, confrontation** — Killed by her father Ploopploopeen. Her death completed the ritual summoning Demogorgon.
-- **Demogorgon's rise from the Darklake at Sloobludop — demon lord first appearance** — Demogorgon rose from the Darklake (30-foot, two-headed demon lord), destroyed Sloobludop, and went loose in the Underdark. Party fled by boat.
-- **Discovery of demon lords loose in the Underdark — party awareness moment** — Party collectively realized demon lords have been summoned to the Prime Material Plane by powerful magic. Grygum identified Demogorgon. Later confirmed by Zuggtmoy sighting and multiple other evidence.
-- **Escape from Sloobludop by boat** — Grygum bluffed kuo-toa monitors. Party boarded boat and escaped.
-- **Darklake navigation — rock hazard** — Daz spotted dangerous rocks and directed safe passage.
-- **Darklake encounter — demonic ixitxachitl** — Four demonic manta ray creatures defeated after party fell into water.
-- **Sandbar obstacle on the Darklake** — Daz used Shape Water to push boat over sandbar without combat.
-- **Duergar keelboat ambush (Darklake)** — Invisible duergar slavers defeated; one captured. Alchemy Jug recovered.
-- **Buppido — interrogation via Tongue of Madness, released** — Confirmed motivations (divine plan), that he recognized his madness, and that he cannot summon demon lords. Released into Gracklstugh.
-- **Reach Gracklstugh — duergar city** — Arrived on 9th day of 1st Tenday of Myrtul 1493 via Darklake District.
-- **Rampaging two-headed stone giant — Gracklstugh encounter** — Giant killed by duergar militia despite Thorin's attempt to subdue it. Stone giant Dorhun invited party to Cairngorm Cavern.
-- **Werz Saltbaron assassination attempt witnessed** — Party saved Werz from two psychic-blade assassins at the piers. Assassins killed, bodies dumped in Darklake.
-- **Errde Blackskull — Stone Guard captain, employment offer accepted** — Party accepted employment, received passes, tasked with finding Droki and investigating psychic blade killings.
-- **Themberchaud — red dragon Wyrmsmith, alliance offer (coerced)** — Themberchaud "recruited" party as agents without waiting for consent. Gold badges issued. Party left Gracklstugh without fulfilling arrangement; Themberchaud remained unaware of the corruption or replacement plans.
-- **Gartokkar Xundorn — Keeper of the Flame, quest giver (mission accepted)** — Gray Ghosts stole replacement egg for Themberchaud; party tasked with recovery and proof of Gray Ghosts/Council of Savants involvement. 900gp paid upfront (3000gp total contract).
-- **Stonespeaker Hgraam — stone giant elder, audience (first)** — Met at Cairngorm Cavern. Shared cryptic prophecy, confirmed Blingdenstone as route to surface, revealed mysterious advisor "Shal" affecting the Deep King, gifted Stonespeaker Crystal.
-- **Stonespeaker Hgraam — stone giant elder, audience (second)** — Party reported the two-headed giant ritual. Hgraam paid party and sealed Cairngorm Cavern.
-- **Broken statue of Rihuud — returned to Stonespeaker Hgraam** — Completed (referenced as resolved).
-- **Pelek the deep gnome ghost — laid to rest** — Ghost encountered at Buppido's shrine, bones collected and carried. Eventually interred in Blingdenstone catacombs by Grygum. Pelek faded peacefully.
-- **Retrieve Pelek's remains — Blingdenstone catacombs** — Completed. Bones interred at Temple of the Ruby in the Rough.
-- **Droki delivery interception — Whorlstone Tunnels** — Droki located, followed, and the underlying conspiracy exposed. Completed as part of the Whorlstone Tunnels clearance.
-- **Ylsa Henstak's investigation — surface-world currency source** — Referenced in context of Gracklstugh politics; resolved as part of party's factional work there.
-- **Narrak — derro savant cultist, confrontation** — Killed by Thorin while restrained by Daz's Maximilian's Earthen Grasp. Ritual ending the two-headed stone giant curse was stopped.
-- **Stone giant curse at Whorlstone Tunnels — ritual disruption** — Completed. Narrak's ritual stopped, giants' madness source removed.
-- **Gray Ghosts dragon egg — recovered or returned** — Recovered by Daz mid-battle against Plinki's derro cult. Delivered to Gartokkar Xundorn. The egg had been mutated into a two-headed demonic wyrmling; Gartokkar received it anyway and paid the party.
-- **Black obelisk — Whorlstone Tunnels discovery** — Discovered. Fractured, leaking quasi-magical energy, resisted repair with Thrazgad ore. Plinki intended it to conquer Gracklstugh for Demogorgon but could not activate it. Party did not interact further.
-- **Empty Scabbard Assassins negotiation** — Deal struck with Eldgrim: party eliminates Demogorgon cult, Werz Saltbaron moved to "brightlist." Deepking's sealed kill order stolen from Eldgrim's desk. Demogorgon cult eliminated as part of the Whorlstone clearance, fulfilling the deal.
-- **Werz Saltbaron NDA deal** — 1,100gp NDA fee secured; individual gemstones received; empty spell gems (valuable to Kazook Pickshine) obtained. Werz committed to facilitating a gnome weapons deal.
-- **Encounter with voosbur's infected myconids (Gracklstugh area)** — Party investigated dancing myconids; identified "Dark Lady" as Zuggtmoy; Thorin and Grygum refused Zuggtmoy's offer in shared vision. Rumpadump recovered (uninfected).
-- **Departure from Gracklstugh** — Escaped via Themberchaud dragon ride to docks, then by boat onto Darklake. Grey Ghosts ambush survived (5 killed). Grogluk gate checkpoint bypassed with bribe and Stone Guard salute.
-- **Giant mosquito encounter — Darklake** — Killed quickly after Gracklstugh departure.
-- **Faerzress crystal cave — scavenging (×2)** — Crystals collected; caves disguised as monster attacks to hinder drow pursuit.
-- **Encounter with Fuurm Coppernose and Baedora** — Two human escapees found, invited to join party.
-- **Shrieker encounter — fungal forest** — Resolved without harm.
-- **Lost Tomb of Khaem — Netherese tomb exploration** — Fully cleared. Four spectres defeated in upper tomb; Wraith Brysis of Khaem destroyed in true burial chamber (Grygum's acid breath). Dawnbringer sunblade recovered. Necklace of Fireballs, Potion of Greater Healing, gold recovered.
-- **Drow pursuit — escape from Velkynvelve pursuers** — Eldeth confirmed drow pursuers lost the party's trail. No longer actively pursued by Velkynvelve forces (prior to Ilvara's final confrontation).
-- **Stool — return to Neverlight Grove** — Completed. Stool safely returned to Neverlight Grove, then convinced to evacuate with Rusharoo's group. Departed with myconid explorers.
-- **Rumpadump — return to Neverlight Grove** — Completed. Rumpadump safely returned, then evacuated with myconid group. Gave Zalthir a list of ~50 self-improvement suggestions before departing.
-- **Grick hunt for Basidia — Neverlight Grove** — Grick killed and delivered to Sovereign Basidia for reanimation.
-- **Shambling mound — Neverlight Grove swamp** — Defeated using Shape Water detection, Spirit Guardians zone.
-- **Reach Neverlight Grove — myconid colony** — Arrived. Colony corrupted by Zuggtmoy via Sovereign Phylo. Basidia allied with party. Garden of Welcome explored; Xinaya mercy-killed; Yestabrod killed; Sarith's infection reached terminal stage.
-- **Xinaya — drow scout, fate in Garden of Welcome** — Found fungally corrupted in Garden of Welcome, mercy-killed by Thorin with Dawnbringer. Confirmed sent by Ilvara.
-- **Yestabrod — Circle of Masters leader, confrontation** — Killed by Zalthir. Corpse later puppeteered as mock wedding priest.
-- **Sarith Kzekarit — demonic spore infection terminal stage** — Head exploded during Garden of Welcome battle; transformed into drow spore servant; killed by Jimjar.
-- **Sovereign Phylo — myconid sovereign, corrupted by Zuggtmoy** — Confirmed corrupted. Witnessed at wedding rehearsal, remained at Neverlight Grove. Colony abandoned by Basidia's loyalists.
-- **Zuggtmoy — Demon Queen of Fungi, presence at Neverlight Grove** — Confirmed physically present; witnessed in vision on fungal throne preparing bridal gown. Wedding rehearsal observed at Yggmorgus. Party fled.
-- **Sovereign Basidia — myconid sovereign, resistance leader** — Rescued from Neverlight Grove by Zalthir. Gave party potions and treasure. Evacuated with myconid explorers; last known location unknown in Underdark.
-- **Escape from Neverlight Grove** — Successful. Rusharoo led party through escape route. Basidia, Rusharoo, Loobamub, Circle of Explorers/Hunters all evacuated.
-- **Oozing Temple — flooded dungeon exploration** — Explored flooding underground complex. Multiple gray oozes and one black pudding defeated. Treasure recovered. Escaped via underground river passage. Glabbagool recruited.
-- **Reach Blingdenstone — deep gnome settlement** — Party arrived. Passed through "the maze" defensive tunnels. Met Dorbo and Senni Diggermattock at Diggermattock Hall.
-- **Vadimir Coaxrock cube incursion — Blingdenstone traders grotto** — Multiple gelatinous cubes attacked Trader's Grotto; all destroyed by party.
-- **Burrow Warden Jadger's tasks — lay gnome spirits to rest** — Completed. Pelek interred; Udhask's remains recovered; Vazuk's ghost destroyed by Jimjar and Eldeth. Jadger thanked party; all tormented spirits at peace.
-- **Encounter with the Pudding King — Blingdenstone** — Pudding King (sentient telepathic ooze) defeated and dissolved. Prince Livid and Princess Ebonmire also killed. Spellbook recovered from Ebonmire's stomach.
-- **Battle for Blingdenstone — ooze incursion** — Fully resolved. Ooze army pacified through Jimjar's bone die and Glabbagool's telepathic bridge; dispersed peacefully. Blingdenstone saved.
-- **Clan Goldwhisker truce negotiation — Blingdenstone** — Completed. Wererats granted control of upper boroughs as defense force. Formally integrated into Blingdenstone governance.
-- **Cleanse the Steadfast Stone — Rockblight** — Completed. Medusa Neheedra defeated (Daz's magic missiles). Ogrémoch's Bane purged via menhir hallowing ritual (multiple earth elementals defeated, Galeb Duhr freed). Psychic static in Hall of Melting Mirrors neutralized.
-- **Ogrémoch's Bane — elemental entity banishment** — Completed. Temple hallowed; corrupting influence purged from the rocks.
-- **Neheedra the medusa — Rockblight confrontation** — Defeated. Zalthir used ice mirror to reflect her gaze; Daz delivered killing blow. Glabbagool consumed remains. Five spider silk dresses looted.
-- **Find Entémoch's Boon — Blingdenstone outskirts** — Completed. Ancient ritual performed (three sacrifices: wealth, weapon, blood) in White Shell Mine cavern. Two basilisks defeated. Entémoch's Boon released: Earth Elemental summoning and once-per-day stone-skin defensive blessing.
-- **Basilisks and eggs at Entémoch's Boon — encounter** — Two basilisks defeated during the ritual.
-- **Vazuk's ghost — laid to rest** — Completed by Jimjar and Eldeth off-screen.
-- **Galeb Duhr blockade at Pickshine Mine** — Resolved by Daz identifying vibration language and completing ancient handshake protocol with resonant geodes.
-- **White Shell Mine time-snagged tunnel** — Zalthir used Shadow Monk technique with gnome explosives to safely shatter the wall.
-- **Ghost Hold Lichen harvest (Festering Fissure)** — Shambling mound defeated; lichen harvested for Kazook Pickshine's anti-acid armor.
-- **Council of Blingdenstone — post-war political settlement** — All factions reconciled. Wage increases for gnomes, wererat control of upper boroughs, sustainable mining respecting ghost burial grounds. Dorbo announced plans to reopen Blingdenstone for surface trade.
-- **Daz's deception of Asha Vandree** — Daz impersonated a Lolth vessel; Asha saw through the divine claim but accepted him as a useful asset. Alliance formed to kill Ilvara.
-- **Battle of the Heart Fungus / Ilvara Mizzrym final confrontation** — Heart Fungus destroyed by Thorin with Dawnbringer (one round, radiant damage). Ilvara killed by Grygum's Guiding Bolt; body erupted into poisonous spores confirming total Zuggtmoy corruption. House T'sarran reinforcements (mage + 5 warriors) arrived mid-battle; mage killed by Zalthir, most warriors incinerated by Daz's Fireball. One T'sarran warrior escaped with a threat.
-- **Asha Vandree — elimination** — After Ilvara's death, Asha declared herself in charge and was killed by Zalthir (Eldritch Claw Tattoo strikes, Thorin grappling).
-- **Elimination of T'sarran extraction team** — T'sarran mage killed; extraction contract documents recovered. Operation failed entirely.
-- **Destruction of the Zuggtmoy fungal mass/ritual platform** — Grygum destroyed with acid. Necromantic pearl-like object recovered from its heart.
-- **Drow pursuers final confrontation — chapter 7** — Ilvara Mizzrym killed; her command structure destroyed; House Mizzrym sealed correspondence confirmed they had lost contact with her. Pursuit from Velkynvelve definitively over.
-- **Characters return to the surface world — end of chapter 7** — Full party emerged from Underdark tunnel mouth into sunlight. Drow cloaks disposed of. Extended recovery period began.
-- **Eldeth Feldrun — return to Gauntlgrym or honor her memory** — Eldeth departed at tunnel mouth to travel west to Mithril Hall. Swore oath to advocate for Thorin's clan adoption after briefing dwarven lords about demon lord activity. Parted on good terms.
-- **House T'sarran surface spy — captured** — Drow spy detected following party to the surface, captured by Zalthir, shrunk via mushroom, held in bag of holding under Glabbagool's watch.
-- **Entry to Candlekeep secured** — Party donated five books (Princess Ebonmire's spellbook, Ilvara's prayer book, Asha's theological document, Velkynvelve prisoner journal, Pliinki's journal) for access.
+- **Velkynvelve slave pen imprisonment** — Party captured by drow caravan led by Welnaste Mizzrym, sold to Ilvara, imprisoned in the slave pen. Beginning condition only; escape follows.
+
+- **Acquiring scavenged possessions in Velkynvelve slave pen** — During chores, Topsy and Turvy stole multiple knives; Zalthir found a list of favor-owers; Eldeth pocketed a comb; silk rope taken. Party now had concealed weapons.
+
+- **Jorlan's Gambit — gate left unlocked** — Jorlan Duskryn agreed to leave the prison door open and create a distraction in exchange for embarrassing Ilvara and Shoor. Plan executed; no locked barriers impeded escape.
+
+- **Stealing weapons from the guard chamber (Velkynvelve)** — Prisoners launched a revolt; two drow guards and elite warrior Imbros killed. Prince Derendil killed by Imbros. Sarith experienced a madness episode. Prisoners armed from the armory.
+
+- **Flight of demons distraction at Velkynvelve — escape event** — Four chasme and two vrock appeared and fought drow, providing the critical distraction that enabled escape.
+
+- **Escape from Velkynvelve — drow outpost** — Success on 4th day of 2nd Tenday of Taraskh 1493. Party descended via waterfall, encountered gray ooze, fled to Darklake tunnel. Original gear deliberately abandoned; drow gear scavenged. Ilvara confirmed honor-bound to pursue.
+
+- **Escaping Velkynvelve via webs and pool** — Descent via waterfall (not webs). Gray ooze encountered and disengaged from.
+
+- **Giant centipede encounter** — Killed by Buppido and Sarith; Grygum knocked unconscious but revived.
+
+- **Drow scout encounter (Nym's group)** — Party evaded detection via hiding and Grygum's Thaumaturgy tremor; scouts left believing party took a different tunnel.
+
+- **Silken Paths traversal — spider web chasm** — Successfully traversed with goblin guides Yuk Yuk and Spiderbait. Giant Spider encounter and Spectator (mad beholder-kin) encounter resolved; mimic avoided.
+
+- **Yuk Yuk and Spiderbait — goblin guides encounter** — Jimjar tricked them into guiding via a rigged bet. Yuk Yuk subsequently murdered in his sleep by Buppido. Spiderbait stayed with the party.
+
+- **Fargas Rumblefoot — halfling rescue in Silken Paths** — Freed from spider cocoon; shared knowledge of Lost Tomb of Khaem's secret (false sarcophagus, servants' tomb passage).
+
+- **Spectator encounter — Silken Paths** — Mad beholder-kin killed by Daz's magic missiles.
+
+- **Gorge crossing and bandit ambush** — Thorin crossed the cavern ceiling, secured rope; bandits defeated; vital adventuring gear looted.
+
+- **Bandit truce negotiation** — Surviving bandits traded intelligence for food; Blingdenstone identified as best route to the surface.
+
+- **Buppido's shrine and killings — revealed in Whorlstone Tunnels** — Yuk Yuk's murder attributed to Buppido via interrogation; Buppido bound and gagged. Later, Buppido's shrine of humanoid remains discovered in the Whorlstone Tunnels; Buppido attacked and was killed by Daz's magic missiles. Skeleton minions neutralized. **Buppido is dead.**
+
+- **Kuo-toa day's catch — capture encounter near Sloobludop** — Party ambushed by eight kuo-toans; three fled including the monitor; rest defeated.
+
+- **Ploopploopeen alliance offer** — Party agreed to pose as false sacrificial offerings to disrupt Bloppblippodd's cult; Ploopploopeen attacked Bloppblippodd instead, killing her. Party freed in the resulting chaos.
+
+- **Reach Sloobludop — kuo-toa settlement** — Arrived, visited, witnessed religious civil war. Sloobludop subsequently destroyed by Demogorgon.
+
+- **Demogorgon's rise from the Darklake at Sloobludop — demon lord first appearance** — 2nd day of 3rd Tenday of Taraskh 1493. Demogorgon emerged from the Darklake after Bloppblippodd's death completed the ritual. Sloobludop destroyed. Party fled by boat.
+
+- **Discovery of demon lords loose in the Underdark — party awareness moment** — Party collectively realized the scope of the demonic incursion during flight. Grygum connected the pattern; Daz confirmed powerful summoning magic. Later confirmed expanded to multiple demon lords.
+
+- **Escape from Sloobludop by boat** — Grygum bluffed kuo-toa monitors; party boarded a boat and escaped.
+
+- **Darklake navigation encounters** — Rock hazard navigated by Daz; demonic ixitxachitl defeated in the water; sandbar freed using Shape Water.
+
+- **Shuushar — guide to Sloobludop** — Completed. Shuushar guided party to Sloobludop. On 8th day of 3rd Tenday, Shuushar departed voluntarily to lead kuo-toa refugees with his pacifist philosophy.
+
+- **Duergar keelboat ambush (Darklake)** — Invisible duergar slavers defeated; Alchemy Jug and gold recovered; Brannum Redmarch captured and released on promise to procure an Eldritch Claw Tattoo for Zalthir.
+
+- **Reach Gracklstugh — duergar city** — Arrived 9th day of 1st Tenday of Myrtul 1493. Party entered the Darklake District.
+
+- **Rampaging two-headed stone giant — Gracklstugh encounter** — Stone giant killed by duergar militia (party fought but tried to subdue). Dorhun invited party to Cairngorm Cavern.
+
+- **Werz Saltbaron assassination attempt witnessed** — Party saved Werz from two psychic-blade assassins; assassins killed, bodies dumped in the Darklake. Later: NDA negotiated with Werz for 1,100gp; spell gems received (valuable to Kazook Pickshine); motive revealed (illegal inter-clan weapons deals violating Deepking's monopoly).
+
+- **Errde Blackskull — Stone Guard captain, employment offer** — Employment accepted; party received Stone Guard passes; armed NPC companions; tasked with finding Empty Scabbard Killers and evidence of Council of Savants corruption; party debriefed Errde and averted immediate Derro purge by noting insufficient evidence.
+
+- **Gartokkar Xundorn — Keeper of the Flame, quest giver** — Contract negotiated: 3,000gp total (900gp upfront) for dragon egg retrieval, statue of Demogorgon, and evidence of Council of Savants corruption.
+
+- **Themberchaud — red dragon Wyrmsmith, alliance offer (coerced)** — Themberchaud "recruited" party as agents without consent; gold badges issued. Party later departed Gracklstugh without fulfilling any arrangement; Themberchaud subsequently reported extremely obese and diminished to a "matchlighter" role.
+
+- **Stonespeaker Hgraam audience — stone giant leader** — Two audiences: first at Cairngorm Cavern (prophetic warnings, Stonespeaker Crystal gifted, confirmed Blingdenstone as best surface route, revealed existence of Deep King's advisor "Shal"); second after Narrak's ritual disruption (paid party, sealed Cairngorm Cavern, withdrawing from city affairs).
+
+- **Clan Ironhead audience** — Thangus Ironhead publicly loyal to Deepking (recognized as dishonest); Grinta Ironhead privately proposed trade deal with Deep Gnomes contingent on Deepking's removal.
+
+- **Ylsa Henstak's investigation — surface-world currency source** — Encountered in context but not separately resolved; absorbed into Gracklstugh political intelligence.
+
+- **Droki delivery interception — Whorlstone Tunnels** — Droki located, followed into Whorlstone Tunnels; his trail disrupted as party engaged other Whorlstone objectives. Referenced as resolved upon party's exit from the Whorlstone caves.
+
+- **Broken statue of Rihuud — returned to Stonespeaker Hgraam** — Statue of two-headed stone giant and ritual text recovered and reported to Hgraam at the second audience.
+
+- **Gray Ghosts dragon egg — recovered or returned** — Egg recovered by Daz during fight with Pliinki's cult; later delivered to Gartokkar Xundorn. The egg had been mutated into a two-headed demonic wyrmling by Pliinki's rituals. Gartokkar paid the party and warned about the Ember Vanguard hunt.
+
+- **Black obelisk — Whorlstone Tunnels discovery** — Discovered; 50-foot smooth black metal obelisk, fractured, leaks quasi-magical energy. Pliinki tried to use it to conquer Gracklstugh for Demogorgon but could not activate it. Party did not interact further.
+
+- **Narrak — derro savant cultist, confrontation** — Narrak killed by Thorin (restrained by Daz's Maximilian's Earthen Grasp). Gru Manga the Ettin also killed. All derro cultists in chamber eliminated. Ritual driving stone giants mad ended.
+
+- **Stone giant curse at Whorlstone Tunnels — ritual disruption** — Ritual causing stone giant madness stopped with Narrak's death; statue and "Rituals of the Two-Headed Beast" recovered; reported to Hgraam.
+
+- **Pliinki's cult confrontation** — Pliinki killed by Zalthir's fire breath. Derro thief killed. Pliinki's journal and four letters recovered revealing full Council of Savants conspiracy.
+
+- **Empty Scabbard assassins negotiation** — Deal struck with Eldgrim (assassin leader): party eliminates Demogorgon cult, Eldgrim moves Werz to the "brightlist." Deepking's sealed kill order stolen from Eldgrim's desk.
+
+- **Encounter with Zuggtmoy's infected myconids (Whorlstone Tunnels area)** — Voosbur's infected group departed. Zuggtmoy identified as "The Dark Lady." Rumpadump recovered (uninfected). Sarith's infection confirmed as Zuggtmoy-linked.
+
+- **Grey Ghosts ambush in Gracklstugh alley** — Five derro killed; vendetta note recovered.
+
+- **Grogluk gate checkpoint** — 20gp bribe paid; party passed as non-Ember-Vanguard.
+
+- **Themberchaud dragon ride — Gracklstugh** — Party used Themberchaud's express transport to bypass checkpoints; several party members fell off but were saved. Escaped onto the Darklake.
+
+- **Departure from Gracklstugh** — Successful escape by boat onto the Darklake. City left on verge of civil war with "Ember Vanguard" wanted posters circulating.
+
+- **Faerzress crystal cave scavenging** — Two crystal caves harvested; cave staged to look like monster attack to obscure party's trail; Fuurm Coppernose and Baedora (human escapees) joined the group.
+
+- **Lost Tomb of Khaem — Netherese tomb exploration** — Explored upper tomb, defeated four Spectres (Daz sustained significant necrotic damage), looted sarcophagi of Netherese treasure. Descended to true burial chamber; Wraith Brysis of Khaem destroyed by Grygum's acid breath and Dawnbringer. Dawnbringer (sentient sunblade) recovered from the tomb. Magical trap on false tomb dissipated upon Brysis's destruction. Necklace of Fireballs and Potion of Greater Healing found in invisible chest.
+
+- **Drow pursuit level tracked** — Eldeth successfully obscured trail for multiple days; she confirmed by arrival at Neverlight Grove that drow pursuers had lost the party's trail. Pursuit from Velkynvelve ended.
+
+- **Reach Neverlight Grove — myconid colony** — Arrived on 8th day of 2nd Tenday of Myrkhul 1495. Toured the colony with Sovereign Basidia. Witnessed Sovereign Phylo's corruption by Zuggtmoy.
+
+- **Stool — return to Neverlight Grove** — Completed. Stool returned safely and was happy; later convinced to depart with Rusharoo's evacuation group when the grove became unsafe.
+
+- **Rumpadump — return to Neverlight Grove** — Completed. Rumpadump returned safely; later departed with Rusharoo's evacuation group.
+
+- **Grick hunt for Basidia** — Grick located and killed; corpse delivered to Basidia for reanimation.
+
+- **Shambling Mound — Neverlight Grove swamp** — Located via Daz's Shape Water grid technique; stunned and killed by Zalthir and Spirit Guardians.
+
+- **Xinaya — drow scout, fate in Garden of Welcome** — Found partially consumed by fungal growths in the Garden of Welcome; confirmed sent by Ilvara; mercy-killed by Thorin using Dawnbringer. Confirmation: Ilvara still pursuing the party at that point.
+
+- **Yestabrod — Circle of Masters leader, confrontation** — Fungal abomination killed by Zalthir; exploding corpse and acid spore attacks during the fight.
+
+- **Sarith Kzekarit — drow prisoner, demonic spore infection** — Infection reached terminal stage during Garden of Welcome combat; Sarith's head exploded, transforming him into a drow spore servant; killed by Jimjar. **Sarith is dead.**
+
+- **Garden of Welcome combat** — Fungal abomination, two corrupted myconids, and two drow spore servants defeated.
+
+- **Escape from Neverlight Grove** — Rusharoo guided party through pre-identified escape route; Basidia, Rusharoo, Loobamub, and Circle of Explorers/Hunters evacuated. Rusharoo guided party halfway toward Blingdenstone.
+
+- **Zuggtmoy's fetid wedding — Araumycos confrontation** (Phase 1) — Wedding rehearsal witnessed at Yggmorgus; party observed but did not engage further. Zuggtmoy's plan confirmed (marry Araumycos to control the Underdark's fungal network). Party fled Neverlight Grove. *Note: The full wedding/Araumycos confrontation described in the module's chapter 16 occurs later and is tracked separately below.*
+
+- **Oozing Temple — flooded dungeon exploration** — Earthquake-flooded complex fully explored; multiple gray oozes and black pudding defeated; treasure recovered (112sp, 3gp, drow dagger, oil of slipperiness); escaped by breaking through wall to underground river.
+
+- **Glabbagool — sentient gelatinous cube, first contact** — Found in oozing temple chamber; joined party voluntarily. Traveled with party through Blingdenstone and beyond.
+
+- **Reach Blingdenstone — deep gnome settlement** — Arrived; party passed through "the maze" and entered the city. Met Dorbo and Senni Diggermattock.
+
+- **Dorbo Diggermattock — Blingdenstone leader, first contact** — Met in Diggermattock Hall; tasked party with resolving the ooze threat before providing surface route assistance.
+
+- **Senni Diggermattock — Blingdenstone quartermaster, first contact** — Met in Diggermattock Hall; more open to Gold Whisker reconciliation than Dorbo.
+
+- **Vadimir Coaxrock cube incursion — Blingdenstone traders grotto** — Multiple gelatinous cubes attacked the Trader's Grotto; all destroyed by the party.
+
+- **Retrieve Pelek's remains — Blingdenstone catacombs** — Grygum interred Pelek's bones in the Temple of the Ruby in the Rough. Pelek's ghost expressed relief and faded away peacefully. **Pelek's spirit is at rest.**
+
+- **Burrow Warden Jadger's tasks — lay gnome spirits to rest** — Jadger appeared; deal established (ghosts laid to rest = truthful answers). Udhask's remains recovered; Vazuk's ghost destroyed (by Jimjar and Eldeth off-screen). Jadger confirmed satisfied; offered two truthful answers to any questions; saluted the party with spectral banner on departure.
+
+- **Vazuk's ghost — laid to rest** — Completed by Jimjar and Eldeth during the temple mission.
+
+- **Clan Goldwhisker truce negotiation — Blingdenstone** — Daz negotiated with Chipgrin Goldwhisker; wererats allied under party command. Later formalized: wererats granted control of upper boroughs as a self-funded defense force. **Truce complete.**
+
+- **Scouting the Pudding King's lair** — Daz's bat familiar located the Pudding King on a slime-covered throne controlling hundreds of oozes.
+
+- **Grand Moot of Blingdenstone Leaders** — All factions convened; Daz led the meeting; battle plan agreed upon; multiple supporting quests assigned.
+
+- **Neheedra the medusa — Rockblight confrontation** — Medusa defeated; Zalthir deflected gaze with ice mirror causing her to be restrained by own reflection; Daz delivered killing blow with magic missiles. Five spider silk dresses recovered.
+
+- **Ogrémoch's Bane — elemental entity banishment** — Ruby spell gem placed in the great menhir; multiple deranged earth elementals destroyed; three (then more) Galeb Duhr freed from Ogrémoch's control. White light from the menhir created a hallowing effect cleansing the temple. Confirmed successful by three Galeb Duhr.
+
+- **Cleanse the Steadfast Stone — Rockblight** — Completed. Medusa defeated; temple hallowed; Ogrémoch's Bane purged; psychic static in Hall of Melting Mirrors later neutralized by Thorin identifying the harmonic center (wererats silenced the noise permanently).
+
+- **Ghost Hold Lichen harvest — Festering Fissure** — Zalthir harvested lichen from a Zuggtmoy-corrupted cave; shambling mound defeated; lichen delivered to Kazook Pickshine for anti-acid armor preparations.
+
+- **Galeb Duhr blockade at Pickshine Mine** — Daz identified the Galeb Duhr's vibrations as a linguistic pattern; completed the "ancient handshake protocol"; passage opened; two ruby gems (500gp) rewarded by Dasco Pickshine.
+
+- **White Shell Mine time-snagged tunnel** — Zalthir used Shadow Monk abilities to redirect a controlled gnome explosive blast through shadow space; wall safely shattered; passage to Entémoch's Boon opened.
+
+- **Entémoch's Boon — summoning circle discovered** — Found beyond the White Shell Mine; three sacrifices required (wealth, weapon, blood). Ritual completed; Entémoch's Boon released; party gained Earth Elemental summoning ability and stone-skin defensive blessing.
+
+- **Basilisks and eggs at Entémoch's Boon — encounter** — Two basilisks defeated during the ritual. One charmed by Daz, one killed by Zalthir in melee.
+
+- **Find Entémoch's Boon — Blingdenstone outskirts** — Completed. Summoning circle found and ritual completed.
+
+- **Gnome elemental labor dispute** — Party argued successfully against using Earth Elementals as mining labor; Senni Diggermattock seized control of the meeting; Earth Elementals restricted to defense and warfare only.
+
+- **Council of Blingdenstone — post-war political settlement** — All factions reconciled; wages increased for working-class gnomes; wererats granted upper boroughs; sustainable mining practices respecting ghost burial grounds adopted; Dorbo announced plans to reopen Blingdenstone for surface trade.
+
+- **Encounter with the Pudding King — Blingdenstone** — Pudding King located in throne room with Prince Livid and Princess Ebonmire; Zalthir grappled him and dragged him from his lair. Full battle: Pudding King destroyed (dissolved), Prince Livid killed (magic missiles), Princess Ebonmire killed (combined attacks); spellbook recovered from Ebonmire's stomach. Juiblex's influence began receding.
+
+- **Battle for Blingdenstone — ooze incursion** — Uncontrolled ooze army breaching the Trader's Grotto pacified through Jimjar's bone die and Glabbagool's telepathic bridge; oozes dispersed peacefully. Ooze threat to Blingdenstone fully ended.
+
+- **Jimjar's true nature revealed** — Zalthir's inspection revealed Jimjar possesses divine-level immunities and resistances (poison, psychic, charm, fear immunity; radiant and non-magical physical resistance) — profile consistent with an angel or deity. Jimjar noticed, winked, and vanished from existence. Returned Grygum's ten platinum before departing. Strongly believed to be a celestial or divine being.
+
+- **Deception of Asha Vandree** — Daz impersonated a Lolth vessel using Dancing Lights and his spider familiar; Asha saw through the divine possession claim but accepted Daz as a useful instrument. Alliance negotiated: party kills Ilvara, receives Ilvara's magical items. Glabbagool passed off as Daz's "ooze familiar."
+
+- **Ilvara Mizzrym — final confrontation at the Fungal Cavern** — Ilvara, corrupted by Zuggtmoy, fought the party in a Fungal Cavern several days from Blingdenstone. Heart Fungus destroyed by Thorin's Dawnbringer (radiant damage, single round). Ilvara killed by Grygum's Guiding Bolt; her body erupted into poisonous spores (total corruption confirmed). Jorlan Duskryn charged Ilvara during the battle (personal vendetta); survived. House T'sarran reinforcements arrived (5 warriors + mage); mage killed by Zalthir, most warriors incinerated by Daz's sculpted Fireball; one T'sarran warrior escaped. **Ilvara Mizzrym is dead.**
+
+- **Asha Vandree — eliminated post-battle** — After Ilvara's death, Asha declared herself in charge. Zalthir killed her using Eldritch Claw Tattoo strikes while Thorin grappled her. Theological documents (Lolth-Zuggtmoy syncretism), prayer beads, chain mail, and drow cloak recovered. **Asha Vandree is dead.**
+
+- **Drow pursuers final confrontation — chapter 7** — Ilvara confirmed dead; drow pursuit from Velkynvelve definitively closed. House Mizzrym lost contact with Ilvara (sealed correspondence recovered).
+
+- **Characters return to the surface world** — Full party emerged from the Underdark through a tunnel mouth into sunlight. Extended recovery period began. Drow cloaks disposed of before they disintegrated.
+
+- **Eldeth Feldrun — return to Gauntlgrym or honor her memory** — Eldeth departed the party at the tunnel mouth to travel west to Mithril Hall; sworn oath to brief dwarven lords and advocate for Thorin's clan adoption. Last known location: surface road west of the Underdark exit.
+
+- **House T'sarran spy captured** — A drow spy sent by House T'sarran's matron to track the party on the surface was captured by Zalthir, interrogated, miniaturized via mushroom, and is held in the bag of holding under Glabbagool's watch.
+
+- **Elin's examination (Daggerford)** — Dawnbringer's Lesser Restoration temporarily enabled Elin (age 7, silent child) to speak one sentence ("The wells are not wells anymore"). Condition identified as non-magical, non-fungal; attributed to residual demon lord madness bleeding up from the Underdark. Not cured.
+
+- **Zalthir's Shadow Monk Trial (Candlekeep)** — Zalthir passed despite failing all formal skill demonstrations; impressed blind monk with combat capability; awarded specialized shadow technique (option C).
+
+- **Dawnbringer's therapeutic assessment (Candlekeep)** — Enrolled in two-stage treatment under Master Archivist Philemon: light therapy (remembering daylight) followed by grief work for previous wielder. In progress.
+
+- **Daz's records investigation (Candlekeep)** — Obtained *Geography and Cities, Menzoberranzan, Pillars of Woe* (heraldry book); appendix physically removed by razor ≥50 years ago; footnote references *Daz'issin* ("small shadow"), a diminutive name mothers gave sons they wanted to live; someone with fourth-seat archive privileges paid to have certain house records struck from Menzoberranzan's official ledger. Public records sealed; Yvenne knows more than she can officially say. Investigation ongoing.
+
+- **Candlekeep gates — party arrival and Five Books admission** — Party arrived at Candlekeep, donated five books (Princess Ebonmire's spellbook, Ilvara's prayer book, Asha's theological document, Velkynvelve prisoner journal, Pliinki's journal), received handler assignments, and began separate inquiries.
 
 ---
 
 ## Resolved Plot Threads
 
-- **Shuushar's companion quest** — Shuushar found kuo-toa refugees receptive to his pacifist philosophy and chose to lead them. Departed party on 8th day of 3rd Tenday of Taraskh. His quest resolved.
-- **Sloobludop's fate** — Destroyed by Demogorgon. The Ploopploopeen/Bloppblippodd religious conflict is moot.
-- **Buppido's true nature and death** — Serial killer driven by divine-plan delusions. Murdered Yuk Yuk. Exposed at shrine, attacked party, killed by Daz's magic missiles in Whorlstone Tunnels.
-- **Faerzress anomaly — partial revelation** — Faerzress "blinked" (went dark, returned brighter) a few months before campaign start. Daz theorized this weakened planar barriers enabling demon lord incursions. Corroborated by Pelek's testimony and Stonespeaker Hgraam's prophecy. Root cause (Gromph Baenre's ritual) not yet known to party.
-- **Gracklstugh political crisis — contained** — Party departed without triggering citywide war. Narrak's cult disrupted, dragon egg returned, stone giant curse stopped. City survived with strange peace, mass executions, and Ember Vanguard paranoia. Secrets (Deep King's kill list, corrupted egg details) carried out rather than revealed.
-- **Jimjar's true nature** — Revealed at Blingdenstone: immune to poison, psychic damage, charm, and fear; resistant to radiant damage and non-magical physical attacks. Consistent with angel or deity. Winked at party and vanished, leaving only platinum coins. Returned Grygum's ten platinum. Hinted at future reunion.
-- **Neverlight Grove — lost to Zuggtmoy's corruption** — Phylo remains corrupted; Basidia's loyalists evacuated. Party departed permanently.
-- **Sarith Kzekarit's spore infection** — Reached terminal stage during Garden of Welcome battle. Head exploded; became spore servant; killed by Jimjar. Closed.
-- **Ilvara Mizzrym's pursuit** — Definitively ended. Ilvara killed at the Fungal Cavern; body erupted into spores from Zuggtmoy corruption. No corpse remained. Her command structure destroyed.
-- **Jorlan's gambit** — Gate left unlocked as agreed; escape succeeded. Jorlan's personal vendetta against Ilvara was fulfilled when he charged her during the final battle (allowed to pass by Thorin).
-- **House T'sarran extraction contract — failed** — T'sarran hired a mage and mercenaries to capture Daz alive. Mage killed; mercenaries killed; contract documents in party's possession.
-- **Asha Vandree's betrayal** — Did not ultimately betray Ilvara in the original sense; instead allied with party to kill Ilvara, then tried to seize control after Ilvara's death. Killed by Zalthir.
-- **Blingdenstone ooze incursion** — Fully resolved. Pudding King dissolved; ooze army pacified; all factions reconciled; city reopening for surface trade. Juiblex's influence receding.
-- **Prince Derendil's delusion** — Killed by Imbros during the Velkynvelve revolt before his delusion could be resolved. Died in quaggoth form believing himself a prince.
-- **Ront's death** — Killed by a vrock during the Velkynvelve escape when he refused to flee and attacked to prove courage.
+- **Escape from Velkynvelve** — Closed. Party escaped via waterfall, fled drow pursuit, original gear abandoned, Jorlan's gambit executed successfully.
+- **Shuushar's companion quest** — Closed. He found kuo-toa refugees receptive to his philosophy and departed the party voluntarily.
+- **Sloobludop's fate** — Closed. Destroyed by Demogorgon. Religious conflict between Ploopploopeen and Bloppblippodd rendered moot.
+- **Buppido's nature and death** — Closed. Buppido exposed as a deranged serial killer (divine plan delusion); killed by party in the Whorlstone Tunnels.
+- **Faerzress anomaly — partial revelation** — Partially closed. Confirmed the Faerzress "blinked" a few months before play began, likely weakening planar barriers and enabling demon lord incursions. Root cause (Gromph Baenre's ritual) not yet known to the party.
+- **Gracklstugh factions — resolved** — Closed. Dragon egg delivered to Gartokkar; stone giant ritual disrupted and reported to Hgraam; party escaped. Gracklstugh survived with strange peace; mass executions; "Ember Vanguard" wanted posters.
+- **Sarith Kzekarit's spore infection** — Closed. Sarith died in the Garden of Welcome at Neverlight Grove; head exploded, became spore servant, killed by Jimjar.
+- **Xinaya's mission** — Closed. Found fungally corrupted in Garden of Welcome; mercy-killed by Thorin.
+- **Neverlight Grove — lost to Zuggtmoy** — Closed as an active party location. Phylo remains corrupted; Basidia's loyalists evacuated. Party departed permanently.
+- **Blingdenstone ooze threat** — Closed. Pudding King destroyed; Prince Livid and Princess Ebonmire killed; Juiblex's influence receding; city unified and reopening for surface trade.
+- **Ilvara Mizzrym pursuit** — Definitively closed. Ilvara killed in the Fungal Cavern; her body erupted into spores; House Mizzrym has lost contact with her.
+- **Drow pursuit from Velkynvelve** — Definitively closed (see Ilvara above).
+- **Asha Vandree** — Closed. Killed post-battle by Zalthir.
+- **Pelek's ghost** — Closed. Spirit laid to rest in Blingdenstone catacombs.
+- **Burrow Warden Jadger's ghost tasks** — Closed. Jadger satisfied; ghosts at peace with living factions.
+- **Clan Goldwhisker truce** — Closed. Wererats formally integrated into Blingdenstone governance.
+- **Jimjar's true nature** — Partially closed as immediate thread. Revealed as likely celestial/divine being; departed voluntarily. Hinted at future reunion.
+- **Eldeth Feldrun's surface return** — Closed as immediate thread. Departed to Mithril Hall with sworn oath to advocate for Thorin.
+- **House T'sarran extraction contract** — Closed (failed). Mage dead, mercenaries dead, contract documents in party possession.
 
 ---
 
 ## NPC Current States
 
 | NPC | Status | Last Known Location | Disposition toward Party |
-|-----|--------|---------------------|--------------------------|
-| Ilvara Mizzrym | Dead | Fungal Cavern (days from Blingdenstone) | N/A — killed by party |
-| Jorlan Duskryn | Alive | Fungal Cavern (last seen) | Neutral/unknown — personal vendetta satisfied |
-| Shoor Vandree | Unknown | Unknown | Unknown |
-| Asha Vandree | Dead | Fungal Cavern | N/A — killed by Zalthir |
-| Buppido | Dead | Whorlstone Tunnels, Gracklstugh | N/A |
-| Prince Derendil | Dead | Velkynvelve | N/A |
-| Eldeth Feldrun | Alive | Traveling west to Mithril Hall (surface) | Friendly; sworn oath to advocate for Thorin's clan adoption |
-| Jimjar | Unknown (divine entity) | Vanished from Blingdenstone | Friendly; hinted at future reunion |
-| Ront | Dead | Velkynvelve (escape) | N/A |
-| Sarith Kzekarit | Dead | Neverlight Grove | N/A |
-| Shuushar the Awakened | Alive | Unknown Underdark (with kuo-toa refugees) | Friendly |
-| Stool | Alive | Evacuated with Rusharoo's myconid group, location unknown | Friendly |
-| Rumpadump | Alive | Evacuated with Rusharoo's myconid group, location unknown | Friendly |
-| Topsy and Turvy | Unknown | Separated from party during Gracklstugh stay | Unknown |
-| Spiderbait | Alive | Candlekeep | Friendly; seeking employment there |
-| Ploopploopeen | Unknown (presumed dead) | Sloobludop (destroyed) | Unknown |
-| Bloppblippodd | Dead | Sloobludop altar | N/A |
-| Gorglak | Alive | Gracklstugh gate | Neutral (accepted bribe) |
-| Errde Blackskull | Alive | Overlake Hold, Gracklstugh | Neutral/hostile; likely informed drow of party's passage |
-| Themberchaud | Alive | Gracklstugh (reportedly extremely obese, diminished role) | Considers party his agents; unaware they left without fulfilling arrangement |
-| Gartokkar Xundorn | Alive | Gracklstugh, Keepers of the Flame | Neutral; received dragon egg, paid party |
+|---|---|---|---|
+| Ilvara Mizzrym | Dead | Fungal Cavern (Underdark) | — |
+| Jorlan Duskryn | Alive | Last seen in Fungal Cavern after battle | Neutral/Unknown (no longer actively hostile; personal vendetta was against Ilvara) |
+| Shoor Vandree | Unknown | Gracklstugh / Underdark | Unknown |
+| Asha Vandree | Dead | Fungal Cavern (Underdark) | — |
+| Buppido | Dead | Whorlstone Tunnels (Underdark) | — |
+| Prince Derendil | Dead | Velkynvelve (Underdark) | — |
+| Eldeth Feldrun | Alive | En route to Mithril Hall (surface) | Friendly; sworn oath to advocate for Thorin |
+| Jimjar | Unknown (divine being; vanished) | Departed Blingdenstone | Friendly; hinted at future reunion |
+| Ront | Dead | Velkynvelve escape (Underdark) | — |
+| Sarith Kzekarit | Dead | Neverlight Grove (Underdark) | — |
+| Shuushar the Awakened | Alive | Last seen Darklake with kuo-toa refugees | Friendly |
+| Stool | Alive | Departed with Rusharoo's myconid group | Friendly |
+| Rumpadump | Alive | Departed with Rusharoo's myconid group | Friendly |
+| Topsy | Alive (presumed) | Left party during Gracklstugh area | Unknown |
+| Turvy | Alive (presumed) | Left party during Gracklstugh area | Unknown |
+| Ploopploopeen | Unknown (presumed dead) | Sloobludop ruins | — |
+| Bloppblippodd | Dead | Sloobludop | — |
+| Demogorgon | Alive (demon lord, material plane) | Underdark (at large) | Hostile to all |
+| Gorglak | Alive | Gracklstugh | Neutral/corrupt |
+| Errde Blackskull | Alive | Overlake Hold, Gracklstugh | Neutral/tense (party left without full debrief; she likely informed drow of their passage) |
+| Themberchaud | Alive | Gracklstugh | Uncertain (considers party his agents; deal unfulfilled) |
+| Gartokkar Xundorn | Alive | Gracklstugh | Neutral (contract fulfilled; warned party about the hunt) |
 | Ylsa Henstak | Unknown | Gracklstugh | Unknown |
-| Droki | Unknown | Gracklstugh/Whorlstone Tunnels | Hostile |
-| Werz Saltbaron | Alive | Gracklstugh | Friendly; paid NDA, committed to gnome weapons deal |
-| Stonespeaker Hgraam | Alive | Cairngorm Cavern (sealed) | Neutral-friendly; sealed cavern after second audience |
-| Narrak | Dead | Whorlstone Tunnels | N/A |
-| Glabbagool | Alive | Candlekeep (inside bag of holding) | Friendly; traveling with party |
-| Sovereign Phylo | Alive (corrupted) | Neverlight Grove | Hostile (Zuggtmoy's servant) |
-| Sovereign Basidia | Alive | Unknown Underdark (evacuated with myconids) | Friendly |
-| Yestabrod | Dead | Neverlight Grove | N/A |
-| Xinaya | Dead | Neverlight Grove, Garden of Welcome | N/A |
-| Zuggtmoy | Alive (loose in Underdark) | Neverlight Grove / expanding influence | Hostile |
-| Dorbo Diggermattock | Alive | Blingdenstone | Friendly; plans to reopen city for surface trade |
-| Senni Diggermattock | Alive | Blingdenstone | Friendly |
-| Kazook Pickshine | Alive | Blingdenstone | Friendly |
-| Chipgrin Goldwhisker | Alive | Blingdenstone (upper boroughs) | Friendly; gave Daz Voucher of the Varmint |
-| Burrow Warden Jadger | Alive (ghost) | Blingdenstone, Temple of the Ruby in the Rough | Friendly; training next-gen Burrow Wardens |
-| The Pudding King | Dead | Blingdenstone throne room | N/A |
-| Bruenor Battlehammer | Unknown | Gauntlgrym (not yet visited) | Unknown |
-| Demogorgon | Alive (loose in Underdark) | Unknown (last seen Sloobludop) | Hostile |
-| Juiblex | Alive (influence receding) | Underdark | Hostile; declared he will be reborn |
-| Baphomet | Unknown | Underdark | Unknown |
-| Yeenoghu | Unknown | Underdark | Unknown |
-| Fuurm Coppernose | Unknown | Separated from party (last seen traveling with party) | Friendly |
-| Baedora | Unknown | Separated from party (last seen traveling with party) | Friendly |
-| Glyphic Shroomlight | Alive | Blingdenstone, Temple of the Ruby in the Rough | Friendly |
-| Rusharoo | Alive | Unknown Underdark (departed after guiding party halfway to Blingdenstone) | Friendly |
-| Hemath (duergar arms dealer) | Unknown | Gracklstugh (last seen on boat) | Neutral-friendly |
-| Kaelira Duskryn | Alive | Unknown (departed after contract fulfilled) | Professionally neutral; employer unknown |
-| Nym Duskryn | Alive | Unknown (departed after contract fulfilled) | Professionally neutral; expressed frustration at Daz |
-| House T'sarran surface spy (unnamed) | Alive (captive) | Bag of holding (Candlekeep) | Hostile |
-| House T'sarran matron mother | Alive | Menzoberranzan | Hostile; monitoring Daz; sent agents to surface |
-| Dawnbringer | Alive (sentient weapon) | Carried by Thorin | Friendly; has own strong personality; pleased with locking scabbard |
-| Vizeran DeVir | Not yet encountered | Unknown | Unknown |
-| Quenthel Baenre | Not yet encountered | Menzoberranzan | Unknown |
-| Jarlaxle Baenre | Not yet encountered | Unknown | Unknown |
-
----
-
-## Active Quests & Open Threads
-
-- **Demon lords loose in the Underdark** — Demogorgon, Zuggtmoy, Juiblex (receding but declared rebirth), Baphomet, and Yeenoghu all confirmed or implied loose in the Prime Material Plane. Root cause (Gromph Baenre's ritual identified by party implication but not confirmed knowledge) unresolved. Party has escaped the Underdark but the crisis continues. Stakes: all of Faerun. Last state: party arrived at Candlekeep to research and plan next steps.
-- **Who paid for Daz's protection?** — An unknown party in Menzoberranzan paid Nym and Kaelira Duskryn a significant sum specifically to protect Daz from House Mizzrym and House T'sarran. Even the sisters don't know the employer. House T'sarran is using Daz as bait to identify this patron. Stakes: Daz's identity, safety, and house affiliation. Last state: Daz pursuing this at Candlekeep via scholar research.
-- **House T'sarran vendetta** — One T'sarran warrior escaped the Fungal Cavern battle and reported to the matron mother. A surface spy has been captured but a second agent may still be at large. The matron has ruled for 200 years and is actively monitoring Daz on the surface. Stakes: ongoing threat to party. Last state: spy imprisoned in bag of holding; party at Candlekeep.
-- **Jimjar's true nature** — Revealed as possessing divine/angelic immunities. Vanished from Blingdenstone. Hinted at future reunion. Stakes: identity of a possible divine patron or guardian. Last state: Zalthir assigned to scholar Khell-Vire at Candlekeep for research.
-- **Return to the Underdark / Vizeran's ritual (module chapters 9–17)** — The demon lord crisis requires someone to go back. Vizeran DeVir's tower at Araj,
+| Droki | Unknown | Whorlstone Tunnels area | Unknown |
+| Werz Saltbaron | Alive | Gracklstugh | Friendly (NDA, personal gratitude) |
+| Stonespeaker Hgraam | Alive | Cairngorm Cavern (sealed), Gracklstugh | Neutral (sealed his cavern, withdrawing from affairs) |
+| Narrak | Dead | Whorlstone Tunnels | — |
+| Glabbagool | Alive (now in ooze form) | Bag of holding (with party) | Friendly companion |
+| Sovereign Phylo | Alive (corrupted) | Neverlight Grove | Hostile (Zuggtmoy's agent) |
+| Sovereign Basidia | Alive | Unknown (evacuated with myconid group) | Friendly |
+| Yestabrod | Dead | Neverlight Grove | — |
+| Xinaya | Dead | Garden of Welcome,

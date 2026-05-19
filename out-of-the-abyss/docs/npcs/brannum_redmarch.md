@@ -1,14 +1,17 @@
 ---
 name: Brannum Redmarch
-aliases: []
-source_extracts: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55]
+aliases:
+  - Brannam
+source_extracts: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56]
 ---
 
 # Brannum Redmarch
 
 ## Identity
-- Castaway and traveling merchant/trader
+- Castaway and traveling merchant/trader; also recorded as a duergar in his courier role
 - Has been traveling with the party; encountered prior to their approach to Gracklstugh
+
+*Also known as: Brannam (spelling drift used in extract recording the 10th-of-Myrtul magical-item delivery).*
 
 ## Personality & Motivations
 - Core goal: self-preservation and maintaining his freedom above all else
@@ -17,6 +20,7 @@ source_extracts: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18,
 ## History with the Party
 - **Approach to Gracklstugh:** Thorin raised the question of what to do with Brannum. Brannum panicked and pleaded not to be turned over to the guard, fearing for his freedom.
 - **Trade Deal:** When Zalthir asked about procuring uncommon magical items, Brannum revealed that trading is his profession. He claimed he could acquire an Eldritch Claw Tattoo, stating "I know a guy. But it will take a few days." He negotiated a deal — he would procure the items in exchange for a clean slate with the party. Thorin threatened consequences if Brannum betrayed them or failed to deliver. Brannum agreed nervously.
+- **10th of Myrtul (delivery):** Returned that evening to deliver the requested magical weapons and items to Thorin and Zalthir, fulfilling the procurement deal. (Recorded in this extract under the spelling "Brannam.")
 
 ## Current Status
 - **Last known location:** With the party, approaching or arriving at Gracklstugh

@@ -1,7 +1,8 @@
 ---
 name: Eldeth
-aliases: []
-source_extracts: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55]
+aliases:
+  - Eldev
+source_extracts: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56]
 ---
 
 # Eldeth
@@ -12,7 +13,7 @@ source_extracts: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18,
 - Skilled tracker, forager, and spelunker; served as the group's rear guard and trail-concealer
 - First met as a fellow prisoner in the Velkynvelve slave pen
 
-*Also known as: (none).*
+*Also known as: Eldev (transcription drift in extract 40 — Jadgar's dossier records both spellings for the same Barrow Warden assignment).*
 
 ## Personality & Motivations
 - Pragmatic survivalist with deep knowledge of Underdark flora, geology, and travel. Her core goal is reaching the surface—specifically Gauntlygrym, which she claims the Shield Dwarves now hold—and warning the surface world about the demonic incursion.
