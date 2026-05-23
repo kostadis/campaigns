@@ -1,14 +1,14 @@
 version: 2
 ui:
   session_doc:
-    session: gm-assist.md
+    session: /home/kroussos/campaigns/Phandalin/summaries/20260519/gm-assist.md
     extract_dir: /home/kroussos/campaigns/Phandalin/summaries/20260512/scene_extractions
     roleplay_dir: /home/kroussos/campaigns/Phandalin/summaries/20260512/vtt_roleplay_extractions
-    output_dir: /home/kroussos/campaigns/Phandalin/summaries/20260512
+    output_dir: /home/kroussos/campaigns/Phandalin/summaries/20260519
     summary_dir: /home/kroussos/campaigns/Phandalin/summaries/20260512/vtt_extractions
-    session_summary: /home/kroussos/campaigns/Phandalin/summaries/20260512/session-summary.md
-    scene_extractions_dir: /home/kroussos/campaigns/Phandalin/summaries/20260512/scene_extractions_new
-    narration_dir: /home/kroussos/campaigns/Phandalin/summaries/20260512/narration
+    session_summary: /home/kroussos/campaigns/Phandalin/summaries/20260519/session-summary.md
+    scene_extractions_dir: /home/kroussos/campaigns/Phandalin/summaries/20260519/scene_extractions_new
+    narration_dir: /home/kroussos/campaigns/Phandalin/summaries/20260519/narration
     party: /home/kroussos/campaigns/Phandalin/docs/party.md
     voice_dir: /home/kroussos/campaigns/Phandalin/voice
     examples_dir: /home/kroussos/campaigns/Phandalin/examples
@@ -48,7 +48,7 @@ ui:
     world_state: docs/world_state.md
     work_dir: /home/kroussos/campaigns/Phandalin
   vtt_summary:
-    input: GMT20260513-040103_Recording.transcript.vtt
+    input: GMT20260520-035018_Recording.transcript.cleaned.vtt
     output: session-summary.md
     context:
     - /home/kroussos/campaigns/Phandalin/docs/campaign_state.md
@@ -68,6 +68,28 @@ ui:
     synth_only: false
   grounding:
     summaries: null
+  profiles:
+    profiles:
+    - name: session-doc
+      knobs:
+        narrate_tokens: 22000
+        prose_mode: true
+        reflections: true
+        use_enhanced_sections: true
+        narration_genre: 'Phandalin is character-centered literary fantasy narrated
+          in close first-person past tense, one POV per section, with the heading
+          naming the character. The prose breathes with whoever is speaking — Vukradin''s
+          principled volleys, Soma''s tortle-patient asides ("shell sprout"), Valphine''s
+          drow-aesthete pain theology ("deliciously painful"), Brewbarry''s short
+          declaratives. Tone shifts scene to scene: earnest moral conviction, dark
+          comedy from contradiction, mechanical procedural during combat (hit points,
+          saves, the named spell), then back to lyrical interior. Dialogue carries
+          subtext; characters rarely say what they mean. Magic and corruption are
+          felt somatically before they are named. Description is sparse but specific;
+          favor the material noun over the poetic image. The narrator never editorializes
+          — each POV''s frame is the only frame.'
+        backend: anthropic
+    active: session-doc
   campaign_state:
     chunk_size: 60000
     extract_dir: docs/state_extractions
@@ -85,10 +107,10 @@ ui:
     split_chapters: '# Chapter'
     synth_only: false
   party:
-    config_path: ''
+    config_path: config/party.yaml
     output: /home/kroussos/campaigns/Phandalin/docs/party.md
     summaries: ''
-    mode: flat
+    mode: config
   planning:
     build_summaries: ''
     context: '/home/kroussos/campaigns/Phandalin/docs/campaign_state.md
@@ -265,7 +287,7 @@ ui:
       party: /home/kroussos/campaigns/Phandalin/docs/party.md
 runtime:
   default_model: claude-sonnet-4-6
-  session_dir: /home/kroussos/campaigns/Phandalin/summaries/20260512
+  session_dir: /home/kroussos/campaigns/Phandalin/summaries/20260519
 legacy:
   unmigrated:
     nav_session: ③ Scene Extraction

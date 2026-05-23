@@ -4,7 +4,7 @@
 - **Class & Level:** Druid 6
 - **Species:** Tortle
 - **Background:** Guide
-- **Player:** Wade 
+- **Player:** Wade
 - **Alignment:** Neutral
 - **Age / Gender / Size:** 45 / Female / Medium
 - **Height:** 5'2"

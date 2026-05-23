@@ -4,7 +4,7 @@
 - **Class & Level:** Barbarian 6
 - **Species:** Goliath
 - **Background:** Soldier
-- **Player:** Stephane 
+- **Player:** Stephane Boudreau
 - **Size:** Medium
 - **Experience Points:** Milestone
 

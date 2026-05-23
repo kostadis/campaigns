@@ -26,6 +26,10 @@ This is a D&D 5e campaign workspace managed with the **CampaignGenerator** tool 
 | `characters/` | Character sheets and mechanical stats |
 | `summaries/` | Session transcripts (VTT files), organized by date |
 | `docs/world_state.md` | World state document |
+| `docs/KP.md` | **KP biography** — Kazneporium Ketternopappux, gnome wizard / planar optimizer. Offstage structural antagonist; tracked via Planar Distortion Score. Aletra is his on-screen agent. Iymrith endgame collision documented here. |
+| `docs/CounterForce.md` | **Rimardo and Corrin doctrine** — Savras's manifested counterweight to KP. First playbill clue queued for the Woodland Manse; first public-act payoff queued for the Wayside Inn. Vukradin is the structural receiver. |
+
+**Note on generated docs:** `docs/campaign_state.md`, `docs/world_state.md`, `docs/party.md`, and `docs/planning.md` are CampaignGenerator outputs — do NOT hand-edit. Edits will be clobbered on next regeneration. For hand-authored campaign material, create new dossier files at `docs/` top level (matches `Aletra.md`, `Brundar.md`, `Kraken society.md` convention) and reference them from this CLAUDE.md so they surface in every session.
 
 ## Players and Characters
 

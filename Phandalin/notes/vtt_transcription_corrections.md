@@ -10,9 +10,9 @@ Seeded from `docs/npcs/*.md` YAML frontmatter aliases on 2026-05-03.
 
 | Wrong | Right |
 |---|---|
-| Bukradin, Fukurdin, Vukraden, Fukradin, Fukrudin, Lucredin, Mukraden, Rukrudin, Vukridin, Vuclin, Buccrotted, Fukratom, Krotom, Buchar, Vukerdin, Vucherton, Bucretin, Necrotin, Abu Kradin, Vikraden, Vocraden, Vercrotten, Blue Crabin, Bukraden | **Vukradin** |
+| Bukradin, Fukurdin, Vukraden, Fukradin, Fukrudin, Lucredin, Mukraden, Rukrudin, Vukridin, Vuclin, Buccrotted, Fukratom, Krotom, Buchar, Vukerdin, Vucherton, Bucretin, Necrotin, Abu Kradin, Vikraden, Vocraden, Vercrotten, Blue Crabin, Bukraden, Vucrodan | **Vukradin** |
 | Sona, Big Elk, Soma Elk, Zoma Elk, Silma Bear, Silma Spider, Lee | **Soma** |
-| Alphine, Valpina, Valfine, Valfina, Valfina Europe, Valfini Centaur, Buffin, Alfina, Belfina, Valfida, Vilfina | **Valphine** |
+| Alphine, Valpina, Valfine, Valfina, Valfina Europe, Valfini Centaur, Buffin, Alfina, Belfina, Valfida, Vilfina, Velfina, Velphine, Alfuna, Delphina, Pelfina, Valfinay, Valfino, Valfining | **Valphine** |
 | Brewberry, Frewbury, Blueberry, Brewery, Barry, Breweri, Brubberry, Burberry, Burbury, Burger | **Brewbarry** |
 | Bukradinhos, Vukravenius | **Vukradinious** |
 
@@ -42,17 +42,24 @@ Seeded from `docs/npcs/*.md` YAML frontmatter aliases on 2026-05-03.
 | Xanthopoulos, Is Xanth, Xantha Centaur, Xanthes, Centaur Alla Exanth | **Xanth** |
 | So Bob, So Bob Saget | **Bob Saget** |
 | Lira | **Lyra** |
-| Bonies,Bony,Stable Boney | **Boney** |
-| Lepander, Lefender, Lithander, Lathanzer, Lathunder, Lithender, Lothander, Luthander | **Lathander** |
-| Telosian, Telosians, Telusian, Telusians | **Talosian** |
+| Bonies, Bony, Stable Boney, Bodie | **Boney** |
+| Lepander, Lefender, Lithander, Lathanzer, Lathunder, Lithender, Lothander, Luthander, Lathanders | **Lathander** |
+| Telosian, Telosians, Telusian, Telusians, Tolusians, Tallosians, Toloshian, Tolosians | **Talosian** |
 | Torb | **Torbin** |
 | Corbyn | **Corbin** |
-| Pritha, Prutho, Rutha | **Prutha** |
+| Pritha, Prutho, Rutha, Prusa, Pruth, Puthar | **Prutha** |
 | Lothandrian | **Lathandrian** |
 | Thalos | **Talos** |
-| Anarchite, The Groubear, Groubear | **Anchorite** |
+| Anarchite, The Groubear, Groubear, Anachorite, Anarchites | **Anchorite** |
 | Quan | **Orcs** |
 | The Centauri | **Centauri** |
+| Dorthok | **Gorthok** |
+| Cryovane, Krabein, cryo and Vein | **Cryovain** |
+| Asimer | **Aasimar** |
+| Loth | **Lolth** |
+| Torque | **Orc** |
+| Vorgalong memory, Vorgalong | **Vorga Long-Memory** |
+| Dernhardt | **Tovrak** |
 
 ## Items / artifacts
 | Pushions | **Potions** |
@@ -60,6 +67,8 @@ Seeded from `docs/npcs/*.md` YAML frontmatter aliases on 2026-05-03.
 | Silvery Barb | **Silvery Barbs** |
 | Spirit Gardens, Spirit Guardian | **Spirit Guardians** |
 | Thunder Wave, Thunderweave | **Thunderwave** |
+| Don Bow | **dawn-bow** |
+| Shrishna | **Sending spell** |
 
 | Wrong | Right |
 |---|---|
@@ -77,12 +86,17 @@ Seeded from `docs/npcs/*.md` YAML frontmatter aliases on 2026-05-03.
 | Shrine of Serva,Shrine of Servos | **Shrine of Savras** |
 | Lenzo Baranzin | **Menzoberranzan** |
 | Neverwinting | **Neverwinter** |
+| Mance | **Manse** |
+| Icepire | **Icespire** |
+| Falcons Hunting Lodge | **Falcon's Hunting Lodge** |
+| Gatehardt | **Gatehouse** |
+| Druid Summit | **Druid Council** |
 
 | Wrong | Right |
 |---|---|
 
 ## Real-world / table
-| Costatus, Castadis, And Cassadis, Cassadis | **Kostadis** |
+| Costatus, Castadis, And Cassadis, Cassadis, Christatis, Castados | **Kostadis** |
 
 | Wrong | Right |
 |---|---|
