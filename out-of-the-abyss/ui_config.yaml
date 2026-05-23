@@ -297,43 +297,52 @@ prep_config: config/config.yaml
 query_input: ''
 sd_batch: true
 sd_characters: Daz, Zalthir, Grygum, Thorin
-sd_context: '/home/kroussos/campaigns/out-of-the-abyss/docs/party.md
-
-  /home/kroussos/campaigns/out-of-the-abyss/docs/campaign_state.md
-
-  /home/kroussos/campaigns/out-of-the-abyss/docs/world_state.md'
+sd_context:
+- /home/kroussos/campaigns/out-of-the-abyss/docs/campaign_state.md
+- /home/kroussos/campaigns/out-of-the-abyss/docs/world_state.md
+- /home/kroussos/campaigns/out-of-the-abyss/docs/party.md
 sd_examples_dir: /home/kroussos/campaigns/out-of-the-abyss/examples
-sd_extract_dir: scene_extractions
+sd_extract_dir: /home/kroussos/campaigns/out-of-the-abyss/summaries/20260511/scene_extractions
 sd_extract_run: true
 sd_gm_player: Kostadis
-sd_narrate_tokens: '4000'
-sd_output_dir: /home/kroussos/campaigns/out-of-the-abyss/summaries/20260504
+sd_narrate_tokens: 20000
+sd_narration_dir: /home/kroussos/campaigns/out-of-the-abyss/summaries/20260511/narration
+sd_narration_genre: First-person comic-noir high fantasy memoir — observational, dry,
+  irony-forward, alive to absurdity. NOT epic-fantasy adventure prose; NOT literary-introspective
+  register.  NEVER use "the shape of X" / "the quality of X" / "X had a [shape|quality]"
+  / "that particular quality" to gesture at a pattern — name the thing concretely
+  or cut the sentence.
+sd_output_dir: /home/kroussos/campaigns/out-of-the-abyss/summaries/20260511
 sd_party: /home/kroussos/campaigns/out-of-the-abyss/docs/party.md
 sd_port: '5000'
-sd_roleplay_dir: vtt_roleplay_extractions
-sd_roleplay_summary: session-roleplay.md
+sd_prose_mode: true
+sd_reflections: true
+sd_roleplay_dir: /home/kroussos/campaigns/out-of-the-abyss/summaries/20260511/vtt_roleplay_extractions
+sd_roleplay_summary: /home/kroussos/campaigns/out-of-the-abyss/summaries/20260511/session-roleplay.md
+sd_scene_extractions_dir: /home/kroussos/campaigns/out-of-the-abyss/summaries/20260511/scene_extractions_new
 sd_server_pid: 1664793
-sd_session: gm-assist.md
+sd_session: /home/kroussos/campaigns/out-of-the-abyss/summaries/20260511/gm-assist.md
 sd_session_dir: summaries/20260324
 sd_session_name: the fight
-sd_session_summary: session-summary.md
-sd_summary_dir: vtt_extractions
+sd_session_summary: /home/kroussos/campaigns/out-of-the-abyss/summaries/20260511/session-summary.md
+sd_summary_dir: /home/kroussos/campaigns/out-of-the-abyss/summaries/20260511/vtt_extractions
+sd_use_enhanced_sections: true
 sd_voice_dir: /home/kroussos/campaigns/out-of-the-abyss/voice
-session_dir: /home/kroussos/campaigns/out-of-the-abyss/summaries/20260504
+sd_work_dir: /home/kroussos/campaigns/out-of-the-abyss
+session_dir: /home/kroussos/campaigns/out-of-the-abyss/summaries/20260511
 session_doc_examples_dir: /home/kroussos/campaigns/out-of-the-abyss/examples
-summaries: docs/TheUnderdark.md
+summaries: /home/kroussos/campaigns/out-of-the-abyss/docs/TheUnderdark.md
 vtt_chunk_size: 50000
-vtt_context: '/home/kroussos/campaigns/out-of-the-abyss/docs/campaign_state.md
-
-  /home/kroussos/campaigns/out-of-the-abyss/docs/world_state.md
-
-  /home/kroussos/campaigns/out-of-the-abyss/docs/party.md'
+vtt_context:
+- /home/kroussos/campaigns/out-of-the-abyss/docs/campaign_state.md
+- /home/kroussos/campaigns/out-of-the-abyss/docs/world_state.md
+- /home/kroussos/campaigns/out-of-the-abyss/docs/party.md
 vtt_date: ''
 vtt_extract_dir: /home/kroussos/campaigns/out-of-the-abyss/summaries/20260324/vtt_extracts
-vtt_input: session.cleaned.vtt
+vtt_input: /home/kroussos/campaigns/out-of-the-abyss/summaries/20260511/GMT20260512-005919_Recording.transcript.vtt
 vtt_no_log: false
-vtt_output: session-summary.md
-vtt_roleplay_output: session-roleplay.md
+vtt_output: /home/kroussos/campaigns/out-of-the-abyss/summaries/20260511/session-summary.md
+vtt_roleplay_output: /home/kroussos/campaigns/out-of-the-abyss/summaries/20260511/session-roleplay.md
 vtt_session_name: ''
 vtt_summary_run: true
 vtt_synth_only: false
