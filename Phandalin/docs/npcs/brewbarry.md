@@ -1,7 +1,7 @@
 ---
 name: Brewbarry
 aliases: []
-source_extracts: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42]
+source_extracts: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43]
 ---
 
 # Brewbarry
@@ -16,8 +16,9 @@ source_extracts: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18,
 ## Personality & Motivations
 - **Core Goals:** Unclear beyond immediate companionship with the party; appears driven by a personal rejection of Uthgardt cruelty and a desire to find something better. Also strongly motivated by finding drinks.
 - **Personality:** Loud, physical, and direct — he announces himself boldly and leads with his halberd. Beneath the bluster is genuine empathy, particularly for those hurt by the Uthgardts. He is capable of surprising compassion mid-combat and deescalates instinctively when he recognizes shared suffering. He takes small ownership instincts seriously (the cart, the prisoner) and has a dry, oblivious comic streak. Expresses moral disapproval of cruelty to animals.
-- **Combat Style:** Operates as an effective but blunt instrument in battle; his thinking is immediate and reactive. Rage for him is simplification rather than loss of self. Sometimes kills targets others wanted kept alive, which earns him affectionate exasperation from Vukradin. Uses Elemental Cleaver ability to retrieve thrown handaxes. Tracks the battlefield actively and repositions to capitalize on tactical advantages.
+- **Combat Style:** Operates as an effective but blunt instrument in battle; his thinking is immediate and reactive. Rage for him is simplification rather than loss of self. Sometimes kills targets others wanted kept alive, which earns him affectionate exasperation from Vukradin. Uses Elemental Cleaver ability to retrieve thrown handaxes. Tracks the battlefield actively and repositions to capitalize on tactical advantages. Wields the Dragon Slayer sword and wears a Dread Helm that produces a red-glow effect.
 - **Intelligence:** Considers orcs dumb and uses himself as a comparative baseline; whether this reflects genuine self-assessment or dry humor is unclear.
+- **Uthgardt Background:** Was found guilty of something while sober, a long time ago. Privately reflects on his Uthgardt relationship to Talos. Knows Uthgardt stories of the Great Boar — described as a thing conjured from storm and lightning, older than the gods claiming to own it.
 
 ## History with the Party
 
@@ -54,15 +55,28 @@ In the second cave, noted the carved lintel above the entrance, observed the pen
 
 In Narux's cave, initially assessed the space as containing nothing of interest and proposed leaving. Reviewed the Gorthok sketches and map fragment alongside Vukradin, arriving at the conclusion that Falcon's lodge was "where they hide the drinks — hidden in plain sight." When Vukradin reflected on the failure to protect Falcon's lodge before the orc attack, Brewbarry responded with "Excuses, excuses," without apparent irony.
 
+**Post-Battle Equipment Discussion (Falcon's Lodge Approach)**
+Examined the recovered shield — dark oak with iron bands, druidic carvings, and a Talosian bolt nailed crookedly over the face. He supported Vukradin's position that the shield was not theirs to keep, agreeing it belonged to whoever had left the half-orc tally (four notches and a slash) carved on the inside rim. When the group turned attention to his new halberd taken from the shipwreck, he deflected with the line "I got a divorce" and allowed Vukradin to supply the cover story that it was his original halberd, recently sharpened. He said nothing further and let the matter close.
+
+Listened to Valphine's theology of Lathander — the argument that light is power rather than tenderness, that it burns and harms and is worshipped out of fear of the dark. He reflected on this privately in terms of his own Uthgardt relationship to Talos, noting he was sober when found guilty, which was a long time ago. He did not share these thoughts aloud.
+
+**Falcon's Hunting Lodge Discovery**
+Discovered a broken cask whose contents — alcohol — had soaked into the floor planks and been wasted rather than consumed. He emerged from the lodge interior screaming, announced "I will kill them all!" to the courtyard, and was talked down by Vukradin, who promised more alcohol would be found. Brewbarry accepted this reluctantly.
+
+**Falcon's Lodge Siege**
+Observed the storm arrive wrongly — sudden darkness, panicking boars, and lightning strikes inside the compound. Received a defensive working from Valphine that he felt as an extra layer of protection. Checked his grip on the Dragon Slayer, noted his Dread Helm's red-glow effect, and positioned for combat. When Vukradin revealed Gorthok was already present among the attacking forces, Brewbarry's response was direct: *They are savages. We kill them all.* He had his sword in hand when the gate was destroyed by a directed lightning bolt and the Talosian forces began their assault.
+
+Reflected privately on Uthgardt stories of the Great Boar — a thing conjured from storm and lightning, older than the gods claiming to own it — and concluded that you probably don't stop something like that. You just get in front of it.
+
 ## Current Status
-- **Last Known Location:** Departing the Circle of Thunder with the party
-- **Active:** Traveling with the party
-- **Party Knows:** Former Uthgardt, exiled or estranged; has personal trauma connected to the clan
-- **Hidden:** Full circumstances of his exile remain unspoken
+- **Last Known Location:** Falcon's Hunting Lodge, during the Talosian siege
+- **Active:** Engaged in combat defense of the lodge; positioned with sword drawn as assault begins
+- **Party Knows:** Former Uthgardt, exiled or estranged; has personal trauma connected to the clan; acquired a new halberd from a shipwreck
+- **Hidden:** Full circumstances of his exile remain unspoken; what he was found guilty of while sober
 
 ## Relationships
-- **Vukradin:** Companionable; Vukradin has redirected attacks to create advantages for Brewbarry in combat and prompted him to switch weapons during the mimic fight. Brewbarry backed him socially at the tavern. Vukradin expresses affectionate exasperation at Brewbarry's blunt combat approach and pattern of killing targets others wanted alive. Subject of a side bet regarding his survival. The two work together on investigative tasks; Brewbarry sometimes deflates Vukradin's reflective moments with blunt commentary.
-- **Valphine:** Some tension — Brewbarry cut off her implied torture suggestion. He also moved to defend her instinctively when the orc attacked her, despite missing. Later killed Orc 9 after she told him to stomp the orc but called for non-lethal too late. She participated in destroying the holy symbols while Brewbarry offered no strong objection.
+- **Vukradin:** Companionable; Vukradin has redirected attacks to create advantages for Brewbarry in combat and prompted him to switch weapons during the mimic fight. Brewbarry backed him socially at the tavern. Vukradin expresses affectionate exasperation at Brewbarry's blunt combat approach and pattern of killing targets others wanted alive. Subject of a side bet regarding his survival. The two work together on investigative tasks; Brewbarry sometimes deflates Vukradin's reflective moments with blunt commentary. Vukradin provided a cover story for Brewbarry's new halberd and talked Brewbarry down from his rage over the wasted alcohol at the lodge.
+- **Valphine:** Some tension — Brewbarry cut off her implied torture suggestion. He also moved to defend her instinctively when the orc attacked her, despite missing. Later killed Orc 9 after she told him to stomp the orc but called for non-lethal too late. She participated in destroying the holy symbols while Brewbarry offered no strong objection. Brewbarry listened to her theology of Lathander and reflected privately on it in terms of his own relationship to Talos. She provided him with a defensive working before the siege at Falcon's Lodge.
 - **Boney:** Brewbarry intercepted an attack from Orc 9 aimed at Boney, taking the hit himself while raging.
 - **Soma:** Worked effectively with Soma in the gully battle; after Soma drove the anchorite prone, Brewbarry capitalized on the advantage to deliver the killing blow.
 - **Prutha:** She participated in destroying the holy symbols at the Circle of Thunder while Brewbarry offered no strong objection.

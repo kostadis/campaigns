@@ -11,7 +11,6 @@ source_extracts: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18,
 ## Identity
 - **Role:** Owner of Butterskull Ranch; retired veteran; former Sheriff of Triboar (predecessor to current Sheriff Darathra)
 - **First Appearance:** Referenced by name in Harbin Wester's quest posting as the contact and potential reward-giver at Butterskull Ranch. Later found by Vukradin in the ranch cellar, bound to a chair with a burlap sack over his head, surrounded by shelves of butter skulls — the party's primary rescue target under a standing contract.
-- *Also known as: Big Al, Alfonse Kalazorn.*
 
 *Also known as: Big Al, Alfonse Kalazorn.*
 
@@ -22,7 +21,7 @@ source_extracts: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18,
 - Motivated by love for Petunia and, it seems, unresolved feelings for Qelline Alderleaf. Always loved Qelline but wasn't ready to settle down when they were engaged.
 
 ## History with the Party
-1. **Quest posting received** — The party received a quest from Harbin Wester referencing Alfonse by name, tasking them with traveling to Butterskull Ranch and, if he was found alive, collecting a reward from him directly. An orc attack on the ranch suggested he might be dead.
+1. **Quest posting received** — The party received a quest from Harbin Wester referencing Alphonse by name, tasking them with traveling to Butterskull Ranch and, if he was found alive, collecting a reward from him directly. An orc attack on the ranch suggested he might be dead.
 2. **Rescued from cellar** — Vukradin located him bound and bagged in the ranch cellar. He confirmed he had been kept alive deliberately as bait for adventurers responding to the quest. He explained the sequence of events at the ranch: orcs had raided it first, but Borg the Hammer and the Rot-Tusk Ogres subsequently arrived, killed the orcs, and seized the property.
 3. **Offered the mithril chainmail** — Proposed it as reward for recovering Petunia. Vukradin questioned its origin; Big Al maintained he purchased it legitimately, which the party accepted as credible given his background.
 4. **Petunia recovered** — Soma used *Speak with Animals* to locate the cow, identified by a brand reading "Big Al's Cow." She was secured safely.
@@ -40,7 +39,7 @@ source_extracts: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18,
 - **Petunia (his cow):** His clearest emotional priority; the inciting reason for most of his interactions with the party
 - **Qelline Alderleaf:** Former fiancée; he abandoned her the night before their wedding. Still carries feelings for her. Currently attempting reconciliation.
 - **Darathra (current Sheriff of Triboar):** His successor as Sheriff; professional/historical connection
-- **Harbin Wester:** Named Alfonse in the quest posting; known association
+- **Harbin Wester:** Named Alphonse in the quest posting; known association
 - **Corbin:** Present at the camp where Big Al was delivered; direct contact
 - **Borg the Hammer:** Captor who displaced the original orc raiders and kept Big Al alive as bait
 - **Vukradin:** Rescued him from the cellar; questioned him on the chainmail. Relationship cordial but probing.

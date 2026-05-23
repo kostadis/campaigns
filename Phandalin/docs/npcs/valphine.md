@@ -3,7 +3,7 @@ name: Valphine
 aliases:
   - Valphine Sotorra
   - Valphine Sortorra
-source_extracts: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42]
+source_extracts: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43]
 ---
 
 # Valphine
@@ -28,6 +28,8 @@ source_extracts: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18,
 - Capable of frank self-assessment when her missionary attempts fail; accepts blunt feedback about her tactical presentation without apparent defensiveness
 - Capable of strategic deception for protective purposes — will conceal assets from allies if she believes disclosure would lead to refusal on principle
 - Interested in syncretism and ritual adaptation; willing to incorporate elements from other traditions (sunrise whistle, boar tusk sacraments) into her evolving practice
+- Articulates a dark theology of Lathander that unsettles others: "Light burns twelve hours a day, hurts everything at full strength, and people worship it because the alternative is worse — worship of power in plain sight, unashamed, causing harm constantly, called good because the dark is worse"
+- Dry humor in moments of tension or supernatural occurrence
 
 ## History with the Party
 
@@ -86,7 +88,7 @@ After the battle, participated in the debate over the holy symbols. Placed one o
 **Circle of Thunder Caves**
 Entered the caves with Brewbarry, Vukradin, and Prutha. Participated in the boar encounter in the first cave, allowing her radiant guardians to finish the animal after Vukradin's second insult escalated the situation. Observed dryly that the result was "radiated pork meat." Expressed interest in incorporating the boar tusk on a leather thong (recovered from bodies) into her sacraments.
 
-In the second cave, found the satchel with the Talosian wax seal and insisted on destroying the symbol before opening it. Translated the letters inside, which were written in a hand she identified as consistent throughout. The letters revealed: that a half-orc named Narux had been maintaining the henge while another figure named Grannoc was reckless and likely to summon before the Lodge was ready; that someone described as "the Chosen" was cultivating a young man from an eastern clan with fabricated stories, with the leash not yet revealed; and that if the henge fell, the manse would summon in its place, and if the manse fell, the writer would summon personally. 
+In the second cave, found the satchel with the Talosian wax seal and insisted on destroying the symbol before opening it. Translated the letters inside, which were written in a hand she identified as consistent throughout. The letters revealed: that a half-orc named Narux had been maintaining the henge while another figure named Grannoc was reckless and likely to summon before the Lodge was ready; that someone described as "the Chosen" was cultivating a young man from an eastern clan with fabricated stories, with the leash not yet revealed; and that if the henge fell, the manse would summon in its place, and if the manse fell, the writer would summon personally.
 
 Also recovered a half-burned letter fragment from a firepit signed only with the letter K, containing the line "dawn cannot rise where the storm already lives."
 
@@ -94,22 +96,38 @@ Found a hidden floor compartment in the cave that Vukradin had stepped over with
 
 Noted she had already laid groundwork with Falcon the Hunter at the druid conclave, proposing a musical instrument as a gesture of good faith, which Falcon had accepted. Offered to take the lead in smoothing relations with Falcon given Vukradin's complicated standing with him.
 
+**Shield Examination and Lodge Planning**
+During the shield examination, tilted her head with suppressed interest, then reached out and wiggled the Talosian bolt free — it had been stuck on crookedly from the start and came loose immediately. Turned the shield over, examined the newer leather straps smelling of pine tar and wet dog, and found the half-orc tally on the inside rim. When Vukradin declared the shield not theirs, she confirmed: "Done." Deflected Prutha's suggestion she use it — "You can use my shield" — and when Vukradin overrode that offer too, she stated without warmth: "It's not mine. Be sure." Tucked the shield under her arm to hold until the owner turned up. Added to the halberd cover story: "And it looks a little waterlogged."
+
+Spoke at length about Lathander, articulating her dark theology: people misunderstand what light is — it burns twelve hours a day, hurts everything at full strength, and people worship it because the alternative is worse; worship of power in plain sight, unashamed, causing harm constantly, called good because the dark is worse. This provoked Vukradin's observation about the cleric changing the god rather than the reverse.
+
+Reviewed the Talosian documents alongside Vukradin, sorted the two scenarios regarding the lodge attack (Talosian and then destroyed by the party, or not Talosian and yielding intel), and suggested approaching the lodge from the south. Recommended obscuring mist or darkness as a counter to lightning targeting.
+
+**Lodge Arrival and Defense**
+Opened negotiations in Orcish with Vorga and the elder at the lodge. Answered the elder's single word — *Dawn* — with: "Yes. I'm the bringer of the dawn. A painful dawn." Let him see her holy symbol clearly. Relayed in Common that the clan came from the southern mountains and had been told about the nearby Talosian threat. Flagged to Vukradin that Falcon's hunter cloak on Vorga's back was "not worthy" of pressing on — not a trophy but a practical garment — and Vukradin agreed.
+
+Cast a defensive working on the party during the pre-siege lull, described as bracing rather than healing, making bodies harder to drop. Positioned three orc archers at the gatehouse arrow slits, noting the fantastically defensible positions there.
+
+During the storm's arrival, her staff sprouted a new leaf. Noted it with dry humor: "Guys, it's sprouting!" and "It means an angel got its wings, don't worry."
+
 ## Current Status
-- **Last Known Location:** Departing the Circle of Thunder with the party
-- **Active Concerns:** Talos cult conspiracy involving figures named Narux, Grannoc, "the Chosen," and an unknown writer signing as K; the manse as a fallback summoning site; smoothing relations with Falcon the Hunter at the druid conclave
-- **What the Party Knows:** She is a Drow cleric of Lathander; she is competent, ruthless, and tactically cold; she finds near-death experiences "glorious"; she has a Menzoberranzan tactical mind and reads hierarchies instinctively; her missionary efforts can backfire spectacularly when she forgets orcs don't like drows; she has laid groundwork with Falcon the Hunter; she translated the Talosian conspiracy letters
+- **Last Known Location:** Lodge courtyard as the gate came apart and Gorthok's forces moved through
+- **Active Concerns:** Talos cult conspiracy involving figures named Narux, Grannoc, "the Chosen," and an unknown writer signing as K; the manse as a fallback summoning site; immediate defense of the lodge against Gorthok's forces; the supernatural event of her staff sprouting a new leaf during the storm
+- **What the Party Knows:** She is a Drow cleric of Lathander; she is competent, ruthless, and tactically cold; she finds near-death experiences "glorious"; she has a Menzoberranzan tactical mind and reads hierarchies instinctively; her missionary efforts can backfire spectacularly when she forgets orcs don't like drows; she had laid groundwork with Falcon the Hunter; she translated the Talosian conspiracy letters; she speaks Orcish fluently and can negotiate with orc clans; she articulates an unusually dark theology of Lathander as worship of unashamed harm; her staff sprouted a new leaf during the storm's arrival
 - **What Remains Hidden:** The depth of her internal conflict between Underdark instincts and Lathander's doctrine; her private calculation that sacrificing Corbin to the manticore would have been "a fair trade"; how sincere vs. performative her religious deference actually is; that she noticed Vukradin's slip naming Lathander mid-speech; **that she planted a powerful defensive potion in Vukradin's pack without his knowledge or consent**
 
 ## Relationships
-- **Vukradin:** Primary reason she joined the party; felt mysteriously compelled toward him. Finds his moral lectures eye-roll-worthy but follows his lead on quest selection. Mutual respect — she admires his political manipulation, comparing it to Drow technique; she reads his combat uncertainty but has not challenged him on it. Noticed his slip naming Lathander before correcting himself mid-speech and filed it silently. Accepted his loud ethical rejection of her suggested conversion name "Thrall" for Prutha. Has now secretly planted a defensive potion in his pack, reasoning he would refuse it on principle but will need it for what's coming — demonstrating both protective calculation and willingness to override his agency for pragmatic ends
+- **Vukradin:** Primary reason she joined the party; felt mysteriously compelled toward him. Finds his moral lectures eye-roll-worthy but follows his lead on quest selection. Mutual respect — she admires his political manipulation, comparing it to Drow technique; she reads his combat uncertainty but has not challenged him on it. Noticed his slip naming Lathander before correcting himself mid-speech and filed it silently. Accepted his loud ethical rejection of her suggested conversion name "Thrall" for Prutha. Has now secretly planted a defensive potion in his pack, reasoning he would refuse it on principle but will need it for what's coming — demonstrating both protective calculation and willingness to override his agency for pragmatic ends. Her articulation of Lathander's dark theology provoked his observation that she is changing the god rather than the reverse. Works alongside him as strategic partner in document review and tactical planning
 - **Soma:** Friction — Soma mocked her early miss; she holds contempt for the Moonbeam spell and has compared it unfavorably to Lathander's power; harbors no apparent grudge for being knocked unconscious by the miscast Ice Knife, though her delighted reaction unsettled Soma. Shared experience taking the lightning bolt at Circle of Thunder
 - **Brewbarry:** Instinctive alignment — both reached for torture first at Gnomengarde; they partnered in interrogating the captured orc. Combat partnership at Circle of Thunder approach and summit battle: she directed him toward the anchorite as priority target and called his strikes including the killing blow. Entered the caves together. Shared experience taking the lightning bolt at Circle of Thunder
 - **Corbin:** Privately assessed as expendable (manticore exchange); no overt conflict noted
-- **Prutha (converted orc):** Suggested the name "Thrall" for his conversion (rejected by Vukradin); worked alongside him stringing up the dead anchorite as a warning. Entered the caves with him. Exchange of affirmation after battle: responded to his great-uncle's saying with "Dawn is powerful," which he acknowledged
+- **Prutha (converted orc):** Suggested the name "Thrall" for his conversion (rejected by Vukradin); worked alongside him stringing up the dead anchorite as a warning. Entered the caves with him. Exchange of affirmation after battle: responded to his great-uncle's saying with "Dawn is powerful," which he acknowledged. Deflected his suggestion that she take the recovered shield, insisting it wasn't hers
 - **Adabra:** Immediate missionary impulse — offered to teach her about Lathander upon first meeting
 - **Dazlyn & Norbus (gnomes):** Privately considers them grave robbers
 - **Linene Graywind:** Brief social interaction; Valphine was casually open about enjoying her near-death experience
-- **Falcon the Hunter:** Has laid groundwork at the druid conclave, proposing a musical instrument as a gesture of good faith, which Falcon accepted. Offering to take the lead in smoothing relations given Vukradin's complicated standing
+- **Falcon the Hunter:** Has laid groundwork at the druid conclave, proposing a musical instrument as a gesture of good faith, which Falcon accepted. Offered to take the lead in smoothing relations given Vukradin's complicated standing. Her advance work enabled Vukradin's apology to land smoothly. Added context to Vukradin's Sending, suggesting he clarify the party was considering clearing the lodge
+- **Vorga (orc at the lodge):** Opened negotiations with her in Orcish; identified her wearing Falcon's hunter cloak and advised Vukradin not to press the issue as it was practical garment rather than trophy
+- **Elder (at the lodge):** Answered his single-word test — *Dawn* — with "Yes. I'm the bringer of the dawn. A painful dawn." Let him see her holy symbol clearly
 
 ## Arc Score Events
 - *(No arc score system referenced in source notes — no entries recorded)*

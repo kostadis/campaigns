@@ -8,37 +8,39 @@ explicit.
 
 ## Current horizon
 
-- **Last campaign chapter played:** *Unraveling the Storm God's Secrets* — bible heading "Chapter 40" (session-summary mislabelled it "Chapter 41"; the bible title is canonical, and going forward releases are tagged by **title slug** rather than number to avoid the ongoing bible-vs-session-summary numbering split)
-- **Last bible chapter file:** `docs/chapters/chapter_41_unraveling_the_storm_god_s_secrets.md` (file position 41 = bible heading "Chapter 40"; the splitter numbers files 01-NN by position while the bible's internal headings start at "Chapter 00")
-- **Last session date:** 2026-05-12
-- **Palace last fully (re)built:** 2026-05-04 — **this release deliberately SKIPPED the palace rebuild.** Mempalace code is in a transitional/unstable state; the existing palace dir was found with quarantined HNSW segments and was moved aside to a backup, but no re-mine was performed. Searches will fail until the palace is rebuilt manually after the mempalace code stabilises.
+- **Last campaign chapter played:** *A Storm of Bolts and Orcs* — session-summary "Chapter 42" = bible heading "Chapter 41 A Storm is Coming" (same +1 numbering split as last release; the bible's title differs slightly from the session-summary's working title)
+- **Last bible chapter file:** `docs/chapters/chapter_42_a_storm_is_coming.md` (file position 42 = bible heading "Chapter 41")
+- **Last session date:** 2026-05-19
+- **Palace last (re)mined:** 2026-05-22 — incremental re-mine for the chapter-42 release. New: extract_043 (+33), chapter_42_a_storm_is_coming.md (+49), and 32 phandalin-wing files (NPC dossier refresh / new top-level dossiers / new Drubbak NPC, +571 drawers). No full rebuild — chapter file paths unchanged, no orphan-drawer risk. Both sanity searches passed (bible excluded; chapter file reachable).
 - **Embedding device:** CPU (onnxruntime; matches OOTA — GPU swap blocked by torch cu13 vs onnxruntime-gpu cu12 mismatch)
 
-> **Chapter-numbering cleanup landed.** `docs/chapters/` now contains
-> **41 files for 41 bible chapters** (clean 1:1). The earlier dual-split
-> pollution in `docs/doc/chapters/` was removed during this release.
-> Releases now use **title-slug tags** instead of chapter numbers, since
-> the bible heading numbering and session-summary numbering disagree
-> by one and have caused tag collisions in the past.
+> **Tag convention.** Releases use **title-slug tags** (e.g.
+> `phandalin-chapter-storm-of-bolts-orcs`) rather than chapter numbers,
+> since bible heading numbering and session-summary numbering disagree
+> by one (bible "Chapter N" = session-summary "Chapter N+1") and have
+> caused tag collisions in the past.
 
 ## Drawer counts at this horizon
 
-**STALE — no re-mine performed this release.** The numbers below are
-from the 2026-05-04 baseline and have NOT been refreshed. Don't use
-them as a current regression baseline until the palace is rebuilt.
+Fresh counts as of the 2026-05-22 incremental re-mine.
 
-| Wing | Source dir | Files (as of 2026-05-04) | Drawers (stale) |
-|------|-----------|--------------------------|-----------------|
-| `distill_extractions` | `docs/distill_extractions/` | 40 | 1014 |
-| `narrative` | `docs/chapters/` | 76 (now 41 after dual-split cleanup) | 2004 |
-| `phandalin` | root campaign reference | 485 | 2617 |
-| **Total** | | **601** | **5635** |
+| Wing | Source dir | Files | Drawers | Δ since 2026-05-18 |
+|------|-----------|-------|---------|--------------------|
+| `distill_extractions` | `docs/distill_extractions/` | 43 | 1081 | +33 |
+| `narrative` | `docs/chapters/` | 42 | 1248 | +49 |
+| `phandalin` | root campaign reference | 533 | 2887 | +224 |
+| **Total** | | **618** | **5216** | **+306** |
 
-Phandalin-wing breakdown (stale): npcs 1972, arcs 369, dead 111,
-world 91, mechanics 74.
+Phandalin-wing breakdown: npcs 2061 (+68), arcs 374 (+53), dead 111 (0),
+world 264 (+106), mechanics 77 (-3). World-wing growth reflects the new
+top-level dossiers (`docs/CounterForce.md`, `docs/KP.md`, `docs/glossary.md`)
+landing this release.
 
-To refresh after the palace is rebuilt, run `mempalace status` against
-the rebuilt palace and replace this block.
+Use these as the regression baseline — significant drift on a no-op
+re-mine probably means content was added/removed unintentionally.
+
+> **Narrative wing is now clean** (ghost drawer flushed by the 22:58 rebuild;
+> `docs/chapters/.mempalaceignore` prevents re-introduction).
 
 > The phandalin-wing file count (485) is high because mempalace mines
 > every non-ignored file under the campaign root, including 458 NPC
@@ -98,34 +100,52 @@ When the user says **"discard, this is the new chapter 0–N"**:
   drawers jammed into the `phandalin` wing). Keep until the new
   three-wing palace is confirmed healthy across a few sessions.
 - `~/.mempalace/palaces/phandalin.bak.20260517-172458` — partially
-  corrupted snapshot at the start of this release (two HNSW segments
-  were quarantined; sqlite was newer than HNSW and failed integrity
-  check). Moved aside in preparation for a full rebuild that was then
-  deliberately skipped because the mempalace code is unstable. The
-  next person to touch the palace should rebuild from scratch rather
-  than restore from this backup.
+  corrupted snapshot at the start of the day (two HNSW segments
+  quarantined). Replaced by the first 17:24 rebuild. Retain for
+  forensics on the HNSW corruption bug.
+- `~/.mempalace/palaces/phandalin.bak.20260517-225805` — the first
+  rebuild's palace, moved aside for the 22:58 re-rebuild after the
+  sync patches landed. Had one stale ghost drawer in `narrative/general`
+  from the early `docs/chapters/.claude/settings.local.json` mining.
+  Retain until the 22:58 palace is confirmed healthy across a few
+  sessions.
+- `~/.mempalace/palaces/phandalin.bak.20260518-084340` — the 22:58
+  palace, moved aside for the 08:44 rebuild after the HNSW quarantine
+  fix landed. Retain until the 08:44 palace is confirmed healthy.
 
 ---
 
 ## Known caveats at this horizon
 
-- **Palace is absent.** This release skipped the re-mine because the
-  mempalace code is in a transitional/unstable state. Searches
-  against the phandalin palace will fail until it is rebuilt. Other
-  campaigns' palaces (abyss, campaign-dev, chat) are unaffected.
-- **HNSW corruption observed.** Two segment files in the pre-release
-  palace failed integrity check (sqlite newer than HNSW). The
-  corrupted state has been preserved in the 20260517 backup for
-  forensics; do not restore it as-is.
+- **`mempalace sync` status as of 2026-05-18 morning rebuild:**
+  - `--palace <named>` resolution in sync: **FIXED.**
+  - Sync against yaml-configured wings (e.g. `narrative`): **FIXED.**
+    `Scanned 1199, Kept 1199, Gitignored 0` verified post-rebuild.
+  - Sync against root wing (e.g. `phandalin`): **FIXED.**
+    `Scanned 2663, Kept 2663, Gitignored 0` verified post-rebuild.
+  - Sync against auto-detected wings (e.g. `distill_extractions`):
+    **FIXED** (2026-05-18 morning, uncommitted patch on `mempalace/sync.py`).
+    `sync --dry-run --wing distill_extractions` reports `Scanned 1048,
+    Kept 1048, Gitignored 0` post-fix.
+  - **HNSW quarantine on `sync --dry-run` (bug 3): FIXED.** Commit
+    `0991677 fix(backends): don't quarantine HNSW segments for unflushed
+    metadata`. Verified by running `sync --dry-run` on all three wings
+    post-rebuild and confirming no `.drift-*` segments appeared in
+    `~/.mempalace/palaces/phandalin/`. `repair-status` now reports the
+    expected "leaving vector search enabled" UNKNOWN status for both
+    drawers and closets at low row counts.
+- **HNSW corruption was observed pre-rebuild.** The pre-2026-05-17
+  palace had two HNSW segments fail integrity check (sqlite newer
+  than HNSW). Backup retained for forensics; do not restore it.
 - **Dual-split chapter pollution resolved.** `docs/chapters/` is now
   clean (41 files for 41 bible chapters). The earlier `docs/doc/chapters/`
-  misdirected output was removed during this release.
+  misdirected output was removed before the rebuild.
 - **Bible vs session-summary numbering still disagrees by one.**
   Bible heading "Chapter N" = file position N+1 = session-summary
   "Chapter N+1". Going forward, release tags use title slugs to side-step this.
 - **GPU embedding deferred.** Switching to GPU requires resolving the
   torch cu13 vs onnxruntime-gpu cu12 mismatch. Not blocking; CPU
-  mine completes in minutes (once the palace is rebuildable).
+  mine completed in a few minutes for this rebuild.
 - **5etools MCP not registered for Phandalin.** Unlike OOTA,
   Phandalin's `.mcp.json` only registers the `campaign` server.
   `docs/adventures/` (Essentials Kit modules) is excluded from the
