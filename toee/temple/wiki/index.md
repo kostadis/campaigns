@@ -1,0 +1,162 @@
+---
+type: index
+title: Wiki Index
+created: 2024-09-16
+updated: 2026-05-26
+tags: [index, wiki]
+related: [terjon, y_dey, the-party, zelt-the-rat, crimson-reapers, zephyr, hartsch, madame-selentis, the-gallows-table, elvanna, iron-lash-brothel, derrick, florian, moathouse, lubash, narwell, captain-gnonsbim, sheernobb, calmer, zinia, sequoia, thalsor, gurdy-the-bard, voss, church-of-st-cuthbert]
+sources: ["y_dey.md", "terjon.md", "zelt_the_rat.md", "zephyr.md", "elfar_twell.md", "elvanna.md", "derrick.md", "captain_varsik.md", "captain_gnonsbim.md", "calmer.md", "glennddarc.md"]
+---
+# Wiki Index
+## Entities
+- [[terjon]] — Cleric and acting head cleric of Hommlet
+- [[y_dey]] — Former Head Cleric of Hommlet
+- [[the-party]] — Group investigating Y'dey's disappearance
+- [[zelt-the-rat]] — Leader of the Crimson Reapers
+- [[crimson-reapers]] — Criminal organization operating in and around Nulb
+- [[zephyr]] — Person, central to the source
+- [[hartsch]] — Person/Organization, peripheral in the source but significant due to their influence on Zephyr
+- [[calmer]] — Cleric of St. Cuthbert, assigned to the party; deceased after being exploited as an expendable asset
+- [[zinia]] — Party member who saved Calmer’s life and directed his removal from active duty
+- [[sequoia]] — Party member who repeatedly clashed with Calmer and recovered his corpse
+- [[thalsor]] — Antagonist who killed Calmer and threatened corpse mutilation
+- [[gurdy-the-bard]] — Bardic party member opposed by Calmer
+- [[voss]] — Traumatized prisoner Calmer attempted to “comfort” with doctrine
+- [[madame-selentis]] — Authority figure in Nulb who enforces control through public executions
+- [[the-gallows-table]] — Site of ritualized public executions in Nulb, controlled by Madame Selentis
+- [[elvanna]] — Madam of the Iron Lash brothel; transactional operator in Nulb’s underworld
+- [[iron-lash-brothel]] — Business enterprise above the Boatman’s Tavern; site of financial leverage and information exchange
+- [[serena]] — Captive held for ransom; former associate of the party
+- [[rhennee]] — Disruptive group whose actions triggered Elvanna’s leverage
+- [[derrick]] — Merchant survivor rescued from the Moathouse; bearer of an unexplained purple robe
+- [[florian]] — Fellow survivor of the Moathouse; made joint reward promise with Derrick
+- [[moathouse]] — Ruined structure housing Lubash and used as a prison and food source
+- [[lubash]] — Ogre who consumes human captives in the Moathouse
+- [[narwell]] — Settlement from which Derrick and Florian were traveling when captured
+- [[captain-varsik]] — Captain of the *Crimson Trader*; logistical contractor for the Fire Temple in the transport of the chimera
+- [[crimson-trader]] — Merchant vessel used to transport the chimera; key node in the Fire Temple’s maritime logistics network
+- [[captain-gnonsbim]] — Captain of the Guard and re-election candidate in Sheernobb; uses bandit suppression as political theater
+- [[pasmarie-clee]] — Individual romantically pursued by Captain Gnonsbim; potential node of hidden influence; used by Headgnome Glennddarc as a redirective intelligence node
+- [[headgnome-glennddarc]] — Internal bureaucrat in Sheernobb who exposes Gnonsbim’s campaign as performative
+- [[sheernobb]] — Municipal authority and settlement where Gnonsbim operates; implied to be near Honey Haven Tavern; governed by fractured leadership between bureaucratic realism and political theater
+- [[honey-haven-tavern]] — Local establishment in Sheernobb where Gnonsbim first approached the party
+- [[church-of-st-cuthbert]] — Institutional authority that assigned Calmer to the party; source of his loyalty and mission
+- [[aunt_emma]] — Green Hag who lured victims with illusion and poisoned hospitality; killed by Zephyr
+- [[gnarley-forest]] — Ancient, dangerous woodland where Aunt Emma operated; site of the Gingerbread House
+- [[gingerbread-house]] — Enchanted structure used by Aunt Emma as a predatory trap
+- [[hat-of-wizardry]] — Magic item recovered from Aunt Emma; may carry residual hag corruption
+- [[the-hags-guide-to-101-recipes-of-children]] — Cursed cookbook detailing recipes for children; evidence of ritualized cannibalism
+- [[giants]] — Ancient, looming existential threat to Sheernobb, identified by Headgnome Glennddarc as the true danger beyond banditry
+
+## Concepts
+- [[concepts/kelnos-role-and-significance-2026-05-17|Kelno's Role and Significance]]
+- [[disappearance]] — Mysterious event of Y'dey going missing
+- [[criminal-organization-leadership]] — Structure and management of groups involved in illegal activities
+- [[supply-line-control]] — Management and regulation of the flow of goods, often in the context of illegal activities
+- [[deep-temple]] — Location that Zephyr is trying to find
+- [[necromancy]] — Phenomenon that Zephyr is investigating
+- [[interrogation-techniques]] — Methods used by Zephyr to extract information
+- [[engineered-war]] — Event or phenomenon that Zephyr is trying to understand
+- [[public-execution-as-political-theater]] — Use of lethal, visible punishment to instill fear and reinforce authority
+- [[crossing-a-power-broker]] — Vague but lethal transgression against a dominant figure in Nulb’s underworld
+- [[transactional-leverage-in-underworld-economies]] — Using personal captivity or property as collateral for financial gain in lawless environments
+- [[profit-driven-neutrality]] — Operating without ideological alignment, purely on economic incentive
+- [[negotiation-as-vulnerability-indicator]] — Paying full price without haggling signals naivety or urgency, making one a target for future exploitation
+- [[prisoner-as-commodity]] — Captives treated as expendable resources (e.g., food for monsters)
+- [[symbolic-clothing-as-narrative-clue]] — Unexplained attire (e.g., purple robe) as indicator of hidden identity or plot relevance
+- [[deniable-logistics-network]] — Operational structure where intermediaries are unaware of or insulated from the full purpose of their cargo
+- [[documentary-knowledge-only-target]] — A figure known only through records, not direct encounter; creates narrative tension and investigative direction
+- [[political-theater-in-law-enforcement]] — Use of crime-fighting operations as public spectacles to bolster political image
+- [[reward-structuring-as-control]] — Offering material incentives (gold, weapons) contingent on behavioral compliance (public credit)
+- [[romantic-interest-as-political-motivator]] — Personal desire (romance) driving professional decisions and public actions
+- [[custom-magical-rewards-as-patronage]] — Magical weapons used as deferred, high-value compensation to secure loyalty or compliance
+- [[concepts/clerical-assignment-as-influence-tool]] — Institutional embedding of clergy in adventuring parties to maintain oversight
+- [[concepts/expendable-asset-tactics]] — Tactical use of low-status allies as bait or distractions
+- [[concepts/corpse-integrity-as-resurrection-condition]] — Magical prerequisite for resurrection rituals requiring intact remains
+- [[concepts/pun-as-character-defense-mechanism]] — Humor as psychological armor in high-stress environments
+- [[concepts/pious-social-dysfunction]] — Piety so extreme it impairs social judgment and tactical awareness
+- [[concepts/leadership-by-assertion-vs-leadership-by-competence]] — Conflict between claimed authority and earned effectiveness
+- [[concepts/hag-deception-via-illusion]] — Green hags use feigned benevolence and human guise to lure victims; a core predatory tactic
+- [[concepts/poisoned-hospitality-as-predatory-ritual]] — Offering food as a vector for harm, especially targeting children; ritualized entrapment
+- [[concepts/recognition-of-fey-disguise]] — Zinnia’s ability to detect the hag’s true form as a critical survival skill
+- [[concepts/magical-item-recovery-from-deceased-fey]] — Acquisition of potent magic (Hat of Wizardry) from slain supernatural entities
+- [[concepts/existential-threat-prioritization]] — Governance strategy that prioritizes large-scale, low-probability existential threats (e.g., giants) over immediate, visible dangers (e.g., bandits)
+- [[concepts/bureaucratic-indifference-as-strategy]] — Deliberate disengagement (e.g., falling asleep mid-conversation) used to deflect, deprioritize, or avoid engagement with unwanted inquiries
+
+## Sources
+- [[y_dey]] — Source document about Y'dey's disappearance
+- [[zelt_the_rat]] — Source document about Zelt the Rat, leader of the Crimson Reapers
+- [[zephyr]] — Source document detailing the character Zephyr
+- [[elfar_twell]] — Source document detailing the public execution of Elfar Twell by Madame Selentis
+- [[elvanna]] — Source document detailing the interactions with Elvanna and the Iron Lash brothel
+- [[derrick]] — Source document detailing the rescue of merchant survivor Derrick from the Moathouse
+- [[captain_varsik]] — Ledger entry identifying Captain Varsik and the *Crimson Trader* in the chimera delivery chain
+- [[captain_gnonsbim]] — Source document detailing Captain Gnonsbim’s politically motivated bandit campaign
+- [[calmer]] — Source document detailing the life, actions, and death of Calmer, a cleric of St. Cuthbert
+- [[aunt_emma]] — Source document detailing the encounter with Aunt Emma, the Green Hag
+- [[glennddarc]] — Source document detailing Headgnome Glennddarc’s governance philosophy and dismissal of Gnonsbim’s campaign
+
+## Queries
+- [[queries/existential-threat-prioritization-2026-05-22|existential-threat-prioritization]]
+- [[queries/bureaucratic-indifference-as-strategy-2026-05-22|bureaucratic-indifference-as-strategy]]
+- [[queries/zephyrs-independence-and-the-partys-objectives-2026-05-17|Zephyr's Independence and the Party's Objectives]]
+- [[queries/zephyrs-full-nature-of-arrangement-with-hartsch-2026-05-17|Zephyr's Full Nature of Arrangement with Hartsch]]
+- [[queries/investigate-criminal-organizations-2026-05-17|Investigate Criminal Organizations]]
+- [[queries/investigate-ydeys-disappearance-2026-05-17|Investigate Y'dey's Disappearance]]
+- [[queries/does-elvanna-have-ties-to-hartsch-or-the-crimson-reapers|Does Elvanna have ties to Hartsch or the Crimson Reapers?]]
+- [[queries/is-the-iron-lash-a-front-for-smuggling-or-espionage|Is the Iron Lash a front for smuggling or espionage?]]
+- [[queries/what-is-the-origin-of-derricks-purple-robe|What is the origin of Derrick's purple robe?]]
+- [[queries/was-derrick-targeted-or-randomly-captured|Was Derrick targeted or randomly captured?]]
+- [[queries/zephyrs-investigation-of-captain-varsik-and-the-crimson-trader|Zephyr's Investigation of Captain Varsik and the Crimson Trader]]
+- [[queries/is-pasmarie-clee-aware-of-gnonsbims-romantic-interest|Is Pasmarie Clee aware of Gnonsbim's romantic interest?]]
+- [[queries/are-the-magical-weapons-promised-by-gnonsbim-real|Are the magical weapons promised by Gnonsbim real?]]
+- [[queries/does-sheernobb-have-other-leaders-who-use-political-theater|Does Sheernobb have other leaders who use political theater?]]
+- [[queries/has-terjon-been-notified-of-calmer-s-death|Has Terjon been notified of Calmer's death?]]
+- [[queries/will-the-church-of-st-cuthbert-send-a-replacement-for-calmer|Will the Church of St. Cuthbert send a replacement for Calmer?]]
+- [[queries/is-calmer-s-resurrection-possible-or-blocked|Is Calmer's resurrection possible or blocked?]]
+- [[queries/was-calmer-s-death-intentional-on-zephyrs-part|Was Calmer's death intentional on Zephyr's part?]]
+- [[queries/does-calmer-s-death-signal-a-shift-in-the-partys-relationship-with-institutional-authority|Does Calmer's death signal a shift in the party's relationship with institutional authority?]]
+- [[queries/was-aunt-emma-part-of-a-coven|Was Aunt Emma part of a coven?]]
+- [[queries/are-there-other-gingerbread-houses-in-the-gnarley-forest|Are there other gingerbread houses in the Gnarley Forest?]]
+- [[queries/does-the-hat-of-wizardry-carry-a-hag-curse|Does the Hat of Wizardry carry a hag curse?]]
+- [[queries/is-the-hags-guide-to-101-recipes-of-children-sentient|Is The Hag's Guide to 101 Recipes Of Children sentient?]]
+- [[queries/why-did-the-hag-target-this-party|Why did the hag target this party?]]
+- [[queries/what-is-the-nature-of-the-giant-threat-to-sheernobb|What is the nature of the giant threat to Sheernobb?]]
+- [[queries/is-glennddarc-faking-his-sleep|Is Glennddarc faking his sleep?]]
+- [[queries/is-pasmarie-clee-a-willing-intelligence-source-or-a-decoy|Is Pasmarie Clee a willing intelligence source or a decoy?]]
+- [[queries/does-sheernobb-allow-bandits-to-operate-as-a-distraction|Does Sheernobb allow bandits to operate as a distraction?]]
+- [[the_dryad]]
+- [[the_crimson_reaper_unnamed_spokesperson]]
+- [[tala_velkori]]
+- [[sister_alina]]
+- [[serena_velkori]]
+- [[robert_deakin]]
+- [[rithelm_drake]]
+- [[ranus_duval]]
+- [[ranos_davl]]
+- [[quinna_poul]]
+- [[ostler_gundigoot]]
+- [[mickey]]
+- [[madame_selentis_nisera]]
+- [[lord_denelu]]
+- [[lieutenant_krell]]
+- [[lenora_glimmerfield]]
+- [[lareth_the_beautiful]]
+- [[knarfallan]]
+- [[ketta]]
+- [[kelno]]
+- [[jijohn]]
+- [[hestort_flintshine]]
+- [[grindin_well_read]]
+- [[fire_temple_warlock]]
+- [[eryk_velkori]]
+- [[erin_darkmoon]]
+- [[elmo]]
+- [[elder_kenter]]
+- [[dren_halveth]]
+- [[dick_rentsch]]
+- [[dalia]]
+- [[commander_joradin]]
+- [[captain_vesrek]]
+- [[captain_tolub]]
+- [[brother_eldin]]
