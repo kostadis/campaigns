@@ -24,13 +24,32 @@ This is the **Gorthok climax** for the Talosian arc in your campaign. The publis
 
 ## Setup — where the party is coming from
 
-- They left the Manse with Grannoc dead, ritual interrupted, the "lightning from nothing" beat as the tell that K. is now summoning personally
-- They have all the intel from the henge (Flenz/Narux/Yargath) and the Manse (K.'s letter to Grannoc, the broken whistle, the dated map showing Lodge attack timing)
+The party may arrive at the Lodge **before** or **after** clearing the Manse. The scene plays the same shape either way; the *summoner* changes, and so does what the party knows when they arrive.
+
+### Branch A — Manse first (assumed in original prep)
+
+- Party left the Manse with **Grannoc dead, ritual interrupted**, the "lightning from nothing" beat as the tell that K. has taken over personally
+- They have all the intel from the henge (Flenz/Narux/Yargath) and the Manse (K.'s letter to Grannoc, the broken whistle, the dated map showing Lodge attack timing, the R&C playbill if they searched the chamber)
+- **Gorthok at the Lodge is K.'s working** — summoned remotely, no anchorite proxy. This is the path the original Counterattack design assumed: K.'s first solo summoning, on screen via storm rather than presence.
+- Party already has the displacement-chain context (from the Manse playbill if they read it; from K.'s letter regardless). The Eastern Heart truth is *partly* surfaced; Prutha's banner-recognition at the treeline confirms it.
+
+### Branch B — Lodge first
+
+- Party went **directly to the Lodge** after Falcon's framing held in their heads — they expected to find Talosian-allied cultists and clear them for the boots of elvenkind
+- **Prutha at the treeline is the only safety rail** — see his sun-and-stone banner read below. If the party ignores or sidelines him, they risk killing the people they came to defend. If they use him as scout, the truth surfaces before any arrows fly.
+- They have **only the henge intel** (Flenz/Narux/Yargath letters and sketches): they know about Grannoc, the Manse, K., and "the boy from the eastern clan," but they don't have K.'s letter to Grannoc, the dated map, or the Manse playbill.
+- **Grannoc is still alive at the Manse**, doing his thing. Two DM choices for what that means at the Lodge:
+  - **B1: Grannoc completes his ritual.** Gorthok at the Lodge is **Grannoc's** working, aimed by the borrowed-mathematics geometry. K. stays offstage. The "lightning from nothing" K.-reveal does **not** fire today — it waits until the party reaches the Manse afterward and finds the chamber empty (Grannoc fled or dead from his own ritual recoil) with K.'s letter still on the desk.
+  - **B2: Grannoc's ritual sloppiness backfires.** No Gorthok at the Lodge. The cult attack is anchorites + orcs only, no boar. The party clears the Lodge, then arrives at the Manse to find Grannoc dead in his own chamber from the ritual rebounding, K.'s letter intact, and the "lightning from nothing" tell hits *there* instead.
+- **Recommendation:** B1 if you want Gorthok as the climactic threat tonight (with K. revealed later in the arc); B2 if you want to extend the Talos arc by one more session and keep Gorthok in reserve for a K.-led set piece.
+
+### Common to both branches
+
 - Prutha is with them, doctrine surviving in his bone whistle
 - Soma's staff is quiet (still)
 - Falcon is **not** at the Lodge — he's in Phandalin, has been there since chapter ~36. He doesn't know what's about to happen to his property.
 
-**The clock:** Per Grannoc's dated map, the cult attack was scheduled for some specific window. Now that Grannoc is dead and K. has taken over personally, the timeline shifts — either accelerates (K. wants to strike before the party can interfere) or holds (K. wants to do this on their own schedule). Either way, **the party can plausibly arrive a few hours before the storm hits.** That's the negotiation window.
+**The clock:** Per the cult's plan, the attack was scheduled for some specific window. The party can plausibly arrive a few hours before the storm hits in either branch. That's the negotiation window.
 
 ---
 
@@ -140,9 +159,12 @@ Read aloud:
 
 **Cult forces:**
 - **Gorthok the Thunder Boar** (CR 6 per DoIP statblock) — arrives smashing through the palisade gate at the start of round 1
-- **~16–20 cult-aligned Eastern Heart orcs** (orc statblock, CR 1/2 each) — pour through the breach after Gorthok
-- **2 Anchorite of Talos as battlefield commanders** (CR 2 each — claim they're from another band the party hasn't met) — flanking the orc charge, casting Bless and Shillelagh
-- **No K. on screen.** K. is summoning remotely. The party will not encounter them today.
+  - *Branch A (Manse first):* Gorthok is **K.'s** summoning, riding the storm from offscreen. The "comes wrong, no chant" Drubbak line lands hard — no anchorite called this storm.
+  - *Branch B1 (Lodge first, Grannoc's ritual succeeds):* Gorthok is **Grannoc's** summoning, aimed by borrowed-mathematics geometry. The arrival *has* a chant — distant, off the wind from the south where the Manse is. Drubbak says: *"It comes wrong. The chant is there, but small. Far."*
+  - *Branch B2 (Lodge first, Grannoc's ritual fails):* **No Gorthok.** Cut him from the encounter. The cult attack is anchorites + orcs only; scale up the orc charge by ~30% and add a third anchorite to compensate. Keep Gorthok in reserve for a later K.-led set piece.
+- **~16–20 cult-aligned Eastern Heart orcs** (orc statblock, CR 1/2 each) — pour through the breach after Gorthok (or through the gate as the main wave in B2)
+- **2 Anchorite of Talos as battlefield commanders** (CR 2 each — claim they're from another band the party hasn't met) — flanking the orc charge, casting Bless and Shillelagh. *In B2 only: bump to 3 anchorites; one of them is Grannoc himself, who left the Manse when his ritual rebounded.*
+- **No K. on screen** in any branch. The party will not encounter them today.
 
 **Lodge defenders:**
 - The party (3 PCs + Boney + Prutha)
@@ -233,13 +255,104 @@ If the party wins (assume clean or pyrrhic):
 
 ---
 
+## The Rimardo and Corrin playbill (end-of-battle reveal)
+
+**Canon reference:** `docs/CounterForce.md`. This is the CounterForce signal landing at the Lodge — Branch B's analogue to the Manse playbill (see `manse_arrival.md`). **Always run it in Branch B**, since the Manse version hasn't appeared yet. **In Branch A**, the Manse playbill already ran; whether you place a *second* playbill at the Lodge is your call (recommendation: skip, and let R&C resurface next at the Wayside Inn — over-signaling thins the dread).
+
+### Placement
+
+After the read-aloud frame above. The party is sitting in the smoke. Vorga is alive (or being buried). The wounded are being counted. **Then someone notices it.**
+
+Two natural locations:
+- Pinned to a splintered palisade post near the gate breach, with a tiny dagger driven through it
+- Pinned to one of Falcon's trophy mounts inside the main hall — likely the largest stag head — dagger through the paper, through the mount, into the wood
+
+Pick whichever the party occupies at the end of combat. The dagger is real steel; the paper is real paper; there is no detectable magic. *That* is the unsettling part.
+
+### Front of the playbill (read aloud)
+
+> Rimardo and Mr. Corrin
+> Predestination, Plunder, and Other Legal Fictions
+> Special Engagement: The Boar Who Was Already Booked
+> ~~Woodland Manse~~ **Falcon's Hunting Lodge**
+> Performance proceeded out of advertised order
+> Attendance: previously violently encouraged; now retroactively appreciated
+
+The strikethrough on "Woodland Manse" is hand-corrected in ink — the printed playbill says one thing, *someone* updated it to reflect what actually happened.
+
+### Back of the playbill (read aloud)
+
+> One dragon, displaced by larger wars.
+> One mountain tribe, displaced by the dragon.
+> One forest, made crowded by consequence.
+> One lodge, ~~seized by~~ **defended by** the displaced.
+> One storm cult, recruiting from the desperate.
+> One thunder beast, scheduled for punishment.
+> One ritual, using borrowed mathematics.
+> One audience, ~~not yet aware~~ **now aware** it is participating.
+> Balance outstanding.
+>
+> Signed:
+> R. and C.
+
+**Corrin's dagger is driven through the phrase "balance outstanding."** That's the tell. The party just paid something — orcs dead on both sides, lodge half-burned, possibly Vorga lost — and the dagger says: *this is being kept score of.*
+
+### What the playbill does, mechanically
+
+Same four jobs as the Manse version, repurposed for *retrospective* rather than *predictive*:
+
+1. **The displacement chain is named.** Giant War → Cryovain → orcs → Lodge. The party has now lived the chain, but seeing it spelled out clarifies it as a *pattern*, not a sequence of bad luck.
+2. **"Defended by the displaced"** confirms the Lodge truth the party just discovered through Vorga. R&C are *agreeing* with what the party figured out — not informing them, validating them. That validation is itself the discomfort: someone was watching closely enough to score this.
+3. **"Borrowed mathematics"** remains the KP signature. The party just survived a Gorthok summoning that was *too precise* to be Talos alone (B1: precise enough to aim him at the Lodge; B2: precise enough to almost work, even with Grannoc's sloppiness). The dagger isn't through this phrase, but the phrase is still on the page. Hold it.
+4. **"Now aware it is participating"** closes the bit. The last playbill (if they saw one at the Manse) said *not yet aware*; this one says *now aware*. The party has stepped onto the stage. R&C are no longer narrating *at* them — they're narrating *with* them.
+
+### Vukradin's stage-vision (trigger: same as Manse — touch, music near the wreckage)
+
+If Vukradin handles the playbill, or plays his flute in the courtyard, he gets the vision. **Same five cards, reordered to reflect the order the party played them.**
+
+> You stand before a rain-soaked stage. The audience is hidden in darkness. The applause from the last act has not fully died.
+>
+> Rimardo stands in the spotlight, holding a ledger. Corrin waits beside him, silent, holding five cards.
+>
+> Rimardo says:
+> *"A monster is only random until someone sells tickets to the charge."*
+>
+> Corrin turns over the cards, one at a time:
+> **GIANT WAR**
+> **CRYOVAIN**
+> **FALCON'S LODGE**
+> **GORTHOK**
+> **WAYSIDE INN**
+>
+> Rimardo looks down at the cards. Frowns. Reshuffles them once, then once more. Sets them aside.
+>
+> *"Out of order. But acceptable. The fifth card is the fifth card."*
+>
+> The vision ends with applause that sounds like rainfall, hoofbeats, and distant orc war-drums.
+
+**What this seeds:**
+- The same fifth card. **WAYSIDE INN** is where R&C resurface, regardless of which two acts the party did first.
+- Rimardo's "out of order, but acceptable" — confirms R&C don't care about the prescribed path. They care that the show is happening.
+- "The fifth card is the fifth card" — invariant. The Wayside Inn beat is fixed. The party can rearrange the first four; they cannot reorder the fifth.
+
+### DM notes — running this beat
+
+- **Joke first, dread second.** The party should chuckle at "retroactively appreciated" before they get nervous at "balance outstanding." If the tone lands serious-first, the comedy hasn't done its job.
+- **No exposition.** Even though the playbill is *agreeing* with what the party figured out, R&C do not explain themselves. The dread comes from the fact that someone *graded their performance* before they knew they were on stage.
+- **Soma's staff:** quiet. Same as the Manse — the staff is a planar/natural sensor, not a fate-signal receiver. Its silence is itself a tell.
+- **If Vorga or Drubbak sees the playbill:** Vorga reads it (Common) and looks at Vukradin. *"Your people leave strange notes."* Drubbak does not read Common but can read the dagger — his comment: *"This is not Talos. This is a different hand."* Then he goes back to the cellar. Don't elaborate.
+
+---
+
 ## Aftermath beats to play
 
 1. **Vorga's eventual thanks** — not effusive, not in the moment. Probably the next morning, after the dead are sorted. *"You came when no one else came. We will remember. We will not forget."*
 2. **Old Drubbak speaks to Valphine** — privately, in halting Common, asks her whether the dawn-prayer can be sung in a temple. He is the first orc cleric-candidate in your campaign. **Open question for the DM.**
 3. **The Icespire Hold offer** — Vukradin makes it formal. The hoard, the fortress, the path home. Vorga's response will be measured; Old Drubbak's will be: *"We will go. We will go with weapons. We will go when we have buried."*
 4. **The whistles** — Prutha has collected ~16 whistles from the dead cult orcs. He gives them to Drubbak. Drubbak will give them to the families who never knew where their sons went. This is the moment that closes the schism — *some* of it.
-5. **K.'s next move** — K. has lost both summoning sites and Gorthok (if dead). They have **Tovrak** and whatever cult cells the party doesn't know about. The next time K. moves, it will be personal. Set this up for the next arc.
+5. **K.'s next move**
+   - *Branch A:* K. has lost both summoning sites and Gorthok (if dead). They have **Tovrak** and whatever cult cells the party doesn't know about. The next time K. moves, it will be personal. Set this up for the next arc.
+   - *Branch B:* K. is **not yet outed** — the party has cleared the Lodge but the Manse is still standing. Their next session should be the Manse cleanup, where K.'s letter to Grannoc and the "lightning from nothing" tell finally land. K.'s reveal is pushed one session later but lands harder because the party arrives knowing what they're walking into.
 6. **Falcon's Lodge** — partially burned, palisade broken, but standing. Falcon will weep when he sees it. Vukradin's promised studio wood is going to need to be renegotiated; the music venue partnership is now *also* a refugee camp partnership. Falcon will accept this. Probably.
 
 ---

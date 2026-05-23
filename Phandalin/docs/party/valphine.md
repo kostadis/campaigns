@@ -4,7 +4,7 @@
 - **Class & Level:** Cleric 6
 - **Species:** Elf
 - **Background:** Wayfarer
-- **Player:** Gary 
+- **Player:** Gary Young
 - **Gender / Size:** Female / Medium
 - **Experience Points:** Milestone
 

@@ -4,7 +4,7 @@
 - **Class & Level:** Bard 6
 - **Species:** Variant Aasimar
 - **Background:** Custom Background
-- **Player:** kostadis1
+- **Player:** David Medenhall
 - **Alignment:** Lawful Good
 - **Size:** Medium
 - **Experience Points:** (Milestone)

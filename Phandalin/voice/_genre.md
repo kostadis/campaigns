@@ -41,6 +41,7 @@ Phandalin is character-centered literary fantasy narrated in close first-person 
 ### Banned tics / anti-patterns
 
 - **"the shape of X"** — Claude tic for gesturing at pattern without naming it. Never use. If you find yourself reaching for it, name the actual thing instead.
+- **"with the [Adj] [Noun] of someone who..."** — Claude tic for taxonomizing a person's behavior instead of rendering what the POV character actually saw. Bans: *with the particular quality of attention she uses when...*, *with the dry patience of someone who had seen X*, *with the efficiency of someone who has made this calculation before*, *with the quiet competence of people who know how to hold a position*, *the particular way large violent things displace the air*, etc. Each POV has its own observational lens (Brewbarry: bodies and weight; Vukradin: specific corruption; Valphine: motive-systems; Soma: physical-world-first) — the *with the X of someone who Y* construction is one Claude narrator wearing five hats. Render the specific behavior, not the category.
 - **Narrator editorializing** — "It was a moment that would define him." Drop the frame; let the moment land.
 - **Generic fantasy reach** — "his eyes blazed with ancient fury," "the air itself seemed to thrum." Specific or nothing.
 - **POV bleed** — do not narrate another character's thoughts inside a POV section. Report observed behavior only.

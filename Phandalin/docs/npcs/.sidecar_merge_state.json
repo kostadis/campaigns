@@ -1,61 +1,70 @@
 {
-  "started_at": "2026-05-17T23:39:31.500728+00:00",
+  "started_at": "2026-05-22T22:31:17.771028+00:00",
   "completed": [
     {
-      "canonical": "soma.md",
+      "canonical": "vukradin.md",
       "sidecars": [
-        "soma.new_notes.042.md"
+        "vukradin.new_notes.043.md"
       ],
-      "out_chars": 12841,
+      "out_chars": 24878,
       "had_contradiction": false,
       "via": "batch"
     },
     {
-      "canonical": "valphine.md",
+      "canonical": "lord_halueth_verres.md",
       "sidecars": [
-        "valphine.new_notes.042.md"
+        "lord_halueth_verres.new_notes.043.md"
       ],
-      "out_chars": 15247,
+      "out_chars": 4443,
       "had_contradiction": false,
       "via": "batch"
     },
     {
       "canonical": "falcon_the_hunter.md",
       "sidecars": [
-        "falcon_the_hunter.new_notes.042.md"
+        "falcon_the_hunter.new_notes.043.md"
       ],
-      "out_chars": 18202,
-      "had_contradiction": false,
-      "via": "batch"
-    },
-    {
-      "canonical": "vukradin.md",
-      "sidecars": [
-        "vukradin.new_notes.042.md"
-      ],
-      "out_chars": 19228,
-      "had_contradiction": false,
-      "via": "batch"
-    },
-    {
-      "canonical": "prutha.md",
-      "sidecars": [
-        "prutha.new_notes.042.md"
-      ],
-      "out_chars": 6276,
+      "out_chars": 21848,
       "had_contradiction": false,
       "via": "batch"
     },
     {
       "canonical": "brewbarry.md",
       "sidecars": [
-        "brewbarry.new_notes.042.md"
+        "brewbarry.new_notes.043.md"
       ],
-      "out_chars": 9215,
+      "out_chars": 12300,
+      "had_contradiction": false,
+      "via": "batch"
+    },
+    {
+      "canonical": "prutha.md",
+      "sidecars": [
+        "prutha.new_notes.043.md"
+      ],
+      "out_chars": 10108,
+      "had_contradiction": false,
+      "via": "batch"
+    },
+    {
+      "canonical": "valphine.md",
+      "sidecars": [
+        "valphine.new_notes.043.md"
+      ],
+      "out_chars": 19155,
+      "had_contradiction": false,
+      "via": "batch"
+    },
+    {
+      "canonical": "soma.md",
+      "sidecars": [
+        "soma.new_notes.043.md"
+      ],
+      "out_chars": 15009,
       "had_contradiction": false,
       "via": "batch"
     }
   ],
   "skipped": [],
-  "updated_at": "2026-05-17T23:45:35.396817+00:00"
+  "updated_at": "2026-05-22T22:34:11.004581+00:00"
 }

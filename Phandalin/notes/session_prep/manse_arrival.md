@@ -29,6 +29,30 @@ The Manse is to the northeast (per published geography — the trail north from 
 
 ---
 
+## What the party believes — and what's actually true
+
+This gap is load-bearing for the Manse → Lodge sequence. Hold it in mind.
+
+**What the party believes (Falcon's framing):**
+- Falcon's Hunting Lodge is overrun by Talosian-allied orcs. They are the cult.
+- Clearing them is what earns the **boots of elvenkind** Falcon promised.
+- The Manse is a separate cult site — interrupt the ritual, then move on to clear the Lodge cultists.
+
+**What is actually true:**
+- The orcs holding the Lodge are **Eastern Heart refugees** who *refused* Talos. They are the people the cult is *also* coming to kill.
+- The Gorthok ritual at the Manse is aimed *at* the Lodge — the cult wants those orcs annihilated for the same reason the party plans to attack them. Both sides are about to fall on the same target.
+- Falcon's framing is probably not a lie. He was attacked by Talosians, his partner was killed, he fled. He doesn't know which orcs took the broken Lodge afterward or why. "Orcs took my lodge" is true; *which orcs* and *why* are details he doesn't have.
+
+**The reveal chain that closes the gap** (staged across this session and the next):
+
+1. **At the Manse, the Rimardo & Corrin playbill** (see new section below) — back text includes *"one lodge, seized by the displaced."* First crack in Falcon's framing. If Vukradin reads it as a bard reading a structural document, this is where the contradiction first registers.
+2. **In Grannoc's quarters, K.'s letter** — names "the boy from the eastern clan" and confirms an *internal* Eastern Heart schism (some said yes to Talos, some didn't). Tightens the contradiction: the cult has Eastern Heart orcs too, and some are with K.
+3. **At the Lodge treeline next session**, Prutha sees the sun-and-stone banner and names the band. Final correction.
+
+**If the party skips the Manse search or trashes the playbill**, they walk into the Lodge negotiation with Falcon's framing intact, and Prutha at the treeline is the only safety rail before they kill the wrong orcs. Don't railroad — but make the playbill visible enough that "trash it" is a real choice, not an accident.
+
+---
+
 ## Travel beat (short)
 
 Half a day's march through Neverwinter Wood, descending out of the foothills. The forest changes:
@@ -118,6 +142,18 @@ The published encounter, when the party catches him mid-ritual:
 
 This is the tell. Grannoc is sloppy compared to Flenz and Narux. The henge had a deer; the manse has roadkill. Grannoc isn't ready — he's improvising because the henge fell and the timeline accelerated.
 
+**Campaign overlay — KP footprint at the ritual site (see `docs/KP.md`):**
+
+The geometry of the chamber and its surroundings is *too precise* for Grannoc to have improvised. This is the visible edge of KP's influence on the Talos plot — borrowed mathematics from sources the cult doesn't fully understand:
+
+- **Copper rods** hammered into roots, ruined walls, and the foundation stones of the manse. Driven in at intervals that look hand-measured.
+- **Talos prayers rewritten as timing instructions** — written on parchment scraps tacked to the lintels, the verbs are imperative ("strike at the eighth beat," "hold for the count of nine"). This is not how Talosian liturgy works.
+- **Boar tusks wrapped in copper wire** hung from the courtyard trees like conductors.
+- **Blackened iron nails** in the lightning-bolt symbol's perimeter, evenly spaced.
+- The mud lightning-bolt itself is *too geometric* — the angles repeat at the same degree across all three bolts. A Religion or Investigation check (DC 13) catches this.
+
+**What this means, and what to do with it:** Vukradin (or any structural-thinker PC) can read this as a ritual borrowing precision from outside its tradition. The Talosian cult is being *helped* — not coordinated, just *helped* — by someone whose method is geometry and timing, not storm and rage. The party doesn't need to know who yet. The playbill (see below) will pin a label on it: *"borrowed mathematics."* The label is `docs/KP.md`. Don't say his name at the table; let it accumulate.
+
 ---
 
 ## Rulings — same as the henge
@@ -196,6 +232,94 @@ In Grannoc's personal effects (in W10 or W12, your call):
 
 The letter is the key item. K. is **escalating their own visibility** — they signed this letter the way they signed Yargath's burned scrap. They are running out of intermediaries.
 
+In addition to Grannoc's effects, **somewhere at the ritual site** — among the conductor materials, or pocketed by Grannoc as a curio — is **a blackened brass ring etched with mathematical notation**. Looks unrelated to the rest of the cult's gear. It's not. (Echoes Falcon's brass ring inscribed with Elvish for *lightning* — same artifact-family, same hand, possibly the same person's signature. See `docs/KP.md` "Iymrith Hook." Hold this in reserve — it's a future-arc pin, not a session-3 reveal.)
+
+---
+
+## The Rimardo and Corrin playbill — first CounterForce manifestation
+
+**Canon reference:** `docs/CounterForce.md`. This is the first on-screen appearance of the Rimardo & Corrin signal in the campaign **if the party comes here before the Lodge**. The cosmology (KP made the boundary porous; Savras catches Istus's echo from Oerth; R&C are comedy as prophetic sabotage) lives in the doctrine doc — *do not explain it at the table*. The party assembles it.
+
+**If the party goes to the Lodge first**, this playbill never appears as written. A different end-of-battle playbill lands at the Lodge instead — see the "Rimardo and Corrin playbill (end-of-battle reveal)" section in `counterattack_lodge.md`. That variant is retrospective rather than predictive (strikethroughs reflecting that the show went out of order, dagger through *"balance outstanding"* instead of *"borrowed mathematics"*, same WAYSIDE INN fifth card). The CounterForce signal lands either way; only the framing changes.
+
+### Placement
+
+Best placement: **after the battle, before the party leaves the chamber.** Keeps the reveal clean and lets the post-combat search catch it without combat distraction. Alternative: pin it to a storm-marked tree visible from W10 *during* the disruption, so the party glimpses it mid-fight without time to read it.
+
+The physical object: **a comedy playbill folded into a triangle and pinned to a storm-marked tree with a tiny dagger.** (If you place it inside the chamber instead: pinned to the wall above the lightning-bolt symbol, dagger driven through the plaster.)
+
+### Front of the playbill (read aloud)
+
+> Rimardo and Mr. Corrin
+> Predestination, Plunder, and Other Legal Fictions
+> Special Woodland Engagement: The Boar Who Was Already Booked
+> Woodland Manse
+> Attendance: violently encouraged
+
+### Back of the playbill (read aloud)
+
+> One dragon, displaced by larger wars.
+> One mountain tribe, displaced by the dragon.
+> One forest, made crowded by consequence.
+> One lodge, seized by the displaced.
+> One storm cult, recruiting from the desperate.
+> One thunder beast, scheduled for punishment.
+> One ritual, using borrowed mathematics.
+> One audience, not yet aware it is participating.
+> Balance outstanding.
+>
+> Signed:
+> R. and C.
+
+**Corrin's mark is a tiny dagger hole punched through the phrase "borrowed mathematics."** That hole is the tell — Corrin is pointing at the KP signature in the ritual geometry. The party isn't expected to make this connection now; they're expected to remember it later.
+
+### What the playbill does, mechanically
+
+Four things land if the party reads it:
+
+1. **The displacement chain is visible.** Giant War → Cryovain → orcs → Lodge. This is the structural map for the entire arc.
+2. **"One lodge, seized by the displaced"** — first crack in Falcon's framing. The orcs at the Lodge are *displaced*, not cultists. (Players may not catch this on first read; that's fine. Vukradin will, on the stage-vision.)
+3. **"Borrowed mathematics"** with a dagger through it — there is *someone else* providing precision to the Talos cult. The party doesn't have a name yet. The label is KP. Hold it.
+4. **The tone is wrong for what they just survived.** They just killed a man performing a possum sacrifice; they find a comedy playbill. The dissonance is the point. **Joke first. Dread second.**
+
+### Vukradin's stage-vision (trigger: he touches the playbill, OR uses music near the manse, OR a player goes for the structural read)
+
+If Vukradin physically handles the playbill, or plays his flute/sings within sight of the ritual chamber, he gets a fractured stage-vision. Read aloud:
+
+> You stand before a rain-soaked stage. The audience is hidden in darkness. Thunder provides the percussion.
+>
+> Rimardo stands in the spotlight, holding a ledger. Corrin waits beside him, silent, holding five cards.
+>
+> Rimardo says:
+> *"A monster is only random until someone sells tickets to the charge."*
+>
+> Corrin turns over four cards, one at a time:
+> **GIANT WAR**
+> **CRYOVAIN**
+> **FALCON'S LODGE**
+> **GORTHOK**
+>
+> Then Corrin turns over a fifth card:
+> **WAYSIDE INN**
+>
+> Rimardo looks irritated and says:
+> *"That was supposed to be the second act."*
+>
+> The vision ends with applause that sounds like rainfall, hoofbeats, and distant orc war-drums.
+
+**What this seeds:**
+- The first four cards are the arc he's living. The Lodge card is the contradiction-resolution he hasn't reached yet (the Lodge is part of the *displacement chain*, not the cult).
+- The fifth card — **WAYSIDE INN** — is the next R&C appearance site. Don't elaborate. Vukradin doesn't get to know what it means yet. He'll see it when they get there.
+- Rimardo's irritation ("supposed to be the second act") tells Vukradin the pattern is *scheduled* — these appearances aren't random. They're a tour.
+
+### DM notes — running this beat
+
+- **No exposition.** Do not let anyone explain who R&C are. Not Vukradin, not a wise NPC, not Soma's staff. The doctrine is `docs/CounterForce.md`; the player-facing version is *we have no idea what this is.*
+- **Joke first, dread second.** The party should laugh — or at least register the absurdity — before they get nervous. If the table is just nervous, you've delivered the dread without the setup.
+- **If they try to ID the dagger or the playbill paper with Identify, Detect Magic, etc.:** the playbill is real paper, real ink. The dagger is real steel. There is no magical residue. *That* is the unsettling part — they should be magical and they aren't.
+- **Don't repeat the WAYSIDE INN card.** The vision is one-shot. If players want to write it down, that's their choice; you don't reinforce it.
+- **Soma's staff:** No reaction. The staff reacts to planar/natural disruption, not to fate-signals. If Soma's player asks, the staff is *quiet* — which is itself a tell. The staff thinks this is fine.
+
 ---
 
 ## Aftermath options
@@ -216,3 +340,12 @@ The "lightning from nothing" beat at Grannoc's death is your tell that the timer
 - **The broken whistle in Grannoc's effects** — decide whose it was. Bratha (Prutha's great-uncle) is the maximum-impact choice. A stranger's is the minimum.
 - **Krath** (the W18 orc who calls Prutha "thunder-meat") — Claude-proposed name. Replace with canon if you have one.
 - **Tovrak / "the boy from the eastern clan"** — Claude-proposed (see `npcs/lodge_orcs_eastern_heart.md`). The letter doesn't have to name him, but it should hint that the party will meet him soon.
+- **The blackened brass ring with mathematical notation** — pin for the Iymrith arc. Parallels Falcon's brass ring. Hold the connection in reserve.
+
+---
+
+## Doctrine references
+
+- **`docs/CounterForce.md`** — Rimardo & Corrin cosmology (Istus's surprised laugh, Savras as accidental channel, R&C ontology deliberately unresolved). Read before running the playbill beat so you can answer "who are these people?" with structural confidence without exposition at the table.
+- **`docs/KP.md`** — KP biography. The "borrowed mathematics" signature is his. The brass ring is his family of artifact. The Iymrith Hook is the eventual collision point. Read before running the W10 chamber overlay so the KP footprint feels intentional rather than decorative.
+- **Tone rule for both:** the party does not learn the cosmology this session. They get a playbill, a vision, a card that says WAYSIDE INN, and a ring they cannot place. The dread accumulates over arcs, not in one reveal.

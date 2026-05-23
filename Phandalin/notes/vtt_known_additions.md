@@ -29,3 +29,6 @@ Recorded so they stop being flagged as unknowns by future spell-pass runs.
 - 2026-05-05 | **Circle of the Stones** — location; ctx 'headed to the Circle of the Stones'.
 - 2026-05-05 | **Tower of Storms** — location (Talosian temple?); ctx 'Alrighty, Tower of Storms'.
 - 2026-05-05 | **Centauri** — the centaur language (faux-Greek).
+Gorthok  — "I didn't think we'd see Gorthok till the," (Talosian Thunder Boar; canonical name per planning.md and world_state.md)  — 2026-05-22
+Eastern Heart  — Prutha's tribe name shouted as greeting ("Eastern Heart! Three banners on the wall!") — already canonical per notes/npcs/prutha.md and notes/npcs/lodge_orcs_eastern_heart.md  — 2026-05-22
+Sun and Stone  — Eastern Heart clan banner/march ("I see one! Sun and Stone! My uncle's clan march!")  — 2026-05-22

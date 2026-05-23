@@ -1,8 +1,8 @@
 {
-  "backup_tarball": "/home/kroussos/campaigns/Phandalin/docs/npcs.backup-20260517-163459.tar.gz",
+  "backup_tarball": "/home/kroussos/campaigns/Phandalin/docs/npcs.backup-20260522-152525.tar.gz",
   "started_at": "2026-04-18T08:38:03Z",
-  "updated_at": "2026-05-17T16:35:00+00:00",
-  "last_run_summary": "2026-05-17 \u2014 no-op pass. Auto-cluster heuristics produced 4 candidates, all already pinned in clusters_rejected (corbin/corwin, elara/elara_seasong, meril/miral, ser_kaelen/sister_kaella). Manually read all role-prefixed files (the_dwarven_king, the_anchorite_half_orc, the_orc_scout, the_cult_fanatic, the_stag, king_gnercli, king_korboz, lord_neverember, daran_edermath_silverleaf) \u2014 all confirmed distinct NPCs, no hidden duplicates. 6 sidecars pending (*.new_notes.042.md) \u2014 separate sidecar_merge_batch.py job. Backup: npcs.backup-20260517-163459.tar.gz.",
+  "updated_at": "2026-05-22T15:25:25+00:00",
+  "last_run_summary": "2026-05-22 \u2014 no-op pass. 79 canonical dossiers + 7 *.new_notes.043.md sidecars (sidecars are sidecar_merge_batch.py's job). Auto-cluster heuristics produced 0 new candidates \u2014 all Levenshtein/substring pairs already pinned in clusters_rejected. Spot-read the 3 chapter-43 additions (drubbak, vorga, lord_halueth_verres) and 6 unfamiliar-name files (martisha_vinetalker, cooragh_struckt, backes_dunfield, delaan_winterhound, malfire, skippy) \u2014 all confirmed distinct NPCs. Skippy (Carver brigand at Butterskull) vs Shrimpy (orc raid captive at Loggers' Camp) is phonetic only \u2014 different species, different incidents, edit-distance 3. Drubbak maps to the 'Unnamed Orc Elder at the lodge wall' from world_state.md. Backup: npcs.backup-20260522-152525.tar.gz.",
   "clusters_confirmed": [
     {
       "files": [
@@ -196,10 +196,10 @@
     },
     {
       "files": [
-        "elara_seasong_meliame.md",
+        "elara_seasong_meliamne.md",
         "elara_seasong_meliamne.md"
       ],
-      "canonical": "elara_seasong_meliame.md",
+      "canonical": "elara_seasong_meliamne.md",
       "aliases_recorded": [
         "Elara Seasong Meliamne"
       ]
@@ -267,10 +267,10 @@
     },
     {
       "files": [
-        "elara_seasong_meliame.md",
+        "elara_seasong_meliamne.md",
         "elara_seasong_meliamne.md"
       ],
-      "canonical": "elara_seasong_meliame.md",
+      "canonical": "elara_seasong_meliamne.md",
       "aliases_recorded": [
         "Elara Seasong Meliamne"
       ],
@@ -320,7 +320,7 @@
     {
       "files": [
         "elara.md",
-        "elara_seasong_meliame.md"
+        "elara_seasong_meliamne.md"
       ],
       "reason": "different NPCs \u2014 Elara is a merchant rescued from orcs, Elara Seasong is a House Meliame art collector"
     },
