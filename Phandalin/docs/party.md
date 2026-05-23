@@ -4,28 +4,33 @@
 
 ## Party Overview
 
-**Current Location:** Neverwinter Wood / en route to Woodland Manse (next destination after clearing the Circle of Thunder henge).
+**Current Location:** Falcon's Hunting Lodge — active siege in progress; Gorthok the Thunder Boar has breached the gate.
+**Current Date:** Late Taraksh 1495 DR.
 
 **Active Quests:**
-- **Woodland Manse** — Talosian presence under Grannoc; marked as next priority. Grannoc likely to summon Gorthok the Thunder Boar prematurely.
-- **Falcon's Hunting Lodge** — Cult convergence point; lodge already attacked, Falcon's partner killed. Party owes Falcon explanation and reparation.
+- **Falcon's Hunting Lodge** — Repel the Talosian siege (immediate).
+- **Woodland Manse** — Talosian ritual ongoing under Grannoc; not yet interrupted; Gorthok's early arrival suggests the critical window is closing.
+- **Mountain's Toe Gold Mine** — Awaiting Earthstone Gem retrieval by the wererats; 50gp fake-gem contingency authorized (Valphine/Brewbarry; Vukradin unaware).
 - **Neverwinter trip** — Return blue quartz mermaid statue to Elara Seasong Meliamne; avoid House Margaster interception. Ser Kaelen statue delivery also outstanding.
-- **Mountain's Toe Gold Mine** — Were-rats dispatched to retrieve Earthstone Gem; 50gp fake-gem contingency funded covertly (Valphine/Brewbarry; Vukradin unaware).
-- **Druid Conclave aftermath** — Adabra defeated in vote but not neutralized; expected to regroup. Reidoth alerted by Vukradin via *Sending*.
+- **Deliver shipwreck goods to rightful owners** — Ser Kaelen's Candlekeep research complete; logistics unresolved.
+- **Druid Conclave aftermath** — Adabra defeated in vote but not neutralized; expected to regroup. Reidoth alerted by Vukradin via *Sending*; no response yet.
 - **Privy Council duties** — Orc threat and Phandalin perimeter defense remain.
-- **Shrine of Savras** — Interior uncleared; loose thread.
+- **Order of the Gauntlet music commission** — incomplete.
+- **Shrine of Savras** — Interior uncleared; occupied by orcs; loose thread.
+- **Sister Kaella** — At large; potentially dangerous; Lord's Alliance claims ability to locate her.
+- **Corbin's death** — Party holds partial responsibility; not yet addressed as a group.
 - **Kraken Society** — Identified via spiral emblem; interest in drowned gate beneath Yllyn in the Underdark. Active background threat.
 
 **Collective Resources:**
 - ~3,000gp in fused residium-ice-gold (planar-fused; unspendable without specialist — treated by Vukradin as stolen goods)
-- Several vials of interdimensional Midnight Tears poison (2,000gp if sold; House Sotorra provenance)
+- Four vials of interdimensional Midnight Tears poison (2,000gp if sold; House Sotorra provenance)
 - Forged ledger (evidence against Aletra Sotorra)
 - Operator's Guide to the Model 1489 Spatial Rectification Calliope (Aletra's personal notes)
 - One mechanical audit drone (captured alive)
 - Blue quartz mermaid statue, spellbook, Wand of Secrets (lighthouse wrecks; ownership disputed by Vukradin)
 - Defensive magic vial (hidden in Vukradin's pack by Valphine; Vukradin unaware)
 - Map fragment: Circle of Thunder ✗, Woodland Manse ⊙⊙, Falcon's Lodge as convergence
-- Three Talosian letters + partial burned fragment; Gorthok binding leash
+- Three Talosian letters + partial burned fragment; Gorthok binding leash (Narux's leather cord)
 - +1 Shield (Narux's cave, Ch 41; unassigned)
 - Potions: one greater healing, one superior healing (uncertain contents; party agreed to use on Vukradin when unconscious without telling him), one scented healing
 - Dragon breath pouch + Cryovain scales (crafting pending)
@@ -33,13 +38,15 @@
 - Boney (skeletal horse, 13 HP; loyal to Soma/Valphine)
 - Prutha (orc convert; first follower of Vukradin's Lathander mission)
 - Temple of Lathander's Searing Pain of Justice at Tresendar Manor (renovated by Brin and Giles; growing congregation)
+- Soma's staff: **five leaves** (grew the fifth during the storm at Falcon's Lodge); still active
 - 29gp on hand (Vukradin); 25gp (Soma); 81gp (Valphine); Brewbarry holds 0gp
 
 **Group Reputation:**
-- **Phandalin:** High. Town-wide celebration for Cryovain's death; Privy Council seat held by Vukradin.
+- **Phandalin:** High. Town-wide celebration for Cryovain's death; Privy Council seat held by Vukradin; Harbin publicly credits the party.
 - **Order of the Gauntlet:** Positive, via Ser Kaelen — but Vukradin's trust is qualified ("as close as somebody we can actually trust. No, I don't trust him").
 - **Emerald Enclave:** Split. Lyra restored to full standing; interventionist faction validated. Adabra's faction defeated in vote, furious, and regrouping.
-- **Falcon's Lodge:** Damaged. Failure to prevent lodge attack; Valphine has partial groundwork for repair.
+- **Falcon's Lodge:** Restored — Falcon has apologized categorically, pledged his sword, and is fighting alongside the party in the lodge defense.
+- **Eastern Heart / Sun and Stone orc clan:** Positive; allied at the lodge via Prutha's kinship recognition.
 - **Lord's Alliance / Jenna Roscoe:** No deal; Roscoe aware of party's activities and describes Valphine's church as a "torture cult."
 - **Kraken Society:** Aware of party interference (Axeholm/Aletra); adversarial.
 - **House Sotorra:** Aletra's boss knows the extraction was partially compromised; future attention likely.
@@ -50,13 +57,13 @@
 
 ### Brewbarry
 
-**Player:** Stephane | **Class/Level:** Barbarian (Path of the Giant) 6 | **Species:** Goliath
+**Player:** Stephane Boudreau | **Class/Level:** Barbarian (Path of the Giant) 6 | **Species:** Goliath
 
 Brewbarry is a competitive, boisterous Goliath who treats life as a contest and every victory as cause for excess. His debauchery and loyalty are equally outsized — he fights with ferocious commitment and measures friendship in shared battles and shared hangovers. Beneath the bravado is a man still carrying the shame of his exile from his Uthgardt tribe, a shame he now knows was manufactured: he was sober when the sacred site was desecrated, found guilty unjustly, and only took up drinking *after* banishment.
 
 **Notable Relationships:**
-- *Vukradin:* Core loyalty ("I like Vukardin music"); defended him in combat; emotionally moved by Vukradin's logging speech; relationship deepened when Brewbarry finally disclosed the true story of his exile.
-- *Jenna Roscoe (Lord's Alliance):* Immediate hostility; recognizes her contempt for Uthgardians; deliberately mispronounces her name.
+- *Vukradin:* Core loyalty ("I like Vukardin music"); defended him in combat; emotionally moved by Vukradin's logging speech; relationship deepened when Brewbarry finally disclosed the true story of his exile; intends to relay the Druid Council's vindication to him directly.
+- *Jenna Roscoe (Lord's Alliance):* Immediate hostility; recognizes her contempt for Uthgardians; deliberately mispronounces her name; ended her recruitment pitch with a burp.
 - *Ser Kaelen Thorn (Order of the Gauntlet):* Hostile/unresolved — holds the Order responsible for killing tribe members; shared a drink but no reconciliation.
 - *Soma:* Strained moment when Soma objected to his execution of the paralyzed veteran; Brewbarry proceeded without consulting her, she noted her objection and accepted the outcome.
 - *Corbin:* Dead. Brewbarry showed empathy toward him, connecting Corbin's loss to his own exile experience.
@@ -66,10 +73,13 @@ Brewbarry is a competitive, boisterous Goliath who treats life as a contest and 
 **Items of Significance:**
 - Dragon Slayer Longsword (+1; primary weapon, acquired from Dragonbarrow)
 - Halberd +1 (retrieved from shipwreck; provenance contested by Vukradin)
+- Elemental Cleaver (returning handaxe)
 - Dread Helm (eyes glow red; alarmed Harbin Wester)
 - Gauntlets of Ogre Power
 - Scale Mail
 - 6 blighted pelts
+- Three bottles of fine wine (from Falcon, Talisman sale)
+- Two potions (greater healing and hill giant strength; given by stone giants)
 
 **Candidate Arc Score Events — The Thistle's Echo Score**
 
@@ -97,9 +107,15 @@ Brewbarry is a competitive, boisterous Goliath who treats life as a contest and 
 
 - [extract_035]: Disclosed the true story of his exile to Vukradin — he was sober, found guilty unjustly, only drank after banishment → no trigger match from defined triggers (internal revelation, not an action taken against manipulation); skip.
 
+- [extract_036]: First party member to engage Cryovain directly; landed two hits with the Dragon Slayer Sword; remained standing after the breath weapon → candidate **+2 Grounding the Sky** (trigger: "Whenever Brewbarry successfully uses his strength, thrown axes, or environment to knock a flying creature out of the air, violently countering the aerial superiority") *(dragon was airborne at ~30 ft; partial match; review)*
+
 - [extract_037]: Killed the paralyzed veteran despite Soma's objection, framing it as "tradition" → candidate **+3 Shattering the Illusion** (trigger: "When Brewbarry ignores a diplomatic or performative manipulation… and instead uses brute, physical intimidation to force the truth to the surface") *(trigger match unclear — this is an execution of a prisoner, not dismantling a deceptive negotiation; review)*
 
+- [extract_037]: Delivered killing blows on Cryovain, breaking the Carver's summoning circle → candidate **+2 Grounding the Sky** (trigger: same as above; Cryovain was the aerial threat)
+
 - [extract_039]: Restrained himself from violence at the Druid Enclave council despite calculating he could eliminate everyone present; witnessed political victory achieved through words → no trigger match from defined triggers; skip.
+
+- [extract_040]: Burped loudly and sincerely at Jenna Roscoe's recruitment pitch; successfully ended the conversation → candidate **+3 Shattering the Illusion** (trigger: "When Brewbarry ignores a diplomatic or performative manipulation (such as the deceitful negotiations of Jena Roscoe or the Lord's Alliance) and instead uses brute, physical intimidation to force the truth to the surface")
 
 - [extract_041]: Stepped into an attack on Boney to absorb the hit, protecting Soma's companion → no trigger match from defined triggers; skip.
 
@@ -107,7 +123,7 @@ Brewbarry is a competitive, boisterous Goliath who treats life as a contest and 
 
 ### Valphine
 
-**Player:** Gary | **Class/Level:** Cleric (Peace Domain) 6 | **Species:** Drow Elf
+**Player:** Gary Young | **Class/Level:** Cleric (Peace Domain) 6 | **Species:** Drow Elf
 
 Valphine is an unorthodox devotee of Lathander whose conversion is genuine but deeply strange — she found the sun god through her Drow connoisseurship of pain, and her theology holds that brightness and suffering are the same thing. She is sharp-eyed for intrigue (a survival trait from Menzoberranzan), capable of profound psychological manipulation, and increasingly operating with a double identity: presenting as an orthodox priestess while cultivating a heterodox pain-cult internally.
 
@@ -115,9 +131,10 @@ Valphine is an unorthodox devotee of Lathander whose conversion is genuine but d
 - *Vukradin:* Followed him out of the First Flophouse sensing something significant; treats him as a potential sign from Lathander; their musical collaboration (*Choralum Lux Maleficarum*) earned public recognition and his respect. She actively protects him in ways he doesn't know about (hidden defensive vial).
 - *Sister Kaella:* Covert arrangement — Kaella believed Valphine was running the party as a duplicitous Drow cleric of Lolth; Valphine extracted intelligence without committing verbally. Kaella has since escaped.
 - *Aletra Sotorra (sister):* Hostile and complicated; Aletra named Valphine's attempt to stop her "a character improvement." History of Valphine failing to act against her.
+- *Soma:* Friction exists around Valphine's Lolth-adjacent impulses and Soma's naturalist ethics; Soma carried her to safety at Axeholm, cementing a protective dynamic.
 - *Adabra:* Adabra conspicuously ignores Valphine, possibly due to Drow heritage. Valphine is aware and suppresses her reaction.
 - *Brin Bundlewine & Giles Slipper-Shine:* Devoted church followers renovating the temple at Tresendar Manor.
-- *Falcon:* Valphine is counseling him through nihilistic crisis; he asked her to mediate his apology to Vukradin.
+- *Falcon:* Valphine counseled him through nihilistic crisis; he asked her to mediate his apology to Vukradin; now a potential convert.
 - *Prutha:* He pledged as "follower of the Drow Cleric of Lathander"; she accepted.
 - *Matron Sotorra / Tarranta (eldest sister):* Active threats — Matron still plans to offer Valphine to Lolth; Tarranta is building power within House Sotorra.
 - *Brundar Quartzvein:* Seeks revenge on House Sotorra; may appear.
@@ -126,7 +143,11 @@ Valphine is an unorthodox devotee of Lathander whose conversion is genuine but d
 - Mithral Chain Mail
 - Hand Crossbow with Walloping bolts
 - Wand of Secrets (from lighthouse wrecks)
+- Spellbook (from lighthouse wrecks; rightful ownership disputed by Vukradin)
 - One vial of powerful defensive magic (secreted in Vukradin's pack; Vukradin unaware)
+- Whistle, coins, and key (from ogre corpse, extract_004)
+- One captured live audit drone (from Axeholm)
+- One vial of interdimensional spider silk (under consideration for the temple)
 - Holy Symbol of Lathander
 - 81gp
 - Temple of Lathander's Searing Pain of Justice (growing institution)
@@ -139,11 +160,13 @@ Valphine is an unorthodox devotee of Lathander whose conversion is genuine but d
 
 - [extract_008]: Articulated a coherent personal theology aloud: goodness causes pain to her nature, which she experiences as pleasure — devotion to Lathander as self-inflicted suffering → candidate **+1 (standard ideological statement)** (trigger: "Give her +1 for standard ideological statements")
 
+- [extract_017]: Successfully maintained her cover as a stereotypical evil Drow to extract intelligence from Sister Kayla without revealing her true allegiance → candidate **+1 (standard ideological action)** *(trigger match unclear — this is strategic use of Drow identity, not directly pain-doctrine; review)*
+
 - [extract_018]: Founded the Temple of Lathander's Searing Pain of Justice at Tresendar Manor; gained two devoted followers (Brin and Giles) → candidate **+3 (converting NPCs / establishing unorthodox methodology)** (trigger: "award points more liberally… +3 for successfully converting NPCs or orthodox clerics to her brutal methodology")
 
 - [extract_024]: Delivered a sermon that brought the congregation to religious ecstasy and caused congregants to blind themselves; instituted an unintended sacrament → candidate **+2 (actively inflicting purifying pain to solve a problem)** (trigger: "+2 for actively inflicting 'purifying pain' to solve a problem")
 
-- [extract_029]: Successfully entered the shutdown code preventing catastrophic planar failure; landed a blinding curse on Aletra, forcing her to drop interdimensional poison vials → no direct Searing Dawn trigger match (these are tactical actions, not expressions of the pain theology); skip.
+- [extract_029]: Successfully entered the shutdown code preventing catastrophic planar failure; landed a blinding curse on Aletra, forcing her to drop interdimensional poison vials → candidate **+2 (actively inflicting 'purifying pain' to solve a problem)** for the curse on Aletra (trigger: "Give her +2 for actively inflicting 'purifying pain' to solve a problem"); shutdown code itself is tactical, no direct Searing Dawn trigger.
 
 - [extract_038]: Congregation is providing healing, food, shelter, and community; Brin and Giles conducted a public self-flagellation fundraising parade through Phandalin → candidate **+3 (converting NPCs / propagating brutal methodology publicly)** (trigger: "+3 for successfully converting NPCs or orthodox clerics to her brutal methodology")
 
@@ -159,7 +182,7 @@ Valphine is an unorthodox devotee of Lathander whose conversion is genuine but d
 
 **Player:** Wade | **Class/Level:** Druid (Circle of the Moon) 6 | **Species:** Tortle
 
-Soma is a patient, dry-witted elder tortle who came to druidcraft late in life and is still reckoning with what that means. She presents as brooding and unhurried, but acts decisively when the moment calls for it. Her instinctively maternal relationship to the party ("shell-sprouts") coexists with a growing awareness that her naturalist philosophy — shaped by Adabra — was untested and possibly exploited. She is now the custodian of Meril's Staff, an artifact that is actively responding to her actions and growing new leaves as it gains powers.
+Soma is patient, dry-witted, and instinctively maternal — she calls her companions "shell-sprouts" and tends to their welfare whether they want it or not. By tortle standards she is old (over 40), trained for only a single year by the elven druid Meril before being sent out with his ash staff, and she is acutely aware that she arrived late to the work. Her philosophical framework has been shaken: she can no longer call herself simply a naturalist after the Whispering Grove and the druid council, and she is still integrating what she has become instead. What she wants, when asked plainly, is for every creature to have a place to live and for the world to be a little safer — nothing grander than that.
 
 **Notable Relationships:**
 - *Meril (mentor, absent):* Left her the staff deliberately; Xanth confirmed this twice. Soma is resisting full acceptance of the staff's purpose.
@@ -167,14 +190,16 @@ Soma is a patient, dry-witted elder tortle who came to druidcraft late in life a
 - *Adabra:* Relationship severely damaged. Adabra used Corbin's death against Soma at the Enclave council; Soma refused to apologize and challenged her philosophy. Soma has declared she is done with Adabra.
 - *Lyra (Emerald Enclave):* Warm; Soma defended Lyra at council; Lyra restored to full standing.
 - *Vukradin:* Ongoing friction — she holds an unspecified necklace dispute with him (he refuses to let her access it); she has privately noted his persuasive abilities are creating latent resentment in people around Phandalin.
+- *Brewbarry:* Protective relationship; she physically restrained him during his pool-vision hysteria; occasionally objects to his tactical decisions (killing after a non-lethal call) without escalating.
 - *Boney (skeletal horse):* Loyal companion acquired in Dragonbarrow by claiming to be Lady Alagondar reincarnated.
 - *Prutha:* Soma quietly registered his grief over the dead anchorites as potentially significant.
 - *Corbin:* Dead; Soma registered his full backstory with empathy. His death was used against the party at the Enclave council.
 
 **Items of Significance:**
-- Meril's Staff (active artifact; four tight green buds as of extract_042; leaves grow as Soma accepts her role — the staff gains power, it does not lose it; trembling ceased after Circle of Thunder clearing)
-- Magical goggles granting darkvision
+- Meril's Staff (active artifact; **five leaves** (grew the fifth during the storm at Falcon's Lodge); leaves grow as Soma accepts her role — the staff gains power, it does not lose it; trembling ceased after Circle of Thunder clearing; staff is ahead of her own senses and can detect unnatural elements in the natural world)
+- Magical goggles granting darkvision (recovered from carrion crawler's lair, Axeholm)
 - Druidic spell scroll (taken from bandits; ownership unresolved)
+- Leather armor + shield
 - 25gp
 
 **Candidate Arc Score Events — Meril's Legacy Score**
@@ -185,13 +210,19 @@ Soma is a patient, dry-witted elder tortle who came to druidcraft late in life a
 
 - [extract_011]: Soma's staff gifted by Meril became magically active/unlocked as the party headed toward the Whispering Grove → narrative milestone; no score trigger in the mechanic file for staff activation itself; skip.
 
+- [extract_012]: Successfully communicated with the stag using Speak with Animals; gathered key intelligence about the disturbance's origin; de-escalated a territorial encounter through diplomacy → candidate **+1 The Maternal Anchor** (trigger: "When Soma successfully uses her calming, matronly influence to de-escalate… acting as the stabilizing root for her 'bale' (party)") *(trigger match partial — de-escalation here is with an animal, not a party member; review)*
+
 - [extract_013]: Chose to use Meril's Staff to independently verify Lyra's claims rather than acting on faith or impulse, demonstrating judgment; recognized own arrogance ("wet from the nest") → candidate **+2 Subtle Discernment** (trigger: "When Soma correctly identifies a threat as a *motivated* blight rather than a natural occurrence… actively rejecting Adabra's philosophy") *(trigger match unclear — the self-reckoning moment is personal growth, not identification of a motivated blight; the staff verification may qualify as Subtle Discernment; review)*
 
 - [extract_013]: Identified the puppet creature collecting Treant materials as evidence of a calculated, motivated force behind the planar corruptions → candidate **+2 Subtle Discernment** (trigger: "When Soma correctly identifies a threat as a *motivated* blight rather than a natural occurrence… recognizing that the Kraken Society's memory-tampering… is an unnatural infection that must be purged, actively rejecting Adabra's philosophy")
 
 - [extract_014]: Chose to save Lyra and her allies rather than let them die, and argued this to Adabra — principled stand that deepened Adabra's suspicion → candidate **+3 Active Intervention** (trigger: "When Soma actively sabotages or destroys an immediate threat to the planar order… or refusing to let an aberration retreat")
 
+- [extract_016]: Used Speak with Animals to locate Petunia efficiently; practical problem-solving under pressure → candidate (trigger match unclear — this is resourcefulness, not party de-escalation; review)
+
 - [extract_022]: Tracked and subdued the wandering mind-controlled Teega in bear form, preventing her loss → candidate **+1 The Maternal Anchor** (trigger: "When Soma successfully uses her calming, matronly influence to de-escalate… acting as the stabilizing root for her 'bale'")
+
+- [extract_025]: Summoned a rat familiar to scout Axeholm's interior through arrow slits, providing actionable intelligence safely → candidate (trigger match unclear — no specific trigger covers scouting/familiar use; review)
 
 - [extract_026]: Sensed planar anomalies via her staff inside Axeholm; confirmed the treant, pools, and bushes as unnatural (extract_013 parallel) → candidate **+2 Subtle Discernment** (trigger: "When Soma correctly identifies a threat as a *motivated* blight rather than a natural occurrence")
 
@@ -215,15 +246,16 @@ Soma is a patient, dry-witted elder tortle who came to druidcraft late in life a
 
 ### Vukradin
 
-**Player:** kostadis1 | **Class/Level:** Bard (College of Eloquence) 6 | **Species:** Variant Aasimar
+**Player:** David Mendenhall | **Class/Level:** Bard (College of Eloquence) 6 | **Species:** Variant Aasimar
 
-Vukradin is a lawful-good Aasimar bard whose artistic idealism shapes everything he does — he refuses to profit from plunder, insists on "conflict-free gold," and genuinely believes music can convert enemies and reform societies. He is politically shrewd when he chooses to be, and his reputation has grown to the point where it now operates independently of his intentions. He is also impulsive and occasionally reckless, and his moral rigidity creates real friction with the messier choices the party makes around him.
+Vukradin is a lawful-good musician who has built his entire identity around the principle of "conflict-free gold" — he will not accept stolen goods, loot corpses, or profit from violence, and he will lecture anyone who suggests otherwise. He is idealistic to the point of occasional recklessness, impulsive in ways that have cost the party real harm (triggering traps, paralysing Sister Kaella before she could give information), and grows more isolated as his ethics create friction with practical realities. His goal is a music studio funded entirely by honest coin. He is also, increasingly, a political figure in Phandalin whether he intended to be or not, and he is only beginning to reckon with what that means.
 
 **Notable Relationships:**
 - *Brewbarry:* Brewbarry's core loyalty ("I like Vukardin music") has deepened; Brewbarry disclosed the true exile story to Vukradin — they discovered Vukradin only knew Brewbarry post-exile, post-drinking.
 - *Ser Kaelen Thorn (Order of the Gauntlet):* Associate member; Kaelen has used Vukradin's own vocabulary in suspicious ways. Revised trust assessment: "as close as somebody we can actually trust. No, I don't trust him."
 - *Adabra:* Relationship fractured. She orchestrated a council attack against him; he formally closed their debt by mailing her 5gp plus interest. No rapprochement.
-- *Falcon:* Relationship severely damaged by Falcon's public council attack; Vukradin withheld goodwill pending a personal apology. Valphine is mediating.
+- *Falcon:* Restored after a categorical apology; Falcon has promised studio wood and a music-venue partnership; relationship is warm but relatively new; Falcon arrived at the lodge with his sword pledged to the defense.
+- *Valphine:* Respects her; often does not know what she is doing on his behalf and probably wouldn't endorse all of it.
 - *Lyra (Emerald Enclave):* Warm; she publicly credited his Enclave strategy.
 - *Corbin:* Dead. Vukradin pushed Corbin toward his former gang over Corbin's explicit objection; he acknowledged this grief when Prutha was named, connecting the two situations.
 - *Prutha (orc convert):* First named convert; Vukradin acknowledged him as "my first."
@@ -234,10 +266,11 @@ Vukradin is a lawful-good Aasimar bard whose artistic idealism shapes everything
 **Items of Significance:**
 - Necklace of Fireballs (seven beads; holding contested necklace in dispute with Soma)
 - Flute of Illusions
-- Obsidian sword containing mental amplifier gem (the Carver's weapon; Vukradin treating as stolen goods pending rightful-owner documentation)
+- Obsidian sword containing mental amplifier gem (the Carver's weapon; Vukradin treating as stolen goods pending rightful-owner documentation; has not used it despite it directly serving his studio goal)
 - Sending stones (from Dazlyn and Norbus)
 - Hat of Wizardry (from King Gnercli)
 - Order of the Gauntlet membership pin (noted as "lost")
+- One vial of powerful defensive magic (in his pack; placed by Valphine; he does not know it is there)
 - 29gp
 
 *Arc Score: INTENTIONALLY TRACKLESS — Vukradin has no formal arc score mechanic. No candidate events are listed.*

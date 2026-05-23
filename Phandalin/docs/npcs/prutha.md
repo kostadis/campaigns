@@ -1,7 +1,7 @@
 ---
 name: Prutha
 aliases: []
-source_extracts: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42]
+source_extracts: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43]
 ---
 
 # Prutha
@@ -20,6 +20,8 @@ source_extracts: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18,
 - His violence is performative in service of belonging — the corpse-kicking reads as demonstration, not cruelty for its own sake. Vukradin noticed.
 - Moves through battle with focused directness that Brewbarry noted with recognition.
 - Does not engage in philosophical debate once his position is stated; prefers decisive action over argumentation.
+- Gets a particular expression when adults are doing something confusing; his social instincts are direct and practical.
+- Has learned that stillness is safer than motion when uncertain about his standing with the group.
 
 ## History with the Party
 1. **Conversion:** After the battle, Prutha was the last orc standing. He assessed his odds, set down his greataxe, and declared for Lathander upon seeing Valphine — framing it as a power upgrade: *"Talos offer power. Lathander — more power. Lathander all-powerful."*
@@ -33,19 +35,26 @@ source_extracts: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18,
 9. **Holy symbol dispute:** After the battle, when Vukradin argued that the holy symbols of Talos should be returned to their rightful owners, Prutha countered by pointing at the dead anchorites and stating that the owners had been found and the items should go to them. He then destroyed the symbols. Did not engage further in philosophical debate.
 10. **Reflection on the fallen:** Made a quiet statement while looking at the bodies of the fallen anchorites — his own kind, younger than expected, bearing someone else's faith tattooed on their skin: *"My great-uncle said dawn comes for everyone. Even these ones. I did not think dawn would feel quiet."* Received Valphine's response — *"Dawn is powerful"* — with a grunt and a wave of his axe. The grunt was noted as carrying something different from his usual register.
 11. **Cave exploration:** Entered the caves at the Circle of Thunder with the rest of the group. No specific actions recorded beyond his presence.
+12. **Shield discussion:** During equipment distribution, Prutha watched with the expression he gets when adults are doing something confusing. He enthusiastically suggested: "Valphine, use good shield! Valphine, cleric of sun!" He was rebuffed by both Valphine and Vukradin. When he protested, Vukradin looked at him directly and said "Not yours either." Prutha went quiet.
+13. **Lodge arrival and formal greeting:** Moved before anyone else spoke. Had been watching the banners and identified them aloud: "Eastern Heart! Three banners on the wall! I see one! Sun and Stone! My uncle's clan march! They are family!" Walked deliberately to the gate with hands open, brought his right fist to his left shoulder, lowered his head in formal greeting, drew the bone whistle from inside his armor, and blew the dawn prayer. The sentry returned the gesture, lowered her bow, and called down to open the gate. He exchanged verbal recognition with her before the invitation was extended to the whole party. The sentry's invitation — "Bring your drow, bring your Aasimar, bring all of them. We are listening" — framed him as the entry point: *your drow*, *your Aasimar*, possessive to Prutha.
+14. **Intelligence provided:** Shared knowledge from orc songs: the orcs had taken the lodge, there were dogs, and he knew of three factions — former tribe, Talosian-aligned, and independent. He confirmed the Anchorites had moved their own people through. A recovered note mentioned a boy from the East described as a good recruit, which Soma observed while looking at Prutha, though she said nothing aloud. Vukradin also noted this detail without acting on it.
+15. **Pre-siege behavior:** Was standing quietly, having apparently learned that stillness is safer than motion.
 
 ## Current Status
-- **Location:** With the party, departing the Circle of Thunder.
-- **Active situation:** Newly converted, newly attached to Valphine. No independent operations.
-- **What the party knows:** Everything above — he was forthcoming.
-- **What remains hidden:** Whether his conversion has any depth beyond pragmatism. The whistle moment and his reflection on the fallen anchorites suggest it might, but this is unresolved.
+- **Location:** Inside the palisade at the lodge as the siege began.
+- **Active situation:** Newly converted, newly attached to Valphine. Recognized as family by the Eastern Heart orcs holding the lodge. Learning the boundaries of his position within the party.
+- **What the party knows:** Everything above — he was forthcoming. His great-uncle's clan (Sun and Stone) was part of the Eastern Heart march. He knows orc songs and tactical intelligence about the lodge.
+- **What remains hidden:** Whether his conversion has any depth beyond pragmatism. The whistle moment and his reflection on the fallen anchorites suggest it might, but this is unresolved. The recovered note about "a boy from the East" as a good recruit may reference him directly; Soma and Vukradin both noticed but neither has raised it.
 
 ## Relationships
-- **Valphine:** Primary attachment. Declared follower, twice over. The bone whistle tradition may be incorporated into Valphine's evolving practice — potential meaningful thread.
-- **Vukradin:** Respect, warmth. Vukradin called him *his first* and blessed him. Vukradin also clocked the corpse-kicking enthusiasm and the name dispute (sided with Prutha over Valphine's suggestion). They disagreed over the disposition of Talosian holy symbols; Prutha acted unilaterally.
+- **Valphine:** Primary attachment. Declared follower, twice over. The bone whistle tradition may be incorporated into Valphine's evolving practice — potential meaningful thread. Rebuffed his enthusiastic shield suggestion.
+- **Vukradin:** Respect, warmth. Vukradin called him *his first* and blessed him. Vukradin also clocked the corpse-kicking enthusiasm and the name dispute (sided with Prutha over Valphine's suggestion). They disagreed over the disposition of Talosian holy symbols; Prutha acted unilaterally. Vukradin directly shut down Prutha's protest over the shield with "Not yours either." Vukradin noted the recovered note about "a boy from the East" without acting on it.
 - **Brewbarry:** Noted Prutha's focused directness in battle with recognition.
-- **Great-uncle (deceased):** The emotional center of his backstory. Shaman. Killed by Talosians. Source of the whistle tradition and the dawn phrase.
+- **Soma:** Observed the recovered note about "a boy from the East" while looking at Prutha; said nothing aloud.
+- **Great-uncle (deceased):** The emotional center of his backstory. Shaman. Killed by Talosians. Source of the whistle tradition and the dawn phrase. Member of the Sun and Stone clan.
 - **Circle of Thunder:** Former faction. His stated position is that non-committed orcs should be spared and offered conversion; committed Talosians get no quarter.
+- **Eastern Heart orcs at the lodge:** Recognized as family. The sentry returned his formal greeting and the party's entry was framed as attached to him.
+- **Sun and Stone clan:** His great-uncle's clan, part of the Eastern Heart march. Banner identified at the lodge.
 
 ## Arc Score Events
 - **Conversion declared** — Lathanderian alignment established (positive shift, new arc opened)
@@ -54,3 +63,7 @@ source_extracts: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18,
 - **Battle participation at Circle of Thunder** — Engaged actively; javelin throw and greataxe work on paralyzed anchorites (combat contribution marker)
 - **Holy symbols destroyed** — Unilateral decision to destroy Talosian symbols after philosophical disagreement with Vukradin (tension point with party cleric)
 - **Quiet reflection on fallen anchorites** — Second emotionally vulnerable moment; dawning awareness that killing his own kind in Lathander's name carries unexpected weight (character depth marker, potential internal conflict)
+- **Shield rebuff** — Enthusiastic suggestion rejected by both Valphine and Vukradin; learned boundary through direct social correction (social learning moment, minor tension)
+- **Lodge recognition and formal greeting** — Identified Eastern Heart banners, performed formal clan greeting with bone whistle, recognized as family by lodge orcs, became the party's entry point (major positive marker, social capital established, cultural identity affirmed)
+- **"Boy from the East" note** — Recovered note possibly referencing Prutha as Anchorite recruitment target; observed by Soma and Vukradin, not yet discussed (potential complication, unresolved)
+- **Pre-siege stillness** — Learned that stillness is safer than motion; behavioral adaptation to uncertain standing (character development marker, potential vulnerability indicator)

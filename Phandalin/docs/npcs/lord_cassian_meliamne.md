@@ -1,17 +1,18 @@
 ---
-name: lord_cassian_meliame
-aliases: []
+name: Lord Cassian Meliamne
+aliases:
+  - Lord Cassian Meliame
 source_extracts: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42]
 ---
 
-# Lord Cassian Meliame
+# Lord Cassian Meliamne
 
 ## Identity
 - **Role/Title:** Lord; host of an extravagant gala in Neverwinter
-- **Faction:** House Meliame (implied)
+- **Faction:** House Meliamne (implied)
 - **First Appearance:** Not yet met directly; referenced as the location anchor for the statue delivery mission
 
-*Also known as: (none).*
+*Also known as: Lord Cassian Meliame.*
 
 ## Personality & Motivations
 - Described as eccentric.
@@ -23,10 +24,10 @@ source_extracts: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18,
 ## Current Status
 - **Last Known Location:** Neverwinter — hosting an extravagant gala
 - **Active Plans:** Hosting the gala; no further operations known
-- **Party Knowledge:** The party knows he is Elara Seasong Meliame's eccentric cousin and the gala host. Nothing else is known.
+- **Party Knowledge:** The party knows he is Elara Seasong Meliamne's eccentric cousin and the gala host. Nothing else is known.
 
 ## Relationships
-- **Elara Seasong Meliame:** Cousin
+- **Elara Seasong Meliamne:** Cousin
 - **The Party:** No direct relationship established; connected via the delivery mission
 
 ## Arc Score Events

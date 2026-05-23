@@ -6,12 +6,11 @@
 
 | Score Name | NPC/Faction | Current Value | Next Threshold | What Triggers Next |
 |---|---|---|---|---|
-| Adabra Quest Line | Adabra | ~6–7 (post-council defeat; still active) | 9 | Adabra fully empowered; direct confrontation with party; major battles |
-| Aletra Sotorra Arc (Planar Distortion Score) | Aletra Sotorra | ~3–4 (phase 2 entry; escape with partial cargo) | 5 | Focused investigation/interference; direct NPC confirmation of KP-linked distortion |
-| Echoes Score | Kraken Society | ~5–6 (Cult Fanatic operation confirmed; spiral emblem identified; drowned gate sought) | 6 | Society agents interfere directly; trusted figures mentally compromised; active work to unseal the Drowned Gate beneath Yllyn (Underdark, beneath the Leilon region) |
-| Splinter Colony | Splinter Colony / Mind Flayers | Background (party unaware) | — | Party intercepts conflicting Kraken Society orders; schism becomes visible |
+| Adabra Quest Line (Fury of the Wild) | Adabra | ~3 (hostile/overt) | 6 | Adabra makes a pact with Tiamat; gains new powers; sends elite agents against party |
+| Echoes Score | Kraken Society | ~4–5 (Threads Appear) | 6 | Society agents interfere directly, leave deliberate clues; trusted figures mentally compromised; active work to unseal the Drowned Gate |
+| Planar Distortion | Aletra Sotorra / KP | ~4–5 | 6 | Aletra directly manipulates a major planar nexus; "K" or KP philosophy voiced openly by an NPC |
 
-> **Note on Talosian/Gorthok arc:** No formal arc score mechanic file provided. Treated as an active plot thread (see Active Plots). DM should assign a score mechanic if desired.
+**Notes on current values:** Adabra lost the council vote but departed fuming and unpersuaded — threshold 3 (hostility overt) is met. Kraken Society survived Cult Fanatic loss and has confirmed the Drowned Gate interest; score sits just below threshold 6. Planar Distortion: Axeholm device destroyed (partial decrease) but Gorthok summoning, Talosian ritual infrastructure, and KP/Aletra's "KP isn't watching" note all sustain the score.
 
 ---
 
@@ -19,93 +18,120 @@
 
 ### Adabra (Adabra Gwynn)
 
-**Current Location:** Unknown. Departed the Emerald Enclave council glade after losing the vote; did not accept the verdict. Whereabouts unconfirmed.
-
-**Status:** Active antagonist. Fuming, unpersuaded, and dangerous. Has the posture of someone outvoted rather than defeated.
+**Current Location:** Unknown. Departed the Emerald Enclave council glade fuming after losing the vote. Repayment of 6gp (5 + 1 interest) sent via Phandalin postal system by Vukradin.
 
 **Active Plans:**
-- Regrouping after council loss. Her formal case was rejected, her personal attacks on Vukradin declared "absolutely disgraceful," and her main recruited ally (Falcon) publicly defected and expressed regret.
-- Still opposes the interventionist faction of the Enclave and views the party as reckless aggressors who have damaged the natural world.
-- Likely working to rebuild outside formal Enclave channels — she has already demonstrated willingness to act unilaterally (timing the council during Reidoth's absence).
-- Unknown whether she has other allies beyond Falcon (defected) and Aldric Stone Path (undermined at council).
+- Not finished despite losing the formal council. Has the posture of someone outvoted, not persuaded.
+- Continuing to oppose the interventionist Enclave faction from outside formal channels.
+- Soma expects her to return "in greater numbers."
+- Long-arc escalation: per the Fury of the Wild track, the next major step (score 6) is a pact with Tiamat and new draconic powers.
 
-**What the Party Knows:** Defeated at council; attacks on Vukradin condemned; true believer (confirmed via Meril's Staff); personally confirmed the treant's death; strategic operator willing to act unilaterally; views Talos cult as "necessary cosmic balance." Vukradin repaid the five-gold debt (plus interest) via post after her loss.
+**What the Party Knows:**
+- True believer (verified via Meril's Staff resonance).
+- Deliberately timed council to Reidoth's absence; case was rejected and attacks called "disgraceful."
+- Weaponized the 5gp debt publicly; left without conceding.
+- Recruited Falcon (regrets it) and Aldric Stone Path.
+- Has confirmed the treant is dead via personal inspection.
+- Vukradin closed the debt with 6gp via post.
 
-**What Remains Hidden:** Her current location; whether she received or will respond to the repayment; what allies remain loyal; whether she pursues outside-Enclave action (rallying independent druids, forming new alliances); the full extent of her position on planar entities and whether it reflects personal radicalization or coordinated ideology; any contact with entities who would benefit from her anti-interventionist stance.
+**What Remains Hidden:**
+- Her specific location and next move.
+- Whether she has allies beyond Falcon and Aldric.
+- Whether the Tiamat-pact arc is already in motion or still latent.
+- Whether she received/will respond to Vukradin's repayment.
+- Full scope of her activities against the interventionist faction.
+- Whether her position on outer-planar entities as "natural" reflects coordinated radicalization or personal drift.
 
 **Key Relationships:**
-- **Soma:** Former protégé, now adversary. Soma has declared she is done with Adabra. Adabra's philosophical framework shaped Soma's early worldview — a wound that still shapes Soma's self-questioning.
-- **Vukradin:** Publicly attacked at council; relationship formally closed by Vukradin's debt repayment. Adabra may interpret the repayment as provocation, closure, or irrelevance.
-- **Reidoth:** Strategically excluded from the council; aware of events via Vukradin's *Sending*. His return complicates Adabra's next move within formal Enclave structures.
-- **Falcon:** Defected after Valphine's counseling; told the council "I don't even know why I ever supported Adabra."
-- **Aldric Stone Path:** Position publicly undermined; status within Adabra's remaining faction unclear.
+- **Soma:** Once a protégé; now a declared interventionist enemy. Soma is done with Adabra.
+- **Vukradin:** The 5gp debt has been formally closed. She publicly attacked him; the presiding druid called it disgraceful. No reconciliation.
+- **Lyra:** Ideological enemy; failed to ostracize her at council.
+- **Reidoth:** Excluded from the council deliberately; now alerted by Vukradin via *Sending*.
+- **Falcon:** Recruited him; he regrets it and disavowed her after Valphine's counsel.
 
-**Arc Score:** ~6–7. Lost the council vote (major setback), but remains active and unreconciled. Next threshold (9) = overt confrontation with the party; possible alliance with draconic or extraplanar forces. Fury Track mechanic: helping interventionists suppress her influence = –1; siding with her or ignoring her interventionists = +1.
+**Arc Score (Fury of the Wild): ~3 — Hostility Overt**
+- Current: NPC hostility is open; her case at the Enclave was public.
+- Next unlock (score 6): Pact with Tiamat, new powers, elite agents sent against the party.
+- Party actions that reduce score: actively helping interventionists suppress her influence.
 
 ---
 
 ### Aletra Sotorra
 
-**Current Location:** Escaped via self-opened interdimensional portal after Axeholm operation. Destination unknown.
-
-**Status:** At large. Partially successful extraction — most of the Midnight Tears cargo recovered, several vials dropped due to Valphine's blinding curse. Anticipating her boss's displeasure.
+**Current Location:** Unknown. Escaped through a self-opened interdimensional portal from Axeholm, partially blinded by Valphine's curse, missing several vials of Midnight Tears.
 
 **Active Plans:**
-- Delivering the reduced shipment to her unnamed boss; managing fallout from the botched extraction.
-- Avoiding KP's oversight ("use only if KP isn't watching").
-- Unknown whether she will seek to recover the vials left behind, retaliate against Valphine, or lie low.
+- Delivering a reduced Midnight Tears shipment to her unnamed boss.
+- Managing fallout — "the boss will not be happy."
+- Operating under oversight of "KP" (avoids acting when KP is watching).
 
-**What the Party Knows:** Valphine's sister; ran interdimensional smuggling through the planar machine; tied to House Sotorra/Xorlarrin poison operations; works for unnamed boss; knows about KP; left vials behind; the boss will be displeased.
+**What the Party Knows:**
+- Valphine's sister; House Sartorra / Xorlarrin poison operation.
+- Runs interdimensional smuggling via the Model 1489 Spatial Rectification Calliope.
+- Works for an unnamed boss; operates under KP's surveillance.
+- Cold, calculating, ruthlessly pragmatic; used Brewbarry as a decoy without apology.
+- Party holds: forged ledger, annotated Operator's Guide, 4 vials of Midnight Tears (2,000gp), platinum coin, malachite gem.
 
-**What Remains Hidden:** Identity of her boss; identity and nature of KP; portal destination; full scope of smuggling network; whether she will move against the party or Valphine specifically.
+**What Remains Hidden:**
+- Identity of her boss; identity and role of KP.
+- Portal destination.
+- Full scope of the smuggling network.
+- Whether she will retaliate against Valphine specifically for the blinding curse.
 
 **Key Relationships:**
-- **Valphine:** Sisters, deeply antagonistic. Aletra's first genuine defeat by Valphine — "the first time you actually tried to stop me."
-- **Unnamed Boss / KP:** She fears the boss's reaction; operates covertly relative to KP.
+- **Valphine:** Sisters; deeply antagonistic. Aletra acknowledged Valphine "actually tried to stop her this time."
+- **KP:** Oversight figure she avoids; annotation "use only if KP isn't watching."
+- **Unnamed Boss:** Fears their reaction to lost vials.
 
-**Leverage Points:** The party holds the forged ledger, the Operator's Guide with her annotations, and four vials of Midnight Tears — evidence of House Sotorra's operation.
-
-**Arc Score:** ~3–4 (Phase 2). Next trigger: party encounters Aletra investigating/interfering with a planar site or Leilon-area infrastructure. KP-linked distortion score will rise when the party directly confronts her at a major planar nexus.
+**Arc Score (Planar Distortion): Active contributor — see Threat Tracker.**
 
 ---
 
 ### Zeleen Varnaster
 
-**Current Location:** Mountain's Toe Gold Mine, acting as de facto protector under contract with the Stonetallow dwarves.
-
-**Status:** Cooperative but unreliable. Currently dispatched with his crew into orc-infested forest to retrieve the Earthstone Gem. Brewbarry and Valphine assessed his probability of success as low.
+**Current Location:** Mountain's Toe Gold Mine, contracted protector.
 
 **Active Plans:**
-- Retrieve the Earthstone Gem (current mission, coerced).
-- Maintain the mine arrangement: shelter, Petunia's cheese, protection role in exchange for security and menial labor.
-- Underlying ambition (Valphine's read): may still intend to retain the mine regardless of the agreement.
+- Currently leading his delegation into orc-infested forest to retrieve the Earthstone Gem.
+- Party has low confidence in his success; Horia has a 50gp fake-gem contingency funded covertly.
 
-**What the Party Knows:** Bound by handshake with Horia Stonetallow; enthusiastic about the arrangement superficially; historically evasive; original intentions possibly duplicitous; mining-incompetent; responds to blunt intimidation and fair argument.
+**What the Party Knows:**
+- Bound by handshake agreement with Horia; appeared genuinely invested after Brewbarry's intimidation.
+- Originally intended to keep the mine regardless of any deal (Valphine's read).
+- Delighted by Petunia's cheese; that goodwill is real.
+- Saw through Vukradin's dragon bluff and treated it as a joke — relationship warmed.
 
-**What Remains Hidden:** Whether his underlying ambition to retain the mine has been set aside; actual probability of retrieving the Earthstone Gem; whether he will succeed or need the fake-gem contingency.
+**What Remains Hidden:**
+- Whether his original ambition to hold the mine is truly set aside.
+- Whether he will succeed in retrieving the Earthstone Gem.
+- What Horia's fake-gem contingency will do to wererat trust if revealed.
 
 **Key Relationships:**
-- **Horia Stonetallow:** Formalized agreement; dwarves view wererats skeptically but accepted.
-- **Brewbarry:** Earned respect through intimidation + argument; primary authority figure Zeleen responds to.
-- **Valphine:** Tense. Cheese insult caused offense; "waste of cheese" rebuke broke his will. She privately suspects his compliance is performative.
-
-**Arc Score Events:** No formal arc score mechanic. Track trust as conditional — fake-gem success/failure and mine output will determine whether the arrangement holds.
+- **Horia Stonetallow:** Formal handshake partner; Horia privately doubts wererat mining capability.
+- **Brewbarry:** Earned genuine respect through argument + axe.
+- **Valphine:** Tense; the "waste of cheese" rebuke broke his will but didn't build trust.
 
 ---
 
-### Sister Kaella (Sister Kayla)
+### Sister Kaella
 
-**Current Location:** At large. Escaped from Corbin's custody (killing him in the process). Described as "walked out and gone to the wind."
+**Current Location:** At large. Escaped custody, presumably killed Corbin. Last contact: field camp pre-mountain approach.
 
-**Status:** Dangerous and unpredictable. A former Carver operative who defected to work against him, then escaped captivity. Her current agenda is unknown.
+**Active Plans:**
+- Unknown. Previously: wanted the Carver dead and had intelligence on his lieutenants.
+- She "walked out and gone to the wind" per Xanthopoulos.
+- Described by Vukradin as "a killer in priest's clothing."
 
-**Active Plans:** Unknown. She no longer has an organizational home (the Carver is destroyed). She may be: lying low, pursuing independent criminal activity, seeking vengeance on the party for capturing her, or pursuing a new alignment.
+**What the Party Knows:**
+- Former Carver lieutenant who defected and worked covertly with Valphine.
+- Killed Corbin to escape. Escaped cleanly.
+- Jenna Roscoe offered Lord's Alliance ability to locate her as a recruitment incentive.
+- Believed Valphine was an agent of Lolth; this assumption was never corrected.
 
-**What the Party Knows:** Killed Corbin; escaped; described as a "killer in priest's clothing"; had a covert arrangement with Valphine; orchestrated the failed frame-up of the party (using Borg as instrument); the Carver has been destroyed so her stated motivation (his death) is fulfilled.
-
-**What Remains Hidden:** Current location; current objectives; whether she considers herself done with the party or a threat to them.
-
-**Leverage:** Jenna Roscoe offered the Lord's Alliance's ability to locate her as a recruitment incentive.
+**What Remains Hidden:**
+- Current location and objectives.
+- Whether she still has any Carver-linked assets.
+- Whether she will resurface as threat or potential asset.
 
 ---
 
@@ -113,325 +139,385 @@
 
 **Current Location:** Phandalin, Stonehill Inn.
 
-**Status:** Active Order of the Gauntlet field recruiter and advisor. Awaiting party's return from Woodland Manse.
-
 **Active Plans:**
-- Managing the Order's reputation and relationship with Vukradin.
-- Has been representing Vukradin as a "full-fledged member" to outside parties (including Jenna Roscoe) — either misinformed or deliberately misrepresenting.
-- Has closely studied Vukradin's vocabulary and mirrors it back; Vukradin finds this calculated.
-- Redirected party toward Phandalin rather than Neverwinter, citing Emerald Enclave problems and "unspecified issues."
-- Awaiting correspondence from Neverwinter about rightful owners of recovered ship treasures.
+- Managing Order of the Gauntlet relations with the party.
+- Has been studying Vukradin's vocabulary and mirroring it back.
+- Redirected party from Neverwinter to Phandalin citing "Emerald Enclave issues."
+- Waiting on Candlekeep response re: rightful owners of lighthouse treasure.
+- Knows about Corbin's death and Sister Kaella's situation (informed by Vukradin).
 
-**What Remains Hidden:** His actual understanding of Vukradin's membership status; what the "issues with the Emerald Enclave" involve beyond Adabra; whether his mirroring of Vukradin is genuine attunement or calculated management; House Margaster's ongoing relationship with the Order.
+**What the Party Knows:**
+- Order of the Gauntlet recruiter and handler; associate of House Margaster (per Jenna Roscoe's confirmed letter).
+- Represents Vukradin to outsiders as a "full-fledged member" — overstating the relationship.
+- Eyes went directly to Soma's staff after the Enclave council; expression became "careful, calculating."
+- Trust assessment: "as close as somebody we can actually trust. No, I don't trust him."
 
-**Key Relationships:**
-- **Vukradin:** Primary target of investment; Vukradin's trust is qualified ("as close as somebody we can actually trust. No, I don't trust him").
-- **Adabra:** Characterized her as "confused" — sympathetic to her pain, dismissive of her conclusions.
-- **House Margaster:** Confirmed funder of the Order; Kaelen has not addressed this.
-
----
-
-### Jenna Roscoe
-
-**Current Location:** Phandalin (last seen at Stonehill Inn after failed recruitment pitch).
-
-**Status:** Active Lord's Alliance operative. No deal reached with any party member; departed without commitments.
-
-**Active Plans:**
-- Monitoring the party, particularly Vukradin's affiliations.
-- Attempting to leverage intelligence (Sister Kaella's location, financial resources, performance bookings) as recruitment incentives.
-- Suppressing information about the Kraken Society at the council level (confirmed by Valphine's Insight).
-
-**What Remains Hidden:** Full extent of Lord's Alliance knowledge about the Kraken Society; whether she has received new instructions; whether her contempt for Uthgardians will drive her toward Brewbarry as an ongoing target or she will write him off.
-
----
-
-### Harbin Wester
-
-**Current Location:** Phandalin, Town Hall.
-
-**Status:** Diminished authority; operating within the Privy Council structure. Shaken by accusations of "blood money" but not resigned.
-
-**Active Plans:** Administering Phandalin, leveraging the party's victories for political credit, managing the ongoing orc threat, and commissioning the party for mine and supply deliveries.
-
-**Notable:** Has been conducting off-the-books financial transactions (50gp temple fee to himself). His brother Tibor is running an illegal wildcat logging operation in the protected forest without permits — Tibor's crew agreed to report him to city authorities.
-
----
-
-### Falcon the Hunter
-
-**Current Location:** Has departed Phandalin and is en route back to Falcon's Hunting Lodge — reversing his earlier stated intent not to return voluntarily. **The party does not know this**; they believe he is still in Phandalin settling debts.
-
-**Status:** Emotionally destabilized. His lodge is occupied by Talosian cultists; his partner was killed in the orc attack. His dragonslayer identity was exposed as fabricated. He publicly attacked Vukradin at the Enclave council, then publicly recanted after Valphine's counsel. Decision to return to the lodge unilaterally reverses what he told the party.
-
-**Active Plans:** Return to his Lodge (motive not yet established). Previously stated plans (settle Phandalin debts, mediated apology with Vukradin via Valphine, music-venue partnership offer) are in limbo until the party learns of his departure.
-
-**What Remains Hidden:** That he has left Phandalin and is heading back to the Lodge — the party still expects to find him in town. Whether his conversion away from Adabra's ideology is genuine or grief-driven. His private drawer contained unexplained items: wooden maze carving (matches *Undercity Chorale* libretto architecture) and wooden elven ears inscribed "my dearly beloved." These have not been addressed.
-
----
-
-### Lyra (Emerald Enclave, Interventionist)
-
-**Current Location:** Phandalin; restored to full Enclave standing.
-
-**Status:** Rehabilitated. Her open confession at the council, combined with the party's advocacy, restored her position. She was "incandescent" on the party's return — visibly exhilarated.
-
-**Active Plans:** Rebuilding her standing within the Enclave; resuming interventionist operations. Likely to be an ally in addressing remaining planar threats.
-
----
-
-### Reidoth
-
-**Current Location:** Unknown; away from Phandalin. Aware of council events via Vukradin's *Sending*.
-
-**Status:** Nominal head of the local Emerald Enclave chapter; was deliberately excluded from the council by Adabra. No response to Vukradin's Sending yet recorded.
-
-**What Remains Hidden:** His assessment of the schism; whether he will return to formally address Adabra's faction; whether Soma's possession of Meril's Staff will complicate his relationship with the party.
-
----
-
-### Xanthopoulos (Xanth)
-
-**Current Location:** Departed after the Circle of Thunder battle; direction unspecified.
-
-**Status:** Independent centaur; old friend of Meril. Has confirmed Soma's selection as staff-bearer twice. Offered transport and guidance; departed with a blessing for Soma.
-
-**Active Plans:** Monitoring the region from the high valleys; aware of Talosian movements. May return if events escalate sufficiently.
-
----
-
-### Prutha
-
-**Current Location:** With the party at the treeline below the Circle of Thunder; guiding them toward the lair.
-
-**Status:** First named convert to Valphine's Lathander mission. Actively committed — guided the party, kicked the anchorite's corpse, and stated "We go kill other Talosian clerics."
-
-**Active Plans:** Guide the party to the Circle of Thunder lair; fight Talosians alongside the party.
-
-**Key Information:** Great-uncle was his clan's shaman, deliberately killed by the Talosians to break clan resistance. Carries a bone whistle (eastern tradition) — did not blow it for years until this battle. His great-uncle's saying: "Dawn comes for everyone, even those born in shadow."
+**What Remains Hidden:**
+- True depth of House Margaster connection.
+- Why he's watching Soma's staff specifically.
+- What the Candlekeep research will reveal.
+- Full scope of his manipulation of Vukradin's public image.
 
 ---
 
 ### Grannoc
 
-**Current Location:** Presumed active at the Woodland Manse (double-circled on Narux's map fragment).
+**Current Location:** Woodland Manse, ~10 miles southwest of Falcon's Hunting Lodge.
 
-**Status:** Named Talosian operative; assessed by "K" as reckless and likely to summon Gorthok prematurely. The Circle of Thunder falling may have already triggered the contingency escalation to the Manse.
+**Active Plans:**
+- Conducting the backup Talosian summoning ritual (Circle of Thunder has fallen; Manse is now the active site).
+- Per Narux's letters: "reckless, likely to summon before the Lodge is ready."
+- "K"'s letter: if the Manse falls, K will summon personally.
 
-**Active Plans:** Conduct Gorthok summoning ritual at the Woodland Manse. Is probably already aware the henge has fallen.
+**What the Party Knows:**
+- Named Talosian operative; assessed as impulsive.
+- Manse is double-circled on the recovered map fragment as the current active site.
+- If Grannoc is eliminated or his ritual disrupted, "K" summons Gorthok personally.
+
+**What Remains Hidden:**
+- His current ritual progress.
+- Whether Gorthok is already fully summoned (manifested at the Lodge before expected).
+- His relationship to "K."
 
 ---
 
-### "K" (The Chosen of Talos)
+### "K" / The Chosen of Talos
 
-**Current Location:** Unknown; confirmed to be outside Neverwinter Wood. Not in the forest — Xanth would know.
+**Current Location:** Unknown; confirmed outside the forest (per Xanthopoulos).
 
-**Status:** The directing intelligence behind the Talosian network in this region. Signs letters as "K." Has planned explicitly for the party defeating each cell: henge → manse → direct summoning by K.
+**Active Plans:**
+- Directing the Talosian network remotely via letters.
+- Three-layer contingency: Circle (fallen) → Manse → personal summoning.
+- Cultivating "the boy from the eastern clan" as a future asset.
+- Letters signed only "K."
 
-**Active Plans:** If the Woodland Manse falls, summons Gorthok personally. Also cultivating "the boy from the eastern clan" — a young person being groomed for cult use, not yet told about "the leash."
+**What the Party Knows:**
+- A new Chosen of Talos has recently risen — described as a cleric.
+- Xanthopoulos confirmed they are not in the forest; if they were, he would know.
+- K has planned for the henge falling and already activated the next phase.
 
-**What Remains Hidden:** Full identity; location; nature of the Chosen's power; who "the boy from the eastern clan" is.
+**What Remains Hidden:**
+- Full identity.
+- Location.
+- The "boy from the eastern clan" — identity and how the leash will be used.
 
 ---
 
-### Gorthok the Thunder Boar
+### Harbin Wester
 
-**Status:** Not yet summoned. A massive lightning-tusked creature, roughly the size of a granary. Must be fed before unleashing. Its binding ("the leash") requires the standing stones to "sing" — the Circle of Thunder henge is now inert, which may have already compromised the leash.
+**Current Location:** Phandalin, Townmaster's Hall.
 
-**Immediate Risk:** If the Woodland Manse ritual proceeds, Grannoc may summon Gorthok prematurely (per K's letter). The leash's current integrity is uncertain.
+**Active Plans:**
+- Publicly credit-claiming for the dragon victory.
+- Commissioned cheese delivery to the mine; redirected party tasks.
+- Diminished authority under the Privy Council structure.
+- Off-the-books transactions (50gp temple fee) remain undisclosed to the council.
+
+**What the Party Knows:**
+- His brother Tibor Wester is running an illegal wildcat logging operation in the protected forest without permits.
+- Conducted off-books transactions with Harbin (50gp temple, etc.).
+- Uses Neverember's adventurer policy to avoid direct payment.
+
+---
+
+### Falcon (Jay)
+
+**Current Location:** Falcon's Hunting Lodge, defending it alongside the party against Gorthok and the Talosian assault.
+
+**Active Plans:**
+- Has pledged his sword to the lodge defense without hesitation.
+- Sent a clean apology to Vukradin via Sending; reconciliation in progress.
+- Lodge is actively under attack; immediate priority is survival.
+- Longer term: converting the lodge into a music venue (proposed to Vukradin).
+
+**What the Party Knows:**
+- Not actually a dragonslayer — sole survivor of Iymrith's attack, opportunistic looter.
+- Holds the brass ring (Elvish for "lightning") from Iymrith's hoard.
+- His partner was killed in the orc attack on the lodge; he is grieving and purposeful.
+- Described as "not healed, but purposeful" when he arrived.
+
+---
+
+### Xanthopoulos (Xanth)
+
+**Current Location:** Unknown. Departed into trees after Circle of Thunder battle; last seen touching Soma's shell and saying "Peace, Beauty."
+
+**What the Party Knows:**
+- Old friend of Meril; confirmed that Meril chose Soma deliberately for the staff.
+- Provided transport, intelligence on Talos and Circle of Thunder, and lore on the orc displacement.
+- Final look at Soma's staff was described as "measuring, or saying goodbye to it, or confirming something."
+- His parting words to Soma: "This one was blessed by Meril, and I know that she will do great things."
+
+---
+
+### Prutha
+
+**Current Location:** With the party at Falcon's Hunting Lodge, participating in defense.
+
+**Active Plans:**
+- Pledged follower of Valphine as the Drow Cleric of Lathander.
+- Guiding the party; terms: spare non-Talosian orcs, kill committed Talosians.
+- Kicked the dead anchorite's corpse with enthusiasm.
+
+**What the Party Knows:**
+- Converted after witnessing Valphine's radiant power; reasoning: "Talos offer power. Lathander — more power."
+- Great-uncle was his clan's shaman, deliberately killed by Talosians to break resistance.
+- Carries a bone whistle — eastern sunrise tradition, "Dawn comes for everyone, even those born in shadow."
+- Recognized the Eastern Heart Clan banners at the lodge.
+
+---
+
+### Vorga
+
+**Current Location:** Falcon's Hunting Lodge, coordinating defense alongside the party.
+
+**Active Plans:**
+- Leading the orc refugee group (Eastern Heart Clan, ~30 persons, including ~12 warriors).
+- Chose to stay and fight rather than flee; positioned archers in the gatehouse tower.
+- Tactical, competent, not aligned with Talosians.
+
+---
+
+### Jenna Roscoe
+
+**Current Location:** Phandalin, Stonehill Inn area (last confirmed).
+
+**Active Plans:**
+- Lord's Alliance operative actively recruiting in Phandalin.
+- Knows more about the Kraken Society than she disclosed at the council.
+- Offered to locate Sister Kaella as a recruitment incentive; no deal reached.
+- Describes Valphine's church as a "torture cult."
+
+---
+
+### Lyra (Emerald Enclave)
+
+**Current Location:** Phandalin; restored to full Enclave standing.
+
+**Active Plans:**
+- Restored to good standing after Enclave council.
+- Offered to buy party drinks at the Stonehill Inn.
+- Continues to advocate interventionist position within the Enclave.
+
+---
+
+### Gorthok
+
+**Current Status:** Manifested. Actively attacking Falcon's Hunting Lodge — arrived ahead of expected timeline.
+
+**What the Party Knows:**
+- Massive four-legged creature with lightning-trailing tusks, roughly granary-sized.
+- Binding (the leash) holds only if "the stones sing" — Circle of Thunder henge is now inert.
+- Must be "fed before unleashing" per Narux's notes.
+- Party holds Narux's leather cord — possibly the physical binding leash.
+- The Carver-sword's rightful owner is unidentified; may be relevant to other planar artifacts.
 
 ---
 
 ## Faction States
 
+### Kraken Society / Splinter Colony
+
+**Current Goals:**
+- Locate and acquire the inscription of the drowned gate beneath Yllyn in the Underdark.
+- Maintain psionic network along the Sword Coast.
+- Suppress high-level planar artifacts that could breach the quarantine (Ul'vattix's mandate).
+- Elder Brain secretly pushing for faster ascension via the Rogue Faction (Syrkloc, Vell'thyk).
+
+**Key Members:**
+- **Xeltharuun:** Network Weaver, manages surface proxies including Serel Mardun.
+- **Syrkloc:** Instigator near Leilon; escalating cult conflicts.
+- **Vell'thyk:** Excavator; pursuing the Drowned Gate beneath Leilon.
+- **Serel Mardun:** Embedded in Lord Neverember's court.
+- **Captain Tharros:** Mentally compromised Leilon guard commander.
+- **Brother Halgar:** Scholar in Leilon studying "dragon dreaming" — being guided toward Ubbalux relics.
+
+**Relationship to Party:**
+- Party neutralized a Cult Fanatic operating in the field and rescued three mind-controlled Enclave members.
+- Party carries a Kraken Society talisman (now sold to Sridar); party has interacted with psionic phenomena repeatedly.
+- Society is passively aware of party as a disruptive variable.
+
+**Resources:** Enslaved Kraken as biological psionic amplifier; mind-control network; surface proxies; financial interests including Neverwinter consortium at Mountain's Toe Gold Mine.
+
+**Vulnerabilities:** Internal civil war between Deep Triumvirate (patient) and Elder Brain's Rogue Faction (aggressive); Elder Brain's impatience is a structural instability.
+
+---
+
 ### Emerald Enclave
 
-**Current Goals:** The moderate/interventionist wing (Lyra's faction) is consolidating after the council victory. Reidoth is returning to a fractured chapter. The naturalist/Adabra faction is unreconciled but formally defeated.
+**Current Goals:**
+- Post-council: interventionist faction validated; Lyra restored.
+- Reidoth (nominal head, absent) now alerted; will return to fractured chapter.
+- Adabra's faction remains intact and unreconciled despite loss.
 
 **Key Members:**
-- **Lyra:** Restored to full standing; active interventionist.
-- **Reidoth:** Absent; aware of schism via Vukradin's Sending; response pending.
-- **Adabra:** Defeated but not neutralized; whereabouts unknown; may act outside formal channels.
-- **Aldric Stone Path:** Public position undermined; faction allegiance unclear.
-- **Thomas and Marian:** Loyal to Lyra; remain in Phandalin.
+- **Lyra:** Interventionist leader; restored to full standing; warm toward party.
+- **Adabra:** Anti-interventionist; outvoted but not persuaded; recruiting outside channels.
+- **Reidoth:** Nominal chapter head; absent; alerted by Vukradin.
+- **Thomas & Marian:** Lyra's agents; loyal to Lyra.
+- **Aldric Stone Path:** Adabra's faction; publicly undermined at council.
+- **Falcon:** Was in Adabra's faction; now disavowed her.
 
-**Relationship to Party:** Split. Lyra's faction is warm and cooperative; Adabra's faction is hostile. Soma's possession of Meril's Staff is validated by the council but still a point of tension.
+**Relationship to Party:** Split. Lyra's faction actively warm. Adabra's faction hostile. Reidoth's position unknown.
 
-**Resources and Vulnerabilities:** Local chapter is operationally strained. Some members were confirmed as Kraken cult infiltrees (cited by Adabra at the council — a valid point even if weaponized). Adabra's ability to call unauthorized councils during key absences is a structural vulnerability.
-
----
-
-### Kraken Society
-
-**Current Goals:** Pursue the inscription of the drowned gate beneath Yllyn in the Underdark. Expand psionic influence on the Sword Coast. Protect strategic assets (Neverwinter consortium involvement in Mountain's Toe Gold Mine). Suppress public awareness of the organization (Jenna Roscoe handling political cover).
-
-**Key Members (surface proxies):**
-- **Serel Mardun:** Diplomatic attaché in Lord Neverember's court; misdirects investigations.
-- **Captain Tharros (Leilon):** Mentally compromised; issuing illogical defensive orders.
-- **Brother Halgar:** Scholar researching "dragon dreaming"; being covertly guided to unlock Ubbalux's relics.
-- **Jenna Roscoe:** Actively suppressing Society information at the council level (Valphine confirmed her concealment).
-
-**Relationship to Party:** Adversarial. The party destroyed a Cult Fanatic field operative (Extract 021), interfered with Moesko (Tower of Storms), and disrupted Society-adjacent operations at Axeholm. The Society is aware they are an active variable.
-
-**Resources:** Psionic network, deep sea base (Elder Brain + enslaved Kraken), surface proxy network, financial interests in regional mining (Mountain's Toe Gold Mine).
-
-**Vulnerabilities:** Internal civil war between the Deep Triumvirate (patient, slow suffocation) and the Rogue Surface Faction (immediate, violent ascension). The party could be used as pawns in this war without knowing it.
+**Vulnerabilities:** Paralyzed by internal ideology disputes; operationally depleted; unable to respond to orc/Talosian threats without party assistance.
 
 ---
 
-### Splinter Colony (Mind Flayers)
+### Cult of Talos / Circle of Thunder
 
-**Current Goals:** The Deep Triumvirate wants the planetary quarantine maintained and slow, safe subjugation of Toril. The Rogue Surface Faction (Syrkloc, Vell'thyk) wants immediate violent ascension and excavation of the Drowned Gate beneath Yllyn (the Underdark site beneath the Leilon region).
-
-**Relationship to Party:** Unknown to the party. The party carries an illithid-tech pendant (psionic beacon from Jax). Syrkloc and Vell'thyk may manipulate the party as unwitting pawns against the Triumvirate's assets.
-
-**The Civil War:** The Elder Brain is secretly directing the Rogue Faction against the Triumvirate's wishes. Intercepting conflicting Kraken Society orders (one faction burying artifacts, one excavating them) would be the party's first glimpse of the schism.
-
----
-
-### Talosian Cult / Circle of Thunder
-
-**Current Goals:** Summon Gorthok the Thunder Boar. Consolidate control over Neverwinter Wood. Expand orc recruitment. Advance the Chosen's agenda.
+**Current Goals:**
+- Summon Gorthok and destroy Falcon's Lodge as the convergence target.
+- Contingency structure: Circle (fallen) → Manse (active under Grannoc) → K summons personally.
+- Expand among displaced orc populations through forced conversion.
 
 **Key Members:**
-- **Grannoc:** Reckless operative at the Woodland Manse; likely to act prematurely.
-- **"K" (the Chosen):** Directing intelligence; location unknown outside the forest.
-- **Unnamed "boy from the eastern clan":** Being cultivated; identity unknown.
+- **Grannoc:** Manse operative; assessed as reckless; likely attempting premature summoning.
+- **K / The Chosen:** Network director; identity unknown; not in the forest.
+- **Gorthok:** Now manifested and attacking the Lodge.
 
-**Relationship to Party:** Actively hostile. The party has cleared the Circle of Thunder, killed two anchorites, and converted Prutha.
+**Relationship to Party:** Directly hostile. Party has destroyed the Circle of Thunder cell, killed two anchorites and one, converted Prutha, and is currently defending the Lodge from their assault.
 
-**Resources:** Orc recruits (coercion-based), twig blights, Gorthok (potential), Talosian anchorites, Woodland Manse as fallback base.
-
-**Vulnerabilities:** The leash binding Gorthok requires the standing stones to sing — the Circle of Thunder henge is now inert. The contingency chain (henge → manse → K summons directly) is already in motion. Grannoc is assessed by K as reckless.
-
----
-
-### The Carver's Organization
-
-**Current Status:** Effectively eliminated. The Carver (obsidian sword entity) was destroyed at Icespire Hold. Jax is dead. Borg is dead. Sister Kaella has escaped and gone rogue. No surviving operatives confirmed.
-
-**Residual Risk:** Sister Kaella is at large. One surviving veteran fled Icespire Hold. Rot-Tusk Ogre clan mercenaries remain in the region, now without a patron.
-
----
-
-### House Sotorra / Aletra's Operation
-
-**Current Goals:** Aletra is delivering a reduced shipment of Midnight Tears to her unnamed boss and managing the fallout. Her boss (and possibly KP) may take a greater interest in the party as the source of the disruption.
-
-**Resources:** Interplanar smuggling network, House Xorlarrin poison operations, self-opening portal capability, financial backing.
-
-**Vulnerabilities:** The party holds evidence (forged ledger, annotated manual, four vials of Midnight Tears). Valphine's curse cost Aletra part of her shipment — a first real defeat by her sister.
+**Vulnerabilities:** Contingency structure means each cell's failure automatically activates the next — the party is always one step behind. Gorthok's binding may be compromised by the henge going inert. The party holds what may be Gorthok's physical leash (Narux's leather cord).
 
 ---
 
 ### Order of the Gauntlet
 
-**Current Goals:** Consolidate credit for Cryovain's death; maintain Vukradin as an asset; manage Emerald Enclave friction; identify rightful owners of recovered ship treasures; deploy insufficient resources against too many problems.
+**Current Goals:**
+- Consolidate credit for Cryovain's death.
+- Maintain Vukradin as an associated asset.
+- Investigate House Margaster connections (ongoing).
+- Return lighthouse statue to Elara Seasong Meliamne; avoid House Margaster interception.
 
-**Key Members:** Ser Kaelen Thorn (Phandalin field agent). Milo Goodbarrel (mentioned as the member who stopped the Tiamat ritual — not active in current story).
+**Key Members:**
+- **Ser Kaelen Thorn:** Field handler in Phandalin; politically skilled; watches Soma's staff closely.
+- **Milo Goodbarrel:** Historical — led strike force at War of the Dragon. Not in play.
 
-**Vulnerabilities:** Operationally depleted post-war. Funded by House Margaster (confirmed). Kaelen has been misrepresenting Vukradin's membership status to outside parties.
+**Relationship to Party:** Ser Kaelen is Vukradin's handler de facto; trust is qualified and conditional. Party knows he misrepresents Vukradin's membership status to outsiders.
+
+**Vulnerabilities:** Operationally depleted post-war. House Margaster funding creates ideological liability for Vukradin. Ser Kaelen's true agenda regarding Soma's staff is unknown.
 
 ---
 
 ### Lord's Alliance
 
-**Current Goals:** Recruit Vukradin as a cultural asset; monitor the party; suppress Kraken Society visibility for reasons unknown.
+**Current Goals:**
+- Recruit Vukradin as a cultural asset; detach him from the Order.
+- Monitor Kraken Society (while suppressing information at the council level).
+- Jenna Roscoe is the active Phandalin operative.
 
-**Key Members:** Jenna Roscoe (Phandalin operative); Serel Mardun (Neverember's court, double agent for Kraken Society).
+**Relationship to Party:** No deal reached. Jenna knows about the party's activities; views Valphine's church with alarm.
 
-**Vulnerabilities:** Compromised at the highest level (Mardun is a Kraken Society deep agent). Jenna's suppression of Society information may reflect orders from above that are already corrupted.
+---
+
+### Mountain's Toe Gold Mine (Party Asset)
+
+**Current Status:** Non-productive pending Earthstone Gem retrieval.
+- Zeleen and the Whiskered Gang dispatched into orc-infested forest; low confidence in success.
+- Horia holds the 50gp fake-gem contingency (authorized by Brewbarry/Valphine; Vukradin unaware).
+- Expected output: ~100gp/week once operational.
 
 ---
 
 ## Active Plots
 
-**Ordered by urgency:**
+### 1. Falcon's Lodge — Gorthok Attack (IMMEDIATE)
+**What is happening:** Gorthok and Talosian forces have breached the gate of Falcon's Hunting Lodge. Combat is ongoing. Gorthok manifested ahead of expected timeline — the ritual may be complete.
 
-### 1. Woodland Manse — Gorthok Imminent (URGENT)
-**What is happening:** The Circle of Thunder henge has fallen. The Talosian contingency chain has automatically escalated to the Woodland Manse, where Grannoc — assessed as reckless — is the next ritual operator. K's letter explicitly states: if the henge falls, the manse summons in its place. Grannoc is likely already preparing or may have already begun.
+**Timeline:** This session. Three-layer contingency structure means destroying Gorthok/Grannoc still leaves K's personal summoning as a fallback.
 
-**Complication:** The leash binding Gorthok requires the standing stones to "sing." The Circle of Thunder henge is now inert. If the leash is compromised, a summoned Gorthok may be uncontrollable even by the cultists.
+**Party intersection:** Party is inside the lodge with Falcon, Vorga, Drubbak, Prutha, and the Eastern Heart Clan refugees. The party holds what may be Gorthok's binding leash (Narux's leather cord). The henge's inertness may mean the binding is already compromised.
 
-**Timeline:** Immediate. Grannoc may not wait. K anticipated this and built redundancy in; the party is now racing against an already-triggered escalation.
-
-**Party Intersection:** The party is at the treeline below the Circle of Thunder with Prutha as guide, one to two days from the Woodland Manse. The Manse also converges with Falcon's Hunting Lodge as the network's primary target.
-
----
-
-### 2. Falcon's Lodge — Convergence Point (URGENT)
-**What is happening:** Narux's map marks Falcon's Hunting Lodge as the convergence target of the Talosian network. The lodge was already attacked; Falcon's partner was killed. Falcon is en route to Phandalin. The lodge is currently occupied by orcs and half-orc cultists. It is the endpoint of both the Woodland Manse and Circle of Thunder operations.
-
-**Party Intersection:** The party has promised Falcon they will clear the lodge. He has offered to convert it into a music venue as reward. Valphine is in the middle of repairing the relationship. Failing to act here before the Manse ritual completes could mean K's direct summoning converges at the lodge.
+**Key questions:**
+- Can Narux's leather cord be used to rebind or dismiss Gorthok mid-combat?
+- Is Grannoc present with Gorthok, or still at the Manse?
+- What happens if Gorthok is killed vs. rebound?
 
 ---
 
-### 3. Adabra — Unresolved and Regrouping (HIGH)
-**What is happening:** Adabra lost the Enclave council vote but departed refusing to accept the verdict. Soma has declared the relationship over. Vukradin formally closed their financial debt. But Adabra has shown she will act outside formal channels (the strategically timed council), and her ideological position — that the party's interventionism is causing cascading harm — has not changed.
+### 2. Grannoc and the Woodland Manse (HIGH URGENCY)
+**What is happening:** Manse is the active Talosian site now that the henge has fallen. Grannoc is assessed as reckless and likely to act prematurely. K's letter states if the Manse falls, K summons personally.
 
-**Timeline:** No confirmed trigger. She is regrouping. The longer the party creates interventionist outcomes (clearing the Manse, stopping the summoning, fighting Talosians), the more evidence she accumulates for her case.
+**Timeline:** Was the party's next destination before the Lodge attack; the Manse ritual may already be underway given time elapsed.
 
-**Party Intersection:** Soma's use of the staff, Lyra's restored standing, and the party's victories all provide Adabra with further "evidence." Reidoth's return to the chapter may either stabilize the situation or accelerate Adabra's next move depending on his position.
-
----
-
-### 4. Mountain's Toe Gold Mine — Earthstone Gem (MODERATE)
-**What is happening:** The wererats were dispatched into orc-infested forest to retrieve the Earthstone Gem. Brewbarry and Valphine assessed their probability of success as low. Horia Stonetallow has a covert fake-gem contingency funded (50gp from mine accounts, authorized without Vukradin's knowledge).
-
-**Timeline:** The mine produces nothing until this is resolved. If the wererats fail (likely), the fake gem will need to be deployed before Dwolin the Grout's refusal to mine becomes permanent.
-
-**Party Intersection:** Vukradin is unaware of the fake gem plan. If he learns of it, the ethical fallout could be significant. Valphine and Brewbarry made the call deliberately behind his back.
+**Party intersection:** Party has the map fragment (Manse double-circled), the letters from K, and Prutha as a guide. They have not yet entered the Manse.
 
 ---
 
-### 5. Neverwinter Trip — Statue and House Margaster (MODERATE)
-**What is happening:** The blue quartz mermaid statue belongs to Elara Seasong Meliamne. House Margaster agents are moving to intercept it to embarrass House Meliamne. Ser Kaelen has redirected the party toward Phandalin rather than Neverwinter, citing Enclave issues — but the statue delivery and the Meliamne/Margaster plot remain unresolved.
+### 3. Adabra's Regrouping (MEDIUM URGENCY — escalating)
+**What is happening:** Adabra lost the council but departed without accepting the verdict. Per the Fury of the Wild track, she is approaching the threshold where she makes a pact with Tiamat. Soma expects her to "return in greater numbers."
 
-**Timeline:** House Margaster agents are already in motion. The window for a clean delivery is narrowing.
+**Timeline:** Weeks to months. No specific trigger observed yet, but her political defeat accelerates radicalization.
 
-**Party Intersection:** Ser Kaelen is leveraging this as an opportunity to build an Order patronage relationship with House Meliamne. The party is the instrument of that diplomacy whether they intend it or not.
+**Party intersection:** Any party action that aids the interventionist faction reduces her score; ignoring her allows her to build toward the Tiamat pact.
 
----
-
-### 6. Kraken Society — Drowned Gate (BACKGROUND, BUILDING)
-**What is happening:** The Society's field operative (Cult Fanatic) was retrieving an inscription describing a drowned gate beneath Yllyn in the Underdark. The party destroyed that operative. The Society is aware of party interference at Axeholm (Aletra's operation). The Echoes Score is approaching Tier 3 (Shadows Cross Paths).
-
-**Timeline:** No immediate trigger, but the Society's psionic reach is growing. Teega the Smith's susceptibility, Jenna Roscoe's active suppression of Society information, and the mine consortium connection all represent active tendrils.
-
-**Party Intersection:** The party carries an illithid-tech pendant (Jax's psionic beacon). The Syrkloc/Vell'thyk rogue faction will attempt to use the party as unwitting pawns against the Triumvirate once they recognize the party's lethality.
+**DM note:** Adabra has never been told about the "motivated blight" theory — she believes all planar phenomena are natural and that only interventionists cause harm. Soma intends to confront her on this paradox. That confrontation, if it occurs, could be a turning point or an acceleration trigger.
 
 ---
 
-### 7. Sister Kaella — At Large (BACKGROUND)
-**What is happening:** Kaella escaped custody, killing Corbin. She is a trained assassin-priest of Talos with no organizational home (the Carver is gone). Her current objectives are unknown.
+### 4. Neverwinter Trip — Statue and House Margaster (MEDIUM)
+**What is happening:** Blue quartz mermaid statue must reach Elara Seasong Meliamne in Neverwinter. House Margaster agents are moving to intercept it to embarrass House Meliamne. Ser Kaelen redirected the party away from Neverwinter; this mission is outstanding.
 
-**Timeline:** Unpredictable. She may be irrelevant (lying low) or may have a specific agenda against the party or her former organization.
+**Timeline:** Gala at Lord Cassian Meliamne's. No hard deadline stated, but House Margaster agents are actively moving.
 
-**Party Intersection:** Jenna Roscoe offered to locate her; the party declined the Alliance deal. Vukradin informed Ser Kaelen of her situation. Nobody is actively tracking her.
+**Party intersection:** Party holds the statue. Ser Kaelen is using this mission to build patronage with House Meliamne for the Order of the Gauntlet.
 
 ---
 
-### 8. Tibor Wester — Illegal Logging (LOW)
-**What is happening:** Harbin Wester's brother is running a wildcat logging operation in the protected forest without permits. The logging crew agreed to report him to city authorities after Vukradin's speech. This has not yet happened.
+### 5. Mountain's Toe Gold Mine — Earthstone Gem (MEDIUM)
+**What is happening:** Zeleen and the Whiskered Gang are in orc-controlled forest attempting to retrieve the gem. Party has low confidence in his success. Horia holds a fake-gem contingency (50gp, Vukradin unaware).
 
-**Timeline:** Slow burn. If Tibor gets wind of the report before the authorities move, he may suppress it or escalate.
+**Timeline:** Ongoing; mine generates nothing until resolved.
 
-**Party Intersection:** This will land on the Privy Council's plate eventually. Harbin will be in an uncomfortable position if his brother is publicly exposed.
+**Party intersection:** If Zeleen fails, the fake gem deception activates. If Vukradin learns about the fake gem, there is a significant ethical rupture. If the mine fails entirely, ~100gp/week income is lost.
+
+---
+
+### 6. Sister Kaella — At Large (MEDIUM)
+**What is happening:** Dangerous Talosian assassin-priest escaped custody, killed Corbin. Unknown objectives.
+
+**Timeline:** Unknown. Jenna Roscoe offered to locate her as a Lord's Alliance recruitment incentive.
+
+**Party intersection:** She believed Valphine was a Lolth agent; this assumption was never corrected. She may resurface as a threat, an asset, or both.
+
+---
+
+### 7. Kraken Society — Drowned Gate (BACKGROUND, ACCELERATING)
+**What is happening:** Kraken Society field operation confirmed; Echoes Score at ~4–5. They extracted (via mind-controlled Enclave members) an inscription of the drowned gate beneath Yllyn. The Elder Brain's Rogue Faction (Syrkloc, Vell'thyk) is actively excavating beneath Leilon.
+
+**Timeline:** Slow-burn but accelerating. Score threshold 6 brings direct interference by Society agents and mental compromise of trusted figures.
+
+**Party intersection:** Party carries an illithid-tech pendant (psionic beacon). Party neutralized one field operative (Cult Fanatic). Society views party as a variable.
+
+---
+
+### 8. Tibor Wester's Logging Operation (LOW)
+**What is happening:** Harbin's brother is running an illegal wildcat operation in the protected Neverwinter Wood without permits. Logging crews agreed to report him to city authorities after Vukradin's speech.
+
+**Timeline:** Not urgent but will surface eventually. Harbin does not know the party knows.
+
+**Party intersection:** Could be leverage over Harbin. Could complicate Privy Council dynamics if it becomes public.
 
 ---
 
 ## DM Notes
 
-### Immediate Convergence Points
+**Immediate convergence — Falcon's Lodge:**
+The battle is the narrative and tactical focus. Three things converge here: (1) the Talosian arc's crisis point, (2) Falcon's rehabilitation arc (he arrived bow in hand, purposeful but not healed), and (3) the Eastern Heart Clan orc refugees — specifically Drubbak, whose spiritual recognition of Valphine ("Dawn") is a direct thread into Valphine's theology. Prutha recognizing the clan banners and de-escalating with the bone whistle was a significant moment — his role as bridge between Valphine's emerging church and orc communities is now established. Consider: if Gorthok is not destroyed but rebound using Narux's leather cord (if that is indeed the leash), this creates a very different outcome than simple combat victory.
 
-**The Woodland Manse and Falcon's Lodge are the same problem.** Narux's map confirms the lodge is the network's target, and the Manse is the intermediate ritual site. Clearing the Manse does not end the Talosian threat if Grannoc has already begun or if K's direct-summoning contingency activates. Consider whether Grannoc summons Gorthok mid-encounter at the Manse, or whether the party arrives just in time to interrupt. The inert Circle of Thunder henge and the leash's uncertain integrity are wild cards — a Gorthok summoned without a working leash is a catastrophic encounter.
+**The leash question:** Narux's annotation said "the leash holds only if the stones sing." The stones at the Circle of Thunder are now inert. Whether Gorthok is already unbound or whether the cord in the party's possession can function independently of the henge is an important mechanical and narrative question to resolve before the Lodge battle ends.
 
-**Falcon's arc and the Manse clear need to converge.** Falcon is heading to Phandalin, his lodge is the Talosian target, and Valphine has the relationship thread that could make or break his rehabilitation. If the party clears the Manse and lodge before Falcon processes his grief, there's an opportunity for him to return to something recoverable. The mystery items in his drawer (wooden maze matching *Undercity Chorale* architecture; the elven ears inscribed "my dearly beloved") have never been addressed — plant a foreshadowing beat here.
+**Adabra and the Tiamat pact:** She is approaching the escalation threshold. The party's Enclave victory does not slow this — it may accelerate it. Foreshadowing opportunity: strange visitors at Adabra's Phandalin shop, her absence from town, unusual cults taking an interest in a naturalist druid. The confrontation Soma intends to seek (the motivated-blight paradox) could either open a path to de-escalation or push her over the threshold depending on how it is handled.
 
-**Adabra is watching every victory.** Each time the party acts as interventionists — clearing the henge, fighting Talosians, stopping the summoning — they give Adabra more material. Her next move outside formal Enclave channels is the threat. Watch for her reaching out to independent druids, regional powers, or entities that would benefit from chaos (Talosian ideology dovetails with her framing of Talos as "necessary destruction"). The Fury Track is at ~6–7; her pact with a draconic or extraplanar power is the next threshold.
+**Ser Kaelen watching the staff:** His reaction when the party returned ("I see you were able to keep your staff") was measured and calculating. He knows something about Meril's Staff that he hasn't disclosed. This warrants attention — the Order of the Gauntlet may have an agenda regarding the staff, separate from their agenda regarding Vukradin.
 
-**The fake gem is a live grenade.** Valphine and Brewbarry authorized a covert deception that, if discovered by Vukradin, directly attacks his core identity ("conflict-free" and honest dealing). The mine's inability to produce without it means the fake gem will be deployed soon. Consider whether to let this surface naturally or use it as a crisis beat.
+**The "boy from the eastern clan":** K's letter references someone being cultivated with stories, kept ignorant of "the leash." The Eastern Heart Clan refugees are now at the Lodge. Drubbak is old enough to have memory of the clan's intact traditions. Could the "boy" be among the refugees without knowing it? A young orc who has been receiving curated information and now finds himself in the middle of a Talosian assault would be a significant complication.
 
-**Sister Kaella and Corbin's death have unfinished weight.** Adabra weaponized Corbin's death; the party reframed it as "avenging." But the mechanism — Vukradin pushing Corbin toward his former gang over explicit objection — is unresolved grief for Vukradin. Prutha's naming as "my first" convert was the party acknowledging this grief obliquely. A direct confrontation with Kaella down the road could force this open.
+**Corbin's ghost, narratively:** His death has been handled by three different NPCs (Xanthopoulos matter-of-fact, Adabra weaponizing it, Vukradin grieving it directly via the Prutha comparison). It is the party's open wound. Prutha said "Dawn comes for everyone, even those born in shadow" — this is the first theological formulation that could absorb what happened to Corbin without making it either heroic or useless.
 
-**Ser Kaelen's mirroring of Vukradin is a tell.** He has studied Vukradin's vocabulary closely enough to use it in official correspondence. Vukradin noticed. Whether this
+**Vukradin's vocabulary being mirrored:** Ser Kaelen's "conflict-free triumph" Sending reply is a flag. Jenna Roscoe tried to use the same principle to recruit Vukradin (economic stimulus framing). Sylvine Wintermoon came to Icespire Hold specifically armed with knowledge of his principles. His reputation is now large enough that people are reverse-engineering his ethics to manipulate him — Soma has already noted he is generating latent resentment in Phandalin. This will matter.
+
+**Valphine's double life and Vukradin's principles:** The 50gp fake-gem contingency, the hidden defensive vial, the deal with Sister Kaella — none of these would survive Vukradin's scrutiny. Valphine has been serially keeping things from him while genuinely protecting him. If any of it surfaces, the rupture will be significant. The fake gem in particular is the most immediate exposure risk — if the mine deal falls apart, it surfaces.
+
+**KP and the broader planar arc:** Aletra operates under KP's oversight. The Kraken Society operates under multiversal quarantine enforced by KP. The Planar Distortion track is tied to both. The party doesn't yet understand these are connected. The mechanical mosquito blood-sampling drone from Axeholm, Aletra's "use only if KP isn't watching" annotation, and the Kraken Society's quarantine-awareness all point toward a single coordinating intelligence. The party has pieces but no picture.
