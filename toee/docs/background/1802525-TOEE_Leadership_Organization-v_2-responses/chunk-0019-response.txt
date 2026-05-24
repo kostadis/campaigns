@@ -1,0 +1,78 @@
+```json
+[
+  {
+    "type": "entries",
+    "name": "55. Hunting Cottage and Barn",
+    "entries": [
+      "The hunting cottage is a vital logistical node for the operations of the Temple of Elemental Evil. Located south of Nulb and near the Imeryd's Run, this unassuming log structure masks a sinister purpose: it serves as a supply depot, a slave-handling station, and a gateway into the Temple itself. Hidden deep within the Gnarley Forest, it is a place of grim purpose and dark machinations, overseen by loyal agents of the Greater Temple and guarded by Deggum's men.",
+      {
+        "type": "entries",
+        "name": "The Cottage and Barn",
+        "entries": [
+          {
+            "type": "list",
+            "items": [
+              "{@b Structure:} A rustic log hunting Cottage and barn with a simple but sturdy construction, sitting near the ford of a meandering stream.",
+              "{@b Water Well:} Weed and algae crusted water well.",
+              "{@b Surroundings:} Dense woods encircle the Cottage, though a wide, well-worn path leads directly to it, bearing wagon ruts from regular supply deliveries."
+            ]
+          }
+        ]
+      },
+      {
+        "type": "entries",
+        "name": "Hidden Tunnel Operations",
+        "entries": [
+          "The tunnel connects directly to the Greater Temple's Broken Tower. Most of the traffic includes essential goods, weapons, and slaves, ensuring the Temple remains stocked without raising suspicion in Nulb."
+        ]
+      },
+      {
+        "type": "entries",
+        "name": "Defenses and Security Measures",
+        "entries": [
+          {
+            "type": "entries",
+            "name": "Deadly Traps",
+            "entries": [
+              "Deadly traps concealed within thick underbrush surrounding the cottage and barn.",
+              "Carefully reset daily by Ralf and rotating patrol bandits, ensuring constant vigilance."
+            ]
+          },
+          {
+            "type": "entries",
+            "name": "Dire Hounds",
+            "entries": [
+              "Three ferocious dire hounds patrol the immediate cottage grounds.",
+              "Trained to respond solely to Gefreid's commands, attacking intruders without hesitation."
+            ]
+          },
+          {
+            "type": "entries",
+            "name": "Tunnel Security",
+            "entries": [
+              "The concealed tunnel entrance is constantly guarded by pairs of well-armed bandits, rotating shifts every few hours.",
+              "Rune-marked alarm stones linked directly to Temple spellcasters alert Gefreid and Feldrin to intrusion attempts."
+            ]
+          },
+          {
+            "type": "entries",
+            "name": "Natural Cave Outpost (Bugbear & Goblin Guards)",
+            "entries": [
+              "Midway along the tunnel, a recently excavated passage connects to a natural cave serving as a fortified checkpoint.",
+              "A band of disciplined {@creature Bugbear}s and {@creature Goblin}s under Temple command monitor this critical junction, demanding passwords or tokens of authority from passing personnel."
+            ]
+          },
+          {
+            "type": "entries",
+            "name": "Guarded Water Well (Giant Rats)",
+            "entries": [
+              "The secret tunnel ultimately terminates near an old, stone-lined water well deep below the Greater Temple complex.",
+              "This final passage is infested with aggressive {@creature Giant Rat}s purposefully bred and released to attack intruders and deter unauthorized access."
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
+```

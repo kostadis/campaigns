@@ -1,0 +1,326 @@
+```json
+[
+  {
+    "type": "entries",
+    "name": "Expose Lieutenant Brunk",
+    "entries": [
+      {
+        "type": "entries",
+        "name": "Background",
+        "entries": [
+          "Lieutenant Brunk, a hulking half-orc war chief and Feldrin's second-in-command, simmers with resentment. Once a rising terror in the Wild Coast campaigns, Brunk has been relegated to menial but critical logistics work while Feldrin basks in favor and glory. Feldrin's preference for smooth-talking human mercenaries, his reliance on smugglers and bandits like Madame Selentis, and his lofty standing in Hedrack's favor have only stoked Brunk's fury.",
+          "Brunk now oversees the escort of supply wagons and prisoner transfers from the Hunting Cottage, ensuring that loot and slaves from Gefreid Patris are moved through the secret tunnel entrance, past the bugbear guards in the subterranean cavern, and down to the lower levels of the Temple. He is the Temple's brute courier—loathed by the creatures he manages and ignored by the officers he serves."
+        ]
+      },
+      {
+        "type": "entries",
+        "name": "Objective",
+        "entries": [
+          "Manipulate Brunk into betraying Commander Feldrin, either through diplomacy, blackmail, or an engineered mutiny. The outcome could destabilize the Temple's entire logistics wing—or spiral into brutal bloodshed."
+        ]
+      },
+      {
+        "type": "entries",
+        "name": "Key Challenges",
+        "entries": [
+          {
+            "type": "entries",
+            "name": "1. Gaining Brunk's Trust",
+            "entries": [
+              "A DC 16 Charisma (Persuasion or Intimidation) check (with advantage if the party insults Feldrin or praises orcish warfare) can earn Brunk's attention. Brunk responds best to brute honesty, disdain for Feldrin, or brute strength."
+            ]
+          },
+          {
+            "type": "entries",
+            "name": "2. Providing Leverage or Proof",
+            "entries": [
+              "Brunk needs evidence of Feldrin's treachery or incompetence.",
+              {
+                "type": "list",
+                "items": [
+                  "Letters or orders intercepted from Lucius Graeme.",
+                  "Proof of Feldrin siphoning coin or favoring Madame Selentis's men over his own.",
+                  "Confession or intel from a captured Temple bandit who's seen Feldrin abandon men in the field."
+                ]
+              }
+            ]
+          },
+          {
+            "type": "entries",
+            "name": "3. Controlling the Fallout",
+            "entries": [
+              {
+                "type": "list",
+                "items": [
+                  "Assist Brunk in the mutiny (combat at the Cottage).",
+                  "Let chaos erupt and escape unnoticed.",
+                  "Betray Brunk to Feldrin for reward."
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "entries",
+        "name": "Encounter Hooks",
+        "entries": [
+          {
+            "type": "entries",
+            "name": "The Turning Point",
+            "entries": [
+              "Once Brunk decides, he acts swiftly—either launching a midnight coup at the cottage, or leading a splinter faction into the forest, stealing Temple supplies."
+            ]
+          },
+          {
+            "type": "entries",
+            "name": "Brunk's Challenge",
+            "entries": [
+              {
+                "type": "inset",
+                "name": "",
+                "entries": [
+                  "\"Bring me proof Feldrin's a coward, and I'll show him what an orc does to his betters.\""
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "entries",
+    "name": "Pact of the Howling Moon",
+    "entries": [
+      "A secret gathering in the shadows of Nulb threatens to rally a monstrous host under the Temple's banner. The adventurers must infiltrate the clandestine meeting and disrupt the alliance.",
+      "Rumors spread through the back alleys of Nulb and the darkened corners of the Waterside Hostel—mercenaries, slavers, and warbands from across the region are gathering. The Howling Moon Clan, a feared tribe of lycanthropic orcs lurking in the Fens of Tor, has sent emissaries to negotiate a blood pact with the Temple of Elemental Evil. Supreme Commander Hedrack's lieutenants, including the cunning Commander Feldrin and the ruthless Barkinar, seek to recruit warriors for their growing army.",
+      "To stop this dark union, the adventurers must infiltrate the secret war council, uncover the Temple's recruitment plans, and ensure the Howling Moon's allegiance is broken before it can be forged.",
+      {
+        "type": "entries",
+        "name": "Primary Objectives",
+        "entries": [
+          {
+            "type": "list",
+            "items": [
+              "Infiltrate the Gathering: Discover the location of the meeting and gain access, whether through deception, bribery, or force.",
+              "Disrupt the Pact: Prevent the alliance between the Temple and the Howling Moon Clan.",
+              "Uncover the Temple's Military Plans: Gather intelligence on the recruitment efforts of the Temple's war council."
+            ]
+          }
+        ]
+      },
+      {
+        "type": "entries",
+        "name": "Secondary Objectives",
+        "entries": [
+          {
+            "type": "list",
+            "items": [
+              "Sow Discord Among the Factions: Exploit tensions between the warbands against each other.",
+              "Eliminate Zorgrek's Envoys: Assassinate or intimidate the Howling Moon's representatives to sever their ties with the Temple.",
+              "Steal the Pact Document: Seize or destroy the agreement that would bind the Howling Moon Clan to the Temple's service."
+            ]
+          }
+        ]
+      },
+      {
+        "type": "entries",
+        "name": "Key NPCs",
+        "entries": [
+          {
+            "type": "entries",
+            "name": "Commander Feldrin – The Butcher of Nulb",
+            "entries": [
+              {
+                "type": "list",
+                "items": [
+                  "Ruthless commander of the Temple's guards, orchestrating the recruitment drive.",
+                  "Uses intimidation and violence to keep warlords in line.",
+                  "Personally tasked with securing the Howling Moon's allegiance."
+                ]
+              }
+            ]
+          },
+          {
+            "type": "entries",
+            "name": "Barkinar – The Grand Marshal",
+            "entries": [
+              "The Temple's chief war strategist, overseeing the meeting. Seeks to bolster the Temple's ranks with monstrous allies for an upcoming campaign."
+            ]
+          },
+          {
+            "type": "entries",
+            "name": "Zorgrek, Son of Murgz – Chieftain",
+            "entries": [
+              "Cunning orc-warlord turned werewolf, leader of the Howling Moon Clan. Reluctant to trust the Temple, but sees potential in a powerful alliance."
+            ]
+          },
+          {
+            "type": "entries",
+            "name": "Lucius Graeme – Temple Agent and Spy",
+            "entries": [
+              "The Temple's secret courier, brokering alliances between the warlords. Keeps a record of all negotiations—capturing him could expose the Temple's wider plans."
+            ]
+          },
+          {
+            "type": "entries",
+            "name": "Gurrzot – Zorgrek's Heir",
+            "entries": [
+              "Young, impulsive, and bloodthirsty, eager to prove himself. If manipulated, could be turned against his father to fracture the Howling Moon's unity."
+            ]
+          }
+        ]
+      },
+      {
+        "type": "entries",
+        "name": "Locations",
+        "entries": [
+          {
+            "type": "entries",
+            "name": "1. The Waterside Hostel (Nulb)",
+            "entries": [
+              "A gathering place for the region's most notorious criminals, pirates, and mercenaries. The perfect place for Feldrin and Barkinar to hold their war council."
+            ]
+          },
+          {
+            "type": "entries",
+            "name": "2. The Fens of Tor",
+            "entries": [
+              "The Howling Moon Clan's hunting grounds, shrouded in mist and treacherous bogs. Adventurers may be forced to track the orcs here if the meeting is disrupted."
+            ]
+          },
+          {
+            "type": "entries",
+            "name": "3. The War Council Chamber",
+            "entries": [
+              "A secluded meeting hall within the Waterside Hostel or an abandoned ruin deep in the Fens. Guards, magical wards, and hired assassins protect the attendees."
+            ]
+          }
+        ]
+      },
+      {
+        "type": "entries",
+        "name": "Encounters",
+        "entries": [
+          {
+            "type": "entries",
+            "name": "1. Entering the Meeting",
+            "entries": [
+              "Challenge: Gaining entry to the war council requires guile, force, or bribery. Solutions:",
+              {
+                "type": "list",
+                "items": [
+                  "Disguise: Pose as mercenaries, traders, or cultists to infiltrate the gathering.",
+                  "Bribery: Grease the palms of Nulb's criminals for an invitation.",
+                  "Force: Fight or intimidate the guards blocking access."
+                ]
+              }
+            ]
+          },
+          {
+            "type": "entries",
+            "name": "2. The War Council's Tension",
+            "entries": [
+              "Challenge: The gathered factions distrust each other—exploiting this could unravel the alliance. Opportunities:",
+              {
+                "type": "list",
+                "items": [
+                  "Pit Zorgrek against Barkinar by questioning the Temple's loyalty.",
+                  "Reveal false information to turn the warlords against Feldrin.",
+                  "Incite Gurrzot's ambition to challenge his father's leadership."
+                ]
+              }
+            ]
+          },
+          {
+            "type": "entries",
+            "name": "3. The Pact's Finalization",
+            "entries": [
+              "Challenge: Feldrin and Barkinar plan to finalize the alliance through a blood ritual, binding the Howling Moon to the Temple's cause.",
+              "Solutions:",
+              {
+                "type": "list",
+                "items": [
+                  "Assassinate Zorgrek's envoys before the ritual can be completed.",
+                  "Steal or destroy the blood pact scroll before it is signed.",
+                  "Disrupt the ceremony with an explosive attack or magical interference."
+                ]
+              }
+            ]
+          },
+          {
+            "type": "entries",
+            "name": "4. The Aftermath",
+            "entries": [
+              {
+                "type": "list",
+                "items": [
+                  "Feldrin's Wrath: If the meeting is sabotaged, Feldrin will hunt the adventurers down.",
+                  "The Temple's Retaliation: Disrupting the alliance may force the Temple to seek other allies—or retaliate against Verbobonc's forces.",
+                  "A Divided Horde: Zorgrek may either retreat, pledge vengeance, or seek an alliance elsewhere."
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "entries",
+        "name": "Consequences",
+        "entries": [
+          {
+            "type": "entries",
+            "name": "1. Success: Breaking the Pact",
+            "entries": [
+              {
+                "type": "list",
+                "items": [
+                  "Zorgrek refuses the Temple's alliance, weakening its military expansion.",
+                  "The Howling Moon remains independent, a wild card in the region.",
+                  "The adventurers gain crucial intelligence on the Temple's war efforts."
+                ]
+              }
+            ]
+          },
+          {
+            "type": "entries",
+            "name": "2. Partial Success: Discord in the Ranks",
+            "entries": [
+              {
+                "type": "list",
+                "items": [
+                  "The pact is delayed, but not broken.",
+                  "Zorgrek's trust in the Temple is shaken, but Feldrin may still persuade him.",
+                  "The adventurers must act quickly before the alliance is reforged."
+                ]
+              }
+            ]
+          },
+          {
+            "type": "entries",
+            "name": "3. Failure: A New Horde Marches",
+            "entries": [
+              {
+                "type": "list",
+                "items": [
+                  "Zorgrek pledges his warriors to the Temple, reinforcing its army.",
+                  "The Howling Moon's werewolves spread terror across the Gnarley Forest and Verbobonc.",
+                  "The Temple's war machine accelerates, moving closer to conquest."
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "entries",
+        "name": "Final Thoughts",
+        "entries": [
+          "This quest presents a chance to strike a decisive blow against the Temple of Elemental Evil's military ambitions. Whether through diplomacy, sabotage, or outright combat, the adventurers' actions will determine whether the Howling Moon joins the darkness—or remains a threat to all."
+        ]
+      }
+    ]
+  }
+]
+```

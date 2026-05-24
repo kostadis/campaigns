@@ -1,0 +1,543 @@
+```json
+[
+  {
+    "type": "entries",
+    "name": "Madame Selentis (alias Lady Nysera Krivaltis)",
+    "entries": [
+      "Once thought dead after her family's disgrace, Nysera reemerges in Nulb under the alias Madame Selentis. Installed by Hedrack himself, she commands a band of hardened Temple-backed enforcers from the Old Mayor's Manor, overseeing smuggling and logistics in service of the Temple of Elemental Evil.",
+      {
+        "type": "entries",
+        "name": "Role: Temple Agent and Logistics Overseer",
+        "entries": [
+          "To rebuild her power through loyalty to the Temple and tighten her hold on Nulb."
+        ]
+      },
+      {
+        "type": "entries",
+        "name": "Motivation",
+        "entries": [
+          "To rebuild her power through loyalty to the Temple and tighten her hold on Nulb."
+        ]
+      },
+      {
+        "type": "entries",
+        "name": "True Allegiance",
+        "entries": [
+          "The Scarlet Brotherhood seeded Elvanna in Nulb's brothel years ago."
+        ]
+      }
+    ]
+  },
+  {
+    "type": "entries",
+    "name": "Sir Torvel Hawkes",
+    "entries": [
+      "A scarred veteran of the Battle of Emridy Meadows, Torvel abandoned his noble path to become Selentis's sworn protector, serving as both her shield and sword.",
+      {
+        "type": "entries",
+        "name": "Role: Loyal Knight and Protector of Selentis",
+        "entries": [
+          "To serve as both her shield and sword."
+        ]
+      },
+      {
+        "type": "entries",
+        "name": "Motivation",
+        "entries": [
+          "To redeem Nysera's honor through devotion and military strength."
+        ]
+      }
+    ]
+  },
+  {
+    "type": "entries",
+    "name": "Selentis's Bandits",
+    "entries": [
+      "Assigned by Smigmal Redhand, these hardened brigands patrol Nulb's key sites and guard Selentis's operations. Their allegiance is less about loyalty to her and more about Temple backing—but their presence marks Selentis as a force to be reckoned with.",
+      {
+        "type": "entries",
+        "name": "Role: Selentis's Enforcers",
+        "entries": [
+          "To enforce Selentis's will and ensure Temple operations in Nulb."
+        ]
+      },
+      {
+        "type": "entries",
+        "name": "Motivation",
+        "entries": [
+          "To enforce Selentis's will and ensure Temple operations in Nulb."
+        ]
+      }
+    ]
+  },
+  {
+    "type": "entries",
+    "name": "Romag, Prophet of Earth",
+    "entries": [
+      "Operating through Dick Rentsch and the Waterside Hostel, Romag manipulates Nulb's factions to advance the Earth Temple. His quiet strength is subtle but pervasive, undermining Selentis.",
+      {
+        "type": "entries",
+        "name": "Role: Earth Temple Leader and Manipulator",
+        "entries": [
+          "Expand the Earth Temple's power."
+        ]
+      },
+      {
+        "type": "entries",
+        "name": "Motivation",
+        "entries": [
+          "Expand the Earth Temple's power."
+        ]
+      }
+    ]
+  },
+  {
+    "type": "entries",
+    "name": "Belsornig, Prophet of Water",
+    "entries": [
+      "Belsornig's alliance with Captain Tolub strengthens the Water Temple's grip on piracy and trade. His network destabilizes Selentis's authority.",
+      {
+        "type": "entries",
+        "name": "Role: Water Temple Leader and Pirate Patron",
+        "entries": [
+          "Control Nulb's waterways and outmaneuver rival prophets."
+        ]
+      },
+      {
+        "type": "entries",
+        "name": "Motivation",
+        "entries": [
+          "Control Nulb's waterways and outmaneuver rival prophets."
+        ]
+      }
+    ]
+  },
+  {
+    "type": "entries",
+    "name": "Captain Tolub",
+    "entries": [
+      "Master of the Iron Dagger, Tolub is equal parts pirate and politician. His partnership with Belsornig funds his ventures, but his growing ambitions put him into frequent conflict with Selentis and her Temple masters.",
+      {
+        "type": "entries",
+        "name": "Role: Pirate Captain of the Iron Dagger",
+        "entries": [
+          "Master of the Iron Dagger, Tolub is equal parts pirate and politician."
+        ]
+      },
+      {
+        "type": "entries",
+        "name": "Motivation",
+        "entries": [
+          "Dominate Nulb's river trade and amass wealth while strengthening the Water Temple."
+        ]
+      }
+    ]
+  },
+  {
+    "type": "entries",
+    "name": "Grud Squinteye",
+    "entries": [
+      "Tolub's ruthless right hand, Grud relishes bloodshed and intimidation. His cruel reputation cements the pirates' stranglehold on Nulb's docks.",
+      {
+        "type": "entries",
+        "name": "Role: Lieutenant of the Iron Dagger",
+        "entries": [
+          "Tolub's ruthless right hand."
+        ]
+      },
+      {
+        "type": "entries",
+        "name": "Motivation",
+        "entries": [
+          "Prove himself as the deadliest enforcer."
+        ]
+      }
+    ]
+  },
+  {
+    "type": "entries",
+    "name": "Dick Rentsch",
+    "entries": [
+      "Owner of the Waterside Hostel, Dick poses as a genial innkeeper while secretly serving the Earth Temple. He uses his position to collect intelligence and funnel resources for Romag, always scheming to undercut Selentis's growing power.",
+      {
+        "type": "entries",
+        "name": "Role: Hostelier and Earth Temple Agent",
+        "entries": [
+          "Owner of the Waterside Hostel, Dick poses as a genial innkeeper while secretly serving the Earth Temple."
+        ]
+      },
+      {
+        "type": "entries",
+        "name": "Motivation",
+        "entries": [
+          "Expand Earth Temple influence."
+        ]
+      }
+    ]
+  },
+  {
+    "type": "entries",
+    "name": "Wat",
+    "entries": [
+      "The Waterside Hostel's bartender hides a more dangerous role—an informer for the Fire Temple and Prefect Alrrem. By feeding intelligence across factions, Wat stirs the pot in Nulb's deadly rivalries.",
+      {
+        "type": "entries",
+        "name": "Role: Bartender and Fire Temple Spy",
+        "entries": [
+          "The Waterside Hostel's bartender hides a more dangerous role—an informer for the Fire Temple."
+        ]
+      },
+      {
+        "type": "entries",
+        "name": "Motivation",
+        "entries": [
+          "Aid the Fire Temple by sabotaging its rivals through espionage."
+        ]
+      }
+    ]
+  },
+  {
+    "type": "entries",
+    "name": "Skole",
+    "entries": [
+      "The Boatman's Tavern is Skole's domain. Outwardly neutral, he covertly collaborates with the Water Temple, serving as their eyes and ears in the taverns while profiting from smuggling.",
+      {
+        "type": "entries",
+        "name": "Role: Proprietor of the Boatman's Tavern, Water Temple Collaborator",
+        "entries": [
+          "The Boatman's Tavern is Skole's domain."
+        ]
+      },
+      {
+        "type": "entries",
+        "name": "Motivation",
+        "entries": [
+          "Gain wealth and influence by balancing neutrality and Temple ties."
+        ]
+      }
+    ]
+  },
+  {
+    "type": "entries",
+    "name": "Lodriss",
+    "entries": [
+      "The hidden power behind the Boatman's Tavern, Lodriss cultivates ties with Captain Tolub while carefully preserving her independence. Her sharp instincts make her a dangerous rival—or ally—depending on who crosses her path.",
+      {
+        "type": "entries",
+        "name": "Role: Tavern Power Broker and Pirate Ally",
+        "entries": [
+          "The hidden power behind the Boatman's Tavern."
+        ]
+      },
+      {
+        "type": "entries",
+        "name": "Motivation",
+        "entries": [
+          "Leverage her ties with Tolub to remain influential while avoiding Temple domination."
+        ]
+      }
+    ]
+  },
+  {
+    "type": "entries",
+    "name": "Jereader Zomawyn",
+    "entries": [
+      "The spiritual head of the Gilded Shackle, Jereader cloaks cruelty in ceremony. A devout priest of bondage, he conducts dark rites that sanctify Nulb's thriving slave trade. In his mind, slavery is not merely profit but divine order. He and Lorveth \"The Broker\" maintain a symbiotic partnership, blending faith and commerce.",
+      {
+        "type": "entries",
+        "name": "Primary Goal",
+        "entries": [
+          "Expand the reach of the Gilded Shackle through religious authority."
+        ]
+      },
+      {
+        "type": "entries",
+        "name": "Secondary Goals",
+        "entries": [
+          "Undermine rival cult factions while quietly strengthening ties to Hedrack and the Greater Temple."
+        ]
+      }
+    ]
+  },
+  {
+    "type": "entries",
+    "name": "Krael Vortash, Captain",
+    "entries": [
+      "Greater Temple Captain placed by Smigmal of the Broken Tower to assist Hedrack's agent in Nulb, Madame Selentis."
+    ]
+  },
+  {
+    "type": "entries",
+    "name": "Captain Marad Vesrek",
+    "entries": [
+      "A calculating and ruthless pirate captain, he commands the slaver ship The Crimson Trader. Operating under the guise of a simple merchant along the rivers.",
+      {
+        "type": "entries",
+        "name": "Primary Goal",
+        "entries": [
+          "Expand the Slave Lords' operations."
+        ]
+      },
+      {
+        "type": "entries",
+        "name": "Secondary Goals",
+        "entries": [
+          "Usurping rival Slave Lords."
+        ]
+      }
+    ]
+  },
+  {
+    "type": "entries",
+    "name": "Rom Khavernus",
+    "entries": [
+      "Zelt (faction leader in Dyvers) right-hand enchanter, a battle-mage with a sharp tongue and sharper mind. A product of Dyvers' New Gentry, he was born to privilege but now thrives in the underworld."
+    ]
+  },
+  {
+    "type": "entries",
+    "name": "Felix Fahnor",
+    "entries": [
+      "Head of the Crimson Reaper hit squad in Nulb, operates with ruthless efficiency, eliminating those in the way."
+    ]
+  },
+  {
+    "type": "entries",
+    "name": "Edrick Malvaar, Constable",
+    "entries": [
+      "A once-proud figure of authority, now a broken man clinging to a title that has long since lost its meaning. Malvaar is a former soldier who served in Verbobonc's military but was appointed to the position of Constable of Nulb when his career faltered. He arrived in Nulb years ago, eager to restore order to the chaotic village, but instead found himself drowning in corruption."
+    ]
+  },
+  {
+    "type": "entries",
+    "name": "Captain Dren Halveth",
+    "entries": [
+      "Mercenary Captain of the Broken Blades—a hard company of ex-soldiers, caravan guards, and sellswords. Dren runs contracts out of the Waterside and Boatman's, playing Nulb's factions off each other while keeping his outfit independent. He'll take coin from pirates, bandits, or \"merchants,\" but avoids being owned by any Temple prophet.",
+      {
+        "type": "entries",
+        "name": "Primary Goal",
+        "entries": [
+          "Secure steady, well-paid contracts."
+        ]
+      },
+      {
+        "type": "entries",
+        "name": "Secondary Goals",
+        "entries": [
+          "Build leverage and reputation across the Viscounty; quietly position the Blades as indispensable muscle to every major player."
+        ]
+      }
+    ]
+  },
+  {
+    "type": "entries",
+    "name": "Maldrith",
+    "entries": [
+      "Second-in-command of The Crimson Reapers, Maldrith plays a pivotal role in the gang's operations. His ultimate ambition to support the Crimson Reapers and to transform Nulb into a necropolis"
+    ]
+  },
+  {
+    "type": "entries",
+    "name": "Otis, Master Smith",
+    "entries": [
+      "Otis is a humble blacksmith of Nulb by trade, but in truth, he is one of the Viscounty's most loyal rangers and a covert agent of the Gnarley Rangers. Scarred by war and tempered by decades of hardship, Otis walks a careful line between his quiet life and his sacred duty to monitor the growing evil around the the village of Nulb.",
+      {
+        "type": "entries",
+        "name": "Primary Goal",
+        "entries": [
+          "Monitor and report the resurgence of the Temple of Elemental Evil to the Gnarley Rangers and trusted allies in Hommlet and Verbobonc."
+        ]
+      },
+      {
+        "type": "entries",
+        "name": "Secondary Goals",
+        "entries": [
+          "Train and evaluate potential adventurers who might aid in the coming storm."
+        ]
+      }
+    ]
+  },
+  {
+    "type": "entries",
+    "name": "Canoness Y'dey",
+    "entries": [
+      "An influential cleric of St. Cuthbert, operates under the guise of Mother Screng in the sinister village of Nulb.",
+      {
+        "type": "entries",
+        "name": "Primary Goal",
+        "entries": [
+          "Sent by the Church of St Cuthbert, Y'dey in Nulb under the guise of Mother Screng."
+        ]
+      },
+      {
+        "type": "entries",
+        "name": "Secondary Goals",
+        "entries": [
+          "Y'dey harbors doubts about the true origins of the Temple of Elemental Evil. Her mission involves uncovering the forces behind it and preventing their resurgence."
+        ]
+      }
+    ]
+  },
+  {
+    "type": "entries",
+    "name": "Murfles (a.k.a. Hruda)",
+    "entries": [
+      "Murfles, posing as Hruda a sharp-tongued daughter of Mother Screng—is an undercover agent of Good stationed in Nulb. Despite her rough, unappealing demeanor, Murfles is a highly capable adventurer, bard, and an ally of Otis and Canoness Y'dey.",
+      {
+        "type": "entries",
+        "name": "Primary Goal",
+        "entries": [
+          "Protect and assist Canoness Y'dey in her mission to monitor the Temple."
+        ]
+      },
+      {
+        "type": "entries",
+        "name": "Secondary Goals",
+        "entries": [
+          "Strike covertly on behalf of Veluna and Furyondy."
+        ]
+      }
+    ]
+  },
+  {
+    "type": "entries",
+    "name": "Elvanna Thorne",
+    "entries": [
+      "Oversees the Nulb Brothel with cruel efficiency, entertain important guests and negotiate deals."
+    ]
+  },
+  {
+    "type": "entries",
+    "name": "Lorveth \"The Broker\"",
+    "entries": [
+      "Slave factor of Nulb operating from a private office upstairs at the Boatman's Tavern. Lorveth coordinates directly with Elvanna Thorne (brothel) and river crews (Captain Tolub, Marad Vesrek), arranging discreet auctions, keeping the ledgers, and laundering coin through the tavern market and warehouse."
+    ]
+  },
+  {
+    "type": "entries",
+    "name": "Master Aldren Valegrave",
+    "entries": [
+      "Master of Valegrave Manor agricultural operations providing Nulb with provides resources, grain, and livestock. Fields worked by indentured serfs little better than slaves to exploitation and cruelty."
+    ]
+  },
+  {
+    "type": "inset",
+    "name": "DM Nulb Notes: Lawful Good in the Hornet's Nest",
+    "entries": [
+      "A Guide to Running a Paladin or Cleric in Nulb without Breaking Temple Secrecy",
+      {
+        "type": "entries",
+        "name": "Core Premise",
+        "entries": [
+          "A paladin or cleric entering Nulb is like a flare in the dark—every faction notices at once. Normally, such holy figures would be swiftly killed, but Hedrack's orders forbid unnecessary provocations:",
+          "\"No martyrs. No crusades. Nulb must remain a den of bandits, not a holy battlefield.\"",
+          "Thus begins a dangerous game of shadow politics. The Paladin is both a threat and a tool."
+        ]
+      },
+      {
+        "type": "entries",
+        "name": "Faction Reactions",
+        "entries": [
+          "{@b Hedrack (via Madame Selentis):} Spies track the party, feeding false leads about pirate feuds and splinter cults. Goal: waste their time.",
+          "{@b Romag & Waterside Hostel:} Friendly outlaw innkeeper through Dick Rentsch. Wat spreads stories of \"bogus cults in the swamps.\"",
+          "{@b Belsornig & Boatman's Tavern:} Pirates pick staged fights; false intel about smugglers and fire-cults.",
+          "{@b Alrrem's Agents:} Deflect inquiries with fiery zeal, but always redirect zealots toward Earth's Shattered Monastery or Water's River Fort, promising \"heretics\" ripe for cleansing.",
+          "{@b Smigmal Redhand:} Prefers ambushes outside town to discredit the Paladin."
+        ]
+      },
+      {
+        "type": "entries",
+        "name": "Running the Stay at the Hostel",
+        "entries": [
+          "{@b Day 1:} Quiet observation. Locals grow silent, Dick plays genial host.",
+          "{@b Day 2–3:} Staged brawls, gossip of splinter cults, minor thefts.",
+          "{@b Day 4+:} Coordinated effort to frame or discredit the Paladin, forcing them to leave.",
+          "DM Note: Stress the tension. NPCs always seem to know more than they say. Conversations hush when the Paladin enters. Shadowy figures linger at the edges."
+        ]
+      },
+      {
+        "type": "entries",
+        "name": "Constable Edrick Malvaar",
+        "entries": [
+          "The Paladin may seek out the Constable for law and order. Instead they find a broken man:",
+          "\"Law in Nulb? Friend, I'm a scarecrow in a storm. The badge shines, but the wind blows me where the pirates tell me.\"",
+          "Malvaar quietly deflects the Paladin toward \"safe\" targets—rivals of the faction currently keeping him alive.",
+          {
+            "type": "list",
+            "items": [
+              "If pressed for justice: He warns the Paladin of \"splinter cults\" in the hills, parroting the faction that currently owns his leash.",
+              "If threatened: Malvaar folds instantly, begging for his life. He has no real power and knows it."
+            ]
+          },
+          "DM Use: Malvaar is a narrative mirror—showing the cost of compromise, the collapse of law, and the futility of one honest badge in a den of knives."
+        ]
+      },
+      {
+        "type": "entries",
+        "name": "DM Guidance",
+        "entries": [
+          "{@b Every NPC Has a Script:} Locals are briefed on how to handle outsiders.",
+          "{@b False Leads with Just Enough Truth:} Outposts exist, but they're rival strongholds.",
+          "{@b Social Pressure:} Prices rise, rooms vanish, allies disappear. Subtle hostility escalates.",
+          "{@b Optional Reward:} The \"patron\" faction may grant coin or gear, tightening false alliances."
+        ]
+      },
+      {
+        "type": "entries",
+        "name": "Misdirection Through Rivalries",
+        "entries": [
+          "Temple leaders weaponize their own rivalries to divert holy adventurers. Each faction sends the Paladin toward an enemy outpost—real cultists, but of another Temple.",
+          {
+            "type": "entries",
+            "name": "Romag (Earth Temple)",
+            "entries": [
+              "Misdirection Target: Waterside Hostel → Shattered Monastery",
+              "Cover Story: \"Water cultists upriver stole Earth relics.\" Paladin weakens Water Temple."
+            ]
+          },
+          {
+            "type": "entries",
+            "name": "Belsornig (Water Temple)",
+            "entries": [
+              "Misdirection Target: Boatman's Tavern → River Fort",
+              "Cover Story: \"Fire zealots in the Etters plan raids.\" Paladin weakens Fire Temple."
+            ]
+          },
+          {
+            "type": "entries",
+            "name": "Alrrem (Fire Temple)",
+            "entries": [
+              "Misdirection Target: Etters Watchtower",
+              "Cover Story: \"Mad monks at the Monastery plot corruption.\" Paladin weakens Earth Temple."
+            ]
+          },
+          {
+            "type": "entries",
+            "name": "Selentis (Greater Temple)",
+            "entries": [
+              "Misdirection Target: Old Mayor's Manor → Bogus splinter cult in the fens",
+              "Cover Story: \"Cult remnants from Emridy Meadows still hide in the marsh.\" Paladin wastes time far from real supply lines."
+            ]
+          },
+          {
+            "type": "entries",
+            "name": "Smigmal Redhand (Broken Tower)",
+            "entries": [
+              "Misdirection Target: Bandit ambush site → False Earth cult raiders",
+              "Cover Story: \"Earth zealots waylay travelers by the tower.\" Paladin lured into trap, credibility destroyed."
+            ]
+          },
+          {
+            "type": "entries",
+            "name": "Constable Malvaar",
+            "entries": [
+              "Misdirection Target: Ruined farmsteads → Rival outpost",
+              "Cover Story: \"Bandits lair beyond the road, lawless as the rest.\" Paladin sent where others want blood spilled."
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
+```

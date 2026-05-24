@@ -1,0 +1,106 @@
+```json
+[
+  {
+    "type": "entries",
+    "name": "1. Power Struggle in Nulb (Against Selentis)",
+    "entries": [
+      "{@b Hook:} One of Selentis's rivals—Skole (Boatman's floor boss), Dick Rentsch (Waterside), or Lodriss (market mistress)—quietly hires the party to prove Selentis is the Temple's civilian handler.",
+      "{@b What's really going on:} Selentis runs the Old Mayor's Manor as a covert hub for sorting prisoners, contraband, and orders flowing from the river and wagons to the Hunting Cottage and its tunnel into the Temple. Evidence exists—if you dare the manor cellars.",
+      {
+        "type": "list",
+        "items": [
+          "Lift a ledger or sealed order from Selentis's command room.",
+          "Shadow a night transfer from the Boatman's docks to the manor, then cottage (map times, faces, crates)."
+        ]
+      }
+    ]
+  },
+  {
+    "type": "entries",
+    "name": "2. Mission of Blood (Pro-Selentis)",
+    "entries": [
+      "{@b Brief:} Selentis wants Captain Tolub (and thus Belsornig) checked without open war. She orders a \"lame the wolf, don't kill it\" operation. Wreck a pirate rendezvous at the Boatman's (plant false \"Earth Temple\" sigils to frame Romag).",
+      "{@b Knife-work option:} Remove Grud Squinteye, Tolub's brutal mate, to fracture crew discipline. Why it matters. Tolub is Belsornig's river fist; Selentis is his land counterweight, and the tavern is their neutral chessboard.",
+      "{@b Twist:} Belsornig's go-betweens offer the party a better purse to expose Selentis's informants.",
+      {
+        "type": "inset",
+        "name": "",
+        "entries": [
+          "\"You look like you've got more sense than the usual sellswords, there's power shifting in this filth-ridden town… and some of us ain't keen on being beneath it.\" Madame Selentis"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "entries",
+    "name": "3. The Rise of the \"Baroness\" (Pro-Selentis… or Against)",
+    "entries": [
+      "{@b Aim:} Secure leverage over slaver-captain Vesrek.",
+      "{@b Run:} Board the Crimson Trader, copy manifests tying him to Temple shipments and Nulb cellars (the manor stores Vesrek paperwork).",
+      "{@b Fork:} Turn the evidence over to Selentis to polish her \"public\" legitimacy—or to Verbobonc agents to put a bounty on her head next."
+    ]
+  },
+  {
+    "type": "entries",
+    "name": "4. The Constable's Last Badge",
+    "entries": [
+      "{@b Hook:} Constable Edrick Malvaar drinks to forget he's a puppet. Selentis keeps him pliant with coin, fear, and staged \"wins.\" PCs can break him… or use him.",
+      "{@b Redemption:} Extract blackmail ledgers from the manor; free him to act as your lawful screen.",
+      "{@b Leash:} Fabricate proof he's skimming Temple coin.",
+      "{@b Fallout:} If exposed clumsily, Lucius replaces Edrick."
+    ]
+  },
+  {
+    "type": "entries",
+    "name": "5. The Silent Road (Pro-/Anti-Selentis)",
+    "entries": [
+      "{@b Mission:} Intercept a midnight convoy: Boatman's → Manor → Hunting Cottage → Tunnel. Decide whether to seize, poison, or ghost-escort the load to learn the schedule deeper in.",
+      "{@b Inside the cottage.} Gefreid's logs, bugbear timings, rune-stones, and the worked cave to the Temple—this is the artery."
+    ]
+  },
+  {
+    "type": "entries",
+    "name": "6. Break the Chain (Anti-Temple)",
+    "entries": [
+      "{@b Job:} Sabotage the Hunting Cottage tunnel node to stall the uprising without revealing how you knew.",
+      "{@b Details:} Goblin whistles, bugbear fire-teams, carrion crawler contingencies, even a planned cave-in protocol—Gefreid runs it like a ledger.",
+      "{@b Success:} Weeks of supply shock; Selentis scrambles to patch the route, giving PCs time to move on the manor."
+    ]
+  },
+  {
+    "type": "entries",
+    "name": "7. Parley in the Grand Hall (Social)",
+    "entries": [
+      "{@b Scene:} Selentis invites the party to \"negotiate\" under crossbows in the ruined ballroom—her velvet glove over iron. Choices.",
+      {
+        "type": "list",
+        "items": [
+          "Trade names and routes for immunity.",
+          "Offer to take a contract against her rivals (Tolub, Rentsch, Skole) earn temporary safe-harbor in Nulb."
+        ]
+      },
+      "{@b Hidden Clock.} If talks stall, a \"house fire\" starts—stirges loose, dire hounds unchained, and a polite bow from the balcony."
+    ]
+  },
+  {
+    "type": "entries",
+    "name": "Rewards & Levers",
+    "entries": [
+      "(Use as needed)",
+      "{@b Documents & Ledgers.} Shipment schedules, slave manifests, pirate cuts—real power at your table is paper and signatures.",
+      "{@b Pardons/Passes.} Temporary writs from the constable or stamped \"market scrip\" that buys them five minutes in the Boatman's back rooms.",
+      "{@b Allies on a String.} A frightened clerk, a bandit sergeant tired of bugbear bullying, a barmaid informant."
+    ]
+  },
+  {
+    "type": "entries",
+    "name": "Failure States (Escalation Ladder)",
+    "entries": [
+      "{@b Quiet Knife.} A messenger vanishes; prices go up; doors shut, lost corporation.",
+      "{@b Smigmal's Shadow.} Assassin dog the party's trail.",
+      "{@b Feldrin's Teeth.} Bugbear \"inspectors\" appear in town to \"audit\" the problem.",
+      "{@b Invitation Withdrawn.} The Grand Hall parley becomes a trap."
+    ]
+  }
+]
+```

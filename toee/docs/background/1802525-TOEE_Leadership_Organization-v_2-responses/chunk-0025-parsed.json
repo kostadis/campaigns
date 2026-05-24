@@ -1,0 +1,161 @@
+[
+  {
+    "type": "entries",
+    "name": "Falrinth's Journal",
+    "entries": [
+      "Unravel the schemes of the rogue wizard Falrinth and prevent the full restoration of the Orb of Golden Death before Zuggtmoy can be freed."
+    ]
+  },
+  {
+    "type": "entries",
+    "name": "Introduction",
+    "entries": [
+      "While exploring the Temple of Elemental Evil, the adventurers discover Falrinth's journal, a tattered tome containing cryptic writings about his obsessive pursuit of the Orb of Golden Death (Yellowskull). The journal reveals that Falrinth has already obtained the gemless Orb and is now hunting for the four Elemental Power Gems, which are hidden in the Elemental Nodes.",
+      "If he succeeds in reuniting the Orb with its lost gems, he will unlock its full power and break the final seals on Zuggtmoy's prison, allowing the Demoness of Fungi to be fully unleashed upon the world once more."
+    ]
+  },
+  {
+    "type": "entries",
+    "name": "Falrinth's Journal Entries",
+    "entries": [
+      {
+        "type": "entries",
+        "name": "Entry 1: The Orb's Incomplete Power",
+        "entries": [
+          {
+            "type": "inset",
+            "entries": [
+              "\"At last, the golden skull is mine. Its power thrums beneath my fingers, but it is incomplete. The fool priests kept it as a hollow relic, unaware of the true strength hidden within. Without its gems, it is but a gilded shell—useless to Zuggtmoy's cause. I must recover the missing pieces, buried deep within the Elemental Nodes.\""
+            ]
+          },
+          {
+            "type": "entries",
+            "name": "Key Clues",
+            "entries": [
+              {
+                "type": "list",
+                "items": [
+                  "Falrinth has already stolen the Orb of Golden Death from the Temple's hidden vaults.",
+                  "He understands the Orb is powerless without the four Elemental Power Gems.",
+                  "He knows the gems are inside the Elemental Nodes and is searching for them."
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "entries",
+        "name": "Entry 2: The First Discovery",
+        "entries": [
+          {
+            "type": "inset",
+            "entries": [
+              "\"The first gem has been found—a gift of the earth, pulsing with its deep power. When I placed it within the Orb's diadem, the wards shuddered, as if in recognition. A single crack in the prison's foundation. The process works! Three more gems remain, and then the final ward shall fall."
+            ]
+          },
+          {
+            "type": "entries",
+            "name": "Key Clues",
+            "entries": [
+              {
+                "type": "list",
+                "items": [
+                  "Falrinth has obtained the Earth Gem and placed it into the Orb.",
+                  "The act of restoring one gem has already weakened Zuggtmoy's prison.",
+                  "Falrinth is emboldened, believing he can break the final wards by restoring all four gems."
+                ]
+              }
+            ]
+          },
+          {
+            "type": "inset",
+            "entries": [
+              "\"The fools see only a gilded trinket, a relic of a forgotten war. But I know the truth—the Orb of Golden Death is the key, the heart of the Temple's power! With its lost gems restored, the very foundations of the world will quake, and Zuggtmoy shall walk free once more!\""
+            ]
+          }
+        ]
+      },
+      {
+        "type": "entries",
+        "name": "Entry 3: Entering the Elemental Nodes",
+        "entries": [
+          {
+            "type": "inset",
+            "entries": [
+              "\"It was no simple task, but I have breached the threshold of the Nodes. The Air Caverns were first—howling winds and screaming spirits, but the gem eluded me. My minions scoured the Burrows, yet the Earth Gem alone will not suffice. I must press deeper. The Fire Pits and Water Maze remain unexplored. Somewhere within these wretched realms, the remaining gems wait for me.\""
+            ]
+          },
+          {
+            "type": "entries",
+            "name": "Key Clues",
+            "entries": [
+              {
+                "type": "list",
+                "items": [
+                  "Falrinth has entered the Elemental Nodes using the power of the Orb.",
+                  "He has searched the Air and Earth Nodes but has not yet found all four gems.",
+                  "He is preparing to explore the Fire Pits and Water Maze next."
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "entries",
+        "name": "Entry 4: The Final Key",
+        "entries": [
+          {
+            "type": "inset",
+            "entries": [
+              "\"Fools! They do not understand the forces at work here! The final ward is bound to Zuggtmoy herself—only she may remove it. But I have found the means to hasten her return! I have traveled deep into the Nodes and given her the last gem. The Orb is whole again! Soon, she will open the final door with her own hand, and the world will tremble at her rebirth!\""
+            ]
+          },
+          {
+            "type": "entries",
+            "name": "Key Clues",
+            "entries": [
+              {
+                "type": "list",
+                "items": [
+                  "Zuggtmoy must open the final ward herself—Falrinth cannot do it alone.",
+                  "Falrinth has delivered the last Elemental Power Gem to Zuggtmoy inside the Elemental Nodes.",
+                  "Time is critical, as Falrinth's actions have set the stage for Zuggtmoy's release."
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "entries",
+    "name": "Primary Goals",
+    "entries": [
+      {
+        "type": "list",
+        "items": [
+          "{@b Recover the Orb of Golden Death:} The adventurers must retrieve the Orb from Falrinth before he fully restores it.",
+          "{@b Stop the Final Ward from Being Broken:} Zuggtmoy now has the final gem—the party must prevent her from using it to unlock her prison.",
+          "{@b Prevent Falrinth's Escape:} If he escapes, he will continue his mission elsewhere, possibly seeking allies among Iuz's forces."
+        ]
+      }
+    ]
+  },
+  {
+    "type": "entries",
+    "name": "Secondary Goals",
+    "entries": [
+      {
+        "type": "list",
+        "items": [
+          "{@b Destroy the Orb of Golden Death:} If all four gems are recovered, the party can attempt the ritual to destroy the Orb, though it requires extreme effort and knowledge.",
+          "{@b Disrupt Falrinth's Rituals:} By damaging the Elemental Nodes and disrupting their balance, the party can weaken the Orb's power, buying time.",
+          "{@b Learn the Truth About the Elemental Nodes:} Investigate their origins and how they are tied to Zuggtmoy's influence."
+        ]
+      }
+    ]
+  }
+]

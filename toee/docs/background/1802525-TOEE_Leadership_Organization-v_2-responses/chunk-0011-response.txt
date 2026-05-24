@@ -1,0 +1,91 @@
+```json
+[
+  {
+    "type": "entries",
+    "name": "Lucius Graeme, Temple Agent Courier",
+    "entries": [
+      "Lucius Graeme, a Oeridian/Suel operative, commands attention—not through stature, but through an aura of quiet menace. His portly frame, draped in simple gray garments, conceals a calculating and dangerous mind. A small gray hat often shadows his scarred face, marked by an old injury from falling debris. His golden, asymmetrical eyes seem to uncover secrets no one wishes to reveal, and his smooth, unsettling voice has a way of disarming or unnerving listeners.",
+      {
+        "type": "entries",
+        "name": "Personality",
+        "entries": [
+          "Once a vain and cruel nobleman, Lucius's fall from grace left him with a bitter hatred for order and morality. Now, he is a manipulative schemer, wielding intelligence and deception like a blade. Beneath his calm exterior simmers a barely controlled rage, which he unleashes without mercy when provoked.",
+          {
+            "type": "list",
+            "items": [
+              "{@b Master Manipulator}: Feigns weakness, allowing enemies to underestimate him.",
+              "{@b Chaos as Power}: Believes disorder breeds opportunity, shaping the world in his image.",
+              "{@b Devotion to Elemental Forces}: Sees the primordial powers of the elemental planes as neither good nor evil—only tools for the strong."
+            ]
+          },
+          "\"Chaos is the truest form of control—those who embrace it will shape the world to their will.\" - Aldren"
+        ]
+      },
+      {
+        "type": "entries",
+        "name": "The Art of Deception",
+        "entries": [
+          "Lucius delights in playing the fool, allowing others to underestimate him while he quietly gathers intelligence and consolidates power. He thrives in chaos, seeing it as the ultimate tool of control. To him, the elemental planes are not moral forces, but raw engines of destruction and renewal, waiting to be harnessed by those strong enough to command them.",
+          "\"Civilization is a fragile mask over the face of the elemental chaos. It's a shame when it breaks… or a delight.\" - Lucius Graeme"
+        ]
+      },
+      {
+        "type": "entries",
+        "name": "Lucius Graeme",
+        "entries": [
+          "{@i Human Cleric Level 7, Neutral evil}",
+          "{@i Armor Class 16 (chain shirt, shield)}",
+          "{@i Hit Points 45 (7d8-7)}",
+          "{@i Speed 30ft.}",
+          {
+            "type": "list",
+            "items": [
+              "STR 16 (+3)",
+              "DEX 14 (+2)",
+              "CON 9 (-1)",
+              "INT 16 (+3)",
+              "WIS 16 (+3)",
+              "CHA 15 (+2)"
+            ]
+          },
+          "{@i Savings Throws Wisdom +6, Charisma +5}",
+          "{@i Skills Deception +5, Insight +6, Persuasion +5, Religion +5}",
+          "{@i Senses passive Perception 13}",
+          "{@i Languages Common, Abyssal, Gnome}",
+          "{@i Challenge 5 (1800 exp)}",
+          {
+            "type": "entries",
+            "name": "Traits",
+            "entries": [
+              "{@b Dark Devotion (Cleric of Evil).} Lucius has advantage on saving throws against being charmed or frightened.",
+              "{@b Fanatical Conviction.} When Lucius is reduced to 0 hit points, he can make a DC 10 Constitution saving throw. On a success, he drops to 1 hit point instead.",
+              "{@b Spell Casting.} Spells Prepared (Spell Save DC 13, +5 to hit with spell attacks).",
+              {
+                "type": "list",
+                "items": [
+                  "Cantrips (at will): {@spell Thaumaturgy}, {@spell Sacred Flame}, {@spell Spare the Dying}",
+                  "1st level (4 slots): {@spell Command} (×3), {@spell Cause Light Wounds}, {@spell Detect Magic}, {@spell Protection from Good}",
+                  "2nd level (3 slots): {@spell Detect Charm} (×2), {@spell Find Traps}, {@spell Hold Person} (×2), {@spell Silence} (15 ft. radius)",
+                  "3rd level (2 slots): {@spell Animate Dead}, {@spell Continual Darkness}, {@spell Dispel Magic}, {@spell Bestow Curse}",
+                  "4th level (1 slot): {@spell Control Water} (Elemental-themed control over the Elder Elemental God's power)"
+                ]
+              },
+              "{@b Divination.} Used to communicate with the EEG (Zyggmoy).",
+              "{@b Amulet of the Shrouded One.} Lucius's alignment and location cannot be detected by divination magic ({@spell Detect Evil and Good}, {@spell Commune}, {@spell Divination}, {@spell Scrying}, etc.). He cannot be tracked by nonmagical means unless he allows it. Once per long rest, can cast {@spell Nondetection} on himself without expending a spell slot."
+            ]
+          },
+          {
+            "type": "entries",
+            "name": "Actions",
+            "entries": [
+              "{@b Mace of the Withering.} Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 8 (1d6+4) bludgeoning damage. The target must make a DC 13 Constitution saving throw or suffer 1 level of exhaustion. If the target is frightened, the attack deals an additional {@dice 1d6} necrotic damage.",
+              "{@b Unholy Smite (1/Day).} When Lucius hits with a melee attack, he deals an additional 14 ({@dice 4d6}) necrotic damage.",
+              "{@b Cloak of the Forsaken Veil (1/Day).} Lucius can cast {@spell Pass Without Trace} on himself without expending a spell slot. He also has advantage on Dexterity (Stealth) checks while wearing cloak."
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
+```
