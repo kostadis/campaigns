@@ -1,0 +1,172 @@
+# Chapter 26 Attrition
+
+Date: May 10th, 2026
+
+## Summary
+Things were not going well for the party as they made their way through the temple, stepping over looted bodies while goblins scrambled past them, arms full of plunder, too desperate to care about the adventurers in their midst. The group pressed on toward the Greater Temple entrance in the Air Temple, only to find the massive door barricaded from the other side. The Wraith, a malevolent undead creature feasting on the carnage of the ongoing war, watched them with gleaming amusement, taunting them with promises that their turn would come. When Calmer began hammering at the sealed door, a cold, disembodied voice from within declared that the Greater Temple was sealed until the battle between the lesser temples had run its course. The Wraith laughed harder than ever, explaining that this was simply how things worked — when the lesser temples tore each other apart, the Greater Temple locked its doors and waited, leaving everyone else trapped inside like rats. Seven specters materialized from the shadows, raised from the bodies of fallen Earth Temple soldiers, and the Wraith reveled in his growing power. When the party asked to meet those truly in charge, the voice from behind the door offered only a chilling reply: survive the fight, and maybe they would get their chance.
+
+With no way forward and a wraith growing bolder by the minute, the party made the wise decision to retreat to the first level before they became the next course in the Wraith's feast. Earth Temple guards nearly loosed arrows at them before their leader recognized the group and ordered his men to stand down. The guards were haggard and shaken, and their message was urgent — Hartsch needed the party immediately. They found him at the temple, exhausted, bloodied, and barely holding himself together, surrounded by far fewer soldiers than there had been before. The muffled sounds of distant battle hung in the air as Hartsch looked to the party with desperate eyes, asking what they should do next.
+
+The party steadied him, urging patience and strategy over panic. After some deliberation, a plan took shape: they would launch a two-pronged attack on the Air Temple, with the party striking from one side and Hartsch from the other. Hartsch agreed to hold their position through the night and launch the assault come morning. The party retired to their quarters in the Earth Temple, confident in the plan they had laid out. But when morning came, Hartsch was nowhere to be found — only a note remained in his office, explaining that he had decided on a 'better' plan, sending the Broken Blades mercenaries to attack the Water Temple instead. Realizing the danger, the party immediately abandoned their Air Temple assault plan to go rescue Captain Dren and the mercenaries.
+
+The party descended back to the second level to find their mercenaries, passing the Wraith once more. This time, they struck a grim bargain — they told the creature that the next attack would fall on the Water Temple, and the Wraith, calculating and hungry, let them pass. What they found on the other side was grim. Captain Dren Helveth, the leader of the Broken Blades, grabbed the party by the arm with desperation in his eyes. Behind him, the surviving mercenaries stared blankly at the carnage around them, hands slick with gore, the stench of death thick in the air. Hartsch had sent them into a slaughterhouse, and they were barely holding together. Zinnia stepped forward and rallied them with fierce conviction, and the battered mercenaries, moved by her presence, pledged to fight on.
+
+To return to the Earth Temple, the Broken Blades had to either fight through the Wraith or navigate the combat zone between the Water and Fire Temples. The party decided it was time to deal with the Wraith. The mercenaries were meant to help, but Calmer realized that using his divine power and calling on St. Cuthbert might break his cover. So, the party told the Broken Blades to wait outside the Air Temple while they handled the undead. Calmer strode into the chamber first, his divine power already stirring around him in a radiant aura that scorched the undead simply by proximity. Sequioa struck fast and hard, cutting down a specter before it could react, and Zephyr followed with a devastating blow that felled another. The Wraith, furious, launched itself at Calmer and struck him with a wave of necrotic energy so severe that the cleric was left barely standing, his body unable to mend itself past the brink of death. Yet even in that dire state, Calmer refused to fall — when a specter clawed at him, he unleashed a burst of divine force that sent the creature hurtling backward, shredding what little remained of it.
+
+Then, with the battle hanging on a knife's edge, Calmer called upon every ounce of his faith and invoked the full power of Saint Cuthbert against the undead. A blinding wave of divine energy swept through the chamber. The Wraith, the specters — nearly all of them were obliterated in an instant. It was the third time Calmer had attempted this feat, and the first time it had worked, and he made absolutely sure everyone knew it. "Who's the man?" he shouted into the smoldering silence. "Who is the man?" Zinnia finished off the last surviving specter with a series of precise strikes, and the passage was finally, gloriously clear.
+
+As the party regrouped and prepared to return to the first level, a panicked bugbear came stumbling into view, clutching a sack of coins and muttering about promises of safety and gold from Kelno of the Water Temple. It quickly became clear that the creature had been bribed to abandon his post and defect, and the party was not inclined toward mercy. Sequioa ran him down and cut him apart before he could escape, standing over the body with a dry declaration: "One does not simply take bribes to defect." The coins recovered from the bugbear were stamped with Air Temple insignia — the gnolls had been the ones doing the bribing.
+
+Those very gnolls emerged moments later from a secret door, furious that their investment had been killed and demanding restitution in blood. Dren and his mercenaries, seeing that Calmer was in no condition to fight, physically wrestled the protesting cleric away from the battle despite his outraged cries of "Unhand me, you creatures!" The three gnolls lunged at the remaining party members with savage hunger, one of them eyeing Zephyr with particular enthusiasm and snarling about how long it had been since it had tasted tiefling flesh. Zephyr's response was simple and immediate: "Come and get it." The fight was swift and brutal, with Sequioa and Zephyr working in lethal tandem to cut down all three gnolls before they could do any real damage.
+
+With the gnolls dead and the secret door to the Air Temple now exposed, the party stood at a crossroads. The passage was open, but Calmer was gone — dragged to safety by Dren's mercenaries — and without a healer, pushing forward felt reckless. The party agreed that a reconnaissance mission into the Air Temple might be possible given their considerable talent for stealth, but a full assault would have to wait until Calmer had recovered. The strategic picture, at least, had shifted in their favor. The Wraith was destroyed, the passage to the second level was open, and the Earth Temple now had two routes to press its advantage. The war was far from over, but for the first time, the odds felt like they might be turning.
+
+## Memorable Moments
+> "Your turn will come. Don't worry, my little pets. Your turn will come."
+> — The Wraith
+
+*The Wraith, feasting on corpses, mockingly addresses the party as they attempt to enter the sealed Greater Temple.*
+
+**Calmer's Turn Undead finally succeeds after multiple prior failures, obliterating the Wraith and most of its specters in a single divine burst — prompting him to shout 'Who's the man?'**
+
+*After two previous failed attempts at turning undead, Calmer's divine power finally works at the most critical moment, with only 3 hit points remaining.*
+
+> "Who's the man? Who is the man?"
+> — Calmer
+
+*Elated and barely alive with only 3 hit points, Calmer celebrates after his Turn Undead finally works and destroys the Wraith.*
+
+> "One does not simply take bribes to defect."
+> — Sequioa
+
+*Standing over the body of the slain bugbear defector, delivering a deadpan one-liner after cutting him down.*
+
+**Dren and his mercenaries physically grapple and drag a furious, three-hit-point Calmer off the battlefield against his will while he shouts 'Unhand me, you creatures!'**
+
+*Calmer, nearly dead and unable to heal, refuses to leave the fight, forcing the party to have him forcibly removed for his own safety.*
+
+> "Survive the fight, and maybe you'll get a chance."
+> — The Greater Temple Voice
+
+*A mysterious voice from behind the sealed Greater Temple door responds to the party's request to meet those truly in charge.*
+
+> "Tiefling flesh. Haven't had tiefling flesh in ages."
+> — Gnoll
+
+*An Air Temple gnoll singles out Zephyr with hungry enthusiasm during the ambush, to which Zephyr responds 'Come and get it.'*
+
+## Scenes
+### The Sealed Greater Temple
+#### The party explores the Air Temple and attempts to enter the Greater Temple, only to find it barricaded and guarded by a mocking Wraith.
+- The party observes goblins looting bodies and racing toward the Air Temple.
+- They encounter a Wraith feasting on corpses who mocks them, claiming their turn will come.
+- Calmer attempts to force open the door to the Greater Temple, but it is held shut from the other side.
+- The Wraith reveals that the Greater Temple has been sealed until the war between the lesser temples concludes.
+- Seven specters, raised from the fallen forces of the Earth Temple, materialize to serve the Wraith.
+- A mysterious voice from behind the sealed door tells the party they must survive the fight if they wish to meet those in charge.
+
+### Return to the Earth Temple
+#### The party retreats to the first level to regroup with Hartsch and the remaining Earth Temple forces.
+- The party returns to the first level and is nearly fired upon by Earth Temple guards before being recognized.
+- They find Hartsch in a state of panic and exhaustion at the temple, surrounded by bloodied survivors.
+- Hartsch expresses frustration over the failing war effort and the loss of troops.
+- The party convinces Hartsch to let them lead the vanguard in a final stand against the other temples.
+- The group decides to target the Air Temple first, then the Water Temple, planning to strike after a period of rest.
+
+### War Council and Hartsch's Blunder
+#### The party plans a two-pronged attack on the Air Temple with Hartsch, only to wake and find he has sent the Broken Blades to the Water Temple instead, forcing a rescue mission.
+- The party discusses the strengths of the rival temples, identifying the Water Temple as the strongest and the Air Temple as the weakest.
+- A plan is formed for a two-pronged attack on the Air Temple, with the party on one side and Hartsch on the other.
+- The party decides to rest at their headquarters in the Earth Temple before the assault.
+- In the morning, Hartsch is missing, having left a note stating he had a better plan and sent the Broken Blades to attack the Water Temple instead. The party abandons their original plan to go rescue them.
+
+### The Failed Raid and Rescuing the Broken Blades
+#### The party abandons their Air Temple assault to rescue the Broken Blades from the Water Temple, negotiating passage past the Wraith.
+- Hartsch's note reveals he sent the Broken Blades to attack the Water Temple, prompting the party to abandon their plan and mount a rescue.
+- The party travels to the second level and encounters the Wraith and its seven specters guarding a choke point.
+- The Wraith demands something in exchange for passage; the party tells him the next attack will be on the Water Temple.
+- The party finds Captain Dren Helveth and the surviving Broken Blades, who are bloodied and traumatized, describing the battle as a 'meat grinder.'
+- Zinnia rallies the mercenaries' morale, and the party tells them to wait outside the Air Temple so Calmer's divine magic doesn't break his cover while they deal with the Wraith.
+
+### Battle with the Wraith and Specters
+#### The party engages in a fierce combat against the Wraith and its spectral minions to clear the strategic passage.
+- Calmer prepares for battle by calling upon divine protection and a spiritual weapon before entering.
+- Sequioa strikes down a specter with a powerful opening attack.
+- Zephyr uses his assassin training to deliver a lethal blow to another specter.
+- The Wraith flies into the fray but is slowed and scorched by radiant energy from Calmer's protective spell.
+- The Wraith delivers a devastating necrotic strike to Calmer, nearly killing him and leaving him unable to heal past three hit points.
+- Calmer uses a burst of force energy to damage and push back a specter that had wounded him.
+- Calmer successfully calls upon his divine power to turn the undead, destroying the Wraith and several specters.
+- Zinnia finishes off the remaining spectral threat with a series of precise strikes.
+- The party secures a strategic victory, clearing the passage to the second level of undead.
+
+### The Defector's End
+#### As the party prepares to return to the first level, they encounter a deserting Earth Temple bugbear and execute him for his betrayal.
+- A panicked bugbear from the Earth Temple is spotted attempting to flee with a sack of coins, babbling about promises of safety and gold from Kelno of the Water Temple.
+- The party realizes the bugbear was bribed to abandon his post and defect.
+- Sequioa chases down the bugbear and delivers a series of lethal strikes, killing him.
+- The party recovers twenty gold pieces stamped with Air Temple insignia from his body.
+
+### Ambush of the Air Temple Gnolls
+#### A group of gnolls emerges from a secret door to reclaim their bribe money, leading to a swift and bloody skirmish.
+- Three gnolls from the Air Temple emerge from a secret door, angry that the bugbear they had bribed was killed.
+- Dren and his mercenaries forcibly remove a severely wounded Calmer from the battlefield for his own safety, dragging him away despite his protests.
+- Zephyr and Sequioa engage the gnolls in close quarters, utilizing their rogue training to land devastating blows.
+- One gnoll attempts to feast on Zephyr's flesh but only manages a minor wound before being overwhelmed.
+- The party systematically eliminates all three gnolls, clearing the area near the secret door to the Air Temple.
+
+## NPCs
+### The Wraith
+A malevolent undead entity that feasts on the casualties of the temple war. It commands a small army of seven specters raised from dead Earth Temple soldiers, mocks the party, and guards the passage to the second level. It is ultimately destroyed by Calmer's divine power.
+
+### Hartsch
+The leader of the Earth Temple, promoted by the party after Romag's death. He is overwhelmed, panicked, and struggling to maintain control of his dwindling forces. He shows poor judgment by secretly sending the Broken Blades on a raid, falsely attributing the orders to the party.
+
+### Captain Dren Helveth
+The captain of the Broken Blades mercenaries. He is found battered and desperate after his men were decimated in a poorly planned raid ordered by Hartsch. He later assists the party by forcibly escorting the severely wounded Calmer to safety during the gnoll ambush.
+
+### The Broken Blades
+A group of mercenaries recruited by the party who were nearly wiped out after being sent on a suicide mission by Hartsch. Their morale is restored by Zinnia, and they pledge to fight alongside the party.
+
+### Kelno
+A figure from the Water Temple mentioned as offering bribes of gold and safety to Earth Temple forces in order to lure them into defecting.
+
+## Locations
+### Air Temple
+A level of the temple complex currently filled with looted bodies and roaming goblins. It contains the entrance to the Deep Temple and is haunted by a powerful Wraith, and also features a secret door leading toward the Water Temple.
+
+### Greater Temple Entrance
+A barricaded doorway that has been sealed shut from the inside to isolate the Deep Temple from the ongoing conflict between the lesser elemental factions. A mysterious voice from within told the party to survive the fight if they wished to meet those in charge.
+
+### Earth Temple
+The headquarters for Hartsch's forces on the first level. It is the most defensible location in the area, currently a grim scene of ragged survivors and muffled sounds of distant battle, and serves as the party's base of operations.
+
+### Romag's Room
+The party's headquarters within the Earth Temple, used for resting and private meetings.
+
+### Water Temple
+The target of Hartsch's ill-fated raid and considered the most powerful of the elemental factions. Kelno, a figure from the Water Temple, has been bribing Earth Temple forces to defect.
+
+### Second Level Passage
+A strategic choke point previously guarded by the Wraith and its specters, now cleared by the party, opening a second route down for the Earth Temple forces.
+
+## Items
+### Hartsch's Note
+A message left in Hartsch's office explaining that he had taken the initiative to send the Broken Blades on a raid without the party's knowledge, and had done so under the guise of the party's orders.
+
+### Bribery Money
+Twenty gold pieces stamped with Air Temple insignia, found on the body of the defecting bugbear. The coins were payment from Air Temple gnolls to convince the bugbear to abandon his post and defect.
+
+## Spells
+### Spiritual Weapon
+A divine manifestation of Calmer's faith, summoned before entering combat and used to strike at the undead during the confrontation with the Wraith and its specters.
+
+### Spirit Guardians
+A protective aura of radiant spirits summoned by Calmer that slowed the Wraith and dealt consistent radiant damage to undead enemies who entered its golden light throughout the battle.
+
+### Turn Undead
+A powerful divine invocation used by Calmer that successfully destroyed the Wraith and several of its spectral servants in a single use, after having failed in previous attempts during earlier sessions.
+
+### Gift of the Gem Dragon
+A reactive burst of force energy used by Calmer after being wounded by a specter. It forced the creature to make a saving throw, and on its failure, dealt significant force damage and pushed the specter away.
+
