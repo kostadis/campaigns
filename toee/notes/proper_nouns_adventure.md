@@ -1,0 +1,297 @@
+# TOEE Adventure — Proper-Noun Dictionary
+
+Extracted from `docs/background/adventure-t14-5e.json` (434 cleaned section names, 105 unique `@creature` tags, 6426 prose strings scanned).
+
+Categorisation is heuristic — review and prune before promoting. Flat one-per-line dump for `vtt-spell-pass --extra-known` lives alongside this file at `proper_nouns_adventure.txt`.
+
+## Deities & Divine Powers (17)
+
+- Boccob
+- Ehlonna
+- Erythnul
+- Heironeous
+- Hextor
+- Iuz
+- Lolth
+- Nerull
+- Obad-Hai
+- Olidammara
+- Orcus
+- Pelor
+- Pholtus
+- St. Cuthbert
+- Tharizdun
+- Wee Jas
+- Zuggtmoy
+
+## Places, Realms & Notable Locations (120)
+
+- Abyssal Plane
+- Air Node
+- Air Temple
+- Boatmens' Tavern
+- Boatmens' Tavern & Nulb Market
+- Burne's Badgers
+- Burne, 'His Most Worshipful Mage of Hommlet'
+- Celene
+- Central Altar
+- Chamber of Eyes
+- Chamber of Statues
+- Chamber, 20' x 20'
+- Church Kitchen
+- Church of St
+- Church of St. Cuthbert
+- Circular Shaft
+- Cistern Chamber
+- Commander Hedrack
+- Commander's Quarters
+- Corridor and Cells
+- Corridor of Bones
+- Demoness Lady of Fungi
+- Disused Secret Room
+- Dungeons of Elemental Evil
+- Dyvers
+- Earth Node
+- Earth Temple
+- Farmer, Daughter, and Son
+- Fire Bats
+- Fire Giant
+- Fire Node
+- Fire Snakes
+- Fire Temple
+- Furnok of Ferd
+- Furyondy
+- Gargoyle Cloak
+- Ghoul Nest
+- Gnarley Forest
+- Great Bronze Gate
+- Great Temple
+- Greater Temple
+- Greyhawk
+- Grud Squinteye
+- Gundigoot's Chamber
+- Gundigoot's Children's Room
+- Hall of Armored Skeletons
+- Hall of Black Feasting
+- Hall of Elemental Magic
+- Hall of Glory
+- Hall of Merriment
+- Hall of Sculpture
+- Hall of Triangles
+- Hall of Triumphal Evil
+- Hall of Verdigris
+- Harginn Grues
+- Hommlet
+- Hommlet and Nulb
+- Hruda
+- Ice Lizards
+- Ichor of Intoxication
+- Imeryds Run
+- Jaroo Ashstaff
+- Kelno the Prefect
+- Kriitch
+- Kron Hills
+- Lens of Transformation
+- Leomund's Labile Locker
+- Lodriss
+- Mother Screng
+- Mother Screng's Herb Shop
+- Nodes of Elemental Evil
+- Nulb
+- Nulb Encounter Key
+- Nulb Militia
+- Nulb: The Village of Nulb
+- Nyr Dyv
+- Oak Door
+- Ochre Jelly
+- Ogre Mage
+- Other Swords of Answering
+- Place of Earth and Golden Chains
+- Pouch of Holding
+- Prefect Alrrem
+- Prime Plane
+- Prince Thrommel
+- Rock Reptiles
+- Room and Corridor
+- Room of Bones
+- Room of Crowned Skulls
+- Room of Fiend
+- Room of the Elements
+- Room with Alcove
+- Rotting Drawbridge
+- Ruins of Elemental Evil
+- Sacred Trophies Gallery
+- Skole
+- Smigmal Redhand
+- T1 4 Temple Of Elemental Evil (1E) Notes
+- Temple of Elemental Evil
+- The Broken Tower
+- The Corridor and Secret Niche
+- The Grove
+- The Hall of Dread
+- The Interdicted Prison of Zuggtmoy
+- The Pool Chamber
+- The Ruins of the Moathouse
+- The Temple
+- The Temple of Fire
+- The Village of Hommlet
+- The Waterside Hostel
+- The Welcome Wench Inn
+- Tolub
+- Veluna
+- Velverdyva
+- Verbobonc
+- Water Node
+- Water Temple
+- Wild Coast
+- Zuggtmoy Bound
+- Zuggtmoy's Servants
+
+## NPCs (named in module + cross-referenced with docs/npcs/) (9)
+
+- Dala
+- Dick Rentsch
+- Elmo
+- Hartsch
+- Kelno
+- Pearl
+- Romag
+- Rufus
+- Wat
+
+## Creatures (114)
+
+- Acolyte
+- Adult Red Dragon
+- Air Elemental
+- Animated Armor
+- Ascomid
+- Ascomoid
+- Assassin
+- Bandit
+- Bandit Captain
+- Banshee
+- Basidirond
+- Basilisk
+- Black Pudding
+- Bodak
+- Bugbear
+- Bugbear Chief
+- Carrion Crawler
+- Cloud Giant
+- Commoner
+- Cult Fanatic
+- Doppelganger
+- Dragon Turtle
+- Dragon Turtles
+- Dragons, Red
+- Earth Elemental
+- Efreeti
+- Elemental Plane of Fire
+- Elemental Plane of Water
+- Elementals, Fire
+- Elementals, Water
+- Ettin
+- Eyes, Floating
+- Fire Bat
+- Fire Elemental
+- Fire Snake
+- Floating Eye
+- Frost Giant
+- Fungi, Violet
+- Gargoyle
+- Gas Spore
+- Gelatinous Cube
+- Ghast
+- Ghoul
+- Giant Lizard
+- Giant Poisonous Snake
+- Giant Rat
+- Giant Toad
+- Giants, Fire
+- Giants, Frost
+- Giants, Stone
+- Gladiator
+- Gnoll
+- Gnoll Pack Lord
+- Goblin
+- Gorgon
+- Gray Ooze
+- Green Slime
+- Griffon
+- Guard
+- Harpy
+- Hell Hound
+- Hill Giant
+- Hobgoblin
+- Hydra
+- Imp
+- Jackalwere
+- Lamia
+- Leucrotta
+- Lurker Above
+- Mage
+- Manticore
+- Mimic
+- Mold, Brown
+- Mold, Russet
+- Mold, Yellow
+- Ogre
+- Oni
+- Ooze, Gray
+- Otyugh
+- Owlbear
+- Phycomid
+- Priest
+- Pudding, Black
+- Pudding, Brown
+- Pudding, Dun
+- Pudding, White
+- Quasit
+- Roper
+- Salamander
+- Shadow
+- Shambling Mound
+- Shrieker
+- Skeleton
+- Slime, Green
+- Slime, Olive
+- Stirge
+- Stone Giant
+- Succubus/incubus
+- Troll
+- Twig Blight
+- Ustilagor
+- Veteran
+- Violet Fungi
+- Violet Fungus
+- Water Elemental
+- Water Weird
+- Werewolf
+- Will-o'-wisp
+- Wolf
+- Worg
+- Xorn
+- Young White Dragon
+- Zombie
+- Zygom
+
+## Named Magic Items (1)
+
+- Orb of Golden Death
+
+## Unconfirmed candidates (single-word capitalised, no dossier yet — review before promoting) (12)
+
+- Ashrem
+- Barkinar
+- Darley
+- Falrinth
+- Jaer
+- Kobort
+- Promenade
+- Sargen
+- Spugnois
+- Taki
+- Turuko
+- Zert
+
