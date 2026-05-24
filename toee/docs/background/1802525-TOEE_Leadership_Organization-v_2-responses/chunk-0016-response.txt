@@ -1,0 +1,173 @@
+```json
+[
+  {
+    "type": "entries",
+    "name": "Falrinth, Master Wizard, Keeper of the Orb of Golden Death",
+    "entries": [
+      "A cunning and duplicitous figure, Falrinth operates within the third level of the Temple of Elemental Evil. Though he holds no formal allegiance to the elemental temples or the Greater Temple, his scheming nature makes him a key player in the Temple's politics and intrigue. An opportunist driven by ambition, he carefully balances alliances and rivalries, ensuring his own survival while keeping his true motives concealed.",
+      {
+        "type": "entries",
+        "name": "Rogue Wizard",
+        "entries": [
+          "While not an official member of the Greater Temple, Falrinth is deeply embedded in its web of deception. As an 8th-level magic-user, he operates independently, both a valuable ally and a potential threat to the leadership.",
+          "\"They say the Elder Elemental God whispers in the dark. I've heard those whispers… and one day, I will whisper back.\"",
+          "Falrinth's connection to his quasit familiar, Kriitch, allows him to cast as a 9th-level wizard when within a one-mile radius. Though he outwardly serves Lolth, the Demon Queen of Spiders, his true allegiance is to power itself. He schemes to advance his own goals, betraying even Lolth if it means seizing greater control.",
+          {
+            "type": "list",
+            "items": [
+              "{@b Ambition:} Seeks power above all else, even if it means betraying Lolth.",
+              "{@b Duplicitous Nature:} His unpredictability makes him a potential ally or deadly foe."
+            ]
+          }
+        ]
+      },
+      {
+        "type": "entries",
+        "name": "Location and Role",
+        "entries": [
+          "Falrinth resides in Area 337 on the third level of the Temple, where he safeguards his secrets and resources. His chambers connect to an Escape Tunnel, a hidden route leading to the Hunting Cottage, used by bandits allied with Smigmal Redhand.",
+          "\"The Nodes are not prisons; they are gateways. Those who master them will rule both this world and the next.\" - Falrinth"
+        ]
+      },
+      {
+        "type": "entries",
+        "name": "The Orb of Golden Death",
+        "entries": [
+          "Falrinth secretly possesses the Orb of Golden Death, an artifact tied to the Elder Elemental God and central to the Temple's power. He keeps the Orb hidden from his allies and superiors, viewing it as his ultimate bargaining chip or tool for personal ascension.",
+          {
+            "type": "list",
+            "items": [
+              "{@b Connection to the Nodes:} The Orb serves as a key to unlocking and controlling the elemental nodes.",
+              "{@b Secrecy:} Falrinth's concealment of the Orb makes him a target for both the Greater Temple and adventurers."
+            ]
+          }
+        ]
+      },
+      {
+        "type": "entries",
+        "name": "Falrinth, Master Wizard",
+        "entries": [
+          "{@i Medium Humanoid (Human), Chaotic Evil, Level 8 Wizard (with Familiar Kriitch)}",
+          "{@i Armor Class 15 (Bracers of Defense)}",
+          "{@i Hit Points 54 (9d6+18)}",
+          "{@i Speed 30ft.}",
+          "{@i STR 10 (+0), DEX 17 (+3), CON 15 (+2), INT 17 (+3), WIS 10 (+0), CHA 12 (+1)}",
+          "{@i Savings Throws Int +7, Wis +4}",
+          "{@i Skills Arcana +7, History +7, Insight +4, Stealth +6}",
+          "{@i Condition Immunities Charmed (while familiar is within 10 ft.)}",
+          "{@i Senses passive Perception 10}",
+          "{@i Languages Common, Elvish, Abyssal}",
+          "{@i Challenge 7 (3,900 XP)}",
+          "{@i Spellcasting (9th-Level Wizard) Spell Save DC 15, Spell Attack Bonus +7}",
+          "{@i Cantrips (At Will): Message, Mage Hand, Fire Bolt, Minor Illusion}",
+          "{@i 1st Level (4 slots): Burning Hands, Charm Person, Detect Magic, Unseen Servant}",
+          "{@i 2nd Level (3 slots): Invisibility, Mirror Image, Hold Person, Levitate}",
+          "{@i 3rd Level (3 slots): Fireball, Lightning Bolt, Clairvoyance}",
+          "{@i 4th Level (3 slots): Dimension Door, Phantasmal Killer}",
+          "{@i 5th Level (1 slots): Teleportation Circle, Wall of Force}",
+          {
+            "type": "entries",
+            "name": "Legendary Equipment",
+            "entries": [
+              "{@item Orb of Golden Death}: Allows scrying and enhances necromantic spells.",
+              "{@item Mirror of Mental Prowess}: Can detect thoughts and manipulate reflections.",
+              "{@item Tome of Leadership}: Grants Charisma bonus if studied.",
+              "{@item Vacuous Grimoire}: A cursed book that drains Intelligence."
+            ]
+          },
+          {
+            "type": "entries",
+            "name": "Actions",
+            "entries": [
+              "{@i Dagger. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 4 (1d4+3) piercing damage.}"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "entries",
+        "name": "Role and Loyalties",
+        "entries": [
+          "Falrinth maintains a loose alliance with Smigmal Redhand and her bandit crew, including Commander Feldrin, who operates from the Broken Tower. However, his true loyalty lies only with himself. Though he cooperates with these factions, Falrinth is ultimately an opportunist, always seeking the greatest personal advantage.",
+          "He also collaborates with Lareth the Beautiful, both serving as agents of Lolth, the Demon Queen of Spiders. Their shared mission, as dictated by Lolth, is to gain control of the elemental nodes (Nexus), though the full scope of their plan remains hidden."
+        ]
+      },
+      {
+        "type": "entries",
+        "name": "Relationships & Manipulations",
+        "entries": [
+          {
+            "type": "entries",
+            "name": "Senshock: A Cautious Superior",
+            "entries": [
+              "Falrinth reports to Senshock, High Commander of the Greater Temple, but their relationship is based on mutual distrust. Senshock sees Falrinth as a useful but untrustworthy resource, aware that his loyalty to Lolth and secrecy regarding the Orb of Golden Death could threaten the Greater Temple's unity."
+            ]
+          },
+          {
+            "type": "entries",
+            "name": "Smigmal Redhand & Feldrin: Bandit Connections",
+            "entries": [
+              "{@b Smigmal Redhand:} An ally of convenience, Falrinth works with her bandits, though his loyalty is tenuous at best.",
+              "{@b Commander Feldrin:} While Feldrin reports to Falrinth indirectly through Smigmal, this chain of loyalty is weak and unreliable."
+            ]
+          },
+          {
+            "type": "entries",
+            "name": "Lareth the Beautiful: A Dangerous Partnership",
+            "entries": [
+              "{@b Lolth's Plan:} Both serve Lolth, working to manipulate the elemental nodes, possibly undermining Zuggtmoy and the Elder Elemental God.",
+              "{@b Fragile Alliance:} Despite their shared devotion to Lolth, ambition makes their alliance precarious and could lead to betrayal."
+            ]
+          }
+        ]
+      },
+      {
+        "type": "entries",
+        "name": "Falrinth's Tactics and Abilities",
+        "entries": [
+          "A cautious strategist, Falrinth relies on magic, deception, and his quasit familiar to outmaneuver threats.",
+          "\"Hedrack and his ilk think themselves untouchable, yet they dance like puppets on strings they cannot see. Strings I can cut.\"",
+          {
+            "type": "list",
+            "items": [
+              "{@b Kriitch the Quasit:} Spies in giant centipede form, relaying information.",
+              "{@b Escape Tunnel:} Enables quick retreats or ambushes.",
+              "{@b Preparedness:} Uses divination and illusions to manipulate encounters."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "entries",
+    "name": "Smigmal Redhand, Commander",
+    "entries": [
+      "A ruthless and cunning half-orc Fighter/Assassin, Smigmal Redhand commands the outer defenses of the Temple of Elemental Evil. Leading mercenaries and bandits from the ruined tower, she serves as the Temple's first line of defense, eliminating threats with cold efficiency. Using a Hat of Disguise, she masquerades as an elf, blending deception with assassination to manipulate both high society and adventurers who stray too close.",
+      {
+        "type": "entries",
+        "name": "Master of Deception and Deadly Precision",
+        "entries": [
+          "Smigmal is an imposing six-foot figure, her lean, sinewy frame hardened by years of battle and subterfuge. Her sharp, angular features and piercing yellow eyes betray her orcish blood, though few ever see her true face. Under her magical elven guise, she appears as a refined noblewoman, effortlessly infiltrating enemy ranks and social circles."
+        ]
+      },
+      {
+        "type": "entries",
+        "name": "Personality",
+        "entries": [
+          "Smigmal is a cold, calculating assassin with an iron will. She believes in striking from the shadows and maintaining absolute control over her surroundings. Her loyalty is primarily to Falrinth, her lover and secret ally within the temple, but she harbors ambitions of her own. Ruthless, pragmatic, and untrusting, Smigmal excels at manipulating others to serve her interests.",
+          {
+            "type": "list",
+            "items": [
+              "{@b Calculating and Ruthless:} Smigmal values efficiency over morality, always seeking the most pragmatic solution.",
+              "{@b Devoted to Falrinth:} She prioritizes her relationship with the wizard over temple politics.",
+              "{@b Paranoia and Mistrust:} Never truly trusts her superiors, always keeping an escape route in mind."
+            ]
+          },
+          "\"Hedrack plays the king, Senshock schemes for the throne, and Barkinar waits like a vulture. I simply watch and sharpen my knives.\" - Smigmal"
+        ]
+      }
+    ]
+  }
+]
+```

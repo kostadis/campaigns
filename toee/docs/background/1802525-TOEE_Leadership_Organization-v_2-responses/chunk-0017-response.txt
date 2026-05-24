@@ -1,0 +1,1379 @@
+```json
+[
+  {
+    "type": "entries",
+    "name": "Smigmal's Background",
+    "entries": [
+      "Smigmal hails from the war-torn Bandit Kingdoms, where survival meant mastering cunning and violence. Her lethal skills caught the attention of Temple agents, leading to her swift rise through the ranks by eliminating threats and proving herself to Supreme Commander Hedrack and Senshock.",
+      {
+        "type": "list",
+        "items": [
+          "{@b Mercenary Roots:} Raised among cutthroats and raiders, she learned to fight, deceive, and survive.",
+          "{@b Temple Recruitment:} Started as a scout, later placed in command of the outer defenses.",
+          "{@b Elven Disguise:} Uses a magical hat to pose as an elven diplomat, gathering intelligence in Nulb and Hommlet."
+        ]
+      }
+    ]
+  },
+  {
+    "type": "entries",
+    "name": "Role in the Temple",
+    "entries": [
+      "As leader of the Temple's surface defenses, Smigmal commands raiding parties and ensures no enemy infiltrates the ruined tower stronghold.",
+      {
+        "type": "list",
+        "items": [
+          "{@b Lead Defensive Operations:} Orchestrates raids and ambushes against Temple enemies.",
+          "{@b Espionage and Sabotage:} Works with Falrinth to spy on enemies and rivals.",
+          "{@b Mercenary Control:} Manages Temple-hired forces, ensuring loyalty through fear."
+        ]
+      },
+      "\"{@i Obedience comes not from loyalty, but from fear. And fear is a currency I deal in generously.}\" - Smigmal"
+    ]
+  },
+  {
+    "type": "entries",
+    "name": "Relationships",
+    "entries": [
+      {
+        "type": "entries",
+        "name": "Falrinth (Lover and Wizard Ally)",
+        "entries": [
+          "Smigmal's closest ally and lover, Falrinth, uses her position to gather intelligence and eliminate rivals. His quasit familiar provides her with a steady flow of spying reports from Nulb, the Temple, and beyond.",
+          "However, Falrinth's ambitions outweigh his loyalty. He sees Smigmal as a pawn in his quest for power, hoping to seize control after Hedrack's fall. Smigmal, aware of his grandiose dreams, knows he will abandon the Temple if it collapses—and she plans accordingly."
+        ]
+      },
+      {
+        "type": "entries",
+        "name": "Hedrack (Supreme Commander)",
+        "entries": [
+          "Hedrack tolerates Smigmal due to her effectiveness, but distrusts her closeness to Falrinth, whose loyalty to Lolth makes him a wildcard. He keeps a watchful eye on her, using her to maintain order but never fully trusting her."
+        ]
+      },
+      {
+        "type": "entries",
+        "name": "Deggum (Commander of Security)",
+        "entries": [
+          "As her direct superior, Deggum relies on Smigmal for defense reports and coordination. Though she respects his tactical mind, she sees him as a roadblock to her ambitions and remains wary of his authority.",
+          "\"{@i Barkinar may wear the armor, but it's his boots that tell the truth—always pointed toward the exit. He's waiting, watching, but when the time comes, he'll run.}\" - Smigmal"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "entries",
+    "name": "Devotion to the Elder Elemental God",
+    "entries": [
+      "Smigmal, like many in the temple, pays lip service to the Elder Elemental God but does not hold true faith. She sees the cult's chaos as a useful distraction for her own agendas but has no desire to awaken the ancient power.",
+      "\"{@i Hedrack plays the king, Senshock schemes for the throne, and Barkinar waits like a vulture. I simply watch and sharpen my knives.}\" - Smigmal"
+    ]
+  },
+  {
+    "type": "entries",
+    "name": "Smigmal Redhand",
+    "entries": [
+      "{@i Medium Humanoid (Half-Orc), Neutral Evil}",
+      "{@i Armor Class 19 (+1 Leather Armor, +2 Shield)}",
+      "{@i Hit Points 52 (7d8+21)}",
+      "{@i Speed 30ft.}",
+      "{@i STR 17 (+3) | DEX 16 (+3) | CON 17 (+3) | INT 15 (+2) | WIS 7 (-2) | CHA 14 (+2)}",
+      "{@i Savings Throws Dex +6, Int +5}",
+      "{@i Skills Acrobatics +9, Deception +5, Intimidation +5, Stealth +9, Sleight of Hand +6}",
+      "{@i Senses passive Perception 8}",
+      "{@i Languages Common, Orc}",
+      "{@i Challenge 5 (1,800 XP)}",
+      {
+        "type": "entries",
+        "name": "Traits",
+        "entries": [
+          "{@b Assassinate.} During her first turn, Smigmal has advantage on attack rolls against any creature that hasn't taken a turn. Any hit she scores against a surprised creature is a critical hit.",
+          "{@b Evasion.} When Smigmal is subjected to an effect that allows her to make a Dexterity saving throw for half damage, she instead takes no damage on a success and half damage on a failure.",
+          "{@b Relentless Endurance (1/Day).} When Smigmal is reduced to 0 hit points, instead drops to 1 hp, unless she is killed outright.",
+          "{@b Savage Attacks.} When Smigmal scores a critical hit with a melee weapon attack, she can roll one additional weapon damage die and add it to the extra damage.",
+          "{@b Sneak Attack (1/Turn).} Smigmal deals an extra 14 (4d6) damage when she hits a target with a weapon attack and has advantage on the attack roll, or when the target is within 5 feet of an ally and she doesn't have disadvantage on the attack roll."
+        ]
+      },
+      {
+        "type": "entries",
+        "name": "Actions",
+        "entries": [
+          "{@b Multiattack.} Smigmal makes two melee attacks.",
+          "{@b +1 Shortsword.} {@i Melee Weapon Attack:} +7 to hit, reach 5 ft., one target. {@i Hit:} 7 (1d6+4) piercing damage.",
+          "{@b Hand Crossbow.} {@i Ranged Weapon Attack:} +6 to hit, range 30/120 ft., one target. {@i Hit:} 6 (1d6+3) piercing damage.",
+          "{@b Poisoned Blade (Recharge 5-6).} Smigmal coats her blade with an insinuative poison (Type B). The next creature she hits must make a DC 13 Constitution saving throw, taking 25 poison damage over 2 rounds on a failure, or half on a success."
+        ]
+      },
+      {
+        "type": "entries",
+        "name": "Equipment",
+        "entries": [
+          "+1 Leather Armor, +2 Shield, +1 Shortsword, Hand Crossbow with 10 Bolts, {@item Ring of Invisibility}, Jeweled Belt (3,200 gp), Earrings (400 gp each), Secret Compartment (30 Bloodstones, 2 Pieces of Jewelry, 50 pp in a hidden belt pocket)"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "entries",
+    "name": "Lucius Graeme, Temple Agent (Courier)",
+    "entries": [
+      "Lucius Graeme, a Oeridian/Suel operative, commands attention—not through stature, but through an aura of quiet menace. His portly frame, draped in simple gray garments, conceals a calculating and dangerous mind. A small gray hat often shadows his scarred face, marked by an old injury from falling debris. His golden, asymmetrical eyes seem to uncover secrets no one wishes to reveal, and his smooth, unsettling voice has a way of disarming or unnerving listeners."
+    ]
+  },
+  {
+    "type": "entries",
+    "name": "Personality",
+    "entries": [
+      "Once a vain and cruel nobleman, Lucius's fall from grace left him with a bitter hatred for order and morality. Now, he is a manipulative schemer, wielding intelligence and deception like a blade. Beneath his calm exterior simmers a barely controlled rage, which he unleashes without mercy when provoked.",
+      {
+        "type": "list",
+        "items": [
+          "{@b Master Manipulator:} Feigns weakness, allowing enemies to underestimate him.",
+          "{@b Chaos as Power:} Believes disorder breeds opportunity, shaping the world in his image.",
+          "{@b Devotion to Elemental Forces:} Sees the primordial powers of the elemental planes as neither good nor evil—only tools for the strong."
+        ]
+      },
+      "\"{@i Chaos is the truest form of control—those who embrace it will shape the world to their will.}\" - Aldren"
+    ]
+  },
+  {
+    "type": "entries",
+    "name": "The Art of Deception",
+    "entries": [
+      "Lucius delights in playing the fool, allowing others to underestimate him while he quietly gathers intelligence and consolidates power. He thrives in chaos, seeing it as the ultimate tool of control. To him, the elemental planes are not moral forces, but raw engines of destruction and renewal, waiting to be harnessed by those strong enough to command them.",
+      "\"{@i Civilization is a fragile mask over the face of the elemental chaos. It's a shame when it breaks… or a delight.}\" - Lucius Graeme"
+    ]
+  },
+  {
+    "type": "entries",
+    "name": "Lucius Graeme",
+    "entries": [
+      "{@i Human Cleric Level 7, Neutral Evil}",
+      "{@i Armor Class 16 (chain shirt, shield)}",
+      "{@i Hit Points 45 (7d8-7)}",
+      "{@i Speed 30ft.}",
+      "{@i STR 16 (+3) | DEX 14 (+2) | CON 9 (-1) | INT 16 (+3) | WIS 16 (+3) | CHA 15 (+2)}",
+      "{@i Savings Throws Wisdom +6, Charisma +5}",
+      "{@i Skills Deception +5, Insight +6, Persuasion +5, Religion +5}",
+      "{@i Senses passive Perception 13}",
+      "{@i Languages Common, Abyssal, Gnome}",
+      "{@i Challenge 5 (1800 exp)}",
+      {
+        "type": "entries",
+        "name": "Traits",
+        "entries": [
+          "{@b Dark Devotion (Cleric of Evil).} Lucius has advantage on saving throws against being charmed or frightened.",
+          "{@b Fanatical Conviction.} When Lucius is reduced to 0 hit points, he can make a DC 10 Constitution saving throw. On a success, he drops to 1 hit point instead."
+        ]
+      },
+      {
+        "type": "entries",
+        "name": "Spellcasting",
+        "entries": [
+          "Spells Prepared (Spell Save DC 13, +5 to hit with spell attacks)",
+          "{@b Cantrips (at will):} {@spell Thaumaturgy}, {@spell Sacred Flame}, {@spell Spare the Dying}",
+          "{@b 1st level (4 slots):} {@spell Command} (x3), {@spell Cause Light Wounds}, {@spell Detect Magic}, {@spell Protection from Good}",
+          "{@b 2nd level (3 slots):} {@spell Detect Charm} (x2), {@spell Find Traps}, {@spell Hold Person} (x2), {@spell Silence} (15 ft. radius)",
+          "{@b 3rd level (2 slots):} {@spell Animate Dead}, {@spell Continual Darkness}, {@spell Dispel Magic}, {@spell Bestow Curse}",
+          "{@b 4th level (1 slot):} {@spell Control Water} (Elemental-themed control over the Elder Elemental God's power).",
+          "{@b Divination:} Used to communicate with the EEG (Zyggtmoy)."
+        ]
+      },
+      {
+        "type": "entries",
+        "name": "Actions",
+        "entries": [
+          "{@b Mace of the Withering.} {@i Melee Weapon Attack:} +7 to hit, reach 5 ft., one target. {@i Hit:} 8 (1d6+4) bludgeoning damage. The target must make a DC 13 Constitution saving throw or suffer 1 level of exhaustion. If the target is frightened, the attack deals an additional 1d6 necrotic damage.",
+          "{@b Unholy Smite (1/Day).} When Lucius hits with a melee attack, he deals an additional 14 (4d6) necrotic damage.",
+          "{@b Cloak of the Forsaken Veil (1/Day).} Lucius can cast {@spell Pass Without Trace} on himself without expending a spell slot. He also has advantage on Dexterity (Stealth) checks while wearing cloak.",
+          "{@b Amulet of the Shrouded One.} Lucius's alignment and location cannot be detected by divination magic (Detect Evil and Good, Commune, Divination, Scrying, etc.). He cannot be tracked by nonmagical means unless he allows it. Once per long rest, can cast {@spell Nondetection} on himself without expending a spell slot."
+        ]
+      }
+    ]
+  },
+  {
+    "type": "entries",
+    "name": "Political Relationships and Influence",
+    "entries": [
+      "Lucius Graeme is the Temple of Elemental Evil's most trusted courier and facilitator, operating in secrecy to connect its agents across Verbobonc, Nulb, and Hommlet. While not a direct leader, his role is crucial, ensuring covert communication between Hedrack and the Temple's external networks, all while manipulating powerful individuals behind the scenes.",
+      {
+        "type": "entries",
+        "name": "The Shadow Courier, Greater Temple",
+        "entries": [
+          {
+            "type": "entries",
+            "name": "Lakash Quallad (Brother of Lady Nysera)",
+            "entries": [
+              "A wealthy merchant in Verbobonc City, Lakash moves stolen goods, secures bribes, and launders Temple funds. Lucius ensures his loyalty, using him to manage financial transactions and smuggling routes."
+            ]
+          },
+          {
+            "type": "entries",
+            "name": "Lord Conner Bridgeforth (Political Manipulator)",
+            "entries": [
+              "A noble with political influence, Bridgeforth steers court rumors and noble alliances to serve the Temple's agenda. Lucius acts as his handler, ensuring his actions benefit the cult while keeping him from arousing suspicion."
+            ]
+          },
+          {
+            "type": "entries",
+            "name": "Madame Selentis (Nysera Krivaltis)",
+            "entries": [
+              "Formerly Lady Nysera Krivaltis, occupies a crucial yet covert role within the Temple of Elemental Evil's political and logistical framework in Nulb. Stripped of her title and presumed dead following her family's disgrace after the Battle of Emridy Meadows in 569 CY, she now operates under an alias as Hedrack's chief overseer in Nulb, managing critical supply lines, smuggling routes, and personnel transfers. Though officially distanced from her past identity, her ambition remains potent, now redirected fully into serving the Temple's sinister aims."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "entries",
+    "name": "Agents in Hommlet",
+    "entries": [
+      "Lucius Graeme oversees a network of spies and saboteurs in Hommlet, ensuring Temple influence remains hidden while disrupting local defenses.",
+      {
+        "type": "list",
+        "items": [
+          "{@b Gremag Gozlin (D&G Mercantile):} A shopkeeper-spy who tracks adventurer movements and relays reports to Lucius via coded messages.",
+          "{@b Joseph Millar (Doomwatch Construction Site):} A saboteur delaying the keep's construction, weakening Verbobonc's defensive efforts.",
+          "{@b Zert (Inn of the Welcome Wench):} A deadly agent posing as a mercenary, tasked with monitoring and eliminating threats."
+        ]
+      }
+    ]
+  },
+  {
+    "type": "entries",
+    "name": "Agents in Verbobonc City",
+    "entries": [
+      "Lucius's influence in Verbobonc City is stealthy but far-reaching, ensuring Temple gold flows through illicit trade routes while using noble connections to manipulate politics.",
+      {
+        "type": "list",
+        "items": [
+          "{@b Lakash Quallad's Merchant Network:} Launders stolen goods and bribes officials.",
+          "{@b Lord Bridgeforth:} Uses his noble status to steer political intrigue and suppress investigations."
+        ]
+      }
+    ]
+  },
+  {
+    "type": "entries",
+    "name": "Operations in Nulb",
+    "entries": [
+      "Lucius Graeme serves as the Temple of Elemental Evil's hidden hand in Nulb, ensuring the village remains a safe haven for cultists, mercenaries, and smugglers. His delicate alliance with Madame Selentis allows him to facilitate supplies, coin, and influence without drawing attention. Operating under the guise of a harmless gambler at the Waterside Hostel, he manipulates events from the shadows.",
+      {
+        "type": "entries",
+        "name": "The Alliance with Madame Selentis",
+        "entries": [
+          {
+            "type": "list",
+            "items": [
+              "{@b Mutual Benefit:} Lucius supports Selentis's bid for power in Nulb, viewing her as a valuable intermediary between the Temple and local factions. In return, she secures trade routes and ensures that bandit and pirate resources support Temple efforts.",
+              "{@b Information Exchange:} Lucius feeds Selentis intelligence on rival factions such as Dick Rentsch and Captain Garik Marath, while she funnels key information back to the Greater Temple.",
+              "{@b Selentis's Independence:} While willing to collaborate, Selentis's true ambition is reclaiming her family's honor, which doesn't always align with the Temple's agenda. Lucius keeps her under close watch, wary of potential betrayal.",
+              "{@b Conflict of Interests:} Lucius remains loyal to the Greater Temple, prioritizing domination and control, while Selentis seeks local influence. When necessary, he undermines her to prevent her from becoming a liability."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "entries",
+    "name": "The Gambler's Mask – Cover Identity",
+    "entries": [
+      "Lucius rarely acts openly, preferring to gather intelligence and manipulate events while maintaining a low profile.",
+      {
+        "type": "list",
+        "items": [
+          "{@b False Persona:} He masquerades as a harmless drunkard and gambler, lurking at the Waterside Hostel, always listening.",
+          "{@b Extracting Intel:} Through casual conversation and strategic questioning, he collects vital intelligence on new arrivals, merchant routes, and potential threats.",
+          "{@b Telltale Signs:} Observant adventurers might notice inconsistencies in his stories, his keen interest in security, or the way his gaze lingers on important discussions."
+        ]
+      },
+      "\"{@i Nature, civilization, good, evil—they're all pawns to the primordial forces that truly rule this world.}\" - Alden"
+    ]
+  },
+  {
+    "type": "inset",
+    "name": "Meeting Aldren (Lucius)",
+    "entries": [
+      "Aldren, draped in a well-worn cloak and clutching a weathered merchant's satchel, approaches the adventurers with a practiced, disarming smile. His smooth, slightly unnerving voice carries a friendly yet probing tone as he speaks: \"Ah, travelers! A fine day to find company on these lonely roads, wouldn't you agree? Allow me to introduce myself—just a humble merchant peddling wares and tales alike. The name's Aldren. Been wandering these hills for years, trading with the gnomes and passing adventurers like yourselves. Always an adventure out here, isn't it?\"",
+      "He adjusts his satchel, letting the faint glimmer of trinkets and oddities peek out, an inviting distraction as his golden eyes linger on each party member, assessing them carefully.",
+      "\"Tell me, friends, what brings you to the Kron Hills? It's not often I see a group like yours—armed and armored, yet with the air of purpose about you. Are you hunting treasure, seeking glory, or perhaps delivering some noble cause? The hills have no shortage of mysteries, I assure you.\"",
+      "Aldren leans forward conspiratorially, his tone dropping slightly, as if sharing a secret.",
+      "\"These parts have their dangers, mind you. Not just the usual bandits or wild beasts. Strange things—whispers of old powers stirring, unnatural storms, and… well, I hear tales of the Greenway Valley being less safe for travelers these days. Makes a man curious about what might draw someone like you to these parts. And perhaps… how I might be of assistance?\"",
+      "His voice softens further, laced with subtle charm and intrigue.",
+      "\"After all, we're all travelers here. A bit of information for a bit of coin—or a friendly exchange of stories. Who knows? Maybe our paths cross for a reason, eh?\"",
+      "Aldren smiles warmly, his golden eyes glinting faintly with a mix of feigned innocence and calculated intent."
+    ]
+  },
+  {
+    "type": "entries",
+    "name": "Final Confrontation",
+    "entries": [
+      "As the adventurers dismantle the elemental temples and cripple the cult's operations, Lucius Graeme grows desperate. In a final gambit, he unleashes the power of the Devastation Orb, aiming to turn the tide of battle through catastrophic elemental destruction. This confrontation will be a high-stakes test of the players' strategy and resilience.",
+      {
+        "type": "list",
+        "items": [
+          "{@b Divide & Conquer:} Lucius uses deception and misdirection to separate the adventurers, creating opportunities for ambushes.",
+          "{@b Psychological Warfare:} He manipulates the players, exploiting their personal motivations and sowing doubt among allies.",
+          "{@b Strategic Retreats:} If overwhelmed, he falls back to prearranged escape routes, using illusions, traps, and summoned creatures to delay pursuit."
+        ]
+      },
+      "{@b Princes of the Apocolypse} - Reference the Devastation Orb used by elemental cultists. Wizards of the Coast LLC"
+    ]
+  },
+  {
+    "type": "entries",
+    "name": "Personality in Combat Tactics",
+    "entries": [
+      "A master manipulator, Lucius avoids direct confrontation, instead wielding deception, bribery, and assassination to further the Temple's influence. He rarely acts alone, deploying a vast network of agents and informants to carry out his schemes while keeping his own hands clean.",
+      {
+        "type": "entries",
+        "name": "Strategic Actions",
+        "entries": [
+          "In battle, Lucius is a ruthless strategist, using psychological warfare to taunt and manipulate his foes. He mocks their failures, aiming to unnerve and divide them, exploiting their motivations and doubts. However, his overconfidence may be his undoing—Lucius underestimates the adventurers' resilience and adaptability, believing himself always in control.",
+          {
+            "type": "list",
+            "items": [
+              "Maintains Temple communication across Verbobonc, Nulb, and Hommlet.",
+              "Bribes and blackmails nobles and merchants to align them with Temple interests.",
+              "Oversees smuggling and caravan raids, ensuring stolen goods support the cult's expansion.",
+              "Eliminates threats quietly, using assassins to remove problematic individuals without exposing himself."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "entries",
+    "name": "Temple Operative",
+    "entries": [
+      "A priest of Iuz and Temple operative, Lucius Graeme was sent to serve Supreme Commander Hedrack. A master of ambition and chaos, he soon adapted, becoming a courier and facilitator for the Greater Temple, overseeing communication between Hommlet, Nulb, and the elemental outposts.",
+      "\"{@i I do not kill when I can persuade, nor destroy when I can corrupt. Why break when one can bend?}\""
+    ]
+  },
+  {
+    "type": "entries",
+    "name": "Romag, High Priest",
+    "entries": [
+      "Romag, the self-proclaimed Prophet of Earth, leads the Cult of the Black Earth within the Temple of Elemental Evil. Unlike his more ambitious rivals, Romag rose to power by inheriting the foundation laid by his predecessor, Barkinar. A pragmatic leader and skilled manipulator, he focuses on defense and fortification rather than expansion, though his position is constantly challenged by internal dissent and external rivalries."
+    ]
+  },
+  {
+    "type": "entries",
+    "name": "Prophet of Earth",
+    "entries": [
+      "Romag is an imposing figure of Oeridian/Flan descent, hardened by years of surviving the Temple's brutal hierarchy. His earthen-toned robes, adorned with gemstones infused with elemental power, reflect his devotion to the Black Earth.",
+      {
+        "type": "list",
+        "items": [
+          "Stout, weathered physique, muscular from years of physical endurance.",
+          "Brown and gray robes, symbolizing the resilience of the earth.",
+          "Wields a stone-etched warhammer, imbued with elemental magic."
+        ]
+      }
+    ]
+  },
+  {
+    "type": "entries",
+    "name": "Personality & Leadership",
+    "entries": [
+      "Romag is pragmatic, cautious, and calculating, but he lacks the charisma and ambition of other high priests. He prioritizes stability over conquest, fortifying his temple's defenses to withstand both internal power struggles and external threats.",
+      "However, his rule is fragile—unlike his predecessors, he struggles to inspire absolute fear or devotion, making him a constant target for ambitious subordinates.",
+      {
+        "type": "list",
+        "items": [
+          "{@b Defensive Focus:} Strengthens temple defenses rather than expanding influence.",
+          "{@b Calculating but Cautious:} Uses manipulation and alliances to maintain power.",
+          "{@b Struggles with Control:} Lacks the fearsome authority to suppress all dissent."
+        ]
+      }
+    ]
+  },
+  {
+    "type": "entries",
+    "name": "Earth Temple's Role in the Cult of the Elder Elemental God",
+    "entries": [
+      "Unlike the Greater Temple leaders, Romag and his followers are true believers in the Elder Elemental God. They see themselves as the chosen harbingers of the god's return and work tirelessly to fulfill its will. Earth Temple clerics wield powers related to stone manipulation, fortification, and crushing their foes."
+    ]
+  },
+  {
+    "type": "entries",
+    "name": "Romag's Forces",
+    "entries": [
+      "Romag commands a disciplined and growing military force, structured under his authoritarian rule. His soldiers and clerics form the Elemental Earth Reavers, a formidable force that aims to crush opposition.",
+      {
+        "type": "list",
+        "items": [
+          "Hartsch (Level 2 Cleric, Romag's Adept)",
+          "40 Human Temple Guards",
+          "20 Gnolls",
+          "2 Hobgoblins",
+          "Bugbear (enforcer and bodyguard)"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "entries",
+    "name": "Romag, High Priest",
+    "entries": [
+      "{@i Medium humanoid (human), Cleric level 4, lawful evil}",
+      "{@i Armor Class 16 (chain mail +2)}",
+      "{@i Hit Points 28 (4d8+12)}",
+      "{@i Speed 30ft.}",
+      "{@i STR 14 (+2) | DEX 17 (+3) | CON 15 (+2) | INT 13 (+1) | WIS 17 (+3) | CHA 13 (+1)}",
+      "{@i Saving Throws Wis +4, Cha +3}",
+      "{@i Skills Religion +3, Persuasion +4}",
+      "{@i Senses passive Perception 13}",
+      "{@i Languages Common, Terran}",
+      "{@i Challenge 1 (200 XP)}",
+      {
+        "type": "entries",
+        "name": "Traits",
+        "entries": [
+          "{@b Dark Blessing.} Romag has advantage on saving throws against being frightened or charmed.",
+          "{@b Earth's Resilience (1/Day).} As a reaction, Romag can gain resistance to bludgeoning, piercing, and slashing damage for 1 minute."
+        ]
+      },
+      {
+        "type": "entries",
+        "name": "Spellcasting",
+        "entries": [
+          "Romag is a 4th-level spellcaster (spell save DC 12, +4 to hit with spell attacks). He has the following prepared:",
+          "{@b Cantrips (at will):} {@spell Magic Stone}, {@spell Guidance}, {@spell Mold Earth}",
+          "{@b 1st level (3 slots):} {@spell Command}, {@spell Cure Wounds}, {@spell Bane}, {@spell Earth Tremor}",
+          "{@b 2nd level (2 slots):} {@spell Hold Person}, {@spell Earthbind}, {@spell Resist Fire}"
+        ]
+      },
+      {
+        "type": "entries",
+        "name": "Actions",
+        "entries": [
+          "{@b Mace +1.} {@i Melee Weapon Attack:} +4 to hit, reach 5 ft., one target. {@i Hit:} 7 (1d6+3) bludgeoning damage.",
+          "{@b Earth's Grip (Recharge 5-6).} {@i Melee Weapon Attack:} Romag causes the ground in a 10-ft. radius to tremble for 1 minute. Creatures moving through the area treat it as difficult terrain."
+        ]
+      }
+    ]
+  },
+  {
+    "type": "entries",
+    "name": "History of Romag",
+    "entries": [
+      {
+        "type": "entries",
+        "name": "Origins and Early Life",
+        "entries": [
+          "Romag's rise to power was not one of glory or divine providence, but of betrayal, endurance, and revenge. Born into a minor Oeridian noble house in Verbobonc, he spent his youth struggling under his father's failing landholdings. Dissatisfied with his fate, Romag abandoned his family's burdens and sought power in the priesthood, drawn to the forbidden teachings of the Elder Elemental God, which promised strength through elemental might.",
+          "His journey led him to a band of like-minded outcasts:",
+          {
+            "type": "list",
+            "items": [
+              "Dick Rentsch, a cunning manipulator.",
+              "Dala, Dick's ruthless lover.",
+              "Senshock, an ambitious wizard."
+            ]
+          },
+          "Together, they delved into lost ruins, searching for wealth and power. Though Romag served as their spiritual guide, his influence was overshadowed by Senshock's magic and Dick's scheming.",
+          "\"{@i You cannot bargain with stone. You cannot plead with earth. You will break before I do.}\" -Romag"
+        ]
+      },
+      {
+        "type": "entries",
+        "name": "Betrayal in the Dwarven Stronghold",
+        "entries": [
+          "The group's most infamous expedition led them into a forgotten dwarven stronghold deep within the Lortmil Mountains. Hoping to unearth wealth and arcane secrets, they ventured too far and encountered the fortress's ancient guardians—dwarven constructs and stone-clad sentinels. As the battle turned against them, Senshock made a ruthless decision—he sacrificed Romag, abandoning him to the enemy while ensuring his own escape alongside Dick and Dala.",
+          "Captured by the dwarves, Romag endured years of imprisonment—harsh interrogations, isolation, and the gnawing torment of betrayal. Yet within the stone walls of his prison, he deepened his connection to the power of earth, drawing strength from the very stone around him, biding his time for an opportunity to break free.",
+          "\"{@i I was buried once, left to rot beneath stone and soil. Now, I am the mountain that will crush them all.}\" -Romag",
+          "Meanwhile, Senshock returned to the Temple of Elemental Evil, leveraging their expedition's treasures to secure a high-ranking position within the Greater Temple, while Dick and Dala settled in Nulb, using their ill-gotten wealth to establish the Waterside Hostel, a hub for illicit dealings and information gathering.",
+          "\"{@i Senshock thinks himself untouchable, but even the tallest towers crumble when their foundations crack.}\""
+        ]
+      },
+      {
+        "type": "entries",
+        "name": "Escape and the Path to Revenge",
+        "entries": [
+          "After years of brutal captivity, Romag finally saw his chance for freedom during a skirmish within the dwarven stronghold. Using his deepened connection to earth magic and his understanding of subterranean passages, he orchestrated a daring escape, emerging into the wilderness as a changed man—hardened, vengeful, and more determined than ever.",
+          "His sole purpose became revenge—not only against those who betrayed him but against all who doubted his strength. Romag made his way back to civilization, following whispers of his former companions' whereabouts until he arrived at Nulb, where he found Dick Rentsch and Dala running the Waterside Hostel."
+        ]
+      },
+      {
+        "type": "entries",
+        "name": "A Reckoning in Nulb",
+        "entries": [
+          "Fueled by rage and betrayal, Romag confronted Dick and Dala, nearly killing them both in a violent outburst. However, the cunning duo turned his fury toward Senshock, painting him as the true traitor who orchestrated Romag's downfall. They pledged their loyalty to Romag, convincing him that Senshock's power was the true prize and that revenge would be best served from within the Temple itself.",
+          "Seeing opportunity in their offer, Romag spared them, forging an uneasy alliance. With Dick and Dala's knowledge of the Temple's politics and Nulb's underworld, Romag carefully reintegrated himself into the cult, using his old ties to Senshock to feign forgiveness and renewed loyalty."
+        ]
+      },
+      {
+        "type": "entries",
+        "name": "Climbing the Ranks",
+        "entries": [
+          "Senshock, sensing an opportunity to control Romag, arranged for him to become High Priest of the Earth Temple after Barkinar's promotion to the Greater Temple. However, despite his new title, Romag found himself leading the weakest of the four elemental factions.",
+          "Fire Temple Leader Alrrem viewed him as a cowardly fool, unworthy of his station. Water Temple High Priest Belsornig sought to manipulate him, using his faction as a pawn in his own power plays. Aware of his precarious position, Romag leveraged Dick and Dala's information network in Nulb to spy on his rivals. Slowly, he fed critical intelligence to Senshock and Barkinar, gaining favor within the Greater Temple while secretly hoarding knowledge for his own purposes.",
+          "Romag also expanded the Earth Temple's influence, quietly recruiting miners, mercenaries, and enforcers under the pretense of temple fortifications. While others saw the Earth Temple as stagnant, Romag was laying the groundwork for his own power play."
+        ]
+      },
+      {
+        "type": "entries",
+        "name": "The Long Game – A Path to Revenge",
+        "entries": [
+          "Yet, Romag's true goal remained unfulfilled—the downfall of Senshock. Knowing that open confrontation was suicidal, he patiently played the long game, feigning loyalty and submission, waiting for the perfect moment to strike."
+        ]
+      }
+    ]
+  },
+  {
+    "type": "entries",
+    "name": "Political Relationships",
+    "entries": [
+      "Romag sees himself as the stabilizing force within the Temple of Elemental Evil, believing Elemental Earth represents the temple's true foundation of power. He views the other elemental factions as reckless and undisciplined, favoring patience and fortification to slowly undermine them. Though outwardly loyal to Supreme Commander Hedrack and the Greater Temple, Romag harbors ambitions of expanding his influence, though his cautious nature prevents him from making bold moves like his rivals.",
+      "\"{@i Nulb is a swamp of fools and thieves, but even mud can serve a purpose if you shape it well.}\" - Romag"
+    ]
+  },
+  {
+    "type": "entries",
+    "name": "Influence in Nulb and Rivalry with Madame Selentis",
+    "entries": [
+      "Romag exercises subtle yet significant influence in Nulb through the manipulative dealings of Dick Rentsch, proprietor of the Waterside Hostel. Dick Rentsch, alongside his associate Dala, provides Romag a constant influx of recruits, spies, and intelligence on Nulb's shifting underworld. Yet, Romag's grip over Nulb faces continuous challenge from Madame Selentis (Lady Nysera), whose position as Hedrack's logistics overseer in Nulb threatens Romag's activities.",
+      "Romag resents Madame Selentis's growing influence, viewing her efforts to centralize power and command Nulb's illicit networks as dangerously counterproductive to his own careful plans. Though their rivalry remains largely subtle and cloaked in deniability, Romag constantly seeks ways to subvert her authority without provoking direct retaliation from Hedrack or Lucius."
+    ]
+  },
+  {
+    "type": "entries",
+    "name": "Key Political Alliances",
+    "entries": [
+      {
+        "type": "list",
+        "items": [
+          "{@b Dick Rentsch and Dala:} Essential informants and recruiters, though Romag trusts neither. Dick and Dala's constant pursuit of self-interest and coin makes them unreliable; Romag constantly seeks leverage over them.",
+          "{@b Senshock:} A dangerous rival whom Romag pretends to serve while plotting his downfall.",
+          "{@b Barkinar:} Once a mentor, now an obstacle to Romag's ambitions within the Temple.",
+          "{@b Madame Selentis (Nysera Krivaltis) (Major Rival):} Romag's primary adversary within Nulb; their ongoing power struggle shapes local Temple politics. He carefully undermines her logistical arrangements where possible, sabotaging minor shipments and planting misinformation to diminish her credibility.",
+          "{@b Belsornig, Water Temple:} Constantly attempts to maneuver Romag into his schemes, viewing him as a potentially useful pawn, carefully maintains distance, wary of Belsornig's network and manipulations.",
+          "{@b Alrrem, Fire Temple:} Holds contempt for Romag, seeing the Earth Temple as passive and weak."
+        ]
+      }
+    ]
+  },
+  {
+    "type": "entries",
+    "name": "Political Maneuvering - Greater Temple",
+    "entries": [
+      "Romag's measured tactics on the following principles:",
+      {
+        "type": "list",
+        "items": [
+          "{@b Patience Over Recklessness:} Romag invests long-term in spies, blackmail, and sabotage.",
+          "{@b Denial and Distance:} Maintains plausible deniability for all clandestine activities. Even Lucius Graeme struggles to conclusively trace Romag's influence.",
+          "{@b Steady Consolidation of Influence:} Prefers incremental advances, building an unassailable base of power before openly challenging rivals."
+        ]
+      },
+      {
+        "type": "entries",
+        "name": "Supreme Commander Hedrack",
+        "entries": [
+          "{@b Thoughts:} Views Hedrack as indulgent and too distracted by devotion to Iuz, leaving the Temple unstable.",
+          "{@b Strategy:} Maintains outward loyalty, subtly undermines Hedrack's efficiency through careful manipulation."
+        ]
+      },
+      {
+        "type": "entries",
+        "name": "Canon Belsornig of the Water Temple",
+        "entries": [
+          "{@b Thoughts:} Considers Belsornig his most cunning and dangerous rival.",
+          "{@b Strategy:} Deals cautiously; covertly sabotages Water Temple's supply lines to divert resources.",
+          "\"{@i Hedrack sits atop this Temple like a fat frog on a lily pad. Sooner or later, the pond will dry up.}\" - Belsornig"
+        ]
+      },
+      {
+        "type": "entries",
+        "name": "Prefect Alrrem of the Fire Temple",
+        "entries": [
+          "{@b Thoughts:} Sees Alrrem as reckless, threatening long-term stability.",
+          "{@b Strategy:} Strengthens defenses, alerts Hedrack to Alrrem's instability, uses gnoll forces to harass Fire Temple.",
+          "\"{@i Alrrem's fire burns brightly, but even the fiercest blaze leaves only ash and regret.}\" — Romag"
+        ]
+      },
+      {
+        "type": "entries",
+        "name": "Kelno of the Air Temple",
+        "entries": [
+          "{@b Private Thoughts:} Romag sees Kelno as weak and indecisive—a leader easily manipulated but not an immediate threat. However, he remains cautious of Kelno's attempts to forge alliances with rivals.",
+          "{@b Strategy:} Exploits Kelno's desperation, offering occasional support in exchange for intelligence on the Fire and Water Temples. Romag has spies among Kelno's bugbears to monitor the Air Temple's movements.",
+          "\"{@i Alrrem's fire burns brightly, but even the fiercest blaze leaves only ash and regret.}\" - Romag"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "entries",
+    "name": "Senshock Temple Wizard and Advisor",
+    "entries": [
+      "{@b Public Stance:} Cautious respect",
+      "{@b Private Thoughts:} Romag acknowledges Senshock's magical prowess but deeply distrusts his loyalty to Iuz. He believes Senshock meddles too much in Temple politics and keeps a watchful eye on him for signs of treachery.",
+      "{@b Strategy:} Romag maintains a formal relationship, offering limited support while ensuring the Earth Temple remains self-sufficient in magical resources. He avoids direct confrontation but keeps Senshock at arm's length."
+    ]
+  },
+  {
+    "type": "entries",
+    "name": "Commander Barkinar, Temple Troops",
+    "entries": [
+      "{@b Public Stance:} Courteous cooperation",
+      "{@b Private Thoughts:} Romag respects Barkinar's military discipline and sees potential for an alliance, though he remains wary of Barkinar's ambitions. Their shared appreciation for order makes Barkinar one of the few individuals Romag might genuinely trust.",
+      "{@b Strategy:} Romag cultivates a working relationship with Barkinar, offering logistical support while subtly steering him against Alrrem and Belsornig. He ensures the Earth Temple's forces remain disciplined and well-trained."
+    ]
+  },
+  {
+    "type": "entries",
+    "name": "Feldrin, Temple Security",
+    "entries": [
+      "{@b Public Stance:} Mutual respect",
+      "{@b Private Thoughts:} Romag sees Feldrin as competent but inflexible, an obstacle rather than a true rival. Feldrin's unwavering loyalty to Hedrack makes him dangerous, as any overreach by Romag could be reported directly to the Supreme Commander.",
+      "{@b Strategy:} Romag keeps his dealings with Feldrin strictly professional, ensuring Earth Temple activities remain within Temple regulations. He takes advantage of Feldrin's respect for order, positioning himself as the most stable and reliable of the elemental leaders."
+    ]
+  },
+  {
+    "type": "entries",
+    "name": "Falrinth (Temple Diviner and Occultist)",
+    "entries": [
+      "{@b Public Stance:} Dismissive indifference",
+      "{@b Private Thoughts:} Romag considers Falrinth an eccentric nuisance, obsessed with arcane mysteries and largely disconnected from Temple politics. However, he recognizes that the wizard's knowledge could be useful under the right circumstances.",
+      "{@b Strategy:} Romag avoids direct engagement with Falrinth but keeps tabs on his research through intermediaries, ensuring he stays informed of any occult discoveries that might shift the Temple's balance of power.",
+      "\"{@i The earth cares not for the mutterings of madmen.}\" - Romag"
+    ]
+  },
+  {
+    "type": "entries",
+    "name": "Smigmal Redhand Temple Assassin",
+    "entries": [
+      "{@b Public Stance:} Cordial wariness",
+      "{@b Private Thoughts:} Romag recognizes Smigmal as a dangerous operative and possible informant for his rivals. He suspects she gathers intelligence for Falrinth or Belsornig and takes measures to shield critical Earth Temple operations from her scrutiny.",
+      "{@b Strategy:} Romag keeps Smigmal at a distance, offering occasional \"gifts\" to maintain a façade of goodwill while ensuring his most trusted guards remain vigilant in her presence. He is quietly considering employing assassins of his own to counter her influence if necessary.",
+      "\"{@i A blade hidden in the dark is no match for stone walls and iron discipline.}\"- Romag"
+    ]
+  },
+  {
+    "type": "entries",
+    "name": "Tactics and Strategy",
+    "entries": [
+      "The Cult of the Black Earth, under Romag's leadership, excels in defensive warfare and siege tactics. They employ monsters like bulettes and ankhegs to create subterranean strongholds and trap-laden passageways. Romag prefers to avoid direct confrontation, using the terrain and his followers' expertise to wear down foes.",
+      {
+        "type": "entries",
+        "name": "Tactical Strengths",
+        "entries": [
+          "{@b Fortification:} Expert in defensive strongholds and underground networks.",
+          "{@b Ambush:} Uses terrain and tunnels to set traps.",
+          "{@b Endurance:} Prefers attrition-based tactics, outlasting enemies over prolonged engagements."
+        ]
+      }
+    ]
+  },
+  {
+    "type": "entries",
+    "name": "Kelno, High Priest",
+    "entries": [
+      "High Priest Kelno is the embittered and cunning leader of the Air Temple within the Temple of Elemental Evil. Once an ambitious cleric with grand designs, Kelno now stands as the sole survivor of his temple's leadership, his apprentices having been slain in the vicious power struggles between the elemental factions. Hailing from the lawless city of Narwell on The Wild Coast, Kelno brings a ruthless pragmatism and a keen eye for opportunity to the Temple's dark cause. He believes himself to be the true voice of Elemental Evil, despite his constant struggles against rival factions."
+    ]
+  },
+  {
+    "type": "entries",
+    "name": "Master of the Air Temple",
+    "entries": [
+      "Kelno is a wiry Oeridian/Suel man in his late forties with sharp, hawk-like features and piercing blue eyes that reflect both intelligence and paranoia. His dark, thinning hair is always meticulously combed back, and he wears chain mail beneath flowing gray robes adorned with swirling air motifs. His demeanor is cold and calculating, his every word chosen with precision to further his hidden goals. He is rarely seen without his enchanted cloak of protection and his prized mace +1."
+    ]
+  },
+  {
+    "type": "entries",
+    "name": "Background",
+    "entries": [
+      "Born in Narwell, a city known for its cunning thieves and ambitious bandits, Kelno grew up learning the value of alliances and betrayal. Drawn to the worship of the Elder Elemental Eye through whispered promises of power, he abandoned his previous faith in the Suel deity Norebo, god of luck and thieves, and joined the Temple's resurgence to seek his fortune.",
+      {
+        "type": "list",
+        "items": [
+          "Joined the Earth Temple initially but sought greater influence by shifting to the Air Temple.",
+          "Quickly rose through the ranks by undermining rivals and leveraging his connections in the Wild Coast to supply the Temple with mercenaries.",
+          "After the deaths of his apprentices at the hands of the Fire and Water Temples, Kelno has turned his focus to vengeance employing bugbears and gnolls."
+        ]
+      }
+    ]
+  },
+  {
+    "type": "entries",
+    "name": "Personality",
+    "entries": [
+      "Kelno is arrogant and fanatical, seeing himself as the true voice of Elemental Evil. He views the Elder Elemental God as an invisible storm, whispering chaos and destruction to those who will listen. Despite his confidence, he struggles with his diminishing influence and constant setbacks caused by rival factions. Kelno is a bitter, self-serving manipulator who thrives in the treacherous environment of the Temple. He has an intense hatred for both the Fire and Water Temples, blaming them for his setbacks, and is willing to bargain with anyone to see them suffer.",
+      "\"{@i I care not for their blind faith—I seek power, and I will have it.}\" - Kelno"
+    ]
+  },
+  {
+    "type": "entries",
+    "name": "Prefect Kelno",
+    "entries": [
+      "{@i Medium humanoid (human), Cleric (Level 5), chaotic evil}",
+      "{@i Armor Class 18 (+1 chain mail, ring of protection)}",
+      "{@i Hit Points 32 (5d8 + 10)}",
+      "{@i Speed 30ft.}",
+      "{@i STR 15 (+2) | DEX 17 (+3) | CON 14 (+2) | INT 11 (+0) | WIS 16 (+3) | CHA 13 (+1)}",
+      "{@i Saving Throws Wis +5}",
+      "{@i Skills Deception +3, History +2, Religion +4}",
+      "{@i Senses passive Perception 13}",
+      "{@i Languages Common, Goblin}",
+      "{@i Challenge 3 (700 XP)}",
+      {
+        "type": "entries",
+        "name": "Spellcasting",
+        "entries": [
+          "Kelno is a 5th-level spellcaster (Wisdom, Spell Save DC 13, +5 to hit).",
+          "{@b Cantrips (at will):} {@spell light}, {@spell mending}, {@spell resistance}, {@spell thunderclap}",
+          "{@b 1st level (4 slots):} {@spell command}, {@spell cure wounds}, {@spell protection from evil and good}, {@spell sanctuary}",
+          "{@b 2nd level (3 slots):} {@spell blindness/deafness}, {@spell dust devil}, {@spell gust of wind}, {@spell skywrite}, {@spell warding wind}",
+          "{@b 3rd level (2 slots):} {@spell protection from energy}"
+        ]
+      },
+      {
+        "type": "entries",
+        "name": "Special Equipment",
+        "entries": [
+          "+1 Chain Mail (AC bonus included)",
+          "{@item Ring of Protection} (+1 to AC and saving throws)",
+          "+1 Ridged Mace (1d8+3 slashing)",
+          "{@item Dagger of Venom} (1d4+4 piercing, DC 15 Con save or take 2d10 poison and be poisoned for 1 min, once per day)"
+        ]
+      },
+      {
+        "type": "entries",
+        "name": "Actions",
+        "entries": [
+          "{@b Dagger of Venom.} {@i Melee Weapon Attack:} +6 to hit, reach 5 ft. or range 20/60 ft., one target. {@i Hit:} 6 (1d4 + 4) piercing damage, DC 15 Con save or take 11 (2d10) poison damage and be poisoned for 1 min. (1/day)",
+          "{@b +1 Ridged Mace.} {@i Melee Weapon Attack:} +5 to hit, reach 5 ft., one target. {@i Hit:} 7 (1d8 + 3) slashing damage.",
+          "{@b Deathly Wind.} {@i Reactions:} Kelno magically deflects a ranged attack made against him, pushing the attacker back 10 ft. if within 60 ft. (DC 13 Dex save or knocked prone)."
+        ]
+      }
+    ]
+  },
+  {
+    "type": "entries",
+    "name": "Role in the Temple",
+    "entries": [
+      "Kelno commands the remnants of the Air Temple, maintaining his authority through bribery and mercenary contracts, primarily employing bugbears and gnolls. His quarters, though once opulent, now reflect his dwindling resources, as he exhausts his wealth in his relentless pursuit of power and vengeance. Despite these setbacks, Kelno remains a dangerous player, using deception and political maneuvering to maintain his position.",
+      {
+        "type": "list",
+        "items": [
+          "{@b Recruitment:} Maintains contacts in Narwell and Nulb to bring in additional forces to the Temple.",
+          "{@b Weather Manipulation:} Experiments with controlling weather patterns to disrupt enemies and instill fear.",
+          "{@b Espionage:} Uses spies within the Temple to monitor rival factions and report weaknesses.",
+          "{@b Survival Tactics:} Avoids direct combat, relying on hidden escape routes and misinformation.",
+          "{@b Political Maneuvering:} Feigns loyalty to Hedrack while exploiting internal conflicts to improve his standing."
+        ]
+      }
+    ]
+  },
+  {
+    "type": "entries",
+    "name": "Political Relationships",
+    "entries": [
+      "Kelno navigates the Temple's treacherous political landscape with cunning, forging temporary alliances while secretly plotting his own ascension.",
+      {
+        "type": "list",
+        "items": [
+          "{@b Hedrack (Supreme Commander):} Publicly loyal, but secretly despises his leadership and seeks to undermine him.",
+          "{@b Belsornig (Water Temple Leader):} His most dangerous rival; Kelno dreams of assassinating him.",
+          "{@b Alrrem (Fire Temple Leader):} Holds deep hatred for Alrrem, blaming him for past losses.",
+          "{@b Romag (Earth Temple Leader):} Considers him an easy pawn to manipulate in his schemes.",
+          "{@b Smigmal Redhand (Assassin Leader):} Regards her as a valuable but dangerous asset for covert operations."
+        ]
+      },
+      "\"{@i The winds of fate shift constantly; only fools stand against the storm.}\" - Kelno"
+    ]
+  },
+  {
+    "type": "entries",
+    "name": "Forces Under Kelno's Command",
+    "entries": [
+      "{@b Kelno's Bodyguards}} – Personal enforcers and guards.",
+      {
+        "type": "list",
+        "items": [
+          "Bugbears (16): Heavy shock troops used for raids and ambushes.",
+          "Gnolls (2): Mercenaries, scouts skilled in tracking.",
+          "Goblins (4): Runners, spies, and messengers.",
+          "{@b Potential Reinforcements from the Water Temple}:",
+          "Bugbear Chieftain: Considering shifting allegiance.",
+          "Bugbear Guards (4): His personal bodyguards who may join the Air Temple ranks."
+        ]
+      }
+    ]
+  },
+  {
+    "type": "entries",
+    "name": "Motivations and Goals",
+    "entries": [
+      {
+        "type": "entries",
+        "name": "Cult of the Howling Hatred (Air Temple)",
+        "entries": [
+          "Kelno and his followers of the Cult of the Howling Hatred (Air Temple) believe the Elder Elemental God manifests as an invisible storm, whispering secrets of chaos and destruction. To them, air is the ultimate force, capable of slowly eroding civilization until only the raw power of the elements remains.",
+          {
+            "type": "list",
+            "items": [
+              "{@b Belief:} The Elder Elemental God exists as a whispering storm, an unseen force of devastation and entropy.",
+              "{@b Goal:} Control the skies and weather, summoning hurricanes and violent winds to weaken enemies and sow terror.",
+              "{@b Vengeance:} Destroy the Fire and Water Temples, avenging his slain apprentices.",
+              "{@b Rebuild Power:} Expand his forces by recruiting mercenaries and bribing key figures.",
+              "{@b Escape Plan:} Always prepared to flee if the Temple falls, ensuring his survival."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "entries",
+    "name": "Temple Politics",
+    "entries": [
+      "Kelno is caught in the Temple's power struggles, constantly balancing alliances and betrayals.",
+      {
+        "type": "list",
+        "items": [
+          "{@b Belsornig (Water Temple Leader):} Seeks to manipulate humanoid forces away from the Air Temple by leveraging the Fire Temple's Alrrem as a looming threat.",
+          "{@b Fire vs. Air Conflict:} Kelno knows Belsornig is using Alrrem's aggression to destabilize him.",
+          "{@b Bugbear Loyalties:} The bugbear chieftain, wary of Belsornig's dealings with the trolls, has begun secret negotiations with Kelno.",
+          "{@b Troll Power Shift:} If Belsornig successfully secures the trolls' loyalty (Areas 203, 218-219), the bugbears (Areas 223-226) plan to defect en masse to the Air Temple."
+        ]
+      }
+    ]
+  },
+  {
+    "type": "entries",
+    "name": "Alrrem, Prefect",
+    "entries": [
+      "Prefect Alrrem is the cunning and ambitious leader of the Fire Temple, a once-powerful faction within the Temple of Elemental Evil. With his forces dwindling and influence waning, he is desperate to reclaim the former glory of his temple. Alrrem is known for his fiery temper, lavish appearance, and skill in political manipulation within the Temple's volatile hierarchy. His past is haunted by his betrayal of his own brother, Ashrem, an act that both secured his rise and now fuels his paranoia."
+    ]
+  },
+  {
+    "type": "entries",
+    "name": "Chief Cleric of the Fire Temple",
+    "entries": [
+      "Alrrem is a middle-aged Oeridian with a commanding presence, his features hardened by years of struggle and betrayal. A stocky build, piercing dark eyes, and a closely trimmed beard. He wears a resplendent robe of deep crimson with purple lining and golden trim, adorned with garnet-inlaid fire symbols and skull motifs. A gold fire amulet set with a ruby rests on a chain around his neck, a potent symbol of his fiery devotion. In battle, he is armed with a hammer +2, his magical chain mail and shield providing ample protection."
+    ]
+  },
+  {
+    "type": "entries",
+    "name": "Tactics and Strategy and Motivations",
+    "entries": [
+      {
+        "type": "list",
+        "items": [
+          "{@b Ultimatums and Threats:} Uses threats and promises of rewards to coerce allies and undermine enemies.",
+          "{@b Defensive Positioning:} Relies on his guards and clerics to hold the line in combat.",
+          "{@b Desperate Measures:} Will flee or sacrifice allies if the Fire Temple's survival is at risk.",
+          "{@b Reclaim Fire Temple Glory:} Desperately seeks to restore the Fire Temple's prominence.",
+          "{@b Crush Rivals:} Aims to eliminate Belsornig and Kelno as threats to his dominance.",
+          "{@b Secure Earth Temple Alliance:} Attempts to manipulate Romag into supporting the Fire Temple."
+        ]
+      }
+    ]
+  },
+  {
+    "type": "entries",
+    "name": "Alrrem's Command",
+    "entries": [
+      {
+        "type": "list",
+        "items": [
+          "Commander Varek Redflame (Level 5 Fighter): Fire Guards Leader, enforcer of Alrrem's will.",
+          "Werewolves (2): Savage enforcers used for ambushes and assassinations.",
+          "Bugbears (7): Shock troops deployed for ambushes and temple defense.",
+          "Thogran Ashmaw Half-Orc Cleric/Fighter (Level 3/3): Liaison to Bugbear Guards",
+          "Othrel the Blackened Curate (Level 4 Cleric): Ritual Specialist",
+          "Vrogg Flameskin Troll, Hydra Keeper (Level 6)"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "entries",
+    "name": "Alrrem, Prefect",
+    "entries": [
+      "{@i Medium humanoid (human), Cleric (Level 5), chaotic evil}",
+      "{@i Armor Class 21 (+2 chain mail, +1 shield)}",
+      "{@i Hit Points 42 (5d8 + 10)}",
+      "{@i Speed 30ft.}",
+      "{@i STR 12 (+1) | DEX 16 (+3) | CON 14 (+2) | INT 10 (+0) | WIS 16 (+3) | CHA 14 (+2)}",
+      "{@i Savings Throws Con +4, Wis +5}",
+      "{@i Skills Deception +4, Intimidation +4, Religion +2}",
+      "{@i Senses passive Perception 13}",
+      "{@i Languages Common, Goblin}",
+      "{@i Challenge 4 (1,100 XP)}",
+      {
+        "type": "entries",
+        "name": "Special Equipment",
+        "entries": [
+          "+2 Chain Mail (AC bonus included), +1 Shield, +2 Warhammer (engraved with fire runes)"
+        ]
+      },
+      {
+        "type": "entries",
+        "name": "Traits",
+        "entries": [
+          "{@b Burning Eminence.} As a bonus action, Alrrem can expend a spell slot to make his melee weapon attacks deal an additional 10 (3d6) fire damage until the end of the turn. Expend a 2nd-level spell slot or higher, fire damage increases by 1d6 per level.",
+          "{@b Dark Devotion.} Alrrem has advantage on saving throws against being charmed or frightened."
+        ]
+      },
+      {
+        "type": "entries",
+        "name": "Spellcasting",
+        "entries": [
+          "Alrrem is a 5th-level spellcaster (Wisdom, Spell Save DC 13, +5 to hit).",
+          "{@b Cantrips (at will):} {@spell control Flames}, {@spell create bonfire}, {@spell light}, {@spell resistance}, {@spell sacred flame}, {@spell thaumaturgy}",
+          "{@b 1st level (4 slots):} {@spell command}, {@spell cure wounds}, {@spell sanctuary}",
+          "{@b 2nd level (3 slots):} {@spell blindness/deafness}, {@spell flaming arrows}, {@spell hold person}, {@spell pyrotechnics}, {@spell spiritual weapon}",
+          "{@b 3rd level (2 slots):} {@spell dispel magic}, {@spell flame walk}"
+        ]
+      },
+      {
+        "type": "entries",
+        "name": "Actions",
+        "entries": [
+          "{@b Multiattack.} Alrrem makes two melee weapon attacks.",
+          "{@b +2 Warhammer.} {@i Melee Weapon Attack:} +5 to hit, reach 5 ft., one target. {@i Hit:} 7 (1d8 + 3) bludgeoning damage, or 8 (1d10 + 3) if wielded with two hands.",
+          "{@b Light Hammer.} {@i Melee Weapon Attack:} +3 to hit, reach 5 ft. or range 20/60 ft., one target. {@i Hit:} 3 (1d4 + 1) bludgeoning damage."
+        ]
+      }
+    ]
+  },
+  {
+    "type": "entries",
+    "name": "History and Background",
+    "entries": [
+      "Alrrem and his brother Ashrem was born and raised in Dyvers, where he served as a lesser priest of the Oeridian goddess Sotillion, seeking wealth and influence. His brother Ashrem, a priest of Wenta, served alongside him. The two siblings were lured into the Temple of Elemental Evil by Hedrack, who appealed to their ambition through opulence and indulgence. Both brothers found themselves initiated into the Temple—Alrrem to the Fire Temple and Ashrem to the Air Temple, their natural inclinations guiding their choices.",
+      "Alrrem proved to be a natural leader within the Fire Temple, rising through the ranks quickly.",
+      "However, his leadership faltered in the aftermath of The Battle of Emridy Meadows, where the forces of the Temple were decisively defeated.",
+      {
+        "type": "list",
+        "items": [
+          "During the First Temple's fall, his faction led a disastrous offensive, leading to their decline in power.",
+          "He betrayed his brother Ashrem, offering him as a sacrifice to the Elder Elemental God, an act that cemented his position but left him emotionally scarred.",
+          "Alrrem's faction never fully recovered, and now he struggles to regain dominance by manipulating rival factions."
+        ]
+      }
+    ]
+  },
+  {
+    "type": "entries",
+    "name": "The Betrayal of Ashrem",
+    "entries": [
+      "As the Fire Temple rose in prominence, Alrrem saw an opportunity to consolidate power. Fearful of his brother's growing influence within the Air Temple, Alrrem conspired with his rivals and betrayed Ashrem, offering him as a sacrifice to the Elemental Nodes.",
+      "However, unknown to Alrrem, Ashrem survived the ordeal, using his magic to heal his wounds and escape into the labyrinthine depths of the nodes. Now trapped, Ashrem has become a vengeful figure lurking in the shadows, plotting against his brother and waiting for the moment to strike back. Though Alrrem publicly claims indifference, the knowledge of his brother's survival gnaws at his mind, driving him to increasing paranoia."
+    ]
+  },
+  {
+    "type": "entries",
+    "name": "Personality and Motivation",
+    "entries": [
+      "Alrrem is a desperate and ambitious leader, fully aware that his temple's power is waning. He is both cunning and reckless, willing to take great risks to restore the Fire Temple's former glory.",
+      {
+        "type": "list",
+        "items": [
+          "{@b Manipulative Opportunist:} Seeks alliances and exploits weaknesses among his rivals.",
+          "{@b Loyal to Fire:} Believes in the destructive purity of elemental fire and the inevitable dominance of his temple.",
+          "{@b Vengeful and Resentful:} Holds grudges against those who have wronged him, especially the Water and Air Temples."
+        ]
+      }
+    ]
+  },
+  {
+    "type": "entries",
+    "name": "Role in Temple Politics",
+    "entries": [
+      "Alrrem, the embattled leader of the Fire Temple, is desperate to reclaim his faction's former glory. With fewer resources and declining influence, he relies on bluster, intimidation, and reckless ambition to assert himself. Alrrem considers himself the rightful ruler of the Temple of Elemental Evil, believing that fire's destructive power is the only true path to dominance. He views the other elemental factions with disdain, considering them weak and misguided. Despite his bravado, he is pragmatic enough to understand the need for temporary alliances.",
+      {
+        "type": "entries",
+        "name": "Supreme Commander Hedrack (Greater Temple Leader, Mouth of Iuz)",
+        "entries": [
+          "{@b Public Stance:} Resentful obedience",
+          "{@b Private Thoughts:} Alrrem despises Hedrack, believing that his obsession with Iuz has corrupted the Temple's original purpose. However, he outwardly swears loyalty, hoping to usurp him.",
+          "{@b Strategy:} Alrrem feigns obedience while secretly working to gather enough strength to challenge Hedrack's leadership. He constantly undermines the Greater Temple's authority by stoking tensions between factions."
+        ]
+      },
+      {
+        "type": "entries",
+        "name": "Canon Belsornig (High Priest of the Water Temple)",
+        "entries": [
+          "{@b Public Stance:} Open hostility and rivalry",
+          "{@b Private Thoughts:} Belsornig's Alrrem's greatest rival and the biggest obstacle to his ambitions. Alrrem sees the Water Temple's influence as an insidious threat that must be eradicated.",
+          "{@b Strategy:} Alrrem has launched multiple sabotage attempts against the Water Temple, seeking to weaken Belsornig's forces and credibility. He openly antagonizes him in meetings and commands his minions to spread misinformation about Water Temple corruption."
+        ]
+      }
+    ]
+  },
+  {
+    "type": "entries",
+    "name": "Romag (High Priest of the Earth Temple)",
+    "entries": [
+      "{@b Public Stance:} Scornful dismissal",
+      "{@b Private Thoughts:} Alrrem views Romag as a slow and ponderous fool, too concerned with fortifications and patience to be a real threat. However, he secretly fears the Earth Temple's steady growth.",
+      "{@b Strategy:} Alrrem attempts to lure Romag into rash actions by provoking him through minor skirmishes and insults. He hopes to force the Earth Temple into conflict with the Water Temple, weakening both while Fire regains its power.",
+      "\"{@i Romag thinks his stones will last forever, but even the mightiest mountain can be reduced to ash.}\" - Alrrem"
+    ]
+  },
+  {
+    "type": "entries",
+    "name": "Kelno (High Priest of the Air Temple)",
+    "entries": [
+      "{@b Public Stance:} Contempt and condescension",
+      "{@b Private Thoughts:} Alrrem sees Kelno as a spineless opportunist, incapable of real leadership. He does not consider the Air Temple a threat but remains wary of Kelno's willingness to switch allegiances.",
+      "{@b Strategy:} Alrrem uses Kelno as a pawn, feeding him false promises of alliances while secretly undermining him. He encourages Kelno's paranoia, ensuring the Air Temple remains too weak."
+    ]
+  },
+  {
+    "type": "entries",
+    "name": "Senshock (Temple Wizard and Advisor to Hedrack)",
+    "entries": [
+      "{@b Public Stance:} Tenuous cooperation",
+      "{@b Private Thoughts:} Alrrem respects Senshock's magical power but finds him insufferable and meddlesome. He believes the wizard's loyalty to Hedrack makes him dangerous.",
+      "{@b Strategy:} Alrrem works to keep Senshock occupied with petty intrigues and false leads, preventing him from focusing on the Fire Temple's activities. He seeks ways to counter Senshock's influence by recruiting his own spellcasters."
+    ]
+  },
+  {
+    "type": "entries",
+    "name": "Commander Barkinar (Commander of the Greater Temple Troops)",
+    "entries": [
+      "{@b Public Stance:} Mutual distrust",
+      "{@b Private Thoughts:} Alrrem sees Barkinar as a dangerous rival and a potential challenger to his position. Barkinar's growing influence over the Temple's military forces threatens Alrrem's fragile grip on power.",
+      "{@b Strategy:} Alrrem attempts to weaken Barkinar by undermining his relationships with other factions, particularly through bribing the mercenaries under his command. He seeks to turn the rank-and-file troops against Barkinar with promises of wealth and glory under the Fire Temple.",
+      "\"{@i Barkinar plays the long game, but he'll find that my fire consumes everything in time.}\" - Alrrem"
+    ]
+  },
+  {
+    "type": "entries",
+    "name": "Feldrin (Commander of Temple Security)",
+    "entries": [
+      "{@b Public Stance:} Respectful cooperation",
+      "{@b Private Thoughts:} Feldrin's loyalty to Hedrack makes him a dangerous obstacle, but Alrrem respects his tactical mind and military discipline.",
+      "{@b Strategy:} Alrrem treats Feldrin with respect and provides logistical support in an attempt to gain his trust. He hopes to one day sway Feldrin's loyalty away from Hedrack and toward his own cause."
+    ]
+  },
+  {
+    "type": "entries",
+    "name": "Falrinth (Temple Diviner and Occultist)",
+    "entries": [
+      "{@b Public Stance:} Disdainful amusement",
+      "{@b Private Thoughts:} Alrrem considers Falrinth an eccentric fool obsessed with ancient mysteries. However, he fears the wizard's divinations may expose his secret dealings.",
+      "{@b Strategy:} Alrrem keeps his distance from Falrinth, ensuring his plans remain hidden. He occasionally supplies him with trinkets and false information to keep him distracted. \"{@i Falrinth searches for answers in the dirt. Let him, while I shape the future in fire.}\""
+    ]
+  },
+  {
+    "type": "entries",
+    "name": "Smigmal Redhand (Temple Assassin and Spy, Lover of Falrinth)",
+    "entries": [
+      "{@b Public Stance:} Distrustful neutrality",
+      "{@b Private Thoughts:} Alrrem recognizes Smigmal as a dangerous wildcard who could shift alliances at any moment. He knows she is gathering intelligence on behalf of Falrinth and possibly others.",
+      "{@b Strategy:} Alrrem keeps Smigmal at arm's length, offering her occasional bribes and missions to keep her from turning against him. He is always wary of her presence and has contingency plans in place to eliminate her if necessary. \"{@i Smigmal is a viper; useful, but you'd best not turn your back on her.}\""
+    ]
+  },
+  {
+    "type": "entries",
+    "name": "Ashrem (Former Air Temple Leader)",
+    "entries": [
+      "Alrrem's betrayal of his brother, leading to Ashrem's sacrifice, haunts him to this day. A dark specter from Alrrem's past; though believed dead, his brother's survival weighs heavily on his mind."
+    ]
+  },
+  {
+    "type": "entries",
+    "name": "Current Strategy",
+    "entries": [
+      {
+        "type": "list",
+        "items": [
+          "Sending ultimatums to the Earth Temple, offering rewards for their allegiance.",
+          "Secretly colluding with mercenaries and bandits in Nulb to increase his forces.",
+          "Planting false rumors to cause dissension within rival temples."
+        ]
+      }
+    ]
+  },
+  {
+    "type": "inset",
+    "name": "Prefect Alrrem Written Message to High Priest Romag of the Earth Temple",
+    "entries": [
+      "\"Your rewards will be great if you bend your knee to Fire. Bring all of your forces here to me now, and swear fealty. If you fail to heed this advice…\""
+    ]
+  },
+  {
+    "type": "entries",
+    "name": "Alrrem's Final Words",
+    "entries": [
+      "\"{@i Hedrack is blind to the Temple's true purpose. Fire will purge his corruption soon enough.}\"- Alrrem"
+    ]
+  },
+  {
+    "type": "entries",
+    "name": "Belsornig, Canon",
+    "entries": [
+      "A master of political intrigue and manipulation, Canon Belsornig is the cunning and ambitious High Priest of the Water Temple within the Temple of Elemental Evil. Unlike his more reckless counterparts, Belsornig carefully orchestrates his rise to power, working through a vast network of spies and agents both inside the Temple and in Nulb. His ultimate goal is nothing short of domination, reshaping the Temple in his own vision of destruction and rebirth through water."
+    ]
+  },
+  {
+    "type": "entries",
+    "name": "Appearance and Personality",
+    "entries": [
+      "{@b Appearance:} A wiry, middle-aged Oeridian/Suel with an aquiline nose and piercing blue eyes that seem to see through any deception. His silver-threaded black hair is slicked back, and his robes, embroidered with aquatic motifs, reflect his devotion to the power of water.",
+      "{@b Personality:} Arrogant and manipulative, Belsornig delights in outsmarting his enemies and peers. He thrives on chaos and views the struggles within the Temple as a proving ground for his superiority. While capable of extreme cruelty, he can feign kindness to manipulate those around him."
+    ]
+  },
+  {
+    "type": "entries",
+    "name": "Background",
+    "entries": [
+      "Born in Hardby, near the Woolly Bay, Belsornig spent years navigating political intrigue in his homeland before being drawn to the Temple of Elemental Evil. He saw in the Water Temple an opportunity to wield true power, quickly climbing the ranks by exploiting rival factions and eliminating threats with surgical precision.",
+      {
+        "type": "list",
+        "items": [
+          "{@b Rise to Power:} Gained favor with the Greater Temple leadership by delivering key victories, solidifying his position as head of the Water Temple.",
+          "{@b Philosophy:} Believes the world must be reshaped through destruction and cleansing floods, aligning his vision with the power of the elemental forces he serves."
+        ]
+      }
+    ]
+  },
+  {
+    "type": "entries",
+    "name": "Role in the Temple",
+    "entries": [
+      "As High Priest of the Water Temple, Belsornig commands a powerful faction, using charisma and cunning to expand his influence.",
+      {
+        "type": "list",
+        "items": [
+          "{@b Leadership}} – A dangerous rival within the Temple, he seeks to dominate the other elemental factions.",
+          "{@b Factional Politics}} – Undermines the Air and Fire Temples while courting an alliance with Romag of the Earth Temple.",
+          "{@b Strategic Alliances}} – Feigns cooperation with the Fire Temple to weaken the Earth Temple's position."
+        ]
+      }
+    ]
+  },
+  {
+    "type": "entries",
+    "name": "Canon Belsornig",
+    "entries": [
+      "{@i Medium Humanoid (Human), Cleric level 6, Chaotic Evil}",
+      "{@i Armor Class 20 (+1 plate, Dual Wielder)}",
+      "{@i Hit Points 45 (6d8 + 18)}",
+      "{@i Speed 30ft.}",
+      "{@i STR 15 (+2) | DEX 18 (+4) | CON 16 (+3) | INT 13 (+1) | WIS 16 (+3) | CHA 15 (+2)}",
+      "{@i Saving Throws Dex +7, Wis +6}",
+      "{@i Condition Immunities Paralyzed & Restrained (Ring of Free Action)}",
+      "{@i Senses passive Perception 16}",
+      "{@i Languages Common, Giant, Goblin}",
+      "{@i Challenge 5 (1,800 XP)}",
+      {
+        "type": "entries",
+        "name": "Traits",
+        "entries": [
+          "{@b Dark Devotion.} Advantage on saving throws against being Charmed or Frightened.",
+          "{@b Dual Wielder.} +1 AC while wielding two melee weapons; can draw or stow two one-handed weapons per turn.",
+          "{@b Virulent Strike.} As a bonus action, Belsornig may expend a spell slot to deal 4d6 necrotic damage on melee hits until the end of his turn."
+        ]
+      },
+      {
+        "type": "entries",
+        "name": "Spellcasting",
+        "entries": [
+          "6th-level spellcaster (Wisdom, DC 14, +6 to hit)",
+          "{@b Cantrips (at will):} {@spell Light}, {@spell Resistance}, {@spell Frostbite}, {@spell Shape Water}",
+          "{@b 1st (4/day):} {@spell Command}, {@spell Cure Wounds}, {@spell Ice Knife}",
+          "{@b 2nd (3/day):} {@spell Hold Person}, {@spell Prayer of Healing}, {@spell Silence}, {@spell Spiritual Weapon}",
+          "{@b 3rd (3/day):} {@spell Dispel Magic}, {@spell Wall of Water}"
+        ]
+      },
+      {
+        "type": "entries",
+        "name": "Actions",
+        "entries": [
+          "{@b Multiattack.} Belsornig makes two melee attacks, one with each weapon.",
+          "{@b Mace of Smiting.} {@i Melee Weapon Attack:} +6 to hit (+8 vs. constructs), 5 ft. range. {@i Hit:} 6 (1d6 + 3) bludgeoning, or 8 (1d6 + 5) vs. constructs. {@i Crit:} +7 bludgeoning, or +14 vs. constructs. Destroys constructs with 25 HP or less.",
+          "{@b Mace.} {@i Melee Weapon Attack:} 5 to hit, 5 ft. range. {@i Hit:} 5 (1d6 + 2) bludgeoning."
+        ]
+      }
+    ]
+  },
+  {
+    "type": "entries",
+    "name": "Relationships",
+    "entries": [
+      "Belsornig maintains a facade of loyalty to the Greater Temple but secretly plots to usurp its leadership, believing that the power of elemental water is the key to dominance. He views his rivals within the Temple as obstacles to be manipulated or removed and uses his extensive network of agents to further his ambitions. His alliances are based solely on pragmatism, and he will betray anyone if it serves his interests.",
+      {
+        "type": "entries",
+        "name": "Hedrack (Supreme Commander)",
+        "entries": [
+          "{@b Public Stance:} Feigned loyalty",
+          "{@b Private Thoughts:} Sees Hedrack as an overindulgent ruler whose distractions leave the Temple vulnerable to internal coups.",
+          "{@b Strategy:} Belsornig remains outwardly deferential, as a loyal supporter of the Greater Temple's goals. In truth, he works behind the scenes to weaken Hedrack's influence, seeking to replace him. He uses agents within the Greater Temple to sow discord and ensure that Hedrack remains distracted."
+        ]
+      },
+      {
+        "type": "entries",
+        "name": "Romag (High Priest of the Earth Temple)",
+        "entries": [
+          "{@b Public Stance:} Pretends to consider an alliance",
+          "{@b Private Thoughts:} Views Romag as a narrow-minded zealot who lacks the vision to wield true power.",
+          "{@b Strategy:} Belsornig manipulates Romag by offering false promises of alliance against Kelno and Alrrem while ensuring the Earth Temple remains too weak to act independently. He uses Romag's desire for stability while keeping him reliant on his resources."
+        ]
+      },
+      {
+        "type": "entries",
+        "name": "Kelno (High Priest of the Air Temple)",
+        "entries": [
+          "{@b Public Stance:} Dominating pressure and threats",
+          "{@b Private Thoughts:} Considers Kelno weak and easily manipulated; views him as a tool against Alrrem.",
+          "{@b Strategy:} Belsornig enjoys intimidating Kelno, using both political maneuvering and military pressure to keep the Air Temple subservient. He encourages Kelno's paranoia by planting false information about threats from Alrrem. Also bribing his bugbears."
+        ]
+      },
+      {
+        "type": "entries",
+        "name": "Alrrem (High Priest of the Fire Temple)",
+        "entries": [
+          "{@b Public Stance:} Open hostility and political threat.",
+          "{@b Private Thoughts:} Views Alrrem as his most dangerous rival and actively seeks to destroy him.",
+          "{@b Strategy:} Belsornig works to subvert Alrrem's remaining forces, spreading dissent among his troops and funding spies. To turn Alrrem's own bugbear mercenarie with promises of greater wealth. If given the opportunity, Belsornig will not hesitate to expose Alrrem's weaknesses to Hedrack."
+        ]
+      },
+      {
+        "type": "entries",
+        "name": "Senshock (Lord Wizard of the Greater Temple)",
+        "entries": [
+          "{@b Public Stance:} Polite but distant cooperation",
+          "{@b Private Thoughts:} Recognizes Senshock's value but distrusts him deeply.",
+          "{@b Strategy:} Belsornig carefully avoids confrontation with Senshock, instead seeking to use the wizard's desire for power against him. He provides misinformation to keep Senshock focused on other targets. He knows Senshock's loyalty is to power alone, and he would strike a deal."
+        ]
+      },
+      {
+        "type": "entries",
+        "name": "Falrinth (Temple Diviner and Occultist)",
+        "entries": [
+          "{@b Public Stance:} Cordial but dismissive",
+          "{@b Private Thoughts:} Considers Falrinth a madman.",
+          "{@b Strategy:} Belsornig largely ignores Falrinth, viewing him as obsessed with arcane mysteries. He keeps an eye on Falrinth's discoveries, recognizing that the wizard's obsession with forbidden knowledge could eventually produce something valuable."
+        ]
+      },
+      {
+        "type": "entries",
+        "name": "Smigmal Redhand (Temple Assassin and Spy, Lover of Falrinth)",
+        "entries": [
+          "{@b Public Stance:} Cautious neutrality",
+          "{@b Private Thoughts:} Views Smigmal as an unpredictable threat and potential asset.",
+          "{@b Strategy:} Belsornig regards Smigmal with a mix of wariness and intrigue. As Falrinth's lover, she holds influence over the enigmatic diviner, making her a valuable pawn. He has approached Smigmal with offers of wealth and power in an attempt to turn her against her lover. However, he remains cautious, knowing that she is a deadly assassin."
+        ]
+      },
+      {
+        "type": "entries",
+        "name": "Commander Barkinar (Temple Troops Commander)",
+        "entries": [
+          "{@b Public Stance:} A necessary ally",
+          "{@b Private Thoughts:} Sees Barkinar as a dangerous yet pragmatic soldier who can be swayed.",
+          "{@b Strategy:} Belsornig keeps Barkinar close, offering tactical resources in exchange for loyalty. He understands that Barkinar ultimately serves whoever offers the greatest advantage."
+        ]
+      },
+      {
+        "type": "entries",
+        "name": "Commander Feldrin (Sub-Level Security Chief)",
+        "entries": [
+          "{@b Public Stance:} Contemptuous but professional",
+          "{@b Private Thoughts:} Considers Feldrin a threat, given his deep loyalty to Hedrack.",
+          "{@b Strategy:} Belsornig takes care to avoid open conflict with Feldrin."
+        ]
+      }
+    ]
+  },
+  {
+    "type": "entries",
+    "name": "Gefreid Patris",
+    "entries": [
+      "Gefreid Patris is the ruthless overseer stationed at the Hunting Cottage, a critical logistical hub for the Temple of Elemental Evil. Directly appointed by Commander Feldrin, he supervises the covert flow of prisoners, supplies, and stolen goods between Nulb and the Greater Temple through a secret, well-guarded tunnel. Cold, calculating, and brutally pragmatic, Gefreid ensures his operations run smoothly, tolerating no errors from his handpicked bandits.",
+      "\"{@i This cottage is just a hunting lodge, nothing more. You'd best turn back before you see something you shouldn't.}\" - Gefreid"
+    ]
+  },
+  {
+    "type": "entries",
+    "name": "Personality",
+    "entries": [
+      {
+        "type": "list",
+        "items": [
+          "{@b Manipulative:} Quick to exploit weaknesses and instill fear in his subordinates.",
+          "{@b Pragmatic:} Focused on results, Gefreid values efficiency above loyalty, and is willing to make sacrifices for the success of his operations.",
+          "{@b Callous:} Treats prisoners and slaves as disposable resources, showing no empathy or remorse.",
+          "{@b Isolationist:} Prefers remote locales like the Gnarley Forest, away from prying eyes and meddling outsiders."
+        ]
+      }
+    ]
+  },
+  {
+    "type": "entries",
+    "name": "Behaviors",
+    "entries": [
+      {
+        "type": "list",
+        "items": [
+          "Lets his lieutenant handle most interactions with strangers, appearing as a humble hunter when needed to maintain secrecy.",
+          "Ensures patrols and defensive snares surround the cottage and barn, maintaining vigilant perimeter.",
+          "Uses deceptive hospitality to delay or mislead outsiders who approach the cottage."
+        ]
+      },
+      "\"{@i I don't like to kill for fun. But if you force my hand, I won't lose sleep over it.}\" - Gefreid"
+    ]
+  },
+  {
+    "type": "entries",
+    "name": "Background and Temple Operations",
+    "entries": [
+      "Originally a member of a mercenary company, Gefreid was cast out for his excessive brutality. Recruited into the Temple of Elemental Evil by Feldrin, he found his calling overseeing the Hunting Cottage's operations.",
+      {
+        "type": "list",
+        "items": [
+          "{@b Assignment:} Stationed at the Hunting Cottage, Gefreid views his role as both a privilege and an opportunity to profit from the Temple's supply chain.",
+          "{@b Managing Supply Chains:} Receiving shipments of prisoners, supplies, and loot from bandits and pirates.",
+          "{@b Enforcing Order:} Keeping greater temple guards and bandit mercenaries disciplined and focused.",
+          "{@b Maintaining Secrecy:} Ensuring no outsiders discover the covert operations leading to the Greater Temple.",
+          "{@b Slavery Logistics:} Gefreid coordinates closely with Madame Selentis and her men, an agent of Hedrack to bring prisoners from the Boatman's Tavern and Wainwright of Nulb to the Cottage."
+        ]
+      }
+    ]
+  },
+  {
+    "type": "entries",
+    "name": "Gefreid Patris",
+    "entries": [
+      "{@i Medium Humanoid, Chaotic Evil, Fighter 4}",
+      "{@i Armor Class 16 (Scale Mail, Shield, Ring of Protection +1)}",
+      "{@i Hit Points 27 (4d10+4)}",
+      "{@i Speed 30ft.}",
+      "{@i STR 12 (+1) | DEX 10 (0) | CON 12 (+1) | INT 8 (-1) | WIS 8 (-1) | CHA 7 (-2)}",
+      "{@i Saving Throws Str +3, Con +3}",
+      "{@i Skills Intimidation +2, Survival +2}",
+      "{@i Senses passive Perception 9}",
+      "{@i Languages Common}",
+      "{@i Challenge 3 (700 XP)}",
+      {
+        "type": "entries",
+        "name": "Traits",
+        "entries": [
+          "{@b Fighting Style (Dueling).} When wielding a melee weapon in one hand, Gefreid gains +2 to damage rolls (in the stat block).",
+          "{@b Second Wind (1/Short Rest).} As a bonus action, Gefreid regains {@dice 1d10+4} HP.",
+          "{@b Action Surge (1/Short Rest).} On his turn, he can take an extra action, allowing for additional attacks or movement."
+        ]
+      },
+      {
+        "type": "entries",
+        "name": "Actions",
+        "entries": [
+          "{@b Multiattack.} Gefreid makes two melee attacks.",
+          "{@b Masterwork Hand Axes.} {@i Melee Weapon Attack:} +6 to hit, reach 5 ft. or range 20/60 ft., one target. {@i Hit:} 9 (1d6+5) slashing damage (includes Dueling Fighting Style bonus).",
+          "{@b Longbow.} {@i Melee Weapon Attack:} +2 to hit, range 150/600 ft., one target. {@i Hit:} 4 (1d8) piercing damage.",
+          "{@b Brutal Opportunist.} If Gefreid attacks a creature that is flanked or unaware, he deals an additional 4 (1d8) damage once per turn."
+        ]
+      }
+    ]
+  }
+]
+```

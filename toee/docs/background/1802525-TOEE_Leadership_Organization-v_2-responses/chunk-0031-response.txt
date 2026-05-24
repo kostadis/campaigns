@@ -1,0 +1,277 @@
+```json
+[
+  {
+    "type": "entries",
+    "name": "Unmasking Lucius Graeme",
+    "entries": [
+      "Lucius Graeme, a cunning agent of Iuz and a trusted servant of Hedrack, operates in plain sight, his true loyalties hidden from all but the highest echelons of the Temple of Elemental Evil. Masquerading as a jovial gambler and storyteller in the village of Nulb, he gathers intelligence, directs subterfuge, and manipulates events to strengthen the Temple's grip. The adventurers, whether through suspicion or sheer misfortune, may find themselves entangled in Lucius' grand deception. To expose him is to risk the wrath of the Temple's hidden master, yet to ignore his influence could spell doom for the Free Lands."
+    ]
+  },
+  {
+    "type": "entries",
+    "name": "Primary Objectives",
+    "entries": [
+      {
+        "type": "list",
+        "items": [
+          "Expose Lucius Graeme: Discover his true identity as an agent of Iuz operating under the guise of a harmless gambler in Nulb.",
+          "Unravel the Spy Network: Investigate and dismantle Lucius' network of informants embedded in Hommlet and Verbobonc.",
+          "Survive the Trap: If Lucius discovers the adventurers are onto him, he will attempt to lure them into a carefully laid ambush."
+        ]
+      }
+    ]
+  },
+  {
+    "type": "entries",
+    "name": "Secondary Objectives",
+    "entries": [
+      {
+        "type": "list",
+        "items": [
+          "Unmask Lucius' Agents: Track his operatives, including Gremag at the Trader's Shop, Joseph Millar at Doomwatch Keep, and Zert at the Inn of the Welcome Wench.",
+          "Intercept False Intel: Prevent Lucius from feeding misleading information to the Viscounty's forces or adventuring parties.",
+          "Disrupt His Sabotage Efforts: Discover how Lucius is delaying Verbobonc's defenses and fortifications and put an end to his schemes."
+        ]
+      }
+    ]
+  },
+  {
+    "type": "entries",
+    "name": "Act 1: A Stranger Among Rogues",
+    "entries": [
+      "Location: Waterside Hostel, Nulb",
+      "Lucius Graeme presents himself as \"Aldren,\" a washed-up gambler who is a staple of the Waterside Hostel. At first glance, he appears harmless—just another drifter drawn to Nulb's lawlessness. However, the sharp-eyed might notice:",
+      {
+        "type": "list",
+        "items": [
+          "He never loses too much in dice games and always lets others win just enough to avoid suspicion.",
+          "He subtly steers conversations toward sensitive topics, such as Verbobonc's defenses, Hommlet's growth, or movements of adventuring parties.",
+          "The innkeeper Dick Rentsch shows him unusual deference, allowing Lucius to conduct business without interference."
+        ]
+      },
+      {
+        "type": "entries",
+        "name": "Key Challenges",
+        "entries": [
+          {
+            "type": "list",
+            "items": [
+              "Gathering Intel: The adventurers must quietly observe Lucius to confirm their suspicions without tipping him off.",
+              "Avoiding the Trap: If the adventurers are careless, Lucius will catch wind of their investigation and attempt to turn the tables."
+            ]
+          }
+        ]
+      },
+      {
+        "type": "entries",
+        "name": "Clues",
+        "entries": [
+          {
+            "type": "list",
+            "items": [
+              "A coded message is slipped to a courier, containing reports of Verbobonc's military presence.",
+              "The gamblers in Lucius' company are all seasoned bandits, watching the crowd for signs of danger.",
+              "An old beggar in the hostel recalls seeing Lucius meeting with known Temple agents in secret."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "entries",
+    "name": "Act 2: The Web in Hommlet",
+    "entries": [
+      "Location: The Trader's Shop in Hommlet",
+      "Lucius' network extends beyond Nulb, and the adventurers may discover his reach while investigating the village of Hommlet. He maintains several informants who keep him updated on the region's defenses and adventurer movements.",
+      {
+        "type": "entries",
+        "name": "Key Operatives",
+        "entries": [
+          {
+            "type": "entries",
+            "name": "Gremag Gozlin – The Merchant Spy",
+            "entries": [
+              "Operates out of the Trader's Shop, passing false goods and smuggled items between Temple agents. If confronted, he will try to frame his partner, Rannos Davl, and escape to warn Lucius."
+            ]
+          },
+          {
+            "type": "entries",
+            "name": "Joseph Millar – The Saboteur at Doomwatch Keep",
+            "entries": [
+              "A laborer deliberately stalling construction on Verbobonc's fortifications.",
+              "His orders come directly from Lucius, funneled through encrypted notes.",
+              "If caught, Joseph will beg for his life and offer information on Lucius' greater plan."
+            ]
+          },
+          {
+            "type": "entries",
+            "name": "Zert – The Enforcer at the Inn of the Welcome Wench",
+            "entries": [
+              "Pretends to be a wandering mercenary but is Lucius' personal enforcer.",
+              "If the adventurers dig too deeply into Lucius' dealings, Zert will be dispatched to silence them."
+            ]
+          }
+        ]
+      },
+      {
+        "type": "entries",
+        "name": "Key Challenges",
+        "entries": [
+          {
+            "type": "list",
+            "items": [
+              "Tracking the Network: The players must follow the leads and evidence linking the operatives to Lucius.",
+              "Stopping the Sabotage: Joseph must be stopped before he does irreparable damage to Doomwatch's defenses.",
+              "Avoiding Detection: If Lucius catches wind of their activities, he will escalate his operations."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "entries",
+    "name": "Act 3: The Smuggler's Chain",
+    "entries": [
+      {
+        "type": "entries",
+        "name": "Breaking the Supply Line",
+        "entries": [
+          "Location: The Moathouse Bandit Hideout & The Hunting Cottage",
+          "As the adventurers close in on Lucius' network, they uncover a deeper and more insidious operation than mere espionage—the Temple's vast supply chain that moves loot, slaves, and contraband from Nulb through the Moathouse and into the Greater Temple. The key to unraveling this scheme is dismantling the supply routes managed by Lieutenant Gattas Void and Gefreid Patris.",
+          {
+            "type": "entries",
+            "name": "Objectives",
+            "entries": [
+              {
+                "type": "list",
+                "items": [
+                  "Discover the Moathouse Stash: Track stolen goods and prisoners being funneled through Lareth's stronghold.",
+                  "Disrupt the Supply Chain: Cut off shipments before they reach Gefreid Patris at the Hunting Cottage.",
+                  "Capture or Eliminate Key Figures: Stop Gattas Void or Gefreid Patris to cripple the Temple's logistics."
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "entries",
+        "name": "Setting 1: The Moathouse",
+        "entries": [
+          {
+            "type": "entries",
+            "name": "Lareth's Stronghold",
+            "entries": [
+              "A ruined fortification partially submerged in the swamps near Nulb, now a key staging ground for raids. Beneath the ruined keep lies a hidden bandit lair where stolen goods and captured prisoners await transport. The party must infiltrate this stronghold, avoiding guards, uncovering hidden chambers, and navigating treacherous terrain.",
+              {
+                "type": "entries",
+                "name": "Key Challenges",
+                "entries": [
+                  {
+                    "type": "list",
+                    "items": [
+                      "Silent Entry or Brute Force: The adventurers can sneak into the Moathouse through its crumbling battlements or launch a direct assault.",
+                      "The Bandit Warlord: Lieutenant Gattas Void is Lareth's brutal field commander, leading the raiders. He will not surrender without a fight.",
+                      "Traps and Terrors: The lower dungeons house captured prisoners, but many are guarded by undead remnants of the Moathouse's dark past."
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "entries",
+                "name": "Key Clues",
+                "entries": [
+                  {
+                    "type": "list",
+                    "items": [
+                      "A logbook of stolen shipments detailing the movement of goods and people from Nulb to the Moathouse. Letters from Lucius Graeme, confirming his direct involvement in overseeing supply shipments to the Greater Temple.",
+                      "A coded map showing the routes to the Hunting Cottage, revealing the next link in the chain."
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "entries",
+        "name": "Setting 2: The Hunting Cottage",
+        "entries": [
+          "Location: A fortified woodland outpost hidden in the heart of the Gnarley Forest, used to smuggle people and treasure into the Greater Temple. Run by Gefreid Patris, this secluded outpost serves as the final waypoint before shipments reach the Temple. The party must strike quickly before the next convoy departs.",
+          {
+            "type": "entries",
+            "name": "Key Challenges",
+            "entries": [
+              {
+                "type": "list",
+                "items": [
+                  "A Warband of Gnolls: The Gnoll King Korvash Bonegnaw has sent savage warriors to guard the outpost, making this a brutal battle.",
+                  "Slave Wagons: Prisoners bound for sacrifice in the Greater Temple must be freed before they disappear forever.",
+                  "The Overseer's Escape: Gefreid Patris is a ruthless administrator, but if given the chance, he will burn documents and flee rather than be captured."
+                ]
+              }
+            ]
+          },
+          {
+            "type": "entries",
+            "name": "Key Clues",
+            "entries": [
+              {
+                "type": "list",
+                "items": [
+                  "A secret letter from Lucius, confirming his role in coordinating bandit raids with the Crimson Reapers in Nulb.",
+                  "Magical Seals of the Greater Temple, proving the supply chain's direct connection to Hedrack himself.",
+                  "Intercepted Orders from Lareth the Beautiful, detailing his plans to expand the bandit raids further into Verbobonc's territory."
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "entries",
+    "name": "Resolution & Consequences",
+    "entries": [
+      {
+        "type": "entries",
+        "name": "If the Adventurers Succeed",
+        "entries": [
+          {
+            "type": "list",
+            "items": [
+              "The Temple's Supply Lines Crumble: Without the Moathouse and Hunting Cottage, the Temple struggles to maintain its expansion.",
+              "Lucius Graeme Is Weakened: His intelligence network is exposed, and his ability to manipulate trade routes is diminished.",
+              "Verbobonc's Leaders Take Notice: If evidence reaches Verbobonc's nobility, Lord Haxx and the Viscount's Court may intervene against the Temple."
+            ]
+          }
+        ]
+      },
+      {
+        "type": "entries",
+        "name": "If the Adventurers Fail",
+        "entries": [
+          {
+            "type": "list",
+            "items": [
+              "The Greater Temple Strengthens: Lareth and Lucius ramp up their recruitment, reinforcing the Temple's growing army.",
+              "Bandit Retaliation: With their enemies exposed, Lucius and Feldrin may strike back, targeting the adventurers personally."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "entries",
+    "name": "Final Thoughts",
+    "entries": [
+      "Act 3 now focuses on exposing and crippling the Temple's supply network, tying Lucius Graeme's intelligence operations to the brutal logistics of banditry and slavery. This not only solidifies the Temple's sinister grasp over the region, but also offers key moral and tactical choices for the adventurers."
+    ]
+  }
+]
+```

@@ -1,0 +1,166 @@
+```json
+[
+  {
+    "type": "entries",
+    "name": "Smigmal - The Assassin's Mark",
+    "entries": [
+      "Smigmal Redhand is a cunning and deadly force within the Temple of Elemental Evil. As the Commander of the Outer Defenses, she oversees the ruined tower's mercenaries and raiding parties while maintaining a close alliance with Falrinth. Using her Hat of Disguise, she operates under the guise of an elven noblewoman, infiltrating high society and manipulating temple politics. The following quest hooks allow adventurers to confront this ruthless assassin in different ways.",
+      {
+        "type": "entries",
+        "name": "1. The Assassin's Mark",
+        "entries": [
+          "The party is hunted by an unseen killer. Can they survive the deadly pursuit and uncover the mastermind?",
+          {
+            "type": "entries",
+            "name": "Summary",
+            "entries": [
+              "Adventurers find themselves the target of a relentless assassin. Local informants whisper of a ghostly murderer whose victims vanish without a trace. Each attempt on the party's lives leaves behind strange, cryptic warnings. Investigation reveals that the strikes originate from the ruined tower, Smigmal's base of operations."
+            ]
+          },
+          {
+            "type": "entries",
+            "name": "Primary Objective",
+            "entries": [
+              "Survive Smigmal's assassination attempts and track her to her lair in the ruined tower."
+            ]
+          },
+          {
+            "type": "entries",
+            "name": "Key Challenges",
+            "entries": [
+              {
+                "type": "list",
+                "items": [
+                  "{@b Silent Killings:} Smigmal employs stealth and misdirection, using her poisoned weapons and magic items to eliminate targets before they even realize she is near.",
+                  "{@b Layers of Deception:} Clues point to an elven noblewoman in Hommlet who eerily matches Smigmal's disguised persona.",
+                  "{@b A False Trail:} One of Smigmal's assassins attempts to impersonate her, misdirecting the adventurers."
+                ]
+              }
+            ]
+          },
+          {
+            "type": "entries",
+            "name": "Encounters",
+            "entries": [
+              {
+                "type": "list",
+                "items": [
+                  "{@b Ambush in the Night:} The party is attacked while resting in an inn, a lone assassin vanishing into the shadows.",
+                  "{@b Hunted Through the Streets:} In Hommlet or Nulb, Smigmal leaves evidence that leads the adventurers toward an ambush.",
+                  "{@b Final Showdown at the Ruined Tower:} Smigmal lures the adventurers into her lair, where she has set deadly traps and mercenary guards."
+                ]
+              }
+            ]
+          },
+          {
+            "type": "entries",
+            "name": "Potential Resolutions",
+            "entries": [
+              {
+                "type": "list",
+                "items": [
+                  "Eliminate Smigmal and disrupt her operations.",
+                  "Extract information about the Temple's defenses.",
+                  "Let her flee, setting up future encounters where she seeks revenge."
+                ]
+              }
+            ]
+          },
+          {
+            "type": "inset",
+            "name": "",
+            "entries": [
+              "\"They call me a guardian of the temple's borders, but I'm no watchman. I'm the blade that cuts throats before they whisper treason.\" - Smigmal"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "entries",
+        "name": "2. Web of Deception",
+        "entries": [
+          "Using her Hat of Disguise, Smigmal has been masquerading as Lady Eryndel, an elven noblewoman visiting Hommlet (or any town in the Viscounty or Gnarley Forest). She is spreading misinformation, eliminating those who oppose the Temple, and ensuring the town remains divided. The adventurers must expose her before she sows further discord.",
+          {
+            "type": "entries",
+            "name": "Primary Objective",
+            "entries": [
+              "Reveal Smigmal's true identity before she secures deeper control over Hommlet's politics."
+            ]
+          },
+          {
+            "type": "entries",
+            "name": "Key Challenges",
+            "entries": [
+              {
+                "type": "list",
+                "items": [
+                  "{@b Political Intrigue:} Smigmal manipulates the town's leadership, sowing distrust among the factions.",
+                  "{@b Framed Crimes:} Innocent locals are falsely accused of being spies for the Temple.",
+                  "{@b Tactical Eliminations:} Smigmal orders assassinations of key Hommlet figures who oppose the Temple's influence."
+                ]
+              }
+            ]
+          },
+          {
+            "type": "entries",
+            "name": "Encounters",
+            "entries": [
+              {
+                "type": "list",
+                "items": [
+                  "{@b Gathering Clues:} The party must gather evidence about Lady Eryndel and her dealings with Temple agents.",
+                  "{@b Foiling an Assassination:} Smigmal attempts to eliminate a high-profile target in Hommlet.",
+                  "{@b Public Exposure:} In a dramatic confrontation, the party unmasks Smigmal, forcing her to flee or fight."
+                ]
+              }
+            ]
+          },
+          {
+            "type": "entries",
+            "name": "Potential Resolutions",
+            "entries": [
+              {
+                "type": "list",
+                "items": [
+                  "Expose Smigmal before she can further the Temple's control over Hommlet.",
+                  "Turn the town against her, forcing her into hiding.",
+                  "Kill or capture her, disrupting the Temple's intelligence network."
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "entries",
+        "name": "3. Broken Trust",
+        "entries": [
+          "Falrinth's ambitions lead him to betray Smigmal. Falrinth, always scheming, has grown tired of Smigmal's increasing ambitions. In a bold move, he has attempted to eliminate her, betraying his closest ally. Now, wounded and furious, Smigmal seeks revenge. If the adventurers learn of this betrayal, they can use the divide to their advantage.",
+          {
+            "type": "entries",
+            "name": "Primary Objective",
+            "entries": [
+              "Exploit the rift between Falrinth and Smigmal for strategic gain."
+            ]
+          },
+          {
+            "type": "entries",
+            "name": "Key Challenges and Encounters",
+            "entries": [
+              {
+                "type": "list",
+                "items": [
+                  "{@b Gaining Smigmal's Trust:} Smigmal is ruthless and suspicious. The party must prove their worth to her.",
+                  "{@b Falrinth's Counterattack:} The wizard is aware of Smigmal's desire for revenge and is preparing a trap.",
+                  "{@b Betrayal Revealed:} The party intercepts a letter from Falrinth detailing his plan to eliminate Smigmal.",
+                  "{@b Showdown in the Temple:} If party sides with Smigmal, help her ambush Falrinth, to a battle."
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
+```

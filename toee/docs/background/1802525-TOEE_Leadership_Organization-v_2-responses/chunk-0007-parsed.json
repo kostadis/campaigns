@@ -1,0 +1,191 @@
+[
+  {
+    "type": "entries",
+    "name": "Appearance",
+    "entries": [
+      "Deggum's gaunt frame, lank black hair, and piercing green eyes lend him an eerie, almost spectral quality. His face, perpetually shadowed with exhaustion, bears deep lines of stress and calculation. A pronounced limp does little to slow his predatory movements, making him an unsettling figure even among the Temple's hardened warriors. He wears dusky-hued studded leather armor, enchanted for both protection and silence, and carries a morningstar, crossbow, hunting knife—selected for efficiency in eliminating threats."
+    ]
+  },
+  {
+    "type": "entries",
+    "name": "Personality",
+    "entries": [
+      "Deggum is a ruthless strategist who thrives in the shadows, pulling strings with quiet precision rather than overt displays of power. His unwavering loyalty to Hedrack is born from both admiration and calculation—he sees the Supreme Commander as a model of control and dominance. Unlike his more flamboyant peers, Deggum embodies cold efficiency, enforcing discipline with a careful blend of fear and necessity.",
+      {
+        "type": "list",
+        "items": [
+          "{@b Cold-Blooded Tactician:} Anticipates every variable, ensuring no move is made without careful calculation.",
+          "{@b Enforcer of Order:} Keeps his troops obedient through a precise balance of intimidation and calculated rewards.",
+          "{@b Manipulative Strategist:} Masters the art of deception."
+        ]
+      }
+    ]
+  },
+  {
+    "type": "entries",
+    "name": "Role in the Temple of Elemental Evil",
+    "entries": [
+      "Deggum oversees the Temple's security with a meticulous and ruthless approach, ensuring its defenses remain impenetrable. He coordinates patrols, fortifications, and rapid response units to neutralize intrusions. When threats arise, Deggum personally leads scouting missions, eliminating dangers before they reach the Temple's doorstep. Ever watchful, he remains the last line of defense against those who seek to dismantle the cult."
+    ]
+  },
+  {
+    "type": "entries",
+    "name": "Deggum, Security Commander of the Temple",
+    "entries": [
+      "{@i Medium humanoid (half-elf), 5th-level Cleric and 4th-level Wizard, chaotic evil}",
+      "{@i Armor Class 16 (Chain Mail, Shield - 2 Dex)}",
+      "{@i Hit Points 21 (5d8 +4d4 /2) 5e 40 (9d8)}",
+      "{@i Speed 30ft.}",
+      "{@i STR 12 (+1) | DEX 7 (-2) | CON 10 (+0) | INT 15 (+2) | WIS 18 (+4) | CHA 10 (+0)}",
+      "{@i Savings Throws Wis +6, Int +4}",
+      "{@i Skills Insight +6, Religion +6, Arcana +4}",
+      "{@i Damage Resistances Fire (Ring of Fire Resistance)}",
+      "{@i Senses darkvision 60 ft., passive Perception 14}",
+      "{@i Languages Common, Giant, Goblin}",
+      "{@i Challenge 4 (1,118 XP)}",
+      {
+        "type": "entries",
+        "name": "Special Equipment",
+        "entries": [
+          "Black Scarab of Zuggtmoy (Controls hidden temple mechanisms)",
+          "Ring of Fire Resistance (Grants resistance to fire damage)",
+          "Potion of Healing, Growth"
+        ]
+      },
+      {
+        "type": "entries",
+        "name": "Spellcasting",
+        "entries": [
+          "Deggum is a 5th-level Cleric and 4th-level Wizard. His spellcasting ability is Wisdom (Cleric, DC 14, +6 to hit) and Intelligence (Wizard, DC 13, +5 to hit).",
+          {
+            "type": "entries",
+            "name": "Cleric Spells Prepared",
+            "entries": [
+              "Cantrips: {@spell Sacred Flame}, {@spell Resistance}, {@spell Thaumaturgy}",
+              "1st Level (4 slots): {@spell Bless}, {@spell Cure Light Wounds}, {@spell Detect Magic}, {@spell Sanctuary} (x2)",
+              "2nd Level (3 slots): {@spell Augury}, {@spell Chant}, {@spell Hold Person}, {@spell Poison}, {@spell Spiritual Hammer}",
+              "3rd Level (2 slots): {@spell Continual Darkness}, {@spell Animate Dead}"
+            ]
+          },
+          {
+            "type": "entries",
+            "name": "Wizard Spells Prepared",
+            "entries": [
+              "Cantrips: {@spell Mage Hand}, {@spell Prestidigitation}, {@spell Ray of Frost}",
+              "1st Level (3 slots): {@spell Magic Missile} (x3)",
+              "2nd Level (2 slots): {@spell Invisibility} (x2)"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "entries",
+        "name": "Actions",
+        "entries": [
+          "{@b Mace.} Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) bludgeoning damage.",
+          "{@b Spiritual Hammer} (2nd-level spell, Bonus Action). Creates a floating spectral hammer 1 min duration, 1d8 force damage per turn."
+        ]
+      }
+    ]
+  },
+  {
+    "type": "entries",
+    "name": "Background",
+    "entries": [
+      "Born in the shadowed groves of Welkwood, Deggum turned his back on his homeland in pursuit of forbidden power. Lareth the Beautiful, a master manipulator, saw potential in the young half-elf and whispered promises of dominance and destiny. Under Lareth's tutelage, Deggum honed his skills in deception, strategy, and coercion. His true ascent began when he brokered an alliance with the Blackthorn ogres under Chief Garghuk, proving his value to Hedrack and securing his place within the Greater Temple's inner circle.",
+      {
+        "type": "entries",
+        "name": "Key Events in His Rise to Power",
+        "entries": [
+          "{@b Forsaken Heritage:} Cast aside his ties to the elves of Welkwood, choosing power over tradition.",
+          "{@b Recruitment by Lareth:} Learned the tenets of the Elder Elemental God.",
+          "{@b Ogre Pact:} Secured the allegiance of the Blackthorn ogres, delivering Chief Garghuk's warriors to the Greater Temple."
+        ]
+      },
+      {
+        "type": "inset",
+        "name": "",
+        "entries": [
+          "\"I didn't leave Welkwood to cower in the shadows. I came to rise above those who scorned me, and I will.\" - Deggum"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "entries",
+    "name": "Motivations",
+    "entries": [
+      "Deggum is consumed by ambition, seeking to carve out a legacy within the Temple's hierarchy. Though fiercely loyal to Hedrack, he secretly harbors dreams of surpassing him. To solidify his power, Deggum focuses on strengthening his grip over the temple guards and ogre forces, ensuring their unwavering allegiance to him alone.",
+      "Despite his public devotion to the Elder Elemental God, Deggum knows the truth—Zuggtmoy, not the Elder Elemental Eye, holds the Temple's reins. He carefully balances his allegiance, outwardly preaching elemental destruction while privately safeguarding his own future within the cult's shifting tides of power."
+    ]
+  },
+  {
+    "type": "entries",
+    "name": "Role in the Temple of Elemental Evil",
+    "entries": [
+      "Deggum commands the Temple's security with ruthless efficiency, ensuring its defenses remain impenetrable. He oversees patrols, fortifications, and rapid-response forces to neutralize intrusions before they escalate. Beyond mere defense, he leads scouting missions to monitor threats and identify potential weaknesses in enemy forces. His influence extends to the Temple's monstrous allies, whom he recruits and indoctrinates, bolstering the cult's military strength under the guise of the Elder Elemental God's prophesied awakening.",
+      {
+        "type": "list",
+        "items": [
+          "{@b Fortress Guardian:} Orchestrates defenses, ensuring the Temple's inner sanctum remains unbreachable.",
+          "{@b Tactical Expansion:} Strengthens Temple forces by recruiting monstrous allies and mercenaries.",
+          "{@b Espionage and Scouting:} Oversees reconnaissance operations, tracking enemy movements and preempting attacks."
+        ]
+      }
+    ]
+  },
+  {
+    "type": "entries",
+    "name": "Political Relationships",
+    "entries": [
+      "As commander, Deggum navigates the temple's volatile political landscape, balancing loyalty to Hedrack while countering rivals within the Greater Temple. Both Hedrack and Senshock personally mentor him, recognizing his potential for leadership. Ever diligent, Deggum carries his spellbook at all times, refining his mastery of divine and arcane magic—many of his spells mirroring Senshock's, ensuring his versatility in both faith and sorcery.",
+      {
+        "type": "entries",
+        "name": "Allies and Relationships",
+        "entries": [
+          "{@b Hedrack, Supreme Commander:} One of Hedrack's most trusted subordinates, Deggum receives direct guidance from him.",
+          "{@b Senshock, High Wizard:} Deggum respects Senshock's magical prowess but wary of ambitions.",
+          "{@b Romag, Earth Temple Leader:} Maintains a tenuous alliance by supplying Romag with ogre forces."
+        ]
+      },
+      {
+        "type": "inset",
+        "name": "",
+        "entries": [
+          "\"Let Romag and Belsornig squabble over their petty rivalries. In the end, the one who controls the gates controls the Temple.\" - Commander Deggum"
+        ]
+      },
+      {
+        "type": "entries",
+        "name": "Rivals and Threats",
+        "entries": [
+          "{@b Belsornig, Water Temple Leader:} The two compete for control over the temple's defensive resources.",
+          "{@b Commander Feldrin:} Their differing approaches to leadership often place them at odds."
+        ]
+      }
+    ]
+  },
+  {
+    "type": "entries",
+    "name": "Recruitment of the Blackthorn Tribe",
+    "entries": [
+      "Deggum's most valuable contribution to the temple is securing the allegiance of the Blackthorn Tribe, a brutal force of ogres, bugbears, and hobgoblins. Through the influence of Iuz and careful negotiation, he brokered a pact with Chieftain Garghuk the Bloodtooth, providing the temple with a steady stream of warriors—driven by fear rather than loyalty.",
+      {
+        "type": "list",
+        "items": [
+          "{@b Negotiation with Garghuk:} Maintaining a delicate balance of fear / reward to keep the chieftain in line.",
+          "{@b Deployment of Forces:} Strategically placing ogres within key positions across the temple's various levels, including the Greater Temple.",
+          "{@b Oversight of Ogre Leadership:} Managing Chieftain Gloarok in the Greater Temple and Gerard, who assists Romag in the Earth Temple.",
+          "{@b Intelligence Gathering:} Utilizing Blackthorn scouts to gather intelligence on rival factions, adventurers, and local threats around Nulb and Hommlet."
+        ]
+      },
+      {
+        "type": "inset",
+        "name": "",
+        "entries": [
+          "\"Hedrack sees potential in me, and I will not disappoint. The ogres follow because they fear me… as they should. Loyalty bought with fear and blood is the only kind that matters.\""
+        ]
+      }
+    ]
+  }
+]

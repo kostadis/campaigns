@@ -1,0 +1,202 @@
+```json
+[
+  {
+    "type": "entries",
+    "name": "Outcomes & Rewards",
+    "entries": [
+      {
+        "type": "entries",
+        "name": "Action Taken",
+        "entries": [
+          "Eavesdrop successfully: Gain intelligence on Water Temple operations in Nulb.",
+          "Coerce Skole: Learn about his fears and potential weaknesses in Lodriss' control over Nulb.",
+          "Support Wat: Gain favor with the Water Temple.",
+          "Warn Lodriss: Gain favor with Lodriss and potentially earn a small reward.",
+          "Report to Romag: Strengthen ties with the Earth Temple and possibly a mission to eliminate Wat."
+        ]
+      }
+    ]
+  },
+  {
+    "type": "inset",
+    "name": "DM's Notes",
+    "entries": [
+      "This quest works well as an espionage-focused encounter, allowing players to engage in roleplay, information gathering, and faction manipulation rather than direct combat.",
+      "If the adventurers choose to align with the Temple of Elemental Evil, this quest can serve as an introduction to the Temple's internal rivalries.",
+      "If they choose to oppose the Temple, this may serve as a way to weaken its power base by pitting the Earth and Water factions against each other."
+    ]
+  },
+  {
+    "type": "entries",
+    "name": "Wat's Proposal – The Fire Temple's Hidden Hand",
+    "entries": [
+      "Wat, the barkeep of the Waterside Hostel, has been quietly recruiting for the Fire Temple, serving its high priest Alrrem. Unlike Dick Rentsch, who works for the Earth Temple, Wat is playing a more dangerous game, acting as a double agent in Nulb's underworld. The adventurers have the chance to earn his favor—or expose his lies—in a delicate balancing act that could shift the power dynamics of the Temple.",
+      {
+        "type": "entries",
+        "name": "Quest Objectives",
+        "entries": [
+          {
+            "type": "entries",
+            "name": "Primary Objectives",
+            "entries": [
+              "Establish Trust with Wat: Convince him that the adventurers are not enemies of the Temple.",
+              "Accept Wat's Offer: Listen to his proposal regarding recruitment for the Fire Temple.",
+              "Sabotage the Earth Temple: Help Wat weaken Romag's influence by intercepting Earth Temple supply shipments."
+            ]
+          },
+          {
+            "type": "entries",
+            "name": "Secondary Objectives",
+            "entries": [
+              "Spy on Wat's Network: Gather intelligence on the Fire Temple's recruitment process in Nulb.",
+              "Expose Dick Rentsch: Play the rival factions against one another, leveraging their paranoia.",
+              "Gain Favor with Alrrem: If the adventurers decide to align with the Fire Temple, they could be granted an audience with Alrrem himself."
+            ]
+          }
+        ]
+      },
+      {
+        "type": "entries",
+        "name": "The Encounter at the Waterside Hostel",
+        "entries": [
+          "The adventurers find Wat at his usual post—watching, listening, and waiting. The moment they seem useful, he makes his move.",
+          {
+            "type": "inset",
+            "name": "Wat's Introduction (If Party is Neutral)",
+            "entries": [
+              "\"Funny thing about the Moathouse… been hearin' some strange tales about the ruckus out there. Bandits missin', gnolls not showin' up for pay… That got anything to do with you lot?\" (Wat casually leans against the bar, eyes narrowing slightly. He's testing to see how much they'll reveal.)"
+            ]
+          },
+          {
+            "type": "inset",
+            "name": "Wat's Offer (If the Party Passes His Test)",
+            "entries": [
+              "\"Look, you strike me as the kind that ain't afraid to get their hands dirty. You want coin? You want connections? Then you're gonna need real friends in this town. Dick Rentsch? Pfft, he's a fool. Romag's clingin' to power like a drowning man to driftwood. Me? I work for someone who's gonna change all that.\"",
+              "\"The Fire Temple is where the real power is. We got plans, and you could be a part of them—if you prove yourselves. There's a shipment comin' in, fresh supplies for the Earth Temple. If you were to… misplace it, well, that'd be a mighty fine way to get noticed by some important folk.\""
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "entries",
+    "name": "The Job – Sabotaging the Earth Temple's Supply Line",
+    "entries": [
+      "Wat wants the adventurers to intercept a shipment of weapons and supplies headed for the Earth Temple. The caravan is set to arrive under cover of darkness via a hidden smuggler's route along the High Road from Trevil's Fens Cottage to the Hunting Cottage.",
+      {
+        "type": "entries",
+        "name": "Tactical Choices",
+        "entries": [
+          "Ambush the Caravan: Lay a trap along the road and take the supplies by force.",
+          "Bribe the Guards: Use gold and persuasion to convince the Earth Temple's hired mercenaries to look the other way.",
+          "Steal the Goods: Sneak into the warehouse where the supplies are being temporarily stored."
+        ]
+      },
+      {
+        "type": "entries",
+        "name": "Key Challenges",
+        "entries": [
+          "The guards are expecting trouble will be on high alert.",
+          "If the shipment disappears without a trace, Romag will suspect treachery and retaliate in Nulb.",
+          "If the adventurers botch the mission, Wat will be furious and may cut ties."
+        ]
+      },
+      {
+        "type": "entries",
+        "name": "The Aftermath",
+        "entries": [
+          {
+            "type": "entries",
+            "name": "Success: Wat Rewards the Party",
+            "entries": [
+              "If the adventurers succeed in disrupting the Earth Temple's supply line, Wat is impressed.",
+              {
+                "type": "inset",
+                "name": "",
+                "entries": [
+                  "\"Well now, I knew you were the right kind of folk. Let's just say this ain't the last time you'll hear from us. Alrrem's got his eye on Nulb, and if you play your cards right, you might just find yourselves in his good graces.\""
+                ]
+              },
+              "Reward: Gold, stolen supplies, and a potential audience with Alrrem.",
+              "Future Quests Unlocked: More tasks for the Fire Temple."
+            ]
+          },
+          {
+            "type": "entries",
+            "name": "Failure: Wat's Wrath",
+            "entries": [
+              "If the adventurers fail to deliver or get caught by Romag's forces, Wat turns hostile.",
+              {
+                "type": "inset",
+                "name": "",
+                "entries": [
+                  "\"I don't do charity work, friend. You were supposed to be useful. Now I got problems 'cause of you. Here's a word of advice—don't show your face 'round here again.\""
+                ]
+              },
+              "Wat cuts off all dealings with the adventurers.",
+              "Romag becomes suspicious and may send assassins after them.",
+              "The adventurers lose an opportunity to infiltrate the Fire Temple."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "entries",
+    "name": "Expanding the Conflict: Playing the Factions Against Each Other",
+    "entries": [
+      "The rivalry between Wat (Fire Temple) and Dick Rentsch (Earth Temple) is ripe for manipulation. Clever adventurers could:",
+      {
+        "type": "list",
+        "items": [
+          "Double-cross Wat and warn Romag, earning the Earth Temple's favor.",
+          "Frame Dick Rentsch for the theft, turning Romag against his own ally.",
+          "Play both sides, helping Wat while secretly working for Romag."
+        ]
+      },
+      "This quest sets the stage for a larger conflict within the Temple of Elemental Evil, allowing the adventurers to manipulate factions, gain influence, or burn everything down from within."
+    ]
+  },
+  {
+    "type": "entries",
+    "name": "Gattas Void-Temple Operations",
+    "entries": [
+      "Gattas is a linchpin in the Temple's network, ensuring the supply chain from the Moathouse to the Greater Temple remains uninterrupted.",
+      {
+        "type": "entries",
+        "name": "Coordination with Gefreid Patris",
+        "entries": [
+          "Works closely with Gefreid to manage the flow of supplies, prisoners, and loot. Gattas's raiding parties deliver resources directly to the Hunting Cottage, where they are inspected and redirected to the Greater Temple.",
+          "Discretion: Gattas is aware of the need for secrecy and ensures that raids are conducted far from the Moathouse."
+        ]
+      },
+      {
+        "type": "entries",
+        "name": "Political Intrigue",
+        "entries": [
+          "Though loyal to Lareth, Gattas is unaware of the latter's covert allegiance to Lolth and partnership with Falrinth.",
+          "Potential Manipulation: If the adventurers learn of Gattas's ambitions, they could exploit his desire for advancement to create discord between him and Lareth.",
+          "Rivalries: Gattas harbors resentment toward Lareth's preferential treatment of certain others, including Falrinth and Gorvash the Cruel."
+        ]
+      },
+      {
+        "type": "entries",
+        "name": "Adventure Hooks",
+        "entries": [
+          "Gattas provides numerous opportunities for adventurers to disrupt the Temple's plans.",
+          {
+            "type": "list",
+            "items": [
+              "Intercepting Raids: The party encounters a raiding party under Gattas's command, discovering clues about the Moathouse's operations.",
+              "Infiltration: Adventurers could infiltrate the Moathouse by posing as recruits or traders, gaining access to Gattas's plans.",
+              "Creating Division: By sowing discord between Gattas and other lieutenants, the party can weaken the Moathouse's defenses."
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
+```

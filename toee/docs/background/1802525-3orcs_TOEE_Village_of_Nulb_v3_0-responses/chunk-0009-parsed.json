@@ -1,0 +1,93 @@
+[
+  {
+    "type": "entries",
+    "name": "1. Waterside Hostel of Nulb",
+    "entries": [
+      "Seedy stronghold of secrets on the bank of Imeryds Run. The Waterside Hostel is a cracked jewel in Nulb's gutter crown—a tangle of tavern, inn, and haven for outlaws that clings to the riverbank like a leech. Stone foundation. Timber bones. Smoke-stained rafters. Its rooms creak, the ale is sour, if something bites you in the night, pray it's a rat.",
+      {
+        "type": "inset",
+        "name": "Proprietor & Function",
+        "entries": [
+          "{@b Owner:} Dick Rentsch (covert operative of the Earth Temple under Romag)",
+          "{@b Function:} Inn, tavern, smuggling waystation",
+          "{@b Atmosphere:} Perpetual tinderbox—kegs of menace",
+          "\"Rooms are cheap. Lives cheaper.\" —Local saying scratched into the outhouse door."
+        ]
+      },
+      {
+        "type": "entries",
+        "name": "Physical Features",
+        "entries": [
+          "Two stories: field-stone foundation, patched timber walls; lean-to sheds and a rickety gallery facing the river. The roofline sags under too many winters.",
+          "{@b Tavern Room:} Low ceiling, smoke-thick air, lantern light the color of old butter. Sound stacks under the beams; whispers carry farther than you think.",
+          "{@b Semi-Private Rooms (B–D):} Cramped bunk rooms with warped doors and rusted latches. Mildew, sweat, and old blood in the boards. \"Privacy\" is something you rent by the hour, lose by the minute."
+        ]
+      },
+      {
+        "type": "entries",
+        "name": "Hostile Hospitality",
+        "entries": [
+          "{@b Dick Rentsch:} The gruff publican mask hides a patient recruiter and sorter for the Earth Temple. He weighs every guest for utility: coin, leverage, or sacrifice. He smiles with his mouth, listens with his eyes, and remembers everything.",
+          "{@b Wat (barkeep):} Quiet, sharp, and loyal—to Alrrem's Fire Temple. The bar is a cold war line: Earth vs. Fire under the same roof. Each man tolerates the other, Hedrack demands no schisms in Nulb."
+        ]
+      },
+      {
+        "type": "entries",
+        "name": "Serving Staff",
+        "entries": [
+          "{@b Dala & Pearl (cutpurse wenches; level-3 thieves):} Pour ale, lift purses, start rumors.",
+          "{@b Two manservants (level-2 fighters):} Sleep in the loft above the gallery with chain, shields, light crossbows, and orders to crack heads fast."
+        ]
+      },
+      {
+        "type": "entries",
+        "name": "Hostel Structure (for DMs)",
+        "entries": [
+          "The Waterside was a decent inn but The Temple's rise rotted it into a predator den. Dick and Wat run a laundering and staging house.",
+          "At night, the place transforms into a boiling pot of violence and plotting. Brawls are common, secrets are whispered over spilled ale, and death is always just one drink away."
+        ]
+      },
+      {
+        "type": "entries",
+        "name": "Room Rates",
+        "entries": [
+          {
+            "type": "list",
+            "items": [
+              "Common Room Cot: 5 sp / night",
+              "Small Room Bunk: 7 sp / night",
+              "Private Room (B-D): 30 sp / night"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "entries",
+        "name": "Political Ties, Infamy, and Survival",
+        "entries": [
+          "{@b Madame Selentis (Nysera Krivaltis):} The spider over Nulb's web. Her Temple guards shadow convoys, lift captives, and collect what's owed. The Waterside is useful, so she lets Dick run it—so long as it stays useful.",
+          "{@b Romag (Earth Temple):} This is his surface foothold: screening recruits, moving coin, and holding \"special guests\" for pickup. Dick answers to Romag when it's profitable, and to Selentis when it's wise.",
+          "{@b Alrrem (Fire Temple):} Present only as whispers and Wat's eyes. Fire uses the bar to watch Earth, not to claim the ground.",
+          "{@b Belsornig (Water Temple):} Keeps his hands off the Waterside; his crews drink and deal across the bridge at the Boatman's Tavern.",
+          "{@b Neutral Ground (with teeth):} Every faction uses the Waterside. None dare torch their own table. Fights end fast unless someone important gives orders.",
+          "{@b Infested & Infamous:} The rooms itch. The beds bite. And if you snore too loud, you might not wake up.",
+          "{@b Dagger Behind the Ale:} It's well-known that staying at the Waterside Hostel is a gamble—but in Nulb, sometimes that's the best you can hope for.",
+          "{@b Nightfall Rule:} When the sun drops, the Waterside boils—fights, deals, and whispered heresies. Blood is bad for business, but \"accidents\" happen. The only law here is sold to the highest bidder—and Selentis buys in bulk."
+        ]
+      },
+      {
+        "type": "entries",
+        "name": "Time and Atmosphere",
+        "entries": [
+          {
+            "type": "list",
+            "items": [
+              "{@b Day:} Hungover hush; locals, deals. Staff: Wat (barkeep), Pearl (server/pickpocket), Dick drifts through; guards off-duty. Pearl targets inebriates only; Wat screens newcomers for Fire Temple interest.",
+              "{@b Night:} Packed, smoky, volatile. Staff: Wat (barkeep), Dala (server/cutpurse), Dick (present), 2 Manservants (armored, crossbows ready in loft). Dala runs Dick's errands; Earth-loyal eyes watch private rooms and the back stairs."
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,2311 @@
+{
+	"_meta": {
+		"sources": [
+			{
+				"json": "18025253",
+				"abbreviation": "18025253",
+				"full": "1802525-3orcs TOEE Village of Nulb v3 0"
+			}
+		]
+	},
+	"book": [
+		{
+			"name": "1802525-3orcs TOEE Village of Nulb v3 0",
+			"id": "18025253",
+			"source": "18025253",
+			"contents": [
+				{
+					"name": "Contents",
+					"headers": [
+						"Nulb, Haven for the Unlawful",
+						"DM Spotlight: Campaign",
+						"Dungeon Master's Introduction",
+						"Politics in Nulb"
+					]
+				},
+				{
+					"name": "Nulb NPCs",
+					"headers": [
+						"Nulb Characters by Location"
+					]
+				},
+				{
+					"name": "Quests",
+					"headers": [
+						"Serena Daughter of Rhenn"
+					]
+				},
+				{
+					"name": "Selentis",
+					"headers": [
+						"Quest Web",
+						"Nulb Political Strategy",
+						"Notable People",
+						"Associates",
+						"Locations",
+						"Selentis' Bandits",
+						"The Greater Temple Cell",
+						"Arrival at the Bridge of Nulb",
+						"Nulb is a Haven for Brigands and Cultists",
+						"Demographics of Nulb (576 CY)",
+						"Quest Web",
+						"Nulb Political Strategy",
+						"Politics in Nulb",
+						"Notable People",
+						"Associates",
+						"Locations",
+						"Selentis' Bandits",
+						"The Greater Temple Cell"
+					]
+				}
+			]
+		}
+	],
+	"bookData": [
+		{
+			"id": "18025253",
+			"source": "18025253",
+			"data": [
+				{
+					"type": "section",
+					"name": "Contents",
+					"id": "000",
+					"entries": [
+						{
+							"type": "entries",
+							"name": "Nulb, Haven for the Unlawful",
+							"id": "001",
+							"entries": [
+								"Nulb is a haven for outlaws, cultists, and criminals, located at the eastern edge of the Viscounty of Verbobonc, bordered by the Gnarley Forest and the Fens of Tor. It's a place where law is loosely enforced and commerce thrives on illegal activity. Despite its squalor and danger, the village serves as a key stop along the High/Forest Road.",
+								{
+									"type": "entries",
+									"name": "Arrival at the Bridge of Nulb",
+									"id": "002",
+									"entries": [
+										"The Low Road winds through the southern reaches of the Fens of Tor, where fetid marshlands form a natural barrier between the fertile fields of Verbobonc and the shadowy expanse of the Gnarley Forest. The road narrows as it nears a dilapidated stone bridge spanning the sluggish waters of the Imeryds Run. The air is heavy with the stench of stagnant water, decaying vegetation, and woodsmoke curling from the distant hovels of Nulb.",
+										"At the foot of the bridge, a leaning guardhouse stands sentinel, its rotting timbers defying both time and tide. Faded and tattered banners dangle limply in the humid air, their once-proud sigils obscured by grime. The guardhouse emits faint sounds—muted laughter, gruff voices, and the occasional clink of metal—suggesting the men posted here are less vigilant watchmen and more opportunistic rogues.",
+										"Two figures in mismatched armor linger at the guardhouse entrance, their eyes sharp and unwelcoming. One spits into the mud as the other rests a hand on the hilt of a rusted blade. A third figure leans against the bridge railing, chewing on a stalk of swamp grass and eyeing travelers with the casual menace of someone unafraid of conflict.",
+										"Across the river, the heart of Nulb spreads out in grim disarray. The market square lies just beyond the bridge, a cluster of crooked, uneven buildings huddled together like scavengers around a fresh kill. To the left, the river bay cradles a collection of decrepit docks where shadowy figures and ramshackle boats move about under the watchful eye of looming pirate ships. To the right, the Imeryds Run snakes northward, its dark waters skirting the edge of town and vanishing into the gloom of the Gnarley Forest.",
+										"The village itself seems shrouded in a pall of smoke and decay. Its sagging rooftops and leaning chimneys speak of neglect, while the ominous air of lawlessness emanates from every shadow. Even from this distance, Nulb exudes an aura of menace, a place where survival hinges on strength, cunning, and the willingness to do what others will not.",
+										{
+											"type": "inset",
+											"name": "",
+											"id": "003",
+											"entries": [
+												"\"This is Nulb, stranger. Where the strong take, the cunning thrive, and the foolish vanish into the swamp.\"\n– Grizzled dockworker at the River Docks."
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Demographics of Nulb (576 CY)",
+									"id": "004",
+									"entries": [
+										"Population: ~350-400",
+										{
+											"type": "list",
+											"items": [
+												"Humans: 65% (~230) Predominantly Oeridian and Suel backgrounds, with some Flan. Includes outlaws, laborers, pirates, and smugglers.",
+												"Half-Orcs: 15% (~60) Often serving as enforcers, bodyguards, or mercenaries. Strong presence among the pirate and bandit factions.",
+												"Elves and Half-Elves: 5% (~20) Drifters, exiles, and opportunists, often mistrusted by others.",
+												"Halflings: 3% (~10) Merchants or spies who use their unassuming nature to gather intelligence."
+											]
+										},
+										"Occupational Breakdown",
+										{
+											"type": "list",
+											"items": [
+												"Pirates and Riverfolk: 90 (~25%) Centered around the docks and ships like The Iron Dagger.",
+												"Bandits and Outlaws: 80 (~20%) Operate from hidden camps in nearby woods or blend into Nulb's population.",
+												"Cultists and Agents: 50 (~12%) Loyal to the Temple of Elemental Evil, serving various elemental factions.",
+												"Commoners: 60 (~15%) Laborers, farmers, and tradespeople eking out a living in the harsh conditions.",
+												"Adventurers and Freelancers: 20 (~5%) Drift through Nulb seeking profit or information.",
+												"Merchants and Smugglers: 40 (~10%) Handle trade and black-market goods, often under the shadow of pirate crews or the Temple.",
+												"Enforcers and Guards: 30 (~8%) Madame Selentis and her Temple-appointed guards. Well-armed and disciplined, they are seen patrolling near the Old Mayor's Manor, Nulb docks and bridge."
+											]
+										},
+										"Key Observations",
+										{
+											"type": "list",
+											"items": [
+												"Transient Population: Many inhabitants view Nulb as a temporary refuge or staging ground for illicit activities.",
+												"Lack of Unity: Factions constantly vie for dominance, ensuring a volatile and dangerous environment.",
+												"Strategic Location: Proximity to the Imeryds Run and the Fens of Tor makes Nulb an important hub for smuggling, piracy, and covert operations."
+											]
+										}
+									]
+								}
+							]
+						},
+						{
+							"type": "entries",
+							"name": "DM Spotlight: Campaign",
+							"id": "005",
+							"entries": [
+								{
+									"type": "entries",
+									"name": "Lawlessness and Power Struggles",
+									"id": "006",
+									"entries": [
+										"Nulb remains a nest of anarchy and violence, its law determined only by shifting alliances of pirates, brigands, and smugglers. Beneath this surface, however, Madame Selentis (the alias of Lady Nysera Krivaltis) quietly directs operations on behalf of the Temple of Elemental Evil. Her Temple-appointed guards, a band of hardened men once loyal to Smigmal Redhand, now hold the ruined Mayor's Manor as their base. From there, Selentis oversees the movement of supplies, loot, prisoners, and recruits through Nulb into the Gnarley Forest. Yet her dominance is not public. To the average brigand, the pirates under Captain Tolub or the Crimson Trader crew appear far more powerful. This illusion of fragmented control is intentional, keeping outside eyes blind to the Temple's hand."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Cult Intrigue and Influence",
+									"id": "007",
+									"entries": [
+										"The Temple's resurgence makes Nulb a silent battleground. Each Prophet seeks to undermine the others while Hedrack pulls strings from the shadows. Romag, Prefect of the Earth Temple, uses Dick Rentsch and the Waterside Hostel to funnel coin and whispers into his faction's coffers. Belsornig of the Water Temple manipulates Captain Tolub and Marad Vesrek, leveraging piracy and slaving to secure wealth and influence. Alrrem of the Fire Temple backs Wat, stirring chaos with firebrand zealots. Each faction would gladly use adventurers against their rivals, all while concealing the true scale of the Temple's second rising."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Persistent Evil Alignment",
+									"id": "008",
+									"entries": [
+										"Nulb is steeped in opportunism, treachery, and cruelty. Most villagers lean neutral or chaotic evil, surviving by cutting deals and betraying neighbors. A few neutral opportunists exist, but true good is almost unheard of. This moral landscape makes Nulb ideal as both a den of thieves and a logistics hub for the Temple's operations."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "A Dangerous Refuge",
+									"id": "009",
+									"entries": [
+										"For pirates, cutthroats, and wandering mercenaries, Nulb offers safe harbor from the authorities of Verbobonc, Furyondy, and Veluna. Yet the stability of this refuge is carefully curated. Madame Selentis enforces secrecy on behalf of Hedrack, ensuring that no rumor of the Temple's resurgence escapes. The pirates squabble, the bandits raid, and the brothels overflow, but beneath the chaos lies quiet discipline: every wagon, every hostage, every coin flows ultimately toward the Temple's cause."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Conclusion",
+									"id": "010",
+									"entries": [
+										"Nulb teeters on the edge of chaos by design. The factions appear to vie for dominance — pirates, bandits, tavern lords — but their infighting masks the Temple's true hand. Madame Selentis's work is not to rule, but to hide the hand that feeds. For DM's, this makes Nulb both a deadly trap and a stage for political intrigue."
+									]
+								}
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Dungeon Master's Introduction",
+							"id": "011",
+							"entries": [
+								{
+									"type": "entries",
+									"name": "The Role of Nulb in T1-4 Temple of Elemental Evil",
+									"id": "012",
+									"entries": [
+										"The Village of Nulb serves as an essential setting for Dungeon Masters running the classic T1-4 Temple of Elemental Evil by Gary Gygax and Frank Mentzer. Originally, the module offered only a brief glimpse into Nulb, leaving much of its intrigue, inhabitants, and locations open to interpretation. This publication aims to expand and reimagine Nulb, providing Dungeon Masters with a fully fleshed-out village to enhance their campaigns while staying true to Gygax's vision."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "The Original Vision of Nulb",
+									"id": "013",
+									"entries": [
+										"In the T1-4 Temple of Elemental Evil, Nulb is presented as a den of scum and villainy, a place where adventurers encounter danger at every turn. However, Gygax only keyed four specific locations and introduced a small roster of non-player characters (NPCs). Nulb was meant to be a haven for pirates, brigands, and cultists loyal to the Temple, but its potential as a campaign hub was left largely untapped.",
+										"Gygax later mentioned in interviews that there were plans for additional Temple outposts and expanded content for Nulb, which had to be omitted to keep the module from ballooning to an unwieldy size. As it stands, T1-4 Temple of Elemental Evil is already one of the most detailed and sprawling modules of its time. A fully developed Nulb would have added hundreds of pages to the adventure, impractical for publication."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Expanding the Vision",
+									"id": "014",
+									"entries": [
+										{
+											"type": "entries",
+											"name": "Nulb as a Dynamic Setting",
+											"id": "015",
+											"entries": [
+												"This reimagined version of Nulb provides Dungeon Masters with the tools to immerse their players in a village rife with intrigue, danger, and opportunity.",
+												{
+													"type": "list",
+													"items": [
+														"Lawlessness and Power Struggles: With no formal government, control rests in the hands of factions. Madame Selentis enforces Hedrack's will from the ruined Mayor's Manor, pirates choke river trade, and bandit gangs fight for scraps. Even the constable is a hollow figure, a reminder that law is little more than a rumor here.",
+														"The Temple's Shadow: After Emridy Meadows, the Temple rebuilt in secrecy. Nulb became its staging ground—Romag runs schemes from the Waterside Hostel, Belsornig manipulates pirates, and Alrrem rallies zealots in hidden strongholds. Their rivalries spill into the streets, but all serve Hedrack's greater plan to keep the uprising hidden.",
+														"A Living, Breathing Village: Nulb is more than a backdrop. Every tavern, stable, or alley offers intrigue, where a careless word can spark betrayal or opportunity. The village changes with each visit—its people shifting loyalties, its factions playing games of survival, and its dangers waiting for heroes bold enough to wade in."
+													]
+												}
+											]
+										}
+									]
+								}
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Politics in Nulb",
+							"id": "016",
+							"entries": [
+								"A Web of Intrigue and Power Struggles",
+								"Nulb is a hornet's nest of criminals, pirates, and cultists, each pulling in different directions while pretending the village is nothing more than a haven for brigands. At the heart of this chaos stands Madame Selentis, Hedrack's appointed overseer. From the ruined Mayor's Manor, she manages the Temple's covert supply chain while disguising her work in a lawless border town.",
+								{
+									"type": "entries",
+									"name": "Madame Selentis's Political Strategy",
+									"id": "017",
+									"entries": [
+										"Selentis plays the role of organizer without ever revealing her true allegiance. She cultivates the illusion of neutrality, allowing pirates, bandits, and smugglers to believe they act independently—while quietly ensuring their work feeds the Temple's growing power.",
+										{
+											"type": "list",
+											"items": [
+												"Balancing Factions: Selentis manipulates rivalries between Romag, Belsornig, and Alrrem, encouraging each to undercut the others. Their petty squabbles keep attention away from Hedrack's larger designs.",
+												"Controlling Logistics: Through bandit crews and Valegrave's Farmstead, she secures food and grain; through the stables, warehouses, and taverns, she directs smuggling and prisoner transfers. Everything eventually flows to the Hunting Cabin and into the Temple's secret tunnel.",
+												"Public Posture: To the common folk, she is no more than another outlaw \"matron\" making her cut from the chaos. Her quiet efficiency ensures most outsiders never guess her true purpose."
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Tensions with the Viscount of Verbobonc",
+									"id": "018",
+									"entries": [
+										"Though technically part of the Viscounty, Nulb has long slipped beyond its grasp. Patrols avoid the village, and the Constable is a drunk husk, tolerated as a symbol of order while powerless in practice.",
+										{
+											"type": "list",
+											"items": [
+												"Non-Confrontational Stance: Selentis avoids drawing the Viscount's eye. She encourages the appearance of pirate feuds, bandit raids, and smuggling as the \"real problem,\" distracting from the Temple's hand.",
+												"Undermining Authority: By quietly feeding resources into the Temple while keeping Nulb's chaos contained, Selentis ensures Hedrack's uprising remains hidden until the time is right to strike."
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Criminal Alliances: Bandits and Pirates",
+									"id": "019",
+									"entries": [
+										"Bandits are the lifeblood of Nulb's roads, raiding caravans in the Kron Hills and funneling loot back into the village. Rather than imposing authority, Madame Selentis quietly balances rival crews, making sure no single gang grows strong enough to threaten her position. She directs their plunder through the Wainwright Depot and the Old Mayor's Manor, ensuring everything useful finds its way into the Temple's hidden supply chain."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Pirate Smugglers",
+									"id": "020",
+									"entries": [
+										"Pirates on the Imeryds Run and Velverdyva River remain Nulb's most dangerous free agents. Captain Tolub and Marad Vesrek command their own followings, allied loosely with the Water Temple through Belsornig. Smuggling, slavery, and extortion at the docks provide coin and captives that pass through Selentis's hands before reaching the Cabin and Temple.",
+										{
+											"type": "list",
+											"items": [
+												"Hidden Economy: Though these dealings appear as simple piracy, they are the backbone of the Temple's covert wealth.",
+												"Fragile Alliances: Tolub, Vesrek, and their crews resist Selentis's authority, but Hedrack ensures their usefulness by funneling support through Belsornig."
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "The Temple of Elemental Evil's Shadow",
+									"id": "021",
+									"entries": [
+										"The true purpose of Nulb lies in its service to the Temple's second rising. Each elemental faction uses the village to its advantage, though their competition fuels constant instability.",
+										{
+											"type": "list",
+											"items": [
+												"Earth Temple: Romag manipulates Dick Rentsch at the Waterside Hostel, keeping the tavern as his front.",
+												"Water Temple: Belsornig, through Tolub and Vesrek, uses piracy to destabilize rivals.",
+												"Fire Temple: Alrrem leans on Wat and bandits, his presence felt most in raids beyond the village.",
+												"Air Temple: Kelno operates in the shadows, quietly recruiting mercenaries and spies while avoiding the notice of stronger rivals."
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Recent Political Developments",
+									"id": "022",
+									"entries": [
+										{
+											"type": "list",
+											"items": [
+												"Mounted Borderer Withdrawal: The Viscount's retreat from the Kron Hills leaves the region vulnerable, emboldening bandits and pirates to strike deeper into Verbobonc's lands.",
+												"Temple Influence Rising: Selentis exploits factional feuds, often \"encouraging\" adventurers to harass one faction at the behest of another.",
+												"Increased Bandit Raids: Hedrack insists Nulb remain a den of outlaws in the eyes of outsiders, using banditry and piracy as a cover for the Temple's swelling logistics machine."
+											]
+										},
+										{
+											"type": "inset",
+											"name": "",
+											"id": "023",
+											"entries": [
+												"\"Let the Temple believe they hold the reins. Their whispers echo here, but it is I who guide the storm that brews in Nulb.\" - Madame Selentis"
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"type": "section",
+					"name": "Nulb NPCs",
+					"id": "024",
+					"entries": [
+						{
+							"type": "entries",
+							"name": "Nulb Characters by Location",
+							"id": "025",
+							"entries": [
+								"This section provides stat blocks and descriptions for notable NPCs encountered in the village of Nulb."
+							]
+						}
+					]
+				},
+				{
+					"type": "section",
+					"name": "Quests",
+					"id": "026",
+					"entries": [
+						{
+							"type": "entries",
+							"name": "Serena Daughter of Rhenn",
+							"id": "027",
+							"entries": [
+								"This section details the quest and encounters related to Serena, daughter of Rhenn, and associated locations in the Nulb area."
+							]
+						}
+					]
+				},
+				{
+					"type": "section",
+					"name": "Selentis",
+					"id": "028",
+					"entries": [
+						{
+							"type": "entries",
+							"name": "Quest Web",
+							"id": "029",
+							"entries": [
+								"A comprehensive network of interconnected quests and activities centered around Madame Selentis and her operations in Nulb."
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Nulb Political Strategy",
+							"id": "030",
+							"entries": [
+								{
+									"type": "entries",
+									"name": "Politics in Nulb",
+									"id": "031",
+									"entries": [
+										{
+											"type": "entries",
+											"name": "Verbobonc Political Strategy",
+											"id": "032",
+											"entries": [
+												"The political maneuvering and influence of the Viscounty of Verbobonc extends into Nulb, though enforcement remains loose and opportunistic."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Criminal Alliances Political Strategy",
+											"id": "033",
+											"entries": [
+												"Various criminal factions in Nulb form shifting alliances and rivalries, constantly competing for control and influence."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Pirate Smugglers",
+											"id": "034",
+											"entries": [
+												"Organized groups of pirates and smugglers operate from the docks, using Nulb as a central hub for their illicit maritime trade and operations."
+											]
+										}
+									]
+								}
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Notable People",
+							"id": "035",
+							"entries": [
+								"Madame Selentis and other key figures who shape the political and criminal landscape of Nulb."
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Associates",
+							"id": "036",
+							"entries": [
+								{
+									"type": "entries",
+									"name": "Associate Sir Torvel Hawkes",
+									"id": "037",
+									"entries": [
+										"A notable associate connected to Madame Selentis's operations."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Krael Vortash",
+									"id": "038",
+									"entries": [
+										"An associate of significance within Nulb's underground networks."
+									]
+								}
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Locations",
+							"id": "039",
+							"entries": [
+								{
+									"type": "entries",
+									"name": "Waterside Hostel",
+									"id": "040",
+									"entries": [
+										"A lodging establishment along Nulb's waterfront."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Herb Shop",
+									"id": "041",
+									"entries": [
+										"Mother Screng's establishment where herbalism and potions are the stock of trade."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Boatman's Tavern",
+									"id": "042",
+									"entries": [
+										"A frequent meeting place for riverside folk and those with maritime interests."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Fishing Shack",
+									"id": "043",
+									"entries": [
+										"A modest structure used for fishing and riverside activities."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Mistwatch Huts",
+									"id": "044",
+									"entries": [
+										"Structures associated with surveillance and lookout operations."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Wainwright",
+									"id": "045",
+									"entries": [
+										"A tradesperson's establishment dealing in wagons and wooden construction."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Boatwright",
+									"id": "046",
+									"entries": [
+										"Dunstan's place of business where boats are built and repaired."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Cottage Ruins",
+									"id": "047",
+									"entries": [
+										"Abandoned or ruined cottage structures scattered throughout the region."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Gilded Shackle",
+									"id": "048",
+									"entries": [
+										"An establishment of questionable repute, possibly involved in slavery or forced servitude."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Wharf Pier",
+									"id": "049",
+									"entries": [
+										"The main docking area where ships and cargo are managed."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Valegrave's Farmstead",
+									"id": "050",
+									"entries": [
+										"A farmstead belonging to the Valegrave family."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Thorne's Cottage",
+									"id": "051",
+									"entries": [
+										"A residential cottage associated with someone named Thorne."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Veyne's Mill",
+									"id": "052",
+									"entries": [
+										"A mill operation, likely used for grain processing."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Bramblethorn Ranch",
+									"id": "053",
+									"entries": [
+										"A ranch establishment on the outskirts of Nulb."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Old Mayor's Manor - HQ",
+									"id": "054",
+									"entries": [
+										"The seat of power in Nulb, now serving as headquarters for Madame Selentis's operations."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Old Mavreks Bakery",
+									"id": "055",
+									"entries": [
+										"A bakery establishment, possibly abandoned or repurposed."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Nulb Graveyard",
+									"id": "056",
+									"entries": [
+										"The cemetery of Nulb, a place of the dead."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Durnic's Stablehouse",
+									"id": "057",
+									"entries": [
+										"A stable facility for horses and other animals."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Nulb Constable",
+									"id": "058",
+									"entries": [
+										"The office or residence of the constable responsible for maintaining order."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Harlow's Cottage",
+									"id": "059",
+									"entries": [
+										"A residential cottage belonging to someone named Harlow."
+									]
+								}
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Selentis' Bandits",
+							"id": "060",
+							"entries": [
+								"Organized bandit groups operating under the command or control of Madame Selentis, conducting raids and operations throughout the region."
+							]
+						},
+						{
+							"type": "entries",
+							"name": "The Greater Temple Cell",
+							"id": "061",
+							"entries": [
+								"The faction within Nulb devoted to the Temple of Elemental Evil, organized into a cell structure for covert operations and recruitment."
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Arrival at the Bridge of Nulb",
+							"id": "062",
+							"entries": [
+								"The Low Road winds through the southern reaches of the Fens of Tor, where fetid marshlands form a natural barrier between the fertile fields of Verbobonc and the shadowy expanse of the Gnarley Forest. The road narrows as it nears a dilapidated stone bridge spanning the sluggish waters of the Imeryds Run. The air is heavy with the stench of stagnant water, decaying vegetation, and woodsmoke curling from the distant hovels of Nulb.",
+								{
+									"type": "inset",
+									"name": "",
+									"id": "063",
+									"entries": [
+										"At the foot of the bridge, a leaning guardhouse stands sentinel, its rotting timbers defying both time and tide. Faded and tattered banners dangle limply in the humid air, their once-proud sigils obscured by grime. The guardhouse emits faint sounds—muted laughter, gruff voices, and the occasional clink of metal—suggesting the men posted here are less vigilant watchmen and more opportunistic rogues.",
+										"Two figures in mismatched armor linger at the guardhouse entrance, their eyes sharp and unwelcoming. One spits into the mud as the other rests a hand on the hilt of a rusted blade. A third figure leans against the bridge railing, chewing on a stalk of swamp grass and eyeing travelers with the casual menace of someone unafraid of conflict.",
+										"Across the river, the heart of Nulb spreads out in grim disarray. The market square lies just beyond the bridge, a cluster of crooked, uneven buildings huddled together like scavengers around a fresh kill. To the left, the river bay cradles a collection of decrepit docks where shadowy figures and ramshackle boats move about under the watchful eye of looming pirate ships. To the right, the Imeryds Run snakes northward, its dark waters skirting the edge of town and vanishing into the gloom of the Gnarley Forest.",
+										"The village itself seems shrouded in a pall of smoke and decay. Its sagging rooftops and leaning chimneys speak of neglect, while the ominous air of lawlessness emanates from every shadow. Even from this distance, Nulb exudes an aura of menace, a place where survival hinges on strength, cunning, and the willingness to do what others will not."
+									]
+								},
+								"\"This is Nulb, stranger. Where the strong take, the cunning thrive, and the foolish vanish into the swamp.\" – Grizzled dockworker at the River Docks."
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Nulb is a Haven for Brigands and Cultists",
+							"id": "064",
+							"entries": [
+								"Nulb is a haven for outlaws, cultists, and criminals, located at the eastern edge of the Viscounty of Verbobonc, bordered by the Gnarley Forest and the Fens of Tor. It's a place where law is loosely enforced and commerce thrives on illegal activity. Despite its squalor and danger, the village serves as a key stop along the High/Forest Road."
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Demographics of Nulb (576 CY)",
+							"id": "065",
+							"entries": [
+								{
+									"type": "entries",
+									"name": "Population",
+									"id": "066",
+									"entries": [
+										"Approximately 350–400 inhabitants"
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Racial Composition",
+									"id": "067",
+									"entries": [
+										{
+											"type": "list",
+											"items": [
+												"Humans: 65% (~230) Predominantly Oeridian and Suel backgrounds, with some Flan. Includes outlaws, laborers, pirates, and smugglers.",
+												"Half-Orcs: 15% (~60) Often serving as enforcers, bodyguards, or mercenaries. Strong presence among the pirate and bandit factions.",
+												"Elves and Half-Elves: 5% (~20) Drifters, exiles, and opportunists, often mistrusted by others.",
+												"Halflings: 3% (~10) Merchants or spies who use their unassuming nature to gather intelligence."
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Occupational Breakdown",
+									"id": "068",
+									"entries": [
+										{
+											"type": "list",
+											"items": [
+												"Pirates and Riverfolk: 90 (~25%) Centered around the docks and ships like The Iron Dagger.",
+												"Bandits and Outlaws: 80 (~20%) Operate from hidden camps in nearby woods or blend into Nulb's population.",
+												"Cultists and Agents: 50 (~12%) Loyal to the Temple of Elemental Evil, serving various elemental factions.",
+												"Commoners: 60 (~15%) Laborers, farmers, and tradespeople eking out a living in the harsh conditions.",
+												"Adventurers and Freelancers: 20 (~5%) Drift through Nulb seeking profit or information.",
+												"Merchants and Smugglers: 40 (~10%) Handle trade and black-market goods, often under the shadow of pirate crews or the Temple.",
+												"Enforcers and Guards: 30 (~8%) Madame Selentis and her Temple-appointed guards. Well-armed and disciplined, they are seen patrolling near the Old Mayor's Manor, Nulb docks and bridge."
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Key Observations",
+									"id": "069",
+									"entries": [
+										{
+											"type": "list",
+											"items": [
+												"Transient Population: Many inhabitants view Nulb as a temporary refuge or staging ground for illicit activities.",
+												"Lack of Unity: Factions constantly vie for dominance, ensuring a volatile and dangerous environment.",
+												"Strategic Location: Proximity to the Imeryds Run and the Fens of Tor makes Nulb an important hub for smuggling, piracy, and covert operations."
+											]
+										}
+									]
+								}
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Quest Web",
+							"id": "070",
+							"entries": [
+								{
+									"type": "entries",
+									"name": "1. Power Struggle in Nulb (Against Selentis)",
+									"id": "071",
+									"entries": [
+										"{@b Hook:} One of Selentis's rivals—Skole (Boatman's floor boss), Dick Rentsch (Waterside), or Lodriss (market mistress)—quietly hires the party to prove Selentis is the Temple's civilian handler.",
+										"{@b What's really going on:} Selentis runs the Old Mayor's Manor as a covert hub for sorting prisoners, contraband, and orders flowing from the river and wagons to the Hunting Cottage and its tunnel into the Temple. Evidence exists—if you dare the manor cellars.",
+										{
+											"type": "list",
+											"items": [
+												"Lift a ledger or sealed order from Selentis's command room.",
+												"Shadow a night transfer from the Boatman's docks to the manor, then cottage (map times, faces, crates)."
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "2. Mission of Blood (Pro-Selentis)",
+									"id": "072",
+									"entries": [
+										"{@b Brief:} Selentis wants Captain Tolub (and thus Belsornig) checked without open war. She orders a \"lame the wolf, don't kill it\" operation. Wreck a pirate rendezvous at the Boatman's (plant false \"Earth Temple\" sigils to frame Romag).",
+										"{@b Knife-work option:} Remove Grud Squinteye, Tolub's brutal mate, to fracture crew discipline. Why it matters. Tolub is Belsornig's river fist; Selentis is his land counterweight, and the tavern is their neutral chessboard.",
+										"{@b Twist:} Belsornig's go-betweens offer the party a better purse to expose Selentis's informants.",
+										{
+											"type": "inset",
+											"name": "",
+											"id": "073",
+											"entries": [
+												"\"You look like you've got more sense than the usual sellswords, there's power shifting in this filth-ridden town… and some of us ain't keen on being beneath it.\" Madame Selentis"
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "3. The Rise of the \"Baroness\" (Pro-Selentis… or Against)",
+									"id": "074",
+									"entries": [
+										"{@b Aim:} Secure leverage over slaver-captain Vesrek.",
+										"{@b Run:} Board the Crimson Trader, copy manifests tying him to Temple shipments and Nulb cellars (the manor stores Vesrek paperwork).",
+										"{@b Fork:} Turn the evidence over to Selentis to polish her \"public\" legitimacy—or to Verbobonc agents to put a bounty on her head next."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "4. The Constable's Last Badge",
+									"id": "075",
+									"entries": [
+										"{@b Hook:} Constable Edrick Malvaar drinks to forget he's a puppet. Selentis keeps him pliant with coin, fear, and staged \"wins.\" PCs can break him… or use him.",
+										"{@b Redemption:} Extract blackmail ledgers from the manor; free him to act as your lawful screen.",
+										"{@b Leash:} Fabricate proof he's skimming Temple coin.",
+										"{@b Fallout:} If exposed clumsily, Lucius replaces Edrick."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "5. The Silent Road (Pro-/Anti-Selentis)",
+									"id": "076",
+									"entries": [
+										"{@b Mission:} Intercept a midnight convoy: Boatman's → Manor → Hunting Cottage → Tunnel. Decide whether to seize, poison, or ghost-escort the load to learn the schedule deeper in.",
+										"{@b Inside the cottage.} Gefreid's logs, bugbear timings, rune-stones, and the worked cave to the Temple—this is the artery."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "6. Break the Chain (Anti-Temple)",
+									"id": "077",
+									"entries": [
+										"{@b Job:} Sabotage the Hunting Cottage tunnel node to stall the uprising without revealing how you knew.",
+										"{@b Details:} Goblin whistles, bugbear fire-teams, carrion crawler contingencies, even a planned cave-in protocol—Gefreid runs it like a ledger.",
+										"{@b Success:} Weeks of supply shock; Selentis scrambles to patch the route, giving PCs time to move on the manor."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "7. Parley in the Grand Hall (Social)",
+									"id": "078",
+									"entries": [
+										"{@b Scene:} Selentis invites the party to \"negotiate\" under crossbows in the ruined ballroom—her velvet glove over iron. Choices.",
+										{
+											"type": "list",
+											"items": [
+												"Trade names and routes for immunity.",
+												"Offer to take a contract against her rivals (Tolub, Rentsch, Skole) earn temporary safe-harbor in Nulb."
+											]
+										},
+										"{@b Hidden Clock.} If talks stall, a \"house fire\" starts—stirges loose, dire hounds unchained, and a polite bow from the balcony."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Rewards & Levers",
+									"id": "079",
+									"entries": [
+										"(Use as needed)",
+										"{@b Documents & Ledgers.} Shipment schedules, slave manifests, pirate cuts—real power at your table is paper and signatures.",
+										"{@b Pardons/Passes.} Temporary writs from the constable or stamped \"market scrip\" that buys them five minutes in the Boatman's back rooms.",
+										"{@b Allies on a String.} A frightened clerk, a bandit sergeant tired of bugbear bullying, a barmaid informant."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Failure States (Escalation Ladder)",
+									"id": "080",
+									"entries": [
+										"{@b Quiet Knife.} A messenger vanishes; prices go up; doors shut, lost corporation.",
+										"{@b Smigmal's Shadow.} Assassin dog the party's trail.",
+										"{@b Feldrin's Teeth.} Bugbear \"inspectors\" appear in town to \"audit\" the problem.",
+										"{@b Invitation Withdrawn.} The Grand Hall parley becomes a trap."
+									]
+								}
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Nulb Political Strategy",
+							"id": "081",
+							"entries": [
+								{
+									"type": "entries",
+									"name": "Politics in Nulb",
+									"id": "082",
+									"entries": [
+										"A Web of Intrigue and Power Struggles",
+										"Nulb is a hornet's nest of criminals, pirates, and cultists, each pulling in different directions while pretending the village is nothing more than a haven for brigands. At the heart of this chaos stands Madame Selentis, Hedrack's appointed overseer. From the ruined Mayor's Manor, she manages the Temple's covert supply chain while disguising her work in a lawless border town."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Madame Selentis's Political Strategy",
+									"id": "083",
+									"entries": [
+										"Selentis plays the role of organizer without ever revealing her true allegiance. She cultivates the illusion of neutrality, allowing pirates, bandits, and smugglers to believe they act independently—while quietly ensuring their work feeds the Temple's growing power.",
+										{
+											"type": "entries",
+											"name": "Balancing Factions",
+											"id": "084",
+											"entries": [
+												"Selentis manipulates rivalries between Romag, Belsornig, and Alrrem, encouraging each to undercut the others. Their petty squabbles keep attention away from Hedrack's larger designs."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Controlling Logistics",
+											"id": "085",
+											"entries": [
+												"Through bandit crews and Valegrave's Farmstead, she secures food and grain; through the stables, warehouses, and taverns, she directs smuggling and prisoner transfers. Everything eventually flows to the Hunting Cabin and into the Temple's secret tunnel."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Public Posture",
+											"id": "086",
+											"entries": [
+												"To the common folk, she is no more than another outlaw \"matron\" making her cut from the chaos. Her quiet efficiency ensures most outsiders never guess her true purpose."
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Tensions with the Viscount of Verbobonc",
+									"id": "087",
+									"entries": [
+										"Though technically part of the Viscounty, Nulb has long slipped beyond its grasp. Patrols avoid the village, and the Constable is a drunk husk, tolerated as a symbol of order while powerless in practice.",
+										{
+											"type": "entries",
+											"name": "Non-Confrontational Stance",
+											"id": "088",
+											"entries": [
+												"Selentis avoids drawing the Viscount's eye. She encourages the appearance of pirate feuds, bandit raids, and smuggling as the \"real problem,\" distracting from the Temple's hand."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Undermining Authority",
+											"id": "089",
+											"entries": [
+												"By quietly feeding resources into the Temple while keeping Nulb's chaos contained, Selentis ensures Hedrack's uprising remains hidden until the time is right to strike."
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Criminal Alliances: Bandits and Pirates",
+									"id": "090",
+									"entries": [
+										"Bandits are the lifeblood of Nulb's roads, raiding caravans in the Kron Hills and funneling loot back into the village. Rather than imposing authority, Madame Selentis quietly balances rival crews, making sure no single gang grows strong enough to threaten her position. She directs their plunder through the Wainwright Depot and the Old Mayor's Manor, ensuring everything useful finds its way into the Temple's hidden supply chain."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Pirate Smugglers",
+									"id": "091",
+									"entries": [
+										"Pirates on the Imeryds Run and Velverdyva River remain Nulb's most dangerous free agents. Captain Tolub and Marad Vesrek command their own followings, allied loosely with the Water Temple through Belsornig. Smuggling, slavery, and extortion at the docks provide coin and captives that pass through Selentis's hands before reaching the Cabin and Temple.",
+										{
+											"type": "entries",
+											"name": "Hidden Economy",
+											"id": "092",
+											"entries": [
+												"Though these dealings appear as simple piracy, they are the backbone of the Temple's covert wealth."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Fragile Alliances",
+											"id": "093",
+											"entries": [
+												"Tolub, Vesrek, and their crews resist Selentis's authority, but Hedrack ensures their usefulness by funneling support through Belsornig."
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "The Temple of Elemental Evil's Shadow",
+									"id": "094",
+									"entries": [
+										"The true purpose of Nulb lies in its service to the Temple's second rising. Each elemental faction uses the village to its advantage, though their competition fuels constant instability.",
+										{
+											"type": "list",
+											"items": [
+												"{@b Earth Temple:} Romag manipulates Dick Rentsch at the Waterside Hostel, keeping the tavern as his front.",
+												"{@b Water Temple:} Belsornig, through Tolub and Vesrek, uses piracy to destabilize rivals.",
+												"{@b Fire Temple:} Alrrem leans on Wat and bandits, his presence felt most in raids beyond the village.",
+												"{@b Air Temple:} Kelno operates in the shadows, quietly recruiting mercenaries and spies while avoiding the notice of stronger rivals."
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Recent Political Developments",
+									"id": "095",
+									"entries": [
+										{
+											"type": "list",
+											"items": [
+												"{@b Mounted Borderer Withdrawal:} The Viscount's retreat from the Kron Hills leaves the region vulnerable, emboldening bandits and pirates to strike deeper into Verbobonc's lands.",
+												"{@b Temple Influence Rising:} Selentis exploits factional feuds, often \"encouraging\" adventurers to harass one faction at the behest of another.",
+												"{@b Increased Bandit Raids:} Hedrack insists Nulb remain a den of outlaws in the eyes of outsiders, using banditry and piracy as a cover for the Temple's swelling logistics machine."
+											]
+										}
+									]
+								},
+								{
+									"type": "inset",
+									"name": "",
+									"id": "096",
+									"entries": [
+										"\"Let the Temple believe they hold the reins. Their whispers echo here, but it is I who guide the storm that brews in Nulb.\" - Madame Selentis"
+									]
+								}
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Politics in Nulb",
+							"id": "097",
+							"entries": [
+								{
+									"type": "entries",
+									"name": "Campaign Lawlessness and Power Struggles",
+									"id": "098",
+									"entries": [
+										"Nulb remains a nest of anarchy and violence, its law determined only by shifting alliances of pirates, brigands, and smugglers. Beneath this surface, however, Madame Selentis (the alias of Lady Nysera Krivaltis) quietly directs operations on behalf of the Temple of Elemental Evil. Her Temple-appointed guards, a band of hardened men once loyal to Smigmal Redhand, now hold the ruined Mayor's Manor as their base. From there, Selentis oversees the movement of supplies, loot, prisoners, and recruits through Nulb into the Gnarley Forest. Yet her dominance is not public. To the average brigand, the pirates under Captain Tolub or the Crimson Trader crew appear far more powerful. This illusion of fragmented control is intentional, keeping outside eyes blind to the Temple's hand."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Cult Intrigue and Influence",
+									"id": "099",
+									"entries": [
+										"The Temple's resurgence makes Nulb a silent battleground. Each Prophet seeks to undermine the others while Hedrack pulls strings from the shadows. Romag, Prefect of the Earth Temple, uses Dick Rentsch and the Waterside Hostel to funnel coin and whispers into his faction's coffers. Belsornig of the Water Temple manipulates Captain Tolub and Marad Vesrek, leveraging piracy and slaving to secure wealth and influence. Alrrem of the Fire Temple backs Wat, stirring chaos with firebrand zealots. Each faction would gladly use adventurers against their rivals, all while concealing the true scale of the Temple's second rising."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Persistent Evil Alignment",
+									"id": "100",
+									"entries": [
+										"Nulb is steeped in opportunism, treachery, and cruelty. Most villagers lean neutral or chaotic evil, surviving by cutting deals and betraying neighbors. A few neutral opportunists exist, but true good is almost unheard of. This moral landscape makes Nulb ideal as both a den of thieves and a logistics hub for the Temple's operations."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "A Dangerous Refuge",
+									"id": "101",
+									"entries": [
+										"For pirates, cutthroats, and wandering mercenaries, Nulb offers safe harbor from the authorities of Verbobonc, Furyondy, and Veluna. Yet the stability of this refuge is carefully curated. Madame Selentis enforces secrecy on behalf of Hedrack, ensuring that no rumor of the Temple's resurgence escapes. The pirates squabble, the bandits raid, and the brothels overflow, but beneath the chaos lies quiet discipline: every wagon, every hostage, every coin flows ultimately toward the Temple's cause."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Conclusion",
+									"id": "102",
+									"entries": [
+										"Nulb teeters on the edge of chaos by design. The factions appear to vie for dominance — pirates, bandits, tavern lords — but their infighting masks the Temple's true hand. Madame Selentis's work is not to rule, but to hide the hand that feeds. For DM's, this makes Nulb both a deadly trap and a stage for political intrigue."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Dungeon Master's Introduction",
+									"id": "103",
+									"entries": [
+										{
+											"type": "entries",
+											"name": "The Role of Nulb in T1-4 Temple of Elemental Evil",
+											"id": "104",
+											"entries": [
+												"The Village of Nulb serves as an essential setting for Dungeon Masters running the classic T1-4 Temple of Elemental Evil by Gary Gygax and Frank Mentzer. Originally, the module offered only a brief glimpse into Nulb, leaving much of its intrigue, inhabitants, and locations open to interpretation. This publication aims to expand and reimagine Nulb, providing Dungeon Masters with a fully fleshed-out village to enhance their campaigns while staying true to Gygax's vision."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "The Original Vision of Nulb",
+											"id": "105",
+											"entries": [
+												"In the T1-4 Temple of Elemental Evil, Nulb is presented as a den of scum and villainy, a place where adventurers encounter danger at every turn. However, Gygax only keyed four specific locations and introduced a small roster of non-player characters (NPCs). Nulb was meant to be a haven for pirates, brigands, and cultists loyal to the Temple, but its potential as a campaign hub was left largely untapped.",
+												"Gygax later mentioned in interviews that there were plans for additional Temple outposts and expanded content for Nulb, which had to be omitted to keep the module from ballooning to an unwieldy size. As it stands, T1-4 Temple of Elemental Evil is already one of the most detailed and sprawling modules of its time. A fully developed Nulb would have added hundreds of pages to the adventure, impractical for publication."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Expanding the Vision",
+											"id": "106",
+											"entries": [
+												{
+													"type": "entries",
+													"name": "Nulb as a Dynamic Setting",
+													"id": "107",
+													"entries": [
+														"This reimagined version of Nulb provides Dungeon Masters with the tools to immerse their players in a village rife with intrigue, danger, and opportunity.",
+														{
+															"type": "list",
+															"items": [
+																"{@b Lawlessness and Power Struggles:} With no formal government, control rests in the hands of factions. Madame Selentis enforces Hedrack's will from the ruined Mayor's Manor, pirates choke river trade, and bandit gangs fight for scraps. Even the constable is a hollow figure, a reminder that law is little more than a rumor here.",
+																"{@b The Temple's Shadow:} After Emridy Meadows, the Temple rebuilt in secrecy. Nulb became its staging ground—Romag runs schemes from the Waterside Hostel, Belsornig manipulates pirates, and Alrrem rallies zealots in hidden strongholds. Their rivalries spill into the streets, but all serve Hedrack's greater plan to keep the uprising hidden.",
+																"{@b A Living, Breathing Village:} Nulb is more than a backdrop. Every tavern, stable, or alley offers intrigue, where a careless word can spark betrayal or opportunity. The village changes with each visit—its people shifting loyalties, its factions playing games of survival, and its dangers waiting for heroes bold enough to wade in."
+															]
+														}
+													]
+												}
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "A Web of Intrigue and Power Struggles",
+									"id": "108",
+									"entries": [
+										"Nulb is a hornet's nest of criminals, pirates, and cultists, each pulling in different directions while pretending the village is nothing more than a haven for brigands. At the heart of this chaos stands Madame Selentis, Hedrack's appointed overseer. From the ruined Mayor's Manor, she manages the Temple's covert supply chain while disguising her work in a lawless border town."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Verbobonc Political Strategy",
+									"id": "109",
+									"entries": [
+										{
+											"type": "entries",
+											"name": "Madame Selentis's Political Strategy",
+											"id": "110",
+											"entries": [
+												"Selentis plays the role of organizer without ever revealing her true allegiance. She cultivates the illusion of neutrality, allowing pirates, bandits, and smugglers to believe they act independently—while quietly ensuring their work feeds the Temple's growing power.",
+												{
+													"type": "list",
+													"items": [
+														"{@b Balancing Factions:} Selentis manipulates rivalries between Romag, Belsornig, and Alrrem, encouraging each to undercut the others. Their petty squabbles keep attention away from Hedrack's larger designs.",
+														"{@b Controlling Logistics:} Through bandit crews and Valegrave's Farmstead, she secures food and grain; through the stables, warehouses, and taverns, she directs smuggling and prisoner transfers. Everything eventually flows to the Hunting Cabin and into the Temple's secret tunnel.",
+														"{@b Public Posture:} To the common folk, she is no more than another outlaw \"matron\" making her cut from the chaos. Her quiet efficiency ensures most outsiders never guess her true purpose."
+													]
+												}
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Tensions with the Viscount of Verbobonc",
+											"id": "111",
+											"entries": [
+												"Though technically part of the Viscounty, Nulb has long slipped beyond its grasp. Patrols avoid the village, and the Constable is a drunk husk, tolerated as a symbol of order while powerless in practice.",
+												{
+													"type": "list",
+													"items": [
+														"{@b Non-Confrontational Stance:} Selentis avoids drawing the Viscount's eye. She encourages the appearance of pirate feuds, bandit raids, and smuggling as the \"real problem,\" distracting from the Temple's hand.",
+														"{@b Undermining Authority:} By quietly feeding resources into the Temple while keeping Nulb's chaos contained, Selentis ensures Hedrack's uprising remains hidden until the time is right to strike."
+													]
+												}
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Criminal Alliances Political Strategy",
+									"id": "112",
+									"entries": [
+										{
+											"type": "entries",
+											"name": "Criminal Alliances: Bandits and Pirates",
+											"id": "113",
+											"entries": [
+												"Bandits are the lifeblood of Nulb's roads, raiding caravans in the Kron Hills and funneling loot back into the village. Rather than imposing authority, Madame Selentis quietly balances rival crews, making sure no single gang grows strong enough to threaten her position. She directs their plunder through the Wainwright Depot and the Old Mayor's Manor, ensuring everything useful finds its way into the Temple's hidden supply chain."
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Pirate Smugglers",
+									"id": "114",
+									"entries": [
+										"Pirates on the Imeryds Run and Velverdyva River remain Nulb's most dangerous free agents. Captain Tolub and Marad Vesrek command their own followings, allied loosely with the Water Temple through Belsornig. Smuggling, slavery, and extortion at the docks provide coin and captives that pass through Selentis's hands before reaching the Cabin and Temple.",
+										{
+											"type": "list",
+											"items": [
+												"{@b Hidden Economy:} Though these dealings appear as simple piracy, they are the backbone of the Temple's covert wealth.",
+												"{@b Fragile Alliances:} Tolub, Vesrek, and their crews resist Selentis's authority, but Hedrack ensures their usefulness by funneling support through Belsornig."
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "The Temple of Elemental Evil's Shadow",
+									"id": "115",
+									"entries": [
+										"The true purpose of Nulb lies in its service to the Temple's second rising. Each elemental faction uses the village to its advantage, though their competition fuels constant instability.",
+										{
+											"type": "list",
+											"items": [
+												"{@b Earth Temple:} Romag manipulates Dick Rentsch at the Waterside Hostel, keeping the tavern as his front.",
+												"{@b Water Temple:} Belsornig, through Tolub and Vesrek, uses piracy to destabilize rivals.",
+												"{@b Fire Temple:} Alrrem leans on Wat and bandits, his presence felt most in raids beyond the village.",
+												"{@b Air Temple:} Kelno operates in the shadows, quietly recruiting mercenaries and spies while avoiding the notice of stronger rivals."
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Recent Political Developments",
+									"id": "116",
+									"entries": [
+										{
+											"type": "list",
+											"items": [
+												"{@b Mounted Borderer Withdrawal:} The Viscount's retreat from the Kron Hills leaves the region vulnerable, emboldening bandits and pirates to strike deeper into Verbobonc's lands.",
+												"{@b Temple Influence Rising:} Selentis exploits factional feuds, often \"encouraging\" adventurers to harass one faction at the behest of another.",
+												"{@b Increased Bandit Raids:} Hedrack insists Nulb remain a den of outlaws in the eyes of outsiders, using banditry and piracy as a cover for the Temple's swelling logistics machine."
+											]
+										},
+										{
+											"type": "inset",
+											"name": "",
+											"id": "117",
+											"entries": [
+												"\"Let the Temple believe they hold the reins. Their whispers echo here, but it is I who guide the storm that brews in Nulb.\" - Madame Selentis"
+											]
+										}
+									]
+								}
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Notable People",
+							"id": "118",
+							"entries": [
+								{
+									"type": "entries",
+									"name": "Notable People of Nulb",
+									"id": "119",
+									"entries": [
+										"The village of Nulb is home to an eclectic array of powerful and dangerous figures. Each wields influence in their own way, contributing to the chaos and intrigue that define the settlement. Below is a summary of the key individuals whose actions shape the fate of Nulb.",
+										{
+											"type": "entries",
+											"name": "Madame Selentis (alias Lady Nysera Krivaltis)",
+											"id": "120",
+											"entries": [
+												"Once thought dead after her family's disgrace, Nysera reemerges in Nulb under the alias Madame Selentis. Installed by Hedrack himself, she commands a band of hardened Temple-backed enforcers from the Old Mayor's Manor, overseeing smuggling and logistics in service of the Temple of Elemental Evil.",
+												{
+													"type": "list",
+													"items": [
+														"{@b Role:} Temple Agent and Logistics Overseer",
+														"{@b Motivation:} To rebuild her power through loyalty to the Temple and tighten her hold on Nulb.",
+														"{@b True Allegiance:} The Scarlet Brotherhood seeded Elvanna in Nulb's brothel years ago."
+													]
+												}
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Sir Torvel Hawkes",
+											"id": "121",
+											"entries": [
+												"A scarred veteran of the Battle of Emridy Meadows, Torvel abandoned his noble path to become Selentis's sworn protector, serving as both her shield and sword.",
+												{
+													"type": "list",
+													"items": [
+														"{@b Role:} Loyal Knight and protector of Selentis.",
+														"{@b Motivation:} To redeem Nysera's honor through devotion and military strength."
+													]
+												}
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Selentis's Bandits",
+											"id": "122",
+											"entries": [
+												"Assigned by Smigmal Redhand, these hardened brigands patrol Nulb's key sites and guard Selentis's operations. Their allegiance is less about loyalty to her and more about Temple backing—but their presence marks Selentis as a force to be reckoned with.",
+												{
+													"type": "list",
+													"items": [
+														"{@b Role:} Selentis's Enforcers",
+														"{@b Motivation:} To enforce Selentis's will and ensure Temple operations in Nulb."
+													]
+												}
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Romag, Prophet of Earth",
+											"id": "123",
+											"entries": [
+												"Operating through Dick Rentsch and the Waterside Hostel, Romag manipulates Nulb's factions to advance the Earth Temple. His quiet strength is subtle but pervasive, undermining Selentis.",
+												{
+													"type": "list",
+													"items": [
+														"{@b Role:} Earth Temple Leader and Manipulator",
+														"{@b Motivation:} Expand the Earth Temple's power."
+													]
+												}
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Belsornig, Prophet of Water",
+											"id": "124",
+											"entries": [
+												"Belsornig's alliance with Captain Tolub strengthens the Water Temple's grip on piracy and trade. His network destabilizes Selentis's authority.",
+												{
+													"type": "list",
+													"items": [
+														"{@b Role:} Water Temple Leader and Pirate Patron",
+														"{@b Motivation:} Control Nulb's waterways and outmaneuver rival prophets."
+													]
+												}
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Captain Tolub",
+											"id": "125",
+											"entries": [
+												"Master of the Iron Dagger, Tolub is equal parts pirate and politician. His partnership with Belsornig funds his ventures, but his growing ambitions put him into frequent conflict with Selentis and her Temple masters.",
+												{
+													"type": "list",
+													"items": [
+														"{@b Role:} Pirate Captain of the Iron Dagger",
+														"{@b Motivation:} Dominate Nulb's river trade and amass wealth while strengthening the Water Temple."
+													]
+												}
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Grud Squinteye",
+											"id": "126",
+											"entries": [
+												"Tolub's ruthless right hand, Grud relishes bloodshed and intimidation. His cruel reputation cements the pirates' stranglehold on Nulb's docks.",
+												{
+													"type": "list",
+													"items": [
+														"{@b Role:} Lieutenant of the Iron Dagger",
+														"{@b Motivation:} Prove himself as the deadliest enforcer."
+													]
+												}
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Dick Rentsch",
+											"id": "127",
+											"entries": [
+												"Owner of the Waterside Hostel, Dick poses as a genial innkeeper while secretly serving the Earth Temple. He uses his position to collect intelligence and funnel resources for Romag, always scheming to undercut Selentis's growing power.",
+												{
+													"type": "list",
+													"items": [
+														"{@b Role:} Hostelier and Earth Temple Agent",
+														"{@b Motivation:} Expand Earth Temple influence."
+													]
+												}
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Wat",
+											"id": "128",
+											"entries": [
+												"The Waterside Hostel's bartender hides a more dangerous role—an informer for the Fire Temple and Prefect Alrrem. By feeding intelligence across factions, Wat stirs the pot in Nulb's deadly rivalries.",
+												{
+													"type": "list",
+													"items": [
+														"{@b Role:} Bartender and Fire Temple Spy",
+														"{@b Motivation:} Aid the Fire Temple by sabotaging its rivals through espionage."
+													]
+												}
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Skole",
+											"id": "129",
+											"entries": [
+												"The Boatman's Tavern is Skole's domain. Outwardly neutral, he covertly collaborates with the Water Temple, serving as their eyes and ears in the taverns while profiting from smuggling.",
+												{
+													"type": "list",
+													"items": [
+														"{@b Role:} Proprietor of the Boatman's Tavern, Water Temple Collaborator",
+														"{@b Motivation:} Gain wealth and influence by balancing neutrality and Temple ties."
+													]
+												}
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Lodriss",
+											"id": "130",
+											"entries": [
+												"The hidden power behind the Boatman's Tavern, Lodriss cultivates ties with Captain Tolub while carefully preserving her independence. Her sharp instincts make her a dangerous rival—or ally—depending on who crosses her path.",
+												{
+													"type": "list",
+													"items": [
+														"{@b Role:} Tavern Power Broker and Pirate Ally",
+														"{@b Motivation:} Leverage her ties with Tolub to remain influential while avoiding Temple domination."
+													]
+												}
+											]
+										}
+									]
+								}
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Associates",
+							"id": "131",
+							"entries": [
+								{
+									"type": "entries",
+									"name": "Associate Sir Torvel Hawkes",
+									"id": "132",
+									"entries": [
+										"A scarred veteran of the Battle of Emridy Meadows, Torvel abandoned his noble path to become Selentis's sworn protector, serving as both her shield and sword.",
+										{
+											"type": "entries",
+											"name": "Role",
+											"id": "133",
+											"entries": [
+												"Loyal Knight and protector of Selentis."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Motivation",
+											"id": "134",
+											"entries": [
+												"To redeem Nysera's honor through devotion and military strength."
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Krael Vortash, Captain",
+									"id": "135",
+									"entries": [
+										"Greater Temple Captain placed by Smigmal of the Broken Tower to assist Hedrack's agent in Nulb, Madame Selentis."
+									]
+								}
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Locations",
+							"id": "136",
+							"entries": [
+								{
+									"type": "entries",
+									"name": "1. Waterside Hostel of Nulb",
+									"id": "137",
+									"entries": [
+										"Seedy stronghold of secrets on the bank of Imeryds Run. The Waterside Hostel is a cracked jewel in Nulb's gutter crown—a tangle of tavern, inn, and haven for outlaws that clings to the riverbank like a leech. Stone foundation. Timber bones. Smoke-stained rafters. Its rooms creak, the ale is sour, if something bites you in the night, pray it's a rat.",
+										{
+											"type": "inset",
+											"name": "Proprietor & Function",
+											"id": "138",
+											"entries": [
+												"{@b Owner:} Dick Rentsch (covert operative of the Earth Temple under Romag)",
+												"{@b Function:} Inn, tavern, smuggling waystation",
+												"{@b Atmosphere:} Perpetual tinderbox—kegs of menace",
+												"\"Rooms are cheap. Lives cheaper.\" —Local saying scratched into the outhouse door."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Physical Features",
+											"id": "139",
+											"entries": [
+												"Two stories: field-stone foundation, patched timber walls; lean-to sheds and a rickety gallery facing the river. The roofline sags under too many winters.",
+												"{@b Tavern Room:} Low ceiling, smoke-thick air, lantern light the color of old butter. Sound stacks under the beams; whispers carry farther than you think.",
+												"{@b Semi-Private Rooms (B–D):} Cramped bunk rooms with warped doors and rusted latches. Mildew, sweat, and old blood in the boards. \"Privacy\" is something you rent by the hour, lose by the minute."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Hostile Hospitality",
+											"id": "140",
+											"entries": [
+												"{@b Dick Rentsch:} The gruff publican mask hides a patient recruiter and sorter for the Earth Temple. He weighs every guest for utility: coin, leverage, or sacrifice. He smiles with his mouth, listens with his eyes, and remembers everything.",
+												"{@b Wat (barkeep):} Quiet, sharp, and loyal—to Alrrem's Fire Temple. The bar is a cold war line: Earth vs. Fire under the same roof. Each man tolerates the other, Hedrack demands no schisms in Nulb."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Serving Staff",
+											"id": "141",
+											"entries": [
+												"{@b Dala & Pearl (cutpurse wenches; level-3 thieves):} Pour ale, lift purses, start rumors.",
+												"{@b Two manservants (level-2 fighters):} Sleep in the loft above the gallery with chain, shields, light crossbows, and orders to crack heads fast."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Hostel Structure (for DMs)",
+											"id": "142",
+											"entries": [
+												"The Waterside was a decent inn but The Temple's rise rotted it into a predator den. Dick and Wat run a laundering and staging house.",
+												"At night, the place transforms into a boiling pot of violence and plotting. Brawls are common, secrets are whispered over spilled ale, and death is always just one drink away."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Room Rates",
+											"id": "143",
+											"entries": [
+												{
+													"type": "list",
+													"items": [
+														"Common Room Cot: 5 sp / night",
+														"Small Room Bunk: 7 sp / night",
+														"Private Room (B-D): 30 sp / night"
+													]
+												}
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Political Ties, Infamy, and Survival",
+											"id": "144",
+											"entries": [
+												"{@b Madame Selentis (Nysera Krivaltis):} The spider over Nulb's web. Her Temple guards shadow convoys, lift captives, and collect what's owed. The Waterside is useful, so she lets Dick run it—so long as it stays useful.",
+												"{@b Romag (Earth Temple):} This is his surface foothold: screening recruits, moving coin, and holding \"special guests\" for pickup. Dick answers to Romag when it's profitable, and to Selentis when it's wise.",
+												"{@b Alrrem (Fire Temple):} Present only as whispers and Wat's eyes. Fire uses the bar to watch Earth, not to claim the ground.",
+												"{@b Belsornig (Water Temple):} Keeps his hands off the Waterside; his crews drink and deal across the bridge at the Boatman's Tavern.",
+												"{@b Neutral Ground (with teeth):} Every faction uses the Waterside. None dare torch their own table. Fights end fast unless someone important gives orders.",
+												"{@b Infested & Infamous:} The rooms itch. The beds bite. And if you snore too loud, you might not wake up.",
+												"{@b Dagger Behind the Ale:} It's well-known that staying at the Waterside Hostel is a gamble—but in Nulb, sometimes that's the best you can hope for.",
+												"{@b Nightfall Rule:} When the sun drops, the Waterside boils—fights, deals, and whispered heresies. Blood is bad for business, but \"accidents\" happen. The only law here is sold to the highest bidder—and Selentis buys in bulk."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Time and Atmosphere",
+											"id": "145",
+											"entries": [
+												{
+													"type": "list",
+													"items": [
+														"{@b Day:} Hungover hush; locals, deals. Staff: Wat (barkeep), Pearl (server/pickpocket), Dick drifts through; guards off-duty. Pearl targets inebriates only; Wat screens newcomers for Fire Temple interest.",
+														"{@b Night:} Packed, smoky, volatile. Staff: Wat (barkeep), Dala (server/cutpurse), Dick (present), 2 Manservants (armored, crossbows ready in loft). Dala runs Dick's errands; Earth-loyal eyes watch private rooms and the back stairs."
+													]
+												}
+											]
+										}
+									]
+								}
+							]
+						},
+						{
+							"type": "entries",
+							"name": "Selentis' Bandits",
+							"id": "146",
+							"entries": [
+								{
+									"type": "entries",
+									"name": "Madame Selentis (alias Lady Nysera Krivaltis)",
+									"id": "147",
+									"entries": [
+										"Once thought dead after her family's disgrace, Nysera reemerges in Nulb under the alias Madame Selentis. Installed by Hedrack himself, she commands a band of hardened Temple-backed enforcers from the Old Mayor's Manor, overseeing smuggling and logistics in service of the Temple of Elemental Evil.",
+										{
+											"type": "entries",
+											"name": "Role: Temple Agent and Logistics Overseer",
+											"id": "148",
+											"entries": [
+												"To rebuild her power through loyalty to the Temple and tighten her hold on Nulb."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Motivation",
+											"id": "149",
+											"entries": [
+												"To rebuild her power through loyalty to the Temple and tighten her hold on Nulb."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "True Allegiance",
+											"id": "150",
+											"entries": [
+												"The Scarlet Brotherhood seeded Elvanna in Nulb's brothel years ago."
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Sir Torvel Hawkes",
+									"id": "151",
+									"entries": [
+										"A scarred veteran of the Battle of Emridy Meadows, Torvel abandoned his noble path to become Selentis's sworn protector, serving as both her shield and sword.",
+										{
+											"type": "entries",
+											"name": "Role: Loyal Knight and Protector of Selentis",
+											"id": "152",
+											"entries": [
+												"To serve as both her shield and sword."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Motivation",
+											"id": "153",
+											"entries": [
+												"To redeem Nysera's honor through devotion and military strength."
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Selentis's Bandits",
+									"id": "154",
+									"entries": [
+										"Assigned by Smigmal Redhand, these hardened brigands patrol Nulb's key sites and guard Selentis's operations. Their allegiance is less about loyalty to her and more about Temple backing—but their presence marks Selentis as a force to be reckoned with.",
+										{
+											"type": "entries",
+											"name": "Role: Selentis's Enforcers",
+											"id": "155",
+											"entries": [
+												"To enforce Selentis's will and ensure Temple operations in Nulb."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Motivation",
+											"id": "156",
+											"entries": [
+												"To enforce Selentis's will and ensure Temple operations in Nulb."
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Romag, Prophet of Earth",
+									"id": "157",
+									"entries": [
+										"Operating through Dick Rentsch and the Waterside Hostel, Romag manipulates Nulb's factions to advance the Earth Temple. His quiet strength is subtle but pervasive, undermining Selentis.",
+										{
+											"type": "entries",
+											"name": "Role: Earth Temple Leader and Manipulator",
+											"id": "158",
+											"entries": [
+												"Expand the Earth Temple's power."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Motivation",
+											"id": "159",
+											"entries": [
+												"Expand the Earth Temple's power."
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Belsornig, Prophet of Water",
+									"id": "160",
+									"entries": [
+										"Belsornig's alliance with Captain Tolub strengthens the Water Temple's grip on piracy and trade. His network destabilizes Selentis's authority.",
+										{
+											"type": "entries",
+											"name": "Role: Water Temple Leader and Pirate Patron",
+											"id": "161",
+											"entries": [
+												"Control Nulb's waterways and outmaneuver rival prophets."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Motivation",
+											"id": "162",
+											"entries": [
+												"Control Nulb's waterways and outmaneuver rival prophets."
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Captain Tolub",
+									"id": "163",
+									"entries": [
+										"Master of the Iron Dagger, Tolub is equal parts pirate and politician. His partnership with Belsornig funds his ventures, but his growing ambitions put him into frequent conflict with Selentis and her Temple masters.",
+										{
+											"type": "entries",
+											"name": "Role: Pirate Captain of the Iron Dagger",
+											"id": "164",
+											"entries": [
+												"Master of the Iron Dagger, Tolub is equal parts pirate and politician."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Motivation",
+											"id": "165",
+											"entries": [
+												"Dominate Nulb's river trade and amass wealth while strengthening the Water Temple."
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Grud Squinteye",
+									"id": "166",
+									"entries": [
+										"Tolub's ruthless right hand, Grud relishes bloodshed and intimidation. His cruel reputation cements the pirates' stranglehold on Nulb's docks.",
+										{
+											"type": "entries",
+											"name": "Role: Lieutenant of the Iron Dagger",
+											"id": "167",
+											"entries": [
+												"Tolub's ruthless right hand."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Motivation",
+											"id": "168",
+											"entries": [
+												"Prove himself as the deadliest enforcer."
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Dick Rentsch",
+									"id": "169",
+									"entries": [
+										"Owner of the Waterside Hostel, Dick poses as a genial innkeeper while secretly serving the Earth Temple. He uses his position to collect intelligence and funnel resources for Romag, always scheming to undercut Selentis's growing power.",
+										{
+											"type": "entries",
+											"name": "Role: Hostelier and Earth Temple Agent",
+											"id": "170",
+											"entries": [
+												"Owner of the Waterside Hostel, Dick poses as a genial innkeeper while secretly serving the Earth Temple."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Motivation",
+											"id": "171",
+											"entries": [
+												"Expand Earth Temple influence."
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Wat",
+									"id": "172",
+									"entries": [
+										"The Waterside Hostel's bartender hides a more dangerous role—an informer for the Fire Temple and Prefect Alrrem. By feeding intelligence across factions, Wat stirs the pot in Nulb's deadly rivalries.",
+										{
+											"type": "entries",
+											"name": "Role: Bartender and Fire Temple Spy",
+											"id": "173",
+											"entries": [
+												"The Waterside Hostel's bartender hides a more dangerous role—an informer for the Fire Temple."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Motivation",
+											"id": "174",
+											"entries": [
+												"Aid the Fire Temple by sabotaging its rivals through espionage."
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Skole",
+									"id": "175",
+									"entries": [
+										"The Boatman's Tavern is Skole's domain. Outwardly neutral, he covertly collaborates with the Water Temple, serving as their eyes and ears in the taverns while profiting from smuggling.",
+										{
+											"type": "entries",
+											"name": "Role: Proprietor of the Boatman's Tavern, Water Temple Collaborator",
+											"id": "176",
+											"entries": [
+												"The Boatman's Tavern is Skole's domain."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Motivation",
+											"id": "177",
+											"entries": [
+												"Gain wealth and influence by balancing neutrality and Temple ties."
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Lodriss",
+									"id": "178",
+									"entries": [
+										"The hidden power behind the Boatman's Tavern, Lodriss cultivates ties with Captain Tolub while carefully preserving her independence. Her sharp instincts make her a dangerous rival—or ally—depending on who crosses her path.",
+										{
+											"type": "entries",
+											"name": "Role: Tavern Power Broker and Pirate Ally",
+											"id": "179",
+											"entries": [
+												"The hidden power behind the Boatman's Tavern."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Motivation",
+											"id": "180",
+											"entries": [
+												"Leverage her ties with Tolub to remain influential while avoiding Temple domination."
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Jereader Zomawyn",
+									"id": "181",
+									"entries": [
+										"The spiritual head of the Gilded Shackle, Jereader cloaks cruelty in ceremony. A devout priest of bondage, he conducts dark rites that sanctify Nulb's thriving slave trade. In his mind, slavery is not merely profit but divine order. He and Lorveth \"The Broker\" maintain a symbiotic partnership, blending faith and commerce.",
+										{
+											"type": "entries",
+											"name": "Primary Goal",
+											"id": "182",
+											"entries": [
+												"Expand the reach of the Gilded Shackle through religious authority."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Secondary Goals",
+											"id": "183",
+											"entries": [
+												"Undermine rival cult factions while quietly strengthening ties to Hedrack and the Greater Temple."
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Krael Vortash, Captain",
+									"id": "184",
+									"entries": [
+										"Greater Temple Captain placed by Smigmal of the Broken Tower to assist Hedrack's agent in Nulb, Madame Selentis."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Captain Marad Vesrek",
+									"id": "185",
+									"entries": [
+										"A calculating and ruthless pirate captain, he commands the slaver ship The Crimson Trader. Operating under the guise of a simple merchant along the rivers.",
+										{
+											"type": "entries",
+											"name": "Primary Goal",
+											"id": "186",
+											"entries": [
+												"Expand the Slave Lords' operations."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Secondary Goals",
+											"id": "187",
+											"entries": [
+												"Usurping rival Slave Lords."
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Rom Khavernus",
+									"id": "188",
+									"entries": [
+										"Zelt (faction leader in Dyvers) right-hand enchanter, a battle-mage with a sharp tongue and sharper mind. A product of Dyvers' New Gentry, he was born to privilege but now thrives in the underworld."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Felix Fahnor",
+									"id": "189",
+									"entries": [
+										"Head of the Crimson Reaper hit squad in Nulb, operates with ruthless efficiency, eliminating those in the way."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Edrick Malvaar, Constable",
+									"id": "190",
+									"entries": [
+										"A once-proud figure of authority, now a broken man clinging to a title that has long since lost its meaning. Malvaar is a former soldier who served in Verbobonc's military but was appointed to the position of Constable of Nulb when his career faltered. He arrived in Nulb years ago, eager to restore order to the chaotic village, but instead found himself drowning in corruption."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Captain Dren Halveth",
+									"id": "191",
+									"entries": [
+										"Mercenary Captain of the Broken Blades—a hard company of ex-soldiers, caravan guards, and sellswords. Dren runs contracts out of the Waterside and Boatman's, playing Nulb's factions off each other while keeping his outfit independent. He'll take coin from pirates, bandits, or \"merchants,\" but avoids being owned by any Temple prophet.",
+										{
+											"type": "entries",
+											"name": "Primary Goal",
+											"id": "192",
+											"entries": [
+												"Secure steady, well-paid contracts."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Secondary Goals",
+											"id": "193",
+											"entries": [
+												"Build leverage and reputation across the Viscounty; quietly position the Blades as indispensable muscle to every major player."
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Maldrith",
+									"id": "194",
+									"entries": [
+										"Second-in-command of The Crimson Reapers, Maldrith plays a pivotal role in the gang's operations. His ultimate ambition to support the Crimson Reapers and to transform Nulb into a necropolis"
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Otis, Master Smith",
+									"id": "195",
+									"entries": [
+										"Otis is a humble blacksmith of Nulb by trade, but in truth, he is one of the Viscounty's most loyal rangers and a covert agent of the Gnarley Rangers. Scarred by war and tempered by decades of hardship, Otis walks a careful line between his quiet life and his sacred duty to monitor the growing evil around the the village of Nulb.",
+										{
+											"type": "entries",
+											"name": "Primary Goal",
+											"id": "196",
+											"entries": [
+												"Monitor and report the resurgence of the Temple of Elemental Evil to the Gnarley Rangers and trusted allies in Hommlet and Verbobonc."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Secondary Goals",
+											"id": "197",
+											"entries": [
+												"Train and evaluate potential adventurers who might aid in the coming storm."
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Canoness Y'dey",
+									"id": "198",
+									"entries": [
+										"An influential cleric of St. Cuthbert, operates under the guise of Mother Screng in the sinister village of Nulb.",
+										{
+											"type": "entries",
+											"name": "Primary Goal",
+											"id": "199",
+											"entries": [
+												"Sent by the Church of St Cuthbert, Y'dey in Nulb under the guise of Mother Screng."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Secondary Goals",
+											"id": "200",
+											"entries": [
+												"Y'dey harbors doubts about the true origins of the Temple of Elemental Evil. Her mission involves uncovering the forces behind it and preventing their resurgence."
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Murfles (a.k.a. Hruda)",
+									"id": "201",
+									"entries": [
+										"Murfles, posing as Hruda a sharp-tongued daughter of Mother Screng—is an undercover agent of Good stationed in Nulb. Despite her rough, unappealing demeanor, Murfles is a highly capable adventurer, bard, and an ally of Otis and Canoness Y'dey.",
+										{
+											"type": "entries",
+											"name": "Primary Goal",
+											"id": "202",
+											"entries": [
+												"Protect and assist Canoness Y'dey in her mission to monitor the Temple."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Secondary Goals",
+											"id": "203",
+											"entries": [
+												"Strike covertly on behalf of Veluna and Furyondy."
+											]
+										}
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Elvanna Thorne",
+									"id": "204",
+									"entries": [
+										"Oversees the Nulb Brothel with cruel efficiency, entertain important guests and negotiate deals."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Lorveth \"The Broker\"",
+									"id": "205",
+									"entries": [
+										"Slave factor of Nulb operating from a private office upstairs at the Boatman's Tavern. Lorveth coordinates directly with Elvanna Thorne (brothel) and river crews (Captain Tolub, Marad Vesrek), arranging discreet auctions, keeping the ledgers, and laundering coin through the tavern market and warehouse."
+									]
+								},
+								{
+									"type": "entries",
+									"name": "Master Aldren Valegrave",
+									"id": "206",
+									"entries": [
+										"Master of Valegrave Manor agricultural operations providing Nulb with provides resources, grain, and livestock. Fields worked by indentured serfs little better than slaves to exploitation and cruelty."
+									]
+								},
+								{
+									"type": "inset",
+									"name": "DM Nulb Notes: Lawful Good in the Hornet's Nest",
+									"id": "207",
+									"entries": [
+										"A Guide to Running a Paladin or Cleric in Nulb without Breaking Temple Secrecy",
+										{
+											"type": "entries",
+											"name": "Core Premise",
+											"id": "208",
+											"entries": [
+												"A paladin or cleric entering Nulb is like a flare in the dark—every faction notices at once. Normally, such holy figures would be swiftly killed, but Hedrack's orders forbid unnecessary provocations:",
+												"\"No martyrs. No crusades. Nulb must remain a den of bandits, not a holy battlefield.\"",
+												"Thus begins a dangerous game of shadow politics. The Paladin is both a threat and a tool."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Faction Reactions",
+											"id": "209",
+											"entries": [
+												"{@b Hedrack (via Madame Selentis):} Spies track the party, feeding false leads about pirate feuds and splinter cults. Goal: waste their time.",
+												"{@b Romag & Waterside Hostel:} Friendly outlaw innkeeper through Dick Rentsch. Wat spreads stories of \"bogus cults in the swamps.\"",
+												"{@b Belsornig & Boatman's Tavern:} Pirates pick staged fights; false intel about smugglers and fire-cults.",
+												"{@b Alrrem's Agents:} Deflect inquiries with fiery zeal, but always redirect zealots toward Earth's Shattered Monastery or Water's River Fort, promising \"heretics\" ripe for cleansing.",
+												"{@b Smigmal Redhand:} Prefers ambushes outside town to discredit the Paladin."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Running the Stay at the Hostel",
+											"id": "210",
+											"entries": [
+												"{@b Day 1:} Quiet observation. Locals grow silent, Dick plays genial host.",
+												"{@b Day 2–3:} Staged brawls, gossip of splinter cults, minor thefts.",
+												"{@b Day 4+:} Coordinated effort to frame or discredit the Paladin, forcing them to leave.",
+												"DM Note: Stress the tension. NPCs always seem to know more than they say. Conversations hush when the Paladin enters. Shadowy figures linger at the edges."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Constable Edrick Malvaar",
+											"id": "211",
+											"entries": [
+												"The Paladin may seek out the Constable for law and order. Instead they find a broken man:",
+												"\"Law in Nulb? Friend, I'm a scarecrow in a storm. The badge shines, but the wind blows me where the pirates tell me.\"",
+												"Malvaar quietly deflects the Paladin toward \"safe\" targets—rivals of the faction currently keeping him alive.",
+												{
+													"type": "list",
+													"items": [
+														"If pressed for justice: He warns the Paladin of \"splinter cults\" in the hills, parroting the faction that currently owns his leash.",
+														"If threatened: Malvaar folds instantly, begging for his life. He has no real power and knows it."
+													]
+												},
+												"DM Use: Malvaar is a narrative mirror—showing the cost of compromise, the collapse of law, and the futility of one honest badge in a den of knives."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "DM Guidance",
+											"id": "212",
+											"entries": [
+												"{@b Every NPC Has a Script:} Locals are briefed on how to handle outsiders.",
+												"{@b False Leads with Just Enough Truth:} Outposts exist, but they're rival strongholds.",
+												"{@b Social Pressure:} Prices rise, rooms vanish, allies disappear. Subtle hostility escalates.",
+												"{@b Optional Reward:} The \"patron\" faction may grant coin or gear, tightening false alliances."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Misdirection Through Rivalries",
+											"id": "213",
+											"entries": [
+												"Temple leaders weaponize their own rivalries to divert holy adventurers. Each faction sends the Paladin toward an enemy outpost—real cultists, but of another Temple.",
+												{
+													"type": "entries",
+													"name": "Romag (Earth Temple)",
+													"id": "214",
+													"entries": [
+														"Misdirection Target: Waterside Hostel → Shattered Monastery",
+														"Cover Story: \"Water cultists upriver stole Earth relics.\" Paladin weakens Water Temple."
+													]
+												},
+												{
+													"type": "entries",
+													"name": "Belsornig (Water Temple)",
+													"id": "215",
+													"entries": [
+														"Misdirection Target: Boatman's Tavern → River Fort",
+														"Cover Story: \"Fire zealots in the Etters plan raids.\" Paladin weakens Fire Temple."
+													]
+												},
+												{
+													"type": "entries",
+													"name": "Alrrem (Fire Temple)",
+													"id": "216",
+													"entries": [
+														"Misdirection Target: Etters Watchtower",
+														"Cover Story: \"Mad monks at the Monastery plot corruption.\" Paladin weakens Earth Temple."
+													]
+												},
+												{
+													"type": "entries",
+													"name": "Selentis (Greater Temple)",
+													"id": "217",
+													"entries": [
+														"Misdirection Target: Old Mayor's Manor → Bogus splinter cult in the fens",
+														"Cover Story: \"Cult remnants from Emridy Meadows still hide in the marsh.\" Paladin wastes time far from real supply lines."
+													]
+												},
+												{
+													"type": "entries",
+													"name": "Smigmal Redhand (Broken Tower)",
+													"id": "218",
+													"entries": [
+														"Misdirection Target: Bandit ambush site → False Earth cult raiders",
+														"Cover Story: \"Earth zealots waylay travelers by the tower.\" Paladin lured into trap, credibility destroyed."
+													]
+												},
+												{
+													"type": "entries",
+													"name": "Constable Malvaar",
+													"id": "219",
+													"entries": [
+														"Misdirection Target: Ruined farmsteads → Rival outpost",
+														"Cover Story: \"Bandits lair beyond the road, lawless as the rest.\" Paladin sent where others want blood spilled."
+													]
+												}
+											]
+										}
+									]
+								}
+							]
+						},
+						{
+							"type": "entries",
+							"name": "The Greater Temple Cell",
+							"id": "220",
+							"entries": [
+								{
+									"type": "entries",
+									"name": "Madame Selentis & The Greater Temple Cell",
+									"id": "221",
+									"entries": [
+										"A velvet knife runs Nulb. Madame Selentis smiles from the ruined balcony of the Old Mayor's Manor and counts cargo in men, coin, and secrets. She is Hedrack's quiet hand in the village—the broker of silence, the keeper of routes, the one who makes sure the Temple is a rumor until it isn't. Her \"guards\" are not town watch; they are temple brigands in plain coats, drilled to move at night, vanish by dawn.",
+										"\"Order is a story we tell the frightened. I sell the ending.\"",
+										{
+											"type": "entries",
+											"name": "Organizational Overview",
+											"id": "222",
+											"entries": [
+												"{@b Role:} Greater Temple controller of Nulb logistics, discipline, and deniability",
+												"{@b Base:} 33. Old Mayor's Manor (walled lot; shuttered façade; active by night)",
+												"{@b Chain of Command:} Reports to Hedrack; coordinates shipments with Feldrin (Temple logistics master)",
+												"{@b Forces} (\"Temple Brigand Guards\"): ~28–34 regulars (bandits/thugs), 6 veterans (squad leaders), 1 lieutenant (captain statline)",
+												"{@b Cover:} \"Estate stewards\" who \"collect late taxes\" for a dead mayor; no temple insignia in public",
+												"{@b Rule:} Keep Nulb dirty, busy, and small. Make every problem look like pirates and bandits—not priests."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "The Old Mayor's Manor (Command Post)",
+											"id": "223",
+											"entries": [
+												"Sagging portico, boarded windows, garden gone to nettles; two lanterns only ever lit together when a convoy is incoming.",
+												"{@b War Room:} river charts, rota boards, wax-sealed tallies from Boatman's Market and Waterside.",
+												"{@b Cellars:} lock-pens (short hold), counterfeit tools, dye vats, and a trapdoor to a rat-run to the next cottage.",
+												"{@b Signals:} raven cage on the roof; three short peals on a cracked bell = scatter to sites \"1–4\".",
+												"{@b Readiness:} Daylight skeleton crew (6). Night ops deploy in 2–3 fireteams of 6–8 with a runner each."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "What Selentis Actually Runs",
+											"id": "224",
+											"entries": [
+												"{@b The Nulb Funnel:} She and Feldrin time river drops, market intake, and night carts to the 55. Hunting Cottage and its tunnel to the Central Oval Cavern. From there freight, recruits, and prisoners are sorted deeper into the ruins.",
+												"{@b Plausible Deniability:} All hand-offs pass through \"criminal\" faces—Lodriss & Skole at the Boatman's Tavern/Market, The Broker upstairs (brothel), and hired teamsters across the bridge.",
+												"{@b Discipline:} Bribes logged, witnesses bought, loose tongues cut. If blood must be spilled, Smigmal Redhand's people do it outside town."
+											]
+										},
+										"Madame Selentis is not a queen of criminals or a self-styled ruler of Nulb. She is something far more dangerous—a loyal servant of Supreme Commander Hedrack, sent to the lawless village to safeguard the Temple of Elemental Evil's covert operations. Once a noblewoman of Verbobonc, she was marked for execution after her father's betrayal during the 569 CY uprising. Hedrack ordered her extraction and placed her under the watchful direction of Lucius Graeme. She now serves as Hedrack's political shadow in Nulb, quietly stabilizing the village's chaotic factions to protect the Temple's supply routes and recruitment channels.",
+										{
+											"type": "entries",
+											"name": "From Noble Exile to Temple Agent",
+											"id": "225",
+											"entries": [
+												"{@b Family Disgrace:} In 569 CY, Lord Eldris Krivaltis was exposed and executed for providing intelligence and aid to the Temple of Elemental Evil. The family was stripped of land and title.",
+												"{@b Lucius Graeme's Intervention:} Acting on Hedrack's orders, Lucius rescued the young noblewoman from prosecution. She vanished from public records with forged documents, false burial rites, and reappeared in Nulb ten years later under Temple protection.",
+												"{@b False Identity:} From that point forward, Nysera became Madame Selentis, a minor noble widow from the Kron Hills with trade ties to Dyvers. Her true name is classified as a Temple Secret by Hedrack's direct decree.",
+												"{@b Purpose Reforged:} Nysera no longer seeks restoration or noble status. Her role now is to serve the will of the Elder Elemental Eye and Hedrack's command, ensuring Nulb remains a critical node in the Temple's resurgence."
+											]
+										},
+										"\"Madame Selentis\" is just noble enough to command respect in dockside dealings, and just obscure enough to escape scrutiny by more zealous cultists. Her mask is a masterpiece of survival, forged in the flame of disgrace.",
+										{
+											"type": "entries",
+											"name": "Command Structure",
+											"id": "226",
+											"entries": [
+												"{@b Madame Selentis:} Agent of the Greater Temple. Charismatic and ruthless. Proxy, administrator, and overseer of the Temple's covert interests in Nulb.",
+												"{@b Sir Torvel Hawkes:} Commander, loyal to Selentis since the fall of House Krivaltis.",
+												"{@b Temple Guard Captain Krael Vortash:} Operations overseen by the bandit captain placed by Smigmal."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Temple Brigand Guards (Her Men)",
+											"id": "227",
+											"entries": [
+												"{@b Composition:} 18–24 total brigands.",
+												"{@b Tactics:} Rope lines, cudgels first, crossbows second; strike from two angles, retreat on whistle.",
+												"{@b Equipment & Uniform:} Black-and-white tunics bearing the raven emblem; Studded leather or chain mail (depending on rank); Longswords, spears, light crossbows",
+												"{@b Standing Orders:}}",
+												{
+													"type": "list",
+													"items": [
+														"Keep Waterside Hostel violent but \"ordinary\" (let Dick Rentsch and Wat front their rivalries).",
+														"Shield Boatman's intake and the Broker's upstairs auctions.",
+														"Move Temple-bound freight only after midnight; never twice by the same street.",
+														"If holy badges show up, misdirect them to rival outposts (Shattered Monastery, River Fort)."
+													]
+												},
+												"{@b 5e Quick Uses:} use Bandit/Thug for regulars; Veteran for squad leads; Bandit Captain for the lieutenant. Replace scimitars with clubs/shortswords; add Disengage (Bonus Action) 1/turn to reflect drilled retreats."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Daily Operations & Strongholds",
+											"id": "228",
+											"entries": [
+												"{@b Bridge Watch:} Two Selentis men watch the entrance cottage across the Imeryds Run.",
+												"{@b Old Mayor's Manor Garrison:} Guards patrol the perimeter and watch the upper balcony.",
+												"{@b Mobile Squads:} Patrol the village streets in pairs or triads, using signal horns to call for backup. They notably avoid open confrontations in the Boatman's Tavern, aware of its ties to Temple agents and pirates. However, they keep close tabs on Skole and Lodriss—two figures tied to illicit trade."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Relationships & Levers",
+											"id": "229",
+											"entries": [
+												"{@b Hedrack} (Supreme Commander): Gives objectives, not speeches. Keeps the uprising and routes quiet.",
+												"{@b Feldrin} (Temple Logistics): Her true partner; schedules, manifests, and coin all flow through him. Neither will risk the other.",
+												"{@b Smigmal Redhand} (Broken Tower): Shared missions, wary knives. Smigmal cleans messes; Selentis pays and points.",
+												"{@b Romag / Belsornig / Alrrem:} She plays them like dice—feeds each rumors and \"splinter cult\" leads to keep their feuds hot and their eyes off her routes.",
+												"{@b Boatman's Tavern & Market} (Lodriss & Skole): First-stage intake. They get skim and protection; she gets silence and a ledger that will hang them twice.",
+												"{@b The Broker} (Brothel): Converts \"cargo\" into coin or controlled assets (blackmail, agents). Tense respect; both know where the bodies are.",
+												"{@b Constable Malvaar:} A paper shield. She feeds him petty arrests to look useful and denies him men when it matters.",
+												"{@b Stables} (51): Stablemaster Varek is paid to count saddles and whisper when cavalry arrives. Secret path to Waterside noted but not used by her men unless the street is burned.",
+												"{@b River Pirates:}}",
+												{
+													"type": "list",
+													"items": [
+														"Tolub (Iron Dagger): Regular carrier for Belsornig; tolerated, taxed, watched.",
+														"Vesrek (Crimson Trader): Slaver runs scheduled with Feldrin; Selentis dictates timing and cover."
+													]
+												},
+												"{@b Waterside} (Dick & Wat): Rival temple fronts under her thumb—useful smoke. She let them hate each other as long as they keep the factions entertained."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "DM Notes & Tactics",
+											"id": "230",
+											"entries": [
+												"{@b First Contact:} PCs notice \"laborers\" with matching rope wraps on the left wrist.",
+												"{@b Soft Pressure:} Selentis always offers a legal fiction—\"You are trespassing,\" \"Those crates are city taxes\"—and a way to walk away poorer and alive.",
+												"{@b Escalation Clock:} Each public disturbance advances a 4-step track: Watchers → Shadowing → Street Edit (staged brawl) → Night Knock (home invasion).",
+												"{@b Paper Trail Treasure:} Seizable ledgers at the Manor tie Boatman's cellars → Broker → Hunting Cottage by initials and weights, not names. Decoding them exposes Feldrin's calendar.",
+												"{@b Misdirection Machine:} When holy PCs arrive, her agents nudge them to: Shattered Monastery (Earth), River Fort on Imeryd's Run (Water), The Etters watchtower (Fire)."
+											]
+										},
+										{
+											"type": "entries",
+											"name": "Day–Night Rhythm",
+											"id": "231",
+											"entries": [
+												{
+													"type": "inset",
+													"name": "Daily Schedule",
+													"id": "232",
+													"entries": [
+														"{@b Day:} Paperwork, bribes, and listening. Couriers to Dyvers and Verbobonc markets. Guards in workman's clothes.",
+														"{@b Dusk:} Spotters take posts at Bridge, Waterside, Boatman's piers, and Stables (51). \"Lost mule\" lantern warning signal.",
+														"{@b Night:} River off-loads (Tolub or Vesrek) → cellars under Boatman's → Broker sorts → Selentis' runners cart select crates or prisoners out the south track to Hunting Cottage.",
+														"{@b Predawn:} Streets washed, bodies gone, books balanced. Nulb wakes \"normal.\""
+													]
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		}
+	]
+}

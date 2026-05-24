@@ -1,0 +1,73 @@
+```json
+[
+  {
+    "type": "entries",
+    "name": "Expanded Greater Temple Supply Operations",
+    "entries": [
+      "Gefreid Patris plays a crucial role in the logistical network of the Temple of Elemental Evil, acting as a central hub for supplies, prisoners, and stolen goods moving between the Moathouse, Nulb, and the Temple itself. His management of the Hunting Cottage positions him as an indispensable facilitator of the Temple's covert operations."
+    ]
+  },
+  {
+    "type": "entries",
+    "name": "Coordination with Gattas Void at the Moathouse",
+    "entries": [
+      "Gefreid maintains regular and discreet contact with Lieutenant Gattas Void, second-in-command to Lareth at the Moathouse High Road Bandit Camp. Gattas coordinates frequent raids against merchant caravans, isolated farms, and travelers throughout the Viscounty of Verbobonc. Captured livestock, valuable loot, and abducted prisoners are transferred by heavily guarded wagons to Gefreid's custody at the Hunting Cottage.",
+      "Upon receiving shipments, Gefreid personally inspects the captured goods and evaluates prisoners. Valuable captives suitable for ritual sacrifice or forced labor are transferred directly into the tunnel network toward the Greater Temple. Supplies and lesser prisoners are redirected to Madame Selentis's operatives in Nulb for secondary distribution."
+    ]
+  },
+  {
+    "type": "entries",
+    "name": "Gefreid's Bandits (Greater Temple)",
+    "entries": [
+      "Gefreid commands a disciplined squad of hardened Temple-aligned brigands provided by Commander Deggum. These human bandits maintain the secrecy and efficiency of operations, enforcing Feldrin's orders.",
+      {
+        "type": "entries",
+        "name": "Bandit Personnel Roster",
+        "entries": [
+          "{@b Morvik Blackthorn (Lieutenant)} – Second-in-command; cautious, organized, and fiercely loyal to Gefreid. Responsible for day-to-day discipline.",
+          "{@b Jarus Vrell} – Silent tracker and scout; known for detecting threats long before they reach the cottage perimeter.",
+          "{@b Dieter \"Redknife\"} – Former pirate turned enforcer; infamous for his intimidation skills and handling prisoner transfers.",
+          "{@b Gavrik \"Ironfoot\"} – Manages barn operations; tough, burly, and methodical. Oversees packing, repacking, and prisoner containment.",
+          "{@b Elric the Younger} – Youngest bandit; ambitious and watchful. Reports on any irregularities among his peers to Gefreid directly.",
+          "{@b Ralf \"The Hound\"} – Bandit tasked with resetting perimeter snares each morning; brutal and quick to violence if triggered.",
+          "{@b Quillen} – In charge of courier horses and supply-wagon handling; meticulous with shipment logs and inventory checks.",
+          "{@b Brannoc Grimtooth} – Prisoner overseer; cruel and unfeeling, enjoys authority over captives awaiting transport."
+        ]
+      }
+    ]
+  },
+  {
+    "type": "entries",
+    "name": "Vulnerability of the Tunnel",
+    "entries": [
+      "Though well-hidden, the supply tunnel is a single point of failure in the Greater Temple's operations. Adventurers who discover and sabotage the tunnel could cut off the Temple's lifeline. (T1-4 TOEE module page 38, 4. ESCAPE TUNNEL)"
+    ]
+  },
+  {
+    "type": "entries",
+    "name": "Logistical Operations",
+    "entries": [
+      "Under Gefreid's careful oversight, the Hunting Cottage serves multiple critical roles:",
+      {
+        "type": "list",
+        "items": [
+          "{@b Command Post}: Coordination of logistical operations, prisoner sorting, and intelligence exchange.",
+          "{@b Supply Depot}: Receiving shipments of stolen goods, prisoners, and supplies from Madame Selentis's bandits, Vesrek's pirates, and Gattas Void's raiders.",
+          "{@b Prisoner Handling}: Slaves and prisoners destined for sacrifice or labor in the Temple are temporarily held and sorted in reinforced barn cages."
+        ]
+      }
+    ]
+  },
+  {
+    "type": "entries",
+    "name": "Political Relationships",
+    "entries": [
+      "{@b Commander Feldrin}: Gefreid answers directly to Feldrin, the Temple supply commander.",
+      "{@b Lucius Graeme}: Regularly inspects operations and delivers orders. Gefreid respects Lucius's position but finds him insufferably arrogant.",
+      "{@b Madame Selentis (Nysera Krivaltis)}: Exchanges shipments through intermediaries. Distrustful of her ambitions but acknowledges her ruthless efficiency.",
+      "{@b Smigmal Redhand and The Crimson Reapers}: Occasionally delivers shipments directly, maintaining tension and wary cooperation.",
+      "{@b Gattas Void (Lareth's Lieutenant)}: Supplies regular deliveries of prisoners and loot from the Moathouse. Their relationship is strictly professional and transactional."
+    ]
+  }
+]
+```

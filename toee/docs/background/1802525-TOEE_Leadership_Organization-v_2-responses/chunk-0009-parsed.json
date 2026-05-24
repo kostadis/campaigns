@@ -1,0 +1,116 @@
+[
+  {
+    "type": "entries",
+    "name": "Falrinth, Master Wizard, Keeper of the Orb of Golden Death",
+    "entries": [
+      "A cunning and duplicitous figure, Falrinth operates within the third level of the Temple of Elemental Evil. Though he holds no formal allegiance to the elemental temples or the Greater Temple, his scheming nature makes him a key player in the Temple's politics and intrigue. An opportunist driven by ambition, he carefully balances alliances and rivalries, ensuring his own survival while keeping his true motives concealed."
+    ]
+  },
+  {
+    "type": "entries",
+    "name": "Rogue Wizard",
+    "entries": [
+      "While not an official member of the Greater Temple, Falrinth is deeply embedded in its web of deception. As an 8th-level magic-user, he operates independently, both a valuable ally and a potential threat to the leadership.",
+      {
+        "type": "inset",
+        "name": "",
+        "entries": [
+          "\"They say the Elder Elemental God whispers in the dark. I've heard those whispers… and one day, I will whisper back.\""
+        ]
+      },
+      "Falrinth's connection to his quasit familiar, Kriitch, allows him to cast as a 9th-level wizard when within a one-mile radius. Though he outwardly serves Lolth, the Demon Queen of Spiders, his true allegiance is to power itself. He schemes to advance his own goals, betraying even Lolth if it means seizing greater control.",
+      {
+        "type": "list",
+        "items": [
+          "{@b Ambition:} Seeks power above all else, even if it means betraying Lolth.",
+          "{@b Duplicitous Nature:} His unpredictability makes him a potential ally or deadly foe."
+        ]
+      }
+    ]
+  },
+  {
+    "type": "entries",
+    "name": "Location and Role",
+    "entries": [
+      "Falrinth resides in Area 337 on the third level of the Temple, where he safeguards his secrets and resources. His chambers connect to an Escape Tunnel, a hidden route leading to the Hunting Cottage, used by bandits allied with Smigmal Redhand.",
+      {
+        "type": "inset",
+        "name": "",
+        "entries": [
+          "\"The Nodes are not prisons; they are gateways. Those who master them will rule both this world and the next.\" - Falrinth"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "entries",
+    "name": "The Orb of Golden Death",
+    "entries": [
+      "Falrinth secretly possesses the Orb of Golden Death, an artifact tied to the Elder Elemental God and central to the Temple's power. He keeps the Orb hidden from his allies and superiors, viewing it as his ultimate bargaining chip or tool for personal ascension.",
+      {
+        "type": "list",
+        "items": [
+          "{@b Connection to the Nodes:} The Orb serves as a key to unlocking and controlling the elemental nodes.",
+          "{@b Secrecy:} Falrinth's concealment of the Orb makes him a target for both the Greater Temple and adventurers."
+        ]
+      }
+    ]
+  },
+  {
+    "type": "entries",
+    "name": "Falrinth, Master Wizard",
+    "entries": [
+      "{@i Medium Humanoid (Human), Chaotic Evil, Level 8 Wizard (with Familiar Kriitch)}",
+      "{@i Armor Class 15 (Bracers of Defense)}",
+      "{@i Hit Points 54 (9d6+18)}",
+      "{@i Speed 30 ft.}",
+      "{@i STR 10 (+0) | DEX 17 (+3) | CON 15 (+2) | INT 17 (+3) | WIS 10 (+0) | CHA 12 (+1)}",
+      "{@i Savings Throws Int +7, Wis +4}",
+      "{@i Skills Arcana +7, History +7, Insight +4, Stealth +6}",
+      "{@i Condition Immunities Charmed (while familiar is within 10 ft.)}",
+      "{@i Senses passive Perception 10}",
+      "{@i Languages Common, Elvish, Abyssal}",
+      "{@i Challenge 7 (3,900 XP)}",
+      {
+        "type": "entries",
+        "name": "Spellcasting",
+        "entries": [
+          "{@i Spellcasting (9th-Level Wizard) Spell Save DC 15, Spell Attack Bonus +7}",
+          {
+            "type": "list",
+            "items": [
+              "{@b Cantrips (At Will):} Message, Mage Hand, Fire Bolt, Minor Illusion",
+              "{@b 1st Level (4 slots):} Burning Hands, Charm Person, Detect Magic, Unseen Servant",
+              "{@b 2nd Level (3 slots):} Invisibility, Mirror Image, Hold Person, Levitate",
+              "{@b 3rd Level (3 slots):} Fireball, Lightning Bolt, Clairvoyance",
+              "{@b 4th Level (3 slots):} Dimension Door, Phantasmal Killer",
+              "{@b 5th Level (1 slot):} Teleportation Circle, Wall of Force"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "entries",
+        "name": "Legendary Equipment",
+        "entries": [
+          {
+            "type": "list",
+            "items": [
+              "{@b Orb of Golden Death:} Allows scrying and enhances necromantic spells.",
+              "{@b Mirror of Mental Prowess:} Can detect thoughts and manipulate reflections.",
+              "{@b Tome of Leadership:} Grants Charisma bonus if studied.",
+              "{@b Vacuous Grimoire:} A cursed book that drains Intelligence."
+            ]
+          }
+        ]
+      },
+      {
+        "type": "entries",
+        "name": "Actions",
+        "entries": [
+          "{@b Dagger.} Melee Weapon Attack: +6 to hit, reach 5 ft., one target. {@i Hit:} 4 (1d4+3) piercing damage."
+        ]
+      }
+    ]
+  }
+]

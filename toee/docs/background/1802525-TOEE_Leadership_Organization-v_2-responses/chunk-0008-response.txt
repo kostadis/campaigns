@@ -1,0 +1,102 @@
+```json
+[
+  {
+    "type": "entries",
+    "name": "Feldrin, of the Temple's Guard",
+    "entries": [
+      "A cunning strategist and ruthless opportunist, Feldrin, a half-Oeridian, half-Flan rogue, is a master of deception, smuggling, and underhanded dealings. As commander of the Temple's brigands, bandits, and enforcers, he maintains control not through brute strength, but through guile, blackmail, and well-placed alliances. With deep criminal connections and a keen understanding of leverage, Feldrin ensures the smooth flow of stolen goods, captives, and supplies to the Greater Temple while keeping the more violent elements of his forces in line. Though he commands warriors, he is no warlord—he is a thief first and foremost, using cunning over combat, and ensuring his position remains secure through manipulation rather than direct confrontation."
+    ]
+  },
+  {
+    "type": "entries",
+    "name": "Role and Importance",
+    "entries": [
+      "Feldrin commands the Temple's guards and bandit forces, responsible for both defense and supply logistics.",
+      {
+        "type": "list",
+        "items": [
+          "{@b Political Operative:} Trusted by Supreme Commander Hedrack, Feldrin also serves as an emissary to King Korvash Bonegnaw, ruler of the gnolls of the Jagged Fangs tribe in the Lortmils.",
+          "{@b Supply Chain:} Manages the transport of resources to the Greater Temple's operations."
+        ]
+      },
+      {
+        "type": "inset",
+        "name": "",
+        "entries": [
+          "\"Control isn't about loyalty—it's about leverage. Keep everyone hungry enough to need you, but fed enough not to bite.\" —Feldrin"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "entries",
+    "name": "Feldrin's Operations",
+    "entries": [
+      "Feldrin resides in Area 243a on the Temple's second dungeon level, where his lavish quarters reflect his wealth and importance. His operation relies on a structured system for securing supplies and prisoners.",
+      {
+        "type": "list",
+        "items": [
+          "{@b Initial Capture:} Bandits, led by Gattas Void, raid settlements near the Moathouse.",
+          "{@b Sorting & Distribution:} Loot is processed at Gefreid Patris' Hunting Cottage near Nulb.",
+          "{@b Final Transport:} Goods and captives move through a hidden tunnel into the Greater Temple."
+        ]
+      }
+    ]
+  },
+  {
+    "type": "entries",
+    "name": "Leadership and Politics",
+    "entries": [
+      {
+        "type": "list",
+        "items": [
+          "{@b Hedrack's Trust:} Feldrin holds a degree of favor with Supreme Commander Hedrack, who relies on him for sensitive missions such as negotiating with King Korvash Bonegnaw. However, this trust is conditional—Hedrack values results, but Feldrin's self-serving nature and questionable loyalty make him a potential liability.",
+          "{@b Brunk's Ambitions:} Feldrin's half-orc lieutenant, Brunk, harbors a deep resentment toward his superior and openly covets his position. He is constantly looking for opportunities to undermine or eliminate Feldrin, provided he can do so without exposing his own treachery.",
+          "{@b Spying Missions:} Feldrin and Brunk often use disguises to spy in the local villages.",
+          "{@b Bandit Allies:} Feldrin maintains alliances with Smigmal Redhand and her bandit crew, though his self-serving nature makes his loyalty tenuous. While he recognizes their value, he sees them as tools rather than true allies."
+        ]
+      },
+      {
+        "type": "inset",
+        "name": "",
+        "entries": [
+          "\"Adventurers think themselves heroes. They're just another kind of bandit—only louder and more self-righteous.\" —Feldrin"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "entries",
+    "name": "Commander Feldrin",
+    "entries": [
+      "{@i Medium Humanoid (Human), Thief level 7, Neutral Evil}",
+      "{@i Armor Class 15 (Studded Leather +1, Cloak of Protection)}",
+      "{@i Hit Points 45 (7d8+14)}",
+      "{@i Speed 30 ft.}",
+      "{@i STR 15 (+2) | DEX 18 (+4) | CON 15 (+2) | INT 13 (+1) | WIS 9 (−1) | CHA 17 (+3)}",
+      "{@i Saving Throws Dex +6, Cha +5}",
+      "{@i Skills Acrobatics +6, Persuasion +7, Sleight of Hand +6, Stealth +8}",
+      "{@i Senses passive Perception 9}",
+      "{@i Languages Common, Orc}",
+      "{@i Challenge 4 (1,100 XP)}",
+      {
+        "type": "entries",
+        "name": "Traits",
+        "entries": [
+          "{@b Evasion.} When Feldrin is subjected to an effect that allows him to make a Dexterity saving throw to take half damage, instead takes no damage if he succeeds, half damage if he fails.",
+          "{@b Sneak Attack (1/Turn).} Feldrin deals an extra 14 ({@dice 4d6}) damage when he hits a target with a weapon attack and has advantage on the attack roll, or when the target is within 5 feet of an ally."
+        ]
+      },
+      {
+        "type": "entries",
+        "name": "Actions",
+        "entries": [
+          "{@b Multiattack.} Feldrin makes two melee attacks.",
+          "{@b +2 Rapier.} {@i Melee Weapon Attack:} +6 to hit, reach 5 ft., one target. {@i Hit:} 9 ({@dice 1d8+4}) piercing damage.",
+          "{@b Handaxe.} {@i Melee Weapon Attack:} +4 to hit, reach 5 ft. or range 20/60 ft., one target. {@i Hit:} 7 ({@dice 1d6+4}) slashing damage."
+        ]
+      }
+    ]
+  }
+]
+```

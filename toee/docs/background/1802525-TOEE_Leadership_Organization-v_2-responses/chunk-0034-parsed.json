@@ -1,0 +1,123 @@
+[
+  {
+    "type": "entries",
+    "name": "Ash and Saltwater",
+    "entries": [
+      "Nulb is a cauldron where the Temple of Elemental Evil stirs its schemes, and few know this better than those who run its taverns. Wat, the sullen bruiser behind the bar at the Waterside Hostel, answers to Alrrem of the Fire Temple, while Skole, former river smuggler and fixer at the Boatman's Tavern, is loyal to Canon Belsornig of the Water Temple.",
+      "But Nulb isn't big enough for both of them—and Lodriss, the tavern's mistress, isn't interested in letting her lover Captain Tolub's temple allies burn down the village in a pissing contest. So when the adventurers stumble into the Boatman's Tavern on a windless night, they find more than ale and rumors—they find the flame and tide colliding.",
+      "The adventurers stumble into this tension by accident… or design.",
+      {
+        "type": "entries",
+        "name": "Objectives",
+        "entries": [
+          {
+            "type": "list",
+            "items": [
+              "Overhear the Argument between Wat and Skole.",
+              "Choose a Faction to support, or pit them against each other.",
+              "Inform Lodriss, or manipulate her to influence Tolub and the pirates.",
+              "Report to Selentis, Romag, or Belsornig—each of whom may act on the fallout."
+            ]
+          }
+        ]
+      },
+      {
+        "type": "entries",
+        "name": "Setting: The Boatman's Tavern",
+        "entries": [
+          "The adventurers arrive at Boatman's Tavern on a night thick with mist. The river's breath coils under the warped door, and most patrons keep to themselves—except two men hissing barbed threats across a shadowed corner table.",
+          "A successful DC 14 Stealth or DC 16 Perception check allows the party to overhear the exchange. Failure means the argument ends abruptly. If spotted, Skole offers silence. Wat just narrows his eyes and memorizes faces."
+        ]
+      },
+      {
+        "type": "entries",
+        "name": "Approach Options",
+        "entries": [
+          {
+            "type": "entries",
+            "name": "1. Espionage: Learn the Factional Rift",
+            "entries": [
+              "If the party eavesdrops, they learn:",
+              {
+                "type": "list",
+                "items": [
+                  "Skole is smuggling enchanted items and Temple coin to Tolub's pirates at the behest of Belsornig.",
+                  "Wat believes Captain Tolub is edging the Fire Temple out of Nulb's logistics network.",
+                  "Both are terrified of Madame Selentis, who monitors all smuggling across the bridge from her manor."
+                ]
+              }
+            ]
+          },
+          {
+            "type": "entries",
+            "name": "2. Manipulate Lodriss",
+            "entries": [
+              "Lodriss may not wear a Temple emblem, but her silence is power. If the adventurers inform her of the Water vs. Fire feud:",
+              {
+                "type": "list",
+                "items": [
+                  "She may side with Skole, using Tolub to pressure Selentis or even Alrrem directly.",
+                  "Alternatively, she may have Skole removed and replace him with a pirate loyal only to her."
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "entries",
+        "name": "The Argument",
+        "entries": [
+          "As the adventurers approach the Boatman's Tavern, they see Wat leaning over Skole's table, his fingers gripping the wooden surface with quiet menace. Skole, clearly agitated, wipes sweat from his brow and shakes his head vehemently.",
+          {
+            "type": "inset",
+            "name": "Dialogue Snippet (Overheard)",
+            "entries": [
+              "{@b Wat} (gritted teeth): \"Skole, you're going to do what I damn well tell you. The Fire Temple needs eyes here, and I need someone I can trust. You'd be wise to listen before I lose my patience.\"",
+              "{@b Skole} (frustrated whisper): \"I told you, Wat! Lodriss will gut me if she finds out! You don't cross her unless you've got a death wish. And Tolub? He'll keelhaul me before I can even pack a bag!\"",
+              "{@b Wat} (snarling): \"Lodriss won't know, you fool. We just need a few whispers—when the big players are in town, when shipments are coming through. No one's asking you to sell your soul. Just your ears.\"",
+              "{@b Skole} (angrily shaking his head): \"And what happens when she finds out? She will. And then my corpse is feeding the fish in the Imeryd's Run.\""
+            ]
+          },
+          "At this point, if the adventurers are sneaky (a DC 14 Stealth check) they can listen in further without being detected. If they fail, Wat and Skole will notice them, and the conversation will abruptly stop. Skole will feign ignorance, while Wat will eye the party suspiciously, wary of their intentions."
+        ]
+      },
+      {
+        "type": "entries",
+        "name": "Report to Selentis",
+        "entries": [
+          "If Madame Selentis is informed of Wat and Skole's disobedience:",
+          {
+            "type": "list",
+            "items": [
+              "She may have them replaced, placing her own loyal thugs at both taverns.",
+              "Or she may play one against the other, ensuring they funnel Temple loot more directly through her logistics network."
+            ]
+          },
+          "{@b Reward:} Reputation increase with the Greater Temple or potential assignment for sabotage."
+        ]
+      },
+      {
+        "type": "entries",
+        "name": "4. Feed False Information to Skole",
+        "entries": [
+          "Trick Skole into thinking Wat plans to report him to Belsornig. This could:",
+          {
+            "type": "list",
+            "items": [
+              "Force Skole to act rashly and lose Lodriss' protection.",
+              "Cause Belsornig's pirates to lash out preemptively against Wat or the Fire Temple."
+            ]
+          }
+        ]
+      },
+      {
+        "type": "entries",
+        "name": "5. Report to Romag or Alrrem",
+        "entries": [
+          "Alrrem may order Wat to retaliate, potentially triggering street-level violence in Nulb. Romag, seeing an opportunity, might use the party to destabilize both Water and Fire factions."
+        ]
+      }
+    ]
+  }
+]
