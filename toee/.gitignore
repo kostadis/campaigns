@@ -1,0 +1,12 @@
+# Python bytecode
+__pycache__/
+*.pyc
+
+# /vtt-spell-pass resumable state
+notes/.vtt_spell_pass_state.json
+
+# Local LLM-wiki cache (research scratchpad, regenerable)
+temple/.llm-wiki/
+
+# Obsidian per-vault config
+temple/.obsidian/
