@@ -1,0 +1,16 @@
+# Chapter 43 - The Evil Gold Dragon
+Harshnag was grouchy. And Yazmeen was freezing. But Orsik was very determined to follow the treasure map. And since it was almost in the right direction, the rest of the group tagged along. 
+Or, more precisely, no one wanted to walk away from that kind of haul.
+The treasure was in a cave that happened to be the lair of an evil gold dragon. The dragon’s lair had a pack of crag cats hanging around the caves that tried to feast on the remains of that dragon’s prey. 
+“Evil Gold Dragon?” 
+A common misconception is that Dragons are good or evil based on a single attribute, the color of their scales. 
+Like most sentient creatures, it’s more complicated than that. The real culprits are the two dominant religious groups, the Cult of Bahamut and the Cult of Tiamat. Historically, the Cult of Bahamut tended to attract dragons with shiny metallic scales. The Cult of Tiamat drew dragons with primary colors. Over time, metallic Dragons managed to breed with other Dragons that were metallic and had similar interests. And the same holds true for the primary color dragons. Over time, the cultural biases of the Cult of Tiamat tended to permeate all Dragons that were here followers. And an analogous situation existed for the cult of Bahamut. For most non-dragons, Tiamat is evil, and Bahamut is good. 
+This is a misunderstanding of “goodness and evil. Both Gods view Dragons as the apex species, and others serve the dragon's needs. The difference is the approach. Bahamut believes that his Dragons are the dominant species so that his Dragons are the prevailing set of his Dragons. And that having the fewest number of enemies is critical. 
+Tiamat also believes that Dragons will be dominant but is impatient with anyone who will get in her way. Tiamat does not care for how many enemies she has because she has unshakeable faith in her final triumph. A few more or a few fewer dragons do not matter. 
+And so Bahamut’s Dragons are good because they seem to not want to destroy non-dragons right now, and Tiamat’s Dragons are evil because they do not care if non-dragons are killed in pursuit of their aims. 
+Because of how Dragon culture works, Dragons tend to reflect the group they are brought up in. And so, “metallic” dragons tend to be good, and “primary color” dragons tend to be evil. 
+But the keyword is tended. Some metallic dragons reject the philosophy of Bahamut and decide that they aren’t interested in playing the long game and living within artificial limits that Bahamut has placed on their freedom of action.
+This Gold Dragon was one of those Dragons. He was a profoundly philosophical Dragon who saw the Cult of Bahamut's hypocrisy and decided to selfishly pursue his own goals.
+Why did he not join the Cult of Tiamat? Because after millennia of primary color dragons and metallic dragons fighting each other, he saw that as just trading one hypocrisy for another and because of profound doctrinal differences, the Cult of Tiamat was not welcoming to metallic dragons. 
+Over time, this Dragon would have found a different path for all Dragonkind. 
+Unfortunately for him, the 3HPP were not interested in a deep philosophical debate on good and evil. And so, after a fierce battle, killed him.

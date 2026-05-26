@@ -1,0 +1,64 @@
+# mempalace exclusions for the Storm Giants campaign palace.
+# Mined as three wings:
+#   - chronicle: docs/distill_extractions/  (own mempalace.yaml)
+#   - narrative: docs/chapters/             (own mempalace.yaml)
+#   - stormgiants: this directory (root)    (everything else, after these excludes)
+
+# --- Raw session data (synthesized elsewhere; do not pollute palace) ---
+summaries/
+logs/
+
+# --- Separate tooling workspaces ---
+Storm King Thunder/
+
+# --- Planning / pipeline scratch (not lore reference) ---
+notes/
+
+# --- Pipeline rendering inputs (used at narration time, not retrieval) ---
+voice/
+examples/
+
+# --- Pipeline intermediates (root-level) ---
+party_extractions/
+planning_extractions/
+
+# --- Pipeline intermediates (docs/) ---
+docs/state_extractions/
+docs/party_extractions/
+docs/planning_extractions/
+docs/synthesize_npc/
+
+# --- Subdirs mined as their own wings (mempalace.yaml lives inside) ---
+distill_extractions/
+docs/chapters/
+
+# --- Narrative bibles (replaced by chapter splits in docs/chapters/) ---
+docs/storm-doc.md
+docs/The Hero's Journey or The War of the Giants.md
+
+# --- WotC published module text (huge, not lore for retrieval) ---
+docs/StormKingsThunder.md
+
+# --- Backup archives ---
+*.tar.gz
+*.tar
+*.zip
+
+# --- Pipeline tooling at root ---
+config.yaml
+ui_config.yaml
+ui_config.yaml.migrated
+ui_state.yaml
+*.sh
+script_run
+scrub_mechanics.py
+scrub_mechanics_prompt.md
+prose_mode_prompt.md
+tracking.txt
+entities.json
+--output/
+
+# --- Claude / mempalace own files ---
+.claude/
+MEMPALACE.md
+mempalace.yaml.bak
