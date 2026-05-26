@@ -12,3 +12,10 @@ desktop.ini
 *.Zone.Identifier
 gMarkdown
 gdrive
+
+# UI runtime state + migration artifacts (regenerable)
+ui_state.yaml
+ui_config.yaml.migrated
+
+# 5etools ingest cache
+docs/background/.fivetools_ingest/
