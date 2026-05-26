@@ -1,0 +1,30 @@
+# Mempalace generated files (not for version control)
+entities.json
+mempalace.yaml
+MEMPALACE.md
+mempalace.yaml.bak
+
+# Operational / local
+logs/
+.claude/
+
+# OS / system files
+desktop.ini
+*.Zone.Identifier
+
+# UI runtime state + migration artifacts (regenerable)
+ui_state.yaml
+ui_config.yaml.migrated
+
+# Backup archives (large, regenerable from source)
+*.tar.gz
+*.tar
+*.zip
+
+# LLM-wiki tool state + Obsidian per-vault config (under Storm King Thunder/)
+Storm King Thunder/.llm-wiki/
+Storm King Thunder/.obsidian/
+
+# Pipeline output dir
+--output/
+script_run

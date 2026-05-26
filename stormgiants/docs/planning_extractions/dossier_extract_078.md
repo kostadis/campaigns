@@ -1,0 +1,31 @@
+## Sandesyl
+
+Sandesyl is a vampire whose lair was located within a glacier, hidden behind a wall of ice adjacent to Glazhael the Undying's lair. Her coffin, plain in appearance, contained her perfectly preserved corpse along with a small gold-inlaid locked box — the dracolich Glazhael's phylactery, which Sandesyl had been keeping. The party had previously fought her and reduced her to a near-death state; Thistle notes she would reform within two hours, confirming she did not turn to mist when brought to death's door. Glazhael directed the party to the coffin's location by shattering the ice wall with her tail. Unla Kee opened the coffin and retrieved the phylactery box. Unla Kee briefly considered turning Sandesyl into a vampire thrall using telekinesis, drawn by the prospect of her power. Before he could act, Orsik pushed him aside and staked her in her coffin, ending her permanently. Her corpse remained in the coffin at the session's end.
+
+## Glazhael the Undying
+
+Glazhael the Undying is a dracolich residing in the center of the glacier. She was surprised to find the party alive when they arrived, having apparently expected Sandesyl to destroy them. Upon learning Sandesyl was effectively dead, she honored a prior agreement: she revealed the location of Sandesyl's coffin — and by extension her own phylactery — by shattering the ice wall with a flick of her tail after dismissing Unla Kee's firebolt as inadequate. She explained that her phylactery was inside the coffin alongside Sandesyl's corpse. When Orsik asked how to kill a vampire, Glazhael laughed and claimed ignorance. Once Unla Kee handed her the locked box containing her phylactery, she departed as agreed. Her current whereabouts are unknown following her exit from the glacier.
+
+## Blagothkus
+
+Blagothkus is the cloud giant who owns the flying castle. He required healing after the battle with Sandesyl. In the control room, he faced a furious confrontation with his wife Escarlotta, who had learned from Brunvild the true story of how Blagothkus reacquired his castle — through deals with dragons and a vampire. Thistle then revealed to Escarlotta that their son Eigeron was trapped as a ghost, and implied that Blagothkus was responsible. Blagothkus whimpered that it was "an accident" but could not deflect Escarlotta's rage. At her screamed command, the party killed him: Vardis struck him with a guiding bolt, Orsik smote him with his sword, Thistle pierced his critical arteries, Unla Kee burned him with electricity, and Brunvild finished him with one of his own hammers. Blagothkus is dead.
+
+## Escarlotta
+
+Escarlotta is the stone giant wife of Blagothkus and apparent true owner of the flying castle, her presence manifested through the castle's eye-like gems. She was furious upon learning from Brunvild the real circumstances of how Blagothkus reacquired the castle — through deals with dragons and a vampire. When Thistle revealed that their son Eigeron was a ghost trapped for eternity and implied Blagothkus was responsible, she screamed for his death. After the party killed Blagothkus, she sobbed. She then asserted sole ownership of the castle against Brunvild's salvage claim, silencing the room. She acknowledged that the party had saved her son and granted them safe passage as guests aboard the castle. She reminded the party of their priority mission — finding Hekaton — and announced they were heading to Yartar, where she confirmed the clue (a wooden coin from a gambling casino) was tenuous but worth pursuing. She expressed skepticism about the clue's reliability. Last known status: in command of the flying castle, en route to Yartar.
+
+## Brunvild
+
+Brunvild is a giant who had been aboard the castle and was present in the control room during the confrontation with Blagothkus. He informed Escarlotta of the true version of how Blagothkus reacquired the castle — the deals with dragons and the vampire — which triggered her rage. He also echoed Escarlotta's accusation, adding "And a vampire!" He finished off Blagothkus with one of the cloud giant's own hammers. Afterward, he attempted to claim the castle on the basis of salvage rights, but backed down when Orsik appeared ready to fight him and Escarlotta asserted ownership. He retreated from the room, saying he would find a place to sleep in the large castle. Last known whereabouts: somewhere aboard the flying castle.
+
+## Eigeron
+
+Eigeron does not appear in this chunk. He is discussed as the deceased son of Blagothkus and Escarlotta, encountered previously by the party as a ghost trapped in the Eye of the All-Father oracle. Thistle used knowledge of Eigeron strategically during the confrontation in the control room, mentioning his name to Escarlotta and implying that Blagothkus was responsible for his death and ghostly imprisonment. Blagothkus responded that "it was an accident." Escarlotta's reaction — screaming for Blagothkus' death so that Eigeron could be freed — suggests that killing Blagothkus may be connected to freeing Eigeron's spirit, though this has not been confirmed.
+
+## Lord Khaspere Drylund
+
+Lord Khaspere Drylund does not appear in this chunk. He is discussed as the owner of the Grand Dame, a gambling boat docked at Yartar. The party previously noted he had refused them entry. A wooden coin from his casino served as Queen Serissa's clue pointing toward Yartar. The party's plan is to use their considerable gold reserves to present themselves as wealthy gamblers, forcing Drylund to welcome them aboard, and then extract information from him — ideally getting him to talk about whatever connection he has to Hekaton's disappearance or the broader giant conspiracy.
+
+## Adimond Kroskas
+
+Adimond Kroskas does not appear in this chunk. He is briefly referenced by Thistle during the planning discussion about the Grand Dame, cited as a reason not to simply sink the boat — defeating Kroskas, along with saving Thistle's companion and finding Hekaton, is listed as a priority goal that requires information first.
