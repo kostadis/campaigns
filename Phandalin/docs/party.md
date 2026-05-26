@@ -55,11 +55,11 @@
 
 ## Characters
 
-### Brewbarry
+### Brewbarry Root Smasher Ogalakadu
 
 **Player:** Stephane Boudreau | **Class/Level:** Barbarian (Path of the Giant) 6 | **Species:** Goliath
 
-Brewbarry is a competitive, boisterous Goliath who treats life as a contest and every victory as cause for excess. His debauchery and loyalty are equally outsized — he fights with ferocious commitment and measures friendship in shared battles and shared hangovers. Beneath the bravado is a man still carrying the shame of his exile from his Uthgardt tribe, a shame he now knows was manufactured: he was sober when the sacred site was desecrated, found guilty unjustly, and only took up drinking *after* banishment.
+Brewbarry is a competitive, boisterous Goliath who treats life as a contest and every victory as cause for excess. His debauchery and loyalty are equally outsized — he fights with ferocious commitment and measures friendship in shared battles and shared hangovers. Beneath the bravado is a man still carrying the shame of his exile from his Uthgardt tribe — a shame he now knows was manufactured: a goodberry's magical sedation rendered him unaware while a sacred artifact was stolen, and he was sober when found guilty. He only took up drinking *after* banishment. His loyalty to Vukradin is total and personal; Vukradin was the first person to ever look at him as worth following.
 
 **Notable Relationships:**
 - *Vukradin:* Core loyalty ("I like Vukardin music"); defended him in combat; emotionally moved by Vukradin's logging speech; relationship deepened when Brewbarry finally disclosed the true story of his exile; intends to relay the Druid Council's vindication to him directly.
@@ -84,6 +84,8 @@ Brewbarry is a competitive, boisterous Goliath who treats life as a contest and 
 **Candidate Arc Score Events — The Thistle's Echo Score**
 
 - [extract_003]: Carried away orc axes as trophies after the dwarven ruins fight → candidate **+1 The Dietary Rejection** (trigger: "When Brewbarry actively refuses magically conjured sustenance… or magical healing from a spellcaster, insisting on mundane food and natural recovery") *(trigger match unclear — the axes are mundane trophies, not a rejection of magical sustenance; review)*
+
+- [extract_004]: Declaration "I am Brewbarry, killer of Ogres!" was the decisive statement that convinced the gnome guards to admit the party → candidate **+1** (trigger match unclear — no direct trigger matches "reputation statement convinces NPC," but may qualify under "The Hammer is the Only Truth": "When you bypass the 'polite' rules of engagement and use your physical presence to smash through a deception"; review)
 
 - [extract_005]: Chose to show mercy and empathy to a fleeing bandit, dropping his halberd and apologizing for Uthgardt violence rather than killing him → no clear trigger match from the four defined triggers *(trigger match unclear — review)*
 
@@ -121,11 +123,11 @@ Brewbarry is a competitive, boisterous Goliath who treats life as a contest and 
 
 ---
 
-### Valphine
+### Valphine Sotorra
 
 **Player:** Gary Young | **Class/Level:** Cleric (Peace Domain) 6 | **Species:** Drow Elf
 
-Valphine is an unorthodox devotee of Lathander whose conversion is genuine but deeply strange — she found the sun god through her Drow connoisseurship of pain, and her theology holds that brightness and suffering are the same thing. She is sharp-eyed for intrigue (a survival trait from Menzoberranzan), capable of profound psychological manipulation, and increasingly operating with a double identity: presenting as an orthodox priestess while cultivating a heterodox pain-cult internally.
+Valphine escaped Menzoberranzan during a demon incursion and discovered Lathander through the agonizing experience of surface sunlight — which she interpreted as divine revelation rather than harm. Her conversion is genuine but deeply strange: she found the sun god through her Drow connoisseurship of pain, and her theology holds that brightness and suffering are the same thing. She is sharp-eyed for intrigue (a survival trait from Menzoberranzan), capable of profound psychological manipulation, and increasingly operating with a double identity — presenting as an orthodox priestess while cultivating a heterodox pain-cult internally at her growing temple at Tresendar Manor.
 
 **Notable Relationships:**
 - *Vukradin:* Followed him out of the First Flophouse sensing something significant; treats him as a potential sign from Lathander; their musical collaboration (*Choralum Lux Maleficarum*) earned public recognition and his respect. She actively protects him in ways he doesn't know about (hidden defensive vial).
@@ -169,6 +171,8 @@ Valphine is an unorthodox devotee of Lathander whose conversion is genuine but d
 - [extract_029]: Successfully entered the shutdown code preventing catastrophic planar failure; landed a blinding curse on Aletra, forcing her to drop interdimensional poison vials → candidate **+2 (actively inflicting 'purifying pain' to solve a problem)** for the curse on Aletra (trigger: "Give her +2 for actively inflicting 'purifying pain' to solve a problem"); shutdown code itself is tactical, no direct Searing Dawn trigger.
 
 - [extract_038]: Congregation is providing healing, food, shelter, and community; Brin and Giles conducted a public self-flagellation fundraising parade through Phandalin → candidate **+3 (converting NPCs / propagating brutal methodology publicly)** (trigger: "+3 for successfully converting NPCs or orthodox clerics to her brutal methodology")
+
+- [extract_038]: Compelled the Whiskered Gang to pursue the Earthstone Gem through divine authority (Daylight, direct confrontation), unblocking mine production → candidate **+2 (actively inflicting 'purifying pain' / authoritative action to solve a problem)** (trigger: "Give her +2 for actively inflicting 'purifying pain' to solve a problem"; partial match; review)
 
 - [extract_039]: Successfully began turning Falcon away from nihilistic philosophy toward Lathander's doctrine; Falcon stated "I don't even know why I ever supported Adabra" → candidate **+3 (converting NPCs)** (trigger: "+3 for successfully converting NPCs or orthodox clerics to her brutal methodology")
 
@@ -216,6 +220,8 @@ Soma is patient, dry-witted, and instinctively maternal — she calls her compan
 
 - [extract_013]: Identified the puppet creature collecting Treant materials as evidence of a calculated, motivated force behind the planar corruptions → candidate **+2 Subtle Discernment** (trigger: "When Soma correctly identifies a threat as a *motivated* blight rather than a natural occurrence… recognizing that the Kraken Society's memory-tampering… is an unnatural infection that must be purged, actively rejecting Adabra's philosophy")
 
+- [extract_013]: Attempted the ritual after the tormented deer memory surfaced, aligning herself implicitly with the interventionist position → candidate **+3 Active Intervention** (trigger: "When Soma actively sabotages or destroys an immediate threat to the planar order") *(trigger match partial — ritual attempt rather than destruction; review)*
+
 - [extract_014]: Chose to save Lyra and her allies rather than let them die, and argued this to Adabra — principled stand that deepened Adabra's suspicion → candidate **+3 Active Intervention** (trigger: "When Soma actively sabotages or destroys an immediate threat to the planar order… or refusing to let an aberration retreat")
 
 - [extract_016]: Used Speak with Animals to locate Petunia efficiently; practical problem-solving under pressure → candidate (trigger match unclear — this is resourcefulness, not party de-escalation; review)
@@ -233,6 +239,8 @@ Soma is patient, dry-witted, and instinctively maternal — she calls her compan
 - [extract_038]: Demonstrated resolve; stated clearly she will not surrender the staff under any circumstances when confronted with the druid conclave threat → no specific trigger; skip.
 
 - [extract_039]: The Emerald Enclave council ruled in favor of Soma's interventionist position; Soma stood firm, undermined Adabra's case by forcing "What does Adabra say the solution is?" → candidate **+2 Subtle Discernment** (trigger: "actively rejecting Adabra's philosophy") and/or candidate **+3 Active Intervention** (trigger: "refusing to let an aberration retreat") *(trigger match unclear — this is political action at a council, not direct planar intervention; review which trigger, if any, fits)*
+
+- [extract_039]: Used Meril's Staff Resonance power to detect that Adabra is a true believer (not controlled or deceived) → candidate **+2 Subtle Discernment** (trigger: "When Soma correctly identifies a threat as a *motivated* blight rather than a natural occurrence")
 
 - [extract_039]: Xanthopoulos publicly stated "Perhaps Meril made the right choice" — Soma received external validation of her stewardship → narrative milestone; no score trigger; skip.
 
@@ -256,6 +264,7 @@ Vukradin is a lawful-good musician who has built his entire identity around the 
 - *Adabra:* Relationship fractured. She orchestrated a council attack against him; he formally closed their debt by mailing her 5gp plus interest. No rapprochement.
 - *Falcon:* Restored after a categorical apology; Falcon has promised studio wood and a music-venue partnership; relationship is warm but relatively new; Falcon arrived at the lodge with his sword pledged to the defense.
 - *Valphine:* Respects her; often does not know what she is doing on his behalf and probably wouldn't endorse all of it.
+- *Soma:* Works well together; Soma has begun to worry privately that his persuasiveness is making people around Phandalin feel "handled" — a concern she has not yet voiced to him.
 - *Lyra (Emerald Enclave):* Warm; she publicly credited his Enclave strategy.
 - *Corbin:* Dead. Vukradin pushed Corbin toward his former gang over Corbin's explicit objection; he acknowledged this grief when Prutha was named, connecting the two situations.
 - *Prutha (orc convert):* First named convert; Vukradin acknowledged him as "my first."
