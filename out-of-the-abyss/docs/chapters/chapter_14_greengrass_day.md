@@ -51,7 +51,7 @@ The duergar looks at it and says, “Yes, it’s  Duergar Keelboat. You can see 
 Zalthir is about to say something when Thorin suddenly wises up, “Are they big enough to hold people? I am worried about an ambush.” 
 
 
-Hemath laughs, “Yes, that would be a good thing to worry about. The Duergar can become invisible for a whole hour.” And he turns invisible. “I will be hiding here.” 
+Hemeth laughs, “Yes, that would be a good thing to worry about. The Duergar can become invisible for a whole hour.” And he turns invisible. “I will be hiding here.” 
 
 
 Then Thorin, who, to Zalthir’s pleasant surprise, is becoming a lot more paranoid, asks, “Can’t we do something to detect them, like splash water?” 
@@ -170,7 +170,7 @@ He can hear Daz’s sighs, and the burst of magic bolts kills the other creature
 Another belch sounds, and another Duergar dies covered in acid. 
 
 
-A few moments later, the last of the Deurgar is immobilized, and Zalthir is tired and happy. 
+A few moments later, the last of the Duergar is immobilized, and Zalthir is tired and happy. 
 
 
 He floats to the keelboat and looks into the casks and the chest. He finds some gold and a jug that he learns later can be used to generate any liquid. The first liquid they generate is mayonnaise. After eating bland mushrooms, mayonnaise will make anything taste much better. 
@@ -182,7 +182,7 @@ As he digs through the contents, he can hear the debate on the Kuotoan boat abou
 Buppido shouts, “I have particular expertise and talents.”
 
 
-Sarith explains, “The Lloth’s guards trained me. I am an expert, but having seen Daz’s approach, I recommend that he be given the first crack at extracting information.” 
+Sarith explains, “The Lolth’s guards trained me. I am an expert, but having seen Daz’s approach, I recommend that he be given the first crack at extracting information.” 
 
 
 ### Grygum
@@ -276,7 +276,7 @@ But Grygum intervenes, “There are so many people who will kill us that I am no
 Thorin lowers his weapon, uncertain. He looks to Daz, and Daz says, “I vote that we get as close to a guarantee as we can and then, as we leave, let him loose in the city.” 
 
 
-Buppido is desperate and pleads, “I made mistakes. I was mad. The divine plan called me, and I realized it was a mistake. I have learned from Suushar that I was mad. PLEASE!” 
+Buppido is desperate and pleads, “I made mistakes. I was mad. The divine plan called me, and I realized it was a mistake. I have learned from Shuushar that I was mad. PLEASE!” 
 
 
 Thorin is now very confused. 

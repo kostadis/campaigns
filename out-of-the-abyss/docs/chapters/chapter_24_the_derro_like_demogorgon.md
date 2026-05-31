@@ -105,7 +105,7 @@ From there, a voice and an Ogre Zombie emerge.
 I pause and try to answer. However, we have struck numerous deals with various other parties, and I'm no longer sure what to say. 
 
 
-Grygym answers - "Ah, my friend, you've just asked him a simple question: "So, Grygum, who do you work for, truly?"
+Grygum answers - "Ah, my friend, you've just asked him a simple question: "So, Grygum, who do you work for, truly?"
 
 
 He looks at her with a mix of weariness and a peculiar Orcish amusement. "That is a question that requires more than a simple answer. It is, in fact, a Divine Scrutiny, a profound act of investigation into the very threads of our intertwined fates, here in this churning city of Gracklstugh."
@@ -230,7 +230,7 @@ I moved forward, my heavy armor clanking, but I ignored the sound. My focus was 
 The Derro themselves were predictably clumsy. One swung at me, but my armor held. The other landed a hit on Grygum, but our allies were quick to retaliate, dealing a good chunk of damage to him. Zalthir, bless his arcane heart, summoned his darkness, enveloping a couple of them. Then, in a burst of brilliant speed, he critically struck one of the Darrow. Impressive.
 
 
-Daz, always quick with a spell, launched his magic missiles. A flurry of arcane energy streaked across the tunnel, and the DerroI had struck, already reeling, and fell. One down. Good.
+Daz, always quick with a spell, launched his magic missiles. A flurry of arcane energy streaked across the tunnel, and the Derro had struck, already reeling, and fell. One down. Good.
 
 
 The remaining Derro, true to their limited intellect, continued their mindless attacks. One swung wildly at Zalthir, missing entirely. Another charged Grygum, screaming some incoherent babble about their master. My armor held, and I parried his pathetic attack. "One head is better than two!" I roared, pushing him back.
@@ -285,7 +285,7 @@ I might not want to give it to her. But I know her type; if she doesn’t get ev
 Just then, one of them picks up a book and starts to read from it. 
 
 
-Another asks, “Narrack, what are we doing?” 
+Another asks, “Narrak, what are we doing?” 
 
 
 I look at this Derro, who seems to be the orchestrator of the disturbing scene before me. This is Narrak. His pale, derro features are perpetually contorted, twisting into a grotesque mask of terrifying, spiraling madness. His eyes, perhaps unnervingly bright in the dim light, dart about with a frenetic, almost desperate energy.

@@ -98,7 +98,7 @@ Zalthir has heard that one before, but the Flumph answers Thorin's question of h
 He notices that the creature turns a dark blue. 
 
 
-Zathir wonders, “Have you seen anything evil?”
+Zalthir wonders, “Have you seen anything evil?”
 
 
 And just then, Zalthir’s head is flooded with images. 
@@ -138,7 +138,7 @@ Zalthir senses an opening, “Perhaps you can tell us where they are?”
 And he learns more. There are two ways into the cave with the Obelisk: the main entrance and a side passageway. Through the side passageway, he sees a chamber with a derro that carries the insignia of office of the Council of Savants and the Gray Ghosts. 
 
 
-And then he gets hit with more sadness. The creature is Trauma Dumping. He learns that the caves were once a hippy place, where Derro and Duergar would come to chill out, party, and be friends. Some months ago, the permanent twilight of the Faerzess stopped, and the cave complex became dark. Everyone was afraid, and the Faerzess blinked on brightly and then was off. And then it blinked once more, and then it returned to its usual color. But something had changed, and soon the various hippy friends stopped being friends. Instead of being a place of friendship, a place where folks could be happy, it became a place of murder and death and conspiracy. The mesa (Area 5) was once a place where folks got together to get drunk and party, but now it was a war zone between the forces of the cult of Demogorgon and the empty scabbard killers.
+And then he gets hit with more sadness. The creature is Trauma Dumping. He learns that the caves were once a hippy place, where Derro and Duergar would come to chill out, party, and be friends. Some months ago, the permanent twilight of the Faerzress stopped, and the cave complex became dark. Everyone was afraid, and the Faerzress blinked on brightly and then was off. And then it blinked once more, and then it returned to its usual color. But something had changed, and soon the various hippy friends stopped being friends. Instead of being a place of friendship, a place where folks could be happy, it became a place of murder and death and conspiracy. The mesa (Area 5) was once a place where folks got together to get drunk and party, but now it was a war zone between the forces of the cult of Demogorgon and the empty scabbard killers.
 
 
 ### Grygum
@@ -165,7 +165,7 @@ Grygum takes note of this.
 “Yes, they are quite dangerous! But you are heroes!” 
 
 
-The flump then shows how the mind flayer lives down a hallway. 
+The flumph then shows how the mind flayer lives down a hallway. 
 
 
 “Who else lives there?” 
@@ -262,11 +262,11 @@ First, the factions hiding in the caves will not notice the deaths of Buppido an
 
 
 1. *Errde of the Stone Guards believes the Council of Savants and the Grey Ghosts are behind the increasing madness of the city. She is also pretending not to think that assassins have targeted her clan. She believes that Droki is somehow helping the Council of Savants, and she wants proof of the Council of Savants' involvement with the corruption in the city. She also wants any actual evidence about the Empty Scabbard Killers.*
-1. *Gartokar Xundom of the Keepers of the Flame also wants the Grey Ghosts dead. But more importantly, wants the egg. The egg is their insurance policy against Themberchaude. The Keepers of the Flame consider the Council of Savants their worst enemies. And are engaged in a secret war with them. They, too, want the Council of Savants exposed. *
-1. *Themberchaude, the red dragon, believes that the Keepers of the Flame have plans and is not convinced his position is as secure as he wants to believe. More importantly, he’s not sure that he’s in charge. And he wants information about what’s going on. *
+1. *Gartokkar Xundom of the Keepers of the Flame also wants the Grey Ghosts dead. But more importantly, wants the egg. The egg is their insurance policy against Themberchaud. The Keepers of the Flame consider the Council of Savants their worst enemies. And are engaged in a secret war with them. They, too, want the Council of Savants exposed. *
+1. *Themberchaud, the red dragon, believes that the Keepers of the Flame have plans and is not convinced his position is as secure as he wants to believe. More importantly, he’s not sure that he’s in charge. And he wants information about what’s going on. *
 
 
-*Gartokkar and Errde can’t get into the Whorlestone Caves without triggering a war. For Gartokkar, the need for war would reveal the loss of a crucial pillar of his power. In Errde’s case, it would expose her incompetence as the city guardian. *
+*Gartokkar and Errde can’t get into the Whorlstone Caves without triggering a war. For Gartokkar, the need for war would reveal the loss of a crucial pillar of his power. In Errde’s case, it would expose her incompetence as the city guardian. *
 
 
 As Daz pens the last paragraph, he smiles. The path forward was clear, and indeed, it was very profitable. 

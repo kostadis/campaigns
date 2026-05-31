@@ -2,7 +2,7 @@
 ## 2nd day of the 3rd Tenday of Taraskh
 
 
-Demogorgon roars. And while Leemoogoogoon’s followers cheer in ecstasy, the followers of the Deep Sea Mother are either terrified, driven mad, or planning to stand their ground and fight the demon lord. 
+Demogorgon roars. And while Leemooggoogoon’s followers cheer in ecstasy, the followers of the Deep Sea Mother are either terrified, driven mad, or planning to stand their ground and fight the demon lord. 
 
 
 It's too much for Daz, who collapses in tears and moans. 
@@ -17,7 +17,7 @@ He’s about to run when he notices that in addition to Daz, Eldeth, Topsy, Turv
 “To the boat?” he overhears someone say. 
 
 
-The way out on the ground means gEttin g through the mobs of Kuotoans in the village of Sloopbludop. And even if they get through the Kuotoans, Demogorgon is advancing in that direction.  
+The way out on the ground means gEttin g through the mobs of Kuotoans in the village of Sloobludop. And even if they get through the Kuotoans, Demogorgon is advancing in that direction.  
 
 
 If they can get to the boat, they may slip past Demogorgon. 
@@ -44,10 +44,10 @@ The Monitors seem relieved to have a purpose and rush off.
 And with that, they board the boat and float away, paddling quietly not to be heard. 
 
 
-From a distance, they can see Demogorgon destroy the town of Sloopbludop—the screams of the Kuotoans echo in the darkness. 
+From a distance, they can see Demogorgon destroy the town of Sloobludop—the screams of the Kuotoans echo in the darkness. 
 
 
-Shuushar, finally recovered from the sudden appearance of the demon lord, mutters, “Enlightmnet is necessary! We must change as a people. Our imagination brought into existence, Leemoogoogoon.” 
+Shuushar, finally recovered from the sudden appearance of the demon lord, mutters, “Enlightmnet is necessary! We must change as a people. Our imagination brought into existence, Leemooggoogoon.” 
 
 
 Eldeth mutters, “That was Demogorgon. He’s in the prime material plane. That is not possible.” 
@@ -68,7 +68,7 @@ Daz reflects on his knowledge of the arcane and his time in the Underdark, “De
 Spiderbait wails, “This is so not good. The Underdark isn’t a friendly place! And rampaging demons and demon lords!” 
 
 
-Eldeth concurs, “The danger to all of Faerun is undeniable. Even if we escape the Underdark, these demons won’t stay down here. And to think someone summoned demon lords! We need to get a warning to the surface worlds. Dwarven miners are at risk!” 
+Eldeth concurs, “The danger to all of Faerûn is undeniable. Even if we escape the Underdark, these demons won’t stay down here. And to think someone summoned demon lords! We need to get a warning to the surface worlds. Dwarven miners are at risk!” 
 
 
 Sathir mutters, “Where to next?” 
@@ -160,7 +160,7 @@ And the boat is a tight fit.
 Hemeth seems to be reading Zalthir’s mind when he suggests, “Maybe we take that boat from them? Like the last time I talked to Kuo-Toans, I almost got sacrificed. I was just trying to sell them weapons. I didn’t think they would think sacrificing me was a weapon. Crazy fish people.” 
 
 
-Before Zalthir can agree, Suushar and Grygum have already decided that talking with more Kuotoans is the right answer. 
+Before Zalthir can agree, Shuushar and Grygum have already decided that talking with more Kuotoans is the right answer. 
 
 
 Zalthir  steps back and gets ready to attack, just in case. 
@@ -169,7 +169,7 @@ Zalthir  steps back and gets ready to attack, just in case.
 The Awakened shouts out to his kinsmen. Shuushar is very excited; at least, it would appear to Zalthir, Shuushar’s excited. 
 
 
-Finally, their Kuo-Toan companion turns to the group, “They are from Sloopbludop and have seen the danger of the Kuo-Toan madness. And they are receptive to my message! They want to create a better Kuo-Toan world where we are no longer driven mad by our need to create a new god! I have found my calling! And I must leave you!”   
+Finally, their Kuo-Toan companion turns to the group, “They are from Sloobludop and have seen the danger of the Kuo-Toan madness. And they are receptive to my message! They want to create a better Kuo-Toan world where we are no longer driven mad by our need to create a new god! I have found my calling! And I must leave you!”   
 
 
 Before Zalthir can point out that Shuushar’s insight into the map of the Darklake is critical to their survival, Thorin says - “Follow your bliss!” 

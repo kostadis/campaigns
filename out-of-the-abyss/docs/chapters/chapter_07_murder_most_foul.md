@@ -12,7 +12,7 @@ Near a pool of water, the Eldeth smiles. She has found waterorbs. As she explain
 But more importantly, it can be used to store water. 
 
 
-This part of the journey takes you through tunnels and caves rich in the Faerzess's eerie magic. Yuk Yuk and Spiderbait find the colors somehow different than they are used to. And Sethir seems particularly affected. 
+This part of the journey takes you through tunnels and caves rich in the Faerzress's eerie magic. Yuk Yuk and Spiderbait find the colors somehow different than they are used to. And Sethir seems particularly affected. 
 
 
 But it is Thorin who suddenly loses it abruptly. He starts screaming, laughing, and weeping. After about ten minutes, during which no one is sure if he’s suffering from PTSD, whether the stress of the Underdark has become too much, or whether this is some religious ritual, he recovers. 
@@ -21,13 +21,13 @@ But it is Thorin who suddenly loses it abruptly. He starts screaming, laughing, 
 “I have no idea what happened. But I am fine now.” 
 
 
-Suushar the Awakened sees Thorin’s bout of madness and remarks that perhaps in Sloopbludop, the archpriest Ploopploopeen can help. “Ploopploopeen is a follower of the Sea Mother, and she will be most welcoming of my awakening to the end of our people’s madness.” 
+Shuushar the Awakened sees Thorin’s bout of madness and remarks that perhaps in Sloobludop, the archpriest Ploopploopeen can help. “Ploopploopeen is a follower of the Sea Mother, and she will be most welcoming of my awakening to the end of our people’s madness.” 
 
 
 Grygum hears the name of the archpriest and mutters, “That’s quite a bit of tongue twister.” 
 
 
-Suushar is confused - “It isn’t. It’s pretty simple to say. Ploopploopeen, Ploopplooppen, Ploopploopeen!” 
+Shuushar is confused - “It isn’t. It’s pretty simple to say. Ploopploopeen, Ploopploopeen, Ploopploopeen!” 
 
 
 Grygum raises an eyebrow and is about to speak, but the tunnels turn left, and he finds himself in a massive cavern with what appears to be a bottomless gorge. 
@@ -81,7 +81,7 @@ Zalthir turns to the locals, “Do we leave the bodies here, and will the ecosys
 That triggers a massive debate. What to do with corpses is a significant ecological, Phylosophical, and existential problem in the Underdark. Because corpses are food, unwanted creatures are attracted and will eat them. This creates pockets of disturbance in the local ecosystem that a clever group of trackers can use to identify the presence of violent combat. 
 
 
-Jimjar, Topsy, and Turvy believe that the monsters will be a hindrance. Suushar feels that the notion that trackers can discern anything from what the circle of life is is absurd. Buppido is emphatic that this will leave a trail. 
+Jimjar, Topsy, and Turvy believe that the monsters will be a hindrance. Shuushar feels that the notion that trackers can discern anything from what the circle of life is is absurd. Buppido is emphatic that this will leave a trail. 
 
 
 For some reason, Zalthir believes Buppido. There is something about the Derro’s conviction. And so the bodies are dropped into the bottomless gorge. 
@@ -141,7 +141,7 @@ A group of bandits arrive under the flag of truce, offering information about ho
 The bandit leader explains, “We were exploring a dungeon and made one too many wrong turns, ending up deeper into the ground than we wanted to.” 
 
 
-Grygym, Eldeth, and Zalthir realize that the story is a fabrication and that the details are not that important. 
+Grygum, Eldeth, and Zalthir realize that the story is a fabrication and that the details are not that important. 
 
 
 He offers the information for food. The deal is agreed upon, and he shares with him that the best chance of escape is through the town of Blingdenstone. 
@@ -150,12 +150,12 @@ He offers the information for food. The deal is agreed upon, and he shares with 
 Topsy and Turvy find the name off-putting. Jimjar is mildly disinterested. Sethir insists they should check out the lost temple and find the treasure. Buppido insists on going to Gracklstugh first and suggests they can purchase the equipment they need to make it to Blingdenstone. Sethir observes that traveling along the Darklake is less treacherous than traveling in tunnels.
 
 
-Suushar says he has no interest in traveling past Sloopbludop but may be willing to help with travel in the Darklake. 
+Shuushar says he has no interest in traveling past Sloobludop but may be willing to help with travel in the Darklake. 
 
 The debate continues, but eventually, everyone tires of it and falls asleep. 
 
 
-Grygym, enjoying the taste of toasted Ripplebark, asks Jimjar, “Wanna bet that we’ll find monsters in the tomb?” 
+Grygum, enjoying the taste of toasted Ripplebark, asks Jimjar, “Wanna bet that we’ll find monsters in the tomb?” 
 
 
 Jimjar mutters, “It’s a lost tomb; of course, we will; the better question is -what kind of monsters-.” 

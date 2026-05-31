@@ -75,7 +75,7 @@ The Stone Giant doesn’t smile, “No. But then again, I don’t know many. Who
 And Thorin explains his curious relationship with giants and how he got here. 
 
 
-The Stone Giant pauses, then speaks, “I am Dorhun, and this is Rihaud. We were both apprentices to Stonespeaker Hgraam. Did you kill him?” 
+The Stone Giant pauses, then speaks, “I am Dorhun, and this is Rihuud. We were both apprentices to Stonespeaker Hgraam. Did you kill him?” 
 
 
 Thorin explains how he tried not to kill but subdue him and that it was the Duergar. The Stone Giant confirms his story and sighs again. 
@@ -219,7 +219,7 @@ At that, Daz asks about the dragon.
 Daz is about to ask why but remembers how Dragon eggs can be purchased and hatched. 
 
 
-At this point, the Drow sitting next to the Halfling splutters, “Look, friend, I am from Menzoberanzan. The backstabbing and politicking are nothing compared to the Duergar. I mean, we will do it with style and finesse. Here, it’s just slaughter. No torture, no speeches, no art, and I mean no style. It was just a brutal struggle. They just engage in violence for violence’s sake. It’s disgraceful if you ask me.” 
+At this point, the Drow sitting next to the Halfling splutters, “Look, friend, I am from Menzoberranzan. The backstabbing and politicking are nothing compared to the Duergar. I mean, we will do it with style and finesse. Here, it’s just slaughter. No torture, no speeches, no art, and I mean no style. It was just a brutal struggle. They just engage in violence for violence’s sake. It’s disgraceful if you ask me.” 
 
 
 At this point, Daz wonders if they should interview the various factions to find out which one they should join or whether they should join any of them. 

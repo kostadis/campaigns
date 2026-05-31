@@ -4,7 +4,7 @@
 The rules of “cut-the-graph” are pretty simple. The two players sketch out a series of rivers on paper. Each takes a turn to draw a line. Then, each player adds a bridge. The number of bridges and rivers drawn depends on various factors and is unimportant. Once the bridges and rivers are drawn, both players try to advance their tokens to the other side. A river can only be crossed at a bridge. Players must choose which bridges to destroy to defend themselves and which bridges to use to attack. Most of the time, the game ends in a tie. 
 
 
-A particular variation played in Cormyr, where militaries are far more sophisticated, allows the attacker and defender to build bridges with special magical units. Most people in the North don’t have much experience with that game. And those who do feel it changes the game in a way that doesn’t make it as challenging. In fact, in several gaming halls across Faerun, playing with the Cormyr rules will get you expelled from the gaming hall. 
+A particular variation played in Cormyr, where militaries are far more sophisticated, allows the attacker and defender to build bridges with special magical units. Most people in the North don’t have much experience with that game. And those who do feel it changes the game in a way that doesn’t make it as challenging. In fact, in several gaming halls across Faerûn, playing with the Cormyr rules will get you expelled from the gaming hall. 
 
 
 This is why when Zalthir cuts one of the strands, he’s surprised by the reaction of the Spiders. Instead of trying to attack from very away, they use their web-spinning ability to build new bridges and advance along those bridges. 
@@ -71,8 +71,8 @@ Zalthir then walks up to Fargas and touches his belly. The halfling is very miff
 The monk announces, “No gnoll spawn.” 
 
 
-At this point, the Zalthir turns to Serith and asks, “Can you explain how you know where it is?” 
-Serith sighs, “Probably best if I draw a map.” He uses the Ormu that Zalthir had collected from the narrow tunnel they had squeezed through. 
+At this point, the Zalthir turns to Sarith and asks, “Can you explain how you know where it is?” 
+Sarith sighs, “Probably best if I draw a map.” He uses the Ormu that Zalthir had collected from the narrow tunnel they had squeezed through. 
 
 
 “Now, this isn’t a map of the tunnels, but it will give you an idea of where we are and where we are going.” 
@@ -81,7 +81,7 @@ Serith sighs, “Probably best if I draw a map.” He uses the Ormu that Zalthir
 ![image]()
 
 
-“We started in Velkynvelve. We have been heading towards Sloobludop. We are at the Silken Paths. The Darklake is a large body of water. Unlike the overbrite, it doesn’t have a surface in the conventional sense. It’s a large water balloon in the Underdark, where intersecting caverns, caves, and tunnels allow navigation. After we get to Sloobludop, Bupido says we should go to Gracklstugh. Gracklstugh is a large Derro city. I agree with him. That’s where we can get weapons and gear. The tomb is on the way.” 
+“We started in Velkynvelve. We have been heading towards Sloobludop. We are at the Silken Paths. The Darklake is a large body of water. Unlike the overbrite, it doesn’t have a surface in the conventional sense. It’s a large water balloon in the Underdark, where intersecting caverns, caves, and tunnels allow navigation. After we get to Sloobludop, Buppido says we should go to Gracklstugh. Gracklstugh is a large Derro city. I agree with him. That’s where we can get weapons and gear. The tomb is on the way.” 
 
 
 “How many days are we from Sloobludop?” asks Grygum. 

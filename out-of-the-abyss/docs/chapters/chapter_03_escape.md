@@ -11,7 +11,7 @@ Zalthir shows no sentimentality and quickly scours the bodies for any weapons. T
 Sarith arms himself with studded leather armor, picks up a shield, and places one of the hand crossbows in a strap on the armor. Equipped with the Drow weapons, he looks every part of the warrior caste of the Cult of Lolth. 
 
 
-Grygum finds some poisoned hand crossbow bolts and a vial of what Serith explains is Drow poison. He hooks them into a loop on his armor. 
+Grygum finds some poisoned hand crossbow bolts and a vial of what Sarith explains is Drow poison. He hooks them into a loop on his armor. 
 
 
 Daz stares mournfully at the armor and mutters, “I will not be wearing armor.” 
@@ -61,7 +61,7 @@ With that, the prisoners decided that escaping now was the best option. So they 
 Although aware of a gray ooze, the creature is invisible until it strikes. And strikes it does, landing a pseudopod with a crushing blow on Thorin. 
 
 
-Above, the demons are fighting amongst themselves and the Drow. On the cavern floor, Grygum takes stock of the options. To the north is Menzoberranzan, a city full of Drow Cultists. Going south to Blingdenston would require going through the pitched battle between Drow and Demons. He sees Topsy and Turvy transform back into gnomes and head down the passage that leads to the Darklake. 
+Above, the demons are fighting amongst themselves and the Drow. On the cavern floor, Grygum takes stock of the options. To the north is Menzoberranzan, a city full of Drow Cultists. Going south to Blingdenstone would require going through the pitched battle between Drow and Demons. He sees Topsy and Turvy transform back into gnomes and head down the passage that leads to the Darklake. 
 
 
 Grygum silently shares his thoughts with his friends and the other prisoners. They all agree, disengage from the ooze, and run towards the tunnel to the Darklake. 
@@ -128,10 +128,10 @@ There is a moment of silence, and then they all agree.
 ## 5th day of the 2nd Tenday of Taraskh 1493
 
 
-The group begins the long march through the darkness after the long rest. The tunnels alternate between pitch-pure darkness or lit with the surreal magic of the *Faerzess (*Fay-YERR-zess).
+The group begins the long march through the darkness after the long rest. The tunnels alternate between pitch-pure darkness or lit with the surreal magic of the *Faerzress (*Fay-YERR-zess).
 
 
-As Grygum marched, he took note of his new friend. When he woke up, Stool, whom they had met as a fellow prisoner in Velkenyvelve, was curled against him. When the orc tried to push him away, the myconid cried. 
+As Grygum marched, he took note of his new friend. When he woke up, Stool, whom they had met as a fellow prisoner in Velkynvelve, was curled against him. When the orc tried to push him away, the myconid cried. 
 
 
 Stool explained that he was lonely, scared, and terrified. He remembered Grygum's inspirational speech yesterday and knew Grygum would bring him home. He knew he wanted to be Grygum’s best friend. 
@@ -182,7 +182,7 @@ When the laughter subsides, Shuushar explains, “*The Tongue of Madness* will c
 Seeing that answering a question is the only danger, and Thorin is not compelled to respond, the rest eat the mushroom and sit silently. They are all unwilling to reveal anything. 
 
 
-Zathir stares at the group, ats the mushroom, and declares a vow of silence. 
+Zalthir stares at the group, ats the mushroom, and declares a vow of silence. 
 
 
 Buppido looks at him, funny. 

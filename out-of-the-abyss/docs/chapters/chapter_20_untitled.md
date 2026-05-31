@@ -1,7 +1,7 @@
 # Chapter 18.2 
 ## 1st day of the 2nd Tenday of Myrtul 1493
 ### Daz
-Daz looks at Flumph, Jimjar, Sarith, Stool, Elbeth, and Spiderbait, armed with Errde’s weapons. “Perhaps they will help us” as they follow him, Zalthir, Grygum, and Thorin, into the Derro slums of Gracklstugh. 
+Daz looks at Flumph, Jimjar, Sarith, Stool, Eldeth, and Spiderbait, armed with Errde’s weapons. “Perhaps they will help us” as they follow him, Zalthir, Grygum, and Thorin, into the Derro slums of Gracklstugh. 
 
 
 As he walks he reflects on the image of the egg that Flumph shared. 
@@ -19,14 +19,14 @@ Grygum stares at him, “What do you mean?”
 “A demon has already possessed the egg. There is no dragon there.” 
 
 
-The cleric of Bhamut is saddened. Daz detects a resolve to hurt the Derro magician. Daz is pleased. 
+The cleric of Bahamut is saddened. Daz detects a resolve to hurt the Derro magician. Daz is pleased. 
 ### Zalthir
 
 
 Zalthir marches the group back through the same path they took last time, going over the lake, and then through the fungi forest. He then follows the path towards the Raucus Mesa. 
 
 
-As he approaches the intersection that leads to the assassin’s lair, two Derror materialise.
+As he approaches the intersection that leads to the assassin’s lair, two Derro materialise.
 
 
 They introduce themselves as Grimgrim and some unpronounceable Derro. The Drow not named Grimgrim explains that he can be called - “Rust.” 
@@ -78,7 +78,7 @@ Thorin looks at him, “What favor?”
 Daz whispers through the telepathy of Stool, “I like the idea of collecting all of the information and then distributing it to all of the power brokers of Gracklstugh simultaneously. We could stab them all in the front simultaneously and flee in the chaos.” 
 
 
-Thorin turns to Rust and Grim, “Hey, we would love to compare notes on the cult of Demogorgonn and see if we can help each other out.” 
+Thorin turns to Rust and Grim, “Hey, we would love to compare notes on the cult of Demogorgon and see if we can help each other out.” 
 
 
 Rust shouts, “Let me confer with my leadership to see if they agree with this plan.”
@@ -89,10 +89,10 @@ Daz
 The Duergar assassin returns and says, “The boss wants to see you.” 
 
 
-Daz overhears Thorin telepathically asking if Flump will join them. Flumph says, ‘I want to observe a tragedy, not be in one. I will stay here.”  
+Daz overhears Thorin telepathically asking if Flumph will join them. Flumph says, ‘I want to observe a tragedy, not be in one. I will stay here.”  
 
 
-Jimjar moves to follow Rust, but Rust turns to him, “Only these four will come, the rest of you,” pointing at Spiderbait, Jimjar, Sarith, Stool and Elbeth, “can wait here.” 
+Jimjar moves to follow Rust, but Rust turns to him, “Only these four will come, the rest of you,” pointing at Spiderbait, Jimjar, Sarith, Stool and Eldeth, “can wait here.” 
 
 
 And so Daz, Thorin, Zalthir, and Grygum enter the chambers of the assassins. Rust marches them into a cave that is 70 feet long and 70 feet wide at its widest point. Inside is a large garden. Standing in the garden is Duergar with an eye patch. 
@@ -210,7 +210,7 @@ Thorin reads it,
 ***time the ink dries on the tip of my quill! Or veins bursting***
 ***black with poison, or lungs filling with water, or faces melting***
 ***in forges… I don’t care how you do it, just do it faster!***
-***THANGUS IRONHEAD!!!!! HOW DARE HE TRY TO***
+***THARGUS IRONHEAD!!!!! HOW DARE HE TRY TO***
 ***ENCROACH ON MY FAMILY’S BUSINESS???? BOIL HIM! BOIL***
 ***HIM IN OIL AND FEED HIM TO ROACHES!***
 ***WERZ SALTBARON THAT SNIVELING SQUEALING***
@@ -244,7 +244,7 @@ Thorin, whose interests in contracts stand in contrast to his focus on brutal st
 Zalthir decides that rather than go through some door that they may not be able to open, it’s safer to try a different route. There is a tunnel entrance that goes past two caves. The caves have  Derro inside. One of the Derro is a member of the Council of Savants. 
 
 
-Thorin turns to Flumph, Jimjar, Sarith, Stool, Elbeth, and Spiderbait and commands them to be quiet. He demonstrates by walking on his tip toes. 
+Thorin turns to Flumph, Jimjar, Sarith, Stool, Eldeth, and Spiderbait and commands them to be quiet. He demonstrates by walking on his tip toes. 
 
 
 He then overhears Zalthir’s sigh. The sound of Thorin tiptoeing could wake the dead. Zalthir proposes a new plan: “I will cover you in Darkness and you will just be quiet.” 

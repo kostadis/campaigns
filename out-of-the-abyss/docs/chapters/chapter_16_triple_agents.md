@@ -3,7 +3,7 @@
 ### Grygum
 
 
-Grygum watches as Erdde Blackskull stands. She has an aura of paranoia fixated on her person, and seems disappointed. 
+Grygum watches as Errde Blackskull stands. She has an aura of paranoia fixated on her person, and seems disappointed. 
 
 
 Armed with the scrolls he found amongst her goods in the armory, Grygum prepares to leave when she says something very odd, “I would appreciate it if you were to look for the empty scabbard killers. My underlings have reported their presence after finding bodies with puzzling wounds.” 
@@ -12,10 +12,10 @@ Armed with the scrolls he found amongst her goods in the armory, Grygum prepares
 Grygum is perplexed. 
 
 
-Erdde, almost as if she doesn’t want to draw too much attention, tries to act utterly nonchalantly, “Oh, just an old wives tale to frighten children. They kill people with their minds.” She pauses, “Of course, this is nonsense. They are just another figment of the people’s imagination. It’s more likely that they don’t exist, and instead, assassinations are being conducted by some agency in the government, and this is a cover.” 
+Errde, almost as if she doesn’t want to draw too much attention, tries to act utterly nonchalantly, “Oh, just an old wives tale to frighten children. They kill people with their minds.” She pauses, “Of course, this is nonsense. They are just another figment of the people’s imagination. It’s more likely that they don’t exist, and instead, assassinations are being conducted by some agency in the government, and this is a cover.” 
 
 
-The dwarf is intrigued and tries to probe some more. But Erdde is unwilling to reveal much. 
+The dwarf is intrigued and tries to probe some more. But Errde is unwilling to reveal much. 
 
 
 “I can’t look for what I don’t know.” 
@@ -284,7 +284,7 @@ Thorin follows Gartokkar outside the cave and asks Daz, “Did we find ourselves
 Daz, who has experience with the twisted, machiavellian politics of the Drow, replies, “The faction thinks we are working for them. Whether we do is up to us.” 
 
 
-Grygum, standing next to Thori,n mutters, “I suppose we are double agents, or is it triple agents? We work for the Stone Guards and the Keepers of the Flame.”
+Grygum, standing next to Thorin,n mutters, “I suppose we are double agents, or is it triple agents? We work for the Stone Guards and the Keepers of the Flame.”
 
 
 Thorin is exasperated and almost shouts, “I am sorry, I can’t deal with these factions. I can’t keep track of who we are working for and which faction we are double-crossing. I want to be my faction.” 
@@ -332,7 +332,7 @@ Gartokkar continues, ignoring the comment, “We have identified an agent of the
 Thorin remembers that this is the same person Errde, Captain of the Stone Guards, is looking for. 
 
 
-Gartokkar says, “As you have already accepted to work for Themberchaud, let me give you this holy symbol of Laduguer and these gold pins featuring Themberchaud’s profile. With them, you can travel within Gracklestugh, but there are limits.”
+Gartokkar says, “As you have already accepted to work for Themberchaud, let me give you this holy symbol of Laduguer and these gold pins featuring Themberchaud’s profile. With them, you can travel within Gracklstugh, but there are limits.”
 
 
 Thorin is annoyed, “What if we say no?” 

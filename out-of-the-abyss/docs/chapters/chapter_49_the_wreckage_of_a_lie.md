@@ -44,7 +44,7 @@ I was threading a needle — the familiar's earlier appearance as the spider, re
 She was quiet for a moment. And then she began building her own frame.
 
 
-"Oh, dear goodness, have you two been infected by the spores, possessed by the crazed magic of Zuggtmoy? Convinced of the bride's power? Is this another trick of Elvara's?"
+"Oh, dear goodness, have you two been infected by the spores, possessed by the crazed magic of Zuggtmoy? Convinced of the bride's power? Is this another trick of Ilvara's?"
 
 
 I want to be precise about what happened in that moment: she had discarded my lie and replaced it with a different explanation that she found more coherent. The divine claim was dead. But Asha Vandree was not walking away. She was doing what intelligent people do when confronted with something that doesn't fit — she was finding a frame that let her keep the useful parts and discard the implausible ones.

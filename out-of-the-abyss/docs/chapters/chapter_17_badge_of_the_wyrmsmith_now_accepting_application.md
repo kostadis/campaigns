@@ -9,7 +9,7 @@
 “Perhaps they can help,” he thinks.
 
 
-From Thermbechaud’s cave to the Cairngorm Cavern, Thorin and his friends must traverse through the city of Duergar, where no one but the Duergar is allowed.
+From Themberchaud’s cave to the Cairngorm Cavern, Thorin and his friends must traverse through the city of Duergar, where no one but the Duergar is allowed.
 
 
 But the badges of the Keepers of the Flame or Stone Guard are enough to stop anyone from asking too many questions. 
@@ -42,7 +42,7 @@ Thorin tries not to roll his eyes. Stone Giants are cryptic in the best of times
 The giant turns to Thorin, trying to show his disapproval to Daz’s impetuousness. “Do you have any questions that I may answer?” 
 
 
-And so Thorin learns from Hgramm that the best way to the Dreamlands is through the city of the Deep gnomes. Thorin is pleased to have Jimjar's claims vetted. He then asks about the tunnels underneath the city. 
+And so Thorin learns from Hgraam that the best way to the Dreamlands is through the city of the Deep gnomes. Thorin is pleased to have Jimjar's claims vetted. He then asks about the tunnels underneath the city. 
 
 
 Hgraam sighs again. 
@@ -51,22 +51,22 @@ Hgraam sighs again.
 “Many have told the Deep King that what goes underneath the city affects what goes on in his city. And what goes on in his city affects what goes on below. And much of what goes on below is evil. The Deep King has tried to keep order and control, and the more he trie,s the more the order escapes and tries to take the city from him.” 
 
 
-Thorim immediately understands what’s going on. The Deep King has relied on his secret invisible police to control the city, and so opposition has gone underneath it. Thorin also understands why they are underneath the city. To get to the tunnels, the Duergar would have to go through the Derro, and that would trigger a bloodbath. 
+Thorin immediately understands what’s going on. The Deep King has relied on his secret invisible police to control the city, and so opposition has gone underneath it. Thorin also understands why they are underneath the city. To get to the tunnels, the Duergar would have to go through the Derro, and that would trigger a bloodbath. 
 
 
 Zalthir turns to Thorin, “The Stone Giant is particularly attuned to the rocks? So what we have seen as localized appearances of demons is not localized. The demons at Valkenvylve, the Beholder in the Spidersilk caves, the demonic manta rays, and Demogorgon, all of this is no coincidence.” 
 
 
-Grygum whispers, “The end of the great sundering ended the era that allowed the gods to walk in Faerun freely. It’s why the Cult of Tiamat had to resort to such an extraordinary ritual to bring her into the prime material plane. That so many demons are walking freely is not normal. There is some kind of powerful magic that has enabled this.” 
+Grygum whispers, “The end of the great sundering ended the era that allowed the gods to walk in Faerûn freely. It’s why the Cult of Tiamat had to resort to such an extraordinary ritual to bring her into the prime material plane. That so many demons are walking freely is not normal. There is some kind of powerful magic that has enabled this.” 
 
 
-Thorin wonders if this has anything to do with the Faerzess, which has affects his sanity. 
+Thorin wonders if this has anything to do with the Faerzress, which has affects his sanity. 
 
 
 “What about the Grey Ghosts?” 
 
 
-Hgramm sighs, “Grey Ghosts? The Deep King creates so many enemies. He used to be so calm. He and I would watch the stones grow. But something has happened to him. He has become paranoid towards old and new friends.” 
+Hgraam sighs, “Grey Ghosts? The Deep King creates so many enemies. He used to be so calm. He and I would watch the stones grow. But something has happened to him. He has become paranoid towards old and new friends.” 
 
 
 Thorin asks, “Is there some new advisor?” 
@@ -101,7 +101,7 @@ He must bring that up when he returns to the surface world.
 
 
 But now he must find Droki. 
-From the Cairngorm Cavern, Laduguerer’s Furrow is just a short distance. Looking around, he notices how this is so spotlessly clean in its style. At either edge of this Furrow is an entrance. And past that entrance, he can see a slum. 
+From the Cairngorm Cavern, Laduguer’s Furrow is just a short distance. Looking around, he notices how this is so spotlessly clean in its style. At either edge of this Furrow is an entrance. And past that entrance, he can see a slum. 
 
 
 Droki, he is told, is to the west. 
@@ -110,7 +110,7 @@ Droki, he is told, is to the west.
 So to the west he goes. 
 
 
-As he walks, he thinks how curious it is that this Derror is a courier for so many factions. But when he gets to the Derro slums, it’s obvious why. The Derro slums are dangerous to anyone. Even from here, it’s evident that the homes of the Derro are mostly burrows carved into the walls and simple structures piled atop one another. The district's dirty and cluttered streets clearly formed as dwellings spread and came together, not as a product of planning. The contrast with the clean, perfect Duergar dwellings is obvious. And the resentment and hatred become apparent. 
+As he walks, he thinks how curious it is that this Derro is a courier for so many factions. But when he gets to the Derro slums, it’s obvious why. The Derro slums are dangerous to anyone. Even from here, it’s evident that the homes of the Derro are mostly burrows carved into the walls and simple structures piled atop one another. The district's dirty and cluttered streets clearly formed as dwellings spread and came together, not as a product of planning. The contrast with the clean, perfect Duergar dwellings is obvious. And the resentment and hatred become apparent. 
 
 And now, why Errde Blackstaff and the Keeper of the Flames were so anxious to find a non-Duergar to come here is clear. 
 
@@ -188,7 +188,7 @@ For a moment, Grygum wonders what to do, and then, realizing that standing in fr
 ### Daz 
 
 
-Daz ponders how the Duergar deal with their slaves and compares it to how the Drow of Menzoberanzan do it. 
+Daz ponders how the Duergar deal with their slaves and compares it to how the Drow of Menzoberranzan do it. 
 
 
 He shakes his head. There is no good way to have slaves. Slaves are always a problem. “Free people are the basis of any society,” he concludes. 
@@ -294,7 +294,7 @@ The ghost is delighted, “Yes! He killed me and cut my body up into the pieces 
 Grygum wonders, “Did something happen?” 
 
 
-“Now that you mention it. I did notice that the Faerzess glowed brightly, and after that, Buppido’s temperament changed. He became convinced he was some kind of divine figure. The derro do go mad, and I assumed it was that. But the Faerzess glow was unmistakable. It was almost as if it was being sucked out, and went dark and then came back brighter than before. No one knows what the Faerzess is. And so I assumed it was something that happens.”
+“Now that you mention it. I did notice that the Faerzress glowed brightly, and after that, Buppido’s temperament changed. He became convinced he was some kind of divine figure. The derro do go mad, and I assumed it was that. But the Faerzress glow was unmistakable. It was almost as if it was being sucked out, and went dark and then came back brighter than before. No one knows what the Faerzress is. And so I assumed it was something that happens.”
 
 
 Grygum gets excited - “When?” 
@@ -303,7 +303,7 @@ Grygum gets excited - “When?”
 “A few months ago. Why? And this is unimportant. What’s important is that you will get my bones to Blingdenstone.”  
 
 
-Grygum looks at Daz, Daz looks at Grygum. Daz wonders out loud, “So the Faerzess is a substance that makes teleportation into a region impossible.” 
+Grygum looks at Daz, Daz looks at Grygum. Daz wonders out loud, “So the Faerzress is a substance that makes teleportation into a region impossible.” 
 
 
 “Yes.” 
@@ -315,7 +315,7 @@ Grygum looks at Daz, Daz looks at Grygum. Daz wonders out loud, “So the Faerze
 Grygum looks at Daz. 
 
 
-The ghost sighs, “That sounds like a ghost story. The Faerzess blinked, and then monsters from the Abyss appeared. Next, you’ll tell me it was part of some mage’s plot involving demonic powers and the world's end.” 
+The ghost sighs, “That sounds like a ghost story. The Faerzress blinked, and then monsters from the Abyss appeared. Next, you’ll tell me it was part of some mage’s plot involving demonic powers and the world's end.” 
 
 
 Grygum coughs, “About your bones?” 
@@ -381,7 +381,7 @@ Pelek sighs, “Yes.”
 Thorin mutters, “This guy wants us to take his bones to Blingdenstone and hasn’t helped us.” 
 
 
-He takes mental notes: "He’s confirmed that something weird has happened in the Underdark, and that it’s connected to the Faerzess. But I knew that. And it’s not like he’s given us any useful information. Time for this to change.” 
+He takes mental notes: "He’s confirmed that something weird has happened in the Underdark, and that it’s connected to the Faerzress. But I knew that. And it’s not like he’s given us any useful information. Time for this to change.” 
 
 
 So Thorin puffs himself up to his full height, walks up to the ghost and shouts, “Now listen here!”
@@ -393,7 +393,7 @@ The ghost laughs. “Overbrighters.”
 Seeing the ghost laugh, Daz tries to scare him, but that scary face works better with his younger siblings than with a murdered ghost. 
 
 
-The ghost sighs, “Look, I don’t want to possess you. It’s awkward. And frankly, I like you. The city of Blingdenstone is your exit. There are many routes to the Overbrite from there. And to help you a little bit, when you get there, make sure to deny any association to Lolth, or Menzoberanzan, and make any references to the number eight or spiders.” 
+The ghost sighs, “Look, I don’t want to possess you. It’s awkward. And frankly, I like you. The city of Blingdenstone is your exit. There are many routes to the Overbrite from there. And to help you a little bit, when you get there, make sure to deny any association to Lolth, or Menzoberranzan, and make any references to the number eight or spiders.” 
 
 
 Thorin looks at him, “How do you avoid the number eight?” 
@@ -462,7 +462,7 @@ Unfortunately, he can’t squeeze through the crack.
 Zalthir stares at the crack. “We are at a dead end.” 
 
 
-Pelek nods, his head flopping off. “I am so sorry.” He puts his head back on. “Yes, Buppido mentioned that there were tunnels that the derro used to go through the whorlestone tunnels. He also talked about these magical mushrooms. It's quite fascinating.” 
+Pelek nods, his head flopping off. “I am so sorry.” He puts his head back on. “Yes, Buppido mentioned that there were tunnels that the derro used to go through the whorlstone tunnels. He also talked about these magical mushrooms. It's quite fascinating.” 
 
 
 Zalthir wonders why a monastic order devoted to silence only taught him how to make people blind, and not how to make them silent. 

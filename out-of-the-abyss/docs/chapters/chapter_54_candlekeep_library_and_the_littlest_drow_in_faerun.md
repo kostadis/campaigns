@@ -1,4 +1,4 @@
-# Chapter 50 Candlekeep Library and the Littlest Drow in Faerun
+# Chapter 50 Candlekeep Library and the Littlest Drow in Faerûn
 
 
 ---
@@ -59,7 +59,7 @@ Eldeth found me a few minutes later, while the others were still adjusting to th
 
 She uses that. Not as mockery — she stopped doing that somewhere in the deep dark, somewhere around the time we stopped having the energy to argue about it and started just surviving together. She says it like it's part of my name now.
 
-"I have to say that here our journey ends. I must go to Mithril Hall. I must inform the dwarves of what is going on in the Underdark. I hope to see you at some point again. If not, it was well met, and thank you for getting me out of the Underdark."
+"I have to say that here our journey ends. I must go to Mithral Hall. I must inform the dwarves of what is going on in the Underdark. I hope to see you at some point again. If not, it was well met, and thank you for getting me out of the Underdark."
 
 I stood with that for a moment. Not processing, exactly. I'd known it was coming. Eldeth had obligations that didn't include us, that were older than us, that had been pulling at her since Velkynvelve. A king to brief. A clan to return to. The surface world's ignorance to correct before demon lords became something a surface king heard about secondhand from a merchant who'd heard it from a deep gnome who'd heard it wrong.
 
@@ -81,9 +81,9 @@ I waited for the "but."
 
 "No," she said. "No, that's where it ends."
 
-And then she made the promise. The whole of it — Mithril Hall, Gauntlgrym, the lords who needed to be told about what was underneath them, the briefing that needed to happen without a giant-raised hill dwarf in the room making everyone curious about the wrong things. She said it and she meant it.
+And then she made the promise. The whole of it — Mithral Hall, Gauntlgrym, the lords who needed to be told about what was underneath them, the briefing that needed to happen without a giant-raised hill dwarf in the room making everyone curious about the wrong things. She said it and she meant it.
 
-"After I have spoken and explained to the lords of Gauntlgrym and Mithril Hall the dangers of the Underdark, I am certain they will want to speak to you, and I will make it a statement of purpose that you shall be embraced by our clan."
+"After I have spoken and explained to the lords of Gauntlgrym and Mithral Hall the dangers of the Underdark, I am certain they will want to speak to you, and I will make it a statement of purpose that you shall be embraced by our clan."
 
 And then: "I swear."
 
@@ -95,7 +95,7 @@ Not the grandest response to a sworn oath. But it was what I had, and it was hon
 
 "Just know," I said, "I do want to learn about my dwarven roots. I want to become an integrated person — both my giant upbringing, but also my cultural roots, so, you know."
 
-She nodded. I could see her doing the calculation — she'd already done it, probably, was the reason she'd looked toward Zalthir a moment earlier with that particular expression. A drow in a hood and a dwarf who'd been raised by hill giants, walking into Mithril Hall to brief the king about demon lords in the deep. I knew what she was thinking. She was right. The story needed to be told before the characters told it.
+She nodded. I could see her doing the calculation — she'd already done it, probably, was the reason she'd looked toward Zalthir a moment earlier with that particular expression. A drow in a hood and a dwarf who'd been raised by hill giants, walking into Mithral Hall to brief the king about demon lords in the deep. I knew what she was thinking. She was right. The story needed to be told before the characters told it.
 
 I was taking this seriously, and I needed her to know that.
 
@@ -121,7 +121,7 @@ Spiderbait absorbed this. Recalibrated. Pivoted.
 
 Grygum endorsed the plan. He endorses most plans that keep small things alive.
 
-I looked back at the tunnel mouth — the last dark edge of where we'd been, the rock framing the light we'd come out into. Eldeth was already gathering herself, the set of her shoulders that meant moving, that meant west to Mithril Hall and the obligations that waited there.
+I looked back at the tunnel mouth — the last dark edge of where we'd been, the rock framing the light we'd come out into. Eldeth was already gathering herself, the set of her shoulders that meant moving, that meant west to Mithral Hall and the obligations that waited there.
 
 Glabbagool was still looking at the sun.
 
@@ -447,7 +447,7 @@ I watched him say it with the mild interest I reserve for things that are techni
 
 ---
 
-Candlekeep required a book. This was not a problem for us. The problem, as Daz identified it, was which book — because we had, after months in the Underdark acquiring things from people who no longer needed them, accumulated more books than most surface libraries see in a decade. The list, when assembled: Princess Ebonmire's spellbook. Ilvara's prayer book with its Zuggtmoy marginalia, those careful notes documenting the corruption timeline she'd watched unfolding and apparently found worth recording. Asha Vandree's theological argument about Lolth and Zuggtmoy as equivalents — the document I'd watched her press into Grygum's hands. The Velkynvelve prisoner journal. Pliinki's journal from the Whirlstone Caverns, the one where a man had written carefully about helping birth a demonic monster and apparently thought this was worth documenting.
+Candlekeep required a book. This was not a problem for us. The problem, as Daz identified it, was which book — because we had, after months in the Underdark acquiring things from people who no longer needed them, accumulated more books than most surface libraries see in a decade. The list, when assembled: Princess Ebonmire's spellbook. Ilvara's prayer book with its Zuggtmoy marginalia, those careful notes documenting the corruption timeline she'd watched unfolding and apparently found worth recording. Asha Vandree's theological argument about Lolth and Zuggtmoy as equivalents — the document I'd watched her press into Grygum's hands. The Velkynvelve prisoner journal. Pliinki's journal from the Whorlstone Caverns, the one where a man had written carefully about helping birth a demonic monster and apparently thought this was worth documenting.
 
 I thought about Asha Vandree, briefly. The way she had looked through me the entire time we were in that room. I had been furniture; I had noticed the quality of her erasure without taking it personally, because it wasn't personal — it was structural, the way the Underdark is cold. You don't take the cold personally. The theological document she'd written would now unlock questions in one of the greatest libraries in the world. She would have hated that.
 

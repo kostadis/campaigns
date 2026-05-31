@@ -38,7 +38,7 @@ My allies seem confused, and I realized that not everybody is aware of The Wande
 Grygum looks at the Myconids and looks at me, and is still confused. So I explain “The Veil’s performances are never the same twice; each show is a living ritual, a communal experience where the lines between audience and artist blur, and even the most hardened adventurer finds themselves dancing beneath a sky painted with arcane light.” 
 
 
-As we stand there, Serith suddenly starts walking towards the Myconids as if compelled. 
+As we stand there, Sarith suddenly starts walking towards the Myconids as if compelled. 
 
 
 He shouts - "The call... the Dark Lady is calling me! Can't you hear her? She sings in the spores, a song of becoming! Of true purpose! I... I must go to them! They know the way to the bloom!"
@@ -132,7 +132,7 @@ This fiend, Zuggtmoy, the Demon Queen of Fungi, the Lady of Rot and Decay, is a 
 Her powers are not born of strength, but of insidious corruption. She seeks ever to infect the living with her spores, transforming them into her mindless servants, destined to become naught but decomposing hosts for the mushrooms, mold, and other fungi that are her abhorrent spawn. This "gift" she offers is a perversion of life itself, a descent into a perpetual state of rot and decay, where the mind is consumed in a twisted, communal dream.
 
 
-Let it be known to all who walk the paths of Bahaumuy: Zuggtmoy’s song is not of liberation but of forced perversion. She seeks to extinguish the freedom of choice that Bahamut cherishes for all creatures. To resist this Demon Queen is to champion life against the encroaching rot and madness. Thus, vigilance is paramount against the creeping influence of the Lady of Rot and Decay
+Let it be known to all who walk the paths of Bahamut: Zuggtmoy’s song is not of liberation but of forced perversion. She seeks to extinguish the freedom of choice that Bahamut cherishes for all creatures. To resist this Demon Queen is to champion life against the encroaching rot and madness. Thus, vigilance is paramount against the creeping influence of the Lady of Rot and Decay
 I explain to my friends that this Dark Lady is, in fact, the Demoness. 
 
 
@@ -142,7 +142,7 @@ Zalthir looks particularly clever to be so far away from these Myconids. But Bah
 I wonder aloud if it’s possible that whatever controls Voosbur can control us, but Daz explains that, as this is a Demonic curse, the method of propagation is not natural but magical. And in most likelihood requires consent or some exchange of bodily fluids. 
 
 
-Zalthir, if he were here, would wonder if visiting the Neverlight Grove would be wise. After all, there is a chance that Zuggtomy is there. 
+Zalthir, if he were here, would wonder if visiting the Neverlight Grove would be wise. After all, there is a chance that Zuggtmoy is there. 
 
 
 Thorin, terrified or reckless, mutters, “You throw a stone here, you hit a demon.” 
@@ -331,7 +331,7 @@ I can feel that mindless infinite eternity, and then just as much as I feel it, 
 
 
 ### Daz
-Grygym and Thorin wake up. And they don’t appear to be covered in some kind of rotting mycelium, so that’s good. 
+Grygum and Thorin wake up. And they don’t appear to be covered in some kind of rotting mycelium, so that’s good. 
 
 
 Voosbur sighs, “I guess you guys didn’t want to join us. You still can if you want. But hurry.” 

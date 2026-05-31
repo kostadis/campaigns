@@ -11,7 +11,7 @@ And they are confused. Yes, there is a reward, but why should they sacrifice the
 Ploopploopeen realizes that the Tongues spell didn’t translate his intent as well as he would like. The escapees think they will be required to fight. 
 
 
-“No, this is wrong. You will arrive in Sloobludop and stay in my quarters. I will send message to the followers of Leemoogoogon that I have an offering for him. In the morning, my daughter, Bloppblippodd, the high priestess of the Deep Father, will demand to see the offering. I will present you to her, and I will insist that I come with you. She will accept. And then all of my followers will attack. Your role in this will be over.” 
+“No, this is wrong. You will arrive in Sloobludop and stay in my quarters. I will send message to the followers of Leemooggoogoon that I have an offering for him. In the morning, my daughter, Bloppblippodd, the high priestess of the Deep Father, will demand to see the offering. I will present you to her, and I will insist that I come with you. She will accept. And then all of my followers will attack. Your role in this will be over.” 
 
 
 Grygum finally understands, “This is like a flag of parley. Have you considered a white flag?” 
@@ -23,7 +23,7 @@ Grygum finally understands, “This is like a flag of parley. Have you considere
 Grygum tries to probe if the sacrifice must be willing. 
 
 
-“I am not certain how your rituals work, but in the rituals of Leemoogoogon, the sacrifice is essential, not the provenance.” 
+“I am not certain how your rituals work, but in the rituals of Leemooggoogoon, the sacrifice is essential, not the provenance.” 
 
 
 Grygum nods, “Yes, our rituals are different.” 
@@ -35,7 +35,7 @@ Thorin probes, “But willing sacrifices are sweeter?”
 “No. An unwilling sacrifice is better. This is an evil god.” 
 
 
-Grygum looks at Plooploopeen and wonders what he has heard. He and his daughter have problems with their relationship, and it’s also unclear if a god named Leemoogoogon even exists. 
+Grygum looks at Ploopploopeen and wonders what he has heard. He and his daughter have problems with their relationship, and it’s also unclear if a god named Leemooggoogoon even exists. 
 
 
 Topsy and Turvy, on the other hand, realize that a free-for-all is an excellent opportunity to steal. 
@@ -98,7 +98,7 @@ After eating, Ploop falls asleep. As is the case with Kuo Toans, he stands up an
 At this point, the escapees notice that many kuo-toans just walk around with their eyes open, sleeping. And that some other kuo-toans are moving about as schools of fish. 
 
 
-At this point, they decide to go check out the altar of Leemoogoogon. They sneak out just close enough to see the idol of Leemooggoogoon the Deep Father. It consists of a large hide cut roughly in the shape of a manta ray and stretched out on cords between two support poles. A dead, splayed-out manta ray is pinned to the center of the hide. Two dead octopuses are draped across the top, their tentacles pinned and artfully arrayed, their heads tied together and painted with red and blue pigments. The idol reeks of decay and the broad stone altar below the idol is stained dark with blood. 
+At this point, they decide to go check out the altar of Leemooggoogoon. They sneak out just close enough to see the idol of Leemooggoogoon the Deep Father. It consists of a large hide cut roughly in the shape of a manta ray and stretched out on cords between two support poles. A dead, splayed-out manta ray is pinned to the center of the hide. Two dead octopuses are draped across the top, their tentacles pinned and artfully arrayed, their heads tied together and painted with red and blue pigments. The idol reeks of decay and the broad stone altar below the idol is stained dark with blood. 
 
 
 Unfortunately, their attempt to be quiet is anything but. And the kuo-toans circling the Deep Father notice. 

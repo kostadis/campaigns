@@ -104,7 +104,7 @@ Zalthir sighed and followed the group to Overlake Hold to talk to Errde.
 In her chambers, Daz encourages the Flumph to trauma dump on her. 
 
 
-The Flump mutters - “I need more trauma. These dumps are no longer as satisfying.” 
+The Flumph mutters - “I need more trauma. These dumps are no longer as satisfying.” 
 
 
 Zalthir raises an eyebrow to Thorin’s response, “Don’t worry, we’ll get you some.” 
@@ -308,7 +308,7 @@ Werz then whispers to him, “There are rumors of the Stone Guards taking bribes
 “They were until a few months ago when the madness of the Deepking took over.” 
 
 
-Grygum takes note of the timing and the blink of the Faerzess but keeps silent. 
+Grygum takes note of the timing and the blink of the Faerzress but keeps silent. 
 
 
 As they are about to leave, Werz warns him, “This city is ready to explode. Provide the wrong faction with the wrong information, and you will have all-out war. Remember, Werz doesn’t care about politics; he only cares about trade. And I only care about gEttin g rid of my assassin's problem.” Grygum gives him a funny look, “And I would like the problem not to be solved with my death.” 
@@ -353,7 +353,7 @@ A little bit later, he’s in the Ghohlbrorn’s Lair, where the rest of the cre
 He explains the deals they have made, and that to get out of Gracklstugh, they will have to go into the Whorlstone Tunnels and find the evidence for at least one of the many different factions. 
 
 
-After he does that, he hands Jimjar a gem. Jimjar whistles, “Now that is something I didn’t expect. These are empty spell gems. There is an alchemist in Bligndenstone who can turn these gems into gems of immense magical power. If you bring these to Kazook Pickshine, he will pay a lot for them.” 
+After he does that, he hands Jimjar a gem. Jimjar whistles, “Now that is something I didn’t expect. These are empty spell gems. There is an alchemist in Blingdenstone who can turn these gems into gems of immense magical power. If you bring these to Kazook Pickshine, he will pay a lot for them.” 
 
 
 ### Zalthir 
@@ -417,10 +417,10 @@ Zalthir sews the tattoos on his body. He thinks that perhaps now he won’t die.
 The following day, Jimjar, Spiderbait, Sarith, and Eldeth walk to the Underlake Hold, where Errde arms them. 
 
 
-From there, the entire group heads to Clan Ironhead and asks to speak with the clan leader. The clan is initially unwilling to talk to them. Still, their badges get them an audience with Thangus Ironhead, who explains that Clan Ironhead approves of the Deepking's policies and agrees that the Deepking's clan needs to be pre-eminent.  
+From there, the entire group heads to Clan Ironhead and asks to speak with the clan leader. The clan is initially unwilling to talk to them. Still, their badges get them an audience with Thargus Ironhead, who explains that Clan Ironhead approves of the Deepking's policies and agrees that the Deepking's clan needs to be pre-eminent.  
 
 
-Zalthir is unconvinced of Thangus Ironhead’s honesty. Daz, who listened to him, scoffs, “He’s lying and trying to survive.” 
+Zalthir is unconvinced of Thargus Ironhead’s honesty. Daz, who listened to him, scoffs, “He’s lying and trying to survive.” 
 
 
 As they leave the Clan stronghold, a female Duergar approaches them. 

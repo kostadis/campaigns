@@ -1,5 +1,5 @@
-# Chapter 12 Demogorgon nee Leemoogoogoon
-## 2nd day of the 3rd tenday of Taraksh
+# Chapter 12 Demogorgon nee Leemooggoogoon
+## 2nd day of the 3rd tenday of Taraskh
 The archpriest of the Sea Mother steps forward across the span of the altar toward the kuo-toa, waiting for him there. “The time has come,” he says, “for us to acknowledge and welcome your divine vision. I have brought these as offerings.” He gestures toward all of you, standing within a circle of guards behind him. “Will you not accept them?” “You are wise, father,” the younger archpriest replies. “I accept your offering in the name of the Deep Father. May their blood nourish and strengthen him!” A burbling cheer rises from the surrounding kuo-toa, their fists raised.
 
 
@@ -17,7 +17,7 @@ The duergar looks at Grygum, surprised yet somehow comforted. His desire to live
 Grygum realizes that this creature doesn’t know the plan and recognizes that this may be an opportunity to take advantage of this poor creature, “There’s more than meets the eye.” 
 The duergar sighs, “Very well. Tell me when to act. And if we get out of here alive, find me in Gracklstugh.” 
 “Your name?” 
-“Hemath.” He spits out blood. “I am an arms dealer and got caught up in this madness. I promised weapons to the Archpriest of the Deep Father, and she said that my sacrifice would be weapon enough.” 
+“Hemeth.” He spits out blood. “I am an arms dealer and got caught up in this madness. I promised weapons to the Archpriest of the Deep Father, and she said that my sacrifice would be weapon enough.” 
 Meanwhile Kuo-toans parade around the altar in a wide circle as they chant. Part of their path sends them splashing and wading through the shallows of the Darklake. 
 
 
@@ -50,7 +50,7 @@ Thorin looks at the guards who surround them, and they are surprised.
 And then he looks around and realizes it’s a free-for-all. Kuo-Toans are attacking other Kuo-Toans. And the sacrifices are now ignored. 
 Grygum examines the situation and decides that fleeing is the better part of valor. He also decides it's time to take a side and will go behind Ploop to heal any of his warriors. 
 Daz notices the cleric running and runs after him. Blopp screams at one of the Kuo Toans to stop the escapees from running. Her second in command advances to block one route of escape. 
-Jimjar, Eldeth, Buppido, Spiderbait, Shuushar, Serith, Topsy, and Turvy take advantage of the confusion of the melee to run towards Grygum. 
+Jimjar, Eldeth, Buppido, Spiderbait, Shuushar, Sarith, Topsy, and Turvy take advantage of the confusion of the melee to run towards Grygum. 
 Jimjar mutters, “We all made it alive.” 
 Grygum looks at him and thinks, “It would be cheating to let one of us die. Would he cheat?” 
 Zalthir, Daz, and Thorin arrive, where all the escapees are huddled. The Kuo Toans engaged in the melee ignore them. 
@@ -83,7 +83,7 @@ The creature emerging from the Darklake stands thirty feet tall, with water casc
 
 
 “Bahamut, save us; that’s Demogorgon,” he shouts. 
-Thorin asks, “Demo-who?” He recalls Shuushar saying that the Kuo-Toans could create gods with the power of their faith, and he knows that the archpriest said Leemoogoogoon, not Demogorgon. 
+Thorin asks, “Demo-who?” He recalls Shuushar saying that the Kuo-Toans could create gods with the power of their faith, and he knows that the archpriest said Leemooggoogoon, not Demogorgon. 
 In many ways, it’s amazing how the brain will convince you that the thing you are seeing is not what you are seeing because the horror of that being in front of you is too terrible. 
 Thorin was experiencing that. 
 

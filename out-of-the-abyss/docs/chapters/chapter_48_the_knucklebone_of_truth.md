@@ -16,7 +16,7 @@ The relative calm shattered when the party emerged into the farming area beyond 
 It was Jimjar who cut through the chaos, as he so often did, with a casual wager. He approached Grygum and offered a bet of ten platinum pieces, claiming that Glabbagool — the party's intelligent gelatinous cube companion — had more sense than the Pudding King ever had. Before anyone could fully process what was happening, Jimjar tossed a small bone die onto Glabbagool. A strange blink rippled through the air, and then something extraordinary happened: Glabbagool briefly became a bridge between every ooze in the cavern, a single vast mind connecting jellies, puddings, and cubes alike. He told them, in his gentle and earnest way, that the world was fine, that everyone could get along, and that there was really no need to kill anyone. The oozes, apparently persuaded, went mindless and peaceful, slithering away into cracks and stonework until the threat simply dissolved.
 
 
-When the party pressed Jimjar on the nature of the die, he explained that he had won it off a blind Duergar in Gracklestugh, who claimed it had been carved from the knucklebone of a saint who never told a lie — a die with a memory for the truth. Jimjar shrugged and said he had figured that in a place where the blink had turned the world's math into a bad joke, a little uncertainty could go a long way. The die rolled out of Glabbagool a moment later, spent and inert, and Jimjar handed it to the party as a keepsake. Grygum paid the ten platinum pieces without complaint, and the party quietly agreed it had been the best investment they had ever made.
+When the party pressed Jimjar on the nature of the die, he explained that he had won it off a blind Duergar in Gracklstugh, who claimed it had been carved from the knucklebone of a saint who never told a lie — a die with a memory for the truth. Jimjar shrugged and said he had figured that in a place where the blink had turned the world's math into a bad joke, a little uncertainty could go a long way. The die rolled out of Glabbagool a moment later, spent and inert, and Jimjar handed it to the party as a keepsake. Grygum paid the ten platinum pieces without complaint, and the party quietly agreed it had been the best investment they had ever made.
 
 
 With the ooze crisis resolved, the Ember Vanguard was ushered into a council meeting where the various factions of Blingdenstone — miners, wererats, ghosts, and spiritual leaders — were already at each other's throats over the future of the city. Daz stepped forward and delivered a passionate appeal for unity, urging the assembled leaders to set aside their egos and build an alliance strong enough to outlast the demons. The party worked the room with careful insight: they brokered a wage agreement between the miners guild and the working class, proposed that the Gold Whisker wererats take control of the upper boroughs as a self-funded defense force, and helped broker a compromise on sustainable mining practices that satisfied both the Miners Guild and the ghosts who considered the sanctum sacred ground. One by one, the arguments quieted, hands were shaken, and a fragile but genuine peace began to take shape.
@@ -85,7 +85,7 @@ It was Jimjar who delivered the final, ominous note before the party departed. H
 - Jimjar tosses a bone die onto Glabbagool, triggering a mysterious 'blink' that causes the oozes to become mindless and peaceful.
 - Glabbagool briefly connects with the entire ooze horde telepathically, telling them to calm down, leading the mass of jellies and puddings to slither away into the stonework.
 - Grygum pays Jimjar the ten platinum pieces from the party funds for successfully neutralizing the threat.
-- Jimjar explains the origin of the bone die, claiming he won it from a blind Duergar in Gracklestugh and that it was carved from a saint's knucklebone.
+- Jimjar explains the origin of the bone die, claiming he won it from a blind Duergar in Gracklstugh and that it was carved from a saint's knucklebone.
 - The party asks Glabbagool about the experience; he describes briefly being part of one big mind with all the oozes before they returned to their mindless states.
 - The party observes the oozes dispersing naturally — gelatinous cubes consuming other oozes, black puddings slipping through cracks, gray oozes going still.
 ### The Council of Blingdenstone
@@ -121,9 +121,9 @@ The leader of Blingdenstone who argued for aggressive economic recovery and mith
 Dorbo's wife and a member of the Gold Whisker clan who advocated for a functional alliance between the gnomes and the wererats, and whose support was noted as helpful to Dorbo's decision-making.
 ### Burrow Warden Jadger
 A spectral leader of the ghosts who observed the party's departure and dipped his spectral banner in salute as they left Blingdenstone.
-### Dazco Pickshine
+### Dasco Pickshine
 A representative of the Miners Guild who initially pushed for immediate strip mining to fund city repairs before agreeing to a sustainable mining compromise.
-### Entemoch
+### Entémoch
 The Prince of Good Elementals, mentioned as feeling favorably toward the party after they assisted the Earth Elemental.
 ## Locations
 ### Throne Room
@@ -144,7 +144,7 @@ A small, luminous rock gifted to the party by the Earth Elemental as a token of 
 ### Diggermattock Miners Patch
 A commemorative patch given to Thorin by Diggermattock as recognition of his work helping with the support beams, signifying his status as an honorary member of the mining crew. It was magically mended onto his gear.
 ### Bone Die
-A 20-sided die carved from the knucklebone of a saint who never told a lie, won by Jimjar from a blind Duergar in Gracklestugh. When tossed onto Glabbagool, it triggered a mysterious 'blink' that pacified the entire ooze army by correcting the 'world's math.' It is now considered spent and was given to a party member as a keepsake.
+A 20-sided die carved from the knucklebone of a saint who never told a lie, won by Jimjar from a blind Duergar in Gracklstugh. When tossed onto Glabbagool, it triggered a mysterious 'blink' that pacified the entire ooze army by correcting the 'world's math.' It is now considered spent and was given to a party member as a keepsake.
 ### Voucher of the Varmint
 A braided rat's foot given to Daz by Chief Chipgrin upon the party's departure. It serves as a mark of friendship recognized by wererats and outcasts throughout the Underdark, from Blingdenstone to Menzoberranzan.
 ## Spells

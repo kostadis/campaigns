@@ -67,7 +67,7 @@ I try not to laugh.
 ### Zalthir 
 
 
-We are once again at the final resting place of Bupido. It’s a grim place, full of dead bones, and an altar to some demonic power or some mad idea. 
+We are once again at the final resting place of Buppido. It’s a grim place, full of dead bones, and an altar to some demonic power or some mad idea. 
 
 
 I look forward to meditating when my thoughts are interrupted. 
@@ -124,7 +124,7 @@ I prepare to say my prayers when the Pelek, who now possesses the body of Derro,
 At first, I am confused and uncertain. More to the point, are we safe with this ghost? 
 
 
-Daz, however, explains that there is no such danger. And that they would all be safer with the ghost tied up. The last time they trusted someone, Bupido killed one of their group. 
+Daz, however, explains that there is no such danger. And that they would all be safer with the ghost tied up. The last time they trusted someone, Buppido killed one of their group. 
 
 
 As we tie Pelek/Derro up, JimJar again offers one of his silly bets. He bets me that my knots won’t hold. 
@@ -145,7 +145,7 @@ As I untie him, Pelek mutters, “I haven’t had a good night's sleep in ages. 
 This is a good time to engage in a deep debate on the nature of the afterlife, but the Ember Vanguard must get ready for battle.  
 
 
-And so we head out from Bupido’s lair and find ourselves once again outside of the cultist cavern. And once again, we have managed to sneak into the room. There is a derro who, by all rights, should see us, but he seems to be preoccupied with a death dog, desperately trying hard not to be noticed. 
+And so we head out from Buppido’s lair and find ourselves once again outside of the cultist cavern. And once again, we have managed to sneak into the room. There is a derro who, by all rights, should see us, but he seems to be preoccupied with a death dog, desperately trying hard not to be noticed. 
 
 
 Thorin points to a statue of another two-headed stone giant. I reassure Thorin that Hgraam will take care of this, and our job is to end this cult. 
