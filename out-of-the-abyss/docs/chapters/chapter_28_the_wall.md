@@ -4,13 +4,13 @@
 
 Daz
 ![image]()
-Grygum and Thoring, after recovering their senses, to the extent that is possible for the dwarf, explained that they saw Zugtomy. And that she had made them an offer, an offer that Thorin refused. 
+Grygum and Thorin, after recovering their senses, to the extent that is possible for the dwarf, explained that they saw Zugtomy. And that she had made them an offer, an offer that Thorin refused. 
 
 
 “Good,” I said. Deals with demons are rarely pleasant. 
 
 
-With Rumpadump and Stool chatting, and the rest of our gang following us, we leave the Whorlestone caves and once again enter the slums of the Derro.
+With Rumpadump and Stool chatting, and the rest of our gang following us, we leave the Whorlstone caves and once again enter the slums of the Derro.
 
 
 The Derro are particularly on edge. If I could express it, it would be a sense of pre-revolutionary violence. 
@@ -37,7 +37,7 @@ A spelling mistake and a grammar mistake, so typical of the Duergar.
 The picture of the Ember Vanguard, most certainly, doesn’t look like us. The drow wizard is an ancient Drow wizard. The golden dragonborne, Zalthir, is now red. As for Thorin, the likeness is flattering. And as for Grygum, they made him far more fierce than he really is.
 
 
-I look past the guard and stare at the wall. The walls are covered in a faint sheen of dust. On the walls, I can hear the sound of armor clanking and see the shadows of visible Dueragar. 
+I look past the guard and stare at the wall. The walls are covered in a faint sheen of dust. On the walls, I can hear the sound of armor clanking and see the shadows of visible Duergar. 
 
 
 This is no mere checkpoint. It’s a gauntlet where power, politics, and peril converge. One wrong step, and we will be trapped between a Duergar assault force, and the Derro looking to wage war on their oppressors. 
@@ -62,7 +62,7 @@ The Duergar has already turned away and mutters, “Grogluk will wish to speak t
 ### Zalthir
 
 
-The Duergar of this city seem to live under the misconception that the color of a dragon’s scales has anything to do with its perspective and morality and choices. Although, to be fair, the only dragons they know are the red dragons of the Keepers of the Flame, and Themberchaude is not doing dragonkind any favors. 
+The Duergar of this city seem to live under the misconception that the color of a dragon’s scales has anything to do with its perspective and morality and choices. Although, to be fair, the only dragons they know are the red dragons of the Keepers of the Flame, and Themberchaud is not doing dragonkind any favors. 
 
 
 I follow him into a passageway that is 10’ wide and 30’ long with 20’ side walls. At the far end of the passageway is a gate, and on the walls are more guards. I wonder how they could have assembled this so quickly, and remember that the Duergar are kin of the Dwarves, and magic can always help make the construction of walls go faster. 
@@ -134,7 +134,7 @@ And then he asks for the bribe, “But I do have some guards, and it would be a 
 I size him up and give him 20 gold. He smiles and shouts to the others here that we are to pass through. 
 
 
-It’s always interesting how the poorest part of a city is next to a wall, and on the other side is the wealthiest. We stand in Ladueger’s Furrow. Here’s where the richest and most powerful of the Duergar live. 
+It’s always interesting how the poorest part of a city is next to a wall, and on the other side is the wealthiest. We stand in Laduguer’s Furrow. Here’s where the richest and most powerful of the Duergar live. 
 
 
 As we stand there, Jimjar asks, “I wager that Thorin will do something embarrassing. Anyone want to take the bet?” 
@@ -151,7 +151,7 @@ Our mood is better, so we decide to visit the giants.
 ### Daz 
 
 
-Gracklstugh is a city of furnaces, bellowing heat, a toxic fog, and haze that blocks out the light. Visibility is constrained as we move about. The comparison with the filth of Gracklstugh and the beauty of Menzoberanzan is jarring. 
+Gracklstugh is a city of furnaces, bellowing heat, a toxic fog, and haze that blocks out the light. Visibility is constrained as we move about. The comparison with the filth of Gracklstugh and the beauty of Menzoberranzan is jarring. 
 
 
 The Drow would not reduce the suffering in this place, but at least it would have clean air. 
@@ -199,7 +199,7 @@ Knowing Stone Giants, it could be a very long time.
 Before we leave, I ask him about a route to the surface world. He scratches his head and says, “I know of no such place. I do not know if such a place even exists. And I would not know what to do with a world that had no stone over my head.” 
 
 
-As we leave Craingorm’s Cavern, Zalthir uses his sphere of darkness to hide the group. We figure that the haze and darkness will allow us to proceed unmolested. 
+As we leave Cairngorm’s Cavern, Zalthir uses his sphere of darkness to hide the group. We figure that the haze and darkness will allow us to proceed unmolested. 
 
 
 And it works out great. And we are soon at Gartokkar’s house. 
@@ -238,7 +238,7 @@ He smiles at me and says, “A deal and a non-disclosure agreement is a deal.”
 I nod my head and say, “I don’t know what kind of deal we made or who we made it with!” 
 
 
-With our business transacted, I start to walk out, but Gartokkar suddenly stops me. “I heard the Deepking’s agents are everywhere, looking for a mercenary band so fierce that the Stone Guards are afraid to face them head-on. They are not mere adventurers, more like shadowy assassins from Menzoberanzan with powerful magic and blades that can rend souls.” He pauses and stares at me, “How did you manage to survive them?” 
+With our business transacted, I start to walk out, but Gartokkar suddenly stops me. “I heard the Deepking’s agents are everywhere, looking for a mercenary band so fierce that the Stone Guards are afraid to face them head-on. They are not mere adventurers, more like shadowy assassins from Menzoberranzan with powerful magic and blades that can rend souls.” He pauses and stares at me, “How did you manage to survive them?” 
 
 
 “We appeared small and insignificant.” 

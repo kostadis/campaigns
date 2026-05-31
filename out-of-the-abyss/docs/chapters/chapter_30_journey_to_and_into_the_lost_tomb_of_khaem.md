@@ -13,19 +13,19 @@ The boat is sunk. My mending skills are in high demand. And if I want to not end
 At first, I thought this adventure was about escape. About finding a way home. But now that we have been wandering through the world, I realize it’s an opportunity to learn and explore. 
 
 
-My whole life, I was a Drow of Menzoberanzaan. Trapped in the formalities of ritual and expectations, trying to avoid the predations of the Cult of Lolth and the machinations of the Noble Houses. 
+My whole life, I was a Drow of Menzoberranzan. Trapped in the formalities of ritual and expectations, trying to avoid the predations of the Cult of Lolth and the machinations of the Noble Houses. 
 
 
 I never saw the Underdark for what it is, a place to explore and learn. And now I know this journey not as an escape to another place, but instead as an escape from a previous worldview. My journey is about discovery, appreciating the diversity of ecosystems, life forms, and civilizations, and learning. 
 
 
-For two days, Eldeth has been hiding our tracks for two days, where all we could see when we could see was the dark passages. Serith insisted he knew where we were going. I was hoping to see new things. 
+For two days, Eldeth has been hiding our tracks for two days, where all we could see when we could see was the dark passages. Sarith insisted he knew where we were going. I was hoping to see new things. 
 
 
-We turned down yet another passageway, and the air grew thick with a familiar, subtle hum, the Faerzess. 
+We turned down yet another passageway, and the air grew thick with a familiar, subtle hum, the Faerzress. 
 
 
-Ahead, there was no longer the rough-hewn stone, but an area suffused with the arcane glowing magic of the Faerzess. Fist-sized chunks of quartz crystals erupted from the wall, shedding a dim ten-foot radiance. 
+Ahead, there was no longer the rough-hewn stone, but an area suffused with the arcane glowing magic of the Faerzress. Fist-sized chunks of quartz crystals erupted from the wall, shedding a dim ten-foot radiance. 
 
 
 Before, this would have been yet another obstacle, another exotic backdrop to our desperate flight to safety, but now I wanted to experience and explore. 
@@ -118,7 +118,7 @@ Then, it happens. A soft, feminine voice, distant yet clear, rings out in my min
 My senses immediately sharpen. This isn't the first time strange voices have echoed in these depths, but this one carries a distinct plea. It’s also unnervingly direct, pinpointing the direction of a tomb entrance. I glance at the others, confirming they've heard it too. "Is that the direction we were going anyway?" I ask, my voice a low rumble, ever the pragmatist, seeking confirmation that this isn't some new diversion. 
 
 
-Serith nods yes, this is the way. Of course, it does. Nothing in the Underdark is ever truly straightforward, yet here, a trapped voice leads us exactly where we intended to go, The Lost Tomb of Khaem.
+Sarith nods yes, this is the way. Of course, it does. Nothing in the Underdark is ever truly straightforward, yet here, a trapped voice leads us exactly where we intended to go, The Lost Tomb of Khaem.
 
 
 We arrive at a large double door. The stone is ancient, hinting at a lost era, a common theme in this alien landscape. Inside, a chill descends, and my eyes adjust to a faded grandeur. A stone diorama stands to the right, depicting a Netherese noble, Brysis of Khaem, surrounded by her retinue, flaunting wealth and power. To the left, a sprawling mural covers the wall, illustrating fantastic floating cities.
@@ -139,7 +139,7 @@ What an absurd conclusion that immediately grates on my own rational mind. How d
 Grygum, thankfully, is more successful. He notes recent damage but no tracks in the thick layer of dust. He then recalls old tales of “floating undead creatures that typically rest in tombs”.
 
 
-Yes, I agree, a "lost tomb" implies something more than just undisturbed dust and cobwebs. It implies guardians, dangers, and perhaps, the very undead Grygum speaks of. I remember Fargus Rumblefoot's warning about a "secret room" or "false tomb" here, adding another layer of treachery to this place. Daz checks an altar, finding nothing of arcane significance, another dead end for now.
+Yes, I agree, a "lost tomb" implies something more than just undisturbed dust and cobwebs. It implies guardians, dangers, and perhaps, the very undead Grygum speaks of. I remember Fargas Rumblefoot's warning about a "secret room" or "false tomb" here, adding another layer of treachery to this place. Daz checks an altar, finding nothing of arcane significance, another dead end for now.
 
 
 There is a passageway south and one going east, so we proceed East. The room we enter contains four stone sarcophagi. Markings of robed human figures in repose adorn their lids. We inspect them, looking for traps, for anything unusual. And then, Grygum points it out: the northeast sarcophagus rests on hidden stone rollers. A possible secret, a hidden passage. This is it.

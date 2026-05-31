@@ -23,7 +23,7 @@ Sethir mutters, “Should we continue?”
 “Yes,” the Shuushar the Awakened says. 
 
 
-An hour from Sloopbludop, another kuo-toan party appears. This time, Shuushar is very excited and starts talking to one of them. 
+An hour from Sloobludop, another kuo-toan party appears. This time, Shuushar is very excited and starts talking to one of them. 
 
 
 Just then, his interlocutor casts a spell, and suddenly, not only is their language clear, but also the nuances of their communication and body language. 

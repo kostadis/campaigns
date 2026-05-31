@@ -46,7 +46,7 @@ Then Spiderbait glares, “I’ll tell you who I think it is - Shuushar. Kuo-toa
 Daz turns to Zalthir, Grygum, and Thorin - “What do we know? Buppido always talks about the divine plan. Sethir seems a bit off. Topsy and Turvy are lycanthropes. Jimjar makes bets all the time. Eldeth is trying to keep it together and make sure we all arrive in one piece. And Shuushar claims to have figured out the cure to Kuo-toan insanity.” 
 
 
-Just then, Shuushar approaches them and says, “ I propose we head to Sloopbludop, where we can meet the arch-cleric of the Seamother, who can cast the zone of truth, and we can learn what happened.”
+Just then, Shuushar approaches them and says, “ I propose we head to Sloobludop, where we can meet the arch-cleric of the Seamother, who can cast the zone of truth, and we can learn what happened.”
 Grygum mutters, “That’s the easy way out. Let’s do it the hard way by applying intelligence, deduction, insight, and perception.” 
 
 

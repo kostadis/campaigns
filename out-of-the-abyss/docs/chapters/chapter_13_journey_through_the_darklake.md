@@ -12,7 +12,7 @@ And Grygum sighs.
 He has always been a bit of a mystery to other folks—an orc cleric of a dragon god. 
 
 
-Those from the more civilized parts of Faerun ascribe it to the strange story of Protanther and the Dwarf and a chess game. 
+Those from the more civilized parts of Faerûn ascribe it to the strange story of Protanther and the Dwarf and a chess game. 
 
 
 The Dwarves and the Dragons had a long history of not seeing eye to eye. And although they found ways to acknowledge each other’s existence begrudgingly, they were not friends. 

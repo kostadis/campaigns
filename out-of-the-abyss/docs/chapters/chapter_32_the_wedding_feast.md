@@ -65,7 +65,7 @@ However, Grygum seems to be nodding.
 “Basidia believes that if we’re all together, everybody knows what’s going on, but does everybody need to? By focusing, we can deliver better mushrooms, higher quality mushrooms, and not get distracted by the concerns of the various groups. And frankly, there are some members of the group who will just talk endlessly about that topic that nobody cares about. For example, I care about this particular fungus, and other members of the circle of farmers care about it. But when we are in the circle, I start talking about it, and my circle cares, but everyone gets bored. And then I am told to be quiet. And I ask, Thorin, when are we supposed to have our internal conversations?” 
 
 
-Grygum and Zalthi nod. 
+Grygum and Zalthir nod. 
 
 
 And then Hepbobe becomes quite animated, “I think Basidia is exaggerating their concerns. And frankly, what is wrong with Phylo’s proposal, and that we’re going to head to a better day? Does it always have to be doom and gloom? What if there is a better day for Myconid Kind?”
@@ -78,13 +78,13 @@ I ponder that.
 Grygum 
 
 
-The organizational disputes of the Sovereings remind me of the preachings of the clerics of Bahamut. Much like we would spend days wondering which exact prayer would get Bahamut’s attention and please him most, they spend their days pondering how best to organize. 
+The organizational disputes of the Sovereign remind me of the preachings of the clerics of Bahamut. Much like we would spend days wondering which exact prayer would get Bahamut’s attention and please him most, they spend their days pondering how best to organize. 
 
 
 To be a mushroom is to be connected. To be a sentient mushroom is to be an individual and connected. And surely there are a thousand different ways to connect. 
 
 
-As we leave the Circle of Growers, Zalthir asks Basidia whether Hepbope’s food supply has the evil spores, and they say no. 
+As we leave the Circle of Growers, Zalthir asks Basidia whether Hebopbe’s food supply has the evil spores, and they say no. 
 
 
 Soon, we arrive at another circle, where a Myconid appears to be dancing. 
@@ -102,7 +102,7 @@ The creature, in a sing-songy voice, as if it is in some kind of ecstasy, and th
 I notice the fields of myconids that have not yet sprouted. Apparently they grow their kind. 
 
 
-As he dances, Thorin and I hear the music. I don’t recognize it. But Thorin does, it’s the same melody that we heard when we saw Zuggtomy in his dream. It has no rhythm, no beauty, it revels in a symphony of chaos and evil. It hurts. 
+As he dances, Thorin and I hear the music. I don’t recognize it. But Thorin does, it’s the same melody that we heard when we saw Zuggtmoy in his dream. It has no rhythm, no beauty, it revels in a symphony of chaos and evil. It hurts. 
 
 
 The creature smiles at us and says, “Have you heard of Gasbide’s plan to send us to the Overbright to share our stories?” 
@@ -147,7 +147,7 @@ And I wonder why he must have known about this wedding. And he does look worried
 And we cross the grove one more time on this tour. And arrive at another of the many myconid circles. 
 
 
-“Rusharoo is a friend of mine and a leader of the Circle of Explorers.” 
+“Rasharoo is a friend of mine and a leader of the Circle of Explorers.” 
 
 
 The Myconid enters Basidia’s cloud of spores and starts talking. I notice that there is some nervous energy, a hastiness about them. There is something different. His voice is frantic and full of speed. 
@@ -159,7 +159,7 @@ The Myconid enters Basidia’s cloud of spores and starts talking. I notice that
 “And what have you seen lately?” 
 
 
-“I have noticed, as has Basilia, that the Grove is not well. Every time I come back, it changes, and its changes are not for the best.” 
+“I have noticed, as has Basidia, that the Grove is not well. Every time I come back, it changes, and its changes are not for the best.” 
 
 
 There is a pause. 
@@ -174,22 +174,22 @@ He looks at Basidia as if pleading with them to leave now.
 “I have felt that the right way for a Myconid to live is traveling, instead of sticking in one place. The myconid is a nomad.” 
 
 
-I am surprised and ask, “Ignoring Philo, are you saying that the natural state of a Myconid is nomadic? And that the Sovereigns agree?” 
+I am surprised and ask, “Ignoring Phylo, are you saying that the natural state of a Myconid is nomadic? And that the Sovereigns agree?” 
 
 
-Basidia, if they could roll their eyes, would. “No, Rusharoo is one of our kind who is always exploring. That is why they are exploring. Myconids stay in one place and cultivate their gardens.” 
+Basidia, if they could roll their eyes, would. “No, Rasharoo is one of our kind who is always exploring. That is why they are exploring. Myconids stay in one place and cultivate their gardens.” 
 
 
 “And what about the plans to visit the Overbrite?” 
 
 
-Rusharoo is disgusted, “That would be a terrible idea. Myconids thrive in the dark. Why would we go into the light of the Overbrite? There is so much more for us to explore in the Underdark. So many tunnels and caves. I think the caves and tunnels are really another Myconid that connects everything. And that we are messages for that myconid.” 
+Rasharoo is disgusted, “That would be a terrible idea. Myconids thrive in the dark. Why would we go into the light of the Overbrite? There is so much more for us to explore in the Underdark. So many tunnels and caves. I think the caves and tunnels are really another Myconid that connects everything. And that we are messages for that myconid.” 
 
 
-Basidia sighs and then whispers to Rusharoo.
+Basidia sighs and then whispers to Rasharoo.
 
 
-Rusharoo leans in, “If you wish, I could send you into the Circle of Welcome through a secret passageway.” 
+Rasharoo leans in, “If you wish, I could send you into the Circle of Welcome through a secret passageway.” 
 ### Daz
 
 
@@ -218,7 +218,7 @@ I stifle a laugh.
 The female Drow coughs, “No, to capture you. Ilvara wanted to kill you herself. I was given orders to capture you. I came here, thinking you would seek refuge amongst the Myconids. But I made the mistake of accepting Phylo’s invitation to see the Circle of Welcome. My squad and I become victims of the madness.”
 
 
-And then she notices me, perhaps for the first time, and takes the haughty tone of a female Drow follower of Lolth towards any male, “You are from Menzoberanzaan. You must warn the other Drow of the presence of the Demon Queen of the Fungi in the Underdark.” 
+And then she notices me, perhaps for the first time, and takes the haughty tone of a female Drow follower of Lolth towards any male, “You are from Menzoberranzan. You must warn the other Drow of the presence of the Demon Queen of the Fungi in the Underdark.” 
 
 
 The Demon Queen and Demogorgon are here, in the Prime Material Plane and in the Underdark. 
@@ -333,7 +333,7 @@ Up ahead, we see a path that leads to the giant mushroom, and I think, why not?
 Echoes spill from the misty cavern beyond, a cacophony of wheezing voices that wrap together like some kind of discordant music. The remaining heads planted in the Garden of Welcome begin to croak and groan, joining the horrible song.
 
 
-Through the mist that shrouds the smaller cavern, I see the parade of creatures responsible for the melody. Their bodies are only vaguely humanoid, with clusters of luminescent lichen and tumescent growths forming chaotic patterns on their decaying flesh, their voices stabbing into my mind, both insane and gleeful in equal parts. I have heard this melody. Thorin confirms that it is similar to the music of the dancing myconid and the music we heard with Zuggtomy. 
+Through the mist that shrouds the smaller cavern, I see the parade of creatures responsible for the melody. Their bodies are only vaguely humanoid, with clusters of luminescent lichen and tumescent growths forming chaotic patterns on their decaying flesh, their voices stabbing into my mind, both insane and gleeful in equal parts. I have heard this melody. Thorin confirms that it is similar to the music of the dancing myconid and the music we heard with Zuggtmoy. 
 
 
 From rocky bed the toadstool rose,

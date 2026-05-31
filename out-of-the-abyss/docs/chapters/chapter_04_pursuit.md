@@ -16,7 +16,7 @@ And Buppido shouts, “The divine plan said you would rescue me, Sarith!”
 In the darkness, something shifts, legs clicking. Zalthir sees the bulbous shape of a massive, ghastly insect leaving behind a meal of exhumed remains. The thing clicks its mandibles, feather-like feelers probing the darkness for its next meal. It screeches, and the smell of rot and loam overwhelms him. Before the centipede-like creature wraps its entire, staggering length around him, he breathes fire and runs behind Thorin and Grygum. 
 
 
-So, the creature wraps its tentacle around Grygyum, knocking him out. 
+So, the creature wraps its tentacle around Grygum, knocking him out. 
 
 
 Sarith, Buppido, Topsy, Turvy, and Sarith shoot the creature with hand-held crossbows. The bolts land on the beast, which, in its attempt to avoid gEttin g hurt, exposes its soft, fleshy parts to more bolts. 
@@ -34,7 +34,7 @@ Thorin shouts to the twins, “Save Eldeth and Jimjar.”
 Buppido and Sarith kill the creature with their bolts. And then Sarith shouts, “Rations!” 
 
 
-Zalthir wakes up Daz and Grygyum. When Daz hears about Thorin’s decision, he mutters, “Good decision. Maybe, just maybe, our traveling companions will see our actions and choose to help.” 
+Zalthir wakes up Daz and Grygum. When Daz hears about Thorin’s decision, he mutters, “Good decision. Maybe, just maybe, our traveling companions will see our actions and choose to help.” 
 
 
 An hour later,  Daz tells Zalthir, “Did you notice that?” 
@@ -97,10 +97,10 @@ And so they run. As they run, Jim Jar mutters, “I was going to make a bet that
 ### 6th day of the 2nd Tenday of Taraskh 1493
 
 
-As they run through the Underdark, they rush through a cave with plenty of *Faerzess*. Suushar seems uncomfortable as they run through the odd glowing substance. As they run out, Suushar mutters, “That was odd. It was the first time I had felt so strange. The *Faerzess* was just a light, but now it seems to be a poison.” 
+As they run through the Underdark, they rush through a cave with plenty of *Faerzress*. Shuushar seems uncomfortable as they run through the odd glowing substance. As they run out, Shuushar mutters, “That was odd. It was the first time I had felt so strange. The *Faerzress* was just a light, but now it seems to be a poison.” 
 
 
-Jim Jar mutters, “That’s what happens with Kuo-Toans, who think they aren’t mad. They are insane, but their madness seems reasonable. The *Faerzess* has never affected a living thing. Its only magical power is to prevent teleportation spells.”
+Jim Jar mutters, “That’s what happens with Kuo-Toans, who think they aren’t mad. They are insane, but their madness seems reasonable. The *Faerzress* has never affected a living thing. Its only magical power is to prevent teleportation spells.”
 
 
 Sathir mutters about the need to find a path through the cave to the next tunnel and is about to give up when Grygum shouts, “Is this what you are looking for?”

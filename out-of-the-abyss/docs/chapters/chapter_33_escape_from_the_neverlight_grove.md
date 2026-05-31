@@ -8,19 +8,19 @@ The procession is clearly a wedding procession, but not of the wedding itself. T
 One thing strikes me as odd: the absence of a groom, and the reference to Araumycos as the groom. 
 
 
-I turn to my companions, and we talk in hushed tones. What we infer is that Araumycos is the name of a massive sentient fungal growth in the Underdark. From the stories we know, it is the natural habitat of the Myconids. Zuggtomy intends to marry them. 
+I turn to my companions, and we talk in hushed tones. What we infer is that Araumycos is the name of a massive sentient fungal growth in the Underdark. From the stories we know, it is the natural habitat of the Myconids. Zuggtmoy intends to marry them. 
 
 
 The fear in my stomach is real. The Queen of Fungi is the Queen of decay and death. Her union with Araumycos will give her untold power over the world. 
 
 
-But what can we do? Zuggtomy is too powerful, and we are too weak. And so we watch to see what more we can learn. 
+But what can we do? Zuggtmoy is too powerful, and we are too weak. And so we watch to see what more we can learn. 
 
 
 Daz turns to me, “Unless we have access to some explosives, or some incredibly insane, clever plans, I don’t think we can do anything.”
 
 
-I turn to him, “All I feel is fear. First, we see Demogorgon. Now we see Zuggtomy. And the denizens of the Underdark have been driven mad and can’t seem to defend themselves.” 
+I turn to him, “All I feel is fear. First, we see Demogorgon. Now we see Zuggtmoy. And the denizens of the Underdark have been driven mad and can’t seem to defend themselves.” 
 
 
 Zalthir, not one to engage in hyperbole, asks, “What can we do here? We are not powerful enough to fight a demon lord. I don’t know what we can do other than maybe getting Rump-a-dump and Stool out of here.”
@@ -38,7 +38,7 @@ I pause, he’s right. I turn to my friends, “We need to get out of the Underd
 The rest of the group nods. 
 
 
-And so we hide to avoid being seen, and the procession continues to where we fought the Yestarbrod. 
+And so we hide to avoid being seen, and the procession continues to where we fought the Yestabrod. 
 
 
 From our vantage point, the horrific scene plays out. 
@@ -68,7 +68,7 @@ So we follow the procession into the cavern to the east.  Yestabrod’s Garden o
 I have no clear reference to judge the towering mushroom’s size at this distance. Thousands of smaller fungi cling to the central stalk, which itself splits into several lesser stalks, each long enough with a cap big enough to be the top of a great tower. A carpet of fungi covers the cavern floor surrounding the stalk. An eerie luminescence pours through slitted windows carved into the trunk, with the same cacophony of atonal music heard earlier echoing within. A stench of rot and decay wraps around me, seemingly threatening to penetrate my flesh and pervade my soul.
 
 
-It is both alien and familiar. And I remember when we felt this way, near Zuggtomy in our dream. 
+It is both alien and familiar. And I remember when we felt this way, near Zuggtmoy in our dream. 
 
 
 Just then, Daz starts screaming. 
@@ -110,7 +110,7 @@ I turn to Pelek, the ghost, and ask if he knows anything about this, and he says
 And then Pelek turns to me and his eyes gleam, “Aren’t you a cleric?” 
 
 
-Dawnbring shouts, “I can cast lesser restoration!” 
+Dawnbringer shouts, “I can cast lesser restoration!” 
 
 
 And before I can say anything, a wave of magic covers Zalthir. 
@@ -127,7 +127,7 @@ Zalthir was so worried about losing his mind, and I wasn’t. And here he lost h
 Thorin
 
 
-We quickly march back to Rusharoo and Basidia. We tell them everything. And they are horrified. Basidia insists on going to confront Phyllo now. Rusharoo urges caution, but when they sees their Sovereign go into danger, Rushroo follows. 
+We quickly march back to Rasharoo and Basidia. We tell them everything. And they are horrified. Basidia insists on going to confront Phylo now. Rasharoo urges caution, but when they sees their Sovereign go into danger, Rasharoo follows. 
 
 
 I look at my friends and ask, “What do we do? We can’t leave Rump-a-dump and Stool in the clutches of this madness. They are our friends.” 
@@ -142,10 +142,10 @@ But he still worries about infections and worries that Stool and Rump-a-dump mig
 “Maybe we can do that restoration thing?” I wonder out loud. 
 
 
-Zalthir turns to me, “Phyllo thinks we are going to be killed tomorrow. So if we show up and act cool, we can do this as if nothing has happened, maybe we can sneak out.” 
+Zalthir turns to me, “Phylo thinks we are going to be killed tomorrow. So if we show up and act cool, we can do this as if nothing has happened, maybe we can sneak out.” 
 
 
-So we run after Rusharoo and Basidia. A few moments later, we are in the Inner Circle, and there is Phyllo. He sees us and Basidia and asks, “My fellow Sovereign, did they enjoy seeing the circle? What do they think of the changes?” 
+So we run after Rasharoo and Basidia. A few moments later, we are in the Inner Circle, and there is Phylo. He sees us and Basidia and asks, “My fellow Sovereign, did they enjoy seeing the circle? What do they think of the changes?” 
 
 
 Daz tries to be nonchalant and says, “They seem to be causing problems for some people.”
@@ -175,7 +175,7 @@ I try to persuade Basidia that the time to fight has passed, and now it is the t
 Grygum turns to Rump-a-dump and Stool and manages to convince them. Our time together, and what they have seen, makes them realize that this place isn’t safe anymore. 
 
 
-Rusharoo shouts into my brain, “If you want to live, come with me.” 
+Rasharoo shouts into my brain, “If you want to live, come with me.” 
 I remember that he had an escape hatch, and so we ran away from the Inner Circle. 
 ### Zalthir
 Leaving Basidia is unacceptable. They tried to save us. And I owe them that much. They won’t listen to reason, but if there is one thing I can do, it is drag people. 
@@ -190,13 +190,13 @@ As we move away, Phylo doesn’t try to attack us. Instead, they plead, “Basid
 And if a Myconid could sob, Basidia would be crying. 
 
 
-Limp in my arms, I drag them to the safety of the Circle of Explorers, where their allies are. Rusharoo, Loobamub, and the circle of hunters and explorers have gathered near one of the exit holes that Rusharoo had identified. I can tell they are in a deep mind meld. 
+Limp in my arms, I drag them to the safety of the Circle of Explorers, where their allies are. Rasharoo, Loobamub, and the circle of hunters and explorers have gathered near one of the exit holes that Rasharoo had identified. I can tell they are in a deep mind meld. 
 
 
 As we leave the Neverlight Grove and its madness, Basidia turns to us and hands some potions of greater healing and what little treasure the Mykonids had accumulated over the years from passersby.  
 
 
-As we head into the Underdark, Rusharoo tells us that he can provide us with a guide for half the distance to Blingdenstone, but after that, we are on our own.
+As we head into the Underdark, Rasharoo tells us that he can provide us with a guide for half the distance to Blingdenstone, but after that, we are on our own.
 
 
 Jimjar insists he knows where he is going, “I’ll bet you I can get you there!” 
@@ -215,13 +215,13 @@ And once again into the dark. My friends wonder why Ilvara would still be pursui
 As Grygum puts it, “Shouldn’t she give up?” 
 
 
-I smile. Ilvara promised that we would arrive in Menzoberanzaan. Who knows what money exchanged hands? And then to make matters worse, the outpost of Velkynvelve was destroyed. She needs to find us, lest she become a Drider. She won’t rest until we are either found or she is dead. 
+I smile. Ilvara promised that we would arrive in Menzoberranzan. Who knows what money exchanged hands? And then to make matters worse, the outpost of Velkynvelve was destroyed. She needs to find us, lest she become a Drider. She won’t rest until we are either found or she is dead. 
 
 
 Zalthir tries to ask about the insanity of it all, and I look at him; he stares back,, and we remember that insanity seems to be a disease affecting everyone these days. 
 
 
-Today, Rusharoo bids us farewell. 
+Today, Rasharoo bids us farewell. 
 
 
 Before all the Mykonids depart, Rump-a-dump approaches Zalthir. They look at them and say that they have a list of ways in which they could improve. Before Zalthir can tell them that he is not interested in any of them, Rump-a-dump enumerates fifty or so specific things Zalthir could do to be better. Things like - “Listen to Stool, he knows what he is doing. Don’t assume you know everything; other people’s points of view are important. Or my favorite, - Eat more Zurkhwood, it's good for your digestion.” 

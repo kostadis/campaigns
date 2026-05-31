@@ -2,7 +2,7 @@
 ### Grygum
 
 
-Here I am, Gyrgum, half-orc cleric of Bahamut, and Gracklestugh is what makes an orc camp look pretty. 
+Here I am, Gyrgum, half-orc cleric of Bahamut, and Gracklstugh is what makes an orc camp look pretty. 
 
 
 Any escape will require some "clever and insane scheme" to get through the barred gates of Laduguer's Furrow. 
@@ -14,7 +14,7 @@ And when you think about it, I seem to keep having to escape from some prison, w
 The dead grey ghosts litter the street, and we start wondering how we will find a way into the Darklake District. We have passes, but Eldeth will demand to see what we found. And if we share with her what we found, that will trigger violence. 
 
 
-Suddenly, a massive shadow falls over us. My eyes, accustomed to the gloom of the Underdark, pick out a dragon, a young red dragon, flying above. By Bahamut, he looks on the chubby side. It's Themberchaud, the Wyrmsmith of Gracklestug, and he's dive-bombing right for us! My first, most practical thought is that "we're not a match for a dragon". I quickly suggest we try to "talk to him" while positioned "Near something I can duck into". 
+Suddenly, a massive shadow falls over us. My eyes, accustomed to the gloom of the Underdark, pick out a dragon, a young red dragon, flying above. By Bahamut, he looks on the chubby side. It's Themberchaud, the Wyrmsmith of Gracklstugh, and he's dive-bombing right for us! My first, most practical thought is that "we're not a match for a dragon". I quickly suggest we try to "talk to him" while positioned "Near something I can duck into". 
 
 
 A parley is always better than a fight against impossible odds.
@@ -74,7 +74,7 @@ I am relieved. I do not want to have a dragon destroy a city while I am on its b
 After conferring, we agree that the right place to go is the docks. 
 
 
-Themberchaude is unimpressed - and roars -  “My agents have more pressing matters than to loiter among the common rabble and petty traitors of the Dark Lake.”
+Themberchaud is unimpressed - and roars -  “My agents have more pressing matters than to loiter among the common rabble and petty traitors of the Dark Lake.”
 
 
 Grygum tries to persuade him but fails. I begin to worry. 
@@ -215,7 +215,7 @@ But the other truth is that we didn’t betray the city of Gracklstugh. The secr
 I find it comforting to know that. 
 
 
-As we leave Grackstugh, we debate where to go next. 
+As we leave Gracklstugh, we debate where to go next. 
 
 
 Rump-a-dump and Stool want to go to the Neverlight Grove. I explain that there is a very dangerous and mighty demon there, and that we might not want to go there at all. 
@@ -227,7 +227,7 @@ Rump-a-dump looks at me, or at least I think he does, “Zalthir, the circle can
 I want to explain to him how wrong he is, but then I remember he is a child. 
 
 
-Serith insists that we must go there as well. The strange compulsion that drew him to the dancing Myconids in the Whorelstone Caverns draws him to the grove. 
+Sarith insists that we must go there as well. The strange compulsion that drew him to the dancing Myconids in the Whorlstone Caverns draws him to the grove. 
 
 
 Thorin, having avoided one gift from a demon, seems to want to go again. I shake my head, “You had your chance, don’t you think we shouldn’t try again?”
@@ -269,7 +269,7 @@ I like giants, but not giant mosquitoes.
 ## 7th day of the 2nd tenday of Myrtul 1493
 
 
-On the fourth day, Serith announces that we must get out on a beach and head deeper into the Underdark on foot. 
+On the fourth day, Sarith announces that we must get out on a beach and head deeper into the Underdark on foot. 
 
 
 He explains, “The path to the Neverlight Grove goes past the Lost Tomb of Khaem. But we must leave the boat here.” 

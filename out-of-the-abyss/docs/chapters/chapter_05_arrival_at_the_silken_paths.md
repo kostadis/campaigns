@@ -124,10 +124,10 @@ As the group settles into sleep, Daz notices Topsy and Turvy talking to each oth
 Sarith rouses everyone in the morning, “We must continue.” 
 
 
-And so they do, deeper into the Underdark, hopefully heading to Sloopbludop. 
+And so they do, deeper into the Underdark, hopefully heading to Sloobludop. 
 
 
-After an hour of marching, Torin finds a pool of water. Daz immediately starts creating blocks of water for the group. When all the blocks are made, there is no more water. 
+After an hour of marching, Thorin finds a pool of water. Daz immediately starts creating blocks of water for the group. When all the blocks are made, there is no more water. 
 
 
 A little bit later, Grygum finds some more Trillimac. Jimjar, a botanist, explains it is a mushroom that grows to a height of four to five feet and has a broad gray-green cap and a light gray stalk. The cap’s leathery surface can be cut and cleaned for use in making maps, hats, and scrolls (its surface takes on dyes and inks well). The stalk can be cleaned, soaked in water for an hour, then dried to make a palatable food akin to bread. 
@@ -301,7 +301,7 @@ Buppido mutters, “I am not sure the divine plan had anything about relying on 
 For once, Zalthir agrees. 
 
 
-Sathir, seeing that the deal has been made, tells the two goblins where to guide them, “Take us to a passageway that will get us quickly to Sloopbludop.”
+Sathir, seeing that the deal has been made, tells the two goblins where to guide them, “Take us to a passageway that will get us quickly to Sloobludop.”
 
 
 The two goblins start the hike through the maze of webs. As they walk, they explain that fire can burn through the web, but when it does, anyone within 30 feet of the burning point will likely fall to their death. 
@@ -346,7 +346,7 @@ Grygum turns to him and smiles, “And we love you for it.”
 Grygum smiles at Stool and says, “Yes, I will. Now let’s go together.” 
 
 
-So Stool and Grgygum advance on the cocoon, and then they hear the voice of a still living halfling in their heads. “I am Fargas Rumblefoot.” The voice turns demanding, “Can you please get me out of here?” 
+So Stool and Grygum advance on the cocoon, and then they hear the voice of a still living halfling in their heads. “I am Fargas Rumblefoot.” The voice turns demanding, “Can you please get me out of here?” 
 
 
 Grygum is about to cut through the cocoon when Thorin says, “Perhaps we should have him tell us who he is?” 
@@ -359,7 +359,7 @@ Grygum stops, “He can't be evil with a name like that. But you’re right.”
 “A gnoll?” 
 
 
-“Yes, gnolls. Feral hyena-headed humanoids attack without warning, slaughtering their victims and devouring their flesh. It is said that spawns are put into a hyena, and when the spawn is born, it rips out of the hyena's body. It is also said that hyenas are one of many species that can be used to store the spawn of gnolls. It is also said that they were created when the demon lord Yeenoghu found his way onto Faerun and ran amok.” 
+“Yes, gnolls. Feral hyena-headed humanoids attack without warning, slaughtering their victims and devouring their flesh. It is said that spawns are put into a hyena, and when the spawn is born, it rips out of the hyena's body. It is also said that hyenas are one of many species that can be used to store the spawn of gnolls. It is also said that they were created when the demon lord Yeenoghu found his way onto Faerûn and ran amok.” 
 
 
 Thorin turns to his allies, “I wonder if he’s already been infected? Like, do we free him, and we get a gnoll?” 

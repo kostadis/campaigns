@@ -29,7 +29,7 @@ I nod and think, “A silent glove would have been better.”
 But enough of that, time to attack. And I focus my mind and strike the wraith with my hands. The creature is in shock. 
 
 
-And then I hear the belching sound that Grygyum makes just before acid spews from his mouth, I move out of the way, and watch as the Wraith is covered in the slime.  
+And then I hear the belching sound that Grygum makes just before acid spews from his mouth, I move out of the way, and watch as the Wraith is covered in the slime.  
 Thorin, whose choices are always interesting, decides to drop his sword and pick up the magical hilt. The sword rejoices, and then, where there is no blade, a shimmering blade of light appears. 
 
 
@@ -50,7 +50,7 @@ Killed by barf. What an odd way to go.
 The sword introduces itself as Dawnbringer. A powerful sunblade that can read and write, and can cast lesser restoration. 
 
 
-Grygyum is surprised it can read and write. The orc is confused that the creature can read without eyes. 
+Grygum is surprised it can read and write. The orc is confused that the creature can read without eyes. 
 
 
 I roll my eyes. He has never seen the eldritch horrors that exist here in the realms.
@@ -81,7 +81,7 @@ After millennia, the sword refused to extinguish its light. And Thorin, who is t
 As for our pursuers, Eldeth told us this morning that she believed we had lost them. They were no longer on our trail. 
 
 
-Grygm chortled, “I guess they didn't like the tomb.” 
+Grygum chortled, “I guess they didn't like the tomb.” 
 
 
 Today,d we arrive at Neverlight Grove. 
@@ -168,7 +168,7 @@ We owe Stool that much.
 The other sovereign introduces itself as Basidia and says to Phylo, “I can take them on the tour of the gardens, co-sovereign.” 
 
 
-I stare at them, dumbfounded. In Menzoberanzan, there were tales of two rulers who shared power. We used the term, ‘two in a box’ to describe this power sharing. It wasn’t power sharing; it demonstrated a lack of will on the part of someone. Some other ruler could not choose who to kill and who to promote. So they would make the two drow co-rulers. And before long, one or both would be dead. The box from our saying was a metaphor for a tomb. 
+I stare at them, dumbfounded. In Menzoberranzan, there were tales of two rulers who shared power. We used the term, ‘two in a box’ to describe this power sharing. It wasn’t power sharing; it demonstrated a lack of will on the part of someone. Some other ruler could not choose who to kill and who to promote. So they would make the two drow co-rulers. And before long, one or both would be dead. The box from our saying was a metaphor for a tomb. 
 
 
 My thoughts are interrupted by Phylo, who says, “ You are my sovereign and co-equal in all things. And I shall stay here for tomorrow, I shall take them to the great circle of the Masters.” 
@@ -258,7 +258,7 @@ And soon enough,we arrive at one of the mounds. And there is a myconid who seems
 Basidia tells us that this is one of her followers, “Loobamub. “ 
 
 
-Loobamub listens to Basidi, and then he turns to me and asks if we could help him deal with a grick. As he explains, Phylo insists that all dead creatures must be brought to the Circle of Masters. 
+Loobamub listens to Basidia, and then he turns to me and asks if we could help him deal with a grick. As he explains, Phylo insists that all dead creatures must be brought to the Circle of Masters. 
 
 
 “To eat?” 
@@ -273,7 +273,7 @@ And then it hits me, “Why are you sending us to hunt? Aren’t you hunters?”
 The walking mushroom looks at me and says, “We bring back the dead. We do not kill.” 
 
 
-I think to myself of the reanimated creatures I saw in the Whorelstone Caves and shudder. “Well I suppose it couldn’t hurt.” 
+I think to myself of the reanimated creatures I saw in the Whorlstone Caves and shudder. “Well I suppose it couldn’t hurt.” 
 
 
 Grygum looks uncomfortable, I turn to him and say - “What, you don't want a zombie grick joining our team? That sounds so fun.” 
@@ -298,7 +298,7 @@ We could proceed with the blunt approach favored by overbrighters and Duergar al
 I tell The Ember Vanguard that I have a plan to neutralize the creature’s ability to hide. I explain that I visualize the terrain as a precise grid, and intend to freeze five-foot cube sections of the moss and water using Shape Water. “If a square refuses to freeze, we have found the creature.” 
 
 
-They look at me funny, and I explain that when I was a child, there was a game we played called K’tharr-li. Each player would be a noble house. And each player had a set of pieces that the other player had to destroy. As this was Menzoberanzan, if neither player had won by some pre-agreed time, both players lost. 
+They look at me funny, and I explain that when I was a child, there was a game we played called K’tharr-li. Each player would be a noble house. And each player had a set of pieces that the other player had to destroy. As this was Menzoberranzan, if neither player had won by some pre-agreed time, both players lost. 
 
 
 Much like K’tharr-li, we only have so much time. And unlike K’tharr-li, losing can be deadly. 
@@ -311,7 +311,7 @@ Daz is using the kinds of tactics the Drow are famous for.  He is casting Shape 
 And he succeeds. The Grik hisses. 
 
 
-Zalthri immediately covers the Grick in magical Darkness. Brilliant. 
+Zalthir immediately covers the Grick in magical Darkness. Brilliant. 
 
 
 Daz incinerates the area with a Fireball. The Grik is naturally resistant to fire, but the blast hurts. 
@@ -395,7 +395,7 @@ I sense Grygum is worried. I don't know what.
 
 
 We arrive at the Northern Terraces of the Neverlight Grove. The terraces lining the northern walls are suffused with faerzress, and I notice that this place is filled with vegetation. As I draw closer, I see water trickling from the walls of this vast cavern being channeled into a crude yet effective terraced irrigation system. A thick, sweet smell fills the air from the thousands of fungi of all colors and sizes, many glowing with a strange, inviting light.
-As we arrive, a new Myconid, Gasbide, approaches us immediately. He is a 'Builder' and, according to Basidi, a "supporter of Sovereign Philo.” He scrutinizes us with undisguised curiosity.
+As we arrive, a new Myconid, Gasbide, approaches us immediately. He is a 'Builder' and, according to Basidia, a "supporter of Sovereign Phylo.” He scrutinizes us with undisguised curiosity.
 
 
 "You are new to this area!" he exclaims.
@@ -437,7 +437,7 @@ Gasbide gasps, Zalthir's status instantly elevated in his eyes. "Oh! And he goes
 Zalthir, committed to tactical deception, agrees: "Let's go with that."
 
 
-Gasbide's excitement is now unbridled. He begins detailing the outlandish, bizarre structures he dreams of constructing, clearly a symptom of the chaotic influence surrounding Philo.
+Gasbide's excitement is now unbridled. He begins detailing the outlandish, bizarre structures he dreams of constructing, clearly a symptom of the chaotic influence surrounding Phylo.
 
 
 "I dream. Do you want me to tell you what I dream of?"
@@ -459,7 +459,7 @@ And then we get into more technical discussions.  Finally, a creature that can d
 "I'll nerd out with them for a little while," I tell everyone. 
 
 
-As I engage in the technical discussion, Gasbide reveals a crucial piece of the larger puzzle: he has no clear understanding of what Araumycos is, only that "it is part of a great celebration to come," promised by Sovereign Philo. The impending "great awakening" is tied to this mythical "great celebration".
+As I engage in the technical discussion, Gasbide reveals a crucial piece of the larger puzzle: he has no clear understanding of what Araumycos is, only that "it is part of a great celebration to come," promised by Sovereign Phylo. The impending "great awakening" is tied to this mythical "great celebration".
 
 
-I wonder if this has anything to do with the celebration promised by Philo tomorrow.
+I wonder if this has anything to do with the celebration promised by Phylo tomorrow.

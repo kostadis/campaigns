@@ -47,7 +47,7 @@ Then Daz shouts back, “I have it.”
 Zalthir jumps off the mesa and heads to an alcove in the northeast corner. There, he picks up the statue of Demogorgon. 
 
 
-“Leemoogoogon, Demorgogon, two-headed baby dragons - …” he thinks to himself.
+“Leemooggoogoon, Demogorgon, two-headed baby dragons - …” he thinks to himself.
 
 
 While Daz and Pelek exchange pleasantries, and Grygum searches the bodies he heads to the northwest corner where there is a desk with some papers. 
@@ -132,7 +132,7 @@ The egg is no longer a dragon. It is a physical manifestation of a demon. The eg
 Zalthir stares at him, confused, “What?”
 
 
-“This is no longer a dragon. And so when this abomination hatches, the dragon Themberchaude will have its revenge on those who would think to control it.” 
+“This is no longer a dragon. And so when this abomination hatches, the dragon Themberchaud will have its revenge on those who would think to control it.” 
 
 
 \*rattle\* 

@@ -77,7 +77,7 @@ The spider. Ground it in the spider, in the thing she had actually witnessed wit
 And then the floor dropped out a second time.
 
 
-"Oh, dear goodness," Asha breathed, and I watched her face change again — not into belief, not into suspicion, but into a third thing entirely, "have you two been infected by the spores, possessed by the crazed magic of Zuggtmoy? convinced of the bride's power? Is this another trick of Elvara's?"
+"Oh, dear goodness," Asha breathed, and I watched her face change again — not into belief, not into suspicion, but into a third thing entirely, "have you two been infected by the spores, possessed by the crazed magic of Zuggtmoy? convinced of the bride's power? Is this another trick of Ilvara's?"
 
 
 She was not calling me a liar. She was asking whether I was a victim. Whether the lights and the spider and the quiet reverence were not deception or divinity but *infection* — the particular madness of a fungal god's influence playing tricks on a compromised mind.
@@ -96,7 +96,7 @@ Asha Vandry noticed me the moment Daz beckoned and I stepped out of the shadow w
 I have noticed this before. I will notice it again. I noted it, set it aside, and watched.
 
 
-Daz had already threaded us this far into the deception, which was impressive. Asha's opening had been a pointed thing — *"Have you two been infected by the spores, possessed by the crazed magic of Zuggtmoy? Convinced of the bride's power? Is this another trick of Elvara's?"* — the kind of question designed to see what shape your panic takes. Daz didn't panic. He gave her something more interesting: doubt worn as sincerity.
+Daz had already threaded us this far into the deception, which was impressive. Asha's opening had been a pointed thing — *"Have you two been infected by the spores, possessed by the crazed magic of Zuggtmoy? Convinced of the bride's power? Is this another trick of Ilvara's?"* — the kind of question designed to see what shape your panic takes. Daz didn't panic. He gave her something more interesting: doubt worn as sincerity.
 
 
 "I really do believe that I have," he said. "Perhaps there are some spores within me, but I… it feels… I feel it. And by the way, I've convinced others to join me."
@@ -265,7 +265,7 @@ Then came the question of who could safely touch what.
 "Basically pointing out," Asha said, her voice shifting to the register of someone delivering information they find tedious, "that if Thorin and Grygum grab it — I think they were the two that went to visit, what's her name, right? — yeah, you two probably don't want to be near it, but everybody else is fine."
 
 
-Whatever we'd picked up in Gracklstugh in the Whorestone Caverns when we visited the pocket dimension, had left a marker on us. The mushroom artifact could exploit it. Good to know before I walked up and tried to destroy it with my hands.
+Whatever we'd picked up in Gracklstugh in the Whorlstone Caverns when we visited the pocket dimension, had left a marker on us. The mushroom artifact could exploit it. Good to know before I walked up and tried to destroy it with my hands.
 
 
 Zalthir, bless him, raised the broader concern about spores. He'd been thinking about it — we all had.
