@@ -1,5 +1,11 @@
 # Calmer
 
+> **⚠️ STALE — Calmer is a PC, not an NPC.** This auto-generated dossier is out of date.
+> Calmer was **raised from the dead by Terjon** and is **alive**, operating under deep cover
+> inside the Temple of Elemental Evil — his cover role is **Supreme Prophet of the Upper Temple**
+> (taken after Belsornig's death). The "Dead / Cleric-of-St-Cuthbert-NPC" framing below is
+> historical. **Authoritative source for Calmer is `docs/party.md` and the PC records**, not this file.
+
 ## Identity
 - **Role:** Cleric of St. Cuthbert, assigned to the party with Terjon's approval
 - **Faction:** Church of St. Cuthbert, Hommlet

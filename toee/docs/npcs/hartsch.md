@@ -2,6 +2,8 @@
 name: Hartsch
 aliases:
   - Harch
+  - Earth Pretender
+  - The Earth Pretender
 ---
 
 # Hartsch
@@ -10,7 +12,7 @@ aliases:
 - **Role:** Sub-general and speaker of the Earth Temple; lieutenant and strategic advisor to Romag
 - **Faction:** Earth Temple (Temple of Elemental Evil)
 - **First Appearance:** Chapter 18 — observed by the party in conversation with Romag following Krell's sacrifice ritual; referred to briefly as "Harch" in Chapter 22 when Romag instructed him to prepare prisoners for the loyalty ritual; formally identified as Hartsch in Chapter 23 during a private meeting with the party in their quarters
-- *Also known as: Harch.*
+- *Also known as: Harch; "the Earth Pretender" (epithet for the Earth Temple's aspirant to the throne).*
 
 ## Personality & Motivations
 - **Core Goal:** To replace Romag as leader of the Earth Temple. Believes in aggressive, destructive leadership — an "earthquake" style — over Romag's passive approach.
