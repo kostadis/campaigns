@@ -1,5 +1,19 @@
 Aletra Sotorra, recognized for her interplanar trade of potent drow poisons and her aptitude for uncovering schemes \[1, 2\], has become a key agent for KP. Her new mission in Faerun is to manage and mitigate extraplanar leakage, which are unintended side effects of KP's broader efforts to achieve "cosmic efficiency" \[3-6\]. Aletra's practical and detached approach makes her an ideal candidate for KP's morally ambiguous objectives, prioritizing what she perceives as multiversal balance, even if it comes at the expense of "local social cohesion" \[3, 7\].
 
+---
+
+## ELEVATED MOTIVE — power, and the Codex (canon 2026-05-31)
+
+The "cosmic-efficiency cleanup agent" framing below is Aletra's **cover and her assignment**, not her motive. Her motive is **power.**
+
+- KP is building the **Optimization Codex** (see `KP.md`) — the master method, the real prize. The **Planar Energy Conduit** in Iymrith's hoard (Encounter 3.2 below) is *not* the Codex; it is a **component the Codex demands.** Aletra is *dispatched for the Conduit.*
+- What she actually covets is the **Codex itself**, as her own path to power. She runs KP's errand while positioning to seize the master work behind it. **This is what "use only if KP isn't watching" really means:** she is off-books, moving against him even as she serves him.
+- So her stance is doubled: she **fears KP and acts against him.** She is a variable inside his model, reaching for the model itself — and her smallness next to the cosmic stakes is deliberate. Where KP is tragic and redeemable (Gary's PC), Aletra is **simple, legible greed**, and that contrast is the point.
+
+When you run the encounters below, her dialogue about "stabilization," "re-routing," and "cosmic good" is the *job talk*. Underneath, she is appraising whether the artifact in front of her gets her closer to the Codex.
+
+---
+
 Here is a series of escalating encounters featuring Aletra Sotorra, integrated into the existing adventure narrative and tied to the "Planar Distortion Score" \[7, 8\]:
 
 ### \*\*Phase 1: Subtle Infiltration & Anomalous Observations (Planar Distortion Score 0-2)\*\*

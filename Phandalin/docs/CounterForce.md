@@ -3,7 +3,17 @@
 **What it is:** The campaign's cosmological counterweight to KP (see `KP.md`).
 **Where it manifests:** As Rimardo and Corrin — apparently a touring comedy act, actually the echo of an interrupted avatar of Istus from another world.
 **How it pays off:** Joke first, dread second. Comedy as prophetic sabotage.
-**Status:** First on-screen manifestation queued for the Woodland Manse (playbill clue). First public-act manifestation queued for the Wayside Inn. Forward-planning hook into the Iymrith endgame.
+**Status:** First on-screen manifestation **relocated to Falcon's Lodge** (the party bypassed the Woodland Manse, which is now empty) — staged as an in-person act, KP-connection deliberately buried; see `notes/session_prep/20260531_rimardo_corrin_at_the_lodge.md`. The Woodland Manse playbill (below) is preserved as historical/alternative staging. Wayside Inn and the Iymrith endgame remain forward hooks.
+
+---
+
+## Why there is no single god of fate (cosmology — canon 2026-05-31)
+
+There are *many* gods of fate across the multiverse — **Istus on Oerth, Savras on Toril**, others elsewhere. That is impossible if fate means *destiny*: a single fixed weave admits exactly one weaver. So **fate is not destiny**, and the gods of fate are **not as all-powerful as they believe** — each is a provincial administrator of a *partial* weave. Their plurality is the proof of their limitation.
+
+**The CounterForce is why there is no single god of fate.** It is the irreducible, anarchic refusal that keeps fate from ever consolidating into one closed system — the multiverse grows a new partial fate-god in every world precisely because it will not tolerate one master. This is **Thomas Pynchon's Counterforce** (*Gravity's Rainbow*): the shambolic, comedic, *preterite* resistance to "Them," to the Firm, to the closed parabola of total control. It is not impressive; that is the point. As long as it exists, no single god — and no system like KP's — can totalize fate.
+
+**The Dark Lords are the enemy of the gods of fate.** The Dark Powers of Ravenloft want what the gods of fate cannot be: the single, total, closed system — the perfected Domain, fate sealed into one escape-proof cage. KP, building exactly that (see `KP.md` — the Optimization Codex *is* Ravenloft cage-magic), is their instrument and an enemy of open fate, though he believes he is a neutral optimizer. Savras cannot out-system the cage; he can only catch and express the CounterForce — the foreign Oerth fate-current — because that anti-totalizing principle is *already* what makes a plural, partial god like him possible. He does not own it. He catches the echo of Istus's surprised laughter.
 
 ---
 
@@ -86,6 +96,8 @@ Vukradin is uniquely positioned to read R&C correctly because he understands per
 
 If Soma or Valphine encounters R&C content first, run it as confusion or omen. The structural read belongs to Vukradin.
 
+**The deeper reason — authorship (META, GM/table, out-of-fiction).** Rimardo and Corrin are **Dave's** creations, invented for the Drow Conspiracy; Vukradin is Dave's current character. Routing R&C through Vukradin returns Dave his own creations — the force is wearing the receiver's own work back at him. And the causal loop is the point: **Dave's free choice in the Drow Conspiracy — playing marriage counselor instead of killing Lundbeams — is the act that wounded KP** (it handed the dagger to Bayard, denying KP the knowledge), *and* it is the prototype of the only thing that can break the cage. The wound and the cure are the same free choice, and it is Dave's. KP (Gary's PC) and R&C (Dave's) are the two poles of the campaign's cosmology, grown to cosmic scale.
+
 ---
 
 ## Current arc — staged manifestations
@@ -163,6 +175,14 @@ Shrine playbill line:
 ---
 
 ## How to play Rimardo and Corrin
+
+### The two performance metaphors (the clearest instruction for the table)
+
+**Form — Miller from *The Expanse* (the Investigator).** A vast, incomprehensible force (the CounterForce / Savras's caught Oerth fate-current) wears a familiar reconstruction to reach a single receiver. The protomolecule rebuilt Miller because Holden needed a human-shaped channel; the CounterForce wears **Dave's own creations** because the receiver (Vukradin/Dave) needs a *performance* he can read. Play them like the Investigator: cryptic, fragmentary, **working a case they only half-understand** (the case is the cage), pointing rather than directing, with real pathos bleeding through the bit. They appear privately to the receiver, show up uninvited, and cannot be captured, dispelled, or interrogated — "not present in any way that admits to capture." It is *them enough to hurt, not them at all.* (Is it really Rimardo and Corrin? The right answer is *yes.*)
+
+**Act — Penn & Teller.** **Rimardo = Penn:** tall, loud, the relentless talker — the patter, the framing, the case-narration spoken aloud. **Corrin = Teller:** short, silent, the hands — the card, the prop, the impossible reveal, done without flourish because it is simply true. Every clue comes out of **Corrin's hands, not Rimardo's mouth.** And their signature is the thing KP cannot survive: **they reveal how the trick is done, and it is *more* astonishing, not less.** KP's whole project is information control; R&C *show the mechanism*, and showing it is how they break it. The reveal IS the act.
+
+**Tone — Pynchon.** A ragtag two-man comedy act against an omnipotent System. Their *unimpressiveness is the freedom*: the System is vast and total; the resistance is two clowns and a deck of cards, and that asymmetry is the whole point.
 
 - Rimardo speaks in procedural, contractual, mock-legalistic cadence. He treats prophecy as a billing problem. He is rarely cruel; he is bureaucratically inevitable.
 - Corrin does not speak. He produces objects, flips cards, hands over notes, makes eye contact one beat longer than expected. His silence is the timing engine.
