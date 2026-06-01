@@ -4,6 +4,8 @@
 **Race:** Gnome. Wizard, scholar, theorist of interplanar economics.
 **Status:** At large; offstage but campaign-shaping. Not a near-term combat encounter — a distant, structural pressure whose footprint shows up in cult precision, planar leakage, and the work of his agents.
 **Tracking mechanic:** Planar Distortion Score (see `Aletra.md`). Aletra is his primary on-screen agent.
+**Player-character (META — GM/table, out-of-fiction):** KP is **Gary's** player character, created in the **Drow Conspiracy** campaign. He is *not* a doomed NPC. He is a PC walking a dangerous path, and **the way out is reserved to Gary.** Everything below frames the Darklord ending as the *worst-case attractor*, never as destiny — see the META note in the Elevated Spine.
+**Elevated spine (canon 2026-05-31):** the section immediately below supersedes any earlier reading of KP as a mere "optimizer." It introduces the **Optimization Codex** (the thing he is building), distinguishes it from the **Planar Energy Conduit** (a component the Codex demands), and establishes the Ravenloft cage, the Darklord path, and the **Dark-Lords-versus-gods-of-fate** axis (see `CounterForce.md`). The older sections remain accurate as backstory.
 
 ---
 
@@ -14,6 +16,32 @@ Kazneporium Ketternopappux, usually called KP, is a gnomish wizard, scholar, the
 KP is brilliant, comic, vain, useful, dangerous, and often wrong in ways that only a very intelligent person can be wrong. He is not primarily motivated by cruelty. His danger comes from abstraction. He sees worlds as systems, portals as infrastructure, artifacts as regulatory problems, gods as stakeholders, and people as local variables. In his mind, he is not conquering the multiverse. He is improving it.
 
 This makes him the opposite pole from the **CounterForce** (see `CounterForce.md`). KP represents fate as optimization: the belief that sufficient knowledge, sufficient modeling, and sufficient infrastructure can make the multiverse predictable. Rimardo and Corrin, as comedy and mortal choice, represent the thing KP cannot properly model: agency, pity, timing, improvisation, and the absurd refusal of living beings to remain variables.
+
+---
+
+## THE ELEVATED SPINE — the Codex, the Cage, the Darklord path (canon 2026-05-31)
+
+### The Optimization Codex (the thing he is building)
+
+KP's life's work is not a spell or a device. It is a **book**: the **Optimization Codex** — the encoded method for making the entire multiverse legible, predictable, and managed. The librarian who began by making a shelf searchable ends by writing the volume that closes the catalogue on everyone inside it. The Codex is his theory made portable and executable. It is also — unread by him — the **source code of a prison.**
+
+### The Conduit is a requirement, not the prize
+
+The **Planar Energy Conduit** (in Iymrith's hoard, Ascore) is *not* the Codex. It is a **component the Codex demands** — worked through, the method outputs the Conduit as a necessary piece of infrastructure. The Conduit is the errand; the Codex is the work. The Codex stays with KP. (See the Iymrith Hook below and `Aletra.md`: Aletra is dispatched for the *Conduit* but covets the *Codex*.)
+
+### The Codex is Ravenloft cage-magic, carried out of Barovia
+
+A perfectly optimized reality — fully predictable, escape-proof, with no unmodeled slack — *is* a **Domain of Dread.** Optimization and imprisonment are the same architecture seen from two moral angles; KP cannot tell them apart, because to him "fully predictable" reads as *finished*, not *locked*. This is not coincidence. KP went into **Barovia** chasing trade routes through the Mists, was caged by Strahd, and came out carrying the contagion. (The book he left with Exethanter on "trade between the planes of dread and the Abyss" reads now as the **Codex's ancestor.**) The **Dark Powers of Ravenloft** are the "dark powers" his free choice opened a path for. They do not corrupt him. They simply let him finish the book. When the Codex "tells him what it needs," that is the Mists tightening — he thinks he is the author; he is increasingly the clerk.
+
+### The Darklord path (worst-case attractor — NOT fate)
+
+Completing the Codex does not make KP a god. It makes him a **Darklord** — and a Domain is a cage *fitted to its lord's sin.* KP's sin is the hunger to optimize, to close every open thing; his fitted torment is to become the eternal administrator of a dead, finished system he can never leave or change. **Jailer of everyone, prisoner of the Powers — the cage closes on its architect first.**
+
+> **META (GM/table, out-of-fiction):** KP is **Gary's** PC. The Darklord ending is the *cliff*, not the script. **The exit is Gary's to find** — and that is the entire point: a free choice built the cage, and a free choice is the only thing that unbuilds it. Never narrate KP's fall as sealed. Never let an NPC (or R&C) pronounce him doomed. The GM stages the danger; Gary owns the man.
+
+### The Dark Lords are the enemy of the gods of fate
+
+There are *many* gods of fate across the multiverse (Istus on Oerth, Savras on Toril, others). That plurality is impossible if fate means *destiny* — a single fixed weave admits one weaver. So **fate is not destiny, and the gods of fate are not as all-powerful as they believe**; each governs a partial, provincial weave. The **Dark Lords** want what the gods of fate cannot be: the single, total, closed system — the perfected Domain, fate sealed into one escape-proof cage. They are therefore the **enemy of the gods of fate**, and KP — building exactly that closed system — is objectively their instrument and an enemy of open fate, even Savras's enemy, though he believes he is a neutral optimizer. The principle that keeps fate plural and open — and so the only real counterweight to the cage — is the **CounterForce** (see `CounterForce.md`).
 
 ---
 
@@ -195,7 +223,7 @@ KP is not on screen. He is the structural reason several adversaries are doing w
 The endgame collision is **Iymrith**. Two threads converge:
 
 1. **Falcon's brass ring** (already in player hands, via Vukradin's search of Falcon's drawer): a brass ring inscribed with the Elvish word for *lightning*, found in Iymrith's already-plundered hoard. Iymrith is a blue (lightning) dragon; the ring's provenance gives the party physical contact with her legacy. Also in Falcon's drawer: a wooden labyrinth matching the *Undercity Chorale* libretto, and wooden elven ears inscribed "my dearly beloved." Those last two are unaddressed.
-2. **Aletra's Phase 3** (`Aletra.md`, scene set at Iymrith's Lair in Ascore): Aletra is sent by KP to retrieve a **Planar Energy Conduit** — an artifact of KP's design held in Iymrith's hoard, "crucial for stabilizing or re-routing cosmic forces manipulated by KP, and for addressing the Mindflayers' isolation to Faerun." The Kraken Society also wants it.
+2. **Aletra's Phase 3** (`Aletra.md`, scene set at Iymrith's Lair in Ascore): Aletra is sent by KP to retrieve a **Planar Energy Conduit** — an artifact of KP's design held in Iymrith's hoard, "crucial for stabilizing or re-routing cosmic forces manipulated by KP, and for addressing the Mindflayers' isolation to Faerun." The Kraken Society also wants it. **Note (per the Elevated Spine):** the Conduit is a *component the Optimization Codex demands*, not the Codex itself. The Codex stays with KP; the Conduit is the fetch. Aletra runs the Conduit errand for KP while privately coveting the *Codex* as her own path to power — which is what "use only if KP isn't watching" really means.
 
 The structural reading: Iymrith is a divinatory dragon (blue dragons in SKT canon are prophetically inclined, and Iymrith specifically claims a stake in the Ordning's restoration). KP's project is the systematization of prophecy. **Iymrith's hoard is where KP's prophecy-infrastructure project terminates** — either because she holds a key piece, or because she herself represents the kind of unmodelable apex predator KP's system cannot absorb. The eventual collision is a three-way: party, Aletra (KP's hand), and Iymrith (or her legacy) over the Conduit.
 
