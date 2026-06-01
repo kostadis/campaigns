@@ -69,7 +69,42 @@ He's asleep upstairs. Mid-arrival, **Corrin silently hands a steward a folded pl
 The routine is framed as Rimardo announcing **"our next engagement"** — a tour-date patter that is, secretly, the party's coming road. Funny as a bit; a map underneath.
 
 ### Beat 1 — warm-up (pure comedy, no clue yet)
-Rimardo does five minutes on the siege as a *review*: critiques Brewbarry's dice luck ("a tragedian"), Vukradin's hypnotic pattern ("crowd work — derivative, but it killed"), Falcon's late-game heroics ("a third-act redemption the critics will call *unearned*"). Corrin silently awards Brewbarry a card reading **"PARTICIPATION."** *Let the table just laugh.* No dread yet.
+Rimardo does five minutes on the siege as a *review*. **Pure comedy — let the table just laugh. No dread yet.** He leans on things the bit *shouldn't* know (Gorthok's revivify, the wine casks, the brass rings) so the laugh quietly curdles into *how do they know that?* — without going near KP. Corrin's silent business is in italics. Liftable patter, pick what lands:
+
+**Entrance / the "already booked" runner:**
+> "Thank you, thank you — *please*, hold your applause, you'll need it, there's a lot of show and you've already had a long day of not dying. A round for the survivors! And a *smaller* round for the ones who only mostly survived."
+> *(consulting the ledger that has no business being accurate)* "We are contracted for the eight o'clock. I realize it is — what — *much* later than eight o'clock, and I realize no one in this room remembers signing anything. That's the beauty of a really *good* contract. You don't remember signing it. You just look up one evening and there's a man in a coat doing material about your boar."
+
+**The venue review:**
+> "Lovely room. Truly. Bit of a *fixer-upper* — I see the gate's been redecorated by lightning, very bold, very *now* — and the management has embraced an open-air concept where the front door used to be. The kind of venue where you tell yourself the screaming improves the acoustics."
+> *(Corrin runs a gloved finger along a scorched timber, examines the soot like a sommelier.)* "Ozone. A *confident* ozone. Last week's headliner really left it all on the stage."
+
+**The siege, reviewed as theatre** *(the "how do they know" engine — keep it a roast):*
+> "Caught the late show, and as *theatre* — I say this with love — the pacing was a *disaster.* You open on a hypnotism bit? Ten in the front row, *out cold,* before a sword's drawn? Gorgeous. Brave. And then a four-hour second act about *dice.*"
+> *(Corrin solemnly hands Brewbarry a card:* **PARTICIPATION.**\)
+> "Big finish, though. The beast goes down — applause — the beast *gets back up* — gasp — and somebody on your lighting crew has the *presence of mind* to have already left the spotlight burning right where he'd be standing. *That's* a callback. The boar didn't die to a hero. It died to *good blocking.*"
+
+**The wine casks** *(Brewbarry's open wound):*
+> "Now — the *real* tragedy of the evening. Everyone keeps saying 'the lodge held,' 'the people were saved,' and *nobody* is talking about the cellar. A moment of silence. For the wine."
+> *(Corrin removes his hat.)*
+> "Slaughtered. Every cask. And the order of operations *matters* for the claim — they destroyed *some* of the wine and *drank* the rest. Which means mid-apocalypse, those men stopped to have *a glass.* Terrible theology. *Flawless* hospitality instincts."
+
+**The host & the new staff** *(Falcon):*
+> "Our gracious host! The *dragonslayer* — let him have the *branding,* if not the strictly *factual* version. A man who looked at a dead dragon's leftovers and built a *hospitality empire,* which is the single most heroic thing anyone in this story has actually done."
+> *(to the three new orc stewards holding forks wrong)* "And fresh *staff!* Recruited this evening off the losing side — *you fought me, you're hired.* The pay is exposure. The first lesson is which fork. The *second* lesson is that there is never a reason to need a second fork, and the man teaching you is *lying to you about cutlery the way he lies about dragons.*"
+
+**The procedural / fine-print bit** *(his recurring legalistic texture — and the hairline crack toward dread):*
+> "House rules, the fine print, I'm *obligated*, it's clause four. One: no requests. We *are* the request; you simply haven't been billed yet. Two: non-refundable, academic, as no one has paid. Three—"
+> *(Corrin holds up three fingers, then folds the third down himself, slowly.)*
+> "—Mr. Corrin has *struck* number three from the record. He's the only performer I've worked with who can *redact a clause with his hands.* We've stopped asking. The lawyers have stopped asking. The *gods* have largely stopped asking."
+
+*(That last line is the first hairline crack — drop it light, smile through it. It's the bridge into Beat 2.)*
+
+**One-liners to salt in anywhere:**
+> "An *aasimar* bard. Of course. The genre *requires* one — somebody has to be beautiful and concerned."
+> *(to Valphine)* "A faith that's discovered the *light hurts.* Took the rest of us millennia to be that honest."
+> *(re: Boney, outside)* "Lovely horse. *Committed* horse. Doesn't let a little thing like being *dead* affect his work ethic."
+> "You've been declared *honorary members of an orc tribe.* Sit with that. You came to save these people, and you have been *absorbed* by them. That's not a victory. That's a *merger.*"
 
 ### Beat 2 — the tour dates (the Leilon map, in comedy)
 Rimardo "announces the tour." Each line is a real Leilon beat. Corrin produces a prop for each — **the props are the clue list:**
