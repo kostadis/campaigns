@@ -21,7 +21,7 @@ First catalogued during the cleanup of
 
 | Wrong | Right |
 |---|---|
-| Glavagul, Glavagul's, Glabogul, Glavo, Glavacle, Glavable, Glavigal, Glavagol, Glabagul, Glabigle, Lavagul, Lavagul's, Miklabogul, Globul, Globagool, Gobblegool, Glabugul, Gladbagul, Globagul, Glabagool, Baba Gul, Glab Agul, Glad Abugul, Glad Agul, Globugul, Klobagool, Ivagoo | **Glabbagool** |
+| Glavagul, Glavagul's, Glabogul, Glavo, Glavacle, Glavable, Glavigal, Glavagol, Glabagul, Glabigle, Lavagul, Lavagul's, Miklabogul, Globul, Globagool, Gobblegool, Glabugul, Gladbagul, Globagul, Glabagool, Baba Gul, Glab Agul, Glad Abugul, Glad Agul, Globugul, Klobagool, Ivagoo, Glavgul, Glamble | **Glabbagool** |
 | Jam Jar, Jim Jar | **Jimjar** |
 | Kel'Vire, Kel Vire, Calvir, Kel Veer, Kelvir | **Khell-Vire** |
 | Asha Vandri, Ashe Vandri, Ashas | **Asha Vandree** |
@@ -50,27 +50,32 @@ First catalogued during the cleanup of
 | Bookworm, Bookform | **Bookwyrm** |
 | Miro Milo Glutbarrell | **Milo Goodbarrel** |
 | Philippine | **Philemon** |
-| Janusi, Genasi | **Janussi** |
-| Tadrick, Tadrik, Kadrick, Tabree, Cedric, Tardik | **Tadric** |
+| Janusi, Genasi, Genusi, Janu, Genius | **Janussi** |
+| Tadrick, Tadrik, Kadrick, Tabree, Cedric, Tardik, Tedrick, Tatrix | **Tadric** |
 | Callan Strongbranch | **Kalan Strongbranch** |
 | Callan, Callum, Cullen, Kaelin | **Kalan** |
-| Ally Avonmore | **A'lai Aivenmore** |
+| Ally Avonmore, Alai Ivanmore | **A'lai Aivenmore** |
 | Avon Moore | **Aivenmore** |
 | Alay, L.A. | **A'lai** |
 | Varath, Verith | **Vareth** |
 | Khazrin Natyani Nyatani | **Kazryn Nyantani** |
-| Silvera salvikas | **Sylvira Savikas** |
+| Silvera salvikas, Silvira Savica | **Sylvira Savikas** |
 | Feminoor Scrivenbach | **Fheminor Scrivenbark** |
-| Daryl, Jarl | **Daral** |
-| Miss Molly Pocket | **Miss Hollypocket** |
+| Daryl, Jarl, Droll, Darrell | **Daral** |
+| Miss Molly Pocket, Miss Hollypock | **Miss Hollypocket** |
 | Ogma | **Oghma** |
 | Bahamatians | **Bahamutians** |
-| Infirmus, Ephemeris, Fembrus | **Fembris** |
+| Infirmus, Ephemeris, Fembrus, Fendris | **Fembris** |
 | Keeper of Toads | **Keeper of Tomes** |
 | Janusi's Chambers | **Janussi's Chambers** |
-| Aluando, Alando | **Alaundo** |
+| Aluando, Alando, Alwando | **Alaundo** |
 | Kazarin | **Kazryn** |
-| Silvera | **Sylvira** |
+| Silvera, Silvira | **Sylvira** |
+| Holly Pocket | **Hollypocket** |
+| Feminaire | **Fheminor** |
+| Teles of Oste | **Teles Ahvoste** |
+| Telus | **Teles** |
+| Cad Daral Yashenti | **Daral Yashenti** |
 
 ## Items / artifacts
 
@@ -128,6 +133,7 @@ First catalogued during the cleanup of
 | Kendall Keep | **Castle Ward** |
 | Draconicos | **Drakonoikos** |
 | The Refactory | **The Refectory** |
+| Erun | **Faerun** |
 
 ## Races / mechanics
 
@@ -142,10 +148,11 @@ First catalogued during the cleanup of
 
 | Wrong | Right |
 |---|---|
-| costatis, Stottis, Kostat, Castadas, Costatas, Casados, Cristonis, Quesada, Costatus, Christadas, Custatis, Gustatis | **Kostadis** (pronounced "koh-stAH-dis", rhymes loosely with "toh-STA-dah") |
+| costatis, Stottis, Kostat, Castadas, Costatas, Casados, Cristonis, Quesada, Costatus, Christadas, Custatis, Gustatis, Castatis, Gustavis | **Kostadis** (pronounced "koh-stAH-dis", rhymes loosely with "toh-STA-dah") |
 | Lit | **lit.** |
 | And Christadas | **And Kostadis** |
 | Torward | **toward** |
+| Nostromas | **Nostradamus** |
 
 ## Non-name fixes (recorded for context, not a glossary entry)
 
@@ -166,3 +173,11 @@ First catalogued during the cleanup of
 | Wrong | Right |
 |---|---|
 | Braun Stroud bus | **bronze Stroud-bust** |
+| Red Wizards of Day | **Red Wizards of Thay** |
+| Schenbrannigans | **shenanigans** |
+
+## Calendar / lore
+
+| Wrong | Right |
+|---|---|
+| Dead Winter Day | **Deadwinter Day** |

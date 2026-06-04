@@ -1,9 +1,12 @@
 # The Janussi Investigation — Player Tracker
 
-*Post-session reference. The morning Janussi was found dead. Everyone
-you actually met this session, and everything you actually saw or were
-told. Cross-reference with the Candlekeep "Who's Who" handout for
-people you'd met before.*
+*Running investigation log. **Part 1** — the morning Janussi was found
+dead: conscription and the first sweep of the chamber. **Part 2 (Ch. 54)**
+— the deep forensic pass, Hollypocket's testimony, and the cat. Everything
+here is what you actually saw or were told. Cross-reference with the
+Candlekeep "Who's Who" handout for people you'd met before.*
+
+# PART 1 — Conscription & the first sweep
 
 ---
 
@@ -120,11 +123,159 @@ You are on **Day 2 of Deadwinter** — winter's deepest cold. The Keeper has fal
 
 ---
 
+---
+
+# PART 2 — The body, the desk, Hollypocket, and the cat (Ch. 54)
+
+*Second day on the case. You worked the body and the chamber in detail,
+learned who Janussi's enemies were, took the housekeeper's testimony, and
+— through the Stonespeaker Crystal — interviewed the tower cat. Net-new
+findings below; everything in Part 1 still stands.*
+
+## What the body told you
+
+- **Poison, swallowed while reading.** A dark, **blackened residue —
+  noticeably darker than his blue ink** — on Janussi's **left forefinger,
+  lower lip, and tongue.** The read: he licked his finger to turn pages and
+  ingested whatever coated them. **Glabbagool could not name the
+  substance** — and Glabbagool has eaten most of the Underdark — so it is
+  something genuinely unusual.
+- **He was beaten *before* he died.** Clotted blood under the nose; the
+  **nose was fractured and bruised pre-mortem** (Grygum: bruising can't form
+  on a corpse). A **violent assault happened earlier in the evening**,
+  separate from the killing.
+- **He fell face-first.** A **chipped front tooth**; the fragment turned up a
+  few feet away (located by magic). He pitched forward onto the stone as he
+  died — and was then **rolled onto his back** by whoever took the heart.
+- Midnight-blue ink smeared on the **right (writing-hand) sleeve** — a man
+  interrupted mid-note.
+
+## What the room told you (additions)
+
+- **The safe was a component theft, not a robbery.** Spell-component pouches
+  labelled with spell names; **one sapphire and one parchment scrap are
+  missing** — while diamonds, platinum, a fortune in gold, and **four sealed
+  pouches each still holding a sapphire** sit **untouched.** The killer walked
+  *past other sapphires* to take one specific loose one. Daz's read: *someone
+  is building a spell that needs a sapphire.* The killer wanted **specific
+  arcane components**, not wealth.
+- **No forced entry.** The safe stood **open but undamaged** — no break-in.
+  The killer **had the combination, or had no need of one.** Reads as an
+  **insider**, not a thief who forced the door.
+- **The locket was torn off.** Broken **lead-chain links** under the neck.
+  (See **The two keys** below — this is the big one.)
+- **The smoke was cover.** Ebony pipe, cherry tobacco, silver pedestal —
+  Janussi ran a continuous tobacco-smoke haze (a lung condition). It would
+  also **mask the smell of poison.**
+- **The toppled statue is innocent.** A'lai knocked the marble statue over at
+  dawn when he found the body. (The candle did not animate. Tadric remains
+  unconvinced.)
+- The **magic-missile-scorched armchair** (three impacts, two punched clean
+  through) — the cat later pinned this on **Sylvira** (below).
+
+## What the desk told you
+
+- Two sets of fresh blue-ink notes: **jokes** copied from a comedy book,
+  ***The Golden Ass*** (written first — ink dry), and **spell musings** on
+  ***The Discoveries*** (written *after* — the **last thing under his hand**).
+- ***The Golden Ass* is gone.** His own notes prove it was here. **Thorin's
+  theory:** the missing comedy book may be a **cipher key** — jokes hiding
+  arcane instructions.
+- **Gift tag** in the wastebasket, cramped and bitter: *"To Janussi, read it
+  and weep, you old snob, a proper Dead Winter gift, your loving rival."* →
+  the missing book was a **Deadwinter gift from a rival.**
+
+## Who Janussi's enemies were (Fembris)
+
+- **Fembris** — your assigned **half-elf** adjutant — named **Daral
+  Yashenti** as Janussi's bitterest rival, "at each other's throats for
+  years": **the same man who called you "sell swords."** The gift tag points
+  straight at him. *(Reminder: Fembris was given to you by the First Reader,
+  **Bookwyrm** — spelt with a W — and she repeats everything you say back.
+  Mind what you say in front of her. Note the name overlap: the **First
+  Reader** is named Bookwyrm; Fembris is just your assistant.)*
+
+## Hollypocket's testimony (gnome housekeeper, one floor below)
+
+Janussi spent his **last morning in back-to-back one-on-ones** with Great
+Readers; at least half ended in shouting. In order:
+
+- **Kalan Strongbranch** — stormed out "with a face like thunder," nearly
+  knocking her tea tray.
+- **Teles Ahvoste** (~9th bell) — shouting match; yelled **"hypocrite!"**
+  before storming out. *(New name on the board.)*
+- **Daral Yashenti** (~11th bell, hungover) — "not fit to be Candlekeep's
+  Keeper," "nothing but a **glorified book peddler.**"
+- **Daral again** (~10:30 pm, drunk) — pounded on the door until admitted,
+  another loud argument, then **fled down the stairs** — "never seen him run
+  away so fast."
+- **Sylvira Savikas** ("that devil woman") — screamed Janussi was a
+  **traitor**, nearly tore the door off its hinges. *(Note: "devil woman" is
+  her **job** — she's the curator who studies devils — not an insult.)*
+- A **thud** from the chamber after the midnight bells → **Janussi was alive
+  past 11 pm.**
+- **~2–3 am:** Hollypocket saw **"Sylvira's" face glowing red in the
+  candlelight, descending the tower, carrying a lantern.** Suspicious —
+  Sylvira is a **tiefling with darkvision** and would have **no need of a
+  lantern.**
+- Sylvira and Janussi had a **volatile on/off romance** ("the hookups were
+  explosive, the breakups were explosive").
+- The **locket was always worn, never removed** — "intimate."
+
+## Queenie the cat (via Stonespeaker Crystal)
+
+- **Sylvira blasted the armchair with magic missiles** that morning — a
+  furious **lover's quarrel** with Janussi (this is the scorched chair).
+- Evening visitors, in order: **Fheminor Scrivenbark** ("the short-legged
+  one," arrived after Deadwinter supper, ~8 pm, stayed 15–20 min), then
+  **Daral** ("the stinky-breath one").
+- **Daral fled the chamber carrying a "hypnotic block"** — almost certainly
+  **the missing *Golden Ass*.** *(Important: in the cat's account Janussi was
+  still alive when Daral left with the book.)*
+- The night figure on the stairs **looked like Sylvira but did not smell like
+  her** — and was **carrying the lantern** Hollypocket saw (a light a
+  darkvision tiefling has no use for). → **someone wore Sylvira's face.**
+  *"That explains the lantern."*
+
+## The two keys *(the motive crystallizes)*
+
+- Janussi's stolen **locket held one of the two keys to the Hightower
+  Library** — he was "keeper of the keys, keeper of the secrets."
+- The **other key is held by Kalan Strongbranch**, the gate warden. (The two
+  keys may be needed **together** to open the Hightower Library.)
+- So the killer **poisoned him, took the book, took one specific spell
+  component, and tore the key-locket from his neck — and walked past a
+  fortune.** The target was **access to the Hightower Library**, not gold.
+
+## Mechanics note
+
+- **Stonespeaker Crystal:** 2 charges per long rest. **One spent** on Queenie.
+
+---
+
 ## Where you're picking up next
 
-- **Inside the chamber** — the body and the desk are catalogued; the third-floor apartment with its conspicuously open door is not.
-- **Miss Hollypocket** is in the next room, uninterviewed.
-- **Kalan Strongbranch** is *first* on Grygum's list of people to question.
-- **Speak with Dead** can be attempted again once the cooldown lapses — Thorin asked about ice.
-- **Sylvira Savikas's** absence from the council table is unexplained.
-- **The Avowed seen running past the Refectory** last night with something hidden in his robe has not been identified.
+- **Suspects on the board now:**
+  - **Daral Yashenti** — prime. Rival, the gift tag, *took the book*, two
+    visits, fled in a panic. But the cat says **Janussi was alive when he
+    left.**
+  - **Sylvira Savikas** — *someone wore her face* the night of the murder.
+    Framed, or real? Until you know, every "Sylvira did X" is suspect.
+  - **Teles Ahvoste** — new; called Janussi a "hypocrite" and stormed out.
+  - **Kalan Strongbranch** — morning rage; **holds the second Hightower key.**
+  - **Fheminor Scrivenbark** — quiet evening visitor (~8 pm, 15–20 min).
+- **The shapeshifter question** is the live wire: who can wear another
+  Avowed's face inside Candlekeep, and why frame Sylvira?
+- **Still uninterviewed:** Kalan (top of the list — *and he has the other
+  key*), Sylvira herself, Daral directly, Fheminor.
+- **Open physical threads:** identify the **black poison**; find the missing
+  ***Golden Ass*** (last seen under Daral's arm); recover **Janussi's
+  locket / the Hightower key**; figure out **what spell needs the stolen
+  sapphire + parchment.**
+- **The third-floor apartment** with the conspicuously open door is **still
+  unentered.**
+- **Speak with Dead** on the body is still spent (Kalan's 11 am attempt got
+  nothing).
+- **Still loose from Part 1:** the **hooded Avowed** seen half-running from
+  the Refectory with something under their robe is **still unidentified.**
+- Hollypocket and Queenie are **done** — both gave you everything they had.
