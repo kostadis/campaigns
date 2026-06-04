@@ -12,10 +12,13 @@ A multi-campaign D&D 5e workspace. Each subdirectory is a separate campaign mana
 |-----------|----------|--------|
 | `Phandalin/` | Dragon of Icespire Peak / Lost Mine hybrid | Active, has mempalace |
 | `out-of-the-abyss/` | Out of the Abyss (modified) | Active, has mempalace + chapter splits |
+| `stormgiants/` | Storm King's Thunder | Active, has mempalace |
 | `Hillsfar/` | DDEX34: It's All in the Blood | Active |
 | `toee/` | Temple of Elemental Evil | Active |
 
 Each campaign has its own `CLAUDE.md` with campaign-specific details — read it when working inside that directory.
+
+`gm-assistant/` is **not** a campaign — it is workspace-scoped tooling and the canonical home of the `gm-*` Claude Code skills (`gm-session-prep`, `gm-faction-network`, `gm-strategy-doc`, `gm-handout`, `gm-npc-build`, `gm-npc-voice`, `gm-improv`, `gm-statblock`, `gm-social-encounter`). The entries under `.claude/skills/gm-*` are relative symlinks back to `gm-assistant/skills/`; edit the files in `gm-assistant/skills/`, not the symlinks. Changes here can ship in a single commit (they do not belong to any one campaign).
 
 ## Campaign Isolation (hard rule for commits and PRs)
 
@@ -23,7 +26,7 @@ Each campaign has its own `CLAUDE.md` with campaign-specific details — read it
 
 Operationally:
 
-- Before every commit, run `git status` and check directory prefixes. If files are touched across more than one of `Phandalin/`, `out-of-the-abyss/`, `Hillsfar/`, `toee/`, **split into separate commits** — one per campaign.
+- Before every commit, run `git status` and check directory prefixes. If files are touched across more than one of `Phandalin/`, `out-of-the-abyss/`, `stormgiants/`, `Hillsfar/`, `toee/`, **split into separate commits** — one per campaign.
 - This holds even when the cross-campaign drift came "for free" from prior pipeline runs and the user said "commit everything."
 - One campaign per PR. If accumulated drift spans campaigns, ask the user which campaign's changes ship first and commit only those.
 - The only files that legitimately span campaigns are root-level shared infrastructure (`MEMPALACE_HOWTO.md`, this `CLAUDE.md`, `.gitignore` at repo root). Those can be their own small commit.
@@ -41,7 +44,7 @@ Every campaign follows the same structure:
 - `logs/` — operational logs from CampaignGenerator runs
 - `.mcp.json` — MCP server registration (project-scoped)
 
-### Campaigns with mempalace (Phandalin, Out of the Abyss)
+### Campaigns with mempalace (Phandalin, Out of the Abyss, stormgiants)
 
 Additional structure for semantic search:
 
