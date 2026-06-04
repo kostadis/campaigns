@@ -1,14 +1,14 @@
 version: 2
 ui:
   session_doc:
-    session: /home/kroussos/campaigns/Phandalin/summaries/20260519/gm-assist.md
+    session: /home/kroussos/campaigns/Phandalin/summaries/20260526/gm-assist.md
     extract_dir: /home/kroussos/campaigns/Phandalin/summaries/20260512/scene_extractions
     roleplay_dir: /home/kroussos/campaigns/Phandalin/summaries/20260512/vtt_roleplay_extractions
-    output_dir: /home/kroussos/campaigns/Phandalin/summaries/20260519
+    output_dir: /home/kroussos/campaigns/Phandalin/summaries/20260526
     summary_dir: /home/kroussos/campaigns/Phandalin/summaries/20260512/vtt_extractions
-    session_summary: /home/kroussos/campaigns/Phandalin/summaries/20260519/session-summary.md
-    scene_extractions_dir: /home/kroussos/campaigns/Phandalin/summaries/20260519/scene_extractions_new
-    narration_dir: /home/kroussos/campaigns/Phandalin/summaries/20260519/narration
+    session_summary: /home/kroussos/campaigns/Phandalin/summaries/20260526/session-summary.md
+    scene_extractions_dir: /home/kroussos/campaigns/Phandalin/summaries/20260526/scene_extractions_new
+    narration_dir: /home/kroussos/campaigns/Phandalin/summaries/20260526/narration
     party: /home/kroussos/campaigns/Phandalin/docs/party.md
     voice_dir: /home/kroussos/campaigns/Phandalin/voice
     examples_dir: /home/kroussos/campaigns/Phandalin/examples
@@ -48,7 +48,7 @@ ui:
     world_state: docs/world_state.md
     work_dir: /home/kroussos/campaigns/Phandalin
   vtt_summary:
-    input: GMT20260520-035018_Recording.transcript.cleaned.vtt
+    input: GMT20260527-034844_Recording.transcript.cleaned.vtt
     output: session-summary.md
     context:
     - /home/kroussos/campaigns/Phandalin/docs/campaign_state.md
@@ -287,7 +287,7 @@ ui:
       party: /home/kroussos/campaigns/Phandalin/docs/party.md
 runtime:
   default_model: claude-sonnet-4-6
-  session_dir: /home/kroussos/campaigns/Phandalin/summaries/20260519
+  session_dir: /home/kroussos/campaigns/Phandalin/summaries/20260526
 legacy:
   unmigrated:
     nav_session: ③ Scene Extraction

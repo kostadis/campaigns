@@ -1,156 +1,115 @@
 # campaign_state.md
 
----
-
 ## Completed Encounters & Quests
+*(Most recent last)*
 
-- **Dwarven Excavation Quest — warn dwarves of dragon** | Success. Warning delivered to Dazlyn Grayshard and Norbus Ironrune. 50 gp reward collected from Harbin Wester.
-- **Dwarven Excavation — orc attack (area E1)** | All orcs defeated. Dwarves survived; cooked a meal for the party. Orc gear sold to Linene Graywind.
-- **Frozen ogre encounter (en route to Gnomengarde, first ogre)** | Ogre killed by party (Brewbarry final blow). Magical bullets recovered by Soma.
-- **Frozen ogre encounter (valley approach to Gnomengarde, second ogre)** | Ogre fled and was killed by Vukradin. Looted: whistle, coins, key.
-- **Gnomengarde — gnome guard post encounter (area G9)** | Resolved without violence. Pog and Ulla granted party entry after debate.
-- **Gnomengarde — spinning blades trap (area G10)** | Avoided on first pass (Ulla warned party); disabled by party on return trip.
-- **Gnomengarde — Facktoré and autoloading crossbow encounter (area G7)** | Device disabled; Facktoré fled; party chose not to kill him.
-- **Gnomengarde — mimic encounter (mystery monster)** | Mimic defeated; Soma delivered killing blow. Proof delivered to Fibblestib and Dabbledob.
-- **Gnomengarde — King Korboz madness — first contact / resolved** | Korboz recovered after mimic's death; re-engaged in dual monarchy. Vukradin's political needling set kings arguing over seniority.
-- **Gnomengarde — King Gnerkli rescue** | Gnerkli freed from effective leadership paralysis; rewarded party with Hat of Wizardry.
-- **Gnomengarde Quest — obtain magic item(s) from gnomes** | Success. Hat of Wizardry received. 50 gp reward paid by Harbin Wester (split four ways).
-- **Bandit ambush en route to Umbrage Hill** | Bandits defeated. One beheaded, one killed, one fled (spider fear), one (Corbin) surrendered and joined party. Druidic scroll recovered. Intelligence on "the Carver" and lieutenant "Jax" obtained.
-- **Umbrage Hill — manticore encounter at windmill** | Manticore killed by Brewbarry. Adabra Gwynn unharmed inside.
-- **Umbrage Hill — Adabra Gwynn first contact** | Adabra initially refused to leave; agreed to accompany party after Soma's Emerald Enclave connection revealed.
-- **Umbrage Hill Quest — urge Adabra Gwynn to return to Phandalin** | Success. Adabra returned with party; personally advocated for their payment. No coin paid; Harbin gave free room and board instead.
-- **Adabra Gwynn — safety confirmed / note delivered to Harbin Wester** | Adabra present and safe; Harbin acknowledged quest completion.
-- **Roadside rescue of Elara and Jarek** | Success. Cart repaired, horse retrieved, escort completed. Monetary reward received.
-- **Orc ambush in coastal gully (en route to Tower of Storms)** | Success. Orcs displayed unusual tactical discipline; orc shaman shapeshifted to boar mid-combat. Party prevailed.
-- **Tower of Storms — giant crab first contact** | Crab present; expressed gratitude after sharks were defeated; acknowledged +1 halberd as the treasure it intended to give the party.
-- **Tower of Storms — harpy encounter (area T5)** | All three harpies defeated. Vukradin's Silence neutralized their charming songs. Potion of water breathing found in nest.
-- **Tower of Storms — Moesko the anchorite encounter (area T7)** | Moesko killed; Soma delivered final blow. Opalescent conch recovered.
-- **Tower of Storms — Moesko's heart destruction (area T9)** | Vukradin destroyed the lightning rod and Moesko's still-beating heart. Corrupted green beacon extinguished.
-- **Tower of Storms — Daggermaw hunter shark encounter** | Sharks defeated/slept. Shark meat harvested. Giant crab grateful.
-- **Tower of Storms — shipwreck exploration (areas T10–T14)** | Success. +1 halberd, three locked chests, blue quartz mermaid statue, spellbook, Wand of Secrets recovered.
-- **Tower of Storms — banshee Miraal encounter (area T1)** | Opalescent conch returned; Miraal's spirit laid to rest. She warned of a psionic/alien entity manipulating Moesko and a deep threat beneath Leilon.
-- **Moesko — death confirmed** | Dead (defeated in T7; heart destroyed in T9).
-- **Miraal banshee — spirit laid to rest** | Confirmed.
-- **Charm of the Storm — bestowed on a character (area T4 altar)** | NOT FOUND IN SUMMARIES — stone altar with lightning bolts observed, but no charm bestowed is recorded. GM should verify manually.
-- **Whispering Wood — bramble thicket combat** | Brewbarry and Soma destroyed/incapacitated the thicket. Confirmed as planar leakage effect.
-- **Whispering Wood — glowing-eyed wolves combat** | Creatures defeated. Dire wolf pelts harvested (potentially valuable due to planar contamination).
-- **Whispering Wood — corrupted treant encounter** | Treant killed by Soma and Enclave Warrior. Ritual to seal planar rift attempted but failed (3 successes, 3 failures). Rift expanded. A phased extraplanar puppet-creature emerged and harvested from the treant's corpse.
-- **Adabra Gwynn — ideological confrontation** | Adabra revealed as deliberate saboteur of the ritual. Vukradin de-escalated confrontation with Lyra; Adabra paid Vukradin 5 gp and departed believing the party had not fully sided against her. Thread temporarily neutralized.
-- **Emerald Enclave internal conflict — context revealed** | Thomas and Marian disclosed that Lyra acted independently; the Enclave has been paralyzed by the naturalist/interventionist schism.
-- **Temple of Lathander's Searing Pain of Justice — founded** | Tresendar Manor converted to temple. Brin Bundlewine and Giles Slipper-Shine are founding congregation. Harbin Wester arranged paperwork (private deal, 50 gp fee). Renovation contracted for 25 gp materials.
-- **Talisman of Moesko — sold** | Sold to Sridar (drow artifact collector at Falcon's Hunting Lodge) for 100 gp. No longer in party possession.
-- **Locutus eliminated** | Sister Kayla killed Locutus (orc intermediary) during meeting with Valphine. Plot to frame party for Alfonse Kalazorn's death collapsed.
-- **Cryovain — Phandalin flyover repelled** | Cryovain dove on town meeting; Vukradin used Phantasmal Force to deceive it; dragon fled. Not defeated at this point.
-- **Butterskull Ranch — orc occupation of farmhouse** | Orc occupation had already been displaced by Borg the Hammer's Rot-Tusk Ogre force before party arrived.
-- **Butterskull Ranch — Alfonse Kalazorn rescue from cellar (area B10)** | Success. Vukradin located and freed Big Al; alive and coherent. Mithril chainmail received as reward for recovering Petunia.
-- **Butterskull Ranch — Petunia the cow recovery** | Success. Soma used Speak with Animals to locate Petunia. Big Al later carried Petunia to Qelline Alderleaf's farm to apologize and arrange grazing.
-- **Butterskull Ranch Quest — rescue Alfonse Kalazorn / address orc attack** | Partial success. Big Al and Petunia secured. Farm burned to the ground by Borg the Hammer in rage. Borg fled.
-- **Alfonse Kalazorn — rescue confirmed** | Alive; subsequently present in Phandalin; revealed as former Sheriff of Triboar.
-- **Alfonse Kalazorn — death** | NOT FOUND IN SUMMARIES. Big Al survived.
-- **Borg the Hammer — Carver plot collapsed** | Borg's ambush trap failed; he executed a bandit and fled. Rot-Tusk Ogres dispersed in a different direction. Sister Kayla subsequently killed Locutus and broke with the Carver.
-- **Cryovain flyover at Phandalin** | Dragon repelled by Vukradin's Phantasmal Force. Harbin used the event to justify forming the Privy Council.
-- **Phandalin Privy Council established** | Membership: Harbin Wester, Toblen Stonehill, Elmar Barthen, Halia Thornton, Linene Graywind, Adabra Gwynn, Vukradin. Governance reformed; Harbin no longer sole authority.
-- **Loggers' Camp — anchorite of Talos boar encounter en route** | NOT FOUND IN SUMMARIES. Party encountered an orc raiding party ambush instead; no anchorite boar encounter recorded. GM should verify.
-- **Loggers' Camp — totem discovery (area L2)** | NOT FOUND IN SUMMARIES. No totem discovered in session notes. GM should verify.
-- **Loggers' Camp — ankheg encounters** | NOT FOUND IN SUMMARIES. No ankhegs recorded. GM should verify.
-- **Loggers' Camp — Tibor Wester rescue from office (area L3)** | NOT FOUND IN SUMMARIES in the canonical form. Tibor Wester was located at the camp (deserted on arrival); he was found, refused to take prisoner Shrimpy to Neverwinter, and signed off on the delivery. No rescue from an office is recorded. GM should verify.
-- **Loggers' Camp Quest — deliver supplies, obtain Tibor Wester's signature** | Success. Supplies delivered by ox-cart (ox: Vincent). Tibor located and functional. Quest complete; 50 gp reward implied.
-- **Tibor Wester — delivery signed** | Confirmed complete.
-- **Orc raiding party ambush en route to Loggers' Camp** | Two orcs killed, one ("Shrimpy") captured and used as draft labor, one scout fled.
-- **Emerald Enclave patrol rescue (Kraken Society Cult Fanatic)** | All patrol members freed when Cult Fanatic was executed by Valphine. Fanatic interrogated then decapitated. Talosian orc ambush negotiated peacefully.
-- **Mountain's Toe Quest — escort Don-Jon Raskin to gold mine** | Don-Jon escorted to the mine but subsequently killed by the Stonetallow dwarves after revealing he intended to cheat them. He did not survive; safe delivery was not fully achieved.
-- **Don-Jon Raskin — safe delivery to Mountain's Toe mine** | Failed. Don-Jon was killed by the dwarves; body eaten by carrion crawler.
-- **Don-Jon Raskin — transformation into wererat (if not prevented)** | N/A. Don-Jon was killed before any transformation could occur.
-- **Mountain's Toe Gold Mine — Whiskered Gang wererats encounter** | Resolved via negotiation. Zeleen Varnaster agreed to provide free mine protection; party received Don-Jon's ownership share in exchange for clearing the carrion crawler.
-- **Mountain's Toe Gold Mine — Zeleen Varnaster first contact** | Negotiated. Zeleen evasive about Don-Jon's true fate. Accepted cheese deal. Mine operational agreement reached.
-- **Mountain's Toe Gold Mine — dwarf miners discovery (areas M14–M15)** | Five Stonetallow dwarves led by Horia found deeper in the mine. Formal three-way agreement (party/wererats/dwarves) reached. ~100 gp/week income expected.
-- **Mountain's Toe Gold Mine — carrion crawler encounter (area M11)** | Resolved peacefully. Soma persuaded it to leave. Darkvision goggles and Don-Jon's chain recovered from its lair.
-- **Shrine of Savras — orc and ogre occupation** | Zeleen Varnaster confirmed ~16 orcs and several ogres occupied the Shrine of Savras, displacing the Whiskered Gang. Party took no action against them at the time.
-- **Shrine of Savras — altar of fate vision event (area S10)** | NOT FOUND IN SUMMARIES. No altar vision recorded. GM should verify.
-- **Shrine of Savras — gold bell discovery (area S7)** | NOT FOUND IN SUMMARIES. GM should verify.
-- **Shrine of Savras altar vision — Icespire Hold revealed** | NOT FOUND IN SUMMARIES as a distinct event. Icespire Hold's location was revealed through Sister Kaella's interrogation, not a Shrine vision. GM should verify.
-- **Captured orc interrogation — Icespire Hold location revealed** | Partially fulfilled by Sister Kaella's confession (not an orc), which confirmed the Carver was marching on Icespire Hold and that Cryovain was there. Shrimpy earlier confirmed orc displacement from near Icespire. Full explicit naming via a formal orc interrogation is NOT FOUND IN SUMMARIES as a separate event.
-- **Axeholm Quest — open fortress and clear monsters for habitation** | Success. Axeholm fully cleared. Harbin Wester paid 250 gp reward. Confirmed as last-resort refuge, not permanent town relocation.
-- **Axeholm — ghoul infestation (castellan ghoul, dwarf ghouls)** | The infestation was presented as "out-of-phase dwarves" (reskinned/modified version). Mustering hall remnants, grand pillared hall contingent, and the Dwarven King (apparent boss) all defeated. One lesser dwarf fled up a fireplace after being turned; not confirmed recaptured. Chief of the infestation destroyed.
-- **Axeholm — stirge encounter (areas A9, A28)** | NOT FOUND IN SUMMARIES. GM should verify.
-- **Axeholm — giant spider infestation (area A22)** | The "giant spiders" in Axeholm were presented as spectral static-spiders guarding the planar machine (Aletra's Rift Weavers). All six defeated. May or may not correspond to the canonical spider infestation. GM should verify.
-- **Axeholm — banshee Vyldara encounter** | NOT FOUND IN SUMMARIES. No banshee Vyldara recorded at Axeholm. GM should verify.
-- **Axeholm — secret vault (area A29) discovery** | Success. Hidden room found behind fireplace secret door; iron chest opened; dread helm and gauntlets of ogre power recovered. Also four vials of Midnight Tears poison found in Aletra's hidden bag.
-- **Axeholm — Aletra (Valphine's drow sister) encounter** | Aletra escaped through a self-generated portal after Valphine's blinding curse. Several vials of interdimensional poison fumbled and recovered by party. Aletra at large; answers to an unnamed boss.
-- **Axeholm — Rift Weaver / planar machine encounter** | All Rift Weavers defeated. Valphine entered override code before catastrophic failure; machine collapsed and vanished back to its home dimension.
-- **Axeholm — Chief Accountant ghost** | Spirit put to rest after all accounts were settled (interplanetary bill presented, ledger closed). Declared "The book is closed" and disappeared permanently.
-- **Dragon Barrow Quest — retrieve Lady Alagondar's dragon slayer sword** | Success. Dragon Slayer Sword retrieved from atop a dragon skull in the northern chamber. Brewbarry carries it.
-- **Dragon Barrow — will-o'-wisp encounter (area D2)** | All will-o'-wisps destroyed across multiple encounters throughout the barrow.
-- **Dragon Barrow — pit trap encounters (area D3)** | Triggered multiple times. Brewbarry fell in (12 dmg); Vukradin fell in (19 dmg, broke Silence). Party survived all.
-- **Dragon Barrow — skeletal horse encounter (area D4)** | Non-combat resolution. Horse convinced Soma is Lady Alagondar reincarnated; renamed Boney; became party ally/companion.
-- **Dragon Barrow — narrow tunnel collapse trap (area D5)** | Triggered by Vukradin; Soma excavated all party members with Mould Earth. Party proceeded.
-- **Dragon Barrow — false tomb acid trap (area D6)** | Two acid-dust sarcophagi in eastern passage triggered; both empty. Brewbarry took 14 acid damage (reduced to 3 via Stone Endurance).
-- **Dragon Barrow — dragon slayer sword and invisible stalker encounter (area D8)** | Sword retrieved by Valphine. Invisible stalker ambushed party; destroyed via Moonbeam, Cloud of Daggers, and melee. Brewbarry now carries the Dragon Slayer Sword.
-- **Dragon slayer longsword — retrieved from Dragon Barrow** | Confirmed. Brewbarry carries it and is actively using it.
-- **Ambush by Jax and Carver's agents (Dragon Barrow clearing)** | Jax, a Rot-Tusk Ogre, and thugs defeated. Jax dead. Rot-Tusk Ogre dead. One thug fled. Carver's field agent network effectively destroyed.
-- **Jax — eliminated** | Dead. Last of the Carver's named field lieutenants.
-- **Circle of Thunder — Yargath's patrol encounter en route** | Success. Anchorite of Talos patrol leader killed by Brewbarry. Multiple orcs killed, most fled, one (Prutha) converted to Lathander, one rendered unconscious.
-- **Circle of Thunder — tree trap encounter en route** | Voodoo doll tree encountered in a forest clearing. All 10 dolls destroyed by Vukradin. Root trap triggered, restraining Soma and Boney; Soma used Wild Shape to break free. Clearing's wrongness dissipated.
-- **Circle of Thunder — henge encounter (Flenz and Narux anchorites)** | Both anchorites killed before summoning ritual completed. Twig blights destroyed. Storm clouds dispersed. Site confirmed cleared.
-- **Circle of Thunder — Gorthok the Thunder Boar summoning/encounter** | Gorthok was never summoned at the henge — ritual was stopped by killing the anchorites. First direct encounter with Gorthok is at Falcon's Hunting Lodge siege (see Active section).
-- **Grannoc — death / map to Circle of Thunder obtained** | Grannoc is alive at the Woodland Manse. A map fragment from Narux's cave pointed to the Manse. Xanth guided party to Circle of Thunder; no map from Grannoc. NOT YET COMPLETED.
-- **Xanth the centaur — first contact near Dragon Barrow** | First contact occurred near the Dragon Barrow clearing (confirmed in Chapter 32/33 sessions). Xanth was wounded after battle; healed by Soma.
-- **Xanth the centaur — offer to guide to Circle of Thunder** | Offer made and fulfilled. Xanth guided party to the Circle of Thunder and departed at the treeline in Chapter 39. Now separated from party.
-- **Cryovain — first sighting or encounter at a non-lair location** | Cryovain dove on Phandalin during a town meeting (Chapter 17); Vukradin repelled it with Phantasmal Force. Also confirmed active near Mountain's Toe via six orcs found dead from extreme cold.
-- **Cryovain — retreat to Icespire Hold (10+ HP lost in battle)** | NOT FOUND IN SUMMARIES as a separate retreat event. Not applicable — the Phandalin flyover did not involve HP loss; the final encounter at Icespire Hold was fatal.
-- **Icespire Hold — frozen ogre encounter en route** | NOT FOUND IN SUMMARIES for the Icespire Hold approach specifically. (A frozen ogre was killed earlier en route to Gnomengarde.) GM should verify.
-- **Icespire Hold — stirge encounter (area H12)** | NOT FOUND IN SUMMARIES. GM should verify.
-- **Icespire Hold — Stone-Cold Reavers encounter** | Sylvine Wintermoon and her sister Runa arrived claiming the dragon hoard. Vukradin refused; Sylvine escalated to combat. Two veterans killed while paralyzed; one fled; Sylvine and Runa's personal fates unspecified but skirmish resolved. Party holds the fortress.
-- **Stone-Cold Reavers — Syleen Wintermoon encounter outcome** | Defeated in combat. Fraudulent claim rejected.
-- **Stone-Cold Reavers — truce or defeat** | Defeat. No truce offered or accepted.
-- **Cryovain the white dragon — defeated or driven from territory** | Defeated. Killed on the rooftop of Icespire Hold (area H20). Carver's essence dissipated simultaneously. Body harvested (breath pouch, scales, claw). Phandalin celebrated with a festival.
-- **Cryovain encounter — Icespire Hold (H20 rooftop)** | Completed. Cryovain was partially dominated by the Carver-sword when party arrived. Combat on battlements; final blow by Valphine (Sacred Flame, 3 damage). Dragon confirmed dead.
-- **The Carver — destroyed** | The obsidian sword (the true Carver) was the intelligence; its human vessel was a conduit. When Cryovain died, the Carver's essence dissipated entirely — unmade, not fled.
-- **Dragon's Location table — first roll (characters leave Phandalin)** | NOT FOUND IN SUMMARIES. No explicit table roll recorded. GM should verify.
-- **Tymora's Luck hook — Dobin Noreth leads party to Icespire Hold** | NOT FOUND IN SUMMARIES. Dobin Noreth does not appear in the session notes. GM should verify.
-- **Dobin Noreth — encounter at Phandalin** | NOT FOUND IN SUMMARIES. GM should verify.
-- **Emerald Enclave Council — Lyra's ostracization hearing** | Resolved in favor of Soma and Lyra. Council moderates sided with them. Adabra's case ruled invalid. Lyra restored to full good standing. Adabra departed seething but outvoted.
-- **Gulthias tree — destruction or survival** | The treant at the Whispering Wood is confirmed dead (Adabra personally verified: "Roots collapsed. Crown black. The grove ruined around it"). This is the closest equivalent to the Gulthias tree / vine blight encounter recorded in the notes.
-- **Woodland Manse — anchorite boars encounter (area W1)** | One Anchorite of Talos confirmed and exposed (Brewbarry's Moonbeam). Anchorite cast Lightning bolt hitting party; party retreated. Combat was not fully resolved before tactical retreat.
-- **Woodland Manse — leaving the manse ambush event** | Party was attacked during retreat by shapeshifting anchorites wielding lightning. Successfully disengaged. Manse remains in enemy hands.
-- **Woodland Manse Quest — eradicate evil at the manse** | INCOMPLETE. Party attempted the manse once and was driven back (tactical retreat). Confirmed as the next active Talosian summoning site per intelligence recovered at Circle of Thunder.
-- **Falcon the Hunter — first contact (Falcon's Hunting Lodge)** | Confirmed. Party met Falcon at his hunting lodge en route to Loggers' Camp. Falcon's dragonslayer persona confirmed as deliberate fiction.
-- **Falcon the Hunter — Woodland Manse quest offer** | Offered and accepted. Party has not yet successfully completed it; quest remains active.
-- **Falcon the Hunter — lodge lost to orc counterattack** | Confirmed. Orcs and ogres (Anchorites of Talos) took over Falcon's Hunting Lodge. Falcon abandoned it and traveled to Phandalin. A companion of Falcon's was killed. Status: lodge gate has been destroyed in the current siege; outcome of siege still in progress.
-- **Falcon the Hunter — Woodland Manse quest offer (counterattack)** | Gorthok the Thunder Boar — counterattack on Falcon's Hunting Lodge: ACTIVE. Siege is in progress at chapter end. Gate destroyed by directed lightning bolt; Gorthok and Anchorite forces entering courtyard.
-- **Totem at Loggers' Camp — destroyed (ankhegs depart)** | NOT FOUND IN SUMMARIES. No totem destruction or ankhegs recorded. GM should verify.
-- **Moesko's heart — destroyed (beacon extinguished)** | Confirmed completed (Tower of Storms, area T9).
-- **Dazlyn Grayshard and Norbus Ironrune — sending stones reward given** | NOT FOUND IN SUMMARIES as a confirmed transfer. Sending stones were offered as a reward; final delivery not explicitly confirmed. GM should verify.
-- **Sister Garaele — return to Phandalin** | NOT FOUND IN SUMMARIES. Sister Garaele does not appear in session notes. GM should verify.
-- **Halia Thornton — first contact (Phandalin Miner's Exchange)** | Named as present at Phandalin town meeting/Privy Council formation. No formal "first contact" scene recorded. Carry forward as established NPC.
-- **Elmar Barthen — first contact (Barthen's Provisions)** | Named as present at Phandalin town meeting/Privy Council formation. Provided letter of introduction to Falcon the Hunter. Established NPC.
-- **Adventure conclusion — Cryovain defeated / all quests resolved** | Cryovain is confirmed defeated. Not all quests are resolved — Woodland Manse, Falcon's Lodge siege, and post-campaign threads remain active.
+- **Dwarven Excavation — Orc Attack (area E1):** All orcs defeated; dwarves survived and cooked party a meal. Orc weapons looted and sold.
+- **Dwarven Excavation Quest — Warn Dwarves of Dragon:** Warning delivered to Dazlyn Grayshard and Norbus Ironrune. 50 gp reward collected from Harbin Wester.
+- **Frozen Ogre Encounter (en route to Gnomengarde, first ogre):** Ogre killed by party. Soma retrieved magical bullets from corpse.
+- **Ogre Encounter (en route to Gnomengarde, second ogre):** Ogre fled and was killed by Vukradin. Whistle, coins, and key looted.
+- **Gnomengarde — Guard Post (area G9):** Gnomes Pog and Ulla granted party entry after debate. No violence.
+- **Gnomengarde — Spinning Blades Trap (area G10):** Avoided on first approach (Ulla warned party); disabled on return trip.
+- **Gnomengarde — Facktoré and Autoloading Crossbow (area G7):** Device disabled; Facktoré fled; party chose not to kill him.
+- **Gnomengarde — Mimic Encounter (mystery monster):** Mimic defeated; Soma delivered killing blow. Proof delivered to inventors Fibblestib and Dabbledob.
+- **Gnomengarde — King Gnerkli Freed / King Korboz Madness Resolved:** Mimic's death resolved the crisis. Both kings functional; Vukradin's political needling set them arguing over seniority. Party received Hat of Wizardry as reward.
+- **Gnomengarde Quest — Complete:** 50 gp reward paid by Harbin Wester (split four ways).
+- **Bandit Encounter en route to Umbrage Hill:** Bandits defeated; one (Corbin) surrendered and joined party as retainer. Druidic scroll recovered. Intelligence on criminal boss "the Carver" and lieutenant "Jax" obtained.
+- **Umbrage Hill — Manticore Encounter at Windmill:** Manticore killed by Brewbarry. Adabra Gwynn safe inside.
+- **Umbrage Hill Quest — Adabra Gwynn Safety Confirmed / Note Delivered:** Adabra returned to Phandalin with party and personally confronted Harbin Wester. Compensation: free room and board at Stonehill Inn (no coin).
+- **Roadside Rescue of Elara and Jarek:** Cart repaired, horse retrieved, pair escorted safely to Phandalin. Monetary reward received.
+- **Orc Ambush in Coastal Gully (en route to Tower of Storms):** Party flanked ambushers; orc shaman shape-shifted into boar mid-combat. Party prevailed.
+- **Tower of Storms — Harpy Encounter (area T5):** All three harpies defeated. Vukradin's Silence neutralized charming songs. Potion of Water Breathing found.
+- **Tower of Storms — Moesko the Anchorite Encounter (area T7):** Moesko killed; Soma delivered final blow. Opalescent conch recovered.
+- **Tower of Storms — Moesko's Heart Destruction (area T9):** Vukradin destroyed the heart; corrupted green beacon extinguished. Tower's curse ended.
+- **Tower of Storms — Daggermaw Hunter Shark Encounter:** Sharks defeated/neutralized; shark meat harvested. Giant crab expressed gratitude.
+- **Tower of Storms — Shipwreck Exploration (areas T10–T14):** Three chests and +1 halberd (from skeletal captain of *Star Crossed Lover*) recovered. Other ships: *Sea Urchin*, *Golden Gull*, *Orca*, *Vainglory* looted.
+- **Tower of Storms — Giant Crab First Contact:** Grateful; acknowledged +1 halberd as intended reward for the party.
+- **Tower of Storms — Banshee Miraal Encounter (area T1):** Opalescent conch returned; Miraal's spirit laid to rest. Miraal warned of a deeper psionic/alien threat beneath Leilon before departing.
+- **Bramble Thicket Combat (Whispering Wood):** Destroyed or incapacitated by Brewbarry and Soma. Path cleared; confirmed as planar leakage effect.
+- **Glowing-Eyed Wolves Combat (Whispering Wood):** Wolves defeated. Dire wolf pelts harvested (potentially valuable due to planar contamination).
+- **Whispering Grove — Corrupted Treant Encounter:** Treant defeated. Ritual to seal planar rift attempted but failed (3 successes, 3 failures). Rift worsened; a phased extraplanar puppet creature emerged and harvested from the treant's corpse. Rift remains open (post-ritual failure consequence — not an active quest site the party is returning to; later confirmed dead by Adabra and the Druid Enclave).
+- **Adabra Gwynn — Ideological Confrontation (Chapter 12):** Party confronted Adabra over her manipulation regarding the Whispering Grove ritual. Vukradin de-escalated; Adabra paid 5 gp and departed believing the party had not fully sided against her. Thread temporarily neutralized.
+- **Pelts Sold to Lionshield Coster:** Planar-origin dire wolf pelts sold; Linene paid premium and expressed interest in planar goods for her superiors.
+- **Temple of Lathander's Searing Pain of Justice — Founded:** Tresendar Manor converted to temple. Paperwork arranged by Harbin Wester for 50 gp; renovated by Brin Bundlewine and Giles Slipper-Shine (25 gp materials, labor free).
+- **Talisman of Moesko — Sold:** Sold to Sridar (drow artifact collector at Falcon's Hunting Lodge) for 100 gp plus three bottles of wine for Brewbarry.
+- **Butterskull Ranch — Alfonse Kalazorn Rescue from Cellar (area B10):** Vukradin freed Big Al; alive and coherent.
+- **Butterskull Ranch — Petunia the Cow Recovery:** Soma used Speak with Animals to locate and identify Petunia. Cow secured; grazing arrangement negotiated with Qelline Alderleaf (Big Al visited personally to apologize; 5 sp/week rate established). Cheese supply from Petunia feeds the wererat deal at Mountain's Toe.
+- **Butterskull Ranch — Orc Occupation:** Orc occupation had already been displaced by Borg the Hammer's Rot-Tusk Ogre force before party arrived; farm subsequently burned by Borg after his ambush failed.
+- **Butterskull Ranch Quest — Rescue Alfonse Kalazorn / Address Orc Attack:** Partial success. Big Al and Petunia secured. Farm destroyed by Borg. Mithril chainmail received as reward.
+- **Carver Ambush at Butterskull Ranch — Borg's Plot Collapsed:** Borg fled; Locutus (orc intermediary) killed by Sister Kayla. Plot to frame party for killing Big Al definitively failed.
+- **Locutus Eliminated:** Killed by Sister Kayla during a secret meeting with Valphine. Carver's scheme through Locutus and Borg broken.
+- **Cryovain Phandalin Flyover:** Cryovain dove on the town meeting. Vukradin used Phantasmal Force to deceive the dragon into believing it had seized prey; Cryovain fled. Not defeated — merely temporarily repelled.
+- **Phandalin Privy Council — Established:** Harbin Wester agreed to form a council including himself, Toblen, Elmar Barthen, Halia Thornton, Linene Graywind, Adabra, and Vukradin.
+- **Emerald Enclave Patrol Rescue (Kraken Society Cult Fanatic):** Cult Fanatic neutralized (knocked unconscious, interrogated, handed to Talosian orcs, executed by Valphine). All mind-controlled Enclave members freed. Credit for rescue given to Lyra.
+- **Kraken Society Cult Fanatic's Mind-Control Operation — Closed:** Fanatic dead; controlled members freed.
+- **Mountain's Toe Gold Mine — Whiskered Gang Wererats Encounter / Zeleen Varnaster First Contact:** Negotiated deal: wererats protect mine and work it; receive cheese from Petunia/Butterskull Ranch. Zeleen assessed as likely deceptive.
+- **Mountain's Toe Gold Mine — Don-Jon Raskin Escort:** Don-Jon killed by dwarves (Stonetallow clan) after revealing plan to cheat them. Carrion crawler fed on his corpse afterward. Safe delivery failed.
+- **Mountain's Toe Gold Mine — Carrion Crawler (area M11):** Soma persuaded it to leave peacefully. Darkvision goggles and Don-Jon's chain recovered from its lair.
+- **Mountain's Toe Gold Mine — Dwarf Miners (areas M14–M15) / Wererats/Dwarves Agreement:** Formal agreement reached: Stonetallow dwarves mine, Whiskered Gang wererats protect. ~100 gp/week expected. Party holds Don-Jon's share of the mine.
+- **Mountain's Toe Gold Mine — Orc and Ogre Attack (area M1/exterior):** Waves of orcs and ogres defeated. Alchemist's fire, coins, gems, and Talos symbol looted.
+- **Shrimpy (captured orc) — Delivered to Harbin Wester:** In custody in Phandalin.
+- **Axeholm Quest — Open Fortress and Clear Monsters for Habitation:** Success. Out-of-phase dwarves (ghoul-equivalents) cleared across all floors; corrupted three-headed Dwarven King defeated; planar machine (root cause of distortions) destroyed; Chief Accountant's ghost laid to rest; Aletra's forgery operation documented; fortress secured. Harbin Wester paid 250 gp reward. Confirmed as last-resort backup refuge, not town relocation site.
+- **Axeholm — Ghoul Infestation (Castellan Ghoul / Dwarf Ghouls):** Out-of-phase dwarves defeated throughout fortress; Dwarven King (boss) killed by Soma; one lesser dwarf fled up fireplace but fortress cleared.
+- **Axeholm — Giant Spider Infestation / Stirge Encounters:** NOT FOUND IN SUMMARIES — not mentioned in any session notes; GM should verify.
+- **Axeholm — Secret Vault (area A29):** Hidden room found behind fireplace secret door; iron chest smashed by Brewbarry; dread helm and gauntlets of ogre power recovered.
+- **Axeholm — Banshee Vyldara Encounter:** NOT FOUND IN SUMMARIES — not mentioned in any session notes; GM should verify.
+- **Axeholm — Chief Accountant Ghost Resolution:** Spirit laid to rest after interplanetary bill presented and accounts settled. Declared "The book is closed" and vanished peacefully.
+- **Axeholm — Audit Drone Encounter (Secret Room Behind Fireplace):** Four steampunk audit drones defeated; one captured by Valphine; secret chest discovered.
+- **Rift Weaver Battle (Planar Machine Room) / Machine Shutdown:** All six Rift Weavers defeated; Valphine entered shutdown code; machine folded in on itself and vanished. Spatial anomalies at Axeholm resolved.
+- **Dragon Barrow — Will-O'-Wisp Encounter (area D2):** All will-o'-wisps destroyed across multiple engagements. Valphine turned one; Soma's Moonbeam destroyed one; Brewbarry killed one; a third from a sarcophagus also eliminated.
+- **Dragon Barrow — Pit Trap Encounters (area D3):** Triggered multiple times. Brewbarry fell in (12 damage); Vukradin fell in (19 damage, broke Silence). Brewbarry later deliberately triggered one. Party survived all.
+- **Dragon Barrow — Skeletal Horse Encounter (area D4):** Resolved non-violently. Horse (Boney) convinced Soma is Lady Alagondar reincarnated; became party companion.
+- **Dragon Barrow — Narrow Tunnel Collapse Trap (area D5):** Vukradin triggered pressure plate; Soma excavated all party members with Mould Earth. Party proceeded.
+- **Dragon Barrow — False Tomb Acid Trap (area D6):** Two acid-dust sarcophagi encountered in eastern passage; both triggered; both empty. Brewbarry took 14 acid damage (reduced to 3 via Stone Endurance).
+- **Dragon Barrow — Dragon Slayer Sword and Invisible Stalker Encounter (area D8):** Invisible stalker defeated (Moonbeam, Cloud of Daggers, melee). Dragon Slayer Sword retrieved by Valphine; Brewbarry took possession. Lady Alagondar's ghost appeared silently, pointed toward Ice Spire Mountains, and faded.
+- **Dragon Barrow Quest — Retrieve Lady Alagondar's Dragon Slayer Sword:** Complete. Dragon Slayer Sword in Brewbarry's possession.
+- **Ambush by Jax and Carver's Agents (Dragon Barrow Clearing):** Jax killed; Rot-Tusk Ogre killed; most thugs killed; one fled. Carver's field agent network effectively dismantled.
+- **Jax — Eliminated:** Last of the Carver's named field agents, killed in Dragon Barrow clearing ambush.
+- **Icespire Hold — Rockslide Obstacle / Exterior Bypass:** Soma climbed icy cliff in giant wolf spider form and dropped rope; party entered through side approach over bridge.
+- **Icespire Hold — Stone-Cold Reavers (Sylvine Wintermoon) Encounter:** Sylvine and sister Runa arrived posing as rightful claimants to dragon hoard. Vukradin refused; combat ensued. Two veterans killed while paralyzed (Hold Person). One veteran fled voluntarily. Sylvine and Runa's personal fates not explicitly stated but skirmish resolved; party holds treasure.
+- **Icespire Hold — Stirge Encounter (area H12):** NOT FOUND IN SUMMARIES — not mentioned in any session notes; GM should verify.
+- **Icespire Hold — Frozen Ogre Encounter en route:** NOT FOUND IN SUMMARIES — a frozen ogre en route to Gnomengarde was encountered early in the campaign; no frozen ogre specifically en route to Icespire Hold is recorded. GM should verify.
+- **Cryovain the White Dragon — Defeated (Icespire Hold, H20 Rooftop):** Cryovain killed on the rooftop battlements. Partially dominated by the Carver via obsidian sword in a summoning circle; the Carver's essence dissipated simultaneously with the dragon's death. Final blow by Valphine (Sacred Flame, 3 damage). Body harvested: breath pouch, scales, claw. Phandalin celebrated with a festival. Dragon threat to the region ended.
+- **The Carver — Destroyed:** Alien intelligence operating through the obsidian sword dissipated entirely when Cryovain died. Domination ritual never completed.
+- **Emerald Enclave Council — Lyra's Ostracization Hearing:** Council voted in favor of Soma and Lyra. Adabra's case rejected; Lyra restored to full good standing. Presiding druid endorsed interventionism as legitimate druidic practice. Adabra left seething but outvoted.
+- **Corbin's Death — Confirmed:** Killed while guarding Sister Kaella. Sister Kaella escaped. Reported to Druid Council by Xanth.
+- **Adabra's Financial Grievance — Closed:** Vukradin sent six gold pieces (five principal + one interest) by post to Adabra, closing the debt on record after her faction lost the Enclave proceeding.
+- **Wildcat Loggers Encounter (en route to Circle of Thunder):** Vukradin's speech persuaded loggers to set down axes and agree to report Tibor Wester's unlicensed wildcat logging operation to Neverwinter authorities. Resolved peacefully.
+- **Cursed Clearing — Voodoo Doll Tree Encounter:** All 10 voodoo dolls destroyed by Vukradin; root trap triggered and escaped; clearing's wrongness dissipated.
+- **Circle of Thunder — Yargath's Patrol Encounter en Route:** Anchorite of Talos patrol leader killed by Brewbarry. Multiple orcs killed or fled. One orc (Prutha) converted to Lathander and joined party. One orc rendered unconscious.
+- **Circle of Thunder — Henge Encounter (Flenz and Narux Anchorites):** Both anchorites killed before summoning ritual completed. Twig blights destroyed. Storm clouds dispersed. Henge inert.
+- **Circle of Thunder — Gorthok the Thunder Boar Summoning/Encounter:** Prevented — ritual interrupted by killing anchorites; Gorthok never summoned at the henge.
+- **Vukradin/Falcon the Hunter — Apology and Reconciliation:** Falcon sent clean, unqualified apology via Sending response. Vukradin accepted. Alliance restored.
+- **Falcon's Hunting Lodge — Counterattack by Anchorites/Gorthok (Siege Begun):** Gate destroyed by directed lightning bolt. Gorthok confirmed present among attacking force. Combat initiated at end of session — **OUTCOME NOT YET RESOLVED.**
 
 ---
 
 ## Resolved Plot Threads
 
-- **Dwarven Excavation warning delivered** — Dazlyn and Norbus warned; quest reward collected. Orcs at excavation defeated; dwarves safe.
-- **Gnomengarde mimic eliminated** — Mystery monster identified and destroyed; gnome kings reconciled with governance crisis; Hat of Wizardry delivered.
-- **Manticore at Umbrage Hill** — Killed by Brewbarry; Adabra Gwynn safe and returned to Phandalin.
-- **Tower of Storms curse ended** — Moesko killed; heart destroyed; beacon extinguished; Miraal's spirit laid to rest. Warning about a psionic entity beneath Leilon delivered.
-- **Kraken Society Cult Fanatic's mind-control operation** — Cult Fanatic executed; all controlled Emerald Enclave patrol members freed.
-- **Big Al / Qelline Alderleaf backstory** — Big Al confessed former engagement and abandoned Qelline the night before their wedding; went to her farm personally to apologize with Petunia.
-- **Axeholm spatial distortions / planar machine** — Aletra's device shut down; machine vanished; Rift Weavers destroyed; Chief Accountant's ghost put to rest.
-- **Aletra's forgery of House Xorlarrin ledgers** — Documented; forged books and Operator's Guide recovered as evidence. Aletra escaped; Aletra herself remains at large.
-- **Dragon Barrow / Dragon Slayer Sword secured** — All traps navigated, all will-o'-wisps destroyed, invisible stalker defeated, sword retrieved.
-- **Jax and Carver's field network** — Jax dead; Rot-Tusk Ogre dead; organized Carver agent network destroyed.
-- **The Carver** — Destroyed at Icespire Hold when Cryovain died; essence dissipated entirely.
-- **Cryovain threat to Phandalin and the North** — Dragon dead; region safe from its depredations.
-- **Stone-Cold Reavers claim on dragon hoard** — Defeated in combat; fraudulent claim rejected; hoard remains with party (currently inaccessible, frozen in a block of ice/residium).
-- **Phandalin governance reformed** — Privy Council established with Vukradin as a member.
-- **Corbin's death** — Corbin was killed while guarding Sister Kaella; Sister Kaella escaped. Acknowledged at Druid Council.
-- **Emerald Enclave schism — council ruling** — Adabra's faction defeated; interventionism validated as legitimate druidic practice; Lyra restored to full standing.
-- **Vukradin/Falcon the Hunter — reconciliation** — Falcon issued an unqualified apology; alliance restored.
-- **Mountain's Toe Gold Mine — three-way operational agreement** — Wererats (protection), Stonetallow dwarves (mining), party (ownership share); ~100 gp/week expected income. Formally documented.
-- **Don-Jon Raskin's fate** — Confirmed dead; killed by Stonetallow dwarves after revealing intent to cheat them; body eaten by carrion crawler.
-- **Circle of Thunder site** — Henge neutralized; Flenz and Narux dead; Gorthok summoning prevented; Talosian network intelligence recovered.
-- **Yargath's patrol** — Patrol anchorite killed; orcs scattered; one (Prutha) converted to Lathander.
+- **World-historical background (Tiamat, Giant uprising, Lolth/demon lords, Uthgardt invasion, Ordning reinstated):** All pre-campaign events; closed prior to campaign start.
+- **Dwarven Excavation warning delivered:** Dazlyn and Norbus warned; quest reward collected.
+- **Orc attack at Dwarven Excavation:** Orcs defeated; dwarves safe.
+- **Manticore threat at Umbrage Hill:** Manticore dead; Adabra safe.
+- **Gnomengarde mimic:** Destroyed; gnome crisis resolved.
+- **Tower of Storms corruption:** Moesko's heart destroyed; Miraal laid to rest; beacon extinguished.
+- **Moesko's influence — psionic external entity:** Miraal warned of deeper threat beneath Leilon; thread open as a wider mystery but Moesko himself is resolved.
+- **Whispering Wood corrupted treant:** Treant dead (confirmed by Adabra and Druid Enclave). Planar rift worsened after failed ritual; phased puppet creature observed harvesting. The rift itself remains an unresolved larger mystery but is not a party return target.
+- **Adabra Gwynn — manipulative ideological confrontation (Chapter 12):** Temporarily neutralized; she later became openly adversarial.
+- **Emerald Enclave internal schism (interventionist vs. naturalist):** Context fully revealed; Druid Enclave ruled in favor of interventionism; Adabra's faction politically defeated (not personally convinced).
+- **Lyra's failure at Whispering Wood — accountability:** Thomas and Lyra confessed publicly at council; Lyra restored to good standing.
+- **Carver's agent network — Borg, Locutus, Jax:** All eliminated. Borg fled after ranch destruction; Locutus killed by Sister Kayla; Jax killed at Dragon Barrow clearing. Network dismantled.
+- **Borg's assassination plot at Butterskull Ranch:** Collapsed; Big Al survived; plot exposed.
+- **Spatial distortions at Axeholm (planar machine):** Machine destroyed; Aletra's forgery documented; Chief Accountant laid to rest; distortions ended.
+- **Dragon Barrow — dragon slayer sword secured:** Retrieved; in Brewbarry's possession.
+- **Lady Alagondar's ghost:** Appeared briefly after sword was secured; pointed toward Ice Spire Mountains; faded. Not laid to rest — status: benign/inactive.
+- **Cryovain threat to Phandalin and the North:** Dragon dead. Thread closed.
+- **The Carver / Dragon Domination Ritual:** Entity dissipated on Cryovain's death. Closed.
+- **Stone-Cold Reavers fraudulent hoard claim:** Defeated in combat at Icespire Hold; claim rejected.
+- **Corbin:** Dead. Former bandit retainer killed while guarding Sister Kaella.
+- **Vukradin/Falcon reconciliation:** Apology exchanged; alliance restored.
+- **Circle of Thunder — henge neutralized:** Flenz and Narux dead; ritual stopped; site confirmed expendable by cult's own map.
+- **Talosian network structure (partial):** Three letters from Narux reveal redundant summoning plan; Woodland Manse is next active site; Falcon's Lodge is ultimate convergence target; unknown figure "K" directing the network.
+- **Dragon displacement of Vorga's clan:** Party confirmed Cryovain dead; clan free to return home after current threat resolved.
 
 ---
 
@@ -158,20 +117,98 @@
 
 | NPC | Status | Last Known Location | Disposition toward Party |
 |---|---|---|---|
-| Toblen Stonehill ("Spiderman") | Alive | Stonehill Inn, Phandalin | Friendly; facilitated party's celebration |
-| Harbin Wester | Alive | Phandalin (townmaster's hall) | Functional/transactional; publicly praised party for defeating Cryovain; revealed as corrupt/self-dealing |
-| Elmar Barthen | Alive | Barthen's Provisions, Phandalin | Friendly; Privy Council member |
-| Linene Graywind | Alive | Lionshield Coster, Phandalin | Positive trader relationship; actively interested in planar-origin goods; Privy Council member |
-| Halia Thornton | Alive | Phandalin Miner's Exchange | Neutral; Privy Council member |
-| Adabra Gwynn | Alive | Phandalin area (near Garaele's house/town) | Openly hostile; politically defeated at Druid Council but unreconciled; actively mobilizing druid opposition to party |
-| Dazlyn Grayshard | Alive | Ancient dwarven ruins / Temple of Abbathor, SW of Phandalin | Grateful |
-| Norbus Ironrune | Alive | Ancient dwarven ruins / Temple of Abbathor, SW of Phandalin | Grateful |
-| Corbin | Dead | — | Was friendly/compliant; killed by Sister Kaella while guarding her |
-| Sister Kaella | Alive | Unknown (escaped) | Hostile/unpredictable; was working both sides; now at large |
-| Alfonse "Big Al" Kalazorn | Alive | Qelline Alderleaf's farm (last known) | Friendly; grateful; gave party mithril chainmail |
-| Qelline Alderleaf | Alive | Her farm near Phandalin | Unknown; estranged from Big Al historically; reduced fee offered pending apology |
-| Ser Kaelen Thorne | Alive | Phandalin | Positive/allied; Order of the Gauntlet; seeking to strengthen ties with Vukradin; cannot offer organizational support due to Order's depletion |
-| Falcon the Hunter | Alive | Falcon's Hunting Lodge (returned; under siege) | Fully reconciled; firm ally; armed and participating in lodge defense |
-| Sridar (drow artifact collector) | Alive | Unknown (departed Falcon's Lodge during the night) | Positive; offered future collaboration on planar incursion investigation |
-| Brin Bundlewine | Alive | Phandalin (Tresendar Manor temple) | Devoted follower of Valphine's Lathander doctrine |
-| Giles Slipper-Shine | Alive | Phan
+| Toblen Stonehill ("Spiderman") | Alive | Stonehill Inn, Phandalin | Friendly |
+| Harbin Wester | Alive | Phandalin (Townmaster's Hall) | Functional/cooperative; publicly crediting party; known to be transactional/corrupt |
+| Elmar Barthen | Alive | Barthen's Provisions, Phandalin | Friendly |
+| Linene Graywind | Alive | Lionshield Coster, Phandalin | Friendly; interested in planar goods |
+| Halia Thornton | Alive | Phandalin Miner's Exchange | Neutral |
+| Adabra Gwynn | Alive | Phandalin (near Shrine of Luck) | Openly hostile to party; politically defeated at Druid Enclave but not convinced |
+| Daran Edermath ("Silverleaf") | Alive | Phandalin area | Neutral (previously pitched Tower of Storms to Vukradin) |
+| Ser Kaelen Thorne | Alive | Phandalin | Cooperative/seeking stronger ties with party; Order of the Gauntlet depleted; party somewhat suspicious of motives |
+| Dazlyn Grayshard | Alive | Ancient dwarven ruins SW of Phandalin | Friendly/grateful |
+| Norbus Ironrune | Alive | Ancient dwarven ruins SW of Phandalin | Friendly/grateful |
+| Pog | Alive | Gnomengarde entrance | Neutral |
+| Ulla | Alive | Gnomengarde entrance | Neutral (was briefly manipulated against Pog) |
+| Fibblestib | Alive | Gnomengarde | Friendly |
+| Dabbledob | Alive | Gnomengarde | Friendly |
+| Facktoré | Alive | Unknown (fled Gnomengarde) | Hostile/fearful |
+| King Korboz | Alive | Gnomengarde | Neutral (sanity restored; arguing with Gnerkli) |
+| King Gnerkli | Alive | Gnomengarde | Friendly (rewarded party) |
+| Adabra Gwynn | Alive | Phandalin | Hostile (see above) |
+| Brin Bundlewine | Alive | Temple of Lathander (Tresendar Manor), Phandalin | Devoted ally of Valphine |
+| Giles Slipper-Shine | Alive | Temple of Lathander (Tresendar Manor), Phandalin | Devoted ally of Valphine |
+| Elara (merchant) | Alive | Phandalin | Friendly |
+| Jarek (groom) | Alive | Phandalin | Friendly |
+| Martisha Vinetalker | Alive | Wayside Inn | Neutral |
+| Backes Dunfield | Alive | Wayside Inn | Neutral |
+| Cooragh Struckt | Alive | Wayside Inn | Friendly |
+| Alfonse "Big Al" Kalazorn | Alive | Phandalin area / Qelline Alderleaf's farm | Friendly (rescued; gave mithril chainmail) |
+| Qelline Alderleaf | Alive | Qelline's farm near Phandalin | Warming (received Big Al's apology; reduced Petunia grazing rate) |
+| Corbin | Dead | N/A — killed while guarding Sister Kaella | N/A |
+| Skippy (captured bandit) | Alive | Phandalin (Harbin Wester's custody) | Cooperative/captive |
+| Shrimpy (captured orc) | Alive | Phandalin (Harbin Wester's custody) | Captive |
+| Sister Kayla / Sister Kaella | Alive | Unknown — escaped | Unknown/dangerous; was working both sides against the Carver |
+| Jenna Roscoe | Alive | Unknown (Lord's Alliance, Neverwinter) | Neutral; no deal reached; suspects party's methods |
+| Jax | Dead | N/A — killed at Dragon Barrow clearing | N/A |
+| Borg the Hammer | Alive | Unknown (fled Butterskull Ranch) | Hostile |
+| The Carver | Destroyed | N/A — essence dissipated at Icespire Hold | N/A |
+| Locutus | Dead | N/A | N/A |
+| Zeleen Varnaster | Alive | Mountain's Toe Gold Mine | Cooperative (under duress); likely has independent agenda |
+| Horia Stonetallow | Alive | Mountain's Toe Gold Mine | Cautiously cooperative; holds formal mining contract |
+| Dwolin the Grout | Alive | Mountain's Toe Gold Mine | Cooperative; mine idle pending Earthstone Gem |
+| Don-Jon Raskin | Dead | N/A — killed by Stonetallow dwarves at mine | N/A |
+| Sridar (drow artifact collector) | Alive | Unknown (was at Falcon's Hunting Lodge) | Friendly; willing collaborator on planar incursions |
+| Cryovain the White Dragon | Dead | N/A — killed at Icespire Hold | N/A |
+| Sylvine Wintermoon | Unknown | Unknown (fled or defeated at Icespire Hold) | Hostile |
+| Runa (Sylvine's sister) | Unknown | Unknown | Hostile |
+| Giant Crab (Tower of Storms) | Alive | Tower of Storms vicinity | Grateful/friendly |
+| Miraal (Sea Elf Banshee) | Laid to rest | N/A | N/A |
+| Moesko | Dead | N/A | N/A |
+| Lyra (Emerald Enclave) | Alive | Phandalin area / Enclave | Restored to good standing; cautiously allied with party |
+| Thomas (Emerald Enclave agent) | Alive | Unknown (departed Phandalin) | Neutral; publicly testified in party's favor |
+| Marian (Emerald Enclave agent) | Alive | Unknown | Neutral |
+| Aldric Stone Path | Alive | Unknown (was at Druid Council) | Neutral-hostile (allied with Adabra; backed down during debate) |
+| Reidoth | Alive | Unknown (away from region) | Friendly; Vukradin informed him of Druid Council schism via Sending |
+| Falcon the Hunter | Alive | Falcon's Hunting Lodge (under siege) | Allied (reconciled with Vukradin) |
+| Xanth (Xanthopoulos) the Centaur | Alive | Unknown (departed after guiding party to Circle of Thunder treeline) | Friendly; old friend of Meril |
+| Vorga (Eastern Heart Orc Clan Leader) | Alive | Falcon's Hunting Lodge (defending) | Allied (chose to fight alongside party) |
+| Drubbak (Elder Orc) | Alive | Falcon's Hunting Lodge | Allied (noted tactical intelligence about storm) |
+| Prutha (converted orc) | Alive | With party at Falcon's Hunting Lodge | Allied; devoted follower of Valphine |
+| Teega the Smith | Alive | Wayside Inn (intended destination) | Uncertain; was Kraken Society member; wavering allegiance |
+| Flenz (anchorite, Circle of Thunder) | Dead | N/A | N/A |
+| Narux (anchorite, Circle of Thunder) | Dead | N/A | N/A |
+| Boney (skeletal horse) | Alive (undead) | Falcon's Hunting Lodge palisade area | Loyal companion; bonded with Soma/Valphine |
+| Lady Alagondar's Ghost | Unknown | N/A (not laid to rest; last appeared at Dragon Barrow) | Benign |
+| Zax (Carver's lieutenant) | Unknown | Unknown | Hostile (unaccounted for) |
+| "K" (unknown Talosian director) | Unknown | Unknown | Hostile |
+
+---
+
+## Active Quests & Open Threads
+
+**Falcon's Hunting Lodge — Siege (URGENT / IN PROGRESS)**
+Gate destroyed by directed lightning bolt. Gorthok the Thunder Boar and Anchorite forces are entering the courtyard. Party is inside with Falcon, Vorga's orc warriors, and Prutha. Combat unresolved at end of last session. Brewbarry has Dragon Slayer Sword; Vukradin is heavily depleted on spell slots; Soma's staff sprouted a new leaf at siege onset.
+
+**Woodland Manse Quest — Eradicate Evil**
+Talosian cult (Grannoc) still in control of the manse. Confirmed as the next active summoning site on the cult's own contingency plan (Circle of Thunder map from Narux). Party was previously driven out. Reward from Falcon: boots of elvenkind. Grannoc not yet encountered. Map from Circle of Thunder documents confirms location.
+
+**Unknown Talosian Director "K"**
+Three letters recovered from Circle of Thunder caves are signed only "K." This figure directs the network at a level above the anchorites, is cultivating an unknown youth from an eastern clan, and has declared a personal fallback summoning plan if both the Circle of Thunder and Woodland Manse fail. Identity and location unknown.
+
+**Zax (Carver's Unaccounted Lieutenant)**
+Xanth identified Zax as one of the Carver's three lieutenants (alongside Borg and Sister Kaella). Status and location unknown. May still be active.
+
+**Sister Kaella — Escaped**
+Former Carver spy who worked both sides. Escaped after Corbin was killed while guarding her. At large. She is the only known person to have previously held knowledge of Icespire Hold's location; primary threat from her is unclear but she is dangerous and unpredictable.
+
+**Drowned Gate Beneath Yllyn (Kraken Society)**
+Freed Emerald Enclave patrol revealed they were mind-controlled to steal an inscription describing "a drowned gate beneath Yllyn" in the Underdark. Linked to Kraken Society activity. No party action taken. Significant potential threat.
+
+**Aletra (Valphine's Drow Sister) — At Large**
+Escaped through a self-generated portal at Axeholm after the planar machine was destroyed; dropped several vials of interdimensional poison. Answers to an unnamed boss who will be displeased. Running illegal interdimensional drug trade for House Sartorra. Forged House Xorlarrin poison ledgers documented by party. Location unknown.
+
+**House Sartorra / Aletra's Unnamed Boss**
+The interplanar drug trade operation extends beyond Aletra. A bill from "Interplanar Trade Consultants Incorporated" was recovered. Aletra's boss and the organization's scope remain unknown.
+
+**Dragon Hoard — Ethical Disposition**
+Approximately 3,000 gp fused into a block of ice and residium at Icespire Hold through planar magic. Currently unspendable and unseparable without a planar theorist. Vukradin has declared it stolen goods (

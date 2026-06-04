@@ -10,10 +10,10 @@ Seeded from `docs/npcs/*.md` YAML frontmatter aliases on 2026-05-03.
 
 | Wrong | Right |
 |---|---|
-| Bukradin, Fukurdin, Vukraden, Fukradin, Fukrudin, Lucredin, Mukraden, Rukrudin, Vukridin, Vuclin, Buccrotted, Fukratom, Krotom, Buchar, Vukerdin, Vucherton, Bucretin, Necrotin, Abu Kradin, Vikraden, Vocraden, Vercrotten, Blue Crabin, Bukraden, Vucrodan | **Vukradin** |
-| Sona, Big Elk, Soma Elk, Zoma Elk, Silma Bear, Silma Spider, Lee | **Soma** |
-| Alphine, Valpina, Valfine, Valfina, Valfina Europe, Valfini Centaur, Buffin, Alfina, Belfina, Valfida, Vilfina, Velfina, Velphine, Alfuna, Delphina, Pelfina, Valfinay, Valfino, Valfining | **Valphine** |
-| Brewberry, Frewbury, Blueberry, Brewery, Barry, Breweri, Brubberry, Burberry, Burbury, Burger | **Brewbarry** |
+| Bukradin, Fukurdin, Vukraden, Fukradin, Fukrudin, Lucredin, Mukraden, Rukrudin, Vukridin, Vuclin, Buccrotted, Fukratom, Krotom, Buchar, Vukerdin, Vucherton, Bucretin, Necrotin, Abu Kradin, Vikraden, Vocraden, Vercrotten, Blue Crabin, Bukraden, Vucrodan, Vukriddin, Vukroden | **Vukradin** |
+| Sona, Big Elk, Soma Elk, Zoma Elk, Silma Bear, Silma Spider, Lee, Sana | **Soma** |
+| Alphine, Valpina, Valfine, Valfina, Valfina Europe, Valfini Centaur, Buffin, Alfina, Belfina, Valfida, Vilfina, Velfina, Velphine, Alfuna, Delphina, Pelfina, Valfinay, Valfino, Valfining, Balfina, Valfinha, Valfinis | **Valphine** |
+| Brewberry, Frewbury, Blueberry, Brewery, Barry, Breweri, Brubberry, Burberry, Burbury, Burger, Blueberry Europe | **Brewbarry** |
 | Bukradinhos, Vukravenius | **Vukradinious** |
 
 ## NPCs and creatures
@@ -42,31 +42,35 @@ Seeded from `docs/npcs/*.md` YAML frontmatter aliases on 2026-05-03.
 | Xanthopoulos, Is Xanth, Xantha Centaur, Xanthes, Centaur Alla Exanth | **Xanth** |
 | So Bob, So Bob Saget | **Bob Saget** |
 | Lira | **Lyra** |
-| Bonies, Bony, Stable Boney, Bodie | **Boney** |
-| Lepander, Lefender, Lithander, Lathanzer, Lathunder, Lithender, Lothander, Luthander, Lathanders | **Lathander** |
+| Bonies, Bony, Stable Boney, Bodie, Barney, Bony Euro, Bean | **Boney** |
+| Lepander, Lefender, Lithander, Lathanzer, Lathunder, Lithender, Lothander, Luthander, Lathanders, Lathender | **Lathander** |
 | Telosian, Telosians, Telusian, Telusians, Tolusians, Tallosians, Toloshian, Tolosians | **Talosian** |
 | Torb | **Torbin** |
 | Corbyn | **Corbin** |
 | Pritha, Prutho, Rutha, Prusa, Pruth, Puthar | **Prutha** |
 | Lothandrian | **Lathandrian** |
 | Thalos | **Talos** |
-| Anarchite, The Groubear, Groubear, Anachorite, Anarchites | **Anchorite** |
+| Anarchite, The Groubear, Groubear, Anachorite, Anarchites, Incorite, Agorai | **Anchorite** |
 | Quan | **Orcs** |
 | The Centauri | **Centauri** |
-| Dorthok | **Gorthok** |
+| Dorthok, Garthuk, Gorthak, Gorthock, Gorthox, Gorthuk, Korthak, Vorthok, Gorth | **Gorthok** |
 | Cryovane, Krabein, cryo and Vein | **Cryovain** |
 | Asimer | **Aasimar** |
 | Loth | **Lolth** |
 | Torque | **Orc** |
-| Vorgalong memory, Vorgalong | **Vorga Long-Memory** |
+| Vorgalong memory, Vorgalong, Orga | **Vorga Long-Memory** |
 | Dernhardt | **Tovrak** |
+| Jared | **Jarek** |
+| Don John Raskin | **Don Jon Raskin** |
+| Silda | **Sildar** |
+| Hafalken | **half-orc anchorite** |
 
 ## Items / artifacts
 | Pushions | **Potions** |
 | Baric Inspiration | **Bardic Inspiration** |
 | Silvery Barb | **Silvery Barbs** |
 | Spirit Gardens, Spirit Guardian | **Spirit Guardians** |
-| Thunder Wave, Thunderweave | **Thunderwave** |
+| Thunder Wave, Thunderweave, Underwave | **Thunderwave** |
 | Don Bow | **dawn-bow** |
 | Shrishna | **Sending spell** |
 
@@ -82,7 +86,7 @@ Seeded from `docs/npcs/*.md` YAML frontmatter aliases on 2026-05-03.
 | Fandelin,Handelin,Phandalone | **Phandalin** |
 | Mountain Toes Gold Mine | **Mountain's Toe Gold Mine** |
 | Silvery Moon | **Silverymoon** |
-| Woodland Mance,Woodland Mence | **Woodland Manse** |
+| Woodland Mance, Woodland Mence, Woodland Mass, Woodland Mans | **Woodland Manse** |
 | Shrine of Serva,Shrine of Servos | **Shrine of Savras** |
 | Lenzo Baranzin | **Menzoberranzan** |
 | Neverwinting | **Neverwinter** |

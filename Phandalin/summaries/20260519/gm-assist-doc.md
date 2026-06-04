@@ -316,7 +316,7 @@ Valphine moved through us without hurrying. She never hurries. Whatever she did,
 
 We placed the orc archers in the gatehouse tower, behind the arrow slits. Valphine had called them "aerosluts," which I had no immediate response to, and the orcs didn't seem offended. Boney went inside the palisade, near the stable house, which Vukradin described with great seriousness as "cannon fodder." Falcon took position with his bow. We spread through the courtyard.
 
-This was the part I was good at. Not the positioning, not the tactics — those belong to Vukradin and Valphine. The part where everything was decided and you just had to hold the line. I checked my grip on the Dragon Slayer. I flexed my hands once inside the gauntlets. The Dread Helm sat warm on my skull, and I knew from experience my eyes were doing the red-glow thing, which tends to get a reaction.
+This was the part I was good at. Not the positioning, not the tactics — those belong to Vukradin and Valphine. The part where everything was decided and you just had to hold the line. I checked my grip on the halberd. I flexed my hands once inside the gauntlets. The Dread Helm sat warm on my skull, and I knew from experience my eyes were doing the red-glow thing, which tends to get a reaction.
 
 Then Vukradin said Gorthok was there.
 
@@ -352,4 +352,4 @@ Gorthok first. You feel something like that before you see it. A mass. A wrongne
 
 Vukradin was muttering something about the working that tangles a mind in its own visions. Soma was watching her staff. Drubbak had not moved from his place, still listening for the chant that wasn't there.
 
-My sword was already in my hand.
+My halberd was already in my hand.
