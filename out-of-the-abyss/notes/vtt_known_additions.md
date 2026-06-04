@@ -102,3 +102,10 @@ Daggerford  — FR town between Waterdeep and Candlekeep; mentioned re: paladin 
 - **Dodd Breeder** — NPC; "Dodd Breeder doesn't like the dark" — 2026-05-16 (chapter 51)
 - **Horizon** — Candlekeep location: "He is summoned in Horizon, the Arcanium, and declares, The bell tower has cells!" — 2026-05-16 (chapter 51)
 2026-05-18  Grygumite School  — new in-fiction philosophical school (parallel to Stroudite/Bahamutian); named for PC Grygum; introduced in Candlekeep arc 20260518
+
+- **Daral Yashenti** — NPC; full name (Candlekeep murder-mystery arc): "Oh, that'll be Daral Yashenti. Those two have been at each other's throats…" — 2026-06-01
+- **Hightower Library** — Candlekeep location ("held one of the two keys of the Hightower Library") — 2026-06-01
+- **Queenie** — NPC, speaks (Candlekeep murder-mystery arc): "Queenie says, There have been too little… Tickles and too many questions." — 2026-06-01
+- **Teles Ahvoste** — NPC (Candlekeep murder-mystery arc); first name "Teles": "I did hear Telus shout, HYPOCRITE at poor Janusi before he stormed out." / "Teles of Oste came to visit the Keeper." — 2026-06-01
+- **The Golden Ass** — in-world text referenced in the Candlekeep library plot ("the Discoveries was written after the notes on the Golden Ass"); echo of Apuleius — 2026-06-01
+- **Avowed** — in-world term/role (oath-bound figure?): "Avowed. Could that… is that the same person…" — 2026-06-01
