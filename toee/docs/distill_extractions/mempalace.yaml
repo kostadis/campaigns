@@ -1,0 +1,31 @@
+wing: chronicle
+rooms:
+- name: npcs
+  description: NPC state snapshots across the campaign timeline
+  keywords:
+  - npc
+  - character
+  - dossier
+  - location
+  - state
+  - faction
+- name: world
+  description: World events, locations, faction movements
+  keywords:
+  - world
+  - event
+  - location
+  - faction
+  - history
+  - alliance
+- name: arcs
+  description: Threads, mysteries, unresolved plot points
+  keywords:
+  - thread
+  - mystery
+  - unresolved
+  - quest
+  - score
+- name: general
+  description: Content that doesn't fit other rooms
+  keywords: []

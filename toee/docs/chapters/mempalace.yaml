@@ -1,0 +1,10 @@
+wing: narrative
+rooms:
+- name: chapters
+  description: Narrative prose chapters from the campaign chronicle/bible
+  keywords:
+  - chapter
+  - session
+- name: general
+  description: Fallback
+  keywords: []

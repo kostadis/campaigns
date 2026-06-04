@@ -1,0 +1,52 @@
+wing: notes
+rooms:
+- name: strategy
+  description: Per-antagonist strategic dossiers — motivations, optimal play, contingencies
+  keywords:
+  - strategy
+  - dossier
+  - hedrack
+  - falrinth
+  - lucius
+  - antagonist
+  - plan
+- name: networks
+  description: Faction/operational network maps for locations
+  keywords:
+  - network
+  - faction
+  - nulb
+  - hommlet
+  - allies
+  - threats
+  - operational
+- name: handouts
+  description: In-world player handouts — letters, ledgers, maps, scrolls
+  keywords:
+  - handout
+  - letter
+  - ledger
+  - scroll
+  - dispatch
+  - prop
+- name: statblocks
+  description: Reflavored/converted 5e stat blocks and encounter builds
+  keywords:
+  - statblock
+  - stat
+  - encounter
+  - monster
+  - salamander
+  - retainer
+- name: references
+  description: Location/area reference docs and image prompts
+  keywords:
+  - reference
+  - area
+  - room
+  - temple
+  - location
+  - image prompt
+- name: general
+  description: GM prep that doesn't fit a specific room
+  keywords: []
