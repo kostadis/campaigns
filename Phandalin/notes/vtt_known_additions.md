@@ -32,3 +32,4 @@ Recorded so they stop being flagged as unknowns by future spell-pass runs.
 Gorthok  — "I didn't think we'd see Gorthok till the," (Talosian Thunder Boar; canonical name per planning.md and world_state.md)  — 2026-05-22
 Eastern Heart  — Prutha's tribe name shouted as greeting ("Eastern Heart! Three banners on the wall!") — already canonical per notes/npcs/prutha.md and notes/npcs/lodge_orcs_eastern_heart.md  — 2026-05-22
 Sun and Stone  — Eastern Heart clan banner/march ("I see one! Sun and Stone! My uncle's clan march!")  — 2026-05-22
+| Ferrmal Thunder (totem) | Magical totem Valphine heard about that can power a resurrection spell without needing a cleric ("create an interesting ritual... a true resurrection ritual") | 2026-05-26 |
