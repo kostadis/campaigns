@@ -1,0 +1,44 @@
+# === MemPalace mining exclusions — toee campaign palace ===
+# Decoupled from .gitignore on purpose (CLAUDE.md guidance): version-control
+# and mining concerns are separate. Only the ROOT (toee-wing) mine uses this to
+# skip the separate-wing dirs; the wing subdirs are mined directly.
+
+# Raw session data — the curated narrative lives in the narrative wing.
+# (recent gm-assist summaries for Ch26+ are pending bible regen; add later.)
+summaries/
+logs/
+
+# Local tooling, caches, archives, pipeline rendering inputs
+temple/
+archive/
+examples/
+voice/
+.claude/
+
+# CampaignGenerator pipeline intermediates (stage inputs, not DM reference)
+docs/state_extractions/
+docs/party_extractions/
+docs/planning_extractions/
+planning_extractions/
+
+# Published-module source — use the 5etools MCP instead (per CLAUDE.md)
+docs/background/
+
+# The narrative bible itself — replaced by per-chapter splits (narrative wing)
+docs/toee-summary.md
+docs/mechanics.md
+
+# Separate wings — mined on their own; keep them OUT of the root (toee) mine
+docs/chapters/
+docs/distill_extractions/
+notes/
+
+# Binaries & tooling
+*.pdf
+*.tar.gz
+*.sh
+config.yaml
+ui_config.yaml
+entities.json
+mempalace.yaml
+.mempalaceignore

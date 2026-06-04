@@ -1,0 +1,52 @@
+wing: toee
+rooms:
+- name: npcs
+  description: NPC dossiers, character profiles, relationships, motivations
+  keywords:
+  - npcs
+  - npc
+  - dossier
+  - hedrack
+  - falrinth
+  - lucius
+  - barkinar
+  - senshock
+  - kelno
+  - belsornig
+  - zuggtmoy
+- name: party
+  description: Player characters — sheets, backstories, the Obsidian Edge
+  keywords:
+  - characters
+  - party
+  - player
+  - backstory
+  - calmer
+  - sequioa
+  - zephyr
+  - zinnia
+  - obsidian edge
+- name: world
+  description: World state, lore, background, regional geography, politics, factions
+  keywords:
+  - world_state
+  - world
+  - lore
+  - region
+  - faction
+  - temple
+  - hommlet
+  - nulb
+  - verbobonc
+- name: arcs
+  description: Planning, quest tracking, threat trackers, campaign threads
+  keywords:
+  - planning
+  - tracking
+  - arc
+  - quest
+  - thread
+  - threat
+- name: general
+  description: Top-level docs that don't fit a specific room
+  keywords: []
