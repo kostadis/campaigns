@@ -43,7 +43,7 @@ related: []
   - [[harper-policy]] — The guidelines and procedures followed by Harper agents.
   - [[mercenaries]] — Individuals or groups hired for military service.
   - [[magic-pathways]] — Magical constructs facilitating travel between locations.
-  - [[silverymoon]] — City where the encounter takes place.
+  - silverymoon — City where the encounter takes place.
 
 ### Contradictions & Tensions
 - **Internal Tension**:

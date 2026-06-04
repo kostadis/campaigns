@@ -49,7 +49,7 @@ related: []
   - Strong, as evidenced by her actions and statements during the encounter.
 
 ### Connections to Existing Wiki
-- **[[silverymoon]]**: This source relates to the setting of Silverymoon, which is likely to be covered in the wiki.
+- **silverymoon**: This source relates to the setting of Silverymoon, which is likely to be covered in the wiki.
 - **[[silverwatch]]**: This source connects to the Silverwatch, which is an organization mentioned in the wiki.
 - **[[demon]]**: This source introduces the concept of demons, which might need to be expanded upon in the wiki.
 

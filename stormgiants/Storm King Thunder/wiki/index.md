@@ -55,6 +55,81 @@ sources: []
 - [[slayermighty]] — Former owner of Blooddrinker; deceased, only referenced as origin of Blooddrinker’s past.
 - [[vardis]] — Present during chest event; peripheral.
 - [[stone-chest]] — Mysterious artifact that triggered convulsions in Blooddrinker; unknown origin and function.
+- [[adabra-gwynn]] — Druid, apothecary, and philosopher; anti-interventionist leader of a radical faction within the Emerald Enclave.
+- [[soma]] — Druid-in-training, former protégée of Adabra; now conflicted and questioning her philosophy.
+- [[vukradin]] — Former ally of Adabra; joined the Order of the Gauntlet; repaid her debt with interest as moral closure.
+- [[lyra]] — Interventionist druid of the Emerald Enclave; failed at the Whispering Grove; target of Adabra’s political campaign.
+- [[falcon-the-hunter]] — Recruited by Adabra; later regretted involvement.
+- [[aldric-stone-path]] — Recruited by Adabra; ideological ally in her campaign.
+- [[harbin-wester]] — Phandalin authority figure influenced by Adabra's advocacy.
+- [[reidoth]] — Nominal head of local Emerald Enclave chapter; deliberately excluded from Adabra’s council.
+- [[thomas]] — Witness to the Whispering Grove failure; his testimony used by Adabra as political evidence.
+- [[presiding-druid]] — Arbiter of the Emerald Enclave council; rejected Adabra’s case and condemned her conduct.
+- [[ser-kaelen]] — Observes Adabra; calls her “confused,” possibly mad; source of external commentary.
+- [[cult-of-talos]] — Organization referenced by Adabra as representing “necessary distraction” in cosmic balance.
+- [[treant]] — Sacred being killed in the Whispering Grove; catalyst for Adabra’s campaign.
+- [[meril's-staff]] — Artifact used to verify Adabra’s sincerity as a true believer.
+- [[whispering-grove]] — Sacred site corrupted; site of treant’s death and Adabra’s turning point.
+- [[aletra-satora]] — Smuggler and operative for House Sartorra/Xorlarrin; uses planar technology to traffic interdimensional poison.
+- [[valphine]] — Party member and sister of Aletra Satora; emotionally burdened by familial trauma.
+- [[kp]] — Unseen supervisor within Aletra’s smuggling network; embodiment of operational secrecy.
+- [[midnight-tears]] — Interdimensional drow poison that unmakes the soul; primary contraband of House Sartorra.
+- [[model-1489-spatial-rectification-calliope]] — Dwarven planar artifact repurposed for smuggling; central to Aletra’s operation.
+- [[house-sartorra]] — Drow house specializing in interdimensional poison trade; affiliated with House Xorlarrin.
+- [[xorlarrin]] — Powerful drow noble house; parent or overseeing organization in the interdimensional poison trade.
+- [[petunia]] — Cow and emotional anchor for Alphonse "Big Al" Kalazorn; non-combatant companion whose recovery triggered moral reckoning.
+- [[qelline-alderleaf]] — Former fiancée of Alphonse Kalazorn; catalyst for his redemption arc.
+- [[butterskull-ranch]] — Abandoned homestead turned emotional bait trap; site of Alphonse’s capture and symbolic loss.
+- [[rot-tusk-ogres]] — Band of ogres who raided Butterskull Ranch before being displaced by Borg the Hammer.
+- [[backes-dunfield]] — Bartender at the Wayside Inn; a deliberately underdeveloped background NPC with no narrative function.
+- [[wayside-inn]] — Peripheral location where the party stayed overnight; no significant events occurred.
+- [[lady-alagondar]] — Deceased noble; former master of Boney; central to his motivation and identity.
+- [[will-o-wisps]] — Malevolent undead entities; responsible for Boney’s death in his first life.
+- [[sister-kaella]] — Party member who killed Corbin; present during the event.
+- [[borg-the-hammer]] — Opportunistic captor who imprisoned Alphonse as bait for adventurers.
+- [[the-carver]] — Hidden master and operational architect behind Borg the Hammer; identity and nature entirely undisclosed.
+- [[brewbarry]] — Former Uthgardt barbarian; traveling companion who embodies non-confessional redemption through action and empathy.
+- [[brin-bundlewine]] — Villager and laborer who founded the Temple of Lathander’s Searing Pain of Justice; embodies radicalized devotion through embodied suffering.
+- [[giles-slipper-shine]] — Fellow laborer and devotee of Brin Bundlewine; co-participant in public religious spectacles.
+- [[cooragh-struckt]] — Cook at the Wayside Inn; defined solely by the sensory impact of her cooking; provides quiet emotional resonance to Valphine.
+- [[barthen]] — Retired sheriff and rancher; issuer of letter of introduction enabling access to Falcon Hunting Lodge.
+- [[falcon-hunting-lodge]] — Remote estate of Falcon the Hunter; governed by ritualized access protocols.
+- [[dabbledob]] — Gnomengarde inventor and pragmatic researcher; exemplifies evidence-based pragmatism and reluctant open-mindedness.
+- [[fibblestib]] — Dabbledob’s intellectual rival; proponent of speculative inventions within Gnomengarde.
+- [[gnomengarde]] — Gnome-led scientific and political enclave; center of institutional and epistemic debates.
+- [[daran-edermath-silverleaf]] — Retired adventurer turned orchardist; proposed salvage of a coastal lighthouse; embodies moral blindness in pragmatism.
+- [[stonehill-inn]] — Phandalin inn where Daran Edermath first approached the party with his salvage proposal.
+- [[lighthouse-west-of-phandalin]] — Coastal ruin rumored to lure ships to wreck; target of Daran’s salvage operation; potential site of unburied dead.
+- [[dazlyn-grayshard]] — Shield dwarf prospector and co-discoverer of ancient dwarven ruins; exemplifies grounded, non-dramatic NPC design.
+- [[norbus-ironrune]] — Business partner of Dazlyn Grayshard; co-discoverer of the Temple of Abbathor; embodies quiet reliability and shared purpose.
+- [[mountain-s-toe-gold-mine]] — Site of unprecedented wererat-human cohabitation; managed by Don-Jon Raskin under a covert consortium.
+- [[elara-seasong-meliame]] — Wealthy art collector and member of House Meliame; rightful owner of the recovered lighthouse statue; has not yet appeared directly.
+- [[house-meliame]] — Noble house of Neverwinter; cultural patron and target of House Margaster’s sabotage.
+- [[house-margaster]] — Rival noble house; manipulates cultural symbols to humiliate House Meliame.
+- [[lighthouse-statue-of-elara-seasong]] — Ancestral artifact recovered from the lighthouse; symbol of Meliame heritage and political target.
+- [[woodland-manse]] — Ruined half-orc stronghold; source of regional threat; party’s failure to clear it contributed to the lodge’s destruction.
+- [[brass-ring-of-lightning]] — Artifact from Iymrith’s hoard; key to Falcon’s trauma and connection to the dragon.
+- [[wooden-elven-ears-my-dearly-beloved]] — Emotional relic inscribed with “my dearly beloved”; tied to Falcon’s unspoken loss.
+- [[labyrinth-wooden-square]] — Unexplained artifact; possibly symbolic or magical.
+- [[neverwinter-mining-consortium]] — Corporate entity using Falcon as a proxy scout; implied ties to noble house rivalries.
+- [[king-korboz]] — The reigning monarch of Gnomengarde, currently afflicted by unexplained madness; central to Fibblestib’s obsession.
+- [[warren]] — One of two missing gnome inventors from Gnomengarde; disappearance used to justify Fibblestib’s Sanity Ray project.
+- [[orrin]] — One of two missing gnome inventors from Gnomengarde; disappearance used to justify Fibblestib’s Sanity Ray project.
+- [[harbin-wester]] — Phandalin authority figure influenced by Adabra’s advocacy.
+- [[tibor-wester]] — Harbin Wester’s brother; wildcat logger operating near Phandalin.
+- [[shrimpy]] — Prisoner held in custody by Harbin Wester; identity and fate unknown.
+- [[privy-council-of-phandalin]] — Governing body formed by Harbin Wester to share authority and diffuse blame.
+- [[lord-neverember]] — Regional overlord of Phandalin; Harbin’s distant superior and the source of his administrative authority.
+- [[axeholm]] — Emergency evacuation site designated by Harbin Wester.
+- [[dragon-barrow]] — Final lair of the white dragon Cryovain; site of the party’s climactic victory.
+- [[horia-stonetallow]] — Dwarven mine representative and clan liaison; exemplifies contractual morality and pragmatic integrity.
+- [[stonetallow-clan]] — Ancestral shield dwarf clan whose identity is rooted in engineering heritage and archway construction.
+- [[dwolin-the-grout]] — Mine foreman whose superstitions about the Earthstone Gem reveal the tension between ritual and efficiency.
+- [[zeleen-varnaster]] — Wererat leader who negotiated a formal agreement with Horia Stonetallow after a prior history of violence.
+- [[king-gnercli]] — Co-ruler of the kobold kingdom; pragmatic administrator whose philosophical commitment to the dual monarchy is shattered by Vukradin’s critique.
+- [[dragon-slayer-sword]] — Ancient weapon once owned by Lady Alagondar; buried separately from her tomb; triggered her ghost’s manifestation.
+- [[linene-graywind]] — Proprietor of the Lionshield Coster outpost in Phandalin; operates a quasi-legal node in an institutional interplanar commercial network.
+- [[lionshield-coster]] — Merchant organization with interplanar commercial interests; structured around unnamed “bosses” and premium pricing for planar goods.
 
 ## Concepts
 - [[ordning-shattering]] — The cosmological disruption of giant hierarchy.
@@ -102,6 +177,100 @@ sources: []
 - [[magical-shrinking-curse]] — A curse that reduces a creature’s size without killing it; tied to cursed cave lore and behavioral transformation.
 - [[animal-companion-bonding]] — Emotional attachment forming between a character and a non-human entity, often post-trauma.
 - [[magical-resonance-with-artifacts]] — Objects can trigger physiological reactions in bonded or magically linked beings.
+- [[anti-interventionism-druidic]] — Belief that all external interference (religious, planar, military) disrupts natural cosmic equilibrium; solution is non-action and withdrawal. This philosophy attracts followers who believe emotionally but cannot articulate or defend it — exemplified by Aldric Stone Path.
+- [[naturalism-as-moral-framework]] — Rejection of moral categories like “evil,” “monster,” or “barbarian”; all entities are expressions of natural diversity.
+- [[weaponization-of-personal-debt]] — Using minor financial transactions as symbolic, moral, and political evidence in ideological trials. Aldric Stone Path is a primary example: personal debt (being heard) was converted into political capital — with catastrophic consequences.
+- [[cascading-multiversal-imbalance]] — Belief that one intervention triggers chain-reaction disruptions across planes.
+- [[true-believer-verification]] — Use of magical artifact (Meril’s Staff) to confirm sincerity of belief, not deception or control. Aldric Stone Path demonstrates an alternative form: loyalty as proof of belief, validated emotionally rather than magically.
+- [[philosophical-deception-tacit-complicity]] — Allowing another to believe a false worldview without correction, enabling radicalization. Adabra’s tacit acceptance of Aldric’s intellectual passivity exemplifies this.
+- [[music-as-metaphor-for-cosmic-order]] — Using musical analogies to argue that interventionists reject “certain music” (planar energies).
+- [[interdimensional-smuggling]] — The illicit transportation of goods across planar boundaries using engineered technology; exemplified by Aletra Satora’s use of the Model 1489 Calliope.
+- [[illicit-poison-trade-interdimensional]] — Criminal enterprise leveraging planar instability for drug distribution; centered on Midnight Tears and House Sartorra.
+- [[weaponized-charm-and-dark-humor]] — Psychological tactic combining condescension, humor, and emotional manipulation during high-stakes conflict; Aletra’s signature method of dominance.
+- [[operational-secrecy-via-obscurer-authority]] — Working under an unnamed boss (“KP”) to maintain plausible deniability; core to Aletra’s structure.
+- [[sacrificial-decoy-tactics]] — Using allies or innocents as expendable targets to achieve operational goals; demonstrated with Brewbarry.
+- [[emotional-manipulation-through-familial-reference]] — Leveraging shared history and parental judgment to destabilize opponents; Aletra’s weapon against Valphine.
+- [[planar-artifact-as-smuggling-conduit]] — Technology repurposed from engineering to criminal logistics; the Model 1489 Calliope as a canonical example.
+- [[evidence-tampering-via-ledger-forgery]] — Administrative deception to conceal illicit activity; Aletra’s forged inventory logs.
+- [[criminal-oracle]] — Unseen authority whose approval dictates survival; the criminal counterpart to the divine oracle.
+- [[cover-identity-as-engineer]] — Using technical legitimacy to mask criminal activity; Aletra’s use of the Calliope as maintenance cover.
+- [[emotional-avoidance-as-character-deficit]] — A pattern of abandoning personal commitments under the guise of unpreparedness, masking deeper fear of vulnerability.
+- [[redemption-through-acknowledgment]] — Moral repair initiated not by action, but by truthful confession and willingness to face consequences.
+- [[quest-as-emotional-trap]] — A public reward-based mission designed to lure adventurers into a scenario where the true objective is emotional resolution, not material gain.
+- [[grazing-rights-as-metaphor-for-reconciliation]] — A mundane economic transaction (one gold per week) symbolizing emotional access, forgiveness, and reintegration.
+- [[veteran-identity-as-armor]] — Law enforcement or military background used to project stoicism, masking emotional fragility.
+- [[background-npc]] — A non-interactive character whose sole narrative function is to populate the environment with realism. They possess no motivations, relationships, arcs, or hidden depths.
+- [[narrative-economy]] — The deliberate omission of detail — particularly in NPCs, locations, or events — to preserve focus on plot-critical elements and avoid narrative clutter.
+- [[undead-animal-companion]] — Non-human undead creature integrated as a loyal, sentient mount/companion.
+- [[loyalty-transference]] — A being’s core devotion shifts from a deceased master to a new figure perceived as their reincarnation.
+- [[undead-sentience-without-corruption]] — Undead entity retains personality, humor, and moral ambiguity without being evil or controlled.
+- [[moral-ambiguity-of-inaction-undead]] — Ethical evaluation of non-human entities who witness but do not intervene in moral events.
+- [[naming-as-identity-reclamation]] — Renaming signifies acceptance of new existence after transformation.
+- [[transaction-as-narrative-catalyst]] — A low-stakes, realistic exchange that unexpectedly enables critical plot progression.
+- [[weaponization-of-innocence]] — Using a non-combatant as emotional bait to lure adversaries into a trap; exemplified by Borg the Hammer’s use of Big Al.
+- [[destruction-as-frustration-response]] — Uncontrolled, rage-driven destruction following operational failure; a sign of emotional vulnerability in an otherwise disciplined antagonist.
+- [[exile-as-redemption-path]] — The act of leaving a violent, culturally sanctioned group not as punishment, but as moral self-liberation. Brewbarry’s estrangement from the Uthgardt is framed as voluntary and righteous.
+- [[comedic-moral-contrast]] — Use of humor, bluntness, and physicality to mask or express deep moral sensitivity. Brewbarry’s jokes and rage coexist with empathy.
+- [[non-lethal-combat-as-moral-choice]] — The tension between killing instinct and restraint, especially when others demand mercy. Brewbarry’s killing of Orc 9 after Valphine’s “stomp” order highlights this.
+- [[tactical-bluntness-as-effectiveness]] — Combat style that prioritizes immediate, visceral action over finesse, yet remains strategically adaptive. Brewbarry’s rage is not loss of control but simplification.
+- [[symbolic-identification-with-the-oppressed]] — Recognizing one’s own trauma in another’s suffering (e.g., Brewbarry seeing himself in “Shrimpy”).
+- [[barbarian-as-anti-ideologue]] — Rejection of tribal dogma not through philosophy, but through lived experience and emotional response. Brewbarry doesn’t debate evil—he just refuses to be it.
+- [[weaponized-narrative-economy]] — The deliberate withholding of Brewbarry’s full backstory to preserve mystery and emotional resonance.
+- [[unorthodox-lathanderite-interpretation]] — Reinterpretation of Lathander as a god whose divinity is revealed through suffering, particularly solar pain.
+- [[ritual-self-flagellation-as-devotion]] — Physical self-harm as spiritual practice to prove sincerity and achieve divine communion.
+- [[labor-as-devotion]] — Offering unpaid physical work as spiritual offering.
+- [[beatific-radiance-through-suffering]] — Physical disfigurement (sunburn, scars, blindness) interpreted as divine favor.
+- [[public-religious-spectacle-as-fundraising]] — Parades and displays used to attract support and legitimize unorthodox doctrine.
+- [[holy-disfigurement]] — Aesthetic of divine suffering manifested in bodily marks (scars, burns, blindness).
+- [[converts-radiance]] — A visible, non-magical transformation in a true believer’s demeanor and appearance following spiritual awakening — characterized by radiant expression, heightened coloration (sunburn), and serene joy, often mistaken for divine favor. Distinct from magical aura or holy light. Seen in Giles Slipper-Shine and others in the solar pain movement.
+- [[religious-enthusiasm-as-social-catalyst]] — The phenomenon in which intense personal devotion, unmediated by clergy or institutional authority, directly drives communal action — including construction, fundraising, public ritual, and social cohesion.
+- [[unregulated-invention]] — Unsupervised technological experimentation that disregards consent, safety, or institutional norms.
+- [[innocent-as-test-subject]] — The ethical violation of using sentient beings as experimental subjects without consent, framed as scientific inquiry.
+- [[fleeing-inventor-archetype]] — A character who prioritizes avoiding accountability over resolving consequences, masking cowardice as eccentricity.
+- [[ambush-as-experiment]] — A combat encounter designed not for domination or defense, but as data collection on weapon efficacy.
+- [[performative-identity-as-business-strategy]] — A strategy in which an individual constructs and maintains a public persona not to deceive for malice, but to sustain economic survival and social legitimacy. Falcon the Hunter embodies this concept by cultivating the myth of being a “dragonslayer,” despite being the sole survivor of an encounter with Iymrith.
+- [[guilt-as-a-tool-of-ideological-manipulation]] — The process by which a charismatic figure exploits an individual’s unresolved trauma or moral regret to align them with a broader ideological agenda — not through persuasion, but through emotional resonance. Adabra Gwynn used Falcon the Hunter’s guilt over surviving Iymrith’s attack and his failure to protect his lodge to reframe his past as a moral failure of interventionism.
+- [[redemption-through-substantive-gesture-not-apology]] — A form of moral repair in which genuine remorse is expressed not through words of contrition, but through tangible, meaningful action — often one that requires sacrifice, vulnerability, or personal cost. Falcon the Hunter exemplifies this concept when, after his public breakdown at the druid council, Valphine advises him to offer a musical instrument or studio space to Vukradin as a gesture of reconciliation.
+- [[narrative-economy-in-personal-trauma]] — The deliberate withholding of explicit detail about a character’s deepest personal losses to preserve emotional weight, mystery, and psychological realism. Falcon the Hunter’s story is saturated with unspoken grief: the identity of “his girlfriend” who died in the lodge’s destruction, and the “dearly beloved” referenced on the wooden elven ears, are never named, never explained.
+- [[employer-proxy-operation]] — A structural mechanism in which an organization uses an individual — often an adventurer, merchant, or local authority — as a visible, expendable agent to carry out dangerous, ethically ambiguous, or politically sensitive tasks, while maintaining plausible deniability. Falcon the Hunter serves as a proxy for the Neverwinter Mining Consortium, scouting threats, securing access to the Mountain’s Toe Gold Mine, and absorbing the risks of regional instability in exchange for a financial stake.
+- [[lodge-as-extension-of-self]] — The physical structure of Falcon the Hunter’s lodge is not merely property — it is his identity, legacy, and emotional anchor. Built with the proceeds of his survival from Iymrith’s hoard, the palisade, the wine cellar, the guest rooms — all are extensions of the myth he constructed to survive his trauma.
+- [[exhaustion-as-vulnerability-to-radicalization]] — A psychological state in which prolonged emotional, physical, or moral fatigue renders an individual susceptible to extremist ideologies not because they agree with them, but because they are too weary to resist them. Falcon the Hunter’s brief alignment with Adabra Gwynn’s anti-interventionist philosophy was not ideological conviction — it was exhaustion.
+- [[sanity-ray]] — A speculative magical device intended to cure mental illness (King Korboz’s madness) through technological intervention.
+- [[straitjacket-solution]] — A non-technological, physical restraint method proposed as an alternative to the Sanity Ray for managing madness.
+- [[harvesting-constructs-from-creature-entrails]] — Ethically ambiguous practice of repurposing slain magical creatures into new inventions.
+- [[bicameral-legislature-with-unitary-executive]] — Political model advocated by Fibblestib.
+- [[technology-as-cure]] — The philosophical assumption that complex psychological, spiritual, or existential conditions can be resolved through mechanical or scientific intervention.
+- [[bureaucratic-cowardice]] — A pattern of avoiding direct confrontation through procedural delay, hierarchical deference, and performative fear (e.g., shouting through doors about being “too bony for a dragon”).
+- [[credit-claiming-through-narrative-control]] — Systematic public framing of others’ achievements as results of one’s own leadership or foresight (e.g., claiming the Privy Council “brought heroes to Phandalin”).
+- [[informal-graft-as-institutional-norm]] — Bribery and off-the-books transactions presented as “how things are done” in the Overbright.
+- [[power-sharing-as-tactical-retreat]] — Creating shared governance structures not to democratize, but to diffuse blame and preserve personal authority.
+- [[administrative-weaponization-of-authority]] — Using titles (“Lord Neverember’s orders”) and procedural rules (“proper meetings require agendas”) to deflect accountability.
+- [[emotional-avoidance-as-governance-style]] — Refusing to engage with moral or supernatural discomfort (e.g., dismissing lighthouse curses, avoiding direct confrontation).
+- [[civic-ritual-as-political-theater]] — Orchestrating festivals, speeches, and public acknowledgments to bind personal identity to collective victories.
+- [[bureaucratic-oracle]] — A mortal conduit of authority that answers only within strict limits, never initiating, and always deferring to a higher, unseen power.
+- [[cover-identity-as-administrator]] — Using the legitimacy of a civic or institutional role to mask personal gain, unethical behavior, or hidden agendas.
+- [[contractual-morality]] — The belief that agreements are sacred, binding moral acts, not tools for exploitation.
+- [[pragmatic-integrity]] — Upholding ethical principles (e.g., contracts, honesty) while using clever, non-deceptive workarounds to navigate flawed systems.
+- [[engineering-heritage-as-identity]] — Cultural identity rooted in technical mastery (e.g., archway construction) rather than combat or wealth.
+- [[superstition-as-operational-hindrance]] — Irrational beliefs (e.g., needing a real Earthstone Gem) that disrupt efficiency, requiring bureaucratic or emotional workarounds.
+- [[moral-contrast-cleric-vs-contractarian]] — Conflict between faith-based moral absolutism (Valphine: “contracts are for cheating”) and system-based moral realism (Horia: “contracts are the only thing keeping order”).
+- [[internal-hum-sensory-phenomenon]] — A non-auditory, internally perceived signal preceding coordinated hostile actions, potentially indicating psychic, planar, or artifact-mediated control.
+- [[orc-coordination-mechanisms]] — A growing body of evidence suggesting that orc behavior in certain encounters is not driven solely by tribal instinct or brute force, but by hidden, non-biological coordination systems.
+- [[warning-as-self-vindication]] — A behavioral pattern in which a character emphasizes prior advice or warnings they issued — often to justify their inaction, non-involvement, or perceived moral distance from an outcome.
+- [[dual-monarchy]] — A political system where two rulers share equal authority, decisions resolved by persuasive argument rather than hierarchy; core ideological framework of Gnercli’s rule; directly challenged by Vukradin; reveals systemic vulnerability.
+- [[shapeshifter-threat-kobold-kingdom]] — Non-combat threat that undermines trust, identity, and institutional integrity; not a monster to kill, but a psychological weapon that makes the monarchy’s structure unworkable.
+- [[madness-as-political-vulnerability]] — Psychological instability exploited to destabilize institutional power structures.
+- [[shapeshifter-threat-as-symbolic-fear]] — A perceived existential threat (shapeshifter) that represents deeper institutional distrust and loss of epistemic certainty.
+- [[ghost-as-unresolved-purpose]] — A spectral manifestation that does not speak, curse, or demand justice — but instead communicates through direction, gaze, or silent presence. Lady Alagondar is the canonical example.
+- [[artifact-placement-as-narrative-clue]] — The deliberate positioning of physical objects within a space to encode hidden meaning, trigger events, or reveal unstated narrative truths — without verbal explanation.
+- [[emotional-resonance-through-absence]] — A narrative technique in which a character’s profound impact is amplified precisely because they are absent — never seen, never heard, never explained.
+- [[interplanar-commercial-interests]] — Business operations tied to planar phenomena, goods, or artifacts; institutional, quasi-legal trade distinct from criminal smuggling.
+- [[planar-phenomena-as-commodity]] — Goods valued not for material use but for their planar origin or resonance; treated as collectible assets by institutional buyers.
+- [[organizational-secrecy-via-bosses]] — Leadership structure where authority is unnamed and distant, enabling plausible deniability; extends layered-command-structure into commercial context.
+- [[supply-chain-disruption-by-planar-conflict]] — Macro-level cosmological events (e.g., War of the Giants) directly impacting mundane commerce; economic consequence of ordning-shattering.
+- [[premium-pricing-for-planar-goods]] — Market mechanism where planar origin justifies price premiums, signaling hidden demand.
+- [[social-attentiveness-as-commercial-tool]] — Using warmth, praise, and social engagement to build trust and extract information; proactive tool of commercial intelligence.
+- [[rumor-as-intelligence-gathering]] — Disseminating or collecting rumors as proxy for operational intelligence; extends information-asymmetry-npc-encounters.
 
 ## Sources
 - [[campaign_state-20260520.md]] — Comprehensive campaign state and history.
@@ -117,6 +286,30 @@ sources: []
 - [[blagothkus.md]] — Source detailing the fall and execution of the cloud giant lord Blagothkus.
 - [[blasius.md]] — Source documenting the Satyr Blasius, his guilt, and his role in the Seelie Court.
 - [[blooddrinker.md]] — Source detailing the origin, transformation, and emotional significance of Blooddrinker.
+- [[4-npcs--17-aldric_stone_path--s0n2ci.md]] — Source documenting Aldric Stone Path’s role in Adabra’s campaign and the druid council.
+- [[4-npcs--6-aletra--c833e2.md]] — Source documenting Aletra Satora’s smuggling operation and her relationship with Valphine.
+- [[4-npcs--24-alphonse_big_al_kalazorn--143w65h.md]] — Source documenting Alphonse "Big Al" Kalazorn’s redemption arc and emotional reconciliation.
+- [[4-npcs--15-backes_dunfield--krnj1u.md]] — Source documenting Backes Dunfield as a deliberately empty NPC, exemplifying narrative economy.
+- [[4-npcs--5-boney--dhqd4y.md]] — Source documenting Boney’s origin, personality, and role as a sentient undead companion.
+- [[4-npcs--15-borg_the_hammer--wt0p7w.md]] — Source documenting Borg the Hammer’s role as a field enforcer for The Carver and his operation at Butterskull Ranch.
+- [[4-npcs--9-brewbarry--igotkx.md]] — Source documenting Brewbarry’s character, behavior, and moral arc.
+- [[4-npcs--15-brin_bundlewine--1tfkaba.md]] — Source documenting Brin Bundlewine’s radical devotion and the founding of the Temple of Lathander’s Searing Pain of Justice.
+- [[4-npcs--15-cooragh_struckt--15mr3mb.md]] — Source documenting Cooragh Struckt’s minimal but emotionally resonant presence as a cook at the Wayside Inn.
+- [[4-npcs--25-daran_edermath_silverleaf--j3jgtk.md]] — Source documenting Daran Edermath’s moral blind spot and the lighthouse salvage proposal.
+- [[4-npcs--16-dazlyn_grayshard--14p04yl.md]] — Source documenting Dazlyn Grayshard’s grounded, non-dramatic presence as a dwarf prospector and co-discoverer of the Temple of Abbathor.
+- [[4-npcs--14-don_jon_raskin--193m00f.md]] — Source documenting Don-Jon Raskin’s role as an unaware proxy overseer of the Mountain’s Toe Gold Mine.
+- [[4-npcs--21-elara_seasong_meliame--eflx5m.md]] — Source documenting Elara Seasong Meliame, House Meliame, and the cultural artifact conflict.
+- [[4-npcs--5-elara--kqq7u2.md]] — Source documenting Elara, the devout merchant, and her theological encounter with Valphine.
+- [[4-npcs--8-facktore--ua3p40.md]] — Source documenting Facktore’s ambush, institutional failure, and the emergence of unregulated invention.
+- [[4-npcs--10-fibblestib--n4stqv.md]] — Source documenting Fibblestib’s rivalry with Dabbledob, his obsession with King Korboz, and his ethical blind spots.
+- [[4-npcs--19-giles_slipper_shine--b6yrj.md]] — Source documenting Giles Slipper-Shine as a genuine, non-dramatic true believer in the solar pain doctrine.
+- [[4-npcs--5-jarek--8sh6ha.md]] — Source documenting Jarek’s experience of the internal hum and his role as Elara’s groom.
+- [[4-npcs--12-king_gnercli--q5cr3t.md]] — Source documenting King Gnercli’s role in the kobold kingdom, his defense of the dual monarchy, and his collapse under Vukradin’s critique.
+- [[4-npcs--14-lady_alagondar--13k58y5.md]] — Source documenting Lady Alagondar’s legacy, ghost, and the Dragon Slayer Sword.
+- [[4-npcs--15-linene_graywind--15ha3ay.md]] — Source documenting Linene Graywind’s role as a node in institutional interplanar commerce and her operation of the Lionshield Coster outpost.
 
 ## Queries
+- [[queries/precise-title-2026-05-27|Precise title]]
+- [[queries/precise-title-2026-05-27|Precise title]]
+- [[queries/moral-judgment-of-undead-agency-2026-05-27|Moral judgment of undead agency]]
 *(...existing entries preserved...)*

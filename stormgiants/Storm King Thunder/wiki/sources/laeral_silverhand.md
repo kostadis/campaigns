@@ -65,7 +65,7 @@ related: []
 - **Existing Pages:**
   - [[Seven Anointed]]
   - [[Lord's Alliance (Waterdeep)]]
-  - [[Silverymoon]]
+  - Silverymoon
   - [[Cult of the Dragon]]
   - [[Severin]]
   - [[Sandesyl]]
@@ -86,7 +86,7 @@ related: []
   - [[Laeral Silverhand]]
   - [[Lord's Alliance (Waterdeep)]]
   - [[Seven Anointed]]
-  - [[Silverymoon]]
+  - Silverymoon
   - [[Cult of the Dragon]]
   - [[Severin]]
   - [[Sandesyl]]

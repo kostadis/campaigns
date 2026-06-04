@@ -16,4 +16,4 @@ The site is divided into distinct areas:
 * **Resting Chamber:** The location where Lady Alagondar was laid to rest.
 * **Northern Chamber:** A separate area containing a dragon's skull, upon which the [[dragon-slayer-sword]] was placed.
 
-The deliberate separation of the lady's body from her primary weapon suggests a ritualistic or protective purpose that remains unexplained. The site also served as a place of guardianship for [[boney]] following Lady Alagondar's death.
+The deliberate separation of the lady's body from her primary weapon suggests a ritualistic or protective purpose that remains unexplained. The site also served as a place of guardianship for boney following Lady Alagondar's death.

@@ -63,6 +63,6 @@ related: []
 ### Connections to Existing Wiki
 
 - **Existing Pages**: 
-  - [[Everlund]], [[Silverymoon]], [[Speaker Vatrice Stormwright]], [[High Marshal Methrammar Aerasumé]], [[Tamalin Zoar]], [[Dral Thelev]], [[Unla Kee]].
+  - [[Everlund]], Silverymoon, [[Speaker Vatrice Stormwright]], [[High Marshal Methrammar Aerasumé]], [[Tamalin Zoar]], [[Dral Thelev]], [[Unla Kee]].
 - **Impact**: 
   - Strengthens existing knowledge by providing a deeper understanding of Horix Zoar's motivations and his role in the political landscape of Everlund 

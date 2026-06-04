@@ -67,7 +67,7 @@ related: []
 
 - **[[dragon lore]]**: Relevant for Rebecca’s expertise.
 - **[[anti-spellguard movement]]**: Aligns with Rebecca’s ideological stance.
-- **[[silverymoon]]**: Contextualizes Rebecca’s role within the city.
+- **silverymoon**: Contextualizes Rebecca’s role within the city.
 
 ### Contradictions & Tensions
 
@@ -81,7 +81,7 @@ related: []
   - [[wyrmworks]]
   - [[dragon lore]]
   - [[anti-spellguard movement]]
-  - [[silverymoon]]
+  - silverymoon
 - **Emphasize**:
   - Rebecca’s specialized knowledge and her ideological stance.
   - The political risks associated with her views.

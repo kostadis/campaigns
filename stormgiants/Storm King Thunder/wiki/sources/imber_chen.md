@@ -46,7 +46,7 @@ related: []
 
 ### Connections to Existing Wiki
 
-- **[[Silverymoon]]**: Imber's knowledge of Silverymoon's politics and its racial inclusivity relates to the wiki entry on Silverymoon.
+- **Silverymoon**: Imber's knowledge of Silverymoon's politics and its racial inclusivity relates to the wiki entry on Silverymoon.
 - **[[River Trade Routes]]**: Imber's expertise in river trade routes and his stall at the Fishyard connects to the wiki entry on River Trade Routes.
 - **[[Fairy Biology]]**: Imber's dismissive comment about fairy reproduction relates to the wiki entry on Fairy Biology.
 
@@ -58,7 +58,7 @@ related: []
 
 - **Create or Update Pages**: 
   - [[Imber Chen]]: To consolidate the information about Imber Chen.
-  - [[Silverymoon]]: To incorporate Imber's insights on Silverymoon's politics and racial inclusivity.
+  - Silverymoon: To incorporate Imber's insights on Silverymoon's politics and racial inclusivity.
   - [[River Trade Routes]]: To include Imber's expertise in river trade routes.
   - [[Fairy Biology]]: To reflect Imber's dismissive view on fairy reproduction.
   

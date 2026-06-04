@@ -14,7 +14,7 @@ venue: ""
 
 # Bob Saget Intelligence Profile
 
-Comprehensive intelligence dossier regarding the demonic entity known as **Bob Saget**. This source covers his identity as a Massively Powerful Entity (MPE), his theatrical ritualistic murders in [[silverymoon]], his relationship with [[kaelen-sarssir]], and the geopolitical implications of his existence regarding [[the-1489-treaty]] and [[the-astral-empires]].
+Comprehensive intelligence dossier regarding the demonic entity known as **Bob Saget**. This source covers his identity as a Massively Powerful Entity (MPE), his theatrical ritualistic murders in silverymoon, his relationship with [[kaelen-sarssir]], and the geopolitical implications of his existence regarding [[the-1489-treaty]] and [[the-astral-empires]].
 
 ## Executive Summary
 Bob Saget is a Massively Powerful Entity (MPE) and demon lord who escaped from the Abyss. He operates as an actor and theater impresario, utilizing a unique demonic portfolio to orchestrate ritualistic murders and theatrical events. His presence has significant geopolitical implications for interplanar law and the stability of the Material Plane.
@@ -51,7 +51,7 @@ Bob Saget is a Massively Powerful Entity (MPE) and demon lord who escaped from t
 ## Historical & Narrative Events
 
 ### The Silverymoon Theater Incident
-Bob orchestrated ritualistic murders within [[silverymoon]], utilizing his theatrical background to conduct these events.
+Bob orchestrated ritualistic murders within silverymoon, utilizing his theatrical background to conduct these events.
 
 ### Summoning Ritual
 A central ritual used to summon Bob from the Abyss, which is critical to his narrative arc and his ability to operate between planes.

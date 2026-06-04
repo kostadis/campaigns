@@ -4,7 +4,7 @@ title: skippy.md
 created: 2025-05-22
 updated: 2025-05-22
 tags: [intelligence, interrogation, brigand]
-related: [skippy, the-carver, borg-the-hammer, sister-kaella, corbin, vukradin, butterskull-ranch]
+related: ["skippy", "the-carver", "borg-the-hammer", "sister-kaella", "vukradin", "butterskull-ranch"]
 sources: []
 authors: []
 year: 2025

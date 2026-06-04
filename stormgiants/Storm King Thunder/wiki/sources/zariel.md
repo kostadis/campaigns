@@ -58,7 +58,7 @@ related: []
 
 ### Connections to Existing Wiki
 - **Existing Pages:**
-  - [[House Margaster]], [[Cambions]], [[Silverymoon]], [[Everlund]]
+  - [[House Margaster]], [[Cambions]], Silverymoon, [[Everlund]]
   - [[Infernal Forces]], [[Private Arrangement]], [[Political Protection]]
   - [[Unpardonable Sins]]
 - **Impact:**
