@@ -43,7 +43,7 @@ related: []
 - **Create Pages**: 
   - [[House Margaster]] 
   - [[Cambions]]
-  - [[Silverymoon]]
+  - Silverymoon
   - [[Everlund]]
 - **Emphasize**: Xamlyn’s political maneuvering and her connection to the Cambions.
 - **De-emphasize**: Immediate details about her “unpardonable sins” in Everlund, which are currently hidden.

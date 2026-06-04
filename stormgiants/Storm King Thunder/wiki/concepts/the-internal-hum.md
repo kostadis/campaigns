@@ -13,7 +13,7 @@ sources: ["jarek.md"]
 
 ## Characteristics
 - **Internal Nature:** It is not perceived through the ears but as a direct internal sensation.
-- **Abrupt Cessation:** Eyewitness accounts (notably from [[jarek]]) suggest the hum may vanish abruptly immediately preceding a significant event, such as a coordinated ambush.
+- **Abrupt Cessation:** Eyewitness accounts (notably from jarek) suggest the hum may vanish abruptly immediately preceding a significant event, such as a coordinated ambush.
 
 ## Potential Origins
 The phenomenon is suspected to be a signature of a coordinating force or a magical/psionic trigger. It bears strong similarities to the methods of [[psionic-manipulation]] and [[mental-compulsion]] associated with the [[kraken-society]]. It may serve as a "syncing" event for coordinated actors or a proximity-based indicator of psionic influence.

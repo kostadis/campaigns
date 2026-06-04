@@ -63,7 +63,7 @@ related: []
 
 ### Connections to Existing Wiki
 - **Existing Pages:**
-  - [[Silverymoon]] — Provides context about the city.
+  - Silverymoon — Provides context about the city.
   - [[Star Court]] — Represents the legal system of Silverymoon.
   - [[Lady Margaster]] — Provides background on her financial contributions.
   - [[Orsik]] — Provides context about his past incidents.

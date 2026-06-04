@@ -81,7 +81,7 @@ related: []
 - **[[kragota-threeteeth]]**: Relevant for her intelligence network connections.
 - **[[intelligence-networks]]**: Directly applicable to her role as an informant.
 - **[[underdark]]**: Connects her past to her current situation.
-- **[[silverymoon]]**: Pertains to her involvement in defending Silverymoon.
+- **silverymoon**: Pertains to her involvement in defending Silverymoon.
 - **[[lord-zymorven]]**: References her past relationship with Lord Zymorven.
 
 ### Contradictions & Tensions

@@ -1477,7 +1477,7 @@ sources: []
 
 ## 2025-05-22
 
-- Ingested [[borg_the_hammer.md]]: Added entities [[borg-the-hammer]], [[the-carver]], [[rot-tusk-ogres]], [[alphonse-big-al-kalazorn]], and [[butterskull-ranch]]. Added concept [[tactical-pragmatism]].
+- Ingested [[borg_the_hammer.md]]: Added entities [[borg-the-hammer]], [[the-carver]], [[rot-tusk-ogres]], alphonse-big-al-kalazorn, and [[butterskull-ranch]]. Added concept [[tactical-pragmatism]].
 
 ---
 type: overview
@@ -1901,7 +1901,7 @@ sources: []
 
 ## 2025-05-22
 
-- Ingested [[jarek.md]]; created entity [[jarek]], concept [[the-internal-hum]], and source [[jarek.md]].
+- Ingested jarek.md; created entity jarek, concept [[the-internal-hum]], and source jarek.md.
 
 ---
 type: overview
@@ -2196,3 +2196,406 @@ sources: ["campaign_state-20260520.md"]
 - Updated source page: [[wiki/sources/blasius.md]]
 - Updated index: added new entities and concepts
 - Enhanced existing concepts: [[guilt-as-internal-prison]], [[status-driven-behavior]], [[defensive-deference]], [[vision-quests]], [[disguised-influence]] with Blasius examples
+
+---
+type: source
+title: "wiki/log.md"
+created: 2024-05-22
+updated: 2026-06-15
+tags: [log]
+related: []
+sources: []
+---
+## 2026-06-15 ingest | Adabra Gwynn and the Anti-Interventionist Schism
+- Ingested source: npcs/adabra.md
+- Created new entity pages: [[adabra-gwynn]], [[soma]], [[vukradin]], [[lyra]], [[falcon-the-hunter]], [[aldric-stone-path]], [[harbin-wester]], [[reidoth]], [[thomas]], corbin, [[presiding-druid]], [[cult-of-talos]], [[treant]], [[meril's-staff]], [[whispering-grove]]
+- Created new concept pages: [[anti-interventionism-druidic]], [[naturalism-as-moral-framework]], [[weaponization-of-personal-debt]], [[cascading-multiversal-imbalance]], [[true-believer-verification]], [[philosophical-deception-tacit-complicity]], [[music-as-metaphor-for-cosmic-order]]
+- Updated source page: [[wiki/sources/4-npcs--6-adabra--k8wgs0.md]]
+- Updated index: [[wiki/index.md]]
+- Updated overview: [[wiki/overview.md]]
+
+---
+type: overview
+title: Wiki Log
+created: 2024-05-22
+updated: 2026-06-15
+tags: [log]
+related: []
+sources: []
+---
+## 2026-06-15 ingest | Aldric Stone Path
+- Created entity page: [[aldric-stone-path]]
+- Created source page: [[4-npcs--17-aldric_stone_path--s0n2ci.md]]
+- Updated concept pages: [[anti-interventionism-druidic]], [[true-believer-verification]], [[weaponization-of-personal-debt]], [[philosophical-deception-tacit-complicity]]
+- Updated index: added new entity, source, and concept updates
+
+---
+type: overview
+title: Wiki Log
+created: 2024-05-22
+updated: 2026-06-15
+tags: [log]
+related: []
+sources: []
+---
+## 2026-06-15 ingest | Aletra Satora and the Interdimensional Poison Trade
+
+- Created new entity pages: [[aletra-satora]], [[valphine]], [[kp]], [[midnight-tears]], [[model-1489-spatial-rectification-calliope]], [[house-sartorra]], [[xorlarrin]]
+- Created new concept pages: [[interdimensional-smuggling]], [[illicit-poison-trade-interdimensional]], [[weaponized-charm-and-dark-humor]], [[operational-secrecy-via-obscurer-authority]], [[sacrificial-decoy-tactics]], [[emotional-manipulation-through-familial-reference]], [[planar-artifact-as-smuggling-conduit]], [[evidence-tampering-via-ledger-forgery]], [[criminal-oracle]], [[cover-identity-as-engineer]]
+- Updated source page: [[4-npcs--6-aletra--c833e2.md]]
+- Updated index: [[wiki/index.md]] with new entities and concepts
+- Updated overview: [[wiki/overview.md]] to integrate Aletra’s arc and the criminal oracle concept
+
+---
+type: overview
+title: Wiki Log
+created: 2024-05-22
+updated: 2026-06-15
+tags: [log]
+related: []
+sources: []
+---
+## 2026-06-15 ingest | Alphonse "Big Al" Kalazorn Redemption Arc
+- Added source page: [[4-npcs--24-alphonse_big_al_kalazorn--143w65h.md]]
+- Created new entity pages: alphonse-big-al-kalazorn, [[petunia]], [[qelline-alderleaf]], [[butterskull-ranch]], [[qelline-alderleafs-farm]], [[borg-the-hammer]], [[rot-tusk-ogres]]
+- Created new concept pages: [[grazing-rights-as-metaphor-for-reconciliation]], [[veteran-identity-as-armor]], [[quest-as-emotional-trap]]
+- Updated existing pages: [[harbin-wester]], [[vukradin]], [[soma]], corbin, [[animal-companion-bonding]], [[defensive-deference]]
+- 2026-05-27: Created query page `adabras-next-move-2026-05-27.md` from review
+- 2026-05-27: Created concept page `soma-2026-05-27.md` from review
+- 2026-05-27: Created concept page `vukradin-2026-05-27.md` from review
+- 2026-05-27: Created query page `cult-of-talos-2026-05-27.md` from review
+- 2026-05-27: Created concept page `whispering-woods-2026-05-27.md` from review
+- 2026-05-27: Created query page `adabras-view-of-drow-2026-05-27.md` from review
+- 2026-05-27: Created concept page `aldric-stone-path-2026-05-27.md` from review
+- 2026-05-27: Created query page `expand-kps-role-2026-05-27.md` from review
+- 2026-05-27: Created concept page `mother-satorra-2026-05-27.md` from review
+- 2026-05-27: Created query page `kp-nature-2026-05-27.md` from review
+- 2026-05-27: Created query page `house-sartorra-vs-xorlarrin-2026-05-27.md` from review
+- 2026-05-27: Created concept page `precise-title-2026-05-27.md` from review
+
+
+---
+type: source
+title: Wiki Log
+created: 2024-05-22
+updated: 2026-06-15
+tags: [log]
+related: []
+sources: []
+---
+## 2026-06-15 ingest | Backes Dunfield: Narrative Economy and Background NPC
+
+- Created new source page: [[4-npcs--15-backes_dunfield--krnj1u.md]]
+- Created new entity: [[background-npc]]
+- Created new concept: [[narrative-economy]]
+- Updated [[index.md]] with new entries and cross-references
+- Updated [[overview.md]] to integrate narrative silence as a core design principle
+- Expanded [[information-asymmetry-npc-encounters]] to include intentional voids as narrative tools
+- Added note to [[pre-meeting-narrative-structure]] distinguishing between unknowns and insignificants
+
+---
+type: source
+title: "Log"
+created: 2024-05-22
+updated: 2026-06-15
+tags: [log]
+related: []
+sources: ["campaign_state-20260520.md"]
+---
+## 2026-06-15 ingest | Barthen
+- Created source page: [[4-npcs--7-barthen--1lr1be3.md]]
+- Created entity pages: [[barthen]], [[falcon-hunting-lodge]], [[vincent]]
+- Created concept pages: [[transaction-as-narrative-catalyst]], [[letter-of-introduction-as-access-key]], [[named-animal-as-emotional-anchor]]
+- Updated index: [[index.md]]
+- Updated overview: [[overview.md]]
+- Added connections to [[narrative-economy]], [[harbin-wester]]
+## 2026-06-15 ingest | Boney
+- Created source page: [[4-npcs--5-boney--dhqd4y.md]]
+- Created entity pages: boney, [[lady-alagondar]], [[will-o-wisps]], [[sister-kaella]]
+- Created concept pages: [[undead-animal-companion]], [[loyalty-transference]], [[undead-sentience-without-corruption]], [[moral-ambiguity-of-inaction-undead]], [[naming-as-identity-reclamation]], [[transaction-as-narrative-catalyst]]
+- Updated entity pages: [[soma]], [[valphine]], corbin
+- Updated concept pages: [[animal-companion-bonding]], [[narrative-economy]]
+- Updated index: [[index.md]]
+- Updated overview: [[overview.md]]
+- Added connections to [[divine-silence]], [[true-believer-verification]], [[ambiguous-sentience]], [[soul-manipulation]]
+
+---
+type: overview
+title: Wiki Log
+created: 2024-05-22
+updated: 2026-06-15
+tags: [log]
+related: []
+sources: []
+---
+## 2026-06-15 ingest | Borg the Hammer
+
+- Created new entity pages: [[borg-the-hammer]], [[the-carver]]
+- Created new concept pages: [[weaponization-of-innocence]], [[destruction-as-frustration-response]], [[cover-identity-as-enforcer]]
+- Updated entity page: [[butterskull-ranch]] — added Borg as architect of ambush and destruction
+- Updated entity page: alphonse-big-al-kalazorn — added Borg as captor and baiter
+- Updated concept page: [[quest-as-emotional-trap]] — added Borg’s operation as canonical example
+- Updated index.md and overview.md to reflect new entries
+- Added source page: [[4-npcs--15-borg_the_hammer--wt0p7w.md]]
+
+---
+type: overview
+title: Wiki Log
+created: 2023-10-05
+updated: 2026-06-15
+tags: [log]
+related: []
+sources: []
+---
+## 2026-06-15 ingest | Brewbarry: The Non-Confessional Barbarian
+- Created new entity page: [[brewbarry]]
+- Created new concept pages: [[exile-as-redemption-path]], [[comedic-moral-contrast]], [[non-lethal-combat-as-moral-choice]], [[tactical-bluntness-as-effectiveness]], [[symbolic-identification-with-the-oppressed]], [[barbarian-as-anti-ideologue]], [[weaponized-narrative-economy]]
+- Updated source page: [[4-npcs--9-brewbarry--igotkx.md]]
+- Updated index: Added Brewbarry and new concepts to Entities and Concepts sections
+- Updated overview: Integrated Brewbarry’s moral archetype into the broader narrative framework
+- 2026-05-27: Created query page `narrative-silence-pattern-2026-05-27.md` from review
+- 2026-05-27: Created concept page `wayside-inn-2026-05-27.md` from review
+
+
+---
+type: overview
+title: Wiki Log
+created: 2024-05-22
+updated: 2026-06-15
+tags: [log]
+related: []
+sources: []
+---
+# Wiki Log
+
+## 2026-06-15
+- ingest | Brin Bundlewine: Added source page, entity pages for Brin Bundlewine and Giles Slipper-Shine, and five new concept pages: Unorthodox Lathanderite Interpretation, Ritual Self-Flagellation as Devotion, Holy Disfigurement, Labor as Devotion, Public Religious Spectacle as Fundraising. Updated index and overview to reflect new theological and aesthetic dimensions of radicalized devotion.
+- 2026-05-27: Created query page `falcon-hunting-lodge-connections-2026-05-27.md` from review
+- 2026-05-27: Created concept page `precise-title-2026-05-27.md` from review
+- 2026-05-27: Created concept page `precise-title-2026-05-27.md` from review
+- 2026-05-27: Created query page `will-o-wisps-as-cosmic-predators-2026-05-27.md` from review
+
+
+---
+type: overview
+title: Wiki Log
+created: 2024-05-22
+updated: 2026-06-15
+tags: [log]
+related: []
+sources: []
+---
+## 2026-06-15 ingest | Cooragh Struckt
+- Created new entity page: [[cooragh-struckt]]
+- Created new concept pages: [[sensory-driven-characterization]], [[quietly-resonant-npc]]
+- Updated [[background-npc]] and [[narrative-economy]] to acknowledge emotionally resonant background NPCs
+- Added source page: [[4-npcs--15-cooragh_struckt--15mr3mb.md]]
+- Updated index to include new entity and concepts
+- 2026-05-27: Created query page `moral-judgment-of-undead-agency-2026-05-27.md` from review
+- 2026-05-27: Created concept page `brewbarry-2026-05-27.md` from review
+- 2026-05-27: Created query page `precise-title-2026-05-27.md` from review
+- 2026-05-27: Created concept page `lady-alagondar-2026-05-27.md` from review
+
+
+---
+type: overview
+title: Wiki Log
+created: 2023-10-05
+updated: 2026-06-15
+tags: [log]
+related: []
+sources: []
+---
+## 2026-06-15 ingest | Corbin
+
+- Created entity page: corbin
+- Created source page: [[4-npcs--6-corbin--ee7262.md]]
+- Created concept pages: [[weaponization-of-personal-debt]], [[sacrificial-decoy-tactics]], [[moral-ambiguity-of-inaction-undead]], [[redemption-through-acknowledgment]], [[emotional-manipulation-through-familial-reference]], [[status-driven-behavior]], [[defensive-deference]], [[cynical-alliance-as-strategy]], [[narrative-economy]], [[unorthodox-lathanderite-interpretation]]
+- Updated index.md with new entries
+- Updated overview.md to reflect Corbin’s centrality to the interventionism debate
+
+---
+type: overview
+title: Wiki Log
+created: 2024-05-22
+updated: 2026-06-15
+tags: [log]
+related: []
+sources: []
+---
+## 2026-06-15 ingest | Corwin: Procedural Gatekeeper and the Rituals of Access
+- Created new entity pages: [[barthen]], [[falcon-hunting-lodge]], corwin
+- Created new concept pages: [[gatekeeping-as-service]], [[hospitality-as-ritual]], [[credential-based-access]]
+- Updated [[index.md]] to include new entities and concepts
+- Updated [[overview.md]] to integrate Corwin’s procedural role into the broader theme of mundane systems of control
+- Added npcs/corwin.md to all relevant sources fields
+
+---
+type: source
+title: "wiki/log.md"
+created: 2024-05-22
+updated: 2026-06-15
+tags: [log]
+related: []
+sources: ["campaign_state-20260520.md"]
+---
+## 2026-06-15 ingest | Cryovain
+
+- Created new entity page: [[cryovain]]
+- Created new entity page: [[the-carvers-obsidian-sword]]
+- Created new concept pages: [[metaphysical-cold]], [[planar-hoard]], [[victim-of-dominance]], [[harvesting-as-moral-continuation]], [[ecological-disruption-by-apex-predator]]
+- Updated source page: [[4-npcs--8-cryovain--yo1ckg.md]]
+- Updated overview: [[overview]] to integrate Cryovain’s narrative and moral implications
+
+---
+type: source
+title: "wiki/log.md"
+created: 2026-06-15
+updated: 2026-06-15
+tags: [log]
+related: []
+sources: ["npcs/delaan_winterhound.md"]
+---
+## 2026-06-15 ingest | Delaan Winterhound and the Origins of the Emerald Enclave Schism
+
+- Created new entity pages: [[delaan-winterhound]], [[malfire]]
+- Created new concept pages: [[ideological-split-in-the-emerald-enclave]], [[persuadable-non-interventionism]], [[foundational-decision-as-ideological-catalyst]], [[historical-npc-as-archetype]]
+- Updated existing entity: [[lyra]] to reflect Delaan’s influence
+- Updated concept: [[anti-interventionism-druidic]] to distinguish flexible vs. dogmatic forms
+- Updated entity: [[adabra-gwynn]] to contrast her rigidity with Delaan’s nuance
+- Updated overview to integrate Delaan’s legacy as the foundational catalyst of the Enclave’s schism
+
+---
+type: source
+title: "wiki/log.md"
+created: 2024-05-22
+updated: 2026-06-15
+tags: [log]
+related: []
+sources: []
+---
+## 2026-06-15 ingest | Dwolin the Grout
+- Created new entity pages: [[dwolin-the-grout]], [[horia-stonetallow]], [[earthstone-gem]]
+- Created new concept pages: [[sentient-veins]], [[ritualized-resource-extraction]], [[skill-despite-superstition]], [[tolerated-eccentricity-in-labor-hierarchies]]
+- Updated [[mountain-s-toe-gold-mine]] with subsection on internal culture and superstition
+- Updated [[overview.md]] to include Dwolin’s narrative contribution and epistemological significance
+- Added source reference to all new pages: "npcs/dwolin_the_grout.md"
+- 2026-05-27: Created concept page `corbin-2026-05-27.md` from review
+- 2026-05-27: Created query page `lily-corbins-daughter-2026-05-27.md` from review
+- 2026-05-27: Created query page `druid-councils-dismissal-of-corbin-2026-05-27.md` from review
+- 2026-05-27: Created concept page `precise-title-2026-05-27.md` from review
+- 2026-05-27: Created concept page `cryovain-2026-05-27.md` from review
+- 2026-05-27: Created query page `the-carvers-obsidian-sword-2026-05-27.md` from review
+- 2026-05-27: Created query page `the-carvers-obsidian-sword-2026-05-27.md` from review
+- 2026-05-27: Created query page `harvesting-as-moral-continuation-2026-05-27.md` from review
+- 2026-05-27: Created query page `metaphysical-cold-2026-05-27.md` from review
+- 2026-05-27: Created concept page `the-king-2026-05-27.md` from review
+- 2026-05-27: Created query page `the-kings-governing-body-2026-05-27.md` from review
+- 2026-05-27: Created query page `dabbledobs-motivations-2026-05-27.md` from review
+- 2026-05-27: Created query page `precise-title-2026-05-27.md` from review
+- 2026-05-27: Created query page `precise-title-2026-05-27.md` from review
+- 2026-05-27: Created concept page `precise-title-2026-05-27.md` from review
+- 2026-05-27: Created query page `precise-title-2026-05-27.md` from review
+- 2026-05-27: Created concept page `elara-seasong-meliame-2026-05-27.md` from review
+
+
+---
+type: overview
+title: Wiki Log
+created: 2024-05-22
+updated: 2026-06-15
+tags: [log]
+related: []
+sources: []
+---
+## 2026-06-15 ingest | Facktore: Unregulated Invention and Institutional Failure
+
+- Created new entity page: facktore
+- Created new concept pages: [[unregulated-invention]], [[innocent-as-test-subject]], [[fleeing-inventor-archetype]], [[ambush-as-experiment]]
+- Updated existing entity: [[gnomengarde]] to include internal fractures and Facktore as case study
+- Updated concept: [[evidence-based-pragmatism]] to include ethical caveat
+- Updated concept: [[background-npc]] to clarify latent threats
+- Updated concept: [[narrative-economy]] to include strategic ambiguity
+- Added source: [[4-npcs--8-facktore--ua3p40.md]]
+- 2026-05-27: Created query page `facktores-hidden-inventions-2026-05-27.md` from review
+- 2026-05-27: Created query page `gnomengardes-oversight-failure-2026-05-27.md` from review
+- 2026-05-27: Created concept page `facktore-2026-05-27.md` from review
+- 2026-05-27: Created query page `gnomengardes-oversight-failure-2026-05-27.md` from review
+- 2026-05-27: Created query page `facktores-hidden-inventions-2026-05-27.md` from review
+- 2026-05-27: Created concept page `facktore-2026-05-27.md` from review
+
+
+---
+type: source
+title: Wiki Log
+created: 2024-05-22
+updated: 2026-06-15
+tags: [log]
+related: []
+sources: []
+---
+## 2026-06-15 ingest | Falcon the Hunter
+
+- Created source page: [[wiki/sources/4-npcs--17-falcon_the_hunter--qft71h.md]]
+- Created entity pages: [[falcon-the-hunter]], [[woodland-manse]], [[brass-ring-of-lightning]], [[wooden-elven-ears-my-dearly-beloved]], [[labyrinth-wooden-square]], [[neverwinter-mining-consortium]]
+- Created concept pages: [[performative-identity-as-business-strategy]], [[guilt-as-a-tool-of-ideological-manipulation]], [[redemption-through-substantive-gesture-not-apology]], [[narrative-economy-in-personal-trauma]], [[employer-proxy-operation]], [[lodge-as-extension-of-self]], [[exhaustion-as-vulnerability-to-radicalization]]
+- Updated index: Added new entities and concepts to respective sections
+- Updated overview: Integrated Falcon’s arc into the broader narrative framework
+- 2026-05-27: Created concept page `precise-title-2026-05-27.md` from review
+- 2026-05-27: Created query page `precise-title-2026-05-27.md` from review
+- 2026-05-27: Created query page `precise-title-2026-05-27.md` from review
+- 2026-05-27: Created concept page `king-korboz-2026-05-27.md` from review
+- 2026-05-27: Created query page `sanity-ray-vs-straitjacket-solution-2026-05-27.md` from review
+- 2026-05-27: Created query page `harvesting-constructs-from-creature-entrails-2026-05-27.md` from review
+- 2026-05-27: Created query page `bicameral-legislature-with-unitary-executive-2026-05-27.md` from review
+- 2026-05-27: Created query page `harvesting-constructs-from-creature-entrails-2026-05-27.md` from review
+- 2026-05-27: Created query page `bicameral-legislature-with-unitary-executive-2026-05-27.md` from review
+
+
+---
+type: overview
+title: Wiki Log
+created: 2023-10-05
+updated: 2026-06-15
+tags: [log]
+related: []
+sources: []
+---
+## 2026-06-15 ingest | Giles Slipper-Shine
+- Created new entity page: [[giles-slipper-shine]]
+- Created new concept pages: [[converts-radiance]], [[religious-enthusiasm-as-social-catalyst]]
+- Updated source page: [[4-npcs--19-giles_slipper_shine--b6yrj]]
+- Updated existing pages: [[brin-bundlewine]], [[labor-as-devotion]], [[public-religious-spectacle-as-fundraising]], [[devout-non-arc-npc]]
+
+---
+type: overview
+title: Wiki Log
+created: 2024-05-22
+updated: 2026-06-15
+tags: [log]
+related: []
+sources: []
+---
+## 2026-06-15 ingest | King Gnercli and the Collapse of the Dual Monarchy
+- Added source page: wiki/sources/4-npcs--12-king_gnercli--q5cr3t.md
+- Created new entity: [[king-gnercli]]
+- Created new concept: [[dual-monarchy]]
+- Created new concept: [[shapeshifter-threat-kobold-kingdom]]
+- Updated entity: [[king-korboz]] with subsection on systemic collapse
+- Updated entity: [[vukradin]] with new section on ideological disruption
+
+---
+type: overview
+title: Wiki Log
+created: 2024-05-22
+updated: 2026-06-15
+tags: [log]
+related: []
+sources: []
+---
+## 2026-06-15 ingest | Lady Alagondar
+- Created new entity pages: [[lady-alagondar]], [[dragon-slayer-sword]], [[dragon-barrow]]
+- Created new concept pages: [[ghost-as-unresolved-purpose]], [[artifact-placement-as-narrative-clue]], [[emotional-resonance-through-absence]]
+- Updated existing entity pages: boney, [[dragon-barrow]]
+- Updated source page: [[wiki/sources/4-npcs--14-lady_alagondar--13k58y5.md]]
+- Updated index: added new entities and concepts

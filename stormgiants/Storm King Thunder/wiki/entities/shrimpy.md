@@ -4,7 +4,7 @@ title: Shrimpy
 created: 2025-05-22
 updated: 2026-05-18
 tags: [orc, prisoner, npc]
-related: [brewbarry, valphine, soma, vukradin, corbin, harbin-wester, tibor-wester, cryovain, cult-of-talos, uthgardt]
+related: ["brewbarry", "valphine", "soma", "vukradin", "harbin-wester", "tibor-wester", "cryovain", "cult-of-talos", "uthgardt"]
 sources: ["shrimpy.md", "brewbarry.md"]
 ---
 # Shrimpy

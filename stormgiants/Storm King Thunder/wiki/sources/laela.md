@@ -40,7 +40,7 @@ related: []
 ### Connections to Existing Wiki
 - **[[fey]]**: Links to Laela's fey nature and potential fey-meditative state.
 - **[[dragon-hybrid-experiment]]**: Links to Iymrith's experiment involving Laela.
-- **[[silverymoon]]**: Links to Thistle's attachment to Silverymoon and his reluctance to risk its safety for Laela's rescue.
+- **silverymoon**: Links to Thistle's attachment to Silverymoon and his reluctance to risk its safety for Laela's rescue.
 - **[[iymrith]]**: Links to Iymrith's role as Laela's captor and experimenter.
 
 ### Contradictions & Tensions

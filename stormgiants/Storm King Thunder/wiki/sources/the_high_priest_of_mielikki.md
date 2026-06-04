@@ -42,7 +42,7 @@ related: []
 
 ### Connections to Existing Wiki
 - **[[church-of-mielikki]]**: This source provides additional details about the High Priest of Mielikki's role within the Church of Mielikki.
-- **[[silverymoon]]**: The source mentions her location in Silverymoon, which is relevant to the wiki entry on the city.
+- **silverymoon**: The source mentions her location in Silverymoon, which is relevant to the wiki entry on the city.
 - **[[resurrection]]**: The resurrection technique used by the High Priest is a key concept that can be linked to existing entries on resurrection magic.
 
 ### Contradictions & Tensions
@@ -52,7 +52,7 @@ related: []
 - **Create or Update Pages:**
   - [[high-priest-of-mielikki]]: To summarize the High Priest's role, history, and current status.
   - [[church-of-mielikki]]: To include more details about the High Priest's position within the church.
-  - [[silverymoon]]: To add the High Priest's presence in the city.
+  - silverymoon: To add the High Priest's presence in the city.
   - [[resurrection]]: To incorporate the specific resurrection technique used by the High Priest.
   
 - **Emphasize:**

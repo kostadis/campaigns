@@ -44,7 +44,7 @@ This wiki covers the narrative universe described in the source document "Lady A
 ## Pages
 - [[lady-alustriel-silverhand]]
 - [[methrammar-aerasumé]]
-- [[silverymoon]]
+- silverymoon
 
 ## Open Questions
 - What is the exact nature of Lady Alustriel's lineage and its impact on Silverymoon's governance?

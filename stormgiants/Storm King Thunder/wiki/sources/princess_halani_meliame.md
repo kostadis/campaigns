@@ -66,7 +66,7 @@ related: []
 - **Existing Pages:**
   - [[Moonwood]] — Provides background on the elven kingdom.
   - [[Yakfolk]] — Offers context on the village that captured Princess Halani.
-  - [[Silverymoon]] — Discusses the city that abandoned the Silver Marches.
+  - Silverymoon — Discusses the city that abandoned the Silver Marches.
   - [[Citadel Adbar]] — Describes the castle where Yakfolk-possessed dwarves assassinated the king.
   - [[Possession Rituals]] — Explains the method used by Yakfolk to capture individuals.
 - **Impact:**

@@ -58,7 +58,7 @@ related: []
 
 ### Recommendations
 - **Pages to Create or Update:**
-  - [[silverymoon]]
+  - silverymoon
   - [[highmage]]
   - [[formerruler]]
 - **Emphasis:**

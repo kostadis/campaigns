@@ -4,13 +4,13 @@ title: Bob Saget
 created: 2023-10-01
 updated: 2026-05-20
 tags: [entity, demon, actor, theater_impresario, demon-lord, antagonist, mpe, ally, planar-entity]
-related: ["kaelen-sarssir", "the-3hpp", "the-astral-empires", "silverymoon", "bob-saget-incident"]
+related: ["kaelen-sarssir", "the-3hpp", "the-astral-empires", "bob-saget-incident"]
 sources: ["bob_saget.md", "campaign_state-20260520.md"]
 ---
 
 # Bob Saget
 
-**Bob Saget** is a high-level demonic entity from the Abyss, self-identifying as a **Massively Powerful Entity (MPE)**. Originally intended to be a murderous demon, he was summoned accidentally during a failed ritual in [[silverymoon]] by [[kaelen-sarssir]]. While he holds a specialized [[demonic-portfolio-of-jokes]], a position that has rendered him a laughingstock among his Abyssal peers, he now performs comedy and utilizes theater as a mask for large-scale ritualistic slaughter. This drive for reputation has led to an intense desire to restore his standing through grand, humiliating spectacles.
+**Bob Saget** is a high-level demonic entity from the Abyss, self-identifying as a **Massively Powerful Entity (MPE)**. Originally intended to be a murderous demon, he was summoned accidentally during a failed ritual in silverymoon by [[kaelen-sarssir]]. While he holds a specialized [[demonic-portfolio-of-jokes]], a position that has rendered him a laughingstock among his Abyssal peers, he now performs comedy and utilizes theater as a mask for large-scale ritualistic slaughter. This drive for reputation has led to an intense desire to restore his standing through grand, humiliating spectacles.
 
 ## Identity & Nature
 - **Role:** Demon Lord, theatrical performer, and "tormentor of kings who killed their jesters."
@@ -28,7 +28,7 @@ Bob utilizes theater to facilitate ritualistic slaughter through a specific meth
 4. Routing actual theatergoers to a personal pocket dimension to maintain the illusion of a successful show.
 
 ### The Silverymoon Incident
-Bob manifested in [[silverymoon]] via a [[summoning_ritual]] embedded in [[the-summoning-script]]. After a period of successful cultural infiltration, his true nature was exposed during a performance where he murdered commoner stand-ins for [[the-3hpp]]. He was subsequently banished to the Astral Plane by [[the-3hpp]] using an explosive [[bag-of-holding]] maneuver.
+Bob manifested in silverymoon via a [[summoning_ritual]] embedded in [[the-summoning-script]]. After a period of successful cultural infiltration, his true nature was exposed during a performance where he murdered commoner stand-ins for [[the-3hpp]]. He was subsequently banished to the Astral Plane by [[the-3hpp]] using an explosive [[bag-of-holding]] maneuver.
 
 ## Current Status
 

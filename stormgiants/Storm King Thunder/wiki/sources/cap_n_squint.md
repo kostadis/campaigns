@@ -54,7 +54,7 @@ related: []
 - **Existing Pages**:
   - [[halfling]] — Relevant for Cap'n Squint’s race.
   - [[river-surbin]] — Relevant for the river’s name and direction of travel.
-  - [[silverymoon]] — Relevant for the destination.
+  - silverymoon — Relevant for the destination.
 - **Impact**:
   - Strengthens existing knowledge about halflings and river navigation.
   - Extends understanding of the party’s journey and interactions.

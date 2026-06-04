@@ -52,7 +52,7 @@ related: []
 
 ### Connections to Existing Wiki
 - **Existing Pages:**
-  - [[Silverymoon]], [[War of the Dragons]], [[High Mage]], [[Advisory Capacity]], [[House Margaster]]
+  - Silverymoon, [[War of the Dragons]], [[High Mage]], [[Advisory Capacity]], [[House Margaster]]
 - **Impact:**
   - Strengthens existing knowledge about Taern Hornblade's role and relationships within Silverymoon.
   - Provides context for the War of the Dragons and its aftermath.
@@ -64,7 +64,7 @@ related: []
 
 ### Recommendations
 - **Create or Update:**
-  - [[Taern Hornblade]], [[Lord Aerasumé]], [[House Margaster]], [[Silverymoon]], [[War of the Dragons]]
+  - [[Taern Hornblade]], [[Lord Aerasumé]], [[House Margaster]], Silverymoon, [[War of the Dragons]]
 - **Emphasize:**
   - The evolving nature of Taern's relationship with the party and House Margaster.
   - The historical context of the War of the Dragons.

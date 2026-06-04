@@ -4,7 +4,7 @@ title: Mountain's Toe Gold Mine
 created: 2025-05-22
 updated: 2026-05-19
 tags: ["location", "economic", "quest", "mining", "economy", "mine", "economic-asset"]
-related: ["falcon-the-hunter", "neverwinter-mining-consortium", "dwolin-the-grout", "ritualistic-mining", "don-jon-raskin", "phandalin", "kraken-society", "horia-stonetallow", "stonetallow-clan"]
+related: ["falcon-the-hunter", "neverwinter-mining-consortium", "dwolin-the-grout", "ritualistic-mining", "phandalin", "kraken-society", "horia-stonetallow", "stonetallow-clan"]
 sources: ["falcon_the_hunter.md", "dwolin_the_grout.md", "don_jon_raskin.md", "horia_stonetallow.md"]
 ---
 # Mountain's Toe Gold Mine
@@ -14,7 +14,7 @@ The mountain-toe-gold-mine is a significant mining operation and economic asset.
 ## Management and Oversight
 * **Ownership & Investment:** Operations are conducted on behalf of a [[neverwinter-consortium]]. [[falcon-the-hunter]] holds a financial stake in the mine via his membership in a [[neverwinter-mining-consortium]].
 * **Current Management:** The site is managed by [[horia-stonetallow]] and the [[stonetallow-clan]].
-* **Supervision:** The site is currently under the oversight of [[don-jon-raskin]].
+* **Supervision:** The site is currently under the oversight of don-jon-raskin.
 * **Strategic Importance:** The mine represents a key economic interest for Neverwinter-based organizations and potentially serves as a front or point of influence for the [[kraken-society]].
 * **Historical Context:** The mine was previously managed by [[don-jon]], whose attempt to exploit cheap labor led to his death and the subsequent claim by the Stonetallow dwarves.
 

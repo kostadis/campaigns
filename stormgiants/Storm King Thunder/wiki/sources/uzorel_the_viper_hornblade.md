@@ -49,7 +49,7 @@ related: []
 
 ### Connections to Existing Wiki
 - **[[zhentarim]]**: Uzorel's role as a Zhentarim agent connects him to this page.
-- **[[silverymoon]]**: His presence in Silverymoon and interactions with Orsik relate to this location.
+- **silverymoon**: His presence in Silverymoon and interactions with Orsik relate to this location.
 - **[[everlund]]**: The teleportation circles in Everlund are relevant to this narrative.
 
 ### Contradictions & Tensions
@@ -59,7 +59,7 @@ related: []
 - **Create or Update Pages:**
   - [[uzorel-the-viper-hornblade]]: To summarize the character and his role.
   - [[zhentarim]]: To include details about Uzorel's activities.
-  - [[silverymoon]]: To reflect Uzorel's presence and interactions.
+  - silverymoon: To reflect Uzorel's presence and interactions.
   - [[everlund]]: To incorporate the teleportation circle information.
 - **Emphasize:**
   - Specific details about Uzorel's background and relationships.
