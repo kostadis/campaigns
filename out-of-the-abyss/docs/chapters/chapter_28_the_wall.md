@@ -4,7 +4,7 @@
 
 Daz
 ![image]()
-Grygum and Thorin, after recovering their senses, to the extent that is possible for the dwarf, explained that they saw Zugtomy. And that she had made them an offer, an offer that Thorin refused. 
+Grygum and Thorin, after recovering their senses, to the extent that is possible for the dwarf, explained that they saw Zuggtomy. And that she had made them an offer, an offer that Thorin refused. 
 
 
 “Good,” I said. Deals with demons are rarely pleasant. 

@@ -1,5 +1,11 @@
 # Candlekeep — Pickup: Cold Body, Warm Suspects
 
+> ⚠️ **Scenes 1–2 are SPENT (played in Ch.57).** Forensics, Hollypocket,
+> and the cat are done. **Start at Scene 3 (Kalan's key → interviews).**
+> For the live opening, run `candlekeep_monday_runsheet.md` (Bookwyrm
+> summons → Kalan's key → open investigation off the evidence maps). This
+> doc stays the depth reference for Scene 3 onward.
+
 Co-GM working doc. **Not canon yet** — staging for the session that
 resumes *mid-crime-scene* where Chapter 53 (May 18) stopped.
 
@@ -73,8 +79,11 @@ Mechanically, four things must land or the Day-3 reveals lose their punch:
 1. **Poison, not the cleaver, was the killer** — midnight tears, on the
    pages of a gifted book now missing; the cleaver was ritual desecration
    to block resurrection. (IDs in the crime scene; confirmed at Daral.)
-2. **Three suspects were in motion overnight** — Sylvira (~1 am),
-   Bookwyrm (~1:30 am), A'lai (dawn). (Hollypocket + Tadric.)
+2. **Three suspects were in motion overnight** — a "Sylvira" who
+   smelled wrong / carried a needless candle (~1–2 am), Bookwyrm
+   seen heading to the baths at dawn, A'lai at dawn. (Hollypocket +
+   Queenie + **Deidran** — *not* Tadric, who gives the morning
+   timeline only; see Scene 2B.)
 3. **The second High Tower key is in one named PC's hand** (Kalan's
    cliffhanger). Note who. They open the High Tower door from outside two
    sessions from now.
@@ -226,8 +235,11 @@ timeline honest; don't let them place Daral in the room at dawn.)
 ### NPC notes
 - **Tadric** (Watcher, 23, bowl cut) — wracked with guilt ("I don't think
   I did a good job"). *Wants:* to be told he isn't the reason a man died.
-  *Tic:* defends Kalan reflexively. **Hold his 1:30 a.m. Bookwyrm sighting
-  for Scene 2** — it should feel dragged out of him, not volunteered.
+  *Tic:* defends Kalan reflexively. **Tadric gives the morning timeline
+  only** (already delivered at the table, Ch.56 — he came on at 8 am as
+  crowd control and has no overnight sighting). The "Bookwyrm out at night"
+  evidence belongs to **Deidran** (dawn Watcher) + **Teles** (the
+  blackmailer who deduced the disguise) + the **cloak**; see Scene 2B.
 - **Fembris** (adjutant, half-elf, green) — comic relief, out of his
   depth, loyal. *Wants:* to be useful without seeing another corpse.
   Use him to lighten the room between grim findings.
@@ -251,12 +263,27 @@ her and she clams; *sit with her* and she pours it out. Two crucial things:
   sleeping — said he had ten days and a decision to make." (Foreshadows
   both Sylvira's deadline *and* Fheminor's succession.)
 
-### 2B — Tadric, the second pass
-Now spend his guilt. Pressed on "was anyone *else* moving last night," he
-reluctantly gives up: ⭐ **"I saw the First Reader. In the corridor. Half
-past one, near enough. She should have been abed."** He immediately
-qualifies it, miserable — *he likes Bookwyrm, he likes Kalan, and his
-testimony is hurting both.* That discomfort is the scene.
+### 2B — Deidran, the dawn watcher *(was: "Tadric, the second pass")*
+The overnight-movement clue is **not** Tadric's — at the table he already
+established he came on at 8 am as crowd control (Ch.56), so a 1:30 am
+sighting contradicts his own testimony. Module-accurate source: **Deidran**,
+the dawn (6 am) door Watcher.
+- ⭐ **"I greeted the First Reader at first light, on her way to the baths.
+  Odd thing — she stopped round the back of the Erudite Outfitters first,
+  out of my sight, then carried on."** That detour is where the
+  **bloodstained cloak** goes into the bins — DC 10 Medicine confirms blood;
+  the Outfitters' owner IDs the Reader's-Tower silver stitching as
+  **Bookwyrm's.**
+- The "*Sylvira* was up at night" half is already carried by **Hollypocket +
+  Queenie** (smelled wrong; a candle/lantern a tiefling doesn't need). It
+  pays off later when **Teles** — who saw the lantern-"Sylvira" and *deduced*
+  Bookwyrm — gives his blackmailer's testimony in the Reader interviews.
+
+> **Why the change:** the old draft had Tadric volunteer a 1:30 a.m. Bookwyrm
+> sighting. Tadric isn't a night witness in the module (he appears only at
+> the Vault and the trial), and the table locked him as morning-only. Swapped
+> to the module's real witnesses — Deidran (dawn) + Teles (deducer) + the
+> cloak. Module time is **~2 am**, not 1:30.
 
 ### Branch — if the party never interviews Hollypocket
 She'll keep. But you lose the Queenie/`disguise self` tell, which is the

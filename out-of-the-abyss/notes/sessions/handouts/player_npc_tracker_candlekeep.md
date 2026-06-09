@@ -1,9 +1,10 @@
 # Candlekeep — Who's Who So Far
 
-*Player reference. Day 2 of Deadwinter. You are standing in Janussi's
-chamber with Tadric the Watcher, about to examine the body. Everyone
-you've actually met or been formally introduced to, with the gist of
-where you stand with each.*
+*Player reference. Day 2 of Deadwinter, late morning. You have worked
+the body, read the desk, and interviewed Miss Hollypocket and Queenie
+the cat — and word has just reached you that the First Reader wants to
+see you. Everyone you've actually met or been formally introduced to,
+with the gist of where you stand with each.*
 
 ---
 
@@ -31,7 +32,7 @@ where you stand with each.*
 
 ## The Great Readers (Avowed senior council)
 
-You saw them at the Refectory dinner last night and again this morning around the Chapter House table. None has been interviewed yet — that starts after the crime scene.
+You saw them at the Refectory dinner last night and again this morning around the Chapter House table. **None has been formally interviewed yet** — but Hollypocket and Queenie have told you a great deal about their overnight movements. The interviews are your next move (once the First Reader has seen you).
 
 | Name | What you noticed |
 |---|---|
@@ -51,9 +52,9 @@ You saw them at the Refectory dinner last night and again this morning around th
 
 | Name | Role | What you have so far |
 |---|---|---|
-| **Tadric** | **Watcher** (Kalan's lieutenant). | The first face you met when you arrived at Janussi's chamber. Was on corridor watch overnight. You haven't pressed him for testimony yet — that's where you'll pick up next. |
-
-*(Miss Hollypocket — Janussi's housekeeper — discovered the body with A'lai at 7:30am. Tadric noted she would never have let the Keeper's candles burn down to nothing — that constraint sets the timeline. Still uninterviewed.)*
+| **Tadric** | **Watcher** (Kalan's lieutenant). | The first face you met at Janussi's chamber. Gave you the **morning timeline** (7:30 discovery → Kalan at 8 → Kazryn → Fheminor turned away → Bookwyrm in from the baths at 9 → Kalan's solo re-inspection at 11). Admitted his post was **crowd control from 8am** — he watched who entered, not what they did, and was **not on duty overnight.** Decent kid; rattled. |
+| **Miss Hollypocket** | Janussi's elderly gnome housekeeper, one floor below. | **Interviewed.** Gave you the day's argument log (Kalan stormed past; Teles shouted *"hypocrite"*; Daral called Janussi a *"glorified book peddler"*; Sylvira screamed *"traitor"*), the **midnight thud** that fixes the time of death, and a half-dream near **2–3am**: *"Sylvira's"* face lit red by a **lantern** — strange, since a tiefling needs no light. Janussi's ever-worn **locket** is now gone. |
+| **Queenie** | Janussi's grey tower cat. | **Interviewed** via the Stonespeaker crystal. The night *"Sylvira"* **smelled wrong** — not the real one. Sylvira **blasted the armchair** with force-bolts in a *morning* quarrel; **Daral left with a book** ("a hypnotic block") while Janussi still lived. Pays in tickles. |
 
 ---
 
@@ -94,9 +95,8 @@ Not at Candlekeep, but threads still active:
 
 ## Where you are picking up next
 
-- You are **inside Janussi's chamber** with Tadric. The body has been examined; the desk has been read; the third-floor apartment with its **conspicuously open door** has not.
-- **Miss Hollypocket** has not yet been interviewed.
-- **Four Great Readers stood out** at dinner and Chapter House: Daral (drunk, hostile), Sylvira (visibly ill the night before, absent this morning), Fheminor (watching Daz), and A'lai (*too composed*).
-- **Kalan is officially off the case.** He bowed correctly; his eyes did not. Grygum has him first on the list to question.
-- **The Deadwinter couplet** was recited from the gallery during dinner last night: *"On the longest night of winter's deepest cold, the keeper falls, the heart is sold."* You are on Day 2 of Deadwinter.
-- **The First Reader** sent Fembris before dawn — *"Before the Avowed wake."*
+- You have **finished the chamber** (body, desk, third-floor apartment) and interviewed **Hollypocket** and **Queenie**. **Word has just come that the First Reader, Bookwyrm, wants to see you.**
+- **What you're carrying:** the killer used a **poison** on a book that's now missing (*not* the cleaver — the heart was hacked out *after* death, to block a resurrection); a *"Sylvira"* was moving at night who **wasn't really her**; Janussi's **locket and one of the two High Tower keys are gone** (Kalan holds the other); and someone took **one sapphire** from a safe full of untouched treasure — *"a spell that needs a sapphire."*
+- **Leads not yet run:** the Great Reader interviews — **Daral** (the "rival" Fembris named), **Sylvira**, **Fheminor**, and the rest — plus the physical trail (kitchens, apothecary, the dining hall).
+- **Kalan is officially off the case.** He bowed correctly; his eyes did not. He may seek you out.
+- **The Deadwinter couplet** from the gallery last night: *"On the longest night of winter's deepest cold, the keeper falls, the heart is sold."* You are on Day 2 of Deadwinter.

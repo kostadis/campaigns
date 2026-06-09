@@ -79,7 +79,7 @@ Encourage the party to split or rotate.
 |---|---|---|
 | **A'lai Aivenmore** | Above Immortal Chambers | Smell of peppermint; rehearsed condolences; uncertain about the magic-missile chair |
 | **Alkrist** | Drakonoikos | ⭐ Bronze-scaled = "lizardskin"; *1001 Tashalan Nights* bookmark on poison-on-gift tale |
-| **Teles Ahvoste** | Arcanium / Towers of Wonder | Saw "Sylvira" enter Bookwyrm's chambers at 2 am — only on 18 Persuasion or earned vulnerability |
+| **Teles Ahvoste** | Arcanium / Towers of Wonder | Saw "Sylvira" carrying a lantern near the Keeper's tower at 2 am — a tiefling needs no light, so he deduced the disguise — only on 18 Persuasion or earned vulnerability |
 | **Kazryn Nyantani** | Pavilion Naturalis | Was with A'lai 11 pm – 6 am, but he was up and dressed at dawn — **breaks A'lai's alibi** |
 | **Bookwyrm** | Reader's Tower top floor | Doesn't break. Compliment-as-warning if shown anti-divination clue |
 

@@ -114,8 +114,12 @@ tea in the next room and crying.
 
 - **Miss Hollypocket** — Sylvira at 1 am; **Queenie hissed**
   for the first time in ten years; A'lai at dawn before the body was found.
-- **Tadric** (Watcher; Kalan's lieutenant) — saw **Bookwyrm** in
-  the corridor around 1:30 am. *(Bookwyrm was supposedly asleep.)*
+- **Tadric** (Watcher; Kalan's lieutenant) — **morning timeline
+  only** (8 am crowd control; no overnight sighting).
+- **Deidran** (Watcher; dawn door shift) — greeted **Bookwyrm** at
+  first light heading to the baths; she detoured behind the Erudite
+  Outfitters first → the bloodstained cloak in the bins.
+  *(Module-accurate source for "Bookwyrm out at night," not Tadric.)*
 
 ## Noon — Investigators' Office + Session 2 cliffhanger (~15 min)
 
@@ -159,9 +163,9 @@ of people who have done this several times this winter.
 
 [Full prep: arc file Session 3 Beat 1.]
 
-The party can run this if they pieced together "Sylvira smelled
-wrong + Bookwyrm in the corridor at 1:30 am + the killer knew
-the kitchens are between."
+The party can run this if they pieced together "the 'Sylvira'
+people saw smelled wrong + she carried a light a tiefling
+wouldn't need + the killer knew Candlekeep's own spell library."
 
 - DC 15 Investigation if systematic; DC 12 if specifically looking at altars/statues.
 - **The lead chalice on the statue of Milil** holds Janussi's
