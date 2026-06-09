@@ -29,7 +29,7 @@ I had given him clear instructions. Motionless. Silent. A feature of the cavern.
 It was fine. It had to be fine.
 
 
-Asha Vandry was watching me with those wide, fractured eyes — the look of someone who has spent so long in paranoid devotion that suspicion has become its own kind of faith. The spectacle had landed. I could see that. What I could not yet determine was exactly *which* way it had landed.
+Asha Vandree was watching me with those wide, fractured eyes — the look of someone who has spent so long in paranoid devotion that suspicion has become its own kind of faith. The spectacle had landed. I could see that. What I could not yet determine was exactly *which* way it had landed.
 
 
 She spoke.
@@ -62,7 +62,7 @@ I took a moment to process that.
 She had not seen through the deception. She had reframed it entirely — had taken my con and reclassified it as a *divine test of her discernment*, which she believed she had now passed. The paranoia hadn't broken my gambit. It had built her a completely different story in which she was the clever one.
 
 
-There are players who don't know they're at the table. There are players who think they're winning. And then there is Asha Vandry, who had somehow managed to be both at once.
+There are players who don't know they're at the table. There are players who think they're winning. And then there is Asha Vandree, who had somehow managed to be both at once.
 
 
 I recovered. This is what you do. You don't argue with the story someone has already decided to believe — you find the thread that connects their version to yours and you pull it.
@@ -86,11 +86,11 @@ She was not calling me a liar. She was asking whether I was a victim. Whether th
 I stood in the dark of the Underdark with a gelatinous cube behind me failing to be a rock, and I considered the specific difficulty of selling a lie to someone whose paranoia keeps generating better explanations than the truth.
 
 
-## Zalthir — The Deception of Asha Vandry
+## Zalthir — The Deception of Asha Vandree
 There is a particular kind of silence that drow society uses as a weapon. Not the comfortable silence of empty stone corridors, not the productive silence of a hunter waiting for movement — the silence of deliberate erasure. Of being present in a room and being treated as furniture. I have spent enough time among my own kind to recognise it immediately. It never gets easier to absorb.
 
 
-Asha Vandry noticed me the moment Daz beckoned and I stepped out of the shadow where I had been standing. I could see the calculation cross her face — male, surface-trained, drow enough to identify but not drow enough to acknowledge. She filed me away and returned her eyes to Daz. Not a glance afterward. Not a word in my direction for the duration of the conversation. Every question, every demand, every withering assessment delivered squarely to Daz, as though I were a piece of equipment he had brought along. A weapon he'd sheathed. A pack he'd set down.
+Asha Vandree noticed me the moment Daz beckoned and I stepped out of the shadow where I had been standing. I could see the calculation cross her face — male, surface-trained, drow enough to identify but not drow enough to acknowledge. She filed me away and returned her eyes to Daz. Not a glance afterward. Not a word in my direction for the duration of the conversation. Every question, every demand, every withering assessment delivered squarely to Daz, as though I were a piece of equipment he had brought along. A weapon he'd sheathed. A pack he'd set down.
 
 
 I have noticed this before. I will notice it again. I noted it, set it aside, and watched.
@@ -171,7 +171,7 @@ Daz handled it smoothly, explaining that none of us were specialists in fungal c
 "Well put, well put," she said. "This was just a test." A pause. "Don't touch me."
 
 
-That last line. The flinch in it. Whatever confidence she projected, whatever command she assumed over the conversation, Asha Vandry was afraid of contamination in a very specific and personal way. She had been in proximity to Zuggtmoy's influence long enough to make her paranoid in a direction that felt earned.
+That last line. The flinch in it. Whatever confidence she projected, whatever command she assumed over the conversation, Asha Vandree was afraid of contamination in a very specific and personal way. She had been in proximity to Zuggtmoy's influence long enough to make her paranoid in a direction that felt earned.
 
 
 We withdrew to confer. The terms were clear enough: Ilvara dies, the mushroom artifact is destroyed, the infection does not leave this cavern. Asha had confirmed the critical detail — the Heart Fungus itself wasn't the vector. The spores were Ilvara's. The artifact was the other risk. Contain both and the job was done. The reward was everything Ilvara had accumulated, which, given that she was a high priestess who had been running an operation in this cavern, was probably worth the attempt.
@@ -183,7 +183,7 @@ Grim arithmetic. We did the calculation and arrived at the same answer.
 I spent the hour before the assault doing the thing that was useful and quiet and required no discussion. I placed a zone of Darkness behind our position — not at the entrance, not anywhere Ilvara might notice the edge of it and understand what was coming. Behind us. A fallback. A place to pull someone if the line broke. Nobody asked me about it. That was fine. Rope you've coiled is still rope.
 
 
-The scene with Asha Vandry ended the way all negotiations end when neither party trusts the other but both parties need the same thing: a tentative and mutual willingness to proceed. She had not addressed me once. I had watched everything.
+The scene with Asha Vandree ended the way all negotiations end when neither party trusts the other but both parties need the same thing: a tentative and mutual willingness to proceed. She had not addressed me once. I had watched everything.
 
 
 I knew where the shadows fell in the cavern ahead. I knew the shape of what we were walking into. That was enough.
@@ -232,7 +232,7 @@ Three keys. One lock. The planning was, in a sense, just a very elaborate way of
 I took notes in my head, the way I always do. Three options. One shot. Everything downstream of that decision.
 
 
-I'm not too proud to ask for help when the terrain is unfamiliar. The politics of this cavern — the power structures, the hierarchy of what needed to die in what order to make the rest of it possible — that was Asha Vandry's territory, and I knew it.
+I'm not too proud to ask for help when the terrain is unfamiliar. The politics of this cavern — the power structures, the hierarchy of what needed to die in what order to make the rest of it possible — that was Asha Vandree's territory, and I knew it.
 
 
 "Well, that would be good," I said. "Does Asha have any ideas?"

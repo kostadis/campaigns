@@ -335,9 +335,23 @@ Two crucial things:
 - A'lai came up at dawn — *before* the body was found.
   (Looking for the High Tower key.)
 
-**Witness — Tadric** (Watcher; Kalan's lieutenant). Will admit
-he saw **Bookwyrm** on the corridor sometime around 1:30 am.
-Bookwyrm was supposedly asleep then.
+**Witness — Tadric** (Watcher; Kalan's lieutenant). Gives the
+**morning timeline only** (7:30 discovery → 8 Kalan → 8 Kazryn →
+8:30 Fheminor turned away → 9 Bookwyrm from the baths → 11 Kalan's
+re-inspection). He was crowd control from 8 am and has **no**
+overnight sighting. *(Already delivered at the table, Ch.56.)*
+
+> **Reconciliation note — the night-disguise evidence is NOT
+> Tadric's.** Tadric appears only twice in the module (the Vault
+> scene and the trial); he never witnesses a 1:30 am anything. The
+> "Bookwyrm out and disguised" load is module-canonically carried
+> by: **Deidran** (dawn Watcher) — greeted Bookwyrm heading to the
+> baths, saw her detour behind the **Erudite Outfitters** (→ the
+> bloodstained cloak in the bins); **Teles** — saw the
+> lantern-carrying "Sylvira" and *deduced* the disguise (blackmail
+> thread, his Reader interview); **Queenie + Hollypocket** — the
+> smelled-wrong / candle-she-didn't-need tells; **Sprig** — the
+> kitchen cleaver theft. Module time is **~2 am**, not 1:30.
 
 **End-of-scene state:** the party knows three suspects were in
 motion overnight (Sylvira, A'lai, Bookwyrm) and that the murder
@@ -515,9 +529,10 @@ killer.** Don't tell them. Let them walk out uncertain.
 
 **Teles Ahvoste (~15 min).** Arcanium / Towers of Wonder. Old,
 bitter, infatuated with **Irony**. Story: at supper, retired
-alone, knows nothing. Truth: he saw **"Sylvira"** entering
-**Bookwyrm's** chambers around 2 am. He has *deduced* the
-disguise and intends to **blackmail Bookwyrm.** Will share the
+alone, knows nothing. Truth: he saw **"Sylvira"** near the
+Keeper's tower around 2 am **carrying a lantern** — and a
+tiefling needs no light, so he *deduced* the disguise and
+intends to **blackmail Bookwyrm.** Will share the
 sighting only if the party earns it (vulnerability shared, or
 DC 18 Persuasion).
 
@@ -611,16 +626,23 @@ Bell Tower; saw **Sylvira** walking on the rooftops near the
 Cursed Tower **with the Beast.** She was unafraid. He has been
 silent because he was terrified.
 
-Combined with: Hollypocket's "Sylvira smelled wrong" + Tadric's
-"Bookwyrm at 1:30 am" + Sprig's "Sylvira at the kitchens 1 am"
-+ Outfitters' "the cloak is Bookwyrm's" + Teles's "Sylvira into
-Bookwyrm's chambers" + Fembris's "Sylvira on the rooftops with
-the Beast at 11:30 pm" =
+Combined with: Hollypocket's "Sylvira left ~2 am, her face lit
+by a candle she shouldn't need" + Queenie's "she smelled wrong"
++ Sprig's "Sylvira took a cleaver from the kitchens, ~1–2 am" +
+Deidran's "Bookwyrm detoured behind the Erudite Outfitters at
+dawn" → **the bloodstained cloak in the bins** + Teles's "I saw
+'Sylvira' carrying a lantern near the Keeper's tower — a tiefling
+needs no light, so it had to be Bookwyrm" + Fembris's "the *real*
+Sylvira on the rooftops with the Beast at 11:30 pm" =
 
 **Two "Sylvira" figures. Different places. Different timelines.**
-Real Sylvira (rooftop, son, 11:30 pm) and Bookwyrm in `disguise
-self` (kitchens 1 am → Janussi's chamber 1:15–2 am → her own
-chambers 2 am).
+Real Sylvira (rooftop, with her son, 11:30 pm) and Bookwyrm in
+`disguise self` (kitchens for the cleaver → Janussi's chamber →
+Southern Dining Hall to hide the heart in the Milil chalice,
+~2 am → as herself at dawn, to the baths via the Outfitters
+bins). *(Module-accurate witnesses — see the reconciliation note
+at Session 2 Beat 2. The old draft mis-assigned the night sighting
+to Tadric, who is morning-only.)*
 
 **Bookwyrm is the cover-up.** Alkrist (bronze-scaled, her
 nephew) is the killer.

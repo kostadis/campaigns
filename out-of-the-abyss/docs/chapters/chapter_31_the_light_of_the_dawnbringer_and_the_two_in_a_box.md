@@ -150,7 +150,7 @@ I try to ask any questions but Phylo says we should direct our questions to the 
 Daz turns to me, “How odd. Myconids have no gender, and in general get confused about the topic. The sovereign’s use of a specific gender and consistent use of one particular gender is quite peculiar.” 
 
 
-And then I remember that Zugtomy is often referred to as she. And I worry. 
+And then I remember that Zuggtomy is often referred to as she. And I worry. 
 
 
 ### Daz
@@ -189,7 +189,7 @@ Basidia laughs, “No. Today we shall the circles.”
 A few minutes later, Basidia turns to us, “I do not recognize the spores of this drow.” I stare at them, confused, “Every myconid sovereign can recognize the spores of any other sovereign in the Underdark. This is strange.”  
 
 
-Poor Sarith has been affected by Zugtomy. 
+Poor Sarith has been affected by Zuggtomy. 
 
 
 ### Zalthir
