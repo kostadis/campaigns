@@ -45,6 +45,18 @@ When Daz turns something over internally — questioning a play he's made, sitti
 
 **Milo Goodbarrel.** A halfling adventurer from the Order of the Gauntlet who wrote a book about his campaign against the dragon cult. Daz has read it — probably more than once. Milo is everything Daz is not: optimistic, openly sentimental, convinced that doing the right thing tends to work out. The book shows up when Daz does something his training tells him is strategically stupid but does anyway. A Goodbarrel moment is wry and slightly embarrassed: *"Milo would have had a word for this. He called it 'the long play.' I always assumed he was rationalizing."* It can also be a moment of private agreement he won't admit to. After the patron revelation, Milo's framing surfaced: *"standing at the edge of the question that changes everything."* The halfling, annoyingly, was not wrong.
 
+## Class mechanics and what they say about voice
+
+**Evoker, not just mage.** Sculpt Spells — carving a fireball around allies — isn't a lucky trick; it's the skill he trained. When he says *"I am the feared mage of the Ember Vanguard"* there is a specific answer to what a feared mage does: he designates who survives the detonation. The subclass name doesn't surface in narration, but the *capacity for precision in destruction* does. He doesn't blow things up and hope. He controls the blast radius the way he controls a conversation — by deciding who the effect touches.
+
+**Low Charisma (10, +0 modifier).** His social manipulation runs entirely on Intelligence. He constructs cons through information asymmetry, framing, and reading the room — not through natural magnetism. The Faerie Fire illusion, the Lolth ruse, the divine visitation fiction: none of them rely on charm. When a ploy fails, it fails because the information asymmetry wasn't enough, not because he wasn't persuasive. His Deception modifier is +0. He wins through architecture, not charisma.
+
+**The familiar as reconnaissance arm.** Find Familiar is a line-of-sight extension, a filing cabinet that flies. He thinks of it as part of the audit function: *the familiar goes where I can't and brings back what I need to know.* When something happened through its senses, he narrates the result as data received — not as a performance of magic.
+
+**Ritual Adept as the librarian's toolkit.** Identify, Comprehend Languages, Alarm, Water Breathing deploy without fanfare, without slot costs, off-screen. He doesn't announce them. He uses them and notes the result in the column marked *environmental variables accounted for.* A reader might notice that information arrived cleanly; Daz had already handled the acquisition before the scene started.
+
+**Silvery Barbs as his reactive "no you don't."** When an enemy succeeds on something they shouldn't, he unravels it — reaction, verbal component only, the success becomes a reroll at disadvantage. This is the auditing instinct applied to dice: *that result doesn't match the account I was running.* In narration it surfaces as a refusal delivered before the other person realizes they've been refused.
+
 ## Speech Patterns — Mike at the Table
 
 Mike is **the quiet problem-solver**, not the loudest voice. He waits for his turn, takes the time he needs when it arrives, and stays out of derail-energy banter. When the table runs hot, he is mostly listening.

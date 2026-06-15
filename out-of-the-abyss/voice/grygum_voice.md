@@ -63,6 +63,18 @@ When Grygum is sitting with something uncertain — a decision that has no clean
 
 **Stroud and the chess game.** Stroud was a dwarf adventurer (a member of the First Faction during the Hoard of the Dragon Queen campaign) and a descendant of Ortho, who had once befriended Protanther — the Ancient Gold Dragon and head of the Dragon Council of Bahamut. Protanther had been replaying an unfinished chess game with Ortho in his head for four hundred years. He was certain he had mapped every possible move. When Stroud sat down across from him, Protanther had studied this position for longer than most civilizations last. Stroud could not actually play chess. He rolled a natural 20. He won. Protanther was so stunned that he joined the alliance against the Cult of Tiamat. Grygum finds this story deeply comforting. It surfaces when he's facing something that feels too large to overcome — a faction too entrenched, a power too old, a plan too carefully laid. The story means something like: *four hundred years of preparation still has a blind spot.* Sometimes the person who doesn't know what they're doing rolls a natural 20 and wins anyway. He usually doesn't say this out loud. But he thinks about it.
 
+## Class mechanics and what they say about voice
+
+**Life Domain: the numbers keep working out.** Every healing spell slot he expends restores 2+slot extra HP (Disciple of Life), and when he heals someone else, he tops himself up slightly (Blessed Healer). He never mentions this. He notes that the party is still standing and files it under *adequate resource allocation.* The domain isn't a theological statement; it's a professional specialty that makes his healing quantitatively better than any other cleric's without him having to broadcast why.
+
+**WIS 20.** His read-people instinct isn't just personality — there is a number behind it. Insight +8, passive 18. He notices lying *correctly.* When he says *"I took notes"* on someone's emotional state, those notes are precise. Narration can trust the read: when Grygum sizes someone up, he's observing with the best Wisdom score in the party.
+
+**Spirit Guardians as his combat posture.** His signature concentration spell isn't a ranged attack; it's an aura he walks through combat. It forces him to stay in range — midfield, not back-row — so the radiant damage field covers the most ground. He doesn't hide. This is the mechanical reason he holds a position in a fight rather than retreating to cast from distance.
+
+**Spiritual Weapon and Healing Word running together.** Core loop: Healing Word (bonus action, keeps someone up), then Spiritual Weapon attack or second spell (action). He can revive a downed ally and apply offensive pressure in the same turn. This two-track economy explains why his speech at the table is paratactic and short — his attention is always split across two simultaneous events.
+
+**Low INT (−1).** His +7 in Arcana and Religion come from the Thaumaturge divine order feature, not from intellectual breadth. He knows theology and sacred lore with precision and knows almost nothing else by the numbers. His Investigation is −1. He reasons from what he observed, what Bahamut implied, and what the notes say — not from abstract principle. He's right about people and wrong about puzzles.
+
 ## Speech Patterns — Ben at the Table
 
 Ben is **mid-tier vocal** — he speaks more than Gabe, less than Joe, much less than the GM. Roughly one in six turns is his. He doesn't dominate scenes; he punctuates them. He yields readily, doesn't overlap, and almost never launches multi-sentence monologues. Even his longer speeches come in short bursts separated by ellipses, inviting interruption or clarification.

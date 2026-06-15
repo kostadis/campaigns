@@ -109,3 +109,14 @@ Daggerford  — FR town between Waterdeep and Candlekeep; mentioned re: paladin 
 - **Teles Ahvoste** — NPC (Candlekeep murder-mystery arc); first name "Teles": "I did hear Telus shout, HYPOCRITE at poor Janusi before he stormed out." / "Teles of Oste came to visit the Keeper." — 2026-06-01
 - **The Golden Ass** — in-world text referenced in the Candlekeep library plot ("the Discoveries was written after the notes on the Golden Ass"); echo of Apuleius — 2026-06-01
 - **Avowed** — in-world term/role (oath-bound figure?): "Avowed. Could that… is that the same person…" — 2026-06-01
+- Archibald Roots  — "you swiftly turn up a tome called Famous Flowers and Fungi by Archibald Roots, junior son of Archibald Roots Sr." (Candlekeep investigation)  — 2026-06-08
+- Archibald Roots Sr  — same context as above  — 2026-06-08
+- Kei Tigersteel  — Lower Keeper of Candlekeep; priest  — 2026-06-08
+- Daral Yashenti  — Candlekeep NPC; listed as interview candidate during murder investigation  — 2026-06-08
+- Queenie  — the Candlekeep cat; "Queenie, who said, enough with the tickles"  — 2026-06-08
+- Ms. Hollypocket  — Candlekeep NPC; "I want to talk to Ms. Holley" → Ms. Hollypocket  — 2026-06-08
+- Pavilion Natural Naturalis  — Candlekeep area; "a subsection of the Pavilion Natural Naturalis"  — 2026-06-08
+- Chamber of Lost Lore  — Candlekeep location; "he returned to the Chamber of Lost Lore"  — 2026-06-08
+- Floratheka  — Candlekeep subsection; area of flora/naturalis study  — 2026-06-08
+- Alkrist  — Candlekeep NPC; 'A formidable Alkrist. The gate warden needs to be dismissed'  — 2026-06-08
+- Dwarmij  — Candlekeep/D&D NPC reference; 'Dwarmij's, this is the closest spell that'  — 2026-06-08
