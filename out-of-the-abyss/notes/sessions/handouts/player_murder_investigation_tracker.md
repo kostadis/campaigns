@@ -253,9 +253,9 @@ Readers; at least half ended in shouting. In order:
 
 ---
 
-## Where you're picking up next
+## Where you were picking up (end of Part 2)
 
-- **Suspects on the board now:**
+- **Suspects on the board:**
   - **Daral Yashenti** — prime. Rival, the gift tag, *took the book*, two
     visits, fled in a panic. But the cat says **Janussi was alive when he
     left.**
@@ -279,3 +279,246 @@ Readers; at least half ended in shouting. In order:
 - **Still loose from Part 1:** the **hooded Avowed** seen half-running from
   the Refectory with something under their robe is **still unidentified.**
 - Hollypocket and Queenie are **done** — both gave you everything they had.
+
+---
+
+---
+
+# PART 3 — Bookwyrm's office, Kalan's warning, the poison named, and Daral in evidence (Ch. 58)
+
+*Third push into the investigation. You reported back to Bookwyrm,
+got a working office and a runner, held a secret meeting with Kalan in the
+corridor, identified the poison in the library, and interviewed Daral —
+who licked the murder weapon mid-sentence. Everything in Parts 1 and 2
+still stands.*
+
+---
+
+## Bookwyrm's briefing and Deneir's Sanctum
+
+Bookwyrm pulled you into a side meeting after the Council dispersed. A
+slender half-elf — bald, black side-whiskers, precise goatee — was already
+with her when you arrived. He left before you could hear what they were
+discussing. She introduced him as **Kei Tigersteel**, Lorekeeper of
+Candlekeep and priest of the Temple of Oghma. She sent him away with
+custody of the body ("for purification at the Shrine of Oghma") before
+seating you.
+
+What she gave you:
+- **Deneir's Sanctum** — a shrine and small reading room — as your
+  **private office.** Fembris will fetch any witness you name.
+- **Vooshadi Moonriver** on the door — "we wouldn't want anyone you don't
+  want coming in, to come in."
+- The instruction that **you should not move through Candlekeep without one
+  of them accompanying you.**
+
+What she wanted: she asked whether you had suspects in mind. You deflected —
+*"ongoing investigation, not appropriate to share."* She then asked if there
+was anyone you "wished to start with." That question came a half-step too
+fast. She didn't name Sylvira. The lean toward Sylvira was unmistakeable
+anyway.
+
+Two things worth keeping:
+
+1. When she sent Fembris to fetch witnesses, she said **"catch"** — then
+   corrected to **"fetch."** One word.
+2. The offer of an office and a runner is generous. It is also a way to
+   know exactly where you are and who you are talking to at all times.
+
+> *Your read:* Bookwyrm is either genuinely trying to solve this, or she
+> is trying to steer it — toward Sylvira, away from someone else. You
+> don't know which yet. Both columns stay open.
+
+---
+
+## Kalan Strongbranch — the corridor handoff
+
+Kalan stepped out of a doorway you hadn't clocked, swept the corridor left
+then right, and pressed a **small brass key** into Grygum's palm. He chose
+the cleric. **Grygum now holds the second Hightower Library key.**
+
+What he said, standing in the hallway:
+
+- *"Whatever Bookwyrm is telling you, listen for what she isn't."*
+- He believes **one of the Great Readers murdered Janussi** — and that
+  either Bookwyrm is protecting that person, or someone has **convinced her
+  to remove him from the case** in order to protect themselves.
+- He thinks you were **hired because someone expected you to bungle it**, or
+  to be **bought off if you stumbled onto the right scent.**
+- He handed the key over because **if he is killed, he doesn't want it
+  found on him.**
+
+What he gave you when pushed:
+- **His alibi:** ~10:15 pm he visited **Sylvira Savikas** with a
+  cosmological question. Afterward, private research in the **Chamber of
+  Lost Lore.** That is his account of the evening.
+- He believed the killer was the same person who rifled the safe. You
+  pushed back: the locket held the key — whoever took the key from the
+  locket knew exactly where it was and went straight for it. The safe was
+  ransacked by someone who *didn't* know. **Kalan conceded the point: two
+  different hands may have searched that room.**
+- He has **truth-compelling magic** — the kind that can force honest answers
+  from the living. He offered this as a resource if you need it.
+- He did **not** get a useful answer from Speak with Dead. Whether the dead
+  never spoke or whether the working had already been spent before he
+  arrived remains unresolved.
+
+New information you gave *him* that he did not have: someone wore Sylvira's
+face the night of the murder. He went still. *"You are very good at this."*
+
+**The Hightower key situation now:**
+
+| Key | Who holds it | Status |
+|---|---|---|
+| Janussi's key | The murderer | Inside the stolen locket |
+| Kalan's key | **Grygum** | The brass key in his pocket |
+
+Both keys are required together to open the Hightower Library.
+
+---
+
+## The poison — named (Grygum, Flora Theca)
+
+Grygum researched the black residue in the Pavilion Naturalis (Flora
+Theca). Found it faster than expected, in *Fey-mous Flowers & Fungi* by
+Archibald Roots Jr.
+
+**The poison is Midnight Tears.**
+
+- A **highly toxic pale ochre dust**, made from the pollen of a plant found
+  **only in the Feywild** (or carried by those with Feywild access).
+- **No effect until the stroke of midnight** — regardless of when it was
+  ingested. This is why Janussi died around midnight: he could have been
+  dosed at *any point during that day*.
+- **Contact with saliva turns it black.** This is what you saw on the
+  finger, lip, and tongue. The ink on the pages stays pale ochre; the
+  black was Janussi's own saliva reacting with it.
+- Delivered via **food or liquid, or coated surfaces** (a page someone
+  licks to turn).
+- Antidote exists: mixed with the sap of a specific Feywild tree, Midnight
+  Tears becomes a pain-relief medicine. In pure form, it is lethal.
+
+**What this means:**
+- The book — *The Golden Ass* — had Midnight Tears on its pages. Janussi
+  licked his finger, turned pages, repeated. All evening.
+- Whoever prepared the book had access to a **Feywild substance** that
+  Glabbagool — who has eaten most of the Underdark — could not identify.
+  This is not a street poison.
+- The smoke (Janussi's lung-condition tobacco habit) masked the smell. The
+  killer may have known about that habit.
+
+---
+
+## The stolen sapphire — what spell it's for (Grygum, library)
+
+The parchment scrap taken from the safe described an **old summoning
+working**: you place an object somewhere, and later you can **call it back
+to your hand** from wherever it is hidden. The spell requires a very
+expensive sapphire to cast.
+
+Key rule: **it does not work for worn items** — only objects that have been
+deliberately placed or hidden.
+
+**What this means:** the killer took the sapphire not to build a new spell
+but to use one **they already planned**. The theory that emerged: the
+locket-key gets taken, **hidden somewhere in Candlekeep**, and the sapphire
+lets the killer summon it into their hand when they are standing at the
+Hightower door. No need to carry it on their person. If searched, they are
+clean.
+
+---
+
+## Daral Yashenti — interview at the Hearth
+
+Daral refused to come to your office. You went to the Hearth. He was
+already drinking, expansive, enjoying himself in a way that reads oddly for
+a man whose superior was murdered this morning.
+
+Your read: in Menzoberranzan, if you punch the boss and miss, your whole
+bloodline ends. Up here the punishment is apparently *losing your position*.
+Daral had braced for annihilation and found out he was merely going to be
+fired. The relief went straight to his head.
+
+What he confirmed:
+- **The 11 pm visit:** he went back to "set Janussi straight." Found
+  Janussi reading *The Golden Ass* — the very book Daral had given him as a
+  Deadwinter gift — with obvious enjoyment. This enraged him. "May the gods
+  bless whoever bumped him off."
+- **He punched Janussi.** He calls it *"caught him lightly on the nose in
+  self-defense"* after Janussi *"sat upon him like a common thug."* This is
+  the broken nose.
+- **He took the book back** when he left. He felt he'd given it as a point
+  and Janussi was missing the point.
+- **Janussi was alive when he left.** His account matches the cat's.
+
+What happened mid-interview:
+
+Daral, while telling you how harmless and beloved the book was, **wet his
+finger and began turning pages.** You watched it happen. You stopped him,
+explained what the book was, and **took *The Golden Ass* into evidence.**
+
+**Daral is now under watch until midnight.** If Midnight Tears was on those
+pages and he ingested any, he dies at the stroke of twelve. If he survives,
+he's clean on the poison — he wouldn't have been licking a book he'd
+prepared. If he dies, he's innocent of the killing.
+
+Grygum has **Revivify** and Dawnbringer can draw poison. Daral is being
+kept close.
+
+Other names Daral threw at the board (with motivation to deflect, noted):
+- **Teles Ahvoste** ("deluded old git")
+- **A'lai Aivenmore** ("preying cock")
+- **Fheminor Scrivenbark** (*"don't be fooled by her stature; she has a
+  steely nature"*)
+- **Bookwyrm** (*"there's no telling what goes on in her lizard brain"*)
+
+---
+
+## The two-handler theory (confirmed)
+
+Two different people searched Janussi's room that night:
+
+| Handler | What they did | What they knew |
+|---|---|---|
+| **Handler A** | Went straight for the locket, tore it off the neck, took the key | Knew the key was in the locket — insider knowledge |
+| **Handler B** | Rifled the safe, took one specific sapphire and parchment scrap, left the fortune | Did not know about the locket; had their own objective |
+
+Handler A and Handler B may or may not be the same person as whoever
+prepared the poisoned book. You are potentially looking at **coordinated
+actors**, not a lone killer.
+
+---
+
+## Where you're picking up next
+
+**Threads resolved this session:**
+- Poison **named**: Midnight Tears (Feywild, midnight trigger). ✓
+- Sapphire spell **identified**: recall-object summoning. ✓
+- Daral **interviewed** — not the poisoner (probably). Book in evidence. ✓
+- Kalan **partially interviewed** — key now with Grygum. ✓
+
+**Suspects — updated picture:**
+
+| Suspect | Status | Heat |
+|---|---|---|
+| **Daral Yashenti** | Interviewed. Alive until midnight = test pending. Probably not the poisoner. Still possible Handler B (safe). | Medium |
+| **Sylvira Savikas** | Uninterviewed. Someone wore her face. She called Janussi a "traitor." | High — but framed? |
+| **Teles Ahvoste** | Uninterviewed. Screamed "hypocrite" and stormed out. | Unknown |
+| **Kalan Strongbranch** | Partially interviewed. Morning rage, second key now with Grygum, truth-magic available. | Medium — possibly assets |
+| **Fheminor Scrivenbark** | Uninterviewed. Quiet 8 pm visit; Daral flagged her; she watched Daz at the Council. | Low–medium |
+| **Bookwyrm** | Steered toward Sylvira. Said "catch." | Open column |
+| **A'lai Aivenmore** | Found the body, pushed hardest for leadership vote, voted in your appointment. | Open column |
+
+**Still uninterviewed:** Sylvira, Teles, Fheminor (priority list).
+
+**Open physical threads:**
+- ***The Golden Ass*** — in your possession. Do not touch the pages.
+- **Janussi's locket / his Hightower key** — stolen; location unknown.
+- **Grygum holds Kalan's key** — both keys together open the Hightower.
+- **The third-floor apartment** with the conspicuously open door —
+  **still unentered.**
+- **The hooded Avowed** from the Refectory — **still unidentified.**
+- **Midnight test on Daral** — pending. Watch the clock.
+
+**Kei Tigersteel** (Lorekeeper, Oghma priest) now has the body. If you
+need Speak with Dead on Janussi, he is the person to ask — or persuade.

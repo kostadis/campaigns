@@ -11,8 +11,8 @@ First catalogued during the cleanup of
 
 | Wrong | Right |
 |---|---|
-| Zaltir, Zalter, Zaltier, Zeltar, Azaltier, Salter | **Zalthir** |
-| Gergam, Gregam, Greg, Grigam, Gergummy, Gregorum, Grygram | **Grygum** |
+| Zaltir, Zalter, Zaltier, Zeltar, Azaltier, Salter, Zaltura | **Zalthir** |
+| Gergam, Gregam, Greg, Grigam, Gergummy, Gregorum, Grygram, Grugum, Gurgum | **Grygum** |
 | Thorne, Thornton, Thurren, Or Torin | **Thorin** |
 | Adaz, Das, Dez, Dazz, Jazz | **Daz** |
 | Dazes | **Daz's** |
@@ -21,7 +21,7 @@ First catalogued during the cleanup of
 
 | Wrong | Right |
 |---|---|
-| Glavagul, Glavagul's, Glabogul, Glavo, Glavacle, Glavable, Glavigal, Glavagol, Glabagul, Glabigle, Lavagul, Lavagul's, Miklabogul, Globul, Globagool, Gobblegool, Glabugul, Gladbagul, Globagul, Glabagool, Baba Gul, Glab Agul, Glad Abugul, Glad Agul, Globugul, Klobagool, Ivagoo, Glavgul, Glamble | **Glabbagool** |
+| Glavagul, Glavagul's, Glabogul, Glavo, Glavacle, Glavable, Glavigal, Glavagol, Glabagul, Glabigle, Lavagul, Lavagul's, Miklabogul, Globul, Globagool, Gobblegool, Glabugul, Gladbagul, Globagul, Glabagool, Baba Gul, Glab Agul, Glad Abugul, Glad Agul, Globugul, Klobagool, Ivagoo, Glavgul, Glamble, Bugabagul, Glaba Gul, Glabagul-, Glad Maguld, Glavagulis, Ilab Agul, Bhagava Gul | **Glabbagool** |
 | Jam Jar, Jim Jar | **Jimjar** |
 | Kel'Vire, Kel Vire, Calvir, Kel Veer, Kelvir | **Khell-Vire** |
 | Asha Vandri, Ashe Vandri, Ashas | **Asha Vandree** |
@@ -47,23 +47,23 @@ First catalogued during the cleanup of
 | Strouds | **Stroud's** |
 | Elred | **Eldred** |
 | Dazzin, Dazanan | **Daz'issin** |
-| Bookworm, Bookform | **Bookwyrm** |
+| Bookworm, Bookform, Bookworn, Does Bookworm, Arum | **Bookwyrm** |
 | Miro Milo Glutbarrell | **Milo Goodbarrel** |
 | Philippine | **Philemon** |
-| Janusi, Genasi, Genusi, Janu, Genius | **Janussi** |
+| Janusi, Genasi, Genusi, Janu, Genius, Genesee, Genuzia, Janice, Januzzi, Genesis Croix | **Janussi** |
 | Tadrick, Tadrik, Kadrick, Tabree, Cedric, Tardik, Tedrick, Tatrix | **Tadric** |
-| Callan Strongbranch | **Kalan Strongbranch** |
+| Callan Strongbranch, Kalen, Callan Strongfeld, Callen, J- Kaelin, Kalin, Kellen, Carolyn | **Kalan Strongbranch** |
 | Callan, Callum, Cullen, Kaelin | **Kalan** |
-| Ally Avonmore, Alai Ivanmore | **A'lai Aivenmore** |
+| Ally Avonmore, Alai Ivanmore, Ally Ivan Moore, Ally Avanmore, Alvin Moore | **A'lai Aivenmore** |
 | Avon Moore | **Aivenmore** |
 | Alay, L.A. | **A'lai** |
 | Varath, Verith | **Vareth** |
 | Khazrin Natyani Nyatani | **Kazryn Nyantani** |
-| Silvera salvikas, Silvira Savica | **Sylvira Savikas** |
-| Feminoor Scrivenbach | **Fheminor Scrivenbark** |
-| Daryl, Jarl, Droll, Darrell | **Daral** |
+| Silvera salvikas, Silvira Savica, Silvara, Silvara Savikas, Silvari, Sylvaira, Vera | **Sylvira Savikas** |
+| Feminoor Scrivenbach, Ferris, Eminor, Feminore, Feminoor Scrivenback, Fanimore, Femming, Flaminear Scrivenbark, Flem, Slender Human Heavy Wrinkles | **Fheminor Scrivenbark** |
+| Daryl, Jarl, Droll, Darrell, And Daryl | **Daral** |
 | Miss Molly Pocket, Miss Hollypock | **Miss Hollypocket** |
-| Ogma | **Oghma** |
+| Ogma, Ogama | **Oghma** |
 | Bahamatians | **Bahamutians** |
 | Infirmus, Ephemeris, Fembrus, Fendris | **Fembris** |
 | Keeper of Toads | **Keeper of Tomes** |
@@ -75,7 +75,17 @@ First catalogued during the cleanup of
 | Feminaire | **Fheminor** |
 | Teles of Oste | **Teles Ahvoste** |
 | Telus | **Teles** |
-| Cad Daral Yashenti | **Daral Yashenti** |
+| Cad Daral Yashenti, Elton Jaral | **Daral Yashenti** |
+| Fembric Lancer, Fembrus Lancer, Frembris, So Fembris | **Fembris Lancer** |
+| Kazrin, Kazrin Nyatani, Kazrin Nyattinyani | **Kazryn Ntantani** |
+| Denier | **Deneir** |
+| Kai Tigersteel | **Kei Tigersteel** |
+| Holley | **Ms. Hollypocket** |
+| Alchrist | **Alkrist** |
+| Dwarmages | **Dwarmij's** |
+| That Philemon | **That Philistine** |
+| Vushadi, vouchardier | **Vooshadi** (Vooshadi Moonriver) |
+| underbark | **Underdark** |
 
 ## Items / artifacts
 
@@ -108,7 +118,7 @@ First catalogued during the cleanup of
 |---|---|
 | Vulking Valve, Velcan-developed | **Velkynvelve** |
 | Whirlstone | **Whorlstone** |
-| Candle Keep, Candleep, Candle Deep, Candleteep | **Candlekeep** |
+| Candle Keep, Candleep, Candle Deep, Candleteep, Candle Key | **Candlekeep** |
 | Mithril Hall | **Mithral Hall** |
 | Whirlstone Caverns | **Whorlstone Caverns** |
 | Castle Candlekeep | **Candlekeep Library** |
@@ -134,6 +144,13 @@ First catalogued during the cleanup of
 | Draconicos | **Drakonoikos** |
 | The Refactory | **The Refectory** |
 | Erun | **Faerun** |
+| Denier's Sanctum | **Deneir's Sanctum** |
+| Hightower | **High Tower** |
+| Hightower Keys | **High Tower Keys** |
+| Hightower Library | **High Tower Library** |
+| Flora Theica | **Floratheka** |
+| Green Dome | **Whispering Dome** |
+| The Tai Tower | **The High Tower** |
 
 ## Races / mechanics
 
@@ -153,6 +170,7 @@ First catalogued during the cleanup of
 | And Christadas | **And Kostadis** |
 | Torward | **toward** |
 | Nostromas | **Nostradamus** |
+| Lesseritiation | **Lesser Restoration** |
 
 ## Non-name fixes (recorded for context, not a glossary entry)
 

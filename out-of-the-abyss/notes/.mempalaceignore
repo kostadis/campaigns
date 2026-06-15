@@ -1,0 +1,20 @@
+# Pipeline tooling
+*.py
+*.json
+*.db
+*.txt
+.gitkeep
+
+# VTT pipeline metadata
+vtt_known_additions.md
+vtt_transcription_corrections.md
+.vtt_spell_pass_state.json
+
+# Pipeline-adjacent meta docs
+mempalace_usage_guide.md
+mempalace_pre_cleanup_inventory.md
+proper_nouns_adventure.md
+
+# Self-referential
+mempalace.yaml
+.mempalaceignore
