@@ -1,0 +1,296 @@
+[
+  {
+    "type": "npc",
+    "subject": "Kostadis",
+    "fact": "Kostadis is the Dungeon Master running the session.",
+    "source_quote": "run by Kostadis as Dungeon Master",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Nikhil Reddy",
+    "fact": "Nikhil Reddy is the player controlling the character Zenvon.",
+    "source_quote": "Nikhil Reddy as the player controlling the character Zenvon",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zenvon",
+    "fact": "Zenvon is the character controlled by Nikhil Reddy.",
+    "source_quote": "player controlling the character Zenvon",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Phandalin",
+    "fact": "The session is set in the town of Phandalin.",
+    "source_quote": "set in the town of Phandalin",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Stonehill Tavern",
+    "fact": "The party gathered critical intelligence at the Stonehill Tavern.",
+    "source_quote": "gathered critical intelligence at the Stonehill Tavern",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Red Brands",
+    "fact": "The Red Brands gang was identified as a major threat operating out of Tresendar Manor.",
+    "source_quote": "Red Brands gang was identified as a major threat operating out of Tresendar Manor",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Glasstaff",
+    "fact": "Glasstaff is the leader of the Red Brands gang.",
+    "source_quote": "with a leader named Glasstaff",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "mysterious obelisk",
+    "fact": "A mysterious obelisk connected to psionic magic, minds, memory, and transformation was introduced as a potential larger storyline thread.",
+    "source_quote": "A mysterious obelisk connected to psionic magic, minds, memory, and transformation was introduced as a potential larger storyline thread",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "goblins",
+    "fact": "The party ambushed and defeated two goblins outside a cave.",
+    "source_quote": "ambushed and defeated two goblins",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "goblin boss",
+    "fact": "The party defeated a goblin boss outside a cave.",
+    "source_quote": "defeated two goblins and a goblin boss",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "giant poisonous snake",
+    "fact": "Zenvon came face-to-face with a giant poisonous snake inside the cave.",
+    "source_quote": "Zenvon coming face-to-face with a giant poisonous snake inside the cave",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Gundren",
+    "fact": "Gundren is the patron who had been captured.",
+    "source_quote": "rescuing their patron, Gundren, who had been captured",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Tresendar Manor",
+    "fact": "Tresendar Manor is the location where the Red Brands operate.",
+    "source_quote": "operating out of Tresendar Manor",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "ambush",
+    "fact": "The party successfully ambushed and defeated two goblins and a goblin boss outside a cave.",
+    "source_quote": "successfully ambushed and defeated two goblins and a goblin boss outside a cave",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Toblen Stonehill",
+    "fact": "Toblen Stonehill is the broad-shouldered young human owner of the Stonehill Tavern.",
+    "source_quote": "Toblen Stonehill, the broad-shouldered young human owner of the tavern",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Tell Dendar",
+    "fact": "Tell Dendar was a man killed by the Red Brands in broad daylight.",
+    "source_quote": "Red Brands had killed a man named Tell Dendar in broad daylight",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Sleeping Giant",
+    "fact": "The Sleeping Giant is a tap house located on Phandalin's Main Street where the Red Brands drink.",
+    "source_quote": "Red Brands drink at the Sleeping Giant tap house, located on Phandalin's Main Street",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Elsa",
+    "fact": "Elsa is a sharp-eyed dwarf bartender at the Stonehill Tavern.",
+    "source_quote": "Elsa, a sharp-eyed dwarf bartender at the Stonehill Tavern",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Elsa's sister",
+    "fact": "Elsa's sister is a scholar in Neverwinter and is the pride of the family.",
+    "source_quote": "her sister is a scholar in Neverwinter and is the pride of the family",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Veyra",
+    "fact": "Veyra is a party NPC whose mentor was Professor Orryn Voss.",
+    "source_quote": "Veyra (party NPC) noted that her mentor, Professor Orryn Voss",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Professor Orryn Voss",
+    "fact": "Professor Orryn Voss is a mentor who disappeared in Phandalin.",
+    "source_quote": "Professor Orryn Voss had disappeared in Phandalin",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "black stone fragments",
+    "fact": "Professor Orryn Voss came to Phandalin believing there were black stone fragments from a large obelisk.",
+    "source_quote": "believing there were black stone fragments from a large obelisk",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "blue candle",
+    "fact": "A blue candle reacted to obelisk fragments and psionic magic.",
+    "source_quote": "A blue candle reacted to obelisk fragments and psionic magic",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Pip",
+    "fact": "Pip is a party NPC who mentioned hearing a whisper saying 'returned'.",
+    "source_quote": "Party NPC Pip mentioned hearing a whisper saying 'returned'",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Sister Maela",
+    "fact": "Sister Maela felt a chill in her holy symbol.",
+    "source_quote": "Sister Maela felt a chill in her holy symbol",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daran Edermath",
+    "fact": "Daran Edermath is the orchard keeper and retired adventurer recommended by Elsa.",
+    "source_quote": "Daran Edermath, the orchard keeper and retired adventurer",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Edermath Orchard",
+    "fact": "Daran Edermath is located at Edermath Orchard.",
+    "source_quote": "Daran Edermath at Edermath Orchard",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Freda",
+    "fact": "Freda is a slight gnomish woman with silver-streaked hair and round spectacles.",
+    "source_quote": "Freda, a slight gnomish woman with silver-streaked hair and round spectacles",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Halia",
+    "fact": "Halia works at the Phandalin Miners Exchange and is suspected of having a connection to the Red Brands.",
+    "source_quote": "Halia works at the Phandalin Miners Exchange and suggested that anyone wanting to uncover who is behind the criminal activity should start there",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Phandalin Miners Exchange",
+    "fact": "The Phandalin Miners Exchange is where Halia works.",
+    "source_quote": "Halia works at the Phandalin Miners Exchange",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Tuck",
+    "fact": "Tuck is Toblen's nine-year-old son.",
+    "source_quote": "Tuck, Toblen's nine-year-old son",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Carp Alderleaf",
+    "fact": "Carp Alderleaf is Tuck's friend who discovered a tunnel leading into the woods.",
+    "source_quote": "friend Carp Alderleaf had discovered a tunnel leading into the woods",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Carp's mother",
+    "fact": "Carp's mother forbade Carp from going near the tunnel.",
+    "source_quote": "Carp's mother forbade him from going near it",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Narth",
+    "fact": "Narth is an older weathered human man.",
+    "source_quote": "Narth, an older weathered human man",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Sister Garaele",
+    "fact": "Sister Garaele returned to town limping and pale but refused to explain what had happened.",
+    "source_quote": "Sister Garaele had returned to town limping and pale but refused to explain what had happened",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Lenar",
+    "fact": "Lenar is a lean human miner with a dusty gray beard.",
+    "source_quote": "Lenar, a lean human miner with a dusty gray beard",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Harbin Wester",
+    "fact": "Harbin Wester is the town master who is widely regarded as ineffective.",
+    "source_quote": "Harbin Wester as the useless town master who hides behind notices and wax seals",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "notices",
+    "fact": "Harbin Wester hides behind notices.",
+    "source_quote": "hides behind notices and wax seals",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "wax seals",
+    "fact": "Harbin Wester hides behind wax seals.",
+    "source_quote": "hides behind notices and wax seals",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "goblins",
+    "fact": "Lenar spoke loudly about goblins as a threat to the roads.",
+    "source_quote": "goblins, bandits, orcs, and the Red Brands",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "bandits",
+    "fact": "Lenar spoke loudly about bandits as a threat to the roads.",
+    "source_quote": "goblins, bandits, orcs, and the Red Brands",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "orcs",
+    "fact": "Lenar spoke loudly about orcs as a threat to the roads.",
+    "source_quote": "goblins, bandits, orcs, and the Red Brands",
+    "quote_verified": true
+  }
+]

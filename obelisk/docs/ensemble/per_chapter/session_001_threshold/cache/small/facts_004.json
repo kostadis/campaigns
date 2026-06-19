@@ -1,0 +1,184 @@
+[
+  {
+    "type": "npc",
+    "subject": "Zenvon",
+    "fact": "Zenvon successfully avoided a hidden pit trap with a Dexterity saving throw.",
+    "source_quote": "Zenvon successfully avoided a hidden pit trap with a Dexterity saving throw",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Pip",
+    "fact": "Pip failed a Dexterity saving throw against a hidden snare and was suspended 10 feet above the ground.",
+    "source_quote": "Pip failed a Dexterity saving throw against a hidden snare and was suspended 10 feet above the ground",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "trap encounter",
+    "fact": "Two traps were encountered on the trail.",
+    "source_quote": "Two traps were encountered on the trail",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Goblin Cave",
+    "fact": "The party arrived at a hillside cave entrance with a shallow stream and dense briar thickets.",
+    "source_quote": "The party arrived at the cave entrance, described as a hillside cave with a shallow stream and dense briar thickets",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zenvon",
+    "fact": "Zenvon scouted ahead using stealth and rolled successfully.",
+    "source_quote": "Zenvon scout ahead using stealth (rolled successfully)",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "goblins",
+    "fact": "Zenvon spotted two goblins and one goblin boss in a hollowed-out lookout post within the briar thickets.",
+    "source_quote": "Zenvon spotted two goblins and one goblin boss in a hollowed-out lookout post within the briar thickets",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "surprise round",
+    "fact": "The party successfully passed stealth checks and achieved a surprise round.",
+    "source_quote": "The party successfully passed stealth checks and achieved a surprise round",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "combat initiative",
+    "fact": "Goblins rolled 21 for initiative but were surprised, granting the party a free first round.",
+    "source_quote": "goblins rolled 21 but were surprised, granting the party a free first round",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zenvon crossbow shot",
+    "fact": "Zenvon missed with a crossbow shot after rolling a natural 1 in the surprise round.",
+    "source_quote": "Zenvon missed with a crossbow shot (rolled a natural 1) in the surprise round",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Veyra magic missile",
+    "fact": "Veyra fired a magic missile at the goblin boss, dealing 3 points of damage.",
+    "source_quote": "Veyra fired a magic missile at the goblin boss, dealing 3 points of damage",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "goblin boss charge",
+    "fact": "The goblin boss charged Pip and missed.",
+    "source_quote": "The goblin boss charged Pip and missed",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zenvon dagger strike",
+    "fact": "Zenvon rolled a natural 20 with a dagger, killing one goblin outright in a decisive strike.",
+    "source_quote": "Zenvon rolled a natural 20 with a dagger, killing one goblin outright in a decisive strike",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Veyra firebolt",
+    "fact": "Veyra fired a Firebolt, killing the second goblin with 5 points of damage.",
+    "source_quote": "Veyra fired a Firebolt, killing the second goblin (5 points of damage)",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "goblin boss scimitar attacks",
+    "fact": "The goblin boss attacked Pip twice with a scimitar and missed both times.",
+    "source_quote": "The goblin boss attacked Pip twice with a scimitar and missed both times",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zenvon short sword hit",
+    "fact": "Zenvon hit the goblin boss with a short sword for 9 points of damage.",
+    "source_quote": "hit with a short sword (9 points of damage)",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Sister Maela mace hit",
+    "fact": "Sister Maela hit the goblin boss with her mace for 6 points of damage.",
+    "source_quote": "Sister Maela hit the boss with her mace for 6 points of damage",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "goblin boss death",
+    "fact": "Veyra fired another Firebolt, killing the goblin boss.",
+    "source_quote": "Veyra fired another Firebolt, killing the goblin boss",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "combat conclusion",
+    "fact": "All three enemies were defeated and no party members took damage.",
+    "source_quote": "All three enemies \u2014 two goblins and the goblin boss \u2014 were defeated",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "scimitar",
+    "fact": "Looting the bodies produced a scimitar which Zenvon added to his inventory.",
+    "source_quote": "produced a scimitar and a javelin, which Zenvon added to his inventory",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "javelin",
+    "fact": "Looting the bodies produced a javelin which Zenvon added to his inventory.",
+    "source_quote": "produced a scimitar and a javelin, which Zenvon added to his inventory",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zenvon",
+    "fact": "Zenvon's dagger roll of 7 was a miss against the goblin boss's armor class of 17.",
+    "source_quote": "Zenvon's dagger roll of 7 (total) was a miss",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zenvon",
+    "fact": "Zenvon's short sword roll of 20 was a hit against the goblin boss's armor class of 17.",
+    "source_quote": "short sword roll of 20 (total) was a hit",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zenvon",
+    "fact": "Zenvon only has a +1 to hit with the javelin due to lack of proficiency.",
+    "source_quote": "without proficiency, Zenvon only has a +1 to hit with the javelin",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "encumbrance rule",
+    "fact": "Kostadis does not enforce encumbrance rules in this campaign.",
+    "source_quote": "Kostadis does not enforce them, preferring to focus on gameplay over resource accounting",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zenvon",
+    "fact": "Zenvon scouted further into the cave after the combat.",
+    "source_quote": "Zenvon scouted further into the cave after the combat",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "cave threats",
+    "fact": "Wolves, a dark passage, and a giant snake were mentioned as threats in the cave.",
+    "source_quote": "Wolves, Dark Passage, and Giant Snake",
+    "quote_verified": true
+  }
+]

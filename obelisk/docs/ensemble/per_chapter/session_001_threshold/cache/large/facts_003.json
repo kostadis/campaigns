@@ -1,0 +1,198 @@
+[
+  {
+    "type": "thread",
+    "subject": "Gundren's rescue",
+    "fact": "Multiple NPCs warned that Gundren's captors will eventually stop trying to extract information from him and may kill him.",
+    "source_quote": "Multiple NPCs warned that Gundren's captors will eventually stop trying to extract information from him and may kill him",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zenvon",
+    "fact": "Zenvon lacks darkvision.",
+    "source_quote": "Zenvon (halfling) lacks darkvision",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "light source consequence",
+    "fact": "Using a light source will eliminate stealth.",
+    "source_quote": "using a light source will eliminate stealth",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Sister Maela",
+    "fact": "The party must coordinate with Sister Maela for navigation in dark areas.",
+    "source_quote": "The party must coordinate around Sister Maela and Veyra for navigation in dark areas",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Veyra",
+    "fact": "The party must coordinate with Veyra for navigation in dark areas.",
+    "source_quote": "The party must coordinate around Sister Maela and Veyra for navigation in dark areas",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "giant poisonous snake",
+    "fact": "A giant snake was discovered blocking a passage inside the cave.",
+    "source_quote": "A giant snake was discovered blocking a passage inside the cave",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "snake encounter status",
+    "fact": "The party has not yet engaged the giant snake.",
+    "source_quote": "the party has not yet engaged it",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "wolves",
+    "fact": "Three wolves were spotted chained inside the cave.",
+    "source_quote": "Three wolves were spotted chained inside the cave",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Red Brands",
+    "fact": "The Red Brands gang continues to operate freely in Phandalin.",
+    "source_quote": "The Red Brands gang continues to operate freely in Phandalin",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Tresendar Manor",
+    "fact": "Tresendar Manor serves as the Red Brands' safehouse.",
+    "source_quote": "with their safehouse at Tresendar Manor",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Glasstaff",
+    "fact": "Glasstaff is the leader of the Red Brands.",
+    "source_quote": "their leader Glasstaff",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Glasstaff confrontation",
+    "fact": "Glasstaff has not yet been confronted.",
+    "source_quote": "Glasstaff not yet confronted",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Sister Garaele",
+    "fact": "Sister Garaele returned to town wounded.",
+    "source_quote": "Sister Garaele returned to town wounded",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Sister Garaele",
+    "fact": "Sister Garaele is not speaking about what happened to her.",
+    "source_quote": "not speaking about what happened",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Halia",
+    "fact": "Halia works at the Phandalin Miners Exchange.",
+    "source_quote": "Halia at the Phandalin Miners Exchange",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Halia visit",
+    "fact": "Halia has not been visited yet.",
+    "source_quote": "has not been visited",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Halia's connection",
+    "fact": "Halia's relationship with the Red Brands is unclear.",
+    "source_quote": "her relationship with the Red Brands is unclear",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "black stone obelisk fragments",
+    "fact": "The threat of someone assembling the black stone obelisk fragments remains an unresolved background danger.",
+    "source_quote": "The threat of someone assembling the black stone obelisk fragments remains an unresolved background danger",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Nikhil Reddy",
+    "fact": "Nikhil Reddy is playing the character Zenvon.",
+    "source_quote": "Nikhil Reddy (as Zenvon)",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "snake retreat",
+    "fact": "The party retreated from the giant snake.",
+    "source_quote": "after retreating from the giant snake",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Gundren rescue objective",
+    "fact": "Rescuing Gundren from the goblin cave is the primary objective.",
+    "source_quote": "Rescue Gundren from the goblin cave as the primary objective",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Halia investigation",
+    "fact": "Investigating Halia's connection to the Red Brands is deferred until after the rescue.",
+    "source_quote": "deferred until after the rescue",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Sister Garaele inquiry",
+    "fact": "Speaking with Sister Garaele through Sister Maela is deferred until after the rescue.",
+    "source_quote": "deferred until after the rescue",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "hidden tunnel",
+    "fact": "Carp Alderleaf discovered a hidden tunnel.",
+    "source_quote": "hidden tunnel discovered by Carp Alderleaf",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Shrine of Luck",
+    "fact": "The party is to return to the Shrine of Luck acolyte after rescuing Gundren to receive the next quest.",
+    "source_quote": "Return to the Shrine of Luck acolyte after rescuing Gundren to receive the next quest",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Old Owl Well",
+    "fact": "Old Owl Well has an undead threat.",
+    "source_quote": "Old Owl Well and the undead threat",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daran Edermath",
+    "fact": "Daran Edermath offers boots of striding and springing for investigating Old Owl Well.",
+    "source_quote": "earn the boots of striding and springing from Daran Edermath",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Red Brands confrontation",
+    "fact": "Confronting the Red Brands at Tresendar Manor and dealing with Glasstaff is a future task.",
+    "source_quote": "Confront the Red Brands at Tresendar Manor and deal with their leader Glasstaff",
+    "quote_verified": true
+  }
+]

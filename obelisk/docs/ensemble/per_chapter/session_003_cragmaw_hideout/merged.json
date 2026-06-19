@@ -1,0 +1,3430 @@
+[
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The party began the session rested.",
+    "source_quote": "The party began the session rested",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "The party began the session rested."
+    ],
+    "subjects": [
+      "session date"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "date",
+    "subject": "Session date",
+    "fact": "The session was an in-person game.",
+    "source_quote": "The session was an in-person Dungeons & Dragons game",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "variants": [
+      "The session was an in-person game."
+    ],
+    "subjects": [
+      "Session date"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "ambush",
+    "fact": "The party was ambushed on the Triboar Trail.",
+    "source_quote": "the party was ambushed on the Triboar Trail",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "The party was ambushed on the Triboar Trail."
+    ],
+    "subjects": [
+      "ambush"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Ambush on Triboar Trail",
+    "fact": "The party was ambushed on the Triboar Trail by goblins.",
+    "source_quote": "party was ambushed on the Triboar Trail",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "variants": [
+      "The party was ambushed on the Triboar Trail by goblins."
+    ],
+    "subjects": [
+      "Ambush on Triboar Trail"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "cave advance",
+    "fact": "The party proceeded deeper into the cave.",
+    "source_quote": "the party proceeded deeper into the cave",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "The party proceeded deeper into the cave."
+    ],
+    "subjects": [
+      "cave advance"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Claude-based goblin name generator",
+    "fact": "Kostadis is to set up the Claude-based goblin name generator for future sessions.",
+    "source_quote": "Set up the Claude-based goblin name generator for future sessions",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "Kostadis is to set up the Claude-based goblin name generator for future sessions."
+    ],
+    "subjects": [
+      "Claude-based goblin name generator"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Cragmaw Hideout Clearing",
+    "fact": "The party successfully cleared the Cragmaw Hideout.",
+    "source_quote": "The party successfully cleared the Cragmaw Hideout",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "variants": [
+      "The party successfully cleared the Cragmaw Hideout."
+    ],
+    "subjects": [
+      "Cragmaw Hideout Clearing"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "darkness disadvantage",
+    "fact": "The party lacked darkvision, creating persistent disadvantage on attack rolls.",
+    "source_quote": "The party lacked darkvision, creating persistent disadvantage on attack rolls",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "The party lacked darkvision, creating persistent disadvantage on attack rolls."
+    ],
+    "subjects": [
+      "darkness disadvantage"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "dual-weapon correction",
+    "fact": "Kostadis and Nikhil repeatedly forgot to apply the second attack from dual-weapon fighting.",
+    "source_quote": "repeatedly forgot to apply the second attack from dual-weapon fighting",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "Kostadis and Nikhil repeatedly forgot to apply the second attack from dual-weapon fighting."
+    ],
+    "subjects": [
+      "dual-weapon correction"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Escort Agreement",
+    "fact": "The party agreed to escort Sildar to Phandalin.",
+    "source_quote": "The party agreed to escort Sildar",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "variants": [
+      "The party agreed to escort Sildar to Phandalin."
+    ],
+    "subjects": [
+      "Escort Agreement"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "escort agreement",
+    "fact": "The party agreed to escort Sildar.",
+    "source_quote": "The party agreed to escort Sildar",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "The party agreed to escort Sildar."
+    ],
+    "subjects": [
+      "escort agreement"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "escort offer",
+    "fact": "Sildar offered 50 gold pieces to be escorted to Neverwinter or Phandalin.",
+    "source_quote": "Sildar offered 50 gold pieces to be escorted to Neverwinter/Phandalin",
+    "quote_verified": true,
+    "passes": [
+      "sweep",
+      "temporal"
+    ],
+    "variants": [
+      "Sildar offered 50 gold pieces to be escorted to Neverwinter or Phandalin."
+    ],
+    "subjects": [
+      "escort offer",
+      "Sildar escort payment"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "event",
+    "subject": "firebolt",
+    "fact": "Veyra killed a fleeing goblin with a critical firebolt for 7 points of damage.",
+    "source_quote": "killed a fleeing goblin with a critical firebolt (7 points of damage) before it could escape",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "sweep",
+      "temporal"
+    ],
+    "variants": [
+      "Veyra killed a fleeing goblin with a critical firebolt for 7 points of damage.",
+      "Veyra killed a fleeing goblin with a critical firebolt."
+    ],
+    "subjects": [
+      "firebolt",
+      "Goblin killed by firebolt",
+      "Veyra Firebolt"
+    ],
+    "n_samples": 3
+  },
+  {
+    "type": "event",
+    "subject": "First Goblin Kill",
+    "fact": "Zenvon killed the first goblin with 9 points of damage using sneak attack.",
+    "source_quote": "killing the first goblin with 9 points of damage",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small",
+      "temporal"
+    ],
+    "variants": [
+      "Zenvon killed the first goblin with 9 points of damage using sneak attack.",
+      "Zenvon killed the first goblin with 9 points of damage."
+    ],
+    "subjects": [
+      "First Goblin Kill",
+      "sneak attack",
+      "Zenvon damage to first goblin"
+    ],
+    "n_samples": 3
+  },
+  {
+    "type": "event",
+    "subject": "flood trigger",
+    "fact": "Goblins released a dam, triggering a flood that swept through the cave.",
+    "source_quote": "A flood triggered by goblins releasing a dam swept through the cave",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small",
+      "sweep"
+    ],
+    "variants": [
+      "Goblins released a dam, triggering a flood that swept through the cave.",
+      "Goblins released a dam triggering a flood that swept through the cave.",
+      "A flood triggered by goblins releasing a dam swept through the cave."
+    ],
+    "subjects": [
+      "flood trigger",
+      "Flood Triggered",
+      "flood"
+    ],
+    "n_samples": 3
+  },
+  {
+    "type": "event",
+    "subject": "GM Assistant app",
+    "fact": "Kostadis used the GM Assistant app to review the previous session summary.",
+    "source_quote": "using the GM Assistant app to orient the player",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "Kostadis used the GM Assistant app to review the previous session summary."
+    ],
+    "subjects": [
+      "GM Assistant app"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Klarg Death",
+    "fact": "Klarg was killed by Zenvon.",
+    "source_quote": "Klarg was killed",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "variants": [
+      "Klarg was killed by Zenvon."
+    ],
+    "subjects": [
+      "Klarg Death"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Klarg Engagement",
+    "fact": "Klarg engaged the party causing significant damage to Pip and Sister Maela.",
+    "source_quote": "Pip and Sister Maela took significant damage",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "variants": [
+      "Klarg engaged the party causing significant damage to Pip and Sister Maela."
+    ],
+    "subjects": [
+      "Klarg Engagement"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Klarg killing blow",
+    "fact": "Zenvon landed the killing blow on Klarg using Nick scimitar and dagger.",
+    "source_quote": "Landed the killing blow on Klarg using Nick scimitar + dagger combo",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "Zenvon landed the killing blow on Klarg using Nick scimitar and dagger."
+    ],
+    "subjects": [
+      "Klarg killing blow"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Klarg remaining HP",
+    "fact": "Klarg had 5 HP remaining before being killed.",
+    "source_quote": "Klarg had 5 HP remaining",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "variants": [
+      "Klarg had 5 HP remaining before being killed."
+    ],
+    "subjects": [
+      "Klarg remaining HP"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "level up",
+    "fact": "The party gained a level.",
+    "source_quote": "gained a level",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "The party gained a level."
+    ],
+    "subjects": [
+      "level up"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "level up",
+    "fact": "The party had gained a level in the previous session.",
+    "source_quote": "and gained a level",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "The party had gained a level in the previous session."
+    ],
+    "subjects": [
+      "level up"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "long rest",
+    "fact": "The session concluded with the party heading back to Phandalin for a long rest.",
+    "source_quote": "heading back to Phandalin for a long rest",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "The session concluded with the party heading back to Phandalin for a long rest."
+    ],
+    "subjects": [
+      "long rest"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "long rest mechanics",
+    "fact": "Kostadis explained the mechanics of long rest vs. short rest.",
+    "source_quote": "Explained the D&D mechanics of long rest vs. short rest",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "Kostadis explained the mechanics of long rest vs. short rest."
+    ],
+    "subjects": [
+      "long rest mechanics"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Looting Klarg's Cave",
+    "fact": "The party found 1,700 copper pieces in Klarg's cave.",
+    "source_quote": "The party found 1,700 copper pieces",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "variants": [
+      "The party found 1,700 copper pieces in Klarg's cave."
+    ],
+    "subjects": [
+      "Looting Klarg's Cave"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Looting Klarg's Cave",
+    "fact": "The party found a jade statuette of a frog with tiny golden eyes.",
+    "source_quote": "a jade statuette of a frog with tiny golden eyes",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "variants": [
+      "The party found a jade statuette of a frog with tiny golden eyes."
+    ],
+    "subjects": [
+      "Looting Klarg's Cave"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Looting Klarg's Cave",
+    "fact": "The party found two potions of healing in Klarg's cave.",
+    "source_quote": "two potions of healing",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "variants": [
+      "The party found two potions of healing in Klarg's cave."
+    ],
+    "subjects": [
+      "Looting Klarg's Cave"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Magic Missile",
+    "fact": "Veyra used Magic Missile for 15 points of damage on Klarg.",
+    "source_quote": "Veyra: Used Magic Missile for 15 points of damage on Klarg",
+    "quote_verified": true,
+    "passes": [
+      "sweep",
+      "temporal"
+    ],
+    "variants": [
+      "Veyra used Magic Missile for 15 points of damage on Klarg."
+    ],
+    "subjects": [
+      "Magic Missile",
+      "Veyra damage to Klarg"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "event",
+    "subject": "persuasion attempt",
+    "fact": "Nikhil rolled a 16 on persuasion to ask Sildar to join the party.",
+    "source_quote": "rolled a 16 on persuasion",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "Nikhil rolled a 16 on persuasion to ask Sildar to join the party."
+    ],
+    "subjects": [
+      "persuasion attempt"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "rescue",
+    "fact": "The party rescued Sildar.",
+    "source_quote": "rescued Sildar",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "The party rescued Sildar."
+    ],
+    "subjects": [
+      "rescue"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "rest duration",
+    "fact": "The party plans to take a long rest in Phandalin.",
+    "source_quote": "Take a long rest in Phandalin",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "variants": [
+      "The party plans to take a long rest in Phandalin."
+    ],
+    "subjects": [
+      "rest duration"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Ruxithid",
+    "fact": "The phrase 'Ruxithid' was part of the mysterious goblin's whisper.",
+    "source_quote": "\"You're not what Ruxithid wants.\"",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "The phrase 'Ruxithid' was part of the mysterious goblin's whisper."
+    ],
+    "subjects": [
+      "Ruxithid"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "session start",
+    "fact": "The session was an in-person game.",
+    "source_quote": "The session was an in-person Dungeons & Dragons game",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "The session was an in-person game."
+    ],
+    "subjects": [
+      "session start"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Sister Maela provided light",
+    "fact": "Sister Maela provided light to counter the darkness in the cave.",
+    "source_quote": "until Sister Maela provided light",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "Sister Maela provided light to counter the darkness in the cave."
+    ],
+    "subjects": [
+      "Sister Maela provided light"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "travel to Phandalin",
+    "fact": "The party headed to Phandalin for a long rest.",
+    "source_quote": "headed back to Phandalin for a long rest",
+    "quote_verified": false,
+    "passes": [
+      "large",
+      "small",
+      "sweep"
+    ],
+    "variants": [
+      "The party headed to Phandalin for a long rest."
+    ],
+    "subjects": [
+      "travel to Phandalin",
+      "Return to Phandalin",
+      "long rest"
+    ],
+    "n_samples": 3
+  },
+  {
+    "type": "event",
+    "subject": "Triboar Trail ambush",
+    "fact": "Sildar revealed the party was ambushed on the Triboar Trail.",
+    "source_quote": "Revealed the party was ambushed on the Triboar Trail",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "Sildar revealed the party was ambushed on the Triboar Trail."
+    ],
+    "subjects": [
+      "Triboar Trail ambush"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Veyra saving throw",
+    "fact": "Veyra failed her dexterity saving throw against the flood.",
+    "source_quote": "Veyra failed her dexterity saving throw",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "variants": [
+      "Veyra failed her dexterity saving throw against the flood."
+    ],
+    "subjects": [
+      "Veyra saving throw"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "whispered phrase",
+    "fact": "The mysterious goblin whispered the phrase 'You're not what Ruxithid wants.'",
+    "source_quote": "whispered an unknown phrase: \"You're not what Ruxithid wants.\"",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "The mysterious goblin whispered the phrase 'You're not what Ruxithid wants.'"
+    ],
+    "subjects": [
+      "whispered phrase"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "wolf bite",
+    "fact": "A wolf bit Zenvon for 5 points of damage.",
+    "source_quote": "A wolf bit Zenvon for 5 points of damage",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small",
+      "sweep",
+      "temporal"
+    ],
+    "variants": [
+      "A wolf bit Zenvon for 5 points of damage."
+    ],
+    "subjects": [
+      "wolf bite",
+      "Zenvon Bitten by Wolf",
+      "Zenvon damage from wolf"
+    ],
+    "n_samples": 4
+  },
+  {
+    "type": "event",
+    "subject": "Wolf Distraction",
+    "fact": "Zenvon successfully lured wolves by throwing food.",
+    "source_quote": "successfully luring the wolves",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "variants": [
+      "Zenvon successfully lured wolves by throwing food."
+    ],
+    "subjects": [
+      "Wolf Distraction"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Wolf Subdual",
+    "fact": "Sister Maela subdued the remaining wolves rather than killing them.",
+    "source_quote": "subdue the remaining wolves rather than killing them",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "variants": [
+      "Sister Maela subdued the remaining wolves rather than killing them."
+    ],
+    "subjects": [
+      "Wolf Subdual"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zenvon damage to Klarg",
+    "fact": "Zenvon landed the killing blow on Klarg for 8 points of damage.",
+    "source_quote": "for 8 points of damage (Klarg had 5 HP remaining)",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "variants": [
+      "Zenvon landed the killing blow on Klarg for 8 points of damage."
+    ],
+    "subjects": [
+      "Zenvon damage to Klarg"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zenvon deception roll",
+    "fact": "Zenvon used deception with a roll of 15 to imitate a goblin voice.",
+    "source_quote": "Used deception (rolled 15) to imitate a goblin voice",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "sweep",
+      "temporal"
+    ],
+    "variants": [
+      "Zenvon used deception with a roll of 15 to imitate a goblin voice.",
+      "Zenvon rolled a 15 on deception to imitate a goblin voice."
+    ],
+    "subjects": [
+      "Zenvon deception roll",
+      "Zenvon Deception",
+      "deception roll"
+    ],
+    "n_samples": 3
+  },
+  {
+    "type": "event",
+    "subject": "Zenvon healing",
+    "fact": "Sister Maela cast Cure Wounds, healing Zenvon to full 16 HP including temp HP.",
+    "source_quote": "healing Zenvon to full (16 HP including temp HP)",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "variants": [
+      "Sister Maela cast Cure Wounds, healing Zenvon to full 16 HP including temp HP."
+    ],
+    "subjects": [
+      "Zenvon healing"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zenvon Persuasion Attempt",
+    "fact": "Zenvon rolled a 16 on persuasion to ask Sildar to join the party.",
+    "source_quote": "rolled a 16 on persuasion but Sildar declined",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "sweep",
+      "temporal"
+    ],
+    "variants": [
+      "Zenvon rolled a 16 on persuasion to ask Sildar to join the party.",
+      "Zenvon rolled a 16 on persuasion to persuade Sildar."
+    ],
+    "subjects": [
+      "Zenvon Persuasion Attempt",
+      "persuasion attempt",
+      "Zenvon persuasion roll"
+    ],
+    "n_samples": 3
+  },
+  {
+    "type": "event",
+    "subject": "Zenvon saving throw",
+    "fact": "Zenvon passed the DC 11 strength saving throw against the wolf's attack.",
+    "source_quote": "passed the DC 11 strength saving throw",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "variants": [
+      "Zenvon passed the DC 11 strength saving throw against the wolf's attack."
+    ],
+    "subjects": [
+      "Zenvon saving throw"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zenvon saving Veyra",
+    "fact": "Zenvon rolled a 19 on sleight of hand to grab Veyra before she was swept away.",
+    "source_quote": "Rolled a 19 on sleight of hand to grab Veyra before she was swept away",
+    "quote_verified": true,
+    "passes": [
+      "sweep",
+      "temporal"
+    ],
+    "variants": [
+      "Zenvon rolled a 19 on sleight of hand to grab Veyra before she was swept away.",
+      "Zenvon rolled a 19 on sleight of hand to grab Veyra."
+    ],
+    "subjects": [
+      "Zenvon saving Veyra",
+      "Veyra sleight of hand rescue"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "event",
+    "subject": "Zenvon sleight of hand distraction",
+    "fact": "Zenvon rolled a 19 on sleight of hand to distract wolves.",
+    "source_quote": "rolled 19 on sleight of hand",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "variants": [
+      "Zenvon rolled a 19 on sleight of hand to distract wolves."
+    ],
+    "subjects": [
+      "Zenvon sleight of hand distraction"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zenvon Stealth Roll",
+    "fact": "Zenvon rolled a natural 20 on stealth after killing a goblin.",
+    "source_quote": "Rolled a natural 20 on stealth after killing a goblin",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "sweep",
+      "temporal"
+    ],
+    "variants": [
+      "Zenvon rolled a natural 20 on stealth after killing a goblin."
+    ],
+    "subjects": [
+      "Zenvon Stealth Roll",
+      "stealth roll",
+      "Zenvon stealth roll"
+    ],
+    "n_samples": 3
+  },
+  {
+    "type": "event",
+    "subject": "Zenvon Strength Save",
+    "fact": "Zenvon passed the DC 11 strength saving throw and was not knocked prone.",
+    "source_quote": "Zenvon passed the DC 11 strength saving throw and was not knocked prone",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small"
+    ],
+    "variants": [
+      "Zenvon passed the DC 11 strength saving throw and was not knocked prone.",
+      "Zenvon passed the DC 11 strength saving throw."
+    ],
+    "subjects": [
+      "Zenvon Strength Save",
+      "saving throw"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "faction",
+    "subject": "Black Spider",
+    "fact": "The Black Spider is a mysterious figure about whom Sildar provided lore.",
+    "source_quote": "Sildar provided critical lore about the Black Spider",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "The Black Spider is a mysterious figure about whom Sildar provided lore."
+    ],
+    "subjects": [
+      "Black Spider"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Black Spider",
+    "fact": "The identity and motives of the Black Spider remain unknown.",
+    "source_quote": "The identity and motives of the Black Spider remain unknown",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "variants": [
+      "The identity and motives of the Black Spider remain unknown."
+    ],
+    "subjects": [
+      "Black Spider"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Emerald Enclave",
+    "fact": "Kostadis described the Emerald Enclave as nature-preserving and druid-aligned.",
+    "source_quote": "Described the Emerald Enclave as nature-preserving, druid-aligned",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "Kostadis described the Emerald Enclave as nature-preserving and druid-aligned."
+    ],
+    "subjects": [
+      "Emerald Enclave"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Emerald Enclave",
+    "fact": "The Emerald Enclave is described as nature-preserving, druid-aligned, and internally divided.",
+    "source_quote": "Described the Emerald Enclave as nature-preserving, druid-aligned, and internally divided on what \"preserving nature\" means",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small"
+    ],
+    "variants": [
+      "The Emerald Enclave is described as nature-preserving, druid-aligned, and internally divided.",
+      "The Emerald Enclave is described as nature-preserving and druid-aligned."
+    ],
+    "subjects": [
+      "Emerald Enclave"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "faction",
+    "subject": "goblins",
+    "fact": "The goblins ambushed the party on the Triboar Trail.",
+    "source_quote": "the party was ambushed on the Triboar Trail",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "The goblins ambushed the party on the Triboar Trail."
+    ],
+    "subjects": [
+      "goblins"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "goblins",
+    "fact": "The goblins mentioned the name Black Spider.",
+    "source_quote": "the name \"Black Spider\" was overheard among the goblins",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "The goblins mentioned the name Black Spider."
+    ],
+    "subjects": [
+      "goblins"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "goblins",
+    "fact": "The goblins were tipped off about the ambush.",
+    "source_quote": "someone tipped off the goblins",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "The goblins were tipped off about the ambush."
+    ],
+    "subjects": [
+      "goblins"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "goblins",
+    "fact": "The party defeated multiple goblins.",
+    "source_quote": "defeating multiple goblins",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "The party defeated multiple goblins."
+    ],
+    "subjects": [
+      "goblins"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Harpers",
+    "fact": "Kostadis described the Harpers as favoring decentralization.",
+    "source_quote": "Described the Harpers as committed to preventing any single faction from gaining full control",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "Kostadis described the Harpers as favoring decentralization."
+    ],
+    "subjects": [
+      "Harpers"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Harpers",
+    "fact": "The Harpers are committed to preventing any single faction from gaining full control.",
+    "source_quote": "Described the Harpers as committed to preventing any single faction from gaining full control",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small"
+    ],
+    "variants": [
+      "The Harpers are committed to preventing any single faction from gaining full control."
+    ],
+    "subjects": [
+      "Harpers"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "faction",
+    "subject": "Lionshield Coster",
+    "fact": "The Lionshield Coster is a merchant company from Phandalin.",
+    "source_quote": "symbol of the Lionshield Coster merchant company from Phandalin",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "variants": [
+      "The Lionshield Coster is a merchant company from Phandalin."
+    ],
+    "subjects": [
+      "Lionshield Coster"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Lionshield Coster",
+    "fact": "The blue lion is the symbol of the Lionshield Coster merchant company from Phandalin.",
+    "source_quote": "the symbol of the Lionshield Coster merchant company from Phandalin",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "The blue lion is the symbol of the Lionshield Coster merchant company from Phandalin."
+    ],
+    "subjects": [
+      "Lionshield Coster"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Lord's Alliance",
+    "fact": "Sildar identified himself as a member of the Lord's Alliance.",
+    "source_quote": "Identified himself as a member of the Lord's Alliance",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "Sildar identified himself as a member of the Lord's Alliance."
+    ],
+    "subjects": [
+      "Lord's Alliance"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Lord's Alliance",
+    "fact": "The Lord's Alliance is described as the ruling castes of major city-states favoring centralized power.",
+    "source_quote": "Described the Lord's Alliance as the ruling castes of major city-states, favoring centralized power",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small"
+    ],
+    "variants": [
+      "The Lord's Alliance is described as the ruling castes of major city-states favoring centralized power."
+    ],
+    "subjects": [
+      "Lord's Alliance"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "faction",
+    "subject": "Order of the Gauntlet",
+    "fact": "Kostadis described the Order of the Gauntlet as heroic and combat-focused.",
+    "source_quote": "Described the Order of the Gauntlet as heroic, combat-focused, and morality-driven",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "Kostadis described the Order of the Gauntlet as heroic and combat-focused."
+    ],
+    "subjects": [
+      "Order of the Gauntlet"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Order of the Gauntlet",
+    "fact": "The Order of the Gauntlet is described as heroic, combat-focused, and morality-driven.",
+    "source_quote": "Described the Order of the Gauntlet as heroic, combat-focused, and morality-driven",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small"
+    ],
+    "variants": [
+      "The Order of the Gauntlet is described as heroic, combat-focused, and morality-driven."
+    ],
+    "subjects": [
+      "Order of the Gauntlet"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "faction",
+    "subject": "wolves",
+    "fact": "Sister Maela used animal handling to subdue the remaining wolves.",
+    "source_quote": "successfully used animal handling to subdue the remaining wolves",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "Sister Maela used animal handling to subdue the remaining wolves."
+    ],
+    "subjects": [
+      "wolves"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Zhentarim",
+    "fact": "Kostadis described the Zhentarim as a trade-controlling criminal organization.",
+    "source_quote": "Described the Zhentarim (Black Network) as a trade-controlling criminal organization",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "Kostadis described the Zhentarim as a trade-controlling criminal organization."
+    ],
+    "subjects": [
+      "Zhentarim"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Zhentarim",
+    "fact": "The Zhentarim is a trade-controlling criminal organization originally a cult of an evil god.",
+    "source_quote": "Described the Zhentarim (Black Network) as a trade-controlling criminal organization, originally a cult of an evil god",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small"
+    ],
+    "variants": [
+      "The Zhentarim is a trade-controlling criminal organization originally a cult of an evil god."
+    ],
+    "subjects": [
+      "Zhentarim"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "location",
+    "subject": "Cragmaw Hideout",
+    "fact": "The Cragmaw Hideout is a cave system cleared by the party.",
+    "source_quote": "cleared the Cragmaw Hideout",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "variants": [
+      "The Cragmaw Hideout is a cave system cleared by the party."
+    ],
+    "subjects": [
+      "Cragmaw Hideout"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Cragmaw Hideout",
+    "fact": "The Cragmaw Hideout was cleared.",
+    "source_quote": "the Cragmaw Hideout was cleared",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "The Cragmaw Hideout was cleared."
+    ],
+    "subjects": [
+      "Cragmaw Hideout"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Cragmaw Hideout",
+    "fact": "The party returned to the Cragmaw Hideout cave.",
+    "source_quote": "ready to return to the Cragmaw Hideout cave",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "The party returned to the Cragmaw Hideout cave."
+    ],
+    "subjects": [
+      "Cragmaw Hideout"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Cragmaw Hideout",
+    "fact": "The party successfully cleared the Cragmaw Hideout.",
+    "source_quote": "The party successfully cleared the Cragmaw Hideout",
+    "quote_verified": true,
+    "passes": [
+      "small",
+      "sweep"
+    ],
+    "variants": [
+      "The party successfully cleared the Cragmaw Hideout.",
+      "The party cleared the Cragmaw Hideout."
+    ],
+    "subjects": [
+      "Cragmaw Hideout"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "location",
+    "subject": "Lionshield Coster",
+    "fact": "Sacks and crates were marked with the symbol of the Lionshield Coster merchant company.",
+    "source_quote": "marked with a blue lion — the symbol of the Lionshield Coster merchant company",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "Sacks and crates were marked with the symbol of the Lionshield Coster merchant company."
+    ],
+    "subjects": [
+      "Lionshield Coster"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Neverwinter",
+    "fact": "Neverwinter was mentioned as a potential destination for Sildar.",
+    "source_quote": "escorted to Neverwinter/Phandalin",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "Neverwinter was mentioned as a potential destination for Sildar."
+    ],
+    "subjects": [
+      "Neverwinter"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Neverwinter",
+    "fact": "Sildar offered to be escorted to Neverwinter.",
+    "source_quote": "escort to Neverwinter/Phandalin",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small"
+    ],
+    "variants": [
+      "Sildar offered to be escorted to Neverwinter.",
+      "Sildar requested escort to Neverwinter."
+    ],
+    "subjects": [
+      "Neverwinter"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "location",
+    "subject": "Phandalin",
+    "fact": "Phandalin is the destination for the party's long rest.",
+    "source_quote": "heading back to Phandalin for a long rest",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "variants": [
+      "Phandalin is the destination for the party's long rest."
+    ],
+    "subjects": [
+      "Phandalin"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Phandalin",
+    "fact": "The party concluded the session by heading back to Phandalin.",
+    "source_quote": "heading back to Phandalin for a long rest",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "The party concluded the session by heading back to Phandalin."
+    ],
+    "subjects": [
+      "Phandalin"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Phandalin",
+    "fact": "The party is heading back to Phandalin.",
+    "source_quote": "heading back to Phandalin",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "The party is heading back to Phandalin."
+    ],
+    "subjects": [
+      "Phandalin"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Triboar Trail",
+    "fact": "The ambush occurred on the Triboar Trail.",
+    "source_quote": "ambushed on the Triboar Trail",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "The ambush occurred on the Triboar Trail."
+    ],
+    "subjects": [
+      "Triboar Trail"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Triboar Trail",
+    "fact": "The ambush on the Triboar Trail was not a random robbery.",
+    "source_quote": "ambushed on the Triboar Trail",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "variants": [
+      "The ambush on the Triboar Trail was not a random robbery."
+    ],
+    "subjects": [
+      "Triboar Trail"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "goblins",
+    "fact": "All goblins at the cave entrance were defeated.",
+    "source_quote": "All goblins and wolves at the cave entrance were defeated",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "All goblins at the cave entrance were defeated."
+    ],
+    "subjects": [
+      "goblins"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "goblins",
+    "fact": "All goblins in the main cavern were neutralized.",
+    "source_quote": "all goblins and wolves in the main cavern were neutralized",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "All goblins in the main cavern were neutralized."
+    ],
+    "subjects": [
+      "goblins"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "goblins",
+    "fact": "Multiple goblins were defeated in the Cragmaw Hideout.",
+    "source_quote": "defeating multiple goblins",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "Multiple goblins were defeated in the Cragmaw Hideout."
+    ],
+    "subjects": [
+      "goblins"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Goblins",
+    "fact": "The party defeated multiple goblins at the Cragmaw Hideout.",
+    "source_quote": "defeating multiple goblins",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "variants": [
+      "The party defeated multiple goblins at the Cragmaw Hideout."
+    ],
+    "subjects": [
+      "Goblins"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Goblin with Elongated Head",
+    "fact": "A mysterious goblin with an elongated head was mentioned by Sildar.",
+    "source_quote": "mysterious goblin with an elongated head was mentioned by Sildar",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "variants": [
+      "A mysterious goblin with an elongated head was mentioned by Sildar."
+    ],
+    "subjects": [
+      "Goblin with Elongated Head"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Klarg",
+    "fact": "Klarg the bugbear appeared and engaged the party.",
+    "source_quote": "Klarg the bugbear appeared and engaged the party",
+    "quote_verified": true,
+    "passes": [
+      "small",
+      "sweep"
+    ],
+    "variants": [
+      "Klarg the bugbear appeared and engaged the party."
+    ],
+    "subjects": [
+      "Klarg"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "monster",
+    "subject": "Klarg",
+    "fact": "Klarg was killed.",
+    "source_quote": "Klarg was killed",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "Klarg was killed."
+    ],
+    "subjects": [
+      "Klarg"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "wolves",
+    "fact": "A wolf bit Zenvon for 5 points of damage.",
+    "source_quote": "A wolf bit Zenvon for 5 points of damage",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "A wolf bit Zenvon for 5 points of damage."
+    ],
+    "subjects": [
+      "wolves"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "wolves",
+    "fact": "All wolves at the cave entrance were defeated.",
+    "source_quote": "All goblins and wolves at the cave entrance were defeated",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "All wolves at the cave entrance were defeated."
+    ],
+    "subjects": [
+      "wolves"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "wolves",
+    "fact": "All wolves in the main cavern were neutralized.",
+    "source_quote": "all goblins and wolves in the main cavern were neutralized",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "All wolves in the main cavern were neutralized."
+    ],
+    "subjects": [
+      "wolves"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "wolves",
+    "fact": "Multiple wolves were defeated in the Cragmaw Hideout.",
+    "source_quote": "defeating multiple goblins, wolves",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "Multiple wolves were defeated in the Cragmaw Hideout."
+    ],
+    "subjects": [
+      "wolves"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Wolves",
+    "fact": "The party defeated multiple wolves at the Cragmaw Hideout.",
+    "source_quote": "defeating multiple goblins, wolves",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "variants": [
+      "The party defeated multiple wolves at the Cragmaw Hideout."
+    ],
+    "subjects": [
+      "Wolves"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "wolves",
+    "fact": "The party defeated multiple wolves.",
+    "source_quote": "defeating multiple goblins, wolves, and the bugbear leader Klarg",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "The party defeated multiple wolves."
+    ],
+    "subjects": [
+      "wolves"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "wolves",
+    "fact": "Zenvon passed the DC 11 strength saving throw and was not knocked prone.",
+    "source_quote": "Zenvon passed the DC 11 strength saving throw and was not knocked prone",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "Zenvon passed the DC 11 strength saving throw and was not knocked prone."
+    ],
+    "subjects": [
+      "wolves"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "wolves",
+    "fact": "Zenvon successfully lured the wolves by throwing food.",
+    "source_quote": "successfully luring the wolves",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "Zenvon successfully lured the wolves by throwing food."
+    ],
+    "subjects": [
+      "wolves"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Gundren",
+    "fact": "Gundren is a missing person whose whereabouts Sildar discussed.",
+    "source_quote": "and the missing Gundren",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "Gundren is a missing person whose whereabouts Sildar discussed."
+    ],
+    "subjects": [
+      "Gundren"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Gundren",
+    "fact": "Gundren is missing.",
+    "source_quote": "the missing Gundren",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "Gundren is missing."
+    ],
+    "subjects": [
+      "Gundren"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Gundren",
+    "fact": "Gundren was dragged away separately from the ambush.",
+    "source_quote": "Gundren was dragged away separately",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "Gundren was dragged away separately from the ambush."
+    ],
+    "subjects": [
+      "Gundren"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Gundren",
+    "fact": "Gundren was missing and dragged away during the ambush.",
+    "source_quote": "Gundren was dragged away separately",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "variants": [
+      "Gundren was missing and dragged away during the ambush."
+    ],
+    "subjects": [
+      "Gundren"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Klarg",
+    "fact": "Klarg appeared and engaged the party in the main cavern.",
+    "source_quote": "Klarg the bugbear appeared and engaged the party",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "variants": [
+      "Klarg appeared and engaged the party in the main cavern."
+    ],
+    "subjects": [
+      "Klarg"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Klarg",
+    "fact": "Klarg had 5 HP remaining when struck by the killing blow.",
+    "source_quote": "(Klarg had 5 HP remaining)",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "Klarg had 5 HP remaining when struck by the killing blow."
+    ],
+    "subjects": [
+      "Klarg"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Klarg",
+    "fact": "Klarg had 5 hit points remaining when he was killed.",
+    "source_quote": "Klarg had 5 HP remaining",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "variants": [
+      "Klarg had 5 hit points remaining when he was killed."
+    ],
+    "subjects": [
+      "Klarg"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Klarg",
+    "fact": "Klarg is the bugbear leader of the goblins who was defeated.",
+    "source_quote": "and the bugbear leader Klarg",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small",
+      "sweep"
+    ],
+    "variants": [
+      "Klarg is the bugbear leader of the goblins who was defeated.",
+      "Klarg is a bugbear and the leader of the goblins.",
+      "Klarg is the bugbear leader of the goblins."
+    ],
+    "subjects": [
+      "Klarg"
+    ],
+    "n_samples": 3
+  },
+  {
+    "type": "npc",
+    "subject": "Klarg",
+    "fact": "Klarg was defeated by the party.",
+    "source_quote": "defeating multiple goblins, wolves, and the bugbear leader Klarg",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "Klarg was defeated by the party."
+    ],
+    "subjects": [
+      "Klarg"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "mysterious goblin",
+    "fact": "A mysterious goblin with an elongated head was mentioned by Sildar.",
+    "source_quote": "A mysterious goblin with an elongated head was mentioned by Sildar",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "A mysterious goblin with an elongated head was mentioned by Sildar."
+    ],
+    "subjects": [
+      "mysterious goblin"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Nikhil",
+    "fact": "Nikhil is the player controlling the character Zenvon.",
+    "source_quote": "with Nikhil as the player controlling the character Zenvon",
+    "quote_verified": true,
+    "passes": [
+      "small",
+      "sweep"
+    ],
+    "variants": [
+      "Nikhil is the player controlling the character Zenvon."
+    ],
+    "subjects": [
+      "Nikhil"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "npc",
+    "subject": "Nikhil",
+    "fact": "Nikhil played the character Zenvon.",
+    "source_quote": "with Nikhil as the player controlling the character Zenvon",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "variants": [
+      "Nikhil played the character Zenvon."
+    ],
+    "subjects": [
+      "Nikhil"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Pip",
+    "fact": "Pip is a member of the party.",
+    "source_quote": "including Pip",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "Pip is a member of the party."
+    ],
+    "subjects": [
+      "Pip"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Pip",
+    "fact": "Pip took significant damage.",
+    "source_quote": "Pip and Sister Maela took significant damage",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "Pip took significant damage."
+    ],
+    "subjects": [
+      "Pip"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Pip",
+    "fact": "Pip was a party member for whom initiative was rolled.",
+    "source_quote": "including Pip, Sister Maela, and Veyra",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "Pip was a party member for whom initiative was rolled."
+    ],
+    "subjects": [
+      "Pip"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Pip",
+    "fact": "Pip was present during the cave entrance combat.",
+    "source_quote": "including Pip, Sister Maela, and Veyra",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "variants": [
+      "Pip was present during the cave entrance combat."
+    ],
+    "subjects": [
+      "Pip"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Ruth",
+    "fact": "Ruth is a mysterious figure mentioned by Sildar.",
+    "source_quote": "You're not what Ruxithid wants",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "Ruth is a mysterious figure mentioned by Sildar."
+    ],
+    "subjects": [
+      "Ruth"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Ruxithid",
+    "fact": "Ruxithid is a figure referenced in the phrase whispered by the goblin.",
+    "source_quote": "\"You're not what Ruxithid wants.\"",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "Ruxithid is a figure referenced in the phrase whispered by the goblin."
+    ],
+    "subjects": [
+      "Ruxithid"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Sildar",
+    "fact": "Sildar agreed to wait at the camp.",
+    "source_quote": "Agreed to wait at the camp",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "variants": [
+      "Sildar agreed to wait at the camp."
+    ],
+    "subjects": [
+      "Sildar"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Sildar",
+    "fact": "Sildar declined Zenvon's offer to join the party, citing his injuries and other missions.",
+    "source_quote": "Sildar declined, citing injuries and other missions",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "variants": [
+      "Sildar declined Zenvon's offer to join the party, citing his injuries and other missions."
+    ],
+    "subjects": [
+      "Sildar"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Sildar",
+    "fact": "Sildar declined to join the party due to injuries and other missions.",
+    "source_quote": "Sildar declined, citing injuries and other missions",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small"
+    ],
+    "variants": [
+      "Sildar declined to join the party due to injuries and other missions."
+    ],
+    "subjects": [
+      "Sildar"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "npc",
+    "subject": "Sildar",
+    "fact": "Sildar identified himself as a member of the Lord's Alliance.",
+    "source_quote": "Identified himself as a member of the Lord's Alliance",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "variants": [
+      "Sildar identified himself as a member of the Lord's Alliance."
+    ],
+    "subjects": [
+      "Sildar"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Sildar",
+    "fact": "Sildar is a member of the Lord's Alliance.",
+    "source_quote": "Identified himself as a member of the Lord's Alliance",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "Sildar is a member of the Lord's Alliance."
+    ],
+    "subjects": [
+      "Sildar"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Sildar",
+    "fact": "Sildar mentioned a strange goblin with an elongated head was present during the ambush.",
+    "source_quote": "Mentioned a strange goblin with an elongated head who was present during the ambush",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "variants": [
+      "Sildar mentioned a strange goblin with an elongated head was present during the ambush."
+    ],
+    "subjects": [
+      "Sildar"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Sildar",
+    "fact": "Sildar mentioned a strange goblin with an elongated head who was present during the ambush on the Triboar Trail.",
+    "source_quote": "Mentioned a strange goblin with an elongated head who was present during the ambush on the Triboar Trail",
+    "quote_verified": true,
+    "passes": [
+      "interiority",
+      "small"
+    ],
+    "variants": [
+      "Sildar mentioned a strange goblin with an elongated head who was present during the ambush on the Triboar Trail.",
+      "Sildar mentioned a strange goblin with an elongated head present during the ambush on the Triboar Trail."
+    ],
+    "subjects": [
+      "Sildar"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "npc",
+    "subject": "Sildar",
+    "fact": "Sildar offered 50 gold pieces for an escort to Neverwinter or Phandalin.",
+    "source_quote": "offered to pay 50 gold pieces for an escort to Neverwinter/Phandalin",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small"
+    ],
+    "variants": [
+      "Sildar offered 50 gold pieces for an escort to Neverwinter or Phandalin."
+    ],
+    "subjects": [
+      "Sildar"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "npc",
+    "subject": "Sildar",
+    "fact": "Sildar offered 50 gold pieces to be escorted to Neverwinter or Phandalin.",
+    "source_quote": "Offered 50 gold pieces to be escorted to Neverwinter or Phandalin",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "Sildar offered 50 gold pieces to be escorted to Neverwinter or Phandalin."
+    ],
+    "subjects": [
+      "Sildar"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Sildar",
+    "fact": "Sildar offered to wait at the camp and pay 50 gold pieces for an escort to Neverwinter or Phandalin.",
+    "source_quote": "Agreed to wait at the camp and offered to pay 50 gold pieces for an escort to Neverwinter/Phandalin",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "variants": [
+      "Sildar offered to wait at the camp and pay 50 gold pieces for an escort to Neverwinter or Phandalin."
+    ],
+    "subjects": [
+      "Sildar"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Sildar",
+    "fact": "Sildar overheard the name Black Spider among the goblins.",
+    "source_quote": "the name 'Black Spider' was overheard among the goblins",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "variants": [
+      "Sildar overheard the name Black Spider among the goblins."
+    ],
+    "subjects": [
+      "Sildar"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Sildar",
+    "fact": "Sildar reported that Gundren was dragged away separately from the ambush.",
+    "source_quote": "Gundren was dragged away separately",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "variants": [
+      "Sildar reported that Gundren was dragged away separately from the ambush."
+    ],
+    "subjects": [
+      "Sildar"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Sildar",
+    "fact": "Sildar revealed the party was ambushed on the Triboar Trail.",
+    "source_quote": "Revealed the party was ambushed on the Triboar Trail",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "variants": [
+      "Sildar revealed the party was ambushed on the Triboar Trail."
+    ],
+    "subjects": [
+      "Sildar"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Sildar",
+    "fact": "Sildar stated that someone tipped off the goblins about the ambush.",
+    "source_quote": "someone tipped off the goblins — it was not a random robbery",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "variants": [
+      "Sildar stated that someone tipped off the goblins about the ambush."
+    ],
+    "subjects": [
+      "Sildar"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Sildar",
+    "fact": "Sildar stressed the importance of capturing or eliminating Klarg before he could send word ahead.",
+    "source_quote": "stressed the importance of capturing or eliminating Klarg before he could send word ahead",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "variants": [
+      "Sildar stressed the importance of capturing or eliminating Klarg before he could send word ahead."
+    ],
+    "subjects": [
+      "Sildar"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Sildar",
+    "fact": "Sildar stressed the importance of capturing or eliminating Klarg.",
+    "source_quote": "stressed the importance of capturing or eliminating Klarg",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "variants": [
+      "Sildar stressed the importance of capturing or eliminating Klarg."
+    ],
+    "subjects": [
+      "Sildar"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Sildar",
+    "fact": "Sildar was rescued and reunited with the party.",
+    "source_quote": "Key NPCs Sildar and the party were reunited",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small",
+      "sweep"
+    ],
+    "variants": [
+      "Sildar was rescued and reunited with the party.",
+      "Sildar was rescued by the party."
+    ],
+    "subjects": [
+      "Sildar"
+    ],
+    "n_samples": 3
+  },
+  {
+    "type": "npc",
+    "subject": "Sildar",
+    "fact": "Sildar was unable to interpret the phrase 'You're not what Ruxithid wants' whispered by the goblin.",
+    "source_quote": "a phrase neither Sildar nor the party could interpret",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "variants": [
+      "Sildar was unable to interpret the phrase 'You're not what Ruxithid wants' whispered by the goblin."
+    ],
+    "subjects": [
+      "Sildar"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Sildar",
+    "fact": "Sildar whispered the phrase 'You're not what Ruxithid wants' regarding the elongated-headed goblin.",
+    "source_quote": "whispered an unknown phrase: 'You're not what Ruxithid wants.'",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "variants": [
+      "Sildar whispered the phrase 'You're not what Ruxithid wants' regarding the elongated-headed goblin."
+    ],
+    "subjects": [
+      "Sildar"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Sister Maela",
+    "fact": "Sister Maela cast Cure Wounds on Zenvon.",
+    "source_quote": "Sister Maela cast Cure Wounds",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "Sister Maela cast Cure Wounds on Zenvon."
+    ],
+    "subjects": [
+      "Sister Maela"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Sister Maela",
+    "fact": "Sister Maela cast Cure Wounds to heal Zenvon to full health.",
+    "source_quote": "Sister Maela cast Cure Wounds, healing Zenvon to full (16 HP including temp HP)",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "variants": [
+      "Sister Maela cast Cure Wounds to heal Zenvon to full health."
+    ],
+    "subjects": [
+      "Sister Maela"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Sister Maela",
+    "fact": "Sister Maela is a member of the party.",
+    "source_quote": "including Pip, Sister Maela, and Veyra",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "Sister Maela is a member of the party."
+    ],
+    "subjects": [
+      "Sister Maela"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Sister Maela",
+    "fact": "Sister Maela provided light to the party.",
+    "source_quote": "until Sister Maela provided light",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "variants": [
+      "Sister Maela provided light to the party."
+    ],
+    "subjects": [
+      "Sister Maela"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Sister Maela",
+    "fact": "Sister Maela successfully used animal handling to subdue the remaining wolves rather than killing them.",
+    "source_quote": "successfully used animal handling to subdue the remaining wolves rather than killing them",
+    "quote_verified": true,
+    "passes": [
+      "interiority",
+      "large",
+      "small"
+    ],
+    "variants": [
+      "Sister Maela successfully used animal handling to subdue the remaining wolves rather than killing them.",
+      "Sister Maela successfully used animal handling to subdue the remaining wolves.",
+      "Sister Maela used animal handling to subdue the remaining wolves.",
+      "Sister Maela subdued the wolves rather than killing them."
+    ],
+    "subjects": [
+      "Sister Maela"
+    ],
+    "n_samples": 3
+  },
+  {
+    "type": "npc",
+    "subject": "Sister Maela",
+    "fact": "Sister Maela took significant damage.",
+    "source_quote": "Pip and Sister Maela took significant damage",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "Sister Maela took significant damage."
+    ],
+    "subjects": [
+      "Sister Maela"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Sister Maela",
+    "fact": "Sister Maela was a party member who cast Cure Wounds.",
+    "source_quote": "Sister Maela cast Cure Wounds",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "Sister Maela was a party member who cast Cure Wounds."
+    ],
+    "subjects": [
+      "Sister Maela"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Sister Maela",
+    "fact": "Sister Maela was present during the cave entrance combat.",
+    "source_quote": "including Pip, Sister Maela, and Veyra",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "variants": [
+      "Sister Maela was present during the cave entrance combat."
+    ],
+    "subjects": [
+      "Sister Maela"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "strange goblin",
+    "fact": "The strange goblin whispered, \"You're not what Ruxithid wants.\"",
+    "source_quote": "The goblin whispered, \"You're not what Ruxithid wants\"",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "The strange goblin whispered, \"You're not what Ruxithid wants.\""
+    ],
+    "subjects": [
+      "strange goblin"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Veyra",
+    "fact": "Veyra failed her dexterity saving throw against the flood.",
+    "source_quote": "Veyra failed her dexterity saving throw",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "Veyra failed her dexterity saving throw against the flood."
+    ],
+    "subjects": [
+      "Veyra"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Veyra",
+    "fact": "Veyra is a member of the party.",
+    "source_quote": "including Pip, Sister Maela, and Veyra",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "Veyra is a member of the party."
+    ],
+    "subjects": [
+      "Veyra"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Veyra",
+    "fact": "Veyra killed a fleeing goblin with a critical firebolt before it could escape and alert others.",
+    "source_quote": "killed a fleeing goblin with a critical firebolt (7 points of damage) before it could escape and alert others",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "variants": [
+      "Veyra killed a fleeing goblin with a critical firebolt before it could escape and alert others."
+    ],
+    "subjects": [
+      "Veyra"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Veyra",
+    "fact": "Veyra killed a fleeing goblin with a critical firebolt for 7 points of damage.",
+    "source_quote": "killed a fleeing goblin with a critical firebolt (7 points of damage)",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small"
+    ],
+    "variants": [
+      "Veyra killed a fleeing goblin with a critical firebolt for 7 points of damage."
+    ],
+    "subjects": [
+      "Veyra"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "npc",
+    "subject": "Veyra",
+    "fact": "Veyra prevented the goblin from escaping and alerting others.",
+    "source_quote": "before it could escape and alert others",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "Veyra prevented the goblin from escaping and alerting others."
+    ],
+    "subjects": [
+      "Veyra"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Veyra",
+    "fact": "Veyra used Magic Missile to deal 15 points of damage to Klarg.",
+    "source_quote": "Used Magic Missile for 15 points of damage on Klarg",
+    "quote_verified": true,
+    "passes": [
+      "interiority",
+      "large",
+      "small"
+    ],
+    "variants": [
+      "Veyra used Magic Missile to deal 15 points of damage to Klarg.",
+      "Veyra used Magic Missile to deal 15 points of damage on Klarg.",
+      "Veyra used Magic Missile for 15 points of damage on Klarg."
+    ],
+    "subjects": [
+      "Veyra"
+    ],
+    "n_samples": 3
+  },
+  {
+    "type": "npc",
+    "subject": "Veyra",
+    "fact": "Veyra was a party member who failed a dexterity saving throw against a flood.",
+    "source_quote": "Veyra failed her dexterity saving throw and was caught in the flood",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "Veyra was a party member who failed a dexterity saving throw against a flood."
+    ],
+    "subjects": [
+      "Veyra"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Veyra",
+    "fact": "Veyra was caught in a flood triggered by goblins releasing a dam.",
+    "source_quote": "Veyra failed her dexterity saving throw and was caught in the flood",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "variants": [
+      "Veyra was caught in a flood triggered by goblins releasing a dam."
+    ],
+    "subjects": [
+      "Veyra"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Veyra",
+    "fact": "Veyra was caught in the flood.",
+    "source_quote": "was caught in the flood",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "Veyra was caught in the flood."
+    ],
+    "subjects": [
+      "Veyra"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zenvon",
+    "fact": "Zenvon attempted to distract wolves by throwing food.",
+    "source_quote": "Attempted to distract wolves by throwing food",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "variants": [
+      "Zenvon attempted to distract wolves by throwing food."
+    ],
+    "subjects": [
+      "Zenvon"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zenvon",
+    "fact": "Zenvon attempted to persuade Sildar to join the party.",
+    "source_quote": "Attempted to persuade Sildar to join the party",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "variants": [
+      "Zenvon attempted to persuade Sildar to join the party."
+    ],
+    "subjects": [
+      "Zenvon"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zenvon",
+    "fact": "Zenvon dropped to near 1 hit point.",
+    "source_quote": "Dropped to near 1 hit point",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "Zenvon dropped to near 1 hit point."
+    ],
+    "subjects": [
+      "Zenvon"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zenvon",
+    "fact": "Zenvon grabbed Veyra before she was swept away.",
+    "source_quote": "Rolled a 19 on sleight of hand to grab Veyra before she was swept away",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small"
+    ],
+    "variants": [
+      "Zenvon grabbed Veyra before she was swept away."
+    ],
+    "subjects": [
+      "Zenvon",
+      "Veyra"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "npc",
+    "subject": "Zenvon",
+    "fact": "Zenvon is a rogue controlled by Nikhil.",
+    "source_quote": "controlling the character Zenvon (a rogue)",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "Zenvon is a rogue controlled by Nikhil."
+    ],
+    "subjects": [
+      "Zenvon"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zenvon",
+    "fact": "Zenvon is a rogue.",
+    "source_quote": "the character Zenvon (a rogue)",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small"
+    ],
+    "variants": [
+      "Zenvon is a rogue."
+    ],
+    "subjects": [
+      "Zenvon"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "npc",
+    "subject": "Zenvon",
+    "fact": "Zenvon landed the killing blow on Klarg.",
+    "source_quote": "Landed the killing blow on Klarg",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "Zenvon landed the killing blow on Klarg."
+    ],
+    "subjects": [
+      "Zenvon"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zenvon",
+    "fact": "Zenvon lured a goblin closer for a surprise attack.",
+    "source_quote": "luring one goblin closer for a surprise attack",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "Zenvon lured a goblin closer for a surprise attack."
+    ],
+    "subjects": [
+      "Zenvon"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zenvon",
+    "fact": "Zenvon rolled a 19 on sleight of hand to grab Veyra before she was swept away.",
+    "source_quote": "Rolled a 19 on sleight of hand to grab Veyra before she was swept away",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "variants": [
+      "Zenvon rolled a 19 on sleight of hand to grab Veyra before she was swept away."
+    ],
+    "subjects": [
+      "Zenvon"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zenvon",
+    "fact": "Zenvon rolled a 19 on sleight of hand.",
+    "source_quote": "Rolled a 19 on sleight of hand",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "Zenvon rolled a 19 on sleight of hand."
+    ],
+    "subjects": [
+      "Zenvon"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zenvon",
+    "fact": "Zenvon rolled a natural 20 on stealth after killing a goblin, allowing the kill to go unnoticed.",
+    "source_quote": "Rolled a natural 20 on stealth after killing a goblin, allowing the kill to go unnoticed",
+    "quote_verified": true,
+    "passes": [
+      "interiority",
+      "small"
+    ],
+    "variants": [
+      "Zenvon rolled a natural 20 on stealth after killing a goblin, allowing the kill to go unnoticed.",
+      "Zenvon rolled a natural 20 on stealth after killing a goblin."
+    ],
+    "subjects": [
+      "Zenvon"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "npc",
+    "subject": "Zenvon",
+    "fact": "Zenvon used Nick scimitar and dagger combo to deal 8 points of damage to Klarg.",
+    "source_quote": "Landed the killing blow on Klarg using Nick scimitar + dagger combo for 8 points of damage",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small"
+    ],
+    "variants": [
+      "Zenvon used Nick scimitar and dagger combo to deal 8 points of damage to Klarg.",
+      "Zenvon landed the killing blow on Klarg using a Nick scimitar and dagger combo."
+    ],
+    "subjects": [
+      "Zenvon",
+      "Klarg"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "npc",
+    "subject": "Zenvon",
+    "fact": "Zenvon used deception to imitate a goblin voice, luring one goblin closer for a surprise attack.",
+    "source_quote": "Used deception (rolled 15) to imitate a goblin voice, luring one goblin closer for a surprise attack",
+    "quote_verified": true,
+    "passes": [
+      "interiority",
+      "small"
+    ],
+    "variants": [
+      "Zenvon used deception to imitate a goblin voice, luring one goblin closer for a surprise attack.",
+      "Zenvon used deception with a roll of 15 to imitate a goblin voice."
+    ],
+    "subjects": [
+      "Zenvon"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "npc",
+    "subject": "Zenvon",
+    "fact": "Zenvon was healed to full health with 16 HP including temporary HP.",
+    "source_quote": "healing Zenvon to full (16 HP including temp HP)",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "Zenvon was healed to full health with 16 HP including temporary HP."
+    ],
+    "subjects": [
+      "Zenvon"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zenvon",
+    "fact": "Zenvon was repeatedly brought close to 0 HP due to wolf attacks and the absence of consistent healing.",
+    "source_quote": "Zenvon was repeatedly brought close to 0 HP due to wolf attacks and the absence of consistent healing",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "variants": [
+      "Zenvon was repeatedly brought close to 0 HP due to wolf attacks and the absence of consistent healing."
+    ],
+    "subjects": [
+      "Zenvon"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zenvon",
+    "fact": "Zenvon's stealth roll allowed the kill to go unnoticed.",
+    "source_quote": "allowing the kill to go unnoticed",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "Zenvon's stealth roll allowed the kill to go unnoticed."
+    ],
+    "subjects": [
+      "Zenvon"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "1,700 copper pieces",
+    "fact": "The party found 1,700 copper pieces in Klarg's cave.",
+    "source_quote": "found 1,700 copper pieces",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "The party found 1,700 copper pieces in Klarg's cave."
+    ],
+    "subjects": [
+      "1,700 copper pieces"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Blue Lion Sacks",
+    "fact": "Sacks and crates marked with a blue lion were found in the cave.",
+    "source_quote": "sacks and crates marked with a blue lion",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "variants": [
+      "Sacks and crates marked with a blue lion were found in the cave."
+    ],
+    "subjects": [
+      "Blue Lion Sacks"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "copper pieces",
+    "fact": "The party collected copper pieces as loot.",
+    "source_quote": "copper pieces, a jade statuette",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small",
+      "sweep"
+    ],
+    "variants": [
+      "The party collected copper pieces as loot."
+    ],
+    "subjects": [
+      "copper pieces",
+      "Copper Pieces"
+    ],
+    "n_samples": 3
+  },
+  {
+    "type": "object",
+    "subject": "copper pieces",
+    "fact": "The party found 1,700 copper pieces.",
+    "source_quote": "found 1,700 copper pieces",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "The party found 1,700 copper pieces."
+    ],
+    "subjects": [
+      "copper pieces"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "dagger",
+    "fact": "Zenvon used a dagger in combat.",
+    "source_quote": "dual-weapon fighting (scimitar and dagger)",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "Zenvon used a dagger in combat."
+    ],
+    "subjects": [
+      "dagger"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "food",
+    "fact": "Zenvon threw food to distract the wolves.",
+    "source_quote": "throwing food",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "Zenvon threw food to distract the wolves."
+    ],
+    "subjects": [
+      "food"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "healing potions",
+    "fact": "The party collected healing potions as loot.",
+    "source_quote": "The party collected loot including healing potions",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small",
+      "sweep"
+    ],
+    "variants": [
+      "The party collected healing potions as loot."
+    ],
+    "subjects": [
+      "healing potions",
+      "Healing Potions"
+    ],
+    "n_samples": 3
+  },
+  {
+    "type": "object",
+    "subject": "jade statuette",
+    "fact": "The party collected a jade statuette as loot.",
+    "source_quote": "a jade statuette, and merchant provisions",
+    "quote_verified": true,
+    "passes": [
+      "small",
+      "sweep"
+    ],
+    "variants": [
+      "The party collected a jade statuette as loot."
+    ],
+    "subjects": [
+      "jade statuette"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "object",
+    "subject": "jade statuette",
+    "fact": "The party found a jade statuette of a frog with tiny golden eyes.",
+    "source_quote": "a jade statuette of a frog with tiny golden eyes",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small",
+      "sweep"
+    ],
+    "variants": [
+      "The party found a jade statuette of a frog with tiny golden eyes."
+    ],
+    "subjects": [
+      "jade statuette",
+      "Jade Statuette",
+      "jade statuette of a frog"
+    ],
+    "n_samples": 3
+  },
+  {
+    "type": "object",
+    "subject": "Lionshield Coster reward value",
+    "fact": "The reward for escorting Sildar to Neverwinter or Phandalin is 50 gold pieces.",
+    "source_quote": "collect the 50 gold piece reward",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "variants": [
+      "The reward for escorting Sildar to Neverwinter or Phandalin is 50 gold pieces."
+    ],
+    "subjects": [
+      "Lionshield Coster reward value"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "loot copper pieces",
+    "fact": "The party found 1,700 copper pieces in the cave.",
+    "source_quote": "The party found 1,700 copper pieces",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "variants": [
+      "The party found 1,700 copper pieces in the cave."
+    ],
+    "subjects": [
+      "loot copper pieces"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "loot healing potions",
+    "fact": "The party found two potions of healing in the cave.",
+    "source_quote": "two potions of healing",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "variants": [
+      "The party found two potions of healing in the cave."
+    ],
+    "subjects": [
+      "loot healing potions"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "merchant provisions",
+    "fact": "The merchant provisions could potentially be returned to the Lionshield Coster for a reward.",
+    "source_quote": "the merchant provisions could potentially be returned to the Lionshield Coster for a reward",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "The merchant provisions could potentially be returned to the Lionshield Coster for a reward."
+    ],
+    "subjects": [
+      "merchant provisions"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "merchant provisions",
+    "fact": "The party collected merchant provisions as loot.",
+    "source_quote": "and merchant provisions",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small",
+      "sweep"
+    ],
+    "variants": [
+      "The party collected merchant provisions as loot."
+    ],
+    "subjects": [
+      "merchant provisions",
+      "Merchant Provisions"
+    ],
+    "n_samples": 3
+  },
+  {
+    "type": "object",
+    "subject": "Nick Scimitar",
+    "fact": "Zenvon used a Nick scimitar to deal damage to Klarg.",
+    "source_quote": "using Nick scimitar + dagger combo",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "variants": [
+      "Zenvon used a Nick scimitar to deal damage to Klarg."
+    ],
+    "subjects": [
+      "Nick Scimitar"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "potions of healing",
+    "fact": "The party found two potions of healing.",
+    "source_quote": "two potions of healing",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "The party found two potions of healing."
+    ],
+    "subjects": [
+      "potions of healing"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "sacks and crates",
+    "fact": "Sacks and crates were marked with a blue lion.",
+    "source_quote": "sacks and crates marked with a blue lion",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "Sacks and crates were marked with a blue lion."
+    ],
+    "subjects": [
+      "sacks and crates"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "scimitar",
+    "fact": "Zenvon used a scimitar as part of his dual-weapon fighting.",
+    "source_quote": "dual-weapon fighting (scimitar and dagger)",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small",
+      "sweep"
+    ],
+    "variants": [
+      "Zenvon used a scimitar as part of his dual-weapon fighting.",
+      "Zenvon used a dagger as part of his dual-weapon fighting.",
+      "Zenvon used a dagger in dual-weapon fighting.",
+      "Zenvon used a scimitar in combat."
+    ],
+    "subjects": [
+      "scimitar",
+      "dagger",
+      "Dagger"
+    ],
+    "n_samples": 3
+  },
+  {
+    "type": "object",
+    "subject": "two potions of healing",
+    "fact": "The party found two potions of healing in Klarg's cave.",
+    "source_quote": "two potions of healing",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "The party found two potions of healing in Klarg's cave."
+    ],
+    "subjects": [
+      "two potions of healing"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Black Spider",
+    "fact": "The identity and location of the Black Spider are unknown.",
+    "source_quote": "the name \"Black Spider\" was overheard among the goblins",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "The identity and location of the Black Spider are unknown."
+    ],
+    "subjects": [
+      "Black Spider"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Black Spider",
+    "fact": "The identity and motives of the Black Spider remain unknown.",
+    "source_quote": "The identity and motives of the Black Spider remain unknown",
+    "quote_verified": true,
+    "passes": [
+      "interiority",
+      "large",
+      "small"
+    ],
+    "variants": [
+      "The identity and motives of the Black Spider remain unknown."
+    ],
+    "subjects": [
+      "Black Spider",
+      "The Black Spider"
+    ],
+    "n_samples": 3
+  },
+  {
+    "type": "thread",
+    "subject": "goblin phrase",
+    "fact": "Neither Sildar nor the party could interpret the phrase \"You're not what Ruxithid wants.\"",
+    "source_quote": "a phrase neither Sildar nor the party could interpret",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "Neither Sildar nor the party could interpret the phrase \"You're not what Ruxithid wants.\""
+    ],
+    "subjects": [
+      "goblin phrase"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "goblin phrase meaning",
+    "fact": "The meaning of the phrase \"You're not what Ruxithid wants\" remains unexplained.",
+    "source_quote": "The identity of the elongated-headed goblin and the phrase \"You're not what Ruxithid wants\" remain unexplained",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small"
+    ],
+    "variants": [
+      "The meaning of the phrase \"You're not what Ruxithid wants\" remains unexplained.",
+      "The meaning of the phrase \"You're not what Ruxithid wants\" is unknown.",
+      "The meaning of the phrase 'You're not what Ruxithid wants' is unknown."
+    ],
+    "subjects": [
+      "goblin phrase meaning",
+      "Ruth's wants",
+      "Ruxithid wants"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "thread",
+    "subject": "Gundren's location",
+    "fact": "Gundren's whereabouts are unknown.",
+    "source_quote": "gather information on Gundren's whereabouts",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "Gundren's whereabouts are unknown."
+    ],
+    "subjects": [
+      "Gundren's location"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Gundren's location",
+    "fact": "The party still does not know where Gundren was taken after the ambush.",
+    "source_quote": "The party still does not know where Gundren was taken after the ambush",
+    "quote_verified": true,
+    "passes": [
+      "interiority",
+      "large",
+      "small"
+    ],
+    "variants": [
+      "The party still does not know where Gundren was taken after the ambush.",
+      "The party does not know where Gundren was taken."
+    ],
+    "subjects": [
+      "Gundren's location",
+      "Gundren"
+    ],
+    "n_samples": 3
+  },
+  {
+    "type": "thread",
+    "subject": "mysterious goblin",
+    "fact": "A mysterious goblin with an elongated head was mentioned.",
+    "source_quote": "A mysterious goblin with an elongated head was mentioned",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "A mysterious goblin with an elongated head was mentioned."
+    ],
+    "subjects": [
+      "mysterious goblin"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "The Elongated Goblin",
+    "fact": "The identity of the elongated-headed goblin remains an unresolved mystery.",
+    "source_quote": "The identity of the elongated-headed goblin and the phrase 'You're not what Ruxithid wants' remain unexplained",
+    "quote_verified": false,
+    "passes": [
+      "interiority",
+      "large",
+      "small"
+    ],
+    "variants": [
+      "The identity of the elongated-headed goblin remains an unresolved mystery.",
+      "The identity of the elongated-headed goblin remains unexplained."
+    ],
+    "subjects": [
+      "The Elongated Goblin",
+      "elongated-headed goblin",
+      "Elongated-headed goblin"
+    ],
+    "n_samples": 3
+  }
+]

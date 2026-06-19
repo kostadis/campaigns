@@ -1,0 +1,21 @@
+passes:
+  - name: small
+    agent: extract_facts
+    chunk_size: 4000
+    annotate_pov: false
+  - name: large
+    agent: extract_facts
+    chunk_size: 8000
+    annotate_pov: false
+  - name: sweep
+    agent: extract_facts_sweep
+    chunk_size: 8000
+    annotate_pov: false
+  - name: temporal
+    agent: extract_facts_temporal
+    chunk_size: 8000
+    annotate_pov: false
+  - name: interiority
+    agent: extract_facts_interiority
+    chunk_size: 8000
+    annotate_pov: false

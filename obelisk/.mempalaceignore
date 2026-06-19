@@ -1,0 +1,30 @@
+# Published module — use 5etools MCP instead
+docs/background/obelisk.md
+
+# Session summaries — raw data, not canon yet
+summaries/
+
+# Pipeline rendering inputs
+voice/
+examples/
+
+# Operational
+logs/
+
+# Working/staging area (not canon yet)
+notes/
+
+# Empty directories
+docs/party/
+
+# Tooling & config
+config.yaml
+ui_config.yaml
+refs.yaml
+refs.local.yaml
+entities.json
+.mcp.json
+
+# System files
+desktop.ini
+*.Zone.Identifier

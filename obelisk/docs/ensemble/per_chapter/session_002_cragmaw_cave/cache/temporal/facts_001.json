@@ -1,0 +1,219 @@
+[
+  {
+    "type": "location",
+    "subject": "darkvision range",
+    "fact": "Veyra and Sister Maela have darkvision extending 60 feet.",
+    "source_quote": "darkvision (60 feet)",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "stealth check results",
+    "fact": "Zenvon rolled a 15 and Sister Maela rolled a 9 on the group stealth check.",
+    "source_quote": "Zenvon rolled 15, Sister Maela rolled 9",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "wolf perception",
+    "fact": "The wolves had a perception score of 13.",
+    "source_quote": "wolves had a perception of 13",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "wolf count",
+    "fact": "Three wolves were present in the cave.",
+    "source_quote": "bypass the three wolves",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "snake stealth roll",
+    "fact": "Zenvon rolled a 25 on the stealth check to slip past the snake.",
+    "source_quote": "Zenvon rolled 25",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "initiative order",
+    "fact": "Nikhil Reddy rolled an initiative of 21, going first.",
+    "source_quote": "Rolled initiative of 21, going first",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "firebolt damage",
+    "fact": "Veyra's Firebolt spell hit for 10 points of damage.",
+    "source_quote": "hit for 10 points of damage",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "snake death turn",
+    "fact": "The snake was killed on the second turn of combat.",
+    "source_quote": "On the second turn",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "disadvantage rolls",
+    "fact": "Nikhil Reddy rolled a 23 and a 12, taking the lower result due to disadvantage.",
+    "source_quote": "rolled 23 and 12, taking the lower",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "goblin count spotted",
+    "fact": "Three goblins were spotted initially.",
+    "source_quote": "Three goblins were spotted",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "goblin boss initiative",
+    "fact": "Zenvon rolled an initiative of 7 for the goblin encounter.",
+    "source_quote": "Zenvon rolled initiative of 7",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "goblin count total",
+    "fact": "A fourth goblin shouted, indicating a total of four goblins were involved.",
+    "source_quote": "A fourth goblin shouted",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "short rest recovery",
+    "fact": "Zenvon recovered to 9 hit points after the short rest.",
+    "source_quote": "Zenvon recovered to 9 hit points",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "pip damage sequence",
+    "fact": "Pip took damage in three instances totaling 14 points (6, 3, and 5).",
+    "source_quote": "6 + 3 + 5 points at various stages",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "maela healing",
+    "fact": "Sister Maela healed Pip for 6 hit points using Cure Wounds.",
+    "source_quote": "heal Pip for 6 hit points",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "magic missile target",
+    "fact": "Veyra's Magic Missile killed one goblin and reduced another to 2 hit points.",
+    "source_quote": "killing one goblin and reducing another to 2 hit points",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "critical hit damage",
+    "fact": "Pip scored a critical hit on Yimek for 8 points of damage.",
+    "source_quote": "critical hit (natural 20) on Yimek for 8 points of damage",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "first goblin kill damage",
+    "fact": "Nikhil Reddy dealt 7 damage with a short sword to kill one goblin.",
+    "source_quote": "short sword for 7 damage, killing one goblin",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "final goblin kill damage",
+    "fact": "Nikhil Reddy dealt 9 damage with a short sword to the final goblin.",
+    "source_quote": "short sword for 9 damage",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "yimek death damage",
+    "fact": "Sister Maela finished Yimek with 6 points of bludgeoning damage.",
+    "source_quote": "mace for 6 points of bludgeoning damage",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "final goblin hit points",
+    "fact": "The final goblin had 1 hit point remaining before the killing blow.",
+    "source_quote": "1 hit point remaining",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "final goblin kill damage",
+    "fact": "Nikhil Reddy dealt 9 damage to the final goblin.",
+    "source_quote": "dealing 9 damage",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "sildar hit points",
+    "fact": "Sildar Hallwinter was found alive with 1 hit point remaining.",
+    "source_quote": "badly wounded with 1 hit point",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "agate count",
+    "fact": "Yimek's body contained 3 agates.",
+    "source_quote": "3 agates",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "agate value",
+    "fact": "Each of the 3 agates is worth 10 gold pieces.",
+    "source_quote": "worth 10 gold pieces each",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "potion count",
+    "fact": "Yimek's body contained 1 potion of healing.",
+    "source_quote": "1 potion of healing",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "hiding spot distance",
+    "fact": "The party found a clearing approximately 100 feet from the cave.",
+    "source_quote": "approximately 100 feet from the cave",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "pip survival bonus",
+    "fact": "Pip has a survival bonus of +3.",
+    "source_quote": "survival +3",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "survival check result",
+    "fact": "Pip rolled a natural 20 on the survival check.",
+    "source_quote": "rolled a natural 20",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "zenvon level",
+    "fact": "Zenvon advanced from Level 1 to Level 2.",
+    "source_quote": "advance from Level 1 to Level 2",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "zenvon hit points",
+    "fact": "Zenvon has 15 hit points at Level 2.",
+    "source_quote": "Level 2 with 15 hit points",
+    "quote_verified": true
+  }
+]
