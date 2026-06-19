@@ -7,3 +7,9 @@
 
 # Per-campaign MCP config — contains literal ANTHROPIC_API_KEY
 .mcp.json
+
+# Per-machine campaign root paths (self-declared git-ignored)
+refs.local.yaml
+
+# MemPalace index/cache directories (regenerable, not source)
+.mempalace/
