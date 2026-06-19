@@ -1,0 +1,114 @@
+[
+  {
+    "type": "npc",
+    "subject": "Klarg",
+    "fact": "Klarg is a bugbear who remains undefeated in the cave.",
+    "source_quote": "The bugbear Klarg remains undefeated in the cave",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "the cave",
+    "fact": "The cave is the location where Klarg remains undefeated.",
+    "source_quote": "The bugbear Klarg remains undefeated in the cave",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "bugbear Klarg",
+    "fact": "Klarg poses a threat to the party's safety during their rest.",
+    "source_quote": "poses a threat to the party's safety during their rest",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Veyra",
+    "fact": "Veyra is a sidekick character who has not yet been leveled up to Level 2.",
+    "source_quote": "Sidekick characters (Veyra, Sister Maela, Pip) have not yet been leveled up to Level 2",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Sister Maela",
+    "fact": "Sister Maela is a sidekick character who has not yet been leveled up to Level 2.",
+    "source_quote": "Sidekick characters (Veyra, Sister Maela, Pip) have not yet been leveled up to Level 2",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Pip",
+    "fact": "Pip is a sidekick character who has not yet been leveled up to Level 2.",
+    "source_quote": "Sidekick characters (Veyra, Sister Maela, Pip) have not yet been leveled up to Level 2",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Kostadis",
+    "fact": "Kostadis needs to complete the leveling of sidekick characters before the next session.",
+    "source_quote": "which Kostadis needs to complete before the next session",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Nikhil Reddy",
+    "fact": "Nikhil Reddy needs to be able to hear Roll20 ambient sounds.",
+    "source_quote": "so Roll20 ambient sounds are audible to Nikhil Reddy",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Zoom audio sharing",
+    "fact": "Kostadis needs to debug Zoom audio sharing.",
+    "source_quote": "Debug Zoom audio sharing",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Roll20 ambient sounds",
+    "fact": "Roll20 ambient sounds need to be audible to Nikhil Reddy.",
+    "source_quote": "Roll20 ambient sounds are audible to Nikhil Reddy",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "party inventory spreadsheet",
+    "fact": "The party inventory spreadsheet link needs to remain accessible.",
+    "source_quote": "Ensure the party inventory spreadsheet link remains accessible",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Discord channel",
+    "fact": "The party inventory spreadsheet link needs to be pinned in the Discord channel.",
+    "source_quote": "pinned in the Discord channel",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "action economy reference guide",
+    "fact": "Nikhil Reddy needs to review the pinned action economy reference guide shared in Discord.",
+    "source_quote": "Review the pinned action economy reference guide shared in Discord",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "RPGBot",
+    "fact": "Nikhil Reddy needs to familiarize himself with RPGBot for future level-up decisions.",
+    "source_quote": "Familiarize himself with RPGBot for future level-up decisions",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "dealing with the bugbear Klarg",
+    "fact": "Nikhil Reddy needs to decide on a strategy for dealing with the bugbear Klarg.",
+    "source_quote": "Decide on a strategy for dealing with the bugbear Klarg",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "next session",
+    "fact": "Several action items are due before the next session.",
+    "source_quote": "Before next session",
+    "quote_verified": true
+  }
+]

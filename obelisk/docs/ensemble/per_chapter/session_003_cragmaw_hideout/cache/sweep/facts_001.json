@@ -1,0 +1,387 @@
+[
+  {
+    "type": "npc",
+    "subject": "Kostadis",
+    "fact": "Kostadis is the Dungeon Master running the session.",
+    "source_quote": "run by Kostadis (Dungeon Master)",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Nikhil",
+    "fact": "Nikhil is the player controlling the character Zenvon.",
+    "source_quote": "with Nikhil as the player controlling the character Zenvon",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zenvon",
+    "fact": "Zenvon is a rogue controlled by Nikhil.",
+    "source_quote": "controlling the character Zenvon (a rogue)",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Cragmaw Hideout",
+    "fact": "The party successfully cleared the Cragmaw Hideout.",
+    "source_quote": "The party successfully cleared the Cragmaw Hideout",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "goblins",
+    "fact": "Multiple goblins were defeated in the Cragmaw Hideout.",
+    "source_quote": "defeating multiple goblins",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "wolves",
+    "fact": "Multiple wolves were defeated in the Cragmaw Hideout.",
+    "source_quote": "defeating multiple goblins, wolves",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Klarg",
+    "fact": "Klarg is the bugbear leader of the goblins who was defeated.",
+    "source_quote": "and the bugbear leader Klarg",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Sildar",
+    "fact": "Sildar was rescued and reunited with the party.",
+    "source_quote": "Key NPCs Sildar and the party were reunited",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Black Spider",
+    "fact": "The Black Spider is a mysterious figure about whom Sildar provided lore.",
+    "source_quote": "Sildar provided critical lore about the Black Spider",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Gundren",
+    "fact": "Gundren is a missing person whose whereabouts Sildar discussed.",
+    "source_quote": "and the missing Gundren",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "healing potions",
+    "fact": "The party collected healing potions as loot.",
+    "source_quote": "The party collected loot including healing potions",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "copper pieces",
+    "fact": "The party collected copper pieces as loot.",
+    "source_quote": "copper pieces, a jade statuette",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "jade statuette",
+    "fact": "The party collected a jade statuette as loot.",
+    "source_quote": "a jade statuette, and merchant provisions",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "merchant provisions",
+    "fact": "The party collected merchant provisions as loot.",
+    "source_quote": "and merchant provisions",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "mysterious goblin",
+    "fact": "A mysterious goblin with an elongated head was mentioned by Sildar.",
+    "source_quote": "A mysterious goblin with an elongated head was mentioned by Sildar",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "whispered phrase",
+    "fact": "The mysterious goblin whispered the phrase 'You're not what Ruxithid wants.'",
+    "source_quote": "whispered an unknown phrase: \"You're not what Ruxithid wants.\"",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "escort offer",
+    "fact": "Sildar offered 50 gold pieces to be escorted to Neverwinter or Phandalin.",
+    "source_quote": "Sildar offered 50 gold pieces to be escorted to Neverwinter/Phandalin",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Phandalin",
+    "fact": "The party concluded the session by heading back to Phandalin.",
+    "source_quote": "heading back to Phandalin for a long rest",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Neverwinter",
+    "fact": "Neverwinter was mentioned as a potential destination for Sildar.",
+    "source_quote": "escorted to Neverwinter/Phandalin",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "GM Assistant app",
+    "fact": "Kostadis used the GM Assistant app to review the previous session summary.",
+    "source_quote": "using the GM Assistant app to orient the player",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "level up",
+    "fact": "The party had gained a level in the previous session.",
+    "source_quote": "and gained a level",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "long rest mechanics",
+    "fact": "Kostadis explained the mechanics of long rest vs. short rest.",
+    "source_quote": "Explained the D&D mechanics of long rest vs. short rest",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Triboar Trail ambush",
+    "fact": "Sildar revealed the party was ambushed on the Triboar Trail.",
+    "source_quote": "Revealed the party was ambushed on the Triboar Trail",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Lord's Alliance",
+    "fact": "Sildar identified himself as a member of the Lord's Alliance.",
+    "source_quote": "Identified himself as a member of the Lord's Alliance",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "persuasion attempt",
+    "fact": "Zenvon rolled a 16 on persuasion to ask Sildar to join the party.",
+    "source_quote": "rolled a 16 on persuasion but Sildar declined",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Harpers",
+    "fact": "Kostadis described the Harpers as favoring decentralization.",
+    "source_quote": "Described the Harpers as committed to preventing any single faction from gaining full control",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Order of the Gauntlet",
+    "fact": "Kostadis described the Order of the Gauntlet as heroic and combat-focused.",
+    "source_quote": "Described the Order of the Gauntlet as heroic, combat-focused, and morality-driven",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Emerald Enclave",
+    "fact": "Kostadis described the Emerald Enclave as nature-preserving and druid-aligned.",
+    "source_quote": "Described the Emerald Enclave as nature-preserving, druid-aligned",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Zhentarim",
+    "fact": "Kostadis described the Zhentarim as a trade-controlling criminal organization.",
+    "source_quote": "Described the Zhentarim (Black Network) as a trade-controlling criminal organization",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Pip",
+    "fact": "Pip was a party member for whom initiative was rolled.",
+    "source_quote": "including Pip, Sister Maela, and Veyra",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Sister Maela",
+    "fact": "Sister Maela was a party member who cast Cure Wounds.",
+    "source_quote": "Sister Maela cast Cure Wounds",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Veyra",
+    "fact": "Veyra was a party member who failed a dexterity saving throw against a flood.",
+    "source_quote": "Veyra failed her dexterity saving throw and was caught in the flood",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "scimitar",
+    "fact": "Zenvon used a scimitar as part of his dual-weapon fighting.",
+    "source_quote": "dual-weapon fighting (scimitar and dagger)",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "dagger",
+    "fact": "Zenvon used a dagger as part of his dual-weapon fighting.",
+    "source_quote": "scimitar and dagger",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "wolf bite",
+    "fact": "A wolf bit Zenvon for 5 points of damage.",
+    "source_quote": "A wolf bit Zenvon for 5 points of damage",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "flood",
+    "fact": "A flood triggered by goblins releasing a dam swept through the cave.",
+    "source_quote": "A flood triggered by goblins releasing a dam swept through the cave",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zenvon saving Veyra",
+    "fact": "Zenvon rolled a 19 on sleight of hand to grab Veyra before she was swept away.",
+    "source_quote": "Rolled a 19 on sleight of hand to grab Veyra before she was swept away",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "deception roll",
+    "fact": "Zenvon rolled a 15 on deception to imitate a goblin voice.",
+    "source_quote": "Used deception (rolled 15) to imitate a goblin voice",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "stealth roll",
+    "fact": "Zenvon rolled a natural 20 on stealth after killing a goblin.",
+    "source_quote": "Rolled a natural 20 on stealth after killing a goblin",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Klarg",
+    "fact": "Klarg the bugbear appeared and engaged the party.",
+    "source_quote": "Klarg the bugbear appeared and engaged the party",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Magic Missile",
+    "fact": "Veyra used Magic Missile for 15 points of damage on Klarg.",
+    "source_quote": "Used Magic Missile for 15 points of damage on Klarg",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "firebolt",
+    "fact": "Veyra killed a fleeing goblin with a critical firebolt for 7 points of damage.",
+    "source_quote": "killed a fleeing goblin with a critical firebolt (7 points of damage)",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Klarg killing blow",
+    "fact": "Zenvon landed the killing blow on Klarg using Nick scimitar and dagger.",
+    "source_quote": "Landed the killing blow on Klarg using Nick scimitar + dagger combo",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "wolves",
+    "fact": "Sister Maela used animal handling to subdue the remaining wolves.",
+    "source_quote": "successfully used animal handling to subdue the remaining wolves",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Lionshield Coster",
+    "fact": "Sacks and crates were marked with the symbol of the Lionshield Coster merchant company.",
+    "source_quote": "marked with a blue lion \u2014 the symbol of the Lionshield Coster merchant company",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "1,700 copper pieces",
+    "fact": "The party found 1,700 copper pieces in Klarg's cave.",
+    "source_quote": "found 1,700 copper pieces",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "two potions of healing",
+    "fact": "The party found two potions of healing in Klarg's cave.",
+    "source_quote": "two potions of healing",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "jade statuette of a frog",
+    "fact": "The party found a jade statuette of a frog with tiny golden eyes.",
+    "source_quote": "a jade statuette of a frog with tiny golden eyes",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Ruxithid",
+    "fact": "The phrase 'Ruxithid' was part of the mysterious goblin's whisper.",
+    "source_quote": "\"You're not what Ruxithid wants.\"",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "long rest",
+    "fact": "The party headed to Phandalin for a long rest.",
+    "source_quote": "headed to Phandalin for a long rest",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "darkness disadvantage",
+    "fact": "The party lacked darkvision, creating persistent disadvantage on attack rolls.",
+    "source_quote": "The party lacked darkvision, creating persistent disadvantage on attack rolls",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Sister Maela provided light",
+    "fact": "Sister Maela provided light to counter the darkness in the cave.",
+    "source_quote": "until Sister Maela provided light",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "dual-weapon correction",
+    "fact": "Kostadis and Nikhil repeatedly forgot to apply the second attack from dual-weapon fighting.",
+    "source_quote": "repeatedly forgot to apply the second attack from dual-weapon fighting",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Claude-based goblin name generator",
+    "fact": "Kostadis is to set up the Claude-based goblin name generator for future sessions.",
+    "source_quote": "Set up the Claude-based goblin name generator for future sessions",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Ruxithid",
+    "fact": "Ruxithid is a figure referenced in the phrase whispered by the goblin.",
+    "source_quote": "\"You're not what Ruxithid wants.\"",
+    "quote_verified": true
+  }
+]

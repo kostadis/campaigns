@@ -1,0 +1,338 @@
+[
+  {
+    "type": "location",
+    "subject": "Phandalin",
+    "fact": "The party arrived in Phandalin.",
+    "source_quote": "The party arrived in Phandalin",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Stonehill Tavern",
+    "fact": "The party gathered information at the Stonehill Tavern.",
+    "source_quote": "gathered information at the Stonehill Tavern",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Red Brands",
+    "fact": "The party learned about the Red Brands gang.",
+    "source_quote": "learned about the Red Brands gang",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Glasstaff",
+    "fact": "Glasstaff is the leader of the Red Brands gang operating from Tresendar Manor.",
+    "source_quote": "their leader Glasstaff operating from Tresendar Manor",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Tresendar Manor",
+    "fact": "Glasstaff operates from Tresendar Manor.",
+    "source_quote": "operating from Tresendar Manor",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "blackstone fragments",
+    "fact": "The party received a warning about blackstone fragments tied to a powerful obelisk.",
+    "source_quote": "received a warning about blackstone fragments tied to a powerful obelisk",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Goblin Trail",
+    "fact": "The party traveled the Goblin Trail.",
+    "source_quote": "The party traveled the Goblin Trail",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "trap encounter",
+    "fact": "The party survived a hidden pit and a snare.",
+    "source_quote": "survived traps (a hidden pit and a snare)",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "goblin lookout defeat",
+    "fact": "The party defeated goblin lookouts at the cave entrance.",
+    "source_quote": "defeated goblin lookouts at the cave entrance",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zenvon",
+    "fact": "Zenvon scouted ahead and encountered a massive coiled snake before retreating.",
+    "source_quote": "Zenvon scouted ahead, encountering a massive coiled snake before retreating",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Cragmaw Cave",
+    "fact": "The adventure is set to continue into Cragmaw Cave.",
+    "source_quote": "continuing into Cragmaw Cave",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Veyra",
+    "fact": "Veyra has darkvision of 60 feet.",
+    "source_quote": "Veyra and Sister Maela have darkvision (60 feet)",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Sister Maela",
+    "fact": "Sister Maela has darkvision of 60 feet.",
+    "source_quote": "Veyra and Sister Maela have darkvision (60 feet)",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zenvon",
+    "fact": "Zenvon cannot see in the dark.",
+    "source_quote": "Zenvon and Pip cannot see in the dark",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Pip",
+    "fact": "Pip cannot see in the dark.",
+    "source_quote": "Zenvon and Pip cannot see in the dark",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "party pairing decision",
+    "fact": "Nikhil Reddy decided to pair Zenvon with Veyra and Maela with Pip.",
+    "source_quote": "Decided to pair Zenvon with Veyra and Maela with Pip",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "pairing revision",
+    "fact": "The party agreed to pair the fighter Pip with the magic user Veyra and Zenvon with the cleric Sister Maela.",
+    "source_quote": "Agreed to the revised pairing",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "group stealth check",
+    "fact": "Zenvon rolled a 15 and Sister Maela rolled a 9 on the group stealth check.",
+    "source_quote": "Zenvon rolled 15, Sister Maela rolled 9",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "wolves",
+    "fact": "The wolves had a perception of 13.",
+    "source_quote": "wolves had a perception of 13",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "stealth success",
+    "fact": "The party passed the wolves undetected.",
+    "source_quote": "the party passed undetected",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "wolf bypass decision",
+    "fact": "Nikhil Reddy decided to bypass the three wolves and proceed toward the snake.",
+    "source_quote": "Decided to bypass the three wolves and proceed toward the snake",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "snake stealth check",
+    "fact": "Zenvon rolled a 25 on the stealth check to slip past the snake.",
+    "source_quote": "Zenvon rolled 25",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "snake attack decision",
+    "fact": "The party chose to attack the snake with surprise.",
+    "source_quote": "chose to attack it with surprise",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "giant poisonous snake",
+    "fact": "The party initiated combat against the giant poisonous snake.",
+    "source_quote": "initiated combat against the giant poisonous snake",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "combat initiative",
+    "fact": "Nikhil Reddy rolled initiative of 21 and went first.",
+    "source_quote": "Rolled initiative of 21, going first",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Nikhil Reddy first attack",
+    "fact": "Nikhil Reddy fired a shortbow but missed with a roll of 10.",
+    "source_quote": "fired a shortbow but missed (rolled 10)",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Veyra Firebolt",
+    "fact": "Veyra cast Firebolt and hit the snake for 10 points of damage.",
+    "source_quote": "Veyra cast Firebolt and hit for 10 points of damage",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Pip javelin throw",
+    "fact": "Pip threw a javelin but missed due to disadvantage in darkness.",
+    "source_quote": "Pip threw a javelin but missed due to disadvantage in darkness",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Sister Maela Sacred Flame",
+    "fact": "Sister Maela attempted Sacred Flame but the snake made its saving throw.",
+    "source_quote": "Sister Maela attempted Sacred Flame but the snake made its saving throw",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Nikhil Reddy second attack",
+    "fact": "Nikhil Reddy used the shortbow with disadvantage, rolling a 12 which was a hit.",
+    "source_quote": "the 12 was still a hit",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "snake death",
+    "fact": "The second arrow killed the snake.",
+    "source_quote": "killed the snake",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "stealth roll failure",
+    "fact": "Sister Maela's stealth roll of 3 alerted a group of goblins.",
+    "source_quote": "Sister Maela's poor stealth roll (3) alerted a group of goblins",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "goblins",
+    "fact": "Three goblins were spotted initially.",
+    "source_quote": "Three goblins were spotted",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "goblins",
+    "fact": "One goblin noticed Sister Maela.",
+    "source_quote": "one noticed Sister Maela",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zenvon initiative",
+    "fact": "Zenvon rolled initiative of 7.",
+    "source_quote": "Zenvon rolled initiative of 7",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "deception attempt",
+    "fact": "Nikhil Reddy attempted a deception check claiming the party came to meet Glasstaff, but it failed.",
+    "source_quote": "the deception failed",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "goblins",
+    "fact": "A fourth goblin shouted in Goblin.",
+    "source_quote": "A fourth goblin shouted in Goblin",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Sildar Hallwinter",
+    "fact": "Sildar Hallwinter's voice was heard in the distance.",
+    "source_quote": "Sildar Hallwinter's voice was heard in the distance",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "short rest",
+    "fact": "The party took a short rest before continuing.",
+    "source_quote": "The party took a short rest before continuing",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zenvon",
+    "fact": "Zenvon recovered to 9 hit points after the short rest.",
+    "source_quote": "Zenvon recovered to 9 hit points",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Pip damage",
+    "fact": "Pip took significant damage from repeated goblin attacks totaling 6, 3, and 5 points.",
+    "source_quote": "Pip, who took significant damage (6 + 3 + 5 points at various stages)",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Pip healing",
+    "fact": "Sister Maela used Cure Wounds to heal Pip for 6 hit points.",
+    "source_quote": "Sister Maela used Cure Wounds to heal Pip for 6 hit points",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Veyra Magic Missile",
+    "fact": "Veyra used Magic Missile to kill one goblin.",
+    "source_quote": "Veyra used Magic Missile, killing one goblin",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "goblin damage",
+    "fact": "Veyra's Magic Missile reduced another goblin to 2 hit points.",
+    "source_quote": "reducing another to 2 hit points",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Yimek",
+    "fact": "Yimek is a goblin boss.",
+    "source_quote": "Goblin Boss Yimek",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Pip critical hit",
+    "fact": "Pip scored a critical hit on Yimek for 8 points of damage.",
+    "source_quote": "Pip scored a critical hit (natural 20) on Yimek for 8 points of damage",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "light source activation",
+    "fact": "Nikhil Reddy turned on a light source using his action.",
+    "source_quote": "Turned on a light source (using his action)",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "darkness disadvantage removal",
+    "fact": "Turning on the light source removed the darkness disadvantage for subsequent turns.",
+    "source_quote": "removing the darkness disadvantage for subsequent turns",
+    "quote_verified": true
+  }
+]

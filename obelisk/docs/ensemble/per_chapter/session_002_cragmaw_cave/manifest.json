@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "samples": 1,
+  "default_input": "/home/kroussos/campaigns/obelisk/docs/chapters/session_002_cragmaw_cave.md",
+  "passes": [
+    {
+      "name": "small",
+      "agent": "extract_facts",
+      "chunk_size": 4000,
+      "document": "/home/kroussos/campaigns/obelisk/docs/chapters/session_002_cragmaw_cave.md",
+      "outputs": [
+        {
+          "key": "small#1",
+          "file": "small.json",
+          "n_facts": 119
+        }
+      ]
+    },
+    {
+      "name": "large",
+      "agent": "extract_facts",
+      "chunk_size": 8000,
+      "document": "/home/kroussos/campaigns/obelisk/docs/chapters/session_002_cragmaw_cave.md",
+      "outputs": [
+        {
+          "key": "large#1",
+          "file": "large.json",
+          "n_facts": 91
+        }
+      ]
+    },
+    {
+      "name": "sweep",
+      "agent": "extract_facts_sweep",
+      "chunk_size": 8000,
+      "document": "/home/kroussos/campaigns/obelisk/docs/chapters/session_002_cragmaw_cave.md",
+      "outputs": [
+        {
+          "key": "sweep#1",
+          "file": "sweep.json",
+          "n_facts": 111
+        }
+      ]
+    },
+    {
+      "name": "temporal",
+      "agent": "extract_facts_temporal",
+      "chunk_size": 8000,
+      "document": "/home/kroussos/campaigns/obelisk/docs/chapters/session_002_cragmaw_cave.md",
+      "outputs": [
+        {
+          "key": "temporal#1",
+          "file": "temporal.json",
+          "n_facts": 31
+        }
+      ]
+    },
+    {
+      "name": "interiority",
+      "agent": "extract_facts_interiority",
+      "chunk_size": 8000,
+      "document": "/home/kroussos/campaigns/obelisk/docs/chapters/session_002_cragmaw_cave.md",
+      "outputs": [
+        {
+          "key": "interiority#1",
+          "file": "interiority.json",
+          "n_facts": 10
+        }
+      ]
+    }
+  ]
+}

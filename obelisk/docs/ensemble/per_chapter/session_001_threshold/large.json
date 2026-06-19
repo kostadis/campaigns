@@ -1,0 +1,877 @@
+[
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The session was a Dungeons & Dragons tabletop roleplaying game session.",
+    "source_quote": "The session was a Dungeons & Dragons tabletop roleplaying game session",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Kostadis",
+    "fact": "Kostadis served as the Dungeon Master for the session.",
+    "source_quote": "run by Kostadis as Dungeon Master",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Nikhil Reddy",
+    "fact": "Nikhil Reddy played the character Zenvon.",
+    "source_quote": "Nikhil Reddy as the player controlling the character Zenvon",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Phandalin",
+    "fact": "The session took place in the town of Phandalin.",
+    "source_quote": "set in the town of Phandalin",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Stonehill Tavern",
+    "fact": "The party gathered critical intelligence at the Stonehill Tavern.",
+    "source_quote": "The party gathered critical intelligence at the Stonehill Tavern",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Gundren",
+    "fact": "Gundren is a patron who was captured.",
+    "source_quote": "their patron, Gundren, who had been captured",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Red Brands",
+    "fact": "The Red Brands gang was identified as a major threat operating out of Tresendar Manor.",
+    "source_quote": "The Red Brands gang was identified as a major threat operating out of Tresendar Manor",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Glasstaff",
+    "fact": "Glasstaff is the leader of the Red Brands.",
+    "source_quote": "with a leader named Glasstaff",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "obelisk mystery",
+    "fact": "A mysterious obelisk connected to psionic magic, minds, memory, and transformation was introduced as a potential larger storyline thread.",
+    "source_quote": "A mysterious obelisk connected to psionic magic, minds, memory, and transformation was introduced as a potential larger storyline thread",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "goblin ambush",
+    "fact": "The party successfully ambushed and defeated two goblins and a goblin boss outside a cave.",
+    "source_quote": "The party successfully ambushed and defeated two goblins and a goblin boss outside a cave",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "cave scouting",
+    "fact": "The party began scouting the cave interior.",
+    "source_quote": "then began scouting the cave interior",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "snake encounter",
+    "fact": "Zenvon came face-to-face with a giant poisonous snake inside the cave.",
+    "source_quote": "Zenvon coming face-to-face with a giant poisonous snake inside the cave",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Toblen Stonehill",
+    "fact": "Toblen Stonehill is the broad-shouldered young human owner of the Stonehill Tavern.",
+    "source_quote": "Toblen Stonehill, the broad-shouldered young human owner of the tavern",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Gundren",
+    "fact": "Toblen described Gundren as a merchant who brought good business to the town.",
+    "source_quote": "Toblen described Gundren as a merchant who brought good business to the town",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Tell Dendar",
+    "fact": "Tell Dendar was a man killed by the Red Brands in broad daylight.",
+    "source_quote": "the Red Brands had killed a man named Tell Dendar in broad daylight",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Tell Dendar's family disappearance",
+    "fact": "The wife and children of Tell Dendar vanished after his death.",
+    "source_quote": "after which the man's wife and children vanished",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Sleeping Giant tap house",
+    "fact": "The Sleeping Giant tap house is located on Phandalin's Main Street.",
+    "source_quote": "located on Phandalin's Main Street",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Red Brands",
+    "fact": "The Red Brands drink at the Sleeping Giant tap house.",
+    "source_quote": "the Red Brands drink at the Sleeping Giant tap house",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Elsa",
+    "fact": "Elsa is a sharp-eyed dwarf bartender at the Stonehill Tavern.",
+    "source_quote": "Elsa, a sharp-eyed dwarf bartender at the Stonehill Tavern",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Elsa's sister",
+    "fact": "Elsa's sister is a scholar in Neverwinter.",
+    "source_quote": "her sister is a scholar in Neverwinter",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Veyra",
+    "fact": "Veyra is a party NPC.",
+    "source_quote": "Veyra (party NPC)",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Professor Orryn Voss",
+    "fact": "Professor Orryn Voss is a mentor to Veyra.",
+    "source_quote": "her mentor, Professor Orryn Voss",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Professor Orryn Voss",
+    "fact": "Professor Orryn Voss had disappeared in Phandalin.",
+    "source_quote": "Professor Orryn Voss had disappeared in Phandalin",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "black stone fragments",
+    "fact": "Professor Orryn Voss came to Phandalin believing there were black stone fragments from a large obelisk.",
+    "source_quote": "believing there were black stone fragments from a large obelisk",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "blue candle",
+    "fact": "A blue candle reacted to obelisk fragments and psionic magic.",
+    "source_quote": "A blue candle reacted to obelisk fragments and psionic magic",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Pip",
+    "fact": "Pip is a party NPC.",
+    "source_quote": "Party NPC Pip",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Pip's whisper",
+    "fact": "Pip mentioned hearing a whisper saying 'returned'.",
+    "source_quote": "Pip mentioned hearing a whisper saying 'returned'",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Sister Maela",
+    "fact": "Sister Maela felt a chill in her holy symbol.",
+    "source_quote": "Sister Maela felt a chill in her holy symbol",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daran Edermath",
+    "fact": "Daran Edermath is the orchard keeper and a retired adventurer.",
+    "source_quote": "Daran Edermath, the orchard keeper and retired adventurer",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Edermath Orchard",
+    "fact": "Daran Edermath is located at Edermath Orchard.",
+    "source_quote": "Daran Edermath at Edermath Orchard",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Freda",
+    "fact": "Freda is a slight gnomish woman with silver-streaked hair and round spectacles.",
+    "source_quote": "Freda, a slight gnomish woman with silver-streaked hair and round spectacles",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Freda",
+    "fact": "Freda stated she knew the Red Brands were behind Gundren's disappearance.",
+    "source_quote": "She stated she knew who was behind Gundren's disappearance \u2014 the Red Brands gang",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Halia",
+    "fact": "Halia works at the Phandalin Miners Exchange.",
+    "source_quote": "Halia works at the Phandalin Miners Exchange",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Red Brands",
+    "fact": "The Red Brands bother everyone in town except Halia.",
+    "source_quote": "the Red Brands bother everyone in town except Halia",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Tuck",
+    "fact": "Tuck is Toblen's nine-year-old son.",
+    "source_quote": "Tuck, Toblen's nine-year-old son",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Carp Alderleaf",
+    "fact": "Carp Alderleaf is a friend of Tuck.",
+    "source_quote": "his friend Carp Alderleaf",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "tunnel discovery",
+    "fact": "Carp Alderleaf discovered a tunnel leading into the woods.",
+    "source_quote": "Carp Alderleaf had discovered a tunnel leading into the woods",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Carp's near capture",
+    "fact": "The Red Brands nearly caught Carp Alderleaf near the tunnel.",
+    "source_quote": "the Red Brands (referred to as 'red cloaks') had nearly caught him",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Tuck's offer",
+    "fact": "Tuck offered to show the party where the tunnel is.",
+    "source_quote": "Tuck offered to show the party where the tunnel is",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Narth",
+    "fact": "Narth is an older weathered human man.",
+    "source_quote": "Narth, an older weathered human man",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Sister Garaele",
+    "fact": "Sister Garaele returned to town limping and pale.",
+    "source_quote": "Sister Garaele had returned to town limping and pale",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Sister Garaele",
+    "fact": "Sister Garaele refused to explain what had happened to her.",
+    "source_quote": "refused to explain what had happened",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Lenar",
+    "fact": "Lenar is a lean human miner with a dusty gray beard.",
+    "source_quote": "Lenar, a lean human miner with a dusty gray beard",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Harbin Wester",
+    "fact": "Harbin Wester is the town master of Phandalin.",
+    "source_quote": "Harbin Wester, the town master",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Harbin Wester",
+    "fact": "Lenar identified Harbin Wester as a useless town master who hides behind notices and wax seals.",
+    "source_quote": "the useless town master who hides behind notices and wax seals",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daran Edermath",
+    "fact": "Daran Edermath is a retired drow adventurer over 500 years old who formerly served as a marshal and herald on the Dragon Coast.",
+    "source_quote": "The party visited Daran Edermath, a retired drow adventurer over 500 years old who formerly served as a marshal and herald on the Dragon Coast.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daran Edermath",
+    "fact": "Daran Edermath expressed enthusiasm upon meeting the party and praised Pip's dedication to doing good.",
+    "source_quote": "Daran expressed enthusiasm upon meeting the party and praised Pip's dedication to doing good.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daran Edermath",
+    "fact": "Daran Edermath confirmed concern about the Red Brands and stated that someone needs to confront their leader, Glasstaff.",
+    "source_quote": "Daran confirmed concern about the Red Brands and stated that someone needs to confront their leader, Glasstaff.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Red Brands",
+    "fact": "The Red Brands' safehouse is located beneath Tresendar Manor.",
+    "source_quote": "Daran revealed that the Red Brands' safehouse is located beneath Tresendar Manor",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Glasstaff",
+    "fact": "Glasstaff is the leader of the Red Brands.",
+    "source_quote": "confront their leader, Glasstaff",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Tresendar Manor",
+    "fact": "Tresendar Manor is a rundown building past the Sleeping Giant.",
+    "source_quote": "Tresendar Manor, a rundown building past the Sleeping Giant",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daran Edermath",
+    "fact": "Daran Edermath estimated between 3 and 10 Red Brands are at Tresendar Manor.",
+    "source_quote": "Daran estimated between 3 and 10 Red Brands at Tresendar Manor",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Old Owl Well",
+    "fact": "Old Owl Well is an ancient watchtower of the magical empire Netheril.",
+    "source_quote": "He identified Old Owl Well as an ancient watchtower of the magical empire Netheril",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Old Owl Well quest",
+    "fact": "Prospectors in the hills northwest of Phandalin have been chased from Old Owl Well by undead creatures.",
+    "source_quote": "prospectors in the hills northwest of Phandalin have been chased from the ruins known as Old Owl Well by undead creatures",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daran Edermath",
+    "fact": "Daran Edermath offered boots of striding and springing as a reward for investigating Old Owl Well.",
+    "source_quote": "Daran offered boots of striding and springing as a reward for investigating Old Owl Well",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daran Edermath",
+    "fact": "Daran Edermath urged the party to prioritize rescuing Gundren before pursuing side quests.",
+    "source_quote": "Daran urged the party to prioritize rescuing Gundren before pursuing side quests",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Shrine of Luck",
+    "fact": "The Shrine of Luck is Phandalin's only temple and is dedicated to Tymora.",
+    "source_quote": "Phandalin's only temple, the Shrine of Luck, dedicated to Tymora",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Tymora",
+    "fact": "Tymora is the god of good luck and fortune.",
+    "source_quote": "Tymora, the god of good luck and fortune",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Shrine of Luck acolyte",
+    "fact": "The shrine is tended by a zealous young elf acolyte.",
+    "source_quote": "tended by a zealous young elf acolyte",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Shrine of Luck acolyte",
+    "fact": "The acolyte recognized the party as those searching for Gundren.",
+    "source_quote": "recognized the party as those searching for Gundren",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Shrine of Luck acolyte",
+    "fact": "The acolyte blessed the party.",
+    "source_quote": "The acolyte blessed the party",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Shrine of Luck acolyte",
+    "fact": "The acolyte indicated she had another quest for the party upon their return but would not assign it until Gundren's situation was resolved.",
+    "source_quote": "indicated she had another quest for them upon their return, but would not assign it until Gundren's situation was resolved",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Gundren",
+    "fact": "Gundren is currently being held captive by goblins.",
+    "source_quote": "the cave where Gundren is believed to be held",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Gundren",
+    "fact": "Gundren's captors are extracting information from him.",
+    "source_quote": "his captors are extracting information from him",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Gundren",
+    "fact": "Gundren's captors may decide to kill him once they have the information they need.",
+    "source_quote": "may decide to kill him once they have what they need",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zenvon",
+    "fact": "Zenvon successfully avoided a hidden pit trap with a Dexterity saving throw of DC 10.",
+    "source_quote": "Zenvon successfully avoided a hidden pit trap with a Dexterity saving throw (DC 10)",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Pip",
+    "fact": "Pip failed a Dexterity saving throw against a hidden snare and was suspended 10 feet above the ground.",
+    "source_quote": "Pip failed a Dexterity saving throw against a hidden snare and was suspended 10 feet above the ground",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Pip rescue",
+    "fact": "The party lowered Pip from the snare without requiring a roll.",
+    "source_quote": "The party lowered him without requiring a roll",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Goblin Cave",
+    "fact": "The cave entrance is a hillside cave with a shallow stream and dense briar thickets.",
+    "source_quote": "described as a hillside cave with a shallow stream and dense briar thickets",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zenvon",
+    "fact": "Zenvon scouted ahead using stealth and rolled successfully.",
+    "source_quote": "Zenvon scout ahead using stealth (rolled successfully)",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Goblin lookout",
+    "fact": "Zenvon spotted two goblins and one goblin boss in a hollowed-out lookout post within the briar thickets.",
+    "source_quote": "Zenvon spotted two goblins and one goblin boss in a hollowed-out lookout post within the briar thickets",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Goblin lookout",
+    "fact": "The guards were bored and inattentive.",
+    "source_quote": "The guards were bored and inattentive",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Surprise ambush",
+    "fact": "The party successfully passed stealth checks and achieved a surprise round.",
+    "source_quote": "The party successfully passed stealth checks and achieved a surprise round",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Combat initiative",
+    "fact": "Initiative was rolled and goblins rolled 21 but were surprised, granting the party a free first round.",
+    "source_quote": "goblins rolled 21 but were surprised, granting the party a free first round",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zenvon",
+    "fact": "Zenvon missed with a crossbow shot by rolling a natural 1 in the surprise round.",
+    "source_quote": "Zenvon missed with a crossbow shot (rolled a natural 1) in the surprise round",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Pip",
+    "fact": "Pip charged in but his attacks did not connect in the first round.",
+    "source_quote": "Pip charged in but his attacks did not connect in the first round",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Sister Maela",
+    "fact": "Sister Maela's Sacred Flame missed.",
+    "source_quote": "Sister Maela's Sacred Flame missed",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Veyra",
+    "fact": "Veyra fired a magic missile at the goblin boss, dealing 3 points of damage.",
+    "source_quote": "Veyra fired a magic missile at the goblin boss, dealing 3 points of damage",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Goblin boss",
+    "fact": "The goblin boss charged Pip and missed.",
+    "source_quote": "The goblin boss charged Pip and missed",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zenvon",
+    "fact": "Zenvon rolled a natural 20 with a dagger, killing one goblin outright in a decisive strike.",
+    "source_quote": "Zenvon rolled a natural 20 with a dagger, killing one goblin outright in a decisive strike",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Veyra",
+    "fact": "Veyra fired a Firebolt, killing the second goblin for 5 points of damage.",
+    "source_quote": "Veyra fired a Firebolt, killing the second goblin (5 points of damage)",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Goblin boss",
+    "fact": "The goblin boss attacked Pip twice with a scimitar and missed both times.",
+    "source_quote": "The goblin boss attacked Pip twice with a scimitar and missed both times",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zenvon",
+    "fact": "Zenvon missed with a dagger but hit with a short sword for 9 points of damage.",
+    "source_quote": "Zenvon missed with a dagger but hit with a short sword (9 points of damage)",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Pip",
+    "fact": "Pip missed his attack.",
+    "source_quote": "Pip missed his attack",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Sister Maela",
+    "fact": "Sister Maela hit the boss with her mace for 6 points of damage.",
+    "source_quote": "Sister Maela hit the boss with her mace for 6 points of damage",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Veyra",
+    "fact": "Veyra fired another Firebolt, killing the goblin boss.",
+    "source_quote": "Veyra fired another Firebolt, killing the goblin boss",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Combat loot",
+    "fact": "Looting the bodies yielded no coins but produced a scimitar and a javelin.",
+    "source_quote": "Looting the bodies yielded no coins but produced a scimitar and a javelin",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zenvon",
+    "fact": "Zenvon added the scimitar and javelin to his inventory.",
+    "source_quote": "which Zenvon added to his inventory",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zenvon",
+    "fact": "Zenvon spotted three wolves chained in the cave but passed them undetected.",
+    "source_quote": "Zenvon spotted three wolves chained in the cave but passed them undetected",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Main passage",
+    "fact": "A main passage deeper into the cave required either darkvision or a light source to navigate.",
+    "source_quote": "A main passage deeper into the cave was identified, but it required either darkvision or a light source to navigate",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Sister Maela",
+    "fact": "Sister Maela is a dwarf and has darkvision.",
+    "source_quote": "Sister Maela (dwarf) and Veyra (tiefling) do",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Veyra",
+    "fact": "Veyra is a tiefling and has darkvision.",
+    "source_quote": "Sister Maela (dwarf) and Veyra (tiefling) do",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Veyra's blue candle",
+    "fact": "Veyra's blue candle provides light but would compromise stealth.",
+    "source_quote": "Veyra's blue candle provides light but would compromise stealth",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Giant poisonous snake",
+    "fact": "Zenvon came face-to-face with a giant coiled poisonous snake.",
+    "source_quote": "he came face-to-face with a giant coiled poisonous snake",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zenvon",
+    "fact": "Zenvon had a stealth roll of 23, so the snake had not yet noticed him.",
+    "source_quote": "Thanks to his stealth roll of 23, the snake had not yet noticed him",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zenvon",
+    "fact": "Zenvon decided to slowly tiptoe back to the party.",
+    "source_quote": "Decided to slowly tiptoe back to the party",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Goblin Cave exploration",
+    "fact": "The session ended with Zenvon retreating silently from the snake.",
+    "source_quote": "ending the session on the cliffhanger",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Gundren's rescue",
+    "fact": "Multiple NPCs warned that Gundren's captors will eventually stop trying to extract information from him and may kill him.",
+    "source_quote": "Multiple NPCs warned that Gundren's captors will eventually stop trying to extract information from him and may kill him",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zenvon",
+    "fact": "Zenvon lacks darkvision.",
+    "source_quote": "Zenvon (halfling) lacks darkvision",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "light source consequence",
+    "fact": "Using a light source will eliminate stealth.",
+    "source_quote": "using a light source will eliminate stealth",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Sister Maela",
+    "fact": "The party must coordinate with Sister Maela for navigation in dark areas.",
+    "source_quote": "The party must coordinate around Sister Maela and Veyra for navigation in dark areas",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Veyra",
+    "fact": "The party must coordinate with Veyra for navigation in dark areas.",
+    "source_quote": "The party must coordinate around Sister Maela and Veyra for navigation in dark areas",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "giant poisonous snake",
+    "fact": "A giant snake was discovered blocking a passage inside the cave.",
+    "source_quote": "A giant snake was discovered blocking a passage inside the cave",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "snake encounter status",
+    "fact": "The party has not yet engaged the giant snake.",
+    "source_quote": "the party has not yet engaged it",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "wolves",
+    "fact": "Three wolves were spotted chained inside the cave.",
+    "source_quote": "Three wolves were spotted chained inside the cave",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Red Brands",
+    "fact": "The Red Brands gang continues to operate freely in Phandalin.",
+    "source_quote": "The Red Brands gang continues to operate freely in Phandalin",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Tresendar Manor",
+    "fact": "Tresendar Manor serves as the Red Brands' safehouse.",
+    "source_quote": "with their safehouse at Tresendar Manor",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Glasstaff",
+    "fact": "Glasstaff is the leader of the Red Brands.",
+    "source_quote": "their leader Glasstaff",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Glasstaff confrontation",
+    "fact": "Glasstaff has not yet been confronted.",
+    "source_quote": "Glasstaff not yet confronted",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Sister Garaele",
+    "fact": "Sister Garaele returned to town wounded.",
+    "source_quote": "Sister Garaele returned to town wounded",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Sister Garaele",
+    "fact": "Sister Garaele is not speaking about what happened to her.",
+    "source_quote": "not speaking about what happened",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Halia",
+    "fact": "Halia works at the Phandalin Miners Exchange.",
+    "source_quote": "Halia at the Phandalin Miners Exchange",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Halia visit",
+    "fact": "Halia has not been visited yet.",
+    "source_quote": "has not been visited",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Halia's connection",
+    "fact": "Halia's relationship with the Red Brands is unclear.",
+    "source_quote": "her relationship with the Red Brands is unclear",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "black stone obelisk fragments",
+    "fact": "The threat of someone assembling the black stone obelisk fragments remains an unresolved background danger.",
+    "source_quote": "The threat of someone assembling the black stone obelisk fragments remains an unresolved background danger",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Nikhil Reddy",
+    "fact": "Nikhil Reddy is playing the character Zenvon.",
+    "source_quote": "Nikhil Reddy (as Zenvon)",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "snake retreat",
+    "fact": "The party retreated from the giant snake.",
+    "source_quote": "after retreating from the giant snake",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Gundren rescue objective",
+    "fact": "Rescuing Gundren from the goblin cave is the primary objective.",
+    "source_quote": "Rescue Gundren from the goblin cave as the primary objective",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Halia investigation",
+    "fact": "Investigating Halia's connection to the Red Brands is deferred until after the rescue.",
+    "source_quote": "deferred until after the rescue",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Sister Garaele inquiry",
+    "fact": "Speaking with Sister Garaele through Sister Maela is deferred until after the rescue.",
+    "source_quote": "deferred until after the rescue",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "hidden tunnel",
+    "fact": "Carp Alderleaf discovered a hidden tunnel.",
+    "source_quote": "hidden tunnel discovered by Carp Alderleaf",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Shrine of Luck",
+    "fact": "The party is to return to the Shrine of Luck acolyte after rescuing Gundren to receive the next quest.",
+    "source_quote": "Return to the Shrine of Luck acolyte after rescuing Gundren to receive the next quest",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Old Owl Well",
+    "fact": "Old Owl Well has an undead threat.",
+    "source_quote": "Old Owl Well and the undead threat",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daran Edermath",
+    "fact": "Daran Edermath offers boots of striding and springing for investigating Old Owl Well.",
+    "source_quote": "earn the boots of striding and springing from Daran Edermath",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Red Brands confrontation",
+    "fact": "Confronting the Red Brands at Tresendar Manor and dealing with Glasstaff is a future task.",
+    "source_quote": "Confront the Red Brands at Tresendar Manor and deal with their leader Glasstaff",
+    "quote_verified": true
+  }
+]

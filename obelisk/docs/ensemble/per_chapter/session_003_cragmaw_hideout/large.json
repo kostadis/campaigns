@@ -1,0 +1,520 @@
+[
+  {
+    "type": "npc",
+    "subject": "Kostadis",
+    "fact": "Kostadis served as the Dungeon Master for the session.",
+    "source_quote": "run by Kostadis (Dungeon Master)",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Nikhil",
+    "fact": "Nikhil played the character Zenvon.",
+    "source_quote": "with Nikhil as the player controlling the character Zenvon",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zenvon",
+    "fact": "Zenvon is a rogue.",
+    "source_quote": "Zenvon (a rogue)",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Sildar",
+    "fact": "Sildar was rescued by the party.",
+    "source_quote": "rescued Sildar",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Sildar",
+    "fact": "Sildar revealed the party was ambushed on the Triboar Trail.",
+    "source_quote": "Revealed the party was ambushed on the Triboar Trail",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Sildar",
+    "fact": "Sildar stated that someone tipped off the goblins about the ambush.",
+    "source_quote": "someone tipped off the goblins \u2014 it was not a random robbery",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Sildar",
+    "fact": "Sildar reported that Gundren was dragged away separately from the ambush.",
+    "source_quote": "Gundren was dragged away separately",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Sildar",
+    "fact": "Sildar overheard the name Black Spider among the goblins.",
+    "source_quote": "the name 'Black Spider' was overheard among the goblins",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Sildar",
+    "fact": "Sildar identified himself as a member of the Lord's Alliance.",
+    "source_quote": "Identified himself as a member of the Lord's Alliance",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Sildar",
+    "fact": "Sildar stressed the importance of capturing or eliminating Klarg.",
+    "source_quote": "stressed the importance of capturing or eliminating Klarg",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Sildar",
+    "fact": "Sildar declined to join the party due to injuries and other missions.",
+    "source_quote": "Sildar declined, citing injuries and other missions",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Sildar",
+    "fact": "Sildar agreed to wait at the camp.",
+    "source_quote": "Agreed to wait at the camp",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Sildar",
+    "fact": "Sildar offered 50 gold pieces for an escort to Neverwinter or Phandalin.",
+    "source_quote": "offered to pay 50 gold pieces for an escort to Neverwinter/Phandalin",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Sildar",
+    "fact": "Sildar mentioned a strange goblin with an elongated head was present during the ambush.",
+    "source_quote": "Mentioned a strange goblin with an elongated head who was present during the ambush",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Sildar",
+    "fact": "Sildar whispered the phrase 'You're not what Ruxithid wants' regarding the elongated-headed goblin.",
+    "source_quote": "whispered an unknown phrase: 'You're not what Ruxithid wants.'",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Pip",
+    "fact": "Pip was present during the cave entrance combat.",
+    "source_quote": "including Pip, Sister Maela, and Veyra",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Sister Maela",
+    "fact": "Sister Maela was present during the cave entrance combat.",
+    "source_quote": "including Pip, Sister Maela, and Veyra",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Sister Maela",
+    "fact": "Sister Maela cast Cure Wounds to heal Zenvon to full health.",
+    "source_quote": "Sister Maela cast Cure Wounds, healing Zenvon to full (16 HP including temp HP)",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Sister Maela",
+    "fact": "Sister Maela used animal handling to subdue the remaining wolves.",
+    "source_quote": "Sister Maela successfully used animal handling to subdue the remaining wolves",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Sister Maela",
+    "fact": "Sister Maela provided light to the party.",
+    "source_quote": "until Sister Maela provided light",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Veyra",
+    "fact": "Veyra was caught in a flood triggered by goblins releasing a dam.",
+    "source_quote": "Veyra failed her dexterity saving throw and was caught in the flood",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Veyra",
+    "fact": "Zenvon grabbed Veyra before she was swept away.",
+    "source_quote": "Rolled a 19 on sleight of hand to grab Veyra before she was swept away",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Veyra",
+    "fact": "Veyra used Magic Missile to deal 15 points of damage to Klarg.",
+    "source_quote": "Used Magic Missile for 15 points of damage on Klarg",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Veyra",
+    "fact": "Veyra killed a fleeing goblin with a critical firebolt for 7 points of damage.",
+    "source_quote": "killed a fleeing goblin with a critical firebolt (7 points of damage)",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Gundren",
+    "fact": "Gundren was missing and dragged away during the ambush.",
+    "source_quote": "Gundren was dragged away separately",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Klarg",
+    "fact": "Klarg is a bugbear and the leader of the goblins.",
+    "source_quote": "bugbear leader Klarg",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Klarg",
+    "fact": "Klarg appeared and engaged the party in the main cavern.",
+    "source_quote": "Klarg the bugbear appeared and engaged the party",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Klarg",
+    "fact": "Zenvon landed the killing blow on Klarg using a Nick scimitar and dagger combo.",
+    "source_quote": "Landed the killing blow on Klarg using Nick scimitar + dagger combo for 8 points of damage",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Klarg",
+    "fact": "Klarg had 5 hit points remaining when he was killed.",
+    "source_quote": "Klarg had 5 HP remaining",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Lord's Alliance",
+    "fact": "The Lord's Alliance is described as the ruling castes of major city-states favoring centralized power.",
+    "source_quote": "Described the Lord's Alliance as the ruling castes of major city-states, favoring centralized power",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Harpers",
+    "fact": "The Harpers are committed to preventing any single faction from gaining full control.",
+    "source_quote": "Described the Harpers as committed to preventing any single faction from gaining full control",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Order of the Gauntlet",
+    "fact": "The Order of the Gauntlet is described as heroic, combat-focused, and morality-driven.",
+    "source_quote": "Described the Order of the Gauntlet as heroic, combat-focused, and morality-driven",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Emerald Enclave",
+    "fact": "The Emerald Enclave is described as nature-preserving and druid-aligned.",
+    "source_quote": "Described the Emerald Enclave as nature-preserving, druid-aligned",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Zhentarim",
+    "fact": "The Zhentarim is a trade-controlling criminal organization originally a cult of an evil god.",
+    "source_quote": "Described the Zhentarim (Black Network) as a trade-controlling criminal organization, originally a cult of an evil god",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Lionshield Coster",
+    "fact": "The Lionshield Coster is a merchant company from Phandalin.",
+    "source_quote": "symbol of the Lionshield Coster merchant company from Phandalin",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Black Spider",
+    "fact": "The identity and motives of the Black Spider remain unknown.",
+    "source_quote": "The identity and motives of the Black Spider remain unknown",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Ambush on Triboar Trail",
+    "fact": "The party was ambushed on the Triboar Trail by goblins.",
+    "source_quote": "party was ambushed on the Triboar Trail",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Cragmaw Hideout Clearing",
+    "fact": "The party successfully cleared the Cragmaw Hideout.",
+    "source_quote": "The party successfully cleared the Cragmaw Hideout",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zenvon Persuasion Attempt",
+    "fact": "Zenvon rolled a 16 on persuasion to ask Sildar to join the party.",
+    "source_quote": "rolled a 16 on persuasion but Sildar declined",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Wolf Distraction",
+    "fact": "Zenvon successfully lured wolves by throwing food.",
+    "source_quote": "successfully luring the wolves",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "First Goblin Kill",
+    "fact": "Zenvon killed the first goblin with 9 points of damage using sneak attack.",
+    "source_quote": "killing the first goblin with 9 points of damage",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zenvon Bitten by Wolf",
+    "fact": "A wolf bit Zenvon for 5 points of damage.",
+    "source_quote": "A wolf bit Zenvon for 5 points of damage",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zenvon Strength Save",
+    "fact": "Zenvon passed the DC 11 strength saving throw and was not knocked prone.",
+    "source_quote": "Zenvon passed the DC 11 strength saving throw and was not knocked prone",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Flood Triggered",
+    "fact": "Goblins released a dam triggering a flood that swept through the cave.",
+    "source_quote": "A flood triggered by goblins releasing a dam swept through the cave",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zenvon Deception",
+    "fact": "Zenvon rolled a 15 on deception to imitate a goblin voice.",
+    "source_quote": "Used deception (rolled 15) to imitate a goblin voice",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zenvon Stealth Roll",
+    "fact": "Zenvon rolled a natural 20 on stealth after killing a goblin.",
+    "source_quote": "Rolled a natural 20 on stealth after killing a goblin",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Klarg Engagement",
+    "fact": "Klarg engaged the party causing significant damage to Pip and Sister Maela.",
+    "source_quote": "Pip and Sister Maela took significant damage",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Veyra Firebolt",
+    "fact": "Veyra killed a fleeing goblin with a critical firebolt.",
+    "source_quote": "killed a fleeing goblin with a critical firebolt (7 points of damage) before it could escape",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Klarg Death",
+    "fact": "Klarg was killed by Zenvon.",
+    "source_quote": "Klarg was killed",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Wolf Subdual",
+    "fact": "Sister Maela subdued the remaining wolves rather than killing them.",
+    "source_quote": "subdue the remaining wolves rather than killing them",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Looting Klarg's Cave",
+    "fact": "The party found 1,700 copper pieces in Klarg's cave.",
+    "source_quote": "The party found 1,700 copper pieces",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Looting Klarg's Cave",
+    "fact": "The party found two potions of healing in Klarg's cave.",
+    "source_quote": "two potions of healing",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Looting Klarg's Cave",
+    "fact": "The party found a jade statuette of a frog with tiny golden eyes.",
+    "source_quote": "a jade statuette of a frog with tiny golden eyes",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Escort Agreement",
+    "fact": "The party agreed to escort Sildar to Phandalin.",
+    "source_quote": "The party agreed to escort Sildar",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Return to Phandalin",
+    "fact": "The party headed to Phandalin for a long rest.",
+    "source_quote": "headed back to Phandalin for a long rest",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Cragmaw Hideout",
+    "fact": "The Cragmaw Hideout is a cave system cleared by the party.",
+    "source_quote": "cleared the Cragmaw Hideout",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Triboar Trail",
+    "fact": "The ambush on the Triboar Trail was not a random robbery.",
+    "source_quote": "ambushed on the Triboar Trail",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Phandalin",
+    "fact": "Phandalin is the destination for the party's long rest.",
+    "source_quote": "heading back to Phandalin for a long rest",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Neverwinter",
+    "fact": "Sildar offered to be escorted to Neverwinter.",
+    "source_quote": "escort to Neverwinter/Phandalin",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Healing Potions",
+    "fact": "The party collected healing potions as loot.",
+    "source_quote": "collected loot including healing potions",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Copper Pieces",
+    "fact": "The party collected copper pieces as loot.",
+    "source_quote": "copper pieces",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Jade Statuette",
+    "fact": "The party found a jade statuette of a frog with tiny golden eyes.",
+    "source_quote": "a jade statuette of a frog with tiny golden eyes",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Merchant Provisions",
+    "fact": "The party collected merchant provisions as loot.",
+    "source_quote": "merchant provisions",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Blue Lion Sacks",
+    "fact": "Sacks and crates marked with a blue lion were found in the cave.",
+    "source_quote": "sacks and crates marked with a blue lion",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Nick Scimitar",
+    "fact": "Zenvon used a Nick scimitar to deal damage to Klarg.",
+    "source_quote": "using Nick scimitar + dagger combo",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Dagger",
+    "fact": "Zenvon used a dagger in dual-weapon fighting.",
+    "source_quote": "dual-weapon fighting (scimitar and dagger)",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Goblins",
+    "fact": "The party defeated multiple goblins at the Cragmaw Hideout.",
+    "source_quote": "defeating multiple goblins",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Wolves",
+    "fact": "The party defeated multiple wolves at the Cragmaw Hideout.",
+    "source_quote": "defeating multiple goblins, wolves",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Goblin with Elongated Head",
+    "fact": "A mysterious goblin with an elongated head was mentioned by Sildar.",
+    "source_quote": "mysterious goblin with an elongated head was mentioned by Sildar",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Elongated-headed goblin",
+    "fact": "The identity of the elongated-headed goblin remains unexplained.",
+    "source_quote": "The identity of the elongated-headed goblin... remain unexplained",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Ruxithid wants",
+    "fact": "The meaning of the phrase 'You're not what Ruxithid wants' is unknown.",
+    "source_quote": "a phrase neither Sildar nor the party could interpret",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Gundren's location",
+    "fact": "The party does not know where Gundren was taken.",
+    "source_quote": "the party still does not know where Gundren was taken",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Black Spider",
+    "fact": "The identity and motives of the Black Spider remain unknown.",
+    "source_quote": "The identity and motives of the Black Spider remain unknown",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "Session date",
+    "fact": "The session was an in-person game.",
+    "source_quote": "The session was an in-person Dungeons & Dragons game",
+    "quote_verified": true
+  }
+]

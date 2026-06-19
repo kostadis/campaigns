@@ -1,0 +1,79 @@
+[
+  {
+    "type": "npc",
+    "subject": "Kostadis",
+    "fact": "Kostadis needs to level up all sidekick characters before the next session.",
+    "source_quote": "Kostadis needs to complete before the next session",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Nikhil Reddy",
+    "fact": "Nikhil Reddy does not yet have direct access to the party inventory spreadsheet.",
+    "source_quote": "Nikhil Reddy does not yet have direct access to the party inventory spreadsheet",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Veyra",
+    "fact": "Veyra has not yet been leveled up to Level 2.",
+    "source_quote": "Sidekick characters (Veyra, Sister Maela, Pip) have not yet been leveled up to Level 2",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Sister Maela",
+    "fact": "Sister Maela has not yet been leveled up to Level 2.",
+    "source_quote": "Sidekick characters (Veyra, Sister Maela, Pip) have not yet been leveled up to Level 2",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Pip",
+    "fact": "Pip has not yet been leveled up to Level 2.",
+    "source_quote": "Sidekick characters (Veyra, Sister Maela, Pip) have not yet been leveled up to Level 2",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Klarg",
+    "fact": "The bugbear Klarg remains undefeated in the cave.",
+    "source_quote": "The bugbear Klarg remains undefeated in the cave",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Klarg",
+    "fact": "Klarg poses a threat to the party's safety during their rest.",
+    "source_quote": "poses a threat to the party's safety during their rest",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "party inventory spreadsheet",
+    "fact": "The party inventory spreadsheet was shared via the Discord channel during the session.",
+    "source_quote": "it was shared via the Discord channel during the session",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "action economy reference guide",
+    "fact": "An action economy reference guide was pinned in the Discord channel.",
+    "source_quote": "Review the pinned action economy reference guide shared in Discord",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zoom audio sharing",
+    "fact": "Zoom audio sharing needs to be debugged so Roll20 ambient sounds are audible to Nikhil Reddy.",
+    "source_quote": "Debug Zoom audio sharing so Roll20 ambient sounds are audible to Nikhil Reddy",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Klarg strategy",
+    "fact": "A strategy for dealing with the bugbear Klarg needs to be decided before the next session begins.",
+    "source_quote": "Decide on a strategy for dealing with the bugbear Klarg before the next session begins",
+    "quote_verified": true
+  }
+]

@@ -1,0 +1,135 @@
+[
+  {
+    "type": "event",
+    "subject": "Sildar escort payment",
+    "fact": "Sildar offered 50 gold pieces to be escorted to Neverwinter or Phandalin.",
+    "source_quote": "offered 50 gold pieces to be escorted to Neverwinter/Phandalin",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zenvon damage from wolf",
+    "fact": "A wolf bit Zenvon for 5 points of damage.",
+    "source_quote": "A wolf bit Zenvon for 5 points of damage",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zenvon healing",
+    "fact": "Sister Maela cast Cure Wounds, healing Zenvon to full 16 HP including temp HP.",
+    "source_quote": "healing Zenvon to full (16 HP including temp HP)",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Veyra damage to Klarg",
+    "fact": "Veyra used Magic Missile for 15 points of damage on Klarg.",
+    "source_quote": "Veyra: Used Magic Missile for 15 points of damage on Klarg",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Goblin killed by firebolt",
+    "fact": "Veyra killed a fleeing goblin with a critical firebolt for 7 points of damage.",
+    "source_quote": "critical firebolt (7 points of damage)",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zenvon damage to Klarg",
+    "fact": "Zenvon landed the killing blow on Klarg for 8 points of damage.",
+    "source_quote": "for 8 points of damage (Klarg had 5 HP remaining)",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Klarg remaining HP",
+    "fact": "Klarg had 5 HP remaining before being killed.",
+    "source_quote": "Klarg had 5 HP remaining",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "loot copper pieces",
+    "fact": "The party found 1,700 copper pieces in the cave.",
+    "source_quote": "The party found 1,700 copper pieces",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "loot healing potions",
+    "fact": "The party found two potions of healing in the cave.",
+    "source_quote": "two potions of healing",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zenvon persuasion roll",
+    "fact": "Zenvon rolled a 16 on persuasion to persuade Sildar.",
+    "source_quote": "rolled a 16 on persuasion",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zenvon sleight of hand distraction",
+    "fact": "Zenvon rolled a 19 on sleight of hand to distract wolves.",
+    "source_quote": "rolled 19 on sleight of hand",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zenvon damage to first goblin",
+    "fact": "Zenvon killed the first goblin with 9 points of damage.",
+    "source_quote": "killing the first goblin with 9 points of damage",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zenvon stealth roll",
+    "fact": "Zenvon rolled a natural 20 on stealth after killing a goblin.",
+    "source_quote": "Rolled a natural 20 on stealth",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zenvon deception roll",
+    "fact": "Zenvon used deception with a roll of 15 to imitate a goblin voice.",
+    "source_quote": "used deception (rolled 15)",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Veyra saving throw",
+    "fact": "Veyra failed her dexterity saving throw against the flood.",
+    "source_quote": "Veyra failed her dexterity saving throw",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zenvon saving throw",
+    "fact": "Zenvon passed the DC 11 strength saving throw against the wolf's attack.",
+    "source_quote": "passed the DC 11 strength saving throw",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Veyra sleight of hand rescue",
+    "fact": "Zenvon rolled a 19 on sleight of hand to grab Veyra.",
+    "source_quote": "Rolled a 19 on sleight of hand to grab Veyra",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Lionshield Coster reward value",
+    "fact": "The reward for escorting Sildar to Neverwinter or Phandalin is 50 gold pieces.",
+    "source_quote": "collect the 50 gold piece reward",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "rest duration",
+    "fact": "The party plans to take a long rest in Phandalin.",
+    "source_quote": "Take a long rest in Phandalin",
+    "quote_verified": true
+  }
+]

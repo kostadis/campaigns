@@ -1,0 +1,5530 @@
+[
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The session was a Dungeons & Dragons tabletop roleplaying game session.",
+    "source_quote": "The session was a Dungeons & Dragons tabletop roleplaying game session",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "variants": [
+      "The session was a Dungeons & Dragons tabletop roleplaying game session."
+    ],
+    "subjects": [
+      "session date"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "date",
+    "subject": "session setup",
+    "fact": "Kostadis and Nikhil Reddy reconnected via Discord to confirm audio and screen-sharing setup before the session.",
+    "source_quote": "Kostadis and Nikhil Reddy reconnected via Discord and confirmed their audio and screen-sharing setup before beginning the session",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "Kostadis and Nikhil Reddy reconnected via Discord to confirm audio and screen-sharing setup before the session."
+    ],
+    "subjects": [
+      "session setup"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "blessing at Shrine of Luck",
+    "fact": "The elf acolyte blessed the party.",
+    "source_quote": "The acolyte blessed the party",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "The elf acolyte blessed the party."
+    ],
+    "subjects": [
+      "blessing at Shrine of Luck"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Carp's near capture",
+    "fact": "The Red Brands nearly caught Carp Alderleaf near the tunnel.",
+    "source_quote": "the Red Brands (referred to as 'red cloaks') had nearly caught him",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "variants": [
+      "The Red Brands nearly caught Carp Alderleaf near the tunnel."
+    ],
+    "subjects": [
+      "Carp's near capture"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "cave encounter",
+    "fact": "Zenvon came face-to-face with a giant poisonous snake inside the cave at the end of the session.",
+    "source_quote": "Zenvon coming face-to-face with a giant poisonous snake inside the cave",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small"
+    ],
+    "variants": [
+      "Zenvon came face-to-face with a giant poisonous snake inside the cave at the end of the session.",
+      "Zenvon came face-to-face with a giant poisonous snake inside the cave."
+    ],
+    "subjects": [
+      "cave encounter",
+      "snake encounter"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "event",
+    "subject": "cave scouting",
+    "fact": "The party began scouting the cave interior after the ambush.",
+    "source_quote": "then began scouting the cave interior",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small"
+    ],
+    "variants": [
+      "The party began scouting the cave interior after the ambush.",
+      "The party began scouting the cave interior."
+    ],
+    "subjects": [
+      "cave scouting"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "event",
+    "subject": "combat conclusion",
+    "fact": "All three enemies were defeated and no party members took damage.",
+    "source_quote": "All three enemies — two goblins and the goblin boss — were defeated",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "All three enemies were defeated and no party members took damage."
+    ],
+    "subjects": [
+      "combat conclusion"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Combat initiative",
+    "fact": "Initiative was rolled and goblins rolled 21 but were surprised, granting the party a free first round.",
+    "source_quote": "goblins rolled 21 but were surprised, granting the party a free first round",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small"
+    ],
+    "variants": [
+      "Initiative was rolled and goblins rolled 21 but were surprised, granting the party a free first round.",
+      "Goblins rolled 21 for initiative but were surprised, granting the party a free first round."
+    ],
+    "subjects": [
+      "Combat initiative",
+      "combat initiative"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "event",
+    "subject": "Combat loot",
+    "fact": "Looting the bodies yielded no coins but produced a scimitar and a javelin.",
+    "source_quote": "Looting the bodies yielded no coins but produced a scimitar and a javelin",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "variants": [
+      "Looting the bodies yielded no coins but produced a scimitar and a javelin."
+    ],
+    "subjects": [
+      "Combat loot"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Confronting the Red Brands",
+    "fact": "Confronting the Red Brands at Tresendar Manor is a future task.",
+    "source_quote": "Confront the Red Brands at Tresendar Manor",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "Confronting the Red Brands at Tresendar Manor is a future task."
+    ],
+    "subjects": [
+      "Confronting the Red Brands"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "dealing with Glasstaff",
+    "fact": "Dealing with the leader Glasstaff is a future task.",
+    "source_quote": "deal with their leader Glasstaff (future task)",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "Dealing with the leader Glasstaff is a future task."
+    ],
+    "subjects": [
+      "dealing with Glasstaff"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Dendar family disappearance",
+    "fact": "The wife and children of Tell Dendar vanished after his murder.",
+    "source_quote": "after which the man's wife and children vanished",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small"
+    ],
+    "variants": [
+      "The wife and children of Tell Dendar vanished after his murder.",
+      "The wife and children of Tell Dendar vanished after his death."
+    ],
+    "subjects": [
+      "Dendar family disappearance",
+      "Tell Dendar's family disappearance"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "event",
+    "subject": "encumbrance rule",
+    "fact": "Kostadis does not enforce encumbrance rules in this campaign.",
+    "source_quote": "Kostadis does not enforce them, preferring to focus on gameplay over resource accounting",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "Kostadis does not enforce encumbrance rules in this campaign."
+    ],
+    "subjects": [
+      "encumbrance rule"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Glasstaff confrontation",
+    "fact": "Glasstaff has not yet been confronted.",
+    "source_quote": "Glasstaff not yet confronted",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "variants": [
+      "Glasstaff has not yet been confronted."
+    ],
+    "subjects": [
+      "Glasstaff confrontation"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "goblin ambush",
+    "fact": "The party successfully ambushed and defeated two goblins and a goblin boss outside a cave.",
+    "source_quote": "The party successfully ambushed and defeated two goblins and a goblin boss outside a cave",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small",
+      "sweep"
+    ],
+    "variants": [
+      "The party successfully ambushed and defeated two goblins and a goblin boss outside a cave."
+    ],
+    "subjects": [
+      "goblin ambush",
+      "ambush"
+    ],
+    "n_samples": 3
+  },
+  {
+    "type": "event",
+    "subject": "goblin boss charge",
+    "fact": "The goblin boss charged Pip and missed.",
+    "source_quote": "The goblin boss charged Pip and missed",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "The goblin boss charged Pip and missed."
+    ],
+    "subjects": [
+      "goblin boss charge"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "goblin boss death",
+    "fact": "Veyra fired another Firebolt, killing the goblin boss.",
+    "source_quote": "Veyra fired another Firebolt, killing the goblin boss",
+    "quote_verified": true,
+    "passes": [
+      "small",
+      "sweep"
+    ],
+    "variants": [
+      "Veyra fired another Firebolt, killing the goblin boss."
+    ],
+    "subjects": [
+      "goblin boss death",
+      "Veyra's second Firebolt"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "event",
+    "subject": "goblin boss scimitar attacks",
+    "fact": "The goblin boss attacked Pip twice with a scimitar and missed both times.",
+    "source_quote": "The goblin boss attacked Pip twice with a scimitar and missed both times",
+    "quote_verified": true,
+    "passes": [
+      "small",
+      "temporal"
+    ],
+    "variants": [
+      "The goblin boss attacked Pip twice with a scimitar and missed both times.",
+      "The goblin boss attacked Pip twice with a scimitar."
+    ],
+    "subjects": [
+      "goblin boss scimitar attacks",
+      "goblin boss attacks"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "event",
+    "subject": "Gundren rescue objective",
+    "fact": "Rescuing Gundren from the goblin cave is the primary objective.",
+    "source_quote": "Rescue Gundren from the goblin cave as the primary objective",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "sweep"
+    ],
+    "variants": [
+      "Rescuing Gundren from the goblin cave is the primary objective."
+    ],
+    "subjects": [
+      "Gundren rescue objective",
+      "Gundren's rescue plan"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "event",
+    "subject": "Gundren's potential death",
+    "fact": "Multiple NPCs warned that Gundren's captors may kill him if they stop extracting information.",
+    "source_quote": "may kill him, making the rescue time-sensitive",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "Multiple NPCs warned that Gundren's captors may kill him if they stop extracting information."
+    ],
+    "subjects": [
+      "Gundren's potential death"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Halia investigation",
+    "fact": "Investigating Halia's connection to the Red Brands is deferred until after the rescue.",
+    "source_quote": "deferred until after the rescue",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "variants": [
+      "Investigating Halia's connection to the Red Brands is deferred until after the rescue."
+    ],
+    "subjects": [
+      "Halia investigation"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Halia's connection",
+    "fact": "Halia's relationship with the Red Brands is unclear and she has not been visited.",
+    "source_quote": "has not been visited, and her relationship with the Red Brands is unclear",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "Halia's relationship with the Red Brands is unclear and she has not been visited."
+    ],
+    "subjects": [
+      "Halia's connection"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Halia visit",
+    "fact": "Halia has not been visited yet.",
+    "source_quote": "has not been visited",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "variants": [
+      "Halia has not been visited yet."
+    ],
+    "subjects": [
+      "Halia visit"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "initiative",
+    "fact": "The goblins rolled a 21 for initiative but were surprised.",
+    "source_quote": "goblins rolled 21 but were surprised",
+    "quote_verified": true,
+    "passes": [
+      "sweep",
+      "temporal"
+    ],
+    "variants": [
+      "The goblins rolled a 21 for initiative but were surprised.",
+      "The goblins rolled a 21 for initiative."
+    ],
+    "subjects": [
+      "initiative",
+      "goblin boss initiative"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "event",
+    "subject": "light source consequence",
+    "fact": "Using a light source will eliminate stealth.",
+    "source_quote": "using a light source will eliminate stealth",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "variants": [
+      "Using a light source will eliminate stealth."
+    ],
+    "subjects": [
+      "light source consequence"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "lowering Pip",
+    "fact": "The party lowered Pip without requiring a roll.",
+    "source_quote": "The party lowered him without requiring a roll",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "The party lowered Pip without requiring a roll."
+    ],
+    "subjects": [
+      "lowering Pip"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Old Owl Well quest",
+    "fact": "Prospectors in the hills northwest of Phandalin have been chased from Old Owl Well by undead creatures.",
+    "source_quote": "prospectors in the hills northwest of Phandalin have been chased from the ruins known as Old Owl Well by undead creatures",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "variants": [
+      "Prospectors in the hills northwest of Phandalin have been chased from Old Owl Well by undead creatures."
+    ],
+    "subjects": [
+      "Old Owl Well quest"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "party decision",
+    "fact": "The party chose to proceed toward the goblin cave to rescue Gundren as the primary objective.",
+    "source_quote": "The party chose to proceed toward the goblin cave to rescue Gundren as the primary objective",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "The party chose to proceed toward the goblin cave to rescue Gundren as the primary objective."
+    ],
+    "subjects": [
+      "party decision"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "passing wolves",
+    "fact": "Zenvon passed the chained wolves undetected.",
+    "source_quote": "passed them undetected",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "Zenvon passed the chained wolves undetected."
+    ],
+    "subjects": [
+      "passing wolves"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Pip rescue",
+    "fact": "The party lowered Pip from the snare without requiring a roll.",
+    "source_quote": "The party lowered him without requiring a roll",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "variants": [
+      "The party lowered Pip from the snare without requiring a roll."
+    ],
+    "subjects": [
+      "Pip rescue"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Pip's whisper",
+    "fact": "Pip mentioned hearing a whisper saying 'returned'.",
+    "source_quote": "Pip mentioned hearing a whisper saying 'returned'",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "variants": [
+      "Pip mentioned hearing a whisper saying 'returned'."
+    ],
+    "subjects": [
+      "Pip's whisper"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "receiving next quest",
+    "fact": "The party expects to receive the next quest from the Shrine of Luck acolyte.",
+    "source_quote": "to receive the next quest",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "The party expects to receive the next quest from the Shrine of Luck acolyte."
+    ],
+    "subjects": [
+      "receiving next quest"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Red Brands confrontation",
+    "fact": "Confronting the Red Brands at Tresendar Manor and dealing with Glasstaff is a future task.",
+    "source_quote": "Confront the Red Brands at Tresendar Manor and deal with their leader Glasstaff",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "variants": [
+      "Confronting the Red Brands at Tresendar Manor and dealing with Glasstaff is a future task."
+    ],
+    "subjects": [
+      "Red Brands confrontation"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Red Brands killing",
+    "fact": "The Red Brands killed a man named Tell Dendar in broad daylight.",
+    "source_quote": "the Red Brands had killed a man named Tell Dendar in broad daylight",
+    "quote_verified": true,
+    "passes": [
+      "small",
+      "temporal"
+    ],
+    "variants": [
+      "The Red Brands killed a man named Tell Dendar in broad daylight.",
+      "The Red Brands killed Tell Dendar in broad daylight."
+    ],
+    "subjects": [
+      "Red Brands killing",
+      "Tell Dendar murder"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "event",
+    "subject": "Regrouping",
+    "fact": "The party plans to regroup after retreating from the giant snake.",
+    "source_quote": "Regroup with the party after retreating from the giant snake",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "The party plans to regroup after retreating from the giant snake."
+    ],
+    "subjects": [
+      "Regrouping"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "retreat",
+    "fact": "Zenvon retreated silently from the snake to end the session.",
+    "source_quote": "Zenvon retreating silently from the snake",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "Zenvon retreated silently from the snake to end the session."
+    ],
+    "subjects": [
+      "retreat"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "session end",
+    "fact": "Zenvon slowly tiptoed back to the party, ending the session on the cliffhanger.",
+    "source_quote": "Decided to slowly tiptoe back to the party, ending the session on the cliffhanger",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "Zenvon slowly tiptoed back to the party, ending the session on the cliffhanger."
+    ],
+    "subjects": [
+      "session end"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Sister Garaele inquiry",
+    "fact": "Speaking with Sister Garaele through Sister Maela is deferred until after the rescue.",
+    "source_quote": "Speak with Sister Garaele through Sister Maela to learn what happened to her (deferred until after the rescue)",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "sweep"
+    ],
+    "variants": [
+      "Speaking with Sister Garaele through Sister Maela is deferred until after the rescue."
+    ],
+    "subjects": [
+      "Sister Garaele inquiry",
+      "Speaking with Sister Garaele"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "event",
+    "subject": "Sister Garaele's silence",
+    "fact": "Sister Garaele is not speaking about what happened to her.",
+    "source_quote": "is not speaking about what happened",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "Sister Garaele is not speaking about what happened to her."
+    ],
+    "subjects": [
+      "Sister Garaele's silence"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Sister Maela mace hit",
+    "fact": "Sister Maela hit the goblin boss with her mace for 6 points of damage.",
+    "source_quote": "Sister Maela hit the boss with her mace for 6 points of damage",
+    "quote_verified": true,
+    "passes": [
+      "small",
+      "temporal"
+    ],
+    "variants": [
+      "Sister Maela hit the goblin boss with her mace for 6 points of damage."
+    ],
+    "subjects": [
+      "Sister Maela mace hit",
+      "Maela mace damage"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "event",
+    "subject": "snake encounter",
+    "fact": "Zenvon came face-to-face with a giant coiled poisonous snake.",
+    "source_quote": "he came face-to-face with a giant coiled poisonous snake",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "Zenvon came face-to-face with a giant coiled poisonous snake."
+    ],
+    "subjects": [
+      "snake encounter"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "snake encounter status",
+    "fact": "The party has not yet engaged the giant snake.",
+    "source_quote": "the party has not yet engaged it",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "variants": [
+      "The party has not yet engaged the giant snake."
+    ],
+    "subjects": [
+      "snake encounter status"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "snake retreat",
+    "fact": "The party retreated from the giant snake.",
+    "source_quote": "after retreating from the giant snake",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "sweep"
+    ],
+    "variants": [
+      "The party retreated from the giant snake."
+    ],
+    "subjects": [
+      "snake retreat",
+      "retreat from snake"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "event",
+    "subject": "surprise round",
+    "fact": "The goblins were surprised, granting the party a free first round.",
+    "source_quote": "surprised, granting the party a free first round",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "variants": [
+      "The goblins were surprised, granting the party a free first round."
+    ],
+    "subjects": [
+      "surprise round"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "surprise round",
+    "fact": "The party successfully passed stealth checks and achieved a surprise round.",
+    "source_quote": "The party successfully passed stealth checks and achieved a surprise round",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small",
+      "sweep"
+    ],
+    "variants": [
+      "The party successfully passed stealth checks and achieved a surprise round."
+    ],
+    "subjects": [
+      "surprise round",
+      "Surprise ambush"
+    ],
+    "n_samples": 3
+  },
+  {
+    "type": "event",
+    "subject": "trap encounter",
+    "fact": "Two traps were encountered on the trail.",
+    "source_quote": "Two traps were encountered on the trail",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "Two traps were encountered on the trail."
+    ],
+    "subjects": [
+      "trap encounter"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "travel to Goblin Cave",
+    "fact": "The party traveled along the goblin trail toward the cave where Gundren is believed to be held.",
+    "source_quote": "The party traveled along the goblin trail toward the cave where Gundren is believed to be held",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "The party traveled along the goblin trail toward the cave where Gundren is believed to be held."
+    ],
+    "subjects": [
+      "travel to Goblin Cave"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Tuck's offer",
+    "fact": "Tuck offered to show the party where the tunnel is.",
+    "source_quote": "Tuck offered to show the party where the tunnel is",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "variants": [
+      "Tuck offered to show the party where the tunnel is."
+    ],
+    "subjects": [
+      "Tuck's offer"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "tunnel discovery",
+    "fact": "Carp Alderleaf discovered a tunnel leading into the woods.",
+    "source_quote": "Carp Alderleaf had discovered a tunnel leading into the woods",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "variants": [
+      "Carp Alderleaf discovered a tunnel leading into the woods."
+    ],
+    "subjects": [
+      "tunnel discovery"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Veyra firebolt",
+    "fact": "Veyra fired a Firebolt, killing the second goblin with 5 points of damage.",
+    "source_quote": "Veyra fired a Firebolt, killing the second goblin (5 points of damage)",
+    "quote_verified": true,
+    "passes": [
+      "small",
+      "sweep",
+      "temporal"
+    ],
+    "variants": [
+      "Veyra fired a Firebolt, killing the second goblin with 5 points of damage.",
+      "Veyra fired a Firebolt, killing the second goblin for 5 points of damage.",
+      "Veyra's Firebolt killed the second goblin with 5 points of damage."
+    ],
+    "subjects": [
+      "Veyra firebolt",
+      "Veyra's Firebolt",
+      "Veyra damage to second goblin"
+    ],
+    "n_samples": 3
+  },
+  {
+    "type": "event",
+    "subject": "Veyra magic missile",
+    "fact": "Veyra fired a magic missile at the goblin boss, dealing 3 points of damage.",
+    "source_quote": "Veyra fired a magic missile at the goblin boss, dealing 3 points of damage",
+    "quote_verified": true,
+    "passes": [
+      "small",
+      "temporal"
+    ],
+    "variants": [
+      "Veyra fired a magic missile at the goblin boss, dealing 3 points of damage.",
+      "Veyra's magic missile dealt 3 points of damage to the goblin boss."
+    ],
+    "subjects": [
+      "Veyra magic missile",
+      "Veyra damage to goblin boss"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "event",
+    "subject": "Visiting Halia",
+    "fact": "Visiting Halia to investigate her connection to the Red Brands is deferred until after the rescue.",
+    "source_quote": "Visit Halia at the Phandalin Miners Exchange to investigate her connection to the Red Brands (deferred until after the rescue)",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "Visiting Halia to investigate her connection to the Red Brands is deferred until after the rescue."
+    ],
+    "subjects": [
+      "Visiting Halia"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zenvon crossbow shot",
+    "fact": "Zenvon missed with a crossbow shot after rolling a natural 1 in the surprise round.",
+    "source_quote": "Zenvon missed with a crossbow shot (rolled a natural 1) in the surprise round",
+    "quote_verified": true,
+    "passes": [
+      "small",
+      "sweep"
+    ],
+    "variants": [
+      "Zenvon missed with a crossbow shot after rolling a natural 1 in the surprise round.",
+      "Zenvon missed with a crossbow shot in the surprise round."
+    ],
+    "subjects": [
+      "Zenvon crossbow shot",
+      "Zenvon's first attack"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "event",
+    "subject": "Zenvon dagger roll",
+    "fact": "Zenvon's dagger roll totaled 7 against the goblin boss's armor class.",
+    "source_quote": "dagger roll of 7",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "variants": [
+      "Zenvon's dagger roll totaled 7 against the goblin boss's armor class."
+    ],
+    "subjects": [
+      "Zenvon dagger roll"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zenvon dagger strike",
+    "fact": "Zenvon rolled a natural 20 with a dagger, killing one goblin outright in a decisive strike.",
+    "source_quote": "Zenvon rolled a natural 20 with a dagger, killing one goblin outright in a decisive strike",
+    "quote_verified": true,
+    "passes": [
+      "small",
+      "sweep",
+      "temporal"
+    ],
+    "variants": [
+      "Zenvon rolled a natural 20 with a dagger, killing one goblin outright in a decisive strike.",
+      "Zenvon rolled a natural 20 with a dagger, killing one goblin outright.",
+      "Zenvon rolled a natural 20 with a dagger to kill one goblin."
+    ],
+    "subjects": [
+      "Zenvon dagger strike",
+      "Zenvon's critical hit",
+      "Zenvon critical hit"
+    ],
+    "n_samples": 3
+  },
+  {
+    "type": "event",
+    "subject": "Zenvon short sword hit",
+    "fact": "Zenvon hit the goblin boss with a short sword for 9 points of damage.",
+    "source_quote": "hit with a short sword (9 points of damage)",
+    "quote_verified": true,
+    "passes": [
+      "small",
+      "temporal"
+    ],
+    "variants": [
+      "Zenvon hit the goblin boss with a short sword for 9 points of damage."
+    ],
+    "subjects": [
+      "Zenvon short sword hit",
+      "Zenvon short sword damage"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "event",
+    "subject": "Zenvon short sword roll",
+    "fact": "Zenvon's short sword roll totaled 20 against the goblin boss's armor class.",
+    "source_quote": "short sword roll of 20",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "variants": [
+      "Zenvon's short sword roll totaled 20 against the goblin boss's armor class."
+    ],
+    "subjects": [
+      "Zenvon short sword roll"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zenvon's second attack",
+    "fact": "Zenvon hit with a short sword for 9 points of damage.",
+    "source_quote": "hit with a short sword (9 points of damage)",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "Zenvon hit with a short sword for 9 points of damage."
+    ],
+    "subjects": [
+      "Zenvon's second attack"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zenvon stealth roll",
+    "fact": "Zenvon made a stealth roll of 23 to avoid detection by a giant snake.",
+    "source_quote": "stealth roll of 23",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "variants": [
+      "Zenvon made a stealth roll of 23 to avoid detection by a giant snake."
+    ],
+    "subjects": [
+      "Zenvon stealth roll"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zenvon to-hit bonus javelin",
+    "fact": "Without proficiency, Zenvon has a +1 to hit with the javelin.",
+    "source_quote": "+1 to hit with the javelin",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "variants": [
+      "Without proficiency, Zenvon has a +1 to hit with the javelin.",
+      "With proficiency, Zenvon has a +5 to hit with the javelin."
+    ],
+    "subjects": [
+      "Zenvon to-hit bonus javelin",
+      "Zenvon to-hit bonus javelin with proficiency"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "bandits",
+    "fact": "Lenar spoke loudly about bandits as a threat to the roads.",
+    "source_quote": "goblins, bandits, orcs, and the Red Brands",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "Lenar spoke loudly about bandits as a threat to the roads."
+    ],
+    "subjects": [
+      "bandits"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "goblins",
+    "fact": "Lenar spoke loudly about goblins as a threat to the roads.",
+    "source_quote": "goblins, bandits, orcs, and the Red Brands",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "Lenar spoke loudly about goblins as a threat to the roads."
+    ],
+    "subjects": [
+      "goblins"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Netheril",
+    "fact": "Netheril is a magical empire.",
+    "source_quote": "magical empire Netheril",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "Netheril is a magical empire."
+    ],
+    "subjects": [
+      "Netheril"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "orcs",
+    "fact": "Lenar spoke loudly about orcs as a threat to the roads.",
+    "source_quote": "goblins, bandits, orcs, and the Red Brands",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "Lenar spoke loudly about orcs as a threat to the roads."
+    ],
+    "subjects": [
+      "orcs"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Red Brands",
+    "fact": "Daran Edermath estimated between 3 and 10 Red Brands are at Tresendar Manor.",
+    "source_quote": "estimated between 3 and 10 Red Brands at Tresendar Manor",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "Daran Edermath estimated between 3 and 10 Red Brands are at Tresendar Manor."
+    ],
+    "subjects": [
+      "Red Brands"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Red Brands",
+    "fact": "Daran Edermath expressed concern about the Red Brands.",
+    "source_quote": "Daran confirmed concern about the Red Brands",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "Daran Edermath expressed concern about the Red Brands."
+    ],
+    "subjects": [
+      "Red Brands"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Red Brands",
+    "fact": "The Red Brands are a gang identified as a major threat operating out of Tresendar Manor.",
+    "source_quote": "The Red Brands gang was identified as a major threat operating out of Tresendar Manor",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small",
+      "sweep"
+    ],
+    "variants": [
+      "The Red Brands are a gang identified as a major threat operating out of Tresendar Manor.",
+      "The Red Brands gang was identified as a major threat operating out of Tresendar Manor."
+    ],
+    "subjects": [
+      "Red Brands"
+    ],
+    "n_samples": 3
+  },
+  {
+    "type": "faction",
+    "subject": "Red Brands",
+    "fact": "The Red Brands bother everyone in town except Halia.",
+    "source_quote": "the Red Brands bother everyone in town except Halia",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small"
+    ],
+    "variants": [
+      "The Red Brands bother everyone in town except Halia."
+    ],
+    "subjects": [
+      "Red Brands"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "faction",
+    "subject": "Red Brands",
+    "fact": "The Red Brands drink at the Sleeping Giant tap house.",
+    "source_quote": "the Red Brands drink at the Sleeping Giant tap house",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small"
+    ],
+    "variants": [
+      "The Red Brands drink at the Sleeping Giant tap house."
+    ],
+    "subjects": [
+      "Red Brands"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "faction",
+    "subject": "Red Brands",
+    "fact": "The Red Brands gang continues to operate freely in Phandalin.",
+    "source_quote": "The Red Brands gang continues to operate freely in Phandalin",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small",
+      "sweep"
+    ],
+    "variants": [
+      "The Red Brands gang continues to operate freely in Phandalin."
+    ],
+    "subjects": [
+      "Red Brands"
+    ],
+    "n_samples": 3
+  },
+  {
+    "type": "faction",
+    "subject": "Red Brands",
+    "fact": "The Red Brands nearly caught Carp Alderleaf.",
+    "source_quote": "the Red Brands (referred to as \"red cloaks\") had nearly caught him.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "The Red Brands nearly caught Carp Alderleaf."
+    ],
+    "subjects": [
+      "Red Brands"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Red Brands",
+    "fact": "The Red Brands' safehouse is located beneath Tresendar Manor.",
+    "source_quote": "Daran revealed that the Red Brands' safehouse is located beneath Tresendar Manor",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small"
+    ],
+    "variants": [
+      "The Red Brands' safehouse is located beneath Tresendar Manor.",
+      "The Red Brands maintain a safehouse at Tresendar Manor."
+    ],
+    "subjects": [
+      "Red Brands"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "faction",
+    "subject": "Tymora",
+    "fact": "The Shrine of Luck is dedicated to Tymora, the god of good luck and fortune.",
+    "source_quote": "dedicated to Tymora, the god of good luck and fortune",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "The Shrine of Luck is dedicated to Tymora, the god of good luck and fortune."
+    ],
+    "subjects": [
+      "Tymora"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "cave",
+    "fact": "The cave contains a main passage deeper inside that requires darkvision or a light source to navigate.",
+    "source_quote": "A main passage deeper into the cave was identified, but it required either darkvision or a light source to navigate",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small"
+    ],
+    "variants": [
+      "The cave contains a main passage deeper inside that requires darkvision or a light source to navigate.",
+      "A main passage deeper into the cave required either darkvision or a light source to navigate."
+    ],
+    "subjects": [
+      "cave",
+      "Main passage"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "location",
+    "subject": "cave",
+    "fact": "The cave contains a rubble-choked passage.",
+    "source_quote": "scouting toward a rubble-choked passage",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "The cave contains a rubble-choked passage."
+    ],
+    "subjects": [
+      "cave"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Edermath Orchard",
+    "fact": "Daran Edermath is located at Edermath Orchard.",
+    "source_quote": "Daran Edermath at Edermath Orchard",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "sweep"
+    ],
+    "variants": [
+      "Daran Edermath is located at Edermath Orchard."
+    ],
+    "subjects": [
+      "Edermath Orchard"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "location",
+    "subject": "Goblin Cave",
+    "fact": "The Goblin Cave entrance is a hillside cave with a shallow stream and dense briar thickets.",
+    "source_quote": "described as a hillside cave with a shallow stream and dense briar thickets",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "The Goblin Cave entrance is a hillside cave with a shallow stream and dense briar thickets."
+    ],
+    "subjects": [
+      "Goblin Cave"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Goblin Cave",
+    "fact": "The cave entrance is a hillside cave with a shallow stream and dense briar thickets.",
+    "source_quote": "described as a hillside cave with a shallow stream and dense briar thickets",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "variants": [
+      "The cave entrance is a hillside cave with a shallow stream and dense briar thickets."
+    ],
+    "subjects": [
+      "Goblin Cave"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Goblin Cave",
+    "fact": "The party arrived at a hillside cave entrance with a shallow stream and dense briar thickets.",
+    "source_quote": "The party arrived at the cave entrance, described as a hillside cave with a shallow stream and dense briar thickets",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "The party arrived at a hillside cave entrance with a shallow stream and dense briar thickets."
+    ],
+    "subjects": [
+      "Goblin Cave"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "hidden tunnel",
+    "fact": "Carp Alderleaf discovered a hidden tunnel.",
+    "source_quote": "hidden tunnel discovered by Carp Alderleaf",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "sweep"
+    ],
+    "variants": [
+      "Carp Alderleaf discovered a hidden tunnel."
+    ],
+    "subjects": [
+      "hidden tunnel"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "location",
+    "subject": "main passage",
+    "fact": "A main passage deeper into the cave was identified.",
+    "source_quote": "A main passage deeper into the cave was identified",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "A main passage deeper into the cave was identified."
+    ],
+    "subjects": [
+      "main passage"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "main passage",
+    "fact": "The main passage required either darkvision or a light source to navigate.",
+    "source_quote": "required either darkvision or a light source to navigate",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "The main passage required either darkvision or a light source to navigate."
+    ],
+    "subjects": [
+      "main passage"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Old Owl Well",
+    "fact": "Daran Edermath identified Old Owl Well as an ancient watchtower of the magical empire Netheril.",
+    "source_quote": "identified Old Owl Well as an ancient watchtower of the magical empire Netheril",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "Daran Edermath identified Old Owl Well as an ancient watchtower of the magical empire Netheril."
+    ],
+    "subjects": [
+      "Old Owl Well"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Old Owl Well",
+    "fact": "Old Owl Well is a location associated with an undead threat and a reward of boots of striding and springing.",
+    "source_quote": "Investigate Old Owl Well and the undead threat",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "Old Owl Well is a location associated with an undead threat and a reward of boots of striding and springing."
+    ],
+    "subjects": [
+      "Old Owl Well"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Old Owl Well",
+    "fact": "Old Owl Well is a location associated with an undead threat.",
+    "source_quote": "Investigate Old Owl Well and the undead threat",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "sweep"
+    ],
+    "variants": [
+      "Old Owl Well is a location associated with an undead threat.",
+      "Old Owl Well has an undead threat."
+    ],
+    "subjects": [
+      "Old Owl Well"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "location",
+    "subject": "Old Owl Well",
+    "fact": "Old Owl Well is an ancient watchtower of the magical empire Netheril.",
+    "source_quote": "He identified Old Owl Well as an ancient watchtower of the magical empire Netheril",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small"
+    ],
+    "variants": [
+      "Old Owl Well is an ancient watchtower of the magical empire Netheril."
+    ],
+    "subjects": [
+      "Old Owl Well"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "location",
+    "subject": "Old Owl Well",
+    "fact": "Prospectors in the hills northwest of Phandalin have been chased from Old Owl Well by undead creatures.",
+    "source_quote": "prospectors in the hills northwest of Phandalin have been chased from the ruins known as Old Owl Well by undead creatures",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "Prospectors in the hills northwest of Phandalin have been chased from Old Owl Well by undead creatures."
+    ],
+    "subjects": [
+      "Old Owl Well"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Phandalin",
+    "fact": "The session is set in the town of Phandalin.",
+    "source_quote": "set in the town of Phandalin",
+    "quote_verified": true,
+    "passes": [
+      "small",
+      "sweep"
+    ],
+    "variants": [
+      "The session is set in the town of Phandalin."
+    ],
+    "subjects": [
+      "Phandalin"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "location",
+    "subject": "Phandalin",
+    "fact": "The session took place in the town of Phandalin.",
+    "source_quote": "set in the town of Phandalin",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "variants": [
+      "The session took place in the town of Phandalin."
+    ],
+    "subjects": [
+      "Phandalin"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Phandalin Miners Exchange",
+    "fact": "Halia is located at the Phandalin Miners Exchange.",
+    "source_quote": "Halia at the Phandalin Miners Exchange",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "Halia is located at the Phandalin Miners Exchange."
+    ],
+    "subjects": [
+      "Phandalin Miners Exchange"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Phandalin Miners Exchange",
+    "fact": "The Phandalin Miners Exchange is where Halia works.",
+    "source_quote": "Halia works at the Phandalin Miners Exchange",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "The Phandalin Miners Exchange is where Halia works."
+    ],
+    "subjects": [
+      "Phandalin Miners Exchange"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Pip snare height",
+    "fact": "Pip was suspended 10 feet above the ground after failing a saving throw against a snare.",
+    "source_quote": "suspended 10 feet above the ground",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "variants": [
+      "Pip was suspended 10 feet above the ground after failing a saving throw against a snare."
+    ],
+    "subjects": [
+      "Pip snare height"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Shrine of Luck",
+    "fact": "An acolyte at the Shrine of Luck is waiting to give a quest after Gundren is rescued.",
+    "source_quote": "Return to the Shrine of Luck acolyte after rescuing Gundren",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "An acolyte at the Shrine of Luck is waiting to give a quest after Gundren is rescued."
+    ],
+    "subjects": [
+      "Shrine of Luck"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Shrine of Luck",
+    "fact": "The Shrine of Luck is Phandalin's only temple and is dedicated to Tymora.",
+    "source_quote": "Phandalin's only temple, the Shrine of Luck, dedicated to Tymora",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "variants": [
+      "The Shrine of Luck is Phandalin's only temple and is dedicated to Tymora."
+    ],
+    "subjects": [
+      "Shrine of Luck"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Shrine of Luck",
+    "fact": "The Shrine of Luck is Phandalin's only temple.",
+    "source_quote": "Phandalin's only temple, the Shrine of Luck",
+    "quote_verified": true,
+    "passes": [
+      "small",
+      "sweep"
+    ],
+    "variants": [
+      "The Shrine of Luck is Phandalin's only temple."
+    ],
+    "subjects": [
+      "Shrine of Luck"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "location",
+    "subject": "Shrine of Luck",
+    "fact": "The party is to return to the Shrine of Luck acolyte after rescuing Gundren to receive the next quest.",
+    "source_quote": "Return to the Shrine of Luck acolyte after rescuing Gundren to receive the next quest",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "sweep"
+    ],
+    "variants": [
+      "The party is to return to the Shrine of Luck acolyte after rescuing Gundren to receive the next quest.",
+      "The party plans to return to the Shrine of Luck acolyte after rescuing Gundren."
+    ],
+    "subjects": [
+      "Shrine of Luck"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "location",
+    "subject": "Sleeping Giant",
+    "fact": "The Sleeping Giant is a tap house located on Phandalin's Main Street where the Red Brands drink.",
+    "source_quote": "Red Brands drink at the Sleeping Giant tap house, located on Phandalin's Main Street",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "The Sleeping Giant is a tap house located on Phandalin's Main Street where the Red Brands drink."
+    ],
+    "subjects": [
+      "Sleeping Giant"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Sleeping Giant",
+    "fact": "The Sleeping Giant tap house is located on Phandalin's Main Street.",
+    "source_quote": "located on Phandalin's Main Street",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small",
+      "temporal"
+    ],
+    "variants": [
+      "The Sleeping Giant tap house is located on Phandalin's Main Street."
+    ],
+    "subjects": [
+      "Sleeping Giant",
+      "Sleeping Giant tap house",
+      "Sleeping Giant location"
+    ],
+    "n_samples": 3
+  },
+  {
+    "type": "location",
+    "subject": "Stonehill Tavern",
+    "fact": "The party gathered critical intelligence at the Stonehill Tavern.",
+    "source_quote": "The party gathered critical intelligence at the Stonehill Tavern",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small",
+      "sweep"
+    ],
+    "variants": [
+      "The party gathered critical intelligence at the Stonehill Tavern.",
+      "The party gathered intelligence at the Stonehill Tavern."
+    ],
+    "subjects": [
+      "Stonehill Tavern"
+    ],
+    "n_samples": 3
+  },
+  {
+    "type": "location",
+    "subject": "Tresendar Manor",
+    "fact": "Daran Edermath revealed that the Red Brands' safehouse is located beneath Tresendar Manor.",
+    "source_quote": "the Red Brands' safehouse is located beneath Tresendar Manor",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "Daran Edermath revealed that the Red Brands' safehouse is located beneath Tresendar Manor."
+    ],
+    "subjects": [
+      "Tresendar Manor"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Tresendar Manor",
+    "fact": "The Red Brands' safehouse is located beneath Tresendar Manor.",
+    "source_quote": "the Red Brands' safehouse is located beneath Tresendar Manor",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "sweep"
+    ],
+    "variants": [
+      "The Red Brands' safehouse is located beneath Tresendar Manor.",
+      "The Red Brands maintain a safehouse at Tresendar Manor.",
+      "Tresendar Manor serves as the Red Brands' safehouse."
+    ],
+    "subjects": [
+      "Tresendar Manor"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "location",
+    "subject": "Tresendar Manor",
+    "fact": "Tresendar Manor is a rundown building past the Sleeping Giant.",
+    "source_quote": "Tresendar Manor, a rundown building past the Sleeping Giant",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small",
+      "sweep"
+    ],
+    "variants": [
+      "Tresendar Manor is a rundown building past the Sleeping Giant."
+    ],
+    "subjects": [
+      "Tresendar Manor"
+    ],
+    "n_samples": 3
+  },
+  {
+    "type": "location",
+    "subject": "Tresendar Manor",
+    "fact": "Tresendar Manor is the location where the Red Brands operate.",
+    "source_quote": "their safehouse at Tresendar Manor",
+    "quote_verified": true,
+    "passes": [
+      "small",
+      "sweep"
+    ],
+    "variants": [
+      "Tresendar Manor is the location where the Red Brands operate.",
+      "Tresendar Manor serves as the safehouse for the Red Brands."
+    ],
+    "subjects": [
+      "Tresendar Manor"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "monster",
+    "subject": "giant poisonous snake",
+    "fact": "A giant coiled poisonous snake was discovered blocking a passage inside the cave.",
+    "source_quote": "A giant snake was discovered blocking a passage inside the cave",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small",
+      "sweep"
+    ],
+    "variants": [
+      "A giant coiled poisonous snake was discovered blocking a passage inside the cave.",
+      "A giant poisonous snake was discovered blocking a passage inside the cave.",
+      "A giant snake was discovered blocking a passage inside the cave."
+    ],
+    "subjects": [
+      "giant poisonous snake"
+    ],
+    "n_samples": 3
+  },
+  {
+    "type": "monster",
+    "subject": "giant poisonous snake",
+    "fact": "Zenvon came face-to-face with a giant poisonous snake inside the cave.",
+    "source_quote": "Zenvon coming face-to-face with a giant poisonous snake inside the cave",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small",
+      "sweep",
+      "temporal"
+    ],
+    "variants": [
+      "Zenvon came face-to-face with a giant poisonous snake inside the cave.",
+      "A giant poisonous snake was encountered by Zenvon inside the cave.",
+      "Zenvon came face-to-face with a giant coiled poisonous snake."
+    ],
+    "subjects": [
+      "giant poisonous snake",
+      "Giant poisonous snake",
+      "giant coiled poisonous snake",
+      "snake count"
+    ],
+    "n_samples": 4
+  },
+  {
+    "type": "monster",
+    "subject": "Goblin boss",
+    "fact": "The goblin boss attacked Pip twice with a scimitar and missed both times.",
+    "source_quote": "The goblin boss attacked Pip twice with a scimitar and missed both times",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "sweep"
+    ],
+    "variants": [
+      "The goblin boss attacked Pip twice with a scimitar and missed both times."
+    ],
+    "subjects": [
+      "Goblin boss",
+      "goblin boss"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "monster",
+    "subject": "Goblin boss",
+    "fact": "The goblin boss charged Pip and missed.",
+    "source_quote": "The goblin boss charged Pip and missed",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "sweep"
+    ],
+    "variants": [
+      "The goblin boss charged Pip and missed."
+    ],
+    "subjects": [
+      "Goblin boss",
+      "goblin boss"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "monster",
+    "subject": "goblin boss",
+    "fact": "The party defeated a goblin boss outside a cave.",
+    "source_quote": "defeated two goblins and a goblin boss",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "The party defeated a goblin boss outside a cave."
+    ],
+    "subjects": [
+      "goblin boss"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "goblin combatants",
+    "fact": "The party engaged two goblins and one goblin boss in combat.",
+    "source_quote": "two goblins and one goblin boss",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "variants": [
+      "The party engaged two goblins and one goblin boss in combat."
+    ],
+    "subjects": [
+      "goblin combatants"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Goblin lookout",
+    "fact": "The guards were bored and inattentive.",
+    "source_quote": "The guards were bored and inattentive",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "variants": [
+      "The guards were bored and inattentive."
+    ],
+    "subjects": [
+      "Goblin lookout"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "goblins",
+    "fact": "The goblin guards were bored and inattentive.",
+    "source_quote": "The guards were bored and inattentive",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "The goblin guards were bored and inattentive."
+    ],
+    "subjects": [
+      "goblins"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "goblins",
+    "fact": "The party ambushed and defeated two goblins outside a cave.",
+    "source_quote": "ambushed and defeated two goblins",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "The party ambushed and defeated two goblins outside a cave."
+    ],
+    "subjects": [
+      "goblins"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "goblins",
+    "fact": "Two goblins and a goblin boss were defeated outside a cave.",
+    "source_quote": "defeated two goblins and a goblin boss outside a cave",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "Two goblins and a goblin boss were defeated outside a cave.",
+      "A goblin boss was defeated outside a cave."
+    ],
+    "subjects": [
+      "goblins",
+      "goblin boss"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "goblins",
+    "fact": "Zenvon spotted two goblins and one goblin boss in a hollowed-out lookout post within the briar thickets.",
+    "source_quote": "Zenvon spotted two goblins and one goblin boss in a hollowed-out lookout post within the briar thickets",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small",
+      "sweep",
+      "temporal"
+    ],
+    "variants": [
+      "Zenvon spotted two goblins and one goblin boss in a hollowed-out lookout post within the briar thickets.",
+      "Zenvon spotted one goblin boss in a hollowed-out lookout post within the briar thickets.",
+      "Zenvon spotted two goblins in a hollowed-out lookout post within the briar thickets.",
+      "Zenvon spotted two goblins and one goblin boss in a lookout post."
+    ],
+    "subjects": [
+      "goblins",
+      "Goblin lookout",
+      "goblin boss",
+      "goblin lookout count"
+    ],
+    "n_samples": 4
+  },
+  {
+    "type": "monster",
+    "subject": "Red Brands estimated count",
+    "fact": "Daran estimated between 3 and 10 Red Brands are at Tresendar Manor.",
+    "source_quote": "between 3 and 10 Red Brands",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "variants": [
+      "Daran estimated between 3 and 10 Red Brands are at Tresendar Manor."
+    ],
+    "subjects": [
+      "Red Brands estimated count"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "wolf count",
+    "fact": "Zenvon spotted three wolves chained in the cave.",
+    "source_quote": "three wolves",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "variants": [
+      "Zenvon spotted three wolves chained in the cave."
+    ],
+    "subjects": [
+      "wolf count"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "wolves",
+    "fact": "Three wolves were spotted chained inside the cave.",
+    "source_quote": "Three wolves were spotted chained inside the cave",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small",
+      "sweep"
+    ],
+    "variants": [
+      "Three wolves were spotted chained inside the cave.",
+      "Three wolves are chained inside the cave."
+    ],
+    "subjects": [
+      "wolves"
+    ],
+    "n_samples": 3
+  },
+  {
+    "type": "npc",
+    "subject": "Carp Alderleaf",
+    "fact": "Carp Alderleaf discovered a tunnel leading into the woods.",
+    "source_quote": "his friend Carp Alderleaf had discovered a tunnel leading into the woods",
+    "quote_verified": true,
+    "passes": [
+      "small",
+      "sweep"
+    ],
+    "variants": [
+      "Carp Alderleaf discovered a tunnel leading into the woods.",
+      "Carp Alderleaf discovered a hidden tunnel."
+    ],
+    "subjects": [
+      "Carp Alderleaf"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "npc",
+    "subject": "Carp Alderleaf",
+    "fact": "Carp Alderleaf is Tuck's friend who discovered a tunnel leading into the woods.",
+    "source_quote": "friend Carp Alderleaf had discovered a tunnel leading into the woods",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "Carp Alderleaf is Tuck's friend who discovered a tunnel leading into the woods."
+    ],
+    "subjects": [
+      "Carp Alderleaf"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Carp Alderleaf",
+    "fact": "Carp Alderleaf is a friend of Tuck.",
+    "source_quote": "his friend Carp Alderleaf",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "variants": [
+      "Carp Alderleaf is a friend of Tuck."
+    ],
+    "subjects": [
+      "Carp Alderleaf"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Carp Alderleaf",
+    "fact": "Carp Alderleaf's mother forbade him from going near the tunnel.",
+    "source_quote": "Carp's mother forbade him from going near it",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "Carp Alderleaf's mother forbade him from going near the tunnel."
+    ],
+    "subjects": [
+      "Carp Alderleaf"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Carp's mother",
+    "fact": "Carp's mother forbade Carp from going near the tunnel.",
+    "source_quote": "Carp's mother forbade him from going near it",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "Carp's mother forbade Carp from going near the tunnel."
+    ],
+    "subjects": [
+      "Carp's mother"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Daran Edermath",
+    "fact": "Daran Edermath confirmed concern about the Red Brands and stated that someone needs to confront their leader, Glasstaff.",
+    "source_quote": "Daran confirmed concern about the Red Brands and stated that someone needs to confront their leader, Glasstaff.",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small"
+    ],
+    "variants": [
+      "Daran Edermath confirmed concern about the Red Brands and stated that someone needs to confront their leader, Glasstaff.",
+      "Daran Edermath stated that someone needs to confront the Red Brands' leader, Glasstaff."
+    ],
+    "subjects": [
+      "Daran Edermath",
+      "Glasstaff"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "npc",
+    "subject": "Daran Edermath",
+    "fact": "Daran Edermath confirmed concern about the Red Brands.",
+    "source_quote": "Daran confirmed concern about the Red Brands",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "Daran Edermath confirmed concern about the Red Brands."
+    ],
+    "subjects": [
+      "Daran Edermath"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Daran Edermath",
+    "fact": "Daran Edermath estimated between 3 and 10 Red Brands are at Tresendar Manor.",
+    "source_quote": "Daran estimated between 3 and 10 Red Brands at Tresendar Manor",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small"
+    ],
+    "variants": [
+      "Daran Edermath estimated between 3 and 10 Red Brands are at Tresendar Manor.",
+      "Daran Edermath estimated between 3 and 10 Red Brands at Tresendar Manor."
+    ],
+    "subjects": [
+      "Daran Edermath"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "npc",
+    "subject": "Daran Edermath",
+    "fact": "Daran Edermath expressed concern about dangerous magic at Old Owl Well.",
+    "source_quote": "expressed concern about dangerous magic there",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "Daran Edermath expressed concern about dangerous magic at Old Owl Well."
+    ],
+    "subjects": [
+      "Daran Edermath"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Daran Edermath",
+    "fact": "Daran Edermath expressed enthusiasm upon meeting the party and praised Pip's dedication to doing good.",
+    "source_quote": "Daran expressed enthusiasm upon meeting the party and praised Pip's dedication to doing good.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "variants": [
+      "Daran Edermath expressed enthusiasm upon meeting the party and praised Pip's dedication to doing good."
+    ],
+    "subjects": [
+      "Daran Edermath"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Daran Edermath",
+    "fact": "Daran Edermath expressed enthusiasm upon meeting the party.",
+    "source_quote": "Daran expressed enthusiasm upon meeting the party",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "Daran Edermath expressed enthusiasm upon meeting the party."
+    ],
+    "subjects": [
+      "Daran Edermath"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Daran Edermath",
+    "fact": "Daran Edermath formerly served as a marshal and herald on the Dragon Coast.",
+    "source_quote": "who formerly served as a marshal and herald on the Dragon Coast",
+    "quote_verified": true,
+    "passes": [
+      "small",
+      "sweep"
+    ],
+    "variants": [
+      "Daran Edermath formerly served as a marshal and herald on the Dragon Coast."
+    ],
+    "subjects": [
+      "Daran Edermath"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "npc",
+    "subject": "Daran Edermath",
+    "fact": "Daran Edermath is a retired drow adventurer over 500 years old who formerly served as a marshal and herald on the Dragon Coast.",
+    "source_quote": "The party visited Daran Edermath, a retired drow adventurer over 500 years old who formerly served as a marshal and herald on the Dragon Coast.",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small",
+      "sweep",
+      "temporal"
+    ],
+    "variants": [
+      "Daran Edermath is a retired drow adventurer over 500 years old who formerly served as a marshal and herald on the Dragon Coast.",
+      "Daran Edermath is a retired drow adventurer over 500 years old."
+    ],
+    "subjects": [
+      "Daran Edermath",
+      "Daran Edermath age"
+    ],
+    "n_samples": 4
+  },
+  {
+    "type": "npc",
+    "subject": "Daran Edermath",
+    "fact": "Daran Edermath is the orchard keeper and a retired adventurer.",
+    "source_quote": "Daran Edermath, the orchard keeper and retired adventurer",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "variants": [
+      "Daran Edermath is the orchard keeper and a retired adventurer."
+    ],
+    "subjects": [
+      "Daran Edermath"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Daran Edermath",
+    "fact": "Daran Edermath is the orchard keeper and retired adventurer recommended by Elsa.",
+    "source_quote": "Daran Edermath, the orchard keeper and retired adventurer",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "Daran Edermath is the orchard keeper and retired adventurer recommended by Elsa."
+    ],
+    "subjects": [
+      "Daran Edermath"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Daran Edermath",
+    "fact": "Daran Edermath is the source of the boots of striding and springing.",
+    "source_quote": "earn the boots of striding and springing from Daran Edermath",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "Daran Edermath is the source of the boots of striding and springing."
+    ],
+    "subjects": [
+      "Daran Edermath"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Daran Edermath",
+    "fact": "Daran Edermath mentioned prospectors in the hills northwest of Phandalin have been chased from Old Owl Well by undead creatures.",
+    "source_quote": "prospectors in the hills northwest of Phandalin have been chased from the ruins known as Old Owl Well by undead creatures",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "Daran Edermath mentioned prospectors in the hills northwest of Phandalin have been chased from Old Owl Well by undead creatures."
+    ],
+    "subjects": [
+      "Daran Edermath"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Daran Edermath",
+    "fact": "Daran Edermath offered boots of striding and springing as a reward for investigating Old Owl Well.",
+    "source_quote": "Daran offered boots of striding and springing as a reward for investigating Old Owl Well",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "variants": [
+      "Daran Edermath offered boots of striding and springing as a reward for investigating Old Owl Well."
+    ],
+    "subjects": [
+      "Daran Edermath"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Daran Edermath",
+    "fact": "Daran Edermath offers boots of striding and springing for investigating Old Owl Well and the undead threat.",
+    "source_quote": "earn the boots of striding and springing from Daran Edermath",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small"
+    ],
+    "variants": [
+      "Daran Edermath offers boots of striding and springing for investigating Old Owl Well and the undead threat.",
+      "Daran Edermath offers boots of striding and springing for investigating Old Owl Well."
+    ],
+    "subjects": [
+      "Daran Edermath"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "npc",
+    "subject": "Daran Edermath",
+    "fact": "Daran Edermath praised Pip's dedication to doing good.",
+    "source_quote": "praised Pip's dedication to doing good",
+    "quote_verified": true,
+    "passes": [
+      "small",
+      "sweep"
+    ],
+    "variants": [
+      "Daran Edermath praised Pip's dedication to doing good."
+    ],
+    "subjects": [
+      "Daran Edermath",
+      "Pip"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "npc",
+    "subject": "Daran Edermath",
+    "fact": "Daran Edermath urged the party to prioritize rescuing Gundren before pursuing side quests.",
+    "source_quote": "Daran urged the party to prioritize rescuing Gundren before pursuing side quests",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small",
+      "sweep"
+    ],
+    "variants": [
+      "Daran Edermath urged the party to prioritize rescuing Gundren before pursuing side quests."
+    ],
+    "subjects": [
+      "Daran Edermath",
+      "Gundren"
+    ],
+    "n_samples": 3
+  },
+  {
+    "type": "npc",
+    "subject": "Daran Edermath",
+    "fact": "Daran believes someone needs to confront the leader of the Red Brands, Glasstaff.",
+    "source_quote": "stated that someone needs to confront their leader, Glasstaff",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "variants": [
+      "Daran believes someone needs to confront the leader of the Red Brands, Glasstaff."
+    ],
+    "subjects": [
+      "Daran Edermath"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Daran Edermath",
+    "fact": "Daran expressed concern about dangerous magic at Old Owl Well.",
+    "source_quote": "expressed concern about dangerous magic there",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "variants": [
+      "Daran expressed concern about dangerous magic at Old Owl Well."
+    ],
+    "subjects": [
+      "Daran Edermath"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Daran Edermath",
+    "fact": "Daran expressed concern about the Red Brands.",
+    "source_quote": "Daran confirmed concern about the Red Brands",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "variants": [
+      "Daran expressed concern about the Red Brands."
+    ],
+    "subjects": [
+      "Daran Edermath"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Daran Edermath",
+    "fact": "Daran expressed enthusiasm upon meeting the party.",
+    "source_quote": "Daran expressed enthusiasm upon meeting the party",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "variants": [
+      "Daran expressed enthusiasm upon meeting the party."
+    ],
+    "subjects": [
+      "Daran Edermath"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Daran Edermath",
+    "fact": "Daran praised Pip's dedication to doing good.",
+    "source_quote": "praised Pip's dedication to doing good",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "variants": [
+      "Daran praised Pip's dedication to doing good."
+    ],
+    "subjects": [
+      "Daran Edermath"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Daran Edermath",
+    "fact": "Daran urged the party to prioritize rescuing Gundren before pursuing side quests.",
+    "source_quote": "Daran urged the party to prioritize rescuing Gundren before pursuing side quests",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "variants": [
+      "Daran urged the party to prioritize rescuing Gundren before pursuing side quests."
+    ],
+    "subjects": [
+      "Daran Edermath"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "elf acolyte",
+    "fact": "The Shrine of Luck is tended by a zealous young elf acolyte.",
+    "source_quote": "tended by a zealous young elf acolyte",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "The Shrine of Luck is tended by a zealous young elf acolyte."
+    ],
+    "subjects": [
+      "elf acolyte"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "elf acolyte",
+    "fact": "The elf acolyte blessed the party.",
+    "source_quote": "The acolyte blessed the party",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "The elf acolyte blessed the party."
+    ],
+    "subjects": [
+      "elf acolyte"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "elf acolyte",
+    "fact": "The elf acolyte indicated she had another quest for the party upon their return.",
+    "source_quote": "indicated she had another quest for them upon their return",
+    "quote_verified": true,
+    "passes": [
+      "small",
+      "sweep"
+    ],
+    "variants": [
+      "The elf acolyte indicated she had another quest for the party upon their return."
+    ],
+    "subjects": [
+      "elf acolyte"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "npc",
+    "subject": "elf acolyte",
+    "fact": "The elf acolyte recognized the party as those searching for Gundren.",
+    "source_quote": "recognized the party as those searching for Gundren",
+    "quote_verified": true,
+    "passes": [
+      "small",
+      "sweep"
+    ],
+    "variants": [
+      "The elf acolyte recognized the party as those searching for Gundren."
+    ],
+    "subjects": [
+      "elf acolyte"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "npc",
+    "subject": "elf acolyte",
+    "fact": "The elf acolyte would not assign the quest until Gundren's situation was resolved.",
+    "source_quote": "would not assign it until Gundren's situation was resolved",
+    "quote_verified": true,
+    "passes": [
+      "small",
+      "sweep"
+    ],
+    "variants": [
+      "The elf acolyte would not assign the quest until Gundren's situation was resolved.",
+      "The elf acolyte would not assign her quest until Gundren's situation was resolved."
+    ],
+    "subjects": [
+      "elf acolyte",
+      "Gundren"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "npc",
+    "subject": "elf acolyte",
+    "fact": "The shrine is tended by a zealous young elf acolyte.",
+    "source_quote": "tended by a zealous young elf acolyte",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small"
+    ],
+    "variants": [
+      "The shrine is tended by a zealous young elf acolyte."
+    ],
+    "subjects": [
+      "elf acolyte",
+      "Shrine of Luck acolyte"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "npc",
+    "subject": "Elsa",
+    "fact": "Elsa is a sharp-eyed dwarf bartender at the Stonehill Tavern.",
+    "source_quote": "Elsa, a sharp-eyed dwarf bartender at the Stonehill Tavern",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small",
+      "sweep"
+    ],
+    "variants": [
+      "Elsa is a sharp-eyed dwarf bartender at the Stonehill Tavern."
+    ],
+    "subjects": [
+      "Elsa"
+    ],
+    "n_samples": 3
+  },
+  {
+    "type": "npc",
+    "subject": "Elsa",
+    "fact": "Elsa mentioned her sister is a scholar in Neverwinter and is the pride of the family.",
+    "source_quote": "Elsa mentioned her sister is a scholar in Neverwinter and is the pride of the family.",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small",
+      "sweep"
+    ],
+    "variants": [
+      "Elsa mentioned her sister is a scholar in Neverwinter and is the pride of the family.",
+      "Elsa's sister is a scholar in Neverwinter and is the pride of the family.",
+      "Elsa's sister is a scholar in Neverwinter."
+    ],
+    "subjects": [
+      "Elsa",
+      "Elsa's sister"
+    ],
+    "n_samples": 3
+  },
+  {
+    "type": "npc",
+    "subject": "Elsa",
+    "fact": "Elsa recommended speaking with Daran Edermath, the orchard keeper and retired adventurer, for more information about the area.",
+    "source_quote": "Elsa recommended speaking with Daran Edermath, the orchard keeper and retired adventurer, for more information about the area.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "Elsa recommended speaking with Daran Edermath, the orchard keeper and retired adventurer, for more information about the area."
+    ],
+    "subjects": [
+      "Elsa"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Freda",
+    "fact": "Freda appeared nervous and quietly angry.",
+    "source_quote": "Freda appeared nervous and quietly angry.",
+    "quote_verified": true,
+    "passes": [
+      "interiority",
+      "small"
+    ],
+    "variants": [
+      "Freda appeared nervous and quietly angry.",
+      "Freda appeared nervous."
+    ],
+    "subjects": [
+      "Freda"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "npc",
+    "subject": "Freda",
+    "fact": "Freda appeared quietly angry.",
+    "source_quote": "Freda appeared nervous and quietly angry",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "variants": [
+      "Freda appeared quietly angry."
+    ],
+    "subjects": [
+      "Freda"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Freda",
+    "fact": "Freda did not want her neighbors hurt.",
+    "source_quote": "but did not want her neighbors hurt",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "variants": [
+      "Freda did not want her neighbors hurt."
+    ],
+    "subjects": [
+      "Freda"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Freda",
+    "fact": "Freda expressed that she wanted the Red Brands gone but did not want her neighbors hurt.",
+    "source_quote": "Freda expressed that she wanted the Red Brands gone but did not want her neighbors hurt",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "Freda expressed that she wanted the Red Brands gone but did not want her neighbors hurt."
+    ],
+    "subjects": [
+      "Freda"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Freda",
+    "fact": "Freda is a slight gnomish woman with silver-streaked hair and round spectacles.",
+    "source_quote": "Freda, a slight gnomish woman with silver-streaked hair and round spectacles.",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small",
+      "sweep"
+    ],
+    "variants": [
+      "Freda is a slight gnomish woman with silver-streaked hair and round spectacles."
+    ],
+    "subjects": [
+      "Freda"
+    ],
+    "n_samples": 3
+  },
+  {
+    "type": "npc",
+    "subject": "Freda",
+    "fact": "Freda knew who was behind Gundren's disappearance.",
+    "source_quote": "She stated she knew who was behind Gundren's disappearance",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "variants": [
+      "Freda knew who was behind Gundren's disappearance."
+    ],
+    "subjects": [
+      "Freda"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Freda",
+    "fact": "Freda stated she knew who was behind Gundren's disappearance — the Red Brands gang.",
+    "source_quote": "She stated she knew who was behind Gundren's disappearance — the Red Brands gang.",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small"
+    ],
+    "variants": [
+      "Freda stated she knew who was behind Gundren's disappearance — the Red Brands gang.",
+      "Freda stated she knew the Red Brands were behind Gundren's disappearance."
+    ],
+    "subjects": [
+      "Freda"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "npc",
+    "subject": "Freda",
+    "fact": "Freda suggested that anyone wanting to uncover who is behind the criminal activity should start at the Phandalin Miners Exchange.",
+    "source_quote": "anyone wanting to uncover who is behind the criminal activity should start there.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "Freda suggested that anyone wanting to uncover who is behind the criminal activity should start at the Phandalin Miners Exchange."
+    ],
+    "subjects": [
+      "Freda"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Freda",
+    "fact": "Freda suspected the townspeople feared or owed Halia.",
+    "source_quote": "raising suspicion about whether they fear her, owe her, or both",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "variants": [
+      "Freda suspected the townspeople feared or owed Halia."
+    ],
+    "subjects": [
+      "Freda"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Freda",
+    "fact": "Freda wanted the Red Brands gone.",
+    "source_quote": "Freda expressed that she wanted the Red Brands gone",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "variants": [
+      "Freda wanted the Red Brands gone."
+    ],
+    "subjects": [
+      "Freda"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Glasstaff",
+    "fact": "Glasstaff is the leader of the Red Brands and has not yet been confronted.",
+    "source_quote": "their leader Glasstaff not yet confronted",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "Glasstaff is the leader of the Red Brands and has not yet been confronted."
+    ],
+    "subjects": [
+      "Glasstaff"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Glasstaff",
+    "fact": "Glasstaff is the leader of the Red Brands gang.",
+    "source_quote": "their leader Glasstaff not yet confronted",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small",
+      "sweep"
+    ],
+    "variants": [
+      "Glasstaff is the leader of the Red Brands gang.",
+      "Glasstaff is the leader of the Red Brands."
+    ],
+    "subjects": [
+      "Glasstaff"
+    ],
+    "n_samples": 3
+  },
+  {
+    "type": "npc",
+    "subject": "goblin boss",
+    "fact": "The goblin boss had an armor class of 17.",
+    "source_quote": "The goblin boss had an armor class of 17",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "The goblin boss had an armor class of 17."
+    ],
+    "subjects": [
+      "goblin boss"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Gundren",
+    "fact": "Gundren is currently being held captive by goblins.",
+    "source_quote": "the cave where Gundren is believed to be held",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "variants": [
+      "Gundren is currently being held captive by goblins."
+    ],
+    "subjects": [
+      "Gundren"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Gundren",
+    "fact": "Gundren is currently held by captors who may kill him if they stop extracting information.",
+    "source_quote": "Gundren's captors will eventually stop trying to extract information from him and may kill him",
+    "quote_verified": true,
+    "passes": [
+      "small",
+      "sweep"
+    ],
+    "variants": [
+      "Gundren is currently held by captors who may kill him if they stop extracting information.",
+      "Gundren is currently a captive whose captors are extracting information from him."
+    ],
+    "subjects": [
+      "Gundren"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "npc",
+    "subject": "Gundren",
+    "fact": "Gundren is the patron who had been captured.",
+    "source_quote": "rescuing their patron, Gundren, who had been captured",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small",
+      "sweep"
+    ],
+    "variants": [
+      "Gundren is the patron who had been captured.",
+      "Gundren is a patron who has been captured.",
+      "Gundren is a patron who was captured."
+    ],
+    "subjects": [
+      "Gundren"
+    ],
+    "n_samples": 3
+  },
+  {
+    "type": "npc",
+    "subject": "Gundren",
+    "fact": "Gundren's captors are extracting information from him.",
+    "source_quote": "his captors are extracting information from him",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "sweep"
+    ],
+    "variants": [
+      "Gundren's captors are extracting information from him."
+    ],
+    "subjects": [
+      "Gundren"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "npc",
+    "subject": "Gundren",
+    "fact": "Gundren's captors may decide to kill him once they have the information they need.",
+    "source_quote": "may decide to kill him once they have what they need",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "sweep"
+    ],
+    "variants": [
+      "Gundren's captors may decide to kill him once they have the information they need."
+    ],
+    "subjects": [
+      "Gundren"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "npc",
+    "subject": "Gundren",
+    "fact": "The party was planning to rest before rescuing Gundren.",
+    "source_quote": "planning to rest before rescuing their patron, Gundren",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "The party was planning to rest before rescuing Gundren."
+    ],
+    "subjects": [
+      "Gundren"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Halflings",
+    "fact": "Halflings do not have darkvision.",
+    "source_quote": "Halflings do not have darkvision",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "Halflings do not have darkvision."
+    ],
+    "subjects": [
+      "Halflings"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Halia",
+    "fact": "Halia works at the Phandalin Miners Exchange and has an unclear relationship with the Red Brands.",
+    "source_quote": "Halia at the Phandalin Miners Exchange has not been visited, and her relationship with the Red Brands is unclear",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "Halia works at the Phandalin Miners Exchange and has an unclear relationship with the Red Brands."
+    ],
+    "subjects": [
+      "Halia"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Halia",
+    "fact": "Halia works at the Phandalin Miners Exchange and is suspected of having a connection to the Red Brands.",
+    "source_quote": "Halia works at the Phandalin Miners Exchange and suggested that anyone wanting to uncover who is behind the criminal activity should start there",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "Halia works at the Phandalin Miners Exchange and is suspected of having a connection to the Red Brands."
+    ],
+    "subjects": [
+      "Halia"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Halia",
+    "fact": "Halia works at the Phandalin Miners Exchange.",
+    "source_quote": "Halia works at the Phandalin Miners Exchange",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small",
+      "sweep"
+    ],
+    "variants": [
+      "Halia works at the Phandalin Miners Exchange."
+    ],
+    "subjects": [
+      "Halia"
+    ],
+    "n_samples": 3
+  },
+  {
+    "type": "npc",
+    "subject": "Harbin Wester",
+    "fact": "Harbin Wester is the town master of Phandalin.",
+    "source_quote": "Harbin Wester as the useless town master",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small"
+    ],
+    "variants": [
+      "Harbin Wester is the town master of Phandalin."
+    ],
+    "subjects": [
+      "Harbin Wester"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "npc",
+    "subject": "Harbin Wester",
+    "fact": "Harbin Wester is the town master who is widely regarded as ineffective.",
+    "source_quote": "Harbin Wester as the useless town master who hides behind notices and wax seals",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "Harbin Wester is the town master who is widely regarded as ineffective."
+    ],
+    "subjects": [
+      "Harbin Wester"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Harbin Wester",
+    "fact": "Lenar described Harbin Wester as hiding behind notices and wax seals.",
+    "source_quote": "who hides behind notices and wax seals",
+    "quote_verified": true,
+    "passes": [
+      "interiority",
+      "small"
+    ],
+    "variants": [
+      "Lenar described Harbin Wester as hiding behind notices and wax seals.",
+      "Lenar believed Harbin Wester hides behind notices and wax seals."
+    ],
+    "subjects": [
+      "Harbin Wester",
+      "Lenar"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "npc",
+    "subject": "Harbin Wester",
+    "fact": "Lenar identified Harbin Wester as a useless town master who hides behind notices and wax seals.",
+    "source_quote": "the useless town master who hides behind notices and wax seals",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "variants": [
+      "Lenar identified Harbin Wester as a useless town master who hides behind notices and wax seals."
+    ],
+    "subjects": [
+      "Harbin Wester"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Gundren",
+    "fact": "Delaying Gundren's rescue carries real risk because his captors are extracting information from him.",
+    "source_quote": "Delaying the rescue of Gundren carries real risk — his captors are extracting information from him",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "variants": [
+      "Kostadis believes delaying the rescue of Gundren carries real risk because his captors are extracting information."
+    ],
+    "subjects": [
+      "Kostadis"
+    ],
+    "n_samples": 1,
+    "provenance": "re-homed from DM narration (orig subject: Kostadis)"
+  },
+  {
+    "type": "object",
+    "subject": "Veyra",
+    "fact": "Veyra's blue candle provides light but would compromise stealth.",
+    "source_quote": "Veyra's blue candle provides light but would compromise stealth",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "variants": [
+      "Kostadis noted that Veyra's blue candle provides light but would compromise stealth."
+    ],
+    "subjects": [
+      "Kostadis"
+    ],
+    "n_samples": 1,
+    "provenance": "re-homed from DM narration (orig subject: Kostadis)"
+  },
+  {
+    "type": "monster",
+    "subject": "goblin boss",
+    "fact": "The goblin boss had an armor class of 17.",
+    "source_quote": "The goblin boss had an armor class of 17",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "variants": [
+      "Kostadis noted that the goblin boss had an armor class of 17."
+    ],
+    "subjects": [
+      "Kostadis"
+    ],
+    "n_samples": 1,
+    "provenance": "re-homed from DM narration (orig subject: Kostadis)"
+  },
+  {
+    "type": "monster",
+    "subject": "giant snake",
+    "fact": "The giant snake had not yet noticed Zenvon.",
+    "source_quote": "the snake had not yet noticed him",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "variants": [
+      "Kostadis observed that the giant snake had not yet noticed Zenvon."
+    ],
+    "subjects": [
+      "Kostadis"
+    ],
+    "n_samples": 1,
+    "provenance": "re-homed from DM narration (orig subject: Kostadis)"
+  },
+  {
+    "type": "monster",
+    "subject": "goblin guards",
+    "fact": "The goblin guards were bored and inattentive.",
+    "source_quote": "The guards were bored and inattentive",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "variants": [
+      "Kostadis observed that the goblin guards were bored and inattentive."
+    ],
+    "subjects": [
+      "Kostadis"
+    ],
+    "n_samples": 1,
+    "provenance": "re-homed from DM narration (orig subject: Kostadis)"
+  },
+  {
+    "type": "thread",
+    "subject": "Gundren",
+    "fact": "Gundren's captors are extracting information from him.",
+    "source_quote": "his captors are extracting information from him",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "Kostadis stated that Gundren's captors are extracting information from him."
+    ],
+    "subjects": [
+      "Kostadis"
+    ],
+    "n_samples": 1,
+    "provenance": "re-homed from DM narration (orig subject: Kostadis)"
+  },
+  {
+    "type": "thread",
+    "subject": "Gundren",
+    "fact": "Gundren's captors may decide to kill him once they have what they need.",
+    "source_quote": "may decide to kill him once they have what they need",
+    "quote_verified": true,
+    "passes": [
+      "interiority",
+      "small"
+    ],
+    "variants": [
+      "Kostadis warned that Gundren's captors may decide to kill him once they have what they need.",
+      "Kostadis fears the captors may decide to kill Gundren once they have what they need."
+    ],
+    "subjects": [
+      "Kostadis"
+    ],
+    "n_samples": 2,
+    "provenance": "re-homed from DM narration (orig subject: Kostadis)"
+  },
+  {
+    "type": "thread",
+    "subject": "Gundren",
+    "fact": "Delaying Gundren's rescue carries real risk.",
+    "source_quote": "Delaying the rescue of Gundren carries real risk",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "Kostadis warned that delaying the rescue of Gundren carries real risk."
+    ],
+    "subjects": [
+      "Kostadis"
+    ],
+    "n_samples": 1,
+    "provenance": "re-homed from DM narration (orig subject: Kostadis)"
+  },
+  {
+    "type": "npc",
+    "subject": "Lenar",
+    "fact": "Lenar believed Harbin Wester was useless.",
+    "source_quote": "Lenar identified Harbin Wester as the useless town master",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "variants": [
+      "Lenar believed Harbin Wester was useless."
+    ],
+    "subjects": [
+      "Lenar"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Lenar",
+    "fact": "Lenar confirmed the party had been attacked on the road.",
+    "source_quote": "Lenar confirmed the party had been attacked on the road",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "Lenar confirmed the party had been attacked on the road."
+    ],
+    "subjects": [
+      "Lenar"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Lenar",
+    "fact": "Lenar criticized the town master, Harbin Wester, for doing nothing.",
+    "source_quote": "criticized the town master, Harbin Wester, for doing nothing",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "Lenar criticized the town master, Harbin Wester, for doing nothing."
+    ],
+    "subjects": [
+      "Lenar"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Lenar",
+    "fact": "Lenar is a lean human miner with a dusty gray beard.",
+    "source_quote": "Lenar, a lean human miner with a dusty gray beard",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small",
+      "sweep"
+    ],
+    "variants": [
+      "Lenar is a lean human miner with a dusty gray beard."
+    ],
+    "subjects": [
+      "Lenar"
+    ],
+    "n_samples": 3
+  },
+  {
+    "type": "npc",
+    "subject": "Lenar",
+    "fact": "Lenar mentioned goblins, bandits, orcs, and the Red Brands as threats on the roads.",
+    "source_quote": "goblins, bandits, orcs, and the Red Brands",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "Lenar mentioned goblins, bandits, orcs, and the Red Brands as threats on the roads."
+    ],
+    "subjects": [
+      "Lenar"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Lenar",
+    "fact": "Lenar referenced Gundren's capture during the conversation.",
+    "source_quote": "referencing Gundren's capture",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "Lenar referenced Gundren's capture during the conversation."
+    ],
+    "subjects": [
+      "Lenar"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Lenar",
+    "fact": "Lenar spoke loudly about the general lawlessness of the roads.",
+    "source_quote": "Lenar spoke loudly about the general lawlessness of the roads",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "Lenar spoke loudly about the general lawlessness of the roads."
+    ],
+    "subjects": [
+      "Lenar"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Narth",
+    "fact": "Narth believed Sister Garaele refused to explain what happened likely to protect the townspeople.",
+    "source_quote": "refused to explain what had happened, likely to protect the townspeople",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "variants": [
+      "Narth believed Sister Garaele refused to explain what happened likely to protect the townspeople."
+    ],
+    "subjects": [
+      "Narth"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Narth",
+    "fact": "Narth is an older weathered human man.",
+    "source_quote": "Narth, an older weathered human man.",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small",
+      "sweep"
+    ],
+    "variants": [
+      "Narth is an older weathered human man."
+    ],
+    "subjects": [
+      "Narth"
+    ],
+    "n_samples": 3
+  },
+  {
+    "type": "npc",
+    "subject": "Narth",
+    "fact": "Narth suggested that Sister Garaele might be willing to speak with temple folk like Sister Maela.",
+    "source_quote": "Narth suggested that Sister Garaele might be willing to speak with temple folk like Sister Maela.",
+    "quote_verified": true,
+    "passes": [
+      "interiority",
+      "small"
+    ],
+    "variants": [
+      "Narth suggested that Sister Garaele might be willing to speak with temple folk like Sister Maela.",
+      "Narth believed Sister Garaele might be willing to speak with temple folk."
+    ],
+    "subjects": [
+      "Narth"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "npc",
+    "subject": "Nikhil Reddy",
+    "fact": "Nikhil Reddy agreed to try to speak with Sister Garaele.",
+    "source_quote": "Nikhil Reddy: Agreed to try to speak with Sister Garaele.",
+    "quote_verified": true,
+    "passes": [
+      "interiority",
+      "small"
+    ],
+    "variants": [
+      "Nikhil Reddy agreed to try to speak with Sister Garaele."
+    ],
+    "subjects": [
+      "Nikhil Reddy"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "npc",
+    "subject": "Nikhil Reddy",
+    "fact": "Nikhil Reddy bought Elsa a drink to open a conversation.",
+    "source_quote": "Nikhil Reddy: Bought Elsa a drink to open conversation.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "Nikhil Reddy bought Elsa a drink to open a conversation."
+    ],
+    "subjects": [
+      "Nikhil Reddy"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Nikhil Reddy",
+    "fact": "Nikhil Reddy decided to prioritize rescuing Gundren over pursuing side quests.",
+    "source_quote": "Decided to prioritize rescuing Gundren over pursuing side quests",
+    "quote_verified": true,
+    "passes": [
+      "interiority",
+      "small"
+    ],
+    "variants": [
+      "Nikhil Reddy decided to prioritize rescuing Gundren over pursuing side quests."
+    ],
+    "subjects": [
+      "Nikhil Reddy"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "npc",
+    "subject": "Nikhil Reddy",
+    "fact": "Nikhil Reddy decided to slowly tiptoe back to the party.",
+    "source_quote": "Decided to slowly tiptoe back to the party",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "variants": [
+      "Nikhil Reddy decided to slowly tiptoe back to the party."
+    ],
+    "subjects": [
+      "Nikhil Reddy"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Nikhil Reddy",
+    "fact": "Nikhil Reddy is the player controlling the character Zenvon.",
+    "source_quote": "Nikhil Reddy as the player controlling the character Zenvon",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small",
+      "sweep"
+    ],
+    "variants": [
+      "Nikhil Reddy is the player controlling the character Zenvon.",
+      "Zenvon is the character controlled by Nikhil Reddy.",
+      "Nikhil Reddy is playing the character Zenvon."
+    ],
+    "subjects": [
+      "Nikhil Reddy",
+      "Zenvon"
+    ],
+    "n_samples": 3
+  },
+  {
+    "type": "npc",
+    "subject": "Nikhil Reddy",
+    "fact": "Nikhil Reddy played the character Zenvon.",
+    "source_quote": "Nikhil Reddy as the player controlling the character Zenvon",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "variants": [
+      "Nikhil Reddy played the character Zenvon."
+    ],
+    "subjects": [
+      "Nikhil Reddy"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Nikhil Reddy",
+    "fact": "Nikhil Reddy proposed a silent surprise attack after Zenvon's scouting.",
+    "source_quote": "proposed a silent surprise attack",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "variants": [
+      "Nikhil Reddy proposed a silent surprise attack after Zenvon's scouting."
+    ],
+    "subjects": [
+      "Nikhil Reddy"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Nikhil Reddy",
+    "fact": "Nikhil Reddy saw what appeared to be a shadow of an obelisk when the wagon hit a rock on the road to Phandalin.",
+    "source_quote": "on the road to Phandalin, he had seen what appeared to be a shadow of an obelisk when the wagon hit a rock.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "Nikhil Reddy saw what appeared to be a shadow of an obelisk when the wagon hit a rock on the road to Phandalin."
+    ],
+    "subjects": [
+      "Nikhil Reddy"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Nikhil Reddy",
+    "fact": "Nikhil Reddy was eager to continue the storyline.",
+    "source_quote": "Nikhil Reddy: Confirmed he had been eager to continue the storyline",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "variants": [
+      "Nikhil Reddy was eager to continue the storyline."
+    ],
+    "subjects": [
+      "Nikhil Reddy"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Pip",
+    "fact": "Pip charged in but his attacks did not connect in the first round.",
+    "source_quote": "Pip charged in but his attacks did not connect in the first round",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "sweep"
+    ],
+    "variants": [
+      "Pip charged in but his attacks did not connect in the first round."
+    ],
+    "subjects": [
+      "Pip"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "npc",
+    "subject": "Pip",
+    "fact": "Pip failed a Dexterity saving throw against a hidden snare and was suspended 10 feet above the ground.",
+    "source_quote": "Pip failed a Dexterity saving throw against a hidden snare and was suspended 10 feet above the ground",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small",
+      "sweep"
+    ],
+    "variants": [
+      "Pip failed a Dexterity saving throw against a hidden snare and was suspended 10 feet above the ground.",
+      "Pip failed a Dexterity saving throw against a hidden snare."
+    ],
+    "subjects": [
+      "Pip"
+    ],
+    "n_samples": 3
+  },
+  {
+    "type": "npc",
+    "subject": "Pip",
+    "fact": "Pip is a party NPC who mentioned hearing a whisper saying 'returned'.",
+    "source_quote": "Party NPC Pip mentioned hearing a whisper saying 'returned'",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "Pip is a party NPC who mentioned hearing a whisper saying 'returned'."
+    ],
+    "subjects": [
+      "Pip"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Pip",
+    "fact": "Pip is a party NPC.",
+    "source_quote": "Party NPC Pip",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "variants": [
+      "Pip is a party NPC."
+    ],
+    "subjects": [
+      "Pip"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Pip",
+    "fact": "Pip mentioned hearing a whisper saying \"returned.\"",
+    "source_quote": "Party NPC Pip mentioned hearing a whisper saying \"returned\"",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "Pip mentioned hearing a whisper saying \"returned.\""
+    ],
+    "subjects": [
+      "Pip"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Pip",
+    "fact": "Pip missed his attack.",
+    "source_quote": "Pip missed his attack",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "sweep"
+    ],
+    "variants": [
+      "Pip missed his attack."
+    ],
+    "subjects": [
+      "Pip"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "npc",
+    "subject": "Pip",
+    "fact": "Pip was suspended 10 feet above the ground by the snare.",
+    "source_quote": "suspended 10 feet above the ground",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "Pip was suspended 10 feet above the ground by the snare."
+    ],
+    "subjects": [
+      "Pip"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Professor Orryn Voss",
+    "fact": "Professor Orryn Voss came to Phandalin believing there were black stone fragments from a large obelisk.",
+    "source_quote": "Professor Orryn Voss came to Phandalin believing there were black stone fragments from a large obelisk.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "Professor Orryn Voss came to Phandalin believing there were black stone fragments from a large obelisk."
+    ],
+    "subjects": [
+      "Professor Orryn Voss"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Professor Orryn Voss",
+    "fact": "Professor Orryn Voss feared the obelisk was connected to minds, memory, and transformation.",
+    "source_quote": "He feared the obelisk was connected to minds, memory, and transformation",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "Professor Orryn Voss feared the obelisk was connected to minds, memory, and transformation."
+    ],
+    "subjects": [
+      "Professor Orryn Voss"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Professor Orryn Voss",
+    "fact": "Professor Orryn Voss is a mentor to Veyra.",
+    "source_quote": "her mentor, Professor Orryn Voss",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "variants": [
+      "Professor Orryn Voss is a mentor to Veyra."
+    ],
+    "subjects": [
+      "Professor Orryn Voss"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Professor Orryn Voss",
+    "fact": "Professor Orryn Voss is a mentor who disappeared in Phandalin.",
+    "source_quote": "Recalled that Professor Orryn Voss had disappeared in Phandalin.",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small",
+      "sweep"
+    ],
+    "variants": [
+      "Professor Orryn Voss is a mentor who disappeared in Phandalin.",
+      "Professor Orryn Voss had disappeared in Phandalin."
+    ],
+    "subjects": [
+      "Professor Orryn Voss"
+    ],
+    "n_samples": 3
+  },
+  {
+    "type": "npc",
+    "subject": "Professor Orryn Voss",
+    "fact": "Professor Orryn Voss warned never to let anyone assemble the fragments.",
+    "source_quote": "and warned never to let anyone assemble the fragments.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "Professor Orryn Voss warned never to let anyone assemble the fragments."
+    ],
+    "subjects": [
+      "Professor Orryn Voss"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Shrine Acolyte",
+    "fact": "The acolyte would not assign the new quest until Gundren's situation was resolved.",
+    "source_quote": "would not assign it until Gundren's situation was resolved",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "variants": [
+      "The acolyte would not assign the new quest until Gundren's situation was resolved."
+    ],
+    "subjects": [
+      "Shrine Acolyte"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Shrine of Luck acolyte",
+    "fact": "The acolyte blessed the party.",
+    "source_quote": "The acolyte blessed the party",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "variants": [
+      "The acolyte blessed the party."
+    ],
+    "subjects": [
+      "Shrine of Luck acolyte"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Shrine of Luck acolyte",
+    "fact": "The acolyte indicated she had another quest for the party upon their return but would not assign it until Gundren's situation was resolved.",
+    "source_quote": "indicated she had another quest for them upon their return, but would not assign it until Gundren's situation was resolved",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "variants": [
+      "The acolyte indicated she had another quest for the party upon their return but would not assign it until Gundren's situation was resolved."
+    ],
+    "subjects": [
+      "Shrine of Luck acolyte"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Shrine of Luck acolyte",
+    "fact": "The acolyte recognized the party as those searching for Gundren.",
+    "source_quote": "recognized the party as those searching for Gundren",
+    "quote_verified": true,
+    "passes": [
+      "interiority",
+      "large"
+    ],
+    "variants": [
+      "The acolyte recognized the party as those searching for Gundren."
+    ],
+    "subjects": [
+      "Shrine of Luck acolyte",
+      "Shrine Acolyte"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "npc",
+    "subject": "Sister Garaele",
+    "fact": "Sister Garaele is not speaking about what happened to her.",
+    "source_quote": "not speaking about what happened",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "variants": [
+      "Sister Garaele is not speaking about what happened to her."
+    ],
+    "subjects": [
+      "Sister Garaele"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Sister Garaele",
+    "fact": "Sister Garaele likely refused to explain what happened to protect the townspeople.",
+    "source_quote": "likely to protect the townspeople.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "Sister Garaele likely refused to explain what happened to protect the townspeople."
+    ],
+    "subjects": [
+      "Sister Garaele"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Sister Garaele",
+    "fact": "Sister Garaele refused to explain what had happened to her.",
+    "source_quote": "refused to explain what had happened",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small"
+    ],
+    "variants": [
+      "Sister Garaele refused to explain what had happened to her.",
+      "Sister Garaele refused to explain what had happened."
+    ],
+    "subjects": [
+      "Sister Garaele"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "npc",
+    "subject": "Sister Garaele",
+    "fact": "Sister Garaele returned to town limping and pale but refused to explain what had happened.",
+    "source_quote": "Sister Garaele had returned to town limping and pale but refused to explain what had happened",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small",
+      "sweep"
+    ],
+    "variants": [
+      "Sister Garaele returned to town limping and pale but refused to explain what had happened.",
+      "Sister Garaele had returned to town limping and pale.",
+      "Sister Garaele returned to town limping and pale."
+    ],
+    "subjects": [
+      "Sister Garaele"
+    ],
+    "n_samples": 3
+  },
+  {
+    "type": "npc",
+    "subject": "Sister Garaele",
+    "fact": "Sister Garaele returned to town wounded and is not speaking about what happened.",
+    "source_quote": "Sister Garaele returned to town wounded and is not speaking about what happened",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small",
+      "sweep"
+    ],
+    "variants": [
+      "Sister Garaele returned to town wounded and is not speaking about what happened.",
+      "Sister Garaele returned to town wounded."
+    ],
+    "subjects": [
+      "Sister Garaele"
+    ],
+    "n_samples": 3
+  },
+  {
+    "type": "npc",
+    "subject": "Sister Maela",
+    "fact": "Sister Maela felt a chill in her holy symbol at the same moment Pip heard the whisper.",
+    "source_quote": "Sister Maela felt a chill in her holy symbol at the same moment.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "Sister Maela felt a chill in her holy symbol at the same moment Pip heard the whisper."
+    ],
+    "subjects": [
+      "Sister Maela"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Sister Maela",
+    "fact": "Sister Maela felt a chill in her holy symbol.",
+    "source_quote": "Sister Maela felt a chill in her holy symbol",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "sweep"
+    ],
+    "variants": [
+      "Sister Maela felt a chill in her holy symbol."
+    ],
+    "subjects": [
+      "Sister Maela"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "npc",
+    "subject": "Sister Maela",
+    "fact": "Sister Maela has darkvision.",
+    "source_quote": "Sister Maela (dwarf) and Veyra (tiefling) do",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "Sister Maela has darkvision."
+    ],
+    "subjects": [
+      "Sister Maela"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Sister Maela",
+    "fact": "Sister Maela hit the goblin boss with her mace for 6 points of damage.",
+    "source_quote": "Sister Maela hit the boss with her mace for 6 points of damage",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "sweep"
+    ],
+    "variants": [
+      "Sister Maela hit the goblin boss with her mace for 6 points of damage.",
+      "Sister Maela hit the boss with her mace for 6 points of damage."
+    ],
+    "subjects": [
+      "Sister Maela"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "npc",
+    "subject": "Sister Maela",
+    "fact": "Sister Maela is a dwarf who has darkvision.",
+    "source_quote": "Sister Maela (dwarf) and Veyra (tiefling) do",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small"
+    ],
+    "variants": [
+      "Sister Maela is a dwarf who has darkvision.",
+      "Sister Maela is a dwarf and has darkvision."
+    ],
+    "subjects": [
+      "Sister Maela"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "npc",
+    "subject": "Sister Maela",
+    "fact": "Sister Maela is a dwarf.",
+    "source_quote": "Sister Maela (dwarf)",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "Sister Maela is a dwarf."
+    ],
+    "subjects": [
+      "Sister Maela"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Sister Maela",
+    "fact": "Sister Maela's Sacred Flame missed.",
+    "source_quote": "Sister Maela's Sacred Flame missed",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "sweep"
+    ],
+    "variants": [
+      "Sister Maela's Sacred Flame missed."
+    ],
+    "subjects": [
+      "Sister Maela"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "npc",
+    "subject": "Sister Maela",
+    "fact": "The party must coordinate with Sister Maela for navigation in dark areas.",
+    "source_quote": "The party must coordinate around Sister Maela and Veyra for navigation in dark areas",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "variants": [
+      "The party must coordinate with Sister Maela for navigation in dark areas."
+    ],
+    "subjects": [
+      "Sister Maela"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Sister Maela",
+    "fact": "The party must coordinate with Sister Maela to navigate dark areas of the cave.",
+    "source_quote": "The party must coordinate around Sister Maela and Veyra for navigation in dark areas",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "The party must coordinate with Sister Maela to navigate dark areas of the cave."
+    ],
+    "subjects": [
+      "Sister Maela"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Tell Dendar",
+    "fact": "Tell Dendar was a man killed by the Red Brands in broad daylight.",
+    "source_quote": "the Red Brands had killed a man named Tell Dendar in broad daylight",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small",
+      "sweep"
+    ],
+    "variants": [
+      "Tell Dendar was a man killed by the Red Brands in broad daylight."
+    ],
+    "subjects": [
+      "Tell Dendar"
+    ],
+    "n_samples": 3
+  },
+  {
+    "type": "npc",
+    "subject": "Toblen",
+    "fact": "Toblen believed trouble in Phandalin had a habit of following people home.",
+    "source_quote": "trouble in Phandalin had a habit of following people home",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "variants": [
+      "Toblen believed trouble in Phandalin had a habit of following people home."
+    ],
+    "subjects": [
+      "Toblen"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Toblen",
+    "fact": "Toblen did not want trouble in his common room.",
+    "source_quote": "Toblen deflected, saying he did not want trouble in his common room",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "variants": [
+      "Toblen did not want trouble in his common room."
+    ],
+    "subjects": [
+      "Toblen"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Toblen",
+    "fact": "Toblen was fearful of the Red Brands.",
+    "source_quote": "Toblen is aware of the Red Brands' threat but is too fearful to speak openly",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "variants": [
+      "Toblen was fearful of the Red Brands."
+    ],
+    "subjects": [
+      "Toblen"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Toblen Stonehill",
+    "fact": "Toblen Stonehill is the broad-shouldered young human owner of the Stonehill Tavern.",
+    "source_quote": "Toblen Stonehill, the broad-shouldered young human owner of the tavern",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small",
+      "sweep"
+    ],
+    "variants": [
+      "Toblen Stonehill is the broad-shouldered young human owner of the Stonehill Tavern."
+    ],
+    "subjects": [
+      "Toblen Stonehill"
+    ],
+    "n_samples": 3
+  },
+  {
+    "type": "npc",
+    "subject": "Toblen Stonehill",
+    "fact": "Toblen deflected questions about Gundren's enemies, stating he did not want trouble in his common room.",
+    "source_quote": "Toblen deflected, saying he did not want trouble in his common room",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "Toblen deflected questions about Gundren's enemies, stating he did not want trouble in his common room."
+    ],
+    "subjects": [
+      "Toblen Stonehill"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Toblen Stonehill",
+    "fact": "Toblen described Gundren as a merchant who brought good business to the town.",
+    "source_quote": "Toblen described Gundren as a merchant who brought good business to the town",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small"
+    ],
+    "variants": [
+      "Toblen described Gundren as a merchant who brought good business to the town."
+    ],
+    "subjects": [
+      "Toblen Stonehill",
+      "Gundren"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "npc",
+    "subject": "Toblen Stonehill",
+    "fact": "Toblen expressed concern about Gundren's disappearance.",
+    "source_quote": "and expressed concern about his disappearance",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "Toblen expressed concern about Gundren's disappearance."
+    ],
+    "subjects": [
+      "Toblen Stonehill"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Toblen Stonehill",
+    "fact": "Toblen lowered his voice when sharing information about the Red Brands.",
+    "source_quote": "He lowered his voice when sharing this information",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "Toblen lowered his voice when sharing information about the Red Brands."
+    ],
+    "subjects": [
+      "Toblen Stonehill"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Tuck",
+    "fact": "Tuck expressed concern about people who get taken not always coming back.",
+    "source_quote": "Tuck expressed concern about people who get taken not always coming back",
+    "quote_verified": true,
+    "passes": [
+      "interiority",
+      "small"
+    ],
+    "variants": [
+      "Tuck expressed concern about people who get taken not always coming back.",
+      "Tuck was concerned about people who get taken not always coming back."
+    ],
+    "subjects": [
+      "Tuck"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "npc",
+    "subject": "Tuck",
+    "fact": "Tuck is Toblen's nine-year-old son.",
+    "source_quote": "Tuck, Toblen's nine-year-old son.",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small",
+      "sweep",
+      "temporal"
+    ],
+    "variants": [
+      "Tuck is Toblen's nine-year-old son."
+    ],
+    "subjects": [
+      "Tuck",
+      "Tuck's age"
+    ],
+    "n_samples": 4
+  },
+  {
+    "type": "npc",
+    "subject": "Tuck",
+    "fact": "Tuck offered to show the party where the tunnel is.",
+    "source_quote": "Tuck offered to show the party where the tunnel is.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "Tuck offered to show the party where the tunnel is."
+    ],
+    "subjects": [
+      "Tuck"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Tymora",
+    "fact": "The Shrine of Luck is dedicated to Tymora, the god of good luck and fortune.",
+    "source_quote": "dedicated to Tymora, the god of good luck and fortune",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "The Shrine of Luck is dedicated to Tymora, the god of good luck and fortune."
+    ],
+    "subjects": [
+      "Tymora"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Tymora",
+    "fact": "Tymora is the god of good luck and fortune.",
+    "source_quote": "Tymora, the god of good luck and fortune",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "variants": [
+      "Tymora is the god of good luck and fortune."
+    ],
+    "subjects": [
+      "Tymora"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Veyra",
+    "fact": "The party must coordinate with Veyra for navigation in dark areas.",
+    "source_quote": "The party must coordinate around Sister Maela and Veyra for navigation in dark areas",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "variants": [
+      "The party must coordinate with Veyra for navigation in dark areas."
+    ],
+    "subjects": [
+      "Veyra"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Veyra",
+    "fact": "The party must coordinate with Veyra to navigate dark areas of the cave.",
+    "source_quote": "The party must coordinate around Sister Maela and Veyra for navigation in dark areas",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "The party must coordinate with Veyra to navigate dark areas of the cave."
+    ],
+    "subjects": [
+      "Veyra"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Veyra",
+    "fact": "Veyra fired a Firebolt, killing the second goblin for 5 points of damage.",
+    "source_quote": "Veyra fired a Firebolt, killing the second goblin (5 points of damage)",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "variants": [
+      "Veyra fired a Firebolt, killing the second goblin for 5 points of damage."
+    ],
+    "subjects": [
+      "Veyra"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Veyra",
+    "fact": "Veyra fired a magic missile at the goblin boss, dealing 3 points of damage.",
+    "source_quote": "Veyra fired a magic missile at the goblin boss, dealing 3 points of damage",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "sweep"
+    ],
+    "variants": [
+      "Veyra fired a magic missile at the goblin boss, dealing 3 points of damage."
+    ],
+    "subjects": [
+      "Veyra"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "npc",
+    "subject": "Veyra",
+    "fact": "Veyra fired another Firebolt, killing the goblin boss.",
+    "source_quote": "Veyra fired another Firebolt, killing the goblin boss",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "variants": [
+      "Veyra fired another Firebolt, killing the goblin boss."
+    ],
+    "subjects": [
+      "Veyra"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Veyra",
+    "fact": "Veyra has darkvision.",
+    "source_quote": "Sister Maela (dwarf) and Veyra (tiefling) do",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "Veyra has darkvision."
+    ],
+    "subjects": [
+      "Veyra"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Veyra",
+    "fact": "Veyra is a party NPC whose mentor was Professor Orryn Voss.",
+    "source_quote": "Veyra (party NPC) noted that her mentor, Professor Orryn Voss",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "Veyra is a party NPC whose mentor was Professor Orryn Voss."
+    ],
+    "subjects": [
+      "Veyra"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Veyra",
+    "fact": "Veyra is a party NPC.",
+    "source_quote": "Veyra (party NPC)",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "variants": [
+      "Veyra is a party NPC."
+    ],
+    "subjects": [
+      "Veyra"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Veyra",
+    "fact": "Veyra is a tiefling who has darkvision.",
+    "source_quote": "Sister Maela (dwarf) and Veyra (tiefling) do",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small"
+    ],
+    "variants": [
+      "Veyra is a tiefling who has darkvision.",
+      "Veyra is a tiefling and has darkvision."
+    ],
+    "subjects": [
+      "Veyra"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "npc",
+    "subject": "Veyra",
+    "fact": "Veyra is a tiefling.",
+    "source_quote": "Veyra (tiefling)",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "Veyra is a tiefling."
+    ],
+    "subjects": [
+      "Veyra"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Veyra",
+    "fact": "Veyra noted that her mentor, Professor Orryn Voss, may have known Elsa's sister.",
+    "source_quote": "Veyra (party NPC) noted that her mentor, Professor Orryn Voss, may have known Elsa's sister.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "Veyra noted that her mentor, Professor Orryn Voss, may have known Elsa's sister."
+    ],
+    "subjects": [
+      "Veyra"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Veyra",
+    "fact": "Veyra possesses a blue candle that provides light.",
+    "source_quote": "Veyra's blue candle provides light",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "Veyra possesses a blue candle that provides light."
+    ],
+    "subjects": [
+      "Veyra"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zenvon",
+    "fact": "Zenvon added the scimitar and javelin to his inventory.",
+    "source_quote": "which Zenvon added to his inventory",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "sweep"
+    ],
+    "variants": [
+      "Zenvon added the scimitar and javelin to his inventory."
+    ],
+    "subjects": [
+      "Zenvon"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "npc",
+    "subject": "Zenvon",
+    "fact": "Zenvon approached a rubble-choked passage and came face-to-face with a giant coiled poisonous snake.",
+    "source_quote": "As Zenvon approached the passage, he came face-to-face with a giant coiled poisonous snake",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "Zenvon approached a rubble-choked passage and came face-to-face with a giant coiled poisonous snake."
+    ],
+    "subjects": [
+      "Zenvon"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zenvon",
+    "fact": "Zenvon continued scouting toward a rubble-choked passage.",
+    "source_quote": "Continued scouting toward a rubble-choked passage",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "Zenvon continued scouting toward a rubble-choked passage."
+    ],
+    "subjects": [
+      "Zenvon"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zenvon",
+    "fact": "Zenvon decided to slowly tiptoe back to the party.",
+    "source_quote": "Decided to slowly tiptoe back to the party",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small"
+    ],
+    "variants": [
+      "Zenvon decided to slowly tiptoe back to the party."
+    ],
+    "subjects": [
+      "Zenvon"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "npc",
+    "subject": "Zenvon",
+    "fact": "Zenvon had a stealth roll of 23 which meant the snake had not yet noticed him.",
+    "source_quote": "Thanks to his stealth roll of 23, the snake had not yet noticed him",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small",
+      "sweep"
+    ],
+    "variants": [
+      "Zenvon had a stealth roll of 23 which meant the snake had not yet noticed him.",
+      "Zenvon had a stealth roll of 23, so the snake had not yet noticed him.",
+      "Zenvon's stealth roll of 23 meant the snake had not yet noticed him."
+    ],
+    "subjects": [
+      "Zenvon"
+    ],
+    "n_samples": 3
+  },
+  {
+    "type": "npc",
+    "subject": "Zenvon",
+    "fact": "Zenvon has a +5 to hit with weapons he is proficient with.",
+    "source_quote": "instead of +5",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "Zenvon has a +5 to hit with weapons he is proficient with."
+    ],
+    "subjects": [
+      "Zenvon"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zenvon",
+    "fact": "Zenvon is a character controlled by Nikhil Reddy.",
+    "source_quote": "Nikhil Reddy as the player controlling the character Zenvon",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "Zenvon is a character controlled by Nikhil Reddy."
+    ],
+    "subjects": [
+      "Zenvon"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zenvon",
+    "fact": "Zenvon is a halfling who lacks darkvision.",
+    "source_quote": "Zenvon (halfling) lacks darkvision",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "Zenvon is a halfling who lacks darkvision."
+    ],
+    "subjects": [
+      "Zenvon"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zenvon",
+    "fact": "Zenvon lacks darkvision.",
+    "source_quote": "Zenvon (halfling) lacks darkvision",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "variants": [
+      "Zenvon lacks darkvision."
+    ],
+    "subjects": [
+      "Zenvon"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zenvon",
+    "fact": "Zenvon missed with a crossbow shot by rolling a natural 1 in the surprise round.",
+    "source_quote": "Zenvon missed with a crossbow shot (rolled a natural 1) in the surprise round",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "variants": [
+      "Zenvon missed with a crossbow shot by rolling a natural 1 in the surprise round."
+    ],
+    "subjects": [
+      "Zenvon"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zenvon",
+    "fact": "Zenvon missed with a dagger but hit with a short sword for 9 points of damage.",
+    "source_quote": "Zenvon missed with a dagger but hit with a short sword (9 points of damage)",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "variants": [
+      "Zenvon missed with a dagger but hit with a short sword for 9 points of damage."
+    ],
+    "subjects": [
+      "Zenvon"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zenvon",
+    "fact": "Zenvon only has a +1 to hit with the javelin due to lack of proficiency.",
+    "source_quote": "without proficiency, Zenvon only has a +1 to hit with the javelin",
+    "quote_verified": true,
+    "passes": [
+      "small",
+      "sweep"
+    ],
+    "variants": [
+      "Zenvon only has a +1 to hit with the javelin due to lack of proficiency."
+    ],
+    "subjects": [
+      "Zenvon"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "npc",
+    "subject": "Zenvon",
+    "fact": "Zenvon passed the chained wolves in the cave undetected.",
+    "source_quote": "passed them undetected",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "variants": [
+      "Zenvon passed the chained wolves in the cave undetected."
+    ],
+    "subjects": [
+      "Zenvon"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zenvon",
+    "fact": "Zenvon rolled a natural 20 with a dagger, killing one goblin outright in a decisive strike.",
+    "source_quote": "Zenvon rolled a natural 20 with a dagger, killing one goblin outright in a decisive strike",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "variants": [
+      "Zenvon rolled a natural 20 with a dagger, killing one goblin outright in a decisive strike."
+    ],
+    "subjects": [
+      "Zenvon"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zenvon",
+    "fact": "Zenvon scouted ahead using stealth and rolled successfully.",
+    "source_quote": "Zenvon scout ahead using stealth (rolled successfully)",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small",
+      "sweep"
+    ],
+    "variants": [
+      "Zenvon scouted ahead using stealth and rolled successfully."
+    ],
+    "subjects": [
+      "Zenvon"
+    ],
+    "n_samples": 3
+  },
+  {
+    "type": "npc",
+    "subject": "Zenvon",
+    "fact": "Zenvon scouted further into the cave after the combat.",
+    "source_quote": "Zenvon scouted further into the cave after the combat",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "Zenvon scouted further into the cave after the combat."
+    ],
+    "subjects": [
+      "Zenvon"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zenvon",
+    "fact": "Zenvon spotted three wolves chained in the cave but passed them undetected.",
+    "source_quote": "Zenvon spotted three wolves chained in the cave but passed them undetected",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small",
+      "sweep"
+    ],
+    "variants": [
+      "Zenvon spotted three wolves chained in the cave but passed them undetected.",
+      "Zenvon spotted three wolves chained in the cave."
+    ],
+    "subjects": [
+      "Zenvon"
+    ],
+    "n_samples": 3
+  },
+  {
+    "type": "npc",
+    "subject": "Zenvon",
+    "fact": "Zenvon successfully avoided a hidden pit trap with a Dexterity saving throw of DC 10.",
+    "source_quote": "Zenvon successfully avoided a hidden pit trap with a Dexterity saving throw (DC 10)",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small",
+      "sweep"
+    ],
+    "variants": [
+      "Zenvon successfully avoided a hidden pit trap with a Dexterity saving throw of DC 10.",
+      "Zenvon successfully avoided a hidden pit trap with a Dexterity saving throw."
+    ],
+    "subjects": [
+      "Zenvon"
+    ],
+    "n_samples": 3
+  },
+  {
+    "type": "npc",
+    "subject": "Zenvon",
+    "fact": "Zenvon's dagger roll of 7 was a miss against the goblin boss's armor class of 17.",
+    "source_quote": "Zenvon's dagger roll of 7 (total) was a miss",
+    "quote_verified": true,
+    "passes": [
+      "small",
+      "sweep"
+    ],
+    "variants": [
+      "Zenvon's dagger roll of 7 was a miss against the goblin boss's armor class of 17.",
+      "Zenvon's dagger roll of 7 was a miss against the goblin boss."
+    ],
+    "subjects": [
+      "Zenvon"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "npc",
+    "subject": "Zenvon",
+    "fact": "Zenvon's short sword roll of 20 was a hit against the goblin boss's armor class of 17.",
+    "source_quote": "short sword roll of 20 (total) was a hit",
+    "quote_verified": true,
+    "passes": [
+      "small",
+      "sweep"
+    ],
+    "variants": [
+      "Zenvon's short sword roll of 20 was a hit against the goblin boss's armor class of 17.",
+      "Zenvon's short sword roll of 20 was a hit against the goblin boss."
+    ],
+    "subjects": [
+      "Zenvon"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "object",
+    "subject": "black stone fragments",
+    "fact": "Professor Orryn Voss came to Phandalin believing there were black stone fragments from a large obelisk.",
+    "source_quote": "believing there were black stone fragments from a large obelisk",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "sweep"
+    ],
+    "variants": [
+      "Professor Orryn Voss came to Phandalin believing there were black stone fragments from a large obelisk."
+    ],
+    "subjects": [
+      "black stone fragments"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "object",
+    "subject": "black stone obelisk fragments",
+    "fact": "Fragments of a black stone obelisk exist and pose a threat if assembled.",
+    "source_quote": "The threat of someone assembling the black stone obelisk fragments remains an unresolved background danger",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "Fragments of a black stone obelisk exist and pose a threat if assembled."
+    ],
+    "subjects": [
+      "black stone obelisk fragments"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "black stone obelisk fragments",
+    "fact": "The threat of someone assembling the black stone obelisk fragments remains an unresolved background danger.",
+    "source_quote": "The threat of someone assembling the black stone obelisk fragments remains an unresolved background danger",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "variants": [
+      "The threat of someone assembling the black stone obelisk fragments remains an unresolved background danger."
+    ],
+    "subjects": [
+      "black stone obelisk fragments"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "black stone obelisk fragments",
+    "fact": "There is a threat of someone assembling the black stone obelisk fragments.",
+    "source_quote": "The threat of someone assembling the black stone obelisk fragments remains an unresolved background danger",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "There is a threat of someone assembling the black stone obelisk fragments."
+    ],
+    "subjects": [
+      "black stone obelisk fragments"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "blue candle",
+    "fact": "A blue candle reacted to obelisk fragments and psionic magic.",
+    "source_quote": "A blue candle reacted to obelisk fragments and psionic magic.",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small",
+      "sweep"
+    ],
+    "variants": [
+      "A blue candle reacted to obelisk fragments and psionic magic."
+    ],
+    "subjects": [
+      "blue candle"
+    ],
+    "n_samples": 3
+  },
+  {
+    "type": "object",
+    "subject": "blue candle",
+    "fact": "Veyra's blue candle provides light but would compromise stealth.",
+    "source_quote": "Veyra's blue candle provides light but would compromise stealth",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small",
+      "sweep"
+    ],
+    "variants": [
+      "Veyra's blue candle provides light but would compromise stealth."
+    ],
+    "subjects": [
+      "blue candle",
+      "Veyra's blue candle"
+    ],
+    "n_samples": 3
+  },
+  {
+    "type": "object",
+    "subject": "boots of striding and springing",
+    "fact": "Daran Edermath offered boots of striding and springing as a reward for investigating Old Owl Well.",
+    "source_quote": "offered boots of striding and springing as a reward for investigating Old Owl Well",
+    "quote_verified": true,
+    "passes": [
+      "small",
+      "sweep"
+    ],
+    "variants": [
+      "Daran Edermath offered boots of striding and springing as a reward for investigating Old Owl Well."
+    ],
+    "subjects": [
+      "boots of striding and springing"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "object",
+    "subject": "boots of striding and springing",
+    "fact": "The boots of striding and springing are a reward for investigating Old Owl Well.",
+    "source_quote": "earn the boots of striding and springing from Daran Edermath",
+    "quote_verified": true,
+    "passes": [
+      "small",
+      "sweep"
+    ],
+    "variants": [
+      "The boots of striding and springing are a reward for investigating Old Owl Well."
+    ],
+    "subjects": [
+      "boots of striding and springing"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "object",
+    "subject": "goblin boss armor class",
+    "fact": "The goblin boss had an armor class of 17.",
+    "source_quote": "armor class of 17",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "variants": [
+      "The goblin boss had an armor class of 17."
+    ],
+    "subjects": [
+      "goblin boss armor class"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "javelin",
+    "fact": "Looting the bodies produced a javelin which Zenvon added to his inventory.",
+    "source_quote": "produced a scimitar and a javelin, which Zenvon added to his inventory",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "Looting the bodies produced a javelin which Zenvon added to his inventory."
+    ],
+    "subjects": [
+      "javelin"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "javelin",
+    "fact": "Looting the bodies produced a javelin.",
+    "source_quote": "produced a scimitar and a javelin",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "Looting the bodies produced a javelin."
+    ],
+    "subjects": [
+      "javelin"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "notices",
+    "fact": "Harbin Wester hides behind notices.",
+    "source_quote": "hides behind notices and wax seals",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "Harbin Wester hides behind notices."
+    ],
+    "subjects": [
+      "notices"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "scimitar",
+    "fact": "Looting the bodies produced a scimitar which Zenvon added to his inventory.",
+    "source_quote": "produced a scimitar and a javelin, which Zenvon added to his inventory",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "Looting the bodies produced a scimitar which Zenvon added to his inventory."
+    ],
+    "subjects": [
+      "scimitar"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "scimitar",
+    "fact": "Looting the bodies produced a scimitar.",
+    "source_quote": "produced a scimitar and a javelin",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "Looting the bodies produced a scimitar."
+    ],
+    "subjects": [
+      "scimitar"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "wax seals",
+    "fact": "Harbin Wester hides behind wax seals.",
+    "source_quote": "hides behind notices and wax seals",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "Harbin Wester hides behind wax seals."
+    ],
+    "subjects": [
+      "wax seals"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "cave threats",
+    "fact": "Wolves, a dark passage, and a giant snake were mentioned as threats in the cave.",
+    "source_quote": "Wolves, Dark Passage, and Giant Snake",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "Wolves, a dark passage, and a giant snake were mentioned as threats in the cave."
+    ],
+    "subjects": [
+      "cave threats"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Goblin Cave exploration",
+    "fact": "The session ended with Zenvon retreating silently from the snake.",
+    "source_quote": "ending the session on the cliffhanger",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "variants": [
+      "The session ended with Zenvon retreating silently from the snake."
+    ],
+    "subjects": [
+      "Goblin Cave exploration"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Gundren's disappearance",
+    "fact": "The Red Brands gang is behind Gundren's disappearance.",
+    "source_quote": "She stated she knew who was behind Gundren's disappearance — the Red Brands gang.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "The Red Brands gang is behind Gundren's disappearance."
+    ],
+    "subjects": [
+      "Gundren's disappearance"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Gundren's rescue",
+    "fact": "Multiple NPCs warned that Gundren's captors will eventually stop trying to extract information from him and may kill him.",
+    "source_quote": "Multiple NPCs warned that Gundren's captors will eventually stop trying to extract information from him and may kill him",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "variants": [
+      "Multiple NPCs warned that Gundren's captors will eventually stop trying to extract information from him and may kill him."
+    ],
+    "subjects": [
+      "Gundren's rescue"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Gundren's rescue",
+    "fact": "The rescue of Gundren is time-sensitive due to threats from his captors.",
+    "source_quote": "making the rescue time-sensitive",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "The rescue of Gundren is time-sensitive due to threats from his captors."
+    ],
+    "subjects": [
+      "Gundren's rescue"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Halia's connection",
+    "fact": "Halia's connection to the Red Brands is unclear and requires investigation.",
+    "source_quote": "her relationship with the Red Brands is unclear",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small"
+    ],
+    "variants": [
+      "Halia's connection to the Red Brands is unclear and requires investigation.",
+      "Halia's relationship with the Red Brands is unclear."
+    ],
+    "subjects": [
+      "Halia's connection"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "thread",
+    "subject": "mysterious obelisk",
+    "fact": "A mysterious obelisk connected to psionic magic, minds, memory, and transformation was introduced as a potential larger storyline thread.",
+    "source_quote": "A mysterious obelisk connected to psionic magic, minds, memory, and transformation was introduced as a potential larger storyline thread",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small",
+      "sweep"
+    ],
+    "variants": [
+      "A mysterious obelisk connected to psionic magic, minds, memory, and transformation was introduced as a potential larger storyline thread."
+    ],
+    "subjects": [
+      "mysterious obelisk",
+      "obelisk mystery"
+    ],
+    "n_samples": 3
+  },
+  {
+    "type": "thread",
+    "subject": "obelisk fragments",
+    "fact": "A mysterious obelisk connected to psionic magic is a significant background threat.",
+    "source_quote": "A mysterious obelisk connected to psionic magic is a significant background threat.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "A mysterious obelisk connected to psionic magic is a significant background threat."
+    ],
+    "subjects": [
+      "obelisk fragments"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "obelisk threat",
+    "fact": "The assembly of the black stone obelisk fragments remains an unresolved background danger.",
+    "source_quote": "remains an unresolved background danger",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "The assembly of the black stone obelisk fragments remains an unresolved background danger."
+    ],
+    "subjects": [
+      "obelisk threat"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Sister Garaele's injury",
+    "fact": "Sister Garaele has been injured under unknown circumstances.",
+    "source_quote": "Sister Garaele has been injured under unknown circumstances",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "Sister Garaele has been injured under unknown circumstances."
+    ],
+    "subjects": [
+      "Sister Garaele's injury"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Sister Garaele's injury",
+    "fact": "Sister Garaele's injury and the events leading to it remain unresolved.",
+    "source_quote": "her situation remains unresolved",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "Sister Garaele's injury and the events leading to it remain unresolved."
+    ],
+    "subjects": [
+      "Sister Garaele's injury"
+    ],
+    "n_samples": 1
+  }
+]

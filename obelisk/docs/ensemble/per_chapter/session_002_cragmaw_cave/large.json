@@ -1,0 +1,639 @@
+[
+  {
+    "type": "location",
+    "subject": "Phandalin",
+    "fact": "The party arrived in Phandalin.",
+    "source_quote": "The party arrived in Phandalin",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Stonehill Tavern",
+    "fact": "The party gathered information at the Stonehill Tavern.",
+    "source_quote": "gathered information at the Stonehill Tavern",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Red Brands",
+    "fact": "The party learned about the Red Brands gang.",
+    "source_quote": "learned about the Red Brands gang",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Glasstaff",
+    "fact": "Glasstaff is the leader of the Red Brands operating from Tresendar Manor.",
+    "source_quote": "their leader Glasstaff operating from Tresendar Manor",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Tresendar Manor",
+    "fact": "Glasstaff operates from Tresendar Manor.",
+    "source_quote": "operating from Tresendar Manor",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "blackstone fragments",
+    "fact": "The party received a warning about blackstone fragments tied to a powerful obelisk.",
+    "source_quote": "received a warning about blackstone fragments tied to a powerful obelisk",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Goblin Trail",
+    "fact": "The party traveled the Goblin Trail.",
+    "source_quote": "The party traveled the Goblin Trail",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "trap encounter",
+    "fact": "The party survived a hidden pit and a snare.",
+    "source_quote": "survived traps (a hidden pit and a snare)",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "goblin lookout defeat",
+    "fact": "The party defeated goblin lookouts at the cave entrance.",
+    "source_quote": "defeated goblin lookouts at the cave entrance",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zenvon",
+    "fact": "Zenvon scouted ahead and encountered a massive coiled snake before retreating.",
+    "source_quote": "Zenvon scouted ahead, encountering a massive coiled snake before retreating",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Cragmaw Cave",
+    "fact": "The session set the stage for continuing into Cragmaw Cave.",
+    "source_quote": "set the stage for continuing into Cragmaw Cave",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Veyra",
+    "fact": "Veyra has darkvision of 60 feet.",
+    "source_quote": "Veyra and Sister Maela have darkvision (60 feet)",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Sister Maela",
+    "fact": "Sister Maela has darkvision of 60 feet.",
+    "source_quote": "Veyra and Sister Maela have darkvision (60 feet)",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zenvon",
+    "fact": "Zenvon cannot see in the dark.",
+    "source_quote": "Zenvon and Pip cannot see in the dark",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Pip",
+    "fact": "Pip cannot see in the dark.",
+    "source_quote": "Zenvon and Pip cannot see in the dark",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "team formation",
+    "fact": "Nikhil Reddy decided to pair Zenvon with Veyra and Maela with Pip.",
+    "source_quote": "Decided to pair Zenvon with Veyra and Maela with Pip",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "pairing revision",
+    "fact": "Nikhil Reddy agreed to pair Veyra with Pip and Zenvon with Sister Maela.",
+    "source_quote": "Agreed to the revised pairing",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "first stealth check",
+    "fact": "Zenvon rolled 15 and Sister Maela rolled 9 on a group stealth check.",
+    "source_quote": "Zenvon rolled 15, Sister Maela rolled 9",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "wolves",
+    "fact": "The wolves had a perception of 13.",
+    "source_quote": "wolves had a perception of 13",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "wolf bypass",
+    "fact": "The party passed the wolves undetected.",
+    "source_quote": "the party passed undetected",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "wolf bypass decision",
+    "fact": "Nikhil Reddy decided to bypass the three wolves.",
+    "source_quote": "Decided to bypass the three wolves",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "snake stealth check",
+    "fact": "Zenvon rolled 25 on the stealth check to slip past the snake.",
+    "source_quote": "Zenvon rolled 25",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "snake surprise attack",
+    "fact": "The party chose to attack the snake with surprise.",
+    "source_quote": "chose to attack it with surprise",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "giant poisonous snake",
+    "fact": "The party engaged the giant poisonous snake in initiative order.",
+    "source_quote": "The party engaged the giant poisonous snake in initiative order",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zenvon",
+    "fact": "Zenvon rolled an initiative of 21.",
+    "source_quote": "Rolled initiative of 21",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zenvon first attack",
+    "fact": "Zenvon fired a shortbow but missed with a roll of 10.",
+    "source_quote": "fired a shortbow but missed (rolled 10)",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Veyra firebolt",
+    "fact": "Veyra cast Firebolt and hit for 10 points of damage.",
+    "source_quote": "Veyra cast Firebolt and hit for 10 points of damage",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Pip javelin throw",
+    "fact": "Pip threw a javelin but missed due to disadvantage in darkness.",
+    "source_quote": "Pip threw a javelin but missed due to disadvantage in darkness",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Maela sacred flame",
+    "fact": "Sister Maela attempted Sacred Flame but the snake made its saving throw.",
+    "source_quote": "Sister Maela attempted Sacred Flame but the snake made its saving throw",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zenvon second attack",
+    "fact": "Zenvon attacked with disadvantage and rolled a 12, which was a hit.",
+    "source_quote": "rolled 23 and 12, taking the lower; the 12 was still a hit",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "snake death",
+    "fact": "The second attack killed the giant poisonous snake.",
+    "source_quote": "killed the snake",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Sister Maela",
+    "fact": "Sister Maela made a poor stealth roll of 3.",
+    "source_quote": "Sister Maela's poor stealth roll (3)",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "goblin alert",
+    "fact": "Sister Maela's stealth roll alerted a group of goblins.",
+    "source_quote": "alerted a group of goblins",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "goblins",
+    "fact": "Three goblins were spotted initially.",
+    "source_quote": "Three goblins were spotted",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "goblin recognition",
+    "fact": "One goblin noticed Sister Maela.",
+    "source_quote": "one noticed Sister Maela",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zenvon",
+    "fact": "Zenvon rolled an initiative of 7 against the goblins.",
+    "source_quote": "Zenvon rolled initiative of 7",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "deception attempt",
+    "fact": "Nikhil Reddy attempted a deception check claiming the party came to meet Glasstaff.",
+    "source_quote": "claimed the party had heard heroic stories about Glasstaff and came to meet him",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "deception failure",
+    "fact": "The deception check failed.",
+    "source_quote": "the deception failed",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "fourth goblin",
+    "fact": "A fourth goblin shouted in Goblin.",
+    "source_quote": "A fourth goblin shouted in Goblin",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Sildar Hallwinter",
+    "fact": "Sildar Hallwinter's voice was heard in the distance.",
+    "source_quote": "Sildar Hallwinter's voice was heard in the distance",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "short rest",
+    "fact": "The party took a short rest before continuing.",
+    "source_quote": "The party took a short rest before continuing",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zenvon",
+    "fact": "Zenvon recovered to 9 hit points during the short rest.",
+    "source_quote": "Zenvon recovered to 9 hit points",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "goblin attacks on Pip",
+    "fact": "Goblins repeatedly targeted Pip, who took significant damage.",
+    "source_quote": "goblins repeatedly targeted Pip, who took significant damage",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Pip damage total",
+    "fact": "Pip took 6, 3, and 5 points of damage at various stages.",
+    "source_quote": "6 + 3 + 5 points at various stages",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Pip healing",
+    "fact": "Sister Maela used Cure Wounds to heal Pip for 6 hit points.",
+    "source_quote": "Sister Maela used Cure Wounds to heal Pip for 6 hit points",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Veyra magic missile",
+    "fact": "Veyra used Magic Missile to kill one goblin.",
+    "source_quote": "Veyra used Magic Missile, killing one goblin",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "goblin damage reduction",
+    "fact": "Veyra's Magic Missile reduced another goblin to 2 hit points.",
+    "source_quote": "reducing another to 2 hit points",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Pip critical hit",
+    "fact": "Pip scored a critical hit (natural 20) on Yimek for 8 points of damage.",
+    "source_quote": "Pip scored a critical hit (natural 20) on Yimek for 8 points of damage",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "light source activation",
+    "fact": "Nikhil Reddy turned on a light source to remove darkness disadvantage.",
+    "source_quote": "Turned on a light source (using his action), removing the darkness disadvantage",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Yimek attack",
+    "fact": "Nikhil Reddy attacked Yimek with a short sword for 7 damage, killing one goblin.",
+    "source_quote": "Attacked Yimek with a short sword for 7 damage, killing one goblin",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "final goblin attack",
+    "fact": "Nikhil Reddy attacked the final goblin with a short sword for 9 damage.",
+    "source_quote": "attacked the final goblin with a short sword for 9 damage",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Yimek death",
+    "fact": "Sister Maela finished off Yimek with her mace for 6 points of bludgeoning damage.",
+    "source_quote": "Sister Maela finished off Yimek with her mace for 6 points of bludgeoning damage",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Pip shove",
+    "fact": "Pip shoved the last goblin prone.",
+    "source_quote": "Pip shoved the last goblin prone",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "final goblin death",
+    "fact": "Nikhil Reddy delivered the killing blow to the final goblin with a short sword.",
+    "source_quote": "Delivered the killing blow to the final goblin with a short sword",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Yimek",
+    "fact": "Yimek is a goblin boss who was defeated.",
+    "source_quote": "Yimek (goblin boss) were defeated",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Sildar Hallwinter",
+    "fact": "Sildar Hallwinter was found alive but badly wounded with 1 hit point.",
+    "source_quote": "Sildar Hallwinter was found alive but badly wounded with 1 hit point",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "southern ledge",
+    "fact": "Sildar was found bound on the southern ledge.",
+    "source_quote": "Sildar was found bound on the southern ledge",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Sildar Hallwinter",
+    "fact": "Sildar warned that Klarg the bugbear was not killed.",
+    "source_quote": "Warned that Klarg the bugbear was not killed",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Klarg",
+    "fact": "Klarg the bugbear remains a threat deeper in the cave.",
+    "source_quote": "Klarg the bugbear was not killed and remains a threat deeper in the cave",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "bugbear encounter check",
+    "fact": "The party did not encounter or kill any bugbears during the session.",
+    "source_quote": "the party did not encounter or kill any bugbears during the session",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "agates",
+    "fact": "Yimek's body contained 3 agates worth 10 gold pieces each.",
+    "source_quote": "Yimek's body contained 3 agates worth 10 gold pieces each",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "potion of healing",
+    "fact": "Yimek's body contained 1 potion of healing.",
+    "source_quote": "and 1 potion of healing",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "party inventory spreadsheet",
+    "fact": "Kostadis updated the shared party inventory spreadsheet (SNC0417) pinned in the Discord channel.",
+    "source_quote": "Updated the shared party inventory spreadsheet (SNC0417) pinned in the Discord channel",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "potion usage confirmation",
+    "fact": "Nikhil Reddy confirmed the potion of healing can be used by any party member.",
+    "source_quote": "Confirmed the potion of healing can be used by any party member",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "cave clearing",
+    "fact": "The party found a clearing approximately 100 feet from the cave.",
+    "source_quote": "found a clearing approximately 100 feet from the cave",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "trail hiding",
+    "fact": "Pip rolled a natural 20 on the survival check to hide the party's trail.",
+    "source_quote": "Pip (survival +3) rolled a natural 20 on the survival check to hide the party's trail",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zenvon",
+    "fact": "Zenvon assisted Pip with the survival check.",
+    "source_quote": "with Zenvon assisting",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "no fires instruction",
+    "fact": "Pip instructed the party not to make fires.",
+    "source_quote": "No fires",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zenvon",
+    "fact": "Zenvon advanced from Level 1 to Level 2.",
+    "source_quote": "Zenvon gained enough experience points to advance from Level 1 to Level 2",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "level up guidance",
+    "fact": "Kostadis walked Nikhil Reddy through the level-up process on Roll20.",
+    "source_quote": "Walked Nikhil Reddy through the level-up process on Roll20",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "weapon mastery selection",
+    "fact": "Kostadis guided Nikhil Reddy to choose Scimitar and Short Sword for Weapon Mastery.",
+    "source_quote": "guided Nikhil Reddy to choose Scimitar and Short Sword",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Nick property explanation",
+    "fact": "Kostadis explained the Nick weapon property allows the second attack without using the bonus action.",
+    "source_quote": "Explained the Nick weapon property \u2014 allows the second attack to be made without using the bonus action",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Vex property explanation",
+    "fact": "Kostadis explained the Vex weapon property grants advantage on the next attack if the first hits.",
+    "source_quote": "Explained the Vex weapon property \u2014 if the first attack hits, the next attack against the same target has advantage",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zenvon weapon mastery choice",
+    "fact": "Nikhil Reddy chose Short Sword as the second Weapon Mastery selection.",
+    "source_quote": "Chose Short Sword as the second Weapon Mastery selection",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Cunning Action unlock",
+    "fact": "Zenvon gains Cunning Action at Level 2.",
+    "source_quote": "Confirmed Zenvon gains Cunning Action at Level 2",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zenvon",
+    "fact": "Zenvon now has 15 hit points.",
+    "source_quote": "Zenvon is now Level 2 with 15 hit points",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "sidekick leveling",
+    "fact": "Sidekick characters Veyra, Sister Maela, and Pip still need to be leveled up by Kostadis.",
+    "source_quote": "Sidekick characters (Veyra, Sister Maela, Pip) still need to be leveled up by Kostadis",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "audio issues",
+    "fact": "Audio sharing via Zoom was not functioning correctly for most of the session.",
+    "source_quote": "Audio sharing via Zoom was not functioning correctly for most of the session",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "lighting issues",
+    "fact": "Lighting mechanics in Roll20 caused visibility issues for Nikhil Reddy.",
+    "source_quote": "Lighting mechanics in Roll20 caused visibility issues for Nikhil Reddy",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "bugbear Klarg",
+    "fact": "The bugbear Klarg remains undefeated in the cave.",
+    "source_quote": "The bugbear Klarg remains undefeated in the cave",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Klarg threat",
+    "fact": "The bugbear Klarg poses a threat to the party's safety during their rest.",
+    "source_quote": "poses a threat to the party's safety during their rest",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Veyra",
+    "fact": "Veyra has not yet been leveled up to Level 2.",
+    "source_quote": "Sidekick characters (Veyra, Sister Maela, Pip) have not yet been leveled up to Level 2",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Sister Maela",
+    "fact": "Sister Maela has not yet been leveled up to Level 2.",
+    "source_quote": "Sidekick characters (Veyra, Sister Maela, Pip) have not yet been leveled up to Level 2",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Pip",
+    "fact": "Pip has not yet been leveled up to Level 2.",
+    "source_quote": "Sidekick characters (Veyra, Sister Maela, Pip) have not yet been leveled up to Level 2",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "sidekick leveling requirement",
+    "fact": "Kostadis needs to complete the leveling of sidekick characters before the next session.",
+    "source_quote": "Kostadis needs to complete before the next session",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zoom audio debugging",
+    "fact": "Kostadis must debug Zoom audio sharing so Roll20 ambient sounds are audible to Nikhil Reddy.",
+    "source_quote": "Debug Zoom audio sharing so Roll20 ambient sounds are audible to Nikhil Reddy",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "inventory spreadsheet maintenance",
+    "fact": "Kostadis must ensure the party inventory spreadsheet link remains accessible and pinned in the Discord channel.",
+    "source_quote": "Ensure the party inventory spreadsheet link remains accessible and pinned in the Discord channel",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "action economy review",
+    "fact": "Nikhil Reddy must review the pinned action economy reference guide shared in Discord.",
+    "source_quote": "Review the pinned action economy reference guide shared in Discord",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "RPGBot familiarization",
+    "fact": "Nikhil Reddy must familiarize himself with RPGBot for future level-up decisions and ability planning.",
+    "source_quote": "Familiarize himself with RPGBot for future level-up decisions and ability planning",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Klarg strategy decision",
+    "fact": "Nikhil Reddy must decide on a strategy for dealing with the bugbear Klarg before the next session begins.",
+    "source_quote": "Decide on a strategy for dealing with the bugbear Klarg before the next session begins",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Klarg resolution",
+    "fact": "A strategy for dealing with the bugbear Klarg has not yet been decided.",
+    "source_quote": "Decide on a strategy for dealing with the bugbear Klarg before the next session begins",
+    "quote_verified": true
+  }
+]
