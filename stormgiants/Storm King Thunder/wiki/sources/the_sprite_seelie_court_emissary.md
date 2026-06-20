@@ -60,7 +60,7 @@ related: []
 
 ### Connections to Existing Wiki
 - **Existing Pages:**
-  - [[seelie-court]], [[feywild]], [[fomorian]], [[portal]], [[prince-thornacious]], [[thistle]]
+  - [[fey-court-structure]], [[feywild]], [[fomorian]], [[portal]], [[prince-thornacious]], [[thistle]]
 - **Impact:**
   - Strengthens existing knowledge by providing more details about the Seelie Court and its emissaries.
   - Adds context to the party’s interactions with the Feywild and its inhabitants.
@@ -71,7 +71,7 @@ related: []
 
 ### Recommendations
 - **Pages to Create or Update:**
-  - [[sprite-seelie-court-emissary]]
+  - [[the_sprite_seelie_court_emissary]]
 - **Emphasis:**
   - Highlight the Sprite’s role as an emissary and its interactions with Thistle and Thornacious.
   - Include details about the Seelie Court and its governance.

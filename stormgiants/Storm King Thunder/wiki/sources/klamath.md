@@ -74,3 +74,13 @@ related: []
 ### Contradictions & Tensions
 - **Internal Tension:**
   - Klamath’s support for the party’s anti-giant efforts contrasts with his role as a necromancer, whi
+
+## Related
+
+- [[taern_thunderspell_hornblade]]
+- [[talni_barcoba]]
+- [[tapouach]]
+- [[thane_braxow]]
+- [[kurglow]]
+- [[nyalah_uuseff]]
+- [[lord_drylund]]

@@ -35,3 +35,9 @@ related: []
 - **Emphasize**: Highlight Orgazol's role as Narbeck Horn's door-keeper and his interaction with the party.
 - **De-emphasize**: Avoid mentioning his annoyance with Narbeck unless it significantly impacts the narrative.
 - **Open Question**: Consider whether Orgazol's actions have broader implications for the party's relationship with Narbeck Horn.
+
+## Related
+
+- [[silas_carras]]
+- [[tolmarra]]
+- [[uthor]]

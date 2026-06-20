@@ -1,8 +1,8 @@
 ---
 type: source
 title: "Source: elicia_kal_kallaphan.md"
-created: 2026-05-13
-updated: 2026-05-13
+created: 2026-06-06
+updated: 2026-06-06
 sources: ["elicia_kal_kallaphan.md"]
 tags: []
 related: []
@@ -10,56 +10,43 @@ related: []
 
 # Source: elicia_kal_kallaphan.md
 
-### Key Entities
-- **Elicia "Kal" Kallaphan:**
-  - **Name and Type:** Person, Bounty payout handler / operative
-  - **Role in the Source:** Central
-  - **Likely Exists in Wiki:** Yes
-- **The Hand of Yartar:**
-  - **Name and Type:** Organization
-  - **Role in the Source:** Central
-  - **Likely Exists in Wiki:** Yes
-- **Yartar:**
-  - **Name and Type:** Location
-  - **Role in the Source:** Peripheral
-  - **Likely Exists in Wiki:** Yes
+## Key Entities
+*   **Elicia "Kal" Kallaphan** (Person)
+    *   **Role:** Bounty payout handler and operative for the Hand of Yartar.
+    *   **Status:** Central to this specific document; a functional NPC representing the transactional side of the organization.
+    *   **Wiki Status:** New entry required.
+*   **The Hand of Yartar** (Organization)
+    *   **Role:** The employer/faction of Elicia.
+    *   **Status:** Central to the world-building regarding local criminal or mercenary structures.
+    *   **Wiki Status:** Existing concept in "Queries" (query 2026-06-06-002548), but needs a formal entity page if it expands beyond a query.
 
-### Key Concepts
-- **Bounty Payments:**
-  - **Definition:** Financial compensation for completing a task or avenging a death.
-  - **Matters in Source:** Crucial to understanding Kallaphan's role and the nature of her interactions with the party.
-  - **Likely Exists in Wiki:** Yes
-- **Operative:**
-  - **Definition:** A person employed to carry out covert operations.
-  - **Matters in Source:** Relevant to Kallaphan's role as an operative for The Hand of Yartar.
-  - **Likely Exists in Wiki:** Yes
+## Key Concepts
+*   **Bounty Payout Mechanics**
+    *   **Definition:** The process of distributing rewards for completed contracts, involving "cuts" or fees taken by the middleman.
+    *   **Significance:** Establishes the economic reality of the world; Elicia taking a 50% cut (50/200) suggests a high-risk or high-commission environment.
+    *   **Wiki Status:** Likely covered under "The Economics of the Shadow Market" or similar existing concepts.
+*   **Transactional Interaction**
+    *   **Definition:** Interactions devoid of social fluff, humor, or personal connection; strictly business.
+    *   **Significance:** Highlights Elicia’s personality and the professional distance maintained by the Hand of Yartar.
+    *   **Wiki Status:** Related to "Narrative Economy" and "Information-asymmetry-npc-encounters."
 
-### Main Arguments & Findings
-- **Core Claims:**
-  - Kallaphan is an operative for The Hand of Yartar, handling financial transactions related to bounties.
-  - She retains a portion of the bounty payments.
-- **Evidence:**
-  - Direct payment of 200 gold to the party for two bounties.
-  - Her role involves handling financial transactions for the Hand of Yartar.
-- **Strength of Evidence:**
-  - Strong, based on the explicit details provided about her role and the transaction.
+## Main Arguments & Findings
+*   **Professionalism as a Shield:** Elicia is characterized by her lack of reaction to humor, suggesting she is a professional who prioritizes security/procedure over social engagement.
+*   **The "Cut" System:** The fact that she keeps 50% of the bounty (50 out of 200) indicates that the Hand of Yartar operates on a high-margin model or that her role as a "handler" involves significant risk/overhead.
+*   **Limited Information:** Currently, Elicia serves as a "gatekeeper" NPC—she provides a service (payment) but offers no narrative hooks beyond her affiliation with the Hand of Yartar.
 
-### Connections to Existing Wiki
-- **Existing Pages:**
-  - [[The Hand of Yartar]]: This page should be updated to include information about Kallaphan's role as an operative.
-  - [[bounty_payments]]: This page should be expanded to include examples of how bounties are handled by various operatives.
-- **Impact on Knowledge:**
-  - Enhances understanding of the Hand of Yartar's operations and the dynamics between its operatives and the party.
+## Connections to Existing Wiki
+*   **Hand of Yartar:** Directly relates to the query regarding their organization details.
+*   **The Economics of the Shadow Market:** Her role as a payout handler provides a concrete example of how "shadow" transactions are processed.
+*   **Narrative Economy:** She is an example of a character whose presence is defined by her function rather than a complex backstory.
 
-### Contradictions & Tensions
-- **Internal Tension:**
-  - Kallaphan's professional demeanor contrasts with her apparent lack of emotional investment in the party's interactions, suggesting potential internal conflicts within the Hand of Yartar regarding her role.
+## Contradictions & Tensions
+*   **Ambiguity of Intent:** The document notes it is unclear if she tracks or monitors those she pays. This creates a potential "ticking clock" or "hidden threat" tension—is the party being monitored by the Hand of Yartar simply because they collected a bounty?
 
-### Recommendations
-- **Create or Update:**
-  - [[The Hand of Yartar]]
-  - [[bounty_payments]]
-- **Emphasize:**
-  - Detail Kallaphan's role within The Hand of Yartar and her relationship with the party.
-- **Open Questions:**
-  - Investigate further into Kallaphan's full role within The Hand of Yartar and her interactions with other operatives.
+## Recommendations
+*   **Create/Update Page:** Create a page for **Elicia "Kal" Kallaphan**. Even if her arc is currently flat, she serves as a primary point of contact for the Hand of Yartar.
+*   **Update Organiza
+
+## Related
+
+- [[elicia_kal_kallaphan]]

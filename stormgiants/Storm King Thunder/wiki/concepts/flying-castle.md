@@ -14,3 +14,8 @@ sources: ["jevin.md"]
   - **Function:** Used primarily for transportation and as a base of operations
   - **Purpose:** Part of the rescue operation to transport rescued individuals
 - **Significance:** Provided a platform for the rescue mission and Jevin's current location.
+
+## Related
+
+- [[flying-towers]]
+- [[rescue-operation]]

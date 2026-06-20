@@ -47,3 +47,7 @@ tags: [corruption, connections]
 related: []
 sources: ["brenner.md"]
 ---
+
+## Related
+
+- [[brimskarda]]

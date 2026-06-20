@@ -92,10 +92,10 @@ This wiki covers the narrative universe described in the source document "Worvil
 ## Pages
 - [[worvil_forkbeard_the_weevil]]
 - [[xaltivar]]
-- [[axe_of_mirabar]]
-- [[bugbears]]
+- [[miral]]
+- [[the_bugbear]]
 - [[wanted_posters]]
-- [[caravan_intelligence_broker]]
+- [[intelligence-networks]]
 
 ## Open Questions
 - What was the exact nature of the entity that struck Worvil?

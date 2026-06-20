@@ -4,7 +4,7 @@ title: Divine Patrilineage (Giants)
 created: 2026-05-22
 updated: 2026-05-22
 tags: [pantheon, lineage, divine-family, cosmic-hierarchy]
-related: [annam-the-allfather, ordning-shattering, king-hekaton, giant-races]
+related: ["annam-the-oracle-and-annam-the-all-father-of-giants", "shattering-of-the-ordning", "king-hekaton", "giant-races"]
 sources: ["annam_the_allfather.md"]
 ---
 # Divine Patrilineage (Giants)
@@ -23,6 +23,6 @@ The ongoing warfare among Annam’s offspring indicates a breakdown of familial 
 The patrilineage model explains why the shattering of the Ordning was not merely political or territorial, but deeply familial and spiritual. The war among the gods was a civil war of blood — making the decline of the giants a tragedy of inheritance and abandonment.
 
 ## Related Concepts
-- [[annam-the-allfather]]
-- [[ordning-shattering]]
+- [[annam-the-oracle-and-annam-the-all-father-of-giants]]
+- [[shattering-of-the-ordning]]
 - [[spiritual-abandonment]]

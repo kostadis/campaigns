@@ -11,4 +11,14 @@ sources: ["duke_zalto.md"]
 Lore and history provide deeper context for the world and the events unfolding. They offer insights into the past and present, influencing the behavior and decisions of the giant lords and the party.
 
 ## Related Pages
-- [[dungeon-ironslag]]
+- [[characteristics]]
+- [[magic]]
+- [[ordning]]
+- [[vonindod]]
+- [[ragnarok]]
+- [[strategy]]
+- [[quest]]
+- [[religion]]
+- [[philosophy]]
+- [[technology]]
+- [[ironslag]]

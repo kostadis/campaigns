@@ -15,3 +15,7 @@ Occurred prior to the party's arrival, involving two assassins. These attempts o
 - **Outcome:** Assassins fled the scene without reaching Hyuth
 - **Impact:** Hyuth's refusal to compensate the victims and his subsequent actions (summoning gargoyles, sending no word to the stable hand's relatives) indicate his deep-seated paranoia and antisocial behavior.
 - **Role in Narrative:** These attempts set the stage for Hyuth's current standoff with the party and highlight his reluctance to engage with the community.
+
+## Related
+
+- [[mental-death-imagery]]

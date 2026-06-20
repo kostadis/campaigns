@@ -26,3 +26,7 @@ The Beloved Companion (non-human) expands the emotional architecture of antagoni
 This concept resonates deeply with [[spiritual-abandonment]] and [[psychological-underestimation-as-vulnerability]]. When divine or institutional structures fail, the final sources of meaning often become the most unexpected — a silent bear, an unnamed shadow-beast — rendering them both sacred and devastating to lose. The ambiguity surrounding the companion’s sentience or origin (see [[ambiguous-sentience]]) further deepens the emotional weight, as the bond exists beyond rational understanding.
 
 The Beloved Companion is not a pet, not a tool, not a familiar — it is the last echo of connection in a broken world.
+
+## Related
+
+- [[emotional-anchor-relationships]]

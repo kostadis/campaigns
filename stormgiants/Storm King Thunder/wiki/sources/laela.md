@@ -38,8 +38,8 @@ related: []
   - Strong, based on Thistle's observations and interactions with Laela.
 
 ### Connections to Existing Wiki
-- **[[fey]]**: Links to Laela's fey nature and potential fey-meditative state.
-- **[[dragon-hybrid-experiment]]**: Links to Iymrith's experiment involving Laela.
+- **[[non-human-perspectives-on-fey-religion-2026-06-06-063446]]**: Links to Laela's fey nature and potential fey-meditative state.
+- **[[hybridization-experiments]]**: Links to Iymrith's experiment involving Laela.
 - **silverymoon**: Links to Thistle's attachment to Silverymoon and his reluctance to risk its safety for Laela's rescue.
 - **[[iymrith]]**: Links to Iymrith's role as Laela's captor and experimenter.
 
@@ -48,4 +48,5 @@ related: []
 - **External Conflict:** The party's conflicting desires to save Laela versus Thistle's reluctance to risk Silverymoon.
 
 ### Recommendations
-- **Create Pages:** [[fey-fullness]], [[dragon-hybrid-experiment]], [[silve
+- **Create Pages:** [[non-human-perspectives-on-fey-religion-2026-06-06-063446]], [[hybridization-experiments]], [[larrish]]
+- [[larrish]]

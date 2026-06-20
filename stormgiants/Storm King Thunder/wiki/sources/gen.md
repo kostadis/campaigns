@@ -1,45 +1,41 @@
 ---
 type: source
-title: "Source: gen.md"
+title: Source: gen.md
 created: 2026-05-13
-updated: 2026-05-13
+updated: 2026-06-06
 sources: ["gen.md"]
-tags: []
-related: []
+tags: [kobold, npc, merchant]
+related: ["gen", "agra", "servant-master-dynamics", "narrative-economy", "abandoneddwarvenoutpost-2026-06-06-042014", "treasure-trading"]
 ---
 
-# Source: gen.md
+# Gen
 
-### Key Entities
-- **Kobold (Gen):** Merchant specialist, subordinate to Agra, first encountered at the abandoned dwarven outpost.
-- **Agra:** Leader of the kobolds, appears central to the narrative.
-- **Party:** The group of adventurers, peripheral to the main story.
-- **Abandoned Dwarven Outpost:** Location where Gen and Agra were initially discovered, central to the initial encounter.
-- **Treasure:** Item used to secure the party's goodwill, central to the interaction.
+**Gen** is a kobold and merchant specialist who was first encountered at an **[[abandoneddwarvenoutpost-2026-06-06-042014]]**. He is characterized by a complex personality that balances impulsive behavior with pragmatic capabilities.
 
-### Key Concepts
-- **Impulsiveness vs. Pragmatism:** Character trait of Gen, significant in the standoff and subsequent decision-making.
-- **Emotional Dependency:** Relationship between Gen and Agra, influencing Gen’s behavior and decisions.
-- **Tension Between Leadership and Subordinate:** Dynamic between Agra and Gen, central to their interaction.
+### Appearance and Traits
+*   **Physicality:** Gen bears visible burn scars on his body.
+*   **Personality:** He is noted for his impulsiveness, which often creates tension during high-pressure situations. However, he remains pragmatically capable, particularly when navigating negotiations.
 
-### Main Arguments & Findings
-- **Core Claim:** Gen is a subordinate to Agra, characterized by impulsiveness and emotional dependency, leading to a tense standoff and a pragmatic decision to offer treasure.
-- **Evidence:** 
-  - Physical restraint by Agra during the standoff.
-  - Suggestion of offering treasure by Gen to secure the party's goodwill.
-  - Departure of both Gen and Agra alive after the standoff.
-- **Strength of Evidence:** Strong, supported by direct actions and outcomes of the encounter.
+### Relationships and Dynamics
+Gen serves as a subordinate to **Agra**, the leader of their kobold group. Their relationship is defined by several key dynamics:
+*   **Emotional Dependency:** Gen exhibits a significant emotional dependency on Agra, which heavily influences his behavior and decision-making.
+*   **Leadership Tension:** There is a palpable tension between Agra’s role as a leader and Gen's position as a subordinate, particularly during moments of conflict.
 
-### Connections to Existing Wiki
-- **[[kobold]]:** Relevant, as Gen is explicitly identified as a kobold.
-- **[[abandoned-dwarven-outpost]]:** Directly linked to the initial encounter.
-- **[[treasure-trading]]:** Central to the interaction, highlighting the role of treasure in negotiations.
+### Key Events: The Outpost Standoff
+During an encounter at the **[[abandoneddwarvenoutpost-2026-06-06-042014]]**, a standoff occurred involving Gen, Agra, and a group of adventurers (the Party). 
 
-### Contradictions & Tensions
-- **Internal Tension:** Gen’s impulsiveness conflicts with Agra’s leadership, creating tension during the standoff.
-- **External Tension:** The party’s departure on neutral terms indicates a lack of strong bonds, despite the encounter.
+*   **The Negotiation:** During the standoff, Gen's impulsiveness conflicted with Agra’s leadership. To resolve the tension and secure the party's goodwill, a pragmatic decision was made to offer **[[treasure-trading]]**.
+*   **Outcome:** The interaction concluded with both Gen and Agra departing the site alive on neutral terms with the party.
 
-### Recommendations
-- **Create Pages:** [[gen]], [[agra]], [[abandoned-dwarven-outpost]], [[treasure-trading]]
-- **Emphasize:** The dynamic between Gen and Agra, the role of the abandoned dwarven outpost, and the significance of the treasure.
-- **Open Question:** Investigate further into Gen’s background and motivations beyond the immediate encounter.
+### Summary of Findings
+| Feature | Description |
+| :--- | :--- |
+| **Role** | Merchant specialist; subordinate to Agra |
+| **Key Traits** | Impulsive, pragmatically capable, emotionally dependent |
+| **Primary Location** | [[abandoneddwarvenoutpost-2026-06-06-042014]] |
+| **Core Conflict** | Tension between leadership and subordinate roles during high-pressure negotiations |
+
+### Related Links
+*   **[[kobold-tribe]]**: Gen's primary species.
+*   **[[abandoneddwarvenoutpost-2026-06-06-042014]]**: The site of the initial encounter.
+*   **[[treasure-trading]]**: The mechanism used to resolve the standoff and secure goodwill.

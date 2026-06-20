@@ -11,3 +11,10 @@ sources: ["harthos_zymorven.md"]
 - **Description:** The instantaneous movement of magical beings or objects.
 - **Influence:** Harthos's execution by decapitation is designed to prevent magical resurrection.
 - **Associated Characters:** Harthos Zymorven
+
+## Related
+
+- [[teleportation-circle]]
+- [[teleportation-capability]]
+- [[teleportation]]
+- [[magic-transmutation]]

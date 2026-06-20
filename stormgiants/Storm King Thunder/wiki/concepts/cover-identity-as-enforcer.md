@@ -4,7 +4,7 @@ title: Cover Identity as Enforcer
 created: 2026-06-15
 updated: 2026-06-15
 tags: [operational-disguise, field-agent, hidden-master, violent-proxy]
-related: [cover-identity-as-merchant, layered-command-structure, operational-secrecy-via-obscurer-authority, borg-the-hammer, the-carver, azam, hsing, aletra-satora, kp]
+related: ["cover-identity-as-merchant", "organizational-secrecy-via-bosses", "borg-the-hammer", "azam", "hsing", "aletra-satora", "kp"]
 sources: ["npcs/borg_the_hammer.md"]
 ---
 # Cover Identity as Enforcer
@@ -18,3 +18,7 @@ This pattern mirrors [[azam]] (merchant front) and [[aletra-satora]] (engineer f
 The enforcer is never the master — he is the mask. His failure does not end the operation; it confirms its depth. The Carver does not need Borg to succeed — he needs Borg to be *seen*. The enforcer’s existence proves the system is real; his destruction proves the system is resilient.
 
 This concept reveals a core narrative truth: in this world, the most dangerous figures are not the ones who strike — but the ones who never show their face.
+
+## Related
+
+- [[cover-identity-as-engineer]]

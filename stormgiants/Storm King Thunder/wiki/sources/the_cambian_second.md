@@ -34,7 +34,7 @@ related: []
 - **Strength of Evidence:** Strong, as multiple actions and events are described in detail.
 
 ### Connections to Existing Wiki
-- **Existing Pages:** [[the_cambian_first]], [[unla_kee]], [[or_sik]], [[vinby_hearthgood]], [[halfling_companion]]
+- **Existing Pages:** [[the_cambian_first]], [[unla_kee]], [[orsik]], [[vinby_hearthgood]], [[capn-squint-with-halflings]]
 - **Impact:** The Cambian (Second)'s involvement adds depth to the narrative, providing more details about the cambion faction and their operations.
 
 ### Contradictions & Tensions
@@ -42,7 +42,7 @@ related: []
 - **External Conflict:** The Cambian (Second)'s allegiance remains unclear, potentially creating tension within the cambion faction.
 
 ### Recommendations
-- **Create Pages:** [[the_cambian_second]], [[the_cambion_faction]], [[unla_kee]], [[or_sik]], [[vinby_hearthgood]], [[halfling_companion]]
+- **Create Pages:** [[the_cambian_second]], [[the_cambion_faction]], [[unla_kee]], [[orsik]], [[vinby_hearthgood]], [[capn-squint-with-halflings]]
 - **Emphasize:** The Cambian (Second)'s role in the cambion faction and its interactions with other characters.
 - **De-emphasize:** The Cambian (Second)'s internal motivations or broader allegiances, as these are currently unknown.
 - **Open Question:** Investigate the Cambian (Second)'s relationship with the First Cambian and its potential role within the cambion faction.

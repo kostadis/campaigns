@@ -13,3 +13,7 @@ The Six Giant Statues are artifacts, each representing a lantern light consumed 
 ## Key Features
 - **Function:** Each question consumes one lantern light from the six giant statues.
 - **Purpose:** To ensure the oracle's answers are always true and aligned with the party's actions.
+
+## Related
+
+- [[lantern-light-consumption]]

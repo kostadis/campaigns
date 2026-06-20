@@ -13,3 +13,7 @@ Imber Chen's views on Silverymoon's racial inclusivity, which contrasts with his
 ## Key Points
 - Silverymoon's broader narrative of racial inclusivity
 - Contrast with Imber's exclusionary views on race and personhood
+
+## Related
+
+- [[race]]

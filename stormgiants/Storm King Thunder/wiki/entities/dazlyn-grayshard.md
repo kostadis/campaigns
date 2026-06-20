@@ -4,14 +4,14 @@ title: Dazlyn Grayshard
 created: 2025-05-22
 updated: 2026-05-27
 tags: [dwarf, merchant, prospector, npc, independent, grounded-npc]
-related: [norbus-ironrune, temple-of-abbathor, phandalin, sending-stones, abbathor, transaction-as-trust-building, warmth-after-resolution, prospecting-as-narrative-entry-point, narrative-economy, background-npc]
+related: ["norbus-ironrune", "temple-of-abbathor", "phandalin", "sending-stones", "transaction-as-trust-building", "warmth-after-resolution", "prospecting-as-narrative-entry-point", "narrative-economy", "background-npc"]
 sources: ["norbus_ironrune.md", "dazlyn_grayshard.md", "npcs/dazlyn_grayshard.md"]
 ---
 # Dazlyn Grayshard
 
 Dazlyn Grayshard is a Shield dwarf merchant, prospector, and co-discoverer of ancient dwarven ruins southwest of [[phandalin]]. He operates independently, with no known factional ties, and is defined by transparency, competence, and emotional authenticity. Unlike many NPCs in the campaign who conceal agendas or undergo dramatic arcs, Dazlyn is a *grounded resident* — his motivations are clear, his actions consistent, and his interactions unmanipulative.
 
-He and his long-standing business partner, [[norbus-ironrune]], spent several months clearing rubble in the canyon before discovering the [[temple-of-abbathor]]. Dazlyn willingly shared the site’s history with the party, explaining that the settlement’s destruction by earthquake and avalanche was believed to be divine punishment from [[abbathor]] for inadequate sacrifices. He offered [[sending-stones]] as fair, non-exploitative compensation for the party’s help in clearing the temple of orcs — a transaction rooted in mutual respect, not coercion.
+He and his long-standing business partner, [[norbus-ironrune]], spent several months clearing rubble in the canyon before discovering the [[temple-of-abbathor]]. Dazlyn willingly shared the site’s history with the party, explaining that the settlement’s destruction by earthquake and avalanche was believed to be divine punishment from [[temple-of-abbathor]] for inadequate sacrifices. He offered [[sending-stones]] as fair, non-exploitative compensation for the party’s help in clearing the temple of orcs — a transaction rooted in mutual respect, not coercion.
 
 After the threat was neutralized, Dazlyn celebrated with the party over a shared meal — an act of warmth and gratitude with no hidden motive. He demonstrates a warm and celebratory nature once professional or survival-based threats are resolved, reinforcing his reputation for emotional authenticity.
 
@@ -31,3 +31,8 @@ Dazlyn and [[norbus-ironrune]] discovered the Temple of Abbathor while prospecti
 - **[[the-party]]**: Maintains a friendly, transactional relationship that transitioned into [[transactional-hospitality]] following the resolution of the temple threat.
 
 Dazlyn’s interactions are marked by consistency and integrity, making him a rare and enduring presence in the campaign world.
+
+## Related
+
+- [[don-jon-raskin]]
+- [[dwolin-the-grout]]

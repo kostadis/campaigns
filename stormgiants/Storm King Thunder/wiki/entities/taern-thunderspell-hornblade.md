@@ -86,3 +86,7 @@ sources: ["taern_thunderspell_hornblade.md"]
 - Added new entries to the index.md file reflecting the newly created pages.
 - Added new entries to the log.md file documenting the ingestion of the taern_thunderspell_hornblade.md source.
 - Updated the overview.md file to reflect the newly added pages and concepts.
+
+## Related
+
+- [[slerdax]]

@@ -4,7 +4,7 @@ title: Qelline Alderleaf's Farm
 created: 2026-06-15
 updated: 2026-06-15
 tags: [location, reconciliation-site, grazing-rights, redemption-hub]
-related: ["petunia", "qelline-alderleaf", "grazing-rights-as-metaphor-for-reconciliation", "redemption-through-acknowledgment"]
+related: ["petunia-the-cow", "qelline-alderleaf", "grazing-rights-as-metaphor-for-reconciliation", "redemption-through-acknowledgment"]
 sources: ["npcs/alphonse_big_al_kalazorn.md"]
 ---
 # Qelline Alderleaf's Farm

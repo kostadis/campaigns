@@ -1,18 +1,30 @@
 ---
 type: entity
 title: Privy Council of Phandalin
-created: 2026-06-15
-updated: 2026-06-15
-tags: [organization, governance, phandalin, political-structure]
-related: [harbin-wester, vukradin, adabra-gwynn, brewbarry, tolbin, elmer, halia, linene, defensive-deference, power-sharing-as-tactical-retreat, cynical-alliance-as-strategy, bureaucratic-oracle]
-sources: ["npcs/harbin_wester.md"]
+created: 2025-05-22
+updated: 2026-06-07
+tags: ["governance", "phandalin", "politics", "organization", "political-structure"]
+related: ["harbin-wester", "adabra-gwynn", "vukradin", "linene", "halisa", "elmer", "tolbin", "brewbarry", "defensive-deference", "power-sharing-as-tactical-retreat", "cynical-alliance-as-strategy", "bureaucratic-oracle"]
+sources: ["harbin_wester.md", "npcs/harbin_wester.md"]
 ---
 # Privy Council of Phandalin
 
-A governing body formed by Harbin Wester during the crisis following the defeat of Cryovain, the Privy Council of Phandalin was presented as a reform to share civic leadership but functioned as a mechanism to diffuse blame and preserve Harbin’s authority. Its members include Harbin Wester (chair), Vukradin, Adabra Gwynn, Brewbarry, Tolbin, Elmer, Halia, and Linene.
+The **Privy Council** is a governing body in Phandalin established as a compromise to transition the town from the unilateral rule of [[harbin-wester]] to a shared governance model. Formed during the crisis following the defeat of Cryovain, it was presented publicly as a reform to share civic leadership; however, it functioned internally as a mechanism to diffuse blame and preserve Harbin’s authority.
 
-Harbin framed the council as his foresight — publicly claiming it “brought heroes to Phandalin” — while privately using it to insulate himself from direct accountability. The council meets to review quests, manage post-conflict recovery, and address threats like the Cult of Talos, but Harbin retains control over agenda-setting, funding allocation, and public narrative.
+## Composition
+The council consists of the following members:
+* **[[harbin-wester]]**: Chair of the council and Townmaster.
+* **[[vukradin]]**: Adventurer and council member.
+* **[[adabra-gwynn]]**: Druid and council member.
+* **[[linene]]**: Council member.
+* **[[halisa]]**: Council member.
+* **[[elmer]]**: Council member.
+* **[[tolbin]]**: Council member.
+* **Brewbarry**: Council member.
 
-The council’s existence exemplifies [[power-sharing-as-tactical-retreat]]: a superficial democratization that masks centralized control. It mirrors the [[cynical-alliance-as-strategy]] — a coalition of convenience, not conviction. Vukradin and Adabra serve as moral counterweights, but their influence is constrained by Harbin’s procedural dominance and his ability to invoke Lord Neverember’s authority.
+## Dynamics and Governance
+The council meets to review quests, manage post-conflict recovery, and address local threats such as the Cult of Talos. While intended to distribute power, the institution functions largely as a form of [[power-sharing-as-tactical-retreat]]—a superficial democratization that masks Harbin's centralized control.
 
-The Privy Council is not a democratic institution — it is a political theater. Its meetings are ritualized, its outcomes predetermined, and its legitimacy derived not from consent, but from Harbin’s narrative control. It endures as a symbol of how power adapts to pressure without surrendering its core.
+Harbin frames the council’s existence as his foresight, publicly claiming it "brought heroes to Phandalin," while privately using it to insulate himself from direct accountability. The council represents a [[cynical-alliance-as-strategy]], where members like Vukradin and Adabra serve as moral counterweights but are ultimately constrained by Harbin’s procedural dominance and his ability to invoke the authority of Lord Neverember.
+
+The Privy Council is not a democratic institution but rather a piece of political theater. Its meetings are ritualized, its outcomes are often predetermined, and its legitimacy is derived from Harbin's narrative control rather than collective consent. It serves as a symbol of how power adapts to external pressure without surrendering its core structure.

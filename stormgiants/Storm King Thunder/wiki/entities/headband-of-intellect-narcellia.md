@@ -2,17 +2,17 @@
 type: entity
 title: Headband of Intellect (Narcellia)
 created: 2026-05-28
-updated: 2026-05-28
-tags: [artifact, sentient, soul-bound, corruption, mind-control]
-related: [bad-fruul, narcellia-varammyr, chandra, soul-manipulation, headband-of-intellect-as-demonic-influence, orsik]
+updated: 2026-06-07
+tags: ["artifact", "sentient", "soul-bound", "corruption", "mind-control", "artifact-corruption", "sentient-magic", "soul-manipulation"]
+related: ["bad-fruul", "narcellia-varammyr", "chandra", "soul-manipulation", "orsik", "headband-of-intellect-narcellia", "divine-oracle", "divine-knowledge-as-strategic-tool"]
 sources: ["bad_fruul.md"]
 ---
 # Headband of Intellect (Narcellia)
 
-A magical artifact that enhances the wearer’s intelligence and grants access to arcane knowledge, but contains the bound consciousness of [[Narcellia Varam’myr]]. Unlike standard headbands of intellect, this item does not merely augment cognition — it imposes external control, subtly manipulating the wearer’s decisions, ambitions, and emotional responses.
+The **Headband of Intellect (Narcellia)** is a magical artifact that enhances the wearer’s intelligence and grants access to arcane knowledge. However, it functions as more than a simple cognitive enhancer; it serves as a vessel for the bound consciousness of [[narcellia-varammyr]]. This makes the item a primary example of **headband-of-intellect-as-demonic-influence**: a phenomenon in which an artifact designed to provide enlightenment instead becomes a conduit for external, manipulative, or corrupting consciousness.
 
-It was worn by [[Bad Fruul]], enabling his strategic acumen and driving his campaign against Parnast. The artifact’s influence explains his deviation from drow cultural norms, his obsession with Chandra, and his inability to land attacks despite superior planning — suggesting Narcellia’s control may have been destabilizing or misaligned with his physical capabilities.
+Unlike the constrained, truthful revelations provided by the [[divine-oracle]], the influence of this headband is unregulated, self-serving, and psychologically corrosive. It does not empower the wearer; rather, it enslaves them by binding their will to Narcellia's desires, subtly directing their actions, amplifying their ambitions, and overriding their cultural instincts. This represents a form of [[soul-manipulation]] where knowledge, when divorced from autonomy, becomes a curse.
 
-Orsik attempted to recover the headband after Bad Fruul’s death, indicating its value and danger. Its origin is unknown, but its connection to Chandra’s family nemesis suggests it may have been crafted or repurposed as a weapon against her lineage.
+The artifact was notably worn by [[bad-fruul]], whose strategic acumen and campaign against Parnast were fueled by its power. However, the influence also caused him to deviate from drow cultural norms, develop an obsession with [[Chandra]], and exhibit extreme emotional volatility and aggression. His inability to land attacks despite superior planning suggests that Narcellia’s control may have been unstable or misaligned with his physical capabilities.
 
-This artifact exemplifies the concept of [[headband-of-intellect-as-demonic-influence]]: a tool of enlightenment that becomes a vessel of possession. Its current location is unknown, and its potential to seek a new host remains a critical threat.
+The headband's survival after Bad Fruul’s death indicates that its influence is not tied to a single host, making it a persistent, mobile threat. Its value and danger were evidenced by [[orsik]]'s attempt to recover the item following Bad Fruul's demise. While its origin remains unknown, its connection to [[Chandra]]’s family nemesis suggests it may have been crafted or repurposed as a weapon specifically targeted against her lineage.

@@ -16,3 +16,11 @@ Concept referring to the overall setting and context of the story. Central to th
 
 ## Notes
 - Central to the SEER's conflict and operations.
+
+## Related
+
+- [[authority]]
+- [[payment]]
+- [[patron-adjacent-figure]]
+- [[secret-organization]]
+- [[region]]

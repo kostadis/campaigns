@@ -1,8 +1,8 @@
 ---
 type: source
 title: "Source: grik.md"
-created: 2026-05-13
-updated: 2026-05-13
+created: 2026-06-06
+updated: 2026-06-06
 sources: ["grik.md"]
 tags: []
 related: []
@@ -10,69 +10,52 @@ related: []
 
 # Source: grik.md
 
-### Key Entities
-- **Grik**:
-  - **Name and Type**: Goblin chief, field commander
-  - **Role in the Source**: Central figure in the encounter at Ambush Gap
-  - **Likely Exists in Wiki**: Likely, given the detailed description and role in the narrative.
+## Key Entities
 
-- **Bad Fruul**:
-  - **Name and Type**: Goblin warlord
-  - **Role in the Source**: Central antagonist, directly commanding Grik
-  - **Likely Exists in Wiki**: Likely, as he is a key character in the narrative.
+*   **Grik** (Goblin chief)
+    *   **Role:** Central (as a narrative gatekeeper and source of intelligence).
+    *   **Status:** Exists in the wiki as `[[grik]]`. This document provides specific details regarding his role as a field commander and his death.
+*   **Bad Fruul** (Antagonist)
+    *   **Role:** Central; Grik's superior and the primary threat to Parnast.
+    *   **Status:** Exists in the wiki as `[[bad-fruul]]`.
+*   **Orsik** (Party Member/Ally)
+    *   **Role:** Peripheral (combatant).
+    *   **Status:** Exists in the wiki via the concept `[[orsik]]`.
+*   **Thistle** (Ally/Companion)
+    *   **Role:** Peripheral.
+    *   **Status:** Exists in the wiki as `[[thistle-wendrod]]`.
+*   **Unla Kee** (Party Member)
+    *   **Role:** Peripheral.
+    *   **Status:** Exists in the wiki as `[[unla-kee]]`.
+*   **Ambush Gap** (Location)
+    *   **Role:** Central to this specific encounter; the site of Grik's defense and death.
+    *   **Status:** Not explicitly listed as a standalone location, but implied by the context of the `[[bad-fruul]]` arc.
 
-- **Thistle**:
-  - **Name and Type**: Human ranger
-  - **Role in the Source**: Peripheral, providing support to the party
-  - **Likely Exists in Wiki**: Likely, as he is a notable character in the story.
+## Key Concepts
 
-- **Unla Kee**:
-  - **Name and Type**: Human druid
-  - **Role in the Source**: Peripheral, providing support to the party
-  - **Likely Exists in Wiki**: Likely, as she is a significant character in the narrative.
+*   **Intelligence Gathering via Loot:** The use of physical items (the gold stylus and letter) to transition from a combat encounter to narrative progression.
+    *   **Significance:** This is how the party learns about Bad Fruul's specific plans for Parnast.
+    *   **Status:** Related to `[[information-asymmetry-npc-encounters]]`.
+*   **Tactical Use of Subordinates:** Grik’s use of a "living shield" highlights his ruthless pragmatism.
+    *   **Significance:** Establishes the low moral standing of Bad Fruul's forces.
+    *   **Status:** Related to `[[tactical-adaptation-in-combat]]`.
 
-- **Orsik**:
-  - **Name and Type**: Human rogue
-  - **Role in the Source**: Central, killing Grik
-  - **Likely Exists in Wiki**: Likely, as he is a key figure in the story.
+## Main Arguments & Findings
 
-### Key Concepts
-- **Ambush Gap**:
-  - **Definition**: Location where Grik confronts the party
-  - **Matters**: Crucial setting for the confrontation and the revelation of Bad Fruul’s plans.
-  - **Likely Exists in Wiki**: Likely, as it is a central location in the narrative.
+*   **Grik as a Narrative Tool:** Grik serves primarily as a "disposable" antagonist whose role is to provide the first concrete evidence of Bad Fruul's ambitions.
+*   **Evidence of Intent:** The letter found on his body provides tangible proof of Bad Fruul’s intent to seize Parnast and his use of chemical warfare (poison) ahead of the ambush.
+*   **Combat Dynamics:** The encounter at Ambush Gap highlights the tactical nature of the goblin forces, who utilize terrain (raised tiles) and sacrificial tactics.
 
-- **Poison**:
-  - **Definition**: Chemical substance used to incapacitate travelers
-  - **Matters**: Used by Bad Fruul to weaken travelers before the ambush.
-  - **Likely Exists in Wiki**: Likely, as it is a significant plot element.
+## Connections to Existing Wiki
 
-### Main Arguments & Findings
-- **Core Claims or Results**:
-  - Grik was a subordinate of Bad Fruul, tasked with enforcing Bad Fruul's control over Ambush Gap.
-  - Grik used a subordinate as a shield during combat, demonstrating his ruthlessness.
-  - Grik was killed by Orsik, providing the party with crucial intelligence about Bad Fruul’s plans.
+*   **Strengthens `[[bad-fruul]]`:** Provides specific evidence of his leadership style and strategic planning (the use of poison and written orders).
+*   **Supports `[[thistle-wendrod]]` and `[[unla-kee]]`:** Confirms their participation in the Ambush Gap encounter.
+*   **Links to `[[information-asymmetry-npc-encounters]]`:** The transition from Grik as a "threat" to Grik as a "source of information" upon his death is a classic example of this concept.
 
-- **Evidence Supporting Claims**:
-  - Grik's actions and motivations are described in detail, aligning with Bad Fruul's orders.
-  - The letter found in Grik's body provides concrete intelligence about Bad Fruul's intentions.
-  - Grik's death by Orsik confirms his status as a subordinate and the party's victory.
+## Contradictions & Tensions
 
-- **Strength of Evidence**:
-  - The narrative details provide strong evidence for Grik's role and actions.
-  - The letter and stylus serve as tangible proof of Grik's importance and the party's intelligence gain.
+*   **None identified.** The document is consistent with the established roles of Bad Fruul and the party members.
 
-### Connections to Existing Wiki
-- **Existing Pages**:
-  - Ambush Gap: Likely linked to this encounter.
-  - Bad Fruul: Likely linked to his command over Grik.
-  - Orsik: Likely linked to his role in the confrontation.
-  - Thistle and Unla Kee: Likely linked to their roles in supporting the party.
+## Recommendations
 
-- **Impact**:
-  - This source strengthens existing knowledge about the characters and events in Ambush Gap.
-  - It extends the narrative by providing new information about Bad Fruul’s plans.
-
-### Contradictions & Tensions
-- **Internal Tension**:
-  - Grik
+*   **Update `[[grik]]`:** Incorporate the specific details about his role as a "field comman

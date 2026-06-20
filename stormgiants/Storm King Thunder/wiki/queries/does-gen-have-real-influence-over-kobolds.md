@@ -15,3 +15,7 @@ sources: ["gen.md"]
 - **Strength of Evidence:** Moderate, based on the limited information provided.
 - **Open Question:** Further investigation is needed to understand Gen's true influence over the kobolds.
 - **Search Suggestions:** "Influence of Gen on Kobolds," "Gen's Role in Kobold Dynamics," "Understanding Gen's Authority"
+
+## Related
+
+- [[does-gen-have-real-influence-over-kobolds-2026-05-13]]

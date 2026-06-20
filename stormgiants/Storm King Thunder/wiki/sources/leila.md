@@ -34,8 +34,8 @@ related: []
 ### Connections to Existing Wiki
 - **[[rogue]]**: Relevant, as Leila fits this role classification.
 - **[[love]]**: Relevance, as it explains Leila’s emotional drive.
-- **[[moral-limits]]**: Relevance, explaining her decision to leave Harthal.
-- **[[adventuring]]**: Relevance, explaining her pursuit of Thistle.
+- **[[comedic-moral-contrast]]**: Relevance, explaining her decision to leave Harthal.
+- **[[ethical-adventuring]]**: Relevance, explaining her pursuit of Thistle.
 
 ### Contradictions & Tensions
 - **Internal Tension**: Leila’s actions suggest she has moral limits, yet she manipulates others. This internal tension could be explored further.
@@ -46,4 +46,4 @@ related: []
 - **Emphasize**: Her love for Thistle and her determination to find him.
 - **De-emphasize**: Specific details about her interactions with Harthal, as they are peripheral to the main narrative.
 - **Open Question**: Explore the nature of her moral limits and how they influence her actions.
-- **Existing Pages Related**: [[rogue]], [[love]], [[moral-limits]], [[adventuring]].
+- **Existing Pages Related**: [[rogue]], [[love]], [[comedic-moral-contrast]], [[ethical-adventuring]].

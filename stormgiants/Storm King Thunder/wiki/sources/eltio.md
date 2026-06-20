@@ -1,8 +1,8 @@
 ---
 type: source
 title: "Source: eltio.md"
-created: 2026-05-13
-updated: 2026-05-13
+created: 2026-06-06
+updated: 2026-06-06
 sources: ["eltio.md"]
 tags: []
 related: []
@@ -10,80 +10,52 @@ related: []
 
 # Source: eltio.md
 
-### Key Entities
-- **Eltio:**
-  - **Name and Type:** Operative, Merchant, Criminal
-  - **Role in the Source:** Central
-  - **Existing in Wiki:** Likely
-- **Hand of Yartar:**
-  - **Name and Type:** Organization
-  - **Role in the Source:** Peripheral
-  - **Existing in Wiki:** Likely
-- **Tamalin Zoar:**
-  - **Name and Type:** Legendary Criminal
-  - **Role in the Source:** Peripheral
-  - **Existing in Wiki:** Likely
-- **Maia:**
-  - **Name and Type:** Adventurer
-  - **Role in the Source:** Peripheral
-  - **Existing in Wiki:** Likely
-- **Orsik:**
-  - **Name and Type:** Adventurer
-  - **Role in the Source:** Peripheral
-  - **Existing in Wiki:** Likely
-- **Vardis:**
-  - **Name and Type:** Adventurer
-  - **Role in the Source:** Peripheral
-  - **Existing in Wiki:** Likely
+## Key Entities
 
-### Key Concepts
-- **Hand of Yartar:**
-  - **Definition:** An organization serving the interests of Yartar, controlling intelligence and high-value contacts.
-  - **Matters:** Central to the narrative, representing a key antagonist.
-- **Eltio's Intelligence Network:**
-  - **Definition:** Her extensive network of contacts and sources within the criminal underworld and intelligence community.
-  - **Matters:** Crucial for understanding Eltio's capabilities and the reliability of her information.
-- **Execution Method:**
-  - **Definition:** A specific method of execution chosen to prevent resurrection.
-  - **Matters:** Influences the timing and urgency of the mission.
+*   **Eltio** (Organization Operative)
+    *   **Role:** Central. She serves as a gatekeeper for information and high-value contacts within the Hand of Yartar.
+    *   **Status:** New entity; needs to be added to the wiki.
+*   **Hand of Yartar** (Criminal Organization)
+    *   **Role:** Central. The organization Eltio represents.
+    *   **Status:** Likely exists or should be expanded as a primary criminal faction in Yartar.
+*   **Tamalin Zoar** (Legendary Criminal)
+    *   **Role:** Central/Contextual. A high-status figure whose "Letter of Mark" is the key to Eltio's cooperation.
+    *   **Status:** Likely exists; her reputation is a significant plot point.
+*   **Harthal Zymorven** (Target/Prisoner)
+    *   **Role:** Central. The objective the party seeks via Eltio’s information.
+    *   **Status:** New entity or needs update to include his imprisonment status and upcoming execution.
+*   **Tholzar Brenner** (Antagonist/Target)
+    *   **Role:** Peripheral/Tactical. The individual currently possessing the "Giant Slayer sword."
+    *   **Status:** New entity; relevant for the current quest arc.
+*   **Orsik** (Party Member/Notorious Figure)
+    *   **Role:** Central. Recognized by Eltio for his specific reputation ("the guy who did that thing").
+    *   **Status:** Exists in wiki; this source confirms his notoriety extends into criminal circles.
+*   **Vardis** (Party Member)
+    *   **Role:** Central. Successfully navigated a negotiation with Eltio by identifying her personal interests.
+    *   **Status:** Exists in wiki.
+*   **Maia** (Party Member/Associate)
+    *   **Role:** Peripheral. Reprimanded by Eltio for lack of standing.
+    *   **Status:** Exists in wiki.
 
-### Main Arguments & Findings
-- **Core Claims:**
-  - Eltio is a Hand of Yartar operative with significant intelligence resources and local criminal connections.
-  - She is pragmatic about violence but not reckless.
-  - She recognizes Orsik's reputation and is wary of his tactical suggestions.
-- **Evidence:**
-  - Her interactions with the party, particularly her reprimand of Maia and her reaction to Orsik's fireball suggestion.
-  - Her willingness to negotiate a non-monetary arrangement with Orsik.
-  - Her guidance to the party through a secret passage.
-- **Strength of Evidence:**
-  - Strong, based on Eltio's direct actions and reactions throughout the encounters.
+## Key Concepts
 
-### Connections to Existing Wiki
-- **Existing Pages:**
-  - [[Hand of Yartar]]
-  - [[Tamalin Zoar]]
-  - [[Orsik]]
-  - [[Maia]]
-  - [[Vardis]]
-  - [[Yartar]]
-- **Impact:**
-  - Strengthens existing knowledge about Eltio's role and the dynamics between her and the party.
-  - Provides context for Eltio's intelligence network and her strategic approach to missions.
+*   **Letter of Mark**
+    *   **Definition:** A formal credential or "pass" from a high-level criminal (Tamalin Zoar) that grants access/trust within the Hand of Yartar.
+    *   **Importance:** It is the primary currency for negotiating with Eltio.
+    *   **Status:** New concept; should be added as a specific type of "criminal credential."
+*   **Tactical Recklessness vs. Criminal Pragmatism**
+    *   **Definition:** The tension between high-impact combat (Orsik's fireball) and the need to avoid unwanted attention from authorities/rivals.
+    *   **Importance:** Highlights Eltio’s role as a "professional" who views the party as potentially amateurish or reckless.
+    *   **Status:** New concept; relates to existing *judgment of risk*.
+*   **Art as Negotiation Lever**
+    *   **Definition:** Using an NPC's personal passion (the arts) to bypass standard transactional costs (gold).
+    *   **Importance:** Demonstrates the effectiveness of social engineering in high-stakes environments.
+    *   **Status:** New concept; relates to *social attentiveness*.
 
-### Contradictions & Tensions
-- **Internal Tension:**
-  - Eltio's pragmatism versus her cautious approach to violence and her willingness to negotiate non-monetary arrangements.
-- **External Conflict:**
-  - Eltio's relationship with Orsik, where her recognition of his reputation contrasts with her apparent caution.
+## Main Arguments & Findings
 
-### Recommendations
-- **Create or Update:**
-  - [[Eltio]]
-  - [[Hand of Yartar]]
-  - [[Tamalin Zoar]]
-  - [[Orsik]]
-  - [[Maia]]
-  - [[Vardis]]
-- **Emphasize:**
-  - Eltio's intelligence network and he
+*   **Eltio as a Professional Gatekeeper:** Eltio is not just a "quest giver" but a professional operative who values reputation and discretion over raw power. Her alarm at t
+
+## Related
+
+- [[alaestra]]

@@ -9,3 +9,7 @@ sources: ["klauth.md"]
 ---
 # Red Dragon
 A type of dragon. Klauth is an ancient red dragon who operates as an independent sovereign in the North.
+
+## Related
+
+- [[klauth]]

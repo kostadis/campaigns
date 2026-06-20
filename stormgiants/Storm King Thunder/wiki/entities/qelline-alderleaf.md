@@ -4,7 +4,7 @@ title: Qelline Alderleaf
 created: 2025-05-22
 updated: 2026-05-27
 tags: [npc, romantic-interest, former-fiancée, reconciliation, emotional-catalyst]
-related: ["petunia", "qelline-alderleafs-farm", "grazing-rights-as-metaphor-for-reconciliation", "redemption-through-acknowledgment"]
+related: ["petunia-the-cow", "qelline-alderleafs-farm", "grazing-rights-as-metaphor-for-reconciliation", "redemption-through-acknowledgment"]
 sources: ["alphonse_big_al_kalazorn.md", "npcs/alphonse_big_al_kalazorn.md"]
 ---
 # Qelline Alderleaf
@@ -16,3 +16,8 @@ She offered Alphonse grazing rights to her farm for Petunia at a fee of one gold
 Following the party’s intervention, Big Al has traveled to her farm to apologize in person and attempt reconciliation. Her current status — whether she will forgive him, reject him, or accept him — remains an open narrative thread. Her farm, now the destination of Alphonse’s journey, may become a future hub for quiet, emotionally driven quests.
 
 Qelline exemplifies the quiet power of forgiveness as a narrative force. Her relationship with Alphonse is a key case study in [[grazing-rights-as-metaphor-for-reconciliation]] and [[redemption-through-acknowledgment]]. Though her full personality remains unexplored, her presence catalyzes profound emotional growth in Alphonse.
+
+## Related
+
+- [[4-npcs--17-qelline_alderleaf--1qtb220]]
+- [[qelline-alderleafs-farm]]

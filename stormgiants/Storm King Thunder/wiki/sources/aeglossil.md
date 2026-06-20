@@ -1,13 +1,59 @@
 ---
 type: source
-title: Aeglossil
-tags: [vampire, eladrin, derro, duergar]
+title: "Source: aeglossil.md"
+created: 2026-06-05
+updated: 2026-06-05
+sources: ["aeglossil.md"]
+tags: []
 related: []
-created: 2023-10-01
-updated: 2023-10-01
-sources: [aeglossil.md]
 ---
-name: Aeglossil
-aliases: []
-source_extracts: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86]
----
+
+# Source: aeglossil.md
+
+## Key Entities
+
+*   **Aeglossil** (Vampire)
+    *   **Role:** Central antagonist/entity in the "hidden tomb" encounter.
+    *   **Status:** Exists as a primary entity for this specific location; likely needs a new wiki page.
+*   **Orsik** (NPC)
+    *   **Role:** Victim of Aeglossil's feeding; party-adjacent.
+    *   **Status:** Likely exists in the wiki or related to current campaign notes.
+*   **Thistle Wendrod** (Ally/Social Analyst)
+    *   **Role:** Party member who was charmed by Aeglossill while she was dormant.
+    *   **Status:** Exists in the wiki.
+*   **Vardis** (Party Member/NPC)
+    *   **Role:** Present during the tomb encounter; displayed the symbol of Corellon.
+    *   **Status:** Exists in the wiki as a peripheral figure.
+*   **Unla Kee** (Party Member)
+    *   **Role:** Cast the *Banishment* spell on Aeglossil.
+    *   **Status:** Exists in the wiki.
+*   **Corellon** (Deity)
+    *   **Role:** Source of the symbol that caused Aeglossil to recoil.
+    *   **Status:** Implicitly exists as a core deity of elven power.
+
+## Key Concepts
+
+*   **Dormant Charm:** The ability of Aeglossil to project a charm effect while in a "statue-like" dormant state.
+    *   **Significance:** Highlights the danger of magical artifacts/entities and the vulnerability of party members to environmental hazards.
+*   **Divine Vulnerability (Elven):** Specifically, the fear response to Corellon's symbol.
+    *   **Significance:** Establishes a specific mechanical or narrative weakness for this vampire type, tied to elven divinity.
+*   **Banishment Duration/Reversal:** The uncertainty of how long the *Banishment* spell lasts.
+    *   **Significance:** Creates a "ticking clock" or looming threat for future sessions.
+
+## Main Arguments & Findings
+*   **Predatory Instincts:** Aeglossil acts on immediate survival and feeding instincts upon awakening, suggesting she is currently driven by primal needs rather than complex schemes.
+*   **Cult of Personality:** The fact that both derro and duergar (traditionally hostile races) serve her suggests she possesses significant power or a compelling "master" status over the subterranean inhabitants.
+*   **Specific Weakness:** Her reaction to Corellon's symbol is not just a general fear of holy symbols, but a specific aversion to elven divine authority.
+
+## Connections to Existing Wiki
+*   **Thistle Wendrod:** This source provides a concrete example of Thistle’s susceptibility to charm/manipulation in high-stakes environments.
+*   **Unla Kee:** Reinforces her role as the party's "protector" who successfully neutralized a threat.
+*   **Vardis:** Connects him to the specific interaction with the symbol of Corellon.
+
+## Contradictions & Tensions
+*   **Identity vs. Appearance:** She appears as an elven woman but is a vampire; her fear of Corellon suggests she may have been an elf or was "crafted" into one, though this remains a mystery.
+*   **Banishment Status:** There is a tension between the immediate removal of the threat and
+
+## Related
+
+- [[alaestra]]

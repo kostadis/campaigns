@@ -11,3 +11,8 @@ sources: ["fruf.md"]
 - **Description:** Trait exhibited by Fruf, characterized by his willingness to assist others.
 - **Role:** Influences the narrative, particularly in the interaction with Thistle and Orsik.
 - **Significance:** Highlights Fruf's role in the story and his impact on the party's actions.
+
+## Related
+
+- [[post-shift-meal]]
+- [[adventuring-experience]]

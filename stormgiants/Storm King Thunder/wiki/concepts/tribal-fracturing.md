@@ -4,7 +4,7 @@ title: Tribal Fracturing
 created: 2025-05-22
 updated: 2025-05-22
 tags: [sociology, tribal, conflict]
-related: [shrimpy, cryovain]
+related: ["cryovain"]
 sources: ["shrimpy.md"]
 ---
 # Tribal Fracturing

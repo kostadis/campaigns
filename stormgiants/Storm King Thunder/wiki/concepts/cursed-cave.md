@@ -15,4 +15,7 @@ sources: ["blooddrinker.md"]
 - Slayermighty's death and Blooddrinker's behavior post-death seem contradictory to typical bear instincts, suggesting a need for further exploration into the magical effects of the cursed cave.
 
 ## Related Entities
+- [[does-blooddrinker-have-magical-effects]]
+- [[exotic-appearance]]
+- [[magical-goods-trade]]
 - **Blooddrinker:** Shrunken to cat size by the cave's magical curse

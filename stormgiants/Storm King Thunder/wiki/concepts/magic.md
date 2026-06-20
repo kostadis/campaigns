@@ -22,7 +22,10 @@ Magic encompasses both supernatural forces and mystical abilities present in the
 - **Harthos Zymorven:** Prevents magical resurrection through execution.
 
 ## Related Pages
-- [[dungeon-ironslag]]
-- [[dungeon-ironslag]]
+- [[monster-components]]
+- [[religion]]
+- [[technology]]
+- [[ironslag]]
+- [[ironslag]]
 
 ---

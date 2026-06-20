@@ -16,3 +16,10 @@ Concept referring to the SEER. Central to the narrative and operations of the st
 
 ## Notes
 - Central to the SEER's operations and Hsing's role within it.
+
+## Related
+
+- [[inner-circle]]
+- [[seer]]
+- [[strategic-importance]]
+- [[spymaster]]

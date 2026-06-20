@@ -12,3 +12,7 @@ sources: ["cisco.md"]
 - **Evidence:** Cisco's actions during the silver nose ring incident demonstrate his role in financial oversight.
 - **Further Investigation:** Explore the implications of Cisco's authority and its impact on Eden's behavior and the narrative dynamics.
 - **Search Suggestions:** "servant authority over financial decisions in narratives" | "impact of a servant's role on financial management"
+
+## Related
+
+- [[cisco-and-financial-management]]

@@ -27,7 +27,7 @@ related: []
 - **Strength of Evidence**: Strong, supported by his explicit statements about rejecting doctrinal limitations and his actions against the party.
 
 ### Connections to Existing Wiki
-- **[[dragon-factions]]**: Links to the Cult of Bahamut and Cult of Tiamat.
+- **[[clarion]]**: Links to the Cult of Bahamut and Cult of Tiamat.
 - **[[philosophical-views]]**: Adds a new perspective on dragon philosophies.
 - **[[the-party]]**: Indicates the party's role in encountering and engaging with The Gold Dragon.
 
@@ -35,7 +35,7 @@ related: []
 - **Internal Tension**: The Gold Dragon’s motivations seem driven by selfish self-determination rather than altruism, which could conflict with the wiki’s portrayal of dragons as inherently noble creatures.
 
 ### Recommendations
-- **Create Pages**: [[the-gold-dragon]], [[cult-of-bahamut]], [[cult-of-tiamat]], [[crag-cats]]
+- **Create Pages**: [[the_gold_dragon]], [[cult-of-talos]], [[tiamat]], [[crag-cats]]
 - **Emphasize**: The Gold Dragon’s unique philosophical stance and his rejection of established dragon factions.
 - **Open Question**: Should The Gold Dragon’s motivations be interpreted through a more nuanced lens, considering his selfish nature?
 

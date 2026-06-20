@@ -30,3 +30,7 @@ sources: ["kagrota_threeteeth_kagrota.md"]
 
 ## Arc Score Events
 - No arc score events recorded
+
+## Related
+
+- [[tribal-fracturing]]

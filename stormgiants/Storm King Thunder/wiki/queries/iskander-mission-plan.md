@@ -9,3 +9,11 @@ sources: ["iskander.md"]
 ---
 # Iskander Mission Plan
 What was Iskander's plan for his mission within the Cult of the Dragon and how did this impact the raid on Xonathal's tower?
+
+## Related
+
+- [[iskander-role]]
+- [[iskander-motivation]]
+- [[iskander-mission-success]]
+- [[iskander-mission-resources]]
+- [[iskander-mission]]

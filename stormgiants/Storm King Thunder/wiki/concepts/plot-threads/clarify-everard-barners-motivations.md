@@ -16,3 +16,11 @@ sources: ["everard_barney.md"]
 - **Sources:** ["everard_barney.md"]
 ---
 Everard Barney, despite his initial anxiety and lack of experience, is making progress in directing Kaelen's play with the help of Thistle. His willingness to accept Thistle's suggestions, improvements in his staging approach, and his ability to work with Amy demonstrate his growing competence. However, his discomfort with Kaelen and his family background create tension with his professional aspirations.
+
+## Related
+
+- [[managing-the-cast]]
+- [[everard-barners-vs-kaelen]]
+- [[everard-barners-vs-other-directors]]
+- [[comparisons]]
+- [[starstruck]]

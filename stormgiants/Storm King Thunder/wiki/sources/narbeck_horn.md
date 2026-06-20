@@ -34,7 +34,7 @@ related: []
 - **Strength of Evidence**: Strong. Multiple instances of Horn's behavior and reactions provide consistent evidence supporting the claims.
 
 ### Connections to Existing Wiki
-- **Existing Pages**: [[Xantharl's Keep]], [[Ax of Mirabar]], [[The Weevil]], [[Frost Giant]], [[Wrongful Arrest]], [[Shield Dwarf]]
+- **Existing Pages**: [[lions-share-outpost-2026-06-05-181317]], [[refine-offer-of-ignorance-vs-transactional-allianc-2026-06-06-042019]], [[force-grey-2026-06-06-063448]], [[force-grey-2026-06-06-063448]], [[force-grey-2026-06-06-063448]], [[force-grey-2026-06-06-063448]]
 - **Impact**: The source provides new insights into Horn's character and his relationship with the party, reinforcing existing knowledge about these entities.
 
 ### Contradictions & Tensions
@@ -42,6 +42,13 @@ related: []
 - **External Tension**: Horn's suspicion of the party and his grudge against Orgazol create tension between him and the party members.
 
 ### Recommendations
-- **Pages to Create or Update**: [[Lord Narbeck Horn]], [[Xantharl's Keep]], [[Ax of Mirabar]], [[The Weevil]], [[Frost Giant]], [[Wrongful Arrest]], [[Shield Dwarf]]
+- **Pages to Create or Update**: [[force-grey-2026-06-06-063448]], [[lions-share-outpost-2026-06-05-181317]], [[refine-offer-of-ignorance-vs-transactional-allianc-2026-06-06-042019]], [[force-grey-2026-06-06-063448]], [[force-grey-2026-06-06-063448]], [[force-grey-2026-06-06-063448]], [[force-grey-2026-06-06-063448]]
 - **Emphasis**: Highlight Horn's complex personality and his evolving role in the narrative.
 - **Open Questions**: What is Horn's full intention towards the party? How will he respond to Thistle's offer of help?
+
+## Related
+
+- [[the_captain_silverwatch]]
+- [[sammaster]]
+- [[thistle]]
+- [[naz]]

@@ -4,16 +4,16 @@ title: Borg the Hammer
 created: 2025-05-22
 updated: 2026-05-27
 tags: [npc, antagonist, half-orc, deceased, enforcer, captor, opportunistic-occupier, field-commander, functional-antagonist, quest-as-emotional-trap, layered-command-structure, cover-identity-as-enforcer, weaponization-of-innocence]
-related: ["the-carver", "rot-tusk-ogres", "butterskull-ranch", "locutus", "sister-kaella", "valphine", "quest-as-emotional-trap", "layered-command-structure", "cover-identity-as-enforcer", "weaponization-of-innocence", "azam", "hsing", "aletra-satora", "kp"]
+related: ["rot-tusk-ogres", "butterskull-ranch", "locutus", "sister-kaella", "valphine", "quest-as-emotional-trap", "organizational-secrecy-via-bosses", "cover-identity-as-enforcer", "weaponization-of-innocence", "azam", "hsing", "aletra-satora", "kp"]
 sources: ["borg_the_hammer.md", "locutus.md", "alphonse_big_al_kalazorn.md", "npcs/alphonse_big_al_kalazorn.md", "npcs/borg_the_hammer.md"]
 ---
 # Borg the Hammer
 
-[[borg-the-hammer]] is a half-orc enforcer and field commander operating under the unseen authority of [[the-carver]]. He first appeared during the ambush at [[butterskull-ranch]], where he seized control after eliminating the [[rot-tusk-ogres]] who had initially raided the property. Borg is not a character with a personal arc, but a *mechanism* — a functional antagonist whose role is to embody the operational reach of a hidden hierarchy. His lack of backstory is intentional; his value lies in what he reveals about The Carver’s structure.
+[[borg-the-hammer]] is a half-orc enforcer and field commander operating under the unseen authority of the-carver. He first appeared during the ambush at [[butterskull-ranch]], where he seized control after eliminating the [[rot-tusk-ogres]] who had initially raided the property. Borg is not a character with a personal arc, but a *mechanism* — a functional antagonist whose role is to embody the operational reach of a hidden hierarchy. His lack of backstory is intentional; his value lies in what he reveals about The Carver’s structure.
 
 ## Profile
 - **Role:** Field Commander / Enforcer / Captor / Opportunistic-Occupier / Functional Antagonist
-- **Faction:** [[the-carver]]'s organization
+- **Faction:** the-carver's organization
 - **Command:** Leads units of [[rot-tusk-ogres]]
 - **Signature Mechanism:** [[quest-as-emotional-trap]], [[cover-identity-as-enforcer]]
 
@@ -35,4 +35,9 @@ Borg exemplifies [[cover-identity-as-enforcer]] — a visible agent masking a de
 > [!CAUTION]
 > **Deceased**
 
-Last seen fleeing the ruins of [[butterskull-ranch]] while being shadowed by the party, intelligence confirms that [[borg-the-hammer]] was killed by [[locutus]] prior to the meeting between [[sister-kaella]] and [[valphine]]. Though his physical presence ended, his legacy endures as a symbol of the predatory, impersonal machinery of [[the-carver]]’s empire — a reminder that some enemies are not driven by malice, but by function.
+Last seen fleeing the ruins of [[butterskull-ranch]] while being shadowed by the party, intelligence confirms that [[borg-the-hammer]] was killed by [[locutus]] prior to the meeting between [[sister-kaella]] and [[valphine]]. Though his physical presence ended, his legacy endures as a symbol of the predatory, impersonal machinery of the-carver’s empire — a reminder that some enemies are not driven by malice, but by function.
+
+## Related
+
+- [[don-jon-raskin]]
+- [[thistle-wendrod]]

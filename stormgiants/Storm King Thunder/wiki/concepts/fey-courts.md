@@ -12,6 +12,17 @@ The ruling body of the Seelie Court, where Halisa served as a courtier. Halisa w
 
 ## Connections to Existing Wiki
 - [[halisa]]
-- [[tree-protection-schedule-d]]
+- [[the-party]]
 - [[dryads]]
-- [[seelie-court]]
+- [[fey-court-structure]]
+
+## Related
+
+- [[prince-thornacious]]
+- [[sprite-emissary]]
+- [[sacrifice]]
+- [[orsik]]
+- [[taunt]]
+- [[helia]]
+- [[punishment]]
+- [[queen-titania]]

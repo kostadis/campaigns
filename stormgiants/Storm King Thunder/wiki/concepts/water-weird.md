@@ -29,3 +29,7 @@ sources: ["grik.md"]
 
 ## Arc Score Events
 - N/A — The Water Weird was not killed in the encounter, so no arc score relationship developed.
+
+## Related
+
+- [[bad-fruul]]

@@ -12,7 +12,7 @@ sources: []
 Intelligence regarding the state of King Korboz, the senior co-ruler of [[gnomengarde]], and the political instability within the gnome settlement.
 
 ## Summary
-The source details the psychological and political state of [[king-korboz]], who is currently experiencing active hysteria and paranoia. His condition is centered around a perceived [[shapeshifter-threat]] within [[gnomengarde]], a claim that his co-ruler [[king-gnercli]] refuses to acknowledge. The document also notes how [[vukradin]] successfully exploited the existing friction regarding seniority and authority to further destabilize the [[dual-monarchy]] of the gnome kingdom.
+The source details the psychological and political state of [[king-korboz]], who is currently experiencing active hysteria and paranoia. His condition is centered around a perceived [[shapeshifter-threat]] within [[gnomengarde]], a claim that his co-ruler [[king-gnercli]] refuses to acknowledge. The document also notes how [[vukradin]] successfully exploited the existing friction regarding seniority and authority to further destabilize the [[kobold-kingdom]] of the gnome kingdom.
 
 ## Key Details
 - **Condition:** Active hysteria and paranoia; confined to his room.

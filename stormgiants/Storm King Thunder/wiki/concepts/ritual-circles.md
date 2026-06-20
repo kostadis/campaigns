@@ -17,6 +17,7 @@ Central Phenomenon
 - Imberu's participation in these circles is significant, as it involves him holding hands with key individuals like Thistle and Unla Kee.
 
 ## Related Entities
+- [[imberu]]
 - **Imberu:** Participated in the ritual circles
 - **Kartha-Kaya:** Leader of the ritual circles
 - **Thistle:** Held Imberu's right hand during the ritual circles

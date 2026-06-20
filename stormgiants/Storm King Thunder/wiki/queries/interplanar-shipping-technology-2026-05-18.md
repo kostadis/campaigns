@@ -9,3 +9,7 @@ related: []
 # Interplanar Shipping Technology
 
 The mention of a defunct "interplanar shipping device" in Neverwinter is a significant potential plot hook. It may be directly linked to the [[lionshield-coster]]'s current commercial interests or the difficulties they face with [[supply-chain-disruption]].
+
+## Related
+
+- [[interplanar-shipping-infrastructure-2026-06-06-133516]]

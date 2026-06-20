@@ -9,3 +9,9 @@ sources: ["klauth.md"]
 ---
 # Reward System
 Klauth offers a reward at his hidden vale in exchange for the party's success in eliminating giant leaders. This reward is a calculated move to leverage the party's actions against the giants.
+
+## Related
+
+- [[letters-of-mark]]
+- [[spine-of-the-world]]
+- [[territorial-control]]

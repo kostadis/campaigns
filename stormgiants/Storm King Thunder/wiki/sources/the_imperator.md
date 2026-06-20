@@ -62,7 +62,7 @@ related: []
 - **Existing Pages:**
   - [[storm-giants]] — Provides context for the Storm Giant court and its hierarchy.
   - [[small-folk]] — Explains the perspective of non-giant races.
-  - [[historical-events]] — Contains information about the Ordning.
+  - [[cultural-heritage-artifact]] — Contains information about the Ordning.
 - **Impact:**
   - This source strengthens existing knowledge about the Storm Giant court dynamics and the political landscape.
   - It provides new insights into The Imperator’s character and his relationship with the party.

@@ -27,7 +27,7 @@ related: []
 - **Strength of Evidence**: Strong, supported by multiple references and logical progression of events.
 
 ### Connections to Existing Wiki
-- **Existing Pages**: [[wizard-of-the-crag]], [[elquen]], [[wild-magic-surge]], [[wight]]
+- **Existing Pages**: [[hat-of-wizardry]], [[elquen]], [[wild-magic-surge]], [[wight]]
 - **Impact**: This source provides additional context to the Wizard of the Crag's demise and its consequences, reinforcing the existing narrative.
 
 ### Contradictions & Tensions
@@ -43,3 +43,7 @@ related: []
 - **Emphasize**: The interconnectedness of the characters and events, especially the role of Taskor in the Wizard of the Crag's demise.
 - **De-emphasize**: Specific details about Taskor's personal history or background, as they are not yet fully established.
 - **Open Questions**: Should Taskor's true motives and current status be explored further? How does his involvement connect to other elements of the narrative?
+
+## Related
+
+- [[the_seer]]

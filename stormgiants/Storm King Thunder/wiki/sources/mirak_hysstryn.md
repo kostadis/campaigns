@@ -33,7 +33,7 @@ related: []
 - Tolmara is the primary suspect, though her guilt is not confirmed.
 
 ### Connections to Existing Wiki
-- This source relates to existing pages such as [[Triboar]], [[divination]], [[Speak with the Dead]], and [[teleportation-circle]].
+- This source relates to existing pages such as [[grindle-2026-06-06-042021]], [[divination]], [[Orsik]], and [[teleportation-circle]].
 - It extends the narrative by providing details about Mirak's death and the ongoing investigation.
 - It challenges existing assumptions about Tolmara's motives and the circumstances surrounding his death.
 
@@ -42,7 +42,7 @@ related: []
 - The supernatural elements of the divination and the animated skeleton introduce contradictions within the narrative.
 
 ### Recommendations
-- Create or update pages for [[divination]], [[Speak with the Dead]], and [[teleportation-circle]] based on this source.
+- Create or update pages for [[divination]], [[Orsik]], and [[teleportation-circle]] based on this source.
 - Emphasize the unresolved aspects of Tolmara's death and the potential supernatural elements.
 - Flag the contradictions and tensions for further exploration.
-- Consider creating a new page for [[Mirak Hysstryn]] to summarize the key points and provide context for the ongoing investigation.
+- Consider creating a new page for [[mirak_hysstryn]] to summarize the key points and provide context for the ongoing investigation.

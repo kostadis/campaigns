@@ -4,7 +4,7 @@ title: Runa Wintermoon Intelligence
 created: 2025-05-22
 updated: 2025-05-22
 tags: [intelligence, character-profile]
-related: [runa-wintermoon, sylvine-wintermoon, soma]
+related: ["runa-wintermoon", "sylvine-wintermoon"]
 authors: []
 year: 2025
 url: ""
@@ -20,5 +20,9 @@ Runa Wintermoon appears to function as a secondary performer or attendant to her
 ## Key Findings
 - **Role:** Attendant and supporting actor in orchestrated deceptions.
 - **Behavior:** Exhibits a "flat affect" and delivers rehearsed dialogue (e.g., "Blessed be! Blessed be!") on cue.
-- **Tactical Observation:** [[soma]] noted that the sisters rehearsed their approach on the road prior to the encounter.
+- **Tactical Observation:** soma noted that the sisters rehearsed their approach on the road prior to the encounter.
 - **Agency:** Lacks independent agency; her positioning and lack of action during combat suggest a subordinate role.
+
+## Related
+
+- [[sylvine_wintermoon]]

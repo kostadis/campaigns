@@ -101,3 +101,8 @@ related: []
 - **Evidence Supporting Claims:**
   - Sandesyl's explicit statements about her goals and motivations.
   - Her interactions w
+
+## Related
+
+- [[the_wight_elquen]]
+- [[the_vampire_unnamed]]

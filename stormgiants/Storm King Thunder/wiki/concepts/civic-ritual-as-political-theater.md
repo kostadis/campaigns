@@ -16,3 +16,7 @@ Harbin Wester turns every victory into a stage: the heroes’ welcome celebratio
 These rituals are not spontaneous — they are engineered. Banners, semicircles, rehearsed lines — all serve to create the illusion of collective joy while reinforcing Harbin’s centrality. Valphine observes this as a preemptive strike: he claims the narrative before the party can define their own legacy.
 
 This mirrors [[public-religious-spectacle-as-fundraising]] — but applied to civic power. The goal is not devotion, but loyalty. The goal is not worship, but ownership. In a world where truth is contested, the one who controls the ritual controls the memory.
+
+## Related
+
+- [[narrative-control]]

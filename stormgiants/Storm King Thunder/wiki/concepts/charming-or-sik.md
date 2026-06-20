@@ -10,3 +10,11 @@ sources: ["deciduous_dryad.md"]
 # Charming Orsik
 - **Action:** The Deciduous Dryad charmed Orsik during combat, successfully influencing him to sit down
 - **Outcome:** Orsik was freed from the battle due to the charm effect
+
+## Related
+
+- [[unseelie-combat-strategy-social-manipulation]]
+- [[friendship-and-alliance]]
+- [[tactically-minded-combatant]]
+- [[social-manipulation]]
+- [[dryad-combat-role]]

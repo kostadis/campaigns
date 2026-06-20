@@ -16,3 +16,7 @@ Facktore is the definitive example: after deploying his automated crossbow syste
 This archetype subverts the trope of the brilliant, obsessive inventor. Facktore is not driven by genius — he is driven by fear. His inventions are not monuments to curiosity, but tools of avoidance. He builds to distract himself from the consequences of building.
 
 The fleeing-inventor is dangerous precisely because he leaves no trail. His absence creates uncertainty, allowing his creations to remain active, his motives to remain unexamined, and his threat to linger indefinitely. He is the embodiment of institutional blind spots — the outlier who slips through the cracks and leaves behind only wreckage and questions.
+
+## Related
+
+- [[unregulated-invention]]

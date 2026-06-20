@@ -9,3 +9,8 @@ sources: ["klauth.md"]
 ---
 # Giant Reward
 A reward offered by Klauth to those who eliminate giant leaders. This reward is a calculated move to leverage the party's actions against the giants.
+
+## Related
+
+- [[giant-war]]
+- [[reward-system]]

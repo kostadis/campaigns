@@ -1,8 +1,8 @@
 ---
 type: source
 title: "Source: vatrice_stormwright.md"
-created: 2026-05-13
-updated: 2026-05-13
+created: 2026-06-06
+updated: 2026-06-06
 sources: ["vatrice_stormwright.md"]
 tags: []
 related: []
@@ -11,43 +11,51 @@ related: []
 # Source: vatrice_stormwright.md
 
 ## Key Entities
-- **Vatrice Stormwright:**
-  - **Type:** Person
-  - **Role:** Speaker of Everlund
-  - **Peripheral:** Central figure in the narrative, but no direct interaction with the party.
-  - **Exists in Wiki:** Likely, given the mention in the source.
 
-- **Captain Zoar:**
-  - **Type:** Person
-  - **Role:** Supporter of Vatrice Stormwright
-  - **Central:** Provides context and background on Vatrice.
-  - **Exists in Wiki:** Likely, given the mention in the source.
+*   **Vatrice Stormwright** (Person)
+    *   **Role:** Speaker of Everlund.
+    *   **Status:** Central potential political figure, though currently a "shadow" entity as she has not yet met the party.
+    *   **Wiki Status:** New entry required.
+*   **Captain Zoar** (Person)
+    *   **Role:** A military or maritime authority who serves as the primary source of information regarding Vatrice.
+    *   **Status:** Peripheral/Link entity; provides the narrative hook for her existence.
+    *   **Wiki Status:** Likely exists or needs a profile update to include his endorsement of Vatrice.
+*   **Everlund** (Location)
+    *   **Role:** The city government and political landscape where Vatrice holds power.
+    *   **Status:** Core setting location.
+    *   **Wiki Status:** Exists in the broader world context.
 
 ## Key Concepts
-- **Speaker of Everlund:**
-  - **Definition:** The highest-ranking official in the city government of Everlund.
-  - **Matters:** Central to understanding political dynamics and governance within Everlund.
-  - **Relevance:** Important for comprehending the political landscape and potential conflicts.
 
-- **City government of Everlund:**
-  - **Definition:** Governance structure of Everlund.
-  - **Matters:** Governance, policies, and decisions made by the city.
-  - **Relevance:** Crucial for understanding the political environment and potential alliances.
+*   **Speaker of Everlund** (Political Role)
+    *   **Definition:** The highest governing office in the city of Everlund.
+    *   **Significance:** Represents the pinnacle of local political authority and a potential point of contact for high-level diplomacy or conflict.
+    *   **Wiki Status:** Likely exists as part of the "Everlund" or "City Government" pages.
+*   **Political Instability/Scheming** (Theme)
+    *   **Definition:** The "many things could happen" warning from Captain Zoar regarding Vatrice's re-election.
+    *   **Significance:** Establishes a narrative hook for future plot hooks involving political intrigue or threats to her seat.
+    *   **Wiki Status:** Relates to the broader theme of **political and noble intrigue**.
 
 ## Main Arguments & Findings
-- **Core Claim:** Vatrice Stormwright is the current Speaker of Everlund and is supported by Captain Zoar.
-- **Evidence:** Captain Zoar's statement that he fully supports her and her re-election is scheduled in a few years.
-- **Strength of Evidence:** Moderate. The claim is based on indirect references and statements rather than direct actions or interactions.
+
+*   **The "Shadow" Authority:** Vatrice is currently a placeholder for power. The document establishes her as a high-ranking official whose presence is felt through others (Zoar) rather than direct interaction.
+*   **The Looming Conflict:** The specific mention of the time gap before her re-election suggests that her position—and the city's stability—is currently in a state of "waiting" or potential vulnerability.
+*   **Evidence Strength:** Low for characterization (no personality data), but high for plot setup (clear role and political standing).
 
 ## Connections to Existing Wiki
-- **[[everlund]]**: This source provides context for the Speaker of Everlund and the political landscape of Everlund.
-- **[[city-government-of-everlund]]**: The source mentions the city government, which is relevant to the Speaker's role.
+
+*   **Everlund / House Margaster:** Vatrice’s role as Speaker makes her a primary point of contact for the ongoing tensions involving **house-margaster** and **house-meliame**.
+*   **Captain Zoar:** Her existence is currently tied entirely to his testimony. If he is a known figure in the wiki, his "support" of her adds weight to her legitimacy.
 
 ## Contradictions & Tensions
-- **Captain Zoar's Uncertainty:** His comment about "many things could happen" before her re-election suggests potential instability or scheming around her position.
+
+*   **Information Gap:** There is a stark contrast between her high-ranking title and the total lack of personal data (personality/goals). This creates a "blank slate" for the GM to fill during an eventual encounter.
+*   **The Zoar Warning:** The tension lies in whether she is a stable ally or a target of the "scheming" hinted at by Captain Zoar's cryptic phrasing.
 
 ## Recommendations
-- **Create Pages:** [[speaker-of-everlund]], [[everlund]], [[city-government-of-everlund]]
-- **Emphasize:** The Speaker's role and the political dynamics of Everlund.
-- **De-emphasize:** Specific details about Vatrice Stormwright's personality or immediate plans.
-- **Open Question:** Investigate further into the potential instability suggested by Captain Zoar's comments.
+
+*   **Create/Update
+
+## Related
+
+- [[brimskarda]]

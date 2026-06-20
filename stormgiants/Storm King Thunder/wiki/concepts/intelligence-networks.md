@@ -12,3 +12,7 @@ Intelligence networks within kobold tribes play a crucial role in gathering and 
 
 ## Examples
 - **Kragota-Threeteeth:** Operates an intelligence network within the kobold tribe, leading the ambush at the barricade.
+
+## Related
+
+- [[kobold-tribe]]

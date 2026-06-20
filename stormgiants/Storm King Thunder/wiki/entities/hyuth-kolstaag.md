@@ -39,3 +39,8 @@ Retired adventurer, no current faction affiliation; resident of Triboar (lives i
 
 ## Arc Score Events
 - No arc score events recorded yet for this NPC.
+
+## Related
+
+- [[hyuth_kolstaag]]
+- [[harthos-zymorven]]

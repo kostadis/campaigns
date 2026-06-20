@@ -43,3 +43,8 @@ sources: ["kolbaz.md"]
 
 ## Arc Score Events
 - No arc score events recorded.
+
+## Related
+
+- [[death-of-kolbaz]]
+- [[kolbaz]]

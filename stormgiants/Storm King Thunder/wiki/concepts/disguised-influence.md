@@ -4,7 +4,7 @@ title: Disguised Influence
 created: 2026-05-23
 updated: 2026-05-22
 tags: [manipulation, social-engineering, authority, deception, cover, institutional-manipulation]
-related: [amy, orsik, kaelen-sarssir, status-driven-behavior, soul-manipulation, azam, hsing, cover-identity-as-merchant, layered-command-structure, divine-oracle]
+related: ["amy", "orsik", "kaelen-sarssir", "status-driven-behavior", "soul-manipulation", "azam", "hsing", "cover-identity-as-merchant", "organizational-secrecy-via-bosses", "divine-oracle"]
 sources: ["amy.md", "azam.md"]
 ---
 # Disguised Influence
@@ -28,5 +28,5 @@ Power no longer needs to be overt—it can be embedded in routine, commerce, hie
 - [[defensive-deference]]
 - [[soul-manipulation]]
 - [[cover-identity-as-merchant]]
-- [[layered-command-structure]]
+- [[organizational-secrecy-via-bosses]]
 - [[divine-oracle]]

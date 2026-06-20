@@ -1,50 +1,44 @@
 ---
 type: source
-title: Jenna
-created: 2025-05-22
-updated: 2026-05-27
-tags: [intelligence, recruitment, lord-s-alliance, npc, phandalin, civic-influence]
-related: ["vukradin", "brewbarry", "valphine", "kraken-society", "lords-alliance", "jenna-roscoe", "lord-s-alliance", "ser-kaelen", "order-of-the-gauntlet", "house-margaster", "harbin-wester", "lord-neverember", "spider-man"]
+title: "Source: npcs/jenna.md"
+created: 2026-06-06
+updated: 2026-06-06
 sources: ["npcs/jenna.md"]
-authors: []
-year: 2026
-url: ""
-venue: ""
+tags: []
+related: []
 ---
-# Jenna Roscoe — Civic Manipulator of the Lord’s Alliance
 
-Intelligence report regarding **Jenna Roscoe**, a high-level agent of the [[lords-alliance]] and council representative in [[phandalin]]. The source details her recruitment tactics, her philosophical clashes with party members, and her suspicious minimization of the [[kraken-society]].
+# Source: npcs/jenna.md
 
-Unlike planar operatives like Azam or Hsing, Jenna operates through institutional legitimacy — council meetings, economic framing, and psychological leverage — making her a distinct archetype: the *civic manipulator*. Her operational scope extends the Lord’s Alliance’s influence from planar intelligence to terrestrial civic infiltration, embedding power within civic structures rather than overt coercion.
+## Key Entities
 
-## Operational Methods
+| Name | Type | Role | Status |
+| :--- | :--- | :--- | :--- |
+| **Jenna (Roscoe)** | NPC / Agent | **Central**: A calculating Lord's Alliance representative and council member in Phandalin. | New Entry |
+| **Vukradin** | Party Member | **Central**: The primary target of Jenna’s recruitment efforts; a principled musician/hero. | Existing |
+| **Brewbarry** | Party Member | **Central**: A non-confessional barbarian who serves as a foil to Jenna's "civilizing" rhetoric. | Existing |
+| **Valphine** | Party Member | **Central**: A drow whose religious affiliation (masochism/torture) is mocked by Jenna. | Existing |
+| **Lord Nevermember** | Noble / Leader | **Peripheral**: High-ranking official mentioned as a potential patron for Vukradin. | Existing |
+| **Ser Kaelen** | NPC | **Peripheral**: A figure whose relationship with Vukradin Jenna attempted to undermine. | Existing |
+| **Harbin Wester** | Authority Figure | **Peripheral**: Present during the "cover story" interaction. | Existing |
+| **Sister Kaella** | Target/Person | **Peripheral**: A missing person the party is seeking; used as a bargaining chip by Jenna. | Existing |
+| **Kraken Society** | Organization | **Central (Hidden)**: A wealthy elite group that Jenna appears to be covering up or hiding information about. | Existing |
+| **House Margaster** | Noble House | **Peripheral**: Source of funding for the Order of the Gauntlet; used as a political wedge. | Existing |
+| **Order of the Gauntlet** | Organization | **Peripheral**: A religious/military order with ties to House Margaster. | Existing |
 
-Jenna’s primary objective is the recruitment of party members — particularly [[vukradin]], [[brewbarry]], and [[valphine]] — using tailored incentives that exploit personal vulnerabilities rather than ideological alignment. Her tactics include:
+## Key Concepts
 
-- **Leveraging personal history**: Using a pre-established emotional contact (the letter to Vukradin) to create psychological footholds.
-- **Cultural contempt as a political tool**: Slurring Brewbarry as “Uthgardian” to provoke defensiveness and isolate him from his identity.
-- **Wealth-laundering as moral justification**: Framing illicit financial flows as “redistribution” to reframe unethical acts as civic duty.
-- **Ideological dismissal as strategy**: Dismissing Valphine’s faith as a “torture cult,” revealing ideological rigidity masked as pragmatism.
-- **Operational secrecy via minimization**: Systematically downplaying the [[kraken-society]] as a harmless elite club, suggesting active concealment of its true nature and threat level.
+| Name | Definition | Significance | Status |
+| :--- | :--- | :--- | :--- |
+| **Wealth-Laundering (Community)** | Framing the conversion of "blood money" into community projects as a moral justification for keeping loot. | Highlights the gap between Vukradin's idealism and Jenna's pragmatic political realism. | New Concept |
+| **Civilizing Rhetoric** | The use of cultural stereotypes to dismiss or patronize specific groups (e.g., Uthgardt). | Illustrates Jenna’s prejudice and her view of "barbarians" as subjects for refinement. | New Concept |
+| **Strategic Leverage** | Using existing information (Sister Kaella, House Marged funding) to force a desired outcome. | Defines the "game" of high-level politics in Phandalin. | Existing (related to *political maneuvering*) |
+| **Cover Identity as Merchant/Agent** | Utilizing official roles (Council Rep) to mask specific agendas or affiliations. | Jenna's role in the council may be a shield for her ties to the Kraken Society. | Existing |
+| **Offer of Ignorance vs. Transactional Alliance** | The tension between offering "help" and using that help as a hook for recruitment. | Seen in Jenna’s repeated, tailored pitches to different party members. | Existing |
 
-## Moral Complexity and Nuance
+## Main Arguments & Findings
+*   **Sophisticated Antagonism:** Jenna is not a villain in the traditional sense but a high-level political operative. Her "antagonism" stems
 
-Despite her manipulative tactics, Jenna exhibits genuine respect for principled resistance — notably toward Vukradin — indicating a nuanced understanding of moral conviction, even as she seeks to dismantle it. This dynamic introduces the concept of **moral respect through rejection**, where her admiration for integrity makes her efforts to co-opt it all the more dangerous.
+## Related
 
-## Strategic Implications
-
-This source introduces key operational frameworks for institutional power in the setting:
-
-- **Recruitment-through-institutional-influence**
-- **Wealth-laundering-as-moral-justification**
-- **Cultural-contempt-as-political-tool**
-- **Ideological-dismissal-as-strategy**
-- **Operational-secrecy-via-minimization**
-- **Leveraging-personal-history**
-- **Moral-respect-through-rejection**
-- **Institutional-ambiguity-as-protection**
-- **Targeted-recruitment-via-personal-needs**
-
-These concepts deepen the moral complexity of the setting by presenting institutional power not as overt tyranny, but as quiet, persistent, and culturally embedded influence — a subtle but pervasive threat to autonomy and truth.
-
-The Kraken Society is introduced as a new clandestine entity, and Jenna’s role in obscuring its activities implicates her in broader conspiracies beyond Phandalin’s civic sphere. Her connections to figures such as [[ser-kaelen]], [[lord-neverember]], and [[house-margaster]] suggest coordination across multiple power networks, further complicating her alignment within the Lord’s Alliance hierarchy.
+- [[4-npcs--5-boney--dhqd4y]]

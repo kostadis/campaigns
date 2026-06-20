@@ -11,4 +11,6 @@ sources: ["duke_zalto.md"]
 Religious beliefs and practices influence the behavior of the giant lords and the party. They must navigate the complexities of faith and belief, using religious texts and rituals to gain insight and support.
 
 ## Related Pages
-- [[dungeon-ironslag]]
+- [[strategy]]
+- [[technology]]
+- [[ironslag]]

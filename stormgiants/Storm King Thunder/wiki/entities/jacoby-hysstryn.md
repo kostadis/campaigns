@@ -71,3 +71,8 @@ Description of what needs the user's attention.
 OPTIONS: Create Page | Skip
 PAGES: wiki/concepts/investigation.md
 SEARCH: Investigation process | Investigation results | Investigation challenges
+
+## Related
+
+- [[class-based-neglect]]
+- [[jorgen]]

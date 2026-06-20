@@ -12,3 +12,7 @@ Parnast is a location, likely a castle, where Blagothkus resides. The Ghost (Clo
 
 ## Relationships
 - **Blagothkus:** Father; resides in Parnast, where he has retired to mourn.
+
+## Related
+
+- [[ghost-cloud-giant]]

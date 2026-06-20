@@ -12,3 +12,7 @@ venue: ""
 ---
 # NPC Notes
 Peripheral product used for character development and background information. Used for central entities like stormgiants.
+
+## Related
+
+- [[stormgiants-enemy-dossiers]]

@@ -4,12 +4,12 @@ title: Divine Silence
 created: 2026-05-22
 updated: 2026-05-22
 tags: [theology, abandonment, cosmic-tragedy, divine-withdrawal, non-intervention, cosmic]
-related: [annam-the-allfather, ordning-shattering, spiritual-abandonment, planar-travel, soul-manipulation, annam-the-oracle, divine-oracle, truth-constraint-mechanism]
+related: ["annam-the-oracle-and-annam-the-all-father-of-giants", "shattering-of-the-ordning", "spiritual-abandonment", "planar-travel", "soul-manipulation", "divine-oracle"]
 sources: ["annam_the_allfather.md", "annam_the_oracle.md"]
 ---
 # Divine Silence
 
-A theological phenomenon in which a supreme deity ceases to respond to worship, prayers, or direct intervention in mortal affairs — traditionally interpreted as abandonment, death, or withdrawal. In the context of the giant pantheon, [[annam-the-allfather]]’s silence triggered [[spiritual-abandonment]] and the collapse of the [[ordning-shattering]].
+A theological phenomenon in which a supreme deity ceases to respond to worship, prayers, or direct intervention in mortal affairs — traditionally interpreted as abandonment, death, or withdrawal. In the context of the giant pantheon, [[annam-the-oracle-and-annam-the-all-father-of-giants]]’s silence triggered [[spiritual-abandonment]] and the collapse of the [[shattering-of-the-ordning]].
 
 ## Characteristics
 - No answered prayers
@@ -18,7 +18,7 @@ A theological phenomenon in which a supreme deity ceases to respond to worship, 
 - Psychological and cultural collapse among worshippers
 
 ## Impact on Giant Civilization
-Annam’s silence is not passive neglect but an active catalyst for the [[ordning-shattering]]. King Hekaton’s despair, the fracturing of the giant pantheon, and the loss of identity among the giant races all stem from this spiritual vacuum. The absence of perceived divine authority enabled the rise of cults, soul-manipulation, and planar incursions that further destabilized giant society.
+Annam’s silence is not passive neglect but an active catalyst for the [[shattering-of-the-ordning]]. King Hekaton’s despair, the fracturing of the giant pantheon, and the loss of identity among the giant races all stem from this spiritual vacuum. The absence of perceived divine authority enabled the rise of cults, soul-manipulation, and planar incursions that further destabilized giant society.
 
 ## Broader Implications
 Divine silence may be a recurring theme in the setting. Its presence suggests that deities are not eternal or infallible — raising questions about the nature of faith, the vulnerability of cosmic order, and whether other pantheons may be experiencing similar withdrawal.
@@ -33,6 +33,6 @@ Thus, divine silence is not absence, but *structured non-intervention*. It is a 
 - [[divine-patrilineage-giants]]
 - [[soul-manipulation]]
 - [[planar-travel]]
-- [[annam-the-oracle]]
+- [[annam-the-oracle-and-annam-the-all-father-of-giants]]
 - [[divine-oracle]]
-- [[truth-constraint-mechanism]]
+- [[divine-oracle]]

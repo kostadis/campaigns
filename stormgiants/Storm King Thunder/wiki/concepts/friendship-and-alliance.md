@@ -9,3 +9,9 @@ sources: ["deciduous_dryad.md"]
 ---
 # Friendship and Alliance
 - **Concept:** The Deciduous Dryad appealed to Orsik by framing the Unseelie as allies, showcasing the use of friendship and alliance to influence others
+
+## Related
+
+- [[unseelie-combat-strategy-social-manipulation]]
+- [[tactically-minded-combatant]]
+- [[social-manipulation]]

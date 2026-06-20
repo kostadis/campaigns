@@ -31,7 +31,7 @@ related: []
 - **Strength of Evidence**: Strong, based on Eltio's direct observations and assessments.
 
 ### Connections to Existing Wiki
-- **Existing Pages Related**: [[Yartar]], [[City Guard]], [[Corruption]], [[Extortion]], [[Ambush]], [[Eltio]].
+- **Existing Pages Related**: [[grindle-2026-06-06-042021]], [[force-grey-2026-06-06-063448]], [[grindle-2026-06-06-042021]], [[grindle-2026-06-06-042021]], [[grindle-2026-06-06-042021]], [[Eltio]].
 - **Impact on Existing Knowledge**: The source adds specific details about Brenner's role and actions, providing more context to these concepts.
 
 ### Contradictions & Tensions
@@ -39,6 +39,10 @@ related: []
 - **External Conflict**: The party's plan to ambush Brenner contradicts his official role as a Guard Captain, creating tension between his public and private personas.
 
 ### Recommendations
-- **Create or Update Pages**: [[Tholzar Brenner]], [[Eltio]], [[Yartar]], [[City Guard]], [[Corruption]], [[Extortion]], [[Ambush]].
+- **Create or Update Pages**: [[tholzar_brenner]], [[Eltio]], [[grindle-2026-06-06-042021]], [[force-grey-2026-06-06-063448]], [[grindle-2026-06-06-042021]], [[grindle-2026-06-06-042021]], [[grindle-2026-06-06-042021]].
 - **Emphasize**: The nature of Brenner's corruption and the party's strategy to combat it.
 - **Open Question**: Investigate further into the broader implications of Brenner's actions on the city guard and its governance.
+
+## Related
+
+- [[brenner]]

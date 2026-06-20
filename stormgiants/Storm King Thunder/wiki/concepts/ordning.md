@@ -4,7 +4,7 @@ title: Ordning
 created: 2023-10-05
 updated: 2026-05-17
 tags: ["concept", "giant-lords", "hill-giants", "hierarchy", "restoration"]
-related: [[dungeon-ironslag]]
+related: [[ironslag]]
 sources: ["duke_zalto.md", "chief_guh.md"]
 ---
 # Ordning
@@ -26,3 +26,11 @@ The hierarchical nature of the Ordning is explicitly demonstrated through the re
 
 ## Narrative Implications
 The state of the Ordning challenges preconceived notions regarding hierarchy within the magical and giant communities and serves as a key motivator for the party's involvement in the conflict. Discrepancies between the mandates of high-ranking leaders and the actions of subordinate chiefs may indicate deeper instabilities within the giant kingdoms.
+
+## Related
+
+- [[vonindod]]
+- [[religion]]
+- [[philosophy]]
+- [[storm-giants]]
+- [[technology]]

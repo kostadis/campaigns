@@ -4,7 +4,7 @@ title: Exile-as-redemption-path
 created: 2026-06-15
 updated: 2026-06-15
 tags: [redemption, exile, moral-choice, non-confessional, barbarian]
-related: [brewbarry, redemption-through-acknowledgment, anti-interventionism-druidic, narrative-economy]
+related: ["brewbarry", "redemption-through-acknowledgment", "emerald-enclave", "narrative-economy"]
 sources: ["npcs/brewbarry.md"]
 ---
 # Exile-as-redemption-path

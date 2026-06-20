@@ -9,3 +9,8 @@ sources: ["dral_thelev.md"]
 ---
 # Political Influence on Regional Security
 The extent to which political entities within the political landscape of Everlund shape and influence the security and stability of the region, often through their involvement in military affairs, intelligence gathering, and diplomatic relations.
+
+## Related
+
+- [[political-influence]]
+- [[political-influence-on-regional-technology]]

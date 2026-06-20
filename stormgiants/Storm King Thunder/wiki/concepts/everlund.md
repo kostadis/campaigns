@@ -9,3 +9,7 @@ sources: ["dral_thelev.md"]
 ---
 # Everlund
 A city located in the region, known for its political intrigue and military presence. Tamalin Zoar is a resident of Everlund and High Captain Horix Zoar commands the city's army.
+
+## Related
+
+- [[political-landscape]]

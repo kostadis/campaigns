@@ -4,12 +4,12 @@ title: The "Dawn" Philosophy
 created: 2025-05-22
 updated: 2025-05-22
 tags: [philosophy, orc, lathander]
-related: [prutha, lathanderian-practice-valphine]
+related: ["lathanderian-practice-valphine"]
 sources: ["prutha.md"]
 ---
 # The "Dawn" Philosophy
 
-The "Dawn" philosophy is a belief system originating from the orcish shamanic traditions of [[prutha]]'s lineage. 
+The "Dawn" philosophy is a belief system originating from the orcish shamanic traditions of prutha's lineage. 
 
 Its central tenet is: *"Dawn comes for everyone, even those born in shadow."*
 

@@ -13,3 +13,7 @@ Compared to other halflings, Cap'n Squint stands out due to his commanding prese
 ## Examples
 - Cap'n Squint: Halfling captain and merchant.
 - Other halflings: Typically smaller and less imposing.
+
+## Related
+
+- [[comparison-capn-squint-vs-halflings-2026-05-13]]

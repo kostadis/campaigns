@@ -13,6 +13,6 @@ A spectral manifestation that does not speak, curse, or demand justice — but i
 
 Lady Alagondar is the canonical example: her ghost appeared only after the Dragon Slayer Sword was recovered, stared fixedly toward the Ice Spire Mountains, and then faded without utterance. She did not seek closure — she sought completion. Her presence is not an echo of death, but a continuation of purpose.
 
-This concept contrasts with [[ghost-as-vengeance]] or [[ghost-as-tragedy]]; it is not about the past, but about the future. The ghost is not trapped — she is waiting. Her silence is not weakness, but discipline. Her gaze is not confusion — it is a map.
+This concept contrasts with [[vengeance-quest]] or [[ghost-as-unresolved-purpose]]; it is not about the past, but about the future. The ghost is not trapped — she is waiting. Her silence is not weakness, but discipline. Her gaze is not confusion — it is a map.
 
 This form of haunting is often tied to [[artifact-placement-as-narrative-clue]] and [[emotional-resonance-through-absence]], where meaning is conveyed through omission rather than exposition.

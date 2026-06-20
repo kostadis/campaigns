@@ -1,8 +1,8 @@
 ---
 type: source
 title: "Source: alaestra.md"
-created: 2026-05-13
-updated: 2026-05-13
+created: 2026-06-05
+updated: 2026-06-05
 sources: ["alaestra.md"]
 tags: []
 related: []
@@ -10,64 +10,45 @@ related: []
 
 # Source: alaestra.md
 
-### Key Entities
+## Key Entities
 
-#### People
-- **Alaestra**: Co-owner of the Lion's Share outpost, central figure.
-- **Narth**: Co-owner of the Lion's Share outpost, peripheral figure.
-- **Orsik**: Customer, peripheral figure.
-- **Vardis / Thistle**: Customers, peripheral figures.
+*   **Alaestra** (Person)
+    *   **Role:** Central to the "Lion's Share" encounter. She serves as a primary point of contact for the party and a representative of the Lionshield Coster.
+    *   **Status:** New entity; needs addition to the wiki.
+*   **Narth** (Person)
+    *   **Role:** Peripheral/Supporting. Alaestra's business partner who acts as a "buffer" against her impulsive disclosures.
+    *   **Status:** New entity; should be added or linked to the Lionshield Coster page.
+*   **Lionshield Coster** (Organization)
+    *   **Role:** Central. The parent organization managing interplanar trade. It establishes the scale of the world's economy and the stakes of "special keys."
+    *   **Status:** Already exists in the wiki; this source provides specific details about their local operations and internal culture (fear/loyalty).
+*   **Lion's Share** (Location)
+    *   **Role:** Peripheral. The specific outpost in Triboar where the interaction occurs.
+    *   **Status:** New location entry or update to existing "Lionshield Coster" page.
 
-#### Organizations
-- **Lionshield Coster**: Merchant company, central figure.
-- **Triboar Local Merchants**: Peripheral figures, affected by Lionshield Coster's operations.
+## Key Concepts
 
-#### Products/Datasets/Tools
-- **Interplanar Supply Keys**: Central to the story, integral to Lionshield Coster's operations.
-- **Healing Potions, New Weapons, Thistle's Boots of Elvenkind**: Purchased by the party, peripheral to the main narrative.
+*   **Interplanar Supply Chain**
+    *   **Definition:** A logistics network that moves goods across different planes of existence.
+    *   **Significance:** Establishes the "high-stakes" nature of the Lionshield Coster's operations; a breach isn't just a theft, it's a systemic failure.
+    *   **Status:** Related to existing `interplanar-commercial-interests` and `premium-pricing-for-planar-goods`.
+*   **Special Keys (Interplanar Supply Keys)**
+    *   **Definition:** Physical artifacts required to interface with interplanar suppliers.
+    *   **Significance:** These are the "high-value" targets in the narrative; their loss causes immediate distress and potential corporate repercussions.
+    *   **Status:** New specific item/concept under `planar-phenomena-as-commodity`.
+*   **Stress-Induced Candor / Professional Fear**
+    *   **Definition:** The tendency of lower-level employees (Alaestra) to leak sensitive information when pressured, contrasted with the rigid stance of those who fear corporate repercussions.
+    *   **Significance:** Highlights the internal hierarchy and "fear factor" within the Lionshield Coster.
+    *   **Status:** Relates to `layered-command-structure` and `operational-secrecy-via-bosses`.
 
-### Key Concepts
+## Main Arguments & Findings
 
-#### Theories/Methods/Techniques
-- **Interplanar Trade Model**: Central to understanding the Lionshield Coster's operations and its impact on Triboar.
-- **Vault Breach**: A pivotal event that led to the discovery of the interplanar supply keys.
+*   **Corporate Hierarchy as a Deterrent:** The primary finding is that the "Lionshield Coster" operates with such an intimidating internal culture that its employees (Alaestra/Narth) are terrified of corporate reprisal, leading to a rigid refusal to renegotiate once a deal is struck.
+*   **The Vulnerability of Scale:** The existence of "Special Keys" suggests that the organization's power is dependent on specific, high-value artifacts. Their loss creates an immediate crisis, which explains Alaestra’s initial desperation and subsequent relief.
+*   **Evidence Strength:** High. The interaction provides clear behavioral markers (Alaestra's slip
 
-#### Phenomena
-- **Stress-Induced Candor**: A notable trait of Alaestra, influencing her actions and disclosures.
-- **Intimidation by Company Leadership**: A significant factor affecting Alaestra’s behavior and decisions.
+## Related
 
-### Main Arguments & Findings
-
-- **Core Claims/Results**:
-  - Alaestra is a co-owner of the Lion's Share outpost and is loyal to the Lionshield Coster organization.
-  - Her role involves protecting the outpost and recovering the interplanar supply keys.
-  - The loss of these keys could have severe consequences for the Lionshield Coster.
-  - The party purchased items from the Lion's Share outpost, including healing potions, new weapons, and Thistle's boots of elvenkind.
-
-- **Evidence Supporting Core Claims**:
-  - Direct interactions with Alaestra during negotiations.
-  - Her disclosure of the stolen interplanar supply key under stress.
-  - Her firm stance during renegotiations, suggesting intimidation from higher-ups within the company.
-
-- **Strength of Evidence**:
-  - Strong, based on detailed interactions and explicit statements.
-
-### Connections to Existing Wiki
-
-- **Existing Pages**:
-  - **Lionshield Coster**: Relevant for understanding the broader context of Alaestra's role.
-  - **Triboar**: Relevant for understanding the local impact of the Lionshield Coster's operations.
-  - **Interplanar Trade**: Relevant for understanding the mechanics of the interplanar supply chain.
-
-- **Impact**:
-  - Strengthens existing knowledge about the Lionshield Coster's operations and its effects on Triboar.
-  - Challenges assumptions about the company's leadership and its influence on its employees.
-
-### Contradictions & Tensions
-
-- **Contradictions**:
-  - Alaestra's apparent fear of company leadership contrasts with her willingness to disclose sensitive information under stress.
-  - Her firm stance during negotiations might suggest a lack of trust in Orsik, despite his ability to conduct direct negotiations.
-
-- **Tensions**:
-  - Internal tension between Alaestra's stress-induced candor and her guardedne
+- [[gauche_the_young]]
+- [[elspeth]]
+- [[diana]]
+- [[eltio]]

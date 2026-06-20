@@ -13,3 +13,7 @@ venue: ""
 # Linene Graywind
 
 Intelligence report regarding Linene Graywind, proprietor of the Lionshield Coster outpost in Phandalin. The document details her commercial activities, her organization's potential interest in interplanar phenomena, and the economic impact of the [[war-of-the-giants]] on local supply chains.
+
+## Related
+
+- [[4-npcs--15-linene_graywind--15ha3ay]]

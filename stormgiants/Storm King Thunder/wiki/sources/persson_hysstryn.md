@@ -31,13 +31,13 @@ related: []
 - Mirak's remains were found in the attic of the Six Windows Inn, leading Persson to seek the truth behind his death.
 
 ### Connections to Existing Wiki
-- This source relates to existing pages such as [[mirak-hysstryn]], [[six-windows-inn]], and [[divination-priest]]. It strengthens the narrative by providing additional context and motivations for the characters involved.
+- This source relates to existing pages such as [[mirak_hysstryn]], [[six-windows-inn]], and [[divination-priest]]. It strengthens the narrative by providing additional context and motivations for the characters involved.
 
 ### Contradictions & Tensions
 - There is no apparent contradiction within the source document. However, the tension between Persson and Jacoby's investigative efforts and the dismissive attitude of the authorities could be explored further.
 
 ### Recommendations
-- Create or update pages for [[persson-hysstryn]], [[jacoby-hysstryn]], [[mirak-hysstryn]], [[urgala-meltimer]], and [[divination-priest]].
+- Create or update pages for [[persson_hysstryn]], [[jacoby-hysstryn]], [[mirak_hysstryn]], [[urgala_meltimer]], and [[divination-priest]].
 - Emphasize the role of Persson and Jacoby in the investigation and their motivations.
 - Consider adding a section on the Lord Protector's office and the discovery of Mirak's remains for contextual clarity.
 - Flag the potential for exploring the relationship between the characters and the dismissive authorities.

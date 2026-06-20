@@ -12,3 +12,7 @@ sources: ["cisco.md"]
 - **Key Figures:** Cisco, Eden Gleeson
 - **Notable Incidents:** Reprimanding Eden Gleeson for purchasing a silver nose ring without considering its financial impact
 - **Impact:** Demonstrates Cisco's authority and responsibility in managing Eden Gleeson's financial affairs
+
+## Related
+
+- [[reckless-decisions]]

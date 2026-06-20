@@ -11,4 +11,8 @@ sources: ["duke_zalto.md"]
 Laela is a captive of Duke Zalto. She plays a crucial role in the party's mission, as her fate is intertwined with the success of their quest. Her capture and the conditions of her captivity are significant elements in the narrative.
 
 ## Related Pages
-- [[dungeon-ironslag]]
+- [[quest]]
+- [[legend]]
+- [[lore]]
+- [[technology]]
+- [[ironslag]]

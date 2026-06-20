@@ -4,7 +4,7 @@ title: Alphonse "Big Al" Kalazorn
 created: 2025-05-22
 updated: 2026-05-27
 tags: ["npc", "victim", "retired-sheriff", "veteran", "redeemed", "emotional-vulnerability", "redeemed-veteran", "emotional-bait", "non-combatant", "symbolic-figure"]
-related: ["borg-the-hammer", "butterskull-ranch", "petunia-the-cow", "qelline-alderleaf", "vukradin", "soma", "darathra", "petunia", "qelline-alderleafs-farm", "harbin-wester", "defensive-deference", "redemption-through-acknowledgment", "veteran-identity-as-armor", "quest-as-emotional-trap", "weaponization-of-innocence", "grazing-rights-as-metaphor-for-reconciliation"]
+related: ["borg-the-hammer", "butterskull-ranch", "petunia-the-cow", "qelline-alderleaf", "vukradin", "darathra", "qelline-alderleafs-farm", "harbin-wester", "defensive-deference", "redemption-through-acknowledgment", "veteran-identity-as-armor", "quest-as-emotional-trap", "weaponization-of-innocence", "grazing-rights-as-metaphor-for-reconciliation"]
 sources: ["borg_the_hammer.md", "alphonse_big_al_kalazorn.md", "npcs/alphonse_big_al_kalazorn.md", "npcs/borg_the_hammer.md", "4-npcs--24-alphonse_big_al_kalazorn--143w65h.md"]
 ---
 # Alphonse "Big Al" Kalazorn
@@ -29,7 +29,7 @@ His survival and transformation prove that emotional traps can be broken — not
 
 * **Capture:** He was displaced by the [[rot-tusk-ogres]] and later captured by [[borg-the-hammer]], held captive in a cellar at [[butterskull-ranch]] as emotional bait.
 * **Rescue:** He was located and rescued by [[vukradin]], an act that effectively neutralized the trap set by Borg.
-* **Recovery:** [[soma]] utilized magic to locate [[petunia-the-cow]], which triggered Alphonse’s emotional breakthrough.
+* **Recovery:** soma utilized magic to locate [[petunia-the-cow]], which triggered Alphonse’s emotional breakthrough.
 * **Confession:** Following the recovery of his cow, he openly confessed his abandonment of Qelline — a moment that marked the true beginning of his redemption.
 * **Departure:** He left to seek forgiveness at [[qelline-alderleafs-farm]], aiming not only to reconcile with his past but also to secure grazing rights for Petunia — a symbolic act of reintegration and responsibility.
 
@@ -38,3 +38,12 @@ His survival and transformation prove that emotional traps can be broken — not
 Last seen traveling to [[qelline-alderleafs-farm]] to seek forgiveness and discuss grazing rights for his cow. [[butterskull-ranch]] remains under hostile occupation by [[borg-the-hammer]] and the [[rot-tusk-ogres]]. His future is uncertain, but his willingness to face his past — not with grand gestures, but with honest, trembling confession — suggests a quiet, profound transformation.
 
 His arc exemplifies how healing begins not with action, but with acknowledgment — a theme central to [[redemption-through-acknowledgment]]. Even as a symbol of innocence weaponized by cruelty, Alphonse reclaimed his narrative through truth, proving that vulnerability, not strength, is the truest form of courage.
+
+## Related
+
+- [[kaelen-sarssir]]
+- [[daran-edermath-silverleaf]]
+- [[valphine]]
+- [[thistle-wendrod]]
+- [[don-jon-raskin]]
+- [[corbin]]

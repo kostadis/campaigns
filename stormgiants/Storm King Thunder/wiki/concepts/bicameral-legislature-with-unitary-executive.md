@@ -4,12 +4,12 @@ title: Bicameral Legislature with a Unitary Executive
 created: 2025-05-22
 updated: 2026-05-27
 tags: [politics, governance, political-theory, governance-reform, institutional-design, technocratic-control]
-related: [fibblestib, dual-monarchy, gnomengarde, tamper-proof-voting-box-theory]
+related: ["fibblestib", "kobold-kingdom", "gnomengarde", "tamper-proof-voting-box-theory"]
 sources: ["fibblestib.md", "npcs/fibblestib.md"]
 ---
 # Bicameral Legislature with a Unitary Executive
 
-A political governance model advocated by [[fibblestib]] as a means of reforming the [[dual-monarchy]] of [[gnomengarde]]. It proposes a two-chambered legislative body (bicameral) paired with a single, centralized executive authority (unitary executive)—likely intended to be Fibblestib himself or a technocratic appointee.
+A political governance model advocated by [[fibblestib]] as a means of reforming the [[kobold-kingdom]] of [[gnomengarde]]. It proposes a two-chambered legislative body (bicameral) paired with a single, centralized executive authority (unitary executive)—likely intended to be Fibblestib himself or a technocratic appointee.
 
 ## Structure
 
@@ -26,3 +26,7 @@ This is not a democratic ideal—it is a **technocratic one**. The model priorit
 ## Hidden Ambition
 
 Fibblestib’s advocacy for this model is not a passing comment—it is a manifesto. It reveals his hidden ambition: not merely to invent, but to govern. In a world where gods are silent, Fibblestib believes the only legitimate authority is the one that can fix things. His proposal is both a technical blueprint and a declaration of personal destiny.
+
+## Related
+
+- [[gnomengarde-governance]]

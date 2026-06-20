@@ -1,8 +1,8 @@
 ---
 type: source
 title: "Source: chancellor_geoffrey.md"
-created: 2026-05-13
-updated: 2026-05-13
+created: 2026-06-05
+updated: 2026-06-05
 sources: ["chancellor_geoffrey.md"]
 tags: []
 related: []
@@ -11,28 +11,52 @@ related: []
 # Source: chancellor_geoffrey.md
 
 ## Key Entities
-- **Chancellor Geoffrey**: Merchant specializing in magical goods for discerning magic users, known to Urgala and associated with the Fishyard.
-- **Urgala**: Merchant specializing in magical goods, known to Geoffrey and associated with the Fishyard.
-- **Kobolds**: Tribe responsible for stealing the CGI device from Geoffrey’s messenger.
+
+*   **Chancellor Geoffrey**
+    *   **Type:** NPC / Political Figure
+    *   **Role:** Central (as a narrative hook/quest giver via proxy).
+    *   **Status:** Likely new to the wiki; needs a page.
+*   **Urgala**
+    *   **Type:** Party Member / Ally
+    *   **Role:** Central (the link between the party and Geoffrey).
+    *   **Status:** Already exists in the wiki.
+*   **Vardis**
+    *   **Type:** Party Member/Ally
+    *   **Role:** Peripheral (tasked with the retrieval).
+    *   **Status:** Already exists in the wiki.
+*   **Kobold Tribe (Dessarin Hills)**
+    *   **Type:** Faction / Enemy Group
+    *   **Role:** Peripheral (the antagonists who stole the device).
+    *   **Status:** Not explicitly listed as a single entity, but "kobolds" and "Dessarin Hills" are standard geographic/factional elements.
 
 ## Key Concepts
-- **CGI Device**: Magical visual/audio creation tool used for elaborate invitations.
-- **Kobolds**: A race of small, intelligent creatures known for their thievery.
+
+*   **CGI Device (Magical Visual/Audio)**
+    *   **Definition:** A magical tool used to project elaborate animated invitations with sound and visuals.
+    *   **Significance:** Serves as the primary quest objective; indicates Geoffrey's personality (showmanship) despite his absence.
+    *   **Status:** New concept; may be integrated into a "Magical Artifacts" or "Technomancy" page if applicable.
+*   **Proxy Questing / Indirect Interaction**
+    *   **Definition:** A narrative structure where the party interacts with an entity's interests without meeting the entity itself.
+    *   **Significance:** Used here to build world-building and mystery regarding Geoffrey’s status and relationship with Urgala.
+    *   **Status:** Exists as a narrative technique (similar to "pre-meeting-narrative-structure").
 
 ## Main Arguments & Findings
-- **Core Claim**: Chancellor Geoffrey lost a CGI device to a kobold tribe in the Dessarin Hills.
-- **Evidence**: Urgala's statement about the device being stolen from Geoffrey's messenger and her involvement in its recovery.
-- **Strength of Evidence**: Direct statements from Urgala provide clear evidence supporting the claim.
+
+*   **Mystery of Status:** The primary finding is the deliberate ambiguity surrounding Chancellor Geoffrey. He functions as a "shadow" figure whose presence is felt through his loss and Urgala's involvement.
+*   **Showmanship vs. Authority:** The existence of the CGI device suggests that while he holds a high title (Chancellor), he values aesthetic presentation and formal ceremony.
+*   **The Urgala Connection:** There is an established, albeit opaque, link between Urgala and Geoffrey. This creates a "hook" for future plot development regarding her affiliations.
 
 ## Connections to Existing Wiki
-- **[[fishyard]]**: Geoffrey and Urgala are both associated with the Fishyard, indicating a shared merchant network.
-- **[[kobold]]**: Information on kobolds’ behavior and capabilities is relevant to understanding the incident.
+
+*   **Urgala:** The source reinforces Urgala's role as a connector of information/tasks.
+*   **Vardis:** Connects the party’s immediate actions to the quest for the CGI device.
+*   **Narrative Economy:** This entry follows the principle of "narrative economy" by providing just enough detail (the stolen item, the location) to drive a quest without over-defining an NPC who hasn't appeared yet.
 
 ## Contradictions & Tensions
-- No apparent contradictions with existing wiki content.
 
-## Recommendations
-- **Create Page**: [[chancellor_geoffrey]] to summarize the information about Chancellor Geoffrey.
-- **Update Pages**: [[fishyard]], [[kobold]] to incorporate new details about Geoffrey and the incident.
-- **Emphasize**: The shared merchant network between Geoffrey and Urgala.
-- **Open Question**: Investigate further into Geoffrey's broader role and Urgala's motivations for facilitating the recovery.
+*   **Ambiguity vs. Clarity:** There is a tension between his high title ("Chancellor") and the lack of any specific faction or geographic affiliation. This is likely intentional but may require a "placeholder" status in the wiki until more info is revealed.
+*   **Urgent Need vs. Di
+
+## Related
+
+- [[prince_thornacious]]

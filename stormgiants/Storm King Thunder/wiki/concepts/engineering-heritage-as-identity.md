@@ -4,7 +4,7 @@ title: Engineering Heritage as Identity
 created: 2026-06-15
 updated: 2026-06-15
 tags: [culture, craftsmanship, non-martial-identity, dwarven-tradition]
-related: [horia-stonetallow, stonetallow-clan, contractual-morality, pragmatic-integrity, dwolin-the-grout, mountain-s-toe-gold-mine]
+related: ["horia-stonetallow", "stonetallow-clan", "contractual-integrity", "pragmatic-integrity", "dwolin-the-grout", "mountain-toe-gold-mine"]
 sources: ["npcs/horia_stonetallow.md"]
 ---
 # Engineering Heritage as Identity
@@ -18,3 +18,7 @@ This heritage shapes Horia Stonetallow’s entire worldview. She does not see he
 This concept challenges the fantasy trope that dwarves are defined by war, smithing, or greed. The Stonetallows are not warriors — they are engineers. Their authority comes not from strength or magic, but from competence and continuity. In a world obsessed with divine omens and magical artifacts, their quiet, technical mastery offers a different kind of power: one that is durable, visible, and deeply human.
 
 Engineering Heritage as Identity is a quiet rebellion — a claim that dignity can be earned not by conquest, but by doing something well, and doing it right.
+
+## Related
+
+- [[superstition-as-operational-hindrance]]

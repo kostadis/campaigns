@@ -31,3 +31,8 @@ sources: ["grik.md"]
 
 ## Arc Score Events
 - N/A — Grik was killed before any arc score relationship could develop.
+
+## Related
+
+- [[prrrt]]
+- [[gralm]]

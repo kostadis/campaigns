@@ -45,3 +45,7 @@ related: []
 - **Emphasis:** Emphasize the Unseelie Halfling's role in the card game gathering and its impact on the narrative.
 - **Open Questions:** Further explore the Unseelie faction's social dynamics and the significance of the card game gathering.
 - **Potential for Expansion:** Consider adding more depth to the Unseelie Halfling's character, such as their background or motivations, to enhance the narrative.
+
+## Related
+
+- [[unla_kee]]

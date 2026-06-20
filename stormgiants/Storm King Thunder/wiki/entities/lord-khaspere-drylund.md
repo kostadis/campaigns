@@ -97,13 +97,13 @@ This wiki covers the narrative universe described in the source document "Lord K
 
 ## Pages
 - [[lord-khaspere-drylund]]
-- [[political-networks]]
-- [[ancient-powers]]
-- [[resurrection-capabilities]]
+- [[political-influence-on-regional-communications]]
+- [[divine-patron]]
+- [[magic-resurrection]]
 - [[who-killed-drylund]]
-- [[nature-of-resurrection-capabilities]]
-- [[full-nature-and-depth-of-role]]
-- [[lady-atalias-warning]]
+- [[execution-as-redemption-mechanism]]
+- [[kp-nature-2026-05-27]]
+- [[lady_atalia]]
 
 ## Open Questions
 - Who killed Drylund and why?
@@ -111,3 +111,7 @@ This wiki covers the narrative universe described in the source document "Lord K
 - What is the true extent of Drylund’s involvement in the disappearance of King Hekaton?
 
 ## End of Overview
+
+## Related
+
+- [[oosith]]

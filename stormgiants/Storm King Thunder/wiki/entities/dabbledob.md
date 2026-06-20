@@ -4,12 +4,12 @@ title: Dabbledob
 created: 2025-05-22
 updated: 2026-05-27
 tags: [gnomengarde, inventor, npc, gnome, caretaker, pragmatist, scientist, laboratory-researcher, evidence-based, rival, sanity-ray, technology-as-cure, madness-as-political-vulnerability]
-related: [fibblestib, gnomengarde, gnomengarde-governance, king-korboz, evidence-based-pragmatism, tamper-proof-voting-box-theory, vukradin, sanity-ray, straitjacket-solution, music-as-empirical-treatment, intellectual-opposition-as-collaborative-dynamic, technology-as-cure, madness-as-political-vulnerability]
+related: ["fibblestib", "gnomengarde", "gnomengarde-governance", "king-korboz", "evidence-based-pragmatism", "tamper-proof-voting-box-theory", "vukradin", "technology-as-cure", "straitjacket-solution", "music-as-empirical-treatment", "intellectual-opposition-as-collaborative-dynamic", "madness-as-political-vulnerability"]
 sources: ["dabbledob.md", "king_korboz.md", "fibblestib.md", "npcs/dabbledob.md", "npcs/fibblestib.md", "npcs/king_korboz.md"]
 ---
 # Dabbledob
 
-**Dabbledob** (also known as [[Dabblebob]]) is a pragmatic inventor, laboratory researcher, and caretaker residing in [[gnomengarde]]. She is defined by her unwavering commitment to [[evidence-based-pragmatism]], consistently rejecting speculative inventions—such as [[fibblestib]]’s “Sanity Ray”—in favor of empirically grounded solutions like the **Straitjacket Solution**, a non-technological, physical restraint method for managing King Korboz’s madness. She is neither comic relief nor a mad scientist, but a rational agent whose skepticism is a form of intellectual integrity, not emotional detachment.
+**Dabbledob** (also known as [[dabbledob]]) is a pragmatic inventor, laboratory researcher, and caretaker residing in [[gnomengarde]]. She is defined by her unwavering commitment to [[evidence-based-pragmatism]], consistently rejecting speculative inventions—such as [[fibblestib]]’s “Sanity Ray”—in favor of empirically grounded solutions like the **Straitjacket Solution**, a non-technological, physical restraint method for managing King Korboz’s madness. She is neither comic relief nor a mad scientist, but a rational agent whose skepticism is a form of intellectual integrity, not emotional detachment.
 
 Dabbledob and [[fibblestib]] engage in constant, loud, and public rivalry—yet their dynamic is generative, not destructive. They co-work, co-debate, and mutually refine each other’s ideas, exemplifying [[intellectual-opposition-as-collaborative-dynamic]]. Their rivalry sustains Gnomengarde’s innovation ecosystem, making Dabbledob not merely a foil, but a necessary stabilizing force.
 
@@ -33,7 +33,7 @@ The rivalry between Dabbledob and [[fibblestib]] is most visible in their diverg
 | **Political Design** | Skeptical of mechanical perfection; favors simplicity and verifiable function in systems like the **tamper-proof voting box**. | Idealistic; seeks elegant, high-tech solutions even if unproven. |
 | **Cure Philosophy** | Rejects *technology-as-cure* for complex human/political conditions; sees the Sanity Ray as a distraction. | Believes madness can be engineered away; views the Sanity Ray as a moral imperative. |
 
-Dabbledob is deeply invested in the theoretical feasibility of the tamper-proof voting box for the [[dual-monarchy]], revealing a mind that combines methodical rigor with passionate intellectual engagement.
+Dabbledob is deeply invested in the theoretical feasibility of the tamper-proof voting box for the [[kobold-kingdom]], revealing a mind that combines methodical rigor with passionate intellectual engagement.
 
 ## Personality & Methodology
 
@@ -55,6 +55,10 @@ Her skepticism extends to institutional design: she recognizes that the demand f
 - **[[vukradin]]**: Maintains a mild positive rapport after conceding the merit of his musical treatment suggestion; serves as the primary conduit between Dabbledob and the party.
 - **[[king-korboz]]**: Indirectly connected through her ongoing research and work regarding his medical treatment; her efforts are aimed at containment and stability, not cure-by-technology. She understands his madness as a symptom of systemic failure, not a medical defect.
 - **[[tamper-proof-voting-box-theory]]**: Dabbledob’s rigorous critique of its mechanical implementation reveals her deep engagement with institutional design and democratic integrity.
-- **[[sanity-ray]]**: Though she opposes it, she is complicit in its development—a quiet acknowledgment that in a broken system, even the rational must participate in flawed solutions.
+- **[[technology-as-cure]]**: Though she opposes it, she is complicit in its development—a quiet acknowledgment that in a broken system, even the rational must participate in flawed solutions.
 - **[[technology-as-cure]]**: She rejects this paradigm as dangerously reductive, especially when applied to political and psychological suffering.
 - **[[madness-as-political-vulnerability]]**: Her work implicitly affirms this concept—Korboz’s condition is not a glitch to be fixed, but a mirror held up to Gnomengarde’s governance.
+
+## Related
+
+- [[facktore]]

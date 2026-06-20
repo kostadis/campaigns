@@ -16,3 +16,8 @@ sources: ["everard_barney.md"]
 - **Sources:** ["everard_barney.md"]
 ---
 No arc score events recorded in source notes.
+
+## Related
+
+- [[comparisons]]
+- [[starstruck]]

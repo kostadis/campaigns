@@ -35,3 +35,7 @@ His internal struggle reflects [[guilt-as-internal-prison]], and his story is a 
 - **[[valphine]]**: Subject of his scrutiny regarding her Underdark origins and devotional practices, which he views as incompatible with Enclave traditions — a tension that underscores his rigid adherence to orthodoxy.
 
 Thomas remains a quiet pillar of the Enclave — not because he believes in its current leadership, but because he believes in the weight of his word, his duty, and the cost of silence.
+
+## Related
+
+- [[thomas]]

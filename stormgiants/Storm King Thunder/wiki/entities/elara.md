@@ -4,7 +4,7 @@ title: Elara Seasong Meliame
 created: 2026-06-15
 updated: 2026-05-27
 tags: [human, merchant, lathanderite, npc, devout-non-arc, follower-of-lathander, traveler]
-related: ["valphine", "vukradin", "soma", "brewbarry", "unorthodox-lathanderite-interpretation", "transaction-as-narrative-catalyst", "divine-worthiness-test", "quietly-resonant-npc", "memory-suppression-via-magical-markings", "interdimensional-smuggling", "illicit-poison-trade-interdimensional", "divine-oracle"]
+related: ["valphine", "vukradin", "brewbarry", "theology-of-searing-pain", "transaction-as-narrative-catalyst", "divine-worthiness-test", "quietly-resonant-npc", "memory-suppression-via-magical-markings", "interdimensional-smuggling", "illicit-poison-trade-interdimensional", "divine-oracle"]
 sources: ["npcs/elara.md", "npcs/jarek.md", "4-npcs--5-elara--kqq7u2.md"]
 ---
 # Elara Seasong Meliame
@@ -22,3 +22,12 @@ Elara’s journey reflects a life of commerce and spiritual conviction, navigati
 Elara is a refined example of a [[quietly-resonant-npc]]: emotionally present, thematically vital, and narratively restrained. She does not drive the plot — she reflects it. Her presence affirms that faith in Lathander persists not only in the rituals of the temple or the suffering of the zealot, but in the quiet, unremarkable lives of ordinary believers.
 
 She returned safely to Phandalin with Jarek. Her current activities remain focused on trade and personal devotion, making her a potential contact for future Lathander-related quests or theological inquiries.
+
+## Related
+
+- [[elara]]
+- [[giles-slipper-shine]]
+- [[lady-alagondar]]
+- [[thistle-wendrod]]
+- [[valphine]]
+- [[4-npcs--5-elara--kqq7u2]]

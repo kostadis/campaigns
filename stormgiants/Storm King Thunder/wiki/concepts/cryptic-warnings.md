@@ -17,3 +17,15 @@ Technique used by Hsing to convey SEER intelligence. Central to the narrative an
 ## Notes
 - Conveyed by Hsing.
 - Central to the SEER's operations and Hsing's role.
+
+## Related
+
+- [[poison]]
+- [[gralm]]
+- [[regional-threat]]
+- [[region]]
+- [[spymaster]]
+- [[mission]]
+- [[secret-organization]]
+- [[mental-death-imagery]]
+- [[intelligence]]

@@ -20,3 +20,7 @@ He was present during the adventuring party's overnight stay at the [[wayside-in
 ## Current Status
 - **Location:** [[wayside-inn]]
 - **Role:** Bartender
+
+## Related
+
+- [[backes_dunfield]]

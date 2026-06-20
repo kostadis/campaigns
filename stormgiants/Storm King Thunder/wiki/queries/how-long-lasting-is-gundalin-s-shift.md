@@ -11,6 +11,8 @@ sources: ["gundalin_cartwright.md"]
 How long-lasting is Gundalin Cartwright's shift in stance post-battle? Is it a temporary change or a genuine belief?
 
 ## Related Concepts
+- [[is-gundalin-alone]]
+- [[what-is-gundalin-s-truth-about-the-sabotage]]
 - **SABOTAGE CAMPAIGN:** The series of incidents targeting Parnast's infrastructure and security.
 - **CULT OF THE DRAGON:** An unknown entity causing unrest in Parnast.
 - **SEER:** The Supreme Elders of the Earth Realm.

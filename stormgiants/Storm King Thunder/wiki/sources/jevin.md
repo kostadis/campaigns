@@ -37,7 +37,7 @@ related: []
 ### Connections to Existing Wiki
 - **Existing Pages Related to This Source**:
   - [[moonwood]] — Likely relevant as Jevin originates from this location.
-  - [[princess-halani-meliame]] — Likely relevant as he is a companion to her.
+  - [[princess_halani_meliame]] — Likely relevant as he is a companion to her.
   - [[rescue-operation]] — Likely relevant as he was rescued during this event.
   - [[flying-castle]] — Likely relevant as he is currently aboard this structure.
 - **Impact on Existing Knowledge**:
@@ -53,10 +53,21 @@ related: []
 - **Pages to Create or Update**:
   - [[jevin]] — To provide detailed information about Jevin.
   - [[moonwood]] — To include more details about the Moonwood.
-  - [[princess-halani-meliame]] — To add information about Jevin’s role as a companion.
+  - [[princess_halani_meliame]] — To add information about Jevin’s role as a companion.
 - **Emphasis**:
   - Emphasize the rescue mission and the journey of the traveling group.
   - De-emphasize the lack of specific information about Jevin’s background.
 - **Open Questions**:
   - What are Jevin’s specific skills and abilities?
   - What is his backstory and how did he come to be a companion to Princess Halani Meliame?
+
+## Related
+
+- [[tove_brandimen]]
+- [[the_harper_agent]]
+- [[kurglow]]
+- [[tolmarra]]
+- [[lord_khaspere_drylund]]
+- [[uthor]]
+- [[jorgen]]
+- [[the_wight_elquen]]

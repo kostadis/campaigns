@@ -12,3 +12,7 @@ sources: ["harthos_zymorven.md"]
 - **Significance:** Mentioned by Urgala Meltimer as something possessed by Harthos, indicating he would part with it if the party invoked her name and explained their mission to fight giants and save the realms.
 - **Influence:** Harthos's possession of the sword drives his initial motivation for seeking adventure.
 - **Associated Characters:** Harthos Zymorven
+
+## Related
+
+- [[dragon-killing]]

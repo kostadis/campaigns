@@ -1,8 +1,8 @@
 ---
 type: source
 title: "Source: dral_thelev.md"
-created: 2026-05-13
-updated: 2026-05-13
+created: 2026-06-06
+updated: 2026-06-06
 sources: ["dral_thelev.md"]
 tags: []
 related: []
@@ -10,57 +10,35 @@ related: []
 
 # Source: dral_thelev.md
 
-### Key Entities
-- **Dral Thelev**
-  - **Name and Type:** Dral Thelev (Person)
-  - **Role in the Source:** Central
-  - **Likely Exists in Wiki:** Yes
-- **Darathra Shendrel**
-  - **Name and Type:** Darathra Shendrel (Person)
-  - **Role in the Source:** Peripheral
-  - **Likely Exists in Wiki:** Yes
-- **Tamalin Zoar**
-  - **Name and Type:** Tamalin Zoar (Person)
-  - **Role in the Source:** Peripheral
-  - **Likely Exists in Wiki:** Yes
-- **Horix Zoar**
-  - **Name and Type:** Horix Zoar (Person)
-  - **Role in the Source:** Peripheral
-  - **Likely Exists in Wiki:** Yes
-- **Orsik**
-  - **Name and Type:** Orsik (Person)
-  - **Role in the Source:** Peripheral
-  - **Likely Exists in Wiki:** Yes
+## Key Entities
 
-### Key Concepts
-- **Silverymoon Wine**
-  - **Definition:** An alcoholic beverage originating from the city of Silverymoon, known for its offensive taste to the inhabitants of that city.
-  - **Importance:** Used by Dral to teleport the party to Moongleam Tower, demonstrating his magical capabilities.
-  - **Likely Exists in Wiki:** No
+| Name | Type | Role | Status |
+| :--- | :--- | :--- | :--- |
+| **Dral Thelev** | NPC (Half-Orc) | **Central**: Manager of Danivarr's House, Harper contact, and information broker. | New Entry |
+| **Danivarr's House** | Location/Establishment | **Central**: Dral’s place of business in Everlund; serves as a hub for Harpers and Zoar family dealings. | New Entry |
+| **Darathra Shendrel** | NPC (Harper) | **Central**: High-ranking Harper contact who trusts Dral; provides the party with their primary credentials. | Existing (implied by "Harper" context) |
+| **Tamalin Zoar** | NPC (Noble/Contact) | **Central**: A key political link between Everlund and Silverymoon; sister to Horix Zoar. | New Entry |
+| **Horix Zoar** | NPC (Military Leader) | **Peripheral**: High Captain of Everlund's army; provides diplomatic cover for the party. | New Entry |
+| **Krowen Valharrow** | NPC (Quest Giver/Authority) | **Peripheral**: The figure who selected the party; Dral views him with nervous respect. | New Entry |
+| **Orsik** | Party Member | **Central**: Has a pre-existing relationship with Tamalin Zoar, facilitating intelligence sharing. | Existing |
 
-### Main Arguments & Findings
-- **Core Claims:**
-  - Dral Thelev is a Harper affiliate operating as a trusted contact for Tamalin Zoar in Everlund.
-  - He facilitates intelligence exchanges and diplomatic cover for the party.
-  - He has teleportation capabilities tied to Danivarr's House.
-- **Evidence:**
-  - His recognition of Darathra's badge and comment about "something being amiss" indicate his familiarity with the party.
-  - He arranged for a meeting with Captain Horix Zoar and provided food and drink for the party.
-  - He used Silverymoon wine to teleport the party to Moongleam Tower.
-- **Strength of Evidence:**
-  - Direct references to his actions and interactions with the party.
-  - Teleportation capability demonstrated through the use of Silverymoon wine.
+## Key Concepts
 
-### Connections to Existing Wiki
-- **Existing Pages:** Danivarr's House, Everlund, Silverymoon, Tamalin Zoar, High Captain Horix Zoar, Orsik, Harper, Zoar Family
-- **Impact:** This source strengthens existing knowledge about Dral's role as a Harper contact and his connections within Everlund's political sphere. It also extends the understanding of his magical abilities and his relationship with Silverymoon wine.
+| Name | Definition | Significance | Status |
+| :--- | :--- | :--- | :--- |
+| **Harper Intelligence Network** | A clandestine organization (The Harpers) using "safe houses" and trusted contacts to move information. | Establishes the political layer of the campaign; Dral is a key node in this network. | Existing |
+| **Diplomatic Cover** | Using official status (e.g., Everlund representatives) to bypass local laws or scrutiny. | A tactical method for the party to enter Silverymoon safely. | New Concept |
+| **Sardonic Hospitality** | A personality trait where humor and wit are used to mask serious information or navigate social friction. | Defines Dral’s character archetype as a "friendly" but capable operative. | New Concept |
+| **Political Grievance (Everlund/Silverymoon)** | The broken compact between Everlund and Silverymoon following the abandonment of allies by Methrammar Aerasumé. | Provides the backstory for why certain characters are hostile or guarded. | New Concept |
 
-### Contradictions & Tensions
-- **Internal Tension:** Dral's sardonic demeanor and apparent enjoyment of causing offense might contradict his stated concern for the party's success.
-- **External Conflict:** There is no direct contradiction with existing wiki content, but internal tensions exist regarding his motivations and behavior.
+## Main Arguments & Findings
+*   **Dral as a "Safe" Conduit:** Dral is not just a merchant; he is a sophisticated operative who uses his role as a hospitality provider to mask his work as a Harper contact. His ability to use enchanted items (the teleporting wine) suggests he has access to high-level resources.
+*   **The Importance of Local Diplomacy:** The text highlights that the party's safety in Silverymoon depends on navigating specific political fractures (the Zoar/Aerasumé fallout). Dral provides the "map" for these social minefields.
+*   **Evidence Strength:** High. The document clearly defines his dual role as a merchant and a Harper agent, providing clear links to both local politics and global factions.
 
-### Recommendations
-- **Pages to Create or Update:** None
-- **Emphasis:** Emphasize Dral's role as a Harper contact and his connections within Everlund's political and magical spheres.
-- **Open Questions:** Further explore Dral's motivations behind his sardonic demeanor and how his magical abilities function beyond teleportation.
-- **Pages to Flag:** Internal tensions and contradictions within Dral's character.
+## Connections to Existing Wiki
+*   **Harpers/Darathra Shendl:** This source reinforces the Harpers'
+
+## Related
+
+- [[jarl_storvald]]

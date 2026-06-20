@@ -1,8 +1,8 @@
 ---
 type: source
 title: "Source: coniferous_dryad.md"
-created: 2026-05-13
-updated: 2026-05-13
+created: 2026-06-05
+updated: 2026-06-05
 sources: ["coniferous_dryad.md"]
 tags: []
 related: []
@@ -11,35 +11,52 @@ related: []
 # Source: coniferous_dryad.md
 
 ## Key Entities
-- **Coniferous Dryad**: Merchant specializing in magical goods for discerning magic users, known to Unla Kee and associated with the Fishyard.
-- **Thistle, Vardis**: Peripheral characters involved in the combat.
-- **Unla Kee**: Central character targeted with charm magic.
-- **Orsik**: Peripheral character delivering the killing blow.
-- **Baash'a Kweelani**: Peripheral merchant specializing in magical goods.
-- **Exotic Appearance**: Peripheral phenomenon noted in the dryad's appearance.
-- **Magical Goods Trade**: Peripheral trade network involving magical goods.
+*   **Coniferous Dryad** (Entity)
+    *   **Type:** Fae / Plant-type humanoid.
+    *   **Role:** Combat encounter; minor antagonist/obstacle.
+    *   **Status:** Deceased.
+    *   **Wiki Status:** New entry required.
+*   **Unla Kee** (Person)
+    *   **Role:** Party member.
+    *   **Relationship:** Target of the Dryad's charm magic; survived the encounter.
+    *   **Wiki Status:** Already exists in index.
+*   **Orsik** (Person)
+    *   **Role:** Combatant/Antagonist (Note: Orsik is not currently in the Wiki Index, but appears as the primary slayer of the Dryad).
+    *   **Status:** Active.
+    *   **Wiki Status:** New entry or update needed for his role in this encounter.
+*   **Thistle Wendrod** (Person)
+    *   **Role:** Party member/Social analyst.
+    *   **Relationship:** Trapped by the Dryad's *Entangle* spell.
+    *   **Wiki Status:** Already exists in index.
+*   **Vardis** (Person)
+    *   **Role:** Party member; peripheral presence.
+    *   **Relationship:** Trapped by the Dryad's *Entangle* spell.
+    *   **Wiki Status:** Already exists in index.
 
 ## Key Concepts
-- **Entangle**: A spell that entangles targets, used by the dryad to trap Thistle, Vardis, and Unla Kee.
-- **Tree-step Teleportation**: A technique used by the dryad to evade attacks and reposition himself strategically.
-- **Charm Magic**: A method used by the dryad to influence Unla Kee, temporarily incapacitating him.
+*   **Unseelie Dryad** (Concept/Type)
+    *   **Definition:** A dryad associated with the Unseelie Court, often characterized by more aggressive or "wild" behaviors compared to their Seelie counterparts.
+    *   **Significance:** Establishes the factional alignment of the encounter.
+    *   **Wiki Status:** Potential addition to a "Fae" or "Unseelie" category page.
+*   **Tree-step Teleportation** (Technique)
+    *   **Definition:** A movement ability allowing the dryad to teleport between trees/conifers.
+    *   **Significance:** Demonstrates tactical mobility in combat.
+    *   **Wiki Status:** New entry or addition to "Fae Abilities."
+*   **Charm Magic (Offensive)** (Technique)
+    *   **Definition:** Using charm not just for social manipulation but as a tactical tool to incapacitate enemies during combat.
+    *   **Significance:** Highlights the dryad's cunning; it forced Unla Kee into a non-combatant state (sitting and drinking).
+    *   **Wiki Status:** Potential addition to "Combat Tactics" or "Fae Magic."
 
 ## Main Arguments & Findings
-- The Coniferous Dryad was encountered during a combat in a grove, where he employed tactical maneuvers such as Entangle and Tree-step Teleportation.
-- He targeted Unla Kee specifically with charm magic, which was broken by Orsik's action.
-- The dryad was ultimately killed by Orsik, breaking the charm on Unla Kee.
-- There are no active plans or operations attributed to the dryad post-death.
+*   **Tactical Competence:** The Dryad was not a mindless "mob" but a tactically capable combatant. It utilized crowd control (*Entangle*), mobility (*Tree-step*), and psychological/magical manipulation (Charm) to manage the battlefield.
+*   **Brief Narrative Arc:** The entity served as a functional obstacle rather than a narrative character; it died before any personal motivations or deeper lore could be established.
 
 ## Connections to Existing Wiki
-- This source relates to existing pages such as [[coniferous-dryad]], [[unla-kee]], [[thistle]], [[vardis]], [[orsik]], [[dryads]], and [[magic-spells]].
-- It extends the knowledge about the dryad's tactics and interactions within the narrative.
+*   **Unla Kee / Thistle Wendrod / Vardis:** This encounter provides specific combat data for these characters, specifically regarding how they handled crowd control and magical charms.
+*   **Fey/Seelie Court Context:** The "Unseelie" designation links this entity to the broader fae hierarchy (related to the Seelie Court mentioned in the *Blasius* entry).
 
-## Contradictions & Tensions
-- There is no direct contradiction found in the source with existing wiki content.
-- The dryad's actions and motivations are consistent with the established lore of dryads in the narrative.
+## Contradictions & Te
 
-## Recommendations
-- Ensure the page includes details about the dryad's role in the magical goods trade and his association with the Fishyard.
-- Emphasize the dryad's tactical abilities and the specific charm spell used against Unla Kee.
-- Consider creating or updating pages for [[magic-spells]] and [[dryads]] to incorporate more information about dryad tactics and their interactions with magic users.
-- Flag the need for additional context on the dryad's background and history within the magical goods trade network.
+## Related
+
+- [[deciduous_dryad]]

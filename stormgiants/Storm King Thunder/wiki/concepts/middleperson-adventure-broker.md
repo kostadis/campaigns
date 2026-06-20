@@ -11,3 +11,7 @@ sources: ["fiora_bendaega.md"]
 - **Definition:** A middleperson/adventure broker who connects merchants with suitable adventurers for hire.
 - **Matters:** Essential to understanding Fiora's role and the narrative flow.
 - **Existing:** Likely already exists in the wiki under a similar concept.
+
+## Related
+
+- [[fiora-bendaega]]

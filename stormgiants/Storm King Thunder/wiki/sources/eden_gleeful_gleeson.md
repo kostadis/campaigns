@@ -1,8 +1,8 @@
 ---
 type: source
 title: "Source: eden_gleeful_gleeson.md"
-created: 2026-05-13
-updated: 2026-05-13
+created: 2026-06-06
+updated: 2026-06-06
 sources: ["eden_gleeful_gleeson.md"]
 tags: []
 related: []
@@ -10,38 +10,43 @@ related: []
 
 # Source: eden_gleeful_gleeson.md
 
-### Key Entities
-- **Eden "Gleeful" Gleeson**: Traveling nobleman, prospective groom, central character.
-- **Cisco**: Manservant, peripheral character.
-- **Vardis**: Party member, peripheral character.
-- **Unnamed Bride**: Central figure, identity unknown.
-- **Greypeak Mountains**: Peripheral geographical feature.
-- **Llorkh**: Peripheral city, destination.
-- **Wedding Dessert Budget**: Peripheral financial constraint.
+## Key Entities
 
-### Key Concepts
-- **Wedding Gift**: Concept central to Eden's motivations and actions.
-- **Silver Nose Ring**: Specific item purchased, pivotal to Eden's narrative.
-- **Financial Management**: Theme of Eden's impulsiveness and reliance on others for financial decisions.
+*   **Eden "Gleeful" Gleeson** (Person)
+    *   **Role:** Central to this specific source; a traveling nobleman and prospective groom.
+    *   **Status:** Likely new to the wiki or requires a page update if he is part of a broader "traveler" category.
+*   **Cisco** (Person)
+    *   **Role:** Peripheral/Supporting; Eden's manservant and financial conscience.
+    *   **Status:** New entity; should be added to the wiki as a servant/companion type.
+*   **Vardis** (Person)
+    *   **Role:** Central (Party Member).
+    *   **Status:** Already exists in the wiki. This source provides a specific interaction point for him regarding trade and negotiation.
 
-### Main Arguments & Findings
-- **Core Claim**: Eden's primary goal is to reach his wedding and present his bride with a meaningful gift.
-- **Evidence**: Eden's purchase of a silver nose ring for 150 GP, his intention to have it crafted into a necklace, and his willingness to spend the entire wedding dessert budget on it.
-- **Strength of Evidence**: Strong, supported by his actions and statements.
+## Key Concepts
 
-### Connections to Existing Wiki
-- **[[wedding]]**: Relevant, as it relates to Eden's primary goal.
-- **[[gift-giving]]**: Relevance, as it pertains to the nature of the wedding gift.
-- **[[financial-management]]**: Relevance, as it highlights Eden's tendency to overspend.
+*   **Narrative Economy / Background NPC**
+    *   **Definition:** Using a character to fulfill a narrative purpose (e.g., a "quest-as-emotional-trap" or a simple transaction) without requiring deep backstory.
+    *   **Significance:** Eden serves as a "transactional" encounter that establishes the value of items and the personality of the party members (Vardis's haggling).
+    *   **Status:** Already exists in the wiki under `[[background-npc]]`.
+*   **Transaction-as-Narrative-Catalyst**
+    *   **Definition:** A low-stakes exchange that provides flavor and world-building.
+    *   **Significance:** The purchase of the nose ring establishes Eden's character as "Gleeful" and highlights his impulsive nature.
+    *   **Status:** Already exists in the wiki.
 
-### Contradictions & Tensions
-- **Internal Tension**: Eden's impulsiveness versus his reliance on others for financial decisions.
-- **External Conflict**: Financial constraints (wedding dessert budget) against his desire to spend lavishly.
+## Main Arguments & Findings
+*   **Character Archetype:** Eden is a classic "whimsical noble" archetype. His primary function is to provide a moment of levity and a tangible interaction for the party's merchant/negotiation skills.
+*   **World-Building via Interaction:** The interaction with Cisco highlights the social hierarchy (a servant managing the master's impulsiveness) and the economic reality of the region (the "dessert budget" being sacrificed for a gift).
+*   **Evidence Strength:** High. The source clearly defines his motivations, personality, and specific interactions with the party.
 
-### Recommendations
-- **Create Page**: [[wedding_gifts]] to discuss various types of gifts and their significance.
-- **Update Pages**: [[wedding]], [[gift-giving]], and [[financial_management]] to include Eden's story.
-- **Emphasize**: Eden's character traits and motivations while de-emphasizing the specific details of the silver nose ring.
-- **Open Question**: Should additional information about Eden's bride be included if her identity becomes known?
+## Connections to Existing Wiki
+*   **[[Vardis]]**: This source provides a specific interaction history for Vardis regarding trade.
+*   **[[background-npc]]**: Eden is a prime example of this concept; he has a clear role but no deep "arc" or hidden plot hooks.
+*   **[[transaction-as-narrative-catalyst]]**: The exchange of the silver nose ring fits this perfectly.
 
-This analysis provides a structured breakdown of the key elements within the source document, connecting them to existing wiki content and identifying areas for potential expansion or clarification.
+## Contradictions & Tensions
+*   **None identified.** The character is designed to be straightforward and consistent with the established "Narrative Economy."
+
+## Recommendations
+*   **Create Page:** Create a page for **Eden "Gleeful" Gleeson**. Even as a minor NPC, his specific personality ("Gleeful") and the anecdote of the nose ring provide flavor.
+*   **Update Page:** Update **[[Vardis]]** to include the interaction with Eden regarding the 150 GP negotiation.
+*   **Create Page:** Create a page for **Cisco**. While minor, he represents the "voice of reason" trope and 

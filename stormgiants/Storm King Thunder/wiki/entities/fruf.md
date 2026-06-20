@@ -30,3 +30,7 @@ sources: ["fruf.md"]
 
 ## Arc Score Events
 - None recorded.
+
+## Related
+
+- [[ghelryn-foehammer]]

@@ -19,3 +19,7 @@ Ancient red dragon, self-styled sovereign of the North. Operates through proxies
 
 ## Arc Score Events
 - No arc score events recorded
+
+## Related
+
+- [[klauth]]

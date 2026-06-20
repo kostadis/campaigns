@@ -27,9 +27,9 @@ related: []
 - **Strength of Evidence**: Weak, based on a single interaction.
 
 ### Connections to Existing Wiki
-- **[[npcs]]**: Syreen Widdens can be added to the NPCs page.
+- **[[4-npcs--20-the_chief_accountant--5h6g2f]]**: Syreen Widdens can be added to the NPCs page.
 - **[[triboor]]**: Her presence in Triboar can be noted.
-- **[[animal-trading-businesses]]**: Her business can be linked to this category.
+- **[[fiora-bendaega]]**: Her business can be linked to this category.
 
 ### Contradictions & Tensions
 - **No contradictions found**.
@@ -41,3 +41,9 @@ related: []
 
 ## Wiki Purpose (for context)
 # Project Purpose — Reading
+
+## Related
+
+- [[tolmarra]]
+- [[talis_the_white]]
+- [[the_wight_elquen]]

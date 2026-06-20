@@ -4,17 +4,17 @@ title: Iymrith
 created: 2026-05-13
 updated: 2026-05-22
 tags: ["alias", "blue dragon", "cult of the dragon", "deception", "antagonist", "spy", "alchemist", "hybridization", "kraken society", "seelie court", "unseelie court", "red wizards"]
-related: ["iymrith", "storm-giant-court", "mirran", "nym", "queen-serissa", "thistle-wendrod", "laela", "harshnag", "kolbaz", "maelstrom", "eye-of-the-all-father", "mirren", "king-hekaton", "queen-titania", "blagothkus", "escarlotta", "sandesyl", "lord-aerasume", "kraken-society", "red-wizards", "seelie-court", "unseelie-court", "lords-alliance"]
+related: ["iymrith", "storm-giant-court", "mirran", "nym", "serissa", "thistle-wendrod", "laela", "harshnag", "kolbaz", "the-maelstrom-2026-06-06-002449", "eye-of-the-all-father", "king-hekaton", "queen-titania", "blagothkus", "escarlotta", "sandesyl", "lord-aerasume", "kraken-society", "red-wizards", "fey-court-structure", "unseelie-court", "lords-alliance"]
 sources: ["kolbaz.md", "campaign_state-20260520.md", "adimond_kroskas.md", "iymrith.md"]
 ---
 
 # Iymrith
 
-Iymrith, also known as the "Doom of the Desert," is an ancient blue dragon who has spent centuries orchestrating elaborate deceptions to advance her experiments in biological hybridization. She operates under multiple identities, most notably the human persona **Adimond Kroskas**, a rogue alchemist and political advisor, to infiltrate and manipulate powerful factions across Faerûn. Her true nature was exposed during the confrontation at the [[maelstrom]], where she transformed before witnesses, confirming her draconic essence.
+Iymrith, also known as the "Doom of the Desert," is an ancient blue dragon who has spent centuries orchestrating elaborate deceptions to advance her experiments in biological hybridization. She operates under multiple identities, most notably the human persona **Adimond Kroskas**, a rogue alchemist and political advisor, to infiltrate and manipulate powerful factions across Faerûn. Her true nature was exposed during the confrontation at the [[the-maelstrom-2026-06-06-002449]], where she transformed before witnesses, confirming her draconic essence.
 
 ## Identity & Role
 
-Iymrith’s primary identity is that of an ancient blue dragon with a profound obsession with creating hybrid lifeforms—particularly those combining dragon and fairy genetics. To achieve her goals, she assumes false identities with meticulous precision. As **Adimond Kroskas**, she infiltrated the [[storm-giant-court]], posing as a loyal courtier to [[queen-serissa]] while covertly working to destabilize her rule. The persona was so convincing that even seasoned investigators like [[kolbaz]] were deceived—his research into Kroskas’s true nature led to his violent death, likely triggered by Iymrith’s uncontrolled transformation, which left his chambers destroyed by draconic energy.
+Iymrith’s primary identity is that of an ancient blue dragon with a profound obsession with creating hybrid lifeforms—particularly those combining dragon and fairy genetics. To achieve her goals, she assumes false identities with meticulous precision. As **Adimond Kroskas**, she infiltrated the [[storm-giant-court]], posing as a loyal courtier to [[serissa]] while covertly working to destabilize her rule. The persona was so convincing that even seasoned investigators like [[kolbaz]] were deceived—his research into Kroskas’s true nature led to his violent death, likely triggered by Iymrith’s uncontrolled transformation, which left his chambers destroyed by draconic energy.
 
 Her ability to maintain the Kroskas persona for extended periods demonstrates mastery of illusion, shapeshifting, and psychological manipulation. The transformation was notably witnessed at the [[eye-of-the-all-father]], where she shifted forms upon encountering [[harshnag]], confirming the duality of her existence.
 
@@ -22,7 +22,7 @@ Her ability to maintain the Kroskas persona for extended periods demonstrates ma
 
 Iymrith has embedded herself within multiple power structures to secure resources, legitimacy, and protection for her experiments:
 
-- **Storm Giant Court**: As Kroskas, she manipulated [[mirren]] and [[nym]], the sisters of Queen Serissa, to undermine royal authority from within. Her goal was to weaken Serissa’s rule and position herself as an indispensable advisor, possibly to gain access to King Hekaton, who was later kidnapped under her orchestration.
+- **Storm Giant Court**: As Kroskas, she manipulated [[mirran]] and [[nym]], the sisters of Queen Serissa, to undermine royal authority from within. Her goal was to weaken Serissa’s rule and position herself as an indispensable advisor, possibly to gain access to King Hekaton, who was later kidnapped under her orchestration.
 - **Cult of the Dragon / Kraken Society**: Iymrith rebranded the Cult of the Dragon into the [[kraken-society]], transforming it from a fanatical sect into a sophisticated investor network. She leveraged this rebranding to attract funding and political cover from powerful factions.
 - **Red Wizards**: Major financial backers of her hybridization research, providing arcane materials and magical expertise.
 - **Seelie Court & Unseelie Court**: Both courts have approved or funded her fairy-dragon hybridization experiments. [[queen-titania]] of the Seelie Court granted formal sanction, while the Unseelie Court acted as a covert investor.
@@ -66,3 +66,7 @@ The exposure of Iymrith’s true identity has fractured the political stability 
 Her actions exemplify the long-game strategies of ancient dragons: patience, deception, and the transformation of institutions to serve hidden ends. The Kraken Society, once the Cult of the Dragon, now functions as a shadowy consortium of arcane investors, all unknowingly funding Iymrith’s vision of a new biological order.
 
 Her experiments continue, and with Laela still at large, Iymrith remains an active, evolving threat—part scientist, part artist, part predator—whose creations may one day reshape the very fabric of life in Faerûn.
+
+## Related
+
+- [[iymrith]]

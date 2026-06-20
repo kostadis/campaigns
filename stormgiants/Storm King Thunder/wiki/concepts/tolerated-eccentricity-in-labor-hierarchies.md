@@ -4,7 +4,7 @@ title: Tolerated Eccentricity in Labor Hierarchies
 created: 2026-06-15
 updated: 2026-06-15
 tags: [labor, culture, institutional-tolerance, pragmatism, folk-tradition]
-related: ["dwolin-the-grout", "horia-stonetallow", "ritualized-resource-extraction", "mountain-s-toe-gold-mine"]
+related: ["dwolin-the-grout", "horia-stonetallow", "ritualized-resource-extraction", "mountain-toe-gold-mine"]
 sources: ["npcs/dwolin_the_grout.md"]
 ---
 # Tolerated Eccentricity in Labor Hierarchies
@@ -18,3 +18,7 @@ This concept reveals how organizations, even those governed by cold logic, accom
 It contrasts with Don-Jon Raskin’s charismatic incompetence: Raskin is tolerated for his charm, Dwolin for his craft. Both are unaware proxies, but Dwolin’s ignorance is spiritual, Raskin’s is professional.
 
 Tolerated Eccentricity is a quiet form of cultural resilience — a space where folk knowledge survives beneath the surface of institutional control.
+
+## Related
+
+- [[superstition-as-operational-hindrance]]

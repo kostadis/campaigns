@@ -4,7 +4,7 @@ title: Adabra Gwynn
 created: 2026-06-15
 updated: 2026-06-15
 tags: [druid, non-interventionist, leader, ideologue]
-related: [delaan-winterhound, lyra, ideological-split-in-the-emerald-enclave, anti-interventionism-druidic, weaponization-of-personal-debt, philosophical-deception-tacit-complicity]
+related: ["delaan-winterhound", "lyra", "ideological-split-in-the-emerald-enclave", "emerald-enclave", "weaponization-of-personal-debt", "philosophical-deception-tacit-complicity"]
 sources: ["npcs/delaan_winterhound.md"]
 ---
 # Adabra Gwynn
@@ -16,3 +16,9 @@ Her worldview stands in direct contrast to Delaan Winterhound, the Enclave’s f
 Adabra weaponizes silence — not her own, but others’. She exploited Aldric Stone Path’s inability to articulate his beliefs to condemn interventionism, mirroring how Delaan’s silence after his decision allowed his legacy to be claimed by both sides. Unlike Delaan, who was persuaded by moral appeal, Adabra cultivates followers who cannot defend her philosophy — a form of [[philosophical-deception-tacit-complicity]].
 
 Her tragedy is not that she is wrong, but that she is coherent — and that her rigidity makes her incapable of the very discernment Delaan embodied. She is not a villain — she is the inevitable consequence of a philosophy that refuses to be questioned.
+
+## Related
+
+- [[adabra-gwynn]]
+- [[lyra]]
+- [[delaan-winterhound]]

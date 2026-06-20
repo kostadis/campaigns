@@ -14,3 +14,7 @@ venue: ""
 # Giles Slipper-Shine
 
 Intelligence regarding the villager Giles Slipper-Shine, his role as a laborer for the [[temple-of-lathanders-searing-pain-of-justice]], and his involvement in the unorthodox Lathanderite movement.
+
+## Related
+
+- [[4-npcs--19-giles_slipper_shine--b6yrj]]

@@ -25,13 +25,13 @@ related: []
 - **Strength of Evidence**: Directly stated in the source document.
 
 ### Connections to Existing Wiki
-- **Existing Pages**: [[bounty-hunting]], [[hand-of-yartar]], [[yartar]], [[bounty-targets]], [[custody]].
+- **Existing Pages**: [[dashing_dallon_flek]], [[hand-of-yartar]], [[yartar]], [[dashing_dallon_flek]], [[custody]].
 - **Knowledge Strengthened**: Provides context for the party's actions and the Hand of Yartar's involvement.
 
 ### Contradictions & Tensions
 - **Internal Tension**: The source lacks details about why Tink Urbelle was wanted, which could contradict broader narratives if such information were available.
 
 ### Recommendations
-- **Create or Update**: [[tink-urbelle]], [[bounty-targets]], [[bounty-hunting]], [[hand-of-yartar]], [[custody]].
+- **Create or Update**: [[tink_urbelle]], [[dashing_dallon_flek]], [[dashing_dallon_flek]], [[hand-of-yartar]], [[custody]].
 - **Emphasize**: The capture and subsequent handover to the Hand of Yartar.
 - **Open Questions**: Why was Tink Urbelle wanted, and what is the Hand of Yartar's plan for him?

@@ -9,3 +9,7 @@ sources: ["kaesen.md"]
 ---
 # Does Summoning Ritual Cause Demons to Appear?
 Investigate further into the nature of summoning rituals and their potential consequences. Does performing a summoning ritual always result in demons appearing on the Material Plane?
+
+## Related
+
+- [[does-summoning-ritual-cause-demons-to-appear-2026-05-13]]

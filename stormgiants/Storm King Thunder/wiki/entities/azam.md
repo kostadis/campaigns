@@ -2,7 +2,7 @@
 type: entity
 title: Azam
 tags: ["merchant", "caravan leader", "Lord's Alliance", "SEER", "agent", "operative", "emotional-operative"]
-related: [hsing, seer, lord-s-alliance, bad-fruul, joon, thule, unla-kee, thistle, disguised-influence, layered-command-structure, operational-anxiety, recruitment-through-integrity]
+related: ["hsing", "seer", "lords-alliance", "bad-fruul", "joon", "thule", "unla-kee", "thistle", "disguised-influence", "organizational-secrecy-via-bosses", "operational-anxiety", "recruitment-through-integrity"]
 sources: ["azam.md"]
 created: 2023-10-01
 updated: 2026-05-22
@@ -19,3 +19,8 @@ Azam is not a decision-maker but an executor — a human interface between insti
 His last known location is Parnast, coordinating the defense against Bad Fruul and tracking Joon’s movements in Triboar. His efforts to recruit capable agents, including Thistle, and his role in delivering the statue and repelling the goblin attack demonstrate his importance to both the Lord’s Alliance and SEER. Azam’s methods are grounded in evidence-based assessment and operational pragmatism, aligning with broader SEER doctrines of intelligence gathering and operational coordination.
 
 He operates within a framework of operational coordination, intelligence gathering, and recruitment — each a core concept tied to his activities. His work exemplifies recruitment through integrity, disguised influence, and operational anxiety, revealing the human cost of maintaining deniability in a fractured hierarchy.
+
+## Related
+
+- [[hsing]]
+- [[azan]]

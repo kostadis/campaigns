@@ -15,3 +15,7 @@ Expeditious Retreat is a spell that allows a creature to move up to its speed wi
 
 ## Description
 - Allows a creature to move up to its speed without provoking opportunity attacks.
+
+## Related
+
+- [[teleportation]]

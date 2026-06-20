@@ -16,3 +16,8 @@ Harbin Wester proposes the Privy Council not as a reform, but as a survival tact
 This mirrors [[cynical-alliance-as-strategy]]: alliances are formed not for mutual benefit, but to manage threat. The council members — Vukradin, Adabra, Brewbarry — are not partners; they are buffers. Harbin retains control over agenda, funding, and narrative, while appearing to yield authority.
 
 Power-sharing here is not generosity — it is containment. It transforms dissent into participation, and resistance into ritual. The result is not democracy — it is a more elegant form of autocracy, where the appearance of inclusion ensures the permanence of control.
+
+## Related
+
+- [[unilateral-decision-making]]
+- [[proceduralism]]

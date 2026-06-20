@@ -195,11 +195,11 @@ This wiki covers the narrative universe described in the source document "Zephyr
 ## Pages
 - [[zephyros]]
 - [[cloud-giants]]
-- [[seer-secret-eldritch-order]]
-- [[dwarves-of-dessarin-hills]]
-- [[infiltration-in-zephyros-castle]]
-- [[moral-decision-making-in-zephyros-castle]]
-- [[unpardonable-sins]]
+- [[the_seer]]
+- [[out-of-phase-dwarves]]
+- [[zephyros]]
+- [[moral-ambiguity-of-inaction-undead]]
+- [[unpardonable_sins]]
 
 ## Open Questions
 - What were the exact "unpardonable sins" committed by Zephyros in Everlund?
@@ -207,3 +207,7 @@ This wiki covers the narrative universe described in the source document "Zephyr
 - What happened to him after the combat in his quarters?
 
 ## End of Overview
+
+## Related
+
+- [[estrella]]

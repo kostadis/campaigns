@@ -9,3 +9,8 @@ sources: ["dral_thelev.md"]
 ---
 # Political Stability
 The condition of a political landscape where various political entities maintain a balance of power and influence, leading to a harmonious and predictable political environment.
+
+## Related
+
+- [[political-system]]
+- [[political-structure]]

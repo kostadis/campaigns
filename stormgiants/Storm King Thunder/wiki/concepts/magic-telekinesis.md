@@ -11,3 +11,13 @@ sources: ["harthos_zymorven.md"]
 - **Description:** The ability to move objects with the mind.
 - **Influence:** Harthos's execution by decapitation is designed to prevent magical resurrection.
 - **Associated Characters:** Harthos Zymorven
+
+## Related
+
+- [[teleportation]]
+- [[magic]]
+- [[teleportation-capability]]
+- [[teleportation-circle]]
+- [[magic-transmutation]]
+- [[magic-telepathy]]
+- [[magic-teleportation]]

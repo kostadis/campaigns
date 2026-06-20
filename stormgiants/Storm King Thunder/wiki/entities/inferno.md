@@ -33,3 +33,8 @@ tags: [dracolich, undead, pact]
 related: []
 sources: ["inferno.md"]
 ---
+
+## Related
+
+- [[dracolich]]
+- [[jorgen]]

@@ -13,4 +13,4 @@ sources: ["elicia_kal_kallaphan.md"]
 - **Examples:** 150 gold paid to the party for two bounties handled by Elicia "Kal" Kallaphan.
 
 ## Related Pages
-- [[Elicia "Kal" Kallaphan]]
+- [[elicia_kal_kallaphan]]

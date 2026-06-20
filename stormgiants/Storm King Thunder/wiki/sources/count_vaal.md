@@ -1,8 +1,8 @@
 ---
 type: source
 title: "Source: count_vaal.md"
-created: 2026-05-13
-updated: 2026-05-13
+created: 2026-06-05
+updated: 2026-06-05
 sources: ["count_vaal.md"]
 tags: []
 related: []
@@ -10,86 +10,41 @@ related: []
 
 # Source: count_vaal.md
 
-### Key Entities
-- **Count Vaal**
-  - **Name and Type:** Individual, Merchant
-  - **Role in the Source:** Central
-  - **Likely Exists in Wiki:** Yes
-- **Mirran**
-  - **Name and Type:** Organization, Merchant
-  - **Role in the Source:** Peripheral
-  - **Likely Exists in Wiki:** Yes
-- **Orsik**
-  - **Name and Type:** Individual, Warrior
-  - **Role in the Source:** Peripheral
-  - **Likely Exists in Wiki:** Yes
-- **Unla Kee**
-  - **Name and Type:** Individual, Mage
-  - **Role in the Source:** Peripheral
-  - **Likely Exists in Wiki:** Yes
-- **Vardis**
-  - **Name and Type:** Individual, Warrior
-  - **Role in the Source:** Peripheral
-  - **Likely Exists in Wiki:** Yes
-- **Cloud Giants**
-  - **Name and Type:** Species, Merchant
-  - **Role in the Source:** Peripheral
-  - **Likely Exists in Wiki:** Yes
-- **Morningstar**
-  - **Name and Type:** Weapon, Tool
-  - **Role in the Source:** Peripheral
-  - **Likely Exists in Wiki:** Yes
-- **Explosive Fire Mote**
-  - **Name and Type:** Spell, Technique
-  - **Role in the Source:** Peripheral
-  - **Likely Exists in Wiki:** Yes
-- **Teleportation Conch**
-  - **Name and Type:** Item, Tool
-  - **Role in the Source:** Peripheral
-  - **Likely Exists in Wiki:** Yes
-- **Potion of Water Breathing**
-  - **Name and Type:** Item, Tool
-  - **Role in the Source:** Peripheral
-  - **Likely Exists in Wiki:** Yes
+## Key Entities
 
-### Key Concepts
-- **Misty Step**
-  - **Definition:** Ability allowing teleportation
-  - **Importance:** Demonstrated by Vardis, indicating Vaal's capabilities
-  - **Likely Exists in Wiki:** Yes
-- **Arc Score Events**
-  - **Definition:** Events that contribute to the narrative arc score
-  - **Importance:** None recorded for Count Vaal
-  - **Likely Exists in Wiki:** Yes
+*   **Count Vaal** (Cloud Giant Lord)
+    *   **Role:** Central to the "Trap Room" encounter; one of four giant lords in Mirran's coalition.
+    *   **Status:** Deceased.
+    *   **Wiki Status:** New entry required.
+*   **Mirran** (Giant Leader/Coordinator)
+    *   **Role:** Central; the entity who assembled the coalition of giant lords.
+    *   **Wiki Status:** Likely exists or needs a profile as a primary antagonist/faction leader.
+*   **Orsik** (Party Member/Ally)
+    *   **Role:** Central; interacted with Vaal in combat and performed the "cleanup" of the corpse.
+    *   **Wiki Status:** Existing entity (implied by interaction).
+*   **Unla Kee** (Party Member/Ally)
+    *   **Role:** Central; primary damage dealer against Vaal.
+    *   **Wiki Status:** Exists in wiki.
+*   **Vardis** (Party Member/Ally)
+    *   **Role:** Central; provided tactical support and was alarmed by Vaal's abilities.
+    *   **Wiki Status:** Exists in wiki.
 
-### Main Arguments & Findings
-- **Core Claims:**
-  - Count Vaal was a cloud giant lord assembled by Mirran.
-  - He participated in a battle against the party, taking hits and delivering blows.
-  - He was killed by Vardis using Flame Strike and Unla Kee's final blasts.
-  - His body was looted by Orsik and hidden in a storeroom.
-- **Evidence:**
-  - Formal declarations made during the battle.
-  - Combat exchanges documented, including hits and blows.
-  - Death confirmed by Vardis's action.
-  - Loot recovered by Orsik.
-- **Strength of Evidence:**
-  - Directly stated in the source.
-  - Detailed combat exchanges provide strong support.
+## Key Concepts
 
-### Connections to Existing Wiki
-- **Existing Pages:**
-  - [[cloud-giants]] — Relevant to Count Vaal's species.
-  - [[mirran]] — Relevant to Count Vaal's faction.
-  - [[orc-warriors]] — Relevant to Orsik's role.
-  - [[mage-warriors]] — Relevant to Unla Kee's role.
-- **Impact:**
-  - Strengthens existing knowledge about the battle and the characters involved.
-  - Provides new details about Count Vaal's abilities and death.
+*   **Coalition of Giant Lords:** A political/military alliance formed by Mirran. This highlights the scale of the threat posed by the giant factions. (New concept or update to existing "Ordning" related lore).
+*   **Misty Step Capability:** Specifically noted as a tactical concern for the party; indicates high-level mobility among the cloud giants.
+*   **Evidence Concealment:** The act of moving Vaal's body to a storeroom suggests a narrative tension regarding whether the "cleanup" was successful or if it creates a ticking clock/discovery risk.
 
-### Contradictions & Tensions
-- **Internal Tension:**
-  - The source does not mention any contradictions or internal tensions regarding Count Vaal's actions or motivations.
+## Main Arguments & Findings
+*   **Combat Dynamics:** The encounter established that cloud giants possess significant mobility (flight and *Misty Step*) and high durability, requiring specific tactics (like Vardis's *Flame Strike*) to overcome.
+*   **Tactical Success:** The party successfully eliminated a high-ranking threat (a Count) and managed to hide the evidence of the engagement, though the "hidden" status of his death creates potential for future plot hooks.
+*   **Evidence Strength:** High; the document provides specific loot items and clear combater interactions.
 
-### Recommendations
-- **Pages to Create o
+## Connections to Existing Wiki
+*   **[[shattering-of-the-ordning]]**: Vaal's role as a "Lord" in a coalition relates to the fallout of the shattered giant hierarchy.
+*   **[[unla-kee]]**, **[[vardis]]**, **[[orisk]]**: These are established party members/allies whose roles in this specific encounter should be cross-referenced.
+*   **[[mirran]]**: (If existing) This source provides a direct link between Mirran and the organization of giant forces.
+
+## Contradictions & Tensions
+*   **Hidden Status:** There is an inherent tension between the party's belief that they "hid" the body and the possibility that Mirran or other lords will notice the absence. This creates a "ticking clock" element for the narrative.
+*   **Orsik’s Interaction:** The fact that Orsik mocked Vaal even after being struck by his morningstar suggests a high level of confidence/arrogance in the party's combat stanc

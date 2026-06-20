@@ -35,3 +35,7 @@ sources: ["everard_barney.md"]
 
 ## Arc Score Events
 - No arc score events recorded in source notes
+
+## Related
+
+- [[everard_barney]]

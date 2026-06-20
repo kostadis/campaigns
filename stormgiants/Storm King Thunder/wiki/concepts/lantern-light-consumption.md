@@ -13,3 +13,8 @@ Lantern Light Consumption refers to the process by which each question posed to 
 ## Key Points
 - **Consumption:** Each question consumes one lantern light from the six giant statues.
 - **Truthfulness:** Ensures that the oracle's answers are always true and aligned with the party's actions.
+
+## Related
+
+- [[six-giant-statues]]
+- [[oracle-prophecy]]

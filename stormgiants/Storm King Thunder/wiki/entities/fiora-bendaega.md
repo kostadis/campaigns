@@ -40,3 +40,7 @@ sources: ["fiora_bendaega.md"]
 
 ## Arc Score Events
 - *(No arc score events recorded for this NPC)*
+
+## Related
+
+- [[fiora_bendaega]]

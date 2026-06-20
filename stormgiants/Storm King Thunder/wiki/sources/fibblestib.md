@@ -2,9 +2,9 @@
 type: source
 title: Fibblestib
 created: 2025-05-22
-updated: 2025-05-22
+updated: 2026-06-08
 tags: [gnomengarde, inventor, character-profile]
-related: [fibblestib, dabbledob, king-korboz, soma, vukradin]
+related: ["fibblestib", "dabbledob", "king-korboz", "vukradin"]
 sources: []
 authors: []
 year: 2025
@@ -16,7 +16,7 @@ venue: ""
 Intelligence regarding the chief inventor of [[gnomengarde]], including his personality, political views, and current research projects.
 
 ## Summary
-Fibblestib (also known as Fiddlestib) is the chief inventor at the [[gnomengarde]] laboratory. He is characterized by a prideful, competitive, and eccentric personality, frequently engaging in loud and contentious rivalries with his co-inventor, [[dabbledob]]. His primary motivation is the development of technological solutions to the political and mental crises facing the [[dual-monarchy]], specifically the madness of [[king-korboz]].
+Fibblestib (also known as Fiddlestib) is the chief inventor at the [[gnomengarde]] laboratory. He is characterized by a prideful, competitive, and eccentric personality, frequently engaging in loud and contentious rivalries with his co-inventor, [[dabbledob]]. His primary motivation is the development of technological solutions to the political and mental crises facing the [[kobold-kingdom]], specifically the madness of [[king-korboz]].
 
 ## Key Details
 - **Role:** Chief Inventor, Gnomengarde Inventors' Guild.

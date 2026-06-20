@@ -4,7 +4,7 @@ title: Divine-punishment-as-geological-event
 created: 2026-06-15
 updated: 2026-06-15
 tags: [folk-religion, dwarven-culture, abbathor, natural-disaster]
-related: [dazlyn-grayshard, abbathor, temple-of-abbathor, divine-silence, divine-knowledge-as-strategic-tool]
+related: ["dazlyn-grayshard", "temple-of-abbathor", "divine-silence", "divine-knowledge-as-strategic-tool"]
 sources: ["npcs/dazlyn_grayshard.md"]
 ---
 # Divine-punishment-as-geological-event
@@ -15,6 +15,6 @@ Dazlyn Grayshard describes the destruction of the ancient dwarven settlement as 
 
 This belief system operates outside institutional religion. It does not require priests, oracles, or temples — only memory and fear. It is the emotional counterpart to [[divine-silence]]: where the gods no longer speak, the people invent explanations in the language of the earth.
 
-This concept enriches the portrayal of [[abbathor]] beyond cults and divine agents, grounding the deity’s influence in the lived experience of ordinary dwarves. It also provides narrative texture to ruins and disasters — not as mere plot devices, but as sacred wounds in the landscape.
+This concept enriches the portrayal of [[temple-of-abbathor]] beyond cults and divine agents, grounding the deity’s influence in the lived experience of ordinary dwarves. It also provides narrative texture to ruins and disasters — not as mere plot devices, but as sacred wounds in the landscape.
 
-See also: [[dazlyn-grayshard]], [[abbathor]], [[temple-of-abbathor]]
+See also: [[dazlyn-grayshard]], [[temple-of-abbathor]], [[temple-of-abbathor]]

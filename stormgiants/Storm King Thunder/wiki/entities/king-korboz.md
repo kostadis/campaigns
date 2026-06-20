@@ -2,14 +2,14 @@
 type: entity
 title: King Korboz
 created: 2025-05-22
-updated: 2026-05-27
+updated: 2026-06-08
 tags: [kobold, ruler, npc, gnome, king, monarch, mad-king, patient, madness, institutional-collapse, mad, gnomengarde]
-related: ["king-gnercli", "kobold-kingdom", "dual-monarchy", "gnomengarde", "vukradin", "shapeshifter-threat", "fibblestib", "dabbledob", "sanity-ray", "straitjacket-solution", "information-asymmetry-npc-encounters", "shapeshifter-threat-kobold-kingdom", "reactive-leadership", "leadership-vulnerability-through-illness", "warren", "orrin", "madness-as-political-vulnerability", "technology-as-cure", "shapeshifter-threat-as-symbolic-fear"]
+related: ["king-gnercli", "kobold-kingdom", "gnomengarde", "vukradin", "shapeshifter-threat", "fibblestib", "dabbledob", "technology-as-cure", "straitjacket-solution", "information-asymmetry-npc-encounters", "shapeshifter-threat-kobold-kingdom", "reactive-leadership", "psychological-underestimation-as-vulnerability", "warren", "orrin", "madness-as-political-vulnerability", "shapeshifter-threat-as-symbolic-fear"]
 sources: ["king_gnercli.md", "king_korboz.md", "npcs/fibblestib.md", "npcs/king_gnercli.md", "npcs/king_korboz.md"]
 ---
 # King Korboz
 
-[[king-korboz]] is the senior co-ruler of the [[gnomengarde]] [[dual-monarchy]] and the philosophical counterpart to [[king-gnercli]]. Once a respected and capable sovereign, he now suffers from unexplained madness, marked by violent outbursts, paranoia, and an obsessive belief in a shapeshifter threat that has allegedly caused the disappearances of inventors [[warren]] and [[orrin]]. His condition is the hidden catalyst behind the collapse of the dual monarchy, transforming its theoretical strength — shared authority — into its fatal weakness.
+[[king-korboz]] is the senior co-ruler of the [[gnomengarde]] [[kobold-kingdom]] and the philosophical counterpart to [[king-gnercli]]. Once a respected and capable sovereign, he now suffers from unexplained madness, marked by violent outbursts, paranoia, and an obsessive belief in a shapeshifter threat that has allegedly caused the disappearances of inventors [[warren]] and [[orrin]]. His condition is the hidden catalyst behind the collapse of the dual monarchy, transforming its theoretical strength — shared authority — into its fatal weakness.
 
 ## Profile
 
@@ -19,7 +19,7 @@ His silence and absence are more powerful than any declaration. He is the void a
 
 Korboz’s madness is not merely personal — it is political. It exposes the dual monarchy’s fatal flaw: it assumes both rulers are rational, competent, and aligned. When one is not, the system cannot adapt. It lacks mechanisms for removal, intervention, or succession. His condition transforms the dual monarchy from a philosophical ideal into a tragic irony: a system designed to prevent tyranny now prevents any meaningful response to its own collapse.
 
-His primary motivation is to be believed — he feels chronically dismissed by Gnercli, whose refusal to acknowledge the shapeshifter has eroded his sense of legitimacy. His emotional vulnerability was weaponized by [[vukradin]], who deliberately provoked Korboz’s grievances over seniority, leading to a public confrontation that shattered the monarchy’s fragile stability. This dynamic exemplifies [[reactive-leadership]] and [[leadership-vulnerability-through-illness]], and embodies [[madness-as-political-vulnerability]].
+His primary motivation is to be believed — he feels chronically dismissed by Gnercli, whose refusal to acknowledge the shapeshifter has eroded his sense of legitimacy. His emotional vulnerability was weaponized by [[vukradin]], who deliberately provoked Korboz’s grievances over seniority, leading to a public confrontation that shattered the monarchy’s fragile stability. This dynamic exemplifies [[reactive-leadership]] and [[psychological-underestimation-as-vulnerability]], and embodies [[madness-as-political-vulnerability]].
 
 ## Political Standing
 
@@ -43,3 +43,5 @@ Korboz is currently confined to his quarters within the [[gnomengarde]] cave sys
 The nature and severity of his condition remain unconfirmed; it is unknown if his state is purely psychological, a result of supernatural influence, or a physical illness. Recent reports indicate he remains in a heated conflict with Gnercli.
 
 He remains confined to his chamber, a symbol of a monarchy teetering on collapse — a living monument to the failure of rational institutions to hear truth when it comes wrapped in chaos.
+
+King Korboz is a central figure in Fibblestib’s arc and Gnomengarde’s crisis, yet his madness, origins, and potential connection to the dragon threat remain unexplored. His absence as a direct NPC creates narrative tension but leaves a critical knowledge gap: is his madness supernatural, technological, or psychological? Resolving this could tie Gnomengarde’s collapse to broader planar corruption.

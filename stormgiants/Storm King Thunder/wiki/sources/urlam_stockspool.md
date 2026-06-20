@@ -59,7 +59,7 @@ related: []
   - [[zhentarim]]: Relevant for understanding Urlam's background and motivations.
   - [[house-margaster]]: Directly related to Urlam's stated goal.
   - [[iymrith]]: Provides context for Urlam's intelligence.
-  - [[orthovir]]: Suggests a connection to the party's current investigation.
+  - [[othovir]]: Suggests a connection to the party's current investigation.
 - **Impact**:
   - Strengthens existing knowledge about the Zhentarim and House Margaster.
   - Extends understanding of the party's current situation and potential alliances.
@@ -73,5 +73,9 @@ related: []
 
 ### Recommendations
 - **Create or Update Pages**:
-  - [[urlam-stockspool]]: Comprehensive page detailing his role, relationships, and motivations.
-  - [[zhentarim-agent]]:
+  - [[urlam_stockspool]]: Comprehensive page detailing his role, relationships, and motivations.
+  - [[zuul-clovis]]:
+
+## Related
+
+- [[uthor]]

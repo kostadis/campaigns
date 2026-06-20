@@ -9,3 +9,7 @@ related: []
 # Unresolved Mirak Hysstryn
 
 Description of what needs the user's attention.
+
+## Related
+
+- [[xamlyn-margaster-2026-05-14]]

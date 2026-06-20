@@ -29,3 +29,7 @@ Practitioner of summoning magic, role/title unknown, faction affiliation unknown
 
 ## Arc Score Events
 - No arc score events recorded.
+
+## Related
+
+- [[kaesen]]

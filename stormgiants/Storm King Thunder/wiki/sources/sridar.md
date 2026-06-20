@@ -14,3 +14,8 @@ venue: ""
 # Sridar
 
 Intelligence regarding Sridar, a Drow independent scholar and artifact collector specializing in planar phenomena. This source details her "interventionist" philosophy, her history with the Underdark "blink" event, and her transactional relationship with the adventuring party.
+
+## Related
+
+- [[4-npcs--6-sridar--1fghys8]]
+- [[sridar]]

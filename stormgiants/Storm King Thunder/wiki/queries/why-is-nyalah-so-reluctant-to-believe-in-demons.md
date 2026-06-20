@@ -7,3 +7,7 @@ tags: [nyalah_uuseff, demons]
 related: []
 sources: ["nyalah_uuseff.md"]
 ---
+
+## Related
+
+- [[demon]]

@@ -28,14 +28,22 @@ related: []
 ### Connections to Existing Wiki
 - **[[zhentarim]]**: Links Manshoon to the Zhentarim organization.
 - **[[waterdeep]]**: Contextualizes Manshoon’s activities within Waterdeep.
-- **[[cloning-magic]]**: Expands on the technique used by Manshoon.
+- **[[magic-immortality]]**: Expands on the technique used by Manshoon.
 
 ### Contradictions & Tensions
 - **Internal Conflict**: The existence of two Black Network factions in Waterdeep contradicts the notion of a single surviving Manshoon.
 - **Official Accounts vs. Speculation**: Official accounts and Darz's beliefs present conflicting narratives regarding Manshoon's fate.
 
 ### Recommendations
-- **Create Pages**: [[manshoon]], [[cloning-magic]], [[zhentarim-black-network]], [[waterdeep]]
+- **Create Pages**: [[manshoon]], [[magic-immortality]], [[zhentarim-black-network]], [[waterdeep]]
 - **Emphasize**: Cloning magic and the internal conflict within the Zhentarim factions.
 - **Open Questions**: Clarify whether Manshoon is truly alive and determine the extent of his surviving clones.
 - **De-emphasize**: Specific details about Manshoon's personality and motivations until more concrete evidence is available.
+
+## Related
+
+- [[sergeant_gronk]]
+- [[ezra]]
+- [[donnal]]
+- [[othovir]]
+- [[mirk]]

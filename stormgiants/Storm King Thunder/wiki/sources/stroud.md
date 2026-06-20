@@ -25,8 +25,8 @@ related: []
 - **Tomb of Diderius**: A specific location where Stroud is said to have killed Glazhael, a pivotal event in the story.
 
 ### Existence in Wiki
-- **Hero of the War of the Dragon**: Exists in the wiki under [[first-faction]].
-- **Tomb of Diderius**: Exists in the wiki under [[locations]].
+- **Hero of the War of the Dragon**: Exists in the wiki under [[the-first-factions-identity-2026-06-06-042002]].
+- **Tomb of Diderius**: Exists in the wiki under [[danivarrs-house]].
 
 ## Main Arguments & Findings
 - **Core Claim**: Stroud is a member of the First Faction who killed Glazhael at the Tomb of Diderius.
@@ -34,7 +34,7 @@ related: []
 - **Strength of Evidence**: Directly stated by Glazhael, though no direct scenes or interactions with Stroud are recorded.
 
 ## Connections to Existing Wiki
-- **Existing Pages**: [[first-faction]], [[kragota-threeteeth]], [[intelligence-networks]], [[locations]]
+- **Existing Pages**: [[the-first-factions-identity-2026-06-06-042002]], [[kragota-threeteeth]], [[intelligence-networks]], [[danivarrs-house]]
 - **Knowledge Strengthened**: Knowledge about the First Faction and the Tomb of Diderius.
 - **Knowledge Extended**: Adds detail to the relationship between Glazhael and Stroud.
 
@@ -46,3 +46,8 @@ related: []
 - **Emphasize**: The role of Glazhael and the Tomb of Diderius in the narrative.
 - **Questions**: Should additional sources be consulted to verify Stroud's existence and role within the First Faction?
 - **Open Question**: Is there any other information about Stroud that could be added to the wiki?
+
+## Related
+
+- [[tug]]
+- [[thuul]]

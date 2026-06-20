@@ -2,7 +2,7 @@
 type: concept
 title: War of the Dragon
 created: 2024-05-22
-updated: 2026-05-19
+updated: 2026-06-07
 tags: ["war", "history", "dragon", "historical-event", "conflict"]
 related: ["malfire", "emerald-enclave", "delaan-winterhound", "milo-goodbarrel", "order-of-the-gauntlet"]
 sources: ["malfire.md", "milo_goodbarrel.md"]

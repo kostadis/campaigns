@@ -11,4 +11,5 @@ sources: ["duke_zalto.md"]
 The Vonindod is a critical artifact associated with Duke Zalto's ambitions to dominate all giant kinds. It is a central element in his quest for power and control, symbolizing his ultimate goal of ruling over all giants and eliminating threats to his dominion.
 
 ## Related Pages
-- [[dungeon-ironslag]]
+- [[the-vonindod-2026-06-06-132843]]
+- [[ironslag]]

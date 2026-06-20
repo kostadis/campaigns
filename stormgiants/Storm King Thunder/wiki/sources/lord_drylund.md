@@ -81,3 +81,19 @@ related: []
 ### Connections to Existing Wiki
 - **Existing Pages:** None directly related to the entities and concepts mentioned.
 - **Knowledge Strengthened/Challenged/Ex
+
+## Related
+
+- [[talni_barcoba]]
+- [[the_foreman]]
+- [[methrammar_aerasum]]
+- [[ragnar_redtooth]]
+- [[lord_hubbard]]
+- [[sir_cedric_hollowcrest]]
+- [[thane_kayalithca]]
+- [[tapouach]]
+- [[silas_carras]]
+- [[nyalah_uuseff]]
+- [[taern_thunderspell_hornblade]]
+- [[thane_braxow]]
+- [[lord_khaspere_drylund]]

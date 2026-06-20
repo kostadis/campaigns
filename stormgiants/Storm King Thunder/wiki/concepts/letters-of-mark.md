@@ -9,3 +9,7 @@ sources: ["ghelryn_foehammer.md"]
 ---
 # Letters of Mark
 Official documents issued by Citadel Felbar for rewards or recognition. Ghelryn Foehammer issues such letters to the party, recognizing their bravery despite tactical imperfections.
+
+## Related
+
+- [[reward-system]]

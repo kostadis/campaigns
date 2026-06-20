@@ -1,18 +1,33 @@
 ---
 type: entity
-title: Neverwinter Consortium
-created: 2025-05-22
-updated: 2026-05-27
-tags: [organization, economy, front-group, kraken-society-proxy, employer-proxy-operation]
-related: ["kraken-society", "mountain-s-toe-gold-mine", "employer-proxy-operation", "vukradin", "aletra-satora", "azam"]
-sources: ["don_jon_raskin.md", "npcs/don_jon_raskin.md"]
+title: Neverwinter Mining Consortium
+created: 2026-06-15
+updated: 2026-06-08
+tags: ["organization", "corporate", "mining", "exploitation", "employer-proxy-operation", "economy", "front-group", "kraken-society-proxy"]
+related: ["falcon-the-hunter", "mountain-toe-gold-mine", "employer-proxy-operation", "iymrith", "kraken-society", "vukradin", "aletra-satora", "azam", "house-meliame", "house-margaster"]
+sources: ["npcs/falcon_the_hunter.md", "don_jon_raskin.md", "npcs/don_jon_raskin.md"]
 ---
-# Neverwinter Consortium
+# Neverwinter Mining Consortium
 
-The [[neverwinter-consortium]] is a corporate front organization operating under the guise of a legitimate mining and resource development syndicate based in Neverwinter. In reality, it functions as a covert operational arm of the [[kraken-society]], deploying unaware agents to manage sensitive sites under the cover of mundane commerce. It represents the institutionalization of the [[employer-proxy-operation]] model — not a cabal of villains, but a bureaucracy of silence where the most dangerous agents are those who do not know they are being used.
+The **Neverwinter Mining Consortium** is a corporate entity engaged in mineral extraction across the Sword Coast, maintaining a significant presence and stake in the [[mountain-toe-gold-mine]]. While it presents itself as a legitimate resource development syndicate based in Neverwinter, it functions as a sophisticated front for the [[kraken-society]]. 
 
-The Consortium employs various overseers and manages industrial interests, including the [[mountain-s-toe-gold-mine]]. Its most documented operation to date involves the Mountain’s Toe Gold Mine, where it installed Don-Jon Raskin as overseer and facilitated the wererat cohabitation agreement. This demonstrated a strategic shift: from direct control to indirect influence. The mine’s success under Raskin’s leadership suggests the Consortium is experimenting with non-violent, socially engineered control mechanisms — a departure from the Kraken Society’s traditional reliance on fear, sabotage, and assassination.
+The organization represents the institutionalization of the [[employer-proxy-operation]] model. Rather than utilizing direct coercion or fear—the traditional hallmarks of the Kraken Society—the Consortium employs a strategy of "socially engineered control." By operating through layers of intermediaries, contractors, and unsuspecting agents, it masks its true motives while achieving its goals through indirect influence.
 
-Agents like Raskin are deliberately chosen not for their expertise, but for their social adeptness, professional inexperience, and emotional vulnerability. These traits enable them to de-escalate tension, build trust, and maintain operational stability without drawing suspicion. Their ignorance of the Consortium’s true agenda renders them ideal proxies: they are not complicit, and thus cannot be coerced or compromised through traditional means.
+## Operations and Strategy
 
-Intelligence suggests that at least one member of the consortium maintains ties to the [[kraken-society]], and this connection implies that the consortium's economic activities may be leveraged to further the secretive organization's goals, though such links are not yet widely known outside of specific perceptive individuals like [[vukradin]]. The Consortium’s internal structure is opaque. No known leadership has been identified. Its funding, logistics, and communication channels remain hidden. It is likely that its true operators are embedded within other known Kraken Society cells — possibly linked to the same network that employs [[aletra-satora]] and [[azam]].
+The Consortium's primary methodology involves the use of proxies who are often unaware of the organization's ultimate agenda. These individuals are selected for their specific utility rather than their loyalty to the cause:
+
+*   **Socially Adept Overseers:** Individuals like [[don-jon-raskin]] are employed as overseers because their social competence and emotional vulnerability allow them to de-escalate tension and maintain stability without drawing suspicion. Their lack of knowledge regarding the Consortium's true goals makes them ideal, non-complicit proxies.
+*   **Adventurous Proxies:** The Consortium utilizes adventurers like [[falcon-the-hunter]] as scouts, consultants, and risk-takers. These individuals are offered incentives—such as discounted shares in profitable ventures—to perform dangerous tasks like identifying threats and securing access routes.
+
+## Key Assets and Intelligence
+
+The **Mountain's Toe Gold Mine** serves as a primary site for the Consortium’s experimentation with non-violent control mechanisms. The successful management of the mine under Raskin’s leadership suggests a shift toward more subtle methods of influence. 
+
+However, the Consortium's activities are not without risk or complication. Evidence of sabotage, such as the poisoning of the mine's waters, suggests potential friction with rival interests, possibly linked to [[house-meliame]] or [[house-margaster]].
+
+## Connections and Structure
+
+The internal structure of the Neverwinter Mining Consortium is opaque, with no known leadership or clear communication channels. It is believed that its true operators are embedded within other known Kraken Society cells, potentially linked to the same networks involving [[azam]], [[iymrith]], and [[aletra-satora]]. While its ties to the [[kraken-society]] are not widely known, they have been identified by perceptive individuals such as [[vukradin]]. 
+
+The organization's existence highlights how the adventuring economy can be co-opted by institutional interests, turning heroes into expendable assets in a larger, hidden game of power. Despite its operational sophistication, the Consortium remains an under-documented entity in public records, lacking a formal public profile or corporate disclosure—its true nature known only to those embedded within or investigating the deeper layers of the Kraken Society’s influence.

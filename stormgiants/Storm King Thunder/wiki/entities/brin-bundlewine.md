@@ -4,7 +4,7 @@ title: Brin Bundlewine
 created: 2025-05-22
 updated: 2026-05-27
 tags: [villager, laborer, devotee, npc, phandalin, zealot]
-related: [valphine, giles-slipper-shine, temple-of-lathanders-searing-pain-of-justice, lathanderian-practice-valphine, unorthodox-lathanderite-interpretation, ritual-self-flagellation-as-devotion, holy-disfigurement, labor-as-devotion, tresendar-manor]
+related: ["valphine", "giles-slipper-shine", "temple-of-lathanders-searing-pain-of-justice", "lathanderian-practice-valphine", "theology-of-searing-pain", "ritual-self-flagellation-as-devotion", "holy-disfigurement", "labor-as-devotion", "tresendar-manor"]
 sources: ["brin_bundlewine.md", "npcs/brin_bundlewine.md"]
 ---
 # Brin Bundlewine
@@ -17,7 +17,7 @@ His devotion is not the product of manipulation, but of ecstatic self-surrender.
 Brin is an aspiring chapel builder characterized by an intense, almost ecstatic religious zeal. He bears heavy sunburns and scars — physical evidence of his devotion to the "purifying pain of the sun." He demonstrates a "beatific radiance" and a gleeful, uncritical acceptance of extreme religious phenomena, including ritual blinding and the public display of severed heads. His skin, marked by deliberate burns and self-inflicted wounds, is regarded by him as [[holy-disfigurement]] — sacred badges of divine favor.
 
 ## Religious Devotion
-Brin is a central figure in the practical application of [[lathanderian-practice-valphine]]. His worship is grounded in the [[unorthodox-lathanderite-interpretation]] that suffering is the highest form of devotion. Key practices include:
+Brin is a central figure in the practical application of [[lathanderian-practice-valphine]]. His worship is grounded in the [[theology-of-searing-pain]] that suffering is the highest form of devotion. Key practices include:
 - **Ritual self-flagellation:** Used as a method of spiritual discipline and purification.
 - **Ritual burning:** Deliberate exposure to heat and flame to emulate the sun’s purifying wrath.
 - **Theology of Searing Pain:** A belief that physical suffering, especially solar-induced pain, is the truest path to divine communion.
@@ -31,3 +31,7 @@ Brin is currently managing the renovation of [[tresendar-manor]] into the [[temp
 - **[[giles-slipper-shine]]:** A close associate and fellow construction worker/religious enthusiast; they lead public rituals and fundraising activities together.
 
 Brin’s transformation from laborer to zealot embodies the core tenet of his faith: that holiness is forged not in comfort, but in fire.
+
+## Related
+
+- [[4-npcs--15-brin_bundlewine--1tfkaba]]

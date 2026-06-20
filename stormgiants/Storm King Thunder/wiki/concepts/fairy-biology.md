@@ -14,3 +14,7 @@ Imber's dismissive comment about fairy reproduction, citing a great sage's work.
 - Imber's dismissal of fairy reproduction
 - Cited a great sage's work to support his views
 - Reflects his conventional views on fairy biology
+
+## Related
+
+- [[hybridization-experiments]]

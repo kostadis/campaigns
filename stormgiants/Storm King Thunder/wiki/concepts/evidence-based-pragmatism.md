@@ -4,7 +4,7 @@ title: Evidence-Based Pragmatism
 created: 2025-05-22
 updated: 2026-05-27
 tags: [methodology, science, gnomengarde, epistemology, scientific-rationalism, decision-making, ethics]
-related: ["dabbledob", "fibblestib", "gnomengarde", "anti-interventionism-druidic", "truth-constraint-mechanism", "unregulated-invention", "innocent-as-test-subject"]
+related: ["dabbledob", "fibblestib", "gnomengarde", "emerald-enclave", "divine-oracle", "unregulated-invention", "innocent-as-test-subject"]
 sources: ["dabbledob.md", "npcs/dabbledob.md", "npcs/facktore.md", "4-npcs--9-dabbledob--136g51q.md"]
 ---
 # Evidence-Based Pragmatism
@@ -19,4 +19,8 @@ However, evidence-based pragmatism does not guarantee ethical outcomes. Facktore
 
 This concept must be tempered with ethical vigilance. Pragmatism without conscience is not wisdom — it is a tool for exploitation. The contrast between Dabbledob and Facktore reveals that the difference between responsible science and predatory experimentation lies not in method, but in moral boundaries. Evidence-based pragmatism, therefore, must be paired with ethical frameworks to prevent harm — especially when applied to [[unregulated-invention]] or [[innocent-as-test-subject]] scenarios.
 
-This approach parallels the [[truth-constraint-mechanism]]: both operate within self-imposed limits to preserve integrity, though one is divine and the other human. In narrative design, it provides a model for rational character agency — where decisions are driven by method, not destiny, trauma, or magic. It is a quiet, persistent force for accountability in worlds saturated with the unproven.
+This approach parallels the [[divine-oracle]]: both operate within self-imposed limits to preserve integrity, though one is divine and the other human. In narrative design, it provides a model for rational character agency — where decisions are driven by method, not destiny, trauma, or magic. It is a quiet, persistent force for accountability in worlds saturated with the unproven.
+
+## Related
+
+- [[reluctant-open-mindedness]]

@@ -1,8 +1,8 @@
 ---
 type: source
 title: "Source: bressik.md"
-created: 2026-05-13
-updated: 2026-05-13
+created: 2026-06-05
+updated: 2026-06-05
 sources: ["bressik.md"]
 tags: []
 related: []
@@ -10,39 +10,35 @@ related: []
 
 # Source: bressik.md
 
-### Key Entities
-- **Bressik (Aliases: Brazzik, Brezzik, Loresmith)**: Scholar and researcher for the 3HPP; former sage at Candlekeep; crew member aboard the Great Airship (Dragon's Breath); self-described "loresmith."
-- **Klamath (Red Dragon necromancer)**: Former contractual master of Bressik, now freed.
-- **Delsephine**: Former employer via Klamath contract; brokered Bressik's freedom.
-- **Unla Kee**: Broke the deal to purchase Bressik's living contract.
-- **The Cult of the Dragon (Severin's faction)**: Ideologically opposed to Bressik and Delsephine.
+## Key Entities
 
-### Key Concepts
-- **Cult of the Dragon (Dracolich faction)**: Original cult Bressik was affiliated with, now opposed by Bressik.
-- **Dracolich ideology**: Vision of a unified undead draconic race, subverted by Severin and Tiamat.
-- **Sky Pony tribe**: Spirit mound Bressik researched.
-- **One Stone**: Spirit mound Bressik researched.
-- **Morgur's Mound**: Spirit mound Bressik researched.
-- **Grandfather Tree**: Location Bressik researched.
+| Name | Type | Role | Status |
+| :--- | :--- | :--- | :--- |
+| **Bressik** (Brazzik, Brezzik) | NPC / Scholar | **Central**. A "loresmith" and information broker. Provides critical lore for the party while harboring secret grievances. | New Entity |
+| **Orsik** | NPC | **Central**. Party member/leader; Bressik's primary point of friction due to Orsik's temper and perceived stinginess. | Existing (implied) |
+| **Vardis** | NPC | **Central**. Party member; shares the "underpayment" grievance with Orsek in Bressik's eyes. | Existing |
+| **Thistle** | NPC | **Central**. Social analyst/partner to Thuul; has a warm, intellectual rapport with Bressik. | Existing |
+| **Delsephine** | NPC | **Central**. Owner of the *Dragon's Breath*; former employer who facilitated Bressik's freedom. | Existing |
+| **Unla Kee** | NPC | **Peripheral**. The broker who structured Bressik’s contract buyout. | Existing |
+| **Klamath** | Entity | **Peripheral**. A Red Dragon necromancer; Bressik's former master whose contract was purchased. | New (Entity) |
+| **Klauth** | Entity | **Peripheral**. Ancient red dragon who gifted the *Dragon's Breath*. | New (Entity) |
+| **Severin** | NPC/Faction | **Peripheral**. Leader of a specific faction within the Cult of the Dragon. | Existing (as part of Cult) |
+| **Thuul** | Entity | **Peripheral**. A drake; Thistle’s partner. | Existing |
 
-### Main Arguments & Findings
-- **Core Claims**: Bressik is a hired scholar providing accurate information on various sites and spirits. He is free from his previous contract and works voluntarily with the party.
-- **Evidence**: Detailed briefings on Beorunna's Well, One Stone, and Morgur's Mound. Information on the Sky Pony tribe's spirit mound and the Grandfather Tree.
-- **Strength of Evidence**: Strong, corroborated by multiple sessions and consistent reports.
+## Key Concepts
 
-### Connections to Existing Wiki
-- **[[candlekeep]]**: Bressik's time as a sage at Candlekeep.
-- **[[dragon-lair]]**: Bressik's involvement with the Great Airship (Dragon's Breath).
-- **[[cult-of-the-dragon]]**: Opposition to the original Cult of the Dragon.
-- **[[dracolich-ideology]]**: Bressik's stance against the subversion of the Dracolich vision.
-- **[[spirit-mounds]]**: Research on various spirit mounds.
+| Name | Definition | Significance | Status |
+| :--- | :--- | :--- | :--- |
+| **Loresmith** | An information broker who specializes in academic and historical data. | Defines Bressik's professional identity and his role as a "paid" guide. | New Concept |
+| **Dracolich Ideology** | The belief in a unified, undead draconic race (distinct from Severin’s Tiamat-aligned coup). | Highlights the internal schism within the Cult of the Dragon. | Existing (Refined) |
+| **Contractual Freedom** | The legal/magical transition from being "owned" by a dragon to being an independent agent. | Marks Bressik's primary character arc and his shift in motivation. | New Concept |
+| **Information as Leverage** | Holding back specific, high-value secrets (e.g., the treasure map) as a form of retaliation for poor treatment. | Creates a "ticking clock" or potential conflict point for the party. | New Concept |
 
-### Contradictions & Tensions
-- **Internal Tension**: Bressik's reluctance to confront Orsik and Vardis directly, preferring to extract future payment for withheld information.
-- **Contradiction**: Bressik's apparent acceptance of his current status while harboring resentment towards Orsik and Vardis.
+## Main Arguments & Findings
+*   **Bressik's Dual Nature:** Bressik is not a simple ally; he is a professional who views his relationship with the party as transactional. While he provides high-quality intelligence, he actively "hoards" information (the treasure map, details on his girlfriend/Uncle Joon) to use as leverage against Orsik and Vardis for their perceived lack of generosity.
+*   **The Cult Schism:** The text establishes a clear distinction between the "original" Dracolich vision (unity through undead dragonhood) and Severin’s faction (Tiamat-centric). Bressik is an academic defender of the former.
+*   **Contractual Mechanics:** The document details a complex legal/magical tra
 
-### Recommendations
-- **Create Pages**: [[bressik]], [[lore-smith]], [[dragon-lair]], [[grandfather-tree]], [[spirit-mounds]], [[candlekeep]], [[cult-of-the-dragon]], [[dracolich-ideology]].
-- **Emphasize**: Bressik's role as a hired scholar, his past affiliation with the Cult of the Dragon, and his current status as a free individual.
-- **De-emphasize**: Specific details about his past cult involvement unless they significantly impact his current actions.
-- **Open Question**: Investigate further the nature of his relationship with Thistle and the implications of his withholding information about his girlfriend and Uncle Joon.
+## Related
+
+- [[brimskarda]]

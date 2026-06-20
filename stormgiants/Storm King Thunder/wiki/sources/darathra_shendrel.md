@@ -1,8 +1,8 @@
 ---
 type: source
 title: "Source: darathra_shendrel.md"
-created: 2026-05-13
-updated: 2026-05-13
+created: 2026-06-05
+updated: 2026-06-05
 sources: ["darathra_shendrel.md"]
 tags: []
 related: []
@@ -10,39 +10,34 @@ related: []
 
 # Source: darathra_shendrel.md
 
-### Key Entities
+## Key Entities
 
-#### People
-- **Darathra Shendrel**: Lord Protector of Triboar, covert Harper Agent, affiliated with the Harpers (type: central, role: central, likely exists in wiki)
-- **Krowen Valharrow**: Superior/colleague through Harper networks (type: peripheral, role: peripheral, likely exists in wiki)
-- **Dral Thelev**: Recognized by the platinum brooch, conduit for information (type: peripheral, role: peripheral, likely exists in wiki)
-- **Orsic (elder dwarf)**: Father of Orsik, initially skeptical of his character (type: peripheral, role: peripheral, likely exists in wiki)
-- **Orsik (party member)**: Distrustful of Darathra, relationship destroyed (type: peripheral, role: peripheral, likely exists in wiki)
-- **Vardis (party member)**: Concerned about Orsik's association with a Corellon cleric (type: peripheral, role: peripheral, likely exists in wiki)
-- **Thistle (party member)**: Tense relationship, direct accusation and intervention (type: peripheral, role: peripheral, likely exists in wiki)
-- **Unla Kee (party member)**: No noted tension (type: peripheral, role: peripheral, likely exists in wiki)
-- **Bob Saget**: Escaped to the Astral Plane, serious ongoing threat (type: peripheral, role: peripheral, likely exists in wiki)
-- **Tolmara**: Held in custody on party's evidence (type: peripheral, role: peripheral, likely exists in wiki)
-- **Urgala, Narth Tezerin, Othovir**: Local leaders turned to for recovery coordination (type: peripheral, role: peripheral, likely exists in wiki)
+| Name | Type | Role | Status |
+| :--- | :--- | :--- | :--- |
+| **Darathra Shendrel** | Person (NPC) | **Central**: Lord Protector of Triboar and covert Harper Agent. A politically shrewd, pragmatic leader who is currently hostile toward the party. | New Entity |
+| **Cindrell / Cindell Trueshot** | Person (NPC) | **Peripheral**: Political rival to Darathra; victim of a "political burying" via contract. | New Entity |
+| **Hyuth Kolstaag** | Person (NPC) | **Peripheral**: Adversarial but manageable figure; target of Darathra's leverage. | New Entity |
+| **Krowen Valharrow** | Person (NPC) | **Peripheral**: Higher-up in the Harpers; source of professional fallout for Darathra due to the party's actions. | New Entity |
+| **Dral Thelev** | Person (NPC) | **Peripheral**: One-eyed half-orc proprietor at Danivarr's House; a Harper contact and point of transition for the party. | New Entity |
+| **Orsik (Elder Dwarf)** | Person (NPC) | **Peripheral**: Father of the party's Orsik; questioned by Darathra regarding his parenting/character. | New Entity |
+| **Orsik (Party Member)** | Person (NPC) | **Central**: Party member whose actions at the theater caused a permanent rift with Darathra. | Existing |
+| **Vardis** | Person (NPC) | **Peripheral**: Party member; noted by Darathra for his past association with Orsik. | Existing |
+| **Thistle** | Person (NPC) | **Central**: Party member; had a tense, confrontational relationship with Darathra regarding battlefield tactics. | Existing |
+| **Unla Kee** | Person (NPC) | **Peripheral**: Party member; observed by Darathra during the theater infiltration. | Existing |
+| **Bob Saget** | Entity/Object | **Central**: A "threat" sent to the Astral Plane; his escape is a major point of contention for Darathra. | Existing |
+| **Tolmara** | Person (NPC) | **Peripheral**: Prisoner held by Darathra's authority following the Mirak affair. | New Entity |
+| **Harpers** | Organization | **Central**: The clandestine organization to which Darathra belongs. | Existing |
 
-#### Organizations
-- **Harpers**: Affiliated with Darathra, vouched for the party (type: central, role: central, likely exists in wiki)
-- **Lord's Alliance**: Potential rival faction (type: peripheral, role: peripheral, likely exists in wiki)
+## Key Concepts
 
-#### Products/Datasets
-- **Platinum brooch**: Identified by Dral Thelev (type: peripheral, role: peripheral, likely exists in wiki)
-- **Spell scroll gifts**: Pre-prepared for the party (type: peripheral, role: peripheral, likely exists in wiki)
+| Name | Definition | Significance | Status |
+| :--- | :--- | :--- | :--- |
+| **Political Burying** | Using legal/contractual evidence to destroy a rival's standing. | Explains Darathra’s strategy regarding Cindrell and Hyuth. | New Concept |
+| **Harper Plausible Deniability** | A doctrine of operational secrecy where agents disavow actions or presence when necessary. | Explains why Darathra "never saw" the theater incident despite being there. | Existing (Related) |
+| **Debt Clearing** | A formal, transactional resolution of favors/obligations. | Used as a mechanism to manage relationships with the party before and after missions. | New Concept |
+| **Waterdeep Magic** | The expectation of high-level competence or resources from a Waterdeep native. | Highlights Darathra's internal pressure and status as an outsider in Triboar. | New Concept |
+| **Contractual Leverage** | Using signed agreements as a tool for coercion rather than just
 
-#### Tools
-- **Hand gesture**: Used to reveal Harper affiliation (type: peripheral, role: peripheral, likely exists in wiki)
+## Related
 
-### Key Concepts
-
-#### Theories
-- **Political Maneuvering**: Darathra's strategy to maintain her political authority and stability in Triboar (type: central, role: central, matters: yes, likely exists in wiki)
-- **Intelligence Gathering**: Her efforts to gather information on the giant incursion and coordinate Harper interests (type: central, role: central, matters: yes, likely exists in wiki)
-- **Operational Secrecy**: Harper-style plausible deniability when things go wrong (type: central, role: central, matters: yes, likely exists in wiki)
-
-#### Methods
-- **Direct Confrontation**: Her confrontational approach towards Thistle and Orsik (type: central, role: central, matters: yes, likely exists in wiki)
-- **Leverage and Pressure**: Using the Cindrell contract to politically bury her rival and warn Hyuth (type: central, role: central, matters: yes, likely 
+- [[daratha_shendrel_delratha]]

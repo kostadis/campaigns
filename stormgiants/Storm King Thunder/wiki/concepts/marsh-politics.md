@@ -50,3 +50,7 @@ Each faction and individual's strategies and alliances contribute to the overall
 - **klauth.md**
 
 ---
+
+## Related
+
+- [[political-landscape]]

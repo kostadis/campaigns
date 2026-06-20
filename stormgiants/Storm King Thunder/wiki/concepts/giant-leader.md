@@ -9,3 +9,13 @@ sources: ["klauth.md"]
 ---
 # Giant Leader
 A powerful giant who is targeted by Klauth's agents. These leaders are killed by the party as part of Klauth's request.
+
+## Related
+
+- [[giant-reward-aborted]]
+- [[giant-reward-system]]
+- [[giant-reward-withheld]]
+- [[giant-war]]
+- [[giant-reward-offered]]
+- [[giant-reward-claimed]]
+- [[giant-reward]]

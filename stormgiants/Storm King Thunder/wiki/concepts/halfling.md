@@ -18,4 +18,4 @@ The defining trait of the race is their small physical stature.
 - [[cap-n-squint]]: A halfling captain and merchant.
 
 ## Related Pages
-- [[dungeon-ironslag]]
+- [[ironslag]]

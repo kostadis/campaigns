@@ -33,15 +33,23 @@ related: []
 - **Strength of Evidence**: Moderate. The evidence is based on Slayermighty's actions and the outcome of the encounter, which provides insight into his character and motivations.
 
 ## Connections to Existing Wiki
-- **[[giant-kind]]**: Slayermighty's claim to rule over Giant-kind connects him to the broader narrative of Giant-kind.
+- **[[thane-braxow]]**: Slayermighty's claim to rule over Giant-kind connects him to the broader narrative of Giant-kind.
 - **[[cursed-cave]]**: The location where Slayermighty was found aligns with the lore of the cursed cave.
-- **[[alchemist's-fire]]**, **[[potion-of-healing]]**, **[[necklace-of-twenty-copper-charms]]**: These items are loot from Slayermighty and can be linked to existing pages on treasure and loot.
+- **[[alchemist's-fire]]**, **[[charm-of-restoration-mechanics-2026-06-06-002530]]**, **[[necklace-of-twenty-copper-charms]]**: These items are loot from Slayermighty and can be linked to existing pages on treasure and loot.
 
 ## Contradictions & Tensions
 - **Internal Tension**: Slayermighty's ambition to rule all Giant-kind contradicts his inability to execute even basic combat maneuvers, suggesting a disconnect between his aspirations and capabilities.
 
 ## Recommendations
-- **Create Pages**: [[slayermighty]], [[alchemist's-fire]], [[potion-of-healing]], [[necklace-of-twenty-copper-charms]]
+- **Create Pages**: [[slayermighty]], [[alchemist's-fire]], [[charm-of-restoration-mechanics-2026-06-06-002530]], [[necklace-of-twenty-copper-charms]]
 - **Emphasize**: Slayermighty's role as a central antagonist figure in the narrative.
 - **De-emphasize**: Slayermighty's physical appearance and size, as these details are peripheral to the story.
 - **Open Question**: Investigate Slayermighty's backstory and how he came to be a self-proclaimed ruler of Giant-kind.
+
+## Related
+
+- [[mechanics]]
+- [[the_vampire_unnamed]]
+- [[uthor]]
+- [[tolmarra]]
+- [[taern_hornblade]]

@@ -4,7 +4,7 @@ title: Deception as ideological betrayal
 created: 2026-06-15
 updated: 2026-06-15
 tags: [morality, mentorship, trust, information-asymmetry]
-related: [information-asymmetry-npc-encounters, soma, adabra-gwynn, true-believer-verification]
+related: ["information-asymmetry-npc-encounters", "adabra-gwynn", "true-believer-verification"]
 sources: ["adabra.md"]
 ---
 # Deception as ideological betrayal
@@ -16,3 +16,7 @@ Soma allowed Adabra Gwynn to believe they shared her anti-interventionist worldv
 This is not deception in the traditional sense — there was no lie. But it was a betrayal of trust, rooted in the assumption of ideological kinship. It mirrors [[information-asymmetry-npc-encounters]], but applied to mentorship: the most dangerous gaps in knowledge are not about facts, but about *intent*.
 
 This dynamic transforms ideological conflict into personal trauma. Soma’s unease is not about politics — it is about the erosion of meaning in a relationship built on mutual illusion.
+
+## Related
+
+- [[philosophical-deception-tacit-complicity]]

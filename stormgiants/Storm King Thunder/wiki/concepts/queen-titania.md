@@ -12,6 +12,11 @@ Seelie Queen, Halisa's punisher for speaking honestly about her attire. Halisa w
 
 ## Connections to Existing Wiki
 - [[halisa]]
-- [[tree-protection-schedule-d]]
-- [[seelie-court]]
+- [[the-party]]
+- [[fey-court-structure]]
 - [[dryads]]
+
+## Related
+
+- [[sprite-emissary]]
+- [[taunt]]

@@ -46,6 +46,7 @@ A divine serpentine spirit bound to or associated with a tribal totem, The Coatl
 - No arc score events recorded in source notes
 
 ## Related Concepts
-- [[Tribal Corruption]]
-- [[Divine Spirits]]
-- [[Charm of Restoration]]
+- [[coatl]]
+- [[tribal-corruption]]
+- [[force-grey-2026-06-06-063448]]
+- [[refine-offer-of-ignorance-vs-transactional-allianc-2026-06-06-042019]]

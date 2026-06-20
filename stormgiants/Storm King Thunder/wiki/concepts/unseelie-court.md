@@ -10,3 +10,7 @@ sources: ["deciduous_dryad.md"]
 # Unseelie Court
 - **Faction:** A group of supernatural beings in the story
 - **Members:** The Deciduous Dryad and Coniferous Dryad
+
+## Related
+
+- [[deciduous-dryad]]

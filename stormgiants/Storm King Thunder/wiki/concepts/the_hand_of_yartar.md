@@ -13,4 +13,5 @@ sources: ["elicia_kal_kallaphan.md"]
 - **Examples:** Elicia "Kal" Kallaphan is described as an operative for The Hand of Yartar.
 
 ## Related Pages
-- [[Elicia "Kal" Kallaphan]]
+- [[operative]]
+- [[elicia_kal_kallaphan]]

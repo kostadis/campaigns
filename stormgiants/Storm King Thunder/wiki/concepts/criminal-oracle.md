@@ -4,7 +4,7 @@ title: Criminal Oracle
 created: 2026-06-15
 updated: 2026-06-15
 tags: [unseen-authority, institutional-control, power-structure]
-related: [kp, layered-command-structure, divine-oracle, weaponization-of-personal-debt]
+related: ["kp", "organizational-secrecy-via-bosses", "divine-oracle", "weaponization-of-personal-debt"]
 sources: ["npcs/aletra.md"]
 ---
 # Criminal Oracle

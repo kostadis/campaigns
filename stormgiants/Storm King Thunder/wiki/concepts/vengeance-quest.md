@@ -14,3 +14,7 @@ A Vengeance Quest is a task given by a haunting spirit or oracle to a party, typ
 - **Entity:** The haunting spirit or oracle issuing the quest.
 - **Action:** The specific action required to complete the quest.
 - **Unfinished Business:** The reason for the quest, often stemming from the entity's past.
+
+## Related
+
+- [[oracle-prophecy]]

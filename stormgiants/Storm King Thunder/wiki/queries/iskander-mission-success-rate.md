@@ -9,3 +9,7 @@ sources: ["iskander.md"]
 ---
 # Iskander Mission Success Rate
 What was the success rate of Iskander's mission within the Cult of the Dragon and how did this impact the raid on Xonathal's tower?
+
+## Related
+
+- [[iskander-mission-success]]

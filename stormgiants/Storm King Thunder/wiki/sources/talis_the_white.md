@@ -46,8 +46,8 @@ related: []
   - [[glazhael]] — Glazhael is a key product that Talis is associated with.
   - [[white-wyrmspeaker]] — This title is relevant to Talis’s role.
   - [[dracolich]] — This product is mentioned in relation to Talis.
-  - [[undead-assets]] — This tool is mentioned in relation to Talis’s actions.
-  - [[assassination-plots]] — This technique is mentioned in relation to Talis’s involvement.
+  - [[boney]] — This tool is mentioned in relation to Talis’s actions.
+  - [[assassination-attempts]] — This technique is mentioned in relation to Talis’s involvement.
 
 ### Contradictions & Tensions
 - **Internal Tension**:
@@ -55,13 +55,17 @@ related: []
 
 ### Recommendations
 - **Pages to Create or Update**:
-  - [[talis-the-white]] — To consolidate the information about Talis.
+  - [[talis_the_white]] — To consolidate the information about Talis.
   - [[cult-of-the-dragon]] — To include Talis’s role within the cult.
   - [[glazhael]] — To incorporate Talis’s connection to Glazhael.
   - [[white-wyrmspeaker]] — To provide more details on the role.
   - [[dracolich]] — To explain the transformation process.
-  - [[undead-assets]] — To discuss their usage in the story.
-  - [[assassination-plots]] — To elaborate on the techniques and motivations.
+  - [[boney]] — To discuss their usage in the story.
+  - [[assassination-attempts]] — To elaborate on the techniques and motivations.
   
 - **Emphasis**:
   - Emphasize Talis’s strategic importance within the Cult of the Dragon and her complex relationship with Glaz
+
+## Related
+
+- [[the_wight_elquen]]

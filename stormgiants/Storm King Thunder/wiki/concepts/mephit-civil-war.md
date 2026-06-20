@@ -29,3 +29,7 @@ The Mephit Civil War is an internal conflict among the mud mephits. It involves 
 ---
 
 Note: The `updated` field in the YAML front matter has been set to `2026-05-13` to reflect the most recent update date provided in the sources.
+
+## Related
+
+- [[mud-mephits]]

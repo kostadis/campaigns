@@ -4,7 +4,7 @@ title: Dwolin the Grout
 created: 2025-05-22
 updated: 2026-05-27
 tags: [dwarf, foreman, npc, miner, superstitious, skilled, mine-foreman, superstition, skilled-worker]
-related: ["horia-stonetallow", "ritualistic-mining", "earthstone-gem", "sentient-veins", "ritualized-resource-extraction", "mountain-s-toe-gold-mine", "stonetallow-clan", "superstition-as-operational-hindrance"]
+related: ["horia-stonetallow", "ritualistic-mining", "earthstone-gem", "sentient-gold-veins", "ritualized-resource-extraction", "mountain-toe-gold-mine", "stonetallow-clan", "superstition-as-operational-hindrance"]
 sources: ["dwolin_the_grout.md", "npcs/dwolin_the_grout.md", "npcs/horia_stonetallow.md"]
 ---
 # Dwolin the Grout
@@ -25,8 +25,14 @@ Horia defends him with weary affection, recognizing that his superstition is not
 
 ## Thematic and Narrative Role
 
-Dwolin’s existence challenges the assumption that rationality and competence are synonymous. He is a quiet counterpoint to don-jon-raskin: where Raskin leads through charm and ignorance, Dwolin leads through craft and conviction. He embodies [[ritualized-resource-extraction]] and [[sentient-veins]], serving as a living critique of mechanistic resource extraction models.
+Dwolin’s existence challenges the assumption that rationality and competence are synonymous. He is a quiet counterpoint to don-jon-raskin: where Raskin leads through charm and ignorance, Dwolin leads through craft and conviction. He embodies [[ritualized-resource-extraction]] and [[sentient-gold-veins]], serving as a living critique of mechanistic resource extraction models.
 
 He represents [[skill-despite-superstition]] and exemplifies [[tolerated-eccentricity-in-labor-hierarchies]]. His role is small, but vital: he is the human face of the mine’s soul. Without him, the dwarves’ work would be mechanical. With him, it becomes sacred. His presence demonstrates that folk epistemologies endure when they work—proving that tradition, when rooted in deep practice, can be more resilient than corporate doctrine.
 
 His narrative function exemplifies [[narrative-economy]]: minimal exposition, maximal thematic weight. He is not a relic of the past, but a living testament to the enduring power of embodied knowledge.
+
+## Related
+
+- [[dwolin_the_grout]]
+- [[norbus-ironrune]]
+- [[stonetallow-clan]]

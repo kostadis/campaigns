@@ -14,3 +14,7 @@ Relevance: Central mode of transportation for Cap'n Squint.
 
 ## Examples
 - Cap'n Squint's barge: Used for traveling north on the River Surbin.
+
+## Related
+
+- [[river-surbin]]

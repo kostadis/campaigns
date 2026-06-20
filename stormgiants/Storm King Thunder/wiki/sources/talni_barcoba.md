@@ -50,10 +50,15 @@ related: []
 
 ### Recommendations
 - **Pages to Create/Update:**
-  - [[tallies-market-survey]] — To document market observations like Unla Kee's.
+  - [[the-economics-of-the-shadow-market-2026-06-06-015546]] — To document market observations like Unla Kee's.
   - [[fishyard-market]] — To provide more details about the market and its vendors.
 - **Emphasis:**
   - Emphasize the limited nature of Talni Barcoba's interaction with the party and the unknown aspects of her character.
 - **Open Questions:**
   - What are Talni Barcoba's true motivations and background?
   - Is there any truth to her claims of being a healer and selling effective remedies?
+
+## Related
+
+- [[tapouach]]
+- [[thane_braxow]]

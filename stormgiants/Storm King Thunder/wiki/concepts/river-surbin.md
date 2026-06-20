@@ -14,3 +14,7 @@ Relevance: Specifies the direction of travel for Cap'n Squint.
 
 ## Examples
 - River traveled by Cap'n Squint: North on the River Surbin toward Silverymoon.
+
+## Related
+
+- [[barge]]
