@@ -1,0 +1,205 @@
+[
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The session takes place on Mar 22nd, 2026.",
+    "source_quote": "Date: Mar 22nd, 2026",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Maerimydra",
+    "fact": "Maerimydra is a city in the Underdark currently occupied by fire giants who have made a pact with the demon lord Graz'zt.",
+    "source_quote": "A city in the Underdark currently occupied by fire giants who have made a pact with the demon lord Graz'zt",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Brandyr",
+    "fact": "Brandyr is a fire giant who was the target of the party's kidnapping plot.",
+    "source_quote": "a fire giant named Brandyr",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Brandyr sleep spell",
+    "fact": "Felkur casts a powerful sleep spell using a magical token, successfully rendering the fire giant Brandyr incapacitated.",
+    "source_quote": "Felkur casts a powerful sleep spell using a magical token, successfully rendering the fire giant Brandyr incapacitated",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Brandyr reduction",
+    "fact": "Bramgrim and Daein both cast reduction spells to shrink the giant's massive frame down to a manageable scale.",
+    "source_quote": "Bramgrim and Daein both cast reduction spells to shrink the giant's massive frame down to a manageable scale",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Brandyr containment",
+    "fact": "Akritas shoves the shrunken, unconscious giant into a portable hole equipped with a breathing apparatus.",
+    "source_quote": "Akritas shoves the shrunken, unconscious giant into a portable hole equipped with a breathing apparatus",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Cambions",
+    "fact": "The cambion guards were left bewildered by the giant's sudden disappearance.",
+    "source_quote": "Several cambion guards are left bewildered by the giant's sudden disappearance",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Graz'zt illusion",
+    "fact": "Daein creates a magical illusion mimicking the voice of the demon lord Graz'zt, expressing divine displeasure with the fire giants.",
+    "source_quote": "Daein creates a magical illusion mimicking the voice of the demon lord Graz'zt, expressing divine displeasure with the fire giants",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Cambion abandonment",
+    "fact": "The demonic guards abandon their posts to spread the news of the fire giants' fall from grace throughout the city.",
+    "source_quote": "The demonic guards abandon their posts to spread the news of the fire giants' fall from grace throughout the city",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Pipyap",
+    "fact": "Pipyap is an imp who serves as a guide and informant for the party.",
+    "source_quote": "An imp who serves as a guide and informant for the party",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Pipyap intimidation",
+    "fact": "Daein intimidates Pipyap into providing more information without demanding more food as payment.",
+    "source_quote": "Daein intimidates Pipyap into providing more information without demanding more food as payment",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Vraxen",
+    "fact": "Vraxen is an Arcanaloth with a fox-like face who serves as the enforcer of Graz'zt's contracts in Maerimydra.",
+    "source_quote": "An Arcanaloth with a fox-like face who serves as the enforcer of Graz'zt's contracts in Maerimydra",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Veperyd",
+    "fact": "Veperyd is a mutated fire giant whose skin weeps oily black smoke.",
+    "source_quote": "A mutated fire giant whose skin weeps oily black smoke",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "High Inquisitor Veris",
+    "fact": "High Inquisitor Veris is a cold and calculating mage from Mulmaster who is hunting for the 'Phantom Ghost' thief.",
+    "source_quote": "A cold and calculating mage from Mulmaster who is hunting for the 'Phantom Ghost' thief",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Felkur identity deduction",
+    "fact": "Felkur deduces through insight that Maram il Vass has set up a double cross: the Lexicon of Oaths likely contains information that could expose Felkur as the Phantom Ghost thief of Mulmaster.",
+    "source_quote": "Felkur deduces through insight that Maram il Vass has set up a double cross: the Lexicon of Oaths likely contains information that could expose Felkur as the Phantom Ghost thief of Mulmaster",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "runic key",
+    "fact": "Vraxen carries a runic key necessary to reach the upper vaults where the Lexicon of Oaths is kept.",
+    "source_quote": "Vraxen carries a runic key necessary to reach the upper vaults where the Lexicon of Oaths is kept",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Spire entry bluff",
+    "fact": "Bramgrim and Daein persuade the guards that they are traders carrying critical information for Vraxen.",
+    "source_quote": "Bramgrim and Daein persuade the guards that they are traders carrying critical information for Vraxen",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Veris interrogation attempt",
+    "fact": "High Inquisitor Veris attempts to interrogate Felkur, identifying him as a master smith with ties to Mulmaster.",
+    "source_quote": "High Inquisitor Veris attempts to interrogate Felkur, identifying him as a master smith with ties to Mulmaster",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Owlbear distraction",
+    "fact": "The party's Owlbear companion jumps onto the dining table, roaring and smashing objects to create a massive distraction.",
+    "source_quote": "The party's Owlbear companion jumps onto the dining table, roaring and smashing objects to create a massive distraction",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Key theft",
+    "fact": "Daein uses telekinetic power to snatch the runic key from the table while the hosts are distracted by the Owlbear's rampage.",
+    "source_quote": "Daein uses telekinetic power to snatch the runic key from the table while the hosts are distracted by the Owlbear's rampage",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Veris illusion",
+    "fact": "An illusion is used to mimic High Inquisitor Veris, making it seem as though the mage is conspiring with the General to defraud Vraxen.",
+    "source_quote": "An illusion is used to mimic High Inquisitor Veris, making it seem as though the mage is conspiring with the General to defraud Vraxen",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Dinner brawl",
+    "fact": "The dinner erupts into a violent three-way battle as Vraxen orders his guards to flay the giant while Veperyd retaliates with abyssal fire.",
+    "source_quote": "The dinner erupts into a violent three-way battle as Vraxen orders his guards to flay the giant while Veperyd retaliates with abyssal fire",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Pipyap disappearance",
+    "fact": "Pipyap is noticed to be missing as the party makes their escape.",
+    "source_quote": "Pipyap is noticed to be missing as the party makes their escape",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Pipyap's fate",
+    "fact": "Whether Pipyap had fled for his own safety, been taken, or slipped away for reasons of his own, no one could say.",
+    "source_quote": "Whether he had fled for his own safety, been taken, or slipped away for reasons of his own, no one could say",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Lexicon of Oaths",
+    "fact": "The Lexicon of Oaths and the teleportation device that would carry them out of Maerimydra still waited somewhere above.",
+    "source_quote": "The Lexicon of Oaths and the teleportation device that would carry them out of Maerimydra still waited somewhere above",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Six-Fingered Courtyard",
+    "fact": "The Six-Fingered Courtyard is a ritual area on a plateau in Maerimydra featuring a polished obsidian floor surrounded by ebony pillars, each emblazoned with a crimson six-fingered hand.",
+    "source_quote": "A ritual area on a plateau in Maerimydra featuring a polished obsidian floor surrounded by ebony pillars, each emblazoned with a crimson six-fingered hand",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Spire of Inevitable Reckoning",
+    "fact": "The Spire of Inevitable Reckoning is a formidable tower in Maerimydra overseen by the Arcanaloth Vraxen.",
+    "source_quote": "A formidable tower in Maerimydra overseen by the Arcanaloth Vraxen",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Mulmaster",
+    "fact": "Mulmaster is a surface city known for its powerful wizards.",
+    "source_quote": "A surface city known for its powerful wizards",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Owlbear",
+    "fact": "The party's Owlbear companion leapt onto the formal dinner table and began smashing everything in sight.",
+    "source_quote": "their owlbear companion \u2014 apparently concluding that since everyone at the table was pounding and roaring, this must simply be a pounding room \u2014 leapt onto the formal dinner table and began smashing everything in sight",
+    "quote_verified": true
+  }
+]

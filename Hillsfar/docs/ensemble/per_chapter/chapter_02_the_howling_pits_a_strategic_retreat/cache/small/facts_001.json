@@ -1,0 +1,310 @@
+[
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The session date is Dec 7th, 2025.",
+    "source_quote": "Date: Dec 7th, 2025",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "The Waydown",
+    "fact": "The Waydown is a familiar sinkhole located a half-day's journey from Hillsfar.",
+    "source_quote": "The party returned to the familiar sinkhole known as The Waydown, a half-day's journey from Hillsfar",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "The Waydown entrance",
+    "fact": "A partially built wall now surrounds the entrance to The Waydown.",
+    "source_quote": "they found a partially built wall surrounding the entrance",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Two Red Plume soldiers",
+    "fact": "Two nervous soldiers in splint armor are guarding the entrance to The Waydown.",
+    "source_quote": "guarded by two nervous soldiers in splint armor",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Vuhm Yestral",
+    "fact": "Vuhm Yestral is the commander of the Red Plumes who returned to Hillsfar.",
+    "source_quote": "Their commander, Vuhm Yestral, had returned to the city",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Red Plumes",
+    "fact": "A larger contingent of the Red Plumes accompanied Vuhm Yestral back to the city.",
+    "source_quote": "returned to the city with a larger contingent of the Red Plumes",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Owlbear companion",
+    "fact": "The party enhanced the Owlbear companion with magical gloves to make its attacks more powerful.",
+    "source_quote": "They enhanced their Owlbear companion with magical gloves that would make its attacks more powerful",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "enchanted goggles",
+    "fact": "Daein purchased a pair of enchanted goggles to see in the darkness.",
+    "source_quote": "Daein, the only member of the party without natural darkvision, finally purchased a pair of enchanted goggles",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daein",
+    "fact": "Daein is the only party member without natural darkvision.",
+    "source_quote": "Daein, the only member of the party without natural darkvision",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "descent into Underdark",
+    "fact": "The party descended a hundred-foot drop to a swift-flowing underground river.",
+    "source_quote": "they descended the hundred-foot drop to the swift-flowing underground river",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "journey to Howling Pits",
+    "fact": "The party began a two-day journey to the Howling Pits.",
+    "source_quote": "began their two-day journey to the Howling Pits",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Murssvayas",
+    "fact": "Murssvayas provided accurate directions and a map for the journey.",
+    "source_quote": "guided by Murssvayas's accurate directions and map",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Howling Pits",
+    "fact": "The party detected a faint piping sound echoing through the caves as they approached the Howling Pits.",
+    "source_quote": "As they approached the Howling Pits, they detected a faint piping sound echoing through the caves",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "fire giants",
+    "fact": "Two massive fire giants ambushed the party in a large cave within the Howling Pits.",
+    "source_quote": "the party was suddenly ambushed by two massive fire giants who leaped from behind stalactites",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "winged fire giant",
+    "fact": "One of the fire giants possessed leathery wings too small for flight.",
+    "source_quote": "one possessed leathery wings too small for flight",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "cyclopean fire giant",
+    "fact": "One of the fire giants had an extra eye.",
+    "source_quote": "while the other had an extra eye",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Felkur's spell failure",
+    "fact": "Felkur attempted to strike a giant with magic, but the attack was ineffective.",
+    "source_quote": "Felkur attempted to strike one with magic, but the attack proved remarkably ineffective",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Bramgrim",
+    "fact": "Bramgrim summoned radiant guardians to protect the party and create an aura that slowed the giants.",
+    "source_quote": "Bramgrim positioned himself strategically and summoned radiant guardians to protect the party, creating an aura that slowed the giants' movements",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Bramgrim",
+    "fact": "Bramgrim was struck by a critical blow and fell unconscious and bleeding.",
+    "source_quote": "one of the giants landed a critical blow that sent Bramgrim crashing to the ground, unconscious and bleeding",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daein",
+    "fact": "Daein grabbed the fallen Bramgrim to help him disengage from combat.",
+    "source_quote": "Daein grabbed the fallen Bramgrim",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Akritas",
+    "fact": "Akritas helped Felkur disengage from combat.",
+    "source_quote": "while Akritas helped Felkur",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "party retreat",
+    "fact": "The party made the decision to flee the combat with the fire giants.",
+    "source_quote": "The party quickly realized they were outmatched and made the difficult decision to flee",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "giants mocking retreat",
+    "fact": "The giants laughed mockingly at the party's retreat.",
+    "source_quote": "The giants laughed mockingly at their retreat",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Bramgrim",
+    "fact": "Bramgrim regained consciousness after the fight, confused and shaken.",
+    "source_quote": "After Bramgrim regained consciousness, confused and shaken by what had happened",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "stealth bypass plan",
+    "fact": "Bramgrim suggested using stealth to bypass the giants rather than engaging them directly.",
+    "source_quote": "Bramgrim suggested using stealth to bypass the giants rather than engaging them directly",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Akritas' masking spell",
+    "fact": "Akritas wove a spell that would mask the party's movements.",
+    "source_quote": "Akritas wove a spell that would mask their movements",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "party sneaking past giants",
+    "fact": "The party managed to sneak past the giants successfully.",
+    "source_quote": "the party managed to sneak past the giants successfully",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Felkur",
+    "fact": "Felkur stumbled while the party was sneaking past the giants.",
+    "source_quote": "despite a stumble from Felkur",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "saving companions from stirring giant",
+    "fact": "Akritas and Daein swiftly pulled their companions to safety when one giant briefly stirred.",
+    "source_quote": "with Akritas and Daein swiftly pulling their companions to safety when one giant briefly stirred",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "pit-filled section",
+    "fact": "The party encountered a treacherous section filled with dangerously deep pits.",
+    "source_quote": "a treacherous section filled with dangerously deep pits",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daein grants flight",
+    "fact": "Daein used his magical abilities to grant himself flight.",
+    "source_quote": "Daein used his magical abilities to grant himself flight",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "party crossing pits",
+    "fact": "Daein transferred each party member across the hazardous terrain one by one.",
+    "source_quote": "then transferred each party member across the hazardous terrain one by one",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "wide cave with river",
+    "fact": "The party reached a wide cave bisected by a swift-flowing underground river.",
+    "source_quote": "They soon reached a wide cave bisected by a swift-flowing underground river",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Cave Creepers",
+    "fact": "Strange gray and white fungi covering the banks were identified as Cave Creepers.",
+    "source_quote": "the fungi were Cave Creepers",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Akritas",
+    "fact": "Akritas failed to identify the fungus on the river banks.",
+    "source_quote": "When Akritas attempted to identify the fungus, she failed",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Bramgrim",
+    "fact": "Bramgrim explained that Cave Creepers would drive anyone mad if touched.",
+    "source_quote": "Bramgrim smugly explained that the fungi were Cave Creepers, which would drive anyone mad if touched",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "flying over river",
+    "fact": "The party decided to fly over the river to avoid the fungi.",
+    "source_quote": "The party carefully discussed their options and decided to fly over the river",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daein transfers party over river",
+    "fact": "Daein used his powers to transfer everyone across the river while avoiding contact with the fungi.",
+    "source_quote": "with Daein once again using his powers to transfer everyone across while meticulously avoiding contact with the dangerous fungi",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "yellow mold tunnel",
+    "fact": "The party entered a tunnel peppered with patches of yellow mold.",
+    "source_quote": "the party entered a tunnel peppered with patches of yellow mold",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "wind picking up",
+    "fact": "The wind suddenly picked up in the yellow mold tunnel, threatening to spread poisonous spores.",
+    "source_quote": "the wind suddenly picked up, threatening to spread the poisonous spores into the air",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Akritas",
+    "fact": "Akritas identified the yellow mold spores as toxic.",
+    "source_quote": "Akritas recognized the danger just in time, identifying the spores as toxic",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "party holding breath",
+    "fact": "The party decided to hold their breath and rush through the affected area.",
+    "source_quote": "The party decided to hold their breath and rush through the affected area",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Bramgrim",
+    "fact": "Bramgrim suffered some effects from the poison despite his natural resistance.",
+    "source_quote": "Bramgrim, despite his natural resistance, suffered some effects before ultimately overcoming them",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "poison cleared",
+    "fact": "The wind carried the poison away, making the area safe to continue.",
+    "source_quote": "Once the wind carried the poison away, they were safe to continue",
+    "quote_verified": true
+  }
+]

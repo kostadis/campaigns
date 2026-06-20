@@ -1,0 +1,3369 @@
+[
+  {
+    "type": "date",
+    "subject": "May 10th, 2026",
+    "fact": "The session date is recorded as May 10th, 2026.",
+    "source_quote": "Date: May 10th, 2026",
+    "quote_verified": true,
+    "passes": [
+      "sweep",
+      "temporal"
+    ],
+    "variants": [
+      "The session date is recorded as May 10th, 2026."
+    ],
+    "subjects": [
+      "May 10th, 2026",
+      "session date"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The session is titled 'Memorable Moments'.",
+    "source_quote": "Date: Memorable Moments",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "The session is titled 'Memorable Moments'."
+    ],
+    "subjects": [
+      "session date"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The session took place on May 10th, 2026.",
+    "source_quote": "Date: May 10th, 2026",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small"
+    ],
+    "variants": [
+      "The session took place on May 10th, 2026."
+    ],
+    "subjects": [
+      "session date"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "event",
+    "subject": "Bramgrim dispel attempt",
+    "fact": "Bramgrim attempted to clear the toxic fog with a burst of dispelling magic but the cloud held.",
+    "source_quote": "attempted to clear the toxic fog with a burst of dispelling magic \u2014 but the cloud held",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "variants": [
+      "Bramgrim attempted to clear the toxic fog with a burst of dispelling magic but the cloud held."
+    ],
+    "subjects": [
+      "Bramgrim dispel attempt"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Bramgrim Dispel Magic",
+    "fact": "Bramgrim attempted to use Dispel Magic to clear the Cloudkill but failed his spellcasting check.",
+    "source_quote": "Bramgrim attempted it to clear the Cloudkill but also failed his spellcasting check",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "Bramgrim attempted to use Dispel Magic to clear the Cloudkill but failed his spellcasting check."
+    ],
+    "subjects": [
+      "Bramgrim Dispel Magic"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Bramgrim's concentration break",
+    "fact": "The poison took its toll on Bramgrim, causing his concentration to break.",
+    "source_quote": "whose concentration finally broke under the relentless assault",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "variants": [
+      "The poison took its toll on Bramgrim, causing his concentration to break."
+    ],
+    "subjects": [
+      "Bramgrim's concentration break"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "cloud dissolution",
+    "fact": "Bramgrim struck the Mezzaloth with a bolt of fire, dissolving the poisonous cloud.",
+    "source_quote": "Bramgrim strikes the Mezzaloth with a bolt of fire, dissolving the poisonous cloud",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "Bramgrim struck the Mezzaloth with a bolt of fire, dissolving the poisonous cloud."
+    ],
+    "subjects": [
+      "cloud dissolution"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "escape timing",
+    "fact": "The party escaped with one round left before the window closed.",
+    "source_quote": "With one round left before their escape window closed",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "variants": [
+      "The party escaped with one round left before the window closed."
+    ],
+    "subjects": [
+      "escape timing"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "escape timing (summary)",
+    "fact": "The party escaped on the final round.",
+    "source_quote": "escaping on the final round",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "variants": [
+      "The party escaped on the final round."
+    ],
+    "subjects": [
+      "escape timing (summary)"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Fireball cast",
+    "fact": "One of the Apprentice Arcanaloths unleashed a roaring fireball that engulfed the entire party.",
+    "source_quote": "A massive explosion of flame cast by an Apprentice Arcanaloth that engulfed the entire party",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small"
+    ],
+    "variants": [
+      "One of the Apprentice Arcanaloths unleashed a roaring fireball that engulfed the entire party.",
+      "An Apprentice Arcanaloth cast a Fireball that engulfed the entire party."
+    ],
+    "subjects": [
+      "Fireball cast",
+      "Fireball"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "event",
+    "subject": "Fireball damage",
+    "fact": "The Fireball dealt sixteen points of fire damage to each party member.",
+    "source_quote": "dealing sixteen points of fire damage to each member",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "The Fireball dealt sixteen points of fire damage to each party member."
+    ],
+    "subjects": [
+      "Fireball damage"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "fire bolt",
+    "fact": "Bramgrim hurled a bolt of fire at the Mezzaloth.",
+    "source_quote": "Bramgrim hurled a bolt of fire at the Mezzaloth",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small"
+    ],
+    "variants": [
+      "Bramgrim hurled a bolt of fire at the Mezzaloth."
+    ],
+    "subjects": [
+      "fire bolt",
+      "Mezzaloth firebolt hit"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "event",
+    "subject": "Fire Giant attacks",
+    "fact": "The Fire Giants hurled themselves at Daein and missed every single strike.",
+    "source_quote": "the giants hurled themselves at Daein again and again, and again and again, they missed \u2014 every single strike falling short",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "The Fire Giants hurled themselves at Daein and missed every single strike."
+    ],
+    "subjects": [
+      "Fire Giant attacks"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Fire Giant attacks",
+    "fact": "The two Fire Giants attacked Daein four times in a row.",
+    "source_quote": "The two Fire Giants attacked Daein four times in a row",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "variants": [
+      "The two Fire Giants attacked Daein four times in a row."
+    ],
+    "subjects": [
+      "Fire Giant attacks"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Fire Giant ritual",
+    "fact": "Brandyr was moved to a nearby chamber to begin a ritual Solom had long prepared.",
+    "source_quote": "moved the enormous creature to a nearby chamber to begin the ritual Solom had long prepared",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "Brandyr was moved to a nearby chamber to begin a ritual Solom had long prepared."
+    ],
+    "subjects": [
+      "Fire Giant ritual"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Fire Giants arrival",
+    "fact": "Two enormous Fire Giants came hauling themselves over the wall.",
+    "source_quote": "two enormous Fire Giants came hauling themselves over the wall",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "variants": [
+      "Two enormous Fire Giants came hauling themselves over the wall."
+    ],
+    "subjects": [
+      "Fire Giants arrival"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Fire Giants attacks",
+    "fact": "The giants hurled themselves at Daein again and again and missed every single strike.",
+    "source_quote": "every single strike falling short in a display so improbable it drew stunned silence from the party",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "variants": [
+      "The giants hurled themselves at Daein again and again and missed every single strike."
+    ],
+    "subjects": [
+      "Fire Giants attacks"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Leveling up",
+    "fact": "The party leveled up after their successful escape.",
+    "source_quote": "Following their successful escape, the party levels up",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "The party leveled up after their successful escape."
+    ],
+    "subjects": [
+      "Leveling up"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Merchandise joke",
+    "fact": "The group joked about the possibility of selling merchandise to recover lost funds.",
+    "source_quote": "the possibility of selling merchandise to recover lost funds",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "The group joked about the possibility of selling merchandise to recover lost funds."
+    ],
+    "subjects": [
+      "Merchandise joke"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Mezzaloth death",
+    "fact": "Daein cut the Mezzaloth down before it could escape.",
+    "source_quote": "Daein was already moving, cutting the creature down before it could escape",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small"
+    ],
+    "variants": [
+      "Daein cut the Mezzaloth down before it could escape."
+    ],
+    "subjects": [
+      "Mezzaloth death"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "event",
+    "subject": "Mezzaloth dispel attempt",
+    "fact": "The Mezzaloth attempted to dispel the Wall of Force.",
+    "source_quote": "The Mezzaloth attempted to dispel it",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "The Mezzaloth attempted to dispel the Wall of Force."
+    ],
+    "subjects": [
+      "Mezzaloth dispel attempt"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Mezzaloth dispel attempt",
+    "fact": "The Mezzaloth attempted to shatter the Wall of Force with a burst of dispelling magic.",
+    "source_quote": "attempted to shatter the Wall of Force with a burst of dispelling magic",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "variants": [
+      "The Mezzaloth attempted to shatter the Wall of Force with a burst of dispelling magic."
+    ],
+    "subjects": [
+      "Mezzaloth dispel attempt"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Mezzaloth Dispel Magic",
+    "fact": "The Mezzaloth attempted to use Dispel Magic against the Wall of Force but failed.",
+    "source_quote": "The Mezzaloth tried to use it against the Wall of Force but failed",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "The Mezzaloth attempted to use Dispel Magic against the Wall of Force but failed."
+    ],
+    "subjects": [
+      "Mezzaloth Dispel Magic"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Mezzaloth teleportation",
+    "fact": "The Mezzaloth vanished in an instant and reappeared across the battlefield.",
+    "source_quote": "the creature vanished in an instant and reappeared across the battlefield",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "variants": [
+      "The Mezzaloth vanished in an instant and reappeared across the battlefield."
+    ],
+    "subjects": [
+      "Mezzaloth teleportation"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "party decision",
+    "fact": "The party decided to stay in Sporedome instead of returning to Hillsfar.",
+    "source_quote": "they decided to stay in Sporedome instead",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "The party decided to stay in Sporedome instead of returning to Hillsfar."
+    ],
+    "subjects": [
+      "party decision"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "party escape",
+    "fact": "As the fifth round concluded, the party successfully teleported away from the battlefield.",
+    "source_quote": "As the fifth round concludes, the party successfully teleports away from the battlefield",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "As the fifth round concluded, the party successfully teleported away from the battlefield."
+    ],
+    "subjects": [
+      "party escape"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Party escape",
+    "fact": "The party seized their moment and teleported away.",
+    "source_quote": "The party seized their moment and teleported away",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "sweep"
+    ],
+    "variants": [
+      "The party seized their moment and teleported away."
+    ],
+    "subjects": [
+      "Party escape",
+      "Teleportation"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "event",
+    "subject": "Party leveling",
+    "fact": "The party leveled up after the battle.",
+    "source_quote": "The party levels up",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "variants": [
+      "The party leveled up after the battle."
+    ],
+    "subjects": [
+      "Party leveling"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "party leveling",
+    "fact": "The party leveled up.",
+    "source_quote": "The party levels up",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "The party leveled up."
+    ],
+    "subjects": [
+      "party leveling"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Party survival",
+    "fact": "All party members survived the Fireball blast.",
+    "source_quote": "All party members survived the blast",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "All party members survived the Fireball blast."
+    ],
+    "subjects": [
+      "Party survival"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "party teleportation",
+    "fact": "The party teleported away leaving the Mezzaloth's corpse and a furious army behind.",
+    "source_quote": "The party seized their moment and teleported away, leaving the Mezzaloth's corpse and a furious army behind them",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "The party teleported away leaving the Mezzaloth's corpse and a furious army behind."
+    ],
+    "subjects": [
+      "party teleportation"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Ritual duration",
+    "fact": "Solom explained that the process would take ten days to complete.",
+    "source_quote": "explained that the process would take ten days to complete",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "Solom explained that the process would take ten days to complete."
+    ],
+    "subjects": [
+      "Ritual duration"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "ritual duration",
+    "fact": "The ritual Solom had prepared would take ten days to complete.",
+    "source_quote": "the process would take ten days to complete",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "variants": [
+      "The ritual Solom had prepared would take ten days to complete."
+    ],
+    "subjects": [
+      "ritual duration"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "ritual duration",
+    "fact": "The ritual to process Brandyr would take ten days to complete.",
+    "source_quote": "explained that the process would take ten days to complete",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "The ritual to process Brandyr would take ten days to complete."
+    ],
+    "subjects": [
+      "ritual duration"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "saving throws",
+    "fact": "The last six saving throws were all 18 or higher.",
+    "source_quote": "the last six saving throws were all 18 or higher",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "variants": [
+      "The last six saving throws were all 18 or higher."
+    ],
+    "subjects": [
+      "saving throws"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Spirit Guardians",
+    "fact": "Bramgrim's concentration on Spirit Guardians was broken by poison damage from the Cloudkill.",
+    "source_quote": "before Bramgrim's concentration was broken by poison damage from the Cloudkill",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "Bramgrim's concentration on Spirit Guardians was broken by poison damage from the Cloudkill."
+    ],
+    "subjects": [
+      "Spirit Guardians"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Spirit Guardians",
+    "fact": "Protective spirits summoned by Bramgrim damaged the Mezzaloth.",
+    "source_quote": "Protective spirits summoned by Bramgrim that damaged the Mezzaloth",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "Protective spirits summoned by Bramgrim damaged the Mezzaloth."
+    ],
+    "subjects": [
+      "Spirit Guardians"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "total battle rounds",
+    "fact": "The party survived nine brutal rounds of battle.",
+    "source_quote": "The party had survived nine brutal rounds",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "variants": [
+      "The party survived nine brutal rounds of battle."
+    ],
+    "subjects": [
+      "total battle rounds"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Wall of Force destruction",
+    "fact": "The Wall of Force barrier ceased to exist after being pressed by the wand.",
+    "source_quote": "the barrier that had protected the party for five brutal rounds simply ceased to exist",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "The Wall of Force barrier ceased to exist after being pressed by the wand."
+    ],
+    "subjects": [
+      "Wall of Force destruction"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Wall of Force destruction",
+    "fact": "The barrier that had protected the party for five brutal rounds simply ceased to exist.",
+    "source_quote": "the barrier that had protected the party for five brutal rounds simply ceased to exist",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "The barrier that had protected the party for five brutal rounds simply ceased to exist."
+    ],
+    "subjects": [
+      "Wall of Force destruction"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Wall of Force destruction",
+    "fact": "The second Mezzaloth used the wand of disintegration to destroy the Wall of Force.",
+    "source_quote": "the barrier that had protected the party for five brutal rounds simply ceased to exist",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "variants": [
+      "The second Mezzaloth used the wand of disintegration to destroy the Wall of Force."
+    ],
+    "subjects": [
+      "Wall of Force destruction"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Wall of Force duration",
+    "fact": "The Wall of Force protected the party for five brutal rounds.",
+    "source_quote": "the barrier that had protected the party for five brutal rounds",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "variants": [
+      "The Wall of Force protected the party for five brutal rounds."
+    ],
+    "subjects": [
+      "Wall of Force duration"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Wall of Force duration (summary)",
+    "fact": "Felkur held his concentration on the Wall of Force for five full rounds.",
+    "source_quote": "single-handedly keeping the party's escape route alive for five full rounds",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "variants": [
+      "Felkur held his concentration on the Wall of Force for five full rounds."
+    ],
+    "subjects": [
+      "Wall of Force duration (summary)"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Apprentice Arcanaloths",
+    "fact": "Three Apprentice Arcanaloths began shouting for reinforcements.",
+    "source_quote": "Three Apprentice Arcanaloths emerge and begin shouting for reinforcements",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "Three Apprentice Arcanaloths began shouting for reinforcements."
+    ],
+    "subjects": [
+      "Apprentice Arcanaloths"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Drow",
+    "fact": "The party was given the option to return to Hillsfar.",
+    "source_quote": "given the option to return to Hillsfar",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "The party was given the option to return to Hillsfar."
+    ],
+    "subjects": [
+      "Drow"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Drow assistants",
+    "fact": "Drow assistants took custody of the captured Fire Giant.",
+    "source_quote": "Drow assistants carefully took custody of Brandyr",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "Drow assistants took custody of the captured Fire Giant."
+    ],
+    "subjects": [
+      "Drow assistants"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Fire Giants",
+    "fact": "Two Fire Giants scaled the wall and joined the fray.",
+    "source_quote": "Two Fire Giants scale the wall and join the fray",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "Two Fire Giants scaled the wall and joined the fray."
+    ],
+    "subjects": [
+      "Fire Giants"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "nearby chamber",
+    "fact": "Brandyr was moved to a nearby chamber to begin the ritual.",
+    "source_quote": "moved the enormous creature to a nearby chamber to begin the ritual",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "Brandyr was moved to a nearby chamber to begin the ritual."
+    ],
+    "subjects": [
+      "nearby chamber"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Poison Cloud",
+    "fact": "A poisonous cloud filled the area, forcing everyone to make constitution saving throws.",
+    "source_quote": "A poisonous cloud fills the area, forcing everyone to make constitution saving throws to resist the toxins",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "A poisonous cloud filled the area, forcing everyone to make constitution saving throws."
+    ],
+    "subjects": [
+      "Poison Cloud"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Sporedome",
+    "fact": "Sporedome is inhabited by Drow and serves as a base for Solom Ned'razak's magical research.",
+    "source_quote": "It is inhabited by Drow and serves as a base for Solom Ned'razak's magical research",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "Sporedome is inhabited by Drow and serves as a base for Solom Ned'razak's magical research."
+    ],
+    "subjects": [
+      "Sporedome"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Sporedome",
+    "fact": "The party materialized in Sporedome after teleporting away from the battlefield.",
+    "source_quote": "They materialized in Sporedome",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "variants": [
+      "The party materialized in Sporedome after teleporting away from the battlefield."
+    ],
+    "subjects": [
+      "Sporedome"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Sporedome",
+    "fact": "The party materialized in Sporedome, greeted by Solom Ned'razak and Xaven Tanor'this.",
+    "source_quote": "The party materializes in Sporedome, greeted by Solom Ned'razak and Xaven Tanor'this",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "The party materialized in Sporedome, greeted by Solom Ned'razak and Xaven Tanor'this."
+    ],
+    "subjects": [
+      "Sporedome"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Sporedome",
+    "fact": "The party materialized in Sporedome.",
+    "source_quote": "They materialized in Sporedome",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "The party materialized in Sporedome."
+    ],
+    "subjects": [
+      "Sporedome"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Sporedome",
+    "fact": "They materialized in Sporedome.",
+    "source_quote": "They materialized in Sporedome",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "They materialized in Sporedome."
+    ],
+    "subjects": [
+      "Sporedome"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Apprentice Arcanaloth",
+    "fact": "One of the Apprentice Arcanaloths unleashed a roaring fireball that engulfed the entire party.",
+    "source_quote": "one of the Apprentice Arcanaloths unleashed a roaring fireball that engulfed the entire party",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small",
+      "sweep"
+    ],
+    "variants": [
+      "One of the Apprentice Arcanaloths unleashed a roaring fireball that engulfed the entire party.",
+      "One Apprentice Arcanaloth unleashed a roaring fireball that engulfed the entire party.",
+      "An Apprentice Arcanaloth unleashed a fireball that engulfed the entire party."
+    ],
+    "subjects": [
+      "Apprentice Arcanaloth"
+    ],
+    "n_samples": 3
+  },
+  {
+    "type": "monster",
+    "subject": "Apprentice Arcanaloth",
+    "fact": "The Apprentice Arcanaloths screamed for reinforcements.",
+    "source_quote": "screaming for reinforcements",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "variants": [
+      "The Apprentice Arcanaloths screamed for reinforcements."
+    ],
+    "subjects": [
+      "Apprentice Arcanaloth"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Apprentice Arcanaloth",
+    "fact": "Three Apprentice Arcanaloths emerged in the chaos screaming for reinforcements.",
+    "source_quote": "Three Apprentice Arcanaloths had emerged in the chaos, screaming for reinforcements",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small",
+      "sweep",
+      "temporal"
+    ],
+    "variants": [
+      "Three Apprentice Arcanaloths emerged in the chaos screaming for reinforcements.",
+      "Three Apprentice Arcanaloths emerged and began shouting for reinforcements.",
+      "Three Apprentice Arcanaloths emerged in the chaos."
+    ],
+    "subjects": [
+      "Apprentice Arcanaloth",
+      "Apprentice Arcanaloths",
+      "Apprentice Arcanaloth count"
+    ],
+    "n_samples": 4
+  },
+  {
+    "type": "monster",
+    "subject": "Apprentice Arcanaloth AC",
+    "fact": "Each of the three Apprentice Arcanaloths had an armor class of 17.",
+    "source_quote": "an armor class of 17",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "variants": [
+      "Each of the three Apprentice Arcanaloths had an armor class of 17."
+    ],
+    "subjects": [
+      "Apprentice Arcanaloth AC"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Apprentice Arcanaloth HP",
+    "fact": "Each of the three Apprentice Arcanaloths had 32 hit points.",
+    "source_quote": "each with 32 hit points",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "variants": [
+      "Each of the three Apprentice Arcanaloths had 32 hit points."
+    ],
+    "subjects": [
+      "Apprentice Arcanaloth HP"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Fire Giant",
+    "fact": "Every single strike from the Fire Giants fell short and missed Daein.",
+    "source_quote": "every single strike falling short in a display so improbable it drew stunned silence from the party",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "variants": [
+      "Every single strike from the Fire Giants fell short and missed Daein."
+    ],
+    "subjects": [
+      "Fire Giant"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Fire Giant",
+    "fact": "The Fire Giants hurled themselves at Daein repeatedly.",
+    "source_quote": "The giants hurled themselves at Daein again and again",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "variants": [
+      "The Fire Giants hurled themselves at Daein repeatedly."
+    ],
+    "subjects": [
+      "Fire Giant"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Fire Giant",
+    "fact": "The Fire Giants were furious at the party's perceived insults to their master.",
+    "source_quote": "furious at the party's perceived insults to their master",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "sweep"
+    ],
+    "variants": [
+      "The Fire Giants were furious at the party's perceived insults to their master."
+    ],
+    "subjects": [
+      "Fire Giant"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "monster",
+    "subject": "Fire Giant",
+    "fact": "Two enormous Fire Giants came hauling themselves over the wall.",
+    "source_quote": "two enormous Fire Giants came hauling themselves over the wall",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small",
+      "sweep",
+      "temporal"
+    ],
+    "variants": [
+      "Two enormous Fire Giants came hauling themselves over the wall."
+    ],
+    "subjects": [
+      "Fire Giant",
+      "Fire Giant count"
+    ],
+    "n_samples": 4
+  },
+  {
+    "type": "monster",
+    "subject": "Fire Giants",
+    "fact": "The Fire Giants attempted to slash at Daein but miraculously missed every single attack.",
+    "source_quote": "The Fire Giants attempt to slash at Daein but miraculously miss every single attack",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "The Fire Giants attempted to slash at Daein but miraculously missed every single attack."
+    ],
+    "subjects": [
+      "Fire Giants"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Fire Giants",
+    "fact": "Two Fire Giants scaled the wall and joined the fray, fueled by rage over the party's perceived insults to their master.",
+    "source_quote": "Two Fire Giants scale the wall and join the fray, fueled by rage over the party's perceived insults to their master",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "Two Fire Giants scaled the wall and joined the fray, fueled by rage over the party's perceived insults to their master."
+    ],
+    "subjects": [
+      "Fire Giants"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Mezzaloth",
+    "fact": "A Mezzaloth attempted to break the party's concentration on their spells but failed to hit Daein with its trident.",
+    "source_quote": "A Mezzaloth attempts to break the party's concentration on their spells but fails to hit Daein with its trident",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "A Mezzaloth attempted to break the party's concentration on their spells but failed to hit Daein with its trident."
+    ],
+    "subjects": [
+      "Mezzaloth"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Mezzaloth",
+    "fact": "A Mezzaloth lashed out at Daein with its trident but every strike sailed wide.",
+    "source_quote": "The cruel Yugoloth lashed out at Daein with its trident, driven not by strategy but by sheer malice, yet every strike sailed wide",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small",
+      "sweep"
+    ],
+    "variants": [
+      "A Mezzaloth lashed out at Daein with its trident but every strike sailed wide.",
+      "A Mezzaloth lashed out at Daein with a trident but every strike sailed wide."
+    ],
+    "subjects": [
+      "Mezzaloth"
+    ],
+    "n_samples": 3
+  },
+  {
+    "type": "monster",
+    "subject": "Mezzaloth",
+    "fact": "A new Mezzaloth arrived and used a wand of disintegration to finally destroy the Wall of Force.",
+    "source_quote": "A new Mezzaloth arrives and uses a wand of disintegration to finally destroy the Wall of Force",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "A new Mezzaloth arrived and used a wand of disintegration to finally destroy the Wall of Force."
+    ],
+    "subjects": [
+      "Mezzaloth"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Mezzaloth",
+    "fact": "A second Mezzaloth arrived carrying a wand crackling with disintegrating energy.",
+    "source_quote": "a second Mezzaloth arrived carrying a wand crackling with disintegrating energy",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small",
+      "sweep"
+    ],
+    "variants": [
+      "A second Mezzaloth arrived carrying a wand crackling with disintegrating energy."
+    ],
+    "subjects": [
+      "Mezzaloth"
+    ],
+    "n_samples": 3
+  },
+  {
+    "type": "monster",
+    "subject": "Mezzaloth",
+    "fact": "Bramgrim hurled a bolt of fire at the Mezzaloth, causing it to stagger.",
+    "source_quote": "Bramgrim hurled a bolt of fire at the Mezzaloth. The creature, resistant to flame though it was, still staggered from the blow",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "variants": [
+      "Bramgrim hurled a bolt of fire at the Mezzaloth, causing it to stagger."
+    ],
+    "subjects": [
+      "Mezzaloth"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Mezzaloth",
+    "fact": "Daein cut the Mezzaloth down before it could escape.",
+    "source_quote": "Daein was already moving, cutting the creature down before it could escape",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "variants": [
+      "Daein cut the Mezzaloth down before it could escape."
+    ],
+    "subjects": [
+      "Mezzaloth"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Mezzaloth",
+    "fact": "The Mezzaloth attempted to shatter the Wall of Force with dispelling magic but failed.",
+    "source_quote": "attempted to shatter the Wall of Force with a burst of dispelling magic \u2014 and failed",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small"
+    ],
+    "variants": [
+      "The Mezzaloth attempted to shatter the Wall of Force with dispelling magic but failed.",
+      "The Mezzaloth attempted to dispel the Wall of Force but failed."
+    ],
+    "subjects": [
+      "Mezzaloth"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "monster",
+    "subject": "Mezzaloth",
+    "fact": "The Mezzaloth cast a sphere of poisonous yellow-green fog called Cloudkill.",
+    "source_quote": "A sphere of poisonous yellow-green fog cast by the Mezzaloth",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "The Mezzaloth cast a sphere of poisonous yellow-green fog called Cloudkill."
+    ],
+    "subjects": [
+      "Mezzaloth"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Mezzaloth",
+    "fact": "The Mezzaloth conjured a suffocating cloud of poisonous yellow-green fog.",
+    "source_quote": "a suffocating cloud of poisonous yellow-green fog conjured by the Mezzaloth",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small",
+      "sweep"
+    ],
+    "variants": [
+      "The Mezzaloth conjured a suffocating cloud of poisonous yellow-green fog."
+    ],
+    "subjects": [
+      "Mezzaloth"
+    ],
+    "n_samples": 3
+  },
+  {
+    "type": "monster",
+    "subject": "Mezzaloth",
+    "fact": "The Mezzaloth staggered from the fire bolt and the impact scattered the poisonous cloud.",
+    "source_quote": "The creature, resistant to flame though it was, still staggered from the blow, and the impact was enough to scatter the poisonous cloud at last",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "The Mezzaloth staggered from the fire bolt and the impact scattered the poisonous cloud."
+    ],
+    "subjects": [
+      "Mezzaloth"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Mezzaloth",
+    "fact": "The Mezzaloth teleported away in desperation.",
+    "source_quote": "It teleported away in desperation",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small"
+    ],
+    "variants": [
+      "The Mezzaloth teleported away in desperation."
+    ],
+    "subjects": [
+      "Mezzaloth"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "monster",
+    "subject": "Mezzaloth",
+    "fact": "The Mezzaloth teleported away to safety after failing to dispel the Wall of Force.",
+    "source_quote": "subsequently teleporting away to safety",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "The Mezzaloth teleported away to safety after failing to dispel the Wall of Force."
+    ],
+    "subjects": [
+      "Mezzaloth"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Mezzaloth",
+    "fact": "The Mezzaloth teleported to a new position to avoid Bramgrim's spirit guardians.",
+    "source_quote": "The Mezzaloth teleports to a new position to avoid Bramgrim's spirit guardians",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "The Mezzaloth teleported to a new position to avoid Bramgrim's spirit guardians."
+    ],
+    "subjects": [
+      "Mezzaloth"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Mezzaloth",
+    "fact": "The Mezzaloth vanished and reappeared across the battlefield to avoid Bramgrim's protective spirits.",
+    "source_quote": "Unwilling to linger within range of Bramgrim's protective spirits, the creature vanished in an instant and reappeared across the battlefield",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small"
+    ],
+    "variants": [
+      "The Mezzaloth vanished and reappeared across the battlefield to avoid Bramgrim's protective spirits."
+    ],
+    "subjects": [
+      "Mezzaloth"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "monster",
+    "subject": "Mezzaloth",
+    "fact": "The Mezzaloth vanished in an instant and reappeared across the battlefield.",
+    "source_quote": "the creature vanished in an instant and reappeared across the battlefield",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "The Mezzaloth vanished in an instant and reappeared across the battlefield."
+    ],
+    "subjects": [
+      "Mezzaloth"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Mezzaloth",
+    "fact": "The Mezzaloth's poison caused Bramgrim's concentration on his protective spirits to break.",
+    "source_quote": "causing his protective spirits to dissolve into nothing",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "variants": [
+      "The Mezzaloth's poison caused Bramgrim's concentration on his protective spirits to break."
+    ],
+    "subjects": [
+      "Mezzaloth"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Mezzaloth",
+    "fact": "The impact of Bramgrim's firebolt scattered the poisonous cloud.",
+    "source_quote": "the impact was enough to scatter the poisonous cloud at last",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "variants": [
+      "The impact of Bramgrim's firebolt scattered the poisonous cloud."
+    ],
+    "subjects": [
+      "Mezzaloth"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Mezzaloth",
+    "fact": "The second Mezzaloth pressed the wand against the Wall of Force.",
+    "source_quote": "It pressed the wand against the Wall of Force",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "variants": [
+      "The second Mezzaloth pressed the wand against the Wall of Force."
+    ],
+    "subjects": [
+      "Mezzaloth"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Mezzaloth",
+    "fact": "The wand caused the Wall of Force to cease to exist.",
+    "source_quote": "the barrier that had protected the party for five brutal rounds simply ceased to exist",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "variants": [
+      "The wand caused the Wall of Force to cease to exist."
+    ],
+    "subjects": [
+      "Mezzaloth"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Owlbear",
+    "fact": "Bramgrim managed to heal the battered Owlbear.",
+    "source_quote": "Bramgrim managed to heal the battered Owlbear",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "variants": [
+      "Bramgrim managed to heal the battered Owlbear."
+    ],
+    "subjects": [
+      "Owlbear"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Owlbear",
+    "fact": "The Owlbear had come dangerously close to the edge of the poisonous cloud.",
+    "source_quote": "who had come dangerously close to the edge",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "variants": [
+      "The Owlbear had come dangerously close to the edge of the poisonous cloud."
+    ],
+    "subjects": [
+      "Owlbear"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Owlbear",
+    "fact": "The Owlbear was caught in the poisonous cloud and took damage.",
+    "source_quote": "The party's sidekick who was caught in the poisonous cloud and took damage",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "The Owlbear was caught in the poisonous cloud and took damage."
+    ],
+    "subjects": [
+      "Owlbear"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Shield Guardian",
+    "fact": "Akritas fired her Oathbow at the Shield Guardian, dealing steady damage.",
+    "source_quote": "Akritas fires her Oathbow at the Shield Guardian, dealing steady damage",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "Akritas fired her Oathbow at the Shield Guardian, dealing steady damage."
+    ],
+    "subjects": [
+      "Shield Guardian"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Akritas",
+    "fact": "Akritas fired her Oathbow at the Shield Guardian, dealing steady damage.",
+    "source_quote": "Akritas fires her Oathbow at the Shield Guardian, dealing steady damage",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "Akritas fired her Oathbow at the Shield Guardian, dealing steady damage."
+    ],
+    "subjects": [
+      "Akritas"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Akritas",
+    "fact": "Akritas improved her archery skills, gaining the ability to ignore cover and fire effectively at close range.",
+    "source_quote": "Akritas improves her archery skills, gaining the ability to ignore cover and fire effectively at close range",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "Akritas improved her archery skills, gaining the ability to ignore cover and fire effectively at close range."
+    ],
+    "subjects": [
+      "Akritas"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Akritas",
+    "fact": "Akritas refined her archery instincts, sharpening her ability to fire through cover.",
+    "source_quote": "Akritas refined her archery instincts, sharpening her ability to fire through cover and hold her ground",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small",
+      "sweep"
+    ],
+    "variants": [
+      "Akritas refined her archery instincts, sharpening her ability to fire through cover.",
+      "Akritas refined her archery instincts to fire through cover and hold her ground.",
+      "Akritas refined her archery instincts and ability to fire through cover."
+    ],
+    "subjects": [
+      "Akritas"
+    ],
+    "n_samples": 3
+  },
+  {
+    "type": "npc",
+    "subject": "Bramgrim",
+    "fact": "Bramgrim added a new radiant prayer to his arsenal.",
+    "source_quote": "adding a new radiant prayer to his arsenal",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "Bramgrim added a new radiant prayer to his arsenal."
+    ],
+    "subjects": [
+      "Bramgrim"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Bramgrim",
+    "fact": "Bramgrim attempted to clear the toxic fog with a burst of dispelling magic but the cloud held.",
+    "source_quote": "attempted to clear the toxic fog with a burst of dispelling magic \u2014 but the cloud held",
+    "quote_verified": true,
+    "passes": [
+      "small",
+      "sweep"
+    ],
+    "variants": [
+      "Bramgrim attempted to clear the toxic fog with a burst of dispelling magic but the cloud held.",
+      "Bramgrim attempted to clear the toxic fog with a burst of dispelling magic but failed."
+    ],
+    "subjects": [
+      "Bramgrim"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "npc",
+    "subject": "Bramgrim",
+    "fact": "Bramgrim attempted to dispel the poisonous cloud using magic but failed the necessary spellcasting check.",
+    "source_quote": "Bramgrim attempts to dispel the poisonous cloud using magic but fails the necessary spellcasting check",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "Bramgrim attempted to dispel the poisonous cloud using magic but failed the necessary spellcasting check."
+    ],
+    "subjects": [
+      "Bramgrim"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Bramgrim",
+    "fact": "Bramgrim deepened his divine connection and gained a new radiant prayer.",
+    "source_quote": "Bramgrim deepened his divine connection, gaining a steadier hand for maintaining his sacred wards and adding a new radiant prayer to his arsenal",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "Bramgrim deepened his divine connection and gained a new radiant prayer."
+    ],
+    "subjects": [
+      "Bramgrim"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Bramgrim",
+    "fact": "Bramgrim deepened his divine connection, gaining a steadier hand for maintaining his sacred wards.",
+    "source_quote": "Bramgrim deepened his divine connection, gaining a steadier hand for maintaining his sacred wards",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "Bramgrim deepened his divine connection, gaining a steadier hand for maintaining his sacred wards."
+    ],
+    "subjects": [
+      "Bramgrim"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Bramgrim",
+    "fact": "Bramgrim gained advantage on concentration checks upon leveling up.",
+    "source_quote": "Bramgrim gaining advantage on concentration checks",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "variants": [
+      "Bramgrim gained advantage on concentration checks upon leveling up."
+    ],
+    "subjects": [
+      "Bramgrim"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Bramgrim",
+    "fact": "Bramgrim gained advantage on concentration checks.",
+    "source_quote": "with Bramgrim gaining advantage on concentration checks",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "Bramgrim gained advantage on concentration checks."
+    ],
+    "subjects": [
+      "Bramgrim"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Bramgrim",
+    "fact": "Bramgrim hurled a bolt of fire at the Mezzaloth.",
+    "source_quote": "Bramgrim hurled a bolt of fire at the Mezzaloth",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "Bramgrim hurled a bolt of fire at the Mezzaloth."
+    ],
+    "subjects": [
+      "Bramgrim"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Bramgrim",
+    "fact": "Bramgrim managed to heal the battered Owlbear.",
+    "source_quote": "Bramgrim managed to heal the battered Owlbear",
+    "quote_verified": true,
+    "passes": [
+      "small",
+      "sweep"
+    ],
+    "variants": [
+      "Bramgrim managed to heal the battered Owlbear.",
+      "Bramgrim healed the Owlbear."
+    ],
+    "subjects": [
+      "Bramgrim"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "npc",
+    "subject": "Bramgrim",
+    "fact": "Bramgrim pushed through the pain of poison to summon a spectral weapon.",
+    "source_quote": "He pushed through the pain, summoning a floating spectral weapon to keep fighting",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "variants": [
+      "Bramgrim pushed through the pain of poison to summon a spectral weapon."
+    ],
+    "subjects": [
+      "Bramgrim"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Bramgrim",
+    "fact": "Bramgrim selected the Word of Radiance cantrip upon leveling up.",
+    "source_quote": "A divine cantrip newly selected by Bramgrim upon leveling up",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small"
+    ],
+    "variants": [
+      "Bramgrim selected the Word of Radiance cantrip upon leveling up.",
+      "Bramgrim learned the Word of Radiance cantrip upon leveling up.",
+      "Bramgrim gained the Word of Radiance cantrip."
+    ],
+    "subjects": [
+      "Bramgrim"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "npc",
+    "subject": "Bramgrim",
+    "fact": "Bramgrim summoned a floating spectral weapon to keep fighting.",
+    "source_quote": "He pushed through the pain, summoning a floating spectral weapon to keep fighting",
+    "quote_verified": true,
+    "passes": [
+      "small",
+      "sweep"
+    ],
+    "variants": [
+      "Bramgrim summoned a floating spectral weapon to keep fighting."
+    ],
+    "subjects": [
+      "Bramgrim"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "npc",
+    "subject": "Bramgrim",
+    "fact": "Bramgrim summoned a spiritual weapon as a bonus action.",
+    "source_quote": "Bramgrim summons a spiritual weapon as a bonus action to prepare for further combat",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "Bramgrim summoned a spiritual weapon as a bonus action."
+    ],
+    "subjects": [
+      "Bramgrim"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Bramgrim",
+    "fact": "Bramgrim took damage from the poison and lost his concentration on his spirit guardians.",
+    "source_quote": "Bramgrim takes damage from the poison and loses his concentration on his spirit guardians",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "Bramgrim took damage from the poison and lost his concentration on his spirit guardians."
+    ],
+    "subjects": [
+      "Bramgrim"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Bramgrim",
+    "fact": "Bramgrim used his second wind to recover from his wounds.",
+    "source_quote": "Daein uses his second wind to recover from his wounds",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "Bramgrim used his second wind to recover from his wounds."
+    ],
+    "subjects": [
+      "Bramgrim"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Bramgrim",
+    "fact": "Bramgrim's concentration broke under the assault, causing his protective spirits to dissolve.",
+    "source_quote": "Bramgrim, whose concentration finally broke under the relentless assault, causing his protective spirits to dissolve into nothing",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "Bramgrim's concentration broke under the assault, causing his protective spirits to dissolve."
+    ],
+    "subjects": [
+      "Bramgrim"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Bramgrim",
+    "fact": "Bramgrim's concentration broke under the relentless assault of the poison.",
+    "source_quote": "Bramgrim, whose concentration finally broke under the relentless assault",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "Bramgrim's concentration broke under the relentless assault of the poison."
+    ],
+    "subjects": [
+      "Bramgrim"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Brandyr",
+    "fact": "Brandyr was handed over to Solom Ned'razak's Drow assistants for experimentation and blood-borne rituals.",
+    "source_quote": "Brandyr for Solom's experimentation",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "Brandyr was handed over to Solom Ned'razak's Drow assistants for experimentation and blood-borne rituals."
+    ],
+    "subjects": [
+      "Brandyr"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Brandyr",
+    "fact": "Brandyr was moved to a nearby chamber to begin a ritual.",
+    "source_quote": "moved the enormous creature to a nearby chamber to begin the ritual",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "variants": [
+      "Brandyr was moved to a nearby chamber to begin a ritual."
+    ],
+    "subjects": [
+      "Brandyr"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Brandyr",
+    "fact": "Drow assistants carefully took custody of Brandyr, the captured Fire Giant.",
+    "source_quote": "Drow assistants carefully took custody of Brandyr, the captured Fire Giant",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small",
+      "sweep"
+    ],
+    "variants": [
+      "Drow assistants carefully took custody of Brandyr, the captured Fire Giant.",
+      "Drow assistants took custody of Brandyr, the captured Fire Giant."
+    ],
+    "subjects": [
+      "Brandyr"
+    ],
+    "n_samples": 3
+  },
+  {
+    "type": "npc",
+    "subject": "Daein",
+    "fact": "Daein compared the current survival to a battle they should have lost at the start of the campaign.",
+    "source_quote": "\"This reminds me of the battle that we should have lost at the start of the campaign.\"",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "variants": [
+      "Daein compared the current survival to a battle they should have lost at the start of the campaign."
+    ],
+    "subjects": [
+      "Daein"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Daein",
+    "fact": "Daein cut the Mezzaloth down before it could escape.",
+    "source_quote": "Daein was already moving, cutting the creature down before it could escape",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "Daein cut the Mezzaloth down before it could escape."
+    ],
+    "subjects": [
+      "Daein"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Daein",
+    "fact": "Daein finished off the weakened Mezzaloth as it tried to regroup.",
+    "source_quote": "Daein finishes off the weakened Mezzaloth as it tries to regroup",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "Daein finished off the weakened Mezzaloth as it tried to regroup."
+    ],
+    "subjects": [
+      "Daein"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Daein",
+    "fact": "Daein marveled at the symmetry of the party once again defying the odds.",
+    "source_quote": "Marveling at the symmetry of the party once again defying the odds through a string of improbable lucky rolls",
+    "quote_verified": true,
+    "passes": [
+      "interiority",
+      "sweep"
+    ],
+    "variants": [
+      "Daein marveled at the symmetry of the party once again defying the odds.",
+      "Daein marveled at the symmetry of the party defying the odds again."
+    ],
+    "subjects": [
+      "Daein"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "npc",
+    "subject": "Daein",
+    "fact": "Daein struck the Mezzaloth, dealing damage and imposing a disadvantage on its next attack.",
+    "source_quote": "Daein strikes the Mezzaloth, dealing damage and imposing a disadvantage on its next attack",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "Daein struck the Mezzaloth, dealing damage and imposing a disadvantage on its next attack."
+    ],
+    "subjects": [
+      "Daein"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Daein",
+    "fact": "Daein used a moment of respite to catch his breath and recover his strength.",
+    "source_quote": "Daein used a moment's respite to catch his breath and recover his strength",
+    "quote_verified": true,
+    "passes": [
+      "interiority",
+      "small",
+      "sweep"
+    ],
+    "variants": [
+      "Daein used a moment of respite to catch his breath and recover his strength.",
+      "Daein used a moment's respite to catch his breath and recover his strength."
+    ],
+    "subjects": [
+      "Daein"
+    ],
+    "n_samples": 3
+  },
+  {
+    "type": "npc",
+    "subject": "Daein",
+    "fact": "Daein used his second wind to recover from his wounds.",
+    "source_quote": "Daein uses his second wind to recover from his wounds",
+    "quote_verified": true,
+    "passes": [
+      "small",
+      "sweep"
+    ],
+    "variants": [
+      "Daein used his second wind to recover from his wounds."
+    ],
+    "subjects": [
+      "Daein"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "npc",
+    "subject": "Daein",
+    "fact": "Daein was attacked by the Fire Giants and every single strike fell short.",
+    "source_quote": "every single strike falling short in a display so improbable it drew stunned silence from the party",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "Daein was attacked by the Fire Giants and every single strike fell short."
+    ],
+    "subjects": [
+      "Daein"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Drow assistants",
+    "fact": "Drow assistants took custody of the captured Fire Giant, Brandyr, for Solom's experimentation.",
+    "source_quote": "Drow assistants take custody of the captured Fire Giant, Brandyr, for Solom's experimentation",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "Drow assistants took custody of the captured Fire Giant, Brandyr, for Solom's experimentation."
+    ],
+    "subjects": [
+      "Drow assistants"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Felkur",
+    "fact": "Felkur asked if he could sell merch in response to being called a legendary phantom thief.",
+    "source_quote": "\"Can I sell merch?\"",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "variants": [
+      "Felkur asked if he could sell merch in response to being called a legendary phantom thief."
+    ],
+    "subjects": [
+      "Felkur"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Felkur",
+    "fact": "Felkur asked if he could sell the merchandise.",
+    "source_quote": "could he sell the merchandise",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "Felkur asked if he could sell the merchandise."
+    ],
+    "subjects": [
+      "Felkur"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Felkur",
+    "fact": "Felkur casually dismissed the GM's difficulty in landing hits on the party.",
+    "source_quote": "It's just a skill issue",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "Felkur casually dismissed the GM's difficulty in landing hits on the party."
+    ],
+    "subjects": [
+      "Felkur"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Felkur",
+    "fact": "Felkur casually dismissed the difficulty of the giants missing as a skill issue.",
+    "source_quote": "\"It's just a skill issue.\"",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "variants": [
+      "Felkur casually dismissed the difficulty of the giants missing as a skill issue."
+    ],
+    "subjects": [
+      "Felkur"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Felkur",
+    "fact": "Felkur considered creating a mechanical device to modify his elemental attacks.",
+    "source_quote": "Felkur considers creating a mechanical device to modify his elemental attacks",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "Felkur considered creating a mechanical device to modify his elemental attacks."
+    ],
+    "subjects": [
+      "Felkur"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Felkur",
+    "fact": "Felkur considered engineering a device to reshape his elemental attacks.",
+    "source_quote": "Felkur mused aloud about engineering a device that could reshape the very nature of his elemental attacks",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "variants": [
+      "Felkur considered engineering a device to reshape his elemental attacks."
+    ],
+    "subjects": [
+      "Felkur"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Felkur",
+    "fact": "Felkur held his concentration on the Wall of Force through poison, fire, and relentless pressure.",
+    "source_quote": "Felkur, who had held his concentration through poison, fire, and the relentless pressure of battle, held it still",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "variants": [
+      "Felkur held his concentration on the Wall of Force through poison, fire, and relentless pressure."
+    ],
+    "subjects": [
+      "Felkur"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Felkur",
+    "fact": "Felkur is now technically a figure of legend known as a phantom thief.",
+    "source_quote": "Felkur was now, technically, a figure of legend \u2014 a phantom thief no one could name",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "Felkur is now technically a figure of legend known as a phantom thief."
+    ],
+    "subjects": [
+      "Felkur"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Felkur",
+    "fact": "Felkur maintained concentration on an invisible Wall of Force between the party and enemy forces.",
+    "source_quote": "Felkur who quietly bore the greatest burden of all, maintaining his concentration on the invisible Wall of Force",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "Felkur maintained concentration on an invisible Wall of Force between the party and enemy forces."
+    ],
+    "subjects": [
+      "Felkur"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Felkur",
+    "fact": "Felkur maintained concentration on the Wall of Force despite the fireball and other assaults.",
+    "source_quote": "Felkur, who had held his concentration through poison, fire, and the relentless pressure of battle, held it still",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "Felkur maintained concentration on the Wall of Force despite the fireball and other assaults."
+    ],
+    "subjects": [
+      "Felkur"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Felkur",
+    "fact": "Felkur maintained his concentration on the invisible Wall of Force.",
+    "source_quote": "Felkur who quietly bore the greatest burden of all, maintaining his concentration on the invisible Wall of Force",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "Felkur maintained his concentration on the invisible Wall of Force."
+    ],
+    "subjects": [
+      "Felkur"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Felkur",
+    "fact": "Felkur mused aloud about engineering a device that could reshape the very nature of his elemental attacks.",
+    "source_quote": "Felkur mused aloud about engineering a device that could reshape the very nature of his elemental attacks",
+    "quote_verified": true,
+    "passes": [
+      "interiority",
+      "small",
+      "sweep"
+    ],
+    "variants": [
+      "Felkur mused aloud about engineering a device that could reshape the very nature of his elemental attacks.",
+      "Felkur mused about engineering a device to reshape his elemental attacks."
+    ],
+    "subjects": [
+      "Felkur"
+    ],
+    "n_samples": 3
+  },
+  {
+    "type": "npc",
+    "subject": "Felkur",
+    "fact": "Felkur questioned if he could sell merchandise now that he is a figure of legend.",
+    "source_quote": "he had only one question: could he sell the merchandise?",
+    "quote_verified": true,
+    "passes": [
+      "interiority",
+      "large",
+      "sweep"
+    ],
+    "variants": [
+      "Felkur questioned if he could sell merchandise now that he is a figure of legend.",
+      "Felkur asked if he could sell the merchandise now that he is a figure of legend.",
+      "Felkur asked if he could sell merchandise based on his legendary status."
+    ],
+    "subjects": [
+      "Felkur"
+    ],
+    "n_samples": 3
+  },
+  {
+    "type": "npc",
+    "subject": "Felkur",
+    "fact": "Felkur quietly bore the greatest burden of all by maintaining concentration on the Wall of Force.",
+    "source_quote": "It was Felkur who quietly bore the greatest burden of all, maintaining his concentration on the invisible Wall of Force",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "variants": [
+      "Felkur quietly bore the greatest burden of all by maintaining concentration on the Wall of Force."
+    ],
+    "subjects": [
+      "Felkur"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Felkur",
+    "fact": "Felkur remained focused on maintaining concentration on a vital task despite the chaotic environment.",
+    "source_quote": "Felkur remains focused on maintaining concentration on a vital task despite the chaotic environment",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "Felkur remained focused on maintaining concentration on a vital task despite the chaotic environment."
+    ],
+    "subjects": [
+      "Felkur"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Felkur",
+    "fact": "Felkur was identified as a figure of legend, a phantom thief no one could name.",
+    "source_quote": "Felkur was now, technically, a figure of legend \u2014 a phantom thief no one could name",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small"
+    ],
+    "variants": [
+      "Felkur was identified as a figure of legend, a phantom thief no one could name.",
+      "Felkur was referred to as a phantom thief no one could name."
+    ],
+    "subjects": [
+      "Felkur"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "npc",
+    "subject": "Fire Giants",
+    "fact": "The giants were furious at the party's perceived insults to their master.",
+    "source_quote": "furious at the party's perceived insults to their master",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "variants": [
+      "The giants were furious at the party's perceived insults to their master."
+    ],
+    "subjects": [
+      "Fire Giants"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Fire Giants",
+    "fact": "The giants were out for blood.",
+    "source_quote": "The giants were furious and out for blood",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "variants": [
+      "The giants were out for blood."
+    ],
+    "subjects": [
+      "Fire Giants"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Mezzaloth",
+    "fact": "The Mezzaloth attacked Daein driven by sheer malice rather than strategy.",
+    "source_quote": "driven not by strategy but by sheer malice",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "variants": [
+      "The Mezzaloth attacked Daein driven by sheer malice rather than strategy."
+    ],
+    "subjects": [
+      "Mezzaloth"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Mezzaloth",
+    "fact": "The Mezzaloth realized it could no longer play the hero.",
+    "source_quote": "The Mezzaloth, realizing it could no longer play the hero",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "variants": [
+      "The Mezzaloth realized it could no longer play the hero."
+    ],
+    "subjects": [
+      "Mezzaloth"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Mezzaloth",
+    "fact": "The Mezzaloth teleported away in desperation.",
+    "source_quote": "It teleported away in desperation",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "variants": [
+      "The Mezzaloth teleported away in desperation."
+    ],
+    "subjects": [
+      "Mezzaloth"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Murssvayas Dhuurniv",
+    "fact": "Solom assured the party he would remain in contact through Murssvayas Dhuurniv.",
+    "source_quote": "assured them he would remain in contact through Murssvayas Dhuurniv",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small",
+      "sweep"
+    ],
+    "variants": [
+      "Solom assured the party he would remain in contact through Murssvayas Dhuurniv."
+    ],
+    "subjects": [
+      "Murssvayas Dhuurniv",
+      "Solom Ned'razak"
+    ],
+    "n_samples": 3
+  },
+  {
+    "type": "npc",
+    "subject": "Owlbear",
+    "fact": "The Owlbear was caught in the poisonous cloud and took damage.",
+    "source_quote": "caught in the poisonous cloud and took damage",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "The Owlbear was caught in the poisonous cloud and took damage."
+    ],
+    "subjects": [
+      "Owlbear"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Owlbear",
+    "fact": "The Owlbear was healed by Bramgrim.",
+    "source_quote": "before being healed by Bramgrim",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "The Owlbear was healed by Bramgrim."
+    ],
+    "subjects": [
+      "Owlbear"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Party",
+    "fact": "Everyone in the party managed to survive the fireball blast.",
+    "source_quote": "though everyone manages to survive the blast",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "Everyone in the party managed to survive the fireball blast."
+    ],
+    "subjects": [
+      "Party"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Party",
+    "fact": "The party celebrated making every critical roll when it mattered most.",
+    "source_quote": "the party celebrated making every critical roll when it mattered most",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "variants": [
+      "The party celebrated making every critical roll when it mattered most."
+    ],
+    "subjects": [
+      "Party"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Party",
+    "fact": "The party was left in disbelief by the giants missing every single strike.",
+    "source_quote": "leaving the entire party in disbelief",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "variants": [
+      "The party was left in disbelief by the giants missing every single strike."
+    ],
+    "subjects": [
+      "Party"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Party",
+    "fact": "The party was stunned by the improbable misses of the giants.",
+    "source_quote": "drew stunned silence from the party",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "variants": [
+      "The party was stunned by the improbable misses of the giants."
+    ],
+    "subjects": [
+      "Party"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Solom Ned'razak",
+    "fact": "Solom Ned'razak explained that the ritual would take ten days.",
+    "source_quote": "Solom Ned'razak explains that the ritual will take ten days",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "Solom Ned'razak explained that the ritual would take ten days."
+    ],
+    "subjects": [
+      "Solom Ned'razak"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Solom Ned'razak",
+    "fact": "Solom Ned'razak instructed the party to return to Hillsfar.",
+    "source_quote": "and instructs the party to return to Hillsfar",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "Solom Ned'razak instructed the party to return to Hillsfar."
+    ],
+    "subjects": [
+      "Solom Ned'razak"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Solom Ned'razak",
+    "fact": "Solom Ned'razak is a Drow Archmage who receives the party.",
+    "source_quote": "A Drow Archmage who receives the party upon their return to Sporedome",
+    "quote_verified": true,
+    "passes": [
+      "small",
+      "sweep"
+    ],
+    "variants": [
+      "Solom Ned'razak is a Drow Archmage who receives the party.",
+      "Solom Ned'razak is a Drow Archmage."
+    ],
+    "subjects": [
+      "Solom Ned'razak"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "npc",
+    "subject": "Solom Ned'razak",
+    "fact": "Solom Ned'razak reminded the party gravely that the battle was far from over.",
+    "source_quote": "reminded them gravely that while this had been a great victory, the battle was far from over",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "variants": [
+      "Solom Ned'razak reminded the party gravely that the battle was far from over."
+    ],
+    "subjects": [
+      "Solom Ned'razak"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Solom Ned'razak",
+    "fact": "Solom Ned'razak rushed out to greet the party upon their arrival in Sporedome.",
+    "source_quote": "Solom Ned'razak and Xaven Tanor'this rushed out to greet them",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "variants": [
+      "Solom Ned'razak rushed out to greet the party upon their arrival in Sporedome."
+    ],
+    "subjects": [
+      "Solom Ned'razak"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Solom Ned'razak",
+    "fact": "Solom Ned'razak rushed out to greet the party.",
+    "source_quote": "Solom Ned'razak and Xaven Tanor'this rushed out to greet them",
+    "quote_verified": true,
+    "passes": [
+      "small",
+      "sweep"
+    ],
+    "variants": [
+      "Solom Ned'razak rushed out to greet the party."
+    ],
+    "subjects": [
+      "Solom Ned'razak"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "npc",
+    "subject": "Solom Ned'razak",
+    "fact": "Solom Ned'razak stated he would remain in contact via Murssvayas Dhuurniv.",
+    "source_quote": "Solom Ned'razak states he will remain in contact via Murssvayas Dhuurniv",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "Solom Ned'razak stated he would remain in contact via Murssvayas Dhuurniv."
+    ],
+    "subjects": [
+      "Solom Ned'razak"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Solom Ned'razak",
+    "fact": "Solom explained that the ritual for Brandyr would take ten days to complete.",
+    "source_quote": "the process would take ten days to complete",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "variants": [
+      "Solom explained that the ritual for Brandyr would take ten days to complete."
+    ],
+    "subjects": [
+      "Solom Ned'razak"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Solom Ned'razak",
+    "fact": "Solom offered the party the option to return to Hillsfar during the ten-day wait.",
+    "source_quote": "they were given the option to return to Hillsfar",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "variants": [
+      "Solom offered the party the option to return to Hillsfar during the ten-day wait."
+    ],
+    "subjects": [
+      "Solom Ned'razak"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Solom Ned'razak",
+    "fact": "The party decided to stay in Sporedome instead of returning to Hillsfar.",
+    "source_quote": "they decided to stay in Sporedome instead",
+    "quote_verified": true,
+    "passes": [
+      "interiority",
+      "large"
+    ],
+    "variants": [
+      "The party decided to stay in Sporedome instead of returning to Hillsfar."
+    ],
+    "subjects": [
+      "Solom Ned'razak",
+      "Party"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "npc",
+    "subject": "Xaven Tanor'this",
+    "fact": "Xaven Tanor'this is a Drow Alchemist who greets the party alongside Solom Ned'razak.",
+    "source_quote": "A Drow Alchemist who greets the party alongside Solom Ned'razak",
+    "quote_verified": true,
+    "passes": [
+      "small",
+      "sweep"
+    ],
+    "variants": [
+      "Xaven Tanor'this is a Drow Alchemist who greets the party alongside Solom Ned'razak.",
+      "Xaven Tanor'this is a Drow Alchemist who greets the party."
+    ],
+    "subjects": [
+      "Xaven Tanor'this"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "npc",
+    "subject": "Xaven Tanor'this",
+    "fact": "Xaven Tanor'this rushed out to greet the party upon their arrival in Sporedome.",
+    "source_quote": "Solom Ned'razak and Xaven Tanor'this rushed out to greet them",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "variants": [
+      "Xaven Tanor'this rushed out to greet the party upon their arrival in Sporedome."
+    ],
+    "subjects": [
+      "Xaven Tanor'this"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Xaven Tanor'this",
+    "fact": "Xaven Tanor'this rushed out to greet the party.",
+    "source_quote": "Solom Ned'razak and Xaven Tanor'this rushed out to greet them",
+    "quote_verified": true,
+    "passes": [
+      "small",
+      "sweep"
+    ],
+    "variants": [
+      "Xaven Tanor'this rushed out to greet the party."
+    ],
+    "subjects": [
+      "Xaven Tanor'this"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "object",
+    "subject": "Brandyr",
+    "fact": "Brandyr is a Fire Giant captured by the party and handed over to Solom Ned'razak's Drow assistants.",
+    "source_quote": "captured Fire Giant, Brandyr",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "Brandyr is a Fire Giant captured by the party and handed over to Solom Ned'razak's Drow assistants."
+    ],
+    "subjects": [
+      "Brandyr"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Cloudkill",
+    "fact": "A poisonous cloud filled the area forcing everyone to make constitution saving throws.",
+    "source_quote": "forcing everyone to make constitution saving throws to resist the toxins",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "variants": [
+      "A poisonous cloud filled the area forcing everyone to make constitution saving throws."
+    ],
+    "subjects": [
+      "Cloudkill"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Oathbow",
+    "fact": "Akritas used her Oathbow against the Shield Guardian.",
+    "source_quote": "Akritas fires her Oathbow at the Shield Guardian",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "sweep"
+    ],
+    "variants": [
+      "Akritas used her Oathbow against the Shield Guardian.",
+      "Akritas fired her Oathbow at the Shield Guardian."
+    ],
+    "subjects": [
+      "Oathbow"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "object",
+    "subject": "Oathbow",
+    "fact": "The Oathbow dealt steady damage to the Shield Guardian.",
+    "source_quote": "dealing steady damage",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "variants": [
+      "The Oathbow dealt steady damage to the Shield Guardian."
+    ],
+    "subjects": [
+      "Oathbow"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Oathbow",
+    "fact": "The Oathbow was used by Akritas against the Shield Guardian.",
+    "source_quote": "used by Akritas to strike enemies from a distance",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "The Oathbow was used by Akritas against the Shield Guardian."
+    ],
+    "subjects": [
+      "Oathbow"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Spirit Guardians",
+    "fact": "Bramgrim's protective spirits dissolved into nothing when his concentration broke.",
+    "source_quote": "causing his protective spirits to dissolve into nothing",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "variants": [
+      "Bramgrim's protective spirits dissolved into nothing when his concentration broke."
+    ],
+    "subjects": [
+      "Spirit Guardians"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Spiritual Weapon",
+    "fact": "Bramgrim summoned a Spiritual Weapon, a floating spectral weapon, as a bonus action after his spirit guardians were lost.",
+    "source_quote": "A floating spectral weapon summoned by Bramgrim as a bonus action after his spirit guardians were lost",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "Bramgrim summoned a Spiritual Weapon, a floating spectral weapon, as a bonus action after his spirit guardians were lost."
+    ],
+    "subjects": [
+      "Spiritual Weapon"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Spiritual Weapon",
+    "fact": "Bramgrim summoned a floating spectral weapon to keep fighting.",
+    "source_quote": "summoning a floating spectral weapon to keep fighting",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "variants": [
+      "Bramgrim summoned a floating spectral weapon to keep fighting."
+    ],
+    "subjects": [
+      "Spiritual Weapon"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Trident",
+    "fact": "The Mezzaloth lashed out at Daein with a trident.",
+    "source_quote": "lashed out at Daein with its trident",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "variants": [
+      "The Mezzaloth lashed out at Daein with a trident."
+    ],
+    "subjects": [
+      "Trident"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Trident",
+    "fact": "The Mezzaloth used a trident to harass the party.",
+    "source_quote": "The cruel Yugoloth lashed out at Daein with its trident",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "The Mezzaloth used a trident to harass the party."
+    ],
+    "subjects": [
+      "Trident"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Trident",
+    "fact": "The Trident is the weapon wielded by the Mezzaloth.",
+    "source_quote": "The weapon wielded by the Mezzaloth",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "The Trident is the weapon wielded by the Mezzaloth."
+    ],
+    "subjects": [
+      "Trident"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Wall of Force",
+    "fact": "A Wall of Force acted as an invisible, indestructible barrier that protected the party for five rounds.",
+    "source_quote": "An invisible, indestructible barrier that protected the party for five rounds",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "A Wall of Force acted as an invisible, indestructible barrier that protected the party for five rounds."
+    ],
+    "subjects": [
+      "Wall of Force"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Wall of Force",
+    "fact": "Felkur maintained concentration on the invisible Wall of Force.",
+    "source_quote": "maintaining his concentration on the invisible Wall of Force",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "variants": [
+      "Felkur maintained concentration on the invisible Wall of Force."
+    ],
+    "subjects": [
+      "Wall of Force"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Wall of Force",
+    "fact": "The Wall of Force ceased to exist after being struck by the wand of disintegration.",
+    "source_quote": "simply ceased to exist",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "variants": [
+      "The Wall of Force ceased to exist after being struck by the wand of disintegration."
+    ],
+    "subjects": [
+      "Wall of Force"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Wall of Force",
+    "fact": "The Wall of Force stood between the party and the enemy forces for five brutal rounds.",
+    "source_quote": "barrier that had protected the party for five brutal rounds",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "variants": [
+      "The Wall of Force stood between the party and the enemy forces for five brutal rounds."
+    ],
+    "subjects": [
+      "Wall of Force"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Wand of Disintegration",
+    "fact": "A second Mezzaloth arrived carrying a wand crackling with disintegrating energy.",
+    "source_quote": "carrying a wand crackling with disintegrating energy",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "variants": [
+      "A second Mezzaloth arrived carrying a wand crackling with disintegrating energy."
+    ],
+    "subjects": [
+      "Wand of Disintegration"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "wand of disintegration",
+    "fact": "A second Mezzaloth pressed a wand crackling with disintegrating energy against the Wall of Force.",
+    "source_quote": "It pressed the wand against the Wall of Force",
+    "quote_verified": true,
+    "passes": [
+      "small",
+      "sweep"
+    ],
+    "variants": [
+      "A second Mezzaloth pressed a wand crackling with disintegrating energy against the Wall of Force.",
+      "The second Mezzaloth pressed the wand against the Wall of Force."
+    ],
+    "subjects": [
+      "wand of disintegration",
+      "Wand of Disintegration"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "object",
+    "subject": "Wand of Disintegration",
+    "fact": "The Wand of Disintegration was pressed against the Wall of Force and used to instantly destroy the barrier.",
+    "source_quote": "pressed against the Wall of Force and used to instantly destroy the barrier",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "The Wand of Disintegration was pressed against the Wall of Force and used to instantly destroy the barrier.",
+      "A wand of disintegration was used to destroy the Wall of Force."
+    ],
+    "subjects": [
+      "Wand of Disintegration",
+      "wand of disintegration"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Wand of Disintegration",
+    "fact": "The wand was crackling with disintegrating energy.",
+    "source_quote": "wand crackling with disintegrating energy",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "The wand was crackling with disintegrating energy."
+    ],
+    "subjects": [
+      "Wand of Disintegration"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Wand of Disintegration",
+    "fact": "The wand was pressed against the Wall of Force to destroy it.",
+    "source_quote": "pressed the wand against the Wall of Force",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "variants": [
+      "The wand was pressed against the Wall of Force to destroy it."
+    ],
+    "subjects": [
+      "Wand of Disintegration"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "spell",
+    "subject": "Cloudkill",
+    "fact": "The Mezzaloth cast Cloudkill which filled the area with poisonous yellow-green fog.",
+    "source_quote": "A Mezzaloth attempts to break the party's concentration on their spells but fails to hit Daein with its trident",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "The Mezzaloth cast Cloudkill which filled the area with poisonous yellow-green fog."
+    ],
+    "subjects": [
+      "Cloudkill"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "spell",
+    "subject": "Dispel Magic",
+    "fact": "The Mezzaloth attempted to dispel the Wall of Force but failed.",
+    "source_quote": "The Mezzaloth attempts to dispel the Wall of Force but fails",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "The Mezzaloth attempted to dispel the Wall of Force but failed."
+    ],
+    "subjects": [
+      "Dispel Magic"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "spell",
+    "subject": "Fireball",
+    "fact": "An Apprentice Arcanaloth unleashed a Fireball that engulfed the entire party.",
+    "source_quote": "An Apprentice Arcanaloth unleashes a fireball that engulfs the entire party",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "An Apprentice Arcanaloth unleashed a Fireball that engulfed the entire party."
+    ],
+    "subjects": [
+      "Fireball"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "spell",
+    "subject": "Fireball damage",
+    "fact": "The Fireball dealt sixteen points of fire damage to each party member.",
+    "source_quote": "dealing sixteen points of fire damage to each member",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "variants": [
+      "The Fireball dealt sixteen points of fire damage to each party member."
+    ],
+    "subjects": [
+      "Fireball damage"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "spell",
+    "subject": "Spirit Guardians",
+    "fact": "Bramgrim summoned Spirit Guardians which damaged the Mezzaloth before his concentration was broken.",
+    "source_quote": "Bramgrim's protective spirits to dissolve into nothing",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "Bramgrim summoned Spirit Guardians which damaged the Mezzaloth before his concentration was broken."
+    ],
+    "subjects": [
+      "Spirit Guardians"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "spell",
+    "subject": "Spiritual Weapon",
+    "fact": "Bramgrim summoned a Spiritual Weapon as a bonus action.",
+    "source_quote": "Bramgrim summons a spiritual weapon as a bonus action",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "Bramgrim summoned a Spiritual Weapon as a bonus action."
+    ],
+    "subjects": [
+      "Spiritual Weapon"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "spell",
+    "subject": "Wall of Force",
+    "fact": "The party held their ground behind the Wall of Force for five rounds.",
+    "source_quote": "The party holds their ground against a Mezzaloth and encroaching reinforcements while waiting for their escape window",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "The party held their ground behind the Wall of Force for five rounds."
+    ],
+    "subjects": [
+      "Wall of Force"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "spell",
+    "subject": "Word of Radiance",
+    "fact": "Bramgrim gained the Word of Radiance cantrip upon leveling up.",
+    "source_quote": "Bramgrim gaining advantage on concentration checks and the Word of Radiance cantrip",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "Bramgrim gained the Word of Radiance cantrip upon leveling up."
+    ],
+    "subjects": [
+      "Word of Radiance"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Felkur's device",
+    "fact": "Felkur plans to engineer a device to reshape his elemental attacks.",
+    "source_quote": "Felkur mused aloud about engineering a device that could reshape the very nature of his elemental attacks",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "variants": [
+      "Felkur plans to engineer a device to reshape his elemental attacks."
+    ],
+    "subjects": [
+      "Felkur's device"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "future battle",
+    "fact": "Solom reminded the party that while this was a great victory, the battle was far from over.",
+    "source_quote": "reminded them gravely that while this had been a great victory, the battle was far from over",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "Solom reminded the party that while this was a great victory, the battle was far from over."
+    ],
+    "subjects": [
+      "future battle"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Murssvayas Dhuurniv",
+    "fact": "Solom Ned'razak will remain in contact with the party through Murssvayas Dhuurniv.",
+    "source_quote": "he would remain in contact through Murssvayas Dhuurniv",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "variants": [
+      "Solom Ned'razak will remain in contact with the party through Murssvayas Dhuurniv."
+    ],
+    "subjects": [
+      "Murssvayas Dhuurniv"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Ritual duration",
+    "fact": "The ritual for Brandyr will take ten days to complete.",
+    "source_quote": "the process would take ten days to complete",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "variants": [
+      "The ritual for Brandyr will take ten days to complete."
+    ],
+    "subjects": [
+      "Ritual duration"
+    ],
+    "n_samples": 1
+  }
+]

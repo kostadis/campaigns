@@ -1,0 +1,4929 @@
+[
+  {
+    "type": "date",
+    "subject": "journey duration",
+    "fact": "The journey to the rogue's lair takes approximately ten days.",
+    "source_quote": "with Glor noting the journey will take approximately ten days",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "The journey to the rogue's lair takes approximately ten days."
+    ],
+    "subjects": [
+      "journey duration"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "date",
+    "subject": "Map of Phlan age",
+    "fact": "The Map of Phlan is approximately a year or two old.",
+    "source_quote": "approximately a year or two old",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "The Map of Phlan is approximately a year or two old."
+    ],
+    "subjects": [
+      "Map of Phlan age"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "date",
+    "subject": "May 25th, 2026",
+    "fact": "The session notes are dated May 25th, 2026.",
+    "source_quote": "Date: May 25th, 2026",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "The session notes are dated May 25th, 2026."
+    ],
+    "subjects": [
+      "May 25th, 2026"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The session takes place on May 25th, 2026.",
+    "source_quote": "Date: May 25th, 2026",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small",
+      "temporal"
+    ],
+    "variants": [
+      "The session takes place on May 25th, 2026.",
+      "The session occurs on May 25th, 2026.",
+      "The session date is May 25th, 2026."
+    ],
+    "subjects": [
+      "session date"
+    ],
+    "n_samples": 3
+  },
+  {
+    "type": "event",
+    "subject": "Akritas",
+    "fact": "Akritas realized they could have looked in the ledger.",
+    "source_quote": "She stops swirling the drink and goes, fuck. You're right. Or at the very least, we could have looked in the ledger",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "variants": [
+      "Akritas realized they could have looked in the ledger."
+    ],
+    "subjects": [
+      "Akritas"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "ammunition preparation",
+    "fact": "Felkur prepared specialized ice-infused ammunition.",
+    "source_quote": "Felkur prepared specialized ice-infused ammunition for the confrontation ahead",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "Felkur prepared specialized ice-infused ammunition."
+    ],
+    "subjects": [
+      "ammunition preparation"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Arcane Lock",
+    "fact": "An Arcane Lock is a powerful magical seal placed upon a door in the rogue's lair.",
+    "source_quote": "A powerful magical seal placed upon a door in the rogue's lair",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "An Arcane Lock is a powerful magical seal placed upon a door in the rogue's lair."
+    ],
+    "subjects": [
+      "Arcane Lock"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Arcane Lock bypass method",
+    "fact": "The Arcane Lock required a biological key \u2014 a brain placed in the nearby basin \u2014 to open.",
+    "source_quote": "and instead required a biological key \u2014 a brain placed in the nearby basin \u2014 to open.",
+    "quote_verified": true,
+    "passes": [
+      "small",
+      "sweep"
+    ],
+    "variants": [
+      "The Arcane Lock required a biological key \u2014 a brain placed in the nearby basin \u2014 to open."
+    ],
+    "subjects": [
+      "Arcane Lock bypass method",
+      "biological key requirement"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "event",
+    "subject": "Arcane Lock discovery",
+    "fact": "The party discovered the Arcane Lock could not be bypassed by conventional means.",
+    "source_quote": "The party discovered it could not be bypassed by conventional means",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small",
+      "sweep"
+    ],
+    "variants": [
+      "The party discovered the Arcane Lock could not be bypassed by conventional means."
+    ],
+    "subjects": [
+      "Arcane Lock discovery",
+      "Bypassing Arcane Lock",
+      "conventional bypass failure"
+    ],
+    "n_samples": 3
+  },
+  {
+    "type": "event",
+    "subject": "Arcane Lock immunity",
+    "fact": "The Arcane Lock renders the door immune to mechanical tampering.",
+    "source_quote": "rendering it immune to mechanical tampering",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "sweep"
+    ],
+    "variants": [
+      "The Arcane Lock renders the door immune to mechanical tampering."
+    ],
+    "subjects": [
+      "Arcane Lock immunity"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "event",
+    "subject": "Arcane Lock placement",
+    "fact": "A powerful magical seal named Arcane Lock was placed upon a door in the rogue's lair.",
+    "source_quote": "A powerful magical seal placed upon a door in the rogue's lair",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small"
+    ],
+    "variants": [
+      "A powerful magical seal named Arcane Lock was placed upon a door in the rogue's lair.",
+      "A powerful magical seal was placed upon a door in the rogue's lair."
+    ],
+    "subjects": [
+      "Arcane Lock placement"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "event",
+    "subject": "arrival at lair",
+    "fact": "The party discovers a gruesome scene upon entering the lair.",
+    "source_quote": "and discovers a gruesome scene",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "The party discovers a gruesome scene upon entering the lair."
+    ],
+    "subjects": [
+      "arrival at lair"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Arrizz's imprisonment",
+    "fact": "Arrizz is apparently imprisoned behind a door in the lair.",
+    "source_quote": "With Arrizz apparently imprisoned somewhere beyond the first door",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small"
+    ],
+    "variants": [
+      "Arrizz is apparently imprisoned behind a door in the lair.",
+      "Arrizz was apparently imprisoned behind one of the doors."
+    ],
+    "subjects": [
+      "Arrizz's imprisonment",
+      "Arrizz imprisonment"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "event",
+    "subject": "biological lock",
+    "fact": "The party deduced the Brain Basin serves as a macabre biological lock for a nearby arcanely sealed door.",
+    "source_quote": "The party deduced it serves as a macabre biological lock for a nearby arcanely sealed door",
+    "quote_verified": true,
+    "passes": [
+      "small",
+      "sweep"
+    ],
+    "variants": [
+      "The party deduced the Brain Basin serves as a macabre biological lock for a nearby arcanely sealed door.",
+      "The party deduced the basin serves as a macabre biological lock for a nearby arcanely sealed door."
+    ],
+    "subjects": [
+      "biological lock",
+      "Brain Basin deduction"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "event",
+    "subject": "Brain Basin operation",
+    "fact": "The basin requires an actual brain to be placed inside to open the door.",
+    "source_quote": "requiring an actual brain to be placed inside to open it.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "The basin requires an actual brain to be placed inside to open the door."
+    ],
+    "subjects": [
+      "Brain Basin operation"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "brain key requirement",
+    "fact": "The arcanely sealed door could only be opened by placing an actual brain inside the stone basin.",
+    "source_quote": "one that could only be opened by placing an actual brain inside it",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "The arcanely sealed door could only be opened by placing an actual brain inside the stone basin."
+    ],
+    "subjects": [
+      "brain key requirement"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "brain lock mechanism",
+    "fact": "The party concluded the stone basin served as a key to an arcanely sealed door requiring an actual brain.",
+    "source_quote": "the party concluded it served as the key to an arcanely sealed door \u2014 one that could only be opened by placing an actual brain inside it",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "The party concluded the stone basin served as a key to an arcanely sealed door requiring an actual brain."
+    ],
+    "subjects": [
+      "brain lock mechanism"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "brain removal",
+    "fact": "Four holes were bored into the crown of each skull and the brains were removed.",
+    "source_quote": "four holes bored into the crown of each skull, and the brains had been cleanly removed through them",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "Four holes were bored into the crown of each skull and the brains were removed."
+    ],
+    "subjects": [
+      "brain removal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "brain requirement",
+    "fact": "The lock requires an actual brain to be placed inside the basin to open the door.",
+    "source_quote": "requiring an actual brain to be placed inside to open it",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "The lock requires an actual brain to be placed inside the basin to open the door."
+    ],
+    "subjects": [
+      "brain requirement"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "cold door",
+    "fact": "The party investigated a second door that was noticeably colder than anything else in the lair.",
+    "source_quote": "The second door was noticeably colder than anything else in the lair",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "variants": [
+      "The party investigated a second door that was noticeably colder than anything else in the lair."
+    ],
+    "subjects": [
+      "cold door"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "deal struck",
+    "fact": "A deal was struck between the party and Glor.",
+    "source_quote": "A deal was struck, and Glor handed over a map",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small"
+    ],
+    "variants": [
+      "A deal was struck between the party and Glor."
+    ],
+    "subjects": [
+      "deal struck",
+      "deal with Glor"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "event",
+    "subject": "destruction of a rogue mind flayer",
+    "fact": "Glor requested the destruction of a rogue mind flayer as payment for his information.",
+    "source_quote": "That price was the destruction of a rogue mind flayer, one who had severed its connection to the elder brain's collective consciousness",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "Glor requested the destruction of a rogue mind flayer as payment for his information."
+    ],
+    "subjects": [
+      "destruction of a rogue mind flayer"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "door mechanism",
+    "fact": "The door could only be opened by placing an actual brain inside the basin.",
+    "source_quote": "one that could only be opened by placing an actual brain inside it",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "variants": [
+      "The door could only be opened by placing an actual brain inside the basin."
+    ],
+    "subjects": [
+      "door mechanism"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "door mechanism",
+    "fact": "The party concluded the stone basin served as the key to an arcanely sealed door.",
+    "source_quote": "the party concluded it served as the key to an arcanely sealed door",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small"
+    ],
+    "variants": [
+      "The party concluded the stone basin served as the key to an arcanely sealed door.",
+      "The party concluded the stone basin serves as the key to an arcanely sealed door."
+    ],
+    "subjects": [
+      "door mechanism"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "event",
+    "subject": "Faerzress exposure",
+    "fact": "The Faerzress grew so thick that a constant mental buzz settled over each party member.",
+    "source_quote": "Faerzress growing so thick in the final stretch that a constant mental buzz settled over each of them",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "The Faerzress grew so thick that a constant mental buzz settled over each party member."
+    ],
+    "subjects": [
+      "Faerzress exposure"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "finding corpses",
+    "fact": "The party finds four corpses seated around a table as if frozen in mid-conversation.",
+    "source_quote": "Upon entering the first chamber, the party finds four corpses \u2014 three humans and a drow \u2014 seated around a table as if frozen in mid-conversation",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "The party finds four corpses seated around a table as if frozen in mid-conversation."
+    ],
+    "subjects": [
+      "finding corpses"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "fire giant threat",
+    "fact": "Glor claimed the fire giants of Maerimydra had constructed devastating arcane siege weapons.",
+    "source_quote": "The fire giants of Maerimydra had constructed devastating arcane siege weapons",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "Glor claimed the fire giants of Maerimydra had constructed devastating arcane siege weapons."
+    ],
+    "subjects": [
+      "fire giant threat"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "FU money declaration",
+    "fact": "Daein declared his singular ambition to acquire what he called FU money.",
+    "source_quote": "Daein was skeptical, loudly declaring his singular ambition to acquire what he called \"FU money\"",
+    "quote_verified": false,
+    "passes": [
+      "small",
+      "sweep"
+    ],
+    "variants": [
+      "Daein declared his singular ambition to acquire what he called FU money.",
+      "Daein loudly declared his singular ambition to acquire 'FU money'."
+    ],
+    "subjects": [
+      "FU money declaration"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "event",
+    "subject": "Glor",
+    "fact": "Glor paused and reassessed the group before him.",
+    "source_quote": "Glor paused, reassessed the group before him",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "variants": [
+      "Glor paused and reassessed the group before him."
+    ],
+    "subjects": [
+      "Glor"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Glor's proposition",
+    "fact": "Glor offered information on how to disable the war engines without the perpetrators being identified, in exchange for a task the party must perform.",
+    "source_quote": "Glor offers information on how to disable these war engines without the perpetrators being identified, in exchange for a task the party must perform",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "Glor offered information on how to disable the war engines without the perpetrators being identified, in exchange for a task the party must perform."
+    ],
+    "subjects": [
+      "Glor's proposition"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "hearing voices",
+    "fact": "The party hears guttural voices shouting insults and a defiant voice responding in Undercommon.",
+    "source_quote": "The party hears guttural voices shouting insults and a defiant voice responding in Undercommon from behind a door to the northwest",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "The party hears guttural voices shouting insults and a defiant voice responding in Undercommon."
+    ],
+    "subjects": [
+      "hearing voices"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "investigating northeast door",
+    "fact": "The party investigates a second door to the northeast and finds it noticeably colder than the rest of the area.",
+    "source_quote": "The party investigates a second door to the northeast, finding it noticeably colder than the rest of the area",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "The party investigates a second door to the northeast and finds it noticeably colder than the rest of the area."
+    ],
+    "subjects": [
+      "investigating northeast door"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "journey duration",
+    "fact": "The journey to the rogue mind flayer's lair is estimated to take approximately ten days.",
+    "source_quote": "with the journey estimated to take approximately ten days",
+    "quote_verified": true,
+    "passes": [
+      "sweep",
+      "temporal"
+    ],
+    "variants": [
+      "The journey to the rogue mind flayer's lair is estimated to take approximately ten days.",
+      "The journey to the rogue mind flayer's lair takes ten days."
+    ],
+    "subjects": [
+      "journey duration",
+      "travel to Rogue's Lair duration",
+      "travel to rogue's lair duration"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "event",
+    "subject": "journey duration reiteration",
+    "fact": "The party travels for ten days to reach the destination.",
+    "source_quote": "The party travels for ten days",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "variants": [
+      "The party travels for ten days to reach the destination."
+    ],
+    "subjects": [
+      "journey duration reiteration"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "journey to the lair",
+    "fact": "The party travels for ten days through the Underdark to reach the rogue mind flayer's lair.",
+    "source_quote": "After a ten-day journey through the Underdark, the party enters the lair of the rogue mind flayer",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small",
+      "sweep"
+    ],
+    "variants": [
+      "The party travels for ten days through the Underdark to reach the rogue mind flayer's lair.",
+      "The party traveled for ten days through the Underdark to reach the rogue's lair."
+    ],
+    "subjects": [
+      "journey to the lair",
+      "journey to lair",
+      "Ten days of travel"
+    ],
+    "n_samples": 3
+  },
+  {
+    "type": "event",
+    "subject": "ledger realization",
+    "fact": "Akritas noted they had missed a golden opportunity by never reading the ledger from their previous heist.",
+    "source_quote": "they had missed a golden opportunity by never reading the ledger from their previous heist",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "Akritas noted they had missed a golden opportunity by never reading the ledger from their previous heist."
+    ],
+    "subjects": [
+      "ledger realization"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "map handover",
+    "fact": "Glor handed over a map.",
+    "source_quote": "Glor handed over a map",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "Glor handed over a map."
+    ],
+    "subjects": [
+      "map handover"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "mission acceptance",
+    "fact": "The party accepts the mission to eliminate the rogue mind flayer.",
+    "source_quote": "The party accepts the mission",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "The party accepts the mission to eliminate the rogue mind flayer."
+    ],
+    "subjects": [
+      "mission acceptance"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "mission agreement",
+    "fact": "The party agreed to attend a meeting to hear more about the threat involving Maerimydra.",
+    "source_quote": "The party agrees to attend a meeting to hear more about the threat involving Maerimydra",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "The party agreed to attend a meeting to hear more about the threat involving Maerimydra."
+    ],
+    "subjects": [
+      "mission agreement"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "negotiation with Glor",
+    "fact": "The party negotiates with Glor regarding a mission to eliminate a rogue member of his kind.",
+    "source_quote": "The party negotiates with Glor regarding a mission to eliminate a rogue member of his kind",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "The party negotiates with Glor regarding a mission to eliminate a rogue member of his kind."
+    ],
+    "subjects": [
+      "negotiation with Glor"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Opening the arcanely sealed door",
+    "fact": "The party discovered the door required a biological key \u2014 a brain placed in the nearby basin \u2014 to open.",
+    "source_quote": "and instead required a biological key \u2014 a brain placed in the nearby basin \u2014 to open",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "variants": [
+      "The party discovered the door required a biological key \u2014 a brain placed in the nearby basin \u2014 to open."
+    ],
+    "subjects": [
+      "Opening the arcanely sealed door"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "party agreement",
+    "fact": "The group agreed to attend the meeting.",
+    "source_quote": "Eventually, the group agreed",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "The group agreed to attend the meeting."
+    ],
+    "subjects": [
+      "party agreement"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "rest duration in Sporedome",
+    "fact": "The party enjoys a few days of rest in Sporedome.",
+    "source_quote": "The party enjoys a few days of rest in Sporedome",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "variants": [
+      "The party enjoys a few days of rest in Sporedome."
+    ],
+    "subjects": [
+      "rest duration in Sporedome"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "rogue thought",
+    "fact": "Glor seeks the destruction of a rogue thought, which is a mind flayer disconnected from the collective.",
+    "source_quote": "He seeks the destruction of a 'rogue thought' \u2014 a mind flayer disconnected from the collective",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "Glor seeks the destruction of a rogue thought, which is a mind flayer disconnected from the collective."
+    ],
+    "subjects": [
+      "rogue thought"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "room search",
+    "fact": "The party searches the room and finds various items including maps and parchments.",
+    "source_quote": "The party searches the room, finding detailed maps of Hillsfar, Phlan, and Mulmaster, along with drow rations, playing cards, empty scroll tubes, and crumpled parchments",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "The party searches the room and finds various items including maps and parchments."
+    ],
+    "subjects": [
+      "room search"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "session end",
+    "fact": "The party decides to stop for the session.",
+    "source_quote": "before deciding to stop for the session",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "The party decides to stop for the session."
+    ],
+    "subjects": [
+      "session end"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "strategic intelligence exchange",
+    "fact": "Glor offers strategic intelligence on disabling Maerimydra's arcane siege weapons in exchange for help.",
+    "source_quote": "and offers strategic intelligence on disabling Maerimydra's arcane siege weapons in exchange",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "Glor offers strategic intelligence on disabling Maerimydra's arcane siege weapons in exchange for help."
+    ],
+    "subjects": [
+      "strategic intelligence exchange"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "summoning",
+    "fact": "A messenger summoned Akritas on behalf of a coalition.",
+    "source_quote": "summon Akritas on behalf of a coalition of powerful factions",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "A messenger summoned Akritas on behalf of a coalition."
+    ],
+    "subjects": [
+      "summoning"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "targeted cities",
+    "fact": "The fire giants were preparing to unleash their weapons on Elventree and Hillsfar.",
+    "source_quote": "preparing to unleash them on the surface world, beginning with Elventree and Hillsfar",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "The fire giants were preparing to unleash their weapons on Elventree and Hillsfar."
+    ],
+    "subjects": [
+      "targeted cities"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "The Party",
+    "fact": "The party felt a constant mental buzz from the Faerzress as they approached the rogue's lair.",
+    "source_quote": "the Faerzress growing so thick in the final stretch that a constant mental buzz settled over each of them",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "variants": [
+      "The party felt a constant mental buzz from the Faerzress as they approached the rogue's lair."
+    ],
+    "subjects": [
+      "The Party"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "The Party",
+    "fact": "The party felt deeply and permanently unsettled by Bramgrim's naked sprint.",
+    "source_quote": "leaving the rest of the party deeply and permanently unsettled",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "variants": [
+      "The party felt deeply and permanently unsettled by Bramgrim's naked sprint."
+    ],
+    "subjects": [
+      "The Party"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "The Party",
+    "fact": "The party was given pause by the chill radiating from the second door.",
+    "source_quote": "The second door was noticeably colder than anything else in the lair, radiating a chill that gave the party pause",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "variants": [
+      "The party was given pause by the chill radiating from the second door."
+    ],
+    "subjects": [
+      "The Party"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "travel to lair",
+    "fact": "Ten days of travel through the Underdark brought the party to the rogue's lair.",
+    "source_quote": "Ten days of travel through the Underdark brought the party to the rogue's lair",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "Ten days of travel through the Underdark brought the party to the rogue's lair."
+    ],
+    "subjects": [
+      "travel to lair"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "victim discovery",
+    "fact": "Four bodies were arranged around a table in the lair.",
+    "source_quote": "four bodies \u2014 three human men and a drow woman \u2014 were arranged around a table",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "Four bodies were arranged around a table in the lair."
+    ],
+    "subjects": [
+      "victim discovery"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "allied factions count",
+    "fact": "Four factions requested the party's assistance: the Emerald Enclave, the Harpers, the Lords' Alliance, and the Order of the Gauntlet.",
+    "source_quote": "the Emerald Enclave, the Harpers, the Lords' Alliance, and the Order of the Gauntlet",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "variants": [
+      "Four factions requested the party's assistance: the Emerald Enclave, the Harpers, the Lords' Alliance, and the Order of the Gauntlet."
+    ],
+    "subjects": [
+      "allied factions count"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "elemental cults",
+    "fact": "Elemental cults attacked Mulmaster causing damage shown on the maps.",
+    "source_quote": "damage shown on the Mulmaster maps was caused by an attack by elemental cults",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "Elemental cults attacked Mulmaster causing damage shown on the maps."
+    ],
+    "subjects": [
+      "elemental cults"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "elemental cults",
+    "fact": "Felkur recognized the destruction on the Mulmaster maps as the work of elemental cults.",
+    "source_quote": "Felkur, drawing on his own history with Mulmaster, recognized the destruction as the work of elemental cults",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "sweep"
+    ],
+    "variants": [
+      "Felkur recognized the destruction on the Mulmaster maps as the work of elemental cults."
+    ],
+    "subjects": [
+      "elemental cults"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "faction",
+    "subject": "Emerald Enclave",
+    "fact": "A messenger from the Emerald Enclave arrived to inform Akritas of an urgent mission.",
+    "source_quote": "A messenger from the Emerald Enclave arrives to inform Akritas of an urgent mission",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small",
+      "sweep"
+    ],
+    "variants": [
+      "A messenger from the Emerald Enclave arrived to inform Akritas of an urgent mission.",
+      "A messenger from the Emerald Enclave arrived to summon Akritas."
+    ],
+    "subjects": [
+      "Emerald Enclave"
+    ],
+    "n_samples": 3
+  },
+  {
+    "type": "faction",
+    "subject": "Emerald Enclave",
+    "fact": "The Emerald Enclave requested the party's assistance regarding the situation in Maerimydra.",
+    "source_quote": "the Emerald Enclave... have requested their assistance",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "The Emerald Enclave requested the party's assistance regarding the situation in Maerimydra."
+    ],
+    "subjects": [
+      "Emerald Enclave"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "fire giants",
+    "fact": "Fire giants currently occupy the drow city of Maerimydra.",
+    "source_quote": "A drow city currently occupied by fire giants",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "Fire giants currently occupy the drow city of Maerimydra."
+    ],
+    "subjects": [
+      "fire giants"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "fire giants",
+    "fact": "Fire giants have built devastating arcane siege weapons in Maerimydra intended for use against the surface world.",
+    "source_quote": "the giants have built devastating arcane siege weapons there intended for use against the surface world",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small"
+    ],
+    "variants": [
+      "Fire giants have built devastating arcane siege weapons in Maerimydra intended for use against the surface world.",
+      "Fire giants of Maerimydra have constructed devastating arcane siege weapons."
+    ],
+    "subjects": [
+      "fire giants",
+      "Maerimydra"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "faction",
+    "subject": "giants of Maerimydra",
+    "fact": "The giants of Maerimydra have built devastating arcane siege weapons intended for use against the surface world.",
+    "source_quote": "the giants of Maerimydra have built devastating arcane siege weapons intended for use against the surface world",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "The giants of Maerimydra have built devastating arcane siege weapons intended for use against the surface world."
+    ],
+    "subjects": [
+      "giants of Maerimydra"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "green dragon",
+    "fact": "A green dragon took the city of Phlan by force.",
+    "source_quote": "a green dragon that took the city by force",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "A green dragon took the city of Phlan by force."
+    ],
+    "subjects": [
+      "green dragon"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Harper",
+    "fact": "The Harpers are one of the powerful factions in the coalition summoning the party.",
+    "source_quote": "a coalition of powerful factions \u2014 the Emerald Enclave, the Harpers, the Lords' Alliance, and the Order of the Gauntlet",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "The Harpers are one of the powerful factions in the coalition summoning the party."
+    ],
+    "subjects": [
+      "Harper"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Harper",
+    "fact": "The Harpers are part of a coalition of powerful factions.",
+    "source_quote": "a coalition of powerful factions \u2014 the Emerald Enclave, the Harpers, the Lords' Alliance, and the Order of the Gauntlet",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "The Harpers are part of a coalition of powerful factions."
+    ],
+    "subjects": [
+      "Harper"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Harpers",
+    "fact": "The Harpers are part of a coalition summoning Akritas.",
+    "source_quote": "a coalition of powerful factions \u2014 the Emerald Enclave, the Harpers, the Lords' Alliance, and the Order of the Gauntlet",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "variants": [
+      "The Harpers are part of a coalition summoning Akritas."
+    ],
+    "subjects": [
+      "Harpers"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Harpers",
+    "fact": "The Harpers requested the party's assistance regarding the situation in Maerimydra.",
+    "source_quote": "Harpers... have requested their assistance",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "The Harpers requested the party's assistance regarding the situation in Maerimydra."
+    ],
+    "subjects": [
+      "Harpers"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Lords' Alliance",
+    "fact": "The Lords' Alliance is part of a coalition of powerful factions.",
+    "source_quote": "a coalition of powerful factions \u2014 the Emerald Enclave, the Harpers, the Lords' Alliance, and the Order of the Gauntlet",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "The Lords' Alliance is part of a coalition of powerful factions."
+    ],
+    "subjects": [
+      "Lords' Alliance"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Lords' Alliance",
+    "fact": "The Lords' Alliance is part of a coalition summoning Akritas.",
+    "source_quote": "a coalition of powerful factions \u2014 the Emerald Enclave, the Harpers, the Lords' Alliance, and the Order of the Gauntlet",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "variants": [
+      "The Lords' Alliance is part of a coalition summoning Akritas."
+    ],
+    "subjects": [
+      "Lords' Alliance"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Lords' Alliance",
+    "fact": "The Lords' Alliance is part of the coalition requesting the party's assistance.",
+    "source_quote": "a coalition of powerful factions \u2014 the Emerald Enclave, the Harpers, the Lords' Alliance, and the Order of the Gauntlet",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "The Lords' Alliance is part of the coalition requesting the party's assistance."
+    ],
+    "subjects": [
+      "Lords' Alliance"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Lords' Alliance",
+    "fact": "The Lords' Alliance requested the party's assistance regarding the situation in Maerimydra.",
+    "source_quote": "Lords' Alliance... have requested their assistance",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "The Lords' Alliance requested the party's assistance regarding the situation in Maerimydra."
+    ],
+    "subjects": [
+      "Lords' Alliance"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Order of the Gauntlet",
+    "fact": "The Order of the Gauntlet is part of a coalition of powerful factions.",
+    "source_quote": "a coalition of powerful factions \u2014 the Emerald Enclave, the Harpers, the Lords' Alliance, and the Order of the Gauntlet",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "The Order of the Gauntlet is part of a coalition of powerful factions."
+    ],
+    "subjects": [
+      "Order of the Gauntlet"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Order of the Gauntlet",
+    "fact": "The Order of the Gauntlet is part of a coalition summoning Akritas.",
+    "source_quote": "a coalition of powerful factions \u2014 the Emerald Enclave, the Harpers, the Lords' Alliance, and the Order of the Gauntlet",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "variants": [
+      "The Order of the Gauntlet is part of a coalition summoning Akritas."
+    ],
+    "subjects": [
+      "Order of the Gauntlet"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Order of the Gauntlet",
+    "fact": "The Order of the Gauntlet is part of the coalition requesting the party's assistance.",
+    "source_quote": "a coalition of powerful factions \u2014 the Emerald Enclave, the Harpers, the Lords' Alliance, and the Order of the Gauntlet",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "The Order of the Gauntlet is part of the coalition requesting the party's assistance."
+    ],
+    "subjects": [
+      "Order of the Gauntlet"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Order of the Gauntlet",
+    "fact": "The Order of the Gauntlet requested the party's assistance regarding the situation in Maerimydra.",
+    "source_quote": "Order of the Gauntlet have requested their assistance",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "The Order of the Gauntlet requested the party's assistance regarding the situation in Maerimydra."
+    ],
+    "subjects": [
+      "Order of the Gauntlet"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Order of the Gauntlet",
+    "fact": "The Order of the Gauntlet was involved in recommending the party for the task of eliminating the rogue mind flayer.",
+    "source_quote": "the Order of the Gauntlet was involved in recommending them for this task",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "The Order of the Gauntlet was involved in recommending the party for the task of eliminating the rogue mind flayer."
+    ],
+    "subjects": [
+      "Order of the Gauntlet"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Red Blooms",
+    "fact": "Crumbled parchments outlined mercantile agreements between an unnamed drow outpost and the Red Blooms.",
+    "source_quote": "crumpled parchments outlining mercantile agreements between an unnamed drow outpost and a group called the Red Blooms",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "Crumbled parchments outlined mercantile agreements between an unnamed drow outpost and the Red Blooms.",
+      "Crumbled parchments outline mercantile agreements between an unnamed drow outpost and the Red Blooms."
+    ],
+    "subjects": [
+      "Red Blooms"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Red Blooms",
+    "fact": "The Red Blooms is a group that entered mercantile agreements with an unnamed drow outpost.",
+    "source_quote": "mercantile agreements between an unnamed drow outpost and a group called the Red Blooms",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "The Red Blooms is a group that entered mercantile agreements with an unnamed drow outpost."
+    ],
+    "subjects": [
+      "Red Blooms"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Ryxyg",
+    "fact": "The Ryxyg is an illithid encampment located several miles below Sporedome.",
+    "source_quote": "representative of the Ryxyg illithid encampment located several miles below Sporedome",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "The Ryxyg is an illithid encampment located several miles below Sporedome."
+    ],
+    "subjects": [
+      "Ryxyg"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Ryxyg colony",
+    "fact": "The Ryxyg colony is a mind flayer encampment mentioned by Glor.",
+    "source_quote": "Mind Flayer from the Ryxyg encampment",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "The Ryxyg colony is a mind flayer encampment mentioned by Glor."
+    ],
+    "subjects": [
+      "Ryxyg colony"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Ryxyg illithid encampment",
+    "fact": "Glor claimed his community chose peaceful cohabitation over enslavement and conquest.",
+    "source_quote": "his community had chosen peaceful cohabitation with other Underdark species over the enslavement and conquest typical of his kind",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "Glor claimed his community chose peaceful cohabitation over enslavement and conquest."
+    ],
+    "subjects": [
+      "Ryxyg illithid encampment"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Ryxyg illithid encampment",
+    "fact": "Glor is a representative of the Ryxyg illithid encampment.",
+    "source_quote": "a representative of the Ryxyg illithid encampment located several miles below Sporedome",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small"
+    ],
+    "variants": [
+      "Glor is a representative of the Ryxyg illithid encampment."
+    ],
+    "subjects": [
+      "Ryxyg illithid encampment",
+      "Ryxyg"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "location",
+    "subject": "dimly lit chamber",
+    "fact": "The party pushed through the entrance into a dimly lit chamber in the rogue's lair.",
+    "source_quote": "the group pushed through the entrance into a dimly lit chamber",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "sweep"
+    ],
+    "variants": [
+      "The party pushed through the entrance into a dimly lit chamber in the rogue's lair.",
+      "The party entered a dimly lit chamber in the rogue's lair."
+    ],
+    "subjects": [
+      "dimly lit chamber",
+      "The Rogue Thought's Lair"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "location",
+    "subject": "doors count in lair",
+    "fact": "Two other doors led deeper into the lair besides the entrance.",
+    "source_quote": "Two other doors led deeper into the lair",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "variants": [
+      "Two other doors led deeper into the lair besides the entrance."
+    ],
+    "subjects": [
+      "doors count in lair"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Elventree",
+    "fact": "Elventree is a surface location targeted by the fire giants' siege weapons.",
+    "source_quote": "preparing to unleash them on the surface world, beginning with Elventree and Hillsfar",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "sweep"
+    ],
+    "variants": [
+      "Elventree is a surface location targeted by the fire giants' siege weapons.",
+      "Elventree is a target for the fire giants' siege weapons."
+    ],
+    "subjects": [
+      "Elventree"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "location",
+    "subject": "Faerzress region",
+    "fact": "The rogue mind flayer is hiding in a lair deep within a region saturated with Faerzress.",
+    "source_quote": "hiding in a lair deep within a region saturated with Faerzress, a magical energy that weakened psionic and arcane abilities alike",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "The rogue mind flayer is hiding in a lair deep within a region saturated with Faerzress."
+    ],
+    "subjects": [
+      "Faerzress region"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "first chamber of the rogue's lair",
+    "fact": "A stone basin was found in the first chamber of the rogue's lair.",
+    "source_quote": "A stone basin found in the first chamber of the rogue's lair",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "A stone basin was found in the first chamber of the rogue's lair."
+    ],
+    "subjects": [
+      "first chamber of the rogue's lair"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Hillsfar",
+    "fact": "A highly detailed and large map showing every street, building, and piece of infrastructure within the city of Hillsfar was found in the rogue's lair.",
+    "source_quote": "A highly detailed and large map found on the table in the rogue's lair, showing every street, building, and piece of infrastructure within the city of Hillsfar",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "A highly detailed and large map showing every street, building, and piece of infrastructure within the city of Hillsfar was found in the rogue's lair."
+    ],
+    "subjects": [
+      "Hillsfar"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Hillsfar",
+    "fact": "Hillsfar is a surface location targeted by the fire giants' siege weapons.",
+    "source_quote": "preparing to unleash them on the surface world, beginning with Elventree and Hillsfar",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "sweep"
+    ],
+    "variants": [
+      "Hillsfar is a surface location targeted by the fire giants' siege weapons.",
+      "Hillsfar is a target for the fire giants' siege weapons."
+    ],
+    "subjects": [
+      "Hillsfar"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "location",
+    "subject": "holes in skulls count",
+    "fact": "Four holes were bored into the crown of each skull of the victims.",
+    "source_quote": "four holes bored into the crown of each skull",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "variants": [
+      "Four holes were bored into the crown of each skull of the victims."
+    ],
+    "subjects": [
+      "holes in skulls count"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "hollowed-out dead mushroom",
+    "fact": "The interior of the mushroom dwelling contained stools, a low table, and a desk.",
+    "source_quote": "its interior furnished with little more than stools, a low table, and a desk",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "The interior of the mushroom dwelling contained stools, a low table, and a desk."
+    ],
+    "subjects": [
+      "hollowed-out dead mushroom"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Hollowed-out Mushroom Dwelling",
+    "fact": "The Hollowed-out Mushroom Dwelling is a mostly stable, dead mushroom roughly the size of a small house used as a neutral meeting place.",
+    "source_quote": "A mostly stable, dead mushroom roughly the size of a small house used as a neutral meeting place",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "The Hollowed-out Mushroom Dwelling is a mostly stable, dead mushroom roughly the size of a small house used as a neutral meeting place."
+    ],
+    "subjects": [
+      "Hollowed-out Mushroom Dwelling"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Hollowed-out Mushroom Dwelling",
+    "fact": "The interior of the Hollowed-out Mushroom Dwelling contains basic furniture including stools, a low table, and a desk.",
+    "source_quote": "The interior contains basic furniture including stools, a low table, and a desk",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "The interior of the Hollowed-out Mushroom Dwelling contains basic furniture including stools, a low table, and a desk."
+    ],
+    "subjects": [
+      "Hollowed-out Mushroom Dwelling"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "hollowed-out mushroom dwelling",
+    "fact": "The party entered a hollowed-out mushroom dwelling to meet a representative arranged by the Emerald Enclave.",
+    "source_quote": "The party enters a hollowed-out mushroom dwelling to meet a representative arranged by the Emerald Enclave",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "The party entered a hollowed-out mushroom dwelling to meet a representative arranged by the Emerald Enclave."
+    ],
+    "subjects": [
+      "hollowed-out mushroom dwelling"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "locked door in the rogue mind flayer's lair",
+    "fact": "Arrizz was shouting from behind a locked door deep inside the rogue mind flayer's lair.",
+    "source_quote": "behind a locked door deep inside the rogue mind flayer's lair",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "Arrizz was shouting from behind a locked door deep inside the rogue mind flayer's lair."
+    ],
+    "subjects": [
+      "locked door in the rogue mind flayer's lair"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Maerimydra",
+    "fact": "Fire giants of Maerimydra have constructed devastating arcane siege weapons.",
+    "source_quote": "The fire giants of Maerimydra had constructed devastating arcane siege weapons",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "Fire giants of Maerimydra have constructed devastating arcane siege weapons."
+    ],
+    "subjects": [
+      "Maerimydra"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Maerimydra",
+    "fact": "Maerimydra is a drow city currently occupied by fire giants with demonic ties.",
+    "source_quote": "A drow city currently occupied by fire giants with demonic ties",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "Maerimydra is a drow city currently occupied by fire giants with demonic ties."
+    ],
+    "subjects": [
+      "Maerimydra"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "maps found count",
+    "fact": "Detailed maps of three cities were found: Hillsfar, Phlan, and two maps of Mulmaster.",
+    "source_quote": "detailed maps of Hillsfar, Phlan, and two maps of Mulmaster",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "variants": [
+      "Detailed maps of three cities were found: Hillsfar, Phlan, and two maps of Mulmaster."
+    ],
+    "subjects": [
+      "maps found count"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "meeting place",
+    "fact": "The meeting took place inside a hollowed-out dead mushroom roughly the size of a small house.",
+    "source_quote": "inside a hollowed-out dead mushroom roughly the size of a small house",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small",
+      "sweep",
+      "temporal"
+    ],
+    "variants": [
+      "The meeting took place inside a hollowed-out dead mushroom roughly the size of a small house."
+    ],
+    "subjects": [
+      "meeting place",
+      "Hollowed-out Mushroom Dwelling",
+      "hollowed-out dead mushroom",
+      "meeting place size"
+    ],
+    "n_samples": 4
+  },
+  {
+    "type": "location",
+    "subject": "Mulmaster",
+    "fact": "Detailed maps of Mulmaster were found on the table in the rogue's lair.",
+    "source_quote": "finding detailed maps of Hillsfar, Phlan, and Mulmaster",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "Detailed maps of Mulmaster were found on the table in the rogue's lair.",
+      "Two maps of Mulmaster were found in the rogue's lair."
+    ],
+    "subjects": [
+      "Mulmaster",
+      "rogue's lair"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Phlan",
+    "fact": "A detailed map of the town of Phlan approximately a year or two old was found in the rogue's lair.",
+    "source_quote": "A detailed map of the town of Phlan found in the rogue's lair, approximately a year or two old",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "A detailed map of the town of Phlan approximately a year or two old was found in the rogue's lair."
+    ],
+    "subjects": [
+      "Phlan"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Phlan",
+    "fact": "Phlan is a city now encased in a dome of magical brambles by a green dragon.",
+    "source_quote": "Phlan \u2014 a city now encased in a dome of magical brambles by a green dragon",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "sweep"
+    ],
+    "variants": [
+      "Phlan is a city now encased in a dome of magical brambles by a green dragon."
+    ],
+    "subjects": [
+      "Phlan"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "location",
+    "subject": "rogue mind flayer lair",
+    "fact": "The party arrived at the rogue mind flayer's lair.",
+    "source_quote": "brought the party to the rogue's lair",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "The party arrived at the rogue mind flayer's lair."
+    ],
+    "subjects": [
+      "rogue mind flayer lair"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "rogue's lair",
+    "fact": "The party discovered that the arcanely locked door in the rogue's lair can only be opened by placing a brain into a basin carved in the shape of the underside of a human skull.",
+    "source_quote": "The party discovers that the arcanely locked door in the rogue's lair can only be opened by placing a brain into a basin carved in the shape of the underside of a human skull",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "The party discovered that the arcanely locked door in the rogue's lair can only be opened by placing a brain into a basin carved in the shape of the underside of a human skull."
+    ],
+    "subjects": [
+      "rogue's lair"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Ryxyg",
+    "fact": "Ryxyg is known for engaging in peaceful trade with Myconids.",
+    "source_quote": "known for engaging in peaceful trade with Myconids",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "Ryxyg is known for engaging in peaceful trade with Myconids."
+    ],
+    "subjects": [
+      "Ryxyg"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Ryxyg",
+    "fact": "Ryxyg is the home community of the mind flayer Glor.",
+    "source_quote": "Home community of the mind flayer Glor",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "Ryxyg is the home community of the mind flayer Glor."
+    ],
+    "subjects": [
+      "Ryxyg"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Ryxyg distance from Sporedome",
+    "fact": "The Ryxyg illithid encampment is located several miles below Sporedome.",
+    "source_quote": "An illithid encampment located several miles below Sporedome",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small",
+      "temporal"
+    ],
+    "variants": [
+      "The Ryxyg illithid encampment is located several miles below Sporedome.",
+      "Ryxyg is an illithid encampment located several miles below Sporedome.",
+      "The Ryxyg encampment is located several miles below Sporedome."
+    ],
+    "subjects": [
+      "Ryxyg distance from Sporedome",
+      "Ryxyg"
+    ],
+    "n_samples": 3
+  },
+  {
+    "type": "location",
+    "subject": "second door",
+    "fact": "The second door was noticeably colder than anything else in the lair.",
+    "source_quote": "The second door was noticeably colder than anything else in the lair",
+    "quote_verified": true,
+    "passes": [
+      "small",
+      "sweep"
+    ],
+    "variants": [
+      "The second door was noticeably colder than anything else in the lair.",
+      "A second door in the lair was noticeably colder than anything else."
+    ],
+    "subjects": [
+      "second door"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "location",
+    "subject": "Sporedome",
+    "fact": "Sporedome is a luminous fungal expanse in the Underdark where the party rested.",
+    "source_quote": "deep within Sporedome, the luminous fungal expanse of the Underdark",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "Sporedome is a luminous fungal expanse in the Underdark where the party rested."
+    ],
+    "subjects": [
+      "Sporedome"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Sporedome",
+    "fact": "Sporedome is a vibrant fungal environment in the Underdark filled with diverse and hallucinogenic mushrooms.",
+    "source_quote": "A vibrant fungal environment in the Underdark filled with diverse and hallucinogenic mushrooms",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "Sporedome is a vibrant fungal environment in the Underdark filled with diverse and hallucinogenic mushrooms.",
+      "Sporedome is a luminous fungal expanse of the Underdark."
+    ],
+    "subjects": [
+      "Sporedome"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Sporedome",
+    "fact": "The party rested and established a temporary distillery in Sporedome.",
+    "source_quote": "where the party rested and established a temporary distillery",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "The party rested and established a temporary distillery in Sporedome."
+    ],
+    "subjects": [
+      "Sporedome"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Sporedome",
+    "fact": "The party settled into a stretch of rest deep within Sporedome.",
+    "source_quote": "deep within Sporedome",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small"
+    ],
+    "variants": [
+      "The party settled into a stretch of rest deep within Sporedome."
+    ],
+    "subjects": [
+      "Sporedome"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "location",
+    "subject": "Sporedome",
+    "fact": "The party spent a few days of rest in Sporedome.",
+    "source_quote": "The party enjoys a few days of rest in Sporedome",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "The party spent a few days of rest in Sporedome."
+    ],
+    "subjects": [
+      "Sporedome"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "The Rogue Thought's Lair",
+    "fact": "The Rogue Thought's Lair contains a brain-shaped basin lock.",
+    "source_quote": "a brain-shaped basin lock",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "The Rogue Thought's Lair contains a brain-shaped basin lock."
+    ],
+    "subjects": [
+      "The Rogue Thought's Lair"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "The Rogue Thought's Lair",
+    "fact": "The Rogue Thought's Lair contains corpses with their brains removed.",
+    "source_quote": "corpses with their brains removed",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "The Rogue Thought's Lair contains corpses with their brains removed."
+    ],
+    "subjects": [
+      "The Rogue Thought's Lair"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "The Rogue Thought's Lair",
+    "fact": "The Rogue Thought's Lair features chambers with pools of glowing liquid.",
+    "source_quote": "Features chambers with pools of glowing liquid",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "The Rogue Thought's Lair features chambers with pools of glowing liquid."
+    ],
+    "subjects": [
+      "The Rogue Thought's Lair"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "The Rogue Thought's Lair",
+    "fact": "The Rogue Thought's Lair has doors of varying temperatures.",
+    "source_quote": "and doors of varying temperatures",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "The Rogue Thought's Lair has doors of varying temperatures."
+    ],
+    "subjects": [
+      "The Rogue Thought's Lair"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "The Rogue Thought's Lair",
+    "fact": "The Rogue Thought's Lair is a dark, foreboding complex deep in the Underdark heavily permeated by Faerzress.",
+    "source_quote": "A dark, foreboding complex deep in the Underdark, heavily permeated by Faerzress",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "The Rogue Thought's Lair is a dark, foreboding complex deep in the Underdark heavily permeated by Faerzress."
+    ],
+    "subjects": [
+      "The Rogue Thought's Lair"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "The Rogue Thought's Lair",
+    "fact": "The Rogue Thought's Lair is a dark, foreboding complex deep in the Underdark.",
+    "source_quote": "A dark, foreboding complex deep in the Underdark, heavily permeated by Faerzress",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "The Rogue Thought's Lair is a dark, foreboding complex deep in the Underdark."
+    ],
+    "subjects": [
+      "The Rogue Thought's Lair"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "The Rogue Thought's Lair",
+    "fact": "The basin serves as a macabre locking mechanism requiring a brain to open.",
+    "source_quote": "which they deduce serves as a macabre locking mechanism requiring a brain to open",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "The basin serves as a macabre locking mechanism requiring a brain to open."
+    ],
+    "subjects": [
+      "The Rogue Thought's Lair"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "The Rogue Thought's Lair",
+    "fact": "The party discovered an arcanely locked door in the first chamber.",
+    "source_quote": "The party discovers an arcanely locked door",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "The party discovered an arcanely locked door in the first chamber."
+    ],
+    "subjects": [
+      "The Rogue Thought's Lair"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "The Rogue Thought's Lair",
+    "fact": "The party found a basin carved to look like the underside of a human brain in the first chamber.",
+    "source_quote": "and a basin carved to look like the underside of a human brain",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "The party found a basin carved to look like the underside of a human brain in the first chamber."
+    ],
+    "subjects": [
+      "The Rogue Thought's Lair"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "The Rogue Thought's Lair",
+    "fact": "The party heard guttural voices shouting insults from behind a door to the northwest.",
+    "source_quote": "The party hears guttural voices shouting insults and a defiant voice responding in Undercommon from behind a door to the northwest",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "The party heard guttural voices shouting insults from behind a door to the northwest."
+    ],
+    "subjects": [
+      "The Rogue Thought's Lair"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "The Rogue Thought's Lair",
+    "fact": "The party investigated a second door to the northeast which was noticeably colder than the rest of the area.",
+    "source_quote": "The party investigates a second door to the northeast, finding it noticeably colder than the rest of the area",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "The party investigated a second door to the northeast which was noticeably colder than the rest of the area."
+    ],
+    "subjects": [
+      "The Rogue Thought's Lair"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "The Thicket",
+    "fact": "The Thicket is a dense dome of thick brambles and briars erected around the city of Phlan.",
+    "source_quote": "It depicts 'The Thicket,' a dense dome of thick brambles and briars erected around the city",
+    "quote_verified": true,
+    "passes": [
+      "small",
+      "sweep"
+    ],
+    "variants": [
+      "The Thicket is a dense dome of thick brambles and briars erected around the city of Phlan."
+    ],
+    "subjects": [
+      "The Thicket"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "monster",
+    "subject": "brainless corpses",
+    "fact": "The party found four brainless corpses.",
+    "source_quote": "finding four brainless corpses",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "The party found four brainless corpses."
+    ],
+    "subjects": [
+      "brainless corpses"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "corpses count in lair",
+    "fact": "Four bodies were found arranged around a table in the rogue's lair.",
+    "source_quote": "four bodies",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "variants": [
+      "Four bodies were found arranged around a table in the rogue's lair."
+    ],
+    "subjects": [
+      "corpses count in lair"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "drow corpse count",
+    "fact": "One of the four bodies found in the lair was a drow woman.",
+    "source_quote": "a drow woman",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "variants": [
+      "One of the four bodies found in the lair was a drow woman."
+    ],
+    "subjects": [
+      "drow corpse count"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Glor",
+    "fact": "Glor revealed himself to be a mind flayer.",
+    "source_quote": "the party came to understand they were speaking with a mind flayer",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "variants": [
+      "Glor revealed himself to be a mind flayer."
+    ],
+    "subjects": [
+      "Glor"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "human corpses count",
+    "fact": "Three of the four bodies found in the lair were human men.",
+    "source_quote": "three human men",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "variants": [
+      "Three of the four bodies found in the lair were human men."
+    ],
+    "subjects": [
+      "human corpses count"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "mind flayer",
+    "fact": "Four holes were bored into the crown of each skull of the dead bodies.",
+    "source_quote": "four holes bored into the crown of each skull",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "variants": [
+      "Four holes were bored into the crown of each skull of the dead bodies."
+    ],
+    "subjects": [
+      "mind flayer"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "mind flayer",
+    "fact": "The brains of the dead bodies had been cleanly removed.",
+    "source_quote": "the brains had been cleanly removed through them",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "variants": [
+      "The brains of the dead bodies had been cleanly removed."
+    ],
+    "subjects": [
+      "mind flayer"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "mind flayer",
+    "fact": "The party concluded that whatever lived in the lair was a mind flayer based on the bodies.",
+    "source_quote": "Whatever lived here was unmistakably a mind flayer",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "The party concluded that whatever lived in the lair was a mind flayer based on the bodies."
+    ],
+    "subjects": [
+      "mind flayer"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "mind flayer",
+    "fact": "The party found four bodies with brains removed, indicating a mind flayer was present.",
+    "source_quote": "Whatever lived here was unmistakably a mind flayer",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "The party found four bodies with brains removed, indicating a mind flayer was present."
+    ],
+    "subjects": [
+      "mind flayer"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Myconids",
+    "fact": "The Ryxyg community engages in peaceful trade with Myconids.",
+    "source_quote": "known for engaging in peaceful trade with Myconids",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "The Ryxyg community engages in peaceful trade with Myconids."
+    ],
+    "subjects": [
+      "Myconids"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "rogue mind flayer",
+    "fact": "Glor explains the nature of mind flayer society and the danger posed by a rogue thought.",
+    "source_quote": "Glor explains the nature of mind flayer society and the danger posed by a 'rogue thought' \u2014 a mind flayer disconnected from the elder brain's collective consciousness",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "Glor explains the nature of mind flayer society and the danger posed by a rogue thought."
+    ],
+    "subjects": [
+      "rogue mind flayer"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "rogue mind flayer",
+    "fact": "Glor requested the destruction of a rogue mind flayer that severed its connection to the elder brain.",
+    "source_quote": "That price was the destruction of a rogue mind flayer, one who had severed its connection to the elder brain's collective consciousness",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "variants": [
+      "Glor requested the destruction of a rogue mind flayer that severed its connection to the elder brain."
+    ],
+    "subjects": [
+      "rogue mind flayer"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "rogue mind flayer",
+    "fact": "The party found four corpses with holes bored into each skull and complete removal of their brains consistent with mind flayer activity.",
+    "source_quote": "Investigation of the bodies reveals four holes bored into each skull and the complete removal of their brains, consistent with mind flayer activity",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "The party found four corpses with holes bored into each skull and complete removal of their brains consistent with mind flayer activity."
+    ],
+    "subjects": [
+      "rogue mind flayer"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "rogue mind flayer",
+    "fact": "The rogue mind flayer is hiding in a lair deep within a region saturated with Faerzress.",
+    "source_quote": "Glor explains that the rogue is hiding in a lair permeated by Faerzress",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small"
+    ],
+    "variants": [
+      "The rogue mind flayer is hiding in a lair deep within a region saturated with Faerzress.",
+      "The rogue mind flayer is hiding in a lair permeated by Faerzress."
+    ],
+    "subjects": [
+      "rogue mind flayer"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "npc",
+    "subject": "Akritas",
+    "fact": "Akritas assisted Felkur in refining distillation techniques.",
+    "source_quote": "Akritas assists Felkur in refining distillation techniques",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "Akritas assisted Felkur in refining distillation techniques."
+    ],
+    "subjects": [
+      "Akritas"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Akritas",
+    "fact": "Akritas assisted Felkur in refining hallucinogenic mushrooms into potent concoctions.",
+    "source_quote": "together with Akritas, the two refined the unique hallucinogenic mushrooms of the region into potent concoctions",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small",
+      "sweep"
+    ],
+    "variants": [
+      "Akritas assisted Felkur in refining hallucinogenic mushrooms into potent concoctions.",
+      "Akritas assisted Felkur in refining the distillation of hallucinogenic mushrooms.",
+      "Akritas refined hallucinogenic mushrooms into potent concoctions with Felkur."
+    ],
+    "subjects": [
+      "Akritas"
+    ],
+    "n_samples": 3
+  },
+  {
+    "type": "npc",
+    "subject": "Akritas",
+    "fact": "Akritas noted that the fire giants' plans would be very bad for business.",
+    "source_quote": "a development that, as Akritas pointedly noted, would be very bad for business",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "variants": [
+      "Akritas noted that the fire giants' plans would be very bad for business."
+    ],
+    "subjects": [
+      "Akritas"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Akritas",
+    "fact": "Akritas realized that the party missed a golden intelligence opportunity by not reading the ledger during their previous heist.",
+    "source_quote": "they had missed a golden opportunity by never reading the ledger from their previous heist",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small"
+    ],
+    "variants": [
+      "Akritas realized that the party missed a golden intelligence opportunity by not reading the ledger during their previous heist.",
+      "Akritas realized the party missed an opportunity by never reading the ledger from their previous heist."
+    ],
+    "subjects": [
+      "Akritas"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "npc",
+    "subject": "Akritas",
+    "fact": "Akritas realized they could have looked in the ledger during their previous heist.",
+    "source_quote": "\"She stops swirling the drink and goes, fuck. You're right. Or at the very least, we could have looked in the ledger.\"",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "Akritas realized they could have looked in the ledger during their previous heist."
+    ],
+    "subjects": [
+      "Akritas"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Akritas",
+    "fact": "Akritas received a mission briefing on behalf of multiple factions.",
+    "source_quote": "deliver a mission briefing to Akritas on behalf of multiple factions",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "Akritas received a mission briefing on behalf of multiple factions."
+    ],
+    "subjects": [
+      "Akritas"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Akritas",
+    "fact": "Akritas receives the ability to request scouts and purchase specialized scrolls and potions as a benefit of her rank.",
+    "source_quote": "the ability to request scouts and purchase specialized scrolls and potions",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "Akritas receives the ability to request scouts and purchase specialized scrolls and potions as a benefit of her rank."
+    ],
+    "subjects": [
+      "Akritas"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Akritas",
+    "fact": "Akritas revealed her rank within the Emerald Enclave.",
+    "source_quote": "Akritas reveals her rank within the Emerald Enclave",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "Akritas revealed her rank within the Emerald Enclave."
+    ],
+    "subjects": [
+      "Akritas"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Akritas",
+    "fact": "Akritas ruefully noted that they had missed a golden opportunity by never reading the ledger from their previous heist.",
+    "source_quote": "Akritas also ruefully noted, mid-swirl, that they had missed a golden opportunity by never reading the ledger from their previous heist",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "variants": [
+      "Akritas ruefully noted that they had missed a golden opportunity by never reading the ledger from their previous heist."
+    ],
+    "subjects": [
+      "Akritas"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Akritas",
+    "fact": "Akritas used Hallucinogenic Mushrooms as the primary ingredient in his distillery experiments.",
+    "source_quote": "Felkur and Akritas used them as the primary ingredient in their distillery experiments",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "Akritas used Hallucinogenic Mushrooms as the primary ingredient in his distillery experiments."
+    ],
+    "subjects": [
+      "Akritas"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Akritas",
+    "fact": "Akritas was not moved to embrace Glor despite his claims.",
+    "source_quote": "Akritas, still nursing her drink, was not exactly moved to embrace him",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "variants": [
+      "Akritas was not moved to embrace Glor despite his claims."
+    ],
+    "subjects": [
+      "Akritas"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Arrizz",
+    "fact": "A voice from behind one door was recognized by Daein as Arrizz.",
+    "source_quote": "a voice Daein recognized as Arrizz",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "A voice from behind one door was recognized by Daein as Arrizz."
+    ],
+    "subjects": [
+      "Arrizz"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Arrizz",
+    "fact": "Arrizz is a drow acquaintance of the party from their past adventures.",
+    "source_quote": "Arrizz, a drow acquaintance of the party from their past adventures",
+    "quote_verified": false,
+    "passes": [
+      "large",
+      "small",
+      "sweep"
+    ],
+    "variants": [
+      "Arrizz is a drow acquaintance of the party from their past adventures."
+    ],
+    "subjects": [
+      "Arrizz"
+    ],
+    "n_samples": 3
+  },
+  {
+    "type": "npc",
+    "subject": "Arrizz",
+    "fact": "Arrizz is a drow the party had encountered in the past, heard shouting from behind a door.",
+    "source_quote": "a voice Daein recognized as Arrizz, a drow they had encountered in their past",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "Arrizz is a drow the party had encountered in the past, heard shouting from behind a door."
+    ],
+    "subjects": [
+      "Arrizz"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Arrizz",
+    "fact": "Arrizz is a drow.",
+    "source_quote": "Arrizz, a drow they had encountered in their past",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "Arrizz is a drow."
+    ],
+    "subjects": [
+      "Arrizz"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Arrizz",
+    "fact": "Arrizz is currently held prisoner in the rogue mind flayer's lair.",
+    "source_quote": "currently held prisoner in the rogue mind flayer's lair",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small",
+      "sweep"
+    ],
+    "variants": [
+      "Arrizz is currently held prisoner in the rogue mind flayer's lair."
+    ],
+    "subjects": [
+      "Arrizz"
+    ],
+    "n_samples": 3
+  },
+  {
+    "type": "npc",
+    "subject": "Arrizz",
+    "fact": "Arrizz was heard shouting defiant insults at his captors in Undercommon.",
+    "source_quote": "a defiant voice responding in Undercommon from behind a door to the northwest, which Daein recognizes as Arrizz",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small",
+      "sweep"
+    ],
+    "variants": [
+      "Arrizz was heard shouting defiant insults at his captors in Undercommon.",
+      "Arrizz is heard shouting defiant insults at his captors in Undercommon."
+    ],
+    "subjects": [
+      "Arrizz"
+    ],
+    "n_samples": 3
+  },
+  {
+    "type": "npc",
+    "subject": "Arrizz",
+    "fact": "Daein recognized the voice shouting from behind one door as Arrizz, a drow they had encountered in the past.",
+    "source_quote": "a voice Daein recognized as Arrizz, a drow they had encountered in their past",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "variants": [
+      "Daein recognized the voice shouting from behind one door as Arrizz, a drow they had encountered in the past."
+    ],
+    "subjects": [
+      "Arrizz"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Arrizz",
+    "fact": "The party heard the unmistakable voice of Arrizz, a drow from their past, shouting defiant insults in Undercommon from behind a locked door.",
+    "source_quote": "The party hears the unmistakable voice of Arrizz, a drow from their past, shouting defiant insults in Undercommon from behind a locked door",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "The party heard the unmistakable voice of Arrizz, a drow from their past, shouting defiant insults in Undercommon from behind a locked door."
+    ],
+    "subjects": [
+      "Arrizz"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Bramgrim",
+    "fact": "Bramgrim argues that destiny itself might be calling the party to the mission.",
+    "source_quote": "Bramgrim, his hair pointing in every conceivable direction from his recent communion with nature, argued that destiny itself might be calling",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "variants": [
+      "Bramgrim argues that destiny itself might be calling the party to the mission."
+    ],
+    "subjects": [
+      "Bramgrim"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Bramgrim",
+    "fact": "Bramgrim confronted Glor about the history of illithid slavery.",
+    "source_quote": "Bramgrim confronts Glor about the history of illithid slavery",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "Bramgrim confronted Glor about the history of illithid slavery."
+    ],
+    "subjects": [
+      "Bramgrim"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Bramgrim",
+    "fact": "Bramgrim consumed Hallucinogenic Mushrooms during his nature communing.",
+    "source_quote": "while Bramgrim consumed them during his nature communing",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "Bramgrim consumed Hallucinogenic Mushrooms during his nature communing."
+    ],
+    "subjects": [
+      "Bramgrim"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Bramgrim",
+    "fact": "Bramgrim consumed hallucinogenic Underdark mushrooms.",
+    "source_quote": "having consumed hallucinogenic Underdark mushrooms",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "Bramgrim consumed hallucinogenic Underdark mushrooms."
+    ],
+    "subjects": [
+      "Bramgrim"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Bramgrim",
+    "fact": "Bramgrim expressed skepticism about Glor's honesty and the value of the information.",
+    "source_quote": "Bramgrim express skepticism about Glor's honesty and the value of the information",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "Bramgrim expressed skepticism about Glor's honesty and the value of the information."
+    ],
+    "subjects": [
+      "Bramgrim"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Bramgrim",
+    "fact": "Bramgrim immediately suspected Glor's claims of peaceful cohabitation.",
+    "source_quote": "Glor claimed, to Bramgrim's immediate suspicion, that his community had chosen peaceful cohabitation with other Underdark species over the enslavement and conquest typical of his kind",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "variants": [
+      "Bramgrim immediately suspected Glor's claims of peaceful cohabitation."
+    ],
+    "subjects": [
+      "Bramgrim"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Bramgrim",
+    "fact": "Bramgrim lectured the party on the unfathomable consequences of thievery.",
+    "source_quote": "Bramgrim lectures the party on the unfathomable consequences of thievery",
+    "quote_verified": true,
+    "passes": [
+      "interiority",
+      "small"
+    ],
+    "variants": [
+      "Bramgrim lectured the party on the unfathomable consequences of thievery.",
+      "Bramgrim lectures the party on the unfathomable consequences of thievery."
+    ],
+    "subjects": [
+      "Bramgrim"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "npc",
+    "subject": "Bramgrim",
+    "fact": "Bramgrim ran naked through the fungus forest during a communion with nature.",
+    "source_quote": "Bramgrim, meanwhile, communed with nature in his own particular fashion, which culminated in at least one memorable afternoon of him sprinting naked through the fungus forest",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "sweep"
+    ],
+    "variants": [
+      "Bramgrim ran naked through the fungus forest during a communion with nature.",
+      "Bramgrim ran naked through the fungus forest while communing with nature."
+    ],
+    "subjects": [
+      "Bramgrim"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "npc",
+    "subject": "Bramgrim",
+    "fact": "Bramgrim spent time communing with nature in the fungus forest.",
+    "source_quote": "Bramgrim spends time communing with nature in the fungus forest",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "Bramgrim spent time communing with nature in the fungus forest."
+    ],
+    "subjects": [
+      "Bramgrim"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Bramgrim",
+    "fact": "Bramgrim suggested that if the mind flayers are lying, the party is powerful enough to return and cause significant harm to their colony.",
+    "source_quote": "Bramgrim suggests that if the mind flayers are lying, the party is powerful enough to return and cause significant harm to their colony",
+    "quote_verified": true,
+    "passes": [
+      "interiority",
+      "small"
+    ],
+    "variants": [
+      "Bramgrim suggested that if the mind flayers are lying, the party is powerful enough to return and cause significant harm to their colony."
+    ],
+    "subjects": [
+      "Bramgrim"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "npc",
+    "subject": "Bramgrim",
+    "fact": "Bramgrim was found running naked through the fungus forest.",
+    "source_quote": "him sprinting naked through the fungus forest",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "Bramgrim was found running naked through the fungus forest.",
+      "Bramgrim sprinted naked through the fungus forest."
+    ],
+    "subjects": [
+      "Bramgrim"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Bramgrim",
+    "fact": "Bramgrim was occasionally under the influence of hallucinogenic mushrooms.",
+    "source_quote": "occasionally under the influence of hallucinogenic mushrooms",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "Bramgrim was occasionally under the influence of hallucinogenic mushrooms."
+    ],
+    "subjects": [
+      "Bramgrim"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Bramgrim",
+    "fact": "Bramgrim's communion with nature took an unexpected and very visible turn, leaving the party deeply unsettled.",
+    "source_quote": "Bramgrim's communion with nature took an unexpected and very visible turn",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "variants": [
+      "Bramgrim's communion with nature took an unexpected and very visible turn, leaving the party deeply unsettled."
+    ],
+    "subjects": [
+      "Bramgrim"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Daein",
+    "fact": "Daein delivered a cold and credible warning that the Ryxyg colony would face consequences if the intelligence proved false.",
+    "source_quote": "When Daein delivered a cold and credible warning \u2014 that if the promised intelligence proved false, the Ryxyg colony would face consequences",
+    "quote_verified": true,
+    "passes": [
+      "interiority",
+      "large"
+    ],
+    "variants": [
+      "Daein delivered a cold and credible warning that the Ryxyg colony would face consequences if the intelligence proved false.",
+      "Daein warned that if the intelligence proved false, the Ryxyg colony would face consequences."
+    ],
+    "subjects": [
+      "Daein"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "npc",
+    "subject": "Daein",
+    "fact": "Daein delivered a cold, credible threat to Glor warning that if the promised intelligence proves false there will be consequences for the Ryxyg colony.",
+    "source_quote": "Daein delivers a cold, credible threat to Glor \u2014 warning the mind flayer that if the promised intelligence proves false, there will be consequences for the Ryxyg colony",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "Daein delivered a cold, credible threat to Glor warning that if the promised intelligence proves false there will be consequences for the Ryxyg colony."
+    ],
+    "subjects": [
+      "Daein"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Daein",
+    "fact": "Daein delivered a stern warning to Glor backed by the party's collective presence.",
+    "source_quote": "Daein delivers a stern warning to Glor, backed by the party's collective presence",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "Daein delivered a stern warning to Glor backed by the party's collective presence."
+    ],
+    "subjects": [
+      "Daein"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Daein",
+    "fact": "Daein enthusiastically clarified his life goal as wanting 'FU money'.",
+    "source_quote": "\"I want FU money.\" \u2014 Daein enthusiastically clarifying his life goal after the GM introduced the concept of 'f*** you money' as a campaign ambition milestone",
+    "quote_verified": false,
+    "passes": [
+      "interiority",
+      "small",
+      "sweep"
+    ],
+    "variants": [
+      "Daein enthusiastically clarified his life goal as wanting 'FU money'.",
+      "Daein enthusiastically clarified his life goal as acquiring FU money.",
+      "Daein stated his life goal is to want FU money."
+    ],
+    "subjects": [
+      "Daein"
+    ],
+    "n_samples": 3
+  },
+  {
+    "type": "npc",
+    "subject": "Daein",
+    "fact": "Daein explored business opportunities for selling soups and other goods.",
+    "source_quote": "Daein explores business opportunities for selling soups and other goods",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "Daein explored business opportunities for selling soups and other goods."
+    ],
+    "subjects": [
+      "Daein"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Daein",
+    "fact": "Daein holds a singular ambition to acquire what he calls \"FU money.\"",
+    "source_quote": "Daein was skeptical, loudly declaring his singular ambition to acquire what he called \"FU money\"",
+    "quote_verified": false,
+    "passes": [
+      "interiority",
+      "large"
+    ],
+    "variants": [
+      "Daein holds a singular ambition to acquire what he calls \"FU money.\"",
+      "Daein declared his singular ambition to acquire 'FU money'."
+    ],
+    "subjects": [
+      "Daein"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "npc",
+    "subject": "Daein",
+    "fact": "Daein recognized the defiant voice in Undercommon as Arrizz, a drow they had encountered in their past.",
+    "source_quote": "a voice Daein recognized as Arrizz, a drow they had encountered in their past",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "variants": [
+      "Daein recognized the defiant voice in Undercommon as Arrizz, a drow they had encountered in their past."
+    ],
+    "subjects": [
+      "Daein"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Daein",
+    "fact": "Daein successfully intimidated Glor into taking the party seriously.",
+    "source_quote": "Daein successfully intimidates the mind flayer into taking them seriously",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "Daein successfully intimidated Glor into taking the party seriously."
+    ],
+    "subjects": [
+      "Daein"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Daein",
+    "fact": "Daein turned his attention toward future business ventures including soups and trade.",
+    "source_quote": "Daein, ever the entrepreneur, turned his attention toward future business ventures \u2014 soups, trade, and the dream of fabulous wealth",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small",
+      "sweep"
+    ],
+    "variants": [
+      "Daein turned his attention toward future business ventures including soups and trade."
+    ],
+    "subjects": [
+      "Daein"
+    ],
+    "n_samples": 3
+  },
+  {
+    "type": "npc",
+    "subject": "drow woman",
+    "fact": "A drow woman was found dead around a table in the lair.",
+    "source_quote": "four bodies \u2014 three human men and a drow woman \u2014 were arranged around a table",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "variants": [
+      "A drow woman was found dead around a table in the lair."
+    ],
+    "subjects": [
+      "drow woman"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Emerald Enclave Messenger",
+    "fact": "The Emerald Enclave Messenger tracked down the party in Sporedome to deliver a mission briefing to Akritas.",
+    "source_quote": "A representative of the Emerald Enclave who tracked down the party in Sporedome to deliver a mission briefing to Akritas on behalf of multiple factions",
+    "quote_verified": true,
+    "passes": [
+      "small",
+      "sweep"
+    ],
+    "variants": [
+      "The Emerald Enclave Messenger tracked down the party in Sporedome to deliver a mission briefing to Akritas.",
+      "An Emerald Enclave Messenger tracked down the party in Sporedome to deliver a mission briefing."
+    ],
+    "subjects": [
+      "Emerald Enclave Messenger"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "npc",
+    "subject": "Felkur",
+    "fact": "Felkur constructed a specialized distillery in Sporedome.",
+    "source_quote": "Felkur put his artificer's mind to work constructing a specialized distillery",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "variants": [
+      "Felkur constructed a specialized distillery in Sporedome."
+    ],
+    "subjects": [
+      "Felkur"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Felkur",
+    "fact": "Felkur constructed a specialized distillery using his artificer's mind.",
+    "source_quote": "Felkur put his artificer's mind to work constructing a specialized distillery",
+    "quote_verified": true,
+    "passes": [
+      "small",
+      "sweep"
+    ],
+    "variants": [
+      "Felkur constructed a specialized distillery using his artificer's mind."
+    ],
+    "subjects": [
+      "Felkur"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "npc",
+    "subject": "Felkur",
+    "fact": "Felkur identified that the damage shown on the Mulmaster maps was caused by an attack by elemental cults.",
+    "source_quote": "Felkur, drawing on his background from Mulmaster, identifies that the damage shown on the Mulmaster maps was caused by an attack by elemental cults",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "Felkur identified that the damage shown on the Mulmaster maps was caused by an attack by elemental cults."
+    ],
+    "subjects": [
+      "Felkur"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Felkur",
+    "fact": "Felkur identified the destruction on the map as the work of elemental cults.",
+    "source_quote": "Felkur identified the destruction as the work of elemental cults.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "Felkur identified the destruction on the map as the work of elemental cults."
+    ],
+    "subjects": [
+      "Felkur"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Felkur",
+    "fact": "Felkur is an artificer.",
+    "source_quote": "Specialized ammunition prepared by Felkur the artificer",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "Felkur is an artificer."
+    ],
+    "subjects": [
+      "Felkur"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Felkur",
+    "fact": "Felkur prepared specialized elemental ammunition specifically ice bullets for the upcoming confrontation.",
+    "source_quote": "Felkur prepares specialized elemental ammunition \u2014 specifically ice bullets \u2014 for the upcoming confrontation",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small"
+    ],
+    "variants": [
+      "Felkur prepared specialized elemental ammunition specifically ice bullets for the upcoming confrontation.",
+      "Felkur prepared specialized ice-infused ammunition for the confrontation."
+    ],
+    "subjects": [
+      "Felkur"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "npc",
+    "subject": "Felkur",
+    "fact": "Felkur recognized the destruction on the Mulmaster maps as the work of elemental cults based on his own history.",
+    "source_quote": "Felkur, drawing on his own history with Mulmaster, recognized the destruction as the work of elemental cults",
+    "quote_verified": true,
+    "passes": [
+      "interiority",
+      "sweep"
+    ],
+    "variants": [
+      "Felkur recognized the destruction on the Mulmaster maps as the work of elemental cults based on his own history.",
+      "Felkur identified the destruction shown on the Mulmaster maps as the work of elemental cults."
+    ],
+    "subjects": [
+      "Felkur"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "npc",
+    "subject": "Felkur",
+    "fact": "Felkur used Hallucinogenic Mushrooms as the primary ingredient in his distillery experiments.",
+    "source_quote": "Felkur and Akritas used them as the primary ingredient in their distillery experiments",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "Felkur used Hallucinogenic Mushrooms as the primary ingredient in his distillery experiments."
+    ],
+    "subjects": [
+      "Felkur"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Felkur",
+    "fact": "Felkur used his artificer skills to construct a specialized distillery for refining Underdark mushrooms.",
+    "source_quote": "Felkur uses his artificer skills to construct a specialized distillery for refining Underdark mushrooms",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "Felkur used his artificer skills to construct a specialized distillery for refining Underdark mushrooms."
+    ],
+    "subjects": [
+      "Felkur"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Glor",
+    "fact": "Glor claimed his community had chosen peaceful cohabitation over enslavement and conquest.",
+    "source_quote": "Glor claimed, to Bramgrim's immediate suspicion, that his community had chosen peaceful cohabitation with other Underdark species over the enslavement and conquest typical of his kind",
+    "quote_verified": true,
+    "passes": [
+      "interiority",
+      "large"
+    ],
+    "variants": [
+      "Glor claimed his community had chosen peaceful cohabitation over enslavement and conquest.",
+      "Glor claimed his community chose peaceful cohabitation over enslavement and conquest."
+    ],
+    "subjects": [
+      "Glor"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "npc",
+    "subject": "Glor",
+    "fact": "Glor claimed his community seeks peaceful cohabitation with other species.",
+    "source_quote": "Glor claims his community seeks peaceful cohabitation with other species",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "Glor claimed his community seeks peaceful cohabitation with other species."
+    ],
+    "subjects": [
+      "Glor"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Glor",
+    "fact": "Glor communicates telepathically.",
+    "source_quote": "who communicates telepathically",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small",
+      "sweep"
+    ],
+    "variants": [
+      "Glor communicates telepathically."
+    ],
+    "subjects": [
+      "Glor"
+    ],
+    "n_samples": 3
+  },
+  {
+    "type": "npc",
+    "subject": "Glor",
+    "fact": "Glor deadpanned that if he had to choose which brain to eat last, it would be Daein's.",
+    "source_quote": "\"Daein, do not worry. If I have to choose which brain I will eat last, it will be yours.\" \u2014 Glor",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "variants": [
+      "Glor deadpanned that if he had to choose which brain to eat last, it would be Daein's."
+    ],
+    "subjects": [
+      "Glor"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Glor",
+    "fact": "Glor defines a 'rogue thought' as a mind flayer disconnected from the collective.",
+    "source_quote": "\u2014 a mind flayer disconnected from the collective",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "variants": [
+      "Glor defines a 'rogue thought' as a mind flayer disconnected from the collective."
+    ],
+    "subjects": [
+      "Glor"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Glor",
+    "fact": "Glor greeted the party telepathically while wearing a cowled figure.",
+    "source_quote": "A cowled humanoid figure greeted them telepathically, introducing itself as Glor",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "variants": [
+      "Glor greeted the party telepathically while wearing a cowled figure."
+    ],
+    "subjects": [
+      "Glor"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Glor",
+    "fact": "Glor greeted the party telepathically.",
+    "source_quote": "A cowled humanoid figure greeted them telepathically, introducing itself as Glor",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "Glor greeted the party telepathically."
+    ],
+    "subjects": [
+      "Glor"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Glor",
+    "fact": "Glor grew to respect the party after Daein's intimidating warning.",
+    "source_quote": "but grew to respect them after Daein's intimidating warning",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small",
+      "sweep"
+    ],
+    "variants": [
+      "Glor grew to respect the party after Daein's intimidating warning."
+    ],
+    "subjects": [
+      "Glor"
+    ],
+    "n_samples": 3
+  },
+  {
+    "type": "npc",
+    "subject": "Glor",
+    "fact": "Glor is a cowled humanoid figure who greeted the party telepathically.",
+    "source_quote": "A cowled humanoid figure greeted them telepathically, introducing itself as Glor",
+    "quote_verified": true,
+    "passes": [
+      "small",
+      "sweep"
+    ],
+    "variants": [
+      "Glor is a cowled humanoid figure who greeted the party telepathically.",
+      "Glor is a cowled figure who greets the party telepathically."
+    ],
+    "subjects": [
+      "Glor"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "npc",
+    "subject": "Glor",
+    "fact": "Glor is a mind flayer representing the Ryxyg illithid encampment.",
+    "source_quote": "the party came to understand they were speaking with a mind flayer, a representative of the Ryxyg illithid encampment",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small",
+      "sweep"
+    ],
+    "variants": [
+      "Glor is a mind flayer representing the Ryxyg illithid encampment.",
+      "Glor is a mind flayer representative from the Ryxyg community."
+    ],
+    "subjects": [
+      "Glor"
+    ],
+    "n_samples": 3
+  },
+  {
+    "type": "npc",
+    "subject": "Glor",
+    "fact": "Glor is a mind flayer.",
+    "source_quote": "the party came to understand they were speaking with a mind flayer",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "Glor is a mind flayer."
+    ],
+    "subjects": [
+      "Glor"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Glor",
+    "fact": "Glor noted that a mind flayer without the restraint of the collective is a predator without a leash.",
+    "source_quote": "Glor was unmoved, noting that a mind flayer without the restraint of the collective was a predator without a leash",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "variants": [
+      "Glor noted that a mind flayer without the restraint of the collective is a predator without a leash."
+    ],
+    "subjects": [
+      "Glor"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Glor",
+    "fact": "Glor offered knowledge on how to disable the war engines without identifying the perpetrators.",
+    "source_quote": "Glor claimed to possess the knowledge of how to disable those war engines without the perpetrators ever being identified",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "variants": [
+      "Glor offered knowledge on how to disable the war engines without identifying the perpetrators."
+    ],
+    "subjects": [
+      "Glor"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Glor",
+    "fact": "Glor offers strategic intelligence on disabling Maerimydra's arcane siege weapons in exchange for the rogue's destruction.",
+    "source_quote": "and offers strategic intelligence on disabling Maerimydra's arcane siege weapons in exchange",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small"
+    ],
+    "variants": [
+      "Glor offers strategic intelligence on disabling Maerimydra's arcane siege weapons in exchange for the rogue's destruction.",
+      "Glor offers strategic intelligence on disabling Maerimydra's arcane siege weapons in exchange for assistance."
+    ],
+    "subjects": [
+      "Glor"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "npc",
+    "subject": "Glor",
+    "fact": "Glor provided a map illustrating the path of least resistance through the Underdark to the rogue mind flayer's lair.",
+    "source_quote": "A map provided by Glor illustrating the path of least resistance through the Underdark to the rogue mind flayer's lair",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "Glor provided a map illustrating the path of least resistance through the Underdark to the rogue mind flayer's lair."
+    ],
+    "subjects": [
+      "Glor"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Glor",
+    "fact": "Glor revealed himself to be a Mind Flayer from the Ryxyg encampment.",
+    "source_quote": "revealing himself to be a Mind Flayer from the Ryxyg encampment",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "Glor revealed himself to be a Mind Flayer from the Ryxyg encampment."
+    ],
+    "subjects": [
+      "Glor"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Glor",
+    "fact": "Glor seeks the destruction of a 'rogue thought'.",
+    "source_quote": "He seeks the destruction of a 'rogue thought'",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "variants": [
+      "Glor seeks the destruction of a 'rogue thought'."
+    ],
+    "subjects": [
+      "Glor"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Glor",
+    "fact": "Glor seeks the destruction of a rogue mind flayer disconnected from the collective.",
+    "source_quote": "He seeks the destruction of a 'rogue thought' \u2014 a mind flayer disconnected from the collective",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "Glor seeks the destruction of a rogue mind flayer disconnected from the collective."
+    ],
+    "subjects": [
+      "Glor"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Glor",
+    "fact": "Glor stated that if the party has to choose which brain to eat last, it will be Daein's.",
+    "source_quote": "\"Daein, do not worry. If I have to choose which brain I will eat last, it will be yours.\"",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "Glor stated that if the party has to choose which brain to eat last, it will be Daein's."
+    ],
+    "subjects": [
+      "Glor"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Glor",
+    "fact": "Glor took the party seriously for the first time after Daein's warning.",
+    "source_quote": "Glor paused, reassessed the group before him, and for the first time took them seriously",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small"
+    ],
+    "variants": [
+      "Glor took the party seriously for the first time after Daein's warning."
+    ],
+    "subjects": [
+      "Glor"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "npc",
+    "subject": "Glor",
+    "fact": "Glor took the party seriously for the first time.",
+    "source_quote": "and for the first time took them seriously",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "variants": [
+      "Glor took the party seriously for the first time."
+    ],
+    "subjects": [
+      "Glor"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Glor",
+    "fact": "Glor was initially dismissive of the party.",
+    "source_quote": "He was initially dismissive of the party",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small",
+      "sweep"
+    ],
+    "variants": [
+      "Glor was initially dismissive of the party."
+    ],
+    "subjects": [
+      "Glor"
+    ],
+    "n_samples": 3
+  },
+  {
+    "type": "npc",
+    "subject": "Glor",
+    "fact": "Glor wears a cowl.",
+    "source_quote": "and wears a cowl",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small",
+      "sweep"
+    ],
+    "variants": [
+      "Glor wears a cowl."
+    ],
+    "subjects": [
+      "Glor"
+    ],
+    "n_samples": 3
+  },
+  {
+    "type": "npc",
+    "subject": "green dragon",
+    "fact": "A green dragon took the city of Phlan by force and erected The Thicket around it.",
+    "source_quote": "erected around the city by a green dragon that took the city by force",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "A green dragon took the city of Phlan by force and erected The Thicket around it."
+    ],
+    "subjects": [
+      "green dragon"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "human men",
+    "fact": "Three human men were found dead around a table in the lair.",
+    "source_quote": "four bodies \u2014 three human men and a drow woman \u2014 were arranged around a table",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "variants": [
+      "Three human men were found dead around a table in the lair."
+    ],
+    "subjects": [
+      "human men"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Arcane Lock",
+    "fact": "The Arcane Lock renders the door immune to mechanical tampering.",
+    "source_quote": "rendering it immune to mechanical tampering.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "The Arcane Lock renders the door immune to mechanical tampering."
+    ],
+    "subjects": [
+      "Arcane Lock"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Brain Basin",
+    "fact": "The Brain Basin is a stone basin found in the first chamber of the rogue's lair.",
+    "source_quote": "A stone basin found in the first chamber of the rogue's lair",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "sweep"
+    ],
+    "variants": [
+      "The Brain Basin is a stone basin found in the first chamber of the rogue's lair."
+    ],
+    "subjects": [
+      "Brain Basin"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "object",
+    "subject": "Brain Basin",
+    "fact": "The Brain Basin is carved to resemble the underside of a human brain.",
+    "source_quote": "carved to resemble the underside of a human brain.",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small",
+      "sweep"
+    ],
+    "variants": [
+      "The Brain Basin is carved to resemble the underside of a human brain."
+    ],
+    "subjects": [
+      "Brain Basin"
+    ],
+    "n_samples": 3
+  },
+  {
+    "type": "object",
+    "subject": "Brain Basin",
+    "fact": "The Brain Basin requires an actual brain to be placed inside to open the door.",
+    "source_quote": "requiring an actual brain to be placed inside to open it",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "variants": [
+      "The Brain Basin requires an actual brain to be placed inside to open the door."
+    ],
+    "subjects": [
+      "Brain Basin"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Brain Basin",
+    "fact": "The party deduced the Brain Basin serves as a macabre biological lock for a nearby arcanely sealed door.",
+    "source_quote": "The party deduced it serves as a macabre biological lock for a nearby arcanely sealed door",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "variants": [
+      "The party deduced the Brain Basin serves as a macabre biological lock for a nearby arcanely sealed door."
+    ],
+    "subjects": [
+      "Brain Basin"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "crumpled parchments",
+    "fact": "Crumpled parchments outlining mercantile agreements were found on the table.",
+    "source_quote": "crumpled parchments outlining mercantile agreements between an unnamed drow outpost and a group called the Red Blooms",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "Crumpled parchments outlining mercantile agreements were found on the table."
+    ],
+    "subjects": [
+      "crumpled parchments"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "crumpled parchments",
+    "fact": "The party found crumpled parchments outlining mercantile agreements while searching the room.",
+    "source_quote": "and crumpled parchments outlining mercantile agreements between an unnamed drow outpost and the Red Blooms",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "The party found crumpled parchments outlining mercantile agreements while searching the room."
+    ],
+    "subjects": [
+      "crumpled parchments"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "drow rations",
+    "fact": "Drow rations were found alongside the maps on the table.",
+    "source_quote": "Alongside the maps were drow rations, empty scroll tubes, playing cards, and crumpled parchments",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "Drow rations were found alongside the maps on the table."
+    ],
+    "subjects": [
+      "drow rations"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "drow rations",
+    "fact": "Drow rations were found on the table.",
+    "source_quote": "Alongside the maps were drow rations",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "variants": [
+      "Drow rations were found on the table."
+    ],
+    "subjects": [
+      "drow rations"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "drow rations",
+    "fact": "The party found drow rations while searching the room.",
+    "source_quote": "finding detailed maps of Hillsfar, Phlan, and Mulmaster, along with drow rations",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "The party found drow rations while searching the room."
+    ],
+    "subjects": [
+      "drow rations"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Elemental Ice Bullets",
+    "fact": "Elemental Ice Bullets are infused with ice energy to exploit potential vulnerabilities of the enemies within.",
+    "source_quote": "infused with ice energy to exploit potential vulnerabilities of the enemies within",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "sweep"
+    ],
+    "variants": [
+      "Elemental Ice Bullets are infused with ice energy to exploit potential vulnerabilities of the enemies within."
+    ],
+    "subjects": [
+      "Elemental Ice Bullets"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "object",
+    "subject": "Elemental Ice Bullets",
+    "fact": "Elemental Ice Bullets are specialized ammunition prepared by Felkur the artificer before entering the rogue's lair.",
+    "source_quote": "Specialized ammunition prepared by Felkur the artificer before entering the rogue's lair",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "sweep"
+    ],
+    "variants": [
+      "Elemental Ice Bullets are specialized ammunition prepared by Felkur the artificer before entering the rogue's lair."
+    ],
+    "subjects": [
+      "Elemental Ice Bullets"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "object",
+    "subject": "Elemental Ice Bullets",
+    "fact": "Felkur prepared Elemental Ice Bullets before entering the rogue's lair.",
+    "source_quote": "Specialized ammunition prepared by Felkur the artificer before entering the rogue's lair",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "Felkur prepared Elemental Ice Bullets before entering the rogue's lair."
+    ],
+    "subjects": [
+      "Elemental Ice Bullets"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Elemental Ice Bullets",
+    "fact": "The bullets are infused with ice energy to exploit potential vulnerabilities of the enemies within.",
+    "source_quote": "infused with ice energy to exploit potential vulnerabilities of the enemies within.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "The bullets are infused with ice energy to exploit potential vulnerabilities of the enemies within."
+    ],
+    "subjects": [
+      "Elemental Ice Bullets"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "empty scroll tubes",
+    "fact": "Empty scroll tubes were found on the table in the rogue's lair.",
+    "source_quote": "Alongside the maps were drow rations, empty scroll tubes, playing cards, and crumpled parchments",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "Empty scroll tubes were found on the table in the rogue's lair."
+    ],
+    "subjects": [
+      "empty scroll tubes"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "empty scroll tubes",
+    "fact": "The party found empty scroll tubes while searching the room.",
+    "source_quote": "along with drow rations, playing cards, empty scroll tubes, and crumpled parchments",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "The party found empty scroll tubes while searching the room."
+    ],
+    "subjects": [
+      "empty scroll tubes"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Faerzress",
+    "fact": "Faerzress is a magical energy that weakens psionic and arcane abilities.",
+    "source_quote": "a magical energy that weakened psionic and arcane abilities alike",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "variants": [
+      "Faerzress is a magical energy that weakens psionic and arcane abilities."
+    ],
+    "subjects": [
+      "Faerzress"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Hallucinogenic Mushrooms",
+    "fact": "Bramgrim consumed Hallucinogenic Mushrooms during his nature communing with notably uninhibited results.",
+    "source_quote": "while Bramgrim consumed them during his nature communing \u2014 with notably uninhibited results",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small"
+    ],
+    "variants": [
+      "Bramgrim consumed Hallucinogenic Mushrooms during his nature communing with notably uninhibited results.",
+      "Bramgrim consumed Hallucinogenic Mushrooms during his nature communing."
+    ],
+    "subjects": [
+      "Hallucinogenic Mushrooms"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "object",
+    "subject": "Hallucinogenic Mushrooms",
+    "fact": "Felkur and Akritas used Hallucinogenic Mushrooms as the primary ingredient in their distillery experiments.",
+    "source_quote": "Felkur and Akritas used them as the primary ingredient in their distillery experiments",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small"
+    ],
+    "variants": [
+      "Felkur and Akritas used Hallucinogenic Mushrooms as the primary ingredient in their distillery experiments."
+    ],
+    "subjects": [
+      "Hallucinogenic Mushrooms"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "object",
+    "subject": "Hallucinogenic Mushrooms",
+    "fact": "Hallucinogenic Mushrooms are unique Underdark fungi found in Sporedome.",
+    "source_quote": "Unique Underdark fungi found in Sporedome",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small",
+      "sweep"
+    ],
+    "variants": [
+      "Hallucinogenic Mushrooms are unique Underdark fungi found in Sporedome."
+    ],
+    "subjects": [
+      "Hallucinogenic Mushrooms"
+    ],
+    "n_samples": 3
+  },
+  {
+    "type": "object",
+    "subject": "ice bullets",
+    "fact": "Felkur prepared ice bullets as specialized elemental ammunition.",
+    "source_quote": "specifically ice bullets \u2014 for the upcoming confrontation",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "Felkur prepared ice bullets as specialized elemental ammunition."
+    ],
+    "subjects": [
+      "ice bullets"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "ice-infused ammunition",
+    "fact": "Felkur prepared specialized ice-infused ammunition for the confrontation.",
+    "source_quote": "Felkur prepared specialized ice-infused ammunition for the confrontation ahead",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "Felkur prepared specialized ice-infused ammunition for the confrontation."
+    ],
+    "subjects": [
+      "ice-infused ammunition"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "intelligence maps",
+    "fact": "Detailed maps of Hillsfar, Phlan, and Mulmaster were spread across the table.",
+    "source_quote": "Spread across it were detailed maps of Hillsfar, Phlan \u2014 a city now encased in a dome of magical brambles by a green dragon \u2014 and two maps of Mulmaster",
+    "quote_verified": true,
+    "passes": [
+      "small",
+      "sweep"
+    ],
+    "variants": [
+      "Detailed maps of Hillsfar, Phlan, and Mulmaster were spread across the table.",
+      "The table was covered in detailed maps of Hillsfar, Phlan, and Mulmaster."
+    ],
+    "subjects": [
+      "intelligence maps",
+      "detailed maps"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "object",
+    "subject": "ledger",
+    "fact": "Akritas noted they had missed an opportunity by never reading the ledger from their previous heist.",
+    "source_quote": "they had missed a golden opportunity by never reading the ledger from their previous heist",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "Akritas noted they had missed an opportunity by never reading the ledger from their previous heist."
+    ],
+    "subjects": [
+      "ledger"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "map",
+    "fact": "Glor handed over a map leading to the rogue's lair.",
+    "source_quote": "Glor handed over a map",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "sweep"
+    ],
+    "variants": [
+      "Glor handed over a map leading to the rogue's lair."
+    ],
+    "subjects": [
+      "map"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "object",
+    "subject": "map",
+    "fact": "Glor handed the party a map.",
+    "source_quote": "Glor handed over a map",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "Glor handed the party a map."
+    ],
+    "subjects": [
+      "map"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Map of Hillsfar",
+    "fact": "The Map of Hillsfar is a highly detailed and large map found on the table in the rogue's lair.",
+    "source_quote": "A highly detailed and large map found on the table in the rogue's lair",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "sweep"
+    ],
+    "variants": [
+      "The Map of Hillsfar is a highly detailed and large map found on the table in the rogue's lair."
+    ],
+    "subjects": [
+      "Map of Hillsfar"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "object",
+    "subject": "Map of Hillsfar",
+    "fact": "The Map of Hillsfar is considered valuable in the right hands.",
+    "source_quote": "Considered valuable in the right hands",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "The Map of Hillsfar is considered valuable in the right hands."
+    ],
+    "subjects": [
+      "Map of Hillsfar"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Map of Hillsfar",
+    "fact": "The Map of Hillsfar shows every street, building, and piece of infrastructure within the city of Hillsfar.",
+    "source_quote": "showing every street, building, and piece of infrastructure within the city of Hillsfar",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "sweep"
+    ],
+    "variants": [
+      "The Map of Hillsfar shows every street, building, and piece of infrastructure within the city of Hillsfar."
+    ],
+    "subjects": [
+      "Map of Hillsfar"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "object",
+    "subject": "Map of Phlan",
+    "fact": "The Map of Phlan depicts 'The Thicket,' a dense dome of thick brambles and briars erected around the city by a green dragon.",
+    "source_quote": "It depicts 'The Thicket,' a dense dome of thick brambles and briars erected around the city by a green dragon that took the city by force",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small"
+    ],
+    "variants": [
+      "The Map of Phlan depicts 'The Thicket,' a dense dome of thick brambles and briars erected around the city by a green dragon.",
+      "The Map of Phlan depicts 'The Thicket', a dense dome of thick brambles and briars erected around the city by a green dragon."
+    ],
+    "subjects": [
+      "Map of Phlan"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "object",
+    "subject": "Map of Phlan",
+    "fact": "The Map of Phlan is a detailed map of the town of Phlan found in the rogue's lair.",
+    "source_quote": "A detailed map of the town of Phlan found in the rogue's lair",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "sweep"
+    ],
+    "variants": [
+      "The Map of Phlan is a detailed map of the town of Phlan found in the rogue's lair."
+    ],
+    "subjects": [
+      "Map of Phlan"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "object",
+    "subject": "Map of Phlan",
+    "fact": "The Map of Phlan is approximately a year or two old.",
+    "source_quote": "approximately a year or two old",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "sweep"
+    ],
+    "variants": [
+      "The Map of Phlan is approximately a year or two old."
+    ],
+    "subjects": [
+      "Map of Phlan"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "object",
+    "subject": "Map of Phlan",
+    "fact": "The green dragon took the city of Phlan by force.",
+    "source_quote": "that took the city by force",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "variants": [
+      "The green dragon took the city of Phlan by force."
+    ],
+    "subjects": [
+      "Map of Phlan"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Map of Phlan age",
+    "fact": "The map of Phlan found in the rogue's lair is approximately a year or two old.",
+    "source_quote": "approximately a year or two old",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "variants": [
+      "The map of Phlan found in the rogue's lair is approximately a year or two old."
+    ],
+    "subjects": [
+      "Map of Phlan age"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Map of Phlan count",
+    "fact": "One detailed map of the town of Phlan was found in the rogue's lair.",
+    "source_quote": "A detailed map of the town of Phlan",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "variants": [
+      "One detailed map of the town of Phlan was found in the rogue's lair."
+    ],
+    "subjects": [
+      "Map of Phlan count"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Map of the rogue's lair",
+    "fact": "The party received a map leading to the rogue's lair from Glor.",
+    "source_quote": "The party accepts the mission and receives a map leading to the rogue's lair",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "The party received a map leading to the rogue's lair from Glor."
+    ],
+    "subjects": [
+      "Map of the rogue's lair"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "maps of Hillsfar",
+    "fact": "Detailed maps of Hillsfar were found on the table.",
+    "source_quote": "detailed maps of Hillsfar",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "variants": [
+      "Detailed maps of Hillsfar were found on the table."
+    ],
+    "subjects": [
+      "maps of Hillsfar"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Maps of Mulmaster",
+    "fact": "Felkur identified the destruction on the maps as the work of elemental cults.",
+    "source_quote": "Felkur identified the destruction as the work of elemental cults",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "variants": [
+      "Felkur identified the destruction on the maps as the work of elemental cults."
+    ],
+    "subjects": [
+      "Maps of Mulmaster"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Maps of Mulmaster",
+    "fact": "The older map of Mulmaster details trade routes, guard rotations, and patrol schedules.",
+    "source_quote": "The older map details trade routes, guard rotations, and patrol schedules",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "sweep"
+    ],
+    "variants": [
+      "The older map of Mulmaster details trade routes, guard rotations, and patrol schedules."
+    ],
+    "subjects": [
+      "Maps of Mulmaster",
+      "Map of Mulmaster (older)"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "object",
+    "subject": "Maps of Mulmaster",
+    "fact": "Two maps of Mulmaster were found in the rogue's lair.",
+    "source_quote": "Two maps of Mulmaster found in the rogue's lair",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "sweep",
+      "temporal"
+    ],
+    "variants": [
+      "Two maps of Mulmaster were found in the rogue's lair."
+    ],
+    "subjects": [
+      "Maps of Mulmaster",
+      "Maps of Mulmaster count"
+    ],
+    "n_samples": 3
+  },
+  {
+    "type": "object",
+    "subject": "maps of Mulmaster",
+    "fact": "Two maps of Mulmaster were found on the table, one bearing red X marks.",
+    "source_quote": "two maps of Mulmaster, one of which bore red X marks and mocking annotations",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "variants": [
+      "Two maps of Mulmaster were found on the table, one bearing red X marks."
+    ],
+    "subjects": [
+      "maps of Mulmaster"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "maps of Phlan",
+    "fact": "Detailed maps of Phlan were found on the table.",
+    "source_quote": "maps of Hillsfar, Phlan \u2014 a city now encased in a dome of magical brambles by a green dragon",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "variants": [
+      "Detailed maps of Phlan were found on the table."
+    ],
+    "subjects": [
+      "maps of Phlan"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Map to the Rogue's Lair",
+    "fact": "The Map to the Rogue's Lair is a map provided by Glor.",
+    "source_quote": "A map provided by Glor",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "sweep"
+    ],
+    "variants": [
+      "The Map to the Rogue's Lair is a map provided by Glor.",
+      "The Map to the Rogue's Lair was provided by Glor."
+    ],
+    "subjects": [
+      "Map to the Rogue's Lair"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "object",
+    "subject": "Map to the Rogue's Lair",
+    "fact": "The journey to the lair is estimated to take approximately ten days.",
+    "source_quote": "with the journey estimated to take approximately ten days",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "variants": [
+      "The journey to the lair is estimated to take approximately ten days."
+    ],
+    "subjects": [
+      "Map to the Rogue's Lair"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Map to the Rogue's Lair",
+    "fact": "The map illustrates the path of least resistance through the Underdark to the rogue mind flayer's lair.",
+    "source_quote": "illustrating the path of least resistance through the Underdark to the rogue mind flayer's lair",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "sweep"
+    ],
+    "variants": [
+      "The map illustrates the path of least resistance through the Underdark to the rogue mind flayer's lair."
+    ],
+    "subjects": [
+      "Map to the Rogue's Lair"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "object",
+    "subject": "Mushroom Distillery",
+    "fact": "Felkur used his artificer skills to construct the Mushroom Distillery.",
+    "source_quote": "using his artificer skills",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "variants": [
+      "Felkur used his artificer skills to construct the Mushroom Distillery."
+    ],
+    "subjects": [
+      "Mushroom Distillery"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Mushroom Distillery",
+    "fact": "The Mushroom Distillery is a specialized apparatus constructed by Felkur using his artificer skills.",
+    "source_quote": "A specialized apparatus constructed by Felkur using his artificer skills",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small",
+      "sweep"
+    ],
+    "variants": [
+      "The Mushroom Distillery is a specialized apparatus constructed by Felkur using his artificer skills.",
+      "The Mushroom Distillery is a specialized apparatus constructed by Felkur."
+    ],
+    "subjects": [
+      "Mushroom Distillery"
+    ],
+    "n_samples": 3
+  },
+  {
+    "type": "object",
+    "subject": "Mushroom Distillery",
+    "fact": "The Mushroom Distillery is used to refine and distill the unique properties of Underdark mushrooms into potent substances.",
+    "source_quote": "to refine and distill the unique properties of Underdark mushrooms into potent substances",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small",
+      "sweep"
+    ],
+    "variants": [
+      "The Mushroom Distillery is used to refine and distill the unique properties of Underdark mushrooms into potent substances.",
+      "The Mushroom Distillery refines and distills the unique properties of Underdark mushrooms into potent substances."
+    ],
+    "subjects": [
+      "Mushroom Distillery"
+    ],
+    "n_samples": 3
+  },
+  {
+    "type": "object",
+    "subject": "mushroom-infused drink",
+    "fact": "Akritas swirled a mushroom-infused drink in her hand during the summons.",
+    "source_quote": "Akritas, swirling a mushroom-infused drink in her hand",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "Akritas swirled a mushroom-infused drink in her hand during the summons."
+    ],
+    "subjects": [
+      "mushroom-infused drink"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "newer map of Mulmaster",
+    "fact": "The newer map of Mulmaster shows harbor sections marked with red X's and mocking annotations over destroyed areas.",
+    "source_quote": "The newer map shows harbor sections marked with red X's and mocking annotations over destroyed areas.",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small",
+      "sweep"
+    ],
+    "variants": [
+      "The newer map of Mulmaster shows harbor sections marked with red X's and mocking annotations over destroyed areas."
+    ],
+    "subjects": [
+      "newer map of Mulmaster",
+      "Maps of Mulmaster",
+      "Map of Mulmaster (newer)"
+    ],
+    "n_samples": 3
+  },
+  {
+    "type": "object",
+    "subject": "older map of Mulmaster",
+    "fact": "The older map details trade routes, guard rotations, and patrol schedules.",
+    "source_quote": "The older map details trade routes, guard rotations, and patrol schedules.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "The older map details trade routes, guard rotations, and patrol schedules."
+    ],
+    "subjects": [
+      "older map of Mulmaster"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "playing cards",
+    "fact": "Playing cards were found on the table in the rogue's lair.",
+    "source_quote": "Alongside the maps were drow rations, empty scroll tubes, playing cards, and crumpled parchments",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "Playing cards were found on the table in the rogue's lair."
+    ],
+    "subjects": [
+      "playing cards"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "playing cards",
+    "fact": "The party found playing cards while searching the room.",
+    "source_quote": "along with drow rations, playing cards, empty scroll tubes, and crumpled parchments",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "The party found playing cards while searching the room."
+    ],
+    "subjects": [
+      "playing cards"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "pools of glowing liquid",
+    "fact": "The Rogue Thought's Lair features chambers with pools of glowing liquid.",
+    "source_quote": "Features chambers with pools of glowing liquid",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "The Rogue Thought's Lair features chambers with pools of glowing liquid."
+    ],
+    "subjects": [
+      "pools of glowing liquid"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Red Blooms",
+    "fact": "Parchments outlined mercantile agreements between an unnamed drow outpost and the Red Blooms.",
+    "source_quote": "crumpled parchments outlining mercantile agreements between an unnamed drow outpost and a group called the Red Blooms",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "variants": [
+      "Parchments outlined mercantile agreements between an unnamed drow outpost and the Red Blooms."
+    ],
+    "subjects": [
+      "Red Blooms"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "red X marks",
+    "fact": "One of the maps of Mulmaster bore red X marks and mocking annotations.",
+    "source_quote": "one of which bore red X marks and mocking annotations scrawled over sections labeled as destroyed",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "variants": [
+      "One of the maps of Mulmaster bore red X marks and mocking annotations."
+    ],
+    "subjects": [
+      "red X marks"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "stone basin",
+    "fact": "A stone basin carved to resemble the underside of a human brain was in the room.",
+    "source_quote": "The room also held a stone basin carved to resemble the underside of a human brain",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small",
+      "sweep"
+    ],
+    "variants": [
+      "A stone basin carved to resemble the underside of a human brain was in the room.",
+      "The room held a stone basin carved to resemble the underside of a human brain."
+    ],
+    "subjects": [
+      "stone basin"
+    ],
+    "n_samples": 3
+  },
+  {
+    "type": "object",
+    "subject": "stone basin",
+    "fact": "The party found a macabre stone basin carved in the shape of the underside of a human skull.",
+    "source_quote": "macabre stone basin",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "The party found a macabre stone basin carved in the shape of the underside of a human skull."
+    ],
+    "subjects": [
+      "stone basin"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Arrizz's fate",
+    "fact": "Arrizz is heard shouting from behind a door but his current status is unknown.",
+    "source_quote": "a defiant voice responding in Undercommon from behind a door to the northwest, which Daein recognizes as Arrizz",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "Arrizz is heard shouting from behind a door but his current status is unknown."
+    ],
+    "subjects": [
+      "Arrizz's fate"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "brain lock mechanism",
+    "fact": "The party deduces the brain-shaped basin requires a brain to open but has not yet opened the door.",
+    "source_quote": "which they deduce serves as a macabre locking mechanism requiring a brain to open",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "The party deduces the brain-shaped basin requires a brain to open but has not yet opened the door."
+    ],
+    "subjects": [
+      "brain lock mechanism"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "journey to rogue's lair",
+    "fact": "The journey to the rogue mind flayer's lair is estimated to take approximately ten days.",
+    "source_quote": "with the journey estimated to take approximately ten days.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "The journey to the rogue mind flayer's lair is estimated to take approximately ten days."
+    ],
+    "subjects": [
+      "journey to rogue's lair"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "missed ledger opportunity",
+    "fact": "The party missed an opportunity to read or steal a ledger during their previous exploits.",
+    "source_quote": "missed a golden intelligence opportunity by not reading the ledger",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "The party missed an opportunity to read or steal a ledger during their previous exploits."
+    ],
+    "subjects": [
+      "missed ledger opportunity"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "rogue mind flayer",
+    "fact": "The rogue mind flayer's lair holds secrets and danger yet to be uncovered.",
+    "source_quote": "the rogue mind flayer's lair stretching out before them, full of secrets and danger yet to be uncovered",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "The rogue mind flayer's lair holds secrets and danger yet to be uncovered."
+    ],
+    "subjects": [
+      "rogue mind flayer"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "rogue mind flayer",
+    "fact": "The rogue mind flayer's location is known but the confrontation has not yet occurred.",
+    "source_quote": "The party enters the lair of the rogue mind flayer",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "variants": [
+      "The rogue mind flayer's location is known but the confrontation has not yet occurred."
+    ],
+    "subjects": [
+      "rogue mind flayer"
+    ],
+    "n_samples": 1
+  }
+]

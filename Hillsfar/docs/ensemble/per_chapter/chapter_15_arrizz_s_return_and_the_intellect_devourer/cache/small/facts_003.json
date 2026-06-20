@@ -1,0 +1,408 @@
+[
+  {
+    "type": "event",
+    "subject": "Battle with Githyanki",
+    "fact": "The party engages in a fierce skirmish against Githyanki warriors and their knight to rescue Arrizz.",
+    "source_quote": "The party engages in a fierce skirmish against the Githyanki warriors and their knight to rescue Arrizz.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daein strikes Githyanki",
+    "fact": "Daein charges in and strikes one of the Githyanki warriors with two solid blows.",
+    "source_quote": "Daein charges in and strikes one of the Githyanki warriors with two solid blows.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Bramgrim summons Spirit Guardians",
+    "fact": "Bramgrim summons spectral Spirit Guardians that swirl around him in a wide radius, searing several Githyanki warriors with holy energy and halving their speed.",
+    "source_quote": "Bramgrim summons spectral Spirit Guardians that swirl around him in a wide radius, searing several Githyanki warriors with holy energy and halving their speed.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Akritas marks and kills warrior",
+    "fact": "Akritas marks a target with Hunter's Mark and swiftly cuts down one of the Githyanki warriors.",
+    "source_quote": "Akritas marks a target with Hunter's Mark and swiftly cuts down one of the Githyanki warriors.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Githyanki Knight repositions and attacks Owlbear",
+    "fact": "The Githyanki Knight uses Misty Step to reposition and delivers powerful greatsword strikes against the Owlbear.",
+    "source_quote": "The Githyanki Knight uses Misty Step to reposition and delivers powerful greatsword strikes against the Owlbear.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Githyanki warrior fails to break concentration",
+    "fact": "A Githyanki warrior attempts to break Bramgrim's concentration but misses spectacularly.",
+    "source_quote": "A Githyanki warrior attempts to break Bramgrim's concentration but misses spectacularly.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daein kills and wounds warriors",
+    "fact": "Daein uses Action Surge to unleash a flurry of additional strikes, landing a critical hit that kills one warrior and wounding another.",
+    "source_quote": "Daein uses Action Surge to unleash a flurry of additional strikes, landing a critical hit that kills one warrior and wounding another.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Owlbear attacks from doorway",
+    "fact": "The Owlbear, too large to enter the narrow hallway, attacks the nearest accessible foe from the doorway.",
+    "source_quote": "The Owlbear, too large to enter the narrow hallway, attacks the nearest accessible foe from the doorway.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Akritas cuts down another warrior",
+    "fact": "Akritas moves her Hunter's Mark and cuts down another warrior.",
+    "source_quote": "Akritas moves her Hunter's Mark and cuts down another warrior.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Bramgrim summons Spiritual Weapon and casts Toll the Dead",
+    "fact": "Bramgrim summons a Spiritual Weapon and uses Toll the Dead against a wounded warrior.",
+    "source_quote": "Bramgrim summons a Spiritual Weapon and uses Toll the Dead against a wounded warrior.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Githyanki Knight flees",
+    "fact": "The Githyanki Knight, realizing the tide has turned, casts Plane Shift and vanishes from the material plane, leaving behind a clear threat that the party has made a permanent enemy.",
+    "source_quote": "The Githyanki Knight, realizing the tide has turned, casts Plane Shift and vanishes from the material plane, leaving behind a clear threat that the party has made a permanent enemy.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Githyanki warriors defeated",
+    "fact": "The remaining Githyanki warriors are defeated, leaving the party victorious.",
+    "source_quote": "The remaining Githyanki warriors are defeated, leaving the party victorious.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Arrizz",
+    "fact": "The party frees Arrizz from his bonds and discovers he is suffering from madness induced by the demonic influence permeating the area.",
+    "source_quote": "The party frees Arrizz from his bonds and discovers he is suffering from madness induced by the demonic influence permeating the area.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Arrizz restored by mushroom",
+    "fact": "The party feeds Arrizz a piece of their magical mushroom, which restores his sanity and brings back his calculating demeanor.",
+    "source_quote": "The party feeds Arrizz a piece of their magical mushroom, which restores his sanity and brings back his calculating demeanor.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Arrizz",
+    "fact": "Arrizz explains that after their previous adventure together, he decided to return to the Underdark because he found the surface world too bright and unsettling for a drow.",
+    "source_quote": "Arrizz explains that after their previous adventure together, he decided to return to the Underdark because he found the surface world too bright and unsettling for a drow.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Arrizz",
+    "fact": "He recounts being captured by the Githyanki patrol while traveling through the Underdark.",
+    "source_quote": "He recounts being captured by the Githyanki patrol while traveling through the Underdark.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Arrizz agrees to travel with party",
+    "fact": "Arrizz expresses his desire to leave but, after some negotiation, agrees to wait nearby and potentially travel with the party for a time through the Underdark before parting ways.",
+    "source_quote": "Arrizz expresses his desire to leave but, after some negotiation, agrees to wait nearby and potentially travel with the party for a time through the Underdark before parting ways.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Fungal Chamber door",
+    "fact": "The party moves northeast to investigate a second door covered in fungus and moss, detecting a strange scent before entering.",
+    "source_quote": "The party moves northeast to investigate a second door covered in fungus and moss, detecting a strange scent before entering.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Party approaches fungal door",
+    "fact": "The party approaches a door covered in thick fungus and moss, pausing to investigate before entering.",
+    "source_quote": "The party approaches a door covered in thick fungus and moss, pausing to investigate before entering.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Felkur",
+    "fact": "Felkur leads the investigation and detects a faint, acrid odor reminiscent of freshly harvested alfalfa emanating from behind the door.",
+    "source_quote": "Felkur leads the investigation and detects a faint, acrid odor reminiscent of freshly harvested alfalfa emanating from behind the door.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Chamber revealed",
+    "fact": "The party opens the door to reveal a humid, stale chamber covered in slick moss and fungus, with several large orbs bobbing gently in the air.",
+    "source_quote": "The party opens the door to reveal a humid, stale chamber covered in slick moss and fungus, with several large orbs bobbing gently in the air.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "brain basin",
+    "fact": "A brain basin is spotted within the chamber, consistent with the other sealed door mechanisms found in the lair.",
+    "source_quote": "A brain basin is spotted within the chamber, consistent with the other sealed door mechanisms found in the lair.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thera Grabelthum",
+    "fact": "Felkur discovers an unconscious Duergar buried beneath a mound of debris and muck within the chamber.",
+    "source_quote": "Felkur discovers an unconscious Duergar buried beneath a mound of debris and muck within the chamber.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thera Grabelthum",
+    "fact": "The party revives the Duergar, who identifies herself as Thera Grabelthum, claiming to be a traveler captured by a Githyanki patrol.",
+    "source_quote": "The party revives the Duergar, who identifies herself as Thera Grabelthum, claiming to be a traveler captured by a Githyanki patrol.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thera fed mushroom",
+    "fact": "The party feeds her a piece of magical mushroom, but it appears to have no effect on her.",
+    "source_quote": "The party feeds her a piece of magical mushroom, but it appears to have no effect on her.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thera Grabelthum",
+    "fact": "Suspicious of her story, the party intimidates Thera, who eventually admits to being a spy working for the Zhentarim Black Network, collecting information about Sporedome and other Duergar.",
+    "source_quote": "Suspicious of her story, the party intimidates Thera, who eventually admits to being a spy working for the Zhentarim Black Network, collecting information about Sporedome and other Duergar.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thera Grabelthum",
+    "fact": "Thera refuses to reveal more about her employers, citing fear of their retribution.",
+    "source_quote": "Thera refuses to reveal more about her employers, citing fear of their retribution.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Ambush in Muck",
+    "fact": "Two Githyanki warriors and a hidden Intellect Devourer launch a surprise attack on the party from within the chamber.",
+    "source_quote": "Two Githyanki warriors and a hidden Intellect Devourer launch a surprise attack on the party from within the chamber.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Githyanki ambush and Thera flees",
+    "fact": "Two Githyanki warriors emerge from the muck to ambush the party, while Thera turns invisible and attempts to flee.",
+    "source_quote": "Two Githyanki warriors emerge from the muck to ambush the party, while Thera turns invisible and attempts to flee.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Githyanki surprise round",
+    "fact": "The Githyanki launch a surprise round, striking at the Owlbear and other party members.",
+    "source_quote": "The Githyanki launch a surprise round, striking at the Owlbear and other party members.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Owlbear retaliates and is psychic blasted",
+    "fact": "The Owlbear retaliates with powerful strikes against one of the warriors before being targeted by a psychic blast.",
+    "source_quote": "The Owlbear retaliates with powerful strikes against one of the warriors before being targeted by a psychic blast.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Felkur casts Firebolt",
+    "fact": "Felkur hurls a Firebolt at the attackers, though the damage is minimal.",
+    "source_quote": "Felkur hurls a Firebolt at the attackers, though the damage is minimal.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Intellect Devourer emerges",
+    "fact": "Akritas slays one of the Githyanki warriors, only for a horrific four-legged brain creature \u2014 an Intellect Devourer \u2014 to burst from the fallen enemy's skull.",
+    "source_quote": "Akritas slays one of the Githyanki warriors, only for a horrific four-legged brain creature \u2014 an Intellect Devourer \u2014 to burst from the fallen enemy's skull.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Intellect Devourer mind blasts Owlbear",
+    "fact": "The Intellect Devourer uses a mind blast that successfully stuns the Owlbear, leaving the sidekick incapacitated.",
+    "source_quote": "The Intellect Devourer uses a mind blast that successfully stuns the Owlbear, leaving the sidekick incapacitated.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Akritas attacks Intellect Devourer",
+    "fact": "Akritas places Hunter's Mark on the Intellect Devourer and strikes it, leaving it clinging to life.",
+    "source_quote": "Akritas places Hunter's Mark on the Intellect Devourer and strikes it, leaving it clinging to life.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Bramgrim summons Guardian of Faith",
+    "fact": "Bramgrim summons a Guardian of Faith to hold the line, which strikes the Intellect Devourer and reduces it to a single hit point.",
+    "source_quote": "Bramgrim summons a Guardian of Faith to hold the line, which strikes the Intellect Devourer and reduces it to a single hit point.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Remaining Githyanki escapes",
+    "fact": "The remaining Githyanki warrior uses Misty Step to escape the party's reach as the battle reaches a chaotic conclusion.",
+    "source_quote": "The remaining Githyanki warrior uses Misty Step to escape the party's reach as the battle reaches a chaotic conclusion.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Session ends",
+    "fact": "The session ends with the Intellect Devourer barely alive, Thera invisible and fleeing, and the party regrouping.",
+    "source_quote": "The session ends with the Intellect Devourer barely alive, Thera invisible and fleeing, and the party regrouping.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Rogue Mind Flayer's Lair",
+    "fact": "A dark, unsettling complex deep in the Underdark containing surgical remains, detailed maps of surface cities, stone brain basins that serve as door mechanisms, and narrow hallways that restrict large creatures like the Owlbear.",
+    "source_quote": "A dark, unsettling complex deep in the Underdark containing surgical remains, detailed maps of surface cities, stone brain basins that serve as door mechanisms, and narrow hallways that restrict large creatures like the Owlbear.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Sporedome",
+    "fact": "A location in the Underdark where the party had a brief rest before being summoned to meet with the mind flayer Glor.",
+    "source_quote": "A location in the Underdark where the party had a brief rest before being summoned to meet with the mind flayer Glor.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "The Humid Chamber",
+    "fact": "A stale, humid room within the rogue's lair covered in slick moss and fungus, with several large orbs bobbing in the air.",
+    "source_quote": "A stale, humid room within the rogue's lair covered in slick moss and fungus, with several large orbs bobbing in the air.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "The Humid Chamber",
+    "fact": "It contained a brain basin, hidden Githyanki warriors, and the deceptive Duergar Thera Grabelthum buried beneath debris.",
+    "source_quote": "It contained a brain basin, hidden Githyanki warriors, and the deceptive Duergar Thera Grabelthum buried beneath debris.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Glor",
+    "fact": "A mind flayer representing the Ryxyg Illithid encampment who claims his community has chosen peaceful coexistence.",
+    "source_quote": "A mind flayer representing the Ryxyg Illithid encampment who claims his community has chosen peaceful coexistence.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Glor",
+    "fact": "He hired the party to hunt a rogue mind flayer and provided them with a map to the rogue's lair.",
+    "source_quote": "He hired the party to hunt a rogue mind flayer and provided them with a map to the rogue's lair.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Zhentarim Black Network",
+    "fact": "Thera admits to being a spy working for the Zhentarim Black Network, collecting information about Sporedome and other Duergar.",
+    "source_quote": "Suspicious of her story, the party intimidates Thera, who eventually admits to being a spy working for the Zhentarim Black Network, collecting information about Sporedome and other Duergar.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Ryxyg Illithid encampment",
+    "fact": "Glor represents the Ryxyg Illithid encampment.",
+    "source_quote": "A mind flayer representing the Ryxyg Illithid encampment who claims his community has chosen peaceful coexistence.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Owlbear",
+    "fact": "The Owlbear, too large to enter the narrow hallway, attacks the nearest accessible foe from the doorway.",
+    "source_quote": "The Owlbear, too large to enter the narrow hallway, attacks the nearest accessible foe from the doorway.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Intellect Devourer",
+    "fact": "A horrific four-legged brain creature \u2014 an Intellect Devourer \u2014 bursts from the fallen enemy's skull.",
+    "source_quote": "only for a horrific four-legged brain creature \u2014 an Intellect Devourer \u2014 to burst from the fallen enemy's skull.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Intellect Devourer",
+    "fact": "The Intellect Devourer uses a mind blast that successfully stuns the Owlbear, leaving the sidekick incapacitated.",
+    "source_quote": "The Intellect Devourer uses a mind blast that successfully stuns the Owlbear, leaving the sidekick incapacitated.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Intellect Devourer",
+    "fact": "The session ends with the Intellect Devourer barely alive.",
+    "source_quote": "The session ends with the Intellect Devourer barely alive",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "magical mushroom",
+    "fact": "The party feeds Arrizz a piece of their magical mushroom, which restores his sanity.",
+    "source_quote": "The party feeds Arrizz a piece of their magical mushroom, which restores his sanity and brings back his calculating demeanor.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "magical mushroom",
+    "fact": "The party feeds Thera a piece of magical mushroom, but it appears to have no effect on her.",
+    "source_quote": "The party feeds her a piece of magical mushroom, but it appears to have no effect on her.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Hunter's Mark",
+    "fact": "Akritas marks a target with Hunter's Mark and swiftly cuts down one of the Githyanki warriors.",
+    "source_quote": "Akritas marks a target with Hunter's Mark and swiftly cuts down one of the Githyanki warriors.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Spiritual Weapon",
+    "fact": "Bramgrim summons a Spiritual Weapon and uses Toll the Dead against a wounded warrior.",
+    "source_quote": "Bramgrim summons a Spiritual Weapon and uses Toll the Dead against a wounded warrior.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Guardian of Faith",
+    "fact": "Bramgrim summons a Guardian of Faith to hold the line, which strikes the Intellect Devourer and reduces it to a single hit point.",
+    "source_quote": "Bramgrim summons a Guardian of Faith to hold the line, which strikes the Intellect Devourer and reduces it to a single hit point.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Thera's employers",
+    "fact": "Thera refuses to reveal more about her employers, citing fear of their retribution.",
+    "source_quote": "Thera refuses to reveal more about her employers, citing fear of their retribution.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Intellect Devourer survival",
+    "fact": "The session ends with the Intellect Devourer barely alive.",
+    "source_quote": "The session ends with the Intellect Devourer barely alive",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Thera's escape",
+    "fact": "The session ends with Thera invisible and fleeing.",
+    "source_quote": "The session ends with the Intellect Devourer barely alive, Thera invisible and fleeing, and the party regrouping.",
+    "quote_verified": true
+  }
+]

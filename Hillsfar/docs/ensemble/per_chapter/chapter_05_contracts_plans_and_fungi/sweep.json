@@ -1,0 +1,415 @@
+[
+  {
+    "type": "date",
+    "subject": "Jan 19th, 2026",
+    "fact": "The session notes are dated Jan 19th, 2026.",
+    "source_quote": "Date: Jan 19th, 2026",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Maram il Vass",
+    "fact": "Maram il Vass is a yugoloth who has entered into a binding contract with the party.",
+    "source_quote": "You have entered into a binding contract with the yugoloth Maram il Vass",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Lexicon of Oaths",
+    "fact": "The Lexicon of Oaths is a tome of great significance currently held by Vraxen.",
+    "source_quote": "retrieve the Lexicon of Oaths, a tome of great significance currently held by his rival, Vraxen",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "hourglass",
+    "fact": "Maram provided an hourglass representing the exact time remaining to secure the book.",
+    "source_quote": "Maram has provided an hourglass representing the exact time remaining to secure the book",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Vraxen",
+    "fact": "Vraxen is a yugoloth rival of Maram il Vass who possesses the Lexicon of Oaths.",
+    "source_quote": "currently held by his rival, Vraxen",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Felkur",
+    "fact": "Felkur learned he stole the Watcher's Eye Brooch instead of a simple trinket.",
+    "source_quote": "Felkur has finally learned the truth of his past\u2014he did not steal a simple trinket, but the Watcher's Eye Brooch",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Watcher's Eye Brooch",
+    "fact": "The Watcher's Eye Brooch is a symbol of power that allowed Felkur to accidentally evade powerful mages.",
+    "source_quote": "the Watcher's Eye Brooch, a symbol of power that allowed him to accidentally evade the most powerful mages in Mulmaster",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Sporedome",
+    "fact": "The party returned to the drow encampment at Sporedome.",
+    "source_quote": "Upon returning to the drow encampment at Sporedome",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Solom Ned'razak",
+    "fact": "Solom Ned'razak is the ruler of Szith Morcane who presented a task to the party.",
+    "source_quote": "you reunited with Solom Ned'razak, the ruler of Szith Morcane, who has presented a task",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "demonic taint purge ritual",
+    "fact": "Solom requires the blood of a living fire giant infused with fiendish essence to purge the demonic taint.",
+    "source_quote": "Solom requires the blood of a living fire giant that has been infused with fiendish essence",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Graz'zt",
+    "fact": "Graz'zt supports the demon-blooded pests that Solom views as a threat.",
+    "source_quote": "survival against the \"demon-blooded pests\" supported by Graz'zt",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Xaven Tanor'this",
+    "fact": "Xaven Tanor'this is Solom's collaborator who knows the secret route to Maerimydra.",
+    "source_quote": "secret route known only to Solom and his collaborator, Xaven Tanor'this",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Black Ember Outpost",
+    "fact": "The party must travel to the Black Ember Outpost, a fire giant stronghold.",
+    "source_quote": "travel to the Black Ember Outpost, a fire giant stronghold",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Pathway of the Shadows",
+    "fact": "The Pathway of the Shadows is a tunnel that leads directly into the Shattered Tower.",
+    "source_quote": "The tunnel, known as the Pathway of the Shadows, leads directly into the Shattered Tower",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Shattered Tower",
+    "fact": "The Shattered Tower is Solom's former center of study inside Maerimydra.",
+    "source_quote": "inside Maerimydra (Solom's former center of study)",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "The Spire of Inevitable Reckoning",
+    "fact": "The Spire of Inevitable Reckoning is a basalt tower with a green-glowing teleportation circle at its apex.",
+    "source_quote": "The Spire of Inevitable Reckoning, a basalt tower with a green-glowing teleportation circle at its apex",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Maram il Vass",
+    "fact": "Maram il Vass questions Felkur about what he has done.",
+    "source_quote": "\"Do you have any idea, Felkur, what you've done?\"",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Solom Ned'razak",
+    "fact": "Solom Ned'razak describes the location as a damp, fungal purgatory.",
+    "source_quote": "And yet, here I stand, in this damp, fungal purgatory",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daein",
+    "fact": "Solom explains what a portable hole is to Daein.",
+    "source_quote": "Solom explains what a portable hole is to Daein",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Solom Ned'razak",
+    "fact": "Solom Ned'razak introduces himself as archwizard and ruler of Szith Morcane.",
+    "source_quote": "\"I am Solom Ned'razak, archwizard and ruler of Szith Morcane",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Xaven Tanor'this",
+    "fact": "Solom thanks the party for recovering Xaven Tanor'this from the palace of Maram il Vass.",
+    "source_quote": "Thank you for recovering Xaven Tanor'this from the palace of Maram il Vass",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Solom Ned'razak",
+    "fact": "Solom states that every demon-blooded pest is going to pay for what they did.",
+    "source_quote": "every demon-blooded pest is going to pay for what they did",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Brotherhood of Cloaks",
+    "fact": "The Brotherhood of Cloaks has spent thousands of gold pieces on divination rituals to find Felkur.",
+    "source_quote": "The Brotherhood of Cloaks has spent thousands of gold pieces on divination rituals",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "High Inquisitors",
+    "fact": "The Brotherhood of Cloaks executed three High Inquisitors for failing to find the infiltrator.",
+    "source_quote": "They've executed three High Inquisitors for 'failing' to find a master infiltrator",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Red Guard",
+    "fact": "Felkur was previously chasing the Red Guard through the mud.",
+    "source_quote": "Chasing the Red Guard through the mud",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Hillsfar",
+    "fact": "Felkur saved Hillsfar from Graz'zt.",
+    "source_quote": "Saving Hillsfar from Graz'zt",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Moonsea",
+    "fact": "Felkur became a surgical strike against the security of the Moonsea.",
+    "source_quote": "surgical strike against the security of the Moonsea",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Watcher's Eye Brooch",
+    "fact": "The Watcher's Eye Brooch was sold by Felkur for forty pieces of silver.",
+    "source_quote": "protect a 'bauble' you sold for forty pieces of silver",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Astral Plane",
+    "fact": "The Brotherhood of Cloaks scoured the Astral Plane to find Felkur.",
+    "source_quote": "They've scoured the Astral Plane",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Mask",
+    "fact": "The Brotherhood of Cloaks calculated the infiltrator must be a chosen of Mask.",
+    "source_quote": "chosen of Mask",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Xaven Tanor'this",
+    "fact": "Xaven Tanor'this hurries the characters to the encampment at Sporedome.",
+    "source_quote": "Xaven Tanor'this hurries the characters to the encampment",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Solom Ned'razak",
+    "fact": "Solom Ned'razak wears a fresh set of finely crafted purple robes trimmed with silver.",
+    "source_quote": "wearing a fresh set of finely crafted purple robes trimmed with silver",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Solom Ned'razak",
+    "fact": "Solom and Xaven head to a large tent to do research.",
+    "source_quote": "Solom and Xaven head to a large tent to do research",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Sporedome stay",
+    "fact": "The party spends two days in Sporedome.",
+    "source_quote": "The party spends two days in Sporedome",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Solom Ned'razak",
+    "fact": "Solom becomes furious when the party interrupts his research.",
+    "source_quote": "he's furious",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Solom Ned'razak",
+    "fact": "Solom rejects the party's offer to join them, stating he is indispensable.",
+    "source_quote": "He rejects their offer, explaining that he's indispensable to survival",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "mind protecting mushrooms",
+    "fact": "The party goes hunting for the mind protecting mushrooms they found previously.",
+    "source_quote": "the party goes after the mind protecting mushrooms that they found last time in Sporedome",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daein",
+    "fact": "Daein complains that the need for a store has gone now that they are heroes of Hillsfar.",
+    "source_quote": "Daein complains that now that they are heroes of Hillsfar, the need for a store has gone",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Xaven",
+    "fact": "Xaven trails behind Solom and wrings his hands nervously.",
+    "source_quote": "Behind him trails Xaven, nervous judging by the number of times he wrings his hands",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "map of Maerimydra",
+    "fact": "Solom provides the characters a slightly outdated map of Maerimydra.",
+    "source_quote": "Solom provides the characters a map of Maerimydra- -albeit slightly outdated",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Hledh",
+    "fact": "Hledh is a powerful fiendish giantess who commands the heavy guards at Maerimydra.",
+    "source_quote": "their leader, a powerful fiendish giantess named Hledh, keeps the gates heavily guarded",
+    "quote_verified": true
+  },
+  {
+    "type": "deity",
+    "subject": "Lolth",
+    "fact": "The secret tunnel was built to avoid the sight of the Lolth-worshipping matron mothers.",
+    "source_quote": "beyond the sight of the Lolth-worshipping matron mothers",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Kurgoth Hellspawn",
+    "fact": "Kurgoth Hellspawn and the fire giants demolished the Shattered Tower over a century ago.",
+    "source_quote": "Kurgoth Hellspawn and the fire giants demolished the Shattered Tower",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "breathing apparatus",
+    "fact": "The party proposes adding a breathing apparatus to the portable hole.",
+    "source_quote": "add a breathing apparatus to the portable hole",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "portable hole",
+    "fact": "The party proposes stuffing the giant into a portable hole.",
+    "source_quote": "stuff in a portable hole",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Bags of Holding",
+    "fact": "Ned'razak explains the difference between Bags of Holding and Portable Holes.",
+    "source_quote": "The difference between Bags of Holding and Portable Holes according to Ned'razak",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Sporedome encampment",
+    "fact": "The tunnel opens into a vast cavern with a fungal forest and a large lake.",
+    "source_quote": "The tunnel opens up into a vast cavern... A great fungal forest spreads out on the ground... dim waters of a large lake",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "myconids",
+    "fact": "A large colony of myconids resides in the fungal forest at Sporedome.",
+    "source_quote": "large colony of myconids, though the shy creatures keep their distance",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "drow elves",
+    "fact": "Several dozen drow elves mill around the tents at the Sporedome encampment.",
+    "source_quote": "around which mill several dozen drow elves",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Black Ember Outpost",
+    "fact": "The entrance to the secret passageway is in a cave under the Black Ember Outpost.",
+    "source_quote": "In an cave under the outpost is a lake and the entrance to the secret passageway",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Pathway of the Shadows",
+    "fact": "The Pathway of the Shadows was built to leave the Shattered Tower undetected from the clerics of Lolth.",
+    "source_quote": "built to leave the Shattered Tower and Maerimydra undetected from the clerics of Lolth",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "The Spire of Inevitable Reckoning",
+    "fact": "The Spire of Inevitable Reckoning is a tower of sheer basalt with a glowing green room at the top.",
+    "source_quote": "A tower of sheer basalt that at the top had a glowing green room",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Watcher's eye brooch",
+    "fact": "The brooch is attuned to the defensive wards of the Tower of the Blades.",
+    "source_quote": "The brooch is attuned to the defensive wards of the Tower of the Blades",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Tower of the Blades",
+    "fact": "The Tower of the Blades is the seat of government in Mulmaster.",
+    "source_quote": "the Tower of the Blades, the seat of government in Mulmaster",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Timepiece of Maram il Vass",
+    "fact": "The Timepiece of Maram il Vass is an hourglass representing the time to secure the Lexicon of Oaths.",
+    "source_quote": "An hourglass that represents the total time available to secure the Lexicon of Oaths",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Vraxen",
+    "fact": "Vraxen is a yugoloth in Maerimydra managing Graz'zt's deal with the Fire Giants.",
+    "source_quote": "Yugoloth in Maerimydra who is managing Graz'zt's deal with the Fire Giants",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Solom Ned'razak",
+    "fact": "Solom Ned'razak is a powerful drow wizard who rules Szith Morcane.",
+    "source_quote": "Solom is a powerful drow wizard who rules Szith Morcane",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Xaven Tanor'this",
+    "fact": "Xaven Tanor'this is a drow alchemist and long-time collaborator of Solom.",
+    "source_quote": "A drow alchemist that was saved from Maram il Vass, and a long time collaborator of Solom's",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "antidote",
+    "fact": "Xaven's knowledge is key to creating an antidote to the demonic infused Fire Giant blood.",
+    "source_quote": "Xaven knowledge is key to create an antidote to the demonic infused Fire Giant blood",
+    "quote_verified": true
+  }
+]

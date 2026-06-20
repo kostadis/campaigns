@@ -1,0 +1,408 @@
+[
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The session date is January 19th, 2026.",
+    "source_quote": "Date: Jan 19th, 2026",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Maram il Vass",
+    "fact": "Maram il Vass is a yugoloth who has entered into a binding contract with the party.",
+    "source_quote": "You have entered into a binding contract with the yugoloth Maram il Vass",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Maram il Vass",
+    "fact": "Maram il Vass states that Felkur does not know what he stole or why he is being pursued.",
+    "source_quote": "Maram il Vass discovers that Felkur doesn't even know what he stole and why he is being pursued",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Maram il Vass",
+    "fact": "Maram il Vass asks Felkur if he has any idea what he has done.",
+    "source_quote": "\"Do you have any idea, Felkur, what you've done?\"",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Vraxen",
+    "fact": "Vraxen is a rival of Maram il Vass.",
+    "source_quote": "currently held by his rival, Vraxen",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Vraxen",
+    "fact": "Vraxen currently possesses the Lexicon of Oaths.",
+    "source_quote": "currently under the possession of Vraxen",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Vraxen",
+    "fact": "Vraxen is supposed to be monitoring the situation for Graz'zt.",
+    "source_quote": "Vraxen is supposed to be monitoring the situation for Graz'zt",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Felkur",
+    "fact": "Felkur has learned the truth of his past regarding a stolen item.",
+    "source_quote": "Felkur has finally learned the truth of his past",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Felkur",
+    "fact": "Felkur thought he stole a random trinket.",
+    "source_quote": "Felkur thought he stole a random trinket",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Felkur",
+    "fact": "Felkur accidentally tripped the most sophisticated anti-divination ward in the multiverse.",
+    "source_quote": "you accidentally tripped the most sophisticated anti-divination ward in the multiverse",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Felkur",
+    "fact": "Felkur sold the Watcher's Eye Brooch for forty pieces of silver.",
+    "source_quote": "\"bauble\" you sold for forty pieces of silver",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Felkur",
+    "fact": "The Brotherhood of Cloaks believes Felkur is a Level 20 Wizard or a chosen of Mask.",
+    "source_quote": "must be a Level 20 Wizard or a chosen of Mask",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Felkur",
+    "fact": "The Brotherhood of Cloaks thinks Felkur is the leader of an 'Army'.",
+    "source_quote": "they're still looking for the 'Army' they assume you must lead",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Solom Ned'razak",
+    "fact": "Solom Ned'razak is the archwizard and ruler of Szith Morcane.",
+    "source_quote": "\"I am Solom Ned'razak, archwizard and ruler of Szith Morcane",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Solom Ned'razak",
+    "fact": "Solom Ned'razak reunited with the party at the drow encampment at Sporedome.",
+    "source_quote": "Upon returning to the drow encampment at Sporedome, you reunited with Solom Ned'razak",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Solom Ned'razak",
+    "fact": "Solom Ned'razak thanked the party for recovering Xaven Tanor'this.",
+    "source_quote": "Thank you for recovering Xaven Tanor'this from the palace of Maram il Vass",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Solom Ned'razak",
+    "fact": "Solom Ned'razak views himself as indispensable to the drow's survival.",
+    "source_quote": "viewing himself as indispensable to the drow's survival",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Solom Ned'razak",
+    "fact": "Solom Ned'razak considers the adventurers important but replaceable.",
+    "source_quote": "considering the adventurers \"important but replaceable\"",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Solom Ned'razak",
+    "fact": "Solom Ned'razak refuses to join the party directly.",
+    "source_quote": "Solom refuses to join the party directly",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Solom Ned'razak",
+    "fact": "Solom Ned'razak stated that every demon-blooded pest is going to pay for what they did.",
+    "source_quote": "every demon-blooded pest is going to pay for what they did",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Solom Ned'razak",
+    "fact": "Solom Ned'razak explained what a portable hole is to Daein.",
+    "source_quote": "Solom explains what a portable hole is to Daein",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Xaven Tanor'this",
+    "fact": "Xaven Tanor'this is a collaborator of Solom Ned'razak.",
+    "source_quote": "Solom and his collaborator, Xaven Tanor'this",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Xaven Tanor'this",
+    "fact": "Xaven Tanor'this was recovered from the palace of Maram il Vass.",
+    "source_quote": "recovering Xaven Tanor'this from the palace of Maram il Vass",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Hledh",
+    "fact": "Hledh is a giantess who commands heavy guards in Maerimydra.",
+    "source_quote": "heavy guards commanded by the giantess Hledh",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Brotherhood of Cloaks",
+    "fact": "The Brotherhood of Cloaks has spent thousands of gold pieces on divination rituals.",
+    "source_quote": "The Brotherhood of Cloaks has spent thousands of gold pieces on divination rituals",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Brotherhood of Cloaks",
+    "fact": "The Brotherhood of Cloaks has executed three High Inquisitors for failing to find Felkur.",
+    "source_quote": "They've executed three High Inquisitors for 'failing' to find a master infiltrator",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "demon-powered giants",
+    "fact": "Demon-powered giants are occupying the city of Maerimydra.",
+    "source_quote": "demon-powered giants occupying the city",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "demon-powered giants",
+    "fact": "The demon-powered giants are probably at each other's throats with Vraxen.",
+    "source_quote": "Vraxen and the demon powered Giants are probably at each other's throats",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Graz'zt",
+    "fact": "Maerimydra is being supported by Graz'zt.",
+    "source_quote": "Maerimydra is being supported by Graz'zt",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Maerimydra",
+    "fact": "The Lexicon of Oaths is located in Maerimydra.",
+    "source_quote": "The book is in Maerimydra",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Sporedome",
+    "fact": "Sporedome is a drow encampment where the party reunited with Solom Ned'razak.",
+    "source_quote": "drow encampment at Sporedome",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Pathway of the Shadows",
+    "fact": "The Pathway of the Shadows is a secret tunnel known only to Solom and Xaven Tanor'this.",
+    "source_quote": "secret route known only to Solom and his collaborator, Xaven Tanor'this",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Pathway of the Shadows",
+    "fact": "The Pathway of the Shadows leads directly into the Shattered Tower inside Maerimydra.",
+    "source_quote": "leads directly into the Shattered Tower (Solom's former center of study) inside Maerimydra",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Black Ember Outpost",
+    "fact": "The Black Ember Outpost is a fire giant stronghold built over a hidden tunnel.",
+    "source_quote": "Black Ember Outpost, a fire giant stronghold built over a hidden tunnel",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Black Ember Outpost",
+    "fact": "The Black Ember Outpost is located four miles from Maerimydra.",
+    "source_quote": "four miles from the city",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Shattered Tower",
+    "fact": "The Shattered Tower was Solom's former center of study.",
+    "source_quote": "Shattered Tower (Solom's former center of study)",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "The Spire of Inevitable Reckoning",
+    "fact": "The Spire of Inevitable Reckoning is a basalt tower with a green-glowing teleportation circle at its apex.",
+    "source_quote": "basalt tower with a green-glowing teleportation circle at its apex",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "The Spire of Inevitable Reckoning",
+    "fact": "Felkur intends to recalibrate the teleportation circle in The Spire of Inevitable Reckoning for the party's escape.",
+    "source_quote": "Felkur intends to recalibrate for your escape",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Moonsea",
+    "fact": "The Brotherhood of Cloaks considers the security of the Moonsea to have been struck by a surgical strike.",
+    "source_quote": "surgical strike against the security of the Moonsea",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Astral Plane",
+    "fact": "The Brotherhood of Cloaks has scoured the Astral Plane.",
+    "source_quote": "They've scoured the Astral Plane",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Lexicon of Oaths",
+    "fact": "The Lexicon of Oaths is a tome of great significance.",
+    "source_quote": "Lexicon of Oaths, a tome of great significance",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Lexicon of Oaths",
+    "fact": "The Lexicon of Oaths is the book the party agreed to secure.",
+    "source_quote": "They have agreed to secure a book - The Lexicon of Oaths",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "hourglass",
+    "fact": "Maram il Vass handed an hourglass to the party.",
+    "source_quote": "Maram il Vass hands an hourglass to the party",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "hourglass",
+    "fact": "The hourglass represents the time the party has left to find the Lexicon of Oaths.",
+    "source_quote": "represents the time they have left to find the Lexicon of Oaths before they run out of time",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Watcher's Eye Brooch",
+    "fact": "The Watcher's Eye Brooch is a symbol of power that Felkur stole.",
+    "source_quote": "stole a symbol of power: The Watcher's Eye Brooch",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Watcher's Eye Brooch",
+    "fact": "The Watcher's Eye Brooch allowed its possessor to be undetected.",
+    "source_quote": "A power of the brooch was to allow it's possessor to be undetected",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "portable hole",
+    "fact": "Solom Ned'razak explained the concept of a portable hole.",
+    "source_quote": "explaining the alphabet of the multiverse to a man who hits things for a living",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "demons",
+    "fact": "Solom Ned'razak refers to demons as 'demon-blooded pests'.",
+    "source_quote": "\"demon-blooded pests\" supported by Graz'zt",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "contract signing",
+    "fact": "The party entered into a binding contract with Maram il Vass.",
+    "source_quote": "You have entered into a binding contract with the yugoloth Maram il Vass",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "distraction strategy",
+    "fact": "Maram il Vass suggests creating a massive distraction by inciting a conflict between Vraxen's administration and the demon-powered giants.",
+    "source_quote": "Maram suggests creating a massive distraction by inciting a conflict between Vraxen's demonic administration and the demon-powered giants",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Felkur's revelation",
+    "fact": "Felkur learned he stole the Watcher's Eye Brooch instead of a simple trinket.",
+    "source_quote": "he did not steal a simple trinket, but the Watcher's Eye Brooch",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Solom's task",
+    "fact": "Solom Ned'razak presented a task to the party to purge the demonic taint from the region.",
+    "source_quote": "Solom requires the blood of a living fire giant that has been infused with fiendish essence",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "infiltration plan",
+    "fact": "The party decided to use a secret route known as the Path of Shadows instead of a frontal assault.",
+    "source_quote": "Instead, you will use a secret route known only to Solom and his collaborator, Xaven Tanor'this",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "travel to Black Ember Outpost",
+    "fact": "The party must travel to the Black Ember Outpost to access the tunnel.",
+    "source_quote": "You must travel to the Black Ember Outpost",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "recalibrating teleportation",
+    "fact": "Felkur intends to recalibrate the teleportation circle at the Spire of Inevitable Reckoning.",
+    "source_quote": "Felkur intends to recalibrate for your escape",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "time limit",
+    "fact": "The party has a limited amount of time to secure the Lexicon of Oaths before the window of opportunity closes.",
+    "source_quote": "exact time remaining to secure the book before your window of opportunity closes",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "demon blood purge",
+    "fact": "The party must obtain the blood of a living fire giant infused with fiendish essence to purge the region.",
+    "source_quote": "Solom requires the blood of a living fire giant that has been infused with fiendish essence",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "escape plan",
+    "fact": "The party needs to reach the Spire of Inevitable Reckoning to leave the city.",
+    "source_quote": "To leave the city, you must reach The Spire of Inevitable Reckoning",
+    "quote_verified": true
+  }
+]

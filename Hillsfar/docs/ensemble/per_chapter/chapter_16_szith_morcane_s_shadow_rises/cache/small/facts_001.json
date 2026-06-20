@@ -1,0 +1,415 @@
+[
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The session takes place on June 14th, 2026.",
+    "source_quote": "Date: Jun 14th, 2026",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "rogue Mind Illayer's lair",
+    "fact": "The party pressed onward through twisted corridors deep within the rogue Mind Illayer's lair.",
+    "source_quote": "Deep within the rogue Mind Illayer's lair, the party pressed onward through its twisted corridors",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "moss-covered chamber",
+    "fact": "The party found an unconscious Duergar named Thera Grabelthum in a moss-covered chamber.",
+    "source_quote": "uncovering a moss-covered chamber where they found an unconscious Duergar named Thera Grabelthum",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thera Grabelthum",
+    "fact": "Thera Grabelthum was found unconscious by the party.",
+    "source_quote": "they found an unconscious Duergar named Thera Grabelthum",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thera Grabelthum",
+    "fact": "Thera Grabelthum confessed to spying on Duergar operations for the Zhentarim Black Network.",
+    "source_quote": "she confessed to spying on Duergar operations for the Zhentarim Black Network",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Zhentarim Black Network",
+    "fact": "Thera Grabelthum was spying on Duergar operations for the Zhentarim Black Network.",
+    "source_quote": "she confessed to spying on Duergar operations for the Zhentarim Black Network",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thera Grabelthum turns invisible",
+    "fact": "Thera Grabelthum turned invisible and fled into the darkness.",
+    "source_quote": "Thera turned invisible and fled into the darkness",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Githyanki warriors",
+    "fact": "Two Githyanki warriors burst from the muck in a sudden ambush.",
+    "source_quote": "two Githyanki warriors burst from the muck in a sudden ambush",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Githyanki warrior",
+    "fact": "A slain Githyanki warrior's skull cracked open to reveal an intellect devourer.",
+    "source_quote": "a slain warrior's skull cracked open to reveal an intellect devourer",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "intellect devourer",
+    "fact": "An intellect devourer unleashed a devastating psychic blast that left the Owlbear stunned and helpless.",
+    "source_quote": "unleashed a devastating psychic blast that left the Owlbear stunned and helpless",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "intellect devourer",
+    "fact": "The intellect devourer was destroyed after a fierce struggle.",
+    "source_quote": "the creature was destroyed",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Githyanki warrior",
+    "fact": "The remaining Githyanki warrior fled.",
+    "source_quote": "the remaining Githyanki warrior fled",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thera Grabelthum",
+    "fact": "Thera Grabelthum was killed in the chaos.",
+    "source_quote": "Thera was killed in the chaos",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Owlbear",
+    "fact": "The Owlbear was healed after the ambush.",
+    "source_quote": "With the ambush behind them and the Owlbear healed",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "freezing chamber",
+    "fact": "The party discovered a freezing chamber kept cold by towering columns of ice.",
+    "source_quote": "They discovered a freezing chamber kept cold by towering columns of ice",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "massive block of opaque ice",
+    "fact": "A massive block of opaque ice sat at the center of the freezing chamber.",
+    "source_quote": "at the center of which sat a massive block of opaque ice",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "suspended brains",
+    "fact": "The massive block of opaque ice preserved suspended brains.",
+    "source_quote": "preserving suspended brains",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "vials of yellowish liquid",
+    "fact": "The massive block of opaque ice preserved small vials of yellowish liquid.",
+    "source_quote": "small vials of yellowish liquid",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "hidden copper plate",
+    "fact": "A hidden copper plate emblazoned with alien markings lay tucked within the freezing chamber.",
+    "source_quote": "A hidden copper plate emblazoned with alien markings lay tucked within the room",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "suspicious chest",
+    "fact": "A suspicious chest sat nearby in the freezing chamber.",
+    "source_quote": "a suspicious chest sat nearby",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "party leaves chest alone",
+    "fact": "The party chose to leave the suspicious chest alone.",
+    "source_quote": "the party wisely chose to leave alone",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "short rest",
+    "fact": "The party took a short rest to recover their strength.",
+    "source_quote": "After a short rest to recover their strength",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "unlocking doors",
+    "fact": "The party placed the brains they had collected at each of the sealed doors to unlock the path.",
+    "source_quote": "they placed the brains they had collected at each of the sealed doors, unlocking the path",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Mind Illayer's innermost sanctum",
+    "fact": "The path led to the Mind Illayer's innermost sanctum.",
+    "source_quote": "unlocking the path to the Mind Illayer's innermost sanctum",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Mind Illayer's innermost sanctum",
+    "fact": "The walls of the innermost sanctum were festooned with graven images of skulls and brains.",
+    "source_quote": "its walls festooned with graven images of skulls and brains of every size",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "decorative brain jars",
+    "fact": "Three tall, decorative brain jars stood at the center of the innermost sanctum.",
+    "source_quote": "Three tall, decorative brain jars stood at the center of the room",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Rogue Thought",
+    "fact": "Rogue Thought, the mad Mind Illayer, sat in the innermost sanctum sipping from a grisly jar.",
+    "source_quote": "sat Rogue Thought \u2014 the mad Mind Illayer they had come to destroy",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Rogue Thought",
+    "fact": "Rogue Thought declared that he had been waiting for the party for a very long time.",
+    "source_quote": "declared that he had been waiting for them for a very long time",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Githyanki warriors",
+    "fact": "Four Githyanki warriors flanked Rogue Thought.",
+    "source_quote": "Flanking him were four Githyanki warriors",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "battle erupts",
+    "fact": "The battle erupted immediately when one Githyanki warrior screamed that their master wished the party dead.",
+    "source_quote": "one of whom immediately screamed that their master wished the party dead",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Bramgrim",
+    "fact": "Rogue Thought identified Bramgrim as the greatest magical threat through his mind-reading.",
+    "source_quote": "whom he had identified through his mind-reading as the greatest magical threat",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Bramgrim summons guardians",
+    "fact": "Bramgrim summoned a storm of spectral guardians that scorched the warriors with holy energy.",
+    "source_quote": "summoning a storm of spectral guardians that scorched the warriors with holy energy",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Akritas",
+    "fact": "Akritas loosed precise and punishing arrows from across the chamber.",
+    "source_quote": "Akritas loosed precise and punishing arrows from across the chamber",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Githyanki teleport",
+    "fact": "Two of the Githyanki warriors used their innate ability to teleport away from the spectral guardians.",
+    "source_quote": "Two of the Githyanki warriors used their innate ability to teleport away from the spectral guardians",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Owlbear charges",
+    "fact": "The Owlbear charged through the far door and crashed into Rogue Thought.",
+    "source_quote": "The Owlbear charged through the far door and crashed into Rogue Thought himself",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Rogue Thought",
+    "fact": "The Owlbear delivered a powerful strike that visibly staggered Rogue Thought.",
+    "source_quote": "delivering a powerful strike that visibly staggered the ancient creature",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Felkur",
+    "fact": "Felkur unleashed a massive fireball that engulfed the Mind Illayer and nearly every Githyanki warrior.",
+    "source_quote": "he unleashed a massive fireball that roared through the chamber and engulfed the Mind Illayer and nearly every Githyanki warrior",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Rogue Thought severed tentacles",
+    "fact": "Rogue Thought severed his own tentacles and dropped them to the ground.",
+    "source_quote": "he severed his own tentacles, dropped them to the ground",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Rogue Thought escapes",
+    "fact": "Rogue Thought vanished in a flash of planar magic, escaping to another dimension entirely.",
+    "source_quote": "vanished in a flash of planar magic, escaping to another dimension entirely",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Rogue Thought",
+    "fact": "Rogue Thought warned that he and Graz'zt would have their revenge.",
+    "source_quote": "both he and Graz'zt would have their revenge",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Bramgrim",
+    "fact": "Bramgrim finished off the last surviving Githyanki warrior with a burst of necrotic energy.",
+    "source_quote": "Bramgrim finished off the last surviving Githyanki warrior with a burst of necrotic energy",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Rogue Thought's severed tentacles",
+    "fact": "The party collected Rogue Thought's severed tentacles as proof of their victory.",
+    "source_quote": "The party collected Rogue Thought's severed tentacles as proof of their victory",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Arrizz",
+    "fact": "Arrizz traveled alongside the party one last time to Sporedome.",
+    "source_quote": "with Arrizz traveling alongside them one last time",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Arrizz",
+    "fact": "Arrizz paused at the edge of the fungal city to offer his farewell.",
+    "source_quote": "At the edge of the fungal city, the dry-witted drow paused and offered his farewell",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Arrizz",
+    "fact": "Arrizz said he hoped never to see the party again, but if he did, it would be because they were coming to save him.",
+    "source_quote": "he hoped never to see them again, but if he did, he was certain it would be because they were coming to save him",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Mind Illayer who hired the party",
+    "fact": "The Mind Illayer who hired them received the tentacles without ceremony.",
+    "source_quote": "The Mind Illayer who had hired them received the tentacles without ceremony",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "reward for party",
+    "fact": "The Mind Illayer rewarded the party with powerful magical gifts.",
+    "source_quote": "rewarded the party with powerful magical gifts",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Order of the Gauntlet",
+    "fact": "The Mind Illayer promised to pass vital intelligence about Graz'zt's operations to the Order of the Gauntlet.",
+    "source_quote": "promising to pass vital intelligence about Graz'zt's operations to the Order of the Gauntlet",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Order of the Gauntlet",
+    "fact": "The Order of the Gauntlet is the only faction the Mind Illayer trusted enough to deal with directly.",
+    "source_quote": "the only faction the creature trusted enough to deal with directly",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Hillsfar",
+    "fact": "The party returned to Hillsfar on the surface.",
+    "source_quote": "Back on the surface, the party returned to Hillsfar",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Isthana",
+    "fact": "Isthana is the city's powerful and influential criminal matriarch.",
+    "source_quote": "Isthana, the city's powerful and influential criminal matriarch",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "private dinner invitation",
+    "fact": "The party was promptly invited to a private dinner by Isthana.",
+    "source_quote": "were promptly invited to a private dinner by Isthana",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "three bottles of rare wine",
+    "fact": "Three bottles of rare wine were served as a personal gift to Felkur.",
+    "source_quote": "three bottles of rare wine \u2014 a personal gift to Felkur",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "business proposal",
+    "fact": "The party floated the idea of starting a business in the city.",
+    "source_quote": "the party floated the idea of starting a business in the city",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Isthana",
+    "fact": "Isthana warned that any business under her patronage would thrive.",
+    "source_quote": "any business under her patronage would thrive",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Isthana",
+    "fact": "Isthana warned that any venture without her support would find the city a very difficult place to operate.",
+    "source_quote": "any venture without her support would find the city a very difficult place to operate",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "dinner conclusion",
+    "fact": "The party left the dinner without signing anything.",
+    "source_quote": "left the dinner without signing anything",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "future arrangements with Isthana",
+    "fact": "The door remained open for future arrangements with Isthana.",
+    "source_quote": "though the door remained open for future arrangements",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Graz'zt's revenge",
+    "fact": "Rogue Thought warned that he and Graz'zt would have their revenge.",
+    "source_quote": "both he and Graz'zt would have their revenge",
+    "quote_verified": true
+  }
+]
