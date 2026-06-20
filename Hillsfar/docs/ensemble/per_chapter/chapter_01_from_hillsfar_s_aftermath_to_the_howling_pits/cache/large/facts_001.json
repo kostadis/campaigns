@@ -1,0 +1,394 @@
+[
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The session date is Nov 22nd, 2025.",
+    "source_quote": "Date: Nov 22nd, 2025",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "level up",
+    "fact": "The party levels up to 10th level.",
+    "source_quote": "levels up to 10th level",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daein",
+    "fact": "Daein increases his Charisma score with his ability score improvement.",
+    "source_quote": "Daein increases his Charisma score with his ability score improvement",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Akritas",
+    "fact": "Akritas is confirmed to have received Bracers of Archery and an Oathbow as equipment.",
+    "source_quote": "Akritas is confirmed to have received Bracers of Archery and an Oathbow as equipment",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Malkyn Grenefeld",
+    "fact": "The party defeated Malkyn Grenefeld in Hillsfar.",
+    "source_quote": "defeating Malkyn Grenefeld in Hillsfar",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Graz'zt",
+    "fact": "The demon lord Graz'zt threatened vengeance for his thwarted plot.",
+    "source_quote": "the demon lord Graz'zt's carefully constructed plot",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Red Plume",
+    "fact": "The Red Plume guards found themselves caught between fractured factions.",
+    "source_quote": "Red Plume guards found themselves caught between fractured factions",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Isthana",
+    "fact": "Isthana is the head of the Thieves Guild.",
+    "source_quote": "Isthana, the head of the Thieves Guild",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Isthana",
+    "fact": "Isthana appeared in the blood-soaked temple where the final battle had taken place.",
+    "source_quote": "appeared in the blood-soaked temple where the final battle had taken place",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Isthana",
+    "fact": "Isthana thanked the party for creating extraordinary opportunities for her organization.",
+    "source_quote": "thanking the party for creating such extraordinary opportunities for her organization",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "political offer",
+    "fact": "Isthana offered the party positions in Hillsfar's new political order.",
+    "source_quote": "offered them positions in Hillsfar's new political order",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daein",
+    "fact": "Daein declined the offer to join Hillsfar's political order immediately.",
+    "source_quote": "Daein declined immediately",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daein",
+    "fact": "Daein stated he preferred to keep his head attached to his body.",
+    "source_quote": "stating he preferred to keep his head attached to his body",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Akritas",
+    "fact": "Akritas received enchanted bracers from the castle's stores.",
+    "source_quote": "Akritas receiving enchanted bracers",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Akritas",
+    "fact": "Akritas received superior leather armor from the castle's stores.",
+    "source_quote": "and superior leather armor",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Bramgrim",
+    "fact": "Bramgrim was outfitted with magical plate mail.",
+    "source_quote": "Bramgrim and Daein were outfitted with magical plate mail",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daein",
+    "fact": "Daein was outfitted with magical plate mail.",
+    "source_quote": "and Daein were outfitted with magical plate mail",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Akritas",
+    "fact": "Akritas received Studded Leather +1 armor.",
+    "source_quote": "Akritas receives Studded Leather +1 armor",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Akritas",
+    "fact": "Akritas received Bracers of Archery.",
+    "source_quote": "and Bracers of Archery",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Bramgrim",
+    "fact": "Bramgrim received Mithral Plate armor.",
+    "source_quote": "Bramgrim receives Mithral Plate armor",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daein",
+    "fact": "Daein received Plate Mail +1.",
+    "source_quote": "Daein receives Plate Mail +1",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Akritas",
+    "fact": "Akritas revealed she can cast Pass Without Trace.",
+    "source_quote": "Akritas reveals she can cast Pass Without Trace",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "stealth bonus",
+    "fact": "Pass Without Trace grants the entire party a plus 10 to stealth.",
+    "source_quote": "granting the entire party a plus 10 to stealth",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Hillsfar Castle",
+    "fact": "The party prepared to leave through the castle's main gate.",
+    "source_quote": "prepared to leave through the castle's main gate",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Isthana",
+    "fact": "Isthana left through the sewers.",
+    "source_quote": "Isthana leaves through the sewers",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "gate passage",
+    "fact": "Red Plume guards at the front door let the blood-spattered party pass without confrontation.",
+    "source_quote": "ultimately let the blood-spattered party pass without confrontation",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "owlbear armor commission",
+    "fact": "The party commissioned custom-made scale mail armor for their owlbear companion.",
+    "source_quote": "commission custom-made scale mail armor for their owlbear companion",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "owlbear scale mail",
+    "fact": "The party ordered scale mail for the owlbear at a cost of 200 gold pieces.",
+    "source_quote": "order scale mail for the owlbear at a cost of 200 gold pieces",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Tavern in Hillsfar",
+    "fact": "The party settled into a tavern to rest and recover.",
+    "source_quote": "settled into a tavern to rest and recover",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Charles",
+    "fact": "Charles arrived with urgent news from the Emerald Enclave.",
+    "source_quote": "Charles arrived with urgent news from the Emerald Enclave",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Emerald Enclave",
+    "fact": "The Emerald Enclave wishes to speak with the party about a new danger involving fire giants infused with Graz'zt's power.",
+    "source_quote": "Emerald Enclave wishes to speak with the party about a new danger involving fire giants infused with Graz'zt's power",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Drow",
+    "fact": "The Drow brought terrifying intelligence about Graz'zt's continued machinations.",
+    "source_quote": "the Drow had brought terrifying intelligence about Graz'zt's continued machinations",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "fire giants",
+    "fact": "Graz'zt had infused fire giants with his own blood.",
+    "source_quote": "infused fire giants with his own blood",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "mission briefing",
+    "fact": "Charles directed the party to meet representatives at the Silver Shadow Cave near Elventree.",
+    "source_quote": "directed the party to meet representatives at the Silver Shadow Cave near Elventree",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Silver Shadow Cave",
+    "fact": "The party traveled to the sacred cave of Sel\u00fbne.",
+    "source_quote": "traveled to the sacred cave of Sel\u00fbne",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Silver Shadow Cave",
+    "fact": "The party arrived in the evening as soft moonlight bathed the clearing in pale radiance.",
+    "source_quote": "arriving in the evening as soft moonlight bathed the clearing in pale radiance",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Murssvayas Dhuurniv",
+    "fact": "Murssvayas Dhuurniv is a Drow with silver hair, emerald green eyes, and skin so dark it appeared nearly purple.",
+    "source_quote": "Murssvayas Dhuurniv, a Drow with silver hair, emerald green eyes, and skin so dark it appeared nearly purple",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Murssvayas Dhuurniv",
+    "fact": "Murssvayas Dhuurniv greeted each party member individually, including the owlbear.",
+    "source_quote": "greeted each party member individually, including the owlbear",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Murssvayas Dhuurniv",
+    "fact": "The owlbear seemed to recognize Murssvayas Dhuurniv with unusual familiarity.",
+    "source_quote": "who seemed to recognize him with unusual familiarity",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Szith Morcane",
+    "fact": "The Drow outpost of Szith Morcane had been sacked by an army of slaves led by fiendish fire giants and demons.",
+    "source_quote": "Drow outpost of Szith Morcane had been sacked by an army of slaves led by fiendish fire giants and demons",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Maerimydra",
+    "fact": "The army that sacked Szith Morcane came from the city of Maerimydra.",
+    "source_quote": "from the city of Maerimydra",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Solom Ned'razak",
+    "fact": "Solom Ned'razak is the leader of the outpost of Szith Morcane.",
+    "source_quote": "outpost's leader, Solom Ned'razak",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Solom Ned'razak",
+    "fact": "Solom Ned'razak is an incredibly powerful wizard.",
+    "source_quote": "an incredibly powerful wizard",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Solom Ned'razak",
+    "fact": "Solom Ned'razak fled to the fungal forest known as the Sporedome.",
+    "source_quote": "fled to the fungal forest known as the Sporedome",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Sporedome",
+    "fact": "The Sporedome is a fungal forest in the Underdark where other survivors had gathered.",
+    "source_quote": "fungal forest known as the Sporedome, where other survivors had gathered",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Xaven Tanor'this",
+    "fact": "Xaven Tanor'this is the chief alchemist of the Drow.",
+    "source_quote": "chief alchemist, Xaven Tanor'this",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Xaven Tanor'this",
+    "fact": "Xaven Tanor'this had been captured during the raid on Szith Morcane.",
+    "source_quote": "had been captured during the raid",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Xaven Tanor'this",
+    "fact": "Xaven Tanor'this was working on a ritual to purge the fiendish blood from the giants.",
+    "source_quote": "working on a ritual to purge the fiendish blood from the giants",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Maram il Vass",
+    "fact": "Maram il Vass is a creature who operates an extraplanar brokerage.",
+    "source_quote": "creature named Maram il Vass, who operated an extraplanar brokerage",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Den of the Whispered Word",
+    "fact": "The Den of the Whispered Word is an extraplanar brokerage located in the Howling Pits.",
+    "source_quote": "extraplanar brokerage called the Den of the Whispered Word in the twisted realm known as the Howling Pits",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Xaven Tanor'this",
+    "fact": "Xaven Tanor'this had been sold to Maram il Vass.",
+    "source_quote": "Xaven had been sold to a creature named Maram il Vass",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Solom's pendant",
+    "fact": "Murssvayas produced a pendant that Bramgrim recognized as belonging to Solom Ned'razak.",
+    "source_quote": "produced a pendant that Bramgrim recognized as belonging to Solom Ned'razak",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "mission agreement",
+    "fact": "The party agreed to undertake the mission to rescue Xaven Tanor'this.",
+    "source_quote": "party ultimately agreed to undertake the perilous mission",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "reward promise",
+    "fact": "Solom Ned'razak promised to grant the party an item from the legendary Drow horde if they successfully rescued Xaven and reclaimed Szith Morcane.",
+    "source_quote": "promised that if the party successfully rescued Xaven and helped reclaim Szith Morcane, they would be granted an item from the legendary Drow horde",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "fire giant conquest",
+    "fact": "The fire giants are threatening to complete their conquest of the Underdark.",
+    "source_quote": "before the fire giants could complete their conquest of the Underdark",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "surface world defense",
+    "fact": "The fire giants may turn their attention to the defenseless cities of the surface world.",
+    "source_quote": "turn their attention to the defenseless cities of the surface world",
+    "quote_verified": true
+  }
+]

@@ -1,0 +1,667 @@
+[
+  {
+    "type": "date",
+    "subject": "Feb 8th, 2026",
+    "fact": "The session date is recorded as Feb 8th, 2026.",
+    "source_quote": "Date: Feb 8th, 2026",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Black Ember Outpost",
+    "fact": "The party stood victorious over the carnage at the Black Ember Outpost.",
+    "source_quote": "The party stood victorious over the carnage at the Black Ember Outpost",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Path of the Shadows",
+    "fact": "The path forward was down a well on the Path of the Shadows.",
+    "source_quote": "The path forward, on the Path of the Shadows, was down a well",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "storeroom",
+    "fact": "The party searched the storeroom before descending into the well.",
+    "source_quote": "Before descending into the well, the party searched the storeroom",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "hidden chest",
+    "fact": "A hidden chest was discovered in the storeroom.",
+    "source_quote": "discovered a hidden chest containing potions of flying and fire giant strength",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "potions of flying",
+    "fact": "The hidden chest contained potions of flying.",
+    "source_quote": "discovered a hidden chest containing potions of flying and fire giant strength",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "potions of fire giant strength",
+    "fact": "The hidden chest contained potions of fire giant strength.",
+    "source_quote": "discovered a hidden chest containing potions of flying and fire giant strength",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "coral gemstones",
+    "fact": "Coral gemstones worth a considerable sum were found in the chest.",
+    "source_quote": "along with coral gemstones worth a considerable sum",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "staging the scene",
+    "fact": "The party decided to stage an elaborate scene inspired by a play about pretending the dead were still alive.",
+    "source_quote": "decided to stage an elaborate scene inspired by a play about pretending the dead were still alive",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Daein's performance",
+    "fact": "Daein's performance was so convincing that the bodies of the fire giant and ogres appeared to be merely resting.",
+    "source_quote": "Daein's performance was so convincing that the bodies of the fire giant and ogres appeared to be merely resting",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "well",
+    "fact": "The party plunged into the dark, murky waters of the well.",
+    "source_quote": "The party plunged into the dark, murky waters of the well",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Bramgrim",
+    "fact": "Bramgrim rode on the Owlbear's back because he was too short to navigate the five-foot depth.",
+    "source_quote": "Bramgrim and Felkur\u2014both too short to comfortably navigate the five-foot depth\u2014riding on the Owlbear's back",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Felkur",
+    "fact": "Felkur rode on the Owlbear's back because he was too short to navigate the five-foot depth.",
+    "source_quote": "Bramgrim and Felkur\u2014both too short to comfortably navigate the five-foot depth\u2014riding on the Owlbear's back",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Owlbear",
+    "fact": "The Owlbear carried Bramgrim and Felkur through the well.",
+    "source_quote": "riding on the Owlbear's back",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "tunnel",
+    "fact": "The party swam through a tunnel for about forty feet.",
+    "source_quote": "They swam through a tunnel for about forty feet",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Solom Ned'razak's private office",
+    "fact": "The tunnel emerged into a large cave that served as Solom Ned'razak's private office.",
+    "source_quote": "emerging into a large cave that served as Solom Ned'razak's private office",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Solom Ned'razak",
+    "fact": "Solom Ned'razak was a drow wizard who worked to subvert the power of Lolth's clerics.",
+    "source_quote": "learned that the drow wizard had been working to subvert the power of Lolth's clerics in Maerimydra",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "the Blink",
+    "fact": "Solom Ned'razak had developed theories about a mysterious event called the Blink.",
+    "source_quote": "developed theories about a mysterious event called the Blink",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "faerzress",
+    "fact": "The Blink caused the faerzress to flicker dramatically before returning to normal.",
+    "source_quote": "caused all the faerzress\u2014a dimension-controlling substance that provides illumination and blocks teleportation\u2014to flicker dramatically before returning to normal",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Menzoberranzan",
+    "fact": "Solom blamed powerful wizards and liches from Menzoberranzan for the Blink.",
+    "source_quote": "blaming powerful wizards and liches from Menzoberranzan for the catastrophe",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Lolth",
+    "fact": "Lolth used the Blink event to escape her imprisonment.",
+    "source_quote": "Lolth herself had used the event to escape her imprisonment",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Maerimydra",
+    "fact": "The tunnel opened into Maerimydra, a city of fire and ash.",
+    "source_quote": "The tunnel finally opened into Maerimydra itself, a city of fire and ash",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Graz'zt's forces",
+    "fact": "Maerimydra is now controlled by demonic forces aligned with the demon lord Graz'zt.",
+    "source_quote": "now controlled by demonic forces aligned with the demon lord Graz'zt",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "fire giants",
+    "fact": "The streets of Maerimydra are patrolled by fire giants.",
+    "source_quote": "its streets patrolled by fire giants",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "armored ogres",
+    "fact": "The streets of Maerimydra are patrolled by armored ogres.",
+    "source_quote": "armored ogres",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "hellhounds",
+    "fact": "The streets of Maerimydra are patrolled by hellhounds.",
+    "source_quote": "hellhounds",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "demons",
+    "fact": "The streets of Maerimydra are patrolled by demons of all varieties.",
+    "source_quote": "demons of all varieties",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Hledh",
+    "fact": "The Fire Giant Queen Hledh resides in the eastern castle.",
+    "source_quote": "eastern castle with towers stretching to the ceiling housed the Fire Giant Queen Hledh",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "eastern castle",
+    "fact": "The eastern castle has towers stretching to the ceiling.",
+    "source_quote": "eastern castle with towers stretching to the ceiling",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "coliseum",
+    "fact": "A massive coliseum looms in the southern district.",
+    "source_quote": "a massive coliseum loomed in the southern district",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Pipyap",
+    "fact": "The party encountered an imp named Pipyap being tormented by ogres.",
+    "source_quote": "encountered four ogres tormenting a small creature by its barbed tail\u2014an imp desperately clutching a bloodstained satchel",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "bloodstained satchel",
+    "fact": "Pipyap was desperately clutching a bloodstained satchel.",
+    "source_quote": "desperately clutching a bloodstained satchel",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "combat with ogres",
+    "fact": "Daein, Akritas, the Owlbear, and Felkur's magic made short work of the ogres.",
+    "source_quote": "Daein, Akritas, the Owlbear, and Felkur's magic making short work of the ogres",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Akritas",
+    "fact": "Akritas participated in the battle against the ogres.",
+    "source_quote": "Daein, Akritas, the Owlbear, and Felkur's magic making short work of the ogres",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Pipyap's rescue",
+    "fact": "Pipyap eagerly accepted food from the party after being rescued.",
+    "source_quote": "The rescued imp introduced himself as Pipyap and eagerly accepted food from the party",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "contract negotiation",
+    "fact": "The party crafted a favorable agreement using their experience from a previous deal with an Ultraloth.",
+    "source_quote": "crafting a favorable agreement using their experience from a previous deal with an Ultraloth",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Ultraloth",
+    "fact": "The party had a previous deal with an Ultraloth.",
+    "source_quote": "experience from a previous deal with an Ultraloth",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Nine Hells",
+    "fact": "Pipyap had no desire to return to the Nine Hells.",
+    "source_quote": "where he had no desire to go",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Veperyd",
+    "fact": "Pipyap identified Veperyd as a fiendish giant who ran the Coliseum and its betting operations.",
+    "source_quote": "Veperyd, who ran the Coliseum and its betting operations",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Vraxen",
+    "fact": "Vraxen is a Yugoloth who lives in the Spire of Inevitable Reckoning.",
+    "source_quote": "Vraxen, a Yugoloth who lived in the Spire of Inevitable Reckoning",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Spire of Inevitable Reckoning",
+    "fact": "The Spire of Inevitable Reckoning houses a book the party needs to steal and a teleportation circle.",
+    "source_quote": "the same tower that housed both the book the party needed to steal and a teleportation circle they could use to escape",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Mulmaster wizard",
+    "fact": "A wizard from Mulmaster arrived for dinner at Vraxen's residence.",
+    "source_quote": "a wizard from Mulmaster had arrived for dinner at the residence of Vraxen",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Hillsfar",
+    "fact": "Bramgrim recalled that Hillsfar had been controlled by Graz'zt.",
+    "source_quote": "Bramgrim recalled that Hillsfar had been controlled by Graz'zt",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "salt",
+    "fact": "Pipyap complained about the lack of salt in the party's provisions.",
+    "source_quote": "complained about the lack of salt in their provisions",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daein's illusion performance",
+    "fact": "Daein's auditory illusion performance included the fire giant remarking that the human prisoner was particularly beautiful.",
+    "source_quote": "Daein's auditory illusion performance included the fire giant remarking that the human prisoner was particularly beautiful",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Akritas's critical hit",
+    "fact": "Akritas landed a staggering critical hit with her oath-sworn bow, dealing over 50 points of damage to the fire giant sergeant.",
+    "source_quote": "Akritas landed a staggering critical hit with her oath-sworn bow, dealing over 50 points of damage to the fire giant sergeant in a single strike",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "oath-sworn bow",
+    "fact": "Akritas used her oath-sworn bow to deal over 50 points of damage.",
+    "source_quote": "Akritas landed a staggering critical hit with her oath-sworn bow",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Lolth's escape",
+    "fact": "The party discovered that Lolth used the 'Blink' event to escape her imprisonment.",
+    "source_quote": "The party discovered that Lolth used the 'Blink' event to escape her imprisonment",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daein",
+    "fact": "Daein killed an ogre and struck the giant twice with an axe while winking at Bramgrim.",
+    "source_quote": "Daein killed an ogre and struck the giant twice with an axe while winking at Bramgrim",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "axe",
+    "fact": "Daein struck the giant twice with an axe.",
+    "source_quote": "struck the giant twice with an axe",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Bramgrim's healing",
+    "fact": "Bramgrim cast mass healing word after being shamed by Daein's offensive.",
+    "source_quote": "Bramgrim, shamed by Daein's relentless offensive, relented his healing-only stance to cast mass healing word",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "human prisoner",
+    "fact": "The fire giant remarked that the human prisoner was particularly beautiful.",
+    "source_quote": "remarked that the human prisoner was particularly beautiful",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "fire giant sergeant",
+    "fact": "Akritas delivered the finishing blow to the fire giant sergeant.",
+    "source_quote": "Akritas killed the fire giant sergeant",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Felkur's distraction",
+    "fact": "Felkur used Mage Hand to strip ogres of their uniforms, causing distraction.",
+    "source_quote": "Felkur used MageHand to strip ogres of their uniforms, causing distraction",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Daein's illusion",
+    "fact": "Daein created an illusion of a female hellhound to lure male hellhounds.",
+    "source_quote": "Daein created an illusion of a female hellhound to lure male hellhounds",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Felkur's fireball",
+    "fact": "Felkur initiated combat with a fireball on ogres.",
+    "source_quote": "Felkur initiated combat with a fireball on ogres",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Felkur's cannon",
+    "fact": "Felkur targeted giants with a cannon.",
+    "source_quote": "targeted giants with a cannon",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Bramgrim's spirit guardians",
+    "fact": "Bramgrim engaged with spirit guardians.",
+    "source_quote": "Bramgrim engaged with spirit guardians",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "hellhounds",
+    "fact": "Two hellhounds were killed, while a third escaped out of the outpost.",
+    "source_quote": "Two hellhounds were killed, while a third escaped out of the outpost",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Bramgrim's Silence",
+    "fact": "Bramgrim cast Silence to prevent alarms at the well.",
+    "source_quote": "Bramgrim cast Silence to prevent alarms at the well",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daein's damage reduction",
+    "fact": "A fire giant critically hit Daein for 50 points of damage, which Daein reduced to 45.",
+    "source_quote": "A fire giant critically hit Daein for 50 points of damage, which Daein reduced to 45",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Bramgrim's loss of concentration",
+    "fact": "Bramgrim lost concentration on spirit guardians after being struck by an ogre.",
+    "source_quote": "Bramgrim lost concentration on spirit guardians after being struck by an ogre",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Bramgrim's necrotic damage",
+    "fact": "Bramgrim dealt 27 points of necrotic damage with mass healing word.",
+    "source_quote": "dealt 27 points of necrotic damage",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "ragged blanket",
+    "fact": "The party found a chest beneath a ragged blanket.",
+    "source_quote": "found a chest beneath a ragged blanket",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "potion of flying",
+    "fact": "The party discovered a potion of flying in the chest.",
+    "source_quote": "They discovered a potion of flying, a potion of fire giant strength, and coral gemstones worth 400 gold pieces",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "potion of fire giant strength",
+    "fact": "The party discovered a potion of fire giant strength in the chest.",
+    "source_quote": "They discovered a potion of flying, a potion of fire giant strength, and coral gemstones worth 400 gold pieces",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "coral gemstones",
+    "fact": "The party discovered coral gemstones worth 400 gold pieces in the chest.",
+    "source_quote": "coral gemstones worth 400 gold pieces",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Weekend at Bernie's inspiration",
+    "fact": "Daein's staging was inspired by a play about pretending someone was alive who wasn't (Weekend at Bernie's).",
+    "source_quote": "inspired by a play about pretending someone was alive who wasn't (Weekend at Bernie's)",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "large pool",
+    "fact": "The well led to a large pool of dark, warm, five-foot-deep water.",
+    "source_quote": "led to a large pool of dark, warm, five-foot-deep water",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "five-foot-wide tunnel",
+    "fact": "They found a five-foot-wide tunnel at the bottom of the pool.",
+    "source_quote": "They found a five-foot-wide tunnel at the bottom of the pool",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "lamp",
+    "fact": "The party found a lamp in Solom Ned'razak's office.",
+    "source_quote": "The party found a lamp and papers in Solom Ned'razak's office",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "papers",
+    "fact": "The party found papers in Solom Ned'razak's office.",
+    "source_quote": "The party found a lamp and papers in Solom Ned'razak's office",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Felkur's Arcana check",
+    "fact": "Felkur used Arcana to recall that faerzress is a dimension-controlling substance.",
+    "source_quote": "Felkur used Arcana to recall that faerzress is a dimension-controlling substance that provides illumination and blocks teleportation",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "rubble removal",
+    "fact": "The party removed rubble blocking the tunnel, revealing Maerimydra.",
+    "source_quote": "The party removed rubble blocking the tunnel, revealing Maerimydra",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "western plateau",
+    "fact": "A western plateau bore the six-fingered symbol of Graz'zt.",
+    "source_quote": "a western plateau bore the six-fingered symbol of Graz'zt above a courtyard",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "six-fingered symbol",
+    "fact": "The six-fingered symbol of Graz'zt is on the western plateau.",
+    "source_quote": "a western plateau bore the six-fingered symbol of Graz'zt above a courtyard",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "courtyard",
+    "fact": "The six-fingered symbol is above a courtyard.",
+    "source_quote": "a western plateau bore the six-fingered symbol of Graz'zt above a courtyard",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "southern residential district",
+    "fact": "The massive coliseum is in the southern residential district.",
+    "source_quote": "massive coliseum in the southern residential district",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "iron braziers",
+    "fact": "Huge blazing fires burned in wide iron braziers.",
+    "source_quote": "Huge blazing fires burned in wide iron braziers",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daein's attack on Ogre #2",
+    "fact": "Daein attacked Ogre #2, dealing 41 hit points of damage.",
+    "source_quote": "Daein attacked Ogre #2, dealing 41 hit points of damage",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Akritas's attack on Ogre #2",
+    "fact": "Akritas finished off Ogre #2 with her bow and Hunter's Mark, dealing 38 hit points.",
+    "source_quote": "Akritas finished off Ogre #2 with her bow and Hunter's Mark, dealing 38 hit points",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Hunter's Mark",
+    "fact": "Akritas used Hunter's Mark to finish off Ogre #2.",
+    "source_quote": "Akritas finished off Ogre #2 with her bow and Hunter's Mark",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "rocks",
+    "fact": "The imp dashed behind rocks for cover.",
+    "source_quote": "The imp dashed behind rocks for cover",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Ogre #4's attack",
+    "fact": "Ogre #4 charged Daein, hitting for 13 points of damage, which Daein reduced to 6 using Protective Field.",
+    "source_quote": "Ogre #4 charged Daein, hitting for 13 points of damage, which Daein reduced to 6 using Protective Field",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Protective Field",
+    "fact": "Daein used Protective Field to reduce damage from Ogre #4.",
+    "source_quote": "reduced to 6 using Protective Field",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Owlbear's attack on Ogre #4",
+    "fact": "The Owlbear attacked Ogre #4, dealing 18 hit points.",
+    "source_quote": "The Owlbear attacked Ogre #4, dealing 18 hit points",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Ogre #3's attack on Owlbear",
+    "fact": "Ogre #3 attacked the Owlbear for 13 points of damage.",
+    "source_quote": "Ogre #3 attacked the Owlbear for 13 points of damage",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Felkur's Fireball",
+    "fact": "Felkur cast Fireball, hitting Ogres #1, #3, and #4 for 28 damage each.",
+    "source_quote": "Felkur cast Fireball, hitting Ogres #1, #3, and #4 for 28 damage each",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Felkur's second spell",
+    "fact": "Felkur used another spell to hit Ogre #3 for 16 damage.",
+    "source_quote": "used another spell to hit Ogre #3 for 16 damage",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Bramgrim's negotiation attempt",
+    "fact": "Bramgrim attempted to negotiate with the imp during combat.",
+    "source_quote": "Bramgrim attempted to negotiate with the imp during combat",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Ogre #1's attack on Daein",
+    "fact": "Ogre #1 attacked Daein but missed.",
+    "source_quote": "Ogre #1 attacked Daein but missed",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daein's critical hit on Ogre #4",
+    "fact": "Daein finished off Ogre #4 with a critical hit.",
+    "source_quote": "Daein finished off Ogre #4 with a critical hit",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Akritas's kill on Ogre #3",
+    "fact": "Akritas killed Ogre #3 with her bow and Hunter's Mark, dealing 38 hit points.",
+    "source_quote": "Akritas killed Ogre #3 with her bow and Hunter's Mark, dealing 38 hit points",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Owlbear's attack on Ogre #1",
+    "fact": "The Owlbear attacked Ogre #1, dealing 35 hit points.",
+    "source_quote": "The Owlbear attacked Ogre #1, dealing 35 hit points",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Felkur's firebolt",
+    "fact": "Felkur used a firebolt to finish off the last remaining Ogre #1.",
+    "source_quote": "Felkur used a firebolt to finish off the last remaining Ogre #1",
+    "quote_verified": true
+  }
+]

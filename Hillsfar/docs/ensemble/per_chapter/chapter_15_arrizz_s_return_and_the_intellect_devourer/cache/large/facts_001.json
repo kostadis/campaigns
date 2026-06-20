@@ -1,0 +1,842 @@
+[
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The session takes place on June 7th, 2026.",
+    "source_quote": "Date: Jun 7th, 2026",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Arrizz",
+    "fact": "Arrizz is a drow who was previously encountered by the party.",
+    "source_quote": "Arrizz, a drow they had crossed paths with before",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Arrizz",
+    "fact": "Arrizz's voice was heard faintly through a sealed door in the rogue mind flayer's lair.",
+    "source_quote": "From behind one of the doors, a faint and haunted voice drifted through the stone \u2014 the voice of Arrizz",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Arrizz",
+    "fact": "Arrizz stated, \"I was weak once, never again.\"",
+    "source_quote": "\"I was weak once, never again.\"",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Arrizz",
+    "fact": "Arrizz was bound to a post by six Githyanki.",
+    "source_quote": "Arrizz, who had been bound to a post",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Arrizz",
+    "fact": "Arrizz had vivid, colorful scars on his face from a disease he suffered long ago.",
+    "source_quote": "vivid, colorful scars that still marked his face from a disease he had suffered long ago",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Arrizz",
+    "fact": "The Githyanki were tormenting Arrizz.",
+    "source_quote": "They poked and prodded him with equal parts morbid curiosity and revulsion",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Arrizz",
+    "fact": "Arrizz was suffering from demonic madness induced by the Underdark.",
+    "source_quote": "The demonic madness that had been seeping through the Underdark had taken hold of him",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Arrizz",
+    "fact": "The party fed Arrizz a piece of their magical mushroom.",
+    "source_quote": "The party fed him a piece of their magical mushroom",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Arrizz",
+    "fact": "Arrizz's sanity was restored after consuming the magical mushroom.",
+    "source_quote": "after a disorienting moment, the old calculating gleam returned to his eyes",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Arrizz",
+    "fact": "Arrizz explained that he returned to the Underdark because the surface world was too bright and hard on his eyes.",
+    "source_quote": "he had decided the surface world was simply not for him \u2014 too bright, too full of people smiling when they weren't happy, and far too hard on his eyes",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Arrizz",
+    "fact": "Arrizz stated he had been captured by a Githyanki patrol.",
+    "source_quote": "been captured by the Githyanki patrol",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Arrizz",
+    "fact": "Arrizz nearly ended up with his brain harvested as a key for one of the lair's sealed doors.",
+    "source_quote": "had nearly ended up with his brain harvested as a key for one of the lair's sealed doors",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Arrizz",
+    "fact": "Arrizz agreed to wait nearby and travel with the party for a time before going his own way.",
+    "source_quote": "Arrizz agreed to wait nearby and travel with the party for a time before going his own way",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Arrizz",
+    "fact": "Arrizz agreed to travel with the party on the condition that they owed him a beer.",
+    "source_quote": "on the condition that they owed him a beer",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Arrizz",
+    "fact": "Arrizz stated, \"We're not eating brains.\"",
+    "source_quote": "\"We're not eating brains.\"",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Arrizz",
+    "fact": "Arrizz stated, \"You know the other thing I like about the Underdark? My eyes don't hurt.\"",
+    "source_quote": "\"You know the other thing I like about the Underdark? My eyes don't hurt.\"",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daein",
+    "fact": "Daein eased the left door open with careful, practiced silence.",
+    "source_quote": "Daein eased it open with careful, practiced silence",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daein",
+    "fact": "Daein led the charge into the room.",
+    "source_quote": "Daein led the charge",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daein",
+    "fact": "Daein cut into the nearest Githyanki warrior with swift, decisive strikes.",
+    "source_quote": "cutting into the nearest warrior with swift, decisive strikes",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daein",
+    "fact": "Daein used Action Surge to unleash a flurry of additional attacks.",
+    "source_quote": "Daein, fueled by a surge of adrenaline, unleashed a flurry of additional attacks",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daein",
+    "fact": "Daein landed a devastating critical blow that felled one Githyanki warrior.",
+    "source_quote": "landing a devastating critical blow that felled one warrior",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daein",
+    "fact": "Daein wounded another Githyanki warrior.",
+    "source_quote": "and wounded another",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Bramgrim",
+    "fact": "Bramgrim called upon divine power to summon a swirling host of spectral guardians.",
+    "source_quote": "Bramgrim called upon divine power, summoning a swirling host of spectral guardians",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Bramgrim",
+    "fact": "Bramgrim's spectral guardians scorched the Githyanki with holy energy.",
+    "source_quote": "radiated outward and scorched the Githyanki with holy energy",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Bramgrim",
+    "fact": "Bramgrim's spectral guardians slowed those who could not resist the sacred force.",
+    "source_quote": "slowing those who could not resist the sacred force",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Bramgrim",
+    "fact": "Bramgrim conjured a floating spectral weapon to harry the remaining enemies.",
+    "source_quote": "Bramgrim conjured a floating spectral weapon to harry the remaining enemies",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Bramgrim",
+    "fact": "Bramgrim called upon dark necrotic power to sap the strength of a wounded foe.",
+    "source_quote": "called upon dark necrotic power to sap the strength of a wounded foe",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Bramgrim",
+    "fact": "Bramgrim rolled a natural 2 on his insight check.",
+    "source_quote": "Bramgrim rolls a natural 2 on his insight check",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Bramgrim",
+    "fact": "Bramgrim failed to pick up on anything about the Githyanki situation.",
+    "source_quote": "completely failing to pick up on anything about the Githyanki situation",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Bramgrim",
+    "fact": "Bramgrim summoned a towering spectral guardian that lashed out at the Intellect Devourer.",
+    "source_quote": "Bramgrim called upon a new power, summoning a towering spectral guardian that lashed out at the Intellect Devourer",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Akritas",
+    "fact": "Akritas moved with hunter's precision.",
+    "source_quote": "Akritas moved with hunter's precision",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Akritas",
+    "fact": "Akritas marked her targets.",
+    "source_quote": "marking her targets",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Akritas",
+    "fact": "Akritas cut down Githyanki warriors one by one.",
+    "source_quote": "cutting them down one by one",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Akritas",
+    "fact": "Akritas cut down one of the Githyanki warriors in the second chamber.",
+    "source_quote": "Akritas cut down one of the warriors",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Akritas",
+    "fact": "Akritas marked the Intellect Devourer.",
+    "source_quote": "Akritas marked the creature",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Akritas",
+    "fact": "Akritas struck the Intellect Devourer hard.",
+    "source_quote": "and struck it hard",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Felkur",
+    "fact": "Felkur led the investigation of the second sealed door.",
+    "source_quote": "Felkur led the investigation",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Felkur",
+    "fact": "Felkur detected a faint, acrid odor hanging in the air.",
+    "source_quote": "detecting a faint, acrid odor hanging in the air",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Felkur",
+    "fact": "Felkur discovered a humanoid shape buried beneath a mound of debris and muck.",
+    "source_quote": "Felkur discovered a humanoid shape buried beneath a mound of debris and muck",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thera Grabelthum",
+    "fact": "Thera Grabelthum is a Duergar.",
+    "source_quote": "an unconscious Duergar, who stirred awake and introduced herself as Thera Grabelthum",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thera Grabelthum",
+    "fact": "Thera Grabelthum was unconscious and buried beneath debris.",
+    "source_quote": "unconscious Duergar, who stirred awake",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thera Grabelthum",
+    "fact": "Thera Grabelthum claimed to be an innocent traveler waylaid by a Githyanki patrol.",
+    "source_quote": "She spun a tale of being an innocent traveler waylaid by a Githyanki patrol",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thera Grabelthum",
+    "fact": "Thera Grabelthum admitted she had been working as a spy for the Zhentarim Black Network.",
+    "source_quote": "she admitted she had not simply been passing through. She had been working as a spy for the Zhentarim Black Network",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thera Grabelthum",
+    "fact": "Thera Grabelthum was collecting intelligence on Sporedome and other Duergar operations.",
+    "source_quote": "collecting intelligence on Sporedome and other Duergar operations",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thera Grabelthum",
+    "fact": "Thera Grabelthum refused to say more about her employers.",
+    "source_quote": "She refused to say more about her employers",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thera Grabelthum",
+    "fact": "Thera Grabelthum cited a fear of what her employers would do to her if she talked.",
+    "source_quote": "citing a very reasonable fear of what they would do to her if she talked",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thera Grabelthum",
+    "fact": "Thera Grabelthum turned invisible.",
+    "source_quote": "Thera turned invisible",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thera Grabelthum",
+    "fact": "Thera Grabelthum slipped away into the darkness.",
+    "source_quote": "and slipped away into the darkness",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Owlbear",
+    "fact": "The Owlbear was too large to squeeze fully into the narrow hallway.",
+    "source_quote": "too large to squeeze fully into the narrow hallway",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Owlbear",
+    "fact": "The Owlbear struck at whatever foes it could reach from the doorway.",
+    "source_quote": "struck at whatever foes it could reach from the doorway",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Owlbear",
+    "fact": "The Owlbear was targeted by the Githyanki Knight.",
+    "source_quote": "delivering punishing blows against the Owlbear",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Owlbear",
+    "fact": "The Owlbear was targeted by the two Githyanki warriors in the second chamber.",
+    "source_quote": "targeting the already-battered Owlbear",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Owlbear",
+    "fact": "The Owlbear was stunned by a psychic mind blast from the Intellect Devourer.",
+    "source_quote": "leaving the great beast stunned and helpless",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Owlbear",
+    "fact": "The Owlbear was left vulnerable in the middle of the fight.",
+    "source_quote": "helpless in the middle of the fight",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Githyanki",
+    "fact": "Six Githyanki were gathered around Arrizz.",
+    "source_quote": "Six Githyanki \u2014 five warriors clad in ornate, exotic armor and a formidable knight",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Githyanki",
+    "fact": "The Githyanki are ancient enemies of mind flayers.",
+    "source_quote": "these creatures to be ancient enemies of mind flayers",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Githyanki",
+    "fact": "The Githyanki are arrogant and warlike.",
+    "source_quote": "arrogant, warlike, and deeply hostile to anyone they deemed beneath them",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Githyanki",
+    "fact": "The Githyanki were tormenting Arrizz.",
+    "source_quote": "They poked and prodded him with equal parts morbid curiosity and revulsion",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Githyanki",
+    "fact": "The Githyanki Knight used bursts of magical teleportation to reposition across the battlefield.",
+    "source_quote": "The knight used bursts of magical teleportation to reposition across the battlefield",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Githyanki",
+    "fact": "The Githyanki warriors attempted to break Bramgrim's concentration.",
+    "source_quote": "Warriors attempted to break Bramgrim's concentration",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Githyanki",
+    "fact": "The Githyanki Knight cast a powerful planar spell and vanished entirely from the material world.",
+    "source_quote": "he cast a powerful planar spell and vanished entirely from the material world",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Githyanki",
+    "fact": "The Githyanki Knight left behind only the echo of a threat that the party had made a permanent enemy.",
+    "source_quote": "leaving behind only the echo of a threat that the party had made a permanent enemy",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Githyanki",
+    "fact": "Two Githyanki warriors burst from the muck in a coordinated ambush.",
+    "source_quote": "Two Githyanki warriors burst from the muck in a coordinated ambush",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Githyanki",
+    "fact": "The remaining Githyanki warrior used a burst of magical teleportation to slip beyond the party's reach.",
+    "source_quote": "used a burst of magical teleportation to slip beyond the party's reach",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Zhentarim Black Network",
+    "fact": "Thera Grabelthum was working as a spy for the Zhentarim Black Network.",
+    "source_quote": "working as a spy for the Zhentarim Black Network",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Zhentarim Black Network",
+    "fact": "Thera Grabelthum was collecting intelligence on Sporedome and other Duergar operations for the Zhentarim.",
+    "source_quote": "collecting intelligence on Sporedome and other Duergar operations",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Ryxyg Illithid encampment",
+    "fact": "Glor is a mind flayer representing the Ryxyg Illithid encampment.",
+    "source_quote": "Glor \u2014 a mind illithid representing the Ryxyg Illithid encampment",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Ryxyg Illithid encampment",
+    "fact": "Glor warned of fire giant siege weapons aimed at surface cities.",
+    "source_quote": "warned of fire giant siege weapons aimed at surface cities",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Intellect Devourer",
+    "fact": "A grotesque creature emerged from the fallen Githyanki warrior's skull.",
+    "source_quote": "From the fallen warrior's skull, a grotesque creature emerged",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Intellect Devourer",
+    "fact": "The creature was an Intellect Devourer.",
+    "source_quote": "an Intellect Devourer that had been lurking inside the Githyanki all along",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Intellect Devourer",
+    "fact": "The Intellect Devourer was a pulsating brain walking on four feline legs.",
+    "source_quote": "a pulsating brain walking on four feline legs",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Intellect Devourer",
+    "fact": "The Intellect Devourer immediately turned its psychic power on the Owlbear.",
+    "source_quote": "It immediately turned its psychic power on the Owlbear",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Intellect Devourer",
+    "fact": "The Intellect Devourer unleashed a devastating mental blast that left the Owlbear stunned.",
+    "source_quote": "unleashing a devastating mental blast that left the great beast stunned",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Intellect Devourer",
+    "fact": "Akritas struck the Intellect Devourer hard, leaving it barely clinging to life.",
+    "source_quote": "striking it hard, leaving it barely clinging to life",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Intellect Devourer",
+    "fact": "Bramgrim's spectral guardian reduced the Intellect Devourer to the very edge of destruction.",
+    "source_quote": "reduced it to the very edge of destruction",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Intellect Devourer",
+    "fact": "The Intellect Devourer was barely alive at the end of the session.",
+    "source_quote": "the Intellect Devourer barely alive",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "rogue mind flayer's lair",
+    "fact": "The party stood before two sealed doors deep within the rogue mind flayer's lair.",
+    "source_quote": "The party stood before two sealed doors deep within the rogue mind flayer's lair",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Underdark",
+    "fact": "The silence of the Underdark was pressing in around the party.",
+    "source_quote": "the silence of the Underdark pressing in around them",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Underdark",
+    "fact": "Arrizz had returned to the Underdark.",
+    "source_quote": "He had returned to the Underdark",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "left door room",
+    "fact": "The left door led to a room where six Githyanki were gathered around Arrizz.",
+    "source_quote": "What greeted them on the other side was a grim tableau. Six Githyanki",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "left door room",
+    "fact": "The left door room had a narrow hallway.",
+    "source_quote": "too large to squeeze fully into the narrow hallway",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "second sealed door chamber",
+    "fact": "The second sealed door led to a stale, oppressive chamber coated in moss and fungus.",
+    "source_quote": "a stale, oppressive chamber coated in moss and fungus",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "second sealed door chamber",
+    "fact": "Several large orbs were bobbing gently in the dim air of the second chamber.",
+    "source_quote": "with several large orbs bobbing gently in the dim air",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "second sealed door chamber",
+    "fact": "Another brain basin sat within the second chamber.",
+    "source_quote": "Another brain basin sat within",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "second sealed door chamber",
+    "fact": "Felkur detected a faint, acrid odor reminiscent of freshly cut grass in a humid field in the second chamber.",
+    "source_quote": "something like freshly cut grass in a humid field",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "silvery greatsword",
+    "fact": "The Githyanki knight bore a massive silvery greatsword.",
+    "source_quote": "a formidable knight bearing a massive silvery greatsword",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "magical mushroom",
+    "fact": "The party fed Arrizz a piece of their magical mushroom.",
+    "source_quote": "The party fed him a piece of their magical mushroom",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "magical mushroom",
+    "fact": "The party fed Thera Grabelthum a piece of their magical mushroom.",
+    "source_quote": "The party fed her a piece of magical mushroom",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "magical mushroom",
+    "fact": "The magical mushroom appeared to have no effect on Thera Grabelthum.",
+    "source_quote": "but it appears to have no effect on her",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "brain basin",
+    "fact": "A brain basin was spotted within the second chamber.",
+    "source_quote": "A brain basin is spotted within the chamber",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "brain basin",
+    "fact": "The Githyanki's brains could serve as keys for the brain basin doors.",
+    "source_quote": "the Githyanki's brains could serve as keys for the brain basin doors",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "sealed doors",
+    "fact": "The party stood before two sealed doors.",
+    "source_quote": "The party stood before two sealed doors",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "sealed doors",
+    "fact": "The second sealed door's surface was thick with fungus and slick moss.",
+    "source_quote": "its surface thick with fungus and slick moss",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "sealed doors",
+    "fact": "Arrizz nearly ended up with his brain harvested as a key for one of the lair's sealed doors.",
+    "source_quote": "as a key for one of the lair's sealed doors",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Arrizz's voice",
+    "fact": "A faint and haunted voice of Arrizz drifted through the stone from behind one of the doors.",
+    "source_quote": "a faint and haunted voice drifted through the stone \u2014 the voice of Arrizz",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "left door opening",
+    "fact": "The party chose to open the left door first.",
+    "source_quote": "The party chose to open the left door first",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "left door opening",
+    "fact": "Daein eased the left door open with careful, practiced silence.",
+    "source_quote": "Daein eased it open with careful, practiced silence",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "battle eruption",
+    "fact": "The battle erupted in a storm of steel and sorcery.",
+    "source_quote": "the battle erupted in a storm of steel and sorcery",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Githyanki Knight teleportation",
+    "fact": "The Githyanki Knight used bursts of magical teleportation to reposition across the battlefield.",
+    "source_quote": "The knight used bursts of magical teleportation to reposition across the battlefield",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Githyanki Knight Plane Shift",
+    "fact": "The Githyanki Knight cast a powerful planar spell and vanished entirely from the material world.",
+    "source_quote": "he cast a powerful planar spell and vanished entirely from the material world",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Arrizz freed",
+    "fact": "The party freed Arrizz from his bonds.",
+    "source_quote": "the party freed Arrizz from his bonds",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Arrizz cured",
+    "fact": "The party fed Arrizz a piece of their magical mushroom, and his sanity returned.",
+    "source_quote": "after a disorienting moment, the old calculating gleam returned to his eyes",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Arrizz agreement",
+    "fact": "Arrizz agreed to wait nearby and travel with the party for a time before going his own way.",
+    "source_quote": "Arrizz agreed to wait nearby and travel with the party for a time before going his own way",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "second door approach",
+    "fact": "The party approached the second sealed door.",
+    "source_quote": "Turning their attention northeast, the party approached the second sealed door",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "second door opening",
+    "fact": "The party pushed the second door open.",
+    "source_quote": "The party pushed the door open",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thera discovered",
+    "fact": "Felkur discovered an unconscious Duergar buried beneath a mound of debris and muck.",
+    "source_quote": "Felkur discovered an unconscious Duergar buried beneath a mound of debris and muck",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Thera interrogation",
+    "fact": "Thera Grabelthum admitted she had been working as a spy for the Zhentarim Black Network.",
+    "source_quote": "she admitted she had not simply been passing through. She had been working as a spy for the Zhentarim Black Network",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Githyanki ambush",
+    "fact": "Two Githyanki warriors burst from the muck in a coordinated ambush.",
+    "source_quote": "Two Githyanki warriors burst from the muck in a coordinated ambush",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thera invisibility",
+    "fact": "Thera turned invisible and slipped away into the darkness.",
+    "source_quote": "Thera turned invisible and slipped away into the darkness",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Intellect Devourer emergence",
+    "fact": "A grotesque creature emerged from the fallen Githyanki warrior's skull.",
+    "source_quote": "From the fallen warrior's skull, a grotesque creature emerged",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Intellect Devourer mind blast",
+    "fact": "The Intellect Devourer unleashed a devastating mental blast that left the Owlbear stunned.",
+    "source_quote": "unleashing a devastating mental blast that left the great beast stunned",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Intellect Devourer near death",
+    "fact": "Bramgrim's spectral guardian reduced the Intellect Devourer to the very edge of destruction.",
+    "source_quote": "reduced it to the very edge of destruction",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Githyanki warrior teleportation",
+    "fact": "The remaining Githyanki warrior used a burst of magical teleportation to slip beyond the party's reach.",
+    "source_quote": "used a burst of magical teleportation to slip beyond the party's reach",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Githyanki Knight threat",
+    "fact": "The Githyanki Knight left behind only the echo of a threat that the party had made a permanent enemy.",
+    "source_quote": "leaving behind only the echo of a threat that the party had made a permanent enemy",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Thera's employers",
+    "fact": "Thera Grabelthum refused to reveal more about her employers.",
+    "source_quote": "She refused to say more about her employers",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "rogue mind flayer's secrets",
+    "fact": "The rogue mind flayer's deepest secrets were still waiting behind the lair's sealed doors.",
+    "source_quote": "with the rogue mind flayer's deepest secrets still waiting behind the lair's sealed doors",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Owlbear status",
+    "fact": "The Owlbear was stunned and vulnerable.",
+    "source_quote": "the Owlbear stunned and vulnerable",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Thera's location",
+    "fact": "Thera was invisible and somewhere in the darkness.",
+    "source_quote": "Thera invisible and somewhere in the darkness",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Intellect Devourer status",
+    "fact": "The Intellect Devourer was barely alive.",
+    "source_quote": "the Intellect Devourer barely alive",
+    "quote_verified": true
+  }
+]

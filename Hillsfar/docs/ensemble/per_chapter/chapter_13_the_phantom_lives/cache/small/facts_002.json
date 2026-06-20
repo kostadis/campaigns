@@ -1,0 +1,296 @@
+[
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The session is titled 'Memorable Moments'.",
+    "source_quote": "Date: Memorable Moments",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Poison Cloud",
+    "fact": "A poisonous cloud filled the area, forcing everyone to make constitution saving throws.",
+    "source_quote": "A poisonous cloud fills the area, forcing everyone to make constitution saving throws to resist the toxins",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Mezzaloth",
+    "fact": "A Mezzaloth attempted to break the party's concentration on their spells but failed to hit Daein with its trident.",
+    "source_quote": "A Mezzaloth attempts to break the party's concentration on their spells but fails to hit Daein with its trident",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Mezzaloth",
+    "fact": "The Mezzaloth teleported to a new position to avoid Bramgrim's spirit guardians.",
+    "source_quote": "The Mezzaloth teleports to a new position to avoid Bramgrim's spirit guardians",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daein",
+    "fact": "Daein struck the Mezzaloth, dealing damage and imposing a disadvantage on its next attack.",
+    "source_quote": "Daein strikes the Mezzaloth, dealing damage and imposing a disadvantage on its next attack",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Bramgrim",
+    "fact": "Bramgrim took damage from the poison and lost his concentration on his spirit guardians.",
+    "source_quote": "Bramgrim takes damage from the poison and loses his concentration on his spirit guardians",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Bramgrim",
+    "fact": "Bramgrim attempted to dispel the poisonous cloud using magic but failed the necessary spellcasting check.",
+    "source_quote": "Bramgrim attempts to dispel the poisonous cloud using magic but fails the necessary spellcasting check",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Bramgrim",
+    "fact": "Bramgrim summoned a spiritual weapon as a bonus action.",
+    "source_quote": "Bramgrim summons a spiritual weapon as a bonus action to prepare for further combat",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Felkur",
+    "fact": "Felkur remained focused on maintaining concentration on a vital task despite the chaotic environment.",
+    "source_quote": "Felkur remains focused on maintaining concentration on a vital task despite the chaotic environment",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "cloud dissolution",
+    "fact": "Bramgrim struck the Mezzaloth with a bolt of fire, dissolving the poisonous cloud.",
+    "source_quote": "Bramgrim strikes the Mezzaloth with a bolt of fire, dissolving the poisonous cloud",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Akritas",
+    "fact": "Akritas fired her Oathbow at the Shield Guardian, dealing steady damage.",
+    "source_quote": "Akritas fires her Oathbow at the Shield Guardian, dealing steady damage",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Mezzaloth",
+    "fact": "The Mezzaloth attempted to dispel the Wall of Force but failed.",
+    "source_quote": "The Mezzaloth attempts to dispel the Wall of Force but fails",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Mezzaloth",
+    "fact": "The Mezzaloth teleported away to safety after failing to dispel the Wall of Force.",
+    "source_quote": "subsequently teleporting away to safety",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daein",
+    "fact": "Daein finished off the weakened Mezzaloth as it tried to regroup.",
+    "source_quote": "Daein finishes off the weakened Mezzaloth as it tries to regroup",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Apprentice Arcanaloths",
+    "fact": "Three Apprentice Arcanaloths emerged and began shouting for reinforcements.",
+    "source_quote": "Three Apprentice Arcanaloths emerge and begin shouting for reinforcements",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Bramgrim",
+    "fact": "Bramgrim healed the Owlbear.",
+    "source_quote": "Bramgrim heals the Owlbear",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daein",
+    "fact": "Daein used his second wind to recover from his wounds.",
+    "source_quote": "Daein uses his second wind to recover from his wounds",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Fire Giants",
+    "fact": "Two Fire Giants scaled the wall and joined the fray, fueled by rage over the party's perceived insults to their master.",
+    "source_quote": "Two Fire Giants scale the wall and join the fray, fueled by rage over the party's perceived insults to their master",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Apprentice Arcanaloth",
+    "fact": "An Apprentice Arcanaloth unleashed a fireball that engulfed the entire party.",
+    "source_quote": "An Apprentice Arcanaloth unleashes a fireball that engulfs the entire party",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Party",
+    "fact": "Everyone in the party managed to survive the fireball blast.",
+    "source_quote": "though everyone manages to survive the blast",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Mezzaloth",
+    "fact": "A new Mezzaloth arrived and used a wand of disintegration to finally destroy the Wall of Force.",
+    "source_quote": "A new Mezzaloth arrives and uses a wand of disintegration to finally destroy the Wall of Force",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Fire Giants",
+    "fact": "The Fire Giants attempted to slash at Daein but miraculously missed every single attack.",
+    "source_quote": "The Fire Giants attempt to slash at Daein but miraculously miss every single attack",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "party escape",
+    "fact": "As the fifth round concluded, the party successfully teleported away from the battlefield.",
+    "source_quote": "As the fifth round concludes, the party successfully teleports away from the battlefield",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Sporedome",
+    "fact": "The party materialized in Sporedome, greeted by Solom Ned'razak and Xaven Tanor'this.",
+    "source_quote": "The party materializes in Sporedome, greeted by Solom Ned'razak and Xaven Tanor'this",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Drow assistants",
+    "fact": "Drow assistants took custody of the captured Fire Giant, Brandyr, for Solom's experimentation.",
+    "source_quote": "Drow assistants take custody of the captured Fire Giant, Brandyr, for Solom's experimentation",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Solom Ned'razak",
+    "fact": "Solom Ned'razak explained that the ritual would take ten days.",
+    "source_quote": "Solom Ned'razak explains that the ritual will take ten days",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Solom Ned'razak",
+    "fact": "Solom Ned'razak instructed the party to return to Hillsfar.",
+    "source_quote": "and instructs the party to return to Hillsfar",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Solom Ned'razak",
+    "fact": "Solom Ned'razak stated he would remain in contact via Murssvayas Dhuurniv.",
+    "source_quote": "Solom Ned'razak states he will remain in contact via Murssvayas Dhuurniv",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "party leveling",
+    "fact": "The party leveled up.",
+    "source_quote": "The party levels up",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Bramgrim",
+    "fact": "Bramgrim gained advantage on concentration checks.",
+    "source_quote": "with Bramgrim gaining advantage on concentration checks",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Bramgrim",
+    "fact": "Bramgrim gained the Word of Radiance cantrip.",
+    "source_quote": "and the Word of Radiance cantrip",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Felkur",
+    "fact": "Felkur considered creating a mechanical device to modify his elemental attacks.",
+    "source_quote": "Felkur considers creating a mechanical device to modify his elemental attacks",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Akritas",
+    "fact": "Akritas improved her archery skills, gaining the ability to ignore cover and fire effectively at close range.",
+    "source_quote": "Akritas improves her archery skills, gaining the ability to ignore cover and fire effectively at close range",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Trident",
+    "fact": "The Trident is the weapon wielded by the Mezzaloth.",
+    "source_quote": "The weapon wielded by the Mezzaloth",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Oathbow",
+    "fact": "The Oathbow was used by Akritas against the Shield Guardian.",
+    "source_quote": "used by Akritas to strike enemies from a distance",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Wand of Disintegration",
+    "fact": "The Wand of Disintegration was pressed against the Wall of Force and used to instantly destroy the barrier.",
+    "source_quote": "pressed against the Wall of Force and used to instantly destroy the barrier",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Mezzaloth",
+    "fact": "The Mezzaloth cast a sphere of poisonous yellow-green fog called Cloudkill.",
+    "source_quote": "A sphere of poisonous yellow-green fog cast by the Mezzaloth",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Brandyr",
+    "fact": "Brandyr is a Fire Giant captured by the party and handed over to Solom Ned'razak's Drow assistants.",
+    "source_quote": "captured Fire Giant, Brandyr",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Solom Ned'razak",
+    "fact": "Solom Ned'razak is a Drow Archmage.",
+    "source_quote": "A Drow Archmage who receives the party",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Xaven Tanor'this",
+    "fact": "Xaven Tanor'this is a Drow Alchemist who greets the party alongside Solom Ned'razak.",
+    "source_quote": "A Drow Alchemist who greets the party alongside Solom Ned'razak",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Owlbear",
+    "fact": "The Owlbear was caught in the poisonous cloud and took damage.",
+    "source_quote": "caught in the poisonous cloud and took damage",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Owlbear",
+    "fact": "The Owlbear was healed by Bramgrim.",
+    "source_quote": "before being healed by Bramgrim",
+    "quote_verified": true
+  }
+]

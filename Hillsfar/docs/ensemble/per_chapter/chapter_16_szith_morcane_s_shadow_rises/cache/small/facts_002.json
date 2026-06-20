@@ -1,0 +1,380 @@
+[
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The evening ended with a telepathic message arriving for Akritas.",
+    "source_quote": "The evening ended with a telepathic message arriving for Akritas",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Emerald Enclave",
+    "fact": "The Emerald Enclave sent a telepathic message to Akritas.",
+    "source_quote": "a telepathic message arriving for Akritas from the Emerald Enclave",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "fire giants",
+    "fact": "Fire giants control the Underdark city of Szith Morcane.",
+    "source_quote": "fire giants controlling the Underdark city of Szith Morcane",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Szith Morcane",
+    "fact": "Szith Morcane is an Underdark city.",
+    "source_quote": "the Underdark city of Szith Morcane",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "giants' target shift",
+    "fact": "The fire giants have turned their eyes toward the Dalelands and Hillsfar.",
+    "source_quote": "had turned their eyes toward the surface \u2014 toward the Dalelands and Hillsfar itself",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "brain-capped mushrooms",
+    "fact": "The brain-capped mushrooms are holding back the worst of Graz'zt's madness.",
+    "source_quote": "The brain-capped mushrooms the party had secured were holding back the worst of Graz'zt's madness",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Drow resistance",
+    "fact": "The Drow resistance is led by the wizard Murssvayas Dhuurniv.",
+    "source_quote": "Drow resistance led by the wizard Murssvayas Dhuurniv",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Murssvayas Dhuurniv",
+    "fact": "Murssvayas Dhuurniv is a wizard.",
+    "source_quote": "the wizard Murssvayas Dhuurniv",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "party mission",
+    "fact": "The party was called to travel to Szith Morcane to stop the giants.",
+    "source_quote": "The party was called to travel to Szith Morcane... and stop the giants",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Arrizz",
+    "fact": "Arrizz gave a dry-witted farewell to the party.",
+    "source_quote": "Well, I hope I never meet you again. But if you do, I know it'll be because you're planning to save me.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Arrizz",
+    "fact": "Arrizz is a drow.",
+    "source_quote": "from the drow the party rescued",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Rogue Thought",
+    "fact": "Rogue Thought severed his own tentacles.",
+    "source_quote": "severed his own tentacles",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Rogue Thought",
+    "fact": "Rogue Thought plane shifted away to another dimension.",
+    "source_quote": "plane shifted away to another dimension",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Rogue Thought",
+    "fact": "Rogue Thought was reduced to near death.",
+    "source_quote": "Rogue Thought, reduced to near death",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Rogue Thought",
+    "fact": "Rogue Thought is a Mind Flayer.",
+    "source_quote": "The Mind Flayer escaped rather than face destruction",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Rogue Thought",
+    "fact": "Rogue Thought delivered an ominous greeting while sipping from a brain jar.",
+    "source_quote": "The mad Mind Flayer's ominous greeting to the party, delivered while casually sipping from a brain jar",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Rogue Thought",
+    "fact": "Rogue Thought vowed revenge.",
+    "source_quote": "leaving behind only a vow of revenge from himself and Graz'zt",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Felkur",
+    "fact": "Felkur positioned a fireball to catch the Mind Flayer and nearly every Githyanki warrior.",
+    "source_quote": "Felkur carefully positioned a fireball to catch the Mind Flayer and nearly every Githyanki warrior in the blast",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Isthana",
+    "fact": "Isthana delivered a thinly veiled threat over a fine dinner.",
+    "source_quote": "Isthana's thinly veiled threat delivered with a smile over a fine dinner",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Isthana",
+    "fact": "Isthana implied business would not be good without her patronage.",
+    "source_quote": "Any business that was not under my patronage \u2014 well, I wouldn't say anything bad would happen, but business would not be good.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Arrizz",
+    "fact": "Arrizz was bound and tormented by Githyanki warriors.",
+    "source_quote": "The party discovers Arrizz bound and tormented by Githyanki warriors",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daein",
+    "fact": "Daein led an assault against the Githyanki.",
+    "source_quote": "Daein leads an assault against the Githyanki",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Bramgrim",
+    "fact": "Bramgrim provided spectral guardians to support the assault.",
+    "source_quote": "supported by Bramgrim's spectral guardians",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Akritas",
+    "fact": "Akritas provided archery support during the assault.",
+    "source_quote": "and Akritas's archery",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Githyanki knight",
+    "fact": "A Githyanki knight vanished using planar magic.",
+    "source_quote": "A Githyanki knight vanishes using planar magic",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Githyanki knight",
+    "fact": "The Githyanki knight warned the party they had made a permanent enemy.",
+    "source_quote": "after warning the party they have made a permanent enemy",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Arrizz freed",
+    "fact": "The party freed Arrizz.",
+    "source_quote": "The party frees Arrizz",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Arrizz cured",
+    "fact": "The party cured Arrizz's demonic madness using a piece of magical mushroom.",
+    "source_quote": "and cures his demonic madness using a piece of magical mushroom",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thera Grabelthum",
+    "fact": "Thera Grabelthum is an unconscious Duergar.",
+    "source_quote": "Thera Grabelthum, an unconscious Duergar",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thera Grabelthum",
+    "fact": "Thera Grabelthum is revealed to be a Zhentarim spy.",
+    "source_quote": "revealed under intimidation to be a Zhentarim spy",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thera Grabelthum",
+    "fact": "Thera Grabelthum turned invisible.",
+    "source_quote": "while Thera turns invisible",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thera Grabelthum",
+    "fact": "Thera Grabelthum attempted to flee.",
+    "source_quote": "attempts to flee",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thera Grabelthum",
+    "fact": "Thera Grabelthum was killed during the chaos.",
+    "source_quote": "Thera is killed during the chaos",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Githyanki warriors",
+    "fact": "Two Githyanki warriors ambushed the party from the muck.",
+    "source_quote": "Two Githyanki warriors ambush the party from the muck",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "intellect devourer",
+    "fact": "An intellect devourer emerged from a slain warrior's skull.",
+    "source_quote": "An intellect devourer emerges from a slain warrior's skull",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "intellect devourer",
+    "fact": "The intellect devourer stunned the Owlbear with a devastating psychic blast.",
+    "source_quote": "stuns the Owlbear with a devastating psychic blast",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "intellect devourer",
+    "fact": "Felkur destroyed the intellect devourer with a firebolt.",
+    "source_quote": "Felkur destroys the intellect devourer with a firebolt",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Githyanki warrior",
+    "fact": "Felkur damaged a Githyanki warrior with a firebolt.",
+    "source_quote": "and damages a Githyanki warrior",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Githyanki warrior",
+    "fact": "Daein and Akritas coordinated to finish off the remaining Githyanki warrior.",
+    "source_quote": "Daein and Akritas coordinate to finish off the remaining Githyanki warrior",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Owlbear",
+    "fact": "The Owlbear was stunned and helpless.",
+    "source_quote": "left the Owlbear stunned and helpless",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Owlbear",
+    "fact": "Bramgrim healed the injured and unconscious Owlbear after combat.",
+    "source_quote": "Bramgrim heals the injured and unconscious Owlbear after the combat ends",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Mind Flayer's lair",
+    "fact": "The party battles in a rogue Mind Flayer's lair.",
+    "source_quote": "in a rogue Mind Flayer's lair",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "opals",
+    "fact": "The party found two opals.",
+    "source_quote": "finding two opals",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "circlet",
+    "fact": "The party found a valuable circlet.",
+    "source_quote": "a valuable circlet",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "gold coins",
+    "fact": "The party found a chainmail pouch of gold coins.",
+    "source_quote": "a chainmail pouch of gold coins",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "freezing chamber",
+    "fact": "The party entered a room kept at a much cooler temperature by columns of ice.",
+    "source_quote": "a room kept at a much cooler temperature by columns of ice",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "block of opaque ice",
+    "fact": "The room contained a large block of opaque ice with suspended brains.",
+    "source_quote": "containing a large block of opaque ice with suspended brains",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "vials of yellowish liquid",
+    "fact": "The room contained small vials of yellowish liquid.",
+    "source_quote": "small vials of yellowish liquid",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "otherworldly symbols",
+    "fact": "The room contained strange otherworldly symbols.",
+    "source_quote": "and strange otherworldly symbols",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "copper plate",
+    "fact": "The group discovered a hidden copper plate emblazoned with symbols.",
+    "source_quote": "They discover a hidden copper plate emblazoned with symbols on one side",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "chest",
+    "fact": "The group suspected a chest was trapped.",
+    "source_quote": "discusses a chest they suspect is trapped",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "chest bypass",
+    "fact": "The group decided to bypass the chest since they had enough brains.",
+    "source_quote": "ultimately deciding to bypass it since they already have enough brains to open the sealed doors",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "short rest",
+    "fact": "The party took a short rest to recover their strength and heal the Owlbear.",
+    "source_quote": "The party takes a short rest to recover their strength and heal the Owlbear",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "door entry",
+    "fact": "The party coordinated placing brains at each of the magically sealed doors to gain entry.",
+    "source_quote": "They coordinate placing brains at each of the magically sealed doors to gain entry to the central chamber",
+    "quote_verified": true
+  }
+]

@@ -1,0 +1,205 @@
+[
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The session date is November 22nd, 2025.",
+    "source_quote": "Date: Nov 22nd, 2025",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "duration of chaos",
+    "fact": "Hillsfar had been suffering from weeks of chaos prior to the party's victory.",
+    "source_quote": "weeks of chaos",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "crafting duration",
+    "fact": "The custom armor for the owlbear will take several days to complete.",
+    "source_quote": "The work would take several days",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "rest duration",
+    "fact": "The party settled into a tavern to rest and recover for several days.",
+    "source_quote": "After a few days of rest",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "meeting timeline",
+    "fact": "Charles directed the party to meet representatives at the Silver Shadow Cave in a day or so.",
+    "source_quote": "in a day or so",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Pass Without Trace range",
+    "fact": "The Pass Without Trace spell grants a stealth bonus to the party within 30 feet.",
+    "source_quote": "within 30 feet",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "owlbear armor cost",
+    "fact": "The custom scale mail armor for the owlbear costs 200 gold pieces.",
+    "source_quote": "at a cost of 200 gold pieces",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Solom Ned'razak level",
+    "fact": "Solom Ned'razak is described as an 18th level wizard.",
+    "source_quote": "an 18th level wizard",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "party level up",
+    "fact": "The party levels up to 10th level.",
+    "source_quote": "levels up to 10th level",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daein stealth bonus",
+    "fact": "Daein realizes he now has a plus 20 stealth bonus.",
+    "source_quote": "plus 20 stealth bonus",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Akritas stealth bonus",
+    "fact": "Akritas reveals she can cast Pass Without Trace, granting the party a plus 10 to stealth.",
+    "source_quote": "granting the entire party a plus 10 to stealth",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Bramgrim armor class",
+    "fact": "Bramgrim's Mithral Plate armor increases his armor class to 20.",
+    "source_quote": "increasing his armor class to 20",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daein armor class",
+    "fact": "Daein's Plate Mail +1 increases his armor class to 21.",
+    "source_quote": "increasing his armor class to 21",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Akritas armor class",
+    "fact": "Akritas's Studded Leather +1 armor brings her armor class to 16.",
+    "source_quote": "bringing her armor class to 16",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "owlbear armor class",
+    "fact": "The custom scale mail armor will increase the owlbear's armor class to 15.",
+    "source_quote": "increase the owlbear's armor class to 15",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Solom Ned'razak level",
+    "fact": "Solom Ned'razak is an 18th level wizard.",
+    "source_quote": "18th level wizard",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Solom's Pendant owner level",
+    "fact": "Solom Ned'razak is the 18th level Drow wizard who owns the pendant.",
+    "source_quote": "the 18th level Drow wizard",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Owlbear Scale Mail cost",
+    "fact": "The custom-made Owlbear Scale Mail was commissioned at a cost of 200 gold pieces.",
+    "source_quote": "cost of 200 gold pieces",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Owlbear Scale Mail AC",
+    "fact": "The Owlbear Scale Mail provides an armor class of 15.",
+    "source_quote": "armor class of 15",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Studded Leather +1 AC",
+    "fact": "The Studded Leather +1 armor brings Akritas's armor class to 16.",
+    "source_quote": "armor class to 16",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Mithral Plate AC",
+    "fact": "The Mithral Plate increases Bramgrim's armor class to 20.",
+    "source_quote": "armor class to 20",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Plate Mail +1 AC",
+    "fact": "The Plate Mail +1 increases Daein's armor class to 21.",
+    "source_quote": "armor class to 21",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Pass Without Trace radius",
+    "fact": "Pass Without Trace grants a bonus to stealth checks for allies within a 30-foot radius.",
+    "source_quote": "within a 30-foot radius",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Pass Without Trace bonus",
+    "fact": "Pass Without Trace grants a plus 10 bonus to stealth checks.",
+    "source_quote": "plus 10 bonus to stealth checks",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daein stealth bonus",
+    "fact": "The spell Pass Without Trace gives Daein a plus 20 to stealth.",
+    "source_quote": "gives Daein a plus 20 to stealth",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Owlbear stealth bonus",
+    "fact": "The spell Pass Without Trace gives the owlbear a plus 11 to stealth.",
+    "source_quote": "the owlbear a plus 11",
+    "quote_verified": true
+  },
+  {
+    "type": "spell",
+    "subject": "Greater Restoration level",
+    "fact": "Greater Restoration is a fourth-level spell.",
+    "source_quote": "fourth-level spell",
+    "quote_verified": true
+  },
+  {
+    "type": "spell",
+    "subject": "Calm Emotions level",
+    "fact": "Calm Emotions is a second-level spell.",
+    "source_quote": "second-level spell",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Owlbear Scale Mail crafting time",
+    "fact": "The Owlbear Scale Mail takes several days to craft.",
+    "source_quote": "takes several days to craft",
+    "quote_verified": true
+  }
+]

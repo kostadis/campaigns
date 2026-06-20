@@ -1,0 +1,310 @@
+[
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The session took place on May 9th, 2026.",
+    "source_quote": "Date: May 9th, 2026",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Vraxen's Tower",
+    "fact": "The party pressed their assault atop the dizzying heights of Vraxen's Tower.",
+    "source_quote": "Atop the dizzying heights of Vraxen's Tower",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Veris",
+    "fact": "Veris is a cunning wizard fighting the party on Vraxen's Tower.",
+    "source_quote": "against the cunning wizard Veris",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daein",
+    "fact": "Daein loosed arrows at Veris but failed to find his mark.",
+    "source_quote": "Daein loosed arrows at Veris but failed to find his mark",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Giant Owlbear",
+    "fact": "A Giant Owlbear tore into the Stone Golem with savage fury.",
+    "source_quote": "the Giant Owlbear tore into the Stone Golem with savage fury",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Stone Golem",
+    "fact": "Veris's Stone Golem was present on the tower.",
+    "source_quote": "his Stone Golem",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "web conjuration",
+    "fact": "Veris conjured a massive cube of thick, sticky webbing that ensnared several party members.",
+    "source_quote": "Veris, desperate to regain control of the battlefield, conjured a massive cube of thick, sticky webbing that ensnared several of the party members",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "fire bolt cast",
+    "fact": "Veris hurled a bolt of fire at the Stone Golem.",
+    "source_quote": "Veris then hurled a bolt of fire at the Stone Golem itself",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "web burning",
+    "fact": "The bolt of fire burned away the webs that had trapped the construct.",
+    "source_quote": "burning away the webs that had trapped the construct",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daein freed",
+    "fact": "The fire freed the Stone Golem to pound Daein mercilessly.",
+    "source_quote": "freeing it to pound Daein mercilessly",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Bramgrim healing",
+    "fact": "Bramgrim called upon his divine gifts to mend Daein's wounds.",
+    "source_quote": "Bramgrim called upon his divine gifts to mend Daein's wounds",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Bramgrim freed",
+    "fact": "Bramgrim freed himself from the clinging strands of webbing.",
+    "source_quote": "and free himself from the clinging strands",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Felkur cannon fire",
+    "fact": "Felkur unleashed a torrent of flame from his cannon.",
+    "source_quote": "Felkur unleashed a torrent of flame from his cannon",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "allies scorched",
+    "fact": "Felkur's cannon blast scorched the webs and liberated his allies, though not without singeing Daein and the Owlbear.",
+    "source_quote": "scorching the webs and liberating his allies, though not without singeing Daein and the Owlbear in the process",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "webbing destroyed",
+    "fact": "The webbing was reduced to ash.",
+    "source_quote": "With the webbing reduced to ash",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Akritas",
+    "fact": "Akritas turned her fury on the Stone Golem.",
+    "source_quote": "Akritas turned her fury on the Stone Golem",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Golem destroyed",
+    "fact": "Akritas struck the Stone Golem until it finally crumbled into rubble.",
+    "source_quote": "striking it again and again until the massive construct finally crumbled into rubble",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Wall of Force cast",
+    "fact": "Veris conjured an invisible wall of pure magical force around Felkur.",
+    "source_quote": "he conjured an invisible wall of pure magical force around Felkur",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Veris threat",
+    "fact": "Veris declared with cold menace that there was no escape.",
+    "source_quote": "declaring with cold menace that there was no escape",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Shield Guardian",
+    "fact": "A Shield Guardian lumbered up the stairwell to reinforce the embattled wizard.",
+    "source_quote": "a Shield Guardian lumbered up the stairwell to reinforce the embattled wizard",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "stairwell",
+    "fact": "The Shield Guardian came up the stairwell.",
+    "source_quote": "lumbered up the stairwell",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "demon approach",
+    "fact": "The sound of demonic footsteps echoed from below.",
+    "source_quote": "the sound of demonic footsteps echoed from below",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "prison shattered",
+    "fact": "Bramgrim shattered Veris's magical prison with a powerful dispelling.",
+    "source_quote": "Bramgrim shattered Veris's magical prison with a powerful dispelling",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Veris slowed",
+    "fact": "Daein's arrow found Veris at last, slowing the wizard's retreat.",
+    "source_quote": "Daein's arrow found Veris at last, slowing the wizard's retreat",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Felkur",
+    "fact": "Felkur maneuvered his cannon down the chute toward Vraxen's precious library far below.",
+    "source_quote": "Felkur, thinking ahead, maneuvered his cannon down the chute toward Vraxen's precious library far below",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "cannon",
+    "fact": "Felkur intended to detonate his cannon as a diversion.",
+    "source_quote": "intending to detonate it as a diversion",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Vraxen's library",
+    "fact": "The cannon was maneuvered toward Vraxen's precious library far below.",
+    "source_quote": "toward Vraxen's precious library far below",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Shield Guardian thrown",
+    "fact": "The Owlbear seized the moment to hurl the Shield Guardian to the ground.",
+    "source_quote": "The Owlbear seized the moment to hurl the Shield Guardian to the ground",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Veris killed",
+    "fact": "Akritas cut Veris down with a final volley of magically-laced thorns just before he could unleash a devastating burst of fire.",
+    "source_quote": "Akritas, with a final volley of magically-laced thorns, cut Veris down just before he could unleash a devastating burst of fire upon the party",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Veris death confirmation",
+    "fact": "Veris was dead.",
+    "source_quote": "With Veris dead",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Golem destruction confirmation",
+    "fact": "The Stone Golem was destroyed.",
+    "source_quote": "and the Stone Golem destroyed",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Shield Guardian rise",
+    "fact": "The Shield Guardian clambered back to its feet.",
+    "source_quote": "which clambered back to its feet",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Shield Guardian attack",
+    "fact": "The Shield Guardian swung at Bramgrim but missed entirely.",
+    "source_quote": "swung at Bramgrim \u2014 only to miss entirely",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "spiritual attack",
+    "fact": "Bramgrim's protective spirits swarmed the construct and tore into it with ghostly fury.",
+    "source_quote": "Bramgrim's protective spirits swarmed the construct as it moved, tearing into it with ghostly fury",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "magical token",
+    "fact": "The party scrambled to use one of Felkur's precious magical tokens.",
+    "source_quote": "use one of Felkur's precious magical tokens",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "barrier attempt",
+    "fact": "The party attempted to conjure a barrier across the stairwell entrance.",
+    "source_quote": "conjure a barrier across the stairwell entrance",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Mezzoloth",
+    "fact": "A Mezzoloth burst onto the tower top before the barrier could be raised.",
+    "source_quote": "a Mezzoloth \u2014 a fearsome demon clad in chitinous armor \u2014 burst onto the tower top",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "poison gas exhaled",
+    "fact": "The Mezzoloth immediately exhaled a billowing cloud of choking, poisonous gas that washed over the entire party.",
+    "source_quote": "immediately exhaled a billowing cloud of choking, poisonous gas that washed over the entire party",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "venom resistance",
+    "fact": "Most of the adventurers managed to resist the worst of the venom.",
+    "source_quote": "Most of the adventurers managed to resist the worst of the venom",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "gas lingering",
+    "fact": "The cloud of poisonous gas lingered, threatening to unravel Bramgrim's concentration.",
+    "source_quote": "but the cloud lingered, threatening to unravel Bramgrim's concentration",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Felkur",
+    "fact": "Felkur apologized for potentially killing his allies with his cannon blast.",
+    "source_quote": "\"My bad, guys. I'm sorry if I kill you.\"",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "software glitch",
+    "fact": "The Roll20 interface entered a bizarre loop, scrolling endlessly left and locking the GM out of the map mid-combat.",
+    "source_quote": "The Roll20 interface entered a bizarre loop, scrolling endlessly left and locking the GM out of the map mid-combat",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "session halt",
+    "fact": "The software glitch brought the session to a brief halt.",
+    "source_quote": "bringing the session to a brief halt",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "demon reinforcements",
+    "fact": "A wave of demons is surging upward toward the tower.",
+    "source_quote": "against the wave of demons surging upward",
+    "quote_verified": true
+  }
+]

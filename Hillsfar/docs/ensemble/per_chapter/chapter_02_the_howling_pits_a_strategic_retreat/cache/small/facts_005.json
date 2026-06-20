@@ -1,0 +1,184 @@
+[
+  {
+    "type": "object",
+    "subject": "Goggles of Night",
+    "fact": "Daein purchased the Goggles of Night for two hundred gold pieces before descending into the Underdark.",
+    "source_quote": "purchased by Daein for two hundred gold pieces before descending into the Underdark",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Goggles of Night",
+    "fact": "The Goggles of Night grant the wearer darkvision.",
+    "source_quote": "The goggles grant the wearer darkvision",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Daein's Mandolin",
+    "fact": "Daein's Mandolin is a magical musical instrument used to cast spells.",
+    "source_quote": "A magical musical instrument used by Daein to cast spells",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Daein's Mandolin",
+    "fact": "The Mandolin can grant the Fly spell to a creature.",
+    "source_quote": "It can grant the Fly spell to a creature",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Daein's Mandolin",
+    "fact": "The Mandolin cannot cast the same spell again until the next dawn.",
+    "source_quote": "cannot cast the same spell again until the next dawn",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "flight grant",
+    "fact": "Daein used the Mandolin to grant himself flight.",
+    "source_quote": "Daein used it to grant himself flight",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "party transfer",
+    "fact": "Daein relied on his own powers to transfer the rest of the party across dangerous terrain.",
+    "source_quote": "relied on his own powers to transfer the rest of the party across dangerous terrain",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Catapult spell cast",
+    "fact": "Felkur cast the Catapult spell against one of the mutated fire giants during the ambush.",
+    "source_quote": "A spell cast by Felkur against one of the mutated fire giants during the ambush",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Catapult damage",
+    "fact": "The Catapult spell dealt only four points of damage to the giant.",
+    "source_quote": "dealing only four points of damage to the giant",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Protective Field activation",
+    "fact": "Daein used the Protective Field ability to protect Bramgrim from the fire giant's attacks.",
+    "source_quote": "used by Daein to protect Bramgrim from the fire giant's devastating attacks",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Protective Field effect",
+    "fact": "The Protective Field reduces incoming damage by four points.",
+    "source_quote": "it reduces incoming damage by four points",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Bramgrim knocked unconscious",
+    "fact": "A fire giant's critical hit knocked Bramgrim unconscious.",
+    "source_quote": "knocked Bramgrim unconscious",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Spirit Guardians cast",
+    "fact": "Bramgrim cast the Spirit Guardians spell at fifth level during the fire giant encounter.",
+    "source_quote": "A powerful spell cast by Bramgrim at fifth level during the fire giant encounter",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Spirit Guardians effect",
+    "fact": "Spirit Guardians creates a radiant aura with a fifteen-foot radius that harms enemies and halves their movement speed.",
+    "source_quote": "creates a radiant aura with a fifteen-foot radius around the caster that harms enemies and halves their movement speed",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Bramgrim positioning",
+    "fact": "Bramgrim positioned himself to affect both giants before being knocked unconscious.",
+    "source_quote": "Bramgrim positioned himself strategically to affect both giants before being knocked unconscious",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Pass Without Trace cast",
+    "fact": "Akritas cast the Pass Without Trace spell multiple times throughout the journey.",
+    "source_quote": "cast by Akritas multiple times throughout the journey",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Pass Without Trace bonus",
+    "fact": "Pass Without Trace grants a plus ten bonus to Stealth checks for the entire party.",
+    "source_quote": "grants a plus ten bonus to Stealth checks for the entire party",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "sneaking past giants",
+    "fact": "The party successfully sneaked past the fire giants after their initial defeat using Pass Without Trace.",
+    "source_quote": "allowing them to successfully sneak past the fire giants after their initial defeat",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "evading cloakers",
+    "fact": "The party evaded the cloakers in the narrow tunnel using Pass Without Trace.",
+    "source_quote": "later evade the cloakers in the narrow tunnel",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Fly spell cast",
+    "fact": "Daein cast the Fly spell using his magical mandolin.",
+    "source_quote": "A spell cast by Daein using his magical mandolin",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Fly spell duration",
+    "fact": "The Fly spell has a duration of one hour and requires concentration.",
+    "source_quote": "granting flight with a duration of one hour and requiring concentration",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daein scouting",
+    "fact": "Daein used the Fly spell on himself to scout ahead.",
+    "source_quote": "Daein used it on himself to scout ahead",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "obstacle navigation",
+    "fact": "Daein navigated dangerous terrain including deep pits and the underground river.",
+    "source_quote": "navigate dangerous terrain including deep pits and the underground river",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "mutated fire giants",
+    "fact": "Mutated fire giants ambushed the party.",
+    "source_quote": "mutated fire giants during the ambush",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Cave Creeper fungi",
+    "fact": "The underground river is filled with Cave Creeper fungi.",
+    "source_quote": "underground river filled with Cave Creeper fungi",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "cloakers",
+    "fact": "Cloakers were encountered in a narrow tunnel.",
+    "source_quote": "evade the cloakers in the narrow tunnel",
+    "quote_verified": true
+  }
+]

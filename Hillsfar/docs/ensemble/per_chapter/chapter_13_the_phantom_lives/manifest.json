@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "samples": 1,
+  "default_input": "/home/kroussos/Hillsfar/Hillsfar/docs/chapters/chapter_13_the_phantom_lives.md",
+  "passes": [
+    {
+      "name": "small",
+      "agent": "extract_facts",
+      "chunk_size": 6000,
+      "document": "/home/kroussos/Hillsfar/Hillsfar/docs/chapters/chapter_13_the_phantom_lives.md",
+      "outputs": [
+        {
+          "key": "small#1",
+          "file": "small.json",
+          "n_facts": 92
+        }
+      ]
+    },
+    {
+      "name": "large",
+      "agent": "extract_facts",
+      "chunk_size": 15000,
+      "document": "/home/kroussos/Hillsfar/Hillsfar/docs/chapters/chapter_13_the_phantom_lives.md",
+      "outputs": [
+        {
+          "key": "large#1",
+          "file": "large.json",
+          "n_facts": 63
+        }
+      ]
+    },
+    {
+      "name": "sweep",
+      "agent": "extract_facts_sweep",
+      "chunk_size": 15000,
+      "document": "/home/kroussos/Hillsfar/Hillsfar/docs/chapters/chapter_13_the_phantom_lives.md",
+      "outputs": [
+        {
+          "key": "sweep#1",
+          "file": "sweep.json",
+          "n_facts": 60
+        }
+      ]
+    },
+    {
+      "name": "temporal",
+      "agent": "extract_facts_temporal",
+      "chunk_size": 15000,
+      "document": "/home/kroussos/Hillsfar/Hillsfar/docs/chapters/chapter_13_the_phantom_lives.md",
+      "outputs": [
+        {
+          "key": "temporal#1",
+          "file": "temporal.json",
+          "n_facts": 14
+        }
+      ]
+    },
+    {
+      "name": "interiority",
+      "agent": "extract_facts_interiority",
+      "chunk_size": 15000,
+      "document": "/home/kroussos/Hillsfar/Hillsfar/docs/chapters/chapter_13_the_phantom_lives.md",
+      "outputs": [
+        {
+          "key": "interiority#1",
+          "file": "interiority.json",
+          "n_facts": 20
+        }
+      ]
+    }
+  ]
+}

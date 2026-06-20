@@ -1,0 +1,1199 @@
+[
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The session date is May 25th, 2026.",
+    "source_quote": "Date: May 25th, 2026",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Sporedome",
+    "fact": "The party settled into a stretch of rest deep within Sporedome.",
+    "source_quote": "deep within Sporedome",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Sporedome",
+    "fact": "Sporedome is a luminous fungal expanse of the Underdark.",
+    "source_quote": "the luminous fungal expanse of the Underdark",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Felkur",
+    "fact": "Felkur constructed a specialized distillery using his artificer's mind.",
+    "source_quote": "Felkur put his artificer's mind to work constructing a specialized distillery",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Akritas",
+    "fact": "Akritas refined hallucinogenic mushrooms into potent concoctions with Felkur.",
+    "source_quote": "together with Akritas, the two refined the unique hallucinogenic mushrooms of the region into potent concoctions",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daein",
+    "fact": "Daein turned his attention toward future business ventures including soups and trade.",
+    "source_quote": "Daein, ever the entrepreneur, turned his attention toward future business ventures \u2014 soups, trade, and the dream of fabulous wealth",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Bramgrim",
+    "fact": "Bramgrim sprinted naked through the fungus forest.",
+    "source_quote": "him sprinting naked through the fungus forest",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Emerald Enclave",
+    "fact": "A messenger from the Emerald Enclave arrived to summon Akritas.",
+    "source_quote": "a messenger from the Emerald Enclave arrived to summon Akritas",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Harper",
+    "fact": "The Harpers are part of a coalition of powerful factions.",
+    "source_quote": "a coalition of powerful factions \u2014 the Emerald Enclave, the Harpers, the Lords' Alliance, and the Order of the Gauntlet",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Lords' Alliance",
+    "fact": "The Lords' Alliance is part of a coalition of powerful factions.",
+    "source_quote": "a coalition of powerful factions \u2014 the Emerald Enclave, the Harpers, the Lords' Alliance, and the Order of the Gauntlet",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Order of the Gauntlet",
+    "fact": "The Order of the Gauntlet is part of a coalition of powerful factions.",
+    "source_quote": "a coalition of powerful factions \u2014 the Emerald Enclave, the Harpers, the Lords' Alliance, and the Order of the Gauntlet",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "summoning",
+    "fact": "A messenger summoned Akritas on behalf of a coalition.",
+    "source_quote": "summon Akritas on behalf of a coalition of powerful factions",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "FU money declaration",
+    "fact": "Daein declared his singular ambition to acquire what he called FU money.",
+    "source_quote": "loudly declaring his singular ambition to acquire what he called \"FU money\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "party agreement",
+    "fact": "The group agreed to attend the meeting.",
+    "source_quote": "Eventually, the group agreed",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "ledger realization",
+    "fact": "Akritas noted they had missed a golden opportunity by never reading the ledger from their previous heist.",
+    "source_quote": "they had missed a golden opportunity by never reading the ledger from their previous heist",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "meeting place",
+    "fact": "The meeting took place inside a hollowed-out dead mushroom roughly the size of a small house.",
+    "source_quote": "inside a hollowed-out dead mushroom roughly the size of a small house",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Glor",
+    "fact": "Glor greeted the party telepathically.",
+    "source_quote": "A cowled humanoid figure greeted them telepathically, introducing itself as Glor",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Glor",
+    "fact": "Glor is a mind flayer.",
+    "source_quote": "the party came to understand they were speaking with a mind flayer",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Ryxyg illithid encampment",
+    "fact": "Glor is a representative of the Ryxyg illithid encampment.",
+    "source_quote": "a representative of the Ryxyg illithid encampment located several miles below Sporedome",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Ryxyg illithid encampment",
+    "fact": "Glor claimed his community chose peaceful cohabitation over enslavement and conquest.",
+    "source_quote": "his community had chosen peaceful cohabitation with other Underdark species over the enslavement and conquest typical of his kind",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "fire giant threat",
+    "fact": "Glor claimed the fire giants of Maerimydra had constructed devastating arcane siege weapons.",
+    "source_quote": "The fire giants of Maerimydra had constructed devastating arcane siege weapons",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "targeted cities",
+    "fact": "The fire giants were preparing to unleash their weapons on Elventree and Hillsfar.",
+    "source_quote": "preparing to unleash them on the surface world, beginning with Elventree and Hillsfar",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "deal struck",
+    "fact": "A deal was struck between the party and Glor.",
+    "source_quote": "A deal was struck",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "map handover",
+    "fact": "Glor handed over a map.",
+    "source_quote": "Glor handed over a map",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "map",
+    "fact": "Glor handed the party a map.",
+    "source_quote": "Glor handed over a map",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "travel to lair",
+    "fact": "Ten days of travel through the Underdark brought the party to the rogue's lair.",
+    "source_quote": "Ten days of travel through the Underdark brought the party to the rogue's lair",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "rogue mind flayer lair",
+    "fact": "The party arrived at the rogue mind flayer's lair.",
+    "source_quote": "brought the party to the rogue's lair",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Faerzress exposure",
+    "fact": "The Faerzress grew so thick that a constant mental buzz settled over each party member.",
+    "source_quote": "Faerzress growing so thick in the final stretch that a constant mental buzz settled over each of them",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "ammunition preparation",
+    "fact": "Felkur prepared specialized ice-infused ammunition.",
+    "source_quote": "Felkur prepared specialized ice-infused ammunition for the confrontation ahead",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "mind flayer",
+    "fact": "The party concluded that whatever lived in the lair was a mind flayer based on the bodies.",
+    "source_quote": "Whatever lived here was unmistakably a mind flayer",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "victim discovery",
+    "fact": "Four bodies were arranged around a table in the lair.",
+    "source_quote": "four bodies \u2014 three human men and a drow woman \u2014 were arranged around a table",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "brain removal",
+    "fact": "Four holes were bored into the crown of each skull and the brains were removed.",
+    "source_quote": "four holes bored into the crown of each skull, and the brains had been cleanly removed through them",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "intelligence maps",
+    "fact": "Detailed maps of Hillsfar, Phlan, and Mulmaster were spread across the table.",
+    "source_quote": "detailed maps of Hillsfar, Phlan \u2014 a city now encased in a dome of magical brambles by a green dragon \u2014 and two maps of Mulmaster",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Red Blooms",
+    "fact": "Crumbled parchments outlined mercantile agreements between an unnamed drow outpost and the Red Blooms.",
+    "source_quote": "crumpled parchments outlining mercantile agreements between an unnamed drow outpost and a group called the Red Blooms",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "stone basin",
+    "fact": "A stone basin carved to resemble the underside of a human brain was in the room.",
+    "source_quote": "stone basin carved to resemble the underside of a human brain",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "door mechanism",
+    "fact": "The party concluded the stone basin served as the key to an arcanely sealed door.",
+    "source_quote": "the party concluded it served as the key to an arcanely sealed door",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "brain key requirement",
+    "fact": "The arcanely sealed door could only be opened by placing an actual brain inside the stone basin.",
+    "source_quote": "one that could only be opened by placing an actual brain inside it",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Arrizz",
+    "fact": "A voice from behind one door was recognized by Daein as Arrizz.",
+    "source_quote": "a voice Daein recognized as Arrizz",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Arrizz",
+    "fact": "Arrizz is a drow.",
+    "source_quote": "Arrizz, a drow they had encountered in their past",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Arrizz imprisonment",
+    "fact": "Arrizz was apparently imprisoned behind one of the doors.",
+    "source_quote": "With Arrizz apparently imprisoned somewhere beyond the first door",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "second door",
+    "fact": "The second door was noticeably colder than anything else in the lair.",
+    "source_quote": "The second door was noticeably colder than anything else in the lair",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "rogue mind flayer",
+    "fact": "The rogue mind flayer's lair holds secrets and danger yet to be uncovered.",
+    "source_quote": "the rogue mind flayer's lair stretching out before them, full of secrets and danger yet to be uncovered",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Bramgrim",
+    "fact": "Bramgrim consumed hallucinogenic Underdark mushrooms.",
+    "source_quote": "having consumed hallucinogenic Underdark mushrooms",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Bramgrim",
+    "fact": "Bramgrim was found running naked through the fungus forest.",
+    "source_quote": "running naked through the fungus forest",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Sporedome",
+    "fact": "The party spent a few days of rest in Sporedome.",
+    "source_quote": "The party enjoys a few days of rest in Sporedome",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Bramgrim",
+    "fact": "Bramgrim lectured the party on the unfathomable consequences of thievery.",
+    "source_quote": "Bramgrim lectures the party on the unfathomable consequences of thievery",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Felkur",
+    "fact": "Felkur used his artificer skills to construct a specialized distillery for refining Underdark mushrooms.",
+    "source_quote": "Felkur uses his artificer skills to construct a specialized distillery for refining Underdark mushrooms",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Akritas",
+    "fact": "Akritas assisted Felkur in refining distillation techniques.",
+    "source_quote": "Akritas assists Felkur in refining distillation techniques",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daein",
+    "fact": "Daein explored business opportunities for selling soups and other goods.",
+    "source_quote": "Daein explores business opportunities for selling soups and other goods",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Bramgrim",
+    "fact": "Bramgrim spent time communing with nature in the fungus forest.",
+    "source_quote": "Bramgrim spends time communing with nature in the fungus forest",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Bramgrim",
+    "fact": "Bramgrim was occasionally under the influence of hallucinogenic mushrooms.",
+    "source_quote": "occasionally under the influence of hallucinogenic mushrooms",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Emerald Enclave",
+    "fact": "A messenger from the Emerald Enclave arrived to inform Akritas of an urgent mission.",
+    "source_quote": "A messenger from the Emerald Enclave arrives to inform Akritas of an urgent mission",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Emerald Enclave",
+    "fact": "The Emerald Enclave requested the party's assistance regarding the situation in Maerimydra.",
+    "source_quote": "the Emerald Enclave... have requested their assistance",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Harpers",
+    "fact": "The Harpers requested the party's assistance regarding the situation in Maerimydra.",
+    "source_quote": "Harpers... have requested their assistance",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Lords' Alliance",
+    "fact": "The Lords' Alliance requested the party's assistance regarding the situation in Maerimydra.",
+    "source_quote": "Lords' Alliance... have requested their assistance",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Order of the Gauntlet",
+    "fact": "The Order of the Gauntlet requested the party's assistance regarding the situation in Maerimydra.",
+    "source_quote": "Order of the Gauntlet have requested their assistance",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Akritas",
+    "fact": "Akritas revealed her rank within the Emerald Enclave.",
+    "source_quote": "Akritas reveals her rank within the Emerald Enclave",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Akritas",
+    "fact": "Akritas receives the ability to request scouts and purchase specialized scrolls and potions as a benefit of her rank.",
+    "source_quote": "the ability to request scouts and purchase specialized scrolls and potions",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "mission agreement",
+    "fact": "The party agreed to attend a meeting to hear more about the threat involving Maerimydra.",
+    "source_quote": "The party agrees to attend a meeting to hear more about the threat involving Maerimydra",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "hollowed-out mushroom dwelling",
+    "fact": "The party entered a hollowed-out mushroom dwelling to meet a representative arranged by the Emerald Enclave.",
+    "source_quote": "The party enters a hollowed-out mushroom dwelling to meet a representative arranged by the Emerald Enclave",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Glor",
+    "fact": "Glor is a cowled figure who greets the party telepathically.",
+    "source_quote": "A cowled figure named Glor greets them telepathically",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Glor",
+    "fact": "Glor revealed himself to be a Mind Flayer from the Ryxyg encampment.",
+    "source_quote": "revealing himself to be a Mind Flayer from the Ryxyg encampment",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Bramgrim",
+    "fact": "Bramgrim confronted Glor about the history of illithid slavery.",
+    "source_quote": "Bramgrim confronts Glor about the history of illithid slavery",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Glor",
+    "fact": "Glor claimed his community seeks peaceful cohabitation with other species.",
+    "source_quote": "Glor claims his community seeks peaceful cohabitation with other species",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "giants of Maerimydra",
+    "fact": "The giants of Maerimydra have built devastating arcane siege weapons intended for use against the surface world.",
+    "source_quote": "the giants of Maerimydra have built devastating arcane siege weapons intended for use against the surface world",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Glor's proposition",
+    "fact": "Glor offered information on how to disable the war engines without the perpetrators being identified, in exchange for a task the party must perform.",
+    "source_quote": "Glor offers information on how to disable these war engines without the perpetrators being identified, in exchange for a task the party must perform",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daein",
+    "fact": "Daein stated his life goal is to want FU money.",
+    "source_quote": "I want FU money",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daein",
+    "fact": "Daein delivered a cold, credible threat to Glor warning that if the promised intelligence proves false there will be consequences for the Ryxyg colony.",
+    "source_quote": "Daein delivers a cold, credible threat to Glor \u2014 warning the mind flayer that if the promised intelligence proves false, there will be consequences for the Ryxyg colony",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Glor",
+    "fact": "Glor took the party seriously for the first time after Daein's warning.",
+    "source_quote": "for the first time, Glor takes the party seriously",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "rogue's lair",
+    "fact": "The party discovered that the arcanely locked door in the rogue's lair can only be opened by placing a brain into a basin carved in the shape of the underside of a human skull.",
+    "source_quote": "The party discovers that the arcanely locked door in the rogue's lair can only be opened by placing a brain into a basin carved in the shape of the underside of a human skull",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "stone basin",
+    "fact": "The party found a macabre stone basin carved in the shape of the underside of a human skull.",
+    "source_quote": "macabre stone basin",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "brainless corpses",
+    "fact": "The party found four brainless corpses.",
+    "source_quote": "finding four brainless corpses",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Arrizz",
+    "fact": "The party heard the unmistakable voice of Arrizz, a drow from their past, shouting defiant insults in Undercommon from behind a locked door.",
+    "source_quote": "The party hears the unmistakable voice of Arrizz, a drow from their past, shouting defiant insults in Undercommon from behind a locked door",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "locked door in the rogue mind flayer's lair",
+    "fact": "Arrizz was shouting from behind a locked door deep inside the rogue mind flayer's lair.",
+    "source_quote": "behind a locked door deep inside the rogue mind flayer's lair",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Akritas",
+    "fact": "Akritas realized that the party missed a golden intelligence opportunity by not reading the ledger during their previous heist.",
+    "source_quote": "we could have looked in the ledger",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "missed ledger opportunity",
+    "fact": "The party missed an opportunity to read or steal a ledger during their previous exploits.",
+    "source_quote": "missed a golden intelligence opportunity by not reading the ledger",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Ryxyg colony",
+    "fact": "The Ryxyg colony is a mind flayer encampment mentioned by Glor.",
+    "source_quote": "Mind Flayer from the Ryxyg encampment",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Glor",
+    "fact": "Glor is a mind flayer representative from the Ryxyg community.",
+    "source_quote": "A mind flayer representative from the Ryxyg community",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Glor",
+    "fact": "Glor communicates telepathically.",
+    "source_quote": "who communicates telepathically",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Glor",
+    "fact": "Glor wears a cowl.",
+    "source_quote": "and wears a cowl",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Glor",
+    "fact": "Glor seeks the destruction of a rogue mind flayer disconnected from the collective.",
+    "source_quote": "He seeks the destruction of a 'rogue thought' \u2014 a mind flayer disconnected from the collective",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Glor",
+    "fact": "Glor offers strategic intelligence on disabling Maerimydra's arcane siege weapons in exchange for the rogue's destruction.",
+    "source_quote": "and offers strategic intelligence on disabling Maerimydra's arcane siege weapons in exchange",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Glor",
+    "fact": "Glor was initially dismissive of the party.",
+    "source_quote": "He was initially dismissive of the party",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Glor",
+    "fact": "Glor grew to respect the party after Daein's intimidating warning.",
+    "source_quote": "but grew to respect them after Daein's intimidating warning",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daein",
+    "fact": "Daein successfully intimidated Glor into taking the party seriously.",
+    "source_quote": "Daein successfully intimidates the mind flayer into taking them seriously",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daein",
+    "fact": "Daein delivered a stern warning to Glor backed by the party's collective presence.",
+    "source_quote": "Daein delivers a stern warning to Glor, backed by the party's collective presence",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Bramgrim",
+    "fact": "Bramgrim expressed skepticism about Glor's honesty and the value of the information.",
+    "source_quote": "Bramgrim express skepticism about Glor's honesty and the value of the information",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Bramgrim",
+    "fact": "Bramgrim suggested that if the mind flayers are lying, the party is powerful enough to return and cause significant harm to their colony.",
+    "source_quote": "Bramgrim suggests that if the mind flayers are lying, the party is powerful enough to return and cause significant harm to their colony",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Felkur",
+    "fact": "Felkur prepared specialized elemental ammunition specifically ice bullets for the upcoming confrontation.",
+    "source_quote": "Felkur prepares specialized elemental ammunition \u2014 specifically ice bullets \u2014 for the upcoming confrontation",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Felkur",
+    "fact": "Felkur identified that the damage shown on the Mulmaster maps was caused by an attack by elemental cults.",
+    "source_quote": "Felkur, drawing on his background from Mulmaster, identifies that the damage shown on the Mulmaster maps was caused by an attack by elemental cults",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Arrizz",
+    "fact": "Arrizz is a drow acquaintance of the party from their past adventures.",
+    "source_quote": "Arrizz, a drow acquaintance of the party from their past adventures",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Arrizz",
+    "fact": "Arrizz is currently held prisoner in the rogue mind flayer's lair.",
+    "source_quote": "currently held prisoner in the rogue mind flayer's lair",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Arrizz",
+    "fact": "Arrizz was heard shouting defiant insults at his captors in Undercommon.",
+    "source_quote": "a defiant voice responding in Undercommon from behind a door to the northwest, which Daein recognizes as Arrizz",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Emerald Enclave Messenger",
+    "fact": "The Emerald Enclave Messenger tracked down the party in Sporedome to deliver a mission briefing to Akritas.",
+    "source_quote": "A representative of the Emerald Enclave who tracked down the party in Sporedome to deliver a mission briefing to Akritas",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Akritas",
+    "fact": "Akritas received a mission briefing on behalf of multiple factions.",
+    "source_quote": "deliver a mission briefing to Akritas on behalf of multiple factions",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Order of the Gauntlet",
+    "fact": "The Order of the Gauntlet was involved in recommending the party for the task of eliminating the rogue mind flayer.",
+    "source_quote": "the Order of the Gauntlet was involved in recommending them for this task",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Red Blooms",
+    "fact": "Crumbled parchments outline mercantile agreements between an unnamed drow outpost and the Red Blooms.",
+    "source_quote": "crumpled parchments outlining mercantile agreements between an unnamed drow outpost and the Red Blooms",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "elemental cults",
+    "fact": "Elemental cults attacked Mulmaster causing damage shown on the maps.",
+    "source_quote": "damage shown on the Mulmaster maps was caused by an attack by elemental cults",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "fire giants",
+    "fact": "Fire giants currently occupy the drow city of Maerimydra.",
+    "source_quote": "A drow city currently occupied by fire giants",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "fire giants",
+    "fact": "Fire giants have built devastating arcane siege weapons in Maerimydra intended for use against the surface world.",
+    "source_quote": "the giants have built devastating arcane siege weapons there intended for use against the surface world",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "green dragon",
+    "fact": "A green dragon took the city of Phlan by force.",
+    "source_quote": "a green dragon that took the city by force",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Sporedome",
+    "fact": "Sporedome is a vibrant fungal environment in the Underdark filled with diverse and hallucinogenic mushrooms.",
+    "source_quote": "A vibrant fungal environment in the Underdark filled with diverse and hallucinogenic mushrooms",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Sporedome",
+    "fact": "The party rested and established a temporary distillery in Sporedome.",
+    "source_quote": "where the party rested and established a temporary distillery",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Ryxyg",
+    "fact": "Ryxyg is an illithid encampment located several miles below Sporedome.",
+    "source_quote": "An illithid encampment located several miles below Sporedome",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Ryxyg",
+    "fact": "Ryxyg is known for engaging in peaceful trade with Myconids.",
+    "source_quote": "known for engaging in peaceful trade with Myconids",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Ryxyg",
+    "fact": "Ryxyg is the home community of the mind flayer Glor.",
+    "source_quote": "Home community of the mind flayer Glor",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Hollowed-out Mushroom Dwelling",
+    "fact": "The Hollowed-out Mushroom Dwelling is a mostly stable, dead mushroom roughly the size of a small house used as a neutral meeting place.",
+    "source_quote": "A mostly stable, dead mushroom roughly the size of a small house used as a neutral meeting place",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Hollowed-out Mushroom Dwelling",
+    "fact": "The interior of the Hollowed-out Mushroom Dwelling contains basic furniture including stools, a low table, and a desk.",
+    "source_quote": "The interior contains basic furniture including stools, a low table, and a desk",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Maerimydra",
+    "fact": "Maerimydra is a drow city currently occupied by fire giants with demonic ties.",
+    "source_quote": "A drow city currently occupied by fire giants with demonic ties",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "The Rogue Thought's Lair",
+    "fact": "The Rogue Thought's Lair is a dark, foreboding complex deep in the Underdark heavily permeated by Faerzress.",
+    "source_quote": "A dark, foreboding complex deep in the Underdark, heavily permeated by Faerzress",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "The Rogue Thought's Lair",
+    "fact": "The Rogue Thought's Lair features chambers with pools of glowing liquid.",
+    "source_quote": "Features chambers with pools of glowing liquid",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "The Rogue Thought's Lair",
+    "fact": "The Rogue Thought's Lair contains corpses with their brains removed.",
+    "source_quote": "corpses with their brains removed",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "The Rogue Thought's Lair",
+    "fact": "The Rogue Thought's Lair contains a brain-shaped basin lock.",
+    "source_quote": "a brain-shaped basin lock",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "The Rogue Thought's Lair",
+    "fact": "The Rogue Thought's Lair has doors of varying temperatures.",
+    "source_quote": "and doors of varying temperatures",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "The Rogue Thought's Lair",
+    "fact": "The party discovered an arcanely locked door in the first chamber.",
+    "source_quote": "The party discovers an arcanely locked door",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "The Rogue Thought's Lair",
+    "fact": "The party found a basin carved to look like the underside of a human brain in the first chamber.",
+    "source_quote": "and a basin carved to look like the underside of a human brain",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "The Rogue Thought's Lair",
+    "fact": "The basin serves as a macabre locking mechanism requiring a brain to open.",
+    "source_quote": "which they deduce serves as a macabre locking mechanism requiring a brain to open",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "The Rogue Thought's Lair",
+    "fact": "The party heard guttural voices shouting insults from behind a door to the northwest.",
+    "source_quote": "The party hears guttural voices shouting insults and a defiant voice responding in Undercommon from behind a door to the northwest",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "The Rogue Thought's Lair",
+    "fact": "The party investigated a second door to the northeast which was noticeably colder than the rest of the area.",
+    "source_quote": "The party investigates a second door to the northeast, finding it noticeably colder than the rest of the area",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Mulmaster",
+    "fact": "Detailed maps of Mulmaster were found on the table in the rogue's lair.",
+    "source_quote": "finding detailed maps of Hillsfar, Phlan, and Mulmaster",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Hillsfar",
+    "fact": "A highly detailed and large map showing every street, building, and piece of infrastructure within the city of Hillsfar was found in the rogue's lair.",
+    "source_quote": "A highly detailed and large map found on the table in the rogue's lair, showing every street, building, and piece of infrastructure within the city of Hillsfar",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Phlan",
+    "fact": "A detailed map of the town of Phlan approximately a year or two old was found in the rogue's lair.",
+    "source_quote": "A detailed map of the town of Phlan found in the rogue's lair, approximately a year or two old",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "The Thicket",
+    "fact": "The Thicket is a dense dome of thick brambles and briars erected around the city of Phlan.",
+    "source_quote": "It depicts 'The Thicket,' a dense dome of thick brambles and briars erected around the city",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "rogue mind flayer",
+    "fact": "Glor explains the nature of mind flayer society and the danger posed by a rogue thought.",
+    "source_quote": "Glor explains the nature of mind flayer society and the danger posed by a 'rogue thought' \u2014 a mind flayer disconnected from the elder brain's collective consciousness",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "rogue mind flayer",
+    "fact": "The rogue mind flayer is hiding in a lair permeated by Faerzress.",
+    "source_quote": "Glor explains that the rogue is hiding in a lair permeated by Faerzress",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "rogue mind flayer",
+    "fact": "The party found four corpses with holes bored into each skull and complete removal of their brains consistent with mind flayer activity.",
+    "source_quote": "Investigation of the bodies reveals four holes bored into each skull and the complete removal of their brains, consistent with mind flayer activity",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Myconids",
+    "fact": "The Ryxyg community engages in peaceful trade with Myconids.",
+    "source_quote": "known for engaging in peaceful trade with Myconids",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Hallucinogenic Mushrooms",
+    "fact": "Hallucinogenic Mushrooms are unique Underdark fungi found in Sporedome.",
+    "source_quote": "Unique Underdark fungi found in Sporedome",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Hallucinogenic Mushrooms",
+    "fact": "Felkur and Akritas used Hallucinogenic Mushrooms as the primary ingredient in their distillery experiments.",
+    "source_quote": "Felkur and Akritas used them as the primary ingredient in their distillery experiments",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Hallucinogenic Mushrooms",
+    "fact": "Bramgrim consumed Hallucinogenic Mushrooms during his nature communing with notably uninhibited results.",
+    "source_quote": "while Bramgrim consumed them during his nature communing \u2014 with notably uninhibited results",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Mushroom Distillery",
+    "fact": "The Mushroom Distillery is a specialized apparatus constructed by Felkur using his artificer skills.",
+    "source_quote": "A specialized apparatus constructed by Felkur using his artificer skills",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Mushroom Distillery",
+    "fact": "The Mushroom Distillery refines and distills the unique properties of Underdark mushrooms into potent substances.",
+    "source_quote": "to refine and distill the unique properties of Underdark mushrooms into potent substances",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Map of Hillsfar",
+    "fact": "The Map of Hillsfar is considered valuable in the right hands.",
+    "source_quote": "Considered valuable in the right hands",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Map of Phlan",
+    "fact": "The Map of Phlan depicts 'The Thicket,' a dense dome of thick brambles and briars erected around the city by a green dragon.",
+    "source_quote": "It depicts 'The Thicket,' a dense dome of thick brambles and briars erected around the city by a green dragon that took the city by force",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "drow rations",
+    "fact": "The party found drow rations while searching the room.",
+    "source_quote": "finding detailed maps of Hillsfar, Phlan, and Mulmaster, along with drow rations",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "playing cards",
+    "fact": "The party found playing cards while searching the room.",
+    "source_quote": "along with drow rations, playing cards, empty scroll tubes, and crumpled parchments",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "empty scroll tubes",
+    "fact": "The party found empty scroll tubes while searching the room.",
+    "source_quote": "along with drow rations, playing cards, empty scroll tubes, and crumpled parchments",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "crumpled parchments",
+    "fact": "The party found crumpled parchments outlining mercantile agreements while searching the room.",
+    "source_quote": "and crumpled parchments outlining mercantile agreements between an unnamed drow outpost and the Red Blooms",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "ice bullets",
+    "fact": "Felkur prepared ice bullets as specialized elemental ammunition.",
+    "source_quote": "specifically ice bullets \u2014 for the upcoming confrontation",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Map of the rogue's lair",
+    "fact": "The party received a map leading to the rogue's lair from Glor.",
+    "source_quote": "The party accepts the mission and receives a map leading to the rogue's lair",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "negotiation with Glor",
+    "fact": "The party negotiates with Glor regarding a mission to eliminate a rogue member of his kind.",
+    "source_quote": "The party negotiates with Glor regarding a mission to eliminate a rogue member of his kind",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "mission acceptance",
+    "fact": "The party accepts the mission to eliminate the rogue mind flayer.",
+    "source_quote": "The party accepts the mission",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "journey to the lair",
+    "fact": "The party travels for ten days through the Underdark to reach the rogue mind flayer's lair.",
+    "source_quote": "After a ten-day journey through the Underdark, the party enters the lair of the rogue mind flayer",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "arrival at lair",
+    "fact": "The party discovers a gruesome scene upon entering the lair.",
+    "source_quote": "and discovers a gruesome scene",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "finding corpses",
+    "fact": "The party finds four corpses seated around a table as if frozen in mid-conversation.",
+    "source_quote": "Upon entering the first chamber, the party finds four corpses \u2014 three humans and a drow \u2014 seated around a table as if frozen in mid-conversation",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "room search",
+    "fact": "The party searches the room and finds various items including maps and parchments.",
+    "source_quote": "The party searches the room, finding detailed maps of Hillsfar, Phlan, and Mulmaster, along with drow rations, playing cards, empty scroll tubes, and crumpled parchments",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "hearing voices",
+    "fact": "The party hears guttural voices shouting insults and a defiant voice responding in Undercommon.",
+    "source_quote": "The party hears guttural voices shouting insults and a defiant voice responding in Undercommon from behind a door to the northwest",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "investigating northeast door",
+    "fact": "The party investigates a second door to the northeast and finds it noticeably colder than the rest of the area.",
+    "source_quote": "The party investigates a second door to the northeast, finding it noticeably colder than the rest of the area",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "session end",
+    "fact": "The party decides to stop for the session.",
+    "source_quote": "before deciding to stop for the session",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "rogue mind flayer",
+    "fact": "The rogue mind flayer's location is known but the confrontation has not yet occurred.",
+    "source_quote": "The party enters the lair of the rogue mind flayer",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Arrizz's fate",
+    "fact": "Arrizz is heard shouting from behind a door but his current status is unknown.",
+    "source_quote": "a defiant voice responding in Undercommon from behind a door to the northwest, which Daein recognizes as Arrizz",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "brain lock mechanism",
+    "fact": "The party deduces the brain-shaped basin requires a brain to open but has not yet opened the door.",
+    "source_quote": "which they deduce serves as a macabre locking mechanism requiring a brain to open",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "journey duration",
+    "fact": "The journey to the rogue's lair takes approximately ten days.",
+    "source_quote": "with Glor noting the journey will take approximately ten days",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "Map of Phlan age",
+    "fact": "The Map of Phlan is approximately a year or two old.",
+    "source_quote": "approximately a year or two old",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "rogue's lair",
+    "fact": "Two maps of Mulmaster were found in the rogue's lair.",
+    "source_quote": "Two maps of Mulmaster found in the rogue's lair.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "newer map of Mulmaster",
+    "fact": "The newer map of Mulmaster shows harbor sections marked with red X's and mocking annotations over destroyed areas.",
+    "source_quote": "The newer map shows harbor sections marked with red X's and mocking annotations over destroyed areas.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "older map of Mulmaster",
+    "fact": "The older map details trade routes, guard rotations, and patrol schedules.",
+    "source_quote": "The older map details trade routes, guard rotations, and patrol schedules.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Felkur",
+    "fact": "Felkur identified the destruction on the map as the work of elemental cults.",
+    "source_quote": "Felkur identified the destruction as the work of elemental cults.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Felkur",
+    "fact": "Felkur is an artificer.",
+    "source_quote": "Specialized ammunition prepared by Felkur the artificer",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Elemental Ice Bullets",
+    "fact": "Felkur prepared Elemental Ice Bullets before entering the rogue's lair.",
+    "source_quote": "Specialized ammunition prepared by Felkur the artificer before entering the rogue's lair",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Elemental Ice Bullets",
+    "fact": "The bullets are infused with ice energy to exploit potential vulnerabilities of the enemies within.",
+    "source_quote": "infused with ice energy to exploit potential vulnerabilities of the enemies within.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "first chamber of the rogue's lair",
+    "fact": "A stone basin was found in the first chamber of the rogue's lair.",
+    "source_quote": "A stone basin found in the first chamber of the rogue's lair",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Brain Basin",
+    "fact": "The Brain Basin is carved to resemble the underside of a human brain.",
+    "source_quote": "carved to resemble the underside of a human brain.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Brain Basin deduction",
+    "fact": "The party deduced the basin serves as a macabre biological lock for a nearby arcanely sealed door.",
+    "source_quote": "The party deduced it serves as a macabre biological lock for a nearby arcanely sealed door",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Brain Basin operation",
+    "fact": "The basin requires an actual brain to be placed inside to open the door.",
+    "source_quote": "requiring an actual brain to be placed inside to open it.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Glor",
+    "fact": "Glor provided a map illustrating the path of least resistance through the Underdark to the rogue mind flayer's lair.",
+    "source_quote": "A map provided by Glor illustrating the path of least resistance through the Underdark to the rogue mind flayer's lair",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "journey to rogue's lair",
+    "fact": "The journey to the rogue mind flayer's lair is estimated to take approximately ten days.",
+    "source_quote": "with the journey estimated to take approximately ten days.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Arcane Lock placement",
+    "fact": "A powerful magical seal was placed upon a door in the rogue's lair.",
+    "source_quote": "A powerful magical seal placed upon a door in the rogue's lair",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Arcane Lock",
+    "fact": "The Arcane Lock renders the door immune to mechanical tampering.",
+    "source_quote": "rendering it immune to mechanical tampering.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Arcane Lock discovery",
+    "fact": "The party discovered the Arcane Lock could not be bypassed by conventional means.",
+    "source_quote": "The party discovered it could not be bypassed by conventional means",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Arcane Lock bypass method",
+    "fact": "The Arcane Lock required a biological key \u2014 a brain placed in the nearby basin \u2014 to open.",
+    "source_quote": "and instead required a biological key \u2014 a brain placed in the nearby basin \u2014 to open.",
+    "quote_verified": true
+  }
+]

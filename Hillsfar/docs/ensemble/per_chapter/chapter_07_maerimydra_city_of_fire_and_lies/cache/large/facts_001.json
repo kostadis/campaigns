@@ -1,0 +1,639 @@
+[
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The session date is February 8th, 2026.",
+    "source_quote": "Date: Feb 8th, 2026",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daein",
+    "fact": "Daein created an illusion of a female hellhound to lure male hellhounds.",
+    "source_quote": "Daein created an illusion of a female hellhound to lure male hellhounds.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daein",
+    "fact": "Daein mimicked the fire giant's voice with auditory illusions to maintain surprise.",
+    "source_quote": "Daein mimicked the fire giant's voice with auditory illusions to maintain surprise",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daein",
+    "fact": "Daein was critically hit by a fire giant for 50 points of damage, which he reduced to 45.",
+    "source_quote": "A fire giant critically hit Daein for 50 points of damage, which Daein reduced to 45.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daein",
+    "fact": "Daein killed an ogre and struck the giant twice with an axe while winking at Bramgrim.",
+    "source_quote": "Daein killed an ogre and struck the giant twice with an axe while winking at Bramgrim.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daein",
+    "fact": "Daein dealt 41 hit points of damage to Ogre #2.",
+    "source_quote": "Daein attacked Ogre #2, dealing 41 hit points of damage.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daein",
+    "fact": "Daein finished off Ogre #4 with a critical hit.",
+    "source_quote": "Daein finished off Ogre #4 with a critical hit.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Akritas",
+    "fact": "Akritas critically struck the fire giant sergeant with her oath-sworn bow, dealing over 50 points of damage.",
+    "source_quote": "Akritas critically struck the fire giant sergeant with her oath-sworn bow, dealing over 50 points of damage.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Akritas",
+    "fact": "Akritas killed the fire giant sergeant.",
+    "source_quote": "Akritas killed the fire giant sergeant.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Akritas",
+    "fact": "Akritas finished off Ogre #2 with her bow and Hunter's Mark, dealing 38 hit points.",
+    "source_quote": "Akritas finished off Ogre #2 with her bow and Hunter's Mark, dealing 38 hit points.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Akritas",
+    "fact": "Akritas killed Ogre #3 with her bow and Hunter's Mark, dealing 38 hit points.",
+    "source_quote": "Akritas killed Ogre #3 with her bow and Hunter's Mark, dealing 38 hit points.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Bramgrim",
+    "fact": "Bramgrim engaged with spirit guardians.",
+    "source_quote": "Bramgrim engaged with spirit guardians.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Bramgrim",
+    "fact": "Bramgrim lost concentration on spirit guardians after being struck by an ogre.",
+    "source_quote": "Bramgrim lost concentration on spirit guardians after being struck by an ogre.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Bramgrim",
+    "fact": "Bramgrim cast Silence to prevent alarms at the well.",
+    "source_quote": "Bramgrim cast Silence to prevent alarms at the well",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Bramgrim",
+    "fact": "Bramgrim cast mass healing word and dealt 27 points of necrotic damage.",
+    "source_quote": "Bramgrim, shamed by Daein's relentless offensive, relented his healing-only stance to cast mass healing word and dealt 27 points of necrotic damage.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Bramgrim",
+    "fact": "Bramgrim attempted to negotiate with the imp during combat.",
+    "source_quote": "Bramgrim attempted to negotiate with the imp during combat.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Felkur",
+    "fact": "Felkur used MageHand to strip ogres of their uniforms, causing distraction.",
+    "source_quote": "Felkur used MageHand to strip ogres of their uniforms, causing distraction.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Felkur",
+    "fact": "Felkur initiated combat with a fireball on ogres and targeted giants with a cannon.",
+    "source_quote": "Felkur initiated combat with a fireball on ogres and targeted giants with a cannon.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Felkur",
+    "fact": "Felkur used Arcana to recall that faerzress is a dimension-controlling substance.",
+    "source_quote": "Felkur used Arcana to recall that faerzress is a dimension-controlling substance that provides illumination and blocks teleportation.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Felkur",
+    "fact": "Felkur cast Fireball, hitting Ogres #1, #3, and #4 for 28 damage each.",
+    "source_quote": "Felkur cast Fireball, hitting Ogres #1, #3, and #4 for 28 damage each",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Felkur",
+    "fact": "Felkur used another spell to hit Ogre #3 for 16 damage.",
+    "source_quote": "and then used another spell to hit Ogre #3 for 16 damage",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Felkur",
+    "fact": "Felkur used a firebolt to finish off the last remaining Ogre #1.",
+    "source_quote": "Felkur used a firebolt to finish off the last remaining Ogre #1.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Owlbear",
+    "fact": "The Owlbear finished off ogres.",
+    "source_quote": "The Owlbear finished off ogres.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Owlbear",
+    "fact": "Bramgrim and Felkur rode on the Owlbear's back to navigate the five-foot depth of the well.",
+    "source_quote": "Bramgrim and Felkur\u2014both too short to comfortably navigate the five-foot depth\u2014riding on the Owlbear's back.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Owlbear",
+    "fact": "The Owlbear attacked Ogre #4, dealing 18 hit points.",
+    "source_quote": "The Owlbear attacked Ogre #4, dealing 18 hit points.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Owlbear",
+    "fact": "The Owlbear was attacked by Ogre #3 for 13 points of damage.",
+    "source_quote": "Ogre #3 attacked the Owlbear for 13 points of damage.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Owlbear",
+    "fact": "The Owlbear attacked Ogre #1, dealing 35 hit points.",
+    "source_quote": "The Owlbear attacked Ogre #1, dealing 35 hit points.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Pipyap",
+    "fact": "Pipyap is an imp who was rescued from four ogres.",
+    "source_quote": "The rescued imp introduced himself as Pipyap",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Pipyap",
+    "fact": "Pipyap complained about the lack of salt in the party's provisions.",
+    "source_quote": "You should put some salt. It goes a lot better with salt.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Pipyap",
+    "fact": "Pipyap was brought to the prime material plane by a magic user's mistake.",
+    "source_quote": "Pipyap revealed he had been brought to the prime material plane by a magic user's mistake",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Solom Ned'razak",
+    "fact": "Solom Ned'razak was a drow wizard who worked to subvert the power of Lolth's clerics in Maerimydra.",
+    "source_quote": "they learned that the drow wizard had been working to subvert the power of Lolth's clerics in Maerimydra",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Solom Ned'razak",
+    "fact": "Solom Ned'razak blamed powerful wizards and liches from Menzoberranzan for the Blink.",
+    "source_quote": "Solom blamed powerful wizards and liches from Menzoberranzan for the Blink",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Solom Ned'razak",
+    "fact": "Solom Ned'razak's notes mentioned that Lolth's clerics suddenly regained their powers after the Blink.",
+    "source_quote": "The notes also mentioned that Lolth's clerics, who had been curiously silent and unable to commune with Lolth, suddenly regained their powers after the Blink.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Hledh",
+    "fact": "Hledh is the Fire Giant Queen who resides in the eastern castle.",
+    "source_quote": "an eastern castle with towers stretching to the ceiling housed the Fire Giant Queen Hledh",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Veperyd",
+    "fact": "Veperyd is a fiendish giant who runs the Coliseum and its betting operations.",
+    "source_quote": "Veperyd, who ran the Coliseum and its betting operations",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Vraxen",
+    "fact": "Vraxen is a Yugoloth who lives in the Spire of Inevitable Reckoning.",
+    "source_quote": "the residence of Vraxen, a Yugoloth who lived in the Spire of Inevitable Reckoning",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Lolth",
+    "fact": "Lolth used the Blink event to escape her imprisonment.",
+    "source_quote": "Lolth herself had used the event to escape her imprisonment",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Lolth",
+    "fact": "Lolth is now reestablishing her dominion over her followers.",
+    "source_quote": "and was now reestablishing her dominion over her followers.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Graz'zt",
+    "fact": "Maerimydra is controlled by demonic forces aligned with the demon lord Graz'zt.",
+    "source_quote": "controlled by demonic forces aligned with the demon lord Graz'zt",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Graz'zt",
+    "fact": "The western plateau bears the six-fingered symbol of Graz'zt.",
+    "source_quote": "a western plateau bore the six-fingered symbol of Graz'zt",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Fire Giants",
+    "fact": "Fire giants patrol the streets of Maerimydra.",
+    "source_quote": "its streets patrolled by fire giants",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Drow",
+    "fact": "Drow in Maerimydra have been reduced to chains and slavery.",
+    "source_quote": "with drow reduced to chains and slavery.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Menzoberranzan",
+    "fact": "Solom Ned'razak blamed wizards and liches from Menzoberranzan for the Blink.",
+    "source_quote": "blaming powerful wizards and liches from Menzoberranzan for the catastrophe.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Hillsfar",
+    "fact": "Bramgrim recalled that Hillsfar had been controlled by Graz'zt.",
+    "source_quote": "Bramgrim recalled that Hillsfar had been controlled by Graz'zt",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Mulmaster",
+    "fact": "A wizard from Mulmaster arrived for dinner at Vraxen's residence.",
+    "source_quote": "a wizard from Mulmaster had arrived for dinner at the residence of Vraxen",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Black Ember Outpost assault",
+    "fact": "The party completed an assault on the Black Ember Outpost.",
+    "source_quote": "having just completed a daring assault that began with tactical mischief and ended in swift brutality.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Hellhound escape",
+    "fact": "A third hellhound escaped out of the outpost.",
+    "source_quote": "a third escaped out of the outpost.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Track staging",
+    "fact": "Daein staged a scene making the dead ogres and fire giant appear to be still alive.",
+    "source_quote": "Daein successfully staged the scene using deception, making it appear as if the dead ogres and fire giant were still alive",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Well descent",
+    "fact": "The party plunged into the dark, murky waters of the well.",
+    "source_quote": "The party plunged into the dark, murky waters of the well",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Tunnel swim",
+    "fact": "The party swam through a tunnel for about forty feet.",
+    "source_quote": "They swam through a tunnel for about forty feet",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Blink event",
+    "fact": "The Blink caused all the faerzress to flicker dramatically before returning to normal.",
+    "source_quote": "This phenomenon had caused all the faerzress\u2014a dimension-controlling substance that provides illumination and blocks teleportation\u2014to flicker dramatically before returning to normal",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Demon appearance",
+    "fact": "Demons began appearing throughout the Underdark after the Blink.",
+    "source_quote": "after which demons began appearing throughout the Underdark.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Lolth's escape",
+    "fact": "Lolth used the Blink to escape her imprisonment.",
+    "source_quote": "Lolth herself had used the event to escape her imprisonment",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Imp rescue",
+    "fact": "The party intervened to rescue an imp being tormented by four ogres.",
+    "source_quote": "they ultimately decided the potential intelligence was worth the risk.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Ogre combat",
+    "fact": "The party engaged the ogres in combat.",
+    "source_quote": "The party engaged the ogres in combat.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Ogre #2 death",
+    "fact": "Akritas finished off Ogre #2.",
+    "source_quote": "Akritas finished off Ogre #2 with her bow and Hunter's Mark, dealing 38 hit points.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Ogre #4 death",
+    "fact": "Daein finished off Ogre #4 with a critical hit.",
+    "source_quote": "Daein finished off Ogre #4 with a critical hit.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Ogre #3 death",
+    "fact": "Akritas killed Ogre #3.",
+    "source_quote": "Akritas killed Ogre #3 with her bow and Hunter's Mark, dealing 38 hit points.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Ogre #1 death",
+    "fact": "Felkur used a firebolt to finish off the last remaining Ogre #1.",
+    "source_quote": "Felkur used a firebolt to finish off the last remaining Ogre #1.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Black Ember Outpost",
+    "fact": "The party stood victorious over the carnage at the Black Ember Outpost.",
+    "source_quote": "The party stood victorious over the carnage at the Black Ember Outpost",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Path of the Shadows",
+    "fact": "The path forward was down a well on the Path of the Shadows.",
+    "source_quote": "The path forward, on the Path of the Shadows, was down a well.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Solom Ned'razak's office",
+    "fact": "The party emerged into a large cave that served as Solom Ned'razak's private office.",
+    "source_quote": "emerging into a large cave that served as Solom Ned'razak's private office.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Maerimydra",
+    "fact": "Maerimydra is a city of fire and ash nestled in a titanic cavern six hundred feet tall.",
+    "source_quote": "a city of fire and ash nestled in a titanic cavern six hundred feet tall.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Western plateau",
+    "fact": "The western plateau bears the six-fingered symbol of Graz'zt above a courtyard.",
+    "source_quote": "a western plateau bore the six-fingered symbol of Graz'zt above a courtyard",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Eastern castle",
+    "fact": "An eastern castle with towers stretching to the ceiling houses the Fire Giant Queen Hledh.",
+    "source_quote": "an eastern castle with towers stretching to the ceiling housed the Fire Giant Queen Hledh",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Coliseum",
+    "fact": "A massive coliseum looms in the southern district of Maerimydra.",
+    "source_quote": "a massive coliseum loomed in the southern district.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Spire of Inevitable Reckoning",
+    "fact": "The Spire of Inevitable Reckoning houses a book the party needs to steal and a teleportation circle.",
+    "source_quote": "the same tower that housed both the book the party needed to steal and a teleportation circle they could use to escape.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Hidden chest",
+    "fact": "The party discovered a hidden chest containing potions and gemstones.",
+    "source_quote": "discovered a hidden chest containing potions of flying and fire giant strength, along with coral gemstones",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Potion of flying",
+    "fact": "The party found a potion of flying in the hidden chest.",
+    "source_quote": "discovered a hidden chest containing potions of flying",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Potion of fire giant strength",
+    "fact": "The party found a potion of fire giant strength in the hidden chest.",
+    "source_quote": "containing potions of flying and fire giant strength",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Coral gemstones",
+    "fact": "The party found coral gemstones worth 400 gold pieces.",
+    "source_quote": "coral gemstones worth 400 gold pieces.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Bloodstained satchel",
+    "fact": "The imp was desperately clutching a bloodstained satchel.",
+    "source_quote": "an imp desperately clutching a bloodstained satchel.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Oath-sworn bow",
+    "fact": "Akritas landed a critical hit with her oath-sworn bow.",
+    "source_quote": "Akritas landed a staggering critical hit with her oath-sworn bow",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Lamp",
+    "fact": "The party found a lamp in Solom Ned'razak's office.",
+    "source_quote": "The party found a lamp and papers in Solom Ned'razak's office.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Solom's notes",
+    "fact": "The party read Solom Ned'razak's notes in his office.",
+    "source_quote": "Among the papers and notes scattered about, they learned",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Book",
+    "fact": "The party needs to steal a book from Vraxen's residence.",
+    "source_quote": "the book the party needed to steal",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Teleportation circle",
+    "fact": "The Spire of Inevitable Reckoning houses a teleportation circle.",
+    "source_quote": "a teleportation circle they could use to escape.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Fire giant",
+    "fact": "Fire giants patrol the streets of Maerimydra.",
+    "source_quote": "its streets patrolled by fire giants",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Armored ogres",
+    "fact": "Armored ogres patrol the streets of Maerimydra.",
+    "source_quote": "armored ogres, hellhounds, and demons of all varieties",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Hellhounds",
+    "fact": "Two hellhounds were killed at the Black Ember Outpost.",
+    "source_quote": "Two hellhounds were killed, while a third escaped out of the outpost.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Demons",
+    "fact": "Demons began appearing throughout the Underdark after the Blink.",
+    "source_quote": "after which demons began appearing throughout the Underdark.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Ogre #1",
+    "fact": "Ogre #1 attacked Daein but missed.",
+    "source_quote": "Ogre #1 attacked Daein but missed.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Ogre #2",
+    "fact": "Ogre #2 was finished off by Akritas.",
+    "source_quote": "Akritas finished off Ogre #2 with her bow and Hunter's Mark, dealing 38 hit points.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Ogre #3",
+    "fact": "Ogre #3 attacked the Owlbear for 13 points of damage.",
+    "source_quote": "Ogre #3 attacked the Owlbear for 13 points of damage.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Ogre #4",
+    "fact": "Ogre #4 charged Daein, hitting for 13 points of damage.",
+    "source_quote": "Ogre #4 charged Daein, hitting for 13 points of damage",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Fire giant sergeant",
+    "fact": "Akritas critically struck the fire giant sergeant, dealing over 50 points of damage.",
+    "source_quote": "Akritas critically struck the fire giant sergeant with her oath-sworn bow, dealing over 50 points of damage.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Fire giant",
+    "fact": "A fire giant critically hit Daein for 50 points of damage.",
+    "source_quote": "A fire giant critically hit Daein for 50 points of damage",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Fire giant",
+    "fact": "Akritas delivered the finishing blow to the fire giant.",
+    "source_quote": "Akritas delivered the finishing blow to the fire giant, securing the room.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Dinner at Vraxen's",
+    "fact": "A wizard from Mulmaster is arriving for dinner at Vraxen's residence.",
+    "source_quote": "a wizard from Mulmaster had arrived for dinner at the residence of Vraxen",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "The Blink",
+    "fact": "The Blink was an event where all faerzress in the Underdark went dark, then very brightly lit, then dark again, then normal again.",
+    "source_quote": "The Blink was an event where all faerzress in the Underdark went dark, then very brightly lit, then dark again, then normal again",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Lolth's return",
+    "fact": "Lolth has returned to reestablish her power in the world.",
+    "source_quote": "Lolth herself had used the event to escape her imprisonment and was now reestablishing her dominion over her followers.",
+    "quote_verified": true
+  }
+]

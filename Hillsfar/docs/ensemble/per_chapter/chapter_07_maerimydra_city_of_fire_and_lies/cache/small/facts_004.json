@@ -1,0 +1,576 @@
+[
+  {
+    "type": "location",
+    "subject": "Path of Shadows",
+    "fact": "The Path of Shadows is an underground passage of dark, murky, warm water about five feet deep.",
+    "source_quote": "An underground passage of dark, murky, warm water about five feet deep",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Path of Shadows",
+    "fact": "The passage is fed by a stream connecting to a larger lake of shadows.",
+    "source_quote": "fed by a stream connecting to a larger lake of shadows",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Path of Shadows",
+    "fact": "A five-foot-wide tunnel within the passage leads to Solom Ned'razak's private office.",
+    "source_quote": "featuring a five-foot-wide tunnel that the party swam through for about 40 feet, leading to Solom Ned'razak's private office",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Solom Ned'razak",
+    "fact": "Solom Ned'razak is a male Drow wizard.",
+    "source_quote": "A male Drow wizard",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Solom Ned'razak's Office",
+    "fact": "Solom Ned'razak's office is a private area within a large cave along the Path of Shadows.",
+    "source_quote": "A private office area within a large cave along the Path of Shadows",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Solom's papers",
+    "fact": "The office contains papers detailing Solom's research and observations about the Blink event, the faerzress, demons, and Lolth's clerics.",
+    "source_quote": "containing a lamp and papers detailing Solom's research and observations about the Blink event, the faerzress, demons, and Lolth's clerics",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Maerimydra",
+    "fact": "Maerimydra is a former drow metropolis now a city of fire and ash.",
+    "source_quote": "A former drow metropolis now a city of fire and ash",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Maerimydra",
+    "fact": "The city is nestled in a titanic cavern 600 feet tall at its highest point.",
+    "source_quote": "nestled in a titanic cavern 600 feet tall at its highest point",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Demonic evil forces",
+    "fact": "Maerimydra is controlled by demonic evil forces aligned with Graz'zt.",
+    "source_quote": "It is controlled by demonic evil forces aligned with Graz'zt",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Maerimydra",
+    "fact": "The city features huge buildings and plateaus 100 feet high connected by 100-foot-wide grand stairs.",
+    "source_quote": "The city features huge buildings, plateaus 100 feet high connected by 100-foot-wide grand stairs",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Maerimydra",
+    "fact": "A thick smoke layer exists above 250 feet in Maerimydra.",
+    "source_quote": "a thick smoke layer above 250 feet",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Maerimydra",
+    "fact": "The city is lit by numerous burning braziers creating a heavy charcoal scent.",
+    "source_quote": "lit by numerous burning braziers creating a heavy charcoal scent",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Inhabitants of Maerimydra",
+    "fact": "Maerimydra is inhabited by fire giants, ogres, hellhounds, drow slaves, and demons.",
+    "source_quote": "inhabited by fire giants, ogres, hellhounds, drow slaves, and demons",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Six-Fingered Courtyard",
+    "fact": "The Six-Fingered Courtyard is a courtyard on a raised plateau in the western section of Maerimydra.",
+    "source_quote": "A courtyard on a raised plateau in the western section of Maerimydra",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Six-Fingered Courtyard",
+    "fact": "The courtyard is surrounded by black spires bearing a prominent six-fingered symbol of Graz'zt.",
+    "source_quote": "surrounded by black spires bearing a prominent six-fingered symbol (of Graz'zt)",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Worship at Six-Fingered Courtyard",
+    "fact": "Demons and giants gather at the Six-Fingered Courtyard to worship a demon lord.",
+    "source_quote": "Demons and giants gather here to worship a demon lord",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Fiendish giant manager",
+    "fact": "One of the fiendish giants manages the Six-Fingered Courtyard.",
+    "source_quote": "one of the fiendish giants manages it",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Coliseum",
+    "fact": "The Coliseum is a massive structure dominating the southern end of the residential district in Maerimydra.",
+    "source_quote": "A massive coliseum dominating the southern end of the residential district in Maerimydra",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Gladiator fights",
+    "fact": "Great gladiator fights occur at the Coliseum.",
+    "source_quote": "where great gladiator fights occur",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Veperyd",
+    "fact": "Veperyd is a fiendish giant who is in charge of the Coliseum.",
+    "source_quote": "Veperyd, a fiendish giant, is in charge of it",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Veperyd",
+    "fact": "Veperyd manages the betting pool at the Coliseum.",
+    "source_quote": "and manages the betting pool",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Eastern Castle",
+    "fact": "The Eastern Castle is a castle on a plateau in the eastern side of Maerimydra.",
+    "source_quote": "A castle on a plateau in the eastern side of Maerimydra",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Eastern Castle",
+    "fact": "The castle has two towers stretching from floor to ceiling.",
+    "source_quote": "with two towers stretching from floor to ceiling",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Hledh",
+    "fact": "The Fire Giant Queen Hledh resides in the Eastern Castle.",
+    "source_quote": "The Fire Giant Queen Hledh resides here",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "The Spire of Inevitable Reckoning",
+    "fact": "The Spire of Inevitable Reckoning is a tower in Maerimydra where Vraxen resides.",
+    "source_quote": "A tower in Maerimydra where Vraxen (the Yugoloth) resides",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "The book",
+    "fact": "The Spire of Inevitable Reckoning contains the book the party seeks.",
+    "source_quote": "It contains the book the party seeks",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Teleportation circle",
+    "fact": "The Spire of Inevitable Reckoning contains a teleportation circle.",
+    "source_quote": "and a teleportation circle",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Dinner event",
+    "fact": "A dinner event is scheduled to occur at The Spire of Inevitable Reckoning.",
+    "source_quote": "A dinner event is scheduled to occur here",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Owlbear",
+    "fact": "The Owlbear is a loyal companion to the party.",
+    "source_quote": "A loyal companion to the party",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Combat at Black Ember Outpost",
+    "fact": "The Owlbear participated in combat against ogres at the Black Ember Outpost.",
+    "source_quote": "who participated in combat against ogres at the Black Ember Outpost",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Combat in Maerimydra",
+    "fact": "The Owlbear participated in combat in Maerimydra.",
+    "source_quote": "and in Maerimydra",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Owlbear rescue",
+    "fact": "The Owlbear helped Bramgrim and Felkur stay afloat in deep water by allowing them to ride on its back.",
+    "source_quote": "Helped Bramgrim and Felkur stay afloat in the deep water by allowing them to ride on its back",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Solom Ned'razak",
+    "fact": "The party discovered Solom Ned'razak's private office and notes in the Path of Shadows.",
+    "source_quote": "whose private office and notes were discovered by the party in the Path of Shadows",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Solom Ned'razak",
+    "fact": "Solom's writings revealed his efforts to subvert Lolth's clerics in Maerimydra.",
+    "source_quote": "His writings revealed his efforts to subvert Lolth's clerics in Maerimydra",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Solom Ned'razak",
+    "fact": "Solom's writings included theories on the 'Blink' event in the faerzress.",
+    "source_quote": "his theories on the 'Blink' event in the faerzress",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Solom Ned'razak",
+    "fact": "Solom's writings included observations on the appearance of demons.",
+    "source_quote": "his observations on the appearance of demons",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Solom Ned'razak",
+    "fact": "Solom's writings included notes about Lolth's clerics regaining their powers.",
+    "source_quote": "and his notes about Lolth's clerics regaining their powers",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Solom Ned'razak",
+    "fact": "Solom blamed powerful wizards and liches from Menzoberranzan for the Blink.",
+    "source_quote": "He blamed powerful wizards and liches from Menzoberranzan for the Blink",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Solom Ned'razak",
+    "fact": "Solom wished the Blink had been his idea.",
+    "source_quote": "and wished it had been his idea",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Solom Ned'razak",
+    "fact": "Solom initially sought accommodation with demons but realized they only caused chaos and destruction.",
+    "source_quote": "He initially sought accommodation with demons but realized they only caused chaos and destruction",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Pipyap",
+    "fact": "Pipyap is an imp with a barbed tail and a bloodstained satchel.",
+    "source_quote": "An imp (devil) with a barbed tail and a bloodstained satchel",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Pipyap rescue",
+    "fact": "The party rescued Pipyap from four ogres in Maerimydra.",
+    "source_quote": "rescued by the party from four ogres in Maerimydra",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Pipyap",
+    "fact": "Pipyap is knowledgeable about Maerimydra's layout, inhabitants, and key figures.",
+    "source_quote": "He is knowledgeable about the city's layout, inhabitants, and key figures",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Pipyap contract",
+    "fact": "Pipyap made a contract with the party to provide information and assistance in exchange for his safety.",
+    "source_quote": "He made a contract with the party to provide information and assistance in exchange for his safety",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Pipyap",
+    "fact": "Pipyap was brought to the prime material plane by a magic user's mistake.",
+    "source_quote": "He was brought to the prime material plane by a magic user's mistake",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Pipyap",
+    "fact": "Pipyap has a strong desire to avoid returning to the Nine Hells.",
+    "source_quote": "having found loopholes in his previous contracts to remain free",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Pipyap",
+    "fact": "Pipyap complained about the lack of salt in the party's food.",
+    "source_quote": "He complained about the lack of salt in the party's food",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Pipyap",
+    "fact": "Pipyap enjoys being on the prime material plane.",
+    "source_quote": "and enjoys being on the prime material plane",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Hledh",
+    "fact": "Hledh is the Fire Giant Queen who rules Maerimydra.",
+    "source_quote": "The Fire Giant Queen who rules Maerimydra",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Hledh",
+    "fact": "Pipyap advises the party to stay away from Hledh.",
+    "source_quote": "Pipyap advises the party to stay away from her",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Veperyd",
+    "fact": "Veperyd is a fiendish giant who runs the Coliseum in Maerimydra.",
+    "source_quote": "A fiendish giant who runs the Coliseum in Maerimydra",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Veperyd",
+    "fact": "Pipyap describes Veperyd as 'a bit of an idiot'.",
+    "source_quote": "Pipyap describes him as 'a bit of an idiot'",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Veperyd",
+    "fact": "Veperyd has been stealing money from Vraxen.",
+    "source_quote": "who has been stealing money from Vraxen",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Veperyd",
+    "fact": "Veperyd's theft makes him a potential target for creating a distraction.",
+    "source_quote": "making him a potential target for creating a distraction",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Vraxen",
+    "fact": "Vraxen is a Yugoloth who resides in The Spire of Inevitable Reckoning.",
+    "source_quote": "A Yugoloth who resides in The Spire of Inevitable Reckoning",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "The book",
+    "fact": "Vraxen possesses the book the party is seeking.",
+    "source_quote": "He possesses the book the party is seeking",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Vraxen and Veperyd arrangement",
+    "fact": "Vraxen has a business arrangement with Veperyd regarding the Coliseum's betting pool.",
+    "source_quote": "has a business arrangement with Veperyd regarding the Coliseum's betting pool",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Veris",
+    "fact": "Veris is a High Inquisitor of Mulmaster.",
+    "source_quote": "A High Inquisitor of Mulmaster",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Veris travel",
+    "fact": "Veris has travelled to attend the dinner at Vraxen's residence.",
+    "source_quote": "who has travelled to attend the dinner at Vraxen's residence",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Veris",
+    "fact": "Veris intends to acquire the book the party seeks.",
+    "source_quote": "where he intends to acquire the book the party seeks",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Veris",
+    "fact": "Veris is secretly hunting Felkur.",
+    "source_quote": "Secretly hunting Felkur",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Veris",
+    "fact": "Veris is a rival buyer for the tome.",
+    "source_quote": "he is a rival buyer for the tome",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Party deadline",
+    "fact": "Veris sets the party's deadline to steal the book before the dinner concludes.",
+    "source_quote": "and sets the party's deadline \u2014 they must steal the book before the dinner concludes",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Graz'zt",
+    "fact": "Graz'zt is a demon lord who controls Maerimydra and Hillsfar.",
+    "source_quote": "A demon lord who controls Maerimydra and Hillsfar",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Graz'zt deal with giants",
+    "fact": "Graz'zt made a deal with the giants to imbue them with fiendish blood.",
+    "source_quote": "He made a deal with the giants to imbue them with fiendish blood",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Graz'zt brings in Vraxen",
+    "fact": "Graz'zt brought in Vraxen to ensure his plans are carried out.",
+    "source_quote": "and brought in Vraxen to ensure his plans are carried out",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Six-fingered symbol",
+    "fact": "Graz'zt's symbol is a six-fingered hand.",
+    "source_quote": "His symbol is a six-fingered hand",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Six-Fingered Courtyard",
+    "fact": "The six-fingered hand symbol is prominently displayed at the Six-Fingered Courtyard.",
+    "source_quote": "prominently displayed at the six-fingered courtyard",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Worship at Six-Fingered Courtyard",
+    "fact": "Demons and giants worship Graz'zt at the Six-Fingered Courtyard.",
+    "source_quote": "where demons and giants worship him",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Lolth",
+    "fact": "Lolth is the Drow goddess whose clerics were unable to commune with her for some time.",
+    "source_quote": "The Drow goddess whose clerics were unable to commune with her for some time",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Lolth powers return",
+    "fact": "Lolth's powers returned after 'the Blink'.",
+    "source_quote": "Her powers returned after 'the Blink'",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Lolth escape",
+    "fact": "Lolth used 'the Blink' event to escape imprisonment.",
+    "source_quote": "an event she used to escape imprisonment",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Lolth's clerics",
+    "fact": "Lolth is now reestablishing her power and organizing her clerics.",
+    "source_quote": "She is now reestablishing her power, organizing her clerics",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Lolth's clerics",
+    "fact": "Lolth is extracting revenge on those who stopped being faithful to her.",
+    "source_quote": "and extracting revenge on those who stopped being faithful to her",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Potion of Flying",
+    "fact": "A Potion of Flying was found in a chest beneath a ragged blanket in the storeroom of the Black Ember Outpost.",
+    "source_quote": "A magical potion found in a chest beneath a ragged blanket in the storeroom of the Black Ember Outpost",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Potion of Fire Giant Strength",
+    "fact": "A Potion of Fire Giant Strength was found in a chest beneath a ragged blanket in the storeroom of the Black Ember Outpost.",
+    "source_quote": "A magical potion found in a chest beneath a ragged blanket in the storeroom of the Black Ember Outpost",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Coral Gemstones",
+    "fact": "Coral Gemstones were found in a chest beneath a ragged blanket in the storeroom of the Black Ember Outpost.",
+    "source_quote": "Gemstones found in a chest beneath a ragged blanket in the storeroom of the Black Ember Outpost",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Coral Gemstones",
+    "fact": "The Coral Gemstones are valued at a total of 400 gold pieces.",
+    "source_quote": "valued at a total of 400 gold pieces",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Solom Ned'razak's Notes",
+    "fact": "Solom Ned'razak's Notes are papers found in Solom Ned'razak's private office.",
+    "source_quote": "Papers found in Solom Ned'razak's private office",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Solom Ned'razak's Notes",
+    "fact": "The notes contain Solom's research, theories on the 'Blink' event, observations about demons, and notes about Lolth's clerics.",
+    "source_quote": "containing his research, theories on the 'Blink' event in the faerzress, observations about demons appearing after the Blink, his attempts to make deals with demons, and notes about Lolth's clerics regaining their powers after being silent",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Solom Ned'razak's Notes",
+    "fact": "The notes included Solom's complaints about not thinking of the Blink idea himself.",
+    "source_quote": "The notes also included his complaints about not thinking of the Blink idea himself",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Solom Ned'razak's Notes",
+    "fact": "The notes included Solom's blame of powerful wizards and liches from Menzoberranzan.",
+    "source_quote": "and his blame of powerful wizards and liches from Menzoberranzan",
+    "quote_verified": true
+  }
+]
