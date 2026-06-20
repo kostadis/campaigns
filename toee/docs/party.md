@@ -41,7 +41,7 @@
 ## Characters
 
 ### Calmer
-**Class/Level:** Cleric (War Domain) 6 | **Species:** Human | **Player:** kostadis1
+**Class/Level:** Cleric (War Domain) 6 | **Species:** Human | **Player:** Kostadis/Kostadis Roussos/kostadis1
 
 Calmer is a deeply devout cleric of St. Cuthbert operating under profound cover stress—publicly posing as a converted follower of the elder elemental god while privately maintaining his true faith. He is growing harder and more decisive in violence (executed a gnoll prisoner unilaterally, delivered killing blows on Rannos, Gremag, Romag, and the Chimera) while simultaneously showing visible moral distress at the rituals he is expected to endorse. His teammates are quietly monitoring whether his Earth Temple cover identity is beginning to affect his true loyalties.
 
@@ -70,7 +70,7 @@ Calmer is a deeply devout cleric of St. Cuthbert operating under profound cover 
 ---
 
 ### Zephyr
-**Class/Level:** Tiefling Rogue (Assassin) | **Species:** Tiefling | **Player:** [not specified]
+**Class/Level:** Tiefling Rogue (Assassin) | **Species:** Tiefling | **Player:** Thomas/Thomas Kolivakis
 
 Zephyr is the party's primary tactician and face in confrontational situations—quick with intimidation, bluffs, and improvised solutions under pressure. He is financially careful to the point of being mocked for it, and maintains a persistent deception in gnome territory (claiming his tiefling appearance is a curse). He carries the internal weight of knowing the party has been manipulated into serving multiple competing masters while driving the most aggressive choices himself, including triggering the Romag assassination and manipulating Alrrem into war.
 
@@ -98,7 +98,7 @@ Zephyr is the party's primary tactician and face in confrontational situations�
 ---
 
 ### Zinnia
-**Class/Level:** Elf Monk | **Species:** Elf | **Player:** [not specified]
+**Class/Level:** Elf Monk | **Species:** Elf | **Player:** George/George Kolivakis 
 
 Zinnia is the party's most perceptive operator and its most reliable combatant under adverse conditions—she has delivered killing blows on the hag, Fire Temple warlock, and Tharok, persisted through poison and unconsciousness to finish the Otyugh, and held the party together alone when all three companions were harpy-charmed. She is the party's primary intelligence reader in social situations and tends toward calculated deception over confrontation. Her killing of the green hag carried personal weight (childhood hatred of hags); her current relationship with her cover identity appears stable.
 
@@ -128,7 +128,7 @@ Zinnia is the party's most perceptive operator and its most reliable combatant u
 ---
 
 ### Sequoia
-**Class/Level:** Halfling Rogue | **Species:** Halfling | **Player:** [not specified]
+**Class/Level:** Halfling Rogue | **Species:** Halfling | **Player:** Nicholas
 
 Sequoia is the party's tactical coordinator and its most quietly self-interested member—he deputized himself outwardly to Rufus while privately reserving independent judgment, secretly redistributed chest treasure in his own favor, and accepted two side quests without consulting the group. He is growing into a more decisive combatant and delivered the killing blow on Lareth. His most significant moral choice remains the promise to Voss that could complicate relations with the Church of St. Cuthbert if it surfaces.
 

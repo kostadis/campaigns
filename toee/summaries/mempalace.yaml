@@ -1,0 +1,14 @@
+wing: summaries
+rooms:
+- name: narration
+  description: Per-scene narrative prose generated from sessions
+  keywords: [narrator, session_doc, narration, scene_doc]
+- name: extractions
+  description: Scene extractions, quote captures, structured scene content
+  keywords: [extraction, extract, scene_extraction, roleplay, quote]
+- name: summary
+  description: Session summaries and GM assist notes
+  keywords: [session, summary, recap, assist, gm-assist]
+- name: general
+  description: Fallback
+  keywords: []

@@ -1,18 +1,20 @@
-# === MemPalace exclusions for the notes wing ===
-# notes/ is mined as the `notes` wing (GM prep, durable). These are kept out:
-
-# Speculative session-prep — mined separately as the `prep` wing
-sessions/
-
-# VTT/glossary tooling and scripts (mechanical, not reference)
+# Pipeline tooling
 *.py
-.vtt_spell_pass_state.json
+*.json
+*.db
+*.txt
+.gitkeep
+
+# VTT pipeline metadata
 vtt_known_additions.md
 vtt_transcription_corrections.md
-proper_nouns_adventure.md
-proper_nouns_adventure.txt
+.vtt_spell_pass_state.json
 
-# config / local
-.claude/
+# Pipeline-adjacent meta docs
+mempalace_usage_guide.md
+mempalace_pre_cleanup_inventory.md
+proper_nouns_adventure.md
+
+# Self-referential
 mempalace.yaml
 .mempalaceignore

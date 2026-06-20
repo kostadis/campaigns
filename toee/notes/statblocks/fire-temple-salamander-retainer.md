@@ -4,9 +4,7 @@ The last of the three Temple of Fire salamanders, surrendered when the second of
 died. A masterless conscript who served whoever held the altar; the party now hold it.
 Use this if the party accept its service instead of killing it or letting it flee.
 
-**Suggested name:** *Vurakhal* (Ignan; roughly "ember-that-was-spared"). It will answer to it.
-If the party rename it, it accepts the name with grim dignity — a renaming is, to a bound
-fire-elemental, a kind of re-binding, and it knows it.
+**Name:** *Vurakhal* (Ignan; roughly "ember-that-was-spared") — confirmed at table.
 
 ---
 

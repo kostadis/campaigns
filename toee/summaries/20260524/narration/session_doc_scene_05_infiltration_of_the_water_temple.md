@@ -1,0 +1,61 @@
+---
+scene: 05
+slug: infiltration_of_the_water_temple
+narrator: zephyr
+scene_name: Infiltration of the Water Temple
+session: 20260524
+---
+
+The west door. Always the west door — fewer rooms, fewer surprises, fewer chances for a war zone to introduce me to something it had been saving. *Fewer rooms. Fewer chances for whatever this war had saved for us to introduce itself.* I put my ear to the brown marble and listened. Nothing. The plan was to burst in.
+
+The plan died when Zinnia hit the door and the door hit back.
+
+She rolled her shoulder into it and bounced. Tried again, with help, bounced again. *I rolled a 7,* she said, which was not the door's problem so much as a confession. Two muffled voices came through the wood now, fully awake, a name shouted that I couldn't make out, then the question that ends so many infiltrations: *You're not supposed to be here? Who is this?*
+
+Sequoia, without missing a beat: "Housekeeping!"
+
+It did not land. I sighed. Zinnia tried informants. I tried Kelno — *We are messengers for Kelno* — and felt the thing wobble in the air, because messages from Kelno, in a temple at war with itself, is the wrong kind of password. So I changed the trade.
+
+There was a war on. War means news, and news means doors open for the people who carry it. We were messengers, then — bearing word of an assassination, a letter, a coin to prove it. Zinnia produced the proof. The voices behind the door paused, and the pause is where you win or lose. *Yes,* one said, *and what is it?* News for the big boss. News for Belsornig.
+
+And then they did the thing tired men do when they think they're safe — they talked. "She's dead, then with Alrrem dying, and those fools… All that remains is for us to defeat those pompous passes known as the Obsidian Edge."
+
+*This again.* The world had been calling us pompous behind closed doors for a while now. I could forgive it. We were about to introduce ourselves properly.
+
+The door opened. The bluff held so clean we didn't just get in — we got surprise, the whole round, ours, free. Then they saw us, and saw the shapes wearing the wrong faces, and started to say the word — *the Obsidian Edge?* — and that was the last useful thing either of them said.
+
+They were cult fanatics, and not entirely stupid: spiritual weapons already hanging in the air, ready for trouble. Trouble had simply come dressed as a courier.
+
+Sequoia and Zinnia took the first one apart. The second was mine.
+
+Surprise, for an assassin, is not an advantage. It is a sentence already finished before the man knows it started. The blade went in where it always goes. Automatic. Done. Sequoia stepped over the body and ended the rest of it, and the way to the inner sanctum stood open, quiet, smelling of damp stone and old water.
+
+And waiting in my hand: the Dagger of Venom. Kelno's gift. *I've been saving this to kill Belsornig for some time. If you wouldn't mind doing me the honors?* I'd taken his deal in seconds because his answer had been honest — for chaos, but also for living. An honest man with a poisoned knife and a grudge. I respected all three. *Well, I'll give it to you. Take it,* I'd said, and the dagger had gone around the circle, and now it was coming back.
+
+Belsornig, Prophet of Water, was preoccupied. He'd heard his henchmen die so fast he'd registered nothing at all. We crossed the chamber like the floor owed us silence — and it gave it, every footfall swallowed, not a breath out of place. He never turned.
+
+Then the round happened. They attack. They die.
+
+Sequoia opened him up. Zinnia charged and burned the water out of him. I came in last, missed the first, found the second exactly where I wanted it. A staggering amount of damage, all of it landing on a man who'd been reading a scroll. He swayed. One more hit and there'd be nothing left to question.
+
+*Maybe we should keep him alive? No?* The thought had value — a Prophet talks, and talk is leverage.
+
+"No, let's just kill him," Sequoia said.
+
+Fair. *Look, I'll take the poison dagger.* I crossed the last step, found the soft place under the ribs, and drove Kelno's gift home. The Prophet of Water folded onto his own wet floor.
+
+And a gong rang. Deep, enormous, rolling out through the whole second level. *Are they opening the door?* I asked, dagger still warm in my fist — but it wasn't a door. It was the temple announcing that something had changed hands.
+
+We turned for the stairs in the Air Temple, meaning to go home, to wash the water-stink off and report.
+
+The bugbears came up to meet us instead. All in black — the black of the Greater Temple — and they didn't reach for weapons. They announced a name like an order. *Barkinar.* The Greater Temple, they said, wished to speak with the new rulers of the Upper Temple.
+
+"Yes, we will go see him," I said.
+
+"No. He will see you." They looked past me, counting heads. "Where is the cleric?"
+
+"I will summon him."
+
+"The cleric is in charge, of course."
+
+*Of course he is.* "Yes," I said, and the useful lie settled into place the way it always does. "He's hurt. He will be fine."
