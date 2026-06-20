@@ -65,11 +65,19 @@ related: []
 ### Connections to Existing Wiki
 - **Existing Pages:**
   - [[Moonwood]] — Provides background on the elven kingdom.
-  - [[Yakfolk]] — Offers context on the village that captured Princess Halani.
+  - [[grindle-2026-06-06-042021]] — Offers context on the village that captured Princess Halani.
   - Silverymoon — Discusses the city that abandoned the Silver Marches.
-  - [[Citadel Adbar]] — Describes the castle where Yakfolk-possessed dwarves assassinated the king.
-  - [[Possession Rituals]] — Explains the method used by Yakfolk to capture individuals.
+  - [[force-grey-2026-06-06-063448]] — Describes the castle where Yakfolk-possessed dwarves assassinated the king.
+  - [[force-grey-2026-06-06-063448]] — Explains the method used by Yakfolk to capture individuals.
 - **Impact:**
   - Strengthens existing knowledge about the Moonwood, Yakfolk, Silverymoon, and Citadel Adbar.
   - Challenges assumptions about Princess Halani’s motivations and the nature of the "new organization."
   - Extends understanding of the political landscape and
+
+## Related
+
+- [[baash_a_kweelani]]
+- [[taern_hornblade]]
+- [[queen_neri]]
+- [[talis_the_white]]
+- [[queen_tatiana]]

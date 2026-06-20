@@ -12,6 +12,17 @@ Halisa was initially punished by the Seelie Court for speaking honestly about Qu
 
 ## Connections to Existing Wiki
 - [[halisa]]
-- [[tree-protection-schedule-d]]
-- [[seelie-court]]
+- [[the-party]]
+- [[fey-court-structure]]
 - [[dryads]]
+
+## Related
+
+- [[sacrifice]]
+- [[orsik]]
+- [[sprite-emissary]]
+- [[taunt]]
+- [[helia]]
+- [[queen-titania]]
+- [[fey-courts]]
+- [[punishment]]

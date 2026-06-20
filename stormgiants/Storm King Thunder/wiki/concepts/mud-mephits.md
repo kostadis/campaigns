@@ -31,6 +31,7 @@ Mud Mephits are central to the narrative, playing a significant role in the Ghos
 The Ghost (Cloud Giant) manipulates the mud mephits through the oracle and its rules, ensuring they follow his directives to achieve his vengeance quest. This influence is evident in the mephit civil war, where factions compete for dominance.
 
 ## Related Sources
+- [[feetor]]
 For additional insights into the mud mephits' behavior and motivations, refer to the following sources:
 - [feetor.md](#)
 - [ghost_cloud_giant.md]()

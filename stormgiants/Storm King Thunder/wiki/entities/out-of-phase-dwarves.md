@@ -25,3 +25,8 @@ Their appearance is highly grotesque and non-Euclidean:
 
 ## Psychological Profile
 They lack traditional intelligence or strategic goals, instead muttering incessantly about "efficiency." They appear to view biological entities through a lens of utility, as evidenced by the auditory hallucination experienced by [[brewbarry]] regarding "incorrect packaging."
+
+## Related
+
+- [[the-dwarven-king-of-axeholm]]
+- [[out_of_phase_dwarves_axelholm_inhabitants]]

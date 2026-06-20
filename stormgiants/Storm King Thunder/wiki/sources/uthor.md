@@ -76,8 +76,8 @@ related: []
 
 - **Existing Pages Related to the Source:**
   - [[storm-giants]] — Provides context for the Storm Giant court and its hierarchy.
-  - [[imperators]] — Could be linked to Uthor's role as Imperator.
-  - [[storm-giant-culture]] — Offers insight into the Storm Giant society and politics.
+  - [[the_imperator]] — Could be linked to Uthor's role as Imperator.
+  - [[storm-giants]] — Offers insight into the Storm Giant society and politics.
 
 - **Impact on Existing Knowledge:**
   - St

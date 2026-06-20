@@ -24,3 +24,7 @@ A proud, old-guard Harper who believes Harper membership should carry weight and
 ## What the Party Knows vs. What Remains Hidden
 - **Knows:** Kolbaz is dead; his research exposed Adimond Kroskas as using an alias; the damage is anomalous and violent.
 - **Hidden from party (at time of discovery):** Gauche knew other individuals came through the teleportation circle around the time of death and deliberately withheld this.
+
+## Related
+
+- [[kolbaz]]

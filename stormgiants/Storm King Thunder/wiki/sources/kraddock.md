@@ -31,16 +31,16 @@ related: []
 - **Strength of Evidence**: Strong, supported by detailed interactions and explicit statements from the narrative.
 
 ### Connections to Existing Wiki
-- **[[giant-shrines]]**: Relevant, as Kraddock is involved in the restoration of these sacred sites.
-- **[[giant-civilization]]**: Relevant, as his actions reflect the broader political and social dynamics within giant society.
-- **[[all-father-deity]]**: Relevant, as his relationship with this deity is central to his identity and actions.
+- **[[six-giant-statues]]**: Relevant, as Kraddock is involved in the restoration of these sacred sites.
+- **[[giant-conflict]]**: Relevant, as his actions reflect the broader political and social dynamics within giant society.
+- **[[annam-the-oracle-and-annam-the-all-father-of-giants]]**: Relevant, as his relationship with this deity is central to his identity and actions.
 
 ### Contradictions & Tensions
 - **Internal Tension**: Kraddock’s desire to maintain peace and tolerance conflicts with his duty to the All-Father, who may disagree with his methods.
 - **External Conflict**: His political awareness and criticism of the coming war contrast with his role as a caretaker and restorer of shrines.
 
 ### Recommendations
-- **Create or Update Pages**: [[kraddock]], [[storm-giant-shaman]], [[all-father-deity]], [[giant-civilization]], [[giant-shrines]].
+- **Create or Update Pages**: [[kraddock]], [[thane-braxow]], [[annam-the-oracle-and-annam-the-all-father-of-giants]], [[giant-conflict]], [[six-giant-statues]].
 - **Emphasize**: His dual roles as a caretaker and a political actor, his relationship with the All-Father, and his stance on the coming war.
 - **De-emphasize**: Specific details about his wife and the exact nature of her disappearance, unless they significantly impact his character or actions.
 - **Open Question**: Investigate further into the extent of his influence within giant society and the reasons behind his private dissent.

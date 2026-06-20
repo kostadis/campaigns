@@ -4,7 +4,7 @@ title: Reidoth
 created: 2025-05-22
 updated: 2026-05-27
 tags: [emerald-enclave, leadership, nominal-leader, excluded-voice, strategic-exclusion-in-political-forums, emerald-enclave-factions]
-related: ["adabra-gwynn", "emerald-enclave", "vukradin", "strategic-exclusion-in-political-forums", "emerald-enclave-factions", "falcon"]
+related: ["adabra-gwynn", "emerald-enclave", "vukradin", "strategic-exclusion-in-political-forums", "4-npcs--17-falcon_the_hunter--qft71h"]
 sources: ["reidoth.md", "npcs/adabra.md"]
 ---
 # Reidoth
@@ -26,6 +26,10 @@ Reidoth serves as a critical [[political-counterweight]] within the Enclave. His
 Following a council session that turned against the adventuring party, [[vukradin]] utilized a *Sending* spell to contact Reidoth. He has been briefed on:
 - The internal schism within the [[emerald-enclave]].
 - [[adabra-gwynn]]'s political maneuvering.
-- The confession of [[falcon]].
+- The confession of [[4-npcs--17-falcon_the_hunter--qft71h]].
 
 His reaction to this intelligence remains unknown. Whether he will challenge Adabra, remain silent, or reassert his authority is a pivotal unanswered question in the Enclave’s unfolding power struggle.
+
+## Related
+
+- [[reidoth]]

@@ -16,3 +16,7 @@ Her significance lies not in action or dialogue, but in sensory impact: her alar
 She embodies [[sensory-driven-characterization]], where character is conveyed through taste, aroma, and texture rather than exposition. Her existence reinforces [[narrative-economy]]: she is minimal, yet memorable.
 
 No hidden role, magical influence, or connection to interdimensional poisons has been confirmed.
+
+## Related
+
+- [[martisha-vinetalker]]

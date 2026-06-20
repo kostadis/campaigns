@@ -18,3 +18,7 @@ sources: ["zariel.md"]
 
 ## Notes
 - Zariel uses Private Arrangements to subtly influence events without direct confrontation, leveraging her control over Infernal Forces.
+
+## Related
+
+- [[political_protection]]

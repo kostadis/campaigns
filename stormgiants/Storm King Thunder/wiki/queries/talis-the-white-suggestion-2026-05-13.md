@@ -13,3 +13,8 @@ Description of what needs the user's attention.
 
 
 ---
+
+## Related
+
+- [[the-gold-dragons-philosophical-path-2026-05-14]]
+- [[the-wight-elquen-2026-05-14]]

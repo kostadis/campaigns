@@ -4,7 +4,7 @@ title: Adventurer-Clearance Program
 created: 2025-05-22
 updated: 2025-05-22
 tags: [policy, military, economy]
-related: [adventuring-economy, transactional-patronage, lord-neverember]
+related: ["adventuring-economy", "transactional-escort", "lord-neverember"]
 sources: ["lord_neverember.md"]
 ---
 # Adventurer-Clearance Program
@@ -12,7 +12,7 @@ sources: ["lord_neverember.md"]
 The [[adventurer-clearance-program]] is a cost-effective strategic initiative implemented by [[lord-neverember]] to pacify high-risk territories, specifically the [[phandalin]] hinterlands.
 
 ## Mechanics
-The program operates on a model of [[transactional-patronage]]:
+The program operates on a model of [[transactional-escort]]:
 1. **The Mandate:** Adventurers are tasked with clearing specific regions of monsters, cults, and "evildoers."
 2. **The Incentive:** In exchange for service, adventurers are permitted to keep all discovered plunder tax-free.
 3. **The Terms:** The arrangement is characterized by a "no-questions-asked" policy regarding the methods used by the contractors.

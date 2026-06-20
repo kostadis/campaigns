@@ -38,3 +38,8 @@ sources: ["grik.md", "hsing.md"]
 
 ## Arc Score Events
 - N/A — Bad Fruul was not killed in the encounter, so no arc score relationship developed.
+
+## Related
+
+- [[mama-manyknuckles]]
+- [[water-weird]]

@@ -9,7 +9,7 @@ sources: ["bad_fruul.md"]
 ---
 # Symbolic-targeting-of-cultural-artifacts
 
-A strategic tactic in which a physical object of cultural, religious, or historical significance is targeted not for material gain, but to inflict psychological, ideological, or spiritual damage on a community. [[Bad Fruul]]’s intent to seize and destroy the statue of Angharradh in [[Parnast]] exemplifies this concept: the statue represented elven heritage, communal identity, and divine connection — its loss would have been a blow to morale and cultural continuity.
+A strategic tactic in which a physical object of cultural, religious, or historical significance is targeted not for material gain, but to inflict psychological, ideological, or spiritual damage on a community. [[bad-fruul]]’s intent to seize and destroy the statue of Angharradh in [[Parnast]] exemplifies this concept: the statue represented elven heritage, communal identity, and divine connection — its loss would have been a blow to morale and cultural continuity.
 
 This is distinct from simple plundering. The act is performative, meant to signal dominance, erase memory, and demoralize resistance. It mirrors the broader campaign theme of [[divine-silence]] — where the destruction of sacred symbols parallels the withdrawal of divine presence.
 

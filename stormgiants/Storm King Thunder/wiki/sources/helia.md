@@ -67,4 +67,8 @@ related: []
   - Helia's initial intention to distance himself from Halisa seems contradictory to his later acceptance of "freedom."
   - The narrative implies that Helia's feelings towards Halisa are more complex than initially portrayed, suggesting potential internal tensions.
 - **Tensions**:
-  - Helia's pride and 
+  - Helia's pride and
+
+## Related
+
+- [[hekaton]]

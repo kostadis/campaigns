@@ -7,3 +7,7 @@ tags: [tavern_keeper, silverymoon]
 related: []
 sources: ["nyalah_uuseff.md"]
 ---
+
+## Related
+
+- [[aeglossil]]

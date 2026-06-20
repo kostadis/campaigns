@@ -4,7 +4,7 @@ title: The Stag
 created: 2025-05-22
 updated: 2025-05-22
 tags: [creature, informant, whispering-wood]
-related: [soma, whispering-wood, gnomengarde]
+related: ["whispering-wood", "gnomengarde"]
 sources: ["the_stag.md"]
 ---
 # The Stag

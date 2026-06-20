@@ -14,3 +14,7 @@ Relevance: Highlights Cap'n Squint's starstruck nature.
 
 ## Examples
 - Cap'n Squint: Starstruck by notable figures, including Imber Chen.
+
+## Related
+
+- [[fandom]]

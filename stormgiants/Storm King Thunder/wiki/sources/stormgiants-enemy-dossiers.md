@@ -12,3 +12,8 @@ venue: ""
 ---
 # Enemy Dossiers
 Peripheral product used for gathering information about adversaries. Used for central entities like stormgiants.
+
+## Related
+
+- [[stormgiants-npc-notes]]
+- [[stormgiants-forward-planning-documents]]

@@ -4,7 +4,7 @@ title: Redemption-through-acknowledgment
 created: 2026-06-15
 updated: 2026-06-15
 tags: [moral, transformation, trauma, confession, growth]
-related: ["soma", "valphine", "narrative-economy"]
+related: ["valphine", "narrative-economy"]
 sources: ["npcs/corbin.md"]
 ---
 # Redemption-through-acknowledgment
@@ -20,3 +20,7 @@ This mirrors Alphonse "Big Al" Kalazorn’s redemption: both men were broken by 
 Redemption-through-acknowledgment is not a destination. It is a fragile, ongoing process — and the most dangerous thing in this world is a person who is finally trying to be good.
 
 ---
+
+## Related
+
+- [[redemption-through-substantive-gesture-not-apology]]

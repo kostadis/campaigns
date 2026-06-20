@@ -61,3 +61,7 @@ related: []
 ## Contradictions & Tensions
 
 - **Internal Tension**: There might be a tension between the necessity of hou
+
+## Related
+
+- [[slayermighty]]

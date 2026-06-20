@@ -4,7 +4,7 @@ title: Stonetallow Clan
 created: 2025-05-22
 updated: 2026-05-27
 tags: [dwarf, clan, engineering, dwarf-clan, shield-dwarf, engineering-heritage, mining-tradition]
-related: ["horia-stonetallow", "engineering-heritage-as-identity", "mountain-s-toe-gold-mine"]
+related: ["horia-stonetallow", "engineering-heritage-as-identity", "mountain-toe-gold-mine"]
 sources: ["horia_stonetallow.md", "npcs/horia_stonetallow.md"]
 ---
 # Stonetallow Clan
@@ -21,6 +21,6 @@ The clan values discipline, craftsmanship, and contractual fidelity above all. T
 
 The Stonetallow Clan represents a forgotten axis of dwarven identity: one rooted in technical mastery, moral clarity, and the quiet dignity of doing what is right — even when no one is watching. They were displaced from their ancestral mines, forced into marginal roles, and treated as relics — yet they persist, not through rebellion, but through unwavering adherence to their craft.
 
-Their presence in the [[mountain-s-toe-gold-mine]] is not an intrusion — it is a reclamation of dignity. The clan’s survival depends on being allowed to mine correctly, and their current liaison, [[horia-stonetallow]], embodies this ethos: she negotiates not as a warrior or merchant, but as a steward of tradition. Horia’s entire mission is to protect the clan’s right to practice their craft with integrity.
+Their presence in the [[mountain-toe-gold-mine]] is not an intrusion — it is a reclamation of dignity. The clan’s survival depends on being allowed to mine correctly, and their current liaison, [[horia-stonetallow]], embodies this ethos: she negotiates not as a warrior or merchant, but as a steward of tradition. Horia’s entire mission is to protect the clan’s right to practice their craft with integrity.
 
 Their legacy is one of quiet resilience — a testament to the enduring power of craftsmanship over conquest.

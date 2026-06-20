@@ -11,3 +11,7 @@ sources: ["fruf.md"]
 - **Description:** Setting for the encounter between Fruf and Thistle.
 - **Role:** Contextual backdrop for the interaction, highlighting Fruf's helpful nature.
 - **Significance:** Provides the opportunity for Fruf to offer a substitute item, indirectly influencing Orsik.
+
+## Related
+
+- [[helpfulness]]

@@ -1,8 +1,8 @@
 ---
 type: source
 title: "Source: darz_helgar.md"
-created: 2026-05-13
-updated: 2026-05-13
+created: 2026-06-05
+updated: 2026-06-05
 sources: ["darz_helgar.md"]
 tags: []
 related: []
@@ -10,41 +10,40 @@ related: []
 
 # Source: darz_helgar.md
 
-### Key Entities
-- **Darz Helgar** (Merchant/Caretaker): Central figure, former member of the Coffin Nail thieves guild, now Zhentarim affiliate.
-- **Kaelen Sarssir** (Troll Tavern Owner): Peripheral antagonist, blackmails Darz into committing the theft.
-- **Orsik** (Party Member): Peripheral, primary contact with Darz, facilitated the deal.
-- **Coffin Nail (Waterdeep)**: Peripheral, former thieves guild, no current status known.
-- **Manshoon** (Zhentarim Leader): Peripheral, mentioned as a Zhentarim faction leader in Waterdeep, claimed by Darz to be alive.
+## Key Entities
 
-### Key Concepts
-- **Zhentarim Split:** Central concept, indicating the existence of multiple factions within the Zhentarim organization.
-- **Criminal Past:** Phenomenon of Darz's past criminal activities, including blackmail and theft.
+| Name | Type | Role | Status |
+| :--- | :--- | :--- | :--- |
+| **Darz Helgar** | Person | Central; a weary former thief and current Zhentarim member. | New Entity |
+| **Kaelen Sarssir** | Person | Central (Antagonist); the figure who blackmailed Darz into crime. | Exists in Wiki |
+| **Orsik** | Person | Central; the party member who negotiated with Darz and shared a Zhentarim signal. | Not in Index (Potential New Entity) |
+| **Zhentarim** | Organization | Central; the "Black Network" to which Darz belongs. | Exists in Wiki |
+| **Coffin Nail** | Organization | Peripheral; a Waterdeep thieves' guild where Darz was formerly a member. | New Entity |
+| **Manshoon** | Person | Peripheral; leader of one Zhentarim faction in Waterdeep; confirmed alive by Darz. | New Entity |
+| **Triboar** | Location | Peripheral; the location of the northern campgrounds where Darz resides. | New Entity |
+| **Skullport** | Location | Peripheral; a destination suggested for finding traces of the Coffin Nail. | New Entity |
 
-### Main Arguments & Findings
-- **Darz's Criminal Past:** Darz admits to stealing gold and bags from the Lionshield Coster, explaining that he was blackmailed into it by Kaelen Sarssir.
-- **Zhentarim Connection:** Darz agrees to provide his contacts with the Thieves Guild in exchange for the party keeping his criminal past secret.
-- **Coffin Nail:** Darz reveals he was formerly a member of the Coffin Nail thieves guild but lost contact after his arrest ten years ago.
-- **Zhentarim Factions:** Darz mentions the existence of two factions within the Zhentarim organization, one led by Manshoon.
+## Key Concepts
 
-### Connections to Existing Wiki
-- **[[zhentarim]]**: This source provides information about the Zhentarim split, which can be linked to the existing page.
-- **[[coffin-nail]]**: Darz's mention of the Coffin Nail suggests a connection to the existing page, though it is unclear if the guild is still active.
+| Name | Definition | Significance | Status |
+| :--- | :--- | :--- | :--- |
+| **Zhentarim Recognition** | A specific hand signal/gesture shared between members of the Black Network. | Establishes a "moment of mutual trust" and signals Darz's active status in the organization. | New Concept (or update to Zhentarim) |
+| **Blackmail-Induced Crime** | Criminal acts committed under threat of exposure by a third party (Kaelen). | Explains Darz’s cooperation; he is not a willing villain but a victim of Kaelen's leverage. | New Concept |
+| **Factional Split** | The division of the Zhentarim in Waterdeep into two distinct factions. | Provides specific intelligence on the internal politics of the Black Network. | Update to Zhentarim |
+| **Narrative Economy (Darz)** | A character who "folds" immediately due to exhaustion/resignation. | Demonstrates a pragmatic, weary archetype rather than a high-drama antagonist. | Existing Concept |
 
-### Contradictions & Tensions
-- **Manshoon's Claim:** Darz claims Manshoon is alive, despite stories suggesting his clones were destroyed. This contradicts existing lore about Manshoon.
+## Main Arguments & Findings
+*   **Darz as a "Tired" Asset:** Darz is not a primary threat but a valuable intelligence source whose cooperation is driven by exhaustion and a desire for revenge against Kaelen Sarssir.
+*   **Zhentarim Complexity:** The confirmation that Manshoon is alive and the existence of a split in Waterdeep suggests a more complex, fractured political landscape for the Zhentarim than previously known.
+*   **The Coffin Nail's Decay:** While Darz provides a lead (Skullport), his uncertainty about the guild's survival after ten years creates a "timed" mystery for the party.
 
-### Recommendations
-- **Create or Update Pages:**
-  - [[zhentarim]]
-  - [[coffin-nail]]
-- **Emphasize:**
-  - The existence of multiple Zhentarim factions.
-  - Darz's criminal past and his motivations.
-- **De-emphasize:**
-  - Internal contradictions regarding Manshoon's survival.
-- **Open Questions:**
-  - Confirm the status of the Coffin Nail.
-  - Investigate the details of Manshoon's claim.
-  
-This analysis highlights key elements from the source document and their relevance to the wiki, identifying areas where new content should be created or existing content should be updated.
+## Connections to Existing Wiki
+*   **[[kaelen-sarssir]]**: Strengthens this entry by establishing him as an active antagonist who uses blackmail and coercion.
+*   **[[zhentarim]]**: Extends knowledge regarding their internal structure (the split in Waterdeep) and the status of Manshoon.
+*   **[[lionshield-coster]]**: Connects to the theft of goods from this location, linking Darz's past actions to current party
+
+## Related
+
+- [[darz]]
+- [[darz-former-thief-darz-merchant-specialist-from-mi-2026-05-13]]
+- [[tholzar_brenner]]

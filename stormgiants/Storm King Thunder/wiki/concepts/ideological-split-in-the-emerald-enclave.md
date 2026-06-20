@@ -4,7 +4,7 @@ title: Ideological split in the Emerald Enclave
 created: 2026-06-15
 updated: 2026-06-15
 tags: [schism, druidic-philosophy, historical-catalyst, factionalism]
-related: [delaan-winterhound, malfire, lyra, adabra-gwynn, anti-interventionism-druidic, weaponization-of-personal-debt]
+related: ["delaan-winterhound", "malfire", "lyra", "adabra-gwynn", "emerald-enclave", "weaponization-of-personal-debt"]
 sources: ["npcs/delaan_winterhound.md"]
 ---
 # Ideological split in the Emerald Enclave

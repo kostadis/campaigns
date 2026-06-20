@@ -9,3 +9,10 @@ sources: ["klauth.md"]
 ---
 # Giant Reward System
 A system established by Klauth to incentivize the elimination of giant leaders. This system involves offering rewards to those who fulfill his requests.
+
+## Related
+
+- [[giant-war]]
+- [[giant-reward-withheld]]
+- [[reward-system]]
+- [[giant-reward]]

@@ -48,7 +48,7 @@ related: []
 - **Research Extent**: The limited interaction with BigEyes suggests potential gaps in the party's understanding of Krakens.
 
 ## Recommendations
-- **Create Page**: [[professor-bigeyes]]
+- **Create Page**: [[prof_bigeyes]]
 - **Emphasize**: Quotes from Unla Kee and the fatalistic view of Krakens.
 - **De-emphasize**: Specific details about BigEyes' current status or ongoing research.
 - **Open Question**: Investigate further interactions with BigEyes to understand their full perspective on Krakens.

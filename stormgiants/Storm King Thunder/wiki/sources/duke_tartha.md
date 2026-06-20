@@ -1,8 +1,8 @@
 ---
 type: source
 title: "Source: duke_tartha.md"
-created: 2026-05-13
-updated: 2026-05-13
+created: 2026-06-06
+updated: 2026-06-06
 sources: ["duke_tartha.md"]
 tags: []
 related: []
@@ -10,38 +10,44 @@ related: []
 
 # Source: duke_tartha.md
 
-### Key Entities
-- **Duke Tartha**: Duke of Fire Giants, central figure, deceased, role as a Fire Giant, no existing wiki entry.
-- **Orsik**: NPC, peripheral, took items from Duke Tartha's corpse, no existing wiki entry.
-- **Teleportation Conch**: Peripheral, no existing wiki entry.
-- **Necklace of Gilded Dragon's Teeth**: Peripheral, no existing wiki entry.
-- **Storeroom**: Peripheral, no existing wiki entry.
+## Key Entities
+*   **Duke Tartha** (Person/Entity)
+    *   **Type:** Fire Giant.
+    *   **Role:** Peripheral (deceased upon discovery). He serves as a "loot container" and a narrative hook regarding the items he carried.
+    *   **Wiki Status:** New entry required.
+*   **Orsik** (Person)
+    *   **Role:** Party member/companion.
+    *   **Status:** Exists in context of party actions; however, his specific profile is not in the current index. He is the one who looted the items from Tartha.
+*   **Necklace of Gilded Dragon's Teeth** (Item)
+    *   **Role:** Looted item.
+    *   **Status:** New entry recommended to track its potential magical properties or lore significance.
+*   **Teleportation Conch** (Item/Artifact)
+    *   **Role:** Looted item; potentially linked to the "Maelstrom" or other planar travel mechanics.
+    *   **Status:** New entry recommended.
 
-### Key Concepts
-- **Fire Giants**: Phenomenon, no existing wiki entry.
-- **Death**: Event, no existing wiki entry.
-- **Magic Items**: Phenomenon, no existing wiki entry.
-- **NPC (Non-Player Character)**: Concept, no existing wiki entry.
+## Key Concepts
+*   **Posthumous Discovery**
+    *   **Definition:** Encountering an NPC only as a corpse, providing information through physical remains rather than interaction.
+    *   **Significance:** Establishes the "mystery" of Duke Tartha's death and his former status.
+*   **Loot-Driven Narrative**
+    *   **Definition:** Using items found on a body to provide clues about the deceased's identity or the world's dangers.
+    *   **Significance:** The *Teleportation Conch* specifically may link to existing concepts like [[planar-travel]].
 
-### Main Arguments & Findings
-- **Core Claims**: Duke Tartha was a Fire Giant who died and was discovered by the party. The party looted his corpse, taking a necklace and a teleportation conch.
-- **Evidence**: The source mentions the party finding Duke Tartha's corpse, looting it, and dragging it to a storeroom.
-- **Strength of Evidence**: Strong, as the details are explicitly stated in the source.
+## Main Arguments & Findings
+*   **Status of Duke Tartha:** The entity is confirmed dead and possesses no active agency in the current narrative. He serves as a static point of interest regarding his status as a "Duke" (implying high rank within the Fire Giant hierarchy).
+*   **Evidence of Importance:** The presence of a **Teleportation Conch** suggests that Tartha was involved in, or had access to, significant magical infrastructure or travel methods.
+*   **Strength of Evidence:** High regarding his physical state (dead); Low regarding his history/allegiances (unknown).
 
-### Connections to Existing Wiki
-- **Existing Pages**: No direct connections; the source introduces new concepts and entities.
-- **Knowledge Strengthened/Challenged/Extended**: The source extends knowledge about Fire Giants and their possible magic items, but does not challenge or strengthen existing knowledge significantly.
+## Connections to Existing Wiki
+*   **[[planar-travel]]**: The *Teleportation Conch* likely connects to this concept.
+*   **[[divine-patrilineage-giants]]**: As a "Duke" and a Fire Giant, Tartha is part of the broader giant hierarchy impacted by the **Ordning Shattering**.
+*   **[[the-maelstroms-geography-2026-06-06-132904]]**: If the Conch is related to the Maelstrom (as suggested by the presence of King Hekaton in the index), this is a critical link.
 
-### Contradictions & Tensions
-- **No contradictions**: The information provided aligns with the narrative without conflicting with existing wiki entries.
-- **Internal Tensions/Caveats**: No significant internal tensions or caveats present.
+## Contradictions & Tensions
+*   **Status vs. Significance:** While the NPC has no "personality" or "motivation," his title ("Duke") and the high-value items he carried suggest he was a significant figure before death. The tension lies between his current role as a "loot bag" and the potential for his past to become relevant later.
 
-### Recommendations
-- **Pages to Create/Update**: 
-  - [[fire-giants]]
-  - [[magic-items]]
-- **Emphasis/De-emphasis**: Emphasize the discovery and looting of Duke Tartha's corpse, and the significance of the items found.
-- **Open Questions**: The circumstances of Duke Tartha's death and his allegiances remain unknown, which could be flagged for further investigation.
-
-### Wiki Purpose (for context)
-The purpose of this wiki is to provide comprehensive information about characters, events, and phenomena relevant to the game world, ensuring consistency and depth in the narrative.
+## Recommendations
+*   **Create New Pages:**
+    *   `[[duke_tartha]]`: To house the basic facts of his discovery.
+    *   `[[dragon-slayer-sword]]`: To track its properties.
+    *   `[[teleportation-conch

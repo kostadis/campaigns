@@ -9,3 +9,7 @@ related: []
 # Psychic Possession.md, Ritual Circle.md
 
 Description of what needs the user's attention.
+
+## Related
+
+- [[valphines-ritual-nature-2026-05-19]]

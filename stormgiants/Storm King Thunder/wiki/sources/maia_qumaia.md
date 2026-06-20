@@ -33,14 +33,14 @@ related: []
 - **Strength of Evidence:** Strong, based on multiple instances of her actions and interactions documented.
 
 ### Connections to Existing Wiki
-- **Existing Pages:** [[wink-and-kiss-tavern]], [[eltio]], [[yartar]], [[bounty-hunting]], [[social-connectors]], [[reputation]]
+- **Existing Pages:** [[wink-and-kiss-tavern]], [[eltio]], [[yartar]], [[dashing_dallon_flek]], [[social-connectors]], [[reputation]]
 - **Impact:** This source provides new insights into Maia’s role and relationships, potentially strengthening the understanding of her character and her place within the narrative universe.
 
 ### Contradictions & Tensions
 - **Internal Tension:** Maia’s attempts to connect the party with Eltio have resulted in her being reprimanded, indicating a potential conflict between her goals and Eltio’s expectations.
 
 ### Recommendations
-- **Create or Update:** [[maia-qumaia]], [[wink-and-kiss-tavern]], [[eltio]], [[yartar]], [[bounty-hunting]], [[social-connectors]], [[reputation]]
+- **Create or Update:** [[maia_qumaia]], [[wink-and-kiss-tavern]], [[eltio]], [[yartar]], [[dashing_dallon_flek]], [[social-connectors]], [[reputation]]
 - **Emphasize:** Maia’s role as a social connector and her interactions with the party.
 - **De-emphasize:** Specific details about her personal background or motivations unless they significantly impact her role.
 - **Open Questions:** Further exploration into Maia’s relationship with Eltio and her other connections could provide deeper insights.

@@ -4,7 +4,7 @@ title: Superstition-as-Operational-Hindrance
 created: 2026-06-15
 updated: 2026-06-15
 tags: [superstition, workflow, cultural-barrier, pragmatic-solution]
-related: [horia-stonetallow, dwolin-the-grout, pragmatic-integrity, mountain-s-toe-gold-mine, earthstone-gem]
+related: ["horia-stonetallow", "dwolin-the-grout", "pragmatic-integrity", "mountain-toe-gold-mine", "earthstone-gem"]
 sources: ["npcs/horia_stonetallow.md"]
 ---
 # Superstition-as-Operational-Hindrance

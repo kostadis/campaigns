@@ -1,8 +1,8 @@
 ---
 type: source
 title: "Source: cisco.md"
-created: 2026-05-13
-updated: 2026-05-13
+created: 2026-06-05
+updated: 2026-06-05
 sources: ["cisco.md"]
 tags: []
 related: []
@@ -11,27 +11,42 @@ related: []
 # Source: cisco.md
 
 ## Key Entities
-- **Cisco**: Servant, central figure, no existing wiki entry
-- **Eden Gleeson**: Employer, central figure, no existing wiki entry
-- **Vardis**: Peripheral, no existing wiki entry
+
+*   **Cisco** (Person)
+    *   **Role:** Manservant to Eden Gleeson.
+    *   **Status:** Central to this specific entry; a supporting character providing flavor and narrative friction for the employer's arc.
+    *   **Wiki Status:** New entity.
+*   **Eden Gleeson** (Person)
+    *   **Role:** Employer of Cisco; traveling toward Llorkh for a wedding.
+    *   **Status:** Central to this entry (as the primary).
+    *   **Wiki Status:** New entity.
+*   **Vardis** (Person)
+    *   **Role:** Merchant/Trader encountered on the road.
+    *   **Status:** Peripheral; serves as a catalyst for Cisco's intervention.
+    *   **Wiki Status:** **Exists.** (Listed in "Current Wiki Index" as a peripheral figure present during the "chest event").
 
 ## Key Concepts
-- **Financial Management**: Core theme, no existing wiki entry
-- **Reckless Decisions**: Phenomenon, no existing wiki entry
+
+*   **Servant-Master Dynamics (Protective):** A relationship where the subordinate acts as a pragmatic buffer against the master's impulsivity.
+    *   **Significance:** Establishes Cisco not just as a servant, but as a manager of resources and reputation.
+    *   **Wiki Status:** New concept (or could be linked to existing "contractual-morality" if framed as professional duty).
+*   **Narrative Economy (Functional NPC):** Using a character like Cisco to provide immediate conflict/consequence for an action (the silver nose ring) without requiring a deep backstory.
+    *   **Significance:** Demonstrates the use of "reactive" NPCs to ground the world's economy.
+    *   **Wiki Status:** Related to existing [[background-npc]] and [[narrative-economy]].
 
 ## Main Arguments & Findings
-- **Core Claims**: Cisco manages Eden Gleeson's financial affairs, often rebuking him for imprudent spending.
-- **Evidence**: Cisco's actions during the silver nose ring incident demonstrate his role in financial oversight.
-- **Strength of Evidence**: Direct observation and description provide strong support for these claims.
+*   **Cisco as a "Buffer" Character:** The text establishes Cisco as a foil to Eden Gleeson. His role is to provide immediate consequences for impulsive actions (the dessert budget).
+*   **Evidence of Loyalty:** His willingness to publicly rebuke his employer suggests a high level of trust and a specific mandate to manage the household's practical survival over social niceties.
+*   **Strength of Evidence:** High; the character's role is clearly defined by his interaction with the party regarding the "silver nose ring" incident.
 
 ## Connections to Existing Wiki
-- **Existing Pages**: No direct connections identified.
-- **Knowledge Extension**: This source could enrich the understanding of financial management practices within the narrative world.
+*   **[[vardis]]**: This source provides a specific interaction point for Vardis, confirming his presence during the transaction involving the silver nose ring.
+*   **[[narrative-economy]]**: Cisco serves as an example of a character whose primary function is to provide immediate narrative friction and world-building regarding local commerce/budgeting.
 
 ## Contradictions & Tensions
-- **Internal Tension**: Cisco's role as a servant yet his authority over Eden's financial decisions might create tension if not well-established in the narrative.
+*   No direct contradictions with existing wiki content were identified. 
+*   **Internal Note:** While the "silver nose ring" isn't detailed in the current index, it provides a specific material anchor for the transaction between the party and Vardis.
 
 ## Recommendations
-- **Create Page**: Create a page titled "Cisco" to detail his role, history, and interactions.
-- **Emphasize**: Highlight his role in financial management and his relationship with Eden Gleeson.
-- **Open Question**: Investigate further how his authority impacts Eden's behavior and the broader narrative dynamics.
+*   **Create New Page:** `[[Cisco]]` - Document his role as a protective manservant and his function as a buffer for Eden Gleeson.
+*   **Create New Page:** `[[Orsik]]` - Document him as the employer of Cisco; 

@@ -14,3 +14,7 @@ Orrin is one of two missing gnome inventors from Gnomengarde, alongside Warren. 
 No personal details, role, or fate are known. Like Warren, Orrin functions as a narrative placeholder — a missing variable that amplifies the sense of institutional unease without demanding resolution. His absence reinforces the theme of [[information-asymmetry-npc-encounters]]: the party is invited to investigate a mystery that may not be real, or may be far more complex than described.
 
 Orrin’s existence is defined by omission — a quiet echo of the silence surrounding King Korboz and the unresolved tensions within Gnomengarde.
+
+## Related
+
+- [[warren]]

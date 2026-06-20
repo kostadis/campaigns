@@ -18,5 +18,8 @@ Blagothkus is one of the Fire Giant lords, often mocking Zalto's ambitions. His 
 Blagothkus was devastated by the oracle's declaration that he could never earn the gods' favor and was further enraged when the oracle urged his son to step out from Blagothkus's "dark shadow." Overcome with despair and envy, Blagothkus slew his son on the spot.
 
 ## Related Pages
-- [[dungeon-ironslag]]
+- [[escarlotta]]
+- [[storm-giants]]
+- [[blagothkus]]
+- [[ironslag]]
 - [[ghost_cloud_giant]]

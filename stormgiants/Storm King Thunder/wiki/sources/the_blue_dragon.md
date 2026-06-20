@@ -57,8 +57,8 @@ related: []
 
 ### Connections to Existing Wiki
 - **[[tiamat]]**: Links the dragon's allegiance to Tiamat.
-- **[[combat-strategies]]**: Illustrates the dragon's tactical approach.
-- **[[creatures]]**: Provides details about the dragon's role and actions.
+- **[[unseelie-combat-strategy-social-manipulation]]**: Illustrates the dragon's tactical approach.
+- **[[elrem]]**: Provides details about the dragon's role and actions.
 
 ### Contradictions & Tensions
 - **Internal Tension:**
@@ -67,11 +67,15 @@ related: []
 
 ### Recommendations
 - **Create Pages:**
-  - [[the-blue-dragon]]: Comprehensive page detailing the dragon's identity, history, and relationships.
-  - [[tiamat-devotee]]: Page explaining the concept of Tiamat's devotees.
+  - [[the_blue_dragon]]: Comprehensive page detailing the dragon's identity, history, and relationships.
+  - [[tiamat]]: Page explaining the concept of Tiamat's devotees.
 - **Emphasize:**
   - The dragon's tactical approach and its allegiance to Tiamat.
   - Internal contradictions and complexities in the dragon's character.
 - **Open Questions:**
   - Further explore the dragon's background and motivations beyond the immediate encounter.
   - Investigate why the dragon chose to negotiate and then fight.
+
+## Related
+
+- [[the_gold_dragon]]

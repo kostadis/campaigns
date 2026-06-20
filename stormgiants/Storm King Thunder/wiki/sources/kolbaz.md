@@ -42,10 +42,14 @@ related: []
 - **Existing Pages:**
   - [[harper]] — The Harpers, a faction dedicated to protecting the realm from supernatural threats.
   - [[cult-of-the-dragon]] — The Cult of the Dragon, an ancient cult believed to be responsible for the destruction of the Well of Dragons.
-  - [[seelie-court]] — The fairies' court, known for its aesthetic and cultural practices.
+  - [[fey-court-structure]] — The fairies' court, known for its aesthetic and cultural practices.
   - [[teleportation-circle]] — A magical device used for teleportation.
   - [[blue-dragon]] — A mythical dragon capable of causing significant damage.
 - **Impact:**
   - This source extends the understanding of the Harper faction and the dangers they face.
   - It challenges the existing narrative regarding the Cult of the Dragon and provides new insights into the nature of the threat.
   - The Blue Dragon concept adds to the lore of mythical creatures in
+
+## Related
+
+- [[szass_tam]]

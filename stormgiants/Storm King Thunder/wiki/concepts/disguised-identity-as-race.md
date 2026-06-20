@@ -9,9 +9,9 @@ sources: ["bad_fruul.md"]
 ---
 # Disguised-identity-as-race
 
-A tactical deception in which an individual assumes the physical appearance and cultural stereotype of a different race to exploit assumptions about their capabilities, intentions, or weaknesses. [[Bad Fruul]]’s use of a hill giant disguise is the primary example: he leveraged the widespread belief that hill giants are mindless brutes to lower enemy vigilance, gain access to resources, and command forces that would otherwise reject a drow.
+A tactical deception in which an individual assumes the physical appearance and cultural stereotype of a different race to exploit assumptions about their capabilities, intentions, or weaknesses. [[bad-fruul]]’s use of a hill giant disguise is the primary example: he leveraged the widespread belief that hill giants are mindless brutes to lower enemy vigilance, gain access to resources, and command forces that would otherwise reject a drow.
 
-This strategy succeeded initially — his intelligence was underestimated, his tactics dismissed as brute force, and his movements misinterpreted. Only [[Thistle Wendrod]]’s trained observation pierced the disguise.
+This strategy succeeded initially — his intelligence was underestimated, his tactics dismissed as brute force, and his movements misinterpreted. Only [[thistle-wendrod]]’s trained observation pierced the disguise.
 
 This concept extends [[disguised-influence]] beyond false titles (e.g., “Geoff Mamet”) to racial identity itself, revealing how deeply ingrained biases can be weaponized. It also highlights a systemic vulnerability in the campaign world: the failure to look beyond surface appearances, even among experienced adventurers.
 

@@ -11,3 +11,14 @@ sources: ["harthos_zymorven.md"]
 - **Description:** The creation of deceptive magical effects.
 - **Influence:** Harthos's execution by decapitation is designed to prevent magical resurrection.
 - **Associated Characters:** Harthos Zymorven
+
+## Related
+
+- [[murder]]
+- [[magic-immortality]]
+- [[magic-telepathy]]
+- [[magic-teleportation]]
+- [[magic-telekinesis]]
+- [[magic-resurrection]]
+- [[magic-transmutation]]
+- [[magic-revival]]

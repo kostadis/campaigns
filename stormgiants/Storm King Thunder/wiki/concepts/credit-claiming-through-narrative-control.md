@@ -16,3 +16,7 @@ Harbin Wester is its canonical example. After the party defeats Cryovain, he pos
 He does not lie — he omits. He does not steal — he recontextualizes. He uses festivals, speeches, and public acknowledgments to bind his name to victories before independent narratives can form. Valphine recognizes this as a “calculated political maneuver.” This is [[narrative-economy]] weaponized: the deliberate omission of context to reshape meaning.
 
 It mirrors [[disguised-influence]] — but at a societal scale. Where Azam hides behind Hsing, Harbin hides behind the crowd. His power lies not in control of force, but in control of memory. In a world where gods are silent, the one who controls the story controls the legacy.
+
+## Related
+
+- [[narrative-control]]

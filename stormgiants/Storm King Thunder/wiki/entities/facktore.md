@@ -2,9 +2,9 @@
 type: entity
 title: Facktore
 created: 2025-05-22
-updated: 2026-05-27
-tags: [gnome, inventor, antagonist, rogue]
-related: [gnomengarde, vukradin, rotating-crossbow-platform, live-testing, unregulated-invention, innocent-as-test-subject, fleeing-inventor-archetype, ambush-as-experiment]
+updated: 2026-06-08
+tags: [gnome, inventor, antagonist, rogue, latent-threat, unregulated-invention, fleeing-inventor-archetype, ambush-as-experiment, innocent-as-test-subject]
+related: ["gnomengarde", "vukradin", "rotating-crossbow-platform", "live-testing", "unregulated-invention", "innocent-as-test-subject", "fleeing-inventor-archetype", "ambush-as-experiment"]
 sources: ["facktore.md", "npcs/facktore.md"]
 ---
 # Facktore
@@ -17,9 +17,13 @@ When his device was disabled, Facktore fled the chamber rather than face account
 
 He is not a traditional villain — he is a symptom. His existence reveals Gnomengarde’s systemic failure to monitor its own outliers, exposing the fragility of institutions that prioritize innovation over responsibility. His backstory is intentionally absent; his narrative function is behavioral, not biographical.
 
+Facktore is a newly created NPC entity with significant narrative weight as a latent threat in Gnomengarde. His disappearance creates unresolved tension that demands tracking. Whether he has additional inventions, hidden allies, or plans for retaliation is unknown — but his pattern suggests he is still at large, and his next experiment may be worse.
+
 ## Current Status
 * **Last Known Location:** Within Gnomengarde, fled from his chamber after the ambush.
 * **Status:** Active, unaccounted for.
 * **Party Perception:** Hostile, unpredictable, dangerous.
 
-Facktore’s potential for further harm remains latent. Whether he has additional inventions, hidden allies, or plans for retaliation is unknown — but his pattern suggests he is still at large, and his next experiment may be worse.
+## Related
+
+- [[fibblestib]]

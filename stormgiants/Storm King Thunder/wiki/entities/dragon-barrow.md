@@ -16,3 +16,9 @@ Lady Alagondar was interred in a chamber within the barrow, her body laid to res
 Her ghost manifested only after the sword was secured by the party, staring with hollow, mournful eyes toward the Ice Spire Mountains before fading without speech — a definitive example of [[ghost-as-unresolved-purpose]]. Her presence confirms that the barrow is not merely a tomb, but a nexus of unresolved purpose.
 
 Boney, her undead steed, guarded the sword for years, his loyalty a living monument to her memory. The barrow thus serves as both a grave and a shrine — a silent testament to a noble whose quest was never completed, but whose impact endures.
+
+## Related
+
+- [[lady-alagondar]]
+- [[dragonbarrow]]
+- [[dragon-slayer-sword]]

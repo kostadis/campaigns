@@ -9,3 +9,8 @@ sources: ["klauth.md"]
 ---
 # Hidden Valet
 Klauth's secret location where he offers rewards to those who fulfill his requests. The exact location is unknown to the party.
+
+## Related
+
+- [[magic-good-trade]]
+- [[reward-system]]

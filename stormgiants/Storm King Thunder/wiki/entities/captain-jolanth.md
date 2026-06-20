@@ -83,7 +83,11 @@ This wiki covers the character of Captain Jolanth, a garrison captain stationed 
 - [[captain-jolanth]]
 - [[iron-circle]]
 - [[llorkh]]
-- [[authority-and-proclamation]]
+- [[the-presiding-druid]]
 - [[flustered-response]]
 - [[why-is-jolanth-easily-outmaneuvered-socially]]
-- [[comparison/captain-jolanth-with-other-characters]]
+- [[captain-jolanth]]
+
+## Related
+
+- [[jarl-storvald]]

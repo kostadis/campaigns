@@ -29,7 +29,7 @@ related: []
 
 ### Connections to Existing Wiki
 - **[[jarlor]]**: This entry directly relates to Jarlor's identity, history, and current status.
-- **[[chief-kurglow]]**: Links Jarlor's situation to the orc clan's actions.
+- **[[chief_kurglow]]**: Links Jarlor's situation to the orc clan's actions.
 - **[[spy-channel]]**: Provides context for Jarlor's covert communications.
 
 ### Contradictions & Tensions
@@ -39,9 +39,18 @@ related: []
 ### Recommendations
 - **Create or Update Pages**: 
   - [[jarlor]]: Ensure all details are accurate and comprehensive.
-  - [[chief-kurglow]]: Include information on Jarlor's involvement and the family rescue.
+  - [[chief_kurglow]]: Include information on Jarlor's involvement and the family rescue.
   - [[spy-channel]]: Add details on its usage and Jarlor's role.
   
 - **Emphasize**: Jarlor's passive nature and his reluctant role as a spy.
 - **De-emphasize**: Internal contradictions and unresolved tensions.
 - **Open Question**: Investigate Jarlor's long-term relationships with the orc clan and his family post-rescue.
+
+## Related
+
+- [[narth_tezerin]]
+- [[nestra_ruthiol]]
+- [[jevin]]
+- [[maia_qumaia]]
+- [[larrish]]
+- [[mirran]]

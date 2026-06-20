@@ -9,3 +9,7 @@ related: []
 # Adabra's Next Move
 
 Adabra’s departure from the council and Vukradin’s repayment of the debt leave her arc open-ended. Her next actions are critical to the campaign’s direction.
+
+## Related
+
+- [[vinby-hearthgood-next-move-suggestion-2026-05-14]]

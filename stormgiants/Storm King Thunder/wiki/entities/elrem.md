@@ -30,7 +30,7 @@ The Great Worm — a legendary creature and object of worship for the Great Worm
 - The nature of Elrem and the snowbank creature is unclear, creating tension regarding their true identities and the implications of their existence.
 
 ## Recommendations
-- Create or update pages: [[elrem]], [[great-worm-tribe]], [[snowbank-creature]]
+- Create or update pages: [[elrem]], [[the_shaman_great_worm_tribe]], [[investigate-snowbank-creature-identity-2026-06-06-015550]]
 - Emphasize: The role of Elrem in the Great Worm tribe's mythology and the significance of sacrifices to appease it.
 - De-emphasize: The speculative nature of the snowbank creature's identity until more concrete evidence is available.
 - Open questions: Further exploration into the exact nature of Elrem, the purpose of the sacrifices, and the connection between Elrem and the snowbank creature.
@@ -110,7 +110,7 @@ The Great Worm Tribe is a faction revered and feared by the Great Worm tribe, co
 - The nature of Elrem and the snowbank creature is unclear, creating tension regarding their true identities and the implications of their existence.
 
 ## Recommendations
-- Create or update pages: [[great-worm-tribe]], [[snowbank-creature]]
+- Create or update pages: [[the_shaman_great_worm_tribe]], [[investigate-snowbank-creature-identity-2026-06-06-015550]]
 - Emphasize: The role of the Great Worm Tribe in the worship of Uthgar and Elrem and the significance of sacrifices to prevent mythical creatures from returning.
 - De-emphasize: The speculative nature of the snowbank creature's identity until more concrete evidence is available.
 - Open questions: Further exploration into the exact nature of Elrem, the purpose of the sacrifices, and the connection between Elrem and the snowbank creature.
@@ -147,7 +147,7 @@ The Snowbank Creature is an unidentified creature that emerged from a snowbank, 
 - The nature of the Snowbank Creature and its relationship to Elrem is unclear, creating tension regarding their true identities and the implications of their existence.
 
 ## Recommendations
-- Create or update pages: [[elrem]], [[snowbank-creature]]
+- Create or update pages: [[elrem]], [[investigate-snowbank-creature-identity-2026-06-06-015550]]
 - Emphasize: The potential connection between Elrem and the Snowbank Creature.
 - De-emphasize: The speculative nature of the Snowbank Creature's identity until more concrete evidence is available.
 - Open questions: Further exploration into the exact nature of the Snowbank Creature and its relationship to Elrem.
@@ -177,14 +177,14 @@ The party has observed an unidentified creature emerging from a snowbank, which 
 - Indirect and speculative, as no direct interaction with Elrem has occurred. The party's observations of the Snowbank Creature are preliminary and require further investigation.
 
 ## Connections to Existing Wiki
-- Links to the pages [[elrem]], [[snowbank-creature]], and [[great-worm-tribe]].
+- Links to the pages [[elrem]], [[investigate-snowbank-creature-identity-2026-06-06-015550]], and [[the_shaman_great_worm_tribe]].
 - Tracks the open question of whether Elrem and the Snowbank Creature are the same entity or distinct.
 
 ## Contradictions & Tensions
 - The nature of Elrem and the Snowbank Creature is unclear, creating tension regarding their true identities and the implications of their existence.
 
 ## Recommendations
-- Create or update pages: [[elrem]], [[snowbank-creature]], [[great-worm-tribe]]
+- Create or update pages: [[elrem]], [[investigate-snowbank-creature-identity-2026-06-06-015550]], [[the_shaman_great_worm_tribe]]
 - Emphasize: The potential connection between Elrem and the Snowbank Creature.
 - De-emphasize: The speculative nature of the Snowbank Creature's identity until more concrete evidence is available.
 - Open questions: Further exploration into the exact nature of the Snowbank Creature and its relationship to Elrem.
@@ -214,14 +214,14 @@ The party has observed an unidentified creature emerging from a snowbank, which 
 - Indirect and speculative, as no direct interaction with Elrem has occurred. The party's observations of the Snowbank Creature are preliminary and require further investigation.
 
 ## Connections to Existing Wiki
-- Links to the pages [[elrem]], [[snowbank-creature]], and [[great-worm-tribe]].
+- Links to the pages [[elrem]], [[investigate-snowbank-creature-identity-2026-06-06-015550]], and [[the_shaman_great_worm_tribe]].
 - Tracks the open question of the role of the Snowbank Creature.
 
 ## Contradictions & Tensions
 - The nature of Elrem and the Snowbank Creature is unclear, creating tension regarding their true identities and the implications of their existence.
 
 ## Recommendations
-- Create or update pages: [[elrem]], [[snowbank-creature]], [[great-worm-tribe]]
+- Create or update pages: [[elrem]], [[investigate-snowbank-creature-identity-2026-06-06-015550]], [[the_shaman_great_worm_tribe]]
 - Emphasize: The potential connection between Elrem and the Snowbank Creature.
 - De-emphasize: The speculative nature of the Snowbank Creature's identity until more concrete evidence is available.
 - Open questions: Further exploration into the exact nature of the Snowbank Creature and its relationship to Elrem.
@@ -251,14 +251,14 @@ The Great Worm Tribe makes sacrifices to prevent mythical creatures like Elrem f
 - The evidence is indirect and based on the tribe's practices and beliefs.
 
 ## Connections to Existing Wiki
-- Links to the pages [[great-worm-tribe]], [[elrem]], and [[sacrifices]].
+- Links to the pages [[the_shaman_great_worm_tribe]], [[elrem]], and [[sacrifice]].
 - Tracks the open question of the purpose of sacrifices to Elrem.
 
 ## Contradictions & Tensions
 - The purpose of sacrifices to Elrem is clear, but the nature of Elrem itself remains unclear.
 
 ## Recommendations
-- Create or update pages: [[great-worm-tribe]], [[elrem]], [[sacrifices]]
+- Create or update pages: [[the_shaman_great_worm_tribe]], [[elrem]], [[sacrifice]]
 - Emphasize: The purpose of sacrifices to Elrem as a means of appeasement.
 - De-emphasize: The speculative nature of the Snowbank Creature's identity until more concrete evidence is available.
 - Open questions: Further exploration into the exact nature of Elrem and the connection between Elrem and the Snowbank Creature.

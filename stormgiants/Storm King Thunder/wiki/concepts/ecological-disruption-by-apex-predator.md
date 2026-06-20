@@ -16,3 +16,7 @@ Xanth’s fireside accounts note that Cryovain’s winter broke the forest’s b
 This concept extends beyond individual encounters: it frames monsters not as isolated threats, but as catalysts for societal instability. The orc bands that emerged were not inherently evil — they were desperate survivors responding to environmental collapse. Cryovain’s death did not restore balance — it left a vacuum filled by chaos.
 
 This pattern is systemic. The Carver did not create the disruption — he exploited it. The true villain is not the dragon, but the mechanism that weaponized nature’s fragility.
+
+## Related
+
+- [[ecological-cascade-displacement-crisis]]

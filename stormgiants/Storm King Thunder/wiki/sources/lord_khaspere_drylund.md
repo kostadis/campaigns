@@ -69,7 +69,7 @@ related: []
 
 ### Connections to Existing Wiki
 - **Existing Pages:**
-  - [[Yartar]], [[Waterbaron]], [[Kraken Society]], [[Aboleth Oosith]], [[King Hekaton]], [[Ancient Powers]]
+  - [[grindle-2026-06-06-042021]], [[grindle-2026-06-06-042021]], [[kraken-society]], [[force-grey-2026-06-06-063448]], [[king-hekaton]], [[force-grey-2026-06-06-063448]]
 - **Impact:**
   - Strengthens existing knowledge about Yartar’s political landscape and the broader conspiracy.
   - Challenges assumptions about Drylund’s motivations and the true extent of his involvement.
@@ -77,3 +77,29 @@ related: []
 ### Contradictions & Tensions
 - **Internal Contradiction:**
   - Drylund’s death leaves a power vacuum, yet no immediate ac
+
+## Related
+
+- [[the_imperator]]
+- [[sandesyl_morgia]]
+- [[persson_hysstryn]]
+- [[thane_kayalithca]]
+- [[taern_thunderspell_hornblade]]
+- [[tholzar_brenner]]
+- [[narcellia_varam_myr]]
+- [[the_foreman]]
+- [[princess_halani_meliame]]
+- [[the_harper_agent]]
+- [[the_red_wizard]]
+- [[talis_the_white]]
+- [[the_high_priest_of_mielikki]]
+- [[syreen_widdens]]
+- [[szass_tam]]
+- [[queen_tatiana]]
+- [[sir_cedric_hollowcrest]]
+- [[tolmarra]]
+- [[lord_zymorven]]
+- [[mama_manyknuckles]]
+- [[ragnar_redtooth]]
+- [[taern_hornblade]]
+- [[silas_carras]]

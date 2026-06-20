@@ -9,3 +9,7 @@ sources: ["dral_thelev.md"]
 ---
 # Teleportation Capability
 The ability to teleport oneself or others from one location to another, which Dral Thelev demonstrates by using Silverymoon wine to teleport the party to Moongleam Tower.
+
+## Related
+
+- [[teleportation]]

@@ -75,3 +75,27 @@ related: []
 - **Open Questions:**
   - What is Storvald's current status and plans?
   - How will the party interact with Storvald in the future?
+
+## Related
+
+- [[dral_thelev]]
+- [[tove_brandimen]]
+- [[persson_hysstryn]]
+- [[sandesyl_morgia]]
+- [[the_high_priest_of_mielikki]]
+- [[sir_cedric_hollowcrest]]
+- [[nestra_ruthiol]]
+- [[princess_halani_meliame]]
+- [[szass_tam]]
+- [[jarlor]]
+- [[ragnar_redtooth]]
+- [[the_wight_elquen]]
+- [[nespril_menk]]
+- [[narcellia_varam_myr]]
+- [[jevin]]
+- [[tolmarra]]
+- [[lord_drylund]]
+- [[taern_hornblade]]
+- [[silas_carras]]
+- [[jorgen]]
+- [[lord_khaspere_drylund]]

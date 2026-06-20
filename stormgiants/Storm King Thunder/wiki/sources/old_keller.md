@@ -26,7 +26,7 @@ related: []
 - **Strength of Evidence:** Strong; supported by Keller's direct statements and actions.
 
 ### Connections to Existing Wiki
-- **Existing Pages:** [[dwarven-honor]], [[clan-licehair]], [[keep-incidents]], [[redemption]]. These pages will be strengthened by the inclusion of Keller's perspective on these concepts.
+- **Existing Pages:** [[4-npcs--16-the_dwarven_king--1tsbilc]], [[circle-of-thunder]], [[keep-incidents]], [[redemption-through-substantive-gesture-not-apology]]. These pages will be strengthened by the inclusion of Keller's perspective on these concepts.
 - **Impact on Knowledge:** This source provides a deeper understanding of Keller's character and the dynamics within the clan, potentially enriching the narrative universe.
 
 ### Contradictions & Tensions
@@ -34,7 +34,7 @@ related: []
 - **External Conflict:** Keller's stance could create tension with the party, especially if they continue to engage with him despite his conditions.
 
 ### Recommendations
-- **Create or Update:** [[old-keller]], [[dwarven-honor]], [[redemption]], [[keep-incidents]].
+- **Create or Update:** [[old_keller]], [[4-npcs--16-the_dwarven_king--1tsbilc]], [[redemption-through-substantive-gesture-not-apology]], [[keep-incidents]].
 - **Emphasize:** Keller's role in shaping the narrative and his unique perspective on dwarven honor and redemption.
 - **Open Question:** Should Keller's conditions for redemption be interpreted as a form of justice or punishment?
 

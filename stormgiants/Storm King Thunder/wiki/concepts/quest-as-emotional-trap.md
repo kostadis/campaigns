@@ -1,12 +1,13 @@
 ---
 type: concept
 title: Quest-as-emotional-trap
-created: 2026-06-15
-updated: 2026-06-15
+created: 2026-06-06
 tags: [narrative-device, emotional-catalyst, misdirection, quest-design]
 related: ["harbin-wester", "information-asymmetry-npc-encounters", "pre-meeting-narrative-structure"]
 sources: ["npcs/alphonse_big_al_kalazorn.md"]
+updated: 2026-06-07
 ---
+
 # Quest-as-emotional-trap
 
 A narrative structure in which a seemingly straightforward mission — offering material reward for rescuing or retrieving something — is designed to lure characters into a scenario whose true purpose is emotional resolution, not material gain.

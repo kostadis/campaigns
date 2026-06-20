@@ -11,3 +11,7 @@ sources: ["grik.md"]
 - **Definition**: Chemical substance used to incapacitate travelers
 - **Matters**: Used by Bad Fruul to weaken travelers before the ambush.
 - **Likely Exists in Wiki**: Likely, as it is a significant plot element.
+
+## Related
+
+- [[cryptic-warnings]]

@@ -4,7 +4,7 @@ title: "Internal Hum (sensory phenomenon)"
 created: 2026-06-15
 updated: 2026-06-15
 tags: [sensory, psychic, planar, coordination, precursor]
-related: ["orc-coordination-mechanisms", "interdimensional-smuggling", "divine-oracle", "headband-of-intellect-as-demonic-influence"]
+related: ["orc-coordination-mechanisms", "interdimensional-smuggling", "divine-oracle", "headband-of-intellect-narcellia"]
 sources: ["npcs/jarek.md"]
 ---
 # Internal Hum (sensory phenomenon)
@@ -21,3 +21,7 @@ This phenomenon is the first documented case of a pre-attack internal sensory cu
 The hum’s disappearance suggests it is not a permanent condition, but a triggered signal. Its specificity to Jarek raises questions: Is he uniquely sensitive? Was the signal targeted? Is it a one-time anomaly or part of a broader pattern?
 
 This concept challenges assumptions about orc behavior as purely tribal or instinctual, introducing the possibility of non-physical, coordinated control mechanisms operating beneath the surface of conventional warfare.
+
+## Related
+
+- [[the-internal-hum]]

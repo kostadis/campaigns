@@ -16,3 +16,7 @@ Under the leadership of [[zeleen-varnaster]], the gang serves as the de facto se
 
 ## Organizational Traits
 The gang prefers roles involving muscle and protection over the hard labor of actual mining. Their loyalty is considered [[conditional-trust]], as their primary motivation is the comfort and safety of their own kind rather than long-term alliance with the dwarves or the adventuring party.
+
+## Related
+
+- [[zeleen_varnaster]]

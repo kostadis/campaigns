@@ -4,7 +4,7 @@ title: Music as Metaphor for Cosmic Order
 created: 2026-06-15
 updated: 2026-06-15
 tags: [philosophical-metaphor, cosmic-harmony, druidic-philosophy, vukradin]
-related: [adabra-gwynn, anti-interventionism-druidic, vukradin, cascading-multiversal-imbalance]
+related: ["adabra-gwynn", "emerald-enclave", "vukradin", "cascading-multiversal-imbalance"]
 sources: ["npcs/adabra.md"]
 ---
 # Music as Metaphor for Cosmic Order
@@ -18,3 +18,7 @@ Vukradin, a man who once played music for its own sake, is uniquely vulnerable t
 This concept elevates philosophy from doctrine to art. It shows how ideology can be transmitted not through argument, but through resonance — a harmony of belief that, once broken, leaves only silence.
 
 It is the most beautiful and dangerous weapon in Adabra’s arsenal.
+
+## Related
+
+- [[music-as-philosophical-metaphor]]

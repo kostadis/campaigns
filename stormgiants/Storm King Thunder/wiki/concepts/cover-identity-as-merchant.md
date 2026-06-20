@@ -4,7 +4,7 @@ title: Cover Identity as Merchant
 created: 2026-05-25
 updated: 2026-05-22
 tags: [operational-cover, intelligence, logistics, deniability, espionage, trade, deception, network]
-related: [azam, disguised-influence, seer, lord-s-alliance, baash-a-kweelani, zhentarim, unla-kee]
+related: ["azam", "disguised-influence", "seer", "lords-alliance", "baash-a-kweelani", "zhentarim", "unla-kee"]
 sources: ["azam.md", "baash_a_kweelani.md"]
 ---
 # Cover Identity as Merchant

@@ -47,3 +47,8 @@ Dwarf craftsman / blacksmith; proprietor of Foehammer's (Forehammer's) Forge in 
 
 ## Arc Score Events
 - No arc score events recorded.
+
+## Related
+
+- [[ghelryn_foehammer]]
+- [[fruf]]

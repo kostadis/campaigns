@@ -4,7 +4,7 @@ title: Planar Hoard
 created: 2026-06-15
 updated: 2026-06-15
 tags: [economy, magic, planar, artifact]
-related: [cryovain, planar-travel, artifact-resonance, alexandria-hoard, the-carvers-obsidian-sword]
+related: ["cryovain", "planar-travel", "artifact-resonance", "alexandria-hoard", "the-carver"]
 sources: ["npcs/cryovain.md"]
 ---
 # Planar Hoard
@@ -16,3 +16,7 @@ Cryovain’s hoard, estimated at 3,000 gold worth of materials, was fused into a
 This phenomenon extends beyond Cryovain, suggesting a pattern: powerful entities subjected to planar rituals or domination may have their wealth bound to their fate. Planar hoards serve as narrative dead ends — symbols of lost value, trapped potential, and the collateral cost of cosmic interference.
 
 They contrast sharply with the fluid economies of the SEER or House Sartorra, where wealth moves invisibly. A planar hoard is a monument to stagnation — a treasure that cannot be spent, only mourned.
+
+## Related
+
+- [[planar-phenomena-as-commodity]]

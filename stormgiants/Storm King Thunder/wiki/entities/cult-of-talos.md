@@ -4,7 +4,7 @@ title: Cult of Talos
 created: 2026-06-15
 updated: 2026-06-15
 tags: [organization, cosmic-distraction, naturalism, planar-entity]
-related: [adabra-gwynn, naturalism-as-moral-framework, cascading-multiversal-imbalance]
+related: ["adabra-gwynn", "emerald-enclave", "cascading-multiversal-imbalance"]
 sources: ["npcs/adabra.md"]
 ---
 # Cult of Talos
@@ -16,3 +16,8 @@ She does not see it as evil — she sees it as natural. Its violence is not a co
 The Cult of Talos is not a plot device — it is a philosophical challenge. If Adabra is right, then the party’s crusade against it is not righteous — it is arrogant.
 
 Its existence forces the question: is destruction always wrong? Or is it sometimes just… part of the music?
+
+## Related
+
+- [[cult-of-talos-as-cosmic-distraction]]
+- [[talos-cult]]

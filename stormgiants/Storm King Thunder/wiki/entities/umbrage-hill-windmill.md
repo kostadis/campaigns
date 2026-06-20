@@ -16,3 +16,7 @@ She barricaded herself inside during a manticore siege, refusing to leave until 
 The windmill symbolizes her isolation: a place of quiet labor, deep knowledge, and stubborn conviction. It is not a fortress against monsters — but against the world’s interference. She sees herself as the grove’s last guardian, and the windmill as her altar.
 
 It remains her spiritual anchor, even after her defeat at the Enclave council. Whether she has returned there, or abandoned it for a new base, is unknown.
+
+## Related
+
+- [[whispering-grove]]

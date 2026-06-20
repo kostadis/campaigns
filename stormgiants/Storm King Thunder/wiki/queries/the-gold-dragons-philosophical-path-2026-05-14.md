@@ -13,3 +13,7 @@ Description of what needs the user's attention.
 
 
 ---
+
+## Related
+
+- [[the-wight-elquen-2026-05-14]]

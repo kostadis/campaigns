@@ -15,4 +15,5 @@ Storm Giants are one of the major factions among the giant lords and serve as a 
 The relationship between the Storm Giants and Duke Zalto is marked by open defiance. As part of the efforts to restore the Ordning, King Hekaton has demanded Zalto's submission. This ongoing conflict adds significant tension to the narrative and directly influences Zalto's actions.
 
 ## Related Pages
-- [[dungeon-ironslag]]
+- [[king-hekaton]]
+- [[ironslag]]

@@ -9,3 +9,7 @@ related: []
 # Comparison: Cap'n Squint vs. Halflings
 
 Description of what needs the user's attention.
+
+## Related
+
+- [[clarify-capn-squints-motivations]]

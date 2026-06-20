@@ -45,7 +45,7 @@ related: []
 - No contradictions identified in the source material.
 
 ### Recommendations
-- **Create Page**: [[pow-ming]]
+- **Create Page**: [[pow]]
 - **Emphasize**: His pragmatic approach to business and his ability to handle dangerous situations.
 - **De-emphasize**: Specific details about the flying casino concept, which are already covered in other pages.
 - **Open Question**: Further exploration of his background and motivations beyond his role at the Grand Dame.

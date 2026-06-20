@@ -31,7 +31,7 @@ related: []
 - **Strength of Evidence**: Strong, supported by direct quotes and behavioral observations.
 
 ### Connections to Existing Wiki
-- **[[goblin-tribe]]**: Mirk’s role within the tribe and his opposition to the alliance aligns with the broader narrative of the goblin tribe.
+- **[[tree-ghost-tribe]]**: Mirk’s role within the tribe and his opposition to the alliance aligns with the broader narrative of the goblin tribe.
 - **[[alliances]]**: The alliance with the 3HPP challenges the established goblin ideology, making it relevant to the wiki’s coverage of alliances.
 
 ### Contradictions & Tensions
@@ -40,6 +40,11 @@ related: []
 
 ### Recommendations
 - **Create Page**: [[mirk]] to summarize Mirk’s character, motivations, and role in the story.
-- **Update Pages**: [[goblin-tribe]], [[alliances]], and possibly [[maergun-the-fomorian]] to reflect Mirk’s influence and the ongoing ideological tension.
+- **Update Pages**: [[tree-ghost-tribe]], [[alliances]], and possibly [[maergun]] to reflect Mirk’s influence and the ongoing ideological tension.
 - **Flag for Review**: Ensure consistency in Mirk’s portrayal across different sessions and avoid contradictions in his behavior.
 - **Open Question**: Investigate further how Mirk’s loyalty to the 3HPP alliance might evolve as the story progresses.
+
+## Related
+
+- [[mohm]]
+- [[mirran]]

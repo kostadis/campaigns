@@ -12,3 +12,7 @@ Rose is an artifact, the hexagonal oracle chamber within the Temple of Annam. Th
 
 ## Relationships
 - **Oracle Chamber:** Located within the Temple of Annam; the Ghost (Cloud Giant) emerges from the floor of the oracle chamber when the party enters.
+
+## Related
+
+- [[ghost-cloud-giant]]

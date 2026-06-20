@@ -15,3 +15,7 @@ A personal moral code practiced by [[vukradin]], emphasizing the pursuit of "hon
 - **Refusal to Loot:** A rejection of the practice of looting fallen monsters.
 - **Restitution:** The insistence on returning stolen property to its rightful owners.
 - **Anti-Banditry:** A philosophical opposition to state-sanctioned adventuring programs that resemble organized theft.
+
+## Related
+
+- [[ethical-salvage-vs-grave-robbing]]

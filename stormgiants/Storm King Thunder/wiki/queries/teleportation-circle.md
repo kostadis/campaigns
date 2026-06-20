@@ -15,3 +15,7 @@ A **Teleportation Circle** is a magical device used for teleportation.
 ## The Teleportation Circle Incident
 
 The term also refers to a specific historical event known as the **Teleportation Circle Incident**. This event is closely connected to the death of [[kolbaz]]. During the incident, a [[blue-dragon]], a mythical dragon capable of causing significant damage, was involved.
+
+## Related
+
+- [[teleportation-circle]]

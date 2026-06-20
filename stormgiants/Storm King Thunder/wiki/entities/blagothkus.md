@@ -16,3 +16,11 @@ His leadership was defined by [[reactive-leadership]]: he acted only under exter
 His death was not merely punitive — it was the required mechanism to release Eigeron’s ghost, making it an instance of [[execution-as-redemption-mechanism]]. He was killed by the party at Escarlotta’s command, with Brunvild delivering the final blow. His final admission — “an accident” — confirmed his internal collapse.
 
 Blagothkus’s legacy is one of tragic irony: a giant who sought divine favor through power, only to be destroyed by his own inability to face truth.
+
+## Related
+
+- [[blagothkus]]
+- [[sandesyl-morgia]]
+- [[king-hekaton]]
+- [[eigeron]]
+- [[brunvild]]

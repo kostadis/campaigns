@@ -1,34 +1,54 @@
 ---
 type: source
-title: Don-Jon Raskin Intelligence
-created: 2025-05-22
-updated: 2026-05-27
-tags: [npc, mining, kraken-society, mine-overseer, proxy-agent]
-related: ["vukradin", "kraken-society", "mountain-s-toe-gold-mine", "neverwinter-consortium", "wererats-of-mountain-s-toe"]
+title: "Source: npcs/don_jon_raskin.md"
+created: 2026-06-06
+updated: 2026-06-06
 sources: ["npcs/don_jon_raskin.md"]
-authors: []
-year: 2026
-url: ""
-venue: ""
+tags: []
+related: []
 ---
-# Don-Jon Raskin Intelligence
 
-Detailed intelligence regarding the newly appointed overseer of the Mountain’s Toe Gold Mine, his background, and his connection to the [[neverwinter-consortium]] and [[kraken-society]].
+# Source: npcs/don_jon_raskin.md
 
-## Summary
+## Key Entities
 
-Don-Jon Raskin is a socially adept but professionally inexperienced mine overseer hired by a Neverwinter Consortium entity with latent Kraken Society ties. His appointment exemplifies an *employer-proxy-operation*: a public-facing agent deployed to manage a sensitive site while remaining ignorant of the true agenda. Despite lacking any practical mining experience, Raskin’s charisma, emotional intelligence, and openness to advice have enabled functional outcomes — even strategic successes — in a volatile environment.
+*   **Don-Jon Raskin** (Person)
+    *   **Role:** Central NPC in the current mining arc. He serves as a "hollow" authority figure—a man with a title but no expertise, used as a narrative vehicle for the party's transition into the mine's politics.
+    *   **Status:** Exists in source; should be added to the wiki.
+*   **Neverwinter Consortium** (Organization)
+    *   **Role:** Employer of Raskin. They represent the corporate/commercial layer of the setting.
+    *   **Status:** Likely exists or needs a page to detail their specific interests in mining.
+*   **Kraken Society** (Organization)
+    *   **Role:** A shadowy, high-level organization with ties to the consortium.
+    *   **Status:** Exists in wiki as `[[krowen-valharrow-2026-06-06-002752|The Kraken Society]]`.
+*   **Vukradin** (Person)
+    *   **Role:** A party member or close ally who possesses "meta-knowledge" regarding the Kraken Society.
+    *   **Status:** Exists in wiki as `[[vukradin]]`.
+*   **The Wererats** (Group/Species)
+    *   **Role:** The inhabitants of the Mountain's Toe Gold Mine; they are the "other" in the cohabitation negotiation.
+    *   **Status:** Related to `[[zeleen-varnaster]]` and `[[mountain-toe-gold-mine]]`.
 
-## Profile and Narrative Function
+## Key Concepts
 
-Raskin was encountered in Phandalin, where he spun embellished tall tales of his past as a prospector, miner, fur trader, privateer, and whaler. He believed he had been accepted into a barbarian tribe; the party recognized he had been mocked. Despite this, his genuine friendliness and lack of malice allowed him to de-escalate tensions with the wererats at the Mountain’s Toe Gold Mine.
+*   **Contractual Morality / Pragmatic Integrity** (Method/Theme)
+    *   **Definition:** The practice of fulfilling a contract or agreement even when the personal motivations or broader implications are murky.
+    *   **Why it matters:** Raskin’s role is defined by his contract; he doesn't need to know *why* he was hired, only that he must fulfill the duties.
+*   **Information Asymmetry** (Mechanism)
+    *   **Definition:** The gap between what a character knows and what the party knows (or what the "truth" is).
+    *   **Why it matters:** Raskin's ignorance of his employers' true motives creates a layer of tension that only Vukradin can see through.
+*   **Negotiated Coexistence** (Method)
+    *   **Definition:** A diplomatic compromise between two conflicting groups (humans and wererats) to share a space for mutual benefit.
+    *   **Why it matters:** This is the primary political resolution of the "Mountain's Toe" arc.
 
-He was hired to oversee mining operations despite having no practical experience. His contract required him to hire an escort — the party — which he did with apparent trust. He was persuaded by Vukradin to accept a cohabitation compromise with the wererats, abandoning his initial stance of expulsion. This decision, though rooted in ignorance, proved strategically effective.
+## Main Arguments & Findings
 
-Raskin is unaware of the Kraken Society’s involvement in his employer. His survival and success depend not on expertise, but on charisma, adaptability, and the moral insight of others.
+*   **The "Useful Fool" Archetype:** Raskin is designed as a character whose lack of expertise is his defining trait. His "boastful tales" and "cluelessness" serve to highlight the party's competence by contrast.
+*   **Layered Conspiracy:** The document establishes a clear hierarchy of knowledge:
+    1.  **Raskin:** Knows only his job and his stories.
+    2.  **The Party:** Knows Raskin is clueless but believes he is just an inexperienced overseer.
+    3.  **Vukradin:** Knows the specific, dangerous connection to the Kraken Society.
+*   **Evidence of Complexity:** The inclusion of "hidden" information regarding the Kraken Society suggests that while Raskin is a simple NPC, his *position* is part of a complex geopolitical web.
 
-## Role and Significance
+## Connections to Existing Wiki
 
-Raskin serves as a catalyst for the party’s involvement in the Mountain’s Toe Gold Mine. His narrative function underscores the campaign’s recurring motif of hidden agendas embedded in mundane roles, and the unexpected power of non-expert leadership. His presence transforms what could have been a hostile takeover into a fragile but functional coexistence, demonstrating how social intelligence can outmaneuver technical competence in complex social ecosystems.
-
-His role highlights the Kraken Society’s preference for indirect control — using unwitting proxies to stabilize sensitive operations while maintaining plausible deniability.
+*   *

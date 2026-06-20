@@ -29,7 +29,7 @@ related: []
 - **Strength of Evidence**: Strong, based on the detailed interactions described in the source.
 
 ### Connections to Existing Wiki
-- **Existing Pages**: [[Klauth]], [[Delsephine]], [[Red Dragon]], [[Merchant]], [[Lord's Alliance]], [[Giant]], [[Cult of the Dragon]], [[Spine of the World]], [[Hidden Vale]], [[Reward System]].
+- **Existing Pages**: [[Klauth]], [[Delsephine]], [[red-dragon]], [[grindle-2026-06-06-042021]], [[lords-alliance]], [[Giant]], [[cult-of-the-dragon]], [[spine-of-the-world]], [[hidden-valet]], [[reward-system]].
 - **Impact**: This source provides new information about Klauth's motivations and actions, which can be integrated into existing pages to enhance understanding of his role and influence.
 
 ### Contradictions & Tensions
@@ -37,7 +37,7 @@ related: []
 - **External Tension**: His relationship with the Cult of the Dragon is unclear, potentially creating internal tension within his organization.
 
 ### Recommendations
-- **Create or Update Pages**: [[Klauth]], [[Delsephine]], [[Red Dragon]], [[Merchant]], [[Lord's Alliance]], [[Giant]], [[Cult of the Dragon]], [[Spine of the World]], [[Hidden Vale]], [[Reward System]].
+- **Create or Update Pages**: [[Klauth]], [[Delsephine]], [[red-dragon]], [[grindle-2026-06-06-042021]], [[lords-alliance]], [[Giant]], [[cult-of-the-dragon]], [[spine-of-the-world]], [[hidden-valet]], [[reward-system]].
 - **Emphasize**: The strategic alliances and motivations of Klauth and Delsephine.
 - **De-emphasize**: Specific details that are already well-covered in existing pages.
 - **Open Question**: Clarify the exact nature of Klauth's relationship with the Cult of the Dragon.

@@ -9,3 +9,9 @@ sources: ["klauth.md"]
 ---
 # Giant Reward Rescinded
 A reward rescinded by Klauth to someone who eliminated a giant leader as part of his request. This reward is a calculated move to leverage the party's actions against the giants.
+
+## Related
+
+- [[giant-reward-withheld]]
+- [[giant-reward-withdrawn]]
+- [[giant-reward-revoked]]

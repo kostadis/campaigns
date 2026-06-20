@@ -89,3 +89,7 @@ updated: 2026-05-01
 ## 2026-05-01
 
 - Ingest | Boorvald Orcbane
+
+## Related
+
+- [[ghost-cloud-giant]]

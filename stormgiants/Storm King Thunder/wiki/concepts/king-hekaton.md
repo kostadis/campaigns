@@ -11,4 +11,8 @@ sources: ["duke_zalto.md"]
 King Hekaton is the Storm Giant King demanding Zalto's submission as part of restoring the Ordning. Their relationship is marked by open defiance, with Hekaton viewing Zalto's ambitions as laughable. This conflict adds tension to the narrative and influences Zalto's actions.
 
 ## Related Pages
-- [[dungeon-ironslag]]
+- [[the-king-2026-05-27]]
+- [[storm-giants]]
+- [[lore]]
+- [[vonindod]]
+- [[ironslag]]

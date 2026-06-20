@@ -4,7 +4,7 @@ title: Don-Jon Raskin
 created: 2025-05-22
 updated: 2026-05-27
 tags: ["npc", "overseer", "mine-overseer", "charismatic-incompetent", "proxy-agent", "incompetent-but-charismatic-leader", "employer-proxy-operation", "tall-tale-as-social-tool", "betrayer", "proxy", "deceased"]
-related: ["vukradin", "neverwinter-consortium", "mountain-s-toe-gold-mine", "kraken-society", "wererats-of-mountain-s-toe", "incompetent-but-charismatic-leader", "employer-proxy-operation", "tall-tale-as-social-tool", "horia-stonetallow", "stonetallow-clan", "neverwinter-mining-consortium"]
+related: ["vukradin", "neverwinter-consortium", "mountain-toe-gold-mine", "kraken-society", "wererats-of-mountain-s-toe", "incompetent-but-charismatic-leader", "employer-proxy-operation", "tall-tale-as-social-tool", "horia-stonetallow", "stonetallow-clan"]
 sources: ["don_jon_raskin.md", "npcs/don_jon_raskin.md", "npcs/horia_stonetallow.md"]
 ---
 # Don-Jon Raskin
@@ -26,7 +26,7 @@ Raskin’s life challenges traditional fantasy tropes of the expert leader. He w
 ## Profile
 - **Role:** Mine Overseer (deceased)
 - **Personality:** Friendly, boastful, socially oblivious, emotionally intelligent — until corrupted by greed. His charm and genuine demeanor initially de-escalated tensions, but his moral collapse revealed a calculating, self-serving core.
-- **Employer:** [[neverwinter-consortium]] (suspected of having ties to the [[kraken-society]]); later revealed to be part of the [[neverwinter-mining-consortium]]’s shadow operations.
+- **Employer:** [[neverwinter-consortium]] (suspected of having ties to the [[kraken-society]]); later revealed to be part of the [[neverwinter-consortium]]’s shadow operations.
 
 ## History and Relationships
 - **The Party:** Met the party in [[phandalin]] and hired them as a contractual escort for his journey to the mine.
@@ -37,3 +37,10 @@ Raskin’s life challenges traditional fantasy tropes of the expert leader. He w
 
 ## Known Limitations
 Raskin was largely unaware of the true nature of his employers or the [[kraken-society]]’s influence within the [[neverwinter-consortium]]. His professional incompetence in mining operations remained a significant factor in the mine’s management — but his ultimate failure was not technical, but ethical. He lacked the moral compass to sustain the trust he had cultivated, and his betrayal undid all prior gains. His death marked the end of an era where charm could mask incompetence — and the beginning of one where integrity, not charisma, would determine survival.
+
+## Related
+
+- [[harbin-wester]]
+- [[thistle-wendrod]]
+- [[kaelen-sarssir]]
+- [[lord-neverember]]

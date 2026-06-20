@@ -33,3 +33,7 @@ tags: [fritz, armor, fairy, deception]
 related: []
 sources: ["fritz.md"]
 ---
+
+## Related
+
+- [[brimskarda]]

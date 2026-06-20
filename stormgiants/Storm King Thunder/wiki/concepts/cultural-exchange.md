@@ -14,3 +14,7 @@ Imber's ability to convert a tense cultural exchange into a paying advertising d
 - Conversion of a tense cultural exchange into a commercial deal
 - Demonstrates Imber's commercial acumen and adaptability
 - Reflects his willingness to engage with diverse perspectives
+
+## Related
+
+- [[transactional-communication]]

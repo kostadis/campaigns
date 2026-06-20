@@ -4,7 +4,7 @@ title: Cult of Talos as “cosmic distraction”
 created: 2026-06-15
 updated: 2026-06-15
 tags: [theology, inversion, naturalism, chaos]
-related: [adabra-gwynn, naturalism-as-cosmological-framework, motivated-blight, divine-silence]
+related: ["adabra-gwynn", "emerald-enclave", "motivated-blight", "divine-silence"]
 sources: ["adabra.md"]
 ---
 # Cult of Talos as “cosmic distraction”
@@ -17,4 +17,8 @@ This view is deeply unsettling because it erases moral boundaries. If the Cult o
 
 It also creates a paradox: if Talos is natural, why is Narcellia Varammyr’s manipulation of Bad Fruul — also destructive — not natural? The answer lies in the concept of [[motivated-blight]] — but Adabra refuses to acknowledge it.
 
-This concept is the most provocative extension of [[naturalism-as-cosmological-framework]] — and the most dangerous. It suggests that the party’s enemies may not be villains — but functions.
+This concept is the most provocative extension of [[emerald-enclave]] — and the most dangerous. It suggests that the party’s enemies may not be villains — but functions.
+
+## Related
+
+- [[cult-of-talos]]

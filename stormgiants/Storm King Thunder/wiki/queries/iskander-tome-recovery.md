@@ -9,3 +9,7 @@ sources: ["iskander.md"]
 ---
 # Iskander Tome Recovery
 What was the outcome of Iskander's mission regarding the recovery of the tome Sandesyl seeks and how did this impact the raid on Xonathal's tower?
+
+## Related
+
+- [[iskander-tome]]

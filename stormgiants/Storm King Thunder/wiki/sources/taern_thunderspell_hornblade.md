@@ -67,3 +67,7 @@ related: []
 - **Open Questions:**
   - What were Taern's specific duties as a High Mage?
   - What was his relationship with Uzorel "The Viper" Hornblade beyond being a distant relative?
+
+## Related
+
+- [[thane_braxow]]

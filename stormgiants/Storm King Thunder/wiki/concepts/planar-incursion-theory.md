@@ -4,7 +4,7 @@ title: Planar Incursion Theory
 created: 2025-05-22
 updated: 2025-05-22
 tags: [planar, theory, magic]
-related: [planar-instability, interventionism-vs-naturalism]
+related: ["planar-instability", "emerald-enclave"]
 sources: ["sridar.md"]
 ---
 # Planar Incursion Theory

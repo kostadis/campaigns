@@ -18,3 +18,8 @@ sources: ["zariel.md"]
 
 ## Notes
 - Zariel leverages Political Protection to secure her position and influence within the Nine Hells, using her control over Infernal Forces to shape political outcomes.
+
+## Related
+
+- [[private_arrangement]]
+- [[infernal_forces]]

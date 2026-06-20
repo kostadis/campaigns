@@ -1,8 +1,8 @@
 ---
 type: source
 title: "Source: gundalin_cartwright.md"
-created: 2026-05-13
-updated: 2026-05-13
+created: 2026-06-06
+updated: 2026-06-06
 sources: ["gundalin_cartwright.md"]
 tags: []
 related: []
@@ -10,77 +10,51 @@ related: []
 
 # Source: gundalin_cartwright.md
 
-### Key Entities
+## Key Entities
 
-- **Gundalin Cartwright**
-  - **Name and Type:** Person, Merchant/Cartwright, Militia Member
-  - **Role in the Source:** Central
-  - **Existing in Wiki:** Likely does not exist
+*   **Gundalin Cartwright (Gundalin)**
+    *   **Type:** NPC / Civilian / Militia Member
+    *   **Role:** Central to the Parnast arc; serves as a primary suspect in sabotage and a foil to Ragnar’s leadership.
+    *   **Wiki Status:** New entry required.
+*   **Ragnar (Redtooth)**
+    *   **Type:** NPC / Town Commander
+    *   **Role:** Local authority figure; political adversary of Gundalin but tactical ally during the siege.
+    *   **Wiki Status:** Likely exists or needs update to reflect his complex relationship with Gundalin.
+*   **Wallace Cartwright**
+    *   **Type:** NPC / Gundalin's Son
+    *   **Role:** Provides a domestic contrast to Gundalin; fiercely defends his father’s reputation against sabotage claims.
+    *   **Wiki Status:** New entry or update needed (linked to Gundalin).
+*   **Orsik**
+    *   **Type:** NPC / Member of the Lord's Alliance/SEER?
+    *   **Role:** A source of information for Gundalin; his perspective on "outside powers" influenced Gundalin’s shift in stance.
+    *   **Wiki Status:** Exists (see *Orsik's Identity and Role*).
+*   **Bad Fruul**
+    *   **Type:** Antagonist / Leader of the Orc Horde
+    *   **Role:** The external threat that forced Gundalin and Ragnar into a temporary, uneasy alliance.
+    *   **Wiki Status:** Exists.
+*   **Silas Carras**
+    *   **Type:** NPC (Location/Context)
+    *   **Role:** His garden is the source of the physical evidence (footprints) linking Gundalin to sabotage.
+    *   **Wiki Status:** New entry or update for local geography.
 
-- **Ragnar (Town Commander / Redtooth)**
-  - **Name and Type:** Person, Town Commander, Militia Leader
-  - **Role in the Source:** Central
-  - **Existing in Wiki:** Likely does not exist
+## Key Concepts
 
-- **Wallace Cartwright (Son)**
-  - **Name and Type:** Person, Merchant
-  - **Role in the Source:** Peripheral
-  - **Existing in Wiki:** Likely does not exist
+*   **Political Opposition vs. Tactical Alliance:** The tension between Gundalin and Ragnar, where they disagree on policy/leadership but cooperate in survival.
+*   **Institutional Distrust:** Gundalin’s shift from blaming the party to blaming the "SEER" and "Lord's Alliance," highlighting a distrust of large-scale organizations.
+*   **Circumstantial Evidence (The Footprint Trail):** The physical evidence linking Gundalin to sabotage that remains unaddressed by the party.
+*   **Sympathetic Shift:** A narrative arc where an NPC moves from being a potential antagonist/suspect to a nuanced, sympathetic figure based on shared grievances against common enemies.
 
-- **Silas Carras**
-  - **Name and Type:** Person, Gardener
-  - **Role in the Source:** Peripheral
-  - **Existing in Wiki:** Likely does not exist
+## Main Arguments & Findings
 
-- **Orsik**
-  - **Name and Type:** Person, Militia Member
-  - **Role in the Source:** Peripheral
-  - **Existing in Wiki:** Likely does not exist
+*   **Ambiguous Loyalty:** The document highlights that Gundalin’s role as a "saboteur" is currently a matter of suspicion rather than confirmed fact. His actions (repairing the axle) could be interpreted as either helpful maintenance or deliberate tampering.
+*   **The "Common Enemy" Effect:** The siege by Bad Fruul forced a temporary unification between Gundalin and Ragnar, despite their deep political animosity.
+*   **Shift in Perspective:** Post-battle, Gundalin’s character arc moves from local defiance to broader geopolitical skepticism (distrust of the SEER/Lord's Alliance).
 
-### Key Concepts
+## Connections to Existing Wiki
 
-- **Sabotage Campaign**
-  - **Definition:** Series of incidents targeting Parnast's infrastructure and security.
-  - **Matters:** Core concept driving Gundalin's role and the narrative arc.
-  - **Existing in Wiki:** Likely does not exist
+*   **[[bad-fruul]]**: Strengthens the narrative of Parnast as a besieged location.
+*   **[[orsik]]**: Connects Gundalin’s i
 
-- **Cult of the Dragon**
-  - **Definition:** An unknown entity causing unrest in Parnast.
-  - **Matters:** Contextual background influencing Gundalin's motivations and interactions.
-  - **Existing in Wiki:** Likely does not exist
+## Related
 
-- **SEER (Supreme Elders of the Earth Realm)**
-  - **Definition:** A governing body of the Earth Realm.
-  - **Matters:** Potential influence on Parnast's events and Gundalin's beliefs.
-  - **Existing in Wiki:** Likely does not exist
-
-- **Lord's Alliance**
-  - **Definition:** An alliance of powerful entities.
-  - **Matters:** Influence on Parnast's events and Gundalin's beliefs.
-  - **Existing in Wiki:** Likely does not exist
-
-### Main Arguments & Findings
-
-- **Core Claims:**
-  - Gundalin is a suspected saboteur in Parnast, with circumstantial evidence linking him to the disappearance of tools, the watchtower collapse, and the broken cart axle.
-  - Post-battle, Gundalin shifts from a hostile stance towards the party to a more sympathetic one, questioning the SEER and Lord's Alliance.
-  
-- **Evidence Supporting Claims:**
-  - Circumstantial evidence (footprints, broken cart axle).
-  - Gundalin's public statements and actions post-battle indicate a change in his stance.
-
-- **Strength of Evidence:**
-  - Moderate strength, as Gundalin's initial accusations were based on circumstantial evidence, and his post-battle statements reflect a nuanced view influenced by new information.
-
-### Connections to Existing Wiki
-
-- **Existing Pages:**
-  - None directly related to Gundalin Cartwright or the events described.
-- **Impact:**
-  - Strengthens the narrative of Parnast's internal conflicts and the evolving dynamics between its inhabitants and external forces.
-
-### Contradictions & Tensions
-
-- **Internal Tension:**
-  - Gundalin's initial accusations versus his post-battle statements suggest a potential shift in his motives or reliability.
-  - Internal contradictio
+- [[gundalin-cartwright]]

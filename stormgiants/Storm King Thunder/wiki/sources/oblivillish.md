@@ -47,5 +47,5 @@ related: []
 - **External Conflict**: His dual allegiances create tension with both Thornacious and the Zhentarim.
 
 ### Recommendations
-- **Create Pages**: [[oblivillish]], [[curse-of-oblivillish]], [[zhentarim-intelligence-asset]], [[political-maneuvering-in-oblivillish]]
+- **Create Pages**: [[oblivillish]], [[oblivillish]], [[zuul-clovis]], [[political-sabotage]]
 - **Emphasize**: Oblivillish’s co

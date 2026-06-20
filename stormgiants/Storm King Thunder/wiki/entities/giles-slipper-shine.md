@@ -4,7 +4,7 @@ title: Giles Slipper-Shine
 created: 2025-05-22
 updated: 2026-05-27
 tags: [villager, laborer, devotee, npc, lathanderite, phandalin, lay-believer, devout-non-arc-npc]
-related: ["brin-bundlewine", "valphine", "theology-of-searing-pain", "temple-of-lathanders-searing-pain-of-justice", "unorthodox-lathanderite-interpretation", "labor-as-devotion", "ritual-self-flagellation-as-devotion", "converts-radiance", "holy-disfigurement", "public-religious-spectacle-as-fundraising", "devout-non-arc-npc", "tresendar-manor", "phandalin"]
+related: ["brin-bundlewine", "valphine", "theology-of-searing-pain", "temple-of-lathanders-searing-pain-of-justice", "labor-as-devotion", "ritual-self-flagellation-as-devotion", "converts-radiance", "holy-disfigurement", "public-religious-spectacle-as-fundraising", "devout-non-arc-npc", "tresendar-manor", "phandalin"]
 sources: ["brin_bundlewine.md", "giles_slipper_shine.md", "npcs/brin_bundlewine.md", "npcs/giles_slipper_shine.md"]
 ---
 # Giles Slipper-Shine
@@ -41,3 +41,8 @@ His devotion is expressed through:
 ## Philosophy & Significance
 
 Giles Slipper-Shine is not a plot device. He is a living expression of faith in a world where divine silence has made human devotion the only remaining light. His authenticity lies in his lack of hidden motives, narrative arcs, or manipulative intent. He does not seek power, recognition, or redemption—he seeks only to serve, suffer, and shine. In a setting filled with intrigue and ambition, Giles stands as a quiet monument to the power of sincere, uncomplicated belief.
+
+## Related
+
+- [[thistle-wendrod]]
+- [[harbin-wester]]

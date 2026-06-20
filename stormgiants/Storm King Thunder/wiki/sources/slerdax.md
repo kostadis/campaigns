@@ -26,7 +26,7 @@ related: []
 - **Strength of Evidence**: Strong, based on detailed description and context provided.
 
 ### Connections to Existing Wiki
-- **Existing Pages**: [[ravenloft]], [[minor-ravenloft-lords]], [[unla-kee]], [[curse-of-slerdax]], [[teleportation-circle]].
+- **Existing Pages**: [[ravenloft]], [[lords-alliance]], [[unla-kee]], [[slerdax]], [[teleportation-circle]].
 - **Impact**: Strengthens understanding of Slerdax's character and motivations, extends knowledge about Ravenloft domains and curses.
 
 ### Contradictions & Tensions
@@ -34,6 +34,10 @@ related: []
 - **External Tension**: Potential conflict with the party if they attempt to rescue him without understanding his curse.
 
 ### Recommendations
-- **Pages to Create or Update**: [[slerdax]], [[curse-of-slerdax]], [[teleportation-circle]].
+- **Pages to Create or Update**: [[slerdax]], [[slerdax]], [[teleportation-circle]].
 - **Emphasis**: Highlight the nature of Slerdax's curse and the implications for his interactions with others.
 - **Open Questions**: How does Slerdax's curse affect his interactions with the party and other characters in the narrative universe?
+
+## Related
+
+- [[sleth]]

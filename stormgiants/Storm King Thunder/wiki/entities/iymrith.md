@@ -15,7 +15,7 @@ sources: ["campaign_state-20260520.md", "blagothkus.md", "iymrith.md"]
 - **True Identity:** Ancient Blue Dragon.
 - **Aliases:** [[iymrith]].
 - **Affiliations:** Linked to the [[kraken-society]].
-- **Current Status:** Following her exposure at the [[maelstrom]], she has fled to her lair. She is the primary antagonist for the upcoming assault.
+- **Current Status:** Following her exposure at the [[the-maelstrom-2026-06-06-002449]], she has fled to her lair. She is the primary antagonist for the upcoming assault.
 - **Tactical Note:** She holds [[laela]] captive in her lair.
 
 ## Strategic Context

@@ -1,8 +1,8 @@
 ---
 type: source
 title: "Source: cindell_trueshot.md"
-created: 2026-05-13
-updated: 2026-05-13
+created: 2026-06-05
+updated: 2026-06-05
 sources: ["cindell_trueshot.md"]
 tags: []
 related: []
@@ -10,43 +10,34 @@ related: []
 
 # Source: cindell_trueshot.md
 
-### Key Entities
-- **Cindell Trueshot**: Wealthy noblewoman, cleric, resident of Westpharl Ranch, mayoral candidate, political rival to Darathra Shendrel.
-- **Hyuth Kolstaag**: Newcomer despised by Cindell for disrupting social order and class distinctions.
-- **Darathra Shendrel (Darthara)**: Current Lord Protector, viewed by Cindell as a Harper stooge and ineffective leader.
-- **Orsik**: Known to Cindell through a ticket-sales conversation, possibly a legal troublemaker in Waterdeep.
-- **Thistle**: Influenced by Cindell to sign the assassination contract, then sabotaged it.
-- **Urgala**: Surprised and disturbed by Cindell’s willingness to arrange a killing.
-- **Darz**: Raised from the dead by Cindell, relationship undefined.
+## Key Entities
 
-### Key Concepts
-- **Assassination Scheme**: Cindell's plan to kill Hyuth Kolstaag, exposed by Thistle.
-- **Political Maneuvering**: Cindell's efforts to shift Triboar's political alignment and gain control.
-- **Community Solidarity**: Publicly performing cleric services to undermine Darathra's image.
-- **Waterdhavian Influence**: Cindell's established connections and profile among Waterdhavians.
+| Name | Type | Role | Status |
+| :--- | :--- | :--- | :--- |
+| **Cindell Trueshot** | NPC (Noble/Cleric) | **Central**: A wealthy, politically ambitious noblewoman and cleric. She is a primary antagonist in the local political landscape of Triboar. | New Entity |
+| **Darathra Shendrel ("Darthara")** | NPC (Leader) | **Central**: The current Lord Protector of Triboar and Cindell's primary political rival. | New Entity |
+| **Orsik** | NPC (Merchant/Owner) | **Central**: Owner of the Talking Troll; has a complex, potentially personal history with Cindell. | Existing |
+| **Thistle Wendrod** | NPC (Analyst) | **Central**: The strategist who intentionally saboted Cindell's assassination plot. | Existing |
+| **Urgala** | NPC (Party Member) | **Central**: A party member who witnessed the "cold-blooded" nature of Cindell’s contract. | Existing |
+| **Hyuth Kolstaag** | NPC (Target) | **Peripheral**: A "classless" newcomer whom Cindell intended to have assassinated. | New Entity |
+| **Kaelen Sarssir** | NPC (Artist/Director) | **Peripheral**: Aware of Cindell's social standing in Waterdeep; used her as a marketing tool. | Existing |
+| **Darz** | NPC (Undead/Resurrected) | **Peripheral**: A character revived by Cindell for political optics. | New Entity |
 
-### Main Arguments & Findings
-- **Core Claims**: Cindell is a powerful and politically savvy noblewoman who seeks to unseat Darathra Shendrel and shift Triboar's allegiance away from the Harpers towards the Lord's Alliance.
-- **Evidence**: 
-  - Thistle's exposure of the assassination contract to Darathra and Urgala.
-  - Cindell's public performance of cleric services to undermine Darathra's image.
-  - Her attempts to build alliances with the ranch-owning class.
-- **Strength of Evidence**: Strong, as evidenced by the exposure of her assassination scheme and the subsequent political fallout.
+## Key Concepts
 
-### Connections to Existing Wiki
-- **[[Triboar]]**: Cindell's activities and political maneuvering are central to the politics of Triboar.
-- **[[Lord's Alliance]]**: Her efforts to shift Triboar's allegiance align with the goals of the Lord's Alliance.
-- **Harpers**: Her opposition to the Harpers is evident in her political rivalry with Darathra.
+| Name | Definition | Significance | Status |
+| :--- | :--- | :--- | :--- |
+| **Political Maneuvering** | Framing self-interest as civic duty; using public acts (like *Raise Dead*) to gain political leverage. | Defines Cindell's primary mode of interaction with the world. | New Concept |
+| **Contractual Trap** | A formal agreement used as a weapon; Cindell’s "clumsy" assassination contract became her own undoing. | Highlights the risk of engaging in illicit dealings with high-status NPCs. | New Concept |
+| **Social Cachet** | The value of a person's reputation (e.g., Cindell as a Waterdhavian draw) used for marketing/influence. | Explains why Kaelen and others sought her involvement. | New Concept |
+| **Class-Based Contempt** | Dismissal of individuals based on social standing rather than capability; Cindell's view of Hyuth and Darathra. | Establishes the social friction in Triboar. | New Concept |
 
-### Contradictions & Tensions
-- **Internal Contradiction**: Cindell's public portrayal of herself as a community benefactor clashes with her private cynicism and calculated political maneuvers.
-- **External Tension**: Her assassination scheme against Hyuth Kolstaag was exposed, leading to a significant setback in her political ambitions.
+## Main Arguments & Findings
+*   **Political Conflict:** The core narrative arc for this region is a "cold war" between Cindell (representing the landed gentry/Lord's Alliance) and Darathra (representing the Harpers). 
+*   **The Failed Conspiracy:** Cindell attempted to use the party as a proxy for an assassination. This failed because she underestimated Thistle’s ability to recognize and weaponize her "clumsy" tactics.
+*   **Public vs. Private Persona:** Cindell performs "community service" (reviving Darz) specifically to create a public image of competence that contrasts with Darathra's "toothless" leadership.
+*   **Evidence Strength:** The evidence for her villainy is high but currently "trapped" in the contract held by Darathra, meaning her downfall is imminent unless she
 
-### Recommendations
-- **Create or Update Pages**: [[Cindell Trueshot]], [[Hyuth Kolstaag]], [[Darathra Shendrel]], [[Lord's Alliance]], [[Triboar]], [[Waterdhavians]]
-- **Emphasize**: Political maneuvering, alliances, and the shifting allegiances within Triboar.
-- **De-emphasize**: Internal contradictions and minor details.
-- **Open Question**: How will Cindell respond to the political fallout from the assassination scheme exposure?
+## Related
 
-### Folder Context
-- **Papers/Triboar**: This source is directly related to the politics and events unfolding in Triboar, making it
+- [[duchess_tartha]]

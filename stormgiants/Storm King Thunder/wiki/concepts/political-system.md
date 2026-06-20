@@ -9,3 +9,7 @@ sources: ["dral_thelev.md"]
 ---
 # Political System
 The set of rules, institutions, and procedures that govern the operation of political entities within the political landscape of Everlund, including the legal framework, administrative structures, and electoral processes.
+
+## Related
+
+- [[civic_order]]

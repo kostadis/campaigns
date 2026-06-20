@@ -1,8 +1,8 @@
 ---
 type: source
 title: "Source: cap_n_squint.md"
-created: 2026-05-13
-updated: 2026-05-13
+created: 2026-06-05
+updated: 2026-06-05
 sources: ["cap_n_squint.md"]
 tags: []
 related: []
@@ -10,68 +10,44 @@ related: []
 
 # Source: cap_n_squint.md
 
-### Key Entities
-- **Cap'n Squint**: Merchant, captain, and owner of a barge; halfling.
-  - Type: Person
-  - Role: Central figure in the narrative
-  - Likely Exists in Wiki: Yes
-- **Imber Chen**: Former crewmate and friend of Cap'n Squint.
-  - Type: Person
-  - Role: Peripheral to the main narrative
-  - Likely Exists in Wiki: Yes
-- **Lord Khaspere Drylund**: Guest on Drylund's vessel the night before departure.
-  - Type: Person
-  - Role: Peripheral to the main narrative
-  - Likely Exists in Wiki: Yes
+## Key Entities
 
-### Key Concepts
-- **Halfling**: A race of small humanoids.
-  - Definition: Small humanoid race.
-  - Relevance: Highlights Cap'n Squint's unique physical stature.
-  - Likely Exists in Wiki: Yes
-- **Barge**: A flat-bottomed boat used for transportation.
-  - Definition: Flat-bottomed watercraft.
-  - Relevance: Central mode of transportation for Cap'n Squint.
-  - Likely Exists in Wiki: Yes
-- **River Surbin**: A river in the setting.
-  - Definition: Major river in the region.
-  - Relevance: Specifies the direction of travel for Cap'n Squint.
-  - Likely Exists in Wiki: Yes
+*   **Cap'n Squint** (Halfling)
+    *   **Role:** Central to this specific document; a merchant-mariner and transport provider for the party.
+    *   **Status:** New entity. Not currently in the wiki index.
+*   **Imber Chen**
+    *   **Role:** Peripheral/Contextual. A former colleague of Cap'n Squint who introduced him to the party.
+    *   **Status:** Not in current wiki index (may be a new NPC or from an un-indexed source).
+*   **Lord Khaspere Drylund**
+    *   **Role:** Peripheral/Contextual. Owner of the *Grand Dame*; associated with Cap'n Squint through gambling.
+    *   **Status:** Not in current wiki index.
 
-### Main Arguments & Findings
-- **Core Claims**:
-  - Cap'n Squint is a commanding and larger-than-life halfling captain who operates his own barge.
-  - He previously worked under Imber Chen and has since earned enough to purchase his own vessel.
-  - The party secured passage with him, and he departed with them heading north on the River Surbin toward Silverymoon.
-- **Evidence**:
-  - Direct description of Cap'n Squint’s personality and actions.
-  - Imber Chen’s account of their past friendship.
-  - The party’s interaction with Cap’n Squint during their journey.
-- **Strength of Evidence**:
-  - Strong, based on detailed descriptions and firsthand accounts.
+## Key Concepts
 
-### Connections to Existing Wiki
-- **Existing Pages**:
-  - [[halfling]] — Relevant for Cap'n Squint’s race.
-  - [[river-surbin]] — Relevant for the river’s name and direction of travel.
-  - silverymoon — Relevant for the destination.
-- **Impact**:
-  - Strengthens existing knowledge about halflings and river navigation.
-  - Extends understanding of the party’s journey and interactions.
+*   **Narrative Economy (Character Introduction)**
+    *   **Definition:** Introducing a character via "description only" before physical meeting to build atmosphere and establish status.
+    *   **Significance:** Used here to establish Squint's "larger-than-life" persona despite his small stature.
+    *   **Status:** Exists in wiki as [[narrative-economy]].
+*   **Merchant-Mariner Dynamics**
+    *   **Definition:** The role of a transport provider who operates independently but maintains social/professional ties to larger entities (like Drylund).
+    *   **Significance:** Establishes the "commoner" layer of the world's logistics.
+    *   **Status:** Related to [[cover-identity-as-merchant]] and [[interplanar-commercial-interests]], though Squint is a mundane maritime example.
 
-### Contradictions & Tensions
-- **Internal Tension**:
-  - Cap'n Squint’s large stature and commanding presence contrast with his halfling race, which might require clarification or elaboration.
-- **External Conflict**:
-  - No direct contradictions found with existing wiki content.
+## Main Arguments & Findings
+*   **Character Archetype:** Cap'n Squint serves as a "larger-than-life" archetype, using performance (barking orders, stomping planks) to project authority that contradicts his physical size.
+*   **Narrative Function:** He functions as a transitionary NPC—providing the party with passage while establishing a link to the local nobility (Drylund) and the merchant world.
+*   **Evidence Strength:** High for personality traits; Low for long-term plot significance (as he currently has no established goals or hidden motives).
 
-### Recommendations
-- **Pages to Create or Update**:
-  - [[cap-n-squint]] — Comprehensive page detailing Cap'n Squint’s character, history, and current status.
-  - [[halfling]] — Update to include Cap'n Squint’s specific traits and experiences.
-  - [[river-surbin]] — Add details about the river’s significance and geography.
-- **Emphasis**:
-  - Emphasize Cap’n Squint’s unique traits and his role in the party’s journey.
-  - De-emphasize internal tensions unless they significantly impact the narrative.
-- **Open Questions**:
-  - Clarify Cap’n Squint’s motivations and connect
+## Connections to Existing Wiki
+*   **[No direct links found in current index]**
+*   The character fits the "Merchant" archetype seen in **[[azam]]**, but lacks the layered intelligence/shadowy elements of that specific role.
+*   His presence on a luxury vessel (**Grand Dame**) and his gambling habits suggest a connection to the social strata of **Silverymoon**.
+
+## Contradictions & Tensions
+*   **Scale vs. Stature:** There is an intentional irony between his halfling size and his commanding persona. This should be maintained in descriptions to ensure he doesn't come across as "standard" halfling trope.
+*   **Ambiguity of Drylund:** The relationship with Lord Khaspere Drylund is currently a "blank slate." It could be a simple gambling debt or a deeper social connection; the wiki should note this as an open narrative hook.
+
+## Recommendations
+*   **New Page:** Create **[[cap-n-squint]]**.
+*   **New Page:** Create **[[imber-chen]]** (if he is to remain a relevant contact for the party).
+

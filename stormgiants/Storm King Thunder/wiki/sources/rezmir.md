@@ -28,9 +28,9 @@ related: []
 - **Strength of Evidence**: Strong, corroborated by both physical remains and written records.
 
 ### Connections to Existing Wiki
-- **[[cultural-religions]]**: Rezmir's role and the Cult of the Dragon suggest connections to religious practices and beliefs.
-- **[[cults-and-secret-groups]]**: The Cult of the Dragon represents a secretive group with specific rituals and hierarchies.
-- **[[rituals-and-symbols]]**: The draconic ritual involves symbolic elements and movements, which can be linked to the hoard's movements.
+- **[[cultural-religious-superstition]]**: Rezmir's role and the Cult of the Dragon suggest connections to religious practices and beliefs.
+- **[[kraken-society]]**: The Cult of the Dragon represents a secretive group with specific rituals and hierarchies.
+- **[[syncretism-and-ritual-adaptation]]**: The draconic ritual involves symbolic elements and movements, which can be linked to the hoard's movements.
 
 ### Contradictions & Tensions
 - **Internal Conflicts**: The tension between Rezmir and internal auditors highlights potential contradictions in the cult's internal dynamics.

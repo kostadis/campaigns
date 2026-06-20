@@ -43,10 +43,15 @@ related: []
   - [[wild-magic-surge]] — Detailed explanation of the phenomenon.
   - [[restitution]] — Definition and discussion of the concept.
 - **Update Pages**: 
-  - [[wizard-of-the-crag]] — Incorporate Elquen's story and its implications.
-  - [[elquen-the-wight]] — Expand on his personality, motivations, and relationships.
+  - [[hat-of-wizardry]] — Incorporate Elquen's story and its implications.
+  - [[the_wight_elquen]] — Expand on his personality, motivations, and relationships.
 - **Emphasize**: 
   - Elquen's journey from servant to guardian, and his transition to a new phase of his life.
   - The impact of the wild magic surge on both Elquen and the Wizard of the Crag.
 - **Open Question**: 
   - Investigate Elquen's intentions and plans after relinquishing his role as the library's guardian.
+
+## Related
+
+- [[eryn]]
+- [[tolmarra]]

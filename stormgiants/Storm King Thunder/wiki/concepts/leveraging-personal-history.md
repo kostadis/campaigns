@@ -35,3 +35,7 @@ It also reveals Jenna’s patience: she planted the seed long before the party a
 
 ## Implications
 This concept suggests that the Lord’s Alliance does not react to the party — it anticipates them. Their influence is not reactive; it is *archival*. Every letter, every rumor, every whispered word may be part of a longer game.
+
+## Related
+
+- [[targeted-recruitment-via-personal-needs]]

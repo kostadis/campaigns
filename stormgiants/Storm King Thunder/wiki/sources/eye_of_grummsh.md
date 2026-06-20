@@ -1,8 +1,8 @@
 ---
 type: source
 title: "Source: eye_of_grummsh.md"
-created: 2026-05-13
-updated: 2026-05-13
+created: 2026-06-06
+updated: 2026-06-06
 sources: ["eye_of_grummsh.md"]
 tags: []
 related: []
@@ -10,34 +10,52 @@ related: []
 
 # Source: eye_of_grummsh.md
 
-### Key Entities
-- **Eye of Grummsh**: Shaman of Grummsh; religious leader among the cave-complex orc warband. Type: Person. Role: Central. Likely exists in the wiki.
-- **Unla Kee**: Member of the party. Type: Person. Role: Peripheral. Likely exists in the wiki.
-- **Acolyte of Grummsh**: Acquaintance of Eye of Grummsh. Type: Person. Role: Peripheral. Likely exists in the wiki.
+## Key Entities
 
-### Key Concepts
-- **Shaman of Grummsh**: Religious leader serving as a spiritual authority and battle-priest. Type: Concept. Role: Central. Not likely to exist in the wiki.
-- **Cave-complex orc warband**: The group Eye of Grummsh led. Type: Concept. Role: Peripheral. Likely exists in the wiki.
+*   **Eye of Grummsh** (Person/Title)
+    *   **Role:** Shaman of Grummsh and religious leader for a cave-complex orc warband.
+    *   **Status:** Central to the local lore of the "cave complex" arc, though he is deceased.
+    *   **Wiki Status:** New entry required.
+*   **Grummsh** (Deity/Entity)
+    *   **Role:** The deity to whom the Shaman and his acolytes are devoted.
+    *   **Status:** Peripheral (implied by title).
+    *   **Wiki Status:** Likely exists or should be linked as a primary deity of the Orcs.
+*   **Unla Kee** (Person)
+    *   **Role:** Party member targeted by an acolyte of the Eye of Grummsh.
+    *   **Status:** Central (Player Character).
+    *   **Wiki Status:** Already exists in the index.
+*   **Acolyte of Grummsh** (NPC/Group)
+    *   **Role:** A subordinate follower of the Eye of Grummsh who attacked Unla Kee.
+    *   **Status:** Peripheral; serves as a narrative link to the Shaman's authority.
+    *   **Wiki Status:** May be merged into "Eye of Grummsh" or kept as a minor note.
 
-### Main Arguments & Findings
-- **Core Claims**: 
-  - Eye of Grummsh was a shaman of Grummsh, serving as a spiritual authority and battle-priest for the cave-complex orc warband.
-  - He was killed during the battle in the cave complex, with an acolyte of Grummsh attacking Unla Kee.
-- **Evidence Supporting Claims**:
-  - His role as a shaman of Grummsh is inferred from his position as a religious leader.
-  - The attack on Unla Kee by his acolyte confirms his leadership status.
-- **Strength of Evidence**: Strong, supported by the narrative of the battle and the attack.
+## Key Concepts
 
-### Connections to Existing Wiki
-- **Existing Pages**: [[grummsh]], [[orc-warband]], [[unla-kee]], [[shaman]], [[acolyte]], [[battle]]
-- **Knowledge Strengthened**: Provides context about the religious and military hierarchy within the orc warband.
-- **Knowledge Extended**: Adds detail about the specific roles and actions of key figures in the battle.
+*   **Shamanic Leadership**
+    *   **Definition:** Spiritual and battle-oriented leadership within an orcish warband.
+    *   **Significance:** Establishes the religious hierarchy of the cave complex enemies.
+    *   **Wiki Status:** Likely exists under "Orc" or "Religion" related pages.
+*   **Posthumous Discovery**
+    *   **Definition:** The discovery of an NPC's body to establish lore without active interaction.
+    *   **Significance:** Used here to establish the presence of a religious authority in the cave without requiring a live encounter.
+    *   **Wiki Status:** Not a standalone concept; part of narrative design.
 
-### Contradictions & Tensions
-- None apparent in the given information.
+## Main Arguments & Findings
 
-### Recommendations
-- **Pages to Create or Update**: [[eye-of-grummsh]], [[grummsh-shaman]], [[orc-warband-religion]]
-- **Emphasis**: Highlight the role of Eye of Grummsh as a shaman and his significance within the orc warband.
-- **Open Questions**: Further details about the broader organization and purpose of the cave-complex orc warband would be beneficial.
-- **Flagged for User**: Potential for expansion into the wiki regarding the religious and military structures of orc warbands.
+*   **Authority through Presence:** The existence of the "Eye of Grummsh" confirms that the orc warband was not merely a disorganized rabble but had a structured religious hierarchy.
+*   **Evidence of Organization:** The fact that an acolyte specifically identified as his follower attacked Unla Kee provides evidence of a chain of command and shared identity among the enemies.
+*   **Narrative Utility:** The character serves primarily as a "flavor" element to flesh out the world's religion (Grummsh) and the scale of the threat in the cave complex.
+
+## Connections to Existing Wiki
+
+*   **[[unla-kee]]**: Directly linked via the interaction with his acolyte.
+*   **[[orc-coordination-mechanisms]]**: The existence of a Shaman suggests a higher level of coordination than simple "brute force," supporting the theory that orc behavior in this region is structured.
+
+## Contradictions & Tensions
+
+*   **Lack of Interaction:** Because the character was found dead, there is no way to confirm his specific personality or personal motivations beyond his title.
+*   **Ambiguous Identity:** It is unknown who killed him or what his specific role in the "cave complex" strategy was, creating a gap between his status as a leader and his actual actions.
+
+## Recommendations
+
+*   **Create/U

@@ -4,7 +4,7 @@ title: Toblen Stonehill
 created: 2025-05-22
 updated: 2025-05-22
 tags: [npc, proprietor, phandalin]
-related: [stonehill-inn, phandalin, vukradin, brewbarry, valphine, lyra, ser-kaelen]
+related: ["stonehill-inn", "phandalin", "vukradin", "brewbarry", "valphine", "lyra"]
 sources: ["toblen_stonehill.md"]
 ---
 # Toblen Stonehill
@@ -21,7 +21,7 @@ He is famously known by the nickname **"Spider-Man"** (or various iterations the
 * **[[brewbarry]]**: Holds a favorable impression of the performer, having accepted him without hostility despite his skepticism regarding Toblen's nickname.
 * **[[valphine]]**: Maintains a neutral to tepid relationship following a lackluster performance by the party at his establishment.
 * **[[lyra]]**: Recognizes the inn as a social nexus for the party, often using it as a venue for celebrations.
-* **[[ser-kaelen]]**: Hosted Kaelen during recruitment conversations held at the inn.
+* **ser-kaelen**: Hosted Kaelen during recruitment conversations held at the inn.
 
 ## Intelligence Provided
 Toblen serves as a source of "low-stakes" regional intelligence, providing the party with observations on:

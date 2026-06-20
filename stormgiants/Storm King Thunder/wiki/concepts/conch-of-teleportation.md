@@ -11,4 +11,5 @@ sources: ["duke_zalto.md"]
 The Conch of Teleportation is a magical item found in Duke Zalto's bedchamber. Its discovery provides the party with a critical escape route and a means to potentially evade his forces.
 
 ## Related Pages
-- [[dungeon-ironslag]]
+- [[technology]]
+- [[ironslag]]

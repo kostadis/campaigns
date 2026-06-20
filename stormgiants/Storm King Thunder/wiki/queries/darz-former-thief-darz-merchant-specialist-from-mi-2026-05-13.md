@@ -9,3 +9,8 @@ related: []
 # Darz: Former Thief | Darz: Merchant Specialist from Mirabar
 
 Description: The source document suggests Darz has dual roles as a former thief and a merchant specialist from Mirabar. However, the wiki currently lacks a page that consolidates these roles. Creating a page that highlights his multifaceted identity could provide more context and depth to his character.
+
+## Related
+
+- [[clarify-darz-identity-2026-06-06-002519]]
+- [[clarify-captain-zoar-role-and-affiliation-2026-06-06-132859]]

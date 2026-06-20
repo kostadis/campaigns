@@ -1,8 +1,8 @@
 ---
 type: source
 title: "Source: wiri_fleagol.md"
-created: 2026-05-13
-updated: 2026-05-13
+created: 2026-06-06
+updated: 2026-06-06
 sources: ["wiri_fleagol.md"]
 tags: []
 related: []
@@ -10,79 +10,47 @@ related: []
 
 # Source: wiri_fleagol.md
 
-### Key Entities
-- **Wiri Fleagol:**
-  - **Name and Type:** Gnome, Individual
-  - **Role in the Source:** Central
-  - **Existing in Wiki:** Likely does not exist
-- **Ironslag:**
-  - **Name and Type:** Location
-  - **Role in the Source:** Peripheral
-  - **Existing in Wiki:** Likely does not exist
-- **Thistle:**
-  - **Name and Type:** Fairy
-  - **Role in the Source:** Peripheral
-  - **Existing in Wiki:** Likely does not exist
-- **Vardis:**
-  - **Name and Type:** Individual
-  - **Role in the Source:** Peripheral
-  - **Existing in Wiki:** Likely does not exist
-- **Orsik:**
-  - **Name and Type:** Individual
-  - **Role in the Source:** Peripheral
-  - **Existing in Wiki:** Likely does not exist
-- **3HPP:**
-  - **Name and Type:** Faction
-  - **Role in the Source:** Peripheral
-  - **Existing in Wiki:** Likely does not exist
-- **Silverymoon:**
-  - **Name and Type:** Location
-  - **Role in the Source:** Peripheral
-  - **Existing in Wiki:** Likely does not exist
-- **Yartar:**
-  - **Name and Type:** Location
-  - **Role in the Source:** Peripheral
-  - **Existing in Wiki:** Likely does not exist
-- **Triboar:**
-  - **Name and Type:** Location
-  - **Role in the Source:** Peripheral
-  - **Existing in Wiki:** Likely does not exist
+## Key Entities
+*   **Wiri Fleagol** (Person)
+    *   **Role:** Central to the Ironslag encounter; a former slave turned civilian.
+    *   **Status:** Likely already exists in the wiki as a new entry.
+*   **Thistle Wendrod** (Person)
+    *   **Role:** Party member/ally; interacted with Wiri regarding her recognition of his fae nature and the Silverymoon narrative.
+    *   **Status:** Already exists in the wiki.
+*   **Vardis** (Person)
+    *   **Role:** Party member; had a tense interaction with Wiri regarding her past enslavement.
+    *   **Status:** Already exists in the wiki.
+*   **Orsik** (Person)
+    *   **Role:** Party member/leader figure; provided Wiri with information on Triboar and the 3HPP.
+    *   **Status:** Already exists in the wiki.
+*   **Ironslag** (Location)
+    *   **Role:** The site of her enslavement and subsequent liberation.
+    *   **Status:** Not explicitly in the index, but likely a key location for the "underground" arc.
+*   **Yartar / Triboar** (Locations)
+    *   **Role:** Potential destinations for Wiri; locations where she intends to establish a farm.
+    *   **Status:** Yartar is mentioned in existing concepts; Triboar is a known settlement.
+*   **Duke Zalto** (Person/Location)
+    *   **Role:** Mentioned as the location of the "Conch of Teleportation."
+    *   **Status:** Already exists in the wiki.
+*   **3HPP** (Organization)
+    *   **Role:** The party's faction; Wiri recognizes their reputation.
+    *   **Status:** Exists as a core concept/faction.
 
-### Key Concepts
-- **Pragmatism:** Core trait of Wiri Fleagol
-- **Silverymoon Story:** Narrative discrepancy between Wiri and Thistle
-- **Conch of Teleportation:** Artifact location speculation
-- **3HPP:** Reputation-based faction
+## Key Concepts
+*   **Intelligence for Coin:** A transactional approach to interaction where information is treated as a commodity rather than a favor.
+*   **Silverymoon Skepticism:** The specific narrative friction regarding the failure of Silverymoon to protect the Silver Marches during invasions.
+*   **Underground Trauma:** Wiri’s desire to never work underground again serves as a thematic marker for the physical and psychological toll of mining/enslavement.
 
-### Main Arguments & Findings
-- **Core Claims:**
-  - Wiri Fleagol is a former enslaved gnome who has been freed and is now seeking to leave Ironslag, buy a farm, and avoid working underground.
-  - She trades intelligence for coin and distrusts Thistle’s account of events in Silverymoon.
-  - She plans to travel to either Yartar or Triboar.
-- **Evidence Supporting Claims:**
-  - Her pragmatic approach to trading intelligence for coin.
-  - Detailed information about Ironslag’s layout provided to the party.
-  - Speculation about the Conch of Teleportation’s location.
-- **Strength of Evidence:**
-  - Direct statements and actions by Wiri Fleagol.
-  - Specific details about Ironslag’s layout.
-  - Speculative information about artifact locations.
+## Main Arguments & Findings
+*   **Wiri's Characterization:** She is defined by **pragmatism**. Unlike many NPCs who might be portrayed as "grateful victims," Wiri is depicted as a business-minded survivor who treats her freedom as a transition to a new life, not just an escape from the old one.
+*   **Information Value:** Her detailed knowledge of Ironslag (ore processing, foundry, Great Wheel) provides significant world-building regarding the scale and brutality of the mining operations.
+*   **Social Dynamics:** The interaction with Vardis highlights her resilience; she is not a passive character but someone who actively defends her dignity against condescension.
 
-### Connections to Existing Wiki
-- **Existing Pages:**
-  - Likely no direct connections to existing pages.
-- **Impact:**
-  - Could enrich the narrative universe by providing more depth to the character of Wiri Fleagol and her motivations.
-  - Adds context to the Silverymoon story discrepancy.
+## Connections to Existing Wiki
+*   **Thistle Wendrod:** Strengthens his role as a recognizable fae figure (she identified him correctly).
+*   **Orsik & 3HPP:** Connects the party's reputation to the local geography of Triboar and Yartar.
+*   **Ironslag/Underground Arc:** Provides a "human" face (or gnome face) to the consequences of the mining ind
 
-### Contradictions & Tensions
-- **Silverymoon Story Discrepancy:**
-  - Wiri’s skepticism of Thistle’s account highlights a potential contradiction in the narrative.
+## Related
 
-### Recommendations
-- **Create New Pages:**
-  - **Wiri Fleagol:** Comprehensive page detailing her background, motivations, and current status.
-  - **Ironslag:** Brief page summarizing the location and its significance.
-  - **Silverymoon:** Page elaborating on the discrepancy in the story.
-- **Emphasize:**
-  - Highlight Wir
+- [[maergun]]

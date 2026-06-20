@@ -4,7 +4,7 @@ title: Ritualized Resource Extraction
 created: 2026-06-15
 updated: 2026-06-15
 tags: [ritual, labor, tradition, epistemology, cultural-practice]
-related: [dwolin-the-grout, earthstone-gem, sentient-veins, divine-oracle, ritualized-questioning, true-believer-verification, anti-interventionism-druidic]
+related: ["dwolin-the-grout", "earthstone-gem", "sentient-gold-veins", "divine-oracle", "ritualized-questioning", "true-believer-verification", "emerald-enclave"]
 sources: ["npcs/dwolin_the_grout.md"]
 ---
 # Ritualized Resource Extraction
@@ -18,3 +18,7 @@ This concept contrasts with corporate efficiency models, yet persists because it
 Ritualized Resource Extraction reveals that even under industrial oversight, folk epistemologies endure when they produce results. It is a form of [[tolerated-eccentricity-in-labor-hierarchies]] institutionalized through necessity.
 
 This concept bridges the gap between myth and labor, showing that belief systems are not relics — they are operational frameworks.
+
+## Related
+
+- [[sentient-gold-veins]]

@@ -4,7 +4,7 @@ title: Operational Intermediary
 created: 2025-05-22
 updated: 2025-05-22
 tags: [hierarchy, organization]
-related: [the-carver, jax]
+related: ["jax"]
 sources: ["jax.md"]
 ---
 # Operational Intermediary

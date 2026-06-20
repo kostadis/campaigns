@@ -30,3 +30,7 @@ sources: ["everard_barney.md"]
 - **Tags:** [theater, playwriting]
 - **Related:** []
 - **Sources:** ["everard_barney.md"]
+
+## Related
+
+- [[synthesis]]

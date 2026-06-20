@@ -11,4 +11,12 @@ sources: ["duke_zalto.md"]
 Legends and myths play a significant role in the narrative, providing context and inspiration for the party's quest. They offer clues and guidance, shaping the party's understanding of their surroundings and their ultimate goal.
 
 ## Related Pages
-- [[dungeon-ironslag]]
+- [[vonindod]]
+- [[religion]]
+- [[strategy]]
+- [[ragnarok]]
+- [[philosophy]]
+- [[technology]]
+- [[quest]]
+- [[lore]]
+- [[ironslag]]

@@ -9,7 +9,7 @@ sources: ["bad_fruul.md"]
 ---
 # Parnast
 
-A town under siege by [[Bad Fruul]] and his horde, Parnast became the focal point of a major battle that ended with the warlord’s death. Its strategic location and recent installation of the statue of Angharradh made it a symbolic target — the destruction of the statue was not mere looting, but an act of [[symbolic-targeting-of-cultural-artifacts]] intended to erase cultural identity.
+A town under siege by [[bad-fruul]] and his horde, Parnast became the focal point of a major battle that ended with the warlord’s death. Its strategic location and recent installation of the statue of Angharradh made it a symbolic target — the destruction of the statue was not mere looting, but an act of [[symbolic-targeting-of-cultural-artifacts]] intended to erase cultural identity.
 
 The town’s militia, underestimated by Bad Fruul’s intelligence network, proved more capable than expected, contributing to his tactical failure. The battle marked a turning point in regional security, eliminating a major independent threat and exposing the vulnerabilities of both the Zhentarim and Lord’s Alliance in monitoring rogue actors.
 

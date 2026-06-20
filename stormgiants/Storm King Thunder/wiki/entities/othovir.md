@@ -246,3 +246,7 @@ Description of what needs the user's attention.
 OPTIONS: Create Page | Skip
 PAGES: wiki/entities/
 SEARCH: othovir
+
+## Related
+
+- [[othovir]]

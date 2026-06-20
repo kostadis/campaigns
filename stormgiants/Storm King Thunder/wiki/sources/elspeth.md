@@ -1,8 +1,8 @@
 ---
 type: source
 title: "Source: elspeth.md"
-created: 2026-05-13
-updated: 2026-05-13
+created: 2026-06-06
+updated: 2026-06-06
 sources: ["elspeth.md"]
 tags: []
 related: []
@@ -10,70 +10,47 @@ related: []
 
 # Source: elspeth.md
 
-### Key Entities
-- **Elspeth:**
-  - Type: Person
-  - Role: Barmaid / Tavern Staff
-  - Peripheral
-  - Likely Exists in Wiki
-- **Ragnar:**
-  - Type: Person
-  - Role: Employer/Colleague
-  - Peripheral
-  - Likely Exists in Wiki
-- **Orsik:**
-  - Type: Person
-  - Role: Party Member
-  - Peripheral
-  - Likely Exists in Wiki
-- **Wallace:**
-  - Type: Person
-  - Role: Party Member, Retired Adventurer
-  - Central
-  - Likely Exists in Wiki
-- **Golden Tankard:**
-  - Type: Location
-  - Role: Tavern
-  - Central
-  - Likely Exists in Wiki
+## Key Entities
 
-### Key Concepts
-- **Romantic Relationship:**
-  - Definition: A close emotional bond between two individuals, particularly one involving sexual attraction and affection.
-  - Importance: Indicates a significant personal connection within the narrative, affecting Wallace's decision to retire.
-  - Likely Exists in Wiki
-- **Retirement:**
-  - Definition: The act of ceasing work or activity, especially as a result of age or health issues.
-  - Importance: Wallace's retirement is a key plot point, influencing his future actions.
-  - Likely Exists in Wiki
+*   **Elspeth** (Person)
+    *   **Role:** Barmaid/Tavern staff at the Golden Tankard.
+    *   **Status:** Central to Wallace's personal narrative; peripheral to the main party plot.
+    *   **Wiki Status:** New entry required.
+*   **Wallace** (Person)
+    *   **Role:** Former party member, current Town Guard Captain of Parnast.
+    *   **Status:** Central to his own arc; linked to Elspeth as a primary motivation for retirement.
+    *   **Wiki Status:** Existing entry likely needs update/expansion regarding his transition from adventurer to guard captain and his relationship with Elspeth.
+*   **Ragnar** (Person)
+    *   **Role:** Colleague of Elspeth at the Golden Tankard.
+    *   **Status:** Peripheral; serves as a point of contact for Azam's prior interactions.
+    *   **Wiki Status:** Existing entry likely exists or needs update to reflect his role as an employer/colleague.
+*   **Azam** (Person)
+    *   **Role:** Merchant, caravan leader, and SEER operative.
+    *   **Status:** Central; established connection to the Golden Tankard staff.
+    *   **Wiki Status:** Already exists in wiki.
+*   **Orsik** (Person)
+    *   **Role:** Party member/ally.
+    *   **Status:** Central; observed the relationship between Elspeth and Wallace.
+    *   **Wiki Status:** Already exists in wiki.
 
-### Main Arguments & Findings
-- **Core Claims:**
-  - Elspeth is a central character in the story, serving as a significant romantic partner for Wallace, who decides to retire from adventuring due to their relationship.
-  - Wallace's retirement is a pivotal event in the narrative, impacting his future plans and the dynamics of the party.
-- **Evidence:**
-  - Elspeth serves as a barmaid at the Golden Tankard, where she serves the party food and drink at Ragnar's request.
-  - Wallace kisses Elspeth outside the tavern and promises to speak with her later, indicating a developing romantic relationship.
-  - Wallace announces his retirement, citing his relationship with Elspeth as a reason.
-- **Strength of Evidence:**
-  - Direct references to Elspeth's presence and interactions with the party.
-  - Wallace's explicit statement about retiring due to his relationship with Elspeth.
+## Key Concepts
 
-### Connections to Existing Wiki
-- **Existing Pages:**
-  - [[Golden Tankard]]: The tavern where Elspeth works and where Wallace and Elspeth interact.
-  - [[Parnast]]: The town where Wallace retires and where Elspeth and Wallace live together.
-  - [[Wallace]]: The character who retires and whose relationship with Elspeth is a central plot point.
-- **Impact:**
-  - Strengthens existing knowledge about the relationships and motivations within the party.
-  - Challenges preconceived notions about the party members' motivations and future plans.
+*   **Retirement Narrative:** The transition of a character from an active adventurer to a settled role (Town Guard Captain).
+    *   **Significance:** Highlights how personal relationships (Elspeth) can drive narrative conclusions for specific characters.
+    *   **Wiki Status:** May be integrated into Wallace's page or as part of "Quest as Emotional Trap" if his retirement was influenced by external pressures.
+*   **Narrative Economy (NPC):** Elspeth serves as a "functional" NPC who provides depth to another character without requiring extensive personal development.
+    *   **Significance:** Demonstrates the use of NPCs to ground party members in the world.
+    *   **Wiki Status:** Already exists in wiki under `narrative-economy`.
 
-### Contradictions & Tensions
-- **Internal Tension:**
-  - Wallace's decision to retire might seem contradictory if he were not deeply involved with Elspeth. However, the narrative provides clear evidence supporting this choice.
-- **External Conflict:**
-  - Wallace's retirement could potentially create tension with other party members, especially if they are still active adventurers.
+## Main Arguments & Findings
 
-### Recommendations
-- **Create or Update:**
-  - [[Golden Tankard]]: Ensure details about Elspeth's ro
+*   **Core Claim:** Elspeth serves as a primary catalyst for Wallace's character arc conclusion (retirement).
+*   **Evidence:** The text explicitly states that her relationship with him is "part of his reason" for leaving the party and becoming a guard captain.
+*   **Strength of Evidence:** High; she is the primary anchor for his transition from adventurer to local authority.
+
+## Connections to Existing Wiki
+
+*   **[[Wallace]]**: This source provides the specific motivation for his retirement and his new role as Town Guard Captain in Parnast.
+*   **[[Azam]]**: Confirms Azam's prior presence/influence at the Golden Tankard through his interaction with Elspeth and Ragnar.
+*   **[[Orsik]]**: Reinforces Orsik’s role as an observant member of the group who noticed the interpersonal dynamics between Wallace and Elspeth.
+*   **[[Parnast]]**: (Implicit) Establishes the location where Wa

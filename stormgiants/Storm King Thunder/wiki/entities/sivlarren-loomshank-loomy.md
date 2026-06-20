@@ -130,3 +130,7 @@ Description of what needs the user's attention.
 OPTIONS: Create Page | Skip
 PAGES: wiki/concepts/allfaiths-shrine-red-larch.md
 SEARCH: exiled cleric | Loomy's location | Loomy's shrine
+
+## Related
+
+- [[sivlarren_loomshank_loomy]]

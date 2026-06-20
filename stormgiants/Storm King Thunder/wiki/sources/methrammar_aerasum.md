@@ -72,3 +72,7 @@ related: []
 - **Evidence Supporting Core Claims:**
   - His role as High Lord and High Marshal.
   - His refusal to extradite Xamlyn Margas
+
+## Related
+
+- [[stroud]]

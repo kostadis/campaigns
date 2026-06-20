@@ -38,3 +38,7 @@ related: []
   - She is actively concerned with the escalating troll threat from the Evermoors and seeks solutions to protect her settlement.
 
 - **Evidence Supporting
+
+## Related
+
+- [[lady_alustriel_silverhand]]

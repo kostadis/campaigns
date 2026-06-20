@@ -43,14 +43,18 @@ related: []
 - **Existing Pages**:
   - [[intelligence-networks]] — Relevant for her role as a spymaster.
   - [[lord-alliance]] — Pertinent to her position within the Lord's Alliance.
-  - [[giant-lords]] — Related to her interest in the giant lord crisis.
+  - [[storm-giants]] — Related to her interest in the giant lord crisis.
   - [[zhentarim]] — Aligns with her adversarial stance against the Zhentarim.
-  - [[ancient-magical-manuscripts]] — Pertinent to her acquisition goal.
-  - [[peace-brokering]] — Relevant to her efforts to broker a peace between Giants and northern kingdoms.
+  - [[memory-suppression-via-magical-markings]] — Pertinent to her acquisition goal.
+  - [[transactional-diplomacy]] — Relevant to her efforts to broker a peace between Giants and northern kingdoms.
 - **Impact**:
   - Strengthens understanding of her role and objectives within the narrative universe.
   - Challenges preconceived notions about her motivations and capabilities.
 
 ### Contradictions & Tensions
 - **Contradictions**:
-  - Internal tension between her willingness to escalate threats 
+  - Internal tension between her willingness to escalate threats
+
+## Related
+
+- [[the-seer-organization-2026-06-05-184410]]

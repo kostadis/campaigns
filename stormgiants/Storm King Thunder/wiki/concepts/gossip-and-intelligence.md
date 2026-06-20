@@ -12,3 +12,8 @@ Gossip plays a significant role in the kobold tribe, serving as a primary means 
 
 ## Key Points
 - **Role in Intelligence:** Gossip is a vital tool for gathering and sharing intelligence within the kobold tribe.
+
+## Related
+
+- [[kobold-tribe]]
+- [[intelligence-networks]]

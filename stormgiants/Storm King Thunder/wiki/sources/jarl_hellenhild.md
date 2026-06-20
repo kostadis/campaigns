@@ -32,7 +32,7 @@ related: []
 - **Strength of Evidence**: Strong, corroborated by multiple events and her death being explicitly stated.
 
 ### Connections to Existing Wiki
-- **[[giant-lords]]**: Hellenhild is part of the giant lords assembled by Mirran.
+- **[[storm-giants]]**: Hellenhild is part of the giant lords assembled by Mirran.
 - **[[mirran]]**: She is associated with Mirran, though details about their relationship are limited.
 - **[[unla-kee]]**: She targeted Unla Kee with a fire explosion.
 - **[[thistle]]**: She threw a boulder at Thistle but missed.
@@ -41,7 +41,13 @@ related: []
 - None apparent based on the provided information.
 
 ### Recommendations
-- **Create Pages**: [[jarl-hellenhild]], [[giant-lords]], [[mirran]], [[unla-kee]], [[thistle]]
+- **Create Pages**: [[jarl_hellenhild]], [[storm-giants]], [[mirran]], [[unla-kee]], [[thistle]]
 - **Emphasize**: Details about Hellenhild's role, her interactions with other characters, and her death.
 - **Open Question**: Further details about her relationship with Mirran and the other giant lords.
 - **De-emphasize**: Specific details about her missed boulder throw, as they are less critical to her overall narrative.
+
+## Related
+
+- [[harshnag_the_grim]]
+- [[bad_fruul]]
+- [[jarl_storvald]]

@@ -4,7 +4,7 @@ title: Unregulated invention
 created: 2026-06-15
 updated: 2026-05-27
 tags: [technology, ethics, experimentation, institutional-failure, technological-risk, moral-blind-spot, innovation-ethics]
-related: ["gnomengarde", "evidence-based-pragmatism", "fleeing-inventor-archetype", "innocent-as-test-subject", "fibblestib", "dabbledob", "harvesting-constructs-from-creature-entrails", "sanity-ray"]
+related: ["gnomengarde", "evidence-based-pragmatism", "fleeing-inventor-archetype", "innocent-as-test-subject", "fibblestib", "dabbledob", "harvesting-constructs-from-creature-entrails", "technology-as-cure"]
 sources: ["npcs/facktore.md", "npcs/fibblestib.md"]
 ---
 # Unregulated invention
@@ -20,3 +20,7 @@ This form of innovation is more dangerous than Facktore’s because it is invisi
 Unregulated invention, therefore, is not merely reckless — it is *institutionally enabled*. Whether through neglect (Facktore) or complicity (Fibblestib), the failure lies in the system’s inability to distinguish between technical compliance and ethical integrity. This concept challenges the assumption that rationality, structure, or procedural adherence guarantee responsible innovation. It demands a reevaluation of what constitutes ethical oversight: not just rules, but the moral courage to enforce them.
 
 > **Key insight**: Unregulated invention thrives not only in the shadows of absence, but in the glare of institutional legitimacy.
+
+## Related
+
+- [[technology-as-cure]]

@@ -42,13 +42,13 @@ related: []
 
 ### Connections to Existing Wiki
 - **Existing Pages**:
-  - [[Angharradh]]: Luistarra’s deity.
-  - [[Evereska]]: Location of Luistarra’s village.
-  - [[Narcellia Varam'myr]]: Opponent of Luistarra.
-  - [[Chandra Stol]]: Target of Narcellia’s plans.
-  - [[Pendants]]: Artifacts passed down through Luistarra’s family.
-  - [[Headbands of Intellect]]: Magical items used by Luistarra.
-  - [[Teleportation Circles]]: Tools used by Luistarra.
+  - [[grindle-2026-06-06-042021]]: Luistarra’s deity.
+  - [[grindle-2026-06-06-042021]]: Location of Luistarra’s village.
+  - [[narcellia-varammyr]]: Opponent of Luistarra.
+  - [[chandra_stol]]: Target of Narcellia’s plans.
+  - [[grindle-2026-06-06-042021]]: Artifacts passed down through Luistarra’s family.
+  - [[refine-offer-of-ignorance-vs-transactional-allianc-2026-06-06-042019]]: Magical items used by Luistarra.
+  - [[teleportation-circle]]: Tools used by Luistarra.
   - [[Overview]]: Comprehensive summary of the narrative universe.
 - **Impact**:
   - Strengthens existing knowledge about Luistarra’s backstory and her role in the narrative.

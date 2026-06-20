@@ -11,4 +11,12 @@ sources: ["duke_zalto.md"]
 Ethical considerations guide the party's actions and decisions. They must navigate complex moral dilemmas, balancing their quest for power and knowledge with the principles they hold dear.
 
 ## Related Pages
-- [[dungeon-ironslag]]
+- [[ethical-negotiation]]
+- [[legend]]
+- [[faith]]
+- [[religion]]
+- [[lore]]
+- [[technology]]
+- [[strategy]]
+- [[philosophy]]
+- [[ironslag]]

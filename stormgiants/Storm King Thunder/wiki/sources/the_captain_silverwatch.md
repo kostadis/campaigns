@@ -32,14 +32,18 @@ related: []
 - **Strength of Evidence:** Strong, as evidenced by the Captain's consistent behavior and the corroboration from the High Priest of Mielikki.
 
 ### Connections to Existing Wiki
-- The Captain (Silverwatch) relates to existing pages such as silverymoon, [[star-court]], and [[due-process]]. It strengthens the narrative by providing a central authority figure within the city of Silverymoon.
-- The Captain's interactions with the party and the temple detour suggest potential connections to [[demonology]] and [[demons]], further extending the wiki's scope.
+- The Captain (Silverwatch) relates to existing pages such as silverymoon, [[the_judge_star_court]], and [[due-process]]. It strengthens the narrative by providing a central authority figure within the city of Silverymoon.
+- The Captain's interactions with the party and the temple detour suggest potential connections to [[does-summoning-ritual-cause-demons-to-appear]] and [[demon]], further extending the wiki's scope.
 
 ### Contradictions & Tensions
 - There are no contradictions noted between the source and existing wiki content.
 
 ### Recommendations
-- Create or update pages for [[captain-silverwatch]], silverymoon, and [[star-court]].
+- Create or update pages for [[the_captain_silverwatch]], silverymoon, and [[the_judge_star_court]].
 - Emphasize the Captain's role as a neutral authority figure and his pragmatic approach to handling the situation.
 - Consider adding a page for [[due-process]] to provide more context on the importance of the Captain's actions.
 - Flag the need for additional context on the Captain's background and motivations, as well as the nature of the demonic murder incident.
+
+## Related
+
+- [[captain_jolanth]]

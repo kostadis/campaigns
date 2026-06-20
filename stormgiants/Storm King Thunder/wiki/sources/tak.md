@@ -53,3 +53,7 @@ related: []
   - The exact nature of their feelings remains ambiguous, creating tension.
 - **Tensions**:
   - The formal evacuation agreement contrasts with the unspoken romantic fe
+
+## Related
+
+- [[worug]]

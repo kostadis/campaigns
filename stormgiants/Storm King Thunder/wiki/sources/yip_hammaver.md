@@ -1,8 +1,8 @@
 ---
 type: source
 title: "Source: yip_hammaver.md"
-created: 2026-05-13
-updated: 2026-05-13
+created: 2026-06-06
+updated: 2026-06-06
 sources: ["yip_hammaver.md"]
 tags: []
 related: []
@@ -10,72 +10,44 @@ related: []
 
 # Source: yip_hammaver.md
 
-### Key Entities
-- **Yip Hammaver**
-  - **Name and Type:** Individual, Person
-  - **Role in the Source:** Central
-  - **Likely Exists in Wiki:** Yes
-- **House Hammaver**
-  - **Name and Type:** Organization, Family
-  - **Role in the Source:** Peripheral
-  - **Likely Exists in Wiki:** Yes
-- **Mirabar**
-  - **Name and Type:** Location
-  - **Role in the Source:** Peripheral
-  - **Likely Exists in Wiki:** Yes
-- **Orsik (as "John Husteem")**
-  - **Name and Type:** Individual, Person
-  - **Role in the Source:** Peripheral
-  - **Likely Exists in Wiki:** Yes
-- **Tack Proudfoot**
-  - **Name and Type:** Individual, Person
-  - **Role in the Source:** Peripheral
-  - **Likely Exists in Wiki:** Yes
+## Key Entities
 
-### Key Concepts
-- **Social Networking**
-  - **Definition:** The practice of facilitating connections between people for mutual benefit
-  - **Matters in Source:** Central to Yip's motivations and actions
-  - **Likely Exists in Wiki:** Yes
-- **Misjudgment**
-  - **Definition:** Incorrect assessment or evaluation of a person or situation
-  - **Matters in Source:** Demonstrated by Yip's poor judgment of Tack Proudfoot
-  - **Likely Exists in Wiki:** Yes
-- **Sanctuary**
-  - **Definition:** Legal protection granted to individuals in times of duels or disputes
-  - **Matters in Source:** Used by Orsik to resolve the standoff with Tack Proudfoot
-  - **Likely Exists in Wiki:** Yes
+*   **Yip Hammaver** (Person)
+    *   **Role:** Central NPC for the Mirabar social arc. He serves as a "social scion" and local guide.
+    *   **Status:** Likely exists in the wiki as a new entry or an update to a "Mirabar Social Circle" page.
+*   **Orsik / "John Husteem"** (Person)
+    *   **Role:** Central party-adjacent figure. Yip interacts with him under his false identity.
+    *   **Status:** Already exists in the wiki (see `[[orsik]]`).
+*   **Tack Proudfoot** (Person)
+    *   **Role:** Peripheral antagonist/rival. Used as a foil to demonstrate Yip's poor social judgment.
+    *   **Status:** Likely exists or should be added to the "Mirabar" related pages.
+*   **House Hammaver** (Organization)
+    *   **Role:** Central setting element; a noble house in Mirabar.
+    *   **Status:** Should be added as a location/organization entry for Mirabar.
 
-### Main Arguments & Findings
-- **Core Claims:**
-  - Yip Hammaver is a social scion of House Hammaver, actively engaging in social networking and matchmaking.
-  - He befriended Orsik (as John Husteem) during a House Hammaver dinner.
-  - His misjudgment of Tack Proudfoot led to a humorous situation where Tack appeared in elite guard armor.
-  - Yip intends to facilitate romantic connections for Orsik in Mirabar's noble circles.
-  
-- **Evidence Supporting Claims:**
-  - Yip's role as a social guide and connector within Mirabar's noble circles.
-  - His advice to Orsik about Tack Proudfoot's abilities.
-  - His subsequent offer to introduce Orsik to eligible noble bachelors and bachelorettes.
-  
-- **Strength of Evidence:**
-  - Direct statements and actions of Yip Hammaver.
-  - Recorded interactions and outcomes involving Orsik and Tack Proudfoot.
+## Key Concepts
 
-### Connections to Existing Wiki
-- **Existing Pages Related:**
-  - [[House Hammaver]], [[Mirabar]], [[Sanctuary]]
-- **Impact on Knowledge:**
-  - Strengthens understanding of social dynamics within noble circles.
-  - Challenges preconceived notions about social judgment and misjudgment.
-  - Extends knowledge of how social networking operates in fictional settings.
+*   **Social Judgment vs. Reality** (Theme)
+    *   **Definition:** The gap between Yip’s perception of social status and the actual capabilities/intentions of others.
+    *   **Why it matters:** It highlights a recurring theme in the wiki: "Information Asymmetry" and the danger of misinterpreting outward appearances (e.g., Tack's armor vs. Yip's "dandy" assessment).
+    *   **Status:** Relates to existing concept `[[information-asymmetry-npc-encounters]]`.
+*   **Social Networking as Navigation** (Method)
+    *   **Definition:** Using social connections and matchmaking as a primary means of navigating political landscapes.
+    *   **Why it matters:** It establishes Yip's role not as a warrior, but as a "connector," contrasting with the more clandestine roles like Aletra’s.
+    *   **Status:** New nuance for the "Merchant/Social" archetype.
 
-### Contradictions & Tensions
-- **Internal Tension:**
-  - Yip's apparent reliability in social networking contrasts with his catastrophic misjudgment of Tack Proudfoot.
-- **External Conflict:**
-  - Yip's intentions to facilitate romantic connections might clash with Orsik's goals if Orsik seeks a more serious relationship.
+## Main Arguments & Findings
 
-### Recommendations
-- **Pages to Create or Update:**
-  - [[Social Networking]], 
+*   **The "Friendly Fool" Archetype:** Yip is presented as a well-meaning but incompetent social analyst. His primary narrative function is to provide a contrast to the party's more guarded interactions; while they are wary of others, Yip is dangerously trusting.
+*   **Socially Mediated Conflict:** The conflict with Tack Proudfoot was mediated through Yip’s incorrect advice. This suggests that in Mirabar, social standing and "face" are as important as physical power.
+*   **The Illusion of Safety:** Because Yip believes Orsik is a harmless bachelor, he creates a "safe" space for the party to operate in, even though his lack of awareness makes him a liability in high-stakes scenarios.
+
+## Connections to Existing Wiki
+
+*   **[[orsik]]**: Directly linked via the "John Husteem" persona.
+*   **[[information-asymmetry-npc-encounters]]**: Yip is a prime example of an NPC whose "truth" (his sincerity) is real, but whose "judgment" (the data he provides) is flawed.
+*   **[[status-driven-behavior]]**: Yip’s actions are driven by the desire to fulfill his role as a social scion and connector.
+
+## Contradictions & Tensions
+
+*   **Reliability vs. Utility:** While Yip's judgment is "demonstrably unreliable," he remains

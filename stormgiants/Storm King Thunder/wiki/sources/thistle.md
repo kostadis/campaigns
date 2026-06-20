@@ -40,3 +40,7 @@ related: []
 - **Evidence Supporting Claims**: 
   - Thistle's actions in various locations, such as identifying routes, scouting, and executing missions, demonstrate his role as a scout and leader.
   - His interactions with the party, particularly his restraint in the throne room and his efforts to save the party, show his commitment to the mis
+
+## Related
+
+- [[calder]]

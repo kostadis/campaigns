@@ -4,7 +4,7 @@ title: Operational Anxiety
 created: 2026-05-25
 updated: 2026-05-25
 tags: [psychological-burden, agent-stress, responsibility-without-control]
-related: [azam, spiritual-abandonment, layered-command-structure]
+related: ["azam", "spiritual-abandonment", "organizational-secrecy-via-bosses"]
 sources: ["azam.md"]
 ---
 # Operational Anxiety

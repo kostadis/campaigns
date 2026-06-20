@@ -18,9 +18,16 @@ Moesko was an Orc Anchorite and dark cleric stationed at the [[tower-of-storms]]
 - **Status:** Deceased.
 
 ## Combat and Death
-Moesko engaged the party at the [[tower-of-storms]], utilizing lightning and thunder-based magic. He was eventually defeated by the party (specifically [[soma]], [[vukradin]], and [[brewbarry]]). 
+Moesko engaged the party at the [[tower-of-storms]], utilizing lightning and thunder-based magic. He was eventually defeated by the party (specifically soma, [[vukradin]], and [[brewbarry]]). 
 
 Post-mortem examination revealed that his heart had been removed and installed as a mechanical power source for the lighthouse beacon, where it continued to beat and emit a pulsating green light. The destruction of this heart by [[vukradin]] broke the [[tower-curse]].
 
 ## Corruption
 According to the testimony of [[miral]], Moesko's devotion to the Stormlord was twisted into something "colder and more calculating." This suggests his actions were not driven by the chaotic wrath typical of [[talos]], but by a foreign, psionic power.
+
+## Related
+
+- [[talisman-of-the-inverted-eye]]
+- [[moesko]]
+- [[talos-cult]]
+- [[the-anchorite-half-orc]]

@@ -32,11 +32,11 @@ related: []
 ### Connections to Existing Wiki
 - **[[kragota-threeteeth]]**: Relevance, as Krasus fits the profile of a mad king operating an intelligence/informant network.
 - **[[intelligence-networks]]**: Relevance, as Krasus's actions could have been orchestrated through such a network.
-- **[[statues]]**: Relevance, as the formation of Anauroch might be linked to a specific statue or monument.
+- **[[six-giant-statues]]**: Relevance, as the formation of Anauroch might be linked to a specific statue or monument.
 - **[[anharradh]]**: Relevance, as Krasus's actions could have been influenced by or related to Angharradh.
 - **[[parnast]]**: Relevance, as Parnast might be connected to the geographical changes caused by Krasus.
 - **[[bad-fruul]]**: Relevance, as Krasus's actions might have been part of a broader conflict involving Bad-Fruul.
-- **[[seelie-court]]**: Relevance, though less directly, as the historical context might involve magical elements.
+- **[[fey-court-structure]]**: Relevance, though less directly, as the historical context might involve magical elements.
 - **[[blue-dragon]]**: Relevance, as the blue dragon causing significant damage could be tied to Krasus's actions.
 - **[[teleportation-circle]]**: Relevance, though less directly, as Krasus's actions might have involved magical means.
 - **[[overview]]**: Relevance, as Krasus's role in shaping the landscape and history of the region can be integrated into the comprehensive narrative.
@@ -46,6 +46,10 @@ related: []
 - **External Conflict**: The source does not address how Krasus's actions might conflict with other known historical figures or events.
 
 ### Recommendations
-- **Create Pages**: [[kragota-threeteeth]], [[intelligence-networks]], [[statues]], [[anharradh]], [[parnast]], [[bad-fruul]], [[seelie-court]], [[blue-dragon]], [[teleportation-circle]], [[overview]]
+- **Create Pages**: [[kragota-threeteeth]], [[intelligence-networks]], [[six-giant-statues]], [[anharradh]], [[parnast]], [[bad-fruul]], [[fey-court-structure]], [[blue-dragon]], [[teleportation-circle]], [[overview]]
 - **Emphasize**: The historical context and geographical impact of Krasus's actions.
 - **De-emphasize**: Specific details about Krasus's personal life or motivat
+
+## Related
+
+- [[lord_khaspere_drylund]]

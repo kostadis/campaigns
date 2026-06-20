@@ -9,7 +9,7 @@ sources: ["valphine.md", "prutha.md"]
 ---
 # Prutha
 
-[[prutha]] is a recently converted orc and a former warrior of the [[circle-of-thunder]]. He has defected to become a follower of [[valphine]]'s emerging [[lathanderian-practice-valphine]].
+prutha is a recently converted orc and a former warrior of the [[circle-of-thunder]]. He has defected to become a follower of [[valphine]]'s emerging [[lathanderian-practice-valphine]].
 
 ## Identity & Personality
 Prutha is characterized by a blunt, decisive nature and a combat style noted for its focused directness by [[brewbarry]]. While he claims his conversion to Lathander is driven by [[theological-pragmatism]]—viewing it as a "power upgrade" over the [[talosian-devotion]] of his former faction—his actions suggest significant emotional depth.

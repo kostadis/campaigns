@@ -37,3 +37,7 @@ Captain and owner of his own barge; former crewman under Imber Chen. First appea
 
 ## Arc Score Events
 N/A — No arc score events recorded.
+
+## Related
+
+- [[cap_n_squint]]

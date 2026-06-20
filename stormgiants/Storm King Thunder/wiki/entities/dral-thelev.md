@@ -22,3 +22,7 @@ Dral Thelev is a sardonic, self-aware half-orc who operates Danivarr's House in 
 
 ## Arc Score Events
 *No arc score events recorded in source notes.*
+
+## Related
+
+- [[tamalin-zoar]]

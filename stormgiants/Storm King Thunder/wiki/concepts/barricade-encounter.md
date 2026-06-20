@@ -13,3 +13,7 @@ The barricade encounter is a pivotal scene where Nug leads an ambush group again
 ## Key Points
 - **Motivation:** Territorial defense
 - **Outcome:** Failed ambush, resulting in the death of Nug and other kobolds
+
+## Related
+
+- [[ambush-gap]]

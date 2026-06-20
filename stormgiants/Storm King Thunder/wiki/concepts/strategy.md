@@ -11,4 +11,5 @@ sources: ["duke_zalto.md"]
 Strategy and planning are crucial for the party's success. They must carefully consider their actions and the implications of their choices, balancing immediate objectives with long-term goals.
 
 ## Related Pages
-- [[dungeon-ironslag]]
+- [[technology]]
+- [[ironslag]]

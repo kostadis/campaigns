@@ -100,3 +100,9 @@ related: []
 - **Strength of Evidence**:
   - Direct observations and interactions with Ragnar.
   - R
+
+## Related
+
+- [[the_wight_elquen]]
+- [[the_red_wizard]]
+- [[taern_hornblade]]

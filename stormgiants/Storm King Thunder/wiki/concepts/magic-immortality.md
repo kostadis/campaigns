@@ -11,3 +11,10 @@ sources: ["harthos_zymorven.md"]
 - **Description:** Some magical beings can achieve immortality through magical means.
 - **Influence:** Harthos's execution by decapitation is designed to prevent magical resurrection.
 - **Associated Characters:** Harthos Zymorven
+
+## Related
+
+- [[magic-telekinesis]]
+- [[magic-transmutation]]
+- [[magic-revival]]
+- [[magic-resurrection]]

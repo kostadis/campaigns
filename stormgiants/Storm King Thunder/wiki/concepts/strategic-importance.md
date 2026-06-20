@@ -16,3 +16,7 @@ Concept referring to Hsing's strategic importance to the SEER. Central to the na
 
 ## Notes
 - Central to the SEER's conflict and operations.
+
+## Related
+
+- [[mission]]

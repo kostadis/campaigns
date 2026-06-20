@@ -4,7 +4,7 @@ title: Devout non-arc NPC
 created: 2026-06-15
 updated: 2026-06-15
 tags: [npc, religion, theology, narrative-economy, quiet-resonance]
-related: ["quietly-resonant-npc", "background-npc", "unorthodox-lathanderite-interpretation", "transaction-as-narrative-catalyst", "brin-bundlewine", "valphine"]
+related: ["quietly-resonant-npc", "background-npc", "theology-of-searing-pain", "transaction-as-narrative-catalyst", "brin-bundlewine", "valphine"]
 sources: ["npcs/elara.md"]
 ---
 # Devout non-arc NPC
@@ -14,7 +14,7 @@ A devout non-arc NPC is a character whose spiritual conviction is authentic, con
 Elara Seasong Meliame is the canonical example: she is not a zealot, a victim, or a heretic. She is simply a merchant who prays to Lathander, pays her offerings to those she believes are worthy, and is confused by theological extremes. Her value lies not in what she does, but in what she reflects — the stability of conventional faith amid doctrinal fracture.
 
 This archetype refines the broader category of [[quietly-resonant-npc]] by adding a theological dimension: the devout non-arc NPC is not merely emotionally present, but spiritually grounded. She contrasts with:
-- [[unorthodox-lathanderite-interpretation]] — the radical fringe
+- [[theology-of-searing-pain]] — the radical fringe
 - [[ritual-self-flagellation-as-devotion]] — the embodied extreme
 - [[divine-worthiness-test]] — the institutional gatekeeper
 

@@ -39,3 +39,7 @@ sources: ["halisa.md"]
 
 ## Arc Score Events
 - **Decrease (implied):** Departed without gratitude or reconciliation; her freedom did not produce goodwill toward the party — she left consumed by her grievance with Helia.
+
+## Related
+
+- [[dryads]]

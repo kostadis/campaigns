@@ -4,7 +4,7 @@ title: The Orc Scout
 created: 2025-05-22
 updated: 2025-05-22
 tags: [encounter-notes, orcs, valphine]
-related: [the-orc-scout, valphine, soma]
+related: ["the-orc-scout", "valphine"]
 sources: ["the_orc_scout.md"]
 ---
 # The Orc Scout

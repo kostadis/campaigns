@@ -18,3 +18,7 @@ Jarlor is a resident of Parnast, formerly a town council member. He was coerced 
 
 ## Arc Score Events
 - No arc score events recorded.
+
+## Related
+
+- [[orsik]]

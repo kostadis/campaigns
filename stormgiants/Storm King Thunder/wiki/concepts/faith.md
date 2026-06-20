@@ -11,4 +11,12 @@ sources: ["duke_zalto.md"]
 Faith and devotion are central to the party's spiritual journey. They must cultivate their faith and seek divine guidance, using religious texts and rituals to gain insight and support.
 
 ## Related Pages
-- [[dungeon-ironslag]]
+- [[quest]]
+- [[unnamed-faith]]
+- [[ragnarok]]
+- [[lore]]
+- [[technology]]
+- [[legend]]
+- [[philosophy]]
+- [[religion]]
+- [[ironslag]]

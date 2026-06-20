@@ -30,3 +30,8 @@ sources: ["chief_guh.md"]
 
 ## Arc Score Events
 - None recorded.
+
+## Related
+
+- [[does-chief-guh-submit-to-king-hekaton]]
+- [[chief_guh]]

@@ -14,8 +14,9 @@ Fandom refers to the phenomenon of admiration or fandom, often directed towards 
 - **Fan Connection**: Borin Greycastle is identified as a fan or acquaintance of the unnamed gate guard, who is admirably interested in notable figures.
 
 ## Related Pages
-- [[Borin Greycastle]]
-- [[Unnamed Gate Guard]]
+- [[dynamic-character-development]]
+- [[borin-greycastle]]
+- [[unnamed-gate-guard]]
 - [[Starstruck]]
 
 ## References
@@ -34,8 +35,8 @@ Starstruck is a phenomenon characterized by intense admiration or fandom, often 
 - **Fan Connection**: Borin Greycastle is identified as a fan or acquaintance of the unnamed gate guard, who is admirably interested in notable figures.
 
 ### Related Pages
-- [[Borin Greycastle]]
-- [[Unnamed Gate Guard]]
+- [[borin-greycastle]]
+- [[unnamed-gate-guard]]
 - [[Fandom]]
 
 ### References

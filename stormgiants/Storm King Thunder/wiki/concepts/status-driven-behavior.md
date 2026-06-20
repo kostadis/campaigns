@@ -4,7 +4,7 @@ title: Status-Driven Behavior
 created: 2026-05-23
 updated: 2026-05-27
 tags: [psychology, social-dynamics, compliance, trauma, authority, survival]
-related: ["amy", "defensive-deference", "disguised-influence", "kaelen-sarssir", "orsik", "vukradin", "the-carver"]
+related: ["amy", "defensive-deference", "disguised-influence", "kaelen-sarssir", "orsik", "vukradin"]
 sources: ["amy.md", "npcs/corbin.md"]
 ---
 # Status-Driven Behavior

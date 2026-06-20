@@ -1,8 +1,8 @@
 ---
 type: source
 title: "Source: boorvald_orcbane.md"
-created: 2026-05-13
-updated: 2026-05-13
+created: 2026-06-05
+updated: 2026-06-05
 sources: ["boorvald_orcbane.md"]
 tags: []
 related: []
@@ -11,33 +11,49 @@ related: []
 # Source: boorvald_orcbane.md
 
 ## Key Entities
-- **Boorvald Orcbane**: Great Chief of the Tree Ghost Tribe, Merchant specializing in magical goods for discerning magic users, known to Unla Kee and associated with the Fishyard. (Central, Likely Exists)
-- **Tree Ghost Tribe**: Faction led by Boorvald Orcbane. (Peripheral, Likely Exists)
-- **Young Barbarian Leader**: Son of Boorvald Orcbane, arrived at the Grandfather Tree. (Peripheral, Likely Exists)
-- **Grandfather Tree**: Site where the young barbarian leader arrived. (Peripheral, Likely Exists)
-- **Nonmagical Electrum Torc**: Artifact recovered from the roots of the Grandfather Tree. (Peripheral, Likely Exists)
+
+*   **Boorvald Orcbane** (Person)
+    *   **Role:** Great Chief of the Tree Ghost Tribe.
+    *   **Status:** Central to the "Tree Ghost" narrative arc, though currently a remote figure.
+    *   **Wiki Status:** New entry required.
+*   **Tree Ghost Tribe** (Organization/Group)
+    *   **Role:** A tribal entity associated with the Grandfather Tree and specific cultural artifacts.
+    *   **Status:** Central to regional lore; represents a potential faction for future interaction.
+    *   **Wiki Status:** New entry required (or update existing "barbarian" related content).
+*   **Unnamed Young Barbarian Leader** (Person)
+    *   **Role:** Son of Boorvald Orcbane; acted as the primary point of contact for the tribe at the Grandfather Tree.
+    *   **Status:** Peripheral/Proxy character.
+    *   **Wiki Status:** New entry or note added to "Tree Ghost Tribe" page.
+*   **Grandfather Tree** (Location)
+    *   **Role:** The site where the party encountered the barbarian leader and recovered the tribe's artifact.
+    *   **Status:** Central location for this specific quest arc.
+    *   **Wiki Status:** New entry required.
+*   **The 3HPP** (Organization/Group)
+    *   **Role:** The primary protagonists; currently in possession of the Tree Ghost Tribe's artifact.
+    *   **Status:** Central.
+    *   **Wiki Status:** Exists (implied as the main party).
 
 ## Key Concepts
-- **Great Chief**: Leadership role within the Tree Ghost Tribe. (Matters, Likely Exists)
-- **Tree Ghost Tribe**: A specific faction or clan. (Matters, Likely Exists)
-- **Artifact Recovery**: The recovery of the nonmagical electrum torc from the Grandfather Tree. (Matters, Likely Exists)
+
+*   **Tree Ghost Tribe Artifact (Electrum Torc)**
+    *   **Definition:** A nonmagical electrum torc bearing Giant runes, formerly a hill giant chief's nose-ring.
+    *   **Significance:** Serves as a physical tether between the party and the Tree Ghost tribe; its recovery is a key plot point.
+    *   **Wiki Status:** New entry or addition to "Tree Ghost Tribe" page.
+*   **Narrative Economy (via Absence)**
+    *   **Definition:** The use of an absent leader (Boorvald) to establish a looming presence and tribal weight without requiring immediate interaction.
+    *   **Significance:** Establishes the scale of the Tree Ghost tribe's history and current standing in the region.
+    *   **Wiki Status:** Exists under `[[narrative-economy]]`.
 
 ## Main Arguments & Findings
-- **Core Claims**: Boorvald Orcbane is the Great Chief of the Tree Ghost Tribe and has a son who arrived at the Grandfather Tree on behalf of the tribe.
-- **Evidence**: The young barbarian leader's arrival at the Grandfather Tree and the recovery of the nonmagical electrum torc from the tree roots.
-- **Strength of Evidence**: Strong, as both events are directly referenced and provide clear information about Boorvald Orcbane's current status and actions.
+*   **Presence through Proxy:** The narrative establishes Boorvald as a significant figure not through direct interaction, but through his lineage (his son) and his legacy (the torc). This builds tension regarding the tribe's reaction to the party holding their artifact.
+*   **Artifact Significance:** The fact that the torc is "nonmagical" but bears "Giant runes" suggests its value is cultural/symbolic rather than purely functional, highlighting a theme of heritage and identity.
 
 ## Connections to Existing Wiki
-- **[[tree-ghost-tribe]]**: This source provides additional details about Boorvald Orcbane and his tribe, which can be integrated into the existing page.
-- **[[artifact-recovery]]**: The recovery of the nonmagical electrum torc can be linked to the broader topic of artifact recovery in the wiki.
+*   **[Tree Ghost Tribe]**: Relates to existing barbarian-themed content; may need a new page to track the tribe's specific lore.
+*   **[Grandfather Tree]**: A new location entry is needed to document this site as a point of contact for tribal matters.
+*   **[narrative-economy]**: This source is a prime example
 
-## Contradictions & Tensions
-- **Internal Tension**: There is no direct evidence of Boorvald Orcbane's current location or intentions, suggesting potential gaps in the narrative that need further exploration.
+## Related
 
-## Recommendations
-- **Create or Update Pages**: 
-  - [[tree-ghost-tribe]]: Add details about Boorvald Orcbane and his son.
-  - [[artifact-recovery]]: Include the recovery of the nonmagical electrum torc.
-- **Emphasize**: The current status and relationships of Boorvald Orcbane and his son.
-- **De-emphasize**: The lack of detailed information about Boorvald Orcbane's current whereabouts and motivations.
-- **Open Questions**: Further investigation into Boorvald Orcbane's current location and the significance of the recovered torc for his tribe.
+- [[vandar]]
+- [[boorvald_orcbane_s_son]]

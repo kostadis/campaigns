@@ -9,3 +9,17 @@ sources: ["klauth.md"]
 ---
 # Giant Reward Aborted
 A reward aborted by Klauth to someone who eliminated a giant leader as part of his request. This reward is a calculated move to leverage the party's actions against the giants.
+
+## Related
+
+- [[giant-reward-system]]
+- [[giant-reward-postponed]]
+- [[giant-reward-rescinded]]
+- [[giant-reward-not-claimed]]
+- [[giant-reward]]
+- [[giant-reward-claimed]]
+- [[giant-reward-denied]]
+- [[giant-reward-withdrawn]]
+- [[giant-reward-revoked]]
+- [[giant-reward-refused]]
+- [[giant-reward-withheld]]

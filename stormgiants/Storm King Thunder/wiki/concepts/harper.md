@@ -11,4 +11,8 @@ sources: ["dral_thelev.md"]
 
 A secretive magical order that operates covertly to protect the realm from threats. 
 
-[[Dral Thelev]] is affiliated with the Harpers through [[Darathra Shendrel]] and acts as a trusted contact for [[Tamalin Zoar]] in [[Everlund]].
+[[dral-thelev]] is affiliated with the Harpers through [[darathra_shendrel]] and acts as a trusted contact for [[tamalin-zoar]] in [[Everlund]].
+
+## Related
+
+- [[magic]]

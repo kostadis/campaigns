@@ -50,12 +50,12 @@ related: []
 
 ### Connections to Existing Wiki
 - **Existing Pages**:
-  - [[diviners]] — Page on characters specializing in divination.
+  - [[divine-silence]] — Page on characters specializing in divination.
   - [[risk-taking]] — Page on behaviors involving taking risks.
   - [[unla-kee]] — Page on the character Unla Kee.
-  - [[prophecies-of-the-apocalypse]] — Page on the book containing prophetic information.
+  - [[the-rising-current]] — Page on the book containing prophetic information.
   - [[teleportation-circle]] — Page on magical devices used for teleportation.
-  - [[gnome]] — Page on the race of Unla Kee.
+  - [[gnomengarde]] — Page on the race of Unla Kee.
 - **Impact**:
   - These pages will be strengthened by the detailed account of Unla Kee's actions and motivations.
   - The connections will provide a broader context for understanding his role within the narrative universe.
@@ -67,3 +67,7 @@ related: []
 - **External Conflict**:
   - His reluctance to disclose his "END GAME" plan to the party.
   - His withholding of spellbooks from the SEER despite being named co-owner of the *K
+
+## Related
+
+- [[unseelie_halfling]]

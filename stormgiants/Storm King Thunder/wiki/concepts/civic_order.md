@@ -7,3 +7,7 @@ tags: [law_and_order]
 related: []
 sources: ["nyalah_uuseff.md"]
 ---
+
+## Related
+
+- [[political-system]]

@@ -13,3 +13,7 @@ sources: ["gen.md"]
   - Agra had to physically restrain Gen during the standoff to prevent provocation.
   - Gen deferred to Agra's judgment and relied on Agra emotionally.
 - **Strength of Evidence:** Strong, supported by direct actions and outcomes of the encounter.
+
+## Related
+
+- [[emotional-dependency]]

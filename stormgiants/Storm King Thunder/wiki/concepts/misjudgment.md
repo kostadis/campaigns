@@ -12,3 +12,8 @@ sources: ["yip_hammaver.md"]
 - **Matters in Source:** Demonstrated by Yip's poor judgment of Tack Proudfoot
 - **Evidence Supporting Claims:** Recorded interactions and outcomes involving Orsik and Tack Proudfoot
 - **Strength of Evidence:** Recorded interactions and outcomes involving Orsik and Tack Proudfoot
+
+## Related
+
+- [[unresolved-misjudgments]]
+- [[social-networking]]

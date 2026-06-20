@@ -9,3 +9,16 @@ sources: ["klauth.md"]
 ---
 # Giant Reward Denied
 A reward denied by Klauth to someone who eliminated a giant leader as part of his request. This reward is a calculated move to leverage the party's actions against the giants.
+
+## Related
+
+- [[reward-system]]
+- [[giant-reward-system]]
+- [[giant-reward]]
+- [[giant-reward-rescinded]]
+- [[giant-reward-postponed]]
+- [[giant-reward-offered]]
+- [[giant-reward-revoked]]
+- [[giant-reward-not-claimed]]
+- [[giant-reward-withheld]]
+- [[giant-reward-refused]]

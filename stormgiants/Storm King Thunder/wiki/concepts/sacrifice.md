@@ -12,6 +12,10 @@ Halisa and Helia were in a mutual stalemate at the Grandfather Tree, each refusi
 
 ## Connections to Existing Wiki
 - [[halisa]]
-- [[tree-protection-schedule-d]]
-- [[seelie-court]]
+- [[the-party]]
+- [[fey-court-structure]]
 - [[dryads]]
+
+## Related
+
+- [[curse]]

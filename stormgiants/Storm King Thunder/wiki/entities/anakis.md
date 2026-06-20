@@ -10,3 +10,9 @@ sources: ["anakis.md"]
 ---
 
 Anakis is a tiefling student at the Lady's College in Silverymoon. She serves as an informal greeter and guide for visitors, showing particular interest in infernal studies, especially Cambions. She recently approached the party in the college hallway, offering direction to Sage Vusk's lecture and expressing sensitivity about her tiefling heritage.
+
+## Related
+
+- [[informal-greeter-role]]
+- [[sage-vusk]]
+- [[lady-s-college-silverymoon]]

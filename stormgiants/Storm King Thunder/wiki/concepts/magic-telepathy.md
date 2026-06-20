@@ -11,3 +11,10 @@ sources: ["harthos_zymorven.md"]
 - **Description:** The ability to communicate thoughts directly between minds.
 - **Influence:** Harthos's execution by decapitation is designed to prevent magical resurrection.
 - **Associated Characters:** Harthos Zymorven
+
+## Related
+
+- [[teleportation]]
+- [[teleportation-capability]]
+- [[teleportation-circle]]
+- [[magic-teleportation]]

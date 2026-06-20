@@ -40,8 +40,12 @@ related: []
   - The discrepancy between Urlam's and Othovir's stated allegiances adds depth to the narrative and raises questions about Othovir's true loyalties.
 
 ### Connections to Existing Wiki
-- **Existing Pages:** [[harnesses]], [[waterdeep]], silverymoon, [[magic-stash]], [[margaster-family]], [[tribobar]]
+- **Existing Pages:** [[harnesses]], [[waterdeep]], silverymoon, [[hat-of-wizardry]], [[house-margaster]], [[tribobar]]
 - **Impact:** The source provides new insights into Othovir's character and his relationship with the Margasters, potentially enriching the narrative universe. It also highlights the complexity of Othovir's motivations and his potential role in the broader story.
 
 ### Contradictions & Tensions
 - **Contradiction:** Urlam's perception of Othovir as aligned with House Margaster conflicts with Othovir's own anti-Margast
+
+## Related
+
+- [[othovir]]

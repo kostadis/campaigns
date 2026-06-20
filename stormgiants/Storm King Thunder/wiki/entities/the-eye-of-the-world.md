@@ -4,7 +4,7 @@ title: The Eye of the World
 created: 2026-05-24
 updated: 2026-05-24
 tags: [location, divine, ritual, planar]
-related: [annam-the-oracle, annam-the-allfather, planar-travel, king-hekaton]
+related: ["annam-the-oracle-and-annam-the-all-father-of-giants", "planar-travel", "king-hekaton"]
 sources: ["annam_the_oracle.md"]
 ---
 # The Eye of the World
@@ -14,3 +14,7 @@ The resting place of the Oracle of Annam, this location is a sacred, isolated si
 Access to the Eye of the World requires passage through the Maelstrom, likely via King Hekaton’s conch. It is not a place of worship, but of inquiry — a mechanism of divine communication rather than a temple. No other known oracles exist in the world, making this site the last known conduit of structured divine revelation.
 
 Its existence suggests that Annam’s silence is not absence, but deliberate constraint — a system of knowledge preserved, not abandoned.
+
+## Related
+
+- [[king-hekaton]]

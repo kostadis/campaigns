@@ -14,3 +14,7 @@ sources: ["gen.md"]
   - Suggestion of offering treasure by Gen to secure the party's goodwill.
   - Departure of both Gen and Agra alive after the standoff.
 - **Strength of Evidence:** Strong, supported by direct actions and outcomes of the encounter.
+
+## Related
+
+- [[impulsive-pragmatism]]

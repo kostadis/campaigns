@@ -33,3 +33,7 @@ sources: ["deciduous_dryad.md"]
 
 ## Arc Score Events
 - N/A — deceased; no ongoing arc
+
+## Related
+
+- [[deciduous_dryad]]

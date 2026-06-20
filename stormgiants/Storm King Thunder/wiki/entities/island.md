@@ -25,3 +25,7 @@ Relationships:
 - **The Party**: No direct relationship established.
 
 Arc Score Events: No arc score events recorded.
+
+## Related
+
+- [[iskander]]

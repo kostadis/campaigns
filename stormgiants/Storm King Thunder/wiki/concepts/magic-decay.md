@@ -11,3 +11,15 @@ sources: ["harthos_zymorven.md"]
 - **Description:** The gradual loss of magical properties over time.
 - **Influence:** Harthos's execution by decapitation is designed to prevent magical resurrection.
 - **Associated Characters:** Harthos Zymorven
+
+## Related
+
+- [[magic-teleportation]]
+- [[murder]]
+- [[magic-telepathy]]
+- [[magic-telekinesis]]
+- [[magic-illusion]]
+- [[magic-transmutation]]
+- [[magic-immortality]]
+- [[magic-resurrection]]
+- [[magic-revival]]

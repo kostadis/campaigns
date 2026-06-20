@@ -53,3 +53,7 @@ related: []
 - Create or update pages for "Cult of the Dragon," "Thunderwave," and "Party Members."
 - Emphasize the dangers posed by the Cult of the Dragon and the unpredictable nature of their ambushes.
 - Highlight the internal conflicts within Sergeant Gronk's character regarding his loyalty to his troops versus his pragmatism.
+
+## Related
+
+- [[manshoon]]

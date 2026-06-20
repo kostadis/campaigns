@@ -28,9 +28,13 @@ This wiki covers the narrative universe described in the source document "Everar
 - [[thistle]]
 - [[kaelen-sarssir]]
 - [[staging]]
-- [[managing-actors]]
+- [[actor-management]]
 - [[river-surbin]]
 - [[starstruck]]
 - [[clarify-everard-barners-motivations]]
 - [[comparisons/everard-barners-vs-other-directors]]
 - [[comparisons/everard-barners-vs-kaelen]]
+
+## Related
+
+- [[overview]]

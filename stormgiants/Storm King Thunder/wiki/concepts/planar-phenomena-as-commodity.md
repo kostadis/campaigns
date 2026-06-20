@@ -4,7 +4,7 @@ title: Planar-phenomena-as-commodity
 created: 2026-06-15
 updated: 2026-06-15
 tags: [commodity, planar, value, economy, resonance]
-related: [linene-graywind, lionshield-coster, interplanar-commercial-interests, premium-pricing-for-planar-goods, magical-resonance-with-artifacts, interdimensional-smuggling, ordning-shattering]
+related: ["linene-graywind", "lionshield-coster", "interplanar-commercial-interests", "magical-resonance-with-artifacts", "interdimensional-smuggling", "shattering-of-the-ordning"]
 sources: ["npcs/linene_graywind.md"]
 ---
 # Planar-phenomena-as-commodity
@@ -17,6 +17,6 @@ Unlike [[magical-resonance-with-artifacts]], where objects trigger physiological
 
 This economic logic extends beyond mere rarity. It implies a structured demand from unseen actors who use planar residues as components, records, or even spiritual currency. The defunct interplanar shipping device referenced by Valphine suggests this is not an isolated practice, but part of a broader, institutionalized infrastructure for harvesting and transporting planar matter.
 
-The War of the Giants disrupted this market not by destroying goods, but by severing the supply chains that delivered them — introducing “tariffs” that may be metaphysical, bureaucratic, or divine in nature. This links planar-phenomena-as-commodity directly to [[supply-chain-disruption-by-planar-conflict]] and [[ordning-shattering]], showing that cosmological collapse has tangible, economic consequences.
+The War of the Giants disrupted this market not by destroying goods, but by severing the supply chains that delivered them — introducing “tariffs” that may be metaphysical, bureaucratic, or divine in nature. This links planar-phenomena-as-commodity directly to [[supply-chain-disruption-by-planar-conflict]] and [[shattering-of-the-ordning]], showing that cosmological collapse has tangible, economic consequences.
 
 Planar-phenomena-as-commodity reframes the campaign’s magic system: the universe is not just alive with spirits and gods — it is a marketplace. And in a world where gods are silent, the most valuable goods are those that carry the echo of their absence.

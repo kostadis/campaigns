@@ -74,3 +74,23 @@ related: []
   - The exact nature of his motivations and the full extent of his betrayal.
 - **Open Questions**:
   - Further explore Iskander’s background an
+
+## Related
+
+- [[mitbach]]
+- [[kagrota_threeteeth_kagrota]]
+- [[the_foreman]]
+- [[talni_barcoba]]
+- [[mama_manyknuckles]]
+- [[orgazol]]
+- [[nespril_menk]]
+- [[tapouach]]
+- [[thane_kayalithca]]
+- [[kurglow]]
+- [[lord_khaspere_drylund]]
+- [[jevin]]
+- [[nyalah_uuseff]]
+- [[klamath]]
+- [[lord_drylund]]
+- [[thane_braxow]]
+- [[jorgen]]

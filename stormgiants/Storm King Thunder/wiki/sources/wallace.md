@@ -1,8 +1,8 @@
 ---
 type: source
 title: "Source: wallace.md"
-created: 2026-05-13
-updated: 2026-05-13
+created: 2026-06-06
+updated: 2026-06-06
 sources: ["wallace.md"]
 tags: []
 related: []
@@ -10,44 +10,35 @@ related: []
 
 # Source: wallace.md
 
-### Key Entities
+## Key Entities
 
-- **Wallace**: Person (central), Member of Orsik's group, son of a connected figure in Parnast with Lord's Alliance ties.
-- **Orsik**: Person (central), Leader of the group, dismissive of Wallace initially but protective later.
-- **Vardis**: Person (peripheral), Member of the group, collaborator with Wallace during reconnaissance.
-- **Thistle**: Person (peripheral), Member of the group, collaborator with Wallace during reconnaissance.
-- **Elspeth**: Person (peripheral), Wallace's romantic partner.
-- **SEER**: Person (peripheral), Important Lord's Alliance figure, influential but distrusted by Orsik.
-- **Lord's Alliance**: Organization (peripheral), Wallace's faction, aligned with his father's interests.
-- **Old Parnast**: Place (peripheral), Former Zhentarim fortress, considered cursed by locals.
-- **Prince Thornacious**: Person (peripheral), Camp leader, encountered by the group.
+| Name | Type | Role | Status |
+| :--- | :--- | :--- | :--- |
+| **Wallace** | Person | **Central**. A young man from Parnast and former member of Orsik's group. Represents the "institutional" perspective. | New (Add to Wiki) |
+| **Orsik** | Person | **Central**. Wallace’s mentor/leader; a complex figure who dismissed Wallace but protected him in high-stakes moments. | Exists (Update) |
+| **Elspeth** | Person | **Peripheral**. Wallace's romantic partner and the catalyst for his retirement from adventuring. | New (Add to Wiki) |
+| **Thistle & Vardis** | People | **Peripheral**. Allies with whom Wallace collaborated on reconnaissance and defense. | Exist (Update) |
+| **The SEER** | Organization/Entity | **Central**. A Lord's Alliance member; a point of ideological contention between Wallace and Orsik. | Exists (Update) |
+| **Lord's Alliance** | Organization | **Central**. The political body Wallace serves by proxy through his father’s connections. | Exists (Update) |
+| **Parnast** | Location | **Central**. Wallace's home; the site of his retirement and current role as guard captain. | Exists (Update) |
 
-### Key Concepts
+## Key Concepts
 
-- **Lord's Alliance**: A political and military alliance, central to Wallace's identity and motivations.
-- **Zhentarim**: A criminal organization, referenced in Wallace's interactions with Orsik.
-- **Wyvern**: Mythical creature, mentioned in Wallace's prediction about ambush sites.
-- **Elemental Gods**: Concept, referenced in the Shrine of Oghma, central to Wallace's discovery.
+| Name | Definition | Significance in Source | Status |
+| :--- | :--- | :--- | :--- |
+| **Institutional Loyalty** | Prioritizing organizational goals over personal conviction or immediate tactical desires. | Defines Wallace's character; he views the world through the lens of the Lord's Alliance. | New (Add to Wiki) |
+| **Information Asymmetry** | The gap between what a character knows and what others know about them. | Highlights Wallace’s secret plan to contact the Zhentarim independently while being dismissed by Orsik. | Exists (Update) |
+| **Strategic Patience** | Choosing not to voice knowledge when it is ignored, but keeping it for later use or personal vindication. | Explains why Wallace remained silent after his correct prediction of the Bugbear ambush. | New (Add to Wiki) |
+| **Retirement as Resolution** | The transition from a high-risk "adventurer" role to a stable "community" role. | Marks the end of Wallace's narrative arc and his shift into local leadership. | New (Add to Wiki) |
 
-### Main Arguments & Findings
+## Main Arguments & Findings
+*   **The "Institutional" Counterpoint:** Wallace serves as a foil to Orsik’s more visceral, survival-based approach. While Orsik operates on instinct and immediate threat assessment, Wallace operates on long-term political positioning and institutional alignment.
+*   **Subtle Agency in the Face of Dismissal:** Despite being treated as "just a boy," Wallace demonstrates significant agency by secretly planning to bypass Orsik's authority to contact Zhentarim contacts—a move that would have been strategically sound but was ignored due to his perceived status.
+*   **The Evolution of Conflict:** The tension between Wallace and Orsik regarding the **SEER** highlights a core theme: the conflict between "Safety/Survival" (Orsik) and "Institutional Stability" (Wallace).
 
-- **Core Claims**: Wallace is a young man from Parnast who joined Orsik's group, showing loyalty to Lord's Alliance interests. He is pragmatic and strategic, often keeping his opinions to himself.
-- **Evidence**: Wallace's actions and words throughout the story demonstrate his loyalty to Lord's Alliance and his strategic thinking. He independently locates Orsik's Zhentarim contact, stays quiet during critical moments, and eventually retires to take up a role as guard captain.
-- **Strength of Evidence**: Wallace's actions are consistent with his stated goals and motivations, providing strong evidence for his character development and role within the party.
+## Connections to Existing Wiki
+*
 
-### Connections to Existing Wiki
+## Related
 
-- **[[lord-alliance]]**: Wallace's loyalties and decisions align with Lord's Alliance interests, strengthening the understanding of the organization.
-- **[[orcs]]**: Wallace's knowledge of ambush sites involving Bugbear gangs shows his awareness of local threats.
-- **[[elemental-gods]]**: His discovery of the Shrine of Oghma and the key inscription about elemental gods demonstrates his interest in these concepts.
-
-### Contradictions & Tensions
-
-- **Internal Tension**: Wallace's initial dismissal by Orsik contrasts with his later loyalty and influence, suggesting a complex relationship.
-- **External Conflict**: Wallace's decision to retire and settle down with Elspeth conflicts with his earlier ambitions and the group's mission.
-
-### Recommendations
-
-- **Create Pages**: [[wallace]], [[lord-alliance]], [[orcs]], [[elemental-gods]].
-- **Emphasize**: Wallace's strategic thinking and his evolving relationship with Orsik.
-- **De-emphasize**: Interna
+- [[duke_zalto]]

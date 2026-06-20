@@ -65,7 +65,7 @@ related: []
 
 ### Connections to Existing Wiki
 
-- **[[dragon lore]]**: Relevant for Rebecca’s expertise.
+- **[[clarion]]**: Relevant for Rebecca’s expertise.
 - **[[anti-spellguard movement]]**: Aligns with Rebecca’s ideological stance.
 - **silverymoon**: Contextualizes Rebecca’s role within the city.
 
@@ -77,9 +77,9 @@ related: []
 ### Recommendations
 
 - **Create or Update Pages**:
-  - [[rebecca-deakin]]
+  - [[rebecca_deakin]]
   - [[wyrmworks]]
-  - [[dragon lore]]
+  - [[clarion]]
   - [[anti-spellguard movement]]
   - silverymoon
 - **Emphasize**:

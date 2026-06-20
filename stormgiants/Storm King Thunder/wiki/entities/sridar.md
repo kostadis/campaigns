@@ -27,3 +27,8 @@ Her dedication to studying planar phenomena stems from a traumatic historical ev
 
 ## Current Status
 Sridar is currently located at the [[falcon-the-hunter]]'s lodge and remains a recurring resource for the party to validate or challenge findings related to [[planar-instability]].
+
+## Related
+
+- [[talisman-of-moesko]]
+- [[sridar]]

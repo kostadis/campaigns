@@ -4,7 +4,7 @@ title: Quest Baiting
 created: 2025-05-22
 updated: 2025-05-22
 tags: [tactics, criminal-strategy, adventurer-economy]
-related: [the-carver, adventurer-economy, harbin-wester]
+related: ["adventurer-economy", "harbin-wester"]
 sources: ["skippy.md"]
 ---
 # Quest Baiting

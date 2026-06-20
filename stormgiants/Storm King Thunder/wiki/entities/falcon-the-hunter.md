@@ -4,7 +4,7 @@ title: Falcon the Hunter
 created: 2025-05-22
 updated: 2026-05-27
 tags: [druid, npc, adventurer, entrepreneur, recruited-ally, regret, anti-interventionist, redeemed, lodge-keeper, mining-consultant, anti-interventionist-turned-interventionist]
-related: ["valphine", "vukradin", "adabra-gwynn", "iymrith", "emerald-enclave", "cult-of-talos", "woodland-manse", "emerald-enclave-factions", "recruitment-through-integrity", "barthen", "mountain-s-toe-gold-mine", "brass-ring-of-lightning", "wooden-elven-ears-my-dearly-beloved", "neverwinter-mining-consortium", "performative-identity-as-business-strategy", "guilt-as-a-tool-of-ideological-manipulation", "redemption-through-acknowledgment", "narrative-economy", "employer-proxy-operation", "mountain-toe-gold-mine"]
+related: ["valphine", "vukradin", "adabra-gwynn", "iymrith", "emerald-enclave", "cult-of-talos", "woodland-manse", "recruitment-through-integrity", "barthen", "mountain-toe-gold-mine", "brass-ring-of-lightning", "wooden-elven-ears-my-dearly-beloved", "neverwinter-consortium", "performative-identity-as-business-strategy", "guilt-as-a-tool-of-ideological-manipulation", "redemption-through-acknowledgment", "narrative-economy", "employer-proxy-operation"]
 sources: ["valphine.md", "falcon_the_hunter.md", "npcs/adabra.md", "npcs/falcon_the_hunter.md"]
 ---
 # Falcon the Hunter
@@ -25,7 +25,7 @@ His arc is one of quiet moral recovery: he does not seek absolution, but account
 * **[[valphine]]**: A spiritual mentor and mediator who helped Falcon recognize the manipulation by [[adabra-gwynn]] and guided him back toward an [[interventionism]] stance. Valphine has been actively laying diplomatic groundwork with him, including proposing the musical instrument as a gesture of reconciliation and supporting his transition from anti-interventionist to interventionist.
 * **[[adabra-gwynn]]**: A druid who successfully exploited Falcon’s trauma and idealism to recruit him into the anti-interventionist movement. Though he initially embraced her philosophy, he later came to regret his involvement, disillusioned by her moral absolutism and the psychological toll of her methods — a case study in [[guilt-as-a-tool-of-ideological-manipulation]].
 * **[[iymrith]]**: The blue dragon whose hoard provided the "seed capital" for Falcon’s business. His survival of her attack became the foundation of his legend — and his livelihood. The brass ring he took from her remains a tangible symbol of his past and the moral ambiguity of his rise.
-* **[[barthen]]**: A trusted friend and associate, likely connected to Falcon’s work as a consultant for the [[neverwinter-mining-consortium]]. Their bond reflects Falcon’s capacity for loyalty beyond his public persona.
+* **[[barthen]]**: A trusted friend and associate, likely connected to Falcon’s work as a consultant for the [[neverwinter-consortium]]. Their bond reflects Falcon’s capacity for loyalty beyond his public persona.
 * **[[mountain-toe-gold-mine]]**: The site of a poisoning incident Falcon is now working to resolve — part of his broader effort to restore ecological and communal balance.
 * **[[woodland-manse]]**: A location Falcon seeks to clear of half-orc and orc threats, signaling his return to active stewardship and protection — a reversal of his earlier isolationist stance.
 
@@ -37,6 +37,10 @@ Following the destruction of his lodge by the [[cult-of-talos]] and their orc al
 * Resolving the poisoning of the [[mountain-toe-gold-mine]].
 * Clearing the [[woodland-manse]] of half-orc and orc threats.
 * Repairing his relationship with [[vukradin]] through substantive, non-symbolic gestures.
-* Serving as a mining consultant for the [[neverwinter-mining-consortium]], applying his practical experience to ethical resource management.
+* Serving as a mining consultant for the [[neverwinter-consortium]], applying his practical experience to ethical resource management.
 
 He now embraces his identity not as a dragonslayer, but as a man seeking accountability — a redeemed figure whose journey exemplifies [[redemption-through-acknowledgment]] and the [[narrative-economy]] of unspoken grief. His transformation from anti-interventionist to interventionist is not ideological reversal, but moral maturation.
+
+## Related
+
+- [[thistle-wendrod]]

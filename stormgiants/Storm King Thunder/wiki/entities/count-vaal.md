@@ -67,3 +67,7 @@ Description of what needs the user's attention.
 OPTIONS: Create Page | Skip
 PAGES: wiki/or-sik
 SEARCH: or sik wiki | or sik character | or sik lore
+
+## Related
+
+- [[jarl-storvald]]

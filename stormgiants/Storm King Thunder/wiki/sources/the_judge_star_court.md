@@ -64,10 +64,10 @@ related: []
 ### Connections to Existing Wiki
 - **Existing Pages:**
   - Silverymoon — Provides context about the city.
-  - [[Star Court]] — Represents the legal system of Silverymoon.
-  - [[Lady Margaster]] — Provides background on her financial contributions.
+  - [[force-grey-2026-06-06-063448]] — Represents the legal system of Silverymoon.
+  - [[force-grey-2026-06-06-063448]] — Provides background on her financial contributions.
   - [[Orsik]] — Provides context about his past incidents.
-  - [[Xamlyn]] — Provides context about her status within the party.
+  - [[grindle-2026-06-06-042021]] — Provides context about her status within the party.
   - [[Thistle]] — Provides context about his reputation within the party.
 
 - **Impact on Knowledge:**

@@ -26,3 +26,8 @@ The SEER stands for Supreme Elders of the Earth Realm. They are a governing body
 ## Notes
 - Not explicitly named but referenced.
 - Central to the SEER's operations and Hsing's role within it.
+
+## Related
+
+- [[sabotage-campaign]]
+- [[spymaster]]

@@ -11,6 +11,7 @@ sources: ["kolbaz.md"]
 What caused Kolbaz's death, and what evidence supports the theory that Adimond Kroskas was the culprit?
 
 ## Related Concepts
+- [[alias-adimond-krkos]]
 - **Harper:** A faction dedicated to protecting the realm from supernatural threats.
 - **Cult of the Dragon:** An ancient cult believed to be responsible for the destruction of the Well of Dragons.
 - **Seelie Court:** The fairies' court, known for its aesthetic and cultural practices.
@@ -22,5 +23,5 @@ What caused Kolbaz's death, and what evidence supports the theory that Adimond K
 - [[iymrith]]
 - [[blue-dragon]]
 - [[cult-of-the-dragon]]
-- [[seelie-court]]
+- [[fey-court-structure]]
 - [[teleportation-circle]]

@@ -11,4 +11,5 @@ sources: ["blooddrinker.md"]
 - **Central trade network:** Phenomenon involving magical goods
 
 ## Related Entities
+- [[cursed-cave]]
 - **Blooddrinker:** Shrunken to cat size by the cave's magical curse

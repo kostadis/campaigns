@@ -30,3 +30,7 @@ The Cult of the Dragon is a central organization in the story, centered around d
 
 ---
 Note: The newly generated information about the destruction of the Well of Dragons has been integrated into the existing background section, eliminating redundancy and maintaining a logical flow.
+
+## Related
+
+- [[dragon-killing]]

@@ -16,3 +16,7 @@ An Oracle Prophecy is a supernatural mechanism that dictates the actions of thos
 
 ## Examples
 - The Ghost of Annam's Oracle uses the oracle's rules to manipulate the party into performing tasks aligned with his desires.
+
+## Related
+
+- [[lantern-light-consumption]]

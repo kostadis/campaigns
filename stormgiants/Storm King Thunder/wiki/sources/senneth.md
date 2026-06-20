@@ -30,14 +30,20 @@ related: []
 - **Strength of Evidence:** Moderate; corroborated by her behavior and statements during meetings.
 
 ### Connections to Existing Wiki
-- **Existing Pages:** [[Mielikki]], Silverymoon, [[Cult of the Dragon]], [[Cambions]]
+- **Existing Pages:** [[grindle-2026-06-06-042021]], Silverymoon, [[cult-of-the-dragon]], [[grindle-2026-06-06-042021]]
 - **Impact:** Reinforces the narrative of devil cults in Silverymoon and provides insight into the local clergy's perspective.
 
 ### Contradictions & Tensions
 - **Internal Tension:** Senneth’s initial underestimation of the threat could be seen as a tension with her later reactions, though her openness to discussing the topic mitigates this.
 
 ### Recommendations
-- **Pages to Create or Update:** [[Senneth]], [[Mielikki's Glade]], Silverymoon, [[Devil Cults in Silverymoon]]
+- **Pages to Create or Update:** [[Senneth]], [[lions-share-outpost-2026-06-05-181317]], Silverymoon, [[shadow-negotiations-in-contractual-systems-2026-06-06-132926]]
 - **Emphasis:** Highlight Senneth’s pragmatic approach and her willingness to share information.
 - **Open Questions:** Further explore Senneth’s full knowledge of Lady Margaster and the play connection.
 - **De-emphasize:** Less focus on her previous actions with Thistle, as her current status and role are more relevant.
+
+## Related
+
+- [[silas_carras]]
+- [[uthor]]
+- [[taern_hornblade]]

@@ -4,7 +4,7 @@ title: Persuadable non-interventionism
 created: 2026-06-15
 updated: 2026-06-15
 tags: [philosophy, druidic, flexibility, moral-pragmatism]
-related: [delaan-winterhound, anti-interventionism-druidic, adabra-gwynn, philosophical-deception-tacit-complicity]
+related: ["delaan-winterhound", "emerald-enclave", "adabra-gwynn", "philosophical-deception-tacit-complicity"]
 sources: ["npcs/delaan_winterhound.md"]
 ---
 # Persuadable non-interventionism

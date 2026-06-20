@@ -4,12 +4,12 @@ title: Jenna Roscoe
 created: 2026-06-15
 updated: 2026-06-15
 tags: [npc, lord-s-alliance, civic-influence, recruiter, phandalin]
-related: [lord-s-alliance, vukradin, brewbarry, valphine, kraken-society, ser-kaelen, order-of-the-gauntlet, house-margaster, harbin-wester, lord-neverember, spider-man]
+related: ["lords-alliance", "vukradin", "brewbarry", "valphine", "kraken-society", "order-of-the-gauntlet", "house-margaster", "harbin-wester", "lord-neverember", "spider-man"]
 sources: ["npcs/jenna.md"]
 ---
 # Jenna Roscoe
 
-Jenna Roscoe (also known as Jena Roscoe) is a senior agent of the [[lord-s-alliance]] and a council representative in Phandalin. She operates at the intersection of civic authority and covert influence, using institutional legitimacy to recruit adventurers, launder wealth, and suppress dissent under the guise of public service.
+Jenna Roscoe (also known as Jena Roscoe) is a senior agent of the [[lords-alliance]] and a council representative in Phandalin. She operates at the intersection of civic authority and covert influence, using institutional legitimacy to recruit adventurers, launder wealth, and suppress dissent under the guise of public service.
 
 ## Identity
 - **Role:** Lord’s Alliance agent and civic representative
@@ -49,3 +49,7 @@ She is patient, calculating, and deeply pragmatic. She views moral conviction �
 Jenna’s arc remains unresolved. She is not defeated, nor allied. She is a persistent, adaptive force — a system operator who returns with new offers after each rejection. Her respect for Vukradin’s integrity suggests she may be more than a mere functionary; she may be a mirror to the party’s own compromises.
 
 Her true mandate, her connection to the Kraken Society, and whether her admiration for Vukradin is genuine or tactical remain hidden.
+
+## Related
+
+- [[jenna]]

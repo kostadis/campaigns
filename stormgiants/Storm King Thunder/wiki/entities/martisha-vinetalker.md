@@ -19,3 +19,7 @@ Her engagement with the party was strictly [[transactional-hospitality]]; she pr
 
 ## Potential Implications
 While currently appearing as a utility NPC, her "calculating" nature may suggest deeper involvement in regional economic or political structures, such as the [[adventuring-economy]].
+
+## Related
+
+- [[martisha_vinetalker]]

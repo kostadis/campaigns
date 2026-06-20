@@ -9,3 +9,11 @@ sources: ["deciduous_dryad.md"]
 ---
 # Dryad Combat Role
 - **Role:** The Deciduous Dryad played a tactical combat role, utilizing charm and social manipulation to influence Orsik
+
+## Related
+
+- [[friendship-and-alliance]]
+- [[deciduous-dryad]]
+- [[unseelie-combat-strategy-social-manipulation]]
+- [[social-manipulation]]
+- [[tactically-minded-combatant]]
