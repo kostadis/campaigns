@@ -1,0 +1,205 @@
+# Chapter 28 A Blazing New Beginning
+
+Date: May 31st, 2026
+
+## Summary
+The dust had barely settled on the fall of the elemental prophets when Barkinar, the cold and composed leader of the Greater Temple, summoned the party into a vast, heavily guarded chamber flanked by ogre bodyguards and a hill giant. He looked upon them with something approaching genuine admiration, remarking that Romag, Hartsch, Alrrem, and Belsornig had all been problems on his list that very morning, and that four problems were gone by sundown. Without waiting for a response, he declared the Upper Temple theirs, tasked them with stabilizing the leaderless elemental factions, recovering a mysterious chest, and warned them to remain civil toward the ambitious and paranoid Lord Wizard Senshock — and to let him underestimate them. Then he turned and walked back into the dark, leaving the party standing at the heart of the very organization they had come to destroy, now its rulers.
+
+The weight of their new responsibilities settled quickly. Dren Halveth, the mercenary captain who had fought loyally at their side, approached and looked to Calmer as the new boss, seeking clarity on his own standing. After some deliberation, the party agreed to promote Dren to lead the Earth Temple's forces, with the understanding that he would report directly to Calmer. Calmer, visibly pleased with himself, wasted no time relocating the party's headquarters to the far more comfortable chambers once belonging to Hartsch.  Zephyr, realizing that the temples' leadership needed to be addressed, suggested elections. Everyone burst out laughing. Sequoia reminded him that they were in an evil temple and that they had reached the top after two assassinations and a war.  Dren, after he stopped laughing,  explained with barely concealed amusement that Alrrem and his only remaining apprentice had died in a failed attempt to summon a fire elemental — and that the party now had a narrow window of roughly one week to plunder the Fire Temple before the Greater Temple expected order to be restored there.
+
+The party descended into the Fire Temple without hesitation. The great doors of beaten brass swung open to reveal a massive hall of red granite, lit by scores of torches and flaming cressets, the air thick with the smell of heated metal and sulfur. Tapestries depicting scenes of fire and evil form adorned the walls, and a large brass tube hung suspended from the ceiling by chains. Copper cauldrons filled with a glowing amber liquid flanked the central area, and at the far southern end stood a translucent golden altar surrounded by skulls inlaid with hammered gold. At the heart of it all burned a diamond-shaped fire pit, its coals glowing hot, with tiny forms cavorting within the flames — unmistakable signs of elemental life lurking just beneath the surface.
+
+It was Calmer who spotted the fire pit and, reasoning that the treasure chest must be hidden within, suggested dousing the coals with water. The moment the flask was emptied into the pit, a great eruption of steam and vapor filled the chamber — and the tiny forms within began to grow. Three fire salamanders, serpentine and blazing, hauled themselves out of the pit and sniffed the air with predatory calm. The party erupted into a heated argument over whose idea it had been, with Calmer sheepishly admitting he was "just trying to sound pompous and arrogant" when he had claimed to have read about the situation moments before. With the creatures now fully emerged and hunting, the party scrambled behind the great stone pillars lining the hall, and Calmer wrapped himself in a protective aura of biting frost to ward off the heat.
+
+The salamanders moved with terrifying purpose. Two of them zeroed in on Calmer as the most obvious target, lunging with their flame spears and attempting to coil around him, though he managed to twist free of their grasps each time. Zephyr, hidden in the shadows, seized the moment and burst from concealment to unleash a devastating ambush on one of the creatures, striking with lethal precision and dealing a staggering amount of damage before the salamander even knew he was there. Zinnia charged across the battlefield in a blur of motion, landing a series of powerful blows against another foe before wisely retreating out of reach. Sequioa, meanwhile, moved through the chaos with quiet efficiency, cutting down one of the injured salamanders before the creature could recover.
+
+The tide of battle shifted when one of the salamanders drove its flame spear into Calmer, the searing heat washing over him — but the frost aura surrounding the cleric retaliated instantly, blasting the creature with a burst of intense cold that sent it reeling backward and fleeing across the chamber. Calmer swung his mace at the retreating beast as it passed, but the blow sailed wide, missing entirely. Sequioa, badly wounded from a previous exchange, disengaged from the front lines and called out for healing, which Calmer provided with a surge of divine energy before turning his attention back to the remaining salamanders. With the creatures bloodied and the party regrouping behind the pillars, the Fire Temple's fearsome guardians were on the back foot — and the plundering of the temple was only just beginning.
+
+## Memorable Moments
+> "Romag, Hartsch, Alrrem, Belsornig. Problems I had on a list yesterday morning, and four problems gone by sundown. You will forgive me if I am impressed."
+> — Barkinar
+
+*Cold and composed, Barkinar addresses the party after they have eliminated all four elemental prophets in a single day.*
+
+**The party, sent to destroy the temple, finds themselves standing at its heart as its new rulers — tasked by Barkinar with running the very organization they came to bring down.**
+
+> "You were supposed to destroy the temple, not join."
+> — Sequoia
+
+*Reacting with dismay as the party realizes they now have bosses and a list of administrative chores to complete.*
+
+> "I think the water did."
+> — Calmer
+
+*Sheepishly explaining the cause of the erupting steam and growing fire salamanders after pouring water into the magical fire pit.*
+
+> "You know, I did read about this just a few moments ago. Seem. Well, I didn't read about it. I'm just trying to sound pompous and arrogant."
+> — Calmer
+
+*Attempting to project authority as the new Earth Temple boss while three fire salamanders grow out of the fire pit he just doused with water.*
+
+> "What the fuck do you mean elect?"
+> — Dren Halveth
+
+*Bursting into laughter when Zephyr suggests electing new leaders for the leaderless Fire Temple, incredulous at the notion.*
+
+> "How do you think we came into power? By peaceful means?"
+> — Sequoia
+
+*Reminding Zephyr that there will be no democracy in an evil temple seized through assassination and war. Dren laughs even harder.*
+
+> "Well, yes, but I... I'm not the smart one, yous guys are the smart." / "Yes, you are! By all objective metrics, you are!"
+> — Calmer and Sequoia
+
+*Calmer pleads incompetence to deflect blame for the water disaster, and Sequoia refuses to let him off the hook.*
+
+> "ATTACK ME NOW! I am an enemy of all that is, fire!" / "Holy shut up!"
+> — Calmer (taunting the salamanders) and Sequoia
+
+*Calmer, wreathed in his frost shield, screams a challenge at the salamanders to draw their attacks, much to Sequoia's exasperation.*
+
+> "Matt, here's the new plan of how we're gonna take down the temple. We're gonna bankrupt it. Nobody's getting paid."
+> — Sequoia
+
+*Reframing the looting of the Fire Temple as a long-game sabotage of the entire organization.*
+
+**Zephyr emerges from hiding to unleash a devastating ambush on a fire salamander, combining his assassin's surprise strike with his sneak attack for a staggering 42 total damage in a single round.**
+
+*Startled and proud after striking from the shadows against a creature that had not yet acted, exploiting his assassin's ambush ability to its fullest — 4d6 sneak attack, plus the assassin's extra 8 damage, plus a bonus attack.*
+
+**Calmer's magical frost shield retaliates against the fire salamander that speared him, blasting it with cold damage and sending it fleeing — only for Calmer to completely whiff his attack of opportunity with his Mace of Smiting.**
+
+*A moment of triumph immediately undercut by a comically missed follow-up swing as the creature retreated. The salamander took 21 from its own spear's heat onto Calmer, but absorbed 22 cold damage from the shield in return.*
+
+## Scenes
+### The New Rulers of the Temple
+#### The party reflects on their sudden promotion to temple leadership after the fall of the elemental prophets.
+- The party reviews the recent deaths of the elemental prophets: Romag, Hartsch, Alrrem, and Belsornig.
+- Barkinar, a powerful leader of the Greater Temple, officially recognizes the party as the new rulers of the Upper Temple.
+- The DM lays out the full task list in the Discord chat: "You have to pacify the Fire Temple, resolve the troll contract, audit and secure the Water Temple treasury, formalize Dren's command, recover the chest of Rao... deal with Kelno. And figure out who this damn necromancer is, if he's still alive."
+- The party is tasked with several administrative burdens, including pacifying the Fire Temple, auditing the Water Temple treasury, and managing mercenary contracts.
+- Barkinar warns the party about the ambitious Lord Wizard Senshock and a hiding wizard named Falrinth.
+- Calmer is designated as the new chief cleric of the Earth Temple by the Greater Temple leadership.
+- Sequoia notes the irony of their new station: "You were supposed to destroy the temple, not join." Much to the party's horror, they now have bosses and "management."
+
+### New Management and the Earth Temple
+#### The party discusses their new responsibilities within the temple hierarchy and formalizes Dren's role as a commander.
+- The party reviews their new tasks, including pacifying the Fire Temple and auditing the Water Temple treasury.
+- Dren Halveth approaches, looking at Calmer, and asks, "So boss, am I in charge?"
+- When Zephyr seems to claim the role, Dren rebuffs him: "I don't think so, Zephyr, my button buddy old pal. Last time I checked, Barkinar art was." — clarifying that the cleric, Calmer, is the boss.
+- Calmer is plainly delighted with his new authority: "Yes, I am the boss. Yes, I am."
+- Zephyr tells Dren to expect "Rocky waters from now on" but that he must stay close with the party, who trust him for now (truncated).
+- Dren wants to be put in charge of all the Earth Temple forces, reporting to Calmer.
+- Zephyr proposes that Dren lead the Earth Temple troops while reporting directly to the party, citing his loyalty.
+- The party rolls Persuasion with Advantage collectively; the DM notes "Sequoia, you are as unpersuasive as it gets," while Zephyr rolls a 14.
+- Calmer agrees enthusiastically: "Yes, yes, I think that is an excellent idea. I think we should hold a ceremony of sorts."
+- Calmer suggests moving their headquarters to Hartsch's chambers, "far more comfortable than the current ones."
+- Zinnia rolls a 16 Insight and gets no warm fuzzy feeling about Calmer's infatuation with his new role, though it is ambiguous whether he simply likes the comfort.
+- Calmer instructs Dren: "I would like us to set up a meeting in the Earth Temple for later today. Bring all the troops and announce that there will be changes in the management." Sequoia (Insight 18) realizes management now expects the party to complete the assigned tasks.
+- The party discusses the power vacuum in the Fire Temple following the death of Alrrem and his apprentice during a failed summoning ritual.
+- Zephyr proposes elections. Sequoia reminds him that they came to power through assassination, and war. Dren laughs hard ("What the fuck you mean, elect?").
+- Dren, picking at his fingers with his dagger, recounts that Alrrem and his only remaining apprentice were trying to summon a fire elemental "they were going to use to kill us all," but failed and died. He notes that, by the rules, only a cleric can rule a temple, and there is currently no cleric in the Fire Temple.
+- Calmer declares, "I am a cleric of the Earth Temple. Of the Earth God," and retreats into Hartsch's room to read up on the rituals.
+- Dren explains that they have a one-week window to plunder the Fire Temple before the Greater Temple expects it to be run properly: "we've got a week to steal whatever the F we want, and after that, he's going to expect things to be run properly."
+- Zephyr commits to the plan: "Alright, let's go steal everything." Dren beams: "NOW you're talking! Calmer, are you good with that plan? I don't want Zephyr here to be stepping on any toes."
+- Calmer emerges from his "study" with dirt on his face: "Just practicing the rituals, just practicing the rituals... Nothing, nothing, nothing, nothing to see here."
+
+### Entering the Fire Temple
+#### The party arrives at the Fire Temple, a grand and oppressive hall filled with the scent of sulfur and the glow of eternal flames.
+- Now that the party is in charge, they enter through the front entrance and the massive beaten brass doors into a hall of red granite lit by scores of flambeaux and flaming cressets.
+- They observe tapestries on the north walls depicting scenes of fire and evil form, and a brass tube — 20 feet long and 2 feet in diameter — suspended from the ceiling by chains of the same metal, with a shallow fire pit and brass stands of charcoal blocks beneath it.
+- The air is filled with rust-colored luminescence and the smell of heated metal and sulfur; blue and mica flakes in the polished granite appear to "leap and dance as if flames caught within the rock."
+- The party discovers great copper cauldrons flanking the main area, filled with a glowing amber liquid, with octagonal brass tables before them set with 16 bowls each.
+- At the south end stands a translucent block of golden apatite, 3 feet wide and high and 9 feet long; the DM drops a stock image in Discord, prompting Sequoia's "Great stock image" and a tangent about the infamous gazebo encounter.
+- The altar's sides grin with skulls inlaid with hammered gold, topped by an eight-pointed fire symbol set in wrought gold.
+- A diamond-shaped fire pit before the altar — 10 feet long north-south, 8 feet broad, several feet deep — glows with hot coals, with tiny forms cavorting atop them, "perhaps small denizens of the elemental plane of fire."
+- An Insight check reveals the fire pit is magical and of evil nature; the party's expertise in the criminal and demonic mind suggests the treasure chest is most likely hidden right in that fire pit.
+
+### The Fire Pit Disaster
+#### The party accidentally triggers a magical trap by pouring water into the fire pit, awakening three fire salamanders.
+- Calmer suggests, "perhaps we wish to dump water on it?" and pours a flask of water into the fire pit, causing steam and vapor to rise into a shallow wall of fog.
+- Calmer remarks, "well, that didn't seem to work" — just before the small forms within the pit begin growing rapidly into three large fire salamanders.
+- The party argues over the tactical error: "Who the fuck put water in there?" / Calmer: "Zephyr told me to do it!" / Sequoia: "you're the cleric, and you should have an ounce of intelligence."
+- Calmer fishes for advice — "Zinnia, you have experience in the realms of subterfuge. I shall be looking to you for advice" — and floats a "mirror" idea of putting fire in the Water Temple, asking sincerely, "is that a bad idea?"
+- The party members scramble to hide behind the pillars at Calmer's suggestion; Sequoia repositions Zinnia and Zephyr behind cover.
+- Calmer casts a protective frost-based shield on himself to ward off the heat.
+- Three fire salamanders pop out of the fire pit, stand ready, and sniff the air; the party rolls poor initiative ("You guys used all of your excellent initiatives last time").
+- The salamanders focus their aggression on Calmer, attempting to constrict and spear him, but he resists each grappling attempt with his saving throws.
+
+### The Fire Temple Skirmish
+#### The party engages in a dangerous battle against the fire salamanders within the Fire Temple.
+- Calmer opens by blaming the party — "gentlemen, why didn't any of you tell me this was going to happen?" — drawing more incredulity from Sequoia.
+- Calmer casts his fire/frost shield and taunts the creatures: "ATTACK ME NOW! I am an enemy of all that is, fire!"
+- Sequoia, hiding, rolls a natural 1 on Stealth but uses Lucky to reroll; with a third D20 in hand the table holds its breath, the DM later noting "the particular character who had that had a third D20, and so we all stood there wondering."
+- Zephyr (Stealth 19) and Zinnia (Stealth 16) remain hidden while the salamanders fixate on Calmer.
+- Zephyr emerges from hiding to launch a devastating opening assault: a hit, then his assassin's ambush plus a 4d6 sneak attack (33 damage) and a bonus attack, for 42 total damage against the unsuspecting salamander.
+- Zinnia charges across the battlefield, using a charge ability for an extra d8, landing for 30 total damage against another fiery foe before retreating out of reach.
+- Calmer attempts to resonate a deathly toll (Toll the Dead) against a creature, but it resists the magical effect.
+- Sequioa successfully fells one of the injured salamanders for 17 damage, then takes 7 fire damage from a salamander's heat aura.
+- A salamander retaliates against Sequioa, lashing out with a flame spear for 21 damage and attempting to constrict the halfling (Strength save 16); Sequoia notes, "Man, you can still have half my HP in one round."
+- Calmer is struck by a spear (21 damage, halved to 18 [verify: VTT shows 18 and 21 as separate statements — may be two distinct hits]) but his magical frost shield retaliates, blasting the salamander with 22 cold damage and forcing it to retreat; Calmer's Mace of Smiting attack of opportunity misses entirely.
+- Zephyr forgoes his bonus attack for advantage on a sneak attack but misses both rolls with advantage against AC 15.
+- Sequioa, badly wounded and "about to get one-shotted," disengages from the front lines to seek safety and healing, firing his bow on the way out for a critical miss.
+- Calmer calls upon divine power to mend Sequioa's wounds for 15 hit points (his bonus action) and blasts a creature with Sacred Flame for 16 radiant damage.
+- The session pauses with the salamanders bloodied; Zephyr quips "Easy fight" and the DM agrees "the Fire Temple is doomed... you just guys just gotta avoid getting killed." The party closes by ribbing Calmer over "amateur hour boss" leadership.
+
+## Locations
+### The Greater Temple
+A vast, heavily guarded chamber on the second level of the temple complex where Barkinar holds court, flanked by ogre bodyguards and a hill giant.
+
+### The Air Temple
+A sparse, grey-carpeted area lit by metal lamps, previously led by Kelno, where the party recently negotiated their way into power.
+
+### The Water Temple
+A breathtaking hall with malachite walls and a greenish luminosity, currently leaderless following the death of Belsornig and now completely unoccupied — ripe for plunder.
+
+### Hartsch's Chambers
+The former headquarters of the Prophet of Earth, now claimed by Calmer as the party's new base of operations due to its superior comfort. Calmer settles in happily and uses the room's books to study the temple's rituals.
+
+### The Earth Temple
+The area where the party has recently taken control and where they plan to hold a ceremony to announce changes in management, bringing all the troops together "later today."
+
+### The Fire Temple
+A grand hall of red granite adorned with massive beaten brass doors and tapestries depicting scenes of fire and evil form. It features a 20-foot brass tube suspended from the ceiling by chains, copper cauldrons filled with glowing amber liquid, octagonal brass tables set with bowls, a translucent golden apatite altar ringed with gold-inlaid skulls, and a central diamond-shaped fire pit filled with magical coals where fire salamanders were awakened.
+
+## Items
+### Dagger of Venom
+A lethal enchanted blade entrusted to the party by Kelno, which Zephyr used to deliver the killing blow to Belsornig, the Prophet of Water.
+
+### Chest of Rao
+A significant artifact previously delivered to Romag that the Greater Temple has tasked the party with recovering.
+
+### Flask of Water
+A simple container of water used by Calmer in an ill-fated attempt to douse the magical coals of the Fire Temple's fire pit, which instead produced a wall of steam and provoked three fire salamanders to emerge.
+
+### Mace of Smiting
+Calmer's holy weapon, which he swung at a retreating salamander as an attack of opportunity, though the strike failed to connect.
+
+## Spells
+### Fire Shield
+Calmer wreathed himself in a thin aura of frost that protects him from heat and punishes any creature that strikes him with biting cold damage. Because the salamanders are fire-bearing (cold-vulnerable) creatures, the shield deals 4d8 instead of 2d8; when a salamander attacked him, the shield blasted it with 22 cold damage and forced it to retreat.
+
+### Toll the Dead
+A necromantic cantrip used by Calmer to create a melancholic bell toll that harms the target, though the salamander resisted its power and took no damage.
+
+### Sacred Flame
+A burst of radiant divine fire that Calmer called down upon a salamander for 16 radiant damage.
+
+## NPCs
+### Barkinar
+A cold, composed, and powerful leader of the Greater Temple who commands ogre bodyguards and a hill giant. He was impressed by the party's efficiency in eliminating the elemental prophets, installed them as the new administrators of the Upper Temple, and tasked them with stabilizing the various elemental temples. He set the one-week window to plunder the Fire Temple before he expects it "to be run properly."
+
+### Kelno
+The ancient and cunning leader of the Air Temple who anticipated the party's arrival and negotiated a deal to serve as their subordinate in exchange for his life.
+
+### Dren Halveth
+A mercenary captain who assisted the party and now serves as their primary contact for managing the temple's military forces. He is pragmatic and loyal, and was promoted to lead the Earth Temple forces under the party's command, reporting to Calmer. He laughed off the idea of elections ("What the fuck you mean, elect?"), recounted how Alrrem and his apprentice died summoning a fire elemental, and framed the looting of the Fire Temple as a one-time opportunity: "NOW you're talking!"
+
+### Lord Wizard Senshock
+An ambitious and paranoid wizard within the temple hierarchy whom the party is warned by Barkinar to treat with civility and to let underestimate them.
+
+### Alrrem
+The deceased Prophet of Fire who died along with his only remaining apprentice while attempting to summon a fire elemental "they were going to use to kill us all," leaving the Fire Temple without leadership.
+
+### Fire Salamanders
+Three serpentine denizens of the elemental plane of fire that emerged from the Fire Temple's magical fire pit after water was poured into it. They wield flame spears (dealing roughly 21 damage), radiate a heat aura that scorches nearby foes, and can attempt to constrict their enemies (DC 15 Strength save). They are resistant to fire damage but vulnerable to cold, taking double damage from Calmer's frost shield. One taunted the party as it attacked: "ATTACK ME NOW! I am an enemy of all that is, fire!" (voiced through Calmer's challenge).

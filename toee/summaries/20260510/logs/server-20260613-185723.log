@@ -1,0 +1,9 @@
+Starting Campaign Generator on http://localhost:5000
+usage: main.py [-h] [--campaign-dir DIR] [--session-dir DIR] [--session FILE]
+               [--extract-dir DIR] [--roleplay-extract-dir DIR]
+               [--output-dir DIR] [--party FILE] [--voice-dir DIR]
+               [--summary-extract-dir DIR] [--session-summary FILE]
+               [--context FILE [FILE ...]] [--characters NAMES]
+               [--examples DIR] [--narrate-tokens N] [--port PORT]
+               [--host HOST]
+main.py: error: unrecognized arguments: --campaing-dir /home/kroussos/toee/toee

@@ -1,0 +1,52 @@
+---
+scene: 06
+slug: the_defector_s_end
+narrator: sequoia
+scene_name: The Defector's End
+session: 20260510
+---
+We were turning to go up. First level, the war council, Hartsch waiting on us like we owed him something. Calmer had just put the wraith down and had nothing left in him — I could see it in how he stood, all the color gone, running on the last of whatever a man runs on when the body has quit arguing.
+
+Then movement. Down the corridor, against the brown marble, a bugbear stumbling toward us with a sack of coins clutched to his chest like a child. Babbling. Kelno had promised him safety. Kelno had promised him gold.
+
+Zephyr read it wrong first. "So… You're for the water temple."
+
+No. Not water. I watched the understanding change on his face the same time it changed on mine. This one was ours.
+
+"Where are you from?" Zephyr pushed. The answer came out of the babbling. Earth Temple. *Our* perimeter. One of the bugbears who was supposed to be standing between us and the things that wanted us dead, and he was walking out with somebody else's money in his hands.
+
+"And you're leaving?" Zephyr again. Then, when that didn't land: "Okay. Remember who's the most powerful temple, bugbear?"
+
+Calmer didn't wait for the appeal to work. He came in low and loud with next to nothing left in him, a breath from collapse, the wraith's cold still in his chest, and he said, "Don't mess with me, man! I just killed the Wraith!" Then, louder: "This is how the earth temple rules, with power and force!" He was getting into it. Too into it. Somewhere under the elemental cult armor the cleric was supposed to be wearing a costume, and the costume had started doing the talking. Not my problem right now. I filed it.
+
+The question came around to me. Chase him. Intimidate him. Threaten him. Find out what's going on.
+
+"I think he's okay."
+
+I didn't mean it the way it sounded. I meant the situation was clear, the read was finished, there was nothing here that needed working out. He was taking money from Kelno to change sides. That's the whole of it. A man who sells the wall he's standing on doesn't get a second wall.
+
+"Uh, we're gonna go kill him, Ben."
+
+I said the rest of it before anyone had moved, before he'd even understood it was happening. "One does not simply take bribes to defect." Because that's the whole reckoning of it. You can be bought. Everyone can be bought. But the buying happens before you take the post, not after — once you're inside the perimeter you're inside it, and the only exit anyone's going to honor is the one that doesn't have you walking through it.
+
+Good thing I am small. He never clocked me coming.
+
+The first cut found exactly where it needed to go — clean, the way it goes maybe once in a long while, when the body knows the work before the mind catches up. It took most of him in the one exchange. He was still standing. Barely. I had one more in me and there was no reason to save it.
+
+He dies.
+
+I stood over the body. "One does not simply take bribes to defect."
+
+Then the part that actually mattered. I went through the sack — twenty gold, and I turned a coin in the light because something was bugging me about the weight of it. The stamp wasn't Kelno's. Wasn't water at all. Air Temple insignia, pressed clean into every piece.
+
+*That's odd.*
+
+*That's not good.*
+
+Kelno hadn't bought him. Somebody upstairs had let us believe Kelno was the one pulling at our bugbears, and the real hand was a different one entirely. The gnolls came out of the wall to prove it — a secret door I hadn't found yet, which meant they'd been close enough to watch the whole thing — furious, talking about money. "We paid good money for that! Now we will get our money, and get food!"
+
+"Didn't know you guys liked eating while dead, but okay."
+
+Air Temple. Kelno had been recruiting, busily, badly, reaching into the Earth Temple's perimeter and peeling people off one frightened bugbear at a time. We engineered a three-way war and then went and stood at the top of one of the three sides, and the other two had noticed, and this was what noticing looked like — gold with the wrong stamp on it, in the hands of a man who used to guard our wall.
+
+I pocketed the coins. Evidence and payment both. No sense leaving them for the gnolls.
