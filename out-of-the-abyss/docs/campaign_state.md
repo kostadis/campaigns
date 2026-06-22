@@ -163,7 +163,7 @@
   - **Dawnbringer** (sentient sunblade, radiant, locking Vaultmaster scabbard) — Thorin.
   - **Glabbagool** — ooze Shadow Apprentice sidekick (teleport in darkness, acidic strikes), carried by Zalthir.
   - Stonespeaker Crystal (speak with animals/dead/plants), Necklace of Fireballs, Alchemy Jug, recovered spellbooks (Ebonmire's, Princess Ebonmire's), bag of holding, Entémoch's Boon (Earth Elemental summoning + stone-skin), Voucher of the Varmint (wererat recognition), assorted gems/treasure, anti-acid armor materials, Resonant Slime, Dawnbringer's lesser restoration.
-  - Both High Tower Library keys (Janussi's via missing locket — untraced; Kalan's — held by Grygum).
+  - Both High Tower Library keys (Janussi's via missing locket — untraced; Kalan's — held by Daz, passed from Grygum before he left for the disputation, Ch. 56).
   - The poisoned book (murder weapon) in evidence.
 - **Recent developments shaping next session:** Forensics complete; shapeshifter-as-Sylvira confirmed; Daral under midnight watch; investigation pivots to tracing the impersonator, the missing locket/key, and Bookwyrm's alibi. Daz's identity hunt requires sources beyond Candlekeep's public archive. Manshoon/Vile Darkness vault arc looms (per future prophecy echoes) but has not yet begun.
 

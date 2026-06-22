@@ -522,3 +522,151 @@ actors**, not a lone killer.
 
 **Kei Tigersteel** (Lorekeeper, Oghma priest) now has the body. If you
 need Speak with Dead on Janussi, he is the person to ask — or persuade.
+
+---
+
+---
+
+# PART 4 — Never mind the murders (Ch. 56)
+
+*The whole keep emptied into the Oval Theater to argue about Grygum's
+theology, and your minder went with them. You got one unsupervised hour and
+spent all of it. You found the heart. You found a poison-theft conspiracy
+run by two people. And you found, in a Great Reader's bedroom, what reads
+like the murder's instruction manual. Everything in Parts 1–3 still stands.*
+
+---
+
+## The window — how you got an hour alone
+
+- Brother Vareth expanded the **Grygumite triangle into a quadrangle** (a
+  fourth theoretical option), and the entire avowed community abandoned its
+  posts to debate it in the **Oval Theater**. "Nothing says academic
+  institution like blowing off a murder for new research."
+- **Fembris Lancer** — your minder — sheepishly asked to attend. Bookwyrm
+  would be there ("a political statement; she can't afford not to be"). His
+  leaving bought you **one hour, unwatched.**
+- **Grygum handed Kalan's key to Daz** before going to the disputation —
+  unwilling to carry it in a crowd. **Daz cast Identify on it: the key is
+  NOT linked to any summoning spell.** It's clean.
+
+## Mechanics you nailed down this hour
+
+- **Midnight Tears — how to beat the trigger:** ride west to outrun
+  midnight, **plane shift** away, or have a cleric cast **Lesser
+  Restoration** before the bells. (Therefore useless against mind flayers /
+  githyanki, who plane shift natively. "Explains why the drow love it —
+  nobody knows what time it's midnight where you are.")
+- **The sapphire summon spell, clarified:** only works on an item **not in
+  anyone's possession**. A **dead** person can't possess anything — an
+  **undead** can. (The followers of Kelemvor are firm on this.) The **same
+  sapphire** must cast *and* retrieve, so possessing it is "as good as having
+  the item." Joe's name for it: **"AirTags before AirTags."** → fits the
+  locket-key-hidden-then-summoned theory exactly.
+- **Keys can be duplicated** — but only with **powerful, hard-to-access
+  magic.** No back-alley copies.
+- **The poison taster lived.** Sprig Summerfoot tasted **every dish** at the
+  feast and never got sick. → the **served food and drink were clean.** The
+  poison rode in on the **book**, nothing else.
+
+---
+
+## Discovery 1 — The heart, in the chalice (Southern Dining Hall)
+
+*Thorin + Daral.*
+
+- Statue of **Milil** (god of bards) in the alcove holds a **brass chalice**
+  that is **lead-lined** — it blocks divination and Locate Object. Daral
+  recognized it on sight ("we used it for the Midsummer Wine!").
+- Inside: **the severed heart and a blood-stained meat cleaver.** Janussi's
+  missing heart, hidden where no divination could find it. Removed to block
+  resurrection and Speak with Dead — and **stashed in the one vessel in
+  Candlekeep that hides things from magic.**
+- **The read:** whoever did this **knew the chalice was lead-lined.** This
+  murder was **planned around Candlekeep's own spells and its own objects.**
+  Not a random outsider. An **insider** who knows the building.
+
+## Discovery 2 — The waitstaff (Southern Dining Hall)
+
+| Witness | What they gave you |
+|---|---|
+| **Irony** *(compulsive truth-teller)* | Feast ran from the 5 pm bell, 12 courses, "tense and taciturn — except Alkrist." **Sylvira stormed out** mid-evening after a sharp exchange. **Kazryn Nyantani** handed out the gifts from under the tree; Janussi unwrapped his, thanked his "secret donor," left. **At 1 am she met a figure that looked like Sylvira in the kitchens** — silent (pointed at her own throat), and **carrying a lantern.** A tiefling needs no lantern. |
+| **Sprig Summerfoot** | Self-appointed **poison taster** for every dish. Never sickened (→ food was clean). Flagged that **Teles Ahvoste** has been pushing **unwanted advances on Irony.** |
+| **Orrin Glass** *(deaf one ear, misses nothing)* | Saw **Alkrist drop a scrap of paper into a candle flame** the instant junior avowed walked in — burning something. And: the **string on Janussi's gift had been cut and retied** → the book was **tampered with while it sat under the tree, during the feast.** |
+
+- **Alkrist** was conspicuously, cheerfully pitching a new project that night:
+  **"Tales of War by the Generals That Waged Them"** — first-hand accounts
+  from warlords. (Note who collects stories about how commanders die.)
+
+## Discovery 3 — The poison theft (Oak Tree Apothecary)
+
+*Daz + Speak with Animals.*
+
+- A **broken vial** from the **"Dangerous Toxins"** shelf, hastily hidden
+  under a **peppermint rag.** Leuwin: a base toxin that "if you mix it with
+  other things turns into very dangerous poisons."
+- Leuwin's log for the day: **2:30** Fheminor (cold medicine) · **3:00**
+  A'lai (fennel, taken **down to the greenhouse**) · **3:15** the theft.
+- **Nibbles the squirrel** (paid in nuts, one batch at a time) saw three
+  visitors:
+  - an **"unfriendly girl gnome"** — came and went *before* the theft.
+    (Matches Leuwin's 2:30 visitor, **Fheminor** — though a squirrel's
+    "gnome" vs. halfling is a rough ID.)
+  - a **"clumsy dark-skinned elf"** — **A'lai**, who **drew Leuwin away to
+    the greenhouse.** The diversion.
+  - a **"huge lizard-skin"** — a **Dragonborn**, who made a big mess,
+    knocked something over with a "BLING," and **left with the toxin.** The
+    thief.
+- **The read (Daz's, professionally):** a **drow runs the distraction and
+  keeps clean hands; the Dragonborn does the dirty work.** This is a
+  **two-person job, minimum** — and it has a drow's fingerprints on the
+  *method*. Nibbles saw no identifying marks on either.
+
+## Discovery 4 — The rooms (Zalthir + Glabbagool)
+
+| Room | What you found |
+|---|---|
+| **A'lai Aivenmore** | Tasteful, sparse, a self-portrait. A **messenger-dove cage built for five — only two birds left.** Feeding and droppings confirm there *were* more. **Three doves sent out, to unknown recipients.** |
+| **Alkrist** | Lavish. His spellbook; a **locked safe** (couldn't open it — Glabbagool can't squeeze through a gap under an inch); **sealed glass jars of dead rats, skin blistered and pustulated** (poison testing); and on the bedside table, **"1001 Tashalian Nights,"** black leather with gold stars, **bookmarked to a tale of a military commander poisoned by a gift — a horn whose mouthpiece was coated in Midnight Tears.** A bookmark, not an accident. **The murder, written down as a recipe.** |
+| **Bookwyrm** | Half the top floor of the Readers' Tower, neat, unremarkable. **Nothing.** No poison, no conspiracy. Clean. |
+
+---
+
+## Where you're picking up next
+
+**The picture that emerged this hour:** the murder was an **inside job built
+on Candlekeep's own magic** (lead chalice, Locate-Object blind spots), and
+the poison was **stolen by a two-person team** — a **drow decoy** and a
+**Dragonborn thief** — from the apothecary the afternoon before. One Great
+Reader keeps **poisoned rats and a bookmarked how-to-poison-a-gift story** in
+his bedroom. Another keeps **doves he's been sending somewhere.**
+
+**Suspects — updated heat:**
+
+| Suspect | New this session | Heat |
+|---|---|---|
+| **Alkrist** *(Dragonborn, Great Reader)* | The "lizard-skin" thief fits him. Cheerful at the feast; **burned a paper** when juniors arrived; jars of **poisoned rats**; the **"1001 Tashalian Nights" blueprint** bookmarked to a Midnight-Tears gift-poisoning; pitching a **how-commanders-die** project. | **PRIME** |
+| **A'lai Aivenmore** *(Great Reader)* | The "dark-skinned elf" who **lured Leuwin to the greenhouse** = the **diversion.** Plus **three doves sent** out. Already: found the body, pushed hardest for the leadership vote. | **High** |
+| **Sylvira Savikas** | **Impersonated again** — the 1 am kitchen figure with the needless lantern. Still framed, still uninterviewed. | High — but framed |
+| **Fheminor Scrivenbark** | At the apothecary **before** the theft; came and went. Present, not yet placed in the crime. | Low–medium |
+| **Daral Yashenti** | **At your side all session, terrified.** His midnight test is **still pending** — if Midnight Tears was on the pages he licked, he dies at the bells. He's been your guide and informant all hour, but he is **not yet cleared.** | Pending (midnight) |
+| **Teles Ahvoste** | New color: pressuring Irony. Not tied to the murder yet. | Unknown |
+| **Bookwyrm** | Her chambers came up **clean.** Open column. | Open |
+
+**Open threads going in:**
+- **Confront Alkrist and A'lai** with the apothecary trail — the thief and
+  the decoy. (Careful: you searched their rooms unsupervised, during a stolen
+  hour. You can't say *how* you know.)
+- **Alkrist's locked safe** — unopened. What's in it.
+- **What Alkrist burned** at the feast, and **where A'lai's three doves
+  flew.**
+- **Who wore Sylvira's face** at 1 am — the shapeshifter is still unnamed.
+- **Janussi's locket / his Hightower key** — still missing. (Grygum still
+  holds Kalan's key; both are needed together.)
+- **The third-floor apartment** with the open door — **still unentered.**
+- **The hooded Avowed** from the Refectory (Part 1) — **still unidentified.**
+- **Daral's midnight test is still running.** If the *Golden Ass* pages he
+  licked carried Midnight Tears, the bells kill him — and prove him innocent.
+  Grygum has Revivify; Dawnbringer can draw poison; keep him close.
+- **Your hour is over** the moment the disputation ends and Fembris comes
+  back. Two clocks now: the minder's return, and **midnight on Daral.**
