@@ -5,4 +5,14 @@ refs:
     book_id: 13189
     note: "DDEX3-04 It's all in the blood."
     library: drivethrurpg
-
+  # DDEX3-11 The Quest for Sporedome — PDF not yet converted (no JSON sidecar).
+  # Uncomment after running convert_book.py on the PDF below.
+  # - rpglib: "Wizards of the Coast/DDEX3-11 The Quest for Sporedome (5e)/DDEX311_The_Quest_for_Sporedome.pdf"
+  #   note: "DDEX3-11 The quest for sporedom"
+  #   library: drivethrurpg
+  - rpglib: "Wizards of the Coast/DDEX03-15 Szith Morcane Unbound (5e)/DDEX315_Szith_Morcane_Unbound.pdf"
+    note: "DDEX03-15 Szith Morcane Unbound"
+    library: drivethrurpg
+  - rpglib: "Wizards of the Coast/DDEX03-16 Assault on Maerimydra (5e)/DDEX316_Assault_on_Maerimydra.pdf"
+    note: "DDEX03-16 Assault on Maerimydra"
+    library: drivethrurpg
