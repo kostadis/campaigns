@@ -7,7 +7,7 @@ session: 20260618
 ---
 I had the treatise open in front of me. *On the Punctual Tears.* Someone had styled it as an internal topocentric protocol, which is an enormous amount of robe for a poison, but the Underdark teaches you that the people who kill you usually want it documented first.
 
-The thing made references to Shar, and to Selûne. The goddess of darkness and the goddess of the moon, sitting in the footnotes of a vial. That part actually explained something. *Explains the Underdark conundrum.* Down there nobody can see either of them.
+The thing made references to Shar, and to Selûne. The goddess of darkness and the goddess of the moon, both named in the footnotes of a poison. That part actually explained something. *Explains the Underdark conundrum.* Down there nobody can see either of them.
 
 So I worked it backward, the way you do.
 
@@ -15,13 +15,13 @@ So I worked it backward, the way you do.
 
 Apparently that was exactly what it said. Which meant the trigger wasn't a clock. It was a place.
 
-"Regardless of where you are. So if you did continue to ride west, you could essentially out — out." Outrun it. Stay ahead of the dark side of the world and the poison never finds its hour.
+"Regardless of where you are. So if you did continue to ride west, you could essentially out — out." Outrun it. Stay ahead of the dark side of the world and midnight never catches you.
 
 That was one door. The treatise listed the others. Keep riding west, or shift to another plane, or have someone who can call on the healing that draws a poison clean out of the blood.
 
 "That last one's probably the easiest," Thorin said.
 
-For us, sure. Not for a mage with no cleric buddy friends, which is most of them. For that crowd a way to step between planes is a convenient thing to keep in a pocket — which is also why the poison is useless against a mind flayer or a githyanki, who cross between worlds the way the rest of us blink. The drow love it precisely because nobody down there knows what time it's midnight. It creates all sorts of diabolical drowisms. Was it midnight now, or in an hour. I suppose we'll find out.
+For us, sure. Not for a mage with no cleric buddy friends, which is most of them. For that crowd a way to step between planes is a convenient thing to keep in a pocket. Which is also why the poison is useless against a mind flayer or a githyanki, who cross between worlds for free. The drow love it precisely because nobody down there knows what time it's midnight. It creates all sorts of diabolical drowisms. Was it midnight now, or in an hour. I suppose we'll find out.
 
 "There's only one way to know!"
 
@@ -29,17 +29,17 @@ I caught myself, briefly, wondering what Zalthir would do with the premise. He'd
 
 Then Brother Vareth found me, and the day stopped being about poison.
 
-He was glowing. He'd taken my answer to the Question of the Age — the triangle, three options, the thing I'd half-built out of Stroud's Gambit and never expected anyone to take seriously — and he'd turned it into a quadrangle. A fourth corner. And he had told everyone.
+He had the look of a man with a paper to publish. He'd taken my answer to the Question of the Age, the triangle, three options, the thing I'd half-built out of Stroud's Gambit and never expected anyone to take seriously, and he'd turned it into a quadrangle. A fourth corner. And he had told everyone.
 
 I want to be clear about what this is. The whole Avowed community wanted, right then and there, to drop everything and debate it in the Grand Hall. There is an active murder running through this keep. There is a poisoned book and a dead scholar. And nothing says you are an academic institution quite like blowing off everything important to focus on what really matters: new research. And getting published.
 
 I did not set out to empty Candlekeep. I set out to answer a question honestly.
 
-But everyone was now headed toward the research area, which meant the keep was suddenly full of rooms nobody would be watching. The dining room, for one. Where the meals were served — and where, if you were a poisoner, you'd have wanted to be. Other places too.
+But everyone was now headed toward the research area, which meant the keep was suddenly full of rooms nobody would be watching. The dining room, for one. Where the meals were served, and where, if you were a poisoner, you'd have wanted to be. Other places too.
 
 *Bahamut may or may not have been watching. I took notes either way.*
 
-The party had Daral glued to them when I came down. He wasn't leaving Daz and Thorin, because he'd worked it out and concluded those two were the only people in the building who didn't want him dead. He had the poison book. He'd worked out someone wanted him to take the fall. And in his current state he was very much hoping nobody would mention to Zalthir what he'd said about dragonborn — drunk, barroom talk, not meant to be taken seriously.
+The party had Daral glued to them when I came down. He wasn't leaving Daz and Thorin, because he'd worked it out and concluded those two were the only people in the building who didn't want him dead. He had the poison book. He'd worked out someone wanted him to take the fall. And in his current state he was very much hoping nobody would mention to Zalthir what he'd said about dragonborn. Drunk, barroom talk, not meant to be taken seriously.
 
 "Totally, totally," Zalthir said, in a voice that recorded everything.
 
