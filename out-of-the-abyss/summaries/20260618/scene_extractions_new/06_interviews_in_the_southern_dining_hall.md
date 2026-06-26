@@ -28,15 +28,6 @@ note: >-
 
 ## Verbatim moments
 
-**[scene tag — Arrival in the Southern Dining Hall]**
-- Thorin and Daral arrive; the GM describes the room: long tables cleared from breakfast and not yet reset, a Milil statue in an alcove holding a brass chalice, and two waiters stacking linen.
-- One waiter greets Daral politely; the other rolls his eyes and says hello.
-
-**[GM]** — describing the room
-> "Long tables cleared from breakfast, not yet reset. There's a Milil statue in the alcove, there's the God of Bards, open hands, brass chalice. There's two waiters stacking linen. They recognize Daral, one of them is polite and says hello, the other one rolls his eyes and says hello."
-
-**[Thorin]** — on Daral's reception
-> "popular dude."
 
 **[scene tag — Beginning the Interviews]**
 - Thorin notices three waiters watching, wondering if they'll be questioned.

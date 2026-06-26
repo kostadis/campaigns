@@ -6,68 +6,68 @@ scene_name: Discovery in the Southern Dining Hall
 session: 20260618
 ---
 
-The Southern Dining Hall still smelled of breakfast. Long tables sat where the morning meal had left them, cleared of plates but not reset, the linen half-folded. Milil stood in his alcove — the god of bards, hands open, a brass chalice resting in one of them. Two waiters were stacking cloth at the far end. One looked up, saw Daral, and said hello like he meant it. The other looked up, saw Daral, rolled his eyes, and said hello anyway.
+The dining hall still smelled like breakfast. Long tables, cleared but not reset, that particular morning-after smell of porridge and tallow gone cold. Milil stood in an alcove off to one side — the god of bards, open hands, a brass chalice resting in them like an offering nobody had come to collect. Two waiters were stacking linen near the far wall. One of them looked up, saw Daral, and said hello like he meant it. The other one rolled his eyes and said hello like he'd rather not.
 
 "Popular dude," I said.
 
-Daral didn't hear it. He'd stopped dead in front of the statue, staring at the chalice like it had bitten him. "Oh my goodness! We used it for the Midsummer Wine! Th-th-there might be something important in it!"
+Daral didn't hear me. He'd gone still, staring at the statue, and then he came apart a little. "Oh my goodness! We used it for the Midsummer Wine!"
 
 "To what chalice is this?"
 
-"Look, the lead chalice wine is very important because it prevents divination. Perhaps somebody hid something in it." His hands were flapping now. "How could I have not thought about this?"
+"Look, the lead chalice wine is very important because it prevents divination. Perhaps somebody hid something in it." He pressed the heels of his hands to his temples. "How could I have not thought about this?"
 
-I held up a hand. "Wait, wait, wait, I wanna understand. Okay, so this is a dining hall."
+I held up a hand. "Wait, wait, wait, I wanna understand." Giants don't rush a thing into place. You hold it in the air until it sits right. "Okay, so this is a dining hall."
 
-He pointed at the statue, which is a god.
+"Yes, yes," Daral said, pointing at the statue, "but —"
 
 "I imagine everybody has their own chalice."
 
-There's a statue of him, Daral said. And a chalice.
+"And there's a statue of him —"
 
-"Statue, a chalice, because why the hell not, right?" I let that sit. Giants taught me you don't rush a thing just because it's standing in front of you. "Trust statues, they come alive."
+"Statue, a chalice, because why the hell not, right?" I looked at the brass cup in those open stone hands. "Trust statues. They come alive."
 
-And then Daral remembered the part that mattered: the Milil chalice was lead-lined.
+"He suddenly remembers," Daral said, half to himself, "the Milil chalice is lead-lined."
 
-"Okay, so the chalice that the god has — the god statue has — is lead-lined."
+"Okay, so the chalice that the god statue has — is lead-lined?"
 
-Yes.
+"Yes."
 
-*Lead-lined.* That's not nothing. Lead blocks the kind of magic that finds things — a person who wanted to hide something where no scrying could reach it would pick exactly this cup. Zalthir would have said it first, flat, like it was already obvious to everyone but me. I clocked it. Then I walked the rest of it backward out loud, because that's how I think.
+*Lead-lined.* That's not nothing. Wouldn't lead block a locate spell, the same way it blocks a divination? Zalthir would have said it first, flat, like it was the most obvious thing in the room and he was tired of waiting for the rest of us to catch up. I clocked it and kept it.
 
-"Okay, so everybody — you have a party, things get a little out of hand, somebody puts a lamp shape on their head, somebody steals the chalice from the god that's lead-lined, because that's a good idea, and then, you know, it's part of the whole sort of revelries. Is that what I'm hearing?"
+I walked the rest of it out loud, because that's how I find the wall. "Okay, so everybody — you have a party, things get a little out of hand, somebody puts a lampshade on their head, somebody steals the chalice from the god that's lead-lined, because that's a good idea, and then, you know, it's part of the whole sort of revelries. Is that what I'm hearing?"
 
-Y-yes, said Daral. Yes, that's where it must be! He started toward it. "But I am but a scholar!"
+"Y-yes. That would be a working hypothesis." Daral brightened. "Yes, that's where it must be!" He started toward the alcove, then stopped himself. "But I am but a scholar!"
 
-I stepped in front of him. I didn't want a scholar's nervous hands anywhere near a cup that might be the murder weapon. "Hey, back off, dude." He looked relieved, actually — worried there might be a glyph of warding on the thing, something that goes off when the wrong person reaches in. Fair. I turned to him. "Look, if something bad happens to me, like, you know, I'm not sure that Dawnbringer's gonna take care of you. Just be aware."
+I didn't want a scholar's hands anywhere near a cup that might've been rigged. "Hey. Back off, dude." He was happy enough to. He'd already gotten to glyphs of warding in his head, exploding things, and decided he wanted no part of it. I turned to him. "And look — if something bad happens to me, you know, I'm not sure that Dawnbringer's gonna take care of you. Just be aware." His face went the color of the cold porridge.
 
-The terror on his face was complete.
+I went to the altar, took the chalice down out of those open hands, and looked inside. Photons don't care about lead. Whatever was in there, I'd see it.
 
-I went to the alcove and lifted the chalice out of the statue's open hand. Looked inside. Light still reaches in fine — photons don't care that lead stops divination.
+A heart. And a blood-stained meat cleaver.
 
-There was a heart in it. A heart, and a blood-stained meat cleaver.
+"Wait, wait. A heart?"
 
-"Wait, wait, a heart?"
+"Janussi's heart," Daral said. "Because they stole his heart. They didn't want anybody to be able to resurrect him and ask him what happened."
 
-Janussi's heart, Daral said. They stole his heart, because they didn't want anybody to be able to resurrect him and ask him what happened.
+I looked at it sitting in the bottom of the brass cup. "I left it in Waterdeep."
 
-I looked at it a long moment. A heart in a god's cup, tucked behind lead so no spell could find it. Somebody took it out of a man so nobody could ever ask the man anything again.
+"Yes."
 
-"I left it in Waterdeep."
+"Everyone does." Then, because the thing kept turning over, "Especially — can we reunite the heart with the body and actually do a whole sort of, like —" Speak with the dead. Ask him directly. That was a later problem, but it was a problem worth keeping.
 
-Yes, Daral said.
+The cleaver bothered me more than the heart, honestly. Somebody had thought this through. "Polymorph — how do you prove anything about anything, anytime? In a world where you had Polymorph, there'd be new ways of actually tracking down killers, right?"
 
-"Everyone does." I kept my face flat. The flatness is the feeling. "Especially — can we reunite the heart with the body and actually do a whole sort of, like." Speak with Dead. Put the man back together enough to ask him who did this. I let it trail. We could try it later.
+And that was the wall, when I hit it. Whoever did this knew the chalice was lead-lined. Knew it would hide a body part from every divination the keep could throw at it. That's not some random person off the road. "Yeah, but everybody who was at that dinner handled the chalice, as far as we know."
 
-The thing about a world like this is the ground keeps moving under you. "Polymorph, how do you prove anything about anything, anytime? Like, this whole thing is just, like, at some point, you're like —" In a world where you had Polymorph. There'd have to be new ways of actually tracking down killers, right? You can't trust a face. You can't trust a body. You can barely trust a heart in a cup.
+"Somebody handled it later in the evening."
 
-And somewhere in the middle of me going on about all of it, the thing landed. Whoever planned this knew there was a chalice that was lead-lined. That's not knowledge a stranger has. So it couldn't be just some random person.
+"Wait, what are you getting at here?"
 
-"Yeah, but, like, everybody who was at that dinner handled the chalice, as far as we know."
+"This is further confirmation it's an inside job."
 
-But somebody handled it later in the evening. After the meal. When they shouldn't have.
+"Oh yeah. It's somebody who knew the ins and outs of the keep, for sure." Somebody who'd planned a murder around Candlekeep's own spell collection.
 
-That's the part Zalthir would've turned over without me asking. The lead doesn't just hide the heart. It narrows the door. Anyone who saw a person at this cup late, when there was no reason to be — that's a witness and a window both.
+*And the other edge,* Zalthir would say — lead-lined cuts both ways. Somebody handling that cup late, after the meal, when they had no reason to, that's a witness and a window. You just have to find the person who saw it.
 
-"Oh yeah, it's somebody who, like, knew the ins and outs of the keep, for sure." An inside job. The cup proved it.
+I set the chalice down, careful, heart and cleaver and all.
 
-I set the heart down gentle and looked over at the two waiters still folding linen at the end of the hall. "So, like, we still haven't interviewed all the people around there, yeah."
+"So," I said. "We still haven't interviewed all the people around there, yeah."

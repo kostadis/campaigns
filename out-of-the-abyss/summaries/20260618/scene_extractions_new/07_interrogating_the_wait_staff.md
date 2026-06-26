@@ -25,101 +25,15 @@ note: >-
 
 ## Verbatim moments
 
-**[scene tag — Arriving at the Southern Dining Hall]**
-- Thorin and Daral walk into the Southern Dining Hall, tables cleared from breakfast and not yet reset, a Milil statue in an alcove and two waiters stacking linen.
-- One waiter is polite and says hello; the other rolls his eyes and says hello.
 
-**[GM]** — *describing the waiters reacting*
-> "There's two waiters stacking linen. They recognize Daral, one of them is polite and says hello, the other one rolls his eyes and says hello."
-
-**[Thorin]**
-> "popular dude."
-
-**[scene tag — Three waiters watching]**
-- As Thorin walks the room, three waiters notice him and wonder if they will be questioned.
-
-**[GM]** — *introducing the waiters*
-> "And so they're kind of, like, looking at you, sort of. One… one is, She could, she's, she's, like, she look… there's, like, there's, They're kind of looking at you, kind of wondering if you're going to ask them anything."
-
-**[Thorin]** — *beginning the interrogation*
-> "So, we go start interviewing them. Where were you on the night of, and all that."
-
-**[GM]** — *introducing Irony*
-> "Right, so the first one is, her name is… is irony."
-
-**[Thorin]**
-> "Are you being ironic?"
-
-**[GM]**
-> "No!"
-> "But I, you know, I really hate it when people make that joke, oh, I'm so sorry, this compulsive need to always tell the truth."
-
-**[Thorin]**
-> "Well, I appreciate that. I am investigating a crime, so somebody who always tells the truth is definitely a very useful thing."
-
-**[Thorin]**
-> "Hatred always lies."
-
-**[GM]**
-> "No, Sprig doesn't… Sprig doesn't always lie."
-
-**[Thorin]**
-> "Regardless, that was another joke, I apologize."
-
-**[GM]** — *Irony recounts the Deadwinter supper*
-> "She goes, the dead… she then explains, well, at least I can tell you what happened at dinner. Like, the Deadwinter supper began at the 5PM bell."
-> "The food consisted of 12 plates, beetroot soup, fried carp, smoked mackerel, etc, etc, etc. It was served with a wide range of drinks, fruit, compots, spiced wines and ales, honey, vodka, green tea. The supper was served by three junior members of the Avowed. That would be me, Orrin, and Sprig."
-
-**[Thorin]**
-> "Okay, so, okay, so we can interview Orrin and see if Orrin."
-
-**[GM]** — *continuing Irony's account*
-> "Yeah, all the food was brought out on a large platters, and placed on the dining hall to be able to be passed around and shared, while drinks were poured from large carafts."
-> "Every… everybody was in a great… was in a tense and taciturn mood, except Alkrist. Alkrist was an exception."
-> "He was cheerfully expounding on a new project he intended to undertake, Tales of War by the Generals That Waged Them, in which he planned to compile a first-hand insight and strategies from warlords and military commanders around the world."
-
-**[Thorin]** — *(Daz's angle again)*
-> *Daz would've gone at motive — anyone here pushing a project that'd never get funded? Pull that thread.*
-
-**[GM]**
-> "Well, I don't know, she goes, I don't know about the current administration, but apparently Teles scoffed that the project sounded as likely to succeed as Fheminor Scrivenbark program. I don't know what they meant."
-
-**[Thorin]**
-> "I think was it… who was in a good mood again? It was…"
-
-**[GM]**
-> "Alkrist."
-
-**[GM]** — *Janussi's praise and Daral's mutter*
-> "Like, Janussi, meanwhile, took the opportunity to praise Alkrist's proposed direction as the kind of knowledge that could benefit civilization, and reminded those gathered that determining which branches of knowledge to further is our privileged responsibility."
-> "Although, I'll have to say, when the keeper asked for everyone to get… show more solidarity, Daral muttered under his breath, Oh, you've been right behind one of us all night."
-
-**[GM]** — *the gift-giving and Janussi leaving*
-> "And then, Sylvira Savikas stormed out of the Southern Dining Hall, and… At that point in time."
-> "Okay, that was it. And then, after that, Kazryn Nyantani suggested it was time to hand out the gifts under the evergreen tree, and took it upon herself to take each gift and give it to the corresponding great reader."
-> "Janussi took his gift unwrapped, offered thanks to his secret donor, and then excused himself, throwing away the wrapping paper in a wicker basket near the door as he left the southern dining hall."
-
-**[Thorin]**
-> "Oh, so this was a Secret Santa type of thing, situation."
-
-**[GM]**
-> "Yeah, yeah, some of the other diners stayed a little longer to enjoy a last drink and chat between themselves, but most made their excuses and left."
-> "Apparently, we were about to throw out the dirty plates, but Bookwyrm told us to take any leftovers to our dorms and enjoy the rest of the night, rather than curling up every last crumb and piece of detritus."
-
-**[Thorin]**
-> "Was anybody sick from eating the leftovers?"
-
-**[GM]**
-> "No, no, nobody was sick. I mean, drinking too much, but not sick."
-
-**[GM]** — *pointing Thorin to Sprig*
+**[GM]** — *Irony pointing Thorin to Sprig*
 > "So, she goes, although, if you're really concerned about the food, you should go talk to Sprig."
 > "That… because apparently… she should go talk to Sprig. I mean, she tasted all of the food."
 
 **[Thorin]**
 > "Like, is that part of her job, or is she just, like, tasting the food?"
 
-**[GM]**
+**[GM] as Daral**
 > "Well, yes, we have a poison taster!"
 
 **[Thorin]** — *(Zalthir's cold read)*
@@ -131,7 +45,7 @@ note: >-
 **[Thorin]**
 > "Wink, wink, nudge, nudge, okay."
 
-**[GM]**
+**[GM] as Irony **
 > "I don't know, you might want to talk to her, I don't think I should talk about that."
 
 **[scene tag — Talking to Sprig]**
@@ -150,14 +64,14 @@ note: >-
 **[Thorin]** — *on the gifts*
 > "in this type of group, all the gifts were books, right? I mean, like, it was just a pile."
 
-**[GM]**
+**[GM] as Spring **
 > "Yeah. Yeah. Or wands, or magical artifacts."
 
 **[GM]** — *Sprig gushes about the food and her tasting*
 > "Okay, so she gushes in great detail about the 12 delicious dishes carved out during the feast, praising the work of the Candlekeep chefs. And she mentions that she enthusiastically volunteered to be a taster of each of the dishes to ensure they weren't poisoned."
 > "And she goes, the chefs didn't think this was necessary, but I insisted."
 
-**[GM]** — *Daral commends the practice*
+**[GM]** — *Daral commends the practice of a poison taster*
 > "Daral explains. And that needs to be a best practice going forward."
 > "That is the kind of initiative that I think should be commended."
 
@@ -176,10 +90,10 @@ note: >-
 **[Thorin]** — *(Daz's question)*
 > *What was she hunting for by candlelight? Did she say?*
 
-**[GM]**
+**[GM] as Spring**
 > "No, I said hello to the great reader, but the tiefling only pointed at her throat by way of reply, suggesting she was too hoarse to speak. I helped her find a pot of honey and bade her goodnight."
 
-**[GM]**
+**[GM] as Spring **
 > "1AM."
 
 **[scene tag — Insight check on Daral]**
@@ -214,7 +128,7 @@ note: >-
 **[Thorin]**
 > "You know, we are… it's a murder investigation, cut her some slack."
 
-**[GM]** — *naming Teles Ahvoste*
+**[GM] as Orrin * — *naming Teles Ahvoste*
 > "And so she tells you that apparently Teles Ahvoste, one of the other great readers, has been making passes at her."
 
 **[Thorin]**
@@ -226,7 +140,7 @@ note: >-
 **[Thorin]** — *(Zalthir would catch the loophole)*
 > *Zalthir would've noticed it before I did: Irony can't lie — but she didn't answer. She pointed us at Sprig. "Can't lie" isn't "has to tell." She steered us instead of speaking false. Worth remembering how she dodges.*
 
-**[GM]**
+**[GM] as Orrin**
 > "She didn't lie, she, she said, you might want to ask Sprig about it."
 > "And can't lie is one of those kind of ambiguous things. Can't lie well."
 
