@@ -9066,3 +9066,675 @@ Vukradin listed his new workings with the quiet deliberation of a man shopping a
 It was full dusk now. The lodge behind us was lit from within, the new stewards presumably being lectured about collar starching or something of similar urgency. Somewhere across the yard, Boney stood patient and skeletal and unbothered by any of it, as was his custom.
 
 I stayed where I was for a while. The staff was warm in my hand. The night was coming in.
+
+# Chapter 43 The Unfated Routine of Rimardo and Corrin
+
+Date: Jun 2nd, 2026
+
+## Summary
+The evening at Falcon's Lodge had barely settled into a comfortable rhythm when the hall doors swung open and a tall man in a coat that was just a little too fine strode in as though he owned the place. He was already talking before anyone could object, his voice carrying the practiced ease of a performer who had never once doubted his welcome. A pace behind him came a short, silent companion named Corrin, carrying a small case and a deck of cards, who made eye contact with exactly one member of the party and held it a beat too long. The tall man, Rimardo, announced himself as contracted for the eight o'clock show, noted with theatrical regret that it was considerably later than eight o'clock, and observed that no one in the room remembered signing anything — which he described as the beauty of a really good contract.
+
+Rimardo proceeded to deliver a sweeping critique of the party's recent battle as though it had been a theatrical production with serious pacing problems. He mocked the lodge's missing front door as a bold embrace of the open-air concept, mourned the scorched timbers as a confident design choice, and declared that the true tragedy of the evening was not the battle at all, but the destruction of the wine cellar — pausing for a moment of silence on its behalf. He noted that the men had apparently stopped mid-apocalypse to drink what remained, which he called terrible theology and flawless hospitality in the same breath. The Falcon sputtered that he had never hired anyone, never signed anything, and Rimardo ignored him entirely, which Rimardo himself described as the single most heroic act of the evening.
+
+Throughout the performance, Corrin worked in silence beside him, laying down cards that illustrated cryptic warnings about what lay ahead. A card depicting a coastal town appeared, half-submerged in rising water. A drowned gate followed, weighted down with a chip of blackened coral. A tiny suit of armor was produced from nowhere and turned its head to look at the assembled party. Then Rimardo leaned in and delivered his most unsettling observation: that multiple gods of fate were circling, each one convinced they were the headliner of whatever was coming — and that was precisely how you knew none of them were. Six gods of fate, he said, meant six opening acts warming up a house that had not yet announced who they were warming up for. Corrin then produced a smooth gray stone that simply ceased to exist in his hand, a demonstration of something that could unhappen things entirely. Finally, he peeled back a card showing a green dragon like a sticker to reveal something older and colder beneath — a pale, lightning-touched creature of far greater age and menace. When the performance concluded, Corrin pinned a small knife through the words "balance outstanding" on an itemized invoice left on the table, and the lamps guttered. When the light returned, the hall doors were shut and there was no one left to have shut them.
+
+Vukradin, who had attempted to recruit the performers as investors in his music studio and had played for them in hopes of impressing them, received a single gold coin and a cryptic promise from Rimardo that they would perform together at the very end — the end of what, Rimardo did not say before vanishing. In the quiet that followed, Vukradin turned over the theological impossibility the performers had raised: if multiple beings controlled fate simultaneously, then fate could not be predetermined, and destiny as a concept simply collapsed. Valphine recalled that by all traditional understanding, there was exactly one god of fate in Faerûn — Savras — which made the convergence of multiple such figures all the more troubling. The party resolved to set aside the mystery for the morning and focus on what could be done: retrieving the Boots of Elvenkind from the Woodland Manse and investigating a nearby shrine of Savras.
+
+When morning came, the party made their way to the Woodland Manse, where Vukradin used a rare gift of magical speech to communicate directly with the boars grazing outside. The boars expressed profound relief that the unruly boars who had refused to follow the rules about communal eating were gone for good, and warned the party that while the grounds were peaceful, the interior of the manse was another matter entirely. The party pressed on through the portico, past the double doors carved with a giant boar's head, and into the ruined interior. In a smashed cabinet in the parlor, Brewbarry discovered the sole surviving bottle of wine from the manse's stores, and he drank it without hesitation or apology. Moments later, spotting a boar in the courtyard that Vukradin recognized as a shapeshifted anchorite of Talos, Brewbarry charged in with his great axe, motivated in roughly equal measure by righteous fury and a deep personal grievance over destroyed wine.
+
+The battle that followed was chaotic and relentless. The anchorite shouted commands that caused vine blights to tear themselves free from the courtyard tree, and the party was quickly surrounded by grasping, thorned plant creatures. Vukradin unleashed a flourish of magical cards that shredded several of the blights where they stood, while Prutha hacked through another with his great axe. Soma transformed into a brown bear and tore through the encroaching plant creatures with tooth and claw, and a wave of small twig blights rushed in to swarm her, clawing uselessly at her thick fur. Brewbarry smashed through the last of them, reducing the twig blights to a fine mist of sawdust, and then Valphine conjured a sphere of inky, psychic darkness through the doorway that filled the chamber and obliterated every remaining creature within it — vine blights, twig blights, and the anchorite of Talos alike — in a single devastating surge.
+
+With the courtyard cleared, the party spread out to explore the manse's interior. Soma, still in bear form, climbed through a hole in a collapsed ceiling to scout the upper hallway, while Valphine investigated a chamber filled with copper rods hammered into the ruined walls, boar tusks wrapped in copper wire, and blackened iron nails. Talos prayers had been rewritten on parchment scraps tacked to the lintels, but their verbs had been changed to imperatives — timing instructions rather than devotions — and the lightning bolt symbols were too precise, too geometric, suggesting something calculated and deliberate rather than merely fanatical. Prutha stood beside Valphine and said nothing, but his unease was plain on his face. Brewbarry, meanwhile, attempted to ascend the main staircase, which promptly collapsed under his considerable weight and sent him crashing down onto the spikes below, destroying the only staircase in the manse entirely. The session came to an abrupt halt when Soma, pushing deeper into the upper floor, stepped through a doorway and was immediately set upon by three blood-sucking stirges dropping from the darkness above — leaving the party's druid surrounded, the staircase in ruins, and the manse's secrets still very much unresolved.
+
+## Memorable Moments
+> "Apologies for the late curtain. The Boar engagement rang long. Well, ran short, really. He was booked elsewhere. Permanently."
+> — Rimardo
+
+*Rimardo's opening line as he strode uninvited into the dining hall, reframing the party's deadly boar battle as a botched theatrical booking.*
+
+> "That's the beauty of a really good contract. You don't remember signing it. You just look up one evening, and there's a man in a coat doing material about your boar."
+> — Rimardo
+
+*Rimardo casually explaining to the confused Falcon why no one remembers agreeing to hire him for the evening's performance.*
+
+> "The kind of venue where you tell yourself the screaming improves the acoustics."
+> — Rimardo
+
+*Rimardo surveying the ruined, gate-blasted lodge and praising its newly redecorated, open-air aesthetic.*
+
+> "Now, the real tragedy — everyone keeps saying the lodge held, the people were saved, and nobody is talking about the cellar. A moment of silence for the wine."
+> — Rimardo
+
+*Rimardo delivering his theatrical critique of the party's recent battle, treating the destruction of the wine cellar as the true catastrophe of the evening.*
+
+> "They destroyed some of the wine and drank the rest, which means, mid-apocalypse, those men stopped to have a glass. Terrible theology, flawless hospitality, instincts."
+> — Rimardo
+
+*Removing his hat in tribute to the cultists who paused their slaughter to enjoy a vintage.*
+
+> "I never ordered anything! What are you doing here!"
+> — The Falcon
+
+*The Falcon's outburst at the intruders — which Rimardo ignored entirely, calling that act of ignoring "the single most heroic thing anyone in this story has actually done."*
+
+> "Lovely horse. Committed horse. Doesn't let a little thing like being dead affect his work ethic. You've been declared honorary members of an orc tribe. Sit with that. You came to save these people, and you've been absorbed by them. That's not a victory. That's a merger."
+> — Rimardo
+
+*Rimardo turning his critique on Boney and the party's standing among the orcs.*
+
+> "I don't remember Rimardo being quite such an asshole, by the way."
+> — Vukradin (Dave)
+
+*Vukradin's aside after enduring the full barrage of the performer's mockery.*
+
+> "Every god of fate believes he's the headliner. That's precisely how you know none of them are. You don't get six headliners — you get six opening acts in a house that hasn't announced who they're warming up for."
+> — Rimardo
+
+*Rimardo delivering his most cryptic warning of the evening, hinting that multiple gods of fate are converging but none of them is the true power behind events.*
+
+> "You've been a wonderful audience. You'll be a better one in Leilon. You'll have context."
+> — Rimardo
+
+*The parting promise as the lamps guttered and the doors shut on their own.*
+
+> "No. Actors. Actors. Comedians. We're here for the show. Top Billing."
+> — Rimardo
+
+*Rimardo's flat denial when Vukradin accused him of being "one of those treasure hunters."*
+
+> "Kid, if you stick with it at the very end, you'll find out, and we'll perform together."
+> — Rimardo (to Vukradin)
+
+*The cryptic promise after Vukradin's stellar performance (a natural 20, 27 total) — to which Vukradin replied, "The end of what? We're at the end!"*
+
+> "If there is more than one God of fate, that means there isn't any destiny."
+> — Vukradin's realization
+
+*Wade's Soma framed the same paradox: "How can multiple people control fate if fate is predetermined?"*
+
+> "The sooner things are repaired, the sooner there will be beer."
+> — Brewbarry
+
+*Brewbarry, persuaded (with a failed wisdom save of 5) to help rebuild the lodge, before standing up, grabbing food off the table, and walking out eating it: "I'm a big guy, I need to eat a lot."*
+
+**Corrin peels back a card showing a green dragon like a sticker to reveal an older, colder, lightning-pale dragon underneath, then leaves a knife pinned through the words 'balance outstanding' on the table before vanishing with the lamps.**
+
+*The climax of the performers' cryptic act, leaving the party with an ominous warning about a far more dangerous dragon and an unpaid debt.*
+
+**Brewbarry finds the one surviving bottle of wine in the ruined manse, immediately drinks the entire thing, and then moments later charges into combat against the anchorite who destroyed the rest of the wine.**
+
+*Brewbarry's priorities perfectly on display — wine first, vengeance second, everything else a distant third.*
+
+**Valphine conjures a sphere of inky psychic fog through the doorway, filling the chamber and obliterating the remaining twig blights and the anchorite of Talos in a single devastating surge of magical darkness.**
+
+*A decisive and overwhelming finish to the courtyard battle, clearing the room of every remaining enemy in one action.*
+
+**Brewbarry confidently strides onto the weakened staircase, which immediately collapses under his weight, sending him crashing down onto spikes below and completely destroying the only staircase in the manse.**
+
+*A moment of hubris immediately after a victorious battle, leaving the party's heaviest member stuck on the ground floor. Dave's verdict: "It was the wine. It was the wine. He was drunk. He walked up the stairs, he stumbled..."*
+
+## Scenes
+### The Late Curtain Call
+#### A mysterious duo of performers interrupts the party's dinner at the lodge to deliver a cryptic and theatrical recap of recent events and ominous warnings about the future.
+- A tall man in an elegant coat named Rimardo and his silent companion Corrin, carrying a small case and a deck of cards, stride into the dining hall uninvited; Corrin makes eye contact with exactly one person and holds it a beat too long.
+- Rimardo opens with "A round for the survivors" and "a smaller round for the ones who almost survived," telling them to hold their applause because "you'll need it" after "a long day of not dying."
+- Rimardo delivers a dramatic monologue critiquing the party's recent battle with a boar as if it were a theatrical production, mocking the pacing and blocking: a "hypnotism bit" (pointing at Vukradin — "10 in the front row, out cold, before a sword's drawn"), "a 4-second act about dice," and the boar dying "to a good blocking" rather than as a hero.
+- Corrin runs a gloved finger along a scorched timber and examines it like a sommelier: "Ozone, a confident ozone. Last week's headliner really left it on the stage."
+- Rimardo mocks the destruction of the lodge, the 'open-air concept' where the front door used to be, and mourns the loss of the wine cellar, noting the cultists "slaughtered every cask" before pausing mid-apocalypse for a glass.
+- Rimardo addresses the Falcon as "our gracious host of the Dragon Slayer," "a man who looked at a dead dragon's leftovers and built a hospitality empire."
+- Rimardo "hires" the three confused orc stewards as fresh staff — "The pay is exposure. The first lesson is which fork? The second lesson is that there's never a reason to need a second fork, and the man teaching you is lying about the cutlery the way he lies about dragons."
+- Rimardo recites the "House rules": (1) "no requests. We are the request. You simply haven't been billed yet," (2) "non-refundable, academic, as no one has paid," and (3) — which Corrin physically "redacts" by pulling down a third finger — struck from the record. "We've stopped asking, the lawyers have stopped asking, the gods have largely stopped asking."
+- Rimardo addresses each party member in turn: Vukradin is an "Aasimar bard, of course. The genre requires one. Someone has to be beautiful and concerned"; Valphine's faith is one "that discovers that light hurts"; Boney is praised as a "committed horse" who doesn't let being dead affect his work ethic.
+- The Falcon confronts the intruders, insisting he never hired them and never signed any contract, which Rimardo ignores entirely.
+- Corrin uses a deck of cards and magical props to illustrate cryptic warnings: a card of a coastal town half underwater, a drowned gate weighted with a blackened coral chip, and a tiny suit of armor that turns its head to look at the party.
+- Rimardo warns of "the storm you've met" — "They're touring, actually. Weather's a reliable draw" — and of a sealed door beneath the stage that management insists is "structural," lying as management always does.
+- Rimardo reveals that multiple gods of fate are acting as opening acts for an unannounced headliner, with no single god being the true headliner.
+- Corrin turns over a blank card three times, then demonstrates a smooth gray stone that 'unhappens' things — "There's a prop in the third act that unhappens things. Audiences adore it! Terrible for continuity" — causing it to simply stop existing in his hand.
+- Rimardo speaks of the dragon: "The understudy is playing the lead, and no one told the audience" — "a far older and far worse actress than the part requires." A card showing a green dragon is peeled back like a sticker to reveal an older, colder, lightning-pale dragon underneath.
+- Corrin presents an itemized invoice for 'emotional damages, Brewbarry's wine, one cask, sentimental value, assessed at zero,' with 'balance outstanding' written in a hand that is not Corrin's and pinned to the table by a small knife.
+- Vukradin attempts to recruit the performers for a music studio investment ("Have you ever thought about investing in a music studio? I'm quite a performer, would you like to hear me play?") and performs for them (rolling a natural 20, 27 total), earning a single gold coin and a cryptic promise from Rimardo to perform together 'at the very end.'
+- Rimardo tells the party they will be "a better" audience "in Leilon," where they will "have context."
+- Rimardo and Corrin vanish as the lamps gutter and the hall doors shut on their own, with no one present to have shut them.
+
+### Reflections on Fate and Morning Plans
+#### After the performers vanish, the party processes the cryptic visit and makes plans for the morning.
+- Valphine rolls a 21 Insight and feels the entire performance is "uncanny and constructed"; Vukradin's natural 20 religion check fixates his mind on the impossibility of multiple gods of fate.
+- The party recognizes that the performers are "not sending you on a quest" but "telling you what's already happening in the wrong genre," and that they ask for nothing, pay nothing, and charge nothing.
+- Vukradin realizes the theological impossibility of multiple gods of fate, recalling how he always hated soppy musicals about fate and destiny, and concluding that if multiple beings control fate simultaneously, there can be no true predetermined destiny.
+- Valphine recalls (per the Lathandrian clerics' teaching) that Savras is traditionally the sole god of fate in Faerûn, making the performers' claims even more unusual and troubling — though Valphine concludes "it doesn't matter, because Lathander is more powerful."
+- The Falcon asks "were they any good?" — Vukradin: "I don't think so" — and Valphine declares "We should cancel their late night show."
+- The party discusses the state of Falcon's Lodge and the need to repair the brewery to restore the wine supply, raising the idea of spells like create food and water or a Grand Feast.
+- Brewbarry, motivated by the promise of future beer (after a failed wisdom save of 5), agrees to help with the repairs and walks off eating food from the table, noting he is a big guy who needs to eat a lot.
+- The party decides to head to the Woodland Manse (an hour's walk) to collect the Boots of Elvenkind and then investigate a shrine of Savras.
+- The party notes that Jenna Roscoe of the Lord's Alliance offered to gather information on the missing Sister Kaella, though Vukradin remains deeply distrustful of her, convinced she lied to him and is "a nasty, no-good treasure hunter."
+- Valphine decides that Prutha will accompany the party to the Manse rather than stay with his tribe, framing it as part of a broader mission to spread the Church of the Searing Light — Valphine's own true sect of Lathander — across Faerûn. Prutha declares his loyalty: "I follow the true prophet! ... ALWAYS!"
+- The party clarifies the orcish tribe genuinely wants to return to their old home rather than settle at Falcon's Lodge, which would not work for the Falcon or for them.
+
+### Negotiations with the Boars
+#### Vukradin uses magical speech to communicate with the local boars outside the Woodland Manse to assess the situation.
+- Vukradin burns his universal speech ability (once per long rest, up to four creatures, any language for one hour) on the boars, declaring "The power of Talos has been defeated. We are here to bring the glory of Lathander. Join us now."
+- The boars ignore the theology entirely, fixating instead on "the most important question, and the only question": whether "the unpleasant boars that were not obeying the rules about who got to eat what" are gone for good.
+- Confirmed that the rule-breaking boars will not be returning, the relieved boars respond "Wonderful! Wonderful!" and head off to eat more pumpkin.
+- A second boar warns the party that "just the other day, we went in there, and it was not as safe as it usually is" — the outside is secure, but the inside remains a "hot mess."
+
+### Incursion into the Woodland Manse
+#### The party enters the ruined manse, discovering a lone bottle of wine and spotting a threat in the courtyard.
+- The party enters the Woodland Manse through the portico, noting the stone balcony at a height of 10 feet, vines wrapping the support pillars, and the giant boar's head crudely carved into the double doors.
+- Vukradin grants the party bardic inspiration and Valphine readies Bless before they push into the ruined interior.
+- The parlor is found strewn with broken furniture and a smashed wine cabinet; Brewbarry discovers a single surviving bottle of wine and immediately chugs it.
+- Vukradin spots a boar in the flagstone courtyard (which features a 5-foot stone well with thick vines erupting from it) and Valphine, speaking Orcish, lures it — identifying it as a shapeshifted anchorite of Talos.
+- Brewbarry charges into the courtyard to attack the anchorite, told there is "an anchorite over there who's responsible for the destruction of the wine."
+
+### Battle in the Courtyard
+#### A chaotic skirmish breaks out as an anchorite of Talos summons vine blights and twig blights to defend the manse against the party.
+- Brewbarry, gaining advantage on initiative from a barbarian ability, charges in and lands a powerful blow on the anchorite for 27 damage.
+- Valphine calls down Sacred Flame (DC 15 Dex save) for 8 points of damage on the anchorite.
+- The anchorite shouts a command, causing five vine blights to materialize from the courtyard tree, then shifts from boar form into his true anchorite form.
+- Brewbarry strikes the anchorite again with an attack of opportunity as the creature attempts to reposition.
+- Vukradin unleashes a spray of magical cards (a 15-foot cone, DC 15 Dex save, 23 damage), shredding several of the vine blights where they stand.
+- Prutha charges into the fray, hacking down vine blight number 4 with his great axe for 9 damage.
+- Soma transforms into a brown bear, squeezes into the cramped room, and bites and claws through the encroaching plant creatures, killing vine blights 2 and 3 (using a bardic inspiration to land a hit).
+- A vine blight conjures grasping roots in a 15-foot radius (DC 12 Strength save), but the entire party — including Prutha — breaks free; Vukradin notes a Strength save of 17 unusual for his character.
+- A swarm of twig blights (each with only a few hit points) rushes into the room, surrounding Soma in bear form and clawing at her thick fur, landing only 3 damage against her temporary hit points while most attacks whiff against her AC 17.
+- Brewbarry smashes through the remaining twig blights, reducing them to a fine mist of sawdust.
+- Valphine conjures a Doom Sphere — a 20-foot radius of inky, magical darkness dealing 5d6 psychic damage — through the doorway; a roll of 7 means even on a save the creatures take enough to die, obliterating the remaining twig blights and the anchorite (who fails his Wisdom save).
+
+### Exploring the Ruined Manse
+#### After clearing the courtyard, the party investigates the interior of the manse, discovering dark rituals and suffering a structural mishap.
+- Soma, still in brown bear form, opens a door to a ruined room that once served as a kitchen, dining room, and bedchamber, with four beds, four wardrobes, a dish cabinet, and a collapsed ceiling in the corner leaving a jagged hole to the room above.
+- Soma climbs through the hole in the collapsed ceiling (using a 30-foot climb speed) to reach the upper floor, finds the room once held by orcs of the Cult of Talos now empty, and continues scouting an upper corridor lined with ivy-choked windows.
+- Brewbarry attempts to climb the main staircase, whose upper half collapses under any weight over 50 pounds (DC 17 Dexterity check); he fails, falls onto three spikes for 14 damage (3d6), destroys the staircase entirely, and loses his rage.
+- Valphine dismisses the lingering Doom fog after a listening perception check confirms nothing is still moving, then inspects a room filled with copper rods hammered into the ruined walls and foundations.
+- The party discovers Talos prayers rewritten as imperative timing instructions on parchment scraps tacked to the lintels, alongside boar tusks wrapped in copper wire and blackened iron nails arranged in a lightning bolt symbol that is "too geometric" — too precise for a mere anchorite's ritual.
+- An Arcana check (9) confirms it is safe to enter the ritual chamber; Prutha follows Valphine in, sensing something is "off" but unable to articulate it, and declaring "I make things safe for Cleric of Lathander."
+- Soma enters a new room on the upper floor and is immediately ambushed by three blood-sucking stirges (2 hit points each) dropping from above, ending the session on a cliffhanger.
+
+## Locations
+### Falcon's Lodge
+A hospitality empire built on the remains of a dead dragon, currently featuring an 'open-air concept' due to a missing front door and scorched timbers from a recent battle. The gate has been "redecorated by lightning," and the wine cellar was devastated during the conflict — "every cask" slaughtered. The Falcon hosts under the name "the Dragon Slayer."
+
+### Woodland Manse
+A crumbling stone manor overgrown with vines and ivy, an hour's walk from the lodge, featuring a portico with a stone balcony 10 feet up, a flagstone courtyard with a pillared arcade and a 5-foot stone well sprouting thick vines, and upper floors with collapsed ceilings. The ground-floor double doors bear a crudely carved giant boar's head. It was occupied by orcs and anchorites of Talos and contains rooms repurposed for dark rituals. The main staircase, weakened to collapse under any weight over 50 pounds, is now destroyed. The party recalls getting badly beaten here on a previous visit.
+
+## Items
+### Deck of Cards
+A deck carried by the silent performer Corrin, used as part of their mysterious theatrical act to illustrate cryptic warnings about future events, including a coastal town half underwater, a drowned gate weighted with blackened coral, a card turned blank three times, and a dragon whose card peeled back like a sticker to reveal an older, colder creature beneath.
+
+### Smooth Gray Stone
+A magical prop produced by Corrin that 'unhappens' things — described as "a prop in the third act that unhappens things" — it simply stops being in his hand, ceasing to exist as a demonstration of a force that can undo events.
+
+### Itemized Invoice
+A bill for the evening's performance presented by Rimardo, listing a charge for "emotional damages, Brewbarry's wine, one cask, sentimental value, assessed at zero." At the bottom, in a hand that is not Corrin's, are the words "balance outstanding," pinned to the table by a small knife left behind when the performers vanished.
+
+### Gold Coin
+A single gold piece (1 GP) given to Vukradin by the performers as a token after his impressive performance. Added to the party tally, which now stands at 731 gold pieces.
+
+### Boots of Elvenkind
+The treasure the party seeks to recover from the Woodland Manse, which motivated their return to the location.
+
+### Bottle of Wine
+A solitary bottle found in a ruined cabinet within the manse's parlor, the lone survivor of the wine stores. It was claimed and immediately chugged by Brewbarry, taking about a minute to finish.
+
+### Copper Rods
+Rods hammered into the ruined walls and foundations of the Woodland Manse, part of a strangely precise and geometric ritual setup dedicated to Talos.
+
+### Boar Tusks
+Tusks wrapped in copper wire, found alongside blackened iron nails arranged in a lightning bolt symbol as part of the ritualistic decorations in the manse.
+
+### Talos Prayers
+Parchment scraps tacked to lintels containing prayers to the god of storms, rewritten specifically with imperative verbs as timing instructions, suggesting a calculated and deliberate ritual purpose rather than mere fanaticism.
+
+## Spells
+### Universal Speech
+A magical ability used by Vukradin that allows any creatures — including the local boars at the Woodland Manse — to understand his words regardless of language, for up to one hour, affecting up to four creatures, usable once per long rest. He chose to burn it on the boars to learn about the state of the manse.
+
+### Sacred Flame
+A pillar of divine radiance called down by Valphine to strike the anchorite of Talos during the courtyard battle, forcing a DC 15 Dexterity saving throw and dealing 8 radiant damage on a failed save.
+
+### Spray of Cards
+A flourish of magical cards unleashed by Vukradin in a 15-foot cone (DC 15 Dexterity save), dealing 23 damage and shredding several vine blights manifesting near the courtyard tree.
+
+### Doom Sphere
+A sphere of inky magical darkness conjured by Valphine in a 20-foot radius that deals 5d6 psychic damage to all creatures within it each turn and moves 10 feet away from the caster each turn. Cast through the doorway into the courtyard chamber, it obliterated the remaining twig blights and the anchorite of Talos (who failed his Wisdom save) in a single surge.
+
+### Bless
+Cast by Valphine at the start of the manse incursion, granting the party bonuses on attack rolls (used by Soma to convert a whiffed bear attack into a hit).
+
+### Bardic Inspiration
+Granted by Vukradin to the party before entering the manse, used by Soma to land a key bear attack during the courtyard battle.
+
+## NPCs
+### Rimardo
+A tall man in a slightly too-fine coat who speaks with the flair of a seasoned actor. He treats real-life battles and tragedies as theatrical performances, critiquing pacing and blocking. He claims to be an actor and comedian rather than a treasure hunter ("We're here for the show. Top Billing") and says he has "been in the acting biz for eons" and can't remember where it started or ended. He promises Vukradin they will perform together "at the very end."
+
+### Corrin
+A short, silent performer and partner to Rimardo who communicates through a deck of cards, magical props, and deliberate hand gestures. Referred to by Rimardo as "Mr. Corrin," he has the uncanny ability to "redact clauses" with his hands — physically striking the third house rule by lowering a finger — and produces magical items such as a stone that unhappens things, a spinning thunderhead, an overflowing glass, and a tiny self-animating suit of armor.
+
+### The Falcon
+The host of the lodge, referred to as the host of the Dragon Slayer who "built a hospitality empire" from a dead dragon's leftovers. He is confused and defensive when the mysterious performers arrive, throwing a temper tantrum and insisting "I never ordered anything!" and "I signed no contract!" He later asks the party whether the performers were "any good" and is reassured by the party that they were not.
+
+### Prutha
+An orc true believer and follower of Valphine's Church of the Searing Light, torn between his tribe and his new faith. He accompanies the party to the Woodland Manse and assists in combat with his great axe, breaks free of the grasping roots, and stands beside Valphine in the ritual chamber, sensing something is "off" but unable to articulate it. He declares his loyalty: "I follow the true prophet! ... ALWAYS!" and "I make things safe for Cleric of Lathander."
+
+### Jenna Roscoe
+A member of the Lord's Alliance who previously offered to gather information regarding the missing Sister Kaella. Briefly mentioned by the party when discussing leads on Sister Kaella's whereabouts. Sister Kaella herself is said to have "gone to the wind."
+
+### Anchorite of Talos
+A shapeshifting cultist capable of taking the form of a boar. He serves the god of storms and summoned vine blights and twig blights to defend the Woodland Manse, shifting from boar form into his true anchorite form mid-battle, ultimately meeting his end within Valphine's sphere of psychic darkness after failing his Wisdom save.
+
+### Vine Blights
+Malevolent plant creatures (five of them) summoned from the vines of the courtyard tree by the anchorite to entangle and attack the party, capable of conjuring grasping roots in a 15-foot radius (DC 12 Strength save to avoid being restrained).
+
+### Twig Blights
+Small, fast plant creatures with very few hit points that rushed into the manse to swarm Soma in bear form, squeezing through doorways diagonally before being destroyed by Brewbarry and reduced to a fine mist of sawdust.
+
+### Stirges
+Three blood-sucking creatures (2 hit points each) that dropped from the darkness of the upper floor onto Soma, ending the session on a cliffhanger.
+
+### Brewbarry
+A large Goliath barbarian and companion of the party who gains advantage on initiative. He is deeply motivated by wine and beer, charges headlong into combat, drank the manse's last bottle of wine before the fight, and suffered a painful 14-damage fall onto spikes when the manse's staircase collapsed under his weight, ending his rage. Persuaded to help rebuild the lodge with the promise of beer, he noted "I'm a big guy, I need to eat a lot."
+
+# Chapter 44 Victory Lap
+
+
+## Brewbarry — The Battle of the Collapsed Staircase
+
+The stakes had me first. The stairs went out from under all that weight and I came down on a nest of splintered wood, half of it driving up into me where I landed. I lay there in the rubble a moment. Then I got up.
+
+*Whatever, toothpicks.*
+
+Above me, through a ragged hole in the floor, Soma had already hauled her bulk up to the higher level. Vukradin stood beside me in the wreck of the staircase, head tipped back, measuring the climb the way he measures everything, out loud, with questions. The collapsed run rose head-high over us and a little more. Easy. For me, easy. I could clear it standing, and I could throw Vukradin up after me if he wanted.
+
+The heat came up my spine then. The good heat. "Alright, so I'll go into a rage and into my giant form," I said, and felt the world get smaller around me, my hands big as anvils. "If I can, I will lift, get up, lift up, Vukradin, and—try to get him up, or back up."
+
+He waved me off. "It's okay, you can leave me. Go kill some stirges."
+
+So I went to kill some stirges.
+
+There were three of them on Soma, ugly bloated things with needle mouths, drinking her down through the shell where they could reach skin. I leapt. The whole broken run of staircase passed under me like a curb. I landed up top in the middle of the swarm.
+
+"Can I attack them and touch them without touching Soma?" I needed to be sure. A bear is a lot of friend to catch a stray fist.
+
+I could. So I grabbed the first one bare-handed, Vukradin narrating it like he was already writing the song, *kind of like he grabs it and breaks it in two, grabs another one, snaps it*, and that's near enough what happened. The first popped like a wineskin. I went for the next.
+
+And missed. My hand closed on air. "That shimmer of his," I muttered, because Vukradin had thrown a little gift of nerve my way and it still hadn't been enough. "It's my usual look, you know, Wednesday look." But the swing came back around and the second one I did not miss. It came apart against my knuckles and the cleave carried me straight into a third, splattered into a thousand pieces, blood and mud everywhere. Two dead in one breath. Could've been three.
+
+Then the rafters opened up and dropped more of them on me.
+
+"Whatever. Bring it on."
+
+They came down and most of them couldn't find a grip, but one sank in. A little hot pinprick, a bug pulling at me. Valphine called over that the heat was up in me, that I could shrug some of it off. "I don't need to," I told her, and learned the heat does that on its own, no asking. The bite got through but it was nothing. The heat took it. "It tickles."
+
+Vukradin was singing cruel little words at the stirge on me. When it shrugged him off he doubled down and that time it dropped dead in the air. Soma's jaws closed on another and it burst. Her claws came in after, careful as a bear gets. Below us I could hear Prutha's voice ringing up through the boards: "Blessed be the light!" Like a man who'd just discovered the sun this morning.
+
+By the time I looked up there was hardly anything left to fight. "There's only one left?" Soma was keeping a tally. She'd taken two, I'd taken two. I didn't care about the count. I cared about the one. "And now it dies." It went up in a burst of bug juice and I stood there in the spatter of it, grinning under the helm. "Haha, and you see me rejoice in the blood."
+
+Somewhere in all of it Vukradin and Soma were trading dry words about how thin the fight was: *there's nothing left here worth the swing, and consequences have consequences*, and it was true. We'd broken the back of this place already, in the real battle. What was left were the leftovers.
+
+"Can you pull me up?" Vukradin asked from the bottom.
+
+"Yes." I reached down for him. "Can I join you? Vukradin up, of course."
+
+I had him barely over the lip when three more dropped straight onto him out of the dark. One found him. I heard the little hitch in his breath. "Well, it's about time somebody hit me," he said, almost pleased.
+
+I didn't make him wait. They clung to him and I had the reach for it. "Move a little bit, just, you know, to be, to enhance precision." Two more dead, the cleave doing what it does. "It's just those pests," I said. "It's just annoying."
+
+Soma searched the beams and came up empty. "Guys, it's all clear!"
+
+It wasn't, quite. A couple still tucked up where nobody could touch them, and Valphine's bright little word couldn't reach. So she stood under the hole and let them fall on her instead, and when they did she blazed and the orc bellowed *behold the power of the sun* loud enough to shake dust from the rafters. Born again, that one. Took his light seriously.
+
+I shook the gore off my arms and let the heat run down out of me, slow.
+
+---
+
+## Valphine — Clearing the Rafters
+
+The last of them had hidden well. I will give the little blood-gluttons that: they understood the rafters, the way the dark gathered in the rafters of this drowned-feeling house, and they understood that no one ever looks up.
+
+Vukradin had been singing them to death, or trying to. One had fixed itself to Brewbarry and was working its needle into him, and I heard Vukradin turn his cruelty into music: *Right, the mockery works if I can hear the creature*, and then, when someone asked the obvious, *We do not have to be able to see it.* He did not need its face. He needed only its name in his ear, and the thing buzzing on Brewbarry's shoulder was loud enough. The first cut of his words slid off it, the creature was stupid enough not to feel insulted, so Vukradin twisted the moment, made it swallow its own luck and try again. The second time the mockery bit. The stirge came apart.
+
+Soma wore one like a brooch. *Not for long*, she said, and she was right; it tried to draw from her and found nothing it could keep, and then her jaws closed and it burst into a thousand wet pieces. She stepped to the one on Brewbarry, careful of her claws around him, she does not waste damage on allies, and ended that one too. Two for her. She kept a count. Territorial, and precise about it. *I helped you, I took out two, you took out two. We're getting there.*
+
+Brewbarry found the last one he could see and was glad of it. The thing missed him, came buzzing back into his reach, and he opened it. *And it explodes in a blast of bug juice*, and he laughed: *Haha, and you see me rejoice in the blood.* I did see. I always see Brewbarry rejoice in the blood. It is one of the more honest prayers offered in this party, though he would never call it that.
+
+Vukradin walked a few strides into the open and three more dropped onto him out of the high dark, and I heard the small surprise in his voice as their needles went in: *Well, it's about time somebody hit me.* Brewbarry cleaved through them with that long ugly reach of his, complaining the whole while. *It's just those pests, it's just annoying.* Pests. He has fought a dragon and a thunder-boar and he is annoyed by mosquitoes. There is a sermon in that too, if anyone wanted one.
+
+Then Soma squinted into the rafters and announced, with great confidence, *Guys, it's all clear!* She had not seen the two still folded against the beams, patient, waiting for the next throat to walk underneath. I saw them. High up where the beams crossed, tucked where the light didn't reach, hungry and very nearly invisible, and I felt the old Menzoberranzan habit settle over my eyes, the habit of seeing what wants not to be seen.
+
+*I have a burst here that breaks out wide — to get a go*, I said. A word of holy light. But radiance keeps close to the hand that calls it, and the little things were too high; the brilliance would die in the air before it touched them. Useless, while they perched. So I did not call it. I went and stood beneath them instead, and I held the prayer behind my teeth, and I waited to be found.
+
+They found me. They dropped, and their needles went into me, and oh, there is a particular sweetness in being chosen as the altar, in letting a hungry thing believe it has won. It was deliciously, brilliantly painful, and in the same breath that I felt them latch I let the light out. I emanated. Radiance broke off me the way dawn breaks over the Overbright, and the stirges that had been drinking my blood went to ash on my skin, and from the doorway Prutha thumped his chest and roared: *behold the power of the sun.*
+
+Soma, dry as ever: *It can kill mosquitoes.*
+
+But Prutha was not joking. He had taken his conversion the way orcs take everything: entirely, with his whole body, chest-thumping, a born-again Lathandrite to the marrow. A zealot. My first orc zealot, and he came to the faith through a burst of light that cooked two parasites off my arm. Lathander does not care how small the dawn is. Neither, it seems, does Prutha. *Typical orcish communication mechanisms*, I said, watching him bellow his joy at the rafters, *which is appropriate.* Lathander is not particular about the instrument. He only requires that the burn reach something that can hold it.
+
+We went up onto the balcony after, the long landing above the stairs. Vukradin pushed at what he thought were doors and found them only paintings. Nothing left in the high rooms wanted us dead. And in a round room under a conical roof, ivy coming through an open window, we found a cast-iron tub on clawed feet, and a rusted pump that still drew hot water from a spring beneath the house.
+
+*Cannonballed*, Brewbarry declared, before anyone could stop him.
+
+Vukradin only stood and stared at the steam coming off the water. *How long has it been since I had a warm bath?* he asked no one, and the question held there unanswered, which was the most honest answer it had. The house was quiet. That was sufficient.
+
+---
+
+## Soma — Secrets of the Scholar's House
+
+The warm bath came first, before the bedrooms, before any of it. His voice caught before he finished asking. Cast-iron tub on clawed feet, rusty pump, hot spring water from somewhere under the floor. That was the whole room.
+
+"It's like a warm bath? Yes. How long has it been since I had a warm bath?"
+
+"Too long," I told him. I meant it kindly. He works himself raw, that one, and a body needs softening now and then.
+
+Then he wanted a secret door. He stood at the wall and announced he was searching right around there, that something seemed missing on the map, and when the credit came that he'd guessed correctly, he explained his trick like it was nothing: comparing the first and second floor plans. The point was made that most people could not do such a thing, and that we ought not judge them for it.
+
+"Yes, we should," I said. I am old enough to judge.
+
+The master bedroom opened up: four-poster bed between two shuttered windows on the west wall, a desk and chair to the north, an empty wardrobe, a fireplace under a fine covered mantelpiece. Vukradin asked us to wait before barging through, to look at things first. I wanted the fireplace. *Is there anything in there.* Valphine wanted the desk: "Dusk," she said, then "the desk," in that way of hers where the wrong word arrives first.
+
+I was wearing the bear when I found it. Tucked away, a staff, plain enough, and the moment came clean and quiet: pick it up, say nothing. *I mean, I can't speak right now, so he won't hear anything other than roar orr.* So I did. Jammed it into the thatch of my fur where it knotted against my shoulder and disappeared.
+
+Vukradin, the dear, fretted over the logistics. "Where are you gonna put it? When you're in bear form, like, where's your backpack?" There is no backpack, shell-sprout. You just jam it in and the fur swallows it whole.
+
+A staff of bird calls. Of all the things to hide in a bear. "That bird calls, well, that's appropriate for me," I said once I had a throat to say it with, and then, turning it over, the truth of it landed flat. "Wow, that is, phenomenally useless to a druid." I could already call every bird in this wood by name and disposition. The staff was a child's toy I'd palmed for the pure joy of palming it.
+
+"Friends!" Vukradin called from the next room, not knowing the thing had already left his moral universe and entered my fur. He doesn't even know it happened to him, and when he understood that, that was the part that stung him. "Ugh. That's even worse! You guys are, like, going behind my back."
+
+I couldn't help myself. "So it's this staff of bird calls blood money?"
+
+There was a cloak on a hook that billowed when the door swung, and against the wall a wooden chest with tiny clawed feet. "A treasure chest," I said, because it plainly was.
+
+Then came the sermon. Not only were we taking what wasn't ours, Vukradin said, we *knew the owner.* "The Falcon," I offered. "The Falcon!" he agreed, and I told him no, no, that guy's a chode. But it turned out the Falcon owned none of it. A scholar had raised this manse to study the old elven ruins, and the scholar had no next of kin at all: no widow, no children, no one to come grieving down the road. The Falcon had only wanted the orc assault sabotaged. "He just wanted us to sabotage the assault," I said, and that was the whole of it.
+
+Which set Vukradin to a clean solution, the way he always finds one: not just return the items, but the entire building, to its rightful owner, whoever that might one day be. Lock the door, leave the chest and the handsome coat for when the proper heirs arrived. Valphine, sharp as ever, reasoned the scholar living a couple hours' walk away had surely come to the Falcon's place as a customer once. The dead keep neighbors, it seems.
+
+While Vukradin played custodian, Valphine slipped off into the library: a tall room with a high wooden balcony and a spiral stair curling down to flagstone, the bookcases bowed and broken and shelving nothing but mold. She wanted anything undamaged. There was one: *Elvish Idioms,* the only spine that hadn't rotted. She opened it and a tiny leather packet fell loose.
+
+"Dust of Disappearance," Brewbarry named it, plain as a man naming a tool.
+
+Into the blood pile, then. Not the honest one. The staff of bird calls stayed in my fur, where Vukradin's principles could not reach it.
+
+---
+
+## Vukradin — The Twig Blight Ambush
+
+The walls told the story before anyone said a word. Crude figures painted in blood: stick-limbed humanoids, and boars chasing them, the same brown-rust smear repeated across the plaster like a child's nightmare drawn by something that enjoyed it. A dining table lay smashed in the eastern half of the room, six chairs broken around it, every one of them a different disaster. And on the mantelpiece above the cold fireplace, small twig figures stood in a neat little row.
+
+One for each of us.
+
+"Wait, what?" I crossed the room before I'd decided to. The little bundles of dried sticks had been bound and bent into figures: a tall broad one, a hunched one with a staff, a slender one. Us. *They knew we were coming.* I said it out loud, and the words sat wrong in my mouth. "Interesting. Wow."
+
+We'd seen this before. The cursed effigies in the forest, the ones I'd reached for once, before I knew better. The memory still had teeth.
+
+"Do you touch them, or leave them be?"
+
+"No." I didn't even let the question finish. Then, to Valphine, who had drifted toward the mantel the way she drifts toward anything that might hurt her: "These. Aren't these similar to the ones that we encountered in the forest that were cursed? Those, right? So we know that we should not touch these." I couldn't help it. "We've learned this. Maybe that lesson slipped past you."
+
+Brewbarry rumbled his agreement from the doorway. He was the only one of us who'd ever kept his head clear in front of these things. When the forest effigies had clawed at our minds, he alone had held, because of the wise women of his village: never lay a hand on a cursed artifact.
+
+"Right," I said. "He's the only one who, like, kept his head." And then, because someone had to say it plainly: "I learned my lesson. I'm not touching them."
+
+Valphine was not satisfied. She circled the figures, studying them, and I watched her ask the questions I already knew had no good answers. *You don't want to destroy them?* Did she know how dangerous they were? No. They were indistinguishable from dried figs, from bundled sticks, harmless to the eye. If left behind, would they harm us? Unclear. If destroyed, would that harm us?
+
+"Unclear?" Soma's voice, dry.
+
+Unclear.
+
+I should have walked her bodily out of the room. I knew the rhythm of this. I have watched Valphine reason her way toward a hazard her entire life. She follows the dissonance. That's where she goes.
+
+"I think I'll burn the Valphine one to ash," she said. "From a distance."
+
+A finger of sacred fire leapt from her hand and the little twig-Valphine blackened and curled, and the other three figures shuddered, unbent, and stood up on root-thin legs, eyes opening where no eyes had been. Living blights. Exactly the thing.
+
+"Twigged lights!" Soma announced, delighted.
+
+"You just had to touch them, didn't you?" I said. "Yes." And somewhere in my chest a small grim part of me said it too. *I told you. I told you.*
+
+But here is the thing about being right: it is useless on its own, and I have never known what to do with the cold satisfaction of it. So I did what I do. "But you know what? We said we would secure and make this a safe place, and if we had left these — for someone else, some innocent to encounter — we would not have done our job properly." The blights skittered toward Brewbarry. I drew a breath. "You know what, you were right, Valphine."
+
+"I was called by Lathander to do it," she said serenely.
+
+"As long as you kill them," I said, "and I don't get injured."
+
+There was no time for more. The room snapped taut. I had a clear line on the nearest of them, the first to move, the first I'd answer for, and I sang a single bright note. A mote of starlight, radiant and clean, struck it square. The little thing came apart like kindling in a furnace. Dead before it reached us.
+
+"You're getting attacked by musician twigs," Brewbarry observed, swatting at the other two as they gnawed uselessly at his shins.
+
+They never got further. Valphine spoke a Word, and light pulsed outward from her in a hard ring, a brightness with weight to it, the kind of holy radiance that does not ask permission. The remaining two blights simply could not endure it. They scorched to nothing in the space of a breath. Four little hearts of dried wood, and not one of them survived the dawn she carried.
+
+I lowered my flute slowly into the quiet.
+
+"I feel like we are more powerful than these creatures," I said.
+
+"Slightly," Brewbarry said. "And then —"
+
+"Slightly too much for this place. Little bit. Little. Yeah." I looked at the scorch marks where the figures had stood, our likenesses burned off the mantel one by one. "Got twinkle, man."
+
+---
+
+## Valphine — Looting and the Zone of Truth
+
+The orc found me before the spell did. Prutha had been watching. Orcs watch. It is how they live long enough to be converted, and what he had learned in his short time at my side was that the bard's hands would not close around treasure, but mine would. So while Vukradin bent over the kitchen shelves with his back turned, Prutha lifted a candelabra from the dining table and pressed it into my palm. *Don't say anything to the —* he breathed, and let the rest die.
+
+I weighed it. Brass, three arms, the dull pleasant heft of something worth more than it looked.
+
+"Candelabra?" Vukradin said, turning.
+
+"A worthless candelabra?" I said, because the first thing you do with a thing you intend to keep is make it sound like nothing.
+
+It was not worthless. Twenty-five gold of not-worthless.
+
+"Nope," I told him. "Sorry." And then, because Prutha was still watching me with that flat, loyal hope: "Okay, well." He had crossed a private line for me, stealing a thing so it could land in the one set of hands he trusted to carry it. I found I did not want to spend his devotion cheaply.
+
+Vukradin's jaw set. *I need to learn to see better,* he said, mostly to the room. *Sharper senses. Sharp enough to catch what hides — even the things that go invisible.* As if the answer to being lied to by everyone he loved was sharper eyes rather than worse company. I almost told him: the things you cannot see are not hiding. They are simply operating at a level those eyes cannot resolve.
+
+Then he gathered us into a tight circle and the light came anyway.
+
+*The working that will not let a lie stand.* I felt it close over the room like the Overbright through a high window, that pressure I have learned to call holy, the one that does not let a falsehood sit. "Why are we doing this?" I asked, and the asking was honest because the compulsion made it so. I am the party's best liar. To stand inside a thing that strips lying away is to stand in cold water and call it a bath. *Deliciously painful.* I had not expected to enjoy it this much.
+
+He told everyone to confess what they had taken from the manse, and the unraveling began, and oh, it was a beautiful unraveling. Prutha squirmed first, forced to admit he had taken *something*, then producing rocks from his pockets, one after another, evasive as a market thief, his charm holding just long enough that the truth stayed a technicality. When it grew too tight he simply walked out of the circle. Crossed the line in the floor and let the light fall off his shoulders. Practical. I respected it.
+
+Brewbarry did not run. Brewbarry confessed like a man laying flowers on a grave. The bathrobe. The slippers. "The sample shampoos?" Soma offered, and he did not even flinch. "Yes, I'm a simple shit. I like my hair to be soft." The Goliath who had stood inside Cryovain's breath and not fallen, undone here by satin and a guilty conscience over hotel towels. "You should leave that bathrobe behind," Vukradin said, and Brewbarry, mournful: "I feel guilty. But, you know, Brewbarry likes soft. Bathrobe is soft." A new facet of him, previously unlisted. The rage and the satin, the red-glowing eyes over a collar of fine cloth. *You should see me get into a rage in that bathrobe,* he said. *It's just — it's glorious.* I believed him entirely.
+
+Soma's truth came clean and easy, as if she had been waiting to give it. The Staff of Bird Calls. Brewbarry's truth tumbled out where he had failed to hold it; Soma's held.
+
+And then the light came for me.
+
+"I did not pick anything up," I said, and meant it, because in the moment I said it I had genuinely forgotten. Then the memory surfaced cold: the Dust of Disappearance, tucked into the hollow of a book. "Oh, that's like…" I said, and could not finish, because the compulsion would not let me dress it.
+
+"Ninja dust!" said Soma, delighted.
+
+"I guess I picked up this book of Elven —" I started.
+
+"Idioms," Soma supplied.
+
+The connoisseur of vanishing, caught by the spell that will not let her vanish. There is a sermon in that. The book had a hole cut into its heart, and now so did my secret, and I confess the exposure had its own clean sting, the sting I have learned to read as proof of contact.
+
+Brewbarry, magnanimous in surrender, pointed across the circle. "I'll give Bathrobe back, but I must point that Prutha stole one as well."
+
+"Prutha? You took a bathrobe?" Vukradin rounded on the orc. "You told me only it took rocks!"
+
+*But that's from the Falcon,* Prutha insisted, the same well Brewbarry's towels had come from, all of it laundered through one accommodating lodge-keeper. The orc glared at the Goliath. The Goliath glared back. Two thieves in satin, each blaming the linen closet.
+
+"Alright, guys," Vukradin said. "I think this bit has played out." And I watched the moral arithmetic move behind his eyes the way it always does, climbing. It was almost lovely. *It's almost like,* he said, *not only do we need to return these items to the rightful owner, we need to return the entire building to its rightful owner. Right before the Falcon just takes it.*
+
+The light held us all a moment longer. None of us argued. There was nothing left to lie about.
+
+---
+
+## Vukradin — Return to Falcon's Lodge
+
+The lodge looked different in daylight, different in the way a battlefield looks once the bodies are gone and someone has swept. We came back the day after, and the orcs had not merely survived their reassignment; they had embraced it. Three of them stood near the entrance in proper livery, brushed and buttoned, and Falcon had pinned something to each of them. Employees of the year, he called them. I have seen a great many strange things since I picked up an instrument, but an orc wearing a sash with genuine pride is one I will keep.
+
+Soma, beside me, folded herself down out of whatever shape she'd been wearing and went back to being a turtle. She does that the way other people loosen a collar.
+
+Vorga saw us first. "You return!" she said, and there was warmth in it.
+
+"Yes, you return," Falcon echoed, already crowding forward, hands open. "What can you tell me?"
+
+Valphine answered before I could shape it for her. "We cleared the Woodland Manse out from any hostiles."
+
+*No.* That was not the framing. "Oh," I said, "I thought you would phrase it as the glory and power of Lathander has saved the blah blah." I let the blah blah hang there as an invitation. "Something like that."
+
+She took the correction the way she takes most things, without blinking. "Glory and Power of Lathander has," she began.
+
+"Save the blah blah blah," Soma supplied helpfully from somewhere near my boots.
+
+"—all of the heathens that were within the Woodland Manse," Valphine finished.
+
+"Hallelujah," said Brewbarry, who contributes to liturgy the way a landslide contributes to a quiet afternoon.
+
+Falcon barely heard any of it. His eyes had already gone glassy with some private rapture. "You know, those, those bards," he said. "I mean, they walked out of my — they were — they were — they were just amazing. I mean—" He pressed a hand to his chest. "I don't — they may have been the finest act I've seen north of Neverwinter. The timing, the little placards, if I could get them on my stage two nights a ten-day, I'd charge Waterdeep prices, and they'd pay them gratefully."
+
+I kept my face arranged. "He's a real fan, okay?" I said to the others. "He's a fan."
+
+"Yeah, he's a fan," Falcon went on, oblivious to being narrated. "They were — they were — the timing, the comedy, the routine, I mean, the silent guy and the tall guy, the sarcasm, they was just, like, brilliant."
+
+The silent guy. The tall guy. The sarcasm. *Finest act north of Neverwinter.* Waterdeep prices, on a stage I have stood upon, for a routine that, by all accounts, required no instrument and no training and consisted, as far as I could gather, of placards. I have given speeches that turned a man away from his own gang. I have a voice that has bent a council. And the Falcon is offering free room and board to two retirees with placards.
+
+"I don't know," I said. "They seemed like ex-adventurers to me."
+
+"Is there a problem with that?" Falcon asked.
+
+"I don't see the problem. I think adventurers have a right to change their career choices. You know. To branch out."
+
+"Retired, you're saying?" Valphine offered.
+
+"Yes, retired," Falcon agreed, delighted to be helped. "Maybe they're not ex, maybe they're retired." Then he turned fully to me, and his voice took on the particular register of a man asking a favor he believes you can grant. "Vukradin, you seem to have a connection. Do you know where they might — where am I able to hire them again, or—"
+
+"I'd never seen those people below it before in my life," I said, flat and clean. And then, because the wound had not finished smarting: "Never came to see my act. Why am I going to see theirs?"
+
+He let it go more easily than I'd have liked. "Well, fair enough. One thing — they said they would meet you at the end?"
+
+"Probably," I said, "in Neverwinter. I should go there." Which was true, and which committed me to nothing.
+
+"Yes — here's a note," Falcon said, producing a folded paper, "I'd love you to give them to see if they would be willing to come and perform."
+
+"Okay." I took it. "He gave me a note." I turned it over in my fingers. A transaction always lives in the details. "Is it, like, wax sealed, or is it just on a piece of paper?"
+
+"It's — it's not sealed."
+
+"Alright. Can I read the note? What does it say?"
+
+"To the extraordinary comedy act of Rimardo and Corrin," he read over my shoulder, and the paper went on to make its pitch: free room and board, a generous cut of the proceeds, *excellent hunting.* A better offer, I noted, than I have ever been handed in writing.
+
+"Alright," I said, "I will file that away with the things that matter later." I tucked the note away. Addressed to someone else, certainly. But they would meet me at the end, and someone had to carry it that far.
+
+Vorga had been watching all of this with a long-suffering tilt of the head, and now she rolled her eyes at the back of Falcon's skull and stepped in. "I think it's time for us to head back up to our — where we were from." Her gaze found me. "If I recall correctly, there was an offer to provide some escort up to our former quarters?"
+
+"Yeah, yeah," I said. "We're gonna escort you. Totally."
+
+"We're racing something to get to—" Soma began. "There was some kind of deadline pressing us toward Neverwinter."
+
+There had been a deadline. I remembered it. "Oh, we've blown through that," I said, "but we're still going."
+
+"Don't tell me how it ends," Brewbarry announced to no one, which was his entire contribution to the question of scheduling.
+
+So we headed out.
+
+---
+
+## Valphine — The Missionary Mission at Icepire Hold
+
+The path the orcs led us along was the one that did not pass beneath the stone giants, which struck Vukradin, somewhere on the first morning, as a revelation in itself.
+
+"There was a path that avoids the Stone Giants?" he asked, and the answer was that yes, there had always been a leisurely route, a kind one, and that we had chosen instead to follow the orcs up the bone-cracking way because we had insisted on the orcs' way.
+
+"Oh, dear," Soma said, which is what she says when the world has finished arranging itself against us and there is nothing left to do but walk through it.
+
+I did not mind. Two days of singing and meat and blood is not a punishment to me; it is a liturgy. Vukradin understood at least the first half of it. "There will be songs, there will be eating," he announced, conducting our future with one hand.
+
+"There'll be blood," Soma added.
+
+"No bathrobes," said Brewbarry, mournful.
+
+"There's blood," Vukradin agreed, as though he were only now tasting the word.
+
+By the time the gray teeth of Icespire Hold came up out of the Overbright, I knew what I had to do, the way one knows a sunburn is coming before the skin reddens. "So, as we get to Icespire Hold, I want to talk to Prutha." I drew him aside from his kin, my first orc, the one who had pledged himself to the Drow Cleric of Lathander without flinching at the contradiction. "I've had a vision from Lathander, and you have new instructions, my disciple." His broad face went very still. "You are to convert any more of the orcs, in the Ice Bear Mountains here, to Lathander's cause."
+
+Vukradin, who hears scripture the way Brewbarry hears a tavern bell, drifted in. "What's the line? Build me a church? Upon this rock you shall build me my church." He always reaches for the borrowed words. I have my own.
+
+And then it came, not borrowed, not reached for. It came down through the top of my skull like a nail of light, and the pain of it was the most exquisite thing I have ever been given. My eyes filled, not with tears, with the noon sun. They took it and they kept it. A blinding, molten golden hue, burned in permanent, a brand worn from the inside out. *Deliciously painful.* I understood without being told that anyone who lied to me now would feel it crawl across the back of their neck like the first prickle of skin caught too long in the open. And beneath that, two new gifts settled into me, warm and heavy, the way a key settles into a lock it was cut for.
+
+"What?" Vukradin said, peering at me. Soma only said, "Oh, dear," again, softer.
+
+The revelation was specific. Lathander wanted an arm. Not a prayer. An arm. A body of true believers to enforce his will against aberration and against evil, and he wanted it built from my own heretical insistence that brightness need not be gentle, that power must be continuous, that the dawn does not ask permission.
+
+"Here we go," I said. "Yeah, I mean, I'm good with that."
+
+I named it for them on the cold air. "Lathander has given me a vision. To create His divine arm. Lathander's searing lights. And our mission will be to enforce Lathander's will on the world."
+
+"Fighting aberrations," I was reminded, and I repeated it, "fighting aberrations," because that was the part that fit cleanly in their ears.
+
+"I got nervous there for a moment," Vukradin said.
+
+"You sounded awfully interventionist there," said Soma, who has lately become an expert in that word.
+
+"And evil," it was added, and Vukradin brightened. "I'm all for fighting evil."
+
+"And evil. Oh, okay, sure." I will take the aberrations and the evil if it lets me keep the searing. He embraces my concept of continuous power. He wants me to lead a militant order, not a spiritual one, and this will cause me grief with the soft, conventional Lathanderites who think the dawn is a comfort. Let it. "New take on Lathandrism," Vukradin offered.
+
+"So, should I be called the Bishop of Searing Light, or, like, what's the title with that?" A sword wants a name, and the one who holds it wants a rank. "A Searing Light." I turned it over. "Alright. The sword. Yeah, you know."
+
+Prutha had been watching my eyes the whole while. When the gold flared as I spoke of converting his kin, something in him reorganized, and five more orcs left the tribe and came to stand at his shoulder, fervent, ready.
+
+"From — from where?" I asked.
+
+"From the tribe. Okay, yes."
+
+"You've become quite the cult leader," Soma observed.
+
+The five looked at me with the bright, dumb devotion I have learned to cherish, and asked the only question orcs ever ask first: where do we pillage?
+
+"Well, they should definitely go with Prutha and convert the other orc tribes."
+
+"No, no, no," Vukradin said.
+
+"A mission," I said.
+
+"A mission," he repeated, relieved.
+
+"Missionary. Missionary." I gave them the gentler word and the harder errand both. "They'll figure it out."
+
+"Like, as long as Sister Kaella's still breathing, you're good," Vukradin said, his little failsafe, his way of telling himself I have not loosed anything that cannot be recalled.
+
+Religious maniacs, sent into the mountains to harvest converts. I knew exactly what I had done. "That's right."
+
+"I think we should head back to Phandalin. Our work here is done," Vukradin said, already turning toward home and away from the thing I had set spinning behind us.
+
+"I'm sure we'll need them later. We'll just — you know. Just set that in motion."
+
+"I think we're stopping by at the mine to pick up some money," he added.
+
+"Yeah," said Soma. "Mountain's Toe Gold Mine."
+
+---
+
+## Vukradin — The Gold Mine Dividend
+
+I had been doing the arithmetic in my head the whole ride back. Five days of a working gold mine, and a gold mine is gold, the word is right there in the name, and I had let myself picture it, not modestly, I'll admit that. Piles. Mountains of honest, conflict-free coin, the kind a man could build a music studio on without ever once flinching at where it came from. So when the wererats jumped to attention at the sight of us, Brewbarry hadn't even had to do anything this time, the terror we'd left last visit was doing its own work, and I let myself hope.
+
+Brewbarry was in fine spirits, promising the lead wererat a nice tip and recommending the bathrobe at Falcon's Lodge, which he had, sadly, returned. The wererat asked if he could touch it. *There is no bathrobe to touch*, I thought, but Brewbarry only said if he ever went to the lodge he highly recommended it.
+
+One of the others scurried up to Valphine, insisting the mine was very busily working, everybody hard at work, see, see. Last time she'd caught them idle and they had clearly not recovered from it. "Is he lying to me?" Valphine asked, and I said, "He'd be very unsettled if he tried to lie to you." He was. She looked at him carefully with those new golden eyes of hers and pronounced us good. The poor creature was a little bit disturbed. Soma offered that eyes are the window to the soul. I let that pass.
+
+Then Horia Stonetallow arrived with the ledger, and the bottom dropped out of my dream.
+
+Startup costs. Professional costs. Back-office costs. She had good news, she said, after the cut to the Neverwinter Commission, which it turns out actually owns the land, and the good news was thirty gold pieces. "From a gold mine," Brewbarry started, "thirty gold pieces, are you—"
+
+"Amazing," I said.
+
+I asked to examine the books. Soma muttered something about ten thousand for a hammer, but the books were honest. That was somehow worse. Insurance for the workers. Salaries. Food supplies. A *hazard pay for the remoteness*. "Wow, thirty gold a week," I said. "Wow, it's life-changing money there." I considered weaving the working that strips a man of the power to lie, and then realized there was nothing to catch. The numbers were real. The poverty was real.
+
+This is a confidence trick with extra steps, I told them: there's all this money in the mine, but first you need to buy me a gem. Because there had been a gem, a special rock for a superstitious dwarf, the whole reason production had nearly stalled. And now Horia was telling me not to worry, boss, once the new vein gets going we'll be rolling in the cash.
+
+"How much will that bring in?" A lot. "Can you quantify a lot?" She called over her best vein-digger, a dwarf who said the vein had been *speaking* to him, that we just had to give it time, that if we pressured it too much it would *disappear*. "That doesn't make any sense at all," I said. He was her best man. I had to trust him. I had to just go.
+
+"I'm gonna be poor forever, aren't I?" If we waited a month, she offered, it'd be a lot more gold. Soma figured it aloud: a hundred and eighty? "Wow," I said. "I still feel like I'm gonna be poor forever. Alright, let's blow this joint."
+
+Except we couldn't, because the cheese came up. I had promised them cheese, from Petunia's happy cows, no less, and now they wanted to know if it was happening, and whether they had to personally fetch it, and what counted as abandoning a post. "Is that happening?" I asked. "I didn't know, do we have to personally bring the cheese periodically? Like, an ongoing relationship?" One of them asked, with enormous care, whether being overwhelmed in an attack while out fetching cheese would count against them. Brewbarry sighed. "Do we have to spell out everything for you? Come on."
+
+Valphine wanted to escort one to town, the first time, to show him how to secure it. "No, I don't want to escort them to town, no thank you." She argued it would mean we wouldn't have to babysit them. "I think escorting them to town is babysitting them. I've got other things I need to do." She kept at it, just this once, on our way back anyway. "Just this once. Ugh. These guys." I dragged a hand down my face. "There's thirty *fucking* gold pieces." I owned a gold mine and I was rationing caveats: if they get the cheese, if they're not killed, if the dwarf doesn't have an existential crisis, so many provisos.
+
+The Commission's cut, that enormous Commission's cut, was the one thing worth fixing. "Oh, we're gonna discuss that with them, don't worry," I said, and Soma called it the HOA of the land, which was exactly right.
+
+Brewbarry wanted a steady, legal revenue stream besides the mine. He still wanted that bathrobe, and he had nothing to show for all the killing he'd done. "Yes," I said, "and I'm not making very much progress on funding my music studio." There was, of course, the lump of fused dragon's gold sitting untransformed in our packs, the one piece of treasure that would solve everything. "Yeah, we can't take the Dragon Hoard," I said. "How many times do we have to say so?"

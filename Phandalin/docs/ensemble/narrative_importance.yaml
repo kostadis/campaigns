@@ -1,0 +1,74 @@
+# Narrative Importance — GM curation layer for ensemble synthesis
+#
+# Purpose: override the n_facts / chapter-span thresholds used by the
+# importance cut scripts. Two lists:
+#
+#   force_include — entities BELOW threshold that must appear in synthesis.
+#                   Typical cases: forward-looking threats with short chapter
+#                   spans, active objectives with few extracted facts.
+#
+#   force_exclude — entities ABOVE threshold that should be DROPPED.
+#                   Typical cases: deceased / resolved NPCs that bloat the
+#                   planning doc with one-line "dead, resolved" entries.
+#
+# Paths are relative to the run's merged_dossiers/ directory.
+# Update this file after each importance-cut audit. Prune entries whose
+# 'reason' no longer applies (resolved arcs, promoted entities).
+#
+# Used by:
+#   - importance cut script (planning.py NPC_FILES array)
+#   - campaign_state low-fact staging (extract_003_low_fact_dossiers)
+#   - world_state staging (supplement extract, when needed)
+
+force_include:
+
+  - file: npc_aletra.md
+    reason: >
+      Escaped hostile with active Planar Distortion arc (Phase 1 beginning).
+      59 facts but only ch27-29 = 3-chapter span — misses the span cut entirely.
+      Forward-looking, not recurrence-heavy. Phase 3 destination is Iymrith's Lair.
+    reconsider_after_chapter: 55
+
+  - file: location_shrine_of_savras.md
+    reason: >
+      Active uncleared objective known to the party. 9 facts — just below the
+      n_facts threshold. CounterForce playbill is queued to appear here on first
+      visit.
+    reconsider_after_chapter: null
+
+  - file: npc_grannoc.md
+    reason: >
+      Talosian at the Woodland Manse (ch41-45). Status after ch45 battle is
+      unconfirmed — fled or killed? 5 facts, 1-chapter span.
+    reconsider_after_chapter: 50
+
+  - file: npc_tibor_wester.md
+    reason: >
+      Wildcat logger; loggers reported him missing ch39. 5 facts, ch20-39 span
+      passes the span cut but misses n_facts. Worth including until his fate
+      is resolved.
+    reconsider_after_chapter: 50
+
+  # Dazlyn and Norbus are minor (gave sending stones ch2) but the sending stones
+  # are still in play as a potential plot hook. Include conservatively.
+  - file: npc_dazlyn.md
+    reason: Gave sending stones as reward ch2; stones still in party inventory.
+    reconsider_after_chapter: null
+
+  - file: npc_norbus.md
+    reason: Partner to Dazlyn; same sending stone hook.
+    reconsider_after_chapter: null
+
+force_exclude:
+
+  - file: npc_moesko.md
+    reason: Deceased ch9-17. Tower of Storms curse resolved. Arc complete.
+
+  - file: npc_gorthok.md
+    reason: Deceased ch43 (killed by Soma's Moonbeam). Arc complete.
+
+  - file: npc_the_carver.md
+    reason: Arc resolved ~ch36. Stopped / destroyed. No forward hooks.
+
+  - file: npc_don_jon_raskin.md
+    reason: Deceased (killed by dwarves, consumed by carrion crawler ch31).

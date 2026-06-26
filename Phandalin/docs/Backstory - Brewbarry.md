@@ -8,6 +8,9 @@ When he awoke with a splitting headache and the bitter taste of regret, the sun 
 The shame was immediate, burning hotter than any hangover. Brewbarry had been derelict in his duties, a grave offense in the Uthgard way. The tribal elders, their faces grim and unforgiving, convened quickly. Despite his years of service and his genuine remorse, the law was clear. For his unforgivable lapse, for allowing the desecration of their most sacred ground, Brewbarry was kicked out of the tribe.
 He left with nothing but the clothes on his back, his heart heavy with regret and the sting of banishment. The wild that had once embraced him now felt vast and indifferent. He wandered for years, ultimately finding his way to Neverwinter, where as he stumbled into the pub, he discovered Vukradin and the haunting, otherworldly compositions that Brewbarry considered a perfect 10/10. He’d spend hours listening, lost in the intricate tapestry of sound.
 The memory of his tribe is a bittersweet echo in his mind, and the taste of strong drink a persistent companion, dulling the sharp edges of his sorrow and transforming him into the bumbling but undeniably kind figure he is today.
+In-session established lore (session 20260609, high Religion roll)
+- The Uthgardt tribe had wise women who taught about cursed artifacts — Brewbarry recalled their warnings when the party discovered twig effigies in the Woodland Manse, cautioning the others not to touch them.
+
 Character traits
 - Prone to booze, and always looks forward to a jovial time in the pub
 - Well intentioned, but ultimately unreliable
