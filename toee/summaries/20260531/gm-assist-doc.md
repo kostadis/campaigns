@@ -1,4 +1,4 @@
-# Chapter 29: The New Rulers of the Temple
+# Chapter 28 A Blazing New Beginning
 
 
 ---

@@ -14,3 +14,7 @@ relevant. Treat this file as a staging holding area, not canon.
 | Upper Temple | 2026-05-24 | "speak to the new rulers of the Upper Temple" | Canonical term for the temple's first-through-second levels (the Fire, Earth, and Water sub-temples). A real location term, not a misspelling. |
 | Earth Pretender | 2026-05-24 | "The Earth Pretender names himself Supreme Prophet" | Epithet/title for **Hartsch**. Correctly spelled — NOT a replacement (mapping it would erase the in-fiction title). Record as an alias in `hartsch.md` when promoting. |
 | Supreme Prophet | 2026-05-24 | "The Earth Pretender names himself Supreme Prophet" | Title: leader of the Upper Temple. Held by **Calmer** — a *PC* (St. Cuthbert cleric, raised from death by Terjon) operating under deep cover inside the Temple; "Supreme Prophet" is his cover role, taken after Belsornig's death. PC truth lives in `docs/party.md`, NOT the stale `calmer.md` NPC dossier. |
+
+## 2026-06-26 (session 20260614)
+- Vorkal — fire salamander from the Fire Temple who switched loyalties to the party ("refers to the salamander by his name, Vorkal, and tells you that he is more than happy to switch his loyalties to the new leaders of the Fire Temple")
+- Frostbrand — intelligent magic sword found in the Fire Temple that communicates with Vorkal ("The Frostbrand mutters something to Vorkal...")
