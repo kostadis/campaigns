@@ -140,7 +140,8 @@
 | Dwolin the Grout | Alive | Mountain's Toe Gold Mine | Cooperative |
 | Jenna Roscoe | Alive | Lord's Alliance / Neverwinter | Neutral; no deal reached |
 | Lyra (Emerald Enclave) | Alive | Phandalin area / Enclave | Restored to good standing; cautiously allied |
-| Elara Meliamne | Alive | Neverwinter | Friendly; party has item for her |
+| Elara Meliamne | **Dead** | Neverwinter (killed by House Margaster, 8 days before party arrival, ch46) | — |
+| Lord Cassian Meliamne | Alive | Neverwinter | Elara's cousin; carries her anti-Margaster case; active contact for mermaid statue and necklace provenance |
 | Dazlyn Grayshard | Alive | Ancient dwarven ruins SW of Phandalin | Friendly/grateful |
 | Norbus Ironrune | Alive | Ancient dwarven ruins SW of Phandalin | Friendly/grateful |
 | Brin Bundlewine | Alive | Temple of Lathander, Phandalin | Devoted ally of Valphine |
@@ -154,7 +155,7 @@
 | King Gnerkli | Alive | Gnomengarde | Friendly |
 | Pog | Alive | Gnomengarde entrance | Neutral |
 | Ulla | Alive | Gnomengarde entrance | Neutral |
-| Vorga (orc warchief) | Alive | Near Woodland Manse / departing | Warm ally |
+| Vorga (orc warchief) | Alive | Icespire Hold (tribal base, ch46) | Warm ally |
 | Zax (Carver's 3rd lieutenant) | Unknown | Unknown | Hostile; "walks without rest, without breath, without soul" |
 | Borg the Hammer | Alive (at large) | Unknown (fled ch15) | Hostile |
 | Sylvine Wintermoon | Unknown | Unknown (fled Icespire Hold) | Hostile |
@@ -205,7 +206,7 @@ Whispering Wood rift is unsealed. Aletra's interdimensional trade may be connect
 Party carries an illithid-tech beacon. Miraal warned of "a deeper psionic/alien threat beneath Leilon." Mind-controlled Enclave members were made to steal an inscription about "a drowned gate beneath Yllyn." Jenna Roscoe dismissed the Kraken Society as harmless — considered unreliable.
 
 **Mountain's Toe Gold Mine — Outstanding**
-New gold vein anticipated but not confirmed. Zeleen's Earthstone Gem retrieval still outstanding. Secret financial addendum (signed via Brewbarry's thumbprints) must be kept from Vukradin. Party plans to stop here en route to Neverwinter.
+New gold vein anticipated but not confirmed. Zeleen's Earthstone Gem retrieval still outstanding. Secret financial addendum (signed via Brewbarry's thumbprints) must be kept from Vukradin. **Mine stop bypassed (ch46)** — party went directly to Neverwinter. Money collection, gem retrieval, and addendum remain unresolved. Party has not visited the mine since the alliance was struck.
 
 **Grundar Quartzvein**
 Escaped Menzoberranzan during the demon invasion. Patient. Planning revenge against House Sotorra and Valphine specifically. Currently underground.
@@ -237,12 +238,12 @@ Zeleen suggested it (ch31); party noted intent to investigate (ch44). Not yet vi
 
 - **Current location:** Returning from Woodland Manse area toward Phandalin. Full party alive. Next destination: Phandalin (celebration / rest), then Mountain's Toe Mine (collect money), then Neverwinter.
 - **Active obligations and outstanding debts:**
-  - Return stolen goods and statue to Neverwinter contacts (Elara Meliamne) before House Margaster intervenes.
+  - Return mermaid statue to Lord Cassian Meliamne (Elara Meliamne's cousin — Elara is dead, killed by House Margaster). Urgency: House Margaster agents have been intercepting the statue. Contact: Cassian, not Elara. Before House Margaster intervenes.
   - Resolve Crown claim on Icespire Hold frozen dragon treasure.
   - Locate mermaid's next of kin in Neverwinter.
   - Brewbarry committed to helping rebuild Woodland Manse brewery (future beer promised).
   - Vukradin holds items for rightful owners: Necklace of Fireballs, obsidian sword/gem.
-  - Escort Vorga (agreed by Vukradin, ch45).
+  - Escort Vorga — **COMPLETE (ch46).** Delivered to Icespire Hold with her tribe.
 - **Key resources and assets:**
   - Dragon Slayer Sword (+1) — Brewbarry
   - Meril's Staff (sentient, leaf count uncertain) — Soma

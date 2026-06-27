@@ -192,8 +192,4 @@ source: gmassist
 **[GM]** — *the work will be done before they leave*
 > "I will assert it will be done by the time you're leaving town."
 
-**[Soma]**
-> "Sleep time now, guys."
 
-**[Vukradin]**
-> "Yes."

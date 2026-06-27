@@ -41,7 +41,7 @@
 
 ### Brewbarry
 
-**Barbarian 6 (Path of the Giant) | Goliath | Player: Gary Young (previously listed as Stephane Boudreau — sheet says Stephane; GM should verify)**
+**Barbarian 6 (Path of the Giant) | Goliath | Stephane Boudreau 
 
 *The character sheet lists the player as Stephane Boudreau.*
 

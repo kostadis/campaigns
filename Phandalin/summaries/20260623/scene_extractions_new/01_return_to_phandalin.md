@@ -12,7 +12,7 @@ source: gmassist
 - Brewbarry reveals his ambition to start a bathrobe business and suggests a finder's fee for recovered treasure: *"every time we find treasure, whether it belongs to us or not, there should be a find us fee. And some of that gold should go in my pocket towards, you know, me building that bathrobe business."*
 - Vukradin and Brewbarry float a cross-promotion deal — a Lathander/music-studio logo on the bathrobes, with Vukradin's studio as a sponsor.
 - Vukradin expresses frustration over his lack of progress in funding his musical studio despite their victories — having defeated dragons, cleared mansions, and become part-owner of a gold mine.
-- The group discusses pushing for direct mayoral elections in Phandalin and the legal process of 'encheatment'.
+- The group discusses pushing for direct mayoral elections in Phandalin and the legal process of 'sheetment'.
 - Vukradin fulfills his escort obligation to Vorga: the orc warchief and her tribe are delivered to Icespire Hold, their new base. Prutha and his five orc converts part ways with the party here as well — Prutha intends to convert Vorga's orcs at Icespire Hold to Valphine's version of Lathander worship. The party continues to Phandalin without them.
 - The party enters Phandalin and passes by familiar locations like Barthen's Provisions and the Smithy — greeted with friendly but muted recognition ("Hi, how are you?"), their heroics now "yesterday's news."
 - Valphine boasts of the destroyed followers of Talos; Vukradin coaches her toward a softer public spin. Valphine: *"the town has been protected by the strength of [Lathander]."* Vukradin: *"Okay. That's a much better spin. We gotta work on your spin."*
@@ -25,7 +25,7 @@ source: gmassist
 - The party departed the mine with their 30 gold pieces and a growing list of ambitions.
 - Gruberry made a mental note that a finder's fee would be the right and proper thing to offer on the dragon's recovered hoard.
 - Vukradin lamented his lack of progress funding his musical studio despite defeating dragons.
-- A political agenda was noted: pushing for direct mayoral elections, a process called a "encheatment."
+- A political agenda was noted: pushing for direct mayoral elections, a process called a "sheetment."
 - Still unresolved: the untransformed lump of gold from Cryovain's hoard, and a holy orc army marching through the mountains in Lathander's name.
 
 **[GM]** — recapping the journey and ambitions
@@ -37,8 +37,8 @@ source: gmassist
 > "Doesn't it seem unfair? It's very unfair."
 > "I didn't say I wasn't. As the groups turned their boots towards Phandalin, there was much to discuss." (GM)
 
-**[GM]** — the political agenda and the encheatment
-> "A political agenda to pursue, the existing privy council was imposed on Harbin Wester as a fig leaf rather than a genuine democratic body, and Vukradin intended to push for direct elections of the mayor, a legal process called a encheatment that Valphine apparently researched."
+**[GM]** — the political agenda and the sheetment
+> "A political agenda to pursue, the existing privy council was imposed on Harbin Wester as a fig leaf rather than a genuine democratic body, and Vukradin intended to push for direct elections of the mayor, a legal process called a sheetment that Valphine apparently researched."
 > "The still untransformed lump of gold from Cryovain's hoard that the party refused to use, and the small matter of a holy orc army now marching through the mountains in Lathander's name, whatever came next, it was clear that the consequences of their choices were only just beginning to unfold."
 
 **[Vukradin / GM]** — debating whether to force an election or go to Neverwinter

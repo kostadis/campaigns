@@ -9,7 +9,7 @@ Phandalin is character-centered literary fantasy narrated in close first-person 
 ### POV conventions
 
 - **One POV per section.** Each section begins with a `### <Character Name>` heading, then narrates entirely from inside that character's head.
-- **First-person past tense is the default** ("I", "we"). Some chapters drift into close third-person past with the same character's vocabulary; both are acceptable, but first-person reads as the more honest mode and should be preferred when in doubt.
+- **First-person past tense, always** ("I", "we"). Never drift into third person ("he", "she", "Brewbarry felt") — even close third with the character's vocabulary is wrong here. Every section is the POV character narrating their own scene from inside their own head. If in doubt, first person.
 - **POV switches happen at section breaks**, not mid-paragraph. Never narrate someone else's interior thoughts; report what the POV character *observes* of them.
 - **The POV character's frame is the only frame in their section.** If Vukradin thinks Ser Kaelen is suspicious, the section reads as if Ser Kaelen is suspicious; another POV can disagree in their own section.
 - **Use the POV character's vocabulary for everything**, including how other characters and creatures are described. Soma calls the party "my bale" and Vukradin "shell sprout." Valphine calls the surface "the Overbright." Brewbarry uses short words. Don't break the character's lexicon to be precise.
