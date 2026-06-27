@@ -38,11 +38,12 @@ The immediate Icespire crisis is resolved: Cryovain the white dragon is dead and
 
 - **Drive:** Theology of painful light ("Choralum Lux Maleficarum"). Founded the Church of the Searing Light — a militant Lathandrian order of five converted orcs (led by Prutha).
 - **Allegiance:** Former Lolth priestess. Secret Lathander devotee since reaching the surface.
-- **Key items:** Mace, hand crossbow, Dragon Slayer Sword (very likely in her possession; retrieval after Invisible Stalker incident ch33 is unconfirmed but implied by ch45), Dust of Disappearance (hidden in Elvish Idioms book), Midnight Tears poison (4 vials), Malachite gem. Secretly placed a superior healing potion in Vukradin's pack (ch41).
+- **Key items:** Mace, hand crossbow, Dust of Disappearance (hidden in Elvish Idioms book), Midnight Tears poison (4 vials), Malachite gem. Secretly placed a superior healing potion in Vukradin's pack (ch41).
 - **Key spells:** Sacred Flame, Fairy Fire, Spirit Guardians, Guiding Bolt, Daylight, Doom Sphere (psychic darkness), Zone of Truth, Thunderwave.
-- **Key relationships:** Prutha (devoted follower); Sister Kaella (secret intelligence arrangement); Aletra (sister, blinded in ch28, current fate unknown).
+- **Key relationships:** Prutha (devoted follower, now at Icespire Hold on missionary mission); Sister Kaella (secret intelligence arrangement); Aletra (sister, blinded in ch28, current fate unknown).
 - **Recent:** Obliterated Talosians at Woodland Manse with Doom Sphere; established orc congregation; acquired Dust of Disappearance covertly.
-- **Uncertainty:** Dragon Slayer Sword — dropped to Invisible Stalker (ch33), believed re-acquired but moment unconfirmed. Talisman of Moesko — sale agreed (ch17) but completion unconfirmed.
+- **Uncertainty:** Talisman of Moesko — sale agreed (ch17) but completion unconfirmed.
+- **Note:** Dragon Slayer Sword is held by Brewbarry (used on Cryovain ch36). Earlier uncertainty about Valphine re-acquiring it after the Invisible Stalker incident (ch33) is resolved — Brewbarry is the definitive holder.
 
 ### Brewbarry
 *Goliath Barbarian 5 | alive | ground floor of Woodland Manse (staircase collapsed ch44), recovering*
@@ -277,10 +278,10 @@ The immediate Icespire crisis is resolved: Cryovain the white dragon is dead and
 - Notable find: Staff of Bird Calls (taken by Soma).
 
 ### Icespire Hold
-*Cryovain dead. Occupancy unconfirmed.*
+*Cryovain dead. Now Vorga's tribal base (ch46).*
 
 - Mountain fortress, 55 miles from Phandalin. Summoning circle on roof (inactive). Old earthquake damage throughout.
-- Current control: unknown. Party has not returned since ch36.
+- Current control: Vorga's orc tribe, established as their base as of ch46. Prutha and five orc converts also present, on a missionary campaign to convert Vorga's orcs to Valphine's Lathanderite faith.
 
 ### Mountain's Toe Gold Mine
 *Quiet (ch45). New vein anticipated.*
