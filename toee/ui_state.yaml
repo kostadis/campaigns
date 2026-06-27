@@ -1,14 +1,14 @@
 version: 2
 ui:
   session_doc:
-    session: /home/kroussos/toee/toee/summaries/20260524/gm-assist.md
+    session: /home/kroussos/toee/toee/summaries/20260614/gm-assist.md
     extract_dir: null
     roleplay_dir: null
-    output_dir: /home/kroussos/toee/toee/summaries/20260524
+    output_dir: /home/kroussos/toee/toee/summaries/20260614
     summary_dir: null
-    session_summary: /home/kroussos/toee/toee/summaries/20260524/session-summary.md
-    scene_extractions_dir: /home/kroussos/toee/toee/summaries/20260524/scene_extractions_new
-    narration_dir: /home/kroussos/toee/toee/summaries/20260524/narration
+    session_summary: /home/kroussos/toee/toee/summaries/20260614/session-summary.md
+    scene_extractions_dir: /home/kroussos/toee/toee/summaries/20260614/scene_extractions_new
+    narration_dir: /home/kroussos/toee/toee/summaries/20260614/narration
     party: /home/kroussos/toee/toee/docs/party.md
     voice_dir: /home/kroussos/toee/toee/voice
     examples_dir: /home/kroussos/toee/toee/examples
@@ -186,10 +186,7 @@ ui:
       devotion as the one genuine thing in a campaign of deception)'
     batch: false
     session_name: null
-    context:
-    - /home/kroussos/toee/toee/docs/campaign_state.md
-    - /home/kroussos/toee/toee/docs/world_state.md
-    - /home/kroussos/toee/toee/docs/party.md
+    context: []
     backend: claude-code
     dgx_endpoint: null
     dgx_model: null

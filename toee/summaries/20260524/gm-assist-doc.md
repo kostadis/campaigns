@@ -1,7 +1,4 @@
-# Session 20260524 — Temple of Elemental Evil
-
-
----
+# Chapter 27 Dungeon Boss
 
 ## calmer — The Aftermath and the Secret Door
 
@@ -25,7 +22,7 @@ Me. I wanted to lead. I always —
 
 *"My lead,"* said Zephyr, and the cold turned over in my chest.
 
-Of course. His lead. It is always his lead. I built a whole argument once about what my opinions were worth and he watched me drift through it like he was waiting to see which seam would give. *Be ready to die,* he'd told me, in that tone, and the wraith had agreed with him — *one of you is going to die today* — and here I was being dragged out of the fight feet-first while the rest of them went down without me.
+Of course. His lead. It is always his lead. I built a whole argument once about what my opinions were worth and he watched me drift through it the way he watches me now, waiting to see how much of it I still believed. *Be ready to die,* he'd told me, in that tone, and the wraith had agreed with him — *one of you is going to die today* — and here I was being dragged out of the fight feet-first while the rest of them went down without me.
 
 The voices kept coming. *Stairs leading down. A passageway to the northeast. The lower temple, also probably barricaded.* The Greater Temple had pulled its doors shut and let the lesser ones go to war in the dark, and our whole holy purpose now was to do nothing and stab the survivors. *Let them keep fighting and periodically stab one in the back, and the battle ends.* I would have said something pompous about that. I had read about this just a few moments ago. Well — I hadn't read about it. But I would have made it sound like I had.
 
@@ -51,7 +48,7 @@ I didn't even believe it. That was the worst part. I said it to the dark anyway,
 
 ## zephyr — A Bargain in the Air Temple
 
-Calmer wasn't with us. Deeply injured, parked with Dren's mercenaries somewhere behind a curtain so he wouldn't get himself killed reaching for a god he can't name in here. Fine. I had the others. And I had the cold arithmetic, which was the only thing in this temple that ever told me the truth: four prophets, all chaotic, all hungry for the same chair, and the simplest way to win a war between starving men is to let them eat each other and stab whoever's still chewing. Let them slaughter each other. That wasn't a bad outcome. That was the outcome.
+Calmer wasn't with us. Deeply injured, parked with Dren's mercenaries somewhere behind a curtain so he wouldn't get himself killed reaching for a god he can't name in here. Fine. I had the others. And I had the only thing in this temple that ever told me the truth: four starving prophets, all chaotic, all hungry for the same chair, and the simplest way to win a war between starving men is to let them eat each other and stab whoever's still chewing. Let them slaughter each other. That wasn't a bad outcome. That was the outcome.
 
 "Let's go export," I said, which is not how the word goes, but nobody corrected me, and we went.
 
@@ -145,7 +142,7 @@ I stood. The chair he'd kept warm for two weeks held my shape now.
 
 ---
 
-## sequioa — The Captain's Report
+## sequoia — The Captain's Report
 
 Dren came down the processional corridor while we were going up it, which meant he'd already done the one thing we'd asked. Calmer was upstairs. Safe. Or as safe as anything in here.
 
@@ -157,7 +154,7 @@ He meant Calmer. The injured cleric I'd watched bleed in three different rooms n
 
 "He's a worrier at heart," Zephyr said.
 
-That was generous. Calmer wasn't a worrier. Calmer was a man holding a name in his mouth he wasn't allowed to say, inside a temple built to spite it. The whining was the seam. But Dren didn't need that, and there was no need for him to know.
+That was generous. Calmer wasn't a worrier. He just couldn't say his own god's name in here, so it came out sideways, as complaint. But Dren didn't need that, and there was no need for him to know.
 
 Then the report.
 
@@ -205,7 +202,7 @@ That's not good.
 
 Dren said "okay, boss," and that was the last easy thing.
 
-We came up on the Water Temple and the corridor opened into a hall the size of a barracks, the ceiling arched and lost somewhere in the shadow high overhead. The walls were slabs of polished stone, blue swirled into deep green, and some old magic had been laid into them — a soft, cloudy luminosity that bled out of the stone and floated in the damp air, so the whole chamber felt submerged. Like standing at the bottom of the sea. The buttresses and arches threw a tracery of dimness across everything. Even the air smelled of salt.
+We came up on the Water Temple and the corridor opened into a hall the size of a barracks, the ceiling arched and lost somewhere in the shadow high overhead. The walls were slabs of polished stone, blue swirled into deep green, and some old magic had been laid into them — a soft, cloudy luminosity that bled out of the stone and floated in the damp air, so the whole chamber felt submerged. Like standing at the bottom of the sea. Even the air smelled of salt.
 
 I drank it in. That is the job, before anything else: read the room. Bronze everywhere, all of it gone to verdigris, that green crust that says nobody has touched this in a long time, or nobody dares. A great sheet of bronze set into the west wall. An altar near the middle of the hall, round and squat, its concave top holding a shallow basin of water, and at the bottom of the basin — coins, a scatter of gems, seashells. An offering. South of it, in the mouth of an alcove, an idol of serpentine stone: a writhing knot of fish and eels and octopi sculpted into one horrid mass, the height of a tall man and more, with a seaweed drapery hung across the wall behind. In each corner a triangular plinth ran up toward the vaulted dark, and atop each one a bronze gargoyle squatted under its coat of green.
 
@@ -237,7 +234,7 @@ The margin was gone. We had crossed that whole stretch of glowing water-light wi
 
 ## zephyr — Infiltration of the Water Temple
 
-The west door. Always the west door — fewer rooms, fewer surprises, fewer chances for a war zone to introduce me to something it had been saving. *Fewer rooms. Fewer chances for whatever this war had saved for us to introduce itself.* I put my ear to the brown marble and listened. Nothing. The plan was to burst in.
+The west door. Always the west door — fewer rooms, fewer surprises, fewer chances for a war zone to introduce me to something it had been saving. I put my ear to the brown marble and listened. Nothing. The plan was to burst in.
 
 The plan died when Zinnia hit the door and the door hit back.
 
@@ -249,7 +246,7 @@ It did not land. I sighed. Zinnia tried informants. I tried Kelno — *We are me
 
 There was a war on. War means news, and news means doors open for the people who carry it. We were messengers, then — bearing word of an assassination, a letter, a coin to prove it. Zinnia produced the proof. The voices behind the door paused, and the pause is where you win or lose. *Yes,* one said, *and what is it?* News for the big boss. News for Belsornig.
 
-And then they did the thing tired men do when they think they're safe — they talked. "She's dead, then with Alrrem dying, and those fools… All that remains is for us to defeat those pompous passes known as the Obsidian Edge."
+And then they did the thing tired men do when they think they're safe — they talked. "They're dead, then, with Alrrem dying, and those fools… All that remains is for us to defeat those pompous asses known as the Obsidian Edge."
 
 *This again.* The world had been calling us pompous behind closed doors for a while now. I could forgive it. We were about to introduce ourselves properly.
 
@@ -313,7 +310,7 @@ Then Zephyr offered them meat. "Are you hungry? Would you like some meat?" I hav
 
 That was when I saw them.
 
-Not the bugbears in front of us — the others. The arrangement of the room snapped into focus, the angle of their approach, the confidence in how they had spaced themselves, and I knew. The Greater Temple had not kept its forces below. They had forces on this level, in the parts of the map we had never walked, sitting quiet behind brown marble while we ran our little war for them floor by floor. We had been operating inside a house that was never empty. We had simply never opened the right doors.
+Not the bugbears in front of us — the others. It landed all at once, the way a wrong room lands: they stood like men who had stood here before, easy, owning the floor — and I knew. The Greater Temple had not kept its forces below. They had forces on this level, in the parts of the map we had never walked, sitting quiet behind brown marble while we ran our little war for them floor by floor. We had been operating inside a house that was never empty. We had simply never opened the right doors.
 
 *Gotcha.* Except this time the catch was on me. I had not seen them, and I am the one who sees. That stayed with me.
 
