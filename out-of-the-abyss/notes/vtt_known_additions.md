@@ -120,3 +120,5 @@ Daggerford  — FR town between Waterdeep and Candlekeep; mentioned re: paladin 
 - Floratheka  — Candlekeep subsection; area of flora/naturalis study  — 2026-06-08
 - Alkrist  — Candlekeep NPC; 'A formidable Alkrist. The gate warden needs to be dismissed'  — 2026-06-08
 - Dwarmij  — Candlekeep/D&D NPC reference; 'Dwarmij's, this is the closest spell that'  — 2026-06-08
+Elian  — 'Elian says, my boss, Kalan Strongbranch, was a big fan of this approach' (staffer under Gatewarden Kalan)  — 2026-06-27 (session 20260622)  — ✅ PROMOTED 2026-06-27: established canon; dossier at docs/npcs/elian.md; delivers the handout "The Threefold Proof" (notes/sessions/handouts/threefold_proof.md). Glossary: Eliana→Elian.
+Jezebel  — 'She turns to request a familiar, Jezebel! Organize the chamber's seats...' (a familiar)  — 2026-06-27 (session 20260622)

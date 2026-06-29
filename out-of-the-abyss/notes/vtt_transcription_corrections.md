@@ -21,7 +21,7 @@ First catalogued during the cleanup of
 
 | Wrong | Right |
 |---|---|
-| Glavagul, Glavagul's, Glabogul, Glavo, Glavacle, Glavable, Glavigal, Glavagol, Glabagul, Glabigle, Lavagul, Lavagul's, Miklabogul, Globul, Globagool, Gobblegool, Glabugul, Gladbagul, Globagul, Glabagool, Baba Gul, Glab Agul, Glad Abugul, Glad Agul, Globugul, Klobagool, Ivagoo, Glavgul, Glamble, Bugabagul, Glaba Gul, Glabagul-, Glad Maguld, Glavagulis, Ilab Agul, Bhagava Gul, Gladwell, Glabapagool | **Glabbagool** |
+| Glavagul, Glavagul's, Glabogul, Glavo, Glavacle, Glavable, Glavigal, Glavagol, Glabagul, Glabigle, Lavagul, Lavagul's, Miklabogul, Globul, Globagool, Gobblegool, Glabugul, Gladbagul, Globagul, Glabagool, Baba Gul, Glab Agul, Glad Abugul, Glad Agul, Globugul, Klobagool, Ivagoo, Glavgul, Glamble, Bugabagul, Glaba Gul, Glabagul-, Glad Maguld, Glavagulis, Ilab Agul, Bhagava Gul, Gladwell, Glabapagool, Galavagul, Glavo Gould, Glavo Golf, Gladbagool, Glavigold | **Glabbagool** |
 | Jam Jar, Jim Jar | **Jimjar** |
 | Kel'Vire, Kel Vire, Calvir, Kel Veer, Kelvir | **Khell-Vire** |
 | Asha Vandri, Ashe Vandri, Ashas | **Asha Vandree** |
@@ -47,18 +47,18 @@ First catalogued during the cleanup of
 | Strouds | **Stroud's** |
 | Elred | **Eldred** |
 | Dazzin, Dazanan | **Daz'issin** |
-| Bookworm, Bookform, Bookworn, Does Bookworm, Arum | **Bookwyrm** |
+| Bookworm, Bookform, Bookworn, Does Bookworm, Arum, Book Forum, Book Room, Bookroom | **Bookwyrm** |
 | Miro Milo Glutbarrell | **Milo Goodbarrel** |
 | Philippine | **Philemon** |
-| Janusi, Genasi, Genusi, Janu, Genius, Genesee, Genuzia, Janice, Januzzi, Genesis Croix, Genosi | **Janussi** |
+| Janusi, Genasi, Genusi, Janu, Genius, Genesee, Genuzia, Janice, Januzzi, Genesis Croix, Genosi, Genuzi, Genuisi, Janusa, Jedusi, Venusi, Vinusi, Matt Genusi, GenoC, Genucio, Genousi, Jaducu | **Janussi** |
 | Tadrick, Tadrik, Kadrick, Tabree, Cedric, Tardik, Tedrick, Tatrix | **Tadric** |
-| Callan Strongbranch, Kalen, Callan Strongfeld, Callen, J- Kaelin, Kalin, Kellen, Carolyn, Kalen Strongbridge | **Kalan Strongbranch** |
-| Callan, Callum, Cullen, Kaelin | **Kalan** |
+| Callan Strongbranch, Kalen, Callan Strongfeld, Callen, J- Kaelin, Kalin, Kellen, Carolyn, Kalen Strongbridge, Callan Strongbench, North Carolina Strong Brunch | **Kalan Strongbranch** |
+| Callan, Callum, Cullen, Kaelin, Colin, Cal, Collins | **Kalan** |
 | Ally Avonmore, Alai Ivanmore, Ally Ivan Moore, Ally Avanmore, Alvin Moore, Ivan Moore, Ivanor | **A'lai Aivenmore** |
 | Avon Moore | **Aivenmore** |
-| Alay, L.A., Alei, Eli | **A'lai** |
+| Alay, L.A., Alei, Eli, Allay, Ally | **A'lai** |
 | Varath, Verith, Varith, Varetha | **Vareth** |
-| Khazrin Natyani Nyatani, Kazrin Niet, Katherine | **Kazryn Nyantani** |
+| Khazrin Natyani Nyatani, Kazrin Niet, Katherine, Karazzarin Nyantani, Kazrin Nanchani | **Kazryn Nyantani** |
 | Silvera salvikas, Silvira Savica, Silvara, Silvara Savikas, Silvari, Sylvaira, Vera, Silvira Savika | **Sylvira Savikas** |
 | Feminoor Scrivenbach, Ferris, Eminor, Feminore, Feminoor Scrivenback, Fanimore, Femming, Flaminear Scrivenbark, Flem, Slender Human Heavy Wrinkles, Feminor's Schitz, Fenny Moore Scriven | **Fheminor Scrivenbark** |
 | Daryl, Jarl, Droll, Darrell, And Daryl, Dural, Gal | **Daral** |
@@ -70,29 +70,34 @@ First catalogued during the cleanup of
 | Janusi's Chambers | **Janussi's Chambers** |
 | Aluando, Alando, Alwando | **Alaundo** |
 | Kazarin | **Kazryn** |
-| Silvera, Silvira, Vyra, Sylv | **Sylvira** |
+| Silvera, Silvira, Vyra, Sylv, Silvaira | **Sylvira** |
 | Holly Pocket | **Hollypocket** |
 | Feminaire, Feminer, Fennymore | **Fheminor** |
-| Teles of Oste, Teles Avoste | **Teles Ahvoste** |
-| Telus | **Teles** |
-| Cad Daral Yashenti, Elton Jaral | **Daral Yashenti** |
-| Fembric Lancer, Fembrus Lancer, Frembris, So Fembris | **Fembris Lancer** |
-| Kazrin, Kazrin Nyatani, Kazrin Nyattinyani | **Kazryn Ntantani** |
+| Teles of Oste, Teles Avoste, Teller's Avoste | **Teles Ahvoste** |
+| Telus, Tellez | **Teles** |
+| Cad Daral Yashenti, Elton Jaral, Donald Yashenti | **Daral Yashenti** |
+| Fembric Lancer, Fembrus Lancer, Frembris, So Fembris, Fember, Feminor, Femador, Femidor | **Fembris Lancer** |
+| Kazrin, Kazrin Nyatani, Kazrin Nyattinyani | **Kazryn Nyantani** |
 | Denier | **Deneir** |
 | Kai Tigersteel | **Kei Tigersteel** |
 | Holley | **Ms. Hollypocket** |
-| Alchrist, Alcrest, Alcist, Alcrist | **Alkrist** |
+| Alchrist, Alcrest, Alcist, Alcrist, Alcris, Al Christ, Altres, Elkhrist, Alcres, Alprist, El Chris, Alcarus, Alagris, Alteris, Alterus, Caltrus, Elkris, Alcra, Alkra, Elkhurst, Elkrist | **Alkrist** |
 | Dwarmages | **Dwarmij's** |
 | That Philemon | **That Philistine** |
 | Vushadi, vouchardier | **Vooshadi** (Vooshadi Moonriver) |
 | underbark | **Underdark** |
 | Sprigg | **Sprig** |
-| Oren | **Orrin** |
+| Oren, Oven | **Orrin** |
 | Loven,Lovin,Luven,Leuven,Levin,Lobin,Logan,Saloon | **Leuwin** |
 | Matt Millo, Milas | **Milil** |
 | Kellenvore | **Kelemvor** |
 | Char | **Shar** |
 | Seluni | **Selûne** |
+| Strongbench | **Strongbranch** |
+| Firoon | **Faerûn** |
+| Menzo Baranzin | **Menzoberranzan** |
+| Gregor, Dragum | **Grygum** |
+| Eliana | **Elian** |
 
 ## Items / artifacts
 
@@ -103,6 +108,8 @@ First catalogued during the cleanup of
 | Eldritch Blow, Aldridge Claw | **Eldritch Claw** |
 | Eldenkind, Element Klein | **Elvenkind** |
 | Resonance Blime | **Resonance Slime** |
+| Midnight Whisper, Midnight Terror | **midnight tears** |
+| Modocanan's nations | **Mordenkainen's Mansion** |
 
 ## Houses / factions
 
@@ -125,7 +132,7 @@ First catalogued during the cleanup of
 |---|---|
 | Vulking Valve, Velcan-developed | **Velkynvelve** |
 | Whirlstone | **Whorlstone** |
-| Candle Keep, Candleep, Candle Deep, Candleteep, Candle Key, Candle Keeper, Capital Keep | **Candlekeep** |
+| Candle Keep, Candleep, Candle Deep, Candleteep, Candle Key, Candle Keeper, Capital Keep, Castlegate | **Candlekeep** |
 | Mithril Hall | **Mithral Hall** |
 | Whirlstone Caverns | **Whorlstone Caverns** |
 | Castle Candlekeep | **Candlekeep Library** |
@@ -214,7 +221,7 @@ Daral, Irony, Leuwin, Nibbles, Sprig, Orrin, Glabbagool).
 - Speaker labels at line starts (e.g. `Thorin (Joe):`) are stable; mistranscriptions appear inside dialogue, not labels.
 - Whisper-style transcribers tend to anglicize fantasy names into English/proper nouns (Thorin → Thorne/Thornton, Dawnbringer → Don Bringer, T'sarran → Terran). Grep for the anglicized forms before each cleanup.
 - Possessive `'s` can be lost in regex replacement when a variant is matched as `Name's` and replaced with bare `Name` — eyeball the diff after a sweep.
-- **Common-word wrong-forms are case-insensitive landmines.** `apply_replacements.py` matches `\bwrong\b` with `re.IGNORECASE`, so single-word entries that double as English words will over-replace if they ever appear lowercase. Current risk rows added during the 20260618 pass: `Char`→**Shar**, `Gal`→**Daral**, `Katherine`→**Kazryn Nyantani**, `Logan`/`Levin`/`Lobin`/`Saloon`→**Leuwin**, `Oren`→**Orrin**. In the 20260618 transcript these appeared only capitalized, so it was safe — but grep for lowercase occurrences before applying the glossary to any future VTT.
+- **Common-word wrong-forms are case-insensitive landmines.** `apply_replacements.py` matches `\bwrong\b` with `re.IGNORECASE`, so single-word entries that double as English words will over-replace if they ever appear lowercase. Current risk rows added during the 20260618 pass: `Char`→**Shar**, `Gal`→**Daral**, `Katherine`→**Kazryn Nyantani**, `Logan`/`Levin`/`Lobin`/`Saloon`→**Leuwin**, `Oren`→**Orrin**. In the 20260618 transcript these appeared only capitalized, so it was safe — but grep for lowercase occurrences before applying the glossary to any future VTT. Added during the 20260622 pass: `Cal`/`Colin`→**Kalan**, `Oven`→**Orrin**, `Of`-style stray leaders excluded. The 20260622 transcript had no lowercase `cal`/`colin`/`oven`, so it was safe — re-check before future applies.
 
 ## Phrase fixes
 
@@ -227,6 +234,7 @@ Daral, Irony, Leuwin, Nibbles, Sprig, Orrin, Glabbagool).
 | and Abdu | **and you** |
 | Generals That Wage Them | **Generals That Waged Them** |
 | Talashian Nights | **Tashalian Nights** |
+| Fade from sugaring | **shuddering** |
 
 ## Calendar / lore
 
