@@ -207,6 +207,20 @@ ui:
     session_summary: null
   grounding:
     summaries: null
+  ensemble:
+    campaign_dir: null
+    chapters_glob: docs/chapters/chapter_*.md
+    chapters_selected: []
+    extract:
+      backend: anthropic
+      endpoint: null
+      model: null
+    synthesize:
+      backend: anthropic
+      endpoint: null
+      model: null
+    known_names: []
+    aliases_path: null
   profiles:
     profiles:
     - name: toee
