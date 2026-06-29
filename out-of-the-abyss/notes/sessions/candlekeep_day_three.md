@@ -1,5 +1,20 @@
 # Candlekeep — Day 3 (Sessions 4–6)
 
+> ## ⚠️ SUPERSEDED (post-Monday compression) — DO NOT PREP FROM THIS AS-IS
+> The table compressed old **S4 + S5** into Monday's
+> **"The Gatewarden Lives"** (`notes/session_prep/20260629_candlekeep_the_gatewarden_lives.md`),
+> and old **S6** is re-cut into **`candlekeep_hightower_session.md`**.
+> This file is on the **module-default path the party left.** Specifically wrong now:
+> **Kalan dies** at Pont de Paramours (he **lives** — gave the keys away);
+> the party's **key is real** ("whichever of you has the second key opens the
+> door" → it's a **decoy**, real key was Tadric's);
+> **Sylvira is a recruited Path-B ally** (she was **skipped** — wary first-contact,
+> absent by default). Kept for **reference only** (interview extracts, scholar
+> interleaves, atmosphere). **NB: the S5 "OOTA scholar threads close" beat
+> (Beat 7) is rehomed** to a denouement "Quiet Hour" in
+> **`candlekeep_vault_session.md`** (Beat 7.5) — not Monday.
+> Current map: **`candlekeep_arc_flowchart_v2.md`.**
+
 GM-facing tactical script for **in-fiction Day 3** — *the day
 after Deadwinter Day. The day everything accelerates.* Three
 real-world sessions cover this day:
