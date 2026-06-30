@@ -32,7 +32,7 @@ Relative to the campaign directory (detect from CWD or ask).
 
 ## Required format
 
-Match the format of `notes/sessions/candlekeep_murders_module_inventory.md` exactly. Sections in order:
+Match the format of the bundled `example-module-inventory.md` (a Candlekeep Murders inventory, in this skill directory) exactly. Sections in order:
 
 1. **NPCs** — grouped by race/role (Drow, Demon Lords, Prisoners, Duergar, etc. — use what the module's content naturally produces). Each entry: `- **Name** / **Alias** — brief identifying note (race, role, notable trait)`
 2. **Deities** — named gods that appear in the module
