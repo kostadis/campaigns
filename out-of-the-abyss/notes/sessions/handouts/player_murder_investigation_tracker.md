@@ -670,3 +670,185 @@ his bedroom. Another keeps **doves he's been sending somewhere.**
   Grygum has Revivify; Dawnbringer can draw poison; keep him close.
 - **Your hour is over** the moment the disputation ends and Fembris comes
   back. Two clocks now: the minder's return, and **midnight on Daral.**
+
+---
+
+---
+
+# PART 5 — The confession (Ch. 57)
+
+*Grygum came back from his colloquium and the four of you split up to close
+the net. Elian handed you Kalan's investigative paper. Grygum finally got
+into the third-floor apartment. Daz sat with the real Sylvira. And in
+Alkrist's chambers — with Kalan's truth-magic working unseen from the
+corridor — the whole conspiracy came apart in one man's mouth. You know who
+killed Janussi now. You also know it isn't that simple. Everything in
+Parts 1–4 still stands.*
+
+---
+
+## Elian and the methodology paper
+
+A clerk named **Elian** sought out Thorin to praise the kitchen work and hand
+over a scholarly paper — **Kalan Strongbranch's investigative methodology**,
+delivered via the Ember Grapple.
+
+- **The thesis:** *no single magical result proves anything on its own.* Any
+  one spell can be evaded, countered, or weaseled around — so truth emerges
+  only from **combining multiple independent tools and facts.** As the
+  principle goes: magic doesn't make evidence reliable, it makes evidence
+  **adversarial.** (Includes a section on the unreliability of *Speak with
+  Dead*.)
+- Elian hinted Kalan's passionate advocacy for this method is **exactly why
+  Janussi wanted him gone** — and that there is "**something rotten here**"
+  worth digging into. He thinks Kalan's firing is tangled up with the murder.
+
+> *Keep this paper close.* You have a confession coming — but by the standard
+> now in your own hands, **one spell is not proof.** Hold both thoughts at once.
+
+## The third-floor apartment — finally entered *(Grygum, alone)*
+
+The long-open door on the third-floor landing: Grygum went up alone. It's
+Janussi's **private love nest** — confirming the rumors about the Keeper's
+"habits."
+
+- Among the personal effects: **a note in Janussi's hand**, opening with a
+  real academic insult, **dismissing Kalan's investigative methodology as
+  "solipsism" and a waste of time** — and making clear Janussi had **actively
+  blocked Kalan's career** and his proposed procedures.
+- **The read:** this hands **Kalan a strong motive.** His life's work was
+  publicly humiliated and buried by the man now lying dead — *the same man who
+  pressed his key and his alibi on you in a corridor.* A new and troubling
+  light on the gate warden.
+
+## Sylvira — first contact *(Daz, alone)*
+
+Daz went to her quarters: a tiefling researcher, copper-red skin, golden eyes,
+**bedridden and feverish**, the room blazing with magical heat while she
+shivered. Her familiar **Jezebel** opened the door with a mage hand and set
+out the chairs.
+
+- She was **genuinely shocked** to learn someone has been **wearing her face**
+  around Candlekeep — suspected Daz of a Menzoberranzan trick until he
+  convinced her he was sincere.
+- **Her alibi:** she snuck out that night to visit her **son** — born in the
+  **abyss**, kept in a magical sanctuary (*Mordenkainen's Mansion*) she built
+  to protect him — and returned **between 12:30 and 1 am**, seeing no one
+  after. Her worsening illness is an **abyssal plague** caught from him. She
+  flatly denies being the kitchen figure ("*honey? I would never drink
+  honey*").
+- **She points suspicion at:** **Daral Yashenti** (a bitter drunk — though she
+  thinks him too drunk to plan this), **Kazryn Nyantani** (Janussi's former
+  lover, who never forgave Sylvira for replacing her), and **Teles Ahvoste**
+  (passed over for Keeper of Tomes ~20 years ago, hostile ever since).
+- ⭐ **The detail that matters:** Sylvira says it was **Bookwyrm — not Janussi
+  — who pushed hardest against Kalan's methodology.** (She also admits she
+  privately agreed Kalan should be fired; she rates his research third-rate.)
+
+> *Your read:* Sylvira is **framed, not guilty** — someone wore her face and
+> her alibi holds. The frame was easy because a tiefling who studies devils is
+> who people already want to blame.
+
+## The wrapping paper — premeditation confirmed *(Grygum, alone)*
+
+Grygum fished the **discarded gift-wrapping** out of the dining-hall trash and
+reassembled it with **Mending**. The restored paper showed a **precise,
+deliberate cut**, separate from the natural tearing. The gift was **carefully
+opened, tampered with, and re-wrapped** by someone who knew exactly what they
+were doing. **Not a crime of passion. Planned.**
+
+## The interrogation of Alkrist — the confession
+
+Fembris fetched **Kalan** (who'd "disappeared somewhere"). Thorin and Zalthir
+went into **Alkrist's chambers**; **Kalan stayed concealed in the corridor and
+cast a *zone of truth*.** Alkrist — a 33-year-old bronze dragonborn, all
+polished confidence ("Dragonborn TechBro") — **failed his save** and could no
+longer lie. He came apart almost at once (then flailed for cover, trying
+"entrapment," then "mind control").
+
+What he confessed:
+
+- **The motive day.** On annual-review day, Janussi enraged nearly everyone:
+  **denied Bookwyrm the succession** (naming **A'lai** instead), **shut down
+  Alkrist's germ-warfare research**, **threatened A'lai with exile**, and
+  humiliated Kalan. (You called it *Murder on the Orient Express* — "they were
+  all guilty.")
+- **The conspiracy.** Alkrist met **A'lai at the baths at 11:45 am**; together
+  they planned the killing. **Alkrist names A'lai "the real brains of the
+  operation."**
+- **The method.** From **1001 Tashalan Nights** on his own shelf — bookmarked
+  to a passage on killing with **Midnight Tears**. (His hand drifted toward it
+  under the spell; Zalthir, who'd found it earlier, flipped it open anyway.)
+- **The execution.** Stole the poison from the **Oak Tree Apothecary** (with
+  A'lai, spilling ground peppermint), **intercepted Daral's gift, coated the
+  book, re-wrapped it.** Burned the empty vial's label at the **Dead Winter
+  tree** — and **nearly got caught by Irony**, who arrived with a basin of
+  water (he washed his hands in it).
+- **Bookwyrm.** After midnight he brought **two bottles of wine to Bookwyrm's
+  chambers** to celebrate that "the problem is solved." **She was appalled,
+  they argued, and she stormed out** (~12–12:30). She did *not* raise the
+  alarm.
+- ⭐ **The heart.** Asked about Janussi's **removed heart**, Alkrist went
+  **genuinely, visibly shocked** — *"His heart was ripped out?"* **He knew
+  nothing about it.** Every eye turned, unspoken, toward **Bookwyrm** — who
+  would have known about the **lead chalice** where it was hidden.
+
+Bonus: asked whether Bookwyrm could get a powerful polymorph spell, Alkrist
+laughed — at Candlekeep, that's "simply a matter of calling up the right
+avowed to bring you a scroll."
+
+## The two-figure problem *(still unsolved)*
+
+Zalthir flagged a timeline crack: the Sylvira-lookalike was seen in the
+**kitchens ~1 am** and again on the **stairs 2–3 am** — **too far apart for a
+single one-hour polymorph.** Either **multiple castings** or a **more powerful
+working** — and you still have no name for whoever wore her face.
+
+---
+
+## Where you're picking up next
+
+**The case, as it now stands:**
+- **The poisoner:** **Alkrist** — confessed under zone of truth. Bronze
+  dragonborn, Bookwyrm's nephew. (The "lizard-skin" apothecary thief, Part 4.)
+- **The brains:** **A'lai** — named by Alkrist as the one whose idea it was.
+  The drow decoy from the apothecary trail.
+- **The cover-up / the heart:** **Bookwyrm** — told of the killing after
+  midnight, appalled, but never raised the alarm. **Prime suspect for removing
+  the heart** (she'd know the lead chalice). Alkrist's aunt.
+- **Cleared / framed:** **Sylvira** (alibied, impersonated). **Daral** (his
+  account holds; midnight test still pending).
+
+**Suspects — updated:**
+
+| Suspect | Status after the confession | Heat |
+|---|---|---|
+| **Alkrist** | **Confessed** poisoner. Aunt = Bookwyrm. Tried mind-control/entrapment dodges. | **Solved (poisoner)** |
+| **A'lai Aivenmore** | Named "the brains." Untouched, composed, never in the room. Daz wants his Underdark knowledge. | **Solved (mastermind) — and a lead** |
+| **Bookwyrm** | Knew after midnight; covered it; prime for the heart/chalice. Pushed hardest against Kalan's method (per Sylvira). | **High (cover-up)** |
+| **Sylvira Savikas** | Interviewed. Alibied (son's sanctuary, back ~1 am). Framed. Dying of abyssal plague. | **Cleared — framed** |
+| **Daral Yashenti** | Account holds; not the poisoner. **Midnight test still pending** — Lesser Restoration still owed. | **Cleared (probably) — clock running** |
+| **Kalan Strongbranch** | Helped crack the case; **but Janussi's note gives him a strong motive.** Asset and question both. | **Ally — with a motive on the board** |
+| **Teles Ahvoste / Kazryn Nyantani** | Named by Sylvira; grudges, not yet placed at the crime. | **Low–medium** |
+
+**Resolved this session:**
+- The **third-floor apartment** — entered at last (Janussi's note on Kalan). ✓
+- **What Alkrist burned at the feast** (Part 4 thread) — the **poison vial's
+  label**, at the Dead Winter tree. ✓
+- **Sylvira interviewed** — alibied, framed. ✓
+- **The poisoner and the mastermind named** — Alkrist + A'lai. ✓
+
+**Still open:**
+- **Who wore Sylvira's face** — shapeshifter still unnamed; the **1 am / 2–3 am
+  sightings don't fit one polymorph.**
+- **Janussi's heart** — found in the chalice (Part 4); **who put it there?**
+  (Points at Bookwyrm.)
+- **Janussi's locket / his Hightower key** — still missing. (Grygum still holds
+  Kalan's key; both are needed together.)
+- **Alkrist's locked safe** — still unopened.
+- **A'lai's three doves** — sent where, to whom? Still unknown.
+- **The hooded Avowed** from the Refectory (Part 1) — still unidentified.
+- **Daral's midnight test** — still running; Lesser Restoration still owed.
+- **What you do with all this:** hand it to **Kalan** to clean house · lean on
+  **A'lai** for the Underdark intel Daz needs · the reward you floated ("a book
+  per suspect").

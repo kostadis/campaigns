@@ -111,6 +111,42 @@ She has the Watchers, the gates, and the moral high ground (to everyone else). L
 
 ---
 
+## Night Geography — LOCKED (the west → north axis)
+
+> Resolves Open Decision #3. The night runs on a **west → north axis** so the
+> two-step (**Seam → Race**) can't collapse: Kalan and Tadric are in **different**
+> towers, and the Beast crosses the keep to reach its targets.
+
+| Beat | Where | Note |
+|---|---|---|
+| **Beast's lair / origin** | **Cursed Tower** (west) | Moziqodo crosses the rooftops to kill — rooftop predator on home turf |
+| **Bookwyrm dies (key #1)** | **Reader's Tower** (her top-floor quarters) | First strike, on the Beast's path |
+| **Front 1 — the party / decoy** | **Deneir's Sanctum** (central base) | The fight; the **bugged** office is *why* A'lai's contingency knows where they are |
+| **The Seam — Kalan** | **Sea Warden's Tower** (west; Watchers' barracks) | His bolt-hole — **separate** from Tadric |
+| **Front 2 — Tadric / real key** | **Echoing Hall** (Atheneum, North Inner Ward) | Domed rotunda; *footsteps echo long after they stop* — you **hear** the hunt |
+
+- **Why Tadric is NOT at the barracks.** A young Watcher's instinct is to run to
+  the Sea Warden's Tower — but that's Kalan's bolt-hole, and co-locating them
+  collapses Seam-into-Race. Kalan's redundancy doctrine extends to **placement**:
+  he posted the real keyholder **alone in the north galleries**, away from the
+  obvious target.
+- **The Echoing Hall earns the horror.** Its acoustic ("footsteps echo loudly
+  long after a scholar has stopped moving") means the party and Tadric **hear**
+  Moziqodo Shadow-Leaping the upper gallery rings before they see it. Dim,
+  elevated, exposed — every Beast advantage (Shrouded, climb 40, Shadow Leap) is
+  live against a lone Watcher on the rotunda floor.
+- **The shortcut = a north-gallery door.** Kalan's reward-for-speed is a
+  **Watcher's stair / key to a barred north-gallery door** that cuts the long way
+  (down through the central wards and back up) into a straight **Sanctum →
+  Echoing Hall** line — turning "arrive R3+, over the body" into "arrive R1–R2,
+  fight on."
+- **"Do not look for me at my post."** Kalan's *post* = his official Gatewarden
+  station (the **Gatehouse / the gates**); his **hide** = the Sea Warden's Tower,
+  lost among his own Watchers. The breadcrumb stays honest and the bolt-hole
+  intact.
+
+---
+
 ## Scene 4 — Night: The Killing Starts (two fronts open)
 
 ### Setup
@@ -140,7 +176,7 @@ The monster fight eats their attention; Tadric's clock runs in the dark. Let the
 > **GM-only — the shape.** **Front 1 = the fight** (Manshoon's monsters come for the party / the decoy). **Front 2 = the race** (the Beast goes for Tadric / the real key). Bookwyrm is already dead — **not** a thing they can fix. Give them a *concrete* win to hold: the real key kept (Tadric saved) and the assault broken — and let the warm, quiet truth land that **Kalan is alive and his policy with him.**
 
 ### Front 1 — The monsters come for the party (THE FIGHT)
-- Conjured guardians manifest to **take the (decoy) key** and kill resistance. A'lai is nowhere. Objective-based: they want the *key*, not a body count.
+- Conjured guardians manifest in **Deneir's Sanctum** (the party's bugged base) to **take the (decoy) key** and kill resistance. A'lai is nowhere. Objective-based: they want the *key*, not a body count.
 - **Terrain pays off:** shelving, spectral mage-hands, *Whispering Dome* acoustics, darkness for Zalthir, chokepoints; Glabbagool eating through a wall to flank.
 - **The savored irony:** they fight like hell over a worthless key — until the detect-magic memory lands and the floor drops out (*this was never the real one*), flipping the fight into a desperate *"then where's the real one?!"*
 - **Monsters — SETTLED, fully statted in Appendix A1:** **3× Helmed Horror** (corporeal constructs). A'lai would never loose undead/shadow at a cleric with **Turn Undead + a sunblade** — constructs are immune to Turn, have no radiant tell, and make Glabbagool's grapple+acid the answer-key to their AC 20. Initiative-ready math, the acid-shred combo, and the Key-Reaver pivot all live in **Appendix A1.** *(Party is **L8** for this fight — the milestone to 9 is the night's reward; see the cliffhanger.)*
@@ -187,7 +223,7 @@ They win the decoy fight; Tadric dies offstage; they learn after that their key 
 
 1. ✅ **RESOLVED — Front 1 monsters + combat math.** Settled as **3× corporeal Helmed Horror** (party **L8**), statted initiative-ready in **Appendix A1**; **Moziqodo (CR 5)** statted in **A3**. *(Decisions 2–5 below are still open — also tracked in **A4**.)*
 2. **Tadric's fate default** — recommended *near-impossible save* (likely dies, Beast takes the real key → Manshoon escalation); confirm, or bias toward the heroic save.
-3. **Where the night's beats happen** — Bookwyrm's death (Reader's Tower), the party's fight (their lodging / a gallery), Tadric's flight (rooftops / Sea Warden's Tower). Sets the race terrain.
+3. ✅ **RESOLVED — night-beat locations (the west → north axis).** Bookwyrm dies at the **Reader's Tower**; Front 1 (party / decoy) fires in **Deneir's Sanctum**; the **Seam = Kalan at the Sea Warden's Tower**; Front 2 (Tadric / real key) runs in the **Echoing Hall** (North Inner Ward). Full table + rationale in **Night Geography — LOCKED**, above Scene 4.
 4. **How explicit is the Manshoon reveal tonight?** The "He is using the Beast to —" note + the wards dropping + (maybe) a teleport pulse below = the first clear sight of the real enemy. Confirm how much you want lit Monday vs held.
 5. **Does key #1 (off Bookwyrm's body) definitely go to A'lai/Manshoon tonight,** or can the party intercept it in the chaos? (Default: it's gone — Manshoon now has one key for certain.)
 
@@ -318,14 +354,18 @@ and the **only** clean way through it is **Kalan himself.**
 **Gate 4 — THE SEAM: find & confront Kalan.**
 Kalan is **alive** (he gave the keys away — he was never the target). His
 Beat-2 breadcrumb: *"If I do not see you tomorrow, **do not look for me at my
-post.**"* → he's gone to ground on purpose. **Bolt-hole = the Sea Warden's
-Tower** (per arc flowchart S4Kalan). A PC who thinks *"where would Kalan hide,
-not where he works"* finds him.
+post.**"* → his *post* is the official Gatewarden station (the **Gatehouse /
+the gates**); he's gone to ground elsewhere on purpose. **Bolt-hole = the Sea
+Warden's Tower** (the Watchers' barracks — lost among his own men; per arc
+flowchart S4Kalan). A PC who thinks *"where would Kalan hide, not where he
+works"* finds him.
 - **What Kalan gives them (the unlock):** *"Tadric. A Watcher — loyal, alone,
-  and he does not know what he carries or what's coming for it. Top of the
-  Pillars walk / the north galleries. **Run.**"* He can also hand a
-  **shortcut** (a Watcher's stair, a key to a barred gallery door) **as a
-  reward for reaching him fast** — that shortcut is what turns "too late" into
+  and he does not know what he carries or what's coming for it. The **Echoing
+  Hall**, in the north galleries — I posted him away from the barracks on
+  purpose. **Run.**"* He can also hand a **shortcut** — a **Watcher's stair /
+  key to a barred north-gallery door** — **as a reward for reaching him fast**;
+  it cuts the **Sanctum → Echoing Hall** run from the long way (down through the
+  central wards and back up) to a straight line, turning "too late" into
   "arrive during the attack" (A3).
 - **If they confront him mid-fight / send a runner:** even better — Kalan
   *moving them* is the whole point. He won't fight (sidelined, watched) but he
@@ -380,6 +420,11 @@ floor holds even on the worst night.
   without provoking opportunity attacks — it's never where the party can pin it.
 
 ### Tadric — the man on the fuse  *[MM Veteran, CR 3]*
+- **Where:** alone in the **Echoing Hall** (domed rotunda, North Inner Ward),
+  guarding the real key where Kalan posted him — away from the barracks. The
+  rotunda *echoes footsteps long after they stop*, so the hunt is **heard**
+  before it's seen: Moziqodo Shadow-Leaps the upper gallery rings while Tadric
+  runs the floor.
 - **AC 17** (splint) · **HP 58** · Multiattack 2× longsword +5 (8 each).
 - **He is fleeing, not dueling** — doesn't know a demon is coming. Play him
   running, not trading blows. Moziqodo **Shadow-Leaps + Pounces** → Tadric
@@ -413,10 +458,12 @@ here, and the back-half sessions assume the party is **L9.**
 **corporeal — 3× Helmed Horror** (A'lai-justified: never undead at a cleric;
 constructs make Glabba's grapple+acid combo the answer-key) · Moziqodo = **clock
 not boss**, statted above · the **seam = Kalan** (Sea Warden's Tower bolt-hole,
-shortcut-as-reward).
+shortcut-as-reward) · **night-beat geography = the west → north axis** (Reader's
+Tower / Deneir's Sanctum / Sea Warden's Tower / **Echoing Hall**) — see *Night
+Geography — LOCKED*.
 **Still yours to call (orig. list):** Tadric default (near-impossible save vs.
-bias-to-heroic) · exact night-beat locations/terrain · how explicit the
-Manshoon reveal is Monday · whether key #1 is recoverable off Bookwyrm's body.
+bias-to-heroic) · how explicit the Manshoon reveal is Monday · whether key #1 is
+recoverable off Bookwyrm's body.
 
 **Hands off to the back half.** Monday's race outcome **is** the back-half
 **master fork**: **Tadric lived = WON** (party keeps the real key #2 → the
