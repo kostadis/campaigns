@@ -1,17 +1,23 @@
+# mneme-rendered; source-sha256: c7fd4f33903d65ae3c2b841242b6475df7de0b06b878ae9ea7fc9154cd995016; do-not-edit
 wing: notes
 rooms:
 - name: prep
-  description: Session prep, scene planning, beats, and run-at-table docs
-  keywords: [prep, session, beat, plan, branch, scene, runsheet, checklist, flowchart]
+  description: prep content
+  keywords:
+  - prep
 - name: handouts
-  description: In-world player handouts — letters, ledgers, maps, scrolls, props
-  keywords: [handout, letter, ledger, scroll, dispatch, prop, player, tract, pamphlet]
+  description: handouts content
+  keywords:
+  - handouts
 - name: design
-  description: Arc design, NPC notes, campaign planning, faction analysis, canon
-  keywords: [arc, npc, biography, design, motivation, faction, canon, thread, cosmology, artifact]
+  description: design content
+  keywords:
+  - design
 - name: references
-  description: Location references, strategy docs, area notes, statblocks, networks
-  keywords: [reference, area, strategy, location, network, statblock, stat, encounter, threat, endgame]
+  description: references content
+  keywords:
+  - references
 - name: general
-  description: Fallback
-  keywords: []
+  description: general content
+  keywords:
+  - general

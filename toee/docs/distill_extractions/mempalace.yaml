@@ -1,31 +1,19 @@
+# mneme-rendered; source-sha256: c7fd4f33903d65ae3c2b841242b6475df7de0b06b878ae9ea7fc9154cd995016; do-not-edit
 wing: chronicle
 rooms:
 - name: npcs
-  description: NPC state snapshots across the campaign timeline
+  description: npcs content
   keywords:
-  - npc
-  - character
-  - dossier
-  - location
-  - state
-  - faction
+  - npcs
 - name: world
-  description: World events, locations, faction movements
+  description: world content
   keywords:
   - world
-  - event
-  - location
-  - faction
-  - history
-  - alliance
 - name: arcs
-  description: Threads, mysteries, unresolved plot points
+  description: arcs content
   keywords:
-  - thread
-  - mystery
-  - unresolved
-  - quest
-  - score
+  - arcs
 - name: general
-  description: Content that doesn't fit other rooms
-  keywords: []
+  description: general content
+  keywords:
+  - general

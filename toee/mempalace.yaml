@@ -1,52 +1,24 @@
+# mneme-rendered; source-sha256: c7fd4f33903d65ae3c2b841242b6475df7de0b06b878ae9ea7fc9154cd995016; do-not-edit
+palace: toee
 wing: toee
 rooms:
 - name: npcs
-  description: NPC dossiers, character profiles, relationships, motivations
+  description: npcs content
   keywords:
   - npcs
-  - npc
-  - dossier
-  - hedrack
-  - falrinth
-  - lucius
-  - barkinar
-  - senshock
-  - kelno
-  - belsornig
-  - zuggtmoy
 - name: party
-  description: Player characters — sheets, backstories, the Obsidian Edge
+  description: party content
   keywords:
-  - characters
   - party
-  - player
-  - backstory
-  - calmer
-  - sequioa
-  - zephyr
-  - zinnia
-  - obsidian edge
 - name: world
-  description: World state, lore, background, regional geography, politics, factions
+  description: world content
   keywords:
-  - world_state
   - world
-  - lore
-  - region
-  - faction
-  - temple
-  - hommlet
-  - nulb
-  - verbobonc
 - name: arcs
-  description: Planning, quest tracking, threat trackers, campaign threads
+  description: arcs content
   keywords:
-  - planning
-  - tracking
-  - arc
-  - quest
-  - thread
-  - threat
+  - arcs
 - name: general
-  description: Top-level docs that don't fit a specific room
-  keywords: []
+  description: general content
+  keywords:
+  - general
