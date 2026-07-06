@@ -1,0 +1,123 @@
+campaign: toee
+recipe_version: 2.0.0
+store:
+  alias: toee
+  path: /home/kroussos/.mempalace/palaces/toee
+wings:
+- name: chronicle
+  source: docs/distill_extractions
+  trust: accelerator
+  rooms:
+  - name: npcs
+    description: npcs content
+    keywords:
+    - npcs
+  - name: world
+    description: world content
+    keywords:
+    - world
+  - name: arcs
+    description: arcs content
+    keywords:
+    - arcs
+  - name: general
+    description: general content
+    keywords:
+    - general
+- name: prep
+  source: notes/sessions
+  trust: reference
+  rooms:
+  - name: prep
+    description: prep content
+    keywords:
+    - prep
+  - name: general
+    description: general content
+    keywords:
+    - general
+- name: notes
+  source: notes
+  trust: reference
+  rooms:
+  - name: prep
+    description: prep content
+    keywords:
+    - prep
+  - name: handouts
+    description: handouts content
+    keywords:
+    - handouts
+  - name: design
+    description: design content
+    keywords:
+    - design
+  - name: references
+    description: references content
+    keywords:
+    - references
+  - name: general
+    description: general content
+    keywords:
+    - general
+- name: summaries
+  source: summaries
+  trust: reference
+  rooms:
+  - name: narration
+    description: narration content
+    keywords:
+    - narration
+  - name: extractions
+    description: extractions content
+    keywords:
+    - extractions
+  - name: summary
+    description: summary content
+    keywords:
+    - summary
+  - name: general
+    description: general content
+    keywords:
+    - general
+- name: toee
+  source: .
+  trust: authoritative
+  rooms:
+  - name: npcs
+    description: npcs content
+    keywords:
+    - npcs
+  - name: party
+    description: party content
+    keywords:
+    - party
+  - name: world
+    description: world content
+    keywords:
+    - world
+  - name: arcs
+    description: arcs content
+    keywords:
+    - arcs
+  - name: general
+    description: general content
+    keywords:
+    - general
+extra_exclusions:
+  - temple/
+  - archive/
+  - planning_extractions/
+  - docs/state_extractions/
+  - docs/party_extractions/
+  - docs/planning_extractions/
+  - docs/background/
+  - docs/toee-summary.md
+  - docs/mechanics.md
+  - "*.pdf"
+  - "*.tar.gz"
+dispositions:
+  - divergence: scaffold.nomatch
+    kind: deliberate
+    rationale: "toee has no docs/chapters, so no narrative wing; the 5-wing wire-what-exists subset (chronicle/prep/notes/summaries/root, root promoted to authoritative canon) is intentional."
+    recorded: "2026-07-01"

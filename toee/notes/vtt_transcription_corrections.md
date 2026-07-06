@@ -17,7 +17,7 @@ without inflating this glossary with non-misspellings.
 
 | Wrong | Right |
 |---|---|
-| Colmer, Commer, Carmen, Comer, Palmer, Colmar, Conor, Connor, Gomer, Carmel, Colman, Kalma, Karlma, Commerce, call merges, Kalmer, Kalmu, Colbert, Culver, Zeb Calder, columnar | **Calmer** |
+| Colmer, Commer, Carmen, Comer, Palmer, Colmar, Conor, Connor, Gomer, Carmel, Colman, Kalma, Karlma, Commerce, call merges, Kalmer, Kalmu, Colbert, Culver, Zeb Calder, columnar, Karma, Culber, Homer, Calder, Color | **Calmer** |
 | Zep, Ephra | **Zephyr** |
 | Zinnius, Xenia, Sinia, Vinaya, Susania | **Zinnia** |
 | Sequioa | **Sequoia** |
@@ -35,7 +35,7 @@ without inflating this glossary with non-misspellings.
 | Kelano, Keldo, Kelnose, Kelnose Air Temple, Kelneau, Kelnow, Kelnut, Kelnau, Kel No, Kilno, Kello, Kelna, Kalno, Kiano, Tangno, Telnell, Batal Noah | **Kelno** |
 | Roman, Romegu, Robag, Romeg, Romag Elrond, Romarg | **Romag** |
 | Dren Helveth, Helveth, Dren Palvith, Dren Halvet, Captain Tren Helvet | **Dren Halveth** |
-| Belsoring, Belsorning, Bill Sorenig, Bill Sordnink, All Sorenig, Vesorneg, Bellswording, Belzordnig, Belzordnigs, Belsor, Bell Zordding, Belzordding, Belzornig, Belzorning, Bill Sorbig, Bill Sortening, Bill Zornig, Belshordname, Belzorg, Bill Schwarning, Lordnig, Ordnigs, Bell, Elsnor Nick, Bolzorg | **Belsornig** |
+| Belsoring, Belsorning, Bill Sorenig, Bill Sordnink, All Sorenig, Vesorneg, Bellswording, Belzordnig, Belzordnigs, Belsor, Bell Zordding, Belzordding, Belzornig, Belzorning, Bill Sorbig, Bill Sortening, Bill Zornig, Belshordname, Belzorg, Bill Schwarning, Lordnig, Ordnigs, Bell, Elsnor Nick, Bolzorg, Velshornig, Bill Thorning, Cannonville Soaring, cannonball Soaring | **Belsornig** |
 | Alrim, Ulrim, Aldrum, Aurum, Alrem, Alroam | **Alrrem** |
 | She's dead with Alrrem | **He's dead with Alrrem** (Alrrem is male) |
 | Barkiner, Birkin, Barking, Bacchanar | **Barkinar** |
@@ -45,6 +45,7 @@ without inflating this glossary with non-misspellings.
 | Dretan, Jen, Jenna, Diren | **Dren** |
 | Falwinth | **Falrinth** |
 | Verkal, Verkhall, Virkhal | **Vorkal** |
+| Juggerdot | **Juggernaut** |
 
 | Wrong | Right |
 |---|---|
@@ -55,6 +56,8 @@ without inflating this glossary with non-misspellings.
 | Earth-themporal | **Earth Elemental** |
 | Earth Temp | **Earth Temple** |
 | Emery Meadows | **Emridy Meadows** |
+| Nub, Nolt | **Nulb** |
+| Waterdon | **Water Temple** |
 
 | Wrong | Right |
 |---|---|
@@ -75,11 +78,12 @@ without inflating this glossary with non-misspellings.
 
 | Wrong | Right |
 |---|---|
-| Frostbradened | **Frostbrand** |
+| Frostbradened, Fredinh | **Frostbrand** |
 | Alamanders | **Salamanders** |
 | Elementary Evil | **Elemental Evil** |
 | Tech Magic | **Detect Magic** |
-| Silvery Barber | **Silvery Barbs** |
+| Silvery Barber, Dilvery Barbs, Stillbury Barbecue | **Silvery Barbs** |
 | boss relief, boss release | **bas-relief** |
 | the idle | **the idol** |
 | flight of hand | **sleight of hand** |
+| Missy Steph | **Misty Step** |

@@ -1,21 +1,21 @@
-# Session 2026-06-25
+# Session 2026-06-22
 
 Date: Jun 22nd, 2026
 
 ## Summary
 The air in the Water Temple crackled with danger as a pack of gargoyles descended upon the party, their stone wings beating silently as they hissed and slashed with razor-sharp claws. The creatures focused their fury on Zinnia and Calmer, darting in to strike before retreating into the air where blades could not easily follow. Calmer, ever mindful of his own importance, called out to his companions for protection even as the gargoyles raked at him again and again, insisting that his survival was critical to the group's success.
 
-Zinnia, refusing to be grounded while enemies flew overhead, sprinted across the chamber and launched himself into the air in a breathtaking leap, slamming into one of the gargoyles mid-flight. Rather than fall back to the stone floor, she clung to the creature's back, riding it like a furious storm while it hissed and writhed beneath him. When the moment was right, he drove his weapon home with a killing blow, then used the creature's crumbling body as a springboard to land gracefully on the ground below, drawing an astonished hiss from the surviving gargoyles. Meanwhile, Zephyr took aim with his pistol from a distance, and Sequioa called upon magic to enhance his own leap, bounding upward to trade blows with the flying stone beasts.
+Zinnia, refusing to be grounded while enemies flew overhead, sprinted across the chamber and launched himself into the air in a breathtaking leap, slamming into one of the gargoyles mid-flight. Rather than fall back to the stone floor, he clung to the creature's back, riding it like a furious storm while it hissed and writhed beneath him. When the moment was right, he drove his weapon home with a killing blow, then used the creature's crumbling body as a springboard to land gracefully on the ground below, drawing an astonished hiss from the surviving gargoyles. Meanwhile, Zephyr took aim with his pistol from a distance, and Sequoia called upon magic to enhance his own leap, bounding upward to trade blows with the flying stone beasts.
 
 The battle grew far more dangerous when a massive stone idol lurched to life in the center of the chamber, extending grotesque pseudopods that lashed out at Calmer with terrifying force. The creature, which the party came to call the Juggernaut, rolled and crashed through the room, reducing the temple's sacred altar to a pile of rubble as it bore down on the group. Calmer, battered but resolute, called upon his divine power to slow the creature's advance and mend his own wounds, buying precious moments for the rest of the party to regroup.
 
-Sequioa proved himself a cunning fighter, clambering onto the back of a gargoyle and delivering a devastating strike before leaping clear, while Zephyr darted in and out of the Juggernaut's reach, trading blows and narrowly avoiding being crushed beneath its rolling bulk. The Juggernaut, immune to poison and impossible to topple, eventually turned its full wrath on Zephyr, hammering the rogue with a relentless series of blows that left him crumpled and unconscious on the temple floor. Sequioa acted swiftly, using a magical reaction to blunt the worst of the assault, but it was not enough to keep Zephyr on his feet, and he dragged him behind a heavy door to safety.
+Sequoia proved himself a cunning fighter, clambering onto the back of a gargoyle and delivering a devastating strike before leaping clear, while Zephyr darted in and out of the Juggernaut's reach, trading blows and narrowly avoiding being crushed beneath its rolling bulk. The Juggernaut, immune to poison and impossible to topple, eventually turned its full wrath on Zephyr, hammering the rogue with a relentless series of blows that left him crumpled and unconscious on the temple floor. Sequoia acted swiftly, using a magical reaction to blunt the worst of the assault, but it was not enough to keep Zephyr on his feet, and he dragged him behind a heavy door to safety.
 
-With Zephyr revived by Calmer's healing touch, the party rallied for a final push against the Juggernaut. Sequioa used Zephyr as a deliberate distraction, positioning him nearby so he could strike the creature from an advantageous angle, landing a punishing blow that left the idol teetering on the edge of destruction. Calmer strode forward and delivered the killing strike, and the massive stone construct ground to a halt, its pseudopods going limp as silence finally fell over the shattered chamber.
+With Zephyr revived by Calmer's healing touch, the party rallied for a final push against the Juggernaut. Sequoia used Zephyr as a deliberate distraction, positioning him nearby so he could strike the creature from an advantageous angle, landing a punishing blow that left the idol teetering on the edge of destruction. Calmer strode forward and delivered the killing strike, and the massive stone construct ground to a halt, its pseudopods going limp as silence finally fell over the shattered chamber.
 
 With the battle won, the party turned to the grim work of looting the fallen. The Juggernaut's body was encrusted with agates, and Canon Belsornig's chambers yielded a breathtaking haul of ceremonial treasures: ivory trays, crystal decanters, silk robes threaded with gold, books of lore, and a trident. More importantly, they recovered powerful magical artifacts from Belsornig's corpse, including a finely enchanted suit of half-plate armor, a mace of smiting, and a ring of free action, along with several rare spell scrolls.
 
-Their inventory of riches was interrupted by a knock at the north door. When Zinnia opened it, she found a soft, perpetually damp man in cowled green robes, water beading at his hairline and cuffs as though he had never once been fully dry. He introduced himself as Brother Eelrich, a surviving cleric of the Water Temple and launched immediately into a torrent of flattery, praising Calmer as the glorious new leader of the upper temple and offering his loyalty in exchange for his life. He dangled two valuable secrets: the location of a hidden treasury Belsornig had been hoarding for his own escape, and knowledge of an unsigned contract with a band of trolls that had not yet been finalized.
+Their inventory of riches was interrupted by a knock at the north door. When Zinnia opened it, he found a soft, perpetually damp man in cowled green robes, water beading at his hairline and cuffs as though he had never once been fully dry. He introduced himself as Brother Eelrich, a surviving cleric of the Water Temple and launched immediately into a torrent of flattery, praising Calmer as the glorious new leader of the upper temple and offering his loyalty in exchange for his life. He dangled two valuable secrets: the location of a hidden treasury Belsornig had been hoarding for his own escape, and knowledge of an unsigned contract with a band of trolls that had not yet been finalized.
 
 The party was skeptical but pragmatic. Zinnia led the negotiations with cool composure, insisting the cleric prove his worth before being granted any formal position, while Zephyr watched with barely concealed distrust. The cleric, eager to demonstrate his value, led them to the Fourth Basin and navigated its hidden traps to reveal a concealed sump containing a chest brimming with gold, gems, and jewelry that Belsornig had been quietly squirreling away for years. The party divided the windfall, setting aside a share for their ally Dren, and Calmer magnanimously offered to contribute the largest portion of that tribute, a gesture that earned him a sharp look from the rest of the group.
 
@@ -28,9 +28,9 @@ Brother Eelrich then led them to the chamber of the high priest, a breathtaking 
 *Pleading for protection mid-combat while being swarmed by gargoyles and a Juggernaut*
 
 > "I can't tell if you're an idiot or not, but I'm kind of on top of something right now."
-> — Zinnia
+> — Sequoia
 
-*Responding to Calmer's plea for protection while literally clinging to the back of a flying gargoyle*
+*Responding to Calmer's plea for protection while perched on a gargoyle's back via his Jump spell*
 
 **Zinnia leaps into the air like a kung fu warrior, grabs onto the back of a flying gargoyle, and rides it before delivering a killing blow and using its falling body as a springboard to land safely.**
 
@@ -45,10 +45,10 @@ Brother Eelrich then led them to the chamber of the high priest, a breathtaking 
 
 *The damp, nervous cleric Brother Eelrich Vane stumbling over his own greeting as he tries to ingratiate himself when the party opened the door to find him standing there*
 
-> "The triton is pleading to be released so that I can prevent your deaths when the kraken shown on the wall materializes and attacks. It will appear at any moment."
-> — Brother Eelrich Vane
+> "The triton is pleading to be released so that it can prevent your deaths when the kraken shown on the wall materializes and attacks. It will appear at any moment."
+> — Telepathic message (the chained Triton)
 
-*Reading a telepathic message from the chained Triton at the bottom of the pool, ending the session on a cliffhanger*
+*A telepathic plea reaches the party directly from the chained Triton at the bottom of the pool, ending the session on a cliffhanger*
 
 **Brother Eelrich Vane, the defecting Water Temple cleric, reveals Belsornig's secret getaway cache hidden in a sump within the Fourth Basin, producing a chest of three thousand gold pieces to prove his loyalty.**
 
@@ -62,9 +62,9 @@ Brother Eelrich then led them to the chamber of the high priest, a breathtaking 
 - A third gargoyle attempts to attack Calmer but fails to land a hit and retreats.
 - Zinnia uses a burst of speed and a high jump to leap into the air, striking a gargoyle and clinging to its back.
 - Zephyr moves into position and fires a pistol at one of the flying creatures.
-- Sequioa casts a spell to enhance his jumping ability and leaps toward a gargoyle but misses the attack.
+- Sequoia casts a spell to enhance his jumping ability and leaps toward a gargoyle but misses the attack.
 - Calmer unleashes a powerful magical blast that damages multiple gargoyles.
-- Zinnia delivers a finishing blow to the gargoyle they are clinging to and uses the falling creature's body to cushion his landing.
+- Zinnia delivers a finishing blow to the gargoyle he is clinging to and uses the falling creature's body to cushion his landing.
 - A large, mysterious idol-like creature begins to move, extending pseudopods toward the party.
 
 ### The Juggernaut's Rampage
@@ -72,23 +72,23 @@ Brother Eelrich then led them to the chamber of the high priest, a breathtaking 
 - Calmer struggles to maintain concentration on a protective spell while being battered by the gargoyles.
 - A massive rolling idol, identified as a Juggernaut, enters the fray and launches pseudopods at Calmer, dealing heavy damage.
 - Zephyr attempts to strike the Juggernaut with a ranged attack before disengaging to regroup near Calmer.
-- Sequioa leaps onto the back of a gargoyle, delivering a precise and devastating strike that nearly brings the creature down.
+- Sequoia leaps onto the back of a gargoyle, delivering a precise and devastating strike that nearly brings the creature down.
 - Calmer unleashes a burst of radiant energy, damaging the nearby gargoyles and the Juggernaut before healing his own wounds.
 - Zinnia jumps from the altar to strike a gargoyle, landing a powerful blow while the creature is distracted.
 - The Juggernaut attempts to roll over Zephyr, but the rogue narrowly dodges the crushing weight of the stone idol.
-- Zephyr and Sequioa coordinate their attacks against the Juggernaut, though the creature proves immune to his attempts to trip or poison it.
+- Zephyr and Sequoia coordinate their attacks against the Juggernaut, though the creature proves immune to his attempts to trip or poison it.
 - The Juggernaut smashes through the temple altar, reducing the sacred structure to a pile of rubble.
 - The Juggernaut focuses its fury on Zephyr, unleashing a series of brutal strikes that knock the rogue unconscious.
-- Sequioa uses a magical reaction to force the Juggernaut to falter, lessening the blow but not enough to keep Zephyr conscious.
-- Sequioa drags the unconscious Zephyr to safety behind a door as the party prepares to make a final stand.
+- Sequoia uses a magical reaction to force the Juggernaut to falter, lessening the blow but not enough to keep Zephyr conscious.
+- Sequoia drags the unconscious Zephyr to safety behind a door as the party prepares to make a final stand.
 
 ### The Fall of the Juggernaut
 #### The party rallies to defeat the massive rolling Juggernaut and its gargoyle allies in a desperate chamber battle.
 - Calmer provides magical healing to revive the unconscious Zephyr, restoring him to fighting condition.
 - Calmer uses a slowing spell to hinder the Juggernaut's movement and damages it with divine energy.
-- Zinnia and Sequioa attempt to hold a door shut against a pursuing gargoyle, but the creature forces its way through.
-- Zinnia delivers a series of strikes to a gargoyle, while Sequioa uses the distraction to land a lethal blow, killing the creature.
-- The party focuses their efforts on the Juggernaut; Zephyr acts as a distraction while Sequioa delivers a heavy strike.
+- Zinnia and Sequoia attempt to hold a door shut against a pursuing gargoyle, but the creature forces its way through.
+- Zinnia delivers a series of strikes to a gargoyle, while Sequoia uses the distraction to land a lethal blow, killing the creature.
+- The party focuses their efforts on the Juggernaut; Zephyr acts as a distraction while Sequoia delivers a heavy strike.
 - Calmer enters the fray and delivers the final blow, causing the massive stone construct to stop moving forever.
 
 ### Looting the Water Temple
@@ -202,10 +202,10 @@ A powerful divine spell scroll claimed by Calmer from the temple's treasury.
 A teleportation spell considered by Zinnia as a potential way to reach the flying gargoyles, though ultimately a running jump was used instead.
 
 ### Jump
-A spell cast by Sequioa to dramatically increase their jumping height, allowing them to leap up and engage the flying gargoyles in melee combat.
+A spell cast by Sequoia to dramatically increase their jumping height, allowing them to leap up and engage the flying gargoyles in melee combat.
 
 ### Silvery Barbs
-A reaction spell used by Sequioa to force the Juggernaut to reroll an attack against Zephyr and use the lower result, lessening the blow though not enough to keep Zephyr conscious. It was also discussed as a potential reaction to other attacks throughout the session.
+A reaction spell used by Sequoia to force the Juggernaut to reroll an attack against Zephyr and use the lower result, lessening the blow though not enough to keep Zephyr conscious. It was also discussed as a potential reaction to other attacks throughout the session.
 
 ### Cure Wounds
 Calmer used a high-level casting of this healing magic to instantly restore his own wounds after being nearly crushed by the Juggernaut, and later used it to revive the unconscious Zephyr.
