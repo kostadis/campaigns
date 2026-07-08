@@ -63,7 +63,8 @@ Marin / Brevin / etc.) see `candlekeep_murders_arc.md`.
 - **Magnus Goldfist** — Lords' Alliance patron in Waterdeep; sends the party to fetch *The Lurkwood Campaign*
 - **General Levicus** — in-fiction author of *The Lurkwood Campaign*
 - **Esquiel Calvus Sandrif Fairhand the One-legged** — author of *Esquiel's Guide to Magic Weapons* (former Corporal of the Neverwinter Watch)
-- **Archibald Roots Junior** / **Archibald Roots Senior** — gnome botanists; authors of *Fey-mous Flowers and Fungi*
+- **Archibald Roots Junior** — gnome botanist; co-author of *Fey-mous Flowers and Fungi*
+- **Archibald Roots Senior** — gnome botanist; co-author of *Fey-mous Flowers and Fungi*
 
 ### Antagonist (final)
 
@@ -135,7 +136,8 @@ Marin / Brevin / etc.) see `candlekeep_murders_arc.md`.
 - **The Refectory**
 - **The Southern Dining Hall**
 - **The Reading Salon** / "Silent Salon" / **Readers' Salon**
-- **The Southern Gallery** / **The Western Gallery**
+- **The Southern Gallery**
+- **The Western Gallery**
 - **Skyscraping Lobby** (top of the High Tower)
 - **Lecture Theatre**
 
@@ -179,7 +181,8 @@ Marin / Brevin / etc.) see `candlekeep_murders_arc.md`.
 - **The Emerald Door** (entrance)
 - **Gatehouse**
 - **Smithy & Stables**
-- **The House of Rest** + **The Hearth** (inn for seekers)
+- **The House of Rest** (inn for seekers)
+- **The Hearth** (inn for seekers)
 - **Bath House**
 - **Erudite Outfitters**
 - **The Kitchens**
@@ -214,7 +217,8 @@ Marin / Brevin / etc.) see `candlekeep_murders_arc.md`.
 
 - **Material Plane**
 - **The Feywild**
-- **Nine Hells** / **Avernus**
+- **Nine Hells**
+- **Avernus** (first layer of the Nine Hells)
 - **The Abyss**
 - **Mechanus**
 - **The Great Wheel**
@@ -238,7 +242,8 @@ Marin / Brevin / etc.) see `candlekeep_murders_arc.md`.
 - **Tomes of Clear Thought / Leadership & Influence / the Stilled Tongue / Understanding**
 - **Midnight Tears** (the poison)
 - **Pestilent Cloud** (Alkrist's homebrewed 6th-level conjuration spell — his arcane-pestilence research)
-- **Pilar's instant summons** / **Drawmij's instant summons** (sapphire-component spells; the key was bound via Pilar's instant summons)
+- **Pilar's instant summons** (sapphire-component spell; the key was bound via this casting)
+- **Drawmij's instant summons** (sapphire-component spell)
 - **Mordenkainen's Magnificent Mansion** (where Sylvira had been trapping Moziqodo)
 
 ---
@@ -249,7 +254,10 @@ Marin / Brevin / etc.) see `candlekeep_murders_arc.md`.
 - **The Watchers** (security under the Gatewarden)
 - **Great Readers** (Council of 12)
 - **Keepers of Secrets** (Keeper of Tomes + Gatewarden; the two High Tower keyholders)
-- **Loremasters** / **Master Sages** / **Scribes** / **Acolytes** (Avowed ranks)
+- **Loremasters** (Avowed rank)
+- **Master Sages** (Avowed rank)
+- **Scribes** (Avowed rank)
+- **Acolytes** (Avowed rank)
 - **Seekers** (visiting scholars)
 - **Lords' Alliance**
 - **Order of the Immortal Lotus** (referenced in passing)
@@ -261,7 +269,12 @@ Marin / Brevin / etc.) see `candlekeep_murders_arc.md`.
 ## Events / concepts / dates
 
 - **Deadwinter** (the holiday)
-- **Deadwinter's Eve** / **Deadwinter Day** / **Deadwinter Supper** / **Deadwinter Gifts** / **Deadwinter Holidays** / **Deadwinter Tree**
+- **Deadwinter's Eve**
+- **Deadwinter Day**
+- **Deadwinter Supper**
+- **Deadwinter Gifts**
+- **Deadwinter Holidays**
+- **Deadwinter Tree**
 - **2nd Claw of Winter** (the in-fiction date)
 - **The Deadwinter Prophecy** (Alaundo's 99th)
 - **The Endless Chant** (continuous recitation of Alaundo's prophecies)

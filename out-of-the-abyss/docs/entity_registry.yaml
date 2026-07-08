@@ -1,0 +1,2804 @@
+version: 1
+campaign: out-of-the-abyss
+entities:
+- name: Demogorgon
+  type: npc
+  aliases:
+  - Prince of Demons
+  note: Prince of Demons who rampaged through Menzoberranzan's Claw Rift
+- name: Fraz-Urb'luu
+  type: npc
+  note: demon lord imprisoned in the black gem, sowed chaos in Mantol-Derith
+- name: Juiblex
+  type: npc
+  aliases:
+  - the Faceless Lord
+  note: ooze demon lord and Zuggtmoy's rival who crashes the wedding
+- name: Yeenoghu
+  type: npc
+  note: demon lord whose presence drives gnolls into a frenzy
+- name: Zuggtmoy
+  type: npc
+  aliases:
+  - Demon Queen of Fungi
+  - Lady of Decay
+  - the Great Seeder
+  note: demon queen plotting to wed Araumycos to dominate the Underdark
+- name: Asha Vandree
+  type: npc
+  aliases:
+  - Asha
+  - Asha Vandry
+  note: junior drow priestess at Velkynvelve, Shoor's distant cousin
+- name: Balok
+  type: npc
+  note: rank-and-file drow warrior of the Velkynvelve garrison
+- name: Bemeril
+  type: npc
+  note: rank-and-file drow warrior of the Velkynvelve garrison
+- name: Byrtyn Fey
+  type: npc
+  note: Matron Mother of House Fey-Branche, skilled at forging alliances
+- name: Drizzt Do'Urden
+  type: npc
+  note: drow companion of Bruenor who helped retake Gauntlgrym and re-bind Maegera
+- name: Fiirnel'ther Vandree
+  type: npc
+  note: Matron Mother of the vicious House Vandree
+- name: Grin Ousstyl
+  type: npc
+  aliases:
+  - Grin
+  note: Vizeran's apprentice and party guide, troubled by his master's plan
+- name: Grisha
+  type: npc
+  note: escaped human drow slave ruling Filthriddens as Yeenoghu cult leader
+- name: Gromph Baenre
+  type: npc
+  aliases:
+  - Gromph
+  note: Archmage of Menzoberranzan whose summoning ritual loosed the demon lords;
+    fled to Luskan
+- name: Guldor
+  type: npc
+  note: rank-and-file drow warrior of the Velkynvelve garrison
+- name: Hanne Hallen
+  type: npc
+  aliases:
+  - Hanne
+  note: young drow mage-in-training allied with House Mizzrym, separated from her
+    mother's egg-run
+- name: Honemmeth
+  type: npc
+  note: rank-and-file drow warrior of the Velkynvelve garrison
+- name: Ilvara Mizzrym
+  type: npc
+  aliases:
+  - Ilvara
+  - Mistress Ilvara
+  note: senior drow priestess of Lolth, commander of Velkynvelve, House Mizzrym
+- name: Imbros
+  type: npc
+  note: rank-and-file drow warrior of the Velkynvelve garrison
+- name: Jaezred
+  type: npc
+  note: rank-and-file drow warrior of the Velkynvelve garrison
+- name: Jalynfein Oblodra
+  type: npc
+  note: blind young drow echo cast out of Menzoberranzan
+- name: Jarlaxle Baenre
+  type: npc
+  aliases:
+  - Jarlaxle
+  note: eyepatched founder and leader of Bregan D'aerthe, brother to Quenthel and
+    Gromph
+- name: Jevan
+  type: npc
+  note: rank-and-file drow warrior of the Velkynvelve garrison
+- name: Jorlan Duskryn
+  type: npc
+  aliases:
+  - Jorlan
+  note: maimed drow elite warrior, Ilvara's discarded former lover
+- name: Kalannar
+  type: npc
+  note: rank-and-file drow warrior of the Velkynvelve garrison
+- name: Khalessa Draga
+  type: npc
+  aliases:
+  - Khalessa
+  note: high elf Lords' Alliance deep-cover spy from Silverymoon
+- name: Kinyel Druu'giir
+  type: npc
+  aliases:
+  - Druu'giir
+  note: drow assassin afflicted by gem-madness, seeks to kill Lorthuun
+- name: Krilelyn H'Kar
+  type: npc
+  note: male drow elite warrior and Bregan D'aerthe operative who escorts the party
+- name: Malagar
+  type: npc
+  note: rank-and-file drow warrior of the Velkynvelve garrison
+- name: Mez'Barris Armgo
+  type: npc
+  note: Matron Mother of House Barrison Del'Armgo
+- name: Miz'ri Mizzrym
+  type: npc
+  note: Matron Mother of House Mizzrym, dominates the slave trade
+- name: Nadal
+  type: npc
+  note: rank-and-file drow warrior of the Velkynvelve garrison
+- name: Neheedra Duskryn
+  type: npc
+  aliases:
+  - Neheedra
+  note: drow priestess of Lolth transformed into a medusa
+- name: Quenthel Baenre
+  type: npc
+  note: Matron Mother of House Baenre, Chosen of Lolth, voice of Lolth in the city
+- name: Rinil
+  type: npc
+  note: male drow captive of House Melarn in the troglodyte pit
+- name: Ryzliir Symryvvin
+  type: npc
+  aliases:
+  - Ryzliir
+  note: female drow elite warrior leading the drow defense force
+- name: Sarith Kzekarit
+  type: npc
+  aliases:
+  - Sarith
+  - Sarith Also Referred To As Sathir In The Text
+  - Sathir
+  - Serith
+  - Sethir
+  - Sethir Serith
+  note: drow prisoner, best guide but most deceptive; spore-tainted toward Neverlight
+    Grove
+- name: Servan Llarabbar
+  type: npc
+  aliases:
+  - Servan
+  note: drow mage commanding Velkynvelve, descending into megalomania
+- name: Shinzi
+  type: npc
+  note: cloaked half-drow spy and adopted daughter of Dalfred Noakes
+- name: Shoor Vandree
+  type: npc
+  aliases:
+  - Shoor
+  note: drow elite warrior, Ilvara's current lieutenant and lover
+- name: Sirak Mazelor
+  type: npc
+  aliases:
+  - Sirak
+  note: drow chief negotiator from Menzoberranzan, luxury merchant
+- name: Sorn
+  type: npc
+  note: rank-and-file drow warrior of the Velkynvelve garrison
+- name: Vadalma Tlabbar
+  type: npc
+  note: Matron Mother of House Faen Tlabbar, fanatically devoted to Lolth
+- name: Velgor Zolond
+  type: npc
+  aliases:
+  - Velgor
+  note: male drow mage, Ryzliir's consort
+- name: Viln Tirin
+  type: npc
+  note: capricious female drow leader of the Bandersnatches gang, wields a scimitar
+    of speed
+- name: Vizeran DeVir
+  type: npc
+  aliases:
+  - Vizeran
+  note: exiled drow archmage of Menzoberranzan, follower of the Elder Elemental Eye
+- name: Xalith
+  type: npc
+  aliases:
+  - Xalith Masq'il'yr
+  note: female drow scout sent by Ilvara to recapture the party
+- name: Xinaya
+  type: npc
+  note: young drow scout and acolyte of Lolth buried in the Garden of Welcome
+- name: Xol
+  type: npc
+  note: male drow captive of House Melarn in the troglodyte pit
+- name: Zhindia Melarn
+  type: npc
+  note: Matron Mother of House Melarn, hunts drow apostates
+- name: Zhora Hallen
+  type: npc
+  aliases:
+  - Zhora
+  note: drow elite warrior, Hanne's mother, leader of the Dark Hunters
+- name: Zilchyn Q'Leptin
+  type: npc
+  aliases:
+  - Zilch
+  note: drow mage and kleptomaniac, ex-Menzoberranzan wizard
+- name: Dauthorn Brightmantle
+  type: npc
+  note: male shield dwarf captive from the Silver Marches
+- name: Errde Blackskull
+  type: npc
+  aliases:
+  - Errde
+  - Errde Blackstaff
+  - Erdde Blackskull
+  - Errde Captain Errde
+  - Captain Errde
+  - Captain Blackskull
+  note: female duergar captain commanding the Stone Guard
+- name: Gartokkar Xundorn
+  type: npc
+  aliases:
+  - Gartokkar
+  note: male duergar Keeper of the Flame, leader of the order
+- name: Ghuldur Flagonfist
+  type: npc
+  aliases:
+  - Flagonfist
+  note: duergar in Mantol-Derith who may point party to Stonespeaker Hgraam
+- name: Gorglak
+  type: npc
+  note: corrupt duergar Stone Guard at the gate, obsessed with rare weapons
+- name: Hargritt Hammerhome
+  type: npc
+  note: female shield dwarf captive from the Silver Marches
+- name: Hemeth
+  type: npc
+  aliases:
+  - Hemath
+  note: duergar arms smuggler captured for sacrifice, willing to cooperate
+- name: Horgar Steelshadow V
+  type: npc
+  aliases:
+  - Deepking Horgar V
+  - King Horgar Steelshadow V
+  note: Deepking of Gracklstugh, touched by demon-lord madness
+- name: Krimgol Muzgardt
+  type: npc
+  note: duergar ale merchant who found Fraz-Urb'luu's gem
+- name: Lorthio
+  type: npc
+  aliases:
+  - Lorthio Bukbukken
+  note: duergar alchemist of the Gray Ghosts in the Whorlstone Tunnels
+- name: The Pudding King
+  type: npc
+  aliases:
+  - Pudding King
+  note: ooze-corrupted figure who retreats to Blingdenstone if alive
+- name: Traldak Xornbane
+  type: npc
+  note: male shield dwarf captive from the Silver Marches
+- name: Werz Saltbaron
+  type: npc
+  aliases:
+  - Werz
+  note: Gracklstugh contact whose gem errand is delivered to Kazook
+- name: Ylsa Henstak
+  type: npc
+  note: female duergar Merchant Council caravan master
+- name: Zulia Stonewhisper
+  type: npc
+  note: female shield dwarf captive from the Silver Marches
+- name: Aliinka
+  type: npc
+  note: renegade derro savant twin sister, co-leader of the Gray Ghosts
+- name: Buppido
+  type: npc
+  aliases:
+  - Bupido
+  note: derro prisoner who knows the route to Gracklstugh; secretly intends to murder
+    companions as divine offerings
+- name: Uskvil
+  type: npc
+  note: renegade derro savant, co-leader of the Gray Ghosts
+- name: Y
+  type: npc
+  note: derro savant, member of the Society of Brilliance
+- name: Zubriska
+  type: npc
+  note: renegade derro savant twin sister, co-leader of the Gray Ghosts
+- name: Ariana
+  type: npc
+  note: deep gnome merchant delivering gemstones, with an earth elemental bodyguard
+- name: Chipgrin Goldwhisker
+  type: npc
+  aliases:
+  - Chipgrin
+  note: leader of the Goldwhisker wererat clan
+- name: Dasco Pickshine
+  type: npc
+  aliases:
+  - Dazco Pickshine
+  note: deep gnome overseer of Pickshine Mines operations
+- name: Dorbo Diggermattock
+  type: npc
+  aliases:
+  - Chief Dorbo
+  - Chief Dorbo Diggermattock
+  note: chief and de facto co-ruler, leader of mining expeditions
+- name: Droki
+  type: npc
+  note: scatterbrained derro courier for the Gray Ghosts and Council of Savants
+- name: Eldeth Feldrun
+  type: npc
+  aliases:
+  - Eldeth
+  - Eldev
+  note: shield dwarf prisoner with +5 Survival, unfamiliar with this region
+- name: Flink Thunderbonk
+  type: npc
+  aliases:
+  - Flink
+  note: Yantha's cowardly svirfneblin apprentice who lost the gem
+- name: Gabble Dripskillet
+  type: npc
+  note: svirfneblin chief negotiator
+- name: Garra Songstone
+  type: npc
+  note: deep gnome stone-singer playing the Singing Stones
+- name: Glyphic Shroomlight
+  type: npc
+  aliases:
+  - Glyphic
+  note: nervous young novice overseeing the Ruby in the Rough temple
+- name: Gurnik Tapfinger
+  type: npc
+  aliases:
+  - Grunik Tapfinger
+  note: head priest of Callarduran Smoothhands with a task
+- name: Jimjar
+  type: npc
+  aliases:
+  - Jimjar Also Jim Jar
+  - Jimjar Jim Jir
+  - Jim Jir
+  note: deep gnome prisoner who can guide the party to Blingdenstone
+- name: Kazook Pickshine
+  type: npc
+  note: deep gnome alchemist and miner from Blingdenstone
+- name: Mev Flintknapper
+  type: npc
+  aliases:
+  - Mev
+  note: svirfneblin trapped by gelatinous cube in Traders' Grotto
+- name: Peebles
+  type: npc
+  note: deranged svirfneblin surgeon serving Xazax the Eyemonger
+- name: Pelek
+  type: npc
+  note: spirit whose severed hand from Gracklstugh can be laid to rest
+- name: Perigrog Scrapedust
+  type: npc
+  note: deep gnome who runs Whiteshell Mine
+- name: Sark Axebarrel
+  type: npc
+  note: cynical guard leader who tasks party against the medusa
+- name: Senni Diggermattock
+  type: npc
+  aliases:
+  - Quartermaster Senni
+  - Sennai
+  - Senni
+  note: quartermaster and de facto co-ruler, leader of settlers
+- name: Tappy Foamstrap
+  type: npc
+  note: bored deep gnome who runs the Foaming Mug inn
+- name: Topsy
+  type: npc
+  note: deep gnome twin prisoner who can navigate to Blingdenstone but is reluctant
+- name: Trisk Adamantelpiece
+  type: npc
+  note: Jadger's brightest student groomed to command burrow wardens
+- name: Turvy
+  type: npc
+  note: deep gnome twin prisoner who can navigate to Blingdenstone but is reluctant
+- name: Udhask
+  type: npc
+  note: svirfneblin ghost in Rockblight who died of a heart attack
+- name: Vazuk
+  type: npc
+  note: leatherworker turned grief-mad poltergeist haunting his home
+- name: Vort
+  type: npc
+  note: deep gnome petrified by Neheedra in the Crystal Garden
+- name: Yantha Coaxrock
+  type: npc
+  note: svirfneblin mage, leader of the Stoneheart Enclave; lies due to madness
+- name: Araumycos
+  type: npc
+  note: vast single-minded fungus colony, largest fungal life form, Zuggtmoy's target
+- name: Breberil
+  type: npc
+  note: myconid adult councilor of the Inner Circle
+- name: Brelup
+  type: npc
+  note: myconid adult councilor of the Inner Circle
+- name: Gasbide
+  type: npc
+  note: Circle of Builders leader, mad would-be architect supporting Phylo
+- name: Hebopbe
+  type: npc
+  note: Circle of Growers leader, infected but not yet under control
+- name: Loobamub
+  type: npc
+  note: leader of the Circle of Hunters, loyal to Basidia
+- name: Posbara
+  type: npc
+  note: myconid adult councilor of the Inner Circle
+- name: Rasharoo
+  type: npc
+  note: leader of the Circle of Explorers, knows routes to the surface
+- name: Rumpadump
+  type: npc
+  aliases:
+  - Rump A Dump Rumpadump
+  note: uninfected myconid sprout who can guide party to the grove
+- name: Sovereign Basidia
+  type: npc
+  aliases:
+  - Basidia
+  note: myconid sovereign loyal allies warn the party off Neverlight Grove
+- name: Sovereign Phylo
+  type: npc
+  aliases:
+  - Phylo
+  - Phyllo
+  note: myconid sovereign who poisons visitors at Neverlight Grove
+- name: Stool
+  type: npc
+  note: myconid sprout from Neverlight Grove, former drow prisoner, guides party home
+- name: Voosbur
+  type: npc
+  note: myconid adult leader infected with Zuggtmoy's gift
+- name: Yrberop
+  type: npc
+  note: Circle of Sporers leader, infected and obsessed with breeding sprouts
+- name: Bloppblippodd
+  type: npc
+  aliases:
+  - Blopp
+  - Bloppblippodd Blopp
+  note: Ploopploopeen's daughter, demon-tainted archpriest of the Deep Father
+- name: Glooglugogg
+  type: npc
+  aliases:
+  - Gloog
+  note: Ploopploopeen's son, kuo-toa whip loyal to the Sea Mother
+- name: Klibdoloogut
+  type: npc
+  aliases:
+  - Klib
+  note: kuo-toa whip and keeper of the altar of the Deep Father
+- name: Ougalop
+  type: npc
+  note: happy-go-lucky kuo-toa from Sloobludop catching giant crickets
+- name: Ploopploopeen
+  type: npc
+  aliases:
+  - Ploop
+  - Ploopploopeen Ploop
+  note: kuo-toa archpriest of Blibdoolpoolp the Sea Mother, displaced by his daughter
+- name: Shuushar the Awakened
+  type: npc
+  aliases:
+  - Shuushar
+  - Shuushar Also Suushar
+  - Shuushar Shuushar The Awakened
+  - Suushar
+  - Suushar The Awakened
+  note: pacifist kuo-toa hermit and mystic familiar with the Darklake
+- name: Sloopidoop
+  type: npc
+  note: kuo-toa archpriest member of the Society of Brilliance
+- name: Dorhun
+  type: npc
+  note: stone giant apprentice to Stonespeaker Hgraam
+- name: Jaal
+  type: npc
+  note: stone giant guide who communes with rock to find the route
+- name: Rihuud
+  type: npc
+  note: stone giant apprentice cursed to grow a second head and go mad
+- name: Stonespeaker Hgraam
+  type: npc
+  aliases:
+  - Hgraam
+  - Hargaam
+  note: stone giant leader in Gracklstugh who assigns a guide
+- name: Ulthar
+  type: npc
+  note: stone giant Keeper of the Past
+- name: Urmas
+  type: npc
+  note: stone giant Keeper of the Present
+- name: Ustova
+  type: npc
+  note: stone giant seer, Keeper of the Future
+- name: Yauln
+  type: npc
+  note: ancient stone giant echo seeking alliance counsel
+- name: Amarith Coppervein
+  type: npc
+  aliases:
+  - Amarith
+  note: shield dwarf veteran of the Emerald Enclave running a monster zoo
+- name: Bruenor Battlehammer
+  type: npc
+  aliases:
+  - King Bruenor
+  - King Bruenor Battlehammer
+  - Bruenor
+  note: dwarven king of Gauntlgrym who summons the characters
+- name: Helgrim Candlewick
+  type: npc
+  note: shield dwarf smith running the Great Forge
+- name: Morista Malkin
+  type: npc
+  note: neutral good shield dwarf scout, Emerald Enclave representative and Bruenor's
+    advisor
+- name: Rollo Summergold
+  type: npc
+  note: shield dwarf smith running the Great Forge
+- name: Blurg
+  type: npc
+  note: orog, member of the Society of Brilliance
+- name: Gash
+  type: npc
+  note: wretched one-eyed gnoll servant of the minotaurs who lures travelers into
+    the maze
+- name: H'hoort
+  type: npc
+  note: troglodyte, S'slaar's mate held captive
+- name: H'slaat
+  type: npc
+  note: troglodyte champion of Laogzed and war marshal challenging the chieftain
+- name: Kurr
+  type: npc
+  note: gnoll fang of Yeenoghu, mad with guilt, can guide party
+- name: Prince Derendil
+  type: npc
+  aliases:
+  - Derendil
+  note: quaggoth who believes he is a cursed gold elf prince of Nelrindenvane
+- name: Ront
+  type: npc
+  note: orc prisoner unfamiliar with the Underdark, wants to reach the surface
+- name: S'slaar
+  type: npc
+  note: troglodyte chieftain wielding a drow +2 longsword
+- name: Skriss
+  type: npc
+  note: troglodyte member of the Society of Brilliance
+- name: Cyrog
+  type: npc
+  note: ancient elder brain commanding a distant mind flayer settlement
+- name: Dame Spiderwort
+  type: npc
+  note: green hag sister of Nanny Plunk
+- name: Glabbagool
+  type: npc
+  aliases:
+  - Glabagool
+  note: sentient ooze companion who prefers to remain in the Underdark
+- name: Grazilaxx
+  type: npc
+  note: mind flayer member of the Society of Brilliance who prefers telepathy
+- name: Grula-Munga
+  type: npc
+  note: female ettin bodyguard of Narrak
+- name: Hourm
+  type: npc
+  note: friendly galeb duhr greeter inside Gravenhollow
+- name: Karazikar
+  type: npc
+  aliases:
+  - Karazikar the Eye Tyrant
+  note: beholder ruler of the Vast Oblivium seeking the Maze Engine
+- name: Lorthuun
+  type: npc
+  note: beholder referenced from chapter 9 as a central-eye source
+- name: Maven Delve
+  type: npc
+  note: green hag sister of Nanny Plunk
+- name: Nanny Plunk
+  type: npc
+  note: green hag who taunts and misleads travelers on the Darklake
+- name: Prince Livid
+  type: npc
+  note: psychic gray ooze, the Pudding King's 'child'
+- name: Princess Ebonmire
+  type: npc
+  aliases:
+  - Ebonmire Princess Ebonmire
+  - Ebonmire
+  - Princess Ebonheir
+  - Ebonheir
+  note: intelligent black pudding, the Pudding King's 'child'
+- name: Spider King
+  type: npc
+  note: two-headed giant spider warped into humanoid shape
+- name: Stronk
+  type: npc
+  note: brutish fomorian caretaker of the purple worm eggs
+- name: Szashune
+  type: npc
+  note: four-armed obsidian drow warrior statue guarding Gromph's outer sanctum
+- name: Themberchaud
+  type: npc
+  aliases:
+  - Father of Flame
+  - Themberchaud the Wyrmsmith
+  - the Everburning
+  - the Foundry's Heart
+  - the Wyrmsmith
+  - Themberchaude
+  - Thermbechaud
+  note: red dragon Wyrmsmith of Gracklstugh, plots against the Keepers
+- name: Veldyskar
+  type: npc
+  note: intelligent basilisk guardian who guides party to the gates
+- name: Xazax the Eyemonger
+  type: npc
+  aliases:
+  - Xazax
+  - Xazaz
+  note: beholder that hunts beholders and grafts their eyestalks
+- name: Xetzirbor
+  type: npc
+  note: mind flayer echo seeking to save dying elder brain Cyrog
+- name: Yestabrod
+  type: npc
+  note: mutated leader of the Circle of Masters, Zuggtmoy's larval servant
+- name: Anaya
+  type: npc
+  note: fallen angel statue reaching upward, face of hatred
+- name: Baatral
+  type: npc
+  note: fallen angel statue offering something, charms toucher
+- name: Harajin
+  type: npc
+  note: fallen angel statue pointing at wall, inflicts madness
+- name: Kleve
+  type: npc
+  note: death slaad bodyguard bound by a control gem
+- name: Lorabelios
+  type: npc
+  note: fallen angel statue, head downcast, grants saving throw advantage
+- name: Narrak
+  type: npc
+  note: derro savant leading a Demogorgon cult in the Whorlstone Tunnels
+- name: Nemevon
+  type: npc
+  note: fallen angel statue concealing face, repeats 'Kill me'
+- name: Shal
+  type: npc
+  note: guise of a succubus posing as the Deepking's duergar consort, servant of Graz'zt
+- name: Silnia
+  type: npc
+  note: fallen angel statue covering eyes, smiling, causes nightmares
+- name: Slaughtertusk
+  type: npc
+  note: nalfeshnee set by Baphomet to guard the Maze Engine crevasse
+- name: Tamiel
+  type: npc
+  note: fallen angel statue burying face, answers questions like contact other plane
+- name: Y'lara
+  type: npc
+  note: false drow priestess identity of the yochlol imprisoned in Gromph's inner
+    sanctum
+- name: Zarod
+  type: npc
+  note: fallen angel statue clawing eyes, answers like divination spell
+- name: Aligor Moonwhisper
+  type: npc
+  note: human Zhentarim thug who knows the route to Mantol-Derith
+- name: Aljanor Keenblade
+  type: npc
+  aliases:
+  - Aljanor
+  - Sir Aljanor
+  note: captured human knight of the Order of the Gauntlet
+- name: Anzar the Brazen
+  type: npc
+  note: dwarf guard from Mirabar pledged to the party
+- name: Brim Coppervein
+  type: npc
+  note: shield dwarf Emerald Enclave scout pledged to the party
+- name: Dalfred Noakes
+  type: npc
+  note: scarred strongheart halfling who owns Narbondel's Shadow and smuggles fugitives
+- name: Davra Jassur
+  type: npc
+  note: Zhentarim 'troubleshooter' recruiting talent for the Black Network
+- name: Elias Drako
+  type: npc
+  note: human veteran of the Order of the Gauntlet pledged to the party
+- name: Eravien Haund
+  type: npc
+  aliases:
+  - Lord Eravien Haund
+  note: lawful neutral half-elf noble, Lords' Alliance representative from Waterdeep
+- name: Farryl Kilmander
+  type: npc
+  note: human spy from Yartar pledged to the party
+- name: Gargathine Truesilver
+  type: npc
+  note: dwarf guard from Mirabar pledged to the party
+- name: Ghazrim DuLoc
+  type: npc
+  aliases:
+  - DuLoc
+  - Ghazrim
+  note: Zhentarim chief negotiator, the characters' contact; holds key to Gravenhollow
+- name: Gorath Torn
+  type: npc
+  note: human Zhentarim thug who knows the route to Mantol-Derith
+- name: Griswalla Stonehammer
+  type: npc
+  note: shield dwarf Emerald Enclave scout pledged to the party
+- name: Hilvius Haever
+  type: npc
+  note: human spy from Yartar pledged to the party
+- name: Iandro Alathar
+  type: npc
+  note: human Zhentarim thug who knows the route to Mantol-Derith
+- name: Khelessa Draga
+  type: npc
+  note: high elf from Silverymoon, Lords' Alliance deep-cover operative disguised
+    as a drow
+- name: Kirsil Mantlehorn
+  type: npc
+  note: dwarf guard from Mirabar pledged to the party
+- name: Lanniver Strayl
+  type: npc
+  aliases:
+  - Sir Lanniver Strayl
+  note: lawful good human fighter, Order of the Gauntlet representative and Tyr follower
+- name: Lenora Haskur
+  type: npc
+  note: human Zhentarim thug who knows the route to Mantol-Derith
+- name: Lhytris Ilgarn
+  type: npc
+  note: human Zhentarim thug who knows the route to Mantol-Derith
+- name: Nazrok Blueaxe
+  type: npc
+  note: dwarf guard from Mirabar pledged to the party
+- name: Nero Kelvane
+  type: npc
+  note: human Zhentarim thug who knows the route to Mantol-Derith
+- name: Olaf Renghyi
+  type: npc
+  note: human veteran of the Order of the Gauntlet pledged to the party
+- name: Primwin Halk
+  type: npc
+  note: human Zhentarim thug who knows the route to Mantol-Derith
+- name: Rhiele Vannis
+  type: npc
+  note: female human squire traveling with Sir Lanniver
+- name: Rystia Zav
+  type: npc
+  note: human Harper spy from Nesme, driven mad and paranoid
+- name: Saliyra Dalnor
+  type: npc
+  note: human Zhentarim thug who knows the route to Mantol-Derith
+- name: Shedrak of the Eyes
+  type: npc
+  aliases:
+  - Shedrak
+  note: mad human high priest and favored slave of Karazikar
+- name: Sladis Vadir
+  type: npc
+  note: wood elf Emerald Enclave scout who disappeared in the Underdark
+- name: Splinter Darkmorn
+  type: npc
+  note: dwarf guard from Mirabar pledged to the party
+- name: Sylrien Havennor
+  type: npc
+  note: human veteran of the Order of the Gauntlet pledged to the party
+- name: Tamryn Tharke
+  type: npc
+  note: human veteran of the Order of the Gauntlet pledged to the party
+- name: Thargus Forkbeard
+  type: npc
+  note: shield dwarf Emerald Enclave scout pledged to the party
+- name: Thora Nabal
+  type: npc
+  note: human veteran of the Order of the Gauntlet pledged to the party
+- name: Zelraun Roaringhorn
+  type: npc
+  aliases:
+  - Lord Zelraun Roaringhorn
+  note: Waterdhavian noble human wizard, Harper representative
+- name: Zilna Oakshadow
+  type: npc
+  note: human spy from Yartar pledged to the party
+- name: Alustriel Silverhand
+  type: npc
+  note: legendary wizard echo appearing as young human female
+- name: Andarin Zarith
+  type: npc
+  note: future echo, human Red Wizard of Thay
+- name: Cattie-brie
+  type: npc
+  note: companion of Bruenor in retaking Gauntlgrym
+- name: Chris Perkins
+  type: npc
+  aliases:
+  - Christopher Perkins
+  note: designer who wrote the Afterword
+- name: Deepking Tarngardt
+  type: npc
+  note: grandfather of Horgar V who freed the derro slaves
+- name: Elminster
+  type: npc
+  note: future echo, human archmage seeking a forgotten spell
+- name: Lesla Carrowil
+  type: npc
+  note: svirfneblin archmage who authored the recovered spellbooks
+- name: Primus
+  type: npc
+  note: modron ruler invoked by rogue monodrone ('Down with Primus!')
+- name: Regis
+  type: npc
+  note: companion of Bruenor in retaking Gauntlgrym
+- name: Terrestor
+  type: npc
+  note: evil wizard in Derendil's delusion who supposedly cursed and exiled him
+- name: Wulfgar
+  type: npc
+  note: companion of Bruenor in retaking Gauntlgrym
+- name: Dahlia Sin'felle
+  type: npc
+  aliases:
+  - Dahlia
+  note: moon elf prisoner installed as figurehead Matron Mother of House Do'Urden
+- name: Baervan Wildwanderer
+  type: deity
+  note: gnomish deity, Father of Fish and Fungus
+- name: Baphomet
+  type: deity
+  note: demon lord, the Horned King, lord of minotaurs, appeared in the Labyrinth
+- name: Blibdoolpoolp
+  type: deity
+  note: kuo-toa scavenger goddess, the Sea Mother
+- name: Callarduran Smoothhands
+  type: deity
+  note: gnomish god, trickster shapeshifter; possible identity of Jimjar
+- name: Deep Duerra
+  type: deity
+  note: Laduguer's ascended mortal daughter, goddess of cooperation and dominance
+- name: Diinkarazan
+  type: deity
+  note: derro god whom Buppido believes himself to incarnate
+- name: Diirinka
+  type: deity
+  note: patron god of the derro, embodies cruelty, insanity, and cleverness
+- name: Elder Elemental Eye
+  type: deity
+  note: deity followed by Vizeran in opposition to Lolth
+- name: Entémoch
+  type: deity
+  note: prince of elemental earth summoned at Entémoch's Boon
+- name: Garl Glittergold
+  type: deity
+  note: gnomish god, trickster and demon-foe; possible identity of Jimjar
+- name: Graz'zt
+  type: deity
+  note: the Dark Prince, demon lord echo gathering Underdark intel
+- name: Gruumsh
+  type: deity
+  note: orc deity referenced via the orc Eye of Gruumsh
+- name: Laduguer
+  type: deity
+  note: patron god of the duergar, god of self-reliance, defense, and survival
+- name: Laogzed
+  type: deity
+  note: lesser reptilian god dwelling in the Abyss, worshiped by troglodytes
+- name: Leemooggoogoon
+  type: deity
+  note: the Deep Father, new kuo-toa god born of Demogorgon's manifestation
+- name: Lolth
+  type: deity
+  note: Demon Queen of Spiders, goddess of the drow, behind the summoning ritual
+- name: Moradin
+  type: deity
+  note: dwarven god whose priests bless the forge anvils and whose throne Bruenor
+    sits upon
+- name: Ogrémoch
+  type: deity
+  note: Prince of Evil Earth, linked to Ogrémoch's Bane
+- name: Orcus
+  type: deity
+  note: Demon Lord of Undeath who reanimates the elder brain Cyrog
+- name: Segojan Earthcaller
+  type: deity
+  note: svirfneblin god of deep earth and nature
+- name: Skoraeus Stonebones
+  type: deity
+  note: King of the Rock, stone giant god of buried things
+- name: Tyr
+  type: deity
+  note: god worshiped by the devout Sir Lanniver Strayl
+- name: Barracks
+  type: location
+- name: Elite Barracks
+  type: location
+- name: Guard Tower
+  type: location
+- name: Ilvara's Quarters
+  type: location
+- name: Lift
+  type: location
+- name: Main Hall
+  type: location
+- name: Northern Watch Post
+  type: location
+- name: Pool
+  type: location
+- name: Quaggoth Den
+  type: location
+- name: Shoor's Quarters
+  type: location
+- name: Shrine to Lolth
+  type: location
+- name: Slave Pen
+  type: location
+- name: Southern Watch Post
+  type: location
+- name: the Slave Pen
+  type: location
+- name: Waterfall
+  type: location
+- name: Altar of the Deep Father
+  type: location
+- name: Docks
+  type: location
+- name: Gate
+  type: location
+- name: Shrine of the Sea Mother
+  type: location
+- name: Blade Bazaar
+  type: location
+- name: Cairngorm Cavern
+  type: location
+- name: Darklake Brewery
+  type: location
+- name: Darklake District
+  type: location
+- name: Darklake Docks
+  type: location
+- name: Dunglorrin Torune
+  type: location
+- name: East Cleft District
+  type: location
+- name: Flowstone District
+  type: location
+- name: Halls of Sacred Spells
+  type: location
+- name: Hold of the Deepking
+  type: location
+- name: Laduguer's Furrow
+  type: location
+- name: Northfurrow District
+  type: location
+- name: Overlake Hold
+  type: location
+- name: Southfurrow District
+  type: location
+- name: The Ghohlbrorn's Lair
+  type: location
+- name: The Shattered Spire
+  type: location
+- name: Themberchaud's Lair
+  type: location
+- name: West Cleft District
+  type: location
+- name: Whorlstone Tunnels
+  type: location
+- name: Buppido's Lair
+  type: location
+- name: Cultist Hideout
+  type: location
+- name: Dire Den
+  type: location
+- name: Fountain of Evil
+  type: location
+- name: Gray Ghost Garden
+  type: location
+- name: Obelisk Chamber
+  type: location
+- name: Central Basin
+  type: location
+- name: Fungal Wilds
+  type: location
+- name: Garden of Welcome
+  type: location
+- name: Northern Terraces
+  type: location
+- name: Southern Terraces
+  type: location
+- name: Yggmorgus
+  type: location
+- name: Great Garden of Rot
+  type: location
+- name: Great Palace
+  type: location
+- name: Caves of Clatter
+  type: location
+- name: Cultivation Cave
+  type: location
+- name: Diggermattock Hall
+  type: location
+- name: Goldwhisker Warrens
+  type: location
+- name: Inner Blingdenstone
+  type: location
+- name: Outer Blingdenstone
+  type: location
+- name: Rockblight
+  type: location
+- name: Singing Stones
+  type: location
+- name: Speaking Stones
+  type: location
+- name: The Foaming Mug
+  type: location
+- name: The Pudding Court
+  type: location
+- name: The Ruby in the Rough
+  type: location
+- name: Traders' Grotto
+  type: location
+- name: Vazuk's Home
+  type: location
+- name: Crystal Garden
+  type: location
+- name: Neheedra's Lair
+  type: location
+- name: Steadfast Stone
+  type: location
+- name: Chipgrin's Rise
+  type: location
+- name: Hall of Miners
+  type: location
+- name: House Center
+  type: location
+- name: Ruined Stockade
+  type: location
+- name: Great Forge
+  type: location
+- name: Iron Tabernacle
+  type: location
+- name: Q'Xorlarrin
+  type: location
+- name: Vault of Kings
+  type: location
+- name: Amarith's Zoo
+  type: location
+- name: Cricket Catcher cave
+  type: location
+- name: Drow Enclave
+  type: location
+- name: Duergar Enclave
+  type: location
+- name: Svirfneblin Enclave
+  type: location
+- name: Zhentarim Enclave
+  type: location
+- name: Archives of the Future
+  type: location
+- name: Archives of the Past
+  type: location
+- name: Archives of the Present
+  type: location
+- name: Gates of Gravenhollow
+  type: location
+- name: Tower of Vengeance
+  type: location
+- name: Troglodyte Lair
+  type: location
+- name: Vast Oblivium
+  type: location
+- name: Worm Nursery
+  type: location
+- name: Adamantine Tower
+  type: location
+- name: Filthriddens
+  type: location
+- name: Gallery of Angels
+  type: location
+- name: Spiral of the Horned King
+  type: location
+  aliases:
+  - Spiral of the Great Horned King
+  - Spiral of the Horned Lord
+- name: Araurilcaurak
+  type: location
+- name: Claw Rift
+  type: location
+- name: Dark Dominion
+  type: location
+- name: Donigarten
+  type: location
+- name: Duthcloim
+  type: location
+- name: Eastmyr
+  type: location
+- name: Kyorbblivvin
+  type: location
+- name: Lolth's Web
+  type: location
+- name: Mistrift
+  type: location
+- name: Narbondel
+  type: location
+- name: Narbondellyn
+  type: location
+- name: Old Quarter
+  type: location
+- name: Qu'ellarz'orl
+  type: location
+- name: Stenchstreets
+  type: location
+- name: The Bazaar
+  type: location
+- name: The Braeryn
+  type: location
+- name: The Rifts
+  type: location
+- name: Tier Breche
+  type: location
+- name: West Wall
+  type: location
+- name: Westrift
+  type: location
+- name: Arach-Tinilith
+  type: location
+- name: Great Stair of Tier Breche
+  type: location
+- name: Melee-Magthere
+  type: location
+- name: Sorcere
+  type: location
+- name: Chamber of the Ruling Council
+  type: location
+- name: House Baenre
+  type: location
+  note: Menzoberranzan drow house whose insignia appears in Gromph's vision
+- name: Vizeran's sanctum
+  type: location
+- name: Karazikar's Maw
+  type: location
+- name: Araj
+  type: location
+- name: Blingdenstone
+  type: location
+- name: City of Spiders
+  type: location
+- name: Darklake
+  type: location
+- name: Gauntlgrym
+  type: location
+- name: Gracklstugh
+  type: location
+- name: Gravenhollow
+  type: location
+- name: Labyrinth
+  type: location
+- name: Mantol-Derith
+  type: location
+- name: Menzoberranzan
+  type: location
+- name: Neverlight Grove
+  type: location
+- name: Sloobludop
+  type: location
+- name: the Darklake
+  type: location
+- name: The Labyrinth
+  type: location
+- name: the Silken Paths
+  type: location
+- name: the Vast Oblivium
+  type: location
+- name: The Wormwrithings
+  type: location
+- name: Velkynvelve
+  type: location
+- name: Wormwrithings
+  type: location
+- name: Entémoch's Boon
+  type: location
+- name: Faerun
+  type: location
+- name: Faerûn
+  type: location
+  note: surface realm whose fate rests on the final battle
+- name: Lurkwood
+  type: location
+- name: Pickshine Mines
+  type: location
+- name: Spine of the World
+  type: location
+- name: Stoneheart Quarry
+  type: location
+- name: The Underdark
+  type: location
+  note: vast subterranean realm of caverns and tunnels where the chapter takes place
+- name: Underdark
+  type: location
+- name: Whiteshell Mine
+  type: location
+- name: Evermoors
+  type: location
+- name: High Forest
+  type: location
+- name: Illusk
+  type: location
+- name: Luskan
+  type: location
+- name: Mirabar
+  type: location
+- name: Mithral Hall
+  type: location
+- name: Nelrindenvane
+  type: location
+- name: Nesme
+  type: location
+- name: Silver Marches
+  type: location
+- name: Silverymoon
+  type: location
+- name: Surbrin Hills
+  type: location
+- name: Surbrin River
+  type: location
+- name: Sword Coast
+  type: location
+- name: Thay
+  type: location
+- name: Waterdeep
+  type: location
+- name: Yartar
+  type: location
+- name: Demonweb Pits
+  type: location
+  aliases:
+  - Demonweb
+  note: Lolth's layer of the Abyss
+- name: House Oblodra
+  type: location
+  note: Menzoberranzan drow house all but wiped out years ago
+- name: Narbondel's Shadow
+  type: location
+- name: Garden of Horror
+  type: location
+- name: Fiery Pit
+  type: location
+- name: Gromph's demiplane
+  type: location
+- name: Slumber of Ancients
+  type: location
+- name: Gromph's sanctum
+  type: location
+- name: House Do'Urden
+  type: location
+  note: rival drow house that destroyed House DeVir
+- name: Abyss
+  type: concept
+  note: plane from which the demon lords are summoned and to which they may be banished
+- name: Astral Plane
+  type: concept
+  note: where artifacts are cast by a Maze Engine effect
+- name: Elemental Plane of Air
+  type: concept
+  note: banishment destination for Ogrémoch's Bane
+- name: Elemental Plane of Earth
+  type: concept
+  note: home of earth elementals; Ogrémoch's Bane banished there
+- name: Material Plane
+  type: concept
+  note: world where Zuggtmoy seeks to spread her followers
+- name: Material world
+  type: concept
+  note: surface plane where the demon lords are to battle
+- name: Mechanus
+  type: concept
+  note: lawful plane, modrons' home, source of the Maze Engine
+- name: Outer Planes
+  type: concept
+  note: planes crossed by the Great Modron March
+- name: the Abyss
+  type: concept
+  note: demonic plane source of the demon lords' corrupting influence (per title 'Out
+    of the Abyss')
+- name: the Astral Plane
+  type: concept
+  note: plane where Araumycos's dreaming mind resides; site of the rapport battle
+- name: the Material Plane
+  type: concept
+  note: physical plane where the party's bodies remain during rapport
+- name: +1 dagger
+  type: item
+  note: drowcraft dagger with weblike filigree in the tribute chest
+- name: +1 shield
+  type: item
+  note: found beneath yellow mold
+- name: +1 shortsword
+  type: item
+  note: drow-manufacture blade spilled by a gelatinous cube
+- name: +1 warhammer
+  type: item
+  note: magic warhammer held in trust by the Order of the Gauntlet, offered by Sir
+    Lanniver
+- name: +2 longsword (Oloth tlu malla)
+  type: item
+  note: drowcraft spider-hilted blade etched 'Darkness be praised', claimed by S'slaar
+- name: +2 shortsword
+  type: item
+  note: drowcraft weapon in Xinaya's equipment heap
+- name: +2 studded leather armor
+  type: item
+  note: drowcraft armor in Xinaya's equipment heap
+- name: +2 warhammer
+  type: item
+  note: wielded by Deepking Horgar
+- name: +3 scale mail
+  type: item
+  note: armor granting Quenthel AC 19
+- name: 6,000 gp diamond
+  type: item
+  note: gemstone in the inner sanctum holding any creature caught by the imprisonment
+    trap
+- name: angel feathers
+  type: item
+  note: stone feathers from six fallen angels required for Vizeran's talisman
+- name: astral projection
+  type: item
+  note: spell-like effect of the rapport sending astral bodies to the Astral Plane
+- name: bag of holding
+  type: item
+  note: in Xinaya's treasure, holding scrolls, rations, and silver
+- name: black sapphire pendant
+  type: item
+  note: 5,000 gp pendant on silver chain, Gabble's reward
+- name: book of drow poetry
+  type: item
+  note: worth 100 gp, in Stronk's hoard
+- name: boots of speed
+  type: item
+  note: worn by Droki
+- name: Cairngorm Crown
+  type: item
+  note: named artifact whose bearer Yauln's clan considers allying with
+- name: charm of heroism
+  type: item
+  note: reward Araumycos can bestow on the party
+- name: conjure animals
+  type: item
+  note: spell Ilvara casts to summon two giant spiders
+- name: control amulet
+  type: item
+  note: amulet held by Zelraun that commands his shield guardian
+- name: crystal ball of true seeing
+  type: item
+  note: varnished nothic eye, single use, in the Pudding King's hoard
+- name: Daern's instant fortress
+  type: item
+  note: adamantine tower magic item with command words mimsy/brillig
+- name: dancing lights
+  type: item
+  note: cantrip Khalessa can cast at will
+- name: dark heart
+  type: item
+  note: Vizeran's black-stone heart talisman that beacons all loose demons for the
+    ritual
+- name: darkness
+  type: item
+  note: spell the other drow cast to hinder ranged attackers
+- name: Dawnbringer
+  type: item
+  note: magic item, a sentient sword/weapon
+- name: dharum suhn
+  type: item
+  note: the 'Hearts of Steadfast Stone', the temple's galeb duhr protectors
+- name: driftglobes
+  type: item
+  note: magical light sources shedding dim light within the tower
+- name: drow poison
+  type: item
+  note: knockout poison used to subdue prisoners and treat crossbow bolts
+- name: Drowcraft Items
+  type: item
+  note: drow magic items that don't survive sunlight; appendix B sidebar
+- name: dust of disappearance
+  type: item
+  note: magic item carried by Davra Jassur
+- name: dwarven plate
+  type: item
+  note: worn by Deepking Horgar in combat
+- name: earth elemental gem
+  type: item
+  note: summoning gem found among a corrupted elemental
+- name: Evard's black tentacles
+  type: item
+  note: spell effect erupting from Araumycos's infected mind
+- name: faerzress
+  type: item
+  note: mysterious arcane energy pervading the Underdark; disrupts divination and
+    teleport, tainted by demonic chaos
+- name: flame lances
+  type: item
+  note: magical weapons forged in Gracklstugh and wielded by xarrorn
+- name: flame tongue
+  type: item
+  note: flame tongue longsword at the bottom of Xazax's shaft
+- name: Fraz-Urb'luu's Gem
+  type: item
+  note: black fist-sized jewel imprisoning the demon lord's life force, induces madness
+- name: gauntlets of ogre power
+  type: item
+  note: worn by Deepking Horgar
+- name: gem of brightness
+  type: item
+  note: in a leather pouch with svirfneblin skeletons in the spider-nest chasm
+- name: gem of seeing
+  type: item
+  note: in Karazikar's hidden hoard
+- name: gem-studded minotaur horn
+  type: item
+  note: Bregan D'aerthe leader's signal horn worth 2,500 gp
+- name: gem-studded robe
+  type: item
+  note: 750 gp robe the duergar dressed Yantha in
+- name: Ghazrim DuLoc's ring
+  type: item
+  note: ring obtained at Mantol-Derith
+- name: Ghazrim's Ring
+  type: item
+  note: Zhentarim star-ruby ring whose white star-core guides to Gravenhollow
+- name: goggles of night
+  type: item
+  note: magic goggles worn by Davra Jassur in Gauntlgrym's dark halls
+- name: Great Throne of Moradin
+  type: item
+  note: magically protected throne granting the rightful king of Gauntlgrym divine
+    check advantages
+- name: Great Wheel
+  type: item
+  note: cosmological model the Maze Engine resembles
+- name: Gromph Baenre's grimoire
+  type: item
+  aliases:
+  - Gromph's grimoire
+  note: dark tome used as a ritual component
+- name: Gromph Baenre's grimoires
+  type: item
+  note: ritual notes sought by Vizeran from Gromph's sanctum
+- name: guards and wards
+  type: item
+  note: permanent spell protecting the tower interior
+- name: hat of disguise
+  type: item
+  note: magic item Khalessa uses to appear as a female drow
+- name: heart of the goristro
+  type: item
+  note: ritual component, ~100 lbs, induces madness while carried
+- name: Heward's handy haversack
+  type: item
+  note: Sladis's bag stuffed with severed victim remains
+- name: Keoghtom's ointment
+  type: item
+  note: in Narrak's locked iron chest
+- name: khaless
+  type: item
+  note: password ('trust') bypassing the imprisonment trap on the secret door
+- name: Kleve's control gem
+  type: item
+  note: smoky crystal worn by Vizeran that compels the death slaad's obedience
+- name: lightning bolt
+  type: item
+  note: spell stored within Zelraun's shield guardian
+- name: Magick from Beyond the Mirror
+  type: item
+  note: spellbook by Lesla Carrowil, 5th-8th level spells
+- name: Maze Engine
+  type: item
+  aliases:
+  - Orderer
+  note: arcane device capable of shifting the gears of reality, sought by Karazikar;
+    the 'Orderer'
+- name: necklace of adaptation
+  type: item
+  note: in Karazikar's hidden hoard
+- name: obsidian ring
+  type: item
+  note: faerzress-transformed single-use stoneskin ring on Pelek's crawling claw
+- name: obsidian statuette of Lolth
+  type: item
+  note: 100 gp idol found as loot on a mad creature
+- name: Ogrémoch's Bane
+  type: item
+  note: sentient cloud of magical dust that enslaves elementals
+- name: oil of sharpness
+  type: item
+  note: in Themberchaud's hoard
+- name: Piwafwi
+  type: item
+  note: drow cloak worn by Khalessa (appendix B)
+- name: Piwafwi of Fire Resistance
+  type: item
+  note: drow cloak granting fire resistance
+- name: poison spray
+  type: item
+  note: spell Ilvara may cast
+- name: potion of fire breath
+  type: item
+  note: in the Gray Ghost alchemist's chests
+- name: potion of flying
+  type: item
+  note: in Themberchaud's hoard
+- name: potion of gaseous form
+  type: item
+  note: potion in the troglodyte tribute chest
+- name: potion of greater healing
+  type: item
+  note: reward for clearing monsters from the Fungal Wilds
+- name: potion of healing
+  type: item
+  note: treasure in Ploopploopeen's offering closet (two of them)
+- name: potion of invisibility
+  type: item
+  note: found with Udhask's hidden treasure
+- name: potion of longevity
+  type: item
+  note: in Themberchaud's hoard
+- name: potion of mind reading
+  type: item
+  note: found in the Adamantine Tower remains
+- name: potion of poison
+  type: item
+  note: in a gourd in the Pudding King's hoard
+- name: potion of psychic resistance
+  type: item
+  note: in the Gray Ghost alchemist's chests
+- name: potion of supreme healing
+  type: item
+  note: in Themberchaud's hoard
+- name: potion of vitality
+  type: item
+  note: three found in a grick nest at the Cricket Catcher cave
+- name: potion of water breathing
+  type: item
+  note: treasure in Ploopploopeen's offering closet
+- name: potions of healing
+  type: item
+  note: two healing potions in Ilvara's chest
+- name: purify food and drink
+  type: item
+  note: magic to counter spoiled supplies
+- name: purple worm poison
+  type: item
+  note: coats Viln Tirin's four daggers
+- name: rapport spores
+  type: item
+  note: myconid spores enabling telepathic link with Araumycos
+- name: ray of sickness
+  type: item
+  note: spell Ilvara may cast against unruly prisoners
+- name: remove curse
+  type: item
+  note: spell that can lift Lolth's curse from the jet spider-eye gems
+- name: ring of earth elemental command
+  type: item
+  note: magic item crafted at Stoneheart Quarry
+- name: ring of free action
+  type: item
+  note: worn by a moon elf skeleton on a ledge in the chasm
+- name: ring of protection
+  type: item
+  note: found in a roper's gizzard
+- name: ring of water walking
+  type: item
+  note: on a skeleton beneath yellow mold
+- name: ring with star ruby compass
+  type: item
+  note: Ghazrim's gold ring guiding the wearer to Gravenhollow
+- name: robe of eyes
+  type: item
+  note: in Karazikar's hidden hoard
+- name: scimitar of speed
+  type: item
+  note: magic weapon wielded by Viln Tirin
+- name: scroll of protection (against fiends)
+  type: item
+  note: given by Basidia in a moldy scroll case as a sign of friendship
+- name: scroll of protection from fiends
+  type: item
+  note: amulet usable once per character
+- name: Shedrak's beholder-eye staff
+  type: item
+  note: varnished beholder eye on a staff letting Karazikar see and use eye rays
+- name: shield guardian
+  type: item
+  note: construct loaned by Zelraun, holding a stored lightning bolt spell
+- name: shilmaer
+  type: item
+  note: ancient gold coin traded among surface elves, found on Pliinki
+- name: sovereign glue
+  type: item
+  note: adhesive holding spell gems in the gauntlet tunnel
+- name: Spell Gem
+  type: item
+  note: enchanted gem holding a spell, Blingdenstone's defense and trade good
+- name: spell gems
+  type: item
+  note: magic gems crafted in Blingdenstone; Werz's raw stones are blanks for them
+- name: spell scroll of globe of invulnerability
+  type: item
+  note: carried by Shedrak
+- name: spell scroll of light
+  type: item
+  note: treasure in Ploopploopeen's offering closet
+- name: spell scroll of phantasmal force
+  type: item
+  note: scroll on trillimac carried by a dead drow in the roper lair
+- name: spell scroll of remove curse
+  type: item
+  note: found in Xinaya's bag of holding
+- name: spell scroll of shield
+  type: item
+  note: scroll on trillimac carried by a dead drow in the roper lair
+- name: spell scroll of spider climb
+  type: item
+  note: found in Xinaya's bag of holding
+- name: spider medallion
+  type: item
+  note: Lolth symbol half-embedded in Xinaya's bloated hand
+- name: spider silk rope
+  type: item
+  note: rope the drow use to bind captured characters' hands
+- name: spirit guardians
+  type: item
+  note: spell Asha casts on herself
+- name: stone of controlling earth elementals
+  type: item
+  note: reward item given by the Diggermattocks
+- name: Stonespeaker Crystal
+  type: item
+  note: polished crystal from Hgraam, resonates with conjuration/divination and linked
+    to Gravenhollow
+- name: teleportation circle
+  type: item
+  note: permanent circle in Vizeran's sanctum for last-resort escape
+- name: tentacle rod
+  type: item
+  note: magic weapon wielded by Ilvara alongside her scourge
+- name: tyrnae
+  type: item
+  note: command word ('quench') disabling the fire elemental candle trap
+- name: Underland Magick
+  type: item
+  note: spellbook by Lesla Carrowil, 1st-4th level spells
+- name: wall of force
+  type: item
+  note: invisible barrier before the Deepking's dais
+- name: Wand of Orcus
+  type: item
+  note: wand Orcus drops, seeks attunement during the battle
+- name: Wand of Viscid Globs
+  type: item
+  note: wand shooting sticky restraining globs, once Jorlan's, now carried by Shoor
+- name: web
+  type: item
+  note: spell Ilvara casts to cut off the party's escape
+- name: Yeenoghu's blood
+  type: item
+  note: demon lord's black blood, ritual component found on goristro's horns
+- name: Zhaun'ol'leal
+  type: item
+  note: Elvish title of Gromph's grimoire, 'The Book of the Eight'
+- name: Zuggtmoy's spores
+  type: item
+  note: fungal affliction from Neverlight Grove / Zuggtmoy
+- name: zurkhwood
+  type: item
+  note: mushroom material used to build Underdark boats and rafts
+- name: Arcane Brotherhood
+  type: faction
+  note: mage organization that first tapped Maegera's power; possible doppelganger
+    backer
+- name: Archmage of Menzoberranzan
+  type: faction
+  note: title Quenthel reassigns after Gromph's disappearance
+- name: Bandersnatches
+  type: faction
+  note: gang of young demon-worshiping drow led by Viln Tirin in West Wall
+- name: brand of Karazikar
+  type: faction
+  note: open-eye scar branded on the foreheads of the beholder's slaves
+- name: Bregan D'aerthe
+  type: faction
+  note: powerful drow mercenary, spy, and assassin company led by Jarlaxle
+- name: Bridesmaid of Zuggtmoy
+  type: faction
+  note: CR 1/8 servitor creature of the demon lord Zuggtmoy
+- name: bridesmaids of Zuggtmoy
+  type: faction
+  note: humanoid fungal followers in Zuggtmoy's wedding entourage
+- name: Burrow Warden
+  type: faction
+  note: honored protector rank among the svirfneblin
+- name: Burrow Wardens
+  type: faction
+  note: honored svirfneblin protectors, being refounded by Jadger
+- name: Chamberlain of Zuggtmoy
+  type: faction
+  note: CR 2 servitor of the demon lord Zuggtmoy
+- name: chamberlains of Zuggtmoy
+  type: faction
+  note: thralls who march in the wedding rehearsal entourage
+- name: Champion of Laogzed
+  type: faction
+  note: CR 3 troglodyte champion title
+- name: Chief
+  type: faction
+  note: Dorbo Diggermattock's governing title
+- name: chief negotiators council
+  type: faction
+  note: informal four-enclave governing council, recently dissolved
+- name: Church of Lolth
+  type: faction
+  note: Lolth's priesthood based in Arach-Tinilith
+- name: Circle of Builders
+  type: faction
+  note: myconid craft circle led by Gasbide
+- name: Circle of Explorers
+  type: faction
+  note: myconid scout circle led by Rasharoo, loyal to Basidia
+- name: Circle of Growers
+  type: faction
+  note: myconid farmer circle led by Hebopbe
+- name: Circle of Hunters
+  type: faction
+  note: myconid circle that retrieves carcasses, led by Loobamub, loyal to Basidia
+- name: Circle of Masters
+  type: faction
+  note: newest circle of Zuggtmoy-touched myconids led by Yestabrod
+- name: Circle of Sowers
+  type: faction
+  note: one of the grove's myconid circles
+- name: Circle of Sporers
+  type: faction
+  note: myconid breeding circle led by Yrberop
+- name: Clan Anvilthew
+  type: faction
+  note: duergar toolmaker clan
+- name: Clan Blackskull
+  type: faction
+  note: duergar stonemason clan
+- name: Clan Bukbukken
+  type: faction
+  note: duergar farming clan
+- name: Clan Burakrinwurn
+  type: faction
+  note: duergar dock-operator clan
+- name: Clan Cairngorm
+  type: faction
+  note: stone giant clan sworn to the Steelshadow line
+- name: Clan Coalhewer
+  type: faction
+  note: duergar coal-miner clan
+- name: Clan Firehand
+  type: faction
+  note: duergar smelter clan
+- name: Clan Goldwhisker
+  type: faction
+  note: svirfneblin wererat clan holding part of the ruins
+- name: Clan Hammercane
+  type: faction
+  note: duergar construction-engineer clan
+- name: Clan Henstak
+  type: faction
+  note: duergar food merchant clan
+- name: Clan Ironhead
+  type: faction
+  note: duergar weaponsmith clan
+- name: Clan Muzgardt
+  type: faction
+  note: duergar brewer clan making Darklake Stout
+- name: Clan Parlynsurk
+  type: faction
+  note: duergar clothing-manufacturer clan
+- name: Clan Saltbaron
+  type: faction
+  note: duergar salt-miner clan
+- name: Clan Steelshadow
+  type: faction
+  note: duergar weaponsmith and royal clan
+- name: Clan Thordensonn
+  type: faction
+  note: duergar jeweler clan
+- name: Clan Thrazgad
+  type: faction
+  note: duergar armorsmith clan
+- name: Clan Thuldark
+  type: faction
+  note: duergar metalworks and jewels clan
+- name: Clan Xardelvar
+  type: faction
+  note: duergar gas-miner clan supplying flame lances
+- name: Clan Xornbane
+  type: faction
+  note: duergar scout and prospector clan
+- name: Clan Xundom
+  type: faction
+  note: duergar steeder-breeder clan
+- name: Council of Lairds
+  type: faction
+  note: advisory body of clan lairds under the Deepking
+- name: Council of Savants
+  type: faction
+  note: Gracklstugh faction plotting against Themberchaud
+- name: Council of Spiders
+  type: faction
+  note: secret cabal of drow wizards seeking representation on the Ruling Council
+- name: Cult of "Y"
+  type: faction
+  note: drow driven mad by Demogorgon, carving his Y-symbol and worshiping the Prince
+    of Demons
+- name: Cult of the Deep Father
+  type: faction
+  note: kuo-toa faction worshiping Leemooggoogoon, led by Bloppblippodd
+- name: Cult of Yeenoghu
+  type: faction
+  note: Grisha-led cult controlling Filthriddens
+- name: Dark Hunters
+  type: faction
+  note: Zhora Hallen's band of drow who steal purple worm eggs
+- name: Darkhafts
+  type: faction
+  note: Deepking's secret corps of psionic agents and spies
+- name: Deepkingdom
+  type: faction
+  note: feudal duergar state ruled by the Deepking
+- name: Delzoun Empire
+  type: faction
+  note: ancient dwarven empire of which Gauntlgrym was capital
+- name: Drow elite warrior
+  type: faction
+  note: senior warrior rank held by Shoor and Jorlan
+- name: drow elite warriors
+  type: faction
+  note: warrior rank held by Jorlan and Shoor
+- name: drow high priestess
+  type: faction
+  note: rank that casts raise dead on fallen characters for questioning
+- name: drow priestess of Lolth
+  type: faction
+  note: priestly rank held by Ilvara
+- name: Duergar Keeper of the Flame
+  type: faction
+  note: CR 2 duergar role/title
+- name: Duergar Stone Guard
+  type: faction
+  note: CR 2 duergar role/title
+- name: Emerald Enclave
+  type: faction
+  note: wilderness defenders of natural balance, faction represented by Morista Malkin
+- name: Empty-Scabbard Killers
+  type: faction
+  note: order of psionic duergar soulblade assassins; Forak-Erach-Naek in Dwarvish
+- name: Feldrun clan
+  type: faction
+  note: clan of dwarves who joined the forces retaking Gauntlgrym
+- name: gnoll fang of Yeenoghu
+  type: faction
+  note: Kurr's title as a gnoll champion of Yeenoghu
+- name: gnoll pack lord
+  type: faction
+  note: leader of the gnolls left feasting after Yeenoghu's hunt
+- name: Gray Ghosts
+  type: faction
+  note: the only thieves' guild in Gracklstugh, duergar and derro outcasts
+- name: Harpers
+  type: faction
+  note: covert good-aligned network; Rystia Zav is a spy
+- name: House Barrison Del'Armgo
+  type: faction
+  note: second-ranked house with the most wizards and mercenaries
+- name: House DeVir
+  type: faction
+  note: Vizeran's drow house, wiped out by House Do'Urden
+- name: House Druu'giir
+  type: faction
+  note: drow house Kinyel believes sent the gargoyle messenger
+- name: House Duskryn
+  type: faction
+  note: drow house surname of Jorlan
+- name: House Faen Tlabbar
+  type: faction
+  note: third-ranked house fanatically devoted to Lolth
+- name: House Fey-Branche
+  type: faction
+  note: fifth-ranked house skilled at alliances
+- name: House Hunzrin
+  type: faction
+  note: noble house whose young noble scarred Dalfred Noakes
+- name: House Melarn
+  type: faction
+  note: drow house of the hunting-party mage and the captive drow Rinil and Xol
+- name: House Mizzrym
+  type: faction
+  note: fourth-ranked house dominating the slave trade
+- name: House Vandree
+  type: faction
+  note: drow house surname shared by Asha and Shoor
+- name: House Xorlarrin
+  type: faction
+  note: drow house that seized Gauntlgrym and founded Q'Xorlarrin
+- name: Iceshield tribe
+  type: faction
+  note: orc tribe Ront fled, at war with the dwarves and Eldeth's people
+- name: Inner Circle
+  type: faction
+  note: recently formed council of sovereigns and circle leaders
+- name: Kavalrachni
+  type: faction
+  note: duergar steeder-riding cavalry, mostly from Clan Xundom
+- name: Keeper of the Future
+  type: faction
+  note: librarian title held by Ustova
+- name: Keeper of the Past
+  type: faction
+  note: librarian title held by Ulthar
+- name: Keeper of the Present
+  type: faction
+  note: librarian title held by Urmas
+- name: Keepers of the Flame
+  type: faction
+  note: Gracklstugh order in conflict with the Gray Ghosts
+- name: kuo-toa archpriest
+  type: faction
+  note: highest kuo-toa priestly title, held by Ploopploopeen and Bloppblippodd
+- name: kuo-toa monitor
+  type: faction
+  note: kuo-toa martial rank guarding shrines and patrols
+- name: kuo-toa whip
+  type: faction
+  note: kuo-toa priestly rank/title serving the priesthood
+- name: Lords' Alliance
+  type: faction
+  note: political-economic coalition of cities, faction represented by Eravien Haund
+- name: Matron Mother
+  type: faction
+  note: ruling rank of a drow house, held by Quenthel Baenre
+- name: matron mothers
+  type: faction
+  note: female drow rulers Vizeran and Grin resent
+- name: Merchant Council
+  type: faction
+  note: lairds and merchants overseeing trade and commerce
+- name: Miners' Guild
+  type: faction
+  note: powerful mining guild led by the Pickshine family
+- name: myconid sovereigns
+  type: faction
+  note: ruling caste of myconids; Basidia among them
+- name: Order of the Gauntlet
+  type: faction
+  note: holy crusaders sworn to destroy evil, faction represented by Sir Lanniver
+- name: Priestess of Lolth
+  type: faction
+  note: drow priestly rank held by Ilvara and Asha
+- name: Quartermaster
+  type: faction
+  note: Senni Diggermattock's governing title
+- name: Red Wizards of Thay
+  type: faction
+  note: Thayan mages; possible backer of a doppelganger spy
+- name: Ruling Council
+  type: faction
+  note: governing council of Menzoberranzan with First Houses
+- name: ruling houses
+  type: faction
+  note: weakened drow noble houses facing challenges to their power
+- name: Society of Brilliance
+  type: faction
+  note: sect of highly intelligent monsters banded together to solve the Underdark's
+    problems
+- name: Sovereign
+  type: faction
+  note: title for the largest myconid who rules a colony
+- name: Steelshadow clan
+  type: faction
+  note: royal duergar clan that holds the throne
+- name: Stone Guard
+  type: faction
+  note: five hundred veteran duergar bodyguards and secret police of the Deepking
+- name: Stoneheart Enclave
+  type: faction
+  note: svirfneblin earth-elemental spellcasters, ex-Emerald Enclave splinter
+- name: The Academy
+  type: faction
+  note: Menzoberranzan's three training branches at Tier Breche
+- name: the drow
+  type: faction
+  note: dark elves of Velkynvelve/Menzoberranzan pursuing the escapees
+- name: The Harpers
+  type: faction
+  note: clandestine network of spellcasters and spies, faction represented by Zelraun
+- name: thuldar
+  type: faction
+  note: caste of duergar priests who officiate rituals and record lore
+- name: Xarrorn
+  type: faction
+  note: duergar specialists wielding flame lances, mostly from Clan Xardelvar
+- name: Zhentarim
+  type: faction
+  aliases:
+  - Black Network
+  note: shadowy mercenary network, faction represented by Davra Jassur
+- name: A Flight of Demons
+  type: event
+  note: chasme and vrock demons battling into the cavern, covering the escape
+- name: Against the Demon Lords
+  type: event
+  note: final showdown against the demon lords (chapter 17)
+- name: Audience with Bruenor
+  type: event
+  note: the king's private hearing of the party's Underdark tale
+- name: Battle of Blingdenstone
+  type: event
+  note: climactic assault to destroy the Pudding King and his oozes
+- name: Bruenor's Plan
+  type: event
+  note: the king's proposal to send the party back into the Underdark
+- name: calassabrak
+  type: event
+  note: Dwarvish term for dishonored duergar outcasts, 'the flawed who aren't to be
+    trusted'
+- name: Demogorgon Rises
+  type: event
+  note: the Prince of Demons emerges from the Darklake and smashes Sloobludop
+- name: Demogorgon's rampage
+  type: event
+  note: the Prince of Demons' destructive emergence through Menzoberranzan from the
+    Clawrift
+- name: demonic incursion
+  type: event
+  aliases:
+  - demon lords' arrival
+  - demonic invasion
+  note: the irruption of demon lords into the Underdark
+- name: Drow Pursuit
+  type: event
+  note: Ilvara's hunting party tracks the escapees, measured by a pursuit level
+- name: drow siege of Blingdenstone
+  type: event
+  note: historical assault researchable in the Archives of the Past
+- name: Escape from Velkynvelve
+  type: event
+  note: the chapter's goal, earning a special 150 XP award
+- name: exile of the dark elves
+  type: event
+  note: legendary ancient event when the drow were first exiled from the surface,
+    tied to faerzress origins
+- name: fetid wedding
+  type: event
+  note: Zuggtmoy's event that decimated the myconid ranks
+- name: Forging an Alliance
+  type: event
+  note: negotiations to secure the five factions' support
+- name: grackle-lung
+  type: event
+  note: exhaustion-inducing disease from Gracklstugh's constant smog
+- name: Great Modron March
+  type: event
+  note: modron army marching the Outer Planes every 289 years; stranded modrons remnants
+    of last march
+- name: Gromph's Folly
+  type: event
+  note: Gromph Baenre's faerzress-fueled conjuration that opened rifts from the Abyss
+- name: Gromph's ritual
+  type: event
+  note: faerzress-channeling rite that wrenched the demon lords into the Underdark
+- name: Indefinite Madness of Fraz-Urb'luu
+  type: event
+  note: appendix D madness table triggered by touching the gem
+- name: Jorlan's Gambit
+  type: event
+  note: Jorlan's offer to leave the slave-pen gate unlocked to embarrass Shoor and
+    Ilvara
+- name: Mad Dance
+  type: event
+  note: ritual dance of deformed thralls around the base of Yggmorgus
+- name: Madness
+  type: event
+  note: demon-lord-induced sanity system measured in three levels during the journey
+- name: March on Menzoberranzan
+  type: event
+  note: prior chapter-10 drow-force encounter the party may have fought
+- name: Melding
+  type: event
+  note: myconid telepathic communion via rapport spores
+- name: Myconid March
+  type: event
+  note: procession of spore-corrupted fungi marching to the wedding
+- name: 'Operation: Exterminate?'
+  type: event
+  note: Diggermattock task regarding the Goldwhisker wererats
+- name: 'Operation: Ooze There?'
+  type: event
+  note: Diggermattock task to investigate the Pudding Court
+- name: Rage of Demons
+  type: event
+  note: story arc in which demon lords invade the Underdark and spread madness
+- name: Siege of Blingdenstone
+  type: event
+  note: drow army's slaughter and enslavement of the svirfneblin
+- name: spores of Zuggtmoy
+  type: event
+  note: disease that infects, maddens, and reanimates victims as spore servants
+- name: Summoning of the demon lords
+  type: event
+  note: event that brought Baphomet and Yeenoghu to the Underdark
+- name: The City of Spiders
+  type: event
+  note: chapter 15; where Velkynvelve drow may reappear
+- name: The day of joy
+  type: event
+  note: infected myconids' name for the coming celebration / wedding
+- name: The Day's Catch
+  type: event
+  note: kuo-toa patrol captures the party as offerings near Sloobludop
+- name: the demonic incursion
+  type: event
+  note: the demon lords' invasion the Society of Brilliance fears and investigates
+- name: the duergar-svirfneblin conflict
+  type: event
+  note: open war sparked by the stolen gem dispute
+- name: The Fetid Wedding
+  type: event
+  note: chapter 16 event; the planned marriage of Zuggtmoy and Araumycos
+- name: the Lady's dream
+  type: event
+  note: Zuggtmoy-granted travel through mold and fungi the infected myconids use
+- name: The Offering
+  type: event
+  note: Ploopploopeen presents the party as sacrifices to infiltrate the Deep Father's
+    cult
+- name: The Ritual
+  type: event
+  note: sacrificial ceremony at the Deep Father's altar that summons Demogorgon
+- name: The Stone Curse
+  type: event
+  note: ancient Sorcere enchantment triggering reverse gravity against earth-shaping
+    magic
+- name: the summoning ritual
+  type: event
+  note: Gromph's failed rite that pulled the demon lords into the Underdark
+- name: The Way of Lolth
+  type: event
+  note: Menzoberranzan's principal law code centered on Lolth-worship
+- name: Time of Troubles
+  type: event
+  note: era when Lolth destroyed House Oblodra over a century ago
+- name: Uniting War
+  type: event
+  note: failed derro rebellion against the Deepkingdom nearly five hundred years ago
+- name: Vizeran's ritual
+  type: event
+  note: rite using the dark heart to draw demon lords to a final showdown
+- name: Wedding Rehearsal
+  type: event
+  note: mock wedding ceremony enacted by Zuggtmoy's thralls in the grove
+- name: Zuggtmoy's gift
+  type: event
+  note: demon-tainted spore infection granting a special tree stride and euphoric
+    bliss
+- name: Zuggtmoy's wedding
+  type: event
+  note: fungal wedding at Araumycos, target of Juiblex's mad march
+- name: Janussi
+  type: npc
+  note: Keeper of Tomes (victim)
+- name: Bookwyrm
+  type: npc
+  aliases:
+  - Skoda Vanaster
+  note: First Reader (real name; green dragonborn master sage)
+- name: Alkrist
+  type: npc
+  note: Great Reader; bronze dragonborn; Bookwyrm's nephew; the actual poisoner
+- name: A'lai Aivenmore
+  type: npc
+  note: Great Reader; main antagonist; Manshoon's inside man
+- name: Sylvira Savikas
+  type: npc
+  note: Great Reader; curator, Infernal Fortress
+- name: Daral Yashenti
+  type: npc
+  note: Great Reader; alcoholic
+- name: Fheminor Scrivenbark
+  type: npc
+  note: Great Reader; halfling; Janussi's intended successor
+- name: Teles Ahvoste
+  type: npc
+  note: Great Reader; archmage
+- name: Kazryn Nyantani
+  type: npc
+  note: Great Reader; A'lai's lover
+- name: Kalan Strongbranch
+  type: npc
+  note: Gatewarden; archmage
+- name: Kei Tigersteel
+  type: npc
+  note: Lorekeeper
+- name: V'ziir-Ag
+  type: npc
+  note: 8th Great Reader, gith master sage, off-screen (away on a Far Realm research
+    trip; explicit "ambitious DMs use him as the big bad in lieu of Manshoon" note)
+- name: Fembris Lancer
+  type: npc
+  note: acolyte adjutant
+- name: Tadric
+  type: npc
+  note: Watcher (Kalan's lieutenant; "Tadric the Watcher")
+- name: Irony
+  type: npc
+  note: 18yo tiefling acolyte
+- name: Sprig Summerfoot
+  type: npc
+  note: acolyte; Deadwinter Supper waiter
+- name: Orrin Glass
+  type: npc
+  note: cartographer acolyte; Deadwinter Supper waiter
+- name: Miss Hollypocket
+  type: npc
+  note: Janussi's elderly gnome servant
+- name: Queenie
+  type: npc
+  note: Janussi's grey cat (with yellow eyes)
+- name: Nibbles
+  type: npc
+  note: Leuwin's pet squirrel
+- name: Leuwin
+  type: npc
+  note: satyr druid; Oak Tree Apothecary
+- name: Moziqodo
+  type: npc
+  note: '"The Beast of Candlekeep"; Sylvira''s demonspawn son'
+- name: Riekki
+  type: npc
+  note: half-elf; door 6pm–midnight Deadwinter's Eve
+- name: Jaxil
+  type: npc
+  note: dragonborn; door midnight–6am
+- name: Deidran
+  type: npc
+  note: door from 6am Deadwinter Day
+- name: Kayne the Watcher
+  type: npc
+  note: recently off the High Tower Library shift
+- name: Parmak
+  type: npc
+  note: bumped into Kalan in the West Gallery
+- name: Jostin
+  type: npc
+  note: middle-aged human; doorman at the Outer Ward gate
+- name: Brygon the Barkeep
+  type: npc
+  note: Hearth chief barkeep
+- name: Little One
+  type: npc
+  note: ogre patron of the Hearth (uses a *headband of intellect*)
+- name: Jacinta
+  type: npc
+  note: Bath House attendant; finds Daral's body
+- name: Magnus Goldfist
+  type: npc
+  note: Lords' Alliance patron in Waterdeep; sends the party to fetch *The Lurkwood
+    Campaign*
+- name: General Levicus
+  type: npc
+  note: in-fiction author of *The Lurkwood Campaign*
+- name: Esquiel Calvus Sandrif Fairhand the One-legged
+  type: npc
+  note: author of *Esquiel's Guide to Magic Weapons* (former Corporal of the Neverwinter
+    Watch)
+- name: Archibald Roots Junior
+  type: npc
+  note: gnome botanist; co-author of *Fey-mous Flowers and Fungi*
+- name: Archibald Roots Senior
+  type: npc
+  note: gnome botanist; co-author of *Fey-mous Flowers and Fungi*
+- name: Manshoon
+  type: npc
+  note: appears as **Manshoon's Simulacrum**
+- name: Khe'ril Hammerbind
+  type: npc
+  note: smithy; A'lai borrows a hammer from him
+- name: Nax Olossis
+  type: npc
+  note: scribe; overheard the Alkrist/Bookwyrm succession conversation
+- name: The Flying Iron Owlbear
+  type: npc
+  note: gatekeeper; uses a **Screech** attack
+- name: Animated Crossbow
+  type: npc
+  note: secondary guardian
+- name: Spanner
+  type: npc
+  note: House of Mechanus librarian; directs the 13 modrons
+- name: Fonkin
+  type: npc
+  note: Towers of Wonder; talkative gnome
+- name: Adeilina
+  type: npc
+  note: Arcanium / Hall of Divination; authoritarian high elf
+- name: Pizwog
+  type: npc
+  note: Immortal Chambers; ancient tortle (1 mph)
+- name: Thava Norixius
+  type: npc
+  note: Drakonoikos; elderly dragonborn
+- name: Gruxlug the Tiny
+  type: npc
+  note: Infernal Fortress; half-orc warlock of the fiend
+- name: Frondu
+  type: npc
+  note: Pavilion Naturalis; firbolg
+- name: Inda
+  type: npc
+  note: House of Alaundo; half-orc, secretly worships Alaundo as a deity
+- name: Alaundo the Seer
+  type: npc
+  note: the historical prophet whose 99 prophecies the Endless Chant recites
+- name: Miirym, the Sentinel Wyrm
+  type: npc
+  note: translucent ghost-dragon guardian of Candlekeep (encountered "Underneath Candlekeep")
+- name: Batbayar
+  type: npc
+  note: legendary halfling bard whose statue dominates the School of Drama
+- name: Fyrentennimar
+  type: npc
+  note: the ancient red dragon whose preserved carcass is Drakonoikos
+- name: Oghma
+  type: deity
+- name: Deneir
+  type: deity
+- name: Milil
+  type: deity
+- name: Outer Ward
+  type: location
+- name: Inner Ward
+  type: location
+  note: '**South**, **West**, **North**, **East**'
+- name: Court of Air
+  type: location
+- name: Founders Court
+  type: location
+- name: Philosopher's Court
+  type: location
+- name: The Grove
+  type: location
+- name: Exaltation
+  type: location
+- name: The High Tower
+  type: location
+- name: The High Tower Library
+  type: location
+- name: The Keeper's Tower
+  type: location
+- name: The Readers' Tower / Reader's Tower
+  type: location
+- name: The Bell Tower
+  type: location
+- name: The Ceremonial Hall
+  type: location
+- name: The Chapter House
+  type: location
+- name: The Oratory
+  type: location
+- name: The Refectory
+  type: location
+- name: The Southern Dining Hall
+  type: location
+- name: The Reading Salon
+  type: location
+  aliases:
+  - Readers' Salon
+- name: The Southern Gallery
+  type: location
+- name: The Western Gallery
+  type: location
+- name: Skyscraping Lobby
+  type: location
+- name: Lecture Theatre
+  type: location
+- name: The Sea Warden's Tower
+  type: location
+- name: The Arcanium
+  type: location
+- name: The Towers of Wonder
+  type: location
+- name: The Immortal Chambers
+  type: location
+- name: The Jewel of the Styx
+  type: location
+- name: The Old Keep
+  type: location
+- name: House of Mechanus
+  type: location
+- name: The Oak Tree Apothecary
+  type: location
+- name: The Cursed Tower
+  type: location
+- name: The House of Alaundo
+  type: location
+- name: The House of Records
+  type: location
+- name: Pillars of Pedagogy
+  type: location
+- name: Deneir's Sanctum
+  type: location
+- name: Temple of Oghma
+  type: location
+- name: The Infernal Fortress
+  type: location
+- name: Pavilion Naturalis
+  type: location
+- name: The Atheneum
+  type: location
+  note: contains **Temple of Law**, **The Echoing Hall**, **Heritage House**
+- name: Drakonoikos
+  type: location
+- name: The School of Drama
+  type: location
+- name: The Pillars of Poetry
+  type: location
+- name: The Tower of Tall Tales
+  type: location
+- name: The Hall of Momentous Deeds
+  type: location
+  note: contains **The Whispering Dome** (Words of Inspiration table)
+- name: The Melodrome
+  type: location
+  note: contains **Jook's Box**
+- name: The Astronomicon
+  type: location
+  note: contains **The Orrery** and **Stargazer**
+- name: The Oval Theatre
+  type: location
+- name: The Rotunda
+  type: location
+- name: The Emerald Door
+  type: location
+- name: Gatehouse
+  type: location
+- name: Smithy & Stables
+  type: location
+- name: The House of Rest
+  type: location
+- name: The Hearth
+  type: location
+- name: Bath House
+  type: location
+- name: Erudite Outfitters
+  type: location
+- name: The Kitchens
+  type: location
+- name: Evergreen Tree
+  type: location
+  aliases:
+  - Deadwinter Tree
+- name: Pont de Paramours
+  type: location
+- name: Underneath Candlekeep
+  type: location
+- name: Chamber of Lost Lore
+  type: location
+- name: The Lava Chamber
+  type: location
+- name: Guardian Chamber
+  type: location
+- name: The Vault
+  type: location
+- name: Side Vault
+  type: location
+  note: Book of Vile Darkness)
+- name: The Attic
+  type: location
+  note: rocket alternative)
+- name: The Feywild
+  type: concept
+- name: Nine Hells
+  type: concept
+- name: Avernus
+  type: concept
+- name: The Great Wheel
+  type: concept
+- name: Far Realm
+  type: concept
+- name: The Golden Ass
+  type: item
+  note: Daral's Deadwinter gift to Janussi)
+- name: Iron Bands of Bilarro
+  type: item
+- name: Book of Vile Darkness
+  type: item
+- name: Book of Resurrection
+  type: item
+- name: Megfry's Candlekeep Miscellanea
+  type: item
+- name: Elminster's Candlekeep Companion
+  type: item
+- name: 'The Lurkwood Campaign: How I Repelled the Savage Hordes'
+  type: item
+  note: the McGuffin Magnus sends them for)
+- name: Esquiel's Guide to Magic Weapons
+  type: item
+- name: Fey-mous Flowers and Fungi
+  type: item
+- name: 'Dragonbowl: The Legacy of the Blood Games'
+  type: item
+- name: Manuals of Bodily Health / Gainful Exercise / Iron Golems / Stone Golems /
+    Flesh Golems / Clay Golems
+  type: item
+- name: Tomes of Clear Thought / Leadership & Influence / the Stilled Tongue / Understanding
+  type: item
+- name: Midnight Tears
+  type: item
+- name: Pestilent Cloud
+  type: item
+  note: his arcane-pestilence research)
+- name: Pilar's instant summons
+  type: item
+- name: Drawmij's instant summons
+  type: item
+- name: Mordenkainen's Magnificent Mansion
+  type: item
+- name: The Avowed
+  type: faction
+- name: The Watchers
+  type: faction
+- name: Great Readers
+  type: faction
+- name: Keepers of Secrets
+  type: faction
+- name: Loremasters
+  type: faction
+- name: Master Sages
+  type: faction
+- name: Scribes
+  type: faction
+- name: Acolytes
+  type: faction
+- name: Seekers
+  type: faction
+- name: Order of the Immortal Lotus
+  type: faction
+- name: The Zhentarim
+  type: faction
+- name: House of Binder
+  type: faction
+  note: a reward perk)
+- name: Deadwinter
+  type: event
+- name: Deadwinter's Eve
+  type: event
+- name: Deadwinter Day
+  type: event
+- name: Deadwinter Supper
+  type: event
+- name: Deadwinter Gifts
+  type: event
+- name: Deadwinter Holidays
+  type: event
+- name: 2nd Claw of Winter
+  type: event
+- name: The Deadwinter Prophecy
+  type: event
+- name: The Endless Chant
+  type: event
+- name: Casketball Tournament
+  type: event
+- name: The Cryptogram
+  type: event
+- name: The Echoes of Alaundo
+  type: event
+- name: Abyssal Plague
+  type: event
+- name: The Lurkwood Campaign
+  type: event
+- name: Plinki
+  type: npc
+  aliases:
+  - Pliinki
+  note: mad derro savant guarding the obelisk
+- name: Brysis Of Khaem
+  type: npc
+  aliases:
+  - Brysis
+- name: Fargas Rumblefoot
+  type: npc
+  aliases:
+  - Fargus Rumblefoot
+- name: Naomi Pathshutter
+  type: npc
+  aliases:
+  - Nomi Pathshutter
+  note: earth elemental wrangler, Yantha's apprentice
+- name: Jadgar
+  type: npc
+  aliases:
+  - Uth Jadgar
+  - Burrow Warden Jadger
+  - Jadger
+  note: ghost veteran leading the new burrow wardens
+- name: Kaelira Duskryn
+  type: npc
+  aliases:
+  - Kaelira
+- name: Nym Duskryn
+  type: npc
+  aliases:
+  - Nym
+  note: rank-and-file drow warrior of the Velkynvelve garrison
+- name: Yuk Yuk
+  type: npc
+- name: Hepbobe
+  type: npc
+  aliases:
+  - Hepbobe Also Referred To As Hepbode
+  - Hepbode
+- name: Gorg Bahamut
+  type: npc
+  aliases:
+  - Gorg Bahamut Grog Bahamut
+  - Grog'Bahamut
+- name: Fuurm Coppernose
+  type: npc
+  aliases:
+  - Fuurm Coppernose Copper
+  - Copper
+  - Fuurm "Copper" Coppernose
+- name: Brannum Redmarch
+  type: npc
+  aliases:
+  - Brannam
+- name: Aliza Argot
+  type: npc
+- name: Baedora
+  type: npc
+- name: Beremil
+  type: npc
+- name: Bimble
+  type: npc
+- name: Bookwyrm (First Reader)
+  type: npc
+- name: Daz
+  type: npc
+- name: Diinarnnmyr
+  type: npc
+- name: Diirdeklin
+  type: npc
+- name: Dulgir
+  type: npc
+- name: Elbeth
+  type: npc
+- name: Eldgrim
+  type: npc
+- name: Elian
+  type: npc
+  aliases:
+  - Eliana
+  - Ilian
+- name: Entemoch
+  type: npc
+- name: Flumph
+  type: npc
+- name: Gerdig Katfinger
+  type: npc
+- name: Grimgrim
+  type: npc
+- name: Grimholl Forgebrand
+  type: npc
+- name: Grinta Ironhead
+  type: npc
+- name: Grogluk
+  type: npc
+- name: Gru Manga
+  type: npc
+- name: Grygum
+  type: npc
+- name: Khaem
+  type: npc
+- name: Khell-Vire
+  type: npc
+- name: King Hekaton
+  type: npc
+- name: Korrh Erann
+  type: npc
+- name: Lingrick Xardelvar
+  type: npc
+- name: Milo Goodbarrel
+  type: npc
+- name: Ogremoch
+  type: npc
+- name: Philemon (Master Archivist)
+  type: npc
+- name: Protanther
+  type: npc
+- name: Rihaud
+  type: npc
+- name: Runc
+  type: npc
+- name: Rusharoo
+  type: npc
+- name: Rust
+  type: npc
+- name: Sister Yvenne
+  type: npc
+- name: Skiit
+  type: npc
+- name: Spiderbait
+  type: npc
+- name: Starlace
+  type: npc
+- name: Stroud
+  type: npc
+- name: Tarngardt
+  type: npc
+- name: Tarvis Ulain
+  type: npc
+- name: Thangus Ironhead
+  type: npc
+- name: The Blind Monk (Candlekeep)
+  type: npc
+- name: The Garden Shadow
+  type: npc
+- name: The House T'sarran Spy (Princess Ebonmire)
+  type: npc
+- name: The Matron Mother of House T'sarran
+  type: npc
+- name: Thorin
+  type: npc
+- name: Topsy and Turvy
+  type: npc
+- name: Ulnara
+  type: npc
+- name: Valen
+  type: npc
+- name: Valimor Brightgem
+  type: npc
+- name: Vareth
+  type: npc
+- name: Welnaste Mizzrym
+  type: npc
+- name: Whisperwind
+  type: npc
+- name: Zalthir
+  type: npc
+distinct:
+- - Topsy
+  - Turvy
+rejected_aliases:
+- - Shoor Vandree
+  - Stool
+- - Aliinka
+  - Plinki
+- - Elbeth
+  - Eldeth Feldrun
+- - Ilvara Mizzrym
+  - Ulnara
+- - Princess Ebonmire
+  - The House T Sarran Spy Princess Ebonmire
+- - Khaem
+  - Brysis Of Khaem
