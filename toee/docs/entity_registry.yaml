@@ -1,0 +1,3214 @@
+version: 1
+campaign: toee
+entities:
+- name: Belsornig
+  type: npc
+  aliases:
+  - Canon Belsornig
+  - Prophet of Water
+  - Canon Belsoring
+  - Belsoring
+  note: priest named as a possible target of Kelno's poisoned dagger of venom, tied
+    to area 215
+- name: Calmert
+  type: npc
+  aliases:
+  - calmer
+  note: underpriest/assistant cleric who tends the church's bells, chimes, and gongs;
+    hides a platinum lump in his chamber
+- name: Kelno
+  type: npc
+  aliases:
+  - Kelno the Prefect
+  note: embittered sole surviving cleric and prefect of the Air Temple, bargains for
+    profit against his rivals
+- name: Lareth the Beautiful
+  type: npc
+  aliases:
+  - Larith The Beautiful
+  - Larith
+  - Lareth
+  note: villain leader of the ruined moat-house, presumably defeated by prior adventurers
+- name: Prefect Alrrem
+  type: npc
+  aliases:
+  - Alrrem
+  - Prophet of Fire
+  - Alremm
+  note: human chief cleric of the Fire Temple, writing an ultimatum to Romag
+- name: Terjon
+  type: npc
+  aliases:
+  - Prefect Terjon
+  note: chief priest who keeps the church's funds in a locked iron coffer under his
+    bed
+- name: Otis
+  type: npc
+  aliases:
+  - Master Smith
+  note: village smith posing as an ex-mercenary, secretly a Level 10 ranger knight
+    serving Furyondy and Veluna
+- name: Robilar
+  type: npc
+  aliases:
+  - Lord Robilar
+  note: adventurer from the original Greyhawk Campaign who assaulted the Temple alone
+    via flying carpet, sacked much of it, and fled with Good forces in pursuit
+- name: Sir Robilar
+  type: npc
+  note: referenced only via his heraldic symbol (green dragon on yellow field) on
+    Ashrem's scavenged shield
+- name: Tenser
+  type: npc
+  note: led the army of enraged Good folk that pursued Robilar and confronted the
+    Temple's aftermath
+- name: Countess Trillahi of Celene
+  type: npc
+  aliases:
+  - Trillahi
+  note: noble elf imprisoned by the Water Temple, promises rewards if rescued
+- name: Jolene of Veluna
+  type: npc
+  note: Noble Ladyship to whom Prince Thrommel pledges himself in marriage
+- name: Sir Juffer
+  type: npc
+  note: noble elf consort of Trillahi, imprisoned alongside her
+- name: Viscount Wilfrick
+  type: npc
+  aliases:
+  - the Viscount of Verbobonc
+  - Viscount of Verbobonc
+  note: noble ruler of the Viscounty of Verbobonc
+- name: Ashrem
+  type: npc
+  note: bitter old former chief cleric of the air temple, betrayed by his brother
+    Alrrem and sacrificed, now scavenges the nodes seeking revenge
+- name: Darley
+  type: npc
+  note: disguised alu-fiend posing as a friendly magic-user, once part of a fiendish
+    faction defeated and scattered by Iuz
+- name: Sargen
+  type: npc
+  note: insane mage imprisoned and cast into the nodes over philosophical differences
+    with the Temple; believes everyone a fiend
+- name: Gremag
+  type: npc
+  note: tall thin partner of Rannos Davl, fussy, Level 7 Assassin and servant of the
+    Temple of Elemental Evil
+- name: Smigmal Redhand
+  type: npc
+  aliases:
+  - Smigmal
+  - Commander of the Outer Defenses
+  - Lady Eryndel
+  - Shadow of the Temple
+  note: fighter-assassin wielding a poisoned shortsword, carries a ring of spell storing
+    (invisibility)
+- name: Dala
+  type: npc
+  aliases:
+  - Dela
+  - dalia
+  note: barmaid at the Waterside Hostel, Level 3 Thief and Dick Rentsch's lover
+- name: Pearl
+  type: npc
+  note: barmaid at the Waterside Hostel, Level 3 Thief
+- name: Barkinar
+  type: npc
+  aliases:
+  - Commander of Greater Temple Troops
+  - Commander of the Greater Temple's Troops
+  - The Grand Marshal
+  - Commander Barkinar
+  note: cleric/commander of the Temple Troops, rose through treacherous maneuvers,
+    patient and scheming
+- name: Deggum
+  type: npc
+  aliases:
+  - Deggum, Commander of the Temple Guards
+  - Deggum, Security Commander of the Temple
+  - Deggum, Temple Recruiter
+  - Master of Security
+  - Security Commander
+  - Commander Deggum
+  note: half-elf renegade from Welkwood, commander of the Temple Guards, tutored by
+    Hedrack and Senshock
+- name: Jaroo Ashstaff
+  type: npc
+  aliases:
+  - Jaroo
+  - Druid of the Grove
+  note: druid of the Grove, Level 7, agent of the Druids of Gnarley Wood, keeps a
+    huge black bear companion
+- name: Ostler Gundigoot
+  type: npc
+  aliases:
+  - Gundigoot
+  - Ostler Goodingoat
+  - Ostler Goodingoot
+  - Osler Goodingoat
+  - Osler Goodingut
+  - Ostler Goodingoot Osler Goodingut
+  - Ostler
+  note: proprietor/innkeeper of the Welcome Wench Inn
+- name: Otiluke
+  type: npc
+  note: legendary wizard invoked only as the namesake of freezing sphere; does not
+    appear
+- name: Rary
+  type: npc
+  note: legendary wizard invoked only as the namesake of mnemonic enhancer; does not
+    appear
+- name: Y'dey
+  type: npc
+  aliases:
+  - Mother Screng
+  - Canoness Y'dey
+  note: individual, cross-referenced to the Nulb encounter key, who alone knows of
+    the chief priest's hidden mantle cache
+- name: Commander Feldrin
+  type: npc
+  aliases:
+  - Feldrin
+  - Commander Guards and Supply Chains
+  - The Butcher of Nulb
+  note: bandit leader (statted as an assassin/sharper) who fights alongside his troops
+    unless defeat looms
+- name: Lieutenant Brunk
+  type: npc
+  aliases:
+  - Brunk
+  note: half-orc bandit lieutenant who covertly desires Feldrin's death and command
+- name: Lodriss
+  type: npc
+  note: barmaid who is actually the owner of the Boatmens' Tavern and mistress to
+    Tolub
+- name: Wat
+  type: npc
+  note: barman at the Waterside Hostel, Level 3 Assassin serving the Temple's Fire
+    priests
+- name: Hartsch
+  type: npc
+  aliases:
+  - Harch
+  - Harch Hartsch
+  - Earth Pretender
+  - The Earth Pretender
+  note: adept serving Romag, watches the peep hole and bars the south door
+- name: Grank
+  type: npc
+  note: cleric who leads the seven surviving bandits by right of his healing/harming
+    spells
+- name: Juggernaut
+  type: npc
+  note: named unique construct/monster, Appendix B
+- name: Zuggtmoy
+  type: npc
+  aliases:
+  - Demoness Lady of Fungi
+  - Zyggtmoy
+  - Zyggmoy
+  note: unique demon lord/fiend, ruler of a layer of the Abyss, currently bound beneath
+    the Temple
+- name: Orcus
+  type: npc
+  note: demon prince rumored to be Iuz's father via cambion lineage
+- name: Kella
+  type: npc
+  note: half-elf druid spy disguised as the hill giant Scorpp, reports to the Old
+    Faith
+- name: Romag
+  type: npc
+  aliases:
+  - High Priest of the Black Earth Temple
+  - High Priest of the Earth Temple
+  - Prophet of Earth
+  - Romag, Earth Temple Priest
+  note: L4 curate and priest of the Earth Elemental Temple, wears chain mail +2, wields
+    mace +1
+- name: Kobort
+  type: npc
+  note: hulking fighter partnered with Turuko, plans to ambush returning adventurers
+- name: Zert
+  type: npc
+  note: Chaotic Evil fighter posing as a caravan guard, secretly a spy for the Temple
+- name: Taki
+  type: npc
+  note: seven-foot-tall fighter separated from his party in the Greater Temple, survives
+    by brute force and wary alliances
+- name: Hruda
+  type: npc
+  aliases:
+  - Murfles
+  note: Mother Screng's daughter, secretly Murfles, Otis' follower and Level 2/2 elven
+    Fighter/Thief
+- name: Wonnilon
+  type: npc
+  note: gnome Level 4/4 fighter/thief prisoner chained in cell e, possibly recruitable
+- name: Black Jay
+  type: npc
+  note: grizzled retired-warrior herdsman whose wife and children were slain in a
+    raid; friendly with the elves to the northwest
+- name: Scorpp
+  type: npc
+  note: hill giant self-styled king ruling enslaved bugbears and ogres in area 318
+- name: Dick Rentsch
+  type: npc
+  aliases:
+  - Dick
+  - Rentsch
+  note: hostler of the Waterside Hostel, Level 5 Fighter swashbuckler reporting to
+    the Temple's Earth priests
+- name: Goodwife Gundigoot
+  type: npc
+  note: Gundigoot's wife, oversees the kitchen and children
+- name: Rufus
+  type: npc
+  note: Lawful Good Level 6 Fighter, commander of the village troops, council member,
+    will return to Verbobonc for special service at 8th level
+- name: Falrinth
+  type: npc
+  aliases:
+  - Keeper of the Orb of Golden Death
+  - Master Wizard, Keeper of the Orb of Golden Death
+  - Rival Wizard and Keeper of the Orb of Golden Death
+  - Rogue Wizard
+  note: mage with magic resistance and regeneration, travels with his quasit familiar
+- name: Iggwilv
+  type: npc
+  note: Iuz's mother, believed lost in the Abyss, sought by him
+- name: Rannos Davl
+  type: npc
+  aliases:
+  - ranos_davl
+  note: rotund trading-post proprietor, chaotic evil, Level 10 Thief and servant of
+    the Temple of Elemental Evil
+- name: Mytch
+  type: npc
+  note: the miller (area 22), member of the village elder's council
+- name: Nira Melubb
+  type: npc
+  aliases:
+  - Melubb
+  - Melubb the Moneychanger
+  note: truly neutral moneychanger and gem dealer, Level 3 Thief, keeps a trapped
+    treasure chest
+- name: Turuko
+  type: npc
+  note: small Bakluni monk partnered with Kobort
+- name: Lubash
+  type: npc
+  note: ogre lured into service of the New Master with baubles and promise of human
+    meat; lairs in room 24
+- name: Quij
+  type: npc
+  note: Robilar's orc aide, left to guard the transport device and griffons while
+    Robilar entered the Temple
+- name: Prince Thrommel
+  type: npc
+  note: Paladin Lord held in magical stasis, disguised by illusion as a vampire corpse
+- name: Grud Squinteye
+  type: npc
+  aliases:
+  - Grud
+  note: Tolub's lieutenant, commands an identical pirate crew, Level 6 Fighter
+- name: Charlie
+  type: npc
+  note: human prisoners' friend, slain and eaten by fellow captives in area 319
+- name: Kriitch
+  type: npc
+  aliases:
+  - Kriitch the Quasit
+  note: quasit familiar bonded to Falrinth, grants him advantage on Intelligence checks
+    within a mile
+- name: Hedrack
+  type: npc
+  aliases:
+  - Commander Hedrack
+  - Mouth of Iuz
+  - Agent of Iuz, the Elder Elemental Eye
+  - Iuz's Emissary
+  - Supreme Commander Hedrack
+  - the Mouth of Iuz
+  - Supreme Commander
+  note: Supreme Commander of the Temple, based at area 417, whom Smigmal and Falrinth
+    report to
+- name: Skole
+  type: npc
+  note: proprietor of the Boatmens' Tavern, ex-riverman/smuggler and Level 5 Fighter
+    swashbuckler
+- name: Furnok of Ferd
+  type: npc
+  note: cheating gambler and self-styled 'treasure finder'
+- name: Oohlgrist
+  type: npc
+  note: cunning, wily troll chieftain courted by rival Fire and Water Temple factions
+- name: Belstro
+  type: npc
+  note: named in a note found in area 128, suspected of lying about something checkable
+    in the Augury Chamber
+- name: Elmo
+  type: npc
+  note: farmer's son posing as a drunk man-at-arms; secretly a 4th-level ranger and
+    agent of the Viscount of Verbobonc, carries a dagger +2 gift from his brother
+    Otis
+- name: Jaer
+  type: npc
+  note: former Nulb weaver turned reluctant bandit, now survives in the nodes making
+    improvised gear and 'fire balls'
+- name: Senshock
+  type: npc
+  aliases:
+  - Lord Wizard
+  note: 9th-level mage defending the main altar, privy to secrets of Iuz, has a secret
+    retreat in Verbobonc
+- name: Burne
+  type: npc
+  aliases:
+  - His Most Worshipful Mage of Hommlet
+  note: early Greyhawk Campaign veteran associated with founding Hommlet-area adventures;
+    later joined the army against the Temple
+- name: Splot
+  type: npc
+  note: Scorpp's pet worg
+- name: Allitur
+  type: deity
+  note: lesser god of ethics and propriety
+- name: Atroa
+  type: deity
+  note: lesser goddess of spring and the east wind
+- name: Beltar
+  type: deity
+  note: lesser goddess of malice, pits, and deep caves
+- name: Beory
+  type: deity
+  note: greater goddess of nature, the Oerth Mother, and rain
+- name: Berei
+  type: deity
+  note: lesser goddess of home, family, and agriculture
+- name: Bleredd
+  type: deity
+  note: lesser god of metal, mines, and smiths
+- name: Boccob
+  type: deity
+  note: greater god of magic and arcane knowledge
+- name: Bralm
+  type: deity
+  note: lesser goddess of insects and industriousness
+- name: Celestian
+  type: deity
+  note: lesser god of stars, space, and wanderers
+- name: Delleb
+  type: deity
+  note: lesser god of reason and intellect
+- name: Ehlonna
+  type: deity
+  note: lesser goddess of forests, flowers, and meadows; favored by local druidical
+    folk
+- name: Erythnul
+  type: deity
+  note: lesser god of hate, envy, malice, and panic
+- name: Fharlanghn
+  type: deity
+  note: lesser god of horizons, distance, and travel
+- name: Fortubo
+  type: deity
+  note: lesser god of stone, metals, and mountains
+- name: Geshtai
+  type: deity
+  note: lesser goddess of lakes, rivers, and wells
+- name: Heironeous
+  type: deity
+  note: lesser god of chivalry, honor, justice, and valor
+- name: Hextor
+  type: deity
+  note: lesser god of war, discord, and massacre
+- name: Incabulos
+  type: deity
+  note: greater god of evil, plagues, and nightmares
+- name: Istis
+  type: deity
+  note: greater goddess of fate and destiny
+- name: Iuz
+  type: deity
+  note: demigod of oppression, deceit, and pain; cambion-like ruler of a cursed domain
+    from Molag, enemy of St. Cuthbert
+- name: Joramy
+  type: deity
+  note: lesser goddess of fire, volcanoes, anger, and quarrels
+- name: Kord
+  type: deity
+  note: greater god of athletics, sports, and brawling
+- name: Kurell
+  type: deity
+  note: lesser god of jealousy, revenge, and thievery
+- name: Lendor
+  type: deity
+  note: greater god of time and tedium
+- name: Lirr
+  type: deity
+  note: lesser goddess of prose, poetry, and art
+- name: Llerg
+  type: deity
+  note: lesser god of beasts and strength
+- name: Lolth
+  type: deity
+  note: demoness who gifted the familiar Kriitch and favors an ebony statuette shrine
+- name: Lydia
+  type: deity
+  note: lesser goddess of music, knowledge, and daylight
+- name: Myhriss
+  type: deity
+  note: lesser goddess of love and beauty
+- name: Nerull
+  type: deity
+  note: greater god of death, darkness, and the underworld
+- name: Norebo
+  type: deity
+  note: lesser god of luck, gambling, and risk
+- name: Nystul
+  type: deity
+  note: wizard referenced only via the spell name "Nystul's magic aura" on Burne's
+    staff; not otherwise present
+- name: Obad-Hai
+  type: deity
+  note: lesser god of nature, wildlands, freedom, and hunting; favored by local druidical
+    folk
+- name: Olidammara
+  type: deity
+  note: lesser god of music, revelry, roguery, and wine
+- name: Pelor
+  type: deity
+  note: greater god of the sun, strength, light, and healing
+- name: Phaulkon
+  type: deity
+  note: lesser god of air, winds, and clouds
+- name: Pholtus
+  type: deity
+  note: lawful deity honored by a silver idol in the Chapel (area 333)
+- name: Phyton
+  type: deity
+  note: lesser god of beauty and nature
+- name: Procan
+  type: deity
+  note: greater god of oceans, seas, and salt
+- name: Pyremius
+  type: deity
+  note: lesser god of fire, poison, and murder
+- name: Ralishaz
+  type: deity
+  note: lesser god of chance, ill-luck, and misfortune
+- name: Rao
+  type: deity
+  note: greater god of peace, reason, and serenity
+- name: Rudd
+  type: deity
+  note: demigoddess of chance, good luck, and skill
+- name: Sotillion
+  type: deity
+  note: lesser goddess of summer, south wind, ease, and comfort
+- name: St. Cuthbert
+  type: deity
+  note: deity followed by many Hommlet villagers (weaver, tailor, potter, teamster,
+    carpenter, one braumeister apprentice); Burne is also a follower
+- name: Syrul
+  type: deity
+  note: lesser goddess of deceit, false promises, and lies
+- name: Telchur
+  type: deity
+  note: lesser god of winter, north wind, and cold
+- name: Tharizdun
+  type: deity
+  note: greater god of eternal dark, decay, and malign knowledge
+- name: the Nameless One
+  type: deity
+  note: dark power exalted in the throne-room inscription, raised high by the power
+    of elemental death
+- name: Trithereon
+  type: deity
+  note: lesser god of individuality, liberty, and retribution
+- name: Ulaa
+  type: deity
+  note: greater goddess of hills, mountains, and gemstones
+- name: Velnius
+  type: deity
+  note: lesser god of sky and weather
+- name: Wastri
+  type: deity
+  note: demigod of bigotry and amphibians
+- name: Wee Jas
+  type: deity
+  note: greater goddess of magic and death
+- name: Wenta
+  type: deity
+  note: lesser goddess of autumn, west wind, and harvest
+- name: Xan Yae
+  type: deity
+  note: lesser goddess of twilight, shadows, and stealth
+- name: Xerbo
+  type: deity
+  note: lesser god of the sea and water travel
+- name: Zagyg
+  type: deity
+  note: demigod of humor, occult studies, and eccentricity
+- name: Zilchus
+  type: deity
+  note: greater god of power, prestige, influence, money, and business
+- name: Zodal
+  type: deity
+  note: lesser god of mercy, hope, and benevolence
+- name: Zuoken
+  type: deity
+  note: demigod of physical and mental mastery
+- name: Broken Tower
+  type: location
+  aliases:
+  - The Broken Tower
+  note: outer ruins whose escape tunnel connects to area 335
+- name: Gnarley Wood
+  type: location
+  note: forest home of the druid order Jaroo Ashstaff serves
+- name: Greyhawk
+  type: location
+  note: the WORLD OF GREYHAWK Fantasy World Setting recommended as the campaign's
+    backdrop
+- name: High Road
+  type: location
+  note: road connecting Hommlet and Nulb
+- name: Oerik Continent
+  type: location
+  note: the western continent containing the Flanaess
+- name: Oerth
+  type: location
+  note: the Prime Material world of this campaign setting
+- name: The Welcome Wench Inn
+  type: location
+  note: the inn whose rooms this section details
+- name: Upper Temple
+  type: location
+  note: the temple structure above this dungeon level, reached via stairway 109a
+- name: Velverdyva
+  type: location
+  note: river feeding trade into Nulb via Imeryds Run
+- name: Village of Hommlet
+  type: location
+  note: settlement where a TZGY scarab was reportedly found among evil traders
+- name: Water Elemental Temple
+  type: location
+  note: rival elemental cult's temple, referenced but not depicted in this section
+- name: Welkwood
+  type: location
+  note: homeland of the half-elf people Deggum abandoned
+- name: World of Greyhawk
+  type: location
+  note: named campaign setting encompassing Oerth and the Flanaess
+- name: Lowroad
+  type: location
+  note: road running along the river's south bank
+- name: Sobanwych
+  type: location
+  note: village roughly halfway along the eastern route
+- name: Wild Coast
+  type: location
+  aliases:
+  - The Wild Coast
+  note: coastal frontier region including Woolly Bay and the Sea of Gearnat
+- name: Anteroom
+  type: location
+  note: area 133; guarded hall with a wire alarm to area 134
+- name: Augury Chamber
+  type: location
+  note: area 143; chamber with a mystic-counter augury ritual seat
+- name: Banquet Hall
+  type: location
+  note: area 119; large ruined hall, site of a past battle
+- name: Bronze Door
+  type: location
+  note: area 141; rune-warded portal sealing a cleric crypt
+- name: Cells
+  type: location
+  note: area 150; gaol cells, including zombie-occupied decoy cells and Wonnilon's
+    cell
+- name: Corridor of Bones
+  type: location
+  note: area 125; bone-strewn corridor concealing a skeleton ambush trap
+- name: Exhaulted Chamber of High Augury
+  type: location
+  note: title carved above the archway linking the Black Chamber and Augury Chamber
+- name: Frescoed Corridor
+  type: location
+  note: area 109; painted passage sloping down toward Dungeon Level Two
+- name: Guard Room
+  type: location
+  note: area 149; barracks with weapon racks and pit-trap flooding controls
+- name: Hall of Triangles
+  type: location
+  note: area 144; marble corridor with an inlaid triangular path
+- name: Hexagonal Room
+  type: location
+  note: area 132; ruined throne room infested with stirges, hiding a ring of shooting
+    stars
+- name: Lounge
+  type: location
+  note: area 135; off-duty guard barracks
+- name: Meditation Room
+  type: location
+  note: area 140; cult contemplation chamber
+- name: Pillared Hall
+  type: location
+  note: area 103; harpy lair with a delayed grate trap and a secret door
+- name: Pit Chamber
+  type: location
+  note: area 146; tilting-walkway trap dropping victims into a giant-rat-infested
+    pit
+- name: Secret Corridor
+  type: location
+  note: area 151; hidden passage housing the turnkey's alcove and stash
+- name: Sleeping Apartment
+  type: location
+  note: area 137; Romag's and Hartsch's quarters
+- name: Spiral Stair
+  type: location
+  note: area 153; clockwise staircase descending to Dungeon Level Two
+- name: Torture Chamber
+  type: location
+  note: area 152; the turnkey's and bugbear's torture room
+- name: Alchemy Workroom
+  type: location
+  note: area 329, circular alchemical laboratory
+- name: Black Room
+  type: location
+  note: area 324, black stone chamber housing eight more shadows
+- name: Bronze Pit
+  type: location
+  note: area 309, bronze-sheathed pit and octagonal chamber with a hidden ladder trap
+- name: Chamber of Eyes
+  type: location
+  note: area 314, triangular room painted with eyes and the Eye of Fire symbol
+- name: Chamber of Statues
+  type: location
+  note: area 311, circular room of nine monstrous statues guarded by will-o'-wisps
+- name: Chapel
+  type: location
+  note: area 333, false shrine of Good meant to deceive paladins and clerics
+- name: Circular Shaft
+  type: location
+  note: area 313, disused chamber with a hidden trap door
+- name: Dining Salon
+  type: location
+  note: area 327, stripped-bare dining room
+- name: Domed Hexagonal Chamber
+  type: location
+  note: area 301, guarded chamber with stairs up to Level Two
+- name: Earth-Floored Area
+  type: location
+  note: area 312, fungus garden tended by a lamia
+- name: East Room
+  type: location
+  note: area 337a, trapped workroom off area 337
+- name: Greater Temple
+  type: location
+  note: central command headquarters of current Temple operations, seated at area
+    419
+- name: Grotto
+  type: location
+  note: area 307, leucrotta den styled as a natural cave
+- name: Hall of Armored Skeletons
+  type: location
+  note: area 322, corridor lined with armored skeleton guardians/trophies
+- name: Hall of Black Feasting
+  type: location
+  note: area 321, deserted banquet hall decorated with feast scenes of undead
+- name: Hexagonal Chamber
+  type: location
+  note: area 315, quarters for six bugbears
+- name: Hidden Room
+  type: location
+  note: area 338, Falrinth's true laboratory and treasure vault
+- name: Inky Chamber
+  type: location
+  note: area 334, dark hexagonal room concealing Prince Thrommel's stasis coffin
+- name: Kitchen
+  type: location
+  note: area 120; ruined kitchen lairing a giant poisonous snake
+- name: Museum Room
+  type: location
+  note: area 332, trophy room guarded by a lurker above
+- name: Northern Alcove
+  type: location
+  note: area 330a, tool alcove off the Alchemy Workroom
+- name: Opulent Bedchamber
+  type: location
+  note: area 326, banshee-haunted bedroom holding a mummified elf
+- name: Pleasure Chamber
+  type: location
+  note: area 318, Scorpp's lair
+- name: Scarlet Room
+  type: location
+  note: area 323, red chamber housing eight shadows
+- name: Secret Passage
+  type: location
+  note: area 335, illusory-basilisk passage linking areas 313 and the Broken Tower
+- name: South Room
+  type: location
+  note: area 337, Falrinth's decoy study
+- name: Southern Alcove
+  type: location
+  note: area 330b, dissection room holding an unfinished flesh construct
+- name: Square Chamber
+  type: location
+  note: area 306, ettin's lair with four locked iron doors
+- name: Storage Area
+  type: location
+  note: area 328, former alchemist's supply room
+- name: Storeroom
+  type: location
+  note: area 331, emptied mundane storage now used as a bone-pile
+- name: Sunlit Room
+  type: location
+  note: area 310, illusion-filled room with disguised gargoyles and jackalweres
+- name: The Greater Temple (419)
+  type: location
+  note: vast central ceremonial hall with altar, statues of Iuz and Zuggtmoy, guarded
+    by gargoyles
+- name: Barracks (408)
+  type: location
+  note: doorless communal lair of a dozen bugbear troops
+- name: Common Room (405)
+  type: location
+  note: mess hall/lounge for ogre and bugbear troops
+- name: Common Room (410)
+  type: location
+  note: west barracks common room, lair of a paranoid ettin at night
+- name: East Water Gate (431)
+  type: location
+  note: submerged room housing the permanent gate to the Water Node
+- name: East Wing (402)
+  type: location
+  note: troll sentry barracks guarding commanders' quarters
+- name: Foyer (430)
+  type: location
+  note: ceremonial antechamber before the sunken water pool area
+- name: Green Corridor (429)
+  type: location
+  note: aquamarine-themed corridor decorated with water-motif murals
+- name: Hedrack's Quarters
+  type: location
+  note: lavish private chambers of Commander Hedrack, area referenced as 417
+- name: Inner Chamber (433)
+  type: location
+  note: room behind the altar curtain holding lesser altars and warded treasure chests
+- name: Large Room (414)
+  type: location
+  note: quarters of four hill giants, one an impostor (Kella)
+- name: Light Chamber (435)
+  type: location
+  note: magical pillar of light containing Zuggtmoy's silver throne
+- name: Nexus (434)
+  type: location
+  note: round gem-mosaic chamber housing the pillar of light to area 435
+- name: North Storeroom (411)
+  type: location
+  note: provisions room with a secret door behind a crate
+- name: Promenade (401)
+  type: location
+  note: stairway landing with murals of fiends, guarded by troll during alerts
+- name: Promenade (418)
+  type: location
+  note: grand corridor linking the wings to the Greater Temple, guarded during alerts
+- name: Room 406 (406a-406e)
+  type: location
+  note: ogre troop quarters; 406e houses the bugbear chief and sub-chief
+- name: Room 407
+  type: location
+  note: lair of the ogre chieftain, two leaders, and the shaman/cook
+- name: Secret Room (412)
+  type: location
+  note: hidden storeroom sheltering two disguised prisoners
+- name: South Storeroom (413)
+  type: location
+  note: provisions room identical to area 411
+- name: Study (403)
+  type: location
+  note: shared quarters of commanders Barkinar and Deggum, with secret door to 404
+- name: West Fire Gate (428)
+  type: location
+  note: gate room sending intruders to a random point on the Elemental Plane of Fire
+- name: West Water Gate (432)
+  type: location
+  note: identical gate room sending intruders to a random point on the Elemental Plane
+    of Water
+- name: West Wing (409)
+  type: location
+  note: troll sentry barracks guarding the high commander's area
+- name: Audience Chamber
+  type: location
+  note: area 206, lavish Fire Temple reception hall guarded by a gladiator commander
+- name: Cistern Chamber
+  type: location
+  note: area 236, slippery algae-covered water reservoir hiding a shield +2
+- name: Crooked Corridor
+  type: location
+  note: area 242, black-clad guard barracks with a spiked-beam trap on a secret door
+- name: Garbage Room
+  type: location
+  note: area 108; trash-filled room infested with giant rats
+- name: Great Bronze Gate
+  type: location
+  note: area 201, massive bronze portal barring the northern passage, opened only
+    by three knock spells
+- name: Grim Chamber
+  type: location
+  note: area 225, Kelno's austere gray residence
+- name: Hall of Triumphal Evil
+  type: location
+  note: area 227, ruined revel hall leading to the antipathy-warded stair to Level
+    Three
+- name: Hall of Verdigris
+  type: location
+  note: area 213, Water Temple hall with fountain, altar, and juggernaut idol guardian
+- name: Junk Room
+  type: location
+  note: area 240, storage of sorted secondhand clothing, watched by a hidden guard
+- name: Pearlescent Room
+  type: location
+  note: area 207, white-marble chamber housing the deceptive crystal Window
+- name: Pool Chamber
+  type: location
+  note: area 216, Water Temple's central chamber housing an intelligent acid pool
+    creature
+- name: Prison Room
+  type: location
+  note: area 228, neutral gaol holding cells for the four elemental factions' captives
+- name: Processional Corridor
+  type: location
+  note: area 209, painted passage of ceremonial brass doors between cult chambers
+- name: Room of Bones
+  type: location
+  note: area 219, troll chief Oohlgrist's bone-decorated quarters
+- name: Room of the Elements
+  type: location
+  note: area 231, black-clad bugbear guardpost decorated with elemental evil imagery
+- name: Temple of Fire
+  type: location
+  note: area 212, the Fire Temple's main sanctum with altar, cauldrons, and fire pit
+- name: Dungeon Level Four
+  type: location
+  note: dungeon level from which the Greater Temple's forces operate
+- name: Earth Burrows
+  type: location
+  note: dark, damp cave-dungeon complex comprising the Earth Node's rooms/corridors
+    (areas E1-E24)
+- name: Blackmoor
+  type: location
+  note: legendary northern land, source region of the Velverdyva
+- name: Burneal Forest
+  type: location
+  note: northern forest, one source of the Velverdyva
+- name: Azure Sea
+  type: location
+  note: great sea south of the Kron Hills region
+- name: Celene
+  type: location
+  note: elven realm/kingdom, homeland of the imprisoned noble elves
+- name: Furyondy
+  type: location
+  note: kingdom whose arms and crown badge are associated with Prince Thrommel
+- name: Kron Hills
+  type: location
+  note: hill range north of Hommlet, home to nearly 20,000 gnomes
+- name: Nyr Dyv
+  type: location
+  note: lake/body of water on whose shores the cult originally flourished
+- name: Veluna
+  type: location
+  note: place referenced in the title of a legal/religious tome in the church library
+- name: Velverdyva River
+  type: location
+  note: river running along the northern portion of the campaign map area
+- name: Greenway Valley
+  type: location
+  note: valley about a day's travel west of Hommlet
+- name: Burne's Chamber
+  type: location
+  note: GT 6; Burne's spartan room doubling as magical workshop
+- name: Dungeon or Cellar Level
+  type: location
+  note: GT 3; stables and prisoner cells with a secret door to a natural cave
+- name: Hall and Ladderway
+  type: location
+  note: GT 4; access point to upper levels via retractable wooden stairs
+- name: Lower Level
+  type: location
+  note: GT 2; ground-level supply storage area
+- name: Main Hall
+  type: location
+  note: GT 1; entry level with drawbridge, judgement hall, and feast tables
+- name: Parapet Level
+  type: location
+  note: tower level containing the hall, mercenary officers' rooms, and parapet
+- name: Rufus' Chamber
+  type: location
+  note: GT 5; Rufus' well-furnished private room
+- name: Turret Level
+  type: location
+  note: GT 11; racked pallets for men-at-arms
+- name: Turret Roof
+  type: location
+  note: GT 12; machicolated roof with scorpions and flaming-missile supplies
+- name: Upper Level
+  type: location
+  note: tower level containing the hall/ladderway and Burne's and Rufus' chambers
+- name: Church of St. Cuthbert
+  type: location
+  note: the temple building being detailed (Area 20), housing clergy and worship halls
+- name: Guard Tower
+  type: location
+  note: Area 31; a multi-level fortified tower with dungeon, hall, chamber, parapet,
+    and turret levels
+- name: Hommlet moathouse
+  type: location
+  note: ruin where Lareth once operated, referenced as Deggum's recruiter
+- name: Inn of the Welcome Wench
+  type: location
+  note: inn used as a price comparison for the Waterside Hostel
+- name: the Grove
+  type: location
+  note: druidic sanctuary where Jaroo can be visited for shelter and advice
+- name: Trading Post
+  type: location
+  note: village shop area, Area 13, sells general goods and dungeoneering equipment
+- name: Molag
+  type: location
+  note: cursed city from which Iuz rules his territory
+- name: Pool
+  type: location
+  note: weedy pool lair of giant frogs
+- name: Empty Bedchamber
+  type: location
+  note: wrecked quarters of a former troop leader or official
+- name: Salon
+  type: location
+  note: once-opulent room now infested with bats
+- name: Corner Room
+  type: location
+  note: brigand-shunned room, lair of a huge adder
+- name: Rotting Drawbridge
+  type: location
+  note: collapsed drawbridge crossing, weak for mounts
+- name: Broken Gates
+  type: location
+  note: shored-closed entry gate area
+- name: Tower
+  type: location
+  note: exterior/interior location, Part 2 chapter heading
+- name: Littered Steps
+  type: location
+  note: staircase up to the house portion of the fortress
+- name: Great Hall
+  type: location
+  note: Zuggtmoy's throne room, holds the gate-device to her Abyssal Plane and the
+    secret treasure niche
+- name: Black Chamber
+  type: location
+  note: area 142; polished black star-vaulted chamber leading to the Augury Chamber
+- name: Stairway Up
+  type: location
+  note: rubble-choked stair, impassable to the collapsed upper floor
+- name: Littered Room
+  type: location
+  note: former conference chamber holding a hidden broadsword
+- name: Moathouse
+  type: location
+  aliases:
+  - the moat-house
+  - the ruined moat house
+  - The Ruins of the Moathouse
+  note: ruined fortification with upper and dungeon levels
+- name: Nulb
+  type: location
+  note: location whose separate encounter key cross-references Y'dey's knowledge of
+    the hidden cache
+- name: the Temple
+  type: location
+  note: referenced as the former owner of the surrounding lands, implying evil practices
+- name: Imeryds Run
+  type: location
+  note: small river/tributary feeding the Velverdyva near Nulb
+- name: Ruins of Elemental Evil
+  type: location
+  note: ruined stronghold, primary dungeon site of the adventure
+- name: Temple of Elemental Evil
+  type: location
+  aliases:
+  - the Temple (of Elemental Evil)
+  note: dungeon complex where Fragarach was hidden, guarded by elemental grues; site
+    of the great throne
+- name: Clatspur range
+  type: location
+  note: mountain range feeding the Velverdyva alongside the Yatils
+- name: Yatil Mountains
+  type: location
+  note: source region of the Velverdyva's flow
+- name: Boatmens' Tavern & Nulb Market
+  type: location
+  note: warehouse tavern and general store, area 4 of Nulb
+- name: Mother Screng's Herb Shop
+  type: location
+  note: herb shop, area 3 of Nulb
+- name: Waterside Hostel
+  type: location
+  note: tavern/inn, area 1 of Nulb
+- name: Flanaess
+  type: location
+  note: the civilized portion of the Oerik continent where the adventure is set
+- name: Hall
+  type: location
+  note: GT 7; ladderway exit point with a barrel of javelins
+- name: Mercenary Captain's Room
+  type: location
+  note: GT 8; sparsely furnished quarters of Burne's Badgers' captain
+- name: Mercenary Lieutenant's Room
+  type: location
+  note: GT 9; quarters of Burne's Badgers' lieutenant
+- name: Parapet
+  type: location
+  note: GT 10; machicolated battlement with light catapults
+- name: Dyvers
+  type: location
+  note: home city of the two rescued merchant captives
+- name: Gnarley Forest
+  type: location
+  note: vast forest, also called 'the Gnarley'
+- name: Grand Entrance
+  type: location
+  note: above-ground gate; last of the four sealed portals to break for Zuggtmoy's
+    full freedom
+- name: Building Ruins
+  type: location
+  note: named ruined structure area
+- name: Outer Works
+  type: location
+  note: razed exterior compound surrounding the Temple, containing the Tower, Building
+    Ruins, and Temple
+- name: Temple
+  type: location
+  note: location with sealed doors and area descriptions
+- name: Earth Temple
+  type: location
+  aliases:
+  - The Earth Temple
+  note: one of the three gates that must be sundered before Zuggtmoy can enter the
+    Hall of Dread
+- name: Octagonal Chamber
+  type: location
+  note: one of the three gates that must be sundered before Zuggtmoy can enter the
+    Hall of Dread
+- name: Main Room
+  type: location
+  note: ground-floor common room of the tower, area 1
+- name: North Room
+  type: location
+  note: quarters for the lieutenants and sergeants, area 2
+- name: Northeast Room
+  type: location
+  note: private chamber of the brigand Leader, area 3, with hidden trap door and secret
+    tunnel
+- name: Hall of Elemental Magic
+  type: location
+  note: chamber whose four floor symbols teleport intruders to the corresponding Elemental
+    Node
+- name: Hall of Dread
+  type: location
+  note: also functions as Zuggtmoy's Audience Hall; bronze gate here is one of the
+    three sealing her in
+- name: Place of Earth and Golden Chains
+  type: location
+  note: chained earthen chamber infested with violet fungi and hooting fungi
+- name: Room of Crowned Skulls
+  type: location
+  note: muraled antechamber depicting coronation of favored servants
+- name: Hall of Merriment
+  type: location
+  note: ransacked feasting hall for those honored in area 342
+- name: Room of Fiend
+  type: location
+  note: muraled room showing fiends paying homage to evil humans
+- name: Hall of Glory
+  type: location
+  note: guarded by four animated suits of armor and ooze/jelly/pudding creatures disguised
+    as furnishings
+- name: Hall of Sculpture
+  type: location
+  note: gallery of fungus sculptures; the ivory stools are disguised shriekers
+- name: Earth-Floored Room
+  type: location
+  note: empty dirt-floored chamber where Zuggtmoy once slept
+- name: East Hall
+  type: location
+  note: runed hall with electrum, gold, and platinum pillars
+- name: Central Altar
+  type: location
+  note: area 3; marble altar block with an adjoining 85-foot deep well/shaft
+- name: Dais and Throne
+  type: location
+  note: area 10; black basalt dais bearing the great throne and inscription
+- name: Dungeon Level One
+  type: location
+  note: level above, connected via the ramp/stairs at areas 109 and 145
+- name: Dungeon Level Three
+  type: location
+  note: the level detailed in this section, once reserved for Zuggtmoy's rewards,
+    councils, and pets
+- name: Dungeon Level Two
+  type: location
+  note: referenced level where the half-orc prisoner's unit (area 244) was stationed
+- name: East Altar
+  type: location
+  note: area 4; two-tiered dais altar with a pool concealing a sacrifice's skeleton
+- name: East Door
+  type: location
+  note: area 9; defaced portal leading to a ruined debauch-hall vestry
+- name: East Vestry
+  type: location
+  note: area 4a; ruined vestry off the East Altar with stairs descending southwest
+- name: Grand Staircase
+  type: location
+  note: area 7; wide stone stairway descending north toward Dungeon Level One
+- name: High Altar
+  type: location
+  note: area 8; bronze sacrificial vessel altar with broken chain remnants
+- name: Small Door
+  type: location
+  note: area 6; small burned vestry hiding an ivory robe in the rafters
+- name: Upper Works
+  type: location
+  note: surface-level ruin area where random encounters are rolled
+- name: Vestibule
+  type: location
+  note: area 2; entry hall with evil-themed frescoes leading to the nave
+- name: West Altar
+  type: location
+  note: area 5; sandstone-pillared altar destroyed by past attackers
+- name: West Vestry
+  type: location
+  note: area 5a; ruined vestry off the West Altar with stairs descending southeast
+- name: Mitrik
+  type: location
+  note: place named in the cryptic parchment riddle found in the Pool Chamber
+- name: Verbobonc
+  type: location
+  note: town/viscounty; Rufus and Burne once fought a bandit force that plagued it,
+    and to which Rufus will return
+- name: W1 Center Pond
+  type: location
+  note: coral-ringed arrival pool, roughly 75' by 450', dotted with rock/coral outcroppings
+- name: W14 Hidden Shelf
+  type: location
+  note: grotto shelf reached only underwater; bears a triangle gate symbol to the
+    Earth Node
+- name: W21 Hidden Grotto
+  type: location
+  note: lair of the varrdig grues, holding the carnelian power gem
+- name: W4 Shelf-Grotto
+  type: location
+  note: water-filled cave lair whose floor rises above water level; nearby gate symbol
+    leads to the Air Node
+- name: W9 Lagoon
+  type: location
+  note: lagoon with a southern shelf bearing an eight-pointed gate symbol to the Fire
+    Node
+- name: Water Maze
+  type: location
+  note: the great indoor ocean cavern comprising the bulk of the Water Node
+- name: Lortmil Mountains
+  type: location
+  note: mountain range beyond the gnomish highlands, adjacent to Kron Hills gnome
+    territory
+- name: Hommlet
+  type: location
+  note: village where the adventure began; agents of Chaotic Evil recently cleared
+    out
+- name: Sea of Gearnat
+  type: location
+  note: sea along the Wild Coast
+- name: Woolly Bay
+  type: location
+  note: bay along the Wild Coast
+- name: Abyss
+  type: concept
+  note: fiendish plane corresponding to the combination of air and earth in the cult's
+    elemental cosmology
+- name: Abyssal Plane
+  type: concept
+  note: demonic plane dominated by Zuggtmoy, where Iuz's rumored Soul Object is hidden
+- name: Air Cavern
+  type: concept
+  aliases:
+  - Air Caverns
+  note: Elemental Node reached via the circle symbol in the Hall of Elemental Magic
+- name: Air Node
+  type: concept
+  note: reached via a circle-symbol gate at the north end of the octagonal room F3
+- name: Arcadia
+  type: concept
+  note: lawful good plane, home plane of St. Cuthbert
+- name: Earth Node
+  type: concept
+  note: elemental node reached via the gate symbol in area W14, or by touching the
+    carnelian gem
+- name: Elemental Nodes
+  type: concept
+  aliases:
+  - The Elemental Nodes
+  note: planar nodes reachable via magic keys, transferring users to the Elemental
+    symbols in area 339
+- name: Elemental Plane of Earth
+  type: concept
+  note: native plane of xorn-like burrowing creatures (Xaren) described as fire- and
+    cold-immune
+- name: Elemental Plane of Fire
+  type: concept
+  note: home plane of the fire elemental grue (harginn) described in a book in area
+    205d
+- name: Elemental Plane of Water
+  type: concept
+  note: origin of the intelligent, corrosive acid creature inhabiting the Pool Chamber
+- name: Ethereality
+  type: concept
+  note: the Ethereal Plane, blocked from penetrating the magically sealed northern
+    portion of this level
+- name: Fire Node
+  type: concept
+  note: elemental node reachable via an eight-pointed gate symbol in area E5, and
+    via touching the garnet power gem
+- name: Fire Pits
+  type: concept
+  note: Elemental Node reached via the lozenge symbol in the Hall of Elemental Magic
+- name: Nodes of Elemental Evil
+  type: concept
+  aliases:
+  - the Nodes of Elemental Evil
+  note: four partial planes created by Zuggtmoy as power sources and storage, tied
+    to dungeon levels 3 and 4
+- name: Prime Material
+  type: concept
+  note: the plane containing Oerth; home plane of Iuz
+- name: the Abyss
+  type: concept
+  note: where too-heavy objects vanished by the vanish spell are lost, rather than
+    merely displaced
+- name: the Ethereal Plane
+  type: concept
+  note: reachable via phase door at a node's boundary
+- name: the Nodes
+  type: concept
+  note: extraplanar demiplanes where Temple sacrifice victims are sent and where the
+    Yellowskull gems of power are found
+- name: the Prime Plane
+  type: concept
+  note: material plane the elemental nodes lie close to; escape destination via gate/plane
+    shift/wish
+- name: Water Node
+  type: concept
+  note: elemental plane reached via a gate symbol in area A27, or via touching the
+    aquamarine power gem
+- name: Zuggtmoy's Abyssal Plane
+  type: concept
+  note: Zuggtmoy's home plane, reachable via the Great Hall's hexagon device once
+    all four gates are broken
+- name: +2 warhammer
+  type: item
+  note: Hedrack's melee weapon
+- name: amulet of life protection
+  type: item
+  note: magic item hidden alongside the scroll of seven clerical spells
+- name: antipathy
+  type: item
+  note: named spell made permanent on the sealed doors' silvery runes
+- name: Aquamarine
+  type: item
+  note: one of the power gems; touching it sends the toucher to the Water Node
+- name: Back-Talker
+  type: item
+  note: one of the six lesser Swords of Answering, +2 enchanted broadsword
+- name: Backbiter
+  type: item
+  note: cursed spear +2 held by the fire giant statue in area 311
+- name: Black plate mail +3
+  type: item
+  note: Hedrack's armor donned during alerts
+- name: Black scarab (TZGY)
+  type: item
+  aliases:
+  - Black scarab (TZOY)
+  note: scarab inscribed TZGY carried by each human Temple leader to pacify the altar
+    curtain
+- name: Book of vile darkness
+  type: item
+  note: magical tome on Hedrack's bookshelves he plans to study
+- name: Boots of levitation
+  type: item
+  note: magic item granting at-will levitate, added to Barkinar's gear
+- name: Bracers of defense
+  type: item
+  note: worn by Senshock and by Hedrack during normal operations
+- name: Burne's spell book
+  type: item
+  note: magic item disguised as the seat of the only armchair in Burne's chamber
+- name: Candle of invocation (chaotic evil)
+  type: item
+  note: item in the altar-area chests, 3 hours burning time remaining
+- name: Candle of invocation (Lawful Good)
+  type: item
+  note: half-used candle found in the ettin's iron box, area 410
+- name: Carnelian Scarab of Proof against Poison +2
+  type: item
+  note: carried by Rufus, functions identically to a periapt of the same name
+- name: chain mail +2
+  type: item
+  note: magic armor worn by Romag
+- name: Chime of Opening
+  type: item
+  note: carried by Burne, 51 charges
+- name: cloak of Protection +1
+  type: item
+  note: magic cloak worn by one of the dead clerics entombed in area 141's crypts
+- name: comprehend languages
+  type: item
+  note: one of seven spells on the scroll found in Burne's iron coffer
+- name: continual light
+  type: item
+  note: spell cast upon a wand kept in an ivory tube lined with black velvet
+- name: crossbow bolt +3
+  type: item
+  note: magic ammunition hidden on a ledge in area 113
+- name: crystal hypnosis ball
+  type: item
+  note: crystal ball attuned to Zuggtmoy, found in area 338
+- name: Daern's Instant Fortress
+  type: item
+  note: small magic cube carried by Hedrack, used to seal corridors against invaders
+- name: dagger +1
+  type: item
+  note: magic dagger hidden in Furnok of Ferd's boot
+- name: dagger +2
+  type: item
+  note: plain-looking magic dagger among Wonnilon's stashed adventuring gear in area
+    151
+- name: dagger of venom
+  type: item
+  note: Gremag's poisoned dagger, three doses of poison left
+- name: death spell
+  type: item
+  note: named spell on the scroll found in the secret niche
+- name: Decanter of Endless Water
+  type: item
+  note: hidden in Jaroo Ashstaff's cottage
+- name: detect magic
+  type: item
+  note: spell known by Spugnois
+- name: disintegrate
+  type: item
+  note: named spell; one of only two things able to destroy the basalt throne
+- name: Dust of Disappearance
+  type: item
+  note: carried by Gremag (3 pinches) and separately by Rufus (12 doses)
+- name: Ebony fly figurine
+  type: item
+  note: cursed troll-owned figurine that becomes a Chasme after its seventh use in
+    the seventh round
+- name: Ebony skull figurine
+  type: item
+  note: magical carving on Hedrack's mantel that lets Iuz see the room and be summoned
+- name: ebony statuette of Lolth
+  type: item
+  note: idol that rises from the unfolding shrine box in area 338
+- name: Elven chain
+  type: item
+  note: elf-sized magic chainmail found among the ghouls' hoard in area 104
+- name: ensign of Iuz
+  type: item
+  note: grinning red horned skull symbol worn by guards (trolls, giants, ettins) and
+    chieftains
+- name: Fly
+  type: item
+  note: magic-user spell found on a scroll in the pool tube (area 30)
+- name: Fragarach
+  type: item
+  note: enchanted broadsword of Chaotic Good alignment forged for a demigod, +4 (doubling
+    to +8 vs evil on a natural 20)
+- name: Frost Brand (unnamed intelligent longsword)
+  type: item
+  note: +3/+6 vs. fire creatures, Lawful Good, Int 16/Ego 17, found in the Temple
+    of Fire's trapped iron box
+- name: Gargoyle Cloak
+  type: item
+  note: magical cloak granting gargoyle form/flight, worn by zombie guardians in the
+    Hall of Verdigris
+- name: girdle of giant strength
+  type: item
+  note: 'named magic item type referenced (DMG p.145) re: strength needed to break
+    the sealed doors'
+- name: glyph of warding
+  type: item
+  note: trap inscribed as runes on the bronze door of area 141, dealing cold damage
+- name: ice storm
+  type: item
+  note: one of seven spells on the scroll found in Burne's iron coffer
+- name: Ichor of Intoxication
+  type: item
+  note: colorless syrup that causes intoxication when ingested
+- name: Jeweled dagger
+  type: item
+  note: unique dagger valued at 250 gp, found in the lieutenants' iron-bound chest
+- name: Keoghtom's Ointment
+  type: item
+  note: named healing unguent, three jars found in a brass box in the Earth Temple
+    (145)
+- name: Laws of the Temple
+  type: item
+  note: book on Hedrack's shelves, hollowed out as a cache for 15 gems
+- name: Legal Affairs in Veluna, 213 to 312 CY
+  type: item
+  note: thick book in the church library concealing a hidden scroll and amulet
+- name: Lens of Transformation
+  type: item
+  note: artifact crystal sheet created by Iuz that shows viewers as opposites of their
+    true forms
+- name: Leomund's Labile Locker
+  type: item
+  note: copper-bound box with command words to shrink or grow, functioning as a secret
+    chest
+- name: Leomund's secret chest
+  type: item
+  note: named spell effect placed on the dragon statue's copper-bound box, area 311
+- name: limited wish
+  type: item
+  note: named spell that can detect the throne's hidden movement capability
+- name: Longsword +1
+  type: item
+  note: magic longsword wielded by the brigand Leader
+- name: mace +1
+  type: item
+  note: magic weapon hidden in the chief priest's mantle cache
+- name: Mace of St. Cuthbert
+  type: item
+  note: fabled mace of disruption +5 wielded by St. Cuthbert, with bless, know alignment,
+    tongues, exorcise, and remove curse powers
+- name: maze
+  type: item
+  note: named spell on the scroll found in the secret niche
+- name: Medallion vs. Crystal Balls and ESP
+  type: item
+  note: worn hidden by Rannos Davl under his jerkin
+- name: mirror image
+  type: item
+  note: one of seven spells on the scroll found in Burne's iron coffer
+- name: mirror of mental prowess
+  type: item
+  note: magical mirror hidden in the cabinet, retrievable only with the brass rod
+    key
+- name: monster summoning I
+  type: item
+  note: named spell on the scroll found in the secret niche
+- name: morning star +1
+  type: item
+  note: magic weapon buried at the third excavation point in the Earth Temple (145)
+- name: Nystul's magic aura
+  type: item
+  note: spell effect borne by Burne's large black staff, making it appear magical
+- name: Orb of Elemental Death
+  type: item
+  note: artifact that lets its bearer command the throne to sink to the Greater Temple
+    merely by gazing upon it
+- name: Orb of Golden Death
+  type: item
+  aliases:
+  - The Orb of Golden Death
+  note: artifact whose complete set of four gems is the only way to escape an Elemental
+    Node; its golden-skull-and-crown image is also the clerics'/mages' emblem
+- name: Otiluke's freezing sphere
+  type: item
+  note: named spell listed as one of the few effects that can harm the Pool Chamber
+    creature
+- name: Otto's irresistible dance
+  type: item
+  note: named spell effect triggerable by the Wand of a Wonder
+- name: philter of persuasiveness
+  type: item
+  note: one of eight potions in the secret niche's box
+- name: Phylactery of change
+  type: item
+  note: Kella's ancestral item enabling innate shapechange into monster or animal
+    form
+- name: Portable hole
+  type: item
+  note: hidden in Senshock's wardrobe, conceals his spellbook
+- name: potion of animal control
+  type: item
+  note: one of eight potions in the secret niche's box; affects mammals, marsupials,
+    and avians
+- name: potion of climbing
+  type: item
+  note: one of eight potions in the secret niche's box
+- name: potion of diminution
+  type: item
+  note: magic potion found at the first excavation point in the Earth Temple (145)
+- name: potion of flying
+  type: item
+  note: one of eight potions in the secret niche's box
+- name: potion of healing
+  type: item
+  note: one of eight potions in the secret niche's box
+- name: Potion of Invulnerability
+  type: item
+  note: one of eight potions in the secret niche's box
+- name: potion of polymorph self
+  type: item
+  note: one of eight potions in the secret niche's box
+- name: potion of super-heroism
+  type: item
+  note: one of eight potions in the secret niche's box
+- name: Pouch of Holding
+  type: item
+  note: leather/cloth pouch that holds items as if a fraction of their weight
+- name: Push
+  type: item
+  note: magic-user spell found on a scroll in the pool tube (area 30)
+- name: pyrotechnics
+  type: item
+  note: one of seven spells on the scroll found in Burne's iron coffer
+- name: Rary's mnemonic enhancer
+  type: item
+  note: named spell found on a scroll in the Garbage Room coffer
+- name: Ray of Just Might
+  type: item
+  note: named magical ray the false angelic figures threaten to unleash in the Pearlescent
+    Room
+- name: read magic
+  type: item
+  note: spell known by Spugnois
+- name: Rebutter
+  type: item
+  note: one of the six lesser Swords of Answering, +2 enchanted broadsword
+- name: Replier
+  type: item
+  note: one of the six lesser Swords of Answering, +2 enchanted broadsword
+- name: repulsion
+  type: item
+  note: named spell on the scroll found in the secret niche
+- name: Retorter
+  type: item
+  note: one of the six lesser Swords of Answering, +2 enchanted broadsword
+- name: ring mail +1
+  type: item
+  note: magic armor buried at the second excavation point in the Earth Temple (145)
+- name: ring of feather falling
+  type: item
+  note: ring worn by Senshock (feather fall at will)
+- name: Ring of free action
+  type: item
+  note: ring worn by Hedrack
+- name: ring of invisibility
+  type: item
+  note: magic ring owned by Furnok of Ferd
+- name: ring of protection +1
+  type: item
+  note: magic ring buried at the fourth excavation point in the Earth Temple (145)
+- name: Ring of protection +2
+  type: item
+  note: ring worn by Senshock granting +2 AC and saves
+- name: ring of shooting stars
+  type: item
+  note: magic ring hidden under the floor of the stirge lair, area 132
+- name: ring of spell storing (invisibility)
+  type: item
+  note: carried by the assassin Smigmal Redhand
+- name: rod of smiting
+  type: item
+  note: 41 charges, found in the secret niche
+- name: rope of climbing
+  type: item
+  note: magic rope buried at the fourth excavation point in the Earth Temple (145)
+- name: Rope of entanglement
+  type: item
+  note: item in the altar-area chests, used to ensnare intruders
+- name: sacred sign of the Crumpled Hat
+  type: item
+  note: holy symbol of St. Cuthbert carved into the altar
+- name: Scather
+  type: item
+  note: broadsword given by Prince Thrommel to whoever helps him regain Fragarach
+- name: scroll of protection from earth elementals
+  type: item
+  note: magic scroll found in the robing room, area 145F
+- name: scroll of protection from fiend
+  type: item
+  note: magic scroll hidden in the chief priest's mantle cache
+- name: scroll of protection from magic
+  type: item
+  note: magic scroll owned by Furnok of Ferd
+- name: scroll of seven clerical spells
+  type: item
+  note: hidden scroll bearing one spell of each level, concealed in a book in the
+    church library
+- name: Shield +2
+  type: item
+  aliases:
+  - +2 Shield
+  note: magic shield carried by the brigand Leader
+- name: Shield +3
+  type: item
+  aliases:
+  - +3 Shield
+  note: Hedrack's shield donned during alerts
+- name: Short sword with a topaz pommel
+  type: item
+  note: unique jeweled short sword valued at 500 gp, found in the Leader's chest of
+    drawers
+- name: silver idol of Pholtus
+  type: item
+  note: idol in a niche in the Chapel, area 333
+- name: sleep
+  type: item
+  note: spell known by Spugnois
+- name: smoky quartz
+  type: item
+  note: a power gem in the harginn grues' treasure (room F9); touching it teleports
+    the toucher to the Air Node
+- name: Snoop
+  type: item
+  note: intelligent longsword +1, LG alignment, Int 13, empathy, detects invisible
+    and magic to 10'
+- name: Squelcher
+  type: item
+  note: one of the six lesser Swords of Answering, +2 enchanted broadsword
+- name: Staff of the Serpent
+  type: item
+  note: python-form staff carried by Jaroo Ashstaff
+- name: Stinking Cloud
+  type: item
+  note: magic-user spell found on a scroll in the pool tube (area 30)
+- name: stone of weight
+  type: item
+  note: cursed/unusual stone among the worthless rocks in area 145G
+- name: suggestion
+  type: item
+  note: one of seven spells on the scroll found in Burne's iron coffer
+- name: Swords of Answering
+  type: item
+  note: named category of unique swords related to Fragarach
+- name: symbol of discord
+  type: item
+  note: named spell on the scroll found in the secret niche
+- name: Tasha's uncontrollable hideous laughter
+  type: item
+  note: named spell memorized by Falrinth
+- name: the Carnelian
+  type: item
+  note: power gem in the varrdig grues' treasure hoard; teleports anyone touching
+    it to the Earth Node
+- name: the garnet
+  type: item
+  note: one of the power gems; touching it teleports the toucher to the Fire Node
+- name: Throne of Zuggtmoy
+  type: item
+  note: seat whose gems may each grant entry to and exit from a plane of the Abyss
+- name: tome of leadership and influence
+  type: item
+  note: magical book on the western bookstand in area 338
+- name: transmute rock to mud
+  type: item
+  note: one of seven spells on the scroll found in Burne's iron coffer
+- name: trident of yearning
+  type: item
+  note: magical trident found in area 215, set with a huge aquamarine
+- name: Two-handed sword +3
+  type: item
+  note: Iuz's weapon when he appears in demoniac form
+- name: vacuous grimoire
+  type: item
+  note: cursed magical tome on the eastern bookstand in area 338
+- name: Wand of fear
+  type: item
+  note: wand Hedrack always carries
+- name: wand of fire
+  type: item
+  note: 72 charges, found in the secret niche behind the Great Hall throne
+- name: Wand of fireballs
+  type: item
+  note: magic wand equipped to Senshock
+- name: Wand of ice storms
+  type: item
+  note: one of the magic items in the altar-area chests, 42 charges
+- name: wand of illumination
+  type: item
+  note: 44 charges, found in an ivory case buried in area 341's earthen floor
+- name: Wand of Magic Missiles
+  type: item
+  note: carried by Burne, 49 charges
+- name: Wand of metal command
+  type: item
+  note: one of the magic items in the altar-area chests, 21 charges
+- name: wand of paralyzation
+  type: item
+  note: 38-charge magic wand buried at the fourth excavation point in the Earth Temple
+    (145)
+- name: wand of wonder
+  type: item
+  aliases:
+  - Wand of a Wonder
+  note: 50-charge wand found in a leather case in area 338
+- name: Weather Summoning
+  type: item
+  note: spell on a scroll hidden in Jaroo Ashstaff's cottage
+- name: web
+  type: item
+  note: one of seven spells on the scroll found in Burne's iron coffer
+- name: Window of the Planes of Weal
+  type: item
+  note: deceptive magical one-way crystal mirror/lens, actually a lens of transformation
+    planted by Iuz
+- name: wish
+  type: item
+  note: named spell able to destroy the throne or activate its sinking mechanism
+- name: wizard lock
+  type: item
+  note: named spell whose standard opening-chance rules govern breaking the sealed
+    doors
+- name: Yellowskull
+  type: item
+  note: key artifact whose assembly from Node gems can render Iuz powerless to save
+    the Temple
+- name: Zuggtmoy's Eye of Fire
+  type: item
+  note: symbol worn by regular Temple troops (bugbears and ogres)
+- name: Air Temple
+  type: faction
+  aliases:
+  - the air temple
+  note: elemental cult faction whose clerics once fed the troll guarding area 302
+- name: Archcleric of Veluna
+  type: faction
+  note: title/office; co-finances the new castle being built at area 30
+- name: Archclericy of Veluna
+  type: faction
+  note: clerically-governed realm bordering the region
+- name: Brigands of the Tower
+  type: faction
+  note: band of 26 bandits/soldiers occupying the Broken Tower, distinct from the
+    road bandits
+- name: Burne's Badgers
+  type: faction
+  note: mercenary company of 16 men-at-arms plus two fighter-leaders serving Burne
+    and Rufus
+- name: Clerics of Iuz
+  type: faction
+  note: priesthood of Iuz, dressed in rusty black or bloodstained white, practicing
+    blood sacrifice
+- name: Druidical faith
+  type: faction
+  note: local folk religion devoted chiefly to Ehlonna, Obad-Hai, and Beory
+- name: Druids of Gnarley Wood
+  type: faction
+  note: order Jaroo Ashstaff serves as an agent, watching for a resurgence of the
+    Temple
+- name: Earth Elemental Temple
+  type: faction
+  note: earth-aligned cult sect occupying this dungeon level, also called "the Earth
+    Temple"; served by Romag and Hartsch
+- name: Fire Temple
+  type: faction
+  aliases:
+  - the fire temple
+  note: elemental cult faction led by Prefect Alrrem, weakened after losing power
+- name: Grand Marshall of Furyondy
+  type: faction
+  note: formal title held by Prince Thrommel
+- name: Guards of the Great Temple
+  type: faction
+  note: Temple military branch commanded by Deggum, garrisoning areas 409-417
+- name: King of Furyondy
+  type: faction
+  note: royal title of the ruler of Furyondy, watches the area's activity
+- name: Knight Bachelor of Veluna
+  type: faction
+  note: chivalric rank secretly held by Otis
+- name: Knights of the Hart
+  type: faction
+  note: order whose red antler emblem quarters Prince Thrommel's surcoat
+- name: New Master
+  type: faction
+  note: unnamed masked leader (also called 'the Master') who has recruited bugbears
+    and gnolls and commands black-garbed guards marked with a yellow/gold eye of fire;
+    quartered in room 35
+- name: Nulb Militia
+  type: faction
+  note: village militia raised on demand by Nulb's Neutral Evil populace
+- name: Old Faith
+  type: faction
+  note: druidical religion followed by several farm families (areas 1, 12, 16, 25,
+    27, 29) and centered on the Grove
+- name: Provost of Veluna
+  type: faction
+  note: formal title held by Prince Thrommel
+- name: Scarlet Brotherhood
+  type: faction
+  note: rival evil organization Iuz is said to be working against
+- name: Temple Troops
+  type: faction
+  note: rank-and-file ogre/bugbear/troll force of the Greater Temple, led by Barkinar
+- name: Temple's Earth priests
+  type: faction
+  note: Earth sect of the Temple of Elemental Evil, served by Dick Rentsch
+- name: Temple's Fire priests
+  type: faction
+  note: Fire sect of the Temple of Elemental Evil, served by Wat
+- name: the overall Temple
+  type: faction
+  note: neutral black-clad guard/bandit forces serving the Temple as a whole, aloof
+    from the four elemental factions
+- name: the Two
+  type: faction
+  note: shared honorific title Temple personnel use for co-leaders Iuz and Zuggtmoy
+- name: Thieves' Guild
+  type: faction
+  note: generic criminal organization referenced as a buyer for stolen padlocks/keys
+- name: Town Council
+  type: faction
+  note: special group of Hommlet elders who can relate the full moathouse history
+- name: Varrdig Grues
+  type: faction
+  note: grue subspecies/tribe lairing in a hidden grotto (W21), guards the carnelian
+    power gem
+- name: Viscounty of Verbobonc
+  type: faction
+  note: noble territory ruled by the Viscount, encompassing Hommlet
+- name: Waldgraf of Ostverk
+  type: faction
+  note: title of the local forester-lord whose militia patrol against outlawry
+- name: Water Temple
+  type: faction
+  note: elemental cult faction, currently the strongest, also called the Lesser Temple
+- name: Godsday
+  type: event
+  note: weekly holy day; sermons and eve services held for it
+- name: Greyhawk Campaign
+  type: event
+  note: referenced precedent where Lord Robilar freed an imprisoned evil creature
+- name: North Wind Effect
+  type: event
+  note: magical wind hazard at the Octagonal Chamber gate, deals cold/impact damage
+    and blows victims back
+- name: Permanent Antipathy Effect
+  type: event
+  note: warding dweomer barring evil creatures from certain gates/stairs, tied to
+    Zuggtmoy's containment
+- name: Zuggtmoy Bound
+  type: event
+  note: the demoness's imprisonment, contingent on the state of four bronze gates
+    in the dungeon
+- name: Commander Varek Redflame
+  type: npc
+  note: level 5 fighter, leader of Alrrem's Fire Guards
+- name: Chieftain Garghuk the Bloodtooth
+  type: npc
+  aliases:
+  - Chief Garghuk
+  - Garghuk
+  - Chieftain Garghuk
+  note: Ogre chieftain of the Blackthorn tribe who pacted with Deggum to supply warriors.
+- name: Gloarok
+  type: npc
+  aliases:
+  - Gloarok, the Enforcer
+  - Chieftain Gloarok
+  note: chaotic evil ogre gladiator serving as Deggum's chief enforcer over Blackthorn
+- name: Elric the Younger
+  type: npc
+  note: youngest, ambitious bandit who reports peers' irregularities to Gefreid
+- name: Ralf
+  type: npc
+  note: resets the deadly traps around the cottage and barn daily
+- name: Ralf "The Hound"
+  type: npc
+  aliases:
+  - The Hound
+  note: brutal bandit tasked with resetting perimeter snares each morning
+- name: Thogran Ashmaw
+  type: npc
+  note: half-orc cleric/fighter, liaison to Alrrem's bugbear guards
+- name: Gattas Void
+  type: npc
+  note: second-in-command to Lareth at the Moathouse; coordinates raids on caravans,
+    farms, and travelers
+- name: Captain Tolub
+  type: npc
+  aliases:
+  - Captain Tolubb
+  - Tolubb
+  - Tolub
+  note: Water Temple agent at the Boatman's Tavern; commands the pirate ship Iron
+    Dagger
+- name: Zorgrek, Son of Murgz
+  type: npc
+  aliases:
+  - Zorgrek
+  note: cunning orc-warlord turned werewolf, leader/chieftain of the Howling Moon
+    Clan
+- name: Landers
+  type: npc
+  note: former leader of the Earth Temple, betrayed and eliminated by Barkinar
+- name: Dieter "Redknife"
+  type: npc
+  aliases:
+  - Redknife
+  note: former pirate turned enforcer; handles intimidation and prisoner transfers
+- name: Antonio
+  type: npc
+  note: lieutenant of Fire Priest Alrrem, expecting gnoll reinforcements
+- name: Tubal
+  type: npc
+  note: lieutenant of Fire Priest Alrrem, expecting gnoll reinforcements
+- name: King Korvash
+  type: npc
+  note: leader of the Jagged Fangs gnoll tribe that sends the warband
+- name: Korvash Bonegnaw
+  type: npc
+  aliases:
+  - King Korvash Bonegnaw
+  note: gnoll king ruling the Jagged Fangs tribe, negotiated with via Feldrin
+- name: Gattas
+  type: npc
+  note: linchpin overseeing the Temple's supply/raid network from Moathouse to Greater
+    Temple
+- name: Lord Conner Bridgeforth
+  type: npc
+  aliases:
+  - Lord Bridgeforth
+  note: noble who steers court rumors and alliances for the Temple
+- name: Lord Haxx
+  type: npc
+  note: Verbobonc noble who may act against the Temple if evidence reaches him
+- name: Lakash Quallad
+  type: npc
+  note: high-ranking ally conspiring with Lucius and Lord Bridgeforth to cover up
+    the Temple's activities
+- name: Captain Garik Marath
+  type: npc
+  note: smuggler supplying the Temple with slaves and stolen goods, works with Belsornig
+- name: Morvik Blackthorn
+  type: npc
+  note: second-in-command to Gefreid; cautious, organized, enforces day-to-day discipline
+- name: Gavrik "Ironfoot"
+  type: npc
+  aliases:
+  - Ironfoot
+  note: burly, methodical bandit overseeing barn operations and prisoner containment
+- name: Gorvash the Cruel
+  type: npc
+  note: lieutenant favored by Lareth, resented by Gattas
+- name: Quillen
+  type: npc
+  note: meticulous handler of courier horses and supply-wagon shipment logs
+- name: Lucius Graeme
+  type: npc
+  aliases:
+  - Alden
+  - Aldren
+  - Spy Master and Courier
+  - The Shadow Courier
+  - the golden-eyed traveler
+  - Lucius
+  note: Oeridian/Suel human cleric 7, neutral evil temple agent/courier; 'Aldren'
+    attribution on first quote is odd/possibly erroneous, flag for human review
+- name: Othrel the Blackened
+  type: npc
+  note: level 4 cleric serving as Alrrem's ritual specialist
+- name: Ivar Maddok
+  type: npc
+  aliases:
+  - Maddok
+  note: manages the Wainwright Depot's overland supply routes
+- name: Ursk Fangbite
+  type: npc
+  note: brutal gnoll warrior leading the warband bound for the Fire Temple
+- name: Gurrzot
+  type: npc
+  aliases:
+  - Zorgrek's Heir
+  note: young, impulsive, and bloodthirsty son of Zorgrek, eager to prove himself
+- name: Mistress Selentis
+  type: npc
+  aliases:
+  - Madame Selentis
+  - Selentis
+  - Lady Nysera
+  - Lady Nysera Krivaltis
+  - Nysera Krivaltis
+  - Nysera
+  - Madame Selentis Nisera
+  - Nisera
+  - Madame Nisera
+  note: cunning logistics overseer coordinating shipments among pirates, smugglers,
+    and the Temple
+- name: Gefreid Patris
+  type: npc
+  aliases:
+  - Gefreid
+  note: overseer of the Hunting Cottage, responsible for transporting loot and prisoners
+    to the Greater Temple
+- name: Master Rom
+  type: npc
+  note: mage and commander of the Crimson Reapers, based at the Waterside Hostel
+- name: Rom Khavernus
+  type: npc
+  aliases:
+  - Rom
+  note: mage-bandit leader of the Crimson Reapers
+- name: Zelt the mercenary
+  type: npc
+  note: referenced figure possibly captured by the party at the Inn of the Welcome
+    Wench
+- name: Gremag Gozlin
+  type: npc
+  note: Merchant spy at the Trader's Shop who will frame his partner and flee if confronted
+- name: Gerard
+  type: npc
+  note: Ogre who assists Romag in the Earth Temple, under Deggum's oversight.
+- name: Brannoc Grimtooth
+  type: npc
+  note: cruel prisoner overseer who enjoys authority over captives
+- name: Rentaq the Seer
+  type: npc
+  note: Rentaq's ancient prophet who first wielded the Elder Elemental Eyes and coined
+    the name
+- name: Joseph the saboteur
+  type: npc
+  note: referenced figure possibly captured by the party at the Inn of the Welcome
+    Wench
+- name: Joseph Millar
+  type: npc
+  note: Laborer secretly sabotaging Verbobonc's fortifications at Doomwatch Keep on
+    Lucius' orders
+- name: Jarus Vrell
+  type: npc
+  note: silent tracker and scout who detects threats near the cottage perimeter
+- name: Captain Marad Vesrek
+  type: npc
+  aliases:
+  - Captain Vesrek
+  - Marad Vesrek
+  - Vesrek
+  note: commands the slaver ship The Crimson Trader out of the Wild Coast
+- name: Vrogg Flameskin
+  type: npc
+  note: level 6 troll serving as Alrrem's hydra keeper
+- name: Warlord Braggok Iron-Claw
+  type: npc
+  note: leader of the Iron Claw Clan bugbears in Varifane
+- name: Elder Elemental Eye
+  type: deity
+  note: eldritch patron power of the Temple cult, forsaken by Barkinar in favor of
+    Iuz
+- name: Elder Elemental God
+  type: deity
+  aliases:
+  - the Elder Elemental God
+  note: ancient entity of ultimate entropy imprisoned beneath the Temple, also invoked
+    in ritual text as the 'Dread Master of the Primal Elements' / 'Primal Master'
+- name: Lolth, the Demon Queen of Spiders
+  type: deity
+  note: deity secretly served by Falrinth and Lareth the Beautiful, who seek the elemental
+    nodes on her behalf
+- name: Rentaq
+  type: deity
+  note: also called the Elder Elemental God (EEG) and Vilp-akf 'cho Rentaq; ancient
+    malevolent entity of chaotic entropy and elemental power, banished and shattered
+    by Beory
+- name: Bandit Kingdoms
+  type: location
+  note: war-torn homeland where Smigmal was raised among cutthroats and raiders
+- name: Dorakaa
+  type: location
+  note: Iuz's capital, the intended endpoint of a portal linking the elemental nodes
+- name: Emridy Meadows
+  type: location
+  note: site of the battle that drove the cult underground during the First Rising
+- name: Fens of Tor
+  type: location
+  note: misty, treacherous bog that serves as the Howling Moon Clan's hunting grounds
+- name: Free Lands
+  type: location
+  note: Region endangered if Lucius' influence goes unchecked
+- name: Greater Temple of Elemental Evil
+  type: location
+  note: Physical stronghold/dungeon complex housing the cult's inner circle, guards,
+    and monstrous allies.
+- name: Hunting Cottage and Secret Tunnel
+  type: location
+  note: secure relay point with a hidden tunnel linking to the Greater Temple, held
+    by Gefreid Patris
+- name: Lortmils
+  type: location
+  note: Mountain range home to the gnolls of the Jagged Fangs tribe ruled by King
+    Korvash Bonegnaw.
+- name: Viscounty
+  type: location
+  note: the political territory (of Verbobonc) the supplement brings to life
+- name: Wainwright Depot
+  type: location
+  note: also called the "Wainwright Transport Hub"; overland supply hub managed by
+    Ivar Maddok
+- name: Welkwood Forest
+  type: location
+  note: forest territory of the Iron Claw Clan bugbears
+- name: Temple of the Eye
+  type: location
+  note: hidden ancient sanctum unlocked by the fragment's ritual
+- name: Burrows
+  type: location
+  note: Earth Node area scoured by Falrinth's minions; source of the Earth Gem
+- name: Blackthorn Caverns
+  type: location
+  note: underground ogre/duergar fortress settlement with forges, farms, and slave
+    pits
+- name: Eastern Gnarley Forest
+  type: location
+  note: territory of the Blackthorn Tribe ogres/monstrous humanoids
+- name: Hunting Cottage and Barn
+  type: location
+  note: log structure serving as supply depot, slave-handling station, and hidden
+    gateway into the Temple
+- name: Southern Gnarley Forest
+  type: location
+  note: territory of the Iron Claw mercenary warbands
+- name: The Blackthorn War Camp
+  type: location
+  note: forward base where warbands mass before raids
+- name: The Greenway Ambush
+  type: location
+  note: site of Lucius' staged final gnome-raid ambush on a caravan
+- name: Trevil's Fens Cottage
+  type: location
+  note: starting point of the smuggler's route for the ambushed caravan
+- name: D&G Mercantile
+  type: location
+  note: shop fronting Gremag Gozlin's spying
+- name: Doomwatch Construction Site
+  type: location
+  note: keep construction site sabotaged by Joseph Millar
+- name: Trader's Shop
+  type: location
+  aliases:
+  - The Trader's Shop
+  note: site where Rannos Davl and Gremag were previously engaged
+- name: Moathouse High Road Bandit Camp
+  type: location
+  note: bandit base commanded by Lareth, with Gattas Void as second-in-command
+- name: Hunting Cottage
+  type: location
+  note: surface location reached via the Escape Tunnel, used by bandits allied with
+    Smigmal Redhand
+- name: Boatman's Tavern
+  type: location
+  note: tavern run by Lodriss where Skole works and the argument occurs
+- name: Nulb docks
+  type: location
+  note: major transfer point for smuggled weapons, supplies, and slaves
+- name: Nulb Market
+  type: location
+  note: black-market trade and recruitment center
+- name: Nulb Pier
+  type: location
+  note: riverside location of the Boatman's Warehouse
+- name: Old Mayor's Manor
+  type: location
+  note: base of Madame Selentis's logistical operations
+- name: Ruined Tower
+  type: location
+  aliases:
+  - the ruined tower
+  note: the Temple's surface fortress guarding recruit access
+- name: Wainwright of Nulb
+  type: location
+  note: source of prisoners funneled to the Hunting Cottage
+- name: Boatman's Tavern and Warehouse
+  type: location
+  note: also called "the Boatman's Warehouse"; pirate-held goods and slave holding
+    site
+- name: Beneath the Temple of Elemental Evil
+  type: location
+  note: long-forgotten hidden fifth level said to hold the Elder Elemental God's true
+    essence
+- name: Deggum's Command Post
+  type: location
+  note: Deggum's guarded headquarters holding intelligence on troop movements and
+    invasion plans
+- name: Earth Temple Chambers
+  type: location
+  note: also called the Temple of Earth; underground chamber with an earthen pyramid
+    where Romag holds court
+- name: Escape Tunnel
+  type: location
+  note: hidden supply tunnel linking the Hunting Cottage to the Greater Temple; a
+    single point of failure if sabotaged
+- name: Room 336
+  type: location
+  note: where Smigmal keeps her locked chest holding the fragment
+- name: Room C1
+  type: location
+  note: hidden passage location leading down to the Earth Temple chambers
+- name: Temple Ruins
+  type: location
+  note: Area 10; contains a great throne that can lower directly to the Temple of
+    the Eye
+- name: Area 337
+  type: location
+  note: chamber on the third level where Falrinth resides and guards his secrets
+- name: Area 419A
+  type: location
+  note: vantage point behind the main altar from which Senshock directs battle
+- name: Area 243a
+  type: location
+  note: Feldrin's lavish quarters within the Temple's dungeon.
+- name: Narwell
+  type: location
+  note: source city for mercenary recruits
+- name: Doomwatch Keep
+  type: location
+  note: Fortification being sabotaged from within by Joseph Millar
+- name: H8 Ruins
+  type: location
+  note: school specializing in elemental forces where Senshock studied
+- name: Marketsquare
+  type: location
+  note: site of the Act 1 warehouse raid and merchant accusations
+- name: The Bridgeforth Estate
+  type: location
+  note: site of the clandestine meeting between Lucius, Bridgeforth, and Quallad
+- name: The Secret Safehouse
+  type: location
+  note: hidden meeting place where Lucius' operatives store stolen goods and forge
+    documents
+- name: War Council Chamber
+  type: location
+  note: secluded meeting hall guarded by wards, guards, and hired assassins
+- name: Varifane
+  type: location
+  note: seat of Warlord Braggok Iron-Claw
+- name: Hardby
+  type: location
+  note: city near Woolly Bay where Belsornig honed his political intrigue
+- name: Nexus
+  type: concept
+  note: collective name for the elemental nodes Lolth's agents seek to control
+- name: Prime Material Plane
+  type: concept
+  note: the plane the Elder Elemental God seeks to influence once its prison is weakened
+- name: the Nexus
+  type: concept
+  note: ancient nexus beneath the Temple the cult seeks to activate to reconnect with
+    Rentaq
+- name: +1 Leather Armor
+  type: item
+  note: Smigmal's enchanted armor
+- name: +1 Plate Armor
+  type: item
+  note: Barkinar's magic armor
+- name: +1 Shortsword
+  type: item
+  note: Smigmal's enchanted melee weapon
+- name: +2 Rapier
+  type: item
+  note: Feldrin's magic melee weapon
+- name: +3 Plate Armor
+  type: item
+  note: Hedrack's armor
+- name: Amulet of the Shrouded One
+  type: item
+  note: magic item; blocks divination/tracking, grants free Nondetection 1/long rest
+- name: Animate Dead
+  type: item
+  note: 3rd-level cleric spell prepared by Deggum
+- name: Augury
+  type: item
+  note: 2nd-level cleric spell prepared by Deggum
+- name: Bestow Curse
+  type: item
+  note: 3rd-level cleric spell prepared by Barkinar
+- name: Black Scarab
+  type: item
+  note: Temple Artifact carried by Hedrack
+- name: Black Scarab Amulet
+  type: item
+  note: magical sigil granting Deggum authority to command the Blackthorn warriors
+- name: Black Scarab of Zuggtmoy
+  type: item
+  note: artifact that controls hidden temple mechanisms, part of Deggum's special
+    equipment
+- name: Bless
+  type: item
+  note: 1st-level cleric spell prepared by Deggum
+- name: Book of Nar
+  type: item
+  note: ancient tome; Smigmal holds a fragment containing the ritual to weaken the
+    Elder Elemental God's prison, nicknamed the 'scroll of madness' by bandits
+- name: Cause Light Wounds
+  type: item
+  note: spell (stat block)
+- name: Chant
+  type: item
+  note: 2nd-level cleric spell prepared by Deggum
+- name: Cloak of Protection
+  type: item
+  note: magic item worn by Feldrin
+- name: Cloak of the Forsaken Veil
+  type: item
+  note: Lucius's cloak granting free Pass Without Trace and stealth advantage
+- name: Command
+  type: item
+  note: 1st-level cleric spell prepared by Barkinar
+- name: Continual Darkness
+  type: item
+  note: 3rd-level cleric spell prepared by Deggum
+- name: Control Water
+  type: item
+  note: spell (stat block); elemental-themed control tied to EEG's power
+- name: Cure Light Wounds
+  type: item
+  note: 1st-level cleric spell prepared by Deggum
+- name: Cure Wounds
+  type: item
+  note: 1st-level cleric spell prepared by Barkinar
+- name: Death Ward
+  type: item
+  note: 4th-level cleric spell prepared by Barkinar
+- name: Detect Charm
+  type: item
+  note: spell (stat block)
+- name: Devastation Orb
+  type: item
+  note: artifact Lucius unleashes in his final confrontation, borrowed from Princes
+    of the Apocalypse
+- name: Dispel Magic
+  type: item
+  note: 3rd-level cleric spell prepared by Barkinar
+- name: Divination
+  type: item
+  note: spell (stat block); used to commune with the EEG
+- name: Earth Gem
+  type: item
+  note: first Elemental Power Gem, recovered from the Burrows and placed in the Orb's
+    diadem
+- name: Elder Elemental Eyes
+  type: item
+  note: artifacts of immense power, fragments of Rentaq's shattered soul, first wielded
+    by Rentaq the Seer
+- name: Elder Elemental Shards
+  type: item
+  note: scattered fragments of Rentaq's essence the cult seeks to restore his power
+- name: Elemental Power Gems
+  type: item
+  note: four gems (Earth, Air, Fire, Water) hidden in the Elemental Nodes, needed
+    to restore the Orb
+- name: Find Traps
+  type: item
+  note: spell (stat block)
+- name: Guidance
+  type: item
+  note: cleric cantrip prepared by Barkinar
+- name: Hat of Disguise
+  type: item
+  note: magic item Smigmal Redhand uses to masquerade as an elf noblewoman
+- name: Hold Person
+  type: item
+  note: 2nd-level cleric spell prepared by Barkinar
+- name: Invisibility
+  type: item
+  note: 2nd-level wizard spell prepared by Deggum (x2 slots)
+- name: Iron Dagger
+  type: item
+  aliases:
+  - The Iron Dagger
+  note: pirate ship commanded by Captain Tolub
+- name: Light
+  type: item
+  note: cleric cantrip prepared by Barkinar
+- name: Mace of Smiting
+  type: item
+  note: Hedrack's melee weapon, bonus damage vs constructs
+- name: Mace of the Withering
+  type: item
+  note: unique melee weapon; causes exhaustion, bonus necrotic vs frightened targets
+- name: Mage Hand
+  type: item
+  note: wizard cantrip prepared by Deggum
+- name: Magic Missile
+  type: item
+  note: 1st-level wizard spell prepared by Deggum (x3 slots)
+- name: Magical Seals of the Greater Temple
+  type: item
+  note: Artifacts proving the supply chain's direct link to Hedrack
+- name: Nondetection
+  type: item
+  note: spell (stat block); granted free by Amulet of the Shrouded One
+- name: Pass Without Trace
+  type: item
+  note: spell (stat block); granted free by Cloak of the Forsaken Veil
+- name: Poison
+  type: item
+  note: 2nd-level cleric spell prepared by Deggum
+- name: Potion of Growth
+  type: item
+  note: Special equipment carried by Deggum.
+- name: Potion of Speed
+  type: item
+  note: speed potion in Barkinar's equipment
+- name: Potion of Superior Healing
+  type: item
+  note: healing potion in Barkinar's equipment
+- name: Prayer of Healing
+  type: item
+  note: 2nd-level cleric spell prepared by Barkinar
+- name: Prestidigitation
+  type: item
+  note: wizard cantrip prepared by Deggum
+- name: Protection from Good
+  type: item
+  note: spell (stat block)
+- name: Protection from Poison
+  type: item
+  note: 2nd-level cleric spell prepared by Barkinar
+- name: Ray of Frost
+  type: item
+  note: wizard cantrip prepared by Deggum
+- name: Resistance
+  type: item
+  note: cleric cantrip prepared by Barkinar
+- name: Ring of Fire Resistance
+  type: item
+  note: grants resistance to fire damage, part of Deggum's special equipment
+- name: Ring of Protection
+  type: item
+  note: Senshock's ring, +1 AC and saves
+- name: Sacred Flame
+  type: item
+  note: cleric cantrip prepared by Barkinar
+- name: Sanctuary
+  type: item
+  note: 1st-level cleric spell prepared by Deggum (x2 slots)
+- name: scarab pendant marked 'TZGY'
+  type: item
+  note: Senshock's pendant granting control over the Temple's hidden mechanisms
+- name: Silence
+  type: item
+  note: 2nd-level cleric spell prepared by Barkinar
+- name: Spare the Dying
+  type: item
+  note: spell (stat block)
+- name: Spell Scroll of Teleport
+  type: item
+  note: Senshock's equipment
+- name: Spiritual Hammer
+  type: item
+  note: 2nd-level cleric spell Deggum casts as a bonus action to create a floating
+    spectral hammer
+- name: Staff of Fire
+  type: item
+  note: Senshock's staff granting fire resistance and spellcasting; also his melee
+    weapon
+- name: Staff of Striking
+  type: item
+  note: Barkinar's melee weapon, deals bonus force damage by expending charges
+- name: Studded Leather +1
+  type: item
+  note: magic armor worn by Feldrin
+- name: Thaumaturgy
+  type: item
+  note: cleric cantrip prepared by Deggum
+- name: the Pact Document (blood pact scroll)
+  type: item
+  note: written agreement that would bind the Howling Moon Clan to the Temple's service,
+    to be signed via blood ritual
+- name: Tome of Leadership
+  type: item
+  note: legendary item granting a Charisma bonus if studied, held by Falrinth
+- name: Type B Poison
+  type: item
+  note: insinuative poison Smigmal coats her blade with
+- name: 3orcs
+  type: faction
+  note: real-world publisher/brand name credited for this DM supplement, not an in-fiction
+    faction
+- name: Black Earth Temple
+  type: faction
+  note: also called the Earth Temple; elemental cult faction within the Temple of
+    Elemental Evil, led by Romag
+- name: Blackthorn Orcs
+  type: faction
+  note: named orc raiders threatening the town
+- name: Blackthorn Tribe
+  type: faction
+  note: brutal force of ogres, bugbears, and hobgoblins bound to the Temple through
+    fear rather than loyalty
+- name: Canon of the Water Temple
+  type: faction
+  note: formal religious title held by Belsornig
+- name: City Watch
+  type: faction
+  note: Verbobonc authority deceived by false gnome-raid reports signed "Aldren"
+- name: Commander of Security
+  type: faction
+  note: title held by Deggum, Smigmal's direct superior
+- name: Crimson Reapers
+  type: faction
+  aliases:
+  - The Crimson Reapers
+  note: mercenary/bandit group led by Rom Khavernus, delivers prisoners and contraband
+    to the Temple
+- name: Cult of the Black Earth
+  type: faction
+  note: Romag's earth-worshipping sect within the Earth Temple
+- name: Cult of the Crushing Wave
+  type: faction
+  note: cult Captain Garik Marath belongs to
+- name: Cult of the Elder Elemental God
+  type: faction
+  note: also called Cult of the EEG; shadowy fractured sect devoted to Rentaq, unknowingly
+    serving Zuggtmoy
+- name: Cult of the Howling Hatred
+  type: faction
+  note: Kelno's air-worshipping sect within the Air Temple
+- name: EEG
+  type: faction
+  note: faction/interest group whose dual agenda Hedrack covertly serves alongside
+    Iuz's
+- name: Elemental Earth Reavers
+  type: faction
+  note: Romag's disciplined military force of soldiers and clerics
+- name: Fire Guards
+  type: faction
+  note: Fire Temple's soldiery, led by Commander Varek Redflame
+- name: Four Elemental Temples
+  type: faction
+  note: the four elemental sub-cults of the Temple entangled with Iuz/Zuggtmoy/Lolth
+    factions
+- name: High Commander
+  type: faction
+  note: formal rank within the Greater Temple held by Senshock
+- name: Howling Moon Clan
+  type: faction
+  note: feared tribe of lycanthropic orcs from the Fens of Tor being courted into
+    a blood pact with the Temple
+- name: Iron Claw Clan
+  type: faction
+  note: bugbear warband (also called Iron Claw Bugbears) in the Welkwood Forest allied
+    via Feldrin
+- name: Iuz's forces
+  type: faction
+  note: potential allies Falrinth may seek if he escapes
+- name: Jagged Fang Tribe
+  type: faction
+  aliases:
+  - Jagged Fangs tribe
+  note: gnoll tribe (also called Jagged Fang Gnolls) in the Lortmil Mountains allied
+    via Lareth
+- name: Kelno's Bodyguards
+  type: faction
+  note: personal enforcer unit of bugbears and gnolls under Kelno
+- name: Silver Consortium
+  type: faction
+  note: Verbobonc's premier arcane guild that overshadowed Senshock as a young wizard
+- name: Temple Guards
+  type: faction
+  note: Temple's security force commanded by Deggum
+- name: The Black Earth
+  type: faction
+  note: Earth Temple cult led by Romag, devoted to the Elder Elemental God's foundation
+    aspect
+- name: The Crushing Wave
+  type: faction
+  note: Water Temple cult led by Belsornig, devoted to the Elder Elemental God's deluge
+    aspect
+- name: The Eternal Flame
+  type: faction
+  note: Fire Temple cult led by Alrrem, devoted to the Elder Elemental God's fire
+    aspect
+- name: The Howling Hatred
+  type: faction
+  note: Air Temple cult led by Kelno, devoted to the Elder Elemental God's storm aspect
+- name: Viscount's Court
+  type: faction
+  note: Verbobonc's ruling nobility who may intervene if the Temple's schemes are
+    exposed
+- name: 569 CY
+  type: event
+  note: year of the Battle of Emridy Meadows
+- name: 579 CY
+  type: event
+  note: in-fiction year of the Temple's (second) rise to power
+- name: Audience with Romag
+  type: event
+  note: named scene where the party presents proof of the ambush to Romag in the Earth
+    Temple chambers
+- name: Battle of Emridy Meadows
+  type: event
+  note: decisive Temple defeat in 569 CY that ruined Nysera's family and Alrrem's
+    Fire Temple leadership
+- name: Chains of Command
+  type: event
+  note: adventurers' operation title to break the Temple's and Crimson Reapers' supply
+    lines
+- name: Fall of the First Temple
+  type: event
+  note: collapse of the original Temple of Elemental Evil that preceded Barkinar's
+    arrival at the ruins
+- name: Forsaken Heritage
+  type: event
+  note: Deggum's rejection of his elven ties in Welkwood in pursuit of forbidden power.
+- name: Gnome Trade Crisis
+  type: event
+  note: sabotage campaign against gnome commerce that the adventurers investigate
+- name: Lolth's Plan
+  type: event
+  note: Falrinth and Lareth's shared, partly-hidden mission to seize control of the
+    elemental nodes for Lolth
+- name: Mysteries of the Greater Temple
+  type: event
+  note: clandestine initiation rite through which Hedrack inducted Barkinar into Iuz's
+    secret service
+- name: Ogre Pact
+  type: event
+  note: Deggum's securing of the Blackthorn ogres' allegiance under Chief Garghuk,
+    delivered to the Greater Temple.
+- name: Pact of the Howling Moon
+  type: event
+  note: secret negotiation/alliance between the Temple of Elemental Evil and the Howling
+    Moon Clan that the adventurers must infiltrate and disrupt
+- name: Recruitment by Lareth
+  type: event
+  note: Deggum's initiation into the tenets of the Elder Elemental God under Lareth's
+    tutelage
+- name: Recruitment of the Blackthorn Tribe
+  type: event
+  note: Deggum's campaign to secure ogre, bugbear, and hobgoblin warriors for the
+    Temple via Chieftain Garghuk.
+- name: The Argument
+  type: event
+  note: overheard confrontation between Wat and Skole that exposes the Fire/Water
+    Temple rift
+- name: the Elemental Apocalypse
+  type: event
+  note: prophesied elemental chaos meant to consume civilization, a long-term cult
+    goal
+- name: The First Rising (546–569 CY)
+  type: event
+  note: era in which the cult helped found the Temple of Elemental Evil before being
+    driven underground
+- name: The First Temple's fall
+  type: event
+  note: collapse of the original Temple that preceded Barkinar's arrival with his
+    mercenary band
+- name: The Gnoll Ambush
+  type: event
+  note: named quest event - ambushing Ursk Fangbite's warband in the Gnarley Forest
+- name: The Pact's Finalization
+  type: event
+  note: blood ritual by which Feldrin and Barkinar plan to bind the Howling Moon Clan
+    to the Temple's cause
+- name: The Second Rising (574–Present, 579 CY)
+  type: event
+  note: era in which the rebuilt Temple's cult resurfaces to seek the Eyes and activate
+    the Nexus
+- name: The Temple's second rising
+  type: event
+  note: Iuz and Zuggtmoy's alliance masking their goals behind false elemental worship
+- name: The Turning Point
+  type: event
+  note: encounter hook - the moment Brunk decides to act, launching a coup at the
+    cottage or leading a splinter faction into the forest
+- name: The Will of the Earth
+  type: event
+  note: title of this quest chapter - Rentsch's recruitment leading to Romag's audience
+- name: Veil of Shadows
+  type: event
+  note: title of the chapter's introduction, covering the conditions for Rentsch's
+    secret approach
+- name: Whispered Rite of the Elder Eye
+  type: event
+  note: named ritual/rite that, if completed, weakens the Elder Elemental God's prison
+- name: Durnic
+  type: npc
+  note: owns Durnic's Stablehouse, a stable facility in Nulb
+- name: Varek
+  type: npc
+  aliases:
+  - Stablemaster Varek
+  note: paid informant counting saddles and reporting cavalry movement
+- name: Mavreks
+  type: npc
+  note: former baker for whom the now-abandoned Old Mavreks Bakery is named
+- name: Dunstan
+  type: npc
+  note: owns the Boatwright, builds and repairs boats in Nulb
+- name: Elvanna Thorne
+  type: npc
+  note: runs the Nulb Brothel, a Scarlet Brotherhood plant
+- name: Harlow
+  type: npc
+  note: owner of Harlow's Cottage, a residence in Nulb
+- name: Edrick Malvaar
+  type: npc
+  aliases:
+  - Constable Malvaar
+  note: broken, corrupt Constable of Nulb kept pliant by Selentis
+- name: Lord Eldris Krivaltis
+  type: npc
+  note: Nysera's father, executed in 569 CY for aiding the Temple
+- name: Master Aldren Valegrave
+  type: npc
+  note: master of Valegrave Manor, supplies Nulb with grain and livestock via indentured
+    serfs
+- name: Zelt
+  type: npc
+  note: faction leader in Dyvers, employer of Rom Khavernus
+- name: Maldrith
+  type: npc
+  note: second-in-command of the Crimson Reapers, wants Nulb turned into a necropolis
+- name: Felix Fahnor
+  type: npc
+  note: head of the Crimson Reaper hit squad, eliminates obstacles ruthlessly
+- name: Sir Torvel Hawkes
+  type: npc
+  aliases:
+  - Associate Sir Torvel Hawkes
+  note: Selentis's sworn protector, a scarred veteran of the Battle of Emridy Meadows
+- name: Captain Dren Halveth
+  type: npc
+  note: leads the Broken Blades mercenary company, plays factions for contracts
+- name: Veyne
+  type: npc
+  note: owns Veyne's Mill, a grain-processing mill in Nulb
+- name: Jereader Zomawyn
+  type: npc
+  note: spiritual head of the Gilded Shackle who sanctifies Nulb's slave trade
+- name: Lorveth
+  type: npc
+  aliases:
+  - The Broker
+  note: coordinates slave auctions from an office above the Boatman's Tavern
+- name: Krael Vortash
+  type: npc
+  aliases:
+  - Captain Krael Vortash
+  - Temple Guard Captain Krael Vortash
+  note: Greater Temple captain placed by Smigmal Redhand to assist Selentis
+- name: Central Oval Cavern
+  type: location
+  note: cavern deep in the Temple ruins reached via the Hunting Cottage tunnel
+- name: Etters Watchtower
+  type: location
+  note: Fire Temple stronghold, aka 'The Etters'
+- name: High/Forest Road
+  type: location
+  note: key trade road that makes Nulb a notable stop
+- name: Hunting Cabin
+  type: location
+  note: way-station through which smuggled goods and prisoners flow to the Temple's
+    secret tunnel
+- name: Shattered Monastery
+  type: location
+  note: Earth Temple stronghold used as a misdirection target
+- name: River Fort
+  type: location
+  note: Water Temple stronghold used as a misdirection target
+- name: Boatman's Market
+  type: location
+  note: market intake beside the Boatman's Tavern, run by Lodriss and Skole
+- name: Boatwright
+  type: location
+  note: Dunstan's boat-building and repair yard
+- name: Bramblethorn Ranch
+  type: location
+  note: ranch on Nulb's outskirts
+- name: Bridge of Nulb
+  type: location
+  note: dilapidated stone bridge spanning the Imeryds Run at the village's edge
+- name: Cottage Ruins
+  type: location
+  note: scattered abandoned or ruined cottages
+- name: Durnic's Stablehouse
+  type: location
+  note: Durnic's stable facility
+- name: Fishing Shack
+  type: location
+  note: modest riverside fishing structure
+- name: Gilded Shackle
+  type: location
+  note: slave-trade establishment led by priest Jereader Zomawyn
+- name: Harlow's Cottage
+  type: location
+  note: Harlow's residential cottage
+- name: Herb Shop
+  type: location
+  note: Mother Screng's herbalism and potion shop
+- name: Mistwatch Huts
+  type: location
+  note: lookout and surveillance huts
+- name: Nulb Brothel
+  type: location
+  note: brothel overseen by Elvanna Thorne
+- name: Nulb Constable
+  type: location
+  note: office/residence of Nulb's constable
+- name: Nulb Graveyard
+  type: location
+  note: village cemetery
+- name: Old Mavreks Bakery
+  type: location
+  note: abandoned or repurposed bakery
+- name: River Docks
+  type: location
+  note: decrepit docks where pirates and smugglers operate under pirate-ship watch
+- name: Thorne's Cottage
+  type: location
+  note: residential cottage tied to the Thorne family
+- name: Valegrave's Farmstead
+  type: location
+  note: farmstead securing food and grain for Selentis's logistics network
+- name: Veyne's Mill
+  type: location
+  note: Veyne's grain-processing mill
+- name: Wainwright
+  type: location
+  note: wagon-and-timber tradesman's shop, doubling as a plunder depot
+- name: Wharf Pier
+  type: location
+  note: main docking area for ships and cargo
+- name: Crimson Trader
+  type: item
+  aliases:
+  - The Crimson Trader
+  note: Captain Marad Vesrek's slaver ship
+- name: Broken Blades
+  type: faction
+  note: Dren Halveth's independent mercenary company
+- name: Crimson Trader crew
+  type: faction
+  note: pirate crew that appears to outsiders as one of Nulb's more powerful independent
+    factions
+- name: Gnarley Rangers
+  type: faction
+  note: ranger network Otis covertly serves, monitoring the Temple's resurgence
+- name: Greater Temple Cell
+  type: faction
+  note: Nulb's covert Temple cell, run by Selentis for logistics and deniability
+- name: Mounted Borderers
+  type: faction
+  note: Viscount's cavalry force whose withdrawal from the Kron Hills emboldened bandits
+    and pirates
+- name: New Gentry
+  type: faction
+  note: Dyvers' privileged social class Rom Khavernus was born into
+- name: Slave Lords
+  type: faction
+  note: slaving syndicate Captain Vesrek serves and hopes to usurp
+- name: Temple Brigand Guards
+  type: faction
+  note: Selentis's private brigand enforcers (aka Selentis's Bandits), assigned by
+    Smigmal Redhand
+- name: 569 CY uprising
+  type: event
+  note: year Lord Eldris Krivaltis was exposed and executed for aiding the Temple
+- name: Break the Chain
+  type: event
+  note: quest hook to sabotage the Hunting Cottage tunnel node
+- name: Demographics of Nulb (576 CY)
+  type: event
+  note: in-fiction census date given for Nulb's population and occupational breakdown
+- name: Escalation Clock
+  type: event
+  note: four-step alert track (Watchers, Shadowing, Street Edit, Night Knock) tracking
+    disturbances
+- name: Feldrin's Teeth
+  type: event
+  note: escalation-ladder failure state where bugbear "inspectors" arrive to audit
+    the problem
+- name: Increased Bandit Raids
+  type: event
+  note: escalating banditry Hedrack uses as cover for the Temple's logistics
+- name: Invitation Withdrawn
+  type: event
+  note: escalation-ladder failure state where the Grand Hall parley becomes a trap
+- name: Mission of Blood
+  type: event
+  note: quest hook to check Captain Tolub without open war, at Selentis's order
+- name: Mounted Borderer Withdrawal
+  type: event
+  note: 'recent political development: the Viscount''s cavalry pulling back from the
+    Kron Hills'
+- name: Parley in the Grand Hall
+  type: event
+  note: 'quest hook: Selentis''s crossbow-guarded negotiation scene'
+- name: Power Struggle in Nulb
+  type: event
+  note: quest hook to expose Selentis as the Temple's civilian handler
+- name: Quiet Knife
+  type: event
+  note: escalation-ladder failure state where a messenger vanishes and prices rise
+- name: Smigmal's Shadow
+  type: event
+  note: escalation-ladder failure state where an assassin dogs the party's trail
+- name: Temple Influence Rising
+  type: event
+  note: Selentis's exploitation of factional feuds to expand covert Temple influence
+- name: The Constable's Last Badge
+  type: event
+  note: quest hook to break or redeem Constable Malvaar
+- name: The Nulb Funnel
+  type: event
+  note: Selentis and Feldrin's smuggling operation routing goods to the Hunting Cottage
+    tunnel
+- name: The Rise of the "Baroness"
+  type: event
+  note: quest hook to secure leverage over slaver-captain Vesrek
+- name: The Silent Road
+  type: event
+  note: quest hook to intercept a midnight Temple supply convoy
+- name: Thorne
+  type: npc
+  aliases:
+  - Thorne Duke
+  - Thorne The Duke
+  - The Duke
+  - Duke
+- name: Albreth
+  type: npc
+  aliases:
+  - Albrith
+  - Albrith Albreth
+- name: Tharok
+  type: npc
+  aliases:
+  - Tharok Stevan Tharok Stonevein
+  - Tharok Stevan
+  - Tharok Stonevein
+  - High Templar Tharok
+  - High Templar Tharok Stevan
+- name: Brother Eldin
+  type: npc
+  aliases:
+  - Brother Eldin Brother Eldrin
+  - Brother Eldren
+  - Brother Eldrin
+  - Eldin
+  - Eldrin
+  - Eldren
+- name: Hestort Flintshine
+  type: npc
+  aliases:
+  - Hestort Flintshine Tort
+  - Tort
+  - Hestort
+- name: Thalsor Of The Stone
+  type: npc
+  aliases:
+  - Thalsor
+- name: Glennon Clee
+  type: npc
+  aliases:
+  - Glannon
+  - Glannon Clee
+  - Glennon
+- name: Pasmarie Clee
+  type: npc
+  aliases:
+  - Palsmarie Clee
+  - Palsmarie
+  - Pasmarie
+- name: Aunt Emma
+  type: npc
+  aliases:
+  - Aunt Emma Green Hag
+  - Aunt Emma the Green Hag
+  - The Green Hag
+- name: Commander Joradin
+  type: npc
+  aliases:
+  - Joradin
+- name: Lenora Glimmerfield
+  type: npc
+  aliases:
+  - Mistress Lenora Glimmerfield
+  - Mistress Lenora
+  - Lenora
+- name: Aldous Glimmerfield
+  type: npc
+  aliases:
+  - Master Aldous Glimmerfield
+  - Master Aldous
+  - Aldous
+- name: Quinna Poul
+  type: npc
+  aliases:
+  - Quinna Pool
+  - Quinna
+- name: Spugnoir Balkof
+  type: npc
+  aliases:
+  - Spugnoir
+  - Spugnois
+  note: low-level evoker lodging at the inn, plans to search the ruined moat house
+- name: Serena Velkori
+  type: npc
+  aliases:
+  - Serena
+- name: Glennddarc
+  type: npc
+  aliases:
+  - Headgnome Glennddarc
+  - Headgnome
+- name: airgid
+  type: npc
+- name: captain_gnonsbim
+  type: npc
+- name: captain_varsik
+  type: npc
+- name: constable_eldrin_malavar
+  type: npc
+- name: derrick
+  type: npc
+- name: dren
+  type: npc
+- name: dren_halveth
+  type: npc
+- name: Eelrich Vane
+  type: npc
+  aliases:
+  - Brother Vane
+  - Brother Eelrich
+- name: elazar
+  type: npc
+- name: elder_kenter
+  type: npc
+- name: elfar_twell
+  type: npc
+- name: elvanna
+  type: npc
+- name: erin_darkmoon
+  type: npc
+- name: eryk_velkori
+  type: npc
+- name: faria
+  type: npc
+- name: fire_temple_warlock
+  type: npc
+- name: florian
+  type: npc
+- name: furnok
+  type: npc
+- name: garik
+  type: npc
+- name: gonnathrad_kevanarial
+  type: npc
+- name: grindin_well_read
+  type: npc
+- name: gurdy
+  type: npc
+- name: ingulf
+  type: npc
+- name: iniri
+  type: npc
+- name: jarran
+  type: npc
+- name: jerry
+  type: npc
+- name: jijohn
+  type: npc
+- name: jira
+  type: npc
+- name: jorin_pike_kale
+  type: npc
+- name: keenleene
+  type: npc
+- name: ketta
+  type: npc
+- name: knarfallan
+  type: npc
+- name: krell
+  type: npc
+- name: lieutenant_krell
+  type: npc
+- name: lord_denelu
+  type: npc
+- name: maeris-dorn
+  type: npc
+- name: magda
+  type: npc
+- name: mahoon
+  type: npc
+- name: marek
+  type: npc
+- name: mari_clee
+  type: npc
+- name: mickey
+  type: npc
+- name: obsidian-edge-salamander
+  type: npc
+- name: rannos
+  type: npc
+- name: ranus_duval
+  type: npc
+- name: rithelm_drake
+  type: npc
+- name: robert_deakin
+  type: npc
+- name: sequoia
+  type: npc
+- name: sister_alina
+  type: npc
+- name: snej
+  type: npc
+- name: tala_velkori
+  type: npc
+- name: the_crimson_reaper_unnamed_spokesperson
+  type: npc
+- name: the_dryad
+  type: npc
+- name: tilly_bizpebble_whistle
+  type: npc
+- name: urot
+  type: npc
+- name: varek-solain
+  type: npc
+- name: verigo
+  type: npc
+- name: vethra_velkori
+  type: npc
+- name: voss
+  type: npc
+- name: warda
+  type: npc
+- name: zelt_the_rat
+  type: npc
+- name: zephyr
+  type: npc
+distinct:
+- - Barkinar
+  - Deggum
+rejected_aliases:
+- - Dren
+  - Dren Halveth
+- - Krell
+  - Lieutenant Krell
+- - Rannos
+  - Ranos Davl
+  - Ranus Duval
+- - Mari Clee
+  - Pasmarie Clee
+- - Glennddarc
+  - Glennon Clee
+- - Brother Eldin
+  - Constable Eldrin Malavar
