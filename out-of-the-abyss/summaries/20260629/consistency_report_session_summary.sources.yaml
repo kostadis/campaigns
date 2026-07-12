@@ -1,0 +1,28 @@
+consistency_check:
+  timestamp: "2026-07-12T03:56:47+02:00"
+  campaign: out-of-the-abyss
+  document_checked: summaries/20260629/session-summary.md
+  report: summaries/20260629/consistency_report_session_summary.md
+  config: config/config.yaml          # base_dir bug fixed (paths use ../docs/); no workaround needed
+  model: claude-sonnet-4-6
+  issues_found: 15                     # 15 raised; 10 flagged as requiring correction
+  session_prep_used: true
+  entity_registry_used: true          # NEW vs the earlier ch58 run — resolved #13, grounded #1/#2
+  sources:
+    auto_loaded:                       # from config _DEFAULT_CONFIG_DOCS
+      - { label: campaign_state, path: docs/campaign_state.md }
+      - { label: world_state,    path: docs/world_state.md }
+    context:
+      - { path: docs/party.md,             role: "PCs (campaign-standard)" }
+      - { path: docs/entity_registry.yaml, role: "canonical entity registry + aliases (campaign-standard)" }
+      - { path: notes/session_prep/20260629_candlekeep_the_gatewarden_lives.md, role: "session prep (authoritative)" }
+      - { path: "notes/sessions/Kalan to Janussi - Second Petition.md", role: "in-world handout" }
+      - { path: "notes/sessions/Bookwyrm to Janussi - Regarding the Gatewarden's Second Petition.md", role: "in-world handout" }
+      - { path: notes/sessions/handouts/threefold_proof.md, role: "canonical name/content of Kalan's methodology" }
+      - { path: notes/sessions/handouts/player_npc_tracker_candlekeep.md, role: "canonical NPC name/title list" }
+  notes: |
+    Target is the batch-regenerated ENRICHED recap (session-summary.md), which inherited
+    the 7 fixes from the earlier check of the human recap (now gm-assist.md) and added VTT
+    detail. Registry added this run resolved #13 (Alkrist=Bookwyrm's nephew) and grounded
+    #1/#2. Several findings (#7/#8/#14) concern GM-secret decoy-key state — apply only as
+    "open question / not yet realized" framing; do NOT reveal the decoy in a player recap.
