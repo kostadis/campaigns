@@ -15,14 +15,16 @@ mempalace:
   index_wings: [chronicle, abyss]
   canon_wing: narrative
 
+# Document paths are relative to THIS config file's directory (config/),
+# so grounding docs under ../docs/ need the ../ prefix.
 documents:
   - label: campaign_state
-    path: docs/campaign_state.md
+    path: ../docs/campaign_state.md
   - label: world_state
-    path: docs/world_state.md
+    path: ../docs/world_state.md
   - label: mechanics
-    path: docs/mechanics.md
+    path: ../docs/mechanics.md
   - label: planning
-    path: docs/planning.md
+    path: ../docs/planning.md
   - label: party
-    path: docs/party.md
+    path: ../docs/party.md
