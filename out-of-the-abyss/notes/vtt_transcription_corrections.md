@@ -11,17 +11,17 @@ First catalogued during the cleanup of
 
 | Wrong | Right |
 |---|---|
-| Zaltir, Zalter, Zaltier, Zeltar, Azaltier, Salter, Zaltura, Zoltir | **Zalthir** |
-| Gergam, Gregam, Greg, Grigam, Gergummy, Gregorum, Grygram, Grugum, Gurgum, Grigament, Graham | **Grygum** |
-| Thorne, Thornton, Thurren, Or Torin | **Thorin** |
-| Adaz, Das, Dez, Dazz, Jazz | **Daz** |
+| Zaltir, Zalter, Zaltier, Zeltar, Azaltier, Salter, Zaltura, Zoltir, Zoltier | **Zalthir** |
+| Gergam, Gregam, Greg, Grigam, Gergummy, Gregorum, Grygram, Grugum, Gurgum, Grigament, Graham, Gurgham, Girgam, Girgum, Graghum, Greggum, Jorgum, Gargram, Ragum | **Grygum** |
+| Thorne, Thornton, Thurren, Or Torin, Thorian, Thorn | **Thorin** |
+| Adaz, Das, Dez, Dazz, Jazz, Doug | **Daz** |
 | Dazes | **Daz's** |
 
 ## NPCs and creatures
 
 | Wrong | Right |
 |---|---|
-| Glavagul, Glavagul's, Glabogul, Glavo, Glavacle, Glavable, Glavigal, Glavagol, Glabagul, Glabigle, Lavagul, Lavagul's, Miklabogul, Globul, Globagool, Gobblegool, Glabugul, Gladbagul, Globagul, Glabagool, Baba Gul, Glab Agul, Glad Abugul, Glad Agul, Globugul, Klobagool, Ivagoo, Glavgul, Glamble, Bugabagul, Glaba Gul, Glabagul-, Glad Maguld, Glavagulis, Ilab Agul, Bhagava Gul, Gladwell, Glabapagool, Galavagul, Glavo Gould, Glavo Golf, Gladbagool, Glavigold | **Glabbagool** |
+| Glavagul, Glavagul's, Glabogul, Glavo, Glavacle, Glavable, Glavigal, Glavagol, Glabagul, Glabigle, Lavagul, Lavagul's, Miklabogul, Globul, Globagool, Gobblegool, Glabugul, Gladbagul, Globagul, Glabagool, Baba Gul, Glab Agul, Glad Abugul, Glad Agul, Globugul, Klobagool, Ivagoo, Glavgul, Glamble, Bugabagul, Glaba Gul, Glabagul-, Glad Maguld, Glavagulis, Ilab Agul, Bhagava Gul, Gladwell, Glabapagool, Galavagul, Glavo Gould, Glavo Golf, Gladbagool, Glavigold, Clavigal, Bernie Gutton, glabbagel | **Glabbagool** |
 | Jam Jar, Jim Jar | **Jimjar** |
 | Kel'Vire, Kel Vire, Calvir, Kel Veer, Kelvir | **Khell-Vire** |
 | Asha Vandri, Ashe Vandri, Ashas | **Asha Vandree** |
@@ -50,10 +50,10 @@ First catalogued during the cleanup of
 | Bookworm, Bookform, Bookworn, Does Bookworm, Arum, Book Forum, Book Room, Bookroom | **Bookwyrm** |
 | Miro Milo Glutbarrell | **Milo Goodbarrel** |
 | Philippine | **Philemon** |
-| Janusi, Genasi, Genusi, Janu, Genius, Genesee, Genuzia, Janice, Januzzi, Genesis Croix, Genosi, Genuzi, Genuisi, Janusa, Jedusi, Venusi, Vinusi, Matt Genusi, GenoC, Genucio, Genousi, Jaducu | **Janussi** |
+| Janusi, Genasi, Genusi, Janu, Genius, Genesee, Genuzia, Janice, Januzzi, Genesis Croix, Genosi, Genuzi, Genuisi, Janusa, Jedusi, Venusi, Vinusi, Matt Genusi, GenoC, Genucio, Genousi, Jaducu, Genuzzi | **Janussi** |
 | Tadrick, Tadrik, Kadrick, Tabree, Cedric, Tardik, Tedrick, Tatrix | **Tadric** |
-| Callan Strongbranch, Kalen, Callan Strongfeld, Callen, J- Kaelin, Kalin, Kellen, Carolyn, Kalen Strongbridge, Callan Strongbench, North Carolina Strong Brunch | **Kalan Strongbranch** |
-| Callan, Callum, Cullen, Kaelin, Colin, Cal, Collins | **Kalan** |
+| Callan Strongbranch, Callan Strongfeld, J- Kaelin, Kalen Strongbridge, Callan Strongbench, North Carolina Strong Brunch | **Kalan Strongbranch** |
+| Callan, Callum, Cullen, Kaelin, Colin, Cal, Collins, Talon, Talen, Kalen, Callen, Kalin, Kellen, Carolyn | **Kalan** |
 | Ally Avonmore, Alai Ivanmore, Ally Ivan Moore, Ally Avanmore, Alvin Moore, Ivan Moore, Ivanor | **A'lai Aivenmore** |
 | Avon Moore | **Aivenmore** |
 | Alay, L.A., Alei, Eli, Allay, Ally | **A'lai** |
@@ -65,7 +65,7 @@ First catalogued during the cleanup of
 | Miss Molly Pocket, Miss Hollypock | **Miss Hollypocket** |
 | Ogma, Ogama | **Oghma** |
 | Bahamatians | **Bahamutians** |
-| Infirmus, Ephemeris, Fembrus, Fendris | **Fembris** |
+| Infirmus, Ephemeris, Fembrus, Fendris, Fembrance | **Fembris** |
 | Keeper of Toads | **Keeper of Tomes** |
 | Janusi's Chambers | **Janussi's Chambers** |
 | Aluando, Alando, Alwando | **Alaundo** |
@@ -76,12 +76,12 @@ First catalogued during the cleanup of
 | Teles of Oste, Teles Avoste, Teller's Avoste | **Teles Ahvoste** |
 | Telus, Tellez | **Teles** |
 | Cad Daral Yashenti, Elton Jaral, Donald Yashenti | **Daral Yashenti** |
-| Fembric Lancer, Fembrus Lancer, Frembris, So Fembris, Fember, Feminor, Femador, Femidor | **Fembris Lancer** |
+| Fembric Lancer, Fembrus Lancer, Frembris, So Fembris, Fember, Feminor, Femador, Femidor, Fembidor, Semenor | **Fembris Lancer** |
 | Kazrin, Kazrin Nyatani, Kazrin Nyattinyani | **Kazryn Nyantani** |
-| Denier | **Deneir** |
+| Denier, Demonor | **Deneir** |
 | Kai Tigersteel | **Kei Tigersteel** |
 | Holley | **Ms. Hollypocket** |
-| Alchrist, Alcrest, Alcist, Alcrist, Alcris, Al Christ, Altres, Elkhrist, Alcres, Alprist, El Chris, Alcarus, Alagris, Alteris, Alterus, Caltrus, Elkris, Alcra, Alkra, Elkhurst, Elkrist | **Alkrist** |
+| Alchrist, Alcrest, Alcist, Alcrist, Alcris, Al Christ, Altres, Elkhrist, Alcres, Alprist, El Chris, Alcarus, Alagris, Alteris, Alterus, Caltrus, Elkris, Alcra, Alkra, Elkhurst, Elkrist, Hulkrist | **Alkrist** |
 | Dwarmages | **Dwarmij's** |
 | That Philemon | **That Philistine** |
 | Vushadi, vouchardier | **Vooshadi** (Vooshadi Moonriver) |
@@ -98,12 +98,15 @@ First catalogued during the cleanup of
 | Menzo Baranzin | **Menzoberranzan** |
 | Gregor, Dragum | **Grygum** |
 | Eliana | **Elian** |
+| Helm Horror, Helm Torror, Helton Horror, Home Horror, Behound Horror, Hounded Horror, Caleb Sheet | **Helmed Horror** |
+| Helm Horrors | **Helmed Horrors** |
+| Daryls | **Darals** |
 
 ## Items / artifacts
 
 | Wrong | Right |
 |---|---|
-| Don Bringer, John Brenner, Dawn, Von Wigger, Don Brainer, Don Bringer Final, Donbringer, Don Greener, Lightbringer | **Dawnbringer** |
+| Don Bringer, John Brenner, Dawn, Von Wigger, Don Brainer, Don Bringer Final, Donbringer, Don Greener, Lightbringer, Dombringer, Donbreger | **Dawnbringer** |
 | Vault Master | **Vaultmaster** |
 | Eldritch Blow, Aldridge Claw | **Eldritch Claw** |
 | Eldenkind, Element Klein | **Elvenkind** |
@@ -116,7 +119,7 @@ First catalogued during the cleanup of
 | Wrong | Right |
 |---|---|
 | House Terran, Terran, House Turan, House Tsaran, Taran | **House T'sarran** |
-| Embryograph | **Ember Grapple** (alt. name for the party) |
+| Embryograph, Ember Granville | **Ember Grapple** (alt. name for the party) |
 | Blatwork | **Black Network** |
 | Zantarum | **Zhentarim** |
 | Uthgart, Utgartian, Othgaritian | **Uthgardt** |
@@ -125,6 +128,7 @@ First catalogued during the cleanup of
 | Stradite School | **Stroudite School** |
 | Bahamitun School | **Bahamutian School** |
 | Gabe Warden, Gate Warden | **Gatewarden** |
+| abald | **Avowed** |
 
 ## Locations
 
@@ -158,7 +162,7 @@ First catalogued during the cleanup of
 | Draconicos | **Drakonoikos** |
 | The Refactory | **The Refectory** |
 | Erun | **Faerun** |
-| Denier's Sanctum, Denyer's Sanctum | **Deneir's Sanctum** |
+| Denier's Sanctum, Denyer's Sanctum, Danier's Sanctum, Demenor's Alcove | **Deneir's Sanctum** |
 | Hightower | **High Tower** |
 | Hightower Keys | **High Tower Keys** |
 | Hightower Library | **High Tower Library** |
@@ -183,7 +187,7 @@ First catalogued during the cleanup of
 
 | Wrong | Right |
 |---|---|
-| costatis, Stottis, Kostat, Castadas, Costatas, Casados, Cristonis, Quesada, Costatus, Christadas, Custatis, Gustatis, Castatis, Gustavis | **Kostadis** (pronounced "koh-stAH-dis", rhymes loosely with "toh-STA-dah") |
+| costatis, Stottis, Kostat, Castadas, Costatas, Casados, Cristonis, Quesada, Costatus, Christadas, Custatis, Gustatis, Castatis, Gustavis, Christina | **Kostadis** (pronounced "koh-stAH-dis", rhymes loosely with "toh-STA-dah") |
 | Lit | **lit.** |
 | And Christadas | **And Kostadis** |
 | Torward | **toward** |

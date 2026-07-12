@@ -1,0 +1,4538 @@
+WEBVTT
+
+1
+00:01:38.310 --> 00:01:39.220
+Daz: Hey, Thorin.
+
+2
+00:01:42.650 --> 00:01:43.800
+Thorin: Hey, how's it going, man?
+
+3
+00:01:44.290 --> 00:01:45.100
+Daz: Pretty good.
+
+4
+00:01:48.820 --> 00:01:52.990
+Daz: I just got good news, my son got an offer.
+
+5
+00:01:53.230 --> 00:02:00.239
+Daz: to transfer back to Austin from his current employer, and he is. And so, I am very happy about that.
+
+6
+00:02:00.240 --> 00:02:01.160
+Thorin: Where is he now?
+
+7
+00:02:01.330 --> 00:02:02.110
+Daz: Houston.
+
+8
+00:02:04.760 --> 00:02:06.560
+Thorin: Austin sounds better than Houston.
+
+9
+00:02:06.710 --> 00:02:07.330
+Daz: Yep.
+
+10
+00:02:07.860 --> 00:02:12.470
+Thorin: I'm not sure I'd want to move to Austin, but that's me. You know, you do you?
+
+11
+00:02:12.470 --> 00:02:18.549
+Daz: I've grown up here, and I've seen it go through a lot, and I'm… I'm… I'm actually hopeful
+
+12
+00:02:18.830 --> 00:02:21.830
+Daz: With the amount of people that moved here.
+
+13
+00:02:22.320 --> 00:02:26.109
+Daz: We may actually flip things backwards.
+
+14
+00:02:26.600 --> 00:02:30.990
+Thorin: One thing. Wait just a second. What's up? Period.
+
+15
+00:02:31.160 --> 00:02:33.239
+Thorin: No, I can mute. Here, give me a second, sorry, Daz.
+
+16
+00:02:33.240 --> 00:02:34.910
+Daz: Yeah, no worries, Thorin. See ya.
+
+17
+00:03:19.940 --> 00:03:22.690
+Thorin: So she just finished her first day of her internship?
+
+18
+00:03:23.140 --> 00:03:24.490
+Daz: Oh, cool, how'd that go?
+
+19
+00:03:24.710 --> 00:03:33.100
+Thorin: Went well, apparently, figuring out laptop stuff. She's reading academic papers on the differences between different hypervisors and performance and all that, so…
+
+20
+00:03:34.100 --> 00:03:34.590
+Daz: Excellent.
+
+21
+00:03:34.590 --> 00:03:38.440
+Thorin: Excellent. You know, virtualized worker going on here.
+
+22
+00:03:39.870 --> 00:03:40.910
+Daz: But that's awesome.
+
+23
+00:03:41.630 --> 00:03:51.890
+Thorin: Hey, Zalthir, I'm talking about my, my youngest started her first day of her internship at Adara and is learning about different virtualization techniques and type 1, type 2 hypervisors, and…
+
+24
+00:03:51.890 --> 00:03:52.560
+Zalthir: Nice.
+
+25
+00:03:52.560 --> 00:03:55.130
+Thorin: Team Advisor compares and all that.
+
+26
+00:03:55.950 --> 00:03:56.480
+Daz: What is that?
+
+27
+00:03:57.050 --> 00:03:58.340
+Zalthir: That's super fun.
+
+28
+00:03:59.100 --> 00:03:59.730
+Daz: Very cool.
+
+29
+00:04:04.320 --> 00:04:08.359
+Thorin: Well, so apparently she's gonna be programming in Rust, so we'll see how that goes, too.
+
+30
+00:04:10.210 --> 00:04:12.390
+Zalthir: That'll be interesting.
+
+31
+00:04:12.390 --> 00:04:13.310
+Thorin: Yeah.
+
+32
+00:04:17.209 --> 00:04:23.619
+Zalthir: Is she the one who is doing some sort of interesting, like, C bindings of,
+
+33
+00:04:24.310 --> 00:04:30.230
+Zalthir: some weird… I forget exactly what it was. It was, like, some sea bindings of Vulcan or something?
+
+34
+00:04:30.230 --> 00:04:35.440
+Thorin: I mean, yeah, she's done all sorts of weird-ass shit. The latest…
+
+35
+00:04:35.590 --> 00:04:42.359
+Thorin: I mean, when she was growing up, she'd be like, hey, you know, I want to do this, but I want to do it in the hardest way possible, and then she'd be like.
+
+36
+00:04:42.990 --> 00:04:53.780
+Thorin: my C program that I wrote is crashing, and I need you to fix it for me, and also, don't bother reading all the code, just tell me what is wrong, and this is… this is her grown-up, she's not like that.
+
+37
+00:04:55.040 --> 00:05:04.890
+Thorin: But, I finally got her to play with Claude and start doing some vibe coding, and she had it write a rendering engine in C,
+
+38
+00:05:05.380 --> 00:05:10.509
+Thorin: on Vulcan, and she was like, she ended up really impressed. She's like, holy shit, it just, like.
+
+39
+00:05:10.840 --> 00:05:21.289
+Thorin: you know, in half an hour, I got, like, a virtual memory manager where it's doing, like, an allocator and stuff like that. I'm like, yeah, like, when this stuff nails it, it really frickin' nails it. It's kind of crazy.
+
+40
+00:05:21.840 --> 00:05:22.990
+Daz: Isn't it? You're crazy.
+
+41
+00:05:23.480 --> 00:05:28.629
+Zalthir: Yeah, yeah. I mean, that sort of framework-y stuff, I would expect it to be very good at.
+
+42
+00:05:28.630 --> 00:05:33.939
+Thorin: There's just a ton of examples out there, and it's not super subtle. I think, you know, when you're doing new stuff, it's harder.
+
+43
+00:05:34.190 --> 00:05:35.050
+Thorin: Yeah.
+
+44
+00:05:35.310 --> 00:05:35.960
+Zalthir: Yeah.
+
+45
+00:05:37.240 --> 00:05:38.960
+Zalthir: Interesting.
+
+46
+00:05:39.810 --> 00:05:42.119
+Thorin: No, I spent today fighting with Claude
+
+47
+00:05:42.960 --> 00:05:53.860
+Thorin: trying to get a Python script where it can actually estimate how much it's charging you based on its transcripts that it writes to, like, a JSON-L file? Do you know what a JSON-L file is? Do you know this? Have you seen this?
+
+48
+00:05:54.840 --> 00:05:55.970
+Zalthir: Elfile.
+
+49
+00:05:56.140 --> 00:06:07.239
+Thorin: So this is where it's, like, it's… each line is a JSON document, so it's essentially, like, record with, like, each thing being… being a JSON document. So, every… you know, when you're doing…
+
+50
+00:06:07.940 --> 00:06:18.529
+Thorin: Cloud Code sessions, it actually writes these things out for your sessions into session files and has a way of organizing them. I don't know, and so, like, I'm like, just write a script to analyze this and estimate how much
+
+51
+00:06:18.910 --> 00:06:23.950
+Thorin: I'm paying you, and then try and track down all the discrepancies.
+
+52
+00:06:24.730 --> 00:06:29.660
+Thorin: That, it turns out, it's not as good at, because there's zero documentation and examples out there.
+
+53
+00:06:29.660 --> 00:06:30.869
+Zalthir: Yeah, no doubt.
+
+54
+00:06:34.390 --> 00:06:36.850
+Zalthir: Interesting. You said it's called an L file?
+
+55
+00:06:36.850 --> 00:06:38.260
+Thorin: JSON L.
+
+56
+00:06:38.690 --> 00:06:39.930
+Zalthir: JSON, Dow.
+
+57
+00:06:43.880 --> 00:06:46.230
+Zalthir: Transcript format. Oh, interesting.
+
+58
+00:06:50.020 --> 00:06:54.699
+Thorin: It reminds me of back in the day when I was working on XMPP stuff. Have you ever…
+
+59
+00:06:54.700 --> 00:06:55.540
+Zalthir: Yes.
+
+60
+00:06:56.220 --> 00:07:07.099
+Thorin: So XMPP would essentially… the stream was it would open an XML document, and then you would just trade valid XML on this frickin' XML document, and it's just, like, it was the most…
+
+61
+00:07:07.440 --> 00:07:10.450
+Thorin: Overwrought, stupid-ass thing ever.
+
+62
+00:07:11.810 --> 00:07:18.499
+Zalthir: Man, this is awesome. Yeah, I didn't know this existed, but it does seem conceptually similar, yes.
+
+63
+00:07:18.500 --> 00:07:32.639
+Thorin: So you look at your… well, but this one, each line is its own thing. The reason why XMPP did it is because the opening stanza would define a bunch of XML namespace goop that it didn't have to repeat on every line, where otherwise it would have, but, you know.
+
+64
+00:07:35.120 --> 00:07:42.980
+Thorin: I love how, like, we moved from XML to JSON, and we just dropped all of the, like, namespace stuff, and the world went on.
+
+65
+00:07:42.980 --> 00:07:44.940
+Zalthir: Yep. It's just gone.
+
+66
+00:07:44.940 --> 00:07:47.729
+Thorin: It's like, it's like, still works.
+
+67
+00:07:49.380 --> 00:07:55.349
+Kostadis Roussos: Can I ever tell you the day, Hao Shang, the guy, the kernel scheduler guy at,
+
+68
+00:07:55.490 --> 00:08:03.550
+Kostadis Roussos: VMware reacted when I explained to him how how Rust actually worked.
+
+69
+00:08:04.420 --> 00:08:05.350
+Thorin: Oh, rest?
+
+70
+00:08:06.170 --> 00:08:08.489
+Kostadis Roussos: Yeah, so he goes to shopping.
+
+71
+00:08:08.620 --> 00:08:13.619
+Kostadis Roussos: And he goes, so how's the data going to be streamed from VROps to vCenter? And he said, REST.
+
+72
+00:08:14.150 --> 00:08:17.880
+Kostadis Roussos: And then we said, yeah, but there's gonna be a lot of data, and there's gonna be a lot of string parsing.
+
+73
+00:08:19.160 --> 00:08:20.590
+Kostadis Roussos: And he looked at me.
+
+74
+00:08:20.920 --> 00:08:24.439
+Kostadis Roussos: And he goes, what do you mean, string parsing? If you know how to…
+
+75
+00:08:25.220 --> 00:08:27.649
+Thorin: Well, you could do rest with, like, Protobuff.
+
+76
+00:08:27.650 --> 00:08:28.930
+Kostadis Roussos: Also, binary education.
+
+77
+00:08:29.380 --> 00:08:29.730
+Kostadis Roussos: That'd be.
+
+78
+00:08:29.730 --> 00:08:30.540
+Thorin: clear.
+
+79
+00:08:31.360 --> 00:08:32.510
+Kostadis Roussos: Yes, but…
+
+80
+00:08:32.679 --> 00:08:45.539
+Kostadis Roussos: I go to him, well, REST is primarily an ASCII format. You can do hacks to make it binary, but it's primarily an ASCII protocol, and blah blah blah. And he's looking at me, and he's going, what is this… what is this org?
+
+81
+00:08:45.950 --> 00:08:59.989
+Kostadis Roussos: Like, you could see his face twitching, going, I have spent all these years saving microseconds upon nanoseconds in the kernel scheduler of ESX so you people could waste it on string parsing or string protocols.
+
+82
+00:09:01.450 --> 00:09:07.889
+Thorin: So, just to be clear, S3 is a REST protocol, and you can upload binary just fine, so…
+
+83
+00:09:10.040 --> 00:09:17.600
+Kostadis Roussos: Yes, you can do many things with Rust, but at that point in time, the entertainment value of tweaking house shang was just too awesome.
+
+84
+00:09:18.150 --> 00:09:18.700
+Daz: Hmm.
+
+85
+00:09:18.900 --> 00:09:36.230
+Kostadis Roussos: He was very much a… he spent his whole life of death, like, it is an ASCII protocol? You must be mistaken. Clearly, that could not be the case. Nobody would have an ASCII protocol. He was more rejecting the possibility that it was ASCII, not that you couldn't do something with non-ASCII.
+
+86
+00:09:38.790 --> 00:09:44.749
+Kostadis Roussos: It's my favorite kind of, like, moment when you realize the world doesn't give a shit about all the things you cared about.
+
+87
+00:09:48.640 --> 00:09:51.219
+Kostadis Roussos: Alright, so, where are we?
+
+88
+00:09:52.860 --> 00:09:58.020
+Kostadis Roussos: Nice. I sent you the note of the murder mystery. You can scroll all the way to the bottom.
+
+89
+00:09:58.230 --> 00:09:59.619
+Kostadis Roussos: And get the highlights.
+
+90
+00:10:10.360 --> 00:10:15.960
+Thorin: So I'm gonna do the same thing I've done for the last 3 sessions, is immediately open up Gemini and ask it who did it.
+
+91
+00:10:16.170 --> 00:10:20.470
+Daz: Eventually the notes are gonna tell you.
+
+92
+00:10:21.610 --> 00:10:26.090
+Kostadis Roussos: Actually, if you read it, it actually says… you have lots of suspicions.
+
+93
+00:10:26.590 --> 00:10:29.340
+Kostadis Roussos: But things are not quite as they seem.
+
+94
+00:10:32.420 --> 00:10:35.330
+Kostadis Roussos: I'm not looking for that or anything.
+
+95
+00:10:43.310 --> 00:10:50.559
+Zalthir: So, is the AI just noting things down that I said, or is this the source of truth? Like, the…
+
+96
+00:10:50.690 --> 00:10:55.369
+Zalthir: Are there now multiple polymorphs, or is that just because I said it, the AI captured it?
+
+97
+00:10:56.090 --> 00:10:59.659
+Kostadis Roussos: Yeah, the AI cap… these are… these are hints you think are true.
+
+98
+00:11:00.410 --> 00:11:02.189
+Zalthir: Not necessarily things that are true.
+
+99
+00:11:03.060 --> 00:11:03.640
+Kostadis Roussos: Yes.
+
+100
+00:11:04.670 --> 00:11:16.119
+Kostadis Roussos: the way… the way it… what I told it to do was to collect information that the party thinks is true, does not… it goes to great lengths to make sure that it doesn't actually say anything that is actually true.
+
+101
+00:11:18.650 --> 00:11:22.770
+Kostadis Roussos: You're the one who observed that the one-hour polymorph wouldn't work, so yes.
+
+102
+00:11:33.440 --> 00:11:35.200
+Kostadis Roussos: Mmm, there you go.
+
+103
+00:11:35.410 --> 00:11:36.220
+Kostadis Roussos: Fair.
+
+104
+00:11:36.990 --> 00:11:37.680
+Kostadis Roussos: Right.
+
+105
+00:11:38.170 --> 00:11:38.805
+Kostadis Roussos: So…
+
+106
+00:11:49.320 --> 00:11:55.739
+Thorin: I mean, it is kind of cathartic that you, you know, you give everybody a bad review and they kill you, right? I mean, like, you know…
+
+107
+00:11:57.170 --> 00:11:58.810
+Kostadis Roussos: I mean, I was ready to meet…
+
+108
+00:11:58.810 --> 00:12:02.729
+Thorin: murder somebody at the end of every performance season when I was at Google, for what it's worth.
+
+109
+00:12:03.490 --> 00:12:13.079
+Kostadis Roussos: I mean, yeah, I mean, like, here's a guy who goes on, he gives, like, one bad review after another to, like, people who have access to powerful magics.
+
+110
+00:12:15.240 --> 00:12:17.210
+Thorin: And nature took its course.
+
+111
+00:12:17.670 --> 00:12:21.320
+Kostadis Roussos: I'm surprised he survived that long.
+
+112
+00:12:26.310 --> 00:12:31.010
+Kostadis Roussos: Never mind, alright.
+
+113
+00:12:31.830 --> 00:12:42.360
+Kostadis Roussos: So, the scene is set. You've just… You've just gotten, sorry, Alkrist to confess.
+
+114
+00:12:48.410 --> 00:12:51.809
+Thorin: Now, were you saying that there's some reason why we shouldn't believe that confession?
+
+115
+00:12:53.760 --> 00:13:18.410
+Kostadis Roussos: Well, I mean, before I say what's going to happen next, my next question is, what do you guys want to do? Like, so you have this confession, Kalan Strong Branch has not yet entered the room, you know there's a connection to LA, one of the proposals you had is to turn it over to Kalan and say, go for it, dude. The other proposal you had is to go to LA and say, hey, LI, we know things. The third is, you know, let, you know, go straight to Bookwyrm and demand
+
+116
+00:13:18.410 --> 00:13:20.100
+Kostadis Roussos: justice and satisfaction.
+
+117
+00:13:20.500 --> 00:13:26.750
+Zalthir: Sorry, I thought Kalan was in the room with us this whole time, because he had his zone of truth going, he was… I thought he was just…
+
+118
+00:13:26.750 --> 00:13:32.149
+Kostadis Roussos: Yeah, I mean, yes, but you… I'm giving you guys an opportunity to sidebar.
+
+119
+00:13:33.140 --> 00:13:33.840
+Daz: I see.
+
+120
+00:13:33.840 --> 00:13:44.440
+Thorin: Alright, so I think we should just hand it to him, let him save face, because he got fired, and then, you know, with the understanding that they'll make good on the promise that we get our reward for helping crack the case.
+
+121
+00:13:47.590 --> 00:13:54.859
+Kostadis Roussos: Plus, you still haven't gotten the information you want from the various, folks. I mean, Dawnbringer was like, I thought we were gonna get therapy.
+
+122
+00:13:55.220 --> 00:13:58.699
+Thorin: I mean, I thought so too, Dawnbringer, I don't know what to tell you.
+
+123
+00:13:58.700 --> 00:14:04.410
+Kostadis Roussos: I mean, I'm not leaving here without the therapy. Like, that first session was very productive, actually. I really feel that we need to…
+
+124
+00:14:04.410 --> 00:14:06.179
+Thorin: We were making progress, I'm with you.
+
+125
+00:14:06.970 --> 00:14:15.879
+Kostadis Roussos: I feel like we're making a connection. If you could… and he kind of clicks his hands as if he kind of makes a clicking sound that sounds his hand slapping.
+
+126
+00:14:16.790 --> 00:14:18.980
+Zalthir: He can do that? Or she can do that?
+
+127
+00:14:20.710 --> 00:14:24.800
+Kostadis Roussos: he can make noises in Thorin's head, so yeah, so…
+
+128
+00:14:24.910 --> 00:14:25.750
+Zalthir: Okay.
+
+129
+00:14:25.750 --> 00:14:29.059
+Thorin: I thought Dawnbringer was a she, I mean, I'm cool either way, just to be clear.
+
+130
+00:14:29.060 --> 00:14:31.150
+Kostadis Roussos: I don't know, I can't remember.
+
+131
+00:14:33.060 --> 00:14:36.880
+Kostadis Roussos: So whatever, she, yes, I think we said she, yes, I think we said she.
+
+132
+00:14:36.880 --> 00:14:37.810
+Zalthir: So, but…
+
+133
+00:14:39.390 --> 00:14:45.509
+Kostadis Roussos: All right, so what's your… so is that the plan? I just want to give you guys an opportunity to caucus, like, I don't…
+
+134
+00:14:46.990 --> 00:14:48.680
+Daz: Yeah, I think that plan sounds good to me.
+
+135
+00:14:49.870 --> 00:14:50.780
+Kostadis Roussos: Alright.
+
+136
+00:14:50.780 --> 00:14:54.170
+Daz: I mean, if things go sideways, we can always, you know, start hacking and slashing.
+
+137
+00:14:54.340 --> 00:14:54.920
+Daz: And September.
+
+138
+00:14:54.920 --> 00:15:05.099
+Thorin: Well, I mean, okay, the alternate is that, like, if we make a big deal about we're the ones who described it, then that actually plays into our fame, but, like, do we really want to be famous, or do we want to fly under the radar? This is kind of our…
+
+139
+00:15:06.670 --> 00:15:07.370
+Daz: Boom.
+
+140
+00:15:07.370 --> 00:15:12.559
+Zalthir: We're already infamous underground. It didn't seem to serve us well, I don't know.
+
+141
+00:15:12.880 --> 00:15:13.480
+Thorin: Yeah.
+
+142
+00:15:14.670 --> 00:15:16.869
+Kostadis Roussos: You know, it's like the three amigos.
+
+143
+00:15:16.870 --> 00:15:17.859
+Thorin: What does that mean?
+
+144
+00:15:18.660 --> 00:15:20.129
+Thorin: Do you remember that scene?
+
+145
+00:15:21.110 --> 00:15:23.040
+Thorin: Do you ever see the movie The Three Amigos?
+
+146
+00:15:23.270 --> 00:15:23.830
+Daz: Yes.
+
+147
+00:15:23.830 --> 00:15:24.830
+Zalthir: Yeah.
+
+148
+00:15:25.200 --> 00:15:29.589
+Thorin: There's a whole scene where they talk about the word infamous, and how it means extra famous.
+
+149
+00:15:32.440 --> 00:15:33.359
+Daz: I remember that.
+
+150
+00:15:34.930 --> 00:15:37.659
+Kostadis Roussos: Kalan? Kalan,
+
+151
+00:15:38.640 --> 00:15:44.470
+Kostadis Roussos: So, you turn to Kalan, and presumably you tell him, dude, this is all on you. He looks very disgruntled.
+
+152
+00:15:47.490 --> 00:15:51.520
+Kostadis Roussos: It goes, you have a confession, A heart, and a cleaver.
+
+153
+00:15:51.520 --> 00:16:11.210
+Kostadis Roussos: The confession is one spell. The weakest channel, by the standard, I wrote. The heart on the cleaver proves someone covered this up cleverly. Neither says who it was. You have no one who can place Bookwyrm in that room. No cloak, no witness that holds, nothing she can't turn back on you in a sentence. By my own paper, she walks!
+
+154
+00:16:13.780 --> 00:16:15.499
+Thorin: Alright, so we got a nail Bookwyrm.
+
+155
+00:16:17.380 --> 00:16:24.880
+Kostadis Roussos: Well, so how do you wanna… how do you wanna, to… to…
+
+156
+00:16:24.880 --> 00:16:30.769
+Zalthir: But, sorry, how did he open that little diatribe? What was the first thing he said about the one confession?
+
+157
+00:16:30.770 --> 00:16:32.389
+Kostadis Roussos: He said, you have a confession.
+
+158
+00:16:32.390 --> 00:16:33.130
+Zalthir: Right.
+
+159
+00:16:34.170 --> 00:16:35.519
+Kostadis Roussos: A heart and a cleaver.
+
+160
+00:16:35.520 --> 00:16:37.679
+Zalthir: Right, right, but she didn't discount the confession.
+
+161
+00:16:38.430 --> 00:16:45.439
+Kostadis Roussos: No, no, no, no, no, he said it's not enough. If you read his paper, his paper basically says you can't rely on one source of truth, you have to have three different kinds of sources of truth.
+
+162
+00:16:45.440 --> 00:16:51.119
+Zalthir: Yeah, fine, he's… well, actually, that was never approved, so the protocol never changed, but putting that aside.
+
+163
+00:16:52.240 --> 00:16:54.799
+Thorin: And a confession is a confession, right? I mean, like…
+
+164
+00:16:54.800 --> 00:16:58.319
+Kostadis Roussos: Yes, I know, but you know what's more important to an academic?
+
+165
+00:16:58.530 --> 00:17:04.489
+Kostadis Roussos: Putting the murderer in jail, or being true to their academic principles and their research proposal?
+
+166
+00:17:05.140 --> 00:17:06.580
+Zalthir: Which was declined.
+
+167
+00:17:07.470 --> 00:17:12.900
+Kostadis Roussos: Yes, but now there's an opportunity. But the person who declined it is dead.
+
+168
+00:17:14.890 --> 00:17:17.920
+Zalthir: So…
+
+169
+00:17:17.920 --> 00:17:18.659
+Kostadis Roussos: He was…
+
+170
+00:17:19.030 --> 00:17:20.109
+Zalthir: If he agrees with the
+
+171
+00:17:20.450 --> 00:17:25.709
+Zalthir: then could we not take him, in his zone of truth, and go talk to Bookwyrm?
+
+172
+00:17:26.890 --> 00:17:28.339
+Kostadis Roussos: You could drive.
+
+173
+00:17:30.910 --> 00:17:32.680
+Kostadis Roussos: Is that your… is that your play?
+
+174
+00:17:34.460 --> 00:17:35.290
+Zalthir: Someone has a better…
+
+175
+00:17:35.290 --> 00:17:40.750
+Thorin: What do we know about the Zone of Truth spell and how this works? Like… Can it be defeated?
+
+176
+00:17:41.430 --> 00:17:42.909
+Zalthir: It can be now.
+
+177
+00:17:45.360 --> 00:17:46.700
+Thorin: What's that? What'd you say, Zalthir?
+
+178
+00:17:46.870 --> 00:17:52.689
+Zalthir: It can be. She can roll a saving throw, but we would know if she succeeds on her saving throw, I believe.
+
+179
+00:17:54.260 --> 00:17:54.960
+Thorin: Okay.
+
+180
+00:17:55.920 --> 00:17:59.759
+Zalthir: We don't know if she's telling the truth in that case, but we would know if she can lie.
+
+181
+00:18:00.260 --> 00:18:02.390
+Thorin: Okay, we can know whether it's effective or not.
+
+182
+00:18:02.650 --> 00:18:03.200
+Zalthir: Nope.
+
+183
+00:18:04.170 --> 00:18:06.140
+Kostadis Roussos: Kalan says.
+
+184
+00:18:06.330 --> 00:18:12.009
+Kostadis Roussos: I will not sneak this time. We will walk in, and we will boldly demand that she submit to a zone of truth.
+
+185
+00:18:13.430 --> 00:18:14.860
+Zalthir: Did you snake this time?
+
+186
+00:18:15.380 --> 00:18:18.110
+Kostadis Roussos: Yeah, the last time, he was waiting outside, half the zone of truth.
+
+187
+00:18:18.110 --> 00:18:19.080
+Thorin: Alright, let's…
+
+188
+00:18:21.040 --> 00:18:25.520
+Kostadis Roussos: It made Alley. A'lai didn't realize what was going on until it was too late. That's why it worked.
+
+189
+00:18:26.410 --> 00:18:34.500
+Kostadis Roussos: I had asked you guys that question. I asked you, Zalthir. I very specifically asked you, Zalthir, does he win the room, or is he casting it outside so that… and you said he's outside. I said, okay.
+
+190
+00:18:35.320 --> 00:18:39.409
+Zalthir: Okay, so wait, why then would we change protocol? That worked very well.
+
+191
+00:18:39.670 --> 00:18:48.759
+Kostadis Roussos: Oh, because… because Kalan Strongbranch… because Kalan Strongbranch doesn't want to, like, doesn't want to twist Bookwyrm in case she escapes from anything, and ends up being his boss.
+
+192
+00:18:53.250 --> 00:18:54.130
+Daz: Okay…
+
+193
+00:18:54.130 --> 00:18:58.209
+Kostadis Roussos: He's not gonna deal with… he's not gonna do it without her permission, how about I put it that way?
+
+194
+00:19:01.570 --> 00:19:03.680
+Thorin: If she doesn't submit to it, then…
+
+195
+00:19:05.010 --> 00:19:11.890
+Kostadis Roussos: Right, and then he says, but look, he says, look, Bookwyrm is currently… he explains all this and says, but look, my friends.
+
+196
+00:19:12.020 --> 00:19:17.439
+Kostadis Roussos: Bookwyrm is simply the… the current acting head of Candlekeep.
+
+197
+00:19:18.700 --> 00:19:24.940
+Kostadis Roussos: Tomorrow, there will be a naming… there will be a naming ceremony, and with all of this, how shall we say.
+
+198
+00:19:25.240 --> 00:19:30.260
+Kostadis Roussos: Suspicion over her name.
+
+199
+00:19:30.990 --> 00:19:48.689
+Kostadis Roussos: and the confession and the information. Although the legal precedent isn't there, I suspect that the vote will go elsewhere. And the new person may decide to tell Bookwyrm that she has one of two choices, continue to be a member of the Avowed, or submit to a zone of truth. Sometimes the clever play is to be patient.
+
+200
+00:19:51.030 --> 00:19:52.780
+Daz: Wait and see if people figure it out.
+
+201
+00:19:53.820 --> 00:19:54.610
+Kostadis Roussos: Yes.
+
+202
+00:19:54.610 --> 00:20:18.950
+Kostadis Roussos: There is no reason… there is no reason for us to bulldoze over Bookwyrm and potentially create yet another stir. We have all the cards, all we have to do is be patient. I tell you that tomorrow morning's naming ceremony will clearly not name her. Alle won't be named either. Even without evidence, the suspicion will be… the stench of the suspicion will be all over him. Alkrist is finished with his confession, and the Cleaver, and the
+
+203
+00:20:18.950 --> 00:20:25.049
+Kostadis Roussos: blood and, and, and. So the only thing that will happen is one of Fembris Lancer or,
+
+204
+00:20:25.210 --> 00:20:31.570
+Kostadis Roussos: Fembris Lancer will probably get elected as the new avowed, and the first thing she will want to do is get rid of Bookwyrm.
+
+205
+00:20:32.160 --> 00:20:44.460
+Zalthir: But wait, from your own… from your perspective, isn't that immoral? I mean, we're effectively preventing Bookwyrm, if innocent, from potentially serving this role.
+
+206
+00:20:44.460 --> 00:20:48.419
+Kostadis Roussos: Oh, which is why… which is why we will give her the opportunity to decline.
+
+207
+00:20:49.010 --> 00:20:51.510
+Zalthir: But you said we'd do tomorrow, right?
+
+208
+00:20:52.030 --> 00:21:06.490
+Kostadis Roussos: No, no, no, no, I said today, we could go and try to cap… I'm saying we were gonna do it… we were gonna give her an opportunity to decline. Her decision to decline will further… further… further weaken her… further weaken her, support among the other allowed.
+
+209
+00:21:07.230 --> 00:21:16.489
+Zalthir: Okay, so you're betting on either she'll agree because she thinks she's innocent and nothing to hide, or if she declines, it implies she's guilty and therefore hopefully won't be elected.
+
+210
+00:21:17.410 --> 00:21:24.989
+Kostadis Roussos: Yes. And then… and she… he goes, and I have strong conviction that the other members of the abald will not elect her.
+
+211
+00:21:26.630 --> 00:21:31.109
+Zalthir: Okay, so you're game to tell them everything we've learned if she declines?
+
+212
+00:21:33.310 --> 00:21:40.519
+Kostadis Roussos: Of course, I will tell them everything. I will give them a full report. I will tell them all that is going on. I will, in fact, give it to Bookwyrm herself.
+
+213
+00:21:41.720 --> 00:21:43.809
+Zalthir: Well, I don't know if that's productive, but okay.
+
+214
+00:21:44.850 --> 00:21:45.649
+Thorin: So I wanna…
+
+215
+00:21:45.650 --> 00:21:46.679
+Kostadis Roussos: of… he bought…
+
+216
+00:21:46.910 --> 00:21:54.000
+Thorin: So we think that Bookwyrm put the… like, extracted the heart and put the heart in the chalice of the statue, right?
+
+217
+00:21:55.050 --> 00:21:55.380
+Kostadis Roussos: Yes.
+
+218
+00:21:55.540 --> 00:21:58.209
+Zalthir: Protects… whatever his name is, yeah.
+
+219
+00:21:59.550 --> 00:22:00.979
+Thorin: By the way, what is Protect?
+
+220
+00:22:01.840 --> 00:22:07.859
+Zalthir: She detected Alkrist. Alkrist, yeah. But Alkrist being, what, her son or something?
+
+221
+00:22:08.380 --> 00:22:09.220
+Kostadis Roussos: Nephew, nephew.
+
+222
+00:22:09.220 --> 00:22:15.530
+Zalthir: Nephew, yeah. Now, Alkrist killed him, right? And she's trying to protect Alkrist.
+
+223
+00:22:20.870 --> 00:22:21.440
+Thorin: gave Ryan…
+
+224
+00:22:21.440 --> 00:22:22.030
+Kostadis Roussos: she could…
+
+225
+00:22:23.070 --> 00:22:24.090
+Zalthir: Yes.
+
+226
+00:22:24.090 --> 00:22:25.440
+Kostadis Roussos: Potentially. Okay.
+
+227
+00:22:25.440 --> 00:22:30.900
+Thorin: Oh, because of the… the… Zone of Truth, or whatever. Exactly. Cone of Truth.
+
+228
+00:22:31.170 --> 00:22:35.000
+Zalthir: Silence, truth, whatever.
+
+229
+00:22:35.000 --> 00:22:35.820
+Thorin: Whatever.
+
+230
+00:22:35.820 --> 00:22:36.450
+Daz: Pardon.
+
+231
+00:22:40.390 --> 00:22:47.400
+Thorin: I'm trying to think, is there any physical evidence or anything else that we can bring to bear here? This is what I'm thinking about, right? And it's so, like.
+
+232
+00:22:47.880 --> 00:22:51.989
+Thorin: If she was the one that put the heart into the chalice.
+
+233
+00:22:52.840 --> 00:22:56.680
+Thorin: Is there any way that we can tie that back to her in some ways?
+
+234
+00:22:56.680 --> 00:23:05.210
+Kostadis Roussos: Practically speaking, though, as Kalan Strongbranch presents, is that although her crime was to… he pauses and says, my friends.
+
+235
+00:23:05.400 --> 00:23:13.380
+Kostadis Roussos: My friends. Although Bookwyrm should be punished, the reality is that all she did was hide a crime. She didn't commit a crime.
+
+236
+00:23:16.360 --> 00:23:17.849
+Kostadis Roussos: I mean, that's considered…
+
+237
+00:23:17.850 --> 00:23:21.209
+Thorin: conspiracy after the fact. I mean, like, you know, that's… she's culpable.
+
+238
+00:23:22.300 --> 00:23:32.029
+Kostadis Roussos: Yes, but then he says the ultimate academic fake. If she is removed from her position as an avowed, that would be far more damning than any crime we could convict her of.
+
+239
+00:23:32.420 --> 00:23:33.340
+Kostadis Roussos: to be embarrassed.
+
+240
+00:23:33.340 --> 00:23:34.720
+Thorin: Or we could do both.
+
+241
+00:23:36.870 --> 00:23:40.810
+Kostadis Roussos: But that I will leave to the read… that will be up to the reader who follows her.
+
+242
+00:23:46.780 --> 00:23:47.889
+Kostadis Roussos: Then it pauses and says.
+
+243
+00:23:47.890 --> 00:23:48.530
+Thorin: Alright, alright.
+
+244
+00:23:48.530 --> 00:23:49.270
+Kostadis Roussos: We bring…
+
+245
+00:23:50.180 --> 00:23:51.900
+Thorin: Okay, here's an idea.
+
+246
+00:23:52.880 --> 00:23:53.390
+Kostadis Roussos: Yes?
+
+247
+00:23:53.390 --> 00:23:59.150
+Thorin: There's gotta be a book somewhere in the library that we can use to actually get to the bottom of this.
+
+248
+00:23:59.780 --> 00:24:01.419
+Thorin: Some sort of magic book.
+
+249
+00:24:01.620 --> 00:24:02.620
+Thorin: Powerful spell.
+
+250
+00:24:02.620 --> 00:24:15.760
+Kostadis Roussos: But he goes… he pulls out his copy of the paper, the thrice-fold proof, and says, we're part of… there is no spell that'll get you the evidence that will solve the crime, do you not understand? He shoves it into your face and points at the lines.
+
+251
+00:24:16.340 --> 00:24:21.919
+Thorin: Yeah, but if we can get her to confess based on some spell, then, like, you know, that's… that's extra data.
+
+252
+00:24:23.740 --> 00:24:27.539
+Kostadis Roussos: So you wish to try to cast another spell on her?
+
+253
+00:24:27.910 --> 00:24:39.349
+Thorin: I'm just think… I'm just thinking, like, the reversal here is that we go and we say, here are the people that did it, we get a reward, one of us used the reward to get the book that can then prove that she did it.
+
+254
+00:24:39.570 --> 00:24:41.209
+Thorin: Or that she was culpable.
+
+255
+00:24:42.770 --> 00:24:45.640
+Kostadis Roussos: Oh, you're saying after you… oh, that way!
+
+256
+00:24:46.220 --> 00:24:52.359
+Thorin: Yes, so… so we use our reward to access the thing that will do her in.
+
+257
+00:24:52.360 --> 00:25:01.509
+Kostadis Roussos: Oh, that's much better, that's a much… oh, if you're going to do it after the fact, that's much better. If you're going to do it up front, she's going to be suspecting. But if you ask for the book, the book will come from the new…
+
+258
+00:25:01.910 --> 00:25:08.209
+Kostadis Roussos: the new head of the Candlekeep, who will be delighted to get that book, give you that book.
+
+259
+00:25:11.480 --> 00:25:14.870
+Thorin: I don't know which book exactly, because, you know, but I'm just thinking.
+
+260
+00:25:14.870 --> 00:25:23.580
+Kostadis Roussos: He goes, yes, yes, he goes, yes, but that's a great question. He pauses and thinks, I will come up with such a book before you leave.
+
+261
+00:25:23.580 --> 00:25:35.129
+Thorin: Okay, so yeah, so the idea here is that we're gonna, like, think that she got away with it. Now, she'll be sad that Alkrist, her nephew, is, you know, is implicated, but he confessed, so it is what it is.
+
+262
+00:25:35.550 --> 00:25:40.779
+Thorin: And when she's least suspecting it, and we take our reward, that's when we'll reverse it on her.
+
+263
+00:25:42.930 --> 00:25:43.840
+Thorin: What do you guys think?
+
+264
+00:25:44.460 --> 00:25:45.270
+Daz: I like it.
+
+265
+00:25:45.610 --> 00:25:46.860
+Zalthir: Seems reasonable.
+
+266
+00:25:49.910 --> 00:25:50.710
+Kostadis Roussos: Alright.
+
+267
+00:25:51.660 --> 00:25:53.499
+Kostadis Roussos: Just thinking this would be good.
+
+268
+00:25:53.500 --> 00:25:59.329
+Thorin: high drama. This would be a good sort of closing, sort of like, she thought she got away from it. One more thing.
+
+269
+00:25:59.960 --> 00:26:02.419
+Kostadis Roussos: Can I get, like, a really frumpy trench coat?
+
+270
+00:26:05.120 --> 00:26:07.480
+Kostadis Roussos: It's not Monk, it's the other actor.
+
+271
+00:26:07.480 --> 00:26:09.519
+Thorin: No, that's, that's Colombo.
+
+272
+00:26:10.190 --> 00:26:12.930
+Kostadis Roussos: Hold up. One more thing, just one more thing!
+
+273
+00:26:12.930 --> 00:26:14.530
+Thorin: Just one more thing!
+
+274
+00:26:16.870 --> 00:26:18.250
+Kostadis Roussos: Alright.
+
+275
+00:26:19.380 --> 00:26:20.400
+Kostadis Roussos: Alright.
+
+276
+00:26:20.800 --> 00:26:22.659
+Thorin: I'm gonna go get some whiskey, I'll be right back.
+
+277
+00:26:22.920 --> 00:26:23.590
+Daz: Is it?
+
+278
+00:26:24.130 --> 00:26:24.800
+Kostadis Roussos: Alright.
+
+279
+00:26:24.800 --> 00:26:25.470
+Thorin: Everybody want anything?
+
+280
+00:26:25.470 --> 00:26:27.330
+Kostadis Roussos: I'll give him a second to get his whiskey.
+
+281
+00:26:29.250 --> 00:26:30.699
+Kostadis Roussos: That is a good move.
+
+282
+00:27:01.430 --> 00:27:04.299
+Kostadis Roussos: Sorry, software has not been my thing.
+
+283
+00:27:04.410 --> 00:27:08.249
+Kostadis Roussos: My 7-year-old Dell computer finally died.
+
+284
+00:27:10.260 --> 00:27:15.080
+Thorin: I'm glad you put Dell Computer in there instead of my 7-year-old finally died. That would be worse.
+
+285
+00:27:18.180 --> 00:27:27.419
+Kostadis Roussos: Yeah, that would have been worse. But yeah, my 7-year-old Dell computer died, and I'm taking it home, and I'm going to go remove whatever parts are salvageable and build a smaller computer.
+
+286
+00:27:28.250 --> 00:27:30.639
+Kostadis Roussos: Because it's got a functional GPU.
+
+287
+00:27:31.710 --> 00:27:35.030
+Thorin: Computers are so expensive now. This sucks.
+
+288
+00:27:35.380 --> 00:27:35.880
+Zalthir: Yeah.
+
+289
+00:27:35.880 --> 00:27:36.340
+Daz: those.
+
+290
+00:27:36.340 --> 00:27:44.810
+Kostadis Roussos: No, which is why… which is why my AMD Ryzen with 64GB of memory and one GPU is worth a shit ton of money.
+
+291
+00:27:46.420 --> 00:27:51.320
+Daz: I, I, I told you guys, right? I recently just bought a highest, highest, highest-end thing.
+
+292
+00:27:51.540 --> 00:27:57.329
+Daz: And… because I don't think the prices are coming down, I think it'll end up being worth more before it starts to depreciate.
+
+293
+00:27:57.920 --> 00:27:58.560
+Zalthir: Yeah.
+
+294
+00:28:00.210 --> 00:28:05.330
+Thorin: I want to buy, like, a server NAS thing, and they just keep getting more expensive, and it's killing me.
+
+295
+00:28:06.300 --> 00:28:07.870
+Daz: Yeah, it's sand.
+
+296
+00:28:09.200 --> 00:28:09.830
+Kostadis Roussos: Alright.
+
+297
+00:28:09.930 --> 00:28:12.539
+Kostadis Roussos: So now that we've all got depressed for a moment.
+
+298
+00:28:17.220 --> 00:28:30.920
+Kostadis Roussos: Let us return. Okay, so, Fembris Lancer, sorry, Fembris Lancer, your adjuvant, had, while you guys were all debating, carefully stepped aside, and comes back and says, The Bookwyrm wishes to speak to you.
+
+299
+00:28:31.780 --> 00:28:32.520
+Daz: Okay.
+
+300
+00:28:33.380 --> 00:28:41.959
+Thorin: Okay, so the other option is, like, just before we continue, is that we can feed some fake information to Bookwyrm through, what's-his-Face, who's clearly…
+
+301
+00:28:43.210 --> 00:28:43.900
+Kostadis Roussos: Well, yeah.
+
+302
+00:28:44.870 --> 00:28:45.710
+Thorin: Yeah.
+
+303
+00:28:45.950 --> 00:28:49.619
+Thorin: Was he around while we were extracting the confession?
+
+304
+00:28:49.620 --> 00:28:53.690
+Kostadis Roussos: No, no, he was… well, you got… he had… he had, like, carefully stepped aside.
+
+305
+00:28:53.690 --> 00:28:54.410
+Thorin: Okay.
+
+306
+00:28:54.410 --> 00:28:59.140
+Kostadis Roussos: Something about wanting to be in a zone of truth while you… while it was being cast, and asked any questions.
+
+307
+00:29:00.380 --> 00:29:05.580
+Thorin: Alright, so we should definitely make sure he's part of the Zone of Truth, or Cone of Truth, or whatever it is.
+
+308
+00:29:06.110 --> 00:29:07.340
+Thorin: If we, if we…
+
+309
+00:29:07.340 --> 00:29:18.600
+Kostadis Roussos: If maybe if Grygum had been willing to not take his paper and throw it in the trash, he would have been more… he would have been more happy to work with you, but Grygum had to take his paper and just dump it.
+
+310
+00:29:21.280 --> 00:29:22.300
+Thorin: Classic Grygum'em.
+
+311
+00:29:23.270 --> 00:29:34.600
+Kostadis Roussos: Apparently, I had a paper, and Grygum looked at it and said, I think I will file it, and gave it to Glabbagool, who Glabbagool said, this isn't… this is not tasty like cheese.
+
+312
+00:29:39.200 --> 00:29:47.800
+Kostadis Roussos: give Grygum an opportunity to get all of his, phD trauma out.
+
+313
+00:29:49.160 --> 00:29:50.130
+Kostadis Roussos: Alright.
+
+314
+00:29:50.560 --> 00:29:55.650
+Kostadis Roussos: So, you appear in, Bookwyrm's, office.
+
+315
+00:29:55.800 --> 00:29:57.939
+Kostadis Roussos: And she's poured out some tea.
+
+316
+00:29:58.150 --> 00:30:02.499
+Kostadis Roussos: And she's looking very regal and in control. And she…
+
+317
+00:30:02.830 --> 00:30:05.100
+Kostadis Roussos: She asks that you sit down.
+
+318
+00:30:09.360 --> 00:30:12.020
+Kostadis Roussos: Do you guys open to say anything, or just, like…
+
+319
+00:30:12.170 --> 00:30:18.229
+Daz: I mean, I think making it a little awkward, and I'm not, certainly not drinking any tea of somebody that we suspect
+
+320
+00:30:18.710 --> 00:30:19.980
+Daz: May have done this.
+
+321
+00:30:21.050 --> 00:30:22.910
+Thorin: Yeah, I'm not drinking the tea, that's for sure.
+
+322
+00:30:23.620 --> 00:30:25.499
+Kostadis Roussos: Not drinking my teeth. She goes…
+
+323
+00:30:26.330 --> 00:30:33.560
+Kostadis Roussos: With all this talk of murder in the house, I think that a little bit of tea is good for soothing the nerves, and she drinks some.
+
+324
+00:30:33.920 --> 00:30:36.740
+Zalthir: So, actually, sorry, mechanics question.
+
+325
+00:30:36.740 --> 00:30:38.480
+Thorin: out a flask and say I brought my own.
+
+326
+00:30:40.470 --> 00:30:47.559
+Zalthir: Since Glabbagool is part of my arm, can I, like, pretend to drink and have it actually flow into Glabbagool?
+
+327
+00:30:47.560 --> 00:30:48.549
+Daz: There you go.
+
+328
+00:30:48.550 --> 00:30:49.479
+Kostadis Roussos: Oh yeah, totally.
+
+329
+00:30:49.730 --> 00:30:51.000
+Zalthir: Okay, I'll do that.
+
+330
+00:30:51.860 --> 00:30:52.500
+Kostadis Roussos: Alright.
+
+331
+00:30:53.250 --> 00:30:57.819
+Kostadis Roussos: Do you tell valuable to not burp or, like, make any curious sounds, you know?
+
+332
+00:30:57.820 --> 00:31:03.480
+Zalthir: Sure, I whisper quietly that this should be a moment of quiet reflection, you know.
+
+333
+00:31:04.000 --> 00:31:06.380
+Zalthir: No loud noises, no res… yeah.
+
+334
+00:31:06.380 --> 00:31:20.129
+Kostadis Roussos: Glabbagool does his part well. There's a slight stinge of acid as he burns it, but only you notice.
+
+335
+00:31:20.430 --> 00:31:23.809
+Zalthir: Hmm. Acid. From the tear, from the clavicle?
+
+336
+00:31:24.510 --> 00:31:25.340
+Kostadis Roussos: From Glabbagool.
+
+337
+00:31:25.340 --> 00:31:27.340
+Zalthir: Okay.
+
+338
+00:31:28.670 --> 00:31:30.010
+Kostadis Roussos: You know, he's burning the…
+
+339
+00:31:30.010 --> 00:31:30.390
+Zalthir: movie.
+
+340
+00:31:30.390 --> 00:31:32.880
+Kostadis Roussos: The tea as he, as he pretends to drink it.
+
+341
+00:31:32.880 --> 00:31:33.230
+Zalthir: Yep.
+
+342
+00:31:33.230 --> 00:31:39.360
+Kostadis Roussos: She looks at you and says, well, we have much to talk about.
+
+343
+00:31:39.990 --> 00:31:46.140
+Kostadis Roussos: You compelled the grieving man with a borrowed spell, And you call it proof.
+
+344
+00:31:48.180 --> 00:31:55.389
+Kostadis Roussos: And he paused, she pauses and says, the warden whose paper you ignored would tell you what it's worth. He wrote that a single working
+
+345
+00:31:55.700 --> 00:31:57.330
+Kostadis Roussos: proves nothing.
+
+346
+00:31:58.310 --> 00:32:06.909
+Kostadis Roussos: And Kalan steps in and says, but they have, and he proceeds to enumerate the fact that you have the evidence that he stole the,
+
+347
+00:32:07.100 --> 00:32:08.120
+Kostadis Roussos: The poison.
+
+348
+00:32:08.750 --> 00:32:13.259
+Zalthir: Right, and the fact that he had the book, and then the confession, but…
+
+349
+00:32:13.660 --> 00:32:15.220
+Kostadis Roussos: Right. She pauses.
+
+350
+00:32:16.340 --> 00:32:19.830
+Kostadis Roussos: And she… Collapses. Heartbroken.
+
+351
+00:32:22.180 --> 00:32:24.410
+Kostadis Roussos: Hulkrist, I could never have imagined it.
+
+352
+00:32:24.730 --> 00:32:26.130
+Kostadis Roussos: role of perception.
+
+353
+00:32:27.800 --> 00:32:29.000
+Zalthir: Oh, hold on.
+
+354
+00:32:30.900 --> 00:32:31.550
+Thorin: We're all running.
+
+355
+00:32:31.550 --> 00:32:34.090
+Daz: My passive is 15.
+
+356
+00:32:34.970 --> 00:32:40.899
+Kostadis Roussos: Yeah, so, okay, so roll an… so you roll an insight, roll an insight or an investigation, whichever one you want.
+
+357
+00:32:40.900 --> 00:32:42.620
+Daz: Oh, I'll roll an investigation, hell yeah.
+
+358
+00:32:42.620 --> 00:32:47.979
+Thorin: Oh, wait, they changed Roll 20 again, now we got these black boxes for.
+
+359
+00:32:47.980 --> 00:32:50.609
+Daz: I got a 21 on investigation.
+
+360
+00:32:50.610 --> 00:32:57.290
+Kostadis Roussos: Right, she is clearly not sad and not… she is… but she's looking curiously relieved.
+
+361
+00:33:00.980 --> 00:33:02.730
+Daz: Alright, alright. She's act…
+
+362
+00:33:03.630 --> 00:33:05.659
+Kostadis Roussos: She's looking curiously relieved.
+
+363
+00:33:08.230 --> 00:33:09.370
+Kostadis Roussos: She pauses.
+
+364
+00:33:10.920 --> 00:33:24.959
+Kostadis Roussos: Well, it would seem, Kalan, that your methodology has proven its merit. Well done, well done! She pauses and turns to the four of you. It would seem my nephew has committed a grave crime, killing Janussi.
+
+365
+00:33:25.320 --> 00:33:40.859
+Kostadis Roussos: What a horrible, horrible sequence of events. Yes, yes, terrible events. And you have done your part, but today is not a day for us to do trials and juries and justifications. That will be done after the naming by the new head of the avowed.
+
+366
+00:33:42.500 --> 00:33:47.320
+Thorin: So, what about a lie? Do we actually call out… the fact.
+
+367
+00:33:47.320 --> 00:33:48.410
+Kostadis Roussos: I took to you guys.
+
+368
+00:33:51.200 --> 00:33:59.450
+Kostadis Roussos: All you have about a lie is that he was in the same area, and that Alkrist claimed he was the, the mastermind.
+
+369
+00:33:59.460 --> 00:34:07.940
+Zalthir: So, Thorin, this goes back to your strategy. Do we want to let alone that we know more, or do we leave that till later, when we can really kind of prove
+
+370
+00:34:08.690 --> 00:34:09.960
+Zalthir: her involvement.
+
+371
+00:34:11.070 --> 00:34:15.759
+Daz: I've been watching a lot of these, these, 48-hour shows.
+
+372
+00:34:15.800 --> 00:34:33.740
+Daz: And what they always do, what the cops always do, is they withhold… they give enough information to say, we're on to it, and we need your help. But then they withhold the critical information about the person actually being interviewed, so that if they say something that is different than what they already know, they know they have something more to further investigate.
+
+373
+00:34:33.929 --> 00:34:40.230
+Daz: My take would be be a little shy with the full details, but give enough details to make it look like
+
+374
+00:34:40.600 --> 00:34:42.700
+Daz: You know, they could tell a story.
+
+375
+00:34:42.989 --> 00:34:48.370
+Daz: And either try to manipulate us, or they could tell a story to clarify the things that we're missing that they may know.
+
+376
+00:34:48.580 --> 00:34:50.519
+Daz: And then we know if, whether or not…
+
+377
+00:34:50.739 --> 00:34:55.320
+Daz: They're motivated to deceive us, or they're motivated to actually help solve the problem.
+
+378
+00:34:56.730 --> 00:34:58.510
+Daz: This is my… this is my take.
+
+379
+00:35:01.320 --> 00:35:02.130
+Zalthir: Hmm.
+
+380
+00:35:05.880 --> 00:35:11.980
+Zalthir: Yeah, fair. I'm not totally sure what we would… Same.
+
+381
+00:35:11.980 --> 00:35:12.510
+Kostadis Roussos: Excuse me.
+
+382
+00:35:14.130 --> 00:35:14.780
+Kostadis Roussos: Yeah.
+
+383
+00:35:16.820 --> 00:35:26.370
+Kostadis Roussos: So, one thing you know is that… the one thing you know that Fembris doesn't know, and that she doesn't know, is that Alkrist fingered him as the kill… as the mastermind.
+
+384
+00:35:26.370 --> 00:35:27.050
+Thorin: Right.
+
+385
+00:35:27.360 --> 00:35:36.479
+Thorin: But until we're ready to prove it, all we got is the confession. We knew that he provided the diversion to the apothecary, which is also strong evidence.
+
+386
+00:35:36.880 --> 00:35:37.770
+Kostadis Roussos: Right.
+
+387
+00:35:38.020 --> 00:35:39.850
+Thorin: That he was involved somehow.
+
+388
+00:35:40.970 --> 00:35:41.620
+Kostadis Roussos: Yep.
+
+389
+00:35:44.590 --> 00:35:46.069
+Zalthir: So… Still don't know…
+
+390
+00:35:46.070 --> 00:35:51.930
+Thorin: So… about the pigeons, right? Right. Or doves, or whatever. Passenger birds?
+
+391
+00:35:52.290 --> 00:35:54.749
+Kostadis Roussos: And they're the pigeons, which are always suspicious.
+
+392
+00:35:57.710 --> 00:36:04.270
+Thorin: Well, one of the things that we can do is we can actually now probably go and open the safe in Alkrist' room and see what's in that.
+
+393
+00:36:05.920 --> 00:36:18.330
+Zalthir: Just to point out, if we do nothing, and if we leave it as is, without implying that she's guilty, there is a chance that she could be elected to be the first keeper, right? Because she would…
+
+394
+00:36:18.980 --> 00:36:22.630
+Zalthir: We know who did it, it's not her. Why wouldn't she be elected?
+
+395
+00:36:24.700 --> 00:36:28.560
+Kostadis Roussos: Kalan, is going to be part of the vote.
+
+396
+00:36:29.170 --> 00:36:30.160
+Zalthir: Right.
+
+397
+00:36:30.760 --> 00:36:39.140
+Kostadis Roussos: And so he's going to bring the… all the… he's going to demand a full report from you guys. He assures you that your voice will be heard before the meeting.
+
+398
+00:36:40.550 --> 00:36:44.889
+Zalthir: But for Thorin's strategy to work, don't we need to get the book first?
+
+399
+00:36:46.390 --> 00:36:49.130
+Kostadis Roussos: No, that's on the… no, on the way out, you always get the book.
+
+400
+00:36:50.160 --> 00:36:54.470
+Kostadis Roussos: Though she thinks she's… she's… No, our plan was to…
+
+401
+00:36:54.470 --> 00:36:57.639
+Thorin: Get our reward, and then use our reward to implicate her.
+
+402
+00:36:57.960 --> 00:37:03.010
+Zalthir: Right. So, when does that happen, time-wise? Is it before the vote, or after the vote?
+
+403
+00:37:03.210 --> 00:37:04.519
+Kostadis Roussos: After the vote, after the vote.
+
+404
+00:37:04.520 --> 00:37:06.290
+Zalthir: Yeah, that doesn't work.
+
+405
+00:37:07.160 --> 00:37:07.930
+Kostadis Roussos: Noodles!
+
+406
+00:37:09.340 --> 00:37:12.710
+Zalthir: She might be voted in as first keeper by then.
+
+407
+00:37:14.900 --> 00:37:23.060
+Kostadis Roussos: Stranger things have happened, yeah. Stranger things have happened.
+
+408
+00:37:23.480 --> 00:37:30.769
+Kostadis Roussos: One thing you could do is you could tell her we have a lot of evidence against you, and so maybe she doesn't want to run for first keeper. I mean, there's also that angle.
+
+409
+00:37:32.490 --> 00:37:37.010
+Kostadis Roussos: You are going to submit a report, and the report could be more or less damning to her.
+
+410
+00:37:41.840 --> 00:37:43.749
+Thorin: Alright, so I think we tell her…
+
+411
+00:37:44.580 --> 00:37:53.699
+Thorin: We've identified the murderer, but we're still investigating who the accomplices are, because it doesn't explain everything that we've seen. But this is enough to act on right now.
+
+412
+00:37:56.440 --> 00:37:59.080
+Zalthir: Yeah, we know there are accomplices.
+
+413
+00:38:00.010 --> 00:38:02.360
+Kostadis Roussos: Right, so you leave it at, we know they're our accomplice.
+
+414
+00:38:04.660 --> 00:38:09.610
+Kostadis Roussos: She pauses and goes, more… what kind of…
+
+415
+00:38:09.880 --> 00:38:23.080
+Kostadis Roussos: she looks like, you know, like, she's doing the whole, I'm outraged, I'm like, this is just awful, I can't believe that there would be accomplices in the death of such a great man as Janussi, who is beloved by all.
+
+416
+00:38:25.600 --> 00:38:27.340
+Kostadis Roussos: Beloved bio.
+
+417
+00:38:27.340 --> 00:38:29.589
+Zalthir: Did she actually say, Beloved by all?
+
+418
+00:38:30.020 --> 00:38:31.310
+Kostadis Roussos: Of course she did.
+
+419
+00:38:37.260 --> 00:38:37.730
+Thorin: So we still…
+
+420
+00:38:37.730 --> 00:38:38.740
+Kostadis Roussos: Beloved butter.
+
+421
+00:38:38.740 --> 00:38:39.890
+Thorin: either.
+
+422
+00:38:43.720 --> 00:38:45.389
+Zalthir: No, we never found the key.
+
+423
+00:38:46.560 --> 00:38:50.609
+Kostadis Roussos: Do you want to tell her you haven't found it, or leave it at… leave it as something?
+
+424
+00:38:52.780 --> 00:39:01.639
+Zalthir: Well, right, we don't know who did the poly… I mean, she may or may not have done the polymorphing, right? We don't know that part.
+
+425
+00:39:01.640 --> 00:39:02.629
+Kostadis Roussos: Yes, you don't.
+
+426
+00:39:03.080 --> 00:39:03.730
+Zalthir: Hmm.
+
+427
+00:39:08.540 --> 00:39:09.099
+Zalthir: As we…
+
+428
+00:39:09.100 --> 00:39:11.150
+Kostadis Roussos: As she's sitting there, she… yes?
+
+429
+00:39:11.640 --> 00:39:20.560
+Zalthir: Can we ask her if she would be game to force this safe open, now that… since we know he did it, and she agreed that he did it?
+
+430
+00:39:21.690 --> 00:39:25.710
+Kostadis Roussos: all Chris's safe.
+
+431
+00:39:26.350 --> 00:39:29.199
+Kostadis Roussos: Let me just get up… let me just pull up the module. Give me a second.
+
+432
+00:39:31.890 --> 00:39:47.400
+Kostadis Roussos: Kalan Strongbranch says, she goes, Kalan Strongbranch interrupts her, says, We will absolutely guard the safe tonight. Alkrist will spend the e-Day in the prisons, where he will be kept secure and unable to escape.
+
+433
+00:39:48.710 --> 00:39:50.330
+Zalthir: Okay, wasn't my question, though.
+
+434
+00:39:51.330 --> 00:39:58.200
+Kostadis Roussos: Yes, I realize that it wasn't, but I just wanted to make sure that Bookwyrm knew that what the procedural activities that needed to take place.
+
+435
+00:40:00.330 --> 00:40:04.609
+Kostadis Roussos: Right? But the safe would remain under guard if not opened immediately.
+
+436
+00:40:04.990 --> 00:40:06.499
+Zalthir: Sure, so can we open it?
+
+437
+00:40:07.690 --> 00:40:11.860
+Kostadis Roussos: Let me find out. Good question.
+
+438
+00:40:12.290 --> 00:40:17.250
+Kostadis Roussos: I mean, I have to know how it is open, not for any other reason.
+
+439
+00:40:24.110 --> 00:40:27.759
+Kostadis Roussos: Give me a second while I load the module!
+
+440
+00:41:14.720 --> 00:41:16.660
+Kostadis Roussos: Hmm,
+
+441
+00:41:19.860 --> 00:41:21.420
+Kostadis Roussos: August.
+
+442
+00:41:25.580 --> 00:41:28.070
+Kostadis Roussos: So we're talking about Alkrist's save, right?
+
+443
+00:41:42.470 --> 00:41:47.639
+Kostadis Roussos: Yes, you are able to go and… Open the safe.
+
+444
+00:41:49.770 --> 00:41:52.579
+Thorin: What's in it? What's in it? What's in it? Is it, like, a
+
+445
+00:41:52.940 --> 00:41:55.630
+Thorin: Rivera type of thing, where it's a big letdown.
+
+446
+00:41:55.630 --> 00:42:01.120
+Kostadis Roussos: Yeah, yeah, there's a… it contains a potion of flying, a potion of superior healing.
+
+447
+00:42:01.580 --> 00:42:05.899
+Kostadis Roussos: 750 gold pieces of… worth of gold coins.
+
+448
+00:42:06.870 --> 00:42:09.129
+Kostadis Roussos: And nothing else to implicate him.
+
+449
+00:42:11.840 --> 00:42:13.579
+Thorin: Is there a red herring in there?
+
+450
+00:42:15.230 --> 00:42:16.939
+Kostadis Roussos: There is, in fact, a red…
+
+451
+00:42:18.350 --> 00:42:22.350
+Kostadis Roussos: One of the gold coins has a herring that is red on it.
+
+452
+00:42:26.490 --> 00:42:27.469
+Daz: That's funny.
+
+453
+00:42:27.470 --> 00:42:29.260
+Kostadis Roussos: I was hoping to find… At this point in time.
+
+454
+00:42:29.260 --> 00:42:30.430
+Thorin: and or gem.
+
+455
+00:42:30.430 --> 00:42:31.300
+Zalthir: Yeah…
+
+456
+00:42:31.300 --> 00:42:32.029
+Kostadis Roussos: Yeah, yeah.
+
+457
+00:42:32.260 --> 00:42:47.489
+Kostadis Roussos: Yeah, so at this point in time, tell, Bookwyrm says, I think we have had enough of these accusations, like, she's standing at the doorway, like, this is this big production, several of the other avowed are there, they're all looking at it. Meanwhile, Daral's going.
+
+458
+00:42:47.760 --> 00:42:54.780
+Kostadis Roussos: Can we… can we do the curing of me now? Is that possible at all? Mr. Don… Mrs. Dawnbringer?
+
+459
+00:42:56.130 --> 00:43:01.849
+Kostadis Roussos: You know, you're… he's, like, complimenting down when you're up and down, he's kind of given up on bragging at this point in time.
+
+460
+00:43:03.740 --> 00:43:08.279
+Thorin: I mean, is there anything else we can extract from Daral at this point, or should we just torture the poor guy? I mean, like…
+
+461
+00:43:10.530 --> 00:43:17.169
+Zalthir: I mean, we should probably heal him, but… sorry, just real quick, do any of us know Locate Object?
+
+462
+00:43:19.280 --> 00:43:19.600
+Kostadis Roussos: go.
+
+463
+00:43:19.600 --> 00:43:19.980
+Daz: Oh, no.
+
+464
+00:43:19.980 --> 00:43:21.459
+Kostadis Roussos: At least Grygum doesn't.
+
+465
+00:43:21.460 --> 00:43:23.450
+Daz: I had something about that.
+
+466
+00:43:23.880 --> 00:43:29.629
+Thorin: So, first of all, we never… we just were curious what's in the safe. We never claimed that anything specific was going to be in there.
+
+467
+00:43:29.890 --> 00:43:30.610
+Zalthir: Yeah.
+
+468
+00:43:30.610 --> 00:43:31.420
+Kostadis Roussos: Yes.
+
+469
+00:43:32.820 --> 00:43:35.249
+Zalthir: Bookwyrm is with us, right?
+
+470
+00:43:35.850 --> 00:43:36.490
+Kostadis Roussos: Yes.
+
+471
+00:43:37.170 --> 00:43:37.740
+Zalthir: Okay.
+
+472
+00:43:38.420 --> 00:43:43.700
+Zalthir: I mean, if any of us can locate object or detect object, whatever it's called.
+
+473
+00:43:44.230 --> 00:43:48.110
+Thorin: Is it gonna kind of be like calling somebody's phone and having it ring in their pocket, be like.
+
+474
+00:43:48.340 --> 00:43:51.740
+Zalthir: Well, yeah, I'm hoping she has a sapphire on her, that would be interesting.
+
+475
+00:44:00.990 --> 00:44:02.570
+Kostadis Roussos: So what are you gonna look for?
+
+476
+00:44:03.040 --> 00:44:03.990
+Zalthir: Sapphire.
+
+477
+00:44:04.770 --> 00:44:15.009
+Daz: I mean, do we have the other half of… no. Yeah, if we had the sapphire, I have Identify, and it's a ritual spell, and it may tell me…
+
+478
+00:44:15.630 --> 00:44:21.269
+Kostadis Roussos: Yeah, no, so, so you cast the locate object, and it does not locate the object.
+
+479
+00:44:25.110 --> 00:44:35.169
+Kostadis Roussos: She does not have the sapphire. At this point in time, she's like, well, I think this spectacle has gone on long enough. You've done very well. She pauses and says, you have done very well.
+
+480
+00:44:35.750 --> 00:44:47.560
+Kostadis Roussos: You have completed the task that I had called upon you, and you have clearly demonstrated the value of Kalan Strong Branch's methodology for criminal investigation.
+
+481
+00:44:49.120 --> 00:45:03.439
+Kostadis Roussos: Something that I was dubious about, but now I'm strongly pleased with. And Kalan, I think that it was unwise of me to not keep you in charge, and so with my sincerest apologies, would you be so willing as to take your new position?
+
+482
+00:45:03.740 --> 00:45:05.309
+Kostadis Roussos: Your position once more.
+
+483
+00:45:09.860 --> 00:45:17.750
+Kostadis Roussos: Kalan's, of course, very gracious and very happy to accept it. He says, but this will not change the nature of my report tomorrow.
+
+484
+00:45:17.750 --> 00:45:35.380
+Kostadis Roussos: She goes, of course not, Kalan, of course not. I would never dream of you hiding any facts or any details of what has happened. And I can assure the heroic adventurers, whose names escape, yeah, yeah, Zalthir, etc, that tomorrow morning, during the naming.
+
+485
+00:45:36.620 --> 00:45:47.269
+Kostadis Roussos: During the naming ceremony, you will all be given an ample opportunity to express your opinions and convictions about what you may think may or may not have happened.
+
+486
+00:45:50.860 --> 00:45:51.670
+Zalthir: Hmm.
+
+487
+00:45:51.670 --> 00:45:52.320
+Kostadis Roussos: But!
+
+488
+00:45:52.750 --> 00:46:06.299
+Kostadis Roussos: I think the festivities have gone on long enough for the day, and I would like… and I will now ask Kalan Strongbranch to escort you to your quarters, or to the, she points to,
+
+489
+00:46:07.480 --> 00:46:22.849
+Kostadis Roussos: She actually says, I will ask him to escort you to Deneir's Sanctum, where you will wait until later this evening and be escorted to your chambers, at which point in time you will be escorted from your chambers and back to the Council of the Avowed.
+
+490
+00:46:25.400 --> 00:46:26.889
+Zalthir: Are we under house arrest?
+
+491
+00:46:27.860 --> 00:46:35.900
+Kostadis Roussos: No, no, no, no, no, you currently have the most important evidence of any kind, and so I'm simply doing this to protect you.
+
+492
+00:46:37.080 --> 00:46:45.519
+Kostadis Roussos: As you so correctly pointed out, there are other criminal elements within the society, and I would hate for something terrible to happen to you.
+
+493
+00:46:46.290 --> 00:46:48.819
+Kostadis Roussos: You can roll an insight in an investigation.
+
+494
+00:46:53.070 --> 00:46:54.770
+Daz: I got a 24.
+
+495
+00:46:54.770 --> 00:46:55.590
+Zalthir: Wow.
+
+496
+00:46:55.590 --> 00:46:57.499
+Kostadis Roussos: Yeah, she's actually not… she's actually…
+
+497
+00:46:57.630 --> 00:47:03.829
+Kostadis Roussos: Actually, so what you gather is she's got… she realizes that this is a win-win. Dorin, you picked nothing.
+
+498
+00:47:04.650 --> 00:47:05.320
+Thorin: I got nothing.
+
+499
+00:47:06.280 --> 00:47:20.039
+Kostadis Roussos: Okay, I got nothing. So, Zalthir, so Zalthir and Daz, what Zalthir picks up is that she's, she's actually sincerely worried about your safety.
+
+500
+00:47:21.750 --> 00:47:31.249
+Kostadis Roussos: Right? So there's a… there's a certain… she's sincerely worried about your safety, but Daz also picks up… she's also delighted by the idea of keeping you wrapped up and not poking your heads anymore anywhere.
+
+501
+00:47:34.830 --> 00:47:41.749
+Zalthir: So, while she's talking, I have my glabbagel arms swipe the potion of flying.
+
+502
+00:47:43.350 --> 00:47:44.050
+Kostadis Roussos: Okay.
+
+503
+00:47:47.020 --> 00:47:49.680
+Thorin: Never miss an opportunity to grift, man.
+
+504
+00:47:53.340 --> 00:47:56.729
+Kostadis Roussos: He's like, I like the flying skill, that was a good skill.
+
+505
+00:47:56.730 --> 00:47:58.290
+Zalthir: Excellent, right?
+
+506
+00:47:58.800 --> 00:47:59.660
+Kostadis Roussos: The book!
+
+507
+00:48:00.540 --> 00:48:01.760
+Kostadis Roussos: Fair enough.
+
+508
+00:48:02.170 --> 00:48:09.199
+Kostadis Roussos: Okay, that's a sufficiently high sleight of hand, and everybody's so frantically looking at everything else that nobody pays any attention.
+
+509
+00:48:10.490 --> 00:48:25.609
+Kostadis Roussos: In fact, what happens is they actually close the safe with everything inside and declare it to be of no interest. Kalan Strongbranch… especially kind of like, they're all so fixated on their issues, so Kalan Strongbranch now, again, is in charge of the guard.
+
+510
+00:48:25.960 --> 00:48:45.360
+Kostadis Roussos: And says, no, heroes, heroes, and I must say, I'm very happy to see how your actions have proven the value of my investigative methods that have done… he's, like, you know, all full of himself at this point in time. He's yet another person who's very heartbroken over Genesis' untimely demise.
+
+511
+00:48:47.930 --> 00:48:48.560
+Zalthir: Hmm.
+
+512
+00:48:48.560 --> 00:48:49.480
+Thorin: Wait, who is?
+
+513
+00:48:50.410 --> 00:48:51.390
+Kostadis Roussos: Kalan.
+
+514
+00:48:53.290 --> 00:48:59.270
+Kostadis Roussos: But he's one more… he's one more of the people who are working for Kalan who are very happy to see him… dead.
+
+515
+00:49:01.450 --> 00:49:10.319
+Kostadis Roussos: And I'm making fun of the fact that he's this untimely device. Kalan's also going, what a great man, what a great man, what a tragedy for the community.
+
+516
+00:49:16.250 --> 00:49:21.529
+Kostadis Roussos: You know, this is, you know, so there… so… so you arrive in Demonor's,
+
+517
+00:49:21.740 --> 00:49:26.140
+Kostadis Roussos: In the office. And so, imagine a room with bookshelves and tables.
+
+518
+00:49:26.390 --> 00:49:37.990
+Kostadis Roussos: Fembris Lancer is sort of sitting in there with you. Apparently, he's still punished, has to sit with you while you're sitting there. Food is brought in towards the evening.
+
+519
+00:49:39.760 --> 00:49:41.989
+Thorin: I don't trust any of this food anymore, man.
+
+520
+00:49:44.520 --> 00:49:52.609
+Kostadis Roussos: Fembris says, come, come, come. Fembris, on the other hand, doesn't have any issues and is about to start eating. Do you guys tell him anything, or let him eat?
+
+521
+00:49:56.470 --> 00:49:58.930
+Thorin: I mean, we have to have a taster, I guess.
+
+522
+00:49:59.320 --> 00:50:00.600
+Daz: I'd say 118.
+
+523
+00:50:00.600 --> 00:50:07.919
+Kostadis Roussos: Yeah, and that's a new best practice. At this point in time, it's, like, getting, like, 9 o'clock, Daral's, like, going, are you guys going to cure me or anything?
+
+524
+00:50:12.140 --> 00:50:13.870
+Thorin: I mean, what do you guys think? Should we cure him?
+
+525
+00:50:15.090 --> 00:50:18.650
+Daz: I mean, if he's… I don't know.
+
+526
+00:50:21.370 --> 00:50:22.240
+Zalthir: And…
+
+527
+00:50:23.050 --> 00:50:29.180
+Thorin: I don't think he had anything to do with it, and I don't think he has anything to tell us anymore. I think we probably just let him… let him go.
+
+528
+00:50:29.370 --> 00:50:30.610
+Zalthir: Probably blaring out.
+
+529
+00:50:30.870 --> 00:50:34.149
+Thorin: Yeah, I mean, we could extort them, but I don't think that would be nice.
+
+530
+00:50:34.280 --> 00:50:39.270
+Zalthir: I mean, maybe Daz would, but I don't know about the rest of us.
+
+531
+00:50:40.530 --> 00:50:42.880
+Thorin: Alright, alright, Dawnbringer, do your thing.
+
+532
+00:50:43.520 --> 00:51:07.630
+Kostadis Roussos: Alright, so he's cured, and he's very happy, and he says, I shall write, I shall do all kinds of new research on magical swords with the sentience and the beauty of Dawnbringer. I intend to make it an area of active research of mine. I can already imagine, he starts talking about how he's going to study the thematic… I can't do the semiotics, but just imagine, like, semiotic spewage for about 5 minutes.
+
+533
+00:51:08.590 --> 00:51:10.460
+Thorin: Dawnbringer eats it up, I'm sure.
+
+534
+00:51:11.160 --> 00:51:23.970
+Kostadis Roussos: Oh yeah, Dawnbringer completely eats it up. He's ecstatic, he's like, oh, yes, and blah blah blah blah blah, but… and he tries to walk out of the room, but apparently the room is still locked, and he's not… he's not going to hear it.
+
+535
+00:51:24.660 --> 00:51:31.450
+Kostadis Roussos: And… As you sit there wondering what… how the hell this story is going to end, Combat emerges.
+
+536
+00:51:32.610 --> 00:51:33.350
+Zalthir: combat?
+
+537
+00:51:34.570 --> 00:51:35.350
+Kostadis Roussos: Yes.
+
+538
+00:51:36.710 --> 00:51:37.590
+Zalthir: Okay.
+
+539
+00:51:39.140 --> 00:51:40.959
+Thorin: Not expected, but okay.
+
+540
+00:51:43.960 --> 00:51:47.169
+Kostadis Roussos: The technology.
+
+541
+00:51:54.610 --> 00:51:57.119
+Kostadis Roussos: And I just need to… I forgot to go on the map.
+
+542
+00:51:57.660 --> 00:51:59.650
+Kostadis Roussos: All those preparations are not done that.
+
+543
+00:52:29.330 --> 00:52:30.160
+Kostadis Roussos: mix.
+
+544
+00:53:04.860 --> 00:53:06.100
+Kostadis Roussos: Oh, Lord Jesus.
+
+545
+00:53:09.840 --> 00:53:10.730
+Kostadis Roussos: Match.
+
+546
+00:53:17.560 --> 00:53:21.000
+Kostadis Roussos: 19th, we have,
+
+547
+00:53:30.120 --> 00:53:30.880
+Kostadis Roussos: That's fine.
+
+548
+00:53:31.000 --> 00:53:33.600
+Kostadis Roussos: I thought I was cute in the right era there.
+
+549
+00:53:34.100 --> 00:53:35.500
+Kostadis Roussos: Fair enough.
+
+550
+00:53:50.050 --> 00:53:50.970
+Kostadis Roussos: Right.
+
+551
+00:54:23.390 --> 00:54:24.260
+Kostadis Roussos: Nope.
+
+552
+00:54:25.440 --> 00:54:27.210
+Kostadis Roussos: pre-helmed Horrors.
+
+553
+00:54:27.710 --> 00:54:32.130
+Kostadis Roussos: Smashed through the windows and the door coming into the chamber.
+
+554
+00:54:32.440 --> 00:54:35.359
+Kostadis Roussos: The five of you are, of course, stunned.
+
+555
+00:54:35.500 --> 00:54:36.050
+Kostadis Roussos: Not necessarily.
+
+556
+00:54:36.050 --> 00:54:37.649
+Thorin: Wait, wait, who's… who came in?
+
+557
+00:54:38.840 --> 00:54:43.830
+Kostadis Roussos: Let me just get, two columns in here to represent Daral.
+
+558
+00:54:50.680 --> 00:54:52.890
+Zalthir: Seems like it's a helmed horror?
+
+559
+00:54:59.440 --> 00:55:00.270
+Kostadis Roussos: at all.
+
+560
+00:55:01.660 --> 00:55:04.319
+Zalthir: Oh, is this, like, animated armor or something?
+
+561
+00:55:05.110 --> 00:55:07.289
+Kostadis Roussos: What? Yes, they're animated, they're animations.
+
+562
+00:55:08.610 --> 00:55:09.720
+Kostadis Roussos: Alright.
+
+563
+00:55:09.950 --> 00:55:11.200
+Kostadis Roussos: Oh, nope.
+
+564
+00:55:16.190 --> 00:55:17.380
+Kostadis Roussos: I'm right.
+
+565
+00:55:40.450 --> 00:55:41.320
+Kostadis Roussos: Alrighty.
+
+566
+00:55:41.870 --> 00:55:43.260
+Kostadis Roussos: Alright, so…
+
+567
+00:55:49.530 --> 00:55:53.840
+Kostadis Roussos: Alrighty. So, Daz, where are you? You're located right here.
+
+568
+00:55:54.740 --> 00:55:55.680
+Zalthir: Are we on the wrong map?
+
+569
+00:55:57.030 --> 00:56:00.220
+Kostadis Roussos: No, I'm sorry, I haven't drawn… I haven't brought you to the right map.
+
+570
+00:56:00.440 --> 00:56:01.080
+Zalthir: God.
+
+571
+00:56:01.840 --> 00:56:02.439
+Kostadis Roussos: There we go.
+
+572
+00:56:04.260 --> 00:56:08.250
+Kostadis Roussos: Alright, so you're… this is Deneir's Sanctum.
+
+573
+00:56:09.270 --> 00:56:10.759
+Zalthir: Wait, Daral's a woman?
+
+574
+00:56:11.910 --> 00:56:16.420
+Kostadis Roussos: No, it's just, the, the Commodore icon.
+
+575
+00:56:16.420 --> 00:56:18.040
+Zalthir: Oh, okay.
+
+576
+00:56:18.260 --> 00:56:24.920
+Kostadis Roussos: Sorry, yeah, it's just a generic commenter icon. I don't… I did not make Daral art.
+
+577
+00:56:24.920 --> 00:56:26.000
+Zalthir: Got it.
+
+578
+00:56:26.000 --> 00:56:27.580
+Thorin: But there's two Darals.
+
+579
+00:56:28.460 --> 00:56:29.909
+Zalthir: Oh, Christ, Scott.
+
+580
+00:56:29.910 --> 00:56:33.670
+Kostadis Roussos: No, no, that's a mistake. One of this shouldn't be fibrous.
+
+581
+00:56:39.990 --> 00:56:41.000
+Kostadis Roussos: Alright.
+
+582
+00:56:43.330 --> 00:56:46.550
+Kostadis Roussos: Okay, let's roll for initiative.
+
+583
+00:56:48.560 --> 00:56:52.679
+Kostadis Roussos: Hold on, don't roll for initiative yet? Okay.
+
+584
+00:56:52.960 --> 00:56:53.430
+Thorin: You just said.
+
+585
+00:56:53.430 --> 00:56:53.909
+Kostadis Roussos: Now you go.
+
+586
+00:56:53.910 --> 00:56:55.460
+Thorin: for initiative, I was about to roll for initiative.
+
+587
+00:56:55.460 --> 00:57:00.950
+Kostadis Roussos: I know, I know, I know, I should have told you that I needed to clear things up, I'm sorry.
+
+588
+00:57:01.930 --> 00:57:04.149
+Zalthir: Alright, are we safe? We good?
+
+589
+00:57:04.630 --> 00:57:09.910
+Kostadis Roussos: Yeah, you're good now. I just need to now get up, thorns as, sorry, not thorns.
+
+590
+00:57:19.990 --> 00:57:21.729
+Thorin: I did. Poorly.
+
+591
+00:57:23.480 --> 00:57:24.230
+Kostadis Roussos: Deporting?
+
+592
+00:57:24.230 --> 00:57:29.590
+Daz: Do my initiative… 1.
+
+593
+00:57:32.350 --> 00:57:33.530
+Daz: That's not bad.
+
+594
+00:57:33.530 --> 00:57:34.150
+Zalthir: Huh.
+
+595
+00:57:43.810 --> 00:57:44.570
+Kostadis Roussos: Okay.
+
+596
+00:58:10.770 --> 00:58:11.760
+Kostadis Roussos: diagnose.
+
+597
+00:58:19.140 --> 00:58:20.070
+Kostadis Roussos: x.
+
+598
+00:58:20.210 --> 00:58:20.980
+Kostadis Roussos: Alright.
+
+599
+00:58:21.760 --> 00:58:31.719
+Kostadis Roussos: The creature… Alright, so, let me give these guys numbers so that we're not saying behelm Horror.
+
+600
+00:58:45.020 --> 00:58:49.239
+Zalthir: By the way, why is Glabbagool so far away? Shouldn't Klabogul be on me?
+
+601
+00:58:49.240 --> 00:58:51.699
+Kostadis Roussos: Can I just… because I dropped them there, I just dropped them there.
+
+602
+00:58:51.700 --> 00:58:52.350
+Zalthir: Okay.
+
+603
+00:58:54.110 --> 00:58:56.630
+Kostadis Roussos: You can, you can put them wherever you want.
+
+604
+00:58:57.540 --> 00:59:01.259
+Kostadis Roussos: How about this? Unless you tell me otherwise, I'm assuming it's attached to you.
+
+605
+00:59:01.500 --> 00:59:02.150
+Zalthir: Sold.
+
+606
+00:59:03.290 --> 00:59:08.029
+Kostadis Roussos: Right? That way, I don't have to keep moving him, and if he's not attached to you, we'll…
+
+607
+00:59:08.270 --> 00:59:12.159
+Kostadis Roussos: Yeah, so I'm just gonna put them over there so I don't get confused.
+
+608
+00:59:12.160 --> 00:59:12.920
+Zalthir: Sounds good.
+
+609
+00:59:14.180 --> 00:59:15.010
+Kostadis Roussos: Alright.
+
+610
+00:59:15.250 --> 00:59:18.569
+Kostadis Roussos: So,
+
+611
+00:59:33.030 --> 00:59:34.180
+Kostadis Roussos: Okay.
+
+612
+00:59:37.450 --> 00:59:42.489
+Kostadis Roussos: Okay, so… Guy head straight.
+
+613
+00:59:44.250 --> 00:59:46.200
+Kostadis Roussos: or Daz.
+
+614
+00:59:49.040 --> 00:59:50.720
+Kostadis Roussos: And attacks you.
+
+615
+00:59:51.000 --> 00:59:52.229
+Daz: The Helmed Horror.
+
+616
+00:59:53.030 --> 00:59:54.769
+Kostadis Roussos: Yeah, the Helmed Horror, he attacks you.
+
+617
+00:59:57.560 --> 00:59:58.000
+Daz: Fresh.
+
+618
+00:59:58.000 --> 01:00:06.149
+Kostadis Roussos: You're kind of very confused at this point in time. Fembrance is kind of in shock. Daral goes, that's not possible! How could they possibly… these creatures can't be here?
+
+619
+01:00:07.770 --> 01:00:12.479
+Thorin: So we have no idea where these people came from, where these things came from, or who they're answering to, or anything.
+
+620
+01:00:12.480 --> 01:00:17.189
+Kostadis Roussos: how they came… no, you knew how they came from. They climbed in through the window and smashed them through the door.
+
+621
+01:00:17.400 --> 01:00:21.420
+Thorin: Okay, sort of like… Mission Impossible style.
+
+622
+01:00:22.350 --> 01:00:22.970
+Kostadis Roussos: Yes.
+
+623
+01:00:23.260 --> 01:00:24.900
+Kostadis Roussos: But how many of them still work?
+
+624
+01:00:24.900 --> 01:00:26.050
+Thorin: Scientologists?
+
+625
+01:00:31.260 --> 01:00:32.040
+Kostadis Roussos: No.
+
+626
+01:00:33.610 --> 01:00:40.010
+Kostadis Roussos: But, they have no intelligence or thought that… they have no intelligence or thought of their own, so perhaps it hangs.
+
+627
+01:00:42.450 --> 01:00:44.570
+Kostadis Roussos: Alright.
+
+628
+01:00:45.720 --> 01:00:49.239
+Kostadis Roussos: Okay. This guy, Helmed Horror.
+
+629
+01:00:50.360 --> 01:00:51.680
+Kostadis Roussos: Alright, what was he doing?
+
+630
+01:00:56.200 --> 01:00:57.250
+Kostadis Roussos: Alright.
+
+631
+01:01:12.110 --> 01:01:18.359
+Kostadis Roussos: He attempts to grapple you.
+
+632
+01:01:19.960 --> 01:01:20.429
+Daz: Who's you?
+
+633
+01:01:20.430 --> 01:01:21.430
+Thorin: And who's he?
+
+634
+01:01:22.550 --> 01:01:23.779
+Kostadis Roussos: The creature.
+
+635
+01:01:24.640 --> 01:01:25.760
+Daz: Helmed Horror?
+
+636
+01:01:26.790 --> 01:01:27.490
+Kostadis Roussos: Yes.
+
+637
+01:01:29.790 --> 01:01:32.490
+Thorin: Or number three attempts to grapple which player?
+
+638
+01:01:33.120 --> 01:01:33.900
+Daz: Me.
+
+639
+01:01:34.810 --> 01:01:35.320
+Thorin: Yes.
+
+640
+01:01:35.320 --> 01:01:42.320
+Kostadis Roussos: And so, Helmed Horror No. 1 attempts to grapple daz.
+
+641
+01:01:43.400 --> 01:01:45.750
+Thorin: Well, it's Helmed Horror No. 3 that…
+
+642
+01:01:46.160 --> 01:01:49.060
+Thorin: Is 23 in the turn order.
+
+643
+01:01:50.190 --> 01:01:50.740
+Zalthir: Oh, true.
+
+644
+01:01:50.740 --> 01:01:51.829
+Kostadis Roussos: Well, sorry, Lindy.
+
+645
+01:01:52.240 --> 01:01:53.680
+Kostadis Roussos: Oh, sorry, my bad.
+
+646
+01:01:54.060 --> 01:01:55.040
+Kostadis Roussos: He does.
+
+647
+01:01:55.230 --> 01:01:57.820
+Zalthir: Wait, does that mean Grygum gets an attack of opportunity?
+
+648
+01:01:58.940 --> 01:01:59.599
+Thorin: No, no, no.
+
+649
+01:02:00.800 --> 01:02:01.509
+Zalthir: it went by, girl.
+
+650
+01:02:02.780 --> 01:02:05.059
+Kostadis Roussos: Yeah, I know, he does. Grygum does actually get an attack.
+
+651
+01:02:05.060 --> 01:02:05.499
+Thorin: Yeah, yeah, yeah.
+
+652
+01:02:06.450 --> 01:02:08.550
+Kostadis Roussos: Yeah, no, no, just that I hadn't noticed it.
+
+653
+01:02:08.750 --> 01:02:12.329
+Kostadis Roussos: He basically ignores Grygum, rushes towards Daz.
+
+654
+01:02:12.770 --> 01:02:15.400
+Kostadis Roussos: I'm gonna pretend to.
+
+655
+01:02:16.550 --> 01:02:17.100
+Daz: What is it?
+
+656
+01:02:17.100 --> 01:02:19.670
+Kostadis Roussos: Hit him with his mace plus one, because that's…
+
+657
+01:02:20.060 --> 01:02:22.079
+Daz: What did I ever do? This seems…
+
+658
+01:02:22.080 --> 01:02:23.660
+Zalthir: You're a popular guy!
+
+659
+01:02:25.250 --> 01:02:27.500
+Kostadis Roussos: He takes, he misses.
+
+660
+01:02:27.850 --> 01:02:31.070
+Kostadis Roussos: The helm whore tries to grapple you.
+
+661
+01:02:31.980 --> 01:02:36.520
+Kostadis Roussos: The grapple rules get,
+
+662
+01:02:37.030 --> 01:02:42.010
+Kostadis Roussos: You can tell me what the grapple rules are off the top of your head, or you can watch as I struggle to remember them.
+
+663
+01:02:42.010 --> 01:02:48.550
+Zalthir: It's Contested Athletics, I think?
+
+664
+01:02:55.770 --> 01:02:59.010
+Daz: defense is an Arcana check, right? Because that's what I have, plus a.
+
+665
+01:03:00.150 --> 01:03:04.319
+Zalthir: Make an unarmed strength for his argument. Strength or Dexterity saving throw.
+
+666
+01:03:06.350 --> 01:03:07.020
+Kostadis Roussos: Yes.
+
+667
+01:03:07.630 --> 01:03:10.329
+Daz: Just a regular dexterity saving throw?
+
+668
+01:03:11.390 --> 01:03:11.750
+Kostadis Roussos: Yeah.
+
+669
+01:03:11.750 --> 01:03:13.920
+Zalthir: Yeah, core strength, looks fine.
+
+670
+01:03:14.950 --> 01:03:15.899
+Kostadis Roussos: What's your strength?
+
+671
+01:03:16.470 --> 01:03:19.709
+Kostadis Roussos: Now, what's your, I have to make an… I have to hit you, though, first, right?
+
+672
+01:03:19.710 --> 01:03:21.159
+Zalthir: Yeah, unarmed strike.
+
+673
+01:03:23.710 --> 01:03:25.019
+Kostadis Roussos: What's your armor class?
+
+674
+01:03:25.020 --> 01:03:26.320
+Daz: 12. Yes.
+
+675
+01:03:26.320 --> 01:03:27.200
+Zalthir: Hmm.
+
+676
+01:03:27.600 --> 01:03:28.300
+Daz: Unless there's a.
+
+677
+01:03:28.300 --> 01:03:29.300
+Kostadis Roussos: That was a tip.
+
+678
+01:03:30.620 --> 01:03:38.789
+Kostadis Roussos: All right, he's, he's, the, the, the, the unarmed horror has, grappled you. You are grappled.
+
+679
+01:03:40.740 --> 01:03:41.270
+Zalthir: Oh, because there's a.
+
+680
+01:03:41.270 --> 01:03:42.260
+Daz: Plus.
+
+681
+01:03:43.200 --> 01:03:43.920
+Daz: Nevertheless.
+
+682
+01:03:43.920 --> 01:03:45.069
+Kostadis Roussos: 4, plus 40.
+
+683
+01:03:45.210 --> 01:03:50.590
+Daz: But I didn't roll my, saving throw, right? Don't I get to roll a saving throw to avoid it?
+
+684
+01:03:50.790 --> 01:03:51.590
+Zalthir: Yay.
+
+685
+01:03:51.590 --> 01:03:52.430
+Kostadis Roussos: You're doing.
+
+686
+01:03:52.950 --> 01:03:57.390
+Kostadis Roussos: I thought that's what you did. Oh, yeah, no, no, yeah, you do, you do, yes, yes.
+
+687
+01:03:58.920 --> 01:04:00.030
+Daz: 15.
+
+688
+01:04:00.880 --> 01:04:03.720
+Kostadis Roussos: It's a tie, so you're not graffled.
+
+689
+01:04:05.070 --> 01:04:05.900
+Kostadis Roussos: Okay.
+
+690
+01:04:07.990 --> 01:04:09.159
+Kostadis Roussos: Dads, you're up.
+
+691
+01:04:10.730 --> 01:04:14.600
+Daz: Well… let's kick this dude's ass that's right in front of me.
+
+692
+01:04:15.000 --> 01:04:17.520
+Daz: Let's see… Because he pissed me off.
+
+693
+01:04:22.040 --> 01:04:30.220
+Daz: What spells do I have, which would be good for him? I mean, I could magic missile him. Do I have any insight into how many hit points this dude has?
+
+694
+01:04:31.140 --> 01:04:35.750
+Kostadis Roussos: He doesn't have a lot of hit points, but you also know that he's resistant to flavors of magic.
+
+695
+01:04:36.720 --> 01:04:38.909
+Daz: Oh, what flavors of magic is he?
+
+696
+01:04:41.060 --> 01:04:44.280
+Kostadis Roussos: You don't know, there's, like, spells that they're protected from.
+
+697
+01:04:45.150 --> 01:04:50.189
+Zalthir: Yeah, the creator, when creating them, chooses three. We don't know which 3 were chosen.
+
+698
+01:04:50.190 --> 01:04:52.489
+Daz: Just spells, or types of magic?
+
+699
+01:04:53.400 --> 01:04:54.110
+Kostadis Roussos: Fells.
+
+700
+01:05:02.020 --> 01:05:09.659
+Zalthir: It looks like they have general magic resistance, advantaged over every spell, and then immunity to three specific spells that we don't know.
+
+701
+01:05:12.140 --> 01:05:14.700
+Daz: Alright, so…
+
+702
+01:05:20.910 --> 01:05:23.240
+Daz: What level is this?
+
+703
+01:05:23.490 --> 01:05:26.969
+Daz: I'm gonna cast, Phantasmal Killer on him.
+
+704
+01:05:29.210 --> 01:05:30.750
+Kostadis Roussos: What kind of damage is that?
+
+705
+01:05:32.250 --> 01:05:35.130
+Daz: It will be Psychic.
+
+706
+01:05:37.280 --> 01:05:39.010
+Kostadis Roussos: I'll roll an arcana check.
+
+707
+01:05:39.840 --> 01:05:42.149
+Daz: Oh, roll an Arcana check first? Okay.
+
+708
+01:05:42.420 --> 01:05:44.950
+Daz: Yeah, just because…
+
+709
+01:05:46.480 --> 01:05:47.820
+Kostadis Roussos: Okay. Oh, it's actually…
+
+710
+01:05:47.820 --> 01:05:51.089
+Daz: It's an illusion that causes psychic damage.
+
+711
+01:05:52.580 --> 01:05:55.500
+Kostadis Roussos: Yes, the point I'm trying to make, though, is it's a construct.
+
+712
+01:05:56.960 --> 01:05:58.770
+Daz: No, no, no, it's not a construct.
+
+713
+01:05:58.990 --> 01:05:59.750
+Daz: It… it…
+
+714
+01:05:59.750 --> 01:06:02.210
+Kostadis Roussos: No, no, the creature you're fighting is a construct.
+
+715
+01:06:02.210 --> 01:06:05.579
+Daz: Oh, then I didn't know that. Alright, hold on. Then probably…
+
+716
+01:06:05.580 --> 01:06:08.990
+Kostadis Roussos: Yeah, that's what I'm trying to say, he's a const… he's a construct, right?
+
+717
+01:06:16.990 --> 01:06:26.680
+Daz: Alright, so let me go clear my… You… okay. So… I'll fire…
+
+718
+01:06:33.860 --> 01:06:40.500
+Daz: I'm gonna… maybe… let's see if he's immune to fire damage. I'll cast…
+
+719
+01:06:40.750 --> 01:06:43.560
+Daz: Or do I know… can I tell if he's in.
+
+720
+01:06:44.130 --> 01:06:46.590
+Kostadis Roussos: No, you have no idea. You have no idea.
+
+721
+01:06:46.590 --> 01:06:49.399
+Daz: Alright, so we're gonna try… Scorching Ray.
+
+722
+01:06:51.470 --> 01:06:52.120
+Kostadis Roussos: Alright.
+
+723
+01:06:53.020 --> 01:06:55.189
+Daz: I tried to cast it, it's not working.
+
+724
+01:06:56.150 --> 01:06:58.169
+Daz: Let's try again. There we go.
+
+725
+01:06:59.060 --> 01:06:59.570
+Kostadis Roussos: Alright.
+
+726
+01:06:59.570 --> 01:07:00.270
+Daz: So that would be…
+
+727
+01:07:00.270 --> 01:07:01.200
+Kostadis Roussos: Were you casting?
+
+728
+01:07:01.200 --> 01:07:10.900
+Daz: 8 times 3, I casted, Scorching Ray. It's fire… it's magical fire damage, and it would be 8 times 3 rays, and I rolled a 22.
+
+729
+01:07:11.960 --> 01:07:19.280
+Kostadis Roussos: Yeah, now, if you attack the guy who's right next to you, you would be at disadvantage. If you attack the guys who are away from you, it would be a hit.
+
+730
+01:07:25.080 --> 01:07:29.809
+Daz: It's… Is that just because it's a range area? You can't spec…
+
+731
+01:07:29.810 --> 01:07:32.260
+Kostadis Roussos: Yeah, it's a range thing. Yeah, it's a range.
+
+732
+01:07:32.570 --> 01:07:35.519
+Daz: I thought that was only with, like, non-magical stuff.
+
+733
+01:07:36.480 --> 01:07:39.980
+Daz: I'll fire it at Helmed Horror 1.
+
+734
+01:07:40.780 --> 01:07:41.920
+Kostadis Roussos: Alright, all three?
+
+735
+01:07:43.090 --> 01:07:44.979
+Daz: Sure, all three.
+
+736
+01:07:45.930 --> 01:07:48.790
+Kostadis Roussos: Right? So he takes, 24 points of damage.
+
+737
+01:07:48.790 --> 01:07:50.019
+Daz: 24 points, yeah.
+
+738
+01:07:51.000 --> 01:07:51.810
+Kostadis Roussos: Alright.
+
+739
+01:07:52.190 --> 01:07:53.490
+Daz: Boom-boom, boom-boom.
+
+740
+01:07:58.740 --> 01:07:59.750
+Kostadis Roussos: Okay.
+
+741
+01:08:05.310 --> 01:08:07.170
+Kostadis Roussos: Alright, Helmed Horror 3.
+
+742
+01:08:07.380 --> 01:08:09.840
+Kostadis Roussos: approaches Zalthir.
+
+743
+01:08:10.740 --> 01:08:11.500
+Zalthir: Hello?
+
+744
+01:08:12.450 --> 01:08:14.029
+Kostadis Roussos: and attacks.
+
+745
+01:08:14.320 --> 01:08:17.110
+Kostadis Roussos: Because that he doesn't respond to your hello.
+
+746
+01:08:25.390 --> 01:08:26.900
+Kostadis Roussos: Alright, so what does he do?
+
+747
+01:08:28.700 --> 01:08:31.530
+Kostadis Roussos: 2d6+, okay.
+
+748
+01:08:31.640 --> 01:08:33.300
+Kostadis Roussos: D20 plus 6.
+
+749
+01:08:35.500 --> 01:08:37.719
+Kostadis Roussos: But that's not a useful command.
+
+750
+01:08:39.859 --> 01:08:41.089
+Kostadis Roussos: That's a hit.
+
+751
+01:08:41.640 --> 01:08:50.429
+Kostadis Roussos: That is also a hit. What is your armor… what is your, you… you take, let me just tell you what the damage is, and then you can tell me how much little damage you take.
+
+752
+01:08:50.600 --> 01:08:55.050
+Kostadis Roussos: You take, 13 points of damage, plus…
+
+753
+01:08:55.180 --> 01:09:00.919
+Kostadis Roussos: You take 13 points of damage… 18 points of damage from the first attack.
+
+754
+01:09:03.910 --> 01:09:07.719
+Kostadis Roussos: No, sorry, take that back. 13 points, sorry, I'm sorry, I did the math wrong.
+
+755
+01:09:14.200 --> 01:09:18.490
+Kostadis Roussos: That's from the first attack, and from the second attack, so 17 points of damage.
+
+756
+01:09:19.340 --> 01:09:20.299
+Daz: This is healthier?
+
+757
+01:09:21.240 --> 01:09:21.880
+Kostadis Roussos: Yes.
+
+758
+01:09:22.979 --> 01:09:30.599
+Zalthir: Sure, I will mitigate the first attack…
+
+759
+01:09:31.649 --> 01:09:38.589
+Kostadis Roussos: Okay, so the first attack, you can mitigate the… either the psychic damage or the slashing damage, what do you want to… what do you want to mitigate?
+
+760
+01:09:38.910 --> 01:09:40.550
+Zalthir: Oh, there were two components to that?
+
+761
+01:09:41.210 --> 01:09:45.030
+Kostadis Roussos: Yeah, yeah, so the D8 plus 4 is the slashing, and the D10 is the force damage.
+
+762
+01:09:45.910 --> 01:09:49.470
+Zalthir: D8 plus… For slashing.
+
+763
+01:09:49.729 --> 01:09:52.790
+Zalthir: I mean, okay, that was 8, right?
+
+764
+01:09:53.680 --> 01:09:54.320
+Kostadis Roussos: Yep.
+
+765
+01:09:54.510 --> 01:09:59.870
+Zalthir: Okay, so… I can… if I mitigate the 8…
+
+766
+01:10:00.530 --> 01:10:10.879
+Zalthir: Blah blah blah… well, it's automatic, okay. So then I take 3 plus 6, 9 damage? Is that right?
+
+767
+01:10:11.150 --> 01:10:12.790
+Kostadis Roussos: Yep, that sounds about right.
+
+768
+01:10:13.190 --> 01:10:13.860
+Zalthir: Okay.
+
+769
+01:10:23.670 --> 01:10:24.580
+Kostadis Roussos: Right.
+
+770
+01:10:26.710 --> 01:10:29.559
+Kostadis Roussos: No, we do that. We go this way.
+
+771
+01:10:30.080 --> 01:10:33.149
+Kostadis Roussos: Alright, this guy, on the other hand, decides to attack.
+
+772
+01:10:33.880 --> 01:10:35.080
+Kostadis Roussos: does.
+
+773
+01:10:36.780 --> 01:10:38.639
+Daz: Why is everybody piling up on me?
+
+774
+01:10:40.170 --> 01:10:41.839
+Kostadis Roussos: I don't know.
+
+775
+01:10:41.840 --> 01:10:43.720
+Daz: I guess because I just shot him in the face.
+
+776
+01:10:45.950 --> 01:10:52.099
+Kostadis Roussos: Well, except, except, okay, you roll the High Arcana, but you know about constructs that they don't have feelings.
+
+777
+01:10:52.420 --> 01:10:53.899
+Kostadis Roussos: They have objectives.
+
+778
+01:10:54.270 --> 01:10:55.049
+Daz: That's right.
+
+779
+01:10:56.320 --> 01:10:57.690
+Thorin: They're like AIs.
+
+780
+01:10:59.020 --> 01:11:02.099
+Kostadis Roussos: Right? So they don't… so this is not about… so it's something else.
+
+781
+01:11:05.670 --> 01:11:06.025
+Daz: Whoa.
+
+782
+01:11:06.380 --> 01:11:08.089
+Kostadis Roussos: 15 points of damage.
+
+783
+01:11:10.080 --> 01:11:11.349
+Daz: okay.
+
+784
+01:11:11.350 --> 01:11:12.260
+Kostadis Roussos: Volunteer Europe.
+
+785
+01:11:13.580 --> 01:11:14.340
+Kostadis Roussos: Boat.
+
+786
+01:11:15.070 --> 01:11:20.910
+Zalthir: Okay, can you clarify… Nope.
+
+787
+01:11:21.630 --> 01:11:23.950
+Zalthir: Which are the windows, and which is the door?
+
+788
+01:11:24.960 --> 01:11:26.699
+Kostadis Roussos: Okay, good question.
+
+789
+01:11:34.040 --> 01:11:41.100
+Zalthir: Okay, door, window, window. And when these guys came in through the window, were they flying? Like, how did they do that?
+
+790
+01:11:42.070 --> 01:11:42.970
+Kostadis Roussos: They can fly.
+
+791
+01:11:43.670 --> 01:11:46.089
+Zalthir: Oh, they're… okay, so they're flying presently.
+
+792
+01:11:47.240 --> 01:11:52.809
+Kostadis Roussos: Well, no, they're not flying presently, now they're in a room that they can't fly in very easily. They don't have… they're not small…
+
+793
+01:11:52.810 --> 01:11:54.759
+Thorin: Or are they just, like, animated armor?
+
+794
+01:11:55.610 --> 01:11:58.880
+Kostadis Roussos: No, no, they're animated armor. They can walk and they can hover.
+
+795
+01:11:58.880 --> 01:11:59.760
+Thorin: Okay.
+
+796
+01:12:00.030 --> 01:12:03.589
+Thorin: So they're what happens when you take the statue away and all the armor is left?
+
+797
+01:12:03.590 --> 01:12:04.410
+Zalthir: They still read it.
+
+798
+01:12:04.410 --> 01:12:04.850
+Kostadis Roussos: Yes.
+
+799
+01:12:05.770 --> 01:12:08.710
+Kostadis Roussos: And it's got these, like, glowing little eyes.
+
+800
+01:12:08.710 --> 01:12:10.819
+Thorin: Yeah, yeah, no, I totally can see it, okay.
+
+801
+01:12:10.990 --> 01:12:13.329
+Zalthir: Yeah, okay, pleasant.
+
+802
+01:12:13.760 --> 01:12:18.540
+Zalthir: Okay, well, then I'll just punch it a lot.
+
+803
+01:12:21.890 --> 01:12:23.870
+Zalthir: Yeah, so it…
+
+804
+01:12:24.360 --> 01:12:31.309
+Zalthir: I think… I don't have any means of getting advantage on this first attack, so I'll just take my best shot.
+
+805
+01:12:33.240 --> 01:12:36.890
+Kostadis Roussos: But you have no way to create advantage? Are you sure? You missed.
+
+806
+01:12:37.540 --> 01:12:40.349
+Zalthir: Yeah, that one's a miss. Try, try again.
+
+807
+01:12:40.350 --> 01:12:42.580
+Kostadis Roussos: They have an armor class of 20, just so you know. That is a history.
+
+808
+01:12:42.580 --> 01:12:44.129
+Zalthir: That's a hit, right?
+
+809
+01:12:44.970 --> 01:12:45.590
+Kostadis Roussos: Yep.
+
+810
+01:12:46.020 --> 01:12:47.330
+Zalthir: Okay, great.
+
+811
+01:12:47.330 --> 01:12:49.239
+Thorin: armor, so of course they have a high armor class.
+
+812
+01:12:49.900 --> 01:12:58.379
+Zalthir: Yeah, so, okay, hold on. So now that hit, which means I can grapple, as part of that attack.
+
+813
+01:12:58.490 --> 01:13:02.799
+Zalthir: And… Glabbagool can do his…
+
+814
+01:13:02.950 --> 01:13:09.199
+Zalthir: shadow attack infusion thing, which we haven't mechanically figured out how it works yet, as far as I recall.
+
+815
+01:13:09.910 --> 01:13:11.080
+Kostadis Roussos: Oh, we had.
+
+816
+01:13:11.080 --> 01:13:13.649
+Zalthir: Have we? Okay, I don't have notes on it.
+
+817
+01:13:14.390 --> 01:13:16.880
+Kostadis Roussos: I made sure to have the notes on that.
+
+818
+01:13:30.770 --> 01:13:31.699
+Kostadis Roussos: Here we go.
+
+819
+01:13:35.630 --> 01:13:41.220
+Kostadis Roussos: What we said was, if it turns out that I got the… that the balance prime wrong, I'm going to change it, but we'll start with this.
+
+820
+01:13:41.990 --> 01:13:46.859
+Zalthir: God, there could be in any of a thousand… Over there.
+
+821
+01:13:46.860 --> 01:13:48.849
+Kostadis Roussos: And they're in the Ember Grapple General Challenge.
+
+822
+01:13:52.180 --> 01:13:52.959
+Daz: That's funny.
+
+823
+01:13:58.040 --> 01:14:01.710
+Zalthir: Target was making a DC13 Dexterity save.
+
+824
+01:14:02.220 --> 01:14:05.040
+Zalthir: Which the target needs restraints, so disadvantage.
+
+825
+01:14:10.660 --> 01:14:17.699
+Zalthir: Okay, I'll add that as an action, but for the moment, it looks like he needs to make a dexterity save with disadvantage.
+
+826
+01:14:22.160 --> 01:14:24.690
+Kostadis Roussos: He spectacularly doesn't make it.
+
+827
+01:14:27.950 --> 01:14:31.550
+Zalthir: Okay, so 46 acid damage.
+
+828
+01:14:33.230 --> 01:14:36.019
+Kostadis Roussos: 40… not 46, 4014, 40…
+
+829
+01:14:37.610 --> 01:14:41.029
+Zalthir: Huh? The target takes 1446 acetone.
+
+830
+01:14:41.030 --> 01:14:44.319
+Kostadis Roussos: Oh, I thought… Okay, so 14 points of damage.
+
+831
+01:14:44.590 --> 01:14:46.600
+Zalthir: Oh, okay, sure, just the average.
+
+832
+01:14:47.530 --> 01:14:51.039
+Zalthir: But it is magical hours.
+
+833
+01:14:51.040 --> 01:14:51.730
+Kostadis Roussos: role.
+
+834
+01:14:53.370 --> 01:14:54.070
+Zalthir: Either way.
+
+835
+01:14:54.070 --> 01:14:56.060
+Kostadis Roussos: This isn't… Okay.
+
+836
+01:14:56.180 --> 01:14:59.729
+Kostadis Roussos: His armor is down by 1, so we'll just… 19.
+
+837
+01:15:00.250 --> 01:15:02.860
+Zalthir: Okay, cool. Then…
+
+838
+01:15:02.860 --> 01:15:07.310
+Kostadis Roussos: I'm gonna put a 1 here, because I can't edit his armor class directly, so… to remind us.
+
+839
+01:15:07.510 --> 01:15:08.589
+Kostadis Roussos: That's fair. Alright.
+
+840
+01:15:08.590 --> 01:15:16.579
+Zalthir: Alright, now I can attack it again… This time with advantage.
+
+841
+01:15:17.110 --> 01:15:20.210
+Zalthir: And I think I missed, or… what's his armor class?
+
+842
+01:15:21.020 --> 01:15:21.830
+Kostadis Roussos: 20.
+
+843
+01:15:22.060 --> 01:15:24.920
+Zalthir: 20, oh, minus 1, so then I hit…
+
+844
+01:15:26.080 --> 01:15:27.850
+Kostadis Roussos: You would have hit with a 20 anyway.
+
+845
+01:15:27.850 --> 01:15:29.300
+Zalthir: Oh, sure, tires, yeah.
+
+846
+01:15:29.950 --> 01:15:31.320
+Kostadis Roussos: Alright.
+
+847
+01:15:31.780 --> 01:15:32.780
+Zalthir: Correct.
+
+848
+01:15:32.980 --> 01:15:40.559
+Zalthir: 15… Did you clarify how many times that balloon can do that?
+
+849
+01:15:41.500 --> 01:15:47.960
+Kostadis Roussos: Once. Per… He has a certain amount of high points, that's what this constraint is.
+
+850
+01:15:49.510 --> 01:15:51.560
+Zalthir: Oh, he has his own pool, alright.
+
+851
+01:15:51.560 --> 01:15:52.740
+Kostadis Roussos: Yep, yep.
+
+852
+01:15:53.680 --> 01:15:54.489
+Zalthir: Do we know?
+
+853
+01:15:54.490 --> 01:15:55.879
+Kostadis Roussos: 4… got bored.
+
+854
+01:15:56.120 --> 01:15:57.749
+Zalthir: Four. Oh, so we can do it again.
+
+855
+01:15:58.490 --> 01:15:59.050
+Kostadis Roussos: Tim.
+
+856
+01:16:01.710 --> 01:16:03.750
+Kostadis Roussos: I'm gonna share this with you, Zalthir.
+
+857
+01:16:05.410 --> 01:16:06.080
+Zalthir: Bum.
+
+858
+01:16:06.080 --> 01:16:07.469
+Kostadis Roussos: I only shared it with you.
+
+859
+01:16:08.740 --> 01:16:09.370
+Zalthir: this?
+
+860
+01:16:09.370 --> 01:16:16.340
+Kostadis Roussos: Glabbagool. If you look… if you look in your Google Drive for Glabbagool Google, I'm sure you will find exactly two documents.
+
+861
+01:16:16.670 --> 01:16:17.980
+Zalthir: Oh, in Drive.
+
+862
+01:16:22.370 --> 01:16:24.269
+Zalthir: Shared with me.
+
+863
+01:16:31.830 --> 01:16:38.189
+Kostadis Roussos: I'm gonna go old school with graphical. We're gonna have to read the character sheet and carefully roll the dice by handcrafted the artisanal dice.
+
+864
+01:16:38.760 --> 01:16:46.320
+Zalthir: Oh, that's interesting. It doesn't show up in shared with me, but if I search for it, it appears. That's… Google is weird.
+
+865
+01:16:48.020 --> 01:16:49.450
+Kostadis Roussos: Yeah, googling.
+
+866
+01:16:54.470 --> 01:16:55.560
+Kostadis Roussos: Alright.
+
+867
+01:16:59.460 --> 01:17:02.459
+Kostadis Roussos: Orrin, you're gonna be up next, so why don't we… we have you going.
+
+868
+01:17:03.870 --> 01:17:10.700
+Thorin: Alright, so… Let's go ahead and attack.
+
+869
+01:17:11.640 --> 01:17:12.040
+Kostadis Roussos: Oops.
+
+870
+01:17:12.040 --> 01:17:13.510
+Thorin: with Dawnbringer.
+
+871
+01:17:14.060 --> 01:17:17.010
+Kostadis Roussos: Oh, Dragon, I forgot to hold Dragon.
+
+872
+01:17:18.370 --> 01:17:21.360
+Thorin: Now, I don't think I have advantage in any way.
+
+873
+01:17:22.720 --> 01:17:23.970
+Thorin: Just trying to think.
+
+874
+01:17:25.880 --> 01:17:29.169
+Thorin: Alright. Oh, wait, this is interesting, this is new.
+
+875
+01:17:30.080 --> 01:17:35.870
+Thorin: So I do… it's not undead, so… Nope.
+
+876
+01:17:37.090 --> 01:17:39.360
+Thorin: So I do 14 points of damage.
+
+877
+01:17:40.350 --> 01:17:42.090
+Kostadis Roussos: What'd you roll? Okay, yep.
+
+878
+01:17:42.810 --> 01:17:47.680
+Thorin: And then I have sap, and what does sap do again?
+
+879
+01:17:48.490 --> 01:17:51.330
+Kostadis Roussos: That, slows down the creature.
+
+880
+01:17:52.140 --> 01:17:53.000
+Kostadis Roussos: Don't be.
+
+881
+01:17:53.000 --> 01:17:58.399
+Thorin: Disadvantage on its next attack roll before the start of your next turn, so it has disadvantage on the next roll.
+
+882
+01:17:59.240 --> 01:18:01.410
+Thorin: I mean, this is good, let's do it again.
+
+883
+01:18:02.800 --> 01:18:09.900
+Thorin: 15, but wait… I can do a superiority die to do a precision attack.
+
+884
+01:18:12.350 --> 01:18:15.900
+Thorin: And that adds a 1DA to my…
+
+885
+01:18:17.310 --> 01:18:19.840
+Kostadis Roussos: Alright, we'll see if that, like, bridges the gap.
+
+886
+01:18:23.660 --> 01:18:24.950
+Thorin: No, it does not.
+
+887
+01:18:25.570 --> 01:18:27.930
+Kostadis Roussos: It does not. Alright, Grygum's turn.
+
+888
+01:18:28.750 --> 01:18:32.170
+Kostadis Roussos: Have you figured out what you're gonna do, Zalthir, or are you done?
+
+889
+01:18:32.560 --> 01:18:34.339
+Zalthir: Yeah, I'm good.
+
+890
+01:18:34.920 --> 01:18:35.530
+Kostadis Roussos: Right.
+
+891
+01:18:35.680 --> 01:18:38.349
+Kostadis Roussos: Grygum, will.
+
+892
+01:18:50.720 --> 01:18:58.589
+Zalthir: Oh, actually, sorry, I missed it, Thorin. Are you doing your… whatever, your shield thing, where anyone who takes damage near you?
+
+893
+01:18:58.740 --> 01:18:59.570
+Zalthir: Do you react to it.
+
+894
+01:18:59.570 --> 01:19:05.990
+Thorin: If anybody… wait, so I have Guardian, which… Let me look to see.
+
+895
+01:19:06.830 --> 01:19:10.469
+Thorin: Read what that does again. Sorry, there's so many of these things, man, it's hard to…
+
+896
+01:19:10.470 --> 01:19:13.079
+Zalthir: To page it all back in.
+
+897
+01:19:13.530 --> 01:19:21.649
+Thorin: Immediately after a creature within 5… you take a disengage action or hits a target other than you with attack, you can make an opportunity attack against the creature. So…
+
+898
+01:19:22.440 --> 01:19:26.969
+Thorin: So, if somebody who's within 5 feet of me, if number one attacks somebody else.
+
+899
+01:19:27.100 --> 01:19:29.119
+Thorin: I get to attack him immediately.
+
+900
+01:19:29.290 --> 01:19:37.370
+Zalthir: Okay, so Kostadis, answer your question. I'm… because he's grappled, I'm gonna swing number 2 around so he's next to Thorin.
+
+901
+01:19:41.010 --> 01:19:42.000
+Zalthir: There we go.
+
+902
+01:19:43.200 --> 01:19:44.010
+Kostadis Roussos: Alright.
+
+903
+01:19:45.920 --> 01:19:50.869
+Kostadis Roussos: So, strictly speaking, because he did that, he gets into the topic of opportunity against Grygum.
+
+904
+01:19:52.610 --> 01:19:53.550
+Zalthir: Does he?
+
+905
+01:19:54.050 --> 01:19:54.480
+Thorin: Please grab…
+
+906
+01:19:54.480 --> 01:20:00.250
+Kostadis Roussos: Well, I mean, He was over here. Grapple just means you can't move, it doesn't mean you can't attack.
+
+907
+01:20:00.850 --> 01:20:05.680
+Zalthir: True, I didn't realize forcefully pulling someone triggered an attack of opportunity.
+
+908
+01:20:08.470 --> 01:20:12.040
+Kostadis Roussos: speaking, rules as written, but I think it's ridiculous as well.
+
+909
+01:20:12.480 --> 01:20:15.500
+Zalthir: Would that give Grygum an active opportunity, too?
+
+910
+01:20:15.910 --> 01:20:16.399
+Zalthir: Because, you know.
+
+911
+01:20:16.400 --> 01:20:18.689
+Kostadis Roussos: Yes, apparently both would get access.
+
+912
+01:20:18.690 --> 01:20:22.310
+Zalthir: I could abuse this! This sounds great!
+
+913
+01:20:22.310 --> 01:20:27.760
+Kostadis Roussos: Which is why I'm declaring no. I just… the minute you said that, I'm like.
+
+914
+01:20:27.760 --> 01:20:29.090
+Thorin: in either direction, okay.
+
+915
+01:20:31.610 --> 01:20:35.770
+Kostadis Roussos: I just have these visions of the game moving people.
+
+916
+01:20:35.770 --> 01:20:38.260
+Zalthir: Sounds great!
+
+917
+01:20:38.260 --> 01:20:45.029
+Kostadis Roussos: You know, Zalthir triggers 3 extra attacks, he takes the bad guy, passes them by Thor, and passes him by…
+
+918
+01:20:45.030 --> 01:20:49.489
+Thorin: No, like, you get a hit, you get a hit, You get a hit?
+
+919
+01:20:51.370 --> 01:20:53.839
+Kostadis Roussos: Yeah, no, no, we are not doing that. Alright.
+
+920
+01:20:56.700 --> 01:20:58.360
+Kostadis Roussos: Alrighty.
+
+921
+01:20:58.770 --> 01:21:04.740
+Kostadis Roussos: Grygum. Grygum, I guess, since he's no longer, will step over here, and we'll…
+
+922
+01:21:07.740 --> 01:21:14.219
+Kostadis Roussos: 0 undead spells, the same spells are. Since I haven't done this guy alone, no, that's not gonna help.
+
+923
+01:21:15.340 --> 01:21:19.109
+Kostadis Roussos: That's what he could do.
+
+924
+01:21:19.470 --> 01:21:23.050
+Kostadis Roussos: He will move over Here.
+
+925
+01:21:24.580 --> 01:21:26.269
+Kostadis Roussos: And use Word of Radiance.
+
+926
+01:21:26.580 --> 01:21:28.950
+Kostadis Roussos: Desk… Oh, thanks.
+
+927
+01:21:34.930 --> 01:21:36.639
+Kostadis Roussos: I'll take one more time. Nope.
+
+928
+01:21:38.170 --> 01:21:42.129
+Kostadis Roussos: The wait staff at this restaurant are terrible. They bring the dish half-served.
+
+929
+01:21:43.090 --> 01:21:44.889
+Zalthir: Half served.
+
+930
+01:21:45.220 --> 01:21:50.910
+Kostadis Roussos: My wife made me a sandwich, and there was something missing, and Nick had rushed down with the sandwich, took out everything, and so, you know…
+
+931
+01:21:53.730 --> 01:22:03.519
+Kostadis Roussos: you know, the manager's gonna be very unhappy with that slow-paw, but I'm willing to overlook it, I'm willing to overlook it just for today.
+
+932
+01:22:18.560 --> 01:22:20.520
+Kostadis Roussos: He's gonna do a radiance thing?
+
+933
+01:22:20.760 --> 01:22:23.400
+Kostadis Roussos: We'll see if he can, get both of them at the same time.
+
+934
+01:22:24.680 --> 01:22:29.389
+Kostadis Roussos: Where are the radians?
+
+935
+01:22:33.890 --> 01:22:34.660
+Zalthir: Oh, interesting.
+
+936
+01:22:34.660 --> 01:22:35.410
+Kostadis Roussos: Don't think.
+
+937
+01:22:35.950 --> 01:22:38.080
+Kostadis Roussos: 10 points of damage, prostitution.
+
+938
+01:22:40.840 --> 01:22:42.679
+Kostadis Roussos: They both take 10 points of damage.
+
+939
+01:22:48.740 --> 01:22:50.570
+Kostadis Roussos: Let's gotta take some closer damage.
+
+940
+01:22:52.020 --> 01:22:53.190
+Kostadis Roussos: Alright.
+
+941
+01:22:54.520 --> 01:22:55.330
+Kostadis Roussos: Oops.
+
+942
+01:22:56.590 --> 01:22:58.310
+Kostadis Roussos: Alright, the Helmed Horror.
+
+943
+01:22:58.710 --> 01:22:59.790
+Kostadis Roussos: Glabbagool.
+
+944
+01:23:01.400 --> 01:23:03.120
+Kostadis Roussos: How many hit points do you have left, As?
+
+945
+01:23:06.440 --> 01:23:07.200
+Daz: What's that?
+
+946
+01:23:09.410 --> 01:23:11.430
+Kostadis Roussos: How many hit points do you have left?
+
+947
+01:23:11.980 --> 01:23:14.380
+Daz: Do I have left? I have 35.
+
+948
+01:23:17.110 --> 01:23:18.479
+Daz: Am I knocked out?
+
+949
+01:23:19.420 --> 01:23:21.530
+Kostadis Roussos: No, no, no, I'm just trying to think what I'm gonna do next.
+
+950
+01:23:22.210 --> 01:23:22.830
+Daz: Perfect.
+
+951
+01:23:37.130 --> 01:23:37.760
+Kostadis Roussos: Boom.
+
+952
+01:23:42.230 --> 01:23:43.729
+Kostadis Roussos: I don't know where to keep trying.
+
+953
+01:23:45.330 --> 01:23:47.239
+Kostadis Roussos: He decides to attack you this time.
+
+954
+01:23:49.930 --> 01:23:51.040
+Kostadis Roussos: That's a hit.
+
+955
+01:23:51.800 --> 01:23:53.099
+Kostadis Roussos: And that's another hit.
+
+956
+01:23:57.530 --> 01:24:00.900
+Kostadis Roussos: So… 88%.
+
+957
+01:24:01.330 --> 01:24:02.820
+Kostadis Roussos: Those 2D10.
+
+958
+01:24:07.350 --> 01:24:09.320
+Kostadis Roussos: You can take 32 points of damage.
+
+959
+01:24:12.170 --> 01:24:13.280
+Thorin: Wait, who does?
+
+960
+01:24:13.740 --> 01:24:14.660
+Daz: That's me.
+
+961
+01:24:14.880 --> 01:24:15.620
+Kostadis Roussos: Daz.
+
+962
+01:24:15.900 --> 01:24:17.340
+Thorin: You okay, man?
+
+963
+01:24:17.780 --> 01:24:19.980
+Daz: Ouch. I have 3 hit points left.
+
+964
+01:24:24.120 --> 01:24:25.190
+Daz: I may drink a healing.
+
+965
+01:24:25.190 --> 01:24:28.630
+Kostadis Roussos: Roll, roll and insight, roll and insight, Chuck.
+
+966
+01:24:30.220 --> 01:24:30.890
+Thorin: Whom.
+
+967
+01:24:31.560 --> 01:24:32.110
+Daz: 20?
+
+968
+01:24:32.110 --> 01:24:32.740
+Kostadis Roussos: Honestly.
+
+969
+01:24:33.050 --> 01:24:34.200
+Kostadis Roussos: Alright, guys.
+
+970
+01:24:35.560 --> 01:24:44.759
+Kostadis Roussos: It hits you that the one reason they would all be after you, other than the fact that you're a drow and people don't like drow and whatnot, is you currently possess the key.
+
+971
+01:24:45.810 --> 01:24:49.570
+Daz: Okay.
+
+972
+01:24:53.110 --> 01:24:54.480
+Kostadis Roussos: Just reminding him.
+
+973
+01:24:55.570 --> 01:24:56.289
+Zalthir: Which is interesting.
+
+974
+01:24:56.290 --> 01:24:57.220
+Kostadis Roussos: Go to your life.
+
+975
+01:24:57.220 --> 01:25:00.230
+Zalthir: No one knew that except for Kalan, right?
+
+976
+01:25:07.710 --> 01:25:08.680
+Zalthir: Okay.
+
+977
+01:25:09.040 --> 01:25:11.159
+Daz: Unless somehow they can passively know it.
+
+978
+01:25:14.280 --> 01:25:19.579
+Zalthir: Well, if so, that would imply there are 3 other horrors going after the other key. Either way, this is suspicious.
+
+979
+01:25:21.050 --> 01:25:22.870
+Kostadis Roussos: I just… That's right.
+
+980
+01:25:22.870 --> 01:25:25.589
+Thorin: Grab one and beat the truth out of them. Who sent you?
+
+981
+01:25:26.280 --> 01:25:29.349
+Thorin: Who does number one, number two work for?
+
+982
+01:25:30.340 --> 01:25:36.050
+Kostadis Roussos: Unfortunately, you know, the reason you picked Helmed Horrors as assassins is they can't talk.
+
+983
+01:25:36.180 --> 01:25:37.190
+Kostadis Roussos: Literally.
+
+984
+01:25:38.260 --> 01:25:41.170
+Thorin: Is there any magic-y things we can do to figure out who sent him?
+
+985
+01:25:43.070 --> 01:25:43.840
+Kostadis Roussos: Possibly.
+
+986
+01:25:46.760 --> 01:25:50.159
+Kostadis Roussos: Things are about to get very exciting. All right, Daz, what do you want to do here?
+
+987
+01:25:50.870 --> 01:25:53.440
+Daz: Hmm.
+
+988
+01:25:53.440 --> 01:25:59.310
+Kostadis Roussos: Remember, they're after the key, they're not… you guessed they're after the key, so one thing you could do is throw the key to somebody else.
+
+989
+01:26:00.230 --> 01:26:06.189
+Daz: Yeah, but I'm worried a little bit about an interception, but probably wouldn't happen. I don't know.
+
+990
+01:26:06.190 --> 01:26:08.889
+Kostadis Roussos: You're gonna give it right to Grygum, who's standing right next to you.
+
+991
+01:26:09.350 --> 01:26:13.080
+Daz: Okay, yeah, I'll give Grygum the… key.
+
+992
+01:26:13.220 --> 01:26:15.550
+Daz: And then I will…
+
+993
+01:26:16.900 --> 01:26:17.850
+Kostadis Roussos: Disengage.
+
+994
+01:26:19.300 --> 01:26:20.849
+Daz: I'm not grappled yet, am I?
+
+995
+01:26:21.820 --> 01:26:24.839
+Kostadis Roussos: I know, but if you move away, they get a tax of opportunity.
+
+996
+01:26:24.840 --> 01:26:28.430
+Daz: No, actually, sorry.
+
+997
+01:26:28.430 --> 01:26:29.240
+Kostadis Roussos: Just people.
+
+998
+01:26:29.480 --> 01:26:31.729
+Zalthir: Chris Dodis, that's a really important point.
+
+999
+01:26:32.030 --> 01:26:40.329
+Zalthir: When you said he had the key, did they go for Grygum first, or did they go straight for Daz? Because Calvin…
+
+1000
+01:26:40.330 --> 01:26:41.260
+Kostadis Roussos: Dogs had the…
+
+1001
+01:26:42.210 --> 01:26:45.409
+Zalthir: Everyone thought Grygum had the key, but Grygum had given it to
+
+1002
+01:26:47.960 --> 01:26:53.560
+Zalthir: Okay, so they went straight for Daz, implying somehow they could… they could detect or sense the key. Alright.
+
+1003
+01:26:54.100 --> 01:26:55.010
+Kostadis Roussos: Nope.
+
+1004
+01:26:55.010 --> 01:26:58.260
+Thorin: Can we grab one of them and use it to actually detect who else has the key?
+
+1005
+01:26:58.260 --> 01:27:00.050
+Zalthir: Right, find the other one.
+
+1006
+01:27:00.050 --> 01:27:02.039
+Thorin: into sort of a divining rod, as it were.
+
+1007
+01:27:04.980 --> 01:27:08.519
+Kostadis Roussos: There's always Fembris over there, he was around when the keys were exchanged.
+
+1008
+01:27:10.070 --> 01:27:11.949
+Zalthir: Oh, I thought we did it in secret.
+
+1009
+01:27:13.390 --> 01:27:15.789
+Kostadis Roussos: No, Dragon wasn't particularly secretive.
+
+1010
+01:27:15.790 --> 01:27:17.360
+Zalthir: Fair, right.
+
+1011
+01:27:17.620 --> 01:27:20.529
+Kostadis Roussos: This is Dragon we're talking about.
+
+1012
+01:27:20.530 --> 01:27:22.989
+Thorin: heat of Fembris and see what happens. Oh, wait, that could be bad.
+
+1013
+01:27:25.750 --> 01:27:27.290
+Thorin: Don't trust that motherfucker.
+
+1014
+01:27:30.660 --> 01:27:31.050
+Kostadis Roussos: Alright.
+
+1015
+01:27:31.050 --> 01:27:37.849
+Daz: Alright, I'm gonna try… I'm gonna try Magic Missile on Helmed Horror 1, because it doesn't matter that…
+
+1016
+01:27:38.300 --> 01:27:41.059
+Daz: It's a ranged spell, because it's always.
+
+1017
+01:27:41.060 --> 01:27:41.670
+Kostadis Roussos: Nope.
+
+1018
+01:27:42.670 --> 01:27:43.830
+Kostadis Roussos: Alright, go for it.
+
+1019
+01:27:43.910 --> 01:27:44.829
+Zalthir: An upcoming deal.
+
+1020
+01:27:46.340 --> 01:27:50.929
+Daz: Oh, yeah, I'll… can I drink a healing potion and fire magic missile?
+
+1021
+01:27:51.570 --> 01:27:52.300
+Kostadis Roussos: No.
+
+1022
+01:27:53.230 --> 01:27:55.140
+Zalthir: Is it both actions, I think.
+
+1023
+01:27:55.880 --> 01:27:58.770
+Kostadis Roussos: By the way, Grygum says, don't worry, I got plenty of heal spells, buddy.
+
+1024
+01:28:00.020 --> 01:28:01.099
+Daz: Gergov said what?
+
+1025
+01:28:01.750 --> 01:28:07.529
+Kostadis Roussos: Ragum says, don't worry, I've got plenty of heal spells. If you get knocked out, I'll just heal you, you'll be back up in no time.
+
+1026
+01:28:07.760 --> 01:28:11.340
+Daz: Alright, that's fine. Then let me magic missile number one.
+
+1027
+01:28:11.340 --> 01:28:16.039
+Kostadis Roussos: Now is not the time to worry about being knocked unconscious. Now is the time to cast magic.
+
+1028
+01:28:16.040 --> 01:28:18.249
+Thorin: That's the person not about to be knocked on top.
+
+1029
+01:28:22.330 --> 01:28:23.839
+Kostadis Roussos: That was not the time to worry.
+
+1030
+01:28:24.560 --> 01:28:26.800
+Daz: I actually did pretty good. I rolled a… I rolled.
+
+1031
+01:28:26.800 --> 01:28:31.250
+Kostadis Roussos: And then, by the way, Grygum says, and I also have Revivify, so we're covered, either way.
+
+1032
+01:28:34.880 --> 01:28:37.230
+Kostadis Roussos: Alright, which one do you use, first level or third level?
+
+1033
+01:28:37.530 --> 01:28:40.609
+Daz: I just used first level, so I wanted to make sure…
+
+1034
+01:28:41.190 --> 01:28:44.299
+Kostadis Roussos: Alright, it does work. The creature takes 15 points of damage.
+
+1035
+01:28:44.920 --> 01:28:45.590
+Daz: Nice.
+
+1036
+01:28:48.560 --> 01:28:53.229
+Kostadis Roussos: Alright. Grygum now has the keys, so this guy decides to attack Grygum.
+
+1037
+01:28:54.550 --> 01:28:55.510
+Zalthir: Yeah.
+
+1038
+01:29:06.060 --> 01:29:06.890
+Kostadis Roussos: Mmm.
+
+1039
+01:29:07.950 --> 01:29:10.200
+Kostadis Roussos: Alright, I was just gonna try to grapple, Grygum.
+
+1040
+01:29:12.800 --> 01:29:14.290
+Kostadis Roussos: That's a 21.
+
+1041
+01:29:21.030 --> 01:29:22.619
+Zalthir: Grappling while grappled?
+
+1042
+01:29:23.800 --> 01:29:27.599
+Kostadis Roussos: No, no, the other… oh, oh, wait, no, he can't grapple. Actually, he can grapple.
+
+1043
+01:29:30.250 --> 01:29:30.790
+Zalthir: Yeah, I guess.
+
+1044
+01:29:30.790 --> 01:29:31.720
+Kostadis Roussos: I'm gonna attack him.
+
+1045
+01:29:31.930 --> 01:29:34.279
+Zalthir: What? Yeah.
+
+1046
+01:29:35.650 --> 01:29:40.620
+Kostadis Roussos: No, actually… well, yeah, he's gonna try to grapple him. Yes, so he successfully,
+
+1047
+01:29:41.050 --> 01:29:45.210
+Kostadis Roussos: No, Grygum manages to not stay government again, good grief!
+
+1048
+01:29:45.920 --> 01:29:46.919
+Daz: How does he do that?
+
+1049
+01:29:48.940 --> 01:29:51.240
+Kostadis Roussos: He made a strength saving throw of 17.
+
+1050
+01:29:51.520 --> 01:29:52.230
+Zalthir: Huh?
+
+1051
+01:29:53.650 --> 01:29:58.210
+Kostadis Roussos: He needed to roll an 18, or a 19, or a 20, and he managed to roll the savings row.
+
+1052
+01:30:02.690 --> 01:30:03.390
+Kostadis Roussos: Alright.
+
+1053
+01:30:05.170 --> 01:30:08.780
+Kostadis Roussos: I'm the horror one. It has to attack you, Thorin, right?
+
+1054
+01:30:09.310 --> 01:30:12.159
+Thorin: Or you could text somebody else, if he wants to.
+
+1055
+01:30:12.160 --> 01:30:16.150
+Kostadis Roussos: Yeah, but he… but yeah, but he's not gonna want to. All right.
+
+1056
+01:30:16.600 --> 01:30:18.230
+Thorin: Is he that smart? I don't know.
+
+1057
+01:30:18.750 --> 01:30:20.139
+Kostadis Roussos: No, there's… well…
+
+1058
+01:30:21.080 --> 01:30:23.689
+Thorin: My armor class is 22, I'm pretty sure that didn't hit me.
+
+1059
+01:30:23.690 --> 01:30:29.159
+Kostadis Roussos: No, no, no, hold on, you're right. He's not that smart. He goes after Grygum. So, he makes an attack on Grygum.
+
+1060
+01:30:30.610 --> 01:30:33.699
+Kostadis Roussos: Does that give you an attack of opportunity?
+
+1061
+01:30:33.700 --> 01:30:36.620
+Thorin: Immediately after he attacks is when I get to attack.
+
+1062
+01:30:37.870 --> 01:30:42.360
+Kostadis Roussos: Alright, so the first is he gets… his first attack is with disadvantage because of the sap, right?
+
+1063
+01:30:43.300 --> 01:30:43.920
+Thorin: Yes.
+
+1064
+01:30:43.920 --> 01:30:48.579
+Kostadis Roussos: That is a hit, and it's a good thing it was a disadvantage, because I rolled a 20. Alright.
+
+1065
+01:30:49.770 --> 01:30:55.519
+Kostadis Roussos: And second attack is also a hit. Okay, you can now do whatever attacks of opportunity you have.
+
+1066
+01:30:55.910 --> 01:31:05.749
+Thorin: Okay, immediately after a creature of you takes a disengage action or hits a target other than… okay, so immediately after he hits, okay, so then I get the attack of opportunity.
+
+1067
+01:31:06.410 --> 01:31:09.200
+Kostadis Roussos: Alright, so get the attack of opportunity before the first attack.
+
+1068
+01:31:10.130 --> 01:31:11.839
+Thorin: I support the second point.
+
+1069
+01:31:12.630 --> 01:31:15.230
+Kostadis Roussos: Alright, you killed them, so the second attack never lands.
+
+1070
+01:31:20.010 --> 01:31:21.050
+Kostadis Roussos: Alright.
+
+1071
+01:31:24.980 --> 01:31:28.250
+Kostadis Roussos: Alright, and, Grygum takes 12 points in damage.
+
+1072
+01:31:30.860 --> 01:31:31.750
+Thorin: How's Grygum doing?
+
+1073
+01:31:33.210 --> 01:31:39.049
+Kostadis Roussos: He got 47 hit points. He says, don't worry, don't you worry, Daz, you're gonna be fine, totally fine. Alright, Torin, you're up.
+
+1074
+01:31:40.420 --> 01:31:42.649
+Thorin: No, Zalthir's up. Or am I up?
+
+1075
+01:31:43.080 --> 01:31:45.600
+Kostadis Roussos: No, Zalthir's up, sorry, Zalthir. Zalthir, you're up.
+
+1076
+01:31:46.860 --> 01:31:51.519
+Zalthir: Yay, I will… Punch the one I've got…
+
+1077
+01:31:55.280 --> 01:31:57.390
+Zalthir: 16 damage?
+
+1078
+01:32:01.030 --> 01:32:02.060
+Zalthir: Still alive?
+
+1079
+01:32:02.830 --> 01:32:03.580
+Kostadis Roussos: Nope.
+
+1080
+01:32:03.790 --> 01:32:06.599
+Zalthir: Okay, I'll punch it again.
+
+1081
+01:32:09.890 --> 01:32:11.020
+Thorin: Can you augment that?
+
+1082
+01:32:11.730 --> 01:32:14.169
+Zalthir: Well, I think it has minus 1 AC, right?
+
+1083
+01:32:14.170 --> 01:32:17.859
+Kostadis Roussos: This one doesn't have to, because he's got… he's already… he's wounded.
+
+1084
+01:32:19.020 --> 01:32:24.359
+Kostadis Roussos: Glabbagool poison acid damage tore… tore an armor class point off of it.
+
+1085
+01:32:24.360 --> 01:32:28.450
+Zalthir: Yeah, okay. Then I'll attack the one down here…
+
+1086
+01:32:33.070 --> 01:32:34.910
+Zalthir: pretend and Greblin.
+
+1087
+01:32:35.110 --> 01:32:42.879
+Zalthir: And… Glabbagool will use his final acid, corrosive embrace?
+
+1088
+01:32:43.710 --> 01:32:45.149
+Kostadis Roussos: Yeah, it's Corrosive Embrace.
+
+1089
+01:32:45.610 --> 01:32:47.569
+Kostadis Roussos: AI slop at his finest.
+
+1090
+01:32:56.500 --> 01:32:57.730
+Zalthir: And that's my turn.
+
+1091
+01:32:58.460 --> 01:33:00.990
+Kostadis Roussos: Alright, how much damage did you do? You didn't input the damage.
+
+1092
+01:33:01.430 --> 01:33:03.839
+Zalthir: We just had flat 14, right?
+
+1093
+01:33:04.540 --> 01:33:05.579
+Kostadis Roussos: Yeah, 14 grand.
+
+1094
+01:33:06.950 --> 01:33:07.650
+Kostadis Roussos: Bye.
+
+1095
+01:33:08.010 --> 01:33:09.140
+Kostadis Roussos: Alright.
+
+1096
+01:33:11.050 --> 01:33:13.000
+Kostadis Roussos: Thor in Europe.
+
+1097
+01:33:13.740 --> 01:33:14.640
+Thorin: Alright.
+
+1098
+01:33:15.190 --> 01:33:19.669
+Thorin: I'm gonna… Close with them, and let's see what we got going on here.
+
+1099
+01:33:20.260 --> 01:33:22.890
+Thorin: Let me see, give me a second, I wanna do better.
+
+1100
+01:33:24.380 --> 01:33:30.660
+Thorin: Can I use luck to actually redo that one?
+
+1101
+01:33:31.640 --> 01:33:32.380
+Kostadis Roussos: There again.
+
+1102
+01:33:32.800 --> 01:33:33.700
+Thorin: Was that yes?
+
+1103
+01:33:34.490 --> 01:33:37.240
+Kostadis Roussos: Yeah, if you have luck, lucky or luck?
+
+1104
+01:33:38.480 --> 01:33:42.539
+Zalthir: Oh, oh, sorry, if you're trying to hit him, you have advantage, because I grappled him.
+
+1105
+01:33:42.780 --> 01:33:46.619
+Thorin: Oh, okay, well, shoot, then let's, let's give it another go.
+
+1106
+01:33:48.710 --> 01:33:49.280
+Zalthir: Wow.
+
+1107
+01:33:49.710 --> 01:33:50.220
+Thorin: 20, okay.
+
+1108
+01:33:50.220 --> 01:33:51.110
+Kostadis Roussos: That is a hit.
+
+1109
+01:33:51.940 --> 01:33:53.809
+Thorin: For 22 points of damage.
+
+1110
+01:33:54.780 --> 01:33:55.760
+Kostadis Roussos: Alright.
+
+1111
+01:33:58.220 --> 01:34:01.779
+Thorin: And, let's… Hit him again.
+
+1112
+01:34:02.830 --> 01:34:04.589
+Thorin: For 17 points of damage.
+
+1113
+01:34:05.360 --> 01:34:09.050
+Kostadis Roussos: Alright, he died. They collapsed into piles of rust and armor.
+
+1114
+01:34:09.350 --> 01:34:10.030
+Thorin: Ugh.
+
+1115
+01:34:14.870 --> 01:34:18.819
+Thorin: So we can't… Grab them and say, who does… who do they work for?
+
+1116
+01:34:21.320 --> 01:34:27.630
+Kostadis Roussos: The one thing that's surprising to you is that they seem to be very determined to,
+
+1117
+01:34:29.540 --> 01:34:33.870
+Kostadis Roussos: They seem to be very determined to get a key…
+
+1118
+01:34:34.270 --> 01:34:38.790
+Kostadis Roussos: And to kill for a key that read inert under detect magic.
+
+1119
+01:34:40.920 --> 01:34:42.629
+Thorin: So they either knew…
+
+1120
+01:34:43.200 --> 01:34:49.389
+Thorin: Or they have some other way of actually… if you have the sapphire, can you use that to define the thing, or just recall the thing?
+
+1121
+01:34:50.310 --> 01:34:54.540
+Kostadis Roussos: recall the thing. The point is, you've got Daral over there, so you could turn around and ask him.
+
+1122
+01:34:55.770 --> 01:34:57.130
+Kostadis Roussos: Any questions?
+
+1123
+01:34:57.960 --> 01:35:02.480
+Kostadis Roussos: Daral is kind of like, you know, my saviors! My saviors, kind of thing.
+
+1124
+01:35:03.100 --> 01:35:04.440
+Thorin: Wait, which one, Daral?
+
+1125
+01:35:05.260 --> 01:35:10.120
+Kostadis Roussos: Yeah, Daral is, the guy who, you know, the guy who you cured, who was stuck in the room.
+
+1126
+01:35:12.810 --> 01:35:17.609
+Zalthir: Well, just to be clear, when Grygum gave the key to Daz.
+
+1127
+01:35:17.880 --> 01:35:20.479
+Zalthir: Who was present? Who would have seen that?
+
+1128
+01:35:21.880 --> 01:35:22.320
+Daz: I don't…
+
+1129
+01:35:22.320 --> 01:35:26.520
+Kostadis Roussos: Fembris would have seen that, because he… Fembris would have seen that, because he was with the four of you.
+
+1130
+01:35:28.280 --> 01:35:29.180
+Daz: Mmm.
+
+1131
+01:35:30.180 --> 01:35:30.870
+Zalthir: Okay.
+
+1132
+01:35:31.450 --> 01:35:32.669
+Thorin: We're out of time, by the way.
+
+1133
+01:35:33.740 --> 01:35:34.420
+Zalthir: Oh.
+
+1134
+01:35:37.020 --> 01:35:37.770
+Thorin: I don't wanna…
+

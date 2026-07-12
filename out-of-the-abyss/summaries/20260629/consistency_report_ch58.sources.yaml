@@ -1,0 +1,31 @@
+consistency_check:
+  timestamp: "2026-07-12T01:36:49+02:00"
+  campaign: out-of-the-abyss
+  document_checked: summaries/20260629/session_2026_06_29_chapter_58_academic_vindication_and_an_assault.md
+  report: summaries/20260629/consistency_report_ch58.md
+  config: config/config.yaml            # run used a scratchpad absolute-path config as a workaround
+                                         # for the config-move base_dir bug (now fixed: paths use ../docs/)
+  model: claude-sonnet-4-6
+  issues_found: 11
+  session_prep_used: true
+  entity_registry_used: false           # this run PREDATES registry integration into the skill —
+                                         # a re-run should include docs/entity_registry.yaml (aliases)
+  sources:
+    auto_loaded:                         # from config _DEFAULT_CONFIG_DOCS
+      - { label: campaign_state, path: docs/campaign_state.md }
+      - { label: world_state,    path: docs/world_state.md }
+    context:                             # passed via --context (focused prep set, user-selected)
+      - { path: docs/party.md, role: "PCs (campaign-standard)" }
+      - { path: notes/session_prep/20260629_candlekeep_the_gatewarden_lives.md, role: "session prep (authoritative)" }
+      - { path: "notes/sessions/Kalan to Janussi - Second Petition.md", role: "in-world handout" }
+      - { path: "notes/sessions/Bookwyrm to Janussi - Regarding the Gatewarden's Second Petition.md", role: "in-world handout" }
+      - { path: notes/sessions/handouts/threefold_proof.md, role: "canonical name/content of Kalan's methodology" }
+      - { path: notes/sessions/handouts/player_npc_tracker_candlekeep.md, role: "canonical NPC name/title list" }
+  notes: |
+    Session diverged hard from prep (Bookwyrm alive & reinstating Kalan vs. prep's
+    murder/Tadric/Manshoon night) — several large prep-vs-recap contradictions were
+    legitimate play divergence, not errors. High-value catches were name/title/quote
+    fixes (Bookworm→Bookwyrm/Skoda Vanaster, Deneir's alcove→Sanctum, Fembris's title).
+    7 fixes applied; Alkrist-as-nephew and Kalan-reinstated kept as actual play per GM.
+    NOT fed docs/entity_registry.yaml — its alias lists would have surfaced the
+    Bookworm→Bookwyrm class deterministically; include it on any re-run.

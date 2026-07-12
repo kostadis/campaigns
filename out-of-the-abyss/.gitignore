@@ -1,6 +1,10 @@
 # Mempalace generated files (not for version control)
 entities.json
 mempalace.yaml
+# ...but the mneme authority IS version-controlled — the bare `mempalace.yaml`
+# rule above (a legacy-mempalace wing-config rule) matches in every dir and would
+# otherwise swallow it, silently dropping bring-up on the floor. See toee/.mneme.
+!.mneme/mempalace.yaml
 MEMPALACE.md
 
 # Operational / local
