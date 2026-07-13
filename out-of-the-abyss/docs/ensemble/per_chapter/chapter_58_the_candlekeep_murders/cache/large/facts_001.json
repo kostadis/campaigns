@@ -1,0 +1,212 @@
+[
+  {
+    "type": "npc",
+    "subject": "Bookwyrm",
+    "fact": "Bookwyrm is the spiritual and administrative leader of Candlekeep, overseeing the investigation into the murders. She has assigned the party to Deneir's Sanctum as their office, provided staff support, and steered inquiry toward Sylvira Savikas without explicitly naming her. Her motives remain ambiguous \u2014 possibly helpful, possibly obstructive.",
+    "source_quote": "She ushered us in herself, all warmth, and introduced the man as Kei Tigersteel \u2014 Lorekeeper of Candlekeep... 'the library's spiritual leader.'",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Kei Tigersteel",
+    "fact": "Kei Tigersteel is the Lorekeeper of Candlekeep and priest of the Temple of Oghma, described as the library's spiritual leader. He was in conference with Bookwyrm immediately after the murders and was entrusted with taking the victim\u2019s body to the Shrine of Oghma for purification.",
+    "source_quote": "Bookwyrm waved them off and ushered us in herself... introduced the man as Kei Tigersteel \u2014 Lorekeeper of Candlekeep, priest of the Temple of Oghma, 'the library's spiritual leader.'",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Fheminor Scrivenbark",
+    "fact": "Fheminor Scrivenbark is a halfling scholar whose entry in the investigators' notes has no name attached \u2014 suggesting tampering or omission. He was beaten prior to the murder and may possess critical insight. His absence from the Council of the Great Readers and unclear timeline mark him as a suspect of interest.",
+    "source_quote": "There's somebody in our list of characters who seems to have the same priorities that we do... It isn't... for some reason, there's no name on that entry. It just says, Fheminor Scrivenbark.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Sylvira Savikas",
+    "fact": "Sylvira Savikas is a powerful figure in Candlekeep who was impersonated by an unknown individual wearing her face, seen walking the halls at night with a lantern. Bookwyrm\u2019s unstated preference for focusing the investigation on Sylvira suggests either protective instinct or concealment. Her absence from the Council and the impersonation make her central to the case.",
+    "source_quote": "Someone had impersonated Sylvira \u2014 Grygum thought it made perfect sense... The want came off her like heat off the smelters.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Kalan Strongbranch",
+    "fact": "Kalan Strongbranch holds one of two keys to the high towers of Candlekeep. His claim that the corpse was questioned and failed to answer is unverifiable, raising suspicion. His possession of the second key makes him a critical figure in determining access to the crime scene.",
+    "source_quote": "I think, Kalan Strongbranch, we gotta interview... I'm more curious if he still has his other tower key.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Daral",
+    "fact": "Daral is a scholar who questioned Sylvira Savikas\u2019s absence at the Council, suggesting he is aware of her impersonation. Though dismissed by the investigators as 'too on the nose' for the murder, his focus on Sylvira may indicate hidden knowledge or alignment with the impersonator.",
+    "source_quote": "Daral not even in it \u2014 he'd been at the Hearth, asking why isn't Sylvira Savikas here.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is a member of the investigative team who collected poison samples from the victim\u2019s fingers and lips, and assigned tasks to others. He is methodical, skeptical of testimony, and prioritizes physical evidence over hearsay. He also dismissed Daral and Sylvira as suspects based on intuition.",
+    "source_quote": "Zalthir made sure of that... 'He was beat up before he was dead.'... 'if he poisoned the guy when he visited, perchance.'",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a member of the investigative team who handles witness coordination, research, and evidence analysis. He is cautious about motives, suspicious of generosity, and questions whether the office is bugged. He is assigned to interview Fheminor Scrivenbark and investigate the missing book fragment.",
+    "source_quote": "Daz raised the other thread, the one nobody wanted to touch: 'There's a missing part of, like, a book that should not be missing...'",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is a member of the investigative team who maintains detailed notes, analyzes timelines, and voices suspicion about institutional deception. He is the first to notice the missing name in their own records and insists on keeping multiple hypotheses open, even when others dismiss them.",
+    "source_quote": "Grygum was paging through our notes and frowning... 'There's no name on that entry.'",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is a giant-raised investigator who distrusts deception and insists on facts over words. He is skeptical of Bookwyrm\u2019s generosity, insists on team cohesion, and demands concrete evidence before accusing anyone. He is the primary voice in questioning the corpse\u2019s interrogation and the reliability of hearsay.",
+    "source_quote": "We refuse to comment on ongoing... 'I also want to understand where Bookwyrm was before nine in the morning.'",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Council of the Great Readers",
+    "fact": "The Council of the Great Readers is the governing body of Candlekeep, convened after the murder to debate leadership, succession, and accountability. Its members are fractious, with competing agendas \u2014 including A'lai Aivenmore\u2019s push for a vote, Alkrist\u2019s demand to dismiss the gate warden, and Kazryn Nyantani\u2019s insistence on finding the murderer first.",
+    "source_quote": "We walked the council back through. The whole pack of them, shouting over a body. A'lai Aivenmore wanting a vote and new leadership... Kazryn Nyantani \u2014 slender, gray, those wrinkles around the eyes \u2014 cutting through with first you must find the murderer.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Temple of Oghma",
+    "fact": "The Temple of Oghma, represented by Kei Tigersteel, is the spiritual authority in Candlekeep and is entrusted with the purification of the victim\u2019s body. Its involvement suggests the murder may have ritual or heretical implications, especially given the context of forbidden knowledge and silenced corpses.",
+    "source_quote": "Kei Tigersteel \u2014 Lorekeeper of Candlekeep, priest of the Temple of Oghma, 'the library's spiritual leader.'",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "murder of Janussi",
+    "fact": "Janussi, a senior scholar and keeper of Candlekeep\u2019s high towers, was murdered by poison. His body showed signs of prior trauma and was found in a locked chamber. His death triggered the investigation and exposed fractures in the library\u2019s leadership and security.",
+    "source_quote": "The body went to be purified... 'Zalthir made sure of that' \u2014 poison off his fingers and his lip too.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "impersonation of Sylvira Savikas",
+    "fact": "An unknown individual impersonated Sylvira Savikas, wearing her face and carrying a lantern through Candlekeep\u2019s halls at night. This act suggests deep knowledge of the library\u2019s layout and personnel, and possibly a connection to forbidden texts or rituals. Bookwyrm\u2019s subtle steering of the investigation toward Sylvira implies personal stakes.",
+    "source_quote": "Sylvira \u2014 or somebody wearing her face \u2014 had been walking the halls in the dead of night with a lantern.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "silencing of the corpse",
+    "fact": "The victim\u2019s corpse was allegedly prevented from answering questions through supernatural means \u2014 possibly by the imposter who 'locked the corpse\u2019s mouth shut for days.' This claim, made by Kalan Strongbranch, is unverifiable and may be a lie to obscure the true method of death or conceal ritual knowledge.",
+    "source_quote": "Kalan said they'd put the question to the corpse, and that it didn't work... Whether the corpse was ever truly made to answer is hearsay.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "tampering of investigative notes",
+    "fact": "The investigators\u2019 own notes have been altered \u2014 the entry for Fheminor Scrivenbark has no name attached, suggesting internal sabotage or magical interference. This indicates that the deception extends beyond the crime scene into the investigative process itself.",
+    "source_quote": "Our own notes had started lying to us. That felt about right for this place.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "assignment of Deneir's Sanctum as office",
+    "fact": "Bookwyrm assigned Deneir's Sanctum as the investigators' operational base, offering staff support and access to the library. The generosity of this gesture is viewed with suspicion \u2014 the room may be bugged, and the staff may be surveillance assets, turning the office into a controlled environment.",
+    "source_quote": "It's nice and all to offer up that we can use the office, and that they'll go fetch people, and all of those sorts of things, but it's also a little suspect.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "tower key",
+    "fact": "There are two keys to the high towers of Candlekeep \u2014 one held by Janussi, the other by Kalan Strongbranch. The keys are critical to determining access to the murder scene. The fact that one key remains unaccounted for raises suspicion that the murderer had lawful access.",
+    "source_quote": "Two keys to the high towers. Janussi held one... 'the key is definitely a thread to pull on.'",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "poison sample",
+    "fact": "A sample of the poison used to kill Janussi was collected from his fingers and lips. It is being analyzed for origin and composition. The poison\u2019s rarity and method of delivery suggest a knowledgeable killer, possibly connected to the library\u2019s forbidden archives.",
+    "source_quote": "Zalthir made sure of that... 'I'm happy to do the library research. Poison section, please.'",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "missing book fragment",
+    "fact": "A fragment of a book is missing \u2014 possibly a volume of forbidden knowledge, possibly centuries old. Its absence is suspicious and may be linked to the murder, the impersonation, or the silencing of the corpse. Daz has been assigned to investigate its provenance.",
+    "source_quote": "There's a missing part of, like, a book that should not be missing... that could have happened a hundred years ago or something, but\u2026 seems suspicious.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Bookwyrm's possible involvement",
+    "fact": "Bookwyrm\u2019s behavior \u2014 steering the investigation toward Sylvira, offering overly convenient resources, and her unverified whereabouts before the murder \u2014 suggests she may be the killer, an accomplice, or trying to cover for someone else. The team has left this hypothesis open, with no conclusive evidence yet.",
+    "source_quote": "I sorted it: Bookwyrm steers toward Sylvira... I had no idea yet whether that was the helpful instinct... or a thumb on the scale of an investigation she'd rather not have tilted toward herself.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "identity of the imposter",
+    "fact": "The identity of the person who impersonated Sylvira Savikas remains unknown. The imposter\u2019s knowledge of her appearance, movements, and access to the library at night suggests either an insider or someone with magical means. This thread may lead to the killer, the missing book, or the corruption of the corpse.",
+    "source_quote": "Someone impersonating her... the impersonated woman might know who would wear her face.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "falsified notes and institutional deception",
+    "fact": "The alteration of the investigators\u2019 own records \u2014 particularly the erased name of Fheminor Scrivenbark \u2014 indicates that deception is institutionalized within Candlekeep. This suggests the library\u2019s leadership may be actively obstructing the investigation or concealing its own complicity.",
+    "source_quote": "Our own notes had started lying to us. That felt about right for this place.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "impending additional murders",
+    "fact": "Grygum warns that more murders are likely, implying that the killer is active and the library\u2019s response is inadequate. The pressure to conclude the investigation quickly suggests that higher powers wish to bury the truth before more bodies appear.",
+    "source_quote": "Grygum put it plainest: 'There'll be more murders.'",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Deneir's Sanctum",
+    "fact": "Deneir's Sanctum is a shrine and library dedicated to the art of writing, assigned as the investigators\u2019 office. Its use is offered with apparent generosity, but its isolation and controlled access raise suspicions of surveillance. It is the central hub for the investigation.",
+    "source_quote": "Then she took us to a nearby room, Deneir's Sanctum, a little shrine and library given over to the art of writing, and offered it up as our office.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Candlekeep",
+    "fact": "Candlekeep is a vast, labyrinthine library-fortress housing ancient knowledge and powerful scholars. Its complexity makes it easy to get lost, and its culture of secrecy and deception renders trust rare. The murder has exposed its fragility and the rot beneath its scholarly veneer.",
+    "source_quote": "The library is very easy to get lost in... Down here, everybody's got a door they won't open.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Shrine of Oghma",
+    "fact": "The Shrine of Oghma is the spiritual center of Candlekeep, where the victim\u2019s body was taken for purification. Its involvement suggests the murder may have ritual or heretical dimensions, possibly connected to forbidden knowledge or divine silence.",
+    "source_quote": "'yes, Kei, you can take the body to the Shrine of Oghma for purification.' The body went to be purified.",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "time of murder (before 9 AM)",
+    "fact": "The murder occurred before 9 AM, and Bookwyrm\u2019s whereabouts during that window are unknown. Establishing her alibi is critical to determining her involvement. The timeline of the victim\u2019s last known movements and the timing of the impersonation are key to the investigation.",
+    "source_quote": "I also want to understand where Bookwyrm was before nine in the morning... available to be a suspect.",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "time of Fheminor\u2019s beating (around 8 AM)",
+    "fact": "Fheminor Scrivenbark was beaten around 8 AM \u2014 hours before the murder. This timing suggests he may have witnessed something or been silenced before the killing, making him a potential key witness or victim of a cover-up.",
+    "source_quote": "find out when the man got beaten up, because beat-up-at-eight tells a different story than beat-up-when-he-died.",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "time of Sylvira\u2019s impersonation (night of the murder)",
+    "fact": "The impersonation of Sylvira Savikas occurred during the night of the murder, as she was seen walking the halls with a lantern. This timing links the impersonator directly to the crime scene and suggests premeditation and intimate knowledge of the library\u2019s routines.",
+    "source_quote": "Sylvira \u2014 or somebody wearing her face \u2014 had been walking the halls in the dead of night with a lantern.",
+    "quote_verified": true
+  }
+]

@@ -1,0 +1,177 @@
+[
+  {
+    "type": "npc",
+    "subject": "Janussi",
+    "fact": "Janussi was a Keeper of the Tome who was writing in blue ink on *The Discoveries* at the time of his death, with blackened fingertip and lower lip, and a chipped front tooth from a forward fall.",
+    "source_quote": "Janussi had been taking notes when this happened. Writing hand, fresh stains. A man interrupted at work.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Janussi",
+    "fact": "Janussi had a broken nose and bruising that formed before death, indicating an assault occurred between dinner and his murder.",
+    "source_quote": "The bruising around the broken nose held its color, dark and settled, the way bruising only sits when blood was still moving when it formed.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Janussi",
+    "fact": "Janussi\u2019s tongue and left forefinger were blackened with a substance darker than ink, and the same smudge was on his lower lip, indicating ingestion and deliberate contact with a poison.",
+    "source_quote": "The tip of his left forefinger was blackened. Not blue. Darker than blue. And the same dark smudge sat dead-center on his lower lip.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Keeper's Chamber",
+    "fact": "The Keeper's Chamber contained a silver pedestal, an ebony pipe with cherry tobacco, and an open safe with scattered empty pouches, loose sapphires, and scraps of parchment naming spells.",
+    "source_quote": "A silver pedestal by the desk, an ebony pipe finely carved, cherry tobacco... Empty pouches scattered in front of it, sapphires loose and dazzling, scraps of parchment naming spells.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Keeper's Chamber",
+    "fact": "The safe still held four sealed pouches with sapphires, a figurine of a raven, a potion of supreme healing, a potion of water breathing, five diamonds, a heap of platinum and gold \u2014 all untouched.",
+    "source_quote": "Still inside the safe were four sealed pouches, each with its sapphire \u2014 and beside them a figurine of a raven, a potion of supreme healing, another of water breathing, five diamonds each worth a fortune, a heap of platinum and gold, a small treasury left untouched.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "locket",
+    "fact": "A locket was removed from Janussi\u2019s neck, leaving two broken lead links on his skin, worn where it had hung for a long time.",
+    "source_quote": "The impression of a chain on the back and sides, and beneath it two broken lead links. Something had hung there, and someone had torn it off him.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "*The Discoveries*",
+    "fact": "*The Discoveries* was the last book Janussi was writing in, with fresh blue ink noting unfamiliar spells and their potential casting methods.",
+    "source_quote": "The blue ink on *The Discoveries* had been laid down after the blue ink on another book. *The Golden Ass.* 'So that's the last thing he was writing?' Confirmation.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "armchair",
+    "fact": "The armchair had three circular impacts and two holes punched clean through the back, consistent with darts of pure force, but no matching wounds on the body.",
+    "source_quote": "Three circular impacts, horsehair stuffing scattered, two holes punched clean through the chair back. Darts of pure force.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Great Reader A'lai Aivenmore",
+    "fact": "A three-foot marble statue of the Great Reader A'lai Aivenmore, holding a candle aloft, had been knocked over \u2014 not by magic, but by shock when the body was discovered.",
+    "source_quote": "The statue had simply fallen... A scholar discovers a murdered keeper with his heart cut out and reaches blindly for the wall and the wall is a statue.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool, an ooze from the Underdark, was given the black substance from Janussi\u2019s lip and finger, but could not identify it \u2014 confirming its unnatural and dangerous nature.",
+    "source_quote": "We gave him the substance. He gave it his best. It wasn't enough \u2014 a thin first effort, then a second pass with help, and still nothing he could name.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "murder sequence",
+    "fact": "Janussi was assaulted, breaking his nose, then returned to his desk to write, ingested a black poison while reading, fell face-first, chipping his tooth, and was later rolled over and had his heart removed by a deliberate, unhurried killer.",
+    "source_quote": "A man at his books, wetting his finger to turn a poisoned page. The black climbing through him while he read on, suspecting nothing. A fall, forward, hard \u2014 a broken nose, a chipped tooth on the stone. And then the patient hands arriving after, in no hurry at all, rolling the body and opening the chest to make certain he stayed gone.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "safe breach",
+    "fact": "The safe was opened without force, and only one sapphire and one parchment were taken \u2014 the rest of a king\u2019s ransom left untouched \u2014 indicating the thief sought a specific component, not wealth.",
+    "source_quote": "Whoever did this came in, took one sapphire, and walked past a king's ransom.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "tobacco use",
+    "fact": "Cherry tobacco was lit in the ebony pipe to mask the smell of poison, suggesting the killer or someone present was attempting to conceal the nature of the death.",
+    "source_quote": "Tobacco smoke would hide the smell of poison. Of course it would.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Keeper's Desk",
+    "fact": "The desk held *The Discoveries*, *The Golden Ass*, blue ink, and evidence of multiple ink colors, with the latest writing in blue on *The Discoveries*.",
+    "source_quote": "In the middle of the desk sat a spellbook. *The Discoveries.* Beside it, blue ink, fresh enough that it had a sequence to it.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "black substance",
+    "fact": "The black substance on Janussi\u2019s finger, lip, and tongue was not ink, not poison that Glabbagool recognized, and was deliberately used to contaminate the reader \u2014 implying it was sentient or magical.",
+    "source_quote": "The skill wasn't in identifying the substance. It was in knowing, with certainty, what it was *not*.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz performed a forensic reading of the body, noting the tempo of the killer, the sequence of injuries, and the nature of the black substance.",
+    "source_quote": "I logged that. *The first thing to read is the tempo of the killer.* This one had time.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum established the timeline of the assault using bruising patterns, confirming the broken nose occurred before death and identifying the chain marks from a removed locket.",
+    "source_quote": "My focus narrowed and held, and the picture came clear and certain: this happened before he died. Not the fall. Earlier.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir identified the sequence of ink usage, confirming that Janussi\u2019s final act was writing in *The Discoveries*, and noted the literary homage in the notes.",
+    "source_quote": "The blue ink on *The Discoveries* had been laid down after the blue ink on another book. *The Golden Ass.* 'So that's the last thing he was writing?' Confirmation.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin questioned the candle on the statue out of fear of magical awakening, revealing his past trauma and causing Tadric to panic.",
+    "source_quote": "Are you sure this \u2014 is it true about candles?",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "statue fall",
+    "fact": "The statue of the Great Reader A'lai Aivenmore fell when the scholar discovered the body, proving it was an accident, not sabotage.",
+    "source_quote": "The Great Reader A'lai Aivenmore had knocked it over in shock when he found the body at dawn.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Keeper's Chamber",
+    "fact": "The chamber showed no signs of forced entry, and the safe was opened cleanly \u2014 indicating the killer had access or knowledge of the combination.",
+    "source_quote": "Open, but undamaged. No forced entry. The killer had the combination, or had no need of one.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "blue ink",
+    "fact": "Blue ink on *The Discoveries* was fresher than on *The Golden Ass*, indicating Janussi was actively researching unfamiliar spells at the time of death.",
+    "source_quote": "There was more than one color on those pages, and I wanted the newest one isolated before anything else.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "chipped tooth",
+    "fact": "The chipped front tooth was jagged and recent, caused by Janussi falling face-first onto stone after being poisoned, not by violence.",
+    "source_quote": "He had fallen forward. Face-first. Chipped the tooth on the way down.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "blackened fingertip",
+    "fact": "The blackened fingertip and lip were not from ink, but from a substance that mimicked ink but was darker, more dangerous, and likely sentient \u2014 a reading poison.",
+    "source_quote": "That was the entire point of the long look \u2014 not that the finger was stained, but that the stain was *wrong*.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "poison ingestion",
+    "fact": "Janussi ingested the black substance by wetting his fingertip to turn pages, indicating the poison was embedded in the parchment and designed to be absorbed through touch and ingestion.",
+    "source_quote": "Finger to a page, finger to the lip \u2014 turning pages, wetting the fingertip the way readers do without thinking, a hundred times an hour, never once considering that the page might be the thing reading *them*.",
+    "quote_verified": true
+  }
+]

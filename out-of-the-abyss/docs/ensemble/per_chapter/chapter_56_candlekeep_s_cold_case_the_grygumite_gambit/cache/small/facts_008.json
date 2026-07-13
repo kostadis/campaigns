@@ -1,0 +1,79 @@
+[
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir concluded the rib cage was smashed by multiple close, deliberate axe blows, the heart was missing, and the blood was localized \u2014 a pattern inconsistent with a violent death, suggesting the victim was already dead before the chest was opened.",
+    "source_quote": "The question: was he dead before his heart was hacked out?",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum identified the removal of the heart as a precaution to prevent resurrection, not souvenir collection, and stated that ritual reanimation requires vital organs to be present.",
+    "source_quote": "You can't bring someone back from death by ritual if their vital organs aren't present.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Tadric",
+    "fact": "Tadric confirmed attempts had been made to speak to the dead, but the dead were not speaking.",
+    "source_quote": "The dead were not speaking.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Gate Warden",
+    "fact": "The gate warden performed an evidence-preserving inspection and attempted to speak to the dead, but the attempt failed.",
+    "source_quote": "Yes. The gate warden. On his careful, evidence-preserving inspection.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "attempt to commune with corpse",
+    "fact": "An attempt to speak to the corpse was made by the gate warden, and due to the nature of such workings, the same corpse cannot be reached again for some time after the attempt.",
+    "source_quote": "Such workings have narrow limits: once performed, the same corpse cannot be reached again for some time.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "resurrection prevention",
+    "fact": "The heart was removed not as a trophy but as a deliberate act to ensure Janussi could not be resurrected, implying the killer intended permanent death.",
+    "source_quote": "They wanted Janussi to stay dead in every sense that mattered.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "brain-based communication",
+    "fact": "There is a theoretical possibility of communicating with the corpse using only the brain, bypassing the missing heart, but prior attempts have failed.",
+    "source_quote": "We don't need the heart \u2014 we just need the brain to be able to talk to him, you know.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "corpse accessibility window",
+    "fact": "The corpse is currently inaccessible for further communion attempts, but will become accessible again after sufficient time has passed.",
+    "source_quote": "So if we wait long enough, then we can try again?",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "corpse",
+    "fact": "The corpse is in a state of decay, with noticeable odor, and has been subjected to post-mortem mutilation including removal of the heart and other organs.",
+    "source_quote": "Corpse will be a little stinky by then.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "missing heart",
+    "fact": "The heart was removed as a precautionary measure to block resurrection magic, and its absence is a deliberate signal or safeguard, not random violence.",
+    "source_quote": "It was a message. Or a precaution.",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "time until corpse accessibility",
+    "fact": "Sufficient time must pass before the corpse can be communed with again; the exact duration is unspecified but implied to be measurable in hours or days.",
+    "source_quote": "Yes.",
+    "quote_verified": true
+  }
+]

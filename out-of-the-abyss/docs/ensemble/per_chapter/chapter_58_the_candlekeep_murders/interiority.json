@@ -1,0 +1,604 @@
+[
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz recalled that the adjutant had attached himself to them the way an acolyte attaches to anyone who might be doing something more interesting than copying manuscripts.",
+    "source_quote": "Fembris Lancer practically vibrated. The adjutant had attached himself to us the way an acolyte attaches to anyone who might be doing something more interesting than copying manuscripts",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum questioned whether summarizing the events was the same as finding out who did it.",
+    "source_quote": "True? I thought we were asked to find out what \u2014 well, I guess summarizing the events is pretty much the same as finding out who did it from one.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum believes he doesn't have a perfect memory and would make a bad detective because fictional detectives do.",
+    "source_quote": "I would make a bad detective, because I don't have a perfect memory. All the fictional detectives have perfect memories.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin believes real detectives just write everything down.",
+    "source_quote": "I think real detectives just write everything down.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin recalled watching the entire Poirot series with his wife and being down to the last episode.",
+    "source_quote": "My wife and I have watched the entire series, and we're down to the last episode, and we're saving it.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz asked aloud who they were working for, and Grygum answered 'Justice.'",
+    "source_quote": "Who are we working for, exactly?\" \"Justice,\" said Grygum.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin hates the whole rotten apparatus of who-knows-what.",
+    "source_quote": "Thorin \u2014 who hates the whole rotten apparatus of who-knows-what \u2014 put the obvious crack in it before I had to.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz sorted Bookwyrm into the column marked *not above suspicion*.",
+    "source_quote": "I sorted her into the column marked *not above suspicion* and kept walking.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz noted that Bookwyrm introduced the half-elf as Kei Tigersteel \u2014 Lorekeeper of Candlekeep, priest of the Temple of Oghma.",
+    "source_quote": "Bookwyrm waved them off and ushered us in herself, all warmth, and introduced the man as Kei Tigersteel \u2014 Lorekeeper of Candlekeep, priest of the Temple of Oghma.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz observed Bookwyrm dismissing Kei with the instruction to take the body to the Shrine of Oghma for purification.",
+    "source_quote": "*yes, Kei, you can take the body to the Shrine of Oghma for purification.*",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz noted that Bookwyrm offered Deneir's Sanctum as their office and assigned Fembris to fetch witnesses and Vooshadi to stand the door.",
+    "source_quote": "Then she took us to a nearby room, Deneir's Sanctum, a little shrine and library given over to the art of writing, and offered it up as our office. Fembris would fetch any witness we named. Vooshadi Moonriver would stand the door",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz observed that Bookwyrm insisted they not move through Candlekeep without one of them.",
+    "source_quote": "one more thing, lightly placed: we shouldn't move through Candlekeep without one of them.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz questioned whether the room was bugged or if their work would be private.",
+    "source_quote": "Do we think the room is, like, bugged,\" I asked the others once we had a moment, \"or has, like, secret \u2014 like, the stuff we do in there is actually going to be private to us, or do we need \u2014",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum said, \"It doesn't seem just friendly.\"",
+    "source_quote": "It doesn't seem just friendly,\" Grygum said.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz reported to Bookwyrm that they had given generalities about talking to people and forming opinions on suspects.",
+    "source_quote": "Generalities,\" I said. \"That we went and talked to all the people that we could talk to. And we're forming an opinion on what may have happened, and who \u2014 like, we have a couple suspects that we would like to pursue, due to perceiving that they may have a motivation, or that other people have pointed them out.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin refused to comment on ongoing suspects.",
+    "source_quote": "We refuse to comment on ongoing,",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz gave Bookwyrm the harmless witness Ms. Hollypocket to chew on.",
+    "source_quote": "I gave her one harmless witness to chew on, Ms. Hollypocket, whom we'd already seen anyway.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Bookwyrm's unstated preference",
+    "fact": "Bookwyrm steers toward Sylvira Savikas, though she never says it aloud.",
+    "source_quote": "What she did was want Sylvira Savikas. She never said it. She didn't have to; the want came off her like heat off the smelters.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum believes impersonating Sylvira Savikas makes perfect tactical sense.",
+    "source_quote": "Grygum thought it made perfect sense, and tactically it did, the impersonated woman might know who would wear her face.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin insisted on sticking together as a group because it's more imposing.",
+    "source_quote": "I like us sticking together,\" I said. \"I just think it's more imposing to have all, like, you know, five, seven, ten of us show up in a room.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum suggested starting together and branching later to cover poison and Sylvira at once.",
+    "source_quote": "Grygum wanted to start together and branch later. The reasoning was simple enough: split, and we cover the poison and Sylvira at once, but each of us walks into his own conversation alone, no second pair of hands to steady the work.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin noted that Bookwyrm said \"catch\" and corrected herself to \"fetch\".",
+    "source_quote": "Catch. She said catch and corrected herself to fetch. I kept that.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin wanted to know Bookwyrm's timeline before nine in the morning to assess her as a suspect.",
+    "source_quote": "I also want to understand where Bookwyrm was before nine in the morning,\" I said, once we were our own again. \"Timeline of where she was. So, available to be a suspect.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum noticed that their notes listed Fheminor Scrivenbark with no name on the entry.",
+    "source_quote": "It isn't\u2026 for some reason, there's no name on that entry. It just says, Fheminor Scrivenbark.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin dismissed Daral as a suspect based on gut feeling.",
+    "source_quote": "Daral, we crossed off \u2014 not by evidence, by gut. \"It's too on the nose for it to be Daral. I don't think it's Daral.\"",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin dismissed Sylvira Savikas as the impersonator, believing the lantern aspect meant it probably wasn't her.",
+    "source_quote": "Again, it's someone wore her face, is what we're talking about. I think the whole lantern aspect of it means that it probably wasn't them.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin identified Kalan Strongbranch as a key suspect due to the tower key thread.",
+    "source_quote": "So, I think, Kalan Strongbranch, we gotta interview.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir instructed Daz to find out when Fheminor was beaten up and whether he noticed anything missing.",
+    "source_quote": "Zalthir handed Daz his marching orders for Fheminor \u2014 find out when the man got beaten up, because beat-up-at-eight tells a different story than beat-up-when-he-died. ... And, Zalthir added flat as a tombstone, \"if he poisoned the guy when he visited, perchance.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin questioned whether Kalan\u2019s claim about the corpse being unable to answer was hearsay or heresy.",
+    "source_quote": "Kalan said they'd put the question to the corpse, and that it didn't work. And that didn't work because of Y. ... Do we know that for sure? I mean, if Kalan's just saying, hey, I did it, but didn't do it? ... It's also heresy, but\u2026",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Kalan",
+    "fact": "Kalan pressed a small brass key into the cleric's palm and chose the orc, believing it was not chance.",
+    "source_quote": "Kalan stepped out of a doorway we hadn't clocked, swept the corridor left, then right, and pressed a small brass key specifically into the cleric's palm.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Kalan",
+    "fact": "Kalan believes the High Tower has two keys \u2014 Janussi wore one, he held the other \u2014 and that he has given his to someone who is not him.",
+    "source_quote": "The High Tower has two keys. Janussi wore one, I held the other. I have given it now to someone who is not me.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Kalan",
+    "fact": "Kalan refused to be found at his post if he were killed, implying he expected to be targeted.",
+    "source_quote": "If I and I do not see you tomorrow, do not look for me at my post.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Kalan",
+    "fact": "Kalan confirmed the High Tower is watched at all times, regardless of whether the key is in someone's pocket.",
+    "source_quote": "The tower is watched. Always. People stand at it whether the key is in someone's pocket or not.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Kalan",
+    "fact": "Kalan noticed the poison in the left hand and the saliva on the victim\u2019s fingers.",
+    "source_quote": "The black stuff, yes, we saw that.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Kalan",
+    "fact": "Kalan noticed the heart was hacked out after death to spoil resurrection.",
+    "source_quote": "Yeah, we got that.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Kalan",
+    "fact": "Kalan believes the murderer is a magic user who can circumvent arcane and mundane locks \u2014 magic that can talk any lock open.",
+    "source_quote": "Magic that could talk any lock open, arcane or iron, the very highest order of that art.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Kalan",
+    "fact": "Kalan reconsidered his assumption that the murderer was the same person who rifled the safe after being challenged.",
+    "source_quote": "I don't know. What I thought \u2014 but now that you bring it up, perhaps I was a little bit too hasty. Perhaps it was two different people.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Kalan's suspicion",
+    "fact": "Kalan suspects one of the Great Readers is the murderer, and that Bookwyrm is protecting them or was convinced to fire him to protect themselves.",
+    "source_quote": "I believe one of the Great Readers is the murderer, and that either Bookwyrm was protecting them or someone had convinced her to fire him to protect themselves.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Kalan's belief",
+    "fact": "Kalan believes the investigators were hired to bungle the case or remain silent if they found the truth.",
+    "source_quote": "You're only being employed so you're likely to bungle the case, or else be silent if you do happen upon the right scent. You don't matter. You're outsiders.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Kalan",
+    "fact": "Kalan revealed he had been refused more watchers at the eight o'clock meeting.",
+    "source_quote": "The eight o'clock meeting where he'd pressed Janussi for more watchers and been refused.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Kalan",
+    "fact": "Kalan confirmed his visit to Sylvira Savikas at quarter-past-ten for a cosmological question.",
+    "source_quote": "The quarter-past-ten visit to Sylvira Savikas over some cosmological question.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Kalan",
+    "fact": "Kalan confirmed his return to the Chamber of Lost Lore for private research.",
+    "source_quote": "The return to the Chamber of Lost Lore for private research.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Kalan",
+    "fact": "Kalan confirmed the inspection just after eight, the cordon, the posted watcher, and the doubled guard at the High Tower Library on the morning of the murder.",
+    "source_quote": "The morning of the murder: the inspection just after eight, the cordon, the posted watcher, the state of emergency, the doubled guard at the High Tower Library.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Kalan",
+    "fact": "Kalan was unaware that someone had been pretending to be Sylvira Savikas the night of the murder.",
+    "source_quote": "No. That is new information.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Kalan",
+    "fact": "Kalan believes the investigators are disinterested outsiders who were brought here by fate, and that this means something.",
+    "source_quote": "He decided the nature of fate had brought disinterested outsiders to exactly this place, and that this meant something.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Kalan",
+    "fact": "Kalan offered to meet offline, in private work streams, to examine everything one by one with the five of them.",
+    "source_quote": "He proposed it in the most extraordinary terms \u2014 offline chat, private work streams, a meeting to examine everything one by one, the four of us and him, five streams, merge it all in a few hours.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Kalan",
+    "fact": "Kalan confirmed he could question the dead and pull hidden truths into view if necessary.",
+    "source_quote": "Yes \u2014 if such a thing should become necessary. So if we suspected someone was lying, he could sort it out? 'Of course I could.'",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Kalan",
+    "fact": "Kalan acknowledged the possibility of shapeshifters and warned the investigators to watch their backs.",
+    "source_quote": "I'm just saying,\" I said, and let him go to his research.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum discovered that midnight tears \u2014 a toxic pale ochre dust from the Feywild \u2014 becomes lethal only when ingested and activates at midnight.",
+    "source_quote": "Midnight tears. A highly toxic pale ochre dust, made from the pollen of a plant usually found only in the Feywild. The creature that ingests this poison suffers no effect until the stroke of midnight.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum confirmed that midnight tears darken upon contact with saliva, explaining the blackened fingers and lips.",
+    "source_quote": "The dust stays pale ochre. What darkens it is saliva. The ochre reacts on contact with spit, and a man turning pages licks his fingers to do it.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum concluded the murder weapon was a book doped with midnight tears, which Janussi read himself to death.",
+    "source_quote": "The book was the murder weapon, and he'd read himself dead.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum identified the sapphire spell as a summoning working that retrieves a hidden object into the caster\u2019s hand.",
+    "source_quote": "It's an old summoning working \u2014 the kind that calls a single hidden thing back into your hand.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum realized the sapphire summoning spell cannot be used on objects worn as jewelry, because 'carried' does not include 'worn.'",
+    "source_quote": "It doesn't, as it turned out. Which reframed the whole use. 'Oh, I see,' I said, 'so you can put it someplace, you can throw it into a river or whatever. Nobody will find it, and then when you need it back, boom.'",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum believes the murder involves a poison from one plane and a spell from no plane in particular, and that the two are connected.",
+    "source_quote": "A poison from one plane and a spell from no plane in particular, and somewhere between them, a murder.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz noted that Daral Yashenti set the venue for the interrogation \u2014 the Hearth \u2014 making the investigators walk to him.",
+    "source_quote": "Daral was not coming to us. We were to go to the Hearth.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz recognizes the suspect's choice of venue as an attempt to control the environment, even if it's just a drunk man keeping his drinks nearby.",
+    "source_quote": "In Menzoberranzan that would have been a move. Up here it was just a drunk who wanted to keep drinking where the drinks were.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz observed that Daral Yashenti was boisterous, flushed, and conspicuously delighted with his own existence.",
+    "source_quote": "Boisterous, flushed, conspicuously delighted with his own existence.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz corrected Daral\u2019s mocking label of them as 'Bookwyrm's brownnosers.'",
+    "source_quote": "That's not our,\" Grygum said, \"that's not our chosen name.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "The locket key",
+    "fact": "The locket key is missing, and its presence around the victim\u2019s neck was never proven \u2014 only assumed.",
+    "source_quote": "The locket was around the keeper's neck. The locket was gone. So why would the killer go through the safe at all?",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "The second key",
+    "fact": "The second key \u2014 Kalan\u2019s \u2014 was given to someone who is not him, but that person\u2019s identity remains unknown.",
+    "source_quote": "I have given it now to someone who is not me.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "The fake Sylvira",
+    "fact": "Someone impersonated Sylvira Savikas the night of the murder, and this was unknown to Kalan until revealed.",
+    "source_quote": "Is he aware that someone was pretending to be Sylvira Savikas the night of the murder? 'No. That is new information.'",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "The true murderer",
+    "fact": "The murderer may be two different people \u2014 one who poisoned the book, and one who rifled the safe \u2014 but this remains unconfirmed.",
+    "source_quote": "Perhaps it was two different people.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "The identity of Bookwyrm's employer",
+    "fact": "It is unclear who hired Bookwyrm, or why they would fire Kalan to protect someone \u2014 or if they even did.",
+    "source_quote": "Someone had convinced her to fire him to protect themselves.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "The origin of the poison",
+    "fact": "Midnight tears are rare and only accessible to those with Feywild connections \u2014 but the source of the poison remains untraced.",
+    "source_quote": "A poison from another plane narrows your suspect list considerably.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "The sapphire summoning spell",
+    "fact": "The sapphire summoning spell could be used to hide the High Tower key \u2014 but it is unknown who possessed the spell or the sapphire.",
+    "source_quote": "This would be great for the High Tower Keys.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "The shapeshifter",
+    "fact": "It is suspected that a shapeshifter was involved \u2014 but no evidence confirms who or how.",
+    "source_quote": "Keep in mind there are people who can change their form. Shapeshift. Whatever you want to call it.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "The true motive",
+    "fact": "The motive behind the murder \u2014 and the framing of the investigators \u2014 remains unknown.",
+    "source_quote": "Whoever set this up, he said \u2014 naming him to the wrong people, perhaps \u2014 would be very disappointed in him.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daral",
+    "fact": "Daral was celebrating because he had braced for annihilation and learned he was merely going to be fired, and the relief had gone straight to his head.",
+    "source_quote": "He wasn't celebrating a murder. He was a man who had braced for annihilation and learned he was merely going to be fired, and the relief had gone straight to his head.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Daral",
+    "fact": "Daral believed that Janussi was not fit to be keeper of the tomes and that he was merely an uneducated bookseller.",
+    "source_quote": "He is not fit to be keeper of the tomes. An uneducated bookseller is what he is.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daral",
+    "fact": "Daral hoped the gods would bless whoever killed Janussi.",
+    "source_quote": "May the gods bless whoever bumped him off.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daral",
+    "fact": "Daral felt shaken by the assault on himself and used laughter to mask his discomfort.",
+    "source_quote": "telling us how shaken the assault had left him, he wet his finger and began flicking through the pages, reading himself a funny passage until he was laughing again.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daral",
+    "fact": "Daral was convinced that the book he gave Janussi was meant to be read for knowledge, not enjoyment.",
+    "source_quote": "He'd given it away to make a point \u2014 that his books should never be sold \u2014 by having Janussi read it and understand their worth.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daral",
+    "fact": "Daral admitted he was drugged and upset when the events with Janussi occurred.",
+    "source_quote": "I was drugged. I was upset. I don't know what I was thinking.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daral",
+    "fact": "Daral dismissed his own statements as mere barroom chatter after realizing he had insulted lizards.",
+    "source_quote": "This is just more of \u2014 barroom chatter, nothing to be\u2014",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin considered the theory that Daral killed Janussi because he finally did what he had long wanted \u2014 kill the person holding him back.",
+    "source_quote": "Or maybe he's just happy because he finally did it, he finally killed the person that was holding him back.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin believed Daral\u2019s confession about the book was inconsistent and likely a lie.",
+    "source_quote": "Thorin walked him in a slow circle around the contradiction: you gave him a book, you were furious to find him reading it.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir did not understand Glabbagool\u2019s answer to the question about the art of movement, though he recognized it as wisdom.",
+    "source_quote": "I did not understand it. I heard the words, I registered that they landed, I watched the monk take them as truth \u2014 and I did not understand them.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir felt excitement when Glabbagool settled onto his arm.",
+    "source_quote": "What I felt, watching him arrange himself over my scales, was something I did not have a name for. \"This is exciting. We formed Voltron or something.\"",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir wanted Glabbagool to blend in and not appear as a separate creature with obvious eyes.",
+    "source_quote": "I suggested he might not need them \u2014 that he could blend into me rather than read as a separate creature riding along.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool had been waiting a long time to attach himself to Zalthir.",
+    "source_quote": "I've been waiting to do this for a very long time.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool believed people expected him to have large, obvious eyes and considered changing that.",
+    "source_quote": "He thought people expected him to have them, large and obvious.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool\u2019s instinct at the moment of his transformation was to ensure the drow in the bag of holding was still being watched.",
+    "source_quote": "Before he settled in, he reminded me the drow in the bag of holding still needed watching.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool went still for more than a minute when asked about the art of movement.",
+    "source_quote": "Glabbagool went still. Not paused. Still. The difference matters. Paused costs something; still costs nothing. The better part of a minute passed.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir noticed the former shadow monk was watching the entire exchange with Glabbagool.",
+    "source_quote": "The former shadow monk had been watching the whole exchange.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Zalthir's silence class",
+    "fact": "Zalthir missed the class on silent communication and does not remember what was taught.",
+    "source_quote": "I remember the light through the shutters. I do not remember the lesson.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Zalthir's sleeping days",
+    "fact": "Zalthir suspects he was sleeping during many important lessons, including the one Glabbagool mastered.",
+    "source_quote": "There are, by now, a great many days I was sleeping. The student on my arm had mastered the one lesson I most thoroughly missed, and he had done it in under a minute, by going still.",
+    "quote_verified": true
+  }
+]

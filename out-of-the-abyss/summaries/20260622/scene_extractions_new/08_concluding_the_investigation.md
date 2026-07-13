@@ -8,7 +8,7 @@ source: gmassist
 ## Scene summary (from gm-assist, verbatim)
 
 #### The party weighs their options after uncovering a web of conspiracy involving multiple high-ranking members of Candlekeep.
-- The party discusses turning the evidence over to Kalan Strongbranch, who is present and has heard the whole confession, to allow him to take charge and 'clean house.' Thorin: "dude, take it from here."
+- The party discusses turning the evidence over to Kalan Strongbranch — who cast the zone of truth from outside, concealed, and has since rejoined the party — who has heard the whole confession, to allow him to take charge and 'clean house.' Thorin: "dude, take it from here."
 - Daz raises the possibility of blackmailing one or more suspects to extract rare information, particularly from A'lai, who as a drow might have knowledge Daz needs. The DM noted "who killed whom at Candlekeep, that's details. What's going on with Daz is, like, important."
 - Grygum observes that in such murder mysteries "you often find somebody who treats blackmail as a kind of career."
 - The group reflects on Janussi's remarkable lack of wisdom in firing and insulting multiple powerful magic users all in a single day, jokingly reframing it as a "layoff" with possible "budgetary pressures on Candlekeep."
@@ -68,8 +68,7 @@ source: gmassist
 
 **[Thorin]**
 > "There you go."
-> "I am the."
-> "mission in mind."
+> "I have a mission in mind." *[VTT mis-segmented as two fragments: "I am the." / "mission in mind."]*
 
 **[GM]** — reframing the murder as a sideshow to Daz's quest
 > "Right, you know, at some level, who killed whom at Candlekeep, that's details. What's going on with Daz is, like, important."
@@ -97,7 +96,7 @@ source: gmassist
 > "I mean, that's an angle you haven't checked. Maybe there were some budgetary pressures on Candlekeep."
 
 **[Grygum]**
-> "Some riffs planned?"
+> "Some RIFs planned?" *[VTT: "riffs" — likely "RIF," Reduction In Force, continuing the layoff joke]*
 
 **[GM]** — wrapping the session
 > "Right. Okay, well, I hope you guys have enjoyed the murder."

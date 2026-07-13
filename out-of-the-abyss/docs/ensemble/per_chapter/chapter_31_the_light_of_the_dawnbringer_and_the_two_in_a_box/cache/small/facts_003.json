@@ -1,0 +1,198 @@
+[
+  {
+    "type": "npc",
+    "subject": "Basidia",
+    "fact": "Basidia is a myconid sovereign who leads followers in reanimating the dead, enforcing Phylo\u2019s doctrine that efficiency comes from circle-based hierarchy and sovereign control. She has accepted Loobamub as a loyal follower and seeks corpses for reanimation.",
+    "source_quote": "Basidia tells us that this is one of her followers, 'Loobamub.'",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Loobamub",
+    "fact": "Loobamub is the leader of the Circle of Hunters and a devoted follower of Basidia. He communicates Phylo\u2019s doctrine that all dead creatures must be brought to the Circle of Masters for reanimation, not consumption.",
+    "source_quote": "Loobamub listens to Basidia, and then he turns to me and asks if we could help him deal with a grick. As he explains, Phylo insists that all dead creatures must be brought to the Circle of Masters.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Phylo",
+    "fact": "Phylo is the sovereign architect of a new myconid hierarchy that replaces unity with circle-based exclusivity, where only circle leaders and sovereigns may interact across boundaries. His doctrine mandates reanimation of the dead as the highest efficiency.",
+    "source_quote": "Phylo decided that each circle would meld exclusively with its circle, and only the circle leaders would meld with other circle leaders and the sovereigns.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Circle of Masters",
+    "fact": "The Circle of Masters is a myconid hierarchy within Phylo\u2019s doctrine, composed of the most trusted leaders who oversee the reanimation of all dead creatures brought to them. They are the central authority for resurrection and tactical reassignment of the undead.",
+    "source_quote": "And then there is the Inner Circle and the Circle of Masters\u2026 The Inner Circle of all of the circle leaders and the Circle of Masters is a circle of those who are closest to Phylo.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Circle of Hunters",
+    "fact": "The Circle of Hunters is a myconid sub-group under Phylo\u2019s doctrine, tasked with retrieving corpses from the wild for reanimation by the Circle of Masters. They do not kill, only recover the dead.",
+    "source_quote": "Loobamub, the leader of the Circle of Hunters, tells us as we leave that a Shambling Mound is concealed nearby...",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Inner Circle",
+    "fact": "The Inner Circle is the elite tier of Phylo\u2019s hierarchy, composed of the closest advisors and circle leaders who enforce his doctrine and maintain the reanimation pipeline. They are the core of ideological control.",
+    "source_quote": "And then there is the Inner Circle and the Circle of Masters\u2026 The Inner Circle of all of the circle leaders and the Circle of Masters is a circle of those who are closest to Phylo.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Grick",
+    "fact": "A grick is a predatory beast encountered in the swamp, known for its resistances and ambush tactics. It was slain by the Ember Vanguard after being stunned, blinded, and struck with fire and acid. Its corpse was retrieved for reanimation.",
+    "source_quote": "The Grik hisses... The blinded Grick misses all three of its subsequent attacks... Thorin delivers the killing blow...",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Shambling Mound",
+    "fact": "A shambling mound is a concealed, moss-covered undead entity lurking in the swampy ground, capable of grappling and ambush. It was located by Daz using a grid-based spell technique derived from K\u2019tharr-li.",
+    "source_quote": "Loobamub, the leader of the Circle of Hunters, tells us as we leave that a Shambling Mound is concealed nearby, lurking like mossy camouflage within the swampy ground.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "reanimation of the Grick",
+    "fact": "The Grick\u2019s corpse was retrieved from the battlefield and is intended for reanimation by Basidia, per Phylo\u2019s doctrine. Reanimation transforms the dead into tactical assets, not food.",
+    "source_quote": "If you could bring this creature to Basidia, she could reanimate it, and it could help you.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "K\u2019tharr-li game",
+    "fact": "Daz employed a tactical game called K\u2019tharr-li \u2014 a Menzoberranzan-style grid-based spellcraft where frozen five-foot cubes reveal hidden threats \u2014 to locate the Shambling Mound, mirroring his childhood game where failure meant mutual loss.",
+    "source_quote": "Much like K\u2019tharr-li, we only have so much time. And unlike K\u2019tharr-li, losing can be deadly.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "threat of the mossy swamp",
+    "fact": "The swamp environment, home to reanimated undead and hidden threats like the Shambling Mound, may pose a future danger if left uncontrolled. Its vines are also valuable for magical item crafting.",
+    "source_quote": "I think that this 'mossy swamp', if left alone, could threaten us later. Furthermore, the vines from these constructs are useful for crafting magical items and are valuable.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "moral conflict over acid casting",
+    "fact": "Grygum questions whether using Tasha\u2019s Caustic Brew honors Bahamut, given that both Brass and Black Dragons \u2014 holy creatures to Bahamut \u2014 breathe acid. He rationalizes the act with dark humor, but the theological tension remains unresolved.",
+    "source_quote": "So am I not, in a curious way, honoring my god in this way?... 'One of the material components is a toothbrush, you know, for afterward.'",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "reanimated creatures in the Whorlstone Caves",
+    "fact": "The sight of reanimated creatures in the Whorlstone Caves has left the narrator deeply unsettled, hinting at a larger, unspoken history of myconid necromancy and its psychological toll.",
+    "source_quote": "I think to myself of the reanimated creatures I saw in the Whorlstone Caves and shudder.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Whorlstone Caves",
+    "fact": "The Whorlstone Caves are a known site of prior myconid reanimation activity, where reanimated creatures have been observed, contributing to the party\u2019s unease about Phylo\u2019s doctrine.",
+    "source_quote": "I think to myself of the reanimated creatures I saw in the Whorlstone Caves and shudder.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "mossy swamp",
+    "fact": "The mossy swamp is a treacherous, waterlogged terrain concealing hidden undead entities like the Shambling Mound and the Grick. It is the primary hunting ground for the Circle of Hunters and the site of recent combat.",
+    "source_quote": "Loobamub... tells us that a Shambling Mound is concealed nearby, lurking like mossy camouflage within the swampy ground.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "lake shore",
+    "fact": "The lake shore is a 10-foot-deep body of water where Zalthir engaged the Grick from a safe distance, avoiding grappling threats. It is a tactical chokepoint in the swamp.",
+    "source_quote": "The creature is near the shore of a lake that is more than 10 feet deep.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Tasha\u2019s Caustic Brew",
+    "fact": "Tasha\u2019s Caustic Brew is a spell using projectile acid as a weapon. Grygum uses it against the Grick, rationalizing its use through Bahamut\u2019s association with acid-breathing dragons, and humorously notes the toothbrush component.",
+    "source_quote": "I resort to my secondary option: Tasha's Caustic Brew. It\u2019s essentially projectile acid... 'One of the material components is a toothbrush, you know, for afterward.'",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Shape Water",
+    "fact": "Shape Water is a spell used by Daz to freeze five-foot cube sections of moss and water in a grid pattern, revealing hidden threats like the Shambling Mound. It is central to his K\u2019tharr-li strategy.",
+    "source_quote": "I visualize the terrain as a precise grid, and intend to freeze five-foot cube sections of the moss and water using Shape Water.",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The events occur during a single session of play, marked by the progression of combat, dialogue, and tactical planning from the retrieval of the Grick to the discovery of the Shambling Mound.",
+    "source_quote": "And soon enough, we arrive at one of the mounds.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "K\u2019tharr-li as metaphor for survival",
+    "fact": "Daz frames the combat as a game of K\u2019tharr-li \u2014 where failure means mutual destruction \u2014 to justify his precise, methodical tactics. The game reflects the high-stakes reality of their mission.",
+    "source_quote": "Much like K\u2019tharr-li, we only have so much time. And unlike K\u2019tharr-li, losing can be deadly.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "myconid doctrine vs. harmony",
+    "fact": "The party\u2019s discomfort with Phylo\u2019s doctrine \u2014 that isolation and reanimation replace unity and harmony \u2014 is contrasted with Basidia\u2019s calm assurance that 'they all know.' The tension between old ways and new efficiency remains unresolved.",
+    "source_quote": "I believe this is contrary to the unity and harmony of our way of life... Basidia laughs, 'Don\u2019t worry, they all know.'",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Zombie Grick",
+    "fact": "The Grick is intended to be reanimated into a zombie, serving as a tactical asset for the party under Basidia\u2019s authority. Its potential as a companion is mocked by Grygum as 'so fun,' but its true nature is horrifying.",
+    "source_quote": "What, you don't want a zombie grick joining our team? That sounds so fun.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a tactician who employs Menzoberranzan-style spellcraft and games like K\u2019tharr-li to locate and neutralize threats. He uses Shape Water with grid precision, prioritizing control over brute force.",
+    "source_quote": "I tell The Ember Vanguard that I have a plan to neutralize the creature\u2019s ability to hide. I explain that I visualize the terrain as a precise grid...",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is a cleric of Bahamut who uses Tasha\u2019s Caustic Brew in combat, rationalizing it through divine associations with acid-breathing dragons. He employs dark humor to cope with moral ambiguity and is skeptical of reanimation\u2019s value.",
+    "source_quote": "So am I not, in a curious way, honoring my god in this way?... 'One of the material components is a toothbrush, you know, for afterward.'",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is a spellcaster who uses Darkness and Stunning Strike to control the battlefield. He operates with precision, avoiding direct engagement with grappling threats and enabling allies to strike effectively.",
+    "source_quote": "Zalthir immediately covers the Grick in magical Darkness. Brilliant... I circle the lake and attack it from the shore... I execute a Stunning Strike.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is a frontline warrior who uses Dawnbringer to deliver decisive blows in darkness. He capitalizes on battlefield control provided by Zalthir and Daz, landing two heavy strikes to finish the Grick.",
+    "source_quote": "Thorin rushes into the magical blackness, wielding Dawnbringer. He lands two heavy strikes...",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "we do not kill",
+    "fact": "The myconids\u2019 creed \u2014 'We bring back the dead. We do not kill.' \u2014 stands in stark contrast to the party\u2019s hunting and slaying of the Grick. This ideological dissonance is central to the narrative tension.",
+    "source_quote": "We bring back the dead. We do not kill.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "the deadly game of K\u2019tharr-li",
+    "fact": "K\u2019tharr-li is not just a game but a metaphor for survival: in Menzoberranzan, losing meant mutual death. Daz applies this to the current mission, framing combat as a zero-sum battle where hesitation equals annihilation.",
+    "source_quote": "As this was Menzoberranzan, if neither player had won by some pre-agreed time, both players lost. Much like K\u2019tharr-li, we only have so much time. And unlike K\u2019tharr-li, losing can be deadly.",
+    "quote_verified": true
+  }
+]

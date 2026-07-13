@@ -1,0 +1,163 @@
+[
+  {
+    "type": "npc",
+    "subject": "Leuwin",
+    "fact": "Leuwin is an elderly satyr apothecary who works inside an ancient evergreen oak tree at the western edge of the library grounds, distilling herbs and tinctures, and was distracted by A'lai in the greenhouse during the poisoning incident.",
+    "source_quote": "He couldn't imagine how it had happened. Then: maybe Nibbles knows something.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Nibbles",
+    "fact": "Nibbles is a squirrel who works alongside Leuwin, capable of speech when incentivized with nuts, and witnessed the entire sequence of events leading to the theft of the dangerous toxin.",
+    "source_quote": "I made the mistake of asking everything at once \u2014 who, why, the cover-up \u2014 and the squirrel told me that was too much.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Fheminor",
+    "fact": "Fheminor is a gnome who visited Leuwin at 2:30 PM seeking cold medicine, and was seen by Nibbles as an unpleasant individual, but did not handle the dangerous toxins.",
+    "source_quote": "He saw the unfriendly girl gnome. Fheminor. Unpleasant, always unpleasant.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "A'lai",
+    "fact": "A'lai is a dark-skinned elf who arrived at 3:00 PM seeking fennel for indigestion, and was led by Leuwin to the greenhouse below, creating a diversion that kept the apothecary away from the upstairs storage.",
+    "source_quote": "A'lai arrived asking for fennel for indigestion, and Leuwin took him down through the rear exit to the greenhouse below.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Dragonborn",
+    "fact": "A dragonborn entered the apothecary alone while Leuwin was occupied, broke a vial labeled *Dangerous Toxins*, and stole its contents, leaving behind a peppermint-soaked rag and shattered glass.",
+    "source_quote": "A huge lizard skin came in and made a big mess. A dragonborn. Something went *bling* and shuddered, and the lizard moved things around, and then left.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Drow",
+    "fact": "A drow was not directly observed by Nibbles, but is inferred as the orchestrator of the theft: they bribed Nibbles with nuts to gather intelligence and coordinated the diversion by sending A'lai to the greenhouse, ensuring their own hands remained clean of the poison.",
+    "source_quote": "A drow on his knees, bribing a squirrel one nut at a time.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "The Library Grounds Apothecary",
+    "fact": "An apothecary housed within a living evergreen oak tree, operated by Leuwin and Nibbles, with shelves of balms and tinctures climbing the inner bark, and a rear exit leading to a magically sustained greenhouse.",
+    "source_quote": "The apothecary was a tree. Not a building shaped like a tree, an actual evergreen oak grown out of the burrows in the west of the library grounds...",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "toxin theft",
+    "fact": "A highly toxic substance from a vial labeled *Dangerous Toxins* was stolen through a coordinated diversion: the drow bribed a squirrel and sent A'lai to the greenhouse, while the dragonborn broke into the upstairs storage and took the vial, leaving behind a poorly concealed cover-up.",
+    "source_quote": "The glass had broken and somebody had tried to hide it. Badly. That was the word that mattered.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "the apothecary's upstairs storage",
+    "fact": "The storage area above the main counter where the vial of dangerous toxins was kept, labeled in Elvish, and where the dragonborn broke the vial and left a peppermint rag as evidence.",
+    "source_quote": "Under the top shelf I found a peppermint-soaked rag and a broken vial, and the shelf above the spillage was labeled, in Elvish, *Dangerous Toxins.*",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "the greenhouse below",
+    "fact": "A magically sustained herb garden accessible via a rear exit from the apothecary, where Leuwin was occupied with A'lai during the theft, creating the critical diversion.",
+    "source_quote": "where he grows herbs year-round with magic.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "the broken vial",
+    "fact": "A glass vial labeled *Dangerous Toxins* that was shattered during the theft, containing a substance that, when mixed and built upon, becomes a lethal poison, and was concealed under a peppermint-soaked rag.",
+    "source_quote": "What had been in the vial was one of those substances that, mixed and built upon, turns into very dangerous poisons.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "the peppermint-soaked rag",
+    "fact": "A cloth used to mask the smell of the broken toxin vial, left carelessly on the floor and identified by Nibbles as an amateurish cover-up attempt.",
+    "source_quote": "A professional doesn't leave a peppermint rag where the next person to crouch down will find it.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "the nuts",
+    "fact": "Acorns and other nuts used by the drow to bribe Nibbles, and later by the investigator to extract testimony from the squirrel, serving as currency of influence in the investigation.",
+    "source_quote": "The drow draws the druid downstairs with a complaint about indigestion... bribing a squirrel one nut at a time.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "the drow's identity",
+    "fact": "The drow who orchestrated the theft remains unidentified; Nibbles did not observe their face or markings, and their role was entirely one of misdirection and bribery.",
+    "source_quote": "The squirrel didn't know.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "the toxin's destination",
+    "fact": "The stolen poison has not been recovered; its intended use, recipient, or final form remains unknown, though its composition suggests it is meant for assassination or sabotage.",
+    "source_quote": "What had been in the vial was one of those substances that, mixed and built upon, turns into very dangerous poisons.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "the dragonborn",
+    "fact": "The dragonborn is the physical actor of the theft, entering alone, breaking the vial, and handling the toxin \u2014 the only individual to directly touch the dangerous substance.",
+    "source_quote": "A huge lizard skin came in and made a big mess. A dragonborn. Something went *bling* and shuddered...",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "2:30 PM",
+    "fact": "The time Fheminor arrived for cold medicine, marking the first known visit before the theft.",
+    "source_quote": "At half past two, the gnome \u2014 Fheminor \u2014 came for cold medicine.",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "3:00 PM",
+    "fact": "The time A'lai arrived for fennel, triggering the diversion that removed Leuwin from the premises.",
+    "source_quote": "At three, A'lai arrived asking for fennel for indigestion...",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "3:15 PM",
+    "fact": "The time the dragonborn entered and committed the theft, while Leuwin was occupied in the greenhouse and Fheminor had already departed.",
+    "source_quote": "At a quarter past three, the trouble.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "the diversion",
+    "fact": "A carefully timed scheme in which the drow used A'lai\u2019s request for herbs to lure Leuwin into the greenhouse, ensuring no one was present upstairs to witness the dragonborn\u2019s theft.",
+    "source_quote": "because you gave me so many tokens, I saw the person, but Leuwin didn't, because Leuwin wasn't in the room.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "the cover-up",
+    "fact": "The dragonborn attempted to conceal the broken vial with a peppermint rag, an amateur mistake that drew attention rather than hiding it, revealing the crime to the investigator.",
+    "source_quote": "Badly. That was the word that mattered.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "the drow's motive",
+    "fact": "The drow\u2019s motive remains unclear \u2014 whether to eliminate a target, frame another, or obtain the toxin for their own use \u2014 but their method shows deep understanding of misdirection and deniability.",
+    "source_quote": "Elegant. I asked whether either of them had any identifying marks. The squirrel didn't know.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "the squirrel's loyalty",
+    "fact": "Nibbles\u2019 cooperation was secured through nuts, raising questions about whether they are still being bribed, or if their testimony was truthful under incentive.",
+    "source_quote": "Nibbles loved nuts. I had nuts. We understood each other immediately.",
+    "quote_verified": true
+  }
+]

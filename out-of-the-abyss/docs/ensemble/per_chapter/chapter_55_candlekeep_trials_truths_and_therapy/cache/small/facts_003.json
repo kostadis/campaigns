@@ -1,0 +1,93 @@
+[
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a wizard who catalogues environments unconsciously, noting exits, patterns, and deviations from baseline behavior; he recently observed a young scholar misrendering a liturgical chant with a degradation pattern matching two prior cases of cognitive decay.",
+    "source_quote": "I wrote it down. The exact cadence, the placement of the false syncopation, the point in the verse where the chant bent away from the original.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is a scholar with a performative interest in Stroud, who maps thematic motifs from bardic songs onto historical figures like Whistler, and accepts theological downgrades with bureaucratic precision.",
+    "source_quote": "The only love I remember during the previous campaign, involved giants, and it wasn't Stroud's.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "The Young Human Scholar",
+    "fact": "A young human scholar in the corner of The Burning Wizard Inn is reciting a liturgical chant with a precise, non-beginner-level degradation pattern \u2014 identical to the cognitive distortions previously observed in Eldred and the Field Ward Preacher.",
+    "source_quote": "His breathing was almost right. The pauses fell almost correctly. The pattern was almost the one it was supposed to be \u2014 and wrong by a hair in a way that took actual knowledge of the correct version to notice.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "The Traveling Bard",
+    "fact": "A traveling bard performs seasonal songs with thematic resonance \u2014 including 'The Kenku Could Not Fly' \u2014 and adapts her repertoire in response to patrons' holy symbols, translating grand theological narratives into accessible folk metaphors.",
+    "source_quote": "She took the coin and proceeded to sing a love song. Involving flowers. And drinking.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Festrum",
+    "fact": "Festrum, the ancient gnome innkeeper of The Burning Wizard Inn, maintains the physical memory of a wizard's death by refusing to paint the wall where he fell, and scrubs the floor seasonally as ritual observance.",
+    "source_quote": "That is where he fell. We scrub the floor every season. We do not paint over the wall. My grandfather said the wall remembers.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "The Burning Wizard Inn",
+    "fact": "The Burning Wizard Inn is a site of layered memory \u2014 its architecture preserves the death of a wizard burned by a dragon cult, and its atmosphere hosts recurring patterns of ritual degradation, bardic reinterpretation, and scholarly observation.",
+    "source_quote": "The inn took its name from a death. That was the first thing I catalogued.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Demon Lords",
+    "fact": "Demon lords are actively broadcasting \u2014 rewriting the language of wells, shapes, and held things \u2014 and finding new listeners, suggesting an ongoing, insidious linguistic corruption affecting perception and cognition.",
+    "source_quote": "Somewhere below us the demon lords were apparently still broadcasting, still finding new listeners, still rewriting the language of wells and shapes and held things into something the surface world hadn't been built to receive.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Chant Degradation Pattern",
+    "fact": "A specific, non-random degradation pattern in a liturgical chant has been observed in three individuals \u2014 the young scholar, Eldred, and the Field Ward Preacher \u2014 indicating a possible contagion, doctrinal corruption, or targeted cognitive assault.",
+    "source_quote": "The same pattern. The same wrongness by a hair.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Cognitive Contagion",
+    "fact": "A recurring, identifiable distortion in ritual chanting may be a symptom of a broader, unexplained phenomenon \u2014 possibly tied to demon lord broadcasts or a hidden heresy \u2014 that has afflicted at least three people and may be spreading.",
+    "source_quote": "I have seen it before. Twice.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Daz's Journal",
+    "fact": "Daz's journal contains precise transcriptions of the malformed chant cadence, including syncopation errors and syllabic deviations \u2014 data he intends to cross-reference with Candlekeep\u2019s archives to determine if this is a known doctrine or an emerging corruption.",
+    "source_quote": "Candlekeep would have records. Someone there would know whether this pattern belonged to a group, a practice, a doctrine \u2014 or whether it was something else being made to look like one.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Bahamutians",
+    "fact": "Bahamutians, including Grygum, maintain a sentimentality for other faiths like Stroud\u2019s, but interpret theological narratives through a lens of disciplined restraint and bureaucratic translation, often reducing grand stakes to pragmatic or folkloric forms.",
+    "source_quote": "He explained that he was Bahamutian, with sentimentality for the other.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Stroudites",
+    "fact": "Stroudites are associated with intellectual traditions \u2014 particularly chess as metaphor \u2014 and are referenced in bardic songs as figures of strategic depth, though their theological grandeur is frequently flattened into romantic allegory by outsiders.",
+    "source_quote": "Grygum leaned forward \u2014 he has a scholar's interest in Stroud that he performs slightly harder than the interest actually requires \u2014 and offered her a silver piece for something about Stroud's famous chess game.",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "Day of Observation",
+    "fact": "The day of observation was unusually long in sunlight exposure \u2014 the first time in a while Daz had been outside in the sun this long \u2014 which he initially misattributed as the source of his cognitive friction.",
+    "source_quote": "I had been attributing the sensation to sunlight. I had, in fact, been attributing it to sunlight for most of the day.",
+    "quote_verified": true
+  }
+]

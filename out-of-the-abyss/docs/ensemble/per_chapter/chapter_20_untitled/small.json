@@ -1,0 +1,352 @@
+[
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a Duergar assassin who seeks to negotiate with the assassin guild for Werz's protection, and is gathering evidence to leverage against power brokers in Gracklstugh.",
+    "source_quote": "Daz overhears Thorin telepathically asking if Flumph will join them. Flumph says, 'I want to observe a tragedy, not be in one. I will stay here.'",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is a dwarf with experience in contract negotiation, who insists on formal agreements and financial calculations, and frequently interrupts with blunt, chaotic questions.",
+    "source_quote": "Thorin blurts, 'I don\u2019t think a group of demon worshipers is only worth 180 gold, the imbued value based on the calculation from the proposed discount.'",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is a reserved, strategic individual who learned the art of saying little, and is deeply uncomfortable with Thorin\u2019s recklessness but seeks to navigate the situation with minimal conflict.",
+    "source_quote": "Zalthir cringes. Rust speaks in a serious tone, 'Yes. We are the empty scabbard killers.'",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is a cleric of Bahamut who is saddened by the demonic possession of the egg and detects a resolve to harm the Derro magician, yet remains silent and observant.",
+    "source_quote": "The cleric of Bahamut is saddened. Daz detects a resolve to hurt the Derro magician.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Rust",
+    "fact": "Rust is a Derro assassin who identifies as an 'empty scabbard killer,' operates with cryptic formality, and defers leadership decisions to his superiors.",
+    "source_quote": "Rust speaks in a serious tone, 'Yes. We are the empty scabbard killers.'",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Eldgrim",
+    "fact": "Eldgrim is the Duergar leader of the assassin guild, blind in one eye, who refuses to sign contracts but agrees to alter lists in exchange for eliminating Demogorgon\u2019s cultists.",
+    "source_quote": "Eldgrim laughs, 'Small potatoes. I can cancel the contract for a small fee and permanently brightlist him for a small fee.'",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Werz",
+    "fact": "Werz is a target of the assassin guild whose protection is the central negotiation point; he does not wish to be a target, and his name is tied to the guild\u2019s internal lists.",
+    "source_quote": "Zalthir remembers that they had to help Werz. What Werz wants is not to be a target.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Assassin Guild of Gracklstugh",
+    "fact": "The assassin guild maintains internal lists ('brightlist' for protection, 'allow list' for non-targets) and uses soul blades as their weapon designation; they avoid written contracts to preserve perceived strength.",
+    "source_quote": "Eldgrim says, 'An assassin\u2019s guild with a card?'",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Cult of Demogorgon",
+    "fact": "The cult is a source of ongoing operational cost to the assassin guild; its elimination is the condition for Werz\u2019s protection, and its members are targeted for removal by Daz\u2019s party.",
+    "source_quote": "Eldgrim says, '...if you get rid of them, I will move Werz to the brightlist.'",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Demon Possessed Egg",
+    "fact": "A demon has already possessed the egg, rendering it devoid of any dragon essence; this revelation saddened the cleric of Bahamut and triggered the party\u2019s mission.",
+    "source_quote": "A demon has already possessed the egg. There is no dragon there.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Soul Blades",
+    "fact": "Soul blades are the Duergar assassins\u2019 term for their weapons; three are standing behind Eldgrim, symbolizing their lethal authority and tradition.",
+    "source_quote": "He also notices three soul blades, the name the Duergar assassins give themselves, standing behind what appears to be their boss.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Brightlist",
+    "fact": "The brightlist is a magical or symbolic registry maintained by the assassin guild to permanently protect individuals from targeting; its name derives from its visibility to the guild.",
+    "source_quote": "It\u2019s called bright because we can always see it.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Assassin\u2019s Lair",
+    "fact": "The assassin\u2019s lair is a 70-foot-long, 70-foot-wide cave containing a large garden and a desk with papers; it serves as the operational center of the guild under Eldgrim\u2019s command.",
+    "source_quote": "Rust marches them into a cave that is 70 feet long and 70 feet wide at its widest point. Inside is a large garden.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Raucus Mesa",
+    "fact": "The Raucus Mesa is a destination reached after traversing the fungi forest; it is the location of the assassin\u2019s lair and the site of the party\u2019s confrontation with Rust and Grimgrim.",
+    "source_quote": "He then follows the path towards the Raucus Mesa.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Proof of Assassination Guild\u2019s Existence",
+    "fact": "The party seeks tangible proof \u2014 contracts, signed agreements, or records \u2014 to expose the assassin guild to power brokers in Gracklstugh and leverage their influence.",
+    "source_quote": "Daz looks at Thorin, 'So we can use it to prove they exist later.'",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Elimination of Demogorgon\u2019s Cult",
+    "fact": "The party\u2019s primary mission is to eradicate the cult of Demogorgon to secure Werz\u2019s protection; success would also fulfill a hidden desire tied to Errde\u2019s family\u2019s murder.",
+    "source_quote": "Zalthir remembers what Errde craved, proof that the assassins killed her family.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Distribution of Information to Power Brokers",
+    "fact": "Daz proposes collecting all gathered intelligence and distributing it simultaneously to all power brokers in Gracklstugh to create chaos and enable a clean escape.",
+    "source_quote": "Daz whispers through the telepathy of Stool, 'I like the idea of collecting all of the information and then distributing it to all of the power brokers of Gracklstugh simultaneously.'",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "1st day of the 2nd Tenday of Myrtul 1493",
+    "fact": "The events unfold on this specific calendar date, marking the beginning of a critical diplomatic and violent escalation in Gracklstugh\u2019s underworld.",
+    "source_quote": "1st day of the 2nd Tenday of Myrtul 1493",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Negotiation for Werz\u2019s Protection",
+    "fact": "Daz\u2019s party negotiates with Eldgrim to remove Werz from the target list in exchange for eliminating Demogorgon\u2019s cult; the negotiation includes refusal of written contracts and demands for action over payment.",
+    "source_quote": "Eldgrim says, '...if you get rid of them, I will move Werz to the brightlist.'",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Contract Proposal Rejection",
+    "fact": "Eldgrim refuses to sign a contract, fearing it would make him appear weak, but agrees to a verbal pact conditioned on the cult\u2019s destruction.",
+    "source_quote": "If I were to eat that contract, then folks would look at me as weak.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin\u2019s Contract Disruption",
+    "fact": "Thorin\u2019s insistence on financial logic and contract formalism disrupts the negotiation, forcing Eldgrim to clarify terms and inadvertently validating the party\u2019s strategy.",
+    "source_quote": "Thorin blurts, 'I don\u2019t think a group of demon worshipers is only worth 180 gold...'",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Entry into Assassin\u2019s Chamber",
+    "fact": "Daz, Thorin, Zalthir, and Grygum enter the assassin\u2019s lair while the rest of the party is ordered to wait; this marks the pivotal moment of direct confrontation with Eldgrim.",
+    "source_quote": "Only these four will come, the rest of you... can wait here.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Eldgrim",
+    "fact": "Eldgrim is flattered by Daz\u2019s request to include his name in a book, and later threatens to kill any author who spreads anything but the legend of their guild.",
+    "source_quote": "The legend of our guild will spread far and wide. And if you spread anything but our legend, well then, perhaps we will have to take care of a certain author.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz steals the contract while Eldgrim is distracted, knows the assassins will come after him if it goes missing, and fakes a coughing fit to summon Zalthir\u2019s help.",
+    "source_quote": "I thought I was going to die. My allergies. Thank you! When I hit you, breathe fire at the desk.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir, the dragonborn, is manipulated by Daz into breathing fire on the desk, burning the contract, and remains confused throughout the event.",
+    "source_quote": "Zalthir, on cue, breathes on the desk, burning the papers on it.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin observes the Drow\u2019s paranoia as useful in the Underdark, takes the contract from Daz, reads its contents aloud, identifies the Deepking\u2019s seal, and reflects on contracts people should never have signed.",
+    "source_quote": "I think we have what we need. There are dozens more with one or two words of description... a mark on the document bearing the personal seal of the Deepking and the royal seal of Gracklstugh.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum identifies a large red egg and a 50-foot-tall black metal obelisk atop a mesa in a glowing cavern, recognizing them as significant artifacts.",
+    "source_quote": "The egg... The obelix.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "The Guild of Eldgrim",
+    "fact": "The guild is a secretive, powerful organization of duergar assassins whose legend Eldgrim believes must be preserved and whose enemies are marked for brutal elimination.",
+    "source_quote": "The legend of our guild will spread far and wide. And if you spread anything but our legend, well then, perhaps we will have to take care of a certain author.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Gracklstugh",
+    "fact": "Gracklstugh is a royal kingdom whose seal appears on the contract, indicating its involvement in the assassination orders and the power of its ruler, the Deepking.",
+    "source_quote": "a mark on the document bearing the personal seal of the Deepking and the royal seal of Gracklstugh.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Council of Savants",
+    "fact": "A Derro member of the Council of Savants is present in one of the two caves near the tunnel entrance, suggesting scholarly or magical influence in the region.",
+    "source_quote": "One of the Derro is a member of the Council of Savants.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "contract burning",
+    "fact": "Zalthir, at Daz\u2019s instruction, breathes fire on the desk, burning the contract; Eldgrim recognizes the contents were committed to memory and considers the destruction beneficial.",
+    "source_quote": "Fool! I should kill you... Contracts that I have committed to memory. Better destroyed.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "contract theft",
+    "fact": "Daz steals the contract from the desk while Eldgrim is distracted, and Thorin later takes it from Daz\u2019s hands, confirming its contents and origin.",
+    "source_quote": "Daz takes the contract while Eldgrim is distracted... Thorin takes the contract from Daz\u2019s hands.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "silent infiltration",
+    "fact": "Thorin leads the group in silence past two caves with invisible soulblades and Derro, then adopts tiptoeing to avoid detection, which Zalthir deems ineffective.",
+    "source_quote": "Thorin turns to Flumph, Jimjar, Sarith, Stool, Eldeth, and Spiderbait and commands them to be quiet. He demonstrates by walking on his tip toes.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "darkness maneuver",
+    "fact": "Zalthir proposes a new plan to use darkness magic to conceal the group\u2019s movement, replacing Thorin\u2019s ineffective tiptoeing.",
+    "source_quote": "I will cover you in Darkness and you will just be quiet.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Assassin\u2019s Redoubt",
+    "fact": "The assassin\u2019s redoubt is a fortified location where contracts are written, stored, and burned; it contains a desk with sealed documents and is guarded by duergar.",
+    "source_quote": "Daz notices a piece of paper on the desk... Eldgrim is flattered and says... The assassin chief walks up to his desk...",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Caves North of Assassin\u2019s Entrance",
+    "fact": "Two invisible soulblades are stationed 50 feet north of the assassin\u2019s redoubt\u2019s entrance, capable of detecting anyone who examines the contract.",
+    "source_quote": "Two more soulblades were invisible in the caves, some 50 feet north of the entrance to the assassin\u2019s.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Derro Caves",
+    "fact": "Two caves guarded by Derro, one of whom is a Council of Savants member, lie along the tunnel route past the assassin\u2019s redoubt.",
+    "source_quote": "There is a tunnel entrance that goes past two caves. The caves have Derro inside. One of the Derro is a member of the Council of Savants.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Glowing Cavern with Mesa",
+    "fact": "A massive cavern, illuminated by faerzress and bioluminescent fungi, contains a central rocky mesa with ramps and a bridge; atop its tiers sit a red egg and a black metal obelisk.",
+    "source_quote": "A massive cave, glowing with faerzress... atop one of those tiers sits a large red egg... atop the other tier stands a 50-foot-tall obelisk...",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "The Contract",
+    "fact": "The contract is a written assassination order bearing the seals of the Deepking and Gracklstugh, listing targets with violent, poetic deaths and petty insults; it was burned but its contents were memorized by Eldgrim.",
+    "source_quote": "Faster this time... BOIL HIM! BOIL HIM IN OIL AND FEED HIM TO ROACHES!... 'Commoner,' 'Ugly,' 'Poor,' 'Wretched'... personal seal of the Deepking and the royal seal of Gracklstugh.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "The Red Egg",
+    "fact": "A large red egg rests atop one tier of the central mesa in the glowing cavern, its significance implied by Grygum\u2019s mutter, 'The egg.'",
+    "source_quote": "The egg... atop one of those tiers sits a large red egg.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "The Obelisk",
+    "fact": "A 50-foot-tall obelisk of smooth black metal with chipped imperfections stands atop the other tier of the mesa, noted by Grygum as 'The obelix.'",
+    "source_quote": "The obelix... there stands a 50-foot-tall obelisk made of smooth black metal with a few noticeable imperfections...",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Deepking\u2019s Targets",
+    "fact": "The contract lists numerous individuals marked for execution with elaborate, cruel methods; their identities and the reason for their targeting remain partially obscured.",
+    "source_quote": "THARGUS IRONHEAD!!!!! HOW DARE HE TRY TO ENCROACH ON MY FAMILY\u2019S BUSINESS????... WERZ SALTBARON... Captain Blackskull... His Arrogance, His Rotundity... LINGRICK XARDELVAR...",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "The Obelisk\u2019s Purpose",
+    "fact": "The black metal obelisk\u2019s imperfections suggest tampering or damage; its origin and function, like the red egg\u2019s, are unexplained but clearly significant.",
+    "source_quote": "The obelix... with a few noticeable imperfections, as though small parts of it were somehow chipped away.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "The Council of Savants\u2019 Role",
+    "fact": "The presence of a Derro Council of Savants member in the caves suggests a hidden scholarly or magical agenda tied to the region\u2019s artifacts and assassins.",
+    "source_quote": "One of the Derro is a member of the Council of Savants.",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The events occur during an active expedition in the Underdark, following the retrieval of the contract and movement toward the glowing cavern.",
+    "source_quote": "Once outside of the assassin\u2019s redoubt... Past the caves they sneaked through... Getting closer, he sees...",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "female derro",
+    "fact": "The female derro is standing close to the obelisk, gently patting and stroking its surface, then snatching an object from the ground and writing in a small notebook.",
+    "source_quote": "The derro squeals with glee as she snatches an object up from the ground, then writes something down in a small notebook.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "small notebook",
+    "fact": "The small notebook is used by the female derro to write something down after snatching an object from the ground.",
+    "source_quote": "writes something down in a small notebook.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "obelisk",
+    "fact": "The obelisk flashes once in response to the faerzress glow around the cavern, reacting to the derro's touch.",
+    "source_quote": "The obelisk flashes once, the glow of faerzress around the cavern flaring in response.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "faerzress",
+    "fact": "Faerzress is the magical glow surrounding the cavern, flaring in response to the obelisk's activation and the derro's actions.",
+    "source_quote": "the glow of faerzress around the cavern flaring in response.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "obelisk activation",
+    "fact": "The obelisk activates, flashing once and causing faerzress to flare, triggered by the derro's physical contact.",
+    "source_quote": "The obelisk flashes once, the glow of faerzress around the cavern flaring in response.",
+    "quote_verified": true
+  }
+]

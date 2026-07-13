@@ -1,0 +1,2301 @@
+[
+  {
+    "type": "date",
+    "subject": "10th day of the 1st Tenday of Myrtul 1493",
+    "fact": "The day on which the Flumph revealed the corruption of the Obelisk, the fall of the Underdark\u2019s peace, and the rise of the Cult of Demogorgon, marking a turning point in the party\u2019s journey.",
+    "source_quote": "10th day of the 1st Tenday of Myrtul 1493",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "date",
+    "subject": "session anchor",
+    "fact": "The events described occur within a single narrative session, with no explicit temporal marker beyond sequence.",
+    "source_quote": "It was then that Thorin and I entered the negotiations.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The events described occur during a session of play following the party\u2019s departure from the Derro hovels and re-entry into the city of blades. The timeline is fluid but anchored by Daz\u2019s journaling practice and the sequence of factional revelations.",
+    "source_quote": "As we leave the Derro hovels and re-enter the city of blades...",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The session occurs on the 10th day of the 1st Tenday of Myrtul 1493 DR.",
+    "source_quote": "10th day of the 1st Tenday of Myrtul 1493",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "blink",
+    "fact": "The blink is a pivotal, unexplained event that caused the Council of Savants to transform from benevolent to corrupt. It is referenced as the origin of their current madness and their alliance with Plinki.",
+    "source_quote": "After the blink, they became crazy.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Buppido\u2019s madness",
+    "fact": "Buppido, the Flumph\u2019s friend, went stark raving mad \u2014 an event that deeply affected the Flumph and may be linked to the increased psychic energy in the region. This trauma underpins the Flumph\u2019s emotional state and its knowledge.",
+    "source_quote": "Ever since my friend Buppido went stark raving mad\u2026",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "cave history transformation",
+    "fact": "The caves were once a hippy place, where Derro and Duergar would come to chill out, party, and be friends. After the Faerzress blinked on and off, it became a place of murder and death and conspiracy.",
+    "source_quote": "The caves were once a hippy place, where Derro and Duergar would come to chill out, party, and be friends. After the Faerzress blinked on and off, it became a place of murder and death and conspiracy.",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Cleric",
+    "fact": "The cleric speaks, 'Let me help with that.'",
+    "source_quote": "Let me help with that.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz says, 'No. Without physical evidence, the word of a Flumph won\u2019t be taken seriously.'",
+    "source_quote": "No. Without physical evidence, the word of a Flumph won\u2019t be taken seriously.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz writes: 'Gartokkar wants proof of the involvement in demonic worship. Bring me the statue of Demogorgon.'",
+    "source_quote": "Gartokkar - \"I want proof of the involvement in demonic worship. Bring me the statue of Demogorgon.\"",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz writes: 'Gartokkar was not against paying for a service\u2014\u201c2000.\u201d'",
+    "source_quote": "Gartokkar - \"2000.\"",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz writes: 'He intended to use the proof of the theft and the proof of the demonic worship to convince the Deepking that it was time to eliminate the scourge of the Derro from the city.'",
+    "source_quote": "He was planning to engage in a genocidal war against the Derro.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz writes: 'If you betray me, there is no cave, no pool of still water, no river, no place in the dark that I will not find you and hunt you down.'",
+    "source_quote": "If you betray me, there is no cave, no pool of still water, no river, no place in the dark that I will not find you and hunt you down.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz writes: 'We secured an upfront payment of 30% of the 2000 gold. Then we secured a confidentiality rider worth another 1000 gold.'",
+    "source_quote": "We secured an upfront payment of 30% of the 2000 gold. Then we secured a confidentiality rider worth another 1000 gold.",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "daz's journal conclusion",
+    "fact": "The path forward is clear and profitable \u2014 leveraging trauma dumps and evidence to negotiate with factions for payment and protection.",
+    "source_quote": "The path forward was clear, and indeed, it was very profitable.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "daz's journal insight",
+    "fact": "Errde wants proof of the Council of Savants' involvement with city madness and evidence about the Empty Scabbard Killers.",
+    "source_quote": "She believes that Droki is somehow helping the Council of Savants, and she wants proof of the Council of Savants' involvement with the corruption in the city. She also wants any actual evidence about the Empty Scabbard Killers.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "empty scabbard killings",
+    "fact": "The Empty Scabbard Killers are assassins whose identities and motives are unknown. Errde seeks physical evidence of their involvement, but none has been presented yet.",
+    "source_quote": "She also wants any actual evidence about the Empty Scabbard Killers.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Faerzress Blink",
+    "fact": "A mysterious, temporary cessation of the Faerzress\u2019s magical twilight, which caused the Underdark to go dark. This event triggered widespread panic, the collapse of social order, and the corruption of former allies into enemies, leading to the current conflict.",
+    "source_quote": "Some months ago, the permanent twilight of the Faerzress stopped, and the cave complex became dark. Everyone was afraid...",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Faerzress Fluctuation",
+    "fact": "The magical light of the Faerzress blinked off, then on brightly, then off again, then returned to normal \u2014 triggering widespread fear, societal collapse, and the transformation of the Underdark from a place of peace to one of violence and conspiracy.",
+    "source_quote": "Some months ago, the permanent twilight of the Faerzress stopped, and the cave complex became dark. Everyone was afraid, and the Faerzress blinked on brightly and then was off. And then it blinked once more, and then it returned to its usual color.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Flumph",
+    "fact": "The Flumph says, 'Absolutely. And don\u2019t worry, although your deaths will be sad, I will absolutely trauma dump on someone else and feel better!'",
+    "source_quote": "Absolutely. And don\u2019t worry, although your deaths will be sad, I will absolutely trauma dump on someone else and feel better!",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Flumph",
+    "fact": "The Flumph says, 'Hello!'",
+    "source_quote": "Hello!",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Flumph",
+    "fact": "The Flumph says, 'I survive by not lEttin g mind flayers know I exist. I just know that the Mind Flayer is there, and that the assassins are also there.'",
+    "source_quote": "I survive by not lEttin g mind flayers know I exist. I just know that the Mind Flayer is there, and that the assassins are also there.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Flumph",
+    "fact": "The Flumph says, 'Oh, right. You didn\u2019t. You thought it.'",
+    "source_quote": "Oh, right. You didn\u2019t. You thought it.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Flumph",
+    "fact": "The Flumph says, 'Plinki has recently converted to the Cult of Demogorgon and wishes to turn the egg into a dual-headed dragon that he can give to his master to ride!'",
+    "source_quote": "Plinki has recently converted to the Cult of Demogorgon and wishes to turn the egg into a dual-headed dragon that he can give to his master to ride!",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Flumph",
+    "fact": "The Flumph says, 'She has four guards.'",
+    "source_quote": "She has four guards.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Flumph",
+    "fact": "The Flumph says, 'Well, look, the Council used to be these nice people, and then after the blink, they became crazy. And now they are working with Plinki to try to summon Demogorgon or make him a two-headed dragon mount! Look, I don\u2019t read their minds. They are psychics, and they use psychic energy, and I feed on it.'",
+    "source_quote": "Well, look, the Council used to be these nice people, and then after the blink, they became crazy. And now they are working with Plinki to try to summon Demogorgon or make him a two-headed dragon mount! Look, I don\u2019t read their minds. They are psychics, and they use psychic energy, and I feed on it.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Flumph",
+    "fact": "The Flumph says, 'You see a creature you have never seen before and have nothing to say? At the very least, don\u2019t you want to know why I am speaking directly into your skulls?'",
+    "source_quote": "You see a creature you have never seen before and have nothing to say? At the very least, don\u2019t you want to know why I am speaking directly into your skulls?",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "flumph feeding behavior",
+    "fact": "We feed on the psychic energy of creatures. We aren\u2019t parasitic like the Mind Flayers; we feed on the residual background energies. And we do tend to meet one too many Mind Flayers. Only the evil creatures.",
+    "source_quote": "We feed on the psychic energy of creatures. We aren\u2019t parasitic like the Mind Flayers; we feed on the residual background energies. And we do tend to meet one too many Mind Flayers. Only the evil creatures.",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "flumph knowledge limitation",
+    "fact": "The Flumph does not read minds. It feeds on psychic energy but cannot access the written content of papers in the obelisk room.",
+    "source_quote": "No. ... I don\u2019t read their minds. They are psychics, and they use psychic energy, and I feed on it.",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "flumph trauma dump mechanism",
+    "fact": "The Flumph lets out all the unpleasant memories inside and into the heroes' minds, and now it feels better.",
+    "source_quote": "I let out all the unpleasant memories inside and into the heroes' minds, and now I feel better!",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "gartokkar's demand",
+    "fact": "Gartokkar wants proof of demonic worship \u2014 specifically, the statue of Demogorgon \u2014 to justify a genocidal war against the Derro.",
+    "source_quote": "I want proof of the involvement in demonic worship. Bring me the statue of Demogorgon.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "gartokkar's secret war motive",
+    "fact": "Gartokkar wants the egg as insurance against Themberchaud and seeks to expose the Council of Savants in a secret war.",
+    "source_quote": "The egg is their insurance policy against Themberchaud. The Keepers of the Flame consider the Council of Savants their worst enemies. And are engaged in a secret war with them.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "gartokkar's threat",
+    "fact": "If betrayed, Gartokkar will hunt the party down in no cave, pool, river, or place in the dark.",
+    "source_quote": "If you betray me, there is no cave, no pool of still water, no river, no place in the dark that I will not find you and hunt you down.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum asks, 'Can you help us?'",
+    "source_quote": "Can you help us?",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum asks, 'Did you say assassins?'",
+    "source_quote": "Did you say assassins?",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum mutters, 'Bahamut commands that I save the egg.'",
+    "source_quote": "Bahamut commands that I save the egg.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum says, 'Flumph, I\u2019ll need you to trauma dump on someone.'",
+    "source_quote": "Flumph, I\u2019ll need you to trauma dump on someone.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum says, 'I agree, but the egg. As a cleric of Bahamut, I must save the egg.'",
+    "source_quote": "I agree, but the egg. As a cleric of Bahamut, I must save the egg.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum says, 'I never said that.'",
+    "source_quote": "I never said that.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum says, 'Make that two trauma dumps.'",
+    "source_quote": "Make that two trauma dumps.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum says, 'What are the strange markings on the egg?'",
+    "source_quote": "What are the strange markings on the egg?",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "mind flayer location",
+    "fact": "The mind flayer lives down a hallway, and the assassins are also there, with a magical light blade that tried to kill the duergar Werz.",
+    "source_quote": "The mind flayer lives down a hallway, and the assassins are also there, with a magical light blade that tried to kill the duergar Werz.",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "negotiation for payment",
+    "fact": "Thorin and Gartokkar negotiated an upfront payment of 30% of 2000 gold and a confidentiality rider worth 1000 gold; an attempt to raise the upfront to half of 3000 failed.",
+    "source_quote": "First, we secured an upfront payment of 30% of the 2000 gold. Then we secured a confidentiality rider worth another 1000 gold. We attempted to raise the upfront fee to half of the 3000, but Gartokkar was not biting.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "negotiation terms with gartokkar",
+    "fact": "An upfront payment of 30% of 2000 gold was secured, plus a confidentiality rider worth another 1000 gold.",
+    "source_quote": "An upfront payment of 30% of the 2000 gold. Then we secured a confidentiality rider worth another 1000 gold.",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Negotiation with Gartokkar",
+    "fact": "A high-stakes bargaining session in which Daz and Thorin secure 30% upfront payment and a confidentiality rider, while Gartokkar demands the Demogorgon statue as proof. The deal reveals Gartokkar\u2019s intent to launch a genocidal campaign against the Derro.",
+    "source_quote": "I want proof of the involvement in demonic worship. Bring me the statue of Demogorgon.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "plinki's plan",
+    "fact": "Plinki has recently converted to the Cult of Demogorgon and wishes to turn the egg into a dual-headed dragon that he can give to his master to ride!",
+    "source_quote": "Plinki has recently converted to the Cult of Demogorgon and wishes to turn the egg into a dual-headed dragon that he can give to his master to ride!",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "themberchaud's insecurity",
+    "fact": "Themberchaud is not sure he is in charge and wants information about what\u2019s going on.",
+    "source_quote": "Themberchaud, the red dragon, believes that the Keepers of the Flame have plans and is not convinced his position is as secure as he wants to believe. More importantly, he\u2019s not sure that he\u2019s in charge. And he wants information about what\u2019s going on.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin knows a barbarian who will rage until every living thing dies, but that is not him.",
+    "source_quote": "although he knows a barbarian who will rage until every living thing dies, that is not him.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin says, 'Everybody we come across here in the Underdark has tried to kill us, so we are wary.'",
+    "source_quote": "Everybody we come across here in the Underdark has tried to kill us, so we are wary.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin says, 'We don\u2019t have the resources to mount a full frontal assault. So we could just return, give the information, and then boogie out of here. We still have a boat. But I still like the plan of escaping on the back of Thermbachaud.'",
+    "source_quote": "We don\u2019t have the resources to mount a full frontal assault. So we could just return, give the information, and then boogie out of here. We still have a boat. But I still like the plan of escaping on the back of Thermbachaud.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "trauma dump",
+    "fact": "A trauma dump is an emotional release experienced by the Flumph after absorbing psychic energy. Each dump reveals fragmented knowledge about factions, locations, and threats. Multiple dumps are now required to build sufficient narrative weight for persuasion.",
+    "source_quote": "Flumph, I\u2019ll need you to trauma dump on someone. ... Make that two trauma dumps.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Trauma Dump",
+    "fact": "The Flumph discharged stored traumatic memories into Zalthir\u2019s mind, revealing the corruption of the Obelisk, the rise of the Cult of Demogorgon, and the fall of the Underdark\u2019s former harmony.",
+    "source_quote": "I let out all the unpleasant memories inside and into the heroes' minds, and now I feel better!",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Trauma Dumping",
+    "fact": "The Flumph\u2019s unique method of transferring stored psychic memories into others to relieve its own emotional burden. It is not an attack, but a violation of psychological boundaries that has profound effects on those who receive the memories.",
+    "source_quote": "I let out all the unpleasant memories inside and into the heroes' minds, and now I feel better!",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "travel to Sloobludop",
+    "fact": "Sloobludop is approximately eight days away via the Darklake.",
+    "source_quote": "the town of Sloopdopblop is just eight days away",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir asks, 'So, can you tell me what was written on the papers in the obelisk room?'",
+    "source_quote": "So, can you tell me what was written on the papers in the obelisk room?",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir mutters, 'No.'",
+    "source_quote": "Zalthir mutters, \"No.\"",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir mutters, 'We were chasing Droki.'",
+    "source_quote": "Zalthir mutters, \"We were chasing Droki.\"",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir remembers Prince Derendil, the mad quagoth, who was a polymorphed elf.",
+    "source_quote": "He remembers Prince Derendil, the mad quagoth, who was a polymorphed elf.",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir says, 'I need a rest.'",
+    "source_quote": "I need a rest.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir says, 'Perhaps you can tell us where they are?'",
+    "source_quote": "Perhaps you can tell us where they are?",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir says, 'They look harmless enough.'",
+    "source_quote": "They look harmless enough.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir says, 'You just trauma dumped on us!'",
+    "source_quote": "You just trauma dumped on us!",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir sees a chamber with a derro that carries the insignia of office of the Council of Savants and the Gray Ghosts.",
+    "source_quote": "Through the side passageway, he sees a chamber with a derro that carries the insignia of office of the Council of Savants and the Gray Ghosts.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir\u2019s head is flooded with images of a chamber with a circular pathway and a pyramid.",
+    "source_quote": "There you saw it! A chamber with a circular pathway and a pyramid.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Assassin\u2019s Guild",
+    "fact": "The Assassin\u2019s Guild operates in the shadows and has targeted key figures, including the duergar Werz, using magical light blades. Their involvement is known through secondhand testimony, but physical proof is lacking. They are also suspected of working with the Council of Savants.",
+    "source_quote": "The assassins are also there. The ones you said had a magical light blade that tried to kill that duergar Werz.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Council of Savants",
+    "fact": "Once a benign group of Derro scholars, the Council of Savants became corrupted after the Faerzress blinked and the Underdark grew dark. Now they collaborate with Plinki to summon Demogorgon and weaponize the egg, abandoning their former ideals.",
+    "source_quote": "After the blink, they became crazy. And now they are working with Plinki to try to summon Demogorgon or make him a two-headed dragon mount!",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Council of Savants",
+    "fact": "The Council of Savants was once a benevolent group but became corrupted after the blink. They are now working with Plinki to summon Demogorgon or turn him into a two-headed dragon mount. They are psychics who emit psychic energy, which the Flumph feeds on. They are the primary enemy of the Keepers of the Flame.",
+    "source_quote": "After the blink, they became crazy. And now they are working with Plinki to try to summon Demogorgon or make him a two-headed dragon mount!",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Council of Savants",
+    "fact": "The Council of Savants were once benevolent scholars, but after the Faerzress blinked, they became corrupted and now conspire with Plinki to summon Demogorgon. They are psychics who feed on psychic energy and are enemies of the Keepers of the Flame.",
+    "source_quote": "The Council used to be these nice people, and then after the blink, they became crazy. And now they are working with Plinki to try to summon Demogorgon or make him a two-headed dragon mount!",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Council of Savants and the Gray Ghosts",
+    "fact": "A scholarly and secretive faction whose former members once coexisted peacefully with Duergar in the Underdark, now represented by a Derro carrying their insignia in a corrupted cave complex.",
+    "source_quote": "Through the side passageway, he sees a chamber with a derro that carries the insignia of office of the Council of Savants and the Gray Ghosts.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Cult of Demogorgon",
+    "fact": "A fanatical, blood-soaked cult that has infiltrated the Derro leadership under Plinki\u2019s influence. It seeks to use the egg to create a living dragon mount for Demogorgon, turning a symbol of potential life into a weapon of chaos.",
+    "source_quote": "Plinki has recently converted to the Cult of Demogorgon and wishes to turn the egg into a dual-headed dragon that he can give to his master to ride!",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Cult of Demogorgon",
+    "fact": "The Cult of Demogorgon is a corrupting force in the Underdark, led by Plinki, seeking to transform the egg into a dual-headed dragon mount. It is allied with the Council of Savants and the Gray Ghosts.",
+    "source_quote": "Plinki has recently converted to the Cult of Demogorgon and wishes to turn the egg into a dual-headed dragon that he can give to his master to ride!",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Cult of Demogorgon",
+    "fact": "The Cult of Demogorgon is an evil organization led by Plinki, who seeks to corrupt a mysterious egg into a dual-headed dragon to present as a mount to his dark master.",
+    "source_quote": "Plinki has recently converted to the Cult of Demogorgon and wishes to turn the egg into a dual-headed dragon that he can give to his master to ride!",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Derro",
+    "fact": "Derro were once peaceful hippies in the Underdark, but after the Faerzress blinked, they became violent and were drawn into the Cult of Demogorgon. Plinki and the Council of Savants are now leading them toward genocide.",
+    "source_quote": "The caves were once a hippy place, where Derro and Duergar would come to chill out, party, and be friends. ... Gartokkar was planning to engage in a genocidal war against the Derro.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Derro",
+    "fact": "The Derro are the intended target of Gartokkar\u2019s genocidal campaign, framed as a purge of a scourge from the city.",
+    "source_quote": "He was planning to engage in a genocidal war against the Derro.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Duergar",
+    "fact": "Duergar were once peaceful companions to Derro in the Underdark, but after the Faerzress blinked, they became enemies. Werz was targeted by assassins, indicating internal conflict.",
+    "source_quote": "The caves were once a hippy place, where Derro and Duergar would come to chill out, party, and be friends.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Duergar",
+    "fact": "The Duergar are slyly aware of Gartokkar\u2019s mercantile nature and are complicit in his genocidal scheme against the Derro.",
+    "source_quote": "The duergar smiled slyly when he realized we were as mercantile as he was.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Empty Scabbard Killers",
+    "fact": "A mysterious assassin guild that operates in the Underdark, responsible for targeted killings including that of Duergar Werz. Their connection to the Council of Savants and Grey Ghosts remains unclear, but they are feared and avoided by most.",
+    "source_quote": "The Empty Scabbard Killers. She also wants any actual evidence about the Empty Scabbard Killers.",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Empty Scabbard Killers",
+    "fact": "A violent faction now engaged in war against the Cult of Demogorgon in the former peaceful mesa (Area 5), likely remnants of a once-harmonious community turned hostile.",
+    "source_quote": "The mesa (Area 5) was once a place where folks got together to get drunk and party, but now it was a war zone between the forces of the cult of Demogorgon and the empty scabbard killers.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Empty Scabbard Killers",
+    "fact": "The Empty Scabbard Killers are an assassin guild active in the Underdark. They are responsible for targeting Duergar Werz and are engaged in a war with the Cult of Demogorgon.",
+    "source_quote": "The ones you said had a magical light blade that tried to kill that duergar Werz. ... The mesa (Area 5) was once a place where folks got together to get drunk and party, but now it was a war zone between the forces of the cult of Demogorgon and the empty scabbard killers.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Gray Ghosts",
+    "fact": "The Gray Ghosts are a secretive organization allied with the Council of Savants. They carry the insignia of office and are involved in the corruption of the egg and the assassination of Duergar Werz.",
+    "source_quote": "Through the side passageway, he sees a chamber with a derro that carries the insignia of office of the Council of Savants and the Gray Ghosts.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Grey Ghosts",
+    "fact": "The Grey Ghosts are a secretive, possibly assassin-linked organization allied with the Council of Savants. They are feared for their magical blades and their role in the murder of Duergar Werz, and their presence suggests a deeper conspiracy within the Underdark\u2019s power structures.",
+    "source_quote": "The ones you said had a magical light blade that tried to kill that duergar Werz.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Grey Ghosts",
+    "fact": "The Grey Ghosts are an elusive organization suspected of engaging in evil activities. Evidence of their actions has been found, but it is not yet physical. They are believed to be connected to the city\u2019s growing madness and are a target of Errde\u2019s investigation.",
+    "source_quote": "We found evidence of the Grey Ghosts doing something evil.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Keepers of the Flame",
+    "fact": "Gartokkar Xundorn leads the Keepers of the Flame, a secretive order engaged in a hidden war with the Council of Savants. Their primary objective is to secure the egg as insurance against Themberchaud. They seek exposure of the Council\u2019s corruption and consider them their worst enemies.",
+    "source_quote": "The egg is their insurance policy against Themberchaud.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Keepers of the Flame",
+    "fact": "The Keepers of the Flame are a faction dedicated to eliminating the Derro and exposing the Council of Savants. They seek the egg as insurance against Themberchaud and demand proof of demonic worship to justify war.",
+    "source_quote": "Gartokkar Xundom of the Keepers of the Flame also wants the Grey Ghosts dead. But more importantly, wants the egg. The egg is their insurance policy against Themberchaud. The Keepers of the Flame consider the Council of Savants their worst enemies.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Keepers of the Flame",
+    "fact": "The Keepers of the Flame are a fanatical faction devoted to protecting the egg as insurance against Themberchaud. They view the Council of Savants as their greatest enemy and are prepared to launch a genocidal war against the Derro to eliminate them, using demonic worship as justification.",
+    "source_quote": "They, too, want the Council of Savants exposed.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Mind Flayers",
+    "fact": "Mind Flayers are psychic predators that the Flumph avoids. They are known to be dangerous and are associated with the hallway where the Flumph hides.",
+    "source_quote": "I survive by not letting mind flayers know I exist. I just know that the Mind Flayer is there... They are quite dangerous!",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Stone Guards (Errde)",
+    "fact": "Errde, leader of the Stone Guards, publicly believes the Council of Savants and Grey Ghosts are responsible for the city\u2019s madness. She secretly avoids acknowledging that assassins have targeted her clan. She demands physical evidence of the Council\u2019s corruption and proof of the Empty Scabbard Killers\u2019 involvement.",
+    "source_quote": "She wants proof of the Council of Savants' involvement with the corruption in the city. She also wants any actual evidence about the Empty Scabbard Killers.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Themberchaud",
+    "fact": "Themberchaud, the red dragon, is insecure about his authority and suspects the Keepers of the Flame have plans against him. He desires intelligence on the inner workings of the Council of Savants and the egg\u2019s significance, though he does not directly engage with the party.",
+    "source_quote": "He\u2019s not sure that he\u2019s in charge. And he wants information about what\u2019s going on.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Cave to the Southwest",
+    "fact": "The cave to the southwest opens into a natural chamber where myconids and sprouts dance silently. It is the location where Zalthir encounters the myconids and observes their behavior.",
+    "source_quote": "The cave to the southwest beckons. And so he heads out to see what can be found. The tunnel opens into a natural cave, where several fungi dance to a silent tune. Three are five feet tall, and the others are half as tall.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Cave with the Obelisk",
+    "fact": "A dangerous underground chamber containing a powerful obelisk being manipulated by Plinki to create a dual-headed dragon, accessible via a main entrance and a side passageway.",
+    "source_quote": "There you saw it! A chamber with a circular pathway and a pyramid. The one known as Plinki has found this mighty and tasty obelisk and has been trying to make it do something evil.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "City of Blades",
+    "fact": "The City of Blades is the surface-level urban center where Daz and the party return after exploring the Underdark. It is a place of intrigue, where Errde and Gartokkar operate.",
+    "source_quote": "As we leave the Derro hovels and re-enter the city of blades...",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "council guard strength",
+    "fact": "The Council member has four guards.",
+    "source_quote": "She has four guards.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Council of Savants Chamber",
+    "fact": "The Council of Savants Chamber is guarded by four individuals and contains the insignia of office of the Council of Savants and the Gray Ghosts. It is a site of dark ritual and conspiracy tied to the Cult of Demogorgon.",
+    "source_quote": "Through the side passageway, he sees a chamber with a derro that carries the insignia of office of the Council of Savants and the Gray Ghosts.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Cult of Demogorgon Sanctuary",
+    "fact": "A hidden sanctuary where Plinki and the Council of Savants perform rituals to corrupt the egg into a dual-headed dragon. The sanctuary is protected by the Gray Ghosts and guarded by four individuals.",
+    "source_quote": "Plinki has recently converted to the Cult of Demogorgon and wishes to turn the egg into a dual-headed dragon that he can give to his master to ride!",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Derro hovels",
+    "fact": "The Derro hovels are a place recently departed from, marking the transition back into the city of blades. Their atmosphere is oppressive and tied to the broader decay of the city.",
+    "source_quote": "As we leave the Derro hovels and re-enter the city of blades...",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Derro Hovels",
+    "fact": "The impoverished, chaotic settlements of the Derro, now abandoned or repurposed by cultists. They serve as the entry point to the deeper, more dangerous parts of the cave system.",
+    "source_quote": "As we leave the Derro hovels and re-enter the city of blades...",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Mesa (Area 5)",
+    "fact": "A former party and social hub in the Underdark, now a battleground between the Cult of Demogorgon and the Empty Scabbard Killers. Its transformation symbolizes the collapse of peace and the rise of ideological violence.",
+    "source_quote": "The mesa (Area 5) was once a place where folks got together to get drunk and party, but now it was a war zone...",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Mesa (Area 5)",
+    "fact": "Mesa (Area 5) was once a social hub for Derro and Duergar to party and drink, but after the Faerzress blinked, it became a war zone between the Cult of Demogorgon and the Empty Scabbard Killers.",
+    "source_quote": "The mesa (Area 5) was once a place where folks got together to get drunk and party, but now it was a war zone between the forces of the cult of Demogorgon and the empty scabbard killers.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Mesa (Area 5)",
+    "fact": "Once a peaceful gathering place for Derro and Duergar to party and socialize, now a war zone between the Cult of Demogorgon and the Empty Scabbard Killers after the Faerzress altered.",
+    "source_quote": "The mesa (Area 5) was once a place where folks got together to get drunk and party, but now it was a war zone between the forces of the cult of Demogorgon and the empty scabbard killers.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "mesa area 5 transformation",
+    "fact": "The mesa (Area 5) was once a place where folks got together to get drunk and party, but now it was a war zone between the forces of the cult of Demogorgon and the empty scabbard killers.",
+    "source_quote": "The mesa (Area 5) was once a place where folks got together to get drunk and party, but now it was a war zone between the forces of the cult of Demogorgon and the empty scabbard killers.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Mind Flayer Hallway",
+    "fact": "A hallway leads to the lair of a Mind Flayer, which the Flumph avoids by remaining undetected. The hallway is also used by assassins and is near the location where the Duergar Werz was targeted.",
+    "source_quote": "I survive by not letting mind flayers know I exist. I just know that the Mind Flayer is there, and that the assassins are also there. The ones you said had a magical light blade that tried to kill that duergar Werz.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Obelisk Chamber",
+    "fact": "A hidden room within the Whorlstone Caves containing a mysterious obelisk and the egg. It is guarded by the Council of Savants and the Grey Ghosts, and is the focal point of Plinki\u2019s demonic ritual. Papers within the room contain forbidden knowledge, though the Flumph cannot read them.",
+    "source_quote": "A chamber with a circular pathway and a pyramid. The one known as Plinki has found this mighty and tasty obelisk and has been trying to make it do something evil.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Obelisk Chamber",
+    "fact": "The Obelisk Chamber contains a circular pathway and a pyramid-shaped obelisk. It is the site where Plinki is attempting to corrupt an egg into a dual-headed dragon mount. Papers and artifacts related to the Council of Savants and the Gray Ghosts are present.",
+    "source_quote": "There you saw it! A chamber with a circular pathway and a pyramid. The one known as Plinki has found this mighty and tasty obelisk and has been trying to make it do something evil.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "obelisk chamber access",
+    "fact": "There are two ways into the cave with the Obelisk: the main entrance and a side passageway.",
+    "source_quote": "There are two ways into the cave with the Obelisk: the main entrance and a side passageway.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "obelisk room",
+    "fact": "The obelisk room contains papers with critical information, but the Flumph cannot recall their contents. Their text is a potential source of physical evidence, but remains inaccessible.",
+    "source_quote": "What was written on the papers in the obelisk room? ... No.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "seedy bar",
+    "fact": "The seedy bar is where the rest of the crew is currently holed up. It serves as their base of operations and potential recruitment point for weapons from Errde.",
+    "source_quote": "We have the rest of the crew holed up in a seedy bar.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Seedy Bar",
+    "fact": "The seedy bar is where the rest of the crew is holed up. It serves as a base for planning and a potential source of weapons from Errde.",
+    "source_quote": "We have the rest of the crew holed up in a seedy bar. We could get them weapons from Errde. She was willing to give us a lot of weapons.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Underdark Fungi Forest",
+    "fact": "A surreal, eerie forest of giant fungi and myconids, where the environment itself seems affected by the madness of the Underdark.",
+    "source_quote": "And so he continues through the eerie fungi forest, following Droki\u2019s trail.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Velkynvelve",
+    "fact": "Velkynvelve is the place from which Daz escaped, marking the beginning of his journaling habit and his transformation into a strategic thinker.",
+    "source_quote": "This practice became a regular habit since his escape from Velkynvelve.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Velkynvelve elevation",
+    "fact": "Velkynvelve sits 100 feet above the cavern floor.",
+    "source_quote": "Drow outpost was 100' in the sky",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Whorlstone Caves",
+    "fact": "A vast, ancient cave network once used as a peaceful gathering place for Derro and Duergar. After the Faerzress blinked and faded, it became a war zone between cultists, assassins, and corrupted factions. It now houses the Obelisk, the egg, and the Council of Savants\u2019 hidden chamber.",
+    "source_quote": "The mesa (Area 5) was once a place where folks got together to get drunk and party, but now it was a war zone between the forces of the cult of Demogorgon and the empty scabbard killers.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Whorlstone Caves",
+    "fact": "The Whorlstone Caves are a complex of underground chambers once used as a hippy gathering place by Derro and Duergar. After the Faerzress blinked and changed, the caves became a war zone between the Cult of Demogorgon and the Empty Scabbard Killers. The main entrance and a side passageway lead to the Obelisk Chamber.",
+    "source_quote": "The caves were once a hippy place, where Derro and Duergar would come to chill out, party, and be friends. Some months ago, the permanent twilight of the Faerzress stopped, and the cave complex became dark. Everyone was afraid, and the Faerzress blinked on brightly and then was off. And then it blinked once more, and then it returned to its usual color. But something had changed, and soon the various hippy friends stopped being friends. Instead of being a place of friendship, a place where folks could be happy, it became a place of murder and death and conspiracy. The mesa (Area 5) was once a place where folks got together to get drunk and party, but now it was a war zone between the forces of the cult of Demogorgon and the empty scabbard killers.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Whorlstone Caves",
+    "fact": "The Whorlstone Caves are a contested location where key factions hide. Gartokkar and Errde cannot enter without triggering war \u2014 Gartokkar because it would reveal his power\u2019s fragility, and Errde because it would expose her incompetence as city guardian.",
+    "source_quote": "Gartokkar and Errde can\u2019t get into the Whorlstone Caves without triggering a war.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "chasme count",
+    "fact": "Three are five feet tall, and the others are half as tall. One of the small ones stands apart from the rest.",
+    "source_quote": "Three are five feet tall, and the others are half as tall. One of the small ones stands apart from the rest.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Demogorgon",
+    "fact": "Demogorgon is a primordial demon lord sought to be summoned by the Council of Savants and Plinki. They aim to turn it into a two-headed dragon mount, indicating a blasphemous fusion of psionics and demonic power.",
+    "source_quote": "They are working with Plinki to try to summon Demogorgon or make him a two-headed dragon mount!",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Derro",
+    "fact": "A subterranean race of twisted, mad inventors and scholars, once part of a peaceful community. Now fractured and corrupted, they serve as both victims and perpetrators in the Underdark\u2019s descent into violence and cultism.",
+    "source_quote": "The caves were once a hippy place, where Derro and Duergar would come to chill out, party, and be friends.",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "derro insignia",
+    "fact": "A derro carries the insignia of office of the Council of Savants and the Gray Ghosts.",
+    "source_quote": "a derro that carries the insignia of office of the Council of Savants and the Gray Ghosts",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Flumph",
+    "fact": "A flumph is a gelatinous, floating creature with eye-tentacles that emits a \u2018flumph\u2019 sound, feeds on residual psychic energy, and communicates telepathically with a pleasant voice.",
+    "source_quote": "The creature looks like a mushroom cap with two tentacles that have eye sockets at their end. And below the mushroom cap are tentacles that float. The creature vents gases, making a \u201cflumph\u201d sound.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Flumph",
+    "fact": "A non-aggressive, psychic-feeding creature resembling a mushroom cap with floating tentacles and eye sockets. It communicates telepathically, emits a flumph sound, and feeds on residual psychic energy. It is harmless but traumatizing due to its trauma-dumping behavior.",
+    "source_quote": "I am a flumph. And my kind feeds on the psychic energy of creatures. We aren\u2019t parasitic like the Mind Flayers; we feed on the residual background energies.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "flumph color shifts",
+    "fact": "The Flumph turns dark blue before trauma dumping, teal after, pink when amused, green when explaining, purple when waiting, and magenta when revealing mind flayer presence.",
+    "source_quote": "The Flumph turns dark blue before trauma dumping, teal after, pink when amused, green when explaining, purple when waiting, and magenta when revealing mind flayer presence.",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "flumph description",
+    "fact": "The creature looks like a mushroom cap with two tentacles that have eye sockets at their end. And below the mushroom cap are tentacles that float. The creature vents gases, making a 'flumph' sound.",
+    "source_quote": "The creature looks like a mushroom cap with two tentacles that have eye sockets at their end. And below the mushroom cap are tentacles that float. The creature vents gases, making a 'flumph' sound.",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Gartokkar's threat",
+    "fact": "Gartokkar threatens violent retribution against betrayal, implying supernatural tracking ability in dark places.",
+    "source_quote": "If you betray me, there is no cave, no pool of still water, no river, no place in the dark that I will not find you and hunt you down.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "mind flayer",
+    "fact": "A mind flayer is a psychic predator that releases powerful energy detectable by the Flumph. It is known to reside down a hallway and has been indirectly observed through the Flumph\u2019s trauma dumps. It is dangerous and connected to the broader conspiracy.",
+    "source_quote": "The Flumph had found a tasty snack in the psychic energy released by a mind flayer.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Mind Flayer",
+    "fact": "A psychic predator that lives in the Underdark and feeds on brains. It is feared by the Flumph, who survives by remaining undetected. Its presence indicates a deeper layer of danger within the cave complex.",
+    "source_quote": "I survive by not letting mind flayers know I exist. I just know that the Mind Flayer is there.",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Myconids",
+    "fact": "Myconids are sentient fungal beings in the Underdark, capable of silent movement and communal behavior, with sprouts being their juvenile forms.",
+    "source_quote": "These are myconids. And those little ones are sprouts, like stool.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Myconids",
+    "fact": "Sentient fungal beings that inhabit the Underdark, including adult myconids and juvenile sprouts. They are peaceful, silent, and dance in a way that seems unnatural to outsiders. Their presence suggests the area was once a haven before the Faerzress blink.",
+    "source_quote": "These are myconids. And those little ones are sprouts, like stool.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Quagoths",
+    "fact": "Large, monstrous servants of the Underdark, likely bound to the Council of Savants. They are described as having a connection to Prince Derendil, a mad polymorphed elf, suggesting a history of magical corruption and experimentation.",
+    "source_quote": "Behind the myconids are two spore servants; from their looks, they are quagoths.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Quagoths",
+    "fact": "Quagoths are monstrous, amphibious creatures of the Underdark, possibly once peaceful but now associated with madness and corruption, exemplified by Prince Derendil, a polymorphed elf.",
+    "source_quote": "Behind the myconids are two spore servants; from their looks, they are quagoths. For a moment, he remembers Prince Derendil, the mad quagoth, who was a polymorphed elf.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Buppido",
+    "fact": "Buppido was a Flumph who went stark raving mad, possibly due to exposure to psychic energy from the Council of Savants. His fate is referenced by the current Flumph as a cautionary tale.",
+    "source_quote": "Ever since my friend Buppido went stark raving mad\u2026",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz began mentally composing journal entries as a habit since his escape from Velkynvelve.",
+    "source_quote": "Daz, a thoughtful magician and long-time student of magic, was inspired by a commentator on Milo Goodbarrel's practice of writing daily... This practice became a regular habit since his escape from Velkynvelve.",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a meticulous, journal-keeping magician who analyzes factions, motives, and profit potential with cold logic. He sees the mission not as heroism but as a negotiable contract, and he structures every interaction around leverage, payment, and confidentiality.",
+    "source_quote": "The path forward was clear, and indeed, it was very profitable.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a thoughtful magician and former student of Velkynvelve who practices daily journaling inspired by Milo Goodbarrel. He analyzes factional motivations and negotiates terms with patrons, securing payment and confidentiality agreements for the party\u2019s mission.",
+    "source_quote": "Daz, a thoughtful magician and long-time student of magic, was inspired by a commentator on Milo Goodbarrel's practice of writing daily. This practice became a regular habit since his escape from Velkynvelve. ... As Daz pens the last paragraph, he smiles. The path forward was clear, and indeed, it was very profitable.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a thoughtful magician and long-time student of magic who practices daily journaling inspired by Milo Goodbarrel. He analyzes factional motivations and strategic opportunities with precision, and has deduced a profitable path forward involving evidence-based persuasion rather than direct confrontation.",
+    "source_quote": "The path forward was clear, and indeed, it was very profitable.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz smiles and shifts focus to negotiating with Errde after the transaction with Gartokkar.",
+    "source_quote": "Daz smiles, \u201cTime to talk to Errde and negotiate terms with her.\u201d",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Daz's Journal",
+    "fact": "Daz's journal is a continuous record of his thoughts, analyses, and plans, written daily since his escape from Velkynvelve. It documents factional motivations, negotiations, and the party\u2019s path forward.",
+    "source_quote": "*As we leave the Derro hovels and re-enter the city of blades, Zalthir\u2019s question of what to do next is pressing. ... As Daz pens the last paragraph, he smiles. The path forward was clear, and indeed, it was very profitable.*",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Derendil",
+    "fact": "Derendil was a mad Quagoth, once a polymorphed elf, whose memory is invoked by Zalthir when observing the spore servants.",
+    "source_quote": "He remembers Prince Derendil, the mad quagoth, who was a polymorphed elf.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Droki",
+    "fact": "Droki is a Derro of habit, whose trail is easy to follow. It is associated with the Cult of Demogorgon and is involved in efforts to transform an egg into a dual-headed dragon mount for its master.",
+    "source_quote": "We were chasing Droki. The Derro is a creature of habit. Plinki has recently converted to the Cult of Demogorgon and wishes to turn the egg into a dual-headed dragon that he can give to his master to ride!",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Droki",
+    "fact": "Droki is a Derro of the Council of Savants who carries the insignia of office and is actively working with Plinki to summon Demogorgon. His trail is easy to follow, and he represents the institutional corruption of the Derro civilization.",
+    "source_quote": "Through the side passageway, he sees a chamber with a derro that carries the insignia of office of the Council of Savants and the Gray Ghosts.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Errde",
+    "fact": "Errde is the guarded guardian of the city\u2019s Stone Guards, pretending ignorance of assassins targeting her clan. She seeks concrete evidence linking the Council of Savants and Grey Ghosts to the city\u2019s madness, and is open to weapon deals\u2014but only with undeniable proof.",
+    "source_quote": "She believes that Droki is somehow helping the Council of Savants, and she wants proof of the Council of Savants' involvement with the corruption in the city.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Errde",
+    "fact": "Errde of the Stone Guards believes the Council of Savants and the Gray Ghosts are behind the city\u2019s madness and wants physical evidence of their involvement with the Empty Scabbard Killers. She is willing to provide weapons but requires proof to justify action.",
+    "source_quote": "Errde of the Stone Guards believes the Council of Savants and the Grey Ghosts are behind the increasing madness of the city. She is also pretending not to think that assassins have targeted her clan. She believes that Droki is somehow helping the Council of Savants, and she wants proof of the Council of Savants' involvement with the corruption in the city. She also wants any actual evidence about the Empty Scabbard Killers.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Flumph",
+    "fact": "The Flumph feeds on the psychic energy of creatures, not parasitically like Mind Flayers, but on residual background energies.",
+    "source_quote": "I am a flumph. And my kind feeds on the psychic energy of creatures. We aren\u2019t parasitic like the Mind Flayers; we feed on the residual background energies.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Flumph",
+    "fact": "The Flumph is a creature that feeds on psychic energy, specifically residual background energies, and releases trauma by dumping memories into the minds of others. It is known for its color-shifting behavior and makes a 'flumph' sound when moving. It is not parasitic like Mind Flayers and avoids evil creatures, which it identifies by their acts of torture, abuse, feeding, or other horrific behaviors.",
+    "source_quote": "I am a flumph. Or at least that\u2019s what others call us because we make a flumph sound when we move. We feed on the psychic energy of creatures. We aren\u2019t parasitic like the Mind Flayers; we feed on the residual background energies. And we do tend to meet one too many Mind Flayers. And Gith. Only the evil creatures. The evildoers are typically torturing, abusing, feeding, or doing other horrible things.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Flumph",
+    "fact": "The Flumph is a non-hostile, psychic-feeding creature that relieves its own emotional burden by trauma-dumping memories into others. It is socially awkward, emotionally transparent, and communicates through color shifts. It is not malicious, but its method is deeply unsettling to those unprepared for psychic intrusion.",
+    "source_quote": "I let out all the unpleasant memories inside and into the heroes' minds, and now I feel better!",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Flumph",
+    "fact": "The Flumph is a psychic energy feeder who experiences trauma dumps as emotional release. It has knowledge of hidden factions \u2014 including the Council of Savants, Grey Ghosts, assassins, and mind flayers \u2014 but cannot read minds directly. It feeds on psychic energy and is emotionally bonded to the memory of its deceased friend Buppido.",
+    "source_quote": "Ever since my friend Buppido went stark raving mad\u2026",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Flumph",
+    "fact": "The Flumph is known as a flumph because it makes a flumph sound when it moves.",
+    "source_quote": "I am known as a flumph. Or at least that\u2019s what others call us because we make a flumph sound when we move.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Flumph",
+    "fact": "The Flumph remembers that the caves were once a hippy place where Derro and Duergar would come to chill out, party, and be friends.",
+    "source_quote": "The caves were once a hippy place, where Derro and Duergar would come to chill out, party, and be friends.",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Flumph",
+    "fact": "The Flumph says evildoers are typically torturing, abusing, feeding, or doing other horrible things.",
+    "source_quote": "Well, the evildoers are typically torturing, abusing, feeding, or doing other horrible things.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Flumph",
+    "fact": "The Flumph says the mesa (Area 5) was once a place where folks got together to get drunk and party, but now it is a war zone between the forces of the cult of Demogorgon and the empty scabbard killers.",
+    "source_quote": "The mesa (Area 5) was once a place where folks got together to get drunk and party, but now it was a war zone between the forces of the cult of Demogorgon and the empty scabbard killers.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Flumph",
+    "fact": "The Flumph says, 'Trauma Dump? Why yes! That\u2019s what I do. I let out all the unpleasant memories inside and into the heroes' minds, and now I feel better!'",
+    "source_quote": "Trauma Dump? Why yes! That\u2019s what I do. I let out all the unpleasant memories inside and into the heroes' minds, and now I feel better!",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Gartokkar",
+    "fact": "Gartokkar is a mercantile and vengeful figure who demands proof of demonic worship and seeks to eliminate the Derro, but is open to payment for services.",
+    "source_quote": "Gartokkar \u2014 \u201cYou had some helpers, use them.\u201d\nGartokkar \u2014 \u201cI could give them badges!\u201d\nGartokkar \u2014 \u201cCompensation? COMPENSATION.\u201d\nGartokkar \u2014 \u201cI want proof of the involvement in demonic worship. Bring me the statue of Demogorgon.\u201d\nGartokkar \u2014 \u201c2000.\u201d",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Gartokkar\u2019s Bargain",
+    "fact": "Gartokkar negotiated a payment of 2000 gold, with an upfront 30% and a confidentiality rider worth 1000 gold, in exchange for retrieving the statue of Demogorgon as proof of demonic worship.",
+    "source_quote": "2000. ... First, we secured an upfront payment of 30% of the 2000 gold. Then we secured a confidentiality rider worth another 1000 gold.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Gartokkar Xundorn",
+    "fact": "Gartokkar Xundorn is the leader of the Keepers of the Flame, who seeks proof of the Council of Savants' demonic worship to justify a genocidal war against the Derro. He demands the statue of Demogorgon as evidence and negotiates payment in gold with confidentiality riders.",
+    "source_quote": "I want proof of the involvement in demonic worship. Bring me the statue of Demogorgon. ... 2000. ... If you betray me, there is no cave, no pool of still water, no river, no place in the dark that I will not find you and hunt you down.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Gartokkar Xundorn",
+    "fact": "Gartokkar is the leader of the Keepers of the Flame, a secretive faction obsessed with the egg as insurance against Themberchaud. He is calculating, ruthless, and willing to ignite genocide against the Derro to achieve political dominance, all while negotiating like a merchant.",
+    "source_quote": "I want proof of the involvement in demonic worship. Bring me the statue of Demogorgon.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum believes Bahamut is the god of good dragons and that chromatic dragons are not inherently evil.",
+    "source_quote": "Bahamut is the god of good dragons. He is committed to the principle that dragons have free will and that the pigmentation of their scales doesn\u2019t pre-determine their personality. This idea that chromatic dragons are evil is the greatest evil.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is a cleric of Bahamut driven by a sacred duty to protect the egg and oppose the corruption of free will through chromatic dragon prejudice. He is practical, morally rigid, and uses trauma dumping as a tool to rally allies, even if it forces others to bear emotional burdens.",
+    "source_quote": "As a cleric of Bahamut, I must save the egg. Bahamut commands that I save the egg.",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is a cleric of Bahamut, committed to the principle that dragons have free will and that scale pigmentation does not determine personality. He believes the notion that chromatic dragons are evil is the greatest evil. He is determined to save the egg, even at great personal risk.",
+    "source_quote": "Bahamut commands that I save the egg.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is an orc cleric of Bahamut, committed to the principle that dragons have free will and that scale pigmentation does not determine morality. He is determined to save the egg from corruption and believes the Cult of Demogorgon's actions are the greatest evil.",
+    "source_quote": "As a cleric of Bahamut, I must save the egg. Bahamut is the god of good dragons. He is committed to the principle that dragons have free will and that the pigmentation of their scales doesn\u2019t pre-determine their personality. This idea that chromatic dragons are evil is the greatest evil.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is an orc who is emotionally resilient to trauma and operates with practicality, having seen worse horrors than those revealed by the Flumph.",
+    "source_quote": "The trauma dumping seems to affect Thorin, but Grygum is an orc, and a practical creature, and quite frankly, he\u2019s seen worse.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is an orc, and a practical creature, and quite frankly, he\u2019s seen worse.",
+    "source_quote": "Grygum is an orc, and a practical creature, and quite frankly, he\u2019s seen worse.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum led the party to the Keeper of the Flame and initiated the request for assistance.",
+    "source_quote": "Grygum \u2014 \u201cWe need some help.\u201d",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Milo Goodbarrel",
+    "fact": "Milo Goodbarrel is a writer whose daily journaling practice inspired Daz to begin mentally composing his own journal entries to improve his writing.",
+    "source_quote": "Daz, a thoughtful magician and long-time student of magic, was inspired by a commentator on Milo Goodbarrel's practice of writing daily.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Myconids",
+    "fact": "Myconids are sentient fungal beings, some five feet tall, others half as tall. One small myconid stands apart from the rest. They are described by Stool as not dancing frantically.",
+    "source_quote": "These are myconids. And those little ones are sprouts, like stool. Stool described myconids and never described them as dancing frantically.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Plinki",
+    "fact": "Plinki is a Derro who has converted to the Cult of Demogorgon and is attempting to transform an egg into a dual-headed dragon mount. He is working with the Council of Savants and the Gray Ghosts to summon Demogorgon.",
+    "source_quote": "Plinki has recently converted to the Cult of Demogorgon and wishes to turn the egg into a dual-headed dragon that he can give to his master to ride!",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Plinki",
+    "fact": "Plinki is a Derro zealot who has converted to the Cult of Demogorgon and seeks to transform a mysterious egg into a dual-headed dragon mount for his dark master. He is the primary antagonist driving the corruption of the cave complex.",
+    "source_quote": "Plinki has recently converted to the Cult of Demogorgon and wishes to turn the egg into a dual-headed dragon that he can give to his master to ride!",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Spore Servants",
+    "fact": "Spore servants are two creatures resembling Quagoths, observed by Zalthir near the myconids. Their appearance suggests a connection to the mad Quagoth Derendil.",
+    "source_quote": "Behind the myconids are two spore servants; from their looks, they are quagoths.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Sprouts",
+    "fact": "Sprouts are juvenile myconids, smaller than their adult counterparts. One stands apart from the rest, suggesting individuality or possible sentience.",
+    "source_quote": "These are myconids. And those little ones are sprouts, like stool.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Stool",
+    "fact": "Stool is a reference figure whose writings describe myconids as not dancing frantically. Zalthir uses Stool\u2019s observations to interpret the behavior of the myconids.",
+    "source_quote": "Stool described myconids and never described them as dancing frantically.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "The Flumph",
+    "fact": "The Flumph is a psychic energy-feeder from the Underdark that relieves itself by trauma-dumping painful memories into the minds of others, and identifies as non-parasitic, non-evil, and distinct from Mind Flayers.",
+    "source_quote": "I am a flumph. And my kind feeds on the psychic energy of creatures. We aren\u2019t parasitic like the Mind Flayers; we feed on the residual background energies.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Themberchaud",
+    "fact": "Themberchaud is a red dragon who feels insecure in his power and suspects the Keepers of the Flame are plotting against him. He is not directly involved in the current events but is a looming political variable whose perception of threat may shift the balance of power.",
+    "source_quote": "He\u2019s not sure that he\u2019s in charge. And he wants information about what\u2019s going on.",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Themberchaud",
+    "fact": "Themberchaud is a red dragon who is insecure about his authority and seeks information on the Keepers of the Flame\u2019s plans. He is not convinced of his own control over the Underdark.",
+    "source_quote": "Themberchaud, the red dragon, believes that the Keepers of the Flame have plans and is not convinced his position is as secure as he wants to believe. More importantly, he\u2019s not sure that he\u2019s in charge. And he wants information about what\u2019s going on.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin challenged Gartokkar's refusal to employ helpers and later entered negotiations for payment and confidentiality.",
+    "source_quote": "Thorin \u2014 \u201cYou are not employing them.\u201d",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is a battle-worn barbarian who distrusts all Underdark inhabitants due to past violence, but is not inherently cruel. He prefers escape over confrontation and clings to the idea of fleeing on Thermbachaud\u2019s back as a viable solution to every problem.",
+    "source_quote": "We still have a boat. But I still like the plan of escaping on the back of Thermbachaud.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is a hardened warrior who distrusts frontal assaults and prefers stealth or unconventional escapes. He favors fleeing on the back of Thermbachaud and is skeptical of the value of gathering evidence unless it avoids war.",
+    "source_quote": "We don\u2019t have the resources to mount a full frontal assault. So we could just return, give the information, and then boogie out of here.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is a kin of giants who is wary of all Underdark denizens due to past violence. He prefers escape over confrontation, favors the plan of fleeing on Thermbachaud, and is deeply skeptical of trauma dumping and moral crusades.",
+    "source_quote": "Everybody we come across here in the Underdark has tried to kill us, so we are wary. ... I still like the plan of escaping on the back of Thermbachaud.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is a pragmatic survivor of the Underdark, shaped by trauma and distrust, who assumes every encountered creature intends to kill him unless proven otherwise.",
+    "source_quote": "Everybody we come across here in the Underdark has tried to kill us, so we are wary.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Werz",
+    "fact": "Werz is a Duergar who was targeted by assassins wielding a magical light blade. His attempted murder is known to the Flumph and is cited as evidence of the assassins' presence.",
+    "source_quote": "The ones you said had a magical light blade that tried to kill that duergar Werz.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir believes the madness of the Underdark has affected the myconids as well.",
+    "source_quote": "The madness of the Underdark has affected them as well.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is a cautious explorer in the Underdark, wary of strange creatures and inclined to observe details, having been trained by monks to mask his emotions.",
+    "source_quote": "Zalthir masks his feelings well. The monks taught him how to do that, and he was very good at it.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is a muttering, pragmatic adventurer who observes and recalls details from Stool\u2019s writings. He is open to the Flumph\u2019s trauma dumps and seeks to extract useful information for the party\u2019s objectives.",
+    "source_quote": "Stool described myconids and never described them as dancing frantically. ... Perhaps you can tell us where they are?",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is a pragmatic adventurer who initially seeks only to kill time and acquire magical equipment, but is drawn into the conflict by the Flumph's trauma dump and the moral imperative to protect the egg. He is observant, skeptical of authority, and values evidence over emotion.",
+    "source_quote": "I was just trying to kill some time before I got some magical equipment. Saving the Duergar from a mad king and defeating another cult of Demogorgon is not what I am here for.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is a pragmatic individual who seeks magical equipment and has no interest in grand missions. He initially dismisses saving the duergar Werz or defeating a cult of Demogorgon as irrelevant to his goals, but is willing to engage when prompted by evidence or logic.",
+    "source_quote": "Saving the Duergar from a mad king and defeating another cult of Demogorgon is not what I am here for.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir proposed that compensation be required for the task.",
+    "source_quote": "Zalthir \u2014 \u201cI think we need some compensation.\u201d",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir recalls that Stool described myconids and never described them as dancing frantically.",
+    "source_quote": "Stool described myconids and never described them as dancing frantically.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "2000 gold",
+    "fact": "The agreed-upon payment for the task is 2000 gold, with additional terms negotiated on top.",
+    "source_quote": "Gartokkar \u2014 \u201c2000.\u201d",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Egg",
+    "fact": "The egg is a mysterious artifact being corrupted by Plinki into a dual-headed dragon mount for Demogorgon. Grygum considers its salvation a divine mandate.",
+    "source_quote": "Plinki has recently converted to the Cult of Demogorgon and wishes to turn the egg into a dual-headed dragon that he can give to his master to ride!",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Faerzress",
+    "fact": "The Faerzress is the magical twilight that once shrouded the Underdark. Its blinking and changes caused societal collapse, turning friendship into violence and peace into war.",
+    "source_quote": "Some months ago, the permanent twilight of the Faerzress stopped, and the cave complex became dark. Everyone was afraid, and the Faerzress blinked on brightly and then was off. And then it blinked once more, and then it returned to its usual color.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Insignia of Office",
+    "fact": "The insignia of office of the Council of Savants and the Gray Ghosts is carried by a Derro in the Council Chamber, serving as tangible evidence of their authority and involvement in the conspiracy.",
+    "source_quote": "Through the side passageway, he sees a chamber with a derro that carries the insignia of office of the Council of Savants and the Gray Ghosts.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Magical Light Blade",
+    "fact": "A magical light blade was used in an assassination attempt on the Duergar Werz. It is evidence of the assassin\u2019s guild\u2019s presence and activity.",
+    "source_quote": "The ones you said had a magical light blade that tried to kill that duergar Werz.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Papers in the Obelisk Room",
+    "fact": "Papers in the Obelisk Room contain writings related to the Council of Savants' plans, though the Flumph cannot recall their contents.",
+    "source_quote": "Can you tell me what was written on the papers in the obelisk room?\" \"No.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "psychic energy",
+    "fact": "Psychic energy is emitted by psychics such as the Council of Savants and mind flayers. The Flumph feeds on this energy, which causes it to experience trauma dumps. This energy is the key to its knowledge, but not its direct perception.",
+    "source_quote": "They are psychics, and they use psychic energy, and I feed on it.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Psychic Energy",
+    "fact": "Psychic energy is the life force that the Flumph feeds on, drawn from the minds of sentient beings, particularly those engaged in violence, fear, or madness.",
+    "source_quote": "We feed on the psychic energy of creatures. We aren\u2019t parasitic like the Mind Flayers; we feed on the residual background energies.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "silver candlestick value",
+    "fact": "The silver candlesticks flanking the Lolth altar are worth 25 gp each.",
+    "source_quote": "a pair of heavy silver candlesticks worth 25 gp each",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "statue of Demogorgon",
+    "fact": "The statue of Demogorgon is the demanded proof of demonic worship, to be used as leverage against the Derro.",
+    "source_quote": "Bring me the statue of Demogorgon.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Statue of Demogorgon",
+    "fact": "The statue of Demogorgon is the physical proof demanded by Gartokkar Xundorn to justify a genocidal war against the Derro. It is the key bargaining chip in negotiations with the Keepers of the Flame.",
+    "source_quote": "I want proof of the involvement in demonic worship. Bring me the statue of Demogorgon.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "the egg",
+    "fact": "The egg is a powerful artifact of immense strategic value. It serves as insurance for the Keepers of the Flame against Themberchaud. Grygum, as a cleric of Bahamut, believes it must be saved, though its nature and origin remain unexplained.",
+    "source_quote": "As a cleric of Bahamut, I must save the egg.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Thermbachaud",
+    "fact": "Thermbachaud is a dragon (likely Themberchaud) that Thorin considers as a means of escape from the Underdark, rather than confronting the cults and factions.",
+    "source_quote": "I still like the plan of escaping on the back of Thermbachaud.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Trauma Dump",
+    "fact": "Trauma Dump is the Flumph\u2019s ability to release stored traumatic memories into the minds of others, providing emotional relief for itself but overwhelming its listeners with disturbing visions.",
+    "source_quote": "I let out all the unpleasant memories inside and into the heroes' minds, and now I feel better! ... Trauma Dump? Why yes! That\u2019s what I do.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "genocidal campaign against the Derro",
+    "fact": "Gartokkar plans to use proof of theft and demonic worship to convince the Deepking to eliminate the Derro, initiating a genocidal war.",
+    "source_quote": "He intended to use the proof of the theft and the proof of the demonic worship to convince the Deepking that it was time to eliminate the scourge of the Derro from the city.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "negotiation with Errde",
+    "fact": "Daz has initiated a new negotiation thread with Errde following the Gartokkar deal.",
+    "source_quote": "Daz smiles, \u201cTime to talk to Errde and negotiate terms with her.\u201d",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "physical evidence gap",
+    "fact": "The party possesses testimonial knowledge about the Council of Savants, Grey Ghosts, assassins, and the egg \u2014 but lacks physical proof. Daz has determined that without tangible evidence, factions like Errde and Gartokkar will not act.",
+    "source_quote": "Without physical evidence, the word of a Flumph won\u2019t be taken seriously.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "strategy for persuasion",
+    "fact": "Daz has deduced that the path forward lies not in combat or direct confrontation, but in leveraging existing factional rivalries and presenting verifiable, contextual evidence \u2014 such as the Flumph\u2019s trauma-dumped knowledge \u2014 to convince Errde and Gartokkar to act.",
+    "source_quote": "The path forward was clear, and indeed, it was very profitable.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "The Derro Councilor",
+    "fact": "A Derro bearing the insignia of the Council of Savants and the Gray Ghosts is present in the side passageway \u2014 suggesting a deeper, possibly betrayed, connection between scholarly factions and the current evil.",
+    "source_quote": "Through the side passageway, he sees a chamber with a derro that carries the insignia of office of the Council of Savants and the Gray Ghosts.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "The Egg and the Obelisk",
+    "fact": "A mysterious egg, marked with strange symbols, is being corrupted by Plinki into a dual-headed dragon via an obelisk \u2014 a potential weapon or ritual object of immense power.",
+    "source_quote": "What are the strange markings on the egg? Plinki has recently converted to the Cult of Demogorgon and wishes to turn the egg into a dual-headed dragon...",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "The Egg\u2019s Origin",
+    "fact": "The mysterious egg, believed to be a potential dual-headed dragon, is the central object of conflict. Its origin, nature, and purpose remain unknown, but it is tied to the Cult of Demogorgon, Bahamut\u2019s sacred duty, and the Keepers of the Flame\u2019s insurance policy.",
+    "source_quote": "What are the strange markings on the egg?",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "The Empty Scabbard Killers\u2019 Motives",
+    "fact": "The assassins\u2019 role in the death of Duergar Werz and their connection to the Grey Ghosts remain unexplained. Their existence suggests a hidden power struggle within the Underdark\u2019s elite.",
+    "source_quote": "The ones you said had a magical light blade that tried to kill that duergar Werz.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "The Flumph\u2019s Origin",
+    "fact": "The Flumph\u2019s knowledge of the Underdark\u2019s history and its trauma-dumping behavior suggest it may have once lived among the peaceful communities now destroyed \u2014 raising questions about its past and true motives.",
+    "source_quote": "The caves were once a hippy place, where Derro and Duergar would come to chill out, party, and be friends.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "The Flumph\u2019s Past",
+    "fact": "The Flumph\u2019s trauma is rooted in the madness of its friend Buppido and the collapse of the Underdark\u2019s peace. Its emotional state is tied to the fate of the caves, and its future may depend on whether the heroes restore balance or deepen the chaos.",
+    "source_quote": "Ever since my friend Buppido went stark raving mad\u2026",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Themberchaud\u2019s Doubt",
+    "fact": "The red dragon\u2019s insecurity about his rule and his suspicion of the Keepers of the Flame may lead him to intervene in the conflict. His potential involvement could shift the balance of power, but his motives remain opaque.",
+    "source_quote": "He\u2019s not sure that he\u2019s in charge.",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Thermbachaud escape plan",
+    "fact": "Thorin advocates escaping on the back of Thermbachaud as an alternative to confronting factions or gathering evidence. This plan remains unconfirmed but represents a high-risk, high-reward option.",
+    "source_quote": "I still like the plan of escaping on the back of Thermbachaud.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  }
+]

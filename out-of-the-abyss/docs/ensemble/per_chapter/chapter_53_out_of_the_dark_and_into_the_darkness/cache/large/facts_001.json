@@ -1,0 +1,156 @@
+[
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a male Drow apostate with no noble house affiliation, no known lineage, and no apparent strategic value in Menzoberranzan, yet someone has paid a significant sum \u2014 described as 'they interrupt you, a lot' \u2014 to ensure his survival.",
+    "source_quote": "You don't belong to any noble house, your background is a complete mystery, you suddenly show up, and all of a sudden, we're contracted to protect a nobody.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Nym",
+    "fact": "Nym is a Drow mercenary from Menzoberranzan, part of a pair hired to protect Daz from House Mizzrym and House T'sarran; she exhibits professional detachment, understands the value of insulation in high-stakes contracts, and dismisses Daz\u2019s self-mythologizing with cold pragmatism.",
+    "source_quote": "That is a fee... that is a price you cannot afford.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Kaelira",
+    "fact": "Kaelira is Nym\u2019s sister and fellow mercenary; she displays acute professional confusion at the anomaly of Daz\u2019s existence \u2014 a nobody worth massive investment \u2014 and her blunt assessments reveal a deep familiarity with the political calculus of Menzoberranzan.",
+    "source_quote": "For all we know, this was a game being played by the houses.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Asha Vandree",
+    "fact": "Asha Vandree is a Lolth cleric who seized authority after a chaotic escape, displaying unwavering confidence in her divine favor; her actions provoked lethal intervention from Zalthir, who deemed her an immediate existential threat.",
+    "source_quote": "I am blessed by Lolth!",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is a combat-trained individual with an Eldritch Claw Tattoo, trained in decisive action under moral uncertainty; he executed Asha Vandree without hesitation, believing someone had to make the call \u2014 and that he was the one who should.",
+    "source_quote": "Someone had to make the call. I made it. That's all.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is a member of the party who attempted to subdue Asha Vandree via grapple, believing non-lethal restraint sufficient; his reluctance to kill reflects a moral code at odds with the lethal pragmatism of the Drow mercenaries.",
+    "source_quote": "I don't like killing people if I don't have to.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is a cleric who opposes lethal force and seeks non-violent resolutions; he attempted divine intervention against Asha, but his failure led him to quietly reassess his role in the group\u2019s decisions.",
+    "source_quote": "Let's put a period after that 'now that I'm in charge' thing.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "House Mizzrym",
+    "fact": "House Mizzrym is one of the two noble houses in Menzoberranzan identified as a threat to Daz; the mercenaries were contracted to prevent them from killing him.",
+    "source_quote": "House Mizzrym. House T'sarran. Those were the parameters.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "House T'sarran",
+    "fact": "House T'sarran is the second noble house identified as a threat to Daz; the mercenaries were prepared to handle them personally if necessary, but Daz eliminated their goons himself.",
+    "source_quote": "We'd just finished burning. ... They'd been prepared to handle the T'sarran contingent personally if it came to that.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Ilvara's House",
+    "fact": "Ilvara's House is referenced as an additional threat to Daz, though not named explicitly as a noble house; the mercenaries were hired to protect him from them as well.",
+    "source_quote": "Hired to protect me \u2014 specifically, me \u2014 from Ilvara's House and from the T'sarran goons...",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Lolth Cult (Asha's Affiliation)",
+    "fact": "Asha Vandree\u2019s devotion to Lolth is presented as genuine, though her interpretation of divine favor is dangerously delusional; her cultic authority is perceived as a lethal threat by Zalthir and the Drow mercenaries.",
+    "source_quote": "I am blessed by Lolth!",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "T'sarran Goons",
+    "fact": "T'sarran Goons are low-ranking enforcers of House T'sarran, recently eliminated by Daz and the party before the mercenaries arrived; their destruction demonstrated Daz\u2019s capability and reduced the need for direct intervention.",
+    "source_quote": "The T'sarran goons we'd just finished burning.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Extraction Contract",
+    "fact": "The extraction contract is a document produced by the party that appears central to the events leading to Daz\u2019s targeting; it was scorched and referenced as evidence of the danger they escaped.",
+    "source_quote": "Kaelira gestured toward the scorched remnants of the extraction contract the party had produced \u2014 the document that had apparently been at the center of all this...",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Hiring of Drow Mercenaries",
+    "fact": "An anonymous, high-level patron in Menzoberranzan hired Nym and Kaelira to protect Daz, using cutouts to obscure their identity; the payment was substantial and unusual for a non-noble target.",
+    "source_quote": "Someone had paid for this. Someone who knew I was here, knew who was hunting me, and knew enough to contract professionals rather than handle it directly.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Execution of Asha Vandree",
+    "fact": "Zalthir executed Asha Vandree with his Eldritch Claw Tattoo to prevent her from invoking Lolth\u2019s power; the act ended a tense standoff and forced the party to confront the moral cost of survival in Menzoberranzan.",
+    "source_quote": "The strikes came in sequence... Asha Vandree did not get another word out.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Daz\u2019s True Identity",
+    "fact": "The mystery of why someone in Menzoberranzan invested so heavily in protecting Daz \u2014 a nobody with no house, no history, no value \u2014 is an unresolved plot thread; the answer may lie in hidden lineage, divine intervention, or a larger political game.",
+    "source_quote": "So then maybe there's more to me than meets the eye?",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "The Identity of the Paymaster",
+    "fact": "The true identity of the patron who paid 'a lot' \u2014 enough to interrupt their schedule multiple times \u2014 remains unknown; the insulation around the transaction implies the payer fears exposure for reasons of illegality, embarrassment, or danger.",
+    "source_quote": "In Menzoberranzan, that level of insulation around a financial transaction means exactly one thing: the payer has significant reason not to be associated with the purchase.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "The Meaning of the Three Bravos",
+    "fact": "The three repeated 'bravos' from Kaelira after Daz\u2019s actions signal professional irony \u2014 the third is never sincere \u2014 hinting that her praise masks suspicion, calculation, or hidden knowledge.",
+    "source_quote": "Three *bravos*. I have found, as a general principle, that a third *bravo* is never sincere.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Menzoberranzan",
+    "fact": "Menzoberranzan is the dominant drow city-state where noble houses wield power through violence, lineage, and ritual; its culture demands absolute loyalty to house structure, making Daz\u2019s anonymity and high-value protection a profound anomaly.",
+    "source_quote": "In Menzoberranzan, that level of insulation around a financial transaction means exactly one thing...",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "The Garden Shadow",
+    "fact": "The Garden Shadow is a reference to a training or philosophical tradition that taught Zalthir about social authority and power dynamics; it informs his perception of threats and his readiness to act decisively.",
+    "source_quote": "The Garden Shadow had a saying \u2014 or possibly Brother Quellin did... that the most dangerous person in a room isn't the one with the blade drawn.",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "After the Extraction",
+    "fact": "The events occur immediately after the party\u2019s escape from an extraction operation, which triggered the intervention of the Drow mercenaries and the subsequent confrontation with Asha Vandree.",
+    "source_quote": "The T'sarran goons we'd just finished burning.",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "Since Velkynvelve",
+    "fact": "Daz has been maintaining a mental list of threats and potential allies since the events at Velkynvelve, marking the beginning of his conscious awareness of being targeted.",
+    "source_quote": "I'd been running a list in the back of my head since Velkynvelve...",
+    "quote_verified": false
+  }
+]

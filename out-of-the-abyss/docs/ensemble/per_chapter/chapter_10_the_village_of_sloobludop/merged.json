@@ -1,0 +1,2257 @@
+[
+  {
+    "type": "date",
+    "subject": "1st day of the 3rd Tenday of Taraskh 1493",
+    "fact": "The day the escapees arrive in Sloobludop, observe its structure, meet Ploop and Gloog, discover the altars, and begin to understand the religious conflict. The journey ends, and the confrontation begins.",
+    "source_quote": "1st day of the 3rd Tenday of Taraskh 1493",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "date",
+    "subject": "1st day of the 3rd Tenday of Taraskh 1493",
+    "fact": "The events of the chapter occur on the first day of the third tenday of Taraskh in the year 1493, marking the beginning of the escapees' involvement in the kuo-toan religious conflict.",
+    "source_quote": "1st day of the 3rd Tenday of Taraskh 1493",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "date",
+    "subject": "2nd day of the 3rd Tenday of Taraskh 1493",
+    "fact": "The day the Kuo-toan monitor arrives to escort the escapees to the Deep Father\u2019s altar, marking the formal escalation of the conflict and the beginning of the planned confrontation.",
+    "source_quote": "2nd day of the 3rd Tenday of Taraskh 1493",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "date",
+    "subject": "2nd day of the 3rd Tenday of Taraskh 1493",
+    "fact": "The events occurred on the 2nd day of the 3rd Tenday of Taraskh, 1493, marking the timeline of the factional conflict and ritual escort.",
+    "source_quote": "### 2nd day of the 3rd   Tenday of Taraskh 1493",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "date",
+    "subject": "elapsed time",
+    "fact": "An hour passes between two events in the session.",
+    "source_quote": "An hour later",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The session continues on the 2nd day of the 3rd Tenday of Taraskh 1493 DR.",
+    "source_quote": "2nd day of the 3rd   Tenday of Taraskh 1493",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Acceptance of Ploop\u2019s Offer",
+    "fact": "After eating cooked fish and witnessing the rituals, the escapees, including Zalthir, accept Ploop\u2019s offer to remain in Sloobludop and participate in the ritual exchange, abandoning their initial reluctance.",
+    "source_quote": "At this, even Zalthir is convinced that perhaps helping the Kuo-Toans isn\u2019t a bad idea.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "acceptance of Ploop\u2019s offer",
+    "fact": "The group, including Zalthir, accepts Ploop\u2019s offer after witnessing their customs, eating cooked fish, and being reassured by Gloog\u2019s honor-bound approach.",
+    "source_quote": "At this, even Zalthir is convinced that perhaps helping the Kuo-Toans isn\u2019t a bad idea... Zalthir is satisfied.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Arrival at Sloobludop",
+    "fact": "The escapees arrive at Sloobludop after an uneventful journey through tunnels. They are greeted by Kuo-toan sentinels who let them through the walls. They observe the village layout, the two altars, and the strange behaviors of the inhabitants. They are invited into Ploop\u2019s quarters and begin to understand the religious conflict.",
+    "source_quote": "They snap to attention when Ploop arrives and lets everyone through.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "arrival of the monitor and kuo-toa delegation",
+    "fact": "Twelve kuo-toa led by a monitor arrive at Ploop\u2019s quarters to escort him, his whip, and the prisoners to the archpriest of the Deep Father.",
+    "source_quote": "In the morning, twelve kuo-toa led by a kuo-toa monitor arrive at Ploopploopeen\u2019s quarters. The archpriest of the Sea Mother admits the monitor and informs him that he, his whip, and the prisoners will accompany them to see the archpriest of the Deep Father.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "attempt to observe the Deep Father\u2019s altar",
+    "fact": "The escapees sneak to observe the altar of Leemooggoogoon but make noise, alerting the kuo-toans circling the idol and forcing a hasty retreat.",
+    "source_quote": "Unfortunately, their attempt to be quiet is anything but. And the kuo-toans circling the Deep Father notice. 'I say we beat a hasty retreat,' whispers Thorin. 'These guys are spooky. Let\u2019s get out of here,' mutters Zalthir.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "combat protocol",
+    "fact": "You will help us as you, too, see the righteousness of the Deep Mother. But you won\u2019t throw the first punch.",
+    "source_quote": "You will help us as you, too, see the righteousness of the Deep Mother. No, that would insult the honor of my father and our people. This is our problem, and we must resolve it.",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz shouts, \"We must eat!\"",
+    "source_quote": "We must eat!\u201d he shouts.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz sighs, \"Man, we\u2019ve been running for days. Having a purpose in life is a good thing. We busted out of prison, and then what? Ran. We\u2019re being chased, and we keep running. One of our group got killed by another of our group. Having something to focus on would be much less depressing than just doing what we are doing.\"",
+    "source_quote": "Daz sighs, \"Man, we\u2019ve been running for days. Having a purpose in life is a good thing. We busted out of prison, and then what? Ran. We\u2019re being chased, and we keep running. One of our group got killed by another of our group. Having something to focus on would be much less depressing than just doing what we are doing.\"",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz, overcome by the rank smell, has his hand over his mouth and tries to rub the smell out of his nose with his thumb.",
+    "source_quote": "Daz, overcome by the rank smell, has his hand over his mouth and tries to rub the smell out of his nose with his thumb.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Daz covering his nose from the stench",
+    "fact": "Daz, overcome by the rank smell of the Sea Mother\u2019s altar, covers his mouth and rubs his nose with his thumb, pretending it is itchy while Ploop watches and smiles weakly.",
+    "source_quote": "Meanwhile, Daz, overcome by the rank smell, has his hand over his mouth and tries to rub the smell out of his nose with his thumb. Ploop looks at him, and he smiles weakly as he pretends his nose is itchy.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Daz shouting 'We must eat!'",
+    "fact": "Daz, overwhelmed by the smell and seeking purpose, shouts 'We must eat!' prompting Ploop to reassure them that Kuo-Toans eat cooked fish.",
+    "source_quote": "\"We must eat!\" he shouts. Thorin is worried that this will be some raw rotting food, but Ploop, perhaps sensing that, assures him that Kuo Toans eat cooked fish.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Discovery at the Deep Father's Altar",
+    "fact": "Grygum and the escapees sneak to the altar of Leemooggoogoon and are discovered by the circling kuo-toans. Their attempt at stealth fails, triggering a hostile reaction and forcing a retreat.",
+    "source_quote": "Unfortunately, their attempt to be quiet is anything but. And the kuo-toans circling the Deep Father notice.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Discovery of the Deep Father Altar",
+    "fact": "The escapees sneak to the Deep Father\u2019s altar, attempting to observe quietly, but are detected. They flee back to Ploop\u2019s house, realizing the danger posed by Bloppblippodd\u2019s followers. This event triggers Gloog\u2019s intervention and the plan to confront the faction.",
+    "source_quote": "Unfortunately, their attempt to be quiet is anything but. And the kuo-toans circling the Deep Father notice.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Escapees",
+    "fact": "The escapees notice that many kuo-toans just walk around with their eyes open, sleeping.",
+    "source_quote": "At this point, the escapees notice that many kuo-toans just walk around with their eyes open, sleeping.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Escapees",
+    "fact": "The escapees notice that some other kuo-toans are moving about as schools of fish.",
+    "source_quote": "And that some other kuo-toans are moving about as schools of fish.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Escapees",
+    "fact": "The escapees sneak out just close enough to see the idol of Leemooggoogoon the Deep Father.",
+    "source_quote": "they sneak out just close enough to see the idol of Leemooggoogoon the Deep Father.",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Escapees",
+    "fact": "They ignore the Kuo-Toan who stares at them, uncertain if he is awake or asleep.",
+    "source_quote": "Uncertain if he is awake or asleep, they ignore him.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "escort to Deep Father\u2019s archpriest",
+    "fact": "The archpriest of the Sea Mother, his whip, and prisoners were escorted by a kuo-toa monitor and twelve kuo-toa to meet the archpriest of the Deep Father.",
+    "source_quote": "In the morning, twelve kuo-toa led by a kuo-toa monitor arrive at Ploopploopeen\u2019s quarters. The archpriest of the Sea Mother admits the monitor and informs him that he, his whip, and the prisoners will accompany them to see the archpriest of the Deep Father.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Glooglugogg",
+    "fact": "Gloog mutters, \"You didn\u2019t choose just to give us the derro whom you tied up? That is both honorable and odd.\"",
+    "source_quote": "Gloog is about to sleep, he mutters, \"You didn\u2019t choose just to give us the derro whom you tied up? That is both honorable and odd.\"",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Glooglugogg",
+    "fact": "Gloog says, \"Her hard-core supporters are few, but how many in the village are on our side? Her side is unknown. This is why it must be dealt with now. While we still have the support of the majority.\"",
+    "source_quote": "Gloog burps, \"Her hard-core supporters are few, but how many in the village are on our side? Her side is unknown. This is why it must be dealt with now. While we still have the support of the majority.\"",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Glooglugogg",
+    "fact": "Gloog says, \"My name is Glooglugogg. Gloog is what my friends call me. I do not approve of Father\u2019s choice to have outsiders meddle in our affairs, but you showed respect to the Sea Mother, and thus, I see that you respect and understand our ways. Our society is torn to pieces by my sister Bloppblippodd. Father has shown her too much deference, offered her too much, and let her get away with too much. She has no respect for our ways. And she has fallen prey to this madness.\"",
+    "source_quote": "He says, \"My name is Glooglugogg. Gloog is what my friends call me. I do not approve of Father\u2019s choice to have outsiders meddle in our affairs, but you showed respect to the Sea Mother, and thus, I see that you respect and understand our ways. Our society is torn to pieces by my sister Bloppblippodd. Father has shown her too much deference, offered her too much, and let her get away with too much. She has no respect for our ways. And she has fallen prey to this madness.\"",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Glooglugogg",
+    "fact": "Gloog says, \"No, that would insult the honor of my father and our people. This is our problem, and we must resolve it.\"",
+    "source_quote": "Gloog looks at him, \"No, that would insult the honor of my father and our people. This is our problem, and we must resolve it.\"",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Glooglugogg",
+    "fact": "Gloog says, \"Now get rest. In a while, we will have to fight.\"",
+    "source_quote": "Gloog turns to him, \"Now get rest. In a while, we will have to fight.\"",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Glooglugogg",
+    "fact": "Gloog says, \"Of course not. You will help us as you, too, see the righteousness of the Deep Mother.\"",
+    "source_quote": "Gloog looks at him, \"Of course not. You will help us as you, too, see the righteousness of the Deep Mother.\"",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Glooglugogg",
+    "fact": "Gloog\u2019s dislike for his sister becomes increasingly apparent as he enumerates her ills and flaws as a sister, daughter, and former cleric of the Sea Mother.",
+    "source_quote": "Gloog\u2019s dislike for his sister becomes increasingly apparent as he enumerates her ills and flaws as a sister, daughter, and former cleric of the Sea Mother.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Gloog\u2019s comment on the derro",
+    "fact": "Gloog remarks that the escapees did not choose to give the Kuo-Toans the derro they tied up, which he finds both honorable and odd.",
+    "source_quote": "You didn\u2019t choose just to give us the derro whom you tied up? That is both honorable and odd.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Gloog\u2019s refusal of first strike",
+    "fact": "Gloog insists that the escapees will not throw the first punch, as it would insult the honor of his father and people, and that the conflict must be resolved by the Kuo-Toans themselves.",
+    "source_quote": "No, that would insult the honor of my father and our people. This is our problem, and we must resolve it.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Gloog\u2019s Revelation",
+    "fact": "Gloog approaches the escapees after they return to Ploop\u2019s house. He reveals his opposition to his sister, explains the political instability in the village, and outlines a plan to resolve the conflict without the escapees striking first. He validates their respect for the Sea Mother and demands they assist in restoring order.",
+    "source_quote": "I do not approve of Father\u2019s choice to have outsiders meddle in our affairs, but you showed respect to the Sea Mother...",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Gloog\u2019s revelation of internal conflict",
+    "fact": "Gloog reveals that his sister Bloppblippodd has been given too much deference, has fallen prey to madness, and that the village is divided, requiring immediate action before their support fades.",
+    "source_quote": "Our society is torn to pieces by my sister Bloppblippodd. Father has shown her too much deference, offered her too much, and let her get away with too much. She has no respect for our ways. And she has fallen prey to this madness... Her hard-core supporters are few, but how many in the village are on our side? Her side is unknown. This is why it must be dealt with now. While we still have the support of the majority.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "group\u2019s acceptance of the Kuo-Toan cause",
+    "fact": "The group, previously skeptical, accepts Ploop\u2019s offer after witnessing rituals, eating cooked food, and hearing Gloog\u2019s honorable stance on conflict resolution.",
+    "source_quote": "At this, even Zalthir is convinced that perhaps helping the Kuo-Toans isn\u2019t a bad idea... Zalthir is satisfied.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum recalled that the Deep Sea Mother is a scavenger goddess and that regurgitating and spitting on her altar is perhaps the perfect form of offering.",
+    "source_quote": "Grygum recalls from somewhere that the Deep Sea Mother is a scavenger goddess and that regurgitating and spitting on her altar is perhaps the perfect form of offering.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum recalls that the sacrifice is essential, not the provenance.",
+    "source_quote": "in the rituals of Leemooggoogoon, the sacrifice is essential, not the provenance.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum says, \"This is like a flag of parley. Have you considered a white flag?\"",
+    "source_quote": "Grygum finally understands, \"This is like a flag of parley. Have you considered a white flag?\"",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum says, \"Yes, our rituals are different.\"",
+    "source_quote": "Grygum nods, \"Yes, our rituals are different.\"",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum tries to probe if the sacrifice must be willing.",
+    "source_quote": "Grygum tries to probe if the sacrifice must be willing.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "kuo-toan movement",
+    "fact": "Some kuo-toans are moving about as schools of fish.",
+    "source_quote": "some other kuo-toans are moving about as schools of fish",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "kuo-toan sleep behavior",
+    "fact": "Many kuo-toans walk around with their eyes open, sleeping.",
+    "source_quote": "many kuo-toans just walk around with their eyes open, sleeping",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Kuo-toan Sleep Behavior",
+    "fact": "The escapees observe that many kuo-toans sleep with their eyes open and some move as if in schools of fish. This unusual behavior is normal for their species and contributes to their eerie, alien presence.",
+    "source_quote": "At this point, the escapees notice that many kuo-toans just walk around with their eyes open, sleeping. And that some other kuo-toans are moving about as schools of fish.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Kuo-toans sleeping with eyes open",
+    "fact": "The escapees notice that many kuo-toans walk around with their eyes open while sleeping, and some move about as schools of fish.",
+    "source_quote": "At this point, the escapees notice that many kuo-toans just walk around with their eyes open, sleeping. And that some other kuo-toans are moving about as schools of fish.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Morning Confrontation",
+    "fact": "On the second day, a Kuo-toan monitor arrives at Ploop\u2019s quarters with twelve followers, demanding the escapees accompany them to the Deep Father\u2019s altar. This signals the formal beginning of the confrontation between the two factions, and the escapees are now directly involved in the conflict.",
+    "source_quote": "Twelve kuo-toa led by a kuo-toa monitor arrive at Ploopploopeen\u2019s quarters.",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Ploop",
+    "fact": "Ploop assures him that Kuo Toans eat cooked fish.",
+    "source_quote": "Ploop, perhaps sensing that, assures him that Kuo Toans eat cooked fish.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Ploop",
+    "fact": "Ploop looks at Daz and smiles weakly as he pretends his nose is itchy.",
+    "source_quote": "Ploop looks at him, and he smiles weakly as he pretends his nose is itchy.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Ploop falling asleep standing",
+    "fact": "After eating, Ploop falls asleep by standing up and walking outside, a behavior common to Kuo-Toans.",
+    "source_quote": "After eating, Ploop falls asleep. As is the case with Kuo Toans, he stands up and walks outside.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Ploopploopeen",
+    "fact": "Ploopploopeen admits the monitor and informs him that he, his whip, and the prisoners will accompany them to see the archpriest of the Deep Father.",
+    "source_quote": "The archpriest of the Sea Mother admits the monitor and informs him that he, his whip, and the prisoners will accompany them to see the archpriest of the Deep Father.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Ploopploopeen",
+    "fact": "Ploopploopeen stands up and walks outside as is the case with Kuo Toans.",
+    "source_quote": "Ploop falls asleep. As is the case with Kuo Toans, he stands up and walks outside.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "preparation for conflict",
+    "fact": "Gloog and his allies are preparing to act against Bloppblippodd\u2019s faction, resolved to resolve the issue themselves without initiating violence.",
+    "source_quote": "This is our problem, and we must resolve it.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "ritual comparison",
+    "fact": "Our rituals are different.",
+    "source_quote": "Yes, our rituals are different",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "ritual offering",
+    "fact": "Regurgitating and spitting on her altar is perhaps the perfect form of offering.",
+    "source_quote": "regurgitating and spitting on her altar is perhaps the perfect form of offering",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "ritual practice",
+    "fact": "Kuo Toans eat cooked fish.",
+    "source_quote": "Kuo Toans eat cooked fish",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "ritual requirement",
+    "fact": "The sacrifice is essential, not the provenance.",
+    "source_quote": "the sacrifice is essential, not the provenance",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "ritual timing",
+    "fact": "In a while, we will have to fight.",
+    "source_quote": "In a while, we will have to fight",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "sacrifice necessity",
+    "fact": "She needs sacrifices for her false god.",
+    "source_quote": "She needs sacrifices for her false god",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "sacrifice preference",
+    "fact": "An unwilling sacrifice is better. This is an evil god.",
+    "source_quote": "An unwilling sacrifice is better. This is an evil god",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "sacrifice willingness",
+    "fact": "Willing sacrifices are not better; unwilling ones are preferred.",
+    "source_quote": "No. An unwilling sacrifice is better. This is an evil god.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Spit-Offering at the Sea Mother's Altar",
+    "fact": "Grygum and Thorin spit on the altar of the Sea Mother, which delights Ploopploopeen. This act fulfills the ritual requirement of regurgitation, which is considered the perfect offering to the scavenger goddess.",
+    "source_quote": "Ploop is delighted when Grygum and Thorin both spit on the altar.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "spitting on the Sea Mother\u2019s altar",
+    "fact": "Grygum and Thorin spit on the altar of the Sea Mother, which delights Ploopploopeen and confirms their respect for Kuo-Toan customs.",
+    "source_quote": "Ploop is delighted when Grygum and Thorin both spit on the altar.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin is worried that this will be some raw rotting food.",
+    "source_quote": "Thorin is worried that this will be some raw rotting food",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin notes that the nEttin g isn\u2019t an effective wall against a determined invader.",
+    "source_quote": "Thorin notes that the nEttin g isn\u2019t an effective wall against a determined invader.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin probes, \"But willing sacrifices are sweeter?\"",
+    "source_quote": "Thorin probes, \"But willing sacrifices are sweeter?\"",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin whispers, \"I say we beat a hasty retreat.\"",
+    "source_quote": "whispers Thorin. \"I say we beat a hasty retreat,\"",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Topsy and Turvy",
+    "fact": "Topsy and Turvy realize that a free-for-all is an excellent opportunity to steal.",
+    "source_quote": "Topsy and Turvy, on the other hand, realize that a free-for-all is an excellent opportunity to steal.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "travel to Sloobludop",
+    "fact": "Sloobludop is approximately 500 feet away via the Darklake.",
+    "source_quote": "almost 500 feet away, is another wall of nets",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir asks, \"We saw a dozen near the altar. Is that all her support?\"",
+    "source_quote": "Zalthir asks, \"We saw a dozen near the altar. Is that all her support?\"",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir clarifies his role, \"So when we go there, our job is just to sit around and do nothing.\"",
+    "source_quote": "Zalthir, again, clarifies his role, \"So when we go there, our job is just to sit around and do nothing.\"",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir is convinced that perhaps helping the Kuo-Toans isn\u2019t a bad idea.",
+    "source_quote": "At this, even Zalthir is convinced that perhaps helping the Kuo-Toans isn\u2019t a bad idea.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir mutters, \"These guys are spooky. Let\u2019s get out of here.\"",
+    "source_quote": "mutters Zalthir. \"These guys are spooky. Let\u2019s get out of here,\"",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Bloppblippodd\u2019s Cult",
+    "fact": "Bloppblippodd leads a splinter faction that has abandoned the ways of the Sea Mother, embraced madness, and retains only a few hard-core supporters.",
+    "source_quote": "Her hard-core supporters are few, but how many in the village are on our side? Her side is unknown.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Followers of Leemooggoogoon",
+    "fact": "The followers of Leemooggoogoon, the Deep Father, worship a deity requiring blood sacrifices, preferably unwilling ones. Their idol is a stretched hide of a manta ray with pinned octopuses and a stained altar. They circle the idol in vigil and react violently to intrusions.",
+    "source_quote": "She needs sacrifices for her false god. An unwilling sacrifice is better. This is an evil god.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Followers of the Deep Father",
+    "fact": "The followers of the Deep Father worship an idol of a manta ray made from hide, with pinned octopuses and a bloodstained altar. They demand unwilling sacrifices and are led by Bloppblippodd. Their numbers are uncertain, but they are a growing threat. Their practices are considered madness by Gloog and others.",
+    "source_quote": "The idol reeks of decay and the broad stone altar below the idol is stained dark with blood.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Followers of the Sea Mother",
+    "fact": "The followers of the Sea Mother revere a scavenger goddess whose altar is adorned with severed crayfish parts, shells, mushrooms, and rotting fish. They believe the perfect offering is regurgitation. Ploopploopeen leads them, and they are the majority in the village. They are seen as traditionalists by Gloog.",
+    "source_quote": "Ploop is delighted when Grygum and Thorin both spit on the altar.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Followers of the Sea Mother",
+    "fact": "The followers of the Sea Mother worship a scavenger goddess who accepts regurgitated offerings. Their central idol is a wooden humanoid female adorned with the severed head and claws of a giant albino crayfish, lashed with gut and piled with shells, stones, mushrooms, and rotting fish. Four kuo-toans guard it constantly.",
+    "source_quote": "The Deep Sea Mother is a scavenger goddess and that regurgitating and spitting on her altar is perhaps the perfect form of offering.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Kuo-toans",
+    "fact": "The Kuo-toans are a society living between two walls of netting, with a cave wall to the south and the Darklake to the north. They sleep with eyes open, move in schools, and maintain order through designated leaders. Their religion centers on the Sea Mother and Leemooggoogoon, with rituals involving spit-offerings, blood sacrifices, and the use of severed body parts in idols.",
+    "source_quote": "Many kuo-toans just walk around with their eyes open, sleeping. And that some other kuo-toans are moving about as schools of fish.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Kuo-toan Society",
+    "fact": "Kuo-toan society is fractured between followers of the Sea Mother and the Deep Father, with Bloppblippodd\u2019s faction threatening collapse. The people sleep while standing, move in schools of fish, and revere idols made from severed body parts. Leadership is maintained by monitors who prevent madness from destroying social order. Rituals involve blood, rot, and unwilling sacrifices, and the existence of their gods is ambiguous.",
+    "source_quote": "Many kuo-toans just walk around with their eyes open, sleeping. And that some other kuo-toans are moving about as schools of fish.",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "The Deep Mother's Followers",
+    "fact": "The faction loyal to the Deep Mother, including Gloog and his allies, holds the support of the majority in the village and opposes the madness of Bloppblippodd\u2019s followers.",
+    "source_quote": "How many in the village are on our side? Her side is unknown. This is why it must be dealt with now. While we still have the support of the majority.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Altar of Leemooggoogoon",
+    "fact": "The altar of Leemooggoogoon the Deep Father consists of a large hide stretched between two poles in the shape of a manta ray, with a dead splayed-out manta ray pinned to its center, two dead octopuses draped across the top with tentacles pinned and heads tied together and painted red and blue, reeking of decay and stained dark with blood.",
+    "source_quote": "They sneak out just close enough to see the idol of Leemooggoogoon the Deep Father. It consists of a large hide cut roughly in the shape of a manta ray and stretched out on cords between two support poles. A dead, splayed-out manta ray is pinned to the center of the hide. Two dead octopuses are draped across the top, their tentacles pinned and artfully arrayed, their heads tied together and painted with red and blue pigments. The idol reeks of decay and the broad stone altar below the idol is stained dark with blood.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Altar of the Deep Father",
+    "fact": "The Altar of the Deep Father is a hide stretched between poles, shaped like a manta ray, with a dead manta ray pinned in the center and two dead octopuses draped across it. The altar is stained dark with blood and reeks of decay. It is surrounded by worshippers who chant and bow, and is guarded by a dozen followers of Bloppblippodd.",
+    "source_quote": "The idol reeks of decay and the broad stone altar below the idol is stained dark with blood.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Altar of the Sea Mother",
+    "fact": "The Altar of the Sea Mother is a nine-foot-tall wooden statue of a humanoid female, with a severed giant albino crayfish head and claws lashed on with gut. It emits a powerful stench of rotting shellfish and is piled with shells, colored stones, mushrooms, and rotting fish. It is guarded by four alert Kuo-toans and worshipped by many villagers.",
+    "source_quote": "The statue is roughly carved from wood in the shape of a humanoid female, its head and forearms formed from the severed head and claws of a giant albino crayfish.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Altar of the Sea Mother",
+    "fact": "The altar of the Sea Mother is a nine-foot-tall wooden statue of a humanoid female, with its head and forearms formed from the severed head and claws of a giant albino crayfish, lashed on with gut strands and emitting a rotting shellfish stench, with shells, colored stones, mushrooms, and rotting fish piled at its feet and strung around its neck.",
+    "source_quote": "Ploop stops in front of the sizeable nine-foot-tall statue. The statue is roughly carved from wood in the shape of a humanoid female, its head and forearms formed from the severed head and claws of a giant albino crayfish. These parts are lashed on with strands of gut and emit an overpowering stench of rotting shellfish. Shells, brightly colored stones, mushrooms, and rotting fish are piled at the statue\u2019s feet and strung in garlands around its neck.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "cave wall",
+    "fact": "The cave wall lies to the south between the two nEttin g walls, forming a natural boundary of the village.",
+    "source_quote": "Between the two walls to the south is the cave wall.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "cave wall position",
+    "fact": "The cave wall lies between the two walls to the south.",
+    "source_quote": "Between the two walls to the south is the cave wall",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Darklake",
+    "fact": "The Darklake borders the northern edge of Sloobludop, with docks and some boats. It is a source of food and transportation, but also a place of mystery and danger. The water is associated with the Deep Father\u2019s cult and the unnatural movement of Kuo-toans who swim in schools.",
+    "source_quote": "The Darklake side has docks. Some of the docks have boats. Some are empty.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Darklake",
+    "fact": "The Darklake is a body of water bordering the northern edge of Sloobludop. It features docks with boats, some occupied, some empty. Groups of kuo-toan leaders walk along its shore, maintaining societal order.",
+    "source_quote": "The Darklake side has docks. Some of the docks have boats. Some are empty. Walking along the docks are groups of Kuo-Toans.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Darklake",
+    "fact": "The Darklake is a body of water to the north of the two nEttin g walls, with docks, some of which have boats, and where groups of Kuo-Toans walk along its edge.",
+    "source_quote": "The Darklake side has docks. Some of the docks have boats. Some are empty. Walking along the docks are groups of Kuo-Toans.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Darklake docks",
+    "fact": "The Darklake docks have boats, some occupied and some empty, and are patrolled by Kuo-Toans who serve as leaders maintaining societal order.",
+    "source_quote": "The Darklake side has docks. Some of the docks have boats. Some are empty. Walking along the docks are groups of Kuo-Toans. These leader types that Shuushar explained are responsible for ensuring that the madness of the Kuo-Toans doesn\u2019t rip the society apart.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Darklake position",
+    "fact": "The Darklake lies between the two nEttin g walls to the north.",
+    "source_quote": "To the north, between the two nEttin g walls, is the Darklake",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "docks position",
+    "fact": "The docks lie on the Darklake side.",
+    "source_quote": "The Darklake side has docks",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Glooglugogg's position",
+    "fact": "Glooglugogg is near Ploop\u2019s house, observing the escapees.",
+    "source_quote": "Safe inside Ploop\u2019s house, another Kuo-Toan stares at them.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "huts of the kuo-toans",
+    "fact": "The huts of the kuo-toans line the village, with another wall of nets at the far end, 500 feet away, and the cave wall and Darklake defining the boundaries.",
+    "source_quote": "Past the walls are the huts of the kuo-toans, and at the other end of the town, almost 500 feet away, is another wall of nets.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "huts position",
+    "fact": "The huts of the kuo-toans lie past the walls.",
+    "source_quote": "Past the walls are the huts of the kuo-toans",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Leemooggoogoon's Altar",
+    "fact": "The altar of Leemooggoogoon, the Deep Father, is a stretched hide of a manta ray pinned between two poles. A dead manta ray is centered on the hide, with two dead octopuses draped across it, their tentacles pinned and heads painted red and blue. The stone altar below is stained dark with blood and reeks of decay.",
+    "source_quote": "It consists of a large hide cut roughly in the shape of a manta ray and stretched out on cords between two support poles. A dead, splayed-out manta ray is pinned to the center of the hide. Two dead octopuses are draped across the top...",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Ploopploopeen's quarters",
+    "fact": "Ploopploopeen's quarters are located in the village near the western side.",
+    "source_quote": "twelve kuo-toa led by a kuo-toa monitor arrive at Ploopploopeen\u2019s quarters",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Ploop\u2019s quarters",
+    "fact": "Ploop\u2019s quarters are where the escapees stay, and where a kuo-toan named Glooglugogg speaks to them after they return from observing the Deep Father\u2019s altar.",
+    "source_quote": "Safe inside Ploop\u2019s house, another Kuo-Toan stares at them... He says, 'My name is Glooglugogg.'",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Sea Mother's Altar",
+    "fact": "The altar of the Sea Mother is a large wooden statue of a humanoid female, crudely carved and adorned with the severed head and claws of a giant albino crayfish, lashed with gut. Shells, colored stones, mushrooms, and rotting fish are piled at its base and strung around its neck. It emits a powerful stench of rotting shellfish.",
+    "source_quote": "The statue is roughly carved from wood in the shape of a humanoid female, its head and forearms formed from the severed head and claws of a giant albino crayfish. These parts are lashed on with strands of gut and emit an overpowering stench of rotting shellfish.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Sloobludop",
+    "fact": "Between the two walls to the south is the cave wall. To the north, between the two nEttin g walls, is the Darklake.",
+    "source_quote": "Between the two walls to the south is the cave wall. To the north, between the two nEttin g walls, is the Darklake.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Sloobludop",
+    "fact": "Between the walls of nEttin g, the cave wall, and the Darklake is the village. There are over a hundred houses of various sizes.",
+    "source_quote": "Between the walls of nEttin g, the cave wall, and the Darklake is the village. There are over a hundred houses of various sizes.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Sloobludop",
+    "fact": "Each home has mud walls, and the ceilings are made from an unidentified dried vegetable matter.",
+    "source_quote": "Each home has mud walls, and the ceilings are made from an unidentified dried vegetable matter.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Sloobludop",
+    "fact": "Four stern kuo-toa slowly circle the statue, alert and on guard, while a few others move about, gazing up at the statue and bowing repeatedly while chanting.",
+    "source_quote": "Four stern kuo-toa slowly circle the statue, alert and on guard, while a few others move about, gazing up at the statue and bowing repeatedly while chanting.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Sloobludop",
+    "fact": "In the middle of the town is a large statue.",
+    "source_quote": "In the middle of the town is a large statue",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Sloobludop",
+    "fact": "Past the walls are the huts of the kuo-toans, and at the other end of the town, almost 500 feet away, is another wall of nets.",
+    "source_quote": "Past the walls are the huts of the kuo-toans, and at the other end of the town, almost 500 feet away, is another wall of nets.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Sloobludop",
+    "fact": "Sloobludop is a Kuo-toan village with two concentric walls made of netting and stone, a cave wall to the south, and the Darklake to the north. The village lies between these barriers, with over a hundred mud-walled homes and ceilings made of unidentified dried vegetable matter. Docks line the Darklake, with some boats present. The town is dominated by two altars: one for the Sea Mother, one for the Deep Father.",
+    "source_quote": "There are over a hundred houses of various sizes. Each home has mud walls, and the ceilings are made from an unidentified dried vegetable matter.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Sloobludop",
+    "fact": "Sloobludop is a kuo-toan village situated between two walls of netting, with a cave wall to the south and the Darklake to the north. It contains over a hundred mud-walled homes with ceilings made of dried vegetable matter. The village is centered around two altars and has docks along the Darklake.",
+    "source_quote": "Between the two walls to the south is the cave wall. To the north, between the two nEttin g walls, is the Darklake. Between the walls of nEttin g, the cave wall, and the Darklake is the village. There are over a hundred houses of various sizes.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Sloobludop",
+    "fact": "Sloobludop is a village with two walls of nEttin g, a cave wall to the south, a Darklake to the north, and over a hundred houses with mud walls and ceilings made from unidentified dried vegetable matter.",
+    "source_quote": "The tunnels eventually end up on the village's western side of about 500 kuo-toans. There is a wall made of nEttin g guarded by Kuo-toans... Between the two walls to the south is the cave wall. To the north, between the two nEttin g walls, is the Darklake. Between the walls of nEttin g, the cave wall, and the Darklake is the village. There are over a hundred houses of various sizes. Each home has mud walls, and the ceilings are made from an unidentified dried vegetable matter.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Sloobludop",
+    "fact": "The Darklake side has docks. Some of the docks have boats. Some are empty.",
+    "source_quote": "The Darklake side has docks. Some of the docks have boats. Some are empty.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Sloobludop",
+    "fact": "The idol of Leemooggoogoon the Deep Father consists of a large hide cut roughly in the shape of a manta ray and stretched out on cords between two support poles. A dead, splayed-out manta ray is pinned to the center of the hide. Two dead octopuses are draped across the top, their tentacles pinned and artfully arrayed, their heads tied together and painted with red and blue pigments. The idol reeks of decay and the broad stone altar below the idol is stained dark with blood.",
+    "source_quote": "It consists of a large hide cut roughly in the shape of a manta ray and stretched out on cords between two support poles. A dead, splayed-out manta ray is pinned to the center of the hide. Two dead octopuses are draped across the top, their tentacles pinned and artfully arrayed, their heads tied together and painted with red and blue pigments. The idol reeks of decay and the broad stone altar below the idol is stained dark with blood.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Sloobludop",
+    "fact": "The statue is roughly carved from wood in the shape of a humanoid female, its head and forearms formed from the severed head and claws of a giant albino crayfish. These parts are lashed on with strands of gut and emit an overpowering stench of rotting shellfish. Shells, brightly colored stones, mushrooms, and rotting fish are piled at the statue\u2019s feet and strung in garlands around its neck.",
+    "source_quote": "The statue is roughly carved from wood in the shape of a humanoid female, its head and forearms formed from the severed head and claws of a giant albino crayfish. These parts are lashed on with strands of gut and emit an overpowering stench of rotting shellfish. Shells, brightly colored stones, mushrooms, and rotting fish are piled at the statue\u2019s feet and strung in garlands around its neck.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Sloobludop",
+    "fact": "The tunnels eventually end up on the village's western side of about 500 kuo-toans. There is a wall made of nEttin g guarded by Kuo-toans.",
+    "source_quote": "The tunnels eventually end up on the village's western side of about 500 kuo-toans. There is a wall made of nEttin g guarded by Kuo-toans.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Sloobludop",
+    "fact": "Walking along the docks are groups of Kuo-Toans. These leader types that Shuushar explained are responsible for ensuring that the madness of the Kuo-Toans doesn\u2019t rip the society apart.",
+    "source_quote": "Walking along the docks are groups of Kuo-Toans. These leader types that Shuushar explained are responsible for ensuring that the madness of the Kuo-Toans doesn\u2019t rip the society apart.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "statue of Deep Father position",
+    "fact": "The idol of Leemooggoogoon is located near the southern cave wall.",
+    "source_quote": "They sneak out just close enough to see the idol of Leemooggoogoon the Deep Father",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "statue of Deep Sea Mother position",
+    "fact": "The statue of the Deep Sea Mother is in the middle of the town.",
+    "source_quote": "In the middle of the town is a large statue",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "statue of Leemooggoogoon position",
+    "fact": "The idol of Leemooggoogoon the Deep Father is located near the southern cave wall.",
+    "source_quote": "They sneak out just close enough to see the idol of Leemooggoogoon the Deep Father",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Velkynvelve elevation",
+    "fact": "Velkynvelve sits 500 kuo-toans above the cavern floor.",
+    "source_quote": "the village's western side of about 500 kuo-toans",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "village center",
+    "fact": "The center of the village contains the large statue of the Sea Mother, around which four stern kuo-toa circle, alert and on guard, while others bow and chant.",
+    "source_quote": "In the middle of the town is a large statue... Four stern kuo-toa slowly circle the statue, alert and on guard, while a few others move about, gazing up at the statue and bowing repeatedly while chanting.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "village population",
+    "fact": "There are over a hundred houses of various sizes.",
+    "source_quote": "There are over a hundred houses of various sizes",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "village position",
+    "fact": "The village lies between the walls of nEttin g, the cave wall, and the Darklake.",
+    "source_quote": "Between the walls of nEttin g, the cave wall, and the Darklake is the village",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "wall of nets",
+    "fact": "A second wall of nets lies 500 feet from the huts, forming the eastern boundary of the village, opposite the nEttin g wall.",
+    "source_quote": "At the other end of the town, almost 500 feet away, is another wall of nets.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "chasme count",
+    "fact": "Four stern kuo-toa slowly circle the statue, alert and on guard, while a few others move about, gazing up at the statue and bowing repeatedly while chanting.",
+    "source_quote": "Four stern kuo-toa slowly circle the statue, alert and on guard, while a few others move about",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Derro",
+    "fact": "Derro prisoners were previously captured and tied up by the party, an act noted by Gloog as both honorable and odd, implying a deeper cultural or moral context.",
+    "source_quote": "You didn\u2019t choose just to give us the derro whom you tied up? That is both honorable and odd.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Guardians of the Deep Father's Altar",
+    "fact": "Kuo-toans circle the idol of Leemooggoogoon, the Deep Father, and immediately notice intruders. They are vigilant and hostile, triggering a confrontation when Grygum and others approach the altar.",
+    "source_quote": "Unfortunately, their attempt to be quiet is anything but. And the kuo-toans circling the Deep Father notice.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Guardians of the Sea Mother's Altar",
+    "fact": "Four stern kuo-toans slowly circle the Sea Mother's altar, alert and on guard. They are part of the cult's permanent vigil and react to any disturbance near the idol.",
+    "source_quote": "Four stern kuo-toa slowly circle the statue, alert and on guard...",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Kuo-toa",
+    "fact": "Twelve kuo-toa accompanied their monitor to Ploopploopeen\u2019s quarters as part of a formal escort mission to the archpriest of the Deep Father.",
+    "source_quote": "In the morning, twelve kuo-toa led by a kuo-toa monitor arrive at Ploopploopeen\u2019s quarters.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Kuo-toa Monitor",
+    "fact": "A kuo-toa monitor led twelve kuo-toa to Ploopploopeen\u2019s quarters and was admitted by the archpriest of the Sea Mother to escort him, his whip, and the prisoners to the archpriest of the Deep Father.",
+    "source_quote": "In the morning, twelve kuo-toa led by a kuo-toa monitor arrive at Ploopploopeen\u2019s quarters. The archpriest of the Sea Mother admits the monitor and informs him that he, his whip, and the prisoners will accompany them to see the archpriest of the Deep Father.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Kuo-toan Guardians",
+    "fact": "Four stern Kuo-toans slowly circle the Sea Mother\u2019s statue, alert and on guard. Others move about, bowing and chanting. They are not ordinary worshippers but specialized sentinels, likely trained to protect sacred sites. Their behavior is unnatural and deeply unsettling to the escapees.",
+    "source_quote": "Four stern kuo-toa slowly circle the statue, alert and on guard, while a few others move about, gazing up at the statue and bowing repeatedly while chanting.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Kuo-toan Monitor",
+    "fact": "A Kuo-toan monitor arrives at Ploopploopeen\u2019s quarters with twelve followers, signaling formal authority. Monitors are responsible for maintaining order and preventing societal collapse from madness. This monitor is acting on behalf of the Deep Father\u2019s leadership and has come to escort the escapees to the altar of Leemooggoogoon.",
+    "source_quote": "Twelve kuo-toa led by a kuo-toa monitor arrive at Ploopploopeen\u2019s quarters.",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Bloppblippodd",
+    "fact": "Bloppblippodd is Gloog\u2019s sister; she has been granted excessive deference by their father, has fallen prey to madness, and shows no respect for their society\u2019s ways.",
+    "source_quote": "Our society is torn to pieces by my sister Bloppblippodd. Father has shown her too much deference, offered her too much, and let her get away with too much. She has no respect for our ways. And she has fallen prey to this madness.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Bloppblippodd",
+    "fact": "Bloppblippodd is the high priestess of the Deep Father and Ploopploopeen\u2019s daughter, whose relationship with her father is strained and whose devotion to the Deep Father is questioned.",
+    "source_quote": "My daughter, Bloppblippodd, the high priestess of the Deep Father, will demand to see the offering.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Bloppblippodd",
+    "fact": "Bloppblippodd is the high priestess of the Deep Father and daughter of Ploopploopeen. She demands offerings for her deity and is the catalyst for the planned attack on the escapees. Her relationship with her father is troubled.",
+    "source_quote": "In the morning, my daughter, Bloppblippodd, the high priestess of the Deep Father, will demand to see the offering.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Bloppblippodd",
+    "fact": "Bloppblippodd is the high priestess of the Deep Father, Ploopploopeen\u2019s daughter, who has fallen into madness and is seen as a threat to Kuo-toan society. She demands sacrifices for her false god, insists on unwilling offerings, and has amassed a faction of followers. Her relationship with her father is strained and unclear, and her existence as a legitimate cleric is questioned.",
+    "source_quote": "She needs sacrifices for her false god.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is an escapee who finds purpose in helping the Kuo-toans after a long history of running and loss. He is repulsed by the stench of the altars but pretends to be itchy to hide his discomfort. He is moved by the idea of having a goal after prison and death.",
+    "source_quote": "Man, we've been running for days. Having a purpose in life is a good thing.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is an escapee who finds purpose in helping the Kuo-toans after years of running and loss. He is repulsed by the stench of the Sea Mother\u2019s altar but pretends it\u2019s an itch. He shouts for food, is convinced by the promise of cooked fish, and sees the conflict as a meaningful end to their despair.",
+    "source_quote": "Having something to focus on would be much less depressing than just doing what we are doing.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz, having escaped prison and witnessed the death of a group member, finds purpose in helping the Kuo-Toans and declares that having something to focus on is less depressing than running.",
+    "source_quote": "Man, we\u2019ve been running for days. Having a purpose in life is a good thing. We busted out of prison, and then what? Ran. We\u2019re being chased, and we keep running. One of our group got killed by another of our group. Having something to focus on would be much less depressing than just doing what we are doing.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Deep Father",
+    "fact": "The Deep Father is the deity of Bloppblippodd, worshipped with a manta-ray hide idol and blood-stained altar, and is contrasted with the Sea Mother\u2019s scavenger nature.",
+    "source_quote": "The idol of Leemooggoogoon the Deep Father... She has fallen prey to this madness.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Glooglugogg",
+    "fact": "Glooglugogg is known as Gloog to his friends; he disapproves of his father's decision to allow outsiders to meddle in their affairs, but acknowledges the party's respect for the Sea Mother and their understanding of their ways.",
+    "source_quote": "Gloog is what my friends call me. I do not approve of Father\u2019s choice to have outsiders meddle in our affairs, but you showed respect to the Sea Mother, and thus, I see that you respect and understand our ways.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Glooglugogg",
+    "fact": "Glooglugogg, called Gloog, is a Kuo-toan who disapproves of his sister Bloppblippodd\u2019s rule and believes she has corrupted their traditions. He supports the escapees\u2019 involvement in resolving the conflict, insists on honor-bound action without the first punch, and acknowledges the group\u2019s respect for the Sea Mother. He is uncertain whether the escapees chose to spare the derro they captured.",
+    "source_quote": "You didn\u2019t choose just to give us the derro whom you tied up? That is both honorable and odd.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Glooglugogg",
+    "fact": "Glooglugogg, who goes by Gloog, is a kuo-toan who disapproves of his sister Bloppblippodd\u2019s actions and believes she has fallen prey to madness and disrespect for their ways.",
+    "source_quote": "My name is Glooglugogg. Gloog is what my friends call me. I do not approve of Father\u2019s choice to have outsiders meddle in our affairs, but you showed respect to the Sea Mother, and thus, I see that you respect and understand our ways.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Glooglugogg's Father",
+    "fact": "Gloog\u2019s father is the patriarch who has shown excessive deference to Bloppblippodd, enabling her descent into madness and fracturing their society.",
+    "source_quote": "Father has shown her too much deference, offered her too much, and let her get away with too much.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is an escapee who recalls lore about the Deep Sea Mother and understands that regurgitation is a sacred offering. He spits on the altar, gains Ploop\u2019s trust, and helps the group navigate Kuo-toan customs. He wonders what Ploop has heard and is aware of the ambiguity surrounding Leemooggoogoon\u2019s existence.",
+    "source_quote": "Grygum recalls from somewhere that the Deep Sea Mother is a scavenger goddess and that regurgitating and spitting on her altar is perhaps the perfect form of offering.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is one of the escapees who begins to understand Kuo-toan rituals and misconceptions. He recognizes the altar of the Sea Mother as a scavenger deity and participates in the spit-offering. He is skeptical of Leemooggoogoon's existence and attempts to negotiate peace with symbols of parley.",
+    "source_quote": "This is like a flag of parley. Have you considered a white flag?",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum recalls that the Deep Sea Mother is a scavenger goddess and that regurgitating and spitting on her altar is the perfect form of offering, and he spits on the altar to demonstrate respect.",
+    "source_quote": "Grygum recalls from somewhere that the Deep Sea Mother is a scavenger goddess and that regurgitating and spitting on her altar is perhaps the perfect form of offering. Ploop is delighted when Grygum and Thorin both spit on the altar.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum understands that this is like a flag of parley.",
+    "source_quote": "Grygum finally understands, \"This is like a flag of parley.\"",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Kuo-toan monitor",
+    "fact": "The kuo-toan monitor leads twelve kuo-toa to Ploopploopeen\u2019s quarters and is admitted to oversee the transfer of prisoners to the archpriest of the Deep Father.",
+    "source_quote": "In the morning, twelve kuo-toa led by a kuo-toa monitor arrive at Ploopploopeen\u2019s quarters. The archpriest of the Sea Mother admits the monitor and informs him that he, his whip, and the prisoners will accompany them to see the archpriest of the Deep Father.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Leemooggoogoon",
+    "fact": "Leemooggoogoon is the Deep Father, a deity whose existence is questioned by Zalthir, worshipped by Bloppblippodd, and whose altar is marked by a manta-ray hide idol stained with blood.",
+    "source_quote": "It\u2019s also unclear if a god named Leemooggoogoon even exists... They sneak out just close enough to see the idol of Leemooggoogoon the Deep Father.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Ploopploopeen",
+    "fact": "Ploopploopeen is delighted when Grygum and Thorin both spit on the altar.",
+    "source_quote": "Ploop is delighted when Grygum and Thorin both spit on the altar.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Ploopploopeen",
+    "fact": "Ploopploopeen is the archpriest of the Sea Mother who has been ordered to accompany the monitor, his whip, and prisoners to the archpriest of the Deep Father.",
+    "source_quote": "The archpriest of the Sea Mother admits the monitor and informs him that he, his whip, and the prisoners will accompany them to see the archpriest of the Deep Father.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Ploopploopeen",
+    "fact": "Ploopploopeen is the archpriest of the Sea Mother who stares unblinkingly at the escapees and realizes the Tongues spell didn\u2019t translate his intent as well as he would like.",
+    "source_quote": "Ploopploopeen, the archpriest of the Sea Mother, stares unblinkingly at the escapees.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Ploopploopeen",
+    "fact": "Ploopploopeen is the archpriest of the Sea Mother, currently hosting the escapees in Sloobludop and attempting to broker a ritual exchange with the followers of Leemooggoogoon. He has strained relations with his daughter, Bloppblippodd, and is uncertain whether Leemooggoogoon actually exists.",
+    "source_quote": "I will present you to her, and I will insist that I come with you. She will accept. And then all of my followers will attack.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Ploopploopeen",
+    "fact": "Ploopploopeen is the archpriest of the Sea Mother, who seeks to mediate between his people and outsiders, but struggles with communication and familial tension with his daughter Bloppblippodd. He believes offerings to the Sea Mother require regurgitation and spitting, and he is delighted when Grygum and Thorin comply. He sleeps standing and is observed walking outside while asleep.",
+    "source_quote": "Ploop is delighted when Grygum and Thorin both spit on the altar.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Ploopploopeen",
+    "fact": "Ploopploopeen realizes that the Tongues spell didn\u2019t translate his intent as well as he would like.",
+    "source_quote": "Ploopploopeen realizes that the Tongues spell didn\u2019t translate his intent as well as he would like.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Ploopploopeen",
+    "fact": "Ploopploopeen says, \"An unwilling sacrifice is better. This is an evil god.\"",
+    "source_quote": "No. An unwilling sacrifice is better. This is an evil god.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Ploopploopeen",
+    "fact": "Ploopploopeen says, \"I tried that, but she didn\u2019t bite. She needs sacrifices for her false god.\"",
+    "source_quote": "I tried that, but she didn\u2019t bite. She needs sacrifices for her false god.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Ploopploopeen",
+    "fact": "Ploopploopeen says, \"You will arrive in Sloobludop and stay in my quarters. I will send message to the followers of Leemooggoogoon that I have an offering for him. In the morning, my daughter, Bloppblippodd, the high priestess of the Deep Father, will demand to see the offering. I will present you to her, and I will insist that I come with you. She will accept. And then all of my followers will attack. Your role in this will be over.\"",
+    "source_quote": "No, this is wrong. You will arrive in Sloobludop and stay in my quarters. I will send message to the followers of Leemooggoogoon that I have an offering for him. In the morning, my daughter, Bloppblippodd, the high priestess of the Deep Father, will demand to see the offering. I will present you to her, and I will insist that I come with you. She will accept. And then all of my followers will attack. Your role in this will be over.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Sea Mother",
+    "fact": "The Sea Mother is a scavenger goddess whose statue is made of wood and severed giant albino crayfish parts, and whose worship includes spitting and regurgitation as offerings.",
+    "source_quote": "Grygum recalls from somewhere that the Deep Sea Mother is a scavenger goddess and that regurgitating and spitting on her altar is perhaps the perfect form of offering.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Shuushar",
+    "fact": "Shuushar is referenced as having explained that the Kuo-Toans walking along the docks are leader types responsible for ensuring the madness of the Kuo-Toans doesn\u2019t rip the society apart.",
+    "source_quote": "These leader types that Shuushar explained are responsible for ensuring that the madness of the Kuo-Toans doesn\u2019t rip the society apart.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is an escapee who questions the effectiveness of Kuo-toan defenses and is wary of their food. He spits on the Sea Mother\u2019s altar and is concerned about the nature of sacrifices. He is the first to suggest retreat when discovered at the Deep Father\u2019s altar.",
+    "source_quote": "I say we beat a hasty retreat.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is an escapee who questions the effectiveness of Kuo-toan defenses, worries about food, and observes the unnatural behaviors of the Kuo-toans. He spits on the altar, is convinced by the promise of cooked fish, and later suggests retreat when the Deep Father\u2019s altar is discovered.",
+    "source_quote": "Thorin is worried that this will be some raw rotting food, but Ploop... assures him that Kuo Toans eat cooked fish.",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is wary of raw rotting food, questions the effectiveness of nEttin g walls, and participates in spitting on the Sea Mother\u2019s altar.",
+    "source_quote": "Thorin is worried that this will be some raw rotting food... Thorin notes that the nEttin g isn\u2019t an effective wall against a determined invader... Ploop is delighted when Grygum and Thorin both spit on the altar.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Topsy and Turvy",
+    "fact": "Topsy and Turvy are escapees who recognize the chaos of the situation as an opportunity for theft. They are not directly involved in ritual discussions but are attuned to the potential for looting.",
+    "source_quote": "A free-for-all is an excellent opportunity to steal.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is a member of the party who seeks clarification on their role in the conflict; he is satisfied after learning they will assist without initiating violence.",
+    "source_quote": "So when we go there, our job is just to sit around and do nothing.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is an escapee initially indifferent to the Kuo-toans' plight, seeing their conflicts as irrelevant. He is skeptical of their rituals but is eventually convinced by the promise of cooked fish and the group's acceptance of Ploop's offer.",
+    "source_quote": "They have their problems, and the issues of these two warring tribes are not their concern.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is an escapee who initially sees no value in helping the Kuo-toans, questions his role repeatedly, and seeks clarity on whether he must fight. He is swayed by the promise of cooked food and the honor-bound nature of Gloog\u2019s plan, and he is wary of the supernatural behaviors of the Kuo-toans.",
+    "source_quote": "So when we go there, our job is just to sit around and do nothing.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is skeptical of the Kuo-Toans\u2019 cause, questions the existence of Leemooggoogoon, and initially sees no value in helping them until convinced by their customs.",
+    "source_quote": "Zalthir wonders why they should bother. They have their problems, and the issues of these two warring tribes are not their concern... It\u2019s also unclear if a god named Leemooggoogoon even exists.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "altar condition",
+    "fact": "The broad stone altar below the idol is stained dark with blood.",
+    "source_quote": "the broad stone altar below the idol is stained dark with blood",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "blood-stained altar",
+    "fact": "The broad stone altar below the idol of Leemooggoogoon is stained dark with blood, indicating frequent ritual use.",
+    "source_quote": "The broad stone altar below the idol is stained dark with blood.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "blood-stained stone altar",
+    "fact": "The broad stone altar beneath the Deep Father\u2019s idol is stained dark with blood, indicating violent ritual practices.",
+    "source_quote": "The broad stone altar below the idol is stained dark with blood.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "dead manta ray",
+    "fact": "The dead manta ray is pinned to the center of the hide on the altar of Leemooggoogoon, forming the core of the idol.",
+    "source_quote": "A dead, splayed-out manta ray is pinned to the center of the hide.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "dead octopuses",
+    "fact": "Two dead octopuses are draped across the top of the Leemooggoogoon idol, their tentacles pinned and artfully arranged, their heads tied together and painted with red and blue pigments.",
+    "source_quote": "Two dead octopuses are draped across the top, their tentacles pinned and artfully arrayed, their heads tied together and painted with red and blue pigments.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Deep Father Idol",
+    "fact": "The Deep Father idol is a hide stretched between poles in the shape of a manta ray, with a dead manta ray pinned to its center and two dead octopuses draped across it, their heads painted and tied together. It is stained with blood and emits a foul odor. It is the central object of worship for Bloppblippodd\u2019s faction.",
+    "source_quote": "It consists of a large hide cut roughly in the shape of a manta ray and stretched out on cords between two support poles.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "docks condition",
+    "fact": "Some of the docks have boats; some are empty.",
+    "source_quote": "Some of the docks have boats. Some are empty",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "dried vegetable matter",
+    "fact": "The ceilings of homes in Sloobludop are made from an unidentified dried vegetable matter, a material common to all dwellings in the village.",
+    "source_quote": "Each home has mud walls, and the ceilings are made from an unidentified dried vegetable matter.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "gut strands",
+    "fact": "Gut strands are used to lash the severed head and claws of a giant albino crayfish onto the statue of the Sea Mother, contributing to its overpowering stench.",
+    "source_quote": "These parts are lashed on with strands of gut and emit an overpowering stench of rotting shellfish.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "gut-strung garlands",
+    "fact": "Garlands of gut hold shells, colored stones, mushrooms, and rotting fish around the neck of the Sea Mother\u2019s statue.",
+    "source_quote": "Shells, brightly colored stones, mushrooms, and rotting fish are piled at the statue\u2019s feet and strung in garlands around its neck.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "house materials",
+    "fact": "Each home has mud walls, and the ceilings are made from an unidentified dried vegetable matter.",
+    "source_quote": "Each home has mud walls, and the ceilings are made from an unidentified dried vegetable matter",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "idol dimensions",
+    "fact": "The idol of Leemooggoogoon consists of a large hide cut roughly in the shape of a manta ray and stretched out on cords between two support poles.",
+    "source_quote": "It consists of a large hide cut roughly in the shape of a manta ray and stretched out on cords between two support poles",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "idol offerings",
+    "fact": "A dead, splayed-out manta ray is pinned to the center of the hide. Two dead octopuses are draped across the top, their tentacles pinned and artfully arrayed, their heads tied together and painted with red and blue pigments.",
+    "source_quote": "A dead, splayed-out manta ray is pinned to the center of the hide. Two dead octopuses are draped across the top, their tentacles pinned and artfully arrayed, their heads tied together and painted with red and blue pigments",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "idol stench",
+    "fact": "The idol reeks of decay.",
+    "source_quote": "The idol reeks of decay",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Leemooggoogoon's Idol",
+    "fact": "The idol of Leemooggoogoon is a hide stretched on cords between two poles, shaped like a manta ray. It is pinned with a dead manta ray and two dead octopuses, their tentacles artfully arranged and their heads painted red and blue. The altar below is stained with blood.",
+    "source_quote": "It consists of a large hide cut roughly in the shape of a manta ray and stretched out on cords between two support poles. A dead, splayed-out manta ray is pinned to the center of the hide. Two dead octopuses are draped across the top, their tentacles pinned and artfully arrayed, their heads tied together and painted with red and blue pigments.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "nEttin g",
+    "fact": "nEttin g is a material used to construct walls in Sloobludop, described as ineffective against determined invaders, and guarded by Kuo-toans who snap to attention when Ploop arrives.",
+    "source_quote": "There is a wall made of nEttin g guarded by Kuo-toans... Thorin notes that the nEttin g isn\u2019t an effective wall against a determined invader.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "N-Ettin Wall",
+    "fact": "The western entrance to Sloobludop is guarded by a wall made of n-Ettin g, which Thorin notes is ineffective against a determined invader. It is manned by kuo-toans who snap to attention upon Ploop\u2019s arrival.",
+    "source_quote": "There is a wall made of nEttin g guarded by Kuo-toans. Thorin notes that the nEttin g isn\u2019t an effective wall against a determined invader.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Net Wall",
+    "fact": "The eastern boundary of Sloobludop is a second wall of nets, separating the village from the Deep Father\u2019s altar. It is part of the ritual geography of the town and likely serves both defensive and symbolic purposes.",
+    "source_quote": "Past the walls are the huts of the kuo-toans, and at the other end of the town, almost 500 feet away, is another wall of nets.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "red and blue pigments",
+    "fact": "Red and blue pigments are used to paint the heads of the two dead octopuses on the altar of Leemooggoogoon, artfully arrayed and tied together.",
+    "source_quote": "Their heads tied together and painted with red and blue pigments.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Sea Mother's Idol",
+    "fact": "The idol of the Sea Mother is a nine-foot-tall wooden humanoid statue, its head and forearms composed of the severed head and claws of a giant albino crayfish, bound with gut. It is decorated with brightly colored stones, mushrooms, shells, and rotting fish in garlands and piles.",
+    "source_quote": "The statue is roughly carved from wood in the shape of a humanoid female, its head and forearms formed from the severed head and claws of a giant albino crayfish. These parts are lashed on with strands of gut and emit an overpowering stench of rotting shellfish. Shells, brightly colored stones, mushrooms, and rotting fish are piled at the statue\u2019s feet and strung in garlands around its neck.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Sea Mother Statue",
+    "fact": "The Sea Mother statue is a nine-foot-tall wooden idol carved in the shape of a humanoid female, with severed crayfish head and claws lashed on with gut. It emits a foul stench and is adorned with shells, colored stones, mushrooms, and rotting fish. It is the central object of worship for the Sea Mother\u2019s followers.",
+    "source_quote": "The statue is roughly carved from wood in the shape of a humanoid female, its head and forearms formed from the severed head and claws of a giant albino crayfish.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "silver candlestick value",
+    "fact": "The silver candlesticks flanking the Sea Mother altar are worth 25 gp each.",
+    "source_quote": "shells, brightly colored stones, mushrooms, and rotting fish are piled at the statue\u2019s feet and strung in garlands around its neck",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "statue dimensions",
+    "fact": "The statue of the Deep Sea Mother is roughly nine feet tall, carved from wood in the shape of a humanoid female.",
+    "source_quote": "the sizeable nine-foot-tall statue. The statue is roughly carved from wood in the shape of a humanoid female",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "statue materials",
+    "fact": "The statue's head and forearms are formed from the severed head and claws of a giant albino crayfish, lashed on with strands of gut.",
+    "source_quote": "its head and forearms formed from the severed head and claws of a giant albino crayfish. These parts are lashed on with strands of gut",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "statue offerings",
+    "fact": "Shells, brightly colored stones, mushrooms, and rotting fish are piled at the statue\u2019s feet and strung in garlands around its neck.",
+    "source_quote": "Shells, brightly colored stones, mushrooms, and rotting fish are piled at the statue\u2019s feet and strung in garlands around its neck",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "statue size",
+    "fact": "The statue is sizeable and nine feet tall.",
+    "source_quote": "the sizeable nine-foot-tall statue",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "statue stench",
+    "fact": "The statue emits an overpowering stench of rotting shellfish.",
+    "source_quote": "emit an overpowering stench of rotting shellfish",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "the whip",
+    "fact": "The whip carried by the archpriest of the Sea Mother is being taken with him on the escort to the archpriest of the Deep Father, suggesting ceremonial or punitive significance.",
+    "source_quote": "he, his whip, and the prisoners will accompany them to see the archpriest of the Deep Father.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "unidentified dried vegetable matter",
+    "fact": "This material is used for ceilings in all homes in Sloobludop, and its nature remains unknown to the escapees.",
+    "source_quote": "Each home has mud walls, and the ceilings are made from an unidentified dried vegetable matter.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "whip",
+    "fact": "The whip is carried by the archpriest of the Sea Mother and accompanies him and the prisoners to see the archpriest of the Deep Father.",
+    "source_quote": "The archpriest of the Sea Mother admits the monitor and informs him that he, his whip, and the prisoners will accompany them to see the archpriest of the Deep Father.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "derro prisoners",
+    "fact": "The party had previously tied up derro prisoners, an act Gloog finds both honorable and odd, suggesting unresolved tension or mystery around their capture and fate.",
+    "source_quote": "You didn\u2019t choose just to give us the derro whom you tied up? That is both honorable and odd.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Existence of Leemooggoogoon",
+    "fact": "It is unclear whether Leemooggoogoon, the Deep Father, is a real deity or a construct used to justify ritual violence. Grygum and others suspect the god may not exist, but the cult\u2019s fervor and the bloodstained altar suggest otherwise.",
+    "source_quote": "It\u2019s also unclear if a god named Leemooggoogoon even exists.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Existence of Leemooggoogoon",
+    "fact": "It is unclear whether Leemooggoogoon, the Deep Father, is a real deity or a delusion of Bloppblippodd\u2019s. The escapees and even Gloog question the legitimacy of the god, and the rituals surrounding the idol may be the product of madness rather than faith.",
+    "source_quote": "It\u2019s also unclear if a god named Leemooggoogoon even exists.",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Kuo-toan Sleep Behavior",
+    "fact": "Kuo-toans sleep while standing and move in schools of fish, suggesting they are not entirely human or are under supernatural influence. This behavior is normal to them but deeply disturbing to the escapees, and may hint at deeper magical corruption or transformation.",
+    "source_quote": "Many kuo-toans just walk around with their eyes open, sleeping. And that some other kuo-toans are moving about as schools of fish.",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Leemooggoogoon",
+    "fact": "It\u2019s unclear if a god named Leemooggoogoon even exists.",
+    "source_quote": "it\u2019s also unclear if a god named Leemooggoogoon even exists.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Ploopploopeen and Bloppblippodd's relationship",
+    "fact": "Ploopploopeen and his daughter have problems with their relationship.",
+    "source_quote": "He and his daughter have problems with their relationship.",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Purpose After Escape",
+    "fact": "The escapees are searching for meaning after years of running, prison, and death. Daz\u2019s declaration that having a purpose is less depressing than aimless flight resonates with the group, making them willing to engage in the kuo-toan conflict.",
+    "source_quote": "Having something to focus on would be much less depressing than just doing what we are doing.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "The Derro\u2019s Fate",
+    "fact": "The escapees captured a derro but chose not to hand them over to the Kuo-toans. Gloog finds this both honorable and odd, suggesting that the derro\u2019s fate remains unresolved and may have consequences for future alliances or betrayals.",
+    "source_quote": "You didn\u2019t choose just to give us the derro whom you tied up? That is both honorable and odd.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Zalthir's role",
+    "fact": "Zalthir wonders why they should bother. They have their problems, and the issues of these two warring tribes are not their concern.",
+    "source_quote": "Zalthir wonders why they should bother. They have their problems, and the issues of these two warring tribes are not their concern.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  }
+]

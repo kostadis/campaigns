@@ -1,0 +1,128 @@
+[
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is a shadow monk who survived the Underdark through unconventional means, rejecting formal training in favor of what works. He now navigates Candlekeep\u2019s rigid traditions with quiet defiance, recognizing that his deviations are not errors but adaptations.",
+    "source_quote": "Absolutely,\" I said. It was. Patience under provocation. Maintaining stillness when the environment is actively hostile. Responding to aggression without being ruled by it.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is a scholar whose interest in Stroud\u2019s chess game is performed with exaggerated intensity, masking a deeper obsession with patterns of decay and forgotten doctrines. He collects anomalies like relics, noting their cadences and distortions with ritual precision.",
+    "source_quote": "The only love I remember during the previous campaign,\" he said, \"involved giants, and it wasn't Stroud's.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin processes the world through conversation and observation, often revealing hidden truths by asking the wrong questions. He accepts paradoxes as natural \u2014 whether it\u2019s a sentient ooze becoming a monk or the sea being defeated by light \u2014 and finds peace in surrender rather than resolution.",
+    "source_quote": "Life takes you in weird directions and weird places,\" he said. \"You just gotta go with it.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool, a sentient grey ooze, has been shaped by Zalthir\u2019s guidance into an unlikely monk-in-training. He absorbs lessons through conflict, treating the spy\u2019s attempts to kill him as spiritual exercises \u2014 his formlessness becoming a metaphor for adaptability.",
+    "source_quote": "Zalthir? Will I be more of a monk or less of a monk by watching her? Is this some kind of pre-monk training you've put me in?",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "The Spy (Miniaturized House T'sarran Operative)",
+    "fact": "The spy is a prisoner who demands incarceration not for safety, but for legitimacy \u2014 she wants to be seen as a captive of authority, not a burden carried by adventurers. Her fury stems from being treated as a tool rather than a person.",
+    "source_quote": "I am a prisoner and wish to be formally jailed by Candlekeep's guards.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Khell-Vire",
+    "fact": "Khell-Vire is a two-hundred-year-old half-elf shadow monk who refused an order decades ago and now serves as a silent archivist of forgotten lineages. He tests others not to judge their skill, but to reveal what they have become through their choices.",
+    "source_quote": "This question is for you, not for me.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "The Blind Monk",
+    "fact": "The blind monk is an examiner bound by tradition, judging Zalthir by scrolls that no longer apply. His rigid metrics fail to account for survival-based mastery \u2014 yet he recognizes Zalthir\u2019s power, even as he cannot name it.",
+    "source_quote": "You have learned nothing.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Candlekeep",
+    "fact": "Candlekeep is an institution of knowledge that refuses to hold prisoners, preferring exile over incarceration \u2014 yet it is also a place where anomalies are cataloged, tested, and sometimes preserved. Its authority lies not in punishment, but in observation and silence.",
+    "source_quote": "We hold prisoners. We do not keep them.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir's Trial of the Broken Mirror",
+    "fact": "Zalthir underwent a formal test of shadow monk discipline in Candlekeep\u2019s Echoing Hall, where every technique he performed was deemed 'technically wrong' \u2014 yet his results outperformed tradition. The trial exposed the failure of institutional assessment to recognize adaptive mastery.",
+    "source_quote": "Show me what else you haven't learned.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "The Note: 'Zalthir, the Underdark, until the Bone King sings.'",
+    "fact": "A cryptic note on Khell-Vire\u2019s desk references Zalthir\u2019s journey and an unknown entity \u2014 the Bone King \u2014 whose singing may mark an impending event. Neither Zalthir nor Khell-Vire can place it, but its presence suggests a hidden lineage or prophecy tied to the Underdark\u2019s collapse.",
+    "source_quote": "Zalthir, the Underdark, until the Bone King sings.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "The Chant of the Field Ward Preacher",
+    "fact": "A rhythmic, liturgical chant \u2014 identical to one previously heard from Eldred (the madman) and the Field Ward Preacher \u2014 is being recited by a young scholar in Candlekeep. Its cadence is subtly corrupted, suggesting a spreading pattern of psychic decay or ritual corruption tied to the Underdark\u2019s madness.",
+    "source_quote": "I know that chant. I know it well enough to know what he was doing wrong.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "The Echoing Hall",
+    "fact": "The Echoing Hall is a corridor in Candlekeep\u2019s north inner ward where sound returns altered \u2014 not as echo, but as echo with commentary. It is a place where truth is reflected imperfectly, making it ideal for testing those who operate outside doctrine.",
+    "source_quote": "Stone corridors... have a habit of returning sound to you slightly altered \u2014 not an echo exactly, more like the library itself was taking notes.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Candlekeep's Bell Tower Cells",
+    "fact": "Candlekeep\u2019s bell tower contains rarely-used cells with localized anti-magic properties \u2014 designed not for imprisonment, but for temporary detention. Their existence is a contradiction: a place meant to hold, yet never to keep \u2014 reflecting the institution\u2019s philosophy of delay over resolution.",
+    "source_quote": "Comfortable, localized anti-magic. They are very rarely used.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "The Miniaturized House T'sarran Spy",
+    "fact": "A tiny, sentient spy from House T'sarran, magically reduced and carried in a bag with Glabbagool. She is not merely a tool but a being who demands recognition \u2014 her captivity is psychological as much as physical, and her fury stems from being treated as an object.",
+    "source_quote": "I am a prisoner and wish to be formally jailed by Candlekeep's guards.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "The Shadow Monk Under-Robe",
+    "fact": "Khell-Vire wears a faded shadow monk under-robe beneath his Candlekeep gray \u2014 a silent declaration that identity outlasts institution. It is not a relic, but a living memory, worn like skin.",
+    "source_quote": "You don't stop dressing like what you were. You just layer something else over it.",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "The Day of Arrival at Candlekeep",
+    "fact": "The day Zalthir and his party arrived at Candlekeep marks the convergence of the Underdark\u2019s madness, the spy\u2019s rebellion, and the institution\u2019s refusal to resolve. It is the first day of delay \u2014 and perhaps, the beginning of something that cannot be contained.",
+    "source_quote": "Centuries do that to a building.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "The Difference Between Solutions and Postponements",
+    "fact": "A lesson from Candlekeep\u2019s monastery \u2014 remembered only in fragments \u2014 suggests that many acts of justice are not resolutions but delays. Zalthir now lives this truth: keeping the spy is not saving her, but postponing her fate.",
+    "source_quote": "I remember nothing else from that class. I remember wanting to be in the training hall.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Is Wisdom the Same as Resignation?",
+    "fact": "Thorin\u2019s statement \u2014 'You just gotta go with it' \u2014 haunts the party. Is it acceptance? Or surrender? The line blurs in Candlekeep, where knowledge is preserved, but change is deferred \u2014 and the only certainty is that some things will never be solved.",
+    "source_quote": "I have not yet decided whether it is wisdom or resignation. Possibly there is not much difference.",
+    "quote_verified": true
+  }
+]

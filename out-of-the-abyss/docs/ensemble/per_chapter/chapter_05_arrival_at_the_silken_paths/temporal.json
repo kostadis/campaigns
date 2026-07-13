@@ -1,0 +1,212 @@
+[
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The session occurs on the 7th day of the 2nd Tenday of Taraskh 1493.",
+    "source_quote": "7th day of the 2nd Tenday of Taraskh 1493",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The session occurs on the 8th day of the 2nd Tenday of Taraskh 1493.",
+    "source_quote": "8th day of the 2nd Tenday of Taraskh 1493",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "chasme count",
+    "fact": "Four chasme demons are present in the cavern above the prisoners' tower.",
+    "source_quote": "four chasme and two vrock",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "travel to Sloobludop",
+    "fact": "Sloobludop is approximately eight days away via the Darklake.",
+    "source_quote": "the town of Sloopdopblop is just eight days away",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Velkynvelve elevation",
+    "fact": "Velkynvelve sits 100 feet above the cavern floor.",
+    "source_quote": "Drow outpost was 100' in the sky",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "silver candlestick value",
+    "fact": "The silver candlesticks flanking the Lolth altar are worth 25 gp each.",
+    "source_quote": "a pair of heavy silver candlesticks worth 25 gp each",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Silken Paths description",
+    "fact": "The Silken Paths are a network of spider webs crisscrossing a 500-foot-deep, 2,000-foot-wide chasm that stretches for nearly five miles. The major strands of the web are traversable. Still, the Silken Paths are ever-changing because old webs disintegrate over time and the giant spiders inhabiting the chasm constantly spin new ones.",
+    "source_quote": "The Silken Paths are a network of spider webs crisscrossing a 500-foot-deep, 2,000-foot-wide chasm that stretches for nearly five miles. The major strands of the web are traversable. Still, the Silken Paths are ever-changing because old webs disintegrate over time and the giant spiders inhabiting the chasm constantly spin new ones.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Ormu fungus description",
+    "fact": "Ormu is a fungus that sheds a dim light for 5 feet and can be harvested, dried, and made into a phosphorescent powder or pigment.",
+    "source_quote": "It is a fungus called \u201cOrmu. In addition to shedding a dim light for 5 feet, it can be harvested, dried, and made into a phosphorescent powder or pigment.\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Trillimac mushroom description",
+    "fact": "Trillimac is a mushroom that grows to a height of four to five feet and has a broad gray-green cap and a light gray stalk. The cap\u2019s leathery surface can be cut and cleaned for use in making maps, hats, and scrolls (its surface takes on dyes and inks well). The stalk can be cleaned, soaked in water for an hour, then dried to make a palatable food akin to bread.",
+    "source_quote": "Jimjar, a botanist, explains it is a mushroom that grows to a height of four to five feet and has a broad gray-green cap and a light gray stalk. The cap\u2019s leathery surface can be cut and cleaned for use in making maps, hats, and scrolls (its surface takes on dyes and inks well). The stalk can be cleaned, soaked in water for an hour, then dried to make a palatable food akin to bread.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Trillimac food yield",
+    "fact": "One Trillimac mushroom can produce 6 pounds of food.",
+    "source_quote": "That one will be worth 6 pounds of food.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Trillimac food yield",
+    "fact": "Additional Trillimac mushrooms can produce 20 pounds of food.",
+    "source_quote": "enough to make 20 pounds of food",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "goblin guide introduction",
+    "fact": "Yukyuk and Spiderbait are goblin guides dressed in relaxed clothing, wearing beanies, covered in draconic-script tattoos (mistakenly used for goblin words), and offer guidance for 2 gold per day.",
+    "source_quote": "They are dressed in relaxed, comfortable shoes, baggy pants, and shirts whose button reaches just above their knees, whose sleeves are particularly wide, and their heads are covered with beanies. Their bodies are covered in tattoos written in draconic. The spelling is wrong. And it\u2019s only through happenstance that Zalthir realizes they are writing goblin words using a draconic script. ... My name is Yukyuk. ... And I am Spiderbait. We can be your guides at a nominal price of 2 gold per day.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "goblin web-surfing demonstration",
+    "fact": "Yukyuk and Spiderbait navigate the spiderwebs using a peculiar substance on their shoes, demonstrating advanced web-surfing techniques, including twisting, flipping, and threading through spider legs.",
+    "source_quote": "Thorin observes them coat their shoes with a peculiar substance and start running. ... They are good at surfing the web. ... I went around the spider and through its legs.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "goblin betting agreement",
+    "fact": "Jimjar bets Yukyuk and Spiderbait 20 gold that they cannot navigate the spiderwebs, and they accept, though Jimjar lacks the funds and plans to pay later.",
+    "source_quote": "Jimjar, \u201cI\u2019ll bet you 20 gold you can\u2019t navigate the spiderwebs.\u201d ... \u201cDone!\u201d ... But I am a bit short of cash.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "goblin guide retention agreement",
+    "fact": "Yukyuk and Spiderbait agree to remain with the group until Jimjar can pay the 20 gold debt.",
+    "source_quote": "Jimjar, how about we be your guides and hang around until you have the 20 gold you owe?",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "web navigation mechanics",
+    "fact": "Fire can burn through the spiderwebs, but anyone within 30 feet of the burning point will likely fall to their death.",
+    "source_quote": "fire can burn through the web, but when it does, anyone within 30 feet of the burning point will likely fall to their death.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "fall mitigation strategy",
+    "fact": "Eldeth proposes tying silk rope around each person to arrest falls, with backup responsibility passed sequentially if initial attempts fail.",
+    "source_quote": "We can tie some of the silk rope around each of us. That way, if one of us falls, the others can try to arrest his fall. ... Well, then the next person must. ... Then I suppose we all die.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Fargas Rumblefoot rescue",
+    "fact": "Fargas Rumblefoot, a halfling trapped in a cocoon, claims to be uninfected by gnolls and possesses knowledge of a lost tomb and its treasure, pleading for rescue as spiders approach.",
+    "source_quote": "I am Fargas Rumblefoot. ... I was a member of an adventuring band looking for a lost tomb. Gnolls attacked us. ... I am not infected. ... I am spider snack for later. ... I have information. We were coming to look for a tomb. I know the location of the tomb. And more importantly, I know the location of the treasure.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "gnoll origin lore",
+    "fact": "Gnolls are feral hyena-headed humanoids created when the demon lord Yeenoghu came to Faer\u00fbn; their spawn are gestated in hyenas and burst from their bodies upon birth.",
+    "source_quote": "Gnolls attack without warning, slaughtering their victims and devouring their flesh. It is said that spawns are put into a hyena, and when the spawn is born, it rips out of the hyena's body. It is also said that hyenas are one of many species that can be used to store the spawn of gnolls. It is also said that they were created when the demon lord Yeenoghu found his way onto Faer\u00fbn and ran amok.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Cut the Graph game reference",
+    "fact": "The group recalls a childhood game called 'Cut the Graph,' where cutting the wrong strands traps players, and cutting the right ones enables escape.",
+    "source_quote": "They remember this as a game from their childhood called \u2018Cut the Graph.\u2019",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir\u2019s gambling vow",
+    "fact": "Zalthir vowed never to gamble again when he became a monk, and such a bet would violate his oaths.",
+    "source_quote": "It\u2019s my understanding that Zalthir vowed never to gamble again when he became a monk. And such a bet would violate his oaths.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir\u2019s betting pattern analysis",
+    "fact": "Zalthir observes that Jimjar consistently makes bad bets with terrible odds, implying he will continue making such bets going forward.",
+    "source_quote": "He bet against himself even though he knew the odds of winning that bet were terrible. His willingness to make these bad bets implies he will make further bad bets going forward.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir\u2019s belief in Jimjar as an infinite cash machine",
+    "fact": "Zalthir believes Jimjar is an infinite cash machine and that if he can get Jimjar to take the side of bets, he is most likely to win.",
+    "source_quote": "Zalthir can only see that Jimjar is an infinite cash machine. If he can only figure out how to make Jimjar take the side of bets, Zalthir is most likely to win.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Jimjar\u2019s betting behavior",
+    "fact": "Jimjar repeatedly makes bets he cannot immediately pay for, relying on future income and trusting others will accept delayed payment.",
+    "source_quote": "Jimjar doesn\u2019t have 20 gold. ... Jimjar will pay when he has money. ... But I am a bit short of cash.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Grygum\u2019s betting behavior",
+    "fact": "Grygum accepts a bet from Jimjar after Zalthir\u2019s oath prevents him from betting, and wins the bet.",
+    "source_quote": "I\u2019ll make that bet.\" ... \"You won the bet.\" ... \"You bet that I could do it.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "goblin guide personality shift",
+    "fact": "After the betting agreement, Yukyuk and Spiderbait\u2019s formal demeanor dissolves into casual, enthusiastic speech, revealing their genuine excitement and competence.",
+    "source_quote": "Oh, yeah, man. That was fun. ... We are the best. We are going to have so much fun going through the web with you. And you are an awesome group.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "spider avoidance mechanics",
+    "fact": "Spiders on the web are attracted to vibrations, but the sheer volume of activity on the webs masks the party\u2019s movements.",
+    "source_quote": "Yeah, dude. But there is so much stuff bouncing on the webs that they won\u2019t notice your bouncing scales.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "drow wizard history",
+    "fact": "A past Drow wizard attempted to burn the Silken Paths, but the spiders rebuilt the webs faster than he could destroy them.",
+    "source_quote": "Do you remember that crazy Drow wizard who wanted to burn this place down? But the spiders kept rebuilding it faster than he could burn.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "goblin guide competence",
+    "fact": "Yukyuk and Spiderbait are highly competent navigators of the Silken Paths, using specialized techniques to avoid spiders and traverse unstable strands.",
+    "source_quote": "They are good at surfing the web. ... I went around the spider and through its legs.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "group\u2019s reliance on goblin guides",
+    "fact": "The group reluctantly accepts Yukyuk and Spiderbait as guides despite distrust, acknowledging their expertise and the lack of alternatives.",
+    "source_quote": "Buppido mutters, \u2018I am not sure the divine plan had anything about relying on two semi-sentient goblins for our safety.\u2019 For once, Zalthir agrees.",
+    "quote_verified": false
+  }
+]

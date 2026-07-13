@@ -1,0 +1,135 @@
+[
+  {
+    "type": "npc",
+    "subject": "Narrak",
+    "fact": "Narrak is the head cultist leading a ritual to transform giants into two-headed monsters, demanding fervor and precision in chant and movement; he is the emotional and magical core of the Derro cult, and his madness drives their actions.",
+    "source_quote": "Hear me, you two-headed fools! His madness flows, our city drools! From Whorlstone's depths, the spirals turn! For Demogorgon, the city will burn! More heads for grafting! More for the pile!",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is a member of the Ember Vanguard who uses darkness magic to obscure the battlefield, coordinates attacks with the party, and employs tactical repositioning to counter magical effects; he is observant and decisive in combat.",
+    "source_quote": "I want to watch!\", \"Let\u2019s attack now.\", \"They are bunched up; it\u2019s time to attack.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is a cleric or divine caster who channels acid through violent ritual vomiting after being attacked; he survives lethal trauma and responds with potent, unorthodox magic, suggesting deep ties to chaotic or necrotic forces.",
+    "source_quote": "Grygum moaning in pain, then in incantation. There is a violent heaving. I look at him as he straightens and vomits forth a wave of acid.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is a member of the Ember Vanguard rendered terrified by Narrak\u2019s fear spell; he is struck by the Ettin\u2019s morning star while incapacitated, indicating vulnerability to psychological magic.",
+    "source_quote": "the three members of the Ember Vanguard look terrified.\", \"The Ettin raises his battle axe and strikes the frightened Thorin, and misses, but the morning star hits. Thorin looks battered.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "The Ettin",
+    "fact": "The Ettin is a two-headed monstrosity serving as a frontline combatant for the Derro cult; it is resistant to magical damage, capable of wielding dual weapons, and is the primary target of the party\u2019s assault.",
+    "source_quote": "The Ettin points at the three of us outside of the darkness...\", \"The Ettin raises his battle axe and strikes the frightened Thorin...\", \"A guiding bolt from Grygum strikes the Ettin, and it groans and then smiles.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Derro",
+    "fact": "The Derro are a subterranean cult faction devoted to Demogorgon, performing ritualistic transformations and chants to empower their city\u2019s doom; they are obedient to Narrak but lack discipline, requiring constant correction.",
+    "source_quote": "He motions to all of the Derro to surround him...\", \"The Derro groan and gather around him.\", \"The Derro only do so half heartedly...",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Ember Vanguard",
+    "fact": "The Ember Vanguard is a group of warriors bound by magical fear and ritual alignment with Narrak\u2019s cult; they are susceptible to psychological manipulation and serve as both targets and unwitting enforcers of the ritual\u2019s power.",
+    "source_quote": "the three members of the Ember Vanguard look terrified.\", \"They are bunched up; it\u2019s time to attack.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Demogorgon\u2019s Influence",
+    "fact": "Demogorgon\u2019s presence manifests as madness, spiraling rituals, and physical corruption; its influence warps perception, causes acid vomiting, and empowers the cult\u2019s rituals with terrifying, reality-bending effects.",
+    "source_quote": "His madness flows, our city drools!\", \"Demogorgon\u2019s madness flows through me!\", \"the curse spreads!",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Ritual of the Two-Headed",
+    "fact": "A cult ritual is being performed to transform giants into two-headed monsters, involving synchronized chanting, positional alignment, and the accumulation of severed heads; failure to perform with vigor risks collapse of the ritual\u2019s power.",
+    "source_quote": "We have successfully converted another of Hgraam\u2019s giants to a two-headed monster.\", \"Now we shall convert one more, and by golly, they will lay waste to Gracklstugh!",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Darkness Ambush",
+    "fact": "Zalthir casts a magical darkness over the Derro and Ettin, obscuring vision and enabling surprise attacks; the environment becomes chaotic, with combatants striking blindly and magical effects interfering with perception.",
+    "source_quote": "Zalthir and I had discussed what we should do. He plans to use his darkness...\", \"From inside it, Narrak shouts...",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Fear Spell Activation",
+    "fact": "Narrak casts a fear spell using a white feather, inducing paralyzing terror in the Ember Vanguard; the spell\u2019s effect is broken when the caster is obscured by darkness, demonstrating dependency on line of sight.",
+    "source_quote": "He takes a white feather and points at Thorin, Grygum, and Zalthir, says the magic words, and the three members of the Ember Vanguard look terrified.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Acid Vomiting Ritual",
+    "fact": "Grygum undergoes a violent physical transformation after being struck, vomiting a wave of acid\u2014a non-spell, ritualistic manifestation of inner corruption or divine perversity tied to the cult\u2019s influence.",
+    "source_quote": "Grygum moaning in pain, then in incantation. There is a violent heaving. I look at him as he straightens and vomits forth a wave of acid.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Maximillian\u2019s Earthen Grasp",
+    "fact": "The caster uses Maximillian\u2019s Earthen Grasp to trap Narrak in the darkness, attempting to sever the ritual\u2019s source; the spell triggers a final curse declaration, confirming the ritual\u2019s inevitability.",
+    "source_quote": "I cast Maximillian\u2019s Earthen Grasp on where I think he is.\", \"Narrak screams in rage - 'You cannot stop the inevitable... the curse spreads!'",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Whorlstone's Depths",
+    "fact": "Whorlstone's Depths is the mythic source of Demogorgon\u2019s power, where spiraling rituals originate and madness flows upward into the cult\u2019s city; it is referenced in chant as the origin of corruption.",
+    "source_quote": "From Whorlstone's depths, the spirals turn!",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Gracklstugh",
+    "fact": "Gracklstugh is the cult city targeted for destruction by the ritual; it is the ultimate goal of the two-headed transformation and the locus of the cult\u2019s apocalyptic ambitions.",
+    "source_quote": "they will lay waste to Gracklstugh!",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "White Feather",
+    "fact": "The white feather is a ritual focus used by Narrak to cast fear magic; it is a symbolic tool of control, linking the caster\u2019s will to the emotional state of the Ember Vanguard.",
+    "source_quote": "He takes a white feather and points at Thorin, Grygum, and Zalthir...",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "The Curse Spreads",
+    "fact": "A lingering, inevitable curse tied to Demogorgon is spreading through the ritual; despite attempts to disrupt it, the curse persists, suggesting the cult\u2019s doom is not just planned but predestined.",
+    "source_quote": "Narrak screams in rage - 'You cannot stop the inevitable... the curse spreads!'",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Invisibility to Derro",
+    "fact": "The Derro fail to notice the party because they are actively avoiding detection by Narrak; this reveals a hierarchy of fear within the cult, where subordinates prioritize appeasing their leader over battlefield awareness.",
+    "source_quote": "I finally understand why that Derro, who should have seen us, has not noticed us. He\u2019s trying to avoid being seen by Narrak.",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "This sequence occurs during an active dungeon session, with events unfolding in real-time as the party engages in combat, ritual disruption, and tactical magic use.",
+    "source_quote": "I raise an eyebrow.\", \"I nod.\", \"Finally, Narrak emerges...",
+    "quote_verified": false
+  }
+]

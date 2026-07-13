@@ -1,0 +1,86 @@
+[
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a male Drow apostate from Menzoberranzan who studied magic, held private opinions that would have gotten him killed if voiced aloud, and ended up in Velkynvelve's cages alongside a dwarf raised by giants and a dragonborn who doesn't talk much. He is confused about why powerful Drow houses are targeting him and does not believe he is a person of consequence.",
+    "source_quote": "I am not, by any meaningful measure, a person of consequence.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Nym",
+    "fact": "Nym is one of the Drow sisters hired through cutouts to extract Daz, and she regards him with a mix of interest and condescension, having seen similar cases of self-deluded Drow before.",
+    "source_quote": "They had opinions, the sisters, about mysterious orphans who arrive at adulthood convinced they have noble blood waiting somewhere.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Kaelira",
+    "fact": "Kaelira is the other Drow sister hired to extract Daz, and like Nym, she finds him either fascinating or ridiculous, having witnessed this kind of performance before.",
+    "source_quote": "They had seen this particular performance before, apparently.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is a dwarf who carries the sentient sunblade Dawnbringer and has developed a patient, ritualized method of managing its objections using the Vaultmaster Locking Scabbard.",
+    "source_quote": "Do I need to show you the scabbard again?",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Dawnbringer",
+    "fact": "Dawnbringer is a sentient sunblade that refuses to be used as a ritual tool for purification, insisting it is a weapon designed to kill, not venerate. It has strong philosophical objections to being treated as a religious symbol.",
+    "source_quote": "I'm not some kind of magical wizard thingy that purifies things. I am a high-quality sunblade. I kill things.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Vaultmaster Locking Scabbard",
+    "fact": "The Vaultmaster Locking Scabbard is a specialized scabbard used by Thorin to negotiate with Dawnbringer, functioning as an effective tool of coercion and persuasion when the blade's rhetoric exceeds its better judgment.",
+    "source_quote": "I have observed that the Vaultmaster Locking Scabbard functions as a remarkably effective negotiating tool when Dawnbringer's rhetoric outpaces its better judgment.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Dawnbringer's reluctant agreement",
+    "fact": "Dawnbringer, after being reminded of the scabbard, reluctantly agreed to participate in a purification ritual it finds philosophically objectionable, granting the group a significant concession.",
+    "source_quote": "I suppose I could do you this one. I could do this solid for you.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Daz's true identity",
+    "fact": "Daz carries an unresolved question about why powerful Drow houses are targeting him, suspecting the answer lies beyond his own self-perception as an insignificant apostate, but has no concrete evidence to confirm any theory.",
+    "source_quote": "I have no idea why.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "The contracting party",
+    "fact": "The identity of the unknown party that hired the Drow sisters to extract Daz remains concealed even from the mercenaries themselves, suggesting layers of deliberate opacity and high-stakes secrecy.",
+    "source_quote": "The contracting party was unknown even to them.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Velkynvelve's cages",
+    "fact": "Velkynvelve's cages are the place where Daz was imprisoned alongside a dwarf raised by giants and a dragonborn who doesn't talk much, marking the last known location before his current journey toward the surface.",
+    "source_quote": "Eventually ended up in Velkynvelve's cages alongside a dwarf raised by giants and a dragonborn who doesn't talk much.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "the road to the surface",
+    "fact": "The road to the surface is the current path of travel for Daz and his companions, symbolizing their transition from subterranean exile toward an uncertain future above ground.",
+    "source_quote": "Around me, the road to the surface waited.",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The events described occurred during the current session of travel, marked by the progression from camp discussion to the confrontation with Dawnbringer and the decision to investigate the mystery surrounding Daz.",
+    "source_quote": "We moved on.",
+    "quote_verified": true
+  }
+]

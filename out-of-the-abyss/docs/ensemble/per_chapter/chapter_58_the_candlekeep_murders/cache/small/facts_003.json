@@ -1,0 +1,135 @@
+[
+  {
+    "type": "npc",
+    "subject": "Kalan Strongbranch",
+    "fact": "Kalan Strongbranch holds the second key to the High Tower, which he secretly transferred to Grygum. He believes he may be targeted for the key and has instructed that if he is killed, the key must not be found. He warns that Bookwyrm is concealing critical information.",
+    "source_quote": "Whatever Bookwyrm is telling you, listen for what she isn't. The High Tower has two keys. Janussi wore one, I held the other. I have given it now to someone who is not me. If I and I do not see you tomorrow, do not look for me at my post.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is the recipient of the second High Tower key, handed to him directly by Kalan Strongbranch. He is conducting research on poison and stolen sapphires, and is trusted with the most critical physical evidence in the investigation.",
+    "source_quote": "I'm happy to do the library research. Poison section, please.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Bookwyrm",
+    "fact": "Bookwyrm is under suspicion as a potential killer, but Kalan Strongbranch warns that she is deliberately concealing information. She is being considered for the third degree, though no direct evidence ties her to the murder.",
+    "source_quote": "Do we really think Bookwyrm might have done it? Do we want to give Bookwyrm the third degree? ... if we accuse her, we'd better have facts, real ones.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Janussi",
+    "fact": "Janussi possesses one of the two keys to the High Tower. The other key, once held by Kalan Strongbranch, has been transferred to Grygum. Janussi\u2019s possession of the key does not imply involvement in the murder.",
+    "source_quote": "Janussi held one. Yeah, the key is definitely a thread to pull on.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "High Tower",
+    "fact": "The High Tower is the entrance to a cache of super-magical artifacts coveted by every evil entity in the world. It is constantly watched, regardless of whether its keys are in possession. Entry is visible, making unauthorized access impossible without detection.",
+    "source_quote": "The tower is watched. Always. People stand at it whether the key is in someone's pocket or not. Entry would be seen.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "second High Tower key",
+    "fact": "The second key to the High Tower, previously held by Kalan Strongbranch, was secretly given to Grygum. It is the only physical object that can grant lawful access to the tower\u2019s inner sanctum, and its transfer is the central act of the secret meeting.",
+    "source_quote": "I have given it now to someone who is not me.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "heart of the victim",
+    "fact": "The victim\u2019s heart was removed \u2014 a definitive, physical fact that no one can dispute. It is the only unambiguous evidence in the case, and the group agrees the killer is the one who took it.",
+    "source_quote": "The dead man's heart was gone. ... Right, but at the end of the day, I'm pretty sure that the person that killed him is the one that took the heart.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "stolen sapphires",
+    "fact": "The stolen sapphires were expensive but not rare, and their value alone was deemed insufficient to motivate murder. Grygum has cataloged them alongside poison in his research, treating them as circumstantial.",
+    "source_quote": "Grygum asked whether the stolen sapphires were worth killing for \u2014 expensive, not rare, was the answer \u2014 and tucked it into his library list alongside the poison.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "poison on the victim's fingers",
+    "fact": "Poison was found on the victim\u2019s fingers and lips, but its origin and intent remain unverified. It may have been planted, self-administered, or irrelevant \u2014 a red herring disguised as evidence.",
+    "source_quote": "A smear of poison on a dead man's fingers doesn't have a motive. ... But, you know, maybe that's from watching too much CSI, what do I know?",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "secret key transfer",
+    "fact": "Kalan Strongbranch secretly transferred the second High Tower key to Grygum during a concealed meeting, bypassing all other investigators. He did so because he fears he will be killed for it, and wants the key preserved outside his control.",
+    "source_quote": "I have given it now to someone who is not me. If I and I do not see you tomorrow, do not look for me at my post.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "victim's murder",
+    "fact": "The victim was killed, and his heart was removed. The murder occurred after he was beaten, but the beating did not kill him. The killer is presumed to be the person who removed the heart, as that act is the only undisputed fact in the case.",
+    "source_quote": "He wasn't dead yet, but was he beat up? ... He was beat up before he was dead. ... The dead man's heart was gone.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "missing heart",
+    "fact": "The victim\u2019s heart is the central thread of the investigation \u2014 the only unambiguous, physical evidence that identifies the killer. Everyone else\u2019s claims, suspicions, and theories are noise compared to this fact.",
+    "source_quote": "The heart is a fact.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "false devil-lady imposter",
+    "fact": "An imposter posing as a devil-lady is suspected of having tampered with the corpse\u2019s ability to answer questions, but this claim is hearsay and unverified. Kalan\u2019s assertion that 'it didn't work because of Y' is the only source, and may be a lie.",
+    "source_quote": "Kalan said they'd put the question to the corpse, and that it didn't work. And that didn't work because of Y. ... whether the corpse was ever truly made to answer is hearsay.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "missing book part",
+    "fact": "A missing portion of a book is referenced as a possible clue, but its relevance is vague and speculative. It is mentioned as a thread no one wanted to touch, suggesting it may be a deliberate misdirection.",
+    "source_quote": "There's a missing part of, like, a book that should not be missing\u2026 that could have happened a hundred years ago or something, but\u2026 seems suspicious, and maybe related.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "High Tower",
+    "fact": "The High Tower is a heavily monitored structure housing artifacts of immense power. It is not merely secured by keys \u2014 it is watched at all times by unseen sentinels. Access without detection is impossible.",
+    "source_quote": "The tower is watched. Always. People stand at it whether the key is in someone's pocket or not. Entry would be seen.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "corridor where key was transferred",
+    "fact": "The secret key transfer occurred in a corridor previously unobserved by the group. Kalan emerged from a doorway they hadn't clocked, indicating prior knowledge of the space and deliberate planning.",
+    "source_quote": "Kalan stepped out of a doorway we hadn't clocked, swept the corridor left, then right, and pressed a small brass key specifically into the cleric's palm.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool is an entity who has joined the group permanently, and is being trained to fight \u2014 an unusual development suggesting he may have latent combat capabilities or a hidden agenda.",
+    "source_quote": "Glabbagool, who is apparently coming along permanently now, convinced down to whatever he uses for bones that he's going to learn to fight from the dark.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Kalan's disappearance",
+    "fact": "Kalan Strongbranch has warned that if he does not appear tomorrow, he will be dead \u2014 and the key must not be found. His disappearance is anticipated, and his fate is now a central unresolved thread.",
+    "source_quote": "If I and I do not see you tomorrow, do not look for me at my post.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "truth vs. hearsay",
+    "fact": "The entire investigation is built on conflicting narratives \u2014 rumors, claims, and interpretations. The only truth is the missing heart. Everything else is people talking, and the group has resolved to rely only on physical facts.",
+    "source_quote": "Everything else is people talking. The heart is a fact. ... I'd rather that, honestly. One conversation, one truth, no committee.",
+    "quote_verified": false
+  }
+]

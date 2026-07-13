@@ -1,0 +1,156 @@
+[
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is hovering above the battlefield, poisoned and frustrated, having disengaged after losing his tactical advantage over Ilvara; he is acutely aware of the repurposed guards and reflects silently on Valen's potential fate.",
+    "source_quote": "Those poor guards. They've been through quite a lot.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Ilvara",
+    "fact": "Ilvara is the orchestrator of the fungal corruption, having raised four former Velkynvelve guards as directed weapons under Zuggtmoy\u2019s influence; she is targeted by Daz\u2019s Fireball and absorbs significant damage but remains standing.",
+    "source_quote": "Then Ilvara called them up.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Jorlan",
+    "fact": "Jorlan is a drow who charges recklessly into Grygum\u2019s Glyph of Warding, trusting his own certainty over tactical awareness; he takes full damage from the explosion and is later struck by Thorin\u2019s Dawnbringer, leaving him compromised and off-balance.",
+    "source_quote": "Come get it, idiot.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin exploits the chaos following the Glyph\u2019s detonation to close on Jorlan, landing a critical Dawnbringer strike and a Sap to impose disadvantage; he notes the fragility of the spore servants and remains focused on the larger threat.",
+    "source_quote": "Kaboom! I didn't expect it to work.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz executes a precisely sculpted Fireball at fourth level, simultaneously striking Ilvara and the Zuggtmoy icon while sparing Zalthir and Thorin; he calculates target priority with clinical precision and views tactical success as a matter of measurable change on the board.",
+    "source_quote": "That worked better than I had any right to expect.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum laid the Glyph of Warding on the bridge as a bait trap, anticipating ego-driven aggression; he calls out to Jorlan with deliberate provocation and expresses genuine surprise when the trap succeeds.",
+    "source_quote": "Come get it, idiot.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Velkynvelve Guards",
+    "fact": "Former guards of Velkynvelve, now repurposed as mindless weapons by Ilvara\u2019s fungal corruption under Zuggtmoy\u2019s influence; they are no longer choosing to move but are directed, their identities erased by colonization.",
+    "source_quote": "Former Velkynvelve guards. I recognized the posture of soldiers whose bodies had been repurposed...",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Spore Servants",
+    "fact": "Fungal reanimated drow warriors, corrupted by Zuggtmoy\u2019s influence and controlled by Ilvara; they stagger after the Glyph and Fireball, one destroyed outright, others barely holding together, demonstrating vulnerability to area effects.",
+    "source_quote": "One servant came apart completely. Just gone.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Big Heart Fungus",
+    "fact": "The central anchor of the battlefield, still standing after multiple assaults; it is the root cause of the conflict, responsible for Zalthir\u2019s aerial position and the need for decisive resource expenditure.",
+    "source_quote": "The Big Heart Fungus. Still standing. Still anchoring the far end of the battlefield.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Glyph of Warding",
+    "fact": "A magically activated ward placed on the bridge by the party to exploit overconfidence; it detonates with force and light, dealing 21 damage in a sphere and destroying one spore servant while crippling Jorlan.",
+    "source_quote": "The Glyph fired.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Dust of Suleiman",
+    "fact": "A rare and costly resource cast directly onto the Big Heart Fungus to neutralize its anchoring power; its use signals a commitment to decisive action despite the risk of resource depletion.",
+    "source_quote": "I committed the Dust of Suleiman and cast it directly onto the fungus.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Fireball (Daz\u2019s Sculpted)",
+    "fact": "A fourth-level Fireball cast with Sculpt Spells to precisely target Ilvara and the Zuggtmoy icon while sparing allies; it deals 12 damage to each, altering the battlefield\u2019s tactical calculus.",
+    "source_quote": "Eight dice. I carve them out. The fire will know the shape of them...",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Glyph Detonation",
+    "fact": "The Glyph of Warding detonates, destroying one spore servant, severely damaging Jorlan, and staggering the remaining enemies; it is the pivotal moment that shifts momentum in the party\u2019s favor.",
+    "source_quote": "The Glyph fired.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Sculpted Fireball Strike",
+    "fact": "Daz\u2019s Fireball simultaneously damages Ilvara and the Zuggtmoy icon while sparing Zalthir and Thorin; the overlapping effects with the Dust of Suleiman create a compounded disruption in the enemy\u2019s coordination.",
+    "source_quote": "The two effects overlapped in a way that exceeded what either spell would have done alone.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Valen\u2019s Fate",
+    "fact": "Zalthir silently reflects on Valen \u2014 who was once like the repurposed guards \u2014 and the thin line between identity and corruption; this unresolved emotional thread haunts the party\u2019s understanding of the enemy\u2019s humanity.",
+    "source_quote": "Valen, who had been one of them. Who could have been one of them, differently categorized.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "The Floor as Enemy",
+    "fact": "The party realizes the battlefield itself \u2014 the cavern floor and its fungal growth \u2014 is an active, sentient threat, not just terrain; this shifts their tactical paradigm from fighting enemies to fighting the environment.",
+    "source_quote": "You plan for the drow commander. You don't always plan for the floor itself to become an enemy.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Ego vs. Tactical Awareness",
+    "fact": "The success of the Glyph and Fireball depends on exploiting enemy overconfidence; this pattern is noted as a repeatable tactical lever, though its reliability remains uncertain.",
+    "source_quote": "You call a man an idiot and invite him toward an explosive ward and you are making a bet on ego overriding tactical awareness...",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "session timestamp",
+    "fact": "The events described occur during a single, intense combat encounter that spans approximately ten minutes, beginning with Zalthir\u2019s poisoning and ending with the overlapping spell effects on the Big Heart Fungus.",
+    "source_quote": "Ten minutes ago, the space had merely been dangerous.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Cavern Floor",
+    "fact": "The cavern floor is not passive terrain but an active conduit of Zuggtmoy\u2019s corruption, capable of raising and directing the spore servants; its fungal network is the hidden engine of the enemy\u2019s power.",
+    "source_quote": "Rising from the cavern floor with the patient, purposeless movement of things that are no longer choosing to move...",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Bridge",
+    "fact": "The bridge is the site of the Glyph of Warding and Jorlan\u2019s fatal charge; it is a chokepoint where tactical misjudgment leads to catastrophic consequences.",
+    "source_quote": "We'd laid it on the bridge like a welcome mat...",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Far End of Battlefield",
+    "fact": "The location of the Big Heart Fungus, which remains untouched and central to the conflict; it is the anchor point that defines the battlefield\u2019s geometry and the party\u2019s strategic imperative.",
+    "source_quote": "Still anchoring the far end of the battlefield.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Things Not to Dwell On Mid-Combat",
+    "fact": "The party recognizes the emotional weight of repurposed enemies and fallen allies as dangerous distractions; these thoughts are filed away as 'not to dwell on' to preserve combat effectiveness.",
+    "source_quote": "I filed that thought away under *things not to dwell on mid-combat*.",
+    "quote_verified": true
+  }
+]

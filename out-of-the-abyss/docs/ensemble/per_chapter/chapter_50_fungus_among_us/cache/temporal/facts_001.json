@@ -1,0 +1,79 @@
+[
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The events occur on the 5th day of the 2nd Tenday of Taraskh 1493 DR.",
+    "source_quote": "On the 5th day of the 2nd Tenday of Taraskh 1493",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Dust of Suleiman sphere radius",
+    "fact": "The Dust of Suleiman creates a 20-foot sphere.",
+    "source_quote": "it creates a 20-foot sphere",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Dust of Suleiman damage",
+    "fact": "The Dust of Suleiman deals 20 points of damage per turn.",
+    "source_quote": "takes 20 points of damage per turn",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Phantasmal Killer damage",
+    "fact": "Phantasmal Killer deals 4d10 psychic damage if the target fails saving throws each turn.",
+    "source_quote": "takes 4 die 10 psychic damage",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Phantasmal Killer range",
+    "fact": "Phantasmal Killer has a 120-foot range.",
+    "source_quote": "120-foot range",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Dust of Suleiman range",
+    "fact": "The Dust of Suleiman can be cast at a 120-foot distance.",
+    "source_quote": "I can cast at a 120-foot distance",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "spell slot limit",
+    "fact": "The caster has only one 4th-level spell slot available.",
+    "source_quote": "I only have one fourth level slot",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "zone of Darkness placement",
+    "fact": "A zone of Darkness was placed behind the party's position as a fallback.",
+    "source_quote": "I placed a zone of Darkness behind our position",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "travel distance to Ilvara",
+    "fact": "Asha Vandree would not get within 20 feet of Ilvara.",
+    "source_quote": "you're not gonna get within 20 feet of her",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "elapsed time before assault",
+    "fact": "An hour passed before the assault began.",
+    "source_quote": "I spent the hour before the assault",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Phantasmal Killer duration",
+    "fact": "Phantasmal Killer can last up to a minute.",
+    "source_quote": "it can last up to a minute",
+    "quote_verified": true
+  }
+]

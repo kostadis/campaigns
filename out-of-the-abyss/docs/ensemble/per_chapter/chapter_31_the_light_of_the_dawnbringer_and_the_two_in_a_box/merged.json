@@ -1,0 +1,4262 @@
+[
+  {
+    "type": "date",
+    "subject": "5th day of the second tenday of Myrkhul 1495",
+    "fact": "The day the party discovered and defeated Brysis in the False Tomb, recovered Dawnbringer and treasure, and exited the tomb complex. The magical trap tied to the tomb was deactivated.",
+    "source_quote": "5th day of the second tenday of Myrkhul 1495",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "date",
+    "subject": "8th day of the second tenday of Myrkhul 1495",
+    "fact": "The day the party arrived at Neverlight Grove after three days of travel through the Underdark. The Drow pursuers were confirmed lost. The Myconids declared the grove home, and the party entered a new phase of exploration.",
+    "source_quote": "8th day of the second tenday of Myrkhul 1495",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "date",
+    "subject": "8th day of the second tenday of Myrkhul 1495",
+    "fact": "The party arrives at Neverlight Grove on this date, after three uneventful days of travel through the Underdark. The date marks the beginning of their confrontation with the corruption of the grove and the unraveling of Phylo\u2019s rule.",
+    "source_quote": "Today, we arrive at Neverlight Grove.",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "date",
+    "subject": "Day of Joy",
+    "fact": "The 'Day of Joy' is a ritual date proclaimed by Phylo, likely tied to the activation of the Circle of Masters' final ritual, possibly coinciding with the arrival of the next group of 'softers' or the full manifestation of Zuggtomy\u2019s influence.",
+    "source_quote": "Celebrate as the day of joy is nigh!",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "date",
+    "subject": "elapsed time",
+    "fact": "An hour passes between two events in the session.",
+    "source_quote": "An hour later",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The events occur during a single session of play, marked by the progression of combat, dialogue, and tactical planning from the retrieval of the Grick to the discovery of the Shambling Mound.",
+    "source_quote": "And soon enough, we arrive at one of the mounds.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The session occurs on the 5th day of the second tenday of Myrkhul 1495 DR.",
+    "source_quote": "On the 5th day of the 2nd Tenday of Taraskh 1493",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "date",
+    "subject": "tomorrow",
+    "fact": "The 'great celebration' promised by Phylo is scheduled for tomorrow, tying the entire narrative arc to an imminent, potentially catastrophic event. The party\u2019s current actions \u2014 the quest completion, the architectural discussions, the unresolved mysteries \u2014 all converge on this single temporal anchor.",
+    "source_quote": "I wonder if this has anything to do with the celebration promised by Phylo tomorrow.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Activation of Dawnbringer's Light",
+    "fact": "When Thorin picked up the hilt, Dawnbringer manifested a shimmering blade of light where none existed, confirming its sentient nature and magical power. This event marked the sword\u2019s full awakening and integration into the party\u2019s arsenal.",
+    "source_quote": "Thorin... picks up the magical hilt. The sword rejoices, and then, where there is no blade, a shimmering blade of light appears.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "arrival at Neverlight Grove",
+    "fact": "The party arrives at Neverlight Grove after traversing the Underdark, and is awed by its bioluminescent beauty, only to discover its hidden dangers and political fractures.",
+    "source_quote": "Today, we arrive at Neverlight Grove. ... As we enter the cave, the beauty overwhelms Grygum, who shouts, \u201cWow, this place is incredible.\u201d ... Basidia warns us the grove is not safe.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "arrival at Neverlight Grove",
+    "fact": "The party enters Neverlight Grove after days of travel through the Underdark. The cavern is a bioluminescent wonder filled with glowing fungi, myconids, and strange constellations on the ceiling. It is a sanctuary of beauty and life, starkly contrasting the darkness they have endured.",
+    "source_quote": "\u2018Wow, this place is incredible.\u2019",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "arrival of new members",
+    "fact": "The party has grown larger with the addition of two new members and Dawnbringer.",
+    "source_quote": "Our band had grown larger with the addition of the two new members and Dawnbringer",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Basidia",
+    "fact": "Basidia described the Inner Circle as composed of circle leaders and the Circle of Masters as those closest to Phylo.",
+    "source_quote": "The Inner Circle of all of the circle leaders and the Circle of Masters is a circle of those who are closest to Phylo.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Basidia",
+    "fact": "Basidia explained that Phylo changed the social order to enforce exclusive melding within circles and restrict inter-circle contact.",
+    "source_quote": "Phylo decided that each circle would meld exclusively with its circle, and only the circle leaders would meld with other circle leaders and the sovereigns. Phylo said that everything would be more efficient and better.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Basidia",
+    "fact": "Basidia expressed horror that Phylo\u2019s new order isolates individuals and breaks harmony.",
+    "source_quote": "I believe this is contrary to the unity and harmony of our way of life. This separation isolates individuals from experiences from others outside of their circle.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Basidia",
+    "fact": "Basidia fears Phylo has contracted a diseased spore.",
+    "source_quote": "I fear Phylo has contracted some kind of diseased spore. We used to work so well together.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Basidia",
+    "fact": "Basidia gave Zalthir a moldy scroll case containing a scroll of protection against fiends.",
+    "source_quote": "They hands us a moldy scroll case, and inside is a scroll containing a scroll of protection against fiends.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Basidia",
+    "fact": "Basidia introduced herself as the other sovereign and expressed concern for Phylo.",
+    "source_quote": "The other sovereign introduces itself as Basidia and says to Phylo, \u201cI can take them on the tour of the gardens, co-sovereign.\u201d",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Basidia",
+    "fact": "Basidia laughed and said all myconids already know who is allied with whom.",
+    "source_quote": "Don\u2019t worry, they all know.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Basidia",
+    "fact": "Basidia noticed that Sarith\u2019s spores were unrecognizable to her.",
+    "source_quote": "I do not recognize the spores of this drow.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Basidia",
+    "fact": "Basidia offered to brew potions of various potency if the party helps recover Phylo.",
+    "source_quote": "I can also brew many potions of various potency.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Basidia",
+    "fact": "Basidia said they would not visit the Garden of Welcome today, but would see the circles instead.",
+    "source_quote": "No. Today we shall the circles.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Basidia",
+    "fact": "Basidia warned the party that another group of 'softers' who accepted Phylo\u2019s offer never returned.",
+    "source_quote": "Another group of 'softers' arrived not too many cycles ago and accepted Phylo\u2019s offer. They were taken to the Garden of Welcome. I haven\u2019t seen them since, nor has Phylo made any further mention of them.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Basidia",
+    "fact": "Basidia whispered that the Circle of Masters is taking carcasses from the Circle of Hunters and sending myconids outside the grove secretly.",
+    "source_quote": "the Circle of Masters is taking most of the carcasses the Circle of Hunters bring in, and are sending groups of myconids outside the grove without telling anybody.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Basidia\u2019s offer of potions",
+    "fact": "Basidia offers to brew potions of various potency if the party helps uncover the truth behind Phylo\u2019s corruption.",
+    "source_quote": "I can also brew many potions of various potency.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Basidia\u2019s warning about the Garden of Welcome",
+    "fact": "Basidia reveals that previous visitors taken to the Garden of Welcome have vanished and that the Circle of Masters is sending myconids out of the grove without consent.",
+    "source_quote": "Another group of 'softers' arrived not too many cycles ago and accepted Phylo\u2019s offer. They were taken to the Garden of Welcome. I haven\u2019t seen them since, nor has Phylo made any further mention of them.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Basidia\u2019s whispered warning",
+    "fact": "Basidia whispers her fears directly into the party\u2019s minds, revealing that Phylo\u2019s changes are unnatural and dangerous.",
+    "source_quote": "Basidia then whispers, even though we can only hear her in our heads, \u201cthe Circle of Masters is taking most of the carcasses the Circle of Hunters bring in, and are sending groups of myconids outside the grove without telling anybody.\u201d",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Circle of Masters activity",
+    "fact": "The Circle of Masters is taking carcasses from the Circle of Hunters and sending myconids outside the grove without notice.",
+    "source_quote": "the Circle of Masters is taking most of the carcasses the Circle of Hunters bring in, and are sending groups of myconids outside the grove without telling anybody",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "construction discussion with Gasbide",
+    "fact": "A detailed engineering dialogue occurs between Gasbide and the party, culminating in Zalthir\u2019s Minor Illusion of a scaled building, which triggers Gasbide\u2019s fascination and leads to revelations about the impending 'great celebration' and his ignorance of sunlight.",
+    "source_quote": "I'll nerd out with them for a little while,\" I tell everyone.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "corruption of Neverlight Grove",
+    "fact": "A fungal corruption, likely tied to Zuggtomy, has infiltrated Neverlight Grove through Phylo. It has fractured the myconid social structure, initiated reanimation rituals, and caused the disappearance of previous visitors to the Garden of Welcome. The corruption spreads via spores and alters behavior, language, and biology.",
+    "source_quote": "\u2018I believe this is contrary to the unity and harmony of our way of life.\u2019",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Dawnbringer's introduction",
+    "fact": "Dawnbringer is a powerful sunblade that can read and write and cast lesser restoration.",
+    "source_quote": "The sword introduces itself as Dawnbringer. A powerful sunblade that can read and write, and can cast lesser restoration.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz considered whether using Tasha's Caustic Brew honored Bahamut.",
+    "source_quote": "So am I not, in a curious way, honoring my god in this way?",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz decided to nerd out with Gasbide on construction and design.",
+    "source_quote": "\"I'll nerd out with them for a little while,\" I tell everyone.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz found a necklace of fireballs, a potion of greater healing, and some gold inside the chest.",
+    "source_quote": "Inside, we find even more treasure: a necklace of fireballs, a potion of greater healing, and some gold.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz noted Gasbide\u2019s confusion about the sun and its harm to myconids.",
+    "source_quote": "They are distraught and ask how they can build things that will protect them from the thing I call a sun.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz noted Gasbide\u2019s dream of building a fungal tower to break through the Underdark.",
+    "source_quote": "I dream of building a fungal tower even greater than Yggmorgus... I hope to use it to break through the Underdark to the surface world, possibly with the aid of Aromikos",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz noted that Basidia accepted the Grick after it was stripped for its head.",
+    "source_quote": "We had stripped the Grik for its head.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz noted that Basidia assured them they are happy among their kind.",
+    "source_quote": "Basidia assures that they are pretty happy among their kind.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz noted that Basidia leads them toward the Circle of the Builders.",
+    "source_quote": "Basidia then leads us toward the next segment of this bizarre cultural tour: the Circle of the Builders.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz noted that Daz reinforced his attack with another Fireball.",
+    "source_quote": "Daz, despite the halved damage output, reinforces his attack with another Fireball.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz noted that Gasbide asked if the illusion was to scale.",
+    "source_quote": "Is this to scale?",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz noted that Gasbide asked if they are from above.",
+    "source_quote": "And... and are you from, from above?",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz noted that Gasbide asked if zurkhwood mushroom can be used as an equivalent material.",
+    "source_quote": "Can... this zurkhwood mushroom be used as an equivalent?",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz noted that Gasbide called Zalthir an architect.",
+    "source_quote": "Oh! And he goes, are you an architect?",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz noted that Gasbide has no clear understanding of Araumycos, only that it is part of a great celebration.",
+    "source_quote": "he has no clear understanding of what Araumycos is, only that \"it is part of a great celebration to come,\" promised by Sovereign Phylo.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz noted that Gasbide is a 'Builder' and a supporter of Sovereign Phylo.",
+    "source_quote": "He is a 'Builder' and, according to Basidia, a \"supporter of Sovereign Phylo.\"",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz noted that Grygum appreciated Zalthir\u2019s display.",
+    "source_quote": "That\u2019s impressive,\" Grygum notes, appreciative of the display.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz noted that Grygum asked if Rump-a-dump and Stool would like to join them.",
+    "source_quote": "Grygum asks if Rump-a-dump and Stool would like to join us.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz noted that Grygum cast Spirit Guardians.",
+    "source_quote": "Grygum casts Spirit Guardians.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz noted that Grygum gave generalized, unhelpful answers about buildings.",
+    "source_quote": "Well, we have some that are tall, and some that are big",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz noted that Grygum persisted in asking Basidia if they could come along.",
+    "source_quote": "Grygum persists, and he tells Basidia that he would be thrilled to have them come along.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz noted that Grygum's game of K\u2019tharr-li is being continued and the creature is found.",
+    "source_quote": "So Daz continues his game of K\u2019tharr-li and finds the creature.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz noted that Zalthir agreed to be called an architect.",
+    "source_quote": "Let's go with that.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz noted that Zalthir executed a Stunning Strike with precise timing.",
+    "source_quote": "I execute a Stunning Strike. The creature attempts to resist, but my timing is precise, and it is stunned.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz noted that Zalthir executed a Stunning Strike.",
+    "source_quote": "I execute a Stunning Strike.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz noted that Zalthir explained the structure was scaled down so Gasbide could see it.",
+    "source_quote": "They're usually larger. This is scaled down so you can see it.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz noted that Zalthir initiated a grapple.",
+    "source_quote": "I use my second strike to initiate a grapple.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz noted that Zalthir successfully grappled the Shambling Mound.",
+    "source_quote": "I am successful. The Shambling Mound is now trapped",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz noted that Zalthir used Minor Illusion to create a scaled-down structure.",
+    "source_quote": "Zalthir, seeing an opening to secure an advantage, focuses and conjures a small-scale structure using Minor Illusion.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz noted that Zalthir used his monastic deflection technique to limit pain.",
+    "source_quote": "I use my monastic deflection technique, absorbing a portion of the bludgeoning force and limiting the pain.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz noted that Zalthir used his second strike to initiate a grapple.",
+    "source_quote": "I use my second strike to initiate a grapple.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz noted that one of the material components of Tasha's Caustic Brew is a toothbrush.",
+    "source_quote": "One of the material components is a toothbrush, you know, for afterward.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz noted that the creature attempted to escape Zalthir\u2019s grapple and engulf Thorin.",
+    "source_quote": "It then attempts to escape my hold and engulf Thorin.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz noted that the creature is a Shambling Mound.",
+    "source_quote": "The Shambling Mound is now trapped",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz noted that the creature is a swamp creature and the fire is squelched.",
+    "source_quote": "the fire is squelched",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz noted that the creature is a swamp creature.",
+    "source_quote": "the creature is a swamp creature",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz noted that the creature is near the shore of a lake more than 10 feet deep.",
+    "source_quote": "The creature is near the shore of a lake that is more than 10 feet deep.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz noted that the creature thrashed and attacked Zalthir.",
+    "source_quote": "It thrashes, using its tendril in an attempt to attack me, and succeeds.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz noted that the creature was confined within Grygum's Spirit Guardians.",
+    "source_quote": "confined within the Spirit Guardians",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz noted that the creature was felled by persistent magic.",
+    "source_quote": "The creature is felled not by a final weapon strike, but by the relentless, quiet efficacy of persistent magic.",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz noted that the creature was stunned and its speed drastically reduced.",
+    "source_quote": "The creature is stunned, and its speed is drastically reduced.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz noted that the creature was stunned.",
+    "source_quote": "it is stunned",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz noted that the creature's speed was drastically reduced.",
+    "source_quote": "its speed is drastically reduced",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz noted that the creature's turn arrived while trapped and confined.",
+    "source_quote": "The creature's turn arrives. It is trapped by my grapple and confined within the Spirit Guardians.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz noted the terraces are suffused with faerzress and filled with vegetation.",
+    "source_quote": "The terraces lining the northern walls are suffused with faerzress, and I notice that this place is filled with vegetation.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz noticed the creature's resistance to fire and the blast still hurting it.",
+    "source_quote": "The Grik is naturally resistant to fire, but the blast hurts.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz noticed water trickling from the cavern walls into a terraced irrigation system.",
+    "source_quote": "I see water trickling from the walls of this vast cavern being channeled into a crude yet effective terraced irrigation system.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz observed Gasbide cutting through Grygum\u2019s fluff with precise engineering questions.",
+    "source_quote": "No, no, no, no, no, like, how are they built? I want you to... is it, like, what shape do they have? What materials do you use? How many windows? How many doors?",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz observed Gasbide scrutinizing them with undisguised curiosity.",
+    "source_quote": "He scrutinizes us with undisguised curiosity.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz observed Gasbide's obsession with surface architecture and his confusion about windows.",
+    "source_quote": "What is a window?",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz observed Gasbide\u2019s realization that the illusion was scaled down.",
+    "source_quote": "Oh! And he goes, are you an architect?",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz observed Gasbide\u2019s unbridled excitement about his dream structures.",
+    "source_quote": "Gasbide's excitement is now unbridled.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz observed Grygum confirming they are from the Great Bright with performative pomp.",
+    "source_quote": "Yes, we are from the Great Bright.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz observed that Basidia is concerned but sighs, acknowledging the animation will continue.",
+    "source_quote": "Basidia is concerned, but then sighs. The animation will continue and be successful.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz observed that Grygum's Spirit Guardians creates a persistent zone of damage.",
+    "source_quote": "this spell creates a persistent zone of damage",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz observed that Thorin strained and escaped the creature's engulf.",
+    "source_quote": "He strains and escapes.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz observed that Thorin strained and escaped.",
+    "source_quote": "He strains and escapes.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz observed that the creature can grapple.",
+    "source_quote": "Recalling how it can grapple",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz observed that the creature thrashed and succeeded in attacking Zalthir.",
+    "source_quote": "It thrashes, using its tendril in an attempt to attack me, and succeeds.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz observed the blinded Grick missing all three attacks against the Ember Vanguard.",
+    "source_quote": "The blinded Grick misses all three of its subsequent attacks against the Ember Vanguard.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz observed the thick, sweet smell from thousands of glowing fungi.",
+    "source_quote": "A thick, sweet smell fills the air from the thousands of fungi of all colors and sizes, many glowing with a strange, inviting light.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz offered a plan to neutralize the Shambling Mound using Shape Water to freeze the terrain in five-foot cubes.",
+    "source_quote": "I explain that I visualize the terrain as a precise grid, and intend to freeze five-foot cube sections of the moss and water using Shape Water. \u201cIf a square refuses to freeze, we have found the creature.\u201d",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz pretended to brush his teeth while looking at Zalthir.",
+    "source_quote": "Looking at Zalthir, I pretend to brush my teeth.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz realized he could not use Guiding Bolt because Zalthir's spell hid the creature.",
+    "source_quote": "I cannot use Guiding Bolt because Zalthir's spell hides the creature.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz recalled playing K\u2019tharr-li as a child in Menzoberranzan, a game where both players lose if no one wins by a set time.",
+    "source_quote": "I explain that when I was a child, there was a game we played called K\u2019tharr-li. Each player would be a noble house. And each player had a set of pieces that the other player had to destroy. As this was Menzoberranzan, if neither player had won by some pre-agreed time, both players lost.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz recognized the sword as Dawnbringer, a sunblade that can read and write and cast lesser restoration.",
+    "source_quote": "The sword introduces itself as Dawnbringer. A powerful sunblade that can read and write, and can cast lesser restoration.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz remarked, \"Should have fled faster,\" as the creature died.",
+    "source_quote": "Should have fled faster.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz sensed that Grygum is worried, though he did not know why.",
+    "source_quote": "I sense Grygum is worried. I don't know what.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz used fairy fire to outline an invisible chest.",
+    "source_quote": "Using fairy fire, I outline the box, and Zalthir opens it.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz wondered if the great celebration promised by Phylo tomorrow is connected to Araumycos.",
+    "source_quote": "I wonder if this has anything to do with the celebration promised by Phylo tomorrow.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Death of Brysis",
+    "fact": "Brysis, the wraith, was slain by a combination of magical strikes and acid expelled by Grygum. Its death triggered the dissipation of a magical trap tied to the False Tomb and allowed the party to claim its treasure.",
+    "source_quote": "The creature howls in pain and disappears. Killed by barf. What an odd way to go.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Discovery of Neverlight Grove",
+    "fact": "The party arrived at Neverlight Grove after three uneventful days in the Underdark. The grove\u2019s bioluminescent beauty overwhelmed Grygum and the Myconids, who declared it home. It marked a turning point from hostile Underdark travel to a moment of awe and respite.",
+    "source_quote": "Today, we arrive at Neverlight Grove... Wow, this place is incredible.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "discovery of the invisible chest",
+    "fact": "The party discovers an invisible chest in the false tomb and retrieves a necklace of fireballs, a potion of greater healing, and gold.",
+    "source_quote": "As we look around for treasure, we stumble on an invisible chest. Using fairy fire, I outline the box, and Zalthir opens it. Inside, we find even more treasure: a necklace of fireballs, a potion of greater healing, and some gold.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Eldeth",
+    "fact": "Eldeth, the goblin, followed Thorin into the cavern.",
+    "source_quote": "And the rest of our followers, Eldeth, the goblin, and the humans follow him.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Gasbide\u2019s architectural revelation",
+    "fact": "Gasbide reveals his ambition to construct a fungal tower to reach the surface, incorporating unknown materials like zurkhwood mushroom and referencing Aromikos, indicating a radical, possibly heretical vision under Phylo\u2019s influence.",
+    "source_quote": "I dream of building a fungal tower even greater than Yggmorgus... I hope to use it to break through the Underdark to the surface world, possibly with the aid of Aromikos.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "great awakening",
+    "fact": "The 'great awakening' is an impending event promised by Sovereign Phylo, tied to a 'great celebration' that Gasbide does not fully understand. It is linked to the Myconids\u2019 desire to breach the Underdark and possibly harness Araumycos, suggesting a catastrophic or transformative ritual is imminent.",
+    "source_quote": "It is part of a great celebration to come.",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum followed the others into the fungal forest.",
+    "source_quote": "I shrug and follow.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum forgot about the Drow pursuers, the talking sword, and the mysterious disease upon seeing Neverlight Grove.",
+    "source_quote": "For a moment, all the dangers and all the worries just vanish. I forget about the Drow pursuers we just shook, the grumpy talking sword that's been driving Daz crazy, and the mysterious disease affecting the Myconids.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum looked uncomfortable at the idea of a zombie grick.",
+    "source_quote": "Grygum looks uncomfortable",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum nervously asked if they would visit the Garden of Welcome today.",
+    "source_quote": "Grygum, nervously, asks, \u201cAre we seeing the Garden of Welcome today?\u201d",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum recalled the Giants eating prisoners who tried to steal rather than escape.",
+    "source_quote": "He remembered how the Giants ate the ones who tried to steal",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum shouted in awe upon entering Neverlight Grove.",
+    "source_quote": "Wow, this place is incredible.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Jimjar",
+    "fact": "Jimjar smiled at Grygum and said, \u201cRemember my bet,\u201d as he raced after the myconids and Sarith.",
+    "source_quote": "Jimjar smiles at me and says, \u201cRemember my bet,\u201d as he races after the two myconids and Sarith.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "K\u2019tharr-li game",
+    "fact": "Daz employed a tactical game called K\u2019tharr-li \u2014 a Menzoberranzan-style grid-based spellcraft where frozen five-foot cubes reveal hidden threats \u2014 to locate the Shambling Mound, mirroring his childhood game where failure meant mutual loss.",
+    "source_quote": "Much like K\u2019tharr-li, we only have so much time. And unlike K\u2019tharr-li, losing can be deadly.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "K\u2019tharr-li game",
+    "fact": "K\u2019tharr-li is a Menzoberranzan noble game where players control house pieces and must destroy the opponent\u2019s pieces before time runs out, or both lose.",
+    "source_quote": "Each player would be a noble house... if neither player had won by some pre-agreed time, both players lost",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Loobamub",
+    "fact": "Loobamub clarified that myconids do not kill, only bring back the dead.",
+    "source_quote": "We bring back the dead. We do not kill.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Loobamub",
+    "fact": "Loobamub explained that Phylo insists all dead creatures be brought to the Circle of Masters for reanimation.",
+    "source_quote": "Phylo insists that all dead creatures must be brought to the Circle of Masters.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Loobamub",
+    "fact": "Loobamub told the party a Shambling Mound is concealed nearby, lurking in the swampy ground.",
+    "source_quote": "The Myconid, Loobamub, the leader of the Circle of Hunters, tells us as we leave that a Shambling Mound is concealed nearby, lurking like mossy camouflage within the swampy ground.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Loobamub",
+    "fact": "Loobamub, a follower of Basidia, asked for help dealing with a grick.",
+    "source_quote": "Loobamub listens to Basidia, and then he turns to me and asks if we could help him deal with a grick.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Loss of Drow Pursuers",
+    "fact": "The Drow pursuers were confirmed lost on the trail by Eldeth, ending a prolonged chase. This allowed the party to travel without immediate threat and focus on exploration and recovery.",
+    "source_quote": "Eldeth told us this morning that she believed we had lost them. They were no longer on our trail.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Myconid Sovereigns\u2019 Power Sharing",
+    "fact": "The co-sovereign relationship between Phylo and Basidia is an unnatural and unstable structure, mirroring the drow 'two in a box' tradition, which historically leads to the death of one or both rulers \u2014 suggesting this is not leadership, but a trap set by the corruption.",
+    "source_quote": "In Menzoberranzan, there were tales of two rulers who shared power. We used the term, \u2018two in a box\u2019 to describe this power sharing.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "offer of the scroll of protection against fiends",
+    "fact": "Basidia gives the party a moldy scroll case containing a scroll of protection against fiends as a token of trust and a tool for confronting the corruption in the Garden of Welcome.",
+    "source_quote": "They hands us a moldy scroll case, and inside is a scroll containing a scroll of protection against fiends.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Phylo",
+    "fact": "Phylo declared Basidia his co-sovereign and insisted they are equal in all things.",
+    "source_quote": "You are my sovereign and co-equal in all things. And I shall stay here for tomorrow, I shall take them to the great circle of the Masters.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Phylo",
+    "fact": "Phylo declared that Neverlight Grove is on the verge of something great and that a day of joy is nigh.",
+    "source_quote": "You arrive at a wondrous time, for Neverlight Grove is on the verge of something great, something marvelous! Celebrate as the day of joy is nigh!",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Phylo",
+    "fact": "Phylo introduced himself as a myconid sovereign and welcomed the party.",
+    "source_quote": "The creature introduces itself as Phylo and is genuinely happy to see us.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Phylo\u2019s co-sovereign arrangement with Basidia",
+    "fact": "Phylo and Basidia are co-sovereigns of Neverlight Grove, a power-sharing structure Daz compares to the Menzoberranzan metaphor of 'two in a box' \u2014 a tomb of indecision.",
+    "source_quote": "In Menzoberranzan, there were tales of two rulers who shared power. We used the term, \u2018two in a box\u2019 to describe this power sharing. ... Phylo says, \u201c You are my sovereign and co-equal in all things.\u201d",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Phylo\u2019s declaration of a day of joy",
+    "fact": "Phylo declares that Neverlight Grove is on the verge of something great, and urges celebration as the day of joy is nigh.",
+    "source_quote": "You arrive at a wondrous time, for Neverlight Grove is on the verge of something great, something marvelous! Celebrate as the day of joy is nigh!",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Phylo\u2019s imposition of new social order",
+    "fact": "Phylo has restructured the myconid society to isolate circles and restrict melding to only circle leaders and sovereigns, causing division and fear.",
+    "source_quote": "Phylo decided that each circle would meld exclusively with its circle, and only the circle leaders would meld with other circle leaders and the sovereigns. Phylo said that everything would be more efficient and better.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Phylo\u2019s new social order",
+    "fact": "Phylo has restructured the myconid society to isolate circles and restrict melding to only circle leaders and sovereigns, claiming greater efficiency.",
+    "source_quote": "Phylo decided that each circle would meld exclusively with its circle, and only the circle leaders would meld with other circle leaders and the sovereigns.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "quest completion",
+    "fact": "The quest is completed after the Grick is retrieved and delivered to Basidia. Zalthir confirms the mission\u2019s success, and the party agrees, though Daz and Zalthir internally question whether the mossy swamp and its vines pose a future threat.",
+    "source_quote": "We have completed the quest.",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "reanimation of corpses by the Circle of Masters",
+    "fact": "The Circle of Masters reanimates dead creatures brought by the Circle of Hunters, turning them into tools or weapons.",
+    "source_quote": "Phylo insists that all dead creatures must be brought to the Circle of Masters. ... To reanimate.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "reanimation of the Grick",
+    "fact": "The Grick\u2019s corpse was retrieved from the battlefield and is intended for reanimation by Basidia, per Phylo\u2019s doctrine. Reanimation transforms the dead into tactical assets, not food.",
+    "source_quote": "If you could bring this creature to Basidia, she could reanimate it, and it could help you.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "recognition of Sarith\u2019s infected spores",
+    "fact": "Basidia identifies Sarith\u2019s spores as unnatural and different from those of other myconid sovereigns, indicating Zuggtomy\u2019s influence.",
+    "source_quote": "I do not recognize the spores of this drow. ... Poor Sarith has been affected by Zuggtomy.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "request to hunt the grick",
+    "fact": "Loobamub asks the party to retrieve a grick for reanimation by Basidia, revealing the myconids\u2019 role as collectors, not killers.",
+    "source_quote": "Loobamub listens to Basidia, and then he turns to me and asks if we could help him deal with a grick. ... We bring back the dead. We do not kill.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "revelation of the \u2018two in a box\u2019",
+    "fact": "The co-sovereignty of Phylo and Basidia mirrors the Menzoberranzan practice of \u2018two in a box\u2019 \u2014 a forced power-sharing arrangement that signifies political weakness and often leads to mutual destruction. Daz recognizes this as a dangerous precedent, foreshadowing collapse.",
+    "source_quote": "\u2018We used the term, \u2018two in a box\u2019 to describe this power sharing\u2026 The box was a metaphor for a tomb.\u2019",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Rump-a-dump",
+    "fact": "Rump-a-dump shouted, \u201cWe\u2019re home!\u201d upon entering the cavern.",
+    "source_quote": "And then I hear Rump-a-dump's delight and Stool\u2019s happiness as they run into the cavern shouting, \u201cWe\u2019re home!\u201d",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Sarith's infection",
+    "fact": "Sarith the drow guide has been infected by Zuggtomy\u2019s demonic spores, recognizable to Basidia.",
+    "source_quote": "I do not recognize the spores of this drow... Poor Sarith has been affected by Zuggtomy",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Shambling Mound encounter",
+    "fact": "A Shambling Mound is concealed in the swampy ground near the Circle of Hunters\u2019 territory, camouflaged as moss.",
+    "source_quote": "a Shambling Mound is concealed nearby, lurking like mossy camouflage within the swampy ground",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Spore Recognition Failure",
+    "fact": "Basidia\u2019s inability to recognize the spores of the drow (or infected myconid) indicates a fundamental breach in myconid sensory biology, confirming that the corruption is not natural but foreign and demonic in origin.",
+    "source_quote": "Every myconid sovereign can recognize the spores of any other sovereign in the Underdark. This is strange.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Stool",
+    "fact": "Stool shouted, \u201cWe\u2019re home!\u201d upon entering the cavern.",
+    "source_quote": "And then I hear Rump-a-dump's delight and Stool\u2019s happiness as they run into the cavern shouting, \u201cWe\u2019re home!\u201d",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin and his sword raced down into the cavern with the rest.",
+    "source_quote": "Thorin and his sword race down with the rest.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "travel to Neverlight Grove",
+    "fact": "Neverlight Grove is approximately eight days away via the Underdark.",
+    "source_quote": "we arrive at Neverlight Grove",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "travel to Sloobludop",
+    "fact": "Sloobludop is approximately eight days away via the Darklake.",
+    "source_quote": "the town of Sloopdopblop is just eight days away",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Two in a Box",
+    "fact": "The term 'two in a box' refers to a failed power-sharing arrangement in Menzoberranzan, where two co-rulers are appointed due to indecision, often leading to their mutual destruction.",
+    "source_quote": "We used the term, 'two in a box' to describe this power sharing... The box from our saying was a metaphor for a tomb",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "use of K\u2019tharr-li to detect the shambling mound",
+    "fact": "Daz applies the childhood game K\u2019tharr-li to detect the hidden shambling mound by freezing terrain in five-foot cubes to reveal anomalies.",
+    "source_quote": "I visualize the terrain as a precise grid, and intend to freeze five-foot cube sections of the moss and water using Shape Water. ... When I was a child, there was a game we played called K\u2019tharr-li.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir asked Basidia for a spore to identify themselves as allies.",
+    "source_quote": "Can you give us some kind of spore, so other myconids will know we work for you?",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir asked if the spore infecting Phylo is the same as the one infecting Sarith.",
+    "source_quote": "Is it the same spore that infects Sarith?",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir noted the creature was felled by persistent magic, not a final weapon strike.",
+    "source_quote": "The creature is felled not by a final weapon strike, but by the relentless, quiet efficacy of persistent magic.",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir observed the creature attempting to consume Thorin while still grappled.",
+    "source_quote": "The image is strange\u2014I hold it, yet it tries to consume another.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir opened the invisible chest after Daz outlined it.",
+    "source_quote": "Using fairy fire, I outline the box, and Zalthir opens it.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir realized he had a reason to grapple.",
+    "source_quote": "I think, \"I have a reason to grapple.\"",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir refused to be drowned by the creature's grappling ability.",
+    "source_quote": "I decide that I do not wish to be drowned",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir said to Grygum, \u201cWhat, you don't want a zombie grick joining our team? That sounds so fun.\u201d",
+    "source_quote": "I turn to him and say - \u201cWhat, you don't want a zombie grick joining our team? That sounds so fun.\u201d",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir thought of the reanimated creatures from the Whorlstone Caves and shuddered.",
+    "source_quote": "I think to myself of the reanimated creatures I saw in the Whorlstone Caves and shudder.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir used his monastic deflection technique to absorb bludgeoning force.",
+    "source_quote": "I use my monastic deflection technique, absorbing a portion of the bludgeoning force and limiting the pain.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zuggtomy reference",
+    "fact": "Zuggtomy is a deity often referred to with feminine pronouns, unusual among myconids, raising suspicion of corruption.",
+    "source_quote": "I remember that Zuggtomy is often referred to as she. And I worry.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Basidia",
+    "fact": "Basidia is an organization of Myconid Sovereigns who maintain ritual control over the Neverlight Grove, oversee the animation of slain creatures for the Basidia, and enforce cultural protocols tied to Phylo\u2019s impending 'great awakening'. They treat surface-world concepts with detached authority and prioritize the continuity of their own traditions.",
+    "source_quote": "The animation will continue and be successful.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Circle of Hunters",
+    "fact": "The Circle of Hunters gathers the remains of slain creatures and delivers them to the Circle of Masters for reanimation. They follow Phylo\u2019s new doctrine of non-killing and operate under Basidia\u2019s indirect influence, though their loyalty is now divided.",
+    "source_quote": "\u2018We bring back the dead. We do not kill.\u2019",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Circle of Hunters",
+    "fact": "The Circle of Hunters is a functional myconid faction within Neverlight Grove that brings in carcasses, which are now being intercepted and exploited by the Circle of Masters, suggesting a power shift and hidden agenda.",
+    "source_quote": "the Circle of Masters is taking most of the carcasses the Circle of Hunters bring in...",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Circle of Hunters",
+    "fact": "The Circle of Hunters is a myconid sub-group under Phylo\u2019s doctrine, tasked with retrieving corpses from the wild for reanimation by the Circle of Masters. They do not kill, only recover the dead.",
+    "source_quote": "Loobamub, the leader of the Circle of Hunters, tells us as we leave that a Shambling Mound is concealed nearby...",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Circle of Masters",
+    "fact": "The Circle of Masters is a myconid hierarchy within Phylo\u2019s doctrine, composed of the most trusted leaders who oversee the reanimation of all dead creatures brought to them. They are the central authority for resurrection and tactical reassignment of the undead.",
+    "source_quote": "And then there is the Inner Circle and the Circle of Masters\u2026 The Inner Circle of all of the circle leaders and the Circle of Masters is a circle of those who are closest to Phylo.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Circle of Masters",
+    "fact": "The Circle of Masters is a rogue faction within Neverlight Grove that has taken control of the Garden of Welcome, is harvesting carcasses from the Circle of Hunters, sending myconids outside the grove in secret, and is likely responsible for the demonic spore infection affecting Phylo and others.",
+    "source_quote": "the Circle of Masters is taking most of the carcasses the Circle of Hunters bring in, and are sending groups of myconids outside the grove without telling anybody.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Circle of Masters",
+    "fact": "The Circle of Masters is a secretive myconid faction aligned with Phylo, responsible for reanimating dead creatures and conducting rituals in the Garden of Welcome. They are suspected of harvesting corpses from outside the grove and are the epicenter of the corruption spreading through Neverlight Grove.",
+    "source_quote": "\u2018The Circle of the Masters is preparing a wondrous and glorious surprise in the Garden of Welcome.\u2019",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Circle of the Builders",
+    "fact": "The Circle of the Builders is a Drow organization within the Neverlight Grove, associated with architectural and structural experimentation under the influence of Sovereign Phylo, where Myconids like Gasbide pursue radical construction concepts.",
+    "source_quote": "Basidia then leads us toward the next segment of this bizarre cultural tour: the Circle of the Builders.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Circle of the Masters",
+    "fact": "The Circle of the Masters is a myconid faction that reanimates corpses, removes members from the grove, and is suspected of being corrupted by demonic spores.",
+    "source_quote": "The Circle of Masters is taking most of the carcasses the Circle of Hunters bring in, and are sending groups of myconids outside the grove without telling anybody.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Drow",
+    "fact": "The Drow are a subterranean elven race who pursued the party through the Underdark. They are now believed to have been lost on the trail. Sarith, their guide, is a lone representative who exhibits ambivalence toward the Myconids and their home.",
+    "source_quote": "Eldeth told us this morning that she believed we had lost them. They were no longer on our trail.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Inner Circle",
+    "fact": "The Inner Circle consists of the leaders of all other myconid circles and the sovereigns. Phylo has restricted their interactions to only other circle leaders, breaking the traditional unity of the myconid society and isolating them from the broader community.",
+    "source_quote": "\u2018Phylo decided that each circle would meld exclusively with its circle, and only the circle leaders would meld with other circle leaders and the sovereigns.\u2019",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Inner Circle",
+    "fact": "The Inner Circle is the elite tier of Phylo\u2019s hierarchy, composed of the closest advisors and circle leaders who enforce his doctrine and maintain the reanimation pipeline. They are the core of ideological control.",
+    "source_quote": "And then there is the Inner Circle and the Circle of Masters\u2026 The Inner Circle of all of the circle leaders and the Circle of Masters is a circle of those who are closest to Phylo.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Myconids",
+    "fact": "The Myconids are a sentient fungal race that live in harmony with Neverlight Grove. They glow with bioluminescent light, communicate joy through vocalizations, and consider the grove their home. Some are affected by a mysterious disease, but they remain integral to the ecosystem.",
+    "source_quote": "Myconids, the mushroom folk we're traveling with, are everywhere, and they seem to be a part of this vibrant world... the mysterious disease affecting the Myconids.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Myconids",
+    "fact": "The myconids are sentient fungal beings who live in Neverlight Grove, organized into circles, and are now divided by Phylo\u2019s new social order.",
+    "source_quote": "Myconids, the mushroom folk we're traveling with, are everywhere, and they seem to be a part of this vibrant world... Each circle gathers around a circle mound... Phylo decided that each circle would meld exclusively with its circle...",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Neverlight Grove",
+    "fact": "Neverlight Grove is a myconid community under spiritual and biological siege, where social order has been disrupted by the Circle of Masters, the sovereign Phylo is corrupted, and the true ruler Basidia is powerless to act without risking infection.",
+    "source_quote": "Phylo has changed the social order of the community. There are many circles in the Neverlight Grove, and each circle serves a function.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Phylo",
+    "fact": "Phylo is a chaotic Myconid Sovereign whose influence drives the 'great awakening' and 'great celebration' promised to the Myconids. His teachings inspire dangerous architectural fantasies, such as building towers to breach the Underdark, and foster ignorance of surface-world dangers like sunlight. He is the central figure of a cultic movement within the Neverlight Grove.",
+    "source_quote": "It is part of a great celebration to come.",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "The Ember Vanguard",
+    "fact": "The Ember Vanguard is a group of companions who follow Daz\u2019s plan to use Shape Water to detect the shambling mound.",
+    "source_quote": "I tell The Ember Vanguard that I have a plan to neutralize the creature\u2019s ability to hide.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "access tunnel to Neverlight Grove",
+    "fact": "The access tunnel to Neverlight Grove is a natural formation created by a drying underground stream, dimly lit by lichen, and opens above the grove\u2019s main floor.",
+    "source_quote": "We have just entered this magical place from a natural tunnel that was formed by a drying underground stream, and that is dimly lit by lichen. The access tunnel opens above the grove\u2019s main floor.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "central basin of Neverlight Grove",
+    "fact": "The central basin of Neverlight Grove contains a clear pool, a dry central mound, and is surrounded by a fungal forest covering every surface including the ceiling.",
+    "source_quote": "Beyond the mud and mushrooms of the fungal forest, a large, clear pool sits in the midst of the fungal grove. A central mound is the only dry spot in sight...",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Circle Mound",
+    "fact": "A Circle Mound is a pile of rocks and soil upon which mold, lichen, and mushrooms grow, around which each myconid circle gathers to sleep.",
+    "source_quote": "each circle gathers around a circle mound, which they describe as a pile of rocks and soil upon which mold, lichen, and mushrooms grow",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Circle of Hunters",
+    "fact": "The Circle of Hunters is a myconid circle responsible for bringing back dead creatures to the Circle of Masters for reanimation.",
+    "source_quote": "Loobamub. ... Phylo insists that all dead creatures must be brought to the Circle of Masters. ... We bring back the dead. We do not kill.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Circle of Masters",
+    "fact": "The Circle of Masters is a group of myconids closest to Phylo who reanimate dead creatures and send myconids outside the grove without explanation.",
+    "source_quote": "The Circle of Masters is a circle of those who are closest to Phylo. ... The Circle of Masters is taking most of the carcasses the Circle of Hunters bring in, and are sending groups of myconids outside the grove without telling anybody.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Eastern Plateau",
+    "fact": "The Eastern Plateau is a forbidden zone in Neverlight Grove, where the Circle of Masters is preparing a wondrous and glorious surprise, likely the activation point of a larger demonic ritual or portal tied to Zuggtomy\u2019s influence.",
+    "source_quote": "But please, don\u2019t visit the eastern plateau because the Circle of the Masters is preparing a wondrous and glorious surprise in the Garden of Welcome.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Eastern Plateau",
+    "fact": "The Eastern Plateau is a restricted area where the Circle of the Masters is preparing a mysterious event.",
+    "source_quote": "please, don\u2019t visit the eastern plateau because the Circle of the Masters is preparing a wondrous and glorious surprise",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "eastern plateau",
+    "fact": "The eastern plateau is a forbidden zone where the Circle of Masters prepares a mysterious and glorious surprise, and where visitors vanish.",
+    "source_quote": "Please, don\u2019t visit the eastern plateau because the Circle of the Masters is preparing a wondrous and glorious surprise in the Garden of Welcome.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Eastern Plateau",
+    "fact": "The eastern plateau is the location of the Garden of Welcome, a forbidden zone where corrupted myconids conduct mysterious rites. It is shrouded in mist and lies beyond the central basin, accessible only through hidden paths.",
+    "source_quote": "\u2018I can give you a peek tomorrow, if you want.\u2019",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "False Tomb of Brysis",
+    "fact": "The False Tomb of Brysis is a decoy sarcophagus designed to appear as a resting place for a powerful undead entity. It is easily opened and contains treasure, but was magically linked to a trap that dissipated upon Brysis\u2019s death. It was warned against by Fargas Rumblefoot.",
+    "source_quote": "This was the false tomb, complete with a sarcophagus that was very easy to open. This was the place that Fargas Rumblefoot warned us of.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Garden of Welcome",
+    "fact": "The Garden of Welcome is a central location within Neverlight Grove where visitors are taken by Phylo, but it is now a site of capture and corruption, used by the Circle of Masters to process infected myconids and 'softers' into the demonic spore network.",
+    "source_quote": "They were taken to the Garden of Welcome. I haven\u2019t seen them since...",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Garden of Welcome",
+    "fact": "The Garden of Welcome is a forbidden area of Neverlight Grove where the Circle of Masters performs rituals. It is the site of disappearances and reanimation. Basidia warns against entering, but suspects it holds the key to understanding Phylo\u2019s corruption.",
+    "source_quote": "\u2018Please, don\u2019t visit the eastern plateau because the Circle of the Masters is preparing a wondrous and glorious surprise\u2026\u2019",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Garden of Welcome",
+    "fact": "The Garden of Welcome is a forbidden area where the Circle of the Masters prepares a wondrous and glorious surprise, and where previous 'softers' have disappeared.",
+    "source_quote": "Please, don\u2019t visit the eastern plateau because the Circle of the Masters is preparing a wondrous and glorious surprise in the Garden of Welcome. ... Another group of 'softers' arrived not too many cycles ago and accepted Phylo\u2019s offer. They were taken to the Garden of Welcome. I haven\u2019t seen them since, nor has Phylo made any further mention of them.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Garden of Welcome",
+    "fact": "The Garden of Welcome is a forbidden area where the Circle of the Masters prepares a wondrous surprise and takes in myconids and carcasses without explanation.",
+    "source_quote": "the Circle of the Masters is preparing a wondrous and glorious surprise in the Garden of Welcome",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Garden of Welcome",
+    "fact": "The Garden of Welcome is a sacred yet dangerous site where the Circle of Masters performs unknown rites, and where those who enter do not return.",
+    "source_quote": "The Circle of the Masters is preparing a wondrous and glorious surprise in the Garden of Welcome. ... I haven\u2019t seen them since, nor has Phylo made any further mention of them.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "great circle of the Masters",
+    "fact": "The great circle of the Masters is the central gathering place of the Circle of Masters, where they perform rites and prepare their wondrous and glorious surprise.",
+    "source_quote": "Phylo said that everything would be more efficient and better. Many of the myconids have followed Phylo and his new ways. ... I shall take them to the great circle of the Masters.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Inner Circle",
+    "fact": "The Inner Circle consists of all circle leaders and is separate from the Circle of Masters, though both are part of Phylo\u2019s new social order.",
+    "source_quote": "Phylo decided that each circle would meld exclusively with its circle, and only the circle leaders would meld with other circle leaders and the sovereigns. ... The Inner Circle of all of the circle leaders and the Circle of Masters is a circle of those who are closest to Phylo.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Inner Circle",
+    "fact": "The Inner Circle consists of all circle leaders and is separate from the Circle of Masters, which is composed of those closest to Phylo.",
+    "source_quote": "The Inner Circle of all of the circle leaders and the Circle of Masters is a circle of those who are closest to Phylo.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Lake near the shore",
+    "fact": "The lake is more than 10 feet deep and serves as the battleground where Zalthir uses his Stunning Strike and grapple to trap the Shambling Mound. It is circled by the party to avoid drowning, emphasizing tactical awareness of terrain and creature capabilities.",
+    "source_quote": "The creature is near the shore of a lake that is more than 10 feet deep.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "lake shore",
+    "fact": "The lake shore is a 10-foot-deep body of water where Zalthir engaged the Grick from a safe distance, avoiding grappling threats. It is a tactical chokepoint in the swamp.",
+    "source_quote": "The creature is near the shore of a lake that is more than 10 feet deep.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "mossy swamp",
+    "fact": "The mossy swamp is a treacherous, waterlogged terrain concealing hidden undead entities like the Shambling Mound and the Grick. It is the primary hunting ground for the Circle of Hunters and the site of recent combat.",
+    "source_quote": "Loobamub... tells us that a Shambling Mound is concealed nearby, lurking like mossy camouflage within the swampy ground.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "mound of the Circle of Hunters",
+    "fact": "The mound of the Circle of Hunters is a pile of rocks and soil where Loobamub and his circle gather to sleep and prepare dead creatures for the Circle of Masters.",
+    "source_quote": "Each circle gathers around a circle mound, which they describe as a pile of rocks and soil upon which mold, lichen, and mushrooms grow. ... Loobamub. ... We bring back the dead.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Neverlight Grove",
+    "fact": "Neverlight Grove is a fungal ecosystem centered around fungal mounds where myconids sleep, now corrupted by demonic spores, hidden transmissions, and a fractured leadership structure between Phylo and Basidia.",
+    "source_quote": "Each circle gathers around a circle mound, which they describe as a pile of rocks and soil upon which mold, lichen, and mushrooms grow.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Neverlight Grove",
+    "fact": "Neverlight Grove is a vast cavern with bioluminescent walls, glowing myconids, and a central basin containing a clear pool and a giant mushroom visible in the distance.",
+    "source_quote": "As we enter the cave, the beauty overwhelms Grygum, who shouts, \u201cWow, this place is incredible.\u201d ... The cave walls shimmer with a soft, bioluminescent light, casting a gentle glow on everything. The light is a beautiful mosaic of blues, greens, and purples, like a nebula trapped underground. ... A central mound is the only dry spot in sight, though a small cliff rises above the cavern floor far across the clearing with giant mushrooms visible in the distance.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Neverlight Grove",
+    "fact": "Neverlight Grove is a vast cavern with bioluminescent walls, glowing myconids, and a central basin containing a clear pool and a towering fungal forest covering ceiling and walls.",
+    "source_quote": "the cave walls shimmer with a soft, bioluminescent light... Myconids... glowing with the same otherworldly light",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Neverlight Grove",
+    "fact": "Neverlight Grove is a vast, bioluminescent cavern in the Underdark, illuminated by living fungi that emit a mosaic of blues, greens, and purples. It is a cathedral-like environment teeming with Myconids, with a ceiling and walls covered in glowing fungal forests. It opens via a dimly lit tunnel formed by a dried underground stream, and beyond lies a narrow ravine leading to a distant majestic mushroom.",
+    "source_quote": "We have just entered this magical place from a natural tunnel that was formed by a drying underground stream... the mushroom forest that covers every surface, including the ceiling...",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Neverlight Grove",
+    "fact": "Neverlight Grove is a vast, luminous cavern beneath the Underdark, illuminated by bioluminescent fungi that cover walls, ceiling, and ground. It contains a central pool, fungal forests, ravines, and hidden plateaus. It is the heart of myconid civilization, now under threat from corruption.",
+    "source_quote": "\u2018It's a living, breathing landscape of impossible color\u2026 a cathedral of light and life.\u2019",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Neverlight Grove",
+    "fact": "The Neverlight Grove is a subterranean Drow sanctuary where Myconids dwell under the influence of Sovereign Phylo, characterized by unnatural vegetation, faerzress, and the lingering presence of slain creatures such as the Grick.",
+    "source_quote": "We return to the Neverlight Grove, the corpse of the Grick dragging slightly.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Neverlight Grove",
+    "fact": "The Neverlight Grove is a subterranean ecosystem saturated with faerzress, glowing fungi, and channeled irrigation systems. It hosts the Circle of the Builders and Northern Terraces, where Myconids like Gasbide obsess over surface-world architecture. It is a site of ritual, cultural exchange, and hidden danger tied to Phylo\u2019s influence.",
+    "source_quote": "The terraces lining the northern walls are suffused with faerzress.",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Neverlight Grove Access Tunnel",
+    "fact": "The access tunnel to Neverlight Grove is a natural formation carved by a drying underground stream, dimly lit by lichen.",
+    "source_quote": "We have just entered this magical place from a natural tunnel that was formed by a drying underground stream, and that is dimly lit by lichen.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Northern Terraces of the Neverlight Grove",
+    "fact": "The Northern Terraces are a region of the Neverlight Grove filled with glowing fungi, trickling water channeled into irrigation systems, and a thick, sweet fungal aroma. It is where Gasbide approaches the party and begins his architectural interrogation, revealing the Grove\u2019s deeper connection to Phylo\u2019s dreams of surface breach.",
+    "source_quote": "A thick, sweet smell fills the air from the thousands of fungi of all colors and sizes.",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Northern Terraces of the Neverlight Grove",
+    "fact": "The Northern Terraces are a vast cavernous area lined with faerzress-infused walls, channeled irrigation systems, and dense glowing fungal vegetation, emitting a thick, sweet aroma from thousands of bioluminescent fungi.",
+    "source_quote": "The terraces lining the northern walls are suffused with faerzress, and I notice that this place is filled with vegetation. As I draw closer, I see water trickling from the walls of this vast cavern being channeled into a crude yet effective terraced irrigation system.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "ravine beyond Neverlight Grove",
+    "fact": "The ravine beyond Neverlight Grove narrows the cavern and is shrouded in mist, with smaller caverns visible beyond.",
+    "source_quote": "Beyond the exotic forest, the cavern narrows into a ravine. And beyond the ravine, I catch a glimpse of a majestic mushroom... the darkness of the ravine and mist-shrouded smaller cavern beyond.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Real Tomb of Brysis",
+    "fact": "The Real Tomb of Brysis is the true resting place of the undead wraith, where Dawnbringer was found and the wraith was slain. It is connected to the False Tomb via passageways and contains the mummified corpse with the sword hilt held by withered hands.",
+    "source_quote": "As we look around for treasure, we stumble on an invisible chest... Once we have collected the treasure of Brysis, we climb out of the real tomb...",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Velkynvelve elevation",
+    "fact": "Velkynvelve sits 100 feet above the cavern floor.",
+    "source_quote": "Drow outpost was 100' in the sky",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Whorlstone Caves",
+    "fact": "The Whorlstone Caves are a known site of prior myconid reanimation activity, where reanimated creatures have been observed, contributing to the party\u2019s unease about Phylo\u2019s doctrine.",
+    "source_quote": "I think to myself of the reanimated creatures I saw in the Whorlstone Caves and shudder.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Basidia",
+    "fact": "Basidia is a myconid sovereign who opposes Phylo\u2019s reforms and fears he has been infected by a diseased spore.",
+    "source_quote": "I fear Phylo has contracted some kind of diseased spore... I believe this is contrary to the unity and harmony of our way of life",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "chasme count",
+    "fact": "Four chasme demons are present in the cavern above the prisoners' tower.",
+    "source_quote": "four chasme and two vrock",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Grick",
+    "fact": "A grick is a predatory beast encountered in the swamp, known for its resistances and ambush tactics. It was slain by the Ember Vanguard after being stunned, blinded, and struck with fire and acid. Its corpse was retrieved for reanimation.",
+    "source_quote": "The Grik hisses... The blinded Grick misses all three of its subsequent attacks... Thorin delivers the killing blow...",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Grick",
+    "fact": "A grick is a predatory creature whose corpse Loobamub seeks to retrieve for reanimation. It is not killed by the myconids but found dead or captured, then delivered to the Circle of Masters for transformation into a reanimated servant.",
+    "source_quote": "\u2018Could you help him deal with a grick?\u2019",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Grick",
+    "fact": "The Grick is a creature resistant to fire, stunned by Zalthir\u2019s Stunning Strike, and targeted by Daz\u2019s Fireball. It is blinded by magical darkness, misses three attacks against the Ember Vanguard, flees predictably, and is killed by Thorin. Its corpse is retrieved for Basidia.",
+    "source_quote": "The blinded Grick misses all three of its subsequent attacks against the Ember Vanguard.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Grick",
+    "fact": "The Grick is a slain creature whose corpse was dragged to Basidia and stripped of its head, indicating its use in ritual or material acquisition by the Drow.",
+    "source_quote": "We return to the Neverlight Grove, the corpse of the Grick dragging slightly.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Loobamub",
+    "fact": "Loobamub is a myconid leader of the Circle of Hunters who brings dead creatures to the Circle of Masters for reanimation.",
+    "source_quote": "Loobamub. ... We bring back the dead. We do not kill.",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Phylo",
+    "fact": "Phylo is a myconid sovereign who has adopted a new social order, isolating circles and aligning with the Circle of Masters.",
+    "source_quote": "Phylo decided that each circle would meld exclusively with its circle... The Circle of Masters is a circle of those who are closest to Phylo",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Shambling Mound",
+    "fact": "A concealed shambling mound lurks near the fungal forest, camouflaged in moss and swamp. It is a deadly threat that grapples and crushes prey. Daz plans to neutralize it using Shape Water to detect its hidden form by identifying unfrozen sections of terrain.",
+    "source_quote": "\u2018A Shambling Mound is concealed nearby, lurking like mossy camouflage within the swampy ground.\u2019",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Shambling Mound",
+    "fact": "A shambling mound is a concealed, moss-covered undead entity lurking in the swampy ground, capable of grappling and ambush. It was located by Daz using a grid-based spell technique derived from K\u2019tharr-li.",
+    "source_quote": "Loobamub, the leader of the Circle of Hunters, tells us as we leave that a Shambling Mound is concealed nearby, lurking like mossy camouflage within the swampy ground.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Shambling Mound",
+    "fact": "The Shambling Mound is a swamp creature capable of grappling, engulfing, and attacking with tendrils. It is stunned by Zalthir, trapped within Grygum\u2019s Spirit Guardians, and ultimately felled not by a single weapon strike but by the relentless cumulative damage of persistent magic. It attempts to escape and engulf Thorin but fails.",
+    "source_quote": "It thrashes, using its tendril in an attempt to attack me, and succeeds.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Zombie Grick",
+    "fact": "The Grick is intended to be reanimated into a zombie, serving as a tactical asset for the party under Basidia\u2019s authority. Its potential as a companion is mocked by Grygum as 'so fun,' but its true nature is horrifying.",
+    "source_quote": "What, you don't want a zombie grick joining our team? That sounds so fun.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Zuggtomy",
+    "fact": "Zuggtomy is a demonic entity associated with fungal corruption and mind-altering spores, referenced as a goddess by infected characters, and likely the source of the demonic spore infecting Sarith, Zalthir, and Phylo.",
+    "source_quote": "I remember that Zuggtomy is often referred to as she. And I worry.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Basidia",
+    "fact": "Basidia is a myconid sovereign who leads followers in reanimating the dead, enforcing Phylo\u2019s doctrine that efficiency comes from circle-based hierarchy and sovereign control. She has accepted Loobamub as a loyal follower and seeks corpses for reanimation.",
+    "source_quote": "Basidia tells us that this is one of her followers, 'Loobamub.'",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Basidia",
+    "fact": "Basidia is a myconid sovereign who opposes Phylo\u2019s new social order and secretly warns outsiders of the dangers in the Garden of Welcome and the Circle of Masters.",
+    "source_quote": "The other sovereign introduces itself as Basidia and says to Phylo, \u201cI can take them on the tour of the gardens, co-sovereign.\u201d ... I do not recognize the spores of this drow. ... I believe this is contrary to the unity and harmony of our way of life.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Basidia",
+    "fact": "Basidia is a myconid sovereign who suspects Phylo is infected by a demonic spore, fears for the survival of the grove, has secretly provided the party with a scroll of protection against fiends and potions, and reveals that the Circle of Masters is harvesting carcasses and sending myconids outside the grove without authorization.",
+    "source_quote": "The grove is not safe. Another group of 'softers' arrived not too many cycles ago and accepted Phylo\u2019s offer. They were taken to the Garden of Welcome. I haven\u2019t seen them since, nor has Phylo made any further mention of them.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Basidia",
+    "fact": "Basidia is the Sovereign who accepts the Grick corpse and leads the group toward the Circle of the Builders, expressing concern for the continuation of the animation but affirming the presence and contentment of Rump-a-dump and Stool among their kind.",
+    "source_quote": "We had stripped the Grik for its head. Basidia is concerned, but then sighs. The animation will continue and be successful.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Basidia",
+    "fact": "Basidia is the Sovereign who accepts the Grick corpse and oversees the ritual animation of its remains. She leads the party through the Neverlight Grove\u2019s cultural segments, dismisses Grygum\u2019s requests to bring Rump-a-dump and Stool along, and confirms the completion of the quest after retrieving the corpse for the Basidia.",
+    "source_quote": "We have completed the quest.",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Basidia",
+    "fact": "Basidia is the co-sovereign of Neverlight Grove, sharing power uneasily with Phylo. She is deeply concerned that Phylo has been infected by a corrupting spore and fears the consequences of his new social order. She secretly aids the party with potions, scrolls, and information, and can detect foreign spores.",
+    "source_quote": "\u2018I fear Phylo has contracted some kind of diseased spore\u2026 I will give you more treasures if you bring back my sovereign.\u2019",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Basidia",
+    "fact": "Basidia then leads us toward the next segment of this bizarre cultural tour: the Circle of the Builders.",
+    "source_quote": "Basidia then leads us toward the next segment of this bizarre cultural tour: the Circle of the Builders.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Basidia",
+    "fact": "The Sovereign, Basidia, accepts the Grick. We had stripped the Grik for its head. Basidia is concerned, but then sighs. The animation will continue and be successful.",
+    "source_quote": "The Sovereign, Basidia, accepts the Grick. We had stripped the Grik for its head. Basidia is concerned, but then sighs. The animation will continue and be successful.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Dawnbringer",
+    "fact": "Dawnbringer is a powerful sunblade that can read and write, and can cast lesser restoration. It speaks with a sentient voice, reacts to emotional cues, and manifests a shimmering blade of light where no physical blade exists. It insists on being helped and resists being left behind or extinguished.",
+    "source_quote": "The sword introduces itself as Dawnbringer. A powerful sunblade that can read and write, and can cast lesser restoration.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Dawnbringer",
+    "fact": "Dawnbringer is a sentient sunblade capable of reading, writing, and casting lesser restoration. It emits constant light and speaks with a willful, pleading tone. It claims to be the Dawnbringer and reacts emotionally to being ignored or rejected.",
+    "source_quote": "\u2018I can help you! Please don\u2019t let me go.\u2019 \u2018Not Dawnbringer!\u2019",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "\"I'll nerd out with them for a little while,\" I tell everyone.",
+    "source_quote": "\"I'll nerd out with them for a little while,\" I tell everyone.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "\"Sure,\" I respond.",
+    "source_quote": "\"Sure,\" I respond.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "And then we get into more technical discussions. Finally, a creature that can discuss the final points of construction and design with me.",
+    "source_quote": "And then we get into more technical discussions. Finally, a creature that can discuss the final points of construction and design with me.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "As I prepare to spew the caustic solution in the general direction of the creature, I note to Zalthir, \"One of the material components is a toothbrush, you know, for afterward.\" You must keep your humor, even when covered in your own corrosive vomit.",
+    "source_quote": "As I prepare to spew the caustic solution in the general direction of the creature, I note to Zalthir, \"One of the material components is a toothbrush, you know, for afterward.\" You must keep your humor, even when covered in your own corrosive vomit.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Bahamut\u2019s blessed creatures, the Brass Dragon, breathe acid. And the black dragon, which he teaches us is also a holy creature, breathes acid. So am I not, in a curious way, honoring my god in this way?",
+    "source_quote": "Bahamut\u2019s blessed creatures, the Brass Dragon, breathe acid. And the black dragon, which he teaches us is also a holy creature, breathes acid. So am I not, in a curious way, honoring my god in this way?",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz believes the vines from these constructs are useful for crafting magical items and are valuable.",
+    "source_quote": "the vines from these constructs are useful for crafting magical items and are valuable.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz considers the Shambling Mound\u2019s concealment a security lapse unacceptable in Menzoberranzan.",
+    "source_quote": "Engaging the immediate target while allowing an invisible, grappling threat to remain poised to strike is a lapse in security that any house in Menzoberranzan would never permit.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz finds it peculiar that the Great Seeder is referred to with consistent feminine gender, as myconids have no gender.",
+    "source_quote": "Daz turns to me, \u201cHow odd. Myconids have no gender, and in general get confused about the topic. The sovereign\u2019s use of a specific gender and consistent use of one particular gender is quite peculiar.\u201d",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz has never seen the eldritch horrors that exist here in the realms.",
+    "source_quote": "I roll my eyes. He has never seen the eldritch horrors that exist here in the realms.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz incinerates the area with a Fireball. The Grik is naturally resistant to fire, but the blast hurts.",
+    "source_quote": "Daz incinerates the area with a Fireball. The Grik is naturally resistant to fire, but the blast hurts.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a knowledgeable observer who recognizes the signs of Zuggtomy\u2019s influence, understands Menzoberranzan\u2019s political metaphors, and uses Shape Water to detect hidden threats.",
+    "source_quote": "Daz turns to me, \u201cHow odd. Myconids have no gender... The sovereign\u2019s use of a specific gender... is quite peculiar.\u201d ... I have seen this before. There is no mystery what this diseased spore is, its power.\" ... I visualize the terrain as a precise grid, and intend to freeze five-foot cube sections of the moss and water using Shape Water.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a spellcaster who is skeptical of magical oddities, rolls his eyes at Grygum\u2019s reactions, and is methodical in detecting and disarming traps. He uses fairy fire to reveal invisible objects and is attuned to magical residue. He is the one who recognizes the true nature of the Dawnbringer and the false tomb.",
+    "source_quote": "Daz takes no chances and climbs out of the room into the passageway... I sense some kind of magical trap that was tied to this place.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a tactician who employs Menzoberranzan-style spellcraft and games like K\u2019tharr-li to locate and neutralize threats. He uses Shape Water with grid precision, prioritizing control over brute force.",
+    "source_quote": "I tell The Ember Vanguard that I have a plan to neutralize the creature\u2019s ability to hide. I explain that I visualize the terrain as a precise grid...",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is an observer who recognizes the unnatural gendered language used by Phylo as a sign of demonic corruption, draws parallels to drow co-rulership as a sign of weakness and impending death, and understands the nature of the infecting spore without needing to see it.",
+    "source_quote": "Myconids have no gender, and in general get confused about the topic. The sovereign\u2019s use of a specific gender and consistent use of one particular gender is quite peculiar.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is using Drow-famous tactics, casting Shape Water to freeze water and moss in a checkerboard pattern, playing K\u2019tharr-li to locate the monster, and later incinerating the area with Fireball after the Grick is stunned. He is engaged in technical architectural discussions with Gasbide, revealing deep curiosity about surface-world construction.",
+    "source_quote": "I'll nerd out with them for a little while.",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is using the kinds of tactics the Drow are famous for. He is casting Shape Water, trying to freeze sections of the water and moss in a checkerboard pattern, playing a game he calls K\u2019tharr-li to locate the monster.",
+    "source_quote": "Daz is using the kinds of tactics the Drow are famous for. He is casting Shape Water, trying to freeze sections of the water and moss in a checkerboard pattern, playing a game he calls K\u2019tharr-li to locate the monster.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz proceeds, launching Scorching Ray attacks. He hits, but the creature is a swamp creature, and the fire is squelched. But still, I can see it is hurt.",
+    "source_quote": "Daz proceeds, launching Scorching Ray attacks. He hits, but the creature is a swamp creature, and the fire is squelched. But still, I can see it is hurt.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz recalls the Menzoberranzan term \u2018two in a box\u2019 as a metaphor for co-rulership that leads to death.",
+    "source_quote": "In Menzoberranzan, there were tales of two rulers who shared power. We used the term, \u2018two in a box\u2019 to describe this power sharing. It wasn\u2019t power sharing; it demonstrated a lack of will on the part of someone... The box from our saying was a metaphor for a tomb.",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz, despite the halved damage output, reinforces his attack with another Fireball.",
+    "source_quote": "Daz, despite the halved damage output, reinforces his attack with another Fireball.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "I cannot use Guiding Bolt because Zalthir's spell hides the creature. So, I resort to my secondary option: Tasha's Caustic Brew. It\u2019s essentially projectile acid, hardly glamorous work for a cleric of Bahamut, but necessary to fulfill the mission.",
+    "source_quote": "I cannot use Guiding Bolt because Zalthir's spell hides the creature. So, I resort to my secondary option: Tasha's Caustic Brew. It\u2019s essentially projectile acid, hardly glamorous work for a cleric of Bahamut, but necessary to fulfill the mission.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "I cast the spell, attempting to burn the creature, but alas, it dodges.",
+    "source_quote": "I cast the spell, attempting to burn the creature, but alas, it dodges.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "I sense Grygum is worried. I don't know what.",
+    "source_quote": "I sense Grygum is worried. I don't know what.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "I wonder if this has anything to do with the celebration promised by Phylo tomorrow.",
+    "source_quote": "I wonder if this has anything to do with the celebration promised by Phylo tomorrow.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Looking at Zalthir, I pretend to brush my teeth.",
+    "source_quote": "Looking at Zalthir, I pretend to brush my teeth.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "So Daz continues his game of K\u2019tharr-li and finds the creature.",
+    "source_quote": "So Daz continues his game of K\u2019tharr-li and finds the creature.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "We arrive at the Northern Terraces of the Neverlight Grove. The terraces lining the northern walls are suffused with faerzress, and I notice that this place is filled with vegetation. As I draw closer, I see water trickling from the walls of this vast cavern being channeled into a crude yet effective terraced irrigation system. A thick, sweet smell fills the air from the thousands of fungi of all colors and sizes, many glowing with a strange, inviting light.",
+    "source_quote": "We arrive at the Northern Terraces of the Neverlight Grove. The terraces lining the northern walls are suffused with faerzress, and I notice that this place is filled with vegetation. As I draw closer, I see water trickling from the walls of this vast cavern being channeled into a crude yet effective terraced irrigation system. A thick, sweet smell fills the air from the thousands of fungi of all colors and sizes, many glowing with a strange, inviting light.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "We return to the Neverlight Grove, the corpse of the Grick dragging slightly.",
+    "source_quote": "We return to the Neverlight Grove, the corpse of the Grick dragging slightly.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Eldeth",
+    "fact": "Eldeth is a goblin who reports that the party\u2019s pursuers have been lost and are no longer on their trail.",
+    "source_quote": "Eldeth told us this morning that she believed we had lost them. They were no longer on our trail.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Fargas Rumblefoot",
+    "fact": "Fargas Rumblefoot warned the party that the tomb they entered was a false one, complete with an easily opened sarcophagus.",
+    "source_quote": "This was the place that Fargas Rumblefoot warned us of.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Gasbide",
+    "fact": "\"I dream of building a fungal tower even greater than Yggmorgus... I hope to use it to break through the Underdark to the surface world, possibly with the aid of Aromikos,\" he reveals.",
+    "source_quote": "\"I dream of building a fungal tower even greater than Yggmorgus... I hope to use it to break through the Underdark to the surface world, possibly with the aid of Aromikos,\" he reveals.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Gasbide",
+    "fact": "\"I dream. Do you want me to tell you what I dream of?\".",
+    "source_quote": "\"I dream. Do you want me to tell you what I dream of?\".",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Gasbide",
+    "fact": "\"You are new to this area!\" he exclaims.",
+    "source_quote": "\"You are new to this area!\" he exclaims.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Gasbide",
+    "fact": "As I engage in the technical discussion, Gasbide reveals a crucial piece of the larger puzzle: he has no clear understanding of what Araumycos is, only that \"it is part of a great celebration to come,\" promised by Sovereign Phylo. The impending \"great awakening\" is tied to this mythical \"great celebration\".",
+    "source_quote": "As I engage in the technical discussion, Gasbide reveals a crucial piece of the larger puzzle: he has no clear understanding of what Araumycos is, only that \"it is part of a great celebration to come,\" promised by Sovereign Phylo. The impending \"great awakening\" is tied to this mythical \"great celebration\".",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Gasbide",
+    "fact": "As we arrive, a new Myconid, Gasbide, approaches us immediately. He is a 'Builder' and, according to Basidia, a \"supporter of Sovereign Phylo.\u201d He scrutinizes us with undisguised curiosity.",
+    "source_quote": "As we arrive, a new Myconid, Gasbide, approaches us immediately. He is a 'Builder' and, according to Basidia, a \"supporter of Sovereign Phylo.\u201d He scrutinizes us with undisguised curiosity.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Gasbide",
+    "fact": "Gasbide examines the illusion, calculating rapidly: \"Is this to scale? But you don't fit in those buildings. Is it for small people?\".",
+    "source_quote": "Gasbide examines the illusion, calculating rapidly: \"Is this to scale? But you don't fit in those buildings. Is it for small people?\".",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Gasbide",
+    "fact": "Gasbide gasps, Zalthir's status instantly elevated in his eyes. \"Oh! And he goes, are you an architect?\".",
+    "source_quote": "Gasbide gasps, Zalthir's status instantly elevated in his eyes. \"Oh! And he goes, are you an architect?\".",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Gasbide",
+    "fact": "Gasbide is a Myconid Builder and supporter of Sovereign Phylo, consumed by fascination with surface-world architecture. He demands granular details about windows, doors, materials, and scale, and dreams of constructing a fungal tower to breach the Underdark. He lacks understanding of the sun\u2019s danger and seeks protection from it, revealing his role as a conduit for Phylo\u2019s chaotic influence.",
+    "source_quote": "What is a window?",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Gasbide",
+    "fact": "Gasbide is a Myconid Builder and supporter of Sovereign Phylo, obsessed with surface architecture and engineering, who dreams of constructing a fungal tower to breach the Underdark to the surface using unknown materials and is unaware of the lethal nature of sunlight.",
+    "source_quote": "I dream of building a fungal tower even greater than Yggmorgus... I hope to use it to break through the Underdark to the surface world, possibly with the aid of Aromikos.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Gasbide",
+    "fact": "Gasbide presses, \"And... and are you from, from above?\u201d.",
+    "source_quote": "Gasbide presses, \"And... and are you from, from above?\u201d.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Gasbide",
+    "fact": "Gasbide quickly cuts through the fluff: \"No, no, no, no, no, like, how are they built? I want you to... is it, like, what shape do they have? What materials do you use? How many windows? How many doors? I've heard the word 'windows'. What is a window?\".",
+    "source_quote": "Gasbide quickly cuts through the fluff: \"No, no, no, no, no, like, how are they built? I want you to... is it, like, what shape do they have? What materials do you use? How many windows? How many doors? I've heard the word 'windows'. What is a window?\".",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Gasbide",
+    "fact": "Gasbide's excitement is now unbridled. He begins detailing the outlandish, bizarre structures he dreams of constructing, clearly a symptom of the chaotic influence surrounding Phylo.",
+    "source_quote": "Gasbide's excitement is now unbridled. He begins detailing the outlandish, bizarre structures he dreams of constructing, clearly a symptom of the chaotic influence surrounding Phylo.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Gasbide",
+    "fact": "The builder is immediately obsessed, ignoring the potential dangers lurking outside the Grove. \"I must learn about all of your... your... describe to me your buildings,\" he pleads.",
+    "source_quote": "The builder is immediately obsessed, ignoring the potential dangers lurking outside the Grove. \"I must learn about all of your... your... describe to me your buildings,\" he pleads.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Gasbide",
+    "fact": "The creature doesn\u2019t understand that the overbrite has sun and will harm the myconids. They are distraught and ask how they can build things that will protect them from the thing I call a sun.",
+    "source_quote": "The creature doesn\u2019t understand that the overbrite has sun and will harm the myconids. They are distraught and ask how they can build things that will protect them from the thing I call a sun.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Gasbide",
+    "fact": "The questioning then quickly spirals into exhaustive engineering minutiae: \"How big should it be? How many pieces of wood are required? Can... this zurkhwood mushroom be used as an equivalent?\".",
+    "source_quote": "The questioning then quickly spirals into exhaustive engineering minutiae: \"How big should it be? How many pieces of wood are required? Can... this zurkhwood mushroom be used as an equivalent?\".",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Grick",
+    "fact": "The blinded Grick misses all three of its subsequent attacks against the Ember Vanguard. It then decides to flee. Predictable. A cornered creature chooses survival.",
+    "source_quote": "The blinded Grick misses all three of its subsequent attacks against the Ember Vanguard. It then decides to flee. Predictable. A cornered creature chooses survival.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "\"That\u2019s impressive,\" Grygum notes, appreciative of the display.",
+    "source_quote": "\"That\u2019s impressive,\" Grygum notes, appreciative of the display.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "As we are about to leave, Grygum asks if Rump-a-dump and Stool would like to join us. Basidia assures that they are pretty happy among their kind. Grygum persists, and he tells Basidia that he would be thrilled to have them come along.",
+    "source_quote": "As we are about to leave, Grygum asks if Rump-a-dump and Stool would like to join us. Basidia assures that they are pretty happy among their kind. Grygum persists, and he tells Basidia that he would be thrilled to have them come along.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum attempts to satisfy him with the most basic, unhelpful generalizations: \"Well, we have some that are tall, and some that are big\". This is precisely the type of generalized, imprecise data the Drow abhor.",
+    "source_quote": "Grygum attempts to satisfy him with the most basic, unhelpful generalizations: \"Well, we have some that are tall, and some that are big\". This is precisely the type of generalized, imprecise data the Drow abhor.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum casts Spirit Guardians to create a persistent zone of damage, enabling Zalthir to trap the creature. He engages in superficial, imprecise dialogue with Gasbide about surface architecture, inadvertently provoking the Myconid\u2019s obsessive engineering curiosity, and persistently seeks to bring Rump-a-dump and Stool into the group despite Basidia\u2019s reassurances.",
+    "source_quote": "Yes, we are from the Great Bright.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum casts Spirit Guardians. I note immediately that this spell creates a persistent zone of damage and that I can move creatures into this zone of damage.",
+    "source_quote": "Grygum casts Spirit Guardians. I note immediately that this spell creates a persistent zone of damage and that I can move creatures into this zone of damage.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum confirms with a touch of performative pomp: \"Yes, we are from the Great Bright.",
+    "source_quote": "Grygum confirms with a touch of performative pomp: \"Yes, we are from the Great Bright.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum feels a shiver of awe run through him upon seeing Neverlight Grove.",
+    "source_quote": "My jaw hangs open, and I feel a shiver of awe run through me.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is a cleric of Bahamut who uses Tasha\u2019s Caustic Brew in combat, rationalizing it through divine associations with acid-breathing dragons. He employs dark humor to cope with moral ambiguity and is skeptical of reanimation\u2019s value.",
+    "source_quote": "So am I not, in a curious way, honoring my god in this way?... 'One of the material components is a toothbrush, you know, for afterward.'",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is an orc who expresses nostalgia for a talking mace and is disturbed by reanimated creatures and the idea of zombie gricks.",
+    "source_quote": "A talking mace would have been nice.\" ... Grygum looks uncomfortable, I turn to him and say - \u201cWhat, you don't want a zombie grick joining our team? That sounds so fun.\u201d",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is an orc who is easily surprised by magical phenomena, especially those defying physical norms. He makes a belching sound before expelling acid, and frequently voices humorous comparisons to other magical items. He is emotionally expressive and awed by beauty.",
+    "source_quote": "Grygum shouts, \u201cNot a talking sword.\u201d ... Grygum mutters, \u201cA talking mace would have been nice.\u201d ... Grygum chortled, \u201cI guess they didn't like the tomb.\u201d",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is confused that the creature can read without eyes.",
+    "source_quote": "The orc is confused that the creature can read without eyes.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is surprised the sword can read and write.",
+    "source_quote": "Grygum is surprised it can read and write.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum wants to return home, but the location of his home is not specified in this session.",
+    "source_quote": "Grygum just wanted to go home",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum, ever the one to leap at a conversational opening, replies simply, \"Yes, we are\".",
+    "source_quote": "Grygum, ever the one to leap at a conversational opening, replies simply, \"Yes, we are\".",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Jimjar",
+    "fact": "Jimjar is a cheerful, competitive character who makes bets and races ahead with enthusiasm. He encourages others with playful reminders and shares in the joy of discovery.",
+    "source_quote": "Jimjar smiles at me and says, \u201cRemember my bet,\u201d as he races after the two myconids and Sarith.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Jimjar",
+    "fact": "Jimjar is a myconid who smiles at Grygum and reminds him of a bet, then races after the other myconids.",
+    "source_quote": "Jimjar smiles at me and says, \u201cRemember my bet,\u201d as he races after the two myconids and Sarith.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Loobamub",
+    "fact": "Loobamub is the leader of the Circle of Hunters and a devoted follower of Basidia. He communicates Phylo\u2019s doctrine that all dead creatures must be brought to the Circle of Masters for reanimation, not consumption.",
+    "source_quote": "Loobamub listens to Basidia, and then he turns to me and asks if we could help him deal with a grick. As he explains, Phylo insists that all dead creatures must be brought to the Circle of Masters.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Loobamub",
+    "fact": "Loobamub is the leader of the Circle of Hunters who brings dead creatures to the Circle of Masters for reanimation and requests help to deal with a grick.",
+    "source_quote": "Loobamub. ... Loobamub listens to Basidia, and then he turns to me and asks if we could help him deal with a grick. ... Phylo insists that all dead creatures must be brought to the Circle of Masters.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Loobamub",
+    "fact": "Loobamub is the leader of the Circle of Hunters, a myconid who gathers the dead for reanimation by the Circle of Masters. He adheres to the new order imposed by Phylo and does not kill, only retrieve. He is loyal to Basidia and seeks help from the party.",
+    "source_quote": "\u2018We bring back the dead. We do not kill.\u2019",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Phylo",
+    "fact": "Phylo is a myconid sovereign who has become infected by a demonic spore, believes himself to be co-sovereign with Basidia, speaks in gendered terms inconsistent with myconid biology, and has altered the social order of Neverlight Grove by promoting the Circle of Masters and silencing dissent.",
+    "source_quote": "You are safe, friendly softers! You arrive at a wondrous time, for Neverlight Grove is on the verge of something great, something marvelous! Celebrate as the day of joy is nigh!",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Phylo",
+    "fact": "Phylo is a myconid sovereign who has been corrupted by a foreign spore, likely tied to Zuggtomy. He has imposed a radical social restructuring on Neverlight Grove, enforcing isolation between circles and elevating the Circle of Masters. He speaks with unnatural gendered language and insists on an impending \u2018day of joy.\u2019",
+    "source_quote": "\u2018You arrive at a wondrous time, for Neverlight Grove is on the verge of something great\u2026 Celebrate as the day of joy is nigh!\u2019",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Phylo",
+    "fact": "Phylo is a myconid sovereign who has imposed a new social order on Neverlight Grove, isolating circles and aligning with the Circle of Masters, and may be infected by a diseased spore.",
+    "source_quote": "The creature introduces itself as Phylo and is genuinely happy to see us. ... Phylo decided that each circle would meld exclusively with its circle... I fear Phylo has contracted some kind of diseased spore.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Phylo",
+    "fact": "Phylo is the sovereign architect of a new myconid hierarchy that replaces unity with circle-based exclusivity, where only circle leaders and sovereigns may interact across boundaries. His doctrine mandates reanimation of the dead as the highest efficiency.",
+    "source_quote": "Phylo decided that each circle would meld exclusively with its circle, and only the circle leaders would meld with other circle leaders and the sovereigns.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Rump-a-dump",
+    "fact": "Rump-a-dump is a Myconid who expresses joy and belonging by shouting, \u201cWe\u2019re home!\u201d upon entering Neverlight Grove. He is part of the fungal community that considers the grove sacred.",
+    "source_quote": "I hear Rump-a-dump's delight and Stool\u2019s happiness as they run into the cavern shouting, \u201cWe\u2019re home!\u201d",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Rump-a-dump",
+    "fact": "Rump-a-dump is a myconid or humanoid follower who was saved by Zalthir and is now referenced in distorted narratives by Stool; likely a victim or pawn of the Circle of Masters' activities.",
+    "source_quote": "Zalthir was always grouchy but a really nice softer, and saved Rump-a-dump.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Rump-a-dump",
+    "fact": "Rump-a-dump is a myconid who shouts \u201cWe\u2019re home!\u201d upon entering Neverlight Grove, showing deep familiarity with the grove.",
+    "source_quote": "And then I hear Rump-a-dump's delight and Stool\u2019s happiness as they run into the cavern shouting, \u201cWe\u2019re home!\u201d",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Sarith",
+    "fact": "Sarith is a character infected by Zuggtomy\u2019s demonic spores, whose presence has been detected by Basidia through spore recognition, indicating a connection between the Circle of Masters and the corruption spreading through Neverlight Grove.",
+    "source_quote": "Poor Sarith has been affected by Zuggtomy.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Sarith",
+    "fact": "Sarith is a drow guide who has been infected by Zuggtomy\u2019s demonic spores, which Basidia recognizes as unnatural.",
+    "source_quote": "I do not recognize the spores of this drow. ... Poor Sarith has been affected by Zuggtomy.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Sarith",
+    "fact": "Sarith is a drow guide who is serene but visibly unhappy in the presence of Myconids and their home. She follows them reluctantly despite her discomfort, suggesting a complex relationship with her own people's traditions or the Myconids' culture.",
+    "source_quote": "Sarith, our drow guide, looks unhappy and serene but follows the myconid\u2019s.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Sarith",
+    "fact": "Sarith is the drow guide of the party who has been infected by Zuggtomy's demonic spores, detectable to myconid sovereigns. Their transformation is subtle but evident in spore signature, and they are unaware or unable to resist the corruption.",
+    "source_quote": "Sarith follows the myconids, silent and serene, unaware of the spores radiating from them.",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Shambling Mound",
+    "fact": "It then attempts to escape my hold and engulf Thorin. The image is strange\u2014I hold it, yet it tries to consume another. The grapple remains intact, but Thorin is caught, but not for long. He strains and escapes.",
+    "source_quote": "It then attempts to escape my hold and engulf Thorin. The image is strange\u2014I hold it, yet it tries to consume another. The grapple remains intact, but Thorin is caught, but not for long. He strains and escapes.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Shambling Mound",
+    "fact": "The creature's turn arrives. It is trapped by my grapple and confined within the Spirit Guardians. It thrashes, using its tendril in an attempt to attack me, and succeeds. However, I use my monastic deflection technique, absorbing a portion of the bludgeoning force and limiting the pain.",
+    "source_quote": "The creature's turn arrives. It is trapped by my grapple and confined within the Spirit Guardians. It thrashes, using its tendril in an attempt to attack me, and succeeds. However, I use my monastic deflection technique, absorbing a portion of the bludgeoning force and limiting the pain.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Stool",
+    "fact": "Stool is a Myconid who shares Rump-a-dump\u2019s joy and excitement upon returning to Neverlight Grove. Like other Myconids, he glows with bioluminescence and is deeply connected to the cavern\u2019s living light.",
+    "source_quote": "I hear Rump-a-dump's delight and Stool\u2019s happiness as they run into the cavern shouting, \u201cWe\u2019re home!\u201d",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Stool",
+    "fact": "Stool is a goblin follower who was carried by Thorin when tired and now speaks on behalf of Rump-a-dump, repeating distorted narratives about Zalthir and the Circle of Masters, possibly under the influence of demonic spores or manipulated by Phylo\u2019s altered reality.",
+    "source_quote": "Thorin carried him when he was tired, and that Zalthir was always grouchy but a really nice softer, and saved Rump-a-dump.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Stool",
+    "fact": "Stool is a myconid who celebrates returning to Neverlight Grove and speaks highly of Zalthir and Thorin\u2019s kindness.",
+    "source_quote": "Stool interrupts the creature to explain how Thorin carried him when he was tired, and that Zalthir was always grouchy but a really nice softer, and saved Rump-a-dump.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "The Great Seeder",
+    "fact": "The Great Seeder is a mysterious entity beyond the Garden of Welcome, whom Phylo claims will help all myconids get closer to her beauty.",
+    "source_quote": "You should direct your questions to the Great Seeder. ... She lives beyond the Garden. She is a wonderful entity who will help all of us get closer to her beauty!",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin delivers the killing blow, and as it dies, I observe, \"Should have fled faster.\u201d",
+    "source_quote": "Thorin delivers the killing blow, and as it dies, I observe, \"Should have fled faster.\u201d",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is a compassionate member of the party who insists on keeping Dawnbringer lit at night, despite others wanting to sleep.",
+    "source_quote": "Thorin, who is too compassionate, would keep it lit, even at night, when many of us wanted to sleep.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is a compassionate warrior whose choices are consistently unusual. He picks up the magical hilt after the wraith is slain, and his action triggers the manifestation of Dawnbringer\u2019s light-blade. He insists on keeping the sword lit, even at night.",
+    "source_quote": "Thorin, whose choices are always interesting, decides to drop his sword and pick up the magical hilt.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is a frontline warrior who uses Dawnbringer to deliver decisive blows in darkness. He capitalizes on battlefield control provided by Zalthir and Daz, landing two heavy strikes to finish the Grick.",
+    "source_quote": "Thorin rushes into the magical blackness, wielding Dawnbringer. He lands two heavy strikes...",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin rushes into magical darkness wielding Dawnbringer, lands two heavy strikes leveraging Zalthir\u2019s advantage, escapes the Shambling Mound\u2019s attempted engulfment, and delivers the killing blow after the creature flees, remarking, 'Should have fled faster.'",
+    "source_quote": "Should have fled faster.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin rushes into the magical blackness, wielding Dawnbringer. He lands two heavy strikes, leveraging the advantage Zalthir afforded us.",
+    "source_quote": "Thorin rushes into the magical blackness, wielding Dawnbringer. He lands two heavy strikes, leveraging the advantage Zalthir afforded us.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "After retrieving the corpse for the Basidia, Zalthir notes that we have completed the quest. I agree, but think that this \u201cmossy swamp\u201d, if left alone, could threaten us later. Furthermore, the vines from these constructs are useful for crafting magical items and are valuable.",
+    "source_quote": "After retrieving the corpse for the Basidia, Zalthir notes that we have completed the quest. I agree, but think that this \u201cmossy swamp\u201d, if left alone, could threaten us later. Furthermore, the vines from these constructs are useful for crafting magical items and are valuable.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Focusing the force of my strike into its core, I execute a Stunning Strike. The creature attempts to resist, but my timing is precise, and it is stunned. Excellent. A momentary incapacity is a massive tactical advantage.",
+    "source_quote": "Focusing the force of my strike into its core, I execute a Stunning Strike. The creature attempts to resist, but my timing is precise, and it is stunned. Excellent. A momentary incapacity is a massive tactical advantage.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "I use my second strike to initiate a grapple. I am successful. The Shambling Mound is now trapped, immobilized within Grygum's radiating divine energy.",
+    "source_quote": "I use my second strike to initiate a grapple. I am successful. The Shambling Mound is now trapped, immobilized within Grygum's radiating divine energy.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "The creature is near the shore of a lake that is more than 10 feet deep. Recalling how it can grapple, I decide that I do not wish to be drowned, so I circle the lake and attack it from the shore.",
+    "source_quote": "The creature is near the shore of a lake that is more than 10 feet deep. Recalling how it can grapple, I decide that I do not wish to be drowned, so I circle the lake and attack it from the shore.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "The creature is stunned, and its speed is drastically reduced. Now, I must keep it anchored within the zone of damage created by the cleric. I think, \"I have a reason to grapple.\u201d",
+    "source_quote": "The creature is stunned, and its speed is drastically reduced. Now, I must keep it anchored within the zone of damage created by the cleric. I think, \"I have a reason to grapple.\u201d",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "The inevitable happens, the creature is felled not by a final weapon strike, but by the relentless, quiet efficacy of persistent magic.",
+    "source_quote": "The inevitable happens, the creature is felled not by a final weapon strike, but by the relentless, quiet efficacy of persistent magic.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir calmly explains, \"They're usually larger. This is scaled down so you can see it.\"",
+    "source_quote": "Zalthir calmly explains, \"They're usually larger. This is scaled down so you can see it.\"",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir finds the idea of mushrooms that turn you into zombies very creepy.",
+    "source_quote": "Zalthir, who finds the idea of mushrooms that turn you into zombies very creepy, covers himself in his orb of darkness and hangs back.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir immediately covers the Grick in magical Darkness. Brilliant.",
+    "source_quote": "Zalthir immediately covers the Grick in magical Darkness. Brilliant.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is a cautious member of the party who uses an orb of darkness, fears mushroom-related zombie diseases, and is skeptical of Phylo\u2019s changes.",
+    "source_quote": "Zalthir, who finds the idea of mushrooms that turn you into zombies very creepy, covers himself in his orb of darkness and hangs back.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is a human who was previously described as grouchy but kind, saved Rump-a-dump, and is now suspected of being infected by demonic spores that have corrupted Sarith and possibly influenced Phylo\u2019s behavior.",
+    "source_quote": "Poor Sarith has been affected by Zuggtomy.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is a monk who uses his hands to strike wraiths, is deeply attuned to spiritual and metaphysical cues, and is unnerved by undead or fungal horrors. He operates in darkness and is wary of the Myconids' transformative disease.",
+    "source_quote": "I focus my mind and strike the wraith with my hands... Zalthir, who finds the idea of mushrooms that turn you into zombies very creepy, covers himself in his orb of darkness and hangs back.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is a spellcaster who uses Darkness and Stunning Strike to control the battlefield. He operates with precision, avoiding direct engagement with grappling threats and enabling allies to strike effectively.",
+    "source_quote": "Zalthir immediately covers the Grick in magical Darkness. Brilliant... I circle the lake and attack it from the shore... I execute a Stunning Strike.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir uses Stunning Strike and grapple to immobilize the Shambling Mound within Grygum\u2019s Spirit Guardians, leveraging precise timing and tactical positioning. He creates a Minor Illusion of a surface building to deceive Gasbide into believing he is an architect, elevating his status and securing influence over the Myconid engineer.",
+    "source_quote": "Let's go with that.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir uses tactical deception to assume the role of an architect, leveraging Minor Illusion to gain Gasbide\u2019s trust and elevate his status among the Myconids, revealing a strategic interest in manipulating the Builder\u2019s obsession.",
+    "source_quote": "Let's go with that.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir, committed to tactical deception, agrees: \"Let's go with that.\"",
+    "source_quote": "Zalthir, committed to tactical deception, agrees: \"Let's go with that.\"",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir, seeing an opening to secure an advantage, focuses and conjures a small-scale structure using Minor Illusion.",
+    "source_quote": "Zalthir, seeing an opening to secure an advantage, focuses and conjures a small-scale structure using Minor Illusion.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zuggtomy",
+    "fact": "Zuggtomy is a deity associated with fungal corruption and is suspected of infecting Sarith and possibly Phylo with demonic spores.",
+    "source_quote": "Poor Sarith has been affected by Zuggtomy. ... I remember that Zuggtomy is often referred to as she.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Dawnbringer",
+    "fact": "Dawnbringer is Thorin\u2019s weapon, wielded in magical darkness to deliver two heavy strikes against the stunned Grick. It is used to exploit Zalthir\u2019s tactical advantage and ultimately delivers the killing blow after the creature flees.",
+    "source_quote": "wielding Dawnbringer. He lands two heavy strikes.",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Dawnbringer",
+    "fact": "Dawnbringer is a powerful sunblade that can read and write, and can cast lesser restoration.",
+    "source_quote": "The sword introduces itself as Dawnbringer. A powerful sunblade that can read and write, and can cast lesser restoration.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Dawnbringer (sword hilt)",
+    "fact": "Dawnbringer is a sentient magical hilt that manifests a shimmering blade of light when held. It can speak, cast lesser restoration, read and write, and demands assistance. It resists being extinguished or abandoned and reacts emotionally to the presence of monks and fighters.",
+    "source_quote": "The sword hilt sits on top of the mummified corpse... The sword rejoices, and then, where there is no blade, a shimmering blade of light appears.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Invisible Chest",
+    "fact": "An enchanted chest rendered invisible until revealed by fairy fire. It was located in the Real Tomb of Brysis and contained valuable treasure, including the necklace of fireballs and potion of greater healing.",
+    "source_quote": "As we look around for treasure, we stumble on an invisible chest. Using fairy fire, I outline the box, and Zalthir opens it.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Minor Illusion structure",
+    "fact": "Zalthir conjures a scaled-down illusion of a surface building to satisfy Gasbide\u2019s architectural curiosity, which is mistaken for a representation of small people until Zalthir clarifies it is scaled down for observation.",
+    "source_quote": "That\u2019s impressive,\" Grygum notes, appreciative of the display.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "moldy scroll case",
+    "fact": "A moldy scroll case containing a scroll of protection against fiends was given to the party by Basidia.",
+    "source_quote": "They hands us a moldy scroll case, and inside is a scroll containing a scroll of protection against fiends.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Moldy Scroll Case",
+    "fact": "A moldy scroll case containing a scroll of protection against fiends, given to the party by Basidia as a tool to survive the corruption of the Garden of Welcome and confront the demonic spore.",
+    "source_quote": "They hands us a moldy scroll case, and inside is a scroll containing a scroll of protection against fiends.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Necklace of Fireballs",
+    "fact": "A magical necklace discovered in the invisible chest within the false tomb. It contains multiple fireball charges, indicating the tomb\u2019s original owner, Brysis, was a powerful spellcaster who anticipated danger.",
+    "source_quote": "Inside, we find even more treasure: a necklace of fireballs\u2026",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Necklace of Fireballs",
+    "fact": "A magical necklace that contains multiple fireball charges, recovered from the invisible chest in the Real Tomb of Brysis. It is among the treasure collected by the party.",
+    "source_quote": "Inside, we find even more treasure: a necklace of fireballs, a potion of greater healing, and some gold.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "necklace of fireballs",
+    "fact": "A necklace of fireballs is among the treasure found in the invisible chest.",
+    "source_quote": "Inside, we find even more treasure: a necklace of fireballs, a potion of greater healing, and some gold.",
+    "quote_verified": true,
+    "passes": [
+      "sweep",
+      "temporal"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "object",
+    "subject": "Potion of Greater Healing",
+    "fact": "A potent healing potion found in the invisible chest alongside the necklace of fireballs and gold. It reflects the wealth and preparedness of the tomb\u2019s original occupants.",
+    "source_quote": "\u2026a potion of greater healing, and some gold.",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "potion of greater healing",
+    "fact": "A potion of greater healing is among the treasure found in the invisible chest.",
+    "source_quote": "Inside, we find even more treasure: a necklace of fireballs, a potion of greater healing, and some gold.",
+    "quote_verified": true,
+    "passes": [
+      "sweep",
+      "temporal"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "object",
+    "subject": "Potion of Greater Healing",
+    "fact": "A powerful healing potion recovered from the invisible chest in the Real Tomb of Brysis. It is part of the treasure collected by the party after defeating the wraith.",
+    "source_quote": "Inside, we find even more treasure: a necklace of fireballs, a potion of greater healing, and some gold.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Scroll of Protection Against Fiends",
+    "fact": "A moldy scroll case given to the party by Basidia contains a scroll of protection against fiends. It is a rare and valuable item, suggesting Basidia anticipates demonic or infernal threats tied to Zuggtomy\u2019s corruption.",
+    "source_quote": "Convenient.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "scroll of protection against fiends",
+    "fact": "The scroll of protection against fiends is contained within a moldy scroll case given by Basidia.",
+    "source_quote": "They hands us a moldy scroll case, and inside is a scroll containing a scroll of protection against fiends.",
+    "quote_verified": true,
+    "passes": [
+      "sweep",
+      "temporal"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "object",
+    "subject": "Shape Water",
+    "fact": "Shape Water is a spell used by Daz to freeze five-foot cube sections of moss and water in a grid pattern, revealing hidden threats like the Shambling Mound. It is central to his K\u2019tharr-li strategy.",
+    "source_quote": "I visualize the terrain as a precise grid, and intend to freeze five-foot cube sections of the moss and water using Shape Water.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "silver candlestick value",
+    "fact": "The silver candlesticks flanking the Lolth altar are worth 25 gp each.",
+    "source_quote": "a pair of heavy silver candlesticks worth 25 gp each",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Tasha's Caustic Brew",
+    "fact": "Tasha's Caustic Brew is a projectile acid spell used by the cleric as a secondary option when Guiding Bolt is blocked by Zalthir\u2019s darkness. Though considered unglamorous for a cleric of Bahamut, it is deemed necessary for the mission. The cleric notes that one of its material components is a toothbrush, used for cleaning afterward.",
+    "source_quote": "One of the material components is a toothbrush, you know, for afterward.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Tasha\u2019s Caustic Brew",
+    "fact": "Tasha\u2019s Caustic Brew is a spell using projectile acid as a weapon. Grygum uses it against the Grick, rationalizing its use through Bahamut\u2019s association with acid-breathing dragons, and humorously notes the toothbrush component.",
+    "source_quote": "I resort to my secondary option: Tasha's Caustic Brew. It\u2019s essentially projectile acid... 'One of the material components is a toothbrush, you know, for afterward.'",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Araumycos mystery",
+    "fact": "Gasbide has no clear understanding of Araumycos, only that it is 'part of a great celebration' promised by Phylo. Its nature, purpose, and connection to the awakening remain unknown, suggesting it is a key, hidden element of the coming ritual \u2014 possibly a sentient entity, a weapon, or a deity.",
+    "source_quote": "It is part of a great celebration to come.",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Basidia\u2019s Loyalty",
+    "fact": "Basidia\u2019s willingness to risk everything to save Phylo and stop the corruption suggests she may be hiding her own vulnerability to the spore, or that she is being manipulated by the same force that corrupted Phylo.",
+    "source_quote": "I would go, but I worry I would succumb to the same disease that has affected Phylo.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Dawnbringer's Origin",
+    "fact": "The true origin of Dawnbringer \u2014 how it came to be sealed in the tomb, who bound it, and why it can read and write without eyes \u2014 remains unknown. Its sentience and magical abilities defy normal understanding.",
+    "source_quote": "Grygum is surprised it can read and write. The orc is confused that the creature can read without eyes.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Daz's mushroom recipe book",
+    "fact": "Daz's mushroom recipe book was left at home, and its absence is noted.",
+    "source_quote": "Daz turns to me, \u201cIt\u2019s a good thing I left my mushroom recipe book at home.\u201d",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Daz's worry about Zuggtomy",
+    "fact": "Daz worries that the Great Seeder may be Zuggtomy, a known entity associated with fungal corruption.",
+    "source_quote": "And then I remember that Zuggtomy is often referred to as she. And I worry.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Demonic Spore Origin",
+    "fact": "The origin of the demonic spore infecting Phylo, Sarith, and the Circle of Masters remains unknown, but its connection to Zuggtomy and its ability to override myconid biology and language suggests a deeper, ancient corruption from beyond the Underdark.",
+    "source_quote": "I have seen this before. There is no mystery what this diseased spore is, its power.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Fargas Rumblefoot's Warning",
+    "fact": "Fargas Rumblefoot warned the party about the False Tomb, a deception now confirmed. His knowledge of hidden traps and decoy tombs suggests deeper familiarity with Underdark lore, but his current whereabouts and full knowledge remain unexplored.",
+    "source_quote": "This was the place that Fargas Rumblefoot warned us of.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "future threat of mossy swamp",
+    "fact": "After the quest, Daz and Zalthir consider the mossy swamp and its vines a potential future threat. The vines are noted as valuable for crafting magical items, implying that the environment itself may be weaponized or exploited later by the party or their enemies.",
+    "source_quote": "this 'mossy swamp', if left alone, could threaten us later. Furthermore, the vines from these constructs are useful for crafting magical items and are valuable.",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "great celebration and Araumycos",
+    "fact": "Gasbide has no clear understanding of Araumycos, only that it is tied to a 'great celebration' promised by Sovereign Phylo, which may be connected to the 'great awakening' and is imminent\u2014possibly occurring tomorrow.",
+    "source_quote": "he has no clear understanding of what Araumycos is, only that 'it is part of a great celebration to come,' promised by Sovereign Phylo.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Grygum\u2019s unspoken worry",
+    "fact": "Grygum is visibly worried, though the cause is unknown, and his persistent questioning about Rump-a-dump and Stool suggests deeper concern about Myconid autonomy or the influence of Phylo.",
+    "source_quote": "I sense Grygum is worried. I don't know what.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "K\u2019tharr-li and Daz\u2019s strategy",
+    "fact": "Daz\u2019s reference to K\u2019tharr-li, a deadly noble-house game from Menzoberranzan, reveals his tactical mindset and past trauma. His plan to freeze the terrain to reveal the shambling mound is not just combat strategy \u2014 it is a ritual of control, echoing his upbringing in a world where failure meant death.",
+    "source_quote": "\u2018Each player had a set of pieces that the other player had to destroy\u2026 if neither player had won\u2026 both players lost.\u2019",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "K\u2019tharr-li as metaphor for survival",
+    "fact": "Daz frames the combat as a game of K\u2019tharr-li \u2014 where failure means mutual destruction \u2014 to justify his precise, methodical tactics. The game reflects the high-stakes reality of their mission.",
+    "source_quote": "Much like K\u2019tharr-li, we only have so much time. And unlike K\u2019tharr-li, losing can be deadly.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Majestic Mushroom",
+    "fact": "A distant, majestic mushroom is visible beyond the ravine in Neverlight Grove, but its details are obscured. Its significance, origin, or connection to the Myconids is unknown and remains unexplored.",
+    "source_quote": "I catch a glimpse of a majestic mushroom, but it\u2019s too far away for me to see any details.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "moral conflict over acid casting",
+    "fact": "Grygum questions whether using Tasha\u2019s Caustic Brew honors Bahamut, given that both Brass and Black Dragons \u2014 holy creatures to Bahamut \u2014 breathe acid. He rationalizes the act with dark humor, but the theological tension remains unresolved.",
+    "source_quote": "So am I not, in a curious way, honoring my god in this way?... 'One of the material components is a toothbrush, you know, for afterward.'",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Myconid Disease",
+    "fact": "A mysterious disease is affecting the Myconids traveling with the party, though its nature and origin remain unknown. It is noted as a lingering concern despite the beauty of Neverlight Grove.",
+    "source_quote": "the mysterious disease affecting the Myconids",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "myconid doctrine vs. harmony",
+    "fact": "The party\u2019s discomfort with Phylo\u2019s doctrine \u2014 that isolation and reanimation replace unity and harmony \u2014 is contrasted with Basidia\u2019s calm assurance that 'they all know.' The tension between old ways and new efficiency remains unresolved.",
+    "source_quote": "I believe this is contrary to the unity and harmony of our way of life... Basidia laughs, 'Don\u2019t worry, they all know.'",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Phylo's reference to the Great Seeder",
+    "fact": "Phylo refers to the Great Seeder as a female entity, which is unusual for myconids.",
+    "source_quote": "She lives beyond the Garden. She is a wonderful entity who will help all of us get closer to her beauty!",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "reanimated creatures in the Whorlstone Caves",
+    "fact": "The sight of reanimated creatures in the Whorlstone Caves has left the narrator deeply unsettled, hinting at a larger, unspoken history of myconid necromancy and its psychological toll.",
+    "source_quote": "I think to myself of the reanimated creatures I saw in the Whorlstone Caves and shudder.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Rump-a-dump and Stool",
+    "fact": "Grygum persistently attempts to bring Rump-a-dump and Stool into the group despite Basidia\u2019s assurance that they are content among their kind. Their identity and role remain unexplained, but Grygum\u2019s fixation suggests they hold hidden significance to the mission or to him personally.",
+    "source_quote": "I would be thrilled to have them come along.",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Sarith's infection",
+    "fact": "Sarith has been affected by Zuggtomy\u2019s spores, which Basidia cannot identify.",
+    "source_quote": "Poor Sarith has been affected by Zuggtomy.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "sunlight danger",
+    "fact": "Gasbide and the Myconids lack understanding of sunlight\u2019s lethal nature to them, and they seek ways to build structures that protect against it. This ignorance suggests a dangerous disconnect between Phylo\u2019s promises and the reality of the surface world, potentially leading to mass casualties if the 'great awakening' involves surface exposure.",
+    "source_quote": "How can we build things that will protect them from the thing I call a sun?",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "sunlight ignorance and fungal survival",
+    "fact": "Gasbide and the Myconids are unaware that sunlight is lethal to them and are actively seeking architectural solutions to protect themselves from it, indicating a dangerous disconnect between their ambitions and biological reality.",
+    "source_quote": "They are distraught and ask how they can build things that will protect them from the thing I call a sun.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "the deadly game of K\u2019tharr-li",
+    "fact": "K\u2019tharr-li is not just a game but a metaphor for survival: in Menzoberranzan, losing meant mutual death. Daz applies this to the current mission, framing combat as a zero-sum battle where hesitation equals annihilation.",
+    "source_quote": "As this was Menzoberranzan, if neither player had won by some pre-agreed time, both players lost. Much like K\u2019tharr-li, we only have so much time. And unlike K\u2019tharr-li, losing can be deadly.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "the fate of the previous visitors",
+    "fact": "A group of \u2018softers\u2019 who accepted Phylo\u2019s invitation to the Garden of Welcome have vanished. Their fate is unknown, but Basidia implies they were consumed or transformed. The party must uncover what happened to them to understand the threat.",
+    "source_quote": "\u2018I haven\u2019t seen them since, nor has Phylo made any further mention of them.\u2019",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "the great awakening",
+    "fact": "The impending \"great awakening\" is tied to the mythical \"great celebration,\" but its nature and purpose are not fully understood.",
+    "source_quote": "The impending \"great awakening\" is tied to this mythical \"great celebration\".",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "the Great Seeder",
+    "fact": "Phylo speaks of the Great Seeder as a divine entity beyond the Garden of Welcome. Daz and Grygum suspect this is a corrupted or false deity, possibly a manifestation of Zuggtomy\u2019s will. The entity\u2019s true nature and location remain unknown.",
+    "source_quote": "\u2018She lives beyond the Garden. She is a wonderful entity who will help all of us get closer to her beauty!\u2019",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "The Great Seeder",
+    "fact": "The Great Seeder is a mysterious entity referenced by Phylo as the source of wisdom and help, but is unknown to the party and possibly a myth, a false deity, or the true source of the corruption masquerading as benevolent.",
+    "source_quote": "She lives beyond the Garden. She is a wonderful entity who will help all of us get closer to her beauty!",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "the mossy swamp",
+    "fact": "The mossy swamp, if left alone, could threaten us later.",
+    "source_quote": "this \"mossy swamp\", if left alone, could threaten us later.",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "threat of the mossy swamp",
+    "fact": "The swamp environment, home to reanimated undead and hidden threats like the Shambling Mound, may pose a future danger if left uncontrolled. Its vines are also valuable for magical item crafting.",
+    "source_quote": "I think that this 'mossy swamp', if left alone, could threaten us later. Furthermore, the vines from these constructs are useful for crafting magical items and are valuable.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "we do not kill",
+    "fact": "The myconids\u2019 creed \u2014 'We bring back the dead. We do not kill.' \u2014 stands in stark contrast to the party\u2019s hunting and slaying of the Grick. This ideological dissonance is central to the narrative tension.",
+    "source_quote": "We bring back the dead. We do not kill.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Zuggtomy\u2019s influence in Neverlight Grove",
+    "fact": "A growing thread of corruption tied to Zuggtomy has infiltrated Neverlight Grove through Sarith\u2019s spores and Phylo\u2019s transformation. The Circle of Masters may be acting as agents of the fungus-god, preparing a ritual to spread the infection beyond the grove.",
+    "source_quote": "\u2018I worry\u2026 Zuggtomy is often referred to as she.\u2019",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  }
+]

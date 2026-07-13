@@ -1,0 +1,128 @@
+[
+  {
+    "type": "npc",
+    "subject": "Dawnbringer",
+    "fact": "Dawnbringer is set against the wall within reach, not drawn, and has become its own negotiation over the weeks.",
+    "source_quote": "I found a corner of the hearth room, set Dawnbringer against the wall within reach \u2014 close but not drawn, which had become its own negotiation over the weeks",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "The Keeper",
+    "fact": "The Keeper falls \u2014 dead, with no one speaking, the fire warm, and that was enough for tonight.",
+    "source_quote": "*The keeper falls.* I didn't say anything. The fire was warm. That was enough for tonight.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is awake before Fembris completes the second syllable, his nervous system rebuilt by a month in the Underdark to respond to sounds that don't belong.",
+    "source_quote": "I was awake before Fembris got through the second syllable \u2014 not because I sleep lightly by preference, but because a month in the Underdark had rebuilt my nervous system around that precise calibration",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum opens the door and speaks with a voice between inquiry and bracing for bad news, acknowledging the Keeper of Tomes is dead and processing what orcs wear to bed.",
+    "source_quote": "Grygum opened the door. I heard his voice land somewhere between inquiry and bracing for bad news: \"The Keeper of Tomes?\" ... he said something about not having thought through what orcs wear to bed",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "The Messenger",
+    "fact": "The messenger is commoner-born, boyish, delighted by his urgency, and sprinted across old stone corridors to deliver the news that the Keeper of Tomes is dead.",
+    "source_quote": "He was commoner-born, I could see that much \u2014 enthusiastic in the way of someone who has been trusted with important information for the first time and found the experience clarifying. Boyish. Very slightly delighted by his own urgency",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool watches from the corner with patient attentiveness, assesses the situation, and flows into his bag with unhurried pragmatism, two eyeballs tracking the room, ready and equipped.",
+    "source_quote": "Glabbagool had been watching from the corner with the patient attentiveness he'd developed since acquiring eyes. ... He flowed toward the bag, arranged himself inside it, and peered out from the opening with two eyeballs tracking the room. Ready. Equipped.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "The Avowed",
+    "fact": "The Avowed are still asleep, and the First Reader is acting to contain the Keeper\u2019s death before they awaken, indicating a deliberate bypass of institutional authority.",
+    "source_quote": "the Avowed were still asleep. The window was narrowing with every minute we spent in this room. ... she wanted this contained. It also meant she thought we were the right instrument for containing it. *Before the avowed awake*",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "The First Reader",
+    "fact": "The First Reader has bypassed standard channels to summon Daz and Grygum specifically, indicating trust in them over the Avowed or city watch, and seeks to control the narrative of the Keeper\u2019s death.",
+    "source_quote": "The First Reader wanted us specifically, not the Avowed, not the city watch \u2014 us, through the emerald door, before the avowed awake.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Death of the Keeper of Tomes",
+    "fact": "The Keeper of Tomes is dead, triggering a covert response from the First Reader, a summons to Daz and Grygum, and a race against the awakening of the Avowed.",
+    "source_quote": "The Keeper of Tomes is dead! She wants you! Now, through the emerald door, before the avowed awake!",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Candlekeep",
+    "fact": "Candlekeep is a grand library with elevated structures, guarded passages, and architectural features like the Astronomicon and Whispering Dome, functioning as a center of knowledge and power.",
+    "source_quote": "Behold, the great library. ... The Astronomicon ... The Whispering Dome ... The Drakonoikos.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "The Emerald Door",
+    "fact": "The emerald door is the designated entry point to the scene of the Keeper\u2019s death, chosen for its secrecy and timing to avoid detection by the Avowed.",
+    "source_quote": "through the emerald door, before the avowed awake!",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "The Astronomicon",
+    "fact": "The Astronomicon is a stack of ascending blue globes containing all known knowledge of the stars \u2014 a surface-world artifact absent from the Underdark.",
+    "source_quote": "You see that curious blue stack of globes? That's the Astronomicon. Everything we know about the stars can be found there.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "The Whispering Dome",
+    "fact": "The Whispering Dome is a gold-veined structure within the Hall of Momentous Deeds where voices from the past linger and can be heard by those who stand in the right place.",
+    "source_quote": "The Whispering Dome sat further along, gold under the snow \u2014 striking, even by surface standards. ... voices from the past lingered there, that you could hear them if you stood in the right place.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Notes",
+    "fact": "The notes are picked up as the party prepares to move, indicating they are essential tools for recording and navigating the unfolding events.",
+    "source_quote": "I picked up my notes.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Why the First Reader chose Daz and Grygum",
+    "fact": "The First Reader bypassed institutional channels to summon Daz and Grygum specifically \u2014 the reason for this trust remains unexplained and must be answered.",
+    "source_quote": "The question of why she thought that was, I noted, a question I would need answered.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "The identity and purpose of the Drakonoikos",
+    "fact": "The Drakonoikos is mentioned but not explained \u2014 its nature, function, or significance in Candlekeep remains an unresolved mystery.",
+    "source_quote": "Then the Drakonoikos.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "The Spy Inside Glabbagool",
+    "fact": "A spy resides within Glabbagool, presumably equipped and observing \u2014 an internal entity that enhances his surveillance capability.",
+    "source_quote": "The spy somewhere inside him, presumably also equipped.",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "Session date",
+    "fact": "The events occur after a prolonged stay in the Underdark, with the party now in Candlekeep \u2014 a temporal anchor marking their transition from subterranean survival to surface institutional intrigue.",
+    "source_quote": "a month in the Underdark had rebuilt my nervous system... Candlekeep's beds had done their work.",
+    "quote_verified": false
+  }
+]

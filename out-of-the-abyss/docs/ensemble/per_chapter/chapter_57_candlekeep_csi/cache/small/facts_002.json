@@ -1,0 +1,142 @@
+[
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum was found dead in his study, his nose broken, tooth chipped, tongue and lip blackened with ink poisoning, and his heart removed postmortem. He had been reading a poisoned book, smudging his fingers and licking the ink, indicating he was a meticulous reader to the end.",
+    "source_quote": "He had been reading a book, smudging his fingers on the ink, and licking the smudges off his lip.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz conducted the forensic investigation of Grygum\u2019s body and room, identifying patterns of poisoning, trauma, and missing components. He recognized the significance of the sapphire pouches and the implication of a targeted spell requiring a single sapphire.",
+    "source_quote": "a little bit of this, a little bit of that",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir assisted in the investigation with instinctual deductions, questioning the nature of injuries and magical possibilities, and noted the inconsistency of a robbery that left behind immense wealth.",
+    "source_quote": "In other words, score what they left them.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin observed and verbalized key physical evidence: the darts missed the body, the chain links were broken, and the tooth chip was recent \u2014 helping establish sequence and intent.",
+    "source_quote": "those darts never miss their mark, and the man bore no such marks.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Tadric",
+    "fact": "Tadric guarded the scene and reacted with suspicion when asked to shake the candle of the toppled statue, implying he knew something about its significance or had been involved in its placement.",
+    "source_quote": "Tadric, who'd been hovering and guarding the scene, gave him a look.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "The Keeper\u2019s Order",
+    "fact": "Grygum was a member of a secretive order that preserved arcane knowledge, evidenced by his library, spell pouches, and the sacred statue of the candle-holding elder. His death suggests an internal or targeted breach.",
+    "source_quote": "I have catalogued a great many sacred spaces in my time, and there is a particular grief in an empty setting where something belonged.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Grygum's murder",
+    "fact": "Grygum was assaulted before death \u2014 his nose broken, likely in a struggle \u2014 then poisoned by reading a magically tainted book, and finally had his heart removed after death. The killer entered without forcing the safe, suggesting knowledge of the combination or access.",
+    "source_quote": "Somewhere between dinner and the moment his heart was carved out, someone had struck this man in the face hard enough to break the bone.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Grygum\u2019s Study",
+    "fact": "The study contained a locked safe with untouched riches, scattered spell components, a toppled statue, a damaged armchair with dart holes, an ebony pipe with cherry tobacco, and a silver pedestal. The room was staged to appear like a robbery but revealed a precise, non-greedy target.",
+    "source_quote": "Still inside the safe were four sealed pouches, each with its sapphire \u2014 and beside them a figurine of a raven, a potion of supreme healing...",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "The Candle Statue",
+    "fact": "A three-foot marble statue of a hooded bearded elder holding a candle aloft, toppled near the tea table. When shaken, it may have concealed something \u2014 Tadric\u2019s reaction suggests it was not merely decorative.",
+    "source_quote": "Shake the candle,\" Thorin said. Tadric, who'd been hovering and guarding the scene, gave him a look.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "The Ebony Pipe",
+    "fact": "An intricately carved ebony pipe filled with cherry tobacco, likely used to mask the scent of poison in the room, indicating premeditation and knowledge of the method of murder.",
+    "source_quote": "tobacco smoke would hide the smell of poison. Of course it would.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "The Silver Pedestal",
+    "fact": "A polished silver pedestal by the desk, possibly used to display a sacred or magical item now missing \u2014 its presence suggests ritual significance in Grygum\u2019s practice.",
+    "source_quote": "A silver pedestal by the desk, an ebony pipe finely carved, cherry tobacco.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "The Dart-Struck Armchair",
+    "fact": "An armchair with three circular punctures and horsehair stuffing scattered, two holes punched clean through the back. The darts were not aimed at Grygum \u2014 their target was the chair, indicating rage or ritual intent unrelated to the victim.",
+    "source_quote": "darts of pure force... somebody had aimed three bolts of force at a chair.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "The Broken Lead Chain Links",
+    "fact": "Two broken lead links found beneath the neck impression \u2014 once part of a locket or necklace that had been forcibly torn from Grygum\u2019s person. The wear on the links indicated long-term possession.",
+    "source_quote": "The impression of a chain on the back and sides, and beneath it two broken lead links.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "The Missing Sapphire",
+    "fact": "One sapphire was missing from the safe\u2019s five pouches, and one parchment naming a sapphire-dependent spell was gone \u2014 suggesting the killer sought to complete a single, specific spell requiring that component.",
+    "source_quote": "one sapphire was missing. One parchment. 'Somebody is trying to build a sapphire spell,' he said, 'a spell that requires a sapphire.'",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "The Poisoned Book",
+    "fact": "A book enchanted with a slow-acting poison that seeped into ink, causing death through ingestion via licking fingers. It was not a creature, but a weaponized object designed to kill through ritualistic reading.",
+    "source_quote": "the black climbing through him while he read on, suspecting nothing.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "The Missing Locket",
+    "fact": "The locket or necklace torn from Grygum\u2019s neck is unaccounted for \u2014 its contents, symbolism, or magical properties may be the true target of the murder, not the sapphire.",
+    "source_quote": "Whatever it was, he'd carried it a long time.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "The Dart Attack on the Chair",
+    "fact": "Three force darts struck the armchair \u2014 not the man. The reason remains unknown: was it a ritual, a warning, or an attempt to destroy something hidden in the chair?",
+    "source_quote": "Why would you loose three darts of force at a chair?",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "The Candle Statue\u2019s Secret",
+    "fact": "The toppled statue of the candle-holding elder may conceal something \u2014 its shaking was met with suspicion. It may hold the key to the killer\u2019s identity, the spell\u2019s origin, or the locket\u2019s destination.",
+    "source_quote": "Shake the candle,\" Thorin said. Tadric... gave him a look.",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "The Evening of Grygum\u2019s Death",
+    "fact": "The timeline of Grygum\u2019s death can be reconstructed: dinner, assault (broken nose), reading the poisoned book (poisoning onset), heart removal (postmortem), and the killer\u2019s departure. The sequence spans hours, not minutes.",
+    "source_quote": "Somewhere between dinner and the moment his heart was carved out...",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "The Identity of the Killer",
+    "fact": "The killer had access to the safe, knew of the sapphire spell, carried no greed, and used ritualistic methods \u2014 likely someone from within the Keeper\u2019s Order, or an acolyte seeking forbidden knowledge.",
+    "source_quote": "This was a man who needed exactly one thing.",
+    "quote_verified": true
+  }
+]

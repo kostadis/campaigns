@@ -1,0 +1,177 @@
+[
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is a monk who dispelled magical darkness, sensed supernatural presence, and retrieved the statue of Demogorgon from an alcove in the northeast corner of the mesa.",
+    "source_quote": "Zalthir tenses. 'The ghost,' he thinks. ... Zalthir jumps off the mesa and heads to an alcove in the northeast corner. There, he picks up the statue of Demogorgon.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Eldeth",
+    "fact": "Eldeth is a voice recognized by Zalthir, who shouted to confirm everyone's safety near the tunnel entrance, and is accompanied by a creature similar to but different from a beholder.",
+    "source_quote": "Zalthir recognizes the voice; it\u2019s Eldeth. ... Where Eldeth is, near the tunnel entrance is a spectator, a creature similar to but different from a beholder.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is the one who retrieved the Red Dragon Egg and later confirmed possession of it when questioned by Grygum.",
+    "source_quote": "Daz shouts, 'I have the egg.' ... Then Daz shouts back, 'I have it.'",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Pelek",
+    "fact": "Pelek is a Derro who has occupied a body, expressed discomfort with the new form, and identified himself as 'the ghost' to Zalthir.",
+    "source_quote": "And then an unfamiliar voice of a Derro shouts, 'My goodness, this body is uncomfortable.' ... 'Oh, yes, I am Pelek. I seem to have occupied this body.'",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is a cleric of Bahamut who questioned the location of the egg and searched the bodies of dead Derro for clues.",
+    "source_quote": "Grygum shouts, 'Where is the egg?' ... while Grygum searches the bodies he heads to the northwest corner...",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Pliinki",
+    "fact": "Pliinki is a Derro alchemist and fanatic who conducted macabre experiments on the Red Dragon Egg, sought to harness the Obelisk of Diirinka, and planned to offer a two-headed wyrmling as a mount for Demogorgon.",
+    "source_quote": "Pliinki's Journal ... Letter 1: From Pliinki to Uskvil (Gray Ghosts Leader)",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Gray Ghosts",
+    "fact": "The Gray Ghosts are a thieves' organization that delivered the Red Dragon Egg to Pliinki under the guise of a simple retrieval, unaware of its true purpose as a vessel for Demogorgon\u2019s ascension.",
+    "source_quote": "The Gray Ghosts delivered it! ... Letter 1: From Pliinki to Uskvil (Gray Ghosts Leader)",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Keepers of the Flame",
+    "fact": "The Keepers of the Flame are a ruling faction in Gracklstugh who are in panic over the loss of the Red Dragon Egg, believing it to be merely a 'replacement' and unaware of its transformation into a demonic vessel.",
+    "source_quote": "The Keepers are in a panic over its loss, believing it merely a 'replacement' for their bloated wyrm.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Deep King",
+    "fact": "The Deep King is a ruler of Gracklstugh who is being deliberately misled by Pliinki, kept 'delighted' in his ignorance while his city is destabilized for the coming demonic ascension.",
+    "source_quote": "Keep the Deep King 'delighted' in his ignorance.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Red Dragon Egg",
+    "fact": "The Red Dragon Egg is a magical artifact that has been mutated by Pliinki's experiments to become a two-headed wyrmling intended as a mount for Demogorgon, disguised by the Keepers as a mere 'replacement'.",
+    "source_quote": "The Red Dragon Egg! What a marvel! ... The egg pulses with new life ... a two-headed wyrmling, a perfect 'Prince's gift' for Demogorgon.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Obelisk of Diirinka",
+    "fact": "The Obelisk of Diirinka is a black-metal artifact humming with quasi-magical energy, hidden in the mesa and sought by Pliinki to be used as an instrument of conquest and sacrifice to Demogorgon.",
+    "source_quote": "The Obelisk. Such a magnificent, fractured thing! ... Its black metal hums with quasi-magical energy ... It will be the instrument of our ascension.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Statue of Demogorgon",
+    "fact": "The statue of Demogorgon is a physical representation of the Prince of Demons, retrieved by Zalthir from an alcove in the northeast corner of the mesa, signaling the culmination of Pliinki\u2019s ritual design.",
+    "source_quote": "Zalthir jumps off the mesa and heads to an alcove in the northeast corner. There, he picks up the statue of Demogorgon.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Journal of Pliinki",
+    "fact": "The Journal of Pliinki details her experiments on the Red Dragon Egg, her attempts to empower the Obelisk of Diirinka, and her fanatical devotion to Demogorgon\u2019s ascension.",
+    "source_quote": "Pliinki's Journal ... Here are some journal entries from the perspective of Pliinki, detailing her macabre experiments and fervent beliefs.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Letter from Pliinki to Uskvil",
+    "fact": "The letter from Pliinki to Uskvil, leader of the Gray Ghosts, confirms the successful delivery of the egg, the failure of Thrazgad ore to mend the Obelisk, and the ongoing destabilization of Gracklstugh for Demogorgon\u2019s coming reign.",
+    "source_quote": "Letter 1: From Pliinki to Uskvil (Gray Ghosts Leader)",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Dead Derro",
+    "fact": "Multiple dead Derro lie broken across the upper levels of the mesa, victims of violent conflict, their corpses searched by Grygum and others.",
+    "source_quote": "The upper levels of the mesa are covered in blood and the broken bodies of the derro. ... There are two dead derro.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Beholder-like Spectator",
+    "fact": "A creature similar to but different from a beholder stands near Eldeth at the tunnel entrance, its presence unexplained but ominous.",
+    "source_quote": "Where Eldeth is, near the tunnel entrance is a spectator, a creature similar to but different from a beholder.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Mutation of the Red Dragon Egg",
+    "fact": "The Red Dragon Egg has undergone magical mutation under Pliinki\u2019s experiments, transforming into a two-headed wyrmling destined to serve as Demogorgon\u2019s mount.",
+    "source_quote": "The egg pulses with new life ... the mutations are taking hold ... a two-headed wyrmling, a perfect 'Prince's gift' for Demogorgon.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Activation of the Obelisk of Diirinka",
+    "fact": "The Obelisk of Diirinka has responded to Pliinki\u2019s will, flashing with energy and now hungering for more chaos to herald Demogorgon\u2019s arrival and the genocidal cleansing of Gracklstugh.",
+    "source_quote": "It flashed! A mere flicker, but a sign! ... It didn't just flash this time; the very air around it flared! It hungers for more power, more chaos!",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Missing Egg",
+    "fact": "The Red Dragon Egg was reported missing by Grygum, though Daz later claimed possession \u2014 creating uncertainty about its true location and whether it has already hatched or been concealed.",
+    "source_quote": "Grygum shouts, 'Where is the egg?' ... Then Daz shouts back, 'I have it.'",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Identity of the Ghost",
+    "fact": "Pelek\u2019s occupation of a body and declaration as 'the ghost' introduces supernatural ambiguity \u2014 whether this is possession, a spirit, or a magical phenomenon tied to the Obelisk\u2019s energy.",
+    "source_quote": "'Oh, yes, I am Pelek. I seem to have occupied this body.' ... 'The ghost,' he thinks.",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "Day 17\u201354",
+    "fact": "The journal entries span from Day 17 to Day 54, documenting the progression of Pliinki\u2019s experiments and the accelerating collapse of Gracklstugh\u2019s political order.",
+    "source_quote": "Pliinki's Journal \u2014 Day 17 ... Day 25 ... Day 38 ... Day 47 ... Day 54",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Upper Levels of the Mesa",
+    "fact": "The upper levels of the mesa are a battlefield littered with the blood and broken bodies of Derro, and the site where Zalthir retrieved the statue of Demogorgon and where Eldeth stands with the beholder-like spectator.",
+    "source_quote": "The upper levels of the mesa are covered in blood and the broken bodies of the derro.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Northeast Alcove",
+    "fact": "The northeast alcove is where Zalthir found and retrieved the statue of Demogorgon, marking it as a locus of ritual significance in Pliinki\u2019s plan.",
+    "source_quote": "Zalthir jumps off the mesa and heads to an alcove in the northeast corner. There, he picks up the statue of Demogorgon.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Northwest Desk",
+    "fact": "The northwest desk holds Pliinki\u2019s journal and letters, serving as the primary archive of her conspiracy and the key to understanding the true nature of the egg and the Obelisk.",
+    "source_quote": "He heads to the northwest corner where there is a desk with some papers. ... He finds a journal by Pliinki.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Tunnel Entrance",
+    "fact": "The tunnel entrance is where Eldeth stands beside the beholder-like spectator, possibly a point of entry or exit for the Gray Ghosts or the Deep King\u2019s forces.",
+    "source_quote": "Where Eldeth is, near the tunnel entrance is a spectator, a creature similar to but different from a beholder.",
+    "quote_verified": true
+  }
+]

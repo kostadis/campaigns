@@ -1,0 +1,163 @@
+[
+  {
+    "type": "npc",
+    "subject": "Xinaya",
+    "fact": "Xinaya was a Drow agent sent by Ilvara to capture the travelers, but became infected after accepting Phylo\u2019s invitation to the Circle of Welcome; her body is now a host for fungal growths and she begs to be killed.",
+    "source_quote": "My name is Xinaya, and I was sent to find you. Ilvara thought you would come here... I was given orders to capture you... My squad and I become victims of the madness.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Rasharoo",
+    "fact": "Rasharoo is a Myconid explorer who believes the natural state of Myconids is nomadic, that the Grove is deteriorating, and that the tunnels are a living entity connected to all Myconids; they distrust the Overbrite and seek escape routes.",
+    "source_quote": "We are the few, the proud, the explorers, and the pathfinders... I have noticed, as has Basidia, that the Grove is not well... I think the caves and tunnels are really another Myconid that connects everything.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Basidia",
+    "fact": "Basidia is a Myconid elder who rejects Rasharoo\u2019s beliefs, upholds the traditional Myconid practice of cultivation and staying in one place, and serves as a gatekeeper to the Circle of Welcome; they are skeptical of outsiders and wary of the Grove\u2019s changes.",
+    "source_quote": "No, Rasharoo is one of our kind who is always exploring... Myconids stay in one place and cultivate their gardens... I have felt that the right way for a Myconid to live is traveling, instead of sticking in one place.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Jimjar",
+    "fact": "Jimjar is a Myconid who has not made a bet in some time and appears to have overheard conversations about the wedding; they are unaffected by infection but display unusual awareness of the Myconid rituals.",
+    "source_quote": "I don\u2019t see the point in making a bet. Everyone is so happy about this wedding.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is a Drow who exhibits traditional Drow instincts\u2014curiosity over violence, questioning over killing\u2014and seeks to understand the nature of the fungal infection and the Myconid cult, contrasting with Thorin\u2019s desire to end suffering.",
+    "source_quote": "How do we avoid your fate?",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is a Drow who abhors the dark and fungal abominations, and prefers to end suffering quickly, even if it means killing an infected ally; he is emotionally overwhelmed by the corruption around him.",
+    "source_quote": "Dawnbringer really doesn\u2019t like the dark. And I really don\u2019t like fungal growths that can turn you into abominations.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "The Aberrant Myconid",
+    "fact": "The Aberrant Myconid is a twisted, larval entity born from corrupted Myconid flesh, speaking in dual voices and promoting the worship of the Great Seeder and the Great Body as a divine wedding; it welcomes travelers to the ritual.",
+    "source_quote": "Welcome, travelers... Are you here for the wedding rehearsal?... Let the love of the Great Seeder embrace you as you become one with her chosen, the Great Body!",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "The Circle of Explorers",
+    "fact": "The Circle of Explorers is a splinter faction of Myconids who reject cultivation in favor of nomadic exploration, believe the Underdark\u2019s tunnels are a sentient entity, and view the Grove\u2019s decay as evidence of a dying world.",
+    "source_quote": "We are the few, the proud, the explorers, and the pathfinders. We are the ones who scout and see the world beyond the grove.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "The Circle of Welcome",
+    "fact": "The Circle of Welcome is the dominant Myconid collective that practices cultivation, venerates the Great Seeder and the Great Body as divine forces, and initiates new members through fungal bonding and ritual transformation.",
+    "source_quote": "The Great Seeder is here. The Lady of Decay took me.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "The Drow of Menzoberranzan",
+    "fact": "The Drow of Menzoberranzan, under Lolth\u2019s influence, view the fungal cult as a demonic threat; they send agents to investigate or eliminate it, and believe the Demon Queen of the Fungi now resides in the Underdark.",
+    "source_quote": "You must warn the other Drow of the presence of the Demon Queen of the Fungi in the Underdark.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "The Aberrant Myconid Larva",
+    "fact": "The Aberrant Myconid Larva is a malformed, crawling entity formed from the fusion of Myconid and fungal biomass; it retains vestigial fungal growths and speaks with both vocal and telepathic voices, serving as a herald of the Great Seeder\u2019s wedding.",
+    "source_quote": "Welcome, travelers... Let the love of the Great Seeder embrace you as you become one with her chosen, the Great Body!",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "The Infested Myconid",
+    "fact": "The Infested Myconid is a Myconid whose body has been overtaken by fungal growths and sprouts; it sings to its new sprouts and is part of the Circle of Welcome\u2019s ritual, though its voice carries a frenetic, ecstatic energy.",
+    "source_quote": "The Great Seeder is here. The Lady of Decay took me.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "The Grove",
+    "fact": "The Grove is a fungal ecosystem in the Underdark where Myconids cultivate and bond; it is deteriorating rapidly, changing in unpredictable and hostile ways, and is the site of the Circle of Welcome\u2019s rituals.",
+    "source_quote": "I have noticed, as has Basidia, that the Grove is not well. Every time I come back, it changes, and its changes are not for the best.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "The Circle of Welcome",
+    "fact": "The Circle of Welcome is a sacred Myconid gathering place where new members are transformed through fungal bonding; it is the epicenter of the Great Seeder\u2019s worship and the wedding ritual to the Great Body.",
+    "source_quote": "The Great Seeder is here. The Lady of Decay took me.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "The Underdark",
+    "fact": "The Underdark is the subterranean realm where the fungal cult has spread, and where the Demon Queen of the Fungi now resides; it is filled with tunnels, caves, and corrupted Myconid colonies that are changing the natural order.",
+    "source_quote": "There is so much more for us to explore in the Underdark. So many tunnels and caves.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "The Wedding Rehearsal",
+    "fact": "The Wedding Rehearsal is a ritual performed by the Circle of Welcome to sanctify the union between the Great Seeder and the Great Body; it involves fungal transformation, ecstatic singing, and the invitation of all Myconids to become one with the divine.",
+    "source_quote": "Are you here for the wedding rehearsal?... Let the love of the Great Seeder embrace you as you become one with her chosen, the Great Body!",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "The Infection of Xinaya\u2019s Squad",
+    "fact": "Xinaya\u2019s Drow squad was infected after entering the Circle of Welcome, succumbing to fungal possession and madness; their bodies became hosts for sprouting fungi and their minds were overwritten by the cult\u2019s ideology.",
+    "source_quote": "I came here, thinking you would seek refuge amongst the Myconids. But I made the mistake of accepting Phylo\u2019s invitation to see the Circle of Welcome.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "The Demon Queen of the Fungi",
+    "fact": "The Demon Queen of the Fungi is believed to have crossed into the Prime Material Plane and the Underdark, manifesting through the Myconid cult and the corruption of the Grove; Drow and Myconids alike fear her ascension.",
+    "source_quote": "The Demon Queen and Demogorgon are here, in the Prime Material Plane and in the Underdark.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "The Nature of Myconid Identity",
+    "fact": "A schism exists among Myconids over whether their natural state is cultivation or nomadic exploration; this ideological conflict may determine the future of the Grove and the fate of the Circle of Welcome.",
+    "source_quote": "I think the caves and tunnels are really another Myconid that connects everything. And that we are messages for that myconid.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "The Overbrite",
+    "fact": "The Overbrite is a feared celestial light source in the Underdark; Myconids believe it is unnatural and destructive, and the idea of visiting it is considered heretical and suicidal.",
+    "source_quote": "That would be a terrible idea. Myconids thrive in the dark. Why would we go into the light of the Overbrite?",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Spider Medallion of Xinaya",
+    "fact": "Xinaya\u2019s spider medallion, once a symbol of Lolth\u2019s favor, has been fused with her flesh by fungal growths, becoming a biological artifact of her transformation and loss of identity.",
+    "source_quote": "She raises what I think is a hand, and it is a spider medallion covered in fungi that have fused the medallion with her body.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Nutrient Caches",
+    "fact": "Nutrient caches are hidden reserves of sustenance maintained by Myconid explorers like Rasharoo; they are intended for survival during flight from the deteriorating Grove or fungal incursions.",
+    "source_quote": "I have a few escape routes and nutrient caches should we ever need to flee.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Secret Passageway to the Circle of Welcome",
+    "fact": "A hidden passageway leads into the Circle of Welcome, known only to select Myconids like Rasharoo; it allows entry without ritual initiation and may be used for escape or infiltration.",
+    "source_quote": "If you wish, I could send you into the Circle of Welcome through a secret passageway.",
+    "quote_verified": true
+  }
+]

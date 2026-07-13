@@ -1,0 +1,4702 @@
+[
+  {
+    "type": "date",
+    "subject": "1492, Taraskh, 2nd tenday, 3rd day",
+    "fact": "The events occur on the third day of the second tenday of Taraskh in the year 1492; this is the canonical temporal anchor for the prison narrative.",
+    "source_quote": "3rd day of the 2nd tenday of Taraskh, 1492",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "date",
+    "subject": "3rd day of the 2nd tenday of Taraskh, 1492",
+    "fact": "The events of the prison exploration begin on the 3rd day of the 2nd tenday of Taraskh, 1492.",
+    "source_quote": "3rd day of the 2nd tenday of Taraskh, 1492",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "date",
+    "subject": "4th day of the 2nd Tenday of Taraskh",
+    "fact": "The next day, Gyrgum returns to the kitchen with six Drow soldiers present.",
+    "source_quote": "4th day of the 2nd Tenday of Taraskh... The next day, Gyrgum goes to the kitchen again. This time, six Drow soldiers are present.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "date",
+    "subject": "4th day of the 2nd Tenday of Taraskh",
+    "fact": "This is the documented date on which Gyrgum\u2019s cooking performance draws drow soldiers, Topsy and Turvy steal knives, and the prisoner collective\u2019s coordination intensifies; it marks a pivotal escalation in the timeline of resistance.",
+    "source_quote": "## 4th day of the 2nd Tenday of Taraskh",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "date",
+    "subject": "after a long rest",
+    "fact": "The Drow have scheduled an action to occur after a long rest, before assigned tasks.",
+    "source_quote": "After a long rest, before you go on your assigned tasks.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "date",
+    "subject": "after a long rest",
+    "fact": "The escape plan is scheduled to begin after a long rest, before the prisoners are assigned their next tasks.",
+    "source_quote": "\u201cAfter a long rest, before you go on your assigned tasks.\u201d",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "date",
+    "subject": "before assigned tasks",
+    "fact": "The escape is timed to occur just prior to the prisoners being assigned new duties, ensuring minimal surveillance and maximum opportunity.",
+    "source_quote": "\u201cAfter a long rest, before you go on your assigned tasks.\u201d",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "date",
+    "subject": "elapsed time",
+    "fact": "An hour passes between two events in the session.",
+    "source_quote": "An hour later",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "date",
+    "subject": "next day",
+    "fact": "The next day is the 4th day of the 2nd tenday of Taraskh.",
+    "source_quote": "4th day of the 2nd Tenday of Taraskh",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "date",
+    "subject": "rest duration",
+    "fact": "A long rest precedes assigned tasks.",
+    "source_quote": "After a long rest, before you go on your assigned tasks.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The events occur on the 3rd day of the 2nd tenday of Taraskh, 1492.",
+    "source_quote": "3rd day of the 2nd tenday of Taraskh, 1492",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "temporal"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The next day of the events is the 4th day of the 2nd Tenday of Taraskh.",
+    "source_quote": "4th day of the 2nd Tenday of Taraskh",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The session occurs on the 5th day of the 2nd Tenday of Taraskh 1493 DR.",
+    "source_quote": "On the 5th day of the 2nd Tenday of Taraskh 1493",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "accepting the deal",
+    "fact": "The Drow accept Thorin\u2019s deal to collect the wager after a long rest.",
+    "source_quote": "\u201cAfter a long rest, before you go on your assigned tasks.\u201d",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "basket being dropped",
+    "fact": "The two quaggoths let the basket drop, startling the other prisoners.",
+    "source_quote": "The two quahogs let it drop. The other prisoners are startled but seem to have been expecting this.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "basket being lowered",
+    "fact": "Balok pulls a stopper and the basket flies over the chasm.",
+    "source_quote": "Balok pulls a stopper, and the basket flies over the chasm.",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "sweep"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "event",
+    "subject": "basket dropping",
+    "fact": "The two quaggoths let the basket drop.",
+    "source_quote": "The two quahogs let it drop.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Buppido",
+    "fact": "Buppido projects his mind: \u201cThe Divine plan says we must collaborate and share information.\u201d",
+    "source_quote": "It\u2019s then that Buppido speaks, or instead projects his mind, \u201cThe Divine plan says we must collaborate and share information.\u201d",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Buppido",
+    "fact": "Buppido says, \u201cThe divine plan requires that you create a distraction while I escape.\u201d",
+    "source_quote": "After sharing the information, Buppido says, \u201cThe divine plan requires that you create a distraction while I escape.\u201d",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Buppido",
+    "fact": "Buppido says, \u201cYou have pledged your swords and your spells! And your lives.\u201d",
+    "source_quote": "Buppido looks surprised, \u201cWe?\u201d Thorin, who also picked up on the derro\u2019s insanity, says, \u201cWell, how else will we protect you so that you can fulfill the divine plan?\u201d The derro stares at Gyrgum and says, \u201cYou are quite right. You have pledged your swords and your spells! And your lives.\u201d",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Buppido accepts group escape",
+    "fact": "Buppido says, \u201cYou have pledged your swords and your spells! And your lives.\u201d",
+    "source_quote": "You have pledged your swords and your spells! And your lives.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Buppido proposing escape to Gracklstugh",
+    "fact": "Buppido declares that the escape destination is Gracklstugh, his homeland.",
+    "source_quote": "Buppido smiles, \u201cTo Gracklstugh, my homeland!\u201d",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Buppido\u2019s Divine Escape Plan",
+    "fact": "Buppido declares a 'divine plan' requiring a distraction to enable his escape; Thorin redefines it as a collective escape, convincing Buppido that the prisoners have pledged their lives to him; this marks a turning point where delusion becomes a catalyst for unified action.",
+    "source_quote": "Buppido: 'The divine plan requires that you create a distraction while I escape.' ... Thorin: 'We escape?' ... Buppido: 'We?'",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Buppido's escape plan",
+    "fact": "Buppido says, \u201cThe divine plan requires that you create a distraction while I escape.\u201d",
+    "source_quote": "Buppido says, \u201cThe divine plan requires that you create a distraction while I escape.\u201d",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Buppido's vague plan",
+    "fact": "Buppido says, \u201cIn due time.\u201d when asked about the plan.",
+    "source_quote": "Buppido, like any mysterious god or charlatan masquerading as a god, would say, \u201cIn due time.\u201d",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "cooking distraction suggestion",
+    "fact": "Shuushar suggests cooking as a better distraction than talking.",
+    "source_quote": "Can you cook? That would be a better distraction.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "cooking performance sequence",
+    "fact": "Gyrgum performs his cooking show on the 3rd day and again on the 4th day.",
+    "source_quote": "As the lunch progresses... The next day, Gyrgum goes to the kitchen again.",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz notes that Thorin has a better job than he does.",
+    "source_quote": "Daz notes that Thorin has a better job.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz notes that the group mind created by Stool\u2019s spores allows coordination without discovery.",
+    "source_quote": "Daz notes that this allows them to coordinate any plans without being discovered.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz notices Zalthir and thinks the monk will have unpleasant fun cleaning up after he comes up.",
+    "source_quote": "Daz notices Zalthir and thinks the monk will have some unpleasant fun cleaning up after he comes up.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz notices that the lake is unusually clean despite the filth being dumped into it.",
+    "source_quote": "Daz, Stool, and Sarith walk to the edge of the lake and notice that it is pretty clean, which is odd given the amount of filth being deposited.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz remembers that Sethir said there is a grey ooze in the pool, and that\u2019s how the waste gets processed.",
+    "source_quote": "Right, Sethir said there is a grey ooze in the pool. That\u2019s how the waste gets processed.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "deal acceptance",
+    "fact": "The dwarf's deal is accepted.",
+    "source_quote": "Your deal is accepted.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "drow behavior",
+    "fact": "Other Drow would taunt if they had the characters' stuff.",
+    "source_quote": "And if any other Drow had our stuff, they would taunt us.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "drow leadership",
+    "fact": "The Drow leader probably keeps all the loot for herself.",
+    "source_quote": "The Drow leader probably keeps all the loot for herself.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Drow soldiers ignore theft",
+    "fact": "The Drow soldiers ignore Topsy and Turvy stealing knives because they are delighted by the performance.",
+    "source_quote": "The drow soldiers, delighted at this entertainment, ignore the two deep gnomes who make off with a knife.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Elspeth pocketing comb",
+    "fact": "Elspeth finds and pockets a comb after noticing Zalthir pocket the paper.",
+    "source_quote": "He notices that Elspeth sees him pocket the paper. He notices that she finds a comb. She pockets the comb.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "escape route suggestion",
+    "fact": "Jorlan suggests using the waterfall or spiderwebs to escape.",
+    "source_quote": "Use the waterfall to slide down, or jump into the spiderwebs and then jump into the pools of water.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "food theft distraction plan",
+    "fact": "Topsy and Turvy ask Gyrgum to create a distraction so they can steal food.",
+    "source_quote": "The twins wonder if you could create a distraction by talking to the drow while they steal some food?",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "group mind coordination",
+    "fact": "The group mind allows prisoners to coordinate plans without being discovered.",
+    "source_quote": "This allows them to coordinate any plans without being discovered.",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Group Mind Formation in the Prison Cell",
+    "fact": "Jimjar\u2019s spores have created a shared group mind among all prisoners in the cell, enabling silent, undetectable coordination of plans; this development transforms the prison from a place of isolation into a covert network of resistance.",
+    "source_quote": "Daz notes that this allows them to coordinate any plans without being discovered.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Guldor taking knife",
+    "fact": "Guldor takes the knife from Gyrgum after noticing his attempt to steal it.",
+    "source_quote": "Guldor notices and Grygum explains that he is just trying to sharpen the knife. Guldor takes the knife and says a bunch of words whose intent is quite clear.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Gyrgum",
+    "fact": "Gyrgum guesses that Topsy and Turvy might be better placed to steal a knife after seeing them steal food.",
+    "source_quote": "Seeing how they successfully stole food, he guesses they might be better placed to steal a knife.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Gyrgum",
+    "fact": "Gyrgum notices that the Kuo-Toan Shuushar the Awakened tells him to relax.",
+    "source_quote": "The Kuo-Toan Shuushar the Awakened notices and tells him to relax",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Gyrgum",
+    "fact": "Gyrgum realizes he\u2019s not a great cook and that many ingredients are unfamiliar, but he can put on a great show.",
+    "source_quote": "he realizes that he\u2019s not a great cook and that many ingredients are unfamiliar, but he can put on a great show.",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Gyrgum",
+    "fact": "Gyrgum realizes that Shuushar has left out many details in his translations.",
+    "source_quote": "Grygum again realizes that Shuushar has left out many details.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Gyrgum",
+    "fact": "Gyrgum tries to steal a knife and explains he is just trying to sharpen it.",
+    "source_quote": "Grygum notices a knife and tries to steal it. Guldor notices and Grygum explains that he is just trying to sharpen the knife.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Gyrgum",
+    "fact": "Gyrgum wonders how much time has passed.",
+    "source_quote": "How much time has passed?\u201d he wonders.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Gyrgum cooks with flair",
+    "fact": "Gyrgum tosses ingredients into the air, moves like a dancer, and hums a tune while cooking.",
+    "source_quote": "As Gyrgum, with theatrical flair, tosses ingredients into the air, moves like a dancer, and hums a tune",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Gyrgum entering cave",
+    "fact": "Gyrgum enters a cave as the basket comes up.",
+    "source_quote": "As the basket comes up, he notices Grygum entering a cave.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Gyrgum feigns inferiority",
+    "fact": "Gyrgum tells the Drow, \u201cYes, I am the inferior race.\u201d",
+    "source_quote": "Grygum smiles at the Drow, \u201cYes, I am the inferior race.\u201d",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Ilvara's command",
+    "fact": "Ilvara commands prisoners not to spill water, touch anything, and to fill her bath.",
+    "source_quote": "\u201cThis is my quarters. I am the high priestess of Lolth and commander. Do not spill any water, do not touch anything, and fill my bath.\u201d",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Ilvara's pep talk phrase",
+    "fact": "Ilvara ends her pep talks with, 'Accept your fate, learn to obey, and you may survive.'",
+    "source_quote": "Every time, she would end her pep talks with the phrase - \u2018Accept your fate, learn to obey, and you may survive.\u2019",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Ilvara threatens Prince Derendil",
+    "fact": "Ilvara pulls a knife and explains in detail how she will treat Prince Derendil if he disobeys.",
+    "source_quote": "when Prince Derendil objects to being a chamber enslaved person, Ilvara pulls a knife and points at him and explains in excruciating detail how she will treat him if he doesn\u2019t bring the water.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Jimjar proposing betting on escape route",
+    "fact": "Jimjar proposes a bet on which escape route the new prisoners will choose.",
+    "source_quote": "Jimjar adds, \u201cWho wants to bet on which path the new guys will want to go? Will they go with the myconid kid? The enlightened kuo-toan? The Destiny Weilding Derro? Or trust the two deep gnomes?\u201d",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Jorlan offering escape plan",
+    "fact": "Jorlan offers to leave the prison door open and create a distraction so the prisoners can grab weapons and flee.",
+    "source_quote": "I will leave the door to the prison open, create a distraction. The path to the armory will be unguarded. Grab the weapons and flee.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Jorlan's escape plan",
+    "fact": "Jorlan says he will leave the prison door open and create a distraction so they can grab weapons and flee.",
+    "source_quote": "I will leave the door to the prison open, create a distraction. The path to the armory will be unguarded. Grab the weapons and flee.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "knife confiscated",
+    "fact": "Guldor takes the knife from Gyrgum and warns him of consequences.",
+    "source_quote": "Guldor takes the knife and says a bunch of words whose intent is quite clear.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Knife Theft by Topsy and Turvy",
+    "fact": "Topsy and Turvy, deep gnomes, successfully stole several knives from six drow soldiers during Gyrgum\u2019s cooking performance; the soldiers were so entertained they ignored the theft, revealing a dangerous lapse in security and an opportunity for rebellion.",
+    "source_quote": "Topsy and Turvy steal several knives. The drow soldiers, delighted at this entertainment, ignore the two deep gnomes who make off with a knife.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "knife theft during cooking",
+    "fact": "Topsy and Turvy steal several knives while Gyrgum performs his cooking show.",
+    "source_quote": "Topsy and Turvy steal several knives.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "prisoner awakening",
+    "fact": "At least one or more of the prisoners wakes in a cold sweat from nightmares after every rest.",
+    "source_quote": "At least one or more of the prisoners wakes in a cold sweat from these nightmares after every rest",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "question about paying debts",
+    "fact": "Zalthir asks, \u201cWe have no money; how do we pay our debts?\u201d",
+    "source_quote": "Zalthir asks, \u201cWe have no money; how do we pay our debts?\u201d",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Shuushar",
+    "fact": "Shuushar cautions Gyrgum, \u201cIf you were to show this cooking to my people, they might imagine a god like you.\u201d",
+    "source_quote": "Even Shuushar seems excited, although he cautions the orc, \u201cIf you were to show this cooking to my people, they might imagine a god like you.\u201d",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Shuushar",
+    "fact": "Shuushar translates every insult the Drow used.",
+    "source_quote": "And then Shuushar proceeds to translate every insult the drow used.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Shuushar proposing path through Menzoberranzan and Darklake",
+    "fact": "Shuushar proposes going to Darklake first to visit his people before continuing the escape.",
+    "source_quote": "Yes, but the direct path is through Menzoberranzan. We will have to go to Darklake first, and we must visit my people to share the enlightenment! From there, the path is good.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "sleep disturbance",
+    "fact": "Everyone\u2019s sleep in the slave pen is troubled and fitful, filled with strange dreams and disturbing images.",
+    "source_quote": "Everyone\u2019s sleep in the slave pen is troubled and fitful, filled with strange dreams and disturbing images.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "sleep in slave pen",
+    "fact": "Everyone sleeps in the slave pen with troubled and fitful sleep.",
+    "source_quote": "Everyone\u2019s sleep in the slave pen is troubled and fitful, filled with strange dreams and disturbing images.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "sleep in slave pen",
+    "fact": "Everyone\u2019s sleep in the slave pen is troubled and fitful, filled with strange dreams and disturbing images. Dark shadows seem to move and reach out toward them as the characters wander lost through endless mazes of tunnels. Oily tentacles slide to brush up against them while a great buzzing and howling rises in the distance. Suppurating wounds burst open in clouds of spores or crawling masses of maggots or insects. At least one or more of the prisoners wakes in a cold sweat from these nightmares after every rest, feeling as though something is out there in the dark depths \u2014 something far worse than the drow.",
+    "source_quote": "Everyone\u2019s sleep in the slave pen is troubled and fitful, filled with strange dreams and disturbing images. Dark shadows seem to move and reach out toward them as the characters wander lost through endless mazes of tunnels. Oily tentacles slide to brush up against them while a great buzzing and howling rises in the distance. Suppurating wounds burst open in clouds of spores or crawling masses of maggots or insects. At least one or more of the prisoners wakes in a cold sweat from these nightmares after every rest, feeling as though something is out there in the dark depths \u2014 something far worse than the drow.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "spore-based group conversation",
+    "fact": "Thorin connects to friends via spores to ask if Jorlan is an entrapment.",
+    "source_quote": "Thorin connected to his friends via the spores and asked, \u201cHow do we know that he isn\u2019t here to entrap us?\u201d",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin asks via spores if Jorlan is trying to entrap them.",
+    "source_quote": "Thorin connected to his friends via the spores and asked, \u201cHow do we know that he isn\u2019t here to entrap us?\u201d",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin is satisfied with Jorlan\u2019s explanation and asks, \u201cWhat\u2019s the plan?\u201d",
+    "source_quote": "Thorin is satisfied. \u201cWhat\u2019s the plan?\u201d",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin notices Zalthir walking by while filling his bucket.",
+    "source_quote": "As he fills his bucket, he notices Zalthir walking by.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin notices that if he were to jump into the waterfall, he could land safely into the pool below.",
+    "source_quote": "He notices that if he were to jump into the waterfall, he could quite easily land safely into the pool of water below.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin realizes there is something manic about Ilvara.",
+    "source_quote": "As Thorin stares at Ilvara some more, he realizes there is something manic about her.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Thorin considers jumping into waterfall",
+    "fact": "Thorin considers jumping into the waterfall to land safely in the pool below.",
+    "source_quote": "he could quite easily land safely into the pool of water below.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Topsy and Turvy stealing knives",
+    "fact": "Topsy and Turvy steal several knives during Gyrgum\u2019s cooking show while the Drow are distracted.",
+    "source_quote": "As Gyrgum, with theatrical flair, tosses ingredients into the air, moves like a dancer, and hums a tune, Topsy and Turvy steal several knives.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "travel to Sloobludop",
+    "fact": "Sloobludop is approximately eight days away via the Darklake.",
+    "source_quote": "the town of Sloopdopblop is just eight days away",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "trust dynamics",
+    "fact": "People tend to distrust outsiders and view them as a resource to be used.",
+    "source_quote": "People tend to distrust outsiders and view them as a resource to be used.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "water-carrying assignment",
+    "fact": "Ront and Prince Derendil are assigned to carry water.",
+    "source_quote": "They will be carrying water.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "winch operation frequency",
+    "fact": "The basket is lowered and raised multiple times during the day, as prisoners repeatedly use it.",
+    "source_quote": "Wanna get in on some juicy action on how many times they\u2019ll do this?",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir asks, \u201cWe have no money; how do we pay our debts?\u201d",
+    "source_quote": "Zalthir asks, \u201cWe have no money; how do we pay our debts?\u201d",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir noticed that the Drow outpost was 100\u2019 in the sky.",
+    "source_quote": "The first thing that Zalthir noticed was that the Drow outpost was 100\u2019 in the sky.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir notices Grygum entering a cave.",
+    "source_quote": "As the basket comes up, he notices Grygum entering a cave.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir notices a piece of paper with names of people who owe favors and pockets it.",
+    "source_quote": "As the basket bounces, Zalthir notices a piece of paper with some names of people who owe a favor to the person who has the paper. It\u2019s unclear where, which city, what favor, and why. But he pockets the paper.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir notices a spider web below which is a pool of water.",
+    "source_quote": "He looks a little bit more carefully and notices a spider web. Below the spider\u2019s web, he notices a pool of water.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir notices a stalactite across from his prison cell with a door and two bored Drow beyond it.",
+    "source_quote": "Across from his prison cell is a stalactite. There is a door, and two very bored Drow are past the door.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir notices that Elspeth finds a comb and pockets it.",
+    "source_quote": "He notices that she finds a comb. She pockets the comb.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir notices that Elspeth sees him pocket the paper.",
+    "source_quote": "He notices that Elspeth sees him pocket the paper.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir takes a small piece of rope to test its resistance later.",
+    "source_quote": "He takes a small piece of rope to test its resistance later.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir uses cleaning the basket to examine how to damage the winch.",
+    "source_quote": "This time, though, he uses the cleaning to examine how he can damage the winch to aid their escape.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir asking about paying debts",
+    "fact": "Zalthir asks how the group will pay their debts since they have no money.",
+    "source_quote": "Zalthir asks, \u201cWe have no money; how do we pay our debts?\u201d",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir examines winch for escape",
+    "fact": "Zalthir uses cleaning to examine how to damage the winch for escape.",
+    "source_quote": "he uses the cleaning to examine how he can damage the winch to aid their escape.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir examining winch",
+    "fact": "Zalthir uses cleaning duties to examine the winch\u2019s spider silk and gears for escape opportunities.",
+    "source_quote": "This time, though, he uses the cleaning to examine how he can damage the winch to aid their escape. The two things that attract his attention are using spider silk to hold the basket and the winch and gears that the spider silk goes through.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir pocketing paper",
+    "fact": "Zalthir pockets a piece of paper with names of debtors while cleaning the basket.",
+    "source_quote": "As the basket bounces, Zalthir notices a piece of paper with some names of people who owe a favor to the person who has the paper. It\u2019s unclear where, which city, what favor, and why. But he pockets the paper.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir taking rope sample",
+    "fact": "Zalthir takes a small piece of rope to test its resistance later.",
+    "source_quote": "He takes a small piece of rope to test its resistance later.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "deep gnomes",
+    "fact": "Deep gnomes are present as prisoners Topsy and Turvy, who steal knives during Gyrgum\u2019s cooking.",
+    "source_quote": "Topsy and Turvy whisper to each other... Topsy and Turvy steal several knives.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Deep gnomes",
+    "fact": "Deep gnomes, represented by Topsy and Shuushar, are known for their knowledge of Underdark routes and their desire to share enlightenment. They advocate for Blingdenstone and Menzoberranzan as escape paths, respectively.",
+    "source_quote": "Topsy says, \u201cWe should go to Blingdenstone. I know there is a way out of the Underdark from there.\u201d Shuushar objects, \u201cYes, but the direct path is through Menzoberranzan. We will have to go to Darklake first, and we must visit my people to share the enlightenment! From there, the path is good.\u201d",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "derro",
+    "fact": "Derro are present as prisoners, including Buppido, who believes he is divine and speaks of a divine plan.",
+    "source_quote": "Buppido speaks, or instead projects his mind, \u201cThe Divine plan says we must collaborate and share information.\u201d ... Daz learns from the cleric that Buppido thinks he is some kind of god, or he is a god.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Derros",
+    "fact": "Derros, represented by Jimjar, are twisted, greedy dwarves who thrive in chaos and often engage in betting and manipulation. Jimjar wagers on the newcomers\u2019 choices.",
+    "source_quote": "Jimjar adds, \u201cWho wants to bet on which path the new guys will want to go? Will they go with the myconid kid? The enlightened kuo-toan? The Destiny Weilding Derro? Or trust the two deep gnomes?\u201d",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "drow",
+    "fact": "Drow worship Lolth as their spider goddess and operate the outpost as a religious and military center.",
+    "source_quote": "This place is a shrine to Lolth, the drow\u2019s spider goddess.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Drow",
+    "fact": "The Drow are an organized group that hoards loot, assigns tasks, and is viewed by prisoners as exploitative and distrustful.",
+    "source_quote": "The Drow leader probably keeps all the loot for herself. And if any other Drow had our stuff, they would taunt us.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Drow Outpost",
+    "fact": "The Drow Outpost is a floating facility 100\u2019 in the sky, accessible only by winch and basket systems; it includes a mess hall with zurkhwood tables, a food storage area, and a cave used for gathering; it is staffed by Drow overseers, Quaggoth and Kuo-Toan prisoners, and maintains strict control over labor and punishment.",
+    "source_quote": "The Drow outpost was 100\u2019 in the sky. A direct drop would be suicidal.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "drow warriors",
+    "fact": "Drow warriors gather in the mess hall cave, which serves as their eating and gathering place.",
+    "source_quote": "The cave serves as a gathering and eating place for the drow warriors of the outpost.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Ilvara\u2019s polycule",
+    "fact": "Ilvara\u2019s polycule is a drow power structure that operates through shifting alliances and hierarchies, with members like Jorlan, Shoor, Sethir, and others rising and falling based on loyalty, utility, and physical condition. It controls the slave pen and the prisoners' fate.",
+    "source_quote": "Sethir says, \u201cThat\u2019s Jorlan. He used to be the number one, but after he got hit with acid, his face was disfigured and he lost a finger, Ilvara\u2019s dropped him, and now Shoor is number one.\u201d",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "kuo-toa",
+    "fact": "Kuo-toa are present as prisoners, including Shuushar the Awakened, who seeks spiritual balance.",
+    "source_quote": "The Kuo-Toan Shuushar the Awakened notices and tells him to relax... Shuushar mutters, \u201cI see.\u201d",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Kuo-toans",
+    "fact": "Kuo-toans, represented by Shuushar, are fish-like aberrations who believe in enlightenment and ritual. They insist on visiting their people before proceeding on escape routes.",
+    "source_quote": "Shuushar objects, \u201cYes, but the direct path is through Menzoberranzan. We will have to go to Darklake first, and we must visit my people to share the enlightenment! From there, the path is good.\u201d",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Lolth-worshippers",
+    "fact": "Lolth-worshippers are drow who follow the Spider Queen and maintain a rigid, cruel hierarchy. There is no known abolitionist movement among them, and any aid offered to prisoners is assumed to serve their own interests.",
+    "source_quote": "Prince Derendil explains, \u201cWell we know that there is no abolitionist movement amongst those who worship Lolth. It has to be for his benefit.\u201d",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "myconid",
+    "fact": "Myconids are referenced as a potential destination group, with Stool being their representative.",
+    "source_quote": "Stool objects, \u201cNo to the great circle! My people!\u201d",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Myconids",
+    "fact": "The myconids are a fungal race with a communal culture, represented by Stool, who opposes routes that endanger their sacred circle and prioritize their people\u2019s safety.",
+    "source_quote": "Stool objects, \u201cNo to the great circle! My people!\u201d",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "The Drow of the Priestess\u2019s Tower",
+    "fact": "The drow of the priestess\u2019s tower are a rigid, hierarchical society devoted to Lolth; they enforce slavery through terror, use spider symbolism in architecture and worship, and maintain control via ritualized violence, surveillance, and psychological domination; their priestess, Ilvara, wields absolute authority.",
+    "source_quote": "This place is a shrine to Lolth, the drow\u2019s spider goddess. The altar is flanked by a pair of heavy silver candlesticks worth 25 gp each. They hold thick black candles and are unlit.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "The Prisoner Collective",
+    "fact": "The prisoner collective is an ad hoc alliance of diverse races (dwarves, gnomes, orcs, derros, elves) bound by shared captivity; they communicate via spore-induced group minds, coordinated thefts, and shared planning; despite internal differences, they are beginning to unify under the influence of Buppido\u2019s delusions and Thorin\u2019s pragmatic leadership.",
+    "source_quote": "Jimjar is making more bets. The stool is happy to be talking to everyone and has spread his spores so that everyone in the prison cell is in a group mind. ... Daz notes that this allows them to coordinate any plans without being discovered.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "armory",
+    "fact": "The armory is the target location after the prison door is opened and a distraction is created, where weapons must be seized for escape.",
+    "source_quote": "Jorlan smiles, \u201cI will leave the door to the prison open, create a distraction. The path to the armory will be unguarded. Grab the weapons and flee.\u201d",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Blingdenstone",
+    "fact": "Blingdenstone is a deep gnome city with a known exit from the Underdark, advocated by Topsy as a safe escape route.",
+    "source_quote": "Topsy says, \u201cWe should go to Blingdenstone. I know there is a way out of the Underdark from there.\u201d",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "bridge near the waterfall",
+    "fact": "The bridge near the waterfall has a winch-and-basket device with a spider silk cord, pulleys, and a hand-cranked horizontal spool.",
+    "source_quote": "As he crosses the bridge near the waterfall... attached to the edge of the barracks platform is a winch-and-basket device consisting of a giant swinging arm that carries a thin cord of strong spider silk. The cord runs through several pulleys from a hand-cranked horizontal spool to a heavy woven basket suspended at the end.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "cave",
+    "fact": "Gyrgum enters a cave as the basket rises.",
+    "source_quote": "As the basket comes up, he notices Grygum entering a cave.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Darklake",
+    "fact": "Darklake is a location on the route to Menzoberranzan, required by Shuushar\u2019s plan to visit his kuo-toan people and share enlightenment.",
+    "source_quote": "Shuushar objects, \u201cYes, but the direct path is through Menzoberranzan. We will have to go to Darklake first, and we must visit my people to share the enlightenment! From there, the path is good.\u201d",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Drow outpost",
+    "fact": "The Drow outpost is located 100 feet in the sky.",
+    "source_quote": "the Drow outpost was 100\u2019 in the sky.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Drow outpost elevation",
+    "fact": "The Drow outpost is 100 feet above the cavern floor.",
+    "source_quote": "the Drow outpost was 100\u2019 in the sky",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Gracklstugh",
+    "fact": "Gracklstugh is Buppido\u2019s homeland, a dwarven stronghold in the Underdark, proposed as the destination after escape.",
+    "source_quote": "Buppido smiles, \u201cTo Gracklstugh, my homeland!\u201d",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Gyrgum prison",
+    "fact": "The prison door creeks open and a voice commands, 'Wake up.'",
+    "source_quote": "The prison door creeks open, and a voice rings, \u201cWake up.\u201d",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "high priestess tower",
+    "fact": "Daz notes that Thorin has a better job at the high priestess tower.",
+    "source_quote": "The next stop is the tower of the high priestess. There, Daz notes that Thorin has a better job.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Ilvara's chamber",
+    "fact": "Ilvara\u2019s chamber has black web-like mesh walls, woven floor mats, and a divan-like bed.",
+    "source_quote": "Inside, the walls are hung with black mesh resembling a spider\u2019s web... Thick, woven mats cover the floor, while a low platform is covered with cushions and pillows to make a broad, divan-like bed.",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Ilvara\u2019s room",
+    "fact": "Ilvara\u2019s room contains a chest where the prisoners\u2019 belongings are stored, as observed by Thorin, who assumes the drow leader hoards all loot.",
+    "source_quote": "Thorin thinks for a moment, \u201cI know where our stuff is. It\u2019s in the chest in Ilvara\u2019s room. The Drow leader probably keeps all the loot for herself. And if any other Drow had our stuff, they would taunt us.\u201d",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Ilvara\u2019s room",
+    "fact": "Ilvara\u2019s room contains a chest where the prisoners\u2019 belongings are stored.",
+    "source_quote": "It\u2019s in the chest in Ilvara\u2019s room.",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "sweep"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "location",
+    "subject": "Ilvara's shrine",
+    "fact": "Ilvara\u2019s chamber contains a small shrine to Lolth draped in white silk.",
+    "source_quote": "One side of the chamber contains a small table and two chairs, while the other holds a small shrine to Lolth draped in white silk.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "kitchen",
+    "fact": "The kitchen is part of the mess hall and contains unfamiliar ingredients that Gyrgum uses for theatrical cooking.",
+    "source_quote": "He then turns to the kitchen, looks around, and realizes that he\u2019s not a great cook and that many ingredients are unfamiliar",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "lake",
+    "fact": "Daz, Stool, and Sarith walk to the edge of the lake and notice it is unusually clean.",
+    "source_quote": "Daz, Stool, and Sarith walk to the edge of the lake and notice that it is pretty clean, which is odd given the amount of filth being deposited.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "lake",
+    "fact": "The lake is where chamber pots are disposed of and cleaned, and it appears unusually clean despite heavy filth deposition.",
+    "source_quote": "they take the bucket to the lake, where they dispose of it and clean the filth. ... they notice that it is pretty clean, which is odd given the amount of filth being deposited.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "loot storage",
+    "fact": "The characters' stuff is in the chest in Ilvara\u2019s room.",
+    "source_quote": "I know where our stuff is. It\u2019s in the chest in Ilvara\u2019s room.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Menzoberranzan",
+    "fact": "Menzoberranzan is the infamous drow city, which Shuushar insists must be passed through on the way to the surface, requiring a detour to Darklake.",
+    "source_quote": "Shuushar objects, \u201cYes, but the direct path is through Menzoberranzan. We will have to go to Darklake first, and we must visit my people to share the enlightenment! From there, the path is good.\u201d",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Mess Hall",
+    "fact": "The Mess Hall is a cave serving as the dining and gathering space for Drow warriors; it contains four circular zurkhwood tables with five chairs each; it has a food preparation and storage area with dried fungi, fruits, cheeses, preserved meat, and clay jars of spices; it is lit by a heavy iron brazier and often serves cold food.",
+    "source_quote": "The cave serves as a gathering and eating place for the drow warriors of the outpost.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "mess hall",
+    "fact": "The mess hall has a food preparation and storage area with dried and fresh fungi, dried fruits, cheeses, preserved meat, and clay jars of spices.",
+    "source_quote": "Part of the hall is used as a food preparation and storage area, containing stocks of dried and fresh fungi, dried fruits, cheeses, preserved meat, and a few clay jars of spices.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "mess hall",
+    "fact": "The mess hall is a cave with four circular zurkhwood tables, each with five chairs.",
+    "source_quote": "The cave serves as a gathering and eating place for the drow warriors of the outpost. It has four circular tables carved from zurkhwood, each surrounded by five chairs.",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "sweep"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "location",
+    "subject": "mess hall kitchen area",
+    "fact": "The mess hall includes a food preparation and storage area with dried fungi, fruits, cheeses, preserved meat, and spices.",
+    "source_quote": "Part of the hall is used as a food preparation and storage area, containing stocks of dried and fresh fungi, dried fruits, cheeses, preserved meat, and a few clay jars of spices.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "pool of water",
+    "fact": "A pool of water is located below the spider web.",
+    "source_quote": "Below the spider\u2019s web, he notices a pool of water.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "pools of water",
+    "fact": "Pools of water are the final descent point in the escape route, reached via waterfall or spiderwebs, and serve as the transition to the next leg of the journey.",
+    "source_quote": "Jorlan smiles, \u201cUse the waterfall to slide down, or jump into the spiderwebs and then jump into the pools of water.\u201d",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "pool with grey ooze",
+    "fact": "A pool contains a grey ooze used to process waste.",
+    "source_quote": "Sethir said there is a grey ooze in the pool. That\u2019s how the waste gets processed.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "priestess\u2019s tower",
+    "fact": "The priestess\u2019s tower is the uppermost level of the largest hanging tower and contains a shrine to Lolth.",
+    "source_quote": "Water in tow, Ronk, Thorin, and Prince Derendil enter the uppermost level of the largest hanging tower, called the priestess\u2019s tower.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "priestess\u2019s tower",
+    "fact": "The priestess\u2019s tower is the uppermost level of the largest hanging tower.",
+    "source_quote": "enter the uppermost level of the largest hanging tower, called the priestess\u2019s tower.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "priestess\u2019s tower",
+    "fact": "The priestess\u2019s tower\u2019s chamber has a broad zurkhwood pedestal with a 10-foot-high sculpted spider at its head.",
+    "source_quote": "In the middle of the chamber (at the center of the web) stands a broad pedestal carved from zurkhwood, with a 10-foot-high sculpted spider at its head.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "priestess\u2019s tower",
+    "fact": "The priestess\u2019s tower\u2019s chamber has a heavy chest of black-stained zurkhwood at the foot of the bed.",
+    "source_quote": "A heavy chest of black-stained zurkhwood sits at the foot of the bed.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "priestess\u2019s tower",
+    "fact": "The priestess\u2019s tower\u2019s chamber has a low platform covered with cushions and pillows forming a divan-like bed.",
+    "source_quote": "a low platform is covered with cushions and pillows to make a broad, divan-like bed.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "priestess\u2019s tower",
+    "fact": "The priestess\u2019s tower\u2019s chamber has a rope ladder leading down from the shrine into the chamber.",
+    "source_quote": "A rope ladder leads down from the shrine into this chamber.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "priestess\u2019s tower",
+    "fact": "The priestess\u2019s tower\u2019s chamber has a small shrine to Lolth draped in white silk.",
+    "source_quote": "the other holds a small shrine to Lolth draped in white silk.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "priestess\u2019s tower",
+    "fact": "The priestess\u2019s tower\u2019s chamber has a small table and two chairs on one side.",
+    "source_quote": "One side of the chamber contains a small table and two chairs",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "priestess\u2019s tower",
+    "fact": "The priestess\u2019s tower\u2019s chamber has dark silken mats with a pale web-strand pattern woven in silvery thread.",
+    "source_quote": "Dark silken mats cover the floor of this circular chamber with a pale web-strand pattern woven through them in silvery thread.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "priestess\u2019s tower",
+    "fact": "The priestess\u2019s tower\u2019s chamber has eight polished jet eyes on the spider statue: four small ones worth five gp each and four larger ones worth ten gp each.",
+    "source_quote": "The eight \u201ceyes\u201d of the spider statue are eight pieces of polished jet \u2014 four small ones worth five gp each and four larger ones worth ten gp each.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "priestess\u2019s tower",
+    "fact": "The priestess\u2019s tower\u2019s chamber has thick woven mats covering the floor.",
+    "source_quote": "Thick, woven mats cover the floor",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "priestess\u2019s tower",
+    "fact": "The priestess\u2019s tower\u2019s chamber has two heavy silver candlesticks worth 25 gp each, holding thick black candles and unlit.",
+    "source_quote": "The altar is flanked by a pair of heavy silver candlesticks worth 25 gp each. They hold thick black candles and are unlit.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "priestess\u2019s tower",
+    "fact": "The priestess\u2019s tower\u2019s chamber has walls hung with black mesh resembling a spider\u2019s web, extending from the ceiling to the walls.",
+    "source_quote": "Inside, the walls are hung with black mesh resembling a spider\u2019s web, extending from a central spot on the ceiling to the walls, then draped down like curtains.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "prison",
+    "fact": "The prison is located 100\u2019 in the sky with a direct drop that would be suicidal.",
+    "source_quote": "the Drow outpost was 100\u2019 in the sky. A direct drop would be suicidal.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "prison cell",
+    "fact": "The prison cell faces a stalactite with a door and two bored Drow beyond it.",
+    "source_quote": "Across from his prison cell is a stalactite. There is a door, and two very bored Drow are past the door.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "prison cell door",
+    "fact": "There is a door across from Zalthir\u2019s cell with two bored Drow guarding it.",
+    "source_quote": "There is a door, and two very bored Drow are past the door.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "quaggoth barracks",
+    "fact": "The cave to the north serves as a quaggoth barracks with one quaggoth resting inside.",
+    "source_quote": "Their first stop is at the cave to the north, which they notice is a quaggoth barracks. Peeking in, Daz notes one of them resting.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "quaggoth barracks cave",
+    "fact": "Daz notes a quaggoth barracks cave to the north.",
+    "source_quote": "Their first stop is at the cave to the north, which they notice is a quaggoth barracks.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "shrine chamber",
+    "fact": "The shrine chamber has dark silken mats with a pale web-strand pattern.",
+    "source_quote": "Dark silken mats cover the floor of this circular chamber with a pale web-strand pattern woven through them in silvery thread.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "shrine to Lolth",
+    "fact": "The chamber is a shrine to Lolth, the drow\u2019s spider goddess.",
+    "source_quote": "This place is a shrine to Lolth, the drow\u2019s spider goddess.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "slave pen",
+    "fact": "The slave pen is a dark, oppressive chamber where prisoners are held, plagued by nightmares and strange phenomena. It is controlled by Ilvara\u2019s polycule and serves as the starting point for the escape plan.",
+    "source_quote": "Everyone\u2019s sleep in the slave pen is troubled and fitful, filled with strange dreams and disturbing images.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "slave pen",
+    "fact": "The slave pen is where the prisoners sleep and experience troubled dreams.",
+    "source_quote": "Everyone\u2019s sleep in the slave pen is troubled and fitful...",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "spider statue height",
+    "fact": "The spider statue atop the zurkhwood pedestal is 10 feet high.",
+    "source_quote": "a 10-foot-high sculpted spider at its head",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "spider web",
+    "fact": "A spider web is visible below the prison cell.",
+    "source_quote": "He looks a little bit more carefully and notices a spider web.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "spiderwebs",
+    "fact": "Spiderwebs are part of the escape route, serving as a transition between the waterfall and the water pools, and are implied to be dense and possibly hazardous.",
+    "source_quote": "Jorlan smiles, \u201cUse the waterfall to slide down, or jump into the spiderwebs and then jump into the pools of water.\u201d",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "stalactite",
+    "fact": "A stalactite is located across from Zalthir\u2019s prison cell.",
+    "source_quote": "Across from his prison cell is a stalactite.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "The Lake of Filth",
+    "fact": "The Lake of Filth is the disposal site for chamber pots collected by Daz\u2019s crew; despite daily deposits of waste, the lake appears unnaturally clean, suggesting magical cleansing or hidden mechanisms; no visible source of purification is observed.",
+    "source_quote": "They look around and see nothing.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "The Priestess\u2019s Tower",
+    "fact": "The Priestess\u2019s Tower is a circular, subterranean chamber serving as the center of Lolth worship and Ilvara\u2019s command; its floor is covered in dark silken mats with pale web-strand patterns; the center holds a zurkhwood pedestal with a 10-foot-tall sculpted spider idol whose eight eyes are polished jet; the chamber contains a shrine to Lolth, a black-stained zurkhwood chest, and a divan-like bed.",
+    "source_quote": "The eight 'eyes' of the spider statue are eight pieces of polished jet \u2014 four small ones worth five gp each and four larger ones worth ten gp each.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "The Quaggoth Barracks",
+    "fact": "The Quaggoth Barracks is a northern cave used as living quarters for quaggoths; it is noted by Daz as a place of rest and low vigilance, suggesting it is not heavily guarded or monitored by the drow.",
+    "source_quote": "Peeking in, Daz notes one of them resting.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "tunnel maze",
+    "fact": "Characters wander lost through endless mazes of tunnels.",
+    "source_quote": "characters wander lost through endless mazes of tunnels.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "underdark environment",
+    "fact": "The Underdark has insufficient resources or space for anyone.",
+    "source_quote": "This is the Underdark. There is not enough resources or space for anyone.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Velkynvelve elevation",
+    "fact": "Velkynvelve sits 100 feet above the cavern floor.",
+    "source_quote": "Drow outpost was 100' in the sky",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "waterfall",
+    "fact": "A slippery path leads to the head of the waterfall.",
+    "source_quote": "he sees buckets and a slippery path leading to the head of the waterfall.",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "waterfall",
+    "fact": "The waterfall is one of two escape routes proposed for descending from the prison, to be used by sliding down or jumping into spiderwebs and pools.",
+    "source_quote": "Jorlan smiles, \u201cUse the waterfall to slide down, or jump into the spiderwebs and then jump into the pools of water.\u201d",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "winch-and-basket device",
+    "fact": "A winch-and-basket device is attached to the edge of the barracks platform.",
+    "source_quote": "Attached to the edge of the barracks platform is a winch-and-basket device consisting of a giant swinging arm that carries a thin cord of strong spider silk.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Winch-and-Basket System",
+    "fact": "The winch-and-basket system is a mechanical cargo lift suspended in the air; it consists of a giant swinging arm, a thin cord of strong spider silk, multiple pulleys, and a hand-cranked horizontal spool; it carries a heavy woven basket used to transport goods and prisoners across a chasm; it is operated by Balok and controlled by stoppers and signals from below.",
+    "source_quote": "Attached to the edge of the barracks platform is a winch-and-basket device consisting of a giant swinging arm that carries a thin cord of strong spider silk.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "zurkhwood chair count",
+    "fact": "Each zurkhwood table is surrounded by five chairs.",
+    "source_quote": "each surrounded by five chairs",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "zurkhwood pedestal",
+    "fact": "A broad pedestal carved from zurkhwood stands in the center of the shrine chamber.",
+    "source_quote": "In the middle of the chamber (at the center of the web) stands a broad pedestal carved from zurkhwood",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "zurkhwood table count",
+    "fact": "The mess hall has four circular tables carved from zurkhwood.",
+    "source_quote": "four circular tables carved from zurkhwood",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "buzzing and howling",
+    "fact": "A great buzzing and howling rises in the distance during the prisoners' nightmares.",
+    "source_quote": "A great buzzing and howling rises in the distance.",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "buzzing and howling",
+    "fact": "A great buzzing and howling rises in the distance.",
+    "source_quote": "a great buzzing and howling rises in the distance.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "chasme count",
+    "fact": "Four chasme demons are present in the cavern above the prisoners' tower.",
+    "source_quote": "four chasme and two vrock",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "dark shadows",
+    "fact": "Dark shadows move and reach out toward prisoners during their nightmares in the slave pen.",
+    "source_quote": "Dark shadows seem to move and reach out toward them",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "dark shadows",
+    "fact": "Dark shadows move and reach out toward the prisoners during their troubled sleep.",
+    "source_quote": "Dark shadows seem to move and reach out toward them as the characters wander lost through endless mazes of tunnels.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "drow",
+    "fact": "Drow are present as guards and overseers throughout the outpost, including Beremil, Balok, and Ilvara.",
+    "source_quote": "a Drow appears and points at Shuushar, Topsy, Turvy, and Gyrgum... The next Drow appears and points to Zalthir, Buppido, Jimjar, and Eldeth. Another Drow points at Daz, Sarith, and Stool.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "drow soldiers count",
+    "fact": "Six Drow soldiers are present in the kitchen on the 4th day.",
+    "source_quote": "six Drow soldiers are present",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "great buzzing and howling",
+    "fact": "A great buzzing and howling rises in the distance during prisoners\u2019 nightmares in the slave pen.",
+    "source_quote": "a great buzzing and howling rises in the distance.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "grey ooze",
+    "fact": "A grey ooze exists in a pool used to process waste in the slave pen, as recalled by Daz and mentioned by Sethir. It is a natural, corrosive hazard.",
+    "source_quote": "Daz wakes up and remembers, \u201cRight, Sethir said there is a grey ooze in the pool. That\u2019s how the waste gets processed.\u201d",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "grey ooze",
+    "fact": "A grey ooze exists in the pool and is used to process waste.",
+    "source_quote": "Sethir said there is a grey ooze in the pool. That\u2019s how the waste gets processed.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "grey ooze count",
+    "fact": "A grey ooze is present in the pool. That\u2019s how the waste gets processed.",
+    "source_quote": "Sethir said there is a grey ooze in the pool. That\u2019s how the waste gets processed.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Kuo-Toan",
+    "fact": "Kuo-Toans, including Shuushar, are prisoners assigned to cooking and communication roles; they are described as Awakened and use gestures and partial translation; they are physically present and interact with Drow and other prisoners.",
+    "source_quote": "The Kuo-Toan Shuushar the Awakened notices and tells him to relax.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "oily tentacles",
+    "fact": "Oily tentacles slide and brush against prisoners during their nightmares in the slave pen.",
+    "source_quote": "Oily tentacles slide to brush up against them",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "oily tentacles",
+    "fact": "Oily tentacles slide to brush up against the prisoners during their nightmares.",
+    "source_quote": "Oily tentacles slide to brush up against them while a great buzzing and howling rises in the distance.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "oily tentacles",
+    "fact": "Oily tentacles slide to brush up against them.",
+    "source_quote": "Oily tentacles slide to brush up against them",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "quaggoth",
+    "fact": "One quaggoth is resting inside the barracks cave.",
+    "source_quote": "Peeking in, Daz notes one of them resting.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "quaggoth",
+    "fact": "Quaggoths are present as attendants by the winch, waiting for signals to lower the basket.",
+    "source_quote": "Two quaggoth attendants remain by the lift, waiting for a signal from below to lower the basket.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "quaggoth",
+    "fact": "Quaggoths are present as prisoners forced to carry water with Ront and Prince Derendil.",
+    "source_quote": "he watches the \u201cPrince,\u201d Ront, and Thorin filling buckets of water.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Quaggoth",
+    "fact": "Quaggoths, including Ront and Derendil, are prisoners under Drow command; they are referred to as 'the Prince' and are deluded; they are assigned to labor such as filling water buckets; they are physically present and observed by other prisoners.",
+    "source_quote": "Ront and Prince Derendil, the deluded Quaggoth, are to follow this Drow.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "quaggoth attendants",
+    "fact": "Two quaggoth attendants remain by the lift waiting for a signal to lower the basket.",
+    "source_quote": "Two quaggoth attendants remain by the lift, waiting for a signal from below to lower the basket.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "quaggoth attendants count",
+    "fact": "Two quaggoth attendants remain by the lift.",
+    "source_quote": "Two quaggoth attendants remain by the lift",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "spider",
+    "fact": "A spider is present above a pool of water near the prison cell, with a web below it.",
+    "source_quote": "He looks a little bit more carefully and notices a spider web. Below the spider\u2019s web, he notices a pool of water.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "spider statue",
+    "fact": "A 10-foot-high sculpted spider stands atop the zurkhwood pedestal.",
+    "source_quote": "with a 10-foot-high sculpted spider at its head.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "suppurating wounds",
+    "fact": "Suppurating wounds burst open in clouds of spores or crawling masses of maggots or insects during prisoners\u2019 nightmares in the slave pen.",
+    "source_quote": "Suppurating wounds burst open in clouds of spores or crawling masses of maggots or insects.",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "sweep"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "monster",
+    "subject": "suppurating wounds",
+    "fact": "Suppurating wounds burst open in clouds of spores or crawling masses of maggots or insects.",
+    "source_quote": "Suppurating wounds burst open in clouds of spores or crawling masses of maggots or insects.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Balok",
+    "fact": "Balok is a Drow overseer who manages the winch-and-basket cargo system; he commands prisoners to clean and unload cargo, warns them of consequences for theft, and laughs as the basket is dropped; he is the one who pulls the stopper to launch the basket across the chasm.",
+    "source_quote": "You will clean and unload. If you steal anything, then there will be consequences.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Balok",
+    "fact": "Balok laughs as the basket drops.",
+    "source_quote": "Balok is laughing.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Balok",
+    "fact": "Balok runs the winch and instructs prisoners on cargo duties.",
+    "source_quote": "Balok runs the winch. They will be helping with loading and unloading of cargo.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Balok",
+    "fact": "Balok runs the winch and instructs prisoners to clean and unload cargo.",
+    "source_quote": "Balok runs the winch. ... Balok shouts, \u201cStop.\u201d ... Balok is laughing.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Balok",
+    "fact": "Balok shouts 'Stop' to the prisoners and instructs them to clean and unload.",
+    "source_quote": "Balok shouts, \u201cStop.\u201d He turns to his new slaves and points to the apparatus: \u201cYou will clean and unload.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Beremil",
+    "fact": "Beremil is a Drow who commands the water-carrying group including Ront and Derendil; she is referenced as the one who assigned the labor; her authority is acknowledged by the prisoners.",
+    "source_quote": "The Drow who took them is Beremil.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Beremil",
+    "fact": "Beremil is a Drow who leads Ront and Prince Derendil to carry water.",
+    "source_quote": "The Drow who took them is Beremil.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Beremil",
+    "fact": "Beremil is the Drow who takes Ront and Prince Derendil for water-carrying duties.",
+    "source_quote": "The Drow who took them is Beremil.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Beremil",
+    "fact": "Beremil shouts to fill buckets and then come.",
+    "source_quote": "Beremil shouts, \u201cFill the buckets and then come.\u201d",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Beremil",
+    "fact": "Beremil shouts to take water to Ilvara.",
+    "source_quote": "Beremil then shouts, \u201cNow, we take water to Ilvara.\u201d",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Buppido",
+    "fact": "Buppido believes he is a god or is a god.",
+    "source_quote": "Daz learns from the cleric that Buppido thinks he is some kind of god, or he is a god.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Buppido",
+    "fact": "Buppido is a derro who believes himself to be a divine entity or a god; he projects his thoughts, demands collaboration, and orchestrates escape plans under the guise of a 'divine plan'; his insanity is recognized by Thorin and others, yet his influence persists as he manipulates prisoners into pledging their lives to his cause.",
+    "source_quote": "Buppido projected his mind: 'The Divine plan says we must collaborate and share information.' ... 'The divine plan requires that you create a distraction while I escape.'",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Buppido",
+    "fact": "Buppido is a derro who claims to follow a divine plan and believes he is a god or represents one.",
+    "source_quote": "Buppido speaks, or instead projects his mind, \u201cThe Divine plan says we must collaborate and share information.\u201d ... Daz learns from the cleric that Buppido thinks he is some kind of god, or he is a god.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Buppido",
+    "fact": "Buppido is a gnome who reveals Gracklstugh as the intended destination after escape, and mocks the group\u2019s indecision by suggesting they must explain everything to the newcomers.",
+    "source_quote": "Buppido smiles, \u201cTo Gracklstugh, my homeland!\u201d",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Buppido",
+    "fact": "Buppido is assigned to cargo-loading duties.",
+    "source_quote": "The next Drow appears and points to Zalthir, Buppido, Jimjar, and Eldeth.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Buppido",
+    "fact": "Buppido projects his mind and says, \u201cThe Divine plan says we must collaborate and share information.\u201d",
+    "source_quote": "Buppido speaks, or instead projects his mind, \u201cThe Divine plan says we must collaborate and share information.\u201d",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Buppido",
+    "fact": "Buppido says they should go to Gracklstugh, his homeland.",
+    "source_quote": "Buppido smiles, \u201cTo Gracklstugh, my homeland!\u201d",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Buppido",
+    "fact": "Buppido says, \u201cIn due time.\u201d when asked about the plan.",
+    "source_quote": "Buppido, like any mysterious god or charlatan masquerading as a god, would say, \u201cIn due time.\u201d",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Buppido",
+    "fact": "Buppido thinks he is some kind of god, or he is a god.",
+    "source_quote": "Buppido thinks he is some kind of god, or he is a god.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz collects chamber pots from each tower with Stool and Sarith.",
+    "source_quote": "Daz and his crew collect the chamber pots from each tower.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz has a very sour expression when assigned to clean chamber pots.",
+    "source_quote": "Another Drow points at Daz, Sarith, and Stool. Daz has a very sour expression.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a member of the group who recalls Sethir\u2019s mention of the grey ooze in the pool used for waste processing, and has previously suggested using a cantrip to turn water into ice to break gears.",
+    "source_quote": "Daz had remarked that he could use his cantrip to turn water into ice, and such an effect could break the gears. Daz wakes up and remembers, \u201cRight, Sethir said there is a grey ooze in the pool. That\u2019s how the waste gets processed.\u201d",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a prisoner assigned to clean chamber pots and later observes the prison cell\u2019s group mind and Buppido\u2019s plan.",
+    "source_quote": "Another Drow points at Daz, Sarith, and Stool. Daz has a very sour expression. ... Daz notes that this allows them to coordinate any plans without being discovered. ... Daz asks, \u201cWhat is the plan?\u201d",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a prisoner who collects chamber pots with his crew, observes the hierarchy of the prison complex, and participates in the group mind formed by Jimjar\u2019s spores; he is pragmatic, skeptical of Buppido\u2019s divinity, but accepts the need for coordination among prisoners to survive.",
+    "source_quote": "Daz thinks, 'At least we have that.' ... 'What is the plan?' ... Buppido: 'In due time.'",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is pointed out by a Drow for chamber pot cleaning duties.",
+    "source_quote": "Another Drow points at Daz, Sarith, and Stool.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz learns that Buppido thinks he is some kind of god, or he is a god.",
+    "source_quote": "Later, Daz learns from the cleric that Buppido thinks he is some kind of god, or he is a god.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz remarks that water-to-ice cantrip could break the gears.",
+    "source_quote": "Daz had remarked that he could use his cantrip to turn water into ice, and such an effect could break the gears.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz thinks, \u201cAt least we have that.\u201d",
+    "source_quote": "Daz thinks, \u201cAt least we have that.\u201d",
+    "quote_verified": true,
+    "passes": [
+      "interiority",
+      "large"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz wakes up and remembers Sethir mentioned a grey ooze in the pool.",
+    "source_quote": "Daz wakes up and remembers, \u201cRight, Sethir said there is a grey ooze in the pool.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz wakes up and remembers, 'Right, Sethir said there is a grey ooze in the pool. That\u2019s how the waste gets processed.'",
+    "source_quote": "Daz wakes up and remembers, \"Right, Sethir said there is a grey ooze in the pool. That\u2019s how the waste gets processed.\"",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Drow",
+    "fact": "The Drow responds, 'After a long rest, before you go on your assigned tasks.'",
+    "source_quote": "\"After a long rest, before you go on your assigned tasks.\"",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "drow overseers count",
+    "fact": "The Drow who took Ront and Derendil is Beremil; another Drow points to Zalthir, Buppido, Jimjar, and Eldeth; another points to Daz, Sarith, and Stool; and a Drow points to Shuushar, Topsy, Turvy, and Gyrgum \u2014 indicating at least four distinct Drow overseers.",
+    "source_quote": "The voice speaks in undercommon... Another Drow points to Zalthir, Buppido, Jimjar, and Eldeth. Another Drow points at Daz, Sarith, and Stool. A Drow appears and points at Shuushar, Topsy, Turvy, and Gyrgum.",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Drow soldier",
+    "fact": "A Drow soldier says something about food being tasty.",
+    "source_quote": "The drow laughs and says something. Shuushar translates, \u201cSomething tasty.\u201d",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Dwarf",
+    "fact": "The dwarf turns to the Drow and says, 'Your deal is accepted. When?'",
+    "source_quote": "The dwarf turns to the Drow and says, \"Your deal is accepted. When?\"",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Eldeth",
+    "fact": "Eldeth is a prisoner pointed out by a Drow to help with loading and unloading cargo.",
+    "source_quote": "The next Drow appears and points to Zalthir, Buppido, Jimjar, and Eldeth.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Eldeth",
+    "fact": "Eldeth is assigned to cargo-loading duties.",
+    "source_quote": "The next Drow appears and points to Zalthir, Buppido, Jimjar, and Eldeth.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Eldeth",
+    "fact": "Eldeth laughs, 'Safety? This is the Underdark. There is not enough resources or space for anyone. Survival depends on your wits. People tend to distrust outsiders and view them as a resource to be used.'",
+    "source_quote": "Eldeth laughs, \"Safety? This is the Underdark.  There is not enough resources or space for anyone. Survival depends on your wits. People tend to distrust outsiders and view them as a resource to be used.\"",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Eldeth",
+    "fact": "Eldeth responds to Gyrgum\u2019s question with a bleak assessment: the Underdark offers no true safety, only survival through wits, where outsiders are seen as resources to be used.",
+    "source_quote": "Eldeth laughs, \u201cSafety? This is the Underdark. There is not enough resources or space for anyone. Survival depends on your wits. People tend to distrust outsiders and view them as a resource to be used.\u201d",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Eldeth",
+    "fact": "Eldeth says people in the Underdark distrust outsiders and view them as a resource to be used.",
+    "source_quote": "People tend to distrust outsiders and view them as a resource to be used.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Eldeth",
+    "fact": "Eldeth says survival in the Underdark depends on wits.",
+    "source_quote": "Survival depends on your wits.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Eldeth",
+    "fact": "Eldeth states that there is not enough resources or space for anyone in the Underdark.",
+    "source_quote": "Eldeth laughs, \u201cSafety? This is the Underdark.  There is not enough resources or space for anyone.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Elspeth",
+    "fact": "Elspeth is a prisoner who notices Zalthir pocketing a paper with names of debtors; she subsequently finds and pockets a comb; she is assigned to the cargo crew with Zalthir, Buppido, and Jimjar; her actions suggest she is observant and opportunistic.",
+    "source_quote": "He notices that Elspeth sees him pocket the paper. He notices that she finds a comb. She pockets the comb.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is a prisoner who cooks for the Drow and attempts to steal a knife.",
+    "source_quote": "As Grygum walks towards the mess hall... Gyrgum has a peculiar expression... As Gyrgum, with theatrical flair, tosses ingredients into the air... Gyrgum notices a knife and tries to steal it.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is repeatedly referred to as the prisoner who cooks for the Drow, despite the spelling variation from Gyrgum.",
+    "source_quote": "As Grygum walks towards the mess hall... As the basket comes up, he notices Grygum entering a cave.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Guldor",
+    "fact": "Guldor informs Daz that they dispose of filth in the lake and clean the buckets.",
+    "source_quote": "Guldor explains that they collect the filth from each tower in a bucket and then take the bucket to the lake, where they dispose of it and clean the filth.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Guldor",
+    "fact": "Guldor is a prisoner assigned to clean chamber pots; he is present at the mess hall and sits with Jaezred and Kalannar; he notices Gyrgum attempting to steal a knife and takes it, delivering a clear threat; he is familiar with the consequences of theft and enforces discipline among prisoners.",
+    "source_quote": "They will do awful things to you if you steal a knife.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Guldor",
+    "fact": "Guldor is assigned the dirty job of cleaning chamber pots.",
+    "source_quote": "Oh dear, Guldor has the dirty job of cleaning chamber pots.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Guldor",
+    "fact": "Guldor notices Gyrgum trying to steal a knife.",
+    "source_quote": "Guldor notices and Grygum explains that he is just trying to sharpen the knife.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Guldor",
+    "fact": "Guldor sits at the table with Jaezred and Kalannar in the mess hall.",
+    "source_quote": "Guldor sits with them.",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "sweep"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "npc",
+    "subject": "Guldor",
+    "fact": "Guldor warns Daz he will be down before they can run if they try anything.",
+    "source_quote": "Goldur informs Daz that he will be down before they can run if they try any funny business.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Gyrgum",
+    "fact": "Gyrgum asks where the group will find safety after escape, prompting Eldeth\u2019s grim observation about the Underdark\u2019s nature.",
+    "source_quote": "Gyrgum asks, \u201cWhere will we find safety?\u201d",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Gyrgum",
+    "fact": "Gyrgum asks where they will find safety.",
+    "source_quote": "Gyrgum asks, \u201cWhere will we find safety?\u201d",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Gyrgum",
+    "fact": "Gyrgum asks, 'Where will we find safety?'",
+    "source_quote": "Gyrgum asks, \"Where will we find safety?\"",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Gyrgum",
+    "fact": "Gyrgum does not understand undercommon.",
+    "source_quote": "The voice speaks in undercommon\u2014a language Gyrgum doesn\u2019t understand.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Gyrgum",
+    "fact": "Gyrgum has a peculiar expression when Buppido says the word 'divine'.",
+    "source_quote": "Gyrgum has a peculiar expression as Buppido says the word divine.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Gyrgum",
+    "fact": "Gyrgum has learned not to worry about how much time has passed.",
+    "source_quote": "From his time as a prisoner the last time, he\u2019s learned not to worry about how much time has passed.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Gyrgum",
+    "fact": "Gyrgum is a prisoner who does not speak Undercommon but relies on others to translate; he is assigned to cook with Shuushar, Topsy, and Turvy under Imbros's command; he attempts to steal a knife and is warned of severe consequences by Guldor and Shuushar; he is aware that Shuushar omits many details in translation.",
+    "source_quote": "I don\u2019t speak Undercommon, but he used many more words.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Gyrgum",
+    "fact": "Gyrgum is an orc chef whose theatrical cooking has become legendary among the prisoners; his skill is so extraordinary that even Shuushar suggests his cooking might be mistaken for divine, and he is now being observed by drow soldiers who are entertained by his performances.",
+    "source_quote": "Shuushar cautioned the orc, 'If you were to show this cooking to my people, they might imagine a god like you.'",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Gyrgum",
+    "fact": "Gyrgum is assigned to cooking duties with Shuushar, Topsy, and Turvy.",
+    "source_quote": "Then, at last, it\u2019s Gyrgum\u2019s turn. A Drow appears and points at Shuushar, Topsy, Turvy, and Gyrgum.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Gyrgum",
+    "fact": "Gyrgum is worried about being led by the Drow with Ront and Prince Derendil.",
+    "source_quote": "He is worried.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Gyrgum",
+    "fact": "Gyrgum realizes he is not a great cook but can put on a great show.",
+    "source_quote": "he realizes that he\u2019s not a great cook and that many ingredients are unfamiliar, but he can put on a great show.",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Gyrgum",
+    "fact": "Gyrgum returns to the kitchen on the next day with six Drow soldiers present.",
+    "source_quote": "The next day, Gyrgum goes to the kitchen again. This time, six Drow soldiers are present.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Gyrgum",
+    "fact": "Gyrgum thinks not speaking Undercommon is awkward but manageable because others can translate.",
+    "source_quote": "Not speaking undercommon is awkward, but then again, understanding the language of your captors may be a problem. And anyway, I\u2019ve got plenty of folks around me who can translate.",
+    "quote_verified": true,
+    "passes": [
+      "interiority",
+      "large"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "npc",
+    "subject": "Gyrgum",
+    "fact": "Gyrgum wonders how much time has passed since his last imprisonment.",
+    "source_quote": "\u201cHow much time has passed?\u201d he wonders.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Gyrgum",
+    "fact": "Gyrgum wonders how to steal a knife again.",
+    "source_quote": "The orc is pleased but wonders how to steal a knife.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Ilvara",
+    "fact": "Ilvara is a drow leader who maintains control over the group through her polycule hierarchy. She has discarded Jorlan and elevated Shoor, and is implied to hoard all loot, including the prisoners' belongings.",
+    "source_quote": "Thorin thinks for a moment, \u201cI know where our stuff is. It\u2019s in the chest in Ilvara\u2019s room. The Drow leader probably keeps all the loot for herself. And if any other Drow had our stuff, they would taunt us.\u201d",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Ilvara",
+    "fact": "Ilvara is the Drow leader who keeps loot in her room.",
+    "source_quote": "It\u2019s in the chest in Ilvara\u2019s room. The Drow leader probably keeps all the loot for herself.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Ilvara",
+    "fact": "Ilvara is the high priestess of Lolth and commander of the outpost, who uses a scourge and demands obedience.",
+    "source_quote": "Ilvara is there. She smiles and has her scourge handy... \u201cI am the high priestess of Lolth and commander. Do not spill any water, do not touch anything, and fill my bath.\u201d",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Ilvara",
+    "fact": "Ilvara is the high priestess of Lolth and commander of the priestess\u2019s tower; she is cold, calculating, and terrifyingly precise in her control over slaves, wielding a scourge and enforcing obedience with threats of violence; her quarters are a shrine-like chamber adorned with dark silken mats, a zurkhwood pedestal, and a sculpted spider idol with jet eyes.",
+    "source_quote": "Ilvara smiled and had her scourge handy as she flicked it toward her prisoners. 'This is my quarters. I am the high priestess of Lolth and commander. Do not spill any water, do not touch anything, and fill my bath.'",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Ilvara",
+    "fact": "Ilvara smiles and holds her scourge as she speaks to prisoners.",
+    "source_quote": "Ilvara is there. She smiles and has her scourge handy as she flicks it toward her prisoners.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Ilvara",
+    "fact": "Ilvara uses a scourge to remind slaves to obey.",
+    "source_quote": "Mistress Ilvara liked to impress her will with a scourge in hand and remind her slaves that our lives now belong to her.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Ilvara",
+    "fact": "Ilvara was in charge when Thorin and the others first arrived.",
+    "source_quote": "Thorin recalls how Ilvara was in charge when they first arrived here.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Ilvara",
+    "fact": "Thorin notices Ilvara is manic, unlike the typical cold Drow.",
+    "source_quote": "As Thorin stares at Ilvara some more, he realizes there is something manic about her.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Imbros",
+    "fact": "Imbros is a Drow overseer who commands Gyrgum, Shuushar, Topsy, and Turvy to cook; his authority is recognized by the prisoners; he is referenced but not directly seen in the scene.",
+    "source_quote": "Excellent, Imbros wants us to cook.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Imbros",
+    "fact": "Imbros is a Drow who wants Gyrgum, Shuushar, Topsy, and Turvy to cook.",
+    "source_quote": "Excellent, Imbros wants us to cook.",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "sweep"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "npc",
+    "subject": "Jaezred",
+    "fact": "Jaezred is a Drow sitting at a table in the mess hall, looking hungry.",
+    "source_quote": "There are a pair of Drow sitting at a table, looking hungry. Shuushar mutters: \u201cJaezred and Kalannar\u201d",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "sweep"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "npc",
+    "subject": "Jimjar",
+    "fact": "Jimjar asks if anyone wants to bet on who dies first if they fall.",
+    "source_quote": "Wanna bet on who would die first when we splat on the ground?",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Jimjar",
+    "fact": "Jimjar asks, \u201cWho wants to bet on which path the new guys will want to go? Will they go with the myconid kid? The enlightened kuo-toan? The Destiny Weilding Derro? Or trust the two deep gnomes?\u201d",
+    "source_quote": "Jimjar adds, \u201cWho wants to bet on which path the new guys will want to go? Will they go with the myconid kid? The enlightened kuo-toan? The Destiny Weilding Derro? Or trust the two deep gnomes?\u201d",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Jimjar",
+    "fact": "Jimjar bets on which path the new guys will choose.",
+    "source_quote": "Jimjar adds, \u201cWho wants to bet on which path the new guys will want to go? Will they go with the myconid kid? The enlightened kuo-toan? The Destiny Weilding Derro? Or trust the two deep gnomes?\u201d",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Jimjar",
+    "fact": "Jimjar is a derro who wagers on which escape route the newcomers will choose, listing potential influences: the myconid, the kuo-toan, the Destiny Weilding Derro, or the two deep gnomes.",
+    "source_quote": "Jimjar adds, \u201cWho wants to bet on which path the new guys will want to go? Will they go with the myconid kid? The enlightened kuo-toan? The Destiny Weilding Derro? Or trust the two deep gnomes?\u201d",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Jimjar",
+    "fact": "Jimjar is a prisoner who constantly tries to make bets about the dangers of the outpost; he speculates on who will die first when falling, how many buckets will be filled, and how many times the basket will be dropped; he is assigned to the winch crew with Zalthir and others; he mutters darkly about the risks and engages others in morbid wagers.",
+    "source_quote": "Wanna bet on who would die first when we splat on the ground?",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Jimjar",
+    "fact": "Jimjar is a prisoner who repeatedly tries to make bets about the winch operations and escape routes.",
+    "source_quote": "Jimjar, next to him, mutters, \u201cWanna bet on who would die first when we splat on the ground?\u201d ... Jimjar again tries to make a bet... Jimjar adds, \u201cWho wants to bet on which path the new guys will want to go?\u201d",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Jimjar",
+    "fact": "Jimjar is assigned to cargo-loading duties.",
+    "source_quote": "The next Drow appears and points to Zalthir, Buppido, Jimjar, and Eldeth.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Jimjar",
+    "fact": "Jimjar mutters, \u201cWanna bet on who would die first when we splat on the ground?\u201d",
+    "source_quote": "Jimjar, next to him, mutters, \u201cWanna bet on who would die first when we splat on the ground?\u201d",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Jimjar",
+    "fact": "Jimjar says, \u201cWanna get in on some juicy action on how many times they\u2019ll do this?\u201d",
+    "source_quote": "Jimjar shouts, \u201cWanna get in on some juicy action on how many times they\u2019ll do this?\u201d",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Jimjar",
+    "fact": "Jimjar tries to make a bet: \u201cWanna get some action on how many buckets will be filled?\u201d",
+    "source_quote": "Jimjar again tries to make a bet, \u201cWanna get some action on how many buckets will be filled?\u201d",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Jorlan",
+    "fact": "Jorlan asks Thorin if he would try to escape if given the chance.",
+    "source_quote": "Jorlan turns to Thorin, \u201cIf I made it possible for you to escape, would you try?\u201d",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Jorlan",
+    "fact": "Jorlan is a former leader of Ilvara\u2019s polycule, disfigured by acid and discarded after losing a finger. He offers to help the prisoners escape to embarrass Shoor and make Ilvara regret her mistake. He opens the prison door, creates a distraction, and guides them toward the armory.",
+    "source_quote": "Jorlan says, \u201cThat\u2019s Jorlan. He used to be the number one, but after he got hit with acid, his face was disfigured and he lost a finger, Ilvara\u2019s dropped him, and now Shoor is number one.\u201d Jorlan turns to Thorin, \u201cIf I made it possible for you to escape, would you try?\u201d",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Jorlan",
+    "fact": "Jorlan is a former number-one servant of Ilvara who was disfigured by acid and now offers to help the prisoners escape.",
+    "source_quote": "Sethir says, \u201cThat\u2019s Jorlan. He used to be the number one, but after he got hit with acid, his face was disfigured and he lost a finger, Ilvara\u2019s dropped him... Jorlan turns to Thorin, \u201cIf I made it possible for you to escape, would you try?\u201d",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Jorlan",
+    "fact": "Jorlan says, \u201cI don\u2019t care if you succeed. I just want you to try. It will make Shoor look ridiculous, and make Ilvara realize what a terrible mistake she\u2019s made. And if you do make a mistake, she\u2019ll be embarrassed and need my help to find you and realize what a mistake she made.\u201d",
+    "source_quote": "Jorlan says, \u201cI don\u2019t care if you succeed. I just want you to try. It will make Shoor look ridiculous, and make Ilvara realize what a terrible mistake she\u2019s made. And if you do make a mistake, she\u2019ll be embarrassed and need my help to find you and realize what a mistake she made.\u201d",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Jorlan",
+    "fact": "Jorlan says, \u201cI will leave the door to the prison open, create a distraction. The path to the armory will be unguarded. Grab the weapons and flee.\u201d",
+    "source_quote": "I will leave the door to the prison open, create a distraction. The path to the armory will be unguarded. Grab the weapons and flee.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Jorlan",
+    "fact": "Jorlan says, \u201cUse the waterfall to slide down, or jump into the spiderwebs and then jump into the pools of water.\u201d",
+    "source_quote": "Use the waterfall to slide down, or jump into the spiderwebs and then jump into the pools of water.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Kalannar",
+    "fact": "Kalannar is a Drow sitting at a table in the mess hall, looking hungry.",
+    "source_quote": "There are a pair of Drow sitting at a table, looking hungry. Shuushar mutters: \u201cJaezred and Kalannar\u201d",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "sweep"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "npc",
+    "subject": "Prince Derendil",
+    "fact": "Prince Derendil asserts that there is no abolitionist movement among Lolth-worshippers, implying that any aid offered must serve the drow\u2019s own benefit, not the prisoners\u2019 freedom.",
+    "source_quote": "Prince Derendil explains, \u201cWell we know that there is no abolitionist movement amongst those who worship Lolth. It has to be for his benefit.\u201d",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Prince Derendil",
+    "fact": "Prince Derendil is a deluded Quaggoth to be assigned to daily chores.",
+    "source_quote": "Ront and Prince Derendil, the deluded Quaggoth, are to follow this Drow.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Prince Derendil",
+    "fact": "Prince Derendil is a deluded Quaggoth who recalls Ilvara\u2019s greeting and her phrase about accepting fate.",
+    "source_quote": "Prince Derendil mutters, \u201c I remember how she greeted me when I arrived. She was robed in silken garments and flanked by two male drow, one of whom had a mass of scars along one side of his face and neck. Mistress Ilvara liked to impress her will with a scourge in hand and remind her slaves that our lives now belong to her. Every time, she would end her pep talks with the phrase - \u2018Accept your fate, learn to obey, and you may survive.\u2019\u201d",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Prince Derendil",
+    "fact": "Prince Derendil is a nobleman enslaved in the prison complex; he recalls being greeted by Ilvara in silken garments flanked by scarred drow, and he resists his enslavement, provoking violent threats from Ilvara; he is present during key moments of tension and escape planning.",
+    "source_quote": "Prince Derendil mutters, 'I remember how she greeted me when I arrived. She was robed in silken garments and flanked by two male drow, one of whom had a mass of scars along one side of his face and neck.'",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Prince Derendil",
+    "fact": "Prince Derendil remembers Ilvara greeting him robed in silken garments with two male drow, one scarred.",
+    "source_quote": "I remember how she greeted me when I arrived. She was robed in silken garments and flanked by two male drow, one of whom had a mass of scars along one side of his face and neck.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Prince Derendil",
+    "fact": "Prince Derendil remembers how Ilvara greeted him upon arrival, robed in silken garments and flanked by scarred drow.",
+    "source_quote": "I remember how she greeted me when I arrived. She was robed in silken garments and flanked by two male drow, one of whom had a mass of scars along one side of his face and neck. Mistress Ilvara liked to impress her will with a scourge in hand and remind her slaves that our lives now belong to her. Every time, she would end her pep talks with the phrase - \u2018Accept your fate, learn to obey, and you may survive.\u2019",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Prince Derendil",
+    "fact": "Prince Derendil says there is no abolitionist movement among Lolth worshippers.",
+    "source_quote": "Prince Derendil explains, \u201cWell we know that there is no abolitionist movement amongst those who worship Lolth. It has to be for his benefit.\u201d",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Ront",
+    "fact": "Ront is a Quaggoth who is led by Beremil to carry water.",
+    "source_quote": "Ront and Prince Derendil, the deluded Quaggoth, are to follow this Drow.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Ront",
+    "fact": "Ront is a deluded Quaggoth referred to as 'the Prince'; he is seen filling buckets of water alongside Thorin; he is under the command of a Drow and participates in daily labor; his delusion is acknowledged by the prisoners.",
+    "source_quote": "Ront and Prince Derendil, the deluded Quaggoth, are to follow this Drow.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Ront",
+    "fact": "Ront is to follow a Drow for daily chores.",
+    "source_quote": "Ront and Prince Derendil, the deluded Quaggoth, are to follow this Drow.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Sarith",
+    "fact": "Sarith is a member of the group who confirms Zalthir\u2019s observation about debts and repayment, nodding in agreement to the system of wagers and future collection.",
+    "source_quote": "Sarith nods.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Sarith",
+    "fact": "Sarith is a prisoner assigned with Daz and Stool to clean chamber pots.",
+    "source_quote": "Another Drow points at Daz, Sarith, and Stool.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Sarith",
+    "fact": "Sarith is pointed out by a Drow for chamber pot cleaning duties.",
+    "source_quote": "Another Drow points at Daz, Sarith, and Stool.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Sarith",
+    "fact": "Sarith nods in acknowledgment.",
+    "source_quote": "Sarith nods.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Sarith",
+    "fact": "Sarith nods in response to the wager offer.",
+    "source_quote": "Sarith nods.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Sethir",
+    "fact": "Sethir is a member of Ilvara\u2019s polycule who identifies Jorlan to Thorin.",
+    "source_quote": "Sethir says, \u201cThat\u2019s Jorlan. He used to be the number one, but after he got hit with acid, his face was disfigured and he lost a finger, Ilvara\u2019s dropped him, and now Shoor is number one.\u201d",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Sethir",
+    "fact": "Sethir is a member of Ilvara\u2019s polycule who provides key information about Jorlan\u2019s fall from grace and the current hierarchy. He also mentions the presence of a grey ooze in the pool used for waste processing.",
+    "source_quote": "Sethir says, \u201cThat\u2019s Jorlan. He used to be the number one, but after he got hit with acid, his face was disfigured and he lost a finger, Ilvara\u2019s dropped him, and now Shoor is number one.\u201d Daz wakes up and remembers, \u201cRight, Sethir said there is a grey ooze in the pool. That\u2019s how the waste gets processed.\u201d",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Sethir",
+    "fact": "Sethir is referenced as having mentioned a grey ooze in the pool.",
+    "source_quote": "Sethir said there is a grey ooze in the pool.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Sethir",
+    "fact": "Sethir tells Thorin that Jorlan used to be number one but was disfigured by acid and demoted.",
+    "source_quote": "Sethir says, \u201cThat\u2019s Jorlan. He used to be the number one, but after he got hit with acid, his face was disfigured and he lost a finger, Ilvara\u2019s dropped him, and now Shoor is number one.\u201d",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Shoor",
+    "fact": "Shoor is the current leader of Ilvara\u2019s polycule, having replaced Jorlan after his disfigurement. He is the target of Jorlan\u2019s sabotage plan, intended to make him look ridiculous.",
+    "source_quote": "Sethir says, \u201cThat\u2019s Jorlan. He used to be the number one, but after he got hit with acid, his face was disfigured and he lost a finger, Ilvara\u2019s dropped him, and now Shoor is number one.\u201d",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Shoor",
+    "fact": "Shoor is the current number-one servant of Ilvara, replacing Jorlan.",
+    "source_quote": "Sethir says, \u201c... now Shoor is number one.\u201d",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Shuushar",
+    "fact": "Shuushar has chosen not to repeat offensive words as part of his spiritual balance.",
+    "source_quote": "As part of my attempt to find spiritual balance and cope with the madness of my race, I have chosen not to repeat offensive words.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Shuushar",
+    "fact": "Shuushar is a Kuo-Toan who translates Drow speech for Gyrgum and cautions him about cooking being a better distraction.",
+    "source_quote": "The Kuo-Toan Shuushar the Awakened notices and tells him to relax... Shuushar translates, \u201cCan you cook? That would be a better distraction.\u201d",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Shuushar",
+    "fact": "Shuushar is a kuo-toan who insists the direct path leads through Menzoberranzan, requiring a detour to Darklake to share enlightenment with his people before proceeding.",
+    "source_quote": "Shuushar objects, \u201cYes, but the direct path is through Menzoberranzan. We will have to go to Darklake first, and we must visit my people to share the enlightenment! From there, the path is good.\u201d",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Shuushar",
+    "fact": "Shuushar is an Awakened Kuo-Toan who communicates through gestures and partial translation; he claims to have chosen spiritual balance by avoiding offensive language but translates every insult; he smiles in a way that may be a smile; he is assigned to cook with Gyrgum and the others under Imbros; he mediates between prisoners and Drow, and attempts to orchestrate distractions for food theft.",
+    "source_quote": "I have chosen not to repeat offensive words.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Shuushar",
+    "fact": "Shuushar mutters, \u201cJaezred and Kalannar\u201d when identifying the Drow.",
+    "source_quote": "Shuushar mutters: \u201cJaezred and Kalannar\u201d",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Shuushar",
+    "fact": "Shuushar objects, \u201cYes, but the direct path is through Menzoberranzan. We will have to go to Darklake first, and we must visit my people to share the enlightenment! From there, the path is good.\u201d",
+    "source_quote": "Shuushar objects, \u201cYes, but the direct path is through Menzoberranzan. We will have to go to Darklake first, and we must visit my people to share the enlightenment! From there, the path is good.\u201d",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Shuushar the Awakened",
+    "fact": "Shuushar explains that the Drow soldiers heard about Gyrgum\u2019s cooking and wanted to experience it.",
+    "source_quote": "Shuushar explains that they heard about his fantastic show and wanted to experience it themselves.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Shuushar the Awakened",
+    "fact": "Shuushar objects and says they must go to Darklake first to visit his people and share enlightenment.",
+    "source_quote": "Shuushar objects, \u201cYes, but the direct path is through Menzoberranzan. We will have to go to Darklake first, and we must visit my people to share the enlightenment! From there, the path is good.\u201d",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Shuushar the Awakened",
+    "fact": "Shuushar seems excited about Gyrgum\u2019s cooking but cautions him.",
+    "source_quote": "Even Shuushar seems excited, although he cautions the orc, \u201cIf you were to show this cooking to my people, they might imagine a god like you.\u201d",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Shuushar the Awakened",
+    "fact": "Shuushar tells Gyrgum he doesn\u2019t speak undercommon.",
+    "source_quote": "\u201cI don\u2019t speak undercommon.\u201d",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Shuushar the Awakened",
+    "fact": "Shuushar the Awakened tells Gyrgum to relax about the chores.",
+    "source_quote": "the Kuo-Toan Shuushar the Awakened notices and tells him to relax",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Shuushar the Awakened",
+    "fact": "Shuushar translates every insult the Drow uses, omitting offensive words.",
+    "source_quote": "I have chosen not to repeat offensive words.\u201d And then Shuushar proceeds to translate every insult the drow used.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Shuushar the Awakened",
+    "fact": "Shuushar translates that stealing a knife will result in awful things being done to Gyrgum.",
+    "source_quote": "Shuushar translates, \u201cThey will do awful things to you if you steal a knife.\u201d",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Stool",
+    "fact": "Stool is a myconid who objects to the plan to go through the great circle, asserting his people\u2019s connection to the area and opposing routes that endanger them.",
+    "source_quote": "Stool objects, \u201cNo to the great circle! My people!\u201d",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Stool",
+    "fact": "Stool is a prisoner who spreads spores to create a group mind among the prisoners and objects to going to Gracklstugh.",
+    "source_quote": "The stool is happy to be talking to everyone and has spread his spores so that everyone in the prison cell is in a group mind. ... Stool objects, \u201cNo to the great circle! My people!\u201d",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Stool",
+    "fact": "Stool is pointed out by a Drow for chamber pot cleaning duties.",
+    "source_quote": "Another Drow points at Daz, Sarith, and Stool.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Stool",
+    "fact": "Stool objects to going to Gracklstugh and says, \u201cNo to the great circle! My people!\u201d",
+    "source_quote": "Stool objects, \u201cNo to the great circle! My people!\u201d",
+    "quote_verified": true,
+    "passes": [
+      "interiority",
+      "large"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "npc",
+    "subject": "Stool",
+    "fact": "Stool spreads spores in the prison cell, creating a group mind.",
+    "source_quote": "Stool is happy to be talking to everyone and has spread his spores so that everyone in the prison cell is in a group mind.",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin believes the Drow leader keeps all the loot for herself.",
+    "source_quote": "The Drow leader probably keeps all the loot for herself.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin corrects Buppido, saying, \u201cWe escape?\u201d",
+    "source_quote": "Thorin corrects him, \u201cWe escape?\u201d",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is a Quaggoth referred to alongside Ront as 'the Prince'; he is seen filling buckets of water; he is under Drow command and participates in labor; his identity as a deluded figure is noted by the prisoners.",
+    "source_quote": "As the four prisoners enter the basket, Balok pulls a stopper, and the basket flies over the chasm. The two quahogs let it drop. ... Jimjar turns to anyone, 'Wanna get some action on how many buckets will be filled?'",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is a dwarf raised by Giants who observes the drow with skepticism, noting Ilvara's manic behavior and questioning Buppido\u2019s delusions of divinity; he has pledged his sword and life to protect Buppido in exchange for the promise of collective escape.",
+    "source_quote": "Thorin corrected Buppido: 'We escape?' ... 'Well, how else will we protect you so that you can fulfill the divine plan?'",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is a dwarf who observes the waterfall, speaks with Jorlan, and participates in escape planning.",
+    "source_quote": "Thorin is standing on the other side of the bridge south of the prison cell... Thorin remembers all these free-for-all conversations... Thorin connected to his friends via the spores... Thorin is satisfied.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is a dwarf who recalls chaotic conversations from his youth, and is surprised when a member of Ilvara\u2019s polycule brings food. He connects to his companions via spores to question Jorlan\u2019s motives, and ultimately accepts the escape plan after Jorlan\u2019s assurances.",
+    "source_quote": "Thorin connected to his friends via the spores and asked, \u201cHow do we know that he isn\u2019t here to entrap us?\u201d Thorin is satisfied. \u201cWhat\u2019s the plan?\u201d",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is surprised to see Jorlan bring food.",
+    "source_quote": "he is surprised to see a member of Ilvara\u2019s polycule bring it. Sethir says, \u201cThat\u2019s Jorlan.\u201d",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin knows where their stuff is: in the chest in Ilvara\u2019s room, and the Drow leader probably keeps all the loot for herself.",
+    "source_quote": "I know where our stuff is. It\u2019s in the chest in Ilvara\u2019s room. The Drow leader probably keeps all the loot for herself. And if any other Drow had our stuff, they would taunt us.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin recalls how Ilvara was in charge when they first arrived.",
+    "source_quote": "Thorin recalls how Ilvara was in charge when they first arrived here.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin remembers free-for-all conversations from his youth, with everyone shouting and not listening.",
+    "source_quote": "Thorin remembers all these free-for-all conversations when he was younger. Everyone was talking over everyone, everyone was shouting, and everyone was not listening.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin remembers that their stuff is in the chest in Ilvara\u2019s room.",
+    "source_quote": "I know where our stuff is. It\u2019s in the chest in Ilvara\u2019s room.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin says if any other Drow had their stuff, they would taunt them.",
+    "source_quote": "And if any other Drow had our stuff, they would taunt us.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin stands on the bridge south of the prison cell.",
+    "source_quote": "Thorin is standing on the other side of the bridge south of the prison cell.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin thinks, 'I know where our stuff is. It\u2019s in the chest in Ilvara\u2019s room. The Drow leader probably keeps all the loot for herself. And if any other Drow had our stuff, they would taunt us.'",
+    "source_quote": "Thorin thinks for a moment, \"I know where our stuff is. It\u2019s in the chest in Ilvara\u2019s room. The Drow leader probably keeps all the loot for herself. And if any other Drow had our stuff, they would taunt us.\"",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin thinks, \u201cSomething for later.\u201d when seeing the spider statue\u2019s jet eyes.",
+    "source_quote": "\u201cSomething for later.\u201d",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin turns to the Drow and says their deal is accepted.",
+    "source_quote": "The dwarf turns to the Drow and says, \u201cYour deal is accepted. When?\u201d",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Topsy",
+    "fact": "Topsy is a deep gnome who advocates for Blingdenstone as the escape route, citing a known exit from the Underdark there.",
+    "source_quote": "Topsy says, \u201cWe should go to Blingdenstone. I know there is a way out of the Underdark from there.\u201d",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Topsy",
+    "fact": "Topsy is a deep gnome who whispers to Turvy and later steals knives during Gyrgum\u2019s cooking show.",
+    "source_quote": "Topsy and Turvy whisper to each other... Topsy and Turvy steal several knives.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Topsy",
+    "fact": "Topsy is assigned to cooking duties with Gyrgum, Shuushar, and Turvy.",
+    "source_quote": "Then, at last, it\u2019s Gyrgum\u2019s turn. A Drow appears and points at Shuushar, Topsy, Turvy, and Gyrgum.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Topsy",
+    "fact": "Topsy is excited about Gyrgum\u2019s cooking.",
+    "source_quote": "Topsy and Turvy are very excited about Gyrgum\u2019s cooking.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Topsy",
+    "fact": "Topsy says they should go to Blingdenstone because there is a way out of the Underdark.",
+    "source_quote": "Topsy says, \u201cWe should go to Blingdenstone. I know there is a way out of the Underdark from there.\u201d",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Topsy",
+    "fact": "Topsy says, \u201cWe should go to Blingdenstone. I know there is a way out of the Underdark from there.\u201d",
+    "source_quote": "Topsy says, \u201cWe should go to Blingdenstone. I know there is a way out of the Underdark from there.\u201d",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Topsy",
+    "fact": "Topsy whispers to Turvy about stealing food.",
+    "source_quote": "Topsy and Turvy whisper to each other.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Topsy",
+    "fact": "Topsy winks at Gyrgum, indicating they can steal a knife.",
+    "source_quote": "Topsy and Turvy look at him and wink.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Turvy",
+    "fact": "Turvy is a deep gnome who whispers to Topsy and later steals knives during Gyrgum\u2019s cooking show.",
+    "source_quote": "Topsy and Turvy whisper to each other... Topsy and Turvy steal several knives.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Turvy",
+    "fact": "Turvy is assigned to cooking duties with Gyrgum, Shuushar, and Topsy.",
+    "source_quote": "Then, at last, it\u2019s Gyrgum\u2019s turn. A Drow appears and points at Shuushar, Topsy, Turvy, and Gyrgum.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Turvy",
+    "fact": "Turvy is excited about Gyrgum\u2019s cooking.",
+    "source_quote": "Topsy and Turvy are very excited about Gyrgum\u2019s cooking.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Turvy",
+    "fact": "Turvy whispers to Topsy about stealing food.",
+    "source_quote": "Topsy and Turvy whisper to each other.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Turvy",
+    "fact": "Turvy winks at Gyrgum, indicating they can steal a knife.",
+    "source_quote": "Topsy and Turvy look at him and wink.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir considers fire-breathing as a simpler way to cut the rope.",
+    "source_quote": "But I breathe fire, and fire breathing is a simpler way to cut a rope\u2026",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is a dragonborn monk detailed to the winch, tasked with cleaning up after Daz, Stool, and Sarith, and now uses the cleaning to examine how to damage the winch to aid escape. He is focused on spider silk's role in the mechanism and considers fire-breathing as a means to cut ropes. He took a piece of rope to test its resistance later.",
+    "source_quote": "But I breathe fire, and fire breathing is a simpler way to cut a rope\u2026 He takes a small piece of rope to test its resistance later.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is a dragonborn monk who notices a spider web, a pool of water, and pockets a piece of paper.",
+    "source_quote": "Zalthir notices a spider web. Below the spider\u2019s web, he notices a pool of water. ... He pockets the paper.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is a prisoner who notices environmental details such as spider webs, water pools, and a paper with names of debtors; he pockets the paper after noticing it in the basket; he observes Elspeth taking a comb and realizes he has little use for it; he is assigned to clean and unload cargo with Balok's group; he is aware of the lethal drop from the outpost and the danger of the winch system.",
+    "source_quote": "It\u2019s unclear where, which city, what favor, and why.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is assigned to the winch again on the next day.",
+    "source_quote": "The dragonborn monk is once again detailed to the winch.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is pointed out by a Drow for cargo-loading duties.",
+    "source_quote": "The next Drow appears and points to Zalthir, Buppido, Jimjar, and Eldeth.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir observes that the speaker seems confident they will escape and live.",
+    "source_quote": "Zalthir says, \u201cYou seem to be confident we will escape and live.\u201d",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir says, 'You seem to be confident we will escape and live.'",
+    "source_quote": "Zalthir says, \"You seem to be confident we will escape and live.\"",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir walks by while Thorin fills his bucket.",
+    "source_quote": "As he fills his bucket, he notices Zalthir walking by.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "black candles",
+    "fact": "The silver candlesticks hold thick black candles and are unlit.",
+    "source_quote": "They hold thick black candles and are unlit.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "black-stained zurkhwood chest",
+    "fact": "A heavy chest of black-stained zurkhwood sits at the foot of Ilvara\u2019s bed.",
+    "source_quote": "A heavy chest of black-stained zurkhwood sits at the foot of the bed.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "chest",
+    "fact": "The chest holds the prisoners\u2019 belongings and is located in Ilvara\u2019s room.",
+    "source_quote": "It\u2019s in the chest in Ilvara\u2019s room.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "chest",
+    "fact": "The chest is located in Ilvara\u2019s room and contains the prisoners\u2019 belongings.",
+    "source_quote": "It\u2019s in the chest in Ilvara\u2019s room.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "chest in Ilvara\u2019s room",
+    "fact": "The chest in Ilvara\u2019s room contains the prisoners' personal belongings, which Thorin identifies as the key to reclaiming their gear before escape.",
+    "source_quote": "Thorin thinks for a moment, \u201cI know where our stuff is. It\u2019s in the chest in Ilvara\u2019s room. The Drow leader probably keeps all the loot for herself. And if any other Drow had our stuff, they would taunt us.\u201d",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Comb",
+    "fact": "A comb is found and pocketed by Elspeth after Zalthir takes the paper; it has no apparent utility to the prisoners; its origin and purpose are unclear.",
+    "source_quote": "She pockets the comb. He has little use for combs.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "comb",
+    "fact": "Eldeth finds and pockets a comb.",
+    "source_quote": "He notices that Elspeth sees him pocket the paper. He notices that she finds a comb. She pockets the comb.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "comb",
+    "fact": "Elspeth finds and pockets a comb while Zalthir pockets the piece of paper.",
+    "source_quote": "He notices that Elspeth sees him pocket the paper. He notices that she finds a comb. She pockets the comb.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "gears",
+    "fact": "Zalthir notices the gears the spider silk runs through.",
+    "source_quote": "and the winch and gears that the spider silk goes through.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "hand-cranked horizontal spool",
+    "fact": "The winch-and-basket device includes a hand-cranked horizontal spool.",
+    "source_quote": "a hand-cranked horizontal spool",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "heavy iron brazier",
+    "fact": "The mess hall contains a heavy iron brazier that provides cooking heat and dim light.",
+    "source_quote": "A heavy iron brazier provides cooking heat and dim light",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "heavy woven basket",
+    "fact": "The winch-and-basket device has a heavy woven basket suspended at the end of the spider silk cord.",
+    "source_quote": "a heavy woven basket suspended at the end",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "heavy woven basket",
+    "fact": "The winch-and-basket device suspends a heavy woven basket.",
+    "source_quote": "a heavy woven basket suspended at the end.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Ilvara\u2019s Scourge",
+    "fact": "Ilvara\u2019s Scourge is a whip-like instrument of control, always kept handy; it is used to flick warnings at prisoners and enforce obedience; its presence is a constant psychological threat, symbolizing the drow\u2019s mastery over pain and submission.",
+    "source_quote": "Ilvara is there. She smiles and has her scourge handy as she flicks it toward her prisoners.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "iron brazier",
+    "fact": "A heavy iron brazier provides cooking heat and dim light in the mess hall.",
+    "source_quote": "A heavy iron brazier provides cooking heat and dim light",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "jet eyes of spider statue",
+    "fact": "The eight eyes of the spider statue are polished jet: four small ones worth 5 gp each and four larger ones worth 10 gp each.",
+    "source_quote": "The eight \u201ceyes\u201d of the spider statue are eight pieces of polished jet \u2014 four small ones worth five gp each and four larger ones worth ten gp each.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Knife",
+    "fact": "A knife is present in the kitchen area; Gyrgum attempts to steal it to sharpen it; Guldor takes it and delivers a clear threat of punishment; it is a tool of utility and potential rebellion.",
+    "source_quote": "They will do awful things to you if you steal a knife.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "knife",
+    "fact": "Gyrgum attempts to steal a knife from the kitchen, and Topsy and Turvy later steal several knives.",
+    "source_quote": "Grygum notices a knife and tries to steal it. ... Topsy and Turvy steal several knives.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "knife",
+    "fact": "Gyrgum tries to steal a knife from the kitchen.",
+    "source_quote": "As the lunch progresses, Grygum notices a knife and tries to steal it.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "large jet eyes value",
+    "fact": "The four larger jet eyes of the spider statue are worth ten gp each.",
+    "source_quote": "four larger ones worth ten gp each",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Paper with Names of Debtors",
+    "fact": "A piece of paper found in the basket lists names of individuals who owe favors to its holder; the location, nature of the favors, and reason for the list are unknown; Zalthir pockets it despite not understanding its full context.",
+    "source_quote": "A piece of paper with some names of people who owe a favor to the person who has the paper.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "piece of paper",
+    "fact": "Zalthir finds a piece of paper with names of people who owe a favor, and pockets it.",
+    "source_quote": "As the basket bounces, Zalthir notices a piece of paper with some names of people who owe a favor to the person who has the paper.",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "sweep"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "object",
+    "subject": "piece of rope",
+    "fact": "Zalthir takes a small piece of rope to test its resistance later, likely to determine if fire-breathing or other methods can sever it during escape.",
+    "source_quote": "He takes a small piece of rope to test its resistance later.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "piece of rope",
+    "fact": "Zalthir takes a small piece of rope to test its resistance.",
+    "source_quote": "He takes a small piece of rope to test its resistance later.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "rope ladder",
+    "fact": "A rope ladder leads down from the shrine into the chamber.",
+    "source_quote": "A rope ladder leads down from the shrine into this chamber.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "silver candlesticks",
+    "fact": "Two heavy silver candlesticks worth 25 gp each flank the altar.",
+    "source_quote": "The altar is flanked by a pair of heavy silver candlesticks worth 25 gp each.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "silver candlestick value",
+    "fact": "The pair of heavy silver candlesticks flanking the Lolth altar are worth 25 gp each.",
+    "source_quote": "a pair of heavy silver candlesticks worth 25 gp each",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "small jet eyes value",
+    "fact": "The four small jet eyes of the spider statue are worth five gp each.",
+    "source_quote": "four small ones worth five gp each",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "spider silk",
+    "fact": "Spider silk is used in the winch mechanism, passing through the gears and basket. Zalthir examines it as a potential point of sabotage.",
+    "source_quote": "The two things that attract his attention are using spider silk to hold the basket and the winch and gears that the spider silk goes through.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "spider silk",
+    "fact": "Zalthir notices the spider silk holds the basket and winch.",
+    "source_quote": "The two things that attract his attention are using spider silk to hold the basket and the winch",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "spider silk cord",
+    "fact": "The winch-and-basket device uses a thin cord of strong spider silk.",
+    "source_quote": "a thin cord of strong spider silk",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "sweep"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "object",
+    "subject": "The Silver Candlesticks",
+    "fact": "Two heavy silver candlesticks worth 25 gp each flank the altar of Lolth; they hold thick black candles that remain unlit, suggesting ritual neglect, symbolic absence of divine light, or a waiting for a future moment of revelation.",
+    "source_quote": "The altar is flanked by a pair of heavy silver candlesticks worth 25 gp each. They hold thick black candles and are unlit.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "The Spider Idol of Lolth",
+    "fact": "The Spider Idol is a 10-foot-tall sculpture carved from zurkhwood, placed atop a pedestal at the center of the Priestess\u2019s Tower; its eight eyes are made of polished jet, four small (5 gp each) and four large (10 gp each); it is the focal point of worship and symbolizes Lolth\u2019s dominion over the drow.",
+    "source_quote": "In the middle of the chamber (at the center of the web) stands a broad pedestal carved from zurkhwood, with a 10-foot-high sculpted spider at its head.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Basket Drop Ritual",
+    "fact": "The ritualistic dropping of the basket by the Quahogs, accompanied by laughter from Balok and expected reactions from prisoners, suggests a pattern of psychological torture or control; its frequency and purpose are unexplained.",
+    "source_quote": "The two quahogs let it drop. The other prisoners are startled but seem to have been expecting this. Balok is laughing.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Buppido's divine plan",
+    "fact": "Buppido claims a divine plan requires escape and distraction, but the nature of the plan is vague and unverified.",
+    "source_quote": "The divine plan requires that you create a distraction while I escape.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Buppido\u2019s True Nature",
+    "fact": "Buppido claims to be a god or divine entity, but his insanity is recognized by Thorin and others; whether he is delusional, possessed, or genuinely divine remains unresolved \u2014 his influence grows even as his credibility falters.",
+    "source_quote": "Daz learns from the cleric that Buppido thinks he is some kind of god, or he is a god.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "debt repayment system",
+    "fact": "A system of wagers and future collection has been established for debts, with no money currently available. The group must survive and earn money to settle obligations.",
+    "source_quote": "Zalthir asks, \u201cWe have no money; how do we pay our debts?\u201d \u201cOh, don\u2019t worry, I have perfect recall. Just make your wager, and when you have money, I\u2019ll collect.\u201d",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "divine plan",
+    "fact": "Buppido claims a divine plan requires collaboration, information sharing, and distraction for his escape.",
+    "source_quote": "Buppido speaks, or instead projects his mind, \u201cThe Divine plan says we must collaborate and share information.\u201d ... Buppido says, \u201cThe divine plan requires that you create a distraction while I escape.\u201d",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "escape planning",
+    "fact": "The prisoners are discussing multiple escape routes: Gracklstugh, Blingdenstone, Darklake, and using waterfall or spiderwebs.",
+    "source_quote": "Buppido smiles, \u201cTo Gracklstugh, my homeland!\u201d ... Topsy says, \u201cWe should go to Blingdenstone. I know there is a way out of the Underdark from there.\u201d ... Shuushar objects, \u201cYes, but the direct path is through Menzoberranzan. We will have to go to Darklake first...\u201d ... Jorlan says, \u201cUse the waterfall to slide down, or jump into the spiderwebs and then jump into the pools of water.\u201d",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "escape plan sequence",
+    "fact": "The escape plan involves Jorlan leaving the prison door open, then reaching the armory, then using the waterfall or spiderwebs, then choosing a destination.",
+    "source_quote": "I will leave the door to the prison open, create a distraction. The path to the armory will be unguarded. Grab the weapons and flee. Use the waterfall to slide down, or jump into the spiderwebs and then jump into the pools of water. To Gracklstugh... to Blingdenstone... go to Darklake first...",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "escape route decision",
+    "fact": "The group is divided on the optimal escape route, with competing proposals from myconids, deep gnomes, kuo-toans, and others. The decision remains unresolved and is the subject of betting and suspicion.",
+    "source_quote": "Jimjar adds, \u201cWho wants to bet on which path the new guys will want to go? Will they go with the myconid kid? The enlightened kuo-toan? The Destiny Weilding Derro? Or trust the two deep gnomes?\u201d",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "group mind",
+    "fact": "Stool\u2019s spores create a group mind among the prisoners, enabling covert coordination.",
+    "source_quote": "The stool is happy to be talking to everyone and has spread his spores so that everyone in the prison cell is in a group mind. ... Daz notes that this allows them to coordinate any plans without being discovered.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Ilvara\u2019s pep talk",
+    "fact": "Prince Derendil recalls Ilvara\u2019s phrase: \u2018Accept your fate, learn to obey, and you may survive.\u2019",
+    "source_quote": "Mistress Ilvara liked to impress her will with a scourge in hand and remind her slaves that our lives now belong to her. Every time, she would end her pep talks with the phrase - \u2018Accept your fate, learn to obey, and you may survive.\u2019",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Jorlan's true motives",
+    "fact": "Jorlan offers to help the prisoners escape, but his motives are unclear and unverified.",
+    "source_quote": "I don\u2019t care if you succeed. I just want you to try. It will make Shoor look ridiculous, and make Ilvara realize what a terrible mistake she\u2019s made.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "nightmares in the slave pen",
+    "fact": "All prisoners suffer from recurring, vivid nightmares filled with moving shadows, oily tentacles, buzzing, howling, and erupting wounds. At least one wakes in cold sweat after every rest, sensing something far worse than the drow.",
+    "source_quote": "Everyone\u2019s sleep in the slave pen is troubled and fitful, filled with strange dreams and disturbing images. Dark shadows seem to move and reach out toward them as the characters wander lost through endless mazes of tunnels. Oily tentacles slide to brush up against them while a great buzzing and howling rises in the distance. Suppurating wounds burst open in clouds of spores or crawling masses of maggots or insects. At least one or more of the prisoners wakes in a cold sweat from these nightmares after every rest, feeling as though something is out there in the dark depths \u2014 something far worse than the drow.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Paper of Debtors",
+    "fact": "The paper with names of debtors is an unresolved plot thread; its origin, the identity of the holder, the nature of the favors owed, and the location of the debts are unknown; Zalthir has pocketed it, suggesting future relevance.",
+    "source_quote": "It\u2019s unclear where, which city, what favor, and why.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "something far worse than the drow",
+    "fact": "Prisoners feel something far worse than the Drow is present in the dark depths, emerging from their nightmares.",
+    "source_quote": "something far worse than the drow",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Spiritual Balance of Shuushar",
+    "fact": "Shuushar's claim of spiritual balance through avoiding offensive language is a recurring thread; his selective translation and moral posturing suggest deeper psychological conflict and potential betrayal or manipulation.",
+    "source_quote": "As part of my attempt to find spiritual balance and cope with the madness of my race, I have chosen not to repeat offensive words.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Stool's home",
+    "fact": "Stool wants to return to his people, but the location of his home is not specified in this session.",
+    "source_quote": "Stool objects, \u201cNo to the great circle! My people!\u201d",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "The Clean Lake Mystery",
+    "fact": "Despite daily deposits of filth from the tower\u2019s chamber pots, the lake remains unnaturally clean with no visible source of purification; this suggests magical intervention, hidden drainage, or a deeper secret controlled by the drow.",
+    "source_quote": "They look around and see nothing.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "The Scourge and the Spider",
+    "fact": "The recurring imagery of the scourge and the spider idol suggests a deeper ritual or prophecy tied to Lolth\u2019s worship; the unlit candles and the spider\u2019s jet eyes may be components of a pending sacrifice or awakening.",
+    "source_quote": "Ilvara liked to impress her will with a scourge in hand... This place is a shrine to Lolth, the drow\u2019s spider goddess.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "trust in Jorlan",
+    "fact": "The prisoners are uncertain whether Jorlan\u2019s aid is genuine or a trap set by Ilvara. Thorin voices suspicion, and Jorlan acknowledges their distrust, deepening the mystery.",
+    "source_quote": "Thorin connected to his friends via the spores and asked, \u201cHow do we know that he isn\u2019t here to entrap us?\u201d Jorlan smiles, \u201cI can sense you don\u2019t trust me. You are wise not to trust me.\u201d",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "wager",
+    "fact": "A wager is made about escaping and living, to be collected after a long rest.",
+    "source_quote": "\u201cWanna bet?\u201d",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "wager",
+    "fact": "The wager will be collected after a long rest, before assigned tasks.",
+    "source_quote": "\u201cAfter a long rest, before you go on your assigned tasks.\u201d",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Zalthir's escape plan",
+    "fact": "Zalthir considers using fire to cut the spider silk or ice to break gears, but no decision is made.",
+    "source_quote": "But I breathe fire, and fire breathing is a simpler way to cut a rope\u2026",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  }
+]

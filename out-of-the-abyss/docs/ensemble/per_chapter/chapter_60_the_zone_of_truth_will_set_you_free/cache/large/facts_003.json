@@ -1,0 +1,177 @@
+[
+  {
+    "type": "npc",
+    "subject": "Sylvira",
+    "fact": "Sylvira is a tiefling scholar who claims to have been alone and feverish between 12:30 AM and 1:00 AM, after returning from visiting her son, whom she constructed a Mordenkainen's Mansion for in the Abyss. She insists no one saw her after that hour, and any claims to the contrary come from the Avowed, specifically Teles Ahvoste.",
+    "source_quote": "I did sneak out. To visit my son. ... If anyone claimed to have seen me after that, it would be members of the avowed who had long nurtured hostility toward her. Great Readers included. She named Teles Ahvoste directly.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Teles Ahvoste",
+    "fact": "Teles Ahvoste is a Great Reader and long-standing rival of Janussi, having been passed over for Keeper of Tomes despite being older and more skilled. Sylvira asserts he has held a cold institutional hostility toward Janussi for nearly twenty years, making him a prime suspect with motive.",
+    "source_quote": "Teles had remained hostile toward Janussi for nearly twenty years, passed over for Keeper of Tomes despite being older than Janussi and generally considered the more skilled practitioner.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Kalan Strongbranch",
+    "fact": "Kalan Strongbranch sought Sylvira\u2019s intervention to preserve his position under Janussi, but was rejected. Sylvira dismissed him as a 'clown' and implied his research was third-rate, suggesting a personal animosity that may have motivated retaliation.",
+    "source_quote": "Janussi was right to want him gone. He was a clown, a boar, and his research was third-rate at best.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Bookwyrm",
+    "fact": "Bookwyrm opposed Kalan\u2019s proposal for investigative controls over Janussi\u2019s work, calling it absurd. She later argued with Alkrist after learning of the poisoning, stormed off, and was alone with Janussi\u2019s body afterward \u2014 potentially responsible for the heart removal.",
+    "source_quote": "When Janussi had raised it at some point, it was Bookwyrm who'd felt it was absurd. Bookwyrm who had pushed hardest against it.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Alkrist",
+    "fact": "Alkrist poisoned Janussi using midnight tears from the 1001 Tashalian Nights, re-wrapping the book after coating it. He admits to the act but denies killing Janussi, claiming the heart removal was done by someone else \u2014 likely Bookwyrm.",
+    "source_quote": "I didn't actually kill him. I just put some poison on a book.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daral Yashenti",
+    "fact": "Daral Yashenti was the intended recipient of the poisoned book, which Alkrist planned to frame. Sylvira dismissed his work as inferior, suggesting he lacked the capability or credibility to carry out the murder himself.",
+    "source_quote": "Daral: motive, but dismissed on execution grounds by someone who knew his work.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "The Avowed",
+    "fact": "The Avowed are an organization with long-standing hostility toward Sylvira and other Great Readers. Sylvira claims any post-12:30 sightings of her are fabrications by members of this group, specifically naming Teles Ahvoste as a key actor.",
+    "source_quote": "it would be members of the avowed who had long nurtured hostility toward her. Great Readers included. She named Teles Ahvoste directly.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Great Readers",
+    "fact": "The Great Readers are an elite scholarly order within Candlekeep, of which Sylvira, Teles Ahvoste, and Janussi were members. Sylvira implies internal rivalries and institutional grudges are common, and that the group may have been used to discredit her.",
+    "source_quote": "Great Readers included. She named Teles Ahvoste directly.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "poisoning of Janussi",
+    "fact": "Janussi was poisoned with midnight tears, applied to a gift-wrapped book \u2014 1001 Tashalian Nights \u2014 by Alkrist. The poison was carefully concealed, and the wrapping was later discarded in the dining hall trash, bearing a clean cut suggesting premeditated tampering.",
+    "source_quote": "Someone had taken something sharp to this paper, and then wrapped it back around the contents, and tied the bow... That is not a crime of opportunity. That is a crime of preparation.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "heart removal",
+    "fact": "After Janussi\u2019s death by poison, his heart was ripped from his chest \u2014 an act not committed by Alkrist, who was unaware of it. Sylvira and Alkrist both imply Bookwyrm, who was alone with the body after their argument, performed this act.",
+    "source_quote": "Ripped out his heart? What? His heart was ripped out? ... That was Bookwyrm.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "gift-wrapping deception",
+    "fact": "The book used to deliver midnight tears was wrapped in paper that was later cut and re-wrapped \u2014 evidence of deliberate misdirection. The clean cut on the wrapping paper, revealed by a restoration cantrip, indicates the gift was prepared to deceive Janussi into believing it was a genuine present.",
+    "source_quote": "A clean cut, straight as a rule, separate from all the ragged tears. Someone had taken something sharp to this paper...",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Alkrist\u2019s interrogation under truth spell",
+    "fact": "Alkrist confessed under Kalan\u2019s truth spell to poisoning Janussi, detailing the use of midnight tears, the re-wrapping of the book, the destruction of the vial label, and the hand-washing in a basin to remove traces. He denied knowledge of the heart removal.",
+    "source_quote": "The vial's label torn off and tied to the back of the Dead Winter tree as decoration. He was burning the label when Irony and Orrin Glass arrived... I washed my hands in it, just in case...",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Bookwyrm\u2019s confrontation with Alkrist",
+    "fact": "Bookwyrm confronted Alkrist after learning of the poisoning, argued loudly, stormed off, and was last seen alone with Janussi\u2019s body. Her subsequent actions \u2014 including the heart removal \u2014 remain unconfirmed but are strongly implied.",
+    "source_quote": "She went somewhere. He went home. Someone had known about the chalice... That someone was not Alkrist.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Sylvira\u2019s alibi timeline",
+    "fact": "Sylvira claims to have been with her son in the Abyss from shortly before 12:30 AM until returning to her chambers around 12:30, then alone and feverish until 1:00 AM. No one else is confirmed to have seen her after that hour, making her a credible witness against false sightings.",
+    "source_quote": "She'd returned to her chambers around 12:30, she thought. ... Between 12:30 and 1 in the morning, feverish, alone. After that, no one.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "1001 Tashalian Nights",
+    "fact": "This book was used by Alkrist to source the midnight tears poison. It was bookmarked at the relevant passage and later found in his chambers, indicating deliberate study and preparation.",
+    "source_quote": "The book was on a shelf, bookmarked. ... Midnight tears. Tidy, annotated, marked: the margins of a man who had been studying rather than reading.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "wrapping paper from Janussi\u2019s gift",
+    "fact": "The wrapping paper used to conceal the poisoned book was discarded in the dining hall trash. A restoration cantrip revealed a clean, deliberate cut \u2014 evidence the gift was tampered with before being presented.",
+    "source_quote": "A clean cut, straight as a rule, separate from all the ragged tears. Someone had taken something sharp to this paper...",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Mordenkainen's Mansion (constructed by Sylvira)",
+    "fact": "Sylvira constructed a Mordenkainen's Mansion in the Abyss for her son\u2019s protection. She claims to have visited him on the night of the murder, using it as her alibi for her whereabouts.",
+    "source_quote": "She'd been trying to coax him back into it. ... She'd constructed specifically for his protection.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "identity of the heart-remover",
+    "fact": "The person who removed Janussi\u2019s heart after the poisoning remains unidentified. Alkrist was unaware, Sylvira was alibied, and Bookwyrm was alone with the body \u2014 making her the prime suspect, though no confession exists.",
+    "source_quote": "That was Bookwyrm.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "origin of the midnight tears",
+    "fact": "The source of the midnight tears poison \u2014 whether stolen, brewed, or acquired from a forbidden archive \u2014 has not been determined. Alkrist claims it came from the book, but the origin of the substance itself is unverified.",
+    "source_quote": "The Oak Tree Apothecary, the stolen vial, peppermint spilled on the counter floor.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Sylvira\u2019s son\u2019s identity",
+    "fact": "Sylvira\u2019s son, born in the Abyss and living in a Mordenkainen\u2019s Mansion she built, is unnamed and unverified. His existence is her only alibi, but no witness or magical confirmation of his presence has been provided.",
+    "source_quote": "She had a son, born in the Abyss, living in a Mordenkainen's Mansion she'd constructed specifically for his protection.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Bookwyrm\u2019s motive for heart removal",
+    "fact": "Bookwyrm\u2019s motive for removing Janussi\u2019s heart \u2014 whether ritualistic, symbolic, or to frame someone \u2014 remains unknown. Her anger over the poisoning may have escalated into a vengeful act beyond Alkrist\u2019s intent.",
+    "source_quote": "She had been appalled, and they argued, and then she was gone.",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "Deadwinter evening",
+    "fact": "Kalan Strongbranch approached Sylvira before Deadwinter evening to plead for his job. This event occurred prior to the murder and established a prior grievance.",
+    "source_quote": "Kalan Strongbranch had come to her before Deadwinter evening, asking her to intercede with Janussi on his behalf...",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "11:45 PM",
+    "fact": "At 11:45 PM, Alkrist and A'lai met to discuss how to deal with Janussi, planning the poisoning using midnight tears. This was the operational planning phase of the murder.",
+    "source_quote": "Eleven forty-five. A'lai and Alkrist, discussing what needed to be done about their mutual problem.",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "12:30 AM",
+    "fact": "Sylvira returned to her chambers at approximately 12:30 AM, claiming to have been with her son in the Abyss. This marks the start of her alibi period, which she claims lasted until 1:00 AM.",
+    "source_quote": "She'd returned to her chambers around 12:30, she thought.",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "1:00 AM",
+    "fact": "By 1:00 AM, Sylvira claims to have been alone and feverish in her chambers, with no one else seen. This is the endpoint of her alibi and the earliest possible time the heart removal could have occurred if not performed earlier.",
+    "source_quote": "Between 12:30 and 1 in the morning, feverish, alone. After that, no one.",
+    "quote_verified": true
+  }
+]

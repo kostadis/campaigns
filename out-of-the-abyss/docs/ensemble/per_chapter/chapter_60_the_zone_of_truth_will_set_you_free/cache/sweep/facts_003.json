@@ -1,0 +1,142 @@
+[
+  {
+    "type": "npc",
+    "subject": "Sylvira",
+    "fact": "Sylvira is referenced by Grygum as the authority who decides the fate of failed Drow.",
+    "source_quote": "Sylvira might decide his fate should be precisely like Serith's",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Mordenkainen's Mansion",
+    "fact": "Mordenkainen's Mansion contains her son, born in the Abyss, living under her protection.",
+    "source_quote": "She'd constructed specifically for his protection",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Teles Ahvoste",
+    "fact": "Teles Ahvoste is referenced by Sylvira as the authority who has nurtured hostility toward her for nearly twenty years.",
+    "source_quote": "She named Teles Ahvoste directly",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "guard chamber",
+    "fact": "The guard chamber contains a zurkhwood table, three chairs, a side table, and a Sava game set on the table.",
+    "source_quote": "It contains a zurkhwood table and three chairs, a smaller side table, and a Sava game set on the table",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Bookwyrm",
+    "fact": "Bookwyrm is referenced by Sylvira as the one who pushed hardest against Kalan's investigative controls.",
+    "source_quote": "Bookwyrm who had pushed hardest against it",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "gift-wrapped book",
+    "fact": "The gift-wrapped book was coated in midnight tears, re-wrapped after poisoning, with its label torn off and tied to the Dead Winter tree.",
+    "source_quote": "Daral's present, unwrapped and coated in midnight tears and carefully re-wrapped. The vial's label torn off and tied to the back of the Dead Winter tree as decoration",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "1001 Tashalian Nights",
+    "fact": "1001 Tashalian Nights is bookmarked at the section titled 'Midnight Tears,' with annotated margins indicating close study.",
+    "source_quote": "The book was on a shelf, bookmarked. I had read the section it was bookmarked to. Midnight tears. Tidy, annotated, marked",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "wrapping paper",
+    "fact": "The wrapping paper had a clean, straight cut separate from ragged tears, indicating deliberate rewrapping after poisoning.",
+    "source_quote": "A straight edge where there shouldn't be one. Someone had taken something sharp to this paper, and then wrapped it back around the contents",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Oak Tree Apothecary",
+    "fact": "The Oak Tree Apothecary is where the stolen vial of midnight tears was acquired, with peppermint spilled on the counter floor.",
+    "source_quote": "The Oak Tree Apothecary, the stolen vial, peppermint spilled on the counter floor",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Alkrist",
+    "fact": "Alkrist is referenced by Zalthir as the one who planned the poisoning of Janussi using midnight tears, but did not kill him.",
+    "source_quote": "I didn't actually kill him. I just put some poison on a book",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daral Yashenti",
+    "fact": "Daral Yashenti is referenced by Sylvira as the one whose research was dismissed as third-rate at best, and whose present was used as the vehicle for the poison.",
+    "source_quote": "He was a clown, a boar, and his research was third-rate at best. Daral's present, unwrapped and coated in midnight tears",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Kalan Strongbranch",
+    "fact": "Kalan Strongbranch is referenced by Sylvira as the one who proposed insane investigative controls that Bookwyrm opposed.",
+    "source_quote": "Kalan's proposal, which she called insane, all sorts of investigative controls and restrictions",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Janussi",
+    "fact": "Janussi is referenced by Alkrist as the one who dismissed his germ warfare research and denied him leadership potential.",
+    "source_quote": "The performance review with Janussi: dismissed, told his germ warfare research was dangerous and should be stopped, told he showed no leadership potential",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Deadwinter tree",
+    "fact": "The Deadwinter tree has the torn vial label tied to its back as decoration.",
+    "source_quote": "The vial's label torn off and tied to the back of the Dead Winter tree as decoration",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "chalice",
+    "fact": "The chalice was used to conceal something hidden, known only to someone who understood its purpose, and was not accessed by Alkrist.",
+    "source_quote": "Someone had known about the chalice: what it was for, what could be hidden inside it, why no one would think to look there without specific reason. That someone was not Alkrist",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is referenced by the narrator as the one who recovered the wrapping paper and used Bahamut's cantrip to restore it to its original state.",
+    "source_quote": "I turned it over in my hands... Bahamut's domain is... a cantrip that restores things to their original state... The paper did the rest",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is referenced by the narrator as the one who interrogated Alkrist under truth spell and identified the bookmarked section of 1001 Tashalian Nights.",
+    "source_quote": "Zalthir would have been to pin the timing down to the minute... I asked it in his place... I flipped it open. It went straight to the page. Midnight tears.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is referenced by the narrator as the one who conducted the interrogation of Alkrist alongside Zalthir and confirmed the truth spell was active.",
+    "source_quote": "Kalan was outside the door. As of right now, Alkrist could not lie... Thorin responded with something about being happy to help for the right remuneration",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool is referenced by the narrator as the one who observed Alkrist's interrogation without being asked to, and noted his collapse under truth.",
+    "source_quote": "Glabbagool was in the room with us, settled near the far wall. He had been there since the beginning. I had not asked him to pay attention. He simply did",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Janussi's third-floor rooms",
+    "fact": "Janussi's third-floor rooms contain a note that was filed away, and no visible signs of struggle or forced entry.",
+    "source_quote": "I'd been through Janussi's third-floor rooms carefully. There was a note, and I'd filed that away",
+    "quote_verified": true
+  }
+]

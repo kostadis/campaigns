@@ -1,0 +1,51 @@
+[
+  {
+    "type": "monster",
+    "subject": "centipedes",
+    "fact": "Centipedes are swarming relentlessly, avoiding spell effects despite targeted attempts, and continuing to move with unsettling persistence.",
+    "source_quote": "The centipedes somehow manage to avoid the brunt of the spell.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is scanning his spell list, second-guessing his choices, feeling unease about spell effectiveness, and scratching at his arms due to phantom bug sensations despite knowing none are present.",
+    "source_quote": "Maybe 'Burning Hands' would have been better? ... He keeps scratching at his arms, feeling the phantom sensation of bugs despite knowing there were none on him.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin charges in and successfully strikes one of the centipede swarms, dealing a significant blow, offering a moment of hope.",
+    "source_quote": "Thorin charges in, swinging with his weapon. Daz perks up as Thorin actually manages to strike one of the swarms, dealing a significant blow.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum casts 'Tasha's Caustic Brew' in response to the centipede swarm, but the spell fails to impede them.",
+    "source_quote": "Grygum then steps up, casting 'Tasha's Caustic Brew.'",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "ineffective spells",
+    "fact": "Daz is questioning whether his spells are inherently ineffective or if he needs a re-strategized approach to dealing with the centipede swarm.",
+    "source_quote": "He feels a slight unease, wondering if his spells are just ineffective or if he needs to re-strategize.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "spell failure",
+    "fact": "Multiple spell attempts, including 'Tasha's Caustic Brew' and others, fail to impede the centipede swarm despite direct targeting.",
+    "source_quote": "the centipedes somehow manage to avoid the brunt of the spell.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "combat zone",
+    "fact": "The combat zone is characterized by a relentless swarm of centipedes, ongoing spellcasting attempts, and visible frustration from the party.",
+    "source_quote": "The centipedes keep coming, relentless and unsettling.",
+    "quote_verified": false
+  }
+]

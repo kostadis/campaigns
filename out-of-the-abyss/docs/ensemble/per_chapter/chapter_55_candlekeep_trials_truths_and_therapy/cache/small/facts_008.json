@@ -1,0 +1,93 @@
+[
+  {
+    "type": "npc",
+    "subject": "Drow (Player Character)",
+    "fact": "The drow has no memory of their past, suffers from a persistent headache, and was imprisoned in the Underdark with others before escaping. They are currently in Candlekeep, seeking help and truth, and have no knowledge of their identity or history. They are not lying, but cannot afford the usual drow strategies of concealment.",
+    "source_quote": "I have a headache, but I'll tell you the story. This is the short version. I don't have much memory before being locked up with a few people in a jail. Because some spider thing was, like, trying to keep us. And we've made an escape. We were in the Underdark. We've had many, many adventures, yada yada yada. Now I'm here in Candlekeep. My head hurts a little bit, and I don't know who I am, or my history, and I don't know why my head hurts.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Librarian (Menzoberranzan Scholar)",
+    "fact": "The librarian is a scholar of drow noble houses with access to sealed records. She understands the mechanics of power, betrayal, and record manipulation in Menzoberranzan. She trusts the drow\u2019s honesty despite its deviation from cultural norms and guides them through the hidden logic of the Houses, especially the meaning of 'struck' and the privileges of the fourth seat.",
+    "source_quote": "Whenever a house sought to destroy another house, it had to destroy everyone. If you left a single person alive \u2014 even a child, even someone inconvenient and useless \u2014 your house was forfeit. The wider community would come for you. They would reduce you to a black puddle and call the matter settled.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Menzoberranzan Noble Houses",
+    "fact": "The noble houses of Menzoberranzan operate under a rigid hierarchy of matron mothers at the top, with power flowing upward and loyalty enforced transactionally. Intrigue is institutionalized: betrayal is rewarded if it strengthens the web. Houses that fail to eliminate all targets are destroyed by the collective. Record manipulation, especially via the fourth seat\u2019s archive privileges, is a tool of erasure disguised as legitimacy.",
+    "source_quote": "The rule of intrigue: betrayal is rewarded if it strengthens the web. Advance through maneuver. The city selects for it.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "The Fourth Seat",
+    "fact": "The Fourth Seat in Menzoberranzan holds ritual archive privileges \u2014 the legal authority to access, alter, and erase records. A 'struck' Fourth Seat is not merely politically eliminated; it is an expensive, infrastructural act of systemic erasure requiring knowledge of the right people, payment, and the ability to make the alteration appear as if it never occurred.",
+    "source_quote": "The fourth seat holds ritual archive privileges in Menzoberranzan \u2014 that having archive privileges means having the legal apparatus to access and alter records. That a struck fourth seat was not merely a political erasure. It was the expensive kind. The kind that requires knowing the right people and paying the right price and having the infrastructure to make the payment look like it was never made.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "House Erasure Attempt",
+    "fact": "One noble house attempted to wipe out a rival house but failed to eliminate a single survivor \u2014 a blithering child idiot. The house was subsequently destroyed by the wider community. The child\u2019s fate remains officially unknown, and the survivor may be the drow.",
+    "source_quote": "They had tried to wipe out another, and failed to account for one survivor. A child. A blithering child idiot, she said, and I noted the language was hers, not mine.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "The Ledger of Houses",
+    "fact": "A document listing the noble houses of Menzoberranzan, annotated with terms like 'second seat', 'fourth seat struck', 'eleventh seat', and 'twenty-third seat'. The term 'struck' is distinct from elimination \u2014 it implies attempted erasure that failed or was concealed. The document is held in Candlekeep and contains hidden meaning accessible only to those who understand Menzoberranzan's linguistic and bureaucratic codes.",
+    "source_quote": "She read me the list. The second seat. The fourth seat struck. The eleventh seat. The twenty-third seat. *Struck.*",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Candlekeep Library",
+    "fact": "Candlekeep is a repository of all known knowledge, yet something vital \u2014 the record of the struck fourth seat and the true fate of the surviving child \u2014 is missing. This absence is not accidental; it is a deliberate, expensive act of censorship that contradicts the library's purpose. The drow perceives this gap as evidence of a powerful manipulation of truth.",
+    "source_quote": "This is a library with, by reputation, all the information in the world. Something is not here that should be here. Someone did something to a place whose entire purpose is preservation. That is not a small act. That is a very large, very expensive, very deliberate act.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Spider Entity (Underdark Captor)",
+    "fact": "A mysterious spider-like creature was present in the Underdark prison where the drow and others were held. It appeared to be keeping them contained, possibly as part of a larger scheme. Its nature, allegiance, and current status are unknown. The drow describes it with fragmented, non-technical language, suggesting trauma or memory loss.",
+    "source_quote": "Because some spider thing was, like, trying to keep us.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "The Struck Fourth Seat",
+    "fact": "The identity and fate of the house associated with the 'struck' fourth seat remain obscured. The term implies an attempted erasure that did not fully succeed, and the drow suspects they are connected to it \u2014 possibly as the sole survivor. The record was altered using archive privileges, and the truth is buried under layers of institutional deception.",
+    "source_quote": "Struck,\" I said. \"Didn't mean eliminated. It means they struck it, but maybe they didn't eliminate it, and therefore, like, it didn't happen? Is that why I feel like it's different?",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "The Blithering Child Survivor",
+    "fact": "The identity of the child who survived the house purge is unknown. The drow asks if they are that child \u2014 a question the librarian refuses to answer directly. The silence implies the drow may be the survivor, and their memory loss, headache, and presence in Candlekeep are not coincidences but consequences of a cover-up.",
+    "source_quote": "Am I the blithering idiot?",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "The Sealed Record",
+    "fact": "There is a house so deeply erased that even the librarian cannot speak of it within the library \u2014 because the public record is sealed, and she is the public record. To uncover the truth, the drow must seek it through other doors, suggesting the existence of hidden archives, illicit networks, or non-recorded histories outside Candlekeep\u2019s official collection.",
+    "source_quote": "There was one house she could not speak of in the room. Not because she would not \u2014 because the public record is sealed, and she is today the public record.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Memory Restoration Trigger",
+    "fact": "The drow\u2019s headache and fragmented memories began to resolve upon hearing the word 'struck' and understanding its bureaucratic meaning. The recognition of linguistic nuance \u2014 not factual recall \u2014 triggered a cognitive shift, suggesting their identity and past are encoded in the language of Menzoberranzan\u2019s power structures, not in their personal memory.",
+    "source_quote": "Something in me landed on it before I could explain why.",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "Two Years Ago",
+    "fact": "Two years ago, the drow woke up in a jail cell with no memories and a headache that never left. This is the temporal anchor for their loss of identity and the beginning of their current journey \u2014 a point before which their past is inaccessible, and after which they have been navigating a world they no longer recognize.",
+    "source_quote": "before I woke up in a jail cell with no memories and a headache that apparently never left.",
+    "quote_verified": false
+  }
+]

@@ -1,0 +1,114 @@
+[
+  {
+    "type": "npc",
+    "subject": "Buppido",
+    "fact": "Buppido was a derro who manifested a macabre shrine of bones and skeletons, claimed divine authority over faithful followers, and attacked with manic violence before being slain by Daz's magic missiles.",
+    "source_quote": "Your divine mission is now over.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is an arcane spellcaster who recognized Buppido\u2019s threat, cast Fairie Fire to mark skeletons for advantage, and ultimately killed Buppido with Magic Missile, ending the battle.",
+    "source_quote": "Magic missiles,\" he thinks, visualizing the shimmering darts.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is a dwarf warrior who charged into combat against Buppido\u2019s skeletons, landed a solid blow on one, and later expressed sorrow over Buppido\u2019s death despite the violence.",
+    "source_quote": "He was a crazy one, but he was our crazy one.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is a tactician who used darkness to disorient Buppido\u2019s undead minions, creating opportunity for allies, and supported Grygum\u2019s plan by disrupting visibility.",
+    "source_quote": "Zalthir plunges the area into darkness.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is a cleric of Bahamut who prepared to turn undead against Buppido\u2019s skeletons, held his action due to Zalthir\u2019s darkness, and later performed a ritual for Buppido\u2019s soul.",
+    "source_quote": "And as he prepares to pray for Buppido\u2019s soul, a ghostly head pops up.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Pelek",
+    "fact": "Pelek is the ghostly Svirfneblin whose name is derived from an actor his mother named him after, causing familial shame and tension, and who was once a merchant and friend of Buppido.",
+    "source_quote": "My mother named me after an actor.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Svirfneblin",
+    "fact": "The Svirfneblin (deep gnomes) traditionally name themselves after objects or sounds associated with them, often using onomatopoeia, as evidenced by Pelek\u2019s naming convention.",
+    "source_quote": "The Gnomes tend to name themselves after things and that many of their names are onomatopoeia of the sounds of those things.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "skeletons",
+    "fact": "A cluster of animated skeletons served Buppido as minions, were marked by Fairie Fire, and were later destroyed by Grygum\u2019s Turn Undead after being disoriented by Zalthir\u2019s darkness.",
+    "source_quote": "Three skeletons are marked, and an ethereal glow surrounds them.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "hooked spear",
+    "fact": "Buppido wielded a hooked spear in his final charge against Thorin, but his attack was wild and ineffective, driven by fury rather than skill.",
+    "source_quote": "Buppido rushes at Thorin with a hooked spear but misses wildly.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "crossbow",
+    "fact": "One of Buppido\u2019s skeletons used a crossbow to strike Grygum during the chaos of Zalthir\u2019s darkness, inflicting a visible injury.",
+    "source_quote": "One skeleton, however, manages to take a shot at Grygum with its crossbow.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "caves",
+    "fact": "The battle occurred in a cave system that previously housed Buppido\u2019s shrine of bones and skeletons, now littered with the remains of the derro and his undead servants.",
+    "source_quote": "The blood-spattered remains of Buppido lie scattered amongst the bones that made up the crazed Derro\u2019s hideout.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "turn undead",
+    "fact": "Grygum successfully cast Turn Undead against Buppido\u2019s skeleton minions, overwhelming them with divine power and turning the battle into a slaughter.",
+    "source_quote": "The cleric\u2019s words of power overwhelm the skeletal minions of Buppido.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "magic missiles",
+    "fact": "Daz cast Magic Missile, three unerring bolts of arcane force that struck Buppido directly, killing him instantly and ending the threat.",
+    "source_quote": "Three bolts of magical force streak through the air, each unerringly finding its mark on Buppido.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Pelek's origin",
+    "fact": "Pelek\u2019s name and lineage are shrouded in familial shame and uncertainty, stemming from his mother naming him after an actor, and his father\u2019s jealousy \u2014 a mystery that may connect to deeper cultural or magical roots.",
+    "source_quote": "There was always this doubt about the origin of the name and my lineage, which created a lot of friction in my family.",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "session 19",
+    "fact": "Session 19 occurred on the 10th day of the 1st Tenday of Myrtul 1493, during which Buppido was slain and Pelek the ghostly Svirfneblin emerged.",
+    "source_quote": "Session 19\n## 10th day of the 1st Tenday of Myrtul 1493",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "actor namesake",
+    "fact": "Pelek was named after an actor, an unusual practice among Svirfneblin, raising questions about cultural influence, hidden ancestry, or magical legacy tied to performance or illusion.",
+    "source_quote": "My mother named me after an actor.",
+    "quote_verified": true
+  }
+]

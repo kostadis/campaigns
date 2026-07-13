@@ -1,0 +1,114 @@
+[
+  {
+    "type": "npc",
+    "subject": "Bookwyrm",
+    "fact": "Bookwyrm is the librarian who initiated the investigation into Janussi\u2019s death, withheld key testimony about Janussi\u2019s request for Kalan\u2019s resignation, and proposed confidential, conditionally successful remuneration \u2014 'one book each, copied at the House of the Binder, upon successful completion' \u2014 while insisting on confidentiality papers. She claims innocence but was examined by Thorin.",
+    "source_quote": "I had nothing to do with it.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is the investigator who pressed for full library access, demanded remuneration in the form of books, and insisted on examining all parties \u2014 including Bookwyrm \u2014 after she withheld evidence. He framed the investigation as a matter of divine mandate and scholarly rigor, referencing Poirot and Colombo as intellectual ancestors.",
+    "source_quote": "Are we supposed to investigate if we can't poke around?",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is the investigator who has prior history with Kalan Strongbranch \u2014 having been nearly imprisoned upon arrival \u2014 and who consistently points out that testimony is evidence, challenging Bookwyrm\u2019s selective disclosure. He has firsthand experience with Underdark investigations and fungal scourges.",
+    "source_quote": "Her testimony is itself evidence.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Kalan Strongbranch",
+    "fact": "Kalan Strongbranch is the gate warden who was ordered to resign by Janussi the morning of the murder, cited for declining mental faculties and negligence. He has a piercing gaze and an authoritative posture, and his bow to Bookwyrm was correct \u2014 but his eyes were not. He is the first person the narrator plans to question.",
+    "source_quote": "(Silent bow; eyes were not.)",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "A'lai Aivenmore",
+    "fact": "A'lai Aivenmore is the council member who observed the room with the precision of a Bahamut scholar, calibrated responses to unspoken tensions, and chose the fastest resolution \u2014 not because he endorsed it, but because he saw no reason to object. He is a master of non-committal leadership.",
+    "source_quote": "I don't see a reason to object.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "The Council of the Library",
+    "fact": "The Council of the Library is the governing body that authorized the investigation into Janussi\u2019s death, demanded confidentiality, and initially resisted granting access to the library\u2019s resources. They were surprised by the request for carte blanche, realizing they had been protecting something they didn\u2019t know they guarded.",
+    "source_quote": "We had not realized we were protecting.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Janussi's death",
+    "fact": "Janussi, the Keeper of Tomes, was found dead under mysterious circumstances. The morning before his death, he requested Kalan Strongbranch\u2019s resignation due to suspected mental decline and negligence. No cause of death was disclosed, and the investigation began with withheld testimony and conflicting agendas.",
+    "source_quote": "Janussi asked the gate warden to tender his resignation.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "The Library of the Binder",
+    "fact": "The Library of the Binder is the central repository where the investigation is conducted. It is a place of strict protocol, where books are not given freely, and access is tightly controlled. It holds secrets that even its own council hesitates to acknowledge.",
+    "source_quote": "The library is not in the habit of giving out books.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "The Confidentiality Papers",
+    "fact": "The Confidentiality Papers are legal documents required before any investigation proceeds. They bind participants to secrecy, and their existence signals that the Council fears exposure more than they fear the murder.",
+    "source_quote": "Confidentiality papers first.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "One Book Each (Copied at the House of the Binder)",
+    "fact": "The proposed remuneration for the investigators is one book each, copied at the House of the Binder, to be delivered only upon successful completion of the investigation. This is a symbolic, conditional payment \u2014 not for labor, but for discretion.",
+    "source_quote": "One book each, copied at the House of the Binder, upon successful completion.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Fungal Scourges",
+    "fact": "Fungal scourges are recurring hazards referenced in past Underdark investigations, used by Daz to contextualize the group\u2019s experience. They are not present at the crime scene but serve as narrative anchors for credibility.",
+    "source_quote": "Fungal scourges, the whole abbreviated catalogue of what we'd actually done over the past months.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "The Unspoken Protection",
+    "fact": "The Council had been protecting something \u2014 access, knowledge, or perhaps a person \u2014 without realizing it. The request for full library access exposed this, and the murder became secondary to the revelation of institutional concealment.",
+    "source_quote": "We had not realized we were protecting.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Kalan's Eyes Were Not",
+    "fact": "Kalan Strongbranch\u2019s bow was correct, but his eyes were not \u2014 a silent, potent indicator of hidden intent. This observation marks him as the primary subject of the narrator\u2019s next move, and the thread of his loyalty or guilt remains unspoken.",
+    "source_quote": "He was the first person I planned to question.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Bookwyrm's Pause",
+    "fact": "When Thorin asked 'Where were you?', Bookwyrm paused \u2014 just long enough to weigh something. That pause is the most significant moment in the interrogation so far, and the narrator chose not to write down what it meant \u2014 but took notes anyway.",
+    "source_quote": "I did not write down what I thought her expression meant... But I took notes.",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "The morning before Janussi's death",
+    "fact": "On the morning before Janussi\u2019s death, he requested Kalan Strongbranch\u2019s resignation. This temporal anchor is the last known action before the murder and the only concrete event preceding the investigation.",
+    "source_quote": "Yesterday morning, Janussi asked the gate warden to tender his resignation.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "The Narrator",
+    "fact": "The Narrator is the investigator who observes, records, and interprets the room like a Bahamut text \u2014 reading not what is said, but what is conspicuously not said. They file distinctions, note pauses, and plan questions before speaking. They are the only one who recognizes that the real value on the table is not the books, but the excuse to poke everywhere.",
+    "source_quote": "See, this gives us an excuse to poke our nose in everywhere. That's valuable.",
+    "quote_verified": true
+  }
+]

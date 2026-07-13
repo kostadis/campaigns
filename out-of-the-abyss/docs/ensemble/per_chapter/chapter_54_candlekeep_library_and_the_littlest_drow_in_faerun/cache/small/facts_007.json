@@ -1,0 +1,128 @@
+[
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is deliberately sharing misleading information about the bag of holding and its contents to manipulate perceptions, and he is actively engaging the ooze Glabbagool in the ritual of knowledge exchange at Candlekeep.",
+    "source_quote": "At least the bag of holding is shade, you know, so she's not gonna be exposed to full sun.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is the primary conduit for reinforcing false or ambiguous knowledge claims about magical items, and he is complicit in the structured deception surrounding the five books offered to Candlekeep.",
+    "source_quote": "Yes, yes, in fact \u2014 I believe they may be more deadly.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool is an ooze with no social conditioning around limits of knowledge, and he is profoundly confused by the concept of restricted access to information \u2014 making his single question at Candlekeep a radical act of pure epistemic inquiry.",
+    "source_quote": "Why aren't we simply donating every book we've ever seen and asking questions until the end of time?",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is the institutional diplomat who manages the formal entry protocol at Candlekeep, ensuring the five books are presented according to the library\u2019s rigid bureaucratic norms.",
+    "source_quote": "The gatekeeper explained the terms with the particular energy of someone who has explained the same terms several thousand times and has made peace with that.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Asha Vandree",
+    "fact": "Asha Vandree authored a theological document comparing Lolth and Zuggtmoy as equivalents, which she pressed into Grygum\u2019s hands \u2014 a work now destined to be cataloged and interrogated in Candlekeep, despite her having been rendered invisible during its creation.",
+    "source_quote": "The document I'd watched her press into Grygum's hands.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Prisoner (Drow woman)",
+    "fact": "The drow woman is confined within the bag of holding, surveilled by an ooze, breathing through holes poked in the fabric, and shielded from sunlight as an act of mercy \u2014 her survival of the Underdark now being recontextualized by surface-world institutions.",
+    "source_quote": "She was small, surveilled by an ooze, breathing through holes we'd poked in the bag, and being shielded from sunlight as a kindness.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Candlekeep",
+    "fact": "Candlekeep is a monolithic, rule-bound institution that controls access to knowledge through a system of book donations and limited questions, where five books grant not just entry but 'facetime' \u2014 the true currency of influence.",
+    "source_quote": "One book gets you in the door. Five books gets you *facetime*, which I gathered was the currency that actually mattered there.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "entry into Candlekeep",
+    "fact": "The party enters Candlekeep by presenting five books \u2014 each tied to a demon lord, a corrupted theology, or a witness account \u2014 triggering a structured ritual of knowledge exchange governed by the library\u2019s ancient, inflexible protocols.",
+    "source_quote": "As it turned out, we'd brought five.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Princess Ebonmire's spellbook",
+    "fact": "This spellbook is one of the five books presented to Candlekeep, acquired during months in the Underdark from someone who no longer needed it \u2014 its contents now subject to scholarly analysis in a surface-world library.",
+    "source_quote": "Princess Ebonmire's spellbook.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Ilvara's prayer book with Zuggtmoy marginalia",
+    "fact": "Ilvara\u2019s prayer book contains meticulous, handwritten notes documenting the corruption timeline she observed \u2014 a personal record of demonic influence now to be cataloged as a theological artifact in Candlekeep.",
+    "source_quote": "Ilvara's prayer book with its Zuggtmoy marginalia, those careful notes documenting the corruption timeline she'd watched unfolding and apparently found worth recording.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Asha Vandree's theological argument",
+    "fact": "Asha Vandree\u2019s document equating Lolth and Zuggtmoy is a radical theological assertion now destined for scholarly debate in Candlekeep \u2014 written in silence, pressed into Grygum\u2019s hands, and intended to be unseen.",
+    "source_quote": "Asha Vandree's theological argument about Lolth and Zuggtmoy as equivalents \u2014 the document I'd watched her press into Grygum's hands.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Velkynvelve prisoner journal",
+    "fact": "This journal, acquired from the Underdark, contains the testimony of a prisoner \u2014 now one of five books offered to Candlekeep, its authenticity and origin unverified but its potential for insight undeniable.",
+    "source_quote": "The Velkynvelve prisoner journal.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Pliinki's journal from the Whorlstone Caverns",
+    "fact": "Pliinki\u2019s journal records a man\u2019s detailed account of helping birth a demonic monster \u2014 a confession he believed was worth documenting, now destined to be studied as a primary source in a surface-world library.",
+    "source_quote": "Pliinki's journal from the Whorlstone Caverns, the one where a man had written carefully about helping birth a demonic monster and apparently thought this was worth documenting.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Glabbagool (the ooze)",
+    "fact": "Glabbagool is an ooze who has spent most of his conscious existence confined in a bag of holding, observing a shrunken assassin through a single eye \u2014 his confusion over Candlekeep\u2019s knowledge restrictions reveals a fundamental lack of social conditioning around epistemic limits.",
+    "source_quote": "He wanted to know why we weren't simply donating every book we'd ever seen and asking questions until the end of time.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Bahamut's personal assignment",
+    "fact": "Grygum is haunted by the absence of a specific, personal directive from Bahamut \u2014 beyond general principles \u2014 and hopes Candlekeep\u2019s archives will help him uncover the hidden intent behind his own divine mandate.",
+    "source_quote": "What does Bahamut actually want from me? Not the general want \u2014 the 'be just, protect the innocent, oppose Tiamat' want... but the specific want.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Glabbagool's one question",
+    "fact": "The singular question Glabbagool will ask at Candlekeep is an unresolved, deeply anticipated thread \u2014 a question from a being with no past, no allegiances, and pure epistemic hunger, whose answer may redefine the nature of knowledge itself.",
+    "source_quote": "I didn't have an answer. But I kept watching the bag, the way it moved, the slight weight of it. Somewhere in there, one eye was open.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Candlekeep",
+    "fact": "Candlekeep is a vast, ancient library whose architecture and protocols enforce hierarchical access to knowledge \u2014 it is not merely a repository but a gatekeeper of divine and arcane truth, where books are currency and questions are privileges.",
+    "source_quote": "enormous, self-important, and surrounded by the kind of architecture that said *we have been here longer than your entire civilization and we have the receipts.*",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "the road to Candlekeep",
+    "fact": "The journey to Candlekeep spanned days of travel, during which the party\u2019s deception, knowledge manipulation, and existential questions coalesced \u2014 a period of reflection that transformed the act of entry into a ritual of revelation.",
+    "source_quote": "I thought about it for the better part of the road to Candlekeep \u2014 what a creature with no past and no allegiances and a singular earnest interest in understanding the world would choose to know.",
+    "quote_verified": false
+  }
+]

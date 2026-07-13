@@ -1,0 +1,170 @@
+[
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is an academic who developed a theological treatise on punctual tears and the alignment of Shar and Sel\u00fbne, and has been published by others as a new doctrine, distracting the Avowed from an active murder in Candlekeep.",
+    "source_quote": "The treatise listed the others. Keep riding west, or shift to another plane, or have someone who can call on the healing that draws a poison clean out of the blood.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is an investigator with expertise in magical detection, currently tracking the murder of a scholar and the theft of a summoning key and sapphire, and has examined a key for magical binding without success.",
+    "source_quote": "I took custody of the key, set my fingers to the cold iron of it, and let the spell read the object the way an auditor reads an account someone else kept.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is a pragmatic investigator who prioritizes identifying the killer over recovering stolen items, and has reconstructed the timeline of the poisoned book and the nature of the poison's activation.",
+    "source_quote": "A murder is a kind of terrain... you watch where he puts his feet.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Daral",
+    "fact": "Daral is a scholar who delivered a poisoned book as a gift, fears he is being framed for murder, and has revealed the location of the Oak Tree Apothecary as a potential source for poison identification.",
+    "source_quote": "The Oak Tree Apothecary, he said, between the Sea Warden's Tower and the House of Mechanus, a treehouse grown into the roots of an evergreen oak.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is a meticulous scholar who analyzes textual and magical patterns, and has questioned the nature of the summoning magic, the key, and the sapphire, suspecting a deeper connection yet unresolvable.",
+    "source_quote": "One true sun, light being furthest \u2014 and then he'd want to know whether any physical property could slow that light down.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Kalan Strongbranch",
+    "fact": "Kalan Strongbranch was a scholar who carried a key bound to a summoning sapphire, feared theft of his key, and was murdered \u2014 his key was stolen, and he was killed to sever his possession of it.",
+    "source_quote": "The stolen sapphire carried a summoning working \u2014 it could pull an item to you, but only an item not in anyone's possession. And a dead person, it turns out, possesses nothing.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Janussi",
+    "fact": "Janussi is a Candlekeep keeper who retrieved the poisoned book at dinner, after it had been left under the evergreen tree, making them a critical witness in the timeline of the poisoning.",
+    "source_quote": "The book got picked up by Janussi at dinner. And at the time, it was wrapped.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Fembris",
+    "fact": "Fembris is an Avowed assigned to monitor the investigators, who abandoned his post to attend Grygum\u2019s theological debate, creating an unguarded hour in Candlekeep.",
+    "source_quote": "Our minder... wanted to attend a debate... Bookwyrm herself unable to politically afford to miss it.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Leuwin",
+    "fact": "Leuwin is an elderly satyr druid at the Oak Tree Apothecary, known for being absent-minded and keeping a pet squirrel, and is the only person who can definitively identify the poison from the book.",
+    "source_quote": "A satyr druid named Leuwin, elderly and absent-minded, with a pet squirrel, who could identify the poison from the book definitively.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Avowed",
+    "fact": "The Avowed are the scholarly guardians of Candlekeep, whose institutional obsession with academic debate and publication has caused them to neglect critical security duties during an active murder investigation.",
+    "source_quote": "The whole Avowed community wanted, right then and there, to drop everything and debate it in the Grand Hall.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Followers of Kelemvor",
+    "fact": "The followers of Kelemvor have established through their god's cryptic teachings that the dead possess nothing, and that death is the cleanest method to sever magical possession of an object.",
+    "source_quote": "An undead can. A dead man can't. The followers of Kelemvor have made that point very clear, repeatedly, through their god's usual incomprehensible cryptic phrasing.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "murder of Kalan Strongbranch",
+    "fact": "Kalan Strongbranch was murdered to sever his possession of a key bound to a summoning sapphire, as only the dead cannot possess items, allowing the key to be retrieved by the sapphire's magic.",
+    "source_quote": "The cleanest way to free it from his possession was to make him a corpse.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "poisoning of the book",
+    "fact": "The book was poisoned with a substance that activates upon contact with living saliva, turning black after death, and was likely tampered with after Daral left it under the tree but before Janussi retrieved it at dinner.",
+    "source_quote": "The poison sitting in somebody's room right now wouldn't be black at all. It'd be clear.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "theft of the summoning sapphire and key",
+    "fact": "A sapphire and a key were stolen from Kalan Strongbranch\u2019s safe and locket; the sapphire is the retrieval token for the key, and the key must be separated from its possessor via death to be retrieved.",
+    "source_quote": "The sapphire isn't decoration: it's the retrieval token, and it has to be the same sapphire both to store and to recall.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Grygum's theological debate",
+    "fact": "Grygum\u2019s debate on the alignment of Shar and Sel\u00fbne drew away key personnel including Fembris and Bookwyrm, creating an unguarded hour during which the murder\u2019s evidence could have been moved or planted.",
+    "source_quote": "A keeper of the keep, leaving his post, to watch the orc argue dragons.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "subject\": \"summoning sapphire",
+    "fact": "The sapphire is a magical retrieval token for a key, activated only by the caster\u2019s spell, and functions only when the key is no longer in a living person\u2019s possession.",
+    "source_quote": "Possess the gem and you possess the item, provided you have the magic to call it.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Kalan Strongbranch's key",
+    "fact": "The key was bound to the summoning sapphire and hidden in a locket around Kalan Strongbranch\u2019s neck; it was stolen after his death, which freed it from his possession and allowed retrieval.",
+    "source_quote": "The stolen sapphire carried a summoning working \u2014 it could pull an item to you, but only an item not in anyone's possession.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "poisoned book",
+    "fact": "The book was poisoned with a latent, non-visible toxin that activates upon contact with living saliva, turning black only after death \u2014 it was wrapped when retrieved, suggesting the poison was applied before delivery.",
+    "source_quote": "Why did it turn dark, but it's not dark on the book? Because it goes black after you die.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "unresolved connection between key, sapphire, and killer",
+    "fact": "A pattern exists linking the stolen key, the summoning sapphire, and the murderer \u2014 Daz recognizes it but cannot name the connection, suggesting a hidden magical or personal tie yet unproven.",
+    "source_quote": "There was a connection sitting in the gem and the stolen key and the murdered man... I reached for it and came up with nothing.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "true identity of the poisoner",
+    "fact": "The poison was likely applied to the book before it was left under the tree \u2014 but who had access, motive, and knowledge of the activation condition? The identity remains unknown.",
+    "source_quote": "Either somebody went into his house, tampered with it, knowing he was gonna give it to them, somebody unwrapped it, tampered with it, and then wrapped it back up.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Oak Tree Apothecary",
+    "fact": "The Oak Tree Apothecary is a treehouse apothecary located between the Sea Warden's Tower and the House of Mechanus, operated by the absent-minded satyr druid Leuwin, and is the only place where the poison can be definitively identified.",
+    "source_quote": "A treehouse grown into the roots of an evergreen oak.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Candlekeep",
+    "fact": "Candlekeep is a vast, dangerous library and seat of arcane scholarship, where academic rivalries and institutional distraction have allowed a murder to go uninvestigated while scholars debate theology.",
+    "source_quote": "There is an active murder running through this keep. And nothing says you are an academic institution quite like blowing off everything important to focus on what really matters: new research.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Oval Theater",
+    "fact": "The Oval Theater is the site of Grygum\u2019s theological debate, where key Avowed have gathered, leaving the library vulnerable to further tampering or concealment of evidence.",
+    "source_quote": "A disputation in the Oval Theater on his new theology, with half the avowed already in attendance.",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "Deadwinter's Eve",
+    "fact": "Deadwinter's Eve is the day when the poisoned book was left under the evergreen tree at 11am, retrieved at dinner, and the scholar was murdered \u2014 the critical temporal anchor for the investigation.",
+    "source_quote": "He'd dropped the book under the evergreen tree, next to the other gifts, around 11am on Deadwinter's Eve.",
+    "quote_verified": false
+  }
+]

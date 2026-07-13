@@ -1,0 +1,121 @@
+[
+  {
+    "type": "npc",
+    "subject": "Daral",
+    "fact": "Daral was cured of sickness by Dawnbringer, immediately began researching magical swords with sentience, and announced his intention to make sword semiotics his life's subject. He is now fully restored, ecstatic, and driven by scholarly passion.",
+    "source_quote": "I shall do all kinds of new research on magical swords, with the sentience and the beauty of Dawnbringer. I intend to make it an area of active research.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin led the ambush against helmed horrors, used Dawnbringer to sap their movements, and employed tactical positioning to exploit enemy aggression. He deduced the horrors were drawn to an inert key and sought to weaponize a dead horror as a divining rod to trace its owner.",
+    "source_quote": "Can we grab one of them and use it to detect who else has the key? Turn it into a sort of divining rod, as it were.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir read the helmed horrors as animated armor with hovering movement, grappled and held one for Glabbagool\u2019s acid, and later deduced the horrors followed the key\u2014not faces\u2014by tracing their targeting patterns after key transfers.",
+    "source_quote": "Seems like it's a helmed horror? Is this, like, animated armor or something?",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum provided continuous healing and Revivify support during the battle, held the key after Daz passed it, and remained unshaken under attack. He reassured allies they would survive and was instrumental in stabilizing the party\u2019s morale.",
+    "source_quote": "Don't you worry, Daz. You're going to be fine. Totally fine.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz was the target of all three helmed horrors, survived multiple lethal strikes, realized the key in his pocket was their true objective, and unleashed Scorching Ray to destroy one. He transferred the key to Grygum and remained active despite injury.",
+    "source_quote": "I may drink a healing.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Fembris",
+    "fact": "Fembris stood in shock during the ambush and was the only one who saw the key before it was discovered. The helmed horrors\u2019 targeting pattern suggests Fembris may have been observed by the assassins prior to the attack.",
+    "source_quote": "Standing right there with the four of us.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool, riding Zalthir\u2019s arm, delivered acid attacks that dissolved helmed horror armor, reducing one suit to rust and loose plate. Its corrosive ability was decisive in breaking the creatures\u2019 defenses.",
+    "source_quote": "Plate hissed and ran.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Dawnbringer",
+    "fact": "Dawnbringer, a sentient sword, absorbed Daral\u2019s praise and admiration, visibly responding to being called beautiful and worthy of study. During combat, it sapped the movement of helmed horrors, enabling Thorin to land critical strikes, and completed its role as both weapon and companion.",
+    "source_quote": "The blade lit, poured into Daral, and took the sickness with it.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "helmed horror",
+    "fact": "Three helmed horrors\u2014suits of animated plate armor with hovering movement and glowing eye-points\u2014ambushed the party through windows. They ignored other targets to pursue Daz and later Grygum once the key changed hands. They had no mouths, no minds, no capacity for speech, and were programmed to retrieve the key at all costs.",
+    "source_quote": "They're like AIs. A thing built to do one thing, that would do it until you stopped it, and no amount of talking would move it off.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "the key",
+    "fact": "An inert, magically undetectable key carried by Daz, which triggered the helmed horrors\u2019 attack. Despite appearing dead and non-magical, it was the sole target of the assassins. Its origin and purpose remain unknown, but its selection suggests precise intelligence behind the ambush.",
+    "source_quote": "A key that read as nothing under every spell we'd thrown at it. Dead. Inert.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Deneir's office",
+    "fact": "The party was confined in Deneir's office after Daral\u2019s healing, waiting for the next threat. The room became a place of stillness and reflection before the ambush, and later a silent aftermath where the party assessed the meaning of the attack.",
+    "source_quote": "So we sat in Deneir's office, fed by proxy, our patient healed, wondering how the story was going to end.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "ambush of the helmed horrors",
+    "fact": "Three helmed horrors breached Deneir\u2019s office through windows, targeting Daz for the key he carried. The party fought defensively, used terrain and positioning, and destroyed all three by exploiting their mechanical nature. The attack revealed the key\u2019s importance and the presence of a silent, precise enemy behind it.",
+    "source_quote": "Combat? Yes. Combat. Not expected, but okay.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "origin of the helmed horrors",
+    "fact": "The helmed horrors were sent by an unseen force that knew the key\u2019s location and the party\u2019s movements. Their inability to speak suggests a deliberate design to prevent interrogation. Thorin proposes using a dead horror as a divining rod to trace who else possesses the key.",
+    "source_quote": "Who sent you? Who does number one, number two work for?",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "identity of the key's owner",
+    "fact": "The key is inert, undetectable, yet draws lethal attention. Fembris was the only one who saw it before the attack. The party suspects the key was planted or revealed to an enemy prior to the ambush. Its true owner or creator remains unknown.",
+    "source_quote": "They weren't following a face. They were following the key itself, sniffing it out through plate and pocket both.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Dawnbringer's sentience",
+    "fact": "Dawnbringer responded emotionally to Daral\u2019s praise, suggesting deeper sentience than previously understood. Its behavior during combat and its reaction to being admired imply it is not merely a weapon but a being capable of internal change and appreciation.",
+    "source_quote": "Dawnbringer eats it up, I'm sure.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "the unseen assassins",
+    "fact": "An unknown faction designed and deployed helmed horrors to retrieve an inert key. They chose creatures incapable of speech to avoid interrogation. Their precision suggests surveillance of the party and knowledge of the key\u2019s location, indicating a well-resourced, silent enemy operating from shadows.",
+    "source_quote": "Whoever built these chose them precisely so there'd be nobody to squeeze afterward.",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The events occurred during a single session following Daral\u2019s healing and the party\u2019s confinement in Deneir\u2019s office. The ambush marked the climax of the session\u2019s narrative arc.",
+    "source_quote": "Then Daral, glowing and cured and full of research, rose to leave \u2014 and found the door still locked.",
+    "quote_verified": true
+  }
+]

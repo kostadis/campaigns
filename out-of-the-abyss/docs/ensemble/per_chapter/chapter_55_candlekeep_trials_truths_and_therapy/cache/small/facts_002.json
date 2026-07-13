@@ -1,0 +1,100 @@
+[
+  {
+    "type": "npc",
+    "subject": "Elin",
+    "fact": "Elin is a 7-year-old girl who has been silent for six days, draws a six-pointed star on every flat surface in her environment, and speaks only in her sleep \u2014 her utterance being 'The wells are not wells anymore.'",
+    "source_quote": "She says it is only the shape that holds.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Maerith of the Ford",
+    "fact": "Maerith is Elin\u2019s mother, exhausted from seeking help at every temple and institution, and has repeatedly been turned away \u2014 she noticed the dragon-and-scale holy symbol as the usual trigger for hope.",
+    "source_quote": "She spotted my holy symbol during dinner, which is the usual trigger.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a meticulous observer with a precise mind, who noticed subtle environmental and perceptual anomalies others dismissed \u2014 including a growing pressure in his own head.",
+    "source_quote": "Daz mentioned the pressure in his own head \u2014 had been mentioning it, in various indirect ways, for a while now.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir identified the mechanism of Elin\u2019s condition as a perceptual distortion \u2014 the world is arriving as corrupted audio input she cannot process, not as magic or disease.",
+    "source_quote": "The input, the audio, the way the world was arriving at her rather than the world itself.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Dawnbringer",
+    "fact": "Dawnbringer is a sentient sword with strong opinions on timing and intervention; it initiated Lesser Restoration on Elin, which enabled her first coherent speech.",
+    "source_quote": "Let me bring the light to you.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "The Underdark\u2019s Structural Wrongness",
+    "fact": "An emergent, non-magical corruption originating beneath the Underdark is bleeding upward, disrupting perception and reality processing in those it touches \u2014 manifesting as auditory hallucinations and symbolic withdrawal.",
+    "source_quote": "The madness from the Underdark \u2014 the deep, structural wrongness we'd felt building around the demon lords... was not, apparently, staying below.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "The Temples",
+    "fact": "The temples have been unable to diagnose or treat Elin\u2019s condition, reflecting their institutional limitations against non-magical, non-infectious perceptual corruption.",
+    "source_quote": "The temples have no answer.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Lesser Restoration on Elin",
+    "fact": "A Lesser Restoration spell cast by Dawnbringer cleared enough mental interference for Elin to speak one coherent sentence \u2014 'The wells are not wells anymore.'",
+    "source_quote": "And then she spoke. 'The wells are not wells anymore.'",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Perceptual Distortion Diagnosis",
+    "fact": "The party concluded that Elin\u2019s condition is not a disease, infection, or magical effect, but a perceptual failure \u2014 the world is transmitting corrupted signals she cannot interpret, resulting in silence and symbolic repetition.",
+    "source_quote": "It wasn't a disease in the conventional sense. It was more like the world had started speaking a language she couldn't process.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Six-pointed star drawings",
+    "fact": "Elin\u2019s repeated drawings of a six-pointed star on every flat surface are not random \u2014 they are an attempt to externalize and stabilize an internal perceptual collapse.",
+    "source_quote": "She draws the same shape on every flat surface.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "The Wells Are Not Wells Anymore",
+    "fact": "Elin\u2019s utterance is a cryptic revelation pointing to a fundamental distortion in reality \u2014 'wells' may symbolize sources of perception, truth, or connection that have been corrupted or replaced.",
+    "source_quote": "The wells are not wells anymore.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "The Pressure in Daz\u2019s Head",
+    "fact": "Daz\u2019s unacknowledged head pressure suggests he is experiencing the same perceptual bleed as Elin \u2014 a sign the corruption is spreading and may be active in others.",
+    "source_quote": "I looked at him. I looked at Elin. I thought about what we'd just established.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "The Bleeding Underdark",
+    "fact": "The structural wrongness from beneath is not contained \u2014 it is rising, affecting perception across the surface world, and may be the root cause of recent phenomena in Neverlight Grove, the Pudding King\u2019s court, and now Elin.",
+    "source_quote": "It was reaching up. It was reaching Elin.",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "Session Date",
+    "fact": "The events occurred during a single night of medical and metaphysical inquiry \u2014 the culmination of failed temple visits, failed examinations, and a final revelation.",
+    "source_quote": "Twenty-three. My best of the evening, arriving too late to be medically useful and just in time to be philosophically concerning.",
+    "quote_verified": true
+  }
+]

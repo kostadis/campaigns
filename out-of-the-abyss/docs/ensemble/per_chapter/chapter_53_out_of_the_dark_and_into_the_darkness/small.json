@@ -1,0 +1,996 @@
+[
+  {
+    "type": "event",
+    "subject": "departure from darkness",
+    "fact": "The party emerged from the dark caverns into an even deeper darkness.",
+    "source_quote": "Out of the dark and into the darkness.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Nym Duskryn",
+    "fact": "Nym Duskryn is a Drow mercenary from Menzoberranzan, hired to protect Daz from House Mizzrym and House T'sarran. She speaks with the tone of practiced courtesy that masks professional detachment. She dismissed the threat of a low-level Lolth cultist as irrelevant and emphasized that Daz\u2019s survival was not her concern beyond contract terms.",
+    "source_quote": "Our terms of our contract were to make sure that the other drow factions didn't get you killed.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Kaelira Duskryn",
+    "fact": "Kaelira Duskryn is Nym\u2019s sister and co-mercenary. She is analytically precise, professionally confused by Daz\u2019s inexplicable value, and dismissive of his self-mythologizing. She assessed that Daz has no noble house, no lineage, and no known background \u2014 yet someone paid 'a lot' to protect him. She finds his existence an anomaly in the Drow power structure.",
+    "source_quote": "That is an excellent question. You don't belong to any noble house, your background is a complete mystery, you suddenly show up, and all of a sudden, we're contracted to protect a nobody.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is an unaffiliated Drow with no known noble house, lineage, or documented background. He is the subject of a high-value mercenary contract in Menzoberranzan despite being a 'nobody' in the eyes of the Drow elite. He is being hunted by House Mizzrym and House T'sarran, yet survived an extraction attempt without aid. He is uncertain why he is worth such expenditure and questions whether his origins hold hidden significance.",
+    "source_quote": "I literally have no idea why there's all this focus on me.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "House Mizzrym",
+    "fact": "House Mizzrym is a Drow noble house in Menzoberranzan that has targeted Daz for elimination. It is one of two primary threats named in the mercenary contract, indicating active hostility toward him.",
+    "source_quote": "House Mizzrym. House T'sarran. Those were the parameters.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "House T'sarran",
+    "fact": "House T'sarran is a Drow noble house in Menzoberranzan that has targeted Daz for elimination. It is one of two primary threats named in the mercenary contract, and the Duskryn sisters indicated they were prepared to handle its agents personally if needed.",
+    "source_quote": "House Mizzrym. House T'sarran. Those were the parameters.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Ilvara's House",
+    "fact": "Ilvara's House is a Drow noble house referenced as a threat to Daz, though it was not directly named in the final contract terms. The Duskryn sisters imply it was initially considered a danger, but Daz\u2019s own actions neutralized it.",
+    "source_quote": "We hoped that you'd be smart enough to avoid Ilvara... well, we could have handled House T'sarran and whatever goons they threw at you.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Lolth Cult (Asha)",
+    "fact": "Asha is a Lolth cultist devotedly faithful and genuinely unaware of Daz\u2019s true nature. She is dismissed by the Duskryn sisters as a trivial threat \u2014 a low-level initiate whose elimination would require seconds, not strategy.",
+    "source_quote": "If Daz can't protect himself from a low-level cult initiate of Lolth, then quite frankly, whoever paid for his survival deserves to lose his money.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "T'sarran goons",
+    "fact": "T'sarran goons are low-ranking agents or enforcers of House T'sarran, deployed as disposable threats against Daz. They were burned by Daz\u2019s party in a prior extraction attempt, indicating his capability to handle direct violence.",
+    "source_quote": "the T'sarran goons we'd just finished burning.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Extraction Contract",
+    "fact": "The extraction contract is a document produced by Daz\u2019s party that details the terms of an attempted operation. It was central to the Duskryn sisters\u2019 assessment of the threats and served as evidence of Daz\u2019s survival against House T'sarran\u2019s agents.",
+    "source_quote": "Kaelira gestured toward the scorched remnants of the extraction contract the party had produced \u2014 the document that had apparently been at the center of all this.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Extraction Attempt",
+    "fact": "An extraction attempt was made against Daz by agents of House T'sarran and possibly House Mizzrym. Daz and his party successfully burned the goons involved, neutralizing the threat without outside aid.",
+    "source_quote": "the T'sarran goons we'd just finished burning.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Daz's Origin",
+    "fact": "The mystery of Daz\u2019s origin \u2014 why a 'nobody' with no noble house or lineage is the target of a high-value mercenary contract \u2014 remains unresolved. The Duskryn sisters suspect it is a political game by the houses, but Daz himself has no knowledge of his past.",
+    "source_quote": "Do you know how much money that required us to get, for us to do? A lot. Like, they interrupt you. A lot.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Unknown Employer",
+    "fact": "An unknown party in Menzoberranzan paid a substantial sum to contract the Duskryn sisters to protect Daz. The identity, motives, and resources of this employer remain concealed, creating a persistent narrative thread of intrigue.",
+    "source_quote": "Someone had paid for this. Someone who knew I was here, knew who was hunting me, and knew enough to contract professionals rather than handle it directly.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "The Three Bravos",
+    "fact": "The Duskryn sisters\u2019 three 'bravos' after Daz\u2019s survival are interpreted as insincere \u2014 a professional mask for disinterest. This behavioral detail suggests their engagement was purely contractual, not personal.",
+    "source_quote": "Three *bravos*. I have found, as a general principle, that a third *bravo* is never sincere.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Menzoberranzan",
+    "fact": "Menzoberranzan is the Drow city-state where the mercenary contract was issued and where the power structures of noble houses govern life and death. Daz\u2019s lack of noble affiliation makes him an anomaly in this society, yet he is still targeted and protected at great cost.",
+    "source_quote": "Hired in Menzoberranzan. Hired to protect me \u2014 specifically, *me* \u2014 from Ilvara's House and from the T'sarran goons we'd just finished burning.",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "Session Date",
+    "fact": "The events occurred during a session in which Daz\u2019s identity and value were interrogated by the Duskryn sisters. The temporal anchor is implied by the narrative\u2019s immediacy and the reference to 'this moment' as the turning point in the threat assessment.",
+    "source_quote": "that list had, until approximately this moment, been empty.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is a member of Daz\u2019s party who attempted to retain the Duskryn sisters for continued protection. He asked directly about cost, but was met with an unyielding refusal that implied his group\u2019s resources were insufficient.",
+    "source_quote": "Thorin, to his credit, tried to retain them. He asked what it would cost.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Mercenary Contract Terms",
+    "fact": "The contract terms are narrowly defined: protect Daz from other Drow factions. The sisters are not obligated to ensure his survival beyond that, nor to prevent harm from non-house threats. Their duty ends where the contract ends.",
+    "source_quote": "Our terms of our contract were to make sure that the other drow factions didn't get you killed.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Bond Payment",
+    "fact": "The Duskryn sisters are operating under a bond system \u2014 they will be paid upon successful protection of Daz. If he dies, they risk losing their payment and facing consequences from their employer. This creates an implicit threat if Daz dies prematurely.",
+    "source_quote": "If you haven't eliminated all the other factions, and I go and get myself killed in the next 15 minutes, and you guys go and collect on the bond, and then your employer finds out \u2014 it's not gonna be a good day for you.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "The Price You Cannot Afford",
+    "fact": "The Duskryn sisters refuse to disclose the cost of their services, stating it is a price Daz\u2019s party 'cannot afford.' This implies either financial, moral, or metaphysical cost beyond coin \u2014 and that their employer\u2019s payment is tied to something far more dangerous than gold.",
+    "source_quote": "That is a fee... that is a price you cannot afford.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin has that look he gets \u2014 the one where he's deciding whether to charge at the problem or stand very still and wait for it to explain itself.",
+    "source_quote": "Thorin had that look he gets \u2014 the one where he's deciding whether to charge at the problem or stand very still and wait for it to explain itself.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum was probably filing away some theological observation about mysterious dispensations.",
+    "source_quote": "Grygum was probably filing away some theological observation about mysterious dispensations.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir, characteristically, was simply watching.",
+    "source_quote": "Zalthir, characteristically, was simply watching.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Milo Goodbarrel",
+    "fact": "Milo Goodbarrel, that relentlessly hopeful halfling whose book I'd read too many times to admit, had a phrase for the sensation I was experiencing. He called it *standing at the edge of the question that changes everything.*",
+    "source_quote": "Milo Goodbarrel, that relentlessly hopeful halfling whose book I'd read too many times to admit, had a phrase for the sensation I was experiencing. He called it *standing at the edge of the question that changes everything.*",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Menzoberranzan",
+    "fact": "In Menzoberranzan, that level of insulation around a financial transaction means exactly one thing: the payer has significant reason not to be associated with the purchase. Which means the purchase is either embarrassing, illegal, or dangerous to be seen making.",
+    "source_quote": "In Menzoberranzan, that level of insulation around a financial transaction means exactly one thing: the payer has significant reason not to be associated with the purchase. Which means the purchase is either embarrassing, illegal, or dangerous to be seen making.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "male Drow apostate",
+    "fact": "A male Drow apostate with no house affiliation and no apparent strategic value survived long enough to do whatever it was I was apparently supposed to do.",
+    "source_quote": "a male Drow apostate with no house affiliation and no apparent strategic value survived long enough to do whatever it was I was apparently supposed to do.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "hired blades",
+    "fact": "The hired blades didn't know who was paying.",
+    "source_quote": "even the hired blades didn't know who was paying.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "contract fulfillment",
+    "fact": "The contract was fulfilled; they were done.",
+    "source_quote": "The contract was fulfilled; they were done.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "origin of the quest",
+    "fact": "The thought had a particular shape. Elegant, in the way that retrospective clarity sometimes is. The whole of it \u2014 the capture, the escape, Velkynvelve, the months of running \u2014 threading back to a single point. Me. A nobody. A nobody that someone in Menzoberranzan had interrupted their schedule over, more than once.",
+    "source_quote": "*for all you know, the reason this all got started was because they all decided to be friends with the wrong drow.*",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "books",
+    "fact": "To audit their books.",
+    "source_quote": "To audit their books.",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "elapsed time",
+    "fact": "The months of running.",
+    "source_quote": "the months of running",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Menzoberranzan",
+    "fact": "Someone in Menzoberranzan had spent generously \u2014 *they interrupt you, a lot* \u2014 to ensure that a male Drow apostate with no house affiliation and no apparent strategic value survived long enough to do whatever it was I was apparently supposed to do.",
+    "source_quote": "Someone in Menzoberranzan had spent generously \u2014 *they interrupt you, a lot* \u2014 to ensure that a male Drow apostate with no house affiliation and no apparent strategic value survived long enough to do whatever it was I was apparently supposed to do.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "me",
+    "fact": "I was a nobody. A nobody that someone in Menzoberranzan had interrupted their schedule over, more than once.",
+    "source_quote": "Me. A nobody. A nobody that someone in Menzoberranzan had interrupted their schedule over, more than once.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Asha Vandree",
+    "fact": "Asha Vandree is a cleric of Lolth who declared herself in charge after surviving chaos, and was subdued by a grapple before being silenced by lethal strikes. Even restrained, she was observed composing a prayer.",
+    "source_quote": "I am blessed by Lolth!",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin attempted to subdue Asha Vandree with a grapple, clamping his hand over her mouth to prevent spellcasting. His method was ineffective as a long-term solution, and he later claimed he could have killed her if he'd wanted to.",
+    "source_quote": "I could have taken her out if I wanted to.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Nym",
+    "fact": "Nym criticized Thorin's grapple as inadequate against a Lolth cleric, asserting that the only proper response is to cut off the cleric's head. She made 'grapple' sound like a mild obscenity and questioned Thorin's competence.",
+    "source_quote": "When attacking a cleric of Lolth, one does not just simply grapple them. One takes your blade and cuts their heads off.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum attempted to incapacitate Asha with a burst of divine light, which missed. He later expressed reluctance to kill and sought alternatives, maintaining a moral stance against unnecessary violence.",
+    "source_quote": "I don't like killing people if I don't have to.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz remained expressionless while calculating rapidly, observing the confrontation without intervention. His neutrality and deliberation marked him as a silent strategist.",
+    "source_quote": "(no direct quote \u2014 his silence was his statement)",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Kaelira",
+    "fact": "Kaelira clapped slowly and deliberately after Asha's death, applauding the lethal action as a demonstration of capability. Her praise carried an undertone of critique and implied disbelief in the group's prior hesitation.",
+    "source_quote": "Well done, well done, well done! See, he wasn't completely defenseless.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Asha Vandree (as Lolth cleric)",
+    "fact": "Asha Vandree, as a cleric of Lolth, could cast divine spells, command, and curse even when restrained. A grapple does not prevent prayer \u2014 only death does. Her mouth being covered was insufficient to neutralize her threat.",
+    "source_quote": "A Lolth cleric with her mouth uncovered is a Lolth cleric who can pray, command, curse \u2014 and a grapple, however competent, doesn't hold forever.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "The Narrator",
+    "fact": "The narrator, bearing an Eldritch Claw Tattoo, acted decisively when others hesitated. They moved unseen, delivered precise lethal strikes, and silenced Asha before she could speak again. They acknowledged their action as irreversible and refused to look at the body.",
+    "source_quote": "I made it. That's all. I didn't look at the body.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "silencing of Asha Vandree",
+    "fact": "Asha Vandree was rendered permanently silent by a swift, precise lethal strike from the narrator's Eldritch Claw Tattoo. The silence that followed was the kind that follows a decision you can't walk back.",
+    "source_quote": "Asha Vandree did not get another word out.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "moral uncertainty in decisive action",
+    "fact": "The group grappled with the ethics of necessary violence: Thorin's reluctance, Grygum's alternatives, Daz's neutrality, Nym's pragmatism, and Kaelira's cold approval. The narrator's action resolved the tension \u2014 not by consensus, but by finality.",
+    "source_quote": "All of it was reasonable. All of it was true. I just happened to also be true.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "the room where Asha was subdued",
+    "fact": "The room was charged with tension, observation, and unspoken calculations. It was a space where decisions were made not by words but by movement \u2014 grapples, strikes, silence, and applause.",
+    "source_quote": "I was watching Asha. I've read rooms like this before.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Eldritch Claw Tattoo",
+    "fact": "The Eldritch Claw Tattoo does not announce itself. It allows its bearer to move with supernatural precision, delivering strikes that are faster and more accurate than trained combat drills. It was used to silence Asha Vandree permanently.",
+    "source_quote": "One moment I was behind her, the next my hands were something else \u2014 longer, reaching \u2014 and the strikes came in sequence...",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Lolth's clergy",
+    "fact": "Clerics of Lolth are feared for their ability to curse, command, and pray even under physical restraint. Their survival depends on vocal invocation \u2014 meaning silence is the only true neutralization.",
+    "source_quote": "A Lolth cleric with her mouth uncovered is a Lolth cleric who can pray, command, curse \u2014 and a grapple, however competent, doesn't hold forever.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Asha Vandree",
+    "fact": "Asha Vandree was a cleric of Lolth who became indistinguishable from the rot she served, and was looted with efficient respect after her theological problem was resolved.",
+    "source_quote": "She had been a cleric of Lolth who had also become, in some capacity, a cleric of Zuggtmoy, and in the end she had been indistinguishable from the rot she served.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "holy symbol of Lolth",
+    "fact": "The holy symbol of Lolth was recovered from Asha Vandree's remains.",
+    "source_quote": "The holy symbol of Lolth. Chain mail. Prayer beads. And a sealed wax pouch.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "chain mail",
+    "fact": "Chain mail was recovered from Asha Vandree's remains.",
+    "source_quote": "The holy symbol of Lolth. Chain mail. Prayer beads. And a sealed wax pouch.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "prayer beads",
+    "fact": "Prayer beads were recovered from Asha Vandree's remains.",
+    "source_quote": "The holy symbol of Lolth. Chain mail. Prayer beads. And a sealed wax pouch.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "sealed wax pouch",
+    "fact": "A sealed wax pouch was recovered from Asha Vandree's remains and contained a theological manuscript.",
+    "source_quote": "And a sealed wax pouch.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Drow cloak",
+    "fact": "A fine spider-silk Drow cloak that drinks shadow was taken from Asha Vandree's body by Zalthir.",
+    "source_quote": "Zalthir took the Drow cloak she'd been wearing \u2014 the fine spider-silk kind that drinks shadow \u2014 and I did not begrudge him that.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "wax pouch contents",
+    "fact": "The wax pouch contained pages of close, careful script detailing a theological argument that Lolth and Zuggtmoy are the same entity.",
+    "source_quote": "Inside were pages of close, careful script \u2014 the handwriting of someone who had once been methodical, who had trained as a theologian and brought that training to bear on a question that should not have been asked.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "theological manuscript discovery",
+    "fact": "A theological manuscript was discovered arguing that Lolth and Zuggtmoy are the same being \u2014 a conclusion reached by backward reasoning from a desired outcome.",
+    "source_quote": "It's basically a long theological exploration of why Zuggtmoy and Lolth \u2014 and claiming that Lolth and Zuggtmoy are the same thing... It was very well-argued. It was also completely mad.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "pre-craziness or post-craziness",
+    "fact": "It is unresolved whether Asha Vandree's theological manuscript was written before or after her mind succumbed to madness.",
+    "source_quote": "Is this pre-craziness or post-craziness, do you think?",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Ilvara",
+    "fact": "Ilvara, a high priestess, had been carrying the tooth of Thorin as a trophy \u2014 collecting it like a curiosity \u2014 before being killed by the narrator.",
+    "source_quote": "Ilvara had been carrying it. Of course she had \u2014 she was exactly the sort of high priestess who would keep trophies, who would drag along evidence of her ownership of people the way some clerics keep relics... She had been carrying his tooth around the Underdark. She had collected it like a curiosity. I filed that under Ilvara, and closed the file, because she was already dead and I had killed her.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Thorin's tooth",
+    "fact": "Thorin's tooth was recovered from Ilvara's confiscated prisoner belongings and returned to him.",
+    "source_quote": "I opened it, and the contents were exactly what you would expect from someone who understood that stripping a prisoner of their possessions is the first act of stripping them of themselves... 'Oh, yeah. I want my tooth back.' He reached in and found it.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "water-damaged journal",
+    "fact": "A water-damaged prisoner journal was found, its ink run in places but handwriting still legible \u2014 the record of someone who kept records until they could no longer.",
+    "source_quote": "We also found a water-damaged journal from a prisoner we would never meet \u2014 someone who had written things down and then, presumably, stopped being able to... the handwriting was still visible in the drier sections, the marks of a person who had kept records right up until they couldn't.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "flask of Overbright brandy",
+    "fact": "A flask of Overbright brandy was received with considerable personal interest.",
+    "source_quote": "The flask of Overbright brandy I received with considerably more personal interest.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin reclaimed his tooth from Ilvara's possessions and acknowledged its sentimental value, though he said little after.",
+    "source_quote": "'Oh, yeah. I want my tooth back.' He reached in and found it. He held it for a moment without saying anything. Then: 'Very sentimental.'",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir took possession of Asha Vandree\u2019s Drow cloak, a fine spider-silk garment that drinks shadow.",
+    "source_quote": "Zalthir took the Drow cloak she'd been wearing \u2014 the fine spider-silk kind that drinks shadow \u2014 and I did not begrudge him that.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Ilvara's prayer book",
+    "fact": "Ilvara's prayer book is a standard Lolth prayer book with marginalia in a different hand, documenting the corruption timeline caused by Zuggtmoy; the early entries are neat and formal, but gradually a second, more associative voice creeps in, suggesting the writer may have been altering their own mind.",
+    "source_quote": "It's just a prayer book,\" I said, turning pages slowly, \"but you notice it has Zuggtmoy marginalia \u2014 the margins in a different hand \u2014 since it shows the corruption timeline. So basically, you can see, like, she was normal, and then things started to go sideways.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "sealed orders from House Mizzrym",
+    "fact": "The sealed orders from House Mizzrym are urgent, fragmented communications demanding Ilvara\u2019s whereabouts, escalating from formal inquiry to frantic repetition, indicating she has gone missing and her absence has disrupted political channels.",
+    "source_quote": "Where are you? What have you been doing? Respond \u2014 kind of thing. You've gone missing. Followed by more frantic: where are you, where are you? Didn't you read the previous memo? What's up?",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "letter from Neverlight Grove",
+    "fact": "The letter from Neverlight Grove is unopened political correspondence that went unanswered, because Ilvara \u2014 the intended recipient \u2014 was no longer available to respond, having been pulled away by a stronger influence: the Demon Queen\u2019s sway.",
+    "source_quote": "A missed meeting. Political correspondence that had gone nowhere, because the person it was addressed to had gone somewhere else \u2014 somewhere a Demon Queen's influence had been a stronger pull than any political alliance.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Living Serpent Head Scourge",
+    "fact": "The Living Serpent Head Scourge is a weapon whose head was once a living serpent, now in an intermediate state between life and death; it is remarkable in craft and terrible in origin, treated as a museum artifact rather than a tool of worship or violence.",
+    "source_quote": "The Living Serpent Head Scourge sounds... I paused, considering the thing, which was exactly what it sounded like \u2014 a scourge whose head was an actual living serpent, or had been, in some intermediate state between alive and not. 'It sounds like a great museum piece.'",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "wax pouch",
+    "fact": "The wax pouch is an unopened container, likely holding a relic, message, or cursed substance; its presence among the other items implies it is part of Ilvara\u2019s final, unresolved legacy, its contents unknown but intentionally preserved.",
+    "source_quote": "The prayer book. The wax pouch. The sealed orders. The serpent scourge.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Ilvara",
+    "fact": "Ilvara was a high priestess of Lolth, ambitious and politically dangerous, who was slowly subverted by Zuggtmoy; the marginalia in her prayer book suggests she may have been aware of her own corruption \u2014 or may have believed she was still acting of her own will.",
+    "source_quote": "She had not resisted it. I could not tell from the text whether she had known she wasn't resisting or whether she had genuinely believed she was still moving in her own direction. That ambiguity was the most troubling part.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "House Mizzrym",
+    "fact": "House Mizzrym maintained formal communication with Ilvara and is now discovering her disappearance; their urgency reveals a dependency on her role, and their eventual reckoning will confront the unexplained collapse of a key agent.",
+    "source_quote": "House Mizzrym would learn eventually, I supposed. We had helped with that.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Neverlight Grove",
+    "fact": "Neverlight Grove attempted to maintain political ties with Ilvara, but their correspondence failed due to her absence; their loss reflects the fragility of alliances when a figure is consumed by a greater, hidden power.",
+    "source_quote": "A missed meeting. Political correspondence that had gone nowhere, because the person it was addressed to had gone somewhere else \u2014 somewhere a Demon Queen's influence had been a stronger pull than any political alliance.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Zuggtmoy",
+    "fact": "Zuggtmoy is an ancient, insidious entity that corrupts through subtle influence, inscribing itself into the minds and texts of its victims; its presence is detected not by force, but by the gradual distortion of faith, language, and self.",
+    "source_quote": "Someone else had written in her prayer book. Or \u2014 and this was the reading that settled in my stomach like cold stone \u2014 she had written in it herself but in a state so altered that the handwriting had changed.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Demon Queen (Lolth)",
+    "fact": "The Demon Queen (Lolth) exerts a pull stronger than political or religious allegiance; her influence is not always overt, but it reorients the will of her followers, often replacing their ambition with something older and stranger.",
+    "source_quote": "Something a Demon Queen's influence had been a stronger pull than any political alliance.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Ilvara\u2019s corruption timeline",
+    "fact": "The marginalia in Ilvara\u2019s prayer book forms a legible but ambiguous timeline of her subversion; the key unresolved question is whether she recognized her own loss of agency \u2014 or whether she was deluded into believing she still acted autonomously.",
+    "source_quote": "I could not tell from the text whether she had known she wasn't resisting or whether she had genuinely believed she was still moving in her own direction. That ambiguity was the most troubling part.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "the wax pouch\u2019s contents",
+    "fact": "The wax pouch remains unopened; its contents are unknown, but its inclusion among the other items implies it is a critical piece of evidence \u2014 possibly containing a final message, a curse, or a key to Ilvara\u2019s last actions.",
+    "source_quote": "The prayer book. The wax pouch. The sealed orders. The serpent scourge.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "the two hands in the marginalia",
+    "fact": "The presence of two distinct handwriting styles in the prayer book suggests either a second entity inscribing itself into Ilvara\u2019s mind, or Ilvara\u2019s own fractured identity; the deeper mystery is whether the second hand was an external force or an internal collapse.",
+    "source_quote": "Two hands because two minds had been working the same pen.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Ilvara\u2019s disappearance",
+    "fact": "Ilvara vanished without warning, leaving behind a trail of corrupted texts and unanswered communications; her absence triggered urgent inquiries from House Mizzrym and silence from Neverlight Grove, revealing the fragility of her political and religious roles.",
+    "source_quote": "You've gone missing. Followed by more frantic: where are you, where are you? Didn't you read the previous memo? What's up?",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The events described occurred during the current session, as the narrator catalogues Ilvara\u2019s remains and documents the signs of her corruption; the timeline of the marginalia spans years, but the examination is immediate.",
+    "source_quote": "I took notes instead.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is an elf with no known noble house affiliation, mysterious background, and sudden appearance; a contract was issued to extract him alive and unharmed by House T'sarran, indicating he is of significant value.",
+    "source_quote": "So then maybe there's more to me than meets the eye?",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Ilvara",
+    "fact": "Ilvara was a High Priestess who built rituals around a fused sigil of Lolth and Zuggtmoy, indicating her madness and dual allegiance to two conflicting deities; her physical artifacts were found as evidence of her transformation.",
+    "source_quote": "It was Ilvara's madness made physical \u2014 the thing she'd built her rituals around while she was becoming something that served two masters and understood neither.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "The Mage (House T'sarran)",
+    "fact": "The deceased mage carried House T'sarran's signet ring and partially burned documents confirming a contract to extract Daz alive; she was likely the courier of the order and is now dead with the evidence on her person.",
+    "source_quote": "The mage who'd been carrying those orders was now dead on the floor with a T'sarran ring on her finger.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "House T'sarran",
+    "fact": "House T'sarran commissioned a contract to extract Daz alive and unharmed, using professional Drow mercenaries and routing the order through a house with sufficient reach to ensure execution; they are directly implicated in the events of the chamber.",
+    "source_quote": "House T'sarran behind it.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "House Mizzrym",
+    "fact": "House Mizzrym employed a contingent of soldiers who were killed in the chamber; their bodies bore gold, short swords, a long sword, and a steel whistle, but their pay will never be collected.",
+    "source_quote": "The dead soldiers of House Mizzrym would never collect their pay.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "destruction of fungal corruption",
+    "fact": "Grygum destroyed the pulsing fungal growth tied to Zuggtmoy's influence using acid, reducing months of corrupted growth to ash in a single exhalation; the act eliminated a persistent necromantic threat.",
+    "source_quote": "The fungal matter that had spent months becoming something wrong collapsed into ash in the time it takes to exhale.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "discovery of the artifact",
+    "fact": "A smooth, dense, fist-sized object, not fungus but clearly worked by a skilled hand, was found at the core of the fungal mass; it radiated a necromantic sensation and was pocketed as valuable evidence.",
+    "source_quote": "Smooth. Dense. Fist-sized. The weight of it was wrong for something grown \u2014 too even, too finished, like a stone that had been worked by a hand that knew what it was doing.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "T'sarran Signet Ring",
+    "fact": "A signet ring bearing the unmistakable seal of House T'sarran was found on the deceased mage; it serves as proof of her affiliation and the origin of the contract to extract Daz.",
+    "source_quote": "I found the signet ring first \u2014 House T'sarran, the seal unmistakable on the face of it.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Obsidian Wand with Captive Spider",
+    "fact": "An obsidian wand containing a preserved spider in amber was recovered from the mage; its magical properties and origin remain unanalyzed but suggest high-level arcane craftsmanship.",
+    "source_quote": "Then the wand: obsidian, a captive spider preserved in amber at its tip.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Fused Sigil Cloth",
+    "fact": "A leather-wrapped bundle contained a cloth stitched with the interwoven sigils of Lolth and Zuggtmoy in an eight-fold geometry; it is physical evidence of Ilvara's heretical rituals and dual devotion.",
+    "source_quote": "a cloth that had been stitched with two sigils \u2014 Lolth's web worked into the eight-fold geometry of Zuggtmoy's mark, one woven inside the other.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Partially Burned Documents",
+    "fact": "Documents partially destroyed by fire contained confirmation of the contract to extract Daz alive; their incomplete state suggests deliberate but unsuccessful destruction, preserving critical evidence.",
+    "source_quote": "They'd been partially burned, which meant someone had tried to destroy them and hadn't quite managed it, which meant the information in them was exactly the kind of thing worth knowing.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Zuggtmoy's Fungal Growth",
+    "fact": "A slow-pulsing, necromantic fungal mass infused with Zuggtmoy's influence had grown up the chamber's stone; it was destroyed by Grygum's acid, collapsing into ash after months of active corruption.",
+    "source_quote": "The fungal growth that had crept up the stone was still pulsing with Zuggtmoy's reach, slow and rhythmic like breathing.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Daz's True Identity",
+    "fact": "Daz's origins are unknown, yet a powerful noble house spent significant resources to ensure his survival; this implies he is not who he appears to be, and his true nature is a major unresolved mystery.",
+    "source_quote": "So then maybe there's more to me than meets the eye?",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "House T'sarran's Motive",
+    "fact": "House T'sarran's motive for extracting Daz alive remains unexplained; the scale of the operation suggests deeper political or arcane stakes beyond simple mercenary work.",
+    "source_quote": "Somebody had spent a significant amount of gold to ensure that the elf standing to my left made it out of this cavern breathing.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Ilvara's Dual Devotion",
+    "fact": "Ilvara's fusion of Lolth and Zuggtmoy's sigils indicates a heretical, unstable synthesis of two opposing deities; the reason for this synthesis and its consequences remain unknown.",
+    "source_quote": "It was Ilvara's madness made physical \u2014 the thing she'd built her rituals around while she was becoming something that served two masters and understood neither.",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The events described occurred during a single session of exploration following the mage's arrival with her mercenary escort; no calendar date is given, but the sequence is immediate and continuous.",
+    "source_quote": "in the last several months",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Ilvara",
+    "fact": "Ilvara collected trophies from her captives to establish a clear power dynamic, specifically taking a tooth from the speaker and displaying it as evidence of her dominance.",
+    "source_quote": "she'd taken my tooth. A chip broken off in the capture, displayed in her chest like a piece of evidence of what she could do.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin Giantfriend",
+    "fact": "Thorin Giantfriend practices radical transparency except when the thing being said wouldn't add anything to the next ten seconds, and chose silence in this moment.",
+    "source_quote": "Thorin Giantfriend, radical transparency, except when the thing being said wouldn't add anything to the next ten seconds.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "corrupted fungal mass",
+    "fact": "A corrupted fungal mass served as a ritual anchor for Ilvara, and its core contained a necromantic pearl that had either been placed there or grown there under precisely right conditions.",
+    "source_quote": "at the core of a corrupted fungal mass that Ilvara had been using as a ritual anchor... the pearl wasn't in the wrong place by accident. Someone had put something like it there, or something like it had grown there because the conditions were exactly right for it.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "necromantic pearl",
+    "fact": "The necromantic pearl was buried in the heart of the corrupted place Ilvara had transformed, and now resides with the speaker as one of two key objects marking the origin and extent of the corruption.",
+    "source_quote": "I had the pearl that had been buried in the heart of whatever she'd turned this place into.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "tooth",
+    "fact": "The speaker's tooth, taken by Ilvara as a trophy, has been reclaimed and now serves as one of two objects marking the starting point of the conflict.",
+    "source_quote": "I had the tooth back.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Velkynvelve",
+    "fact": "Velkynvelve is a location where the speaker was captured and held in nets, and where Ilvara established dominance through ritualized trophy-taking.",
+    "source_quote": "When we'd first found ourselves hanging in nets at Velkynvelve, Ilvara had made a point of collecting trophies.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "chamber",
+    "fact": "The chamber is the current location where the speaker has paused to observe, check their pocket, and prepare to move on, with the smell of scorched rot lingering as an unresolved question.",
+    "source_quote": "We still had a chamber to clear... and the smell of scorched rot hanging in the air like a question that hadn't finished resolving itself.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "origin and extent of corruption",
+    "fact": "The two objects \u2014 the reclaimed tooth and the necromantic pearl \u2014 mark the origin of the conflict and the extent of the corruption that spread before the speaker's arrival, but their full meaning remains unnamed and unresolved.",
+    "source_quote": "One that marked where we started, and one that marked how far the corruption had spread by the time we got here.",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "elapsed time since capture",
+    "fact": "Months have passed since the speaker was captured at Velkynvelve and their tooth taken, during which they intermittently thought about the unresolved debt.",
+    "source_quote": "I'd thought about that tooth on and off during the months since.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a male Drow apostate from Menzoberranzan who studied magic, held private opinions that would have gotten him killed if voiced aloud, and ended up in Velkynvelve's cages alongside a dwarf raised by giants and a dragonborn who doesn't talk much. He is confused about why powerful Drow houses are targeting him and does not believe he is a person of consequence.",
+    "source_quote": "I am not, by any meaningful measure, a person of consequence.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Nym",
+    "fact": "Nym is one of the Drow sisters hired through cutouts to extract Daz, and she regards him with a mix of interest and condescension, having seen similar cases of self-deluded Drow before.",
+    "source_quote": "They had opinions, the sisters, about mysterious orphans who arrive at adulthood convinced they have noble blood waiting somewhere.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Kaelira",
+    "fact": "Kaelira is the other Drow sister hired to extract Daz, and like Nym, she finds him either fascinating or ridiculous, having witnessed this kind of performance before.",
+    "source_quote": "They had seen this particular performance before, apparently.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is a dwarf who carries the sentient sunblade Dawnbringer and has developed a patient, ritualized method of managing its objections using the Vaultmaster Locking Scabbard.",
+    "source_quote": "Do I need to show you the scabbard again?",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Dawnbringer",
+    "fact": "Dawnbringer is a sentient sunblade that refuses to be used as a ritual tool for purification, insisting it is a weapon designed to kill, not venerate. It has strong philosophical objections to being treated as a religious symbol.",
+    "source_quote": "I'm not some kind of magical wizard thingy that purifies things. I am a high-quality sunblade. I kill things.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Vaultmaster Locking Scabbard",
+    "fact": "The Vaultmaster Locking Scabbard is a specialized scabbard used by Thorin to negotiate with Dawnbringer, functioning as an effective tool of coercion and persuasion when the blade's rhetoric exceeds its better judgment.",
+    "source_quote": "I have observed that the Vaultmaster Locking Scabbard functions as a remarkably effective negotiating tool when Dawnbringer's rhetoric outpaces its better judgment.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Dawnbringer's reluctant agreement",
+    "fact": "Dawnbringer, after being reminded of the scabbard, reluctantly agreed to participate in a purification ritual it finds philosophically objectionable, granting the group a significant concession.",
+    "source_quote": "I suppose I could do you this one. I could do this solid for you.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Daz's true identity",
+    "fact": "Daz carries an unresolved question about why powerful Drow houses are targeting him, suspecting the answer lies beyond his own self-perception as an insignificant apostate, but has no concrete evidence to confirm any theory.",
+    "source_quote": "I have no idea why.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "The contracting party",
+    "fact": "The identity of the unknown party that hired the Drow sisters to extract Daz remains concealed even from the mercenaries themselves, suggesting layers of deliberate opacity and high-stakes secrecy.",
+    "source_quote": "The contracting party was unknown even to them.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Velkynvelve's cages",
+    "fact": "Velkynvelve's cages are the place where Daz was imprisoned alongside a dwarf raised by giants and a dragonborn who doesn't talk much, marking the last known location before his current journey toward the surface.",
+    "source_quote": "Eventually ended up in Velkynvelve's cages alongside a dwarf raised by giants and a dragonborn who doesn't talk much.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "the road to the surface",
+    "fact": "The road to the surface is the current path of travel for Daz and his companions, symbolizing their transition from subterranean exile toward an uncertain future above ground.",
+    "source_quote": "Around me, the road to the surface waited.",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The events described occurred during the current session of travel, marked by the progression from camp discussion to the confrontation with Dawnbringer and the decision to investigate the mystery surrounding Daz.",
+    "source_quote": "We moved on.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin emerged first from the tunnel, as he always leads from the front \u2014 it was as close to instinct as that dwarf ever got.",
+    "source_quote": "Thorin first, which was correct \u2014 he always led from the front, always had, it was as close to instinct as that dwarf ever got.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum emerged second, blinking with something that looked less like discomfort and more like relief, experiencing a genuine spiritual moment with direct sunlight.",
+    "source_quote": "Grygum next, blinking with something that looked less like discomfort and more like relief, the earnest half-orc having what appeared to be a genuine spiritual moment with direct sunlight.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz emerged last, as he always does, already observing before he was fully present, already composing the analysis before his feet had cleared the threshold.",
+    "source_quote": "Daz came through last, the way Daz always came through last, already observing before he was fully present, already composing the analysis before his feet had cleared the threshold.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Eldeth",
+    "fact": "Eldeth emerged with the rest of the surviving crew after Daz, part of the group who had survived this journey.",
+    "source_quote": "The rest of our moltley crew followed, Eldeth, Spiderbait, and the rest of the folks who had survived this journey.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Spiderbait",
+    "fact": "Spiderbait emerged with the rest of the surviving crew after Daz, part of the group who had survived this journey.",
+    "source_quote": "The rest of our moltley crew followed, Eldeth, Spiderbait, and the rest of the folks who had survived this journey.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "emergence into the Overbright",
+    "fact": "The party emerged from the tunnel into the Overbright \u2014 a light that simply was, filling everything from every direction at once, causing the body to register a fundamental change, not as pain but as an existential shift.",
+    "source_quote": "The light that came through the tunnel mouth was not like Dawnbringer's light, not like faerie fire or bioluminescence or any of the things we had been navigating by for however many months it had been \u2014 I genuinely cannot tell you how many months it had been. It was not a light that came from a source. It was a light that simply *was*, filling everything from every direction at once, and what I felt when it touched my face was a kind of violence, or close to it. Not pain. Just the body registering that something fundamental had changed, the same way a deep-water creature might register the pressure dropping.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "duration of tunnel journey",
+    "fact": "The exact duration of the tunnel journey is unknown \u2014 the narrator has lost count and cannot tell how many months it had been.",
+    "source_quote": "I genuinely cannot tell you how many months it had been.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "the Overbright",
+    "fact": "The Overbright is a place of unnatural, self-sustaining light that fills everything from every direction, experienced as a profound and violent shift in perception, not a source-based illumination.",
+    "source_quote": "The Overbright was a concept I had been carrying through Velkynvelve and Gracklstugh and the Darklake and Blingdenstone like a stone in a pocket, something I reached for when the tunnels pressed too close. I had stopped trusting it would be real. It was real. The light that came through the tunnel mouth was not like Dawnbringer's light... It was a light that simply *was*, filling everything from every direction at once...",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "the tunnel mouth",
+    "fact": "The tunnel mouth is the passage through which the party emerged into the Overbright, previously experienced as a long, disorienting climb where counting steps became superstition.",
+    "source_quote": "The tunnel mouth opened like a held breath finally released. I had stopped counting the steps somewhere around the third hour of climbing \u2014 not because I lost track, but because counting had started to feel like superstition...",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz possesses the Stonespeaker Crystal and is likely drafting journal entries about the surface world; he proposed Candlekeep as the group's next destination and is researching House T'sarran, Jimjar's disappearance, and the Duskryns' implications regarding his own history.",
+    "source_quote": "Daz was, I suspected, already drafting a journal entry.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin carries Dawnbringer and is contemplating its nature after months of darkness; he mentioned a 'sword whisperer' as a specialist who might understand the blade's radiance, and he is calculating the sun's position relative to the year.",
+    "source_quote": "Thorin stood with his face at an angle that suggested he was calculating the sun's position relative to the year.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum opened the Bag of Holding and now carries pamphlets on his mind; he plans to research Bahamut's lore and is genuinely delighted by the availability of pamphlets at Candlekeep.",
+    "source_quote": "Grygum was doing something with his hands that was probably prayer and probably sincere.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool is a gelatinous ward who transformed into a grey ooze; he peered out of the Bag of Holding onto the surface world for the first time, exhibiting curiosity rather than retreat, and his eyes remain structurally unknown but were wide and sweeping.",
+    "source_quote": "Glabbagool \u2014 our companion, our gelatinous ward who was now a grey ooze \u2014 had peered out. There is no other word for it.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "House T'sarran",
+    "fact": "House T'sarran is the target of Daz's research; its connection to Jimjar's disappearance and the Duskryns' activities is being investigated as part of a larger inquiry into Daz's own past.",
+    "source_quote": "research into House T'sarran and Jimjar's disappearance and whatever the various cutouts and hired Duskryns were ultimately pointing at regarding Daz's own history",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Duskryns",
+    "fact": "The Duskryns are hired agents whose activities point toward deeper implications regarding Daz's history; they are being investigated alongside House T'sarran and Jimjar's disappearance.",
+    "source_quote": "whatever the various cutouts and hired Duskryns were ultimately pointing at regarding Daz's own history",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool is a gelatinous ooze that survived Blingdenstone, the ooze crisis, the Bag of Holding, and months of Underdark travel; his first reaction to the surface world was curiosity, not fear or retreat.",
+    "source_quote": "Glabbagool had survived Blingdenstone, the ooze crisis, the bag of holding, and however many months of Underdark travel, and his first reaction to the surface world was curiosity rather than retreat.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Stonespeaker Crystal",
+    "fact": "The Stonespeaker Crystal is possessed by Daz and is likely tied to his personal history; its properties and connection to the surface world are being observed but not yet understood.",
+    "source_quote": "The Stonespeaker Crystal was Daz's.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Dawnbringer",
+    "fact": "Dawnbringer is Thorin's sentient sword, forged for radiance but forced into prolonged darkness; Thorin believes it requires a 'sword whisperer' to understand its nature and is determined not to relinquish it.",
+    "source_quote": "Thorin, characteristically, was thinking about Dawnbringer. Not what to do with it; he would never give it up, and the sword would never go quietly.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Bag of Holding",
+    "fact": "The Bag of Holding was opened by Grygum, allowing Glabbagool to emerge; it has survived Blingdenstone, the ooze crisis, and months of Underdark travel, and its contents remain unexplained.",
+    "source_quote": "Grygum had opened the bag of holding just enough, and Glabbagool \u2014 our companion, our gelatinous ward who was now a grey ooze \u2014 had peered out.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "arrival on the surface",
+    "fact": "The party emerged onto the surface world after prolonged Underdark travel; they remained stationary longer than tactical norms dictated, observing the sky, the sun, and their own reactions to the Overbright.",
+    "source_quote": "We stood in the Overbright for a while, longer than was probably necessary from a tactical standpoint, and nobody suggested moving immediately.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "decision to go to Candlekeep",
+    "fact": "The group decided to travel to Candlekeep, the Great Library, as their next destination; the decision was framed as a group discussion but was strongly influenced by Daz's analytical gravity and research priorities.",
+    "source_quote": "The decision about what to do with the months was largely Daz's call, framed as a group discussion but with Daz's particular analytical gravity already pulling it toward a conclusion before the conversation began.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "purchase of adventuring gear",
+    "fact": "The party agreed to spend their surplus gold on adventuring gear rather than business ventures, reasoning that gear reduces consequences of danger and infrastructure or stability were not yet earned.",
+    "source_quote": "We agreed on the gear.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Glabbagool's eyes",
+    "fact": "The structural nature of Glabbagool's eyes remains unknown; their presence and behavior on the surface suggest sentience or perception beyond typical ooze biology, but no one has the vocabulary to ask what they see.",
+    "source_quote": "None of us were entirely sure what Glabbagool's eyes were, from a structural standpoint, but they were wide and present and sweeping across the surface world with an attention that made my own response to the Overbright seem, by comparison, measured.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Daz's true history",
+    "fact": "Daz's personal history is entangled with House T'sarran, Jimjar's disappearance, and the Duskryns' activities; the full truth remains hidden, and research at Candlekeep may uncover it.",
+    "source_quote": "research into House T'sarran and Jimjar's disappearance and whatever the various cutouts and hired Duskryns were ultimately pointing at regarding Daz's own history",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "sword whisperer",
+    "fact": "Thorin believes a 'sword whisperer' exists \u2014 a specialist who can understand Dawnbringer's nature after its time in darkness \u2014 but no one knows who this person is or where to find them.",
+    "source_quote": "He had mentioned something about a specialist \u2014 the phrase *sword whisperer* had come up, delivered with the particular dwarvish seriousness that Thorin applied to things he actually cared about, which meant he believed this person existed and should be found.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "the meaning of the Overbright",
+    "fact": "The party's prolonged observation of the surface sky suggests an unspoken emotional or spiritual reckoning with light after prolonged darkness, but no one has the words to articulate what they feel.",
+    "source_quote": "I watched him watch the sky. Whatever he made of it, I did not have the vocabulary to ask.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Candlekeep",
+    "fact": "Candlekeep, the Great Library, is the group's chosen destination; it is seen as a source of information on House T'sarran, Jimjar, the Duskryns, Bahamut, and the lore of the surface world.",
+    "source_quote": "Candlekeep, the Great Library, research into House T'sarran and Jimjar's disappearance...",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "The Surface World",
+    "fact": "The surface world, referred to as the Overbright, is the first environment the party has encountered after months in the Underdark; its light, scale, and openness provoke curiosity, awe, and unspoken emotional responses.",
+    "source_quote": "We stood in the Overbright for a while, longer than was probably necessary from a tactical standpoint...",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "after the Underdark",
+    "fact": "The events described occur after months of Underdark travel; the passage of time is marked by recovery, softening of memory, and the transition from survival to purpose.",
+    "source_quote": "The weeks that followed blurred in the way that recovery blurs \u2014 not forgetting, exactly, but the edges going soft.",
+    "quote_verified": true
+  }
+]

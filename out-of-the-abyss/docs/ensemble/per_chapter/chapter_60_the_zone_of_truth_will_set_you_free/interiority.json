@@ -1,0 +1,660 @@
+[
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum believes the record of the quadrangle issue now exists and matters, regardless of whether Bahamut reads it.",
+    "source_quote": "the record now exists, and the record says: the quadrangle issue landed",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daral",
+    "fact": "Daral is operating on an instinct that the one with Lesser Restoration isn't ready to spend it, and arguing won't make healing come sooner.",
+    "source_quote": "Daral was operating on an instinct he couldn't quite articulate: that the one with the Lesser Restoration wasn't ready to spend it, and that arguing wouldn't make the healing come any sooner",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is concerned that Daral, once restored, would disappear and become difficult to locate.",
+    "source_quote": "The concern was that Daral, once restored, would discover pressing business elsewhere and become difficult to locate",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum recalls having had someone like Daral in their party before \u2014 someone who left after being healed.",
+    "source_quote": "didn't we have somebody like that with our party anyhow? Did we already send him away?",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool remembers when there was cheese.",
+    "source_quote": "I remember when there was cheese",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool grieves the loss of cheese.",
+    "source_quote": "Perhaps if we had some cheese",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool believes he can eat through walls.",
+    "source_quote": "Walls don't stop us. I can eat through walls",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir believes he could have eaten through the safe, but chose not to because they needed to be sneaky.",
+    "source_quote": "I guess I could have eaten through the safe. It would have taken a while... If the goal was to be destructive, I could've just punched the safe. But we were trying to be sneaky",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin thinks the murder method was too elaborate to be accidental, which is exactly why it worked.",
+    "source_quote": "Poisoned book, frames a colleague, and disappears the evidence. Too elaborate. Which is exactly why it worked",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin believes magic cannot be relied upon to make evidence meaningful \u2014 it makes evidence adversarial.",
+    "source_quote": "you cannot rely on magic to make evidence meaningful. It makes evidence adversarial",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin recalls that in the Underdark, the one thing that didn't lie was terrain.",
+    "source_quote": "In the Underdark, the one thing that didn't lie was terrain",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin remembers that giants taught him the principle that a rock in the right place is a wall.",
+    "source_quote": "Giants taught me that without ever writing it down. A rock in the wrong place is just a rock. A rock in the right place is a wall",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin realizes that the truth doesn't change \u2014 it's fixed, and one is assembling a picture of something already set.",
+    "source_quote": "The truth doesn't change. What happened, happened. You're assembling a picture of something already fixed, not hunting something fluid",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir notices that the Sylvira lookalike was seen in the kitchens at one in the morning and coming down the stairs between two and three, creating a two-hour gap.",
+    "source_quote": "The Sylvira lookalike had been seen in the kitchens around one in the morning. She'd been seen coming down the stairs between two and three. That's a minimum two-hour gap",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir believes something more than a simple polymorph was used, or it was used repeatedly, or something else entirely was involved.",
+    "source_quote": "Something more is going on here",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Thorin's stature",
+    "fact": "Thorin reflects that his perceived stature was built on falling first, referencing his past as a chained dwarf in Velkynvelve.",
+    "source_quote": "Whatever stature looked like from the outside, it was built on a lot of falling first",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum claims he made up the principle 'Once you have eliminated the impossible, whatever remains, however unlikely, must be the truth,' though he knows he didn't.",
+    "source_quote": "I made it up myself",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum privately finds Glabbagool's feelings about cheese both moving and correct.",
+    "source_quote": "I find this, privately, both moving and correct",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum recalled the wrapping paper from the poisoned book had been taken to the third-story apartment in Janussi's chambers.",
+    "source_quote": "We knew the wrapping paper from the poisoned book had been taken there, and we hadn't gone back.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum intended to investigate the third-story apartment in Janussi's chambers.",
+    "source_quote": "I'm gonna go look into that.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum noticed the note in Janussi's chambers and read it.",
+    "source_quote": "Oh, a note! I read it.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum realized Janussi had dismissed Kalan Strongbranch's proposal as solipsism.",
+    "source_quote": "Janussi had reviewed Kalan Strongbranch's proposal for new criminal investigation methodologies, found it to be solipsism, and had blocked it.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum understood that Kalan had built his entire methodology in the wreckage of Janussi's contempt.",
+    "source_quote": "Kalan's entire proposal for dealing with crime... had been buried under one man's contemptuous signature.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum remembered that Alkrist had burned something at the feast.",
+    "source_quote": "When you talk to Alkrist, there's something in the list about what Alkrist burned at the feast \u2014 you should ask about that.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz noticed Sylvira was using a mage hand despite being bedridden and shuddering.",
+    "source_quote": "A mage hand, which was interesting: she was bedridden and shuddering under a fever, and still running a familiar and a mage hand from across the room.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz observed that Sylvira felt relief beneath her shock and fear.",
+    "source_quote": "Underneath both was something she hadn't meant to let through: relief.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz realized Sylvira was not incapacitated despite her fever.",
+    "source_quote": "I filed that in the column marked *not incapacitated.*",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz understood Sylvira was being framed and that her accusation was a trick of perception.",
+    "source_quote": "You're not aware that your likeness has been seen moving around, doing things you couldn't possibly have done?",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz noticed Sylvira associated Kazryn Nyantani with deep resentment toward Janussi.",
+    "source_quote": "Kazryn Nyantani. The name arrived with a weight that told me it had been sitting just below the surface.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz realized Sylvira believed her relationship with Janussi had made her a target.",
+    "source_quote": "The relationship with Janussi had probably offended someone else on top of that.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz understood Sylvira was willing to collaborate fully with the investigation.",
+    "source_quote": "I'm willing to collaborate with anything, and I'm delighted \u2014 delighted \u2014 that you are leading the investigation.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz noticed Sylvira was distressed when recalling her last words with Janussi.",
+    "source_quote": "Those were my last words with him.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz knew Sylvira was not lying about her innocence and was genuinely seeking justice.",
+    "source_quote": "You're right, you're right. We must focus on the problem at hand \u2014 capturing the person who murdered my love, and who is impersonating me.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Narrator (Dragonborn)",
+    "fact": "The narrator noticed the quality of conversation between dragonborn removes a layer of introduction and performance.",
+    "source_quote": "There is a quality to conversation between dragonborn that removes a layer of introduction, a layer of performance.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Narrator (Dragonborn)",
+    "fact": "The narrator intended to use the dragonborn connection to open a conversation with Alkrist.",
+    "source_quote": "I don't know if Alkrist would use it. I knew I could.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Narrator (Dragonborn)",
+    "fact": "The narrator noticed Fembris operated with monastic commitment to immediate tasks.",
+    "source_quote": "There is something almost monastic about how Fembris operates: the total commitment to the immediate task, no friction between decision and movement.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Narrator (Dragonborn)",
+    "fact": "The narrator recalled Brother Heslin or Brother Varath teaching the art of the urgent errand.",
+    "source_quote": "Brother Heslin, or possibly Brother Varath, I'm genuinely uncertain which, had devoted an entire season to teaching our cohort the art of the urgent errand, the clean dispatch.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Stool's home",
+    "fact": "Stool wants to return home, but the location of his home is not specified in this session.",
+    "source_quote": "Stool just wanted to go home",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Sylvira",
+    "fact": "Sylvira told Kalan Strongbranch she would intercede with Janussi on his behalf, but never brought it up.",
+    "source_quote": "She told him she would. She never brought it up.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Sylvira",
+    "fact": "Sylvira believed Janussi was right to want Kalan gone because he was a clown, a boar, and his research was third-rate.",
+    "source_quote": "Janussi was right to want him gone. He was a clown, a boar, and his research was third-rate at best.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Sylvira",
+    "fact": "Sylvira was convinced she had never called Janussi a genus traitor.",
+    "source_quote": "But she had *never*, she insisted, called him a genus traitor.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Sylvira",
+    "fact": "Sylvira anticipated being asked whether she called Janussi a genus traitor, which suggested she had prepared a defense.",
+    "source_quote": "The word \"never\" had a specificity that suggested she'd anticipated being asked, which was itself worth noting.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Sylvira",
+    "fact": "Sylvira described the feast as the same drab affair it always was, and left early when the flu began coming on.",
+    "source_quote": "The feast she described as the same drab affair it always was, right down to the dishes, and she'd left early when the flu began coming on.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Sylvira",
+    "fact": "Sylvira chose not to comment on whether she knew anything about Alkrist burning something at the feast, responding with diplomatic silence.",
+    "source_quote": "She received it with the diplomatic silence of someone choosing not to comment on something they either hadn't witnessed or had already assessed as irrelevant.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Sylvira",
+    "fact": "Sylvira stopped mid-thought and doubled back to ask if anyone had seen her after the party.",
+    "source_quote": "Then she stopped mid-thought and doubled back to the question I'd asked a minute earlier. \"Did you ask me if anyone saw me, after?\"",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Sylvira",
+    "fact": "Sylvira admitted she sneaked out after the party to visit her son.",
+    "source_quote": "I did sneak out. To visit my son.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Sylvira",
+    "fact": "Sylvira had constructed a Mordenkainen's Mansion specifically to protect her son, who was born in the Abyss.",
+    "source_quote": "She had a son, born in the Abyss, living in a Mordenkainen's Mansion she'd constructed specifically for his protection.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Sylvira",
+    "fact": "Sylvira was trying to coax her son back into the Mordenkainen's Mansion.",
+    "source_quote": "She'd been trying to coax him back into it.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Sylvira",
+    "fact": "Sylvira felt genuine offense at the suggestion she drank honey, calling it nonsense.",
+    "source_quote": "Honey? I would *never* drink honey. What kind of nonsense is this?",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Sylvira",
+    "fact": "Sylvira believed that anyone claiming to have seen her after 12:30 was lying and was likely a member of the avowed who harbored hostility toward her.",
+    "source_quote": "if anyone claimed to have seen her after that, she said with pointed precision, it would be members of the avowed who had long nurtured hostility toward her.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Sylvira",
+    "fact": "Sylvira named Teles Ahvoste directly as someone who had long nurtured hostility toward her.",
+    "source_quote": "She named Teles Ahvoste directly.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Sylvira",
+    "fact": "Sylvira believed jealousy was a powerful motivator for revenge and murder, specifically in reference to Teles's long-standing resentment toward Janussi.",
+    "source_quote": "\"Jealousy is a powerful motivator,\" she said. \"For revenge. Murder.\"",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Sylvira",
+    "fact": "Sylvira called Kalan's proposal insane and said Bookwyrm had pushed hardest against it.",
+    "source_quote": "His proposal, which she called insane, all sorts of investigative controls and restrictions. ... Bookwyrm who had pushed hardest against it.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Sylvira",
+    "fact": "Sylvira had no wristwatch and did not track the precise hour between 12:30 and 1 a.m. because she was feverish and had no reason to.",
+    "source_quote": "She'd had no wristwatch. She hadn't murdered anyone with midnight tears, so there'd been no reason to track the precise hour.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Sylvira",
+    "fact": "Sylvira was shivering despite the fire and grieving the last argument she'd had with someone she'd loved.",
+    "source_quote": "And a sick tiefling in a too-hot room, shivering despite the fire, grieving the last argument she'd had with someone she'd loved.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum retrieved a crumpled piece of wrapping paper from the dining hall trash and noticed a straight edge where there shouldn't be one.",
+    "source_quote": "I turned it over in my hands. Torn in several places, the way paper tears when you're unwrapping something with reasonable enthusiasm. But there was something else. A straight edge where there shouldn't be one.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum used a cantrip to restore the wrapping paper to its original state and observed a clean cut, separate from the ragged tears.",
+    "source_quote": "The paper did the rest. There it was. A clean cut, straight as a rule, separate from all the ragged tears.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum concluded the clean cut indicated the wrapping paper had been deliberately cut and reused, suggesting premeditation.",
+    "source_quote": "That is not a crime of opportunity. That is a crime of preparation.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum realized the wrapping paper had been used to wrap a deadly book.",
+    "source_quote": "The gift wrap for the deadly book.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum believed the crime required calm, preparation, and patience, and that the perpetrator had planned for what happened after Janussi was dead.",
+    "source_quote": "That is the kind of detail that belongs in a file you keep very carefully.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Alkrist",
+    "fact": "Alkrist entered Janussi's chambers with a rehearsed performance of grief, intending it to be witnessed.",
+    "source_quote": "The performance started before he sat down. ... he deployed grief the same way: deliberately, as an announcement he wanted witnessed.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Alkrist",
+    "fact": "Alkrist believed he had a fantastic, superb relationship with Janussi.",
+    "source_quote": "I had a fantastic, superb relationship with the man.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Alkrist",
+    "fact": "Alkrist was pleased when Thorin took his grief at face value, mistaking sincerity for sincerity.",
+    "source_quote": "He took it as sincere. He was pleased.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Alkrist",
+    "fact": "Alkrist resented Janussi for dismissing his germ warfare research as dangerous and telling him he showed no leadership potential.",
+    "source_quote": "dismissed, told his germ warfare research was dangerous and should be stopped, told he showed no leadership potential.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Alkrist",
+    "fact": "Alkrist had been studying the Midnight Tears method from 1001 Tashalian Nights and had bookmarked the relevant section.",
+    "source_quote": "The book was on a shelf, bookmarked. ... There was a class ... about what you find in someone's room telling you more than what they'd ever say with their face. I found the book anyway.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Alkrist",
+    "fact": "Alkrist's hand drifted toward the shelf when asked how he proposed dealing with Janussi.",
+    "source_quote": "His hand moved toward the shelf before his mouth had finished the sentence.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Alkrist",
+    "fact": "Alkrist confessed he had placed midnight tears on the book, unwrapped it, coated it, and re-wrapped it.",
+    "source_quote": "The Oak Tree Apothecary, the stolen vial, peppermint spilled on the counter floor. Daral's present, unwrapped and coated in midnight tears and carefully re-wrapped.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Alkrist",
+    "fact": "Alkrist washed his hands in a basin of water after burning the vial's label, fearing contamination.",
+    "source_quote": "he had washed his hands in it, just in case there was any midnight tears on them.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Alkrist",
+    "fact": "Alkrist insisted he did not kill Janussi, only poisoned the book.",
+    "source_quote": "I didn't actually kill him. I just put some poison on a book.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Alkrist",
+    "fact": "Alkrist claimed he was under mind control and therefore forced to tell the truth against his will.",
+    "source_quote": "He was being forced, he said, to tell things that were true, against his will.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Alkrist",
+    "fact": "Alkrist was genuinely confused when told Janussi's heart had been ripped out.",
+    "source_quote": "Ripped out his heart? What? His heart was ripped out?",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Alkrist",
+    "fact": "Alkrist believed Bookwyrm had reacted with appallment to his plan and had stormed off after their argument.",
+    "source_quote": "Appalled, he said. She had been appalled, and they argued, and then she was gone.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Bookwyrm's motive",
+    "fact": "Bookwyrm's motive for ripping out Janussi's heart remains unexplained, though she had argued with Alkrist after learning of the poisoning.",
+    "source_quote": "That was Bookwyrm,\" I said, mostly to myself.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Bookwyrm's knowledge",
+    "fact": "It is unknown whether Bookwyrm knows a powerful polymorph spell, though she was present at the scene after the poisoning.",
+    "source_quote": "Does he think Bookwyrm knows a powerful polymorph spell?",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz needs information from A'lai, given A'lai's drow connections and knowledge of the conspiracy.",
+    "source_quote": "A'lai, moreover, is a drow. He might have information that Daz needs.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz recognizes that A'lai's knowledge is the most reliably underpriced resource in the world, especially when someone desperately needs discretion.",
+    "source_quote": "I will not call it a commodity exactly. I will call it the most reliably underpriced resource in the world, especially in the hands of someone who desperately needs it.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz has been maintaining a column since Kaelira told him someone powerful was paying to protect a man he couldn't understand, and the entry remains blank.",
+    "source_quote": "The column I had been maintaining since Kaelira told me bluntly that someone powerful was paying to protect a man she couldn't understand. That column had one entry, and I still couldn't name the entity.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz believes the patron entry has receded every time he thought he was close to identifying it.",
+    "source_quote": "Every time I thought I was close to something, it receded.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz considers A'lai the first real lead he's been offered since Kaelira laid out the problem.",
+    "source_quote": "Now there was a compromised drow scholar who might represent the first real lead I'd been offered since Kaelira laid the problem out for me plainly.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz finds it uncomfortable to be the unknown variable in his own accounts.",
+    "source_quote": "It is not comfortable to be the unknown variable in your own accounts.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz's training runs toward knowing where every debt is, who holds it, and what it costs.",
+    "source_quote": "My training ran toward the opposite: know where every debt is, who holds it, what it costs.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz has an alternative proposal forming: A'lai should pay not in gold or books, but in knowledge about who is funding his protection.",
+    "source_quote": "I had an alternative proposal forming. It was not finalized. But the terms were these: A'lai does not pay in gold, and does not pay in books. A'lai pays in what he knows.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz believes the only price he is interested in collecting is what A'lai knows about whoever is paying Menzoberranzan rates to keep him alive.",
+    "source_quote": "And what he knows about whoever is paying Menzoberranzan rates to keep a nobody drow evoker alive and functional: that is the only price I am interested in collecting.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz heard the observation that what's going on with him is what's important, and filed it without comment.",
+    "source_quote": "I heard it said aloud and filed it without comment.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Daz's patron",
+    "fact": "The identity of the powerful entity paying to protect a man Daz couldn't understand remains unknown.",
+    "source_quote": "That column had one entry, and I still couldn't name the entity.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum recalled that in murder mysteries, someone often treats blackmail as a kind of career.",
+    "source_quote": "In these murder mysteries,\" Grygum said, \"you often find somebody who treats blackmail as a kind of career.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum believes Janussi had high intelligence but not high wisdom.",
+    "source_quote": "Well, it's clear he may have high intelligence, but not high wisdom,\" Grygum said.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin insists that the team get a book per suspect as compensation for their work.",
+    "source_quote": "I'm gonna insist that we get a book per suspect. I mean, per\u2014",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin believes the zone of truth helped put a bow on the case, but they probably would have gotten there anyway.",
+    "source_quote": "Definitely helped put a bow on it. But we probably would have gotten there anyway \u2014 they all were looking pretty guilty.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin has a mission in mind, though it is not yet specified.",
+    "source_quote": "I have a mission in mind.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz noticed that the narrative of workforce restructuring matches the story A'lai would have constructed for himself.",
+    "source_quote": "This is, I noticed, exactly the narrative A'lai would have constructed for himself, and had probably already constructed, somewhere in the months between deciding Janussi needed to die and watching us pull the whole account apart in an afternoon.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "A'lai",
+    "fact": "A'lai is a drow with Underdark connections, possibly Menzoberranzan, who is now compromised by the exposed conspiracy.",
+    "source_quote": "A'lai. A drow with Underdark connections, possibly Menzoberranzan connections, currently holding a conspiracy that had ended a man's life and that we had dismantled in a single afternoon.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "A'lai",
+    "fact": "A'lai treats blackmail as a kind of career and knows how to make his own history sound administrative.",
+    "source_quote": "The man who treats blackmail as a kind of career knows how to make his own history sound administrative.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz recognized A'lai's need for discretion as an accurate observation that needed no elaboration.",
+    "source_quote": "I heard it and recognized it for what it was: an accurate observation that needed no elaboration.",
+    "quote_verified": true
+  }
+]

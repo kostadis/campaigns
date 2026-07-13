@@ -1,0 +1,65 @@
+[
+  {
+    "type": "npc",
+    "subject": "Chief Dorbo",
+    "fact": "Chief Dorbo raised objections about the gnomes not being equipped to fight oozes and refused to include the Gold Whisker clan, whom he considered squatters, but later agreed to the party's terms after stunned silence.",
+    "source_quote": "Chief Dorbo raised objections about the gnomes not being equipped to fight oozes and needing allies and resources. ... Chief Dorbo, after a moment of stunned silence, agreed to the party's terms",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Senni",
+    "fact": "Senni suggested a full clan meeting including the Stoneheart Enclave and the Miners Guild, advocated for working with the Gold Whisker clan as an asset against oozes, and later tasked the party with bringing them on board.",
+    "source_quote": "Senni suggested a full clan meeting, including the Stoneheart Enclave and the Miners Guild, but Dorbo refused to include the Gold Whisker clan... Senni advocated for working with the Gold Whisker clan for the common good... Senni tasking them with bringing the Gold Whisker clan on board",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz seized control of the discussion, declaring that the party would lead the operation and solve the problem their way, demanding the gnomes' cooperation.",
+    "source_quote": "Daz seized control of the discussion, declaring that the party would lead the operation and solve the problem their way, demanding the gnomes' cooperation.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Gold Whisker clan",
+    "fact": "The Gold Whisker clan are wererat gnomes considered squatters by Chief Dorbo, but advocated as an asset against oozes by Senni and targeted for inclusion in the operation.",
+    "source_quote": "the Gold Whisker clan, the wererat gnomes he considered squatters... highlighting their abilities as an asset against oozes",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Stoneheart Enclave",
+    "fact": "The Stoneheart Enclave is a clan proposed by Senni for inclusion in a full clan meeting to address the ooze threat.",
+    "source_quote": "including the Stoneheart Enclave and the Miners Guild",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Miners Guild",
+    "fact": "The Miners Guild is a clan proposed by Senni for inclusion in a full clan meeting to address the ooze threat.",
+    "source_quote": "including the Stoneheart Enclave and the Miners Guild",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "party-led operation",
+    "fact": "The party seized control of the operation to confront the ooze threat, demanding gnomish cooperation and successfully securing Chief Dorbo's agreement.",
+    "source_quote": "Daz seized control... declaring that the party would lead the operation... Chief Dorbo... agreed to the party's terms",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "inclusion of Gold Whisker clan",
+    "fact": "The inclusion of the Gold Whisker clan in the operation remains an unresolved task, assigned by Senni to the party.",
+    "source_quote": "Senni tasking them with bringing the Gold Whisker clan on board to help fight the oozes",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "oozes",
+    "fact": "Oozes are the hazardous creatures against which the gnomes are unprepared and require allies and resources to combat.",
+    "source_quote": "the gnomes not being equipped to fight oozes",
+    "quote_verified": true
+  }
+]

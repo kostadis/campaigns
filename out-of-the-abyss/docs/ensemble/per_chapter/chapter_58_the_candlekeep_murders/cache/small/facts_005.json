@@ -1,0 +1,149 @@
+[
+  {
+    "type": "npc",
+    "subject": "Archibald Roots, Jr.",
+    "fact": "Archibald Roots, Jr. is the son of the legendary gnome botanist Archibald Roots Sr. and authored *Fey-mous Flowers & Fungi*, documenting his father\u2019s explorations and the properties of the Midnight Tears poison.",
+    "source_quote": "The book noted, in the careful tone of a man whose father saved lives, that when midnight tears are mixed with the sap of a certain Feywild tree, they lose their toxicity entirely and become a powerful pain-relief solution that all good physicians should stock.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is a meticulous investigator who questioned the metaphysical implications of Midnight Tears' delayed effect, particularly regarding time zones and astronomical midnight, and deduced that the poison\u2019s activation is tied to saliva contact.",
+    "source_quote": "The dust stays pale ochre. What darkens it is saliva. The ochre reacts on contact with spit, and a man turning pages licks his fingers to do it.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Janussi",
+    "fact": "Janussi is a suspect who could have ingested the Midnight Tears poison at any point during the day, as it was delivered via food or liquid, making the timing of exposure ambiguous.",
+    "source_quote": "Food or liquid \u2014 which meant Janussi could have taken it any hour of that day, which meant whatever we found in the room wasn't necessarily the source.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Midnight Tears",
+    "fact": "Midnight Tears is a highly toxic pale ochre dust derived from Feywild plant pollen; it remains inert until contact with saliva, at which point it darkens and activates, causing death precisely at midnight.",
+    "source_quote": "The ochre reacts on contact with spit, and a man turning pages licks his fingers to do it.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Feywild Plant (source of Midnight Tears)",
+    "fact": "The Feywild plant that produces Midnight Tears pollen grows only in locations where no one wants to go, and its pollen is rendered non-lethal when combined with the sap of a specific Feywild tree.",
+    "source_quote": "A highly toxic pale ochre dust, made from the pollen of a plant usually found only in the Feywild.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "*Fey-mous Flowers & Fungi*",
+    "fact": "*Fey-mous Flowers & Fungi* is the book containing the secret of Midnight Tears and its antidote; it was the murder weapon, as the victim ingested the poison by licking his fingers while reading.",
+    "source_quote": "The book was the murder weapon, and he'd read himself dead.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Sapphire (in summoning spell)",
+    "fact": "A sapphire of very high value is required as a component for a summoning spell that retrieves a hidden object and brings it into the caster\u2019s hand, regardless of location.",
+    "source_quote": "It needs a very expensive sapphire.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Victim's Death",
+    "fact": "The victim died at precisely midnight after ingesting Midnight Tears via saliva contact from licking the pages of a poisoned book, making the death appear natural until forensic analysis revealed the mechanism.",
+    "source_quote": "His fingers were black, his lips were black, and he died at midnight.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Summoning Spell Activation",
+    "fact": "The summoning spell activated when the caster needed the High Tower Keys, retrieving them from concealment \u2014 not by hiding them on the body, but by hiding them nowhere at all.",
+    "source_quote": "You don't hide the key on a body where someone can search it. You hide it nowhere at all, and you summon it when the door is in front of you.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "High Tower",
+    "fact": "The High Tower uses a secure system for its keys, employing a summoning spell to retrieve them from concealment rather than carrying them physically, thus preventing theft or forced access.",
+    "source_quote": "This would be great for the High Tower Keys.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Time Zone Ambiguity",
+    "fact": "The activation of Midnight Tears at midnight raises unresolved questions about whether 'midnight' refers to local time, astronomical midnight, or a magical standard, with no consensus among investigators.",
+    "source_quote": "How do they account for daylight savings time? Did you ever\u2026 an astronomical midnight?",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Worn vs. Carried Objects",
+    "fact": "There is an unresolved magical distinction between objects worn (e.g., on a lanyard) and objects carried, impacting whether the summoning spell can retrieve items worn but not held.",
+    "source_quote": "Whether a thing worn counts as a thing carried. 'I would think so. I'd think that you're carrying anything that you're wearing.' It doesn't, as it turned out.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Origin of the Poison Delivery",
+    "fact": "The exact method by which the poison was introduced to the book \u2014 whether by the killer directly or via an intermediary \u2014 remains unconfirmed, though the saliva-triggered mechanism implies intimate access.",
+    "source_quote": "So somebody doped up the book.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "The Hearth",
+    "fact": "The Hearth is the venue where Daral Yashenti, the suspect, chose to be interrogated, asserting control by forcing investigators to come to him in a setting of his comfort and influence.",
+    "source_quote": "Daral was not coming to us. We were to go to the Hearth.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Feywild",
+    "fact": "The Feywild is the origin of the Midnight Tears poison and the sap that neutralizes it, a plane where dangerous flora grows in places no one wants to go, and where magical laws override mundane ones.",
+    "source_quote": "A plant usually found only in the Feywild.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Library (where research occurred)",
+    "fact": "The library is where the investigator uncovered the truth about Midnight Tears and the summoning spell, transforming a quiet space of study into the epicenter of a murder solution.",
+    "source_quote": "Just stacks, and quiet, and the work. I started pulling tomes.",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "Midnight of Death",
+    "fact": "The victim died at midnight \u2014 a precise temporal anchor that became the critical clue linking the poison\u2019s delayed effect to the timing of the murder.",
+    "source_quote": "He died at roughly midnight.",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "December 31st, 1999",
+    "fact": "December 31st, 1999, referenced as the release date of the film *End of Days*, serves as a cultural touchstone for the investigator\u2019s analogy regarding the ambiguity of 'midnight' in magical contexts.",
+    "source_quote": "Did you ever see, the Schwarzenegger movie End of Days that came out in 1999?",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Bahamut's Observation",
+    "fact": "It is unclear whether Bahamut was watching the investigator\u2019s deductions \u2014 a metaphysical thread left open as a reflection on divine oversight in matters of justice and arcane murder.",
+    "source_quote": "Bahamut may or may not have been watching me work it out. I took notes either way.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Zalthir's Disappointment",
+    "fact": "Zalthir expected a time-freezing spell but received a summoning spell instead, revealing a gap in assumptions about magical intent and highlighting the unpredictability of arcane knowledge.",
+    "source_quote": "Zalthir had been expecting a working that freezes a thing in stopped time, and seemed almost disappointed.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Daz's Insight",
+    "fact": "Daz\u2019s internal voice provided a critical interpretation of the summoning spell as a teleportation-to-hand mechanism, bridging practical application with theoretical understanding.",
+    "source_quote": "I heard Daz say it in my head \u2014 'Oh, wait a second, this is like a way to teleport it into my hand later kind of thing.'",
+    "quote_verified": false
+  }
+]

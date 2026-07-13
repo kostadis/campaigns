@@ -1,0 +1,1104 @@
+[
+  {
+    "type": "date",
+    "subject": "elapsed time",
+    "fact": "An hour passes between two events in the session.",
+    "source_quote": "The moment she sensed their presence, her eyes opened, and she charged forward, driven mad by her long imprisonment.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The events described occurred during a single extended adventuring session, culminating in the defeat of the Medusa after careful preparation and strategic use of magic, mirrors, and environment.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The events of this chapter occurred during a single session of play, following the party's progression through interconnected chambers and battles.",
+    "source_quote": "The party traveled through winding passageways... came upon a chamber... entered the Medusa's lair.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The session occurs on the 5th day of the 2nd Tenday of Taraskh 1493 DR.",
+    "source_quote": "The party concluded that this entity was likely impervious to normal attacks and would require specific weapons or magic to defeat, so they decided to gather more information before confronting it directly.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz called upon fire once more, carefully shaping the flames to avoid his allies while the animated warriors burned.",
+    "source_quote": "Daz called upon fire once more, carefully shaping the flames to avoid his allies while the animated warriors burned.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz immediately unleashed a fireball at the approaching Medusa and cleverly used the flames to ignite a bed in the chamber, creating the bright light needed for their mirror strategy to work.",
+    "source_quote": "Daz immediately unleashed a fireball at the approaching Medusa and cleverly used the flames to ignite a bed in the chamber, creating the bright light needed for their mirror strategy to work.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz proposed creating an ice mirror using magic to shape and freeze water.",
+    "source_quote": "Daz proposed creating an ice mirror using magic to shape and freeze water.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz sent his bat familiar into the chamber, and the six animated statues immediately gave chase, their stone feet echoing through the cavern as they pursued the small creature.",
+    "source_quote": "Daz sent his bat familiar into the chamber, and the six animated statues immediately gave chase, their stone feet echoing through the cavern as they pursued the small creature.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum positioned himself among the statues and summoned more spectral guardians, their holy energy causing the stone warriors to crumble.",
+    "source_quote": "Grygum positioned himself among the statues and summoned more spectral guardians, their holy energy causing the stone warriors to crumble.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum recalled that the entire area was cursed by a malevolent entity, and any elemental summoned here would go mad and attack everything around it.",
+    "source_quote": "Grygum recalled that the entire area was cursed by a malevolent entity, and any elemental summoned here would go mad and attack everything around it.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Medusa's final confrontation",
+    "fact": "The Medusa was confronted with an ice mirror that reflected her gaze back at her, causing her to recoil in self-loathing; despite this, she resisted petrification and attacked with venomous bites and claws, wounding Zalthir.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "statue animation cycle",
+    "fact": "The malevolent entity animates exactly six Drow statues at a time; when destroyed, six more immediately activate, revealing an endless, cyclical threat that cannot be resolved by brute force alone.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "The Medusa",
+    "fact": "The Medusa lashed out with her claws and the venomous serpents that formed her hair, her snake bites piercing Zalthir's defenses and injecting him with poison.",
+    "source_quote": "she lashed out with her claws and the venomous serpents that formed her hair, her snake bites piercing Zalthir's defenses and injecting him with poison.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party deduced that a malevolent entity was animating the statues, but it could only control six at a time.",
+    "source_quote": "the party deduced that a malevolent entity was animating the statues, but it could only control six at a time.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin hurled darts at the Medusa, and his final throw was particularly devastating, the dart striking with such force that it knocked the Medusa off her feet, sending her crashing to the ground.",
+    "source_quote": "His final throw was particularly devastating, the dart striking with such force that it knocked the Medusa off her feet, sending her crashing to the ground.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin positioned himself carefully, staying just beyond the range of the Medusa's petrifying gaze.",
+    "source_quote": "Thorin positioned himself carefully, staying just beyond the range of the Medusa's petrifying gaze.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "travel to Drow city",
+    "fact": "The Drow city is approximately six statues away via the chamber of animated warriors.",
+    "source_quote": "They came upon a chamber filled with statues of Drow warriors standing in eternal vigilance.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "travel to Medusa's lair",
+    "fact": "The Medusa's lair is approximately six statues away via the chamber of animated warriors.",
+    "source_quote": "When they finally entered the chamber, they found it decorated in the style of a Drow city, with spider-themed tapestries hanging from the walls and fine furniture arranged throughout.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir struck at the Medusa with his free hand, landing solid blows while keeping the mirror ready.",
+    "source_quote": "He struck at her with his free hand, landing solid blows while keeping the mirror ready.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir thrust the mirror before the Medusa's face, and she screamed in horror upon seeing her reflection, lamenting her disheveled appearance.",
+    "source_quote": "Zalthir thrust the mirror before her face. She screamed in horror upon seeing her reflection, lamenting her disheveled appearance.",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Drow warriors (animated statues)",
+    "fact": "Six Drow warrior statues animated in endless waves, controlled by a malevolent entity that could only manage six at a time, as confirmed by the party's tests with entry/exit and the bat familiar.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Drow warriors (statues)",
+    "fact": "A malevolent entity animates six Drow warrior statues at a time in an endless cycle; they return to stillness when the entity's control is broken by absence from the chamber.",
+    "source_quote": "Six statues animated and attacked; when one wave fell, six more rose; stepping in and out triggered the animation cycle.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Medusa",
+    "fact": "A female Drow Medusa, driven mad by imprisonment, resides in a chamber decorated like a Drow city; her serpentine hair delivers venomous bites and her gaze can petrify, but she was defeated after being confronted with a reflective mirror.",
+    "source_quote": "She sat upon a throne with white hair writhing as serpents; her eyes opened and she charged; she screamed at her reflection but resisted petrification.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Medusa",
+    "fact": "A female Drow Medusa, driven mad by imprisonment, wielded serpentine hair and a petrifying gaze, and was defeated after being reflected upon with an ice mirror, which caused her to recoil in self-loathing rather than be petrified.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "adjacent chamber",
+    "fact": "Knowing a Medusa lurked in an adjacent chamber, the party prepared their strategy carefully.",
+    "source_quote": "Knowing a Medusa lurked in an adjacent chamber, the party prepared their strategy carefully.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "chamber filled with statues of Drow warriors",
+    "fact": "They came upon a chamber filled with statues of Drow warriors standing in eternal vigilance. The moment they stepped inside, six of the statues animated and attacked with stone weapons raised.",
+    "source_quote": "They came upon a chamber filled with statues of Drow warriors standing in eternal vigilance. The moment they stepped inside, six of the statues animated and attacked with stone weapons raised.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Chamber of Animated Statues",
+    "fact": "A chamber filled with statues of Drow warriors that animate in cycles of six; the malevolent entity controlling them is impervious to normal attacks and requires specific magic to defeat.",
+    "source_quote": "Six statues animated and attacked; stepping in and out triggered the animation; the entity could only control six at a time.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "chamber with animated Drow statues",
+    "fact": "A chamber filled with statues of Drow warriors that animate in waves of six, controlled by a hidden malevolent entity; the pattern was confirmed through repeated entry/exit tests and familiar probing.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Darkened Chamber",
+    "fact": "A darkened chamber where the party first fought the Earth Elemental and gargoyle; it contained the remains of the elemental and the yellow diamond gem.",
+    "source_quote": "The party found themselves locked in fierce combat with a maddened Earth Elemental and a gargoyle in a darkened chamber.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "darkened chamber",
+    "fact": "The party found themselves locked in fierce combat with a maddened Earth Elemental and a gargoyle in a darkened chamber.",
+    "source_quote": "The party found themselves locked in fierce combat with a maddened Earth Elemental and a gargoyle in a darkened chamber.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Medusa's chamber",
+    "fact": "They found it decorated in the style of a Drow city, with spider-themed tapestries hanging from the walls and fine furniture arranged throughout.",
+    "source_quote": "They found it decorated in the style of a Drow city, with spider-themed tapestries hanging from the walls and fine furniture arranged throughout.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Medusa's lair",
+    "fact": "A Drow-style chamber decorated with spider-themed tapestries and fine furniture, where the mad Medusa dwells on a throne; the environment was used strategically to ignite a bed for bright light during the mirror confrontation.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Medusa's Lair",
+    "fact": "A chamber decorated in Drow city style with spider-themed tapestries and fine furniture; the Medusa resides upon a throne, driven mad by long imprisonment.",
+    "source_quote": "The chamber was decorated like a Drow city, with spider-themed tapestries and fine furniture; she sat upon a throne with serpentine hair.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Medusa's lair",
+    "fact": "When they finally entered the chamber, they found it decorated in the style of a Drow city, with spider-themed tapestries hanging from the walls and fine furniture arranged throughout.",
+    "source_quote": "When they finally entered the chamber, they found it decorated in the style of a Drow city, with spider-themed tapestries hanging from the walls and fine furniture arranged throughout.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Velkynvelve elevation",
+    "fact": "Velkynvelve sits 100 feet above the cavern floor.",
+    "source_quote": "Zalthir rushed forward with the ice mirror in hand, preparing to raise it if the Medusa attempted to use her petrifying gaze.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Animated Drow Statues",
+    "fact": "Six stone statues of Drow warriors animate in cycles, attacking with stone weapons; they are controlled by a malevolent entity that cannot affect more than six at once.",
+    "source_quote": "Six statues animated and attacked; when one group fell, six more rose; the entity's limit was tested by stepping in and out of the chamber.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Bat Familiar",
+    "fact": "Daz's bat familiar was sent into the statue chamber to test the entity's control; it was immediately pursued by six animated statues, confirming the six-at-a-time limit.",
+    "source_quote": "Daz sent his bat familiar into the chamber, and the six animated statues immediately gave chase, their stone feet echoing through the cavern.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "chasme count",
+    "fact": "Six animated statues are present in the chamber, and six more immediately replace them, revealing the endless nature of the threat.",
+    "source_quote": "Daz sent his bat familiar into the chamber, and the six animated statues immediately gave chase, their stone feet echoing through the cavern as they pursued the small creature.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Earth Elemental",
+    "fact": "A maddened Earth Elemental fought alongside a gargoyle in a darkened chamber; it was subdued by Zalthir's grappling and Grygum's spectral guardians, then collapsed into rubble after a final strike.",
+    "source_quote": "The elemental was struck by Zalthir and grappled to prevent escape; Grygum's guardians tore through it; it collapsed into rubble after the monk's final blow.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Earth Elemental",
+    "fact": "A massive Earth Elemental, maddened by the cursed chamber, was defeated after sustained attacks from Zalthir and Grygum's spectral guardians, collapsing into rubble after its final struggle.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Gargoyle",
+    "fact": "A gargoyle fought alongside the Earth Elemental and was destroyed by Daz's fireball and Grygum's spectral guardians, its stone form shattered in the chamber's aftermath.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Gargoyle",
+    "fact": "A gargoyle fought alongside the Earth Elemental; it was overwhelmed by Daz's fireball and Grygum's spectral guardians, reduced to fragments before the elemental's defeat.",
+    "source_quote": "The gargoyle was engulfed by fireball and torn through by spectral guardians; it was destroyed before the elemental collapsed.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Medusa",
+    "fact": "A female Drow Medusa, imprisoned and driven mad, attacked with venomous serpentine hair and petrifying gaze; she was weakened by firelight, reflected gaze, and a decisive dart strike, falling prone before the party.",
+    "source_quote": "She charged with serpents writhing; her gaze was turned back by the ice mirror; she was knocked off her throne by Thorin's dart and lay prone before them.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz called upon fire once more, carefully shaping the flames to avoid his allies while the animated warriors burned.",
+    "source_quote": "Daz called upon fire once more, carefully shaping the flames to avoid his allies while the animated warriors burned.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz immediately unleashed a fireball at the approaching Medusa and cleverly used the flames to ignite a bed in the chamber, creating the bright light needed for their mirror strategy to work.",
+    "source_quote": "Daz immediately unleashed a fireball at the approaching Medusa and cleverly used the flames to ignite a bed in the chamber, creating the bright light needed for their mirror strategy to work.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz sent his bat familiar into the chamber, and the six animated statues immediately gave chase, their stone feet echoing through the cavern as they pursued the small creature.",
+    "source_quote": "Daz sent his bat familiar into the chamber, and the six animated statues immediately gave chase, their stone feet echoing through the cavern as they pursued the small creature.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz suggested using a reflective surface to turn the Medusa's deadly stare back upon herself.",
+    "source_quote": "Daz suggested using a reflective surface to turn the Medusa's deadly stare back upon herself.",
+    "quote_verified": true,
+    "passes": [
+      "interiority",
+      "sweep"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz unleashed a devastating fireball that engulfed both enemies, while Thorin negotiated with his intelligent sword Dawnbringer about entering the darkness, promising the weapon a finer scabbard in exchange for its cooperation.",
+    "source_quote": "Daz unleashed a devastating fireball that engulfed both enemies, while Thorin negotiated with his intelligent sword Dawnbringer about entering the darkness, promising the weapon a finer scabbard in exchange for its cooperation.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz unleashed fireball and controlled flame attacks against the Earth Elemental, gargoyle, animated Drow statues, and the Medusa, using fire to create light for the mirror strategy, and directed his bat familiar to test the statue animation limit.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz unleashed fireballs and carefully shaped flames to destroy enemies and ignite surroundings, including using fire to enable the Medusa mirror strategy; he also sent his bat familiar to test statue animation limits.",
+    "source_quote": "Daz engulfed both enemies with fireball; he ignited a bed to create bright light; his bat was chased by six animated statues.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool found the pattern of the animated statues particularly entertaining, playing a game of entering and exiting the room.",
+    "source_quote": "Glabbagool found this particularly entertaining, playing a game of entering and exiting the room.",
+    "quote_verified": true,
+    "passes": [
+      "interiority",
+      "sweep"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "npc",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool, the curious gelatinous cube, expressed excitement at the strange sights and played a game of entering and exiting the statue chamber to observe the animation cycle.",
+    "source_quote": "Glabbagool, the curious gelatinous cube, expressed excitement about the strange sights; he played a game of entering and exiting the room.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool, the curious gelatinous cube, observed and played with the animated Drow statue mechanism by entering and exiting the chamber, finding the repetitive animation entertaining.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool, the curious gelatinous cube, who expressed excitement about the strange sights they encountered.",
+    "source_quote": "Glabbagool, the curious gelatinous cube, who expressed excitement about the strange sights they encountered.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum positioned himself among the statues and summoned more spectral guardians, their holy energy causing the stone warriors to crumble.",
+    "source_quote": "Grygum positioned himself among the statues and summoned more spectral guardians, their holy energy causing the stone warriors to crumble.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum recalled that the entire area was cursed by a malevolent entity, and any elemental summoned here would go mad and attack everything around it.",
+    "source_quote": "Grygum recalled that the entire area was cursed by a malevolent entity, and any elemental summoned here would go mad and attack everything around it.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum summoned spectral guardians as fey spirits to wound the Earth Elemental and destroy animated Drow statues, recalled the area's curse on summoned elementals, and maintained distance while attacking the Medusa with holy energy.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum summoned spectral guardians as fey spirits to wound the elemental and crumble stone warriors; he recalled the area's curse on summoned elementals and positioned himself among statues to amplify his magic.",
+    "source_quote": "Grygum's guardians tore through the gargoyle and wounded the elemental; he summoned more to crumble stone warriors; he recalled the curse that would make any summoned elemental go mad.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum summoned spectral guardians that manifested as fey spirits, their radiant energy tearing through the gargoyle and severely wounding the elemental.",
+    "source_quote": "Grygum summoned spectral guardians that manifested as fey spirits, their radiant energy tearing through the gargoyle and severely wounding the elemental.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Medusa",
+    "fact": "At the center sat a female Drow upon a throne, her white hair writhing with pale serpents. The moment she sensed their presence, her eyes opened, and she charged forward, driven mad by her long imprisonment.",
+    "source_quote": "At the center sat a female Drow upon a throne, her white hair writhing with pale serpents. The moment she sensed their presence, her eyes opened, and she charged forward, driven mad by her long imprisonment.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Medusa",
+    "fact": "Her eyes opened, and she charged forward, driven mad by her long imprisonment.",
+    "source_quote": "Her eyes opened, and she charged forward, driven mad by her long imprisonment.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Medusa",
+    "fact": "Her snake bites piercing Zalthir's defenses and injecting him with poison.",
+    "source_quote": "Her snake bites piercing Zalthir's defenses and injecting him with poison.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Medusa",
+    "fact": "Her white hair writhing with pale serpents.",
+    "source_quote": "Her white hair writhing with pale serpents.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Medusa",
+    "fact": "In retaliation, she lashed out with her claws and the venomous serpents that formed her hair, her snake bites piercing Zalthir's defenses and injecting him with poison.",
+    "source_quote": "In retaliation, she lashed out with her claws and the venomous serpents that formed her hair, her snake bites piercing Zalthir's defenses and injecting him with poison.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Medusa",
+    "fact": "She screamed in horror upon seeing her reflection, lamenting her disheveled appearance.",
+    "source_quote": "She screamed in horror upon seeing her reflection, lamenting her disheveled appearance.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Medusa",
+    "fact": "When the Medusa finally turned her deadly stare upon him, Zalthir thrust the mirror before her face. She screamed in horror upon seeing her reflection, lamenting her disheveled appearance, but managed to resist being turned to stone by her own power.",
+    "source_quote": "When the Medusa finally turned her deadly stare upon him, Zalthir thrust the mirror before her face. She screamed in horror upon seeing her reflection, lamenting her disheveled appearance, but managed to resist being turned to stone by her own power.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "The Medusa",
+    "fact": "The Medusa was driven mad by her long imprisonment.",
+    "source_quote": "she charged forward, driven mad by her long imprisonment.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "He hurled darts at the creature, and through a combination of skill and fortune, his projectiles found their mark.",
+    "source_quote": "He hurled darts at the creature, and through a combination of skill and fortune, his projectiles found their mark.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "His final throw was particularly devastating, the dart striking with such force that it knocked the Medusa off her feet, sending her crashing to the ground.",
+    "source_quote": "His final throw was particularly devastating, the dart striking with such force that it knocked the Medusa off her feet, sending her crashing to the ground.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin negotiated with his intelligent sword Dawnbringer for cooperation in darkness, promising a finer scabbard; later, he hurled darts at the Medusa, landing a decisive blow that knocked her off her throne.",
+    "source_quote": "Thorin promised Dawnbringer a finer scabbard for its aid; his final dart struck with such force it sent the Medusa crashing to the ground.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin negotiated with his sentient sword Dawnbringer for cooperation, then used precise dart throws to knock the Medusa off her throne, delivering a decisive blow that left her prone and vulnerable.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin positioned himself carefully, staying just beyond the range of the Medusa's petrifying gaze. He hurled darts at the creature, and through a combination of skill and fortune, his projectiles found their mark. His final throw was particularly devastating, the dart striking with such force that it knocked the Medusa off her feet, sending her crashing to the ground.",
+    "source_quote": "Thorin positioned himself carefully, staying just beyond the range of the Medusa's petrifying gaze. He hurled darts at the creature, and through a combination of skill and fortune, his projectiles found their mark. His final throw was particularly devastating, the dart striking with such force that it knocked the Medusa off her feet, sending her crashing to the ground.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "He struck at her with his free hand, landing solid blows while keeping the mirror ready.",
+    "source_quote": "He struck at her with his free hand, landing solid blows while keeping the mirror ready.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir rushed forward with the ice mirror in hand, preparing to raise it if the Medusa attempted to use her petrifying gaze.",
+    "source_quote": "Zalthir rushed forward with the ice mirror in hand, preparing to raise it if the Medusa attempted to use her petrifying gaze.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir rushed forward with the ice mirror in hand, preparing to raise it if the Medusa attempted to use her petrifying gaze. He struck at her with his free hand, landing solid blows while keeping the mirror ready.",
+    "source_quote": "Zalthir rushed forward with the ice mirror in hand, preparing to raise it if the Medusa attempted to use her petrifying gaze. He struck at her with his free hand, landing solid blows while keeping the mirror ready.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir used shadow teleportation to engage the Earth Elemental, grappling it to prevent escape, and later wielded an ice mirror to deflect the Medusa's gaze, sustaining poison bites from her serpentine hair.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir used shadow teleportation to strike and grapple the Earth Elemental, then later wielded an ice mirror to deflect the Medusa's gaze, enduring poison from her serpentine hair.",
+    "source_quote": "Zalthir appeared beside the elemental and struck with powerful blows before grappling it; he thrust the mirror as the Medusa stared, and she screamed at her reflection.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir used the shadows to his advantage, teleporting through the darkness to appear beside the massive elemental and striking it with powerful blows before grappling the creature to prevent its escape.",
+    "source_quote": "Zalthir used the shadows to his advantage, teleporting through the darkness to appear beside the massive elemental and striking it with powerful blows before grappling the creature to prevent its escape.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Dawnbringer (intelligent sword)",
+    "fact": "Thorin's intelligent sword Dawnbringer negotiated for cooperation in darkness, promised a finer scabbard in exchange for aid, and likely assisted in combat against the elemental and gargoyle.",
+    "source_quote": "Thorin negotiated with his intelligent sword Dawnbringer about entering the darkness, promising the weapon a finer scabbard in exchange for its cooperation.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "ice mirror",
+    "fact": "An ice mirror crafted by Daz using shaped water, gems, and ice was used to reflect the Medusa's gaze, causing her to recoil in horror at her own reflection and resist petrification.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Ice Mirror",
+    "fact": "An ice mirror, crafted from shaped water, gems, and ice, was constructed to reflect the Medusa's petrifying gaze; it caused her to recoil in horror at her own reflection.",
+    "source_quote": "Daz proposed creating an ice mirror using magic to shape and freeze water; Zalthir raised it to reflect her gaze, and she screamed at her disheveled appearance.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "ice mirror",
+    "fact": "Daz proposed creating an ice mirror using magic to shape and freeze water. The party watched as he explained how they could craft a highly reflective surface by combining shaped water, gems, and ice.",
+    "source_quote": "Daz proposed creating an ice mirror using magic to shape and freeze water. The party watched as he explained how they could craft a highly reflective surface by combining shaped water, gems, and ice.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "scroll",
+    "fact": "They possessed a scroll that might remove the curse.",
+    "source_quote": "They possessed a scroll that might remove the curse.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "scroll (curse removal)",
+    "fact": "The party possesses a scroll capable of removing the curse afflicting the chamber, which would prevent summoned elementals from going mad, but has not yet been used.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Scroll of Curse Removal",
+    "fact": "The party possesses a scroll that might remove the curse afflicting the area, which causes summoned elementals to go mad and attack everything around them.",
+    "source_quote": "They possessed a scroll that might remove the curse.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "silver candlestick value",
+    "fact": "The silver candlesticks flanking the Lolth altar are worth 25 gp each.",
+    "source_quote": "Daz immediately unleashed a fireball at the approaching Medusa and cleverly used the flames to ignite a bed in the chamber, creating the bright light needed for their mirror strategy to work.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Special Eyewear",
+    "fact": "The party acquired special eyewear that protects against the Medusa's petrifying gaze, allowing them to approach her safely.",
+    "source_quote": "They had already acquired special eyewear that would protect them from the creature's petrifying gaze.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "special eyewear",
+    "fact": "They had already acquired special eyewear that would protect them from the creature's petrifying gaze.",
+    "source_quote": "They had already acquired special eyewear that would protect them from the creature's petrifying gaze.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Yellow Diamond Gem",
+    "fact": "A yellow diamond gem capable of summoning another Earth Elemental was found among the elemental's remains; its use is dangerous due to the area's curse.",
+    "source_quote": "Among the remains, they discovered a yellow diamond gem capable of summoning another Earth Elemental.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "yellow diamond gem",
+    "fact": "A yellow diamond gem discovered among the elemental's remains can summon another Earth Elemental, but doing so within the cursed chamber will cause the summoned elemental to go mad and attack indiscriminately.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "yellow diamond gem",
+    "fact": "The party discovered a yellow diamond gem capable of summoning another Earth Elemental.",
+    "source_quote": "The party discovered a yellow diamond gem capable of summoning another Earth Elemental.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "identity of the malevolent entity",
+    "fact": "The entity animating the Drow statues is impervious to normal attacks and requires specific magic or weapons to defeat; its nature and origin remain unknown, prompting the party to seek more information before engaging.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Malevolent Entity Behind Statues",
+    "fact": "A malevolent entity animates the Drow warrior statues in cycles of six; it is impervious to normal attacks and requires specific weapons or magic to defeat, but its nature and origin remain unknown.",
+    "source_quote": "The party deduced a malevolent entity was animating the statues, but it could only control six at a time; they concluded it was impervious to normal attacks.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Nature of the Medusa's Madness",
+    "fact": "The Medusa was driven mad by long imprisonment; whether her condition is tied to the area's curse or the statue entity is unclear, and her potential for redemption or restoration is unknown.",
+    "source_quote": "She was driven mad by her long imprisonment; she screamed at her reflection but resisted petrification.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Origin of the Area's Curse",
+    "fact": "The area is cursed by a malevolent entity that causes any summoned Earth Elemental to go mad and attack everything; the source of this curse and its connection to the statue entity is unknown.",
+    "source_quote": "Grygum recalled the entire area was cursed by a malevolent entity, and any elemental summoned here would go mad and attack everything around it.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "source of the chamber's curse",
+    "fact": "The curse that drives summoned elementals mad is tied to a malevolent force in the area; its origin and connection to the statue-animating entity are unconfirmed, requiring further investigation.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "the ice mirror",
+    "fact": "The party agreed to construct the ice mirror before entering the Medusa's lair, but the method of its construction beyond combining shaped water, gems, and ice is not specified in this session.",
+    "source_quote": "The party agreed to construct this mirror before entering the Medusa's lair.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "the malevolent entity",
+    "fact": "The party concluded that this entity was likely impervious to normal attacks and would require specific weapons or magic to defeat, but the nature of those weapons or magic is not specified in this session.",
+    "source_quote": "they concluded that this entity was likely impervious to normal attacks and would require specific weapons or magic to defeat.",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "the Medusa's lair",
+    "fact": "The party wanted additional safeguards against the Medusa's petrifying gaze, but the nature of those safeguards beyond the ice mirror is not specified in this session.",
+    "source_quote": "they wanted additional safeguards.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "the party's scroll",
+    "fact": "The party possessed a scroll that might remove the curse, but its effects and origin are not specified in this session.",
+    "source_quote": "they possessed a scroll that might remove the curse.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  }
+]

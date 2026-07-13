@@ -1,0 +1,142 @@
+[
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz possesses the Stonespeaker Crystal and is likely drafting journal entries about the surface world; he proposed Candlekeep as the group's next destination and is researching House T'sarran, Jimjar's disappearance, and the Duskryns' implications regarding his own history.",
+    "source_quote": "Daz was, I suspected, already drafting a journal entry.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin carries Dawnbringer and is contemplating its nature after months of darkness; he mentioned a 'sword whisperer' as a specialist who might understand the blade's radiance, and he is calculating the sun's position relative to the year.",
+    "source_quote": "Thorin stood with his face at an angle that suggested he was calculating the sun's position relative to the year.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum opened the Bag of Holding and now carries pamphlets on his mind; he plans to research Bahamut's lore and is genuinely delighted by the availability of pamphlets at Candlekeep.",
+    "source_quote": "Grygum was doing something with his hands that was probably prayer and probably sincere.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool is a gelatinous ward who transformed into a grey ooze; he peered out of the Bag of Holding onto the surface world for the first time, exhibiting curiosity rather than retreat, and his eyes remain structurally unknown but were wide and sweeping.",
+    "source_quote": "Glabbagool \u2014 our companion, our gelatinous ward who was now a grey ooze \u2014 had peered out. There is no other word for it.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "House T'sarran",
+    "fact": "House T'sarran is the target of Daz's research; its connection to Jimjar's disappearance and the Duskryns' activities is being investigated as part of a larger inquiry into Daz's own past.",
+    "source_quote": "research into House T'sarran and Jimjar's disappearance and whatever the various cutouts and hired Duskryns were ultimately pointing at regarding Daz's own history",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Duskryns",
+    "fact": "The Duskryns are hired agents whose activities point toward deeper implications regarding Daz's history; they are being investigated alongside House T'sarran and Jimjar's disappearance.",
+    "source_quote": "whatever the various cutouts and hired Duskryns were ultimately pointing at regarding Daz's own history",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool is a gelatinous ooze that survived Blingdenstone, the ooze crisis, the Bag of Holding, and months of Underdark travel; his first reaction to the surface world was curiosity, not fear or retreat.",
+    "source_quote": "Glabbagool had survived Blingdenstone, the ooze crisis, the bag of holding, and however many months of Underdark travel, and his first reaction to the surface world was curiosity rather than retreat.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Stonespeaker Crystal",
+    "fact": "The Stonespeaker Crystal is possessed by Daz and is likely tied to his personal history; its properties and connection to the surface world are being observed but not yet understood.",
+    "source_quote": "The Stonespeaker Crystal was Daz's.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Dawnbringer",
+    "fact": "Dawnbringer is Thorin's sentient sword, forged for radiance but forced into prolonged darkness; Thorin believes it requires a 'sword whisperer' to understand its nature and is determined not to relinquish it.",
+    "source_quote": "Thorin, characteristically, was thinking about Dawnbringer. Not what to do with it; he would never give it up, and the sword would never go quietly.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Bag of Holding",
+    "fact": "The Bag of Holding was opened by Grygum, allowing Glabbagool to emerge; it has survived Blingdenstone, the ooze crisis, and months of Underdark travel, and its contents remain unexplained.",
+    "source_quote": "Grygum had opened the bag of holding just enough, and Glabbagool \u2014 our companion, our gelatinous ward who was now a grey ooze \u2014 had peered out.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "arrival on the surface",
+    "fact": "The party emerged onto the surface world after prolonged Underdark travel; they remained stationary longer than tactical norms dictated, observing the sky, the sun, and their own reactions to the Overbright.",
+    "source_quote": "We stood in the Overbright for a while, longer than was probably necessary from a tactical standpoint, and nobody suggested moving immediately.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "decision to go to Candlekeep",
+    "fact": "The group decided to travel to Candlekeep, the Great Library, as their next destination; the decision was framed as a group discussion but was strongly influenced by Daz's analytical gravity and research priorities.",
+    "source_quote": "The decision about what to do with the months was largely Daz's call, framed as a group discussion but with Daz's particular analytical gravity already pulling it toward a conclusion before the conversation began.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "purchase of adventuring gear",
+    "fact": "The party agreed to spend their surplus gold on adventuring gear rather than business ventures, reasoning that gear reduces consequences of danger and infrastructure or stability were not yet earned.",
+    "source_quote": "We agreed on the gear.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Glabbagool's eyes",
+    "fact": "The structural nature of Glabbagool's eyes remains unknown; their presence and behavior on the surface suggest sentience or perception beyond typical ooze biology, but no one has the vocabulary to ask what they see.",
+    "source_quote": "None of us were entirely sure what Glabbagool's eyes were, from a structural standpoint, but they were wide and present and sweeping across the surface world with an attention that made my own response to the Overbright seem, by comparison, measured.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Daz's true history",
+    "fact": "Daz's personal history is entangled with House T'sarran, Jimjar's disappearance, and the Duskryns' activities; the full truth remains hidden, and research at Candlekeep may uncover it.",
+    "source_quote": "research into House T'sarran and Jimjar's disappearance and whatever the various cutouts and hired Duskryns were ultimately pointing at regarding Daz's own history",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "sword whisperer",
+    "fact": "Thorin believes a 'sword whisperer' exists \u2014 a specialist who can understand Dawnbringer's nature after its time in darkness \u2014 but no one knows who this person is or where to find them.",
+    "source_quote": "He had mentioned something about a specialist \u2014 the phrase *sword whisperer* had come up, delivered with the particular dwarvish seriousness that Thorin applied to things he actually cared about, which meant he believed this person existed and should be found.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "the meaning of the Overbright",
+    "fact": "The party's prolonged observation of the surface sky suggests an unspoken emotional or spiritual reckoning with light after prolonged darkness, but no one has the words to articulate what they feel.",
+    "source_quote": "I watched him watch the sky. Whatever he made of it, I did not have the vocabulary to ask.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Candlekeep",
+    "fact": "Candlekeep, the Great Library, is the group's chosen destination; it is seen as a source of information on House T'sarran, Jimjar, the Duskryns, Bahamut, and the lore of the surface world.",
+    "source_quote": "Candlekeep, the Great Library, research into House T'sarran and Jimjar's disappearance...",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "The Surface World",
+    "fact": "The surface world, referred to as the Overbright, is the first environment the party has encountered after months in the Underdark; its light, scale, and openness provoke curiosity, awe, and unspoken emotional responses.",
+    "source_quote": "We stood in the Overbright for a while, longer than was probably necessary from a tactical standpoint...",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "after the Underdark",
+    "fact": "The events described occur after months of Underdark travel; the passage of time is marked by recovery, softening of memory, and the transition from survival to purpose.",
+    "source_quote": "The weeks that followed blurred in the way that recovery blurs \u2014 not forgetting, exactly, but the edges going soft.",
+    "quote_verified": true
+  }
+]

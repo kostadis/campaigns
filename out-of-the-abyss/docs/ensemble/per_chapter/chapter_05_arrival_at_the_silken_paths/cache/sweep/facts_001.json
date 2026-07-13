@@ -1,0 +1,492 @@
+[
+  {
+    "type": "date",
+    "subject": "7th day of the 2nd Tenday of Taraskh 1493",
+    "fact": "The escapees begin their journey through the Underdark on the 7th day of the 2nd Tenday of Taraskh 1493.",
+    "source_quote": "7th day of the 2nd Tenday of Taraskh 1493",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "8th day of the 2nd Tenday of Taraskh 1493",
+    "fact": "The escapees continue their journey on the 8th day of the 2nd Tenday of Taraskh 1493.",
+    "source_quote": "8th day of the 2nd Tenday of Taraskh 1493",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz proposes using his ability to shape water into blocks of ice for storage.",
+    "source_quote": "Daz then proposes an ingenious solution. When they next find water, he will use his ability to shape water to transform it into a block of ice.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Jimjar",
+    "fact": "Jimjar explains that Barrelstalk mushrooms produce 1-4 gallons of water and five to 10 pounds of nutritious food.",
+    "source_quote": "Jimjar explains that the Barrelstalk mushroom can produce 1-4 gallons of water and five to 10 pounds of nutritious food.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Eldeth",
+    "fact": "Eldeth covers the rear of the caravan to obscure evidence of their travels.",
+    "source_quote": "Eldeth covers the rear as they travel, trying to obscure any evidence of their travels.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Buppido",
+    "fact": "Buppido is particularly interested in Eldeth's tricks of obscuring their trail.",
+    "source_quote": "Buppido seems particularly interested in her tricks.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum makes a bet with Jimjar to navigate the bioluminescent passageway.",
+    "source_quote": "But then Grygum steps forward, \u201cI\u2019ll make that bet.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir collects Ormu fungus for its phosphorescent pigment potential.",
+    "source_quote": "Zalthir collects some fungi - \u201cNever know when you need that kind of pigment.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "narrow passageway",
+    "fact": "The narrow passageway is lined with bioluminescent green moss called Ormu.",
+    "source_quote": "As they exit the narrow passageway, Zalthir turns to Jimjar, \u201cYou\u2019re good at hiding things.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Ormu",
+    "fact": "Ormu is a fungus that sheds dim light for 5 feet and can be dried into phosphorescent powder or pigment.",
+    "source_quote": "Jimjar explains that it is a fungus called \u201cOrmu. In addition to shedding a dim light for 5 feet, it can be harvested, dried, and made into a phosphorescent powder or pigment.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Sarith",
+    "fact": "Sarith rouses the group in the morning and declares they must continue.",
+    "source_quote": "Sarith rouses everyone in the morning, \u201cWe must continue.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Trillimac mushroom",
+    "fact": "Trillimac is a mushroom that grows four to five feet tall with a gray-green cap and light gray stalk.",
+    "source_quote": "Jimjar, a botanist, explains it is a mushroom that grows to a height of four to five feet and has a broad gray-green cap and a light gray stalk.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Trillimac cap",
+    "fact": "The cap of the Trillimac mushroom can be cut and cleaned for use in making maps, hats, and scrolls.",
+    "source_quote": "The cap\u2019s leathery surface can be cut and cleaned for use in making maps, hats, and scrolls (its surface takes on dyes and inks well).",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Trillimac stalk",
+    "fact": "The stalk of the Trillimac mushroom can be soaked in water and dried to make palatable bread-like food.",
+    "source_quote": "The stalk can be cleaned, soaked in water for an hour, then dried to make a palatable food akin to bread.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Shuushar",
+    "fact": "Shuushar mentions that they will soon reach the Darklake and have abundant water.",
+    "source_quote": "Shuushar sighed, \u201cSoon, we will be at the Darklake, and we will have more water than we ever knew what to do with it.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Sathir",
+    "fact": "Sathir identifies their location as the Silken Paths.",
+    "source_quote": "Sathir shouts, \u201cYES!\u201d ... \u201cWe have arrived at the Silken Paths. We are heading in the right direction.\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Silken Paths",
+    "fact": "The Silken Paths are a network of spider webs crisscrossing a 500-foot-deep, 2,000-foot-wide chasm stretching nearly five miles.",
+    "source_quote": "The Silken Paths are a network of spider webs crisscrossing a 500-foot-deep, 2,000-foot-wide chasm that stretches for nearly five miles.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "giant spiders",
+    "fact": "Giant spiders inhabit the Silken Paths and constantly spin new webs as old ones disintegrate.",
+    "source_quote": "The major strands of the web are traversable. Still, the Silken Paths are ever-changing because old webs disintegrate over time and the giant spiders inhabiting the chasm constantly sping new ones.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Yukyuk",
+    "fact": "Yukyuk is a goblin guide with an orange color motif and wears a beanie.",
+    "source_quote": "The first one, whose color motif is orange, introduces himself, \u201cMy name is Yukyuk.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Spiderbait",
+    "fact": "Spiderbait is a goblin guide with a pink color motif and an odd accent with rolled R\u2019s and clipped vowels.",
+    "source_quote": "The second jump, whose color motif is pink, speaks with an odd accent: the R\u2019s are rolled, and the vowels are clipped oddly. \u201cAnd I am Spiderbait.\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "goblins",
+    "fact": "Yukyuk and Spiderbait offer to guide the group across the Silken Paths for 2 gold per day.",
+    "source_quote": "We can be your guides at a nominal price of 2 gold per day.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "beanies",
+    "fact": "Yukyuk and Spiderbait wear beanies covering their heads.",
+    "source_quote": "their heads are covered with beanies.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "tattoos",
+    "fact": "Yukyuk and Spiderbait have tattoos written in draconic script spelling goblin words incorrectly.",
+    "source_quote": "Their bodies are covered in tattoos written in draconic. The spelling is wrong. And it\u2019s only through happenstance that Zalthir realizes they are writing goblin words using a draconic script.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Grygum bets Jimjar 20 gold",
+    "fact": "Grygum bets Jimjar 20 gold that he cannot navigate the spiderwebs.",
+    "source_quote": "Jimjar, you seem to have a knack with words.\u201d ... \u201cI\u2019ll bet you 20 gold you can\u2019t navigate the spiderwebs.\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Jimjar pays with future gold",
+    "fact": "Jimjar acknowledges he lacks 20 gold now but expects to pay later.",
+    "source_quote": "He nods his head and says, \u201cYou won.\u201d Jimjar then looks into his pockets and mutters, \u201cBut I am a bit short of cash.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "goblins agree to guide until paid",
+    "fact": "Spiderbait proposes the goblins guide the group until Jimjar can pay the 20 gold.",
+    "source_quote": "Jimjar, how about we be your guides and hang around until you have the 20 gold you owe?",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Jimjar",
+    "fact": "Jimjar accepts the goblins\u2019 proposal to guide the group until paid.",
+    "source_quote": "Jimjar acts like this was the most awful idea he had ever heard, then pauses and sighs, \u201cI suppose that will have to be the plan.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "giant spiders",
+    "fact": "Giant spiders are present on the Silken Paths and can be avoided by not triggering vibrations.",
+    "source_quote": "Yeah, dude. But there is so much stuff bouncing on the webs that they won\u2019t notice your bouncing scales.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Fargas Rumblefoot",
+    "fact": "Fargas Rumblefoot is a halfling trapped in a cocoon and claims to have been attacked by gnolls.",
+    "source_quote": "I am Fargas Rumblefoot.\" ... \"I was a member of an adventuring band looking for a lost tomb. Gnolls attacked us.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "gnolls",
+    "fact": "Gnolls are feral hyena-headed humanoids that attack without warning and devour their victims.",
+    "source_quote": "Feral hyena-headed humanoids attack without warning, slaughtering their victims and devouring their flesh.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "gnoll spawn",
+    "fact": "Gnoll spawn are said to be implanted in hyenas and erupt from their bodies upon birth.",
+    "source_quote": "It is said that spawns are put into a hyena, and when the spawn is born, it rips out of the hyena's body.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Yeenoghu",
+    "fact": "Yeenoghu is the demon lord said to have created gnolls when he came to Faer\u00fbn.",
+    "source_quote": "It is also said that they were created when the demon lord Yeenoghu found his way onto Faer\u00fbn and ran amok.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Silken Paths",
+    "fact": "The Silken Paths contain strands that can be cut with fire or blade to control movement or escape.",
+    "source_quote": "They can stop the spiders and escape if they cut the strands in the right places. They will get trapped if they cut the strands in the wrong place.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "group recalls 'Cut the Graph'",
+    "fact": "The group remembers the childhood game 'Cut the Graph' as a model for navigating the spiderweb strands.",
+    "source_quote": "They remember this as a game from their childhood called \u2018Cut the Graph.\u2019",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "silk rope",
+    "fact": "The group ties silk rope around themselves to mitigate falls from the web.",
+    "source_quote": "We can tie some of the silk rope around each of us. That way, if one of us falls, the others can try to arrest his fall.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "giant spiders",
+    "fact": "Giant spiders can be spun by the goblin guides for extra points.",
+    "source_quote": "You get extra points if you spin a spider.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Stool",
+    "fact": "Stool is asked to use his spores on the moving humanoid-sized cocoon.",
+    "source_quote": "Zalthir notices it is moving and humanoid-sized. He turns to Stool, \u201cWe need those spores.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin offers to cut Fargas Rumblefoot free from the cocoon in seconds.",
+    "source_quote": "Thorin takes his blade, saying, \u201cI can cut him loose in a few seconds.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Fargas Rumblefoot's tomb location",
+    "fact": "Fargas Rumblefoot claims to know the location of a lost tomb and its treasure.",
+    "source_quote": "I have information. We were coming to look for a tomb. I know the location of the tomb. And more importantly, I know the location of the treasure.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Topsy and Turvy",
+    "fact": "Topsy and Turvy are seen talking to each other but too far away for Daz to hear.",
+    "source_quote": "Daz notices Topsy and Turvy talking to each other. But they are too far away for him to understand what they are saying.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Ilvara",
+    "fact": "Ilvara is referenced as the authority who decides the fate of failed Drow.",
+    "source_quote": "Ilvara might decide his fate should be precisely like Serith's",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Serith",
+    "fact": "Serith is referenced as an example of a failed Drow\u2019s fate.",
+    "source_quote": "Ilvara might decide his fate should be precisely like Serith's",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Vof Klownits",
+    "fact": "Vof Klownits is referenced as a Sage whose opus contains the maxim 'No plan survives encounter with the enemy.'",
+    "source_quote": "Vof Klownits, a Sage, whose opus Zalthir has never read",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "gray ooze",
+    "fact": "Gray ooze is mentioned as a hazard in the Underdark.",
+    "source_quote": "gray ooze",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "chasme",
+    "fact": "Chasme is referenced as a dangerous Underdark creature.",
+    "source_quote": "chasme",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "vrock",
+    "fact": "Vrock is referenced as a dangerous Underdark creature.",
+    "source_quote": "vrock",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Sloobludop",
+    "fact": "Sloobludop is the destination the escapees are heading toward.",
+    "source_quote": "deeper into the Underdark, hopefully heading to Sloobludop.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Darklake",
+    "fact": "The Darklake is a location the group expects to reach soon, where water will be abundant.",
+    "source_quote": "Soon, we will be at the Darklake, and we will have more water than we ever knew what to do with it.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir attempts to bet Jimjar on flying",
+    "fact": "Zalthir bets Jimjar that he cannot fly to the roof of the cavern.",
+    "source_quote": "I\u2019ll bet you can\u2019t fly to the roof of this cavern?",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Yukyuk tosses beanie on ground",
+    "fact": "Yukyuk tosses his beanie on the ground in anger after Jimjar admits he lacks cash.",
+    "source_quote": "Angered, Yukyuk tosses his beanie on the ground and starts marching to the web.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "goblins demonstrate web-surfing",
+    "fact": "Yukyuk and Spiderbait coat their shoes and run across the spiderwebs to demonstrate navigation.",
+    "source_quote": "Thorin observes them coat their shoes with a peculiar substance and start running.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Eldeth proposes silk rope safety system",
+    "fact": "Eldeth suggests tying silk rope around each person to arrest falls from the web.",
+    "source_quote": "We can tie some of the silk rope around each of us. That way, if one of us falls, the others can try to arrest his fall.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "goblins take mental notes on silk rope",
+    "fact": "The goblins take mental notes as the group ties silk rope around themselves.",
+    "source_quote": "This innovation intrigues the goblins, who take many mental notes as the escapees tie themselves.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Fargas senses spiders approaching",
+    "fact": "Fargas Rumblefoot senses spiders approaching while still in the cocoon.",
+    "source_quote": "Shit, I can feel the spiders coming.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "cocoon",
+    "fact": "A humanoid-sized cocoon is found on the web, and it is moving.",
+    "source_quote": "Daz notices a cocoon. Zalthir notices it is moving and humanoid-sized.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "burning the web",
+    "fact": "A past Drow wizard attempted to burn the Silken Paths but failed as spiders rebuilt the webs faster.",
+    "source_quote": "Do you remember that crazy Drow wizard who wanted to burn this place down? But the spiders kept rebuilding it faster than he could burn.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "cliffs",
+    "fact": "Climbing down and up gnarly cliffs is required if the web is burned.",
+    "source_quote": "when the webs were burned, you had to climb down these gnarly cliffs. And then climb up some other cliffs.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "giant spiders",
+    "fact": "Giant spiders can be attracted by vibrations on the web.",
+    "source_quote": "But when we walk on the web, the spiders will hear our vibrations. Won\u2019t that attract them to us?",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Stool",
+    "fact": "Stool expresses excitement about being helpful and is invited by Grygum to accompany him to the cocoon.",
+    "source_quote": "I\u2019m helpful, aren\u2019t I? I love being helpful.\" ... \"Yes, I will. Now let\u2019s go together.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Grygum and Stool approach cocoon",
+    "fact": "Grygum and Stool advance together toward the moving cocoon.",
+    "source_quote": "So Stool and Grygum advance on the cocoon",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Fargas Rumblefoot",
+    "fact": "Fargas Rumblefoot communicates telepathically with the group from inside the cocoon.",
+    "source_quote": "I am Fargas Rumblefoot.\" ... \"Can you please get me out of here?",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "gnoll infection risk",
+    "fact": "Thorin fears that freeing Fargas Rumblefoot may release a gnoll spawn.",
+    "source_quote": "I wonder if he\u2019s already been infected? Like, do we free him, and we get a gnoll?",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Zalthir's betting theory",
+    "fact": "Zalthir theorizes that Jimjar\u2019s willingness to make bad bets implies he will continue making them.",
+    "source_quote": "His willingness to make these bad bets implies he will make further bad bets going forward.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Buppido",
+    "fact": "Buppido expresses doubt about relying on the goblins for safety.",
+    "source_quote": "I am not sure the divine plan had anything about relying on two semi-sentient goblins for our safety.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir agrees with Buppido\u2019s skepticism about the goblins.",
+    "source_quote": "For once, Zalthir agrees.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Sathir directs goblins to Sloobludop",
+    "fact": "Sathir instructs Yukyuk and Spiderbait to guide the group to a passageway leading quickly to Sloobludop.",
+    "source_quote": "Take us to a passageway that will get us quickly to Sloobludop.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "goblins explain fire danger on web",
+    "fact": "Yukyuk and Spiderbait explain that fire burns the web and kills anyone within 30 feet.",
+    "source_quote": "fire can burn through the web, but when it does, anyone within 30 feet of the burning point will likely fall to their death.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir asks about mitigating falls",
+    "fact": "Zalthir asks if falls from the web can be mitigated.",
+    "source_quote": "Zalthir asks, \u201cAnd can we mitigate that fall?\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Eldeth explains cascade fall protocol",
+    "fact": "Eldeth states that if one person fails to arrest a fall, the next must try, and if all fail, everyone dies.",
+    "source_quote": "Well, then the next person must.\" ... \"Then I suppose we all die.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "spiderweb strands",
+    "fact": "Spiderweb strands can be severed with fire or a blade to control movement or escape.",
+    "source_quote": "They can stop the spiders and escape if they cut the strands in the right places. They will get trapped if they cut the strands in the wrong place.",
+    "quote_verified": true
+  }
+]

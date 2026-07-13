@@ -1,0 +1,156 @@
+[
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The events occur during the evening between dinner and the discovery of the body at dawn.",
+    "source_quote": "Somewhere between dinner and the moment his heart was carved out",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "elapsed time",
+    "fact": "The murder occurred in the narrow window between dinner and the moment his heart was carved out.",
+    "source_quote": "within the evening \u2014 Janussi had eaten dinner with his face intact and his teeth whole. Whatever happened, happened in the narrow window between that meal and his death",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "ooze count",
+    "fact": "Glabbagool, an ooze, was tested for poison identification.",
+    "source_quote": "Glabbagool",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "keeper's assistants count",
+    "fact": "Grygum, Thorin, Zalthir, Daz, Tadric, and Milo are present as investigators.",
+    "source_quote": "Grygum, Thorin, Zalthir, Daz, Tadric, and Milo",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "statue height",
+    "fact": "The marble statue of A'lai Aivenmore is three feet tall.",
+    "source_quote": "Three feet of marble",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "sapphire value",
+    "fact": "Four sealed pouches each contain a sapphire, and five diamonds are each worth a fortune.",
+    "source_quote": "four sealed pouches, each with its sapphire \u2014 and beside them a figurine of a raven, a potion of supreme healing, another of water breathing, five diamonds each worth a fortune",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "platinum and gold value",
+    "fact": "A heap of platinum and gold was left untouched in the safe.",
+    "source_quote": "a heap of platinum and gold",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "silver candlestick value",
+    "fact": "The silver pedestal by the desk is described as silver, but no value is stated.",
+    "source_quote": "a silver pedestal by the desk",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "ebony pipe value",
+    "fact": "The ebony pipe is finely carved but has no stated value.",
+    "source_quote": "an ebony pipe finely carved",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "cherry tobacco value",
+    "fact": "Cherry tobacco is present but has no stated value.",
+    "source_quote": "cherry tobacco",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "potion value",
+    "fact": "A potion of supreme healing potion and a water breathing potion are present.",
+    "source_quote": "a potion of supreme healing, another of water breathing",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "safe dimensions",
+    "fact": "The safe is as wide as a man's reach.",
+    "source_quote": "a box of metal as wide as a man's reach",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "sequence of death",
+    "fact": "The sequence was: nose broken, then writing, then fall, then heart removed.",
+    "source_quote": "A man at his books, wetting his finger to turn a poisoned page. A fall, forward, hard \u2014 a broken nose, a chipped tooth on the stone. And then the patient hands arriving after, in no hurry at all, rolling the body and opening the chest",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "third dart impact",
+    "fact": "Three darts of pure force struck the chair.",
+    "source_quote": "Three circular impacts, horsehair stuffing scattered, two holes punched clean through the chair back",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "ink color count",
+    "fact": "Multiple colors of ink were used, with blue being the newest.",
+    "source_quote": "There was more than one color on those pages, and I wanted the newest one isolated before anything else. 'There's... the blue one is the newer one.'",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "candle height",
+    "fact": "The candle on the statue is present but no height is stated.",
+    "source_quote": "shake the candle",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "sequence of discovery",
+    "fact": "The statue was knocked over when A'lai Aivenmore discovered the body at dawn.",
+    "source_quote": "The Great Reader A'lai Aivenmore had knocked it over in shock when he found the body at dawn",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "safe contents count",
+    "fact": "Four sealed pouches, one figurine, two potions, five diamonds, and a heap of platinum and gold remained in the safe.",
+    "source_quote": "four sealed pouches, each with its sapphire \u2014 and beside them a figurine of a raven, a potion of supreme healing, another of water breathing, five diamonds each worth a fortune, a heap of platinum and gold",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "sapphire missing count",
+    "fact": "One sapphire and one parchment were taken from the safe.",
+    "source_quote": "one sapphire was missing. One parchment",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "drow count",
+    "fact": "No drow are mentioned.",
+    "source_quote": "",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "investigators count",
+    "fact": "Six individuals are actively investigating: Daz, Grygum, Thorin, Zalthir, Tadric, and Milo.",
+    "source_quote": "Grygum, Thorin, Zalthir, Daz, Tadric, and Milo",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "sequence of last writing",
+    "fact": "Janussi's last writing was in blue ink on The Discoveries, after writing on The Golden Ass.",
+    "source_quote": "The blue ink on The Discoveries had been laid down after the blue ink on another book. The Golden Ass.",
+    "quote_verified": false
+  }
+]

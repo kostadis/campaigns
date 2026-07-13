@@ -1,0 +1,248 @@
+[
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is an orc who witnessed the death of a two-headed stone giant, observed the Duergar's flame device, and chose to intervene in the battle with his mace. He is attentive to subtle behavioral cues, such as Daz\u2019s deliberate weakening of spells and Thorin\u2019s prayers for the dead. He is currently navigating factional politics in Gracklstugh with caution.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is a dwarf who seeks to understand the nature of madness in stone giants and Duergar behavior. He is deeply moral, reluctant to kill, and emotionally affected by the giant\u2019s death. He is being courted by multiple factions \u2014 Stone Guards, Keepers of the Flame, and possibly the Deepking\u2019s court \u2014 and is torn between loyalty to giants and survival in a corrupt city. He values clarity of intent and is wary of hidden agendas.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is a character who prioritizes self-preservation and is intrigued by power. He is approached by Gartokkar, Custodian of the Flame, who offers him safe passage in exchange for service. Zalthir recognizes the value of influence and is drawn to the authority Gartokkar wields. He is currently considering the offer before its expiration, aware that refusal may lead to hostility.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a curious and analytical character who questions the logic behind magical systems, particularly the use of a red dragon as a furnace lighter. He seeks information from outsiders, investigates corruption, and pushes for evidence before committing to factions. He is instrumental in identifying systemic corruption in Gracklstugh and has secured a potential reward from the Stone Guards. He is the group\u2019s strategist, focused on leverage, remuneration, and long-term survival.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Gartokkar Xundorn",
+    "fact": "Gartokkar is the Custodian of the Flame and chief of the Keepers of the Flame in Gracklstugh. He is literal, humorless, and proud of his role maintaining the city\u2019s furnaces through a captive red dragon. He offers Daz and his party safe passage in exchange for service, but his offer expires tomorrow. He is a key figure in the city\u2019s power structure and is aware of the dragon\u2019s inevitable fate \u2014 replacement through murder.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Errde Blackskull",
+    "fact": "Errde is the captain of the Stone Guards and an agent of the Overlake Hold. She is pragmatic, emotionally controlled, and deeply invested in uncovering corruption tied to Droki and the Council of Savants. She offers the party financial reward and protection from Drow slave-hunters in exchange for intelligence. Her offer is laced with manipulation \u2014 she presents herself as the only guarantor of the party\u2019s freedom, while concealing her own ties to the Deepking\u2019s court.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Dorhun",
+    "fact": "Dorhun is a stone giant and former apprentice to Stonespeaker Hgraam. He is taciturn, bound by ancient traditions, and deeply affected by the death of his mentor. He holds qualified immunity for killing rampaging giants and has requested the party visit him at Cairngorm Cavern. He represents the fading authority of the stone giants and may hold crucial knowledge about the Deepking\u2019s madness and the fate of Hgraam.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Rihuud",
+    "fact": "Rihuud is Dorhun\u2019s companion, also an apprentice to Stonespeaker Hgraam. He is silent, observant, and present during the conversation with Thorin. Though he speaks little, his presence reinforces the stone giants\u2019 collective grief and their institutional role in maintaining order. He may hold unspoken knowledge about the corruption in Gracklstugh.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Droki",
+    "fact": "Droki is a Duergar living in the West Cleft District among the Derro. He is the suspected linchpin of a conspiracy linking the Council of Savants and Clan Lairds to corruption in Gracklstugh. Though not yet encountered, his existence is the focus of Errde\u2019s investigation. His actions have triggered a city-wide unraveling of law and order, and his capture is the key to exposing the Deepking\u2019s court.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Keepers of the Flame",
+    "fact": "The Keepers of the Flame are a powerful Duergar order responsible for maintaining the city\u2019s furnaces by tending to a captive red dragon. They are among the Deepking\u2019s most trusted advisors, possessing unique magical knowledge and control over thermal energy. Their role requires them to periodically kill and replace the dragon, creating internal moral tension. They are isolated, literal, and distrustful of outsiders, yet they seek new talent to sustain their operations.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Stone Guards",
+    "fact": "The Stone Guards are an elite military force loyal to the city of Gracklstugh, operating under Captain Errde Blackskull. They are tasked with maintaining order and suppressing internal threats, particularly corruption. They are allied with stone giants and operate from the austere Overlake Hold. Their authority is absolute, but their loyalty may be divided between the city and the Deepking\u2019s court. They offer rewards and protection in exchange for intelligence on Droki.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Council of Savants",
+    "fact": "The Council of Savants is a shadowy group of Duergar scholars and magi suspected of manipulating the Deepking\u2019s decrees and engineering systemic corruption in Gracklstugh. Linked to Droki and possibly the Clan Lairds, they are believed to be rewriting the city\u2019s laws to serve hidden agendas. Their actions have destabilized commerce, justice, and social order. Their existence is denied publicly but suspected by those who remember the city\u2019s former stability.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Clan Lairds",
+    "fact": "The Clan Lairds are the ruling Duergar nobility of Gracklstugh, controlling resources, trade, and military power. They are suspected of collusion with the Council of Savants to deepen corruption and consolidate control over the city. Their influence extends into the Underdark, and they are feared for their brutality and secrecy. Their motives are unclear, but their actions have eroded the rule of law and triggered unrest.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Deepking\u2019s Court",
+    "fact": "The Deepking\u2019s Court is the central authority of Gracklstugh, now perceived as increasingly irrational and detached from reality. Its laws have become arbitrary, and its decrees are enforced with brutal efficiency. The court is the source of the city\u2019s corruption, though its true ruler may be manipulated by others. Factions vie for influence within it, and its madness is the root cause of the city\u2019s collapse.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Gray Ghosts",
+    "fact": "The Gray Ghosts are a mysterious faction in Gracklstugh, likely a rebel or insurgent group opposing the Deepking\u2019s regime. They are mentioned by the halfling as being in conflict with the Keepers of the Flame. Their methods, goals, and membership are unknown, but they are considered dangerous enough to be feared by even the most hardened Duergar.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Crown",
+    "fact": "The Crown is a shadowy entity referenced in connection with the Keepers of the Flame and the Gray Ghosts. It may represent a rival power structure \u2014 perhaps a faction loyal to a deposed monarch, a hidden heir, or a rival kingdom. Its existence is implied but unconfirmed, and it is believed to be a key player in the city\u2019s destabilization.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "death of the two-headed stone giant",
+    "fact": "The two-headed stone giant was subdued by Thorin but killed by the Duergar using a flame device. His death triggered emotional reactions from Thorin and Grygum, revealed the Duergar\u2019s lethal technology, and set in motion the party\u2019s entanglement with Gracklstugh\u2019s factions. His corpse became a symbol of the city\u2019s descent into uncontrolled violence.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "appearance of the second stone giant",
+    "fact": "Shortly after the first giant\u2019s death, a second stone giant, Dorhun, appeared with Duergar stone guards. His arrival confirmed the giants\u2019 institutional role in the city and initiated Thorin\u2019s dialogue with the stone giant lineage. Dorhun\u2019s request for a meeting at Cairngorm Cavern suggests the giants hold knowledge critical to understanding the Deepking\u2019s madness.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Gartokkar\u2019s offer to Zalthir",
+    "fact": "Gartokkar offered Zalthir safe passage and protection in exchange for service to the Keepers of the Flame. The offer expires tomorrow, creating urgency. The offer\u2019s terms \u2014 avoiding Deepking disapproval and not requiring excessive effort \u2014 suggest hidden obligations. Zalthir\u2019s decision will determine whether he aligns with the city\u2019s most powerful magical order.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Errde\u2019s recruitment of the party",
+    "fact": "Errde Blackskull recruited the party to investigate Droki, offering 350 gold in equipment and protection from Drow slave-hunters. She framed the mission as serving the city, but her hidden agenda and emotional manipulation suggest loyalty to the Deepking\u2019s court. Her offer of freedom is a tool of control, and her knowledge of the party\u2019s actions implies surveillance.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "halfling\u2019s revelation about corruption",
+    "fact": "The halfling outsider revealed that the Deepking\u2019s laws have become arbitrary and that the city\u2019s corruption began with his madness. He identified the Keepers of the Flame as being in conflict with the Gray Ghosts and the Crown. His knowledge, gained by remaining an outsider, confirmed Daz\u2019s suspicions and provided the party\u2019s first coherent map of Gracklstugh\u2019s factional war.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "visit to Darklake Brewery",
+    "fact": "The party\u2019s visit to the closed Darklake Brewery revealed the city\u2019s social stratification: Duergar only, but outsiders like the halfling and Drow still access it through hidden channels. The brewery became a hub of information, where the halfling exposed the corruption and the Drow condemned Duergar brutality. It marked the moment the party shifted from survival to investigation.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "shrinking of the enlarged Duergar",
+    "fact": "After the giant\u2019s death, the Duergar who used the flame device shrank back to standard size, revealing their magical augmentation. This confirmed the existence of advanced, possibly forbidden, magic in Gracklstugh and suggested that the Duergar are experimenting with transformation and control. The pop sound was the first supernatural anomaly witnessed by the party.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "the Deepking\u2019s madness",
+    "fact": "The Deepking\u2019s sudden detachment from reality is the root cause of Gracklstugh\u2019s collapse. Laws are arbitrary, corruption is systemic, and factions are turning on each other. The party must uncover whether this madness is natural, magical, or engineered \u2014 and who, if anyone, is controlling it. The answer may determine whether the city can be saved \u2014 or must be destroyed.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "the red dragon\u2019s fate",
+    "fact": "The red dragon used to fuel Gracklstugh\u2019s furnaces is kept alive only through pampering and a false hoard. The Keepers of the Flame must kill and replace it when it becomes too powerful or realizes it is not in charge. The party must decide whether to protect the dragon, sabotage the Keepers, or exploit its eventual death for their own gain.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Droki\u2019s conspiracy",
+    "fact": "Droki is the key to exposing corruption in Gracklstugh. He is linked to the Council of Savants and Clan Lairds, and his capture may reveal who is manipulating the Deepking. The party must decide whether to pursue him for the Stone Guards, for themselves, or to expose the conspiracy to the city. His fate will determine the balance of power in Gracklstugh.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Cairngorm Cavern meeting",
+    "fact": "Dorhun has invited the party to Cairngorm Cavern, a location tied to the old stonespeakers and the memory of Hgraam. This meeting may reveal the origins of the Deepking\u2019s madness, the truth about the stone giants\u2019 immunity, or a hidden prophecy. It is a potential turning point \u2014 a chance to align with ancient wisdom or be trapped by it.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "the party\u2019s allegiance",
+    "fact": "The party is being courted by multiple factions: Stone Guards, Keepers of the Flame, and possibly the Deepking\u2019s court. Each offers power, protection, or wealth \u2014 but at a cost. The party must decide whether to serve the city, survive it, or overthrow it. Their choice will determine whether they become players in the game \u2014 or remain outsiders, like the halfling.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Gracklstugh",
+    "fact": "Gracklstugh is a Duergar city under the rule of a mad Deepking. Its laws are rigid, its architecture austere, and its society fractured by corruption. The city is a labyrinth of stone, smoke, and hidden power. Factions war beneath its surface, and outsiders are either exploited, ignored, or killed. It is a place where magic is industrialized, and morality is defined by obedience.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Cairngorm Cavern",
+    "fact": "Cairngorm Cavern is an ancient site tied to the stone giants and the memory of Stonespeaker Hgraam. It is a place of silence, memory, and hidden knowledge. Dorhun has invited the party here, suggesting it holds secrets about the Deepking\u2019s madness, the giants\u2019 immunity, and the origin of the city\u2019s corruption. It may be a sanctuary \u2014 or a tomb.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Overlake Hold",
+    "fact": "Overlake Hold is the Stone Guards\u2019 fortress and jail, carved from grey stone. It is cold, silent, and devoid of color. It is the seat of Errde Blackskull\u2019s power and the center of her investigation into Droki. It is a place of interrogation, control, and quiet terror \u2014 where the city\u2019s law is enforced without mercy or mercy\u2019s pretense.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Darklake Brewery",
+    "fact": "Darklake Brewery is a Duergar-only establishment, closed to outsiders, yet secretly visited by halflings and Drow. It is a place of whispers, hidden truths, and social stratification. It became the party\u2019s first window into the city\u2019s corruption and the source of critical intelligence. It is a sanctuary for those who refuse to be players \u2014 but even here, danger lurks.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "West Cleft District",
+    "fact": "West Cleft District is a slum inhabited by Derro, where Droki lives. It is a place of filth, madness, and hidden conspiracies. It is the suspected nexus of corruption linking the Council of Savants and Clan Lairds. The Stone Guards fear entering it with force, making it the perfect place for the party to investigate \u2014 if they survive.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Blade Bazaar",
+    "fact": "Blade Bazaar is a Duergar market where commerce is governed by rigid, arbitrary laws. Daz observed corruption here \u2014 grifting, chaos, and destruction disguised as order. It is where the party first recognized that the city\u2019s rules are not just strict \u2014 they are broken. It is the symbolic heart of Gracklstugh\u2019s decay.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "flame device",
+    "fact": "The flame device is a Duergar invention: a tube connected to a bottle on the back, producing a controlled flame from a magic concoction lit by a tiny flame. It is used to kill stone giants. It represents the fusion of alchemy, engineering, and forbidden magic in Gracklstugh. Its existence suggests the Duergar have developed weapons capable of overcoming even ancient giants.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "stone weapons",
+    "fact": "The stone weapons carried by the Stone Guards and Dorhun\u2019s escort are unusual \u2014 not just tools of war, but symbols of authority. They are likely enchanted, possibly bonded to the giants\u2019 will. They are used to enforce order and are feared by Duergar. Their presence signals that the stone giants still hold residual power in the city.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Gartokkar\u2019s badge",
+    "fact": "Gartokkar\u2019s badge is a symbol of authority among the Keepers of the Flame. When flashed, it causes other Duergar to retreat instantly. It is a tool of control, likely enchanted or culturally sacred. It confirms his status as a high-ranking official and reveals the hierarchical nature of the Keepers of the Flame.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Droki\u2019s evidence",
+    "fact": "The evidence Errde seeks regarding Droki is not yet seen, but it is implied to be documentation, magical residue, or testimony linking him to the Council of Savants and Clan Lairds. It is the key to exposing the corruption at the heart of the Deepking\u2019s court. Whoever holds it holds the power to change Gracklstugh \u2014 or destroy it.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "175 gold pieces of equipment",
+    "fact": "Errde offers 175 gold pieces of equipment as partial payment for the mission. The equipment is drawn from the Overlake Hold armory \u2014 likely superior Duergar-made gear. It is both reward and trap: it binds the party to her cause, and its value makes them targets. Accepting it is an act of allegiance.",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "9th day of the 1st Tenday of Myrtul 1493",
+    "fact": "This is the day the party arrived in Gracklstugh and witnessed the death of the two-headed giant. It marks the beginning of their entanglement with the city\u2019s factions. The date is significant \u2014 it is the day the city\u2019s corruption became visible to outsiders. It may also be the day the Deepking\u2019s madness reached its peak.",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "offer expiration tomorrow",
+    "fact": "Gartokkar\u2019s offer to Zalthir expires tomorrow. This creates a ticking clock \u2014 the party must decide whether to accept the Keepers of the Flame\u2019s patronage before the window closes. Failure to act may result in being hunted by the very faction that once offered safety.",
+    "quote_verified": false
+  }
+]

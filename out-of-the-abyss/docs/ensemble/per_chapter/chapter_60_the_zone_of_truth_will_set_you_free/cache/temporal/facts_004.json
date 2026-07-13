@@ -1,0 +1,93 @@
+[
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The session occurs on the day careers were made or broken.",
+    "source_quote": "Budget day. Review day. The day careers were made or broken.",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "elapsed time",
+    "fact": "An hour passes between two events in the session.",
+    "source_quote": "By midnight he was dead.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "chasme count",
+    "fact": "Three people are involved, at least.",
+    "source_quote": "Yeah. There's 3 people involved, at least.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "travel to Sloobludop",
+    "fact": "Sloobludop is approximately eight days away via the Darklake.",
+    "source_quote": "the town of Sloopdopblop is just eight days away",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Velkynvelve elevation",
+    "fact": "Velkynvelve sits 100 feet above the cavern floor.",
+    "source_quote": "Drow outpost was 100' in the sky",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "silver candlestick value",
+    "fact": "The silver candlesticks flanking the Lolth altar are worth 25 gp each.",
+    "source_quote": "a pair of heavy silver candlesticks worth 25 gp each",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Alkrist count",
+    "fact": "Alkrist and A'lai are separately implicated.",
+    "source_quote": "Janussi had managed to hand Bookwyrm, Alkrist, and A'lai, separately",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Candlekeep access level",
+    "fact": "Anyone with sufficient standing can access what they needed.",
+    "source_quote": "Anyone here with sufficient standing could access what they needed.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "blackmail negotiation",
+    "fact": "Blackmail may be a way to get information that's very hard to come by.",
+    "source_quote": "Blackmail may be a way to get it.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "book per suspect",
+    "fact": "One book per suspect is the proposed collection metric.",
+    "source_quote": "I'm gonna insist that we get a book per suspect.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Menzoberranzan connection",
+    "fact": "A'lai has Underdark connections, possibly Menzoberranzan.",
+    "source_quote": "A'lai, moreover, is a drow. He might have information that Daz needs.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "workforce restructuring",
+    "fact": "The assassination is framed as workforce restructuring.",
+    "source_quote": "File the assassination under *workforce restructuring*.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "patron entry value",
+    "fact": "The only price of interest is what A'lai knows about the patron paying Menzoberranzan rates.",
+    "source_quote": "That is the only price I am interested in collecting.",
+    "quote_verified": false
+  }
+]

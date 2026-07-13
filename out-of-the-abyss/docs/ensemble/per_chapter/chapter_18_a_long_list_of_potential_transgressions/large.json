@@ -1,0 +1,219 @@
+[
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is a pragmatic adventurer who initially seeks only to kill time and acquire magical equipment, but is drawn into the conflict by the Flumph's trauma dump and the moral imperative to protect the egg. He is observant, skeptical of authority, and values evidence over emotion.",
+    "source_quote": "I was just trying to kill some time before I got some magical equipment. Saving the Duergar from a mad king and defeating another cult of Demogorgon is not what I am here for.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is a battle-worn barbarian who distrusts all Underdark inhabitants due to past violence, but is not inherently cruel. He prefers escape over confrontation and clings to the idea of fleeing on Thermbachaud\u2019s back as a viable solution to every problem.",
+    "source_quote": "We still have a boat. But I still like the plan of escaping on the back of Thermbachaud.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is a cleric of Bahamut driven by a sacred duty to protect the egg and oppose the corruption of free will through chromatic dragon prejudice. He is practical, morally rigid, and uses trauma dumping as a tool to rally allies, even if it forces others to bear emotional burdens.",
+    "source_quote": "As a cleric of Bahamut, I must save the egg. Bahamut commands that I save the egg.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a meticulous, journal-keeping magician who analyzes factions, motives, and profit potential with cold logic. He sees the mission not as heroism but as a negotiable contract, and he structures every interaction around leverage, payment, and confidentiality.",
+    "source_quote": "The path forward was clear, and indeed, it was very profitable.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Flumph",
+    "fact": "The Flumph is a non-hostile, psychic-feeding creature that relieves its own emotional burden by trauma-dumping memories into others. It is socially awkward, emotionally transparent, and communicates through color shifts. It is not malicious, but its method is deeply unsettling to those unprepared for psychic intrusion.",
+    "source_quote": "I let out all the unpleasant memories inside and into the heroes' minds, and now I feel better!",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Gartokkar Xundorn",
+    "fact": "Gartokkar is the leader of the Keepers of the Flame, a secretive faction obsessed with the egg as insurance against Themberchaud. He is calculating, ruthless, and willing to ignite genocide against the Derro to achieve political dominance, all while negotiating like a merchant.",
+    "source_quote": "I want proof of the involvement in demonic worship. Bring me the statue of Demogorgon.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Errde",
+    "fact": "Errde is the guarded guardian of the city\u2019s Stone Guards, pretending ignorance of assassins targeting her clan. She seeks concrete evidence linking the Council of Savants and Grey Ghosts to the city\u2019s madness, and is open to weapon deals\u2014but only with undeniable proof.",
+    "source_quote": "She believes that Droki is somehow helping the Council of Savants, and she wants proof of the Council of Savants' involvement with the corruption in the city.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Themberchaud",
+    "fact": "Themberchaud is a red dragon who feels insecure in his power and suspects the Keepers of the Flame are plotting against him. He is not directly involved in the current events but is a looming political variable whose perception of threat may shift the balance of power.",
+    "source_quote": "He\u2019s not sure that he\u2019s in charge. And he wants information about what\u2019s going on.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Plinki",
+    "fact": "Plinki is a Derro zealot who has converted to the Cult of Demogorgon and seeks to transform a mysterious egg into a dual-headed dragon mount for his dark master. He is the primary antagonist driving the corruption of the cave complex.",
+    "source_quote": "Plinki has recently converted to the Cult of Demogorgon and wishes to turn the egg into a dual-headed dragon that he can give to his master to ride!",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Droki",
+    "fact": "Droki is a Derro of the Council of Savants who carries the insignia of office and is actively working with Plinki to summon Demogorgon. His trail is easy to follow, and he represents the institutional corruption of the Derro civilization.",
+    "source_quote": "Through the side passageway, he sees a chamber with a derro that carries the insignia of office of the Council of Savants and the Gray Ghosts.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Council of Savants",
+    "fact": "Once a benign group of Derro scholars, the Council of Savants became corrupted after the Faerzress blinked and the Underdark grew dark. Now they collaborate with Plinki to summon Demogorgon and weaponize the egg, abandoning their former ideals.",
+    "source_quote": "After the blink, they became crazy. And now they are working with Plinki to try to summon Demogorgon or make him a two-headed dragon mount!",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Grey Ghosts",
+    "fact": "The Grey Ghosts are a secretive, possibly assassin-linked organization allied with the Council of Savants. They are feared for their magical blades and their role in the murder of Duergar Werz, and their presence suggests a deeper conspiracy within the Underdark\u2019s power structures.",
+    "source_quote": "The ones you said had a magical light blade that tried to kill that duergar Werz.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Keepers of the Flame",
+    "fact": "The Keepers of the Flame are a fanatical faction devoted to protecting the egg as insurance against Themberchaud. They view the Council of Savants as their greatest enemy and are prepared to launch a genocidal war against the Derro to eliminate them, using demonic worship as justification.",
+    "source_quote": "They, too, want the Council of Savants exposed.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Empty Scabbard Killers",
+    "fact": "A mysterious assassin guild that operates in the Underdark, responsible for targeted killings including that of Duergar Werz. Their connection to the Council of Savants and Grey Ghosts remains unclear, but they are feared and avoided by most.",
+    "source_quote": "The Empty Scabbard Killers. She also wants any actual evidence about the Empty Scabbard Killers.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Cult of Demogorgon",
+    "fact": "A fanatical, blood-soaked cult that has infiltrated the Derro leadership under Plinki\u2019s influence. It seeks to use the egg to create a living dragon mount for Demogorgon, turning a symbol of potential life into a weapon of chaos.",
+    "source_quote": "Plinki has recently converted to the Cult of Demogorgon and wishes to turn the egg into a dual-headed dragon that he can give to his master to ride!",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Flumph",
+    "fact": "A non-aggressive, psychic-feeding creature resembling a mushroom cap with floating tentacles and eye sockets. It communicates telepathically, emits a flumph sound, and feeds on residual psychic energy. It is harmless but traumatizing due to its trauma-dumping behavior.",
+    "source_quote": "I am a flumph. And my kind feeds on the psychic energy of creatures. We aren\u2019t parasitic like the Mind Flayers; we feed on the residual background energies.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Myconids",
+    "fact": "Sentient fungal beings that inhabit the Underdark, including adult myconids and juvenile sprouts. They are peaceful, silent, and dance in a way that seems unnatural to outsiders. Their presence suggests the area was once a haven before the Faerzress blink.",
+    "source_quote": "These are myconids. And those little ones are sprouts, like stool.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Quagoths",
+    "fact": "Large, monstrous servants of the Underdark, likely bound to the Council of Savants. They are described as having a connection to Prince Derendil, a mad polymorphed elf, suggesting a history of magical corruption and experimentation.",
+    "source_quote": "Behind the myconids are two spore servants; from their looks, they are quagoths.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Derro",
+    "fact": "A subterranean race of twisted, mad inventors and scholars, once part of a peaceful community. Now fractured and corrupted, they serve as both victims and perpetrators in the Underdark\u2019s descent into violence and cultism.",
+    "source_quote": "The caves were once a hippy place, where Derro and Duergar would come to chill out, party, and be friends.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Mind Flayer",
+    "fact": "A psychic predator that lives in the Underdark and feeds on brains. It is feared by the Flumph, who survives by remaining undetected. Its presence indicates a deeper layer of danger within the cave complex.",
+    "source_quote": "I survive by not letting mind flayers know I exist. I just know that the Mind Flayer is there.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Whorlstone Caves",
+    "fact": "A vast, ancient cave network once used as a peaceful gathering place for Derro and Duergar. After the Faerzress blinked and faded, it became a war zone between cultists, assassins, and corrupted factions. It now houses the Obelisk, the egg, and the Council of Savants\u2019 hidden chamber.",
+    "source_quote": "The mesa (Area 5) was once a place where folks got together to get drunk and party, but now it was a war zone between the forces of the cult of Demogorgon and the empty scabbard killers.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Obelisk Chamber",
+    "fact": "A hidden room within the Whorlstone Caves containing a mysterious obelisk and the egg. It is guarded by the Council of Savants and the Grey Ghosts, and is the focal point of Plinki\u2019s demonic ritual. Papers within the room contain forbidden knowledge, though the Flumph cannot read them.",
+    "source_quote": "A chamber with a circular pathway and a pyramid. The one known as Plinki has found this mighty and tasty obelisk and has been trying to make it do something evil.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Mesa (Area 5)",
+    "fact": "A former party and social hub in the Underdark, now a battleground between the Cult of Demogorgon and the Empty Scabbard Killers. Its transformation symbolizes the collapse of peace and the rise of ideological violence.",
+    "source_quote": "The mesa (Area 5) was once a place where folks got together to get drunk and party, but now it was a war zone...",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Derro Hovels",
+    "fact": "The impoverished, chaotic settlements of the Derro, now abandoned or repurposed by cultists. They serve as the entry point to the deeper, more dangerous parts of the cave system.",
+    "source_quote": "As we leave the Derro hovels and re-enter the city of blades...",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Faerzress Blink",
+    "fact": "A mysterious, temporary cessation of the Faerzress\u2019s magical twilight, which caused the Underdark to go dark. This event triggered widespread panic, the collapse of social order, and the corruption of former allies into enemies, leading to the current conflict.",
+    "source_quote": "Some months ago, the permanent twilight of the Faerzress stopped, and the cave complex became dark. Everyone was afraid...",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Trauma Dumping",
+    "fact": "The Flumph\u2019s unique method of transferring stored psychic memories into others to relieve its own emotional burden. It is not an attack, but a violation of psychological boundaries that has profound effects on those who receive the memories.",
+    "source_quote": "I let out all the unpleasant memories inside and into the heroes' minds, and now I feel better!",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Negotiation with Gartokkar",
+    "fact": "A high-stakes bargaining session in which Daz and Thorin secure 30% upfront payment and a confidentiality rider, while Gartokkar demands the Demogorgon statue as proof. The deal reveals Gartokkar\u2019s intent to launch a genocidal campaign against the Derro.",
+    "source_quote": "I want proof of the involvement in demonic worship. Bring me the statue of Demogorgon.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "The Egg\u2019s Origin",
+    "fact": "The mysterious egg, believed to be a potential dual-headed dragon, is the central object of conflict. Its origin, nature, and purpose remain unknown, but it is tied to the Cult of Demogorgon, Bahamut\u2019s sacred duty, and the Keepers of the Flame\u2019s insurance policy.",
+    "source_quote": "What are the strange markings on the egg?",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "The Flumph\u2019s Past",
+    "fact": "The Flumph\u2019s trauma is rooted in the madness of its friend Buppido and the collapse of the Underdark\u2019s peace. Its emotional state is tied to the fate of the caves, and its future may depend on whether the heroes restore balance or deepen the chaos.",
+    "source_quote": "Ever since my friend Buppido went stark raving mad\u2026",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Themberchaud\u2019s Doubt",
+    "fact": "The red dragon\u2019s insecurity about his rule and his suspicion of the Keepers of the Flame may lead him to intervene in the conflict. His potential involvement could shift the balance of power, but his motives remain opaque.",
+    "source_quote": "He\u2019s not sure that he\u2019s in charge.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "The Empty Scabbard Killers\u2019 Motives",
+    "fact": "The assassins\u2019 role in the death of Duergar Werz and their connection to the Grey Ghosts remain unexplained. Their existence suggests a hidden power struggle within the Underdark\u2019s elite.",
+    "source_quote": "The ones you said had a magical light blade that tried to kill that duergar Werz.",
+    "quote_verified": true
+  }
+]

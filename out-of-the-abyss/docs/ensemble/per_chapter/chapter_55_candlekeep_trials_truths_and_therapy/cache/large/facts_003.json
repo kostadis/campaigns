@@ -1,0 +1,226 @@
+[
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is a combatant who ignored the manual, built a unique shadow-step-and-hit technique, and now embodies the most interesting aspect of shadow monkery \u2014 his combination of movement and strike redeems his lack of traditional skills.",
+    "source_quote": "I mean, I learned how to grow shadow tentacles.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Khell-Vire",
+    "fact": "Khell-Vire is a perceptive shadow master who recognized that Zalthir\u2019s unorthodox technique \u2014 born of disregard for the manual \u2014 is the true innovation in shadow monkery, and offered him a specialized technique in acknowledgment.",
+    "source_quote": "You are beginning to remember, I think, all those shadow monks that drove you nuts.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Dawnbringer",
+    "fact": "Dawnbringer is a sentient sunblade who endured millennia of darkness and disuse, and is now undergoing a two-stage healing process \u2014 first remembering daylight without fighting, then grieving her past wielder \u2014 as recognized by Master Archivist Philemon.",
+    "source_quote": "She needs to remember what daylight feels like without needing to fight. And then, when she's ready, and you are willing, she needs to grieve.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Philemon",
+    "fact": "Philemon is a master archivist who shifted from viewing Dawnbringer as a specimen to recognizing her as a sentient being with emotional trauma, and adapted his approach to honor her personhood.",
+    "source_quote": "Your sword \u2014 she needs to remember what daylight feels like without needing to fight.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a drow with amnesia who broke cultural norms by offering raw, unfiltered truth to a Candlekeep librarian in exchange for knowledge \u2014 rejecting manipulation in favor of vulnerability.",
+    "source_quote": "I have a headache, but I'll tell you the story... I don't know who I am, or my history, and I don't know why my head hurts.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Sister Yvenne",
+    "fact": "Sister Yvenne is a Candlekeep Avowed who enforces reciprocal knowledge exchange with quiet authority, and was visibly unsettled yet convinced by Daz\u2019s unprecedented honesty.",
+    "source_quote": "Wow, that's quite a bit.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Menzoberranzan",
+    "fact": "Menzoberranzan is a drow city governed by rigid hierarchy, transactional loyalty, and systemic betrayal \u2014 where survival requires erasing entire houses, and failure to do so invites annihilation.",
+    "source_quote": "If you left a single person alive \u2014 even a child, even someone inconvenient and useless \u2014 your house was forfeit.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "shadow technique award",
+    "fact": "Zalthir was awarded a specialized shadow technique after demonstrating an unorthodox, manually-ignored method that combined shadow step and strike \u2014 a breakthrough acknowledged by Khell-Vire as the most significant aspect of his combat identity.",
+    "source_quote": "Zalthir chose option C.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Dawnbringer's healing enrollment",
+    "fact": "Dawnbringer was formally enrolled in a two-stage healing process \u2014 light reclamation and mourning \u2014 initiated by Philemon after recognizing her sentient trauma from centuries of darkness and disuse.",
+    "source_quote": "We're all gonna grow out of this. Hopefully, Dawnbringer grows a plus one.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Daz's truth disclosure",
+    "fact": "Daz disclosed his full, unfiltered history \u2014 amnesia, imprisonment, escape from the Underdark \u2014 to Sister Yvenne, breaking drow cultural norms and triggering a rare moment of trust in Candlekeep\u2019s knowledge exchange system.",
+    "source_quote": "I just couldn't afford the usual approach. When you don't know what you're hiding, you can't protect it.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Daz's identity",
+    "fact": "Daz is a potential survivor of a wiped-out Menzoberranzan house \u2014 the 'blithering idiot' \u2014 and his amnesia, headache, and drow heritage may be linked to a forbidden legacy the city tried to erase.",
+    "source_quote": "Am I the blithering idiot?",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Dawnbringer's first wielder",
+    "fact": "Dawnbringer\u2019s silence upon being asked about her previous wielder suggests deep trauma tied to a death or betrayal \u2014 one that may be central to her need to grieve, and which remains unspoken.",
+    "source_quote": "Dawnbringer went quiet. Not the silence of someone thinking. The other kind.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "The 'blithering idiot' legacy",
+    "fact": "Menzoberranzan\u2019s doctrine requires total annihilation of rival houses \u2014 yet one survivor, a 'blithering idiot,' escaped and may now be Daz \u2014 a living anomaly that challenges the city\u2019s control over memory and history.",
+    "source_quote": "Unclear... Am I the blithering idiot?",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Shadow Monk Doctrine Failure",
+    "fact": "The official shadow monk manual is fundamentally wrong about Zalthir \u2014 his unorthodox technique, built in spite of it, proves that true mastery arises not from adherence but from innovation \u2014 a systemic failure of the tradition.",
+    "source_quote": "The manual was still wrong about him. But what he'd built in spite of it was genuinely his.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Candlekeep",
+    "fact": "Candlekeep is a library governed by strict reciprocity \u2014 information exchanged only when both sides contribute \u2014 where scholars like Philemon and Yvenne enforce knowledge ethics with ritual precision.",
+    "source_quote": "Information flows both ways across the counter. No ledger gets updated without a corresponding entry on the other side.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Menzoberranzan",
+    "fact": "Menzoberranzan is a drow city where power is maintained through betrayal, surveillance, and the total erasure of enemies \u2014 where even a child left alive is considered a fatal flaw.",
+    "source_quote": "They just don't use words like *reciprocal exchange*. They use knives.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Underdark",
+    "fact": "The Underdark is a realm of perpetual darkness where Dawnbringer suffered centuries of disuse, and where Daz was imprisoned, escaped, and began his journey toward self-discovery.",
+    "source_quote": "We were in the Underdark. We've had many, many adventures, yada yada yada.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Resonant Slime",
+    "fact": "Resonant Slime is a magical vial produced by a xenobiology sage after observing the sentient gelatinous cube\u2019s progress \u2014 used to affirm its sentience and potential as a student.",
+    "source_quote": "Glabbagool was very pleased.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Pocket Drow",
+    "fact": "Pocket Drow is a small, living drow kept by Thorin \u2014 a symbolic and possibly sentient companion that represents the unexpected, non-threatening presence of drow culture outside Menzoberranzan\u2019s violent norms.",
+    "source_quote": "Pocket Drow.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Gelatinous Cube (Glabbagool)",
+    "fact": "Glabbagool is a sentient gelatinous cube being trained as a monk \u2014 capable of walking, torturing drows, and learning shadow techniques \u2014 defying the assumption that it is a mindless digestive system.",
+    "source_quote": "She's by no means mindless \u2014 she's a student. He's learning the ways of the monk. He's already walking.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Eldritch Tattoo (Shadow Tentacles)",
+    "fact": "The eldritch tattoo on Zalthir manifests shadow tentacles \u2014 a learned, unstable, and non-standard ability that emerged from his unorthodox training and is now part of his combat identity.",
+    "source_quote": "I mean, I learned how to grow shadow tentacles.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Drow (tortured)",
+    "fact": "A drow, likely a captive or prisoner, is being 'tortured' by Glabbagool \u2014 a sign of the cube\u2019s emerging agency, moral ambiguity, and internalization of drow cultural violence as part of its learning.",
+    "source_quote": "He's already torturing this poor drow.",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The events described occurred during a single, continuous narrative arc \u2014 likely a single session or multi-hour roleplay sequence \u2014 marked by thematic recursion, character breakthroughs, and meta-commentary on lore and system failure.",
+    "source_quote": "Then: 'You are beginning to remember, I think, all those shadow monks that drove you nuts.'",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Shadow Monks",
+    "fact": "The Shadow Monks are a tradition bound by rigid manuals and doctrines \u2014 now revealed as fundamentally flawed, because Zalthir\u2019s innovations, born of ignoring them, represent the true path of the shadow.",
+    "source_quote": "The manual was still wrong about him. But what he'd built in spite of it was genuinely his.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is a companion who provides blunt, humorous commentary \u2014 notably naming the 'Pocket Drow' \u2014 and serves as a grounding voice amid surreal and philosophical developments.",
+    "source_quote": "Pocket Drow.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "The Headache",
+    "fact": "Daz\u2019s persistent headache may be a psychic echo of Menzoberranzan\u2019s erased memories \u2014 a haunting residue of the house that was wiped out, and of the identity he was meant to forget.",
+    "source_quote": "My head hurts a little bit, and I don't know who I am, or my history, and I don't know why my head hurts.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Hall of Divination",
+    "fact": "The Hall of Divination is a Candlekeep archive saturated with residual spell energy, where knowledge moves autonomously \u2014 and where Daz\u2019s raw honesty disrupted the expected drow behavioral script.",
+    "source_quote": "Spectral mage hands drift between the shelves, fetching tomes for researchers who don't look up.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Clay Tablet",
+    "fact": "Philemon\u2019s clay tablet was used to record Dawnbringer as a specimen \u2014 later abandoned when he recognized her as a sentient being \u2014 symbolizing the shift from objectification to personhood.",
+    "source_quote": "He had a small clay tablet ready. He was already writing... He set the tablet down.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "The Way of the Shadow",
+    "fact": "The Way of the Shadow is not about hitting \u2014 it is about discrete movement \u2014 and Zalthir\u2019s combination of shadow step and strike, though unorthodox, proves he has internalized its true essence.",
+    "source_quote": "It is your combination of the shadow step and the hit that redeems your lack of skills in all other possible areas.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir's final strike",
+    "fact": "Zalthir performed a final, precise strike through the shadows themselves \u2014 landing with unambiguous power \u2014 which prompted Khell-Vire to recognize his transformation and offer him a specialized technique.",
+    "source_quote": "His strike landed at a number that left no ambiguity.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Khell-Vire",
+    "fact": "Khell-Vire is a master of shadow monkery who recognized that Zalthir\u2019s unorthodox method \u2014 though violating the manual \u2014 embodies the true philosophy of the shadow: movement over force, combination over conformity.",
+    "source_quote": "There is something special about how you hit. The way of the Shadow is not about hitting. It is about discrete movement.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "The Manual Was Wrong",
+    "fact": "The official shadow monk manual failed to account for Zalthir\u2019s innovation \u2014 proving that the most powerful expressions of the tradition arise not from adherence, but from rebellion and synthesis.",
+    "source_quote": "The manual was still wrong about him. But what he'd built in spite of it was genuinely his.",
+    "quote_verified": true
+  }
+]

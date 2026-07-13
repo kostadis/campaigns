@@ -1,0 +1,121 @@
+[
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is interrogating a captured drow spy, demonstrating calm precision and deep understanding of drow psychology, and is the one who ultimately ties her up while delivering the moral judgment that following without speaking is rude.",
+    "source_quote": "It's very rude to follow people without just coming up and talking to them. So we'll talk to you now.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is the first to engage the captured drow spy, using precise, unhurried questions to establish control and assess intent, and is responsible for the efficient, final stun and restraint that neutralizes her threat.",
+    "source_quote": "Who are you? Why are you following us? Are you a friend or foe?",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin attempts to intimidate the drow spy by suggesting her matron would view her failure as pathetic, but lacks the cultural nuance to manipulate her effectively; though she laughs at him, his raw physical presence prevents her from fully dismissing the party.",
+    "source_quote": "Let them know how pathetic you are.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum used the *Reduce* spell to shrink the drow spy, making her physically smaller and more vulnerable, which contributed to her psychological disorientation and tactical disadvantage during capture.",
+    "source_quote": "Grygum's *Reduce* spell had seen to that.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "The Drow Spy",
+    "fact": "The drow spy is a member of House T'sarran, trained to remain invisible and follow targets without engaging, assigned a mission she considers poorly conceived; she refuses to give her name, offers only minimal information, and remains emotionally detached despite capture.",
+    "source_quote": "I am of House T'sarran. I will not give my name. Take my piwafwi if you want a trophy.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "House T'sarran",
+    "fact": "House T'sarran is a drow noble house that has deployed a spy to follow the party on the surface during daylight hours, indicating either a covert operation or a punishment assignment; the house expects its members to be lost in the field and will recognize the loss through the absence of its piwafwi.",
+    "source_quote": "My matron will know one of hers fell out here, and that is enough.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Drow Spy",
+    "fact": "The drow spy is a small, female, highly trained operative who uses stealth and patience to shadow targets without engagement; she is stunned, grappled, and restrained by the party, and demonstrates superior survival instincts but no combat intent.",
+    "source_quote": "She stared at him with the blank patience of someone waiting for the world to start making sense again.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Piwafwi",
+    "fact": "The piwafwi is a magical cloak worn by the drow spy, a symbol of her status and identity within House T'sarran; she offers it as a trophy, implying its loss will signal her death to her house without requiring her to speak.",
+    "source_quote": "Take my piwafwi if you want a trophy.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Surface, Daylight Hours",
+    "fact": "The drow spy was operating on the surface during daylight hours \u2014 an unusual and dangerous environment for drow \u2014 suggesting her mission was either an anomaly, a punishment, or a desperate measure by her house.",
+    "source_quote": "Whoever sent a drow to the surface in daylight to shadow a party through open forest...",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Capture of the Drow Spy",
+    "fact": "The drow spy was captured without resistance after being stunned and grappled by Zalthir and the party; her failure to flee or fight indicates her mission was surveillance, not assassination, and her compliance suggests she is prioritizing survival over duty.",
+    "source_quote": "The spy \u2014 drow, slight, female, exactly as advertised \u2014 was grappled and stunned, held in place with the kind of efficient finality that Zalthir brings to everything he considers a problem worth solving immediately.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Drow Spy's Mission",
+    "fact": "The purpose of the drow spy's mission \u2014 why she was sent to follow the party on the surface, who ordered it, and whether House T'sarran is acting alone \u2014 remains unresolved and is a critical open question for the party.",
+    "source_quote": "Who number two works for...",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Fate of the Drow Spy",
+    "fact": "The party has captured but not killed the drow spy; her ultimate fate \u2014 execution, interrogation, release, or recruitment \u2014 is undecided and will likely have political consequences in the Underdark.",
+    "source_quote": "Assuming she got back home. That part wasn't yet settled.",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "Session Date",
+    "fact": "The events of the interrogation occur during a session following the party\u2019s prolonged time in the Underdark, after multiple ambushes and chases that have honed their instincts for surveillance and betrayal.",
+    "source_quote": "Months in the Underdark will calibrate your instincts. You learn to notice the shape of a threat before you can name it.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is the narrator of the interrogation and the one who observes the drow spy\u2019s psychological recalibration, recognizing the shift from survival to negotiation \u2014 a pattern he has seen before at Velkynvelve.",
+    "source_quote": "I recognized it because I had run the same numbers at Velkynvelve, the first morning, when a wrong answer meant a crossbow bolt.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Underdark",
+    "fact": "The party has recently emerged from the Underdark, where prolonged exposure to drow politics, ambushes, and betrayal has conditioned them to interpret every movement as a potential threat.",
+    "source_quote": "Months in the Underdark will calibrate your instincts. You learn to notice the shape of a threat before you can name it.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "End of Surveillance",
+    "fact": "The drow spy\u2019s mission of silent surveillance ends abruptly with her capture; the party concludes she was not an assassin but a reluctant operative, changing their tactical and moral assessment of her.",
+    "source_quote": "It says someone who got handed a bad assignment and is making the best of it.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Matron Mother's Response",
+    "fact": "The matron mother of House T'sarran will learn of the spy\u2019s loss through the disappearance of her piwafwi, and may retaliate, send another agent, or investigate the party\u2019s identity \u2014 an unresolved political thread.",
+    "source_quote": "My matron will know one of hers fell out here, and that is enough.",
+    "quote_verified": true
+  }
+]

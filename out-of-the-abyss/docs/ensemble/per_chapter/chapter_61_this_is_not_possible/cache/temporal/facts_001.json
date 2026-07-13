@@ -1,0 +1,142 @@
+[
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The session occurs on the 5th day of the 2nd Tenday of Taraskh 1493 DR.",
+    "source_quote": "On the 5th day of the 2nd Tenday of Taraskh 1493",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "elapsed time",
+    "fact": "An hour passes between two events in the session.",
+    "source_quote": "An hour later",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "chasme count",
+    "fact": "Four chasme demons are present in the cavern above the prisoners' tower.",
+    "source_quote": "four chasme and two vrock",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "travel to Sloobludop",
+    "fact": "Sloobludop is approximately eight days away via the Darklake.",
+    "source_quote": "the town of Sloopdopblop is just eight days away",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Velkynvelve elevation",
+    "fact": "Velkynvelve sits 100 feet above the cavern floor.",
+    "source_quote": "Drow outpost was 100' in the sky",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "silver candlestick value",
+    "fact": "The silver candlesticks flanking the Lolth altar are worth 25 gp each.",
+    "source_quote": "a pair of heavy silver candlesticks worth 25 gp each",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "infamous status",
+    "fact": "The group is already infamous underground, with their name on posters in Gracklstugh.",
+    "source_quote": "We're already infamous underground. It didn't seem to serve us well.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Candlekeep naming ceremony",
+    "fact": "A naming ceremony for the new head of Candlekeep is scheduled for tomorrow morning.",
+    "source_quote": "Tomorrow morning's naming ceremony clearly will not name her.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Zone of Truth spell mechanics",
+    "fact": "The Zone of Truth spell does not force truth, but reveals if someone can resist it.",
+    "source_quote": "The spell doesn't hand you the truth. It hands you the ability to watch someone refuse it.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Bookwyrm's potential decline",
+    "fact": "Bookwyrm may be offered the opportunity to decline submission to a Zone of Truth, which would imply guilt.",
+    "source_quote": "We will give her the opportunity to decline. Her declining will further weaken her support among the other Avowed.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "academic paper on truth sources",
+    "fact": "An academic paper argues that one source of truth is insufficient; three different kinds are required.",
+    "source_quote": "My paper says you can't rely on one source of truth; you need three different kinds.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "magic book to prove culpability",
+    "fact": "A magical book exists in Candlekeep\u2019s library that could prove Bookwyrm\u2019s culpability after the fact.",
+    "source_quote": "I will come up with such a book before you leave.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Alkrist's confession",
+    "fact": "Alkrist confessed to killing Janussi under the influence of a spell that kept him honest.",
+    "source_quote": "Alkrist had said it out loud, in the room, with Kalan's spell still holding him honest \u2014 he'd killed Janussi.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Gracklstugh posters",
+    "fact": "Posters in Gracklstugh bear the group's name, wrongly attributed but still recognizable.",
+    "source_quote": "Gracklstugh still had our name on posters, wrong enough to be cover but our name all the same.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Ember Vanguard legend",
+    "fact": "The Ember Vanguard is a larger, more feared legend that precedes the group in every rumor.",
+    "source_quote": "The Ember Vanguard has a legend now that walks a tunnel ahead of us, and it lies about our height.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "cleaver and heart as evidence",
+    "fact": "A cleaver and a heart are physical evidence tied to the crime, but do not identify the perpetrator.",
+    "source_quote": "You have a confession, a heart, and a cleaver.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Dawnbringer's psychic connection",
+    "fact": "Dawnbringer communicates mentally, with a sound like a palm slapping stone, indicating a psychic link.",
+    "source_quote": "a click inside my skull, a sound like a palm slapping stone",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Candlekeep Avowed hierarchy",
+    "fact": "The Avowed of Candlekeep are subject to internal politics, with leadership changing via vote.",
+    "source_quote": "The new head may give Bookwyrm one of two choices: continue as a member of the Avowed, or submit to a Zone of Truth.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Kalan Strongbranch's cowardice",
+    "fact": "Kalan avoids direct confrontation with Bookwyrm out of fear she may become his superior.",
+    "source_quote": "He's not going to do it without her permission \u2014 how about I put it that way?",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Fembris Lancer as potential successor",
+    "fact": "Fembris Lancer is likely to be elected as the new head of the Avowed after Bookwyrm's downfall.",
+    "source_quote": "Fembris Lancer will probably get elected the new avowed",
+    "quote_verified": true
+  }
+]

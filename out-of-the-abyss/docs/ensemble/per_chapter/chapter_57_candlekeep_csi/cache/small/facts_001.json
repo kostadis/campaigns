@@ -1,0 +1,72 @@
+[
+  {
+    "type": "npc",
+    "subject": "Janussi, Keeper of the Tome",
+    "fact": "Janussi, Keeper of the Tome, was killed after eating dinner with his face intact and teeth whole; his heart was torn out, ribcage smashed, nose broken, tongue and fingertip blackened, and a chip found in his front tooth \u2014 all indicating he was alive during initial trauma and later desecrated post-mortem.",
+    "source_quote": "He had been dead before his chest was opened.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "desecration of Janussi",
+    "fact": "Janussi's body was meticulously desecrated after death \u2014 heart removed, ribcage shattered, nose broken prior to death, and black substance applied to finger and lip \u2014 suggesting a ritualistic or magical act performed with deliberate timing and calm intent.",
+    "source_quote": "He had been desecrating a corpse at his leisure, with nowhere to be.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "unknown assailant",
+    "fact": "The assailant exhibited extreme precision and calm, disabling Janussi before death (broken nose, chipped tooth) and then performing post-mortem desecration (heart removal, black substance application) \u2014 indicating familiarity with arcane practices and a desire to prevent resurrection or extract hidden knowledge.",
+    "source_quote": "The blows had been precise. Too precise, too close together, for a man fighting back.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "black substance",
+    "fact": "A mysterious black substance, darker than ink, was found on Janussi\u2019s left forefinger, lower lip, and tongue \u2014 confirmed not to be ink or any known material, and resistant to identification even by Glabbagool, an ooze that has consumed the Underdark\u2019s poisons and gloop.",
+    "source_quote": "The skill wasn't in identifying the substance. It was in knowing, with certainty, what it was not.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "chip in front tooth",
+    "fact": "A fresh, jagged chip in Janussi\u2019s front tooth was found on the floor beside his body, indicating he fell face-first before death \u2014 a trauma unrelated to the post-mortem desecration but critical to establishing the timeline of events.",
+    "source_quote": "He had fallen forward. Face-first. Chipped the tooth on the way down.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Keeper's Chamber, Candlekeep",
+    "fact": "The Keeper's Chamber was the site of Janussi\u2019s murder and desecration \u2014 bloodless spray, scattered tooth fragment, smeared ink and black substance on clothing, and signs of a struggle or interruption during writing \u2014 all pointing to an attack occurring during or shortly after evening activities.",
+    "source_quote": "Janussi had been taking notes when this happened. Writing hand, fresh stains.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Candlekeep Librarians",
+    "fact": "The Candlekeep Librarians, as keepers of arcane texts, were likely targets of the attack \u2014 Janussi was actively writing in the books at time of death, suggesting the assailant sought to silence or intercept knowledge contained in his notes.",
+    "source_quote": "Wasn't the blue ink \u2014 the ink they used in the books? It was.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "origin of the black substance",
+    "fact": "The black substance on Janussi\u2019s body resists identification even by Glabbagool \u2014 implying it is either an unknown poison, a magical residue, or a substance native to a realm beyond the Underdark \u2014 and its presence on the lip and finger suggests it was ingested or applied as part of a ritual or curse.",
+    "source_quote": "When even a creature that has eaten the Underdark can't place a poison, you've learned the poison is worth being afraid of.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "timing of the nose fracture",
+    "fact": "The broken nose occurred before death, as bruising requires living tissue \u2014 placing the initial assault within the narrow window between Janussi\u2019s last meal and his death, and suggesting the attacker was present during a private moment.",
+    "source_quote": "Bruising doesn't form on a corpse; there's no living tissue to swell.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "purpose of the finger-to-lip gesture",
+    "fact": "The pattern of black substance on finger and lip mirrors the habitual gesture of a reader wetting their fingertip to turn pages \u2014 implying the victim was reading or writing when attacked, and the assailant may have used this gesture to apply the poison as part of a cursed text or sentient ink.",
+    "source_quote": "Turning pages, wetting the fingertip the way readers do without thinking, a hundred times an hour, never once considering that the page might be the thing reading them.",
+    "quote_verified": false
+  }
+]

@@ -1,0 +1,93 @@
+[
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin used his considerable strength to break through the wall, causing more of the ceiling to collapse and doubling the water flow, and later agreed to celebrate the party's narrow escape after recognizing Glabbagool as a new friend.",
+    "source_quote": "Thorin used his considerable strength to break through the wall, causing more of the ceiling to collapse and doubling the water flow. Thorin agreed, and the party celebrated their narrow escape, grateful for their new friend and the unexpected shortcut to Blingdenstone.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool confirmed that he did not need to breathe, making him immune to the drowning threat, and agreed to allow the party to attempt resurrection on any fallen members before consuming them; he later joined the party's ranks as a charming and helpful ally.",
+    "source_quote": "Glabbagool confirmed that he did not need to breathe, making him immune to the drowning threat, and he agreed to allow the party to attempt resurrection on any fallen members before consuming them. Jimjar declared that the adventure had not ended in tears after all, and he offered to call the bet a draw due to the charming and helpful Glabbagool joining their ranks.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Jimjar",
+    "fact": "Jimjar declared that the adventure had not ended in tears after all, and he offered to call the bet a draw due to the charming and helpful Glabbagool joining their ranks.",
+    "source_quote": "Jimjar declared that the adventure had not ended in tears after all, and he offered to call the bet a draw due to the charming and helpful Glabbagool joining their ranks.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "breaking through the wall",
+    "fact": "Thorin broke through the wall, causing more of the ceiling to collapse and doubling the water flow, which revealed a diverted underground river providing a path to safety.",
+    "source_quote": "Thorin used his considerable strength to break through the wall, causing more of the ceiling to collapse and doubling the water flow. However, this also revealed a diverted underground river that provided a path to safety.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "creating air pockets",
+    "fact": "The party used magic to create a progression of air pockets, advancing five feet at a time, to move safely through the flooded passages.",
+    "source_quote": "One member proposed using a spell to manipulate the water, creating temporary bubbles of air that would allow them to move through the flooded passages safely. They decided to proceed with this plan, creating a progression of air pockets and advancing five feet at a time.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "swimming to the surface",
+    "fact": "As the water level rose to the ceiling, the party swam upward for about thirty feet through the newly revealed passage and successfully reached the surface.",
+    "source_quote": "As the water level rose to the ceiling, the party swam upward for about thirty feet through the newly revealed passage. They successfully reached the surface.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "large cavern",
+    "fact": "The party emerged into a large cavern where they could resume their journey, having escaped the flooded passages via the diverted river.",
+    "source_quote": "They successfully reached the surface, emerging into a large cavern where they could resume their journey.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Blingdenstone",
+    "fact": "Blingdenstone was the destination reached via the unexpected shortcut revealed after the wall was broken and the underground river exposed.",
+    "source_quote": "Thorin agreed, and the party celebrated their narrow escape, grateful for their new friend and the unexpected shortcut to Blingdenstone.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "party",
+    "fact": "The party successfully navigated a flooded passage using magic air pockets and a revealed river, escaped to Blingdenstone, and accepted Glabbagool as a new member after he offered resurrection aid and immunity to drowning.",
+    "source_quote": "They decided to proceed with this plan... Glabbagool confirmed that he did not need to breathe... Jimjar declared that the adventure had not ended in tears after all, and he offered to call the bet a draw due to the charming and helpful Glabbagool joining their ranks.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool is a creature immune to drowning who agreed to allow resurrection attempts on fallen members before consuming them, and later became an ally to the party.",
+    "source_quote": "Glabbagool confirmed that he did not need to breathe, making him immune to the drowning threat, and he agreed to allow the party to attempt resurrection on any fallen members before consuming them.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "resurrection offer",
+    "fact": "Glabbagool offered the party the ability to attempt resurrection on fallen members before consuming them, introducing a moral and mechanical ambiguity to their survival strategy.",
+    "source_quote": "Glabbagool confirmed that he did not need to breathe, making him immune to the drowning threat, and he agreed to allow the party to attempt resurrection on any fallen members before consuming them.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "bet call",
+    "fact": "Jimjar declared the adventure had not ended in tears and called the bet a draw, framing the party's survival as a win despite the chaos.",
+    "source_quote": "Jimjar declared that the adventure had not ended in tears after all, and he offered to call the bet a draw due to the charming and helpful Glabbagool joining their ranks.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "diverted underground river",
+    "fact": "The diverted underground river, revealed after Thorin broke the wall, became a path to safety and enabled the party's escape from the flooded passages.",
+    "source_quote": "However, this also revealed a diverted underground river that provided a path to safety.",
+    "quote_verified": true
+  }
+]

@@ -1,0 +1,114 @@
+[
+  {
+    "type": "npc",
+    "subject": "Eldeth",
+    "fact": "Eldeth is a dwarf bound by clan obligations to travel to Mithral Hall and Gauntlgrym to warn the surface lords of Underdark threats, and has sworn to ensure Thorin is embraced by her clan after her mission.",
+    "source_quote": "After I have spoken and explained to the lords of Gauntlgrym and Mithral Hall the dangers of the Underdark, I am certain they will want to speak to you, and I will make it a statement of purpose that you shall be embraced by our clan.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is a giant-raised dwarf seeking to integrate his dual heritage, who has been formally offered clan membership by Eldeth and is now emotionally resolved to pursue his dwarven roots despite his unconventional background.",
+    "source_quote": "I do want to learn about my dwarven roots. I want to become an integrated person \u2014 both my giant upbringing, but also my cultural roots, so, you know.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool is an ooze who has demonstrated unexpected sentience and stillness, inspiring Zalthir to consider him as a potential monk trainee despite his lack of fixed appendages and unconventional physiology.",
+    "source_quote": "He wasn't being a floor. He was witnessing.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is a former Ember Vanguard member with heightened environmental awareness, who now perceives subtle threats in open terrain and is grappling with the disorientation of surface life after months underground.",
+    "source_quote": "The third day of open sky and I still hadn't stopped scanning.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Dawnbringer",
+    "fact": "Dawnbringer is a sentient magical sword with a warm, ambient presence that has endured prolonged darkness and now radiates comfort in open sky, possessing agency and a wry personality.",
+    "source_quote": "I'm annoying also, Dawnbringer,\" I said. \"Look, you know, we got each other.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Spiderbait",
+    "fact": "Spiderbait is a goblin who has never been to the surface and is attempting to navigate social inclusion by seeking protection and employment among the party, demonstrating self-awareness and adaptability.",
+    "source_quote": "Well, you know, I'm just a small goblin, and you're four big, powerful people. Do you mind if I just sort of hang out with you guys?",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Unidentified Follower",
+    "fact": "An unknown entity has been tracking the party for days, moving with tactical patience through the northern treeline, using terrain and dusk lighting to remain concealed, and is not a deer despite Grygum\u2019s roll.",
+    "source_quote": "The deer,\" I said. A beat. \"Oh, no. It's not a deer. It's not a deer.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Clan of Mithral Hall",
+    "fact": "The dwarven clan of Mithral Hall is a powerful political entity whose leaders must be briefed on Underdark threats, and whose acceptance of Thorin is now a formal promise made by Eldeth.",
+    "source_quote": "I swear.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Departure from Underdark",
+    "fact": "The party has emerged from months of subterranean existence into open sky, triggering psychological and sensory recalibrations, especially in Zalthir and Thorin, and marking the end of their shared journey through the dark.",
+    "source_quote": "Months underground. Months of bioluminescence and faerzress and Dawnbringer's steady glow being the warmest light any of us had seen.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Candlekeep",
+    "fact": "Candlekeep is a distant landmark and destination mentioned by Eldeth as the next major point westward, symbolizing the threshold between the Underdark\u2019s legacy and the surface world\u2019s politics.",
+    "source_quote": "Head west and you'll hit Candlekeep. Simple as that, the way she says most things that aren't simple at all.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Thorin's Clan Integration",
+    "fact": "Thorin\u2019s formal petition to join Eldeth\u2019s clan has been met with a sworn promise of future acceptance, creating a lingering narrative thread about identity, belonging, and dwarven tradition.",
+    "source_quote": "I swear.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "The Follower in the Trees",
+    "fact": "The presence of a hidden, patient tracker in the northern treeline introduces a new threat that the party must now confront in open terrain, challenging their survival instincts after prolonged underground confinement.",
+    "source_quote": "The trees north of us were wrong. Not visibly wrong. The wrongness was in the negative space...",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Dawnbringer",
+    "fact": "Dawnbringer is a sentient sword that radiates warmth, possesses agency, and has developed a personal rapport with Thorin, functioning as both weapon and companion.",
+    "source_quote": "The hilt warmed slightly. We understood each other on that point.",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "Third day of open sky",
+    "fact": "The third day since emerging from the Underdark, during which Zalthir begins to relax slightly but remains hyper-vigilant, and the hidden follower becomes undeniable.",
+    "source_quote": "The third day of open sky and I still hadn't stopped scanning.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a methodical, observant member of the party who uses spectacles and precision to interpret the environment, and shares Zalthir\u2019s recognition of the hidden follower.",
+    "source_quote": "Daz, a step to my left, had come to the same place I had.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is a cheerful, dice-rolling companion who defaults to optimism and comfort, but whose failed perception roll inadvertently confirms the party\u2019s growing suspicion of the hidden threat.",
+    "source_quote": "You conclude, that what is following you is a deer.",
+    "quote_verified": false
+  }
+]

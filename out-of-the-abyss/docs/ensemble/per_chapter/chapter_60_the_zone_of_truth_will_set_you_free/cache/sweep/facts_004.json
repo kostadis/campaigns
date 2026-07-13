@@ -1,0 +1,149 @@
+[
+  {
+    "type": "npc",
+    "subject": "A'lai",
+    "fact": "A'lai is a drow with Underdark connections, possibly Menzoberranzan connections, currently holding a conspiracy that ended a man's life and was dismantled in a single afternoon, and he pays in knowledge, not gold or books.",
+    "source_quote": "A'lai, moreover, is a drow. He might have information that Daz needs.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Janussi",
+    "fact": "Janussi spent his last day in a library full of people who had already decided they'd won, and offered each of them one more reason on his way through \u2014 he was dead by midnight.",
+    "source_quote": "Janussi had spent his last day in a library full of people who had already decided, and he had offered each of them one more reason on his way through.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Candlekeep",
+    "fact": "Candlekeep is a place where finding a spell was simply a matter of calling up the right avowed to bring a scroll from somewhere, and where budgetary pressures and workforce restructuring were used to frame assassination.",
+    "source_quote": "At Candlekeep, finding such a spell was simply a matter of calling up the right avowed to bring you a scroll from somewhere.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "poisoned book",
+    "fact": "The poisoned book was reclaimed from Daral and contained evidence tied to Janussi's death and the conspiracy.",
+    "source_quote": "a poisoned book reclaimed from Daral",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Grygum's carefully reassembled wrapping paper",
+    "fact": "Grygum's carefully reassembled wrapping paper was part of the recovered evidence, likely concealing or containing hidden notes or seals.",
+    "source_quote": "Grygum's carefully reassembled wrapping paper",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "note in Janussi's own hand",
+    "fact": "The note in Janussi's own hand, found on the third floor, contained his final records or confessions related to the conspiracy.",
+    "source_quote": "a note in Janussi's own hand found on the third floor",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Menzoberranzan",
+    "fact": "Menzoberranzan is a city where you do not accumulate many enemies before the city resolves the problem for you, and where blackmail is treated as a career and history is rewritten as administrative efficiency.",
+    "source_quote": "In Menzoberranzan, you do not get to accumulate that many enemies before the city resolves the problem for you.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Daz",
+    "fact": "Daz is an entity or organization paying Menzoberranzan rates to keep a nobody drow evoker alive and functional, and its identity remains unknown despite months of investigation.",
+    "source_quote": "Someone powerful was paying to protect a man she couldn't understand.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Kalan",
+    "fact": "Kalan was the party who had been wronged, had standing, and was presumably motivated to be thorough \u2014 he was the one fired and now held a complete account.",
+    "source_quote": "Kalan had been standing just outside through all of it, which meant the man who'd been fired now held a rather complete account.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Alkrist",
+    "fact": "Alkrist gave the accounting of the conspiracy: A'lai set it in motion, and he carried it out, and he was the hand that executed the plan.",
+    "source_quote": "Alkrist had given us the accounting of it: A'lai as the one who set it in motion, himself as the hand that carried it out.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "workforce restructuring at Candlekeep",
+    "fact": "Workforce restructuring at Candlekeep was used as a narrative to frame Janussi's assassination as an administrative decision, aligning with A'lai's constructed history.",
+    "source_quote": "File the assassination under *workforce restructuring*. Enter it in the column marked *organizational efficiency*.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "conspiracy dismantled in a single afternoon",
+    "fact": "The conspiracy that ended Janussi's life was dismantled in a single afternoon by the group, exposing A'lai and the hidden motives behind the murder.",
+    "source_quote": "a conspiracy that had ended a man's life and that we had dismantled in a single afternoon",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin insisted on collecting a book per suspect and proposed handing the evidence to Kalan to clean house, believing the tools should go to the wronged party.",
+    "source_quote": "I'm gonna insist that we get a book per suspect... Give it to him, let him clean house.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum introduced blackmail as an agenda item and noted that in murder mysteries, someone often treats blackmail as a kind of career, aligning with A'lai's profile.",
+    "source_quote": "We could always decide to blackmail one or more of them... you often find somebody who treats blackmail as a kind of career.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir confirmed the obvious \u2014 Kalan was here, and the group had enough to act \u2014 and aligned with Thorin\u2019s position on the evidence.",
+    "source_quote": "Zalthir confirmed the obvious. \"He's here.\"",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "third floor",
+    "fact": "The third floor of Candlekeep is where Janussi's final note was found, containing critical evidence tied to the conspiracy.",
+    "source_quote": "a note in Janussi's own hand found on the third floor",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "budget day at Candlekeep",
+    "fact": "Budget day at Candlekeep was the day Janussi was killed, used as cover for a targeted elimination under the guise of fiscal restraint.",
+    "source_quote": "Budget day. Review day. The day careers were made or broken.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Kaelira",
+    "fact": "Kaelira told the investigator bluntly that someone powerful was paying to protect a man she couldn't understand, initiating the months-long column with one blank entry.",
+    "source_quote": "Kaelira told me bluntly that someone powerful was paying to protect a man she couldn't understand.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "the column",
+    "fact": "The column maintained since Kaelira's revelation had one entry \u2014 a blank patron \u2014 and remained unresolved until A'lai emerged as the first real lead.",
+    "source_quote": "That column had one entry, and I still couldn't name the entity.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "blackmail as a career",
+    "fact": "Blackmail as a career is a known pattern in murder mysteries, and A'lai's actions reflect this \u2014 he constructs history as administrative efficiency to mask criminal intent.",
+    "source_quote": "you often find somebody who treats blackmail as a kind of career... the man who treats blackmail as a kind of career knows how to make his own history sound administrative.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "A'lai",
+    "fact": "A'lai is the most reliably underpriced resource in the world because he knows what others have done and has chosen not to use it \u2014 that is the only price I am interested in collecting.",
+    "source_quote": "What he knows about whoever is paying Menzoberranzan rates to keep a nobody drow evoker alive and functional: that is the only price I am interested in collecting.",
+    "quote_verified": false
+  }
+]

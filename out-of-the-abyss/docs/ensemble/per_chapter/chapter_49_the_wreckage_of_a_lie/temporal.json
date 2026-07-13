@@ -1,0 +1,387 @@
+[
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The session occurs on the 5th day of the 2nd Tenday of Taraskh 1493 DR.",
+    "source_quote": "On the 5th day of the 2nd Tenday of Taraskh 1493",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "elapsed time",
+    "fact": "An hour passes between two events in the session.",
+    "source_quote": "An hour later",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "chasme count",
+    "fact": "Four chasme demons are present in the cavern above the prisoners' tower.",
+    "source_quote": "four chasme and two vrock",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "travel to Sloobludop",
+    "fact": "Sloobludop is approximately eight days away via the Darklake.",
+    "source_quote": "the town of Sloopdopblop is just eight days away",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Velkynvelve elevation",
+    "fact": "Velkynvelve sits 100 feet above the cavern floor.",
+    "source_quote": "Drow outpost was 100' in the sky",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "silver candlestick value",
+    "fact": "The silver candlesticks flanking the Lolth altar are worth 25 gp each.",
+    "source_quote": "a pair of heavy silver candlesticks worth 25 gp each",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Neverlight Grove artifact",
+    "fact": "The mushroom artifact from Neverlight Grove was the mechanism of corruption.",
+    "source_quote": "The mushroom artifact from Neverlight Grove was the mechanism of corruption.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Big Heart Fungus",
+    "fact": "The Big Heart Fungus was the primary weapon, would need sustained damage, would not die quickly or easily.",
+    "source_quote": "The Big Heart Fungus was the primary weapon, would need sustained damage, would not die quickly or easily.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Grygum's crossbow position",
+    "fact": "Grygum had a light crossbow; Thorin borrowed it and checked its mechanism before the fight.",
+    "source_quote": "Grygum had a light crossbow. I asked him for it. Simple transaction... I checked the mechanism...",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Glyph of Warding trigger",
+    "fact": "The Glyph of Warding was inscribed into the bridge stone; trigger: any hostile creature crossing.",
+    "source_quote": "Jorlan started inscribing the Glyph of Warding into the stone itself... The trigger: any hostile creature crossing.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Dust of Suleiman zone",
+    "fact": "The Dust of Suleiman area was a tactical hazard on the cavern floor, intended to turn the priestess into someone else's problem.",
+    "source_quote": "I looked at the Dust of Suleiman area... priestess plus that zone equals someone else's problem.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir's teleport",
+    "fact": "Zalthir teleported directly to Ilvara or grabbed her and moved her somewhere unpleasant.",
+    "source_quote": "Zalthir said he could teleport directly to Ilvara \u2014 or grab her and move her somewhere unpleasant.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Ilvara's magical items",
+    "fact": "Ilvara's magical items were offered as additional payment, with the caveat that they might be contaminated.",
+    "source_quote": "She offered Ilvara's magical items as additional payment, with the caveat that they might be contaminated.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Glabbagool's eyes",
+    "fact": "Glabbagool's eyes drifted left and right with unhurried curiosity, giving him away as not a rock.",
+    "source_quote": "The eyes gave him away. They drifted left. They drifted right. They did this with the unhurried curiosity...",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Jorlan's position",
+    "fact": "Jorlan was a threat with a location \u2014 stationary on the bridge, inscribing the Glyph of Warding.",
+    "source_quote": "I looked at Jorlan across that bridge... Jorlan is a threat with a location, which is the best kind of threat...",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Ilvara's transformation",
+    "fact": "Ilvara came apart into fungal matter beneath her feet, flowed through it, and reappeared elsewhere on the cavern floor.",
+    "source_quote": "She came apart into the fungal matter beneath her feet \u2014 flowed through it like water pouring into a crack... and reappeared somewhere else...",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Big Heart Fungus cloud",
+    "fact": "The Big Heart Fungus detonated a twenty-foot cloud of spore-thick poison that hung in the air like a settled entity.",
+    "source_quote": "The cloud didn't drift... This hung in the cavern air like it had decided to stay \u2014 twenty feet of spore-thick poison...",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Dust of Suleiman",
+    "fact": "Dust of Suleiman was among the tactical options laid out by the party for battlefield control.",
+    "source_quote": "Glyph of Warding. Dust of Suleiman. Phantasmal Killer. Fireball.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Asha's perimeter hold",
+    "fact": "Asha would hold the perimeter once the party initiated, handling anything coming from outside.",
+    "source_quote": "She would not come in at the start. Once we initiated, she would hold the perimeter \u2014 anything coming from outside, she handles it.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Elevated platform",
+    "fact": "The elevated platform was the initial position of Ilvara, and the site of Zalthir's teleport and first strike.",
+    "source_quote": "One moment I was reading the geometry of the space \u2014 the elevated platform... and the next I was already there, adjacent...",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Fungal creatures",
+    "fact": "Ilvara's allies had turned into mindless fungal creatures, a sign of her corruption.",
+    "source_quote": "all of those allies she seems to covet have turned into fungal creatures that are mindless.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Asha's immunological theory",
+    "fact": "Asha and Jorlan remained uninfected \u2014 Asha through devotion, Jorlan through hatred, which is its own kind of immunological theory.",
+    "source_quote": "Only she and Jorlan remained uninfected \u2014 Asha through devotion, Jorlan through hatred, which is its own kind of immunological theory.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Twenty feet of maintained distance",
+    "fact": "Twenty feet of maintained distance was the established safety buffer between infected and uninfected.",
+    "source_quote": "Twenty feet of maintained distance. Separate food.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Zalthir's weapon",
+    "fact": "Zalthir used a weapon that dealt sixteen damage on the first strike and fifteen on the second, totaling thirty-one.",
+    "source_quote": "I drove the weapon in. Sixteen... The second strike... Fifteen more. Thirty-one total.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Ilvara's scream",
+    "fact": "Ilvara screamed at herself \u2014 a sign her illusion of invulnerability had been broken.",
+    "source_quote": "She screamed... at herself. And I caught that \u2014 I filed it... She was furious at herself.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Cavern floor",
+    "fact": "The cavern floor was the site of Ilvara's transformation, the Dust of Suleiman hazard, and the fungal cloud.",
+    "source_quote": "She reappeared somewhere else on the cavern floor... I looked at the Dust of Suleiman area... twenty feet of spore-thick poison, sitting in the middle of the battlefield...",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Thorin's tactical observation",
+    "fact": "Thorin noted that Jorlan was a threat with a location \u2014 predictable and targetable.",
+    "source_quote": "Jorlan is not complicated. Jorlan is a threat with a location, which is the best kind of threat because it tells you exactly where to aim.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Bridge",
+    "fact": "The bridge was the site of the Glyph of Warding inscription and Jorlan's stationary position.",
+    "source_quote": "Jorlan's side. He moved to the crossing and started inscribing the Glyph of Warding into the stone itself...",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Asha's frame shift",
+    "fact": "Asha discarded the divine claim and replaced it with a deluded-mage frame \u2014 believing spores and Zuggtmoy's influence.",
+    "source_quote": "Oh, dear goodness, have you two been infected by the spores, possessed by the crazed magic of Zuggtmoy? Convinced of the bride's power? Is this another trick of Ilvara's?",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Dancing Lights",
+    "fact": "Dancing Lights were threaded down like a column of divine attention, absorbed into the speaker and blinking out.",
+    "source_quote": "The Dancing Lights threading down like a column of divine attention, absorbed into the familiar, absorbed into me, blinking out.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir's tactical exhaustion",
+    "fact": "Zalthir was out of actions and bonus actions after teleporting and grappling Ilvara, leaving him with altitude and view but no further capacity.",
+    "source_quote": "I hung in the air. Out of actions. Out of bonus actions. Out of everything I'd had when I arrived...",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Underdark equivalent of a table",
+    "fact": "The party spread out tactical options on the Underdark equivalent of a table while crouched in the dark.",
+    "source_quote": "Then the party spread out the options on the table, or whatever the Underdark equivalent of a table is when you're crouched in the dark...",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Ilvara's fungal transformation",
+    "fact": "Ilvara transformed into fungal matter and reappeared elsewhere, indicating a connection to the Big Heart Fungus.",
+    "source_quote": "She came apart into the fungal matter beneath her feet \u2014 flowed through it like water pouring into a crack... and reappeared somewhere else...",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Asha's final frame",
+    "fact": "Asha accepted a spore-maddened wizard with followers and a gelatinous familiar as the best available instrument for killing Ilvara.",
+    "source_quote": "Asha Vandree had seen through my lie, built her own explanation out of the wreckage, found it workable, and decided that a spore-maddened wizard with followers and a gelatinous familiar was, on balance, the best available instrument for killing someone she needed dead.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "glyph detonation",
+    "fact": "The Glyph of Warding detonated, dealing 21 damage to spore servants and Jorlan, killing one servant outright and staggering the others, with Jorlan taking full force.",
+    "source_quote": "Come get it, idiot",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "glyph detonation",
+    "fact": "The glyph's explosion was unexpected by Grygum, who exclaimed 'I didn't expect it to work' with genuine surprise.",
+    "source_quote": "I didn't expect it to work",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "spore servant count",
+    "fact": "Four spore servants rose from the cavern floor with patient, purposeless movement \u2014 former Velkynvelve guards repurposed by Zuggtmoy's influence through Ilvara's corruption.",
+    "source_quote": "Four shapes. Rising from the cavern floor with the patient, purposeless movement of things that are no longer choosing to move \u2014 they are simply directed. Former Velkynvelve guards.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "spore servant count",
+    "fact": "One spore servant ceased to be a problem after the glyph detonated, while others staggered in a way suggesting they had not enjoyed the experience.",
+    "source_quote": "One spore servant ceased to be a problem. The others staggered in a way that suggested they had not enjoyed the experience.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "fireball impact",
+    "fact": "Daz's concentrated Fireball struck Ilvara and the Zuggtmoy icon simultaneously, each taking 12 damage, while sculpting the spell to spare Zalthir and Thorin.",
+    "source_quote": "Daz's shaped Fireball hit \u2014 Ilvara and the Zuggtmoy icon both, simultaneously \u2014 and the two effects overlapped in a way that exceeded what either spell would have done alone.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "fireball impact",
+    "fact": "Daz's Fireball worked better than expected, altering the battlefield math and shifting favor to the party despite both targets still standing.",
+    "source_quote": "That worked better than I had any right to expect.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "dust of suleiman casting",
+    "fact": "The Dust of Suleiman was cast directly onto the Big Heart Fungus, a high-cost resource deployed because the creature had already demonstrated its willingness to harm the party.",
+    "source_quote": "I committed the Dust of Suleiman and cast it directly onto the fungus. This was not a small resource. I made the decision anyway, because the creature had already demonstrated what it was willing to do to us...",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "spore line elevation",
+    "fact": "The spore line hung above the cavern floor, marking the boundary from which characters spoke while hovering \u2014 a tactical vantage point.",
+    "source_quote": "from somewhere above the spore line",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "bridge elevation",
+    "fact": "The bridge bore the Glyph of Warding, placed with the expectation of chaotic combat, and was the focal point of Jorlan's fatal advance.",
+    "source_quote": "The Glyph of Warding on the bridge was still live. We'd placed it with exactly this kind of chaos in mind...",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "glyph of warding value",
+    "fact": "The Glyph of Warding was a tactical gamble \u2014 a trap laid to exploit ego overriding caution \u2014 and it succeeded, dealing 21 damage and killing one servant.",
+    "source_quote": "The tactic had been a gamble \u2014 you call a man an idiot and invite him toward an explosive ward and you are making a bet on ego overriding tactical awareness...",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "jorlan's advance",
+    "fact": "Jorlan committed fully to the bridge, running without hesitation \u2014 a display of giant-brained certainty that ignored terrain danger and led to his downfall.",
+    "source_quote": "Jorlan didn't hesitate, didn't slow \u2014 he came across that bridge like a man who had already decided the outcome. You have to respect that, a little, even when the outcome is about to be wrong for him. There's something almost giant-brained about that kind of certainty.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "thorin's sap maneuver",
+    "fact": "After the glyph detonated, Thorin pressed the attack with Dawnbringer, landing a critical hit for 14 damage and using Sap to shove Jorlan off-balance.",
+    "source_quote": "I was already closing on Jorlan... Dawnbringer came down \u2014 crit... 14 damage landing exactly where it needed to... I pressed the Sap after it...",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "daz's sculpted spell precision",
+    "fact": "Daz used Sculpt Spells to ensure the Fireball avoided Zalthir and Thorin while striking Ilvara and the icon \u2014 precision as directed force.",
+    "source_quote": "I carve them out. The fire will know the shape of them by the time it arrives and it will go around \u2014 not because fire cares, fire doesn't care about anything, but because I told it the shape of what it cannot touch.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "cavern floor elevation",
+    "fact": "The cavern floor was the origin point of the spore servants and the fungal threat \u2014 the battlefield's anchor, once passive, now an active enemy.",
+    "source_quote": "The fight was far from over. But the battlefield had shifted in our favor... the Big Heart Fungus. Still standing. Still anchoring the far end of the battlefield.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "ilvara's summoning",
+    "fact": "Ilvara called up the spore servants with purposeless, directed movement \u2014 a manifestation of Zuggtmoy's influence made visible through her corruption.",
+    "source_quote": "Then Ilvara called them up. Four shapes. Rising from the cavern floor with the patient, purposeless movement of things that are no longer choosing to move \u2014 they are simply directed.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "zalthir's reflection on valen",
+    "fact": "Zalthir silently reflected on Valen \u2014 who had once been exactly what the servants were \u2014 and noted the loss of identity between then and now.",
+    "source_quote": "Then he reflected on Valen. Not out loud, really \u2014 it was more in the quality of the silence that followed. I felt the thought land in the room anyway. Valen, who had been one of them. Who could have been one of them, differently categorized.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "grygum's tactical insight",
+    "fact": "Grygum's strategy \u2014 baiting ego with a trap \u2014 succeeded because Jorlan's certainty overrode caution, a gamble that paid off.",
+    "source_quote": "The tactic had been a gamble \u2014 you call a man an idiot and invite him toward an explosive ward and you are making a bet on ego overriding tactical awareness, which is sometimes a safe bet and sometimes gets you killed. This time it paid.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "daz's tactical note-taking",
+    "fact": "Daz noted the conditions that made the Fireball succeed \u2014 target positioning, spell sculpting, and timing \u2014 in case they became relevant again.",
+    "source_quote": "I note that Zalthir is unsinged. I note that Thorin is unsinged. I don't say anything about it. It was the plan. Plans working is not remarkable. But I notice.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "battlefield shift",
+    "fact": "The battlefield shifted in favor due to the combined effects of the glyph, fireball, and resource commitment \u2014 baiting ego, trusting the glyph, committing the resource, letting Daz do what Daz does.",
+    "source_quote": "I noted the specific combination of factors that had produced that outcome: bait the ego, trust the glyph, commit the resource, let Daz do what Daz does.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "big heart fungus status",
+    "fact": "The Big Heart Fungus remained standing despite all attacks \u2014 still anchoring the far end of the battlefield and the reason Zalthir hovered above the fight.",
+    "source_quote": "The fungus was still standing. The fight was far from over.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "daz's self-perception",
+    "fact": "Daz recognized the irony of being the feared mage of the Ember Vanguard \u2014 a role he achieved through precision, not flamboyance.",
+    "source_quote": "I am the feared mage of the Ember Vanguard. The irony is almost invisible, even to me.",
+    "quote_verified": true
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "type": "npc",
+    "subject": "Narrak",
+    "fact": "Narrak is a derro orchestrator whose pale, contorted features radiate spiraling madness, serving the demon lord Demogorgon and consumed by chaotic evil.",
+    "source_quote": "His eyes dart about with a frenetic, almost desperate energy.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir observes everything and acts without speaking, driven by clear, unspoken knowledge.",
+    "source_quote": "I observe everything and say nothing. My mind is clear. I act without speaking. I do because I know.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Derro",
+    "fact": "The Derro are a collective faction devoted to the elevation of their kind and the triumph of Demogorgon, with a genocidal intent toward the Duergar.",
+    "source_quote": "The elevation of the Derro, the Triumph of Demogorgon, and the destruction of the Duergar!",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Duergar",
+    "fact": "The Duergar are a targeted faction of the Derro, subject to their genocidal campaign in service of Demogorgon\u2019s triumph.",
+    "source_quote": "The elevation of the Derro, the Triumph of Demogorgon, and the destruction of the Duergar!",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "experimental ritual",
+    "fact": "An experimental ritual is being conducted by Narrak and his apprentices in service of Demogorgon\u2019s will.",
+    "source_quote": "We are conducting experiments!",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Demogorgon",
+    "fact": "Demogorgon is a demon lord being served by Narrak and the Derro, whose influence drives their chaotic evil and genocidal agenda.",
+    "source_quote": "The Triumph of Demogorgon",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "purpose of experiments",
+    "fact": "The ultimate purpose of the experiments remains unresolved, tied to the Derro\u2019s quest for elevation and Demogorgon\u2019s triumph.",
+    "source_quote": "For what purpose!",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "the chamber of experiments",
+    "fact": "The chamber is a deeply unsettling space where Narrak and his apprentices conduct experiments under the influence of Demogorgon.",
+    "source_quote": "His presence in this space is deeply unsettling, a chilling testament to the insidious influence of the demon lord he serves.",
+    "quote_verified": true
+  }
+]

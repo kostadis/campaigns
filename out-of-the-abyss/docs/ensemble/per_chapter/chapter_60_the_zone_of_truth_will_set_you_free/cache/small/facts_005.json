@@ -1,0 +1,128 @@
+[
+  {
+    "type": "npc",
+    "subject": "Sylvira",
+    "fact": "Sylvira is a tiefling born in the Overbright, technically an abyssal spawn, whose research focuses on infernal domains and whose relationship with Janussi has drawn resentment; she is currently under suspicion of being framed for a horrible tragedy and is cooperating as a witness.",
+    "source_quote": "She happened, technically, to be an abyssal spawn, so they weren't even wrong.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Janussi",
+    "fact": "Janussi is Sylvira's former romantic partner, previously involved with Kazryn Nyantani, and their relationship with Sylvira has likely offended someone, contributing to her being targeted.",
+    "source_quote": "Then Sylvira. Then...",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Kazryn Nyantani",
+    "fact": "Kazryn Nyantani is a former partner of Janussi, now bitter toward Sylvira for replacing her; Sylvira broke down acknowledging Kazryn\u2019s resentment and implied personal guilt over the situation.",
+    "source_quote": "That bitter old hag... who always resented Janussi for ditching her in favor of me.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Daral Yashenti",
+    "fact": "Daral Yashenti is a drunken poet who sells his worthless work to fund a new library; Sylvira dismissed him as too unskilled to orchestrate the framing, labeling him possible but unlikely.",
+    "source_quote": "He's too much of a drunk to pull off something like that.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Menzoberranzan",
+    "fact": "Menzoberranzan is a drow city known for deceptive and cruel political tactics; Sylvira initially suspected its influence in the framing but dismissed it as a poor application of their methods.",
+    "source_quote": "if that was a trick the drow use in Menzoberranzan \u2014 to twist the knife in their unsuspecting victims \u2014 it was a poor one.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Overbright",
+    "fact": "The Overbright is a surface realm where tieflings are assumed to be abyssal spawns; Sylvira explained that her heritage and research make her a natural target for prejudice here.",
+    "source_quote": "In the Overbright, people look at a tiefling and assume she's an abyssal spawn.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "framing incident",
+    "fact": "Someone has used Sylvira's likeness to commit acts she could not have performed, framing her for a 'horrible tragedy' that remains unspecified but appears to involve sabotage or murder.",
+    "source_quote": "your likeness has been seen moving around, doing things you couldn't possibly have done?",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Sylvira's emotional breakdown",
+    "fact": "Sylvira broke down while discussing Kazryn Nyantani, admitting personal guilt and referencing a 'frumpy old boar' \u2014 an unexplained metaphor tied to academic rivalry and emotional trauma.",
+    "source_quote": "This was my fault.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "infernal entities",
+    "fact": "Infernal entities are the focus of Sylvira's research and are culturally associated with her appearance, intensifying prejudice against her in the Overbright.",
+    "source_quote": "Her area of research was the infernal domains, which compounded the prejudice.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Underdark",
+    "fact": "The Underdark is the subterranean realm from which Sylvira recently returned; it is contrasted with the Overbright and associated with drow deceit, though Sylvira herself is not from it.",
+    "source_quote": "I'd recently come up from the Underdark",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Overbright",
+    "fact": "The Overbright is the surface realm where Sylvira was born and raised; it is marked by racial prejudice against tieflings and where the framing incident occurred.",
+    "source_quote": "Born and raised in the Overbright, but absent from it for some time.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "lilac robes",
+    "fact": "The lilac robes Sylvira wears are ineffective against her internal cold, symbolizing her vulnerability despite attempts to appear composed or protected.",
+    "source_quote": "the lilac robes she'd wrapped herself in accomplishing nothing against a cold she clearly felt in her bones.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "unpublished research",
+    "fact": "There is speculation that Sylvira may have discovered something significant in her infernal research that she has not yet published, potentially motivating her framing.",
+    "source_quote": "Something she'd found and hadn't published yet.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "frumpy old boar",
+    "fact": "A cryptic reference made by Sylvira during her breakdown \u2014 'something about a frumpy old boar' \u2014 may be a metaphor for a rival, a past humiliation, or an academic scandal, but its meaning remains unresolved.",
+    "source_quote": "Something about a frumpy old boar.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Grygum's investigation",
+    "fact": "Grygum is conducting a separate investigation into a dead man's love nest, three floors up, and may hold key evidence about the tragedy Sylvira is framed for.",
+    "source_quote": "if he weren't three floors up going through a dead man's love nest",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Thorin and Alkrist",
+    "fact": "Thorin is preparing to make Alkrist uncomfortable, suggesting an upcoming confrontation or revelation unrelated to Sylvira\u2019s framing but possibly connected to the broader mystery.",
+    "source_quote": "Thorin wasn't in the room to offer the easy sympathy. He was off somewhere getting ready to make Alkrist very uncomfortable.",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "recent return from Underdark",
+    "fact": "Sylvira's recent return from the Underdark is the most truthful statement made in the conversation and serves as a pivot point for her willingness to explain her vulnerabilities.",
+    "source_quote": "I'd recently come up from the Underdark",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "who framed Sylvira?",
+    "fact": "The identity of the person or group framing Sylvira remains unknown, though suspects include Kazryn Nyantani, Daral Yashenti, and possibly external actors from Menzoberranzan or jealous rivals in the Overbright.",
+    "source_quote": "What do you mean, I've been framed?",
+    "quote_verified": true
+  }
+]

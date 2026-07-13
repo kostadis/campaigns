@@ -1,0 +1,142 @@
+[
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is a monk who prefers proximity, grapples, and dropping enemies from height, and who is bound by the frightened condition after Ilvara\u2019s psychic assault, choosing not to approach her despite tactical advantage.",
+    "source_quote": "I am a monk. My entire tactical vocabulary is built around being adjacent to the problem. Range is something other people deal with. Range is Daz's whole personality. I hit things. I grapple things. I drag things into the air and then drop them from inconvenient heights. All of that requires proximity.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Ilvara Mizzrym",
+    "fact": "Ilvara Mizzrym is the high priestess of House Mizzrym and corrupted vessel of Zuggtmoy, who survives a forty-foot fall and counters with a Wisdom-saving-throw-based fear effect that renders proximity impossible for Zalthir.",
+    "source_quote": "She reached into whatever dark place Zuggtmoy had hollowed out inside her and she pushed \u2014 not against my body, not against my grip, but against the part of me that the training does not fully reach.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Heart Fungus",
+    "fact": "The Heart Fungus is a massive, pulsing, iconic fungal entity in the center of the cavern, resistant to common damage but doubly vulnerable to radiant damage, destroyed in one round by Thorin\u2019s Dawnbringer.",
+    "source_quote": "It actually is doubly not resistant to radiant damage. Dawnbringer was already in my hand. She'd been in my hand since we walked in. She's not the sort of sword that waits politely in a scabbard when there's something this obviously in need of being hit with radiant light.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Dawnbringer",
+    "fact": "Dawnbringer is Thorin\u2019s radiant-weapon sword, never stored in a scabbard, wielded with immediate intent, and responsible for the one-round destruction of the Heart Fungus.",
+    "source_quote": "Dawnbringer was already in my hand. She'd been in my hand since we walked in. She's not the sort of sword that waits politely in a scabbard when there's something this obviously in need of being hit with radiant light.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin Giantfriend",
+    "fact": "Thorin Giantfriend is a dwarf fighter who desires direct confrontation, wields Dawnbringer, and chooses not to make an opportunity attack against Jorlan as he charges Ilvara, deeming it tactically and morally sensible to let enemies fight each other.",
+    "source_quote": "I stepped aside and let Jorlan pass. It's a strange thing, choosing not to act. Thorin Giantfriend, raised by creatures who settle disagreements by picking up boulders, standing in a fungal cave in the Underdark while a scarred drow with a grudge and an old love charges through an insect swarm toward his former partner.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Jorlan",
+    "fact": "Jorlan is a scarred drow warrior who once loved Ilvara, abandoned by her for his disfigurement, and now charges her through an insect swarm with a cry that is not rage but a wound reopening.",
+    "source_quote": "\"ILVARA\" It came out like a wound reopening. Not rage exactly \u2014 rage is clean, rage has direction. This was something uglier and more honest than rage.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is a party member who prioritizes the safety of Glabbagool over tactical concerns, uses Revivify to consider restoring fallen minions, and is acutely aware of the shifting loyalties and bookkeeping failures of Underdark companionship.",
+    "source_quote": "Oh, how about Glabbagool? ... If anybody is too saddened by the loss of any of our minions, I do have a Revivify spell that I could use to bring one of them back.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool is a sentient, wobbling, gelatinous cube companion who survives twenty-six points of damage from Ilvara\u2019s Insect Plague, and is treated by Grygum as a vulnerable being deserving of protection.",
+    "source_quote": "Our faithful, wobbling, occasionally conversational gelatinous cube companion, who had been attempting to participate in the fight with the earnest commitment of someone who was very new to fighting and very sincere about it.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Insect Plague Swarm",
+    "fact": "The Insect Plague Swarm is a biblical chittering wall of insects conjured by Ilvara at the cavern entrance, instantly killing thirteen hit points of fungal minions and dealing twenty-six damage to Glabbagool.",
+    "source_quote": "The swarm hit the cavern entrance like a wall of sound and motion \u2014 a biblical chittering that shredded the fungal minions instantly, all thirteen hit points of them, gone before they could do anything useful.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Cavern",
+    "fact": "The cavern is a vast, dark, fungal environment with elevated walkways, difficult terrain, and a central Heart Fungus, shaped by the DM as a bottleneck to force range and delay direct confrontation.",
+    "source_quote": "The cavern was doing most of Ilvara's work for her \u2014 keeping us spread out, keeping me in particular at range from the thing I wanted to hit.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Heart Fungus Destruction",
+    "fact": "The Heart Fungus is destroyed in one round by Thorin\u2019s radiant-weapon Dawnbringer, despite being a carefully prepared DM icon, leading to party condolences and DM regret.",
+    "source_quote": "I spent so much time creating this icon. ... It was a fine-looking icon. Big. Pulsing. Lovingly rendered. It deserved a longer fight than it got.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Ilvara\u2019s Fear Effect",
+    "fact": "Ilvara triggers a targeted fear effect that bypasses Zalthir\u2019s training and imposes the frightened condition, making proximity impossible and forcing him to remain forty feet above the battlefield.",
+    "source_quote": "This was targeted. This said: she is down there, and you will not approach her, and you will not approach her, and you will not approach her. Repeated. Insistent.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Jorlan\u2019s Charge",
+    "fact": "Jorlan abandons his position and charges Ilvara across the insect swarm, triggering a moment of tactical hesitation in Thorin, who chooses not to intervene, allowing the drow\u2019s personal reckoning to unfold.",
+    "source_quote": "I had an opportunity attack. I stood there with Dawnbringer in hand and thought about it, which is not usually how I operate, but this particular situation had enough moving parts to give even me pause.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Revivify Offer",
+    "fact": "Grygum offers to use Revivify to restore a fallen minion, but the party realizes the fallen are Ilvara\u2019s fungal servants, not their own, exposing a breakdown in companion accountability.",
+    "source_quote": "We used to have so many people traveling with us,\" I said, \"I forgot.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Lover\u2019s Booty",
+    "fact": "Lover\u2019s Booty is a term referenced by Grygum as a former name for loot, now corrupted into a joke, revealing the party\u2019s evolving and irreverent relationship with treasure.",
+    "source_quote": "Does he get, like, first dibs on booty or something? And by booty, I mean, like... they used to be Lover's Booty, I mean, like... the goods.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a party member who enjoys monologue and possesses cheekbones suited for dramatic delivery, contrasted against Zalthir\u2019s aversion to speech and Thorin\u2019s preference for action.",
+    "source_quote": "I do not, as a rule, enjoy monologue. I leave that to Daz, who has the cheekbones for it.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Underdark",
+    "fact": "The Underdark is a hostile, ever-changing environment where alliances shift, minions vanish from memory, and even sentient creatures like Glabbagool are vulnerable to collateral damage, demanding constant adaptation.",
+    "source_quote": "The Underdark keeps presenting me with long rooms. ... The Underdark is not kind to bystanders.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Tides Have Turned",
+    "fact": "Zalthir declares 'The tides have turned' as Jorlan charges Ilvara, marking a narrative pivot from party versus villain to personal vendetta, accepted by the group as sufficient resolution.",
+    "source_quote": "\"The tides have turned.\"",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Fungal Minions",
+    "fact": "Fungal Minions are Ilvara\u2019s thirteen-hit-point servants, instantly destroyed by the Insect Plague, whose deaths are later claimed as hers by the party, revealing the ambiguity of ownership in Underdark combat.",
+    "source_quote": "The fallen fungal servants belonged to Ilvara, not to us. Of course they did.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Gustatus",
+    "fact": "Gustatus is the Dungeon Master, who designed the Heart Fungus as a beloved icon, and who experiences quiet regret when it is destroyed too quickly by radiant damage.",
+    "source_quote": "I spent so much time creating this icon. ... \"I liked it very much, Gustatus.\"",
+    "quote_verified": false
+  }
+]

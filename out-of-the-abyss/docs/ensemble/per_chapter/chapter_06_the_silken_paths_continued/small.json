@@ -1,0 +1,315 @@
+[
+  {
+    "type": "npc",
+    "subject": "Fargas Rumblefoot",
+    "fact": "Fargas Rumblefoot is a halfling adventurer who claims to know the location of a hidden tomb belonging to the half-elf sorcerer Brysis of Khaem, but admits he does not know the precise location\u2014only that it is on the eastern edge of the Darklake. He is under pressure to honor a prior agreement regarding the treasure's location, and his statements are consistent with truthfulness despite ambiguity.",
+    "source_quote": "In ages past, at the height of Faer\u00fbn\u2019s great empires of magic, the half-elf sorcerer Brysis of Khaem was interred in a floating tomb. After the fall of the empire of Netheril and its flying cities, Brysis\u2019s tomb plummeted into a crevasse and wound up in the Underdark, where it has remained for centuries.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is a monk who interrogates Fargas Rumblefoot about the treasure's location, observes his demeanor, and physically checks him for gnoll spawn. He is analytical, skeptical of contradictions, and notes that Fargas\u2019s knowledge appears to have shifted from confident assertion to vague recollection.",
+    "source_quote": "It is interesting that he said he knew where it was previously but doesn\u2019t know now.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Sethir",
+    "fact": "Sethir is an escapee who claims to know the location of Brysis\u2019s tomb based on a map drawn with Ormu from a narrow tunnel. He provides directional and logistical information about the journey through the Silken Paths, asserting that Sloobludop is three days away and that the tomb lies along the route.",
+    "source_quote": "I know where it must be. I can get us there.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is a note-taker who records conversations verbatim and later confirms Fargas Rumblefoot\u2019s statements. He is observant, methodical, and declares that Fargas was not lying and is not lying, despite the ambiguity in his claims.",
+    "source_quote": "I took notes while you were talking,",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is an annoyed and skeptical member of the group who questions the legitimacy of the Spider-based bridge mechanics and doubts the accuracy of Sethir\u2019s map. He is critical of magical shortcuts and insists on traditional gameplay.",
+    "source_quote": "The map doesn\u2019t reflect the relative distances accurately.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Spiderbait",
+    "fact": "Spiderbait is an escapee familiar with the Silken Paths and the behavior of Giant Spiders. He explains how the Spiders use web-spinning to create new bridges, and how Drow pursuers may or may not be slowed depending on their guides.",
+    "source_quote": "Depends if they have good guides. And there are hundreds of ways of going through the Silken Paths. Yukyuk and I just happen to know the best way.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Yukyuk",
+    "fact": "Yukyuk is an escapee who critiques the group\u2019s tactics, suggesting that sliding under the spiders and cutting webs from the opposite side would have been more effective. He shares Spiderbait\u2019s intimate knowledge of the Silken Paths.",
+    "source_quote": "Like dudes, that was cool. But you might want to have thought about sliding -under- the spiders and cutting the web from the other side. That would have been so much cooler.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Giant Spiders",
+    "fact": "The Giant Spiders are territorial Underdark creatures that use their web-spinning ability to construct bridges and advance along them, deviating from conventional game rules. They avoid leaving their domain and are slowed by the group\u2019s use of swords and magic missiles.",
+    "source_quote": "The Giant Spiders are somewhat territorial. If they run out of their domain, they will stop pursuing them.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Drow Pursuers",
+    "fact": "The Drow pursuers are tracking the escapees through the Silken Paths. Their ability to catch up depends on having skilled guides, as the network of paths is vast and complex. They are not necessarily slowed by the events involving the Giant Spiders.",
+    "source_quote": "Depends if they have good guides. And there are hundreds of ways of going through the Silken Paths.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Ormu",
+    "fact": "Ormu is a bioluminescent residue collected from a narrow tunnel, used by Sethir to draw a navigational map of the Underdark route. It is not a creature but a material tool for orientation.",
+    "source_quote": "He uses the Ormu that Zalthir had collected from the narrow tunnel they had squeezed through.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Silken Paths",
+    "fact": "The Silken Paths are a vast, web-filled network of tunnels and passageways in the Underdark, known for their complexity and the presence of Giant Spiders. Navigation requires intimate knowledge, and multiple routes exist, making guidance critical.",
+    "source_quote": "We are at the Silken Paths.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Darklake",
+    "fact": "The Darklake is a massive, subterranean body of water in the Underdark without a conventional surface. It is formed by intersecting caverns and tunnels that allow navigation, and lies on the eastern edge of which the hidden tomb is believed to be located.",
+    "source_quote": "The Darklake is a large body of water. Unlike the overbrite, it doesn\u2019t have a surface in the conventional sense.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Sloobludop",
+    "fact": "Sloobludop is a destination along the escapees\u2019 route through the Underdark, located three days from their current position. It is a waypoint between the Silken Paths and Gracklstugh, and lies along the path to the tomb.",
+    "source_quote": "After we get to Sloobludop, Buppido says we should go to Gracklstugh.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Gracklstugh",
+    "fact": "Gracklstugh is a large Derro city located beyond Sloobludop on the escapees\u2019 route. It is identified as a place where the group can acquire weapons and gear.",
+    "source_quote": "Gracklstugh is a large Derro city. I agree with him. That\u2019s where we can get weapons and gear.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Velkynvelve",
+    "fact": "Velkynvelve is the origin point of the escapees\u2019 journey through the Underdark, from which they have been traveling toward Sloobludop via the Silken Paths.",
+    "source_quote": "We started in Velkynvelve.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Brysis\u2019s Tomb",
+    "fact": "Brysis\u2019s Tomb is a floating sarcophagus that fell from the sky after the collapse of Netheril and now lies buried in the Underdark. It contains a false burial chamber and a hidden true chamber accessible via a secret passageway from the servants' tomb. The location is unknown precisely, but is believed to be near the eastern edge of the Darklake.",
+    "source_quote": "The real treasure is hidden in another chamber that you reach from a secret passageway from the servants' tomb.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "map drawing with Ormu",
+    "fact": "Sethir used Ormu residue to draw a navigational map indicating the group\u2019s route from Velkynvelve to Sloobludop, through the Silken Paths, toward the Darklake and the tomb. The map is not to scale but provides directional context.",
+    "source_quote": "Now, this isn\u2019t a map of the tunnels, but it will give you an idea of where we are and where we are going.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Fargas\u2019s revelation",
+    "fact": "Fargas Rumblefoot disclosed knowledge of Brysis\u2019s tomb\u2019s hidden chamber and its false burial site, admitting he does not know the exact location but believes it to be near the eastern edge of the Darklake. His statements were corroborated by Grygum\u2019s notes and deemed truthful.",
+    "source_quote": "I don\u2019t know the precise location. But I do know where it is -sort- of. It\u2019s on the eastern edge of the Darklake.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir\u2019s gnoll spawn check",
+    "fact": "Zalthir physically touched Fargas Rumblefoot\u2019s belly to determine whether he was infected with gnoll spawn, and declared him clear. This act was met with annoyance from Fargas but confirmed his physical integrity.",
+    "source_quote": "No gnoll spawn.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Sethir\u2019s navigation claim",
+    "fact": "Sethir confidently asserted that he could lead the group to the tomb\u2019s location based on the Ormu map, and his knowledge of the route from Velkynvelve to Sloobludop, through the Silken Paths.",
+    "source_quote": "I know where it must be. I can get us there.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "true location of Brysis\u2019s Tomb",
+    "fact": "The precise location of Brysis\u2019s Tomb remains unknown, though it is believed to be on the eastern edge of the Darklake. The group must now rely on Sethir\u2019s map and knowledge to find it, raising uncertainty about whether the information is sufficient or accurate.",
+    "source_quote": "I don\u2019t know the precise location. But I do know where it is -sort- of.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "accuracy of Sethir\u2019s map",
+    "fact": "Thorin questions the accuracy of Sethir\u2019s Ormu-drawn map, noting it does not reflect relative distances. This casts doubt on whether the three-day estimate to Sloobludop is reliable, creating a plot thread about navigation and trust in guides.",
+    "source_quote": "The map doesn\u2019t reflect the relative distances accurately.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Drow pursuit effectiveness",
+    "fact": "The effectiveness of the Drow pursuers in catching the escapees depends on having skilled guides through the Silken Paths. This creates uncertainty about whether the group has truly escaped or merely delayed pursuit.",
+    "source_quote": "If they have a good guide, no. A bad guide? Yes.",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "8th day of the 2nd Tenday of Taraskh 1493",
+    "fact": "The current date is the 8th day of the 2nd Tenday of Taraskh in the year 1493, marking the timeline of the escapees\u2019 journey through the Underdark.",
+    "source_quote": "8th day of the 2nd Tenday of Taraskh 1493",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "three days to Sloobludop",
+    "fact": "The group estimates it will take three days to reach Sloobludop from their current position on the Silken Paths.",
+    "source_quote": "Three days.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is currently paralyzed after being struck by a green ray from the Spectator, and privately wonders if the goblin guides can be convinced to retrieve the gold from the mimic.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is a friendly goblin who questioned the Spectator, made a bet with Jimjar that the creature could not be convinced of their benign intent, and later muttered about needing better-ranged spells before firing his handheld crossbow.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a spellcaster who struck the Spectator with magic missiles, and later muttered that the goblin guides might prove useful as fodder in battle, which Buppido overheard and found intriguing.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is a dwarf who charged the Spectator, was unaffected by its blue ray, and used a hill strike learned from a hill giant battle master, though the Spectator\u2019s strength prevented him from being knocked prone.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Buppido",
+    "fact": "Buppido is a divine figure who overheard Daz\u2019s comment about using the goblins as fodder and told Zalthir he might be part of his divine plan.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Jimjar",
+    "fact": "Jimjar is a goblin who took and lost a bet with Grygum about convincing the Spectator, and later offered to pay the goblin guides for their services but deferred payment until he gets the money.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Yukyuk",
+    "fact": "Yukyuk is a goblin guide who was impressed by Zalthir\u2019s spiderweb maneuver and asked if the escapees had their money, later deciding to stay with them due to Zalthir\u2019s impressive actions.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Spiderbait",
+    "fact": "Spiderbait is a goblin guide who, along with Yukyuk, decided to stay with the escapees after being awed by Zalthir\u2019s spiderweb attack, despite initial thoughts of abandoning them.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Spectator",
+    "fact": "The Spectator is a mad beholder-like creature that attacked the party, used a confusion ray on Thorin, a green paralysis ray on Zalthir, and a blue ray that failed to affect Thorin, before being killed by combined attacks.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Mimic",
+    "fact": "A large chest is observed along the cavern strand; all agree it is a mimic, and though the group considers testing the theory, no one is willing to do so.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Underdark tunnels",
+    "fact": "The endless tunnels of the Underdark beckon after the group passes the mimic, marking their continued journey through the subterranean realm.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Cavern wall",
+    "fact": "The edge of the cavern wall is reached after the battle with the Spectator, signaling a transition in the escapees\u2019 path.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Spiderweb strand",
+    "fact": "A strand of web far removed from others is traversed multiple times; Zalthir uses it to hang and attack the Spectator, and later observes the large chest (mimic) along it.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Large chest",
+    "fact": "A large chest is seen along the spiderweb strand; all members agree it is a mimic, and no one attempts to test its nature.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Handheld crossbow",
+    "fact": "Grygum uses a handheld crossbow to fire at the Spectator after admitting he needs better-ranged spells.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Spectator's attack",
+    "fact": "The Spectator used a confusion ray on Thorin, a green paralysis ray on Zalthir, and a blue ray that failed to affect Thorin, before being slain by Thorin\u2019s sword, Daz\u2019s magic missiles, and Grygum\u2019s crossbow.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir\u2019s spiderweb maneuver",
+    "fact": "Zalthir hung from the spiderweb strand to attack the Spectator, but missed due to the physical strain of holding on while attacking, impressing Yukyuk and elevating his status among the goblin guides.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Mimic identification",
+    "fact": "The group unanimously identifies the large chest as a mimic and declines to test the theory, showing caution and consensus.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Zalthir\u2019s divine potential",
+    "fact": "Buppido suggests Zalthir may be part of his divine plan, and Zalthir privately wonders if the Spectator believed Buppido to be the demon, though he pushes the thought aside.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Goblin guides\u2019 loyalty",
+    "fact": "The goblin guides, Yukyuk and Spiderbait, consider abandoning the escapees but choose to stay due to Zalthir\u2019s impressive actions, creating a fragile but evolving alliance.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Gold retrieval from mimic",
+    "fact": "Zalthir wonders if the goblin guides could be convinced to retrieve the gold from the mimic, but no one acts on the idea, leaving it as an unexplored possibility.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Daz\u2019s expendable allies",
+    "fact": "Daz\u2019s muttered comment that the goblins might be useful as fodder is overheard by Buppido, who finds it intriguing, hinting at a potential future use of the guides as pawns.",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "after the battle",
+    "fact": "The events occur a few hours after the party left the previous location, and a little bit later after the Spectator\u2019s death, when the mimic is seen and the goblin guides reappear.",
+    "quote_verified": false
+  }
+]

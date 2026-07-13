@@ -1,0 +1,282 @@
+[
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The session occurs on the 5th day of the 2nd Tenday of Taraskh 1493 DR.",
+    "source_quote": "On the 5th day of the 2nd Tenday of Taraskh 1493",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "elapsed time",
+    "fact": "An hour passes between two events in the session.",
+    "source_quote": "An hour later",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "chasme count",
+    "fact": "Four chasme demons are present in the cavern above the prisoners' tower.",
+    "source_quote": "four chasme and two vrock",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "travel to Sloobludop",
+    "fact": "Sloobludop is approximately eight days away via the Darklake.",
+    "source_quote": "the town of Sloopdopblop is just eight days away",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Velkynvelve elevation",
+    "fact": "Velkynvelve sits 100 feet above the cavern floor.",
+    "source_quote": "Drow outpost was 100' in the sky",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "silver candlestick value",
+    "fact": "The silver candlesticks flanking the Lolth altar are worth 25 gp each.",
+    "source_quote": "a pair of heavy silver candlesticks worth 25 gp each",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "level up milestone",
+    "fact": "We're all leveled up.",
+    "source_quote": "Alright, so the first thing is that we're all leveled up.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "gracklstugh count",
+    "fact": "Gracklstugh is one of the locations we've crawled through and fought through.",
+    "source_quote": "Sloobludop. Gracklstugh. Neverlight Grove. Blingdenstone.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "neverlight grove",
+    "fact": "Neverlight Grove is one of the locations we've negotiated and lied and burned our way through.",
+    "source_quote": "Neverlight Grove.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "blingdenstone",
+    "fact": "Blingdenstone is one of the locations we've crawled through and fought through.",
+    "source_quote": "Blingdenstone.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "pudding king",
+    "fact": "The Pudding King is one of the entities we've fought through.",
+    "source_quote": "The Pudding King.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "ilvara",
+    "fact": "Ilvara is one of the locations we've negotiated and lied and burned our way through.",
+    "source_quote": "Ilvara.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "level up confirmation",
+    "fact": "We're gonna level up.",
+    "source_quote": "We're gonna level up.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "dawnbringer blade",
+    "fact": "Dawnbringer deals radiant damage, not slashing.",
+    "source_quote": "Dawnbringer is not slashing, right? It's actually\u2026 Radiant damage.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "underdark",
+    "fact": "The Underdark is tight and low, and we're almost out.",
+    "source_quote": "The Underdark is tight and low. But we're almost out.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "lack of ranged weapons",
+    "fact": "None of us have ranged weapons, which means there will absolutely be something that needs hitting from a distance.",
+    "source_quote": "we none of us have ranged weapons, which means there will absolutely be something that needs hitting from a distance.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "demon princes",
+    "fact": "Daz reserves his genuine surprise for things like demon princes and sentient oozes.",
+    "source_quote": "the kind he usually reserves for things like demon princes and sentient oozes.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "zhentarim tactics",
+    "fact": "Zhentarim Tactics is a school of thought \u2014 brutal, efficient, not entirely reputable \u2014 that goes by the name Zhentarim Tactics.",
+    "source_quote": "Zhentarim Tactics.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "menzoberranzan",
+    "fact": "Menzoberranzan trained Daz to read the moment before committing to a decision with surgical attention.",
+    "source_quote": "Menzoberranzan trained me to read that moment with surgical attention.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "warcaster feat",
+    "fact": "Warcaster improves concentration checks, which is essential for maintaining spells like Hypnotic Pattern and Maximilian's Grasp.",
+    "source_quote": "Warcaster, which gives them improved concentration checks.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "fey touched",
+    "fact": "Fey Touched grants two additional spells to prepare and free castings.",
+    "source_quote": "Fey Touched gives me two additional spells to prepare. Plus free castings.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "misty step",
+    "fact": "Misty Step allows escaping grapples without attacks of opportunity when cast without expending a spell slot.",
+    "source_quote": "being able to cast it without expending a spell slot is extremely useful. Because if you're in combat, it allows you to get out without incurring attacks of opportunity.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "telekinetic feat",
+    "fact": "Telekinetic allows moving allies five feet to reposition them in combat.",
+    "source_quote": "Telekinetic, I can aim this at allies and do things like get them out of a grapple. Move them five feet.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "sculpt spells",
+    "fact": "Sculpt Spells lets the wizard carve exclusions into area effects like Cloud of Daggers.",
+    "source_quote": "Because I have my ability to shape spells, I can call Cloud of Daggers on an enemy\u2014",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "long arrangement",
+    "fact": "The 'long arrangement' is the idea that positioning and preparation are most of the fight.",
+    "source_quote": "Milo Goodbarrel had a chapter about this. He called it 'the long arrangement' \u2014 the idea that the fight before the fight, the positioning, the preparation, is actually most of the fight.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "street justice feat",
+    "fact": "Street Justice lets Zalthir use rope to bind enemies he's already grappled.",
+    "source_quote": "the one that let him use rope to bind enemies he'd already grappled.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "darkness spell conflict",
+    "fact": "Darkness and fire spells have historically conflicted between Daz and Zalthir due to line-of-sight issues.",
+    "source_quote": "The Darkness spell has always been the problem between Daz and me.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "cloud of daggers + grapple synergy",
+    "fact": "Grapple locks an enemy in place, making Cloud of Daggers permanently effective on them.",
+    "source_quote": "If you hold one in place, the daggers keep finding them.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "grapple and rope action economy",
+    "fact": "Grapple uses a bonus action; binding with rope consumes the entire action, creating a full-turn setup.",
+    "source_quote": "Grapple is a quick thing \u2014 one motion... The binding would consume the action itself. The whole turn \u2014 both pieces of it \u2014 spent on one enemy...",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "monastery",
+    "fact": "Zalthir recalls a monastery class on battlefield geometry and control vs. proximity.",
+    "source_quote": "There was a class on this. At the monastery. Something about battlefield geometry and the difference between control and proximity.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "drow wizard mentorship",
+    "fact": "Zalthir is learning battlefield geometry from a Drow wizard in a tunnel.",
+    "source_quote": "I am currently learning it from a Drow wizard in a tunnel.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "pudding king takedown",
+    "fact": "Zalthir pulled the Pudding King out of its lair by sheer force of tactical geometry.",
+    "source_quote": "I'd watched him pull the Pudding King out of its lair by sheer force of tactical geometry.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "dwarf raised by giants",
+    "fact": "The narrator believes being raised by giants means he doesn't need range \u2014 giants toss rocks, and his role is to protect them.",
+    "source_quote": "being a dwarf raised by giants means I don\u2019t have to have any range. Giants toss rocks. Those rocks go far and hurt. My job was to be there and protect the giants from anything that came too close.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "potion hoarding habit",
+    "fact": "The narrator admits to hoarding potions as a bad habit \u2014 the potion you don't drink is the potion you die holding.",
+    "source_quote": "The potion you don't drink is the potion you die holding.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "giant strength potion strategy",
+    "fact": "The narrator considers drinking a potion of giant strength when it matters, rather than investing in permanent strength increases.",
+    "source_quote": "skip the investment, drink the potion of giant strength when it matters.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "hill giants",
+    "fact": "The narrator carries lessons from hill giants in the shape of every fight he's won.",
+    "source_quote": "The hill giants weren't always good people either, and I carry their lessons in the shape of every fight I've won.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "dark transition",
+    "fact": "The narrator has undergone a dark transition \u2014 from a happy-go-lucky kid to someone who understands the Underdark doesn't care what kind of person you want to be.",
+    "source_quote": "I've had what you might call a dark transition. The happy-go-lucky kid who went underground expecting something survivable has spent months watching demon lords and eating mushrooms and coming to understand that the Underdark doesn't care what kind of person you want to be.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "tactical geometry commitment",
+    "fact": "Zalthir commits to obscure specializations and tries to break the universe with them.",
+    "source_quote": "I find it more fun to double down with some sort of obscure specialization and then try to break the universe with it.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "systemic spell synergy",
+    "fact": "Daz's spell selection, concentration durability, and escape utility form an interlocking system of battlefield control.",
+    "source_quote": "These were not independent features. They were a system. The Evoker's toolkit is not a collection of separate spells; it is an interlocking argument about where enemies should be, where allies should be, and which parts of a room I am willing to set on fire.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "combat geometry as decisive factor",
+    "fact": "The Underdark has taught repeatedly that battles are often decided by who is standing where.",
+    "source_quote": "The Underdark had taught me repeatedly that battles are often decided by who is standing where.",
+    "quote_verified": true
+  }
+]

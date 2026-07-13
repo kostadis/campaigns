@@ -1,0 +1,149 @@
+[
+  {
+    "type": "npc",
+    "subject": "Phylo",
+    "fact": "Phylo is a myconid sovereign who has become infected by a demonic spore, believes himself to be co-sovereign with Basidia, speaks in gendered terms inconsistent with myconid biology, and has altered the social order of Neverlight Grove by promoting the Circle of Masters and silencing dissent.",
+    "source_quote": "You are safe, friendly softers! You arrive at a wondrous time, for Neverlight Grove is on the verge of something great, something marvelous! Celebrate as the day of joy is nigh!",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Basidia",
+    "fact": "Basidia is a myconid sovereign who suspects Phylo is infected by a demonic spore, fears for the survival of the grove, has secretly provided the party with a scroll of protection against fiends and potions, and reveals that the Circle of Masters is harvesting carcasses and sending myconids outside the grove without authorization.",
+    "source_quote": "The grove is not safe. Another group of 'softers' arrived not too many cycles ago and accepted Phylo\u2019s offer. They were taken to the Garden of Welcome. I haven\u2019t seen them since, nor has Phylo made any further mention of them.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Stool",
+    "fact": "Stool is a goblin follower who was carried by Thorin when tired and now speaks on behalf of Rump-a-dump, repeating distorted narratives about Zalthir and the Circle of Masters, possibly under the influence of demonic spores or manipulated by Phylo\u2019s altered reality.",
+    "source_quote": "Thorin carried him when he was tired, and that Zalthir was always grouchy but a really nice softer, and saved Rump-a-dump.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Rump-a-dump",
+    "fact": "Rump-a-dump is a myconid or humanoid follower who was saved by Zalthir and is now referenced in distorted narratives by Stool; likely a victim or pawn of the Circle of Masters' activities.",
+    "source_quote": "Zalthir was always grouchy but a really nice softer, and saved Rump-a-dump.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is a human who was previously described as grouchy but kind, saved Rump-a-dump, and is now suspected of being infected by demonic spores that have corrupted Sarith and possibly influenced Phylo\u2019s behavior.",
+    "source_quote": "Poor Sarith has been affected by Zuggtomy.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Sarith",
+    "fact": "Sarith is a character infected by Zuggtomy\u2019s demonic spores, whose presence has been detected by Basidia through spore recognition, indicating a connection between the Circle of Masters and the corruption spreading through Neverlight Grove.",
+    "source_quote": "Poor Sarith has been affected by Zuggtomy.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is an observer who recognizes the unnatural gendered language used by Phylo as a sign of demonic corruption, draws parallels to drow co-rulership as a sign of weakness and impending death, and understands the nature of the infecting spore without needing to see it.",
+    "source_quote": "Myconids have no gender, and in general get confused about the topic. The sovereign\u2019s use of a specific gender and consistent use of one particular gender is quite peculiar.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Circle of Masters",
+    "fact": "The Circle of Masters is a rogue faction within Neverlight Grove that has taken control of the Garden of Welcome, is harvesting carcasses from the Circle of Hunters, sending myconids outside the grove in secret, and is likely responsible for the demonic spore infection affecting Phylo and others.",
+    "source_quote": "the Circle of Masters is taking most of the carcasses the Circle of Hunters bring in, and are sending groups of myconids outside the grove without telling anybody.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Circle of Hunters",
+    "fact": "The Circle of Hunters is a functional myconid faction within Neverlight Grove that brings in carcasses, which are now being intercepted and exploited by the Circle of Masters, suggesting a power shift and hidden agenda.",
+    "source_quote": "the Circle of Masters is taking most of the carcasses the Circle of Hunters bring in...",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Neverlight Grove",
+    "fact": "Neverlight Grove is a myconid community under spiritual and biological siege, where social order has been disrupted by the Circle of Masters, the sovereign Phylo is corrupted, and the true ruler Basidia is powerless to act without risking infection.",
+    "source_quote": "Phylo has changed the social order of the community. There are many circles in the Neverlight Grove, and each circle serves a function.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Garden of Welcome",
+    "fact": "The Garden of Welcome is a central location within Neverlight Grove where visitors are taken by Phylo, but it is now a site of capture and corruption, used by the Circle of Masters to process infected myconids and 'softers' into the demonic spore network.",
+    "source_quote": "They were taken to the Garden of Welcome. I haven\u2019t seen them since...",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Neverlight Grove",
+    "fact": "Neverlight Grove is a fungal ecosystem centered around fungal mounds where myconids sleep, now corrupted by demonic spores, hidden transmissions, and a fractured leadership structure between Phylo and Basidia.",
+    "source_quote": "Each circle gathers around a circle mound, which they describe as a pile of rocks and soil upon which mold, lichen, and mushrooms grow.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Eastern Plateau",
+    "fact": "The Eastern Plateau is a forbidden zone in Neverlight Grove, where the Circle of Masters is preparing a wondrous and glorious surprise, likely the activation point of a larger demonic ritual or portal tied to Zuggtomy\u2019s influence.",
+    "source_quote": "But please, don\u2019t visit the eastern plateau because the Circle of the Masters is preparing a wondrous and glorious surprise in the Garden of Welcome.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Moldy Scroll Case",
+    "fact": "A moldy scroll case containing a scroll of protection against fiends, given to the party by Basidia as a tool to survive the corruption of the Garden of Welcome and confront the demonic spore.",
+    "source_quote": "They hands us a moldy scroll case, and inside is a scroll containing a scroll of protection against fiends.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Zuggtomy",
+    "fact": "Zuggtomy is a demonic entity associated with fungal corruption and mind-altering spores, referenced as a goddess by infected characters, and likely the source of the demonic spore infecting Sarith, Zalthir, and Phylo.",
+    "source_quote": "I remember that Zuggtomy is often referred to as she. And I worry.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Demonic Spore Origin",
+    "fact": "The origin of the demonic spore infecting Phylo, Sarith, and the Circle of Masters remains unknown, but its connection to Zuggtomy and its ability to override myconid biology and language suggests a deeper, ancient corruption from beyond the Underdark.",
+    "source_quote": "I have seen this before. There is no mystery what this diseased spore is, its power.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Basidia\u2019s Loyalty",
+    "fact": "Basidia\u2019s willingness to risk everything to save Phylo and stop the corruption suggests she may be hiding her own vulnerability to the spore, or that she is being manipulated by the same force that corrupted Phylo.",
+    "source_quote": "I would go, but I worry I would succumb to the same disease that has affected Phylo.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "The Great Seeder",
+    "fact": "The Great Seeder is a mysterious entity referenced by Phylo as the source of wisdom and help, but is unknown to the party and possibly a myth, a false deity, or the true source of the corruption masquerading as benevolent.",
+    "source_quote": "She lives beyond the Garden. She is a wonderful entity who will help all of us get closer to her beauty!",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "Day of Joy",
+    "fact": "The 'Day of Joy' is a ritual date proclaimed by Phylo, likely tied to the activation of the Circle of Masters' final ritual, possibly coinciding with the arrival of the next group of 'softers' or the full manifestation of Zuggtomy\u2019s influence.",
+    "source_quote": "Celebrate as the day of joy is nigh!",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Myconid Sovereigns\u2019 Power Sharing",
+    "fact": "The co-sovereign relationship between Phylo and Basidia is an unnatural and unstable structure, mirroring the drow 'two in a box' tradition, which historically leads to the death of one or both rulers \u2014 suggesting this is not leadership, but a trap set by the corruption.",
+    "source_quote": "In Menzoberranzan, there were tales of two rulers who shared power. We used the term, \u2018two in a box\u2019 to describe this power sharing.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Spore Recognition Failure",
+    "fact": "Basidia\u2019s inability to recognize the spores of the drow (or infected myconid) indicates a fundamental breach in myconid sensory biology, confirming that the corruption is not natural but foreign and demonic in origin.",
+    "source_quote": "Every myconid sovereign can recognize the spores of any other sovereign in the Underdark. This is strange.",
+    "quote_verified": true
+  }
+]

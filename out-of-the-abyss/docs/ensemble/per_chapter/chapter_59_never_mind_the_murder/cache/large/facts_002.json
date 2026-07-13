@@ -1,0 +1,158 @@
+[
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a drow who can communicate with beasts and was present at the Deadwinter supper where poison was administered; he attempted to analyze the murder weapon but lacked the means to extract its full properties.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is the stealthiest member of the group, who deduced the double-stroke nature of the murder \u2014 framing Daral and killing Janussi \u2014 and identified A'lai Aivenmore as the prime suspect motivated by ideological ambition.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool is an ooze-like entity from Blingdenstone who has learned silence and attempted to grow a nose to detect the poison; it consistently seeks to assist despite its limitations and lack of sensory organs.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Daral",
+    "fact": "Daral is a scholar and poet who gave Janussi the poisoned book, is being framed for the murder, and believes the killer sought to eliminate him as a threat to A'lai Aivenmore's ascension.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "A'lai Aivenmore",
+    "fact": "A'lai Aivenmore is a high-ranking official in Candlekeep who seeks to assume control of the keep; he views Daral's love of fiction and poetry as an ideological threat and is the suspected architect of the double-stroke murder.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Janussi",
+    "fact": "Janussi was a council member murdered by poison administered through a book; his heart was later removed and hidden in the lead-lined Milil chalice to prevent resurrection or questioning.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Irony",
+    "fact": "Irony is a junior avowed who served at the Deadwinter supper and claims to always tell the truth; she witnessed the event and noted Janussi's reaction to Alkrist's project and the gift-giving ritual.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Sprig",
+    "fact": "Sprig is a junior avowed who served food at the Deadwinter supper and acted as the official poison taster; she tasted all dishes before they were served and is a key witness to the absence of food-based poisoning.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Candlekeep Council",
+    "fact": "The Candlekeep Council is a governing body of scholars and mages responsible for determining the direction of magical knowledge; internal power struggles, particularly between Daral and A'lai, led to the murder as a means of political elimination.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Deadwinter Supper",
+    "fact": "The Deadwinter Supper was a formal gathering where poison was administered via a book given to Janussi; gift-giving, shared platters, and the presence of the lead-lined Milil chalice created multiple vectors for concealment and misdirection.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Heart Removal and Chalice Concealment",
+    "fact": "Janussi's heart was removed post-mortem and placed inside the lead-lined Milil chalice to prevent magical resurrection or scrying; this act confirmed the killer had deep knowledge of Candlekeep's magical defenses.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Poison Analysis Attempt",
+    "fact": "Zalthir and Glabbagool attempted to analyze the poison by having Glabbagool grow a nose; the effort failed but demonstrated the group\u2019s commitment to unconventional investigative methods.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Interview with Irony",
+    "fact": "Irony provided critical testimony about the supper's dynamics, including Janussi's praise of Alkrist\u2019s project, the Secret Santa gift exchange, and Sprig\u2019s role as poison taster \u2014 all of which helped eliminate alternative theories.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "The Poisoned Book",
+    "fact": "The poisoned book was given to Janussi by Daral and contained a slow-acting toxin; it was the primary murder weapon and the focal point of the framing scheme against Daral.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Milil's Lead-Lined Chalice",
+    "fact": "The ceremonial chalice of Milil, made of lead-lined brass, was used to conceal Janussi\u2019s heart to block magical detection; its use confirmed the killer\u2019s intimate knowledge of Candlekeep\u2019s magical infrastructure.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Blood-Stained Meat Cleaver",
+    "fact": "Found alongside Janussi\u2019s heart in the chalice, the cleaver suggests ritualistic or symbolic violence; its presence implies the killer intended to send a message beyond mere murder.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Wrapping Paper from Secret Santa",
+    "fact": "The wrapping paper from Janussi\u2019s gift was found in his office, not at the supper; its absence from the scene suggested the gift exchange was a cover for the poison\u2019s delivery or a distraction.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "A'lai's Ascension",
+    "fact": "The political maneuvering behind A'lai Aivenmore\u2019s bid for leadership remains unresolved; his motive is clear, but his direct involvement and methods of execution require further corroboration.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Glabbagool's Sensory Evolution",
+    "fact": "Glabbagool\u2019s attempt to grow a nose raises the possibility of evolving new sensory capabilities; whether this leads to future breakthroughs in detection or merely highlights its tragic determination is an open question.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "The Identity of the Heart's Extractor",
+    "fact": "Who removed Janussi\u2019s heart and placed it in the chalice remains unknown; the act requires post-mortem access and surgical precision, pointing to a second operative or a highly skilled killer.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Candlekeep Dining Hall",
+    "fact": "The southern dining hall is the site of the Deadwinter supper and the later discovery of Janussi\u2019s heart; its layout, statues, and ceremonial objects played key roles in the murder\u2019s concealment and investigation.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Candlekeep Apothecary",
+    "fact": "The apothecary is the suspected source of the poison; its pet squirrel, communicable by Daz, may hold vital clues about the poison\u2019s origin or delivery method.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Janussi's Office",
+    "fact": "Janussi's office contained the wrapping paper from his Secret Santa gift, contradicting its expected location and suggesting tampering or misdirection after the murder.",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "Deadwinter Night",
+    "fact": "The murder occurred on the night of the Deadwinter supper, a traditional Candlekeep holiday marked by feasting, gift-giving, and ritual \u2014 a time of distraction exploited by the killer.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool is an ooze entity with no natural senses, who attempts to assist through adaptive physical changes; despite lacking eyes, nose, or ears, it persists in seeking utility \u2014 a non-human intelligence struggling to comprehend human needs.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is the investigator who uncovered the heart and cleaver in the Milil chalice, deduced the lead-lined concealment, and conducted interviews with junior avowed witnesses; he operates on blunt logic and physical evidence.",
+    "quote_verified": false
+  }
+]

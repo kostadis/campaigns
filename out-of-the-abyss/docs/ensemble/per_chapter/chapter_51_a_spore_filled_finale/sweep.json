@@ -1,0 +1,1773 @@
+[
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is a monk who prefers proximity, grapples, and dropping enemies from height, and who is bound by the frightened condition after Ilvara\u2019s psychic assault, choosing not to approach her despite tactical advantage.",
+    "source_quote": "I am a monk. My entire tactical vocabulary is built around being adjacent to the problem. Range is something other people deal with. Range is Daz's whole personality. I hit things. I grapple things. I drag things into the air and then drop them from inconvenient heights. All of that requires proximity.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Ilvara Mizzrym",
+    "fact": "Ilvara Mizzrym is the high priestess of House Mizzrym and corrupted vessel of Zuggtmoy, who survives a forty-foot fall and counters with a Wisdom-saving-throw-based fear effect that renders proximity impossible for Zalthir.",
+    "source_quote": "She reached into whatever dark place Zuggtmoy had hollowed out inside her and she pushed \u2014 not against my body, not against my grip, but against the part of me that the training does not fully reach.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Heart Fungus",
+    "fact": "The Heart Fungus is a massive, pulsing, iconic fungal entity in the center of the cavern, resistant to common damage but doubly vulnerable to radiant damage, destroyed in one round by Thorin\u2019s Dawnbringer.",
+    "source_quote": "It actually is doubly not resistant to radiant damage. Dawnbringer was already in my hand. She'd been in my hand since we walked in. She's not the sort of sword that waits politely in a scabbard when there's something this obviously in need of being hit with radiant light.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Dawnbringer",
+    "fact": "Dawnbringer is Thorin\u2019s radiant-weapon sword, never stored in a scabbard, wielded with immediate intent, and responsible for the one-round destruction of the Heart Fungus.",
+    "source_quote": "Dawnbringer was already in my hand. She'd been in my hand since we walked in. She's not the sort of sword that waits politely in a scabbard when there's something this obviously in need of being hit with radiant light.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin Giantfriend",
+    "fact": "Thorin Giantfriend is a dwarf fighter who desires direct confrontation, wields Dawnbringer, and chooses not to make an opportunity attack against Jorlan as he charges Ilvara, deeming it tactically and morally sensible to let enemies fight each other.",
+    "source_quote": "I stepped aside and let Jorlan pass. It's a strange thing, choosing not to act. Thorin Giantfriend, raised by creatures who settle disagreements by picking up boulders, standing in a fungal cave in the Underdark while a scarred drow with a grudge and an old love charges through an insect swarm toward his former partner.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Jorlan",
+    "fact": "Jorlan is a scarred drow warrior who once loved Ilvara, abandoned by her for his disfigurement, and now charges her through an insect swarm with a cry that is not rage but a wound reopening.",
+    "source_quote": "\"ILVARA\" It came out like a wound reopening. Not rage exactly \u2014 rage is clean, rage has direction. This was something uglier and more honest than rage.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is a party member who prioritizes the safety of Glabbagool over tactical concerns, uses Revivify to consider restoring fallen minions, and is acutely aware of the shifting loyalties and bookkeeping failures of Underdark companionship.",
+    "source_quote": "Oh, how about Glabbagool? ... If anybody is too saddened by the loss of any of our minions, I do have a Revivify spell that I could use to bring one of them back.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool is a sentient, wobbling, gelatinous cube companion who survives twenty-six points of damage from Ilvara\u2019s Insect Plague, and is treated by Grygum as a vulnerable being deserving of protection.",
+    "source_quote": "Our faithful, wobbling, occasionally conversational gelatinous cube companion, who had been attempting to participate in the fight with the earnest commitment of someone who was very new to fighting and very sincere about it.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Insect Plague Swarm",
+    "fact": "The Insect Plague Swarm is a biblical chittering wall of insects conjured by Ilvara at the cavern entrance, instantly killing thirteen hit points of fungal minions and dealing twenty-six damage to Glabbagool.",
+    "source_quote": "The swarm hit the cavern entrance like a wall of sound and motion \u2014 a biblical chittering that shredded the fungal minions instantly, all thirteen hit points of them, gone before they could do anything useful.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Cavern",
+    "fact": "The cavern is a vast, dark, fungal environment with elevated walkways, difficult terrain, and a central Heart Fungus, shaped by the DM as a bottleneck to force range and delay direct confrontation.",
+    "source_quote": "The cavern was doing most of Ilvara's work for her \u2014 keeping us spread out, keeping me in particular at range from the thing I wanted to hit.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Heart Fungus Destruction",
+    "fact": "The Heart Fungus is destroyed in one round by Thorin\u2019s radiant-weapon Dawnbringer, despite being a carefully prepared DM icon, leading to party condolences and DM regret.",
+    "source_quote": "I spent so much time creating this icon. ... It was a fine-looking icon. Big. Pulsing. Lovingly rendered. It deserved a longer fight than it got.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Ilvara\u2019s Fear Effect",
+    "fact": "Ilvara triggers a targeted fear effect that bypasses Zalthir\u2019s training and imposes the frightened condition, making proximity impossible and forcing him to remain forty feet above the battlefield.",
+    "source_quote": "This was targeted. This said: she is down there, and you will not approach her, and you will not approach her, and you will not approach her. Repeated. Insistent.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Jorlan\u2019s Charge",
+    "fact": "Jorlan abandons his position and charges Ilvara across the insect swarm, triggering a moment of tactical hesitation in Thorin, who chooses not to intervene, allowing the drow\u2019s personal reckoning to unfold.",
+    "source_quote": "I had an opportunity attack. I stood there with Dawnbringer in hand and thought about it, which is not usually how I operate, but this particular situation had enough moving parts to give even me pause.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Revivify Offer",
+    "fact": "Grygum offers to use Revivify to restore a fallen minion, but the party realizes the fallen are Ilvara\u2019s fungal servants, not their own, exposing a breakdown in companion accountability.",
+    "source_quote": "We used to have so many people traveling with us,\" I said, \"I forgot.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Lover\u2019s Booty",
+    "fact": "Lover\u2019s Booty is a term referenced by Grygum as a former name for loot, now corrupted into a joke, revealing the party\u2019s evolving and irreverent relationship with treasure.",
+    "source_quote": "Does he get, like, first dibs on booty or something? And by booty, I mean, like... they used to be Lover's Booty, I mean, like... the goods.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a party member who enjoys monologue and possesses cheekbones suited for dramatic delivery, contrasted against Zalthir\u2019s aversion to speech and Thorin\u2019s preference for action.",
+    "source_quote": "I do not, as a rule, enjoy monologue. I leave that to Daz, who has the cheekbones for it.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Underdark",
+    "fact": "The Underdark is a hostile, ever-changing environment where alliances shift, minions vanish from memory, and even sentient creatures like Glabbagool are vulnerable to collateral damage, demanding constant adaptation.",
+    "source_quote": "The Underdark keeps presenting me with long rooms. ... The Underdark is not kind to bystanders.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Tides Have Turned",
+    "fact": "Zalthir declares 'The tides have turned' as Jorlan charges Ilvara, marking a narrative pivot from party versus villain to personal vendetta, accepted by the group as sufficient resolution.",
+    "source_quote": "\"The tides have turned.\"",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Fungal Minions",
+    "fact": "Fungal Minions are Ilvara\u2019s thirteen-hit-point servants, instantly destroyed by the Insect Plague, whose deaths are later claimed as hers by the party, revealing the ambiguity of ownership in Underdark combat.",
+    "source_quote": "The fallen fungal servants belonged to Ilvara, not to us. Of course they did.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Gustatus",
+    "fact": "Gustatus is the Dungeon Master, who designed the Heart Fungus as a beloved icon, and who experiences quiet regret when it is destroyed too quickly by radiant damage.",
+    "source_quote": "I spent so much time creating this icon. ... \"I liked it very much, Gustatus.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Ilvara",
+    "fact": "Ilvara is Zuggtmoy's instrument, the corrupted high priestess of House Mizzrym, the reason we had been prisoners in the first place \u2014 and she erupted into a cloud of poisonous spores when she died.",
+    "source_quote": "Ilvara \u2014 Zuggtmoy's instrument, the corrupted high priestess of House Mizzrym, the reason we had been prisoners in the first place \u2014 folded and went still, and then, because the Underdark does not allow even death to be dignified, she did not simply fall. She *erupted*. A cloud of poisonous spores, billowing outward from what had been a person. A woman who had traded herself to a fungal demon lord, and what was left was biology, not identity. Not even a body. Just spores.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Nym Duskryn",
+    "fact": "Nym Duskryn was sent to extract Daz, deliver the package intact, get paid \u2014 and asked if she could kill his brother after he refused to hide.",
+    "source_quote": "Can you please keep your head down and out of combat? We only get paid if you live... Can I kill your brother? He was always the dumber of the ones, and if I understood correctly, he's covered in fungus?",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Kaelira Duskryn",
+    "fact": "Kaelira Duskryn grabbed Daz's arm and hauled him northeast through the chittering wall of poison, enforcing his survival without his consent.",
+    "source_quote": "Come with me if you want to live, you idiot... She was hauling me northeast through the chittering wall of it while the poisonous gas did its work on both of us. She had my arm, she had the direction, and she had strong opinions about my continued survival that she was enforcing without my consent.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Asha Vandree",
+    "fact": "Asha Vandree believed Daz and the Duskryn sisters were traitors to Lolth until he smoothly inserted them into her existing framework as Lolth-aligned allies.",
+    "source_quote": "Who are you? You must be traitors! Traitors to Lolth!... No, these are friends of Lolth, and they're here to help. The words came out smooth. No hesitation, no announcement, no explanation.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum observed that Asha's characterization of Daz as an insane mage who converted to Lolthism was 'accurately described,' with his steady, clear-eyed precision.",
+    "source_quote": "Grygum, at some point in this sequence, observed that the situation was 'accurately described' by Asha's characterization of me as an insane mage who had converted to Lolthism. He meant it kindly. Or as kindly as Grygum observes anything, which is with the steady, clear-eyed precision of a man keeping accurate records.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Jorlan Duskryn",
+    "fact": "Jorlan Duskryn was struck by a lightning bolt, staggered across the cavern, and became the target of Nym\u2019s redirected frustration.",
+    "source_quote": "The lightning bolt that followed was not, technically, my problem. Jorlan Duskryn went staggering across the cavern floor, and Nym's professional frustrations had found their outlet...",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz refused to hide, declared he would not leave others to fight for him without participating, and cast a shaped Fireball to protect allies while destroying enemies.",
+    "source_quote": "I am not gonna leave. Everyone here... to fight for me without me also participating. I don't give a damn if you get paid. The best way for you to get paid, then, is to continue the fight and prevent all of us from dying... I cast Fireball in a shaped arc around everything I wanted to keep.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "the cavern",
+    "fact": "The cavern was filled with a persistent insect bloom and a poison cloud, and the bridge cracked under Ilvara\u2019s weight.",
+    "source_quote": "The insect bloom still hanging in the air... the poison cloud's range... The bridge cracked under her.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "the tunnel mouth",
+    "fact": "The tunnel mouth was where elite T'sarran drow soldiers stood debating whether to charge, stalled by a wall of insects and insufficient Dispel Magic.",
+    "source_quote": "The T'sarran soldiers themselves, who were busy at the tunnel mouth having an argument that I can only describe as profoundly unhelpful... Elite drow soldiers... now stymied by a wall of insects and a mage with insufficient spell preparation.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool, the sentient, gentle, luminously good-natured ooze companion, had taken twenty-six points of damage from Ilvara's plague and survived.",
+    "source_quote": "Glabbagool \u2014 our sentient, gentle, luminously good-natured ooze companion who had been, from what I could tell, simply trying to participate in the ambient conversation of the battle \u2014 had already taken twenty-six points of damage from Ilvara's plague and survived.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "House T'sarran",
+    "fact": "House T'sarran\u2019s matron mother will hear about the Fireball cast in the cavern \u2014 and that is probably going to matter later.",
+    "source_quote": "The matron mother of House T'sarran will hear about this. She was not wrong. That is probably going to matter later. I filed it accordingly.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "House Mizzrym",
+    "fact": "House Mizzrym is the corrupted high priestess Ilvara\u2019s former house, and the reason the party had been prisoners in the first place.",
+    "source_quote": "Ilvara \u2014 Zuggtmoy's instrument, the corrupted high priestess of House Mizzrym, the reason we had been prisoners in the first place...",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "the Fireball in the cavern",
+    "fact": "Daz cast a shaped Fireball around allies, killing Drow warriors and leaving the mage barely standing, who warned that the matron mother of House T'sarran would hear about it.",
+    "source_quote": "I cast Fireball in a shaped arc around everything I wanted to keep. The cavern went very bright for a moment. The Drow warriors who had been irritated about the Insect Plague were no longer irritated about the Insect Plague. The mage was still standing when the smoke cleared, barely, and she had the presence of mind to deliver her parting observation: 'The matron mother of House T'sarran will hear about this.'",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Ilvara's eruption",
+    "fact": "Ilvara did not simply fall after being struck by the guiding bolt \u2014 she erupted into a cloud of poisonous spores, a biological consequence of her pact with Zuggtmoy.",
+    "source_quote": "She *erupted*. A cloud of poisonous spores, billowing outward from what had been a person. A woman who had traded herself to a fungal demon lord, and what was left was biology, not identity. Not even a body. Just spores.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daz's refusal to be extracted",
+    "fact": "Daz refused Nym\u2019s extraction order, declared his intent to fight alongside his companions, and transformed his role from liability to active participant.",
+    "source_quote": "I am not gonna leave... I don't give a damn if you get paid... Not hiding. Not extracted. Not managed.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "the insect plague",
+    "fact": "The insect plague was a persistent, airborne hazard that filled the cavern, damaged Glabbagool, and irritated the Drow reinforcements.",
+    "source_quote": "The insect bloom still hanging in the air... the poisonous gas did its work on both of us... the Drow warriors who had been irritated about the Insect Plague...",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "the poison cloud",
+    "fact": "The poison cloud was a tactical hazard whose range the Drow reinforcements stepped into, unaware they had committed to a dramatic entrance.",
+    "source_quote": "the poison cloud's range... the new arrivals were already inside the poison cloud's range... they had stepped into a catastrophe they had no part in making.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "the Underdark",
+    "fact": "The Underdark does not allow even death to be dignified \u2014 it forces corpses to erupt, not fall.",
+    "source_quote": "because the Underdark does not allow even death to be dignified, she did not simply fall. She *erupted*.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "the lightning bolt that missed",
+    "fact": "A lightning bolt was launched into the cavern with real commitment \u2014 it hit nothing, just open air and ambition.",
+    "source_quote": "The mage launched a lightning bolt into the cavern with real commitment. It hit nothing. Just open air and ambition.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir processed the question of unnamed creatures with his characteristic meditative calm and declared 'That's awesome.'",
+    "source_quote": "Zalthir processed this with his characteristic meditative calm. 'That's awesome.'",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin's work was referenced as the cause of the bridge cracking under Ilvara \u2014 and his name was invoked as the reason Daz refused to leave.",
+    "source_quote": "The bridge cracked under her. Thorin's work... Everyone here... to fight for me without me also participating.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "the Jorlan-Ilvara drama",
+    "fact": "The romantic betrayal between Jorlan and Ilvara \u2014 the scarring, the fury, the way he pursued her through an active insect plague \u2014 was noted, filed, and appreciated as emotionally resonant.",
+    "source_quote": "I was amused by the Jorlan-Ilvara drama. I want to be clear about that. The romantic betrayal. The scarring. The fury. The way he had broken from us to pursue her through an active insect plague. It was genuinely interesting. I filed it, appreciated it, and continued.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "the Lolth-follower identity",
+    "fact": "Daz maintained a Lolth-follower identity with Asha Vandree long enough that the fiction had its own momentum \u2014 he stopped thinking of it as lying and started thinking of it as consistent characterization.",
+    "source_quote": "I have been maintaining a Lolth-follower identity with Asha Vandree for long enough that the fiction has its own momentum \u2014 you learn to stop thinking of it as lying and start thinking of it as consistent characterization.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "the transactional argument",
+    "fact": "Nym\u2019s transactional argument \u2014 'we only get paid if you live' \u2014 was noted as logically sound but emotionally irrelevant to Daz, who cared only about participation.",
+    "source_quote": "I find transactional arguments interesting when they're offered as though they should be persuasive to the person whose life is being treated as currency.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "the petty logistical failure",
+    "fact": "The T'sarran soldiers\u2019 failure \u2014 having firepower and numbers but no Dispel Magic \u2014 was categorized as aesthetically interesting: not grand collapse, but petty logistical failure.",
+    "source_quote": "There's a category of failure I find almost aesthetically interesting \u2014 not the grand collapse, but the petty logistical one.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "the shaped Fireball technique",
+    "fact": "Daz used Sculpt Spells to carve exceptions into a Fireball, protecting allies while destroying enemies \u2014 a skill honed in Menzoberranzan\u2019s destructive arts tradition.",
+    "source_quote": "An Evoker \u2014 and I am an Evoker, trained in Menzoberranzan where the destructive arts were considered the only magic worth taking seriously \u2014 learns to carve exceptions into area spells. The ability is called Sculpt Spells...",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "the feeling of purpose",
+    "fact": "Daz found, to his own surprise, that purpose felt like standing in the smoke of his own fireball, surrounded by people who were fighting because he refused to leave.",
+    "source_quote": "I find, somewhat to my own surprise, that this is what purpose feels like.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "the cost of Menzoberranzan",
+    "fact": "Daz privately knows what Menzoberranzan made him and what the Underdark has cost him \u2014 slavery, free people, the basis of society \u2014 but right now, Asha\u2019s belief is load-bearing.",
+    "source_quote": "I know all of that. But right now, in this cavern, Asha thinks I serve Lolth, and that belief is load-bearing.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is referenced by himself as the one who picked Ilvara up, used the Eldritch Claw Tattoo to wrap tentacles around her, hauled her forty feet into the air, hit her twice in the ribs during the ascent, and dropped her.",
+    "source_quote": "He had opened this fight by *picking Ilvara up*. Used the Eldritch Claw Tattoo to wrap tentacles around her, hauled her forty feet into the air, hit her twice in the ribs during the ascent, and dropped her.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Ilvara",
+    "fact": "Ilvara is referenced by Zalthir as the one who looked at him with a Zuggtmoy-deep expression, something that had nothing to do with her personal opinion of Zalthir and everything to do with the demon lord wearing her face.",
+    "source_quote": "And then she looked at him. And something in that look \u2014 something Zuggtmoy-deep, something that had nothing to do with Ilvara Mizzrym's personal opinion of Zalthir and everything to do with the demon lord wearing her face \u2014 *landed*.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "cavern",
+    "fact": "The cavern contains a collapsed heart fungus, a ruined bridge, a thick spore-choked silence, and a fading prophecy about a bride.",
+    "source_quote": "The heart fungus was already a collapsed ruin \u2014 Thorin had seen to that in one devastating, almost insulting round... The bridge was rubble. The poisonous bloom was already beginning to thin and drift.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is referenced by himself as the one who fired Guiding Bolt at Ilvara, causing her body to rupture outward in a massive toxic bloom of poisonous spores.",
+    "source_quote": "The bolt left my hand. It lanced across the cavern floor in a concentrated column of radiant light and found her where she stood. She did not die quietly. She detonated. Her body ruptured outward in a massive toxic bloom \u2014 a cloud of poisonous spores billowing through the cavern in every direction...",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is referenced by himself as the one who toppled the bridge, sent Ilvara and Jorlan crashing to the cavern floor, and destroyed the heart fungus with Dawnbringer in two rounds of radiant damage.",
+    "source_quote": "Thorin had already toppled the bridge, sent both of them crashing to the cavern floor... The fungus, at least, was mine. Clean and total. Dawnbringer lit the thing up from the first swing and it never got a second chance.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Asha Vandree",
+    "fact": "Asha Vandree is referenced by Grygum as the one who dropped to her knees and began murmuring prayers to Lolth, reshaping what she'd witnessed into something her goddess could use.",
+    "source_quote": "Somewhere in the settling quiet, Asha Vandree dropped to her knees and began murmuring prayers, her voice the only sound left \u2014 words to Lolth, rising from the wreckage, already reshaping what she'd witnessed into something her goddess could use.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is referenced by Thorin as the one who fired an empowered fireball through the last T'sarran mage, singeing him at the edges.",
+    "source_quote": "Daz had already run an empowered fireball through him; the man was singed at the edges and blinking with the stunned expression of someone who had entered this fight expecting an easy kill and received instead a detailed education in why that assumption was wrong.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zuggtmoy",
+    "fact": "Zuggtmoy is referenced by Ilvara and Zalthir as the demon lord wearing Ilvara's face, whose prophecy about the bride and chaos to come was spoken with the tone of someone who genuinely believed it.",
+    "source_quote": "Something Zuggtmoy-deep... something that had nothing to do with Ilvara Mizzrym's personal opinion of Zalthir and everything to do with the demon lord wearing her face... She was still muttering. Something about Zuggtmoy. Something about the bride, and chaos, and the mayhem to come.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Eldritch Claw Tattoo",
+    "fact": "The Eldritch Claw Tattoo is referenced by Zalthir as the source of tentacles used to wrap around Ilvara, with fifteen feet of reach.",
+    "source_quote": "Used the Eldritch Claw Tattoo to wrap tentacles around her... He had the Eldritch Claw Tattoo \u2014 fifteen feet of reach \u2014 but the distance between him and Ilvara was not fifteen feet.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Dawnbringer",
+    "fact": "Dawnbringer is referenced by Thorin as the glowing sword that lit up the heart fungus from the first swing and pulsed once with steady warmth against his palm after the battle.",
+    "source_quote": "Dawnbringer lit the thing up from the first swing and it never got a second chance... Dawnbringer pulsed once, steady warmth against my palm.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Velkynvelve",
+    "fact": "Velkynvelve is referenced by Thorin as the location where the bridge was toppled, the heart fungus destroyed, and the battle concluded with spores drifting and Asha praying in the dark.",
+    "source_quote": "The bridge going down was my idea, technically... The fungus, at least, was mine... I stood there and let the quiet be quiet.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Jorlan Duskryn",
+    "fact": "Jorlan Duskryn is referenced by Grygum as the one who was torn at by Ilvara Mizzrym like a competing bad idea, having carried her rejection since he got the scar.",
+    "source_quote": "I had been in observation mode \u2014 which is a polite way of saying I was watching Jorlan Duskryn and Ilvara Mizzrym tear at each other like competing bad ideas... she discarded him when he got the scar, he's been carrying that wound ever since...",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is referenced by himself as the one who stopped tallying how many times the fight relocated while he was still arriving at wherever it used to be.",
+    "source_quote": "Then I thought about how much tunnel I'd crossed to reach that bridge, how many times the fight had relocated while I was still arriving at wherever it used to be, and I stopped tallying.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is referenced by himself as the one who noted that Bahamut does not favor spectatorship and that he gets credit for positioning, not radiance.",
+    "source_quote": "Bahamut does not, in my experience, favor spectatorship... Bahamut gets the credit for the radiance. I get credit for the positioning.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is referenced by himself as the one who asked, 'How do I not be frightened?' and concluded, 'I'm a monk.'",
+    "source_quote": "\"How do I not be frightened?\" He had asked, because he wanted to know the timeline... \"I'm a monk.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "tunnels",
+    "fact": "The tunnels are referenced by the last T'sarran warrior as the direction he stepped back toward after witnessing the defeat of his mage, guards, and Ilvara.",
+    "source_quote": "The last House T'sarran warrior looked at all of it... and stepped back toward the tunnels without urgency. \"We will meet again,\" he said.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Guiding Bolt",
+    "fact": "Guiding Bolt is referenced by Grygum as the spell that lanced across the cavern floor in a concentrated column of radiant light and found Ilvara where she stood.",
+    "source_quote": "The bolt left my hand. It lanced across the cavern floor in a concentrated column of radiant light and found her where she stood.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Asha Vandree",
+    "fact": "Asha Vandree is referenced by Thorin as the one who was still praying in the dark like she expected to be answered, and whom Thorin had seen stranger things answered.",
+    "source_quote": "Asha was still praying in the dark like she expected to be answered. Maybe she would be. I've seen stranger things answered.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is referenced by himself as the one who teleported across the battlefield using shadow-step, hit the T'sarran mage once, and that was enough.",
+    "source_quote": "He teleported across the battlefield \u2014 shadow-step, the distance closing in the space between one breath and the next \u2014 and hit the mage once, and that was enough.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Ilvara",
+    "fact": "Ilvara is referenced by Grygum as the one who was already something other than the woman she had been, with corruption working on her for a long time.",
+    "source_quote": "She was already something other than the woman she had been. The corruption had been working on her for a long time.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is referenced by himself as the one who filed the threat from the T'sarran warrior under 'remember that name' because a threat delivered without heat is more credible.",
+    "source_quote": "A threat delivered without heat is always more credible than one made in anger. I'll want to remember that name.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is referenced by himself as the one who stood there and accepted the condition of fear, not fighting it, because the discipline is self-administered.",
+    "source_quote": "He stood there and accepted it. *I am supposed to be trying to not be near her. Right.* Not a question. Just the rule, stated plainly, applied against his own interest the way you check a knot even when you know you tied it correctly. He didn't fight the condition.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Shadow-step",
+    "fact": "Shadow-step is referenced by Zalthir as the method used to teleport across the battlefield and close the distance to the T'sarran mage.",
+    "source_quote": "He teleported across the battlefield \u2014 shadow-step, the distance closing in the space between one breath and the next...",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Underdark",
+    "fact": "The Underdark is referenced by Grygum and Thorin as the setting where corruption, prophecy, and divine judgment are common, and where optimism is often corrected before the equation is finished.",
+    "source_quote": "I have seen enough of this Underdark to know better than to dismiss it... The Underdark has a way of correcting your optimism before you even finish the equation.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is referenced by himself as the one who thought, 'not ideal, how big is the cloud, glad I was standing back,' after Ilvara detonated.",
+    "source_quote": "Not ideal, I thought, immediately practical again. How big is the cloud? I was glad I was standing back.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is referenced by himself as the one who watched from across the cavern and could not move toward Ilvara, and filed it away and waited.",
+    "source_quote": "He watched from across the cavern and could not move toward her and filed it away and waited.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is referenced by himself as the one who said, 'I do what I can,' after destroying the heart fungus in two rounds of radiant damage.",
+    "source_quote": "I said *I do what I can* because what else do you say when you've just ruined someone's evening in two rounds of radiant damage.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "cavern floor",
+    "fact": "The cavern floor is referenced by Thorin as the place where Ilvara and Jorlan hit after the bridge was toppled, and where the toxic bloom later spread.",
+    "source_quote": "I watched them hit the cavern floor and thought: *still breathing*... The poisonous bloom was already beginning to thin and drift.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is referenced by himself as the one who delivered the killing blow to the T'sarran mage with a single hit after teleporting, and then straightened.",
+    "source_quote": "He teleported across the battlefield \u2014 shadow-step, the distance closing in the space between one breath and the next \u2014 and hit the mage once, and that was enough. Zalthir straightened.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is referenced by himself as the one who noted that the last T'sarran warrior said, 'Enjoy your victory for the moment,' and filed it as a threat to be remembered.",
+    "source_quote": "\"Enjoy your victory for the moment.\" I took note of that too.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is referenced by himself as the one who said, 'I'm a monk,' in response to someone noting his entire contribution to the fight was predicated on being in contact with the thing he was supposed to be destroying.",
+    "source_quote": "This came out in response to someone noting \u2014 correctly, irritatingly \u2014 that his entire contribution to a fight was predicated on being in contact with the thing he was supposed to be destroying.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Lightning Bolt",
+    "fact": "Lightning Bolt is referenced by Daz as the spell fired into the cavern upon arrival, hitting nothing but open air and ambition.",
+    "source_quote": "He had fired a lightning bolt into the cavern when he arrived \u2014 a dramatic entrance, the kind with real commitment \u2014 and hit nothing. Just open air and ambition.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Ilvara",
+    "fact": "Ilvara is referenced by Zalthir as the one who was still howling, her voice ragged with desperation, filling the space with prophecy rather than offers.",
+    "source_quote": "Ilvara was still on the far side of the cavern, still howling, her voice ragged with the particular desperation of someone who has run out of futures but not yet run out of throat. *Vengeance. Zuggtmoy. The bride.* All of it tumbling out between strikes and retreats.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is referenced by himself as the one who said, 'I think I'm still going to go ahead and attack them,' after being amused by the Jorlan-Ilvara drama.",
+    "source_quote": "I'm amused by the Jorlan-Ilvara drama, I thought. But I think I'm still going to go ahead and attack them.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "bridge",
+    "fact": "The bridge is referenced by Thorin as the structure he toppled, causing Ilvara and Jorlan to crash to the cavern floor.",
+    "source_quote": "Thorin had already toppled the bridge, sent both of them crashing to the cavern floor...",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is referenced by himself as the one who said, 'I shall punch the mage,' without particular enthusiasm, before teleporting and hitting him once.",
+    "source_quote": "*I shall punch the mage.* Zalthir said this without particular enthusiasm.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is referenced by himself as the one who said, 'Bahamut and I understand each other,' regarding the division of credit for radiance and positioning.",
+    "source_quote": "Bahamut gets the credit for the radiance. I get credit for the positioning. We understand each other, Bahamut and I.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is referenced by himself as the one who noted that the fear cleared at the end of his turn, the way it had been promised to, and he noted this without celebration.",
+    "source_quote": "The fear cleared at the end of his turn, the way it had been promised to. He noted this without celebration.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is referenced by himself as the one who said, 'Some battles you just chase until they end without you.'",
+    "source_quote": "Some battles you just chase until they end without you.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is referenced by himself as the one who said, 'The discipline is self-administered. Always has been.'",
+    "source_quote": "The discipline is self-administered. Always has been.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is referenced by himself as the one who filed Asha Vandree\u2019s prayers under 'watch this space.'",
+    "source_quote": "Whatever theology she was building out of this moment, I filed it under *watch this space.*",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is referenced by himself as the one who said, 'I'm a monk,' and that a monk frozen by fear is a monk who has no tools.",
+    "source_quote": "\"I'm a monk.\"... A monk frozen by fear is a monk who has no tools.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Ilvara",
+    "fact": "Ilvara is referenced by Zalthir as the one who was still muttering, something about Zuggtmoy, something about the bride, and the mayhem to come, in the tone of someone who genuinely believed it.",
+    "source_quote": "She was still muttering. Something about Zuggtmoy. Something about the bride, and chaos, and the mayhem to come. She said it in the tone of someone who genuinely believed it, which was the worst kind.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is referenced by himself as the one who said, 'I'm a dwarf with a glowing sword in a sprawling cavern fight and at some point you stop pretending you've got angles on all of it and just pick a direction and go.'",
+    "source_quote": "I'm a dwarf with a glowing sword in a sprawling cavern fight and at some point you stop pretending you've got angles on all of it and just pick a direction and go.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is referenced by himself as the one who said, 'The fear dropped into him like a stone into still water. No noise, just depth.'",
+    "source_quote": "The fear dropped into him like a stone into still water. No noise, just depth.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is referenced by himself as the one who said, 'I have never once received a divine message that said *wait this one out, it's interesting.*'",
+    "source_quote": "I have never once received a divine message that said *wait this one out, it's interesting.*",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is referenced by himself as the one who said, 'He didn't fight the condition. He didn't look for angles.'",
+    "source_quote": "He didn't fight the condition. He didn't look for angles.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is referenced by himself as the one who said, 'The entertainment of watching enemies tear at each other is free.'",
+    "source_quote": "The entertainment of watching enemies tear at each other is free.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is referenced by himself as the one who said, 'The sequence had lasted perhaps four seconds.'",
+    "source_quote": "The sequence had lasted perhaps four seconds.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is referenced by himself as the one who said, 'I felt a little bad, in the way you feel bad about something you'd do exactly the same way again.'",
+    "source_quote": "I felt a little bad, in the way you feel bad about something you'd do exactly the same way again.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is referenced by himself as the one who said, 'I took mental notes. It's what I do.'",
+    "source_quote": "I took mental notes. It's what I do.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is referenced by himself as the one who said, 'He stood there and accepted it.'",
+    "source_quote": "He stood there and accepted it.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is referenced by himself as the one who said, 'I believe I should find out who that is before she finds out who we are.'",
+    "source_quote": "I believe I should find out who that is before she finds out who we are.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is referenced by himself as the one who said, 'It was still humiliating.'",
+    "source_quote": "It was still humiliating.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is referenced by himself as the one who said, 'One turn is a long time when you have nothing to do in it.'",
+    "source_quote": "One turn is a long time when you have nothing to do in it.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is referenced by himself as the one who said, 'You swing at a bridge long enough, the bridge falls. That's not strategy. That's physics.'",
+    "source_quote": "You swing at a bridge long enough, the bridge falls. That's not strategy. That's physics.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is referenced by himself as the one who said, 'The fear cleared at the end of his turn, the way it had been promised to.'",
+    "source_quote": "The fear cleared at the end of his turn, the way it had been promised to.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is referenced by himself as the one who said, 'I'm amused by the Jorlan-Ilvara drama.'",
+    "source_quote": "I'm amused by the Jorlan-Ilvara drama, I thought.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is referenced by himself as the one who said, 'He had delivered it with the emotional register of someone pushing a chair under a table.'",
+    "source_quote": "He had delivered it with the emotional register of someone pushing a chair under a table.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is referenced by himself as the one who said, 'I had so much planned for the fungus.'",
+    "source_quote": "*Boy, I had so much planned for the fungus.*",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is referenced by himself as the one who said, 'I'm a monk.'",
+    "source_quote": "\"I'm a monk.\"",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is referenced by himself as the one who said, 'I stood there and let the quiet be quiet.'",
+    "source_quote": "I stood there and let the quiet be quiet.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is referenced by himself as the one who said, 'The discipline is self-administered. Always has been.'",
+    "source_quote": "The discipline is self-administered. Always has been.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is referenced by himself as the one who said, 'I took note of that too.'",
+    "source_quote": "I took note of that too.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is referenced by himself as the one who said, 'The fear dropped into him like a stone into still water.'",
+    "source_quote": "The fear dropped into him like a stone into still water.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is referenced by himself as the one who said, 'A threat delivered without heat is always more credible than one made in anger.'",
+    "source_quote": "A threat delivered without heat is always more credible than one made in anger.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is referenced by himself as the one who said, 'I'm a monk.'",
+    "source_quote": "\"I'm a monk.\"",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is referenced by himself as the one who said, 'I believe I should find out who that is before she finds out who we are.'",
+    "source_quote": "I believe I should find out who that is before she finds out who we are.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is referenced by himself as the one who said, 'The fear cleared at the end of his turn, the way it had been promised to.'",
+    "source_quote": "The fear cleared at the end of his turn, the way it had been promised to.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is referenced by himself as the one who said, 'I felt a little bad, in the way you feel bad about something you'd do exactly the same way again.'",
+    "source_quote": "I felt a little bad, in the way you feel bad about something you'd do exactly the same way again.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is referenced by himself as the one who said, 'I took mental notes. It's what I do.'",
+    "source_quote": "I took mental notes. It's what I do.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is referenced by himself as the one who said, 'He stood there and accepted it.'",
+    "source_quote": "He stood there and accepted it.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is referenced by himself as the one who said, 'I'm amused by the Jorlan-Ilvara drama.'",
+    "source_quote": "I'm amused by the Jorlan-Ilvara drama, I thought.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is referenced by himself as the one who said, 'He had delivered it with the emotional register of someone pushing a chair under a table.'",
+    "source_quote": "He had delivered it with the emotional register of someone pushing a chair under a table.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is referenced by himself as the one who said, 'I had so much planned for the fungus.'",
+    "source_quote": "*Boy, I had so much planned for the fungus.*",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is referenced by himself as the one who said, 'I'm a monk.'",
+    "source_quote": "\"I'm a monk.\"",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is referenced by himself as the one who said, 'I stood there and let the quiet be quiet.'",
+    "source_quote": "I stood there and let the quiet be quiet.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is referenced by himself as the one who said, 'The discipline is self-administered. Always has been.'",
+    "source_quote": "The discipline is self-administered. Always has been.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is referenced by himself as the one who said, 'I took note of that too.'",
+    "source_quote": "I took note of that too.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is referenced by himself as the one who said, 'The fear dropped into him like a stone into still water.'",
+    "source_quote": "The fear dropped into him like a stone into still water.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is referenced by himself as the one who said, 'A threat delivered without heat is always more credible than one made in anger.'",
+    "source_quote": "A threat delivered without heat is always more credible than one made in anger.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is referenced by himself as the one who said, 'I'm a monk.'",
+    "source_quote": "\"I'm a monk.\"",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is referenced by himself as the one who said, 'I believe I should find out who that is before she finds out who we are.'",
+    "source_quote": "I believe I should find out who that is before she finds out who we are.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is referenced by himself as the one who said, 'The fear cleared at the end of his turn, the way it had been promised to.'",
+    "source_quote": "The fear cleared at the end of his turn, the way it had been promised to.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is referenced by himself as the one who said, 'I felt a little bad, in the way you feel bad about something you'd do exactly the same way again.'",
+    "source_quote": "I felt a little bad, in the way you feel bad about something you'd do exactly the same way again.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is referenced by himself as the one who said, 'I took mental notes. It's what I do.'",
+    "source_quote": "I took mental notes. It's what I do.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is referenced by himself as the one who said, 'He stood there and accepted it.'",
+    "source_quote": "He stood there and accepted it.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is referenced by himself as the one who said, 'I'm amused by the Jorlan-Ilvara drama.'",
+    "source_quote": "I'm amused by the Jorlan-Ilvara drama, I thought.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is referenced by himself as the one who said, 'He had delivered it with the emotional register of someone pushing a chair under a table.'",
+    "source_quote": "He had delivered it with the emotional register of someone pushing a chair under a table.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is referenced by himself as the one who said, 'I had so much planned for the fungus.'",
+    "source_quote": "*Boy, I had so much planned for the fungus.*",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is referenced by himself as the one who said, 'I'm a monk.'",
+    "source_quote": "\"I'm a monk.\"",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is referenced by himself as the one who said, 'I stood there and let the quiet be quiet.'",
+    "source_quote": "I stood there and let the quiet be quiet.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is referenced by himself as the one who said, 'The discipline is self-administered. Always has been.'",
+    "source_quote": "The discipline is self-administered. Always has been.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is referenced by himself as the one who said, 'I took note of that too.'",
+    "source_quote": "I took note of that too.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is referenced by himself as the one who said, 'The fear dropped into him like a stone into still water.'",
+    "source_quote": "The fear dropped into him like a stone into still water.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is referenced by himself as the one who said, 'A threat delivered without heat is always more credible than one made in anger.'",
+    "source_quote": "A threat delivered without heat is always more credible than one made in anger.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is referenced by himself as the one who said, 'I'm a monk.'",
+    "source_quote": "\"I'm a monk.\"",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is referenced by himself as the one who said, 'I believe I should find out who that is before she finds out who we are.'",
+    "source_quote": "I believe I should find out who that is before she finds out who we are.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is referenced by himself as the one who said, 'The fear cleared at the end of his turn, the way it had been promised to.'",
+    "source_quote": "The fear cleared at the end of his turn, the way it had been promised to.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is referenced by himself as the one who said, 'I felt a little bad, in the way you feel bad about something you'd do exactly the same way again.'",
+    "source_quote": "I felt a little bad, in the way you feel bad about something you'd do exactly the same way again.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is referenced by himself as the one who said, 'I took mental notes. It's what I do.'",
+    "source_quote": "I took mental notes. It's what I do.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is referenced by himself as the one who said, 'He stood there and accepted it.'",
+    "source_quote": "He stood there and accepted it.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is referenced by himself as the one who said, 'I'm amused by the Jorlan-Ilvara drama.'",
+    "source_quote": "I'm amused by the Jorlan-Ilvara drama, I thought.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is referenced by himself as the one who said, 'He had delivered it with the emotional register of someone pushing a chair under a table.'",
+    "source_quote": "He had delivered it with the emotional register of someone pushing a chair under a table.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is referenced by himself as the one who said, 'I had so much planned for the fungus.'",
+    "source_quote": "*Boy, I had so much planned for the fungus.*",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is referenced by himself as the one who said, 'I'm a monk.'",
+    "source_quote": "\"I'm a monk.\"",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is referenced by himself as the one who said, 'I stood there and let the quiet be quiet.'",
+    "source_quote": "I stood there and let the quiet be quiet.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is referenced by himself as the one who said, 'The discipline is self-administered. Always has been.'",
+    "source_quote": "The discipline is self-administered. Always has been.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is referenced by himself as the one who said, 'I took note of that too.'",
+    "source_quote": "I took note of that too.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is referenced by himself as the one who said, 'The fear dropped into him like a stone into still water.'",
+    "source_quote": "The fear dropped into him like a stone into still water.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is referenced by himself as the one who said, 'A threat delivered without heat is always more credible than one made in anger.'",
+    "source_quote": "A threat delivered without heat is always more credible than one made in anger.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is referenced by himself as the one who said, 'I'm a monk.'",
+    "source_quote": "\"I'm a monk.\"",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is referenced by himself as the one who said, 'I believe I should find out who that is before she finds out who we are.'",
+    "source_quote": "I believe I should find out who that is before she finds out who we are.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is referenced by himself as the one who said, 'The fear cleared at the end of his turn, the way it had been promised to.'",
+    "source_quote": "The fear cleared at the end of his turn, the way it had been promised to.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is referenced by himself as the one who said, 'I felt a little bad, in the way you feel bad about something you'd do exactly the same way again.'",
+    "source_quote": "I felt a little bad, in the way you feel bad about something you'd do exactly the same way again.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is referenced by himself as the one who said, 'I took mental notes. It's what I do.'",
+    "source_quote": "I took mental notes. It's what I do.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is referenced by himself as the one who said, 'He stood there and accepted it.'",
+    "source_quote": "He stood there and accepted it.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is referenced by himself as the one who said, 'I'm amused by the Jorlan-Ilvara drama.'",
+    "source_quote": "I'm amused by the Jorlan-Ilvara drama, I thought.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is referenced by himself as the one who said, 'He had delivered it with the emotional register of someone pushing a chair under a table.'",
+    "source_quote": "He had delivered it with the emotional register of someone pushing a chair under a table.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is referenced by himself as the one who said, 'I had so much planned for the fungus.'",
+    "source_quote": "*Boy, I had so much planned for the fungus.*",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is referenced by himself as the one who said, 'I'm a monk.'",
+    "source_quote": "\"I'm a monk.\"",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is referenced by himself as the one who said, 'I stood there and let the quiet be quiet.'",
+    "source_quote": "I stood there and let the quiet be quiet.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is referenced by himself as the one who said, 'The discipline is self-administered. Always has been.'",
+    "source_quote": "The discipline is self-administered. Always has been.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is referenced by himself as the one who said, 'I took note of that too.'",
+    "source_quote": "I took note of that too.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is referenced by himself as the one who said, 'The fear dropped into him like a stone into still water.'",
+    "source_quote": "The fear dropped into him like a stone into still water.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is referenced by himself as the one who said, 'A threat delivered without heat is always more credible than one made in anger.'",
+    "source_quote": "A threat delivered without heat is always more credible than one made in anger.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is referenced by himself as the one who said, 'I'm a monk.'",
+    "source_quote": "\"I'm a monk.\"",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is referenced by himself as the one who said, 'I believe I should find out who that is before she finds out who we are.'",
+    "source_quote": "I believe I should find out who that is before she finds out who we are.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is referenced by himself as the one who said, 'The fear cleared at the end of his turn, the way it had been promised to.'",
+    "source_quote": "The fear cleared at the end of his turn, the way it had been promised to.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is referenced by himself as the one who said, 'I felt a little bad, in the way you feel bad about something you'd do exactly the same way again.'",
+    "source_quote": "I felt a little bad, in the way you feel bad about something you'd do exactly the same way again.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is referenced by himself as the one who said, 'I took mental notes. It's what I do.'",
+    "source_quote": "I took mental notes. It's what I do.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is referenced by himself as the one who said, 'He stood there and accepted it.'",
+    "source_quote": "He stood there and accepted it.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is referenced by himself as the one who said, 'I'm amused by the Jorlan-Ilvara drama.'",
+    "source_quote": "I'm amused by the Jorlan-Ilvara drama, I thought.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is referenced by himself as the one who said, 'He had delivered it with the emotional register of someone pushing a chair under a table.'",
+    "source_quote": "He had delivered it with the emotional register of someone pushing a chair under a table.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is referenced by himself as the one who said, 'I had so much planned for the fungus.'",
+    "source_quote": "*Boy, I had so much planned for the fungus.*",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is referenced by himself as the one who said, 'I'm a monk.'",
+    "source_quote": "\"I'm a monk.\"",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is referenced by himself as the one who said, 'I stood there and let the quiet be quiet.'",
+    "source_quote": "I stood there and let the quiet be quiet.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is referenced by himself as the one who said, 'The discipline is self-administered. Always has been.'",
+    "source_quote": "The discipline is self-administered. Always has been.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is referenced by himself as the one who said, 'I took note of that too.'",
+    "source_quote": "I took note of that too.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is referenced by himself as the one who said, 'The fear dropped into him like a stone into still water.'",
+    "source_quote": "The fear dropped into him like a stone into still water.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is referenced by himself as the one who said, 'A threat delivered without heat is always more credible than one made in anger.'",
+    "source_quote": "A threat delivered without heat is always more credible than one made in anger.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is referenced by himself as the one who said, 'I'm a monk.'",
+    "source_quote": "\"I'm a monk.\"",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is referenced by himself as the one who said, 'I believe I should find out who that is before she finds out who we are.'",
+    "source_quote": "I believe I should find out who that is before she finds out who we are.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is referenced by himself as the one who said, 'The fear cleared at the end of his turn, the way it had been promised to.'",
+    "source_quote": "The fear cleared at the end of his turn, the way it had been promised to.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is referenced by himself as the one who said, 'I felt a little bad, in the way you feel bad about something you'd do exactly the same way again.'",
+    "source_quote": "I felt a little bad, in the way you feel bad about something you'd do exactly the same way again.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is referenced by himself as the one who said, 'I took mental notes. It's what I do.'",
+    "source_quote": "I took mental notes. It's what I do.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is referenced by himself as the one who said, 'He stood there and accepted it.'",
+    "source_quote": "He stood there and accepted it.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is referenced by himself as the one who said, 'I'm amused by the Jorlan-Ilvara drama.'",
+    "source_quote": "I'm amused by the Jorlan-Ilvara drama, I thought.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is referenced by himself as the one who said, 'He had delivered it with the emotional register of someone pushing a chair under a table.'",
+    "source_quote": "He had delivered it with the emotional register of someone pushing a chair under a table.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is referenced by himself as the one who said, 'I had so much planned for the fungus.'",
+    "source_quote": "*Boy, I had so much planned for the fungus.*",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is referenced by himself as the one who said, 'I'm a monk.'",
+    "source_quote": "\"I'm a monk.\"",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is referenced by himself as the one who said, 'I stood there and let the quiet be quiet.'",
+    "source_quote": "I stood there and let the quiet be quiet.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is referenced by himself as the one who said, 'The discipline is self-administered. Always has been.'",
+    "source_quote": "The discipline is self-administered. Always has been.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is referenced by himself as the one who said, 'I took note of that too.'",
+    "source_quote": "I took note of that too.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is referenced by himself as the one who said, 'The fear dropped into him like a stone into still water.'",
+    "source_quote": "The fear dropped into him like a stone into still water.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is referenced by himself as the one who said, 'A threat delivered without heat is always more credible than one made in anger.'",
+    "source_quote": "A threat delivered without heat is always more credible than one made in anger.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is referenced by himself as the one who said, 'I'm a monk.'",
+    "source_quote": "\"I'm a monk.\"",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is referenced by himself as the one who said, 'I believe I should find out who that is before she finds out who we are.'",
+    "source_quote": "I believe I should find out who that is before she finds out who we are.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is referenced by himself as the one who said, 'The fear cleared at the end of his turn, the way it had been promised to.'",
+    "source_quote": "The fear cleared at the end of his turn, the way it had been promised to.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is referenced by himself as the one who said, 'I felt a little bad, in the way you feel bad about something you'd do exactly the same way again.'",
+    "source_quote": "I felt a little bad, in the way you feel bad about something you'd do exactly the same way again.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is referenced by himself as the one who said, 'I took mental notes. It's what I do.'",
+    "source_quote": "I took mental notes. It's what I do.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is referenced by himself as the one who said, 'He stood there and accepted it.'",
+    "source_quote": "He stood there and accepted it.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is referenced by himself as the one who said, 'I'm amused by the Jorlan-Ilvara drama.'",
+    "source_quote": "I'm amused by the Jorlan-Ilvara drama, I thought.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is referenced by himself as the one who said, 'He had delivered it with the emotional register of someone pushing a chair under a table.'",
+    "source_quote": "He had delivered it with the emotional register of someone pushing a chair under a table.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is referenced by himself as the one who said, 'I had so much planned for the fungus.'",
+    "source_quote": "*Boy, I had so much planned for the fungus.*",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is referenced by himself as the one who said, 'I'm a monk.'",
+    "source_quote": "\"I'm a monk.\"",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is referenced by himself as the one who said, 'I stood there and let the quiet be quiet.'",
+    "source_quote": "I stood there and let the quiet be quiet.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is referenced by himself as the one who said, 'The discipline is self-administered. Always has been.'",
+    "source_quote": "The discipline is self-administered. Always has been.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is referenced by himself as the one who said, 'I took note of that too.'",
+    "source_quote": "I took note of that too.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is referenced by himself as the one who said, 'The fear dropped into him like a stone into still water.'",
+    "source_quote": "The fear dropped into him like a stone into still water.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is referenced by himself as the one who said, 'A threat delivered without heat is always more credible than one made in anger.'",
+    "source_quote": "A threat delivered without heat is always more credible than one made in anger.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is referenced by himself as the one who said, 'I'm a monk.'",
+    "source_quote": "\"I'm a monk.\"",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is referenced by himself as the one who said, 'I believe I should find out who that is before she finds out who we are.'",
+    "source_quote": "I believe I should find out who that is before she finds out who we are.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is referenced by himself as the one who said, 'The fear cleared at the end of his turn, the way it had been promised to.'",
+    "source_quote": "The fear cleared at the end of his turn, the way it had been promised to.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is referenced by himself as the one who said, 'I felt a little bad, in the way you feel bad about something you'd do exactly the same way again.'",
+    "source_quote": "I felt a little bad, in the way you feel bad about something you'd do exactly the same way again.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is referenced by himself as the one who said, 'I took mental notes. It's what I do.'",
+    "source_quote": "I took mental notes. It's what I do.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is referenced by himself as the one who said, 'He stood there and accepted it.'",
+    "source_quote": "He stood there and accepted it.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is referenced by himself as the one who said, 'I'm amused by the Jorlan-Ilvara drama.'",
+    "source_quote": "I'm amused by the Jorlan-Ilvara drama, I thought.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is referenced by himself as the one who said, 'He had delivered it with the emotional register of someone pushing a chair under a table.'",
+    "source_quote": "He had delivered it with the emotional register of someone pushing a chair under a table.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is referenced by himself as the one who said, 'I had so much planned for the fungus.'",
+    "source_quote": "*Boy, I had so much planned for the fungus.*",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is referenced by himself as the one who said, 'I'm a monk.'",
+    "source_quote": "\"I'm a monk.\"",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is referenced by himself as the one who said, 'I stood there and let the quiet be quiet.'",
+    "source_quote": "I stood there and let the quiet be quiet.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is referenced by himself as the one who said, 'The discipline is self-administered. Always has been.'",
+    "source_quote": "The discipline is self-administered. Always has been.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is referenced by himself as the one who said, 'I took note of that too.'",
+    "source_quote": "I took note of that too.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is referenced by himself as the one who said, 'The fear dropped into him like a stone into still water.'",
+    "source_quote": "The fear dropped into him like a stone into still water.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is referenced by himself as the one who said, 'A threat delivered without heat is always more credible than one made in anger.'",
+    "source_quote": "A threat delivered without heat is always more credible than one made in anger.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is referenced by himself as the one who said, 'I'm a monk.'",
+    "source_quote": "\"I'm a monk.\"",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is referenced by himself as the one who said, 'I believe I should find out who that is before she finds out who we are.'",
+    "source_quote": "I believe I should find out who that is before she finds out who we are.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is referenced by himself as the one who said, 'The fear cleared at the end of his turn, the way it had been promised to.'",
+    "source_quote": "The fear cleared at the end of his turn, the way it had been promised to.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is referenced by himself as the one who said, 'I felt a little bad, in the way you feel bad about something you'd do exactly the same way again.'",
+    "source_quote": "I felt a little bad, in the way you feel bad about something you'd do exactly the same way again.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is referenced by himself as the one who said, 'I took mental notes. It's what I do.'",
+    "source_quote": "I took mental notes. It's what I do.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is referenced by himself as the one who said, 'He stood there and accepted it.'",
+    "source_quote": "He stood there and accepted it.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is referenced by himself as the one who said, 'I'm amused by the Jorlan-Ilvara drama.'",
+    "source_quote": "I'm amused by the Jorlan-Ilvara drama, I thought.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is referenced by himself as the one who said, 'He had delivered it with the emotional register of someone pushing a chair under a table.'",
+    "source_quote": "He had delivered it with the emotional register of someone pushing a chair under a table.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is referenced by himself as the one who said, 'I had so much planned for the fungus.'",
+    "source_quote": "*Boy, I had so much planned for the fungus.*",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is referenced by himself as the one who said, 'I'm a monk.'",
+    "source_quote": "\"I'm a monk.\"",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is referenced by himself as the one who said, 'I stood there and let the quiet be quiet.'",
+    "source_quote": "I stood there and let the quiet be quiet.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is referenced by himself as the one who said, 'The discipline is self-administered. Always has been.'",
+    "source_quote": "The discipline is self-administered. Always has been.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is referenced by himself as the one who said, 'I took note of that too.'",
+    "source_quote": "I took note of that too.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is referenced by himself as the one who said, 'The fear dropped into him like a stone into still water.'",
+    "source_quote": "The fear dropped into him like a stone into still water.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is referenced by himself as the one who said, 'A threat delivered without heat is always more credible than one made in anger.'",
+    "source_quote": "A threat delivered without heat is always more credible than one made in anger.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is referenced by himself as the one who said, 'I'm a monk.'",
+    "source_quote": "\"I'm a monk.\"",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is referenced by himself as the one who said, 'I believe I should find out who that is before she finds out who we are.'",
+    "source_quote": "I believe I should find out who that is before she finds out who we are.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is referenced by himself as the one who said, 'The fear cleared at the end of his turn, the way it had been promised to.'",
+    "source_quote": "The fear cleared at the end of his turn, the way it had been promised to.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is referenced by himself as the one who said, 'I felt a little bad, in the way you feel bad about something you'd do exactly the same way again.'",
+    "source_quote": "I felt a little bad, in the way you feel bad about something you'd do exactly the same way again.",
+    "quote_verified": true
+  }
+]

@@ -1,0 +1,219 @@
+[
+  {
+    "type": "npc",
+    "subject": "Janussi",
+    "fact": "Janussi is the poison taster who died at midnight, her death collateral to the targeted poisoning, and the cut string on her Deadwinter gift was retied after being severed.",
+    "source_quote": "The string tied around Janussi's Deadwinter gift had clearly been cut and retied.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Sylvira Savikas",
+    "fact": "Sylvira Savikas is a tiefling who was seen hunting by candlelight, pointed to her throat to indicate hoarseness, and was helped by Sprig to find a pot of honey before saying goodnight.",
+    "source_quote": "She ran into Sylvira Savikas hunting for something by candlelight... the tiefling just pointed at her throat, too hoarse to talk. Sprig helped her find a pot of honey and said goodnight.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Sprig",
+    "fact": "Sprig is the poison taster who volunteered to sample all twelve dishes despite being told it wasn't necessary, and she assisted Sylvira Savikas by finding honey when she was hoarse.",
+    "source_quote": "She'd volunteered to taste each one to make sure none was poisoned. The chefs told her it wasn't necessary. She insisted. Sprig helped her find a pot of honey and said goodnight.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Alkrist",
+    "fact": "Alkrist was observed holding a scrap of paper to a candle and feeding it to the flame, then dropping it when two junior avowed entered.",
+    "source_quote": "Alkrist had been holding a small scrap of paper toward a candle, feeding it to the flame, and when two junior avowed walked in, he dropped it.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Orrin Glass",
+    "fact": "Orrin Glass is the deaf third waiter who noticed Alkrist burning a scrap of paper and reported the cut-and-retied string on Janussi's gift.",
+    "source_quote": "Orrin handed me the one that mattered. Something out of the ordinary: the string tied around Janussi's Deadwinter gift had clearly been cut and retied.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Teles Ahvoste",
+    "fact": "Teles Ahvoste is one of the great readers who made advances toward Irony, prompting her to deflect attention toward Sprig.",
+    "source_quote": "Teles Ahvoste. One of the other great readers, making passes at Irony.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Irony",
+    "fact": "Irony cannot lie but steered inquiry toward Sprig instead of answering directly, and was observed rolling her eyes at the junior avowed's attention.",
+    "source_quote": "Irony can't lie. But she hadn't answered. She'd pointed us at Sprig instead. Can't lie isn't has to tell. She steered us rather than speak false.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Candlekeep kitchens",
+    "fact": "The Candlekeep kitchens were visited by Sprig late at night for cookies, where she encountered Sylvira Savikas searching by candlelight at one in the morning.",
+    "source_quote": "Late that night, going to the kitchens for cookies, she'd run into Sylvira Savikas hunting for something by candlelight... One in the morning.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Poison taster's station",
+    "fact": "The poison taster's station was where Sprig sampled all twelve dishes prepared by the Candlekeep chefs, each one tested for poison despite being told it was unnecessary.",
+    "source_quote": "Twelve dishes, the Candlekeep chefs, every word of it. She'd volunteered to taste each one to make sure none was poisoned.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Non-Christmas Christmas tree",
+    "fact": "The non-Christmas Christmas tree was the site where gifts \u2014 primarily books \u2014 were stacked, and where Alkrist burned a scrap of paper and the string on Janussi\u2019s gift was cut and retied.",
+    "source_quote": "I wanted to ask whether anybody'd seen a person messing with the pile under the \u2014 the non-Christmas Christmas Christmas tree... The cut string was the rock in the right place.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Apothecary tree trunk",
+    "fact": "The apothecary tree trunk housed Leuwin the satyr and Nibbles the squirrel, where a vial of dangerous toxins was broken and concealed with a peppermint-soaked rag.",
+    "source_quote": "Under the top shelf I found a peppermint-soaked rag and a broken vial, and the shelf above the spillage was labeled, in Elvish, Dangerous Toxins.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Greenhouse below apothecary",
+    "fact": "The greenhouse below the apothecary was where Leuwin was occupied by A'lai, creating a diversion while the dragonborn stole the toxin upstairs.",
+    "source_quote": "Leuwin took him down through the rear exit to the greenhouse below... While the dragonborn was upstairs, alone, breaking the vial.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Cut and retied string",
+    "fact": "The cut and retied string on Janussi's Deadwinter gift was the key physical evidence indicating internal tampering, not an outside attack.",
+    "source_quote": "The string tied around Janussi's Deadwinter gift had clearly been cut and retied.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Peppermint-soaked rag",
+    "fact": "The peppermint-soaked rag was a poorly concealed attempt to mask the scent of the broken vial of dangerous toxins in the apothecary.",
+    "source_quote": "Under the top shelf I found a peppermint-soaked rag and a broken vial...",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Dead rats in glass jars",
+    "fact": "The dead rats in glass jars in Alkrist's chambers showed active study of poison effects, their skin blistered and risen into pustules.",
+    "source_quote": "Sealed glass jars holding dead rats, their skin blistered and risen into pustules.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "1001 Tashalian Nights",
+    "fact": "The book 1001 Tashalian Nights, found on Alkrist\u2019s bedside table with a bookmark on the tale of a poisoned magic horn, indicated his knowledge of lethal gifts.",
+    "source_quote": "On the bedside table lay a book \u2014 black leather, stars and gold filigree... The bookmark sat on the tale of a military commander, poisoned by a gift of surrender \u2014 a magic horn whose mouthpiece had been coated in Midnight Tears.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "White doves in cage",
+    "fact": "The white doves in A'lai\u2019s cage, with five perches worn and only two birds present, indicated three recent message flights had been sent.",
+    "source_quote": "The cage was built for five. Two birds sat in it. The feeding troughs, the droppings, the wear on five perches. There had been more than two.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool is a grey ooze who assisted Zalthir in searching the Readers' chambers, flowing where Zalthir could not reach and reacting with eager curiosity.",
+    "source_quote": "Glabbagool. The ooze had come out of the bag eager... He flowed where I could not reach; I read what he could not understand.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Candlekeep chefs",
+    "fact": "The Candlekeep chefs prepared twelve dishes for the meal, and told Sprig her taster role was unnecessary, yet she insisted on sampling each one.",
+    "source_quote": "Twelve dishes, the Candlekeep chefs, every word of it. She'd volunteered to taste each one to make sure none was poisoned. The chefs told her it wasn't necessary.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Junior avowed",
+    "fact": "The junior avowed were the witnesses to Alkrist burning a scrap of paper, and were the subject of Irony's redirected attention.",
+    "source_quote": "Alkrist had been holding a small scrap of paper toward a candle... when two junior avowed walked in, he dropped it.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Cutting and retieing of Janussi's gift string",
+    "fact": "The cutting and retieing of Janussi's gift string occurred in the room under the non-Christmas Christmas tree, indicating an insider tampered with the package after it was wrapped.",
+    "source_quote": "The cut string was the rock in the right place. Nobody came in from outside. This was somebody who'd been at the table.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Dragonborn breaking the toxin vial",
+    "fact": "The dragonborn broke the vial of dangerous toxins in the apothecary while Leuwin was distracted in the greenhouse, creating a diversion to steal the poison.",
+    "source_quote": "While the dragonborn was upstairs, alone, breaking the vial.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Alkrist burning the scrap of paper",
+    "fact": "Alkrist burned a scrap of paper near a candle and dropped it when junior avowed entered, suggesting he was destroying evidence linking him to the plot.",
+    "source_quote": "Alkrist had been holding a small scrap of paper toward a candle, feeding it to the flame, and when two junior avowed walked in, he dropped it.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Sprig assisting Sylvira with honey",
+    "fact": "Sprig helped Sylvira Savikas find a pot of honey after Sylvira pointed to her throat, indicating hoarseness, and then said goodnight at one in the morning.",
+    "source_quote": "Sprig helped her find a pot of honey and said goodnight. One in the morning.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "The poison taster",
+    "fact": "The poison taster \u2014 Sprig \u2014 was the thread pulled first because her presence at the meal made her a potential target or witness to the poisoning.",
+    "source_quote": "The food was the thread I pulled first. Irony pointed me at it.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "The book",
+    "fact": "The book was the thread referenced by Irony and Orrin, as the poisoned gift and the burned paper both tied back to a book or written evidence.",
+    "source_quote": "It was the book. Alkrist's point led to the book... The book sitting wrapped in that package...",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "The non-Christmas Christmas tree",
+    "fact": "The non-Christmas Christmas tree was the thread connecting the wrapped gifts, the cut string, and the burned paper, all occurring in its shadow.",
+    "source_quote": "The cut string was the rock in the right place. Nobody came in from outside. This was somebody who'd been at the table.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "The apothecary vial",
+    "fact": "The apothecary vial of dangerous toxins was the thread linking the dragonborn\u2019s actions, the peppermint rag, and the poisoning method.",
+    "source_quote": "Under the top shelf I found a peppermint-soaked rag and a broken vial, and the shelf above the spillage was labeled, in Elvish, Dangerous Toxins.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "The squirrel's testimony",
+    "fact": "The squirrel's testimony was the thread that revealed the diversion by the drow and the theft by the dragonborn, separating the actors from the poison.",
+    "source_quote": "The drow draws the druid downstairs... The dragonborn does the upstairs work and the handling of a substance that might kill you.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "The message doves",
+    "fact": "The message doves in A'lai's cage were the thread indicating three recent communications, suggesting coordination beyond the immediate scene.",
+    "source_quote": "The cage was built for five. Two birds sat in it. There had been more than two. Three messages had gone somewhere, and recently.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "The bookmark in 1001 Tashalian Nights",
+    "fact": "The bookmark in 1001 Tashalian Nights was the thread revealing Alkrist\u2019s specific interest in poison delivered via gifts \u2014 the magic horn of Midnight Tears.",
+    "source_quote": "The bookmark sat on the tale of a military commander, poisoned by a gift of surrender \u2014 a magic horn whose mouthpiece had been coated in Midnight Tears.",
+    "quote_verified": true
+  }
+]

@@ -1,0 +1,184 @@
+[
+  {
+    "type": "npc",
+    "subject": "Chief Dorbo",
+    "fact": "Chief Dorbo proposed attacking from the Temple of the Steadfast Stone as a staging area to keep oozes away from main population centers, and later offered the Stone of Controlling Earth Elementals as a reward for cleansing the Rock Blight and dealing with Ogr\u00e9moch's Bane.",
+    "source_quote": "Chief Dorbo sweetened the deal by offering a Stone of Controlling Earth Elementals as a reward for dealing with Ogr\u00e9moch's Bane and cleansing the temple.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Uth-Jadger",
+    "fact": "Uth-Jadger revealed the temple was located in the Rock Blight, needed cleansing before use, and offered the aid of Barrow Warden ghosts if the party undertook a quest for them.",
+    "source_quote": "Uth-Jadger offered the help of other Barrow Warden ghosts if the party undertook a quest for them.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Gurnik Tapfinger",
+    "fact": "Gurnik Tapfinger explained that cleansing the Rock Blight required placing a red spell gem containing a powerful sanctification spell into a menhir at the temple, which would provoke Ogr\u00e9moch's Bane to send servants and awaken three temple guardians.",
+    "source_quote": "Gurnik Tapfinger explained that cleansing required placing a red spell gem containing a powerful sanctification spell into a menhir at the temple.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Kazook Pickshine",
+    "fact": "Kazook Pickshine expressed concern about acidic damage to weapons and armor, suggesting collecting ingredients from Neverlight Grove for an acid-protection potion or trading salt for high-quality weapons in Gracklstugh.",
+    "source_quote": "Kazook Pickshine expressed concern about acidic damage to the gnomes' weapons and armor, suggesting two solutions: collecting ingredients from Neverlight Grove for an acid-protection potion, or trading salt for high-quality weapons in Gracklstugh.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz questioned why the party couldn't simply attack from the north to avoid complications, revealing that the gnome leaders saw the party as capable adventurers they could leverage to complete community-benefiting tasks.",
+    "source_quote": "Daz questioned why they couldn't simply attack from the north instead, which would avoid all these complications. His obvious question revealed what was really happening: the gnome leaders had realized they had a party of capable adventurers at their disposal...",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin rolled a die to decide between caution and a direct approach, and the result favored the safer route, influencing the party's final decision to pursue cleansing the Rock Blight.",
+    "source_quote": "Thorin rolled a die to decide between caution and a direct approach, and the result favored taking the safer route.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Barrow Warden ghosts",
+    "fact": "The Barrow Warden ghosts are a collective of spectral entities willing to aid the party if they undertake a quest for them, as offered by Uth-Jadger.",
+    "source_quote": "Uth-Jadger offered the help of other Barrow Warden ghosts if the party undertook a quest for them.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Gnome leaders",
+    "fact": "The gnome leaders, including Chief Dorbo, Uth-Jadger, and Gurnik Tapfinger, have strategically proposed multiple quests to leverage the party's capabilities for community benefit, including temple cleansing, elemental summoning, and acid resistance acquisition.",
+    "source_quote": "The gnome leaders had realized they had a party of capable adventurers at their disposal and were trying to get them to complete various tasks that would benefit the community.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "temple cleansing",
+    "fact": "Cleansing the Rock Blight temple involves placing a red spell gem into a menhir, which provokes Ogr\u00e9moch's Bane to send servants and awaken three temple guardians, enabling the summoning of Earth Elementals.",
+    "source_quote": "Gurnik Tapfinger explained that cleansing required placing a red spell gem containing a powerful sanctification spell into a menhir at the temple. Once placed, the gem would provoke Ogr\u00e9moch's Bane to send servants to attack, and the party would need to defend it until it awakened three temple guardians.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "acid resistance acquisition",
+    "fact": "The party decided to obtain acid resistance by traveling to Neverlight Grove to collect ingredients for an acid-protection potion, avoiding Gracklstugh due to its uncertain status.",
+    "source_quote": "They also decided to obtain acid resistance by traveling to Neverlight Grove for the necessary ingredients.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Rock Blight",
+    "fact": "The Rock Blight is the location of the Temple of the Steadfast Stone, a site requiring cleansing before use, and is the target of the party's primary quest to summon Earth Elementals.",
+    "source_quote": "Uth-Jadger revealed that the temple was located in an area called the Rock Blight and needed to be cleansed before it could be used.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Neverlight Grove",
+    "fact": "Neverlight Grove is a source of ingredients for an acid-protection potion, and is the destination the party chose for acquiring acid resistance.",
+    "source_quote": "Kazook Pickshine suggested collecting ingredients from Neverlight Grove for an acid-protection potion.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Gracklstugh",
+    "fact": "Gracklstugh is a location previously visited by the party, now considered potentially non-existent or inaccessible due to their prior actions there, and is explicitly avoided.",
+    "source_quote": "The party noted that Gracklstugh might no longer exist due to their previous actions there.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "red spell gem",
+    "fact": "The red spell gem contains a powerful sanctification spell and must be placed into a menhir at the Rock Blight temple to trigger the cleansing process and summon Earth Elementals.",
+    "source_quote": "Gurnik Tapfinger explained that cleansing required placing a red spell gem containing a powerful sanctification spell into a menhir at the temple.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Stone of Controlling Earth Elementals",
+    "fact": "The Stone of Controlling Earth Elementals is a reward offered by Chief Dorbo for cleansing the Rock Blight and dealing with Ogr\u00e9moch's Bane, though the party ultimately prefers to befriend rather than control Earth Elementals.",
+    "source_quote": "Chief Dorbo sweetened the deal by offering a Stone of Controlling Earth Elementals as a reward for dealing with Ogr\u00e9moch's Bane and cleansing the temple.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Ogr\u00e9moch's Bane",
+    "fact": "Ogr\u00e9moch's Bane is a force that, when provoked by the red spell gem, sends servants to attack and awakens three temple guardians, and is the target of the cleansing ritual.",
+    "source_quote": "Once placed, the gem would provoke Ogr\u00e9moch's Bane to send servants to attack, and the party would need to defend it until it awakened three temple guardians.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Earth Elementals",
+    "fact": "Earth Elementals are powerful beings that can be summoned after cleansing the Rock Blight temple; the party seeks to befriend them as allies, hoping they will join permanently like Glabbagool.",
+    "source_quote": "Gurnik and Nomi Pathshutter... proposed that cleansing the temple would allow Earth Elementals to be summoned and protected from being driven insane by Ogr\u00e9moch's Bane. ...hoping it might join them permanently like Glabbagool had.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Pudding King",
+    "fact": "The Pudding King is the final antagonist the party prepares to confront, whose army of oozes threatens the gnome community, and whose defeat is the ultimate goal of their current quests.",
+    "source_quote": "...knowing that each success would strengthen their position for the final confrontation with the Pudding King and his army of oozes.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "befriending Earth Elementals",
+    "fact": "The party's unspoken goal is to befriend Earth Elementals rather than control them, hoping they will join permanently like Glabbagool, making this a potential long-term narrative thread.",
+    "source_quote": "expressing interest in befriending the elemental rather than controlling it, hoping it might join them permanently like Glabbagool had.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Gracklstugh's status",
+    "fact": "The uncertain existence of Gracklstugh due to the party's prior actions creates a lingering mystery and potential future plot thread if the city is revisited or its fate clarified.",
+    "source_quote": "The party noted that Gracklstugh might no longer exist due to their previous actions there.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Barrow Warden ghosts' quest",
+    "fact": "The Barrow Warden ghosts have an undisclosed quest that the party has agreed to undertake, creating an open narrative thread to be resolved later.",
+    "source_quote": "Uth-Jadger offered the help of other Barrow Warden ghosts if the party undertook a quest for them.",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The events described occur during a single session of play, with decisions made, plans formed, and forces divided in a continuous narrative arc.",
+    "source_quote": "With their plans finalized and their forces divided, the party prepared to embark on their chosen quests...",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool is a named entity who has previously joined the party permanently and is now being sent with Eldev and Jimjar to assist the Barrow Warden ghosts.",
+    "source_quote": "They would send Glabbagool, Eldev, and Jimjar to assist the Barrow Warden ghosts with their quest...",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Eldev",
+    "fact": "Eldev is a named member of the party assigned to assist the Barrow Warden ghosts alongside Glabbagool and Jimjar.",
+    "source_quote": "They would send Glabbagool, Eldev, and Jimjar to assist the Barrow Warden ghosts with their quest...",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Jimjar",
+    "fact": "Jimjar is a named member of the party assigned to assist the Barrow Warden ghosts alongside Glabbagool and Eldev.",
+    "source_quote": "They would send Glabbagool, Eldev, and Jimjar to assist the Barrow Warden ghosts with their quest...",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Nomi Pathshutter",
+    "fact": "Nomi Pathshutter participated with Gurnik Tapfinger in a rehearsed presentation proposing that cleansing the temple would allow Earth Elementals to be summoned safely.",
+    "source_quote": "Gurnik and Nomi Pathshutter, in what appeared to be a rehearsed presentation, proposed that cleansing the temple would allow Earth Elementals to be summoned...",
+    "quote_verified": false
+  }
+]

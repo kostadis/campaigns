@@ -1,0 +1,205 @@
+[
+  {
+    "type": "npc",
+    "subject": "A'lai",
+    "fact": "A'lai arrived at the Oak Tree Apothecary at half past two on the day of the murder, asking Leuwin for fresh fennel.",
+    "source_quote": "A'lai had shown up at the Oak Tree Apothecary at half past two on the day of the murder, asking Leuwin for fresh fennel.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Leuwin",
+    "fact": "Leuwin was helping A'lai in the garden when a dragonborn arrived, witnessed by Nibbles the squirrel.",
+    "source_quote": "While Leuwin was helping A'lai in the garden, a dragonborn had arrived: a huge, lizard-skinned figure, per the testimony of Nibbles the squirrel.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "dragonborn",
+    "fact": "A dragonborn arrived at the apothecary during the incident; described as a huge, lizard-skinned figure, witnessed by Nibbles the squirrel.",
+    "source_quote": "a dragonborn had arrived: a huge, lizard-skinned figure, per the testimony of Nibbles the squirrel.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "poison",
+    "fact": "The poison was collected from the scene; its nature and origin remain under investigation.",
+    "source_quote": "The poison was collected.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "mess",
+    "fact": "A mess was made at the apothecary during the incident; details unspecified but significant enough to be noted.",
+    "source_quote": "A mess was made.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Alkrist",
+    "fact": "Alkrist is a dragonborn; implicated in the apothecary intrusion, not the later removal of the heart or looting of the safe.",
+    "source_quote": "Alkrist was a dragonborn.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir recognized that the apothecary intrusion and the heart removal were two separate acts, two separate threads.",
+    "source_quote": "Zalthir had caught that this referred to the apothecary intrusion, not whoever had later removed the heart and looted the safe: two separate acts, two separate threads.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "sapphire",
+    "fact": "The sapphire is tied to locating a lost locket; its utility is distinct from stealing a locket from a living person.",
+    "source_quote": "You need the sapphire to find a locket that's already lost.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "locket",
+    "fact": "The locket cannot be stolen from a living person who is holding it; its theft requires prior absence or deception.",
+    "source_quote": "You can't steal a locket off someone who's alive and holding it.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin proposed that one person could have stolen the locket, then taken the sapphire to close off pursuit, but rejected the model as impossible.",
+    "source_quote": "Thorin proposed that one person could have done both: stolen the locket, then taken the sapphire to close off pursuit.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "apothecary intrusion",
+    "fact": "The intrusion at the apothecary is a distinct event from the later removal of the heart and looting of the safe.",
+    "source_quote": "two separate acts, two separate threads.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "heart removal and safe looting",
+    "fact": "The removal of the heart and looting of the safe are a separate, later event from the apothecary intrusion.",
+    "source_quote": "two separate acts, two separate threads.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool confirmed he can eat through walls and gaps, distinguishing between those that admit a gelatinous cube and those that do not.",
+    "source_quote": "Glabbagool had made the distinction between a gap that admitted a gelatinous cube and a gap that did not.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "gelatinous cube",
+    "fact": "A gelatinous cube can pass through certain gaps; Glabbagool uses it as a benchmark for what he can consume.",
+    "source_quote": "a gap that admitted a gelatinous cube",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Alkrist's safe",
+    "fact": "Alkrist's safe remains unopened; its contents and access method are unresolved.",
+    "source_quote": "open threads: Alkrist's safe, unopened.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Alkrist's safe access",
+    "fact": "The safe's barrier is not insurmountable \u2014 Glabbagool can eat through it \u2014 but the method was never employed.",
+    "source_quote": "I guess I could have eaten through the safe. It would have taken a while.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir considered destructive force as an option but rejected it in favor of stealth, acknowledging Glabbagool's capability.",
+    "source_quote": "If the goal was to be destructive, I could've just punched the safe. But we were trying to be sneaky.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool possesses the ability to consume solid matter, including walls and safes, and has never been wrong about his capabilities.",
+    "source_quote": "Walls don't stop us. I can eat through walls.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "methodology of murder",
+    "fact": "The murder was framed as an elaborate, misleading act \u2014 poisoning a book to implicate a colleague \u2014 but the complexity was its strength.",
+    "source_quote": "Poisoned book, frames a colleague, and disappears the evidence. Too elaborate. Which is exactly why it worked.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Elian",
+    "fact": "Elian proposed collaboration on a monograph, initially misstating the role, then clarifying he would write it with Thorin contributing an introduction.",
+    "source_quote": "Elian said having someone of my stature involved would do wonders for criminal investigation across Faer\u00fbn.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "monograph collaboration",
+    "fact": "Elian sought to leverage Thorin's stature for academic credibility, even without solving the murder, suggesting an endorsement alone holds value.",
+    "source_quote": "even if we failed to solve the murder, even if all I could write was that these techniques would have helped, the academic community would still approve.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "reliability of Speak with Dead",
+    "fact": "The reliability of deceased narrators is unknown; motivations and truthfulness after death are unverifiable.",
+    "source_quote": "how do you know they're a reliable narrator? What are their motivations after they're dead? We don't know. Because they're dead.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Candlekeep's academic currency",
+    "fact": "In Candlekeep, monographs are the measure of influence; two requests in one afternoon suggest a pattern of leveraging prestige.",
+    "source_quote": "This was the second person at Candlekeep to angle for a monograph. First Fembris, now Elian. Two men after a monograph in one afternoon.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Velkynvelve",
+    "fact": "Velkynvelve is referenced as the origin point of Thorin's understanding of stature \u2014 a dwarf in chains at the bottom of the world, whose perceived stature was built on repeated failure.",
+    "source_quote": "I thought briefly about Velkynvelve, which is where this all started: a dwarf in the wrong place, in chains, at the bottom of the world.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Candlekeep monograph exchange",
+    "fact": "Two individuals in one afternoon sought to associate with Thorin for academic gain, revealing institutional norms around prestige.",
+    "source_quote": "Two men after a monograph in one afternoon.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "sneak vs. force methodology",
+    "fact": "The group prioritized stealth over brute force despite possessing the capability to destroy barriers, reflecting institutional caution.",
+    "source_quote": "But we were trying to be sneaky.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Glabbagool's unused capability",
+    "fact": "Glabbagool's ability to consume walls and safes was recognized but never utilized, leaving Alkrist's safe unopened despite a viable solution.",
+    "source_quote": "We had not brought a gelatinous cube this far through the Underdark to find out he could eat through walls in the middle of a conversation about a safe we still hadn't opened.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "narrative of impossibility",
+    "fact": "The group operates under assumptions of impossibility \u2014 that a locket can't be stolen from a living person, that a safe can't be eaten through \u2014 despite evidence to the contrary.",
+    "source_quote": "a living man in possession of a locket is a man whose locket cannot be stolen. That's not a lock. It's a law.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "out-of-the-box thinking",
+    "fact": "Glabbagool's capability represents out-of-the-box thinking that was acknowledged but not acted upon, suggesting systemic resistance to unconventional solutions.",
+    "source_quote": "this is a sort of out-of-the-box thinking we need sometimes.",
+    "quote_verified": true
+  }
+]

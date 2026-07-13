@@ -1,0 +1,121 @@
+[
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is a cleric of Bahamut who pilfered treasure from Ploop\u2019s thatched hut, declared fleeing as the better part of valor, and later recognized the ritual's completion and the emergence of Demogorgon. He is mentally struggling with the horror of the entity before him, recalling his mentor Gorg\u2019Bahamut\u2019s teachings about hoards as blessings.",
+    "source_quote": "Grygum ran into Ploop\u2019s thatched hut and pilfered whatever treasure he could find. He muttered, 'A hoard is always a valuable thing and a blessing from Bahamut.'",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is an adventurer who shouted for supplies, followed the cleric running after him, and later swaggered toward the boat with confidence, mimicking the demeanor of a powerful, dangerous adventurer. He is skeptical of the creature\u2019s identity and recalls Shuushar\u2019s teachings about Kuo-Toan god-creation.",
+    "source_quote": "Daz shouted, 'We should check to see if we can find any supplies anywhere.' He later walked toward the boat with a confident swagger, his chest puffed, arms swaying, stride big.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin observed the guards surrounding them, noticed the fishing Kuo-Toans turning into screaming victims, and later witnessed the emergence of Demogorgon. He is in denial, questioning the creature\u2019s identity, recalling Shuushar\u2019s belief that Kuo-Toans forge gods through faith, and experiencing cognitive dissonance to avoid confronting the horror.",
+    "source_quote": "Thorin asked, 'Demo-who?' He recalled Shuushar saying that the Kuo-Toans could create gods with the power of their faith, and he knows that the archpriest said Leemooggoogoon, not Demogorgon.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Blopp",
+    "fact": "Blopp is the leader of the followers of the Sea Mother, engaged in a genocidal war against the Deep Father\u2019s cult. He was slain by the archpriest of the Deep Father after uttering the final ritual phrase, 'Leemooggoogoon,' marking the ritual's completion.",
+    "source_quote": "Blopp dropped, dead, before the profane altar. The archpriest of the Deep Father called out, 'Leemooggoogoon!' just as she struck the final, fatal blow.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Archpriest of the Deep Father",
+    "fact": "The archpriest of the Deep Father completed the ritual by slaying Blopp and uttering the incantation 'Leemooggoogoon.' She is the agent of the ritual\u2019s fulfillment, and her faith has summoned a monstrous entity from the Darklake.",
+    "source_quote": "The archpriest of the Deep Father called out, 'Leemooggoogoon!' just as she struck the final, fatal blow.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Followers of the Sea Mother",
+    "fact": "The followers of the Sea Mother are engaged in a genocidal battle against the followers of the Deep Father. They are being systematically slaughtered, with their fishing members turning into screaming victims before vanishing into bloody foam.",
+    "source_quote": "The other Kuo-Toans, the followers of the Sea Mother and the followers of the Deep Father, are engaged in a genocidal battle to eliminate the other.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Followers of the Deep Father",
+    "fact": "The followers of the Deep Father are the victorious faction in the genocidal war, having slain Blopp and completed the ritual. Their faith has manifested a monstrous entity from the Darklake, and their archpriest is the ritual\u2019s architect.",
+    "source_quote": "The archpriest of the Deep Father called out, 'Leemooggoogoon!' just as she struck the final, fatal blow.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Demogorgon",
+    "fact": "Demogorgon is a thirty-foot-tall, two-headed, baboon-like abomination with wickedly curved tusks, red blazing eyes, and a single monstrous torso. It emerged from the Darklake after the completion of the ritual, bursting forth with oily tentacles, foaming water, and a deafening roar. It radiates bloodlust and madness.",
+    "source_quote": "Two monstrous heads broke the surface, resembling hideous, enraged baboons with wickedly curved tusks. Both heads are attached to a single torso, and the monster\u2019s red eyes blaze with bloodlust and madness. 'Bahamut, save us; that\u2019s Demogorgon,' he shouted.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Darklake",
+    "fact": "The Darklake is a vast, dark body of water beneath the cave, where Kuo-Toans fish, scream, and vanish into bloody foam. It is the site of the ritual\u2019s culmination, where Demogorgon emerges with oily tentacles, bubbling water, and a monstrous roar.",
+    "source_quote": "The water's surface bubbled and began to foam. A thick, oily tentacle burst forth, followed by another. Two monstrous heads broke the surface... water cascading down its back and shoulders.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Docks and Boats",
+    "fact": "The docks are wooden structures attached to the cave\u2019s edge, with boats moored beside them. Kuo-Toan monitors stand guard upon them, while fishing Kuo-Toans were previously active in the water. One boat in the far eastern part is guarded by a small group of isolated Kuo-Toans.",
+    "source_quote": "Grygum noticed docks and boats attached to them. He also noticed Kuo-Toans fishing in the water beside the docks. Finally, he observed Kuo-Toan monitors standing on the docks, seemingly guarding the boats.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Ploop\u2019s Thatched Hut",
+    "fact": "Ploop\u2019s thatched hut is a small, crude dwelling where Grygum entered and pilfered treasure. It is the site of the first act of betrayal and looting after the ritual\u2019s completion.",
+    "source_quote": "He ran into Ploop\u2019s thatched hut. Once there, he pilfered whatever treasure he could find.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Treasure from Ploop\u2019s Hut",
+    "fact": "The treasure looted from Ploop\u2019s thatched hut consists of gold and magical items, which Grygum prioritized over mundane supplies. It represents the immediate reward for betrayal and the catalyst for the group\u2019s next move.",
+    "source_quote": "Daz had suggested they try and find supplies, but gold and magic would have to do.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Completion of the Ritual",
+    "fact": "The ritual was completed when the archpriest of the Deep Father slew Blopp and uttered 'Leemooggoogoon.' This act triggered the manifestation of Demogorgon from the Darklake, fulfilling the prophecy of evil rituals summoning terrible outcomes.",
+    "source_quote": "Grygum thinks for a moment and realizes that the ritual is complete. Usually, when an evil cult completes a cruel ritual, something terrible happens.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Emergence of Demogorgon",
+    "fact": "Demogorgon emerged from the Darklake after the ritual\u2019s completion, bursting forth with oily tentacles, foaming water, and two monstrous baboon heads with tusks and blazing red eyes. The creature stands thirty feet tall and radiates bloodlust and madness.",
+    "source_quote": "A thick, oily tentacle burst forth, followed by another. Two monstrous heads broke the surface... water cascading down its back and shoulders.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Identity Denial of Demogorgon",
+    "fact": "Thorin is experiencing cognitive dissonance, refusing to accept that the entity is Demogorgon, despite the evidence. He recalls Shuushar\u2019s teachings that Kuo-Toans forge gods through faith, and the archpriest\u2019s incantation was 'Leemooggoogoon,' not Demogorgon. The horror of the being is so great his mind resists naming it.",
+    "source_quote": "In many ways, it\u2019s amazing how the brain will convince you that the thing you are seeing is not what you are seeing because the horror of that being in front of you is too terrible. Thorin was experiencing that.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Kuo-Toan God-creation Doctrine",
+    "fact": "The Kuo-Toans believe they can forge gods through collective faith and ritual, as taught by Shuushar. This doctrine underlies the ritual\u2019s purpose, yet the entity that emerged is named Demogorgon \u2014 a known Outer God \u2014 creating a contradiction between belief and reality.",
+    "source_quote": "He recalls Shuushar saying that the Kuo-Toans could create gods with the power of their faith, and he knows that the archpriest said Leemooggoogoon, not Demogorgon.",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "Session Date",
+    "fact": "The events occur during a session of play, following the completion of a ritual and the emergence of a cosmic horror. The timeline is immediate and continuous, with no temporal breaks between observation, realization, and manifestation.",
+    "source_quote": "The battle continues to rage... Daz observes the madness... Thorin then notices... Grygum thinks for a moment... Just then, he hears...",
+    "quote_verified": false
+  }
+]

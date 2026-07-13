@@ -1,0 +1,149 @@
+[
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The session occurs on the 5th day of the 2nd Tenday of Taraskh 1493 DR.",
+    "source_quote": "On the 5th day of the 2nd Tenday of Taraskh 1493",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "elapsed time",
+    "fact": "An hour passes between two events in the session.",
+    "source_quote": "An hour later",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "chasme count",
+    "fact": "Four chasme demons are present in the cavern above the prisoners' tower.",
+    "source_quote": "four chasme and two vrock",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "travel to Sloobludop",
+    "fact": "Sloobludop is approximately eight days away via the Darklake.",
+    "source_quote": "the town of Sloopdopblop is just eight days away",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Velkynvelve elevation",
+    "fact": "Velkynvelve sits 100 feet above the cavern floor.",
+    "source_quote": "Drow outpost was 100' in the sky",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "silver candlestick value",
+    "fact": "The silver candlesticks flanking the Lolth altar are worth 25 gp each.",
+    "source_quote": "a pair of heavy silver candlesticks worth 25 gp each",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "rivalry revealed",
+    "fact": "Daral Yashenti is the rival who called the sellswords and has been at Janussi's throat for years.",
+    "source_quote": "That'll be Daral Yashenti. Those two have been at each other's throats for years.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "key to Hightower Library",
+    "fact": "Janussi held one of the two keys to the Hightower Library; the other is held by the gate warden Kalan.",
+    "source_quote": "Janussi held one of the two keys of the Hightower Library. The other key is heralded by the gate warden, Kalan.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "midnight thud",
+    "fact": "A thud was heard upstairs around midnight, after which Janussi was no longer alive.",
+    "source_quote": "I heard a thud upstairs... around 2 or 3 in the morning.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "missing locket",
+    "fact": "Janussi's locket, which he never removed, was missing from his neck after death.",
+    "source_quote": "The locket was missing. Off Janussi's neck.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Sylvira's glowing face",
+    "fact": "Sylvira Savikas's face glowed red in candlelight at 2\u20133 AM, though she is a tiefling who needs no light.",
+    "source_quote": "I swear I could see that devil woman's \u2014 Sylvira Savikas's \u2014 face glowing red in the candlelight.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Sylvira's lantern",
+    "fact": "Sylvira Savikas was carrying a lantern at 2\u20133 AM, despite being a tiefling who sees perfectly in darkness.",
+    "source_quote": "She was carrying a lantern. She's a tiefling, and she can see in the dark without any light at all.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "poison smoke cover",
+    "fact": "Tobacco smoke was used to mask the smell of poison in Janussi's chamber.",
+    "source_quote": "The one thing that tobacco smoke would do is hide the smell of poison.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "comedy book cipher",
+    "fact": "The comedy book, *The Golden Ass*, may be a cipher key \u2014 something written in it was not part of the original text.",
+    "source_quote": "There's something written in the book that wasn't part of the original book \u2014 or maybe he's using the book and the notes to do some sort of cipher.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daral's drunken confrontation",
+    "fact": "Daral Yashenti drunkenly confronted Janussi at 10:30 PM, shouting insults and fleeing afterward.",
+    "source_quote": "Daral came back at half past ten, drunk as a skunk, pounding on the door... another loud argument, then the slam and the great reader running back down the stairs.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Teles's hypocrite accusation",
+    "fact": "Teles Ahvoste shouted 'hypocrite' at Janussi during their meeting at the ninth bell.",
+    "source_quote": "I did hear Teles shout, *hypocrite*, at poor Janussi before he stormed out.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Sylvira's traitor accusation",
+    "fact": "Sylvira Savikas accused Janussi of being a traitor and nearly came to blows with him.",
+    "source_quote": "Sylvira Savikas... screaming that Janussi was a traitor, the two of them sounding for a moment as though they had come to blows.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Kalan's thunderous face",
+    "fact": "Kalan Strongbranch had a face like thunder when encountered by Hollypocket at dawn.",
+    "source_quote": "I was bringing the keeper his morning tea when I passed Kalan Strongbranch on the steps. He had a face like thunder...",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "gift tag to Janussi",
+    "fact": "A gift tag addressed to Janussi reads: 'To Janussi, read it and weep, you old snob, a proper Dead Winter gift, your loving rival.'",
+    "source_quote": "To Janussi, read it and weep, you old snob, a proper Dead Winter gift, your loving rival.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Hollypocket's apartment",
+    "fact": "Hollypocket, the housekeeper, resides in a modest, warm apartment below the Keeper's tower.",
+    "source_quote": "Hollypocket's apartment sat below the Keeper's tower \u2014 modest, but with room to breathe, and warm...",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Daz talks to the cat",
+    "fact": "Daz used a Stonespeaker crystal to communicate with the five-year-old housecat in Janussi's chamber.",
+    "source_quote": "I think I can talk to the cat... It's part of what the stone speaker crystal grants me.",
+    "quote_verified": false
+  }
+]

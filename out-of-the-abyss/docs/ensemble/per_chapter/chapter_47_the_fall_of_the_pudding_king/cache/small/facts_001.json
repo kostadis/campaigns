@@ -1,0 +1,135 @@
+[
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is a monk who maintained a grapple on the Pudding King, dragged him through Glabbagool, took acid damage from the gelatinous cube, and used magical protections to resist the worst effects. He later considered Glabbagool's potential to become a monk and took a mental note to suggest training in mental discipline.",
+    "source_quote": "Zalthir pulled the Pudding King directly through Glabbagool, who remarked that it tickled.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz launched magical missiles at the Pudding King, later channeled powerful energy into unerring strikes, and called down a massive fire explosion that engulfed Prince Livid and Princess Ebonmire.",
+    "source_quote": "Daz channeled powerful magical energy into missiles that unerringly struck the Pudding King.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin navigated around green slime hazards, struck the Pudding King with darts that accidentally hit Glabbagool, and later used his radiant sword Dawnbringer to sear through the corrupted ooze.",
+    "source_quote": "Thorin struck with his radiant sword Dawnbringer, its holy light searing through the corrupted ooze.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Prince Livid",
+    "fact": "Prince Livid is an ally of the Pudding King who retaliated with psychic blasts, survived a fire explosion due to flame resistance, but was ultimately destroyed by a volley of magical missiles.",
+    "source_quote": "Prince Livid's resistance to flames allowed him to survive with grievous injuries.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Princess Ebonmire",
+    "fact": "Princess Ebonmire hurled blobs of acidic ooze at the party, fought on after the Pudding King\u2019s defeat, and was destroyed by a combination of necrotic magic and physical strikes.",
+    "source_quote": "Princess Ebonmire fell to a combination of necrotic magic and physical strikes.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool is a gelatinous cube companion who was accidentally struck by Thorin\u2019s darts, swapped bodies with the Pudding King, remarked that being passed through tickled, and may now possess the consciousness of the former Pudding King.",
+    "source_quote": "Glabbagool remarked that it tickled.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Pudding King",
+    "fact": "The Pudding King was a sentient, telepathic ooze manifestation of Juiblex, capable of transforming into a slime wave, controlling green slime in his lair, and projecting his voice telepathically. After being dragged from his throne room, his power waned, and he was dissolved by Zalthir\u2019s eldritch strikes, his consciousness dissipating into inert puddles.",
+    "source_quote": "With a final telepathic scream\u2014'Behold the true feast, the soul's final blend!'\u2014the Pudding King dissolved completely.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Green Slime",
+    "fact": "Green slime hung from the throne room ceiling, ready to drop on anyone passing beneath it, and was used by the Pudding King as a lair hazard. It continued to fall on those knocked prone after the slime wave, though most rolled clear.",
+    "source_quote": "Green slime hanging from the ceiling ready to drop on anyone who passed beneath it.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Throne Room",
+    "fact": "The throne room was the Pudding King\u2019s domain, granting him additional power through lair actions, containing green slime hazards, and serving as the site of the initial battle. His power diminished after being dragged from it.",
+    "source_quote": "The throne room itself proved treacherous, with green slime hanging from the ceiling...",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Underdark",
+    "fact": "The Underdark is the broader setting where the battle occurred, now threatened by the rising influence of Zuggtmoy as fungi grow more twisted and malevolent following the Pudding King\u2019s defeat.",
+    "source_quote": "The fungi growing throughout the cavern were becoming more twisted and malevolent in appearance...",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Juiblex",
+    "fact": "Juiblex, the demon lord of oozes, is the source of the Pudding King\u2019s power. His demonic presence receded after the Pudding King\u2019s dissolution, but a demonic voice echoed, declaring his intent to be reborn and consume Zuggtmoy\u2019s banquet to grow stronger.",
+    "source_quote": "A demonic voice echoed through the chamber, possibly Juiblex himself, declaring that he would be reborn and consume the banquet of the queen of fungi to grow even stronger.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Zuggtmoy",
+    "fact": "Zuggtmoy, the demon queen of fungi, is moving to fill the power vacuum left by the Pudding King\u2019s defeat, as fungi throughout the cavern grow more twisted and malevolent in appearance.",
+    "source_quote": "The fungi growing throughout the cavern were becoming more twisted and malevolent in appearance, suggesting that Zuggtmoy... was already moving to fill the power vacuum.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Bag of Holding",
+    "fact": "The party considered using the Bag of Holding to contain the Pudding King, but realized a sentient ooze could simply ooze back out through the opening.",
+    "source_quote": "The party discussed using their Bag of Holding to contain the ooze, but realized that while they could temporarily shove him inside to deprive him of action, a sentient ooze could simply ooze back out through the opening.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Dawnbringer",
+    "fact": "Dawnbringer is Thorin\u2019s radiant sword whose holy light seared through the corrupted ooze of the Pudding King.",
+    "source_quote": "Thorin struck with his radiant sword Dawnbringer, its holy light searing through the corrupted ooze.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Body Swap",
+    "fact": "An impossible body swap occurred between the Pudding King and Glabbagool, confirmed when Thorin asked where they first met and the ooze responded they met in a cave, revealing Glabbagool now held the Pudding King\u2019s consciousness.",
+    "source_quote": "Thorin tested this by asking where they first met, and the ooze near him responded that they had met in a cave\u2014confirming it was indeed their friendly gelatinous cube ally.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Pudding King\u2019s Dissolution",
+    "fact": "The Pudding King was dissolved by Zalthir\u2019s eldritch-enhanced flurry of strikes after being removed from his lair, his consciousness dissipating as his form melted into inert puddles.",
+    "source_quote": "With a final telepathic scream\u2014'Behold the true feast, the soul's final blend!'\u2014the Pudding King dissolved completely, his consciousness dissipating as his physical form melted into inert puddles.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Demons\u2019 Power Shift",
+    "fact": "Juiblex\u2019s demonic presence receded from the Underdark after the Pudding King\u2019s defeat, while Zuggtmoy\u2019s influence grew through twisted fungi, setting up a new conflict between the two demon lords.",
+    "source_quote": "The toxic, oppressive presence of Juiblex's demonic power began to recede... however, they noticed that the fungi... were becoming more twisted and malevolent...",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Glabbagool\u2019s Monk Training",
+    "fact": "Zalthir took a mental note to suggest Glabbagool begin training in mental discipline to control his body and the effects of his acidity, implying a potential future arc where the gelatinous cube becomes a monk.",
+    "source_quote": "He took a mental note to suggest that Glabbagool begin the training to become a monk.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Juiblex\u2019s Rebirth",
+    "fact": "A demonic voice declared Juiblex would be reborn and consume Zuggtmoy\u2019s banquet to grow stronger, foreshadowing a future conflict between the demon lords of oozes and fungi.",
+    "source_quote": "A demonic voice echoed through the chamber, possibly Juiblex himself, declaring that he would be reborn and consume the banquet of the queen of fungi to grow even stronger.",
+    "quote_verified": true
+  }
+]

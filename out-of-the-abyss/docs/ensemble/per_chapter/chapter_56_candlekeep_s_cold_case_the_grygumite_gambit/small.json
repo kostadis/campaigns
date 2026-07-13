@@ -1,0 +1,1115 @@
+[
+  {
+    "type": "npc",
+    "subject": "Vareth",
+    "fact": "Vareth is a senior librarian at Candlekeep who has maintained his side office for forty-one years, exhibits deep institutional restraint, and is actively developing a new theological framework regarding mortal agency and fixed points of cosmic constraint.",
+    "source_quote": "Vareth, behind me, has the expression of a man exercising tremendous institutional restraint across approximately five minutes of tortle handoff. He remains respectful throughout.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Pizwog",
+    "fact": "Pizwog is an ancient tortle scholar who distributes his own syncretic research papers on Sword Coast religions, and whose slow, deliberate manner and intellectual eccentricity are noted by observers.",
+    "source_quote": "Pizwog, who is an ancient tortle and moves at the speed of an ancient tortle. I wait. He distributes what appears to be a religious tract, which turns out to be one of his own research papers.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Sister Yvenne",
+    "fact": "Sister Yvenne is a figure of authority at Candlekeep who threatens to confiscate bookplates and represents a growing tension over doctrinal disputes within the library\u2019s scholarly culture.",
+    "source_quote": "Sister Yvenne threatens to confiscate everyone's bookplates. She has not yet, but he expects it.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Stroudite school",
+    "fact": "The Stroudite school holds that mortal choice is sovereign; gods and dragons exist, but agency is not borrowed or loaned from above or below, and chains of action are free and breakable.",
+    "source_quote": "The Stroudite school says mortal choice is sovereign. The gods exist. The dragons exist. Providence may or may not exist. But the choosing belongs to the chooser, and is not borrowed, and is not loaned from any throne above or below.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Bahamutian school",
+    "fact": "The Bahamutian school asserts that divine providence prevails; mortals are instruments of a pre-arranged chain, and their choices were fitted to them by higher design.",
+    "source_quote": "The Bahamutian school says divine providence prevails. Bahamut moved his pieces beforehand. The mortals served as instruments. Choice was real, but not sovereign.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Draconic school",
+    "fact": "The Draconic school posits that ancient agency rules; metallic dragons follow Protanther out of trust and honor, not divine compulsion, and mortal choice is real but bounded by draconic permission.",
+    "source_quote": "The Draconic school says ancient agency rules. Protanther honored Stroud's move because Protanther is honorable, not because Bahamut compelled him.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Candlekeep duels over polemic shelves",
+    "fact": "Three duels have been fought at Candlekeep over which polemic shelf receives the larger window \u2014 an unprecedented occurrence in a library where dueling had ceased two hundred years prior.",
+    "source_quote": "Three duels have been fought at Candlekeep over which polemic shelf gets the larger window. *Three*, in a library where nobody has dueled in two hundred years.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Ilvara's prayer book",
+    "fact": "Ilvara's prayer book contains Zuggtmoy marginalia, suggesting hidden theological alignments and deliberate obfuscation within sacred texts.",
+    "source_quote": "I think about Ilvara's prayer book. The Zuggtmoy marginalia.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Asha Vandree's chain mail theological document",
+    "fact": "A theological document hidden in Asha Vandree's chain mail asserts a Lolth/Zuggtmoy equivalence, written in a hand designed to appear incidental.",
+    "source_quote": "The theological document from Asha Vandree's chain mail \u2014 the Lolth/Zuggtmoy equivalence, written in a hand that wanted very much to seem incidental.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Candlekeep's Immortal Chambers",
+    "fact": "The Immortal Chambers are a sacred library space with a tile floor bearing one deity symbol per tile, where scholars deliberately choose their path as an act of theological alignment.",
+    "source_quote": "The Immortal Chambers have a tile floor with one deity symbol per tile, and the problem is immediately apparent. You have to choose which deity you want to step on.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Fourth school of thought",
+    "fact": "A fourth school of thought has been proposed \u2014 that the universe contains fixed points of cosmic constraint, around which mortal actions must revolve, with freedom existing only between them, and the architecture of belief subtly shaping evidence to enforce invariance.",
+    "source_quote": "What if there are certain fixed points around which our actions must revolve? And the closer we come to one of those fixed points, the more constrained we are, but between them, perhaps we have a great deal of freedom of action.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Protanther",
+    "fact": "Protanther is an ancient dragon whose honor and agency are invoked as a foundational principle in the Draconic school, acting independently of Bahamutian divine order.",
+    "source_quote": "Protanther honored Stroud's move because Protanther is honorable, not because Bahamut compelled him.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Tiamat",
+    "fact": "Tiamat was denied her power by a mortal dwarf\u2019s choice, serving as a key example in the Stroudite school to prove the sovereignty of mortal agency.",
+    "source_quote": "Tiamat was denied her power because a dwarf chose.",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "two hundred years since last duel at Candlekeep",
+    "fact": "Candlekeep had not witnessed a duel for two hundred years prior to the recent three over polemic shelves, marking a radical shift in its scholarly culture.",
+    "source_quote": "Three duels have been fought at Candlekeep over which polemic shelf gets the larger window. *Three*, in a library where nobody has dueled in two hundred years.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "The Narrator",
+    "fact": "The narrator is an observer and thinker who has not previously been aware of their own theological position, but has arrived at an intuitive belief in a universe governed by fixed points and silent conspiratorial constraint.",
+    "source_quote": "I am sitting with this \u2014 genuinely sitting with it... when I notice that none of them quite fit what I actually think. Which is inconvenient, because I had not previously been aware that I actually thought anything about this.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Stroud",
+    "fact": "Stroud is referenced as a great philosopher whose decisive moves and unrepeatable instants are mythologized, and whose name is invoked in theological schools of thought.",
+    "source_quote": "Aye! It could have been Stroud, our great philosopher. It could have been, say, another party of adventurers.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Vareth",
+    "fact": "Vareth is a scholar who formalizes the 'strong-weak hypothesis,' assigns theological schools to Stroud and Bahamut, and collects Stroudite papers with ritualistic intensity.",
+    "source_quote": "Vareth calls it a compromise of the Bahamutian school. He calls me a weak Stroudite \u2014 a strong Stroudite holds there are no fixed points at all \u2014 and a strong Bahamutian around fixed points, and a weak Bahamutian outside of them.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is a meticulous scholar who explains complex theological and prophetic systems with pedantic care, framing practical phenomena as doctrinal arguments.",
+    "source_quote": "Vareth had explained it to Grygum earlier in the day, and Grygum had explained it to the rest of us in that careful way he has, like he was building a theological argument out of practical facts.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool is a sentient grey ooze who has been absorbing teachings from Zalthir and now demands release from the bag of holding, exhibiting emergent will and existential desire.",
+    "source_quote": "Whatever Glabbagool had been doing in the bag all day \u2014 thinking, absorbing, trying to formalize whatever Zalthir had been patiently teaching him into monastic discipline \u2014 he was done with it. He wanted out.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a member of the group who observes prophetic recitations with quiet intensity and refrains from reacting visibly, indicating deep awareness and restraint.",
+    "source_quote": "I looked at Daz. I looked at Grygum. Neither of them had visibly reacted. Either they hadn't heard it, or they'd done what I was already doing: kept it.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "The Avowed",
+    "fact": "The Avowed is a secretive order within Candlekeep whose members move with concealed intent, as seen when a hooded figure passed through the Refectory with something tucked against their ribs.",
+    "source_quote": "Then a hooded figure from the Avowed went past the dining hall at a half-run, something tucked against their ribs under the robe.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "The Great Readers",
+    "fact": "The Great Readers are the highest scholarly authority at Candlekeep, seated apart at the high table, observed with the same wariness as contested terrain, and include individuals exhibiting signs of exhaustion or intoxication.",
+    "source_quote": "I watched them the way the giants taught me to watch a disputed ridge line: settle in, say nothing, let the information come to you.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "prophetic recitation",
+    "fact": "Candlekeep maintains an ongoing ritual of reciting prophecies from the gallery, removing fulfilled ones and preserving the unfulfilled inventory, creating a living archive of potential futures.",
+    "source_quote": "The prophecies had been going the whole time, floating down from the gallery above like water finding its level. Whenever one came true, it was removed. What remained was the unfulfilled inventory.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "prophecy fulfillment",
+    "fact": "A prophecy was spoken: 'On the longest night of winter's deepest cold, the keeper falls, the heart is sold.' It landed with weight, and observers chose silence over reaction.",
+    "source_quote": "*On the longest night of winter's deepest cold, the keeper falls, the heart is sold.* It landed. I sat with it for a second.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Glabbagool's release demand",
+    "fact": "Glabbagool, after prolonged confinement in a bag of holding, exhibited clear emergent agency by demanding release, signaling a shift from passive absorber to active subject.",
+    "source_quote": "He wanted out. I didn't know what *out* meant for an ooze. Neither did he. But the want was there.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "inventory of unfulfilled prophecies",
+    "fact": "The fate of Candlekeep's prophecy archive when the inventory runs out remains unknown, posing a foundational theological and existential question.",
+    "source_quote": "Nobody knew what happened when the inventory ran out.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "the strong-weak hypothesis",
+    "fact": "The theological framework of 'strong-weak' positions toward fixed points, derived from Stroud and Bahamut, was accidentally proposed as a school of thought and now stands as an unresolved doctrinal structure.",
+    "source_quote": "I feel like I handled that competently,\" I say, to no one in particular. The Grygum school of thought. Filed under: things that started as offhand remarks.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Glabbagool's ontological status",
+    "fact": "The nature of an ooze\u2019s consciousness, its capacity for discipline, and the meaning of its desire for freedom remain unexplored, creating a metaphysical mystery.",
+    "source_quote": "I didn't know what *out* meant for an ooze. Neither did he. But the want was there.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "The Refectory",
+    "fact": "The Refectory is a vast, high-ceilinged dining hall at Candlekeep, designed for scholars, where the architecture induces awe and the social dynamics mirror the tension between order and chaos.",
+    "source_quote": "The Refectory was built for scholars, which meant the ceiling was high enough that a hill giant could have sat comfortably at one end and not embarrassed herself.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Candlekeep",
+    "fact": "Candlekeep is a monastic scholarly citadel where prophecy, debate, and quiet observation form the rhythm of life, and where even mundane spaces like dining halls carry layers of hidden meaning.",
+    "source_quote": "Candlekeep scholars don't chat. They debate at conversation volume.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "House of Rest",
+    "fact": "The House of Rest is a residence within Candlekeep where scholars recover and where sentient entities like Glabbagool are confined, revealing the tension between containment and emergent will.",
+    "source_quote": "Back at the House of Rest, Glabbagool was in a state.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "bag of holding",
+    "fact": "The bag of holding is a magical container used to confine Glabbagool, which proved inadequate as a long-term prison for a sentient ooze seeking autonomy.",
+    "source_quote": "The grey ooze had been confined to the bag of holding for most of the day, which in hindsight was probably like keeping a puppy in a closet during a thunderstorm.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Stroudite papers",
+    "fact": "A stack of Stroudite papers, marked and annotated, represents a codified body of theological thought that was accidentally created and is now being curated by Vareth.",
+    "source_quote": "Then he hands me a stack of Stroudite papers, barely able to contain himself, and rushes off to begin his own research.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "grey ooze (Glabbagool)",
+    "fact": "Glabbagool is a sentient grey ooze exhibiting emergent consciousness, the capacity to absorb and formalize knowledge, and a desire for freedom \u2014 making it more than a hazard, but a subject.",
+    "source_quote": "Whatever Glabbagool had been doing in the bag all day \u2014 thinking, absorbing, trying to formalize whatever Zalthir had been patiently teaching him into monastic discipline \u2014 he was done with it.",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "longest night of winter's deepest cold",
+    "fact": "A specific temporal anchor in the prophecy \u2014 'the longest night of winter's deepest cold' \u2014 marks the predicted moment of the keeper's fall and the heart's sale, creating a countdown of existential weight.",
+    "source_quote": "*On the longest night of winter's deepest cold, the keeper falls, the heart is sold.*",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Grygum school of thought",
+    "fact": "The Grygum school of thought is an accidental theological framework born from an offhand remark, now treated by scholars as a serious doctrinal category, filed under 'things that started as offhand remarks.'",
+    "source_quote": "I feel like I handled that competently,\" I say, to no one in particular. The Grygum school of thought. Filed under: things that started as offhand remarks.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Dawnbringer",
+    "fact": "Dawnbringer is set against the wall within reach, not drawn, and has become its own negotiation over the weeks.",
+    "source_quote": "I found a corner of the hearth room, set Dawnbringer against the wall within reach \u2014 close but not drawn, which had become its own negotiation over the weeks",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "The Keeper",
+    "fact": "The Keeper falls \u2014 dead, with no one speaking, the fire warm, and that was enough for tonight.",
+    "source_quote": "*The keeper falls.* I didn't say anything. The fire was warm. That was enough for tonight.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is awake before Fembris completes the second syllable, his nervous system rebuilt by a month in the Underdark to respond to sounds that don't belong.",
+    "source_quote": "I was awake before Fembris got through the second syllable \u2014 not because I sleep lightly by preference, but because a month in the Underdark had rebuilt my nervous system around that precise calibration",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum opens the door and speaks with a voice between inquiry and bracing for bad news, acknowledging the Keeper of Tomes is dead and processing what orcs wear to bed.",
+    "source_quote": "Grygum opened the door. I heard his voice land somewhere between inquiry and bracing for bad news: \"The Keeper of Tomes?\" ... he said something about not having thought through what orcs wear to bed",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "The Messenger",
+    "fact": "The messenger is commoner-born, boyish, delighted by his urgency, and sprinted across old stone corridors to deliver the news that the Keeper of Tomes is dead.",
+    "source_quote": "He was commoner-born, I could see that much \u2014 enthusiastic in the way of someone who has been trusted with important information for the first time and found the experience clarifying. Boyish. Very slightly delighted by his own urgency",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool watches from the corner with patient attentiveness, assesses the situation, and flows into his bag with unhurried pragmatism, two eyeballs tracking the room, ready and equipped.",
+    "source_quote": "Glabbagool had been watching from the corner with the patient attentiveness he'd developed since acquiring eyes. ... He flowed toward the bag, arranged himself inside it, and peered out from the opening with two eyeballs tracking the room. Ready. Equipped.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "The Avowed",
+    "fact": "The Avowed are still asleep, and the First Reader is acting to contain the Keeper\u2019s death before they awaken, indicating a deliberate bypass of institutional authority.",
+    "source_quote": "the Avowed were still asleep. The window was narrowing with every minute we spent in this room. ... she wanted this contained. It also meant she thought we were the right instrument for containing it. *Before the avowed awake*",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "The First Reader",
+    "fact": "The First Reader has bypassed standard channels to summon Daz and Grygum specifically, indicating trust in them over the Avowed or city watch, and seeks to control the narrative of the Keeper\u2019s death.",
+    "source_quote": "The First Reader wanted us specifically, not the Avowed, not the city watch \u2014 us, through the emerald door, before the avowed awake.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Death of the Keeper of Tomes",
+    "fact": "The Keeper of Tomes is dead, triggering a covert response from the First Reader, a summons to Daz and Grygum, and a race against the awakening of the Avowed.",
+    "source_quote": "The Keeper of Tomes is dead! She wants you! Now, through the emerald door, before the avowed awake!",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Candlekeep",
+    "fact": "Candlekeep is a grand library with elevated structures, guarded passages, and architectural features like the Astronomicon and Whispering Dome, functioning as a center of knowledge and power.",
+    "source_quote": "Behold, the great library. ... The Astronomicon ... The Whispering Dome ... The Drakonoikos.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "The Emerald Door",
+    "fact": "The emerald door is the designated entry point to the scene of the Keeper\u2019s death, chosen for its secrecy and timing to avoid detection by the Avowed.",
+    "source_quote": "through the emerald door, before the avowed awake!",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "The Astronomicon",
+    "fact": "The Astronomicon is a stack of ascending blue globes containing all known knowledge of the stars \u2014 a surface-world artifact absent from the Underdark.",
+    "source_quote": "You see that curious blue stack of globes? That's the Astronomicon. Everything we know about the stars can be found there.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "The Whispering Dome",
+    "fact": "The Whispering Dome is a gold-veined structure within the Hall of Momentous Deeds where voices from the past linger and can be heard by those who stand in the right place.",
+    "source_quote": "The Whispering Dome sat further along, gold under the snow \u2014 striking, even by surface standards. ... voices from the past lingered there, that you could hear them if you stood in the right place.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Notes",
+    "fact": "The notes are picked up as the party prepares to move, indicating they are essential tools for recording and navigating the unfolding events.",
+    "source_quote": "I picked up my notes.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Why the First Reader chose Daz and Grygum",
+    "fact": "The First Reader bypassed institutional channels to summon Daz and Grygum specifically \u2014 the reason for this trust remains unexplained and must be answered.",
+    "source_quote": "The question of why she thought that was, I noted, a question I would need answered.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "The identity and purpose of the Drakonoikos",
+    "fact": "The Drakonoikos is mentioned but not explained \u2014 its nature, function, or significance in Candlekeep remains an unresolved mystery.",
+    "source_quote": "Then the Drakonoikos.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "The Spy Inside Glabbagool",
+    "fact": "A spy resides within Glabbagool, presumably equipped and observing \u2014 an internal entity that enhances his surveillance capability.",
+    "source_quote": "The spy somewhere inside him, presumably also equipped.",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "Session date",
+    "fact": "The events occur after a prolonged stay in the Underdark, with the party now in Candlekeep \u2014 a temporal anchor marking their transition from subterranean survival to surface institutional intrigue.",
+    "source_quote": "a month in the Underdark had rebuilt my nervous system... Candlekeep's beds had done their work.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Fembris",
+    "fact": "Fembris is a dragon of some age and significance, now physically merged into the wall of the bastion, having produced the name 'Dragon Breath Simulation Chamber' after visible effort and pause, and warned the party about its lethal history.",
+    "source_quote": "Fembris warned us about the Dragon Breath Simulation Chamber inside. One of the Avowed had died in it, he said, which was why the Keeper's permission was now required.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is a human who misinterprets lethal simulation chambers as game mechanics, reduced the death of an Avowed to 'that's amazing' and 'great game to play,' and declared his own readiness despite the danger.",
+    "source_quote": "That sounds like a great game to play,\" Grygum said. \"Later.\" \"I've still got plenty left in me,\" he added, more quietly.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daral",
+    "fact": "Daral is a council member with gray slick-backed hair and thin lips, questioning the absence of Sylvira Savikas and probing the legitimacy of the party\u2019s presence, revealing academic paranoia masked as procedural concern.",
+    "source_quote": "why isn't Sylvira Savikas here?\" \"Oh, merely, merely guests,\" I said. And then I added: \"I am the head of the Grygumite School.\" A beat. \"Founder, in fact.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "A'lai Aivenmore",
+    "fact": "A'lai Aivenmore is a tall, handsome, braided-bearded councilor pushing for immediate restoration of leadership to Candlekeep, presenting with polished confidence that suggests premeditation or exceptional performance.",
+    "source_quote": "We must have the vote and restore leadership to Candlekeep.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "The Dowdy Halfling",
+    "fact": "The dowdy halfling with pince-nez is pushing for determination of a successor before addressing murder, prioritizing bureaucratic procedure over crisis response.",
+    "source_quote": "First, we must determine if Janussi named a successor\u2014",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "The Slender Human",
+    "fact": "The slender human with heavy wrinkles is prioritizing the identification of the murderer, demonstrating the only clear tactical clarity in the council\u2019s chaos.",
+    "source_quote": "First, we must find the murderer!",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "The Bronze Dragonborn",
+    "fact": "The bronze dragonborn in bejeweled robes is demanding dismissal of the gate warden, asserting blame and positioning himself as prosecutor with full awareness of his authority and appearance.",
+    "source_quote": "The gate warden needs to be dismissed with immediate effect! This happened on HIS watch!",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Bookwyrm",
+    "fact": "Bookwyrm is a green dragonborn council member, visibly exhausted from prolonged wakefulness and the emotional toll of a colleague\u2019s murder, attempting to restore calm amid escalating chaos.",
+    "source_quote": "Let's be calm ourselves\u2026",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "The Purple-Robed Watcher",
+    "fact": "The purple-robed watcher at the Chapter House entrance assessed the party briefly and stepped aside without challenge, having been pre-instructed to expect them.",
+    "source_quote": "A purple-robed watcher stood at the entrance, assessed us briefly, and stepped aside. No challenge. They had been told to expect us.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "The Council of Twelve",
+    "fact": "The Council of Twelve is a scholarly governing body of Candlekeep, currently in crisis after the murder of a colleague, divided on procedure, leadership, and blame, and vulnerable to external frameworks introduced by outsiders.",
+    "source_quote": "Twelve chairs around a twelve-sided table, rose window throwing colored light across the stone floor, western gables pressing down overhead like a building that took itself seriously.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "The Grygumite School",
+    "fact": "The Grygumite School is a newly asserted intellectual framework, founded by Grygum, which has momentarily displaced the Council\u2019s focus from murder to epistemological novelty.",
+    "source_quote": "I am the head of the Grygumite School.\" A beat. \"Founder, in fact.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "The Avowed",
+    "fact": "The Avowed are an elite order within the bastion, at least one of whom died in the Dragon Breath Simulation Chamber, indicating lethal operational standards and prior casualties.",
+    "source_quote": "One of the Avowed had died in it, he said, which was why the Keeper's permission was now required.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "The Garden Shadow",
+    "fact": "The Garden Shadow is a training institution whose curriculum omitted the extreme conditions of the Underdark, creating a gap between expected and actual preparedness among its graduates.",
+    "source_quote": "After months of training under conditions the Garden Shadow had never specified in their curriculum, a few flights was nothing.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "murder of a councilor",
+    "fact": "A senior councilor has been murdered, triggering a crisis of leadership, procedure, and blame within the Council of Twelve, with no consensus on next steps.",
+    "source_quote": "First, we must find the murderer!",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "arrival of the party",
+    "fact": "An outsider party \u2014 orc, dragonborn, dwarf, drow \u2014 has entered the Chapter House, unannounced but pre-authorized, and disrupted the council\u2019s proceedings by introducing an unfamiliar intellectual framework.",
+    "source_quote": "They cataloged us immediately \u2014 orc, dragonborn, dwarf, drow \u2014 and sorted us into the correct drawer: arrivals. unknown provenance. examine.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Chapter House",
+    "fact": "The Chapter House is a twelve-sided chamber with rose window, stone floor, and high ceilings, used for council deliberations, with a single guarded entrance and no visible secondary exit.",
+    "source_quote": "Twelve chairs around a twelve-sided table, rose window throwing colored light across the stone floor, western gables pressing down overhead like a building that took itself seriously.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "The Bastion",
+    "fact": "The bastion is a structure built from dragon scales and bones, with walls incorporating lethal simulation chambers, heavy tapestries, and staircases lined with stern sages \u2014 a fusion of sacred architecture and deadly function.",
+    "source_quote": "The structure was built from scales \u2014 actual scales, enormous, overlapping \u2014 and bones worked into the walls where another building would have used stone.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "The Underdark",
+    "fact": "The Underdark is a treacherous subterranean realm characterized by drop-offs, uneven rubble, crawling tunnels, and ledges over voids \u2014 where survival demands adaptation beyond formal training.",
+    "source_quote": "The Underdark does not offer gentle grades; what it offers is drop-offs, uneven rubble, tunnels that require you to crawl for twenty minutes before opening into a space large enough to stand, ledges over nothing where the fall is long and the landing is not the concern because something will have found you by the time you get there.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Dragon Breath Simulation Chamber",
+    "fact": "The Dragon Breath Simulation Chamber is a lethal training apparatus within the bastion, responsible for the death of at least one Avowed, requiring Keeper\u2019s permission for access, and mischaracterized by Grygum as a game.",
+    "source_quote": "Fembris warned us about the Dragon Breath Simulation Chamber inside. One of the Avowed had died in it, he said, which was why the Keeper's permission was now required.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Tapestries of the Bastion",
+    "fact": "The heavy tapestries lining the bastion\u2019s corridors are capable of concealing threats or secrets, contributing to an atmosphere of latent danger.",
+    "source_quote": "The tapestries were heavy and could conceal anything or nothing.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "absence of Sylvira Savikas",
+    "fact": "The absence of Sylvira Savikas from the Council of Twelve is a pointed mystery, implying her potential involvement in the murder, suppression of information, or intentional withdrawal.",
+    "source_quote": "why isn't Sylvira Savikas here?",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "identity of the murderer",
+    "fact": "The identity of the murderer remains unknown, with no consensus among the Council, and the party\u2019s arrival has introduced unverified external variables into the investigation.",
+    "source_quote": "First, we must find the murderer!",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "legitimacy of Grygum\u2019s authority",
+    "fact": "Grygum\u2019s claim to found the Grygumite School is unverified, and its sudden introduction into the Council\u2019s crisis may be a deliberate distraction or an authentic intellectual incursion.",
+    "source_quote": "I am the head of the Grygumite School.\" A beat. \"Founder, in fact.",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The events occurred during a council session following the recent murder, with no specific calendar date given, but context implies immediate aftermath.",
+    "source_quote": "The Chapter House was exactly as described \u2014 twelve chairs around a twelve-sided table, rose window throwing colored light across the stone floor, western gables pressing down overhead like a building that took itself seriously.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Dragon Scales and Bones (architectural)",
+    "fact": "The walls of the bastion are composed of enormous, overlapping dragon scales and bones, suggesting the use of slain dragons as structural components \u2014 a fusion of horror and holy architecture.",
+    "source_quote": "The structure was built from scales \u2014 actual scales, enormous, overlapping \u2014 and bones worked into the walls where another building would have used stone.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "The Party (Orc, Dragonborn, Dwarf, Drow)",
+    "fact": "The party consists of four non-human outsiders, whose presence is noted and categorized by the Council as 'unknown provenance,' and whose arrival has shifted the focus of the crisis from murder to epistemological novelty.",
+    "source_quote": "They cataloged us immediately \u2014 orc, dragonborn, dwarf, drow \u2014 and sorted us into the correct drawer: arrivals. unknown provenance. examine.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Bookwyrm",
+    "fact": "Bookwyrm is the librarian who initiated the investigation into Janussi\u2019s death, withheld key testimony about Janussi\u2019s request for Kalan\u2019s resignation, and proposed confidential, conditionally successful remuneration \u2014 'one book each, copied at the House of the Binder, upon successful completion' \u2014 while insisting on confidentiality papers. She claims innocence but was examined by Thorin.",
+    "source_quote": "I had nothing to do with it.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is the investigator who pressed for full library access, demanded remuneration in the form of books, and insisted on examining all parties \u2014 including Bookwyrm \u2014 after she withheld evidence. He framed the investigation as a matter of divine mandate and scholarly rigor, referencing Poirot and Colombo as intellectual ancestors.",
+    "source_quote": "Are we supposed to investigate if we can't poke around?",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is the investigator who has prior history with Kalan Strongbranch \u2014 having been nearly imprisoned upon arrival \u2014 and who consistently points out that testimony is evidence, challenging Bookwyrm\u2019s selective disclosure. He has firsthand experience with Underdark investigations and fungal scourges.",
+    "source_quote": "Her testimony is itself evidence.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Kalan Strongbranch",
+    "fact": "Kalan Strongbranch is the gate warden who was ordered to resign by Janussi the morning of the murder, cited for declining mental faculties and negligence. He has a piercing gaze and an authoritative posture, and his bow to Bookwyrm was correct \u2014 but his eyes were not. He is the first person the narrator plans to question.",
+    "source_quote": "(Silent bow; eyes were not.)",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "A'lai Aivenmore",
+    "fact": "A'lai Aivenmore is the council member who observed the room with the precision of a Bahamut scholar, calibrated responses to unspoken tensions, and chose the fastest resolution \u2014 not because he endorsed it, but because he saw no reason to object. He is a master of non-committal leadership.",
+    "source_quote": "I don't see a reason to object.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "The Council of the Library",
+    "fact": "The Council of the Library is the governing body that authorized the investigation into Janussi\u2019s death, demanded confidentiality, and initially resisted granting access to the library\u2019s resources. They were surprised by the request for carte blanche, realizing they had been protecting something they didn\u2019t know they guarded.",
+    "source_quote": "We had not realized we were protecting.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Janussi's death",
+    "fact": "Janussi, the Keeper of Tomes, was found dead under mysterious circumstances. The morning before his death, he requested Kalan Strongbranch\u2019s resignation due to suspected mental decline and negligence. No cause of death was disclosed, and the investigation began with withheld testimony and conflicting agendas.",
+    "source_quote": "Janussi asked the gate warden to tender his resignation.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "The Library of the Binder",
+    "fact": "The Library of the Binder is the central repository where the investigation is conducted. It is a place of strict protocol, where books are not given freely, and access is tightly controlled. It holds secrets that even its own council hesitates to acknowledge.",
+    "source_quote": "The library is not in the habit of giving out books.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "The Confidentiality Papers",
+    "fact": "The Confidentiality Papers are legal documents required before any investigation proceeds. They bind participants to secrecy, and their existence signals that the Council fears exposure more than they fear the murder.",
+    "source_quote": "Confidentiality papers first.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "One Book Each (Copied at the House of the Binder)",
+    "fact": "The proposed remuneration for the investigators is one book each, copied at the House of the Binder, to be delivered only upon successful completion of the investigation. This is a symbolic, conditional payment \u2014 not for labor, but for discretion.",
+    "source_quote": "One book each, copied at the House of the Binder, upon successful completion.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Fungal Scourges",
+    "fact": "Fungal scourges are recurring hazards referenced in past Underdark investigations, used by Daz to contextualize the group\u2019s experience. They are not present at the crime scene but serve as narrative anchors for credibility.",
+    "source_quote": "Fungal scourges, the whole abbreviated catalogue of what we'd actually done over the past months.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "The Unspoken Protection",
+    "fact": "The Council had been protecting something \u2014 access, knowledge, or perhaps a person \u2014 without realizing it. The request for full library access exposed this, and the murder became secondary to the revelation of institutional concealment.",
+    "source_quote": "We had not realized we were protecting.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Kalan's Eyes Were Not",
+    "fact": "Kalan Strongbranch\u2019s bow was correct, but his eyes were not \u2014 a silent, potent indicator of hidden intent. This observation marks him as the primary subject of the narrator\u2019s next move, and the thread of his loyalty or guilt remains unspoken.",
+    "source_quote": "He was the first person I planned to question.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Bookwyrm's Pause",
+    "fact": "When Thorin asked 'Where were you?', Bookwyrm paused \u2014 just long enough to weigh something. That pause is the most significant moment in the interrogation so far, and the narrator chose not to write down what it meant \u2014 but took notes anyway.",
+    "source_quote": "I did not write down what I thought her expression meant... But I took notes.",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "The morning before Janussi's death",
+    "fact": "On the morning before Janussi\u2019s death, he requested Kalan Strongbranch\u2019s resignation. This temporal anchor is the last known action before the murder and the only concrete event preceding the investigation.",
+    "source_quote": "Yesterday morning, Janussi asked the gate warden to tender his resignation.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "The Narrator",
+    "fact": "The Narrator is the investigator who observes, records, and interprets the room like a Bahamut text \u2014 reading not what is said, but what is conspicuously not said. They file distinctions, note pauses, and plan questions before speaking. They are the only one who recognizes that the real value on the table is not the books, but the excuse to poke everywhere.",
+    "source_quote": "See, this gives us an excuse to poke our nose in everywhere. That's valuable.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Tadric",
+    "fact": "Tadric is a young human guard with a bowl-cut, assigned to crowd control at the tower entrance; he admitted his role was not observational and felt embarrassment upon realizing his job was insufficient for the scale of the event; he confirmed the timeline of arrivals and departures around the death of Janussi.",
+    "source_quote": "I was told to make sure only the right people came in and out.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Kalan",
+    "fact": "Kalan was the previous guard at the tower door, relieved before the party\u2019s arrival; Tadric noted he looked more determined leaving than entering, suggesting he had encountered something significant before being removed from duty.",
+    "source_quote": "Kalan looked more determined coming out than going in.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Janussi",
+    "fact": "Janussi was found dead by the Great Reader A'lai Aivenmore and housekeeper Miss Hollypocket around 7:30 a.m.; the cause and circumstances of death remain unexamined by the party, though a death rite was already performed by the Gate Warden.",
+    "source_quote": "Janussi found dead by the Great Reader and the housekeeper, one Miss Hollypocket, around half past seven in the morning.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Gate Warden",
+    "fact": "The Gate Warden arrived at 8 a.m., spoke briefly with the discoverers, returned alone at 11 a.m. for a full inspection, and exited with an expression of discovery; he was removed from duty before being questioned, and his findings remain undisclosed.",
+    "source_quote": "The Gate Warden again at eleven, alone, for a full inspection \u2014 careful, deliberate, left to make his report to the Council.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Kazryn Nyantani",
+    "fact": "Kazryn Nyantani arrived shortly after 8 a.m., distraught, and was permitted only a doorway view of the body; no further interaction occurred.",
+    "source_quote": "Kazryn Nyantani, distraught, shortly after eight \u2014 allowed to see the body but only from the doorway.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Fheminor Scrivenbark",
+    "fact": "Fheminor Scrivenbark arrived at 8:30 a.m., appeared shocked, and requested to inspect the chamber but was turned away.",
+    "source_quote": "Fheminor Scrivenbark at half past eight, appearing shocked, wanting to inspect the chamber, turned away.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Bookwyrm",
+    "fact": "Bookwyrm arrived at 9 a.m. from the baths and was granted a brief look at the body before confirming the existing orders; she later provided theological commentary on the cat.",
+    "source_quote": "Bookwyrm at nine, arriving from the baths, allowed a brief look before confirming the existing orders.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Fembris",
+    "fact": "Fembris is a dwarf who became increasingly agitated after the second landing; he insists the cat is not a supernatural entity but a normal cat, despite evidence suggesting otherwise; he later revised his definition of 'anything' to include legal boundaries.",
+    "source_quote": "These Avowed had taken a cat sitting wherever it liked and turned it into an interstellar, interspatial, interdimensional horror \u2014 that's just what cats do.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is a drow who quietly questioned whether the cat might be something more than it appears; his single word \u2014 'Is it?' \u2014 caused Fembris to reconsider his position.",
+    "source_quote": "Is it?",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is a dragonborn investigator who consistently focuses on structural truths: he identifies testimony as evidence, proposes examining people as objects of inquiry, and notes the fragility of the corpse due to elapsed time since death.",
+    "source_quote": "But your testimony is evidence. Maybe you are evidence, and we should examine you.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Bookwyrm",
+    "fact": "Bookwyrm is a half-orc who offered a theological disclaimer regarding the cat, asserting that no one has conclusively proven it is or is not a power that lives here; she later stepped around the cat without fear.",
+    "source_quote": "Nobody had been able to conclusively prove the cat was some kind of power that lived here, and nobody had been able to conclusively prove that it was not.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "The Cat",
+    "fact": "The cat is gray, with yellow eyes, motionless until approached, then tracks movement without needing to move itself; it has been observed multiple times by different individuals; its nature is debated as either mundane or supernatural; it has been described as a familiar, shapeshifter, or interdimensional entity, though no proof exists either way.",
+    "source_quote": "Gray. Motionless. Yellow eyes that opened the moment we got close. The cat had decided it need not move for anyone, and tracked us anyway.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "The Tower",
+    "fact": "The tower contains a spiraling staircase with key locations on each landing: a reception chamber on the first, a shrine of Oghma on the second, and a large apartment with its door left conspicuously ajar on the third; the apartment has not yet been entered by the party.",
+    "source_quote": "Reception chamber at the first landing, a shrine of Oghma at the second, a large apartment at the third with its door left conspicuously ajar.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "The Third-Floor Apartment",
+    "fact": "The third-floor apartment\u2019s door is left open, a deliberate anomaly in an otherwise controlled environment; it has been noted and filed for later examination, as it is the only unsecured interior space in the tower.",
+    "source_quote": "I noted the apartment. Noted that the door was open. Filed it for later.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "The Death Rite",
+    "fact": "A death rite has already been performed on Janussi\u2019s corpse by the Gate Warden prior to the party\u2019s arrival; this renders the rite unusable for another attempt for a significant duration, delaying any spiritual inquiry.",
+    "source_quote": "Someone \u2014 presumably the Gate Warden, before his removal \u2014 had already used the rite on the corpse, which meant we'd be waiting if we wanted to try again.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Removal of the Gate Warden",
+    "fact": "The Gate Warden was removed from duty after conducting a full inspection of the crime scene and before being questioned; his removal suggests an attempt to suppress or control the flow of information regarding his findings.",
+    "source_quote": "The Gate Warden removed before he could be asked what he'd found.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "The Open Door",
+    "fact": "The open door of the third-floor apartment is an unexplained anomaly in a highly controlled environment; its purpose and contents are unknown, but its existence implies a deliberate act or hidden evidence.",
+    "source_quote": "A door left ajar on the third floor landing.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "The Cat's Nature",
+    "fact": "The cat\u2019s behavior and the conflicting interpretations of it by the party suggest a hidden supernatural truth; its persistence, indifference, and the theological debate surrounding it imply it is more than it appears \u2014 or that someone wants others to believe it is.",
+    "source_quote": "That's kind of how cats always are, I think,\" I said, because it is.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "The Gate Warden's Discovery",
+    "fact": "The Gate Warden exited the crime scene after his inspection with a demeanor of discovery, yet was removed before reporting; his findings remain unknown, making him the most critical unspoken witness.",
+    "source_quote": "Tadric noted that Kalan looked more determined coming out than going in.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "The Unobserved Gap",
+    "fact": "Tadric admitted he was not observing, only controlling; the Gate Warden\u2019s movements inside the chamber during his inspection were unrecorded; this gap in observation is the most significant vulnerability in the timeline.",
+    "source_quote": "He had not been watching closely enough to track what he'd done in there.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "The Need to Enter",
+    "fact": "The party has not yet entered the third-floor apartment; its open door, proximity to the crime scene, and lack of documentation make it the next logical point of inquiry \u2014 the place where answers may be hidden.",
+    "source_quote": "I hadn't been inside yet. That was where I needed to be.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Tadric",
+    "fact": "Tadric was standing guard at the door when the party arrived, young and human, trying to appear composed despite being rattled. He provided timeline details and confirmed protocol adherence. He admitted his role was crowd control, not surveillance, and showed regret over the oversight. He is a decent person who recognized the gap in procedure but felt powerless to fix it.",
+    "source_quote": "Tadric admitted his job had been crowd control, not surveillance \u2014 watching who came in and out, not watching what they did once they were inside.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "A'lai Aivenmore",
+    "fact": "A'lai Aivenmore discovered Janussi's body around half past seven in the morning alongside a servant named Miss Hollypocket. They were the first to find the victim and initiated the chain of events leading to the gate warden\u2019s involvement.",
+    "source_quote": "A'lai Aivenmore and a servant called Miss Hollypocket found Janussi dead around half past seven in the morning.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Miss Hollypocket",
+    "fact": "Miss Hollypocket was the servant who found Janussi\u2019s body alongside A'lai Aivenmore. She is described as rigidly protocol-bound \u2014 she would never have allowed candles to burn down to nothing, implying Janussi had been dead before the candles extinguished.",
+    "source_quote": "Miss Hollypocket would never have allowed the Keeper to let candles burn down to nothing. Full stop. It wasn't her way.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Kazryn",
+    "fact": "Kazryn, described as a weeping woman, arrived shortly after the body was found and demanded to see it. Her emotional state and timing suggest personal connection to the victim, though her actions did not interfere with the crime scene.",
+    "source_quote": "Then the weeping woman \u2014 Kazryn, apparently \u2014 showed up shortly after, wanting to see the body.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Fheminor Scrivenbark",
+    "fact": "Fheminor Scrivenbark arrived at half past eight, stern and shocked, and attempted to inspect the chamber but was turned away. His demeanor indicates authority and interest in the investigation, though he was denied access.",
+    "source_quote": "Then Fheminor Scrivenbark at half past eight, stern, shocked, wanting to inspect the chamber but turned away.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "The Bookwyrm",
+    "fact": "The Bookwyrm arrived at nine, fresh from the baths, took a brief look at the scene, and confirmed the gate warden\u2019s orders. Their presence was observational and authoritative, lending weight to procedural compliance.",
+    "source_quote": "Then the Bookwyrm at nine, in from the baths, taking a brief look before confirming the gate warden's orders.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "The Gate Warden",
+    "fact": "The Gate Warden arrived at eight with Tadric and returned at eleven for a full investigation. He was described as careful not to disturb evidence. His demeanor shifted to determination after inspecting the scene, suggesting he identified something significant \u2014 possibly a clue \u2014 that he had not yet decided how to act upon.",
+    "source_quote": "He definitely looked more determined after he walked out. Determined means he found something and hadn't decided what to do with it yet.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Janussi",
+    "fact": "Janussi, around seventy, was found dead in white robes soaked dark around the torso, his rib cage caved in and a hollow in his chest where something had been removed. He was a scholar engaged in research on unfamiliar magical workings, annotated in multiple ink layers \u2014 Celestial, midnight blue, and purple \u2014 suggesting a progression of thought. His final notes, written in the freshest ink, were missing. He was likely murdered hours before discovery.",
+    "source_quote": "Janussi \u2014 around seventy, white robes, vacant eyes aimed at nothing. The robes were soaked dark around the torso. His rib cage had been caved in. There was a hollow in his chest where something used to be.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Fembris",
+    "fact": "Fembris reacted violently upon seeing the body, vomiting out an open window. He did not return to the room. His reaction underscores the grotesque nature of the crime and his unpreparedness for such a sight.",
+    "source_quote": "Fembris took one look at the body, crossed the room in four steps, flung a window open, and vomited out of it.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "The Keeper",
+    "fact": "The Keeper is an institutional figure associated with candle maintenance and room protocol. Miss Hollypocket's adherence to standards implies the Keeper enforces strict rules against allowing candles to burn out, indicating a culture of order and oversight.",
+    "source_quote": "Miss Hollypocket would never have allowed the Keeper to let candles burn down to nothing.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "murder of Janussi",
+    "fact": "Janussi was murdered sometime before seven-thirty a.m., likely several hours before discovery. The murder involved blunt force trauma that caved in his rib cage and removed an object from his chest. The crime scene remained undisturbed for hours, with candles burning out and tobacco smoke lingering \u2014 evidence that the room was sealed and no one entered or exited until discovery.",
+    "source_quote": "The murder happened well before anyone found him. The candles told the same story. The smoke was old.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "discovery of the body",
+    "fact": "The body was discovered at 7:30 a.m. by A'lai Aivenmore and Miss Hollypocket. The scene was preserved until the gate warden\u2019s arrival at 8 a.m. and subsequent investigations. No one disturbed the evidence, and the room remained sealed for hours.",
+    "source_quote": "A'lai Aivenmore and a servant called Miss Hollypocket found Janussi dead around half past seven in the morning.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "candle burnout",
+    "fact": "The seven-arm bronze candelabra burned its candles entirely to wax puddles, indicating the room had been sealed and unattended for several hours \u2014 long enough for the candles to extinguish naturally. This implies Janussi was dead before the candles finished burning.",
+    "source_quote": "The candelabra \u2014 seven arms, bronze \u2014 had burned its candles entirely to wax puddles.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "ink spill",
+    "fact": "A pot of midnight blue ink was spilled on the desk, accompanied by a quill with a nib covered in the same ink. Neither the quill nor the ink had been moved since the spill, suggesting the incident occurred at the moment of death or immediately before \u2014 and that the killer did not clean up.",
+    "source_quote": "A quill on the floor. Nib covered in midnight blue. A wicker basket nearby holding a linen ink carrier, slightly damp, which had been the vessel for the ink now pooling from the spilled pot.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "missing notes",
+    "fact": "The freshest set of notes \u2014 written in midnight blue ink on the subject of The Golden Ass \u2014 were missing from the desk. Their removal was deliberate, indicating the killer sought to conceal Janussi\u2019s most recent research, likely the motive for the murder.",
+    "source_quote": "The book the blue ink was annotating \u2014 The Golden Ass \u2014 wasn't in the room. Whatever Janussi had been working on most recently... was gone. That felt deliberate.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "tobacco smoke linger",
+    "fact": "Tobacco smoke filled the room, lingering despite the windows being shut. The smoke was old and not recent, indicating the room had been sealed for hours \u2014 consistent with the candle burnout and the timeline of death preceding discovery.",
+    "source_quote": "The room was circular, ringed with lancet windows... full of pale morning light that had gone slightly yellow and hazy from something I placed almost immediately: tobacco smoke. Lingering.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "the study chamber",
+    "fact": "The study chamber was circular, with lancet windows that were shut, filled with lingering tobacco smoke and pale morning light. The desk was neat, the chair overturned, a marble statue and pedestal on the floor, and a candelabra reduced to wax. The safe on the far wall was open, with blue gems and empty pouches scattered. The environment was preserved, untouched since the murder.",
+    "source_quote": "The room was circular, ringed with lancet windows... The desk was neatly kept... The safe on the far wall had been opened. Blue gems and empty pouches scattered on the floor.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "The Discoveries (spellbook)",
+    "fact": "A spellbook titled The Discoveries lay open on the desk, annotated in Celestial script with academic musings on unfamiliar magical workings \u2014 likely Janussi\u2019s own research. It was undisturbed and central to the scene.",
+    "source_quote": "A spellbook sat open in the center of the desk: The Discoveries. To one side, notes in Celestial, generic academic work, someone musing on unfamiliar workings and how they might be performed.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "midnight blue ink notes",
+    "fact": "A pile of notes in midnight blue ink, pinned under a quartz weight, contained recent annotations on top of older purple notes. These were the freshest writings in the room and likely related to The Golden Ass \u2014 the subject of Janussi\u2019s final research. The notes are now missing.",
+    "source_quote": "To the other side, a larger pile of notes pinned under a quartz weight, with more annotations on top in midnight blue ink \u2014 and below those, older notes in purple.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "quill with midnight blue nib",
+    "fact": "A quill lay on the floor with its nib coated in midnight blue ink, matching the spilled ink pot. It had not been moved since the spill, indicating it fell during the attack or shortly after.",
+    "source_quote": "A quill on the floor. Nib covered in midnight blue.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "linen ink carrier",
+    "fact": "A wicker basket held a linen ink carrier, slightly damp \u2014 the vessel that had contained the spilled midnight blue ink. It had not been cleaned or moved, preserving evidence of the spill\u2019s timing.",
+    "source_quote": "A wicker basket nearby holding a linen ink carrier, slightly damp, which had been the vessel for the ink now pooling from the spilled pot.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "candelabra (seven-arm, bronze)",
+    "fact": "A seven-arm bronze candelabra had burned all its candles to wax puddles, indicating the room had been sealed and unattended for hours \u2014 confirming the murder occurred long before discovery.",
+    "source_quote": "The candelabra \u2014 seven arms, bronze \u2014 had burned its candles entirely to wax puddles.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "marble statue and pedestal",
+    "fact": "The marble statue and its pedestal were found on the floor, suggesting a struggle or disturbance near the desk \u2014 possibly during the attack on Janussi.",
+    "source_quote": "The marble statue and its pedestal were on the floor.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "The Golden Ass (missing book)",
+    "fact": "The book The Golden Ass, which was being annotated in the freshest ink, was missing from the room. Its removal indicates the killer sought to conceal Janussi\u2019s final research \u2014 the likely motive for the murder.",
+    "source_quote": "The book the blue ink was annotating \u2014 The Golden Ass \u2014 wasn't in the room.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "motive for murder",
+    "fact": "The murder appears to have been motivated by the theft of Janussi\u2019s most recent research \u2014 specifically the notes on The Golden Ass, written in midnight blue ink. The victim\u2019s chest was hollowed out, suggesting the object removed was not jewelry but something tied to his research \u2014 possibly a magical artifact or component.",
+    "source_quote": "Whatever he took, it wasn't jewelry... That felt deliberate in the way that things feel deliberate when you stop trying to find an innocent explanation for them.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "identity of the killer",
+    "fact": "The killer was likely someone familiar with the chamber\u2019s protocols, able to enter without raising suspicion, and knew to preserve the scene. The absence of forced entry, the timing of the smoke and candles, and the deliberate removal of the notes suggest an insider \u2014 possibly someone who had access to the study and knew Janussi\u2019s work.",
+    "source_quote": "Nobody smokes in a sealed room and leaves smoke that lingers for hours unless the room has been sealed for hours.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "nature of the stolen object",
+    "fact": "The object removed from Janussi\u2019s chest was not jewelry \u2014 it was likely a magical artifact or component tied to his research on The Golden Ass. The hollow in his chest and the missing notes together suggest the killer sought a physical manifestation of the magic he was studying \u2014 perhaps a soul-bound glyph, a spell core, or a living inscription.",
+    "source_quote": "There was a hollow in his chest where something used to be... Whatever he took, it wasn't jewelry.",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "time of discovery",
+    "fact": "Janussi\u2019s body was discovered at 7:30 a.m. The gate warden arrived at 8 a.m., the Bookwyrm at 9 a.m., Fheminor Scrivenbark at 8:30 a.m., and the gate warden returned at 11 a.m. for a full investigation.",
+    "source_quote": "A'lai Aivenmore... found Janussi dead around half past seven in the morning... Tadric himself arrived with the gate warden at eight... Fheminor Scrivenbark at half past eight... The Bookwyrm at nine... the gate warden himself back at eleven.",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "time of death",
+    "fact": "Janussi was murdered well before 7:30 a.m. \u2014 likely between midnight and 4 a.m. \u2014 as evidenced by the fully burned candles and lingering tobacco smoke, both of which require hours to develop under sealed conditions.",
+    "source_quote": "The murder happened well before anyone found him... The candles told the same story.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "none",
+    "fact": "No monster or supernatural creature was observed or implied in the scene. The violence was physical, not arcane or bestial. The caved-in rib cage suggests human or humanoid force.",
+    "source_quote": "Was this cut neatly with a sharp scalpel-like thing, or was it, like, torn out with somebody's bare hands?",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "protocol failure",
+    "fact": "Tadric\u2019s admission that his role was crowd control, not surveillance, reveals a critical failure in crime scene protocol. No one was monitoring what individuals did once inside \u2014 allowing the killer to remove the notes and the object without detection.",
+    "source_quote": "Tadric admitted his job had been crowd control, not surveillance \u2014 watching who came in and out, not watching what they did once they were inside.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir concluded the rib cage was smashed by multiple close, deliberate axe blows, the heart was missing, and the blood was localized \u2014 a pattern inconsistent with a violent death, suggesting the victim was already dead before the chest was opened.",
+    "source_quote": "The question: was he dead before his heart was hacked out?",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum identified the removal of the heart as a precaution to prevent resurrection, not souvenir collection, and stated that ritual reanimation requires vital organs to be present.",
+    "source_quote": "You can't bring someone back from death by ritual if their vital organs aren't present.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Tadric",
+    "fact": "Tadric confirmed attempts had been made to speak to the dead, but the dead were not speaking.",
+    "source_quote": "The dead were not speaking.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Gate Warden",
+    "fact": "The gate warden performed an evidence-preserving inspection and attempted to speak to the dead, but the attempt failed.",
+    "source_quote": "Yes. The gate warden. On his careful, evidence-preserving inspection.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "attempt to commune with corpse",
+    "fact": "An attempt to speak to the corpse was made by the gate warden, and due to the nature of such workings, the same corpse cannot be reached again for some time after the attempt.",
+    "source_quote": "Such workings have narrow limits: once performed, the same corpse cannot be reached again for some time.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "resurrection prevention",
+    "fact": "The heart was removed not as a trophy but as a deliberate act to ensure Janussi could not be resurrected, implying the killer intended permanent death.",
+    "source_quote": "They wanted Janussi to stay dead in every sense that mattered.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "brain-based communication",
+    "fact": "There is a theoretical possibility of communicating with the corpse using only the brain, bypassing the missing heart, but prior attempts have failed.",
+    "source_quote": "We don't need the heart \u2014 we just need the brain to be able to talk to him, you know.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "corpse accessibility window",
+    "fact": "The corpse is currently inaccessible for further communion attempts, but will become accessible again after sufficient time has passed.",
+    "source_quote": "So if we wait long enough, then we can try again?",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "corpse",
+    "fact": "The corpse is in a state of decay, with noticeable odor, and has been subjected to post-mortem mutilation including removal of the heart and other organs.",
+    "source_quote": "Corpse will be a little stinky by then.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "missing heart",
+    "fact": "The heart was removed as a precautionary measure to block resurrection magic, and its absence is a deliberate signal or safeguard, not random violence.",
+    "source_quote": "It was a message. Or a precaution.",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "time until corpse accessibility",
+    "fact": "Sufficient time must pass before the corpse can be communed with again; the exact duration is unspecified but implied to be measurable in hours or days.",
+    "source_quote": "Yes.",
+    "quote_verified": true
+  }
+]

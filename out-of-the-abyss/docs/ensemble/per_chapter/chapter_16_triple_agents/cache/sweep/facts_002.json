@@ -1,0 +1,156 @@
+[
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is referenced by Gartokkar as the one who puts all of our cards on the table, so if we get arrested, we will have to tell the Stone Guards about the egg.",
+    "source_quote": "Thorin stares at him. 'I am just putting all of our cards on the table. So if we get arrested, we will have to tell the Stone Guards about the egg, right?'",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Gartokkar",
+    "fact": "Gartokkar is referenced by Thorin as the one who turns dark and then smiles, saying that sharing the egg would be a disaster.",
+    "source_quote": "Gartokkar turns dark and then smiles, 'You joke? Sharing that would be a disaster.'",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Gartokkar",
+    "fact": "Gartokkar is referenced by Thorin as the one who looks at him and says, 'Just find me the egg and the proof of the Gray Ghosts.'",
+    "source_quote": "Gartokkar looks at him, 'Just find me the egg and the proof of the Gray Ghosts.'",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is referenced by Thorin as the one who turns to him while looking at his collection of badges and says, 'So we flash the right one at the right time?'",
+    "source_quote": "Daz turns to Thorin while looking at his collection of badges, 'So we flash the right one at the right time?'",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is referenced by Grygum as the one who has a peculiar glint in his eye, turns to him, and says, 'I have an idea. These factions are all trying to play us against each other, and this Dragon is one of us. So what if we ride this Dragon out of here, laying waste to everything behind us?'",
+    "source_quote": "Thorin nods. And then he has a peculiar glint in his eye. He turns to Grygum, 'I have an idea. These factions are all trying to play us against each other, and this Dragon is one of us. So what if we ride this Dragon out of here, laying waste to everything behind us?'",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is referenced by Thorin as the one who smiles and says, 'As a cleric of Bahamut, I am appalled at how they treat Themberchaud. Let\u2019s do it.'",
+    "source_quote": "Grygum smiles, 'As a cleric of Bahamut, I am appalled at how they treat Themberchaud. Let\u2019s do it.'",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "building that houses Gartokkar\u2019s office",
+    "fact": "The building that houses Gartokkar\u2019s office is the location where Daz turns to Thorin while looking at his collection of badges, and where Thorin has a peculiar glint in his eye and turns to Grygum with his idea.",
+    "source_quote": "As they stand outside the building that houses Gartokkar\u2019s office, Daz turns to Thorin while looking at his collection of badges, 'So we flash the right one at the right time?' ... Thorin nods. And then he has a peculiar glint in his eye. He turns to Grygum, 'I have an idea. These factions are all trying to play us against each other, and this Dragon is one of us. So what if we ride this Dragon out of here, laying waste to everything behind us?'",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "egg",
+    "fact": "The egg is referenced by Gartokkar as the item that must be found, along with the proof of the Gray Ghosts, to avoid disaster.",
+    "source_quote": "Gartokkar looks at him, 'Just find me the egg and the proof of the Gray Ghosts.'",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "proof of the Gray Ghosts",
+    "fact": "The proof of the Gray Ghosts is referenced by Gartokkar as the item that must be found, along with the egg, to avoid disaster.",
+    "source_quote": "Gartokkar looks at him, 'Just find me the egg and the proof of the Gray Ghosts.'",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "collection of badges",
+    "fact": "The collection of badges is referenced by Daz as the item he is looking at when asking Thorin if they should flash the right one at the right time.",
+    "source_quote": "Daz turns to Thorin while looking at his collection of badges, 'So we flash the right one at the right time?'",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Duergar City Watch",
+    "fact": "The Duergar City Watch is referenced as the entity Thorin attempted to influence and direct during the incident with the stone giant, and whose official duties interference is seen as obstruction.",
+    "source_quote": "Thorin attempted to influence and direct the actions of the Duergar City Watch during the aforementioned incident with the stone giant.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Keepers of the Flame",
+    "fact": "The Keepers of the Flame are referenced as the group Thorin has repeatedly questioned, and whose authority and motives are perceived as dissent and disrespect.",
+    "source_quote": "Thorin has repeatedly questioned the authority and motives of various Duergar individuals and factions, including the Keepers of the Flame.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Gray Ghosts",
+    "fact": "The Gray Ghosts are referenced by Gartokkar as the group whose proof must be found alongside the egg.",
+    "source_quote": "Gartokkar looks at him, 'Just find me the egg and the proof of the Gray Ghosts.'",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Themberchaud",
+    "fact": "Themberchaud is referenced by Grygum as the entity he is appalled at how they treat, and by Gartokkar as one of the city's affairs Thorin is suspected of gathering intelligence on.",
+    "source_quote": "Grygum smiles, 'As a cleric of Bahamut, I am appalled at how they treat Themberchaud. Let\u2019s do it.' ... Given his questioning and interest in the city's affairs, including the Keepers of the Flame and Themberchaud, Thorin is suspected of espionage...",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "stone giant",
+    "fact": "The stone giant is referenced as the deranged entity Thorin was involved in the altercation with, and whose actions contributed to the ensuing public disorder.",
+    "source_quote": "Thorin was involved in the altercation with the deranged stone giant.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Dragon",
+    "fact": "The Dragon is referenced by Thorin as the entity that is one of us, and that they may ride out of the city, laying waste to everything behind them.",
+    "source_quote": "Thorin turns to Grygum, 'I have an idea. These factions are all trying to play us against each other, and this Dragon is one of us. So what if we ride this Dragon out of here, laying waste to everything behind us?'",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "interrogation by Stone Guards",
+    "fact": "The interrogation by Stone Guards is referenced by Thorin as the event that will occur if they are arrested, during which they will have to tell the truth about the egg.",
+    "source_quote": "Thorin stares at him. 'I am just putting all of our cards on the table. So if we get arrested, we will have to tell the Stone Guards about the egg, right?'",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "espionage investigation",
+    "fact": "The espionage investigation is referenced as the grave offense Thorin is suspected of, due to his questioning and interest in the city's affairs, including Themberchaud and the Keepers of the Flame.",
+    "source_quote": "Given his questioning and interest in the city's affairs, including the Keepers of the Flame and Themberchaud, Thorin is suspected of espionage or gathering intelligence for potentially hostile entities.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Gracklstugh",
+    "fact": "Gracklstugh is referenced as the hierarchical society where questioning authority is not tolerated, and where unauthorized access and association with undesirables are violations of city ordinances.",
+    "source_quote": "Such questioning can be perceived as dissent and disrespect, which is not tolerated within Gracklstugh's hierarchical society. ... Any unauthorized access to restricted areas is a violation of city ordinances. ... Such associations can raise suspicion and lead to accusations of conspiracy, aiding, and abetting.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Gartokkar\u2019s office",
+    "fact": "Gartokkar\u2019s office is the location referenced as the building they stand outside of, and where the conversation about the egg and the Gray Ghosts takes place.",
+    "source_quote": "As they stand outside the building that houses Gartokkar\u2019s office, Daz turns to Thorin while looking at his collection of badges... Gartokkar looks at him, 'Just find me the egg and the proof of the Gray Ghosts.'",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "passes",
+    "fact": "The passes are referenced as the items Thorin may have used to enter restricted areas, though such access is still unauthorized and a violation.",
+    "source_quote": "Depending on his movements within the city, Thorin may have entered areas restricted to non-Duergar citizens without proper authorization, even with the passes.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is referenced as a cleric of Bahamut who is appalled at how Themberchaud is treated, and who agrees to ride the Dragon out of the city.",
+    "source_quote": "Grygum smiles, 'As a cleric of Bahamut, I am appalled at how they treat Themberchaud. Let\u2019s do it.'",
+    "quote_verified": false
+  }
+]

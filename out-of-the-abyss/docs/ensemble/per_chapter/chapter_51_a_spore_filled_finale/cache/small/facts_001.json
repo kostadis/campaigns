@@ -1,0 +1,72 @@
+[
+  {
+    "type": "npc",
+    "subject": "Ilvara Mizzrym",
+    "fact": "Ilvara Mizzrym is the high priestess of House Mizzrym, Zuggtmoy's beloved instrument, corrupted vessel of a demon lord of fungal nightmare; she was grappled, dropped from forty feet, and delivered a targeted fear effect that prevented proximity.",
+    "source_quote": "She reached into whatever dark place Zuggtmoy had hollowed out inside her and she pushed \u2014 not against my body, not against my grip, but against the part of me that the training does not fully reach.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "The Narrator (Monk)",
+    "fact": "The narrator is a monk who relies on proximity, grappling, and environmental control; he attempted to annoy Ilvara, succeeded in delivering two critical strikes from a drop, but was then paralyzed by her fear effect and forced to remain at range.",
+    "source_quote": "I am a monk. My entire tactical vocabulary is built around being adjacent to the problem. Range is something other people deal with.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Heart Fungus",
+    "fact": "The heart fungus is a massive, sentient fungal entity that resides on the cavern floor; it attacked the monk from fifteen feet of reach, dealing significant bludgeoning and poison damage while the monk was immobilized by fear.",
+    "source_quote": "It found me. The blow was enormous \u2014 the kind of damage that lands differently when you have no immediate recourse.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "critical strikes and drop",
+    "fact": "The monk delivered two consecutive critical strikes while grappling Ilvara Mizzrym, then dropped her forty feet to the ground \u2014 a decisive tactical maneuver that succeeded in incapacitating her temporarily.",
+    "source_quote": "Forty feet up, gripping a corrupted high priestess, delivering consecutive critical strikes \u2014 and then I let her go. That was the point.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "fear effect activation",
+    "fact": "Ilvara Mizzrym activated a targeted fear effect through a DC-14 Wisdom saving throw, which imposed the frightened condition on the monk, preventing him from approaching her despite his tactical preference for proximity.",
+    "source_quote": "Roll a DC-14 Wisdom saving throw. Well. That didn't work. The fear was immediate and specific and entirely unwanted.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "monk's forced inaction",
+    "fact": "The monk, bound by monastic self-adjudication, chose to honor the frightened condition\u2019s restriction even against his own tactical interest, remaining forty feet above the ground while the battle continued below.",
+    "source_quote": "I am supposed to apply the rule honestly, even against my own interest. That is the monastic training operating at the level of self-adjudication.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Cavern of the Heart Fungus",
+    "fact": "The cavern is a vast, dark space dominated by an enormous obscene mass of heart fungus on the floor; the monk operated from the ceiling while Ilvara and the fungus engaged from below.",
+    "source_quote": "The cavernous space above the heart fungus was dark and vast and exactly the kind of silence I prefer to operate in.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "proximity denied",
+    "fact": "The monk's core tactical identity \u2014 built on closing distance, grappling, and environmental domination \u2014 has been nullified by Ilvara\u2019s fear effect, creating an unresolved tension between his training and his current inability to act.",
+    "source_quote": "Ilvara's legendary reaction had, in one economical move, made proximity impossible.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Tattooed Tendrils",
+    "fact": "A tattooed, living tendril on the monk's arm extends to facilitate grappling and movement; it was used to close the distance to Ilvara and initiate the grapple before the drop.",
+    "source_quote": "The eldritch tendrils of the tattoo were already unreeling from my arm before the words finished leaving my mouth.",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "session time",
+    "fact": "The events described occur during a single session of play, marked by the sequence of actions and reactions without reference to calendar time.",
+    "source_quote": "Then the dice agreed with me. Twice. *Crit.*",
+    "quote_verified": true
+  }
+]

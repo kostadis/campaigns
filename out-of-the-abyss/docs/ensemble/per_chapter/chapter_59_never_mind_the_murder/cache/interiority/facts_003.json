@@ -1,0 +1,317 @@
+[
+  {
+    "type": "event",
+    "subject": "Sprig",
+    "fact": "Sprig volunteered to taste each of the twelve dishes to ensure none was poisoned, despite the chefs saying it wasn't necessary.",
+    "source_quote": "She insisted.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Sprig",
+    "fact": "Sprig demonstrates initiative and dedication to the safety of the meal, which Daral believes should be a best practice.",
+    "source_quote": "That is the kind of initiative that I think should be commended. That needs to be a best practice going forward.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Sylvira Savikas",
+    "fact": "Sylvira Savikas pointed at her throat, too hoarse to talk, while searching the kitchens by candlelight.",
+    "source_quote": "The tiefling just pointed at her throat, too hoarse to talk.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Sprig",
+    "fact": "Sprig helped Sylvira Savikas find a pot of honey and said goodnight.",
+    "source_quote": "Sprig helped her find a pot of honey and said goodnight.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Alkrist",
+    "fact": "Alkrist was seen holding a small scrap of paper toward a candle, feeding it to the flame, and dropped it when two junior avowed walked in.",
+    "source_quote": "Alkrist had been holding a small scrap of paper toward a candle, feeding it to the flame, and when two junior avowed walked in, he dropped it.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Unknown",
+    "fact": "The string tied around Janussi's Deadwinter gift had been cut and retied.",
+    "source_quote": "The string tied around Janussi's Deadwinter gift had clearly been cut and retied.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Leuwin",
+    "fact": "Leuwin discovered a peppermint-soaked rag and a broken vial under the top shelf labeled *Dangerous Toxins*.",
+    "source_quote": "Under the top shelf I found a peppermint-soaked rag and a broken vial, and the shelf above the spillage was labeled, in Elvish, *Dangerous Toxins.*",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Nibbles",
+    "fact": "Nibbles the squirrel witnessed a dragonborn break the vial of dangerous toxin while Leuwin was downstairs with A'lai.",
+    "source_quote": "*because you gave me so many tokens, I saw the person, but Leuwin didn't, because Leuwin wasn't in the room.*",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Nibbles",
+    "fact": "Nibbles saw a drow bribing him one nut at a time to distract attention.",
+    "source_quote": "A drow on his knees, bribing a squirrel one nut at a time.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Nibbles",
+    "fact": "Nibbles saw a dragonborn enter, make a big mess, cause something to *bling* and shudder, move things around, and leave.",
+    "source_quote": "A huge lizard skin came in and made a big mess. Something went *bling* and shuddered, and the lizard moved things around, and then left.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "A'lai",
+    "fact": "A'lai arrived asking for fennel for indigestion and was taken by Leuwin through the rear exit to the greenhouse.",
+    "source_quote": "At three, A'lai arrived asking for fennel for indigestion, and Leuwin took him down through the rear exit to the greenhouse below.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Fheminor",
+    "fact": "Fheminor came for cold medicine at half past two, requesting tincture of horehound and licorice to chew.",
+    "source_quote": "At half past two, the gnome \u2014 Fheminor \u2014 came for cold medicine. Tincture of horehound, licorice to chew.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Alkrist",
+    "fact": "Alkrist's bedside table held a copy of *1001 Tashalian Nights* with a bookmark on the tale of a military commander poisoned by a magic horn coated in Midnight Tears.",
+    "source_quote": "On the bedside table lay a book \u2014 black leather, stars and gold filigree... The bookmark sat on the tale of a military commander, poisoned by a gift of surrender \u2014 a magic horn whose mouthpiece had been coated in Midnight Tears.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Alkrist",
+    "fact": "Alkrist studies poison by keeping dead rats with blistered, pustule-risen skin in sealed glass jars.",
+    "source_quote": "Sealed glass jars holding dead rats, their skin blistered and risen into pustules.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "A'lai",
+    "fact": "A'lai's chambers contained a dove cage built for five, with only two birds present, suggesting three messages had been sent recently.",
+    "source_quote": "The cage was built for five. Two birds sat in it. The feeding troughs, the droppings, the wear on five perches. There had been more than two.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Irony's silence",
+    "fact": "Irony cannot lie but did not answer directly \u2014 she steered the investigation toward Sprig instead, avoiding speech while remaining truthful.",
+    "source_quote": "She hadn't answered. She'd pointed us at Sprig instead. Can't lie isn't has to tell. She steered us rather than speak false.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Sylvira Savikas's identity",
+    "fact": "Sylvira Savikas is a tiefling who does not need candlelight, yet was seen searching by candlelight \u2014 raising suspicion that she may be impersonated.",
+    "source_quote": "Sylvira's a tiefling. A tiefling doesn't need the light.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "The honey pot",
+    "fact": "The honey pot provided to Sylvira may have been a cover for her being discovered while searching the kitchens at one in the morning.",
+    "source_quote": "The honey was the cover for when Irony walked in.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "The cut string",
+    "fact": "The cut and retied string on Janussi's gift suggests the poisoning was an inside job, committed by someone present at the table.",
+    "source_quote": "The cut string was the rock in the right place. Nobody came in from outside. This was somebody who'd been at the table.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "The dragonborn's role",
+    "fact": "The dragonborn took the risk of handling the poison while the drow created a diversion \u2014 an elegant, clean separation of culpability.",
+    "source_quote": "The drow caused the diversion and kept his hands clean of the highly toxic poisons that might kill you. The dragonborn took the risk.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Orrin Glass",
+    "fact": "Orrin Glass, the deaf waiter, noticed Alkrist burning a scrap of paper and dropping it when junior avowed entered.",
+    "source_quote": "He gave me one thing about Alkrist. Alkrist had been holding a small scrap of paper toward a candle, feeding it to the flame, and when two junior avowed walked in, he dropped it.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daral",
+    "fact": "Daral lit up when told about Sprig's initiative and immediately advocated for it to become a best practice.",
+    "source_quote": "Daral lit up again. 'That is the kind of initiative that I think should be commended. That needs to be a best practice going forward.'",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Teles Ahvoste",
+    "fact": "Teles Ahvoste was making advances toward Irony, prompting suspicion of motive or interference.",
+    "source_quote": "Teles Ahvoste. One of the other great readers, making passes at Irony.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir used Glabbagool the ooze to search the Readers' chambers, letting the ooze flow where he could not reach and reading what the ooze could not understand.",
+    "source_quote": "He flowed where I could not reach; I read what he could not understand.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir skipped Sylvira Savikas and Daral first, recognizing them as obvious or misleading targets.",
+    "source_quote": "I'm gonna skip Sylvira for now... But Daral's the one who's poisoned himself, right? Skip him as well.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir found a copy of *1001 Tashalian Nights* in Alkrist's room, bookmarked on a tale of poisoning via a magic horn coated in Midnight Tears.",
+    "source_quote": "The bookmark sat on the tale of a military commander, poisoned by a gift of surrender \u2014 a magic horn whose mouthpiece had been coated in Midnight Tears.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Leuwin",
+    "fact": "Leuwin claimed he could not imagine how the dangerous toxin vial was broken, despite the evidence of a cover-up.",
+    "source_quote": "That was shocking, he said. Unacceptable. He couldn't imagine how it had happened.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Nibbles",
+    "fact": "Nibbles the squirrel was bribed with nuts to reveal information about the poisoning, and his testimony was the key to the timeline.",
+    "source_quote": "A drow on his knees, bribing a squirrel one nut at a time.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz used acorns to bribe Nibbles the squirrel, recognizing that a witness with a price is the easiest kind to work.",
+    "source_quote": "I asked Leuwin for acorns first. Then I bent low and let the working loosen the squirrel's tongue into words I could follow, because a witness is a witness regardless of how many legs it has, and a witness with a price is the easiest kind to work.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz observed that the peppermint rag and broken vial were a badly executed cover-up, indicating an amateur or rushed attempt.",
+    "source_quote": "Badly. That was the word that mattered. A professional doesn't leave a peppermint rag where the next person to crouch down will find it.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz determined that the drow and dragonborn did not arrive together \u2014 the drow created a diversion while the dragonborn acted alone.",
+    "source_quote": "*Did they arrive together? That was the seam to press \u2014 whether the elf and the lizard walked in as a pair or staggered their timing.*",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir found three dead doves in A'lai's cage, indicating three recent messages had been sent.",
+    "source_quote": "The feeding troughs, the droppings, the wear on five perches. There had been more than two.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir noted that Alkrist's possession of *1001 Tashalian Nights* with a specific bookmark suggests he is studying poison methods.",
+    "source_quote": "The bookmark sat on the tale of a military commander, poisoned by a gift of surrender \u2014 a magic horn whose mouthpiece had been coated in Midnight Tears.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "The honey pot",
+    "fact": "The honey pot may have been an excuse to explain Sylvira\u2019s presence in the kitchens, masking her true intent.",
+    "source_quote": "The honey was the cover for when Irony walked in.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "The paper burning",
+    "fact": "Alkrist burning the scrap of paper and dropping it when junior avowed entered suggests he was destroying evidence.",
+    "source_quote": "Alkrist had been holding a small scrap of paper toward a candle, feeding it to the flame, and when two junior avowed walked in, he dropped it.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "The cut string",
+    "fact": "The cut and retied string on Janussi's gift indicates the poisoning was not an external act but an internal one, committed by someone who had access to the gifts.",
+    "source_quote": "The string tied around Janussi's Deadwinter gift had clearly been cut and retied.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Irony's evasion",
+    "fact": "Irony's refusal to speak directly, despite being unable to lie, suggests she is protecting someone or hiding a truth she cannot voice.",
+    "source_quote": "She hadn't answered. She'd pointed us at Sprig instead. Can't lie isn't has to tell. She steered us rather than speak false.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "The dragonborn's motive",
+    "fact": "The dragonborn took the risk of handling the poison, suggesting personal investment in the outcome \u2014 not merely following orders.",
+    "source_quote": "The drow caused the diversion and kept his hands clean of the highly toxic poisons that might kill you. The dragonborn took the risk.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "The drow's role",
+    "fact": "The drow\u2019s manipulation of the squirrel and orchestration of the diversion suggests a high level of planning and psychological manipulation.",
+    "source_quote": "A drow on his knees, bribing a squirrel one nut at a time.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "The poison taster",
+    "fact": "The fact that Sprig was the poison taster and survived suggests someone deliberately kept her off the poisoned dish \u2014 implying insider knowledge.",
+    "source_quote": "If the only mark was Janussi, then the taster's just collateral: she'd have gone down at midnight too, and nobody'd ever connect the dots. So either somebody kept her off the wrong plate on purpose, or she got lucky.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "The candlelight",
+    "fact": "Sylvira Savikas, a tiefling, does not need candlelight \u2014 her use of it suggests deception or disguise.",
+    "source_quote": "Sylvira's a tiefling. A tiefling doesn't need the light.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "The poison vial",
+    "fact": "The use of a peppermint rag to mask the smell of the toxin suggests the perpetrator had some knowledge of alchemy or poison handling.",
+    "source_quote": "Under the top shelf I found a peppermint-soaked rag and a broken vial...",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "The dove cage",
+    "fact": "The three missing doves from A'lai's cage suggest he sent three messages \u2014 possibly to coordinate the poisoning or report on progress.",
+    "source_quote": "The cage was built for five. Two birds sat in it. The feeding troughs, the droppings, the wear on five perches. There had been more than two.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "The book of tales",
+    "fact": "The bookmarked tale of poisoning via a magic horn coated in Midnight Tears suggests Alkrist is modeling his method on this story.",
+    "source_quote": "The bookmark sat on the tale of a military commander, poisoned by a gift of surrender \u2014 a magic horn whose mouthpiece had been coated in Midnight Tears.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "The rat jars",
+    "fact": "The dead rats with blistered, pustule-risen skin in Alkrist\u2019s room indicate he is actively testing or studying poison effects.",
+    "source_quote": "Sealed glass jars holding dead rats, their skin blistered and risen into pustules.",
+    "quote_verified": false
+  }
+]

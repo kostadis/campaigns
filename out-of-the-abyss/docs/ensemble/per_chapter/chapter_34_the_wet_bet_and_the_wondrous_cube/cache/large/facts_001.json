@@ -1,0 +1,149 @@
+[
+  {
+    "type": "npc",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool is a sentient gelatinous cube who once mindlessly consumed debris and cleaned floors but recently gained the ability to think and speak. He is confused by his sentience but eager to understand the world. He joined the party after being invited by Thorin, promised to eat dropped items, and expressed gratitude when given a lucky foot as a welcoming gift.",
+    "source_quote": "Glabbagool explained that he had once been an ordinary cube, mindlessly cleaning floors and consuming debris, but had recently gained the ability to think and speak. He was confused by his newfound sentience but eager to understand the world around him.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is a skeptical dwarf who initially predicted the party's situation would end in tears but later recognized Glabbagool's value and invited him to join their adventure. He used his strength to break through a wall, revealing a path to safety, and agreed to call the bet a draw due to Glabbagool's helpfulness.",
+    "source_quote": "Thorin, seeing an opportunity for both companionship and utility, invited Glabbagool to join their adventure. The cube agreed enthusiastically... Thorin agreed, and the party celebrated their narrow escape, grateful for their new friend and the unexpected shortcut to Blingdenstone.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Jimjar",
+    "fact": "Jimjar is a deep gnome guide who defended his navigational choices through the Underdark, insisted the shifting passages were normal, and proposed a wager on whether tears would mark their journey. He declared the adventure had not ended in tears and offered to call the bet a draw due to Glabbagool's presence.",
+    "source_quote": "Jimjar declared that the adventure had not ended in tears after all, and he offered to call the bet a draw due to the charming and helpful Glabbagool joining their ranks.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is a monk who repeatedly engaged and dispatched gray oozes with precise, powerful blows from his bare fists. He acted swiftly when formless sculptures materialized into oozes, clearing each one efficiently and helping the party navigate the flooded chamber.",
+    "source_quote": "Zalthir stepped forward without hesitation, striking the creature with a series of powerful blows from his bare fists... Zalthir sprang into action, dispatching the creature with a flurry of precise strikes.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a party member who investigated and confirmed the dire flooding situation, identifying an earthquake as the cause of the underground reservoir's rupture. He later finished off a gray ooze with a devastating spell.",
+    "source_quote": "Daz investigated further and confirmed the dire situation: an earthquake had caused an underground reservoir to crack open... Daz finished off one of the gray oozes with a devastating spell.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Eldeth",
+    "fact": "Eldeth is a dwarf who recognized the flooding phenomenon as an underground river breaking through stone. She shared stories of escape methods but warned of the risk of accelerating the flood.",
+    "source_quote": "Eldeth, another dwarf in the party, recognized the phenomenon as an underground river breaking through the stone. She shared stories of people who had successfully escaped similar situations by breaking through the rock, but she also warned of the risk of causing the water to flood even faster.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool volunteered to investigate the chamber with formless sculptures, touched them to trigger ooze emergence, cleaned up ooze remnants, discovered a hidden treasure cache in the fountain, and confirmed he did not need to breathe, making him immune to drowning.",
+    "source_quote": "Glabbagool volunteered to investigate the room first... Glabbagool meticulously cleaned up the remnants... Glabbagool confirmed that he did not need to breathe, making him immune to the drowning threat.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "gray ooze",
+    "fact": "Gray oozes emerged from rising water and formless sculptures. They were dispatched by Zalthir's bare-fisted strikes, Daz's devastating spell, and Glabbagool's consumption. Multiple instances were encountered throughout the dungeon.",
+    "source_quote": "a gray ooze emerged from the rising waters... Zalthir stepped forward... Daz finished off one of the gray oozes... When Glabbagool touched one of the formless sculptures, it immediately materialized into a gray ooze.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "black pudding",
+    "fact": "A black pudding emerged from a hidden pit trap after Thorin fell in. The party retreated to avoid its corrosive touch and successfully kited it from range until it was defeated.",
+    "source_quote": "Thorin fell victim to a hidden pit trap... a black pudding emerged from the depths... The party quickly decided to retreat... They successfully kited the creature, attacking it from range until it was defeated.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "gelatinous cube",
+    "fact": "Glabbagool is a sentient gelatinous cube, distinct from other oozes. He blocked narrow passages with his ten-foot body, consumed ooze remnants, discovered treasure, and was immune to drowning. He was befriended by the party and agreed to join them.",
+    "source_quote": "Glabbagool\u2014a massive gelatinous cube they had just befriended\u2014inadvertently blocked the narrow passage... Glabbagool cheerfully acknowledged... Glabbagool explained that he had once been an ordinary cube... The cube agreed enthusiastically.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Blingdenstone",
+    "fact": "Blingdenstone is the party's intended destination, reached after a series of perilous detours through the Underdark. The journey was deemed an unexpected shortcut due to Glabbagool's assistance and the revealed underground river.",
+    "source_quote": "that finding an exit through their current location was remarkably convenient\u2014perhaps even a shortcut to their destination of Blingdenstone... grateful for their new friend and the unexpected shortcut to Blingdenstone.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Underdark",
+    "fact": "The Underdark is the subterranean realm through which the party traveled, filled with flooding passages, hidden traps, and sentient oozes. It contained chambers with formless sculptures, a stone fountain, and cracks caused by an earthquake.",
+    "source_quote": "the party emerged from yet another unexpected detour through the Underdark... As they ventured deeper into the passage... a stone fountain filled with shallow, brackish water... cracks in the ceiling, caused by the same earthquake that had trapped them.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "flooded chamber with formless sculptures",
+    "fact": "A chamber with seven niches containing formless sculptures and a stone fountain. Touching the sculptures triggered gray ooze emergence. Glabbagool cleaned the floor and discovered treasure hidden in the fountain.",
+    "source_quote": "a chamber containing a stone fountain filled with shallow, brackish water... seven niches were carved into the walls, some empty and others holding strange, formless sculptures... Glabbagool discovered a hidden cache of treasure.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "drow dagger",
+    "fact": "A drow dagger was discovered in the hidden treasure cache beneath the stone fountain, alongside silver, gold, and oil of slipperiness.",
+    "source_quote": "Glabbagool discovered a hidden cache of treasure: one hundred twelve silver pieces, three gold pieces, a drow dagger, and a vial of oil of slipperiness.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "oil of slipperiness",
+    "fact": "A vial of oil of slipperiness was found in the hidden treasure cache beneath the stone fountain, likely useful for evading pursuit or escaping traps.",
+    "source_quote": "Glabbagool discovered a hidden cache of treasure: one hundred twelve silver pieces, three gold pieces, a drow dagger, and a vial of oil of slipperiness.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "dark metal mace",
+    "fact": "A dark metal mace was found in a chamber containing the hovering remains of a drow and scattered coins, alongside the sentient gelatinous cube Glabbagool.",
+    "source_quote": "In a chamber containing the hovering remains of a drow, along with a dark metal mace and scattered coins, they had encountered the sentient gelatinous cube.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "earthquake causing flooding",
+    "fact": "An earthquake ruptured an underground reservoir, causing water to flood the entire cave system. This event trapped the party and led to the discovery of an underground river, which ultimately became their escape route.",
+    "source_quote": "an earthquake had caused an underground reservoir to crack open, and water was pouring into the cave system... water was entering through cracks in the ceiling, caused by the same earthquake that had trapped them.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "breaking through the wall",
+    "fact": "Thorin used his strength to break through a wall, doubling the water flow but revealing a diverted underground river that provided a path to safety. The party swam upward thirty feet and emerged into a large cavern.",
+    "source_quote": "Thorin used his considerable strength to break through the wall, causing more of the ceiling to collapse and doubling the water flow. However, this also revealed a diverted underground river that provided a path to safety.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "creation of air pockets",
+    "fact": "The party used magic to create temporary air pockets, advancing five feet at a time through flooded passages. Glabbagool confirmed he did not need to breathe and agreed to allow resurrection attempts on fallen members before consumption.",
+    "source_quote": "One member proposed using a spell to manipulate the water, creating temporary bubbles of air... They decided to proceed with this plan, creating a progression of air pockets and advancing five feet at a time... Glabbagool confirmed that he did not need to breathe, making him immune to the drowning threat, and he agreed to allow the party to attempt resurrection on any fallen members before consuming them.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "bet on tears",
+    "fact": "Jimjar proposed a wager on whether literal or metaphorical tears would mark their journey. Thorin accepted the bet, but after Glabbagool's arrival and their escape, Jimjar declared the adventure had not ended in tears and offered to call it a draw.",
+    "source_quote": "Jimjar proposed a wager on whether tears\u2014literal or metaphorical\u2014would indeed mark their journey... Jimjar declared that the adventure had not ended in tears after all, and he offered to call the bet a draw due to the charming and helpful Glabbagool joining their ranks.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Glabbagool's sentience",
+    "fact": "Glabbagool's sudden acquisition of thought and speech remains unexplained, and his desire to understand his new sentience introduces an ongoing narrative thread about identity and purpose.",
+    "source_quote": "Glabbagool explained that he had once been an ordinary cube... but had recently gained the ability to think and speak. He was confused by his newfound sentience but eager to understand the world around him.",
+    "quote_verified": false
+  }
+]

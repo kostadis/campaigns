@@ -1,0 +1,184 @@
+[
+  {
+    "type": "npc",
+    "subject": "Hgraam",
+    "fact": "Hgraam is a Stone Giant who speaks the wisdom of the stones, reveals that the Deep King has been corrupted by an advisor named Shal, and gifts the stonespeaker crystal to enable Speak with Animals, Speak with the Dead, Speak with Plants, and enhanced divinations.",
+    "source_quote": "Hgraam sighs, \u201cYes, it was a tragedy. You did not try to kill him. But you did try to stop him. He was driven mad.\u201d ... His assistant brings a 19 inch shard of quartz crystal. ... \u201cThis is the stonespeaker crystal, with it you can cast Speak with Animals, Speak with the Dead, and Speak with Plants. It will also help you cast divinations.\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Shal",
+    "fact": "Shal is the mysterious advisor to the Deep King who has caused him to reject sage counsel and become paranoid, and whom Hgraam has tried and failed to meet.",
+    "source_quote": "Yes, Shal, an advisor of his. Ever since they became friends, The Deep King has been unwilling to listen to any sage advice.\u201d ... \u201cI have asked to meet Shal, but they refuse.\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Cairngorm Cavern",
+    "fact": "The Cairngorm Cavern is the entrance to the Deep King\u2019s domain, connected to Laduguer\u2019s Furrow, and marked by colossal stone structures and polished rock surfaces.",
+    "source_quote": "From Themberchaud\u2019s cave to the Cairngorm Cavern, Thorin and his friends must traverse through the city of Duergar... A long tunnel opens in the eastern wall south of Laduguer\u2019s Furrow. The tunnel is gigantic, even by the massive size of Gracklstugh. And the rock is well polished.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Laduguer\u2019s Furrow",
+    "fact": "Laduguer\u2019s Furrow is a pristine, orderly Duergar thoroughfare flanked by entrances leading to the Derro slums, and it contrasts sharply with the chaotic, cluttered West Cleft District.",
+    "source_quote": "From the Cairngorm Cavern, Laduguer\u2019s Furrow is just a short distance. Looking around, he notices how this is so spotlessly clean in its style. At either edge of this Furrow is an entrance. And past that entrance, he can see a slum.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "West Cleft District",
+    "fact": "The West Cleft District is a squalid, unstructured Derro slum carved into the rock walls, filled with muttering, insane inhabitants, and marked by filth, decay, and open hostility toward outsiders.",
+    "source_quote": "The homes in this part of Gracklstugh are crudely carved from the rock or are just holes in the walls, arranged in no apparent order. The chatter in the air is unnerving, with hundreds of derro muttering, screaming at each other, and otherwise reveling in their insanity. Those who spot Grygum look at him with a burning hatred.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Whorlstone Caverns",
+    "fact": "The Whorlstone Caverns are a hidden network accessible only through secret passages in the Derro slums, used by Droki as a secure courier route trusted by all factions.",
+    "source_quote": "Droki can be trusted to deliver messages to the groups in the Whorlstone caverns and keep secrets. ... He steps over the moldy boxes, and jumps into the crack. Just as he disappears into the cavern, a wisp of eerie fog floats out.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "stonespeaker crystal",
+    "fact": "The stonespeaker crystal is a 19-inch shard of quartz crystal gifted by Hgraam that enables the spells Speak with Animals, Speak with the Dead, Speak with Plants, and enhances divination magic.",
+    "source_quote": "His assistant brings a 19 inch shard of quartz crystal. ... \u201cThis is the stonespeaker crystal, with it you can cast Speak with Animals, Speak with the Dead, and Speak with Plants. It will also help you cast divinations.\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Droki\u2019s path",
+    "fact": "Droki\u2019s path is a well-worn trail through the Derro slums marked with dropped junk, deliberately maintained to ensure his predictability and reliability as a courier.",
+    "source_quote": "Droki's path is very well worn and marked with junk that the Derro drops. The Derro\u2019s predictability is precisely why everyone uses him.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Buppido\u2019s shrine",
+    "fact": "Buppido\u2019s shrine is a macabre altar constructed from humanoid bones and skeletons arranged in a spiral pattern, used to channel divine power and attract worshipers.",
+    "source_quote": "The floor is carpeted with humanoid remains in varying stages of decomposition, arranged in a spiral pattern around the cave\u2019s center. ... I didn\u2019t expect you to find me here, with my shrine nearly finished!",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Council of Savants",
+    "fact": "The Council of Savants is a Derro organization that promised freedom to the Derro but failed to deliver, leading to Buppido\u2019s radicalization and his belief in a divine mission to save his people.",
+    "source_quote": "He screams about the Council of Savants who promised freedom and failed to deliver freedom. ... The Council of Savants will fail my people. I must go and save them!",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Deep King\u2019s Court",
+    "fact": "The Deep King\u2019s Court is the ruling authority of the Underdark city, now corrupted by the advisor Shal, struggling to maintain order as chaos seeps upward from the Underdark and downward from the surface.",
+    "source_quote": "The Deep King has tried to keep order and control, and the more he trie,s the more the order escapes and tries to take the city from him.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Cult of Tiamat",
+    "fact": "The Cult of Tiamat is a demonic sect that resorted to an extraordinary ritual to bring Tiamat into the prime material plane due to the loss of divine accessibility after the end of the great sundering.",
+    "source_quote": "The end of the great sundering ended the era that allowed the gods to walk in Faer\u00fbn freely. It\u2019s why the Cult of Tiamat had to resort to such an extraordinary ritual to bring her into the prime material plane.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Stone Giants",
+    "fact": "Stone Giants are ancient, slow-speaking beings attuned to the rocks, who perceive the pain of the Underdark and speak in cryptic portents, and are capable of wielding divine insight and magical artifacts.",
+    "source_quote": "The giant stares at him. And then raises an eyebrow. ... \u201cSomething evil stirs in the Underdark. The rock itself cries in pain and horror, and a madness creeps from the blackest depths.\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Derro",
+    "fact": "Derro are insane, subterranean humanoids who live in chaotic, unstructured slums, exhibit violent paranoia, and are feared and despised by both Duergar and surface dwellers.",
+    "source_quote": "The chatter in the air is unnerving, with hundreds of derro muttering, screaming at each other, and otherwise reveling in their insanity. Those who spot Grygum look at him with a burning hatred.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Droki",
+    "fact": "Droki is a Derro courier whose unnaturally fast pace and ritualistic muttering make him a trusted and invisible conduit between factions, and whose path through the slums is the only safe route to the Whorlstone Caverns.",
+    "source_quote": "He mutters a repetitive series of phrases at different volumes... Droki also doesn\u2019t seem to care if anyone is following him. ... Droki wanders between the various houses and merchants of the Derro, as if there is no purpose to his walking.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "The Great Sundering",
+    "fact": "The Great Sundering ended the era when the gods could walk freely in Faer\u00fbn, triggering a collapse in divine access and enabling unnatural demonic incursions into the material plane.",
+    "source_quote": "The end of the great sundering ended the era that allowed the gods to walk in Faer\u00fbn freely.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "The Corruption of the Deep King",
+    "fact": "The Deep King\u2019s descent into paranoia and isolation began when he befriended the advisor Shal, who cut him off from sage counsel and accelerated the collapse of order in the Underdark city.",
+    "source_quote": "Ever since they became friends, The Deep King has been unwilling to listen to any sage advice.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "The Rise of Buppido\u2019s Shrine",
+    "fact": "Buppido transformed from a captive Derro into a self-proclaimed prophet who constructed a bone altar in the caves and began demanding worship, believing his divine mission was being fulfilled.",
+    "source_quote": "I didn\u2019t expect you to find me here, with my shrine nearly finished! And power! My faithful are finally honoring me!",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "The Escape from Laduguer\u2019s Furrow",
+    "fact": "The abandoned Duergar guardhouses along Laduguer\u2019s Furrow were repurposed as observation posts by Buppido and Grygum to track Droki\u2019s movements, revealing the historical liberation of Derro by Tarngardt and the lingering tension between the races.",
+    "source_quote": "The duergar built a series of guardhouses to keep an eye on their derro slaves living in the West Cleft. These were abandoned when Deepking Tarngardt, grandfather of the current monarch, who liberated the derro, allowing them to spread from the West Cleft District into the East Cleft District.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "The Revelation of the Stonespeaker Crystal",
+    "fact": "Hgraam\u2019s gift of the stonespeaker crystal revealed that the Stone Giants possess knowledge of divine magic beyond mortal understanding and are willing to aid those who heed the stones\u2019 warnings.",
+    "source_quote": "\u201cThis is the stonespeaker crystal, with it you can cast Speak with Animals, Speak with the Dead, and Speak with Plants. It will also help you cast divinations.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "The Faerzress and Sanity",
+    "fact": "The Faerzress, the magical radiation of the Underdark, is implied to be weakening the sanity of those exposed to it, possibly linking it to the madness spreading from the blackest depths.",
+    "source_quote": "Thorin wonders if this has anything to do with the Faerzress, which has affects his sanity.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "The Grey Ghosts",
+    "fact": "The Grey Ghosts are entities created by the Deep King as enemies to justify his paranoia, and their existence reflects the psychological unraveling of his rule.",
+    "source_quote": "Grey Ghosts? The Deep King creates so many enemies. He used to be so calm. He and I would watch the stones grow. But something has happened to him. He has become paranoid towards old and new friends.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "The Demons of Valkenvylve and Beholder of Spidersilk",
+    "fact": "The demons observed at Valkenvylve, the Beholder in the Spidersilk caves, the demonic manta rays, and Demogorgon are not isolated events but manifestations of a single, growing magical rupture in the Underdark.",
+    "source_quote": "Zalthir turns to Thorin, \u201cThe Stone Giant is particularly attuned to the rocks? So what we have seen as localized appearances of demons is not localized. The demons at Valkenvylve, the Beholder in the Spidersilk caves, the demonic manta rays, and Demogorgon, all of this is no coincidence.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "The Two-Faced Cave",
+    "fact": "The portent of the cave with two faces, the rock devoured, the land overgrown, the pebble believing itself flesh, and the tunnels shaking in fury are recurring omens that mark the presence of evil\u2019s face in the Underdark.",
+    "source_quote": "A cave with two faces. Rock devoured, and the land overgrown. The pebble believes itself flesh. The earth rejects its wards, and the tunnels shake in fury.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "The Deep Gnomes as Path to the Dreamlands",
+    "fact": "The Deep Gnomes are the only viable route to the Dreamlands, as confirmed by Hgraam, and their city is the key to navigating the Underdark\u2019s hidden pathways.",
+    "source_quote": "Thorin learns from Hgraam that the best way to the Dreamlands is through the city of the Deep gnomes.",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "10th day of the 1st Tenday of Myrtul 1493",
+    "fact": "On this date, the Stone Giant Hgraam reveals the corruption of the Deep King, gifts the stonespeaker crystal, and the party begins their descent into the true heart of the Underdark\u2019s madness.",
+    "source_quote": "10th day of the 1st Tenday of Myrtul 1493",
+    "quote_verified": true
+  }
+]

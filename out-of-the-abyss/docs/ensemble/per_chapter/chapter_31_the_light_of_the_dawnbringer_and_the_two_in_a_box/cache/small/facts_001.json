@@ -1,0 +1,198 @@
+[
+  {
+    "type": "npc",
+    "subject": "Dawnbringer",
+    "fact": "Dawnbringer is a powerful sunblade that can read and write, and can cast lesser restoration. It speaks with a sentient voice, reacts to emotional cues, and manifests a shimmering blade of light where no physical blade exists. It insists on being helped and resists being left behind or extinguished.",
+    "source_quote": "The sword introduces itself as Dawnbringer. A powerful sunblade that can read and write, and can cast lesser restoration.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is an orc who is easily surprised by magical phenomena, especially those defying physical norms. He makes a belching sound before expelling acid, and frequently voices humorous comparisons to other magical items. He is emotionally expressive and awed by beauty.",
+    "source_quote": "Grygum shouts, \u201cNot a talking sword.\u201d ... Grygum mutters, \u201cA talking mace would have been nice.\u201d ... Grygum chortled, \u201cI guess they didn't like the tomb.\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a spellcaster who is skeptical of magical oddities, rolls his eyes at Grygum\u2019s reactions, and is methodical in detecting and disarming traps. He uses fairy fire to reveal invisible objects and is attuned to magical residue. He is the one who recognizes the true nature of the Dawnbringer and the false tomb.",
+    "source_quote": "Daz takes no chances and climbs out of the room into the passageway... I sense some kind of magical trap that was tied to this place.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is a compassionate warrior whose choices are consistently unusual. He picks up the magical hilt after the wraith is slain, and his action triggers the manifestation of Dawnbringer\u2019s light-blade. He insists on keeping the sword lit, even at night.",
+    "source_quote": "Thorin, whose choices are always interesting, decides to drop his sword and pick up the magical hilt.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is a monk who uses his hands to strike wraiths, is deeply attuned to spiritual and metaphysical cues, and is unnerved by undead or fungal horrors. He operates in darkness and is wary of the Myconids' transformative disease.",
+    "source_quote": "I focus my mind and strike the wraith with my hands... Zalthir, who finds the idea of mushrooms that turn you into zombies very creepy, covers himself in his orb of darkness and hangs back.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Sarith",
+    "fact": "Sarith is a drow guide who is serene but visibly unhappy in the presence of Myconids and their home. She follows them reluctantly despite her discomfort, suggesting a complex relationship with her own people's traditions or the Myconids' culture.",
+    "source_quote": "Sarith, our drow guide, looks unhappy and serene but follows the myconid\u2019s.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Jimjar",
+    "fact": "Jimjar is a cheerful, competitive character who makes bets and races ahead with enthusiasm. He encourages others with playful reminders and shares in the joy of discovery.",
+    "source_quote": "Jimjar smiles at me and says, \u201cRemember my bet,\u201d as he races after the two myconids and Sarith.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Rump-a-dump",
+    "fact": "Rump-a-dump is a Myconid who expresses joy and belonging by shouting, \u201cWe\u2019re home!\u201d upon entering Neverlight Grove. He is part of the fungal community that considers the grove sacred.",
+    "source_quote": "I hear Rump-a-dump's delight and Stool\u2019s happiness as they run into the cavern shouting, \u201cWe\u2019re home!\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Stool",
+    "fact": "Stool is a Myconid who shares Rump-a-dump\u2019s joy and excitement upon returning to Neverlight Grove. Like other Myconids, he glows with bioluminescence and is deeply connected to the cavern\u2019s living light.",
+    "source_quote": "I hear Rump-a-dump's delight and Stool\u2019s happiness as they run into the cavern shouting, \u201cWe\u2019re home!\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Myconids",
+    "fact": "The Myconids are a sentient fungal race that live in harmony with Neverlight Grove. They glow with bioluminescent light, communicate joy through vocalizations, and consider the grove their home. Some are affected by a mysterious disease, but they remain integral to the ecosystem.",
+    "source_quote": "Myconids, the mushroom folk we're traveling with, are everywhere, and they seem to be a part of this vibrant world... the mysterious disease affecting the Myconids.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Drow",
+    "fact": "The Drow are a subterranean elven race who pursued the party through the Underdark. They are now believed to have been lost on the trail. Sarith, their guide, is a lone representative who exhibits ambivalence toward the Myconids and their home.",
+    "source_quote": "Eldeth told us this morning that she believed we had lost them. They were no longer on our trail.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Neverlight Grove",
+    "fact": "Neverlight Grove is a vast, bioluminescent cavern in the Underdark, illuminated by living fungi that emit a mosaic of blues, greens, and purples. It is a cathedral-like environment teeming with Myconids, with a ceiling and walls covered in glowing fungal forests. It opens via a dimly lit tunnel formed by a dried underground stream, and beyond lies a narrow ravine leading to a distant majestic mushroom.",
+    "source_quote": "We have just entered this magical place from a natural tunnel that was formed by a drying underground stream... the mushroom forest that covers every surface, including the ceiling...",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "False Tomb of Brysis",
+    "fact": "The False Tomb of Brysis is a decoy sarcophagus designed to appear as a resting place for a powerful undead entity. It is easily opened and contains treasure, but was magically linked to a trap that dissipated upon Brysis\u2019s death. It was warned against by Fargas Rumblefoot.",
+    "source_quote": "This was the false tomb, complete with a sarcophagus that was very easy to open. This was the place that Fargas Rumblefoot warned us of.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Real Tomb of Brysis",
+    "fact": "The Real Tomb of Brysis is the true resting place of the undead wraith, where Dawnbringer was found and the wraith was slain. It is connected to the False Tomb via passageways and contains the mummified corpse with the sword hilt held by withered hands.",
+    "source_quote": "As we look around for treasure, we stumble on an invisible chest... Once we have collected the treasure of Brysis, we climb out of the real tomb...",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Dawnbringer (sword hilt)",
+    "fact": "Dawnbringer is a sentient magical hilt that manifests a shimmering blade of light when held. It can speak, cast lesser restoration, read and write, and demands assistance. It resists being extinguished or abandoned and reacts emotionally to the presence of monks and fighters.",
+    "source_quote": "The sword hilt sits on top of the mummified corpse... The sword rejoices, and then, where there is no blade, a shimmering blade of light appears.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Necklace of Fireballs",
+    "fact": "A magical necklace that contains multiple fireball charges, recovered from the invisible chest in the Real Tomb of Brysis. It is among the treasure collected by the party.",
+    "source_quote": "Inside, we find even more treasure: a necklace of fireballs, a potion of greater healing, and some gold.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Potion of Greater Healing",
+    "fact": "A powerful healing potion recovered from the invisible chest in the Real Tomb of Brysis. It is part of the treasure collected by the party after defeating the wraith.",
+    "source_quote": "Inside, we find even more treasure: a necklace of fireballs, a potion of greater healing, and some gold.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Invisible Chest",
+    "fact": "An enchanted chest rendered invisible until revealed by fairy fire. It was located in the Real Tomb of Brysis and contained valuable treasure, including the necklace of fireballs and potion of greater healing.",
+    "source_quote": "As we look around for treasure, we stumble on an invisible chest. Using fairy fire, I outline the box, and Zalthir opens it.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Death of Brysis",
+    "fact": "Brysis, the wraith, was slain by a combination of magical strikes and acid expelled by Grygum. Its death triggered the dissipation of a magical trap tied to the False Tomb and allowed the party to claim its treasure.",
+    "source_quote": "The creature howls in pain and disappears. Killed by barf. What an odd way to go.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Discovery of Neverlight Grove",
+    "fact": "The party arrived at Neverlight Grove after three uneventful days in the Underdark. The grove\u2019s bioluminescent beauty overwhelmed Grygum and the Myconids, who declared it home. It marked a turning point from hostile Underdark travel to a moment of awe and respite.",
+    "source_quote": "Today, we arrive at Neverlight Grove... Wow, this place is incredible.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Loss of Drow Pursuers",
+    "fact": "The Drow pursuers were confirmed lost on the trail by Eldeth, ending a prolonged chase. This allowed the party to travel without immediate threat and focus on exploration and recovery.",
+    "source_quote": "Eldeth told us this morning that she believed we had lost them. They were no longer on our trail.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Activation of Dawnbringer's Light",
+    "fact": "When Thorin picked up the hilt, Dawnbringer manifested a shimmering blade of light where none existed, confirming its sentient nature and magical power. This event marked the sword\u2019s full awakening and integration into the party\u2019s arsenal.",
+    "source_quote": "Thorin... picks up the magical hilt. The sword rejoices, and then, where there is no blade, a shimmering blade of light appears.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Myconid Disease",
+    "fact": "A mysterious disease is affecting the Myconids traveling with the party, though its nature and origin remain unknown. It is noted as a lingering concern despite the beauty of Neverlight Grove.",
+    "source_quote": "the mysterious disease affecting the Myconids",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Majestic Mushroom",
+    "fact": "A distant, majestic mushroom is visible beyond the ravine in Neverlight Grove, but its details are obscured. Its significance, origin, or connection to the Myconids is unknown and remains unexplored.",
+    "source_quote": "I catch a glimpse of a majestic mushroom, but it\u2019s too far away for me to see any details.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Fargas Rumblefoot's Warning",
+    "fact": "Fargas Rumblefoot warned the party about the False Tomb, a deception now confirmed. His knowledge of hidden traps and decoy tombs suggests deeper familiarity with Underdark lore, but his current whereabouts and full knowledge remain unexplored.",
+    "source_quote": "This was the place that Fargas Rumblefoot warned us of.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Dawnbringer's Origin",
+    "fact": "The true origin of Dawnbringer \u2014 how it came to be sealed in the tomb, who bound it, and why it can read and write without eyes \u2014 remains unknown. Its sentience and magical abilities defy normal understanding.",
+    "source_quote": "Grygum is surprised it can read and write. The orc is confused that the creature can read without eyes.",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "5th day of the second tenday of Myrkhul 1495",
+    "fact": "The day the party discovered and defeated Brysis in the False Tomb, recovered Dawnbringer and treasure, and exited the tomb complex. The magical trap tied to the tomb was deactivated.",
+    "source_quote": "5th day of the second tenday of Myrkhul 1495",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "8th day of the second tenday of Myrkhul 1495",
+    "fact": "The day the party arrived at Neverlight Grove after three days of travel through the Underdark. The Drow pursuers were confirmed lost. The Myconids declared the grove home, and the party entered a new phase of exploration.",
+    "source_quote": "8th day of the second tenday of Myrkhul 1495",
+    "quote_verified": true
+  }
+]

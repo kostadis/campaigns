@@ -1,0 +1,104 @@
+[
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is a cleric of Bahamut who initially doubts an illusion, then mutters in pain after being struck by debris, and later engages in combat against a blind giant while invoking Bahamut's teachings.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is a warrior who overhears Grygum, dismisses the idea of stone giants talking or bellowing, and joins combat with blindsight, striking the giant with his sword after Zalthir's initial attacks.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is a monk who casts a circle of darkness, enters it, and strikes the blind giant with a flurry of blows, misses, then focuses his mind to land a glancing blow, and later repositions the darkness to enable further attacks while chanting incantations.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a spellcaster who initiates combat with magic missiles, strikes the giant multiple times with bolts of power from his fingers, and is pleased by the effectiveness of his magic.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Duergar patrol",
+    "fact": "A Duergar patrol is racing toward the giant, signaling an impending threat or potential ally in the conflict.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "the giant",
+    "fact": "The giant is blind, mad, andDodges attacks despite lacking sight, takes necrotic and radiant damage from Bahamut's clerics, roars in pain, and smashes Thorin before being repeatedly struck by Zalthir, Daz, and Grygum.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "the giant",
+    "fact": "The giant is blind, mad, and dodges attacks despite lacking sight, takes necrotic and radiant damage from Bahamut's clerics, roars in pain, and smashes Thorin before being repeatedly struck by Zalthir, Daz, and Grygum.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "combat initiation",
+    "fact": "Zalthir and Thorin race into combat, initiating a coordinated assault on the blind giant with spells, darkness, and melee strikes.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "magic missile strike",
+    "fact": "Daz launches magic missiles that streak from his hand, striking the giant with force and initiating the magical phase of the battle.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "circle of darkness cast",
+    "fact": "Zalthir places a circle of darkness just before the giant and enters it, creating concealment to enable his next assault.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "necrotic damage from Bahamut",
+    "fact": "Grygum speaks the words of Bahamut's power, causing the giant to burn with necrotic damage and the divine radiance of Bahamut.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "attack deflection",
+    "fact": "Zalthir uses his monk's awareness to deflect the giant's strike aimed at Thorin, protecting his ally despite the giant's immense power.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "feint and strike",
+    "fact": "Thorin feints and strikes the giant, causing the creature to howl in pain.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "the battlefield",
+    "fact": "The battlefield is a site of chaotic magical and melee combat, where darkness, light, and divine power clash against a blind, mad giant and advancing Duergar.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "holy symbol of Bahamut",
+    "fact": "Grygum raises his holy symbol of Bahamut to channel divine power, causing the giant to burn with radiant and necrotic damage.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "what is in it for me?",
+    "fact": "The priest of Bahamut questions his motivation for engaging in combat, recalling Bahamut's teaching that good turns may be repaid \u2014 hinting at an unspoken expectation of reward or divine favor.",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "session time",
+    "fact": "The events occur during a single, continuous combat sequence, with no passage of time indicated beyond immediate actions and reactions.",
+    "quote_verified": false
+  }
+]

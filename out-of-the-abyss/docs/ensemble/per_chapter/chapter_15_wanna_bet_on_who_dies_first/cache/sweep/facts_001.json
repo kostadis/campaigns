@@ -1,0 +1,1241 @@
+[
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum notices that the fire comes from a device they are holding. It is a tube that connects to a bottle on their back. At the front of the tube, a small flame sits outside the tube. He realizes that the flame is produced from some kind of magic concoction lit by the tiny flame when the duergar operator pulls a lever.",
+    "source_quote": "Grygum notices that the fire comes from a device they are holding. It is a tube that connects to a bottle on their back. At the front of the tube, a small flame sits outside the tube. He realizes that the flame is produced from some kind of magic concoction lit by the tiny flame when the duergar operator pulls a lever.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin remembers that the Duergars are literal people but is uncertain how to continue.",
+    "source_quote": "Thorin remembers that the Duergars are literal people but is uncertain how to continue.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir immediately notices the scars on his ears, four notches that don\u2019t look self-inflicted.",
+    "source_quote": "Zalthir immediately notices the scars on his ears, four notches that don\u2019t look self-inflicted.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Gartokkar Xundorn",
+    "fact": "Gartokkar Xundorn is the Custodian of the Flame, the chief of the Keepers of the Flame, who tend to Themberchaud\u2019s needs.",
+    "source_quote": "I am the Custodian of the Flame, the chief of the Keepers of the Flame, who tend to Themberchaud\u2019s needs.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz wonders if they should interview the various factions to find out which one they should join or whether they should join any of them.",
+    "source_quote": "Daz wonders if they should interview the various factions to find out which one they should join or whether they should join any of them.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Halfling",
+    "fact": "The halfling whispers, \"You must have met the Keepers of the Flame? They are in a pickle, what with the Gray Ghosts and the Crown.\"",
+    "source_quote": "You must have met the Keepers of the Flame? They are in a pickle, what with the Gray Ghosts and the Crown.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Drow",
+    "fact": "The Drow sitting next to the Halfling splutters, \"Look, friend, I am from Menzoberranzan. The backstabbing and politicking are nothing compared to the Duergar. I mean, we will do it with style and finesse. Here, it\u2019s just slaughter. No torture, no speeches, no art, and I mean no style. It was just a brutal struggle. They just engage in violence for violence\u2019s sake. It\u2019s disgraceful if you ask me.\"",
+    "source_quote": "Look, friend, I am from Menzoberranzan. The backstabbing and politicking are nothing compared to the Duergar. I mean, we will do it with style and finesse. Here, it\u2019s just slaughter. No torture, no speeches, no art, and I mean no style. It was just a brutal struggle. They just engage in violence for violence\u2019s sake. It\u2019s disgraceful if you ask me.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Errde Blackskull",
+    "fact": "Errde Blackskull says, \"There is something very wrong going on in my city. Some kind of corruption eats at the heart of the Deepking\u2019s court. Droki is the key to uncovering that corruption. He is linked to the Council of Savants and maybe even elements of the Clan Lairds. Discovery of this conspiracy will earn me great favor with the Deepking. And when that happens, I swear you will get free and safe passage out of the city.\"",
+    "source_quote": "There is something very wrong going on in my city. Some kind of corruption eats at the heart of the Deepking\u2019s court. Droki is the key to uncovering that corruption. He is linked to the Council of Savants and maybe even elements of the Clan Lairds. Discovery of this conspiracy will earn me great favor with the Deepking. And when that happens, I swear you will get free and safe passage out of the city.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Cairngorm Cavern",
+    "fact": "The Stone Giant says, \"I ask you to visit me at Cairngorm Cavern before you leave the city.\"",
+    "source_quote": "I ask you to visit me at Cairngorm Cavern before you leave the city.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Darklake Brewery",
+    "fact": "The Brewery is closed to non-Duergar, and Daz is disappointed until Grygum, who sneaks a quick peek, says that inside is a pretty dour place where people talk only in hushed whispers.",
+    "source_quote": "The Brewery is closed to non-Duergar, and Daz is disappointed until Grygum, who sneaks a quick peek, says that inside is a pretty dour place where people talk only in hushed whispers.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Overlake Hold",
+    "fact": "Errde brings them to a sitting room. Like everything in this town, it is austere. The chairs and table are made of stone. There is no color\u2014the light is grey. And the room is just cold enough to make one feel they are deep underground.",
+    "source_quote": "Errde brings them to a sitting room. Like everything in this town, it is austere. The chairs and table are made of stone. There is no color\u2014the light is grey. And the room is just cold enough to make one feel they are deep underground.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Tube and bottle device",
+    "fact": "It is a tube that connects to a bottle on their back. At the front of the tube, a small flame sits outside the tube. He realizes that the flame is produced from some kind of magic concoction lit by the tiny flame when the duergar operator pulls a lever.",
+    "source_quote": "It is a tube that connects to a bottle on their back. At the front of the tube, a small flame sits outside the tube. He realizes that the flame is produced from some kind of magic concoction lit by the tiny flame when the duergar operator pulls a lever.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Stone Giant",
+    "fact": "The Stone Giant stares at Thorin, whose body and blade show that he fought and perhaps killed the two-headed giant.",
+    "source_quote": "The Stone Giant stares at Thorin, whose body and blade show that he fought and perhaps killed the two-headed giant.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Red Dragon",
+    "fact": "The red dragon keeps the stones hot enough for the furnaces to burn. Are you wondering about its horde? The keepers of the flame give him a horde, and they pamper him.",
+    "source_quote": "The red dragon keeps the stones hot enough for the furnaces to burn. Are you wondering about its horde? The keepers of the flame give him a horde, and they pamper him.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Keepers of the Flame",
+    "fact": "Gartokkar Xundorn is the Custodian of the Flame, the chief of the Keepers of the Flame, who tend to Themberchaud\u2019s needs.",
+    "source_quote": "I am the Custodian of the Flame, the chief of the Keepers of the Flame, who tend to Themberchaud\u2019s needs.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Stone Guards",
+    "fact": "Errde Blackskull is captain of the Stone Guards on the lake, and I must ask that you come to my office so we can talk.",
+    "source_quote": "I am Errde Blackskull, captain of the Stone Guards on the lake, and I must ask that you come to my office so we can talk.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Council of Savants",
+    "fact": "Droki is linked to the Council of Savants and maybe even elements of the Clan Lairds.",
+    "source_quote": "Droki is linked to the Council of Savants and maybe even elements of the Clan Lairds.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Gray Ghosts",
+    "fact": "The halfling whispers, \"You must have met the Keepers of the Flame? They are in a pickle, what with the Gray Ghosts and the Crown.\"",
+    "source_quote": "You must have met the Keepers of the Flame? They are in a pickle, what with the Gray Ghosts and the Crown.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Crown",
+    "fact": "The halfling whispers, \"You must have met the Keepers of the Flame? They are in a pickle, what with the Gray Ghosts and the Crown.\"",
+    "source_quote": "You must have met the Keepers of the Flame? They are in a pickle, what with the Gray Ghosts and the Crown.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Giant's demise",
+    "fact": "The Duergar, unconvinced by Thorin\u2019s entreaties, kill the giant.",
+    "source_quote": "The Duergar, unconvinced by Thorin\u2019s entreaties, kill the giant.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Stone Giant's arrival",
+    "fact": "Before Thorin can ask a follow-up question, another Stone Giant appears, flanked by Duergar, armed with curious stone weapons.",
+    "source_quote": "Before Thorin can ask a follow-up question, another Stone Giant appears, flanked by Duergar, armed with curious stone weapons.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Gartokkar's offer",
+    "fact": "Gartokkar disappears.",
+    "source_quote": "Gartokkar disappears.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Halfling's warning",
+    "fact": "The halfling says, \"You would be crazy to join them, and they are trying to kill each other. It all began with the Deepking\u2019s madness.\"",
+    "source_quote": "You would be crazy to join them, and they are trying to kill each other. It all began with the Deepking\u2019s madness.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Droki investigation",
+    "fact": "Errde says, \"If we were to go there in force, it would provoke a violent reaction. So we need someone who isn\u2019t us to find him.\"",
+    "source_quote": "If we were to go there in force, it would provoke a violent reaction. So we need someone who isn\u2019t us to find him.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Corruption discovery",
+    "fact": "Errde smiles, \"You have found me proof!\"",
+    "source_quote": "You have found me proof!",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Grygum's strike",
+    "fact": "So Grygum rushes in to strike with his mace.",
+    "source_quote": "So Grygum rushes in to strike with his mace.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daz's magic bolts",
+    "fact": "A few bolts of magic streak from Daz\u2019s hands.",
+    "source_quote": "A few bolts of magic streak from Daz\u2019s hands.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir's encounter",
+    "fact": "A Duergar appears right behind him.",
+    "source_quote": "A Duergar appears right behind him.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin's prayer",
+    "fact": "Grygum watches as a distraught Thorin whispers prayers for the dead.",
+    "source_quote": "Grygum watches as a distraught Thorin whispers prayers for the dead.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Duergar's shrinkage",
+    "fact": "Grygum looks up, and the enlarged Duergars have shrunk to their standard size.",
+    "source_quote": "Grygum looks up, and the enlarged Duergars have shrunk to their standard size.",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "9th day of the 1st Tenday of Myrtul 1493",
+    "fact": "The events occur on the 9th day of the 1st Tenday of Myrtul 1493.",
+    "source_quote": "9th day of the 1st Tenday of Myrtul 1493",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "West Cleft District",
+    "fact": "Droki lives in the West Cleft District, where the Derro live.",
+    "source_quote": "Droki lives in the West Cleft District, where the Derro live.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Stone weapons",
+    "fact": "Duergar, armed with curious stone weapons.",
+    "source_quote": "Duergar, armed with curious stone weapons.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Pastries and warm liquid",
+    "fact": "A subordinate brings some pastries and some warm liquid to drink.",
+    "source_quote": "A subordinate brings some pastries and some warm liquid to drink.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "175 gold pieces of equipment",
+    "fact": "I offer you 175 gold pieces of equipment from our armory.",
+    "source_quote": "I offer you 175 gold pieces of equipment from our armory.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Dorhun",
+    "fact": "I am Dorhun, and this is Rihuud. We were both apprentices to Stonespeaker Hgraam.",
+    "source_quote": "I am Dorhun, and this is Rihuud. We were both apprentices to Stonespeaker Hgraam.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Rihuud",
+    "fact": "I am Dorhun, and this is Rihuud. We were both apprentices to Stonespeaker Hgraam.",
+    "source_quote": "I am Dorhun, and this is Rihuud. We were both apprentices to Stonespeaker Hgraam.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Droki",
+    "fact": "I have been tracking a particular Duergar named Droki. He lives in the West Cleft District, where the Derro live.",
+    "source_quote": "I have been tracking a particular Duergar named Droki. He lives in the West Cleft District, where the Derro live.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Hgraam",
+    "fact": "We were both apprentices to Stonespeaker Hgraam.",
+    "source_quote": "We were both apprentices to Stonespeaker Hgraam.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Deepking",
+    "fact": "It\u2019s as if he is detached from reality.",
+    "source_quote": "It\u2019s as if he is detached from reality.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Clan Lairds",
+    "fact": "Droki is linked to the Council of Savants and maybe even elements of the Clan Lairds.",
+    "source_quote": "Droki is linked to the Council of Savants and maybe even elements of the Clan Lairds.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Derro",
+    "fact": "Droki lives in the West Cleft District, where the Derro live.",
+    "source_quote": "Droki lives in the West Cleft District, where the Derro live.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Blade Bazaar",
+    "fact": "Daz describes the behaviors at the Blade Bazaar.",
+    "source_quote": "Daz describes the behaviors at the Blade Bazaar.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Halfling's phrase",
+    "fact": "He pauses, searching for a phrase, \"What is that expression? It's -- Not relevant to the game.\"",
+    "source_quote": "He pauses, searching for a phrase, \"What is that expression? It's -- Not relevant to the game.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Themberchaud",
+    "fact": "Gartokkar Xundorn is the Custodian of the Flame, the chief of the Keepers of the Flame, who tend to Themberchaud\u2019s needs.",
+    "source_quote": "Gartokkar Xundorn is the Custodian of the Flame, the chief of the Keepers of the Flame, who tend to Themberchaud\u2019s needs.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Gracklstugh",
+    "fact": "The furnaces of Gracklstugh must be kept hot, and instead of using a large amount of kindling, we use a fire dragon that burns stone hot that then is used to keep the furnaces running.",
+    "source_quote": "The furnaces of Gracklstugh must be kept hot, and instead of using a large amount of kindling, we use a fire dragon that burns stone hot that then is used to keep the furnaces running.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Gracklstugh",
+    "fact": "Your skill set would be of great value to the city of Gracklstugh.",
+    "source_quote": "Your skill set would be of great value to the city of Gracklstugh.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Menzo-berranzan",
+    "fact": "Look, friend, I am from Menzoberranzan.",
+    "source_quote": "Look, friend, I am from Menzoberranzan.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Cairngorm Cavern",
+    "fact": "I ask you to visit me at Cairngorm Cavern before you leave the city.",
+    "source_quote": "I ask you to visit me at Cairngorm Cavern before you leave the city.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Underdark",
+    "fact": "I am in the Underdark. I see so many scary things.",
+    "source_quote": "I am in the Underdark. I see so many scary things.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Overlake Hold",
+    "fact": "Errde brings them to a sitting room. Like everything in this town, it is austere. The chairs and table are made of stone. There is no color\u2014the light is grey. And the room is just cold enough to make one feel they are deep underground.",
+    "source_quote": "Errde brings them to a sitting room. Like everything in this town, it is austere. The chairs and table are made of stone. There is no color\u2014the light is grey. And the room is just cold enough to make one feel they are deep underground.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Gartokkar's laugh",
+    "fact": "Gartokkar laughs. \" A joke. I have not heard a good joke in so long.\"",
+    "source_quote": "Gartokkar laughs. \" A joke. I have not heard a good joke in so long.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Thorin's shout",
+    "fact": "Thorin shouts, \"It\u2019s just a friendly meeting. Not that kind of meeting!\"",
+    "source_quote": "Thorin shouts, \"It\u2019s just a friendly meeting. Not that kind of meeting!\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Halfling's gesture",
+    "fact": "The Halfling smiles and touches his finger to his head as if to signal that Thorin has made the right move.",
+    "source_quote": "The Halfling smiles and touches his finger to his head as if to signal that Thorin has made the right move.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Errde's evil smile",
+    "fact": "She then smiles very evilly, \"And I can offer one more thing.\"",
+    "source_quote": "She then smiles very evilly, \"And I can offer one more thing.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Daz's realization",
+    "fact": "Daz wonders, \"Can you come with us to the meeting with the Keepers of the Flame?\"",
+    "source_quote": "Daz wonders, \"Can you come with us to the meeting with the Keepers of the Flame?\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Drow's complaint",
+    "fact": "The Drow sitting next to the Halfling splutters, \"Look, friend, I am from Menzoberranzan. The backstabbing and politicking are nothing compared to the Duergar. I mean, we will do it with style and finesse. Here, it\u2019s just slaughter. No torture, no speeches, no art, and I mean no style. It was just a brutal struggle. They just engage in violence for violence\u2019s sake. It\u2019s disgraceful if you ask me.\"",
+    "source_quote": "Look, friend, I am from Menzoberranzan. The backstabbing and politicking are nothing compared to the Duergar. I mean, we will do it with style and finesse. Here, it\u2019s just slaughter. No torture, no speeches, no art, and I mean no style. It was just a brutal struggle. They just engage in violence for violence\u2019s sake. It\u2019s disgraceful if you ask me.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Grygum's thought",
+    "fact": "He realizes that the flame is produced from some kind of magic concoction lit by the tiny flame when the duergar operator pulls a lever.",
+    "source_quote": "He realizes that the flame is produced from some kind of magic concoction lit by the tiny flame when the duergar operator pulls a lever.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin's thought",
+    "fact": "Thorin remembers that Stone Giants are not talkative and may take a long time before they initiate a conversation as they ponder all possible things.",
+    "source_quote": "Thorin remembers that Stone Giants are not talkative and may take a long time before they initiate a conversation as they ponder all possible things.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir's thought",
+    "fact": "I gotta get me some of that ability,\u201d he thinks.",
+    "source_quote": "I gotta get me some of that ability,\u201d he thinks.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daz's thought",
+    "fact": "Daz wonders, \"Can you come with us to the meeting with the Keepers of the Flame?\"",
+    "source_quote": "Daz wonders, \"Can you come with us to the meeting with the Keepers of the Flame?\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Halfling's thought",
+    "fact": "And as long as I stay an outsider, no one considers me a threat. And I can share what I know with those not in the game. And you are not part of the game, nor am I.",
+    "source_quote": "And as long as I stay an outsider, no one considers me a threat. And I can share what I know with those not in the game. And you are not part of the game, nor am I.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daz's realization",
+    "fact": "Daz remembers how Dragon eggs can be purchased and hatched.",
+    "source_quote": "Daz remembers how Dragon eggs can be purchased and hatched.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Thorin's hesitation",
+    "fact": "Thorin is tempted to say yes, but Daz holds his arm, \"Of course, but we would need remuneration for all of that plus our time.\"",
+    "source_quote": "Thorin is tempted to say yes, but Daz holds his arm, \"Of course, but we would need remuneration for all of that plus our time.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Daz's question",
+    "fact": "Daz asks, \"What is corruption?\"",
+    "source_quote": "Daz asks, \"What is corruption?\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Thorin's question",
+    "fact": "Thorin says, \"Look, we want to know if this is for the Stone Guards or the City?\"",
+    "source_quote": "Thorin says, \"Look, we want to know if this is for the Stone Guards or the City?\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Errde's response",
+    "fact": "Errde\u2019s face suddenly darkens. \"There is something very wrong going on in my city. Some kind of corruption eats at the heart of the Deepking\u2019s court. Droki is the key to uncovering that corruption. He is linked to the Council of Savants and maybe even elements of the Clan Lairds. Discovery of this conspiracy will earn me great favor with the Deepking. And when that happens, I swear you will get free and safe passage out of the city.\"",
+    "source_quote": "There is something very wrong going on in my city. Some kind of corruption eats at the heart of the Deepking\u2019s court. Droki is the key to uncovering that corruption. He is linked to the Council of Savants and maybe even elements of the Clan Lairds. Discovery of this conspiracy will earn me great favor with the Deepking. And when that happens, I swear you will get free and safe passage out of the city.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Halfling's observation",
+    "fact": "The halfling says, \"You would be crazy to join them, and they are trying to kill each other. It all began with the Deepking\u2019s madness.\"",
+    "source_quote": "You would be crazy to join them, and they are trying to kill each other. It all began with the Deepking\u2019s madness.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daz's observation",
+    "fact": "Daz describes the madness of the merchants, and the halfling shrugs, \"Yes, that kind of madness. However, in Deepking\u2019s case, the laws are more arbitrary. We\u2019ve always had laws in Gracklstugh, but they made sense. Now, they don\u2019t. It\u2019s as if he is detached from reality.\"",
+    "source_quote": "Daz describes the madness of the merchants, and the halfling shrugs, \"Yes, that kind of madness. However, in Deepking\u2019s case, the laws are more arbitrary. We\u2019ve always had laws in Gracklstugh, but they made sense. Now, they don\u2019t. It\u2019s as if he is detached from reality.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Grygum's observation",
+    "fact": "Grygum looks at Daz, and then looks at the giant, and thinks, \"Well, I guess Daz chose to weaken his spell purposely.\"",
+    "source_quote": "Grygum looks at Daz, and then looks at the giant, and thinks, \"Well, I guess Daz chose to weaken his spell purposely.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir's observation",
+    "fact": "Zalthir thinks, \"And that, too.\"",
+    "source_quote": "Zalthir thinks, \"And that, too.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Thorin's observation",
+    "fact": "Thorin notices that there seems to be something odd about her.",
+    "source_quote": "Thorin notices that there seems to be something odd about her.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Daz's observation",
+    "fact": "Daz stares at her, \"Are you threatening us?\"",
+    "source_quote": "Daz stares at her, \"Are you threatening us?\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Gartokkar's observation",
+    "fact": "Gartokkar is a Duergar, and he is literal and misses the sarcasm, \"Yes. The Keepers of the Flame tend to the dragon\u2019s needs. And we are the most prized of the Deepking\u2019s advisors. We need someone like you.\"",
+    "source_quote": "Gartokkar is a Duergar, and he is literal and misses the sarcasm, \"Yes. The Keepers of the Flame tend to the dragon\u2019s needs. And we are the most prized of the Deepking\u2019s advisors. We need someone like you.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Halfling's observation",
+    "fact": "The halfling says, \"I\u2019m an outsider. And what do I know? Not very much. And as long as I stay an outsider, no one considers me a threat. And I can share what I know with those not in the game. And you are not part of the game, nor am I.\"",
+    "source_quote": "I\u2019m an outsider. And what do I know? Not very much. And as long as I stay an outsider, no one considers me a threat. And I can share what I know with those not in the game. And you are not part of the game, nor am I.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Drow's observation",
+    "fact": "The Drow sitting next to the Halfling splutters, \"Look, friend, I am from Menzoberranzan. The backstabbing and politicking are nothing compared to the Duergar. I mean, we will do it with style and finesse. Here, it\u2019s just slaughter. No torture, no speeches, no art, and I mean no style. It was just a brutal struggle. They just engage in violence for violence\u2019s sake. It\u2019s disgraceful if you ask me.\"",
+    "source_quote": "Look, friend, I am from Menzoberranzan. The backstabbing and politicking are nothing compared to the Duergar. I mean, we will do it with style and finesse. Here, it\u2019s just slaughter. No torture, no speeches, no art, and I mean no style. It was just a brutal struggle. They just engage in violence for violence\u2019s sake. It\u2019s disgraceful if you ask me.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Grygum's observation",
+    "fact": "Grygum watches as a distraught Thorin whispers prayers for the dead.",
+    "source_quote": "Grygum watches as a distraught Thorin whispers prayers for the dead.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daz's observation",
+    "fact": "Daz and his odd collection of travelers arrive at the Darklake Brewery.",
+    "source_quote": "Daz and his odd collection of travelers arrive at the Darklake Brewery.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin's observation",
+    "fact": "Thorin downs his Darklake Brewery Stout, burps, and then sees a group of Duergar with curious stone weapons approaching.",
+    "source_quote": "Thorin downs his Darklake Brewery Stout, burps, and then sees a group of Duergar with curious stone weapons approaching.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir's observation",
+    "fact": "Zalthir is trying hard to protect himself from being burned alive, crushed by a giant, or arrested.",
+    "source_quote": "Zalthir is trying hard to protect himself from being burned alive, crushed by a giant, or arrested.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daz's observation",
+    "fact": "Daz wonders if they should interview the various factions to find out which one they should join or whether they should join any of them.",
+    "source_quote": "Daz wonders if they should interview the various factions to find out which one they should join or whether they should join any of them.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin's observation",
+    "fact": "Thorin is tempted to work for the Stone Guards. After all, they are friends of the Stone giants, but the warnings of the Halfing worry him.",
+    "source_quote": "Thorin is tempted to work for the Stone Guards. After all, they are friends of the Stone giants, but the warnings of the Halfing worry him.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Halfling's observation",
+    "fact": "The halfling says, \"You must have met the Keepers of the Flame? They are in a pickle, what with the Gray Ghosts and the Crown.\"",
+    "source_quote": "You must have met the Keepers of the Flame? They are in a pickle, what with the Gray Ghosts and the Crown.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Gartokkar's observation",
+    "fact": "Gartokkar disappears.",
+    "source_quote": "Gartokkar disappears.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Errde's observation",
+    "fact": "She then smiles very evilly, \"And I can offer one more thing.\"",
+    "source_quote": "She then smiles very evilly, \"And I can offer one more thing.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Daz's observation",
+    "fact": "Daz remembers how Dragon eggs can be purchased and hatched.",
+    "source_quote": "Daz remembers how Dragon eggs can be purchased and hatched.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Grygum's observation",
+    "fact": "Grygum looks up, and the enlarged Duergars have shrunk to their standard size.",
+    "source_quote": "Grygum looks up, and the enlarged Duergars have shrunk to their standard size.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin's observation",
+    "fact": "Thorin remembers that the Duergars are literal people but is uncertain how to continue.",
+    "source_quote": "Thorin remembers that the Duergars are literal people but is uncertain how to continue.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir's observation",
+    "fact": "Zalthir immediately notices the scars on his ears, four notches that don\u2019t look self-inflicted.",
+    "source_quote": "Zalthir immediately notices the scars on his ears, four notches that don\u2019t look self-inflicted.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daz's observation",
+    "fact": "Daz stares at her, \"Are you threatening us?\"",
+    "source_quote": "Daz stares at her, \"Are you threatening us?\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Thorin's observation",
+    "fact": "Thorin grabs his sword and wonders where exactly they will run to because it\u2019s not clear how they can beat the entire stone guard, but the effect Daz was hoping for is achieved.",
+    "source_quote": "Thorin grabs his sword and wonders where exactly they will run to because it\u2019s not clear how they can beat the entire stone guard, but the effect Daz was hoping for is achieved.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Halfling's observation",
+    "fact": "The halfling says, \"I\u2019m an outsider. And what do I know? Not very much. And as long as I stay an outsider, no one considers me a threat. And I can share what I know with those not in the game. And you are not part of the game, nor am I.\"",
+    "source_quote": "I\u2019m an outsider. And what do I know? Not very much. And as long as I stay an outsider, no one considers me a threat. And I can share what I know with those not in the game. And you are not part of the game, nor am I.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Drow's observation",
+    "fact": "The Drow sitting next to the Halfling splutters, \"Look, friend, I am from Menzoberranzan. The backstabbing and politicking are nothing compared to the Duergar. I mean, we will do it with style and finesse. Here, it\u2019s just slaughter. No torture, no speeches, no art, and I mean no style. It was just a brutal struggle. They just engage in violence for violence\u2019s sake. It\u2019s disgraceful if you ask me.\"",
+    "source_quote": "Look, friend, I am from Menzoberranzan. The backstabbing and politicking are nothing compared to the Duergar. I mean, we will do it with style and finesse. Here, it\u2019s just slaughter. No torture, no speeches, no art, and I mean no style. It was just a brutal struggle. They just engage in violence for violence\u2019s sake. It\u2019s disgraceful if you ask me.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Grygum's observation",
+    "fact": "Grygum watches as a distraught Thorin whispers prayers for the dead.",
+    "source_quote": "Grygum watches as a distraught Thorin whispers prayers for the dead.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daz's observation",
+    "fact": "Daz and his odd collection of travelers arrive at the Darklake Brewery.",
+    "source_quote": "Daz and his odd collection of travelers arrive at the Darklake Brewery.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin's observation",
+    "fact": "Thorin downs his Darklake Brewery Stout, burps, and then sees a group of Duergar with curious stone weapons approaching.",
+    "source_quote": "Thorin downs his Darklake Brewery Stout, burps, and then sees a group of Duergar with curious stone weapons approaching.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir's observation",
+    "fact": "Zalthir is trying hard to protect himself from being burned alive, crushed by a giant, or arrested.",
+    "source_quote": "Zalthir is trying hard to protect himself from being burned alive, crushed by a giant, or arrested.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daz's observation",
+    "fact": "Daz wonders if they should interview the various factions to find out which one they should join or whether they should join any of them.",
+    "source_quote": "Daz wonders if they should interview the various factions to find out which one they should join or whether they should join any of them.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin's observation",
+    "fact": "Thorin is tempted to work for the Stone Guards. After all, they are friends of the Stone giants, but the warnings of the Halfing worry him.",
+    "source_quote": "Thorin is tempted to work for the Stone Guards. After all, they are friends of the Stone giants, but the warnings of the Halfing worry him.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Halfling's observation",
+    "fact": "The halfling says, \"You must have met the Keepers of the Flame? They are in a pickle, what with the Gray Ghosts and the Crown.\"",
+    "source_quote": "You must have met the Keepers of the Flame? They are in a pickle, what with the Gray Ghosts and the Crown.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Gartokkar's observation",
+    "fact": "Gartokkar disappears.",
+    "source_quote": "Gartokkar disappears.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Errde's observation",
+    "fact": "She then smiles very evilly, \"And I can offer one more thing.\"",
+    "source_quote": "She then smiles very evilly, \"And I can offer one more thing.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Daz's observation",
+    "fact": "Daz remembers how Dragon eggs can be purchased and hatched.",
+    "source_quote": "Daz remembers how Dragon eggs can be purchased and hatched.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Grygum's observation",
+    "fact": "Grygum looks up, and the enlarged Duergars have shrunk to their standard size.",
+    "source_quote": "Grygum looks up, and the enlarged Duergars have shrunk to their standard size.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin's observation",
+    "fact": "Thorin remembers that the Duergars are literal people but is uncertain how to continue.",
+    "source_quote": "Thorin remembers that the Duergars are literal people but is uncertain how to continue.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir's observation",
+    "fact": "Zalthir immediately notices the scars on his ears, four notches that don\u2019t look self-inflicted.",
+    "source_quote": "Zalthir immediately notices the scars on his ears, four notches that don\u2019t look self-inflicted.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daz's observation",
+    "fact": "Daz stares at her, \"Are you threatening us?\"",
+    "source_quote": "Daz stares at her, \"Are you threatening us?\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Thorin's observation",
+    "fact": "Thorin grabs his sword and wonders where exactly they will run to because it\u2019s not clear how they can beat the entire stone guard, but the effect Daz was hoping for is achieved.",
+    "source_quote": "Thorin grabs his sword and wonders where exactly they will run to because it\u2019s not clear how they can beat the entire stone guard, but the effect Daz was hoping for is achieved.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Halfling's observation",
+    "fact": "The halfling says, \"I\u2019m an outsider. And what do I know? Not very much. And as long as I stay an outsider, no one considers me a threat. And I can share what I know with those not in the game. And you are not part of the game, nor am I.\"",
+    "source_quote": "I\u2019m an outsider. And what do I know? Not very much. And as long as I stay an outsider, no one considers me a threat. And I can share what I know with those not in the game. And you are not part of the game, nor am I.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Drow's observation",
+    "fact": "The Drow sitting next to the Halfling splutters, \"Look, friend, I am from Menzoberranzan. The backstabbing and politicking are nothing compared to the Duergar. I mean, we will do it with style and finesse. Here, it\u2019s just slaughter. No torture, no speeches, no art, and I mean no style. It was just a brutal struggle. They just engage in violence for violence\u2019s sake. It\u2019s disgraceful if you ask me.\"",
+    "source_quote": "Look, friend, I am from Menzoberranzan. The backstabbing and politicking are nothing compared to the Duergar. I mean, we will do it with style and finesse. Here, it\u2019s just slaughter. No torture, no speeches, no art, and I mean no style. It was just a brutal struggle. They just engage in violence for violence\u2019s sake. It\u2019s disgraceful if you ask me.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Grygum's observation",
+    "fact": "Grygum watches as a distraught Thorin whispers prayers for the dead.",
+    "source_quote": "Grygum watches as a distraught Thorin whispers prayers for the dead.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daz's observation",
+    "fact": "Daz and his odd collection of travelers arrive at the Darklake Brewery.",
+    "source_quote": "Daz and his odd collection of travelers arrive at the Darklake Brewery.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin's observation",
+    "fact": "Thorin downs his Darklake Brewery Stout, burps, and then sees a group of Duergar with curious stone weapons approaching.",
+    "source_quote": "Thorin downs his Darklake Brewery Stout, burps, and then sees a group of Duergar with curious stone weapons approaching.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir's observation",
+    "fact": "Zalthir is trying hard to protect himself from being burned alive, crushed by a giant, or arrested.",
+    "source_quote": "Zalthir is trying hard to protect himself from being burned alive, crushed by a giant, or arrested.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daz's observation",
+    "fact": "Daz wonders if they should interview the various factions to find out which one they should join or whether they should join any of them.",
+    "source_quote": "Daz wonders if they should interview the various factions to find out which one they should join or whether they should join any of them.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin's observation",
+    "fact": "Thorin is tempted to work for the Stone Guards. After all, they are friends of the Stone giants, but the warnings of the Halfing worry him.",
+    "source_quote": "Thorin is tempted to work for the Stone Guards. After all, they are friends of the Stone giants, but the warnings of the Halfing worry him.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Halfling's observation",
+    "fact": "The halfling says, \"You must have met the Keepers of the Flame? They are in a pickle, what with the Gray Ghosts and the Crown.\"",
+    "source_quote": "You must have met the Keepers of the Flame? They are in a pickle, what with the Gray Ghosts and the Crown.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Gartokkar's observation",
+    "fact": "Gartokkar disappears.",
+    "source_quote": "Gartokkar disappears.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Errde's observation",
+    "fact": "She then smiles very evilly, \"And I can offer one more thing.\"",
+    "source_quote": "She then smiles very evilly, \"And I can offer one more thing.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Daz's observation",
+    "fact": "Daz remembers how Dragon eggs can be purchased and hatched.",
+    "source_quote": "Daz remembers how Dragon eggs can be purchased and hatched.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Grygum's observation",
+    "fact": "Grygum looks up, and the enlarged Duergars have shrunk to their standard size.",
+    "source_quote": "Grygum looks up, and the enlarged Duergars have shrunk to their standard size.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin's observation",
+    "fact": "Thorin remembers that the Duergars are literal people but is uncertain how to continue.",
+    "source_quote": "Thorin remembers that the Duergars are literal people but is uncertain how to continue.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir's observation",
+    "fact": "Zalthir immediately notices the scars on his ears, four notches that don\u2019t look self-inflicted.",
+    "source_quote": "Zalthir immediately notices the scars on his ears, four notches that don\u2019t look self-inflicted.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daz's observation",
+    "fact": "Daz stares at her, \"Are you threatening us?\"",
+    "source_quote": "Daz stares at her, \"Are you threatening us?\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Thorin's observation",
+    "fact": "Thorin grabs his sword and wonders where exactly they will run to because it\u2019s not clear how they can beat the entire stone guard, but the effect Daz was hoping for is achieved.",
+    "source_quote": "Thorin grabs his sword and wonders where exactly they will run to because it\u2019s not clear how they can beat the entire stone guard, but the effect Daz was hoping for is achieved.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Halfling's observation",
+    "fact": "The halfling says, \"I\u2019m an outsider. And what do I know? Not very much. And as long as I stay an outsider, no one considers me a threat. And I can share what I know with those not in the game. And you are not part of the game, nor am I.\"",
+    "source_quote": "I\u2019m an outsider. And what do I know? Not very much. And as long as I stay an outsider, no one considers me a threat. And I can share what I know with those not in the game. And you are not part of the game, nor am I.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Drow's observation",
+    "fact": "The Drow sitting next to the Halfling splutters, \"Look, friend, I am from Menzoberranzan. The backstabbing and politicking are nothing compared to the Duergar. I mean, we will do it with style and finesse. Here, it\u2019s just slaughter. No torture, no speeches, no art, and I mean no style. It was just a brutal struggle. They just engage in violence for violence\u2019s sake. It\u2019s disgraceful if you ask me.\"",
+    "source_quote": "Look, friend, I am from Menzoberranzan. The backstabbing and politicking are nothing compared to the Duergar. I mean, we will do it with style and finesse. Here, it\u2019s just slaughter. No torture, no speeches, no art, and I mean no style. It was just a brutal struggle. They just engage in violence for violence\u2019s sake. It\u2019s disgraceful if you ask me.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Grygum's observation",
+    "fact": "Grygum watches as a distraught Thorin whispers prayers for the dead.",
+    "source_quote": "Grygum watches as a distraught Thorin whispers prayers for the dead.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daz's observation",
+    "fact": "Daz and his odd collection of travelers arrive at the Darklake Brewery.",
+    "source_quote": "Daz and his odd collection of travelers arrive at the Darklake Brewery.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin's observation",
+    "fact": "Thorin downs his Darklake Brewery Stout, burps, and then sees a group of Duergar with curious stone weapons approaching.",
+    "source_quote": "Thorin downs his Darklake Brewery Stout, burps, and then sees a group of Duergar with curious stone weapons approaching.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir's observation",
+    "fact": "Zalthir is trying hard to protect himself from being burned alive, crushed by a giant, or arrested.",
+    "source_quote": "Zalthir is trying hard to protect himself from being burned alive, crushed by a giant, or arrested.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daz's observation",
+    "fact": "Daz wonders if they should interview the various factions to find out which one they should join or whether they should join any of them.",
+    "source_quote": "Daz wonders if they should interview the various factions to find out which one they should join or whether they should join any of them.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin's observation",
+    "fact": "Thorin is tempted to work for the Stone Guards. After all, they are friends of the Stone giants, but the warnings of the Halfing worry him.",
+    "source_quote": "Thorin is tempted to work for the Stone Guards. After all, they are friends of the Stone giants, but the warnings of the Halfing worry him.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Halfling's observation",
+    "fact": "The halfling says, \"You must have met the Keepers of the Flame? They are in a pickle, what with the Gray Ghosts and the Crown.\"",
+    "source_quote": "You must have met the Keepers of the Flame? They are in a pickle, what with the Gray Ghosts and the Crown.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Gartokkar's observation",
+    "fact": "Gartokkar disappears.",
+    "source_quote": "Gartokkar disappears.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Errde's observation",
+    "fact": "She then smiles very evilly, \"And I can offer one more thing.\"",
+    "source_quote": "She then smiles very evilly, \"And I can offer one more thing.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Daz's observation",
+    "fact": "Daz remembers how Dragon eggs can be purchased and hatched.",
+    "source_quote": "Daz remembers how Dragon eggs can be purchased and hatched.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Grygum's observation",
+    "fact": "Grygum looks up, and the enlarged Duergars have shrunk to their standard size.",
+    "source_quote": "Grygum looks up, and the enlarged Duergars have shrunk to their standard size.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin's observation",
+    "fact": "Thorin remembers that the Duergars are literal people but is uncertain how to continue.",
+    "source_quote": "Thorin remembers that the Duergars are literal people but is uncertain how to continue.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir's observation",
+    "fact": "Zalthir immediately notices the scars on his ears, four notches that don\u2019t look self-inflicted.",
+    "source_quote": "Zalthir immediately notices the scars on his ears, four notches that don\u2019t look self-inflicted.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daz's observation",
+    "fact": "Daz stares at her, \"Are you threatening us?\"",
+    "source_quote": "Daz stares at her, \"Are you threatening us?\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Thorin's observation",
+    "fact": "Thorin grabs his sword and wonders where exactly they will run to because it\u2019s not clear how they can beat the entire stone guard, but the effect Daz was hoping for is achieved.",
+    "source_quote": "Thorin grabs his sword and wonders where exactly they will run to because it\u2019s not clear how they can beat the entire stone guard, but the effect Daz was hoping for is achieved.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Halfling's observation",
+    "fact": "The halfling says, \"I\u2019m an outsider. And what do I know? Not very much. And as long as I stay an outsider, no one considers me a threat. And I can share what I know with those not in the game. And you are not part of the game, nor am I.\"",
+    "source_quote": "I\u2019m an outsider. And what do I know? Not very much. And as long as I stay an outsider, no one considers me a threat. And I can share what I know with those not in the game. And you are not part of the game, nor am I.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Drow's observation",
+    "fact": "The Drow sitting next to the Halfling splutters, \"Look, friend, I am from Menzoberranzan. The backstabbing and politicking are nothing compared to the Duergar. I mean, we will do it with style and finesse. Here, it\u2019s just slaughter. No torture, no speeches, no art, and I mean no style. It was just a brutal struggle. They just engage in violence for violence\u2019s sake. It\u2019s disgraceful if you ask me.\"",
+    "source_quote": "Look, friend, I am from Menzoberranzan. The backstabbing and politicking are nothing compared to the Duergar. I mean, we will do it with style and finesse. Here, it\u2019s just slaughter. No torture, no speeches, no art, and I mean no style. It was just a brutal struggle. They just engage in violence for violence\u2019s sake. It\u2019s disgraceful if you ask me.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Grygum's observation",
+    "fact": "Grygum watches as a distraught Thorin whispers prayers for the dead.",
+    "source_quote": "Grygum watches as a distraught Thorin whispers prayers for the dead.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daz's observation",
+    "fact": "Daz and his odd collection of travelers arrive at the Darklake Brewery.",
+    "source_quote": "Daz and his odd collection of travelers arrive at the Darklake Brewery.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin's observation",
+    "fact": "Thorin downs his Darklake Brewery Stout, burps, and then sees a group of Duergar with curious stone weapons approaching.",
+    "source_quote": "Thorin downs his Darklake Brewery Stout, burps, and then sees a group of Duergar with curious stone weapons approaching.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir's observation",
+    "fact": "Zalthir is trying hard to protect himself from being burned alive, crushed by a giant, or arrested.",
+    "source_quote": "Zalthir is trying hard to protect himself from being burned alive, crushed by a giant, or arrested.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daz's observation",
+    "fact": "Daz wonders if they should interview the various factions to find out which one they should join or whether they should join any of them.",
+    "source_quote": "Daz wonders if they should interview the various factions to find out which one they should join or whether they should join any of them.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin's observation",
+    "fact": "Thorin is tempted to work for the Stone Guards. After all, they are friends of the Stone giants, but the warnings of the Halfing worry him.",
+    "source_quote": "Thorin is tempted to work for the Stone Guards. After all, they are friends of the Stone giants, but the warnings of the Halfing worry him.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Halfling's observation",
+    "fact": "The halfling says, \"You must have met the Keepers of the Flame? They are in a pickle, what with the Gray Ghosts and the Crown.\"",
+    "source_quote": "You must have met the Keepers of the Flame? They are in a pickle, what with the Gray Ghosts and the Crown.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Gartokkar's observation",
+    "fact": "Gartokkar disappears.",
+    "source_quote": "Gartokkar disappears.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Errde's observation",
+    "fact": "She then smiles very evilly, \"And I can offer one more thing.\"",
+    "source_quote": "She then smiles very evilly, \"And I can offer one more thing.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Daz's observation",
+    "fact": "Daz remembers how Dragon eggs can be purchased and hatched.",
+    "source_quote": "Daz remembers how Dragon eggs can be purchased and hatched.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Grygum's observation",
+    "fact": "Grygum looks up, and the enlarged Duergars have shrunk to their standard size.",
+    "source_quote": "Grygum looks up, and the enlarged Duergars have shrunk to their standard size.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin's observation",
+    "fact": "Thorin remembers that the Duergars are literal people but is uncertain how to continue.",
+    "source_quote": "Thorin remembers that the Duergars are literal people but is uncertain how to continue.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir's observation",
+    "fact": "Zalthir immediately notices the scars on his ears, four notches that don\u2019t look self-inflicted.",
+    "source_quote": "Zalthir immediately notices the scars on his ears, four notches that don\u2019t look self-inflicted.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daz's observation",
+    "fact": "Daz stares at her, \"Are you threatening us?\"",
+    "source_quote": "Daz stares at her, \"Are you threatening us?\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Thorin's observation",
+    "fact": "Thorin grabs his sword and wonders where exactly they will run to because it\u2019s not clear how they can beat the entire stone guard, but the effect Daz was hoping for is achieved.",
+    "source_quote": "Thorin grabs his sword and wonders where exactly they will run to because it\u2019s not clear how they can beat the entire stone guard, but the effect Daz was hoping for is achieved.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Halfling's observation",
+    "fact": "The halfling says, \"I\u2019m an outsider. And what do I know? Not very much. And as long as I stay an outsider, no one considers me a threat. And I can share what I know with those not in the game. And you are not part of the game, nor am I.\"",
+    "source_quote": "I\u2019m an outsider. And what do I know? Not very much. And as long as I stay an outsider, no one considers me a threat. And I can share what I know with those not in the game. And you are not part of the game, nor am I.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Drow's observation",
+    "fact": "The Drow sitting next to the Halfling splutters, \"Look, friend, I am from Menzoberranzan. The backstabbing and politicking are nothing compared to the Duergar. I mean, we will do it with style and finesse. Here, it\u2019s just slaughter. No torture, no speeches, no art, and I mean no style. It was just a brutal struggle. They just engage in violence for violence\u2019s sake. It\u2019s disgraceful if you ask me.\"",
+    "source_quote": "Look, friend, I am from Menzoberranzan. The backstabbing and politicking are nothing compared to the Duergar. I mean, we will do it with style and finesse. Here, it\u2019s just slaughter. No torture, no speeches, no art, and I mean no style. It was just a brutal struggle. They just engage in violence for violence\u2019s sake. It\u2019s disgraceful if you ask me.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Grygum's observation",
+    "fact": "Grygum watches as a distraught Thorin whispers prayers for the dead.",
+    "source_quote": "Grygum watches as a distraught Thorin whispers prayers for the dead.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daz's observation",
+    "fact": "Daz and his odd collection of travelers arrive at the Darklake Brewery.",
+    "source_quote": "Daz and his odd collection of travelers arrive at the Darklake Brewery.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin's observation",
+    "fact": "Thorin downs his Darklake Brewery Stout, burps, and then sees a group of Duergar with curious stone weapons approaching.",
+    "source_quote": "Thorin downs his Darklake Brewery Stout, burps, and then sees a group of Duergar with curious stone weapons approaching.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir's observation",
+    "fact": "Zalthir is trying hard to protect himself from being burned alive, crushed by a giant, or arrested.",
+    "source_quote": "Zalthir is trying hard to protect himself from being burned alive, crushed by a giant, or arrested.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daz's observation",
+    "fact": "Daz wonders if they should interview the various factions to find out which one they should join or whether they should join any of them.",
+    "source_quote": "Daz wonders if they should interview the various factions to find out which one they should join or whether they should join any of them.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin's observation",
+    "fact": "Thorin is tempted to work for the Stone Guards. After all, they are friends of the Stone giants, but the warnings of the Halfing worry him.",
+    "source_quote": "Thorin is tempted to work for the Stone Guards. After all, they are friends of the Stone giants, but the warnings of the Halfing worry him.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Halfling's observation",
+    "fact": "The halfling says, \"You must have met the Keepers of the Flame? They are in a pickle, what with the Gray Ghosts and the Crown.\"",
+    "source_quote": "You must have met the Keepers of the Flame? They are in a pickle, what with the Gray Ghosts and the Crown.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Gartokkar's observation",
+    "fact": "Gartokkar disappears.",
+    "source_quote": "Gartokkar disappears.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Errde's observation",
+    "fact": "She then smiles very evilly, \"And I can offer one more thing.\"",
+    "source_quote": "She then smiles very evilly, \"And I can offer one more thing.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Daz's observation",
+    "fact": "Daz remembers how Dragon eggs can be purchased and hatched.",
+    "source_quote": "Daz remembers how Dragon eggs can be purchased and hatched.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Grygum's observation",
+    "fact": "Grygum looks up, and the enlarged Duergars have shrunk to their standard size.",
+    "source_quote": "Grygum looks up, and the enlarged Duergars have shrunk to their standard size.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin's observation",
+    "fact": "Thorin remembers that the Duergars are literal people but is uncertain how to continue.",
+    "source_quote": "Thorin remembers that the Duergars are literal people but is uncertain how to continue.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir's observation",
+    "fact": "Zalthir immediately notices the scars on his ears, four notches that don\u2019t look self-inflicted.",
+    "source_quote": "Zalthir immediately notices the scars on his ears, four notches that don\u2019t look self-inflicted.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daz's observation",
+    "fact": "Daz stares at her, \"Are you threatening us?\"",
+    "source_quote": "Daz stares at her, \"Are you threatening us?\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Thorin's observation",
+    "fact": "Thorin grabs his sword and wonders where exactly they will run to because it\u2019s not clear how they can beat the entire stone guard, but the effect Daz was hoping for is achieved.",
+    "source_quote": "Thorin grabs his sword and wonders where exactly they will run to because it\u2019s not clear how they can beat the entire stone guard, but the effect Daz was hoping for is achieved.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Halfling's observation",
+    "fact": "The halfling says, \"I\u2019m an outsider. And what do I know? Not very much. And as long as I stay an outsider, no one considers me a threat. And I can share what I know with those not in the game. And you are not part of the game, nor am I.\"",
+    "source_quote": "I\u2019m an outsider. And what do I know? Not very much. And as long as I stay an outsider, no one considers me a threat. And I can share what I know with those not in the game. And you are not part of the game, nor am I.",
+    "quote_verified": true
+  }
+]

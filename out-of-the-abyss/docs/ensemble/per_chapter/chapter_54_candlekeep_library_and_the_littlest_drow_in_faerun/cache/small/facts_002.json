@@ -1,0 +1,142 @@
+[
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is scanning the environment with ingrained Underdark vigilance, unable to fully shed combat awareness despite emerging into open skies, and is acutely aware of subtle shifts in ambient stillness that signal hidden threats.",
+    "source_quote": "That's the thing about months underground: the habits don't switch off just because the ceiling lifts.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Eldeth",
+    "fact": "Eldeth is preparing to lead the group west toward Mithral Hall, bearing the weight of an unspoken oath and the expectation to brief the lords on the dangers of the Underdark, with a demeanor that signals decisive movement.",
+    "source_quote": "West, she said. Head west and you'll hit Candlekeep. Simple as that, the way she says most things that aren't simple at all.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin carries Dawnbringer, a sentient weapon radiating warmth and presence, and is part of a group that has begun to form a bond of mutual trust after emerging from prolonged darkness.",
+    "source_quote": "Thorin carried it, but the feeling belonged to all of us.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Dawnbringer",
+    "fact": "Dawnbringer is a sentient weapon that radiates untargeted warmth and comfort, embodying the relief and renewal of emerging from the Underdark into open sky and natural light.",
+    "source_quote": "It radiated warmth the way a hearth does \u2014 not directed at anything in particular, just present.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Spiderbait",
+    "fact": "Spiderbait is a goblin raised in isolation, attempting to recalibrate his understanding of societal acceptance after being confronted with the harsh reality of goblin prejudice, and now seeks safety through association.",
+    "source_quote": "I'm just a small goblin, and you're four big, powerful people. Do you mind if I just sort of hang out with you guys?",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is a pragmatic observer who accurately assesses social conditions and endorses survival-oriented plans, particularly those that protect vulnerable individuals.",
+    "source_quote": "The state of goblin equality and inclusion is rough at the moment.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz offers measured, careful agreement, providing quiet validation without overstatement, and is part of a group that responds thoughtfully to social revelations.",
+    "source_quote": "Daz agreed, in his careful way.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "The Clan",
+    "fact": "The Clan is a collective of dwarven and giant-descended individuals bound by mutual oath, seeking to integrate their hybrid heritage and present a unified front to the lords of Mithral Hall and Gauntlgrym.",
+    "source_quote": "I am certain they will want to speak to you, and I will make it a statement of purpose that you shall be embraced by our clan.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "The Lords of Mithral Hall and Gauntlgrym",
+    "fact": "The Lords of Mithral Hall and Gauntlgrym are powerful dwarven rulers who must be briefed on the hidden dangers of the Underdark and the presence of demonic forces beneath their domains.",
+    "source_quote": "After I have spoken and explained to the lords of Gauntlgrym and Mithral Hall the dangers of the Underdark...",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Demon Lords in the Deep",
+    "fact": "Demon Lords in the Deep are ancient, hidden threats residing beneath the dwarven halls, requiring urgent briefing and preparation by those who have emerged from the Underdark.",
+    "source_quote": "...brief the king about demon lords in the deep.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Mithral Hall",
+    "fact": "Mithral Hall is a dwarven stronghold requiring urgent diplomatic engagement, serving as the destination for a mission to reveal hidden threats from the Underdark and integrate hybrid cultural identities.",
+    "source_quote": "Head west and you'll hit Candlekeep. Simple as that, the way she says most things that aren't simple at all.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Candlekeep",
+    "fact": "Candlekeep is a sanctuary and center of knowledge, perceived as a safe haven for those seeking integration and purpose after emerging from isolation or marginalization.",
+    "source_quote": "This Candlekeep place seems like the kind of place someone like me could find a job doing something innocuous.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "The Underdark",
+    "fact": "The Underdark is a vast, lightless realm where survival depends on constant vigilance, and whose psychological imprint lingers even after emergence into the surface world.",
+    "source_quote": "That's the thing about months underground: the habits don't switch off just because the ceiling lifts.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Emergence from the Underdark",
+    "fact": "The emergence from the Underdark is a psychological turning point marked by sensory overload, lingering combat awareness, and the slow recalibration of trust and safety in open environments.",
+    "source_quote": "It was disorienting in a way I didn't have language for. Not dangerous. Just \u2014 loud.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Integration of Hybrid Heritage",
+    "fact": "The thread of integrating giant upbringing with dwarven roots remains unresolved, driving personal transformation and demanding acknowledgment from both the Clan and the dwarven lords.",
+    "source_quote": "I want to become an integrated person \u2014 both my giant upbringing, but also my cultural roots...",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Recognition of Goblin Marginalization",
+    "fact": "The thread of goblin societal exclusion remains unaddressed, challenging the group\u2019s assumptions about safety, belonging, and the meaning of integration.",
+    "source_quote": "The state of goblin equality and inclusion is rough at the moment.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "The Oath of the Clan",
+    "fact": "The oath sworn to the Clan \u2014 to speak truth to the lords and embrace those who have walked between worlds \u2014 is a binding narrative thread that must be fulfilled to secure legitimacy and safety.",
+    "source_quote": "I swear.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Dawnbringer",
+    "fact": "Dawnbringer is a sentient weapon that emits warmth and presence, symbolizing renewal and collective resilience after prolonged exposure to darkness.",
+    "source_quote": "It radiated warmth the way a hearth does \u2014 not directed at anything in particular, just present.",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "Third day of open sky",
+    "fact": "The third day of open sky marks a transitional phase in psychological adaptation, where lingering Underdark instincts begin to soften but do not vanish.",
+    "source_quote": "The third day of open sky and I still hadn't stopped scanning.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool is a silent observer who remains fixed on the sun, embodying a deep, wordless awe at surface-world phenomena after prolonged subterranean existence.",
+    "source_quote": "Glabbagool was still looking at the sun.",
+    "quote_verified": true
+  }
+]

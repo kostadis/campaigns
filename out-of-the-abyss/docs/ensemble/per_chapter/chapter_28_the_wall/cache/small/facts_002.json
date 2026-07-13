@@ -1,0 +1,184 @@
+[
+  {
+    "type": "npc",
+    "subject": "Jimjar",
+    "fact": "Jimjar is smiling as if the goal of the bet was not to win or lose, but to change the group\u2019s mood.",
+    "source_quote": "Jimjar smiles as if the goal wasn\u2019t to win or lose the bet but something else, to change our mood.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin unbuckled his belt, causing his pants to fall, and laughed along with the group.",
+    "source_quote": "Thorin takes the bet and accidentally unbuckles his belt, and his pants fall. We all laugh.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Gracklstugh",
+    "fact": "Gracklstugh is a city of furnaces, bellowing heat, a toxic fog, and haze that blocks out the light; its filth contrasts jarringly with the beauty of Menzoberranzan.",
+    "source_quote": "Gracklstugh is a city of furnaces, bellowing heat, a toxic fog, and haze that blocks out the light. Visibility is constrained as we move about. The comparison with the filth of Gracklstugh and the beauty of Menzoberranzan is jarring.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz notices another grey-skinned duergar leaning against the wall, eyeing them with cold calculation, and approaches him.",
+    "source_quote": "As we sneak about, I notice another grey-skinned duergar, leaning against the wall, eyeing us with cold calculation. If something is going to happen, I would rather have a hand in it happening, and so I walk up to him.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Duergar informant",
+    "fact": "The Duergar informant demands a gold piece and reveals that the Stone Guard is on edge due to the Ember Vanguard\u2019s murder of the Derro High Council.",
+    "source_quote": "He looks me over and tells us that the Stone Guard is on edge and about strangers in the city. \u201cAny group with a Drow would probably want to be very careful. Everybody\u2019s been on edge since the Ember Vanguard killed several members of the Derro High Council.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Derro High Council massacre",
+    "fact": "The Ember Vanguard murdered several members of the Derro High Council, triggering widespread paranoia and destabilizing the power structure of Gracklstugh.",
+    "source_quote": "The Ember Vanguard killed several members of the Derro High Council.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "civil war risk",
+    "fact": "The death of the Derro High Council members has increased the possibility of a civil war in Gracklstugh, as they were part of the city\u2019s overall power structure.",
+    "source_quote": "The Derro we killed were not just madmen; they were part of the overall power structure of this city. And with them dead, the possibility of a civil war has suddenly increased.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Hgraam\u2019s Cave",
+    "fact": "Hgraam\u2019s Cave is the home of stone giants, where a secret ritual once transformed giants into two-headed monsters; the entrance is now closed indefinitely.",
+    "source_quote": "We end up at Hgraam\u2019s cave and explain to him that there was a secret ritual that was transforming his giants into two-headed monsters. He offers us a small pile of coins. And then asks us to leave, declaring that the entrance to his cavern would be closed for a while.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Hgraam",
+    "fact": "Hgraam, a stone giant, is skeptical of the surface world and refuses to acknowledge its existence, closing his cavern to outsiders.",
+    "source_quote": "He scratches his head and says, \u201cI know of no such place. I do not know if such a place even exists. And I would not know what to do with a world that had no stone over my head.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir uses his sphere of darkness to conceal the group as they leave Hgraam\u2019s Cave, ensuring safe passage.",
+    "source_quote": "As we leave Cairngorm\u2019s Cavern, Zalthir uses his sphere of darkness to hide the group. We figure that the haze and darkness will allow us to proceed unmolested.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Gartokkar\u2019s House",
+    "fact": "Gartokkar\u2019s House is where the group delivers the dragon egg, triggering suspicion and a clerical inquiry due to its occult markings.",
+    "source_quote": "As we walk through an alley, trying to be inconspicuous, a group of Derro surrounds us. They announce that the Grey Ghosts will have their revenge for the murder of the High Council.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Gartokkar",
+    "fact": "Gartokkar is pleased when the egg is delivered but becomes worried by its occult markings and seeks the opinion of a cleric of Bahamut.",
+    "source_quote": "Gartokkar takes the egg and notices the strange occult markings. He is worried. Before I can reassure him further, he turns to Grygum and asks him as a cleric of Bahamut, \u201cWhat do you think?\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum, a cleric of Bahamut, dismisses the idea that dragon evil is tied to scale pigmentation but admits he knows little about chromatic dragons beyond their tendency to become evil.",
+    "source_quote": "Grygum finds the tiresome confusion among the masses that the evil of dragons is a function of scale pigmentation to be very annoying, but sometimes it can be handy. \u201cI am a cleric of the Platinum Dragon. I know much about metallic dragons. But this is a chromatic dragon, and I know very little other than it will become evil.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "egg delivery",
+    "fact": "The group delivers the dragon egg to Gartokkar under a non-disclosure agreement, receiving a bag of coins in return, though the nature of the deal remains unclear.",
+    "source_quote": "Gartokkar is pleased. He smiles at me and says, \u201cA deal and a non-disclosure agreement is a deal.\u201d He leaves the main room and comes back with a bag full of coins.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "deal with Thermbechaude",
+    "fact": "The group believes they had a deal with Thermbechaude, but in reality, they never agreed to anything \u2014 creating a potential betrayal or misunderstanding.",
+    "source_quote": "As I walk out, I remember that we had a deal with Thermbechaude. And then I remember, Thermebechaude thought he had an agreement with us. We never had a deal with him.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Gartokkar",
+    "fact": "Gartokkar warns the group about the Deepking\u2019s agents \u2014 shadowy assassins from Menzoberranzan feared even by Stone Guards \u2014 and questions how they survived them.",
+    "source_quote": "I heard the Deepking\u2019s agents are everywhere, looking for a mercenary band so fierce that the Stone Guards are afraid to face them head-on. They are not mere adventurers, more like shadowy assassins from Menzoberranzan with powerful magic and blades that can rend souls. How did you manage to survive them?",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin responds to Gartokkar\u2019s warning by claiming the group appeared small and insignificant, successfully deflecting suspicion.",
+    "source_quote": "\u201cWe appeared small and insignificant.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Derro ambush",
+    "fact": "A group of Derro ambushes the party, blaming them for the murder of the High Council and demanding revenge for the Grey Ghosts.",
+    "source_quote": "As we walk through an alley, trying to be inconspicuous, a group of Derro surrounds us. They announce that the Grey Ghosts will have their revenge for the murder of the High Council.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Derro massacre",
+    "fact": "The party kills five Derro in self-defense, uncovering a note that falsely identifies them as the Ember Vanguard.",
+    "source_quote": "A few moments later, there are five dead Derro. As I pick through the coins in their pocket, I find a note.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "note from Derro",
+    "fact": "The note falsely identifies the party as the Ember Vanguard, accuses them of murdering the Derro High Council, stealing the Egg, and orders the Grey Ghosts to stalk, strike from shadows, and recover the Egg.",
+    "source_quote": "To all - The Deepking\u2019s agents\u2014the four shadows, The Ember Vanguard, who walk among us, wielding dark magic and unmatched skill\u2014have brought death and dishonor to our kin. They are the ones who crushed our leader and stole what is rightfully ours: The Egg. Your mission is clear: Stalk them relentlessly... Strike from the shadows... Leave paranoia in their wake... Recover The Egg. It belongs to the Gray Ghosts.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Ember Vanguard misidentification",
+    "fact": "The party is being falsely labeled as the Ember Vanguard by the Grey Ghosts, creating a dangerous misconception that could lead to widespread pursuit.",
+    "source_quote": "The note falsely identifies the party as the Ember Vanguard, accusing them of murdering the Derro High Council and stealing the Egg.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Darklake",
+    "fact": "The group heads toward the Darklake after the ambush, carrying the weight of false accusations and rising tension across Gracklstugh.",
+    "source_quote": "With this warning, we head out towards the Darklake.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Grey Ghosts",
+    "fact": "The Grey Ghosts are a vengeful Derro faction seeking to recover the Egg and punish those they believe are the Ember Vanguard, using stealth, paranoia, and assassination.",
+    "source_quote": "They announce that the Grey Ghosts will have their revenge for the murder of the High Council.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Ember Vanguard",
+    "fact": "The Ember Vanguard are real assassins who murdered the Derro High Council and stole the Egg, but the party is being falsely blamed for their actions.",
+    "source_quote": "The Deepking\u2019s agents\u2014the four shadows, The Ember Vanguard, who walk among us, wielding dark magic and unmatched skill\u2014have brought death and dishonor to our kin. They are the ones who crushed our leader and stole what is rightfully ours: The Egg.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Deepking\u2019s agents",
+    "fact": "The Deepking\u2019s agents are shadowy assassins feared by the Stone Guards, possibly identical to the Ember Vanguard, and are now actively hunting the party.",
+    "source_quote": "I heard the Deepking\u2019s agents are everywhere, looking for a mercenary band so fierce that the Stone Guards are afraid to face them head-on. They are not mere adventurers, more like shadowy assassins from Menzoberranzan with powerful magic and blades that can rend souls.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "egg\u2019s origin",
+    "fact": "The origin and true nature of the dragon egg remain mysterious, its occult markings suggesting a ritualistic or forbidden creation, and its viability uncertain.",
+    "source_quote": "Gartokkar takes the egg and notices the strange occult markings. He is worried. We rescued it from a mysterious ritual.",
+    "quote_verified": false
+  }
+]

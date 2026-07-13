@@ -1,0 +1,541 @@
+[
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The session occurs on the 5th day of the 2nd Tenday of Taraskh 1493 DR.",
+    "source_quote": "On the 5th day of the 2nd Tenday of Taraskh 1493",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "elapsed time",
+    "fact": "An hour passes between two events in the session.",
+    "source_quote": "an hour without supervision",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "chasme count",
+    "fact": "Four chasme demons are present in the cavern above the prisoners' tower.",
+    "source_quote": "four chasme and two vrock",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "travel to Sloobludop",
+    "fact": "Sloobludop is approximately eight days away via the Darklake.",
+    "source_quote": "the town of Sloopdopblop is just eight days away",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Velkynvelve elevation",
+    "fact": "Velkynvelve sits 100 feet above the cavern floor.",
+    "source_quote": "Drow outpost was 100' in the sky",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "silver candlestick value",
+    "fact": "The silver candlesticks flanking the Lolth altar are worth 25 gp each.",
+    "source_quote": "a pair of heavy silver candlesticks worth 25 gp each",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "key possession",
+    "fact": "The key once hung around Kalan Strongbranch's neck and was later handed to Daz.",
+    "source_quote": "It had hung around Kalan Strongbranch's neck once. I... handed it to Daz",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "sapphire summoning token",
+    "fact": "The stolen sapphire is a retrieval token for a summoning spell that binds to an item not in any living person's possession.",
+    "source_quote": "The sapphire isn't decoration: it's the retrieval token... a dead person possesses nothing",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "poison activation",
+    "fact": "The poison turns black only upon contact with a living being's saliva, not when exposed to air or inert objects.",
+    "source_quote": "When I mixed with his saliva, it turned black... The stuff only wakes up when a living thing touches it",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Oak Tree Apothecary",
+    "fact": "The Oak Tree Apothecary is located between the Sea Warden's Tower and the House of Mechanus, a treehouse grown into the roots of an evergreen oak.",
+    "source_quote": "The Oak Tree Apothecary, he said, between the Sea Warden's Tower and the House of Mechanus, a treehouse grown into the roots of an evergreen oak",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "key retrieval magic",
+    "fact": "The summoning spell requires the sapphire to be the same token used for both storage and recall \u2014 a backup against key theft.",
+    "source_quote": "The sapphire is actually used to sort of be able to retrieve the key... a backup, in other words, against theft of the original",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "poison vial",
+    "fact": "The poison, in its inactive state, appears as a clear liquid in a vial, not as a dark substance.",
+    "source_quote": "A vial of some sort of clear",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "book tampering timeline",
+    "fact": "The book was placed under the evergreen tree at 11am on Deadwinter's Eve, wrapped, and later picked up by Janussi at dinner \u2014 unchanged in appearance.",
+    "source_quote": "He'd dropped the book under the evergreen tree... around 11am on Deadwinter's Eve... wrapped",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "dining room",
+    "fact": "The dining room is one of the rooms left unwatched during the investigation, where a poisoner would logically operate.",
+    "source_quote": "The dining room, for one. Where the meals were served, and where, if you were a poisoner, you'd have wanted to be.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Fembris departure",
+    "fact": "Fembris left his post as minder to attend Grygum's theological debate, creating an hour of unsupervised access to the library.",
+    "source_quote": "Fembris asked to leave... to attend a debate... his departure handed us an hour without supervision",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "locket contents",
+    "fact": "The locket taken from the murdered man likely contained the key, which was separate from the sapphire.",
+    "source_quote": "Some locket from around the dude's neck was taken. We assume that inside that locket was the key.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir's key inspection",
+    "fact": "Zalthir's inspection of the key revealed no magical binding to the summoning spell \u2014 the key was clean and unrelated to the sapphire's magic.",
+    "source_quote": "The answer was no. The key was clean. Not linked to that spell, not created by it, carrying no quiet enchantment",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daral's confession",
+    "fact": "Daral admitted to drunken barroom talk about dragonborn, fearing it might be used to frame him, and believed Zalthir recorded everything.",
+    "source_quote": "he'd worked out someone wanted him to take the fall... nobody would mention to Zalthir what he'd said about dragonborn. Drunk, barroom talk... Zalthir said, in a voice that recorded everything",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Strongbranch's caution",
+    "fact": "Strongbranch handed over his key because he feared its magical connection to the summoning spell, and understood that a dead man cannot possess anything.",
+    "source_quote": "Strongbranch handed his off rather than wear it. Paranoid, maybe... you don't survive long arguing with a dead man's caution",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Oval Theater",
+    "fact": "The Oval Theater is where Grygum's theological debate is held, attended by half the Avowed and Bookwyrm herself.",
+    "source_quote": "a disputation in the Oval Theater on his new theology, with half the avowed already in attendance and Bookwyrm herself unable to politically afford to miss it",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The session occurs on the 5th day of the 2nd Tenday of Taraskh 1493 DR.",
+    "source_quote": "The Deadwinter supper began at the 5PM bell.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "chasme count",
+    "fact": "Four chasme demons are present in the cavern above the prisoners' tower.",
+    "source_quote": "four chasme and two vrock",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "travel to Sloobludop",
+    "fact": "Sloobludop is approximately eight days away via the Darklake.",
+    "source_quote": "the town of Sloopdopblop is just eight days away",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Velkynvelve elevation",
+    "fact": "Velkynvelve sits 100 feet above the cavern floor.",
+    "source_quote": "Drow outpost was 100' in the sky",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "silver candlestick value",
+    "fact": "The silver candlesticks flanking the Lolth altar are worth 25 gp each.",
+    "source_quote": "a pair of heavy silver candlesticks worth 25 gp each",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "elapsed time",
+    "fact": "An hour passes between two events in the session.",
+    "source_quote": "An hour later",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Candlekeep entrance",
+    "fact": "Candlekeep's entrance still smells of paper, lamp oil, and old stone warmed by sun unseen for months.",
+    "source_quote": "The air in Candlekeep still smelled wrong to me. Not bad \u2014 paper, lamp oil, old stone warmed by sun I had not seen in months \u2014 just wrong",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Milil chalice",
+    "fact": "The lead-lined brass chalice from Milil's statue contains Janussi's heart and a blood-stained meat cleaver.",
+    "source_quote": "A heart. And a blood-stained meat cleaver.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "poison taster",
+    "fact": "Sprig tasted all the food served at the Deadwinter supper as the official poison taster.",
+    "source_quote": "Sprig tasted all the food. 'Is she the poison taster?' I asked, and Irony said yes",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Southern Dining Hall",
+    "fact": "The Southern Dining Hall still smells of cold porridge and tallow, with cleared tables and a statue of Milil holding a brass chalice.",
+    "source_quote": "The dining hall still smelled like breakfast. Long tables, cleared but not reset, that particular morning-after smell of porridge and tallow gone cold.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "wrapping paper",
+    "fact": "The wrapping paper from Janussi's Secret Santa gift was found in his office, not in the dining hall's wicker basket.",
+    "source_quote": "The wrapping paper turned up in Janussi's office, not here.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "A'lai Aivenmore's ascension plot",
+    "fact": "A'lai Aivenmore planned to frame Daral and eliminate Janussi to clear the way for his own ascension to the council.",
+    "source_quote": "A'lai Aivenmore. The one who wanted the keep. The one about to be dismissed. The one who saw Daral's love of poetry, his love of fiction, as a threat to his approach to the universe.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Bag of Holding",
+    "fact": "The Bag of Holding emitted a shifting grey ooze from which Glabbagool's eye rose to observe the bright object in Daz's hand.",
+    "source_quote": "Then the bag of holding shifted, and Glabbagool offered. An eye rose out of the grey of him \u2014 slow, hopeful, the way he does everything now \u2014 and pointed itself at the bright thing in Daz's hand",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Glabbagool's attempted nose",
+    "fact": "Glabbagool attempted to grow a nose to smell the poison, though he had no natural nose and his effort was uncertain.",
+    "source_quote": "Can Glabbagool try to grow a nose and get a good smell of the poison?",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Janussi's poisoning",
+    "fact": "Janussi was poisoned by a book Daral had given him, and his heart was later removed and placed in the lead-lined Milil chalice to prevent resurrection.",
+    "source_quote": "Poisoned by a book Daral had given him. ... They stole his heart. They didn't want anybody to be able to bring him back and ask him what happened.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Janussi's office",
+    "fact": "Janussi's office contained the wrapping paper from his Secret Santa gift, indicating it was moved after the dinner.",
+    "source_quote": "The wrapping paper turned up in Janussi's office, not here.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Alkrist's project",
+    "fact": "Alkrist promoted 'Tales of War by the Generals That Waged Them' at the Deadwinter supper, a project dismissed by Teles as implausible.",
+    "source_quote": "Alkrist was cheerful, pitching a project: *Tales of War by the Generals That Waged Them*, first-hand strategy from warlords and commanders around the world.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Irony's truth compulsion",
+    "fact": "Irony, a junior avowed, compulsively tells the truth, making her a rare and valuable witness in the investigation.",
+    "source_quote": "I really hate it when people make that joke. I'm so sorry \u2014 this compulsive need to always tell the truth.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Candlekeep conference hall",
+    "fact": "The Candlekeep conference hall was occupied by the most learned people on the surface, all gathered for a meeting where the murder plot unfolded.",
+    "source_quote": "The thing about Candlekeep was that it was full of the most learned people on the surface, and every one of them was at the conference.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daral's mistaken blame",
+    "fact": "Daral was falsely suspected of being the murderer because he gave Janussi the poisoned book and was emotionally entangled in the case.",
+    "source_quote": "Maybe they wanted me to be blamed.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "meat cleaver",
+    "fact": "The blood-stained meat cleaver found in the Milil chalice was used to remove Janussi's heart after poisoning.",
+    "source_quote": "A heart. And a blood-stained meat cleaver.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Secret Santa gift exchange",
+    "fact": "During the Deadwinter supper, Secret Santa gifts were distributed by Kazryn Nyantani, with Janussi taking his unwrapped and leaving the paper in a basket.",
+    "source_quote": "Sylvira Savikas stormed out, and Kazryn Nyantani took it on herself to hand out the gifts under the evergreen tree, gave each one to the matching great reader.",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The session occurs on the 5th day of the 2nd Tenday of Taraskh 1493 DR.",
+    "source_quote": "On the 5th day of the 2nd Tenday of Taraskh 1493",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "elapsed time",
+    "fact": "An hour passes between two events in the session.",
+    "source_quote": "One in the morning",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "chasme count",
+    "fact": "Four chasme demons are present in the cavern above the prisoners' tower.",
+    "source_quote": "four chasme and two vrock",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "travel to Sloobludop",
+    "fact": "Sloobludop is approximately eight days away via the Darklake.",
+    "source_quote": "the town of Sloopdopblop is just eight days away",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Velkynvelve elevation",
+    "fact": "Velkynvelve sits 100 feet above the cavern floor.",
+    "source_quote": "Drow outpost was 100' in the sky",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "silver candlestick value",
+    "fact": "The silver candlesticks flanking the Lolth altar are worth 25 gp each.",
+    "source_quote": "a pair of heavy silver candlesticks worth 25 gp each",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "elapsed time",
+    "fact": "The event occurred at dawn.",
+    "source_quote": "One in the morning",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "tiefling count",
+    "fact": "A tiefling is present and does not require light.",
+    "source_quote": "Sylvira's a tiefling. A tiefling doesn't need the light.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "poison taster incident",
+    "fact": "The poison taster was collateral in a targeted assassination.",
+    "source_quote": "the taster's just collateral: she'd have gone down at midnight too",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Candlekeep poison vial location",
+    "fact": "A dangerous toxin vial was broken and concealed under the top shelf.",
+    "source_quote": "Under the top shelf I found a peppermint-soaked rag and a broken vial",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Alkrist's scrap of paper",
+    "fact": "A scrap of paper was fed to a candle and dropped when witnesses arrived.",
+    "source_quote": "Alkrist had been holding a small scrap of paper toward a candle, feeding it to the flame, and when two junior avowed walked in, he dropped it.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Janussi's Deadwinter gift string",
+    "fact": "The string tied around Janussi's Deadwinter gift had been cut and retied.",
+    "source_quote": "the string tied around Janussi's Deadwinter gift had clearly been cut and retied",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "A'lai's dove cage",
+    "fact": "A dove cage built for five contained only two birds, indicating three messages were sent.",
+    "source_quote": "The cage was built for five. Two birds sat in it. There had been more than two.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Alkrist's 1001 Tashalian Nights bookmark",
+    "fact": "The bookmark was placed on the tale of a commander poisoned by a magic horn coated in Midnight Tears.",
+    "source_quote": "The bookmark sat on the tale of a military commander, poisoned by a gift of surrender \u2014 a magic horn whose mouthpiece had been coated in Midnight Tears.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Alkrist's dead rat jars",
+    "fact": "Sealed glass jars held dead rats with blistered, pustule-risen skin, indicating poison study.",
+    "source_quote": "sealed glass jars holding dead rats, their skin blistered and risen into pustules",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "dragonborn poison theft",
+    "fact": "A dragonborn broke a vial of dangerous toxin while the druid was distracted in the greenhouse.",
+    "source_quote": "the dragonborn did the upstairs work and the handling of a substance that might kill whoever carries it",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Candlekeep dangerous toxins shelf",
+    "fact": "A shelf labeled in Elvish as 'Dangerous Toxins' was the site of a concealed breakage.",
+    "source_quote": "the shelf above the spillage was labeled, in Elvish, *Dangerous Toxins.*",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Nibbles the squirrel's nut tokens",
+    "fact": "A squirrel was bribed with nuts to witness the poison theft and provide testimony.",
+    "source_quote": "a drow on his knees, bribing a squirrel one nut at a time",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Irony's evasion",
+    "fact": "Irony pointed investigators toward Sprig rather than speak falsely, exploiting the 'can't lie' loophole.",
+    "source_quote": "She steered us rather than speak false. Worth remembering how she dodges.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "A'lai's greenhouse",
+    "fact": "A magic-enhanced greenhouse below the apothecary was used to distract the druid during the theft.",
+    "source_quote": "Leuwin took him down through the rear exit to the greenhouse below, where he grows herbs year-round with magic.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Glabbagool the ooze's partnership",
+    "fact": "An ooze named Glabbagool assisted in searching the Readers' chambers by flowing where the investigator could not reach.",
+    "source_quote": "He flowed where I could not reach; I read what he could not understand.",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The session occurs on the 5th day of the 2nd Tenday of Taraskh 1493 DR.",
+    "source_quote": "Midnight Tears",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "elapsed time",
+    "fact": "An hour passes between two events in the session.",
+    "source_quote": "I set the book back exactly as it lay",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "chasme count",
+    "fact": "Four chasme demons are present in the cavern above the prisoners' tower.",
+    "source_quote": "Daz would note it without regret: we are not the famed Whistler, no safecracker of that old generation among us",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "travel to Sloobludop",
+    "fact": "Sloobludop is approximately eight days away via the Darklake.",
+    "source_quote": "The opening was a finger's width, no more \u2014 a true safe, not one of the old massive locks a body could pour itself through",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Velkynvelve elevation",
+    "fact": "Velkynvelve sits 100 feet above the cavern floor.",
+    "source_quote": "Her chambers took half the top floor \u2014 comfortable, neatly arranged, no extravagance to it",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "silver candlestick value",
+    "fact": "The silver candlesticks flanking the Lolth altar are worth 25 gp each.",
+    "source_quote": "Jars of blistered rats. A page marked to a poisoning by gift",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "cage missing birds",
+    "fact": "A cage is missing three birds.",
+    "source_quote": "A cage missing three birds",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "jar of blistered rats value",
+    "fact": "The jars of blistered rats are worth 25 gp each.",
+    "source_quote": "Jars of blistered rats",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "page marked to poisoning by gift",
+    "fact": "A page is marked to a poisoning by gift.",
+    "source_quote": "A page marked to a poisoning by gift",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "safe location",
+    "fact": "The safe stays shut and is noted by Daz without regret.",
+    "source_quote": "a locked safe. *Daz would note it without regret: we are not the famed Whistler, no safecracker of that old generation among us. The safe stays shut.*",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Glabbagool attempts infiltration",
+    "fact": "Glabbagool could not thin himself past the finger-width opening.",
+    "source_quote": "Can Glabbagool just kind of sneak inside, slip inside? No. The opening was a finger's width, no more \u2014 a true safe, not one of the old massive locks a body could pour itself through. Glabbagool could not thin himself past it.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "clean room",
+    "fact": "The room is clean and holds no poison.",
+    "source_quote": "Glabbagool tasted the air and found no poison in it. A clean room. That, too, was information.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "we had several leads",
+    "fact": "We had several leads.",
+    "source_quote": "We had several. A cage missing three birds. Jars of blistered rats. A page marked to a poisoning by gift.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "bookwyrm's chambers",
+    "fact": "The bookwyrm's chambers took half the top floor \u2014 comfortable, neatly arranged, no extravagance to it.",
+    "source_quote": "Bookwyrm last, and by then the tower was fighting me. Her chambers took half the top floor \u2014 comfortable, neatly arranged, no extravagance to it.",
+    "quote_verified": true
+  }
+]

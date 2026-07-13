@@ -1,0 +1,79 @@
+[
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin, the least magically inclined member of the party, correctly identified the psychic center of the Hall of Melting Mirrors using a lucky roll and dwarvish intuition, succeeding where all spellcasters failed.",
+    "source_quote": "Chipgrin remarked he should have asked the dwarf first, before awkwardly clarifying to Zalthir that he meant no offense by calling them a 'surface dweller'.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Jimjar",
+    "fact": "Jimjar used a mysterious bone die, won from a blind Duergar in Gracklstugh, to pacify an entire army of oozes by channeling Glabbagool into a unifying consciousness, revealing the die's truth-binding nature.",
+    "source_quote": "The old mule swore it was carved from the knucklebone of a saint who never told a lie, said it had a memory for the truth. I thought he was just trying to cover his losses.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir used a special ability to inspect Jimjar and discovered he possesses divine-level immunities and resistances \u2014 immune to poison, psychic damage, charm, fear, radiant energy, and mundane weapons \u2014 a profile matching no ordinary gnome and strongly resembling an angel or deity.",
+    "source_quote": "Jimjar noticed the scrutiny, offered a knowing wink, and vanished entirely from existence, leaving only the faint metallic clink of platinum coins echoing in the tunnel behind him.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Jimjar",
+    "fact": "Jimjar warned the party that Zuggtmoy, unlike Juiblex, prefers to move in while you're sleeping, subtly indicating the true threat is insidious, patient, and already present.",
+    "source_quote": "Juiblex was a loud, messy neighbor, but this sister, she prefers to move in while you're sleeping.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "bone die",
+    "fact": "The bone die, carved from the knucklebone of a saint who never told a lie, possesses a memory for the truth and was used to temporarily unify all oozes in the cavern through Glabbagool, forcing peace before becoming spent and inert.",
+    "source_quote": "Jimjar handed it to the party as a keepsake. Grygum paid the ten platinum pieces without complaint, and the party quietly agreed it had been the best investment they had ever made.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool, the party's intelligent gelatinous cube companion, was temporarily transformed by the bone die into a vast, unifying consciousness that connected all oozes, jellies, and puddings in the cavern, speaking gently to them and persuading them to retreat peacefully.",
+    "source_quote": "He told them, in his gentle and earnest way, that the world was fine, that everyone could get along, and that there was really no need to kill anyone.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Zuggtmoy",
+    "fact": "Zuggtmoy's influence is subtly present in the chamber, manifesting as fungi and mushrooms growing unnaturally fast \u2014 a quiet, creeping threat that moves in while the party sleeps, contrasting with Juiblex's overt chaos.",
+    "source_quote": "Jimjar pointed to a pale white puffball mushroom growing at impossible speed from a crack in the wall, its scent cloyingly sweet, like a feast left to rot in a hothouse.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Blingdenstone peace accord",
+    "fact": "The Ember Vanguard brokered a fragile but genuine peace among Blingdenstone's factions \u2014 miners, wererats, ghosts, and spiritual leaders \u2014 by resolving wage disputes, assigning defense roles to the Gold Whisker wererats, and compromising on sacred mining practices.",
+    "source_quote": "One by one, the arguments quieted, hands were shaken, and a fragile but genuine peace began to take shape.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Voucher of the Varmint",
+    "fact": "Chief Chipgrin presented Daz with the Voucher of the Varmint \u2014 a braided rat's foot token recognized by wererats and outcasts from Blingdenstone to Menzoberranzan \u2014 symbolizing the party's alliance with the underground's hidden networks.",
+    "source_quote": "Chief Chipgrin pressed a braided rat's foot into Daz's hand \u2014 the Voucher of the Varmint, he called it, a token recognized by wererats and outcasts from Blingdenstone all the way to Menzoberranzan.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Jimjar's true nature",
+    "fact": "Jimjar's divine immunities, vanishing act, and possession of the truth-binding die confirm he is not a gnome but a being of celestial or divine origin \u2014 his departure leaves open the possibility of future encounters.",
+    "source_quote": "Jimjar noticed the scrutiny, offered a knowing wink, and vanished entirely from existence, leaving only the faint metallic clink of platinum coins echoing in the tunnel behind him.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Blingdenstone",
+    "fact": "Blingdenstone has transitioned from a fractured, war-torn city to a fragile but unified community under the Ember Vanguard\u2019s mediation, now sending them off with ceremony and legends of their deeds spreading through the tunnels.",
+    "source_quote": "Working-class gnomes lined the tunnels chanting their new rallying cry, the Burrow Warden ghosts dipped their spectral banners in salute.",
+    "quote_verified": false
+  }
+]

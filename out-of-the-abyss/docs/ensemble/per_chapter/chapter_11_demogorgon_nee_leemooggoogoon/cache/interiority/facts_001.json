@@ -1,0 +1,485 @@
+[
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin notices a duergar.",
+    "source_quote": "Just then Thorin notices a duergar. He looks at the creature.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin remembers the stories of the deep dwarves.",
+    "source_quote": "And then remembers the stories of the deep dwarves.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Whisperwind",
+    "fact": "Whisperwind warned Thorin of the deep dwarves.",
+    "source_quote": "Whisperwind, a giant friend, warned him of the deep dwarves.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum answers, 'We were told we would have to do nothing.'",
+    "source_quote": "Grygum answers, 'We were told we would have to do nothing.'",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Duergar",
+    "fact": "The duergar looks at Grygum, surprised yet somehow comforted.",
+    "source_quote": "The duergar looks at Grygum, surprised yet somehow comforted.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Duergar",
+    "fact": "The duergar's desire to live overcomes his innate cultural cynicism.",
+    "source_quote": "His desire to live overcomes his innate cultural cynicism.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Duergar",
+    "fact": "The duergar says, 'What? You are just going to show up here and die?'",
+    "source_quote": "What? You are just going to show up here and die?",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum realizes that this creature doesn\u2019t know the plan and recognizes that this may be an opportunity to take advantage of this poor creature.",
+    "source_quote": "Grygum realizes that this creature doesn\u2019t know the plan and recognizes that this may be an opportunity to take advantage of this poor creature.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum says, 'There\u2019s more than meets the eye.'",
+    "source_quote": "There\u2019s more than meets the eye.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Duergar",
+    "fact": "The duergar sighs, 'Very well. Tell me when to act. And if we get out of here alive, find me in Gracklstugh.'",
+    "source_quote": "Very well. Tell me when to act. And if we get out of here alive, find me in Gracklstugh.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Duergar",
+    "fact": "The duergar says, 'I am Hemeth.'",
+    "source_quote": "Hemeth.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Hemeth",
+    "fact": "Hemeth is an arms dealer who got caught up in this madness.",
+    "source_quote": "I am an arms dealer and got caught up in this madness.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir can\u2019t tell one faction of fish-folk from the other but sees the archpriest of the Sea Mother and his whip moving toward the altar.",
+    "source_quote": "Zalthir, who has been observing everyone, can\u2019t tell one faction of fish-folk from the other but sees the archpriest of the Sea Mother and his whip moving toward the altar.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Bloppblippodd",
+    "fact": "Bloppblippodd calls for the sacrifices to be brought forth.",
+    "source_quote": "Just then, he hears Bloppblippodd call for the sacrifices to be brought forth.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Kuo-toa",
+    "fact": "One kuo-toa per escapee jumps to do her bidding.",
+    "source_quote": "One kuo-toa per escapee jumps to do her bidding.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Kuo-toa",
+    "fact": "They prod Zalthir and his fellow escapees with their spears, herding them toward a slight depression 20 feet from the altar, with a large grate at its center.",
+    "source_quote": "They prod Zalthir and his fellow escapees with their spears, herding them toward a slight depression 20 feet from the altar, with a large grate at its center.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Jim Jir",
+    "fact": "Jim Jir mutters, 'Wanna bet on how many of us will come out of this alive?'",
+    "source_quote": "Wanna bet on how many of us will come out of this alive?",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz announces, 'We\u2019re all going to come out of this alive.'",
+    "source_quote": "We\u2019re all going to come out of this alive.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Buppido",
+    "fact": "Buppido mutters, 'ahd m.'",
+    "source_quote": "ahd m.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir observes that the stonework in the depression is marred by the blood of countless sacrifices, accompanied by the gentle sound of the Darklake lapping against the grate.",
+    "source_quote": "Zalthir observes that the stonework in the depression is marred by the blood of countless sacrifices, accompanied by the gentle sound of the Darklake lapping against the grate.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum looks around and wonders how the sacrifice is going to be performed.",
+    "source_quote": "Grygum looks around and wonders how the sacrifice is going to be performed.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin mutters, 'If this is a fireball.'",
+    "source_quote": "If this is a fireball.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum concludes, 'No, this is going to be one of those conventional slit-their-throats with-knife sacrifices. Normally, the victims would be disarmed, but I guess they figure that part of the ritual is some of the cultists dying in the attempt?'",
+    "source_quote": "No, this is going to be one of those conventional slit-their-throats with-knife sacrifices. Normally, the victims would be disarmed, but I guess they figure that part of the ritual is some of the cultists dying in the attempt?",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin realizes that if Ploop and Blopp are working together, they have all the necessary spells to paralyze them.",
+    "source_quote": "It\u2019s just then that Thorin realizes that if Ploop and Blopp are working together, they have all the necessary spells to paralyze them.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin admits to himself that Ploop might have been playing them, and if so, between the two archpriests, enough hold persons can be cast to hold him indefinitely.",
+    "source_quote": "He admits to himself that Ploop might have been playing them, and if so, between the two archpriests, enough hold persons can be cast to hold him indefinitely.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin wonders if this is the end.",
+    "source_quote": "Thorin wonders if this is the end.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Ploop",
+    "fact": "Ploop has betrayed his daughter, not the escapees, and attacks her along with his allies.",
+    "source_quote": "Ploop has betrayed his daughter, not the escapees, and attacks her along with his allies.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin looks at the guards who surround them, and they are surprised.",
+    "source_quote": "Thorin looks at the guards who surround them, and they are surprised.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin realizes it\u2019s a free-for-all. Kuo-Toans are attacking other Kuo-Toans. And the sacrifices are now ignored.",
+    "source_quote": "And then he looks around and realizes it\u2019s a free-for-all. Kuo-Toans are attacking other Kuo-Toans. And the sacrifices are now ignored.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum examines the situation and decides that fleeing is the better part of valor.",
+    "source_quote": "Grygum examines the situation and decides that fleeing is the better part of valor.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum decides it's time to take a side and will go behind Ploop to heal any of his warriors.",
+    "source_quote": "He also decides it's time to take a side and will go behind Ploop to heal any of his warriors.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz notices the cleric running and runs after him.",
+    "source_quote": "Daz notices the cleric running and runs after him.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Blopp",
+    "fact": "Blopp screams at one of the Kuo Toans to stop the escapees from running.",
+    "source_quote": "Blopp screams at one of the Kuo Toans to stop the escapees from running.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Blopp's second in command",
+    "fact": "Her second in command advances to block one route of escape.",
+    "source_quote": "Her second in command advances to block one route of escape.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Jimjar",
+    "fact": "Jimjar mutters, 'We all made it alive.'",
+    "source_quote": "We all made it alive.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum looks at him and thinks, 'It would be cheating to let one of us die. Would he cheat?'",
+    "source_quote": "It would be cheating to let one of us die. Would he cheat?",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum notices docks and boats attached to them.",
+    "source_quote": "Grygum notices docks and boats attached to them.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum notices Kuo-Toans fishing in the water beside the docks.",
+    "source_quote": "He also notices Kuo-Toans fishing in the water beside the docks.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum observes Kuo-Toan monitors standing on the docks, seemingly guarding the boats.",
+    "source_quote": "Finally, he observes Kuo-Toan monitors standing on the docks, seemingly guarding the boats.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum points to a boat in the far eastern part of the cave, guarded by a small group of isolated Kuo-Toans.",
+    "source_quote": "He points to a boat in the far eastern part of the cave, guarded by a small group of isolated Kuo-Toans.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz shouts, 'We should check to see if we can find any supplies anywhere.'",
+    "source_quote": "We should check to see if we can find any supplies anywhere.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum says, 'Let\u2019s see if there is anything we can take from Ploop. After all he promised to pay us.'",
+    "source_quote": "Let\u2019s see if there is anything we can take from Ploop. After all he promised to pay us.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum runs into Ploop\u2019s thatched hut. Once there, he pilfers whatever treasure he can find.",
+    "source_quote": "Grygum runs into Ploop\u2019s thatched hut. Once there, he pilfers whatever treasure he can find.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz observes the madness and walks towards the boat with a confident swagger, looking as if he knows what he is doing and that nobody should mess with him.",
+    "source_quote": "Daz observes the madness and walks towards the boat with a confident swagger, looking as if he knows what he is doing and that nobody should mess with him.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Other escapees",
+    "fact": "The other escapees, seeing that, mimic him.",
+    "source_quote": "The other escapees, seeing that, mimic him.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin then notices several Kuo-Toans who were previously in the water fishing and are now screaming.",
+    "source_quote": "Thorin then notices several Kuo-Toans who were previously in the water fishing and are now screaming.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin realizes that there are several patches of blood in the dark lake.",
+    "source_quote": "He looks around some more and realizes that there are several patches of blood in the dark lake.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum, his arms full of treasure, rushes towards the group.",
+    "source_quote": "Grygum, his arms full of treasure, rushes towards the group.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Cleric of Bahamut",
+    "fact": "The cleric of Bahamut says, 'Gold to buy things and nothing to buy?'",
+    "source_quote": "Gold to buy things and nothing to buy?",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Gorg'Bahamut",
+    "fact": "Gorg'Bahamut said, 'A hoard is always a valuable thing and a blessing from Bahamut.'",
+    "source_quote": "A hoard is always a valuable thing and a blessing from Bahamut.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Young archpriest of the Deep Father",
+    "fact": "The young archpriest of the Deep Father calls out, 'Leemooggoogoon!'",
+    "source_quote": "Leemooggoogoon!",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum thinks for a moment and realizes that the ritual is complete.",
+    "source_quote": "Grygum thinks for a moment and realizes that the ritual is complete.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum hears another sound rise above the burbling cries of the Kuo-toa.",
+    "source_quote": "He pauses and listens. And then thinks, 'Yep, evil outcome of evil ritual,' as he hears another sound rise above the burbling cries of the Kuo-toa.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum notices the water's surface bubbling and beginning to foam.",
+    "source_quote": "He looks out onto the dark lake and notices the water's surface bubbling and beginning to foam.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum sees a thick, oily tentacle burst forth, followed by another.",
+    "source_quote": "And then a thick, oily tentacle bursts forth, followed by another.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum says, 'I take that back; this is bad.'",
+    "source_quote": "I take that back; this is bad.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum stares at the point in the lake as two monstrous heads break the surface, resembling hideous, enraged baboons with wickedly curved tusks.",
+    "source_quote": "He stares at the point in the lake as two monstrous heads break the surface, resembling hideous, enraged baboons with wickedly curved tusks.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum mutters, 'This is bad, but it can\u2019t be what I think it is.'",
+    "source_quote": "This is bad, but it can\u2019t be what I think it is.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum shouts, 'Demogorgon, Prince of Demons, powerful, dangerous, and we need to run.'",
+    "source_quote": "Demogorgon, Prince of Demons, powerful, dangerous, and we need to run.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin asks, 'Demo-who?'",
+    "source_quote": "Demo-who?",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin recalls Shuushar saying that the Kuo-Toans could create gods with the power of their faith.",
+    "source_quote": "He recalls Shuushar saying that the Kuo-Toans could create gods with the power of their faith.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin knows that the archpriest said Leemooggoogoon, not Demogorgon.",
+    "source_quote": "He knows that the archpriest said Leemooggoogoon, not Demogorgon.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Grog'Bahamut",
+    "fact": "Grog'Bahamut said, 'Demogorgon. The very name is a blasphemy against creation, a festering wound upon the fabric of reality. He is a creature of pure chaos, a monstrous embodiment of the Abyss's insatiable hunger for destruction. Two heads, each a font of corruption, embody the duality of his vile nature: one whispers insidious lies, tempting the weak to embrace the darkness, while the other roars with primal fury, reveling in carnage and despair. His form is a grotesque mockery of life, a twisted amalgamation of reptilian savagery and demonic power. Tentacles replace hands, dripping with the venom of chaos, while his twin necks support heads that mirror the fractured nature of his soul. He is the antithesis of all Bahamut stands for: justice, order, and compassion. Where Bahamut offers protection and guidance, Demogorgon sows discord and ruin. Where Bahamut inspires hope, Demogorgon revels in despair. He is a predator of souls, a corrupter of the innocent, and a destroyer of worlds. He commands legions of demons, each a vile reflection of his depravity, and his influence spreads like a plague across the planes. To face Demogorgon is to confront the ultimate darkness, the purest form of evil. Yet, even in the face of such horror, we, the followers of Bahamut, will not falter. We will stand against him, armed with faith and righteousness, and we will fight to protect the innocent from his insidious grasp. For even in the deepest shadows, the light of justice can prevail.'",
+    "source_quote": "Demogorgon.  The very name is a blasphemy against creation, a festering wound upon the fabric of reality.  He is a creature of pure chaos, a monstrous embodiment of the Abyss's insatiable hunger for destruction.  Two heads, each a font of corruption, embody the duality of his vile nature: one whispers insidious lies, tempting the weak to embrace the darkness, while the other roars with primal fury, reveling in carnage and despair.  His form is a grotesque mockery of life, a twisted amalgamation of reptilian savagery and demonic power.  Tentacles replace hands, dripping with the venom of chaos, while his twin necks support heads that mirror the fractured nature of his soul. He is the antithesis of all Bahamut stands for: justice, order, and compassion.  Where Bahamut offers protection and guidance, Demogorgon sows discord and ruin.  Where Bahamut inspires hope, Demogorgon revels in despair.  He is a predator of souls, a corrupter of the innocent, and a destroyer of worlds.  He commands legions of demons, each a vile reflection of his depravity, and his influence spreads like a plague across the planes. To face Demogorgon is to confront the ultimate darkness, the purest form of evil.  Yet, even in the face of such horror, we, the followers of Bahamut, will not falter.  We will stand against him, armed with faith and righteousness, and we will fight to protect the innocent from his insidious grasp.  For even in the deepest shadows, the light of justice can prevail.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Leemooggoogoon",
+    "fact": "The archpriest called out 'Leemooggoogoon,' but the entity that emerged is Demogorgon; the reason for the mismatch is unexplained.",
+    "source_quote": "Leemooggoogoon!",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Ploop's betrayal",
+    "fact": "Ploop betrayed his daughter, but the nature of their relationship and the motive for betrayal are not specified.",
+    "source_quote": "Ploop has betrayed his daughter, not the escapees, and attacks her along with his allies.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Hemeth's promise",
+    "fact": "Hemeth promised weapons to the Archpriest of the Deep Father, but the weapons' nature and delivery status are unspecified.",
+    "source_quote": "I promised weapons to the Archpriest of the Deep Father, and she said that my sacrifice would be weapon enough.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Grygum's internal conflict",
+    "fact": "Grygum wonders whether it would be cheating to let one of the escapees die, but his ultimate moral stance on this is unresolved.",
+    "source_quote": "It would be cheating to let one of us die. Would he cheat?",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "The Kuo-Toan factions",
+    "fact": "The Kuo-Toans of the Sea Mother and the Deep Father are engaged in genocidal warfare, but the origin of their schism is unexplained.",
+    "source_quote": "The other Kuo-Toans, the followers of the Sea Mother and the followers of the Deep Father, are engaged in a genocidal battle to eliminate the other.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "The underwater enemy",
+    "fact": "An unseen enemy kills the fishing Kuo-Toans, but its identity and origin are unspecified.",
+    "source_quote": "It appears that the fish people are trying to fight some underwater enemy.",
+    "quote_verified": true
+  }
+]

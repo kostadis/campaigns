@@ -1,0 +1,863 @@
+[
+  {
+    "type": "npc",
+    "subject": "Janussi, Keeper of the Tome",
+    "fact": "Janussi, Keeper of the Tome, was killed after eating dinner with his face intact and teeth whole; his heart was torn out, ribcage smashed, nose broken, tongue and fingertip blackened, and a chip found in his front tooth \u2014 all indicating he was alive during initial trauma and later desecrated post-mortem.",
+    "source_quote": "He had been dead before his chest was opened.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "desecration of Janussi",
+    "fact": "Janussi's body was meticulously desecrated after death \u2014 heart removed, ribcage shattered, nose broken prior to death, and black substance applied to finger and lip \u2014 suggesting a ritualistic or magical act performed with deliberate timing and calm intent.",
+    "source_quote": "He had been desecrating a corpse at his leisure, with nowhere to be.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "unknown assailant",
+    "fact": "The assailant exhibited extreme precision and calm, disabling Janussi before death (broken nose, chipped tooth) and then performing post-mortem desecration (heart removal, black substance application) \u2014 indicating familiarity with arcane practices and a desire to prevent resurrection or extract hidden knowledge.",
+    "source_quote": "The blows had been precise. Too precise, too close together, for a man fighting back.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "black substance",
+    "fact": "A mysterious black substance, darker than ink, was found on Janussi\u2019s left forefinger, lower lip, and tongue \u2014 confirmed not to be ink or any known material, and resistant to identification even by Glabbagool, an ooze that has consumed the Underdark\u2019s poisons and gloop.",
+    "source_quote": "The skill wasn't in identifying the substance. It was in knowing, with certainty, what it was not.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "chip in front tooth",
+    "fact": "A fresh, jagged chip in Janussi\u2019s front tooth was found on the floor beside his body, indicating he fell face-first before death \u2014 a trauma unrelated to the post-mortem desecration but critical to establishing the timeline of events.",
+    "source_quote": "He had fallen forward. Face-first. Chipped the tooth on the way down.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Keeper's Chamber, Candlekeep",
+    "fact": "The Keeper's Chamber was the site of Janussi\u2019s murder and desecration \u2014 bloodless spray, scattered tooth fragment, smeared ink and black substance on clothing, and signs of a struggle or interruption during writing \u2014 all pointing to an attack occurring during or shortly after evening activities.",
+    "source_quote": "Janussi had been taking notes when this happened. Writing hand, fresh stains.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Candlekeep Librarians",
+    "fact": "The Candlekeep Librarians, as keepers of arcane texts, were likely targets of the attack \u2014 Janussi was actively writing in the books at time of death, suggesting the assailant sought to silence or intercept knowledge contained in his notes.",
+    "source_quote": "Wasn't the blue ink \u2014 the ink they used in the books? It was.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "origin of the black substance",
+    "fact": "The black substance on Janussi\u2019s body resists identification even by Glabbagool \u2014 implying it is either an unknown poison, a magical residue, or a substance native to a realm beyond the Underdark \u2014 and its presence on the lip and finger suggests it was ingested or applied as part of a ritual or curse.",
+    "source_quote": "When even a creature that has eaten the Underdark can't place a poison, you've learned the poison is worth being afraid of.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "timing of the nose fracture",
+    "fact": "The broken nose occurred before death, as bruising requires living tissue \u2014 placing the initial assault within the narrow window between Janussi\u2019s last meal and his death, and suggesting the attacker was present during a private moment.",
+    "source_quote": "Bruising doesn't form on a corpse; there's no living tissue to swell.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "purpose of the finger-to-lip gesture",
+    "fact": "The pattern of black substance on finger and lip mirrors the habitual gesture of a reader wetting their fingertip to turn pages \u2014 implying the victim was reading or writing when attacked, and the assailant may have used this gesture to apply the poison as part of a cursed text or sentient ink.",
+    "source_quote": "Turning pages, wetting the fingertip the way readers do without thinking, a hundred times an hour, never once considering that the page might be the thing reading them.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum was found dead in his study, his nose broken, tooth chipped, tongue and lip blackened with ink poisoning, and his heart removed postmortem. He had been reading a poisoned book, smudging his fingers and licking the ink, indicating he was a meticulous reader to the end.",
+    "source_quote": "He had been reading a book, smudging his fingers on the ink, and licking the smudges off his lip.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz conducted the forensic investigation of Grygum\u2019s body and room, identifying patterns of poisoning, trauma, and missing components. He recognized the significance of the sapphire pouches and the implication of a targeted spell requiring a single sapphire.",
+    "source_quote": "a little bit of this, a little bit of that",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir assisted in the investigation with instinctual deductions, questioning the nature of injuries and magical possibilities, and noted the inconsistency of a robbery that left behind immense wealth.",
+    "source_quote": "In other words, score what they left them.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin observed and verbalized key physical evidence: the darts missed the body, the chain links were broken, and the tooth chip was recent \u2014 helping establish sequence and intent.",
+    "source_quote": "those darts never miss their mark, and the man bore no such marks.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Tadric",
+    "fact": "Tadric guarded the scene and reacted with suspicion when asked to shake the candle of the toppled statue, implying he knew something about its significance or had been involved in its placement.",
+    "source_quote": "Tadric, who'd been hovering and guarding the scene, gave him a look.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "The Keeper\u2019s Order",
+    "fact": "Grygum was a member of a secretive order that preserved arcane knowledge, evidenced by his library, spell pouches, and the sacred statue of the candle-holding elder. His death suggests an internal or targeted breach.",
+    "source_quote": "I have catalogued a great many sacred spaces in my time, and there is a particular grief in an empty setting where something belonged.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Grygum's murder",
+    "fact": "Grygum was assaulted before death \u2014 his nose broken, likely in a struggle \u2014 then poisoned by reading a magically tainted book, and finally had his heart removed after death. The killer entered without forcing the safe, suggesting knowledge of the combination or access.",
+    "source_quote": "Somewhere between dinner and the moment his heart was carved out, someone had struck this man in the face hard enough to break the bone.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Grygum\u2019s Study",
+    "fact": "The study contained a locked safe with untouched riches, scattered spell components, a toppled statue, a damaged armchair with dart holes, an ebony pipe with cherry tobacco, and a silver pedestal. The room was staged to appear like a robbery but revealed a precise, non-greedy target.",
+    "source_quote": "Still inside the safe were four sealed pouches, each with its sapphire \u2014 and beside them a figurine of a raven, a potion of supreme healing...",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "The Candle Statue",
+    "fact": "A three-foot marble statue of a hooded bearded elder holding a candle aloft, toppled near the tea table. When shaken, it may have concealed something \u2014 Tadric\u2019s reaction suggests it was not merely decorative.",
+    "source_quote": "Shake the candle,\" Thorin said. Tadric, who'd been hovering and guarding the scene, gave him a look.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "The Ebony Pipe",
+    "fact": "An intricately carved ebony pipe filled with cherry tobacco, likely used to mask the scent of poison in the room, indicating premeditation and knowledge of the method of murder.",
+    "source_quote": "tobacco smoke would hide the smell of poison. Of course it would.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "The Silver Pedestal",
+    "fact": "A polished silver pedestal by the desk, possibly used to display a sacred or magical item now missing \u2014 its presence suggests ritual significance in Grygum\u2019s practice.",
+    "source_quote": "A silver pedestal by the desk, an ebony pipe finely carved, cherry tobacco.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "The Dart-Struck Armchair",
+    "fact": "An armchair with three circular punctures and horsehair stuffing scattered, two holes punched clean through the back. The darts were not aimed at Grygum \u2014 their target was the chair, indicating rage or ritual intent unrelated to the victim.",
+    "source_quote": "darts of pure force... somebody had aimed three bolts of force at a chair.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "The Broken Lead Chain Links",
+    "fact": "Two broken lead links found beneath the neck impression \u2014 once part of a locket or necklace that had been forcibly torn from Grygum\u2019s person. The wear on the links indicated long-term possession.",
+    "source_quote": "The impression of a chain on the back and sides, and beneath it two broken lead links.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "The Missing Sapphire",
+    "fact": "One sapphire was missing from the safe\u2019s five pouches, and one parchment naming a sapphire-dependent spell was gone \u2014 suggesting the killer sought to complete a single, specific spell requiring that component.",
+    "source_quote": "one sapphire was missing. One parchment. 'Somebody is trying to build a sapphire spell,' he said, 'a spell that requires a sapphire.'",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "The Poisoned Book",
+    "fact": "A book enchanted with a slow-acting poison that seeped into ink, causing death through ingestion via licking fingers. It was not a creature, but a weaponized object designed to kill through ritualistic reading.",
+    "source_quote": "the black climbing through him while he read on, suspecting nothing.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "The Missing Locket",
+    "fact": "The locket or necklace torn from Grygum\u2019s neck is unaccounted for \u2014 its contents, symbolism, or magical properties may be the true target of the murder, not the sapphire.",
+    "source_quote": "Whatever it was, he'd carried it a long time.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "The Dart Attack on the Chair",
+    "fact": "Three force darts struck the armchair \u2014 not the man. The reason remains unknown: was it a ritual, a warning, or an attempt to destroy something hidden in the chair?",
+    "source_quote": "Why would you loose three darts of force at a chair?",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "The Candle Statue\u2019s Secret",
+    "fact": "The toppled statue of the candle-holding elder may conceal something \u2014 its shaking was met with suspicion. It may hold the key to the killer\u2019s identity, the spell\u2019s origin, or the locket\u2019s destination.",
+    "source_quote": "Shake the candle,\" Thorin said. Tadric... gave him a look.",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "The Evening of Grygum\u2019s Death",
+    "fact": "The timeline of Grygum\u2019s death can be reconstructed: dinner, assault (broken nose), reading the poisoned book (poisoning onset), heart removal (postmortem), and the killer\u2019s departure. The sequence spans hours, not minutes.",
+    "source_quote": "Somewhere between dinner and the moment his heart was carved out...",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "The Identity of the Killer",
+    "fact": "The killer had access to the safe, knew of the sapphire spell, carried no greed, and used ritualistic methods \u2014 likely someone from within the Keeper\u2019s Order, or an acolyte seeking forbidden knowledge.",
+    "source_quote": "This was a man who needed exactly one thing.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Janussi",
+    "fact": "Janussi was struck in the face, returned to his desk, wrote notes in blue ink, and was then killed. His nose was broken, his heart removed, and one sapphire and a locket taken from his neck. The gold was left behind.",
+    "source_quote": "He'd been struck in the face, returned here, and written. Then he'd died.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum found the idea of buying another adventure as a product placement humorous and insisted the mystery required purchasing the referenced book.",
+    "source_quote": "Oh, the mystery, you have to go buy the other adventure.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin theorized that a rival had given Janussi a bitter gift, evidenced by the gift tag written in a cramped, resentful hand, and that the black residue on Janussi's mouth was unrelated to blue ink.",
+    "source_quote": "Okay, so that supports my theory. Some sort of rival gave him a gift, but it was sort of like a bitter thing.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "The Garden Shadow",
+    "fact": "The Garden Shadow (or possibly Brother Tharusk) held the belief that a room reveals its truth most clearly through what is missing rather than what remains.",
+    "source_quote": "Count what should be present before you count what is.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "writing sequence",
+    "fact": "Janussi first wrote jokes in blue ink in *The Golden Ass*, then shifted to recording spell research in *The Discoveries*, with the joke annotations having dried ink before the spell notes were added.",
+    "source_quote": "Jokes first. The ink on those had dried. Then he'd flopped over into the spell research.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "book disappearance",
+    "fact": "*The Golden Ass* was removed from the desk after Janussi annotated it \u2014 the only object missing from the room, despite evidence of its prior presence.",
+    "source_quote": "The comedy book had walked out of the room.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "The Discoveries",
+    "fact": "*The Discoveries* was a spellbook containing fresh blue ink annotations of obscure spells and their potential castings, the final written work under Janussi\u2019s hand.",
+    "source_quote": "The spell research was the final thing under his hand.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "The Golden Ass",
+    "fact": "*The Golden Ass* was a comedic text annotated by Janussi with jokes he found funny, written in the same blue ink as his spell notes, but with dried ink on the joke passages.",
+    "source_quote": "Janussi had been writing down jokes he found funny \u2014 the man had a sense of humor he'd evidently kept private.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "gift tag",
+    "fact": "A gift tag in a cramped, resentful hand was found in the wastebasket, addressed to Janussi: 'To Janussi, read it and weep, you old snob, a proper Dead Winter gift, your loving rival.'",
+    "source_quote": "*To Janussi, read it and weep, you old snob, a proper Dead Winter gift, your loving rival.*",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "black residue",
+    "fact": "Black residue was found on Janussi\u2019s fingers and mouth, definitively not blue ink, and likely from poison or another substance deliberately concealed.",
+    "source_quote": "Black. Definitively not the blue ink \u2014 Grygum had already settled that, checked it twice and certain.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "tobacco smoke",
+    "fact": "Janussi habitually filled his chamber with tobacco smoke to medicate his failing lungs, and this smoke was used to mask the smell of poison administered to him.",
+    "source_quote": "You don't fill a room with smoke to kill a man \u2014 you fill a room with smoke to keep him from smelling what's already there.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "missing book",
+    "fact": "The disappearance of *The Golden Ass* is the central absence \u2014 the only item removed from the room despite clear evidence of its prior presence and annotation.",
+    "source_quote": "A room tells you most by what it is missing.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "identity of the rival",
+    "fact": "The gift tag suggests a bitter rival gave Janussi a poisoned gift, but the rival's identity and motive remain unknown.",
+    "source_quote": "Some sort of rival gave him a gift, but it was sort of like a bitter thing.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "poison source",
+    "fact": "The black residue indicates poison was used, but its origin, delivery method, and the identity of the poisoner are unresolved.",
+    "source_quote": "The one thing that tobacco smoke would do is hide the smell of poison.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "writer of the blue ink",
+    "fact": "It is confirmed that Janussi wrote both the jokes and spell notes in blue ink, but the abrupt transition between registers and the timing of his death remain unexplained.",
+    "source_quote": "The same hand, the same fresh ink, two registers entirely.",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "dawn discovery",
+    "fact": "The body of Janussi was found at dawn, after he had been killed and his heart removed.",
+    "source_quote": "The Great Reader A'lai Aivenmore had knocked it over in shock when he found the body at dawn.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Janussi's desk",
+    "fact": "Janussi's desk was the central locus of activity \u2014 holding *The Discoveries*, *The Golden Ass*, blue ink, and the gift tag \u2014 and the only place where physical evidence of his final hours remained.",
+    "source_quote": "The desk again. We came back to it.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "statue",
+    "fact": "A statue of marble, three feet tall, had fallen over \u2014 not awakened by magic, but knocked down accidentally by the discoverer of the body.",
+    "source_quote": "The statue had simply fallen, it turned out.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "A'lai Aivenmore",
+    "fact": "A'lai Aivenmore discovered Janussi\u2019s body at dawn and knocked over the statue in shock.",
+    "source_quote": "The Great Reader A'lai Aivenmore had knocked it over in shock when he found the body at dawn.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "death sequence",
+    "fact": "Janussi was struck, returned to his desk, wrote jokes, then spell notes, was poisoned (masked by smoke), and died \u2014 his heart removed and valuables taken after death.",
+    "source_quote": "Someone had struck him, broken his nose, waited or returned, killed him, rolled him over, taken his heart and one sapphire and a locket from his neck \u2014 and left the gold.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "intent of the gift",
+    "fact": "The 'Dead Winter gift' was likely a trap or poison delivery mechanism, but its intended function and the rival\u2019s full plan remain unknown.",
+    "source_quote": "a proper Dead Winter gift, your loving rival.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "wastebasket",
+    "fact": "The wastebasket contained the gift tag, indicating the rival\u2019s note was discarded after delivery \u2014 possibly by Janussi or the killer.",
+    "source_quote": "A gift tag surfaced from the wastebasket as we were leaving \u2014 almost behind the desk, in a cramped, sour hand.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is deeply suspicious of Candlekeep's scholarly culture, which he sees as hypocritical and grudge-obsessed, contrasting it with the honest violence of the Underdark. He recognizes Daral Yashenti as a calculated enemy with a long-standing grudge against Janussi, and views this as a vector of danger.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum approaches problems pragmatically, focusing on tangible evidence and systemic gaps. He prioritizes identifying what is missing from the Hightower Library over political rivalries, and is already planning to interrogate the housekeeper to establish a baseline of normalcy.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz has a sharp instinct for connecting disparate clues \u2014 he immediately recognized the significance of the locket and the Hightower Library keys, and was the first to link the deletion of content to a possible intrusion using one of the keys.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Fembris",
+    "fact": "Fembris is a reluctant but persistent source of information, offering key details about Daral Yashenti\u2019s rivalry with Janussi, the missing locket, and the two Hightower Library keys \u2014 one held by Janussi, the other by Kalan the gate warden. He speaks in hesitant, meandering phrases but consistently reveals critical plot points.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Daral Yashenti",
+    "fact": "Daral Yashenti is a long-standing rival of Janussi, having harbored a bitter, years-long grudge. He publicly displayed disdain for the sell-swords, making him the prime suspect in their eyes. His hostility and access to the library\u2019s secrets position him as a central antagonist.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Kalan",
+    "fact": "Kalan is the gate warden who holds the second key to the Hightower Library. His possession of the key makes him a critical figure in the mystery, as the missing key from Janussi\u2019s neck suggests a breach that may have involved him or someone who stole from him.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Janussi",
+    "fact": "Janussi was a scholar who held one of the two keys to the Hightower Library and wore a locket that is now missing. His death and the disappearance of both the locket and his key indicate he was targeted, and his rival Daral Yashenti is the most likely perpetrator.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Candlekeep Scholars",
+    "fact": "The scholars of Candlekeep maintain grudges with obsessive, almost draconian patience, treating intellectual rivalries as sacred vendettas. Thorin despises this culture as dishonest and corrosive, contrasting it with the transparent violence of the Underdark.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Janussi's murder",
+    "fact": "Janussi was killed under suspicious circumstances, with his locket and the Hightower Library key he held both missing. The deletion of content from a restricted book suggests a deliberate attempt to erase evidence, implicating someone with access to the library\u2019s security system.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "deletion of library content",
+    "fact": "Certain passages in a restricted book were erased \u2014 an act that could only be performed by someone with access to the Hightower Library\u2019s secure systems. The theft of Janussi\u2019s key and the locket strongly suggests the deletion was intentional and tied to the murder.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Hightower Library key (Janussi's)",
+    "fact": "One of two keys to the Hightower Library, previously worn by Janussi, is now missing. Its disappearance, alongside the locket, indicates a targeted theft and possible unauthorized access to restricted materials.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Hightower Library key (Kalan's)",
+    "fact": "The second key to the Hightower Library is held by Kalan, the gate warden. Its existence creates a binary access system \u2014 if one key is stolen, the other may be used to bypass security, or it may be the only remaining legitimate means of entry.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "locket",
+    "fact": "A locket that once belonged to Janussi is missing. Its removal from his neck suggests a personal, possibly symbolic act \u2014 perhaps to conceal something hidden within it, or to mark his death as more than mere murder.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "the cat",
+    "fact": "A cat, whose involvement is described as a 'long story,' provided information to the party during their interrogation of Fembris. Its role remains cryptic but confirmed as a source of unexpected insight.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "missing book",
+    "fact": "A book that was once in the room is now gone. It is suspected to have contained encrypted or altered content \u2014 possibly a cipher or replacement code \u2014 and may be the key to understanding what was deleted from the library records.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "cipher in the book",
+    "fact": "There is speculation that the missing book contains a cipher \u2014 specifically a replacement cipher \u2014 designed to conceal information. The book may have been used to encode or decode sensitive material, and its absence is critical to solving the mystery.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Hightower Library",
+    "fact": "The Hightower Library is a restricted section of Candlekeep with dual-key security. Access requires both keys \u2014 one held by Janussi (now missing), the other by Kalan. Unauthorized access likely led to the deletion of content and the murder.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Candlekeep",
+    "fact": "Candlekeep is a revered archive of knowledge, but its scholarly culture is deeply poisoned by long-held grudges and hidden rivalries. Thorin sees it as a place where violence is masked as intellect \u2014 making it more dangerous than the Underdark.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "murder chamber",
+    "fact": "The murder chamber is where Janussi was killed. The air in the hall outside is described as 'better \u2014 not good, but better,' indicating the lingering tension and horror of the crime scene.",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The events described occur during a single investigative session, beginning with the discovery of Janussi\u2019s body and culminating in the planning to interview Hollypocket, the housekeeper. No calendar date is given, but the temporal flow is continuous and urgent.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Hollypocket",
+    "fact": "Hollypocket is the housekeeper who will be questioned next to determine what items are missing or out of place in the library. She is the party\u2019s next critical source for establishing objective baseline knowledge \u2014 the only truth they can stand on.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Hollypocket",
+    "fact": "Hollypocket is the elderly gnome caretaker of Janussi's apartment, who offered tea and seats to the investigators, and provided key testimony about the victim's final days and the tensions among the scholars.",
+    "source_quote": "I do hate gossip, but if it's necessary for the investigation\u2026",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Kalan Strongbranch",
+    "fact": "Kalan Strongbranch was seen by the apartment caretaker on the steps with a face like thunder, nearly knocking over the morning tea tray shortly before Janussi's death.",
+    "source_quote": "He had a face like thunder, nearly knocked the tray out of my hands.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Teles Ahvoste",
+    "fact": "Teles Ahvoste shouted *hypocrite* at Janussi during a meeting around the ninth bell, after which she stormed out, despite claiming she wasn't listening.",
+    "source_quote": "I did hear Teles shout, *hypocrite*, at poor Janussi before he stormed out.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daral Yashenti",
+    "fact": "Daral Yashenti, nursing a hangover, verbally attacked Janussi twice \u2014 calling him unfit to be candle keeper and a 'glorified book peddler' \u2014 and later returned drunk at half past ten, leading to a loud argument followed by Janussi fleeing down the stairs.",
+    "source_quote": "You're not fit to be the candle keep's keeper... nothing but a glorified book peddler... I'd never seen him run away so fast.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Sylvira Savikas",
+    "fact": "Sylvira Savikas, the Curator of the Infernal Fortress and a tiefling, was seen raging at Janussi, accusing him of being a traitor, and later seen carrying a lantern at 2\u20133 a.m. despite having darkvision \u2014 a contradiction that suggests the light was used to conceal her identity or actions.",
+    "source_quote": "I swear I could see that devil woman's \u2014 Sylvira Savikas's \u2014 face glowing red in the candlelight... She was carrying a lantern. She's a tiefling, and she can see in the dark without any light at all.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Curator of the Infernal Fortress",
+    "fact": "The Curator of the Infernal Fortress is Sylvira Savikas\u2019s official job function \u2014 a scholar who studies devils \u2014 not a pejorative label, clarifying that 'devil woman' was a misinterpretation of her role.",
+    "source_quote": "Sylvira is the Curator of the Infernal Fortress. A woman who studies devils. Not an epithet. A job function.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Janussi's final morning meetings",
+    "fact": "Janussi spent his last morning in one-on-one meetings with the Great Readers, each ending in explosive shouting matches \u2014 at least half of them, according to Hollypocket \u2014 indicating escalating hostility among colleagues.",
+    "source_quote": "Janussi had spent his last morning in a series of one-on-one meetings with the Great Readers, clearing business before Deadwinter Day.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "midnight thud",
+    "fact": "A thud was heard upstairs around midnight, after which Janussi was no longer alive \u2014 the caretaker had assumed he was alive until that sound, as she never slept before eleven in case the Master needed something.",
+    "source_quote": "I thought I heard a thud upstairs... I never slept before eleven... that was how she knew he had been alive until the thud.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Janussi's locket",
+    "fact": "Janussi carried a locket always, never removing it \u2014 a detail noted by the caretaker and underlined twice as potentially significant to the investigation.",
+    "source_quote": "He carried it all. I underlined that one twice.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "the lantern",
+    "fact": "Sylvira Savikas was seen carrying a lantern at 2\u20133 a.m. despite being a tiefling with innate darkvision \u2014 the light was unnecessary for her vision, suggesting it was used to illuminate something else, or to mask her presence.",
+    "source_quote": "She was carrying a lantern. She's a tiefling, and she can see in the dark without any light at all.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Sylvira's midnight presence",
+    "fact": "Sylvira Savikas was seen glowing red in candlelight at 2\u20133 a.m. \u2014 an impossible sighting given her darkvision \u2014 raising the question of why she was in the tower, why she carried a lantern, and whether she was the last person to see Janussi alive.",
+    "source_quote": "I swear I could see that devil woman's face glowing red in the candlelight... She was carrying a lantern.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Daral's double confrontation",
+    "fact": "Daral Yashenti confronted Janussi twice in one day \u2014 once verbally during a meeting, and again in a drunken argument at the door \u2014 followed by Janussi fleeing from him for the first time ever, making him a prime suspect.",
+    "source_quote": "I'd never seen him run away so fast.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "the nature of the thud",
+    "fact": "The thud heard at midnight may not have been accidental \u2014 the caretaker's realization that the sound was distinct, and the timing after Sylvira\u2019s sighting, suggests it may have been a physical attack.",
+    "source_quote": "The three of us closer to her did what we could to settle her... I wrote it down slowly. That one mattered.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Daz's indifference",
+    "fact": "Daz paid no attention to the grieving caretaker while she wept, only suddenly listening when the lantern detail was revealed \u2014 indicating his focus is on evidence, not emotion, and possibly hiding prior knowledge.",
+    "source_quote": "Daz, I noticed, was paying the weeping woman no attention whatsoever... Hmm,\" said Daz, suddenly listening after all.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a detached investigator who ignored emotional testimony until a critical forensic detail \u2014 the lantern \u2014 was mentioned, suggesting he is methodical, possibly biased toward physical evidence, and may have prior knowledge of Sylvira's habits.",
+    "source_quote": "Daz, I noticed, was paying the weeping woman no attention whatsoever... Hmm,\" said Daz, suddenly listening after all.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is a thoughtful investigator who listens closely, asks clarifying questions, and recognizes implications \u2014 such as the significance of the lantern \u2014 and accepts tea with unusual enthusiasm, possibly to disarm or gain rapport.",
+    "source_quote": "That explains the candle,\" said Zalthir... \"Yes, I love\u2026 Absolutely!",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is a reserved investigator who declines tea, speaks minimally, and ends conversations with blunt phrases like 'Nothing more,' which unintentionally trigger new revelations.",
+    "source_quote": "Nothing more,\" Thorin said... \"No thank you, I'm good.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Keeper's tower",
+    "fact": "The Keeper's tower is the central location of the investigation, housing Janussi's apartment below, the bell tower, and the quarters of the Great Readers \u2014 a place where scholarly tension, midnight movements, and violent confrontation converge.",
+    "source_quote": "The bell tower rang... I thought I heard a thud upstairs...",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Janussi's apartment",
+    "fact": "Janussi's apartment, located below the Keeper's tower, is the site of the caretaker\u2019s observations \u2014 where tea was offered, arguments were overheard, and the final moments of Janussi\u2019s life were quietly witnessed.",
+    "source_quote": "Hollypocket's apartment sat below the Keeper's tower \u2014 modest, but with room to breathe...",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "Deadwinter Day",
+    "fact": "Deadwinter Day is the scheduled event before which Janussi was clearing business \u2014 a date of administrative importance that may have been a source of pressure or conflict among the Great Readers.",
+    "source_quote": "clearing business before Deadwinter Day",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "midnight",
+    "fact": "The thud occurred at midnight \u2014 the time when the caretaker was awake but the Master was not to be disturbed \u2014 making it the last known moment Janussi was alive.",
+    "source_quote": "I thought I heard a thud upstairs... I never slept before eleven...",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "2\u20133 a.m.",
+    "fact": "Sylvira Savikas was seen glowing in candlelight at 2\u20133 a.m. \u2014 a time when the tower should have been silent, and her presence with a lantern defied her natural abilities.",
+    "source_quote": "I swear I could see... around 2 or 3 in the morning...",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Queenie",
+    "fact": "Queenie is a five-year-old, sleet-grey housecat who refuses to be disturbed, observes human behavior with precision, and communicates through cryptic declarations about tickles, beauty sleep, and the habits of two-leggers. She is a witness to key events and has settled into Janussi's armchair for naps. She claims to have seen Sylvira Savikas blast the armchamber with force light, Daral carry away a book that induces stillness, and a figure wearing Sylvira's shape but not her scent.",
+    "source_quote": "I did not order any more ticklers! Any good ticklers are the only good\u2026 and good ticklers are\u2026 tickles are only the good reason for disturbing my beauty sleep.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is rarely surprised, keeps a private tally of rare moments of astonishment, and is fascinated by the idea of talking to cats. He makes intuitive leaps that sometimes misfire but arrive at correct conclusions \u2014 such as equating a book with a TV. He is engaged in the investigation and prompts Queenie for details, especially about the candle and the shapeshifter.",
+    "source_quote": "Oh, it's a TV!",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is methodical, notices when descriptions are doing unacknowledged work, and presses witnesses with precise questions. He connects the dots between force bolts, the missing book, and the shapeshifter. He confirms the timeline: the victim was alive when Daral left. He identifies the shapeshifter situation and links it to the candle.",
+    "source_quote": "That explains the candle.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is cost-conscious, tracks expenses on his account, and is relieved when others absorb costs. He is pragmatic, noticing the locket\u2019s absence and prompting the narrator to ask Queenie about it. He holds the key to the Hightower Library\u2019s other lock.",
+    "source_quote": "Daz, why don't you ask the cat anyway? It's gonna be a weird description from a cat, but\u2026",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Janussi",
+    "fact": "Janussi was an on-again, off-again lover of Sylvira Savikas, carried a locket at all times, and held one of the two keys to the Hightower Library. He was killed after being awakened from a nap by Sylvira\u2019s force light attack. His body was found with the locket missing.",
+    "source_quote": "She had settled into Janussi's armchair for a nap, she said, 'only to be rudely awakened some thirty minutes later by our Sylvira Savikas, this is in the morning, blasting the armchamber with a lance of unerring force light.'",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Sylvira Savikas",
+    "fact": "Sylvira Savikas is a tiefling with a volatile relationship to Janussi. She attacked him with force light during a lover\u2019s quarrel. A figure wearing her shape but not her scent was seen later \u2014 suggesting she was impersonated or replaced by a shapeshifter.",
+    "source_quote": "But she didn't smell like the demon lady, though.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daral",
+    "fact": "Daral is associated with a book \u2014 'The Golden Ass' \u2014 that he carried away from the scene. This book, not a device, induces stillness and uninterest. He shouted excessively, prompting Queenie to retreat. He left the scene while the victim was still alive.",
+    "source_quote": "when I later saw him run downstairs with a hypnotic block.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Kalan",
+    "fact": "Kalan is the gate warden and holds the second key to the Hightower Library. His possession of the key makes him a potential suspect or player in the theft of the book and the deletion of its contents.",
+    "source_quote": "The other key, I learned, rested with Kalan, the gate warden.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Fheminor",
+    "fact": "Fheminor is referred to by Queenie as 'the short-legged one.' He was among the first evening guests to arrive, noted for his gait. His relevance is observational, not causal.",
+    "source_quote": "first Fheminor, *the short-legged one*,",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Fembris",
+    "fact": "Fembris supplies the missing piece: Janussi held one of the two keys to the Hightower Library. His contribution enables the narrator to connect the book\u2019s deletion to unauthorized access.",
+    "source_quote": "Janussi held one of the two keys to the Hightower Library.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Clerics of Bahamut",
+    "fact": "The clerics of Bahamut operate on tighter margins than their theatrics suggest \u2014 a remark made by Queenie\u2019s observer to explain Grygum\u2019s inability to afford a potion. This reflects a cultural observation about their order\u2019s austerity.",
+    "source_quote": "clerics of Bahamut, it turns out, run on a tighter margin than their theatrics suggest.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Stonespeaker Crystal Users",
+    "fact": "Users of the Stonespeaker crystal have the ability to communicate with beasts. The narrator is one such user, and the crystal \u2014 once a curiosity \u2014 is now a witness to events and a tool of investigation.",
+    "source_quote": "the stone speaker crystal grants me.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "attack on Janussi",
+    "fact": "Janussi was violently awakened from his afternoon nap by Sylvira Savikas, who blasted the armchamber with a lance of unerring force light. This occurred approximately thirty minutes before his death and initiated the chain of events leading to his murder.",
+    "source_quote": "She had settled into Janussi's armchair for a nap, she said, 'only to be rudely awakened some thirty minutes later by our Sylvira Savikas, this is in the morning, blasting the armchamber with a lance of unerring force light.'",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "theft of 'The Golden Ass'",
+    "fact": "The book 'The Golden Ass' was removed from the scene by Daral. It is not a magical device but a mundane object capable of inducing stillness and disinterest \u2014 effectively a 'hypnotic block.' Its removal coincides with the deletion of content from a restricted book in the Hightower Library.",
+    "source_quote": "The Golden Ass, the missing volume, walking out of the room under Daral's arm.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "shapeshifter impersonation",
+    "fact": "A figure wearing Sylvira Savikas\u2019s shape but lacking her scent was seen descending the steps after her attack. This indicates a shapeshifter was active, impersonating her to mislead observers and conceal true intentions.",
+    "source_quote": "But she didn't smell like the demon lady, though.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "deletion from Hightower Library book",
+    "fact": "Content was deleted from a book in the Hightower Library that no one should have accessed. This was made possible by unauthorized entry using Janussi\u2019s key, likely by the shapeshifter or Daral, who then used 'The Golden Ass' to induce stillness during the act.",
+    "source_quote": "Someone snuck in. That might explain why that stuff got deleted off that book that no one should have touched.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "The Golden Ass",
+    "fact": "A physical book, dull and unremarkable, capable of rendering a person motionless and uninterested \u2014 referred to by Queenie as a 'hypnotic block.' It was carried away by Daral and is linked to the deletion of content from the restricted Hightower Library book.",
+    "source_quote": "Every time they open that block,\" Queenie said, \"they just sit there and don't tickle!",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Stonespeaker Crystal",
+    "fact": "A magical artifact that enables communication with beasts. The narrator carries it as a curiosity that has become a critical investigative tool. It is the reason the narrator can speak with Queenie.",
+    "source_quote": "the stone speaker crystal grants me.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Locket",
+    "fact": "A personal item carried by Janussi at all times, never removed. Its absence after his death suggests it was taken by the killer \u2014 possibly as a token or to conceal identity. Queenie cannot describe its appearance, only its habitual presence.",
+    "source_quote": "The locket itself is intimate. He carried it all the time. He never took it off.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Hightower Library Keys",
+    "fact": "Two keys exist: one held by Janussi, the other by Kalan, the gate warden. Access to the library\u2019s restricted materials requires both. Janussi\u2019s key was used to access the book that was later deleted, suggesting internal betrayal.",
+    "source_quote": "Janussi held one of the two keys to the Hightower Library. The other key, I learned, rested with Kalan, the gate warden.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Janussi's Armchair",
+    "fact": "The location where Janussi was napping when attacked. Queenie observed the entire event from this spot. It is the epicenter of the initial violence and the origin of the timeline.",
+    "source_quote": "She had settled into Janussi's armchair for a nap...",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Hightower Library",
+    "fact": "A restricted repository where a book was altered or had content deleted. Access requires two keys \u2014 one held by Janussi, the other by Kalan. The theft of 'The Golden Ass' is linked to unauthorized access here.",
+    "source_quote": "Someone snuck in. That might explain why that stuff got deleted off that book that no one should have touched.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Corridor",
+    "fact": "The location where Queenie retreated after Daral began shouting. She later observed him running downstairs with the book \u2014 'hypnotic block' \u2014 from this vantage point.",
+    "source_quote": "she retreated to the corridor \u2014 'when I later saw him run downstairs with a hypnotic block.'",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "the shapeshifter\u2019s identity",
+    "fact": "A figure wearing Sylvira Savikas\u2019s form but lacking her scent is active. The true identity of this shapeshifter remains unknown. The candle mentioned by Zalthir may be a clue to their method or origin.",
+    "source_quote": "That explains the candle.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "the candle\u2019s significance",
+    "fact": "Zalthir connects the candle to the shapeshifter, suggesting it may be a magical tool, a focus, or a decoy. Its exact role in the deception is unconfirmed, but its mention by Zalthir implies it was present during the impersonation.",
+    "source_quote": "That explains the candle.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "the locket\u2019s destination",
+    "fact": "The locket taken from Janussi\u2019s neck has not been recovered. Its contents or symbolic meaning are unknown. It may hold evidence, a key, or a magical component tied to the killer\u2019s motive.",
+    "source_quote": "I don't know what it was.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "the deletion\u2019s purpose",
+    "fact": "Why was content deleted from the Hightower Library book? Was it to erase evidence of the keys\u2019 use, the shapeshifter\u2019s identity, or the book\u2019s true nature? The connection to 'The Golden Ass' suggests the deletion was enabled by the book\u2019s stillness-inducing property.",
+    "source_quote": "That might explain why that stuff got deleted off that book that no one should have touched.",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "afternoon nap",
+    "fact": "Janussi was awakened from his afternoon nap approximately thirty minutes before his death. This establishes the critical timeline for the attack.",
+    "source_quote": "some thirty minutes later by our Sylvira Savikas, this is in the morning",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "evening arrival",
+    "fact": "Queenie observed guests arriving in order after supper \u2014 Fheminor first, Daral later \u2014 placing the events in the evening, shortly before the discovery of the body.",
+    "source_quote": "She woke from her afternoon nap around eight, after supper, and watched the evening's guests arrive in order \u2014 first Fheminor... and later Daral...",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "the torn demon lady",
+    "fact": "A figure resembling Sylvira Savikas \u2014 referred to by Queenie as 'the torn demon lady' \u2014 was seen descending the steps. But she did not smell like Sylvira, indicating a shapeshifter impersonation. The term 'torn' may refer to a physical or magical distortion.",
+    "source_quote": "coming down the steps \u2014 Sylvira's shape \u2014 'But she didn't smell like the demon lady, though.'",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "the two-leggers\u2019 hygiene",
+    "fact": "Queenie\u2019s final assessment \u2014 that two-leggers rarely lick themselves \u2014 is an insult that doubles as a narrative clue. It may imply the killer is not human, or that hygiene is a marker of identity in this world.",
+    "source_quote": "It's clear that you hardly ever lick yourselves at all. I've met cleaner dogs in my time.",
+    "quote_verified": true
+  }
+]

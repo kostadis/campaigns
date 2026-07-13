@@ -1,0 +1,135 @@
+[
+  {
+    "type": "npc",
+    "subject": "Alkrist",
+    "fact": "Alkrist has named the woman as the mastermind behind Janussi's death and claims she had no knowledge that others knew of her involvement.",
+    "source_quote": "She didn't know we knew.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "The Woman (Unnamed)",
+    "fact": "The woman is relieved, not sad, about Janussi's death; she has decided she has already won and is strategically relaxed, using apparent outrage to deflect suspicion.",
+    "source_quote": "She was not sad. She was relieved. Her hands were too relaxed.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Kalan Strongbranch",
+    "fact": "Kalan has been reinstated to his former position and is now in charge of the investigation; he promised to ensure the adventurers' voices would be heard in his report.",
+    "source_quote": "He promised our voices would be heard.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is skeptical of official narratives and pushes for calling out deception; he noticed the red herring in the safe\u2019s contents.",
+    "source_quote": "Thorin asked whether there was a red herring in there. There was, in fact \u2014 one of the coins had a herring stamped on it, and it was red.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz has a theory about interrogation tactics, believing in withholding critical details to provoke deceptive responses; he recognized the duality in the woman\u2019s motives.",
+    "source_quote": "She was delighted to have us wrapped up and out of everything, no more heads poking anywhere. Win and win.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir used his Glabbagool arm to steal the potion of flying from the table during the chaos; he acted while everyone else was distracted.",
+    "source_quote": "I had my Glabbagool arm swipe the potion of flying off the table. Everyone was frantic... nobody watched my hand.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "The Avowed",
+    "fact": "The Avowed are a governing body that holds authority over trials, naming ceremonies, and leadership succession; they are currently managing the aftermath of Janussi\u2019s death.",
+    "source_quote": "That will be done after the naming, by the new head of the Avowed.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Opening of Alkrist's Safe",
+    "fact": "The safe was opened under guard; its contents included a potion of flying, a healing potion, a heap of gold coins, and one red herring-stamped coin \u2014 no incriminating evidence was found.",
+    "source_quote": "Inside: a potion of flying, a healing potion, a heap of gold coins, and nothing at all that pointed anywhere.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Potion of Flying",
+    "fact": "The potion of flying was stolen by Zalthir via his Glabbagool arm during the distraction of the safe\u2019s opening; it is now in his possession.",
+    "source_quote": "I had my Glabbagool arm swipe the potion of flying off the table.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Red Herring Coin",
+    "fact": "One gold coin from the safe bore a stamped image of a red herring \u2014 a deliberate red herring planted to mislead investigators.",
+    "source_quote": "one of the coins had a herring stamped on it, and it was red.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Sapphire",
+    "fact": "A sapphire was sought via Locate Object spell to determine if the woman was carrying one; the spell detected nothing, suggesting she did not have it.",
+    "source_quote": "I wanted to know if she had one on her \u2014 that would have been interesting. The spell went out and found nothing.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Glabbagool (Arm)",
+    "fact": "Glabbagool is a sentient, semi-independent arm attached to Zalthir; it has a preference for the skill of flight and acted autonomously to steal the potion.",
+    "source_quote": "Under the skin of my arm, Glabbagool liked the flying skill. He thought it was a good skill.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Who Killed Janussi?",
+    "fact": "The true killer remains unknown; while the woman is suspected of orchestrating the crime, it is unclear whether she performed the polymorph or if an accomplice did.",
+    "source_quote": "We don't know that part. She agreed. We did not.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Accomplices in Janussi's Death",
+    "fact": "It is suspected that accomplices exist, but their identities are unknown; the group has chosen to acknowledge their existence without naming them.",
+    "source_quote": "Yeah \u2014 we know there are accomplices,\" I said.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "The Box She Built",
+    "fact": "The woman has successfully isolated the adventurers, neutralized their influence, and secured her position by making them believe they are protected \u2014 while in fact, they are contained.",
+    "source_quote": "She had built a box and we had walked into it.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Deneir's Sanctum",
+    "fact": "Deneir's Sanctum is the destination to which the adventurers are being escorted; it is implied to be a place of confinement or observation.",
+    "source_quote": "I will now ask Kalan Strongbranch to escort you to Deneir's Sanctum.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Prisons",
+    "fact": "Alkrist is being held securely in the prisons; the safe was opened under guard, but Alkrist is no longer accessible for questioning.",
+    "source_quote": "Alkrist held secure in the prisons.",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "After the Naming",
+    "fact": "Formal trials and judgments regarding Janussi\u2019s death will occur after the naming ceremony, when the new head of the Avowed assumes power.",
+    "source_quote": "That will be done after the naming, by the new head of the Avowed.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "The Society of Criminal Elements",
+    "fact": "A hidden network of criminal elements exists within the society; the woman claims concern for the adventurers' safety, but her fear is genuine and strategic.",
+    "source_quote": "There are other criminal elements within the society, and I would hate for something terrible to happen to you.",
+    "quote_verified": false
+  }
+]

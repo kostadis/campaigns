@@ -1,0 +1,158 @@
+[
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a traveler with an odd collection of companions, seeking information about factions and the Red Dragon's role in the Deepking's domain. He is cautious about entanglement and wary of being perceived as a player in the game.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is a sneaky observer who gathers intelligence by peeking into restricted areas. He is instrumental in uncovering hidden truths about the Darklake Brewery and the Keepers of the Flame.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Halfling",
+    "fact": "The Halfling is an outsider who survives by appearing non-threatening. He knows much about the Deepking\u2019s madness, the Keepers of the Flame, and the Gray Ghosts, but refuses to be drawn into the game. He speaks in riddles and avoids commitment.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Drow",
+    "fact": "The Drow is from Menzoberranzan and views Duergar violence as crude and styleless. He contrasts his people\u2019s artful treachery with the Duergar\u2019s brutal efficiency, expressing disdain for their lack of finesse.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is a wary adventurer who is tempted to ally with the Stone Guards but is deterred by the Halfling\u2019s warnings. He struggles to distinguish whether he is helping the city or the faction, and seeks clarity before committing.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Errde Blackskull",
+    "fact": "Errde Blackskull is captain of the Stone Guards on the lake. She uses indirect methods to recruit outsiders to find Droki, avoiding direct confrontation with the Derro. She presents requests as friendly inquiries but maintains authority.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Keepers of the Flame",
+    "fact": "The Keepers of the Flame are a powerful faction that maintains control over the Red Dragon by providing it a hoard and pampering it. They periodically kill and replace the dragon when it becomes too powerful or asserts independence.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Gray Ghosts",
+    "fact": "The Gray Ghosts are a mysterious and dangerous faction in conflict with the Keepers of the Flame and the Crown. They are associated with invisibility, deception, and shadowy operations, and are considered a threat by the Halfling.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Crown",
+    "fact": "The Crown is a ruling authority in opposition to the Keepers of the Flame and the Gray Ghosts. It is implied to be a centralized power structure that seeks control over the Deepking\u2019s domain, possibly through legal or military means.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Stone Guards",
+    "fact": "The Stone Guards are the official law enforcement of the Overlake Hold, aligned with Stone Giants. They operate with austere discipline and use outsiders to avoid provoking violent factions like the Derro.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Duergar",
+    "fact": "The Duergar are a dominant, brutal race in the Underdark, known for their efficiency in violence and lack of artistry. They control the Darklake Brewery and the Overlake Hold, enforcing strict access and maintaining order through fear.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Derro",
+    "fact": "The Derro are a subterranean, mad race living in the West Cleft District. They are feared by the Stone Guards for their violent unpredictability and are the target of a covert search led by Errde Blackskull.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Red Dragon",
+    "fact": "The Red Dragon is a long-standing, controlled entity in the Deepking\u2019s domain. It is kept warm and pampered by the Keepers of the Flame to fuel the furnaces. It is periodically killed and replaced when it grows too powerful or resents its subservient role.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Darklake Brewery",
+    "fact": "The Darklake Brewery is a restricted facility closed to non-Duergar. It is a place of hushed whispers and dour atmosphere, where secrets about the Keepers of the Flame and the Red Dragon are exchanged.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Overlake Hold",
+    "fact": "The Overlake Hold is the austere, stone-built guard house of the Stone Guards. It is cold, grey, and devoid of color, reflecting the oppressive, underground nature of Duergar authority.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "West Cleft District",
+    "fact": "The West Cleft District is a dangerous area inhabited by the Derro. It is the suspected hideout of Droki and is considered too volatile for direct Stone Guard intervention.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Red Dragon's periodic replacement",
+    "fact": "The Keepers of the Flame regularly kill and replace the Red Dragon when it becomes too powerful or attempts to assert dominance. This is a necessary ritual to maintain control over the furnaces and prevent rebellion.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Search for Droki",
+    "fact": "Errde Blackskull has initiated a covert search for Droki, a Duergar living among the Derro. The Stone Guards avoid direct confrontation, instead recruiting outsiders to avoid provoking the Derro into open war.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Deepking's madness",
+    "fact": "The Deepking\u2019s madness has rendered laws arbitrary and disconnected from reality. This has destabilized the region, leading to factional warfare and the collapse of traditional order in Gracklstugh.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Which faction to join?",
+    "fact": "Daz and Thorin are undecided about whether to join any faction. They are wary of being drawn into the game, but the need for purpose and survival forces them to consider alliances. The Halfling\u2019s warnings complicate their decision.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Dragon egg procurement",
+    "fact": "The possibility of purchasing and hatching dragon eggs is known, suggesting an alternative to the Keepers\u2019 cycle of killing and replacing dragons. This raises the question of whether the system can be subverted or outsourced.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "The Keepers' vulnerability",
+    "fact": "The Keepers of the Flame are in a 'pickle' with the Gray Ghosts and the Crown. Their control over the Red Dragon is not absolute, and their methods may be unsustainable. Their long-term survival is uncertain.",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The events described occur during a single session of exploration and conversation in the Underdark, centered on the Darklake Brewery and Overlake Hold. No specific calendar date is given.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Stone weapons",
+    "fact": "The Stone Guards wield crude, heavy stone weapons, symbolizing their connection to the Stone Giants and their rejection of refined or magical tools. These weapons are feared for their blunt, unyielding force.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Darklake Brewery Stout",
+    "fact": "The Stout is a thick, dark beverage served in the Overlake Hold. It is consumed by Thorin and others as a symbol of temporary camaraderie, but its flavor is overshadowed by the tension of political maneuvering.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Pastries and warm liquid",
+    "fact": "Served during the meeting in the Overlake Hold, these items are acts of ritual hospitality meant to soften the authority of the Stone Guards. Their simplicity reflects the region\u2019s austerity.",
+    "quote_verified": false
+  }
+]

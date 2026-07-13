@@ -1,0 +1,247 @@
+[
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The events begin on the 3rd day of the 2nd Tenday of Taraskh, 1492.",
+    "source_quote": "3rd day of the 2nd tenday of Taraskh, 1492",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The next day of the events is the 4th day of the 2nd Tenday of Taraskh.",
+    "source_quote": "4th day of the 2nd Tenday of Taraskh",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Drow outpost elevation",
+    "fact": "The Drow outpost is 100 feet above the cavern floor.",
+    "source_quote": "the Drow outpost was 100\u2019 in the sky",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "spider statue height",
+    "fact": "The spider statue atop the zurkhwood pedestal is 10 feet high.",
+    "source_quote": "a 10-foot-high sculpted spider at its head",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "silver candlestick value",
+    "fact": "The pair of heavy silver candlesticks flanking the Lolth altar are worth 25 gp each.",
+    "source_quote": "a pair of heavy silver candlesticks worth 25 gp each",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "small jet eyes value",
+    "fact": "The four small jet eyes of the spider statue are worth five gp each.",
+    "source_quote": "four small ones worth five gp each",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "large jet eyes value",
+    "fact": "The four larger jet eyes of the spider statue are worth ten gp each.",
+    "source_quote": "four larger ones worth ten gp each",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "quaggoth attendants count",
+    "fact": "Two quaggoth attendants remain by the lift.",
+    "source_quote": "Two quaggoth attendants remain by the lift",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "drow soldiers count",
+    "fact": "Six Drow soldiers are present in the kitchen on the 4th day.",
+    "source_quote": "six Drow soldiers are present",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "drow overseers count",
+    "fact": "The Drow who took Ront and Derendil is Beremil; another Drow points to Zalthir, Buppido, Jimjar, and Eldeth; another points to Daz, Sarith, and Stool; and a Drow points to Shuushar, Topsy, Turvy, and Gyrgum \u2014 indicating at least four distinct Drow overseers.",
+    "source_quote": "The voice speaks in undercommon... Another Drow points to Zalthir, Buppido, Jimjar, and Eldeth. Another Drow points at Daz, Sarith, and Stool. A Drow appears and points at Shuushar, Topsy, Turvy, and Gyrgum.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "winch operation frequency",
+    "fact": "The basket is lowered and raised multiple times during the day, as prisoners repeatedly use it.",
+    "source_quote": "Wanna get in on some juicy action on how many times they\u2019ll do this?",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "zurkhwood table count",
+    "fact": "The mess hall has four circular tables carved from zurkhwood.",
+    "source_quote": "four circular tables carved from zurkhwood",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "zurkhwood chair count",
+    "fact": "Each zurkhwood table is surrounded by five chairs.",
+    "source_quote": "each surrounded by five chairs",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "cooking performance sequence",
+    "fact": "Gyrgum performs his cooking show on the 3rd day and again on the 4th day.",
+    "source_quote": "As the lunch progresses... The next day, Gyrgum goes to the kitchen again.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "escape plan sequence",
+    "fact": "The escape plan involves Jorlan leaving the prison door open, then reaching the armory, then using the waterfall or spiderwebs, then choosing a destination.",
+    "source_quote": "I will leave the door to the prison open, create a distraction. The path to the armory will be unguarded. Grab the weapons and flee. Use the waterfall to slide down, or jump into the spiderwebs and then jump into the pools of water. To Gracklstugh... to Blingdenstone... go to Darklake first...",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The session occurs on the 5th day of the 2nd Tenday of Taraskh 1493 DR.",
+    "source_quote": "On the 5th day of the 2nd Tenday of Taraskh 1493",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "elapsed time",
+    "fact": "An hour passes between two events in the session.",
+    "source_quote": "An hour later",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "chasme count",
+    "fact": "Four chasme demons are present in the cavern above the prisoners' tower.",
+    "source_quote": "four chasme and two vrock",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "travel to Sloobludop",
+    "fact": "Sloobludop is approximately eight days away via the Darklake.",
+    "source_quote": "the town of Sloopdopblop is just eight days away",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Velkynvelve elevation",
+    "fact": "Velkynvelve sits 100 feet above the cavern floor.",
+    "source_quote": "Drow outpost was 100' in the sky",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "silver candlestick value",
+    "fact": "The silver candlesticks flanking the Lolth altar are worth 25 gp each.",
+    "source_quote": "a pair of heavy silver candlesticks worth 25 gp each",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "rest duration",
+    "fact": "A long rest precedes assigned tasks.",
+    "source_quote": "After a long rest, before you go on your assigned tasks.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "grey ooze count",
+    "fact": "A grey ooze is present in the pool. That\u2019s how the waste gets processed.",
+    "source_quote": "Sethir said there is a grey ooze in the pool. That\u2019s how the waste gets processed.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "loot storage",
+    "fact": "The characters' stuff is in the chest in Ilvara\u2019s room.",
+    "source_quote": "I know where our stuff is. It\u2019s in the chest in Ilvara\u2019s room.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "prisoner awakening",
+    "fact": "At least one or more of the prisoners wakes in a cold sweat from nightmares after every rest.",
+    "source_quote": "At least one or more of the prisoners wakes in a cold sweat from these nightmares after every rest",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "underdark environment",
+    "fact": "The Underdark has insufficient resources or space for anyone.",
+    "source_quote": "This is the Underdark. There is not enough resources or space for anyone.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "drow leadership",
+    "fact": "The Drow leader probably keeps all the loot for herself.",
+    "source_quote": "The Drow leader probably keeps all the loot for herself.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "drow behavior",
+    "fact": "Other Drow would taunt if they had the characters' stuff.",
+    "source_quote": "And if any other Drow had our stuff, they would taunt us.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "trust dynamics",
+    "fact": "People tend to distrust outsiders and view them as a resource to be used.",
+    "source_quote": "People tend to distrust outsiders and view them as a resource to be used.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "deal acceptance",
+    "fact": "The dwarf's deal is accepted.",
+    "source_quote": "Your deal is accepted.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "sleep disturbance",
+    "fact": "Everyone\u2019s sleep in the slave pen is troubled and fitful, filled with strange dreams and disturbing images.",
+    "source_quote": "Everyone\u2019s sleep in the slave pen is troubled and fitful, filled with strange dreams and disturbing images.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "tunnel maze",
+    "fact": "Characters wander lost through endless mazes of tunnels.",
+    "source_quote": "characters wander lost through endless mazes of tunnels.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "oily tentacles",
+    "fact": "Oily tentacles slide to brush up against them.",
+    "source_quote": "Oily tentacles slide to brush up against them",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "buzzing and howling",
+    "fact": "A great buzzing and howling rises in the distance.",
+    "source_quote": "a great buzzing and howling rises in the distance.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "suppurating wounds",
+    "fact": "Suppurating wounds burst open in clouds of spores or crawling masses of maggots or insects.",
+    "source_quote": "Suppurating wounds burst open in clouds of spores or crawling masses of maggots or insects.",
+    "quote_verified": true
+  }
+]

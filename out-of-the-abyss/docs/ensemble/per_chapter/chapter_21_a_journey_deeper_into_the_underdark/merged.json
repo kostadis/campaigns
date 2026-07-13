@@ -1,0 +1,1399 @@
+[
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "This event occurs during the session following the party\u2019s descent into the Underdark, immediately after the exploration of the cavernous mesa and prior to any known external time markers.",
+    "source_quote": "Chapter 18.3 A Journey Deeper into the Underdark",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "This scene occurs during a session in the Underdark, following the party\u2019s descent into the cavern system.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "cleric declaration",
+    "fact": "Grygum declares, \"I am a cleric of Bahamut, and I am drawn to this egg.\"",
+    "source_quote": "Grygum coughs, \"I am a cleric of Bahamut, and I am drawn to this egg.\"",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "companions follow",
+    "fact": "Thorin, Daz, and Grygum follow him from a distance.",
+    "source_quote": "As he walks, he notices that Thorin, Daz, and Grygum follow him from a distance.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "darkness envelopment",
+    "fact": "Zalthir has enveloped the entire top tier in his magical darkness.",
+    "source_quote": "Zalthir has enveloped the entire top tier in his magical darkness.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "derro grappled",
+    "fact": "Plinki has been grappled.",
+    "source_quote": "Plinki shouts, \"Let me go!\" ... Plinki has been grappled.",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "derro motion to others",
+    "fact": "Plinki motions to several other Derro to come to the egg.",
+    "source_quote": "Plinki motions to several other Derro to come to the egg.",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "derro's revelation",
+    "fact": "Plinki shouts, \"Come here!\" and declares, \"A cleric of Bahamut to see my creation! Excellent! Then it has worked!\"",
+    "source_quote": "Plinki shouts, \"Come here!\" ... \"A cleric of Bahamut to see my creation! Excellent! Then it has worked!\"",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "derro's reverence",
+    "fact": "The Derro gently patted and stroked the obelisk's cool surface with an almost reverent touch.",
+    "source_quote": "gently patting and stroking its cool surface with an almost reverent touch",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "derro's ritual claim",
+    "fact": "Plinki says, \"The Grey Ghosts stole it from the Keepers of the Flame. And then I brought it here. I have been using this magical artifact to infuse it with the spirit of a demon in honor of Demogorgon.\"",
+    "source_quote": "\"The Grey Ghosts stole it from the Keepers of the Flame. And then I brought it here. I have been using this magical artifact to infuse it with the spirit of a demon in honor of Demogorgon.\"",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "derro's squeal",
+    "fact": "The Derro reacted with a sharp squeal of glee at the obelisk's light pulse.",
+    "source_quote": "The derro reacted with a sharp squeal of glee at this display.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "derro surround",
+    "fact": "The other Derro have surrounded Grygum.",
+    "source_quote": "he also notices that Plinki has gotten closer and that the other Derro have surrounded him.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "derro writing",
+    "fact": "The Derro produced a small notebook and began to diligently write something within its pages.",
+    "source_quote": "she produced a small notebook and began to diligently write something within its pages",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "dragon omelet remark",
+    "fact": "Thorin shouts, \"What would a dragon omelet taste like? And would this one have two yolks?\"",
+    "source_quote": "Thorin shouts, \"What would a dragon omelet taste like? And would this one have two yolks?\"",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "dragon threat",
+    "fact": "Grygum shouts, \"The Drow hates dragons and will destroy the egg if you do not back down!\"",
+    "source_quote": "Grygum shouts, \"The Drow hates dragons and will destroy the egg if you do not back down!\"",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum asked, 'Tell me about this egg?'",
+    "source_quote": "Tell me about this egg?",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum circled the mesa, found a ramp in the back, and started to climb.",
+    "source_quote": "Grygum circles the mesa, finds a ramp in the back, and starts to climb.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum coughed, 'I am a cleric of Bahamut, and I am drawn to this egg.'",
+    "source_quote": "Grygum coughs, 'I am a cleric of Bahamut, and I am drawn to this egg.'",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum counted the Derro and said, 'six.'",
+    "source_quote": "Grygum counts them, 'six.'",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum felt the egg\u2019s evil.",
+    "source_quote": "Grygum looks at the egg, and can feel its evil.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum heard the thuds of Zalthir\u2019s fists on the crazed Derro.",
+    "source_quote": "Grygum hears the thuds of Zalthir\u2019s fists on the crazed Derro.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum noticed that Plinki had gotten closer and that the other Derro had surrounded him.",
+    "source_quote": "As Grygum reflects on this, he also notices that Plinki has gotten closer and that the other Derro have surrounded him.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum noticed that Thorin, Daz, and Grygum followed him from a distance.",
+    "source_quote": "As he walks, he notices that Thorin, Daz, and Grygum follow him from a distance.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum pointed to the egg.",
+    "source_quote": "He points to the egg.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum said, 'They are my companions. They are not as enlightened as I.'",
+    "source_quote": "They are my companions. They are not as enlightened as I.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum shouted, 'The Drow hates dragons and will destroy the egg if you do not back down!'",
+    "source_quote": "Grygum shouts, 'The Drow hates dragons and will destroy the egg if you do not back down!'",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum smiled as Plinki was grappled.",
+    "source_quote": "Plinki has been grappled. And since he is grappled, Grygum will show him the true power of Bahamut.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum uttered words of cruel power and raked his hand through the air before Plinki.",
+    "source_quote": "He utters words of cruel power, rakes his hand through the air before Plinki.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum was not surprised when Plinki declared, 'The beating heart of a cleric of Bahamut will seal the ritual!'",
+    "source_quote": "So when Plinki declares, 'The beating heart of a cleric of Bahamut will seal the ritual!' He\u2019s not surprised.",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Magic followed, forming a great claw that glimmered in the air for the blink of an eye.",
+    "source_quote": "Magic follows, forming a great claw that glimmers in the air for the blink of an eye.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "The necromancy sought to rend armor, unstitch flesh, crush bone\u2014to do whatever it must to destroy your enemy.",
+    "source_quote": "This necromancy seeks to rend armor, unstitch flesh, crush bone\u2014to do whatever it must to destroy your enemy.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "grygum feels the egg's evil",
+    "fact": "Grygum can feel the egg's evil.",
+    "source_quote": "Grygum looks at the egg, and can feel its evil.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "grygum's belief",
+    "fact": "Grygum believes that Dragons have freedom of choice, and thus there is no good or evil dragon because of its scales, but goodness and evil flow from the choices of dragons.",
+    "source_quote": "Grygum believes that Dragons have freedom of choice. And thus, for Grygum, there is no good or evil dragon because of its scales, but goodness and evil flow from the choices of dragons.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "grygum's explanation",
+    "fact": "Grygum says, \"They are my companions. They are not as enlightened as I.\"",
+    "source_quote": "\"They are my companions. They are not as enlightened as I.\"",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "grygum's realization",
+    "fact": "Grygum realizes that Plinki is confused about his sub-sect of the Cult of Bahamut.",
+    "source_quote": "Grygum realizes that the poor Derro is confused about his sub-sect of the Cult of Bahamut.",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "grygum's smile",
+    "fact": "Grygum smiles as Plinki is grappled.",
+    "source_quote": "Plinki shouts, \"Let me go!\" Grygum smiles.",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Magical darkness envelopment",
+    "fact": "Zalthir casts a spell that envelops the entire top tier of the mesa in magical darkness, obscuring vision and enabling him to grapple and assault Plinki and other derro.",
+    "source_quote": "Zalthir has enveloped the entire top tier in his magical darkness.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Necromantic attack by Grygum",
+    "fact": "After being grappled and surrounded by derro, Grygum utters words of cruel power and summons a spectral claw that seeks to rend armor, unstitch flesh, and crush bone \u2014 a necromantic strike aimed at destroying Plinki.",
+    "source_quote": "He utters words of cruel power, rakes his hand through the air before Plinki. Magic follows, forming a great claw ... to destroy your enemy.",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Necromantic Claw Activation",
+    "fact": "Grygum, while grappled and surrounded, unleashes a necromantic claw spell aimed at destroying Plinki, invoking cruel power in the name of Bahamut\u2019s true will.",
+    "source_quote": "He utters words of cruel power, rakes his hand through the air before Plinki. Magic follows, forming a great claw that glimmers in the air for the blink of an eye. This necromancy seeks to rend armor, unstitch flesh, crush bone\u2014to do whatever it must to destroy your enemy.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Obelisk Light Pulse",
+    "fact": "The obelisk emits a brief flash of light in response to Plinki\u2019s touch, causing the faerzress to flare, which she interprets as divine confirmation.",
+    "source_quote": "Suddenly, the obelisk emitted a brief flash of light, a pulse that caused the ambient glow of the faerzress within the cavern to momentarily flare in response.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "obelisk light pulse",
+    "fact": "The obelisk emitted a brief flash of light, causing the ambient faerzress glow to momentarily flare.",
+    "source_quote": "Suddenly, the obelisk emitted a brief flash of light, a pulse that caused the ambient glow of the faerzress within the cavern to momentarily flare in response",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Obelisk pulse",
+    "fact": "The jet-black obelisk emits a flash of light that causes the faerzress to flare in response, which Plinki interprets as divine approval. This event triggers her joy and prompts her to write in her notebook.",
+    "source_quote": "Suddenly, the obelisk emitted a brief flash of light, a pulse that caused the ambient glow of the faerzress within the cavern to momentarily flare in response.",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Plinki",
+    "fact": "Plinki became excited and said, 'A cleric of Bahamut to see my creation! Excellent! Then it has worked!'",
+    "source_quote": "But something about his demeanor made her excited, 'A cleric of Bahamut to see my creation! Excellent! Then it has worked!'",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Plinki",
+    "fact": "Plinki ignored their presence and motioned to several other Derro to come to the egg.",
+    "source_quote": "Plinki is ignoring their presence. Instead, she motions to several other Derro to come to the egg.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Plinki",
+    "fact": "Plinki looked at Grygum, confused.",
+    "source_quote": "Plinki looks at him, confused.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Plinki",
+    "fact": "Plinki pointed to Grygum\u2019s friends and asked, 'Who are they?'",
+    "source_quote": "Once standing in front of the egg, Plinki points to Grygum\u2019s friends and asks, 'Who are they?'",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Plinki",
+    "fact": "Plinki said, 'The Grey Ghosts stole it from the Keepers of the Flame. And then I brought it here. I have been using this magical artifact to infuse it with the spirit of a demon in honor of Demogorgon.'",
+    "source_quote": "The Grey Ghosts stole it from the Keepers of the Flame. And then I brought it here. I have been using this magical artifact to infuse it with the spirit of a demon in honor of Demogorgon.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Plinki",
+    "fact": "Plinki shouted, 'Come here!'",
+    "source_quote": "She shouts, 'Come here!'",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Plinki",
+    "fact": "Plinki shouted, 'Let me go!'",
+    "source_quote": "Plinki shouts, 'Let me go!'",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "plinki's corruption sensing",
+    "fact": "From afar, he can sense the egg\u2019s corruption.",
+    "source_quote": "And even from afar, he can sense it\u2019s corruption.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "plinki's question",
+    "fact": "Plinki asks, \"Who are they?\" referring to Grygum's companions.",
+    "source_quote": "Plinki points to Grygum\u2019s friends and asks, \"Who are they?\"",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Ritual activation attempt",
+    "fact": "Plinki attempts to complete a ritual to seal the demon-infused egg using the heart of a cleric of Bahamut. The ritual is interrupted by Zalthir\u2019s darkness and physical assault, Grygum\u2019s necromantic counterattack, and Thorin\u2019s mockery.",
+    "source_quote": "The beating heart of a cleric of Bahamut will seal the ritual!",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "ritual declaration",
+    "fact": "Plinki declares, \"The beating heart of a cleric of Bahamut will seal the ritual!\"",
+    "source_quote": "Plinki declares, \"The beating heart of a cleric of Bahamut will seal the ritual!\"",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Ritual Sealing Attempt",
+    "fact": "Plinki intends to seal her demon-infusion ritual by sacrificing the heart of a cleric of Bahamut, believing it will complete the binding to Demogorgon.",
+    "source_quote": "The beating heart of a cleric of Bahamut will seal the ritual!",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "the explorer",
+    "fact": "The explorer exclaimed, 'The obelisk,' as he observed a towering structure standing sentinel on the second tier.",
+    "source_quote": "Shifting his gaze to the adjacent topmost tier, another exclamation followed, this time a statement of observation: 'The obelisk.' Standing sentinel on this second tier was a towering structure, a fifty-foot-tall obelisk crafted from a smooth, jet-black metal.",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "the explorer",
+    "fact": "The explorer noted a series of naturally formed shelves that tiered the cavern walls, creating ledges and recesses along its perimeter.",
+    "source_quote": "He noted a series of naturally formed shelves that tiered the cavern walls, creating ledges and recesses along its perimeter.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "the explorer",
+    "fact": "The explorer noted that crude but functional ramps snaked their way up the sides of the mesa, connecting its various levels.",
+    "source_quote": "Adding to this subterranean spectacle were several shafts of pure white light, piercing down from unseen openings far above, casting ethereal beams across the vast expanse. These ramps led upwards to the height of the mesa's two topmost tiers, which, remarkably, were linked by a sturdy bridge that spanned the distance between them.",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "the explorer",
+    "fact": "The explorer noted that dominating the center of the cavern was a substantial rocky mesa, a raised plateau that formed a distinct feature within the immense space.",
+    "source_quote": "Dominating the center of the cavern was a substantial rocky mesa, a raised plateau that formed a distinct feature within the immense space.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "the explorer",
+    "fact": "The explorer noticed that the obelisk had noticeable imperfections marring its otherwise flawless surface, appearing as though small fragments had been chipped away over time.",
+    "source_quote": "Upon closer inspection, he could discern a few noticeable imperfections marring its otherwise flawless surface, appearing as though small fragments had been somehow chipped away over time.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "the explorer",
+    "fact": "The explorer sensed the egg\u2019s corruption from afar.",
+    "source_quote": "And even from afar, he can sense it\u2019s corruption.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "the explorer",
+    "fact": "The explorer thought, 'The egg,' as his eyes locked onto a large, distinctly red egg that rested atop one of the mesa's highest tiers.",
+    "source_quote": "A thought escaped his lips, almost a reverent whisper: 'The egg.' His eyes had locked onto a large, distinctly red egg that rested atop one of the mesa's highest tiers.",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "the female derro",
+    "fact": "The female derro bent down and snatched an object from the ground near the obelisk.",
+    "source_quote": "Immediately following the flash, she bent down and snatched an object from the ground near the obelisk.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "the female derro",
+    "fact": "The female derro produced a small notebook and began to diligently write something within its pages, her brow furrowed in concentration.",
+    "source_quote": "With the object now in hand, she produced a small notebook and began to diligently write something within its pages, her brow furrowed in concentration.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "the female derro",
+    "fact": "The female derro reacted with a sharp squeal of glee at the obelisk's flash.",
+    "source_quote": "The derro reacted with a sharp squeal of glee at this display.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "the female derro",
+    "fact": "The female derro stood close to the black metal, gently patting and stroking its cool surface with an almost reverent touch.",
+    "source_quote": "Her actions were curious; she stood close to the black metal, gently patting and stroking its cool surface with an almost reverent touch.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "the obelisk",
+    "fact": "The obelisk emitted a brief flash of light, a pulse that caused the ambient glow of the faerzress within the cavern to momentarily flare in response.",
+    "source_quote": "Suddenly, the obelisk emitted a brief flash of light, a pulse that caused the ambient glow of the faerzress within the cavern to momentarily flare in response, intensifying the eerie illumination.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin shouted, 'What would a dragon omelet taste like? And would this one have two yolks?'",
+    "source_quote": "Thorin shouts, 'What would a dragon omelet taste like? And would this one have two yolks?'",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir enveloped the entire top tier in his magical darkness.",
+    "source_quote": "Zalthir has enveloped the entire top tier in his magical darkness.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Grey Ghosts",
+    "fact": "The Grey Ghosts are a hostile faction that stole the red egg from the Keepers of the Flame, initiating the chain of events leading to Plinki\u2019s ritual. Their identity and motives remain obscure beyond their act of theft.",
+    "source_quote": "The Grey Ghosts stole it from the Keepers of the Flame.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Keepers of the Flame",
+    "fact": "The Keepers of the Flame are a group who originally safeguarded the red egg before it was stolen by the Grey Ghosts. Their nature and beliefs are not elaborated, but they are implied to be guardians of sacred or holy artifacts.",
+    "source_quote": "The Grey Ghosts stole it from the Keepers of the Flame.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "The Grey Ghosts",
+    "fact": "The Grey Ghosts are a group responsible for stealing the egg from the Keepers of the Flame before Plinki acquired it.",
+    "source_quote": "The Grey Ghosts stole it from the Keepers of the Flame.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "The Keepers of the Flame",
+    "fact": "The Keepers of the Flame were the original guardians of the egg before it was stolen by the Grey Ghosts.",
+    "source_quote": "The Grey Ghosts stole it from the Keepers of the Flame.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "cavern",
+    "fact": "The cavern is illuminated by an eerie, pervasive glow emanating from the mystical faerzress and the soft luminescence of bioluminescent fungi clinging to its walls and floor.",
+    "source_quote": "a breathtaking space illuminated by an eerie, pervasive glow. This light emanated from the mystical faerzress that permeated the Underdark, mixed with the soft luminescence of various bioluminescent fungi clinging to the cavern walls and floor",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "cavern extent",
+    "fact": "The cavern extends for what seemed like hundreds of feet into the subterranean darkness.",
+    "source_quote": "extending for what seemed like hundreds of feet into the subterranean darkness",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Cavern of the Mesa",
+    "fact": "A vast, glowing subterranean cavern illuminated by faerzress and bioluminescent fungi. It contains a central rocky mesa with two top tiers linked by a sturdy bridge, accessed by crude ramps. The red egg and obelisk are located on its upper levels, making it the site of a dangerous ritual.",
+    "source_quote": "A breathtaking space illuminated by an eerie, pervasive glow ... a substantial rocky mesa ... ramps that snaked their way up the sides of the mesa ... linked by a sturdy bridge.",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "mesa",
+    "fact": "The mesa is a substantial rocky plateau dominating the center of the cavern, with crude but functional ramps snaking up its sides to connect its two topmost tiers, linked by a sturdy bridge.",
+    "source_quote": "Dominating the center of the cavern was a substantial rocky mesa, a raised plateau that formed a distinct feature within the immense space. His attention was soon drawn to the crude but functional ramps that snaked their way up the sides of the mesa, connecting its various levels. These ramps led upwards to the height of the mesa's two topmost tiers, which, remarkably, were linked by a sturdy bridge that spanned the distance between them",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "mesa top tiers linked",
+    "fact": "The mesa's two topmost tiers are linked by a sturdy bridge that spans the distance between them.",
+    "source_quote": "These ramps led upwards to the height of the mesa's two topmost tiers, which, remarkably, were linked by a sturdy bridge that spanned the distance between them.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "The Cavern of the Mesa",
+    "fact": "A vast, glowing cavern in the Underdark, illuminated by faerzress and bioluminescent fungi, containing a central rocky mesa with ramps, tiers, an obelisk, and an egg.",
+    "source_quote": "a colossal cavern, a breathtaking space illuminated by an eerie, pervasive glow... a substantial rocky mesa... ramps... obelisk... egg.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "The Top Tier of the Mesa",
+    "fact": "The uppermost platform of the mesa, where the egg and obelisk are located, now shrouded in Zalthir\u2019s magical darkness during the ritual\u2019s climax.",
+    "source_quote": "Zalthir has enveloped the entire top tier in his magical darkness.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "top tier",
+    "fact": "Zalthir has enveloped the entire top tier in his magical darkness.",
+    "source_quote": "Zalthir has enveloped the entire top tier in his magical darkness.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "tunnel width",
+    "fact": "The tunnel spans roughly eighty feet in width.",
+    "source_quote": "a significantly larger tunnel stretched before them, an impressive passage spanning roughly eighty feet in width",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Underdark tunnel",
+    "fact": "The Underdark tunnel is significantly larger, stretching eighty feet in width and extending hundreds of feet into subterranean darkness.",
+    "source_quote": "a significantly larger tunnel stretched before them, an impressive passage spanning roughly eighty feet in width and extending for what seemed like hundreds of feet into the subterranean darkness",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Demon spirit",
+    "fact": "A demon spirit has been infused into the red egg by Plinki using magical means as part of a ritual to honor Demogorgon. The spirit is the source of the egg\u2019s corruption and evil aura, though its specific form or identity is unknown.",
+    "source_quote": "I have been using this magical artifact to infuse it with the spirit of a demon in honor of Demogorgon.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "derro count",
+    "fact": "Six Derro are summoned to the egg.",
+    "source_quote": "Grygum counts them, \"six.\"",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "necromantic claw",
+    "fact": "A great claw glimmers in the air, forming through necromancy to rend armor, unstitch flesh, and crush bone.",
+    "source_quote": "He utters words of cruel power, rakes his hand through the air before Plinki. Magic follows, forming a great claw that glimmers in the air for the blink of an eye. This necromancy seeks to rend armor, unstitch flesh, crush bone\u2014to do whatever it must to destroy your enemy.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "necromantic claw",
+    "fact": "Grygum utters words of cruel power, rakes his hand through the air before Plinki, and magic forms a great claw that glimmers in the air for the blink of an eye, seeking to rend armor, unstitch flesh, and crush bone.",
+    "source_quote": "He utters words of cruel power, rakes his hand through the air before Plinki. Magic follows, forming a great claw that glimmers in the air for the blink of an eye. This necromancy seeks to rend armor, unstitch flesh, crush bone\u2014to do whatever it must to destroy your enemy.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "The Jet-Black Obelisk",
+    "fact": "The fifty-foot-tall obelisk is a magical artifact made of jet-black metal, inscribed or attuned to the faerzress, and responds to derro interaction with flashes of light.",
+    "source_quote": "The obelisk.\" \"Upon closer inspection, he could discern a few noticeable imperfections marring its otherwise flawless surface.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "The Red Egg",
+    "fact": "The red egg is a corrupted magical artifact infused with a demon\u2019s spirit by Plinki, intended as an offering to Demogorgon, and radiates palpable evil.",
+    "source_quote": "The egg.\" \"Its size and vibrant color made it a focal point... And even from afar, he can sense it\u2019s corruption.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz follows Grygum from a distance alongside Thorin and Grygum, but takes no active role in the dialogue or conflict, serving as a passive observer.",
+    "source_quote": "As he walks, he notices that Thorin, Daz, and Grygum follow him from a distance.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is one of Grygum\u2019s companions who follows him at a distance, but does not speak or act independently in this scene.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Derro (group)",
+    "fact": "Six derro surround Grygum at the egg, obeying Plinki\u2019s commands. They are part of her ritual circle, and their presence indicates organized, fanatical devotion to Demogorgon\u2019s influence through the egg.",
+    "source_quote": "Grygum counts them, 'six.'",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum believes that Dragons have freedom of choice, and that goodness and evil flow from the choices of dragons, not their scale color.",
+    "source_quote": "Unlike traditionalists who view the color of scales as the defining characteristic of Dragons, and that Dragons are fixed in their temperament, Grygum believes that Dragons have freedom of choice. And thus, for Grygum, there is no good or evil dragon because of its scales, but goodness and evil flow from the choices of dragons.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum believes that Dragons have freedom of choice, and thus there is no good or evil dragon because of its scales, but goodness and evil flow from the choices of dragons.",
+    "source_quote": "Grygum believes that Dragons have freedom of choice. And thus, for Grygum, there is no good or evil dragon because of its scales, but goodness and evil flow from the choices of dragons.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum circles the mesa, finds a ramp in the back, and starts to climb.",
+    "source_quote": "Grygum circles the mesa, finds a ramp in the back, and starts to climb.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is a cleric of Bahamut who believes dragons are defined by choice, not scale color, and thus reject the notion of inherently good or evil dragons.",
+    "source_quote": "I am a cleric of Bahamut, and I am drawn to this egg.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is a cleric of Bahamut who believes dragons are defined by choice, not scale color, and thus rejects rigid notions of good or evil dragons. He is drawn to the red egg, senses its corruption, and later uses necromantic magic to attack Plinki after being grappled.",
+    "source_quote": "I am a cleric of Bahamut, and I am drawn to this egg.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is a cleric of Bahamut who points to the egg and declares, 'I am a cleric of Bahamut, and I am drawn to this egg.'",
+    "source_quote": "Grygum coughs, 'I am a cleric of Bahamut, and I am drawn to this egg.' He points to the egg.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum shouts, 'The Drow hates dragons and will destroy the egg if you do not back down!'",
+    "source_quote": "Grygum shouts, 'The Drow hates dragons and will destroy the egg if you do not back down!'",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Plinki",
+    "fact": "Plinki asks, 'Who are they?' after pointing to Grygum\u2019s friends, and Grygum responds, 'They are my companions. They are not as enlightened as I.'",
+    "source_quote": "Once standing in front of the egg, Plinki points to Grygum\u2019s friends and asks, 'Who are they?' 'They are my companions. They are not as enlightened as I.' Grygum looks at the egg, and can feel its evil. 'Tell me about this egg?'",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Plinki",
+    "fact": "Plinki declares, 'The Grey Ghosts stole it from the Keepers of the Flame. And then I brought it here. I have been using this magical artifact to infuse it with the spirit of a demon in honor of Demogorgon.'",
+    "source_quote": "The Grey Ghosts stole it from the Keepers of the Flame. And then I brought it here. I have been using this magical artifact to infuse it with the spirit of a demon in honor of Demogorgon.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Plinki",
+    "fact": "Plinki declares, 'The beating heart of a cleric of Bahamut will seal the ritual!' and Grygum is not surprised.",
+    "source_quote": "So when Plinki declares, 'The beating heart of a cleric of Bahamut will seal the ritual!' He\u2019s not surprised.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Plinki",
+    "fact": "Plinki is a derro who believes she has completed a ritual to infuse a stolen egg with a demon\u2019s spirit in honor of Demogorgon, and mistakenly views Grygum as a fellow cultist.",
+    "source_quote": "A cleric of Bahamut to see my creation! Excellent! Then it has worked!",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Plinki",
+    "fact": "Plinki is a derro who believes she has created a powerful ritual artifact by infusing a stolen egg with a demon\u2019s spirit in honor of Demogorgon. She is delusional about Grygum\u2019s faith, thinks a cleric\u2019s heart will seal the ritual, and reacts with glee to the obelisk\u2019s magic before being grappled and attacked.",
+    "source_quote": "Come here! The beating heart of a cleric of Bahamut will seal the ritual!",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Plinki",
+    "fact": "Plinki is a female derro who gently pats and strokes the surface of the obelisk with a reverent touch, then produces a small notebook to write diligently after the obelisk emits a flash of light.",
+    "source_quote": "Near the base of this imposing obelisk stood a lone figure: a female derro. Her actions were curious; she stood close to the black metal, gently patting and stroking its cool surface with an almost reverent touch. Suddenly, the obelisk emitted a brief flash of light, a pulse that caused the ambient glow of the faerzress within the cavern to momentarily flare in response, intensifying the eerie illumination. The derro reacted with a sharp squeal of glee at this display. Immediately following the flash, she bent down and snatched an object from the ground near the obelisk. With the object now in hand, she produced a small notebook and began to diligently write something within its pages, her brow furrowed in concentration.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Plinki",
+    "fact": "Plinki motions to several other derro to come to the egg, and Grygum counts them as six.",
+    "source_quote": "Plinki is ignoring their presence. Instead, she motions to several other Derro to come to the egg. Grygum counts them, 'six.'",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Plinki",
+    "fact": "Plinki shouts, 'Come here!' after becoming excited by Grygum's identity as a cleric of Bahamut, believing her ritual has worked.",
+    "source_quote": "But something about his demeanor made her excited, 'A cleric of Bahamut to see my creation! Excellent! Then it has worked!' She shouts, 'Come here!'",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Plinki",
+    "fact": "Plinki shouts, 'Let me go!' and is grappled.",
+    "source_quote": "Grygum hears the thuds of Zalthir\u2019s fists on the crazed Derro. Plinki shouts, 'Let me go!' Grygum smiles. Plinki has been grappled.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "The Derro (group)",
+    "fact": "Six derro have surrounded Grygum at the egg, acting under Plinki\u2019s command to complete the ritual using a cleric\u2019s heart.",
+    "source_quote": "six.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin follows Grygum and makes a grotesque, humorous comment about the egg as a potential dragon omelet, showing disregard for the ritual\u2019s gravity and a flippant attitude toward the danger.",
+    "source_quote": "What would a dragon omelet taste like? And would this one have two yolks?",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin follows Grygum from a distance and later asks, 'What would a dragon omelet taste like? And would this one have two yolks?'",
+    "source_quote": "As he walks, he notices that Thorin, Daz, and Grygum follow him from a distance. ... Thorin shouts, 'What would a dragon omelet taste like? And would this one have two yolks?'",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is a companion of Grygum who mocks the situation with crude humor, asking about the egg\u2019s potential as a dragon omelet.",
+    "source_quote": "What would a dragon omelet taste like? And would this one have two yolks?",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir has enveloped the top tier of the mesa in magical darkness and is physically attacking the derro, including Plinki, whom he grapples. His actions suggest opposition to the ritual and the derro\u2019s madness.",
+    "source_quote": "Grygum hears the thuds of Zalthir\u2019s fists on the crazed Derro.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir has enveloped the top tier of the mesa in magical darkness and is physically attacking the derro, seeking to stop the ritual.",
+    "source_quote": "The Drow hates dragons and will destroy the egg if you do not back down!",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "derro's object acquisition",
+    "fact": "The Derro snatched an object from the ground near the obelisk.",
+    "source_quote": "she bent down and snatched an object from the ground near the obelisk.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "egg",
+    "fact": "The egg is a large, distinctly red object resting atop one of the mesa's highest tiers, visibly vibrant and radiating corruption.",
+    "source_quote": "His eyes had locked onto a large, distinctly red egg that rested atop one of the mesa's highest tiers. Its size and vibrant color made it a focal point within the dimly lit cavern. And even from afar, he can sense it\u2019s corruption.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "egg description",
+    "fact": "The egg is large, distinctly red, and rests atop one of the mesa's highest tiers.",
+    "source_quote": "a large, distinctly red egg that rested atop one of the mesa's highest tiers",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Obelisk",
+    "fact": "A fifty-foot-tall obelisk made of smooth, jet-black metal located on the second tier of the mesa. It emits pulses of light that react to the faerzress and is revered by Plinki, who pats it reverently. Minor imperfections suggest it has been damaged over time.",
+    "source_quote": "The obelisk. ... crafted from a smooth, jet-black metal. ... noticeable imperfections marring its otherwise flawless surface.",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "obelisk",
+    "fact": "The obelisk is a fifty-foot-tall structure crafted from smooth, jet-black metal, standing sentinel on the adjacent topmost tier, with noticeable imperfections as if small fragments had been chipped away over time.",
+    "source_quote": "Standing sentinel on this second tier was a towering structure, a fifty-foot-tall obelisk crafted from a smooth, jet-black metal. Upon closer inspection, he could discern a few noticeable imperfections marring its otherwise flawless surface, appearing as though small fragments had been somehow chipped away over time.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "obelisk height",
+    "fact": "The obelisk is a fifty-foot-tall structure crafted from a smooth, jet-black metal.",
+    "source_quote": "a towering structure, a fifty-foot-tall obelisk crafted from a smooth, jet-black metal",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Red egg",
+    "fact": "A large, vividly red egg resting atop the mesa\u2019s highest tier, stolen by the Grey Ghosts and magically corrupted with a demon\u2019s spirit. It emits a palpable sense of evil and is the central focus of Plinki\u2019s ritual. Its corruption can be sensed from afar.",
+    "source_quote": "The egg. ... its size and vibrant color made it a focal point ... he can sense it\u2019s corruption.",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Small notebook",
+    "fact": "A small notebook used by Plinki to record observations or ritual progress. She writes in it immediately after the obelisk pulses, indicating her methodical, obsessive nature.",
+    "source_quote": "She produced a small notebook and began to diligently write something within its pages.",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "The Small Notebook",
+    "fact": "A small notebook used by Plinki to record observations and ritual progress related to the obelisk and egg.",
+    "source_quote": "she produced a small notebook and began to diligently write something within its pages",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "The Sturdy Bridge",
+    "fact": "A bridge spanning the two topmost tiers of the mesa, enabling access between them and central to the ritual\u2019s spatial layout.",
+    "source_quote": "linked by a sturdy bridge that spanned the distance between them.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Grygum\u2019s misunderstood faith",
+    "fact": "Plinki\u2019s belief that Grygum is a traditional Bahamut cleric who worships lawful good dragons contradicts his actual belief in free-willed dragons beyond scale-based morality. This theological confusion may have consequences for future interactions.",
+    "source_quote": "Plinki has gotten closer ... she is confused about his sub-sect of the Cult of Bahamut.",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "True Nature of Bahamut\u2019s Clerics",
+    "fact": "Grygum\u2019s unorthodox theology\u2014dragons as beings of free moral choice\u2014clashes with Plinki\u2019s assumption that all Bahamut clerics share her cult\u2019s dogma, creating a dangerous misunderstanding.",
+    "source_quote": "Grygum believes that Dragons have freedom of choice... there is no good or evil dragon because of its scales, but goodness and evil flow from the choices of dragons.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "True nature of the egg",
+    "fact": "The egg\u2019s origin as a stolen artifact, its demonic infusion, and its connection to Demogorgon suggest a deeper plot involving cults, ancient magic, and possible resurrection or summoning. Its full purpose remains unexplained.",
+    "source_quote": "The Grey Ghosts stole it from the Keepers of the Flame. And then I brought it here. I have been using this magical artifact to infuse it with the spirit of a demon in honor of Demogorgon.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Zalthir\u2019s Motivation",
+    "fact": "Zalthir\u2019s sudden use of darkness and violence against the derro suggests he opposes the ritual, but his deeper intent\u2014protecting the egg, destroying it, or something else\u2014is unresolved.",
+    "source_quote": "Zalthir has enveloped the entire top tier in his magical darkness. Grygum hears the thuds of Zalthir\u2019s fists on the crazed Derro.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  }
+]

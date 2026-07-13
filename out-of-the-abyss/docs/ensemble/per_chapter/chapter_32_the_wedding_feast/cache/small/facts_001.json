@@ -1,0 +1,121 @@
+[
+  {
+    "type": "npc",
+    "subject": "Basidia",
+    "fact": "Basidia is a Myconid circle leader who opposes Phylo\u2019s reorganization of Myconid society, believing it will irreparably harm communal unity and that all Myconids must remain connected in a single circle to hear from everyone.",
+    "source_quote": "Basidia sighed, 'Phylo said strange things like the need to eliminate cross-functional groups and instead have teams focused on the task at hand.'",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Hepbobe",
+    "fact": "Hepbobe is a Myconid grower and ally of Phylo who believes organizational structures are irrelevant to those who perform practical labor, and that focusing on specific tasks improves productivity and quality of food production.",
+    "source_quote": "Hepbobe said, 'Those of us who have a job to do to maintain the farming supply do not think that this is meaningful one way or another.'",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Phylo",
+    "fact": "Phylo is a Myconid circle leader advocating for decentralized governance, where each group of Myconids holds internal melds and only leaders communicate across groups, claiming this structure is endorsed by the Great Seeder and leads to greater efficiency.",
+    "source_quote": "Phylo convinced some of the circle leaders that the Great Seeder told them of another way.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is a Myconid observer who sympathizes with Phylo\u2019s reforms, comparing Myconid organizational debates to clerical debates over Bahamut\u2019s prayers, and believes focused groups prevent distraction and inefficiency.",
+    "source_quote": "Grygum nodded, 'By focusing, we can deliver better mushrooms, higher quality mushrooms, and not get distracted by the concerns of the various groups.'",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is a perceptive Myconid who recognizes the deeper implications of Phylo\u2019s changes and questions the nature of Myconid identity, connection, and the potential corruption of their traditions.",
+    "source_quote": "Zalthir asked Basidia whether Hepbobe\u2019s food supply has the evil spores, and they say no.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is a Myconid who recognizes the same chaotic melody from Zuggtmoy\u2019s dream in the dancing Myconid\u2019s song, linking Phylo\u2019s movement to ancient, malevolent forces and sensing an underlying corruption.",
+    "source_quote": "Thorin does, it\u2019s the same melody that we heard when we saw Zuggtmoy in his dream. It has no rhythm, no beauty, it revels in a symphony of chaos and evil. It hurts.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Dancing Myconid",
+    "fact": "A Myconid in a state of ecstatic trance, dancing and singing a melody tied to Zuggtmoy, proclaiming Phylo\u2019s 'great plan' and the coming of the Great Seeder, while cultivating undeveloped Myconid spores in the fields.",
+    "source_quote": "'Welcome, have you come to see the all that Myconids that will be? They are all necessary for Phylo\u2019s great plan and the Greet Seeder who is coming!'",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Circle of Leaders",
+    "fact": "A faction of Myconid decision-makers who now meet in isolation from the Circle of Masters, as part of Phylo\u2019s reorganization, communicating only through targeted melds rather than collective gatherings.",
+    "source_quote": "So now we have two inner circles, the circle of leaders and the circle of masters.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Circle of Masters",
+    "fact": "A faction of Myconid specialists and producers, including growers like Hepbobe, who operate autonomously under Phylo\u2019s new structure, focused on task-specific productivity rather than communal consensus.",
+    "source_quote": "The circle of those closest to them.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Myconid Reorganization",
+    "fact": "A radical shift in Myconid societal structure, initiated by Phylo and endorsed by the Great Seeder, replacing the single communal meld with layered, decentralized internal melds between leaders and their specialized groups.",
+    "source_quote": "Phylo convinced some of the circle leaders that the Great Seeder told them of another way.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "The Great Seeder",
+    "fact": "A prophesied entity referenced by Phylo and the dancing Myconid as the source of the new organizational doctrine, potentially a corrupted or false manifestation of the Myconid ancestral spirit, possibly linked to Zuggtmoy.",
+    "source_quote": "'...the Greet Seeder who is coming!'",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "The Overbright",
+    "fact": "A mysterious destination mentioned by the dancing Myconid, where Myconids are to be sent to 'share our stories,' potentially a euphemism for a ritualistic or destructive transformation under Phylo\u2019s plan.",
+    "source_quote": "'Have you heard of Gasbide\u2019s plan to send us to the Overbright to share our stories?'",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Neverlight Grove",
+    "fact": "A cultivated, brightly lit area where Myconids live and grow, described as vibrant and cheery, but now the site of ideological conflict and the emergence of a dancing Myconid linked to Zuggtmoy\u2019s melody.",
+    "source_quote": "She enjoys the open air of the Neverlight Grove, with its bright, cheery light and vibrant colors.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Irrigation Tunnels",
+    "fact": "A network of tunnels used by Hepbobe and the Circle of Masters to cultivate and distribute food for the Myconid colony, described as a source of pride and efficiency under Phylo\u2019s new system.",
+    "source_quote": "He shows the irrigation tunnels and the various kinds of fungi that are grown, 'To continuously feed and delight the Myconids that live in this community.'",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Evil Spores",
+    "fact": "A dangerous fungal contaminant feared by Zalthir, which Basidia confirms is absent from Hepbobe\u2019s food supply, suggesting the corruption lies not in the food but in the ideology and the melody of the dancing Myconid.",
+    "source_quote": "Zalthir asked Basidia whether Hepbobe\u2019s food supply has the evil spores, and they say no.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Zuggtmoy\u2019s Melody",
+    "fact": "A dissonant, chaotic, and painful musical pattern heard by Thorin in the dancing Myconid\u2019s song, identical to the melody from Zuggtmoy\u2019s dream, indicating a direct spiritual or psychic link between Phylo\u2019s movement and the ancient fungal god.",
+    "source_quote": "It\u2019s the same melody that we heard when we saw Zuggtmoy in his dream. It has no rhythm, no beauty, it revels in a symphony of chaos and evil. It hurts.",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "Session Date",
+    "fact": "The events described occur during the Chapter 28 narrative, following the wedding feast and preceding the departure from the Circle of Growers.",
+    "source_quote": "# Chapter 28 The Wedding Feast.",
+    "quote_verified": true
+  }
+]

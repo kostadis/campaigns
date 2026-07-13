@@ -1,0 +1,282 @@
+[
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is currently guiding the boat through treacherous rock formations in the Darklake, shouting directional commands to avoid collisions after perceiving hidden obstacles others cannot see.",
+    "source_quote": "Rocks! We need to dodge these rocks. On my say, heave port or starboard! Port! Starboard!",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is a short, resilient dwarf who has just survived falling into the Darklake alongside Grygum and Daz, observing demonic manta-like creatures feeding on flesh and questioning the implications of their presence.",
+    "source_quote": "It\u2019s good to be short... The same creatures that were feasting on the kuotoans are here. They look like manta rays, whose jaws... have powerful jaws for rending the flesh of their victims.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is a tactically minded observer who muses on the utility of magical darkness and sees another boat with Kuotoans ahead, reflecting on his reluctant involvement in a ritual that may have summoned Demogorgon.",
+    "source_quote": "The ability to cast magical darkness and see through it opens up so many tactical opportunities... There\u2019s another boat ahead with some Kuotoans.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Shuushar",
+    "fact": "Shuushar has recovered from the trauma of Demogorgon\u2019s appearance and now serves as the group\u2019s navigator, guiding them to sources of drinkable water and edible food during their journey.",
+    "source_quote": "Enlightment is necessary! We must change as a people. Our imagination brought into existence, Leemooggoogoon.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is the group\u2019s bold leader who confronted the Kuotoan Monitors with divine authority, secured their cooperation, and later articulated the group\u2019s realization that demons have breached the Prime Material Plane in force.",
+    "source_quote": "The spectator warned us about demons. And we saw the demons in Velkynvelve. Demons have made it to the prime material plane in large numbers!",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Eldeth",
+    "fact": "Eldeth is a skeptical scholar who recognizes Demogorgon as a being of the Prime Material Plane and warns that the summoning of demon lords poses an existential threat to all of Faer\u00fbn, especially surface dwellers like dwarven miners.",
+    "source_quote": "That was Demogorgon. He\u2019s in the prime material plane. That is not possible... The danger to all of Faer\u00fbn is undeniable. Even if we escape the Underdark, these demons won\u2019t stay down here.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is a pragmatic warrior who witnessed Eldeth\u2019s disbelief about Demogorgon\u2019s presence and now holds the group\u2019s collective insight, silently processing the implications of demonic incursions.",
+    "source_quote": "I am not sure what you think is or is not possible, but I saw what I saw.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Buppido",
+    "fact": "Buppido, formerly gagged, is now an unbound informant with ties to Gracklstugh and offers the group access to underground networks for acquiring equipment and supplies.",
+    "source_quote": "Gracklstugh! I know people... Yes, and I know people who can help you.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Spiderbait",
+    "fact": "Spiderbait carries Shuushar and wails in terror at the escalating demonic threat, embodying the group\u2019s dread over the Underdark\u2019s transformation into a realm of rampaging demons and demon lords.",
+    "source_quote": "This is so not good. The Underdark isn\u2019t a friendly place! And rampaging demons and demon lords!",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Sarith",
+    "fact": "Sarith is a weary member of the crew, visibly cramped in the low-ceilinged boat, and shares the group\u2019s growing anxiety over their perilous journey through the Darklake.",
+    "source_quote": "Where to next?",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Kuotoan Monitors",
+    "fact": "The Kuotoan Monitors are enforcers who guarded the dock at Sloobludop but were persuaded by Grygum\u2019s divine command from the Archpriest of the Sea Mother to abandon their post and assist the community.",
+    "source_quote": "The Archpriest of the Sea Mother commands them to help the rest of their community.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Demonic Manta Rays",
+    "fact": "Demonic manta rays inhabit the Darklake, possessing powerful rending jaws instead of filter-feeding apparatuses, and are remnants of the same creatures that devoured the Kuotoans of Sloobludop.",
+    "source_quote": "They look like manta rays, whose jaws, instead of being used to filter plankton, have powerful jaws for rending the flesh of their victims.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Demogorgon",
+    "fact": "Demogorgon, a demon prince, has manifested in the Prime Material Plane, destroyed Sloobludop, and is the catalyst for the group\u2019s realization that demons have breached the barriers between planes in unprecedented numbers.",
+    "source_quote": "Demogorgon is advancing in that direction... Demogorgon destroy the town of Sloobludop\u2014the screams of the Kuotoans echo in the darkness.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Darklake",
+    "fact": "The Darklake is a subterranean waterway filled with treacherous rocks, low ceilings, and now infested with demonic manta rays, serving as the current route of escape for the group.",
+    "source_quote": "The boat is heading straight for the first rock... The same creatures that were feasting on the kuotoans are here.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Sloobludop",
+    "fact": "Sloobludop was a Kuotoan village destroyed by Demogorgon, where the group previously encountered Monitors and boarded their boat, now a charred ruin echoing with the screams of its dead inhabitants.",
+    "source_quote": "Demogorgon destroy the town of Sloobludop\u2014the screams of the Kuotoans echo in the darkness.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Gracklstugh",
+    "fact": "Gracklstugh is a known dwarven stronghold or settlement in the Underdark, referenced by Buppido as a destination where the group can acquire better equipment and connect with allies.",
+    "source_quote": "Gracklstugh! I know people.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "The Boat",
+    "fact": "The boat is a small, overcrowded vessel that has carried the group from Sloobludop through the Darklake, now equipped with rowers and capable of quiet navigation to avoid detection.",
+    "source_quote": "They board the boat and float away, paddling quietly not to be heard.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Demon Incursion into Prime Material Plane",
+    "fact": "Demogorgon\u2019s appearance in the Prime Material Plane has triggered the group\u2019s collective realization that demons are no longer confined to the Abyss or Underdark, but are invading surface realms in force.",
+    "source_quote": "Demons have made it to the prime material plane in large numbers!",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Summoning of Demon Lords",
+    "fact": "The group deduces that the presence of demon lords like Demogorgon in the Prime Material Plane requires immense, rare summoning magic, suggesting a coordinated, large-scale ritual effort by unknown forces.",
+    "source_quote": "Demons do not just appear in the Underdark. They must be summoned. And the spell to summon a demon lord is some mighty magic.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Warning to the Surface Worlds",
+    "fact": "The group recognizes the need to deliver a warning about demonic incursions to the surface realms, particularly targeting dwarven mining communities at risk of annihilation.",
+    "source_quote": "We need to get a warning to the surface worlds. Dwarven miners are at risk!",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "4th day of the 3rd Tenday of Taraskh 1493",
+    "fact": "On this date, Daz navigates the boat through rock formations in the Darklake, marking the first time the group faces direct environmental danger requiring his unique perception.",
+    "source_quote": "Standing on the front of the boat, Daz looks into the darkness... Rocks! We need to dodge these rocks.",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "6th day of the 3rd Tenday of Taraskh 1493",
+    "fact": "On this date, Thorin falls into the Darklake and encounters demonic manta rays, confirming the spread of demonic fauna into the group\u2019s current route of travel.",
+    "source_quote": "Thorin reaches up and touches the cave's ceiling... The same creatures that were feasting on the kuotoans are here.",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "8th day of the 3rd Tenday of Taraskh 1493",
+    "fact": "On this date, Zalthir observes another boat with Kuotoans ahead, signaling the increasing complexity of the Darklake\u2019s ecosystem and the presence of other survivors or factions.",
+    "source_quote": "There\u2019s another boat ahead with some Kuotoans.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Hemeth",
+    "fact": "Hemeth is reading Zalthir\u2019s mind and suggests taking the boat from the Kuo-Toans, recalling a near-sacrifice while selling them weapons.",
+    "source_quote": "Maybe we take that boat from them? Like the last time I talked to Kuo-Toans, I almost got sacrificed. I was just trying to sell them weapons. I didn\u2019t think they would think sacrificing me was a weapon. Crazy fish people.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Shuushar",
+    "fact": "Shuushar has decided that talking with more Kuo-Toans is the right course of action and is visibly excited, appearing so to Zalthir.",
+    "source_quote": "Talking with more Kuotoans is the right answer. Shuushar is very excited; at least, it would appear to Zalthir, Shuushar\u2019s excited.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir steps back and prepares to attack, anticipating potential danger.",
+    "source_quote": "Zalthir steps back and gets ready to attack, just in case.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "The Awakened",
+    "fact": "The Awakened shouts out to his kinsmen, rallying them as the group prepares to depart.",
+    "source_quote": "The Awakened shouts out to his kinsmen.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Kuo-Toan Companion",
+    "fact": "The Kuo-Toan companion reveals they are from Sloobludop, have witnessed the madness of their kind, and seek to create a better Kuo-Toan world free from divine-driven insanity.",
+    "source_quote": "They are from Sloobludop and have seen the danger of the Kuo-Toan madness. And they are receptive to my message! They want to create a better Kuo-Toan world where we are no longer driven mad by our need to create a new god! I have found my calling! And I must leave you!",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin interrupts Zalthir\u2019s concern about Shuushar\u2019s insight into the Darklake map and urges, 'Follow your bliss!'",
+    "source_quote": "Follow your bliss!",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Shuushar",
+    "fact": "Shuushar turns to his fellow escapees and thanks them, declaring he has found his people and will build a better world.",
+    "source_quote": "I have found my people, and we will build a better world!",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin gives Zalthir a tearful hug during the farewell.",
+    "source_quote": "the tearful goodbye of Thorin, who is giving him a hug",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum spits into the lake as part of the group\u2019s farewell ritual.",
+    "source_quote": "Grygum spitting into the lake",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz looks indifferent during the emotional farewell.",
+    "source_quote": "Daz looking indifferent",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Shuushar",
+    "fact": "Shuushar says 'thank you!' as the other Kuo-Toan boat floats away.",
+    "source_quote": "Shuushar says thank you!",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Sarith",
+    "fact": "Sarith murmurs doubt about following Shuushar\u2019s instructions, unsure he can execute them correctly.",
+    "source_quote": "Erm, guys, I have Shuushar\u2019s instructions, but I am not so sure I can follow them correctly.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Kuo-Toans",
+    "fact": "The Kuo-Toans are a collective known for madness driven by divine imperative, with factions seeking to escape or reform their destructive cycle.",
+    "source_quote": "They are from Sloobludop and have seen the danger of the Kuo-Toan madness... driven mad by our need to create a new god!",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Dark Lake",
+    "fact": "The Dark Lake is a significant location where farewells occur, and where Shuushar\u2019s instructions are to be followed.",
+    "source_quote": "As they stare into the Dark Lake, Sarith mutters...",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Shuushar\u2019s Instructions",
+    "fact": "Shuushar\u2019s instructions remain ambiguous and potentially unexecutable, casting doubt on the group\u2019s next steps.",
+    "source_quote": "I have Shuushar\u2019s instructions, but I am not so sure I can follow them correctly.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Kuo-Toan Boat",
+    "fact": "A Kuo-Toan boat floats away as the group departs, symbolizing transition and departure from their former path.",
+    "source_quote": "As the other Kuo-Toan boat floats off, Shuushar says thank you!",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Farewell at Dark Lake",
+    "fact": "A collective farewell occurs at the Dark Lake, marked by emotional gestures, indifference, and the departure of a Kuo-Toan companion.",
+    "source_quote": "Zalthir stands off as he watches the tearful goodbye of Thorin, who is giving him a hug, Grygum spitting into the lake, and Daz looking indifferent.",
+    "quote_verified": true
+  }
+]

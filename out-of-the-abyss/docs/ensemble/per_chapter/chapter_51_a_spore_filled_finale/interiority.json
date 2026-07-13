@@ -1,0 +1,632 @@
+[
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir decided to annoy Ilvara Mizzrym instead of engaging her directly.",
+    "source_quote": "I'm just gonna try annoying her then.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir delivered two consecutive critical strikes against Ilvara Mizzrym.",
+    "source_quote": "Crit. I do not celebrate at the table. But the second one surprised even me...",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir believes the most meaningful moment in combat is holding something in your hands without yet deciding to let go.",
+    "source_quote": "What I enjoy is the moment when a thing is in your hands and you have not yet decided to let go of it. That moment. That is the thing I came to the monastery for...",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir failed a DC-14 Wisdom saving throw against Ilvara\u2019s psychological attack.",
+    "source_quote": "Roll a DC-14 Wisdom saving throw. Well. That didn't work.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir experiences a targeted, specific fear that prevents him from approaching Ilvara.",
+    "source_quote": "The fear was immediate and specific and entirely unwanted... This was targeted. This said: *she is down there, and you will not approach her*.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir chose not to approach Ilvara despite his monk training emphasizing proximity.",
+    "source_quote": "I stayed where I was. Forty feet up. The frightened condition is not subtle \u2014 it is not a suggestion.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir accepted damage from the Heart Fungus while unable to close the distance to Ilvara.",
+    "source_quote": "It found me. The blow was enormous \u2014 the kind of damage that lands differently when you have no immediate recourse...",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir values honest rule application even when it works against his own interest.",
+    "source_quote": "I am supposed to apply the rule honestly, even against my own interest. That is the monastic training operating at the level of self-adjudication...",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin killed the Heart Fungus with two radiant strikes from Dawnbringer in one round.",
+    "source_quote": "I struck. And then struck again. The heart fungus wilted. One round. That was all it got.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is a dwarf who wants to walk up to problems and hit them directly with Dawnbringer.",
+    "source_quote": "I am, in my heart, a dwarf who wants to walk up to the problem and apply Dawnbringer to it until the problem stops.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin chose not to use his opportunity attack against Jorlan when he charged Ilvara.",
+    "source_quote": "I stood there with Dawnbringer in hand and thought about it... Eight on the die. Eight says I do the sensible thing.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin allowed Jorlan to charge Ilvara, recognizing the futility of intervening in their personal history.",
+    "source_quote": "I stepped aside and let Jorlan pass.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin admits he has no useful purchase on six layers of drow politics wrapped around a heartbreak.",
+    "source_quote": "I do not understand six layers of drow politics wrapped around a heartbreak, and I am not ashamed to say so.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum asked about Glabbagool\u2019s survival after the Insect Plague hit.",
+    "source_quote": "Oh, how about Glabbagool?",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum prioritizes protecting the vulnerable, even if they are non-traditional companions like gelatinous cubes.",
+    "source_quote": "Bahamut rewards the protection of the vulnerable. I'm not certain gelatinous cubes were what the Platinum Dragon had in mind. But I took notes on the principle...",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum offered to use Revivify to bring back a fallen minion, unaware they belonged to Ilvara.",
+    "source_quote": "If anybody is too saddened by the loss of any of our minions, I do have a Revivify spell that I could use to bring one of them back.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum acknowledges the difficulty of bookkeeping companions in the Underdark due to an expanding roster.",
+    "source_quote": "We used to have so many people traveling with us, I forgot.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum noted the Heart Fungus was killed by Thorin\u2019s radiant strikes.",
+    "source_quote": "Thorin drove Dawnbringer into the Heart Fungus. One round. *Boy, I had so much prepared for the fungus.* I continued.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum observed that Ilvara\u2019s minions were not theirs, correcting his own assumption.",
+    "source_quote": "We used to have so many people traveling with us, I forgot. Of course they did.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Glabbagool's survival",
+    "fact": "Glabbagool survived twenty-six points of damage from the Insect Plague, but his long-term status remains unaddressed in this session.",
+    "source_quote": "The cube had survived, churning and trembling in the swarm, but the number landed in my chest like a stone.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Jorlan and Ilvara's reconciliation",
+    "fact": "Jorlan\u2019s charge toward Ilvara suggests unresolved emotional history, but its outcome is left hanging after the fight.",
+    "source_quote": "He broke from position and charged toward her across the swarm-infested terrain, and the name that came out of him was not a battle cry. 'ILVARA'",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Zalthir's internal conflict",
+    "fact": "Zalthir\u2019s belief that proximity is essential to his monk identity is now in tension with his frightened condition, but how he resolves this is not specified.",
+    "source_quote": "My entire tactical vocabulary is built around being adjacent to the problem... And Ilvara's legendary reaction had, in one economical move, made proximity impossible.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Thorin's moral stance on opportunity attacks",
+    "fact": "Thorin\u2019s decision to forgo an opportunity attack against Jorlan is framed as sensible, but whether this reflects mercy, tactics, or disengagement remains unexplored.",
+    "source_quote": "There's something that feels almost like mercy in it. There's something that feels almost like tactics. I'm not sure they're different.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "I",
+    "fact": "I noted the miss of the Guiding Bolt at Ilvara without rancor.",
+    "source_quote": "I tried a Guiding Bolt at Ilvara. The bolt missed. I note this without rancor.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Ilvara",
+    "fact": "Ilvara was still moving, still conjuring, still calling down divine fire on Daz and Nym Duskryn with the focused fury of someone who had not yet accepted that this was over.",
+    "source_quote": "Ilvara, battered from her forty-foot drop courtesy of Zalthir's extraordinary grip-and-release approach to aerial combat, was still moving, still conjuring, still calling down divine fire on Daz and Nym Duskryn with the focused fury of someone who had not yet accepted that this was over.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "GM",
+    "fact": "The GM said 'Just when you thought everything was under control...' with a tone I recognized immediately \u2014 the tone of a person who has not, in fact, run out of material.",
+    "source_quote": "\"Just when you thought everything was under control...\" The GM said this with a tone I recognized immediately. The tone of a person who has not, in fact, run out of material.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir processed 'Are there 3 more unnamed creatures? 5 Dark Elves, it looks like? 5 Drow?' with his characteristic meditative calm and said 'That's awesome.'",
+    "source_quote": "\"Are there 3 more unnamed creatures?\" \"5 Dark Elves, it looks like? 5 Drow?\" Zalthir processed this with his characteristic meditative calm. \"That's awesome.\"",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "I",
+    "fact": "I said 'This is turning into the 12 days of Christmas.'",
+    "source_quote": "\"This is turning into the 12 days of Christmas,\" I said.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "I",
+    "fact": "I noted five drow warriors emerging from the cavern shadows, already inside the poison cloud's range, with the particular quality of someone who has committed to a dramatic entrance and is now realizing they have stepped into a catastrophe they had no part in making.",
+    "source_quote": "Five drow warriors emerging from the cavern shadows. The insect bloom still hanging in the air. The new arrivals were already inside the poison cloud's range. I could see it in their posture \u2014 the particular quality of someone who has committed to a dramatic entrance and is now realizing they have stepped into a catastrophe they had no part in making.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "I",
+    "fact": "I said 'Dark Elves!' in a singing tone.",
+    "source_quote": "\"Dark Elves!\" I added, in a singing tone.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Ilvara",
+    "fact": "Ilvara seems like she's still trouble \u2014 still radiating darkness and spite and the unmistakable spiritual signature of someone who has been promised the Underdark by a demon lord and is not prepared to surrender that claim without fully expressing her grievances.",
+    "source_quote": "And then Ilvara was still standing. Still radiating darkness and spite and the unmistakable spiritual signature of someone who has been promised the Underdark by a demon lord and is not prepared to surrender that claim without fully expressing her grievances.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "I",
+    "fact": "I said 'Ilvara seems like she's still trouble, so I'm going to cast a guiding bolt in that direction.'",
+    "source_quote": "\"Ilvara seems like she's still trouble,\" I said, \"so I'm going to cast a guiding bolt in that direction.\"",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "I",
+    "fact": "I was amused by the Jorlan-Ilvara drama \u2014 the romantic betrayal, the scarring, the fury, the way he had broken from us to pursue her through an active insect plague.",
+    "source_quote": "I was amused by the Jorlan-Ilvara drama. I want to be clear about that. The romantic betrayal. The scarring. The fury. The way he had broken from us to pursue her through an active insect plague. It was genuinely interesting. I filed it, appreciated it, and continued.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "I",
+    "fact": "I cast a guiding bolt that found Ilvara this time \u2014 radiant light, clean and bright and final.",
+    "source_quote": "I am still going to go ahead and attack her. The bolt found her this time. Radiant light. Clean and bright and final.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Ilvara",
+    "fact": "Ilvara \u2014 Zuggtmoy's instrument, the corrupted high priestess of House Mizzrym, the reason we had been prisoners in the first place \u2014 folded and went still, and then, because the Underdark does not allow even death to be dignified, she did not simply fall. She erupted. A cloud of poisonous spores, billowing outward from what had been a person. A woman who had traded herself to a fungal demon lord, and what was left was biology, not identity. Not even a body. Just spores.",
+    "source_quote": "Ilvara \u2014 Zuggtmoy's instrument, the corrupted high priestess of House Mizzrym, the reason we had been prisoners in the first place \u2014 folded and went still, and then, because the Underdark does not allow even death to be dignified, she did not simply fall. She *erupted*. A cloud of poisonous spores, billowing outward from what had been a person. A woman who had traded herself to a fungal demon lord, and what was left was biology, not identity. Not even a body. Just spores.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "I",
+    "fact": "I said 'Not ideal. How big is the cloud?'",
+    "source_quote": "\"Not ideal,\" I said, immediately. \"How big is the cloud?\"",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "I",
+    "fact": "I was glad I was standing back. This is the whole of my commentary on the death of Ilvara Mizzrym. Pragmatic wisdom. I was standing back. The cloud was noted. I took notes.",
+    "source_quote": "I was glad I was standing back. This is the whole of my commentary on the death of Ilvara Mizzrym. Pragmatic wisdom. I was standing back. The cloud was noted. I took notes.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "The first bolt hit my shield ward before I'd consciously decided to cast it.",
+    "source_quote": "The first bolt hit my shield ward before I'd consciously decided to cast it.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "That's the thing about Shield \u2014 it's a reaction, which means the body decides before the mind does.",
+    "source_quote": "That's the thing about Shield \u2014 it's a reaction, which means the body decides before the mind does.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "I spent a moment noting the look on their faces \u2014 that specific expression \u2014 the slight recalibration when the target doesn't go down.",
+    "source_quote": "I spent a moment noting the look on their faces. That specific expression \u2014 the slight recalibration when the target doesn't go down. I find it useful to catalogue.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Three Drow warriors. Crossbow formation. Tactical positions chosen in advance. Someone prepared for this.",
+    "source_quote": "*Three Drow warriors. Crossbow formation. Tactical positions chosen in advance. Someone prepared for this.*",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Kaelira",
+    "fact": "Kaelira's hand closed around my arm like a vice: 'Come with me if you want to live, you idiot.'",
+    "source_quote": "Then Kaelira's hand closed around my arm like a vice. \"Come with me if you want to live, you idiot.\"",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "I",
+    "fact": "I went. Not gracefully \u2014 she was hauling me northeast through the chittering wall of it while the poisonous gas did its work on both of us.",
+    "source_quote": "I went. Not gracefully \u2014 she was hauling me northeast through the chittering wall of it while the poisonous gas did its work on both of us.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Asha",
+    "fact": "Asha saw them at almost the same moment I registered where we'd ended up. Her hand moved toward her weapon. The energy of a zealot who has decided she is being betrayed \u2014 that tight, righteous recognition \u2014 came off her like heat.",
+    "source_quote": "Asha saw them at almost the same moment I registered where we'd ended up. Her hand moved toward her weapon. The energy of a zealot who has decided she is being betrayed \u2014 that tight, righteous recognition \u2014 came off her like heat.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "I",
+    "fact": "I said 'No, these are friends of Lolth, and they're here to help.' The words came out smooth. No hesitation, no announcement, no explanation.",
+    "source_quote": "\"No, these are friends of Lolth, and they're here to help.\" The words came out smooth. No hesitation, no announcement, no explanation.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "I",
+    "fact": "I have been maintaining a Lolth-follower identity with Asha Vandree for long enough that the fiction has its own momentum \u2014 you learn to stop thinking of it as lying and start thinking of it as consistent characterization.",
+    "source_quote": "I have been maintaining a Lolth-follower identity with Asha Vandree for long enough that the fiction has its own momentum \u2014 you learn to stop thinking of it as lying and start thinking of it as consistent characterization.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum observed that the situation was 'accurately described' by Asha's characterization of me as an insane mage who had converted to Lolthism.",
+    "source_quote": "Grygum, at some point in this sequence, observed that the situation was \"accurately described\" by Asha's characterization of me as an insane mage who had converted to Lolthism.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "What's important? That she thinks it, or that it's real?",
+    "fact": "What's important? That she thinks it, or that it's real?",
+    "source_quote": "*What's important? That she thinks it, or that it's real?*",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "I",
+    "fact": "I know what's real. I know what I've left behind and what I haven't and what Menzoberranzan made me and what the Underdark has cost me and what I believe now, privately, about slavery and free people and the basis of any society.",
+    "source_quote": "I know what's real. I know what I've left behind and what I haven't and what Menzoberranzan made me and what the Underdark has cost me and what I believe now, privately, about slavery and free people and the basis of any society.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Nym Duskryn",
+    "fact": "Nym Duskryn had been watching all of this with the particular expression of someone who is calculating whether their contract is still viable.",
+    "source_quote": "Nym Duskryn had been watching all of this with the particular expression of someone who is calculating whether their contract is still viable.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Nym Duskryn",
+    "fact": "Nym Duskryn said 'Can you please keep your head down and out of combat? We only get paid if you live.'",
+    "source_quote": "\"Can you please keep your head down and out of combat? We only get paid if you live.\"",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "I",
+    "fact": "I said 'I am not gonna leave. Everyone here... to fight for me without me also participating. I don't give a damn if you get paid. The best way for you to get paid, then, is to continue the fight and prevent all of us from dying.'",
+    "source_quote": "\"I am not gonna leave. Everyone here... to fight for me without me also participating. I don't give a damn if you get paid. The best way for you to get paid, then, is to continue the fight and prevent all of us from dying.\"",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Nym Duskryn",
+    "fact": "Nym Duskryn turned away from me and asked 'Can I kill your brother?'",
+    "source_quote": "She turned away from me. \"Can I kill your brother?\"",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "I",
+    "fact": "I said 'He was always the dumber of the ones, and if I understood correctly, he's covered in fungus?'",
+    "source_quote": "\"He was always the dumber of the ones, and if I understood correctly, he's covered in fungus?\"",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "T'sarran soldiers",
+    "fact": "The T'sarran soldiers were busy at the tunnel mouth having an argument that I can only describe as profoundly unhelpful given the circumstances.",
+    "source_quote": "There's a category of failure I find almost aesthetically interesting \u2014 not the grand collapse, but the petty logistical one. They had the firepower. They had the numbers. What they did not have was Dispel Magic, and so they stood in the tunnel debating whether to charge while a 4th-level fireball was introduced into the conversation.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "T'sarran soldier",
+    "fact": "One T'sarran soldier said 'I thought you said this was going to be an easy kill.'",
+    "source_quote": "\"I thought you said this was going to be an easy kill.\"",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "T'sarran soldier",
+    "fact": "Another T'sarran soldier said 'And you don't have a Dispel Magic.'",
+    "source_quote": "\"And you don't have a Dispel Magic.\"",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "T'sarran soldier",
+    "fact": "Another T'sarran soldier said 'So I have to go through this. I don't know what else to tell you.'",
+    "source_quote": "\"So I have to go through this. I don't know what else to tell you.\"",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Mage",
+    "fact": "The mage launched a lightning bolt into the cavern with real commitment. It hit nothing. Just open air and ambition.",
+    "source_quote": "The mage launched a lightning bolt into the cavern with real commitment. It hit nothing. Just open air and ambition.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "I",
+    "fact": "I am an Evoker, trained in Menzoberranzan where the destructive arts were considered the only magic worth taking seriously.",
+    "source_quote": "An Evoker \u2014 and I am an Evoker, trained in Menzoberranzan where the destructive arts were considered the only magic worth taking seriously \u2014 learns to carve exceptions into area spells.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "I",
+    "fact": "I cast Fireball in a shaped arc around everything I wanted to keep.",
+    "source_quote": "I cast Fireball in a shaped arc around everything I wanted to keep.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Mage",
+    "fact": "The mage delivered her parting observation: 'The matron mother of House T'sarran will hear about this.'",
+    "source_quote": "The mage launched a lightning bolt into the cavern with real commitment. It hit nothing. Just open air and ambition. The mage delivered her parting observation: \"The matron mother of House T'sarran will hear about this.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Jorlan Duskryn",
+    "fact": "Jorlan Duskryn went staggering across the cavern floor.",
+    "source_quote": "The lightning bolt that followed was not, technically, my problem. Jorlan Duskryn went staggering across the cavern floor...",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "I",
+    "fact": "I remained exactly where I had said I would remain. Not hiding. Not extracted. Not managed.",
+    "source_quote": "I remained exactly where I had said I would remain. Not hiding. Not extracted. Not managed.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "I",
+    "fact": "I find, somewhat to my own surprise, that this is what purpose feels like.",
+    "source_quote": "I find, somewhat to my own surprise, that this is what purpose feels like.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir picked Ilvara up and used the Eldritch Claw Tattoo to wrap tentacles around her, hauling her forty feet into the air and dropping her.",
+    "source_quote": "He had opened this fight by *picking Ilvara up*. Used the Eldritch Claw Tattoo to wrap tentacles around her, hauled her forty feet into the air, hit her twice in the ribs during the ascent, and dropped her.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir looked at Ilvara and felt a fear that landed like a stone into still water, compelling him to stop moving toward her.",
+    "source_quote": "And then she looked at him. And something in that look \u2014 something Zuggtmoy-deep, something that had nothing to do with Ilvara Mizzrym's personal opinion of Zalthir and everything to do with the demon lord wearing her face \u2014 *landed*. The fear dropped into him like a stone into still water.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir accepted that he should not be near Ilvara, and the discipline was self-administered.",
+    "source_quote": "I am supposed to be trying to not be near her. Right. Not a question. Just the rule, stated plainly, applied against his own interest the way you check a knot even when you know you tied it correctly.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir teleported across the battlefield and hit the T'sarran mage once, killing him.",
+    "source_quote": "He teleported across the battlefield \u2014 shadow-step, the distance closing in the space between one breath and the next \u2014 and hit the mage once, and that was enough.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir had the Eldritch Claw Tattoo \u2014 fifteen feet of reach \u2014 but the distance between him and Ilvara was not fifteen feet.",
+    "source_quote": "He had the Eldritch Claw Tattoo \u2014 fifteen feet of reach \u2014 but the distance between him and Ilvara was not fifteen feet.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir watched Ilvara mutter about Zuggtmoy, the bride, and chaos to come, and recognized her tone as one of genuine belief.",
+    "source_quote": "She was still muttering. Something about Zuggtmoy. Something about the bride, and chaos, and the mayhem to come. She said it in the tone of someone who genuinely believed it, which was the worst kind.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir stood across the cavern and could not move toward Ilvara, filing it away and waiting.",
+    "source_quote": "He watched from across the cavern and could not move toward her and filed it away and waited.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir noted the fear cleared at the end of his turn, as promised, without celebration.",
+    "source_quote": "The fear cleared at the end of his turn, the way it had been promised to. He noted this without celebration.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum launched a Guiding Bolt at Ilvara, which caused her body to rupture into a massive toxic bloom of poisonous spores.",
+    "source_quote": "The bolt left my hand. It lanced across the cavern floor in a concentrated column of radiant light and found her where she stood. She did not die quietly. She detonated. Her body ruptured outward in a massive toxic bloom \u2014 a cloud of poisonous spores billowing through the cavern in every direction...",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum thought of the Guiding Bolt as administrative when it worked, but in this case it felt like the light had been waiting.",
+    "source_quote": "There is a version of Guiding Bolt that I think of as administrative \u2014 you point it, it works, enemy takes radiant damage, case closed. And then there is the other version, the one that happens when everything has led to this particular moment and the light in your hand feels like it has been waiting.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum noted the spore cloud was not ideal and was glad he was standing back.",
+    "source_quote": "Not ideal, I thought, immediately practical again. How big is the cloud? I was glad I was standing back.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum observed Asha Vandree drop to her knees and begin murmuring prayers to Lolth, and filed it under 'watch this space.'",
+    "source_quote": "Asha Vandree dropped to her knees and began murmuring prayers, her voice the only sound left \u2014 words to Lolth, rising from the wreckage, already reshaping what she'd witnessed into something her goddess could use. Whatever theology she was building out of this moment, I filed it under *watch this space.*",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum noted the T'sarran warrior's threat \u2014 'We will meet again' \u2014 delivered without heat, and resolved to find out who the matron mother was.",
+    "source_quote": "We will meet again,' he said. 'Enjoy your victory for the moment.' I took note of that too. A threat delivered without heat is always more credible than one made in anger. I'll want to remember that name.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum's first real question after the spores thinned was about Glabbagool.",
+    "source_quote": "My first real question, once the cloud was thin enough to breathe through, was about Glabbagool.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin swung at the bridge until it fell, sending Ilvara and Jorlan crashing to the cavern floor.",
+    "source_quote": "Thorin had already toppled the bridge, sent both of them crashing to the cavern floor \u2014 classic Thorin, total commitment, Dawnbringer still humming with residual radiance...",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin destroyed the heart fungus with a single swing of Dawnbringer, reducing it to ruin before anyone else could act.",
+    "source_quote": "The fungus, at least, was mine. Clean and total. Dawnbringer lit the thing up from the first swing and it never got a second chance...",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin realized he had been mostly running during the battle, chasing the fight across the cavern without holding angles.",
+    "source_quote": "The real version is that I'm a dwarf with a glowing sword in a sprawling cavern fight and at some point you stop pretending you've got angles on all of it and just pick a direction and go.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin noted the spores drifted, the T'sarrans were gone, and Grygum was probably checking on Glabbagool.",
+    "source_quote": "The spores drifted. The T'sarrans were already gone. Somewhere behind me, Grygum was probably checking on Glabbagool.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin stood and let the quiet be quiet after the battle, acknowledging he could not yet measure the cost of victory.",
+    "source_quote": "I stood there and let the quiet be quiet. We'd won. I couldn't tell you yet what winning this one cost, or what it opened up ahead of us...",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin observed Asha Vandree still praying in the dark, and noted he had seen stranger things answered.",
+    "source_quote": "Asha was still praying in the dark like she expected to be answered. Maybe she would be. I've seen stranger things answered.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Zalthir's fear",
+    "fact": "Zalthir's fear of Ilvara is unresolved, and the reason he cannot approach her is not explained beyond the demonic presence she embodies.",
+    "source_quote": "And then she looked at him. And something in that look \u2014 something Zuggtmoy-deep, something that had nothing to do with Ilvara Mizzrym's personal opinion of Zalthir and everything to do with the demon lord wearing her face \u2014 *landed*.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Ilvara's transformation",
+    "fact": "Ilvara's complete transformation into Zuggtmoy's vessel is unverified in origin, and her prophecy is presented as fact without source.",
+    "source_quote": "She was already something other than the woman she had been. The corruption had been working on her for a long time.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Grygum's question about Glabbagool",
+    "fact": "Grygum's inquiry about Glabbagool is left unanswered, and the significance of Glabbagool in this context is not explained.",
+    "source_quote": "My first real question, once the cloud was thin enough to breathe through, was about Glabbagool.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "The T'sarran matron mother",
+    "fact": "The identity of the T'sarran matron mother is not specified, and Grygum intends to find out who she is before she learns who the party is.",
+    "source_quote": "I'll want to remember that name. The matron mother of House T'sarran would be hearing about this. I believe I should find out who that is before she finds out who we are.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Asha Vandree's new theology",
+    "fact": "Asha Vandree's prayers to Lolth are reshaping the event into a new theological framework, but the outcome or nature of this new belief is not revealed.",
+    "source_quote": "Whatever theology she was building out of this moment, I filed it under *watch this space.*",
+    "quote_verified": true
+  }
+]

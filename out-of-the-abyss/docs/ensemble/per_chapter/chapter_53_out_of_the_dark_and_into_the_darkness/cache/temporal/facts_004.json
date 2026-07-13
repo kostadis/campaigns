@@ -1,0 +1,93 @@
+[
+  {
+    "type": "date",
+    "subject": "elapsed time",
+    "fact": "The climb took around three hours.",
+    "source_quote": "I had stopped counting the steps somewhere around the third hour of climbing",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "elapsed time",
+    "fact": "The party had been traveling through the Underdark for months, though the exact duration is unknown.",
+    "source_quote": "I genuinely cannot tell you how many months it had been",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Overbright elevation",
+    "fact": "The party emerged from a tunnel into the Overbright, implying a vertical ascent from the Underdark.",
+    "source_quote": "The tunnel mouth opened like a held breath finally released.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "party member count",
+    "fact": "Eight individuals emerged from the tunnel: the narrator, Thorin, Grygum, Daz, Eldeth, Spiderbait, and two others referred to as 'the rest of our moltley crew'.",
+    "source_quote": "The others emerged around me. Thorin first... Grygum next... Daz came through last... The rest of our moltley crew followed, Eldeth, Spiderbait, and the rest of the folks who had survived this journey.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Glabbagool presence",
+    "fact": "Glabbagool, a gelatinous ooze, was present as a companion.",
+    "source_quote": "Glabbagool \u2014 our companion, our gelatinous ward who was now a grey ooze",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "bag of holding usage",
+    "fact": "Grygum opened the bag of holding just enough for Glabbagool to peer out.",
+    "source_quote": "Grygum had opened the bag of holding just enough, and Glabbagool \u2014 our companion, our gelatinous ward... had peered out.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Drow cloak value",
+    "fact": "Drow cloaks disintegrate in sunlight, implying their material value is tied to Underdark use.",
+    "source_quote": "I knew that Drow cloaks disintegrated in the sunlight.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "sequence of emergence",
+    "fact": "Thorin emerged first, Grygum second, Daz last, and the rest followed.",
+    "source_quote": "Thorin first... Grygum next... Daz came through last... The rest of our moltley crew followed",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "sequence of decision-making",
+    "fact": "Daz's conclusion about going to Candlekeep was reached before the group discussion began.",
+    "source_quote": "the conclusion \u2014 Candlekeep... was reasonable... was already pulling it toward a conclusion before the conversation began",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Daz's history inquiry",
+    "fact": "The group sought information on House T'sarran and Jimjar's disappearance, and Daz's own history.",
+    "source_quote": "research into House T'sarran and Jimjar's disappearance and whatever the various cutouts and hired Duskryns were ultimately pointing at regarding Daz's own history",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Thorin's sword quest",
+    "fact": "Thorin sought a 'sword whisperer' to tend to Dawnbringer after its months in darkness.",
+    "source_quote": "he had mentioned something about a specialist \u2014 the phrase *sword whisperer* had come up",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Grygum's research goals",
+    "fact": "Grygum intended to research the lore of Bahamut and collect pamphlets at Candlekeep.",
+    "source_quote": "He would look up the lore of Bahamut. He would pick up pamphlets.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "gold value",
+    "fact": "The party had more gold than they started with, though the exact amount is unspecified.",
+    "source_quote": "We had more of it than we had started with \u2014 which was not saying much, given that we had started with nothing",
+    "quote_verified": true
+  }
+]

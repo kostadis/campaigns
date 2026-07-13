@@ -50,7 +50,7 @@ First catalogued during the cleanup of
 | Bookworm, Bookform, Bookworn, Does Bookworm, Arum, Book Forum, Book Room, Bookroom | **Bookwyrm** |
 | Miro Milo Glutbarrell | **Milo Goodbarrel** |
 | Philippine | **Philemon** |
-| Janusi, Genasi, Genusi, Janu, Genius, Genesee, Genuzia, Janice, Januzzi, Genesis Croix, Genosi, Genuzi, Genuisi, Janusa, Jedusi, Venusi, Vinusi, Matt Genusi, GenoC, Genucio, Genousi, Jaducu, Genuzzi | **Janussi** |
+| Janusi, Janus, Janus's, Genasi, Genusi, Janu, Genius, Genesee, Genuzia, Janice, Januzzi, Genesis Croix, Genosi, Genuzi, Genuisi, Janusa, Jedusi, Venusi, Vinusi, Matt Genusi, GenoC, Genucio, Genousi, Jaducu, Genuzzi | **Janussi** |
 | Tadrick, Tadrik, Kadrick, Tabree, Cedric, Tardik, Tedrick, Tatrix | **Tadric** |
 | Callan Strongbranch, Callan Strongfeld, J- Kaelin, Kalen Strongbridge, Callan Strongbench, North Carolina Strong Brunch | **Kalan Strongbranch** |
 | Callan, Callum, Cullen, Kaelin, Colin, Cal, Collins, Talon, Talen, Kalen, Callen, Kalin, Kellen, Carolyn | **Kalan** |

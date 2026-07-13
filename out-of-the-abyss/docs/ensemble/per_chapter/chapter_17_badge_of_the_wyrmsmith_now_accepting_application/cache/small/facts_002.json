@@ -1,0 +1,142 @@
+[
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is an orc determined to locate Droki and reach the Whorlstone Caverns, relying on Buppido\u2019s knowledge and navigating Derro city with caution, aware of his ancestral enmity with dwarves and the volatile nature of the Derro.",
+    "source_quote": "We need to get him to show us the way to the Whorlstone caverns. If we go around poking for things, it\u2019s unclear what could happen.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Buppido",
+    "fact": "Buppido is a derro who was imprisoned but freed by Grygum; he knows Droki intimately, is enraged by the broken promises of the Council of Savants, and believes in a divine mission to save his people.",
+    "source_quote": "I have to get back to save my people. The divine mission requires that I go back! The Council of Savants will fail my people. I must go and save them!",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Droki",
+    "fact": "Droki is a derro courier whose unnaturally fast pace and disregard for observation make him a trusted, if mysterious, messenger; he moves through Derro city with ritualistic repetition, delivering messages and accessing hidden routes, including a concealed fissure in the West Cleft.",
+    "source_quote": "Droki is late! They will be so angry! Stupid, stupid, stupid! Delays, blocks, procrastination, obstructions, pfah! No time, no rhyme, not mine! No! Time!",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is a wary ally who distrusts Buppido after witnessing his past murder; he issues a direct threat of violence should Buppido betray them, yet permits his movement into the caverns.",
+    "source_quote": "If you betray us, I will gut you.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir urges caution throughout the mission, questioning the wisdom of trusting Buppido and moving into the Derro slums, yet remains an active participant in the group\u2019s decisions.",
+    "source_quote": "Zalthir urges caution, but Grygum is determined.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a contemplative observer who reflects on the systemic cruelty of slavery across races, particularly comparing Duergar and Drow practices; he tracks Droki\u2019s path and enters a horrifying cavern filled with decomposing remains and an unknown humming figure.",
+    "source_quote": "Free people are the basis of any society.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Council of Savants",
+    "fact": "The Council of Savants is a derro governing body that promised freedom to the Derro but failed to deliver it, inciting deep rage and betrayal among those like Buppido who still believe in their divine mission.",
+    "source_quote": "He screams about the Council of Savants who promised freedom and failed to deliver freedom.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Derro Community",
+    "fact": "The Derro community is a fractured, insane population living in squalor beneath Gracklstugh, marked by paranoia, violence, and chaotic muttering; they harbor burning hatred toward outsiders and are ruled by no central authority, only fragmented rituals and rumors.",
+    "source_quote": "The chatter in the air is unnerving, with hundreds of derro muttering, screaming at each other, and otherwise reveling in their insanity.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Duergar",
+    "fact": "The Duergar are a dwarven subrace who once enslaved the Derro, building guardhouses to monitor them in the West Cleft; they were later overthrown by Deepking Tarngardt, who liberated the Derro and allowed them to spread into the East Cleft District.",
+    "source_quote": "The duergar built a series of guardhouses to keep an eye on their derro slaves living in the West Cleft. These were abandoned when Deepking Tarngardt, grandfather of the current monarch, who liberated the derro, allowing them to spread from the West Cleft District into the East Cleft District.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Derro City (Gracklstugh)",
+    "fact": "Derro City is a sprawling, chaotic settlement carved into the rock beneath Gracklstugh, where homes are crude holes in walls, the air reeks of decay, and the population is driven mad by isolation and oppression; its streets are patrolled by muttering derro who react with violent hatred to outsiders.",
+    "source_quote": "The stench in the air changes from acrid and metallic to fetid and repugnant... The homes in this part of Gracklstugh are crudely carved from the rock or are just holes in the walls, arranged in no apparent order.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "West Cleft",
+    "fact": "West Cleft is a derro-controlled district within Gracklstugh, once monitored by Duergar guardhouses; now abandoned, it serves as a labyrinth of hovels and hidden passages, including the secret fissure accessed by Droki, and is the epicenter of derro madness and ritual movement.",
+    "source_quote": "Droki stops between a cluster of hovels in West Cleft and turns... revealing a narrow fissure in the chasm wall.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Laduguer\u2019s Furrow",
+    "fact": "Laduguer\u2019s Furrow is the western gate of a dwarven-underdark complex, historically used by Duergar to control Derro movement; now a point of entry into the Derro slums and the hidden caverns beyond, it is a place of transition and danger.",
+    "source_quote": "He leads them to the western gate of Laduguer\u2019s Furrow.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Cavern of Decomposing Remains",
+    "fact": "A hidden cavern southwest of the main entrance, carpeted with humanoid corpses arranged in a spiral, humming with an off-key tone from a hunched figure; its purpose is unknown but suggests ritualistic or sacrificial practices by an unknown entity.",
+    "source_quote": "The floor is carpeted with humanoid remains in varying stages of decomposition, arranged in a spiral pattern around the cave\u2019s center. An off-key humming comes from a hunched figure working busily at something on the floor.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Main Cavern with Faerzress Glow",
+    "fact": "A vast, silent cavern lined with stalactites and stalagmites, illuminated by the eerie soft glow of faerzress; the air is metallic, sounds are muffled, and the dripping water echoes nowhere, suggesting a magical or otherworldly property.",
+    "source_quote": "The glow of faerzress casts an eerie soft light across this cavern... The dripping of water makes no echo, as if Daz stood in open air.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Droki\u2019s Hidden Fissure Entrance",
+    "fact": "A concealed entrance in the West Cleft, revealed by moving scraps of cloth, gray canvas, and moldy boxes; it leads into a narrow cavern where a wisp of eerie fog escapes upon entry, suggesting magical or extraplanar properties.",
+    "source_quote": "Droki lifts the scrap of cloth, pushes the gray sheets of canvas to the side, revealing a narrow fissure... a wisp of eerie fog floats out.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Hunched Figure in Spiral Cavern",
+    "fact": "An unidentified, possibly derro or twisted entity, hunched over a spiral of decomposing remains, emitting an off-key hum; its actions suggest ritualistic necromancy or sacrificial work, and it remains unaware of intruders.",
+    "source_quote": "An off-key humming comes from a hunched figure working busily at something on the floor.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Droki\u2019s True Purpose",
+    "fact": "Droki\u2019s unnaturally fast pace, disregard for observation, and ritualistic access to hidden passages suggest he is more than a courier\u2014he may be bound to a divine or extraplanar force, and his route may lead to a greater secret in the Whorlstone Caverns.",
+    "source_quote": "Droki also doesn\u2019t seem to care if anyone is following him... He mutters to himself and to any Derro whom he says.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Buppido\u2019s Divine Mission",
+    "fact": "Buppido\u2019s conviction that he must return to save his people and his rage toward the Council of Savants imply a deeper, possibly prophetic, divine mission tied to the fate of the Derro, which may conflict with the group\u2019s goals.",
+    "source_quote": "The divine mission requires that I go back!",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Identity of the Humming Figure",
+    "fact": "The hunched figure amid the spiral of corpses may be a derro cultist, a corrupted entity, or even a remnant of the Council of Savants; its purpose and connection to Droki or Buppido remain unknown.",
+    "source_quote": "An off-key humming comes from a hunched figure working busily at something on the floor.",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The events occur during a single session of exploration in the Underdark, beginning at Laduguer\u2019s Furrow and progressing through Derro city into hidden caverns, culminating at the fissure and the corpse spiral.",
+    "source_quote": "And so Grygum waits... As he is about to doze off, Buppido nudges him, 'There.'",
+    "quote_verified": false
+  }
+]

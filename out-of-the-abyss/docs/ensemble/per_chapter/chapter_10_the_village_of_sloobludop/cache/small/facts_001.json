@@ -1,0 +1,191 @@
+[
+  {
+    "type": "npc",
+    "subject": "Ploopploopeen",
+    "fact": "Ploopploopeen is the archpriest of the Sea Mother, currently hosting the escapees in Sloobludop and attempting to broker a ritual exchange with the followers of Leemooggoogoon. He has strained relations with his daughter, Bloppblippodd, and is uncertain whether Leemooggoogoon actually exists.",
+    "source_quote": "I will present you to her, and I will insist that I come with you. She will accept. And then all of my followers will attack.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Bloppblippodd",
+    "fact": "Bloppblippodd is the high priestess of the Deep Father and daughter of Ploopploopeen. She demands offerings for her deity and is the catalyst for the planned attack on the escapees. Her relationship with her father is troubled.",
+    "source_quote": "In the morning, my daughter, Bloppblippodd, the high priestess of the Deep Father, will demand to see the offering.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is one of the escapees who begins to understand Kuo-toan rituals and misconceptions. He recognizes the altar of the Sea Mother as a scavenger deity and participates in the spit-offering. He is skeptical of Leemooggoogoon's existence and attempts to negotiate peace with symbols of parley.",
+    "source_quote": "This is like a flag of parley. Have you considered a white flag?",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is an escapee who questions the effectiveness of Kuo-toan defenses and is wary of their food. He spits on the Sea Mother\u2019s altar and is concerned about the nature of sacrifices. He is the first to suggest retreat when discovered at the Deep Father\u2019s altar.",
+    "source_quote": "I say we beat a hasty retreat.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is an escapee who finds purpose in helping the Kuo-toans after a long history of running and loss. He is repulsed by the stench of the altars but pretends to be itchy to hide his discomfort. He is moved by the idea of having a goal after prison and death.",
+    "source_quote": "Man, we've been running for days. Having a purpose in life is a good thing.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is an escapee initially indifferent to the Kuo-toans' plight, seeing their conflicts as irrelevant. He is skeptical of their rituals but is eventually convinced by the promise of cooked fish and the group's acceptance of Ploop's offer.",
+    "source_quote": "They have their problems, and the issues of these two warring tribes are not their concern.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Topsy and Turvy",
+    "fact": "Topsy and Turvy are escapees who recognize the chaos of the situation as an opportunity for theft. They are not directly involved in ritual discussions but are attuned to the potential for looting.",
+    "source_quote": "A free-for-all is an excellent opportunity to steal.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Kuo-toans",
+    "fact": "The Kuo-toans are a society living between two walls of netting, with a cave wall to the south and the Darklake to the north. They sleep with eyes open, move in schools, and maintain order through designated leaders. Their religion centers on the Sea Mother and Leemooggoogoon, with rituals involving spit-offerings, blood sacrifices, and the use of severed body parts in idols.",
+    "source_quote": "Many kuo-toans just walk around with their eyes open, sleeping. And that some other kuo-toans are moving about as schools of fish.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Followers of Leemooggoogoon",
+    "fact": "The followers of Leemooggoogoon, the Deep Father, worship a deity requiring blood sacrifices, preferably unwilling ones. Their idol is a stretched hide of a manta ray with pinned octopuses and a stained altar. They circle the idol in vigil and react violently to intrusions.",
+    "source_quote": "She needs sacrifices for her false god. An unwilling sacrifice is better. This is an evil god.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Followers of the Sea Mother",
+    "fact": "The followers of the Sea Mother worship a scavenger goddess who accepts regurgitated offerings. Their central idol is a wooden humanoid female adorned with the severed head and claws of a giant albino crayfish, lashed with gut and piled with shells, stones, mushrooms, and rotting fish. Four kuo-toans guard it constantly.",
+    "source_quote": "The Deep Sea Mother is a scavenger goddess and that regurgitating and spitting on her altar is perhaps the perfect form of offering.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Guardians of the Sea Mother's Altar",
+    "fact": "Four stern kuo-toans slowly circle the Sea Mother's altar, alert and on guard. They are part of the cult's permanent vigil and react to any disturbance near the idol.",
+    "source_quote": "Four stern kuo-toa slowly circle the statue, alert and on guard...",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Guardians of the Deep Father's Altar",
+    "fact": "Kuo-toans circle the idol of Leemooggoogoon, the Deep Father, and immediately notice intruders. They are vigilant and hostile, triggering a confrontation when Grygum and others approach the altar.",
+    "source_quote": "Unfortunately, their attempt to be quiet is anything but. And the kuo-toans circling the Deep Father notice.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Sloobludop",
+    "fact": "Sloobludop is a kuo-toan village situated between two walls of netting, with a cave wall to the south and the Darklake to the north. It contains over a hundred mud-walled homes with ceilings made of dried vegetable matter. The village is centered around two altars and has docks along the Darklake.",
+    "source_quote": "Between the two walls to the south is the cave wall. To the north, between the two nEttin g walls, is the Darklake. Between the walls of nEttin g, the cave wall, and the Darklake is the village. There are over a hundred houses of various sizes.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Darklake",
+    "fact": "The Darklake is a body of water bordering the northern edge of Sloobludop. It features docks with boats, some occupied, some empty. Groups of kuo-toan leaders walk along its shore, maintaining societal order.",
+    "source_quote": "The Darklake side has docks. Some of the docks have boats. Some are empty. Walking along the docks are groups of Kuo-Toans.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Sea Mother's Altar",
+    "fact": "The altar of the Sea Mother is a large wooden statue of a humanoid female, crudely carved and adorned with the severed head and claws of a giant albino crayfish, lashed with gut. Shells, colored stones, mushrooms, and rotting fish are piled at its base and strung around its neck. It emits a powerful stench of rotting shellfish.",
+    "source_quote": "The statue is roughly carved from wood in the shape of a humanoid female, its head and forearms formed from the severed head and claws of a giant albino crayfish. These parts are lashed on with strands of gut and emit an overpowering stench of rotting shellfish.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Leemooggoogoon's Altar",
+    "fact": "The altar of Leemooggoogoon, the Deep Father, is a stretched hide of a manta ray pinned between two poles. A dead manta ray is centered on the hide, with two dead octopuses draped across it, their tentacles pinned and heads painted red and blue. The stone altar below is stained dark with blood and reeks of decay.",
+    "source_quote": "It consists of a large hide cut roughly in the shape of a manta ray and stretched out on cords between two support poles. A dead, splayed-out manta ray is pinned to the center of the hide. Two dead octopuses are draped across the top...",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Sea Mother's Idol",
+    "fact": "The idol of the Sea Mother is a nine-foot-tall wooden humanoid statue, its head and forearms composed of the severed head and claws of a giant albino crayfish, bound with gut. It is decorated with brightly colored stones, mushrooms, shells, and rotting fish in garlands and piles.",
+    "source_quote": "The statue is roughly carved from wood in the shape of a humanoid female, its head and forearms formed from the severed head and claws of a giant albino crayfish. These parts are lashed on with strands of gut and emit an overpowering stench of rotting shellfish. Shells, brightly colored stones, mushrooms, and rotting fish are piled at the statue\u2019s feet and strung in garlands around its neck.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Leemooggoogoon's Idol",
+    "fact": "The idol of Leemooggoogoon is a hide stretched on cords between two poles, shaped like a manta ray. It is pinned with a dead manta ray and two dead octopuses, their tentacles artfully arranged and their heads painted red and blue. The altar below is stained with blood.",
+    "source_quote": "It consists of a large hide cut roughly in the shape of a manta ray and stretched out on cords between two support poles. A dead, splayed-out manta ray is pinned to the center of the hide. Two dead octopuses are draped across the top, their tentacles pinned and artfully arrayed, their heads tied together and painted with red and blue pigments.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "N-Ettin Wall",
+    "fact": "The western entrance to Sloobludop is guarded by a wall made of n-Ettin g, which Thorin notes is ineffective against a determined invader. It is manned by kuo-toans who snap to attention upon Ploop\u2019s arrival.",
+    "source_quote": "There is a wall made of nEttin g guarded by Kuo-toans. Thorin notes that the nEttin g isn\u2019t an effective wall against a determined invader.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Net Wall",
+    "fact": "The eastern boundary of Sloobludop is a second wall of nets, separating the village from the Deep Father\u2019s altar. It is part of the ritual geography of the town and likely serves both defensive and symbolic purposes.",
+    "source_quote": "Past the walls are the huts of the kuo-toans, and at the other end of the town, almost 500 feet away, is another wall of nets.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Spit-Offering at the Sea Mother's Altar",
+    "fact": "Grygum and Thorin spit on the altar of the Sea Mother, which delights Ploopploopeen. This act fulfills the ritual requirement of regurgitation, which is considered the perfect offering to the scavenger goddess.",
+    "source_quote": "Ploop is delighted when Grygum and Thorin both spit on the altar.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Discovery at the Deep Father's Altar",
+    "fact": "Grygum and the escapees sneak to the altar of Leemooggoogoon and are discovered by the circling kuo-toans. Their attempt at stealth fails, triggering a hostile reaction and forcing a retreat.",
+    "source_quote": "Unfortunately, their attempt to be quiet is anything but. And the kuo-toans circling the Deep Father notice.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Kuo-toan Sleep Behavior",
+    "fact": "The escapees observe that many kuo-toans sleep with their eyes open and some move as if in schools of fish. This unusual behavior is normal for their species and contributes to their eerie, alien presence.",
+    "source_quote": "At this point, the escapees notice that many kuo-toans just walk around with their eyes open, sleeping. And that some other kuo-toans are moving about as schools of fish.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Acceptance of Ploop\u2019s Offer",
+    "fact": "After eating cooked fish and witnessing the rituals, the escapees, including Zalthir, accept Ploop\u2019s offer to remain in Sloobludop and participate in the ritual exchange, abandoning their initial reluctance.",
+    "source_quote": "At this, even Zalthir is convinced that perhaps helping the Kuo-Toans isn\u2019t a bad idea.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Existence of Leemooggoogoon",
+    "fact": "It is unclear whether Leemooggoogoon, the Deep Father, is a real deity or a construct used to justify ritual violence. Grygum and others suspect the god may not exist, but the cult\u2019s fervor and the bloodstained altar suggest otherwise.",
+    "source_quote": "It\u2019s also unclear if a god named Leemooggoogoon even exists.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Purpose After Escape",
+    "fact": "The escapees are searching for meaning after years of running, prison, and death. Daz\u2019s declaration that having a purpose is less depressing than aimless flight resonates with the group, making them willing to engage in the kuo-toan conflict.",
+    "source_quote": "Having something to focus on would be much less depressing than just doing what we are doing.",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "1st day of the 3rd Tenday of Taraskh 1493",
+    "fact": "The events of the chapter occur on the first day of the third tenday of Taraskh in the year 1493, marking the beginning of the escapees' involvement in the kuo-toan religious conflict.",
+    "source_quote": "1st day of the 3rd Tenday of Taraskh 1493",
+    "quote_verified": true
+  }
+]

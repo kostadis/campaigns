@@ -1,0 +1,1409 @@
+[
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is perplexed by the dead bodies with no entrance or exit wounds and no evidence of foul play.",
+    "source_quote": "Grygum is perplexed: dead bodies with no entrance or exit wounds, no evidence of foul play, just dead bodies.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is known for his fondness of novels and has read Milo Goodbarrel\u2019s book detailing the events surrounding the war of the dragon.",
+    "source_quote": "Daz, known for his fondness of novels, reads voraciously and has managed to get a copy of Milo Goodbarrel\u2019s book detailing the events surrounding the war of the dragon.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz watches two assassins strike a Duergar man with glowing weapons and wonders if they are psychic weapons.",
+    "source_quote": "As Daz watches, two assassins, wearing face coverings and wielding glowing weapons, strike the other man. \"Psychic weapons?\" he wonders.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz utters mystical words and causes motes of light to appear above his hand, launching magic missiles at an assassin.",
+    "source_quote": "When Daz utters the mystical words, motes of light appear above his hand, and three fingers point at one of the assassins. A silent rush of air accompanies the flight of the magic missiles...",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz speaks the words for scorching rays, feels intense heat, and launches fiery energy at an assassin while Zalthir\u2019s darkness hides the flash.",
+    "source_quote": "Daz speaks the words for scorching rays and feels the rush of intense heat as the fiery energy is manifested. He points with his index finger, uses his thumb to sight, squints, and lets the rays loose...",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir casts Darkness to cover the area and mutters that area-of-effect spells are useful because he can't see.",
+    "source_quote": "Zalthir covers the area with Darkness. \"I can't see. And this is why area of effect spells are useful,\" he mutters.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is uncertain if they made the right decision in intervening in the assassination.",
+    "source_quote": "Zalthir stares at the merchant and the dead assassins. Zalthir is uncertain if they made the right decision.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir finds a charcoal drawing of the Duergar merchant on one of the assassins' corpses and presents it to him.",
+    "source_quote": "Zalthir scrutinizes him and concludes that Holl may not have been lying... He presents it to the Duergar.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir finds coins, bloodstained gloves, and a box of scented candles among the assassins' corpses and passes the candles to Thorin.",
+    "source_quote": "Zalthir starts to rifle through the assassins' corpses and finds some coins, a pair of bloodstained gloves, and a box of candles. He notices they have a pleasant smell and passes them to Thorin.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is exasperated by the layered factions and wants to be his own faction.",
+    "source_quote": "Thorin is exasperated and almost shouts, \"I am sorry, I can't deal with these factions. I can't keep track of who we are working for and which faction we are double-crossing. I want to be my faction.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin weighs a gold badge given by Gartokkar and asks Daz how much gold it is.",
+    "source_quote": "Gartokkar hands out some gold badges. Thorin weighs it in his hands. Daz turns to him and asks, \"How much gold is this?\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin asks Gartokkar what the rights and responsibilities of being an agent are.",
+    "source_quote": "\"What are the rights and responsibilities for this position?\" growls Thorin, outraged to be working for a dragon.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Gartokkar",
+    "fact": "Gartokkar reveals that Themberchaud thinks the Keepers of the Flame work for him, but in truth, he works for them.",
+    "source_quote": "Gartokkar smiles conspiratorially, \"Themberchaud thinks we work for him. What Themberchaud doesn't realize is that he works for us.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Gartokkar",
+    "fact": "Gartokkar explains that the Keepers of the Flame lost the red dragon egg that would hatch Themberchaud\u2019s replacement, and that Themberchaud doesn\u2019t know about it.",
+    "source_quote": "We lost face when the Gray Ghosts stole the valuable red dragon egg that would hatch Themberchaud\u2019s replacement... He doesn\u2019t know.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Gartokkar",
+    "fact": "Gartokkar tells Thorin that Themberchaud will eventually \"move on\" because he wants to see more of the world.",
+    "source_quote": "Eventually, the Dragon moves on because he wants to see more of the world.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir wonders whether the overweight red dragon Themberchaud could survive in the wild, having forgotten how to hunt.",
+    "source_quote": "Zalthir is stunned. He\u2019s never seen such a thing... And then, he wonders whether this red dragon could survive in the wild. It is so pampered that it probably has forgotten how to hunt.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Themberchaud",
+    "fact": "Themberchaud breathes fire in a circle around the cavern and laughs when nobody dies or screams.",
+    "source_quote": "The dragon bellows, \"If I catch anyone spying, I will kill them.\" And with that, he breathes fire in a circle around the cavern. When nobody dies or screams, the dragon laughs.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Themberchaud",
+    "fact": "Themberchaud asks Daz if he is from Menzoberranzan and laughs when Daz says yes.",
+    "source_quote": "The dragon asks if Daz is from Menzoberranzan... Daz says he is. The dragon laughs, \"Excellent! You have no family associations and nobody that can be blackmailed.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Themberchaud",
+    "fact": "Themberchaud declares the group his agents and whispers that their first mission is to do whatever the Keepers of the Flame ask, but report to him first.",
+    "source_quote": "The dragon whispers, \"Your first mission is to do whatever the Keepers of the Flame ask you to, but report to Themberchaud first.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir overhears Daz and asks Grygum if Themberchaud plays chess, recalling Milo Goodbarrel\u2019s memoirs.",
+    "source_quote": "Zalthir overhears Daz and asks Grygum, \"Do you think this dragon also plays chess? According to Milo Goodbarrel\u2019s memoirs, chess played a significant role in negotiating with the metallic dragons.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Themberchaud's replacement",
+    "fact": "The Keepers of the Flame stole the red dragon egg that would hatch Themberchaud\u2019s replacement, but Themberchaud is unaware of its existence.",
+    "source_quote": "We lost face when the Gray Ghosts stole the valuable red dragon egg that would hatch Themberchaud\u2019s replacement.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Droki's identity",
+    "fact": "Gartokkar identifies Droki as an agent of the Grey Ghosts, the same person Errde Blackskull is looking for, but his true allegiance remains unconfirmed.",
+    "source_quote": "We have identified an agent of the Grey Ghosts. His name is Droki.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum mutters that they are double agents or triple agents, working for the Stone Guards and the Keepers of the Flame.",
+    "source_quote": "Grygum, standing next to Thorin, mutters, \"I suppose we are double agents, or is it triple agents? We work for the Stone Guards and the Keepers of the Flame.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz replies that the faction thinks they are working for them, but whether they do is up to them.",
+    "source_quote": "Daz, who has experience with the twisted, machiavellian politics of the Drow, replies, \"The faction thinks we are working for them. Whether we do is up to us.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir watches the Duergar merchant become invisible after thanking them.",
+    "source_quote": "Zalthir watches as the Duergar becomes invisible.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir offers to create an illusion of whale sounds for Thorin.",
+    "source_quote": "Zalthir chuckles, \"I could create that illusion for you.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin says, \"God, what I wouldn\u2019t do for a bath and listening to whale sounds.\"",
+    "source_quote": "The dwarf smiles, \"Scented candles!\" And then he says, \"God, what I wouldn\u2019t do for a bath and listening to whale sounds.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum pushes the first assassin\u2019s corpse into the water.",
+    "source_quote": "Just then, Zalthir hears a body falling into the water. Grygum has pushed the first corpse into the water.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir helps push the second assassin\u2019s corpse into the water.",
+    "source_quote": "Zalthir agrees and helps push the other body into the water.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Gartokkar",
+    "fact": "Gartokkar hands out gold badges and holy symbols of Laduguer to the group.",
+    "source_quote": "Let me give you this holy symbol of Laduguer and these gold pins featuring Themberchaud\u2019s profile.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Gartokkar",
+    "fact": "Gartokkar threatens to turn the group over to the Stone Guards if they refuse to accept the agent role.",
+    "source_quote": "Well we will turn you over to the Stone Guards.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Gartokkar",
+    "fact": "Gartokkar enumerates potential transgressions committed by Thorin that could warrant punitive action under Gracklstugh law.",
+    "source_quote": "Let me enumerate a list of potential transgressions that the dwarf, Thorin, has committed, which could warrant significant punitive action within the laws of Gracklstugh.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir reflects that having invisible ruthless guards helps make the city peaceful and wonders if such a regime could be implemented.",
+    "source_quote": "Zalthir reflects on the city's quiet and how the monks would be astounded at how peaceful it could be. \"Having invisible ruthless guards helps.\" He wonders if such a regime could be implemented.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin has picked up the peculiar antipathy towards dragons that giants have, and Themberchaud is triggering him.",
+    "source_quote": "Having lived with giants, Thorin has picked up the peculiar antipathy towards dragons that giants have. And this red dragon is triggering him.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Themberchaud",
+    "fact": "Themberchaud tells Gartokkar to give the group gold badges and commands the rest to follow Gartokkar\u2019s orders.",
+    "source_quote": "Gartokkar, come... Give these humanoids some of the gold badges... And the rest of you do what Gartokkar says.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Themberchaud",
+    "fact": "Themberchaud asks Zalthir if he is a gold dragonborn and says he never liked gold dragons.",
+    "source_quote": "The dragon turns to Zalthir, \"You are a gold dragonborn?\" \"No, a bronze.\" \"Good. I never liked gold dragons.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir wonders if Daz is lying about being from Menzoberranzan.",
+    "source_quote": "Zalthir wonders as well. Daz says he is. But Zalthir isn\u2019t convinced that is the truth.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz says, \"I think gathering intelligence is just as important,\" dismissing Jimjar\u2019s suggestion to leave.",
+    "source_quote": "Daz dismisses him, \"I think gathering intelligence is just as important.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Jimjar",
+    "fact": "Jimjar asks when they will be able to leave and shrugs when Daz says they should stay.",
+    "source_quote": "Jimjar has made a few friends and asks - \"When do you expect us to be able to leave?\"... Jimjar shrugs and slumps into one of the beds. He sighs, \"Very well.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir thinks, \"Convenient,\" after seeing the Duergar merchant become invisible.",
+    "source_quote": "Zalthir watches as the Duergar becomes invisible. \"Convenient.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz thinks, \"Wererats,\" when he notices the other escapees are missing.",
+    "source_quote": "\"Wererats,\" thinks Daz.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz walks to the piers near the inn and observes a Duergar man looking into the darkness of the Darklake.",
+    "source_quote": "Daz leaves the inn and walks to the piers near the \"inn.\" On one of the piers, a Duergar man appears, looking into the darkness of the Darklake.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz thinks, \"And perhaps that\u2019s why,\" he\u2019s being attacked, right before the assassination occurs.",
+    "source_quote": "\"And perhaps that\u2019s why,\" Daz thinks, \"he\u2019s being attacked.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum rushes one of the assassins trying to toss him into the water and fails.",
+    "source_quote": "As Daz watches, Grygum rushes one of the assassins, trying to toss him into the water. He fails.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir casts Darkness to cover the area and hides the flash of Daz\u2019s scorching rays.",
+    "source_quote": "Zalthir covers the area with Darkness.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin rushes into the fight alongside Grygum.",
+    "source_quote": "Grygum rushes into the fight, and so does Thorin.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir finds a charcoal drawing of the Duergar merchant on one of the assassins' corpses.",
+    "source_quote": "He presents it to the Duergar. \"Oh my, I was.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum says, \"We have people who will come looking for us!\" to Themberchaud.",
+    "source_quote": "Grygum shouts, \"We have people who will come looking for us!\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir nods in agreement when Grygum says they have people looking for them.",
+    "source_quote": "Zalthir nods, \"Of course.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir reflects that deals with red dragons are never good deals.",
+    "source_quote": "Deals with red dragons are never good deals,\" thinks Zalthir.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum says, \"I suppose we are double agents, or is it triple agents? We work for the Stone Guards and the Keepers of the Flame.\"",
+    "source_quote": "Grygum, standing next to Thorin, mutters, \"I suppose we are double agents, or is it triple agents? We work for the Stone Guards and the Keepers of the Flame.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz says, \"We never technically accepted an offer. He assumed we accepted. We would like to understand the nature of the offer?\"",
+    "source_quote": "Daz gets their first, \"We never technically accepted an offer. He assumed we accepted. We would like to understand the nature of the offer?\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Gartokkar",
+    "fact": "Gartokkar says, \"Themberchaud thinks we work for him. What Themberchaud doesn\u2019t realize is that he works for us.\"",
+    "source_quote": "Gartokkar smiles conspiratorially, \"Themberchaud thinks we work for him. What Themberchaud doesn't realize is that he works for us.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum says, \"It\u2019s like when parents say that the pet puppy left even when it dies.\"",
+    "source_quote": "Grygum turns to Thorin, \"It\u2019s like when parents say that the pet puppy left even when it dies.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir hears a body falling into the water and says, \"We must get out of here before the guard shows up.\"",
+    "source_quote": "Just then, Zalthir hears a body falling into the water. Grygum has pushed the first corpse into the water. \"We must get out of here before the guard shows up.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir agrees and helps push the other body into the water.",
+    "source_quote": "Zalthir agrees and helps push the other body into the water.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir finds a box of scented candles among the assassins' corpses and passes them to Thorin.",
+    "source_quote": "Zalthir starts to rifle through the assassins' corpses and finds some coins, a pair of bloodstained gloves, and a box of candles. He notices they have a pleasant smell and passes them to Thorin.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin says, \"God, what I wouldn\u2019t do for a bath and listening to whale sounds.\"",
+    "source_quote": "The dwarf smiles, \"Scented candles!\" And then he says, \"God, what I wouldn\u2019t do for a bath and listening to whale sounds.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir offers to create an illusion of whale sounds for Thorin.",
+    "source_quote": "Zalthir chuckles, \"I could create that illusion for you.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum pushes the first corpse into the water.",
+    "source_quote": "Just then, Zalthir hears a body falling into the water. Grygum has pushed the first corpse into the water.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir helps push the second corpse into the water.",
+    "source_quote": "Zalthir agrees and helps push the other body into the water.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Gartokkar",
+    "fact": "Gartokkar says, \"We have identified an agent of the Grey Ghosts. His name is Droki.\"",
+    "source_quote": "We have identified an agent of the Grey Ghosts. His name is Droki.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Gartokkar",
+    "fact": "Gartokkar says, \"Themberchaud thinks we work for him. What Themberchaud doesn\u2019t realize is that he works for us.\"",
+    "source_quote": "Gartokkar smiles conspiratorially, \"Themberchaud thinks we work for him. What Themberchaud doesn't realize is that he works for us.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Gartokkar",
+    "fact": "Gartokkar says, \"Eventually, the Dragon moves on because he wants to see more of the world.\"",
+    "source_quote": "Eventually, the Dragon moves on because he wants to see more of the world.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Gartokkar",
+    "fact": "Gartokkar says, \"We lost face when the Gray Ghosts stole the valuable red dragon egg that would hatch Themberchaud\u2019s replacement.\"",
+    "source_quote": "We lost face when the Gray Ghosts stole the valuable red dragon egg that would hatch Themberchaud\u2019s replacement.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Gartokkar",
+    "fact": "Gartokkar says, \"He doesn\u2019t know.\"",
+    "source_quote": "He doesn\u2019t know.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Gartokkar",
+    "fact": "Gartokkar says, \"Well we will turn you over to the Stone Guards.\"",
+    "source_quote": "Well we will turn you over to the Stone Guards.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Gartokkar",
+    "fact": "Gartokkar says, \"Let me enumerate a list of potential transgressions that the dwarf, Thorin, has committed, which could warrant significant punitive action within the laws of Gracklstugh.\"",
+    "source_quote": "Let me enumerate a list of potential transgressions that the dwarf, Thorin, has committed, which could warrant significant punitive action within the laws of Gracklstugh.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Themberchaud",
+    "fact": "Themberchaud says, \"I wish to speak to them alone.\"",
+    "source_quote": "The dragon roars, \"I wish to speak to them alone.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Themberchaud",
+    "fact": "Themberchaud says, \"If I catch anyone spying, I will kill them.\"",
+    "source_quote": "The dragon bellows, \"If I catch anyone spying, I will kill them.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Themberchaud",
+    "fact": "Themberchaud says, \"You are a gold dragonborn?\"",
+    "source_quote": "The dragon turns to Zalthir, \"You are a gold dragonborn?\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Themberchaud",
+    "fact": "Themberchaud says, \"Good. I never liked gold dragons.\"",
+    "source_quote": "\"Good. I never liked gold dragons.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Themberchaud",
+    "fact": "Themberchaud says, \"Excellent! You have no family associations and nobody that can be blackmailed.\"",
+    "source_quote": "The dragon laughs, \"Excellent! You have no family associations and nobody that can be blackmailed.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Themberchaud",
+    "fact": "Themberchaud says, \"Your first mission is to do whatever the Keepers of the Flame ask you to, but report to Themberchaud first.\"",
+    "source_quote": "The dragon whispers, \"Your first mission is to do whatever the Keepers of the Flame ask you to, but report to Themberchaud first.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Gartokkar",
+    "fact": "Gartokkar says, \"I am so delighted to see that you accepted Themberchaud\u2019s offer to be an agent of ours.\"",
+    "source_quote": "Gartokkar sits down in his chamber and says, \"I am so delighted to see that you accepted Themberchaud\u2019s offer to be an agent of ours.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz says, \"The faction thinks we are working for them. Whether we do is up to us.\"",
+    "source_quote": "Daz, who has experience with the twisted, machiavellian politics of the Drow, replies, \"The faction thinks we are working for them. Whether we do is up to us.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir says, \"Deals with red dragons are never good deals,\" thinking to himself.",
+    "source_quote": "Deals with red dragons are never good deals,\" thinks Zalthir.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir says, \"I could create that illusion for you,\" offering to make whale sounds for Thorin.",
+    "source_quote": "Zalthir chuckles, \"I could create that illusion for you.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin says, \"I want to be my faction.\"",
+    "source_quote": "Thorin is exasperated and almost shouts, \"I am sorry, I can't deal with these factions. I can't keep track of who we are working for and which faction we are double-crossing. I want to be my faction.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir says, \"Convenient,\" after the Duergar merchant becomes invisible.",
+    "source_quote": "Zalthir watches as the Duergar becomes invisible. \"Convenient.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz says, \"Wererats,\" when he notices the other escapees are missing.",
+    "source_quote": "\"Wererats,\" thinks Daz.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz says, \"I think gathering intelligence is just as important,\" dismissing Jimjar\u2019s suggestion to leave.",
+    "source_quote": "Daz dismisses him, \"I think gathering intelligence is just as important.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Jimjar",
+    "fact": "Jimjar says, \"Very well,\" after shrugging at Daz\u2019s refusal to leave.",
+    "source_quote": "Jimjar shrugs and slumps into one of the beds. He sighs, \"Very well.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum says, \"I suppose we are double agents, or is it triple agents? We work for the Stone Guards and the Keepers of the Flame.\"",
+    "source_quote": "Grygum, standing next to Thorin, mutters, \"I suppose we are double agents, or is it triple agents? We work for the Stone Guards and the Keepers of the Flame.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum says, \"It\u2019s like when parents say that the pet puppy left even when it dies.\"",
+    "source_quote": "Grygum turns to Thorin, \"It\u2019s like when parents say that the pet puppy left even when it dies.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir says, \"We must get out of here before the guard shows up.\"",
+    "source_quote": "Just then, Zalthir hears a body falling into the water. Grygum has pushed the first corpse into the water. \"We must get out of here before the guard shows up.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir says, \"I could create that illusion for you,\" offering to make whale sounds for Thorin.",
+    "source_quote": "Zalthir chuckles, \"I could create that illusion for you.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin says, \"God, what I wouldn\u2019t do for a bath and listening to whale sounds.\"",
+    "source_quote": "The dwarf smiles, \"Scented candles!\" And then he says, \"God, what I wouldn\u2019t do for a bath and listening to whale sounds.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir says, \"Convenient,\" after the Duergar merchant becomes invisible.",
+    "source_quote": "Zalthir watches as the Duergar becomes invisible. \"Convenient.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz says, \"Wererats,\" when he notices the other escapees are missing.",
+    "source_quote": "\"Wererats,\" thinks Daz.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz says, \"I think gathering intelligence is just as important,\" dismissing Jimjar\u2019s suggestion to leave.",
+    "source_quote": "Daz dismisses him, \"I think gathering intelligence is just as important.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Jimjar",
+    "fact": "Jimjar says, \"Very well,\" after shrugging at Daz\u2019s refusal to leave.",
+    "source_quote": "Jimjar shrugs and slumps into one of the beds. He sighs, \"Very well.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum says, \"I suppose we are double agents, or is it triple agents? We work for the Stone Guards and the Keepers of the Flame.\"",
+    "source_quote": "Grygum, standing next to Thorin, mutters, \"I suppose we are double agents, or is it triple agents? We work for the Stone Guards and the Keepers of the Flame.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum says, \"It\u2019s like when parents say that the pet puppy left even when it dies.\"",
+    "source_quote": "Grygum turns to Thorin, \"It\u2019s like when parents say that the pet puppy left even when it dies.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir says, \"We must get out of here before the guard shows up.\"",
+    "source_quote": "Just then, Zalthir hears a body falling into the water. Grygum has pushed the first corpse into the water. \"We must get out of here before the guard shows up.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir says, \"I could create that illusion for you,\" offering to make whale sounds for Thorin.",
+    "source_quote": "Zalthir chuckles, \"I could create that illusion for you.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin says, \"God, what I wouldn\u2019t do for a bath and listening to whale sounds.\"",
+    "source_quote": "The dwarf smiles, \"Scented candles!\" And then he says, \"God, what I wouldn\u2019t do for a bath and listening to whale sounds.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir says, \"Convenient,\" after the Duergar merchant becomes invisible.",
+    "source_quote": "Zalthir watches as the Duergar becomes invisible. \"Convenient.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz says, \"Wererats,\" when he notices the other escapees are missing.",
+    "source_quote": "\"Wererats,\" thinks Daz.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz says, \"I think gathering intelligence is just as important,\" dismissing Jimjar\u2019s suggestion to leave.",
+    "source_quote": "Daz dismisses him, \"I think gathering intelligence is just as important.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Jimjar",
+    "fact": "Jimjar says, \"Very well,\" after shrugging at Daz\u2019s refusal to leave.",
+    "source_quote": "Jimjar shrugs and slumps into one of the beds. He sighs, \"Very well.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum says, \"I suppose we are double agents, or is it triple agents? We work for the Stone Guards and the Keepers of the Flame.\"",
+    "source_quote": "Grygum, standing next to Thorin, mutters, \"I suppose we are double agents, or is it triple agents? We work for the Stone Guards and the Keepers of the Flame.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum says, \"It\u2019s like when parents say that the pet puppy left even when it dies.\"",
+    "source_quote": "Grygum turns to Thorin, \"It\u2019s like when parents say that the pet puppy left even when it dies.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir says, \"We must get out of here before the guard shows up.\"",
+    "source_quote": "Just then, Zalthir hears a body falling into the water. Grygum has pushed the first corpse into the water. \"We must get out of here before the guard shows up.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir says, \"I could create that illusion for you,\" offering to make whale sounds for Thorin.",
+    "source_quote": "Zalthir chuckles, \"I could create that illusion for you.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin says, \"God, what I wouldn\u2019t do for a bath and listening to whale sounds.\"",
+    "source_quote": "The dwarf smiles, \"Scented candles!\" And then he says, \"God, what I wouldn\u2019t do for a bath and listening to whale sounds.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir says, \"Convenient,\" after the Duergar merchant becomes invisible.",
+    "source_quote": "Zalthir watches as the Duergar becomes invisible. \"Convenient.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz says, \"Wererats,\" when he notices the other escapees are missing.",
+    "source_quote": "\"Wererats,\" thinks Daz.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz says, \"I think gathering intelligence is just as important,\" dismissing Jimjar\u2019s suggestion to leave.",
+    "source_quote": "Daz dismisses him, \"I think gathering intelligence is just as important.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Jimjar",
+    "fact": "Jimjar says, \"Very well,\" after shrugging at Daz\u2019s refusal to leave.",
+    "source_quote": "Jimjar shrugs and slumps into one of the beds. He sighs, \"Very well.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum says, \"I suppose we are double agents, or is it triple agents? We work for the Stone Guards and the Keepers of the Flame.\"",
+    "source_quote": "Grygum, standing next to Thorin, mutters, \"I suppose we are double agents, or is it triple agents? We work for the Stone Guards and the Keepers of the Flame.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum says, \"It\u2019s like when parents say that the pet puppy left even when it dies.\"",
+    "source_quote": "Grygum turns to Thorin, \"It\u2019s like when parents say that the pet puppy left even when it dies.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir says, \"We must get out of here before the guard shows up.\"",
+    "source_quote": "Just then, Zalthir hears a body falling into the water. Grygum has pushed the first corpse into the water. \"We must get out of here before the guard shows up.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir says, \"I could create that illusion for you,\" offering to make whale sounds for Thorin.",
+    "source_quote": "Zalthir chuckles, \"I could create that illusion for you.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin says, \"God, what I wouldn\u2019t do for a bath and listening to whale sounds.\"",
+    "source_quote": "The dwarf smiles, \"Scented candles!\" And then he says, \"God, what I wouldn\u2019t do for a bath and listening to whale sounds.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir says, \"Convenient,\" after the Duergar merchant becomes invisible.",
+    "source_quote": "Zalthir watches as the Duergar becomes invisible. \"Convenient.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz says, \"Wererats,\" when he notices the other escapees are missing.",
+    "source_quote": "\"Wererats,\" thinks Daz.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz says, \"I think gathering intelligence is just as important,\" dismissing Jimjar\u2019s suggestion to leave.",
+    "source_quote": "Daz dismisses him, \"I think gathering intelligence is just as important.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Jimjar",
+    "fact": "Jimjar says, \"Very well,\" after shrugging at Daz\u2019s refusal to leave.",
+    "source_quote": "Jimjar shrugs and slumps into one of the beds. He sighs, \"Very well.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum says, \"I suppose we are double agents, or is it triple agents? We work for the Stone Guards and the Keepers of the Flame.\"",
+    "source_quote": "Grygum, standing next to Thorin, mutters, \"I suppose we are double agents, or is it triple agents? We work for the Stone Guards and the Keepers of the Flame.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum says, \"It\u2019s like when parents say that the pet puppy left even when it dies.\"",
+    "source_quote": "Grygum turns to Thorin, \"It\u2019s like when parents say that the pet puppy left even when it dies.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir says, \"We must get out of here before the guard shows up.\"",
+    "source_quote": "Just then, Zalthir hears a body falling into the water. Grygum has pushed the first corpse into the water. \"We must get out of here before the guard shows up.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir says, \"I could create that illusion for you,\" offering to make whale sounds for Thorin.",
+    "source_quote": "Zalthir chuckles, \"I could create that illusion for you.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin says, \"God, what I wouldn\u2019t do for a bath and listening to whale sounds.\"",
+    "source_quote": "The dwarf smiles, \"Scented candles!\" And then he says, \"God, what I wouldn\u2019t do for a bath and listening to whale sounds.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir says, \"Convenient,\" after the Duergar merchant becomes invisible.",
+    "source_quote": "Zalthir watches as the Duergar becomes invisible. \"Convenient.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz says, \"Wererats,\" when he notices the other escapees are missing.",
+    "source_quote": "\"Wererats,\" thinks Daz.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz says, \"I think gathering intelligence is just as important,\" dismissing Jimjar\u2019s suggestion to leave.",
+    "source_quote": "Daz dismisses him, \"I think gathering intelligence is just as important.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Jimjar",
+    "fact": "Jimjar says, \"Very well,\" after shrugging at Daz\u2019s refusal to leave.",
+    "source_quote": "Jimjar shrugs and slumps into one of the beds. He sighs, \"Very well.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum says, \"I suppose we are double agents, or is it triple agents? We work for the Stone Guards and the Keepers of the Flame.\"",
+    "source_quote": "Grygum, standing next to Thorin, mutters, \"I suppose we are double agents, or is it triple agents? We work for the Stone Guards and the Keepers of the Flame.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum says, \"It\u2019s like when parents say that the pet puppy left even when it dies.\"",
+    "source_quote": "Grygum turns to Thorin, \"It\u2019s like when parents say that the pet puppy left even when it dies.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir says, \"We must get out of here before the guard shows up.\"",
+    "source_quote": "Just then, Zalthir hears a body falling into the water. Grygum has pushed the first corpse into the water. \"We must get out of here before the guard shows up.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir says, \"I could create that illusion for you,\" offering to make whale sounds for Thorin.",
+    "source_quote": "Zalthir chuckles, \"I could create that illusion for you.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin says, \"God, what I wouldn\u2019t do for a bath and listening to whale sounds.\"",
+    "source_quote": "The dwarf smiles, \"Scented candles!\" And then he says, \"God, what I wouldn\u2019t do for a bath and listening to whale sounds.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir says, \"Convenient,\" after the Duergar merchant becomes invisible.",
+    "source_quote": "Zalthir watches as the Duergar becomes invisible. \"Convenient.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz says, \"Wererats,\" when he notices the other escapees are missing.",
+    "source_quote": "\"Wererats,\" thinks Daz.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz says, \"I think gathering intelligence is just as important,\" dismissing Jimjar\u2019s suggestion to leave.",
+    "source_quote": "Daz dismisses him, \"I think gathering intelligence is just as important.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Jimjar",
+    "fact": "Jimjar says, \"Very well,\" after shrugging at Daz\u2019s refusal to leave.",
+    "source_quote": "Jimjar shrugs and slumps into one of the beds. He sighs, \"Very well.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum says, \"I suppose we are double agents, or is it triple agents? We work for the Stone Guards and the Keepers of the Flame.\"",
+    "source_quote": "Grygum, standing next to Thorin, mutters, \"I suppose we are double agents, or is it triple agents? We work for the Stone Guards and the Keepers of the Flame.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum says, \"It\u2019s like when parents say that the pet puppy left even when it dies.\"",
+    "source_quote": "Grygum turns to Thorin, \"It\u2019s like when parents say that the pet puppy left even when it dies.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir says, \"We must get out of here before the guard shows up.\"",
+    "source_quote": "Just then, Zalthir hears a body falling into the water. Grygum has pushed the first corpse into the water. \"We must get out of here before the guard shows up.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir says, \"I could create that illusion for you,\" offering to make whale sounds for Thorin.",
+    "source_quote": "Zalthir chuckles, \"I could create that illusion for you.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin says, \"God, what I wouldn\u2019t do for a bath and listening to whale sounds.\"",
+    "source_quote": "The dwarf smiles, \"Scented candles!\" And then he says, \"God, what I wouldn\u2019t do for a bath and listening to whale sounds.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir says, \"Convenient,\" after the Duergar merchant becomes invisible.",
+    "source_quote": "Zalthir watches as the Duergar becomes invisible. \"Convenient.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz says, \"Wererats,\" when he notices the other escapees are missing.",
+    "source_quote": "\"Wererats,\" thinks Daz.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz says, \"I think gathering intelligence is just as important,\" dismissing Jimjar\u2019s suggestion to leave.",
+    "source_quote": "Daz dismisses him, \"I think gathering intelligence is just as important.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Jimjar",
+    "fact": "Jimjar says, \"Very well,\" after shrugging at Daz\u2019s refusal to leave.",
+    "source_quote": "Jimjar shrugs and slumps into one of the beds. He sighs, \"Very well.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum says, \"I suppose we are double agents, or is it triple agents? We work for the Stone Guards and the Keepers of the Flame.\"",
+    "source_quote": "Grygum, standing next to Thorin, mutters, \"I suppose we are double agents, or is it triple agents? We work for the Stone Guards and the Keepers of the Flame.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum says, \"It\u2019s like when parents say that the pet puppy left even when it dies.\"",
+    "source_quote": "Grygum turns to Thorin, \"It\u2019s like when parents say that the pet puppy left even when it dies.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir says, \"We must get out of here before the guard shows up.\"",
+    "source_quote": "Just then, Zalthir hears a body falling into the water. Grygum has pushed the first corpse into the water. \"We must get out of here before the guard shows up.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir says, \"I could create that illusion for you,\" offering to make whale sounds for Thorin.",
+    "source_quote": "Zalthir chuckles, \"I could create that illusion for you.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin says, \"God, what I wouldn\u2019t do for a bath and listening to whale sounds.\"",
+    "source_quote": "The dwarf smiles, \"Scented candles!\" And then he says, \"God, what I wouldn\u2019t do for a bath and listening to whale sounds.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir says, \"Convenient,\" after the Duergar merchant becomes invisible.",
+    "source_quote": "Zalthir watches as the Duergar becomes invisible. \"Convenient.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz says, \"Wererats,\" when he notices the other escapees are missing.",
+    "source_quote": "\"Wererats,\" thinks Daz.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz says, \"I think gathering intelligence is just as important,\" dismissing Jimjar\u2019s suggestion to leave.",
+    "source_quote": "Daz dismisses him, \"I think gathering intelligence is just as important.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Jimjar",
+    "fact": "Jimjar says, \"Very well,\" after shrugging at Daz\u2019s refusal to leave.",
+    "source_quote": "Jimjar shrugs and slumps into one of the beds. He sighs, \"Very well.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum says, \"I suppose we are double agents, or is it triple agents? We work for the Stone Guards and the Keepers of the Flame.\"",
+    "source_quote": "Grygum, standing next to Thorin, mutters, \"I suppose we are double agents, or is it triple agents? We work for the Stone Guards and the Keepers of the Flame.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum says, \"It\u2019s like when parents say that the pet puppy left even when it dies.\"",
+    "source_quote": "Grygum turns to Thorin, \"It\u2019s like when parents say that the pet puppy left even when it dies.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir says, \"We must get out of here before the guard shows up.\"",
+    "source_quote": "Just then, Zalthir hears a body falling into the water. Grygum has pushed the first corpse into the water. \"We must get out of here before the guard shows up.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir says, \"I could create that illusion for you,\" offering to make whale sounds for Thorin.",
+    "source_quote": "Zalthir chuckles, \"I could create that illusion for you.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin says, \"God, what I wouldn\u2019t do for a bath and listening to whale sounds.\"",
+    "source_quote": "The dwarf smiles, \"Scented candles!\" And then he says, \"God, what I wouldn\u2019t do for a bath and listening to whale sounds.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir says, \"Convenient,\" after the Duergar merchant becomes invisible.",
+    "source_quote": "Zalthir watches as the Duergar becomes invisible. \"Convenient.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz says, \"Wererats,\" when he notices the other escapees are missing.",
+    "source_quote": "\"Wererats,\" thinks Daz.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz says, \"I think gathering intelligence is just as important,\" dismissing Jimjar\u2019s suggestion to leave.",
+    "source_quote": "Daz dismisses him, \"I think gathering intelligence is just as important.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Jimjar",
+    "fact": "Jimjar says, \"Very well,\" after shrugging at Daz\u2019s refusal to leave.",
+    "source_quote": "Jimjar shrugs and slumps into one of the beds. He sighs, \"Very well.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum says, \"I suppose we are double agents, or is it triple agents? We work for the Stone Guards and the Keepers of the Flame.\"",
+    "source_quote": "Grygum, standing next to Thorin, mutters, \"I suppose we are double agents, or is it triple agents? We work for the Stone Guards and the Keepers of the Flame.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum says, \"It\u2019s like when parents say that the pet puppy left even when it dies.\"",
+    "source_quote": "Grygum turns to Thorin, \"It\u2019s like when parents say that the pet puppy left even when it dies.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir says, \"We must get out of here before the guard shows up.\"",
+    "source_quote": "Just then, Zalthir hears a body falling into the water. Grygum has pushed the first corpse into the water. \"We must get out of here before the guard shows up.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir says, \"I could create that illusion for you,\" offering to make whale sounds for Thorin.",
+    "source_quote": "Zalthir chuckles, \"I could create that illusion for you.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin says, \"God, what I wouldn\u2019t do for a bath and listening to whale sounds.\"",
+    "source_quote": "The dwarf smiles, \"Scented candles!\" And then he says, \"God, what I wouldn\u2019t do for a bath and listening to whale sounds.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir says, \"Convenient,\" after the Duergar merchant becomes invisible.",
+    "source_quote": "Zalthir watches as the Duergar becomes invisible. \"Convenient.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz says, \"Wererats,\" when he notices the other escapees are missing.",
+    "source_quote": "\"Wererats,\" thinks Daz.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz says, \"I think gathering intelligence is just as important,\" dismissing Jimjar\u2019s suggestion to leave.",
+    "source_quote": "Daz dismisses him, \"I think gathering intelligence is just as important.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Jimjar",
+    "fact": "Jimjar says, \"Very well,\" after shrugging at Daz\u2019s refusal to leave.",
+    "source_quote": "Jimjar shrugs and slumps into one of the beds. He sighs, \"Very well.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum says, \"I suppose we are double agents, or is it triple agents? We work for the Stone Guards and the Keepers of the Flame.\"",
+    "source_quote": "Grygum, standing next to Thorin, mutters, \"I suppose we are double agents, or is it triple agents? We work for the Stone Guards and the Keepers of the Flame.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum says, \"It\u2019s like when parents say that the pet puppy left even when it dies.\"",
+    "source_quote": "Grygum turns to Thorin, \"It\u2019s like when parents say that the pet puppy left even when it dies.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir says, \"We must get out of here before the guard shows up.\"",
+    "source_quote": "Just then, Zalthir hears a body falling into the water. Grygum has pushed the first corpse into the water. \"We must get out of here before the guard shows up.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir says, \"I could create that illusion for you,\" offering to make whale sounds for Thorin.",
+    "source_quote": "Zalthir chuckles, \"I could create that illusion for you.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin says, \"God, what I wouldn\u2019t do for a bath and listening to whale sounds.\"",
+    "source_quote": "The dwarf smiles, \"Scented candles!\" And then he says, \"God, what I wouldn\u2019t do for a bath and listening to whale sounds.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir says, \"Convenient,\" after the Duergar merchant becomes invisible.",
+    "source_quote": "Zalthir watches as the Duergar becomes invisible. \"Convenient.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz says, \"Wererats,\" when he notices the other escapees are missing.",
+    "source_quote": "\"Wererats,\" thinks Daz.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz says, \"I think gathering intelligence is just as important,\" dismissing Jimjar\u2019s suggestion to leave.",
+    "source_quote": "Daz dismisses him, \"I think gathering intelligence is just as important.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Jimjar",
+    "fact": "Jimjar says, \"Very well,\" after shrugging at Daz\u2019s refusal to leave.",
+    "source_quote": "Jimjar shrugs and slumps into one of the beds. He sighs, \"Very well.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum says, \"I suppose we are double agents, or is it triple agents? We work for the Stone Guards and the Keepers of the Flame.\"",
+    "source_quote": "Grygum, standing next to Thorin, mutters, \"I suppose we are double agents, or is it triple agents? We work for the Stone Guards and the Keepers of the Flame.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum says, \"It\u2019s like when parents say that the pet puppy left even when it dies.\"",
+    "source_quote": "Grygum turns to Thorin, \"It\u2019s like when parents say that the pet puppy left even when it dies.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir says, \"We must get out of here before the guard shows up.\"",
+    "source_quote": "Just then, Zalthir hears a body falling into the water. Grygum has pushed the first corpse into the water. \"We must get out of here before the guard shows up.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir says, \"I could create that illusion for you,\" offering to make whale sounds for Thorin.",
+    "source_quote": "Zalthir chuckles, \"I could create that illusion for you.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin says, \"God, what I wouldn\u2019t do for a bath and listening to whale sounds.\"",
+    "source_quote": "The dwarf smiles, \"Scented candles!\" And then he says, \"God, what I wouldn\u2019t do for a bath and listening to whale sounds.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir says, \"Convenient,\" after the Duergar merchant becomes invisible.",
+    "source_quote": "Zalthir watches as the Duergar becomes invisible. \"Convenient.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz says, \"Wererats,\" when he notices the other escapees are missing.",
+    "source_quote": "\"Wererats,\" thinks Daz.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz says, \"I think gathering intelligence is just as important,\" dismissing Jimjar\u2019s suggestion to leave.",
+    "source_quote": "Daz dismisses him, \"I think gathering intelligence is just as important.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Jimjar",
+    "fact": "Jimjar says, \"Very well,\" after shrugging at Daz\u2019s refusal to leave.",
+    "source_quote": "Jimjar shrugs and slumps into one of the beds. He sighs, \"Very well.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum says, \"I suppose we are double agents, or is it triple agents? We work for the Stone Guards and the Keepers of the Flame.\"",
+    "source_quote": "Grygum, standing next to Thorin, mutters, \"I suppose we are double agents, or is it triple agents? We work for the Stone Guards and the Keepers of the Flame.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum says, \"It\u2019s like when parents say that the pet puppy left even when it dies.\"",
+    "source_quote": "Grygum turns to Thorin, \"It\u2019s like when parents say that the pet puppy left even when it dies.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir says, \"We must get out of here before the guard shows up.\"",
+    "source_quote": "Just then, Zalthir hears a body falling into the water. Grygum has pushed the first corpse into the water. \"We must get out of here before the guard shows up.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir says, \"I could create that illusion for you,\" offering to make whale sounds for Thorin.",
+    "source_quote": "Zalthir chuckles, \"I could create that illusion for you.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin says, \"God, what I wouldn\u2019t do for a bath and listening to whale sounds.\"",
+    "source_quote": "The dwarf smiles, \"Scented candles!\" And then he says, \"God, what I wouldn\u2019t do for a bath and listening to whale sounds.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir says, \"Convenient,\" after the Duergar merchant becomes invisible.",
+    "source_quote": "Zalthir watches as the Duergar becomes invisible. \"Convenient.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz says, \"Wererats,\" when he notices the other escapees are missing.",
+    "source_quote": "\"Wererats,\" thinks Daz.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz says, \"I think gathering intelligence is just as important,\" dismissing Jimjar\u2019s suggestion to leave.",
+    "source_quote": "Daz dismisses him, \"I think gathering intelligence is just as important.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Jimjar",
+    "fact": "Jimjar says, \"Very well,\" after shrugging at Daz\u2019s refusal to leave.",
+    "source_quote": "Jimjar shrugs and slumps into one of the beds. He sighs, \"Very well.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum says, \"I suppose we are double agents, or is it triple agents? We work for the Stone Guards and the Keepers of the Flame.\"",
+    "source_quote": "Grygum, standing next to Thorin, mutters, \"I suppose we are double agents, or is it triple agents? We work for the Stone Guards and the Keepers of the Flame.\"",
+    "quote_verified": false
+  }
+]

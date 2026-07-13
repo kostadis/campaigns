@@ -1,0 +1,142 @@
+[
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The session occurs on the 5th day of the 2nd Tenday of Taraskh 1493 DR.",
+    "source_quote": "On the 5th day of the 2nd Tenday of Taraskh 1493",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "elapsed time",
+    "fact": "An hour passes between two events in the session.",
+    "source_quote": "An hour later",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "chasme count",
+    "fact": "Four chasme demons are present in the cavern above the prisoners' tower.",
+    "source_quote": "four chasme and two vrock",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "travel to Sloobludop",
+    "fact": "Sloobludop is approximately eight days away via the Darklake.",
+    "source_quote": "the town of Sloopdopblop is just eight days away",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Velkynvelve elevation",
+    "fact": "Velkynvelve sits 100 feet above the cavern floor.",
+    "source_quote": "Drow outpost was 100' in the sky",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "silver candlestick value",
+    "fact": "The silver candlesticks flanking the Lolth altar are worth 25 gp each.",
+    "source_quote": "a pair of heavy silver candlesticks worth 25 gp each",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "death time",
+    "fact": "The victim died at precisely midnight.",
+    "source_quote": "He died at roughly midnight",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "midnight tears poison",
+    "fact": "Midnight tears is a pale ochre dust from Feywild pollen that kills at midnight when ingested, and darkens upon contact with saliva.",
+    "source_quote": "Midnight tears. A highly toxic pale ochre dust, made from the pollen of a plant usually found only in the Feywild. [...] The dust stays pale ochre. What darkens it is saliva.",
+    "quote_verified": false
+  },
+  {
+    "type": "spell",
+    "subject": "sapphire summoning spell",
+    "fact": "A rare summoning spell requiring an expensive sapphire that recalls a hidden object to the caster\u2019s hand, regardless of location.",
+    "source_quote": "It's a summoning spell [...] needs a very expensive sapphire [...] you can put it someplace, you can throw it into a river or whatever. Nobody will find it, and then when you need it back, boom.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "high tower key storage",
+    "fact": "The High Tower keys are not stored on the body but summoned via spell, making physical search ineffective.",
+    "source_quote": "You don't hide the key on a body where someone can search it. You hide it nowhere at all, and you summon it when the door is in front of you.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "book poisoning method",
+    "fact": "The victim was poisoned by ingesting midnight tears dust that had been applied to pages he licked while reading.",
+    "source_quote": "Some liquid had gotten onto his finger, and the finger had gone black. [...] The dust reacts on contact with spit, and a man turning pages licks his fingers to do it.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "shapeshifter threat",
+    "fact": "A shapeshifter may be involved, capable of impersonating individuals to evade detection.",
+    "source_quote": "Keep in mind there are people who can change their form. Shapeshift. Whatever you want to call it.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "false Sylvira impersonation",
+    "fact": "Someone impersonated Sylvira Savikas on the night of the murder, a deception unknown to Kalan until revealed.",
+    "source_quote": "Is he aware that someone was pretending to be Sylvira Savikas the night of the murder? [...] That is new information.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "flora theca research site",
+    "fact": "The Flora Theca, a subsection of the Pavilion Naturalis in the Great Library, holds botanical knowledge critical to identifying the poison.",
+    "source_quote": "What there was, Fembris told me, was the Flora Theca, a subsection of the Pavilion Naturalis, inside the Great Library, dedicated to plants, herbs, and other flora.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "loket-key mechanism",
+    "fact": "The key was carried inside a locket worn around the victim\u2019s neck, now missing.",
+    "source_quote": "The key was in the locket. The locket was around the keeper's neck. The locket was gone.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "two-hand investigation theory",
+    "fact": "Two individuals searched the apartment: one who knew the key\u2019s location, one who did not, suggesting multiple perpetrators or conflicting motives.",
+    "source_quote": "Two hands had searched that apartment \u2014 one that knew exactly where to look, one that didn't.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "kalan's alibi timeline",
+    "fact": "Kalan provided a detailed timeline: 8:00 meeting with Janussi, 10:15 visit to Sylvira, morning inspection, cordon, and doubled guard at the High Tower Library.",
+    "source_quote": "The eight o'clock meeting where he'd pressed Janussi for more watchers and been refused, the quarter-past-ten visit to Sylvira Savikas... the inspection just after eight, the cordon, the posted watcher...",
+    "quote_verified": false
+  },
+  {
+    "type": "spell",
+    "subject": "truth-piercing magic",
+    "fact": "Kalan possesses a magic capable of detecting lies or revealing hidden truths, usable if suspicion arises.",
+    "source_quote": "He could sort it out? \"Of course I could.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "hearth interrogation venue",
+    "fact": "The suspect Daral Yashenti forced the investigators to meet him at the Hearth, a venue of his choosing to maintain control.",
+    "source_quote": "Daral was not coming to us. We were to go to the Hearth. [...] the suspect setting the venue, picking the ground, making the famous detectives walk to him.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "bookwyrm's dismissal",
+    "fact": "Bookwyrm officially dismissed Kalan from the case, but he remains involved unofficially, creating internal conflict.",
+    "source_quote": "Bookwyrm had made it official that he was to be nowhere near it. \"Officially,\" I said. \"See, there you go.\"",
+    "quote_verified": true
+  }
+]

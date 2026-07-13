@@ -1,0 +1,156 @@
+[
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a Duergar assassin who seeks to negotiate with the assassin guild for Werz's protection, and is gathering evidence to leverage against power brokers in Gracklstugh.",
+    "source_quote": "Daz overhears Thorin telepathically asking if Flumph will join them. Flumph says, 'I want to observe a tragedy, not be in one. I will stay here.'",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is a dwarf with experience in contract negotiation, who insists on formal agreements and financial calculations, and frequently interrupts with blunt, chaotic questions.",
+    "source_quote": "Thorin blurts, 'I don\u2019t think a group of demon worshipers is only worth 180 gold, the imbued value based on the calculation from the proposed discount.'",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is a reserved, strategic individual who learned the art of saying little, and is deeply uncomfortable with Thorin\u2019s recklessness but seeks to navigate the situation with minimal conflict.",
+    "source_quote": "Zalthir cringes. Rust speaks in a serious tone, 'Yes. We are the empty scabbard killers.'",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is a cleric of Bahamut who is saddened by the demonic possession of the egg and detects a resolve to harm the Derro magician, yet remains silent and observant.",
+    "source_quote": "The cleric of Bahamut is saddened. Daz detects a resolve to hurt the Derro magician.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Rust",
+    "fact": "Rust is a Derro assassin who identifies as an 'empty scabbard killer,' operates with cryptic formality, and defers leadership decisions to his superiors.",
+    "source_quote": "Rust speaks in a serious tone, 'Yes. We are the empty scabbard killers.'",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Eldgrim",
+    "fact": "Eldgrim is the Duergar leader of the assassin guild, blind in one eye, who refuses to sign contracts but agrees to alter lists in exchange for eliminating Demogorgon\u2019s cultists.",
+    "source_quote": "Eldgrim laughs, 'Small potatoes. I can cancel the contract for a small fee and permanently brightlist him for a small fee.'",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Werz",
+    "fact": "Werz is a target of the assassin guild whose protection is the central negotiation point; he does not wish to be a target, and his name is tied to the guild\u2019s internal lists.",
+    "source_quote": "Zalthir remembers that they had to help Werz. What Werz wants is not to be a target.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Assassin Guild of Gracklstugh",
+    "fact": "The assassin guild maintains internal lists ('brightlist' for protection, 'allow list' for non-targets) and uses soul blades as their weapon designation; they avoid written contracts to preserve perceived strength.",
+    "source_quote": "Eldgrim says, 'An assassin\u2019s guild with a card?'",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Cult of Demogorgon",
+    "fact": "The cult is a source of ongoing operational cost to the assassin guild; its elimination is the condition for Werz\u2019s protection, and its members are targeted for removal by Daz\u2019s party.",
+    "source_quote": "Eldgrim says, '...if you get rid of them, I will move Werz to the brightlist.'",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Demon Possessed Egg",
+    "fact": "A demon has already possessed the egg, rendering it devoid of any dragon essence; this revelation saddened the cleric of Bahamut and triggered the party\u2019s mission.",
+    "source_quote": "A demon has already possessed the egg. There is no dragon there.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Soul Blades",
+    "fact": "Soul blades are the Duergar assassins\u2019 term for their weapons; three are standing behind Eldgrim, symbolizing their lethal authority and tradition.",
+    "source_quote": "He also notices three soul blades, the name the Duergar assassins give themselves, standing behind what appears to be their boss.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Brightlist",
+    "fact": "The brightlist is a magical or symbolic registry maintained by the assassin guild to permanently protect individuals from targeting; its name derives from its visibility to the guild.",
+    "source_quote": "It\u2019s called bright because we can always see it.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Assassin\u2019s Lair",
+    "fact": "The assassin\u2019s lair is a 70-foot-long, 70-foot-wide cave containing a large garden and a desk with papers; it serves as the operational center of the guild under Eldgrim\u2019s command.",
+    "source_quote": "Rust marches them into a cave that is 70 feet long and 70 feet wide at its widest point. Inside is a large garden.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Raucus Mesa",
+    "fact": "The Raucus Mesa is a destination reached after traversing the fungi forest; it is the location of the assassin\u2019s lair and the site of the party\u2019s confrontation with Rust and Grimgrim.",
+    "source_quote": "He then follows the path towards the Raucus Mesa.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Proof of Assassination Guild\u2019s Existence",
+    "fact": "The party seeks tangible proof \u2014 contracts, signed agreements, or records \u2014 to expose the assassin guild to power brokers in Gracklstugh and leverage their influence.",
+    "source_quote": "Daz looks at Thorin, 'So we can use it to prove they exist later.'",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Elimination of Demogorgon\u2019s Cult",
+    "fact": "The party\u2019s primary mission is to eradicate the cult of Demogorgon to secure Werz\u2019s protection; success would also fulfill a hidden desire tied to Errde\u2019s family\u2019s murder.",
+    "source_quote": "Zalthir remembers what Errde craved, proof that the assassins killed her family.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Distribution of Information to Power Brokers",
+    "fact": "Daz proposes collecting all gathered intelligence and distributing it simultaneously to all power brokers in Gracklstugh to create chaos and enable a clean escape.",
+    "source_quote": "Daz whispers through the telepathy of Stool, 'I like the idea of collecting all of the information and then distributing it to all of the power brokers of Gracklstugh simultaneously.'",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "1st day of the 2nd Tenday of Myrtul 1493",
+    "fact": "The events unfold on this specific calendar date, marking the beginning of a critical diplomatic and violent escalation in Gracklstugh\u2019s underworld.",
+    "source_quote": "1st day of the 2nd Tenday of Myrtul 1493",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Negotiation for Werz\u2019s Protection",
+    "fact": "Daz\u2019s party negotiates with Eldgrim to remove Werz from the target list in exchange for eliminating Demogorgon\u2019s cult; the negotiation includes refusal of written contracts and demands for action over payment.",
+    "source_quote": "Eldgrim says, '...if you get rid of them, I will move Werz to the brightlist.'",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Contract Proposal Rejection",
+    "fact": "Eldgrim refuses to sign a contract, fearing it would make him appear weak, but agrees to a verbal pact conditioned on the cult\u2019s destruction.",
+    "source_quote": "If I were to eat that contract, then folks would look at me as weak.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin\u2019s Contract Disruption",
+    "fact": "Thorin\u2019s insistence on financial logic and contract formalism disrupts the negotiation, forcing Eldgrim to clarify terms and inadvertently validating the party\u2019s strategy.",
+    "source_quote": "Thorin blurts, 'I don\u2019t think a group of demon worshipers is only worth 180 gold...'",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Entry into Assassin\u2019s Chamber",
+    "fact": "Daz, Thorin, Zalthir, and Grygum enter the assassin\u2019s lair while the rest of the party is ordered to wait; this marks the pivotal moment of direct confrontation with Eldgrim.",
+    "source_quote": "Only these four will come, the rest of you... can wait here.",
+    "quote_verified": false
+  }
+]

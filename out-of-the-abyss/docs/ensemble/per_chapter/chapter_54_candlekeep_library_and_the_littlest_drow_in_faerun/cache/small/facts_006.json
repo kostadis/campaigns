@@ -1,0 +1,114 @@
+[
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is an eighth-level wizard who has kept four people alive through the Underdark, demon lords, a dragon, and House politics, and has been valuable primarily because someone with resources believes observing what happens to him may reveal a person they are interested in.",
+    "source_quote": "I have apparently been valuable this entire time primarily because someone with resources thinks watching what happens to me might reveal a person they are actually interested in.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is a spellcaster who possesses Revivify and prayer beads of full power, even when shrunken, and proposes lethal but reversible measures against targets to extract information, showing calm procedural detachment.",
+    "source_quote": "I have a Revivify spell.\" \"It's just a death light.\" \"There's only one solution. We need to kill Daz.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is a skeptical, pragmatic party member who demands enforceable outcomes, distrusts unbound promises, and insists on concrete logistics \u2014 including containment, ventilation, and reversibility \u2014 for hostile agents.",
+    "source_quote": "I don't buy it. The minute she has the information she needs, she's off, and we get jack shit.\" \"Do it, but make sure we can bring them back.\" \"She's so confident she can escape, I don't think we want to be taking her into the stronghold.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a target of theoretical murder planning, believed to be under protective influence, and is the subject of strategic observation by hostile agents who seek to uncover who is protecting him.",
+    "source_quote": "There's only one solution. We need to kill Daz.\" \"And then we'll find out who's protecting him.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "The Shrunken Spy",
+    "fact": "A formerly full-sized spy, reduced to toy-like size via a mushroom, now confined and observed, her indignation growing as she is treated as a pet \u2014 'Polly Pocket' \u2014 with ventilation holes and containment by Glabbagool.",
+    "source_quote": "Nickname her Polly Pocket.\" \"Like a hamster.\" \"She shrank to about the size of a child's toy, her voice pitched up into something that was still clearly fury but now delivered from below knee-height.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool is a silent, steady guardian assigned to contain the shrunken spy, maintaining unblinking, unwavering attention \u2014 the most earnest act witnessed in weeks.",
+    "source_quote": "Glabbagool could watch her with a single eye without breaking his stride.\" \"He had been assigned a job. He was doing the job.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Prayer Beads",
+    "fact": "The prayer beads are shrunken but at full power, possibly more deadly in miniature, and serve as a non-lethal but coercive tool of control, replacing reliance on killing or contracts.",
+    "source_quote": "I'm not relying on killing you. I'm relying on the prayer beads.\" \"Yes \u2014 in fact, I believe they may be more deadly.\" \"More potent. Good to know.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Bag of Holding",
+    "fact": "The Bag of Holding is used as a containment vessel for the shrunken spy, with holes poked for ventilation, and is paired with Glabbagool for passive surveillance.",
+    "source_quote": "We can put her in the bag of holding with Glabbagool, and he can just hold onto her.\" \"Poke holes. Let her breathe.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "House T'sarran",
+    "fact": "House T'sarran sends agents into hostile territory, operates with no regard for binding agreements, and is perceived as an enduring threat even if individual agents are neutralized.",
+    "source_quote": "Killing her wouldn't stop House T'sarran from sending more agents.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Proposal to Escort to Candlekeep",
+    "fact": "A hostile agent proposes being escorted to Candlekeep and handed to the guards, but the plan is understood to be a ruse \u2014 her confidence implies she intends to escape immediately upon arrival.",
+    "source_quote": "She eventually proposed being escorted to Candlekeep and handed to the guards \u2014 and she said it with the confidence of someone who already knew the second half of that plan didn't involve staying in Candlekeep for very long.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Who Is Protecting Daz?",
+    "fact": "The identity of Daz's unseen protector remains unknown, and is the central strategic mystery driving the party's and enemy's actions \u2014 including proposed assassination and surveillance.",
+    "source_quote": "And then we'll find out who's protecting him.\" \"The piece on the board that you move to see who else moves in response.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "The Spy's Fate",
+    "fact": "The shrunken spy's psychological unraveling and growing awareness of her vulnerability are an ongoing narrative thread \u2014 her indignation giving way to reconsideration of alternatives.",
+    "source_quote": "She was starting to wonder whether there were other fates.\" \"I understood that. Weeks in the Underdark with us will do something to a person's sense of available options.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Candlekeep",
+    "fact": "Candlekeep is perceived as a temporary destination and a potential prison, but its reputation as a secure location is undermined by the agent's implied knowledge of how to escape it.",
+    "source_quote": "So they know how to escape that prison,\" I observed. \"Is what they're telling us.",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "Session Anchor",
+    "fact": "The events described occur during an active journey toward Candlekeep, with no specific calendar date given, but framed as immediate and ongoing.",
+    "source_quote": "I have found purpose. I am the feared mage of the Ember Vanguard. This is fine.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is the only party member who treats information as a finite and valuable resource, and yet finds himself the subject of hostile theoretical murder planning while under observation by a restrained enemy.",
+    "source_quote": "I am categorically on record as being the only person in this party who treats information as a finite and valuable resource, and yet here I was, the subject of active theoretical murder planning while a restrained enemy watched us debate it.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is the feared mage of the Ember Vanguard, maintaining neutral composure despite being the target of lethal strategy and psychological manipulation.",
+    "source_quote": "I have found purpose. I am the feared mage of the Ember Vanguard. This is fine.",
+    "quote_verified": true
+  }
+]

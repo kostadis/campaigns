@@ -1,0 +1,164 @@
+[
+  {
+    "type": "npc",
+    "subject": "Basidia",
+    "fact": "Basidia is a Myconid leader concerned with preserving traditional Myconid communal structures and opposes Phylo\u2019s reorganization of society into isolated circles. They view Phylo\u2019s changes as a threat to collective identity and mental harmony.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Hepbobe",
+    "fact": "Hepbobe is a Myconid grower and loyal follower of Phylo, focused solely on food production and efficiency. They dismiss organizational debates as irrelevant to their work and believe specialization increases productivity, even if it fragments communal unity.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Phylo",
+    "fact": "Phylo is a radical Myconid reformer who seeks to restructure Myconid society by replacing the Great Circle with nested, task-specific melds. They claim the Great Seeder instructed them to abandon collective discourse in favor of focused, hierarchical coordination \u2014 a doctrine that divides the colony.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Rasharoo",
+    "fact": "Rasharoo is a Myconid Explorer who believes the natural state of Myconids is nomadic, not sedentary. They distrust Phylo\u2019s changes and fear the Grove\u2019s decay, maintaining escape routes and nutrient caches in preparation for possible flight from the corrupted colony.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Yrberop",
+    "fact": "Yrberop is a Myconid in ecstatic trance, singing of the 'Great Seeder\u2019s wedding' to the 'Great Body' and the coming of the Overbright. Their song echoes the same melody heard during Zuggtmoy\u2019s dream, indicating deep corruption and possible possession by an elder evil.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Xinaya",
+    "fact": "Xinaya was a Drow agent sent by Ilvara to capture the party but was infected by Phylo\u2019s spores and transformed into a fungal slave. She now begs for death, having been consumed by the cult of the Great Seeder and the Lady of Decay.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Jimjar",
+    "fact": "Jimjar is a Myconid who has not been infected by harmful spores but has become emotionally resigned to Phylo\u2019s changes, accepting the 'wedding' as joyous and no longer making bets \u2014 a sign of psychological surrender to the cult\u2019s influence.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "The Fungal Abomination",
+    "fact": "A corrupted hybrid of Myconid and Drow, transformed by the Great Seeder\u2019s influence. It speaks in dual voices, invites travelers to join the 'wedding,' and uses exploding corpses and acid spores as weapons, serving as the physical manifestation of the cult\u2019s grotesque theology.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Circle of Growers",
+    "fact": "The Circle of Growers is a Myconid subgroup led by Hepbobe, dedicated to food production and efficiency. They reject collective discourse and believe specialization enhances productivity, aligning with Phylo\u2019s doctrine and opposing Basidia\u2019s traditionalist views.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Circle of Explorers",
+    "fact": "The Circle of Explorers, led by Rasharoo, believes Myconids are naturally nomadic and that the Grove\u2019s corruption signals impending doom. They maintain secret escape routes and reject Phylo\u2019s sedentary reorganization, viewing it as a betrayal of Myconid essence.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Circle of Welcome",
+    "fact": "The Circle of Welcome is a death cult devoted to the Great Seeder and the Great Body. Members undergo fungal transformation, sing discordant hymns, and seek to merge with the entity through death. They are responsible for infecting Drow and Myconids alike, turning them into spore servants.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Phylo\u2019s Reorganization",
+    "fact": "Phylo has restructured Myconid society by replacing the Great Circle with nested melds: one for leaders, one for masters, and isolated task groups. This has fractured communal unity, sparked civil division, and enabled the rise of the Circle of Welcome death cult.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "The Wedding Rehearsal",
+    "fact": "A ritualistic event led by Yrberop, in which Myconids and infected Drow sing of the Great Seeder\u2019s union with the Great Body. The event is accompanied by the same chaotic melody heard during Zuggtmoy\u2019s dream, signaling the presence of an ancient, malevolent force.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "The Battle at the Garden of Welcome",
+    "fact": "The party confronts a fungal abomination, spore servants, and exploding corpses in the Garden of Welcome. Multiple allies are killed or transformed \u2014 including Sarith and Jimjar \u2014 while Daz\u2019s explosive magic inadvertently heals the abomination through corpse detonations.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Spore Servant (Drow)",
+    "fact": "Former Drow agents transformed by fungal infection into mindless, spore-emitting servants of the Great Seeder. They attack with claws and spore clouds, and their corpses explode into acid or healing spores when slain.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Spore Servant (Myconid)",
+    "fact": "Myconids corrupted by Phylo\u2019s influence and the Great Seeder\u2019s cult. They move erratically, emit toxic spores, and are driven to convert others. Their deaths trigger cascading explosions that harm allies and heal the abomination.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Fungal Abomination",
+    "fact": "A grotesque fusion of Myconid and Drow flesh, animated by the Great Seeder\u2019s will. It speaks in dual voices, commands exploding corpses, and emits acid-laced spore clouds. It is the physical avatar of the wedding cult and must be destroyed to halt the spread of corruption.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "The Great Seeder",
+    "fact": "An ancient, possibly divine entity worshipped by the Circle of Welcome. Believed to be the source of the wedding ritual and the transformation of Myconids and Drow into fungal hybrids. Its true nature is unknown, but its song echoes Zuggtmoy\u2019s presence.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "The Overbright",
+    "fact": "A mysterious, light-filled realm referenced by Yrberop and Xinaya as the destination for the 'wedding.' It is presented as a paradise by the cult, but its light is toxic to Myconids \u2014 suggesting it may be a trap, a lie, or the domain of a greater evil.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "The Lady of Decay",
+    "fact": "A title claimed by Xinaya as the force that transformed her. Likely an avatar or aspect of the Great Seeder, or perhaps a separate entity \u2014 possibly linked to Zuggtmoy \u2014 that consumes and reshapes life into fungal abominations.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Neverlight Grove",
+    "fact": "The Myconid colony\u2019s central habitat, now corrupted by Phylo\u2019s reorganization and the spread of the Circle of Welcome. Its fungal growths are mutating, its tunnels are shifting, and its light is becoming hostile \u2014 a sign of deeper spiritual decay.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Garden of Welcome",
+    "fact": "A grotesque field where Myconids and Drow are planted like seeds, their bodies fused with fungi. The ground pulses with spores, and corpses explode upon death. It is the ritual site of the Great Seeder\u2019s wedding and the epicenter of the cult\u2019s power.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Irrigation Tunnels",
+    "fact": "A network of subterranean channels maintained by Hepbobe and the Growers to sustain the colony\u2019s fungal crops. Now partially infected by the cult\u2019s spores, these tunnels may serve as secret pathways for escape \u2014 or invasion.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Spider Medallion",
+    "fact": "A Drow artifact fused with fungal growths on Xinaya\u2019s arm. Once a symbol of Lolth\u2019s favor, it is now a corrupted relic, indicating the convergence of Drow religious iconography and the Great Seeder\u2019s influence.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "The Great Seeder\u2019s Song",
+    "fact": "A discordant, rhythmless melody heard in the Garden of Welcome and during Zuggtmoy\u2019s dream. It has no beauty, only chaos and pain. Those who hear it report visions of fungal weddings and the merging of minds \u2014 suggesting it is a psychic weapon or divine hymn.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Nutrient Caches",
+    "fact": "Hidden reserves of sustenance maintained by Rasharoo and the Explorers. These caches may contain the only viable food sources left in the corrupted Grove \u2014 and could be key to survival if the colony collapses.",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The events of this chapter occur during the party\u2019s exploration of the Neverlight Grove, immediately following their discovery of the Drow cultists and preceding their ascent toward the giant mushroom at the Grove\u2019s heart.",
+    "quote_verified": false
+  }
+]

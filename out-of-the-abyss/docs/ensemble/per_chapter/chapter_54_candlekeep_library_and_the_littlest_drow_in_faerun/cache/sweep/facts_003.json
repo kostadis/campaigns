@@ -1,0 +1,331 @@
+[
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is an eighth-level wizard who has kept four people alive through the Underdark, through demon lords, through a dragon, and through House politics he was running on improvised expertise and nerve.",
+    "source_quote": "I am an eighth-level wizard. I have kept four people alive through the Underdark, through demon lords, through a dragon, through House politics I was running on improvised expertise and nerve.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum holds a Revivify spell and wields prayer beads that he claims are more deadly when shrunken.",
+    "source_quote": "Oh, I have a Revivify spell. Those prayer beads are at full power, even though they're shrunken, right? Yes \u2014 in fact, I believe they may be more deadly.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is skeptical of deals without enforcement and insists on bringing back captured enemies alive.",
+    "source_quote": "I don't buy it. The minute she has the information she needs, she's off, and we get jack shit. Do it, but make sure we can bring them back.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is the only person in the party who treats information as a finite and valuable resource, and is the subject of active theoretical murder planning while a restrained enemy watches.",
+    "source_quote": "I am categorically on record as being the only person in this party who treats information as a finite and valuable resource, and yet here I was, the subject of active theoretical murder planning while a restrained enemy watched us debate it.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Bag of Holding",
+    "fact": "The Bag of Holding contains Glabbagool and a miniaturized drow spy, with holes poked in it to let her breathe, and is shielded from sunlight as an act of mercy.",
+    "source_quote": "We can put her in the bag of holding with Glabbagool, and he can just hold onto her. Poke holes. Let her breathe. Like a hamster. The bag of holding is shade, you know, so she's not gonna be exposed to full sun.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Prayer Beads",
+    "fact": "The prayer beads are shrunken but at full power, and their potency has been confirmed by Grygum as potentially increased.",
+    "source_quote": "Those prayer beads are at full power, even though they're shrunken, right? Yes \u2014 in fact, I believe they may be more deadly. They're more potent. Good to know.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Velkynvelve Prisoner Journal",
+    "fact": "The Velkynvelve Prisoner Journal is a masterpiece of interesting value and is part of a known collection of drow prison journals held at Candlekeep.",
+    "source_quote": "This journal of the prisoners is a masterpiece of interesting value. I can't wait to study it carefully. It will go great with my other editions in drow prison journals.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Ilvara's Prayer Book",
+    "fact": "Ilvara's prayer book contains Zuggtmoy marginalia documenting a corruption timeline she observed and recorded.",
+    "source_quote": "Ilvara's prayer book with its Zuggtmoy marginalia, those careful notes documenting the corruption timeline she'd watched unfolding and apparently found worth recording.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Asha Vandree's Theological Document",
+    "fact": "Asha Vandree's theological document argues that Lolth and Zuggtmoy are equivalents, and was pressed into Grygum's hands.",
+    "source_quote": "Asha Vandree's theological argument about Lolth and Zuggtmoy as equivalents \u2014 the document I'd watched her press into Grygum's hands.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Pliinki's Journal",
+    "fact": "Pliinki's journal from the Whorlstone Caverns records a man's careful documentation of helping birth a demonic monster.",
+    "source_quote": "Pliinki's journal from the Whorlstone Caverns, the one where a man had written carefully about helping birth a demonic monster and apparently thought this was worth documenting.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Princess Ebonmire's Spellbook",
+    "fact": "Princess Ebonmire's spellbook is one of the five books offered to Candlekeep to secure FaceTime.",
+    "source_quote": "The list, when assembled: Princess Ebonmire's spellbook.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Candlekeep",
+    "fact": "Candlekeep requires one book per group for entry, but five books grant FaceTime with avowed sages and access to deeper inquiry.",
+    "source_quote": "The rules say that you must provide one book per group. But if you have come to ask more than one question and wish to intersect with many of the avowed \u2014 providing more books will get you more FaceTime.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool is an ooze who has spent days in the Bag of Holding, watching a miniaturized drow spy with one eye, and is confused by the concept of limited knowledge access.",
+    "source_quote": "Glabbagool, you get one question. Make it count. He wanted to know why we weren't simply donating every book we'd ever seen and asking questions until the end of time.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "The First Reader",
+    "fact": "The First Reader at Candlekeep received five books with barely-contained delight and expressed particular reverence for the Velkynvelve Prisoner Journal.",
+    "source_quote": "The First Reader received them with the barely-contained delight of someone who has been waiting for exactly this delivery. She lingered on the Velkynvelve Prisoner Journal with particular reverence.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "The Drow Spy",
+    "fact": "The drow spy was miniaturized to child-size, confined in the Bag of Holding, and threatened vengeance from House T'sarran while being observed by Glabbagool.",
+    "source_quote": "This is highly irregular, and House T'sarran will have its vengeance! Tiny, tiny little vengeance.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Miniaturization of the Drow Spy",
+    "fact": "The drow spy was shrunk to the size of a child's toy, her voice pitched up into fury delivered from below knee-height, and observed by Thorin with the expression of a man receiving exactly what he ordered.",
+    "source_quote": "She shrank to about the size of a child's toy, her voice pitched up into something that was still clearly fury but now delivered from below knee-height. Thorin watched this with the expression of a man receiving exactly what he ordered.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Glabbagool's Eye Proliferation",
+    "fact": "Glabbagool demonstrated his ability to produce many eyes, clarifying that googly eyes were affectations and that he could see in multiple ways as an ooze.",
+    "source_quote": "He told the spy he could poke her eyes out, then immediately clarified \u2014 with the earnestness of someone who genuinely wants to be understood \u2014 that the googly eyes were just affectations. 'I can actually see different ways. This is how ooze work. But I discovered that if you have these cute eyes, people take you more friendly.' And then, to demonstrate his actual authority, he started producing eyes. Many eyes. Proliferating eyes.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Five-Book Offering to Candlekeep",
+    "fact": "Five books were offered to Candlekeep \u2014 Princess Ebonmire's spellbook, Ilvara's prayer book, Asha Vandree's theological document, the Velkynvelve Prisoner Journal, and Pliinki's journal \u2014 to secure FaceTime with the avowed.",
+    "source_quote": "We gave all five books. The list, when assembled: Princess Ebonmire's spellbook. Ilvara's prayer book with its Zuggtmoy marginalia... Asha Vandree's theological argument... The Velkynvelve Prisoner Journal. Pliinki's journal...",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Glabbagool's Question Allocation",
+    "fact": "Glabbagool was granted one question at Candlekeep, despite his confusion over why knowledge access was limited, and his perspective was described as bracing.",
+    "source_quote": "We give all five books, and we say \u2014 Glabbagool, you get one question. Make it count. He wanted to know why we weren't simply donating every book we'd ever seen and asking questions until the end of time. This is what I mean when I say Glabbagool's perspective on the world is bracing.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "The Underdark",
+    "fact": "The Underdark is the environment through which the party traveled, where survival required improvised expertise and nerve, and where the cold is not taken personally but is structural.",
+    "source_quote": "Weeks in the Underdark with us will do something to a person's sense of available options. You don't take the cold personally. The theological document she'd written would now unlock questions in one of the greatest libraries in the world. She would have hated that.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Daz's Diplomatic Approach to Candlekeep",
+    "fact": "Daz handled the initial approach to Candlekeep with careful, measured diplomacy suited to institutions with rules posted in multiple languages.",
+    "source_quote": "Daz handled the initial approach \u2014 he usually does, being constitutionally suited to the kind of careful, measured diplomacy required when dealing with institutions that have rules posted in multiple languages.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Jimjar",
+    "fact": "Jimjar was a celestial who was apparently always a celestial, and Zalthir seeks to understand his nature through Candlekeep's resources.",
+    "source_quote": "Zalthir wanted to know about Jimjar.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Dawnbringer",
+    "fact": "Thorin seeks assistance with Dawnbringer, indicating a personal and unresolved connection to the entity.",
+    "source_quote": "Thorin wanted help with Dawnbringer.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin's Request for Therapy",
+    "fact": "Thorin explicitly stated he is seeking therapy for his issues with Dawnbringer and acknowledged it is a process, not a product.",
+    "source_quote": "Okay, but I mean, like, I'm looking for a therapist. This is not a one-question type of thing. This is \u2014 there are no shortcuts when it comes to therapy. It's a process, not a product.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "House T'sarran",
+    "fact": "House T'sarran is the drow house that threatened vengeance against the party for capturing their miniaturized spy.",
+    "source_quote": "This is highly irregular, and House T'sarran will have its vengeance!",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "The Miniaturized Spy's Confinement",
+    "fact": "The miniaturized drow spy was confined in the Bag of Holding with Glabbagool, breathing through holes, shielded from sunlight, and under constant surveillance.",
+    "source_quote": "She was small, surveilled by an ooze, breathing through holes we'd poked in the bag, and being shielded from sunlight as a kindness.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Asha Vandree",
+    "fact": "Asha Vandree authored a theological document equating Lolth and Zuggtmoy and was treated as furniture by the party during its creation.",
+    "source_quote": "I had been furniture; I had noticed the quality of her erasure without taking it personally, because it wasn't personal \u2014 it was structural, the way the Underdark is cold.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "The Bag of Holding",
+    "fact": "The Bag of Holding is a magical container that shields its contents from sunlight and allows for the containment of a miniaturized drow spy and Glabbagool.",
+    "source_quote": "We can put her in the bag of holding with Glabbagool, and he can just hold onto her. The bag of holding is shade, you know, so she's not gonna be exposed to full sun.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Glabbagool's Unblinking Surveillance",
+    "fact": "Glabbagool maintained unblinking, steady attention on the miniaturized drow spy, treating her surveillance as a job he was doing with earnestness.",
+    "source_quote": "He had been assigned a job. He was doing the job. The care in it \u2014 the steadiness of that unblinking attention \u2014 was the most earnest thing I'd seen in weeks.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "The Decision to Give Glabbagool a Question",
+    "fact": "Thorin proposed giving Glabbagool his own question at Candlekeep, and Grygum expressed curiosity about what he would ask.",
+    "source_quote": "Thorin, ever practical, pointed out that we were the primary sources \u2014 she could just interview us and save herself the reading. Then he proposed giving Glabbagool his own question, which I thought was extremely fair. Grygum said he was curious too.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "The Revelation of the Drow Prison Journal Collection",
+    "fact": "The First Reader revealed that Candlekeep holds a whole shelf of drow prison journals, including the Velkynvelve Prisoner Journal.",
+    "source_quote": "Oh, there's a whole shelf of those, isn't there? There apparently was.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Pliinki",
+    "fact": "Pliinki wrote a journal documenting his role in helping birth a demonic monster and believed it was worth recording.",
+    "source_quote": "Pliinki's journal from the Whorlstone Caverns, the one where a man had written carefully about helping birth a demonic monster and apparently thought this was worth documenting.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Whorlstone Caverns",
+    "fact": "The Whorlstone Caverns are the location where Pliinki wrote his journal documenting the birth of a demonic monster.",
+    "source_quote": "Pliinki's journal from the Whorlstone Caverns...",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Velkynvelve Prison",
+    "fact": "Velkynvelve Prison is the location of the prisoner journal now held at Candlekeep and studied by the First Reader.",
+    "source_quote": "The Velkynvelve Prisoner Journal.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "The Party's Arrival at Candlekeep",
+    "fact": "The party arrived at Candlekeep with five books, a miniaturized drow spy, and Glabbagool, and engaged with the First Reader to secure FaceTime and question access.",
+    "source_quote": "We gave all five books. The First Reader received them with the barely-contained delight... Then Thorin mentioned, with the casual energy of someone producing a rabbit from a hat, that we also had a drow.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "The Gatekeeper",
+    "fact": "The Gatekeeper at Candlekeep explained the rules for book submission and FaceTime access with the energy of someone who has repeated it thousands of times.",
+    "source_quote": "The gatekeeper explained the terms with the particular energy of someone who has explained the same terms several thousand times and has made peace with that.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "The Library of Candlekeep",
+    "fact": "The Library of Candlekeep is described as enormous, self-important, and surrounded by architecture that declares its longevity beyond civilizations.",
+    "source_quote": "The place was exactly what you'd expect from the world's most famous library: enormous, self-important, and surrounded by the kind of architecture that said we have been here longer than your entire civilization and we have the receipts.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "The Proposal to Kill Daz",
+    "fact": "Grygum proposed killing Daz, and Zalthir responded with 'It's on the list. The maybe list.'",
+    "source_quote": "Grygum said: 'There's only one solution. We need to kill Daz.' Zalthir, entirely deadpan: 'It's on the list. The maybe list.'",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Milo Goodbarrel",
+    "fact": "Milo Goodbarrel would have found a way to feel good about being significant, in contrast to the party's current state of existential tension.",
+    "source_quote": "Milo Goodbarrel would have found a way to feel good about this. Something about being significant.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "The Miniaturized Spy's Reconsideration of Options",
+    "fact": "The miniaturized drow spy, after hearing the prayer beads were more potent, visibly reconsidered her available options.",
+    "source_quote": "She looked at the beads. She looked at Grygum. She began, visibly, to reconsider the available options.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "The Party's Realization of Mercy",
+    "fact": "The party recognized their act of shielding the miniaturized spy from sunlight as an act of mercy, and Thorin confirmed it as the most honest description of their mercy.",
+    "source_quote": "This is mercy,\" Thorin confirmed. It was the most honest description of our mercy I could have asked for.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "The Ooze's Confusion About Knowledge Limits",
+    "fact": "Glabbagool was confused by the concept of limited knowledge access at Candlekeep and believed donating all books would allow unlimited questions.",
+    "source_quote": "He wanted to know why we weren't simply donating every book we'd ever seen and asking questions until the end of time.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "The Underdark",
+    "fact": "The Underdark is the environment that shaped the party's survival instincts, their moral ambiguity, and their perception of value and erasure.",
+    "source_quote": "Weeks in the Underdark with us will do something to a person's sense of available options. The theological document she'd written would now unlock questions in one of the greatest libraries in the world. She would have hated that.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "The Naming of the Drow Spy as 'Polly Pocket'",
+    "fact": "Thorin proposed naming the miniaturized drow spy 'Polly Pocket' and declared it highly demeaning.",
+    "source_quote": "Nickname her Polly Pocket,\" he said. Then, with the flat authority of someone who knows what he's doing: \"It's very demeaning.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "The Party's Accumulation of Books",
+    "fact": "The party accumulated more books than most surface libraries see in a decade, from people who no longer needed them, during their months in the Underdark.",
+    "source_quote": "We had, after months in the Underdark acquiring things from people who no longer needed them, accumulated more books than most surface libraries see in a decade.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "The First Reader's Reverence for the Velkynvelve Journal",
+    "fact": "The First Reader lingered on the Velkynvelve Prisoner Journal with particular reverence, indicating its unique historical and textual value.",
+    "source_quote": "She lingered on the Velkynvelve Prisoner Journal with particular reverence.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "The Party's Departure Toward Candlekeep",
+    "fact": "The party departed for Candlekeep with five books, a miniaturized drow spy, Glabbagool, and unresolved theological and personal questions.",
+    "source_quote": "Five books. Four of us and one ooze who had been in the dark of a bag for most of his conscious existence, watching a shrunken spy with one eye and trusting that the world above ground was worth seeing.",
+    "quote_verified": true
+  }
+]

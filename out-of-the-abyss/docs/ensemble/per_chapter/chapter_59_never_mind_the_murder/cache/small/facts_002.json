@@ -1,0 +1,128 @@
+[
+  {
+    "type": "npc",
+    "subject": "Daral",
+    "fact": "Daral is desperate, a state that makes him honest and generous in equal measure, and he paid the price for access to the Oak Tree Apothecary.",
+    "source_quote": "Daral paid it.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Leuwin",
+    "fact": "Leuwin is an elderly, absent-minded satyr druid with a pet squirrel, capable of definitively identifying poison from the book.",
+    "source_quote": "A satyr druid named Leuwin, elderly and absent-minded, with a pet squirrel, who could identify the poison from the book definitively.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Oak Tree Apothecary",
+    "fact": "The Oak Tree Apothecary is a treehouse grown into the roots of an evergreen oak, located between the Sea Warden's Tower and the House of Mechanus.",
+    "source_quote": "The Oak Tree Apothecary, he said, between the Sea Warden's Tower and the House of Mechanus, a treehouse grown into the roots of an evergreen oak.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "the book",
+    "fact": "The book was wrapped when delivered to Janussi at dinner, and its provenance became the entire case if the poison resided in its binding.",
+    "source_quote": "If the poison lived in the binding, then the book's provenance became the entire case.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "book tampering timeline",
+    "fact": "The book was placed under the evergreen tree at approximately 11am on Deadwinter's Eve; it was still wrapped when picked up by Janussi at dinner; tampering occurred between those moments, and the killer either accessed it before delivery or is Daral himself.",
+    "source_quote": "He'd dropped the book under the evergreen tree... around 11am... the book got picked up by Janussi at dinner. And at the time, it was wrapped.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "the poisoned book's origin",
+    "fact": "The poison may have been introduced before or after Daral handed over the book; the critical question is whether the tampering occurred in transit or by the recipient \u2014 and whether Daral is the murderer.",
+    "source_quote": "Or, the dude we're talking to is the killer.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is a pragmatic investigator who softened his approach with 'look, dude, we'll save you, we're not that evil,' but pressed the timeline relentlessly, suspecting Daral's guilt.",
+    "source_quote": "Thorin softened it eventually, 'look, dude, we'll save you, we're not that evil,' but the price was already extracted.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "the key",
+    "fact": "The key was clean \u2014 not bound to the summoning spell, not created by it, carrying no enchantment \u2014 which reframed the case to focus on the sapphire gem as the true retrieval token.",
+    "source_quote": "The key was clean. Not linked to that spell, not created by it, carrying no quiet enchantment under the surface.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "the sapphire gem",
+    "fact": "The sapphire is not decoration \u2014 it is the retrieval token, and must be the same one used to store and recall the object; a backup against theft, cast into the gem as a tracking-stone.",
+    "source_quote": "The sapphire isn't decoration: it's the retrieval token, and it has to be the same sapphire both to store and to recall.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "key and gem disconnection",
+    "fact": "The summoning magic was worked on a different key, meaning the sapphire gem and the stolen key are mismatched \u2014 a deliberate design to protect against theft, and a clue pointing to the murderer's foresight.",
+    "source_quote": "The summoning had been worked on a different key.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Fembris",
+    "fact": "Fembris is the minder assigned to prevent armed strangers from helping themselves to the library's contents; he left his post to attend Grygum\u2019s theological debate, creating an hour of unsupervised access.",
+    "source_quote": "Fembris asked to leave... wanted to attend a debate... Grygum's debate... Bookwyrm herself unable to politically afford to miss it.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Oval Theater",
+    "fact": "The Oval Theater is the venue for Grygum\u2019s theological debate, attended by half the avowed and Bookwyrm herself, and its significance lies in the distraction it caused.",
+    "source_quote": "a disputation in the Oval Theater on his new theology, with half the avowed already in attendance and Bookwyrm herself unable to politically afford to miss it.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "unsupervised access window",
+    "fact": "Fembris\u2019s departure created an hour without supervision \u2014 a critical gap in security that may have enabled the theft or tampering.",
+    "source_quote": "his departure handed us an hour without supervision and to say nothing of the kind out loud.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is the investigator who correctly suspected the key needed magical scrutiny, and who understood that a divining touch could reveal its origin \u2014 but the key was clean.",
+    "source_quote": "Zalthir wanted it checked for ongoing magic, and that is my function, not his. 'I can read it,' I said.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "the missing connection: who hides a key, and why",
+    "fact": "A pattern existed between the stolen key, the murdered man, and the sapphire gem \u2014 a connection a Menzoberranzan child should have closed on reflex \u2014 but it refused to resolve, leaving a gap in the account.",
+    "source_quote": "There was a connection sitting in the gem and the stolen key and the murdered man... I reached for it and came up with nothing.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "the reframe that didn't take",
+    "fact": "The realization that the summoning magic was on a different key failed to fully reframe the investigation \u2014 and that failure was the tell.",
+    "source_quote": "The reframe didn't quite take. That was the tell.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool is an entity of ooze who tried to assist in resolving the pattern, but his attempt failed, and he sank back into himself dolefully.",
+    "source_quote": "Glabbagool tried to help, an eye surfacing through the ooze, hopeful, and I came up emptier still, and the eye sank back down, dolefully, into the rest of him.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "gap in the account",
+    "fact": "The investigator refuses to call the unresolved pattern a failure \u2014 instead, it is recorded as a gap in the account, an omission to be filled.",
+    "source_quote": "I will not call that a failure. I will call it a gap in the account.",
+    "quote_verified": true
+  }
+]

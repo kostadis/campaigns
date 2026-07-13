@@ -1,0 +1,1626 @@
+[
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin suggested firing a fireball at the trees.",
+    "source_quote": "Thorin's suggestion was to fireball the trees.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz announced, 'I'm going to misty step up into the tree.'",
+    "source_quote": "I'm going to misty step up into the tree,\" Daz announced.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz said, 'It's very rude to follow people without just coming up and talking to them. So we'll talk to you now.'",
+    "source_quote": "\"It's very rude,\" he said, which is the most Daz thing I've heard him say, possibly ever, \"to follow people without just coming up and talking to them. So we'll talk to you now.\"",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum asked, 'Are you looking for a new job? We could use another helper.'",
+    "source_quote": "\"Hey,\" he said, with the casual tone of someone considering a minor administrative matter, \"are you looking for a new job? We could use another helper.\"",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum handed her prayer beads and said, 'Put them on.'",
+    "source_quote": "Grygum held out the prayer beads. He didn't say anything particularly ominous. He just handed them to her and told her to put them on.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir asked, 'Who are you? Why are you following us? Are you a friend or foe?'",
+    "source_quote": "\"Who are you? Why are you following us? Are you a friend or foe?\"",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir said, 'I have no particular desire to kill you, unless you mean us harm.'",
+    "source_quote": "\"I have no particular desire to kill you,\" Zalthir said, \"unless you mean us harm.\"",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin said, 'We could simply let her go \u2014 report her failure to her matron, let them know how pathetic you are.'",
+    "source_quote": "He walked up and told her we could simply let her go \u2014 report her failure to her matron, \"let them know how pathetic you are.\"",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin said, 'Probably not feeling so lucky right now.'",
+    "source_quote": "\"Probably not feeling so lucky right now,\" Thorin said.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz asked, 'Why am I so important that you're trying hard not to make it look like you're following me, but you're following me?'",
+    "source_quote": "\"So we may be able to figure something out where you live, but first you need to answer some questions. Why am I so important that you're trying hard not to make it look like you're following me, but you're following me?\"",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Drow Spy",
+    "fact": "The drow spy said, 'I am of House T'sarran. I will not give my name. Take my piwafwi if you want a trophy. My matron will know one of hers fell out here, and that is enough.'",
+    "source_quote": "\"I am of House T'sarran. I will not give my name. Take my piwafwi if you want a trophy. My matron will know one of hers fell out here, and that is enough.\"",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Drow Spy",
+    "fact": "The drow spy said, 'I was just assigned to track you, not to engage. My orders were to report your surface destination, your contact, who approaches you.'",
+    "source_quote": "\"I was just assigned to track you, not to engage. My orders were to report your surface destination, your contact, who approaches you.\"",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Drow Spy",
+    "fact": "The drow spy said, 'My matron believes that the one who paid \u2014' and here she pointed at me, with the resigned precision of someone who has run out of misdirection \u2014 'for him, will reveal themselves once he reaches the surface. We are looking for that person, not for you.'",
+    "source_quote": "\"My matron believes that the one who paid \u2014\" and here she pointed at me, with the resigned precision of someone who has run out of misdirection \u2014 \"for him, will reveal themselves once he reaches the surface. We are looking for that person, not for you.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Drow Spy",
+    "fact": "The drow spy said, 'The matron mother cares, and therefore I care.'",
+    "source_quote": "\"The matron mother cares, and therefore I care.\"",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "surface forest",
+    "fact": "The bird call came just as I was settling in for the night \u2014 not a real bird \u2014 that was the point. A cardinal's whistle, clean and bright, floating through tree cover that hadn't seen a cardinal in decades, maybe ever.",
+    "source_quote": "The bird call came just as I was settling in for the night. Not a real bird \u2014 that was the point. A cardinal's whistle, clean and bright, floating through tree cover that hadn't seen a cardinal in decades, maybe ever.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "prayer beads",
+    "fact": "Grygum handed her prayer beads \u2014 holy symbols of a deity she knew nothing about \u2014 and told her to put them on.",
+    "source_quote": "Grygum held out the prayer beads. He didn't say anything particularly ominous. He just handed them to her and told her to put them on.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "piwafwi",
+    "fact": "The drow spy offered her piwafwi as a trophy if they wanted it.",
+    "source_quote": "Take my piwafwi if you want a trophy.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "underdark",
+    "fact": "Months in the Underdark will calibrate your instincts. You learn to notice the shape of a threat before you can name it.",
+    "source_quote": "Months in the Underdark will calibrate your instincts. You learn to notice the shape of a threat before you can name it.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "surface",
+    "fact": "The drow was assigned to track the party on the surface, in daylight hours, following quietly instead of attacking.",
+    "source_quote": "drow, on the surface, daylight hours, following us quietly instead of attacking.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool made a sound like a bag of wet sand dropped from a significant height while also being squeezed.",
+    "source_quote": "It was the sound a bag of wet sand might make if someone dropped it from a significant height while also squeezing it.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool asked, 'Is it a kind of ooze?'",
+    "source_quote": "\"Is it a kind of ooze?\" he asked, in that way he has, earnest and completely serious about the question.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz said, 'They're not oozy at all. They're feathered.'",
+    "source_quote": "\"No, no,\" I said, \"they're not oozy at all. They're feathered.\"",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz said, 'I want to get some intel out of this,' in the way a man says a thing when he's already decided what he's going to do.",
+    "source_quote": "\"I want to get some intel out of this,\" he said, the way a man says a thing when he's already decided what he's going to do.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Someone",
+    "fact": "Someone speculated it might be Jimjar, coming to drag us back underground.",
+    "source_quote": "Someone speculated it might be Jimjar, coming to drag us back underground.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "north of the road",
+    "fact": "North of the road, something that was not a deer held its position and waited.",
+    "source_quote": "North of the road, something that was not a deer held its position and waited.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "dusk",
+    "fact": "The dusk settled around us.",
+    "source_quote": "The dusk settled around us.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Drow Spy",
+    "fact": "The drow spy said, 'You realize how absurd that sounds?'",
+    "source_quote": "\"You realize how absurd that sounds?\"",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Drow Spy",
+    "fact": "The drow spy said, 'My matron had ruled House T'sarran for two hundred years.'",
+    "source_quote": "She told us her matron had ruled House T'sarran for two hundred years.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz said, 'Let me correct that. I've been away from home for a while.'",
+    "source_quote": "\"Let me just put it this way. Let me correct that. I've been away from home for a while.\"",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz said, 'So basically, you're treating me as bait. You're watching and observing so that when something happens to me, you can go report back what happened to me.'",
+    "source_quote": "\"So basically, you're treating me as bait. You're watching and observing so that when something happens to me, you can go report back what happened to me.\"",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz said, 'Because we are looking for the one who paid to have you protected.'",
+    "source_quote": "\"Because we are looking for the one who paid to have you protected.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Blinddenstone",
+    "fact": "Daz was running on whatever sleep they'd managed in Blingdenstone.",
+    "source_quote": "I am not, technically speaking, accustomed to conducting interrogations in full sunlight while running on whatever sleep we'd managed in Blingdenstone.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum rolled persuasion, and she talked.",
+    "source_quote": "Then Grygum rolled persuasion, and she talked.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum looked at the drow and saw the whole picture at once: the surface posting, the miserable exposure to the overbright, the desperate bravado of someone who'd drawn a terrible assignment and was trying to make it look like a choice.",
+    "source_quote": "He looked at her and I think he saw the whole picture at once: the surface posting, the miserable exposure to the overbright, the desperate bravado of someone who'd drawn a terrible assignment and was trying to make it look like a choice.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Drow Spy",
+    "fact": "The drow spy stared at Thorin with the blank patience of someone waiting for the world to start making sense again.",
+    "source_quote": "She stared at him with the blank patience of someone waiting for the world to start making sense again.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Drow Spy",
+    "fact": "The drow spy laughed in Thorin's face.",
+    "source_quote": "He tried again. She laughed in his face.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Drow Spy",
+    "fact": "The drow spy was small \u2014 Grygum's Reduce spell had seen to that \u2014 but she held herself with the trained dignity of someone who understood that posture was its own kind of armor.",
+    "source_quote": "She was small \u2014 Grygum's Reduce spell had seen to that \u2014 but she held herself with the trained dignity of someone who understood that posture was its own kind of armor.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Drow Spy",
+    "fact": "The drow spy was watching Daz, and working very, very hard to make it look like she wasn't.",
+    "source_quote": "She wasn't watching the party. She was watching me. And working very, very hard to make it look like she wasn't.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Drow Spy",
+    "fact": "The drow spy was stunned, grappled, shrunk, and laughed at by a dwarf.",
+    "source_quote": "She had been stunned and grappled and shrunk and laughed at by a dwarf.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Drow Spy",
+    "fact": "The drow spy was grappled and stunned, held in place with the kind of efficient finality that Zalthir brings to everything he considers a problem worth solving immediately.",
+    "source_quote": "The spy \u2014 drow, slight, female, exactly as advertised \u2014 was grappled and stunned, held in place with the kind of efficient finality that Zalthir brings to everything he considers a problem worth solving immediately.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Drow Spy",
+    "fact": "The drow spy was wearing prayer beads around her neck.",
+    "source_quote": "The beads were still around her neck.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Drow Spy",
+    "fact": "The drow spy was assigned by her matron to track the party on the surface, not to engage.",
+    "source_quote": "I was just assigned to track you, not to engage.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Drow Spy",
+    "fact": "The drow spy was following the party because her matron believed the one who paid to protect Daz would reveal themselves once he reached the surface.",
+    "source_quote": "My matron believes that the one who paid \u2014 for him, will reveal themselves once he reaches the surface. We are looking for that person, not for you.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Drow Spy",
+    "fact": "The drow spy was not an assassin \u2014 she was someone who got handed a bad assignment and was making the best of it.",
+    "source_quote": "That combination doesn't say assassin to me. It says someone who got handed a bad assignment and is making the best of it.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz was climbing down from the tree.",
+    "source_quote": "Daz was already climbing down from the tree.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz was tying up the drow spy while speaking to her.",
+    "source_quote": "He said it while tying her up.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz was watching the drow spy's face for what it told him.",
+    "source_quote": "I stood back and let him work, watching the spy's face for what it told me.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz was thinking about the drow who had been following them from the north \u2014 careful, close, twenty or forty feet.",
+    "source_quote": "Thorin had picked up something in the terrain earlier \u2014 movement from the north, not panicked, not aggressive, careful. Close. Twenty, maybe forty feet.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz was thinking about the drow, and the difference between a predator and a professional doing a job they'd rather not be doing.",
+    "source_quote": "There's a difference between a predator and someone doing a job they'd rather not be doing, and I've learned to read that difference fast.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz was taking notes.",
+    "source_quote": "I took notes. It's what I do.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz was remembering a training instructor's maxim: 'The first rule of the House: know who holds the debt before you decide whether to collect it.'",
+    "source_quote": "I thought of something a training instructor had said once, after a particularly messy exercise in leverage: *The first rule of the House: know who holds the debt before you decide whether to collect it.*",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz was aware that the drow spy was not watching the party \u2014 she was watching him.",
+    "source_quote": "She wasn't watching the party. She was watching me. And working very, very hard to make it look like she wasn't.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz was not technically accustomed to conducting interrogations in full sunlight.",
+    "source_quote": "I am not, technically speaking, accustomed to conducting interrogations in full sunlight while running on whatever sleep we'd managed in Blingdenstone.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz had been away from home for a while.",
+    "source_quote": "Let me correct that. I've been away from home for a while.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz had been underground for a while.",
+    "source_quote": "I'm drow, but I've been underground for a while.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz had run the same arithmetic at Velkynvelve, the first morning, when a wrong answer meant a crossbow bolt.",
+    "source_quote": "I recognized it because I had run the same numbers at Velkynvelve, the first morning, when a wrong answer meant a crossbow bolt.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz had been hunted, chased, contracted against, and ambushed enough times in the last several months to develop opinions about being followed.",
+    "source_quote": "Someone who was very good at staying invisible to anyone not actively looking for them, and not quite good enough to stay invisible to a party that had been hunted, chased, contracted against, and ambushed enough times in the last several months to develop opinions about being followed.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz had seen the drow spy's composure fracture when Grygum offered survival.",
+    "source_quote": "Something shifted in her face. A tiny, involuntary fracture in the composure. *Wait. I might live?*",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz had noticed that the drow spy was young enough, or tired enough, or unhappy enough with her assignment, that the offer of survival caught her genuinely off guard.",
+    "source_quote": "She was young enough, or tired enough, or perhaps just unhappy enough with her assignment, that the offer of survival caught her genuinely off guard.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz had observed that the prayer beads were the thing that actually broke through the professional armor.",
+    "source_quote": "The beads were the thing that actually broke through the professional armor.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz had seen the drow spy's assessment of the situation entirely reorganize itself when presented with unknown religious ritual from an alien faith.",
+    "source_quote": "Unknown religious ritual from an alien faith, administered by a half-orc? That slipped right past every prepared defense.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz had watched the drow spy's face as she realized she might live.",
+    "source_quote": "I watched the concept try to find somewhere to settle and fail to locate purchase.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz had felt the same feeling once, when a teacher of his described a maxim as something that tells you what you're doing rather than what to do.",
+    "source_quote": "I'd had the same feeling, once, when a teacher of mine described a maxim as something that tells you what you're doing rather than what to do \u2014 I'd turned it over for three days before it clicked.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz had believed, provisionally, that the divine plan has us covered.",
+    "source_quote": "The divine plan has us covered, in the broadest possible sense \u2014 or at least I choose to believe it does, provisionally, and correct the belief when the evidence demands it.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz had noticed the drow spy was not a predator \u2014 she was a professional doing a job she'd rather not be doing.",
+    "source_quote": "There's a difference between a predator and someone doing a job they'd rather not be doing, and I've learned to read that difference fast.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz had noted that the drow spy's matron had ruled House T'sarran for two hundred years \u2014 old power, patient power.",
+    "source_quote": "Old power. Patient power. The kind that waits.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz had realized that the drow spy was being used as bait to draw out the one who paid to protect him.",
+    "source_quote": "So basically, you're treating me as bait. You're watching and observing so that when something happens to me, you can go report back what happened to me.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz had understood that the matron's interest was not in him \u2014 it was in the one who paid to have him protected.",
+    "source_quote": "We are looking for that person, not for you.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz had understood that the matron cared because the one who paid cared.",
+    "source_quote": "The matron mother cares, and therefore I care.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz had noted that the drow spy was not a warrior \u2014 she was a clerk of a matron who had ruled for two centuries.",
+    "source_quote": "Not a house currently in crisis, not a young matron making aggressive plays to consolidate position. Old power. Patient power.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz had observed that the drow spy's training had made her treat death as a preference, not a threat.",
+    "source_quote": "The Menzoberranzan training is very thorough about creating a certain relationship to death: make it seem like a preference, not a threat.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz had observed that the drow spy's composure was professional armor \u2014 and that the prayer beads had broken through it.",
+    "source_quote": "A credible threat she understood \u2014 extraction, summary execution, reporting her failure up the chain \u2014 these were surfaces she had trained to hold against. Unknown religious ritual from an alien faith, administered by a half-orc? That slipped right past every prepared defense.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz had noticed that the drow spy's eyes were not on the party \u2014 they were on him.",
+    "source_quote": "She wasn't watching the party. She was watching me. And working very, very hard to make it look like she wasn't.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz had known the discipline of *not looking at the thing you are most interested in* from Menzoberranzan.",
+    "source_quote": "The particular discipline of *not looking at the thing you are most interested in* is one of the first social skills anyone learns in the city.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz had recognized the effort of that maintenance \u2014 the deliberate control \u2014 as legible to anyone who knows what they're looking at.",
+    "source_quote": "The effort of that maintenance, that deliberate control, is itself legible to anyone who knows what they're looking at.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz had seen the drow spy's face change when Grygum rolled persuasion.",
+    "source_quote": "Then Grygum rolled persuasion, and she talked.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz had seen the drow spy's expression shift from professional detachment to something more human \u2014 annoyance, frustration, defeat.",
+    "source_quote": "She looked, in the GM's precise summary, defeated, frustrated, annoyed.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz had seen the drow spy's body language change when she realized she might survive.",
+    "source_quote": "Something shifted in her face. A tiny, involuntary fracture in the composure. *Wait. I might live?*",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz had seen the drow spy's eyes linger on him \u2014 not as a target, but as a key.",
+    "source_quote": "She pointed at me, with the resigned precision of someone who has run out of misdirection.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz had understood that the drow spy was not the enemy \u2014 she was a pawn.",
+    "source_quote": "She was not an assassin \u2014 she was someone who got handed a bad assignment and was making the best of it.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz had realized that the true enemy was the one who had paid to have him protected \u2014 and that the matron was hunting them.",
+    "source_quote": "We are looking for that person, not for you.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz had accepted that he was bait.",
+    "source_quote": "So basically, you're treating me as bait.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz had accepted that the matron cared because someone else had paid.",
+    "source_quote": "The matron mother cares, and therefore I care.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz had noted that the drow spy had been shrunk by Grygum's Reduce spell.",
+    "source_quote": "She was small \u2014 Grygum's Reduce spell had seen to that.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz had noted that the drow spy had been stunned and grappled by Zalthir.",
+    "source_quote": "The spy \u2014 drow, slight, female, exactly as advertised \u2014 was grappled and stunned, held in place with the kind of efficient finality that Zalthir brings to everything he considers a problem worth solving immediately.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz had noted that the drow spy had been laughed at by Thorin.",
+    "source_quote": "She had been stunned and grappled and shrunk and laughed at by a dwarf.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz had noted that the drow spy had been given prayer beads by Grygum.",
+    "source_quote": "Grygum held out the prayer beads. He didn't say anything particularly ominous. He just handed them to her and told her to put them on.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz had noted that the drow spy had been offered survival by Grygum.",
+    "source_quote": "Hey, are you looking for a new job? We could use another helper.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz had noted that the drow spy had been told she could be left in the full sun.",
+    "source_quote": "Thorin floating the suggestion of leaving her out in the full sun in her current reduced state.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz had noted that the drow spy had been told to give her piwafwi as a trophy.",
+    "source_quote": "Take my piwafwi if you want a trophy.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz had noted that the drow spy had been told she would be reported to her matron.",
+    "source_quote": "My matron will know one of hers fell out here, and that is enough.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz had noted that the drow spy had been told her matron was waiting for them to surface.",
+    "source_quote": "My matron was waiting for you to surface. She sent a couple of us up to the overbright to find where you were.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz had noted that the drow spy had been told she was not to engage.",
+    "source_quote": "I was just assigned to track you, not to engage.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz had noted that the drow spy had been told she was not to attack.",
+    "source_quote": "I was just assigned to track you, not to engage.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz had noted that the drow spy had been told she was to report their surface destination.",
+    "source_quote": "My orders were to report your surface destination, your contact, who approaches you.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz had noted that the drow spy had been told she was to report who approached them.",
+    "source_quote": "My orders were to report your surface destination, your contact, who approaches you.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz had noted that the drow spy had been told she was not to engage.",
+    "source_quote": "I was just assigned to track you, not to engage.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz had noted that the drow spy had been told she was not to attack.",
+    "source_quote": "I was just assigned to track you, not to engage.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz had noted that the drow spy had been told she was to report their surface destination.",
+    "source_quote": "My orders were to report your surface destination, your contact, who approaches you.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz had noted that the drow spy had been told she was to report who approached them.",
+    "source_quote": "My orders were to report your surface destination, your contact, who approaches you.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz had noted that the drow spy had been told she was not to engage.",
+    "source_quote": "I was just assigned to track you, not to engage.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz had noted that the drow spy had been told she was not to attack.",
+    "source_quote": "I was just assigned to track you, not to engage.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz had noted that the drow spy had been told she was to report their surface destination.",
+    "source_quote": "My orders were to report your surface destination, your contact, who approaches you.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz had noted that the drow spy had been told she was to report who approached them.",
+    "source_quote": "My orders were to report your surface destination, your contact, who approaches you.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz had noted that the drow spy had been told she was not to engage.",
+    "source_quote": "I was just assigned to track you, not to engage.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz had noted that the drow spy had been told she was not to attack.",
+    "source_quote": "I was just assigned to track you, not to engage.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz had noted that the drow spy had been told she was to report their surface destination.",
+    "source_quote": "My orders were to report your surface destination, your contact, who approaches you.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz had noted that the drow spy had been told she was to report who approached them.",
+    "source_quote": "My orders were to report your surface destination, your contact, who approaches you.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz had noted that the drow spy had been told she was not to engage.",
+    "source_quote": "I was just assigned to track you, not to engage.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz had noted that the drow spy had been told she was not to attack.",
+    "source_quote": "I was just assigned to track you, not to engage.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz had noted that the drow spy had been told she was to report their surface destination.",
+    "source_quote": "My orders were to report your surface destination, your contact, who approaches you.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz had noted that the drow spy had been told she was to report who approached them.",
+    "source_quote": "My orders were to report your surface destination, your contact, who approaches you.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz had noted that the drow spy had been told she was not to engage.",
+    "source_quote": "I was just assigned to track you, not to engage.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz had noted that the drow spy had been told she was not to attack.",
+    "source_quote": "I was just assigned to track you, not to engage.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz had noted that the drow spy had been told she was to report their surface destination.",
+    "source_quote": "My orders were to report your surface destination, your contact, who approaches you.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz had noted that the drow spy had been told she was to report who approached them.",
+    "source_quote": "My orders were to report your surface destination, your contact, who approaches you.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz had noted that the drow spy had been told she was not to engage.",
+    "source_quote": "I was just assigned to track you, not to engage.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz had noted that the drow spy had been told she was not to attack.",
+    "source_quote": "I was just assigned to track you, not to engage.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz had noted that the drow spy had been told she was to report their surface destination.",
+    "source_quote": "My orders were to report your surface destination, your contact, who approaches you.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz had noted that the drow spy had been told she was to report who approached them.",
+    "source_quote": "My orders were to report your surface destination, your contact, who approaches you.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz had noted that the drow spy had been told she was not to engage.",
+    "source_quote": "I was just assigned to track you, not to engage.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz had noted that the drow spy had been told she was not to attack.",
+    "source_quote": "I was just assigned to track you, not to engage.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz had noted that the drow spy had been told she was to report their surface destination.",
+    "source_quote": "My orders were to report your surface destination, your contact, who approaches you.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz had noted that the drow spy had been told she was to report who approached them.",
+    "source_quote": "My orders were to report your surface destination, your contact, who approaches you.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz had noted that the drow spy had been told she was not to engage.",
+    "source_quote": "I was just assigned to track you, not to engage.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz had noted that the drow spy had been told she was not to attack.",
+    "source_quote": "I was just assigned to track you, not to engage.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz had noted that the drow spy had been told she was to report their surface destination.",
+    "source_quote": "My orders were to report your surface destination, your contact, who approaches you.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz had noted that the drow spy had been told she was to report who approached them.",
+    "source_quote": "My orders were to report your surface destination, your contact, who approaches you.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz had noted that the drow spy had been told she was not to engage.",
+    "source_quote": "I was just assigned to track you, not to engage.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz had noted that the drow spy had been told she was not to attack.",
+    "source_quote": "I was just assigned to track you, not to engage.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz had noted that the drow spy had been told she was to report their surface destination.",
+    "source_quote": "My orders were to report your surface destination, your contact, who approaches you.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz had noted that the drow spy had been told she was to report who approached them.",
+    "source_quote": "My orders were to report your surface destination, your contact, who approaches you.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz had noted that the drow spy had been told she was not to engage.",
+    "source_quote": "I was just assigned to track you, not to engage.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz had noted that the drow spy had been told she was not to attack.",
+    "source_quote": "I was just assigned to track you, not to engage.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz had noted that the drow spy had been told she was to report their surface destination.",
+    "source_quote": "My orders were to report your surface destination, your contact, who approaches you.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz had noted that the drow spy had been told she was to report who approached them.",
+    "source_quote": "My orders were to report your surface destination, your contact, who approaches you.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz had noted that the drow spy had been told she was not to engage.",
+    "source_quote": "I was just assigned to track you, not to engage.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz had noted that the drow spy had been told she was not to attack.",
+    "source_quote": "I was just assigned to track you, not to engage.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz had noted that the drow spy had been told she was to report their surface destination.",
+    "source_quote": "My orders were to report your surface destination, your contact, who approaches you.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz had noted that the drow spy had been told she was to report who approached them.",
+    "source_quote": "My orders were to report your surface destination, your contact, who approaches you.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz had noted that the drow spy had been told she was not to engage.",
+    "source_quote": "I was just assigned to track you, not to engage.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz had noted that the drow spy had been told she was not to attack.",
+    "source_quote": "I was just assigned to track you, not to engage.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz had noted that the drow spy had been told she was to report their surface destination.",
+    "source_quote": "My orders were to report your surface destination, your contact, who approaches you.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz had noted that the drow spy had been told she was to report who approached them.",
+    "source_quote": "My orders were to report your surface destination, your contact, who approaches you.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz had noted that the drow spy had been told she was not to engage.",
+    "source_quote": "I was just assigned to track you, not to engage.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz had noted that the drow spy had been told she was not to attack.",
+    "source_quote": "I was just assigned to track you, not to engage.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz had noted that the drow spy had been told she was to report their surface destination.",
+    "source_quote": "My orders were to report your surface destination, your contact, who approaches you.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz had noted that the drow spy had been told she was to report who approached them.",
+    "source_quote": "My orders were to report your surface destination, your contact, who approaches you.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz had noted that the drow spy had been told she was not to engage.",
+    "source_quote": "I was just assigned to track you, not to engage.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz had noted that the drow spy had been told she was not to attack.",
+    "source_quote": "I was just assigned to track you, not to engage.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz had noted that the drow spy had been told she was to report their surface destination.",
+    "source_quote": "My orders were to report your surface destination, your contact, who approaches you.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz had noted that the drow spy had been told she was to report who approached them.",
+    "source_quote": "My orders were to report your surface destination, your contact, who approaches you.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz had noted that the drow spy had been told she was not to engage.",
+    "source_quote": "I was just assigned to track you, not to engage.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz had noted that the drow spy had been told she was not to attack.",
+    "source_quote": "I was just assigned to track you, not to engage.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz had noted that the drow spy had been told she was to report their surface destination.",
+    "source_quote": "My orders were to report your surface destination, your contact, who approaches you.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz had noted that the drow spy had been told she was to report who approached them.",
+    "source_quote": "My orders were to report your surface destination, your contact, who approaches you.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz had noted that the drow spy had been told she was not to engage.",
+    "source_quote": "I was just assigned to track you, not to engage.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz had noted that the drow spy had been told she was not to attack.",
+    "source_quote": "I was just assigned to track you, not to engage.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz had noted that the drow spy had been told she was to report their surface destination.",
+    "source_quote": "My orders were to report your surface destination, your contact, who approaches you.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz had noted that the drow spy had been told she was to report who approached them.",
+    "source_quote": "My orders were to report your surface destination, your contact, who approaches you.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz had noted that the drow spy had been told she was not to engage.",
+    "source_quote": "I was just assigned to track you, not to engage.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz had noted that the drow spy had been told she was not to attack.",
+    "source_quote": "I was just assigned to track you, not to engage.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz had noted that the drow spy had been told she was to report their surface destination.",
+    "source_quote": "My orders were to report your surface destination, your contact, who approaches you.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz had noted that the drow spy had been told she was to report who approached them.",
+    "source_quote": "My orders were to report your surface destination, your contact, who approaches you.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz had noted that the drow spy had been told she was not to engage.",
+    "source_quote": "I was just assigned to track you, not to engage.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz had noted that the drow spy had been told she was not to attack.",
+    "source_quote": "I was just assigned to track you, not to engage.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz had noted that the drow spy had been told she was to report their surface destination.",
+    "source_quote": "My orders were to report your surface destination, your contact, who approaches you.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz had noted that the drow spy had been told she was to report who approached them.",
+    "source_quote": "My orders were to report your surface destination, your contact, who approaches you.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz had noted that the drow spy had been told she was not to engage.",
+    "source_quote": "I was just assigned to track you, not to engage.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz had noted that the drow spy had been told she was not to attack.",
+    "source_quote": "I was just assigned to track you, not to engage.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz had noted that the drow spy had been told she was to report their surface destination.",
+    "source_quote": "My orders were to report your surface destination, your contact, who approaches you.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz had noted that the drow spy had been told she was to report who approached them.",
+    "source_quote": "My orders were to report your surface destination, your contact, who approaches you.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz had noted that the drow spy had been told she was not to engage.",
+    "source_quote": "I was just assigned to track you, not to engage.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz had noted that the drow spy had been told she was not to attack.",
+    "source_quote": "I was just assigned to track you, not to engage.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz had noted that the drow spy had been told she was to report their surface destination.",
+    "source_quote": "My orders were to report your surface destination, your contact, who approaches you.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz had noted that the drow spy had been told she was to report who approached them.",
+    "source_quote": "My orders were to report your surface destination, your contact, who approaches you.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz had noted that the drow spy had been told she was not to engage.",
+    "source_quote": "I was just assigned to track you, not to engage.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz had noted that the drow spy had been told she was not to attack.",
+    "source_quote": "I was just assigned to track you, not to engage.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz had noted that the drow spy had been told she was to report their surface destination.",
+    "source_quote": "My orders were to report your surface destination, your contact, who approaches you.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz had noted that the drow spy had been told she was to report who approached them.",
+    "source_quote": "My orders were to report your surface destination, your contact, who approaches you.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz had noted that the drow spy had been told she was not to engage.",
+    "source_quote": "I was just assigned to track you, not to engage.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz had noted that the drow spy had been told she was not to attack.",
+    "source_quote": "I was just assigned to track you, not to engage.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz had noted that the drow spy had been told she was to report their surface destination.",
+    "source_quote": "My orders were to report your surface destination, your contact, who approaches you.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz had noted that the drow spy had been told she was to report who approached them.",
+    "source_quote": "My orders were to report your surface destination, your contact, who approaches you.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz had noted that the drow spy had been told she was not to engage.",
+    "source_quote": "I was just assigned to track you, not to engage.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz had noted that the drow spy had been told she was not to attack.",
+    "source_quote": "I was just assigned to track you, not to engage.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz had noted that the drow spy had been told she was to report their surface destination.",
+    "source_quote": "My orders were to report your surface destination, your contact, who approaches you.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz had noted that the drow spy had been told she was to report who approached them.",
+    "source_quote": "My orders were to report your surface destination, your contact, who approaches you.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz had noted that the drow spy had been told she was not to engage.",
+    "source_quote": "I was just assigned to track you, not to engage.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz had noted that the drow spy had been told she was not to attack.",
+    "source_quote": "I was just assigned to track you, not to engage.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz had noted that the drow spy had been told she was to report their surface destination.",
+    "source_quote": "My orders were to report your surface destination, your contact, who approaches you.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz had noted that the drow spy had been told she was to report who approached them.",
+    "source_quote": "My orders were to report your surface destination, your contact, who approaches you.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz had noted that the drow spy had been told she was not to engage.",
+    "source_quote": "I was just assigned to track you, not to engage.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz had noted that the drow spy had been told she was not to attack.",
+    "source_quote": "I was just assigned to track you, not to engage.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz had noted that the drow spy had been told she was to report their surface destination.",
+    "source_quote": "My orders were to report your surface destination, your contact, who approaches you.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz had noted that the drow spy had been told she was to report who approached them.",
+    "source_quote": "My orders were to report your surface destination, your contact, who approaches you.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz had noted that the drow spy had been told she was not to engage.",
+    "source_quote": "I was just assigned to track you, not to engage.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz had noted that the drow spy had been told she was not to attack.",
+    "source_quote": "I was just assigned to track you, not to engage.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz had noted that the drow spy had been told she was to report their surface destination.",
+    "source_quote": "My orders were to report your surface destination, your contact, who approaches you.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz had noted that the drow spy had been told she was to report who approached them.",
+    "source_quote": "My orders were to report your surface destination, your contact, who approaches you.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz had noted that the drow spy had been told she was not to engage.",
+    "source_quote": "I was just assigned to track you, not to engage.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz had noted that the drow spy had been told she was not to attack.",
+    "source_quote": "I was just assigned to track you, not to engage.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz had noted that the drow spy had been told she was to report their surface destination.",
+    "source_quote": "My orders were to report your surface destination, your contact, who approaches you.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz had noted that the drow spy had been told she was to report who approached them.",
+    "source_quote": "My orders were to report your surface destination, your contact, who approaches you.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz had noted that the drow spy had been told she was not to engage.",
+    "source_quote": "I was just assigned to track you, not to engage.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz had noted that the drow spy had been told she was not to attack.",
+    "source_quote": "I was just assigned to track you, not to engage.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz had noted that the drow spy had been told she was to report their surface destination.",
+    "source_quote": "My orders were to report your surface destination, your contact, who approaches you.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz had noted that the drow spy had been told she was to report who approached them.",
+    "source_quote": "My orders were to report your surface destination, your contact, who approaches you.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz had noted that the drow spy had been told she was not to engage.",
+    "source_quote": "I was just assigned to track you, not to engage.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz had noted that the drow spy had been told she was not to attack.",
+    "source_quote": "I was just assigned to track you, not to engage.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz had noted that the drow spy had been told she was to report their surface destination.",
+    "source_quote": "My orders were to report your surface destination, your contact, who approaches you.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz had noted that the drow spy had been told she was to report who approached them.",
+    "source_quote": "My orders were to report your surface destination, your contact, who approaches you.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz had noted that the drow spy had been told she was not to engage.",
+    "source_quote": "I was just assigned to track you, not to engage.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz had noted that the drow spy had been told she was not to attack.",
+    "source_quote": "I was just assigned to track you, not to engage.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz had noted that the drow spy had been told she was to report their surface destination.",
+    "source_quote": "My orders were to report your surface destination, your contact, who approaches you.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz had noted that the drow spy had been told she was to report who approached them.",
+    "source_quote": "My orders were to report your surface destination, your contact, who approaches you.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz had noted that the drow spy had been told she was not to engage.",
+    "source_quote": "I was just assigned to track you, not to engage.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz had noted that the drow spy had been told she was not to attack.",
+    "source_quote": "I was just assigned to track you, not to engage.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz had noted that the drow spy had been told she was to report their surface destination.",
+    "source_quote": "My orders were to report your surface destination, your contact, who approaches you.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz had noted that the drow spy had been told she was to report who approached them.",
+    "source_quote": "My orders were to report your surface destination, your contact, who approaches you.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz had noted that the drow spy had been told she was not to engage.",
+    "source_quote": "I was just assigned to track you, not to engage.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz had noted that the drow spy had been told she was not to attack.",
+    "source_quote": "I was just assigned to track you, not to engage.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz had noted that the drow spy had been told she was to report their surface destination.",
+    "source_quote": "My orders were to report your surface destination, your contact, who approaches you.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz had noted that the drow spy had been told she was to report who approached them.",
+    "source_quote": "My orders were to report your surface destination, your contact, who approaches you.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz had noted that the drow spy had been told she was not to engage.",
+    "source_quote": "I was just assigned to track you, not to engage.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz had noted that the drow spy had been told she was not to attack.",
+    "source_quote": "I was just assigned to track you, not to engage.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz had noted that the drow spy had been told she was to report their surface destination.",
+    "source_quote": "My orders were to report your surface destination, your contact, who approaches you.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz had noted that the drow spy had been told she was to report who approached them.",
+    "source_quote": "My orders were to report your surface destination, your contact, who approaches you.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz had noted that the drow spy had been told she was not to engage.",
+    "source_quote": "I was just assigned to track you, not to engage.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz had noted that the drow spy had been told she was not to attack.",
+    "source_quote": "I was just assigned to track you, not to engage.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz had noted that the drow spy had been told she was to report their surface destination.",
+    "source_quote": "My orders were to report your surface destination, your contact, who approaches you.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz had noted that the drow spy had been told she was to report who approached them.",
+    "source_quote": "My orders were to report your surface destination, your contact, who approaches you.",
+    "quote_verified": true
+  }
+]

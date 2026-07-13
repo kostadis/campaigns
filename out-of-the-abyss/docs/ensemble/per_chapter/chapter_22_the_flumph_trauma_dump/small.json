@@ -1,0 +1,142 @@
+[
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is a silent, coldly efficient combatant whose psychic thoughts are sharp, precise, and lethal. He neutralized Plinki with a thought that manifested as roaring agony, then systematically dismantled the thief-derro with methodical, emotionless violence. His focus is on efficiency: identifying weaknesses, striking without waste, and maintaining absolute control. He is the lynchpin of the battle\u2019s outcome.",
+    "source_quote": "The leader is the lynchpin. Neutralize Plinki.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is a loud, direct warrior whose psychic presence is a simple, bright axe-blade of aggression. He charges into danger without hesitation, targeting threats with blunt force. His violence is unrefined but potent, embodying pure, unthinking destruction.",
+    "source_quote": "HIT THE BAD THING.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Plinki",
+    "fact": "Plinki is a derro leader whose mind is a screeching, red mess of obsession with sacrifice and power. Her thoughts radiate chaotic aggression and fanatical devotion to the Big Baboon Demon. She was the primary target of Zalthir\u2019s psychic assault, which extinguished her consciousness like a candle flame.",
+    "source_quote": "Sacrifice! Power! For the Big Baboon Demon!",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is an orc-cleric whose thoughts are earnest and golden-yellow, attempting to reason with Plinki about choice and dragon gods. His presence represents a failed appeal to reason amidst overwhelming fanaticism.",
+    "source_quote": "something about choice and dragon gods.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Eldeth",
+    "fact": "Eldeth is a dwarf whose mind abruptly shattered into a piercing 'AAAAH-PAIN!' during the battle, suggesting she was struck or wounded. Her psychic reaction was sudden and visceral, like being stabbed with a rusty needle.",
+    "source_quote": "AAAAH-PAIN!",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a clever drow whose thoughts are intricate and patient, like a spiderweb. He manipulated the environment by invoking 'Maximilian's Earthen Grasp,' causing the ground to seize and crush a floating eye-thing. He later became a psychic void, abandoning the battle to focus on retrieving the egg.",
+    "source_quote": "Maximilian's Earthen Grasp.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Pelek",
+    "fact": "Pelek is a ghost who attempted to infiltrate the thief-derro\u2019s mind but was violently repelled. His psychic intrusion felt like pouring hot tea and cold water into the same cup \u2014 a sizzling, wrong, and failed attempt at mental penetration.",
+    "source_quote": "trying to pour hot tea and cold water into the same cup",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Derk (thief-derro)",
+    "fact": "The thief-derro is a startled, agile target whose mind reacted with a sharp lemon-zest tang of surprise when Zalthir grabbed him. He was thrown off a ledge, experienced a moment of weightlessness, then died under Zalthir\u2019s methodical blows \u2014 his final sensation a crunch like biting stone.",
+    "source_quote": "What-?!",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz (wizard)",
+    "fact": "Daz the wizard became a silvery psychic void mid-battle, his presence vanishing as he focused entirely on the egg. His thoughts screamed with urgent, frantic anxiety \u2014 'Get it, get it, get it, get out!' \u2014 before he teleported away with the artifact.",
+    "source_quote": "Get it, get it, get it, get out!",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Derro",
+    "fact": "The derro as a group experienced a synchronized psychic collapse after the egg was taken. Their minds exploded in a chorus of panicked, identical thoughts \u2014 'WHERE IS THE EGG?! THE EGG! WHO HAS THE EGG?!' \u2014 leading to a total breakdown of cohesion and morale.",
+    "source_quote": "WHERE IS THE EGG?! THE EGG! WHO HAS THE EGG?!",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Floating Eye-Thing",
+    "fact": "A hostile creature with a mind that tasted like curdled milk and mindflayer static. It was crushed by Daz\u2019s earth-grasp spell, which squeezed it with a muddy, living force. Its final sensation was one of rage, indignation, and being crushed.",
+    "source_quote": "curdled milk and mindflayer static!",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "The Egg",
+    "fact": "The egg is a critical artifact that triggered the battle\u2019s collapse. Its removal caused a psychic tsunami of panic among the derro. Daz the wizard seized it and vanished, making it the focal point of the entire conflict.",
+    "source_quote": "Get it, get it, get it, get out!",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Plinki\u2019s Death",
+    "fact": "Plinki\u2019s consciousness was extinguished by Zalthir\u2019s psychic assault \u2014 a thought that manifested as roaring-hot agony. Her mind went out like a candle flame, triggering a cascade of psychological collapse among her followers.",
+    "source_quote": "The leader is the lynchpin. Neutralize Plinki.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thief-Derro\u2019s Execution",
+    "fact": "The thief-derro was seized by Zalthir, thrown from a ledge, and then methodically dismantled with precise, emotionless blows. His death was not violent in rage, but in cold, surgical efficiency \u2014 a psychic texture like a glacier moving.",
+    "source_quote": "thud, thud, thud.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Egg Retrieval",
+    "fact": "Daz the wizard abandoned the battle to retrieve the egg, becoming a silvery psychic void. His successful extraction triggered a mass psychic panic among the derro, causing their forces to shatter.",
+    "source_quote": "Get it, get it, get it, get out!",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Zalthir\u2019s Motive",
+    "fact": "Zalthir\u2019s actions suggest a deeper, unspoken agenda \u2014 he targets leaders and threats with surgical precision, avoids emotional displays, and operates with chilling efficiency. His final thought \u2014 'This one is the most dangerous. Their skill is a threat.' \u2014 implies he is eliminating key combatants to achieve a hidden goal.",
+    "source_quote": "This one is the most dangerous. Their skill is a threat.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "The Big Baboon Demon",
+    "fact": "Plinki\u2019s obsession with the 'Big Baboon Demon' suggests a deeper cultic influence at play. Its presence is not physical but psychic \u2014 a source of fanaticism, sacrifice, and red-mess aggression. Its nature and origin remain unknown.",
+    "source_quote": "For the Big Baboon Demon!",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Maximilian's Earthen Grasp",
+    "fact": "Daz invoked 'Maximilian's Earthen Grasp' as a spell or psychic command that caused the earth to seize and crush a flying monster. The origin, nature, and full capability of this ability are unknown, but it is clearly potent and precise.",
+    "source_quote": "Maximilian's Earthen Grasp.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "The Battlefield",
+    "fact": "The battlefield is a psychic landscape saturated with conflicting emotions \u2014 rage, fear, confusion, and cold calculation. It is not merely physical space but a living tapestry of mental noise, where thoughts are tangible, colors are sensory, and silence is weaponized.",
+    "source_quote": "a soup of ugly feelings",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "The Flumph",
+    "fact": "The Flumph is a sensitive, empathic creature that absorbs and processes the psychic emissions of others. It was overwhelmed by the battle\u2019s intensity but found relief in sharing its experience. Its glow settled into a soft teal \u2014 a sign of exhausted catharsis.",
+    "source_quote": "Phew. Oh, my. That... that really helps.",
+    "quote_verified": true
+  }
+]

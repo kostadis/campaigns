@@ -1,0 +1,184 @@
+[
+  {
+    "type": "npc",
+    "subject": "Queenie",
+    "fact": "Queenie is a five-year-old, sleet-grey cat who is entirely uninterested in being disturbed, and has settled into Janussi's armchair for a nap after being rudely awakened by Sylvira Savikas.",
+    "source_quote": "I did not order any more ticklers!",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Sylvira Savikas",
+    "fact": "Sylvira Savikas is a tiefling who blasted the armchamber with a lance of unerring force light, triggering a lover's quarrel with Janussi.",
+    "source_quote": "blasting the armchamber with a lance of unerring force light",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Janussi",
+    "fact": "Janussi is a man in an on-and-off-again relationship with Sylvira Savikas, who carried a locket at all times and held one of the two keys to the Hightower Library.",
+    "source_quote": "He carried it all the time. He never took it off.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daral",
+    "fact": "Daral is a man with a stinky breath whom Queenie observed running downstairs with a hypnotic block \u2014 later revealed to be the missing book, *The Golden Ass*.",
+    "source_quote": "when I later saw him run downstairs with a hypnotic block",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "The Golden Ass",
+    "fact": "The Golden Ass is a dull, mundane book that can hold a person motionless and uninterested in scratching \u2014 the missing volume taken by Daral, and the object that, when opened, prevented tickling.",
+    "source_quote": "Every time they open that block, they just sit there and don't tickle!",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "locket",
+    "fact": "The locket is an intimate object Janussi wore constantly, never removing it \u2014 its nature unknown to Queenie, but its presence confirmed.",
+    "source_quote": "I don't know what it was.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "key to the Hightower Library",
+    "fact": "One key to the Hightower Library was held by Janussi; the other rests with Kalan, the gate warden.",
+    "source_quote": "Janussi held one of the two keys to the Hightower Library.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "shapeshifter",
+    "fact": "A shapeshifter wearing Sylvira Savikas's form but lacking her scent was observed by Queenie \u2014 an imposter mimicking her appearance.",
+    "source_quote": "But she didn't smell like the demon lady, though.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Hightower Library",
+    "fact": "The Hightower Library is a restricted archive with two physical keys \u2014 one held by Janussi, the other by Kalan \u2014 and its contents were altered by unauthorized access.",
+    "source_quote": "that stuff got deleted off that book that no one should have touched",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "book access",
+    "fact": "Unauthorized access to *The Golden Ass* \u2014 likely via the key to the Hightower Library \u2014 caused deletion of its contents and induced a state of stillness in those who opened it.",
+    "source_quote": "they just sit there and don't tickle!",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "hypnotic block",
+    "fact": "The phrase 'hypnotic block' was a misdescription by Queenie for *The Golden Ass* \u2014 a clue that the witness didn't understand the true nature of the object.",
+    "source_quote": "when I later saw him run downstairs with a hypnotic block",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "shapeshifter identity",
+    "fact": "The imposter wearing Sylvira's form remains unidentified \u2014 the scent mismatch suggests a deliberate deception, possibly linked to the book's deletion or the locket's theft.",
+    "source_quote": "But she didn't smell like the demon lady, though.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "missing locket",
+    "fact": "The locket\u2019s contents or purpose are unknown \u2014 its removal or replication may be tied to the book\u2019s deletion or the shapeshifter\u2019s presence.",
+    "source_quote": "He carried it all the time. He never took it off.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Sylvira's attack",
+    "fact": "Sylvira\u2019s lance of force may have been a distraction or a cover for someone else accessing the book or locket \u2014 the timing and motive remain unclear.",
+    "source_quote": "blasting the armchamber with a lance of unerring force light",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Daral's motive",
+    "fact": "Daral\u2019s theft of *The Golden Ass* may have been for suppression \u2014 the book\u2019s effect suggests it contains dangerous or forbidden knowledge.",
+    "source_quote": "Every time they open that block, they just sit there and don't tickle!",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "morning of Sylvira's attack",
+    "fact": "Sylvira Savikas attacked Janussi\u2019s armchamber approximately thirty minutes before Queenie was awakened \u2014 occurring in the morning.",
+    "source_quote": "some thirty minutes later by our Sylvira Savikas, this is in the morning",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "evening of Daral's departure",
+    "fact": "Daral departed with *The Golden Ass* during the evening, after supper, when Queenie observed him running downstairs.",
+    "source_quote": "after supper",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "nighttime observation of imposter",
+    "fact": "The shapeshifter wearing Sylvira\u2019s form was observed prowling the nighttime cycle \u2014 after Queenie\u2019s afternoon nap and before her final departure.",
+    "source_quote": "she'd prowled the nighttime cycle and seen *the torn demon lady* coming down the steps",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Janussi's armchamber",
+    "fact": "Janussi's armchamber is the site of Sylvira\u2019s force attack and the location where Queenie napped after being disturbed.",
+    "source_quote": "blasting the armchamber with a lance of unerring force light",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Hightower Library",
+    "fact": "The Hightower Library is a restricted archive whose contents were altered \u2014 access requires one of two keys, held by Janussi and Kalan.",
+    "source_quote": "that stuff got deleted off that book that no one should have touched",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Queenie's tower",
+    "fact": "Queenie's tower is her domain \u2014 the place where all observations were made and where she finally dismissed the investigators.",
+    "source_quote": "please give yourself a proper licking before returning to my tower",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "corridor",
+    "fact": "The corridor is where Queenie retreated after Daral\u2019s noisy departure \u2014 a place of temporary refuge.",
+    "source_quote": "she retreated to the corridor",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "downstairs",
+    "fact": "Downstairs is the location Daral fled to with *The Golden Ass*, observed by Queenie as he ran with the 'hypnotic block'.",
+    "source_quote": "run downstairs with a hypnotic block",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "steps",
+    "fact": "The steps are where the shapeshifter wearing Sylvira\u2019s form was observed descending \u2014 the last known location of the imposter.",
+    "source_quote": "coming down the steps",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "the licking observation",
+    "fact": "Queenie\u2019s repeated observation that 'you hardly ever lick yourselves at all' suggests a deeper cultural or biological disconnect between cats and two-leggers \u2014 possibly a metaphor for emotional neglect or ritual failure.",
+    "source_quote": "you hardly ever lick yourselves at all",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "the cat's final dismissal",
+    "fact": "Queenie\u2019s final words \u2014 'You may now leave' \u2014 indicate she has revealed all she intends, and the investigation must now rely on inference, not further testimony.",
+    "source_quote": "You may now leave",
+    "quote_verified": true
+  }
+]

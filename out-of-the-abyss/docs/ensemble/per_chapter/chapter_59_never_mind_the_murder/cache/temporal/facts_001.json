@@ -1,0 +1,142 @@
+[
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The session occurs on the 5th day of the 2nd Tenday of Taraskh 1493 DR.",
+    "source_quote": "On the 5th day of the 2nd Tenday of Taraskh 1493",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "elapsed time",
+    "fact": "An hour passes between two events in the session.",
+    "source_quote": "an hour without supervision",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "chasme count",
+    "fact": "Four chasme demons are present in the cavern above the prisoners' tower.",
+    "source_quote": "four chasme and two vrock",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "travel to Sloobludop",
+    "fact": "Sloobludop is approximately eight days away via the Darklake.",
+    "source_quote": "the town of Sloopdopblop is just eight days away",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Velkynvelve elevation",
+    "fact": "Velkynvelve sits 100 feet above the cavern floor.",
+    "source_quote": "Drow outpost was 100' in the sky",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "silver candlestick value",
+    "fact": "The silver candlesticks flanking the Lolth altar are worth 25 gp each.",
+    "source_quote": "a pair of heavy silver candlesticks worth 25 gp each",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "key possession",
+    "fact": "The key once hung around Kalan Strongbranch's neck and was later handed to Daz.",
+    "source_quote": "It had hung around Kalan Strongbranch's neck once. I... handed it to Daz",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "sapphire summoning token",
+    "fact": "The stolen sapphire is a retrieval token for a summoning spell that binds to an item not in any living person's possession.",
+    "source_quote": "The sapphire isn't decoration: it's the retrieval token... a dead person possesses nothing",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "poison activation",
+    "fact": "The poison turns black only upon contact with a living being's saliva, not when exposed to air or inert objects.",
+    "source_quote": "When I mixed with his saliva, it turned black... The stuff only wakes up when a living thing touches it",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Oak Tree Apothecary",
+    "fact": "The Oak Tree Apothecary is located between the Sea Warden's Tower and the House of Mechanus, a treehouse grown into the roots of an evergreen oak.",
+    "source_quote": "The Oak Tree Apothecary, he said, between the Sea Warden's Tower and the House of Mechanus, a treehouse grown into the roots of an evergreen oak",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "key retrieval magic",
+    "fact": "The summoning spell requires the sapphire to be the same token used for both storage and recall \u2014 a backup against key theft.",
+    "source_quote": "The sapphire is actually used to sort of be able to retrieve the key... a backup, in other words, against theft of the original",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "poison vial",
+    "fact": "The poison, in its inactive state, appears as a clear liquid in a vial, not as a dark substance.",
+    "source_quote": "A vial of some sort of clear",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "book tampering timeline",
+    "fact": "The book was placed under the evergreen tree at 11am on Deadwinter's Eve, wrapped, and later picked up by Janussi at dinner \u2014 unchanged in appearance.",
+    "source_quote": "He'd dropped the book under the evergreen tree... around 11am on Deadwinter's Eve... wrapped",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "dining room",
+    "fact": "The dining room is one of the rooms left unwatched during the investigation, where a poisoner would logically operate.",
+    "source_quote": "The dining room, for one. Where the meals were served, and where, if you were a poisoner, you'd have wanted to be.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Fembris departure",
+    "fact": "Fembris left his post as minder to attend Grygum's theological debate, creating an hour of unsupervised access to the library.",
+    "source_quote": "Fembris asked to leave... to attend a debate... his departure handed us an hour without supervision",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "locket contents",
+    "fact": "The locket taken from the murdered man likely contained the key, which was separate from the sapphire.",
+    "source_quote": "Some locket from around the dude's neck was taken. We assume that inside that locket was the key.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir's key inspection",
+    "fact": "Zalthir's inspection of the key revealed no magical binding to the summoning spell \u2014 the key was clean and unrelated to the sapphire's magic.",
+    "source_quote": "The answer was no. The key was clean. Not linked to that spell, not created by it, carrying no quiet enchantment",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daral's confession",
+    "fact": "Daral admitted to drunken barroom talk about dragonborn, fearing it might be used to frame him, and believed Zalthir recorded everything.",
+    "source_quote": "he'd worked out someone wanted him to take the fall... nobody would mention to Zalthir what he'd said about dragonborn. Drunk, barroom talk... Zalthir said, in a voice that recorded everything",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Strongbranch's caution",
+    "fact": "Strongbranch handed over his key because he feared its magical connection to the summoning spell, and understood that a dead man cannot possess anything.",
+    "source_quote": "Strongbranch handed his off rather than wear it. Paranoid, maybe... you don't survive long arguing with a dead man's caution",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Oval Theater",
+    "fact": "The Oval Theater is where Grygum's theological debate is held, attended by half the Avowed and Bookwyrm herself.",
+    "source_quote": "a disputation in the Oval Theater on his new theology, with half the avowed already in attendance and Bookwyrm herself unable to politically afford to miss it",
+    "quote_verified": true
+  }
+]

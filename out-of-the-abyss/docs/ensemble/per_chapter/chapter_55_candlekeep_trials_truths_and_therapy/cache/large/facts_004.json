@@ -1,0 +1,72 @@
+[
+  {
+    "type": "npc",
+    "subject": "Yvenne",
+    "fact": "Yvenne is a custodian of restricted knowledge in Menzoberranzan, maintaining the public record's appearance while withholding truths beyond its scope, her physical stillness betraying deliberate concealment.",
+    "source_quote": "Yvenne\u2019s body had been disagreeing with her words for the last five minutes.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Houses of Menzoberranzan",
+    "fact": "Several noble houses in Menzoberranzan historically bore the name Daz'issin \u2014 a maternal diminutive for sons meant to ensure survival \u2014 but nearly all perished, suggesting systemic erasure tied to the name's usage.",
+    "source_quote": "The houses that had used it, most of them, did not last.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Striking of the Fourth Seat",
+    "fact": "The fourth seat in Menzoberranzan\u2019s hierarchy holds ritual archive privileges, allowing legal access to and alteration of records; its being 'struck' was not political deletion but a sophisticated, infrastructural erasure requiring payment, influence, and obfuscation.",
+    "source_quote": "Having archive privileges means having the legal apparatus to access and alter records. That a struck fourth seat was not merely a political erasure. It was the expensive kind.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Geography and Cities, Menzoberranzan, Pillars of Woe",
+    "fact": "A two-hundred-year-old heraldic text, deliberately defaced by a razor cut removing an appendix referenced in a footnote, which contained the only known record of Daz'issin\u2019s full lineage and context.",
+    "source_quote": "A razor, at least fifty years ago, someone had taken to this book and removed what the footnote pointed to.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Daz'issin",
+    "fact": "Daz'issin is a diminutive name meaning 'small shadow,' used by mothers in Menzoberranzan to invoke protection for sons \u2014 not a title, not a house, but a whispered plea for survival that became a target for annihilation.",
+    "source_quote": "Mothers use it for boys they wanted to live. That there were not many uses of it in the past three centuries.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a shortened form of Daz'issin, likely a childhood name given by a mother seeking to protect him in Menzoberranzan \u2014 a name that marks him as a survivor of erased lineage and a target of deliberate historical suppression.",
+    "source_quote": "Well, isn't my name, Daz? Maybe it's my full name?",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "The Missing Appendix",
+    "fact": "The appendix referenced in the footnote of the heraldic text was physically excised \u2014 a deliberate act of historical sabotage \u2014 leaving no record of Daz'issin\u2019s true identity, lineage, or the circumstances of his family\u2019s destruction.",
+    "source_quote": "The footnote referenced an appendix. The appendix was missing.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "The Library Room",
+    "fact": "The room is a repository of total knowledge by reputation, yet something essential is absent \u2014 a curated void indicating that the library\u2019s preservation is a lie, and its true function is selective erasure.",
+    "source_quote": "This is a library with, by reputation, all the information in the world. Something is not here that should be here.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "The Silent Patron",
+    "fact": "The patron who protected Daz is unknown, but their existence is implied by his survival \u2014 and their silence is the only record left, suggesting they are either dead, erased, or still active under cover.",
+    "source_quote": "Let us turn to your patron, she said. Did you not come here to learn who protected you?",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Historical Erasure of Daz'issin Lineage",
+    "fact": "The systematic removal of all records pertaining to Daz'issin \u2014 through book mutilation, archive strikes, and house annihilation \u2014 constitutes a large-scale, deliberate, and costly act of memory destruction targeting a single name and its bearers.",
+    "source_quote": "That is not a small act. That is a very large, very expensive, very deliberate act.",
+    "quote_verified": true
+  }
+]

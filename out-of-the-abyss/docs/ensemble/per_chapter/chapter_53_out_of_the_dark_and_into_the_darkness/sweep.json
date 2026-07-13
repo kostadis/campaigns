@@ -1,0 +1,1059 @@
+[
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a male Drow apostate with no house affiliation and no apparent strategic value.",
+    "source_quote": "You don't belong to any noble house, your background is a complete mystery, you suddenly show up, and all of a sudden, we're contracted to protect a nobody.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Nym",
+    "fact": "Nym is a Drow mercenary hired to protect Daz from House Mizzrym and House T'sarran.",
+    "source_quote": "Our terms of our contract were to make sure that the other drow factions didn't get you killed.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Kaelira",
+    "fact": "Kaelira is a Drow mercenary who expresses professional confusion about why Daz was worth such a high payment.",
+    "source_quote": "That is an excellent question. You don't belong to any noble house, your background is a complete mystery, you suddenly show up, and all of a sudden, we're contracted to protect a nobody.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Ilvara",
+    "fact": "Ilvara is a Drow house whose agents were a threat to Daz.",
+    "source_quote": "Hired to protect me \u2014 specifically, me \u2014 from Ilvara's House and from the T'sarran goons we'd just finished burning.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "House Mizzrym",
+    "fact": "House Mizzrym is one of the Drow houses identified as a threat to Daz.",
+    "source_quote": "Two threats named, she said. House Mizzrym. House T'sarran.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "House T'sarran",
+    "fact": "House T'sarran is one of the Drow houses identified as a threat to Daz.",
+    "source_quote": "Two threats named, she said. House Mizzrym. House T'sarran.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Asha Vandree",
+    "fact": "Asha Vandree is a Lolth cultist who declares herself in charge after surviving chaos.",
+    "source_quote": "The moment Asha Vandree declared herself in charge, something in me went very still.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin grapples Asha Vandree and covers her mouth to prevent her from casting spells.",
+    "source_quote": "Thorin crossed the distance and got his hands on her \u2014 properly, a full grapple, one hand clamped over her mouth before she could invoke anything else.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum attempts to use divine light against Asha Vandree but misses.",
+    "source_quote": "Grygum tried. He leveled something at her \u2014 a directed burst of divine light that should have taken her off her feet \u2014 and it missed.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir uses his Eldritch Claw Tattoo to kill Asha Vandree by striking her with precise, extended strikes.",
+    "source_quote": "One moment I was behind her, the next my hands were something else \u2014 longer, reaching \u2014 and the strikes came in sequence, each one placed with the kind of precision that the monastery's combat drills were actually good for.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "T'sarran goons",
+    "fact": "T'sarran goons were encountered and burned by Daz's party prior to the mercenaries' arrival.",
+    "source_quote": "Hired to protect me \u2014 specifically, me \u2014 from Ilvara's House and from the T'sarran goons we'd just finished burning.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "extraction contract",
+    "fact": "The extraction contract was scorched and referenced as the document at the center of the conflict.",
+    "source_quote": "Kaelira gestured toward the scorched remnants of the extraction contract the party had produced \u2014 the document that had apparently been at the center of all this.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Menzoberranzan",
+    "fact": "Menzoberranzan is the source of the Drow mercenaries and the location where the contract for Daz's protection was issued.",
+    "source_quote": "Hired in Menzoberranzan.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "why Daz is being protected",
+    "fact": "Someone in Menzoberranzan paid a large sum to protect Daz anonymously, suggesting the reason is embarrassing, illegal, or dangerous.",
+    "source_quote": "In Menzoberranzan, that level of insulation around a financial transaction means exactly one thing: the payer has significant reason not to be associated with the purchase.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Asha's claim of divine favor",
+    "fact": "Asha Vandree claims she is blessed by Lolth after surviving chaos, using it to assert authority.",
+    "source_quote": "I am blessed by Lolth!",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Milo Goodbarrel",
+    "fact": "Milo Goodbarrel is a halfling whose book Daz read extensively and who coined the phrase 'standing at the edge of the question that changes everything.'",
+    "source_quote": "Milo Goodbarrel, that relentlessly hopeful halfling whose book I'd read too many times to admit, had a phrase for the sensation I was experiencing.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "burning of T'sarran goons",
+    "fact": "Daz's party burned the party burned the T'sarran goons before the mercenaries arrived.",
+    "source_quote": "Hired to protect me \u2014 specifically, me \u2014 from Ilvara's House and from the T'sarran goons we'd just finished burning.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Asha Vandree's death",
+    "fact": "Zalthir kills Asha Vandree with precise strikes from his Eldritch Claw Tattoo.",
+    "source_quote": "One moment I was behind her, the next my hands were something else \u2014 longer, reaching \u2014 and the strikes came in sequence, each one placed with the kind of precision that the monastery's combat drills were actually good for.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Nym and Kaelira's departure",
+    "fact": "Nym and Kaelira depart professionally after concluding their contract is fulfilled.",
+    "source_quote": "The sisters departed. Professionally. Without ceremony. The contract was fulfilled; they were done.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin's grapple of Asha",
+    "fact": "Thorin grapples Asha Vandree and covers her mouth to prevent her from speaking.",
+    "source_quote": "Thorin crossed the distance and got his hands on her \u2014 properly, a full grapple, one hand clamped over her mouth before she could invoke anything else.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Grygum's failed divine light attack",
+    "fact": "Grygum attempts to use a directed burst of divine light against Asha Vandree but it misses.",
+    "source_quote": "Grygum tried. He leveled something at her \u2014 a directed burst of divine light that should have taken her off her feet \u2014 and it missed.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "The Garden Shadow",
+    "fact": "The Garden Shadow is a place or institution associated with a saying about social authority.",
+    "source_quote": "The Garden Shadow had a saying \u2014 or possibly Brother Quellin did, the one with the dusty robes who taught something about pressure points of social authority.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Brother Quellin",
+    "fact": "Brother Quellin is a figure associated with teachings about pressure points of social authority.",
+    "source_quote": "The Garden Shadow had a saying \u2014 or possibly Brother Quellin did, the one with the dusty robes who taught something about pressure points of social authority.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Brother Harren",
+    "fact": "Brother Harren taught a class on decisive action under moral uncertainty.",
+    "source_quote": "I think it was Brother Harren, the one who never sat down, who taught it.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Daz's unknown origins",
+    "fact": "Daz's background is a complete mystery, and no one knows why he is being protected.",
+    "source_quote": "You don't belong to any noble house, your background is a complete mystery, you suddenly show up...",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Eldritch Claw Tattoo",
+    "fact": "Zalthir uses his Eldritch Claw Tattoo to deliver precise, extended strikes that kill Asha Vandree.",
+    "source_quote": "The Eldritch Claw Tattoo doesn't announce itself. One moment I was behind her, the next my hands were something else \u2014 longer, reaching \u2014 and the strikes came in sequence...",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Velkynvelve",
+    "fact": "Velkynvelve is a location or event referenced by Daz as the starting point of his internal list of enemies.",
+    "source_quote": "I'd been running a list in the back of my head since Velkynvelve \u2014 the kind of list you keep when your life depends on knowing who wants what.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "jailer's ring",
+    "fact": "A jailer's ring with iron keys, each worn smooth from years of use, was found.",
+    "source_quote": "The keys were the first thing I noticed. A jailer's ring, iron and heavy, each key worn smooth from years of use.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "chest of coin",
+    "fact": "A chest of coin containing Velkynvelve's operational budget in gold and silver was discovered.",
+    "source_quote": "The payroll was next \u2014 a chest of coin, Velkynvelve's operational budget rendered in gold and silver.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "prisoner belongings chest",
+    "fact": "The confiscated prisoner belongings chest contained personal items, including Thorin's tooth and other artifacts of ownership.",
+    "source_quote": "Confiscated prisoner belongings. Ilvara had been carrying it. ... I opened it, and the contents were exactly what you would expect from someone who understood that stripping a prisoner of their possessions is the first act of stripping them of themselves.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Thorin's tooth",
+    "fact": "Thorin retrieved his tooth from the confiscated prisoner belongings chest.",
+    "source_quote": "He reached in and found it.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "water-damaged journal",
+    "fact": "A water-damaged journal from an unnamed prisoner, with swollen pages and running ink, was found.",
+    "source_quote": "We also found a water-damaged journal from a prisoner we would never meet \u2014 someone who had written things down and then, presumably, stopped being able to.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "flask of Overbright brandy",
+    "fact": "A flask of Overbright brandy was recovered and received with personal interest.",
+    "source_quote": "The flask of Overbright brandy I received with considerably more personal interest.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "holy symbol of Lolth",
+    "fact": "A holy symbol of Lolth was looted from Asha Vandree's body.",
+    "source_quote": "The holy symbol of Lolth. Chain mail. Prayer beads. And a sealed wax pouch.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "chain mail",
+    "fact": "Chain mail was looted from Asha Vandree's body.",
+    "source_quote": "The holy symbol of Lolth. Chain mail. Prayer beads. And a sealed wax pouch.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "prayer beads",
+    "fact": "Prayer beads were looted from Asha Vandree's body.",
+    "source_quote": "The holy symbol of Lolth. Chain mail. Prayer beads. And a sealed wax pouch.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "sealed wax pouch",
+    "fact": "A sealed wax pouch was taken from Asha Vandree's body.",
+    "source_quote": "The holy symbol of Lolth. Chain mail. Prayer beads. And a sealed wax pouch.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Drow cloak",
+    "fact": "Zalthir took the Drow cloak made of fine spider-silk that drinks shadow from Asha Vandree's body.",
+    "source_quote": "Zalthir took the Drow cloak she'd been wearing \u2014 the fine spider-silk kind that drinks shadow \u2014 and I did not begrudge him that.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "theological manuscript",
+    "fact": "The sealed wax pouch contained pages of close, careful script detailing a theological exploration claiming Lolth and Zuggtmoy are the same.",
+    "source_quote": "Inside were pages of close, careful script \u2014 the handwriting of someone who had once been methodical, who had trained as a theologian and brought that training to bear on a question that should not have been asked. I read far enough to understand what it was, and then I looked up. 'It's basically a long theological exploration of why Zuggtmoy and Lolth \u2014 and claiming that Lolth and Zuggtmoy are the same thing.'",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Ilvara",
+    "fact": "Ilvara was a high priestess of Lolth who carried prisoner belongings as trophies and was subverted by Zuggtmoy.",
+    "source_quote": "Confiscated prisoner belongings. Ilvara had been carrying it. Of course she had \u2014 she was exactly the sort of high priestess who would keep trophies, who would drag along evidence of her ownership of people the way some clerics keep relics.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Asha Vandree",
+    "fact": "Asha Vandree was a cleric of Lolth who also became a cleric of Zuggtmoy.",
+    "source_quote": "Asha Vandree had been a cleric of Lolth who had also become, in some capacity, a cleric of Zuggtmoy.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir took the Drow cloak from Asha Vandree's body.",
+    "source_quote": "Zalthir took the Drow cloak she'd been wearing \u2014 the fine spider-silk kind that drinks shadow \u2014 and I did not begrudge him that.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin retrieved his tooth from the confiscated prisoner belongings chest.",
+    "source_quote": "He reached in and found it.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz was cataloguing the room and paying attention to the implications of the recovered items.",
+    "source_quote": "Daz looked over from where he was already cataloguing the rest of the room. ... Daz was paying attention in the way he pays attention to things \u2014 still, cataloguing, already working the implications.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Gorg'Bahamut",
+    "fact": "Gorg'Bahamut was the narrator's mentor who would have wanted a pious remark about the dignity of the dead.",
+    "source_quote": "My mentor Gorg'Bahamut would have wanted me to.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Ilvara's prayer book",
+    "fact": "Ilvara's prayer book was a standard Lolth devotional text with marginalia in a different hand documenting her corruption by Zuggtmoy.",
+    "source_quote": "Ilvara's prayer book was still on the body when we got to her. ... The main text was a standard Lolth prayer book ... The marginalia told the story. ... a different hand ... since it shows the corruption timeline.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "corruption timeline",
+    "fact": "The marginalia in Ilvara's prayer book documented a gradual corruption timeline from orthodox Lolth worship to Zuggtmoy influence.",
+    "source_quote": "The marginalia told the story. ... The early entries were neat and formal ... Then, gradually, around the margins, a second voice crept in. ... The corruption timeline was legible if you knew how to read it.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Tongued merchant reference",
+    "fact": "The narrator recalled a merchant once Tongued by a bardic curse whose correspondence mirrored Ilvara's marginalia.",
+    "source_quote": "I had seen something like this before, in a completely different context \u2014 a merchant I once knew who had been Tongued by a bardic curse, whose correspondence from that period was eerily similar.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "sealed orders from House Mizzrym",
+    "fact": "Sealed orders from House Mizzrym were found, asking where Ilvara was and expressing increasing urgency.",
+    "source_quote": "The sealed orders from House Mizzrym were more immediately practical ... 'Where are you? What have you been doing? Respond \u2014 kind of thing. You've gone missing. Followed by more frantic: where are you, where are you? Didn't you read the previous memo? What's up?'",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "letter from Neverlight Grove",
+    "fact": "A letter from Neverlight Grove was found, referencing a missed meeting with Ilvara.",
+    "source_quote": "The letter from Neverlight Grove completed the picture, in a grim sort of way. A missed meeting. Political correspondence that had gone nowhere, because the person it was addressed to had gone somewhere else.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Living Serpent Head Scourge",
+    "fact": "A Living Serpent Head Scourge, with a head that was a living serpent in an intermediate state between alive and not, was found on Ilvara's body.",
+    "source_quote": "The last item was on Ilvara herself. 'The Living Serpent Head Scourge sounds...' ... a scourge whose head was an actual living serpent, or had been, in some intermediate state between alive and not.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Drow outpost",
+    "fact": "The Drow outpost contained a jailer's ring, a chest of coin, a prisoner belongings chest, a water-damaged journal, a flask of brandy, Asha Vandree's remains, Ilvara's body, and various documents and artifacts.",
+    "source_quote": "The keys were the first thing I noticed... The payroll was next... Then I saw the other chest... We also found a water-damaged journal... The flask of Overbright brandy... Asha Vandree's body was next... Ilvara's prayer book was still on the body... The sealed orders from House Mizzrym... The letter from Neverlight Grove... The last item was on Ilvara herself.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "looting Asha Vandree",
+    "fact": "Asha Vandree's body was looted, yielding a holy symbol of Lolth, chain mail, prayer beads, and a sealed wax pouch.",
+    "source_quote": "I looted her with the efficient respect one extends to a theological problem that has been resolved. The holy symbol of Lolth. Chain mail. Prayer beads. And a sealed wax pouch.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "opening the wax pouch",
+    "fact": "The sealed wax pouch was opened and revealed a theological manuscript claiming Lolth and Zuggtmoy are the same.",
+    "source_quote": "The seal broke cleanly. Inside were pages of close, careful script \u2014 the handwriting of someone who had once been methodical... I read far enough to understand what it was...",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "examining Ilvara's prayer book",
+    "fact": "Ilvara's prayer book was examined and revealed marginalia in a different hand documenting her corruption by Zuggtmoy.",
+    "source_quote": "I'll examine it gingerly... The main text was a standard Lolth prayer book... The marginalia told the story. A different hand... The early entries were neat... Then, gradually, around the margins, a second voice crept in.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "retrieving Thorin's tooth",
+    "fact": "Thorin retrieved his tooth from the confiscated prisoner belongings chest.",
+    "source_quote": "He reached in and found it.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "reading sealed orders from House Mizzrym",
+    "fact": "The sealed orders from House Mizzrym were read aloud, revealing urgent inquiries about Ilvara's disappearance.",
+    "source_quote": "I read them aloud, more or less: 'Where are you? What have you been doing? Respond \u2014 kind of thing. You've gone missing. Followed by more frantic: where are you, where are you? Didn't you read the previous memo? What's up?'",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "recovering the Living Serpent Head Scourge",
+    "fact": "The Living Serpent Head Scourge was set aside as a museum piece after being found on Ilvara's body.",
+    "source_quote": "I set it aside with the other items. The prayer book. The wax pouch. The sealed orders. The serpent scourge.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Stroud and Protanther reference",
+    "fact": "The narrator recalled Stroud sitting across from Protanther as an example of a blind spot in long-term preparation.",
+    "source_quote": "I thought, briefly, of Stroud sitting down across from Protanther. Four hundred years of preparation. Still had a blind spot.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "House Mizzrym",
+    "fact": "House Mizzrym sent sealed orders seeking Ilvara's whereabouts after her disappearance.",
+    "source_quote": "The sealed orders from House Mizzrym were more immediately practical... 'Where are you? What have you been doing? Respond \u2014 kind of thing.'",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Neverlight Grove",
+    "fact": "Neverlight Grove sent a letter to Ilvara referencing a missed meeting.",
+    "source_quote": "The letter from Neverlight Grove completed the picture... A missed meeting. Political correspondence that had gone nowhere...",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "unknown",
+    "fact": "The timeline of Ilvara's corruption spans years, beginning with her early career as a high priestess.",
+    "source_quote": "Ilvara had presumably carried it since early in her career, which meant it was old, which meant she had been using it as a devotional object for years before something began to change.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Stroud",
+    "fact": "Stroud is referenced as having sat across from Protanther after four hundred years of preparation.",
+    "source_quote": "I thought, briefly, of Stroud sitting down across from Protanther. Four hundred years of preparation. Still had a blind spot.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Protanther",
+    "fact": "Protanther is referenced as the individual Stroud sat across from after four hundred years of preparation.",
+    "source_quote": "I thought, briefly, of Stroud sitting down across from Protanther. Four hundred years of preparation. Still had a blind spot.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Tongue of Madness mushroom",
+    "fact": "The narrator's notes on the Tongued merchant imply the use of a Tongue of Madness mushroom as the cause of altered correspondence.",
+    "source_quote": "a merchant I once knew who had been Tongued by a bardic curse",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "bardic curse",
+    "fact": "A bardic curse is referenced as the cause of altered handwriting in the merchant's correspondence.",
+    "source_quote": "a merchant I once knew who had been Tongued by a bardic curse",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "necromantic pearl",
+    "fact": "The necromantic pearl is smooth, dense, fist-sized, and has a weight that feels unnatural for something grown.",
+    "source_quote": "Smooth. Dense. Fist-sized. The weight of it was wrong for something grown \u2014 too even, too finished, like a stone that had been worked by a hand that knew what it was doing.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "necromantic pearl",
+    "fact": "The necromantic pearl emits a sensation like standing next to a door that opens into a room you don't want to know about.",
+    "source_quote": "And the sensation coming off it wasn't heat or cold exactly. More like standing next to a door that opens into a room you don't want to know about.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "necromantic pearl",
+    "fact": "Thorin pockets the necromantic pearl after finding it in the fungal core.",
+    "source_quote": "I didn't need a name for it. It was worth something to the right buyer, and I was not going to leave anything useful in this cavern, so I pocketed it.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "chamber",
+    "fact": "The chamber contains a fungal mass at its center, a stone platform covered in pulsing fungal growth, and dead guards.",
+    "source_quote": "The fungal mass sat at the center of the chamber... The bundle was underneath... The guards hadn't survived",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "chamber",
+    "fact": "The chamber has a stone platform that was built by Ilvara and covered in fungal growth.",
+    "source_quote": "Ilvara had built herself something elevated... the fungal growth that had crept up the stone was still pulsing with Zuggtmoy's reach",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "leather-wrapped bundle",
+    "fact": "The leather-wrapped bundle contains incense cones, a silver bowl, and a cloth stitched with Lolth's web and Zuggtmoy's mark.",
+    "source_quote": "Inside: incense cones, a silver bowl small enough to fit in one hand, and a cloth that had been stitched with two sigils \u2014 Lolth's web worked into the eight-fold geometry of Zuggtmoy's mark, one woven inside the other.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "silver bowl",
+    "fact": "The silver bowl is small enough to fit in one hand.",
+    "source_quote": "a silver bowl small enough to fit in one hand",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "cloth with sigils",
+    "fact": "The cloth is stitched with Lolth's web woven inside the eight-fold geometry of Zuggtmoy's mark.",
+    "source_quote": "a cloth that had been stitched with two sigils \u2014 Lolth's web worked into the eight-fold geometry of Zuggtmoy's mark, one woven inside the other.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "gold",
+    "fact": "Thorin takes gold from the bodies of the dead guards.",
+    "source_quote": "Gold, short swords, a long sword, a steel whistle.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "short swords",
+    "fact": "Thorin takes short swords from the bodies of the dead guards.",
+    "source_quote": "Gold, short swords, a long sword, a steel whistle.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "long sword",
+    "fact": "Thorin takes a long sword from the bodies of the dead guards.",
+    "source_quote": "Gold, short swords, a long sword, a steel whistle.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "steel whistle",
+    "fact": "Thorin takes a steel whistle from the bodies of the dead guards.",
+    "source_quote": "Gold, short swords, a long sword, a steel whistle.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "signet ring",
+    "fact": "The signet ring found on the mage bears the seal of House T'sarran.",
+    "source_quote": "I found the signet ring first \u2014 House T'sarran, the seal unmistakable on the face of it.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "wand",
+    "fact": "The wand is made of obsidian with a captive spider preserved in amber at its tip.",
+    "source_quote": "Then the wand: obsidian, a captive spider preserved in amber at its tip.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "documents",
+    "fact": "The documents were partially burned but still legible in places.",
+    "source_quote": "The documents. They'd been partially burned, which meant someone had tried to destroy them and hadn't quite managed it",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "burning of documents",
+    "fact": "Someone attempted to destroy the documents by burning them.",
+    "source_quote": "They'd been partially burned, which meant someone had tried to destroy them and hadn't quite managed it",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "contract to extract Daz",
+    "fact": "A contract existed to extract Daz alive and unharmed, commissioned by House T'sarran.",
+    "source_quote": "There had been a contract. Extract Daz alive and unharmed. House T'sarran behind it.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Ilvara",
+    "fact": "Ilvara collected trophies from captives, including Thorin's tooth.",
+    "source_quote": "When we'd first found ourselves hanging in nets at Velkynvelve, Ilvara had made a point of collecting trophies... she'd taken my tooth.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Thorin's tooth",
+    "fact": "Thorin recovered his tooth, which Ilvara had taken and displayed as a trophy.",
+    "source_quote": "It was settled now. I had the tooth back.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum uses acid to burn away the fungal growth on the platform.",
+    "source_quote": "Grygum was not the sort to leave corruption breathing. He opened his mouth, and the acid came out clean and decisive, and the fungal matter... collapsed into ash",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "fungal mass",
+    "fact": "The fungal mass at the center of the chamber was still pulsing with Zuggtmoy's reach.",
+    "source_quote": "the fungal growth that had crept up the stone was still pulsing with Zuggtmoy's reach, slow and rhythmic like breathing",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "fungal mass",
+    "fact": "The fungal mass was corrupted and had grown around the platform in the chamber.",
+    "source_quote": "the fungal growth that had crept up the stone was still pulsing with Zuggtmoy's reach",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "House Mizzrym",
+    "fact": "The dead guards belonged to House Mizzrym.",
+    "source_quote": "The dead soldiers of House Mizzrym would never collect their pay.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "House T'sarran",
+    "fact": "House T'sarran commissioned the contract to extract Daz alive and unharmed.",
+    "source_quote": "House T'sarran behind it.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a male Drow apostate from Menzoberranzan who studied magic.",
+    "source_quote": "I am a male Drow apostate from Menzoberranzan who studied magic, held private opinions that would have gotten him killed if voiced aloud",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz was the target of a contract to extract him alive and unharmed.",
+    "source_quote": "Extract Daz alive and unharmed.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Nym",
+    "fact": "Nym becomes more expressive when irritated.",
+    "source_quote": "Nym had the kind of face that gets more expressive the more irritated she becomes",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Kaelira",
+    "fact": "Kaelira reads the burned documents with professional focus.",
+    "source_quote": "Kaelira was the opposite \u2014 still and professional, reading the burned pages with the focus of someone who was paid to be good at exactly this.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is known as Thorin Giantfriend.",
+    "source_quote": "Thorin Giantfriend, radical transparency",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Dawnbringer",
+    "fact": "Dawnbringer is a sentient sunblade that refuses to be used for ritual purification.",
+    "source_quote": "Dawnbringer disagreed. 'I'm not some kind of magical wizard thingy that purifies things. I am a high-quality sunblade. I kill things.'",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Vaultmaster Locking Scabbard",
+    "fact": "Thorin uses the Vaultmaster Locking Scabbard to negotiate with Dawnbringer.",
+    "source_quote": "Thorin reached, unhurriedly, for the scabbard. 'Do I need to show you the scabbard again?'",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Dawnbringer agreeing to purify",
+    "fact": "Dawnbringer agrees to perform a purification ritual after being reminded of the scabbard.",
+    "source_quote": "I suppose\u2026 I suppose I could do you this one. I could do this solid for you.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Daz's true identity",
+    "fact": "Daz suspects his value lies beyond his known background and is being targeted for reasons unknown.",
+    "source_quote": "I am not, by any meaningful measure, a person of consequence... And yet.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Ilvara's dual worship",
+    "fact": "Ilvara's rituals combined Lolth's web and Zuggtmoy's mark, indicating devotion to two conflicting deities.",
+    "source_quote": "a cloth that had been stitched with two sigils \u2014 Lolth's web worked into the eight-fold geometry of Zuggtmoy's mark, one woven inside the other.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "the necromantic pearl's origin",
+    "fact": "The necromantic pearl was placed or grown in the fungal core under deliberate conditions.",
+    "source_quote": "The pearl wasn't in the wrong place by accident. Someone had put something like it there, or something like it had grown there because the conditions were exactly right for it.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "the contract's intermediaries",
+    "fact": "The contract to extract Daz was arranged through cutouts with deliberate opacity.",
+    "source_quote": "The contracting party was unknown even to them. They had come specifically for me, through layers of intermediaries arranged with the kind of deliberate opacity that costs serious coin to maintain.",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "time of Velkynvelve captivity",
+    "fact": "Thorin was held captive at Velkynvelve before the current expedition.",
+    "source_quote": "When we'd first found ourselves hanging in nets at Velkynvelve",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "tunnel mouth",
+    "fact": "The tunnel mouth opened like a held breath finally released.",
+    "source_quote": "The tunnel mouth opened like a held breath finally released.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Overbright",
+    "fact": "The Overbright is a surface environment where light fills everything from every direction at once.",
+    "source_quote": "The light that came through the tunnel mouth was not like Dawnbringer's light... It was a light that simply *was*, filling everything from every direction at once",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Overbright",
+    "fact": "The Overbright is the surface world beyond the Underdark tunnels.",
+    "source_quote": "I had been thinking about this moment... The Overbright was a concept I had been carrying through Velkynvelve and Gracklstugh and the Darklake and Blingdenstone",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Velkynvelve",
+    "fact": "Velkynvelve is a location through which the speaker carried the concept of the Overbright.",
+    "source_quote": "The Overbright was a concept I had been carrying through Velkynvelve and Gracklstugh and the Darklake and Blingdenstone",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Gracklstugh",
+    "fact": "Gracklstugh is a location through which the speaker carried the concept of the Overbright.",
+    "source_quote": "The Overbright was a concept I had been carrying through Velkynvelve and Gracklstugh and the Darklake and Blingdenstone",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Darklake",
+    "fact": "Darklake is a location through which the speaker carried the concept of the Overbright.",
+    "source_quote": "The Overbright was a concept I had been carrying through Velkynvelve and Gracklstugh and the Darklake and Blingdenstone",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Blingdenstone",
+    "fact": "Blingdenstone is a location through which the speaker carried the concept of the Overbright.",
+    "source_quote": "The Overbright was a concept I had been carrying through Velkynvelve and Gracklstugh and the Darklake and Blingdenstone",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin emerged first from the tunnel.",
+    "source_quote": "Thorin first, which was correct \u2014 he always led from the front",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is a dwarf who always leads from the front.",
+    "source_quote": "Thorin first, which was correct \u2014 he always led from the front, always had, it was as close to instinct as that dwarf ever got",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is thinking about Dawnbringer and its exposure to darkness.",
+    "source_quote": "Thorin, characteristically, was thinking about Dawnbringer. Not what to do with it; he would never give it up, and the sword would never go quietly. But what it had been through. Months of darkness, months of the deep",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin mentioned a specialist called a 'sword whisperer'.",
+    "source_quote": "He had mentioned something about a specialist \u2014 the phrase *sword whisperer* had come up",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum emerged second from the tunnel.",
+    "source_quote": "Grygum next, blinking with something that looked less like discomfort and more like relief",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum had a genuine spiritual moment with direct sunlight.",
+    "source_quote": "Grygum next, blinking with something that looked less like discomfort and more like relief, the earnest half-orc having what appeared to be a genuine spiritual moment with direct sunlight",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum opened the bag of holding.",
+    "source_quote": "Grygum had opened the bag of holding.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum had pamphlets on his mind for Candlekeep.",
+    "source_quote": "Grygum had pamphlets on his mind. This was entirely consistent. Grygum was the only one among us who had accumulated a list of things he wanted to read",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum planned to look up the lore of Bahamut at Candlekeep.",
+    "source_quote": "He would look up the lore of Bahamut.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz emerged last from the tunnel.",
+    "source_quote": "Daz came through last, the way Daz always came through last",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz was already observing before he was fully present.",
+    "source_quote": "Daz came through last, the way Daz always came through last, already observing before he was fully present",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz was already composing analysis before his feet cleared the tunnel threshold.",
+    "source_quote": "Daz came through last, the way Daz always came through last, already composing the analysis before his feet had cleared the threshold",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz suspected the group should go to Candlekeep for research.",
+    "source_quote": "The conclusion \u2014 Candlekeep, the Great Library, research into House T'sarran and Jimjar's disappearance and whatever the various cutouts and hired Duskryns were ultimately pointing at regarding Daz's own history \u2014 was reasonable.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz was likely drafting a journal entry in the Overbright.",
+    "source_quote": "Daz was, I suspected, already drafting a journal entry.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz possesses the Stonespeaker Crystal.",
+    "source_quote": "The Stonespeaker Crystal was Daz's.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Eldeth",
+    "fact": "Eldeth emerged from the tunnel as part of the group.",
+    "source_quote": "The rest of our moltley crew followed, Eldeth, Spiderbait, and the rest of the folks who had survived this journey.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Spiderbait",
+    "fact": "Spiderbait emerged from the tunnel as part of the group.",
+    "source_quote": "The rest of our moltley crew followed, Eldeth, Spiderbait, and the rest of the folks who had survived this journey.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool is a grey ooze who peered out of the bag of holding.",
+    "source_quote": "Glabbagool \u2014 our companion, our gelatinous ward who was now a grey ooze... had peered out.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool had never been in sunlight before.",
+    "source_quote": "He had not been in sunlight before.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool survived the Blingdenstone ooze crisis.",
+    "source_quote": "Glabbagool had survived Blingdenstone, the ooze crisis, the bag of holding, and however many months of Underdark travel",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Drow cloak",
+    "fact": "Drow cloaks disintegrate in sunlight.",
+    "source_quote": "I knew that Drow cloaks disintegrated in the sunlight.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "bag of holding",
+    "fact": "Grygum opened the bag of holding.",
+    "source_quote": "Grygum had opened the bag of holding.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Dawnbringer",
+    "fact": "Dawnbringer is a sword that was exposed to months of darkness in the Underdark.",
+    "source_quote": "Dawnbringer... a blade whose nature was radiance forced to endure the complete absence of the thing it was built to carry.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Stonespeaker Crystal",
+    "fact": "The Stonespeaker Crystal is possessed by Daz.",
+    "source_quote": "The Stonespeaker Crystal was Daz's.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Brother Quellin",
+    "fact": "Brother Quellin taught a class on material impermanence.",
+    "source_quote": "I think it was Brother Quellin, or possibly the tall one whose name I never quite caught, the one who always had chalk dust on his robe. The transience of tools. The attachment to implements. Something about a bowl and an empty hand.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "the tall one",
+    "fact": "The tall one, whose name the speaker never caught, taught a class on material impermanence.",
+    "source_quote": "I think it was Brother Quellin, or possibly the tall one whose name I never quite caught, the one who always had chalk dust on his robe. The transience of tools. The attachment to implements. Something about a bowl and an empty hand.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "emergence into the Overbright",
+    "fact": "The group emerged from the tunnel into the Overbright.",
+    "source_quote": "The others emerged around me.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Drow cloaks being stored",
+    "fact": "The speaker put their Drow cloak in a bag because it disintegrates in sunlight.",
+    "source_quote": "I put my cloak in a bag. I knew that Drow cloaks disintegrated in the sunlight.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Glabbagool peering out of the bag of holding",
+    "fact": "Glabbagool peered out of the bag of holding when it was opened.",
+    "source_quote": "Grygum had opened the bag of holding just enough, and Glabbagool... had peered out.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "group standing in the Overbright",
+    "fact": "The group stood in the Overbright longer than tactically necessary.",
+    "source_quote": "We stood in the Overbright for a while, longer than was probably necessary from a tactical standpoint",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "decision to go to Candlekeep",
+    "fact": "The group decided to go to Candlekeep for research.",
+    "source_quote": "The conclusion \u2014 Candlekeep, the Great Library, research into House T'sarran and Jimjar's disappearance and whatever the various cutouts and hired Duskryns were ultimately pointing at regarding Daz's own history \u2014 was reasonable.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "agreement to buy adventuring gear",
+    "fact": "The group agreed to spend their gold on adventuring gear.",
+    "source_quote": "We agreed on the gear.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Jimjar's disappearance",
+    "fact": "Jimjar's disappearance is a mystery being researched at Candlekeep.",
+    "source_quote": "research into House T'sarran and Jimjar's disappearance and whatever the various cutouts and hired Duskryns were ultimately pointing at",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "House T'sarran",
+    "fact": "House T'sarran is a subject of research at Candlekeep.",
+    "source_quote": "research into House T'sarran and Jimjar's disappearance and whatever the various cutouts and hired Duskryns were ultimately pointing at",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Duskryns",
+    "fact": "Hired Duskryns are linked to a mystery concerning Daz's history.",
+    "source_quote": "research into House T'sarran and Jimjar's disappearance and whatever the various cutouts and hired Duskryns were ultimately pointing at regarding Daz's own history",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Daz's history",
+    "fact": "Daz's own history is a mystery being researched at Candlekeep.",
+    "source_quote": "research into House T'sarran and Jimjar's disappearance and whatever the various cutouts and hired Duskryns were ultimately pointing at regarding Daz's own history",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Duskryns",
+    "fact": "Duskryns were hired as cutouts in a mystery involving Daz's history.",
+    "source_quote": "whatever the various cutouts and hired Duskryns were ultimately pointing at regarding Daz's own history",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Candlekeep",
+    "fact": "Candlekeep is the Great Library where the group plans to conduct research.",
+    "source_quote": "The conclusion \u2014 Candlekeep, the Great Library, research into House T'sarran and Jimjar's disappearance...",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Candlekeep",
+    "fact": "Candlekeep has pamphlets available for Grygum to read.",
+    "source_quote": "Candlekeep was going to be, for him, something between research and pilgrimage. He would look up the lore of Bahamut. He would pick up pamphlets.",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "unknown",
+    "fact": "The group spent months traveling through the Underdark before emerging.",
+    "source_quote": "I genuinely cannot tell you how many months it had been.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "group spreading to separate concerns",
+    "fact": "The group spread toward their separate concerns after emerging into the surface world.",
+    "source_quote": "The party spread toward its separate concerns the way a held breath spreads into air",
+    "quote_verified": false
+  }
+]

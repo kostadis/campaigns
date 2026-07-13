@@ -1,0 +1,973 @@
+[
+  {
+    "type": "date",
+    "subject": "elapsed time",
+    "fact": "An hour passes between two events in the session.",
+    "source_quote": "As they finished harvesting the rare lichen needed for anti-acid armor, a chilling voice echoed in their minds\u2014Zuggtmoy, the Lady of Rot, speaking to the Pudding King about her sinister plans to use oozes to \"soften the shell\" so her garden could \"take root in the flesh beneath.\"",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "date",
+    "subject": "ritual progression",
+    "fact": "Three sacrifices were required: wealth, a weapon, and blood. Two remain to unlock Ent\u00e9moch's power.",
+    "source_quote": "To free Ent\u00e9moch and claim his boon, three sacrifices were required: wealth, a weapon, and blood. ... the party now stood on the threshold of completing their quest, with only two sacrifices remaining to unlock Ent\u00e9moch's power.",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The events described occur during the party's current expedition, following the completion of the Galeb Duhr handshake and preceding the final two sacrifices for Ent\u00e9moch's boon.",
+    "source_quote": "The party now stood on the threshold of completing their quest, with only two sacrifices remaining to unlock Ent\u00e9moch's power.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The session occurs on the 5th day of the 2nd Tenday of Taraskh 1493 DR.",
+    "source_quote": "The party found themselves locked in fierce combat with a Shambling Mound in the Festering Fissure, while charmed Violet Fungus stood by in confusion.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "This sequence of events occurs during the current session, following the party's progression through the Underdark mines and culminating at the summoning circle.",
+    "source_quote": "The party arrived at Pickshine Mine... The party now stood on the threshold of completing their quest...",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "basilisk containment",
+    "fact": "Zalthir engaged one basilisk in close combat while averting his eyes, and Daz successfully enchanted the other, freezing it in place with an incapacitating charm.",
+    "source_quote": "The party quickly devised a strategy to avoid the creatures' petrifying gaze\u2014Zalthir engaged one in close combat while averting his eyes, and Daz successfully enchanted the other, freezing it in place with an incapacitating charm.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz completed the ancient handshake protocol by arranging resonant geodes while humming.",
+    "source_quote": "After discovering resonant geodes and arranging them while humming, Daz completed the ancient handshake protocol.",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz perceived the Galeb Duhr's vibrations as a linguistic pattern\u2014a call waiting for an echo that never came.",
+    "source_quote": "Daz perceived their vibrations as a linguistic pattern\u2014a call waiting for an echo that never came.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz successfully enchanted the other basilisk, freezing it in place with an incapacitating charm.",
+    "source_quote": "Daz successfully enchanted the other, freezing it in place with an incapacitating charm.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz unleashed a carefully controlled explosion of fire, sculpting the flames to avoid both Zalthir and the precious lichen they had come to harvest.",
+    "source_quote": "Daz unleashed a carefully controlled explosion of fire, sculpting the flames to avoid both Zalthir and the precious lichen they had come to harvest.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "explosive redirection",
+    "fact": "Zalthir positioned himself as the explosives detonated, executing a perfect maneuver to redirect the magical blast through shadow space.",
+    "source_quote": "With Grygum's blessing to aid him, Zalthir positioned himself as the explosives detonated, executing a perfect maneuver to redirect the magical blast through shadow space.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Galeb Duhr handshake protocol",
+    "fact": "Daz completed the ancient handshake protocol by arranging resonant geodes while humming, causing the Galeb Duhr to relax and open the way.",
+    "source_quote": "After discovering resonant geodes and arranging them while humming, Daz completed the ancient handshake protocol, and the Galeb Duhr finally relaxed and opened the way.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Galeb Duhr handshake protocol",
+    "fact": "Daz completed the ancient handshake protocol, and the Galeb Duhr finally relaxed and opened the way.",
+    "source_quote": "Daz completed the ancient handshake protocol, and the Galeb Duhr finally relaxed and opened the way.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum sensed the Galeb Duhr were waiting for divine authority.",
+    "source_quote": "Grygum sensed they were waiting for divine authority.",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "metaphysical puzzle resolution",
+    "fact": "Magical pressure had caused time to snag at this point, and breaking it directly would unleash a catastrophic explosion.",
+    "source_quote": "Zalthir recalled a metaphysical puzzle from his training: magical pressure had caused time to snag at this point, and breaking it directly would unleash a catastrophic explosion.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Perigrog Scrapedust",
+    "fact": "Shadows cast by torches appeared painted on the walls rather than flickering, as if time itself had stopped.",
+    "source_quote": "Shadows cast by torches appeared painted on the walls rather than flickering, as if time itself had stopped.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Ritual Activation",
+    "fact": "The ritual at the summoning circle was activated when the dart was placed as a weapon sacrifice, causing the runes to turn blinding orange, the air to grow hot, and the basilisk to become frantic.",
+    "source_quote": "Thorin placed a dart onto the runes as the weapon sacrifice... The runes transformed from yellow to blinding orange, the air grew hot, and the uncharmed basilisk became frantic as the ritual began.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "ritual initiation",
+    "fact": "The runes transformed from yellow to blinding orange, the air grew hot, and the uncharmed basilisk became frantic as the ritual began.",
+    "source_quote": "The runes transformed from yellow to blinding orange, the air grew hot, and the uncharmed basilisk became frantic as the ritual began.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Shadow Monk maneuver",
+    "fact": "Zalthir executed a perfect maneuver to redirect the magical blast through shadow space as the explosives detonated, shattering the wall without collapsing the tunnels.",
+    "source_quote": "With Grygum's blessing to aid him, Zalthir positioned himself as the explosives detonated, executing a perfect maneuver to redirect the magical blast through shadow space. The wall shattered without collapsing the tunnels.",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Summoning circle ritual initiation",
+    "fact": "Thorin placed a dart as the weapon sacrifice into the summoning circle, causing the runes to transform from yellow to blinding orange, the air to grow hot, and the uncharmed basilisk to become frantic.",
+    "source_quote": "Thorin placed a dart onto the runes as the weapon sacrifice, and the stone instantly swallowed it, rusting it to dust in seconds. The runes transformed from yellow to blinding orange, the air grew hot, and the uncharmed basilisk became frantic as the ritual began.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "The runes transformed from yellow to blinding orange, the air grew hot, and the uncharmed basilisk became frantic as the ritual began.",
+    "source_quote": "The runes transformed from yellow to blinding orange, the air grew hot, and the uncharmed basilisk became frantic as the ritual began.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin placed a dart onto the runes as the weapon sacrifice, and the stone instantly swallowed it, rusting it to dust in seconds.",
+    "source_quote": "Thorin placed a dart onto the runes as the weapon sacrifice, and the stone instantly swallowed it, rusting it to dust in seconds.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin rushed to the summoning circle and deciphered the giant runes.",
+    "source_quote": "While his companions held the basilisks at bay, Thorin rushed to the summoning circle and deciphered the giant runes.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "travel to White Shell Mine",
+    "fact": "The White Shell Mine is approximately the largest salt mine in the Underdark, reached after the geode beacon led them deeper into the earth.",
+    "source_quote": "The geode, now acting as a beacon locator, led them deeper into the earth to the White Shell Mine, the largest salt mine in the Underdark.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir engaged one basilisk in close combat while averting his eyes.",
+    "source_quote": "Zalthir engaged one in close combat while averting his eyes.",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir executed a perfect maneuver to redirect the magical blast through shadow space.",
+    "source_quote": "Zalthir positioned himself as the explosives detonated, executing a perfect maneuver to redirect the magical blast through shadow space.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir meditated on the challenge, channeling all his frustration into the void.",
+    "source_quote": "Zalthir meditated on the challenge, channeling all his frustration into the void.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir recalled a metaphysical puzzle from his training: magical pressure had caused time to snag at this point, and breaking it directly would unleash a catastrophic explosion.",
+    "source_quote": "Zalthir recalled a metaphysical puzzle from his training: magical pressure had caused time to snag at this point, and breaking it directly would unleash a catastrophic explosion.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Basilisks",
+    "fact": "Two basilisks guard the summoning circle with mechanical precision, viewing the party as flaws in perfect stone, and are immune to conventional tactics due to their petrifying gaze.",
+    "source_quote": "Two basilisks guarded the circle, moving with mechanical precision rather than natural animal behavior, as if they viewed the party as flaws in perfect stone.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Galeb Duhr",
+    "fact": "The Galeb Duhr are ancient sentinels who refused to budge despite being struck with a pickaxe, and waited for divine authority.",
+    "source_quote": "Dasco Pickshine had tried everything to move them, even striking them with his pickaxe, but the ancient sentinels refused to budge. Grygum sensed they were waiting for divine authority.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Galeb Duhr",
+    "fact": "The Galeb Duhr are ancient stone sentinels who vibrate rhythmically like singing stones, awaiting divine authority, and only relented after Daz completed the ancient handshake protocol.",
+    "source_quote": "Four massive Galeb Duhr blocked the path, vibrating rhythmically like stones singing the first half of a forgotten duet.",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Gnomes",
+    "fact": "The gnomes are a group of artisans who provided specialized explosives, celebrated the successful breach of the wall, and eagerly presented their tools to the party.",
+    "source_quote": "The gnomes eagerly presented their specialized explosives... the gnomes celebrated their success...",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Festering Fissure",
+    "fact": "The Festering Fissure contains a Shambling Mound that proved resilient, shrugging off magical assaults with uncanny luck, and a Violet Fungus that stood by in confusion.",
+    "source_quote": "The party found themselves locked in fierce combat with a Shambling Mound in the Festering Fissure, while charmed Violet Fungus stood by in confusion.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Festering Fissure",
+    "fact": "The Festering Fissure is a site of combat where the party fought a Shambling Mound and harvested rare lichen for anti-acid armor.",
+    "source_quote": "The party found themselves locked in fierce combat with a Shambling Mound in the Festering Fissure... As they finished harvesting the rare lichen needed for anti-acid armor...",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Pickshine Mine",
+    "fact": "Pickshine Mine is a location blocked by Galeb Duhr, resolved only after an ancient handshake protocol with geodes, and home to the mine owner Dasco Pickshine.",
+    "source_quote": "The party arrived at Pickshine Mine, where four massive Galeb Duhr blocked the path... Dasco Pickshine... grudgingly offered the party two ruby gems...",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Pickshine Mine",
+    "fact": "Pickshine Mine is a location blocked by four Galeb Duhr, owned by Dasco Pickshine, and contains resonant geodes that were used to complete the ancient handshake protocol.",
+    "source_quote": "The party arrived at Pickshine Mine, where four massive Galeb Duhr blocked the path...",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Pickshine Mine",
+    "fact": "Pickshine Mine is blocked by four massive Galeb Duhr vibrating rhythmically like stones singing the first half of a forgotten duet.",
+    "source_quote": "The party arrived at Pickshine Mine, where four massive Galeb Duhr blocked the path, vibrating rhythmically like stones singing the first half of a forgotten duet.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "summoning circle",
+    "fact": "The summoning circle is inscribed with runes in giant script, guarded by two basilisks moving with mechanical precision rather than natural animal behavior, as if they viewed the party as flaws in perfect stone.",
+    "source_quote": "Beyond the breached wall, they discovered a large cavern containing a summoning circle inscribed with runes in giant script. Two basilisks guarded the circle, moving with mechanical precision rather than natural animal behavior, as if they viewed the party as flaws in perfect stone.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Summoning Circle",
+    "fact": "The summoning circle, inscribed with giant runes, is guarded by two basilisks and requires three sacrifices\u2014wealth, a weapon, and blood\u2014to free Ent\u00e9moch and claim his boon.",
+    "source_quote": "Beyond the breached wall, they discovered a large cavern containing a summoning circle inscribed with runes in giant script. Two basilisks guarded the circle... To free Ent\u00e9moch and claim his boon, three sacrifices were required: wealth, a weapon, and blood.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "White Shell Mine",
+    "fact": "The White Shell Mine is the largest salt mine in the Underdark, where a tunnel became impassable due to crystallite walls and temporal stagnation, and where Perigrog Scrapedust explained the metaphysical blockage.",
+    "source_quote": "The geode... led them deeper into the earth to the White Shell Mine, the largest salt mine in the Underdark... Perigrog Scrapedust explained that a tunnel had become impassable\u2014impossibly dry, with blinding crystallite walls and absolute, suffocating silence.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "White Shell Mine",
+    "fact": "The White Shell Mine is the largest salt mine in the Underdark, with blinding crystallite walls and absolute, suffocating silence, where shadows cast by torches appeared painted on the walls rather than flickering.",
+    "source_quote": "The gnomes eagerly presented their specialized explosives, and Zalthir meditated on the challenge, channeling all his frustration into the void. With Grygum's blessing to aid him, Zalthir positioned himself as the explosives detonated, executing a perfect maneuver to redirect the magical blast through shadow space. The wall shattered without collapsing the tunnels, and the gnomes celebrated their success while the party caught their breath. Beyond the breached wall, they discovered a large cavern containing a summoning circle inscribed with runes in giant script. Two basilisks guarded the circle, moving with mechanical precision rather than natural animal behavior, as if they viewed the party as flaws in perfect stone. The party quickly devised a strategy to avoid the creatures' petrifying gaze\u2014Zalthir engaged one in close combat while averting his eyes, and Daz successfully enchanted the other, freezing it in place with an incapacitating charm. While his companions held the basilisks at bay, Thorin rushed to the summoning circle and deciphered the giant runes. To free Ent\u00e9moch and claim his boon, three sacrifices were required: wealth, a weapon, and blood. Thorin placed a dart onto the runes as the weapon sacrifice, and the stone instantly swallowed it, rusting it to dust in seconds. The runes transformed from yellow to blinding orange, the air grew hot, and the uncharmed basilisk became frantic as the ritual began. The party now stood on the threshold of completing their quest, with only two sacrifices remaining to unlock Ent\u00e9moch's power.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "White Shell Mine",
+    "fact": "White Shell Mine is the largest salt mine in the Underdark, with an impassable tunnel featuring blinding crystallite walls and absolute silence, where time appears to have stopped.",
+    "source_quote": "Beyond the breached wall, they discovered a large cavern containing a summoning circle... The geode, now acting as a beacon locator, led them deeper into the earth to the White Shell Mine, the largest salt mine in the Underdark.",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "White Shell Mine elevation",
+    "fact": "The White Shell Mine sits in the deepest Underdark, with blinding crystallite walls and absolute, suffocating silence.",
+    "source_quote": "a tunnel had become impassable\u2014impossibly dry, with blinding crystallite walls and absolute, suffocating silence.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "basilisk count",
+    "fact": "Two basilisks guarded the summoning circle, moving with mechanical precision rather than natural animal behavior.",
+    "source_quote": "Two basilisks guarded the circle, moving with mechanical precision rather than natural animal behavior, as if they viewed the party as flaws in perfect stone.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Basilisks",
+    "fact": "Two basilisks guard the summoning circle with mechanical precision, their petrifying gaze requiring the party to avoid direct eye contact while engaging them.",
+    "source_quote": "Two basilisks guarded the circle, moving with mechanical precision rather than natural animal behavior, as if they viewed the party as flaws in perfect stone.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Basilisks",
+    "fact": "Two basilisks guard the summoning circle with mechanical precision, treating the party as flaws in perfect stone. They possess petrifying gazes, which the party avoided through tactical positioning and enchantment.",
+    "source_quote": "Two basilisks guarded the circle, moving with mechanical precision rather than natural animal behavior, as if they viewed the party as flaws in perfect stone... Zalthir engaged one in close combat while averting his eyes, and Daz successfully enchanted the other, freezing it in place with an incapacitating charm.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "basilisks",
+    "fact": "Two basilisks guarded the summoning circle, moving with mechanical precision rather than natural animal behavior, as if they viewed the party as flaws in perfect stone.",
+    "source_quote": "Two basilisks guarded the circle, moving with mechanical precision rather than natural animal behavior, as if they viewed the party as flaws in perfect stone.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "chasme count",
+    "fact": "Four Galeb Duhr are present blocking the path, vibrating rhythmically like stones singing the first half of a forgotten duet.",
+    "source_quote": "four massive Galeb Duhr blocked the path, vibrating rhythmically like stones singing the first half of a forgotten duet.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Galeb Duhr",
+    "fact": "The Galeb Duhr are ancient stone sentinels who vibrated rhythmically, refused to budge despite physical force, and only relented after an ancient handshake protocol was completed with resonant geodes.",
+    "source_quote": "four massive Galeb Duhr blocked the path, vibrating rhythmically like stones singing the first half of a forgotten duet... the ancient sentinels refused to budge... Daz completed the ancient handshake protocol, and the Galeb Duhr finally relaxed and opened the way.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Shambling Mound",
+    "fact": "The Shambling Mound in the Festering Fissure proved resilient, shrugging off magical assaults with uncanny luck, until Zalthir's and Thorin's relentless strikes brought it down.",
+    "source_quote": "The party found themselves locked in fierce combat with a Shambling Mound in the Festering Fissure... The Shambling Mound proved resilient, shrugging off magical assaults with uncanny luck, but Zalthir's relentless strikes and Thorin's devastating blows eventually brought the creature down.",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Shambling Mound",
+    "fact": "The Shambling Mound is a resilient creature that shrugged off magical assaults with uncanny luck, but was ultimately brought down by Zalthir\u2019s and Thorin\u2019s combined strikes.",
+    "source_quote": "The Shambling Mound proved resilient, shrugging off magical assaults with uncanny luck, but Zalthir's relentless strikes and Thorin's devastating blows eventually brought the creature down.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Shambling Mound",
+    "fact": "The Shambling Mound proved resilient, shrugging off magical assaults with uncanny luck, but was eventually brought down by Zalthir's relentless strikes and Thorin's devastating blows.",
+    "source_quote": "The Shambling Mound proved resilient, shrugging off magical assaults with uncanny luck, but Zalthir's relentless strikes and Thorin's devastating blows eventually brought the creature down.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Basilisks",
+    "fact": "The two basilisks guarded the circle, moving with mechanical precision rather than natural animal behavior, as if they viewed the party as flaws in perfect stone.",
+    "source_quote": "Two basilisks guarded the circle, moving with mechanical precision rather than natural animal behavior, as if they viewed the party as flaws in perfect stone.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Dasco Pickshine",
+    "fact": "Dasco Pickshine is the mine owner who tried everything to move the Galeb Duhr, including striking them with his pickaxe, and grudgingly offered two ruby gems as thanks.",
+    "source_quote": "The mine owner, Dasco Pickshine, had tried everything to move them, even striking them with his pickaxe... Dasco grudgingly offered the party two ruby gems worth five hundred gold pieces as thanks.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Dasco Pickshine",
+    "fact": "Dasco Pickshine, the mine owner, tried everything to move the Galeb Duhr\u2014including striking them with his pickaxe\u2014but the ancient sentinels refused to budge.",
+    "source_quote": "The mine owner, Dasco Pickshine, had tried everything to move them, even striking them with his pickaxe, but the ancient sentinels refused to budge.",
+    "quote_verified": true,
+    "passes": [
+      "interiority",
+      "large",
+      "sweep"
+    ],
+    "n_samples": 3
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a spellcaster who unleashed controlled explosions of fire, perceived vibrational patterns as linguistic calls, completed an ancient handshake protocol with geodes, and meditated on challenges while channeling frustration.",
+    "source_quote": "Daz unleashed a carefully controlled explosion of fire... Daz perceived their vibrations as a linguistic pattern... Daz completed the ancient handshake protocol... Daz meditated on the challenge, channeling all his frustration into the void.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz perceived the Galeb Duhr's vibrations as a linguistic pattern\u2014a call waiting for an echo\u2014and completed the ancient handshake protocol by arranging resonant geodes while humming.",
+    "source_quote": "Daz perceived their vibrations as a linguistic pattern\u2014a call waiting for an echo that never came.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz perceived the vibrations of the Galeb Duhr as a linguistic pattern\u2014a call waiting for an echo that never came.",
+    "source_quote": "Daz perceived their vibrations as a linguistic pattern\u2014a call waiting for an echo that never came.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum sensed divine intent in the Galeb Duhr's stillness and blessed Zalthir\u2019s attempt to redirect the magical blast.",
+    "source_quote": "Grygum sensed they were waiting for divine authority... With Grygum's blessing to aid him, Zalthir positioned himself as the explosives detonated...",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum sensed the Galeb Duhr were waiting for divine authority and later blessed Zalthir to aid him in redirecting the magical blast.",
+    "source_quote": "Grygum sensed they were waiting for divine authority.",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum sensed the Galeb Duhr were waiting for divine authority.",
+    "source_quote": "Grygum sensed they were waiting for divine authority.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Perigrog Scrapedust",
+    "fact": "Perigrog Scrapedust explained that a tunnel had become impassable due to blinding crystallite walls and absolute silence, with shadows appearing painted rather than flickering.",
+    "source_quote": "Perigrog Scrapedust explained that a tunnel had become impassable\u2014impossibly dry, with blinding crystallite walls and absolute, suffocating silence.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Perigrog Scrapedust",
+    "fact": "Perigrog Scrapedust explained that a tunnel had become impassable\u2014impossibly dry, with blinding crystallite walls and absolute, suffocating silence.",
+    "source_quote": "Perigrog Scrapedust explained that a tunnel had become impassable\u2014impossibly dry, with blinding crystallite walls and absolute, suffocating silence.",
+    "quote_verified": true,
+    "passes": [
+      "interiority",
+      "sweep"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "npc",
+    "subject": "Perigrog Scrapedust",
+    "fact": "Perigrog Scrapedust is a gnome who explained that a tunnel had become impassable due to blinding crystallite walls and absolute silence, and that only a Shadow Monk could resolve the metaphysical blockage.",
+    "source_quote": "Perigrog Scrapedust explained that a tunnel had become impassable\u2014impossibly dry, with blinding crystallite walls and absolute, suffocating silence... The solution required creating a hole for the backlog of reality to pass through safely, which only a Shadow Monk could accomplish.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin delivered devastating blows against the Shambling Mound, rushed to decipher giant runes at the summoning circle, and placed a dart as the weapon sacrifice, triggering the ritual\u2019s transformation.",
+    "source_quote": "Thorin's devastating blows eventually brought the creature down... Thorin rushed to the summoning circle and deciphered the giant runes... Thorin placed a dart onto the runes as the weapon sacrifice, and the stone instantly swallowed it, rusting it to dust in seconds.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin rushed to the summoning circle and deciphered the giant runes. To free Ent\u00e9moch and claim his boon, three sacrifices were required: wealth, a weapon, and blood.",
+    "source_quote": "While his companions held the basilisks at bay, Thorin rushed to the summoning circle and deciphered the giant runes. To free Ent\u00e9moch and claim his boon, three sacrifices were required: wealth, a weapon, and blood.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin rushed to the summoning circle, deciphered the giant runes, and placed a dart as the weapon sacrifice, triggering the ritual's transformation.",
+    "source_quote": "Thorin rushed to the summoning circle and deciphered the giant runes. To free Ent\u00e9moch and claim his boon, three sacrifices were required: wealth, a weapon, and blood. Thorin placed a dart onto the runes as the weapon sacrifice.",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is a trained warrior who recalled a metaphysical puzzle from his training about magical pressure causing time to snag, and who engaged a basilisk in close combat while averting his eyes.",
+    "source_quote": "Zalthir recalled a metaphysical puzzle from his training: magical pressure had caused time to snag at this point, and breaking it directly would unleash a catastrophic explosion.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is a warrior who relentlessly strikes enemies and recalled a metaphysical puzzle about magical pressure causing time to snag. He executed a perfect maneuver to redirect a magical blast through shadow space.",
+    "source_quote": "Zalthir's relentless strikes and Thorin's devastating blows eventually brought the creature down. Zalthir recalled a metaphysical puzzle from his training: magical pressure had caused time to snag at this point... Zalthir positioned himself as the explosives detonated, executing a perfect maneuver to redirect the magical blast through shadow space.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is referenced by the party as the one who recalled a metaphysical puzzle from his training: magical pressure had caused time to snag at this point, and breaking it directly would unleash a catastrophic explosion.",
+    "source_quote": "Zalthir recalled a metaphysical puzzle from his training: magical pressure had caused time to snag at this point, and breaking it directly would unleash a catastrophic explosion.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir's relentless strikes and Thorin's devastating blows eventually brought the Shambling Mound down.",
+    "source_quote": "Zalthir's relentless strikes and Thorin's devastating blows eventually brought the creature down.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zuggtmoy",
+    "fact": "Zuggtmoy, the Lady of Rot, spoke to the Pudding King about her sinister plans to use oozes to 'soften the shell' so her garden could 'take root in the flesh beneath.'",
+    "source_quote": "Zuggtmoy, the Lady of Rot, speaking to the Pudding King about her sinister plans to use oozes to 'soften the shell' so her garden could 'take root in the flesh beneath.'",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Dart",
+    "fact": "The dart placed by Thorin into the summoning circle served as the weapon sacrifice and was instantly swallowed and rusted to dust, triggering the ritual\u2019s transformation.",
+    "source_quote": "Thorin placed a dart onto the runes as the weapon sacrifice, and the stone instantly swallowed it, rusting it to dust in seconds.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Dart",
+    "fact": "The dart placed on the summoning circle served as the weapon sacrifice, instantly rusting to dust and triggering the ritual\u2019s transformation from yellow to blinding orange.",
+    "source_quote": "Thorin placed a dart onto the runes as the weapon sacrifice, and the stone instantly swallowed it, rusting it to dust in seconds. The runes transformed from yellow to blinding orange...",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "dart",
+    "fact": "Thorin placed a dart onto the runes as the weapon sacrifice, and the stone instantly swallowed it, rusting it to dust in seconds.",
+    "source_quote": "Thorin placed a dart onto the runes as the weapon sacrifice, and the stone instantly swallowed it, rusting it to dust in seconds.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "dart weapon sacrifice",
+    "fact": "A dart was placed onto the runes as the weapon sacrifice, and the stone instantly swallowed it, rusting it to dust in seconds.",
+    "source_quote": "Thorin placed a dart onto the runes as the weapon sacrifice, and the stone instantly swallowed it, rusting it to dust in seconds.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "geode",
+    "fact": "The geode, now acting as a beacon locator, led them deeper into the earth to the White Shell Mine.",
+    "source_quote": "The geode, now acting as a beacon locator, led them deeper into the earth to the White Shell Mine.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Geode",
+    "fact": "The resonant geode, arranged and hummed to, now acts as a beacon locator, guiding the party deeper into the earth to the White Shell Mine.",
+    "source_quote": "After discovering resonant geodes and arranging them while humming, Daz completed the ancient handshake protocol... The geode, now acting as a beacon locator, led them deeper into the earth to the White Shell Mine.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Lichen",
+    "fact": "The rare lichen harvested from the Festering Fissure is used to create anti-acid armor.",
+    "source_quote": "As they finished harvesting the rare lichen needed for anti-acid armor...",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Resonant geodes",
+    "fact": "Resonant geodes were discovered and arranged by Daz while humming, completing the ancient handshake protocol that allowed the Galeb Duhr to open the way.",
+    "source_quote": "After discovering resonant geodes and arranging them while humming, Daz completed the ancient handshake protocol...",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "ruby gems",
+    "fact": "Dasco Pickshine grudgingly offered the party two ruby gems worth five hundred gold pieces as thanks.",
+    "source_quote": "Dasco Pickshine grudgingly offered the party two ruby gems worth five hundred gold pieces as thanks.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Ruby Gems",
+    "fact": "Two ruby gems worth five hundred gold pieces were offered by Dasco Pickshine as thanks for resolving the Galeb Duhr blockade.",
+    "source_quote": "Dasco grudgingly offered the party two ruby gems worth five hundred gold pieces as thanks.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "ruby gem value",
+    "fact": "Two ruby gems worth five hundred gold pieces were offered as thanks by Dasco Pickshine.",
+    "source_quote": "Dasco Pickshine... offered the party two ruby gems worth five hundred gold pieces as thanks.",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Ent\u00e9moch's Boon",
+    "fact": "The party stands on the threshold of completing their quest to free Ent\u00e9moch, with two sacrifices remaining: wealth and blood, after the weapon (dart) has been offered.",
+    "source_quote": "The party now stood on the threshold of completing their quest, with only two sacrifices remaining to unlock Ent\u00e9moch's power.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Ent\u00e9moch's boon",
+    "fact": "Three sacrifices are required to free Ent\u00e9moch and claim his boon: wealth, a weapon, and blood. Only the weapon sacrifice has been completed; two remain.",
+    "source_quote": "To free Ent\u00e9moch and claim his boon, three sacrifices were required: wealth, a weapon, and blood... The party now stood on the threshold of completing their quest, with only two sacrifices remaining to unlock Ent\u00e9moch's power.",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Ent\u00e9moch's boon",
+    "fact": "To free Ent\u00e9moch and claim his boon, three sacrifices were required: wealth, a weapon, and blood. Only the weapon sacrifice has been completed; wealth and blood remain unfulfilled.",
+    "source_quote": "To free Ent\u00e9moch and claim his boon, three sacrifices were required: wealth, a weapon, and blood.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Temporal Stagnation",
+    "fact": "A metaphysical blockage in the White Shell Mine has caused time to snag, resulting in painted shadows and absolute silence, requiring a Shadow Monk to create a hole for reality\u2019s backlog to pass through safely.",
+    "source_quote": "Shadows cast by torches appeared painted on the walls rather than flickering, as if time itself had stopped... Zalthir recalled a metaphysical puzzle... The solution required creating a hole for the backlog of reality to pass through safely, which only a Shadow Monk could accomplish.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Zuggtmoy's sinister plans",
+    "fact": "Zuggtmoy, the Lady of Rot, spoke to the Pudding King about using oozes to 'soften the shell' so her garden could 'take root in the flesh beneath,' hinting at a larger cosmic threat.",
+    "source_quote": "a chilling voice echoed in their minds\u2014Zuggtmoy, the Lady of Rot, speaking to the Pudding King about her sinister plans to use oozes to 'soften the shell' so her garden could 'take root in the flesh beneath.'",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  }
+]

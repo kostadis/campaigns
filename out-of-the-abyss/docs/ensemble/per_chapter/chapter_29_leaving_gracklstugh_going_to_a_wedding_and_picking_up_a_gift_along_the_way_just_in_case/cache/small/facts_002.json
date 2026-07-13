@@ -1,0 +1,177 @@
+[
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is a giant who believes in bold, chaotic action, often disregarding consequences. He recently shouted about a 'flyby to the docks' and invoked an old saying: 'To save the village, you must smash the village.' He has shown a pattern of ignoring advice and rolling the dice on dangerous decisions.",
+    "source_quote": "Alright, one more flyby and to the docks!",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is a thoughtful, weary leader who weighs moral consequences and seeks to minimize bloodshed. He recognizes the group's false identity as the Ember Vanguard and uses it strategically. He is deeply aware of the secrets they carry and finds comfort in knowing they prevented mass destruction in Gracklstugh.",
+    "source_quote": "The secrets we carried \u2014 of the Deep King\u2019s plots, the corrupted dragon egg, and the lurking demonic plots \u2014 could have provoked mass death and destruction. And we took those secrets with us.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a perceptive member of the group whose presence triggers panic among the Duergar, leading them to believe the group is the Ember Vanguard. He is not impressed by Themberchaud\u2019s theatrics and notes the Duergar\u2019s disdain for him.",
+    "source_quote": "The Duergar are rolling their eyes. They don\u2019t take him as seriously as he takes himself.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is a cleric who acts with ritual precision and symbolic intent. He deputizes the Duergar guard with a caltrop as a token of their mission, and later suggests scuttling the boat \u2014 showing a blend of faith and pragmatism.",
+    "source_quote": "This is a symbol of our mission. Guard it and keep it secret.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Themberchaud",
+    "fact": "Themberchaud is a dragon who believes himself to be the Wyrmsmith, a divine forger of flame. He loudly proclaims his identity, breathes fire at forges, and insists on dramatic flybys \u2014 all while being completely oblivious to the group\u2019s strategic concerns.",
+    "source_quote": "I am Themberchaud the Wyrmsmith, bringer of flame!",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Sarith",
+    "fact": "Sarith is driven by strange compulsions, previously drawn to Myconid dancing in the Whorlstone Caverns and now compelled to reach the Neverlight Grove. He is intuitive, not logical, and insists on leaving the boat despite the risk.",
+    "source_quote": "The path to the Neverlight Grove goes past the Lost Tomb of Khaem. But we must leave the boat here.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Rump-a-dump",
+    "fact": "Rump-a-dump is a childlike member of the group who believes in the inviolability of sacred circles and refuses to acknowledge danger. He speaks with naive certainty about his sovereign\u2019s protection.",
+    "source_quote": "Zalthir, the circle cannot be corrupted. Our sovereign would never let that happen.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Jimjar",
+    "fact": "Jimjar is a reckless gambler who makes absurd bets with cryptic, prophetic phrasing. He recently wagered an empty shell gem that a 'circle of joy' will become a 'circle of unwilling vows,' unsettling the group.",
+    "source_quote": "I'll bet you an empty shell gem that this circle of joy will reveal itself to be a circle of unwilling vows before you leave it.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Gartokkar",
+    "fact": "Gartokkar is a warning voice who has alerted the group that everyone in Gracklstugh is on edge and actively searching for the Ember Vanguard. His reports shape the group\u2019s perception of their false identity.",
+    "source_quote": "The Stone Guard is looking for the Ember Vanguard, the powerful mercenary group, and the Grey Ghosts are looking for the Ember Vanguard, and the Deep King is worried.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Ember Vanguard",
+    "fact": "The Ember Vanguard is a feared, legendary mercenary group believed to be responsible for chaos and destruction in the Underdark. The party is mistaken for them, triggering panic among Duergar and Drow. Their reputation precedes them, even though they are impostors.",
+    "source_quote": "They think we are the Ember Vanguard.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Duergar",
+    "fact": "The Duergar of Gracklstugh are deeply suspicious, militarized, and terrified of the Ember Vanguard. They are unafraid of Themberchaud but react with immediate panic upon seeing Daz, confirming their belief that the group is the legendary threat.",
+    "source_quote": "They weren\u2019t afraid of Themberchaud but when they saw Daz, they suddenly freaked out.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Deep King",
+    "fact": "The Deep King is a powerful, shadowy ruler whose plots and corrupted dragon egg the party carries as secrets. His authority is invoked by the Stone Guard, and his fear of the Ember Vanguard is a key driver of the city\u2019s paranoia.",
+    "source_quote": "Halt in the name of the Deep King!",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Grey Ghosts",
+    "fact": "The Grey Ghosts are a mysterious group actively hunting the Ember Vanguard, contributing to the paranoia in Gracklstugh. Their presence is mentioned as part of the city-wide search, though their nature and motives remain obscure.",
+    "source_quote": "The Grey Ghosts are looking for the Ember Vanguard.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Gracklstugh",
+    "fact": "Gracklstugh is a Dwarven city in the Underdark, filled with paranoia, militarized guards, and hidden secrets. It is the site of the party\u2019s false identity as the Ember Vanguard and the place from which they escaped with dangerous knowledge.",
+    "source_quote": "The people of Gracklstugh owe us, even if they are unaware of it.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Neverlight Grove",
+    "fact": "The Neverlight Grove is a mysterious, dangerous location in the Underdark rumored to be corrupted by demonic influence. It draws Sarith and others through compulsion, despite its lethal reputation.",
+    "source_quote": "There is a very dangerous and mighty demon there, and that we might not want to go there at all.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Lost Tomb of Khaem",
+    "fact": "The Lost Tomb of Khaem is a hidden ruin on the path to the Neverlight Grove, believed to contain a powerful weapon. The group plans to visit it before proceeding, hoping to arm themselves against the dangers ahead.",
+    "source_quote": "Perhaps we could first go to the Lost Tomb of Khaem, secure whatever weapon it has, and then go?",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Whorlstone Caverns",
+    "fact": "The Whorlstone Caverns are a location previously visited by the party, where Sarith was mysteriously drawn to dancing Myconids. This experience now influences his compulsion toward the Neverlight Grove.",
+    "source_quote": "The strange compulsion that drew him to the dancing Myconids in the Whorlstone Caverns draws him to the grove.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "caltrop",
+    "fact": "A caltrop is used by Grygum as a symbolic token of the group\u2019s mission. He gives it to the Duergar guard to bind him to secrecy, transforming a mundane object into a sacred relic of deception.",
+    "source_quote": "This is a symbol of our mission. Guard it and keep it secret.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "empty shell gem",
+    "fact": "An empty shell gem is the wagered item in Jimjar\u2019s bizarre bet about the Neverlight Grove. It represents his tendency toward cryptic gambling and foreshadows a future, possibly cursed, ritual.",
+    "source_quote": "I'll bet you an empty shell gem that this circle of joy will reveal itself to be a circle of unwilling vows before you leave it.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "escape from Gracklstugh",
+    "fact": "The party escaped Gracklstugh by exploiting their mistaken identity as the Ember Vanguard, causing panic among the Duergar and securing time to flee. They left behind no direct evidence but carried dangerous secrets that could have triggered mass destruction.",
+    "source_quote": "We came to find equipment, and we did that. And as Daz said, we betrayed many people.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "departure from the boat",
+    "fact": "The party abandoned their boat on the 7th day of the 2nd tenday, knowing it would leave a trail for pursuers. They debated scuttling it but chose to leave it intact, increasing risk but preserving potential future utility.",
+    "source_quote": "Leaving the boat is like leaving a sign. But we might need it later.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "circle of unwilling vows",
+    "fact": "Jimjar\u2019s bet implies a hidden, possibly demonic ritual awaiting the party in the Neverlight Grove \u2014 one that will force them into binding, unwilling oaths. The nature of this thread is cryptic, but its implications are ominous.",
+    "source_quote": "I'll bet you an empty shell gem that this circle of joy will reveal itself to be a circle of unwilling vows before you leave it.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "corrupted dragon egg",
+    "fact": "The party carries a secret: a corrupted dragon egg, likely tied to the Deep King\u2019s plots. Its existence could trigger catastrophic events if revealed, and its fate remains unresolved as they flee deeper into the Underdark.",
+    "source_quote": "The secrets we carried \u2014 of the Deep King\u2019s plots, the corrupted dragon egg, and the lurking demonic plots \u2014 could have provoked mass death and destruction.",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "4th-6th day of the 2nd tenday of Myrtul 1493",
+    "fact": "The first three days of travel were uneventful, marked by rowing, darkness, and strange sounds. On the third day, bloodsucking giant mosquitoes attacked but were swiftly killed.",
+    "source_quote": "The third day brings excitement when some bloodsucking giant mosquitoes fall from the roof.",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "7th day of the 2nd tenday of Myrtul 1493",
+    "fact": "On the 7th day, the party abandoned their boat and entered the Underdark on foot, beginning their journey toward the Lost Tomb of Khaem and the Neverlight Grove. The date marks the transition from maritime to terrestrial travel.",
+    "source_quote": "On the fourth day, Sarith announces that we must get out on a beach and head deeper into the Underdark on foot.",
+    "quote_verified": true
+  }
+]

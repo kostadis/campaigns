@@ -1,0 +1,296 @@
+[
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is a dragonborn monk detailed to the winch, tasked with cleaning up after Daz, Stool, and Sarith, and now uses the cleaning to examine how to damage the winch to aid escape. He is focused on spider silk's role in the mechanism and considers fire-breathing as a means to cut ropes. He took a piece of rope to test its resistance later.",
+    "source_quote": "But I breathe fire, and fire breathing is a simpler way to cut a rope\u2026 He takes a small piece of rope to test its resistance later.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is a dwarf who recalls chaotic conversations from his youth, and is surprised when a member of Ilvara\u2019s polycule brings food. He connects to his companions via spores to question Jorlan\u2019s motives, and ultimately accepts the escape plan after Jorlan\u2019s assurances.",
+    "source_quote": "Thorin connected to his friends via the spores and asked, \u201cHow do we know that he isn\u2019t here to entrap us?\u201d Thorin is satisfied. \u201cWhat\u2019s the plan?\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Jorlan",
+    "fact": "Jorlan is a former leader of Ilvara\u2019s polycule, disfigured by acid and discarded after losing a finger. He offers to help the prisoners escape to embarrass Shoor and make Ilvara regret her mistake. He opens the prison door, creates a distraction, and guides them toward the armory.",
+    "source_quote": "Jorlan says, \u201cThat\u2019s Jorlan. He used to be the number one, but after he got hit with acid, his face was disfigured and he lost a finger, Ilvara\u2019s dropped him, and now Shoor is number one.\u201d Jorlan turns to Thorin, \u201cIf I made it possible for you to escape, would you try?\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Sethir",
+    "fact": "Sethir is a member of Ilvara\u2019s polycule who provides key information about Jorlan\u2019s fall from grace and the current hierarchy. He also mentions the presence of a grey ooze in the pool used for waste processing.",
+    "source_quote": "Sethir says, \u201cThat\u2019s Jorlan. He used to be the number one, but after he got hit with acid, his face was disfigured and he lost a finger, Ilvara\u2019s dropped him, and now Shoor is number one.\u201d Daz wakes up and remembers, \u201cRight, Sethir said there is a grey ooze in the pool. That\u2019s how the waste gets processed.\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Buppido",
+    "fact": "Buppido is a gnome who reveals Gracklstugh as the intended destination after escape, and mocks the group\u2019s indecision by suggesting they must explain everything to the newcomers.",
+    "source_quote": "Buppido smiles, \u201cTo Gracklstugh, my homeland!\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Stool",
+    "fact": "Stool is a myconid who objects to the plan to go through the great circle, asserting his people\u2019s connection to the area and opposing routes that endanger them.",
+    "source_quote": "Stool objects, \u201cNo to the great circle! My people!\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Topsy",
+    "fact": "Topsy is a deep gnome who advocates for Blingdenstone as the escape route, citing a known exit from the Underdark there.",
+    "source_quote": "Topsy says, \u201cWe should go to Blingdenstone. I know there is a way out of the Underdark from there.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Shuushar",
+    "fact": "Shuushar is a kuo-toan who insists the direct path leads through Menzoberranzan, requiring a detour to Darklake to share enlightenment with his people before proceeding.",
+    "source_quote": "Shuushar objects, \u201cYes, but the direct path is through Menzoberranzan. We will have to go to Darklake first, and we must visit my people to share the enlightenment! From there, the path is good.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Jimjar",
+    "fact": "Jimjar is a derro who wagers on which escape route the newcomers will choose, listing potential influences: the myconid, the kuo-toan, the Destiny Weilding Derro, or the two deep gnomes.",
+    "source_quote": "Jimjar adds, \u201cWho wants to bet on which path the new guys will want to go? Will they go with the myconid kid? The enlightened kuo-toan? The Destiny Weilding Derro? Or trust the two deep gnomes?\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Sarith",
+    "fact": "Sarith is a member of the group who confirms Zalthir\u2019s observation about debts and repayment, nodding in agreement to the system of wagers and future collection.",
+    "source_quote": "Sarith nods.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Gyrgum",
+    "fact": "Gyrgum asks where the group will find safety after escape, prompting Eldeth\u2019s grim observation about the Underdark\u2019s nature.",
+    "source_quote": "Gyrgum asks, \u201cWhere will we find safety?\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Eldeth",
+    "fact": "Eldeth responds to Gyrgum\u2019s question with a bleak assessment: the Underdark offers no true safety, only survival through wits, where outsiders are seen as resources to be used.",
+    "source_quote": "Eldeth laughs, \u201cSafety? This is the Underdark. There is not enough resources or space for anyone. Survival depends on your wits. People tend to distrust outsiders and view them as a resource to be used.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Prince Derendil",
+    "fact": "Prince Derendil asserts that there is no abolitionist movement among Lolth-worshippers, implying that any aid offered must serve the drow\u2019s own benefit, not the prisoners\u2019 freedom.",
+    "source_quote": "Prince Derendil explains, \u201cWell we know that there is no abolitionist movement amongst those who worship Lolth. It has to be for his benefit.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a member of the group who recalls Sethir\u2019s mention of the grey ooze in the pool used for waste processing, and has previously suggested using a cantrip to turn water into ice to break gears.",
+    "source_quote": "Daz had remarked that he could use his cantrip to turn water into ice, and such an effect could break the gears. Daz wakes up and remembers, \u201cRight, Sethir said there is a grey ooze in the pool. That\u2019s how the waste gets processed.\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Ilvara",
+    "fact": "Ilvara is a drow leader who maintains control over the group through her polycule hierarchy. She has discarded Jorlan and elevated Shoor, and is implied to hoard all loot, including the prisoners' belongings.",
+    "source_quote": "Thorin thinks for a moment, \u201cI know where our stuff is. It\u2019s in the chest in Ilvara\u2019s room. The Drow leader probably keeps all the loot for herself. And if any other Drow had our stuff, they would taunt us.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Shoor",
+    "fact": "Shoor is the current leader of Ilvara\u2019s polycule, having replaced Jorlan after his disfigurement. He is the target of Jorlan\u2019s sabotage plan, intended to make him look ridiculous.",
+    "source_quote": "Sethir says, \u201cThat\u2019s Jorlan. He used to be the number one, but after he got hit with acid, his face was disfigured and he lost a finger, Ilvara\u2019s dropped him, and now Shoor is number one.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Ilvara\u2019s polycule",
+    "fact": "Ilvara\u2019s polycule is a drow power structure that operates through shifting alliances and hierarchies, with members like Jorlan, Shoor, Sethir, and others rising and falling based on loyalty, utility, and physical condition. It controls the slave pen and the prisoners' fate.",
+    "source_quote": "Sethir says, \u201cThat\u2019s Jorlan. He used to be the number one, but after he got hit with acid, his face was disfigured and he lost a finger, Ilvara\u2019s dropped him, and now Shoor is number one.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Lolth-worshippers",
+    "fact": "Lolth-worshippers are drow who follow the Spider Queen and maintain a rigid, cruel hierarchy. There is no known abolitionist movement among them, and any aid offered to prisoners is assumed to serve their own interests.",
+    "source_quote": "Prince Derendil explains, \u201cWell we know that there is no abolitionist movement amongst those who worship Lolth. It has to be for his benefit.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Myconids",
+    "fact": "The myconids are a fungal race with a communal culture, represented by Stool, who opposes routes that endanger their sacred circle and prioritize their people\u2019s safety.",
+    "source_quote": "Stool objects, \u201cNo to the great circle! My people!\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Deep gnomes",
+    "fact": "Deep gnomes, represented by Topsy and Shuushar, are known for their knowledge of Underdark routes and their desire to share enlightenment. They advocate for Blingdenstone and Menzoberranzan as escape paths, respectively.",
+    "source_quote": "Topsy says, \u201cWe should go to Blingdenstone. I know there is a way out of the Underdark from there.\u201d Shuushar objects, \u201cYes, but the direct path is through Menzoberranzan. We will have to go to Darklake first, and we must visit my people to share the enlightenment! From there, the path is good.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Kuo-toans",
+    "fact": "Kuo-toans, represented by Shuushar, are fish-like aberrations who believe in enlightenment and ritual. They insist on visiting their people before proceeding on escape routes.",
+    "source_quote": "Shuushar objects, \u201cYes, but the direct path is through Menzoberranzan. We will have to go to Darklake first, and we must visit my people to share the enlightenment! From there, the path is good.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Derros",
+    "fact": "Derros, represented by Jimjar, are twisted, greedy dwarves who thrive in chaos and often engage in betting and manipulation. Jimjar wagers on the newcomers\u2019 choices.",
+    "source_quote": "Jimjar adds, \u201cWho wants to bet on which path the new guys will want to go? Will they go with the myconid kid? The enlightened kuo-toan? The Destiny Weilding Derro? Or trust the two deep gnomes?\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "grey ooze",
+    "fact": "A grey ooze exists in a pool used to process waste in the slave pen, as recalled by Daz and mentioned by Sethir. It is a natural, corrosive hazard.",
+    "source_quote": "Daz wakes up and remembers, \u201cRight, Sethir said there is a grey ooze in the pool. That\u2019s how the waste gets processed.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "slave pen",
+    "fact": "The slave pen is a dark, oppressive chamber where prisoners are held, plagued by nightmares and strange phenomena. It is controlled by Ilvara\u2019s polycule and serves as the starting point for the escape plan.",
+    "source_quote": "Everyone\u2019s sleep in the slave pen is troubled and fitful, filled with strange dreams and disturbing images.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Gracklstugh",
+    "fact": "Gracklstugh is Buppido\u2019s homeland, a dwarven stronghold in the Underdark, proposed as the destination after escape.",
+    "source_quote": "Buppido smiles, \u201cTo Gracklstugh, my homeland!\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Blingdenstone",
+    "fact": "Blingdenstone is a deep gnome city with a known exit from the Underdark, advocated by Topsy as a safe escape route.",
+    "source_quote": "Topsy says, \u201cWe should go to Blingdenstone. I know there is a way out of the Underdark from there.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Menzoberranzan",
+    "fact": "Menzoberranzan is the infamous drow city, which Shuushar insists must be passed through on the way to the surface, requiring a detour to Darklake.",
+    "source_quote": "Shuushar objects, \u201cYes, but the direct path is through Menzoberranzan. We will have to go to Darklake first, and we must visit my people to share the enlightenment! From there, the path is good.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Darklake",
+    "fact": "Darklake is a location on the route to Menzoberranzan, required by Shuushar\u2019s plan to visit his kuo-toan people and share enlightenment.",
+    "source_quote": "Shuushar objects, \u201cYes, but the direct path is through Menzoberranzan. We will have to go to Darklake first, and we must visit my people to share the enlightenment! From there, the path is good.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Ilvara\u2019s room",
+    "fact": "Ilvara\u2019s room contains a chest where the prisoners\u2019 belongings are stored, as observed by Thorin, who assumes the drow leader hoards all loot.",
+    "source_quote": "Thorin thinks for a moment, \u201cI know where our stuff is. It\u2019s in the chest in Ilvara\u2019s room. The Drow leader probably keeps all the loot for herself. And if any other Drow had our stuff, they would taunt us.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "armory",
+    "fact": "The armory is the target location after the prison door is opened and a distraction is created, where weapons must be seized for escape.",
+    "source_quote": "Jorlan smiles, \u201cI will leave the door to the prison open, create a distraction. The path to the armory will be unguarded. Grab the weapons and flee.\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "waterfall",
+    "fact": "The waterfall is one of two escape routes proposed for descending from the prison, to be used by sliding down or jumping into spiderwebs and pools.",
+    "source_quote": "Jorlan smiles, \u201cUse the waterfall to slide down, or jump into the spiderwebs and then jump into the pools of water.\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "spiderwebs",
+    "fact": "Spiderwebs are part of the escape route, serving as a transition between the waterfall and the water pools, and are implied to be dense and possibly hazardous.",
+    "source_quote": "Jorlan smiles, \u201cUse the waterfall to slide down, or jump into the spiderwebs and then jump into the pools of water.\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "pools of water",
+    "fact": "Pools of water are the final descent point in the escape route, reached via waterfall or spiderwebs, and serve as the transition to the next leg of the journey.",
+    "source_quote": "Jorlan smiles, \u201cUse the waterfall to slide down, or jump into the spiderwebs and then jump into the pools of water.\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "spider silk",
+    "fact": "Spider silk is used in the winch mechanism, passing through the gears and basket. Zalthir examines it as a potential point of sabotage.",
+    "source_quote": "The two things that attract his attention are using spider silk to hold the basket and the winch and gears that the spider silk goes through.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "piece of rope",
+    "fact": "Zalthir takes a small piece of rope to test its resistance later, likely to determine if fire-breathing or other methods can sever it during escape.",
+    "source_quote": "He takes a small piece of rope to test its resistance later.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "chest in Ilvara\u2019s room",
+    "fact": "The chest in Ilvara\u2019s room contains the prisoners' personal belongings, which Thorin identifies as the key to reclaiming their gear before escape.",
+    "source_quote": "Thorin thinks for a moment, \u201cI know where our stuff is. It\u2019s in the chest in Ilvara\u2019s room. The Drow leader probably keeps all the loot for herself. And if any other Drow had our stuff, they would taunt us.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "escape route decision",
+    "fact": "The group is divided on the optimal escape route, with competing proposals from myconids, deep gnomes, kuo-toans, and others. The decision remains unresolved and is the subject of betting and suspicion.",
+    "source_quote": "Jimjar adds, \u201cWho wants to bet on which path the new guys will want to go? Will they go with the myconid kid? The enlightened kuo-toan? The Destiny Weilding Derro? Or trust the two deep gnomes?\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "trust in Jorlan",
+    "fact": "The prisoners are uncertain whether Jorlan\u2019s aid is genuine or a trap set by Ilvara. Thorin voices suspicion, and Jorlan acknowledges their distrust, deepening the mystery.",
+    "source_quote": "Thorin connected to his friends via the spores and asked, \u201cHow do we know that he isn\u2019t here to entrap us?\u201d Jorlan smiles, \u201cI can sense you don\u2019t trust me. You are wise not to trust me.\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "debt repayment system",
+    "fact": "A system of wagers and future collection has been established for debts, with no money currently available. The group must survive and earn money to settle obligations.",
+    "source_quote": "Zalthir asks, \u201cWe have no money; how do we pay our debts?\u201d \u201cOh, don\u2019t worry, I have perfect recall. Just make your wager, and when you have money, I\u2019ll collect.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "nightmares in the slave pen",
+    "fact": "All prisoners suffer from recurring, vivid nightmares filled with moving shadows, oily tentacles, buzzing, howling, and erupting wounds. At least one wakes in cold sweat after every rest, sensing something far worse than the drow.",
+    "source_quote": "Everyone\u2019s sleep in the slave pen is troubled and fitful, filled with strange dreams and disturbing images. Dark shadows seem to move and reach out toward them as the characters wander lost through endless mazes of tunnels. Oily tentacles slide to brush up against them while a great buzzing and howling rises in the distance. Suppurating wounds burst open in clouds of spores or crawling masses of maggots or insects. At least one or more of the prisoners wakes in a cold sweat from these nightmares after every rest, feeling as though something is out there in the dark depths \u2014 something far worse than the drow.",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "after a long rest",
+    "fact": "The escape plan is scheduled to begin after a long rest, before the prisoners are assigned their next tasks.",
+    "source_quote": "\u201cAfter a long rest, before you go on your assigned tasks.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "before assigned tasks",
+    "fact": "The escape is timed to occur just prior to the prisoners being assigned new duties, ensuring minimal surveillance and maximum opportunity.",
+    "source_quote": "\u201cAfter a long rest, before you go on your assigned tasks.\u201d",
+    "quote_verified": true
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "type": "npc",
+    "subject": "Skiit",
+    "fact": "Skiit is a derro cultist of Demogorgon who believes following the demon lord will restore Derro pride and power. He is mentally unstable, mutters to himself, and obsesses over Pliinki\u2019s promises. He was thrown into a pit by Grygum and later killed by Daz\u2019s Toll the Dead.",
+    "source_quote": "\u2018Pliinki promised Skiit a better job.\u2019 \u2018I am a follower of Demogorgon! We\u2019re going to be great again!\u2019",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Ulnara",
+    "fact": "Ulnara is a derro necromancer and cultist of Demogorgon who oversees the \u2018great project of Ulnara of the Council of Savants.\u2019 She initially appears arrogant but collapses into subservience upon realizing Daz is a Drow. She seeks to turn corpses into zombies for Demogorgon\u2019s cult.",
+    "source_quote": "\u2018Your lordship! Or was it the Ember Vanguard?... I will turn him into a zombie and he will serve the cult of Demogorgon forever!\u2019",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Narrak",
+    "fact": "Narrak is a derro ritualist and mad scholar who leads experiments in a cavern filled with Demogorgon-themed tomes. He is a terrifying blend of warped intellect and chaotic evil, obsessed with elevating the Derro, destroying the Duergar, and serving Demogorgon.",
+    "source_quote": "\u2018We are conducting experiments!... The elevation of the Derro, the Triumph of Demogorgon, and the destruction of the Duergar!\u2019",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is a charismatic, preacher-like cleric who claims to worship Bahamut but uses theatricality and psychological manipulation to control derro. He is emotionally inconsistent, alternating between gentleness and cruelty, and often misjudges derro reactions due to his temple-bred naivete.",
+    "source_quote": "\u2018I worship Bahamut!\u2019 \u2018That is a question that requires more than a simple answer. It is, in fact, a Divine Scrutiny...\u2019",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a ruthless, calculating Drow spellcaster who operates with cold efficiency. He uses fear, lethal magic, and precise strikes to dominate derro and necromancers. He is pragmatic, distrustful of evidence, and sees through the delusions of others.",
+    "source_quote": "\u2018I snap my fingers... but the derro escapes.\u2019 \u2018Toll the Dead... his heart stops, and he dies.\u2019",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is a battle-hardened dwarf warrior who relies on brute force, armor, and blunt pragmatism. He dismisses madness as irrelevant, avoids unnecessary conflict, and has zero patience for philosophical talk. He is the group\u2019s most effective combatant against derro.",
+    "source_quote": "\u2018One head is better than two!\u2019 \u2018No. There is nothing of value here.\u2019 \u2018East.\u2019",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is a silent, disciplined monk whose actions are precise and purposeful. He communicates only through deeds \u2014 summoning darkness, landing critical strikes, and observing without judgment. He is the group\u2019s most reliable and composed member.",
+    "source_quote": "I observe everything and say nothing. My mind is clear. I act without speaking. I do because I know.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Ember Vanguard",
+    "fact": "The Ember Vanguard is a self-proclaimed group that Grygum and Daz adopt as a cover identity to intimidate derro and other cave-dwellers. It is a fabricated title with no formal structure, used strategically to project authority and exploit fear of the unknown.",
+    "source_quote": "\u2018We are the Ember Guard,\u2019 shouts Grygum. I smile. I like that name.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Derro",
+    "fact": "The Derro are a race of mad, twisted dwarves once enslaved and mentally corrupted by mind flayers. They are obsessed with Demogorgon, prone to delusions of grandeur, and incapable of rational diplomacy. Their society is fragmented, chaotic, and dominated by cultish fervor.",
+    "source_quote": "They are Dwarves that were slaves of the mindflayers, who corrupted their fundamental nature until they are barely Dwarves. They are mad.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Cult of Demogorgon",
+    "fact": "A pervasive, decentralized cult among the Derro that worships the Two-Headed Demon Lord as the source of their twisted power and supposed redemption. It is used to justify atrocities, control lower Derro, and oppose the Duergar. Its influence is evident in rituals, tomes, and the delusions of its followers.",
+    "source_quote": "\u2018The only purpose that matters! The elevation of the Derro, the Triumph of Demogorgon, and the destruction of the Duergar!\u2019",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Duergar",
+    "fact": "The Duergar are a subterranean dwarven race hostile to the Derro, often seen as oppressors or rivals. The Derro cultists blame them for their suffering and vow destruction, though the Duergar themselves are not present in this scene.",
+    "source_quote": "\u2018I don\u2019t believe you guys work for us. I think you work for the Duergar or the Mindflayers!\u2019",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Ogre Zombie",
+    "fact": "An undead brute that emerges from the pit, demanding answers. It is part of Ulnara\u2019s undead army and exhibits the mindless aggression typical of reanimated giants, though its speech suggests lingering sentience or necromantic corruption.",
+    "source_quote": "\u2018What is the meaning of this? Who are you? Who do you think you are?\u2019",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Death Dogs",
+    "fact": "Canine undead creatures that patrol the cavern with Narrak\u2019s ritual circle. They are likely bred or raised by the Derro cultists as guardians and are attuned to the foul energies of the space.",
+    "source_quote": "The cavern floor rises... and I finally spot the inhabitants, some Derro and Death dogs.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Amulet of Demogorgon",
+    "fact": "A dark artifact worn by Skiit, symbolizing his allegiance to the Two-Headed Demon Lord. It is the key to his delusional belief in Derro supremacy and the source of his defiance against the party.",
+    "source_quote": "Wait, that\u2019s interesting, he\u2019s got an amulet of Demogorgon.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Trillimac Tomes",
+    "fact": "Books bound in Trillimac leather containing forbidden knowledge on Demogorgon\u2019s influence, Derro ascension, and ritual madness. They are evidence of the cult\u2019s scholarly corruption and serve as potential leverage against Errde Blackstaff.",
+    "source_quote": "\u2018The Spiraling Descent: A Treatise on Duality and Madness,\u2019 \u2018The Prince's Gift: On the Creation of Favored Spawn,\u2019 \u2018Rituals of the Two-Headed Beast.\u2019",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Divine Scrutiny",
+    "fact": "A term Grygum invents to avoid answering direct questions about his allegiance. It is a theatrical facade masking his uncertainty and hypocrisy, used to confuse and delay adversaries with pseudo-theological verbosity.",
+    "source_quote": "\u2018It is, in fact, a Divine Scrutiny, a profound act of investigation into the very threads of our intertwined fates...\u2019",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "The Great Project of Ulnara",
+    "fact": "A mysterious, ongoing Derro necromantic operation overseen by Ulnara, involving body parts, zombies, and ritual sacrifice. Its true purpose is unknown, but it is tied to Demogorgon\u2019s influence and the Derro\u2019s desire for rebirth.",
+    "source_quote": "\u2018The great project of Ulnara of the Council of Savants!\u2019",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The events described occur during a single, continuous journey through the subterranean tunnels of Gracklstugh, beginning with the aftermath of a battle and ending at a cavern of ritual madness.",
+    "source_quote": "And so we continue on our journey through the caves...",
+    "quote_verified": false
+  }
+]

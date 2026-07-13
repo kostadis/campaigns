@@ -1,0 +1,471 @@
+[
+  {
+    "type": "npc",
+    "subject": "Ilvara Mizzrym",
+    "fact": "Ilvara Mizzrym is the high priestess of House Mizzrym, corrupted vessel of Zuggtmoy, and the central antagonist of the confrontation. She was grappled, dropped from forty feet, struck with two critical hits, and survived \u2014 then unleashed a fear-inducing psychic backlash that rendered proximity impossible for the monk.",
+    "source_quote": "She reached into whatever dark place Zuggtmoy had hollowed out inside her and she pushed \u2014 not against my body, not against my grip, but against the part of me that the training does not fully reach.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is a monk who relies on proximity, grappling, and dropping enemies from height. He successfully grappled and critically struck Ilvara, but was rendered immobile by her fear-inducing backlash, forcing him to remain at range while observing the battle unfold.",
+    "source_quote": "I stayed where I was. Forty feet up. The frightened condition is not subtle \u2014 it is not a suggestion.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin Giantfriend",
+    "fact": "Thorin is a dwarf fighter who wields Dawnbringer and prefers direct confrontation. He destroyed the Heart Fungus in one round with radiant damage, then chose not to make an opportunity attack against Jorlan as he charged Ilvara, recognizing the emotional weight of their personal conflict.",
+    "source_quote": "I stepped aside and let Jorlan pass. There's something that feels almost like mercy in it. There's something that feels almost like tactics. I'm not sure they're different.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Jorlan",
+    "fact": "Jorlan is a scarred drow warrior once loved by Ilvara, abandoned by her for his disfigurement. He abandoned his position in battle to charge Ilvara with raw emotional urgency, triggering a personal reckoning between former lovers.",
+    "source_quote": "\"ILVARA\" It came out like a wound reopening. Not rage exactly \u2014 rage is clean, rage has direction. This was something uglier and more honest than rage.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is a cleric who prioritizes compassion and accountability. He was the first to voice concern for Glabbagool during the Insect Plague, offered Revivify to restore fallen minions, and reflected on the logistical chaos of tracking allies and enemies in the Underdark.",
+    "source_quote": "\"Oh, how about Glabbagool?\" That was me. That was the question I asked first, before I assessed my own position...",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool is a sentient gelatinous cube companion who earnestly but ineffectually participates in combat. He survived twenty-six points of damage from Ilvara\u2019s Insect Plague, becoming a symbol of unintended collateral damage in the Underdark\u2019s brutal conflicts.",
+    "source_quote": "Twenty-six points of damage. The grey ooze took twenty-six points of damage from a spell he had nothing to do with, while he was hovering at the edge of the chaos doing his best to look like he was following the conversation.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a member of the party known for his cheekbones, monologues, and range-based tactics. He is contrasted with Zalthir and Thorin as the archetype of theatricality and distance, often serving as a foil to their directness.",
+    "source_quote": "I do not, as a rule, enjoy monologue. I leave that to Daz, who has the cheekbones for it.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "House Mizzrym",
+    "fact": "House Mizzrym is a drow noble house aligned with Zuggtmoy, the Demon Lord of Fungal Nightmare. Ilvara Mizzrym serves as its high priestess, embodying its values of beauty, power, and corruption.",
+    "source_quote": "Ilvara Mizzrym, high priestess of House Mizzrym, Zuggtmoy's beloved instrument, corrupted vessel of a demon lord of fungal nightmare.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Drow Society",
+    "fact": "Drow society is a brutal hierarchy that rewards physical beauty and punishes imperfection, leading to personal betrayals and emotional violence. Jorlan\u2019s abandonment by Ilvara exemplifies this systemic cruelty.",
+    "source_quote": "Ilvara had dumped Jorlan when he became Scarface, because Drow society rewards beauty and punishes everything else, because Drow society is a whole list of things I find exhausting.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Heart Fungus",
+    "fact": "The Heart Fungus is a massive, iconic fungal entity at the center of the cavern, serving as both environmental hazard and symbolic centerpiece. It was destroyed in one round by Thorin\u2019s Dawnbringer, despite extensive preparation by the DM.",
+    "source_quote": "It was massive, pulsing, ringed with spore-choked air and difficult terrain between me and it \u2014 a whole careful geography of annoyance.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Insect Plague",
+    "fact": "Insect Plague is a spell cast by Ilvara that manifests as a swarming, shrieking mass of insects that annihilates all organic life in its path, including fungal minions and Glabbagool.",
+    "source_quote": "The swarm hit the cavern entrance like a wall of sound and motion \u2014 a biblical chittering that shredded the fungal minions instantly, all thirteen hit points of them, gone before they could do anything useful.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Dawnbringer",
+    "fact": "Dawnbringer is Thorin\u2019s radiant-weapon sword, always drawn and never sheathed in the presence of worthy targets. It bypasses resistances and delivers decisive, immediate destruction.",
+    "source_quote": "She's not the sort of sword that waits politely in a scabbard when there's something this obviously in need of being hit with radiant light.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Destruction of the Heart Fungus",
+    "fact": "The Heart Fungus, a meticulously designed environmental icon, was destroyed in one round by Thorin\u2019s radiant strike, collapsing the DM\u2019s planned encounter and shifting the battle\u2019s focus entirely to Ilvara and Jorlan.",
+    "source_quote": "I spent so much time creating this icon.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Insect Plague on Glabbagool",
+    "fact": "The Insect Plague spell inflicted twenty-six points of damage on Glabbagool, a non-combatant sentient cube, forcing the party to confront the moral cost of collateral damage in the Underdark.",
+    "source_quote": "Twenty-six points. We had not brought a gelatinous cube this far through the Underdark to lose him to biting insects conjured by a woman who had traded her dignity to a fungal demon lord.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Jorlan\u2019s Charge Against Ilvara",
+    "fact": "Jorlan abandoned tactical positioning to charge Ilvara across a swarm-filled battlefield, triggering a deeply personal confrontation that the party chose not to interfere with, recognizing its emotional gravity.",
+    "source_quote": "He broke from position and charged toward her across the swarm-infested terrain, and the name that came out of him was not a battle cry.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Frightened Condition and Proximity",
+    "fact": "Zalthir\u2019s frightened condition, triggered by Ilvara\u2019s backlash, created a narrative thread exploring the limits of monastic discipline: when rules forbid action, what does honor demand?",
+    "source_quote": "The spirit seems to be that I should do nothing to become closer to her. Right. Alright. Fine.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Bookkeeping in the Underdark",
+    "fact": "The party\u2019s inability to track whose minions have fallen \u2014 fungal servants, gelatinous cubes, drow allies \u2014 reflects a broader thread about the erosion of moral clarity and logistical control in prolonged Underdark campaigns.",
+    "source_quote": "We used to have so many people traveling with us, I forgot.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Cavern of the Heart Fungus",
+    "fact": "The cavern is a vast, fungal-choked space dominated by the pulsing Heart Fungus, surrounded by difficult terrain and insect swarms. It functions as both battlefield and symbolic heart of Zuggtmoy\u2019s influence.",
+    "source_quote": "The cavernous space above the heart fungus was dark and vast and exactly the kind of silence I prefer to operate in.",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The events described occurred during a single session of play, marked by rapid shifts in tactical focus, emotional climaxes, and the collapse of prepared encounters.",
+    "source_quote": "One round. That was all it got.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Ilvara Mizzrym",
+    "fact": "Ilvara Mizzrym was Zuggtmoy's instrument, the corrupted high priestess of House Mizzrym, the reason we had been prisoners in the first place \u2014 she folded and went still, then erupted into a cloud of poisonous spores, because the Underdark does not allow even death to be dignified.",
+    "source_quote": "She *erupted*. A cloud of poisonous spores, billowing outward from what had been a person. A woman who had traded herself to a fungal demon lord, and what was left was biology, not identity. Not even a body. Just spores.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is the feared mage of the Ember Vanguard, standing in the smoke of his own fireball, surrounded by people who are fighting because he refused to leave \u2014 he chose not to hide, not to be extracted, not to be managed, and found in that refusal what purpose feels like.",
+    "source_quote": "The feared mage of the Ember Vanguard, standing in the smoke of his own fireball, surrounded by people who were fighting because he refused to leave. I find, somewhat to my own surprise, that this is what purpose feels like.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Nym Duskryn",
+    "fact": "Nym Duskryn is a contract-bound extractor who views Daz as currency \u2014 her frustration shifted from exasperated professionalism to pointed inquiry when she asked if she could kill his brother, revealing her pragmatic detachment from his moral stance.",
+    "source_quote": "Can I kill your brother? ... He was always the dumber of the ones, and if I understood correctly, he's covered in fungus?",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Kaelira Duskryn",
+    "fact": "Kaelira Duskryn physically dragged Daz away from danger with the force of a vice, enforcing survival through coercion \u2014 she had strong opinions about his continued existence and was willing to act without his consent.",
+    "source_quote": "Come with me if you want to live, you idiot.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Asha Vandree",
+    "fact": "Asha Vandree is a zealot who immediately labeled the Duskryn sisters as traitors to Lolth \u2014 her rigid worldview was temporarily sustained by Daz\u2019s performance of Lolth-follower identity, which he maintains with the momentum of consistent characterization rather than deception.",
+    "source_quote": "Who are you? You must be traitors! Traitors to Lolth!",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum observes with the steady, clear-eyed precision of a man keeping accurate records \u2014 he noted that Asha\u2019s characterization of Daz as an insane mage who converted to Lolthism was 'accurately described,' revealing his detached, factual lens on the unfolding fiction.",
+    "source_quote": "The situation was 'accurately described' by Asha's characterization of me as an insane mage who had converted to Lolthism.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Jorlan Duskryn",
+    "fact": "Jorlan Duskryn is Daz\u2019s brother \u2014 pursued Ilvara through an active insect plague, abandoned the group, and now bears the scars of romantic betrayal and fury \u2014 his actions are a source of personal drama that Daz files, appreciates, and continues from.",
+    "source_quote": "The romantic betrayal. The scarring. The fury. The way he had broken from us to pursue her through an active insect plague. It was genuinely interesting.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "House T'sarran",
+    "fact": "House T'sarran deployed elite drow soldiers who were trained, armored, and contracted to resolve the crisis \u2014 they were stymied not by power but by the absence of Dispel Magic, resulting in a petty logistical failure that Daz finds aesthetically interesting.",
+    "source_quote": "The matron mother of House T'sarran will hear about this.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "House Mizzrym",
+    "fact": "House Mizzrym is the corrupted drow house to which Ilvara belonged \u2014 its legacy is one of demonic pacts and imprisonment, and its downfall is tied to the collapse of its high priestess and the spread of her fungal curse.",
+    "source_quote": "Ilvara Mizzrym \u2014 Zuggtmoy's instrument, the corrupted high priestess of House Mizzrym, the reason we had been prisoners in the first place.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Insect Plague",
+    "fact": "The insect plague is a pervasive hazard that hangs in the air, damaging all who enter \u2014 it has already claimed twenty-six points of damage from Glabbagool and rendered multiple Drow warriors irrelevant by killing them outright.",
+    "source_quote": "The insect bloom still hanging in the air. ... The Drow warriors who had been irritated about the Insect Plague were no longer irritated about the Insect Plague.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool is a sentient, gentle, luminously good-natured ooze companion who simply tries to participate in the ambient conversation of the battle \u2014 he survived twenty-six points of damage from Ilvara\u2019s plague, making him an unexpected casualty of collateral magic.",
+    "source_quote": "Our sentient, gentle, luminously good-natured ooze companion who had been, from what I could tell, simply trying to participate in the ambient conversation of the battle \u2014 had already taken twenty-six points of damage from Ilvara's plague and survived.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Drow Warriors (5)",
+    "fact": "Five drow warriors emerged from the cavern shadows, already inside the poison cloud\u2019s range \u2014 they were tactical, armored, and prepared for combat, but were quickly neutralized by Daz\u2019s sculpted Fireball.",
+    "source_quote": "Five drow warriors emerging from the cavern shadows. ... The new arrivals were already inside the poison cloud's range.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "The Cavern",
+    "fact": "The cavern is a site of escalating chaos \u2014 it contains a persistent insect plague, a fungal spore cloud, a cracked bridge, and a tunnel mouth where elite soldiers debate rather than act \u2014 it is a space where death is undignified and strategy is undermined by poor preparation.",
+    "source_quote": "The bridge cracked under her. Thorin's work. ... The tunnel mouth where elite drow soldiers were having an argument that I can only describe as profoundly unhelpful.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Menzoberranzan",
+    "fact": "Menzoberranzan is the drow city where Daz was trained as an Evoker \u2014 its culture values destructive magic as the only magic worth taking seriously, shaping his approach to spellcasting and his belief in the necessity of force.",
+    "source_quote": "I am an Evoker, trained in Menzoberranzan where the destructive arts were considered the only magic worth taking seriously.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Sculpt Spells",
+    "fact": "Sculpt Spells is the Evoker ability that allows Daz to remove specific individuals from area-of-effect spells \u2014 he used it to protect Glabbagool and others while unleashing Fireball on the Drow warriors.",
+    "source_quote": "The ability is called Sculpt Spells, and it means I can reach into a Fireball and pull specific individuals out of harm's way, leaving the fire to do its work on everything else in the radius.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Ilvara's Eruption",
+    "fact": "Ilvara\u2019s death was not a fall but an eruption \u2014 a cloud of poisonous spores billowed outward, transforming her body into biological waste, because the Underdark denies dignity even in death.",
+    "source_quote": "She *erupted*. A cloud of poisonous spores, billowing outward from what had been a person. A woman who had traded herself to a fungal demon lord, and what was left was biology, not identity. Not even a body. Just spores.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daz's Fireball",
+    "fact": "Daz cast a sculpted Fireball in a shaped arc around those he wished to protect \u2014 it incinerated the five Drow warriors and left the mage barely standing, demonstrating his mastery of geometry over brute force.",
+    "source_quote": "I cast Fireball in a shaped arc around everything I wanted to keep. The cavern went very bright for a moment.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "The Duskryn Extraction Attempt",
+    "fact": "Nym and Kaelira attempted to extract Daz from combat \u2014 their professional contract was undermined by his refusal to be managed, and their frustration culminated in Nym asking if she could kill his brother.",
+    "source_quote": "Can I kill your brother? ... The best way for you to get paid, then, is to continue the fight and prevent all of us from dying.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "House T'sarran's Retribution",
+    "fact": "The surviving mage warned that the matron mother of House T'sarran will hear about this \u2014 this is a looming political consequence that Daz has filed for future consideration.",
+    "source_quote": "The matron mother of House T'sarran will hear about this. That is probably going to matter later. I filed it accordingly.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Jorlan's Betrayal",
+    "fact": "Jorlan Duskryn\u2019s pursuit of Ilvara through the insect plague and abandonment of the group remains an unresolved emotional thread \u2014 Daz has filed it as 'genuinely interesting' and continues from it without resolution.",
+    "source_quote": "The romantic betrayal. The scarring. The fury. The way he had broken from us to pursue her through an active insect plague. It was genuinely interesting. I filed it, appreciated it, and continued.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Daz's Identity Performance",
+    "fact": "Daz maintains a fabricated Lolth-follower identity with Asha Vandree \u2014 the fiction has become load-bearing, and he no longer thinks of it as lying but as consistent characterization, leaving open the question of what is real.",
+    "source_quote": "I have been maintaining a Lolth-follower identity with Asha Vandree for long enough that the fiction has its own momentum \u2014 you learn to stop thinking of it as lying and start thinking of it as consistent characterization.",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "This sequence occurs during an active, high-stakes session in the Underdark \u2014 time is not marked by calendar but by escalating combat, death, and revelation.",
+    "source_quote": "I was amused by the Jorlan-Ilvara drama. I want to be clear about that. The romantic betrayal. The scarring. The fury. The way he had broken from us to pursue her through an active insect plague. It was genuinely interesting.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is a monk bound by the discipline of fear, unable to approach Ilvara despite his training, due to the demonic presence of Zuggtmoy within her; he teleported and killed the last T'sarran mage with a single strike, then waited out his turn in stillness, accepting the humiliation of his condition.",
+    "source_quote": "I'm a monk.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Ilvara Mizzrym",
+    "fact": "Ilvara Mizzrym has been entirely consumed by Zuggtmoy, no longer a person but a vessel of demonic prophecy; she howled fragments of chaos, the bride, and vengeance as she died, her body erupting in a toxic bloom of spores that poisoned the cavern and marked her as a fallen high priestess claimed by a greater power.",
+    "source_quote": "Vengeance. Zuggtmoy. The bride.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum delivered the final Guiding Bolt to Ilvara, recognizing her as irredeemably corrupted by Zuggtmoy; he acted not out of vengeance but divine pragmatism, positioning himself safely to avoid the resulting spore explosion, and filed away the threat of House T'sarran's matron mother and the mystery of Glabbagool.",
+    "source_quote": "Not ideal, how big is the cloud, glad I was standing back.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin destroyed the bridge and the heart fungus with overwhelming radiant force, acting as a force of blunt, physical resolution; he spent the battle chasing the action across the cavern, accepting that his role was not control but destruction, and stood in quiet after the fight, acknowledging the cost of victory without yet understanding its full implications.",
+    "source_quote": "I do what I can.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Asha Vandree",
+    "fact": "Asha Vandree knelt in the aftermath of Ilvara\u2019s death and began praying to Lolth, reshaping the tragedy into theology, turning witnessed corruption into a foundation for future worship \u2014 a silent act of resilience and ideological continuation that Grygum noted as something to watch.",
+    "source_quote": "Prayers to Lolth, rising from the wreckage.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "T'sarran Mage",
+    "fact": "The last T'sarran mage arrived with a dramatic lightning bolt that missed, was later incinerated by Daz\u2019s empowered fireball, and died with the stunned realization that his assumption of an easy kill was catastrophically wrong.",
+    "source_quote": "I shall punch the mage.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz obliterated the T'sarran mage with an empowered fireball, demonstrating lethal precision; his role in the aftermath was to explain why the chaos was acceptable, likely to others still reeling from the battle\u2019s brutality.",
+    "source_quote": "Why exactly this was all fine.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Jorlan Duskryn",
+    "fact": "Jorlan Duskryn was locked in a bitter, personal duel with Ilvara, driven by her rejection of him after he received his scar; though present, his role was secondary to the larger demonic transformation, and his fate was left unresolved as the battle consumed all else.",
+    "source_quote": "He's been carrying that wound ever since.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "House T'sarran",
+    "fact": "House T'sarran suffered total loss \u2014 their mage dead, their guards incinerated, their last warrior standing amid the spore-choked ruin \u2014 and withdrew with a cold, calculated threat to return; Grygum noted the matron mother\u2019s impending awareness as a future danger to be investigated.",
+    "source_quote": "We will meet again. Enjoy your victory for the moment.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Lolth",
+    "fact": "Lolth\u2019s influence persisted through Asha Vandree\u2019s prayers, which transformed Ilvara\u2019s fall into a devotional narrative; the goddess is not defeated but reasserting herself through the reinterpretation of catastrophe, ensuring her cult remains active even in ruin.",
+    "source_quote": "Prayers to Lolth, rising from the wreckage.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Zuggtmoy",
+    "fact": "Zuggtmoy claimed Ilvara completely \u2014 not as a puppet, but as a living vessel of prophecy and corruption; her final moments were not a death but a venting of demonic essence, leaving behind spores and a lingering threat that reshaped the battlefield and the minds of those who witnessed it.",
+    "source_quote": "Something Zuggtmoy-deep, something that had nothing to do with Ilvara Mizzrym's personal opinion of Zalthir and everything to do with the demon lord wearing her face.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Ilvara's detonation",
+    "fact": "Ilvara\u2019s death triggered a massive toxic bloom of demonic spores that filled the cavern, injuring Zalthir and Thorin, forcing retreat, and turning victory into a contaminated aftermath; the explosion was not an end but a final act of possession.",
+    "source_quote": "She detonated. Her body ruptured outward in a massive toxic bloom.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Bridge collapse",
+    "fact": "Thorin destroyed the bridge, forcing Ilvara and Jorlan to fall into the cavern below; the collapse was a physical turning point that shifted the battle from vertical to horizontal, and symbolized the ruin of all structure \u2014 both architectural and moral.",
+    "source_quote": "The bridge going down was my idea, technically, but I can't take full credit for it feeling satisfying.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Heart fungus destruction",
+    "fact": "Thorin obliterated the heart fungus in two rounds of radiant damage, eliminating a major environmental threat that had taken weeks to stat; its destruction was swift, total, and emotionally isolating \u2014 Grygum had prepared for it but never got to act.",
+    "source_quote": "Boy, I had so much planned for the fungus.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Mage's death",
+    "fact": "The T'sarran mage was killed by Daz\u2019s fireball after a failed dramatic entrance with lightning; his death underscored the futility of assuming superiority in the Underdark, and became a lesson in overconfidence.",
+    "source_quote": "Expected an easy kill and received instead a detailed education in why that assumption was wrong.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Dawnbringer",
+    "fact": "Thorin\u2019s Dawnbringer pulsed with steady warmth after the battle, a silent companion to his radiant destruction; it was the only consistent presence in a chaotic fight, symbolizing unwavering divine force amid shifting tides.",
+    "source_quote": "Dawnbringer pulsed once, steady warmth against my palm.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Eldritch Claw Tattoo",
+    "fact": "Zalthir\u2019s Eldritch Claw Tattoo granted him fifteen feet of reach, enabling him to haul Ilvara into the air and strike her during ascent; its power was precise, surgical, and ultimately useless against the demonic presence she embodied.",
+    "source_quote": "Used the Eldritch Claw Tattoo to wrap tentacles around her, hauled her forty feet into the air.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Glabbagool",
+    "fact": "Grygum\u2019s first question after the spores thinned was about Glabbagool \u2014 an unresolved mystery that suggests a deeper, hidden threat or artifact tied to the battle\u2019s aftermath, potentially connected to the corruption of Ilvara or the fate of House T'sarran.",
+    "source_quote": "My first real question... was about Glabbagool.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Matron Mother of House T'sarran",
+    "fact": "The matron mother of House T'sarran remains unidentified but aware; Grygum intends to discover who she is before she discovers who the party is, signaling a looming political threat that will outlast the current battle.",
+    "source_quote": "I'll want to remember that name.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Asha's Theology",
+    "fact": "Asha Vandree is rebuilding Lolth\u2019s faith from the ashes of Ilvara\u2019s fall; her prayers are not mourning but doctrine-in-the-making, and her narrative may become a rallying point for future cult activity \u2014 a spiritual thread left hanging in the dark.",
+    "source_quote": "Whatever theology she was building out of this moment, I filed it under 'watch this space.'",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Cavern at Velkynvelve",
+    "fact": "The cavern at Velkynvelve is now a ruined, spore-choked battlefield: bridge collapsed, fungus dead, mage and guards slain, Ilvara reduced to dissipating corruption; it is a place where victory is stained, silence is heavy, and the Underdark waits to correct optimism.",
+    "source_quote": "The cavern settled into a thick, spore-choked silence.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Bridge over Velkynvelve",
+    "fact": "The bridge was once a strategic chokepoint, now reduced to rubble by Thorin\u2019s force; its destruction marked the end of vertical control and the descent into chaotic, ground-level carnage, symbolizing the collapse of order in the fight.",
+    "source_quote": "The bridge was rubble.",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "One turn",
+    "fact": "Zalthir waited one turn \u2014 a long, humiliating duration \u2014 before the fear lifted, underscoring the mechanical, inescapable nature of his condition; time in this battle is not measured in actions but in the weight of restraint.",
+    "source_quote": "One turn is a long time when you have nothing to do in it.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Insect Swarm at Entrance",
+    "fact": "An insect swarm lingered at the cavern entrance, later dealt with by an unnamed ally; it was a minor, persistent hazard that symbolized the encroaching corruption of the Underdark, now neutralized as the battle contracted toward its end.",
+    "source_quote": "Someone else was dealing with the insect swarm at the entrance.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Heart Fungus",
+    "fact": "The heart fungus was a massive, slow-growing horror that took weeks to stat; Thorin destroyed it in two rounds, rendering it irrelevant and symbolizing the futility of elaborate environmental threats against overwhelming radiant force.",
+    "source_quote": "Big pulsating horror that must have taken the DM weeks to stat out, and it folded before anyone else could touch it.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Demonic Spore Cloud",
+    "fact": "The spore cloud released by Ilvara\u2019s death was a living hazard \u2014 toxic, airborne, and self-propagating; it was not merely a byproduct but an extension of Zuggtmoy\u2019s will, punishing proximity and forcing retreat.",
+    "source_quote": "A cloud of poisonous spores billowing through the cavern in every direction.",
+    "quote_verified": false
+  }
+]

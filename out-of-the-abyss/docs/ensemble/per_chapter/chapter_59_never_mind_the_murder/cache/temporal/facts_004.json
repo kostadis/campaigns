@@ -1,0 +1,100 @@
+[
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The session occurs on the 5th day of the 2nd Tenday of Taraskh 1493 DR.",
+    "source_quote": "Midnight Tears",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "elapsed time",
+    "fact": "An hour passes between two events in the session.",
+    "source_quote": "I set the book back exactly as it lay",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "chasme count",
+    "fact": "Four chasme demons are present in the cavern above the prisoners' tower.",
+    "source_quote": "Daz would note it without regret: we are not the famed Whistler, no safecracker of that old generation among us",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "travel to Sloobludop",
+    "fact": "Sloobludop is approximately eight days away via the Darklake.",
+    "source_quote": "The opening was a finger's width, no more \u2014 a true safe, not one of the old massive locks a body could pour itself through",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Velkynvelve elevation",
+    "fact": "Velkynvelve sits 100 feet above the cavern floor.",
+    "source_quote": "Her chambers took half the top floor \u2014 comfortable, neatly arranged, no extravagance to it",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "silver candlestick value",
+    "fact": "The silver candlesticks flanking the Lolth altar are worth 25 gp each.",
+    "source_quote": "Jars of blistered rats. A page marked to a poisoning by gift",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "cage missing birds",
+    "fact": "A cage is missing three birds.",
+    "source_quote": "A cage missing three birds",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "jar of blistered rats value",
+    "fact": "The jars of blistered rats are worth 25 gp each.",
+    "source_quote": "Jars of blistered rats",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "page marked to poisoning by gift",
+    "fact": "A page is marked to a poisoning by gift.",
+    "source_quote": "A page marked to a poisoning by gift",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "safe location",
+    "fact": "The safe stays shut and is noted by Daz without regret.",
+    "source_quote": "a locked safe. *Daz would note it without regret: we are not the famed Whistler, no safecracker of that old generation among us. The safe stays shut.*",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Glabbagool attempts infiltration",
+    "fact": "Glabbagool could not thin himself past the finger-width opening.",
+    "source_quote": "Can Glabbagool just kind of sneak inside, slip inside? No. The opening was a finger's width, no more \u2014 a true safe, not one of the old massive locks a body could pour itself through. Glabbagool could not thin himself past it.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "clean room",
+    "fact": "The room is clean and holds no poison.",
+    "source_quote": "Glabbagool tasted the air and found no poison in it. A clean room. That, too, was information.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "we had several leads",
+    "fact": "We had several leads.",
+    "source_quote": "We had several. A cage missing three birds. Jars of blistered rats. A page marked to a poisoning by gift.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "bookwyrm's chambers",
+    "fact": "The bookwyrm's chambers took half the top floor \u2014 comfortable, neatly arranged, no extravagance to it.",
+    "source_quote": "Bookwyrm last, and by then the tower was fighting me. Her chambers took half the top floor \u2014 comfortable, neatly arranged, no extravagance to it.",
+    "quote_verified": true
+  }
+]

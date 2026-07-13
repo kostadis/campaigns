@@ -1,0 +1,191 @@
+[
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a Drow from Menzoberranzan who has escaped the rigid rituals and predatory politics of the Noble Houses and the Cult of Lolth. He now seeks discovery and understanding of the Underdark's ecosystems and civilizations, viewing his journey not as flight but as awakening. His Drow eyes adapt to darkness, and he wields Magic Missile with precision, though he suffers necrotic damage from Spectres and is weary, contemplating a long rest.",
+    "source_quote": "My whole life, I was a Drow of Menzoberranzan... I never saw the Underdark for what it is, a place to explore and learn.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is a dragonborn monk who observes silence unless something truly needs to be said. He is pragmatic, disciplined, and attuned to patterns in the environment. He uses shadow magic to create spheres of darkness for tactical advantage and has killed Spectres with physical strikes. He is skeptical of illusions and seeks confirmation before acting, noting the presence of a trapped voice and the alignment of their path with the tomb's entrance.",
+    "source_quote": "Then, it happens. A soft, feminine voice... 'Hello? Is someone there? Oh, please, I need your help!'",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is a perceptive, resourceful survivor with high demand for his mending skills. He is observant of environmental details, notices recent damage in dust, recalls old tales of floating undead, and identifies hidden mechanisms like rollers beneath sarcophagi. He leads exploration, tests steps, and recognizes predictable tomb tropes like hidden chests. He is haunted by the rising Wraith and its threat to turn victims into Spectres.",
+    "source_quote": "Grygum, with his keen perception, takes the lead, carefully testing each step... I remember that a wraith, when it kills, turns its victims into specters, and I shudder.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Fuurm Coppernose",
+    "fact": "Fuurm, also known as Copper, is a human farmer from the surface who escaped the Drow after losing his sister in the Underdark. He is starving, dressed in rags, and possesses no combat skills, yet survived against all odds. He is now part of the group, having been invited to join after being discovered hiding in a Faerzress-lit cavern.",
+    "source_quote": "He explains that his name is Fuurm Coppernose, or Copper to his friends, who had lost his sister and went looking for her in the Underdark.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Baedora",
+    "fact": "Baedora is a starving human woman dressed in rags, an escapee from the Drow who survived by fleeing during a demonic attack. She believes staying away from both Drow and demons increases survival odds. She is now part of the group, having been invited to join after being found alongside Fuurm in the crystal cavern.",
+    "source_quote": "Baedora... explains, 'That it was demons that attacked. The Drow fought back. We ran. Figured we were more likely to stay alive away from Drow and Demons.'",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Eldeth",
+    "fact": "Eldeth is a tracker who has been hiding the group's tracks for two days through the Faerzress-lit caverns. She is cautious and concerned that altering the environment makes them easier to follow. She is trusted by the group for her skill in evasion and is worried about the consequences of collecting Faerzress crystals.",
+    "source_quote": "Eldeth is worried; she\u2019s reasonably convinced we have thrown the Drow off our tracks, but every time we mess with the environment, we make it easier for them.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Sarith",
+    "fact": "Sarith is a confident guide who insists he knows where the group is going. He has led them through multiple passageways, including the one to the Lost Tomb of Khaem, and confirms the direction of the mysterious voice. He is unshaken in his certainty despite the Underdark\u2019s unpredictability.",
+    "source_quote": "Sarith insisted he knew where we were going... Sarith nods yes, this is the way. Of course, it does.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is a strong dwarf who physically moves heavy objects, including sarcophagi, to reveal hidden passages. He is dependable in combat and carries Stool, a myconid companion, on his back. He leads the group through narrow passageways and is physically imposing, with a gruff demeanor.",
+    "source_quote": "Thorin, strong as an ox, leverages the darkness, pushing the heavy sarcophagus aside.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Jimjar",
+    "fact": "Jimjar is a compulsive bettor who thrives on wagers, even on trivial matters like crystal utility or Thorin\u2019s steps. He is unconventional in social interaction, surprised when others initiate bets, but readily accepts them. He adds levity and unpredictability to the group\u2019s dynamic.",
+    "source_quote": "Jimjar shouts, 'Want to make a bet?'... He looks at me, confused. He\u2019s not used to other people making the bet.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Stool",
+    "fact": "Stool is a myconid who has joined the group and rides on Thorin\u2019s back. He is content, reliving his 'good idea' to ride the dwarf, and appears to have formed a bond with the group despite his alien nature.",
+    "source_quote": "Stool, my new myconid friend, was curled up contentedly against Thorin's back, probably still reliving his 'good idea' to ride on the dwarf.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Drow Noble Houses",
+    "fact": "The Drow Noble Houses are powerful, scheming families in Menzoberranzan that enforce rigid social hierarchies and engage in constant political and magical warfare. They are a source of fear and oppression for Drow like Daz, who escaped their machinations.",
+    "source_quote": "Trapped in the formalities of ritual and expectations, trying to avoid the predations of the Cult of Lolth and the machinations of the Noble Houses.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Cult of Lolth",
+    "fact": "The Cult of Lolth is a fanatical, spider-worshipping religious order that dominates Drow society with terror, sacrifice, and divine mandates. It is a primary force of oppression that Daz fled, and its influence is felt as a looming threat throughout the Underdark.",
+    "source_quote": "Trapped in the formalities of ritual and expectations, trying to avoid the predations of the Cult of Lolth...",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Netherese Empire",
+    "fact": "The Netherese Empire was a civilization of immensely powerful mages who built floating cities and defied gravity. Their hubris led to their catastrophic fall when a leader attempted to seize all magic. Their ruins, like the Lost Tomb of Khaem, are filled with relics, undead guardians, and cautionary tales of unchecked ambition.",
+    "source_quote": "A civilization of immensely powerful magic users, whose cities defied gravity, only to fall catastrophically when one of their leaders tried to seize all magical power...",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Spectres",
+    "fact": "Spectres are undead creatures that drain life force with chilling touches, immune to many attacks but vulnerable to magical force. Four appeared in the tomb, guarding the sarcophagi. They resisted turning attempts and were destroyed by Zalthir\u2019s shadow magic and Daz\u2019s Magic Missiles. They are bound to the tomb\u2019s central evil and may return if the source remains.",
+    "source_quote": "Four Spectres now hover, incorporeal and menacing... My mind quickly registers the threat: four Spectres now hover...",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Wraith",
+    "fact": "A Wraith is a powerful undead entity that rises from the gilded sarcophagus in the final chamber. It speaks with ancient menace and threatens to turn its victims into Spectres. Its presence induces a chilling, empty feeling and marks the true heart of the tomb\u2019s corruption.",
+    "source_quote": "From the sarcophagus, a figure rises, ethereal and malicious. A Wraith... 'Your deaths will free me from this prison, and how my victims will serve me even in death!'",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Shriekers",
+    "fact": "Shriekers are fungal creatures whose piercing, multi-layered screams trigger panic and signal danger. They are not directly harmful but serve as alarms for larger predators. They were encountered in the fungal forest, and their noise persisted even when a crystal was thrown at them, revealing their non-magical nature.",
+    "source_quote": "A sudden, piercing shriek that ripped through the heavy air... Shriekers. The kind of noise that sends a jolt of adrenaline... screaming 'danger!' and 'dinner is served!'",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Faerzress Crystals",
+    "fact": "Faerzress Crystals are fist-sized quartz formations that glow with arcane magic, emitting a dim ten-foot radiance. They are naturally occurring in the Underdark and resonate with the ambient magic of the region. The group collected them for their light and potential utility, then smashed the cavern to disguise their escape as a monster attack.",
+    "source_quote": "Fist-sized chunks of quartz crystals erupted from the wall, shedding a dim ten-foot radiance... We take as many crystals as we can. To hide our tracks, we smash the cavern and the crystals...",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Netherese Relics",
+    "fact": "Netherese Relics include mummified remains, tattered burial garments, and treasure from the fallen empire. Found in sarcophagi within the tomb, they are valuable as gold and highly sought after by collectors. They are tangible remnants of a civilization that sought godlike power and fell to hubris.",
+    "source_quote": "Each sarcophagus contains mummified remains, the tattered remnants of ancient burial garments, and treasure of Netherese origin. They are worth a great deal as gold...",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Lost Tomb of Khaem",
+    "fact": "The Lost Tomb of Khaem is an ancient, Netherese burial site containing a shrine, staircase, sarcophagi, hidden passages, and a gilded final chamber. It is guarded by undead, marked by murals of floating cities and a Netherese noblewoman, Brysis of Khaem. The tomb is saturated with lingering magic, cold, and the echoes of trapped souls, and it serves as the focal point of the party\u2019s journey.",
+    "source_quote": "We arrive at a large double door... Inside, a chill descends... A stone diorama stands to the right... A sprawling mural covers the wall... We descend a dusty staircase... a shrine, its floor littered with shreds of dusty tapestries.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Underdark Fungal Forest",
+    "fact": "A vast subterranean forest of towering fungi with bioluminescent caps and earthy brown stalks. The air is heavy with damp loam and a sweet, indescribable scent. It is quiet except for the shrieking of fungal alarms. The group moved steadily through it, with Eldeth having successfully hidden their tracks from the Drow.",
+    "source_quote": "The air grew heavy with the subtle, earthy scent of the damp loam and something indescribably sweeter... There were the towering stalks and caps of fungi, a veritable forest of the subterranean.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Faerzress Cavern",
+    "fact": "A cavern illuminated by the arcane glow of Faerzress crystals, where the air hums with latent magic. It was here that Daz and the group first encountered Fuurm and Baedora hiding in the dark. The cavern\u2019s natural luminescence was so distinctive that the group later destroyed the crystals to disguise their passage as a monster attack.",
+    "source_quote": "Ahead, there was no longer the rough-hewn stone, but an area suffused with the arcane glowing magic of the Faerzress... We turned down yet another passageway, and the air grew thick with a familiar, subtle hum, the Faerzress.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "The Trapped Voice",
+    "fact": "A soft, feminine voice calls out in the minds of the party, pleading for help. It first appeared upon entering the tomb and is now confirmed to be connected to the tomb\u2019s central evil. It is distinct from the Spectres and Wraith, suggesting a trapped soul or lingering consciousness bound to Brysis\u2019s prison. Its purpose and origin remain unknown, but it leads them precisely to the tomb\u2019s heart.",
+    "source_quote": "A soft, feminine voice, distant yet clear, rings out in my mind... 'Hello? Is someone there? Oh, please, I need your help!'",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Fargas Rumblefoot\u2019s Warning",
+    "fact": "A cryptic warning from Fargas Rumblefoot about a 'secret room' or 'false tomb' in the Lost Tomb of Khaem. This adds a layer of deception to the exploration, suggesting the sarcophagi and chamber may be misdirections. The group has yet to determine if this warning refers to the hidden passage behind the rollers or something deeper.",
+    "source_quote": "I remember Fargas Rumblefoot's warning about a 'secret room' or 'false tomb' here, adding another layer of treachery to this place.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Fuurm\u2019s Missing Sister",
+    "fact": "Fuurm entered the Underdark searching for his lost sister. Her fate is unknown, and her potential survival, death, or transformation into one of the undead may be tied to the tomb\u2019s mystery. Her absence is a personal thread that may intersect with the tomb\u2019s greater horror.",
+    "source_quote": "He had lost his sister and went looking for her in the Underdark.",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "2nd day of the 2nd tenday of Myrkhul, 1495",
+    "fact": "The date when the group entered the fungal forest and encountered the Shriekers. It marks a transition from the Faerzress cavern to a new biome and the first major non-undead environmental threat.",
+    "source_quote": "2nd day of the 2nd tenday of Myrkhul, 1495",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "3rd day of the 2nd tenday of Myrkhul, 1495",
+    "fact": "The date when the group collected more crystals and Jimjar made a bet with Grygum about their utility. This moment highlights the group\u2019s growing reliance on the crystals and their emerging sense of strategy.",
+    "source_quote": "3rd day of the 2nd tenday of Myrkhul, 1495",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "5th day of the 2nd tenday of Myrkhul, 1495",
+    "fact": "The date when the party reached the Lost Tomb of Khaem, encountered the trapped voice, fought the Spectres, and discovered the hidden passage. It marks the climax of their journey into the tomb\u2019s depths and the first direct confrontation with its undead guardians.",
+    "source_quote": "5th day of the 2nd tenday of Myrkhul, 1495",
+    "quote_verified": false
+  }
+]

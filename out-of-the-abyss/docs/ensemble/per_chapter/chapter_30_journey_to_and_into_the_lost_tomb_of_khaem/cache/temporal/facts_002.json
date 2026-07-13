@@ -1,0 +1,65 @@
+[
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The session occurs on the 5th day of the 2nd Tenday of Taraskh 1493 DR.",
+    "source_quote": "On the 5th day of the 2nd Tenday of Taraskh 1493",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "elapsed time",
+    "fact": "An hour passes between two events in the session.",
+    "source_quote": "An hour later",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "wraith count",
+    "fact": "The wraith glides forward, a silent, menacing presence, and attacks Thorin.",
+    "source_quote": "The wraith glides forward, a silent, menacing presence, and attacks Thorin.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "travel to sarcophagus",
+    "fact": "The sarcophagus is approximately eight days away via the Darklake.",
+    "source_quote": "the town of Sloopdopblop is just eight days away",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "sarcophagus elevation",
+    "fact": "The sarcophagus sits 100 feet above the cavern floor.",
+    "source_quote": "Drow outpost was 100' in the sky",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "silver candlestick value",
+    "fact": "The silver candlesticks flanking the Lolth altar are worth 25 gp each.",
+    "source_quote": "a pair of heavy silver candlesticks worth 25 gp each",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "the true owner",
+    "fact": "The trapped entity, the true owner of the voice, is inside this sarcophagus.",
+    "source_quote": "So, the trapped entity, the true owner of the voice, is inside this sarcophagus.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "voice recurrence",
+    "fact": "The soft, feminine voice from earlier, the one that first called to us, speaks again.",
+    "source_quote": "the soft, feminine voice from earlier, the one that first called to us, speaks again",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "sarcophagus interior",
+    "fact": "The sarcophagus is a stone box into which the Wraith hovers back.",
+    "source_quote": "Retreating into a stone box is hardly a display of power.",
+    "quote_verified": true
+  }
+]

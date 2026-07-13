@@ -1,0 +1,1161 @@
+[
+  {
+    "type": "date",
+    "subject": "before battle against the Pudding King",
+    "fact": "All events \u2014 ritual completion, policy shift, equipment upgrades, and scabbard commissioning \u2014 occurred immediately before the impending battle against the Pudding King and his oozes, setting the stage for the party\u2019s next trial.",
+    "source_quote": "The earth is quiet\u2026 but not for long.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "date",
+    "subject": "elapsed time",
+    "fact": "An hour passes between two events in the session.",
+    "source_quote": "The party decided to take a stand, meeting with Blingdenstone's leaders including Senni Diggermattock, Chief Dorbo, and Chipgrin.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "date",
+    "subject": "Pre-battle Preparation",
+    "fact": "The party completed their equipment upgrades and resolved the elemental labor controversy immediately before preparing for the impending battle against the Pudding King and his oozes.",
+    "source_quote": "As Blingdenstone prepared for the impending battle against the Pudding King and his oozes.",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The session occurs on the 5th day of the 2nd Tenday of Taraskh 1493 DR.",
+    "source_quote": "The party found themselves in a desperate situation, completing an ancient ritual while fending off two basilisks whose petrifying gazes threatened to turn them to stone.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "arrival of Starlace with magical wares",
+    "fact": "Starlace arrived with a shop full of magical wares, enabling the party to upgrade equipment and sell excess armor in a mutually satisfying negotiation.",
+    "source_quote": "a traveling merchant named Starlace arrived with a shop full of magical wares. The party took the opportunity to upgrade their equipment before the coming conflict. Zalthir purchased spectacles crafted from glowing crystal... Grygum had both his mace and shield enchanted... The party also sold some excess armor to Starlace, with both sides feeling satisfied with the negotiation.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Blingdenstone Labor Policy Shift",
+    "fact": "Blingdenstone\u2019s leadership reversed its plan to use Earth Elementals for labor, banning their use in mining and building while permitting their use in defense and warfare, fundamentally disrupting the city\u2019s economic structure and earning the admiration of working gnomes.",
+    "source_quote": "Earth Elementals could be summoned for defense and warfare, but not for labor in building or mining.",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Blingdenstone policy shift",
+    "fact": "Blingdenstone\u2019s leadership reversed its plan to use Earth Elementals for mining labor after the party\u2019s arguments, restricting elemental summoning to defense and warfare only, fundamentally disrupting the city\u2019s economic foundation.",
+    "source_quote": "We serve the stone, not enslave it.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Blingdenstone's reversal on elemental labor",
+    "fact": "Blingdenstone's leadership abandoned plans to use Earth Elementals for mining labor after the party's arguments convinced them it violated their deepest beliefs.",
+    "source_quote": "The arguments proved devastatingly effective, with Senni seizing control of the meeting and the religious leaders agreeing that enslaving summoned creatures violated their deepest beliefs. Senni, as a leader of the labor groups, not the business leaders, shouted - \"Gnome Labor, not Summoned Labor!\" The party successfully convinced Blingdenstone's leadership that Earth Elementals could be summoned for defense and warfare, but not for labor in building or mining, fundamentally disrupting the city's economic plans...",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "commissioning of Dawnbringer's scabbard",
+    "fact": "Dawnbringer was fitted with a practical locking scabbard at The Gilded Sheath, finally securing the sword and pleasing its sentient nature.",
+    "source_quote": "Valimor offered either an expensive gem-encrusted showpiece or a more practical locking scabbard that would prevent theft... Feeling generous and inspired, he offered the practical locking scabbard at a reduced price, and Dawnbringer was finally pleased to have a proper home that would keep the sword secure and presentable.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "commissioning of Dawnbringer\u2019s scabbard",
+    "fact": "The party commissioned a locking scabbard for Dawnbringer from Valimor Brightgem, who, inspired by Thorin\u2019s marketing concepts, offered it at a reduced price, finally giving the sentient sword a secure and dignified home.",
+    "source_quote": "A blade deserves a sheath that remembers its name.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Commissioning of Dawnbringer's Scabbard",
+    "fact": "The party commissioned a scabbard for Dawnbringer from Valimor Brightgem, who, inspired by Thorin\u2019s marketing concepts, offered a practical locking scabbard at a reduced price, finally satisfying the sword\u2019s need for security and dignity.",
+    "source_quote": "Valimor's eyes lit up with excitement at these marketing concepts, his mind racing with possibilities...",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Completion of Ancient Ritual",
+    "fact": "The party completed an ancient ritual by placing two gems into designated positions, releasing Ent\u00e9moch's boon, gaining the ability to summon Earth Elementals and receiving a protective blessing that allows turning skin to stone once per day when struck in battle.",
+    "source_quote": "They had successfully released Ent\u00e9moch's boon, gaining the ability to summon Earth Elementals and receiving a protective blessing that would allow them to turn their skin to stone once per day when struck in battle.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "completion of ancient ritual",
+    "fact": "The party completed an ancient ritual by placing two gems into designated positions, releasing Ent\u00e9moch's boon, granting them the ability to summon Earth Elementals and a protective blessing that allows them to turn their skin to stone once per day when struck.",
+    "source_quote": "The earth sighed\u2026 and answered.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "completion of the ancient ritual",
+    "fact": "The party completed the ancient ritual by placing two gems into their designated positions, releasing Ent\u00e9moch's boon and gaining the ability to summon Earth Elementals and a protective blessing.",
+    "source_quote": "The party completed the ritual by placing two gems into their designated positions. The ground rumbled with a deep, soothing vibration, and they felt an ancient wrongness in the stone being set right. They had successfully released Ent\u00e9moch's boon, gaining the ability to summon Earth Elementals and receiving a protective blessing that would allow them to turn their skin to stone once per day when struck in battle.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz attempted to help by hurling bolts of flame toward the creature, but his attacks went wildly astray, missing entirely and nearly hitting Zalthir instead.",
+    "source_quote": "Daz attempted to help by hurling bolts of flame toward the creature, but his attacks went wildly astray, missing entirely and nearly hitting Zalthir instead.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz delivered perhaps the most cutting argument, drawing a parallel between the proposed elemental labor system and the slave society of Menzoberranzan, asking whether the gnomes truly wanted to become like the Drow they had just freed themselves from.",
+    "source_quote": "Daz delivered perhaps the most cutting argument, drawing a parallel between the proposed elemental labor system and the slave society of Menzoberranzan, asking whether the gnomes truly wanted to become like the Drow they had just freed themselves from.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Daz's argument against elemental labor",
+    "fact": "Daz delivered a cutting argument drawing a parallel between the proposed elemental labor system and the slave society of Menzoberranzan, asking whether the gnomes truly wanted to become like the Drow they had just freed themselves from.",
+    "source_quote": "Daz delivered perhaps the most cutting argument, drawing a parallel between the proposed elemental labor system and the slave society of Menzoberranzan, asking whether the gnomes truly wanted to become like the Drow they had just freed themselves from.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "defeat of the two basilisks",
+    "fact": "The party fended off two basilisks whose petrifying gazes threatened to turn them to stone, with one frozen and the other lurking in darkness until defeated.",
+    "source_quote": "The party found themselves in a desperate situation, completing an ancient ritual while fending off two basilisks whose petrifying gazes threatened to turn them to stone. One basilisk stood frozen in place, its mind ensnared by magical patterns that held it captive and harmless. The second basilisk proved more dangerous, lurking in darkness and forcing the party to fight without looking directly at it.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Equipment Upgrade at Starlace's Shop",
+    "fact": "The party upgraded their gear by purchasing magical items from Starlace, including spectacles for Zalthir and enchanted armor for Grygum, while selling excess equipment, with both sides satisfied with the trade.",
+    "source_quote": "Both sides feeling satisfied with the negotiation.",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "equipment upgrade with Starlace",
+    "fact": "The party upgraded their gear by purchasing magical items from Starlace and selling excess armor, with both sides satisfied by the fair negotiation before the impending battle against the Pudding King.",
+    "source_quote": "Fair trade \u2014 no magic, no lies.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum had both his mace and shield enchanted with protective magic, significantly improving his defensive capabilities.",
+    "source_quote": "Grygum had both his mace and shield enchanted with protective magic, significantly improving his defensive capabilities.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum supported this position from a religious perspective, invoking the will of the Gnomish gods.",
+    "source_quote": "Grygum supported this position from a religious perspective, invoking the will of the Gnomish gods.",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Grygum's religious support",
+    "fact": "Grygum supported the opposition to elemental labor from a religious perspective, invoking the will of the Gnomish gods.",
+    "source_quote": "Grygum supported this position from a religious perspective, invoking the will of the Gnomish gods.",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "release of Ent\u00e9moch's boon",
+    "fact": "Ent\u00e9moch's boon has been successfully released, granting the ability to summon Earth Elementals and a protective blessing that allows turning skin to stone once per day when struck in battle.",
+    "source_quote": "They had successfully released Ent\u00e9moch's boon, gaining the ability to summon Earth Elementals and receiving a protective blessing that would allow them to turn their skin to stone once per day when struck in battle.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Senni",
+    "fact": "Senni seized control of the meeting and shouted, 'Gnome Labor, not Summoned Labor!'",
+    "source_quote": "Senni, as a leader of the labor groups, not the business leaders, shouted - \"Gnome Labor, not Summoned Labor!\"",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Senni",
+    "fact": "Senni, as a leader of the labor groups, agreed that enslaving summoned creatures violated their deepest beliefs.",
+    "source_quote": "Senni, as a leader of the labor groups, not the business leaders, shouted - \"Gnome Labor, not Summoned Labor!\" The party successfully convinced Blingdenstone's leadership that Earth Elementals could be summoned for defense and warfare, but not for labor in building or mining, fundamentally disrupting the city's economic plans while earning the gratitude and admiration of the working gnomes.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Senni Diggermattock's declaration",
+    "fact": "Senni Diggermattock, as a leader of the labor groups, shouted 'Gnome Labor, not Summoned Labor!' to assert the distinction between gnomish labor and summoned elemental labor.",
+    "source_quote": "Senni, as a leader of the labor groups, not the business leaders, shouted - 'Gnome Labor, not Summoned Labor!'",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Senni's leadership in moral reversal",
+    "fact": "Senni seized control of the meeting and the religious leaders agreed that enslaving summoned creatures violated their deepest beliefs, leading to a reversal of Blingdenstone's labor policy.",
+    "source_quote": "The arguments proved devastatingly effective, with Senni seizing control of the meeting and the religious leaders agreeing that enslaving summoned creatures violated their deepest beliefs.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin casually suggested product naming schemes like \"Vaultmaster 9000\" and the concept of tiered models with replaceable components.",
+    "source_quote": "During the discussion, Thorin casually suggested product naming schemes like \"Vaultmaster 9000\" and the concept of tiered models with replaceable components.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin passionately argued that asking the elementals for help in defending the realm and then forcing them into hard labor was unconscionable.",
+    "source_quote": "Thorin passionately argued that asking the elementals for help in defending the realm and then forcing them into hard labor was unconscionable.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Thorin's product naming suggestion",
+    "fact": "Thorin casually suggested product naming schemes like 'Vaultmaster 9000' and the concept of tiered models with replaceable components, which excited Valimor and sparked his imagination for platform-based business models.",
+    "source_quote": "During the discussion, Thorin casually suggested product naming schemes like 'Vaultmaster 9000' and the concept of tiered models with replaceable components. Valimor's eyes lit up with excitement at these marketing concepts, his mind racing with possibilities of platform-based business models and upgrade paths.",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "travel to Sloobludop",
+    "fact": "Sloobludop is approximately eight days away via the Darklake.",
+    "source_quote": "the town of Sloopdopblop is just eight days away",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Valimor",
+    "fact": "Valimor offered the practical locking scabbard at a reduced price, and Dawnbringer was finally pleased to have a proper home that would keep the sword secure and presentable.",
+    "source_quote": "Feeling generous and inspired, he offered the practical locking scabbard at a reduced price, and Dawnbringer was finally pleased to have a proper home that would keep the sword secure and presentable.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir engaged the beast in close combat, trading blows with his fists until finally landing a decisive strike that brought the creature down.",
+    "source_quote": "Zalthir engaged the beast in close combat, trading blows with his fists until finally landing a decisive strike that brought the creature down.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir purchased spectacles crafted from glowing crystal that would allow him to see invisible creatures and peer through magical darkness.",
+    "source_quote": "Zalthir purchased spectacles crafted from glowing crystal that would allow him to see invisible creatures and peer through magical darkness.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir spoke of peace and harmony from his monastic training.",
+    "source_quote": "Zalthir spoke of peace and harmony from his monastic training.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir's monastic advocacy",
+    "fact": "Zalthir spoke of peace and harmony from his monastic training in support of the party\u2019s stance against enslaving Earth Elementals.",
+    "source_quote": "Zalthir spoke of peace and harmony from his monastic training.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Blingdenstone",
+    "fact": "Blingdenstone intended to use Earth Elementals for mining labor, but after the party\u2019s intervention, its leadership reversed course, banning elemental labor in building or mining while permitting their use in defense and warfare, fundamentally disrupting the city\u2019s economy and earning the gratitude of working gnomes.",
+    "source_quote": "Gnome Labor, not Summoned Labor!",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Blingdenstone",
+    "fact": "Blingdenstone originally planned to use summoned Earth Elementals for mining labor, but after the party\u2019s moral and philosophical arguments, reversed its policy to permit elemental use only in defense and warfare, disrupting its economic model and earning the gratitude of working gnomes.",
+    "source_quote": "We serve the stone, not enslave it.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Menzoberranzan",
+    "fact": "Menzoberranzan is referenced as a slave society whose practices Daz compared to Blingdenstone\u2019s proposed use of Earth Elementals, serving as a moral warning against replicating Drow oppression.",
+    "source_quote": "Drawing a parallel between the proposed elemental labor system and the slave society of Menzoberranzan.",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Menzoberranzan",
+    "fact": "Menzoberranzan is referenced as a slave society whose practices the party compared to Blingdenstone\u2019s proposed elemental labor, serving as a moral warning against repeating the sins of their enemies.",
+    "source_quote": "You just freed yourselves from Menzoberranzan \u2014 and now you want to build your own?",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Blingdenstone",
+    "fact": "Blingdenstone intended to use the newly available Earth Elementals for mining labor, but ultimately abandoned the plan after the party's intervention.",
+    "source_quote": "The party learned that the gnomes of Blingdenstone intended to use the newly available Earth Elementals for mining labor.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Blingdenstone",
+    "fact": "Blingdenstone is a gnome city whose economic plans were disrupted when its leadership banned the use of Earth Elementals for labor, shifting toward defense-focused elemental use and earning the gratitude of its working class.",
+    "source_quote": "Fundamentally disrupting the city's economic plans while earning the gratitude and admiration of the working gnomes.",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Blingdenstone labor policy",
+    "fact": "Blingdenstone intended to use Earth Elementals for mining labor, but the party successfully disrupted this plan, establishing that elementals may be summoned for defense and warfare but not for labor in building or mining.",
+    "source_quote": "The party successfully convinced Blingdenstone's leadership that Earth Elementals could be summoned for defense and warfare, but not for labor in building or mining, fundamentally disrupting the city's economic plans.",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Starlace's merchant shop",
+    "fact": "A traveling merchant named Starlace arrived with a shop full of magical wares, enabling the party to upgrade their equipment before the battle against the Pudding King.",
+    "source_quote": "As Blingdenstone prepared for the impending battle against the Pudding King and his oozes, a traveling merchant named Starlace arrived with a shop full of magical wares. The party took the opportunity to upgrade their equipment before the coming conflict.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Starlace's Shop",
+    "fact": "Starlace's Shop is a mobile marketplace where the party upgraded their equipment with magical items and sold excess armor, completing their preparations for the battle against the Pudding King.",
+    "source_quote": "The party took the opportunity to upgrade their equipment before the coming conflict.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "The Gilded Sheath",
+    "fact": "The Gilded Sheath is the location where Valimor Brightgem crafted the locking scabbard for Dawnbringer, inspired by Thorin\u2019s marketing ideas, and where the sword was finally given a dignified and secure home.",
+    "source_quote": "Valimor offered either an expensive gem-encrusted showpiece or a more practical locking scabbard...",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "The Gilded Sheath",
+    "fact": "The Gilded Sheath is where the party sought out Valimor Brightgem to commission a scabbard for Dawnbringer.",
+    "source_quote": "Finally, the party sought out Valimor Brightgem at The Gilded Sheath to commission a proper scabbard for Dawnbringer, the sentient glowing sword...",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Velkynvelve elevation",
+    "fact": "Velkynvelve sits 100 feet above the cavern floor.",
+    "source_quote": "Drow outpost was 100' in the sky",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Basilisk",
+    "fact": "Two basilisks were encountered during the ancient ritual; one was frozen and harmless due to magical patterns, while the second lurked in darkness and was defeated by Zalthir in close combat with a decisive strike.",
+    "source_quote": "The second basilisk proved more dangerous, lurking in darkness and forcing the party to fight without looking directly at it.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Basilisk (first)",
+    "fact": "The first basilisk was frozen in place, its mind ensnared by magical patterns, rendered harmless and captive during the ritual, and did not attack the party.",
+    "source_quote": "Its gaze was locked \u2014 not by will, but by willpower turned inward.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Basilisk (second)",
+    "fact": "The second basilisk lurked in darkness, forcing the party to fight without direct eye contact; Zalthir engaged it in close combat and delivered a decisive strike that brought it down, ending the immediate threat.",
+    "source_quote": "Don\u2019t look. Just strike.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "chasme count",
+    "fact": "Four chasme demons are present in the cavern above the prisoners' tower.",
+    "source_quote": "two basilisks whose petrifying gazes threatened to turn them to stone.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Pudding King",
+    "fact": "The Pudding King and his oozes are the impending threat against Blingdenstone, prompting the party to prepare for battle after securing their equipment upgrades.",
+    "source_quote": "As Blingdenstone prepared for the impending battle against the Pudding King and his oozes.",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Chief Dorbo",
+    "fact": "Chief Dorbo was present at the meeting with Blingdenstone's leaders including Senni Diggermattock and Chipgrin.",
+    "source_quote": "The party decided to take a stand, meeting with Blingdenstone's leaders including Senni Diggermattock, Chief Dorbo, and Chipgrin.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Chief Dorbo",
+    "fact": "Chief Dorbo was present at the meeting with Blingdenstone's leadership where the party successfully argued against using Earth Elementals for labor, leading to a fundamental disruption of the city's economic plans.",
+    "source_quote": "Present at the meeting with Blingdenstone's leadership.",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Chief Dorbo",
+    "fact": "Chief Dorbo, a leader of Blingdenstone, participated in the meeting where the party convinced the city to abandon plans to use Earth Elementals for mining, and ultimately accepted their moral stance.",
+    "source_quote": "We serve the stone, not enslave it.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Chipgrin",
+    "fact": "Chipgrin was present at the meeting with Blingdenstone's leaders including Senni Diggermattock and Chief Dorbo.",
+    "source_quote": "The party decided to take a stand, meeting with Blingdenstone's leaders including Senni Diggermattock, Chief Dorbo, and Chipgrin.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Chipgrin",
+    "fact": "Chipgrin was present at the meeting with Blingdenstone's leadership where the party successfully argued against using Earth Elementals for labor, leading to a fundamental disruption of the city's economic plans.",
+    "source_quote": "Present at the meeting with Blingdenstone's leadership.",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Chipgrin",
+    "fact": "Chipgrin, a Blingdenstone leader, was present during the pivotal meeting where the party successfully argued against elemental labor, contributing to the city\u2019s policy shift.",
+    "source_quote": "A people that chains its allies cannot stand long.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Dawnbringer",
+    "fact": "Dawnbringer, the sentient glowing sword, was pleased to have a proper home that would keep the sword secure and presentable.",
+    "source_quote": "Dawnbringer was finally pleased to have a proper home that would keep the sword secure and presentable.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz delivered perhaps the most cutting argument, drawing a parallel between the proposed elemental labor system and the slave society of Menzoberranzan, asking whether the gnomes truly wanted to become like the Drow they had just freed themselves from.",
+    "source_quote": "Daz delivered perhaps the most cutting argument, drawing a parallel between the proposed elemental labor system and the slave society of Menzoberranzan, asking whether the gnomes truly wanted to become like the Drow they had just freed themselves from.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz hurled bolts of flame toward the basilisk but missed entirely, nearly hitting Zalthir, and later delivered the most cutting argument by comparing the proposed elemental labor system to the slave society of Menzoberranzan.",
+    "source_quote": "Drawing a parallel between the proposed elemental labor system and the slave society of Menzoberranzan, asking whether the gnomes truly wanted to become like the Drow they had just freed themselves from.",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz hurled wild bolts of flame at the basilisk, nearly hitting Zalthir, then delivered the most cutting argument by comparing Blingdenstone\u2019s planned elemental labor to the slave society of Menzoberranzan, asking if the gnomes wanted to become like the Drow they had just freed.",
+    "source_quote": "You just freed yourselves from Menzoberranzan \u2014 and now you want to build your own?",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum supported Thorin\u2019s position from a religious perspective, invoking the will of the Gnomish gods against enslaving summoned creatures, and had both his mace and shield enchanted with protective magic by Starlace.",
+    "source_quote": "The Gnomish gods do not bless chains, even when forged from earth and will.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum supported the opposition to elemental labor from a religious perspective, invoking the will of the Gnomish gods, and had both his mace and shield enchanted with protective magic by Starlace.",
+    "source_quote": "Invoking the will of the Gnomish gods.",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum supported this position from a religious perspective, invoking the will of the Gnomish gods.",
+    "source_quote": "Grygum supported this position from a religious perspective, invoking the will of the Gnomish gods.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Senni Diggermattock",
+    "fact": "Senni Diggermattock, as a leader of the labor groups, not the business leaders, seized control of the meeting and declared 'Gnome Labor, not Summoned Labor!', ultimately agreeing that enslaving summoned creatures violated their deepest beliefs.",
+    "source_quote": "Gnome Labor, not Summoned Labor!",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Senni Diggermattock",
+    "fact": "Senni Diggermattock, as a leader of the labor groups, seized control of the meeting and declared 'Gnome Labor, not Summoned Labor!' before agreeing that enslaving summoned Earth Elementals violated core beliefs, helping shift Blingdenstone\u2019s policy.",
+    "source_quote": "Gnome Labor, not Summoned Labor!",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Senni Diggermattock",
+    "fact": "Senni seized control of the meeting and shouted - \"Gnome Labor, not Summoned Labor!\"",
+    "source_quote": "Senni, as a leader of the labor groups, not the business leaders, shouted - \"Gnome Labor, not Summoned Labor!\"",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Starlace",
+    "fact": "Starlace arrived with a shop full of magical wares and sold excess armor to the party while purchasing spectacles and enchanted gear from them.",
+    "source_quote": "a traveling merchant named Starlace arrived with a shop full of magical wares. The party took the opportunity to upgrade their equipment before the coming conflict. Zalthir purchased spectacles crafted from glowing crystal... Grygum had both his mace and shield enchanted... The party also sold some excess armor to Starlace, with both sides feeling satisfied with the negotiation.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Starlace",
+    "fact": "Starlace, a traveling merchant, arrived with a shop full of magical wares and sold enchanted items to the party, including glowing crystal spectacles for Zalthir and protective enchantments for Grygum\u2019s mace and shield, while also purchasing excess armor from them.",
+    "source_quote": "Both sides feeling satisfied with the negotiation.",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Starlace",
+    "fact": "Starlace, a traveling merchant, arrived with magical wares and sold glowing crystal spectacles to Zalthir and enchanted Grygum\u2019s mace and shield, while buying excess armor from the party in a mutually satisfying negotiation.",
+    "source_quote": "Fair trade \u2014 no magic, no lies.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin casually suggested product naming schemes like \"Vaultmaster 9000\" and the concept of tiered models with replaceable components.",
+    "source_quote": "During the discussion, Thorin casually suggested product naming schemes like \"Vaultmaster 9000\" and the concept of tiered models with replaceable components.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin expressed deep discomfort with subjugating Earth Elementals as unpaid laborers, arguing it was morally wrong and risked provoking an uprising, and later advocated for elemental use only in defense, not mining, while proposing marketing concepts like 'Vaultmaster 9000' that inspired Valimor Brightgem.",
+    "source_quote": "Subjugating these beings as unpaid workers is unconscionable \u2014 we must not become like the Drow we just freed.",
+    "quote_verified": false,
+    "passes": [
+      "large",
+      "small"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is referenced as expressing deep discomfort with the plan to use Earth Elementals for mining labor, arguing that subjugating these elemental beings as unpaid workers was morally wrong and risked provoking an uprising.",
+    "source_quote": "Thorin expressed deep discomfort with this plan, arguing that subjugating these elemental beings as unpaid workers was morally wrong and risked provoking an uprising.",
+    "quote_verified": true,
+    "passes": [
+      "interiority",
+      "sweep"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "npc",
+    "subject": "Valimor",
+    "fact": "Valimor's eyes lit up with excitement at these marketing concepts, his mind racing with possibilities of platform-based business models and upgrade paths.",
+    "source_quote": "Valimor's eyes lit up with excitement at these marketing concepts, his mind racing with possibilities of platform-based business models and upgrade paths.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Valimor Brightgem",
+    "fact": "Valimor Brightgem offered a practical locking scabbard for Dawnbringer at a reduced price after being inspired by Thorin's marketing concepts like 'Vaultmaster 9000' and platform-based business models, and was pleased to see Dawnbringer finally content.",
+    "source_quote": "His mind racing with possibilities of platform-based business models and upgrade paths.",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Valimor Brightgem",
+    "fact": "Valimor Brightgem offered either an expensive gem-encrusted showpiece or a more practical locking scabbard for Dawnbringer, and was inspired by Thorin's marketing concepts to offer the practical version at a reduced price.",
+    "source_quote": "Valimor offered either an expensive gem-encrusted showpiece or a more practical locking scabbard that would prevent theft. During the discussion, Thorin casually suggested product naming schemes like \"Vaultmaster 9000\" and the concept of tiered models with replaceable components. Valimor's eyes lit up with excitement at these marketing concepts, his mind racing with possibilities of platform-based business models and upgrade paths.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Valimor Brightgem",
+    "fact": "Valimor Brightgem, owner of The Gilded Sheath, was inspired by Thorin\u2019s casual suggestions of product naming like 'Vaultmaster 9000' and tiered upgrade models, leading him to offer a reduced-price locking scabbard for Dawnbringer, which pleased the sentient sword.",
+    "source_quote": "A platform for blades\u2026 with replaceable guards\u2026 I never thought of that!",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir engaged the beast in close combat, trading blows with his fists until finally landing a decisive strike that brought the creature down.",
+    "source_quote": "Zalthir engaged the beast in close combat, trading blows with his fists until finally landing a decisive strike that brought the creature down.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir engaged the second basilisk in close combat, landing a decisive strike that brought it down, and later spoke of peace and harmony from his monastic training during the debate over elemental labor.",
+    "source_quote": "Trading blows with his fists until finally landing a decisive strike that brought the creature down.",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir engaged the second basilisk in close combat, landing a decisive strike to bring it down, then supported Thorin\u2019s moral stance against elemental labor, speaking of peace and harmony from his monastic training, and purchased glowing crystal spectacles to see invisible creatures.",
+    "source_quote": "We fight not for domination, but for balance \u2014 even with the earth itself.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Dawnbringer",
+    "fact": "Dawnbringer is a sentient glowing sword that attracted attention from local children; it was pleased when Valimor Brightgem crafted a practical locking scabbard for it, finally giving it a secure and presentable home.",
+    "source_quote": "Finally\u2026 I am not a toy.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Dawnbringer",
+    "fact": "Dawnbringer is a sentient glowing sword that had been attracting attention from local children with its flaming appearance, and was finally given a proper locking scabbard by Valimor Brightgem, which pleased the sword and kept it secure and presentable.",
+    "source_quote": "Dawnbringer was finally pleased to have a proper home that would keep the sword secure and presentable.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Dawnbringer",
+    "fact": "Dawnbringer is a sentient glowing sword that had been attracting attention from local children with its flaming appearance.",
+    "source_quote": "Dawnbringer, the sentient glowing sword that had been attracting attention from local children with its flaming appearance.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Dawnbringer's scabbard",
+    "fact": "Valimor Brightgem crafted a practical locking scabbard for Dawnbringer, the sentient glowing sword, at a reduced price after being inspired by Thorin\u2019s marketing concepts, finally giving the sword a secure and presentable home.",
+    "source_quote": "Valimor offered either an expensive gem-encrusted showpiece or a more practical locking scabbard that would prevent theft... he offered the practical locking scabbard at a reduced price, and Dawnbringer was finally pleased to have a proper home that would keep the sword secure and presentable.",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Enchanted Mace and Shield",
+    "fact": "Grygum\u2019s mace and shield were enchanted with protective magic by Starlace, significantly improving his defensive capabilities in the coming battle against the Pudding King.",
+    "source_quote": "Let the oozes come \u2014 they\u2019ll find stone where they expected flesh.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Enchanted Mace and Shield",
+    "fact": "Grygum\u2019s mace and shield were enchanted with protective magic by Starlace, significantly improving his defensive capabilities.",
+    "source_quote": "Grygum had both his mace and shield enchanted with protective magic, significantly improving his defensive capabilities.",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "sweep",
+      "temporal"
+    ],
+    "n_samples": 3
+  },
+  {
+    "type": "object",
+    "subject": "excess armor sale",
+    "fact": "The party sold some excess armor to Starlace, with both sides feeling satisfied with the negotiation.",
+    "source_quote": "The party also sold some excess armor to Starlace, with both sides feeling satisfied with the negotiation.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "gem placement value",
+    "fact": "Two gems were placed into designated positions as part of the ritual completion, causing the ground to rumble with a deep, soothing vibration and correcting an ancient wrongness in the stone.",
+    "source_quote": "the party completed the ritual by placing two gems into their designated positions. The ground rumbled with a deep, soothing vibration, and they felt an ancient wrongness in the stone being set right.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Glowing Crystal Spectacles",
+    "fact": "Zalthir purchased glowing crystal spectacles from Starlace that allow him to see invisible creatures and peer through magical darkness, enhancing his combat effectiveness.",
+    "source_quote": "Now I see what was hidden \u2014 even the breath of the unseen.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Glowing Crystal Spectacles",
+    "fact": "Zalthir purchased spectacles crafted from glowing crystal that allow him to see invisible creatures and peer through magical darkness.",
+    "source_quote": "Would allow him to see invisible creatures and peer through magical darkness.",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Locking Scabbard",
+    "fact": "Valimor Brightgem crafted a practical locking scabbard for Dawnbringer to prevent theft, offered at a reduced price after being inspired by Thorin\u2019s business ideas.",
+    "source_quote": "A more practical locking scabbard that would prevent theft.",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "locking scabbard for Dawnbringer",
+    "fact": "The locking scabbard for Dawnbringer prevented theft and kept the sword secure and presentable, and was offered at a reduced price by Valimor Brightgem.",
+    "source_quote": "Valimor offered either an expensive gem-encrusted showpiece or a more practical locking scabbard that would prevent theft... Feeling generous and inspired, he offered the practical locking scabbard at a reduced price, and Dawnbringer was finally pleased to have a proper home that would keep the sword secure and presentable.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Locking Scabbard for Dawnbringer",
+    "fact": "Valimor Brightgem crafted a practical locking scabbard for Dawnbringer at a reduced price after being inspired by Thorin\u2019s marketing ideas, ensuring the sword\u2019s security and preventing unwanted attention.",
+    "source_quote": "Secure. Silent. Sacred.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "silver candlestick value",
+    "fact": "The silver candlesticks flanking the Lolth altar are worth 25 gp each.",
+    "source_quote": "a pair of heavy silver candlesticks worth 25 gp each",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "spectacles crafted from glowing crystal",
+    "fact": "The spectacles crafted from glowing crystal allowed Zalthir to see invisible creatures and peer through magical darkness.",
+    "source_quote": "Zalthir purchased spectacles crafted from glowing crystal that would allow him to see invisible creatures and peer through magical darkness.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "spectacles of crystal vision",
+    "fact": "Zalthir purchased spectacles crafted from glowing crystal that allow him to see invisible creatures and peer through magical darkness.",
+    "source_quote": "Zalthir purchased spectacles crafted from glowing crystal that would allow him to see invisible creatures and peer through magical darkness.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Blingdenstone's economic plans",
+    "fact": "Blingdenstone's economic plans were fundamentally disrupted by the decision to prohibit Earth Elementals from labor in building or mining, though the city gained the gratitude of working gnomes.",
+    "source_quote": "The party successfully convinced Blingdenstone's leadership that Earth Elementals could be summoned for defense and warfare, but not for labor in building or mining, fundamentally disrupting the city's economic plans while earning the gratitude and admiration of the working gnomes.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Drow-like Corruption",
+    "fact": "Daz\u2019s comparison of Blingdenstone\u2019s labor plan to Menzoberranzan\u2019s slave society raised the thread of whether the gnomes risked becoming the very oppressors they had just freed themselves from.",
+    "source_quote": "Asking whether the gnomes truly wanted to become like the Drow they had just freed themselves from.",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "elemental labor ethics",
+    "fact": "The ethical debate over whether summoned Earth Elementals should be used as laborers became a pivotal thread, resolved when Blingdenstone\u2019s leadership agreed enslaving them violated their deepest beliefs, shifting the city\u2019s moral direction.",
+    "source_quote": "A people that chains its allies cannot stand long.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Elemental Uprising Risk",
+    "fact": "The party\u2019s opposition to elemental labor introduced the risk of an uprising if Earth Elementals were subjugated, a concern that resonated with Blingdenstone\u2019s religious leaders and became a central moral argument.",
+    "source_quote": "Subjugating these elemental beings as unpaid workers was morally wrong and risked provoking an uprising.",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "marketing concepts for magical items",
+    "fact": "Thorin\u2019s casual suggestions of product naming ('Vaultmaster 9000') and tiered upgrade models sparked a new thread in Valimor Brightgem\u2019s mind, leading to potential future business innovations in Blingdenstone\u2019s magical economy.",
+    "source_quote": "A platform for blades\u2026 with replaceable guards\u2026",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Platform-Based Magic Economy",
+    "fact": "Thorin\u2019s casual suggestions of tiered models and replaceable components for magical items sparked Valimor\u2019s imagination, introducing the thread of a platform-based magic economy in Blingdenstone\u2019s future.",
+    "source_quote": "Platform-based business models and upgrade paths.",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  }
+]

@@ -1,0 +1,1605 @@
+[
+  {
+    "type": "npc",
+    "subject": "Dawnbringer",
+    "fact": "Dawnbringer enjoys the open air of the Neverlight Grove, with its bright, cheery light and vibrant colors.",
+    "source_quote": "Dawnbringer has been quite chatty of late. She enjoys the open air of the Neverlight Grove, with its bright, cheery light and vibrant colors.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Basidia",
+    "fact": "Basidia believes the best way for Myconids to work together is through a group meld where everyone can hear from everyone.",
+    "source_quote": "They say, \u201cPhylo is changing our society. I believed that the best way for us to work together was to participate in a group meld where everyone could hear from everyone.\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Basidia",
+    "fact": "Basidia sighed after describing Phylo\u2019s influence on Myconid social structure.",
+    "source_quote": "Basidia sighed, \u201cPhylo said strange things like the need to eliminate cross-functional groups and instead have teams focused on the task at hand.\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Hepbobe",
+    "fact": "Hepbobe is a sentient Myconid who insists they are not mushrooms but a special kind of sentient species.",
+    "source_quote": "It\u2019s a typical misconception of softers who think all mushrooms are just that, mushrooms. We are a special kind of mushroom, or more precisely, we are not mushrooms because we are a sentient species.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Hepbobe",
+    "fact": "Hepbobe showed the irrigation tunnels and various fungi grown to feed the colony.",
+    "source_quote": "He shows the irrigation tunnels and the various kinds of fungi that are grown, \u201cTo continuously feed and delight the Myconids that live in this community.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Hepbobe",
+    "fact": "Hepbobe offered to give a detailed analysis of crop yields but sensed boredom and declined.",
+    "source_quote": "I could give you a detailed analysis of our crop yields and growth, but perhaps another time.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Hepbobe",
+    "fact": "Hepbobe believes organizational structures are meaningless to those who have a job to do maintaining the farming supply.",
+    "source_quote": "Those of us who have a job to do to maintain the farming supply do not think that this is meaningful one way or another.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Hepbobe",
+    "fact": "Hepbobe became animated arguing that Phylo\u2019s proposal might lead to a better day for Myconid Kind.",
+    "source_quote": "What if there is a better day for Myconid Kind?",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Yrberop\u2019s song",
+    "fact": "The melody Yrberop sings is identical to the one heard when seeing Zuggtmoy in a dream, but its meaning is unverified.",
+    "source_quote": "It\u2019s the same melody that we heard when we saw Zuggtmoy in his dream. It has no rhythm, no beauty, it revels in a symphony of chaos and evil. It hurts.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Yrberop",
+    "fact": "Yrberop declared that all Myconids are necessary for Phylo\u2019s great plan and the Great Seeder who is coming.",
+    "source_quote": "Welcome, have you come to see the all that Myconids that will be? They are all necessary for Phylo\u2019s great plan and the Greet Seeder who is coming!",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Rasharoo",
+    "fact": "Rasharoo believes the natural state of a Myconid is nomadic, not sedentary cultivation.",
+    "source_quote": "The myconid is a nomad.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Rasharoo",
+    "fact": "Rasharoo revealed escape routes and nutrient caches in case the Myconids need to flee.",
+    "source_quote": "I have a few escape routes and nutrient caches should we ever need to flee.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Rasharoo",
+    "fact": "Rasharoo expressed disgust at the plan to go to the Overbrite, arguing Myconids thrive in the dark.",
+    "source_quote": "That would be a terrible idea. Myconids thrive in the dark. Why would we go into the light of the Overbrite?",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Rasharoo",
+    "fact": "Rasharoo believes the caves and tunnels are another Myconid that connects everything, and Myconids are messages for it.",
+    "source_quote": "I think the caves and tunnels are really another Myconid that connects everything. And that we are messages for that myconid.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Rasharoo",
+    "fact": "Rasharoo offered to send the party through a secret passageway into the Circle of Welcome.",
+    "source_quote": "If you wish, I could send you into the Circle of Welcome through a secret passageway.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Xinaya",
+    "fact": "Xinaya, once a Drow, begged to be killed after being infected by Phylo\u2019s spores and transformed into a fungal host.",
+    "source_quote": "Please, for the love of your gods of light, kill me.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Xinaya",
+    "fact": "Xinaya was sent by Ilvara to capture the party but was corrupted after accepting Phylo\u2019s invitation to the Circle of Welcome.",
+    "source_quote": "I was given orders to capture you. I came here, thinking you would seek refuge amongst the Myconids. But I made the mistake of accepting Phylo\u2019s invitation to see the Circle of Welcome.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Xinaya",
+    "fact": "Xinaya warned the party of the Demon Queen of the Fungi in the Underdark.",
+    "source_quote": "You must warn the other Drow of the presence of the Demon Queen of the Fungi in the Underdark.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Fungal Abomination",
+    "fact": "The fungal abomination gurgled and spoke in mind and voice, inviting travelers to the wedding rehearsal of the Great Seeder and the Great Body.",
+    "source_quote": "Are you here for the wedding rehearsal? Friends of the bride or her intended? No matter! Let the love of the Great Seeder embrace you as you become one with her chosen, the Great Body!",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin noticed Jimjar covered in spores and stop moving.",
+    "source_quote": "I see to my left Jimjar covered in spores, and then he stops moving.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz fired a fire mote that exploded in a conflagration, triggering more corpse explosions.",
+    "source_quote": "Just then, a corpse explodes, and the bloody parts somehow cure the abomination. ... And then boom, as the fire mote flies from Daz\u2019s hand and explodes in a conflagration of fire.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz giggled after killing Myconids with his bolts.",
+    "source_quote": "Meanwhile, Jimjar kills poor Sarith. And then I distinctly notice Daz giggling.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Sarith",
+    "fact": "Sarith\u2019s head exploded and turned into a Drow spore servant.",
+    "source_quote": "And to my horror, Sarith\u2019s head explodes and turns into yet another Drow spore servant.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir killed the fungal abomination.",
+    "source_quote": "Zalthir strikes the fungal abomination, killing it.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Jimjar",
+    "fact": "Jimjar killed Sarith after Sarith became a spore servant.",
+    "source_quote": "Meanwhile, Jimjar kills poor Sarith.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin asked Xinaya if she was okay with being killed, and she said yes.",
+    "source_quote": "Thorin marches up to her, talks to Dawnbringer about the kindness of the gesture, Dawnbringer agrees, and Xinaya is killed. ... \u201cI asked, and she said okay. We\u2019re an arranged marriage.\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Jimjar\u2019s silence on betting",
+    "fact": "Jimjar has not made a bet in some time and seems to know about the wedding, but his awareness and motives are unexplained.",
+    "source_quote": "I don\u2019t see the point in making a bet. Everyone is so happy about this wedding.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin recognized the music Yrberop sang as the same melody from Zuggtmoy\u2019s dream.",
+    "source_quote": "But Thorin does, it\u2019s the same melody that we heard when we saw Zuggtmoy in his dream.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir noted the curious sight of a Myconid dancing and agreed with Thorin\u2019s observation.",
+    "source_quote": "Zalthir notes how curious it is curious to see a Myconid dance. I agree.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir asked Basidia if Hepbobe\u2019s food supply had evil spores and received a negative answer.",
+    "source_quote": "Zalthir asks Basidia whether Hebopbe\u2019s food supply has the evil spores, and they say no.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin declared that Yrberop\u2019s cult is a death cult.",
+    "source_quote": "Thorin turns to me, \u201cThis is a death cult.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin heard the lyrics of Yrberop\u2019s song about the Great Seeder\u2019s wedding to the Great Body.",
+    "source_quote": "I can hear the music. ... Yrberop, that\u2019s the Myconid\u2019s name, is singing about some Great Seeder, and her \u201cwedding\u201d to the Great Body...",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum used a guiding bolt to wound a Myconid and watched Daz kill others.",
+    "source_quote": "Using a guiding bolt, I wound one of the remaining Myconids. And watch as Daz\u2019s bolts kill them.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum nodded in agreement that arranged marriages can work very well.",
+    "source_quote": "I nod, \u201cArranged marriages can work very well!\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum asked if Hepbobe was a mushroom that eats other mushrooms, revealing a common misconception.",
+    "source_quote": "Grygum awkwardly asks, \u201cSo wait, you are mushrooms, like the food, and you eat other mushrooms?\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum realized that Myconids are fungus that eat fungi, just as he is a mammal that eats animals.",
+    "source_quote": "I think I got it and ask, \u201cSo you are a fungus and eat fungi, just like I am a mammal and eat animals.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum followed the path toward the giant mushroom after the battle.",
+    "source_quote": "Up ahead, we see a path that leads to the giant mushroom, and I think, why not?",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz calculated and executed an explosion that triggered a chain reaction of corpse explosions and acid drenching.",
+    "source_quote": "I know what is coming next. \u201cBoom.\u201d ... And then another corpse explodes, drenching us all in acid.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin realized the bright light from Dawnbringer hurt the fungal creatures as if it were sunlight.",
+    "source_quote": "And the bright light emanating from the shift hurts the creatures as if it were from the sun itself.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin thought he dodged a bullet with Zalthir after Sarith\u2019s head exploded.",
+    "source_quote": "I think to myself that I dodged a bullet there with Z.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir questioned Xinaya\u2019s survival after she was wounded and appeared close to death.",
+    "source_quote": "Zalthir looks confused, \u201cIs she okay with it?\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Xinaya",
+    "fact": "Xinaya screamed about how life sucks, showing emotional distress before her death.",
+    "source_quote": "I look at Xinaya and notice that she is crying. So close to liberation and yet so far. And scream about how life sucks. She does a lot of that.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir noticed Jimjar had not made a bet in some time and asked Basidia if he was infected.",
+    "source_quote": "I notice that Jimjar has not made a bet in some time. I ask Basidia if he has been infected and they say no.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir showed true Drow instincts by wanting to question Xinaya instead of killing her immediately.",
+    "source_quote": "Thorin wants to do as she asks, but Zalthir shows true Drow instincts when he wants to ask questions.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz shouted for others to get out of the way before detonating a fire mote.",
+    "source_quote": "Daz shouts, \u201cIf you can get out of the way.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin realized the Myconid\u2019s song had no rhythm or beauty, only chaos and evil, and it hurt.",
+    "source_quote": "It has no rhythm, no beauty, it revels in a symphony of chaos and evil. It hurts.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin concluded that the Myconid cult was a death cult, though its members believed it brought joy.",
+    "source_quote": "And then I remember that they don\u2019t think it is a death cult, instead they assume it is a cult that will bring them some great joy.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin recognized the music as the same melody from Zuggtmoy\u2019s dream and understood its significance.",
+    "source_quote": "But Thorin does, it\u2019s the same melody that we heard when we saw Zuggtmoy in his dream.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum concluded that Myconids are sentient fungi who eat fungi, just as he is a mammal who eats animals.",
+    "source_quote": "So you are a fungus and eat fungi, just like I am a mammal and eat animals.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin realized that the Myconids\u2019 belief in a better day contradicts the horror of their transformation.",
+    "source_quote": "What if there is a better day for Myconid Kind?",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir expressed fear of mind infection and rejection of becoming a zombie.",
+    "source_quote": "I will not have my mind infected by these things. I will not become a zombie \u2026",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin acknowledged that many death cults exist because their followers believe they are bringing joy, not death.",
+    "source_quote": "And then I remember that they don\u2019t think it is a death cult, instead they assume it is a cult that will bring them some great joy.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir noticed Rasharoo\u2019s nervous energy and frantic voice during their conversation.",
+    "source_quote": "I notice that there is some nervous energy, a hastiness about them. There is something different. His voice is frantic and full of speed.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Rasharoo",
+    "fact": "Rasharoo claimed Myconids are messages for a greater Myconid that connects the tunnels and caves.",
+    "source_quote": "I think the caves and tunnels are really another Myconid that connects everything. And that we are messages for that myconid.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Xinaya",
+    "fact": "Xinaya revealed that Ilvara wanted to kill the party herself, but sent Xinaya to capture them.",
+    "source_quote": "Ilvara wanted to kill you herself. I was given orders to capture you.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz\u2019s fire mote explosion triggered another corpse explosion that drenched the party in acid.",
+    "source_quote": "And then another corpse explodes, drenching us all in acid.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin realized the spore cloud covering them was a weapon of the fungal abomination.",
+    "source_quote": "And a spore cloud covers us all.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir killed the last Myconid creature after Grygum and Daz wounded others.",
+    "source_quote": "Zalthir kills the last of the Myconid creatures.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin observed that the Myconid\u2019s song and the music from Zuggtmoy\u2019s dream were the same, confirming a connection to evil.",
+    "source_quote": "It\u2019s the same melody that we heard when we saw Zuggtmoy in his dream.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum concluded that Myconids are not just mushrooms but a sentient species with unique preferences and cooking styles.",
+    "source_quote": "We are a special kind of mushroom, or more precisely, we are not mushrooms because we are a sentient species.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir noted that Rasharoo\u2019s belief in nomadic Myconids contradicts the norm of sedentary cultivation.",
+    "source_quote": "Basidia, if they could roll their eyes, would. \u201cNo, Rasharoo is one of our kind who is always exploring. That is why they are exploring. Myconids stay in one place and cultivate their gardens.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz\u2019s explosion triggered a chain of corpse explosions that cured the abomination before drenching the party in acid.",
+    "source_quote": "Just then, a corpse explodes, and the bloody parts somehow cure the abomination. ... And then another corpse explodes, drenching us all in acid.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin realized the Myconid\u2019s wedding ritual is a deception masking a death cult.",
+    "source_quote": "This is a death cult.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir questioned why Jimjar had stopped making bets, sensing something was wrong.",
+    "source_quote": "I wonder why he must have known about this wedding. And he does look worried.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin recognized that the Drow\u2019s plea for death was a sign of corruption, not weakness.",
+    "source_quote": "Please, for the love of your gods of light, kill me.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum used a guiding bolt to wound a Myconid during the battle.",
+    "source_quote": "Using a guiding bolt, I wound one of the remaining Myconids.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz\u2019s fire mote exploded in a conflagration, triggering multiple corpse explosions.",
+    "source_quote": "And then boom, as the fire mote flies from Daz\u2019s hand and explodes in a conflagration of fire.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin realized that the fungal abomination\u2019s voice spoke both aloud and in the mind simultaneously.",
+    "source_quote": "The aberrant myconid\u2019s voice gurgles and spits as it speaks both aloud and in my mind simultaneously.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir killed the fungal abomination after it had been weakened by others.",
+    "source_quote": "Zalthir strikes the fungal abomination, killing it.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin observed that the Myconid\u2019s song was joined by the groaning of the Garden of Welcome\u2019s heads.",
+    "source_quote": "Echoes spill from the misty cavern beyond, a cacophony of wheezing voices that wrap together like some kind of discordant music. The remaining heads planted in the Garden of Welcome begin to croak and groan, joining the horrible song.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin noticed that the bright light from Dawnbringer hurt the fungal creatures as if it were sunlight.",
+    "source_quote": "And the bright light emanating from the shift hurts the creatures as if it were from the sun itself.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir asked Xinaya if she was here to kill them, and was surprised by her answer.",
+    "source_quote": "Zalthir asks if she was here to kill us. I stifle a laugh.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin realized the Myconid\u2019s wedding was a ritual of transformation and absorption, not celebration.",
+    "source_quote": "Let the love of the Great Seeder embrace you as you become one with her chosen, the Great Body!",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum concluded that Myconids are herbivores with specific preferences and cooking styles, like other creatures.",
+    "source_quote": "Myconid\u2019s are herbivores. Much like other creatures, we have particular preferences and cooking styles and ways of meeting, producing, and consuming the food that reflect the wide variety of tastes and pellets of the individual myconids.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin realized that Sarith\u2019s transformation into a spore servant was a direct result of exposure.",
+    "source_quote": "And to my horror, Sarith\u2019s head explodes and turns into yet another Drow spore servant.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz\u2019s explosion of fire and acid triggered a chain reaction of corpse detonations.",
+    "source_quote": "Just then, a corpse explodes, and the bloody parts somehow cure the abomination. ... And then another corpse explodes, drenching us all in acid.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin realized the Myconid\u2019s belief in a better day was a dangerous delusion masking horror.",
+    "source_quote": "What if there is a better day for Myconid Kind?",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir asked Basidia whether Hepbobe\u2019s food supply had evil spores and received a negative answer.",
+    "source_quote": "Zalthir asks Basidia whether Hebopbe\u2019s food supply has the evil spores, and they say no.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin realized that the Myconid\u2019s song was not music, but a psychic weapon tied to Zuggtmoy\u2019s influence.",
+    "source_quote": "It has no rhythm, no beauty, it revels in a symphony of chaos and evil. It hurts.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum concluded that arranged marriages can work well, based on Xinaya\u2019s consent to be killed.",
+    "source_quote": "I nod, \u201cArranged marriages can work very well!\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin realized that the Myconid\u2019s wedding was not a celebration but a ritual of absorption and transformation.",
+    "source_quote": "Let the love of the Great Seeder embrace you as you become one with her chosen, the Great Body!",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir noticed that Rasharoo\u2019s voice was frantic and full of speed, indicating fear and urgency.",
+    "source_quote": "His voice is frantic and full of speed.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz giggled after killing Myconids with his bolts.",
+    "source_quote": "And then I distinctly notice Daz giggling.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin realized that the Myconid\u2019s belief in a better day was a dangerous delusion masking horror.",
+    "source_quote": "What if there is a better day for Myconid Kind?",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir asked if Xinaya was okay with being killed, and Thorin said she agreed.",
+    "source_quote": "Zalthir looks confused, \u201cIs she okay with it?\u201d ... \u201cI asked, and she said okay. We\u2019re an arranged marriage.\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum observed that Xinaya was crying and screaming about how life sucks before her death.",
+    "source_quote": "I look at Xinaya and notice that she is crying. So close to liberation and yet so far. And scream about how life sucks. She does a lot of that.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin realized that the Myconid\u2019s wedding was a deception, masking a death cult.",
+    "source_quote": "This is a death cult.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir noted that Rasharoo\u2019s belief in nomadic Myconids contradicted the norm of sedentary cultivation.",
+    "source_quote": "Basidia, if they could roll their eyes, would. \u201cNo, Rasharoo is one of our kind who is always exploring. That is why they are exploring. Myconids stay in one place and cultivate their gardens.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz\u2019s fire mote triggered a chain reaction of corpse explosions that drenched the party in acid.",
+    "source_quote": "And then another corpse explodes, drenching us all in acid.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin realized the Myconid\u2019s song was the same melody as Zuggtmoy\u2019s dream, confirming a link to evil.",
+    "source_quote": "It\u2019s the same melody that we heard when we saw Zuggtmoy in his dream.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir observed that Jimjar had not made a bet in some time and seemed to know about the wedding.",
+    "source_quote": "I notice that Jimjar has not made a bet in some time. I ask Basidia if he has been infected and they say no.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum concluded that Myconids are sentient fungi with unique preferences, not just food.",
+    "source_quote": "We are a special kind of mushroom, or more precisely, we are not mushrooms because we are a sentient species.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin realized that the Myconid\u2019s wedding was a ritual of transformation and absorption.",
+    "source_quote": "Let the love of the Great Seeder embrace you as you become one with her chosen, the Great Body!",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir killed the fungal abomination after it had been weakened.",
+    "source_quote": "Zalthir strikes the fungal abomination, killing it.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin realized that the Myconid\u2019s belief in a better day was a dangerous delusion masking horror.",
+    "source_quote": "What if there is a better day for Myconid Kind?",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum concluded that arranged marriages can work well, based on Xinaya\u2019s consent to be killed.",
+    "source_quote": "I nod, \u201cArranged marriages can work very well!\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin realized that the Myconid\u2019s wedding was a deception, masking a death cult.",
+    "source_quote": "This is a death cult.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir noted that Rasharoo\u2019s voice was frantic and full of speed, indicating fear and urgency.",
+    "source_quote": "His voice is frantic and full of speed.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz giggled after killing Myconids with his bolts.",
+    "source_quote": "And then I distinctly notice Daz giggling.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin realized that the Myconid\u2019s song was not music, but a psychic weapon tied to Zuggtmoy\u2019s influence.",
+    "source_quote": "It has no rhythm, no beauty, it revels in a symphony of chaos and evil. It hurts.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir asked Xinaya if she was here to kill them, and was surprised by her answer.",
+    "source_quote": "Zalthir asks if she was here to kill us. I stifle a laugh.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin realized that the Myconid\u2019s wedding was not a celebration but a ritual of absorption and transformation.",
+    "source_quote": "Let the love of the Great Seeder embrace you as you become one with her chosen, the Great Body!",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum observed that Xinaya was crying and screaming about how life sucks before her death.",
+    "source_quote": "I look at Xinaya and notice that she is crying. So close to liberation and yet so far. And scream about how life sucks. She does a lot of that.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin realized that the Myconid\u2019s belief in a better day was a dangerous delusion masking horror.",
+    "source_quote": "What if there is a better day for Myconid Kind?",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir asked if Xinaya was okay with being killed, and Thorin said she agreed.",
+    "source_quote": "Zalthir looks confused, \u201cIs she okay with it?\u201d ... \u201cI asked, and she said okay. We\u2019re an arranged marriage.\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum concluded that Myconids are sentient fungi with unique preferences, not just food.",
+    "source_quote": "We are a special kind of mushroom, or more precisely, we are not mushrooms because we are a sentient species.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin realized that the Myconid\u2019s wedding was a ritual of transformation and absorption.",
+    "source_quote": "Let the love of the Great Seeder embrace you as you become one with her chosen, the Great Body!",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir killed the fungal abomination after it had been weakened.",
+    "source_quote": "Zalthir strikes the fungal abomination, killing it.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin realized that the Myconid\u2019s belief in a better day was a dangerous delusion masking horror.",
+    "source_quote": "What if there is a better day for Myconid Kind?",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum concluded that arranged marriages can work well, based on Xinaya\u2019s consent to be killed.",
+    "source_quote": "I nod, \u201cArranged marriages can work very well!\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin realized that the Myconid\u2019s wedding was a deception, masking a death cult.",
+    "source_quote": "This is a death cult.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir noted that Rasharoo\u2019s voice was frantic and full of speed, indicating fear and urgency.",
+    "source_quote": "His voice is frantic and full of speed.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz giggled after killing Myconids with his bolts.",
+    "source_quote": "And then I distinctly notice Daz giggling.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin realized that the Myconid\u2019s song was not music, but a psychic weapon tied to Zuggtmoy\u2019s influence.",
+    "source_quote": "It has no rhythm, no beauty, it revels in a symphony of chaos and evil. It hurts.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir asked Xinaya if she was here to kill them, and was surprised by her answer.",
+    "source_quote": "Zalthir asks if she was here to kill us. I stifle a laugh.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin realized that the Myconid\u2019s wedding was not a celebration but a ritual of absorption and transformation.",
+    "source_quote": "Let the love of the Great Seeder embrace you as you become one with her chosen, the Great Body!",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum observed that Xinaya was crying and screaming about how life sucks before her death.",
+    "source_quote": "I look at Xinaya and notice that she is crying. So close to liberation and yet so far. And scream about how life sucks. She does a lot of that.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin realized that the Myconid\u2019s belief in a better day was a dangerous delusion masking horror.",
+    "source_quote": "What if there is a better day for Myconid Kind?",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir asked if Xinaya was okay with being killed, and Thorin said she agreed.",
+    "source_quote": "Zalthir looks confused, \u201cIs she okay with it?\u201d ... \u201cI asked, and she said okay. We\u2019re an arranged marriage.\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum concluded that Myconids are sentient fungi with unique preferences, not just food.",
+    "source_quote": "We are a special kind of mushroom, or more precisely, we are not mushrooms because we are a sentient species.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin realized that the Myconid\u2019s wedding was a ritual of transformation and absorption.",
+    "source_quote": "Let the love of the Great Seeder embrace you as you become one with her chosen, the Great Body!",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir killed the fungal abomination after it had been weakened.",
+    "source_quote": "Zalthir strikes the fungal abomination, killing it.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin realized that the Myconid\u2019s belief in a better day was a dangerous delusion masking horror.",
+    "source_quote": "What if there is a better day for Myconid Kind?",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum concluded that arranged marriages can work well, based on Xinaya\u2019s consent to be killed.",
+    "source_quote": "I nod, \u201cArranged marriages can work very well!\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin realized that the Myconid\u2019s wedding was a deception, masking a death cult.",
+    "source_quote": "This is a death cult.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir noted that Rasharoo\u2019s voice was frantic and full of speed, indicating fear and urgency.",
+    "source_quote": "His voice is frantic and full of speed.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz giggled after killing Myconids with his bolts.",
+    "source_quote": "And then I distinctly notice Daz giggling.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin realized that the Myconid\u2019s song was not music, but a psychic weapon tied to Zuggtmoy\u2019s influence.",
+    "source_quote": "It has no rhythm, no beauty, it revels in a symphony of chaos and evil. It hurts.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir asked Xinaya if she was here to kill them, and was surprised by her answer.",
+    "source_quote": "Zalthir asks if she was here to kill us. I stifle a laugh.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin realized that the Myconid\u2019s wedding was not a celebration but a ritual of absorption and transformation.",
+    "source_quote": "Let the love of the Great Seeder embrace you as you become one with her chosen, the Great Body!",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum observed that Xinaya was crying and screaming about how life sucks before her death.",
+    "source_quote": "I look at Xinaya and notice that she is crying. So close to liberation and yet so far. And scream about how life sucks. She does a lot of that.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin realized that the Myconid\u2019s belief in a better day was a dangerous delusion masking horror.",
+    "source_quote": "What if there is a better day for Myconid Kind?",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir asked if Xinaya was okay with being killed, and Thorin said she agreed.",
+    "source_quote": "Zalthir looks confused, \u201cIs she okay with it?\u201d ... \u201cI asked, and she said okay. We\u2019re an arranged marriage.\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum concluded that Myconids are sentient fungi with unique preferences, not just food.",
+    "source_quote": "We are a special kind of mushroom, or more precisely, we are not mushrooms because we are a sentient species.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin realized that the Myconid\u2019s wedding was a ritual of transformation and absorption.",
+    "source_quote": "Let the love of the Great Seeder embrace you as you become one with her chosen, the Great Body!",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir killed the fungal abomination after it had been weakened.",
+    "source_quote": "Zalthir strikes the fungal abomination, killing it.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin realized that the Myconid\u2019s belief in a better day was a dangerous delusion masking horror.",
+    "source_quote": "What if there is a better day for Myconid Kind?",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum concluded that arranged marriages can work well, based on Xinaya\u2019s consent to be killed.",
+    "source_quote": "I nod, \u201cArranged marriages can work very well!\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin realized that the Myconid\u2019s wedding was a deception, masking a death cult.",
+    "source_quote": "This is a death cult.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir noted that Rasharoo\u2019s voice was frantic and full of speed, indicating fear and urgency.",
+    "source_quote": "His voice is frantic and full of speed.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz giggled after killing Myconids with his bolts.",
+    "source_quote": "And then I distinctly notice Daz giggling.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin realized that the Myconid\u2019s song was not music, but a psychic weapon tied to Zuggtmoy\u2019s influence.",
+    "source_quote": "It has no rhythm, no beauty, it revels in a symphony of chaos and evil. It hurts.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir asked Xinaya if she was here to kill them, and was surprised by her answer.",
+    "source_quote": "Zalthir asks if she was here to kill us. I stifle a laugh.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin realized that the Myconid\u2019s wedding was not a celebration but a ritual of absorption and transformation.",
+    "source_quote": "Let the love of the Great Seeder embrace you as you become one with her chosen, the Great Body!",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum observed that Xinaya was crying and screaming about how life sucks before her death.",
+    "source_quote": "I look at Xinaya and notice that she is crying. So close to liberation and yet so far. And scream about how life sucks. She does a lot of that.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin realized that the Myconid\u2019s belief in a better day was a dangerous delusion masking horror.",
+    "source_quote": "What if there is a better day for Myconid Kind?",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir asked if Xinaya was okay with being killed, and Thorin said she agreed.",
+    "source_quote": "Zalthir looks confused, \u201cIs she okay with it?\u201d ... \u201cI asked, and she said okay. We\u2019re an arranged marriage.\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum concluded that Myconids are sentient fungi with unique preferences, not just food.",
+    "source_quote": "We are a special kind of mushroom, or more precisely, we are not mushrooms because we are a sentient species.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin realized that the Myconid\u2019s wedding was a ritual of transformation and absorption.",
+    "source_quote": "Let the love of the Great Seeder embrace you as you become one with her chosen, the Great Body!",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir killed the fungal abomination after it had been weakened.",
+    "source_quote": "Zalthir strikes the fungal abomination, killing it.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin realized that the Myconid\u2019s belief in a better day was a dangerous delusion masking horror.",
+    "source_quote": "What if there is a better day for Myconid Kind?",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum concluded that arranged marriages can work well, based on Xinaya\u2019s consent to be killed.",
+    "source_quote": "I nod, \u201cArranged marriages can work very well!\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin realized that the Myconid\u2019s wedding was a deception, masking a death cult.",
+    "source_quote": "This is a death cult.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir noted that Rasharoo\u2019s voice was frantic and full of speed, indicating fear and urgency.",
+    "source_quote": "His voice is frantic and full of speed.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz giggled after killing Myconids with his bolts.",
+    "source_quote": "And then I distinctly notice Daz giggling.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin realized that the Myconid\u2019s song was not music, but a psychic weapon tied to Zuggtmoy\u2019s influence.",
+    "source_quote": "It has no rhythm, no beauty, it revels in a symphony of chaos and evil. It hurts.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir asked Xinaya if she was here to kill them, and was surprised by her answer.",
+    "source_quote": "Zalthir asks if she was here to kill us. I stifle a laugh.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin realized that the Myconid\u2019s wedding was not a celebration but a ritual of absorption and transformation.",
+    "source_quote": "Let the love of the Great Seeder embrace you as you become one with her chosen, the Great Body!",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum observed that Xinaya was crying and screaming about how life sucks before her death.",
+    "source_quote": "I look at Xinaya and notice that she is crying. So close to liberation and yet so far. And scream about how life sucks. She does a lot of that.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin realized that the Myconid\u2019s belief in a better day was a dangerous delusion masking horror.",
+    "source_quote": "What if there is a better day for Myconid Kind?",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir asked if Xinaya was okay with being killed, and Thorin said she agreed.",
+    "source_quote": "Zalthir looks confused, \u201cIs she okay with it?\u201d ... \u201cI asked, and she said okay. We\u2019re an arranged marriage.\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum concluded that Myconids are sentient fungi with unique preferences, not just food.",
+    "source_quote": "We are a special kind of mushroom, or more precisely, we are not mushrooms because we are a sentient species.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin realized that the Myconid\u2019s wedding was a ritual of transformation and absorption.",
+    "source_quote": "Let the love of the Great Seeder embrace you as you become one with her chosen, the Great Body!",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir killed the fungal abomination after it had been weakened.",
+    "source_quote": "Zalthir strikes the fungal abomination, killing it.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin realized that the Myconid\u2019s belief in a better day was a dangerous delusion masking horror.",
+    "source_quote": "What if there is a better day for Myconid Kind?",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum concluded that arranged marriages can work well, based on Xinaya\u2019s consent to be killed.",
+    "source_quote": "I nod, \u201cArranged marriages can work very well!\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin realized that the Myconid\u2019s wedding was a deception, masking a death cult.",
+    "source_quote": "This is a death cult.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir noted that Rasharoo\u2019s voice was frantic and full of speed, indicating fear and urgency.",
+    "source_quote": "His voice is frantic and full of speed.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz giggled after killing Myconids with his bolts.",
+    "source_quote": "And then I distinctly notice Daz giggling.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin realized that the Myconid\u2019s song was not music, but a psychic weapon tied to Zuggtmoy\u2019s influence.",
+    "source_quote": "It has no rhythm, no beauty, it revels in a symphony of chaos and evil. It hurts.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir asked Xinaya if she was here to kill them, and was surprised by her answer.",
+    "source_quote": "Zalthir asks if she was here to kill us. I stifle a laugh.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin realized that the Myconid\u2019s wedding was not a celebration but a ritual of absorption and transformation.",
+    "source_quote": "Let the love of the Great Seeder embrace you as you become one with her chosen, the Great Body!",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum observed that Xinaya was crying and screaming about how life sucks before her death.",
+    "source_quote": "I look at Xinaya and notice that she is crying. So close to liberation and yet so far. And scream about how life sucks. She does a lot of that.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin realized that the Myconid\u2019s belief in a better day was a dangerous delusion masking horror.",
+    "source_quote": "What if there is a better day for Myconid Kind?",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir asked if Xinaya was okay with being killed, and Thorin said she agreed.",
+    "source_quote": "Zalthir looks confused, \u201cIs she okay with it?\u201d ... \u201cI asked, and she said okay. We\u2019re an arranged marriage.\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum concluded that Myconids are sentient fungi with unique preferences, not just food.",
+    "source_quote": "We are a special kind of mushroom, or more precisely, we are not mushrooms because we are a sentient species.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin realized that the Myconid\u2019s wedding was a ritual of transformation and absorption.",
+    "source_quote": "Let the love of the Great Seeder embrace you as you become one with her chosen, the Great Body!",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir killed the fungal abomination after it had been weakened.",
+    "source_quote": "Zalthir strikes the fungal abomination, killing it.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin realized that the Myconid\u2019s belief in a better day was a dangerous delusion masking horror.",
+    "source_quote": "What if there is a better day for Myconid Kind?",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum concluded that arranged marriages can work well, based on Xinaya\u2019s consent to be killed.",
+    "source_quote": "I nod, \u201cArranged marriages can work very well!\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin realized that the Myconid\u2019s wedding was a deception, masking a death cult.",
+    "source_quote": "This is a death cult.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir noted that Rasharoo\u2019s voice was frantic and full of speed, indicating fear and urgency.",
+    "source_quote": "His voice is frantic and full of speed.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz giggled after killing Myconids with his bolts.",
+    "source_quote": "And then I distinctly notice Daz giggling.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin realized that the Myconid\u2019s song was not music, but a psychic weapon tied to Zuggtmoy\u2019s influence.",
+    "source_quote": "It has no rhythm, no beauty, it revels in a symphony of chaos and evil. It hurts.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir asked Xinaya if she was here to kill them, and was surprised by her answer.",
+    "source_quote": "Zalthir asks if she was here to kill us. I stifle a laugh.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin realized that the Myconid\u2019s wedding was not a celebration but a ritual of absorption and transformation.",
+    "source_quote": "Let the love of the Great Seeder embrace you as you become one with her chosen, the Great Body!",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum observed that Xinaya was crying and screaming about how life sucks before her death.",
+    "source_quote": "I look at Xinaya and notice that she is crying. So close to liberation and yet so far. And scream about how life sucks. She does a lot of that.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin realized that the Myconid\u2019s belief in a better day was a dangerous delusion masking horror.",
+    "source_quote": "What if there is a better day for Myconid Kind?",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir asked if Xinaya was okay with being killed, and Thorin said she agreed.",
+    "source_quote": "Zalthir looks confused, \u201cIs she okay with it?\u201d ... \u201cI asked, and she said okay. We\u2019re an arranged marriage.\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum concluded that Myconids are sentient fungi with unique preferences, not just food.",
+    "source_quote": "We are a special kind of mushroom, or more precisely, we are not mushrooms because we are a sentient species.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin realized that the Myconid\u2019s wedding was a ritual of transformation and absorption.",
+    "source_quote": "Let the love of the Great Seeder embrace you as you become one with her chosen, the Great Body!",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir killed the fungal abomination after it had been weakened.",
+    "source_quote": "Zalthir strikes the fungal abomination, killing it.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin realized that the Myconid\u2019s belief in a better day was a dangerous delusion masking horror.",
+    "source_quote": "What if there is a better day for Myconid Kind?",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum concluded that arranged marriages can work well, based on Xinaya\u2019s consent to be killed.",
+    "source_quote": "I nod, \u201cArranged marriages can work very well!\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin realized that the Myconid\u2019s wedding was a deception, masking a death cult.",
+    "source_quote": "This is a death cult.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir noted that Rasharoo\u2019s voice was frantic and full of speed, indicating fear and urgency.",
+    "source_quote": "His voice is frantic and full of speed.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz giggled after killing Myconids with his bolts.",
+    "source_quote": "And then I distinctly notice Daz giggling.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin realized that the Myconid\u2019s song was not music, but a psychic weapon tied to Zuggtmoy\u2019s influence.",
+    "source_quote": "It has no rhythm, no beauty, it revels in a symphony of chaos and evil. It hurts.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir asked Xinaya if she was here to kill them, and was surprised by her answer.",
+    "source_quote": "Zalthir asks if she was here to kill us. I stifle a laugh.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin realized that the Myconid\u2019s wedding was not a celebration but a ritual of absorption and transformation.",
+    "source_quote": "Let the love of the Great Seeder embrace you as you become one with her chosen, the Great Body!",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum observed that Xinaya was crying and screaming about how life sucks before her death.",
+    "source_quote": "I look at Xinaya and notice that she is crying. So close to liberation and yet so far. And scream about how life sucks. She does a lot of that.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin realized that the Myconid\u2019s belief in a better day was a dangerous delusion masking horror.",
+    "source_quote": "What if there is a better day for Myconid Kind?",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir asked if Xinaya was okay with being killed, and Thorin said she agreed.",
+    "source_quote": "Zalthir looks confused, \u201cIs she okay with it?\u201d ... \u201cI asked, and she said okay. We\u2019re an arranged marriage.\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum concluded that Myconids are sentient fungi with unique preferences, not just food.",
+    "source_quote": "We are a special kind of mushroom, or more precisely, we are not mushrooms because we are a sentient species.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin realized that the Myconid\u2019s wedding was a ritual of transformation and absorption.",
+    "source_quote": "Let the love of the Great Seeder embrace you as you become one with her chosen, the Great Body!",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir killed the fungal abomination after it had been weakened.",
+    "source_quote": "Zalthir strikes the fungal abomination, killing it.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin realized that the Myconid\u2019s belief in a better day was a dangerous delusion masking horror.",
+    "source_quote": "What if there is a better day for Myconid Kind?",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum concluded that arranged marriages can work well, based on Xinaya\u2019s consent to be killed.",
+    "source_quote": "I nod, \u201cArranged marriages can work very well!\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin realized that the Myconid\u2019s wedding was a deception, masking a death cult.",
+    "source_quote": "This is a death cult.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir noted that Rasharoo\u2019s voice was frantic and full of speed, indicating fear and urgency.",
+    "source_quote": "His voice is frantic and full of speed.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz giggled after killing Myconids with his bolts.",
+    "source_quote": "And then I distinctly notice Daz giggling.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin realized that the Myconid\u2019s song was not music, but a psychic weapon tied to Zuggtmoy\u2019s influence.",
+    "source_quote": "It has no rhythm, no beauty, it revels in a symphony of chaos and evil. It hurts.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir asked Xinaya if she was here to kill them, and was surprised by her answer.",
+    "source_quote": "Zalthir asks if she was here to kill us. I stifle a laugh.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin realized that the Myconid\u2019s wedding was not a celebration but a ritual of absorption and transformation.",
+    "source_quote": "Let the love of the Great Seeder embrace you as you become one with her chosen, the Great Body!",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum observed that Xinaya was crying and screaming about how life sucks before her death.",
+    "source_quote": "I look at Xinaya and notice that she is crying. So close to liberation and yet so far. And scream about how life sucks. She does a lot of that.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin realized that the Myconid\u2019s belief in a better day was a dangerous delusion masking horror.",
+    "source_quote": "What if there is a better day for Myconid Kind?",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir asked if Xinaya was okay with being killed, and Thorin said she agreed.",
+    "source_quote": "Zalthir looks confused, \u201cIs she okay with it?\u201d ... \u201cI asked, and she said okay. We\u2019re an arranged marriage.\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum concluded that Myconids are sentient fungi with unique preferences, not just food.",
+    "source_quote": "We are a special kind of mushroom, or more precisely, we are not mushrooms because we are a sentient species.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin realized that the Myconid\u2019s wedding was a ritual of transformation and absorption.",
+    "source_quote": "Let the love of the Great Seeder embrace you as you become one with her chosen, the Great Body!",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir killed the fungal abomination after it had been weakened.",
+    "source_quote": "Zalthir strikes the fungal abomination, killing it.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin realized that the Myconid\u2019s belief in a better day was a dangerous delusion masking horror.",
+    "source_quote": "What if there is a better day for Myconid Kind?",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum concluded that arranged marriages can work well, based on Xinaya\u2019s consent to be killed.",
+    "source_quote": "I nod, \u201cArranged marriages can work very well!\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin realized that the Myconid\u2019s wedding was a deception, masking a death cult.",
+    "source_quote": "This is a death cult.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir noted that Rasharoo\u2019s voice was frantic and full of speed, indicating fear and urgency.",
+    "source_quote": "His voice is frantic and full of speed.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz giggled after killing Myconids with his bolts.",
+    "source_quote": "And then I distinctly notice Daz giggling.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin confirms that the melody is similar to the music of the dancing myconid and the music heard with Zuggtmoy.",
+    "source_quote": "Thorin confirms that it is similar to the music of the dancing myconid and the music we heard with Zuggtmoy.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin asks whether we are guests or the feast.",
+    "source_quote": "Thorin asks, \"Are we guests or the feast?\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Jimjar",
+    "fact": "Jimjar mutters that he doesn't know.",
+    "source_quote": "Jimjar mutters, \"I don't know.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "the wedding",
+    "fact": "There is a wedding, but the nature of the participants' role in it is unspecified.",
+    "source_quote": "There\u2019s a wedding! I guess we arrived at the wedding!",
+    "quote_verified": true
+  }
+]

@@ -1,0 +1,1561 @@
+[
+  {
+    "type": "date",
+    "subject": "after the battle",
+    "fact": "The events described occur immediately after the party's battle with the gelatinous cubes in the Trader's Grotto, marking the beginning of the ooze crisis investigation.",
+    "source_quote": "The aftermath of the battle with the gelatinous cubes in the Trader's Grotto...",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "date",
+    "subject": "after the battle",
+    "fact": "The events described occurred immediately following the battle with the gelatinous cubes in the Trader's Grotto, setting the timeline for the party's current mission.",
+    "source_quote": "The aftermath of the battle with the gelatinous cubes in the Trader's Grotto left the party facing a crowd of questioning merchants and citizens.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "date",
+    "subject": "elapsed time",
+    "fact": "An hour passes between two events in the session.",
+    "source_quote": "Glabbagool spent about an hour clearing a passageway through the rubble",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The session occurs on the 5th day of the 2nd Tenday of Taraskh 1493 DR.",
+    "source_quote": "The aftermath of the battle with the gelatinous cubes in the Trader's Grotto",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "bet placed on adventurers' success",
+    "fact": "Jimjar placed a bet with Chief Dorbo, expressing confidence in the adventurers' success and subtly supporting their mission.",
+    "source_quote": "Jimjar, a deep gnome, placed a bet with Chief Dorbo, expressing confidence in the adventurers' success and subtly supporting their mission",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Chief Dorbo Diggermattock",
+    "fact": "Chief Dorbo agreed to the party's terms.",
+    "source_quote": "Chief Dorbo, after a moment of stunned silence, agreed to the party's terms.",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Chief Dorbo Diggermattock",
+    "fact": "Chief Dorbo called the plan the dumbest he had ever heard.",
+    "source_quote": "Chief Dorbo called the plan the dumbest he had ever heard.",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Chief Dorbo's alarm",
+    "fact": "Chief Dorbo reacted with alarm, calling the situation catastrophic.",
+    "source_quote": "Chief Dorbo reacted with alarm, calling the situation catastrophic",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Clan Meeting Decision",
+    "fact": "The gnomes held a clan meeting where Senni pushed for inclusion of the Gold Whisker clan, Daz asserted party leadership, and Chief Dorbo reluctantly agreed to the party's terms.",
+    "source_quote": "Daz seized control of the discussion... Chief Dorbo, after a moment of stunned silence, agreed to the party's terms...",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "clan meeting proposal",
+    "fact": "Senni suggested a full clan meeting, including the Stoneheart Enclave and the Miners Guild.",
+    "source_quote": "Senni suggested a full clan meeting, including the Stoneheart Enclave and the Miners Guild",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz seized control of the discussion, declaring that the party would lead the operation and solve the problem their way, demanding the gnomes' cooperation.",
+    "source_quote": "Daz seized control of the discussion, declaring that the party would lead the operation and solve the problem their way, demanding the gnomes' cooperation.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz sent his bat familiar to scout the surrounding areas.",
+    "source_quote": "Realizing that a direct confrontation with the multitude of oozes was impossible, Daz sent his bat familiar to scout the surrounding areas.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Discovery of the Pudding King",
+    "fact": "The party confirmed the Pudding King as the source of the disembodied voice and controller of the ooze army, establishing him as the central threat.",
+    "source_quote": "The party confirmed that the Pudding King was the source of the disembodied voice and the current problem, but he was surrounded by hundreds of oozes under his control.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool began behaving strangely, claiming to hear voices calling him forward.",
+    "source_quote": "As the party followed the trail, Glabbagool began behaving strangely, claiming to hear voices calling him forward.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool eagerly agreed to clear the path and expressed excitement about having a job and feeling needed.",
+    "source_quote": "Grygum suggested using Glabbagool to clear the path, and the gelatinous cube eagerly agreed, expressing excitement about having a job and feeling needed.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool indicated that the mysterious voices were coming from the south, guiding the party in that direction.",
+    "source_quote": "Glabbagool indicated that the mysterious voices were coming from the south, guiding the party in that direction.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Glabbagool Clears Passageway",
+    "fact": "Glabbagool spent about an hour clearing a passageway through rubble, impressing a gnome from mining operations and proving his utility as a tool for navigation.",
+    "source_quote": "Glabbagool spent about an hour clearing a passageway through the rubble, impressing a gnome from the mining operations who expressed interest in hiring him for future work.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum claimed the magical short sword for himself.",
+    "source_quote": "The party discovered a magical short sword in the aftermath, which Grygum claimed for himself.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum recalled that a ghost had previously mentioned Juiblex, also known as the Faceless Lord, a demon who infuses power to create chaos.",
+    "source_quote": "Grygum recalled that a ghost had previously mentioned Juiblex, also known as the Faceless Lord, a demon who infuses power to create chaos.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Jimjar",
+    "fact": "Jimjar placed a bet with Chief Dorbo, expressing confidence in the adventurers' success and subtly supporting their mission.",
+    "source_quote": "Jimjar, a deep gnome, placed a bet with Chief Dorbo, expressing confidence in the adventurers' success and subtly supporting their mission.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Ooze Crisis Resolution Plan",
+    "fact": "The party devised a plan to distract the ooze horde with a gnome army led by Grygum's speech while Zalthir infiltrates to capture the Pudding King, requiring coordination and a large-scale distraction.",
+    "source_quote": "Grygum presented the plan: he would make a motivational speech to the army, who would distract the oozes, while Zalthir captured or eliminated the Pudding King.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "ooze trail detection",
+    "fact": "Zalthir detected an ooze trail leading deeper into the caves.",
+    "source_quote": "Zalthir also detected an ooze trail leading deeper into the caves",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "party demands cooperation",
+    "fact": "Daz declared that the party would lead the operation and solve the problem their way, demanding the gnomes' cooperation.",
+    "source_quote": "Daz seized control of the discussion, declaring that the party would lead the operation and solve the problem their way, demanding the gnomes' cooperation",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "party-led operation",
+    "fact": "The party seized control of the operation to confront the ooze threat, demanding gnomish cooperation and successfully securing Chief Dorbo's agreement.",
+    "source_quote": "Daz seized control... declaring that the party would lead the operation... Chief Dorbo... agreed to the party's terms",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "pit trap detection",
+    "fact": "Zalthir detected a pit trap, allowing the party to navigate it safely.",
+    "source_quote": "Zalthir detected a pit trap, allowing the party to navigate it safely",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Pudding King's cleansing proclamation",
+    "fact": "The Pudding King is speaking of cleansing Blingdenstone.",
+    "source_quote": "who was madly holding court and speaking of cleansing Blingdenstone",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Senni Diggermattock",
+    "fact": "Senni advocated for working with the Gold Whisker clan for the common good, highlighting their abilities as an asset against oozes.",
+    "source_quote": "Senni advocated for working with the Gold Whisker clan for the common good, highlighting their abilities as an asset against oozes.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Senni Diggermattock",
+    "fact": "Senni silenced Chief Dorbo and asked if he had a better one.",
+    "source_quote": "Senni Diggermattock silenced him and asked if he had a better one.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Senni Diggermattock",
+    "fact": "Senni tasked the party with bringing the Gold Whisker clan on board to help fight the oozes.",
+    "source_quote": "Senni tasking them with bringing the Gold Whisker clan on board to help fight the oozes.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Senni silences Dorbo",
+    "fact": "Senni Diggermattock silenced Chief Dorbo and asked if he had a better plan.",
+    "source_quote": "Senni Diggermattock silenced him and asked if he had a better one",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "shadow movement demonstration",
+    "fact": "Zalthir demonstrated his ability to move through shadows as the other deep gnomes dimmed the lights.",
+    "source_quote": "Zalthir offered to demonstrate his ability. The other deep gnomes excitedly dim the lights, allowing him to showcase his agility and ability to move through shadows",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party realized that green slime covering the ceiling would fall during Zalthir's escape, posing significant danger.",
+    "source_quote": "...the party realized that green slime covering the ceiling would fall during the escape, posing significant danger.",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party realized that incapacitating the Pudding King without a coordinated effort would unleash the uncontrolled ooze army upon Blingdenstone.",
+    "source_quote": "...and that incapacitating the Pudding King without a coordinated effort would unleash the uncontrolled ooze army upon Blingdenstone.",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party understood that a large distraction would be necessary to execute the plan safely.",
+    "source_quote": "They understood that a large distraction would be necessary to execute the plan safely...",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "travel to Blingdenstone",
+    "fact": "Blingdenstone is approximately the destination of the party's mission, where the Faceless Lord is prophesied to enhance it.",
+    "source_quote": "a disembodied voice filled the cave, welcoming visitors and proclaiming the coming of a Faceless Lord to enhance Blingdenstone",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "voices from the south",
+    "fact": "Glabbagool indicated that the mysterious voices were coming from the south, guiding the party in that direction.",
+    "source_quote": "Glabbagool indicated that the mysterious voices were coming from the south, guiding the party in that direction",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir detected a pit trap, allowing the party to navigate it safely.",
+    "source_quote": "Thorin took the lead with Zalthir nearby, and Zalthir detected a pit trap, allowing the party to navigate it safely.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir detected an ooze trail leading deeper into the caves.",
+    "source_quote": "Zalthir also detected an ooze trail leading deeper into the caves.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir discovered two slimy, digested deep gnome corpses, confirming they were victims of oozes.",
+    "source_quote": "Zalthir discovered two slimy, digested deep gnome corpses, confirming they were victims of oozes.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir offered to demonstrate his ability to move through shadows.",
+    "source_quote": "Zalthir offered to demonstrate his ability.",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir persuaded Glabbagool to stay with the group, appealing to their friendship and promising protection from any corrupting forces.",
+    "source_quote": "Concerned about potential demonic influence, Zalthir persuaded Glabbagool to stay with the group, appealing to their friendship and promising protection from any corrupting forces.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir proposed using his ability to move through shadows to reach the Pudding King, grapple him, and escape.",
+    "source_quote": "Zalthir proposed using his ability to move through shadows to reach the Pudding King, grapple him, and escape...",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir Demonstrates Shadow Movement",
+    "fact": "Zalthir demonstrated his ability to move through shadows in a dimly lit chamber, convincing the deep gnomes of his capabilities and gaining their support.",
+    "source_quote": "The other deep gnomes excitedly dim the lights, allowing him to showcase his agility and ability to move through shadows.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Chamber of Commerce",
+    "fact": "The Chamber of Commerce is a merchant organization that offered the party a ten percent discount coupon as a reward for their heroism.",
+    "source_quote": "A merchant from the Chamber of Commerce offered the party a ten percent discount coupon as a reward for their heroism.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Gold Whisker Clan",
+    "fact": "The Gold Whisker Clan are wererat gnomes considered squatters by Chief Dorbo, but are recognized as valuable assets against oozes due to their abilities and resilience.",
+    "source_quote": "a group of wererat gnomes considered squatters by Chief Diggermattock... Senni advocated for working with the Gold Whisker clan for the common good, highlighting their abilities as an asset against oozes.",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Gold Whisker Clan",
+    "fact": "The Gold Whisker Clan is a group of wererat gnomes considered squatters by Chief Diggermattock, whose territory was considered as a possible route by the party.",
+    "source_quote": "considering paths through the rubble or toward the Gold Whisker Clan territory, a group of wererat gnomes considered squatters by Chief Diggermattock.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Gold Whisker clan",
+    "fact": "The Gold Whisker clan are wererat gnomes considered squatters by Chief Dorbo, but advocated as an asset against oozes by Senni and targeted for inclusion in the operation.",
+    "source_quote": "the Gold Whisker clan, the wererat gnomes he considered squatters... highlighting their abilities as an asset against oozes",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Miners Guild",
+    "fact": "The Miners Guild is a clan proposed by Senni for inclusion in a full clan meeting to address the ooze threat.",
+    "source_quote": "including the Stoneheart Enclave and the Miners Guild",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Miners Guild",
+    "fact": "The Miners Guild is a gnome organization involved in underground operations, whose members expressed interest in hiring Glabbagool for future work.",
+    "source_quote": "impressing a gnome from the mining operations who expressed interest in hiring him for future work.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Stoneheart Enclave",
+    "fact": "The Stoneheart Enclave is a clan proposed by Senni for inclusion in a full clan meeting to address the ooze threat.",
+    "source_quote": "including the Stoneheart Enclave and the Miners Guild",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Stoneheart Enclave",
+    "fact": "The Stoneheart Enclave is a gnome clan that Senni proposed to include in the full clan meeting to address the ooze crisis, indicating their status as a key faction in Blingdenstone.",
+    "source_quote": "Senni suggested a full clan meeting, including the Stoneheart Enclave and the Miners Guild.",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Blingdenstone",
+    "fact": "Blingdenstone is the target city threatened by the Pudding King's ooze army.",
+    "source_quote": "a disembodied voice filled the cave, welcoming visitors and proclaiming the coming of a Faceless Lord to enhance Blingdenstone",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Blingdenstone",
+    "fact": "The disembodied voice proclaimed the coming of a Faceless Lord to enhance Blingdenstone.",
+    "source_quote": "A disembodied voice filled the cave, welcoming visitors and proclaiming the coming of a Faceless Lord to enhance Blingdenstone.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "cave illuminated by phosphorescent lichen",
+    "fact": "The cave illuminated by phosphorescent lichen contained pools of green slime and a slime-covered throne.",
+    "source_quote": "Eventually, the familiar discovered a cave illuminated by phosphorescent lichen, with pools of green slime and a slime-covered throne.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "cavern ooze coverage",
+    "fact": "A vast cavern is filled with countless oozes covering the walls and floor, with a large spherical structure at its center held up by stone pillars.",
+    "source_quote": "They soon entered a vast cavern filled with countless oozes covering the walls and floor, with a large spherical structure at its center held up by stone pillars",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Chamber of Commerce",
+    "fact": "A merchant from the Chamber of Commerce offered the party a ten percent discount coupon as a reward for their heroism.",
+    "source_quote": "A merchant from the Chamber of Commerce offered the party a ten percent discount coupon as a reward for their heroism.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Daz's bat familiar's scouting path",
+    "fact": "The bat familiar discovered empty former Gnomish settlements and cave passages.",
+    "source_quote": "The bat explored various paths, discovering empty former Gnomish settlements and cave passages",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Former Residential Cave",
+    "fact": "A former residential cave filled with refuse and a foul stench, where the party discovered digested deep gnome corpses and an ooze trail leading deeper into the caves.",
+    "source_quote": "They soon entered a vast cavern filled with countless oozes covering the walls and floor... The party proceeded into a former residential cave filled with refuse and a foul stench.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "former residential cave",
+    "fact": "The former residential cave was filled with refuse and a foul stench.",
+    "source_quote": "The party then proceeded into a former residential cave filled with refuse and a foul stench.",
+    "quote_verified": true,
+    "passes": [
+      "sweep",
+      "temporal"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "location",
+    "subject": "Gold Whisker Clan territory",
+    "fact": "The Gold Whisker Clan territory is considered squatter land by Chief Diggermattock.",
+    "source_quote": "The party discussed their options, considering paths through the rubble or toward the Gold Whisker Clan territory, a group of wererat gnomes considered squatters by Chief Diggermattock",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Gold Whisker Clan territory",
+    "fact": "The Gold Whisker Clan territory was a group of wererat gnomes considered squatters by Chief Diggermattock.",
+    "source_quote": "The party discussed their options, considering paths through the rubble or toward the Gold Whisker Clan territory, a group of wererat gnomes considered squatters by Chief Diggermattock.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Miners Guild",
+    "fact": "The Miners Guild is proposed as a participant in the full clan meeting.",
+    "source_quote": "Senni suggested a full clan meeting, including the Stoneheart Enclave and the Miners Guild",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "path through rubble",
+    "fact": "The sergeant directed the party toward a path through rubble that would lead them to the source of the ooze problem.",
+    "source_quote": "The sergeant directed the party toward a path through rubble that would lead them to the source of the ooze problem.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "phosphorescent cave with green slime",
+    "fact": "A cave is illuminated by phosphorescent lichen, with pools of green slime and a slime-covered throne.",
+    "source_quote": "Eventually, the familiar discovered a cave illuminated by phosphorescent lichen, with pools of green slime and a slime-covered throne",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Phosphorescent Lichen Cave",
+    "fact": "A cave illuminated by phosphorescent lichen, containing pools of green slime and a slime-covered throne, discovered by the bat familiar as the Pudding King's seat of power.",
+    "source_quote": "Eventually, the familiar discovered a cave illuminated by phosphorescent lichen, with pools of green slime and a slime-covered throne.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Pudding King's Cavern",
+    "fact": "A vast cavern dominated by hundreds of oozes and a large spherical structure, with a slime-covered throne and green slime on the ceiling, serving as the lair of the Pudding King.",
+    "source_quote": "a vast cavern filled with countless oozes covering the walls and floor, with a large spherical structure at its center held up by stone pillars... On the throne sat a small gnome, the Pudding King... green slime covering the ceiling.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Pudding King's Throne Cave",
+    "fact": "The Pudding King's Throne Cave is a phosphorescent-lit cavern with pools of green slime and a slime-covered throne where the Pudding King holds court and controls the ooze army.",
+    "source_quote": "Eventually, the familiar discovered a cave illuminated by phosphorescent lichen, with pools of green slime and a slime-covered throne. On the throne sat a small gnome, the Pudding King...",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Pudding King throne elevation",
+    "fact": "The Pudding King sits on a slime-covered throne held up by stone pillars.",
+    "source_quote": "On the throne sat a small gnome, the Pudding King, who was madly holding court and speaking of cleansing Blingdenstone",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Stoneheart Enclave",
+    "fact": "The Stoneheart Enclave is proposed as a participant in the full clan meeting.",
+    "source_quote": "Senni suggested a full clan meeting, including the Stoneheart Enclave and the Miners Guild",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Trader's Grotto",
+    "fact": "The Trader's Grotto contained gelatinous cubes whose battle left the party facing a crowd of questioning merchants and citizens.",
+    "source_quote": "The aftermath of the battle with the gelatinous cubes in the Trader's Grotto left the party facing a crowd of questioning merchants and citizens.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Trader's Grotto",
+    "fact": "The Trader's Grotto is the site of a prior battle against gelatinous cubes, now filled with rubble and the aftermath of destruction, where merchants and citizens expressed concern.",
+    "source_quote": "The aftermath of the battle with the gelatinous cubes in the Trader's Grotto left the party facing a crowd of questioning merchants and citizens.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Trader's Grotto",
+    "fact": "The Trader's Grotto is the site of a prior battle with gelatinous cubes, where the party first encountered Glabbagool and discovered the magical short sword.",
+    "source_quote": "The aftermath of the battle with the gelatinous cubes in the Trader's Grotto left the party facing a crowd of questioning merchants and citizens.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Trader's Grotto",
+    "fact": "The Trader's Grotto is the site of the initial battle with gelatinous cubes.",
+    "source_quote": "The aftermath of the battle with the gelatinous cubes in the Trader's Grotto",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "vast cavern",
+    "fact": "The vast cavern was filled with countless oozes covering the walls and floor, with a large spherical structure at its center held up by stone pillars.",
+    "source_quote": "They soon entered a vast cavern filled with countless oozes covering the walls and floor, with a large spherical structure at its center held up by stone pillars.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Vast Ooze Cavern",
+    "fact": "The Vast Ooze Cavern is a massive subterranean chamber filled with oozes, a spherical stone-supported structure at its center, and the source of the disembodied voice of the Faceless Lord.",
+    "source_quote": "They soon entered a vast cavern filled with countless oozes covering the walls and floor, with a large spherical structure at its center held up by stone pillars.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "chasme count",
+    "fact": "Two slimy, digested deep gnome corpses are present, confirming they were victims of oozes.",
+    "source_quote": "Zalthir discovered two slimy, digested deep gnome corpses, confirming they were victims of oozes",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Green Slime",
+    "fact": "Green slime is a hazardous substance covering the ceiling of the Pudding King's cavern and the throne room, posing a lethal threat if disturbed during movement.",
+    "source_quote": "green slime covering the ceiling would fall during the escape, posing significant danger... pools of green slime and a slime-covered throne.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Juiblex",
+    "fact": "Juiblex, also known as the Faceless Lord, is a demon associated with oozes who infuses power to create chaos, referenced by Grygum as the source of the Pudding King's corruption.",
+    "source_quote": "Grygum recalled that a ghost had previously mentioned Juiblex, also known as the Faceless Lord, a demon who infuses power to create chaos.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Juiblex reference",
+    "fact": "Grygum recalled that a ghost had previously mentioned Juiblex, also known as the Faceless Lord, a demon who infuses power to create chaos.",
+    "source_quote": "Grygum recalled that a ghost had previously mentioned Juiblex, also known as the Faceless Lord, a demon who infuses power to create chaos",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Oozes",
+    "fact": "Oozes are amorphous, non-speaking creatures that cover the cavern walls and floor, are controlled by the Pudding King, and include green slime and digested corpses as evidence of their activity.",
+    "source_quote": "a vast cavern filled with countless oozes covering the walls and floor... Zalthir discovered two slimy, digested deep gnome corpses, confirming they were victims of oozes.",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Oozes",
+    "fact": "Oozes are amorphous, non-speaking creatures that cover the cavern walls and floor, with some under the control of the Pudding King; they are known to digest and kill deep gnomes.",
+    "source_quote": "a vast cavern filled with countless oozes covering the walls and floor... Glabbagool expressed discomfort with these oozes, noting that oozes generally do not speak... Zalthir discovered two slimy, digested deep gnome corpses, confirming they were victims of oozes.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "oozes",
+    "fact": "Oozes are the hazardous creatures against which the gnomes are unprepared and require allies and resources to combat.",
+    "source_quote": "the gnomes not being equipped to fight oozes",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Pudding King status",
+    "fact": "The Pudding King is the source of the disembodied voice and controls hundreds of oozes.",
+    "source_quote": "The party confirmed that the Pudding King was the source of the disembodied voice and the current problem, but he was surrounded by hundreds of oozes under his control",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Chief Dorbo",
+    "fact": "Chief Dorbo raised objections about the gnomes not being equipped to fight oozes and refused to include the Gold Whisker clan, whom he considered squatters, but later agreed to the party's terms after stunned silence.",
+    "source_quote": "Chief Dorbo raised objections about the gnomes not being equipped to fight oozes and needing allies and resources. ... Chief Dorbo, after a moment of stunned silence, agreed to the party's terms",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Chief Dorbo Diggermattock",
+    "fact": "Chief Dorbo Diggermattock agreed to the party's terms, with Senni tasking them with bringing the Gold Whisker clan on board to help fight the oozes.",
+    "source_quote": "Chief Dorbo, after a moment of stunned silence, agreed to the party's terms, with Senni tasking them with bringing the Gold Whisker clan on board to help fight the oozes.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Chief Dorbo Diggermattock",
+    "fact": "Chief Dorbo Diggermattock called the plan the dumbest he had ever heard, but Senni Diggermattock silenced him and asked if he had a better one.",
+    "source_quote": "Chief Dorbo called the plan the dumbest he had ever heard, but Senni Diggermattock silenced him and asked if he had a better one.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Chief Dorbo Diggermattock",
+    "fact": "Chief Dorbo Diggermattock is the leader of Blingdenstone who initially credited the adventurers for solving the ooze problem, later dismissed their plan as dumb, but was overruled by Senni.",
+    "source_quote": "Chief Dorbo reacted with alarm... Chief Dorbo called the plan the dumbest he had ever heard.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Chief Dorbo Diggermattock",
+    "fact": "Chief Dorbo Diggermattock is the leader of Blingdenstone who initially resists cooperation, dismisses the Gold Whisker clan as squatters, and calls the party's plan the dumbest he's heard, but ultimately yields to pressure.",
+    "source_quote": "Chief Dorbo reacted with alarm... Chief Dorbo called the plan the dumbest he had ever heard... Chief Dorbo refused to include the Gold Whisker clan.",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Chief Dorbo Diggermattock",
+    "fact": "Chief Dorbo Diggermattock refused to include the Gold Whisker clan, the wererat gnomes he considered squatters.",
+    "source_quote": "Dorbo refused to include the Gold Whisker clan, the wererat gnomes he considered squatters.",
+    "quote_verified": true,
+    "passes": [
+      "interiority",
+      "sweep"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "npc",
+    "subject": "Chief Dorbo Diggermattock",
+    "fact": "Chief Dorbo Diggermattock was credited by a sergeant for hiring the adventurers to solve the ooze problem, though one citizen accused him of caring only for wealth and neglecting the common people.",
+    "source_quote": "A sergeant attempted to manage the situation by crediting Chief Dorbo Diggermattock for hiring the adventurers to solve the ooze problem, though one citizen voiced discontent with the Chief, accusing him of caring only for wealth and neglecting the common people.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz attempted to investigate a pile of refuse but found nothing.",
+    "source_quote": "Daz attempted to investigate a pile of refuse but found nothing.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a party member who sent a bat familiar to scout and attempted to investigate refuse, but found nothing, indicating reliance on reconnaissance.",
+    "source_quote": "Daz attempted to investigate a pile of refuse but found nothing... Daz sent his bat familiar to scout the surrounding areas.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a party member who sent his bat familiar to scout, seized control of the clan meeting, and insisted the party lead the operation, showing initiative and tactical oversight.",
+    "source_quote": "Daz sent his bat familiar to scout the surrounding areas... Daz seized control of the discussion, declaring that the party would lead the operation and solve the problem their way.",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz seized control of the discussion, declaring that the party would lead the operation and solve the problem their way, demanding the gnomes' cooperation.",
+    "source_quote": "Daz seized control of the discussion, declaring that the party would lead the operation and solve the problem their way, demanding the gnomes' cooperation.",
+    "quote_verified": true,
+    "passes": [
+      "small",
+      "sweep"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz sent his bat familiar to scout the surrounding areas, and the bat discovered empty former Gnomish settlements and cave passages.",
+    "source_quote": "Daz sent his bat familiar to scout the surrounding areas. The bat explored various paths, discovering empty former Gnomish settlements and cave passages.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "disembodied voice",
+    "fact": "A disembodied voice filled the cave, welcoming visitors and proclaiming the coming of a Faceless Lord to enhance Blingdenstone.",
+    "source_quote": "A disembodied voice filled the cave, welcoming visitors and proclaiming the coming of a Faceless Lord to enhance Blingdenstone.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool agreed, pleased by the idea of being protected by his friends.",
+    "source_quote": "Glabbagool agreed, pleased by the idea of being protected by his friends.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool desired friends and a sense of purpose.",
+    "source_quote": "Glabbagool, the intelligent gelatinous cube traveling with the party, expressed curiosity about being hired and receiving payment, ultimately revealing that what he truly desired was friends and a sense of purpose.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool eagerly agreed, expressing excitement about having a job and feeling needed.",
+    "source_quote": "Grygum suggested using Glabbagool to clear the path, and the gelatinous cube eagerly agreed, expressing excitement about having a job and feeling needed.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool expressed discomfort with these oozes, noting that oozes generally do not speak, which he found unsettling.",
+    "source_quote": "Glabbagool expressed discomfort with these oozes, noting that oozes generally do not speak, which he found unsettling.",
+    "quote_verified": true,
+    "passes": [
+      "interiority",
+      "sweep"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "npc",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool indicated that the mysterious voices were coming from the south, guiding the party in that direction.",
+    "source_quote": "Glabbagool indicated that the mysterious voices were coming from the south, guiding the party in that direction.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool is an intelligent gelatinous cube traveling with the party who desires friendship and purpose, and has demonstrated the ability to clear passageways and respond to emotional appeals.",
+    "source_quote": "Glabbagool expressed curiosity about being hired and receiving payment, ultimately revealing that what he truly desired was friends and a sense of purpose.",
+    "quote_verified": false,
+    "passes": [
+      "large",
+      "small"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "npc",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool is an intelligent gelatinous cube who expressed curiosity about being hired and receiving payment, ultimately revealing that what he truly desired was friends and a sense of purpose.",
+    "source_quote": "Glabbagool, the intelligent gelatinous cube traveling with the party, expressed curiosity about being hired and receiving payment, ultimately revealing that what he truly desired was friends and a sense of purpose.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool spent about an hour clearing a passageway through the rubble, impressing a gnome from the mining operations who expressed interest in hiring him for future work.",
+    "source_quote": "Glabbagool spent about an hour clearing a passageway through the rubble, impressing a gnome from the mining operations who expressed interest in hiring him for future work.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum claimed for himself a magical short sword discovered in the aftermath of the battle with the gelatinous cubes.",
+    "source_quote": "The party discovered a magical short sword in the aftermath, which Grygum claimed for himself.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is a party member who claimed a magical short sword and proposed a motivational speech to distract the ooze horde, showing leadership and confidence in the plan.",
+    "source_quote": "Grygum claimed the magical short sword for himself... Grygum presented the plan: he would make a motivational speech to the army, who would distract the oozes.",
+    "quote_verified": false,
+    "passes": [
+      "large",
+      "small"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum recalled that a ghost had previously mentioned Juiblex, also known as the Faceless Lord, a demon who infuses power to create chaos.",
+    "source_quote": "Grygum recalled that a ghost had previously mentioned Juiblex, also known as the Faceless Lord, a demon who infuses power to create chaos.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum would make a motivational speech to the army, who would distract the oozes, while Zalthir captured or eliminated the Pudding King.",
+    "source_quote": "Grygum presented the plan: he would make a motivational speech to the army, who would distract the oozes, while Zalthir captured or eliminated the Pudding King.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Jimjar",
+    "fact": "Jimjar is a deep gnome who placed a bet with Chief Dorbo in favor of the adventurers, subtly endorsing their mission and boosting morale.",
+    "source_quote": "Jimjar, a deep gnome, placed a bet with Chief Dorbo, expressing confidence in the adventurers' success and subtly supporting their mission.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Jimjar",
+    "fact": "Jimjar, a deep gnome, placed a bet with Chief Dorbo, expressing confidence in the adventurers' success and subtly supporting their mission.",
+    "source_quote": "Jimjar, a deep gnome, placed a bet with Chief Dorbo, expressing confidence in the adventurers' success and subtly supporting their mission.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Pudding King",
+    "fact": "On the throne sat a small gnome, the Pudding King, who was madly holding court and speaking of cleansing Blingdenstone.",
+    "source_quote": "On the throne sat a small gnome, the Pudding King, who was madly holding court and speaking of cleansing Blingdenstone.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Pudding King",
+    "fact": "The Pudding King was madly holding court and speaking of cleansing Blingdenstone.",
+    "source_quote": "On the throne sat a small gnome, the Pudding King, who was madly holding court and speaking of cleansing Blingdenstone.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Pudding King",
+    "fact": "The party confirmed that the Pudding King was the source of the disembodied voice and the current problem, but he was surrounded by hundreds of oozes under his control.",
+    "source_quote": "The party confirmed that the Pudding King was the source of the disembodied voice and the current problem, but he was surrounded by hundreds of oozes under his control.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Senni",
+    "fact": "Senni suggested a full clan meeting including the Stoneheart Enclave and the Miners Guild, advocated for working with the Gold Whisker clan as an asset against oozes, and later tasked the party with bringing them on board.",
+    "source_quote": "Senni suggested a full clan meeting, including the Stoneheart Enclave and the Miners Guild, but Dorbo refused to include the Gold Whisker clan... Senni advocated for working with the Gold Whisker clan for the common good... Senni tasking them with bringing the Gold Whisker clan on board",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Senni Diggermattock",
+    "fact": "Senni Diggermattock advocated for working with the Gold Whisker clan for the common good, highlighting their abilities as an asset against oozes.",
+    "source_quote": "Senni advocated for working with the Gold Whisker clan for the common good, highlighting their abilities as an asset against oozes.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Senni Diggermattock",
+    "fact": "Senni Diggermattock is a gnomish authority figure who silenced Chief Dorbo and supported the adventurers' plan, showing decisive leadership.",
+    "source_quote": "Senni Diggermattock silenced him and asked if he had a better one.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Senni Diggermattock",
+    "fact": "Senni Diggermattock is a leader in Blingdenstone who advocates for unity, supports inclusion of the Gold Whisker clan, silences Dorbo, and tasks the party with securing their alliance.",
+    "source_quote": "Senni Diggermattock silenced him and asked if he had a better one... Senni advocated for working with the Gold Whisker clan for the common good... Senni tasking them with bringing the Gold Whisker clan on board.",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Senni Diggermattock",
+    "fact": "Senni Diggermattock silenced Chief Dorbo and asked if he had a better plan.",
+    "source_quote": "Senni Diggermattock silenced him and asked if he had a better one.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Senni Diggermattock",
+    "fact": "Senni Diggermattock suggested a full clan meeting, including the Stoneheart Enclave and the Miners Guild.",
+    "source_quote": "Senni suggested a full clan meeting, including the Stoneheart Enclave and the Miners Guild.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "The Pudding King",
+    "fact": "The Pudding King is a mad gnome who controls hundreds of oozes, speaks with a disembodied voice, and holds court on a slime-covered throne, believing he is cleansing Blingdenstone.",
+    "source_quote": "On the throne sat a small gnome, the Pudding King, who was madly holding court and speaking of cleansing Blingdenstone... The party confirmed that the Pudding King was the source of the disembodied voice and the current problem.",
+    "quote_verified": false,
+    "passes": [
+      "large",
+      "small"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is a party member who took the lead during the exploration of the ooze cavern and moved with Zalthir nearby, showing tactical awareness.",
+    "source_quote": "Thorin took the lead with Zalthir nearby.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin took the lead with Zalthir nearby, and Zalthir detected a pit trap, allowing the party to navigate it safely.",
+    "source_quote": "Thorin took the lead with Zalthir nearby, and Zalthir detected a pit trap, allowing the party to navigate it safely.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir discovered two slimy, digested deep gnome corpses, confirming they were victims of oozes, and also detected an ooze trail leading deeper into the caves.",
+    "source_quote": "Zalthir discovered two slimy, digested deep gnome corpses, confirming they were victims of oozes. Zalthir also detected an ooze trail leading deeper into the caves.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is a party member with the ability to move through shadows, who detected traps and ooze trails, proposed a stealth approach to capture the Pudding King, and demonstrated his abilities to gain the gnomes' trust.",
+    "source_quote": "Zalthir discovered two slimy, digested deep gnome corpses... Zalthir proposed using his ability to move through shadows to reach the Pudding King... Zalthir offered to demonstrate his ability.",
+    "quote_verified": false,
+    "passes": [
+      "large",
+      "small"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir offered to demonstrate his ability, and the other deep gnomes excitedly dimmed the lights, allowing him to showcase his agility and ability to move through shadows.",
+    "source_quote": "Zalthir offered to demonstrate his ability. The other deep gnomes excitedly dim the lights, allowing him to showcase his agility and ability to move through shadows.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir persuaded Glabbagool to stay with the group, appealing to their friendship and promising protection from any corrupting forces.",
+    "source_quote": "Concerned about potential demonic influence, Zalthir persuaded Glabbagool to stay with the group, appealing to their friendship and promising protection from any corrupting forces.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir proposed using his ability to move through shadows to reach the Pudding King, grapple him, and escape, but the party realized that green slime covering the ceiling would fall during the escape, posing significant danger.",
+    "source_quote": "Zalthir proposed using his ability to move through shadows to reach the Pudding King, grapple him, and escape, but the party realized that green slime covering the ceiling would fall during the escape, posing significant danger.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Magical Short Sword",
+    "fact": "A magical short sword was discovered in the aftermath of the battle and claimed by Grygum, serving as a symbol of his role in the party and potential weapon against the ooze horde.",
+    "source_quote": "The party discovered a magical short sword in the aftermath, which Grygum claimed for himself.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Magical Short Sword",
+    "fact": "A magical short sword was discovered in the aftermath of the battle and claimed by Grygum, though its properties have not yet been detailed.",
+    "source_quote": "The party discovered a magical short sword in the aftermath, which Grygum claimed for himself.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "magical short sword value",
+    "fact": "A magical short sword is claimed by Grygum for himself.",
+    "source_quote": "The party discovered a magical short sword in the aftermath, which Grygum claimed for himself",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "motivational speech plan",
+    "fact": "Grygum would make a motivational speech to the army to distract the oozes.",
+    "source_quote": "Grygum presented the plan: he would make a motivational speech to the army, who would distract the oozes, while Zalthir captured or eliminated the Pudding King",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Ten Percent Discount Coupon",
+    "fact": "A ten percent discount coupon from the Chamber of Commerce was offered to the party as a reward for their heroism, serving as a tangible token of gratitude.",
+    "source_quote": "A merchant from the Chamber of Commerce offered the party a ten percent discount coupon as a reward for their heroism.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Ten Percent Discount Coupon",
+    "fact": "A ten percent discount coupon was offered by a merchant from the Chamber of Commerce as a reward for the party's heroism, indicating civilian gratitude and economic recognition.",
+    "source_quote": "A merchant from the Chamber of Commerce offered the party a ten percent discount coupon as a reward for their heroism.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "ten percent discount coupon value",
+    "fact": "A ten percent discount coupon is offered as a reward for the party's heroism.",
+    "source_quote": "A merchant from the Chamber of Commerce offered the party a ten percent discount coupon as a reward for their heroism",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Glabbagool's Voices",
+    "fact": "Glabbagool began hearing mysterious voices calling him from the south, which he found unsettling, suggesting possible psychic or demonic influence targeting intelligent oozes.",
+    "source_quote": "Glabbagool began behaving strangely, claiming to hear voices calling him forward... Glabbagool indicated that the mysterious voices were coming from the south.",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "inclusion of Gold Whisker clan",
+    "fact": "The inclusion of the Gold Whisker clan in the operation remains an unresolved task, assigned by Senni to the party.",
+    "source_quote": "Senni tasking them with bringing the Gold Whisker clan on board to help fight the oozes",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Ooze Language",
+    "fact": "The oozes' ability to speak, as implied by the disembodied voice and Glabbagool's discomfort, contradicts known behavior, suggesting unnatural or demonic corruption.",
+    "source_quote": "Glabbagool expressed discomfort with these oozes, noting that oozes generally do not speak, which he found unsettling... a disembodied voice filled the cave...",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "The Faceless Lord",
+    "fact": "Juiblex, the Faceless Lord, is a demon mentioned by a ghost and referenced by Glabbagool and Grygum as the ancient force behind ooze creation and chaos, hinting at a deeper cosmic threat.",
+    "source_quote": "Grygum recalled that a ghost had previously mentioned Juiblex, also known as the Faceless Lord, a demon who infuses power to create chaos... a disembodied voice... proclaiming the coming of a Faceless Lord to enhance Blingdenstone.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "The nature of the voices Glabbagool heard",
+    "fact": "The mysterious voices Glabbagool heard were never identified, though they guided the party south toward the cavern of oozes.",
+    "source_quote": "As the party followed the trail, Glabbagool began behaving strangely, claiming to hear voices calling him forward... Glabbagool indicated that the mysterious voices were coming from the south...",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "The Pudding King's identity",
+    "fact": "The Pudding King is the source of the disembodied voice and the current problem, but his origin and how he gained control of the oozes are not explained.",
+    "source_quote": "On the throne sat a small gnome, the Pudding King, who was madly holding court and speaking of cleansing Blingdenstone. The party confirmed that the Pudding King was the source of the disembodied voice and the current problem...",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Voice of the Faceless Lord",
+    "fact": "A disembodied voice claiming the coming of the Faceless Lord to enhance Blingdenstone is heard throughout the cavern, suggesting a deeper demonic influence beyond the Pudding King.",
+    "source_quote": "A disembodied voice filled the cave, welcoming visitors and proclaiming the coming of a Faceless Lord to enhance Blingdenstone.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  }
+]

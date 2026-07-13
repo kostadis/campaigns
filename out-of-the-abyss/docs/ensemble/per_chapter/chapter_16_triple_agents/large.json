@@ -1,0 +1,321 @@
+[
+  {
+    "type": "npc",
+    "subject": "Errde Blackskull",
+    "fact": "Errde Blackskull is the Captain of the Stone Guards, paranoid about psychic assassins, and publicly dismisses them as folklore while privately directing investigations into the deaths of her clan members.",
+    "source_quote": "I would appreciate it if you were to look for the empty scabbard killers. My underlings have reported their presence after finding bodies with puzzling wounds.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is a determined investigator who discovered scrolls tied to Errde\u2019s goods, actively probes the mystery of the woundless deaths, and now serves as a double agent under Themberchaud while ostensibly working for the Keepers of the Flame.",
+    "source_quote": "I liked the books. They were well written.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a voracious reader of fantasy literature, believes in the existence of psychic blades from novels, and is the group\u2019s strategist who manipulates perception to navigate factional politics, claiming ties to Menzoberranzan to gain the dragon\u2019s trust.",
+    "source_quote": "Milo describes this kind of attack as a psychic blade attack. It leaves no trace.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is a pragmatic spellcaster who observes patterns in violence, confirms the existence of woundless deaths, casts area-control magic in combat, and uncovers the deception of the Duergar merchant Werz Saltbaron, who is likely an assassin.",
+    "source_quote": "Convenient.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is a giant-scarred warrior who resents dragons, refuses to accept passive subjugation, and demands clarity on the terms of his coerced allegiance to Themberchaud and the Keepers of the Flame, ultimately recognizing the group is trapped in a triple-agent web.",
+    "source_quote": "I want to be my faction.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Gartokkar",
+    "fact": "Gartokkar is the Duergar priest and Custodian of the Flame who manipulates the party into servitude under the guise of holy duty, secretly controls Themberchaud, and hides the theft of the dragon egg meant to replace him.",
+    "source_quote": "Themberchaud thinks we work for him. What Themberchaud doesn\u2019t realize is that he works for us.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Themberchaud",
+    "fact": "Themberchaud is a massive, overweight red dragon kept in captivity by the Keepers of the Flame, unaware he is being groomed for replacement, and believes himself to be the sovereign master of his agents \u2014 a delusion the priests exploit.",
+    "source_quote": "I wish to speak to them alone.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Werz Saltbaron",
+    "fact": "Werz Saltbaron is a Duergar merchant who faked an assassination attempt to gain the party\u2019s trust, later vanishes via invisibility, and was likely the target \u2014 or the assassin \u2014 in a plot tied to the Gray Ghosts and the stolen dragon egg.",
+    "source_quote": "Oh my, I was.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "The Keepers of the Flame",
+    "fact": "The Keepers of the Flame are a psionic sect in Gracklstugh that secretly control Themberchaud, manipulate agents through holy symbols and coercion, and are locked in a cold war with the Gray Ghosts over the stolen dragon egg meant to replace the current Wyrmsmith.",
+    "source_quote": "We lost face when the Gray Ghosts stole the valuable red dragon egg that would hatch Themberchaud\u2019s replacement.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "The Stone Guards",
+    "fact": "The Stone Guards are Errde Blackskull\u2019s enforcement arm, tasked with internal security, hunting the Gray Ghosts agent Droki, and suppressing knowledge of psychic assassins \u2014 a threat they believe is real but publicly deny.",
+    "source_quote": "Errde, Captain of the Stone Guards, is looking for [Droki].",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "The Gray Ghosts",
+    "fact": "The Gray Ghosts are a rogue faction that stole the dragon egg intended to replace Themberchaud, destabilizing the balance of power in Gracklstugh, and are now hunted by both the Keepers of the Flame and the Stone Guards.",
+    "source_quote": "The Gray Ghosts stole the egg and created a great disturbance in the Underdark.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Themberchaud\u2019s Agents",
+    "fact": "Themberchaud believes he has recruited the party as his personal agents, but they are unaware they are being manipulated by the Keepers of the Flame, who use his authority as cover for their own agenda \u2014 making the party unwitting triple agents.",
+    "source_quote": "Your first mission is to do whatever the Keepers of the Flame ask you to, but report to Themberchaud first.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Themberchaud",
+    "fact": "Themberchaud is a bloated, out-of-shape red dragon kept in a hoard-filled cavern, unable to hunt or survive in the wild, and unaware he is a captive pawn being prepared for replacement by the Keepers of the Flame.",
+    "source_quote": "His massive body gives the distinct impression that he is overweight, indicating eating habits that don\u2019t bode well.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Psychic Assassins",
+    "fact": "Psychic assassins are unseen killers who strike without physical wounds, leaving victims dead with no entrance or exit trauma, their method confirmed by Zalthir\u2019s observation and Daz\u2019s novel-based recognition \u2014 possibly linked to the Gray Ghosts.",
+    "source_quote": "The bodies were found with no exit wounds or entrance wounds.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Assassination Attempt on Werz Saltbaron",
+    "fact": "Two masked assassins wielding glowing weapons attacked Werz Saltbaron on the pier; the party intervened, killing the assassins, but found no weapons \u2014 only a charcoal drawing of the merchant on one corpse, suggesting he was the target \u2014 or the killer.",
+    "source_quote": "He presents it to the Duergar. 'Oh my, I was.'",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Recruitment by Themberchaud",
+    "fact": "Themberchaud forcibly recruited the party as his agents without consent, using intimidation and false authority, while the Keepers of the Flame simultaneously claimed them as their own \u2014 creating a layered deception that traps the party in triple-agent status.",
+    "source_quote": "I wish for you to be my agent. And as my agents, you will have my protection.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Revelation of the Dragon Egg Theft",
+    "fact": "Gartokkar reveals the Keepers of the Flame lost the dragon egg meant to replace Themberchaud to the Gray Ghosts, and that Themberchaud is unaware he is being groomed for replacement \u2014 a secret the party now holds.",
+    "source_quote": "The egg is for when Themberchaud moves on. His replacement.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "The Party\u2019s Triple-Agent Status",
+    "fact": "The party is now simultaneously bound \u2014 by coercion, deception, and circumstance \u2014 to the Stone Guards (Errde), the Keepers of the Flame (Gartokkar), and Themberchaud, with no clear allegiance, no escape, and no certainty of who is manipulating whom.",
+    "source_quote": "We work for the Stone Guards and the Keepers of the Flame.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "The Identity of Droki",
+    "fact": "Droki, the Gray Ghosts agent sought by both Errde and Gartokkar, remains unidentified \u2014 but the party now possesses the knowledge that he is a key to the stolen egg and the psychic assassinations.",
+    "source_quote": "We have identified an agent of the Grey Ghosts. His name is Droki.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "The Nature of Psychic Blades",
+    "fact": "The existence of psychic blades \u2014 weapons that kill without physical trace \u2014 is confirmed by multiple sources: Daz\u2019s novels, Zalthir\u2019s observations, and the woundless corpses \u2014 but their origin, creators, and connection to the Gray Ghosts remain unknown.",
+    "source_quote": "It leaves no trace.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Themberchaud\u2019s Replacement",
+    "fact": "The stolen dragon egg is the key to Themberchaud\u2019s eventual replacement \u2014 but who will hatch from it? Will it be loyal to the Keepers? Or will it break free? And what happens if Themberchaud learns the truth?",
+    "source_quote": "Eventually, the Dragon moves on because he wants to see more of the world.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Gracklstugh",
+    "fact": "Gracklstugh is a Duergar city ruled by hidden power structures: the Keepers of the Flame control Themberchaud, the Stone Guards enforce silence, and invisible assassins operate in the shadows \u2014 all while the populace remains unaware of the true rulers.",
+    "source_quote": "Having invisible ruthless guards helps.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "The Shattered Spire",
+    "fact": "The Shattered Spire is the rumored meeting place of Werz Saltbaron, possibly a front for Gray Ghost operations or a safehouse for agents \u2014 now a potential destination for the party after his cryptic invitation.",
+    "source_quote": "Come by the Shattered Spire tomorrow, and I will reward you.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "The Keepers of the Flame\u2019s Chamber",
+    "fact": "The Keepers of the Flame operate from a stone-carved chamber near the monumental cave entrance, where they manipulate the party using holy symbols, psionic authority, and the illusion of divine mandate.",
+    "source_quote": "Gartokkar hands out some gold badges.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Themberchaud\u2019s Hoard Cavern",
+    "fact": "Themberchaud\u2019s cavern is a glittering prison of gold and gems, where the dragon is pampered, sedentary, and utterly unaware he is a captive \u2014 a symbol of the Keepers\u2019 control over even the most powerful beings.",
+    "source_quote": "Sitting on top of it is a plump, overweight red dragon.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Charcoal Drawing of Werz Saltbaron",
+    "fact": "A charcoal drawing of Werz Saltbaron found on an assassin\u2019s corpse suggests he was either the target of the attack \u2014 or the one who commissioned it \u2014 deepening the mystery of his true identity.",
+    "source_quote": "He presents it to the Duergar. 'Oh my, I was.'",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Gold Badges of Themberchaud",
+    "fact": "The gold badges bearing Themberchaud\u2019s profile are both a symbol of authority and a tool of control \u2014 granting limited access to Gracklstugh while binding the wearer to the dragon\u2019s claimed patronage.",
+    "source_quote": "Give these humanoids some of the gold badges.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Holy Symbol of Laduguer",
+    "fact": "The holy symbol of Laduguer, the Duergar god of endurance and survival, is given to the party as a token of the Keepers\u2019 divine mandate \u2014 yet its presence in the hands of manipulators suggests religious authority is being weaponized.",
+    "source_quote": "Let me give you this holy symbol of Laduguer...",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Scented Candles",
+    "fact": "Scented candles found on the assassins\u2019 bodies emit a pleasant aroma \u2014 possibly used to mask other odors, induce trance states, or signal covert meetings \u2014 a subtle clue to the assassins\u2019 methods and affiliations.",
+    "source_quote": "He notices they have a pleasant smell and passes them to Thorin.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Bloodstained Gloves",
+    "fact": "Bloodstained gloves recovered from the assassins suggest direct physical contact during killings \u2014 contradicting the theory of purely psychic attacks and hinting at hybrid methods or staged evidence.",
+    "source_quote": "finds some coins, a pair of bloodstained gloves, and a box of candles.",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "10th day of the 1st Tenday of Myrtul 1493",
+    "fact": "On this day, the party\u2019s entanglement in the triple-agent web reaches critical mass: assassinations are witnessed, Themberchaud claims them as agents, Gartokkar reveals the dragon egg theft, and the true power structure of Gracklstugh is exposed.",
+    "source_quote": "The dragon roars, 'Gartokkar, come.'",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is a non-Duergar surface dweller involved in public disturbances, interference with the Duergar City Watch, and repeated questioning of Duergar authority, including the Keepers of the Flame. He is suspected of unauthorized access, association with undesirables, espionage, and possession of contraband. His actions have drawn the suspicion of Gracklstugh's authorities, who may imprison him for any perceived threat to stability.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Gartokkar",
+    "fact": "Gartokkar is a Duergar official who oversees Thorin\u2019s case and enforces city ordinances with discretionary severity. He warns Thorin that revealing the existence of the egg would be a disaster, implying he is aware of its significance and seeks its recovery, possibly to leverage it for political or personal gain.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a Duergar agent who carries a collection of official badges and instructs Thorin on their tactical use, suggesting he is involved in surveillance, access control, or covert operations within Gracklstugh. His demeanor indicates familiarity with bureaucratic manipulation and enforcement protocols.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is a cleric of Bahamut who is appalled by the treatment of Themberchaud and has aligned himself with Thorin\u2019s radical plan to use the dragon as a weapon against Gracklstugh\u2019s hierarchy. His faith positions him as a moral counterpoint to Duergar orthodoxy, and his willingness to destroy the city suggests deep disillusionment.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Duergar City Watch",
+    "fact": "The Duergar City Watch is the official law enforcement body of Gracklstugh, tasked with maintaining order and enforcing city ordinances. It is viewed as an authoritarian institution that tolerates no interference, and its authority is absolute. Thorin\u2019s attempts to influence its actions are considered obstruction.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Keepers of the Flame",
+    "fact": "The Keepers of the Flame are a powerful Duergar religious or political faction within Gracklstugh, associated with divine authority and the suppression of dissent. Thorin\u2019s repeated questioning of their motives has marked him as a threat to their doctrinal control and social hierarchy.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Gray Ghosts",
+    "fact": "The Gray Ghosts are a mysterious, possibly outlawed or hidden faction in Gracklstugh, whose existence is suspected but unconfirmed. Gartokkar demands proof of their involvement, indicating they are tied to a larger conspiracy, possibly involving the egg or Themberchaud.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Themberchaud",
+    "fact": "Themberchaud is a dragon, likely a red dragon, held in oppressive or exploitative conditions by the Duergar of Gracklstugh. Grygum\u2019s outrage at its treatment and Thorin\u2019s plan to \u2018ride it out\u2019 suggest it is not merely a beast but a sentient entity with symbolic or strategic value \u2014 possibly a prisoner, weapon, or sacred being.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "the egg",
+    "fact": "The egg is a mysterious, highly sensitive artifact sought by Gartokkar and possibly tied to Themberchaud, the Gray Ghosts, or an ancient power. Its revelation is considered catastrophic, implying it holds the key to destabilizing Gracklstugh\u2019s regime, awakening a dormant force, or exposing a forbidden truth.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "collection of badges",
+    "fact": "The collection of badges carried by Daz represents official permissions, access levels, and authority tiers within Gracklstugh\u2019s bureaucratic system. They are tools of control, used to navigate restricted zones and manipulate enforcement. Their selective use is critical to survival within the city\u2019s layered hierarchy.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Thorin\u2019s plan to ride Themberchaud",
+    "fact": "Thorin and Grygum have devised a radical plan to use Themberchaud as a weapon to escape Gracklstugh, destroying everything behind them. This plan represents a direct challenge to Duergar authority, combining rebellion, sacrilege, and strategic violence \u2014 a turning point from passive survival to active revolution.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "proof of the Gray Ghosts",
+    "fact": "The existence and activities of the Gray Ghosts remain unverified, but Gartokkar insists on proof. Their connection to the egg, Themberchaud, or the city\u2019s hidden power structures is a central unresolved mystery that could expose a conspiracy or trigger civil unrest.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Themberchaud\u2019s true nature",
+    "fact": "Whether Themberchaud is a prisoner, a weapon, a deity, or a corrupted guardian is unknown. Grygum\u2019s reverence and Thorin\u2019s willingness to weaponize it suggest it holds deeper significance than mere beasthood \u2014 its revelation could shatter Duergar dogma or awaken an ancient power.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Gracklstugh",
+    "fact": "Gracklstugh is a rigid, hierarchical Duergar city where non-Duergar are under constant suspicion, authority is absolute, and dissent is crushed. Its laws are enforced with discretion, and survival depends on navigating its bureaucracy, avoiding association with undesirables, and concealing forbidden knowledge \u2014 especially regarding the egg and Themberchaud.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Gartokkar\u2019s office",
+    "fact": "Gartokkar\u2019s office is the administrative center where Thorin\u2019s case is managed. It is a place of negotiation, threat, and subtle control \u2014 the threshold between compliance and arrest. The events outside its doors mark the transition from passive interrogation to active rebellion.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "stone giant",
+    "fact": "A deranged stone giant was involved in a public altercation with Thorin, triggering the initial charges against him. Its presence suggests either a breach in city security, a magical anomaly, or a weaponized entity \u2014 possibly connected to the Gray Ghosts or the egg.",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The events described occur during a single, tense session in Gracklstugh \u2014 a critical turning point where Thorin\u2019s survival strategy shifts from evasion to open confrontation, and the fate of the egg, Themberchaud, and the city hangs in the balance.",
+    "quote_verified": false
+  }
+]

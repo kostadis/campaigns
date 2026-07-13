@@ -1,0 +1,100 @@
+[
+  {
+    "type": "npc",
+    "subject": "Glabbagool",
+    "fact": "Glabbagool is a sentient, gentle, luminously good-natured ooze companion who survived twenty-six points of damage from Ilvara's plague and continues to endure the hazards of the cavern.",
+    "source_quote": "Glabbagool had been, from what I could tell, simply trying to participate in the ambient conversation of the battle",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Ilvara",
+    "fact": "Ilvara is the source of a plague that inflicted twenty-six points of damage on Glabbagool and continues to threaten those in the cavern.",
+    "source_quote": "Glabbagool had taken twenty-six points of damage from Ilvara's plague",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "The mage of House T'sarran",
+    "fact": "The mage of House T'sarran is a surviving opponent who retained presence of mind after the fireball and delivered a threatening observation that will likely have consequences.",
+    "source_quote": "The matron mother of House T'sarran will hear about this. She was not wrong.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Jorlan Duskryn",
+    "fact": "Jorlan Duskryn was struck by a lightning bolt and staggered across the cavern floor, a casualty of the ongoing magical conflict.",
+    "source_quote": "Jorlan Duskryn went staggering across the cavern floor",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Nym",
+    "fact": "Nym's professional frustrations found their outlet during the magical cascade, indicating active involvement in the battle's aftermath.",
+    "source_quote": "Nym's professional frustrations had found their outlet",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "The feared mage of the Ember Vanguard",
+    "fact": "The feared mage of the Ember Vanguard is the caster of the fireball and lightning bolt, standing in the smoke of his own spells, surrounded by combatants who fight because he refuses to leave.",
+    "source_quote": "The feared mage of the Ember Vanguard, standing in the smoke of his own fireball, surrounded by people who were fighting because he refused to leave.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Insect Plague",
+    "fact": "The Insect Plague is a hazard that irritated Drow warriors and was neutralized by the shaped fireball, rendering them no longer irritated.",
+    "source_quote": "The Drow warriors who had been irritated about the Insect Plague were no longer irritated about the Insect Plague",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "shaped fireball",
+    "fact": "A shaped fireball was cast around selected targets, sparing specific individuals while damaging others in the radius, and caused the cavern to go very bright.",
+    "source_quote": "I cast Fireball in a shaped arc around everything I wanted to keep. The cavern went very bright for a moment.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "lightning bolt",
+    "fact": "A lightning bolt followed the fireball, striking Jorlan Duskryn and contributing to the escalation of the magical conflict.",
+    "source_quote": "The lightning bolt that followed was not, technically, my problem.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "House T'sarran's retaliation",
+    "fact": "The threat that the matron mother of House T'sarran will hear about this is a foreshadowed consequence that is likely to matter later.",
+    "source_quote": "The matron mother of House T'sarran will hear about this. She was not wrong. That is probably going to matter later.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "purpose of the mage",
+    "fact": "The mage's refusal to leave and his resulting role as the center of conflict has led him to recognize this as what purpose feels like.",
+    "source_quote": "I find, somewhat to my own surprise, that this is what purpose feels like.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "the cavern",
+    "fact": "The cavern is the site of multiple magical explosions, ongoing combat, and the lingering effects of plague and lightning, and it became very bright during the fireball.",
+    "source_quote": "The cavern went very bright for a moment. The cavern floor was traversed by staggering combatants.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "shaped arc of fireball",
+    "fact": "The shaped arc of the fireball is a modified area spell that excludes specific individuals, allowing the mage to sculpt damage around allies and preserve targets.",
+    "source_quote": "I can reach into a Fireball and pull specific individuals out of harm's way, leaving the fire to do its work on everything else in the radius.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "The Drow warriors",
+    "fact": "The Drow warriors were irritated by the Insect Plague but were no longer irritated after the shaped fireball, indicating they were either spared or their condition changed.",
+    "source_quote": "The Drow warriors who had been irritated about the Insect Plague were no longer irritated about the Insect Plague",
+    "quote_verified": true
+  }
+]
