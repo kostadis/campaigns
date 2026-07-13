@@ -1,3 +1,9 @@
+> ⚠️ **DRAFT — temporary, not canon.** Hand-updated through **Chapter 57
+> (session 2026-06-22, "The Colloquium was well received")** for review.
+> Do NOT promote to `docs/` without checking against the authoritative
+> session record. Diffs from the live `docs/campaign_state.md` are concentrated
+> in the Candlekeep murder thread; the Underdark history is carried over verbatim.
+
 ## campaign_state.md
 
 > Campaign: Out of the Abyss → Candlekeep murder mystery
@@ -55,6 +61,7 @@
 44. **Reach Candlekeep** — Admission gained by donating five books. Scholar pairings established.
 45. **Candlekeep scholar arcs (in progress, milestones reached):** Zalthir passed the Shadow Monk trial (gained technique C); Glabbagool answered the Whispering Dome question and bonded to Zalthir as a Shadow Apprentice sidekick; Grygum founded the "Grygumite School" with Vareth; Daz uncovered the *Daz'issin* name lead with Yvenne.
 46. **Janussi murder — forensic investigation** — Cause/method established: poisoned via *midnight tears* on a book's pages; heart removed post-mortem to block resurrection; nose broken (by Daral) before death. Murder weapon book secured into evidence.
+47. **Janussi murder — the confession (Ch. 57)** — Under a *zone of truth* cast by Kalan Strongbranch (concealed outside the room), **Alkrist confessed the conspiracy**: he and **A'lai Aivenmore** planned it after their reviews; Alkrist stole *midnight tears* from the Oak Tree Apothecary, coated Daral's gift book, and re-wrapped it (nearly caught by the staffer Irony). **A'lai was "the brains."** Alkrist told **Bookwyrm** post-midnight that "the problem was solved"; she was appalled and stormed out — and went **pale-genuine-shocked** when told the heart had been removed (he knew nothing of it). Grygum's *mending* on the discarded wrapping paper proved a deliberate re-wrap (premeditation). **The whodunit is largely answered; the reckoning is not.** See Active Threads #1.
 
 ---
 
@@ -76,6 +83,8 @@
 - **Eldeth's obligation to the surface dwarves** — Closed; departed to Mithral Hall.
 - **Jimjar's true nature** — Revealed as a divine/celestial being; vanished (hinted he'll return).
 - **Janussi murder weapon & method** — Identified (midnight tears, poisoned book).
+- **Janussi murder — perpetrators (Ch. 57)** — Substantially exposed via Alkrist's confession (Alkrist + A'lai; Bookwyrm complicit in cover-up). **NOT fully closed** — the heart's location, the locket/key, and what the party DOES with the confession remain open (see Active Threads #1).
+- **Who impersonated Sylvira** — Partially addressed: the real Sylvira has an alibi (visiting her abyss-born son); a shapechanger wore her face. The caster/identity is **still unproven**; polymorph timeline doesn't fit a single 1-hour casting (GM flagged for resolution).
 
 ---
 
@@ -94,11 +103,10 @@
 | Shuushar the Awakened | Alive | Darklake (leading refugees) | Friendly (departed) |
 | Stool | Alive | With Basidia's evacuees | Friendly (departed) |
 | Rumpadump | Alive | With Basidia's evacuees | Friendly (departed) |
-| Topsy & Turvy | Unknown | Gracklstugh (presumed) | Neutral |
 | Spiderbait | Alive | Candlekeep (seeking work) | Friendly |
 | Eldeth Feldrun | Alive | En route to Mithral Hall | Strong ally; sworn to Thorin |
 | Jimjar | Missing (vanished) | Blingdenstone (last) | Friendly; divine being |
-| Glabbagool | Alive (ooze form) | With party (Zalthir's sidekick) | Loyal companion |
+| Glabbagool | Alive (ooze form) | With party (Zalthir's sidekick); served as Grygum's ad-hoc "secretary" in Ch. 57 | Loyal companion |
 | Ploopploopeen | Unknown (presumed dead) | Sloobludop (destroyed) | N/A |
 | Bloppblippodd | Dead | Sloobludop | N/A |
 | Hemeth | Unknown | Gracklstugh (last) | Neutral contact |
@@ -120,16 +128,22 @@
 | The Pudding King | Dead | Blingdenstone | N/A |
 | Nym & Kaelira Duskryn | Alive | Departed (contract fulfilled) | Mercenary; neutral |
 | House T'sarran surface spy | Imprisoned (shrunk) | Bag of holding | Hostile prisoner |
-| Janussi | Dead | Candlekeep (Shrine of Oghma) | Was murder victim |
-| Bookwyrm (First Reader) | Alive | Candlekeep | Employer; under suspicion |
-| Kalan Strongbranch | Alive (fearful) | Candlekeep | Cooperative; gave 2nd High Tower key |
-| Daral Yashenti | Alive | Candlekeep (Hearth) | Prime suspect; under watch until midnight |
-| Sylvira Sashenstar/Savikas | Alive (unwell) | Candlekeep, Infernal Fortress | Janussi's ex-lover; impersonated by shapeshifter |
-| A'lai Aivenmore | Alive | Candlekeep | Body discoverer; cooperative |
-| Fheminor Scrivenbark | Alive | Candlekeep | Not yet interviewed |
+| Janussi | Dead (murder largely solved) | Candlekeep (Shrine of Oghma) | Was murder victim |
+| **Bookwyrm (First Reader)** | Alive | Candlekeep | **PRIME REMAINING ANTAGONIST** — implicated in the cover-up; suspected of removing/hiding the heart in a magical chalice; will likely weaponize Kalan's evidentiary standard against the party |
+| **Alkrist** | Alive (confessed) | Candlekeep (Alkrist's chambers) | Self-incriminated conspirator (accessory); bronze dragonborn; **Bookwyrm's nephew**; cycled through "entrapment"/"mind control" defenses |
+| **A'lai Aivenmore** | Alive | Candlekeep | **Drow** (table call); named by Alkrist as the conspiracy's "brains"; was facing exile, not succession; party eyes him as a source of rare **Underdark intel for Daz** |
+| **Kalan Strongbranch** | Alive | Candlekeep | **Ally**; Gate Warden, *sidelined* from the case by Bookwyrm (at Janussi's instigation); cast the *zone of truth*; his methodology paper (The Threefold Proof) is the key to the case |
+| **Sylvira Savikas** | Alive (worsening abyssal plague) | Candlekeep (her quarters) | Cooperative; **framed/impersonated** (has an alibi — visiting her abyss-born son in a *Mordenkainen's Mansion* sanctuary); points at Daral Yashenti, Kazryn Nyantani, Teles Ahvoste |
+| **Daral Yashenti** | Alive | Candlekeep (Hearth) | Innocent victim — poisoned himself licking the reclaimed gift book; flattered the party for a *Lesser Restoration* (withheld pending cooperation); **party now holds the poisoned book** |
+| **Kazryn Nyantani** | Alive | Candlekeep | Suspect-of-convenience (Sylvira's claim); Janussi's former lover, resentful |
+| **Teles Ahvoste** | Alive | Candlekeep | Suspect (Sylvira's claim); ~20-year grudge over being passed over for Keeper of Tomes |
+| **Elian** | Alive | Candlekeep | **Ally**; Kalan's clerk; delivered the Threefold Proof; hints "something rotten here" — dossier at `docs/npcs/elian.md` |
+| **Jezebel** | Alive | Sylvira's quarters | Sylvira's familiar (opened the door via *mage hand*) |
+| Fheminor Scrivenbark | Alive | Candlekeep | Halfling Great Reader; not central this session |
+| Fembris Lancer | Alive | Candlekeep | Friendly scholar; gave research notes to Glabbagool; fetched Kalan for the interrogation |
+| Irony | Alive | Candlekeep | Staffer who nearly caught Alkrist at the Dead Winter tree |
 | Hollypocket | Alive | Candlekeep | Witness (interviewed) |
 | Tadric | Alive | Candlekeep (crime scene) | Cooperative |
-| Fembris Lancer | Alive | Candlekeep | Party adjutant |
 | Kei Tigersteel | Alive | Temple of Oghma, Candlekeep | Neutral |
 | Khell-Vire / Philemon / Vareth / Yvenne | Alive | Candlekeep | Scholar handlers; cooperative |
 
@@ -139,55 +153,44 @@
 
 *(Genuinely unresolved — in play now.)*
 
-1. **Janussi murder investigation (PRIMARY)** — Method established (midnight-tears poison on a book). Daral Yashenti is prime suspect but a **shapeshifter wore Sylvira's face** descending the tower at ~2–3 a.m. carrying an unneeded lantern. Daral is being watched until midnight to test his innocence. Still to trace: the stolen locket/key, who impersonated Sylvira, and Bookwyrm's pre-9 a.m. alibi. Bookwyrm is steering the party toward Sylvira and is herself "not above suspicion."
-2. **The Endless Chant / Deadwinter Prophecy** — Recurring fragments heard ("many-faced man / metal hand"; "the keeper falls, the heart is sold"). Plus a recurring **false-syncopation chant error** linked to people going mad (Eldred, Field Ward Preacher, a Daggerford scholar). Documented, not yet investigated.
-3. **Daz's true identity** — Public records sealed; heraldry appendix razored out. Lead: **Daz'issin** (Menzoberranzan diminutive); someone with archive privileges (fourth seat / ritual archive holder) struck house records. Yvenne knows more than she can officially say. Requires "other doors."
-4. **Who paid the Duskryn sisters to protect Daz?** — Unknown Menzoberranzan patron; even the sisters don't know. House T'sarran is hunting this patron, using Daz as bait.
-5. **House T'sarran surface pursuit** — Matron-directed (rules 200 years). One spy captured (in the bag); at least one other agent's fate unknown.
-6. **Dawnbringer's therapy** — Two-stage process at Candlekeep (light therapy, then grief work). In progress; refuses to be used as a religious symbol.
-7. **Elin the silent child (Daggerford)** — Non-magical condition tied to "Underdark madness bleeding upward"; said "The wells are not wells anymore." Linked to Daz's headache. No cure found.
+1. **Janussi murder — the reckoning (PRIMARY).** The conspiracy is exposed (Alkrist + A'lai; Bookwyrm complicit), but the case is **not proven and not closed**:
+   - **The heart is still missing** — Alkrist knew nothing of its removal; suspicion points at **Bookwyrm**, who knew about the **chalice** that would hide it from divination/resurrection.
+   - **The locket + High Tower key** torn from Janussi's neck remain untraced.
+   - **The Sylvira impersonator** is unproven (polymorph timeline doesn't fit one casting).
+   - **FALSE-CONFIDENCE TRAP (GM lever):** the party treats Alkrist's *zone of truth* confession as proof. By the standard of **Kalan's own methodology paper (The Threefold Proof)** — a single spell is *not* proof — it isn't. **Bookwyrm has read that paper** and can weaponize it to discredit the party and Kalan. See `notes/threads/candlekeep_false_confidence_bookwyrm_lever.md`.
+   - **Open decision:** hand the evidence to Kalan to "clean house," and/or leverage A'lai (a drow with Underdark connections) for the intel Daz needs.
+2. **The Endless Chant / Deadwinter Prophecy** — Fragments ("many-faced man / metal hand"; "the keeper falls, the heart is sold" — now partly fulfilled) plus a recurring **false-syncopation chant error** linked to people going mad (Eldred, Field Ward Preacher, a Daggerford scholar). Documented, not yet investigated.
+3. **Daz's true identity** — Public records sealed; heraldry razored out. Lead: **Daz'issin** (Menzoberranzan diminutive); Yvenne knows more than she can officially say. **A'lai may be a new "other door"** to Underdark/Menzoberranzan intel.
+4. **Who paid the Duskryn sisters to protect Daz?** — Unknown Menzoberranzan patron; House T'sarran hunts this patron, using Daz as bait.
+5. **House T'sarran surface pursuit** — Matron-directed (rules 200 years). One spy captured (in the bag); other agents' fates unknown.
+6. **Dawnbringer's therapy** — Two-stage process at Candlekeep (light therapy, then grief work). In progress.
+7. **Elin the silent child (Daggerford)** — Non-magical condition tied to "Underdark madness bleeding upward." Linked to Daz's headache. No cure found.
 8. **The note "until the Bone King sings"** — Found on Khell-Vire's desk addressed to Zalthir; origin unknown.
 9. **The necromantic pearl** — Recovered from Ilvara's fungal mass; radiates wrongness; significance unknown.
-10. **Broader demon-lord crisis** — Multiple demon lords (Demogorgon, Zuggtmoy, Juiblex) remain loose in the Underdark. Zuggtmoy's wedding to Araumycos and the source of the summoning remain unaddressed. The party left the Underdark but the crisis is ongoing.
+10. **The polymorph timeline anomaly** — The Sylvira lookalike was seen ~1 a.m. and again 2–3 a.m., exceeding a one-hour polymorph; suggests multiple castings or a more powerful working. **GM flagged for resolution.**
+11. **Broader demon-lord crisis** — Demogorgon, Zuggtmoy, Juiblex remain loose in the Underdark; Zuggtmoy's wedding to Araumycos unaddressed.
 
 ---
 
 ## Party Current Situation
 
-- **Current location:** Candlekeep, conducting the Janussi murder investigation. Base of operations: Deneir's Sanctum.
+- **Current location:** Candlekeep, having broken the Janussi murder open. Base of operations: Deneir's Sanctum.
 - **Active obligations & debts:**
-  - Solve Janussi's murder for Bookwyrm (reward: one copied book each).
+  - Decide what to do with the murder confession (hand to Kalan; pursue Bookwyrm; leverage A'lai) — reward of one copied book each still on the table; the party half-joked about "a book per suspect."
   - Holding the shrunken House T'sarran spy (custody temporary per Candlekeep).
   - Eldeth's sworn oath to advocate for Thorin's clan adoption is pending her mission's success.
+  - Owe Daral a *Lesser Restoration* (withheld to secure cooperation; "plenty of time" before midnight).
 - **Key resources & assets:**
-  - **Dawnbringer** (sentient sunblade, radiant, locking Vaultmaster scabbard) — Thorin.
-  - **Glabbagool** — ooze Shadow Apprentice sidekick (teleport in darkness, acidic strikes), carried by Zalthir.
-  - Stonespeaker Crystal (speak with animals/dead/plants), Necklace of Fireballs, Alchemy Jug, recovered spellbooks (Ebonmire's, Princess Ebonmire's), bag of holding, Entémoch's Boon (Earth Elemental summoning + stone-skin), Voucher of the Varmint (wererat recognition), assorted gems/treasure, anti-acid armor materials, Resonant Slime, Dawnbringer's lesser restoration.
-  - Both High Tower Library keys (Janussi's via missing locket — untraced; Kalan's — held by Daz, passed from Grygum before he left for the disputation, Ch. 56).
-  - The poisoned book (murder weapon) in evidence.
-- **Recent developments shaping next session:** Forensics complete; shapeshifter-as-Sylvira confirmed; Daral under midnight watch; investigation pivots to tracing the impersonator, the missing locket/key, and Bookwyrm's alibi. Daz's identity hunt requires sources beyond Candlekeep's public archive. Manshoon/Vile Darkness vault arc looms (per future prophecy echoes) but has not yet begun.
+  - **Dawnbringer** (sentient sunblade) — Thorin.
+  - **Glabbagool** — ooze Shadow Apprentice sidekick, carried by Zalthir.
+  - Stonespeaker Crystal, Necklace of Fireballs, Alchemy Jug, recovered spellbooks (Ebonmire's), bag of holding, Entémoch's Boon, Voucher of the Varmint, assorted gems/treasure, Resonant Slime.
+  - **The poisoned book** (the murder weapon — Daral reclaimed it; the party then took it from him; now in their possession).
+  - **The Threefold Proof** — Kalan's investigation-methodology memorandum, delivered by Elian (`notes/sessions/handouts/threefold_proof.md`).
+  - Both High Tower Library keys: Janussi's (via the missing locket — **untraced**) and Kalan's (held by Daz).
+- **Recent developments shaping next session:** Murder cracked but unproven; the heart/chalice and the impersonator remain open; **Bookwyrm is the live threat**, armed with the party's own methodological weakness. Daz has a fresh lever (A'lai) for his identity hunt.
 
 ---
 
 ## Tracked Items Status
 
-**Escape from Velkynvelve — drow outpost:** COMPLETED (Ch. 4). Escaped during demon attack.
-**Return to the Underdark — second expedition:** NOT FOUND IN SUMMARIES.
-**Gather components for Vizeran's ritual — dark heart talisman:** NOT FOUND IN SUMMARIES.
-**Place the dark heart talisman — final ritual setup:** NOT FOUND IN SUMMARIES.
-**Perform Vizeran's ritual — demon lord summoning:** NOT FOUND IN SUMMARIES.
-**Final battle against demon lords — Against the Demon Lords:** NOT FOUND IN SUMMARIES.
-**Jorlan's Gambit — gate left unlocked:** COMPLETED. Door left unlocked; escape succeeded.
-**Reach Sloobludop — kuo-toa settlement:** COMPLETED. Visited; later destroyed by Demogorgon.
-**Reach Gracklstugh — duergar city:** COMPLETED. Extensive operations; escaped via dragon ride/boat.
-**Reach Neverlight Grove — myconid colony:** COMPLETED. Visited twice; lost to Zuggtmoy.
-**Reach Blingdenstone — deep gnome settlement:** COMPLETED. Liberated; reopening to surface trade.
-**Reach Gravenhollow — stone giant library:** NOT FOUND IN SUMMARIES.
-**Reach Mantol-Derith — Zhentarim outpost:** NOT FOUND IN SUMMARIES.
-**Reach Menzoberranzan — City of Spiders:** NOT FOUND IN SUMMARIES (referenced only).
-**Reach the Wormwrithings — purple worm territory:** NOT FOUND IN SUMMARIES.
-**Reach the Labyrinth — maze tunnels:** NOT FOUND IN SUMMARIES.
-**Retrieve Gromph Baenre's grimoire — Sorcere:** NOT FOUND IN SUMMARIES.
-**Obtain purple worm egg — worm nursery:** NOT FOUND IN SUMMARIES.
-**Obtain beholder central eye — Vast Oblivium:** NOT FOUND IN SUMMARIES.
-**Obtain six angel feathers — Gallery of Angels:** NOT FOUND IN
+*(Unchanged from the live doc — Underdark module-waypoint checklist; see `docs/campaign_state.md` for the full "NOT FOUND IN SUMMARIES" list. Candlekeep waypoints reached: Reach Candlekeep COMPLETED.)*
